@@ -1,0 +1,1245 @@
+{
+ "bloque": "kline_01",
+ "verificado": true,
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "hebreo_palabra",
+   "titulo": "El título: de berešit a «Génesis»",
+   "contenido": "Como los nombres tradicionales de los demás libros del Pentateuco, el título «Génesis» proviene de la Versión de los Setenta. Los judíos llamaban al primer libro de la ley berešit, «en el principio», según la práctica antigua de nombrar los libros por su palabra o palabras de apertura. «Génesis» significa «origen», designación adecuada para un libro que en su conjunto es el prólogo de la historia de Israel en el AT y que, en el relato de la creación de su propio prólogo, describe los orígenes de toda la historia humana.",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "berešit",
+    "transliteracion": "bereshit",
+    "significado": "en el principio"
+   },
+   "pagina": "PDF 1 | pág. impresa 75",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Paternidad mosaica: Génesis unido al resto del Pentateuco",
+   "contenido": "La paternidad del Génesis se trata en los artículos generales del volumen («Crítica literaria del Pentateuco» y «Moisés y el Pentateuco»). Para quienes aceptan la paternidad mosaica, tienen especial importancia dos tipos de evidencia, porque Génesis no contiene una declaración explícita de su autor. La primera es la estrecha interrelación (el texto dice «interpretación») entre Génesis y el resto del Pentateuco: numerosos temas continúan del primero al último libro, de modo que los otros cuatro dependen del primero. Ejemplos: la línea genealógica de Gn 46 se reanuda en Ex 1:1 ss. y 6:14 ss.; el relato de los gemelos Esaú y Jacob y la bendición de Esaú (Gn 25 ss.) se recuerda para justificar las instrucciones a Israel sobre su encuentro con Edom (Dt 2:4 ss.; cf. Nm 20:14 ss.); y el final del Deuteronomio se asemeja al final del Génesis. Kline juzga muy poco plausible suponer que la segunda etapa (Éxodo a Deuteronomio) fuera producida independientemente, y aun por un autor más primitivo que la etapa básica (Génesis).",
+   "refs_biblicas": [
+    "Gn 46",
+    "Ex 1:1",
+    "Ex 6:14",
+    "Gn 25",
+    "Dt 2:4",
+    "Nm 20:14"
+   ],
+   "pagina": "PDF 1 | pág. impresa 75",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "Paternidad mosaica: el testimonio de Jesús y del NT",
+   "contenido": "La segunda evidencia, de especial significado, es el testimonio del NT de que Moisés es autor de toda la ley (ver especialmente Jn 1:45; 5:46-47). Las citas que Jesús y sus discípulos hacen de distintas partes del Pentateuco atribuyéndolas a Moisés indican que el Señor aceptaba la opinión dominante entre los judíos de que Moisés escribió los cinco libros de la ley. Kline rechaza la pretensión de que los autores inspirados del NT afirmaron la autoría mosaica solo de los pasajes que citan como mosaicos: eso supondría que hicieron una deliberada investigación de alta crítica que los llevó a rechazar la tradición corriente sobre Génesis (y quizá sobre partes de Éxodo a Deuteronomio), o bien que esa alta crítica que divide el Pentateuco les fue impartida por revelación especial. Ninguna de las dos presunciones le parece aceptable; por lo tanto, el NT respalda la tradición judía de la paternidad mosaica del Pentateuco, sin excluir Génesis.",
+   "refs_biblicas": [
+    "Jn 1:45",
+    "Jn 5:46-47"
+   ],
+   "pagina": "PDF 1 | pág. impresa 75",
+   "importancia": 3,
+   "postura": "Rechaza que el NT limite la autoría mosaica a los pasajes que cita; sostiene que el NT avala la autoría mosaica de todo el Pentateuco, Génesis incluido."
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Es mito Gn 1-11 por tener paralelos paganos?",
+   "contenido": "Muchos opinan que Gn 12-50 es histórico solo en una medida limitada e incierta, porque narra hechos muy anteriores a su escritura, conocidos por una tradición oral prolongada durante siglos; y consideran Gn 1-11 totalmente no histórico, por la extrema lejanía de las épocas y, sobre todo, porque se conocen paralelos en la literatura mitológica del antiguo Cercano Oriente: textos premosaicos sobre la creación del mundo, el origen de las culturas humanas, el diluvio y genealogías dinásticas pre y postdiluvianas, algunos de los cuales corresponden a Gn 1-11 incluso en la combinación y el orden general de los temas. Kline responde que es injustificado concluir que Gn 1-11 no es histórico por la mera existencia de paralelos en forma mitológica. Si los hechos de Gn 1-11 son históricos, no sorprendería que las tradiciones paganas los hubieran convertido en mito, mientras se conservaban en forma históricamente auténtica en la corriente de tradición cuyo depósito inspirado es Gn 1-11. No sabemos exactamente hasta qué punto intervino la revelación especial en preservar ese registro (en su origen, en su renovación y remodelación posteriores, incluida la etapa del Génesis), pero hay que reconocer que fue un factor prominente, sobre todo porque la transmisión continuó durante muchos miles de años.",
+   "refs_biblicas": [],
+   "pagina": "PDF 1 | pág. impresa 75",
+   "importancia": 3,
+   "postura": "Presenta la postura crítica (Gn 12-50 de historicidad incierta y Gn 1-11 como mito por sus paralelos) y la rechaza: los paralelos paganos serían versiones mitificadas de hechos reales que Génesis conserva auténticamente por revelación."
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "La Biblia entera trata Gn 1-11 como historia",
+   "contenido": "Lo decisivo a favor de que Gn 1-11 no es mitológico sino un registro genuino de historia es el testimonio del resto de la Biblia: los autores inspirados, en todas partes de las Escrituras, interpretan sin lugar a dudas el material de estos capítulos como histórico, en el mismo sentido en que interpretaban Gn 12-50, los libros de Reyes o los Evangelios.",
+   "refs_biblicas": [],
+   "pagina": "PDF 1 | pág. impresa 75",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Gn 11 enlaza la historia primitiva con Abraham",
+   "contenido": "El análisis literario lleva a la misma conclusión: ningún criterio literario de aplicación general permite calificar Gn 1-11 de no histórico, ni distinguirlo de Gn 12-50 por diferencias entre Gn 11 y Gn 12. De hecho, Gn 11 se entrelaza con los relatos anteriores y posteriores: por medio de la genealogía de Sem, la historia de Abraham y las líneas genealógicas siguientes (en Gn 12 o en el NT) quedan integradas con el «mapa» de Gn 10, el oráculo de Noé (Gn 9) y la genealogía de Adán (Gn 5). La naturaleza genealógica de este vínculo recalca que tanto los relatos anteriores como los posteriores tratan de la historia diaria y terrena, aunque al mismo tiempo también de la historia de la redención.",
+   "refs_biblicas": [
+    "Gn 5",
+    "Gn 9",
+    "Gn 10",
+    "Gn 11",
+    "Gn 12"
+   ],
+   "pagina": "PDF 1 | pág. impresa 75",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Génesis es historia plenamente confiable",
+   "contenido": "Génesis 1-50 es historia pura, y cuando la redacción de la historia es fruto de información que proviene de inspiración divina, el producto es plenamente confiable como registro histórico, por más lejos que el historiador humano haya estado de los hechos. Esta posición no permite dejar de lado las cuestiones que surgen al comparar las conclusiones de la investigación moderna en diversas ciencias con los primeros capítulos del Génesis. Kline solo se propone señalar, a lo largo del comentario, ciertos rasgos del estilo narrativo del Génesis, como el arreglo temático más que cronológico de los materiales, cuyo reconocimiento puede ayudar a evitar algunos callejones sin salida a los que ha llevado una exégesis tradicional más inflexible, y quizá contribuir a descubrir nuevas posibilidades para una fructífera interrelación entre la revelación general y la especial. También remite al comentario para los datos arqueológicos que iluminan la confiabilidad histórica de las narraciones patriarcales.",
+   "cita": "Génesis 1-50 es historia pura y cuando la redacción de la historia es fruto de una información que proviene de inspiración divina, el producto resultante es plenamente confiable como registro histórico",
+   "refs_biblicas": [],
+   "pagina": "PDF 1 | pág. impresa 75; PDF 2 | pág. impresa 76",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Polémica contra la epopeya babilónica Enuma Elish",
+   "contenido": "Moisés, al componer el Génesis, no dependía de la literatura del Cercano Oriente que presenta paralelos con él, pero tampoco la ignoraba. Cuando desarrolla deliberadamente el relato bíblico de un hecho de modo que refleje rasgos de la versión pagana, lo hace con el propósito polémico de exponer y corregir la vana sabiduría del mundo a la luz de la teología revelada. Un caso ilustrativo es la epopeya babilónica de la creación, conocida por sus palabras iniciales como Enuma Elish: su conocimiento se evidencia en el relato de la creación (Gn 1) y en el de la construcción de Babel (Gn 11), pero en ambos pasajes la visión del mundo de la epopeya es repudiada y aun ridiculizada, y con mayor eficacia precisamente en los puntos de correspondencia formal evidente.",
+   "refs_biblicas": [
+    "Gn 1",
+    "Gn 11"
+   ],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Diez secciones: «estas son las generaciones de»",
+   "contenido": "El bosquejo sigue en sus líneas principales las secciones genealógicas en que Génesis está estructurado formalmente, y sus subdivisiones buscan expresar el desarrollo del mensaje teológico del libro. Después del prólogo (1:1-2:3), Génesis se divide en diez secciones, cada una introducida por un epígrafe con la fórmula 'elleh toledot, «estas son las generaciones de» (levemente modificada en 5:1). En cinco casos los datos genealógicos constituyen una parte sustancial o aun la mayor parte de la sección (5:1 ss.; 10:1 ss.; 11:10 ss.; 25:12 ss.; 36:1 ss.). Este encuadre de toda la narración en un marco genealógico es una señal clara de que el autor quería que el relato se entendiera como historia real de hombres individuales, que fueron engendrados y engendraron. La historiografía bíblica posterior retoma esta línea, recapitula las listas del Génesis y las prolonga hasta que la línea de Adán llega a Jesús, el segundo Adán (cf. especialmente Lc 3:23-38).",
+   "refs_biblicas": [
+    "Gn 5:1",
+    "Gn 10:1",
+    "Gn 11:10",
+    "Gn 25:12",
+    "Gn 36:1",
+    "Lc 3:23-38"
+   ],
+   "hebreo": {
+    "palabra": "'elleh toledot",
+    "transliteracion": "elleh toledot",
+    "significado": "estas son las generaciones de"
+   },
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Contra la fragmentación de la hipótesis documentaria",
+   "contenido": "Uno de los mayores perjuicios de la hipótesis documentaria, al menos en su formulación clásica, es haber roto la unidad del Génesis convirtiéndolo en una serie de fragmentos sin relación, superpuestos y aun contradictorios, cuando debe verse como el desarrollo armonioso y coherente de un solo tema. Aunque se entendió que la «fórmula de generaciones» eran subdivisiones editoriales insertadas por el escritor, no se las tomó en serio. El bosquejo y el comentario de Kline intentan mostrar que Génesis posee una unidad natural y que, visto en esa unidad, las principales posiciones de los teóricos documentarios ni concuerdan con los hechos ni hacen falta como explicación.",
+   "refs_biblicas": [],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 2,
+   "postura": "Rechaza la hipótesis documentaria (en su formulación clásica) y defiende la unidad natural del Génesis, ordenada por las fórmulas toledot."
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "El pacto, tema que ordena todo el libro",
+   "contenido": "La ubicación de las distintas listas genealógicas fue determinada por el interés temático principal del libro: la relación de pacto de Dios con los hombres. Este tema aparece desde la relación original entre Dios y el hombre; el pacto fue quebrado por la caída, pero restablecido redentoramente en comunión, y finalmente concentrado en el pacto con Abraham. Al final del libro estamos en el umbral del cumplimiento mosaico del pacto con Abraham en el pacto del Sinaí y en la teocracia israelita, que era en sí misma prefiguración del reino eterno del nuevo pacto.",
+   "refs_biblicas": [],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Ramas laterales primero, línea elegida después",
+   "contenido": "Los períodos que no registran hechos que marquen épocas en la historia del pacto, y especialmente las ramas genealógicas separadas de la comunidad continua del pacto, se cubren en las secciones más breves de las diez, que consisten sustancialmente en datos genealógicos. Además, las líneas separadas se tratan regularmente primero, para dejarlas a un lado desde el comienzo, antes de presentar con más amplitud la historia del remanente elegido, receptor y portador de la revelación acumulada del pacto, y de la línea que conduce a Israel y al Mesías. El marco genealógico es así una estructura totalmente adecuada para el tema del pacto, porque Dios no administra su pacto en términos individuales atomizados, sino con su siervo junto con su familia, hasta la milésima generación de los que le aman.",
+   "cita": "Dios administra su pacto no en términos individuales atomizados, sino a su siervo junto con sus familias, aun a la milésima generación de aquellos que le aman.",
+   "refs_biblicas": [],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo del contenido de Génesis según Kline",
+   "contenido": "1:1-2:3 Prólogo (1:1-13 Los reinos de la creación; 1:14-31 La creación de los seres animados e inanimados; 2:1-3 El Rey Creador). 2:4-4:26 Las generaciones del cielo y de la tierra (2:5-25 La bienaventuranza original del hombre; 3:1-24 La entrada del pecado; 4:1-26 El hombre en el exilio). 5:1-6:8 Las generaciones de Adán (5:3-32 La genealogía del pacto: de Adán a Noé; 6:1-8 El culto del hombre). 6:9-9:29 Las generaciones de Noé (6:9-8:19 El pacto del diluvio; 8:20-9:17 El pacto postdiluviano; 9:18-27 El pacto en profecía). 10:1-11:9 Las generaciones de los hijos de Noé (10:1-32 La diáspora de las naciones; 11:1-9 La dispersión desde Babel). 11:10-26 Las generaciones de Sem. 11:27-25:11 Las generaciones de Taré (11:27-15:21 La herencia del reino de Abraham; 16:1-22:19 El heredero dinástico de Abraham; 22:20-25:11 La sucesión real). 25:12-18 Las generaciones de Ismael. 25:19-35:29 Las generaciones de Isaac (25:19-28:9 La herencia y el heredero de Isaac; 28:10-35:29 El viaje y regreso de Jacob por Siria). 36:1-37:1 Las generaciones de Esaú. 37:2-50:26 Las generaciones de Jacob (37:2-45:28 Los herederos reales de Jacob; 46:1-47:27 Los descendientes de Israel en Egipto; 47:28-50:26 La esperanza de la restauración de Israel).",
+   "refs_biblicas": [],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 3
+  },
+  {
+   "ref": "tema",
+   "tipo": "cristo_en_genesis",
+   "titulo": "La línea de Adán llega a Jesús, el segundo Adán",
+   "contenido": "La línea genealógica que enmarca toda la narración del Génesis es retomada por la historiografía bíblica posterior, que recapitula las listas del Génesis y las lleva adelante hasta que la línea de Adán queda trazada hasta Jesús, el segundo Adán (cf. especialmente Lc 3:23-38). Génesis deja a un lado las líneas laterales para seguir la del remanente elegido, la línea que conduce a Israel y al Mesías.",
+   "refs_biblicas": [
+    "Lc 3:23-38"
+   ],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1-2:3",
+   "tipo": "teologia_doctrina",
+   "titulo": "El prólogo: verdades históricas fundamentales",
+   "contenido": "El prólogo del Génesis presenta las verdades históricas que son los presupuestos necesarios para que el conocimiento humano avance válidamente. Entre sus enseñanzas normativas están el acto divino de la creación absoluta ex nihilo y una era específica y terminada de creación, dentro de la cual aparece toda la significativa variedad de habitantes de la tierra.",
+   "refs_biblicas": [],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1-2:3",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "La semana de la creación: figura poética, orden temático",
+   "contenido": "El carácter literario del prólogo limita su uso para construir modelos científicos, porque su lenguaje es el de la simple observación y tiene calidad poética, reflejada en su estructura en estrofas. Según Kline, la exégesis indica que el esquema mismo de la semana de la creación es una figura poética, y que los diversos cuadros de la historia de la creación están colocados dentro del marco de los seis días de trabajo no cronológica sino temáticamente. Para distinguir la simple descripción y la figura poética de lo que es propiamente conceptual, la única guía segura, aquí como siempre, es la comparación con el resto de la Escritura.",
+   "cita": "La exégesis indica que el esquema mismo de la semana de la creación es una figura poética y que los diversos cuadros de la historia de la creación son colocados dentro del marco de los seis días de labor no cronológicamente sino temáticamente.",
+   "refs_biblicas": [],
+   "pagina": "PDF 2 | pág. impresa 76",
+   "importancia": 3,
+   "postura": "Kline sostiene que la semana de seis días es un marco poético con arreglo temático, no una secuencia cronológica literal; la guía para distinguir figura de concepto es el resto de la Escritura."
+  },
+  {
+   "ref": "1:1-2:3",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Dos tríadas de días: reinos y reyes",
+   "contenido": "Kline divide el prólogo en 1:1-13 «Los reinos de la creación» (días primero a tercero: 1:1-5 primer día; 1:6-8 segundo; 1:9-13 tercero), 1:14-31 «La creación de los seres animados e inanimados» (días cuarto a sexto: 1:14-19; 1:20-23; 1:24-31) y 2:1-3 «El Rey Creador» (séptimo día). La primera tríada de días delinea las esferas principales del reino; la segunda recapitula la serie, con correspondencia entre los días sucesivos de cada tríada, asignando reyes a esas esferas. Así: día 1 (separación de la luz y las tinieblas, ciclo del día y la noche) con día 4 (las luminarias que señorean el día y la noche); día 2 (separación de las aguas: cielo atmosférico y aguas) con día 5 (peces del mar y aves del aire, que dominan esas esferas); día 3 (tierra seca con su vegetación) con día 6 (los seres de la tierra y el hombre, a quienes se da la vegetación en vv. 29-30). La ausencia de la fórmula de tarde y mañana en el séptimo día lo distingue como estado de consumación sin fin.",
+   "refs_biblicas": [],
+   "pagina": "PDF 2 | pág. impresa 76; PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Declaración independiente o título del capítulo?",
+   "contenido": "El estilo hebreo simple y categórico del prólogo favorece ver el v. 1 como una declaración independiente. Si «el principio» denotara todo el período de la creación, el versículo debería considerarse un encabezamiento o resumen, y entonces el capítulo 1 no tendría por qué hacer una afirmación específica sobre el origen absoluto del mundo. Sin embargo, Pr 8:22-23 y Jn 1:1 apoyan la interpretación de que «el principio» es el comienzo de la historia de los siete días; «creó Dios» describiría, pues, la creación absoluta ex nihilo.",
+   "refs_biblicas": [
+    "Pr 8:22-23",
+    "Jn 1:1"
+   ],
+   "pagina": "PDF 2 | pág. impresa 76; PDF 3 | pág. impresa 77",
+   "importancia": 3,
+   "postura": "Expone la lectura de 1:1 como título o resumen de todo el capítulo y prefiere leerlo como declaración independiente sobre el comienzo de la historia de los siete días: la creación absoluta de la nada (apoyado en Pr 8:22-23 y Jn 1:1)."
+  },
+  {
+   "ref": "1:1",
+   "tipo": "hebreo_palabra",
+   "titulo": "Bara: el verbo de la creación",
+   "contenido": "En coherencia con el uso del verbo hebreo bara («creó»), la actividad es divina y el producto es extraordinaria o maravillosamente nuevo.",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "bara",
+    "transliteracion": "bara",
+    "significado": "crear: actividad divina cuyo producto es extraordinaria o maravillosamente nuevo"
+   },
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1",
+   "tipo": "hebreo_palabra",
+   "titulo": "Los cielos y la tierra: la totalidad",
+   "contenido": "En esta interpretación, los cielos y la tierra se ven en su estado primitivo, no en su estado perfecto o acabado, aunque sí como una totalidad, que es la fuerza idiomática del hebreo en esos pares de términos contrastantes. Neh 9:6 sugiere la posibilidad de que el autor tenga también en mente las huestes de ángeles.",
+   "refs_biblicas": [
+    "Neh 9:6"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "explicacion_texto",
+   "titulo": "La tierra en tinieblas, destinada a ser hogar humano",
+   "contenido": "La tierra, vista aquí en su etapa de tinieblas (cf. Job 38:8 ss.), estaba destinada a ser la habitación del hombre (Is 45:18; cf. Pr 8:30-31). En la medida en que los distintos desarrollos promueven ese propósito, son considerados buenos (vv. 4, 10, 12, 18, 21, 25, 31). La presencia del Espíritu Creador se hizo evidente en los ámbitos desordenados y vacíos, que son el tema de la primera tríada de días.",
+   "refs_biblicas": [
+    "Job 38:8",
+    "Is 45:18",
+    "Pr 8:30-31"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:3",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Dijo Dios»: creación por decreto",
+   "contenido": "«Dios dijo»: el ordenamiento creativo procedió por mero decreto ejecutivo de Dios (cf. He 11:3; Jn 1:3).",
+   "refs_biblicas": [
+    "He 11:3",
+    "Jn 1:3"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4-5",
+   "tipo": "explicacion_texto",
+   "titulo": "Luz y tinieblas, alternadas en buen orden",
+   "contenido": "El fenómeno de la luz del día, conforme a los propósitos de Dios revelados en los nombres que él dio (cf. Job 38:12 ss.), no fue introducido para eliminar las tinieblas de la tierra, sino para alternarlas en el buen orden del día y la noche (cf. Sal 104:20-23).",
+   "refs_biblicas": [
+    "Job 38:12",
+    "Sal 104:20-23"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:6-8",
+   "tipo": "hebreo_palabra",
+   "titulo": "Raqia': el cielo como una vasta tienda",
+   "contenido": "«Expansión» (heb. raqia') designa al cielo según su apariencia de una vasta tienda, extendida por Dios sobre sus cámaras (cf. Sal 104:2; Pr 8:27; Is 40:22). «Separe las aguas de las aguas»: con esta separación se distinguen el cielo atmosférico y (texto ilegible en el escaneo) de la tierra; es decir, es el primer paso para ordenar las profundidades.",
+   "refs_biblicas": [
+    "Sal 104:2",
+    "Pr 8:27",
+    "Is 40:22"
+   ],
+   "hebreo": {
+    "palabra": "raqia'",
+    "transliteracion": "raqia",
+    "significado": "expansión; el cielo según su apariencia de vasta tienda extendida por Dios"
+   },
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:7",
+   "tipo": "explicacion_texto",
+   "titulo": "Las aguas de abajo y las de arriba",
+   "contenido": "Las aguas de debajo de la expansión requieren todavía una mayor reunión (cf. v. 9). Las aguas de encima son las nubes (cf. Pr 8:28) o, poéticamente, las reservas de la lluvia en los «aposentos» de Dios (Sal 104:13).",
+   "refs_biblicas": [
+    "Pr 8:28",
+    "Sal 104:13"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9-10",
+   "tipo": "explicacion_texto",
+   "titulo": "Tercer día: tierra seca y mares",
+   "contenido": "Con una nueva ordenación de la profundidad primitiva aparece la tierra seca como otro ámbito terreno (cf. Pr 8:25, 29; Sal 104:7-9). El ámbito de las aguas de abajo (cf. vv. 6-7) recibe ahora la delimitación más precisa de ser el límite de la tierra, es decir, los mares (v. 10).",
+   "refs_biblicas": [
+    "Pr 8:25",
+    "Pr 8:29",
+    "Sal 104:7-9"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:11-12",
+   "tipo": "explicacion_texto",
+   "titulo": "El divino Sembrador y la tierra que florece",
+   "contenido": "Quedan posibilitados los medios naturales para sostener la vida (cf. 2:5) cuando el divino Sembrador esparce la semilla de su palabra creativa y la tierra a sus pies estalla en verde florecimiento.",
+   "cita": "el divino Sembrador esparce la semilla de su palabra creativa y la tierra a sus pies estalla en verde florecimiento",
+   "refs_biblicas": [
+    "Gn 2:5"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:11-12",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Según su naturaleza»: las formas de vida",
+   "contenido": "«Según su naturaleza»: el establecimiento de las líneas principales de las formas de vida se atribuye a la época cerrada de los seis días (cf. vv. 21, 24, 25). Las plantas y los árboles, los dos tipos de vegetación especificados, se mencionan otra vez en la obra del sexto día (vv. 29-30), que en la estructura poética del relato se corresponde con el tercer día (cf. Sal 104:13-18).",
+   "refs_biblicas": [
+    "Sal 104:13-18"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:14-19",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Segunda tríada: reyes para las esferas del reino",
+   "contenido": "Al abrir el cuarto día, Kline explica que la primera tríada de días ha delineado las esferas principales del reino, y que la segunda tríada recapitula la serie, con correspondencia entre los días sucesivos de cada tríada, señalando reyes a esas esferas. Así, al día primero (separación de la luz y las tinieblas, v. 4, y ciclo del día y la noche, v. 5) corresponde temáticamente el día cuarto, que introduce las criaturas que Dios hizo para señorear en el día y en la noche y para separar la luz de las tinieblas.",
+   "cita": "La primera tríada ha delineado las esferas principales del reino; la segunda tríada recapitula la serie (con correspondencia entre los días sucesivos de cada tríada), señalando reyes a esas esferas.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:14-19",
+   "tipo": "explicacion_texto",
+   "titulo": "Día cuarto: el sistema cósmico del día primero",
+   "contenido": "El día primero (después del v. 1) trata de la separación de la luz y las tinieblas (v. 4) y de la producción del ciclo del día y la noche (v. 5); el día cuarto, su paralelo temático, introduce las criaturas que Dios hizo para señorear en el día y en la noche y para separar la luz de las tinieblas. El día cuarto aporta el complemento al describir el sistema cósmico en el cual se lograron los resultados descritos en el día primero. Las expresiones «sea» y «Dios hizo» se usan aquí, como en otros lugares del pasaje, para indicar hechos de originación.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:14-19",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Las luminarias existen desde el principio",
+   "contenido": "Cronológicamente, esta creación de las luminarias celestes (la obra del cuarto día) comenzó en el principio, cuando Dios creó los cielos (1:1), y continuó con el posterior remodelamiento de la tierra descrito en las tres primeras estrofas. El día cuarto aporta el complemento al describir el sistema cósmico en el cual se lograron los resultados descritos en el día primero.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3,
+   "postura": "Las luminarias no comenzaron a existir en el cuarto día: su creación comenzó en 1:1 y continuó durante el remodelamiento de la tierra de las tres primeras estrofas; el día cuarto describe el sistema cósmico que produjo los resultados del día primero."
+  },
+  {
+   "ref": "1:14-19",
+   "tipo": "contexto_historico",
+   "titulo": "Las estrellas no gobiernan el destino: sirven a Dios",
+   "contenido": "En el pensamiento pagano, las estrellas divinas controlaban el destino humano; en Génesis, las luminarias sirven al hombre como siervas de Dios, regulando el día y la noche y aportando señales con las cuales el hombre puede ordenar su vida y su trabajo (cf. Sal 104:19 ss.; Job 38:7, 31 ss.).",
+   "refs_biblicas": [
+    "Sal 104:19",
+    "Job 38:7",
+    "Job 38:31"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:20-23",
+   "tipo": "explicacion_texto",
+   "titulo": "Día quinto: peces y aves",
+   "contenido": "Aparecen los peces del mar y las aves del aire (cf. vv. 26, 28, 30), las criaturas vivientes que dominan las esferas descritas en el día segundo, su paralelo. «Produzcan las aguas» (v. 20; cf. Sal 104:25 ss.) describe la abundancia de los resultados, no el método de producción; el simple sobrenaturalismo de la obra se sugiere en la fórmula que sigue, «creó Dios». La bendición de Dios en el v. 22 está implicada en el mandato creador que imparte la capacidad de reproducción.",
+   "refs_biblicas": [
+    "Sal 104:25"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:20-23",
+   "tipo": "cronologia_fechas",
+   "titulo": "El quinto día precede parte del tercero",
+   "contenido": "Cronológicamente, la primera parte de la obra del día quinto precedió por lo menos a los últimos desarrollos descritos en el día tercero.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:24-31",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Día sexto: dos obras y su esfera",
+   "contenido": "El sexto día contiene dos obras, y ambas concluyen con el reconocimiento de que el propósito de Dios se ha cumplido (vv. 25, 31; cf. vv. 9, 11). Se corresponde con la tierra seca y su vegetación (día tercero), la esfera del sexto día, cuyo dominio exige los productos de la tierra (ver vv. 29-30).",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:24",
+   "tipo": "explicacion_texto",
+   "titulo": "«Produzca la tierra»: material terreno como matriz",
+   "contenido": "«Produzca la tierra seres vivientes» (cf. v. 12) sugiere la posibilidad de que se usara material terreno ya existente como matriz en la cual se realizó el acto creador de Dios.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "1:26",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Por qué «hagamos»? El Rey y su corte celestial",
+   "contenido": "La explicación de la forma plural de primera persona está probablemente en que el Creador habla como Rey de los cielos, acompañado de sus huestes celestiales. Cuando este lenguaje aparece en otras partes, hay espíritus ministradores cerca: 3:22, 24; 11:7 y 18:21 (cf. 18:2; 19:1); Is 6:8.",
+   "refs_biblicas": [
+    "Gn 3:22",
+    "Gn 3:24",
+    "Gn 11:7",
+    "Gn 18:21",
+    "Gn 18:2",
+    "Gn 19:1",
+    "Is 6:8"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3,
+   "postura": "Kline considera probable que el plural sea el del Rey celestial que habla rodeado de sus huestes (espíritus ministradores); no discute otras explicaciones en este punto."
+  },
+  {
+   "ref": "1:26-27",
+   "tipo": "teologia_doctrina",
+   "titulo": "La imagen de Dios: no se pierde, se orienta",
+   "contenido": "Los hombres, como los espíritus celestes, son criaturas personales y religiosas implicadas en una relación personal e histórica responsable con Dios. Esta imagen divina no se puede perder ni reducir, pero su dirección ética es reversible; asume su forma adecuada, por supuesto, en conformidad con la santa voluntad de Dios.",
+   "cita": "Esta imagen divina no se puede perder ni reducir, pero su dirección ética es reversible.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:28",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Llenad y sojuzgad»: el dominio por conquista cultural",
+   "contenido": "«Llenad la tierra, y sojuzgadla.» El dominio del hombre, el rey de rasgos divinos, comienza solo en su esfera natural, la tierra seca del tercer día, para extenderse desde allí por la conquista cultural a todos los reinos de la creación de la primera tríada de días y sobre todas las criaturas de la segunda tríada (cf. Sal 8:5-8).",
+   "refs_biblicas": [
+    "Sal 8:5-8"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "1:30",
+   "tipo": "explicacion_texto",
+   "titulo": "Plantas y animales al servicio real del hombre",
+   "contenido": "Se afirma la subordinación de los reinos animal y vegetal al servicio real del hombre, y se nota el dominio inferior de los animales sobre la vegetación.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 1
+  },
+  {
+   "ref": "1:31",
+   "tipo": "conexion_biblica",
+   "titulo": "«Bueno en gran manera»",
+   "contenido": "Para el v. 31a Kline remite a Pr 8:30-31. En su comentario de 2:18 explica que solo cuando el hombre existió como varón y hembra pudo declararse que la obra del sexto día era «buena en gran manera».",
+   "refs_biblicas": [
+    "Pr 8:30-31"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 1
+  },
+  {
+   "ref": "2:1-3",
+   "tipo": "teologia_doctrina",
+   "titulo": "El séptimo día: consumación triunfal del Creador",
+   "contenido": "«Acabó Dios» (v. 2): esta terminación de la obra de Dios asignada al séptimo día no es una nueva creación, porque se la pone en paralelo con el descanso de Dios. Tanto la culminación como el descanso se ven positivamente, como un estado diferente de triunfal consumación para el Creador. Este estado tiene un comienzo temporal pero no tiene fin, como lo indica la ausencia de la fórmula final de tarde y mañana. Kline titula esta sección «El Rey Creador».",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "2:2",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Un «día» sin fin: los días son figurativos",
+   "contenido": "Aunque el estado del séptimo día no tiene fin, se lo llama «día»; para Kline esto hace notar que los días del relato de la creación tienen sentido figurativo.",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3,
+   "postura": "Kline entiende los días de la creación en sentido figurativo, argumentando desde el séptimo día, que no tiene tarde ni mañana."
+  },
+  {
+   "ref": "2:3",
+   "tipo": "teologia_doctrina",
+   "titulo": "El reposo de Dios: promesa para el hombre",
+   "contenido": "«Bendijo Dios al día séptimo.» También la historia humana habría de ser conducida desde el trabajo comenzado hasta el trabajo concluido y perfeccionado. Al estampar el modelo de la creación en siete días como un ciclo simbólico y recurrente de la existencia del hombre, Dios extendió la promesa de entrar en el reposo divino (cf. He 4:1 ss.). El día de reposo, en particular, fue santificado para ser una fuente constante de bendición para el hombre, como señal de su esperanza eterna.",
+   "refs_biblicas": [
+    "He 4:1"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 3
+  },
+  {
+   "ref": "2:3",
+   "tipo": "aplicacion_practica",
+   "titulo": "El día de reposo: reconsagración del servicio",
+   "contenido": "A su vez, al recordar al portador de la imagen divina que siga el camino del Creador (cf. Ex 20:8-11), el día de reposo le ordena al hombre una continua reconsagración de su reinado de servicio para la gloria del Rey Creador.",
+   "refs_biblicas": [
+    "Ex 20:8-11"
+   ],
+   "pagina": "PDF 3 | pág. impresa 77",
+   "importancia": 2
+  },
+  {
+   "ref": "2:4-4:26",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Subdivisiones de «las generaciones de los cielos y la tierra»",
+   "contenido": "Kline subdivide la sección 2:4-4:26 así: 2:5-25 La bienaventuranza original del hombre (2:5-8 El hombre en el jardín de Dios; 2:9-14 La fuente de vida; 2:15-17 La ley del Señor; 2:18-25 Una esposa para el hombre); 3:1-24 La entrada del pecado (3:1-7 La transgresión de la ley; 3:8-19 Juicio de Dios; 3:20-24 Esperanza de restauración); 4:1-26 El hombre en el exilio (4:1-16 Destierro del primogénito de la humanidad; el resto del bosquejo del capítulo sigue en el bloque siguiente).",
+   "refs_biblicas": [],
+   "pagina": "PDF 3 | pág. impresa 77; PDF 4 | pág. impresa 78; PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "2:4",
+   "tipo": "hebreo_palabra",
+   "titulo": "Toledot: la historia que sigue, no otra creación",
+   "contenido": "«Estos son los orígenes» (VM «generaciones»; ver la introducción). Como el genitivo de esta fórmula es uniformemente subjetivo, la referencia no es al origen de los cielos y la tierra, sino a la secuencia que les sigue, particularmente la historia primitiva de los seres terrestres. Por eso la primera parte del versículo debe relacionarse no con el relato precedente sino con el siguiente, que por lo tanto no se presenta como otra versión de la creación.",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "toledot",
+    "transliteracion": "toledot",
+    "significado": "generaciones; con genitivo subjetivo: la historia que procede de lo nombrado, no su origen"
+   },
+   "pagina": "PDF 3 | pág. impresa 77; PDF 4 | pág. impresa 78",
+   "importancia": 3,
+   "postura": "Rechaza leer 2:4 ss. como un segundo relato (otra versión) de la creación: 2:4a encabeza la historia que sigue."
+  },
+  {
+   "ref": "2:4",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Cuando fueron creados»: una época",
+   "contenido": "«Cuando fueron creados» es literalmente «en su haber sido creados». La expresión se usa como equivalente gramatical de «cuando salieron de Egipto» (Dt 4:45; 23:4; Jos 5:4) y de «cuando, pues, hayas pasado el Jordán» (Dt 27:4, 12), para indicar una época relacionada con el hecho que la inició y le dio forma (cf. también 33:18; 35:9). La referencia de 2:4a (cf. el paralelo de 4b) es evidentemente a todo el período antediluviano, que va desde 2:4 hasta 4:25.",
+   "refs_biblicas": [
+    "Dt 4:45",
+    "Dt 23:4",
+    "Jos 5:4",
+    "Dt 27:4",
+    "Dt 27:12",
+    "Gn 33:18",
+    "Gn 35:9"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:4",
+   "tipo": "hebreo_palabra",
+   "titulo": "Elohim: Dios conocido por la creación",
+   "contenido": "«Jehová Dios» (heb. Yahweh Elohim): la combinación del genérico Elohim, «Dios», con el nombre propio Yahweh aparece repetidamente en Gn 2 y 3. Elohim se usa en Gn 1 para Dios como Creador; señala a Dios tal como es conocido por su revelación en la creación y en la providencia general, incluido el conocimiento interior e intuitivo que el hombre tiene de Dios.",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "Elohim",
+    "transliteracion": "Elohim",
+    "significado": "Dios (término genérico); Dios tal como se lo conoce por la creación y la providencia general"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:4",
+   "tipo": "hebreo_palabra",
+   "titulo": "Yahweh: el Señor del pacto es el Creador",
+   "contenido": "Desde Gn 4 se usa Yahweh solo, sin Elohim (el texto dice «Yahweh es usado sólo a partir de Gn. 4»; en Gn 2 y 3 aparece combinado con Elohim). Es el nombre personal de Dios que lo describe tal como se revela en su revelación histórica y de pacto, como el Dios que tiene un propósito escatológico y lo cumple soberanamente. La combinación de transición «Jehová Dios» en Gn 2 y 3 sirve para identificar a Yahweh, el Señor del pacto, con Dios el Creador. Estas designaciones múltiples de la deidad eran comunes en el mundo bíblico.",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "Yahweh",
+    "transliteracion": "Yahweh",
+    "significado": "nombre personal de Dios: el Señor del pacto, revelado en la historia, con propósito escatológico y cumplimiento soberano"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:5",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Antes que fuese»: negación enfática",
+   "contenido": "Algunas versiones oscurecen «toda planta del campo antes que fuese», que es un modismo hebreo que implica una negación enfática.",
+   "refs_biblicas": [],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 1
+  },
+  {
+   "ref": "2:5",
+   "tipo": "teologia_doctrina",
+   "titulo": "Sin lluvia: la vida se sostenía por medios naturales",
+   "contenido": "«Porque Jehová Dios aún no había hecho llover.» Durante la época de la creación, aunque estuvo marcada por actos de creatividad divina, la preservación de la vida se debía a medios naturales. Por eso el Creador no originó la vida vegetal antes de que hubiera agua disponible, ya fuera por un proceso de la naturaleza o por la irrigación artificial desarrollada por el hombre.",
+   "refs_biblicas": [],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:6-7",
+   "tipo": "hebreo_palabra",
+   "titulo": "'Ed: el «vapor» que comenzó a subir",
+   "contenido": "«Subía de la tierra un vapor» (preferiblemente, «comenzó a subir»). Estos versículos describen la provisión de las dos cosas que el v. 5 menciona como ausentes. El sustantivo ambiguo «vapor» (heb. 'ed) probablemente se refiere a aguas subterráneas que surgían del suelo.",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "'ed",
+    "transliteracion": "ed",
+    "significado": "vapor; probablemente aguas subterráneas que surgen del suelo"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:7",
+   "tipo": "hebreo_palabra",
+   "titulo": "Adam y adama: el hombre hecho de tierra",
+   "contenido": "«Jehová Dios formó al hombre.» El carácter único del hombre se muestra por la semejanza entre adam (hombre) y adama (tierra): el primer hombre era de la tierra, terreno (cf. 1 Co 15:47).",
+   "refs_biblicas": [
+    "1 Co 15:47"
+   ],
+   "hebreo": {
+    "palabra": "adam / adama",
+    "transliteracion": "adam / adamah",
+    "significado": "hombre / tierra"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:7",
+   "tipo": "teologia_doctrina",
+   "titulo": "El aliento de vida: creación inmediata del hombre",
+   "contenido": "El primer respiro del hombre fue el mismo aliento de vida que Dios le dio: se sugiere una intimidad en el modo de creación que concuerda con la naturaleza del hombre, que, aun siendo terreno, permanece en una relación de imagen con Dios (cf. 1:27). La criatura así animada no tenía vida previamente, y no era menos que un hombre, la imagen de Dios, que por esta acción divina inmediata comenzó a existir como ser viviente (cf. 1 Co 15:45). En cuanto al potencial escatológico del hombre, ver 1 Co 15:46 ss.",
+   "refs_biblicas": [
+    "1 Co 15:45",
+    "1 Co 15:46"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:7",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Adán no procede de un proceso subhumano",
+   "contenido": "Al comentar 2:21-22, Kline señala que Pablo interpretó el relato del origen de la mujer como historia en sentido estricto (1 Co 11:8), y que la Escritura misma da así la orientación para el enfoque exegético de estos materiales narrativos. Siguiendo esa orientación en la exégesis del relato del origen del hombre en 2:7, se nos aleja de cualquier reconstrucción teórica en la que el acto creativo que produjo a Adán se atribuya orgánicamente a algún proceso vital previo de nivel subhumano.",
+   "refs_biblicas": [
+    "1 Co 11:8"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3,
+   "postura": "Rechaza las reconstrucciones que derivan a Adán orgánicamente de un proceso vital subhumano previo; la creación del hombre fue un acto divino inmediato."
+  },
+  {
+   "ref": "2:8",
+   "tipo": "hebreo_palabra",
+   "titulo": "Edén: «deleite»",
+   "contenido": "«Había plantado un huerto» sería una traducción correcta. Edén podría ser una palabra tomada del sumero-acadio que significa «estepa», pero aquí parece ser un nombre que significa «deleite».",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "Edén",
+    "transliteracion": "eden",
+    "significado": "probablemente «deleite» (posible préstamo sumero-acadio que significa «estepa»)"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:8",
+   "tipo": "teologia_doctrina",
+   "titulo": "El jardín de Dios: santuario y vocación sacerdotal",
+   "contenido": "Como jardín de Dios (cf. Is 51:3; Ez 28:13; 31:9), el huerto era un lugar sagrado, y la posición del hombre allí implicaba una vocación sacerdotal. La preparación del jardín se desarrolla en los vv. 9-14, y la designación del hombre para el jardín en los vv. 15-17.",
+   "refs_biblicas": [
+    "Is 51:3",
+    "Ez 28:13",
+    "Ez 31:9"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:9",
+   "tipo": "teologia_doctrina",
+   "titulo": "El árbol de la vida: promesa de vida glorificada",
+   "contenido": "El jardín de Dios, la fuente de vida, sustentaba abundantemente la vida del hombre, en lo ético y en lo físico. El árbol de la vida simbolizaba la perspectiva de una vida glorificada (cf. Ap 2:7), que se alcanzaría de acuerdo con la ley probatoria del Señor (cf. vv. 15-17).",
+   "refs_biblicas": [
+    "Ap 2:7"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:9",
+   "tipo": "explicacion_texto",
+   "titulo": "El árbol de la ciencia del bien y del mal",
+   "contenido": "El árbol de la ciencia del bien y del mal, como el árbol de la vida, recibe su nombre según la finalidad para la que fue creado. Conocer el bien y el mal es estar capacitado para discernir entre dos opuestos. El contexto indica la esfera de ese discernimiento: puede ser la sensación física (cf. 2 S 19:35) o, como aquí, una experiencia ético-religiosa (cf. 1 R 3:9; He 5:14).",
+   "refs_biblicas": [
+    "2 S 19:35",
+    "1 R 3:9",
+    "He 5:14"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:10",
+   "tipo": "explicacion_texto",
+   "titulo": "El sistema de ríos riega el jardín",
+   "contenido": "El sistema de ríos mantenía bien regado el jardín (cf. Gn 13:10) y quizá ejemplifica el fenómeno del vapor ('ed) de 2:6.",
+   "refs_biblicas": [
+    "Gn 13:10"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 1
+  },
+  {
+   "ref": "2:11-14",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Los cuatro ríos: geografía real",
+   "contenido": "El interés de la narración por la historia terrena real es evidente en las notas geográficas, especialmente en los conocidos Hidekel (es decir, el Tigris) y Éufrates (v. 14). El Pisón («Derrame») y el Gihón («Engañador», así en el texto) no son conocidos, lo que sugiere la posibilidad de grandes cambios en la tierra entre Adán y Moisés. La fertilidad del Edén y los tesoros de sus alrededores cumplían la promesa de su nombre (cf. v. 8) y manifestaban el favor de Dios.",
+   "refs_biblicas": [],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:15",
+   "tipo": "hebreo_palabra",
+   "titulo": "Labrar y guardar: šamar, custodiar el santuario",
+   "contenido": "El v. 15 recapitula el v. 8 agregando el mandato al hombre. La sujeción de la tierra (cf. 1:28) comienza con el cultivo del jardín. «Guardase» es quizá un término ritual: guardar la santidad de la morada de Dios; cf. el uso del mismo verbo šamar en 3:24; Neh 13:22; Zac 3:7.",
+   "refs_biblicas": [
+    "Gn 1:28",
+    "Gn 3:24",
+    "Neh 13:22",
+    "Zac 3:7"
+   ],
+   "hebreo": {
+    "palabra": "šamar",
+    "transliteracion": "shamar",
+    "significado": "guardar; quizá en sentido ritual: custodiar la santidad de la morada de Dios"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:16",
+   "tipo": "teologia_doctrina",
+   "titulo": "La ley del Señor, una delicia",
+   "contenido": "«Mandó al hombre.» Para los verdaderos siervos del pacto, la ley del Señor es una delicia (cf. Sal 1:2); ella daba orientación al estado original de bienaventuranza del hombre.",
+   "refs_biblicas": [
+    "Sal 1:2"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:17",
+   "tipo": "teologia_doctrina",
+   "titulo": "La prueba: camino hacia el árbol de la vida",
+   "contenido": "El árbol de la ciencia, como punto focal de la prueba, estaba en el camino de Adán hacia el árbol de la vida, el sello sagrado de la consumación declarada de la bendición. «Morirás»: aunque el verdadero propósito de la prueba era para vida, la ley del pacto de Dios ponía a Adán, como lo hizo con Israel tiempo después, ante la vida y el bien, la muerte y el mal (cf. Dt 30:15 ss.).",
+   "refs_biblicas": [
+    "Dt 30:15"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:18",
+   "tipo": "explicacion_texto",
+   "titulo": "«No es bueno»: faltaban varón y mujer",
+   "contenido": "«No es bueno.» Solo cuando el hombre existió como varón y hembra pudo declararse que la obra del sexto día era «buena en gran manera» (cf. 1:27, 31), porque solo entonces el programa cultural ordenado por Dios podía desarrollarse en su plenitud genealógica (cf. 1:28a).",
+   "refs_biblicas": [
+    "Gn 1:27",
+    "Gn 1:31",
+    "Gn 1:28"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:18",
+   "tipo": "hebreo_palabra",
+   "titulo": "Ayuda idónea (kenegdo): reina, no esclava",
+   "contenido": "«Ayuda»: la mujer fue hecha para el hombre (cf. 1 Co 11:9), pero no como su esclava, sino como su reina. «Idónea» (heb. kenegdo) sugiere primariamente correspondencia, similitud (cf. vv. 20, 23); así como el hombre es hecho a la imagen y gloria de Dios, la mujer es gloria del hombre (1 Co 11:7).",
+   "cita": "La mujer fue hecha para el hombre (cf. 1 Co. 11:9), pero no como su esclava, sino como su reina.",
+   "refs_biblicas": [
+    "1 Co 11:9",
+    "1 Co 11:7"
+   ],
+   "hebreo": {
+    "palabra": "kenegdo",
+    "transliteracion": "kenegdo",
+    "significado": "idónea; primariamente correspondencia, similitud"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:19",
+   "tipo": "explicacion_texto",
+   "titulo": "«Había formado»: cómo traducir el v. 19",
+   "contenido": "Kline indica que debe leerse «entonces... Dios había formado», y que así puede y debe traducirse el hebreo (cf. v. 8, donde propone «había plantado»).",
+   "refs_biblicas": [],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:20",
+   "tipo": "teologia_doctrina",
+   "titulo": "Adán pone nombres: rey, sacerdote y profeta",
+   "contenido": "«Puso Adán nombre.» La actividad de Dios de poner nombres (1:5, 8, 10), por la cual asignó su significado a los reinos de la creación, fue imitada por el hombre al dar a las criaturas la interpretación de un nombre. Así se agrega una función profética a los aspectos reales y sacerdotales del papel del hombre en el reino de Dios.",
+   "refs_biblicas": [
+    "Gn 1:5",
+    "Gn 1:8",
+    "Gn 1:10"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:21-22",
+   "tipo": "explicacion_texto",
+   "titulo": "El sueño profundo: un velo nupcial",
+   "contenido": "El sueño profundo no fue tanto un anestésico para el hombre como un velo en cuanto a la mujer, mientras ella era preparada para ser presentada como desposada para su casamiento.",
+   "refs_biblicas": [],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:21-22",
+   "tipo": "conexion_biblica",
+   "titulo": "Pablo lee el origen de la mujer como historia",
+   "contenido": "Pablo interpretó este relato del origen de la mujer como historia en sentido estricto, al observar que «el varón no procede de la mujer, sino la mujer del varón» (1 Co 11:8). La Escritura misma nos provee así la orientación que debe seguirse en el enfoque exegético de los materiales narrativos de este pasaje.",
+   "refs_biblicas": [
+    "1 Co 11:8"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:23",
+   "tipo": "hebreo_palabra",
+   "titulo": "Varón y varona: 'iš e 'iššah",
+   "contenido": "«Varona, porque del varón fue tomada.» La relación entre 'iš e 'iššah (hombre y mujer) refleja la interpretación del nombre original de la mujer y, de allí, su relación con el hombre (cf. vv. 18b, 20).",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "'iš / 'iššah",
+    "transliteracion": "ish / ishah",
+    "significado": "varón / varona (hombre / mujer)"
+   },
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 2
+  },
+  {
+   "ref": "2:24",
+   "tipo": "teologia_doctrina",
+   "titulo": "Una sola carne: el matrimonio, directiva divina",
+   "contenido": "«Serán una sola carne.» Varón y mujer tienen su origen en la única carne de Adán y, aun separados en la correlación varón-hembra, son de una misma clase; llegan a ser una sola carne en un nuevo sentido cuando Dios los une en matrimonio (cf. Mt 19:4 ss.). Este versículo es una directiva divina.",
+   "refs_biblicas": [
+    "Mt 19:4"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "2:25",
+   "tipo": "conexion_biblica",
+   "titulo": "Desnudos sin vergüenza: ver 3:7",
+   "contenido": "Kline remite a 3:7, donde explica el juego de palabras entre «desnudos» ('arummim, 2:25) y «astuta» ('arum, 3:1) y cómo, tras la caída, la vergüenza por la desnudez física manifestó la desnudez interior.",
+   "refs_biblicas": [
+    "Gn 3:7"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 1
+  },
+  {
+   "ref": "3:1",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Una serpiente literal?",
+   "contenido": "A menos que toda la historia de la caída y del paraíso se vea como alegoría u otra forma no histórica, lo cual no tiene apoyo en el resto de la Escritura (ver la introducción), nada en el contexto sugiere que la serpiente no deba interpretarse literalmente. Las comparaciones con otras criaturas reales y los términos del juicio divino (3:14) son indicios de una intención literal.",
+   "refs_biblicas": [
+    "Gn 3:14"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3,
+   "postura": "Rechaza la lectura alegórica o no histórica del relato de la caída; toma a la serpiente como un animal real usado por Satanás."
+  },
+  {
+   "ref": "3:1",
+   "tipo": "teologia_doctrina",
+   "titulo": "La serpiente, instrumento de Satanás",
+   "contenido": "La serpiente era el instrumento de Satanás, quien convirtió la oportunidad de prueba dada por Dios en un camino de tentación (cf. Mt 13:38-39; Jn 8:44; Ro 16:20; 1 Jn 3:8; Ap 12:9). «Astuta»: el movimiento camuflado y sinuoso de la serpiente la hacía simbólicamente apta como medio para las argucias del diablo.",
+   "refs_biblicas": [
+    "Mt 13:38-39",
+    "Jn 8:44",
+    "Ro 16:20",
+    "1 Jn 3:8",
+    "Ap 12:9"
+   ],
+   "pagina": "PDF 4 | pág. impresa 78",
+   "importancia": 3
+  },
+  {
+   "ref": "3:2-3",
+   "tipo": "teologia_doctrina",
+   "titulo": "Eva discute con la serpiente: juez autónomo",
+   "contenido": "Al enredarse en una discusión apologética con la serpiente desafiante, la mujer aceptó la violación satánica de la ley del reinado de Dios, en el cual todas las cosas habían sido puestas bajo la autoridad humana; con ello se rindió a la autoridad usurpada de Satanás. Habló en defensa de Dios, pero no como testigo fiel sino como juez autónomo. Aunque Eva ya había tropezado, la caída completa del hombre no fue solo consecuencia del engaño de la mujer sino también de la transgresión del hombre (v. 6b).",
+   "cita": "Habló en defensa de Dios, pero sin embargo, no como un fiel testigo, sino como un juez autónomo.",
+   "refs_biblicas": [],
+   "pagina": "PDF 4 | pág. impresa 78; PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:4",
+   "tipo": "explicacion_texto",
+   "titulo": "«No moriréis»: Satanás contradice las sanciones",
+   "contenido": "«No moriréis.» Primero Satanás había desafiado las estipulaciones de la ley del pacto, la norma de Dios para el presente; ahora contradice sus sanciones, la interpretación de Dios sobre el futuro.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:5",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Seréis como Dios»: Dios presentado como mentiroso",
+   "contenido": "«Sabe Dios que... seréis como Dios.» De un golpe Satanás reinterpretó a Dios como un demonio, un mentiroso lleno de celoso orgullo, y el camino de la maldición se convirtió en camino de bendición. Al desviar la atención de la dirección espiritual de la semejanza del hombre con Dios, el tentador redujo esa semejanza a un asunto meramente formal y existencial de eminencia, según una supuesta escala del ser: ser como Dios.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:6",
+   "tipo": "conexion_biblica",
+   "titulo": "Tomó, comió y dio: el pecado entra al mundo",
+   "contenido": "«Tomó... y comió»: como expresión de su desconfianza en Dios y de su consentimiento a la teología satánica, la mujer se arriesgó a la amenaza divina. «Y dio» (cf. 1 Ti 2:14): ¡de apologista de Dios a propagandista del diablo! «El cual comió»: por esta desobediencia de un hombre, el pecado entró en el mundo y la muerte pasó a todos los hombres (cf. Ro 5:12 ss.).",
+   "cita": "¡De apologista de Dios a propagandista del diablo!",
+   "refs_biblicas": [
+    "1 Ti 2:14",
+    "Ro 5:12"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:7",
+   "tipo": "hebreo_palabra",
+   "titulo": "Desnudos ('erummim) y astuta ('arum): juego de palabras",
+   "contenido": "«Conocieron que estaban desnudos.» La semejanza entre 'erummim («desnudos»; cf. 'arummim en 2:25) y 'arum («astuta», 3:1) sugiere un juego de palabras: la clase de semejanza con Dios que resultó de seguir el consejo de la serpiente era, religiosamente, una semejanza demoníaca. El sentido de vergüenza asociado a la desnudez física (cf. 2:25) manifestó la conciencia de la desnudez interior: el despojo de la gloria de la santidad del alma.",
+   "refs_biblicas": [
+    "Gn 2:25",
+    "Gn 3:1"
+   ],
+   "hebreo": {
+    "palabra": "'erummim / 'arum",
+    "transliteracion": "erummim / arum",
+    "significado": "desnudos / astuta"
+   },
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:7",
+   "tipo": "teologia_doctrina",
+   "titulo": "Delantales: remedios humanos que frustran",
+   "contenido": "«Se hicieron delantales.» El pecado había desviado la inventiva humana hacia un camino de remedios frustrantes. (En 3:21 Kline contrasta este esfuerzo con la provisión de Dios: la vergüenza, como problema religioso, no podía cubrirse con el propio esfuerzo.)",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:8-19",
+   "tipo": "estructura_bosquejo",
+   "titulo": "El juicio de Dios: interrogatorio y veredicto",
+   "contenido": "El Señor del pacto instituyó su juicio contra sus vasallos infieles: comenzó con el interrogatorio (vv. 8-13) y siguió de inmediato con el veredicto (vv. 14-19). La justicia divina no podía ser negada, pero también estuvo allí la maravilla única de un triunfo de la misericordia sobre la justicia (cf. v. 15).",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:8",
+   "tipo": "teologia_doctrina",
+   "titulo": "Dios que se paseaba: teofanía en forma humana",
+   "contenido": "«Dios que se paseaba»: la teofanía en forma humana era evidentemente un modo especial de revelación en el principio.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:8",
+   "tipo": "explicacion_texto",
+   "titulo": "Se escondieron: el terror anticipa el veredicto",
+   "contenido": "«Se escondieron.» ¡Como si los culpables pudieran encontrar refugio ante Dios en el santuario de Dios! Su propio terror los condenó, porque en una confrontación así con el Juez divino la reacción del corazón revela la verdad y anticipa el veredicto (cf. Ap 6:15-16).",
+   "refs_biblicas": [
+    "Ap 6:15-16"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:10",
+   "tipo": "explicacion_texto",
+   "titulo": "«Estaba desnudo»: una media verdad evasiva",
+   "contenido": "«Porque estaba desnudo.» Era una evasiva, una media verdad. El sentido de desnudez de Adán era, como su temor, una mala consecuencia de su rebelión.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:11-12",
+   "tipo": "explicacion_texto",
+   "titulo": "«La mujer que me diste»: culpar a Dios",
+   "contenido": "Cuando Dios cortó su subterfugio, exponiendo el hecho de la desobediencia como la base del mal (cf. v. 17), el pecador evitó confesar su culpa recurriendo al blasfemo expediente de condenar virtualmente a Dios por su caída: «la mujer que me diste».",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:13",
+   "tipo": "explicacion_texto",
+   "titulo": "La mujer culpa a la serpiente",
+   "contenido": "La mujer trata de absolverse de la culpa señalando con el dedo a la astuta serpiente.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 1
+  },
+  {
+   "ref": "3:14",
+   "tipo": "teologia_doctrina",
+   "titulo": "Para Satanás no hay juicio, solo maldición",
+   "contenido": "«Maldita serás.» Para Satanás no hay juicio: solo la enunciación de la maldición. El instrumento de Satanás, que se desliza, pasa a ser un símbolo de la humillación y la condenación.",
+   "cita": "Para Satanás no hay juicio: sólo la enunciación de la maldición.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:14",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«Entre»: ¿separada de, o más que?",
+   "contenido": "«Entre» (literalmente «de») ha sido entendido por algunos como «separada de», pero el uso normal de esta preposición indica que es preferible aquí el sentido comparativo «más que» (maldita más que todas las bestias).",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 1,
+   "postura": "Algunos traducen «separada de»; Kline prefiere el sentido comparativo «más que», por ser el uso normal de la preposición."
+  },
+  {
+   "ref": "3:15",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Pondré enemistad»: Dios revierte la lealtad",
+   "contenido": "«Pondré enemistad entre ti y la mujer.» La lealtad que recientemente había sido transferida a Satanás sería revertida una vez más: Dios efectuará soberanamente una reconciliación consigo mismo.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:15",
+   "tipo": "teologia_doctrina",
+   "titulo": "Las dos simientes: hijos de la fe y del diablo",
+   "contenido": "«Entre tu simiente y la simiente suya.» Más allá de la mujer está toda la familia de la verdadera humanidad, que llega a ser su descendencia espiritual por la fe y estará en continuo conflicto con aquellos descendientes de Adán que persistentemente manifiesten su filiación satánica (cf. Jn 8:33, 44). Estos se identifican con el diablo en la batalla y así participan también de su perdición definitiva.",
+   "refs_biblicas": [
+    "Jn 8:33",
+    "Jn 8:44"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:15",
+   "tipo": "cristo_en_genesis",
+   "titulo": "El campeón individual que hiere la cabeza",
+   "contenido": "«Ésta te herirá en la cabeza, y tú le herirás en el calcañar.» Este «tú», aunque situado en el futuro remoto, apunta más allá de la serpiente misma, hasta Satanás. Este enfoque en un solo individuo de un lado, en relación con el encuentro decisivo final, sugiere que tampoco del otro lado se trata de la simiente de la mujer en sentido colectivo, sino de su campeón individual. Como el versículo desarrolla la condena de Satanás recién declarada, el contraste entre la herida en la cabeza y la del calcañar es que la primera es fatal y la segunda no. Sin embargo, queda claro que la victoria redentora implicará sufrimiento.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3,
+   "postura": "La simiente que hiere la cabeza no es la descendencia colectiva de la mujer sino un campeón individual, que vence de manera fatal a Satanás aunque sufriendo él mismo una herida no fatal."
+  },
+  {
+   "ref": "3:16-19",
+   "tipo": "teologia_doctrina",
+   "titulo": "La maldición, moderada por la gracia común",
+   "contenido": "El programa redentor específico requerirá como campo de acción la historia general del hombre. Por eso la maldición del pacto quebrantado (cf. 2:17) se anuncia a la pareja caída como representantes de la generalidad de la humanidad ya prevista, modificada (vv. 16-19) por el principio de la gracia común.",
+   "refs_biblicas": [
+    "Gn 2:17"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:16",
+   "tipo": "explicacion_texto",
+   "titulo": "«Con dolor»: familia y matrimonio afectados",
+   "contenido": "«Con dolor.» La penuria caracterizaría ahora el desarrollo genealógico del hombre, y la relación matrimonial, restablecida, sería perturbada por inclinaciones pecaminosas hacia el abuso de su estructura fundamental (en cuanto al modismo, cf. 4:7).",
+   "refs_biblicas": [
+    "Gn 4:7"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:17-18",
+   "tipo": "teologia_doctrina",
+   "titulo": "La tierra maldita: instrumento del juicio",
+   "contenido": "«Maldita será la tierra por tu causa.» La maldición de la tierra no consiste en la introducción de elementos nuevos, como las espinas, sino en el uso providencial que Dios hace de la tierra, que hasta entonces había servido al bienestar del hombre (cf. 1:29), como medio de su juicio-maldición contra él (cf. 8:21; Job 31:40; Ro 8:20).",
+   "refs_biblicas": [
+    "Gn 1:29",
+    "Gn 8:21",
+    "Job 31:40",
+    "Ro 8:20"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3,
+   "postura": "Rechaza que la maldición consista en crear elementos nuevos (como las espinas): es el uso providencial de la tierra existente como instrumento de juicio."
+  },
+  {
+   "ref": "3:19",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Al polvo volverás»: la muerte como paga",
+   "contenido": "«Al polvo volverás.» Como el polvo entró en la composición del hombre (cf. 2:7), la maldición en cuanto al polvo llegó a ser un poder de muerte que obra en sus mismos miembros (cf. Nm 5:16 ss.). La muerte, que antes estaba en la naturaleza como algo secundario para el hombre, ahora aterrorizará al hombre quebrantador del pacto como paga de su pecado.",
+   "refs_biblicas": [
+    "Gn 2:7",
+    "Nm 5:16"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:20-24",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Esperanza de restauración",
+   "contenido": "Kline titula 3:20-24 «Esperanza de restauración»: el nombre de Eva expresa fe en la simiente prometida (v. 20), las túnicas simbolizan el propósito de Dios de restaurar al hombre a la comunión con él (v. 21), y la conservación del jardín con su árbol de la vida afirma la esperanza de volver del exilio (v. 24).",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:20",
+   "tipo": "hebreo_palabra",
+   "titulo": "Eva (havva), «viviente»: el nombre de la fe",
+   "contenido": "«Eva.» La designación genérica del hombre se convirtió en su nombre propio, Adán (cf. 3:17; 4:25), pero la designación genérica de la mujer fue reemplazada por el nombre propio havva. El juego de palabras con hay («viviente») refleja la fe de Adán al dar este nombre a la mujer, con probable referencia a la simiente espiritual de ella, que vencería al príncipe de la muerte (la frase impresa, «se arrastraría bajo el pie del príncipe de la muerte», está dañada por la traducción) y así, mediante la lucha, libraría la vida de la maldición (cf. 3:15; 1 Ti 2:15; Ro 16:20).",
+   "refs_biblicas": [
+    "Gn 3:15",
+    "1 Ti 2:15",
+    "Ro 16:20"
+   ],
+   "hebreo": {
+    "palabra": "havva / hay",
+    "transliteracion": "havvah / hay",
+    "significado": "Eva / viviente"
+   },
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:21",
+   "tipo": "teologia_doctrina",
+   "titulo": "Dios los vistió: el remedio viene de él",
+   "contenido": "«Jehová... los vistió.» Este remedio para el obstáculo que les impedía acercarse a Dios (cf. 3:10) simboliza el propósito de Dios de restaurar a los hombres a la comunión con él. La vergüenza de los pecadores, como problema religioso, no podía ser cubierta por su propio esfuerzo (cf. 3:7). En la provisión divina está implícito un sacrificio animal; sin embargo, lo que se explicita no es el modo del sacrificio sino su resultado como remedio.",
+   "refs_biblicas": [
+    "Gn 3:10",
+    "Gn 3:7"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:22",
+   "tipo": "explicacion_texto",
+   "titulo": "«Como uno de nosotros»",
+   "contenido": "«Como uno de nosotros»: cf. lo dicho sobre 1:26 (el Creador habla como Rey rodeado de sus huestes celestiales). Por la tentación probatoria, el hombre había llegado a experimentar la plena dimensión del conflicto entre el bien y el mal, tal como las criaturas celestiales lo habían conocido antes.",
+   "refs_biblicas": [
+    "Gn 1:26"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:22",
+   "tipo": "teologia_doctrina",
+   "titulo": "Vivir para siempre sin reconciliación sería castigo",
+   "contenido": "«Y coma, y viva para siempre.» El castigo por un uso tan indigno de lo sagrado de la vida sería concederle la ansiada exclusión de la muerte física; y, paradójicamente, esto volvería permanente el estado humano de muerte y separación, ya que la reconciliación llegaría solo por medio de una muerte de sacrificio (cf. 3:15, 21).",
+   "refs_biblicas": [
+    "Gn 3:15",
+    "Gn 3:21"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "3:23",
+   "tipo": "teologia_doctrina",
+   "titulo": "La expulsión: misericordia y juicio",
+   "contenido": "Aunque la expulsión del hombre del jardín evitó misericordiosamente esa posibilidad (vivir para siempre en estado de muerte), el exilio, como juicio, fue también una demostración del desagrado divino con el hombre caído.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:24",
+   "tipo": "conexion_biblica",
+   "titulo": "Querubines: guardianes del santuario y del trono",
+   "contenido": "«Querubines, y una espada encendida... para guardar el camino.» La custodia del santuario (cf. sobre 2:15) fue asignada ahora a seres que en otros pasajes aparecen como guardianes del trono de Dios (cf. Ex 25:18 ss.; 1 R 6:29 ss.; Ez 10; 28:14 ss.), mientras que el hombre es visto como un posible intruso.",
+   "refs_biblicas": [
+    "Ex 25:18",
+    "1 R 6:29",
+    "Ez 10",
+    "Ez 28:14"
+   ],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  },
+  {
+   "ref": "3:24",
+   "tipo": "teologia_doctrina",
+   "titulo": "El jardín conservado: esperanza de volver",
+   "contenido": "Sin embargo, Dios conservó el jardín con su árbol de la vida, afirmando así la esperanza de una restauración del exilio, aunque el camino de regreso habría de pasar por la maldición de muerte de la espada del juicio de Dios.",
+   "refs_biblicas": [],
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 3
+  },
+  {
+   "ref": "4:1",
+   "tipo": "hebreo_palabra",
+   "titulo": "Caín (qayin) y «he engendrado» (qaniti)",
+   "contenido": "En hebreo qayin (Caín) y qaniti («he engendrado») forman un juego de palabras; para Eva, el nombre probablemente estaba relacionado de verdad con esa explicación. «Por voluntad de Jehová» se traduce mejor «por medio del Señor», dando a la preposición ('et) un significado bien atestiguado en otros pasajes. La explicación de Eva era la respuesta del creyente a una revelación (el comentario se corta aquí y continúa en el bloque siguiente).",
+   "refs_biblicas": [],
+   "hebreo": {
+    "palabra": "qayin / qaniti",
+    "transliteracion": "qayin / qaniti",
+    "significado": "Caín / he engendrado (juego de palabras)"
+   },
+   "pagina": "PDF 5 | pág. impresa 79",
+   "importancia": 2
+  }
+ ]
+}

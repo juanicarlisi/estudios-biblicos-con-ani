@@ -1,0 +1,61 @@
+{
+ "bloque": "macarthur_07",
+ "notas": [
+  {
+   "ref": "45:1-15",
+   "tipo": "cristo_en_genesis",
+   "titulo": "José y Cristo: perdonaron a los que les hicieron mal",
+   "contenido": "En un cuadro comparativo al margen (cuyo encabezado queda en la página anterior), la primera línea de esta página dice que \"perdonaron a los que les hicieron mal\", y la relaciona con Génesis 45:1–15 (José se da a conocer a sus hermanos y los perdona) y con Lucas 23:34 (el perdón de Cristo en la cruz). El plural del verbo y los pasajes del Nuevo Testamento que cita indican que el cuadro pone en paralelo la conducta de José y la de Cristo.",
+   "pagina": "macarthur | PÁGINA PDF 189 (impresa 189)",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Lc. 23:34"
+   ]
+  },
+  {
+   "ref": "45:7",
+   "tipo": "cristo_en_genesis",
+   "titulo": "José y Cristo: salvaron a su nación",
+   "contenido": "Segunda línea del cuadro comparativo del margen: \"salvaron a su nación\". La relaciona con Génesis 45:7 (José afirma que Dios lo envió para preservar a su familia y a su pueblo) y con Mateo 1:21 (la obra salvadora de Cristo respecto de su pueblo). Es parte del paralelo que el cuadro traza entre José y Cristo.",
+   "pagina": "macarthur | PÁGINA PDF 189 (impresa 189)",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Mt. 1:21"
+   ]
+  },
+  {
+   "ref": "50:20",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Lo que los hombres hicieron para dañarlos, Dios lo encaminó a bien",
+   "contenido": "Tercera línea del cuadro comparativo del margen: \"lo que los hombres hicieron para dañarlos, Dios lo encaminó a bien\". Se vincula con Génesis 50:20 (José a sus hermanos: ellos pensaron mal, Dios lo encaminó a bien) y con 1 Corintios 2:7, 8 (lo que los gobernantes hicieron al crucificar a Cristo estaba dentro del propósito de Dios). Cierra el paralelo José–Cristo en el que el mal de los hombres es usado por Dios para bien.",
+   "pagina": "macarthur | PÁGINA PDF 189 (impresa 189)",
+   "importancia": 2,
+   "refs_biblicas": [
+    "1 Co. 2:7, 8"
+   ]
+  },
+  {
+   "ref": "50:24-26",
+   "tipo": "cronologia_fechas",
+   "titulo": "La fe de José en su lecho de muerte (ca. 1804 a.C.) y el éxodo (ca. 1445 a.C.)",
+   "contenido": "Al presentar el libro de Éxodo, el autor recuerda que Hebreos 11:22 reconoce la fe de José quien, estando en su lecho de muerte (ca. 1804 a.C.), habló de la \"salida\" o \"partida\" de los hijos de Israel. José miraba hacia adelante unos trescientos cincuenta años hasta el éxodo (ca. 1445 a.C.). Esto da la fecha que el autor asigna a la muerte de José, con la que termina Génesis, y la distancia hasta la partida de Egipto.",
+   "pagina": "macarthur | PÁGINA PDF 189 (impresa 189)",
+   "importancia": 2,
+   "refs_biblicas": [
+    "He. 11:22"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "conexion_biblica",
+   "titulo": "Éxodo como continuación obvia de Génesis (título hebreo, LXX y Vulgata)",
+   "contenido": "Sobre el título de Éxodo, el autor explica que la Septuaginta griega (LXX) y la Vulgata latina asignaron \"Éxodo\" al segundo libro de Moisés porque la partida de Israel de Egipto es el hecho histórico dominante del libro (19:1). En la Biblia hebrea el título eran las palabras de apertura: \"Y (o: Ahora) estos son los nombres\". Esa \"Y\" o \"Ahora\" inicial sugiere que Éxodo debía aceptarse como la continuación obvia de Génesis, el primer libro de Moisés. El mismo pasaje atribuye ambos libros a Moisés.",
+   "pagina": "macarthur | PÁGINA PDF 189 (impresa 189)",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Éx. 19:1"
+   ]
+  }
+ ],
+ "problemas": "El bloque contiene una sola página (PDF 189). Casi todo su contenido es de Éxodo (título del libro), que no es parte de Génesis; solo se extrajo lo que se relaciona con Génesis. La parte de Génesis es el final de un cuadro marginal (casi seguro, la comparación José–Cristo) cuyo encabezado y primeras filas están en la página anterior, fuera de este bloque. Por eso: (1) la referencia suelta \\\"46:29\\\" aparece sin su texto y no se pudo hacer una nota; (2) la lectura del cuadro como paralelo José–Cristo se deduce del plural de los verbos y de los pasajes del NT citados (Lc. 23:34; Mt. 1:21; 1 Co. 2:7, 8), y no de un título visible en esta página; (3) el OCR desordenó las columnas: la referencia de Génesis aparece antes del texto y la del NT pegada a él (por ejemplo \\\"los queLc. 23:34\\\", \\\"hombres1 Co. 2:7, 8\\\"), y asigné cada referencia a su fila por el orden de lectura. Se corrigieron \\\"salida’\\\" (comilla suelta) y las palabras pegadas. Los paréntesis explicativos sobre qué dicen Gn 45:7 y 50:20 y los pasajes del NT son breves aclaraciones mías, marcadas como lectura del cuadro. Se omitieron las abreviaturas (LXX, ca.) y el número de página impreso.\""
+}

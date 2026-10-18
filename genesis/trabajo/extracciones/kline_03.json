@@ -1,0 +1,1143 @@
+{
+ "bloque": "kline_03",
+ "notas": [
+  {
+   "ref": "11:5",
+   "tipo": "explicacion_texto",
+   "titulo": "Dios desciende a ver el orgulloso pináculo",
+   "contenido": "El final del comentario a 11:5 (que empieza en el bloque anterior) explica que el Señor desciende, de acuerdo al antropomorfismo, para ver de cerca «aquel orgulloso pináculo allá abajo».",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 1
+  },
+  {
+   "ref": "11:7",
+   "tipo": "conexion_biblica",
+   "titulo": "«Descendamos»: pasajes paralelos",
+   "contenido": "Para «Ahora, pues, descendamos» el autor remite a 1:26; 3:22; 18:2, 21 y 19:1.",
+   "refs_biblicas": ["Gn 1:26", "Gn 3:22", "Gn 18:2", "Gn 18:21", "Gn 19:1"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 1
+  },
+  {
+   "ref": "11:7",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Confusión de lenguas: ¿proceso natural o milagro?",
+   "contenido": "«Confundamos allí su lengua»: posiblemente la confusión surgió de un proceso natural retardado, pero probablemente el texto quiere indicar una intervención sobrenatural, un extraño milagro de confusión.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3,
+   "postura": "Admite la posibilidad de un proceso natural retardado, pero considera más probable que el texto indique una intervención sobrenatural milagrosa."
+  },
+  {
+   "ref": "11:7",
+   "tipo": "conexion_biblica",
+   "titulo": "Babel y Pentecostés: confusión y fusión de lenguas",
+   "contenido": "El milagro de confusión de Babel sería respondido en Pentecostés por otro descenso divino y por un milagro de fusión lingüística.",
+   "cita": "un extraño milagro de confusión que sería respondido en Pentecostés por otro descenso divino y un milagro de fusión lingüística",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "11:7",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Babel no explica toda la diversidad de lenguas",
+   "contenido": "El texto no atribuye toda la diferenciación del lenguaje a este hecho, ni siquiera exige que sea la primera instancia de esa diferenciación después del diluvio, ni niega que hubiera variaciones lingüísticas después del diluvio.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:8",
+   "tipo": "explicacion_texto",
+   "titulo": "Lo que quisieron evitar cayó sobre ellos",
+   "contenido": "«Los esparció»: lo que los babelitas pensaron evitar cayó sobre ellos de manera más destructiva que la dispersión que estaba surgiendo naturalmente en cualquier otra parte.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:9",
+   "tipo": "hebreo_palabra",
+   "titulo": "Babel: «confundió» (balal), no «puerta de dios»",
+   "contenido": "El texto explica el nombre Babel «porque allí confundió (balal) Jehová». Cualquiera sea su significado original, el nombre significa «puerta de dios» según la etimología popular de los relatos sumerios y babilonios. La narración mosaica tiene así el carácter de una polémica satírica.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "balal", "transliteracion": "balal", "significado": "confundir (juego de palabras con Babel)"},
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "11:9",
+   "tipo": "teologia_doctrina",
+   "titulo": "Una maldición que se volvió bendición",
+   "contenido": "La confusión aparece como una maldición, una fuerza centrífuga que separa a los hombres y retarda la subyugación de la tierra (cf. v. 6b). Sin embargo, en el contexto del pecado, esta maldición llegó a ser una bendición: solo retardó la maduración de la iniquidad que acompañaba el progreso de la civilización (v. 6) y así postergó el juicio que podría haber interferido con el desarrollo de la redención.",
+   "cita": "en el contexto del pecado, esta maldición llegó a ser una bendición porque sólo retardó la iniquidad en su maduración que acompañaba al progreso de la civilización",
+   "refs_biblicas": ["Gn 11:6"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "11:10-26",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Las generaciones de Sem: de Sem a Abraham",
+   "contenido": "La era desde el diluvio, analizada en la sección anterior, se recapitula aquí, pero el tema central es la relación lineal de Sem a Abraham. Ya se había dado parcialmente en 10:21-25, pero ahora se presenta todo el intervalo y se usa el molde genealógico más amplio de la línea del pacto de 5:1 ss., con sus estadísticas adicionales del registro familiar. Se omiten, sin embargo, el total final de los años de cada individuo y la declaración de su muerte.",
+   "refs_biblicas": ["Gn 10:21-25", "Gn 5:1"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:10-26",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Una genealogía selectiva, no completa",
+   "contenido": "La evidencia de las secuencias culturales en los centros de dominio y en todas partes durante miles de años antes de Abraham muestra que esta genealogía, si se interpretara como completa, sería demasiado breve para el período implicado; eso confirma la teoría selectiva. Si la lista fuese completa habría que suponer que Noé vivía en tiempos de Abraham y que Sem (el texto dice «Set») y muchos otros de la lista vivían cuando fue llamado. ¿Estaría justificado entonces Josué al describir a los padres de Israel de la generación de Abraham solo en términos de la idolatría de Taré (Jos 24:2)? También es problemática para esa interpretación la reducción progresiva de la duración de la vida, de 600 a unos 200 años, en lo que serían diez generaciones contemporáneas dentro de unos 300 años.",
+   "refs_biblicas": ["Jos 24:2"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3,
+   "postura": "Rechaza leer la lista como completa (sin huecos); sostiene la teoría selectiva, con generaciones omitidas."
+  },
+  {
+   "ref": "11:10-26",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Diez nombres: Cainán y la simetría literaria",
+   "contenido": "Sobre el propósito de la simetría del patrón literario remite al comentario de 5:1 ss. (la palabra está dañada en el OCR). Para obtener un total de diez nombres en 11:10 ss. habría que incluir, después de Arfaxad, el nombre Cainán, que se encuentra en la Versión de los Setenta y en la genealogía de Lucas (Lc 3:36).",
+   "refs_biblicas": ["Gn 5:1", "Lc 3:36"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:10-26",
+   "tipo": "cronologia_fechas",
+   "titulo": "Génesis 11 no permite fechar el diluvio",
+   "contenido": "Dado el carácter selectivo de la genealogía, Génesis 11 no da base para fechar el diluvio, ni siquiera con una aproximación de milenios.",
+   "cita": "Gn. 11 no aporta base para fechar el diluvio, aun con una aproximación de milenios",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "11:10",
+   "tipo": "cronologia_fechas",
+   "titulo": "«Dos años después del diluvio»: armonía con 5:32 y 7:11",
+   "contenido": "«De edad de cien años... dos años después del diluvio»: se puede mostrar que es coherente con los datos de 5:32 y 7:11 combinando de varias maneras estas posibilidades: Sem nació (o fue engendrado) a los 500 años de Noé; el mabbul (diluvio) se toma en sentido estricto, por los cuarenta días; Arfaxad fue engendrado en el segundo año después del mabbul (no necesariamente al final de ese año).",
+   "refs_biblicas": ["Gn 5:32", "Gn 7:11"],
+   "hebreo": {"palabra": "mabbul", "transliteracion": "mabbul", "significado": "diluvio"},
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:10-26",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Antepasados de Abraham como lugares del NO de Mesopotamia",
+   "contenido": "Algunos nombres de esta genealogía aparecen en fuentes extrabíblicas, todas premosaicas. No era raro que los nombres de personas y de lugares coincidieran. Como nombres de lugares del noroeste de Mesopotamia se han encontrado: Peleg (v. 18), Serug (v. 22), Nacor (v. 24; cf. v. 26) y Taré (v. 26). El lugar Harán (v. 31; asirio harranu, «camino principal») no es idéntico al nombre del hermano de Abraham, Harán (v. 26). Evidentemente la tierra natal de los heberitas de la línea de Peleg estaba en el norte.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:27-25:11",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Las generaciones de Taré: la herencia y el heredero",
+   "contenido": "La narración abrahámica (11:27-25:11, «Las generaciones de Taré») trata en todo momento los temas de la herencia del reino y del heredero del reino: el énfasis está en la herencia en 11:27-15:21 («La herencia del reino de Abram») y en el heredero desde el capítulo 16 en adelante.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "11:27-25:11",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Del arca de Noé al reino prometido a Abram",
+   "contenido": "El reinado del hombre bajo Dios se había expresado en el reinado de Noé en el arca. Ahora el reinado de Dios es dado a Abram para ser poseído por la fe en las promesas de Dios. El reino celestial debía aparecer primero en un reino «precelestial», en forma de tipo premesiánico, y luego en la realidad correlativa del cumplimiento mesiánico.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "11:27",
+   "tipo": "explicacion_texto",
+   "titulo": "Por qué el encabezado lleva el nombre de Taré",
+   "contenido": "En el encabezamiento de 11:27a aparece Taré y no Abraham. Eso concuerda con el interés del patrón de Génesis en los orígenes genealógicos de las doce tribus de Israel, que surgen de Taré no solo por medio de Abram sino también de Sarai (20:12) y de Rebeca, Lea y Raquel, del linaje de Nacor, hijo de Taré.",
+   "refs_biblicas": ["Gn 20:12"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:28",
+   "tipo": "arqueologia_geografia",
+   "titulo": "¿Dónde estaba Ur de los caldeos?",
+   "contenido": "La identificación habitual con el Ur babilónico es cuestionable, porque la baja Mesopotamia no recibió el nombre de los caldeos hasta mil años después de Abraham. La evidencia de nombres de personas y lugares (cf. 11:18 ss.) y de las tradiciones sociolegales indica asociaciones ancestrales con el norte; Gn 24:1-10 y Jos 24:2 parecen asignar a los descendientes de Taré una patria más al norte. Por eso se renovó la antigua identificación de Ur con un lugar más al norte, explicando «de los caldeos» por la antigua designación «Haldai» para esa zona. Desde esa ubicación (y no desde el Ur del sur: el OCR dice «pero desde el Ur del sur») Harán estaría en la ruta a Canaán (cf. v. 31).",
+   "refs_biblicas": ["Gn 11:18", "Gn 24:1-10", "Jos 24:2", "Gn 11:31"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3,
+   "postura": "Cuestiona la identificación habitual con el Ur del sur de Babilonia y se inclina por un Ur en el norte de Mesopotamia (zona llamada «Haldai»)."
+  },
+  {
+   "ref": "11:30",
+   "tipo": "explicacion_texto",
+   "titulo": "Sarai estéril: el tema del heredero desde el comienzo",
+   "contenido": "«Sarai era estéril»: el tema del heredero, que domina la narración abrahámica, se anticipa desde el comienzo.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "11:31",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Con ellos» ('ittam) o «de ellos»",
+   "contenido": "«Con ellos» (literalmente «junto», 'ittam) también puede leerse «de ellos», es decir, de la familia de Nacor (cf. v. 29).",
+   "refs_biblicas": ["Gn 11:29"],
+   "hebreo": {"palabra": "'ittam", "transliteracion": "ittam", "significado": "con ellos, junto; también puede ser «de ellos»"},
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 1
+  },
+  {
+   "ref": "12:1",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "El llamado en Ur: orden temático, no cronológico",
+   "contenido": "A juzgar por la interpretación de Esteban (Hch 7:2 ss.; cf. Gn 15:7; Neh 9:7), Abram recibió el llamado de Dios cuando todavía estaba en Ur; por eso la ubicación del llamado en 12:1 está determinada por el tema y no por la cronología. Esteban también colocó la partida de Abram desde Harán (v. 4) después de la muerte de Taré (11:32).",
+   "refs_biblicas": ["Hch 7:2", "Gn 15:7", "Neh 9:7", "Gn 11:32"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "11:26-12:4",
+   "tipo": "cronologia_fechas",
+   "titulo": "Edad de Taré al nacer Abram",
+   "contenido": "Los datos de edad de 11:26, 32 y 12:4 significarían que Abram nació cuando Taré tenía 130 años; que el nombre de Abram vaya primero en la lista de 11:26-27 no se refiere a su primogenitura sino a su importancia. El Pentateuco samaritano evita este problema asignando a Taré 145 años y no 205.",
+   "refs_biblicas": ["Gn 11:26", "Gn 11:32", "Gn 12:4"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "12:1",
+   "tipo": "teologia_doctrina",
+   "titulo": "El pacto nace de una Palabra imperativa y promisoria",
+   "contenido": "«Jehová había dicho»: el pacto abrahámico fue iniciado por la Palabra del Señor, imperativa y promisoria. Era un pacto que señalaba su soberanía: establecía a la comunidad abrahámica como un protectorado divino, con estipulaciones y a la vez garantías.",
+   "cita": "El pacto abrahámico fue iniciado por la Palabra del Señor, imperativa y promisoria.",
+   "refs_biblicas": [],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "12:1",
+   "tipo": "explicacion_texto",
+   "titulo": "«Vete de tu tierra»: dejar los ídolos de Taré",
+   "contenido": "«Vete de tu tierra»: las lealtades idolátricas de la casa de Taré (cf. Jos 24:2) debían ser abandonadas, y había que consagrarse al señorío de Yahweh.",
+   "refs_biblicas": ["Jos 24:2"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "12:2",
+   "tipo": "hebreo_palabra",
+   "titulo": "goy: una nación con territorio y población",
+   "contenido": "«Una nación grande»: la palabra goy («nación») implica territorio y población.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "goy", "transliteracion": "goy", "significado": "nación (implica territorio y población)"},
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "12:2",
+   "tipo": "cristo_en_genesis",
+   "titulo": "La fe de Abram vio la ciudad celestial",
+   "contenido": "La fe de Abram percibió en la promesa de una gran nación la ciudad de Dios, que pertenece a un país mejor y celestial (cf. He 11:10 ss., 16): una Jerusalén celestial que es el destino universal de todos los escogidos de la simiente de la mujer, desde Abel hasta el último testigo de Cristo en la historia (cf. He 11:4 ss., 39, 40; 12:22). Es la ciudad-reino de la cual el reino judío en Canaán fue una prefiguración provisional hasta la llegada de la era mesiánica.",
+   "refs_biblicas": ["He 11:10", "He 11:16", "He 11:4", "He 11:39-40", "He 12:22"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3
+  },
+  {
+   "ref": "12:2",
+   "tipo": "explicacion_texto",
+   "titulo": "«Serás bendición»: un fiat creativo",
+   "contenido": "«Serás bendición» ha de leerse, como en algunas traducciones, «sé tú [bendición]»: es una bendición creativa, un fiat. El reinado abrahámico era una restitución del reinado de la creación (cf. 35:11), que ahora se alcanzaría por medio de un proceso redentor.",
+   "refs_biblicas": ["Gn 35:11"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 2
+  },
+  {
+   "ref": "12:3",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«Serán benditas»: ¿pasivo o reflexivo?",
+   "contenido": "La cita interpretativa del NT, según la Versión de los Setenta, indica que las naciones serán concretamente bendecidas por medio del pacto abrahámico (Hch 3:25; Gá 3:8). Una traducción reflexiva del versículo es coherente con eso: quienes se bendicen por Abraham muestran que están preparados para relacionarse con él en una fraternidad de bendición, y Dios promete aquí que ellos serán concretamente bendecidos.",
+   "refs_biblicas": ["Hch 3:25", "Gá 3:8"],
+   "pagina": "PDF 10 | pág. impresa 84",
+   "importancia": 3,
+   "postura": "La lectura pasiva (la del NT según la LXX) y una traducción reflexiva no se oponen: ambas llevan a que las naciones son realmente bendecidas por medio del pacto con Abram."
+  },
+  {
+   "ref": "12:3",
+   "tipo": "cristo_en_genesis",
+   "titulo": "La simiente mediadora de la bendición es Cristo",
+   "contenido": "La bendición se hace por medio de Abram y su simiente (cf. 22:18; 26:4; 28:14), y sin embargo es la bendición de Dios. Estos dos aspectos se encuentran en la identificación de la simiente mediadora como Cristo (cf. Gá 3:16).",
+   "refs_biblicas": ["Gn 22:18", "Gn 26:4", "Gn 28:14", "Gá 3:16"],
+   "pagina": "PDF 10 | pág. impresa 84 (sigue en PDF 11 | pág. impresa 85)",
+   "importancia": 3
+  },
+  {
+   "ref": "12:3",
+   "tipo": "conexion_biblica",
+   "titulo": "Maldecir a los que maldicen: se cumple 9:26",
+   "contenido": "«Y a los que te maldijeren maldeciré»: al llegar Dios a ser el Señor del pacto de Abram, se estaba cumpliendo la bendición de Noé sobre Sem, con su correspondiente maldición sobre Canaán (cf. 9:26).",
+   "refs_biblicas": ["Gn 9:26"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:4",
+   "tipo": "personaje",
+   "titulo": "Abram, «amigo de Dios» por su obediencia de fe",
+   "contenido": "«Y se fue Abram»: no todo lo que se narra de la conducta de Abram es recomendable, pero aquí hay una serie de actos ejemplares de obediencia en fe que le aseguraron el título de «amigo de Dios», es decir, alguien que demuestra lealtad a Dios (cf. 2 Cr 20:7; Is 41:8; Stg 2:23).",
+   "cita": "No todo lo que se narra de la conducta de Abram es recomendable, pero aquí hay una serie de actos ejemplares de obediencia en fe",
+   "refs_biblicas": ["2 Cr 20:7", "Is 41:8", "Stg 2:23"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 3
+  },
+  {
+   "ref": "12:4",
+   "tipo": "cultura_costumbres",
+   "titulo": "Lot, posible heredero por adopción",
+   "contenido": "«Lot fue con él»: la prominencia de Lot puede deberse a que ofrecía a Abram la posibilidad de un heredero. La práctica habitual de la adopción sugeriría enseguida su nombre, dadas la muerte de Harán y de Taré y la esterilidad de Sarai (cf. 11:28-30).",
+   "refs_biblicas": ["Gn 11:28-30"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:5",
+   "tipo": "explicacion_texto",
+   "titulo": "Canaán, destino implícito en el llamado",
+   "contenido": "Aunque no se especifica a Canaán como la tierra prometida, las instrucciones de Dios (vv. 1 ss.; cf. He 11:8) evidentemente orientaban a Abram en esa dirección.",
+   "refs_biblicas": ["Gn 12:1", "He 11:8"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 1
+  },
+  {
+   "ref": "12:6",
+   "tipo": "explicacion_texto",
+   "titulo": "«El cananeo estaba entonces en la tierra»",
+   "contenido": "Esta declaración (cf. 13:7), que precede inmediatamente a la designación de Canaán como concesión territorial a los descendientes de Abram (v. 7), contrasta la situación concreta con el ideal de la promesa.",
+   "refs_biblicas": ["Gn 13:7", "Gn 12:7"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:7-8",
+   "tipo": "teologia_doctrina",
+   "titulo": "Los altares como confesión de fe en la tierra",
+   "contenido": "«Un altar a Jehová»: este altar, construido en el lugar de la teofanía de Yahweh, expresaba la fe de Abram de que esa era la tierra que Yahweh le daría. Del mismo modo levantó un segundo altar, más al sur, a la sombra misma de las ciudades cananeas (el OCR dice «antes y después»; se refiere a las ciudades del v. 8). Para el v. 8b remite a 4:26.",
+   "refs_biblicas": ["Gn 4:26"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:9",
+   "tipo": "teologia_doctrina",
+   "titulo": "El carácter peregrino de los patriarcas",
+   "contenido": "«Partió de allí»: tal era el carácter peregrino de la vida de los patriarcas en Canaán (cf. He 11:9 s.).",
+   "refs_biblicas": ["He 11:9"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:9",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Neguev: «seco»; asentamientos de los siglos XXI-XIX a.C.",
+   "contenido": "Neguev, literalmente «seco», es la zona indefinida de tierras altas del sur. La evidencia arqueológica de asentamientos en el Neguev entre los siglos XXI y XIX a. de J.C. apoya las fechas de la Biblia, porque coloca la residencia de los patriarcas allí en ese mismo período.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "Neguev", "transliteracion": "negev", "significado": "seco"},
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:10",
+   "tipo": "cultura_costumbres",
+   "titulo": "Egipto daba asilo a asiáticos en tiempos de hambre",
+   "contenido": "«Descendió Abram a Egipto»: los informes de los oficiales egipcios de las fronteras muestran que era costumbre conceder asilo a los asiáticos que buscaban refugio del hambre (cf. 26:1 ss.; 43:1 ss.).",
+   "refs_biblicas": ["Gn 26:1", "Gn 43:1"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:13",
+   "tipo": "explicacion_texto",
+   "titulo": "«Mi hermana»: una media verdad planeada de antemano",
+   "contenido": "La estratagema de hacer pasar a Sarai como hermana había sido resuelta cuando dejaron la casa de Taré (cf. 20:13). Implicaba una media verdad, porque Sarai era hija de Taré, aunque no de la madre de Abram (cf. 20:12).",
+   "refs_biblicas": ["Gn 20:13", "Gn 20:12"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:13",
+   "tipo": "cultura_costumbres",
+   "titulo": "La institución legal de la «condición de hermana»",
+   "contenido": "Posiblemente había otro elemento de verdad en el engaño. De la zona de origen de Abram han surgido evidencias de la institución legal de la condición de hermana, un status que podía obtener una esposa y que daba ciertos privilegios y credenciales superiores, por ejemplo ante una corte extranjera. En una sociedad patriarcal (cf. 24:29 y la prominencia de Labán, hermano de Rebeca), una mujer dada en matrimonio por un hermano gozaba de doble status, de esposa y de hermana. La estratagema, tal como la usaron Abram (y luego Isaac), buscaba sobre todo ocultar su identidad de marido, pero el status de hermana (si era el caso) le habría dado ventajas adicionales.",
+   "refs_biblicas": ["Gn 24:29"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2,
+   "postura": "Presenta el status legal de hermana como posibilidad («si tal era el caso»), no como hecho seguro."
+  },
+  {
+   "ref": "12:10-20",
+   "tipo": "teologia_doctrina",
+   "titulo": "La debilidad de Abram y la fidelidad de Dios",
+   "contenido": "La debilidad del patriarca dio ocasión a una manifestación de la fidelidad de Dios como protector del pacto: maldijo a los que eran enemigos del cumplimiento del programa del pacto y preservó a la escogida como antepasada de Israel para dar a luz al hijo de la promesa (vv. 17 ss.).",
+   "refs_biblicas": ["Gn 12:17"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 3
+  },
+  {
+   "ref": "12:16",
+   "tipo": "teologia_doctrina",
+   "titulo": "Prosperidad por gracia, no aprobación del engaño",
+   "contenido": "«Hizo bien a Abram»: que Dios prosperara a Abram por medio de la riqueza del faraón no significa que aprobara su subterfugio; fue un asunto de gracia.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:16",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Los camellos de Abram no son un anacronismo",
+   "contenido": "La inclusión de camellos entre las posesiones de Abram no es anacrónica: hay clara evidencia de la domesticación del camello a comienzos del segundo milenio a. de J.C., aunque su uso habitual en caravanas es de fecha mucho más tardía.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "12:17",
+   "tipo": "conexion_biblica",
+   "titulo": "Abram en Egipto, anticipo del viaje de Israel",
+   "contenido": "«Grandes plagas»: todo el cuadro de la experiencia de Abram en Egipto forma un notable paralelo con el viaje de Israel hasta allí.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "13:1",
+   "tipo": "explicacion_texto",
+   "titulo": "Lot también estuvo en Egipto",
+   "contenido": "Aunque no se lo menciona en 12:10-20, Lot había estado en Egipto, beneficiándose del status favorecido de Abram (v. 5) y adquiriendo el gusto por los valles exuberantes (cf. v. 10, «como la tierra de Egipto»).",
+   "refs_biblicas": ["Gn 13:5", "Gn 13:10"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 1
+  },
+  {
+   "ref": "13:2",
+   "tipo": "contexto_historico",
+   "titulo": "¿Era la familia de Taré mercader de caravanas?",
+   "contenido": "Aun antes de viajar a Canaán, la compañía y las posesiones de Abram habían llegado a ser muy sustanciales en Harán (cf. 12:5). Quizá los descendientes de Taré eran mercaderes dedicados al tráfico de caravanas. ¿Fue ese el propósito del viaje de Taré desde Ur, y fueron las oportunidades comerciales de Harán, la ciudad de las caravanas, lo que cortó el viaje a Canaán? Es muy posible que Abram haya comerciado por las conocidas rutas de caravanas de asnos del Neguev durante sus años allí (cf. 20:1; 34:10; 42:34). Sus ganados y rebaños serían agregados naturales de su comercio, y el contingente militar de su compañía (cf. 14:14), la protección de sus caravanas.",
+   "refs_biblicas": ["Gn 12:5", "Gn 20:1", "Gn 34:10", "Gn 42:34", "Gn 14:14"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2,
+   "postura": "Lo plantea como hipótesis (preguntas y «quizá»), no como hecho."
+  },
+  {
+   "ref": "13:2",
+   "tipo": "cultura_costumbres",
+   "titulo": "Los patriarcas no eran nómadas del desierto",
+   "contenido": "Los patriarcas ciertamente no eran nómadas del desierto. El asno era su animal de carga habitual. Sus bases estaban cerca de los centros urbanos, pero en las colinas escasamente pobladas, y eran residentes extranjeros en su trato con las ciudades. La empresa agrícola de Isaac puede representar un estado más sedentario, pero sus hábitos de vida en general transeúntes acentuaban su condición de peregrinos y extranjeros en la tierra.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "13:5-7",
+   "tipo": "explicacion_texto",
+   "titulo": "La riqueza también probó la fe de Abram",
+   "contenido": "«No era suficiente»: aun su riqueza probó la fe de Abram, al recordarle qué limitada era su libertad en la tierra prometida (cf. v. 7b).",
+   "refs_biblicas": ["Gn 13:7"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "13:8-13",
+   "tipo": "personaje",
+   "titulo": "La generosidad de Abram y la impaciencia de Lot",
+   "contenido": "Aun dentro del ámbito de sus prerrogativas, Abram mostró la generosidad de su fe. El camino que eligió Lot delataba su impaciencia por asegurarse la abundancia prometida de la tierra (v. 10) sin el debido cuidado de las exigencias éticas del pacto (cf. v. 13).",
+   "refs_biblicas": ["Gn 13:10", "Gn 13:13"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 3
+  },
+  {
+   "ref": "13:14-16",
+   "tipo": "explicacion_texto",
+   "titulo": "La concesión de Yahweh y el reclamo de Abram",
+   "contenido": "Después de la concesión de tierras de Abram y el reclamo de Lot vino la concesión de Yahweh y el reclamo de Abram. En la definición de la tierra, esta revelación es una transición entre la vaguedad de 12:7 y la precisión de 15:17 ss. En el v. 16 se desarrolla también la «nación grande» de la promesa de 12:2.",
+   "refs_biblicas": ["Gn 12:7", "Gn 15:17", "Gn 12:2"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "13:17",
+   "tipo": "cultura_costumbres",
+   "titulo": "Recorrer la tierra: rito legal de posesión",
+   "contenido": "«Ve por la tierra a lo largo de ella y a su ancho» (cf. Jos 24:3): probablemente era un rito legal simbólico por el cual uno establecía el derecho a la posesión concreta. Ciertamente era una caminata de fe.",
+   "cita": "¡Ciertamente que era una caminata de fe!",
+   "refs_biblicas": ["Jos 24:3"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "13:18",
+   "tipo": "explicacion_texto",
+   "titulo": "Hebrón: pactos con los príncipes y tercer altar",
+   "contenido": "En Hebrón Abram se estableció de manera más permanente, entrando en pactos de paridad con los príncipes locales (el texto remite a «14:3», probablemente 14:13) y construyendo a la vez un altar, el tercero, como declaración de que Yahweh era el gran Señor de la tierra que la reclamaba como suya.",
+   "refs_biblicas": ["Gn 14:13"],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "14:1-2",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Los reyes de Génesis 14: nombres auténticos del II milenio",
+   "contenido": "La situación política exacta de Génesis 14 y los reyes en particular no han sido identificados. Sin embargo, muchos de los nombres se reconocen como auténticos de comienzos del segundo milenio a. de J.C., y las coaliciones de poder político también eran características de ese período. El equivalente del nombre Arioc se encontró en documentos de Mari y Nuzi. Quedorlaomer está formado por dos elementos según un modelo elamita típico y significa «siervo de (la diosa) Lakamar». Tidal corresponde a Tudhalia, un nombre real hitita.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 3
+  },
+  {
+   "ref": "14:1",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Amrafel no es Hamurabi",
+   "contenido": "La identificación de Amrafel con Hamurabi, muy en boga en un tiempo, se sabe ahora que es imposible por motivos lingüísticos y por el hecho básico de que el famoso rey babilonio vivió siglos después de Abram.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2,
+   "postura": "Rechaza la identificación Amrafel = Hamurabi por razones lingüísticas y cronológicas."
+  },
+  {
+   "ref": "14:1",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Sinar, Elasar, Goim y Elam",
+   "contenido": "Sinar aparece primero quizá para dar un colorido ideológico babilónico a la empresa de los cuatro reyes (cf. 11:2 ss.). La identidad de Elasar es incierta. Goim (la palabra hebrea significa «naciones») posiblemente designa un grupo de ciudades de Asia Menor federadas bajo Tidal. Elam, al sureste de Babilonia, dominaba la coalición: hubo una fuerte dinastía elamita alrededor del año 2000 a. de J.C. (el texto dice «d. de J.C.», error evidente).",
+   "refs_biblicas": ["Gn 11:2"],
+   "hebreo": {"palabra": "goyim", "transliteracion": "goyim", "significado": "naciones"},
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "14:3",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El valle de Sidim, cubierto por el mar Muerto",
+   "contenido": "«Valle de Sidim, que es el Mar Salado»: en los siglos entre Abram y Moisés, la llanura al sur de Lisán había llegado a ser una extensión vacía del mar Muerto.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "14:4",
+   "tipo": "contexto_historico",
+   "titulo": "El tratado impuesto por Quedorlaomer",
+   "contenido": "«En el decimotercero se rebelaron»: Quedorlaomer había impuesto su tratado a los vasallos poco antes de que Abram llegara a Canaán.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 1
+  },
+  {
+   "ref": "14:5",
+   "tipo": "arqueologia_geografia",
+   "titulo": "La ruta de la invasión: el camino real",
+   "contenido": "Están atestiguadas expediciones de notable alcance de reyes mesopotámicos aun antes del 2000 a. de J.C. La ruta de invasión siguió el camino real, una ruta de caravanas que corría de norte a sur hasta el golfo de Akaba (pasando de largo las ciudades de la llanura) y de allí al valle de Sidim. La zona transjordana (así como el Neguev) tuvo grandes asentamientos permanentes desde alrededor de los siglos XXI y XIX a. de J.C. (el texto dice «d. de J.C.», error evidente). Esa situación cesó abruptamente, pero no necesariamente como consecuencia inmediata de la invasión de Quedorlaomer.",
+   "refs_biblicas": [],
+   "pagina": "PDF 11 | pág. impresa 85",
+   "importancia": 2
+  },
+  {
+   "ref": "14:13",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Abram el hebreo»: 'ibri, descendiente de Heber",
+   "contenido": "Como los otros líderes de este contexto, Abram es definido étnicamente: era descendiente de Heber ('ibri, «heberita» o «hebreo»). En el AT el uso de 'ibri es étnico.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "'ibri", "transliteracion": "ibri", "significado": "heberita, hebreo (descendiente de Heber)"},
+   "pagina": "PDF 11 | pág. impresa 85 (sigue en PDF 12 | pág. impresa 86)",
+   "importancia": 2
+  },
+  {
+   "ref": "14:13",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Hebreos y habiru son lo mismo?",
+   "contenido": "Surge la pregunta de si los heberitas aparecen en la literatura extrabíblica y, en particular, si son los habiru mencionados en textos de todo el Cercano Oriente durante el segundo milenio. Los habiru eran al parecer militares profesionales, quizá con una unidad étnica original. En teoría, el término étnico ('ibri) podría haber adquirido un sentido profesional en relación con una rama de heberitas que se volvió militarista (los habiru), mientras el AT conservaba el sentido étnico para los descendientes de Abraham; así sería plausible leer el término en sentido profesional aun en Gn 14:13. Pero toda la teoría requeriría sustanciación, y la equivalencia fonética implicada es sumamente problemática.",
+   "refs_biblicas": [],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2,
+   "postura": "Expone la teoría que identifica a los hebreos con los habiru (y leería «hebreo» en sentido profesional en 14:13), pero la considera sin sustento suficiente y fonéticamente muy problemática; prefiere el sentido étnico-genealógico."
+  },
+  {
+   "ref": "14:13",
+   "tipo": "conexion_biblica",
+   "titulo": "Por qué se lo llama «hebreo» justo aquí",
+   "contenido": "La sección que comienza en 14:13 llega a su clímax en la bendición-doxología de los vv. 19-20, en la serie de la de Noé (cf. 9:26). Eso sugiere que Abram es llamado aquí «hebreo» para relacionar el cumplimiento abrahámico de la promesa del pacto hecha por Noé a Sem a través de la conexión genealógica (cf. 10:21).",
+   "refs_biblicas": ["Gn 14:19-20", "Gn 9:26", "Gn 10:21"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "14:14",
+   "tipo": "cultura_costumbres",
+   "titulo": "Abram, vasallo leal: «desenvainó» a sus hombres",
+   "contenido": "«Armó a sus criados» es literalmente «extrajo (como una espada) a sus hombres armados». Los pactos de vasallaje estipulaban que el vasallo debía despachar fuerzas para proteger los intereses de su señor al recibir informe de dificultades. Los reclamos territoriales particulares de Yahweh eran afectados por los reclamos de Quedorlaomer sobre Canaán, y por lo tanto también lo estaban los actos de Abram.",
+   "refs_biblicas": [],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "14:15",
+   "tipo": "explicacion_texto",
+   "titulo": "La persecución, sin ayuda sobrenatural explícita",
+   "contenido": "«Les fue siguiendo»: no se implica ninguna ayuda sobrenatural. Se desconocen el tamaño total de la fuerza confederada (cf. vv. 13, 24) y otros factores.",
+   "refs_biblicas": ["Gn 14:13", "Gn 14:24"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 1
+  },
+  {
+   "ref": "14:17-18",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El valle del Rey y Salem",
+   "contenido": "La ubicación del valle del Rey es incierta, pero se conjetura que estaba cerca de Jerusalén (cf. 2 S 18:18); tampoco es totalmente seguro que el episodio de Melquisedec haya ocurrido allí. Salem es Jerusalén (cf. Sal 76:2).",
+   "refs_biblicas": ["2 S 18:18", "Sal 76:2"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "14:18-20",
+   "tipo": "hebreo_palabra",
+   "titulo": "El Elyon: el Dios Altísimo, Creador",
+   "contenido": "«Dios Altísimo» (hebreo 'el 'elyon): todas estas palabras se usan para la divinidad en los textos cananeos, pero aquel a quien Melquisedec llamaba 'el 'elyon, confesándolo Creador del cielo y de la tierra, fue identificado por Abram como Yahweh el Creador. Así parece que, cuando Abram llegó a Canaán, existía una comunidad establecida de la fe verdadera bajo el sacerdocio del rey de Salem.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "'el 'elyon", "transliteracion": "el elyon", "significado": "Dios Altísimo"},
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "14:18",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Melquisedec, mayor que Abram; la simiente mesiánica, mayor aún",
+   "contenido": "Para Melquisedec remite a Sal 110:4 y He 7:1 ss. Melquisedec era mayor que Abram, pero la simiente mesiánica de Abram sería mayor que Melquisedec.",
+   "cita": "Melquisedec era mayor que Abram, pero la simiente mesiánica de Abram sería mayor que Melquisedec.",
+   "refs_biblicas": ["Sal 110:4", "He 7:1"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "14:19-20",
+   "tipo": "teologia_doctrina",
+   "titulo": "La bendición del elegido y la maldición de sus enemigos",
+   "contenido": "«Bendito sea Abram... enemigos en tu mano»: la bendición del elegido tiene nuevamente como corolario la maldición de los que lo maldicen (cf. 9:26; 12:2, 3).",
+   "refs_biblicas": ["Gn 9:26", "Gn 12:2-3"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "14:20",
+   "tipo": "teologia_doctrina",
+   "titulo": "El diezmo: Yahweh es el Señor supremo",
+   "contenido": "«Los diezmos»: con el pago de este tributo Abram testificó que, cualquiera fuese la autoridad que controlara Canaán, Yahweh era el Señor supremo sobre todos.",
+   "refs_biblicas": [],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "14:21-24",
+   "tipo": "cultura_costumbres",
+   "titulo": "El rechazo al rey de Sodoma: lealtad de vasallo a Yahweh",
+   "contenido": "El juramento de Abram posiblemente fue hecho ante Melquisedec. Habitualmente se permitía a los vasallos retener el botín de las batallas libradas en favor de sus superiores, pero era prerrogativa de estos estipularlo en los tratados. El rey de Sodoma aparentemente quiso asumir ese papel, pero Abram rechazó la relación: los tratados de vasallaje prohibían subordinarse a otro benefactor real. Ese rechazo era la contraparte negativa coherente del juramento positivo de lealtad que Abram había hecho a Yahweh como su Señor del pacto.",
+   "refs_biblicas": [],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:1-21",
+   "tipo": "teologia_doctrina",
+   "titulo": "Juramento divino (Gn 15) y juramento humano (Gn 17)",
+   "contenido": "El juramento del pacto de Yahweh: el pacto fue ratificado primero por un juramento divino (Gn 15) y después por el juramento humano (Gn 17). En ese tiempo el juramento del vasallo era característico de los pactos extrabíblicos, pero en ciertos casos también los señores se comprometían por juramento, particularmente en relación con concesiones de tierra (cf. vv. 18 ss.).",
+   "refs_biblicas": ["Gn 17", "Gn 15:18"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:1",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«En visión»: estados de Abram y orden del relato",
+   "contenido": "Si esta «visión» abarca todo el capítulo, indica al parecer una variedad de estados psicológicos, desde el trance parecido al sueño (vv. 12 ss.) hasta un estado de vigilia con percepción suprasensorial (vv. 5, 10, 11, 17; cf. 2 R 6:17). Si el relato está ordenado cronológicamente, entre los vv. 5 y 12 se introduce un período de luz solar (o más largo). Si está ordenado temáticamente, una reconstrucción plausible sería: el v. 7 describe el comienzo del episodio; los vv. 1b-4 corresponden al trance de los vv. 12 ss. (nótese lo adecuado del «No temas» de Dios en el v. 1 ante el espanto de Abram en el v. 12); y la experiencia de despertar de los vv. 5 ss. corresponde a la de los vv. 17 ss.",
+   "refs_biblicas": ["2 R 6:17"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2,
+   "postura": "Presenta dos lecturas (orden cronológico u orden temático) y ofrece como plausible una reconstrucción temática, sin imponerla."
+  },
+  {
+   "ref": "15:1",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Escudo» (magen) o «te doy tu galardón» (mogen)",
+   "contenido": "«Escudo» (hebreo magen; cf. Sal 3:3; 28:7; 33:20). Si, alterando las vocales, la palabra se leyera mogen, la traducción sería «Yo te estoy dando tu galardón».",
+   "refs_biblicas": ["Sal 3:3", "Sal 28:7", "Sal 33:20"],
+   "hebreo": {"palabra": "magen / mogen", "transliteracion": "magen / mogen", "significado": "escudo / (con otras vocales) «te estoy dando»"},
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "15:2-5",
+   "tipo": "explicacion_texto",
+   "titulo": "«¿Qué me darás?»: el reino necesita una dinastía",
+   "contenido": "El cumplimiento de la promesa del reino dependía de que Abram tuviera una dinastía que lo heredara. El v. 2b contiene un oscuro juego de palabras sobre «Damasco», pero el v. 3 aclara el reclamo de Abram.",
+   "refs_biblicas": [],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "15:2-4",
+   "tipo": "cultura_costumbres",
+   "titulo": "Adopción de herederos en Mesopotamia (2000-1500 a.C.)",
+   "contenido": "Abram había seguido la costumbre mesopotámica, bien atestiguada entre el 2000 y el 1500 a. de J.C., por la cual las parejas sin hijos adoptaban un heredero (en algunos casos un ex esclavo). Los contratos de adopción estipulaban que un hijo legítimo nacido después reemplazaría al adoptado como heredero principal. Ese es el contexto legal de la seguridad que Dios le reitera.",
+   "refs_biblicas": [],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:6",
+   "tipo": "hebreo_palabra",
+   "titulo": "'aman: creer es confiado asentimiento (el «Amén»)",
+   "contenido": "El verbo 'aman expresa aquí confianza en Dios y, por lo tanto, un confiado asentimiento a su revelación de la gracia salvadora sobrenatural. La declaración puede referirse a un «Amén» concreto pronunciado por Abram, ya que en las ceremonias de pacto los vasallos respondían a la proclamación de las recompensas y las penas (cf. Dt 27:15-26).",
+   "refs_biblicas": ["Dt 27:15-26"],
+   "hebreo": {"palabra": "'aman", "transliteracion": "aman", "significado": "creer, confiar; raíz de «amén»"},
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:6",
+   "tipo": "conexion_biblica",
+   "titulo": "«Le fue contado por justicia»: Romanos y Gálatas",
+   "contenido": "Para el v. 6b remite a Ro 4:3, 17 ss. y Gá 3:6 ss.",
+   "refs_biblicas": ["Ro 4:3", "Ro 4:17", "Gá 3:6"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "15:1-21",
+   "tipo": "estructura_bosquejo",
+   "titulo": "El heredero, subordinado a la promesa del reino",
+   "contenido": "En el capítulo 15, el tema del heredero (vv. 1-6) se trata de forma subordinada a la promesa del reinado, que se destaca en los versículos siguientes.",
+   "refs_biblicas": [],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 1
+  },
+  {
+   "ref": "15:7",
+   "tipo": "cultura_costumbres",
+   "titulo": "Preámbulo y prólogo histórico, como en los tratados",
+   "contenido": "«Yo soy Jehová, que te saqué de Ur»: esta autoidentificación y la referencia a la iniciativa redentora de Dios corresponden a las secciones de apertura habituales de los tratados clásicos: el preámbulo, en el que el soberano que proclamaba el pacto declaraba su condición y su título, seguido del prólogo histórico, en el que recordaba sus hechos poderosos (cf. Ex 20:2).",
+   "refs_biblicas": ["Ex 20:2"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:9-10",
+   "tipo": "cultura_costumbres",
+   "titulo": "Partir los animales: «cortar un pacto»",
+   "contenido": "«Los partió por la mitad»: el ritual de juramento para el que se preparó Abram era el acostumbrado en la ratificación de tratados. De él derivaron varios modismos para hacer un pacto, como el hebreo «cortar un pacto» (así literalmente en el v. 18). La maldición invocada condicionalmente en el juramento se simbolizaba con esta matanza y división de animales, que significaba «así se haga al que quebrante este pacto» (cf. 1 S 11:7; el OCR dice «15. 11:7»).",
+   "refs_biblicas": ["Gn 15:18", "1 S 11:7"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:11",
+   "tipo": "explicacion_texto",
+   "titulo": "Las aves de rapiña, acto final de la maldición",
+   "contenido": "Las aves de rapiña describen el acto final del simbolismo de la maldición (cf. Jer 34:17-20).",
+   "refs_biblicas": ["Jer 34:17-20"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "15:12",
+   "tipo": "explicacion_texto",
+   "titulo": "Sueño y gran oscuridad: presagio de la esclavitud",
+   "contenido": "«Sueño» (cf. 2:21). «Grande oscuridad»: en ese cuadro temible llegó el presagio de la esclavitud en Egipto.",
+   "refs_biblicas": ["Gn 2:21"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "15:13-16",
+   "tipo": "cronologia_fechas",
+   "titulo": "Cuatrocientos años y cuatro «tiempos de vida»",
+   "contenido": "La duración de la estadía en Egipto se da en un número redondo (v. 13; cf. Ex 12:40) y como cuatro «generaciones», o mejor «tiempos de vida» (v. 16), calculando cada uno en un siglo aproximadamente (menos de lo que duraba la vida de los propios patriarcas). El v. 15 muestra que esos cuatro siglos no incluían los 215 años que Abram, Isaac y Jacob pasaron en Canaán, porque la estadía la harían los descendientes de Abram después de su muerte.",
+   "refs_biblicas": ["Ex 12:40"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:14",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Juzgaré yo»: bendición por medio del juicio redentor",
+   "contenido": "Una larga postergación terminaría en el cumplimiento de las promesas del reino de Dios (cf. 12:3), en el nivel provisional del AT, por medio de actos poderosos de juicio redentor (cf. Hch 7:17). La bendición de los descendientes de Abraham se alcanzaría por medio de la maldición de los egipcios y amorreos que los maldijeron (cf. 12:3).",
+   "refs_biblicas": ["Gn 12:3", "Hch 7:17"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "15:16",
+   "tipo": "teologia_doctrina",
+   "titulo": "La maldad del amorreo y los tiempos de Dios",
+   "contenido": "«La maldad del amorreo» (cf. Lv 18:24 ss.; 20:22 ss.; 1 R 14:24). Los tiempos de Dios (cf. Dn 2:21) no son arbitrarios, ni su paciencia dura para siempre (cf. 2 P 3:9, 10).",
+   "cita": "Los tiempos de Dios (cf. Dn. 2:21) no son arbitrarios, ni su paciencia dura para siempre",
+   "refs_biblicas": ["Lv 18:24", "Lv 20:22", "1 R 14:24", "Dn 2:21", "2 P 3:9-10"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:17",
+   "tipo": "teologia_doctrina",
+   "titulo": "Dios pasa solo entre los trozos y carga la maldición",
+   "contenido": "«Horno humeando, y una antorcha de fuego»: la teofanía usa, como es frecuente en otras partes, el fuego y el humo para indicar la presencia de Dios (cf. especialmente Ex 3:2 ss.; 13:21, 22; 19:18). Al pasar solo entre los trozos, Dios juró fidelidad a las promesas de su pacto y tomó sobre sí todas las maldiciones simbolizadas por los cuerpos de los animales.",
+   "cita": "Al pasar solo entre los trozos, Dios juró fidelidad a las promesas de su pacto y tomó sobre sí todas las maldiciones simbolizadas por los esqueletos.",
+   "refs_biblicas": ["Ex 3:2", "Ex 13:21-22", "Ex 19:18"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "15:18",
+   "tipo": "cultura_costumbres",
+   "titulo": "«Del río de Egipto al río grande»: cláusula de límites",
+   "contenido": "«Hizo Jehová un pacto»: ese era el significado del extraño ritual. «Desde el río de Egipto hasta el río grande» (cf. 1 R 4:21): varios tratados no bíblicos tienen secciones geográficas como esta, que enumeran las ciudades y definen los límites confirmados al vasallo.",
+   "refs_biblicas": ["1 R 4:21"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 2
+  },
+  {
+   "ref": "15:18",
+   "tipo": "cristo_en_genesis",
+   "titulo": "La promesa de la tierra se vuelve cósmica en Cristo",
+   "contenido": "La tierra pertenecía a la simiente de Abram solo dentro de los límites del pacto, y eso solo en la simiente de Abram, en Cristo, en quien la promesa de la tierra se transformó en un antitipo cósmico (cf. Ro 4:13); y los herederos de Abraham llegaron a ser la comunidad universal del pacto en el NT, donde en Cristo no hay griego ni judío.",
+   "refs_biblicas": ["Ro 4:13"],
+   "pagina": "PDF 12 | pág. impresa 86",
+   "importancia": 3
+  },
+  {
+   "ref": "16:1-22:19",
+   "tipo": "estructura_bosquejo",
+   "titulo": "El heredero de la dinastía de Abraham",
+   "contenido": "Con 16:1 comienza la segunda gran parte de la narración abrahámica, «El heredero de la dinastía de Abraham» (16:1-22:19), que sigue a «La herencia del reino de Abram» (11:27-15:21). Dentro de ella: 16:1-15, Ismael, hijo de la sierva; 17:1-18:15, Ratificación del pacto.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:1",
+   "tipo": "explicacion_texto",
+   "titulo": "Diez años de espera: obstáculos que desafían la fe",
+   "contenido": "El tema del heredero se reintroduce desde el punto de vista de los obstáculos naturales que desafían la fe (cf. 11:30). En los diez años desde la partida de Harán (ver v. 16; cf. 12:4) la promesa había sido reiterada, pero Sarai seguía estéril y las alternativas que se enfocaban en Lot y en Eliezer se habían frustrado.",
+   "refs_biblicas": ["Gn 11:30", "Gn 16:16", "Gn 12:4"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:2",
+   "tipo": "cultura_costumbres",
+   "titulo": "Agar como concubina: práctica legal de la época",
+   "contenido": "La sugerencia de Sarai de que Abram tomara a Agar como concubina estaba de acuerdo con la práctica de aquel tiempo, como lo atestiguan contratos de matrimonio y códigos legales. Los contratos a veces establecían que una mujer estéril podía adquirir una sierva para su esposo. A veces la esposa recibía una doncella personal como regalo de bodas (cf. 29:29; 30:3), y todos los derechos legales sobre esa muchacha pertenecían a la esposa.",
+   "refs_biblicas": ["Gn 29:29", "Gn 30:3"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 3
+  },
+  {
+   "ref": "16:4",
+   "tipo": "cultura_costumbres",
+   "titulo": "Las leyes previstas para la sierva que desprecia",
+   "contenido": "Las leyes que regían este tipo de arreglo preveían precisamente la situación descrita en el versículo: permitían a la esposa reducir a la criada a su condición anterior, pero prohibían venderla.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:5-6",
+   "tipo": "explicacion_texto",
+   "titulo": "«Mi injusticia sobre ti»: Sarai reclama sus derechos",
+   "contenido": "«Mi injusticia sobre ti» es la traducción literal del hebreo. Sarai apelaba a Abram para que hiciera valer sus derechos legales: era responsabilidad de él redirigir el «mal» que estaba «sobre» él. Agar se gana nuestra simpatía, pero legalmente estaba en falta.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:7",
+   "tipo": "hebreo_palabra",
+   "titulo": "mal'ak: el Ángel de Jehová como «enviado»",
+   "contenido": "«Ángel de Jehová» (cf. 21:17 ss.; 22:11, 15; 24:7, 40; 31:11 ss.; 48:16). En este modo de revelación lo primario no era la forma sino la función; la teofanía era habitualmente, aunque no siempre, de apariencia humana (cf., por ejemplo, Ex 3:2). Como sugiere el término mal'ak, «mensajero», la idea distintiva era la de ser enviado en una misión.",
+   "refs_biblicas": ["Gn 21:17", "Gn 22:11", "Gn 22:15", "Gn 24:7", "Gn 24:40", "Gn 31:11", "Gn 48:16", "Ex 3:2"],
+   "hebreo": {"palabra": "mal'ak", "transliteracion": "malak", "significado": "mensajero, enviado"},
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:7",
+   "tipo": "cristo_en_genesis",
+   "titulo": "El Ángel de Jehová anticipa la venida del Hijo",
+   "contenido": "Este ángel es enviado por el Señor y hasta ora al Señor (cf. Zac 1:12, 13); sin embargo, habla como Dios y de otras maneras es identificado como el Señor. Así se dieron indicios de distinciones personales en Dios y, en particular, de la venida del Hijo como aquel que es enviado por el Padre para cumplir el pacto (cf. Mal 3:1). Remite además a la sección «Teofanía» de su introducción a Éxodo (p. 98).",
+   "refs_biblicas": ["Zac 1:12-13", "Mal 3:1"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 3
+  },
+  {
+   "ref": "16:7",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Shur: Agar huía hacia Egipto",
+   "contenido": "Shur era quizá la frontera egipcia; en cualquier caso, Agar huía hacia su tierra natal (cf. 12:15, 16).",
+   "refs_biblicas": ["Gn 12:15-16"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 1
+  },
+  {
+   "ref": "16:8",
+   "tipo": "conexion_biblica",
+   "titulo": "La pregunta de Dios a Agar: paralelos",
+   "contenido": "Para la pregunta del v. 8 remite a 3:9 y 4:9.",
+   "refs_biblicas": ["Gn 3:9", "Gn 4:9"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 1
+  },
+  {
+   "ref": "16:10",
+   "tipo": "teologia_doctrina",
+   "titulo": "Gracia común para la descendencia de Agar",
+   "contenido": "Para el v. 10 remite a 13:16 y 15:5. La bendición universal que vendría por medio de Abram, aunque redentora en primer lugar, implicaba también los beneficios de la gracia universal de Dios, otorgada a todos. Los innumerables descendientes de Agar (cf. 25:12 ss.) vivirían bajo las garantías del pacto posdiluviano (cf. 8:20 ss.), pero no en el orden eterno prometido a la simiente de Abraham (cf. 17:18 ss.).",
+   "refs_biblicas": ["Gn 13:16", "Gn 15:5", "Gn 25:12", "Gn 8:20", "Gn 17:18"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:11",
+   "tipo": "hebreo_palabra",
+   "titulo": "Ismael: «Dios oye»",
+   "contenido": "Anuncios como este son comunes en las epopeyas cananeas del segundo milenio a. de J.C. Ismael significa «Dios oye», es decir, que Dios había oído el clamor de la fugitiva.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "Ismael", "transliteracion": "Yishmael", "significado": "Dios oye"},
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:12",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Asno salvaje»: la independencia ismaelita",
+   "contenido": "Literalmente el hebreo dice «asno salvaje», animal favorito en las cacerías del desierto, que ilustraba la orgullosa independencia nómada de los ismaelitas.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 1
+  },
+  {
+   "ref": "16:13-14",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Dios que ve» y el pozo Beer-lahai-roi",
+   "contenido": "La traducción del nombre como «Dios que ve» es excesivamente libre, pero probablemente es correcta al centrar la idea no en que Dios ve sino en que ella había visto a Dios sin que eso le trajera consecuencias (el final de la frase está dañado en el OCR). En consonancia, Beer-lahai-roi significaría «lo bueno de ver vivo» (así el OCR; probablemente «el pozo de ver y seguir vivo»).",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "Beer-lahai-roi", "transliteracion": "beer lahai roi", "significado": "según el autor, relacionado con ver (a Dios) y seguir vivo"},
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "16:15",
+   "tipo": "teologia_doctrina",
+   "titulo": "Ismael: el último recurso a lo natural",
+   "contenido": "«Agar dio a luz un hijo a Abram»: en este hijo reposaría naturalmente ahora la esperanza de Abram, pero ese último recurso a lo natural significaría dar por fracasada la promesa de Dios. En este asunto crucial del primer heredero, el pacto redentor debe verse como realizado solo por la intervención sobrenatural de Dios.",
+   "cita": "En este asunto crucial del primer heredero, el pacto redentor debe ser visto como realizado sólo por medio de lo supernatural de la intervención divina.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 3
+  },
+  {
+   "ref": "17:1",
+   "tipo": "explicacion_texto",
+   "titulo": "Noventa y nueve años: un heredero, motivo de risa",
+   "contenido": "«Noventa y nueve» (cf. 16:16; 17:17, 24): la idea de un heredero por medio de Sarai era ahora motivo de risa (cf. 17:17; 18:12). Para «le apareció Jehová» remite a 17:22; 12:7 y 18:1.",
+   "refs_biblicas": ["Gn 16:16", "Gn 17:17", "Gn 17:24", "Gn 18:12", "Gn 17:22", "Gn 12:7", "Gn 18:1"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 1
+  },
+  {
+   "ref": "17:1",
+   "tipo": "hebreo_palabra",
+   "titulo": "Shadday: «Yo soy el Dios Todopoderoso»",
+   "contenido": "Los tratados de soberanía comenzaban con los títulos del gran rey (cf. 15:7). La etimología de shadday todavía es incierta, pero «Todopoderoso» incluye su sentido evidente (cf. 28:3; 35:11; 43:14; 48:3; Ex 6:3; Ez 10:5).",
+   "refs_biblicas": ["Gn 15:7", "Gn 28:3", "Gn 35:11", "Gn 43:14", "Gn 48:3", "Ex 6:3", "Ez 10:5"],
+   "hebreo": {"palabra": "shadday", "transliteracion": "shadday", "significado": "Todopoderoso (etimología incierta)"},
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 3
+  },
+  {
+   "ref": "17:1",
+   "tipo": "aplicacion_practica",
+   "titulo": "«Sé perfecto»: consagración genuina y sin reservas",
+   "contenido": "«Sé perfecto» significa estar genuinamente y sin reservas consagrado a Dios y a su servicio (cf. 6:9).",
+   "refs_biblicas": ["Gn 6:9"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:5",
+   "tipo": "hebreo_palabra",
+   "titulo": "De Abram a Abraham: padre de multitud de gentes",
+   "contenido": "Abraham, forma alargada de Abram («el padre es exaltado»), se explica por un juego de palabras como «padre de muchedumbre (hebreo ab-hamon) de gentes». El significado profético no debe buscarse en las naciones abrahámicas como los ismaelitas y los edomitas, ya que la misma promesa se hace a Sarai (v. 16), sino más bien en las multitudes de todas las naciones que han llegado a ser hijos de Abraham al compartir su fe del pacto (cf. Gá 3:29).",
+   "refs_biblicas": ["Gn 17:16", "Gá 3:29"],
+   "hebreo": {"palabra": "ab-hamon", "transliteracion": "av hamon", "significado": "padre de muchedumbre (juego de palabras con Abraham); Abram = «el padre es exaltado»"},
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 3,
+   "postura": "Rechaza que la promesa se refiera ante todo a pueblos descendientes de Abraham por la carne (ismaelitas, edomitas); la entiende de los creyentes de todas las naciones."
+  },
+  {
+   "ref": "17:6",
+   "tipo": "cristo_en_genesis",
+   "titulo": "«Reyes»: la línea real de la que vino Cristo",
+   "contenido": "La línea prometida era real: de ella salió Cristo según la carne, siguiendo a sus predecesores del AT, los reyes de Israel.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:7",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Pacto perpetuo en la simiente mesiánica",
+   "contenido": "«Pacto perpetuo»: el pacto tenía una fase provisional, pero en la simiente mesiánica de Abraham (cf. Gá 3:16) él y su reinado permanecen para siempre.",
+   "refs_biblicas": ["Gá 3:16"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:8",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Seré el Dios de ellos»",
+   "contenido": "Yahweh creaba un pueblo y se identificaba con él como su Señor.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:9",
+   "tipo": "teologia_doctrina",
+   "titulo": "El pacto es ley tanto como evangelio",
+   "contenido": "«Guardarás mi pacto»: el pacto es ley tanto como evangelio (cf. 12:1; 17:1; 22:2).",
+   "cita": "El pacto es ley tanto como evangelio",
+   "refs_biblicas": ["Gn 12:1", "Gn 17:1", "Gn 22:2"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:10-14",
+   "tipo": "teologia_doctrina",
+   "titulo": "La circuncisión: maldición de corte y señal de consagración",
+   "contenido": "La circuncisión, que se encuentra muy tempranamente entre otros pueblos, fue adoptada como señal de incorporación al pacto de Abraham. Su significado se descubre por la función que cumple en su institución. Los pactos se ratificaban con juramentos dramatizados en ritos simbólicos (cf. 15:9 ss.); una maldición característica era castrar al vasallo para destruirlo y eliminar su nombre y descendencia, y junto con ella estaba el rito del cuchillo con el que se «cortó» el pacto abrahámico. El v. 14 muestra que simbolizaba la maldición de ser cortado de la comunidad del pacto; más precisamente, la circuncisión del órgano masculino de la generación simbolizaba el corte de la descendencia. Sin embargo, como señal de un juramento que reconocía el señorío de Dios, también significaba consagración (cf. Ro 4:11).",
+   "refs_biblicas": ["Gn 15:9", "Gn 17:14", "Ro 4:11"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 3
+  },
+  {
+   "ref": "17:9-14",
+   "tipo": "teologia_doctrina",
+   "titulo": "El pacto administrado a una familia: hijos y esclavos",
+   "contenido": "Los antiguos pactos de vasallaje incluían, junto con el rey vasallo, a su reino y a sus descendientes. De modo similar, el Señor administró su pacto a Abram no solo como creyente confesante sino como cabeza de una comunidad, en este caso una rama familiar que incluía hijos y esclavos (vv. 12, 13, 23 ss.), y que lo seguiría siendo a través de las generaciones (vv. 9, 12).",
+   "refs_biblicas": ["Gn 17:12-13", "Gn 17:23", "Gn 17:9"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 3
+  },
+  {
+   "ref": "17:15-16",
+   "tipo": "hebreo_palabra",
+   "titulo": "Sara, «princesa», y la risa puesta en los nombres",
+   "contenido": "Sara es una variante de Sarai, «princesa», y es extraño que no se explique el significado del cambio. También es curioso que los nombres de Abram y de Sarai cambian agregando el mismo sonido «ah», como si Dios se estuviera riendo de los futuros padres. Combinando un juego de palabras con su promesa, puso la risa en sus mismos nombres: la unión del anciano Abraham y Sara produciría a Risa, Isaac (literalmente «él ríe»).",
+   "cita": "¡como si Dios se estuviera riendo de los futuros padres!",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "Sara / Isaac", "transliteracion": "Sarah / Yitsjaq", "significado": "princesa / «él ríe»"},
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:17",
+   "tipo": "personaje",
+   "titulo": "La risa de Abraham: todavía no fe plena",
+   "contenido": "«Entonces Abraham... se rió»: no se le escapaba el humor de la situación, pero, como lo muestra su pedido siguiente, su risa todavía no era el libre abandono de una fe plena.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:18",
+   "tipo": "cultura_costumbres",
+   "titulo": "«Ojalá Ismael viva»: lenguaje de entronización vasalla",
+   "contenido": "En la terminología del pacto, al aspirante a un trono vasallo se lo hacía «vivir» si el gran rey lo establecía en el trono, sobre todo cuando había sido «muerto», es decir, rechazado en sus reclamos por sus rivales. Abram, atenazado por la gran broma de Dios, quería establecer a Ismael como heredero del reino.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:20",
+   "tipo": "explicacion_texto",
+   "titulo": "Doce príncipes: Ismael, patriarca de una liga",
+   "contenido": "«Doce príncipes engendrará»: Dios oyó a Abraham. Ismael recibiría status dinástico como patriarca sobre una liga anfictiónica, aunque no sobre el reino de las doce tribus de Dios.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "17:21",
+   "tipo": "cultura_costumbres",
+   "titulo": "El hijo legítimo es el heredero principal",
+   "contenido": "«Mi pacto con Isaac»: legalmente, un hijo legítimo llegaba a ser el heredero principal, aun cuando hubiera nacido después del hijo de una esposa esclava.",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "18:1-15",
+   "tipo": "estructura_bosquejo",
+   "titulo": "18:1-15: unido al capítulo 17 por el tema",
+   "contenido": "En cuanto a la ocasión, 18:1-15 se conecta con 18:16 ss., pero el tema se relaciona con el capítulo 17. La promesa del heredero se confirma en la forma que se encuentra aquí (cf. 17:21 y 18:10, 14); las ceremonias del pacto evidentemente se complementan, y el motivo de la risa continúa y culmina en una notable palabra divina en 18:14 (el término está dañado en el OCR).",
+   "refs_biblicas": ["Gn 18:16", "Gn 17:21", "Gn 18:10", "Gn 18:14"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "18:1",
+   "tipo": "explicacion_texto",
+   "titulo": "Nueva aparición en Mamre, poco después",
+   "contenido": "La nueva aparición del Señor (el OCR dice «19:1») ocurrió poco después de la anterior: el nacimiento sobrenatural que se acercaba fue anunciado por repetidas visitas angelicales. Para Mamre remite a 13:18 y 14:13.",
+   "refs_biblicas": ["Gn 13:18", "Gn 14:13"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 1
+  },
+  {
+   "ref": "18:2",
+   "tipo": "explicacion_texto",
+   "titulo": "Tres varones; uno era el ángel del Señor",
+   "contenido": "La expresión «he aquí tres varones» sugiere una aparición repentina. Uno de los tres era el ángel del Señor (cf. vv. 13, 17; 16:7 ss.).",
+   "refs_biblicas": ["Gn 18:13", "Gn 18:17", "Gn 16:7"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "18:3",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "'adonay o 'adoni: ¿reconoció Abraham al Señor?",
+   "contenido": "El autor indica: léase «Mi Señor» (con mayúscula). El hebreo 'adonay, reservado para referirse al Señor divino, es reemplazado (en la lectura que discute) por 'adoni, una forma de cortesía común. Pero podía esperarse que Abraham reconociera al ángel del Señor después de solo un breve momento, y ese reconocimiento explicaría la forma de dirigirse a él; además, sin él, la mención de Yahweh en el v. 13 sería demasiado abrupta.",
+   "refs_biblicas": ["Gn 18:13"],
+   "hebreo": {"palabra": "'adonay / 'adoni", "transliteracion": "adonay / adoni", "significado": "Señor (divino) / mi señor (cortesía)"},
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2,
+   "postura": "Registra la propuesta de leer 'adoni («mi señor», cortesía humana), pero se inclina por mantener 'adonay: Abraham habría reconocido pronto al ángel del Señor."
+  },
+  {
+   "ref": "18:5-8",
+   "tipo": "cultura_costumbres",
+   "titulo": "La comida, confirmación del pacto",
+   "contenido": "La comida bien puede haber sido la confirmación de la relación del pacto (cf. Ex 24:9-11); por eso fue apropiadamente seguida por la palabra de confirmación.",
+   "refs_biblicas": ["Ex 24:9-11"],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 2
+  },
+  {
+   "ref": "18:10",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Detrás de él» o «detrás de ella»",
+   "contenido": "«A la puerta de la tienda, que estaba detrás de él»: el hebreo también puede traducirse «Sara estaba detrás de ella» (el comentario sigue en el bloque siguiente; aquí queda cortado).",
+   "refs_biblicas": [],
+   "pagina": "PDF 13 | pág. impresa 87",
+   "importancia": 1
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{"bloque": "dbmh_04", "notas": [
+{
+ "ref": "tema",
+ "tipo": "cronologia_fechas",
+ "titulo": "Poco se sabe del calendario de los patriarcas",
+ "contenido": "Los calendarios se diseñan para registrar la historia y fijar de antemano fechas de aniversarios sociales, cívicos y religiosos, y para la planificación económica. Comparativamente poco se sabe del calendario de los primeros israelitas desde los patriarcas hasta el exilio, pero vale la pena un estudio crítico de los registros bíblicos y de los descubrimientos arqueológicos. Durante el período bíblico el tiempo se reconocía solamente por observaciones astronómicas; los astrólogos caldeos y egipcios llegaron a ser muy instruidos en los movimientos de los astros y, junto con sus vecinos del Cercano Oriente, influyeron en el calendario judío. Desde los tiempos más antiguos, el sol y la luna determinaban los períodos: días, meses y años.",
+ "refs_biblicas": [],
+ "pagina": "PDF 259",
+ "importancia": 1
+},
+{
+ "ref": "1:5",
+ "tipo": "cultura_costumbres",
+ "titulo": "El día bíblico va de puesta a puesta del sol",
+ "contenido": "Los días, en el registro bíblico del tiempo, comienzan con el relato de la creación. Mientras el día babilonio empezaba al amanecer, la Biblia reconoce el lapso de 24 horas desde una puesta del sol hasta la siguiente (Dt 23:11; cf. Neh 4:21; Gn 1:5, 8 y otros). Los días de la semana no tenían nombre: se designaban con números ordinales.",
+ "cita": "Mientras que el día babilonio empezaba al amanecer, la Biblia reconoce el lapso de 24 horas desde la puesta del sol a la siguiente puesta del sol",
+ "refs_biblicas": ["Gn 1:5", "Gn 1:8", "Dt 23:11", "Neh 4:21"],
+ "pagina": "PDF 259",
+ "importancia": 2
+},
+{
+ "ref": "1:6",
+ "tipo": "hebreo_palabra",
+ "titulo": "La bóveda: expansión formada el segundo día",
+ "contenido": "La bóveda es la expansión del cielo que circunda la tierra, formada por Dios el segundo día de la creación (Gn 1:6). Corresponde al «vacío» de Job 26:7. El autor advierte que la palabra castellana «firmamento» no transmite correctamente el sentido real del término hebreo.",
+ "cita": "Nuestra palabra firmamento no sugiere correctamente el sentido real de la palabra heb.",
+ "refs_biblicas": ["Gn 1:6", "Job 26:7"],
+ "pagina": "PDF 246",
+ "importancia": 2
+},
+{
+ "ref": "2:2-3",
+ "tipo": "teologia_doctrina",
+ "titulo": "El séptimo día, la semana y el sábado",
+ "contenido": "La semana de siete días es de origen semítico. Aunque Dios puso especial énfasis en el séptimo día al tiempo de la creación (Gn 2:2-3), la primera observancia registrada de un sábado fue cuando los israelitas recogían el maná en el desierto (Éx 16:23). El cuarto mandamiento («Acuérdate del día del sábado para santificarlo», Éx 20:8) fue dado como señal memorial perpetua del pacto entre Dios y su pueblo escogido, y después vinieron mandamientos sobre la manera de observarlo y castigos por su profanación (Éx 23:12; 35:2-3). El sabbath no era el nombre del séptimo día sino una designación sagrada. Los primeros judíos cristianos se habituaron a reunirse el primer día de la semana para conmemorar... (el texto se interrumpe al final de la página).",
+ "cita": "El sabbath no era el nombre del séptimo día sino una designación sagrada.",
+ "refs_biblicas": ["Gn 2:2-3", "Éx 16:23", "Éx 20:8", "Éx 23:12", "Éx 35:2-3"],
+ "pagina": "PDF 259",
+ "importancia": 2
+},
+{
+ "ref": "3",
+ "tipo": "dificultad_interpretaciones",
+ "titulo": "La caída: hecho histórico, no mito ni alegoría",
+ "contenido": "Génesis 3 narra la caída del hombre como un hecho histórico, no como un mito, y el relato está en un contexto de datos históricos. Algunos filósofos y teólogos creen que es una alegoría que describe el despertar del hombre desde un estado bruto a la conciencia propia y la personalidad, es decir, una «caída hacia arriba» en vez de hacia abajo. El autor rechaza esa explicación porque está en conflicto directo con la enseñanza bíblica: Pablo interpreta el relato literalmente y el punto de vista bíblico del pecado y la redención da la caída por sentada.",
+ "cita": "Se narra la caída del hombre en Génesis 3 como un hecho histórico, no como un mito. Está en un contexto de datos históricos.",
+ "refs_biblicas": ["Ro 5:12-13", "1 Co 15:22", "1 Ti 2:14"],
+ "pagina": "PDF 254",
+ "importancia": 3,
+ "postura": "Lectura alegórica (algunos filósofos y teólogos: el relato describe el despertar de la conciencia, una «caída hacia arriba») frente a lectura histórica y literal; el autor sostiene la histórica y rechaza la alegórica por contradecir directamente la enseñanza bíblica y la interpretación de Pablo."
+},
+{
+ "ref": "3",
+ "tipo": "conexion_biblica",
+ "titulo": "El Nuevo Testamento trata la caída como histórica",
+ "contenido": "Aunque el AT no vuelve a referirse a la caída, el NT la considera un acontecimiento literal e histórico (Ro 5:12-13; 1 Co 15:22; 1 Ti 2:14). No hay duda de que Pablo interpreta el relato literalmente y ve en la caída el origen del pecado en la raza humana. Toda la visión bíblica del pecado y de la redención presupone la caída.",
+ "cita": "El punto de vista bíblico del pecado y la redención da la caída por sentado.",
+ "refs_biblicas": ["Ro 5:12-13", "1 Co 15:22", "1 Ti 2:14"],
+ "pagina": "PDF 254",
+ "importancia": 3
+},
+{
+ "ref": "3:1-5",
+ "tipo": "teologia_doctrina",
+ "titulo": "En qué consistió el pecado de la caída",
+ "contenido": "El pecado que significó la caída consistió en que Adán y Eva desobedecieron la palabra de Dios (Gn 3:1-4) y desafiaron la bondad de Dios al imputarle un mal motivo (Gn 3:5). Pero, según el autor, consistió principalmente en desobedecer la ley de Dios. (La explicación sobre el efecto de la caída continúa en una página que no está en este bloque.)",
+ "cita": "Pero principalmente consistió en desobedecer la ley de Dios.",
+ "refs_biblicas": ["Gn 3:1-4", "Gn 3:5"],
+ "pagina": "PDF 254",
+ "importancia": 3
+},
+{
+ "ref": "4:23-24",
+ "tipo": "explicacion_texto",
+ "titulo": "El cántico de Lamec, primero de la Biblia",
+ "contenido": "Las palabras hebreas para cántico son shir y shirah. El canto tuvo un papel prominente en la adoración y en la vida nacional de los hebreos, y el primer cántico de la Biblia fue entonado por Lamec (Gn 4:23-24). No era raro que los judíos compusieran un cántico para celebrar una victoria o una experiencia religiosa especial (Éx 15); el Salterio ha sido llamado «el himnario de Israel», Pablo urge a los creyentes a cantar (Ef 5:19; Col 3:16) y Apocalipsis habla muchas veces de cánticos celestiales (Ap 5:9; 14:3).",
+ "cita": "El primer cántico en la Biblia fue entonado por Lamec",
+ "refs_biblicas": ["Gn 4:23-24", "Éx 15", "Ef 5:19", "Col 3:16", "Ap 5:9", "Ap 14:3"],
+ "hebreo": {"palabra": "shir, shirah", "transliteracion": "shir, shirah", "significado": "cántico"},
+ "pagina": "PDF 268",
+ "importancia": 1
+},
+{
+ "ref": "6:14",
+ "tipo": "hebreo_palabra",
+ "titulo": "La brea que impermeabilizó el arca",
+ "contenido": "La brea o betún es una sustancia líquida viscosa e inflamable que se encontraba en la Mesopotamia y cerca del mar Muerto; es un mineral ampliamente esparcido y una de las mejores sustancias impermeabilizantes conocidas. Se utilizaba para impermeabilizar barcos: con ella se impermeabilizó el arca de Noé (Gn 6:14, donde el término es kopher y sus derivados) y, junto con asfalto, se cubrió la arquilla de juncos (Éx 2:3, donde el término es zepheth).",
+ "refs_biblicas": ["Gn 6:14", "Éx 2:3"],
+ "hebreo": {"palabra": "kopher", "transliteracion": "kopher", "significado": "brea (término de Gn 6:14 y sus derivados)"},
+ "pagina": "PDF 248",
+ "importancia": 2
+},
+{
+ "ref": "9:18-27",
+ "tipo": "personaje",
+ "titulo": "Cam, el hijo menor de Noé",
+ "contenido": "Cam (heb. ham, quizá «cálido») fue el hijo menor de Noé, nacido probablemente unos 96 años antes del diluvio, y una de las ocho personas que sobrevivieron al diluvio. Su indecencia cuando su padre se emborrachó acarreó una maldición sobre Canaán (Gn 9:20-27).",
+ "refs_biblicas": ["Gn 9:20-27"],
+ "hebreo": {"palabra": "ham", "transliteracion": "ham", "significado": "quizá cálido"},
+ "pagina": "PDF 262",
+ "importancia": 2
+},
+{
+ "ref": "9:18-10:6",
+ "tipo": "personaje",
+ "titulo": "Canaán, hijo de Cam",
+ "contenido": "Canaán fue hijo de Cam (Gn 9-10). Sus descendientes ocuparon Canaán y tomaron su nombre de ese país (Gn 9:18, 22; 10:6).",
+ "refs_biblicas": ["Gn 9:18", "Gn 9:22", "Gn 10:6"],
+ "pagina": "PDF 265",
+ "importancia": 2
+},
+{
+ "ref": "9:20-21",
+ "tipo": "teologia_doctrina",
+ "titulo": "La borrachera de Noé y la enseñanza bíblica",
+ "contenido": "Las Escrituras muestran que la borrachera era uno de los principales vicios de la antigüedad, aun entre los hebreos. Entre los casos bien conocidos están Noé (Gn 9:21) y Lot (Gn 19:33, 35), además de Nabal, Urías, Amnón, Ela y Ben-adad; hasta las mujeres eran culpables (Am 4:1), y se pintan vivamente los síntomas y efectos de la bebida fuerte. Aunque las Escrituras condenan la intemperancia en los términos más fuertes, no prescriben la abstinencia total como regla formal y universal; sin embargo, los principios dados señalan en esa dirección (Mt 16:24-25; Mr 9:42-43; Ro 14:13-21; 1 Co 8:8-13; Ef 5:18). A veces la borrachera se usa en sentido figurado (Is 29:9).",
+ "cita": "Aunque las Escrituras condenan la intemperancia en los términos más fuertes, no prescribe la abstinencia total como una regla formal y universal. Sin embargo, los principios dados señalan en esa dirección",
+ "refs_biblicas": ["Gn 9:21", "Gn 19:33", "Gn 19:35", "1 S 25:36", "2 S 11:13", "2 S 13:28", "1 R 16:9", "1 R 20:16", "Am 4:1", "Job 12:25", "Sal 107:27", "Is 28:7", "Os 4:11", "Mt 16:24-25", "Mr 9:42-43", "Ro 14:13-21", "1 Co 8:8-13", "Ef 5:18", "Is 29:9"],
+ "pagina": "PDF 245",
+ "importancia": 2
+},
+{
+ "ref": "10:6-20",
+ "tipo": "explicacion_texto",
+ "titulo": "Los pueblos descendientes de Cam",
+ "contenido": "Según el autor, Cam llegó a ser el progenitor (el texto dice «primogénito») de las razas oscuras: no los negros, sino los egipcios, etíopes, «libaneses» (así en el texto) y cananeos (Gn 10:6-20). En Sal 78:51; 105:23 y 106:22, «Cam» es otro nombre para Egipto, que representa a los principales descendientes de Cam.",
+ "refs_biblicas": ["Gn 10:6-20", "Sal 78:51", "Sal 105:23", "Sal 106:22"],
+ "pagina": "PDF 262",
+ "importancia": 2
+},
+{
+ "ref": "10:11-12",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Cálaj, antigua ciudad de Asiria",
+ "contenido": "Cálaj fue una ciudad muy antigua de Asiria, sobre los bordes superiores del río Tigris, edificada originalmente por Nimrod o por Asur (Gn 10:6-12). Aparentemente fue reedificada por Salmanasar I (que, según el autor, reinó de 1456 a 1436 a. de J.C.) y luego quedó abandonada durante muchos siglos, hasta que la restauró Asurnasipal (reinó 926-902), a quien se describe como «Cruel Encarnado».",
+ "refs_biblicas": ["Gn 10:6-12"],
+ "pagina": "PDF 257",
+ "importancia": 2
+},
+{
+ "ref": "10:14",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Caftor, tierra de origen de los filisteos",
+ "contenido": "Caftor es el lugar del cual provinieron originalmente los filisteos (Am 9:7). Jeremías la llama una isla (Jer 47:4), que probablemente sea Creta. Hay evidencia de una conexión antigua entre Creta y Filistea (Ez 25:16; Sof 2:5, donde la LXX traduce «quereteos» como «cretenses»).",
+ "refs_biblicas": ["Am 9:7", "Jer 47:4", "Ez 25:16", "Sof 2:5"],
+ "pagina": "PDF 254",
+ "importancia": 1
+},
+{
+ "ref": "11:3",
+ "tipo": "hebreo_palabra",
+ "titulo": "El betún como mortero en Babel",
+ "contenido": "La brea o betún se usó también como mortero en la torre de Babel (Gn 11:3). Donde la RVR-1909 dice «betún» (Gn 11:3; Éx 2:3; «pozos de betún», Gn 14:10), la RVA dice «brea»; los términos hebreos que da el autor son hemar («hirviendo») y zepheth («corriente»). Probablemente se parecía al asfalto, y tal vez se usó la mayoría de las veces para impermeabilizar y como cemento para ladrillos.",
+ "refs_biblicas": ["Gn 11:3", "Gn 14:10", "Éx 2:3"],
+ "hebreo": {"palabra": "hemar", "transliteracion": "hemar", "significado": "hirviendo (betún, brea)"},
+ "pagina": "PDF 248",
+ "importancia": 2
+},
+{
+ "ref": "11:28",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Caldea, el país de Babilonia",
+ "contenido": "Caldea es el país cuya capital era Babilonia, que conquistó a Judá y llevó a sus habitantes a la cautividad (p. ej., Gn 11:28; Job 1:17; Ez 23:14-16; Hch 7:4). A veces el término se traduce «Babilonia» (Jer 51:24, 35).",
+ "refs_biblicas": ["Gn 11:28", "Job 1:17", "Ez 23:14-16", "Hch 7:4", "Jer 51:24", "Jer 51:35"],
+ "pagina": "PDF 257",
+ "importancia": 1
+},
+{
+ "ref": "12:6",
+ "tipo": "contexto_historico",
+ "titulo": "Los cananeos y el nombre Canaán",
+ "contenido": "Canaán fue uno de los nombres antiguos de Palestina, la tierra de los cananeos a quienes los israelitas desalojaron. Las inscripciones egipcias de 1800 a. de J.C. usan el nombre para la franja costera entre Egipto y Asia Menor, y en las cartas de Amarna (1400 a. de J.C.) se aplica a la costa fenicia. Según la Escritura, los cananeos vivían por toda la tierra (Jue 1:9-10) e incluían a toda la población preisraelita, aun al oriente del Jordán (Gn 12:6; 24:3, 37; Jos 3:10). La «lengua de Canaán» (Is 19:18) es el grupo de lenguas semíticas occidentales del que el hebreo, el fenicio y el moabita eran dialectos. La presencia continua de los cananeos con sus prácticas paganas creó serios problemas religiosos para los israelitas.",
+ "refs_biblicas": ["Gn 12:6", "Gn 24:3", "Gn 24:37", "Jue 1:9-10", "Jos 3:10", "Is 19:18"],
+ "pagina": "PDF 265",
+ "importancia": 2
+},
+{
+ "ref": "12:8",
+ "tipo": "explicacion_texto",
+ "titulo": "Abraham se detiene y sacrifica junto a Betel",
+ "contenido": "Betel quedaba unos 20 km al norte de Jerusalén, al occidente de Hai. Abraham se detuvo cerca de este lugar en su camino al Néguev y ofreció un sacrificio (Gn 12:8; 13:3).",
+ "refs_biblicas": ["Gn 12:8", "Gn 13:3"],
+ "pagina": "PDF 222",
+ "importancia": 2
+},
+{
+ "ref": "14:5",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Cam, ciudad de los zuzitas",
+ "contenido": "Además del hijo de Noé y de su uso como nombre de Egipto, «Cam» designa una ciudad de los zuzitas, al este del Jordán (Gn 14:5).",
+ "refs_biblicas": ["Gn 14:5"],
+ "pagina": "PDF 262",
+ "importancia": 1
+},
+{
+ "ref": "14:7",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Cades-barnea, llamada En-mispat",
+ "contenido": "Cades o Cades-barnea (heb. qadhesh, de qadhosh, «ser santos») es posiblemente también Quedes (Jos 15:23) y En-mispat (Gn 14:7; cf. 20:1), y quedaba probablemente a unos 83 km al sur de Beerseba. La primera referencia bíblica a Cades está en Gn 14:7, donde se la equipara con En-mispat. Se dice que quedaba en el desierto de Parán (Nm 13:26) y también en el desierto de Zin (Nm 33:36; cf. 20:1); Sal 29:8 menciona el desierto de Cades. Desde Horeb (Sinaí), por la ruta de Seír, había una jornada de 11 días hasta Cades (Dt 1:2). Una foto del diccionario presenta el oasis de Cades-barnea como el lugar más importante del peregrinaje de los israelitas por el desierto.",
+ "refs_biblicas": ["Gn 14:7", "Gn 20:1", "Jos 15:23", "Nm 13:26", "Nm 33:36", "Nm 20:1", "Sal 29:8", "Dt 1:2"],
+ "hebreo": {"palabra": "qadhesh", "transliteracion": "qadhesh", "significado": "de qadhosh, ser santos"},
+ "pagina": "PDF 253",
+ "importancia": 2
+},
+{
+ "ref": "14:7",
+ "tipo": "conexion_biblica",
+ "titulo": "Cades en la historia posterior de Israel",
+ "contenido": "La relación principal de los israelitas con Cades tiene que ver con el tiempo que pasaron allí durante el éxodo (Dt 1:46; Nm 33:37-38; Dt 2:14). Desde allí Moisés envió a los 12 espías a explorar el sur de Canaán (Nm 13:1, 17, 26; 32:8; Dt 1:19-25; Jos 14:6-7); alentado por el Señor a invadir, el pueblo se rebeló (Dt 9:23) y fue condenado a retrasar la posesión de la tierra (Nm 14:34). En Cades murió y fue sepultada María (Nm 20:1); en esa área estaban las aguas de Meriba (Nm 20:2-13, 24; Meribacades, Nm 27:14; Dt 32:51), y desde allí Moisés pidió permiso al rey de Edom para pasar por su territorio (Nm 20:14-16, 22; Jue 11:16-17). La conquista del sur por Josué abarcó desde Cades hasta Gaza (Jos 10:41), y Cades marcaba la frontera sur de Judá y de la tierra poseída por Israel (Jos 15:3, 23; Nm 34:4; Ez 47:19; 48:28).",
+ "refs_biblicas": ["Dt 1:46", "Nm 33:37-38", "Dt 2:14", "Nm 13:1-26", "Nm 32:8", "Dt 1:19-25", "Jos 14:6-7", "Dt 9:23", "Nm 14:34", "Nm 20:1-22", "Nm 27:14", "Dt 32:51", "Jue 11:16-17", "Jos 10:41", "Jos 15:3", "Nm 34:4", "Ez 47:19", "Ez 48:28"],
+ "pagina": "PDF 253-254",
+ "importancia": 1
+},
+{
+ "ref": "14:10",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Pozos de betún cerca del mar Muerto",
+ "contenido": "La brea o betún se encontraba en la Mesopotamia y cerca del mar Muerto. Gn 14:10 menciona pozos de esta sustancia: la RVR-1909 dice «pozos de betún», la RVR-1960 traduce «asfalto» y la RVA «brea». Probablemente se parecía al asfalto.",
+ "refs_biblicas": ["Gn 14:10"],
+ "pagina": "PDF 248",
+ "importancia": 1
+},
+{
+ "ref": "14:20",
+ "tipo": "cultura_costumbres",
+ "titulo": "El diezmo del botín dado a Melquisedec",
+ "contenido": "El botín (lo que se tomaba del enemigo vencido) se dividía por costumbre, como cuando Abram dedicó al Señor un diezmo del botín dándoselo a Melquisedec (Gn 14:20), y por legislación, como cuando David ordenó que se compartiera por igual con quienes por cansancio no pudieron seguir en la batalla (1 S 30:21-25). Los despojos se dividían en partes iguales entre los que iban a la batalla y los que quedaban en el campamento con el equipaje, y se daban partes a los levitas y al Señor (Nm 31:27-30; Jos 22:8); bajo la monarquía, el rey recibía parte.",
+ "refs_biblicas": ["Gn 14:20", "1 S 30:21-25", "Nm 31:27-30", "Jos 22:8", "2 R 14:14", "1 Cr 18:7"],
+ "pagina": "PDF 246",
+ "importancia": 2
+},
+{
+ "ref": "18:6",
+ "tipo": "cultura_costumbres",
+ "titulo": "Braseros y cocinas en las casas antiguas",
+ "contenido": "En la antigüedad, en las casas más pobres el brasero era un hoyo en el piso de algún cuarto donde se encendía fuego para cocinar o calentar; no se conocían las chimeneas y el humo salía por donde podía o por una abertura hecha a propósito. Las mejores casas se calentaban con un caldero de carbones encendidos: una batea ancha y poco profunda que también podía usarse para cocinar (ver Gn 18:6). En Palestina la cocina solía ser de barro: algunas eran pequeñas y portátiles y quemaban carbón de leña; otras se construían fuera de la casa y se calentaban con palos secos, hierba y aun estiércol. Estaba hecha para sostener la olla encima del recipiente del fuego, que tenía respiraderos en el fondo; solo los acomodados podían tener una estufa metálica.",
+ "refs_biblicas": ["Gn 18:6", "Sal 102:3", "Is 30:14", "Jer 36:22-23", "Os 13:3", "Zac 12:6", "Mr 14:67"],
+ "pagina": "PDF 247",
+ "importancia": 1
+},
+{
+ "ref": "19:24",
+ "tipo": "conexion_biblica",
+ "titulo": "La brea como elemento destructivo",
+ "contenido": "La brea también se utilizaba como elemento destructivo: Is 34:9 la emplea para representar una maldición sobre Edom, y el autor remite a compararlo con Gn 19:24.",
+ "refs_biblicas": ["Is 34:9", "Gn 19:24"],
+ "pagina": "PDF 248",
+ "importancia": 1
+},
+{
+ "ref": "19:30-36",
+ "tipo": "explicacion_texto",
+ "titulo": "La embriaguez de Lot",
+ "contenido": "El autor cuenta a Lot (Gn 19:33, 35), junto con Noé, entre los casos bien conocidos de intoxicación en la Biblia, como muestra de que la borrachera era uno de los principales vicios de la antigüedad, aun entre los hebreos. Las Escrituras condenan la intemperancia en los términos más fuertes.",
+ "refs_biblicas": ["Gn 19:33", "Gn 19:35"],
+ "pagina": "PDF 245",
+ "importancia": 1
+},
+{
+ "ref": "24:14-20",
+ "tipo": "cultura_costumbres",
+ "titulo": "El cántaro para acarrear agua",
+ "contenido": "El cántaro era una jarra de barro con una o dos asas, que comúnmente se llevaba sobre la cabeza o el hombro y se usaba para transportar agua (Gn 24:14-20, 43-46). Romper un cántaro era algo tan serio que se usaba como figura de la muerte (Ec 12:6).",
+ "refs_biblicas": ["Gn 24:14-20", "Gn 24:43-46", "Ec 12:6"],
+ "pagina": "PDF 268",
+ "importancia": 1
+},
+{
+ "ref": "24:22",
+ "tipo": "cultura_costumbres",
+ "titulo": "Brazaletes de brazo y de muñeca",
+ "contenido": "El brazalete era un adorno para hombres y mujeres, por lo general usado en la parte de arriba del brazo; también había brazaletes para la muñeca. El autor cita Gn 24:22, 30, 47 para ambos usos, junto con Nm 31:50; Is 3:19; Ez 16:11; 23:42; Éx 35:22 y 2 S 1:10.",
+ "refs_biblicas": ["Gn 24:22", "Gn 24:30", "Gn 24:47", "Nm 31:50", "Is 3:19", "Ez 16:11", "Ez 23:42", "Éx 35:22", "2 S 1:10"],
+ "pagina": "PDF 247",
+ "importancia": 1
+},
+{
+ "ref": "25:1-4",
+ "tipo": "conexion_biblica",
+ "titulo": "Descendencia de Abraham con Quetura en Job",
+ "contenido": "Al comienzo de la página se conserva el final de una entrada cuyo inicio está en una página que no figura en el bloque: un personaje vinculado a la descendencia de Abraham con Quetura, que pronunció tres discursos en el libro de Job (Job 8, 18, 25) y era un tradicionalista (Job 8:8-10).",
+ "refs_biblicas": ["Job 8", "Job 18", "Job 25", "Job 8:8-10"],
+ "pagina": "PDF 241",
+ "importancia": 1
+},
+{
+ "ref": "28:10-22",
+ "tipo": "teologia_doctrina",
+ "titulo": "Jacob llama Betel a Luz",
+ "contenido": "Jacob llamó Betel («casa de Dios») al lugar llamado Luz, porque Dios lo encontró allí y le confirmó el pacto abrahámico (Gn 28:10-22).",
+ "refs_biblicas": ["Gn 28:10-22"],
+ "pagina": "PDF 222",
+ "importancia": 3
+},
+{
+ "ref": "28:11-18",
+ "tipo": "explicacion_texto",
+ "titulo": "Las piedras de cabecera de Jacob",
+ "contenido": "En Gn 28:11, 18, «cabecera» se refiere a las piedras que Jacob dispuso, ya sea bajo su cabeza o al lado de ella, cuando dormía al aire libre (cf. 1 S 19:13, 16). En Mr 4:38, con el término griego proskephalaion (almohada o cualquier otro cojín), se acerca al significado moderno; probablemente era el cojín sobre el que se sentaba un remero.",
+ "refs_biblicas": ["Gn 28:11", "Gn 28:18", "1 S 19:13", "1 S 19:16", "Mr 4:38"],
+ "pagina": "PDF 251",
+ "importancia": 2,
+ "postura": "El autor deja abiertas dos posibilidades: las piedras estaban bajo la cabeza de Jacob o al lado de ella."
+},
+{
+ "ref": "28:19",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Betel, antes Luz: ubicación",
+ "contenido": "Betel (heb. beth'el, «casa de Dios») era un pueblo originalmente conocido como Luz, a 20 km al norte de Jerusalén (Gn 28:19), al occidente de Hai. Más tarde se le dio a la tribu de Benjamín (Jos 18:21-22). Hubo otra Betel, una ciudad en el sur de Judá (1 S 30:27), llamada también Betul (Jos 19:4) y Betuel (1 Cr 4:30).",
+ "refs_biblicas": ["Gn 28:19", "Jos 18:21-22", "1 S 30:27", "Jos 19:4", "1 Cr 4:30"],
+ "hebreo": {"palabra": "beth'el", "transliteracion": "beth'el", "significado": "casa de Dios"},
+ "pagina": "PDF 221-222",
+ "importancia": 2
+},
+{
+ "ref": "28:19",
+ "tipo": "conexion_biblica",
+ "titulo": "Betel: de casa de Dios a Bet-avén",
+ "contenido": "Betel fue tomada por los descendientes de José bajo la dirección del Señor (Jue 1:22-26); allí se conservó el arca durante el período de los jueces (Jue 20:26-28) y Samuel juzgaba y adoraba allí (1 S 7:16; 10:3). Jeroboam la escogió como uno de los dos centros donde puso becerros de oro (1 R 12:26-30); por estos y otros pecados Amós clamó contra la ciudad (Am 3:14; 4:4-6) y Oseas pronunció juicio sobre ella, llamándola Bet-avén, «casa de maldad» (Os 4:15). Bet-avén (heb. beth'awen, «casa de vanidad») era un pueblo vecino, al lado de Hai y al este de Betel, cuyo nombre Oseas usa en sentido figurado: la casa de Dios se había convertido en la casa de la vanidad y la idolatría. Los pueblos que Asiria estableció allí combinaron la adoración al Señor con la de sus dioses paganos (2 R 17:27-28, 33) hasta que Josías quitó esa idolatría (2 R 23:15-23); al volver del exilio, algunos regresaron a Betel, y se dice que eran benjamitas (Esd 2:28; Neh 7:32; 11:31).",
+ "cita": "La casa de Dios (Betel) se había convertido en la casa de la vanidad y la idolatría (Bet-avén).",
+ "refs_biblicas": ["Jue 1:22-26", "Jue 20:26-28", "1 S 7:16", "1 S 10:3", "1 R 12:26-30", "Am 3:14", "Am 4:4-6", "Os 4:15", "Jos 18:12", "Jos 7:2", "2 R 17:27-28", "2 R 17:33", "2 R 23:15-23", "Esd 2:28", "Neh 7:32", "Neh 11:31"],
+ "hebreo": {"palabra": "beth'awen", "transliteracion": "beth'awen", "significado": "casa de vanidad"},
+ "pagina": "PDF 221-222",
+ "importancia": 2
+},
+{
+ "ref": "29:2",
+ "tipo": "hebreo_palabra",
+ "titulo": "Peh: la «boca» del pozo",
+ "contenido": "La palabra hebrea principal para boca es peh, que también se traduce idioma, filo, falda y cualquier otra abertura, como la de un pozo (Gn 29:2), la de un costal (Gn 42:27), la de una cueva (Jos 10:22) o la de un sepulcro (Sal 141:7). La Biblia usa constantemente el órgano del habla en el sentido de idioma, buen ejemplo del uso de lo concreto por lo abstracto.",
+ "refs_biblicas": ["Gn 29:2", "Gn 42:27", "Jos 10:22", "Sal 141:7"],
+ "hebreo": {"palabra": "peh", "transliteracion": "peh", "significado": "boca; también idioma, filo, falda y cualquier abertura"},
+ "pagina": "PDF 242",
+ "importancia": 1
+},
+{
+ "ref": "29:29-30:8",
+ "tipo": "personaje",
+ "titulo": "Bilha, sierva de Raquel",
+ "contenido": "Bilha (según el autor, «tonto») fue sierva de Raquel, concubina de Jacob y madre de Dan y Neftalí (Gn 29:29; 30:1-8). El mismo nombre designa un pueblo de la tribu de Simeón (1 Cr 4:29; Bala en Jos 19:3).",
+ "refs_biblicas": ["Gn 29:29", "Gn 30:1-8", "1 Cr 4:29", "Jos 19:3"],
+ "pagina": "PDF 241",
+ "importancia": 2
+},
+{
+ "ref": "32:1-2",
+ "tipo": "explicacion_texto",
+ "titulo": "Majanaim: los dos campamentos",
+ "contenido": "Un campamento era un grupo de tiendas usadas para viajar o para residencia temporal, como en caso de guerra. Cuando los ángeles de Dios encontraron a Jacob, él exclamó: «¡Este es un campamento de Dios!» y llamó al lugar Majanaim o Dos Campamentos, refiriéndose al de Dios y al suyo (Gn 32:1-2).",
+ "cita": "llamó al lugar Majanaim o Dos Campamentos, refiriéndose al de Dios y al suyo",
+ "refs_biblicas": ["Gn 32:1-2"],
+ "pagina": "PDF 263",
+ "importancia": 2
+},
+{
+ "ref": "32:23",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Bet-bara, vado del Jordán",
+ "contenido": "Bet-bara (heb. beth-barah, «casa del vado») era un importante vado del Jordán, quizá Bet-arabá, que aparece en los registros de Gedeón (Jue 7:24), Jefté (Jue 12:5) y Jacob (Gn 32:23).",
+ "refs_biblicas": ["Gn 32:23", "Jue 7:24", "Jue 12:5"],
+ "hebreo": {"palabra": "beth-barah", "transliteracion": "beth-barah", "significado": "casa del vado"},
+ "pagina": "PDF 221",
+ "importancia": 1
+},
+{
+ "ref": "33:17",
+ "tipo": "cultura_costumbres",
+ "titulo": "Las cabañas para el ganado de Jacob",
+ "contenido": "La cabaña era un refugio sencillo y temporal, construido generalmente con ramas de árbol con hojas, que usaba el guardián de una viña o huerta cuando la fruta estaba madura y podía ser robada (Is 1:8); era más provisoria que una torre de centinela. A veces la palabra describe un lugar más grande y cercado (Gn 33:17), como el que Jacob construyó para su ganado.",
+ "refs_biblicas": ["Gn 33:17", "Is 1:8"],
+ "pagina": "PDF 251",
+ "importancia": 1
+},
+{
+ "ref": "35:7-8",
+ "tipo": "explicacion_texto",
+ "titulo": "El-betel y la sepultura de Débora",
+ "contenido": "Más tarde Jacob regresó a Betel, construyó un altar y adoró, llamando al lugar El-betel (Gn 35:7). Allí enterró a Débora, la nodriza de Rebeca, que había muerto (Gn 35:8).",
+ "refs_biblicas": ["Gn 35:7", "Gn 35:8"],
+ "pagina": "PDF 222",
+ "importancia": 2
+},
+{
+ "ref": "36:27",
+ "tipo": "personaje",
+ "titulo": "Bilhán, descendiente de Seír el horeo",
+ "contenido": "Bilhán («tonto», según el autor) fue hijo de Ezer, hijo de Seír el horeo (Gn 36:27; 1 Cr 1:42). Hubo otro Bilhán, benjamita, hijo de Yediael, hijo de Benjamín (1 Cr 7:10).",
+ "refs_biblicas": ["Gn 36:27", "1 Cr 1:42", "1 Cr 7:10"],
+ "pagina": "PDF 241",
+ "importancia": 1
+},
+{
+ "ref": "36:33",
+ "tipo": "arqueologia_geografia",
+ "titulo": "Bosra, importante ciudad de Edom",
+ "contenido": "Bosra (heb. botsrah, «redil») fue una importante ciudad de Edom (Gn 36:33; Jer 49:13, 22; Am 1:12; Mi 2:12). En Jer 48:24 el nombre se refiere a un pueblo de Moab.",
+ "refs_biblicas": ["Gn 36:33", "Jer 49:13", "Jer 49:22", "Am 1:12", "Mi 2:12", "Jer 48:24"],
+ "hebreo": {"palabra": "botsrah", "transliteracion": "botsrah", "significado": "redil"},
+ "pagina": "PDF 245",
+ "importancia": 1
+},
+{
+ "ref": "37:25",
+ "tipo": "arqueologia_geografia",
+ "titulo": "La ruta comercial del valle de Dotán",
+ "contenido": "El principal camino de sur a norte en Palestina pasaba por Pelusium, Rafia y Gaza, en la llanura marítima: la antigua ruta de invasión usada por Tutmosis, Ramsés, Senaquerib, Cambises, Alejandro, Pompeyo, Tito, Saladino, Napoleón y Allenby, cerrada al norte por el Carmelo. Por el lado de tierra se llegaba a Esdraelón y a Fenicia a través de varios desfiladeros bajos, principalmente los de Meguido, y por la ruta del valle de Dotán (Gn 37:25), usada por los que viajaban hacia el Jordán y hacia Damasco. Más al oriente corría el llamado camino del Rey, desde el sur de Damasco, por los territorios de Manasés, Rubén y Gad, hasta Moab y el Arabá (Dt 8:15).",
+ "refs_biblicas": ["Gn 37:25", "Dt 8:15"],
+ "pagina": "PDF 263",
+ "importancia": 2
+},
+{
+ "ref": "40:17",
+ "tipo": "cultura_costumbres",
+ "titulo": "Canastas para llevar pan y pasteles",
+ "contenido": "En el AT se mencionan cuatro clases de canastas, hechas de hojas, cañas, juncos, ramitas o cordeles, de varias formas y tamaños. Se usaban para llevar fruta (Dt 26:2), pan, pasteles y carne (Gn 40:17; Éx 29:2-3), y arcilla para hacer ladrillos o tierra para diques (Sal 81:6).",
+ "refs_biblicas": ["Gn 40:17", "Dt 26:2", "Éx 29:2-3", "Sal 81:6"],
+ "pagina": "PDF 265",
+ "importancia": 1
+},
+{
+ "ref": "42:27",
+ "tipo": "hebreo_palabra",
+ "titulo": "La «boca» del costal",
+ "contenido": "El hebreo peh («boca») se usa para cualquier abertura, como la de un costal (Gn 42:27) o la de un pozo (Gn 29:2); también se traduce idioma, filo y falda.",
+ "refs_biblicas": ["Gn 42:27", "Gn 29:2"],
+ "hebreo": {"palabra": "peh", "transliteracion": "peh", "significado": "boca; cualquier abertura"},
+ "pagina": "PDF 242",
+ "importancia": 1
+}
+]}

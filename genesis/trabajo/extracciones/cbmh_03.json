@@ -1,0 +1,436 @@
+{
+  "bloque": "cbmh_03",
+  "notas": [
+    {
+      "ref": "tema",
+      "tipo": "aplicacion_practica",
+      "titulo": "La exégesis es tarea de cada día",
+      "contenido": "Cierre del artículo general sobre interpretación: hay que volver al texto una y otra vez para examinarlo, y así el texto se enriquece y nos enriquece. Así como crecemos en la vida y en el entendimiento de lo que nos pasa, crecemos cada día en el entendimiento de la Palabra de Dios. El autor exhorta a no anquilosarse en las propias interpretaciones ni pensar jamás que ya se tiene la interpretación última y final de un texto, sino a trabajar cada día en oración para lograr nuevas y mejores interpretaciones.",
+      "cita": "La exégesis bíblica es un trabajo de todos los días y de cada día.",
+      "refs_biblicas": [],
+      "pagina": "PDF 27 | [Page 30]",
+      "importancia": 1
+    },
+    {
+      "ref": "tema",
+      "tipo": "aplicacion_practica",
+      "titulo": "La vida del intérprete: su única interpretación",
+      "contenido": "La verdadera interpretación de la Palabra no se hace en palabras sino en acción: así como nos debemos al estudio de la Palabra, nos debemos a su práctica diaria. Sólo quien tiene el propósito y la voluntad de cumplir lo que la Palabra manda tiene la habilidad y el don de comprenderla. No hemos interpretado lo que aún no hemos vivido ni entendido lo que no hemos cumplido. Como todo depende de la Palabra de Dios (Mt 24:35), más que interpretarla nosotros a ella, somos nosotros quienes quedamos interpretados, sometidos y juzgados por ella (He 4:12, 13); debemos dejar que ella nos interprete y se hable a sí misma a través de nosotros.",
+      "cita": "La vida del intérprete no es la mejor interpretación: es la única. No hemos interpretado lo que aún no hemos vivido.",
+      "refs_biblicas": ["Mt 24:35", "He 4:12-13"],
+      "pagina": "PDF 27 | [Page 30]",
+      "importancia": 2
+    },
+    {
+      "ref": "tema",
+      "tipo": "ilustracion",
+      "titulo": "El intérprete como instrumentista fiel",
+      "contenido": "La Palabra de Dios tiene la prioridad y nosotros somos sólo sus humildes y humanos intérpretes. Así como un instrumentista fiel hace escuchar la obra de un gran músico si se ocupa de no interrumpirla, dejándola surgir del instrumento con toda la fuerza espiritual con que fue escrita, el intérprete de la Palabra debe afinar la cuerda de su sensibilidad al Espíritu de la Palabra para dejarla sonar como ella quiere en los corazones de los hombres.",
+      "refs_biblicas": [],
+      "pagina": "PDF 27 | [Page 30]",
+      "importancia": 1
+    },
+    {
+      "ref": "tema",
+      "tipo": "teologia_doctrina",
+      "titulo": "Fe y arrepentimiento: primera regla para interpretar",
+      "contenido": "Las reglas de interpretación son necesarias pero no son todo: antes hace falta una conversión en el punto de mira del intérprete. Las reglas primordiales son la fe, la humildad, la dependencia de Dios y la voluntad de obedecer al Señor, lo que la Biblia llama arrepentimiento y conversión. Sólo quien se ha arrepentido y convertido puede interpretar correctamente la Palabra porque ha aprendido a interpretar lo espiritual por medios espirituales (1 Co 2:13). Más importantes que las leyes de las ciencias histórico-críticas (muy útiles para alumbrar la conciencia y la razón) son las del Espíritu de Dios derramado en el corazón por la sangre redentora de Cristo; sin ese punto de mira espiritual, la interpretación sería una ridícula excusa para recitar el propio pensamiento no analizado.",
+      "cita": "La fe en Dios y el arrepentimiento en el corazón son la primera precomprensión necesaria e indispensable para el conocimiento de Dios a través de su Palabra.",
+      "refs_biblicas": ["1 Co 2:13"],
+      "pagina": "PDF 27-28 | [Page 30]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Autores del comentario a Génesis",
+      "contenido": "En el Comentario Bíblico Mundo Hispano, la exposición de Génesis está a cargo de Dionisio Ortiz y las ayudas prácticas (recuadros) de Jorge Enrique Díaz.",
+      "refs_biblicas": [],
+      "pagina": "PDF 29 | [Page 31]",
+      "importancia": 1
+    },
+    {
+      "ref": "intro",
+      "tipo": "hebreo_palabra",
+      "titulo": "El título Génesis y la palabra toledot",
+      "contenido": "Génesis es el primer libro de la Biblia y forma parte del Pentateuco o Libro de la ley de Moisés. El título castellano significa “origen” y traduce la palabra hebrea toledot, que significa “generaciones”, “orígenes”, “descendientes” o “historia”. Esta palabra aparece once veces en Génesis (2:4; 5:1; 10:1; 11:10, etc.) señalando una unidad histórica o narrativa. El título fue dado en la Septuaginta (LXX, traducción griega de los escritos hebreos) y al pasar a la Vulgata (traducción latina) se tradujo con el término latino Génesis.",
+      "refs_biblicas": ["Gn 2:4", "Gn 5:1", "Gn 10:1", "Gn 11:10"],
+      "hebreo": {"palabra": "toledot", "transliteracion": "toledot (Strong 8435)", "significado": "generaciones, orígenes, descendientes, historia"},
+      "pagina": "PDF 29 | [Page 33]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "hebreo_palabra",
+      "titulo": "El título hebreo: bereshit, “en el principio”",
+      "contenido": "En las Escrituras hebreas Génesis es el primer libro de la Tora o Ley, y su título es simplemente la primera palabra compuesta del libro: bereshit, que significa “en el principio”.",
+      "refs_biblicas": ["Gn 1:1"],
+      "hebreo": {"palabra": "bereshit", "transliteracion": "bereshit (Strong 7225)", "significado": "en el principio"},
+      "pagina": "PDF 29 | [Page 33]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "Autor y fuentes: planteo del problema",
+      "contenido": "El libro no menciona a su autor ni sus fuentes literarias. Sería imposible afirmar un único autor histórico, porque el contenido abarca un período de historia muy extenso; sin embargo, designar una paternidad literaria autoritativa ha preocupado a la comunidad académica cristiana. La autoría de Génesis se ha ligado a la del Pentateuco, del que forma parte; el autor del comentario, en cambio, considera a Génesis como una unidad literaria en sí misma, tal como lo aceptaron los cánones hebreo y cristiano. Resume el tema en dos posiciones principales: la afirmación tradicional y la crítica histórico-literaria con sus desarrollos y variantes, presentadas con fines informativos antes de su propia propuesta histórica y teológica.",
+      "refs_biblicas": [],
+      "pagina": "PDF 29 | [Page 33]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "La afirmación tradicional: Moisés escribió Génesis",
+      "contenido": "Esta postura afirma que Génesis, como todo el Pentateuco, fue escrito por Moisés como parte de la revelación de Dios. Reconoce que los hechos ocurrieron mucho antes de Moisés, pero las historias fueron transmitidas por los descendientes de Abraham y conservadas por la comunidad bajo la dirección de Dios; Moisés, inspirado, las integró al documento autoritativo que luego fue la Tora. Se basa en: (1) el criterio de una autoridad profética para la validez canónica, pues Dios siempre se reveló por un profeta escogido; (2) las muchas citas del Pentateuco donde Dios habla a Moisés y le ordena escribir o transmitir sus revelaciones (Éx 17:14; 24:4-8; Nm 33:1; Dt 31:9), de modo que si Génesis es parte de esa unidad Moisés es también su autor; (3) la afirmación judía tradicional; (4) la declaración de Jesús, que menciona a Moisés como autoridad de la Ley (Lc 24:44); (5) la comunidad cristiana, que en su decisión canónica aceptó sin cuestionamiento la autoría de Moisés.",
+      "refs_biblicas": ["Éx 17:14", "Éx 24:4-8", "Nm 33:1", "Dt 31:9", "Lc 24:44"],
+      "pagina": "PDF 29-30 | [Page 33]-[Page 34]",
+      "importancia": 3
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "Glosas posteriores a Moisés en la postura conservadora",
+      "contenido": "Muchos escritores teológicamente conservadores asumen hoy la autoría mosaica, reconociendo que en la transmisión se insertaron en Génesis ciertas frases o datos posteriores a Moisés. Estas inserciones o glosas son mínimas y tuvieron fines explicativos o de reforzar un propósito específico (por ejemplo 26:1; 35:20; 36:31). En esta postura muchos identifican la paternidad literaria con la autoridad divina: cuestionar la autoría de Moisés sería cuestionar la autoridad inspirada del Pentateuco.",
+      "refs_biblicas": ["Gn 26:1", "Gn 35:20", "Gn 36:31"],
+      "pagina": "PDF 30 | [Page 34]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "Postulados de la crítica histórico-literaria",
+      "contenido": "Desde su surgimiento, la crítica histórico-literaria cuestionó la autoría tradicional de Moisés. Actúa con postulados definidos que influyen en sus conclusiones: (1) la necesidad de determinar las fuentes originales de un libro bíblico; (2) la presuposición de que los libros de la Biblia son básicamente compilaciones de tradiciones o documentos con un largo proceso de desarrollo; (3) que la canonicidad o carácter normativo de un libro no depende de determinar un autor inspirado. El autor menciona sólo las posiciones recientes que influyen en la interpretación actual: hipótesis documentaria, crítica de formas y crítica de redacción.",
+      "refs_biblicas": [],
+      "pagina": "PDF 30 | [Page 34]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "La hipótesis documentaria: documentos J, E y P",
+      "contenido": "Esta teoría sostiene que el Pentateuco es una colección de documentos de diversos orígenes, tiempos y autores anónimos; en Génesis habría tres principales. El Yahvista (J) usa consistentemente Jehovah como nombre de Dios; su autor pertenecería al territorio sur del reino y sería el más antiguo. El Elohista (E) usa Elohim; su autor habría sido influido por las predicaciones éticas de los profetas y es posterior al Yahvista. El Sacerdotal (P) presenta reflexiones teológicas, temas de culto y genealogías, de interés peculiar para los sacerdotes. Se apoya en: (1) tradiciones o perspectivas con intereses diferentes; (2) el uso distinto del nombre de Dios (Jehovah; Dios; Jehovah Dios); (3) duplicidad de relatos con variaciones que reflejarían fuentes distintas; (4) la aceptación de un desarrollo progresivo de la religiosidad humana en su comprensión de Dios y de su responsabilidad ética; (5) la separación entre autoridad inspirada y autor específico.",
+      "refs_biblicas": [],
+      "pagina": "PDF 30-31 | [Page 34]-[Page 35]",
+      "importancia": 2,
+      "postura": "El autor la expone con fines informativos; su conclusión final atribuye a Génesis la autoridad histórica y teológica de Moisés."
+    },
+    {
+      "ref": "intro",
+      "tipo": "hebreo_palabra",
+      "titulo": "Jehovah, nombre de Dios",
+      "contenido": "Al exponer la hipótesis documentaria el autor da el término hebreo Jehovah como nombre de Dios, característico del supuesto documento Yahvista (J). Más adelante señala que en Génesis Dios es identificado indistintamente como el Dios de Abraham, Isaac y Jacob, y también como Jehovah o Jehovah Dios.",
+      "refs_biblicas": [],
+      "hebreo": {"palabra": "Jehovah", "transliteracion": "Jehovah (Strong 3068)", "significado": "nombre de Dios"},
+      "pagina": "PDF 30 | [Page 34]",
+      "importancia": 1
+    },
+    {
+      "ref": "intro",
+      "tipo": "hebreo_palabra",
+      "titulo": "Elohim, nombre de Dios",
+      "contenido": "El autor da el vocablo hebreo Elohim como nombre de Dios, característico del supuesto documento Elohista (E) según la hipótesis documentaria, que toma la diferencia en el uso de los nombres de Dios (Jehovah; Dios; Jehovah Dios) como indicio de fuentes distintas.",
+      "refs_biblicas": [],
+      "hebreo": {"palabra": "Elohim", "transliteracion": "Elohim (Strong 433)", "significado": "Dios (nombre de Dios)"},
+      "pagina": "PDF 30-31 | [Page 34]-[Page 35]",
+      "importancia": 1
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "La crítica de formas y los santuarios patriarcales",
+      "contenido": "Considera a Génesis como una colección de tradiciones orales y escritas, y busca la situación que dio origen a cada tradición y las formas literarias en que se transmitió. Algunos creen que muchas tradiciones nacieron en lugares consagrados a la adoración del Dios revelado, llamados “santuarios” y asociados con los patriarcas: Hebrón con Abraham, Beerseba con Isaac y Betel con Jacob y su familia; allí, en conexión con el culto, se repetían oralmente las tradiciones, que luego se integraron a los escritos sagrados. Algunos dan poco crédito a su historicidad y les atribuyen sólo valor litúrgico o cúltico, con la función de dar identidad histórica y geográfica a la comunidad de fe. Bases: (1) centralidad de los santuarios y del culto como integración y continuidad del pueblo; (2) clasificación literaria por estilo, que determina propósito y función del material; (3) capacidad e intención de la comunidad de transmitir sus tradiciones; (4) relativa libertad de reinterpretarlas según las necesidades de cada época; (5) fijación final en un canon dentro de un marco teológico. En esta postura no importa determinar el autor: el material es un producto comunal o folclórico.",
+      "refs_biblicas": [],
+      "pagina": "PDF 31 | [Page 35]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "La crítica de redacción",
+      "contenido": "Disciplina más reciente que se ofrece como herramienta de interpretación; enfatiza el proceso de composición y el producto final del documento. Reconoce que todo documento bíblico pasó por un proceso de composición en el que circunstancias, necesidades e intereses moldearon la presentación de la revelación original; el documento es producto de varios “redactores” que recogen las tradiciones y las redactan según las necesidades del momento, con el propósito de expresar la voluntad de Dios para su pueblo en cada etapa y con un marcado interés teológico. No se habla de un autor original sino de redactores; se considera al documento en su unidad literaria final e integridad teológica, y la composición final es normativa dentro del canon cristiano. Bases: (1) la complejidad de los documentos, que en sus partes no presentan unidad; (2) la transmisión dinámica de las tradiciones, que al narrarse se volvían vivencias actuales para los oyentes; (3) la necesidad teológica primordial y variable del pueblo; (4) la fidelidad en conservar las diferentes tradiciones recibidas; (5) la unidad literaria final y función teológica de los documentos.",
+      "refs_biblicas": [],
+      "pagina": "PDF 31-32 | [Page 35]-[Page 36]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "Conclusión del autor: autoridad histórica de Moisés",
+      "contenido": "El autor propone que Génesis, aceptado como parte del canon, necesariamente apunta a la autoridad histórica y teológica de Moisés. La autoridad histórica implica que en un momento específico los actos revelatorios de Dios en la historia humana se documentan y se vuelven suficientemente significativos para la comunidad que los recibe como orientadores y transformadores de su historia; documentar no se limita a lo escrito, sino a una fijación permanente de la autoridad de esos actos. Si se acepta el papel histórico de Moisés como libertador, legislador y modelador del pueblo de Dios, él necesitó un documento autoritativo y normativo para Israel, que debía proveer identidad étnica, identidad política e identidad del “Dios de los Padres”.",
+      "refs_biblicas": [],
+      "pagina": "PDF 32 | [Page 36]",
+      "importancia": 3,
+      "postura": "Frente a la hipótesis documentaria y las críticas de formas y de redacción, el autor concluye que Génesis recibe su autoridad histórica y teológica de Moisés, con glosas posteriores mínimas."
+    },
+    {
+      "ref": "intro",
+      "tipo": "contexto_historico",
+      "titulo": "Génesis dio identidad étnica a los esclavos",
+      "contenido": "Por medio de Génesis el pueblo pudo encontrar y aceptar una identidad étnica que lo consolidara en un propósito común. Políticamente lo único que los israelitas tenían en común era la esclavitud, y aun así había intereses diversos entre ellos, como se manifestará más tarde. Génesis declara cuidadosamente el desarrollo de este pueblo a través de los patriarcas y sus descendientes: eran una comunidad con origen e identidad propios, diferentes de otras, y esa declaración tenía que existir y ser autoritativa.",
+      "refs_biblicas": [],
+      "pagina": "PDF 32 | [Page 36]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "contexto_historico",
+      "titulo": "Génesis dio identidad política: promesa y territorio",
+      "contenido": "La propuesta de Moisés no fue sólo de liberación sino de formar una unidad política con gobierno y territorio soberanos: no se trataba sólo de escapar de Egipto, sino de ir a reclamar el territorio asignado. Por las promesas de Dios a los patriarcas y por la ocupación territorial de los mismos patriarcas declaradas en Génesis, el pueblo podía identificarse con ese propósito; para ello Génesis debía tener existencia y autoridad histórica suficientes.",
+      "refs_biblicas": [],
+      "pagina": "PDF 32 | [Page 36]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "Génesis dio a conocer al “Dios de los Padres”",
+      "contenido": "El llamado al éxodo y a la conquista de Canaán venía de Jehovah, el Dios de Abraham, de Isaac y de Jacob (Éx 3:15), y para que el pueblo respondiera debía conocer suficientemente a ese Dios. Génesis, como documento autoritativo, daba el testimonio de que Dios había tenido una relación especial con los patriarcas; en él Dios es indistintamente el Dios de Abraham, Isaac y Jacob, y también Jehovah o Jehovah Dios. El autor sostiene que ese documento revelatorio del tiempo de Moisés no pudo haber sido otro que Génesis, y acota que así como Dios identifica y reconoce a su pueblo (Éx 2:23-25), era necesario que el pueblo reconociera e identificara a su Dios.",
+      "refs_biblicas": ["Éx 3:15", "Éx 2:23-25"],
+      "pagina": "PDF 32-33 | [Page 36]-[Page 37]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "Autoridad teológica: Moisés, el más cercano a los hechos",
+      "contenido": "La autoridad teológica implica que una persona específica (un profeta) recibe los actos revelatorios de Dios y los documenta para la comunidad que se sabe escogida; a esa persona y al documento se los llama “inspirados”. Con un concepto de inspiración de participación equilibrada entre Dios y el profeta, Moisés tiene una ventaja inigualable como inspirado para Génesis. Primera razón: fue quien tuvo mayor aproximación histórica a los relatos memoriales de Génesis, mucho más que los sacerdotes del tiempo del exilio; además, por su posición privilegiada de cultura podía disponer de documentos de distintos pueblos y tradiciones, y es lógico que a su excelente preparación (Hch 7:22) Dios le concediera la inspiración para compilar Génesis.",
+      "cita": "Es quien tuvo más aproximación histórica a los relatos memoriales de los acontecimientos de Génesis. (¡Mucho más que los sacerdotes del tiempo del exilio!)",
+      "refs_biblicas": ["Hch 7:22"],
+      "pagina": "PDF 33 | [Page 37]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "Génesis, documento de la promesa para el éxodo",
+      "contenido": "Segunda razón para la autoría inspirada de Moisés: la continuación del plan redentor de Dios. Ante el faraón y ante su pueblo Moisés no esgrimió sólo un proyecto político (loable, justo y necesario dada la esclavitud), sino un proyecto teológico: debía convencer de que su intento era obediencia al plan de Dios. Conociendo la resistencia del pueblo a su autoridad (Éx 2:14; 3:13), es lógico que se asegurara de un documento que fundamentara su actuación en nombre de Dios, quien lo enviaba en cumplimiento de su promesa. Génesis era el documento de esa promesa, donde estaba el plan redentor de Dios para Israel y para todas las naciones; el pueblo lo necesitaba especialmente al principio de la peregrinación por el desierto, y Dios, inspirando a Moisés, lo proveyó.",
+      "refs_biblicas": ["Éx 2:14", "Éx 3:13"],
+      "pagina": "PDF 33 | [Page 37]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "El Dios Salvador es el mismo Dios Creador",
+      "contenido": "Tercera razón: en las culturas politeístas contemporáneas e influyentes en Israel en tiempos de Moisés había una marcada diferencia entre la divinidad salvadora y la creadora, que actuaban independiente y competitivamente. En el plan del éxodo Israel necesitaba una identificación clara e indudable de que el Dios Salvador y el Dios Creador son uno solo, y Génesis atestigua esa identidad; pero sin un documento autorizado no le serviría al pueblo, de modo que Génesis proveía esa identidad con autoridad suficiente.",
+      "refs_biblicas": [],
+      "pagina": "PDF 33 | [Page 37]-[Page 38]",
+      "importancia": 3
+    },
+    {
+      "ref": "intro",
+      "tipo": "dificultad_interpretaciones",
+      "titulo": "Glosas mínimas y fidelidad al texto recibido",
+      "contenido": "Por estos argumentos Génesis recibe su autoridad histórica y teológica de Moisés y por eso se integra a la Tora o ley de Moisés. Las glosas (explicaciones, nombres geográficos posteriores a Moisés, complementos de genealogías, vocablos de uso posterior) son mínimas y responden al proceso normal de aclarar y actualizar la fuerza revelatoria para el pueblo; aun ellas atestiguan que se aceptaba la autoridad original de un documento al que se quería dar relevancia permanente. En contraste, Génesis muestra gran fidelidad en conservar intactas porciones que parecerían contradictorias, relatos del mismo hecho con perspectivas diferentes y acciones que serían denigrantes para ciertas tribus o grupos del pueblo de Dios.",
+      "refs_biblicas": [],
+      "pagina": "PDF 33-34 | [Page 38]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "Propósito: no explicar orígenes sino la comunión",
+      "contenido": "Por lo general se asigna a Génesis el propósito de explicar el origen de todas las cosas, siguiendo el significado de su título no hebreo; esto crea confusión y hasta competencia con la historia y las ciencias, que se proponen explicar el origen y la existencia de todas las cosas. El autor propone que el propósito principal no es explicar el origen de las cosas ni la historia de la raza humana, sino presentar el testimonio de los actos de Dios en su propósito de tener comunión con el hombre, desde la creación hasta el desarrollo de un pueblo escogido desde sus antepasados, en estrecha relación con las respuestas de la creación y de la humanidad a Dios.",
+      "refs_biblicas": [],
+      "pagina": "PDF 34 | [Page 38]",
+      "importancia": 3,
+      "postura": "Rechaza que el propósito principal sea explicar el origen de las cosas (lectura que compite con la ciencia); prefiere verlo como testimonio de los actos de Dios para tener comunión con el hombre."
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "Tema central: Dios; mensaje: llamado a la comunión",
+      "contenido": "Génesis testifica que Dios creó el mundo y la humanidad para establecer una relación especial con ambos, basada en la gracia y soberanía de Dios y en la respuesta libre del hombre. El tema central sigue siendo Dios: el Dios que crea el mundo y lo sustenta, que crea y llama al hombre a una vida de comunión, y que, fiel a su propósito, trae juicio y redime. Su mensaje: Dios llama a la creación y al hombre a una relación de comunión, y la respuesta depende de una decisión libre y de un compromiso con las demandas que la relación implica. Este mensaje se desarrolla presentando los actos de Dios como Creador y Redentor en relación con la respuesta del hombre.",
+      "cita": "Dios llama a la creación y al hombre a una relación de comunión. La respuesta a ese llamado depende de una decisión libre y de compromiso a las demandas que la relación implica.",
+      "refs_biblicas": [],
+      "pagina": "PDF 34 | [Page 38]",
+      "importancia": 3
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "Génesis presenta a Dios como el Creador",
+      "contenido": "Frente a y en contraste con todas las explicaciones paganas de la creación, Génesis afirma que el Creador de todo es el Dios que escoge revelarse a su pueblo escogido. La creación es un acto exclusivo de él y expresa su soberanía y su gracia. Sus actos creativos manifiestan su naturaleza: su poder de crear de lo no existente, su propósito de dar significado a la existencia de cada criatura, su santidad o trascendencia al quedar siempre diferenciado de su creación, y su gracia al conceder sustento a toda criatura. Afirmar a Dios como Creador implica su absoluta autoridad para escoger las condiciones o términos de la relación que desea tener con su criatura.",
+      "refs_biblicas": [],
+      "pagina": "PDF 34 | [Page 38]-[Page 39]",
+      "importancia": 3
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "Génesis presenta al hombre en rebeldía contra Dios",
+      "contenido": "Los testimonios selectos de las respuestas humanas muestran cómo el hombre, desde un principio, rechaza los términos o condiciones de Dios e intenta llevar una vida independiente y autónoma de él. Estos testimonios corresponden tanto a individuos como a la humanidad entera. El mensaje de Génesis es precisamente que Dios invita a este hombre alejado a volver a la comunión con él.",
+      "refs_biblicas": [],
+      "pagina": "PDF 34 | [Page 39]",
+      "importancia": 3
+    },
+    {
+      "ref": "intro",
+      "tipo": "teologia_doctrina",
+      "titulo": "Génesis presenta a Dios como el Redentor",
+      "contenido": "Aunque el hombre se aleja, Dios no renuncia a su propósito original de comunión con su criatura especial. En sus actos redentores se perciben las características más sobresalientes de su naturaleza: su amor y su paciencia, su fidelidad y su misericordia. La fidelidad de Dios a su propósito implica juicios condenatorios y actos de destrucción, pero aun estos tienen propósito redentor y en cada uno hay redención. Donde más se testifica el plan redentor es en el llamado a Abraham y sus descendientes, por quienes ese propósito se hace concreto y disponible.",
+      "cita": "Nunca es el hombre quien se vuelve a Dios, sino Dios quien sale a buscar al hombre y a proveer el medio para restablecer la comunión perdida.",
+      "refs_biblicas": [],
+      "pagina": "PDF 35 | [Page 39]",
+      "importancia": 3
+    },
+    {
+      "ref": "intro",
+      "tipo": "cristo_en_genesis",
+      "titulo": "La redención iniciada en Génesis culmina en Jesucristo",
+      "contenido": "El mensaje de redención continúa por todo el Antiguo Testamento y culmina en Jesucristo; el mismo mensaje de Génesis sigue siendo el de la iglesia, de ahí su importancia fundamental para la proclamación cristiana. Génesis asegura que la fidelidad de Dios es permanente de generación en generación; que el plan redentor no es producto de la casualidad ni del hoy, sino que desde la creación Dios quiso estar en comunión con su criatura; da la explicación correcta del pecado y sus consecuencias en todas las áreas de la vida; y sobre todo demuestra la fidelidad de Dios en proveer salvación. Su testimonio, aunque normativo, no es la culminación sino el inicio del plan redentor, cuya culminación está en Jesucristo, de la que da testimonio la iglesia.",
+      "refs_biblicas": [],
+      "pagina": "PDF 35 | [Page 39]",
+      "importancia": 3
+    },
+    {
+      "ref": "intro",
+      "tipo": "aplicacion_practica",
+      "titulo": "Génesis fue escrito para nosotros",
+      "contenido": "El comentario acepta que el testimonio de Génesis fue escrito para nosotros (1 Co 10:11), por lo que busca reflejar su comprensión desde la perspectiva cristiana sin forzar su interpretación ni su validez canónica original. El autor cree firmemente que así la autoridad normativa de la revelación de Génesis es válida para hoy, porque nuestras necesidades y conflictos son iguales a los que encontramos en Génesis.",
+      "cita": "Nuestras necesidades y conflictos son iguales a los que encontramos en Génesis.",
+      "refs_biblicas": ["1 Co 10:11"],
+      "pagina": "PDF 35 | [Page 39]-[Page 40]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Eje del comentario: Dios en relación con cada unidad",
+      "contenido": "El tema central del comentario es Dios, y se irá desarrollando su relación con las unidades principales del libro: la creación, la humanidad y los patriarcas representados por Abraham, Isaac, Jacob y José.",
+      "refs_biblicas": [],
+      "pagina": "PDF 35 | [Page 40]",
+      "importancia": 2
+    },
+    {
+      "ref": "intro",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Bosquejo general de Génesis en seis partes",
+      "contenido": "El bosquejo del comentario divide Génesis en seis grandes partes, todas centradas en Dios: I. Dios y la creación, 1:1-2:4a. II. Dios y la humanidad, 2:4b-11:9. III. Dios y Abraham, 11:10-25:18. IV. Dios e Isaac, 25:19-28:9. V. Dios y Jacob, 28:10-37:2a. VI. Dios y José, 37:2b-50:26.",
+      "refs_biblicas": [],
+      "pagina": "PDF 36-39 | [Page 40]-[Page 43]",
+      "importancia": 3
+    },
+    {
+      "ref": "1:1-2:4",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Bosquejo I: Dios y la creación (1:1-2:4a)",
+      "contenido": "I. Dios y la creación, 1:1-2:4a. 1. Dios el Creador, 1:1, 2. 2. Dios crea el universo, 1:3-2:4a: (1) El primer día, 1:3-5; (2) El segundo día, 1:6-8; (3) El tercer día, 1:9-13; (4) El cuarto día, 1:14-19; (5) El quinto día, 1:20-23; (6) El sexto día, 1:24-31; (7) El séptimo día, 2:1-4a.",
+      "refs_biblicas": [],
+      "pagina": "PDF 36 | [Page 40]",
+      "importancia": 2
+    },
+    {
+      "ref": "2:4-11:9",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Bosquejo II: Dios y la humanidad (2:4b-11:9)",
+      "contenido": "II. Dios y la humanidad, 2:4b-11:9. 1. Dios establece ambiente, normas y relaciones para el hombre, 2:4b-25: (1) Dios forma a Adán, 2:4b-7; (2) Dios planta un jardín en Edén, 2:8-17; (3) Dios crea a la mujer, 2:18-23; (4) Institución del matrimonio, 2:24, 25. 2. La primera pareja desobedece a Dios, 3:1-24: (1) La pareja cede a la tentación de la serpiente, 3:1-13; (2) La desobediencia trae sus consecuencias, 3:14-24. 3. La vida en familia y en comunidad, 4:1-24: (1) La vida familiar de Adán y Eva, 4:1, 2; (2) La adoración a Dios, 4:3-5; (3) El primer homicidio y su castigo, 4:6-16; (4) La descendencia de Caín y su comunidad, 4:17-24. 4. El desarrollo de la humanidad a través de Set, 4:25-6:8: (1) El nacimiento de Set y la religión, 4:25, 26; (2) La descendencia de Adán a través de Set, 5:1-32; (3) La corrupción de la humanidad, 6:1-8. 5. El juicio de Dios sobre la humanidad, 6:9-7:24: (1) Noé un hombre justo y cabal, 6:9-12; (2) Noé se prepara para el juicio del diluvio, 6:13-22; (3) Noé entra al arca, 7:1-10; (4) Dios trae el diluvio, 7:11-24. 6. La humanidad después del diluvio, 8:1-11:9: (1) La restauración de la tierra, 8:1-19; (2) El pacto de Dios con Noé y la creación, 8:20-9:17; (3) La vida familiar de Noé, 9:18-29; (4) El desarrollo de naciones e imperios, 10:1-32; (5) La confusión y dispersión de la humanidad, 11:1-9.",
+      "refs_biblicas": [],
+      "pagina": "PDF 36 | [Page 40]-[Page 41]",
+      "importancia": 2
+    },
+    {
+      "ref": "11:10-25:18",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Bosquejo III: Dios y Abraham (11:10-25:18)",
+      "contenido": "III. Dios y Abraham, 11:10-25:18. 1. Los antepasados de Abram, 11:10-32. 2. El llamado de Dios y las pruebas de Abram, 12:1-14:24: (1) Dios llama a Abram, 12:1-9; (2) El hambre en Canaán y la ida a Egipto, 12:10-20; (3) El conflicto y la separación con Lot, 13:1-13; (4) Dios reafirma su llamado, 13:14-18; (5) Abram y la guerra en Canaán, 14:1-16; (6) Abram y los reyes de Salem y Sodoma, 14:17-24. 3. El pacto de Dios con Abram y sus pruebas, 15:1-18:15: (1) Dios sella su llamado con un pacto, 15:1-21; (2) Agar e Ismael, 16:1-16; (3) Dios reafirma su pacto con Abram, 17:1-27; (4) Dios reafirma el nacimiento de Isaac, 18:1-15. 4. Abraham y el juicio contra Sodoma y Gomorra, 18:16-19:38: (1) Abraham intercede por Sodoma y Gomorra, 18:16-33; (2) Dios libra a Lot por amor a Abraham, 19:1-29; (3) Lot y sus hijas, 19:30-38. 5. Dios libra a Abraham de sus problemas con Abimelec, 20:1-18. 6. Dios concede la descendencia prometida a Abraham, 21:1-34: (1) El nacimiento de Isaac, 21:1-8; (2) Agar e Ismael son despedidos, 21:9-21; (3) Abimelec hace alianza con Abraham, 21:22-34. 7. El pacto y su continuación, 22:1-25:18: (1) Dios prueba la fe de Abraham y confirma el pacto, 22:1-19; (2) Los descendientes de Nacor, hermano de Abraham, 22:20-24; (3) La muerte y sepultura de Sara, 23:1-20; (4) Abraham elige esposa para Isaac, 24:1-67; (5) Los descendientes de Abraham y Quetura, 25:1-6; (6) Muerte y sepultura de Abraham, 25:7-11; (7) Los descendientes de Ismael, 25:12-18.",
+      "refs_biblicas": [],
+      "pagina": "PDF 36-37 | [Page 41]",
+      "importancia": 2
+    },
+    {
+      "ref": "25:19-28:9",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Bosquejo IV: Dios e Isaac (25:19-28:9)",
+      "contenido": "IV. Dios e Isaac, 25:19-28:9. 1. La familia de Isaac, 25:19-34: (1) Nacimiento de Esaú y Jacob, 25:19-26; (2) Esaú menosprecia su primogenitura, 25:27-34. 2. El pacto de Dios y las pruebas de Isaac, 26:1-28:9 (así figura en el original, aunque sus subdivisiones llegan hasta 26:33): (1) Dios confirma su pacto a Isaac, 26:1-5; (2) Isaac teme a Abimelec, 26:6-11; (3) Dios prospera a Isaac, 26:12-22; (4) Isaac hace alianza con Abimelec, 26:23-33. 3. La continuación del pacto y sus conflictos, 26:34-28:9: (1) Esaú emparienta con los cananeos, 26:34, 35; (2) Isaac decide bendecir a Esaú, su primogénito, 27:1-5; (3) Rebeca interviene a favor de Jacob, 27:6-17; (4) Isaac concede a Jacob la bendición del pacto, 27:18-29; (5) La bendición de Isaac a Esaú, 27:30-40; (6) Esaú planea matar a Jacob, 27:41-45; (7) Isaac envía a Jacob a Padamaram, 27:46-28:5; (8) Esaú emparienta con Ismael, 28:6-9.",
+      "refs_biblicas": [],
+      "pagina": "PDF 37 | [Page 41]-[Page 42]",
+      "importancia": 2
+    },
+    {
+      "ref": "28:10-37:2",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Bosquejo V: Dios y Jacob (28:10-37:2a)",
+      "contenido": "V. Dios y Jacob, 28:10-37:2a. 1. Dios confirma su pacto a Jacob y le promete su presencia en Harán, 28:10-22. 2. Jacob llega a la tierra de Harán y vive con su tío Labán, 29:1-30:43: (1) Encuentro con Raquel, hija de Labán, 29:1-14; (2) Jacob se casa con Lea y Raquel, hijas de Labán, 29:15-30; (3) Dios concede hijos a Jacob, 29:31-30:24; (4) Dios prospera a Jacob, 30:25-43. 3. Dios ordena a Jacob regresar a Canaán, 31:1-55: (1) Jacob y su familia deciden partir a Canaán, 31:1-16; (2) Jacob parte secretamente para Canaán, 31:17-21; (3) Dios protege a Jacob de la persecución de Labán, 31:22-55. 4. Jacob continúa hacia Canaán, 32:1-33:20: (1) Jacob teme el encuentro con Esaú, 32:1-23; (2) El encuentro de Jacob con el ángel en Peniel, 32:24-32; (3) Jacob se encuentra con Esaú, 33:1-16; (4) Jacob llega a Canaán y reside en Siquem, 33:17-20. 5. Conflictos de Jacob en Siquem, 34:1-31: (1) Siquem viola a Dina, 34:1-4; (2) Los de Siquem proponen emparentar con Jacob, 34:5-24; (3) Los hijos de Jacob destruyen a Siquem, 34:25-31. 6. El pacto y su continuación, 35:1-37:2a: (1) Dios ordena a Jacob que resida en Betel, 35:1-15; (2) Dios completa la familia de Jacob, 35:16-20; (3) Los hijos de Israel, 35:21-26; (4) La muerte y sepultura de Isaac, 35:27-29; (5) Identidad política-étnica y territorial de Esaú, 36:1-43; (6) Jacob reside en Canaán, 37:1, 2a.",
+      "refs_biblicas": [],
+      "pagina": "PDF 37-38 | [Page 42]",
+      "importancia": 2
+    },
+    {
+      "ref": "37:2-50:26",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Bosquejo VI: Dios y José (37:2b-50:26)",
+      "contenido": "VI. Dios y José, 37:2b-50:26. 1. José tiene conflictos con sus hermanos, 37:2b-11. 2. José es vendido y llevado a Egipto, 37:12-36. 3. Judá y su familia, 38:1-30. 4. Dios está con José en casa de Potifar, el egipcio, 39:1-18: (1) Dios prospera a José, 39:1-6a; (2) La mujer de Potifar calumnia a José, 39:6b-18. 5. Dios está con José en la cárcel del faraón, 39:19-40:23: (1) Dios prospera a José en la cárcel, 39:19-23; (2) Dios concede a José interpretar sueños, 40:1-23. 6. Dios concede a José librar a Egipto del hambre, 41:1-57: (1) Los sueños del faraón, 41:1-8; (2) Sacan a José de la cárcel, 41:9-14; (3) José interpreta los sueños del faraón, 41:15-32; (4) José urge al faraón tomar acción para enfrentar la situación futura, 41:33-36; (5) El faraón nombra a José gobernador de Egipto, 41:37-45a; (6) José planifica para los años de hambre, 41:45b-57. 7. José se reencuentra con sus hermanos, 42:1-45:14 (así figura en el original): (1) Los hermanos de José van a comprar trigo en Egipto, 42:1-6; (2) José reconoce y trata con hostilidad a sus hermanos, 42:7-25; (3) Los hermanos regresan a Canaán con los alimentos, 42:26-38. 8. José se da a conocer a sus hermanos, 43:1-45:15: (1) Los hermanos con Benjamín vuelven a Egipto, 43:1-34; (2) José hace prisionero a Benjamín, 44:1-17; (3) Judá intercede por Benjamín, 44:18-34; (4) José se identifica a sus hermanos, 45:1-15. 9. Dios permite a Jacob ir a Egipto, 45:16-47:12: (1) El faraón sugiere a José que Jacob vaya a Egipto, 45:16-24; (2) Jacob decide ir a Egipto, 45:25-46:7; (3) La lista de los que entraron en Egipto, 46:8-27; (4) José y su padre se reencuentran, 46:28-30; (5) El faraón asigna el territorio de Gosén para Jacob y su familia, 46:31-47:12. 10. Política administrativa de José, 47:13-26. 11. La continuación del pacto, 47:27-50:26: (1) Jacob pide ser sepultado en Canaán, 47:27-31; (2) Jacob adopta y bendice a los hijos de José, 48:1-22; (3) Jacob bendice a sus hijos, 49:1-28; (4) Muerte y sepultura de Jacob, 49:29-50:13; (5) José asegura la sobrevivencia de la familia de Jacob en Egipto, 50:14-21; (6) José confirma el cumplimiento del Pacto y pide que sus restos sean llevados a Canaán, 50:22-26.",
+      "refs_biblicas": [],
+      "pagina": "PDF 38-39 | [Page 42]-[Page 43]",
+      "importancia": 2
+    },
+    {
+      "ref": "1:1-2:4",
+      "tipo": "teologia_doctrina",
+      "titulo": "El relato de la creación: revelación, no crónica científica",
+      "contenido": "Ante la inquietud universal por el origen del mundo y del hombre, la Biblia proclama que todas las cosas creadas tienen su origen en Dios, único y exclusivo Creador. No presenta una crónica informativa ni detallada de la creación, sino la revelación de las verdades que en cualquier generación contestan las cuestiones del hombre en su relación con Dios y con el mundo. La creación no se mira desde su origen hacia su desarrollo posterior (como lo haría la ciencia), sino desde su culminación, para encontrar significado a la vida y al universo y rechazar toda otra explicación.",
+      "refs_biblicas": [],
+      "pagina": "PDF 41 | [Page 45]",
+      "importancia": 3
+    },
+    {
+      "ref": "1:1-2:4",
+      "tipo": "contexto_historico",
+      "titulo": "Relatos de creación en otras culturas",
+      "contenido": "Casi todas las culturas con cierto desarrollo, incluidas las de Amerindia, tienen un relato que intenta explicar la creación. Según el autor, la similitud que pudiera encontrarse entre estos relatos se debe exclusivamente a que intentan responder a las mismas preguntas que el hombre se ha hecho en cada cultura.",
+      "refs_biblicas": [],
+      "pagina": "PDF 41 | [Page 45]",
+      "importancia": 2,
+      "postura": "Explica las semejanzas entre relatos de creación únicamente por responder a las mismas preguntas humanas."
+    },
+    {
+      "ref": "1:1-2:4",
+      "tipo": "conexion_biblica",
+      "titulo": "Otros pasajes bíblicos sobre la creación",
+      "contenido": "Porciones del libro de Job, algunos salmos como el 8, el 104 y el 139, pasajes de libros proféticos, Juan 1:1-3, Colosenses 1:15-17 y Hebreos 1:1, 2 presentan enseñanzas fundamentales sobre la creación. En el relato de Génesis, la afirmación introductoria y los diferentes actos creativos de Dios presentan la explicación completa y fundamental de la creación del universo y de su relación con Dios.",
+      "refs_biblicas": ["Sal 8", "Sal 104", "Sal 139", "Jn 1:1-3", "Col 1:15-17", "He 1:1-2"],
+      "pagina": "PDF 41 | [Page 45]",
+      "importancia": 2
+    },
+    {
+      "ref": "1:3-2:4",
+      "tipo": "estructura_bosquejo",
+      "titulo": "Esquema de cada acto creativo",
+      "contenido": "Los primeros versículos declaran que Dios es el Creador de toda la creación. Luego los actos creativos específicos siguen una estructura y orden fijos: la palabra de Dios llamando a la existencia, una declaración de propósito, el resultado o ejecución de esa palabra, la asignación de nombre, una evaluación y un tiempo específico.",
+      "refs_biblicas": [],
+      "pagina": "PDF 41 | [Page 45]",
+      "importancia": 3
+    },
+    {
+      "ref": "1:1-2",
+      "tipo": "teologia_doctrina",
+      "titulo": "La introducción, fundamento de toda la fe bíblica",
+      "contenido": "La introducción del relato (1:1, 2), bajo el título “Dios el Creador”, constituye el fundamento de toda la fe bíblica, porque determina la relación correcta entre Creador y creación. El autor encuentra en ella básicamente cuatro afirmaciones normativas para la relación Creador-creación (que desarrolla a continuación).",
+      "refs_biblicas": [],
+      "pagina": "PDF 41 | [Page 45]",
+      "importancia": 3
+    },
+    {
+      "ref": "1:2",
+      "tipo": "hebreo_palabra",
+      "titulo": "“Se movía”: el Espíritu revoloteando como el águila",
+      "contenido": "Recuadro “Verdades prácticas”: el verbo hebreo de la frase “el Espíritu de Dios se movía sobre la faz de las aguas” es merajefet, “se movía”, que indica la acción de volar sobre el nido como lo hacen las águilas (Dt 32:11). La idea es que Dios estaba atento, cuidando y protegiendo todo el proceso de la creación.",
+      "cita": "La idea es que Dios estaba atento, cuidando y protegiendo todo el proceso de la creación.",
+      "refs_biblicas": ["Dt 32:11"],
+      "hebreo": {"palabra": "merajefet", "transliteracion": "merajefet (Strong 7363)", "significado": "se movía; volar (revolotear) sobre el nido como las águilas"},
+      "pagina": "PDF 41 | [Page 45]",
+      "importancia": 3
+    },
+    {
+      "ref": "1:2",
+      "tipo": "ilustracion",
+      "titulo": "El Espíritu sobre las aguas: la imagen del helicóptero",
+      "contenido": "En el mismo recuadro, para ilustrar hoy el verbo “se movía” (merajefet), se lo compara con un helicóptero que puede mantenerse encima de cierto lugar para ver o ayudar: Dios estaba atento, cuidando y protegiendo el proceso de la creación.",
+      "refs_biblicas": [],
+      "pagina": "PDF 41 | [Page 45]",
+      "importancia": 1
+    }
+  ]
+}

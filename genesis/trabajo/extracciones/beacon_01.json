@@ -1,0 +1,627 @@
+{
+ "bloque": "beacon_01",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "El Pentateuco: cinco libros, la Torah",
+   "contenido": "La Biblia comienza con un grupo de cinco libros de singular importancia, el «Pentateuco» (término griego que significa «cinco libros»): Génesis, Éxodo, Levítico, Números y Deuteronomio. Desde los tiempos más remotos han sido reconocidos como el corazón del canon del Antiguo Testamento. Constituyen la primera de las tres divisiones mayores de las Escrituras hebreas y se les conoce como la Torah o ley, término que también implica la idea de «enseñanza, instrucción o guía».",
+   "pagina": "beacon | PÁGINA PDF 17",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "Cómo llama la Biblia misma a la Torah",
+   "contenido": "La Biblia describe la Torah (o partes de ella) con varias expresiones: «este libro de la ley», «el libro de esta ley», «el libro de la ley de Moisés», «el libro de la ley» y «el libro de Moisés». «El libro de la ley de Jehová» fue usado en la época de Josafat para enseñar al pueblo. El rollo que halló el sacerdote Hilcías en el templo se describe como «el libro de la ley», «el libro del pacto», «el libro de la ley de Jehová dada por medio de Moisés» y «el libro de Moisés». Esdras 6:18 habla de «el libro de Moisés»; en Nehemías 8:1, 3, 8, 18 y 9:3 se usan en paralelo «el libro de la ley de Moisés» y «el libro de la ley de Dios»; Nehemías 13:1 identifica Deuteronomio 23:3–5 como proveniente de «el libro de Moisés»; «la ley de Moisés» aparece en 1 Reyes 2:3 y Daniel 9:13.",
+   "pagina": "beacon | PÁGINA PDF 17",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Dt. 29:21",
+    "Dt. 30:10",
+    "Dt. 31:26",
+    "Jos. 1:8",
+    "Dt. 28:61",
+    "Jos. 8:31",
+    "Jos. 23:6",
+    "2 R. 14:6",
+    "Jos. 8:34",
+    "2 Cr. 25:4",
+    "2 Cr. 17:9",
+    "2 R. 22:8",
+    "2 R. 22:11",
+    "2 R. 23:2",
+    "2 R. 23:21",
+    "2 Cr. 34:30",
+    "2 Cr. 34:14",
+    "2 Cr. 35:12",
+    "Esd. 6:18",
+    "Neh. 8:1",
+    "Neh. 8:3",
+    "Neh. 8:8",
+    "Neh. 8:18",
+    "Neh. 9:3",
+    "Neh. 13:1",
+    "Dt. 23:3-5",
+    "1 R. 2:3",
+    "Dn. 9:13"
+   ]
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "El Nuevo Testamento y la ley de Moisés",
+   "contenido": "El Nuevo Testamento alude al «libro de Moisés» (Mr. 12:26) y a «la ley de Moisés» (1 Co. 9:9), y atribuye a Moisés mandatos y declaraciones autoritativas (Mt. 19:7; 22:24; Mr. 7:10; 10:3; Hch. 3:22; Ro. 9:15; 10:19). Hay además numerosas referencias neotestamentarias a «la ley» como corte de apelación final.",
+   "pagina": "beacon | PÁGINA PDF 17",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Mr. 12:26",
+    "1 Co. 9:9",
+    "Mt. 19:7",
+    "Mt. 22:24",
+    "Mr. 7:10",
+    "Mr. 10:3",
+    "Hch. 3:22",
+    "Ro. 9:15",
+    "Ro. 10:19"
+   ]
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Contenido y forma del Pentateuco",
+   "contenido": "El Pentateuco contiene diversas clases de material: historia (Génesis), legislación (Éxodo), ritual (Levítico), gobierno (Números) y retórica (Deuteronomio), con muchas combinaciones y transposiciones de tipos literarios. El registro histórico se extiende desde la creación hasta la muerte de Moisés, un lapso más largo que todo el resto de la historia bíblica. Que los cinco libros fueron escritos originalmente por separado se deduce de que cada uno es una unidad literaria y tiene el máximo de extensión que podía darse a un rollo antiguo; sin embargo, forman una perfecta secuencia histórica: después de Génesis, cada libro presupone el o los que lo precedieron.",
+   "pagina": "beacon | PÁGINA PDF 17",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "El problema de la autoría del Pentateuco",
+   "contenido": "El autor de la introducción al Pentateuco (firma «W. T. P.») reconoce que el problema es complejo: dentro de su propio texto los libros son anónimos y no contienen indicio de su origen o autor. El judaísmo antiguo y la tradición cristiana dan el crédito a Moisés, y los propios libros atribuyen directamente a su mano porciones de Éxodo, Números y la mayor parte de Deuteronomio; los eruditos conservadores no hallan razón para dudar de esas declaraciones (Ex. 24:4; 34:28; Nm. 33:2; Dt. 1:1; 4:44; 5:1; 27:1; 29:1; 31:1, 9, 22, 30; 32:44; 33:1). Pero el texto presenta diferencias entre lo que Moisés escribió o habló y lo que fue escrito acerca de él, y hay elementos no mosaicos evidentes para quien profundiza.",
+   "pagina": "beacon | PÁGINA PDF 17",
+   "importancia": 3,
+   "postura": "Posición conservadora: autoridad mosaica del Pentateuco, reconociendo que algunos elementos son posteriores a Moisés.",
+   "refs_biblicas": [
+    "Ex. 24:4",
+    "Ex. 34:28",
+    "Nm. 33:2",
+    "Dt. 1:1",
+    "Dt. 4:44",
+    "Dt. 5:1",
+    "Dt. 27:1",
+    "Dt. 29:1",
+    "Dt. 31:1",
+    "Dt. 32:44",
+    "Dt. 33:1"
+   ]
+  },
+  {
+   "ref": "14:14",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "El nombre «Dan» en Génesis 14:14",
+   "contenido": "Génesis 14:14 emplea el nombre «Dan» para el lugar donde Abraham puso término a la persecución de los cinco reyes que habían invadido Sodoma. Ese nombre no le fue dado hasta el tiempo de los jueces (Jue. 18:29), lo cual implica, según el autor, que ese versículo fue colocado después de la época de Moisés.",
+   "pagina": "beacon | PÁGINA PDF 18",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Jue. 18:29"
+   ]
+  },
+  {
+   "ref": "36:31",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Los reyes de Edom «antes que hubiese rey» en Israel",
+   "contenido": "Génesis 36:31 habla de los reyes de Edom «que reinaron antes que hubiese rey sobre los hijos de Israel». Según el autor, esas palabras implican haber sido escritas después de la coronación de Saúl (1 S. 8:5 y ss.).",
+   "pagina": "beacon | PÁGINA PDF 18",
+   "importancia": 2,
+   "refs_biblicas": [
+    "1 S. 8:5"
+   ]
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Otros elementos no mosaicos en el Pentateuco",
+   "contenido": "El autor enumera: (1) la obra de Moisés en Éxodo, Levítico y Números está narrada en tercera persona, a diferencia de los discursos en primera persona de Deuteronomio; (2) dos tributos al dador de la ley que deben haber sido escritos por otro: Éx. 11:3 («Moisés era tenido por gran varón en la tierra de Egipto») y Nm. 12:3 («muy manso, más que todos los hombres»); (3) Éx. 16:35, que dice que comieron maná cuarenta años hasta llegar a los límites de Canaán, solo pudo escribirse después de la muerte de Moisés y el cruce del Jordán (Jos. 5:10–12), pues el verbo está en pasado; (4) Nm. 21:14–15 cita el «libro de las batallas de Jehová», aparentemente un libro de poemas sobre las obras de Dios a favor de su pueblo en el desierto, del que nada se sabe por otra fuente y que pudo ser un escrito del mismo Moisés; (5) Nm. 32:34–42 describe ciudades edificadas por Rubén, Gad y Manasés al oriente del Jordán, tierras que no poseyeron hasta después de la conquista de Canaán (Jos. 22:1–9); (6) Dt. 2:10–12, 20–23 son pasajes entre paréntesis agregados más tarde para explicar términos y condiciones que ya no estaban vigentes; (7) Dt. 34:1–12, la muerte de Moisés, parece escrito después de la aparición de los profetas (v. 10), en la época de Samuel.",
+   "pagina": "beacon | PÁGINA PDF 18",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Ex. 11:3",
+    "Nm. 12:3",
+    "Ex. 16:35",
+    "Jos. 5:10-12",
+    "Nm. 21:14-15",
+    "Nm. 32:34-42",
+    "Jos. 22:1-9",
+    "Dt. 2:10-12",
+    "Dt. 2:20-23",
+    "Dt. 34:1-12"
+   ]
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Lo que Moisés «escribió» y la expresión «libro de Moisés»",
+   "contenido": "Según el autor, todas las citas bíblicas sobre lo que Moisés escribió pueden circunscribirse al libro de Deuteronomio, con la posible excepción de Esdras 6:18 (que sitúa pasajes de Números en «el libro de Moisés») y Marcos 12:26 (que cita «el libro de Moisés» para el relato de Éxodo del llamado desde la zarza ardiendo). En esos casos, «el libro de Moisés» muy posiblemente significa «el libro acerca de Moisés» o «el libro basado sobre la autoridad de Moisés». Compara con 1 y 2 de Samuel, que llevan el nombre del profeta aunque su muerte se relata en 1 Samuel 25:1, muchos años antes de los hechos de 2 Samuel.",
+   "pagina": "beacon | PÁGINA PDF 18",
+   "importancia": 2,
+   "postura": "El autor prefiere entender «libro de Moisés» como «libro acerca de Moisés» o «basado en su autoridad».",
+   "refs_biblicas": [
+    "Esd. 6:18",
+    "Mr. 12:26",
+    "1 S. 25:1"
+   ]
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Advertencia de Aalders: autenticidad e integridad",
+   "contenido": "Estas consideraciones, más que las reconstrucciones de la crítica literaria e histórica, conducen a los eruditos conservadores a las sanas advertencias del profesor G. Ch. Aalders en su obra «A Short Introduction to the Pentateuch» («Breve Introducción al Pentateuco»), que hizo época. Lo que encierra enorme importancia, dice el autor, es el reconocimiento de la autenticidad e integridad de la parte significativa de la Palabra de Dios.",
+   "pagina": "beacon | PÁGINA PDF 18",
+   "importancia": 1,
+   "cita": "Lo que encierra enorme importancia es el reconocimiento de la autenticidad e integridad de la parte significativa de la Palabra de Dios."
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "El consenso bíblico sobre la autoridad mosaica y la cuestión abierta",
+   "contenido": "El consenso de la tradición bíblica establece la autoridad mosaica del Pentateuco. Una vez reconocida claramente esa verdad, el asunto de quién escribió la totalidad de los libros puede dejarse donde Orígenes dejó el problema de la paternidad literaria de Hebreos: «Sólo Dios lo sabe». La introducción remite a los interesados, para la posición conservadora, a Aalders, a Oswald T. Allis (The Five Books of Moses), a David A. Hubbard (artículo «Pentateuch» del New Bible Dictionary) y al ensayo de Aalders en The New Bible Commentary.",
+   "pagina": "beacon | PÁGINA PDF 19",
+   "importancia": 2,
+   "postura": "Autoridad mosaica afirmada; la autoría exacta de cada parte puede quedar abierta.",
+   "cita": "Sólo Dios lo sabe."
+  },
+  {
+   "ref": "intro",
+   "tipo": "hebreo_palabra",
+   "titulo": "El título «Génesis»: bereshit y la Septuaginta",
+   "contenido": "La primera palabra del Antiguo Testamento hebreo, bereshit («en el principio»), sirve de título al libro; tomar las primeras palabras de una obra para nombrarla era una práctica muy común en el antiguo Cercano Oriente. La Septuaginta (LXX) se aproximó a la frase inicial con la palabra «génesis», que significa «origen» o «principio». El término griego se ha mantenido en las versiones vernáculas porque describe bien el contenido del libro.",
+   "pagina": "beacon | PÁGINA PDF 20",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "bereshit",
+    "transliteracion": "bereshit",
+    "significado": "en el principio"
+   }
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Génesis, el libro de los comienzos",
+   "contenido": "El autor define el libro como el libro de los comienzos: del universo, del hombre, del pecado, de la salvación, de la nación hebrea y del pacto. Martín Lutero fue el primero en agregar al antiguo título la frase «El Primer Libro de Moisés», que consideró apropiada porque Génesis es el primero del Pentateuco y tradicionalmente Moisés ha sido considerado autor de los cinco libros.",
+   "pagina": "beacon | PÁGINA PDF 20",
+   "importancia": 2,
+   "cita": "Este es el libro de los comienzos: del universo, del hombre, del pecado, de la salvación, de la nación hebrea, del pacto."
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Paternidad literaria de Génesis: el planteo",
+   "contenido": "El autor aclara que un breve tratado no puede hacer justicia a la cantidad de literatura ni a la complejidad del tema. La controversia gira en torno a si Génesis, tal como está en todos los manuscritos existentes, fue producto de Moisés y su época o de autores anónimos de tiempos mucho más recientes; en los dos últimos siglos los eruditos se han dividido entre ambas posiciones. El texto no menciona a Moisés, y Lutero (1483–1546) fue el primero en añadir su nombre al título. Como aun el último de los acontecimientos de Génesis está descrito como muy anterior a Moisés, los eruditos ortodoxos sostienen que él usó manuscritos antiguos y les dio la forma que conocemos. Esa opinión se apoya en evidencia interna: (a) los otros cuatro libros del Pentateuco provienen de Moisés o de su época y bajo su dirección; (b) el resto del Antiguo Testamento atribuye a Moisés todo el Pentateuco; (c) el Nuevo Testamento, al referirse a ellos (especialmente a Deuteronomio), los atribuye a Moisés.",
+   "pagina": "beacon | PÁGINA PDF 20",
+   "importancia": 3,
+   "postura": "Posición ortodoxa/conservadora: Moisés usó manuscritos antiguos y les dio la forma actual."
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Eichhorn, Astruc y las fuentes J y E",
+   "contenido": "Johann Eichhorn, profesor de la Universidad de Jena (Alemania), fue el primero en dudar de la paternidad mosaica del Pentateuco; se apoyaba en las supuestas fuentes J (de Jehová) y E (de Elohim), sobre las cuales se habría compuesto Génesis en fecha muy posterior a Moisés. Antes que él, el médico francés Jean Astruc había estudiado el asunto sobre la misma base y propuesto la teoría de los documentos J y E. En los primeros 75 años del siglo XIX los eruditos alemanes discutieron si las fuentes eran tres, dos o una, y las fechaban desde el tiempo de Salomón hasta el de Esdras, valiéndose de los distintos nombres de la Divinidad, las diferencias de vocabulario y estilo y los distintos enfoques teológicos. Algunos sostenían una composición fragmentaria, casi un mosaico de tradiciones; otros, una composición única de un único autor.",
+   "pagina": "beacon | PÁGINA PDF 21",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Wellhausen y las tres fuentes J, E y P",
+   "contenido": "Julius Wellhausen fue el primero que popularizó con éxito la idea de tres fuentes principales en Génesis: J, E y P. J fue ubicada en el siglo IX a.C., E en el VIII y P en el V. Esta noción llegó a ser normativa entre sus seguidores y muy popular en círculos protestantes y judíos de todo el mundo occidental; la Iglesia Católica Romana reaccionó negativamente a la teoría.",
+   "pagina": "beacon | PÁGINA PDF 21",
+   "importancia": 2,
+   "postura": "El autor describe la teoría documentaria sin adherirse a ella; la rechaza como inaceptable para los conservadores."
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Gunkel, Eissfeldt y Albright: tradición oral y exilio",
+   "contenido": "Hermann Gunkel procuró ampliar la posición de Wellhausen examinando las formas literarias de antiguos relatores como los ilustrados en Génesis; concluyó que hubo, mil años antes de Cristo, un largo período de transmisión oral de gran parte del libro antes de que se cuajara en los llamados documentos J, E y P. En años más recientes los eruditos que rechazan la autoría de Moisés se inclinan a hablar de un largo período de tradición oral alrededor de centros culturales y tribales; Otto Eissfeldt ha sido uno de los principales representantes. También se ha sostenido que el libro fue completado en el exilio pero que es sustancialmente mosaico; W. F. Albright ha sido uno de los grandes defensores de esta otra opinión.",
+   "pagina": "beacon | PÁGINA PDF 21",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Evidencia del Cercano Oriente a favor de una composición mosaica",
+   "contenido": "Los eruditos conservadores, que encuentran inaceptable la teoría documentaria, se han animado por la cantidad de evidencias contrarias aportadas por los estudios del Cercano Oriente. Sostienen que la prueba más reciente hace posible, y aun sumamente probable, la composición de Génesis en la época de Moisés: varios tipos de escritura, incluso alfabética, eran de uso corriente siglos antes de Moisés, y existía una notable cantidad de literatura, gran parte significativa para estudiar Génesis. Se sabe ahora que la transmisión oral de tradiciones importantes, sobre todo si se relaciona con una deidad, tiene un grado de exactitud asombroso. Cada vez más eruditos se convencen de que el contenido de los capítulos 1–11 era conocido por los hebreos ya en la época de Abraham, y se reconoce que la orientación social, económica y política de las historias patriarcales estaba firmemente arraigada en el período 2000–1500 a.C.",
+   "pagina": "beacon | PÁGINA PDF 21",
+   "importancia": 3,
+   "postura": "Posición conservadora: composición en tiempos de Moisés, con tradiciones y escritos anteriores."
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "El monoteísmo patriarcal y la posición del Comentario Beacon",
+   "contenido": "El único obstáculo para la composición mosaica es, dice el autor, de naturaleza teológica. Hoy se concede mucho más que antes que las creencias monoteístas prevalecían entre los hebreos del tiempo de Moisés, pero solo los eruditos conservadores se han atrevido a sostener que el monoteísmo fue la fe de los patriarcas desde el principio. Todo el problema se reduce a una cuestión básica: ¿escribió Moisés Génesis, o es un compuesto de fecha muy posterior basado en diversas fuentes y tradiciones? El Comentario Beacon afirma la posición conservadora.",
+   "pagina": "beacon | PÁGINA PDF 22",
+   "importancia": 3,
+   "postura": "Beacon afirma que Génesis fue escrito por Moisés, de su mano y en su época.",
+   "cita": "El Génesis fue escrito por Moisés, por su mano y su época."
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Estructura de Génesis: introducción y diez toledot",
+   "contenido": "El libro consta de una introducción (1:1–2:3) y diez divisiones, cada una de las cuales comienza con la frase «Estas son las generaciones de». La palabra hebrea toledot, traducida «generaciones», tiene más bien el significado de «historia» o «relato» que de simple genealogía. Las divisiones comienzan en 2:4; 5:1; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 37:2. El libro puede dividirse también en dos secciones: 1:1–11:26, que trata básicamente de los orígenes, y 11:27 hasta el final, que trata del establecimiento del pacto de Dios con los antecesores del pueblo hebreo.",
+   "pagina": "beacon | PÁGINA PDF 22",
+   "importancia": 3,
+   "hebreo": {
+    "palabra": "toledot",
+    "transliteracion": "toledot",
+    "significado": "«generaciones», pero más bien «historia» o «relato» que simple genealogía"
+   },
+   "refs_biblicas": [
+    "Gn. 2:4",
+    "Gn. 5:1",
+    "Gn. 6:9",
+    "Gn. 10:1",
+    "Gn. 11:10",
+    "Gn. 11:27",
+    "Gn. 25:12",
+    "Gn. 25:19",
+    "Gn. 36:1",
+    "Gn. 37:2"
+   ]
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "División de G. Campbell Morgan: generación, degeneración, regeneración",
+   "contenido": "Siguiendo a G. Campbell Morgan, el libro se divide desde tres puntos de vista: 1:1–2:25, que trata de la generación; 3:1–11:32, que trata de la degeneración; y 12:1–50:26, centrado en la regeneración.",
+   "pagina": "beacon | PÁGINA PDF 22",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Movimiento de lo universal a lo específico",
+   "contenido": "Después del relato preliminar de la creación, el libro enfoca a los hombres clave y sus descendientes: Adán, Noé, Abraham, Isaac, Jacob y José; las figuras menores vinculadas a ellos aparecen simplemente en las genealogías. La creación del universo termina con Adán y Eva y de allí se traza un bosquejo de sus descendientes por los linajes de Caín y Set. Con la corrupción descrita en 6:1–4, el relato anuncia la decisión divina de castigar con un terrible diluvio y, a la vez, la salvación de un resto por la protección milagrosa de Noé y su familia en un arca. Noé y sus descendientes, en aumento y dispersión, se presentan también en una lista genealógica; entonces Abraham pasa al frente de todo.",
+   "pagina": "beacon | PÁGINA PDF 22",
+   "importancia": 2,
+   "cita": "En Génesis hay un movimiento ondulante de secuencias que van de lo universal a lo específico."
+  },
+  {
+   "ref": "intro",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Geografía de Génesis: Mesopotamia, Canaán, Harán y Egipto",
+   "contenido": "Los once primeros capítulos están orientados geográficamente hacia el valle de la Mesopotamia (mapa 1). Tras el llamado de Dios a Abraham, todas sus historias se concentran en Canaán (mapa 2), con pocas relacionadas con Egipto o con su antiguo hogar en Harán. La vida de Isaac está totalmente limitada a Canaán, salvo la búsqueda de esposa en Harán. Jacob pasó unos 20 años en Harán y los últimos de su vida en Egipto, aunque su juventud y virilidad transcurrieron en Canaán. José, aparte de su mocedad en Canaán, pasó su madurez en Egipto: una parte en la esclavitud y la prisión y el resto como poderoso oficial del gobierno.",
+   "pagina": "beacon | PÁGINA PDF 22",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Propósito del libro: la elección de Israel para el pacto",
+   "contenido": "El principal propósito de Génesis es mostrar cómo Dios eligió al pueblo de Israel para establecer un pacto con él, relatando cómo trató con sus antecesores. Aunque hay similitudes sorprendentes entre escritos antiguos y las historias bíblicas de la creación, la caída y el diluvio, el interés bíblico por el origen del universo es fundamentalmente teológico: declarar que todas las cosas provienen del Dios-Creador y son sostenidas por él. El politeísmo y sus concomitantes son cuidadosamente ignorados.",
+   "pagina": "beacon | PÁGINA PDF 23",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Comunión original, desobediencia y reconciliación: temas mesiánicos",
+   "contenido": "El interés de Génesis en el origen del hombre y del pecado concierne a la naturaleza de la relación entre el hombre y Dios: su comunión original y su posterior provocación y desobediencia. La primera relación se considera siempre el ideal y la meta de todos los tratos futuros de Dios con el hombre. Las misericordias divinas se extienden a todos los seres humanos para que esa relación pueda restablecerse mediante la actividad salvadora de Dios, establecida en un pacto. Los atisbos de la realización futura de los propósitos redentores de Dios se orientan no solo a lo individual sino a la reconciliación del hombre con el Altísimo en el plano nacional, internacional y universal; por eso aparecen en Génesis los temas mesiánicos de la última parte del Antiguo Testamento y del Nuevo.",
+   "pagina": "beacon | PÁGINA PDF 23",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Monoteísmo inflexible y paganismo ignorado",
+   "contenido": "Teológicamente, el contenido de Génesis es inflexiblemente monoteísta. El paganismo no se discute ni se rechaza abiertamente: es mayormente ignorado. Solo describe algunas circunstancias de prácticas idólatras, de forma indirecta como en el capítulo 22 o repudiándolas directamente como en el capítulo 23 (según el texto de la edición). El ímpetu racional y religioso del paganismo de Mesopotamia, Canaán y Egipto está casi totalmente ausente. El número limitado de asuntos religiosos y frases literarias comunes a la literatura mesopotámica y a Génesis es incidental a las historias, y su importancia ha sido sobrevalorada por algunos estudiosos del Antiguo Testamento.",
+   "pagina": "beacon | PÁGINA PDF 23",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Génesis frente al politeísmo, el dualismo, el deísmo y el panteísmo",
+   "contenido": "Génesis desafía la validez del politeísmo, el dualismo, el deísmo y el panteísmo, no mediante un análisis negativo de sus debilidades sino por la afirmación positiva de la unidad, la soberanía y la realidad personal de Dios. Las cualidades personales y dinámicas del pacto de relación divino-humana se presentan sobre todo en forma narrativa y, secundariamente, por medio de compendios genealógicos.",
+   "pagina": "beacon | PÁGINA PDF 23",
+   "importancia": 2,
+   "cita": "El libro de Génesis es un reto a la validez del politeísmo, el dualismo, el deísmo y el panteísmo; no por un análisis negativo de sus debilidades, sino por la afirmación positiva de la unidad, la soberanía y realidad personal de Dios."
+  },
+  {
+   "ref": "1:1-11:26",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de Génesis: Sección I",
+   "contenido": "I. Crisis Individual y Decadencia Colectiva, 1:1–11:26. A. El Creador en Acción, 1:1–2:3. B. El Creador en Relación con la Criatura, 2:4–3:24. C. El Crimen y Su Consecuencia, 4:1–24. D. Expansión Desde un Nuevo Comienzo, 4:25–6:8. E. La Corrupción Universal y Sus Consecuencias, 6:9–11:26.",
+   "pagina": "beacon | PÁGINA PDF 23",
+   "importancia": 3
+  },
+  {
+   "ref": "11:27-50:26",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de Génesis: Secciones II a VII",
+   "contenido": "II. Abraham, el Hombre Elegido por Dios, 11:27–25:11: A. Descendientes de la Familia de Taré, 11:27–32; B. Un Extranjero en una Nueva Tierra, 12:1–14:24; C. Pacto de Dios con Abraham, 15:1–17:27; D. En Espera del Hijo Verdadero, 18:1–20:18; E. Pruebas de la Verdadera Fidelidad, 21:1–22:19; F. La Responsabilidad por Otros, 22:20–25:11. III. Ismael, el Hombre a Quien Dios Rechazó, 25:12–18. IV. Isaac, el Hombre a Quien Dios Preservó la Vida, 25:19–28:9: A. La Primogenitura por un Guisado de Lentejas, 25:19–34; B. Tratos de Isaac con Sus Vecinos, 26:1–33; C. Isaac y Su Familia, 26:34–28:9. V. Jacob, el Hombre Rehecho por Dios, 28:10–35:29: A. Confrontado por Dios, 28:10–22; B. El Amor Frustrado Nunca Muere, 29:1–30; C. Una Penosa Competencia, 29:31–30:24; D. Pastores Astutos, 30:25–31:55; E. Una Profunda Crisis Espiritual, 32:1–32; F. Reunión de los Hermanos, 33:1–17; G. Una Tragedia en Siquem, 33:18–34:31; H. Renovación del Pacto en Bet-el, 35:1–15; I. Un Viaje Ensombrecido por la Tristeza, 35:16–29. VI. Esaú, el Hombre que Se Reconcilió con Su Hermano, 36:1–43: A. Las Esposas e Hijos de Esaú, 36:1–8; B. Hijos y Nietos de Esaú, 36:9–14; C. Importancia de la Posteridad de Esaú, 36:15–19; D. Hijos de los Habitantes de las Cavernas, 36:20–30; E. Reyes de Edom, 36:31–39; F. Territorios Donde Vivían los Edomitas, 36:40–43. VII. José, el Hombre Preservado por Dios, 37:1–50:26: A. Vendido como Esclavo, 37:1–36; B. Caída Moral de Judá, 38:1–30; C. Tribulaciones de José en Egipto, 39:1–40:23; D. Dramática Ascensión de José al Poder, 41:1–57; E. Misteriosos Problemas en Egipto, 42:1–45:28; F. El Nuevo Hogar en Egipto, 46:1–47:31; G. Anticipaciones del Futuro, 48:1–50:26.",
+   "pagina": "beacon | PÁGINA PDF 24",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1-11:26",
+   "tipo": "explicacion_texto",
+   "titulo": "La Sección I: orígenes en historias y genealogías comprimidas",
+   "contenido": "En una serie de historias y genealogías sumamente comprimidas, esta sección se refiere a los orígenes del universo, del orden en la tierra, de la vida, del hombre, del pecado, de la violencia, del desorden y de las diferencias lingüísticas y nacionales.",
+   "pagina": "beacon | PÁGINA PDF 26",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1-2:3",
+   "tipo": "explicacion_texto",
+   "titulo": "El Creador en acción: brevedad y belleza del relato",
+   "contenido": "La brevedad y belleza de composición y vocablos de esta viñeta de la creación no tiene igual. Domina la escena el Dios-Creador que habla, y sus órdenes se transforman rápidamente en existencias, proveyendo una morada bien provista y hermosa para la más sublime de sus obras, el hombre. Majestad y poder realzan cada oración.",
+   "pagina": "beacon | PÁGINA PDF 26",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "teologia_doctrina",
+   "titulo": "«En el principio creó Dios»: Creador y creación",
+   "contenido": "A la pregunta «¿quién hizo todas las cosas?» las Escrituras responden con valentía: «Creó Dios». A la pregunta «¿quién es anterior y mayor que todo lo creado?» la Biblia anuncia con igual arrojo: «En el principio creó Dios». Los cielos y la tierra no son Dios ni dioses, ni Dios es sinónimo de naturaleza. Dios es el Creador y la naturaleza es su obra maestra. El autor remite en nota a otros comentaristas sobre Génesis 1:1–3.",
+   "pagina": "beacon | PÁGINA PDF 26",
+   "importancia": 3,
+   "cita": "Dios es el Creador y la naturaleza es su obra maestra."
+  },
+  {
+   "ref": "1:2",
+   "tipo": "explicacion_texto",
+   "titulo": "La tierra desordenada y vacía; el Espíritu de Dios",
+   "contenido": "Aunque creada por Dios, la tierra no estaba lista para ser habitada por el hombre: todavía estaba en confusión, desordenada y vacía, y no había luz. Sin embargo, reinaba la actividad: el Espíritu de Dios continuamente se movía sobre las aguas.",
+   "pagina": "beacon | PÁGINA PDF 26",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3-5",
+   "tipo": "explicacion_texto",
+   "titulo": "Primer día: la luz como energía y la fórmula de cada día",
+   "contenido": "La energía es una necesidad vital para la habitación del hombre, y la luz es energía; por eso la primera orden de Dios fue «Sea la luz». El énfasis sobre la palabra hablada por Dios es tan grande que cada día de la creación comienza con un mandato o expresión de la voluntad divina. Enseguida viene la ejecución de la orden y luego la declaración culminante «era bueno» o sus equivalentes (vv. 4, 10, 18, etc.). (Una nota al pie del autor sobre la duración del «día» de la creación, con referencias a otros autores, quedó ilegible en el texto.)",
+   "pagina": "beacon | PÁGINA PDF 26",
+   "importancia": 2,
+   "cita": "La energía es una necesidad vital para la habitación del hombre; y la luz es energía."
+  },
+  {
+   "ref": "1:6-8",
+   "tipo": "hebreo_palabra",
+   "titulo": "Segundo día: «expansión» (raqia) y no «firmamento»",
+   "contenido": "Las aguas fueron separadas y hubo «expansión» sobre la tierra. Algunas versiones traen «firmamento», del latín firmamentum y este del griego stereoma; ambos términos implican la idea de solidez. Pero el énfasis del hebreo raqia no está sobre el material mismo sino sobre el acto de expandir o dilatar, o la condición de poder ser ensanchado. Por eso «expansión» da el sentido exacto del original.",
+   "pagina": "beacon | PÁGINA PDF 27",
+   "importancia": 3,
+   "hebreo": {
+    "palabra": "raqia",
+    "transliteracion": "raqia",
+    "significado": "expansión; acto de expandir, dilatar, o condición de poder ser ensanchado (no solidez)"
+   }
+  },
+  {
+   "ref": "1:6-8",
+   "tipo": "conexion_biblica",
+   "titulo": "La extensión de los cielos como evidencia del Creador",
+   "contenido": "En varios lugares del Antiguo Testamento es muy prominente el acto de extender los cielos (Job 9:8; 26:7; Sal. 104:2; Is. 45:12; 51:13; Jer. 51:15; Zac. 12:1). La evidencia de que Dios es el Creador se apoya más en el acto de la extensión que en la índole de lo que fue plasmado. Desde el principio hasta el fin, el Antiguo Testamento se concentra en la vinculación divina con la naturaleza y el hombre: Dios es el Creador, y desde esa declaración el Antiguo Testamento irá mostrando que la naturaleza es una criatura y una herramienta, y que Dios juzga, libera y cuida al hombre.",
+   "pagina": "beacon | PÁGINA PDF 27",
+   "importancia": 2,
+   "cita": "La evidencia de que Dios es el Creador se apoya más en el acto de la extensión que en la índole de lo que fue plasmado.",
+   "refs_biblicas": [
+    "Job 9:8",
+    "Job 26:7",
+    "Sal. 104:2",
+    "Is. 45:12",
+    "Is. 51:13",
+    "Jer. 51:15",
+    "Zac. 12:1"
+   ]
+  },
+  {
+   "ref": "1:9-13",
+   "tipo": "explicacion_texto",
+   "titulo": "Tercer día: tierra, mares y vegetación obedientes a la palabra",
+   "contenido": "El tercer acto de Dios fue la creación de un hogar futuro para el hombre, criatura terrenal cuyo alimento, la vegetación, se desarrolla en la tierra. Dios impartió la orden, la tierra y las aguas se separaron y la forma, la vida y la belleza agraciaron la tierra. El texto no describe cómo se hicieron las separaciones ni las fuerzas naturales involucradas, pero presenta con claridad la vinculación de un Dios Todopoderoso Creador con una criatura obediente y dócil. «Produzca la tierra» (v. 11) no concede que las sustancias inorgánicas tengan poderes inherentes para producir vida: esta descansa absolutamente en la palabra creadora de Dios, y en respuesta a ella brota de inmediato.",
+   "pagina": "beacon | PÁGINA PDF 27",
+   "importancia": 2
+  },
+  {
+   "ref": "1:11-12",
+   "tipo": "explicacion_texto",
+   "titulo": "Pares y tercetos; la vegetación no es clasificación botánica",
+   "contenido": "Tras la serie de pares (luz-tinieblas, aguas de arriba-aguas de abajo, tierra-mar) ocurre ahora una serie de tercetos o tríos. «Hierba verde, hierba que da semilla… y árbol que da fruto» (v. 12) son generalizaciones y de ninguna manera deben considerarse clasificaciones botánicas en el sentido de la ciencia moderna.",
+   "pagina": "beacon | PÁGINA PDF 27",
+   "importancia": 1
+  },
+  {
+   "ref": "1:11-12",
+   "tipo": "explicacion_texto",
+   "titulo": "«Según su naturaleza»: dependencia visible, no cliché rígido",
+   "contenido": "La frase «según su naturaleza» indica los límites de los poderes de reproducción, pero no provee un cliché que marque rígidamente las líneas. Lo que señala es la visible dependencia de la naturaleza: el trébol produce trébol, el trigo da trigo. Así fue y así seguirá siendo.",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 1
+  },
+  {
+   "ref": "1:14-19",
+   "tipo": "explicacion_texto",
+   "titulo": "Cuarto día: sol, luna y estrellas sin nombre y sin divinidad",
+   "contenido": "Los paganos adoraban al sol, la luna y las estrellas como dioses de temible poder. En el relato, la lumbrera mayor y la menor aún no reciben nombres: con pocas y hábiles sentencias se presenta su creación y su designación a servir en el firmamento. Su señorío es solo delegado. Las estrellas reciben apenas una honorable mención, lo que el autor llama un golpe para el paganismo.",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 3,
+   "cita": "Su señorío es sólo delegado y nada más.",
+   "refs_biblicas": [
+    "Gn. 1:16"
+   ]
+  },
+  {
+   "ref": "1:14-23",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Correspondencia entre los días 1–4 y 2–5",
+   "contenido": "El primer día (vv. 3–5) y el cuarto (vv. 14–19) están relacionados porque la luz y las tinieblas son comunes a ambos. También lo están el segundo (vv. 6–8) y el quinto (vv. 20–23), que tratan de la expansión arriba y las aguas abajo.",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 2
+  },
+  {
+   "ref": "1:20-23",
+   "tipo": "explicacion_texto",
+   "titulo": "Quinto día: peces y aves; el verbo «creó»",
+   "contenido": "El quinto día Dios dio su palabra a las aguas y ellas produjeron criaturas, y las aves poblaron el aire. En el verso 21 aparece otro trío: grandes monstruos marinos, todo ser viviente que se mueve y toda ave alada. El texto no dice de qué manera las aguas cooperaron con el Creador, pero se emplea la palabra «creó» para destacar el estrecho vínculo entre Dios y estas criaturas; así se atribuye a un acto divino la sorprendente diferencia entre la vida biológica y la botánica.",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 2
+  },
+  {
+   "ref": "1:22",
+   "tipo": "teologia_doctrina",
+   "titulo": "La bendición divina como acción creadora",
+   "contenido": "«Y Dios les bendijo» (v. 22): en el Antiguo Testamento una bendición divina es una acción creadora que capacitará al receptor para cumplir su destino según la voluntad de Dios. En este caso, las criaturas produjeron abundantemente según su especie (v. 21), lo cual sirvió, según el autor, para anular la primitiva palabra «vacía» (v. 2).",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 2
+  },
+  {
+   "ref": "1:24-25",
+   "tipo": "explicacion_texto",
+   "titulo": "Sexto día: los animales de la tierra",
+   "contenido": "Nuevamente, al emitir la orden «Produzca la tierra» (v. 24), Dios la pobló con criaturas: bestias de la tierra, ganado y todo animal que se arrastra (vv. 25–26 según la numeración del autor).",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 1
+  },
+  {
+   "ref": "1:26",
+   "tipo": "teologia_doctrina",
+   "titulo": "«Hagamos al hombre a nuestra semejanza»",
+   "contenido": "El sexto día culmina con un acto que corona los demás: la Divinidad en consejo dijo «Hagamos al hombre». Esta criatura sería distinta: «a nuestra semejanza» indica conformidad con Dios, pero no un exacto duplicado. No llegaría a ser un Dios en pequeño, sino que estaría relacionado con él y sería portador de sus distintivos espirituales, de modo que lo caracterizarían como el ser superior a todos los animales. El autor remite en nota a otros comentaristas sobre Génesis 1:26.",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 3
+  },
+  {
+   "ref": "1:26-30",
+   "tipo": "estructura_bosquejo",
+   "titulo": "«El Hombre Hecho a la Imagen de Dios» (G. B. Williamson)",
+   "contenido": "En 1:26–30 se encuentra al «Hombre Hecho a la Imagen de Dios», según el bosquejo de G. B. Williamson: (1) un ser espiritual capaz de inmortalidad, vv. 26ab; (2) un ser moral que lleva la semejanza de Dios, v. 27; (3) un ser intelectual con la facultad de la razón y el señorío, vv. 26c, 28–30.",
+   "pagina": "beacon | PÁGINA PDF 28",
+   "importancia": 3
+  },
+  {
+   "ref": "1:26-28",
+   "tipo": "teologia_doctrina",
+   "titulo": "La imagen de Dios: autoridad, razón, afecto y voluntad",
+   "contenido": "Una evidencia de la imagen fue la concesión divina al hombre de status y poder de autoridad: «sojuzgadla» (v. 28) señala que Dios lo capacitó para gobernar. La idoneidad para dirigir abarca capacidad intelectual (razonar, organizar, planear, evaluar), capacidad emocional (desear el mayor bienestar de los súbditos, apreciar y honrar lo bueno, verdadero y hermoso, desaprobar lo cruel, falso y repugnante, preocuparse por toda la naturaleza y amar a Dios) y capacidad volitiva (elegir lo que debe hacer, obedecer rápida y positivamente los mandamientos de Dios, rendirle con regocijo y adoración todos los poderes y participar en una edificante comunión con la naturaleza y con Dios). Dios creó al hombre dotado de autoconsciencia, autodeterminación y santidad interior (Ec. 7:29; Ef. 4:24; Col. 3:10). Esta imagen fue concedida sin diferencias al hombre y a la mujer, haciéndolos iguales ante el Creador.",
+   "pagina": "beacon | PÁGINA PDF 29",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Ec. 7:29",
+    "Ef. 4:24",
+    "Col. 3:10"
+   ]
+  },
+  {
+   "ref": "1:28",
+   "tipo": "teologia_doctrina",
+   "titulo": "La bendición sobre la humanidad y el mandato de procrear",
+   "contenido": "Como Dios bendijo lo creado antes (v. 22), bendijo de nuevo (v. 28) esta fase de su obra poniendo sobre el hombre la responsabilidad de fructificar, llenar la tierra y sojuzgarla con todo lo que contuviera. Esta bendición es infinitamente más amplia que la de los animales, porque el hombre puede reconocerla y responder a ella; «bendición», en relación con un ser racional, es comunicar la voluntad de Dios al bendecido. El mandato de procrear da al acto de reproducción la aprobación de Dios. En el Antiguo Testamento la bendición tiene dos aspectos: por la parte divina, un Ser superior que concede favores a quienes dependen de él; por el lado del hombre, la gratitud hacia el Dador (Gn. 24:48; Dt. 8:10).",
+   "pagina": "beacon | PÁGINA PDF 29",
+   "importancia": 3,
+   "cita": "Esencialmente, la relación procreadora del hombre y la mujer es buena y está dentro de la voluntad de Dios, siendo fundamental para su bienestar.",
+   "refs_biblicas": [
+    "Gn. 24:48",
+    "Dt. 8:10"
+   ]
+  },
+  {
+   "ref": "1:28",
+   "tipo": "aplicacion_practica",
+   "titulo": "Dominio delegado: responsabilidad, no abuso",
+   "contenido": "Un aspecto importante de las bendiciones de Dios fue otorgar poder y capacidad para «sojuzgar» y «señorear» sobre todas las cosas creadas. Pero es una autoridad delegada, un estado de subordinación por el que el hombre responde ante su Creador. La responsabilidad de controlar la vida animal no le confiere derecho a abusar de ella, porque entonces no hubiera sido bueno.",
+   "pagina": "beacon | PÁGINA PDF 29",
+   "importancia": 2,
+   "cita": "Pero se trata de una autoridad delegada, un estado de subordinación por el que el hombre es responsable ante su Creador."
+  },
+  {
+   "ref": "1:29-30",
+   "tipo": "aplicacion_practica",
+   "titulo": "El alimento vegetal y el cuidado de la naturaleza",
+   "contenido": "Dios otorgó al hombre el derecho de usar los vegetales para su alimentación (v. 29), pero eso no le concedió el privilegio de explotar la naturaleza dejando ruina y desolación: las plantas productoras de fruto debían ser debidamente cuidadas (2:15) y conservadas todas las fuentes naturales de producción. Que los animales, sujetos al control del hombre, también se alimentaran de la vegetación («toda planta verde», v. 30) indica la responsabilidad del hombre de manejar la naturaleza de modo que sirva a las necesidades de todas las criaturas vivientes y no solo a las humanas. Para el permiso de comer carne remite a 9:3.",
+   "pagina": "beacon | PÁGINA PDF 29",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Gn. 2:15",
+    "Gn. 9:3"
+   ]
+  },
+  {
+   "ref": "1:30",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "La muerte de animales antes de la caída",
+   "contenido": "No se menciona la muerte de los animales en el relato, aunque, según el autor, no hay razón para suponer que no hubo muerte de animales antes de la caída. El acento del texto está en la vida, la armonía, el orden y la conveniencia de forma y función de la residencia terrenal del hombre.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 2,
+   "postura": "El autor no ve razón para suponer que no hubo muerte animal antes de la caída."
+  },
+  {
+   "ref": "1:1-31",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo «La Creación por Voluntad Omnipotente» (G. B. Williamson)",
+   "contenido": "En 1:1–5, 26–31 se ve «La Creación por Voluntad Omnipotente», cuya idea central está en el versículo 1: (1) Causa adecuada, 1–2; (2) Designio evidente, 2–5; (3) El hombre semejante a Dios, 26–30; (4) Concepción omnisapiente, 31.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-3",
+   "tipo": "explicacion_texto",
+   "titulo": "Séptimo día: los tres versículos pertenecen al capítulo 1",
+   "contenido": "Los tres primeros versículos del capítulo 2 pertenecen en realidad al capítulo 1, pues tratan del séptimo día de la serie de la creación. Durante seis días Dios había creado y formado materias inorgánicas, plantas, animales y el hombre, todo lo cual se relaciona con el espacio; el hombre había recibido el mandato de señorear lo que está en el reino espacial. Dios lo había examinado todo y lo había llamado «muy bueno»: había llegado a la realización de todo lo que se había propuesto crear.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 2
+  },
+  {
+   "ref": "2:2",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Los rabinos y Rashi ante el descanso de Dios",
+   "contenido": "Algunos antiguos rabinos estaban anonadados porque creían ver en el texto una implicación de que Dios había realizado alguna tarea durante el sábado. El rabí Rashi declaró que al mundo todavía le faltaba algo, el descanso, de modo que el último acto divino de la creación fue el sábado, en el cual están la calma y el descanso.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 1
+  },
+  {
+   "ref": "2:1-3",
+   "tipo": "conexion_biblica",
+   "titulo": "El sábado, fundamento del día de reposo (Éxodo 20)",
+   "contenido": "En los Diez Mandamientos, la relación entre los seis días de labor de Dios con cosas materiales y su día de descanso se toma como base para que el hombre observe un día de reposo (Ex. 20:8–11). Ese día fue establecido por el Creador y debe observarse regularmente. Otros días de descanso que cambian con las estaciones pueden ser establecidos por el hombre, pero el sábado es independiente de ellos y de los problemas de fijar una fecha. Con el mandamiento de un día de reposo semanal se deja a un lado momentáneamente el mandato de dominar la naturaleza y el hombre reconoce una ley superior que lo hace someterse a Dios.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Ex. 20:8-11"
+   ]
+  },
+  {
+   "ref": "2:1-3",
+   "tipo": "conexion_biblica",
+   "titulo": "El reposo que queda: Salmo 95 y Hebreos 4",
+   "contenido": "En el Salmo 95:11 hay una insinuación de que Dios rehúsa un «reposo» (un sabbath) a los desobedientes. El escritor de Hebreos recoge la indirecta y dice que queda un reposo para el pueblo de Dios, y agrega: «Procuremos, pues, entrar en aquel reposo, para que ninguno caiga en semejante ejemplo de desobediencia» (He. 4:11). Así, el día de reposo sugiere la cesación de las obras de desobediencia y la aceptación del gobierno de Dios en el ser interior.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Sal. 95:11",
+    "He. 4:11"
+   ]
+  },
+  {
+   "ref": "2:3",
+   "tipo": "cultura_costumbres",
+   "titulo": "El día bendecido frente al sabbattu babilonio",
+   "contenido": "En contraste con el sabbattu de los babilonios, durante el cual demonios amenazadores rondaban libremente, Dios bendijo el séptimo día. Debía ser un tiempo de gozo y alegría, de renovación interior y de alabanza a un Dios misericordioso.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 2
+  },
+  {
+   "ref": "2:3",
+   "tipo": "teologia_doctrina",
+   "titulo": "El séptimo día, lo primero declarado santo",
+   "contenido": "Para el paganismo, algunas fuerzas naturales, cosas, plantas, animales o personas eran intrínsecamente santas, aun divinas; pero en ninguna parte de la historia de la creación se atribuye santidad a cosa alguna de la naturaleza: se dice que todo lo que Dios creó era bueno, no que fuera santo. El día séptimo es lo primero declarado santo. Dios apartó ese día para que el hombre pudiera conocer más profundamente su vinculación con él. Dios santificó el séptimo día al darle un significado especial para con él, y por eso en los Diez Mandamientos se manda reiteradamente santificar el sábado, reconociendo su conexión especial con el Creador.",
+   "pagina": "beacon | PÁGINA PDF 30",
+   "importancia": 3,
+   "cita": "El día séptimo es lo primero que es declarado santo."
+  }
+ ],
+ "problemas": "El archivo cubre las páginas PDF 17 a 30 y se leyó completo en una sola llamada. Hay tres problemas.\n\n1) Texto dañado por el OCR. Las notas al pie de las páginas 21, 22, 26, 27, 28 y 30 están rotas, con letras y palabras sueltas. En esas páginas no se puede saber con certeza qué autores y obras cita Livingston. Entre ellas está una nota sobre la duración del «día» de la creación y el término yom (p. 26). Por eso no usé el contenido de esas notas, salvo lo que el cuerpo del texto dice con claridad. Tampoco usé la bibliografía de la p. 19, aunque nombré a Aalders y Allis donde el texto principal los menciona. Los títulos de sección también están truncados: «CONTENIDO Y F[ORMA]», «A. T[ÍTULO]», «B. PATERNIDAD L[ITERARIA]», «C. EPOCA Y COMPOSICIÓN L[ITERARIA]», «D. E[STRUCTURA]», «E. OBJETO Y M[ENSAJE]». Como no puedo confirmarlos, no los reproduje completos.\n\n2) Página 25. Solo trae el título «Cronología del Génesis 7–8». La tabla o gráfico no salió en el texto, así que no hay contenido que condensar y no inventé ninguna nota de cronología.\n\n3) Correcciones menores y observaciones.\n- «Jean Astruo» en el texto es Jean Astruc, y así lo escribí.\n- Corregí la paréntesis faltante en «primer día 3–5)» a «(vv. 3–5)».\n- En la p. 23 el texto dice que la idolatría se repudia directamente «en el capítulo 23», referencia que parece extraña en Génesis. La conservé tal cual y lo aclaré en la nota.\n- En la p. 28 la numeración «(25–26)» de los animales del sexto día es la del autor.\n- La introducción al Pentateuco (pp. 17–19) está firmada «W. T. P.», no es de Livingston. La incluí con ref «intro» por su relevancia para el autor y la composición de Génesis.\n- No hay marcas [Page N] porque este bloque es de Beacon, no de Mundo Hispano."
+}

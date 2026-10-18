@@ -1,0 +1,541 @@
+{
+ "bloque": "dbmh_02",
+ "notas": [
+  {
+   "ref": "1:1-11:32",
+   "tipo": "cronologia_fechas",
+   "titulo": "No hay cronología absoluta de Adán a Abraham",
+   "contenido": "El problema cronológico del AT es uno de disponibilidad de evidencia, de la correcta evaluación e interpretación de esa evidencia y de su aplicación apropiada. Para el período desde la creación hasta Abraham, los cálculos varían según el texto (Texto Masorético, Pentateuco Samaritano, LXX), casi no hay fuentes extrabíblicas para antes del diluvio y los materiales extrabíblicos desde el diluvio hasta Abraham son de poca ayuda. Por estas dificultades, el autor concluye que no es posible construir una cronología absoluta desde Adán hasta Abraham con los datos disponibles.",
+   "cita": "debe admitirse que la construcción de una cronología absoluta desde Adán hasta Abraham no es posible sobre la base de los datos disponibles.",
+   "refs_biblicas": ["Gn 5", "Gn 7:11", "Gn 11:26"],
+   "pagina": "PDF 134",
+   "importancia": 3
+  },
+  {
+   "ref": "1:21",
+   "tipo": "explicacion_texto",
+   "titulo": "¿Ballenas o grandes animales acuáticos?",
+   "contenido": "La RVA llama «grandes animales acuáticos» a lo que la RV-1909 llama «ballenas» en Gn 1:21. Otras expresiones emparentadas son «monstruos marinos» (Job 7:12) y «monstruo de los mares» (Ez 32:2). La mayoría de las versiones describen al animal que tragó a Jonás como «un gran pez»; otras lo llaman «ballena».",
+   "refs_biblicas": ["Job 7:12", "Ez 32:2", "Jon 1:17"],
+   "pagina": "PDF 120",
+   "importancia": 1
+  },
+  {
+   "ref": "1:24-25",
+   "tipo": "cultura_costumbres",
+   "titulo": "El ganado aparece desde el primer capítulo",
+   "contenido": "El ganado (vacuno) es mencionado en el primer capítulo de la Biblia, lo cual es simbólico de su importancia para el bienestar de la raza humana.",
+   "refs_biblicas": [],
+   "pagina": "PDF 123",
+   "importancia": 1
+  },
+  {
+   "ref": "1:30",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Bestia»: qué designa en Génesis 1:30",
+   "contenido": "La descripción genérica «bestia» se deriva de unas 13 palabras hebreas y cinco griegas. Su primer sentido es el de un mamífero, excluyendo al hombre y claramente diferente de los pájaros y los peces, y a veces también de los reptiles, como en Gn 1:30. Los otros sentidos que da el diccionario son: animal salvaje no domesticado (Lv 26:22; Is 13:21; 34:14; Mr 1:13); cualquiera de los animales inferiores, en relación con la definición mosaica de animales limpios e inmundos (Ec 3:19; Hch 28:5); símbolo apocalíptico de una fuerza bruta opuesta al gobierno de Dios (las cuatro bestias de Dn 7:3, que simbolizan Babilonia, Media y Persia, Grecia y Roma); y seres celestiales que adoran a Dios (Ap 4:6-9).",
+   "refs_biblicas": ["Lv 26:22", "Is 13:21", "Mr 1:13", "Ec 3:19", "Dn 7:3", "Ap 4:6-9"],
+   "pagina": "PDF 120",
+   "importancia": 1
+  },
+  {
+   "ref": "1:31",
+   "tipo": "teologia_doctrina",
+   "titulo": "Los ángeles fueron creados santos y antes del hombre",
+   "contenido": "El ángel es un ser sobrenatural, celestial, un poco más alto en dignidad que el hombre. Su creación (Sal 148:2-5; Col 1:16) fue por cierto antes de la creación del hombre (Job 38:7). Los ángeles fueron creados santos, y el autor apoya esto en Gn 1:31 y Judas 6.",
+   "refs_biblicas": ["Sal 148:2-5", "Col 1:16", "Job 38:7", "Jud 6"],
+   "pagina": "PDF 116",
+   "importancia": 2
+  },
+  {
+   "ref": "2:9",
+   "tipo": "conexion_biblica",
+   "titulo": "El árbol de la vida, del Edén al Apocalipsis",
+   "contenido": "El árbol de la vida es un árbol especial en el jardín del Edén (Gn 2:9; 3:22). Aparece otra vez en Ap 22:2 como un árbol que produce frutos, con hojas, y que tendrá sanidad en sus hojas. La frase «árbol de vida» en Proverbios (3:18; 11:30; 13:12; 15:4) es figurativa para una experiencia de regocijo.",
+   "refs_biblicas": ["Gn 3:22", "Ap 22:2", "Pr 3:18", "Pr 11:30", "Pr 13:12", "Pr 15:4"],
+   "pagina": "PDF 149",
+   "importancia": 3
+  },
+  {
+   "ref": "2:9",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Mosaico del «árbol de la vida» en Jericó",
+   "contenido": "El diccionario ilustra la entrada con un mosaico del palacio de Hisham en Jericó que muestra animales estilizados comiendo del «árbol de la vida» (fotografía cortesía de Zev Radovan).",
+   "refs_biblicas": [],
+   "pagina": "PDF 149",
+   "importancia": 1
+  },
+  {
+   "ref": "2:9-17",
+   "tipo": "teologia_doctrina",
+   "titulo": "El árbol del conocimiento: una prueba de obediencia",
+   "contenido": "El árbol del conocimiento es un árbol especial en el jardín del Edén, señalado por el Señor como un instrumento para probar la obediencia de Adán y Eva (Gn 2:9, 17). El pecado al comer el fruto no estaba en el árbol, sino en la desobediencia de las personas que lo comieron.",
+   "cita": "El pecado al comer el fruto no estaba en el árbol, sino en la desobediencia de las personas que lo comieron.",
+   "refs_biblicas": ["Gn 2:9", "Gn 2:17"],
+   "pagina": "PDF 149",
+   "importancia": 3
+  },
+  {
+   "ref": "3:1",
+   "tipo": "teologia_doctrina",
+   "titulo": "Ángeles caídos antes de la tentación de Eva",
+   "contenido": "Algunos ángeles cayeron en pecado antes de que Satanás tentara a Eva (2 P 2:4; Jud 6). Su caída fue por su rebelión intencional contra Dios, que resultó en que perdieran su santidad: se corrompieron y fueron confirmados en la maldad. Algunos están en el infierno hasta el día del juicio (2 P 2:4); a otros se les ha dejado en libertad para oponerse por un tiempo a la obra de Dios (Mt 25:41).",
+   "refs_biblicas": ["2 P 2:4", "Jud 6", "Mt 25:41"],
+   "pagina": "PDF 116",
+   "importancia": 2
+  },
+  {
+   "ref": "3:5",
+   "tipo": "explicacion_texto",
+   "titulo": "Qué significa «conocer el bien y el mal»",
+   "contenido": "La expresión «conocimiento del bien y del mal» se usa en otros lugares de la Biblia. Los pequeños no conocen el bien y el mal (Dt 1:39), ni tampoco un anciano cuya mente decae (2 S 19:35); pero un rey discierne entre lo bueno y lo malo (1 R 3:9), como los ángeles (2 S 14:17) y Dios mismo (Gn 3:5, 22).",
+   "refs_biblicas": ["Gn 3:22", "Dt 1:39", "2 S 19:35", "1 R 3:9", "2 S 14:17"],
+   "pagina": "PDF 149",
+   "importancia": 2
+  },
+  {
+   "ref": "5",
+   "tipo": "cronologia_fechas",
+   "titulo": "De Adán al diluvio: 1.656, 1.307 o 2.242 años",
+   "contenido": "En el período desde la creación hasta el diluvio, los únicos datos bíblicos son las edades de los patriarcas (Gn 7:11) y las tablas genealógicas de Génesis 5. Los cálculos de los años desde Adán hasta el diluvio varían: 1.656 según el Texto Masorético, 1.307 según el Pentateuco Samaritano y 2.242 según la LXX. Casi no existen fuentes extrabíblicas de este período.",
+   "refs_biblicas": ["Gn 7:11"],
+   "pagina": "PDF 134",
+   "importancia": 2
+  },
+  {
+   "ref": "6:14-16",
+   "tipo": "hebreo_palabra",
+   "titulo": "El arca: «tevah», un barco que flota",
+   "contenido": "La palabra hebrea tevah significa «cofre» o «barco que flota»; en la Biblia siempre tiene el segundo significado. Se usa para el barco que Dios le indicó a Noé que construyera para salvarse él y su familia del diluvio (Gn 6:14-16), al que también se refiere el NT (Mt 24:38; Lc 17:27; He 11:7; 1 P 3:20). La misma palabra hebrea se usa para el cesto de juncos en que fue puesto el infante Moisés (Éx 2:2-5).",
+   "refs_biblicas": ["Mt 24:38", "Lc 17:27", "He 11:7", "1 P 3:20", "Éx 2:2-5"],
+   "hebreo": {"palabra": "tevah", "transliteracion": "tevah", "significado": "cofre, barco que flota (en la Biblia, siempre barco que flota)"},
+   "pagina": "PDF 150",
+   "importancia": 3
+  },
+  {
+   "ref": "8:4",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Ararat: la región y el monte",
+   "contenido": "Ararat es un país en la parte este de Armenia, una meseta montañosa de donde fluyen los ríos Tigris, Éufrates, Araxes y Choruk. Sus montañas se elevan a 5.313 m, la altura de un volcán extinto que ahora se llama monte Ararat, donde supuestamente descansó el arca, aunque Gn 8:4 no es preciso. La región es ahora parte de Turquía.",
+   "refs_biblicas": [],
+   "pagina": "PDF 147",
+   "importancia": 3
+  },
+  {
+   "ref": "8:18-19",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Qué pasó con el arca después",
+   "contenido": "Después que Noé abandonó el arca (Gn 8:18, 19) no se sabe qué pasó con ella, a pesar de muchas tradiciones y expediciones.",
+   "refs_biblicas": [],
+   "pagina": "PDF 150",
+   "importancia": 2
+  },
+  {
+   "ref": "10:16",
+   "tipo": "contexto_historico",
+   "titulo": "Los amorreos: origen e historia",
+   "contenido": "«Amorreo» (heb. ’emori, «los que viven en las montañas») se usa colectivamente para la tribu que descendía de Canaán (Gn 10:16). Las tabletas de Mari dan muchos datos de ellos. Cuando pueblos del norte los sacaron de esta región, se establecieron en Babilonia y controlaron toda la región, dando a Babilonia uno de los períodos más ricos de su historia. Después de varios siglos fueron vencidos por los heteos y se afincaron a lo largo de una gran porción de Canaán.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "’emori", "transliteracion": "’emori", "significado": "los que viven en las montañas"},
+   "pagina": "PDF 108",
+   "importancia": 2
+  },
+  {
+   "ref": "10:17",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El araqueo, habitante de Arca",
+   "contenido": "El araqueo es el habitante de Arca, una población fenicia a pocos kilómetros al noreste de Trípoli (Gn 10:17; 1 Cr 1:15).",
+   "refs_biblicas": ["1 Cr 1:15"],
+   "pagina": "PDF 147",
+   "importancia": 1
+  },
+  {
+   "ref": "10:22-23",
+   "tipo": "personaje",
+   "titulo": "Aram, hijo de Sem",
+   "contenido": "Entre las personas llamadas Aram, la primera es un hijo de Sem (Gn 10:22, 23; 1 Cr 1:17). Como nombre geográfico, Aram aparece generalmente como Siria en la Biblia.",
+   "refs_biblicas": ["1 Cr 1:17"],
+   "pagina": "PDF 146",
+   "importancia": 1
+  },
+  {
+   "ref": "11:10-32",
+   "tipo": "cronologia_fechas",
+   "titulo": "Del diluvio a Abraham: la edad de Taré",
+   "contenido": "Si se considera que Taré tenía 70 años cuando nació Abraham (Gn 11:26), los años desde el diluvio hasta Abraham serían 292 según el Texto Masorético, 942 según el Pentateuco Samaritano y 1.172 según la LXX. Pero si se considera que Taré tenía 130 años cuando nació Abraham (sobre la base de Gn 11:32; 12:4; Hch 7:4), esos totales aumentan en 60 años: el texto hebreo daría 352 años desde el diluvio hasta Abraham, y el griego 1.232. Los materiales extrabíblicos de este período son de poca ayuda para establecer una cronología absoluta.",
+   "refs_biblicas": ["Gn 11:26", "Gn 11:32", "Gn 12:4", "Hch 7:4"],
+   "pagina": "PDF 134",
+   "importancia": 3,
+   "postura": "Dos cálculos: Taré con 70 años al nacer Abraham (lectura de 11:26) o con 130 (deducido de 11:32, 12:4 y Hch 7:4). El autor no elige y concluye que no se puede fijar una cronología absoluta para este período."
+  },
+  {
+   "ref": "12:1-4",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Los 430 años y la entrada de Abraham (1875 a.C.)",
+   "contenido": "Según Éx 12:40, la residencia duró en total 430 años. La pregunta es si incluye solo la permanencia en Egipto o también la residencia en Canaán: si Israel estuvo 430 años en Egipto, hubo 645 años desde la entrada de Abraham a Canaán hasta la salida de Egipto; si los 430 incluyen el tiempo de los patriarcas en Canaán, la permanencia en Egipto sería solo de 215 años. Con los datos del AT es imposible dar una respuesta categórica, y tampoco se puede dar una fecha absoluta para la entrada de Abraham en Canaán. Pablo consideró que los 430 años empezaban cuando Abraham recibió las promesas (Gn 12:1-4) y terminaban cuando Moisés recibió la ley en Sinaí (Gá 3:16, 17). Sobre esta base, la entrada a Canaán y el principio de la residencia fueron en 1875 a.C. (el autor trabaja con una fecha del éxodo en 1445 a.C.).",
+   "refs_biblicas": ["Éx 12:40", "Gá 3:16-17"],
+   "pagina": "PDF 135",
+   "importancia": 3,
+   "postura": "430 años solo en Egipto (645 años desde la entrada de Abraham hasta el éxodo) o 430 años que incluyen a los patriarcas en Canaán (215 en Egipto). El autor dice que el AT no permite decidirlo con certeza, pero sigue la lectura de Pablo (Gá 3:16-17), que pone la entrada de Abraham en Canaán en 1875 a.C."
+  },
+  {
+   "ref": "12:4-47:28",
+   "tipo": "cronologia_fechas",
+   "titulo": "215 años: de Abraham en Canaán a Jacob en Egipto",
+   "contenido": "Abraham tenía 75 años al entrar en Canaán (Gn 12:4) y 100 al nacer Isaac (21:5): 25 años desde la entrada a Canaán hasta Isaac. Isaac tenía 60 años al nacer Jacob (25:26) y Jacob tenía 130 al entrar a Egipto (47:9, 28). Eso da 215 años desde el inicio de la morada en Canaán hasta el principio de la estadía en Egipto.",
+   "refs_biblicas": ["Gn 12:4", "Gn 21:5", "Gn 25:26", "Gn 47:9", "Gn 47:28"],
+   "pagina": "PDF 134-135",
+   "importancia": 3
+  },
+  {
+   "ref": "12:16",
+   "tipo": "cultura_costumbres",
+   "titulo": "Los camellos de Abraham: dromedario y bactriano",
+   "contenido": "La importancia del camello en las tierras bíblicas se confirma por las más de 60 referencias a él en las Escrituras. Hay dos formas básicas: el dromedario, de una sola joroba, y el camello bactriano, de andar más lento, con dos jorobas. El dromedario tiene patas más largas y anda bastante más ligero: con poca carga puede cubrir hasta 250 km, mientras que el bactriano, con una carga que puede llegar a 182 kg, cubre un poco más de 50 km por día. Así se complementan: el dromedario para transporte personal o para llevar mensajes importantes, el bactriano para el comercio. Los camellos figuran bastante en el AT y se mencionan entre las posesiones de Abraham (Gn 12:16; 24) y de Jacob (Gn 30:43).",
+   "refs_biblicas": ["Gn 24", "Gn 30:43"],
+   "pagina": "PDF 121",
+   "importancia": 2
+  },
+  {
+   "ref": "13:2",
+   "tipo": "cultura_costumbres",
+   "titulo": "La riqueza de los patriarcas se medía en ganado",
+   "contenido": "Los patriarcas contaban su riqueza sobre todo por la cantidad de ganado que tenían, como en el caso de Abraham (Gn 13:2; cf. 32:15).",
+   "refs_biblicas": ["Gn 32:15"],
+   "pagina": "PDF 123",
+   "importancia": 2
+  },
+  {
+   "ref": "14:1",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Amrafel de Sinar, probable rey amorreo",
+   "contenido": "Las tabletas de Mari dan muchos datos sobre los amorreos, y hoy se cree que Amrafel de Sinar (Gn 14:1) era uno de sus reyes.",
+   "refs_biblicas": [],
+   "pagina": "PDF 108",
+   "importancia": 2
+  },
+  {
+   "ref": "14:13",
+   "tipo": "personaje",
+   "titulo": "Aner, hermano de Mamre el amorreo",
+   "contenido": "Aner era hermano de Mamre el amorreo (Gn 14:13, 24). Hay otro Aner que no es una persona: una ciudad levita en Manasés (1 Cr 6:70).",
+   "refs_biblicas": ["Gn 14:24", "1 Cr 6:70"],
+   "pagina": "PDF 116",
+   "importancia": 1
+  },
+  {
+   "ref": "15:9",
+   "tipo": "cultura_costumbres",
+   "titulo": "El carnero en los sacrificios",
+   "contenido": "El carnero, el macho cornudo de la oveja, se usaba para cría. La mayoría de las referencias bíblicas tratan de su papel en las ceremonias o los sacrificios sacerdotales (Gn 15:9; Éx 29; Nm 7).",
+   "refs_biblicas": ["Éx 29", "Nm 7"],
+   "pagina": "PDF 128",
+   "importancia": 1
+  },
+  {
+   "ref": "15:15",
+   "tipo": "explicacion_texto",
+   "titulo": "Dios promete a Abraham una buena vejez",
+   "contenido": "Dios prometió a Abraham buena vejez (Gn 15:15; cf. Ec 12:1-7). En el AT la vejez se considera recompensa de la obediencia filial (Éx 20:12).",
+   "refs_biblicas": ["Ec 12:1-7", "Éx 20:12"],
+   "pagina": "PDF 115",
+   "importancia": 1
+  },
+  {
+   "ref": "15:16",
+   "tipo": "teologia_doctrina",
+   "titulo": "La iniquidad del amorreo y el juicio divino",
+   "contenido": "Los amorreos eran aparentemente un pueblo muy malvado, porque Dios dijo a Abraham que sus descendientes serían quienes ejecutarían la venganza divina cuando la iniquidad de los amorreos fuera total.",
+   "refs_biblicas": [],
+   "pagina": "PDF 108",
+   "importancia": 2
+  },
+  {
+   "ref": "16:7-14",
+   "tipo": "teologia_doctrina",
+   "titulo": "El ángel de Jehová: el Señor en forma visible",
+   "contenido": "En el AT se encuentra con frecuencia la frase «ángel de Jehovah». En casi todos los casos este mensajero es considerado una deidad y, sin embargo, se distingue de Dios (Gn 16:7-14; 22:11-18; 31:11, 13; Éx 3:2-5; Nm 22:22-35; Jue 6:11-23; 13:2-25; 1 R 19:5-7; 1 Cr 21:15-17). Es el Señor mismo, que adopta una forma visible y, por lo tanto, una apariencia humana para poder hablar con las personas (p. ej., Jue 13:6, 10, 21). Es santo como Dios es santo (Éx 3:2-5) y, a la vez, expresa la condescendencia del Santo al andar entre pecadores (Éx 32:34; 33:3).",
+   "cita": "El Ángel es el Señor mismo adoptando una forma visible, y por lo tanto una apariencia humana, para poder hablar con las personas",
+   "refs_biblicas": ["Gn 22:11-18", "Gn 31:11-13", "Éx 3:2-5", "Nm 22:22-35", "Jue 6:11-23", "Jue 13:2-25", "1 R 19:5-7", "1 Cr 21:15-17", "Jue 13:6", "Éx 32:34", "Éx 33:3"],
+   "pagina": "PDF 117",
+   "importancia": 3
+  },
+  {
+   "ref": "18:7",
+   "tipo": "cultura_costumbres",
+   "titulo": "Un ternero tierno para los tres visitantes",
+   "contenido": "Los becerros (terneros o terneras) eran valorados como alimento y también como sacrificio (Lv 9:3, 8). Abraham eligió un ternero tierno y bueno para agasajar a sus tres misteriosos visitantes (Gn 18:7).",
+   "refs_biblicas": ["Lv 9:3", "Lv 9:8"],
+   "pagina": "PDF 123",
+   "importancia": 2
+  },
+  {
+   "ref": "19:11-13",
+   "tipo": "teologia_doctrina",
+   "titulo": "Los ángeles protegen y ejecutan el juicio de Dios",
+   "contenido": "Los ángeles buenos están en la presencia de Dios y lo adoran (Mt 18:10; He 1:6; Ap 5:11). Asisten, protegen y libran al pueblo de Dios (Gn 19:11; Sal 91:11; Dn 3:28; 6:22; Hch 5:19; He 1:14), y ejecutan la voluntad de Dios en individuos y naciones (Gn 19:12, 13; 2 S 24:16; Ez 9:2, 5, 7; Hch 12:23). Dios los usa para castigar a sus enemigos (2 R 19:35; Hch 12:23).",
+   "refs_biblicas": ["Sal 91:11", "Dn 3:28", "Dn 6:22", "Hch 5:19", "He 1:14", "2 S 24:16", "Ez 9:2-7", "Hch 12:23", "2 R 19:35"],
+   "pagina": "PDF 117",
+   "importancia": 2
+  },
+  {
+   "ref": "19:38",
+   "tipo": "personaje",
+   "titulo": "Ben-amí, padre de los amonitas",
+   "contenido": "Amón (heb. ’ammón, «un pueblo») es Ben-amí, hijo de Lot por su hija menor (Gn 19:38) y padre de los amonitas. Los amonitas, descendientes de Ben-amí o Amón, estaban emparentados con los moabitas por sus antepasados y con frecuencia aparecen en las Escrituras como aliados de ellos.",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "’ammón", "transliteracion": "’ammón", "significado": "un pueblo"},
+   "pagina": "PDF 106",
+   "importancia": 2
+  },
+  {
+   "ref": "19:38",
+   "tipo": "conexion_biblica",
+   "titulo": "El final de los amonitas",
+   "contenido": "Por sus pecados, y especialmente porque hostigaban a Israel constantemente, Ezequiel predijo la destrucción total de los amonitas (Ez 25:1-7). Su último intento parece haber sido contra Judas Macabeo (1 Mac 5:6).",
+   "refs_biblicas": ["Ez 25:1-7", "1 Mac 5:6"],
+   "pagina": "PDF 108",
+   "importancia": 1
+  },
+  {
+   "ref": "21:28-29",
+   "tipo": "cultura_costumbres",
+   "titulo": "Siete corderas para sellar un tratado",
+   "contenido": "Varias palabras hebreas se han traducido como «oveja», es decir, la hembra del carnero. Abraham apartó siete corderas para obsequiar a Abimelec (Gn 21:28, 29) a fin de sellar un tratado.",
+   "refs_biblicas": [],
+   "pagina": "PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "22:2",
+   "tipo": "conexion_biblica",
+   "titulo": "El monte Moriah y la era de Arauna",
+   "contenido": "Arauna el jebuseo era dueño de la era en el monte Moriah que David compró para edificar un altar. Al terminar una plaga, que fue el resultado del pecado de David por el censo, David presentó allí una ofrenda costosa al Señor (2 S 24:15-25). En 1 Cr 21:18-28 Arauna se llama Ornán.",
+   "refs_biblicas": ["2 S 24:15-25", "1 Cr 21:18-28"],
+   "pagina": "PDF 147",
+   "importancia": 1
+  },
+  {
+   "ref": "22:11-18",
+   "tipo": "teologia_doctrina",
+   "titulo": "El ángel de Jehová llama a Abraham",
+   "contenido": "El diccionario cuenta Gn 22:11-18 entre los pasajes del ángel de Jehovah: un mensajero considerado como deidad que, sin embargo, se distingue de Dios. Según el autor, es el Señor mismo que adopta una forma visible para poder hablar con las personas.",
+   "refs_biblicas": ["Gn 16:7-14", "Gn 31:11-13", "Éx 3:2-5"],
+   "pagina": "PDF 117",
+   "importancia": 2
+  },
+  {
+   "ref": "22:21",
+   "tipo": "personaje",
+   "titulo": "Aram, hijo de Quemuel",
+   "contenido": "Otro Aram es hijo de Quemuel y sobrino de Abraham (Gn 22:21).",
+   "refs_biblicas": [],
+   "pagina": "PDF 146",
+   "importancia": 1
+  },
+  {
+   "ref": "23:2",
+   "tipo": "personaje",
+   "titulo": "Arba, fundador de Quiriat-arba (Hebrón)",
+   "contenido": "Arba fue el padre de Anac y fundó la ciudad que llevaba su nombre, Quiriat-arba de Hebrón (Jos 14:15; 15:13). Anac (heb. ’anáq, «cuello largo»), descendiente de Arba, fue antepasado de los anaquitas (Nm 13:22, 28, 33).",
+   "refs_biblicas": ["Jos 14:15", "Jos 15:13", "Nm 13:22", "Nm 13:28", "Nm 13:33"],
+   "hebreo": {"palabra": "’anáq", "transliteracion": "’anáq", "significado": "cuello largo"},
+   "pagina": "PDF 147",
+   "importancia": 1
+  },
+  {
+   "ref": "24",
+   "tipo": "cultura_costumbres",
+   "titulo": "Camellos entre las posesiones de Abraham",
+   "contenido": "El autor cita Génesis 24 entre los textos que mencionan los camellos como posesiones de Abraham. El dromedario, de patas largas y más ligero, se usaba para transporte personal o para llevar mensajes importantes; el bactriano, más lento y con más carga, para el comercio.",
+   "refs_biblicas": ["Gn 12:16"],
+   "pagina": "PDF 121",
+   "importancia": 1
+  },
+  {
+   "ref": "24:10",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Aram Naharaim, «Aram de los dos ríos»",
+   "contenido": "Aram, que en la Biblia aparece generalmente como Siria, describe en términos generales el área al norte de Israel y se extiende hacia el este hasta Mesopotamia. Esta última parte es Aram Naharaim, es decir, «Aram de los dos ríos» (Gn 24:10).",
+   "refs_biblicas": [],
+   "hebreo": {"palabra": "Aram Naharaim", "transliteracion": "Aram Naharaim", "significado": "Aram de los dos ríos"},
+   "pagina": "PDF 146",
+   "importancia": 2
+  },
+  {
+   "ref": "29",
+   "tipo": "cultura_costumbres",
+   "titulo": "Pastores, rebaños y el pozo como lugar de encuentro",
+   "contenido": "La vida de los pastores y sus rebaños se menciona en varios lugares (Gn 29; Éx 22:1, 4; Nm 31:36). A las ovejas se les daba agua al mediodía, y el pozo llegó a ser un lugar importante de reunión. Las mujeres también trabajaban como pastoras, como las siete hijas del sacerdote de Madián (Éx 2:16). En las tierras bíblicas las ovejas se usaban más por su leche que por su carne.",
+   "refs_biblicas": ["Éx 22:1", "Éx 22:4", "Nm 31:36", "Éx 2:16"],
+   "pagina": "PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "30:43",
+   "tipo": "cultura_costumbres",
+   "titulo": "Los camellos de Jacob",
+   "contenido": "Los camellos se mencionan entre las posesiones de Jacob (Gn 30:43), igual que entre las de Abraham (Gn 12:16; 24).",
+   "refs_biblicas": ["Gn 12:16", "Gn 24"],
+   "pagina": "PDF 121",
+   "importancia": 1
+  },
+  {
+   "ref": "31:11-13",
+   "tipo": "teologia_doctrina",
+   "titulo": "El ángel de Jehová habla a Jacob",
+   "contenido": "El diccionario incluye Gn 31:11, 13 entre los pasajes del ángel de Jehovah, un mensajero considerado como deidad y, sin embargo, distinto de Dios. Según el autor, el Ángel es el Señor mismo, que adopta una forma visible para hablar con las personas y expresa la condescendencia del Santo al andar entre pecadores.",
+   "refs_biblicas": ["Gn 16:7-14", "Gn 22:11-18"],
+   "pagina": "PDF 117",
+   "importancia": 2
+  },
+  {
+   "ref": "31:47",
+   "tipo": "contexto_historico",
+   "titulo": "Labán hablaba arameo; Jacob, hebreo",
+   "contenido": "El arameo es un idioma semita del occidente, muy relacionado con el hebreo, que desarrolló varios dialectos. Labán usaba el arameo mientras que Jacob usaba el hebreo (Gn 31:47). Más adelante el arameo fue el idioma de la diplomacia asiria (2 R 18:26; Is 36:11), y era tan diferente del hebreo que los ciudadanos de Jerusalén no lo comprendían. Algunas partes del AT están en arameo (Jer 10:11; Dn 2:4-7:28; Esd 4:8-6:18; 7:12-26), y el autor considera casi seguro que el Señor Jesús hablaba habitualmente arameo, ocasionalmente griego, y podía leer y hablar hebreo.",
+   "refs_biblicas": ["2 R 18:26", "Is 36:11", "Jer 10:11", "Dn 2:4-7:28", "Esd 4:8-6:18", "Esd 7:12-26"],
+   "pagina": "PDF 147",
+   "importancia": 2
+  },
+  {
+   "ref": "32:14",
+   "tipo": "cultura_costumbres",
+   "titulo": "El presente de Jacob a Esaú",
+   "contenido": "Los presentes de Jacob a Esaú incluían 200 ovejas y 20 carneros (Gn 32:14).",
+   "refs_biblicas": [],
+   "pagina": "PDF 128",
+   "importancia": 1
+  },
+  {
+   "ref": "36:14",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Aná: ¿hijo o hija de Zibeón?",
+   "contenido": "Todas las demás referencias (Gn 36:2, 14, 18, 20, 24, 25, 29; 1 Cr 1:40, 41) presentan a Aná como un varón descendiente de Seír el horeo y de la familia inmediata de Zibeón, pero Gn 36:14 se ha interpretado muchas veces como si Aná fuera la hija de Zibeón. El autor considera sabia la traducción de la Biblia de las Américas, «Aholibama, mujer de Esaú, hija de Aná, nieta de Zibeón»: así como en hebreo la palabra «hijo» se usa para descendientes varones inmediatos y remotos, aquí se usa la palabra «hija». El árbol genealógico va, entonces, desde Seír, pasando por los varones Zibeón y Aná, hasta la mujer Oholibama, con quien se casó Esaú.",
+   "refs_biblicas": ["Gn 36:2", "Gn 36:18", "Gn 36:20", "Gn 36:24", "Gn 36:25", "Gn 36:29", "1 Cr 1:40-41"],
+   "pagina": "PDF 112",
+   "importancia": 2,
+   "postura": "Muchos leen Gn 36:14 como si Aná fuera hija de Zibeón. El autor prefiere la lectura de LBLA: Aná es varón y Aholibama es hija de Aná y nieta de Zibeón, porque en hebreo «hija» puede designar a una descendiente remota."
+  },
+  {
+   "ref": "41:1-7",
+   "tipo": "explicacion_texto",
+   "titulo": "Las vacas gordas y flacas del sueño del faraón",
+   "contenido": "El destino de José empezó a cumplirse con el sueño en que el faraón vio siete vacas hermosas y gordas y luego siete vacas feas y flacas (Gn 41:1-7), que simbolizaban años de abundancia seguidos por años de escasez.",
+   "refs_biblicas": [],
+   "pagina": "PDF 123",
+   "importancia": 2
+  },
+  {
+   "ref": "44:29-31",
+   "tipo": "cultura_costumbres",
+   "titulo": "Las canas también tenían sus dolores",
+   "contenido": "En el AT hay muchas palabras hebreas relacionadas con la vejez, lo que muestra la honra que en general se daba a los ancianos; pero las canas también tenían sus dolores (Gn 44:29-31).",
+   "refs_biblicas": [],
+   "pagina": "PDF 115",
+   "importancia": 1
+  },
+  {
+   "ref": "45:10",
+   "tipo": "cultura_costumbres",
+   "titulo": "El ganado de la familia de Jacob",
+   "contenido": "El relato de José como primer ministro y de su relación con los hermanos de los que había estado separado incluye referencias a su ganado (Gn 45:10; 46:34).",
+   "refs_biblicas": ["Gn 46:34"],
+   "pagina": "PDF 123",
+   "importancia": 1
+  },
+  {
+   "ref": "47:7-9",
+   "tipo": "explicacion_texto",
+   "titulo": "Jacob lamenta no haber vivido como sus padres",
+   "contenido": "Ante el faraón, Jacob se lamentaba de no haber vivido tanto como sus antepasados (Gn 47:7-9). La edad que da allí, 130 años al entrar a Egipto, es uno de los datos con que el autor arma la cronología patriarcal.",
+   "refs_biblicas": [],
+   "pagina": "PDF 115",
+   "importancia": 1
+  },
+  {
+   "ref": "49:9",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Judá, el cachorro de león; Cristo, el León de Judá",
+   "contenido": "A lo largo de las Escrituras el león se usaba como símbolo de poder, y su poder, rapidez y ferocidad se comparaban con los de los enemigos de Israel. Jacob comparó a su hijo Judá con un león (Gn 49:9), y el Señor Jesucristo es llamado con frecuencia el León de la tribu de Judá (o el León de Judá).",
+   "refs_biblicas": [],
+   "pagina": "PDF 126",
+   "importancia": 3
+  },
+  {
+   "ref": "49:27",
+   "tipo": "explicacion_texto",
+   "titulo": "Benjamín, como un lobo hambriento",
+   "contenido": "El lobo es un mamífero carnívoro e inteligente, del género Canis, que por lo general caza en manada y ataca sin miedo a animales más fuertes. Aparece 13 veces en las Escrituras y era un peligro común para los pastores, especialmente en Palestina, con sus bosques. La tribu de Benjamín era como un lobo hambriento (Gn 49:27). Los falsos profetas se describen como lobos rapaces vestidos de ovejas (Mt 7:15), y la imagen del milenio en Isaías incluye al lobo viviendo con el cordero (Is 11:6; 65:25).",
+   "refs_biblicas": ["Mt 7:15", "Is 11:6", "Is 65:25"],
+   "pagina": "PDF 126",
+   "importancia": 2
+  },
+  {
+   "ref": "50:26",
+   "tipo": "hebreo_palabra",
+   "titulo": "El ataúd de José y el arca del pacto",
+   "contenido": "La palabra usada para el arca del pacto es la misma que se usa para el ataúd (caja de momia) de José (Gn 50:26). Todas las demás veces se refiere al estuche que contenía la tabla de la ley, en el tabernáculo o en el templo.",
+   "refs_biblicas": ["Éx 25:10-22"],
+   "pagina": "PDF 150",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "teologia_doctrina",
+   "titulo": "Qué son los ángeles",
+   "contenido": "Ángel (gr. angelos, «mensajero») es un ser sobrenatural, celestial, un poco más alto en dignidad que el hombre. Los ángeles son descritos como espíritus (He 1:14); su inteligencia y fuerza sobrehumanas no son ilimitadas (Mt 24:36; 1 P 1:12; Sal 103:20; 2 Ts 1:7; 2 P 2:11). Son distintos del ser humano (1 Co 6:3; He 1:14) y no se casan ni mueren (Lc 20:34-36). Son una gran multitud (Ap 5:11), de diversos rangos y dotes (Col 1:16), pero solo uno, Miguel, es llamado arcángel en las Escrituras (Jud 9). Tanto los ángeles buenos como los malos están muy bien organizados (Ro 8:38; Ef 1:21; 3:10; Col 1:16; 2:15).",
+   "refs_biblicas": ["He 1:14", "Mt 24:36", "1 P 1:12", "Sal 103:20", "2 Ts 1:7", "2 P 2:11", "1 Co 6:3", "Lc 20:34-36", "Ap 5:11", "Col 1:16", "Jud 9", "Ro 8:38", "Ef 1:21", "Ef 3:10", "Col 2:15"],
+   "hebreo": {"palabra": "angelos", "transliteracion": "angelos (gr.)", "significado": "mensajero"},
+   "pagina": "PDF 116",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "teologia_doctrina",
+   "titulo": "Hasta dónde llega el poder de los ángeles malos",
+   "contenido": "Para contrariar a Dios y frustrar su voluntad, los ángeles malos luchan por separar de Dios a los creyentes (Ro 8:38) y se oponen a los ángeles buenos en su obra (Dn 10:12, 13). Entorpecen el bienestar temporal y eterno del hombre mediante un control limitado sobre fenómenos naturales (Job 1:12, 13, 19; 2:7), causando enfermedades (Lc 13:11, 16; Hch 10:38; 2 Co 12:7), tentando al hombre para que peque (Mt 4:3; Jn 13:27; 1 P 5:8) y propagando falsas doctrinas (1 R 22:21-23; 2 Ts 2:2; 1 Ti 4:1). Pero no pueden ejercer sobre las personas ningún poder moral independientemente de la voluntad humana, y cualquier poder que tengan se limita a la voluntad permisiva de Dios.",
+   "cita": "no pueden ejercer sobre las personas ningún poder moral independientemente de la voluntad humana, y sea cual fuere el poder que tienen, éste se limita a la voluntad permisiva de Dios.",
+   "refs_biblicas": ["Ro 8:38", "Dn 10:12-13", "Job 1:12-19", "Job 2:7", "Lc 13:11", "Hch 10:38", "2 Co 12:7", "Mt 4:3", "Jn 13:27", "1 P 5:8", "1 R 22:21-23", "2 Ts 2:2", "1 Ti 4:1"],
+   "pagina": "PDF 117",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "La honra a la vejez en la Biblia",
+   "contenido": "La vejez se llama recompensa de la obediencia filial (Éx 20:12). Se debía mostrar respeto por los ancianos (Lv 19:32), y los hombres más jóvenes esperaban a que ellos hubieran hablado (Job 32:4). Las posiciones oficiales se adjudicaban a hombres mayores (ancianos, p. ej., Éx 3:16; Mt 21:23). Ancianos y ancianas reciben buenos consejos (Tit 2:2-5), y Jesucristo es presentado con el cabello blanco de la vejez (Ap 1:14).",
+   "refs_biblicas": ["Éx 20:12", "Lv 19:32", "Job 32:4", "Éx 3:16", "Mt 21:23", "Tit 2:2-5", "Ap 1:14"],
+   "pagina": "PDF 115",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "La oveja en la economía y la fe",
+   "contenido": "La oveja es el animal mencionado con mayor frecuencia en las Escrituras, quizá por su importancia en la economía de la época. La figura más familiar de Jesucristo es quizá la del Buen Pastor, y la parábola que se recuerda con más facilidad es la de la oveja perdida. Las ceremonias religiosas incluían el sacrificio de ovejas, y los cuernos de carnero se usaban como trompeta para llamar a la congregación.",
+   "refs_biblicas": [],
+   "pagina": "PDF 128",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Andar»: sentido literal y figurado",
+   "contenido": "Más de 12 verbos hebreos y griegos se traducen «andar». Se usan centenares de veces; su significado suele ser literal, pero a menudo es figurado (p. ej., Sal 1:1). En las cartas del NT la palabra se usa siempre en sentido figurado y se refiere al modo total de la vida y la conducta (Ro 4:12; 2 Co 6:16; 1 Jn 1:7) o a la observancia de leyes y costumbres (Hch 21:21).",
+   "refs_biblicas": ["Sal 1:1", "Ro 4:12", "2 Co 6:16", "1 Jn 1:7", "Hch 21:21"],
+   "pagina": "PDF 115",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "cronologia_fechas",
+   "titulo": "El éxodo en 1445 a.C. y su encaje histórico",
+   "contenido": "Una fecha del éxodo en 1445 a.C. exige 1405 como principio de la conquista (Nm 33:38; Dt 1:3; Jos 5:6). Según estas fechas, el éxodo ocurrió durante los reinados de los famosos gobernantes egipcios de la decimoctava dinastía (c. 1570-1325), lo que encaja bien con las incursiones habiru del período de Amarna y con la evidencia de la presencia de Israel en Palestina durante la decimonovena dinastía (1325-1200). Con la evidencia reciente de una ocupación sedentaria de Transjordania desde fines de la edad de Bronce Media (1550) hasta fines de la edad de Bronce Tardía (1250), ya no se sostiene la opinión de que la falta de ocupación de esa zona entre los siglos XVIII y XIII a.C. haga imposible fechar el éxodo en el siglo XV.",
+   "refs_biblicas": ["Nm 33:38", "Dt 1:3", "Jos 5:6"],
+   "pagina": "PDF 135",
+   "importancia": 1,
+   "postura": "El autor rechaza la objeción de que Transjordania estuvo deshabitada entre los siglos XVIII y XIII a.C., que haría imposible un éxodo en el siglo XV; la evidencia arqueológica reciente de ocupación sedentaria la hace insostenible."
+  }
+ ]
+}

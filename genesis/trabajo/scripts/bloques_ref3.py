@@ -24,6 +24,6 @@ def volcar(items,pref,MAX):
         idx.append({'id':f'{pref}_{i:03d}','archivo':'/home/user/trabajo/'+fn,'chars':len(t)})
 t1=sorted(sel['t1'],key=lambda x:(x['k'],x['pags'][0]))
 t2=sorted(sel['t2'],key=lambda x:(x['k'],x['pag']))
-volcar(t1,'r1',80000); volcar(t2,'r2',100000)
+volcar(t1,'r1',95000); volcar(t2,'r2',95000)
 json.dump(idx,open('segmentos/ref3/_indice.json','w'),indent=0)
 cc=collections.Counter(i['id'][:2] for i in idx); print(cc, sum(i['chars'] for i in idx))

@@ -1,0 +1,700 @@
+{
+ "bloque": "dbmh_08",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Hexateuco: unir Josué al Pentateuco",
+   "contenido": "El diccionario define Hexateuco como una colección de seis libros: un término inventado para incluir el libro de Josué y el Pentateuco en una unidad literaria, asumiendo que sus partes componentes fueron combinadas por un editor común. Génesis queda así dentro de esa propuesta de unidad con Josué. El autor solo define el término y no toma postura.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 565",
+   "importancia": 1
+  },
+  {
+   "ref": "1:26-27",
+   "tipo": "teologia_doctrina",
+   "titulo": "El hombre: creado por Dios a su imagen y distinto de los animales",
+   "contenido": "La doctrina del hombre es la enseñanza sobre los seres humanos en su relación con Dios y con su creación. Dios hizo la especie humana, primero al varón y después a la mujer (Gén 1—2), como una sola especie (Hch 17:26) distinta del mundo animal. Lo hizo en su imagen y apariencia (Gén 1:26, 27; Sal 8:5). El hombre se distingue de los animales por su conciencia moral, su conocimiento propio y su capacidad de comunión espiritual con su Creador. Esa capacidad ha sido seriamente limitada, mal encaminada y abusada por culpa del pecado.",
+   "cita": "Dios hizo al hombre en la imagen y apariencia de sí mismo",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 574",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Génesis 1—2",
+    "Hechos 17:26",
+    "Salmo 8:5"
+   ]
+  },
+  {
+   "ref": "1:26-27",
+   "tipo": "hebreo_palabra",
+   "titulo": "’adham e ’ish: los términos hebreos para «hombre»",
+   "contenido": "El diccionario da como términos hebreos para «hombre» ’adham y ’ish (griego anthropos), y los define como la especie humana y el miembro varonil.",
+   "hebreo": {
+    "palabra": "’adham, ’ish",
+    "transliteracion": "’adham, ’ish",
+    "significado": "la especie humana y el miembro varonil (gr. anthropos)"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 574",
+   "importancia": 1
+  },
+  {
+   "ref": "1:26-27",
+   "tipo": "teologia_doctrina",
+   "titulo": "Imagen de Dios: dos verdades fundamentales y qué incluye",
+   "contenido": "Dos verdades fundamentales que establecen las Escrituras sobre el hombre: que fue creado por Dios y que Dios lo hizo a su propia imagen. Los textos que cita son Gén 1:26, 27; 5:1, 3; 9:6; Salmo 8; Hch 17:22-31; 1 Cor 11:7; Ef 4:24; Col 3:10 y Stg 3:9. El autor aclara que las Escrituras no definen con precisión la naturaleza de la imagen de Dios en el hombre. Con todo, la imagen parece incluir personalidad, raciocinio, moralidad y espiritualidad, y todo esto es la base de su dominio sobre la tierra (Gén 1:27, 28).",
+   "cita": "Las Escrituras no definen precisamente la naturaleza de la imagen de Dios en el hombre.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 591",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Génesis 5:1, 3",
+    "Génesis 9:6",
+    "Salmo 8",
+    "Hechos 17:22-31",
+    "1 Corintios 11:7",
+    "Efesios 4:24",
+    "Colosenses 3:10",
+    "Santiago 3:9"
+   ]
+  },
+  {
+   "ref": "1:26-27",
+   "tipo": "explicacion_texto",
+   "titulo": "«Imagen» y «semejanza» en el AT: forma externa, copia exacta",
+   "contenido": "En el AT los términos imagen y semejanza usualmente se refieren a la forma externa y visible, una copia exacta; el autor da como ejemplos 1 Sam 6:5 y 2 Re 16:10. Luego añade que la imagen de Dios en el hombre parece incluir personalidad, raciocinio, moralidad y espiritualidad.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 591",
+   "importancia": 2,
+   "refs_biblicas": [
+    "1 Samuel 6:5",
+    "2 Reyes 16:10"
+   ]
+  },
+  {
+   "ref": "2:8",
+   "tipo": "conexion_biblica",
+   "titulo": "Edén: el paraíso plantado por Dios, perdido por el pecado y recuperado",
+   "contenido": "El diccionario presenta los huertos de los períodos idólatras (escenas de superstición y adoración de imágenes; Is 1:29; 65:3; 66:17) como la terrible contraparte del primitivo Edén. El nuevo paraíso recuperado por el pueblo de Dios (Ap 22:1-5) sugiere de forma más completa el antiguo paraíso plantado por Dios pero perdido por el pecado (Gén 2:8).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 580",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Apocalipsis 22:1-5",
+    "Isaías 1:29",
+    "Isaías 65:3",
+    "Isaías 66:17"
+   ]
+  },
+  {
+   "ref": "2:11-12",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Havila: el territorio por donde corría el río Pisón",
+   "contenido": "Entre los sentidos de Havila (heb. havilah, «terreno arenoso») el diccionario registra el territorio por donde corría el río Pisón desde una fuente en el jardín del Edén (Gén 2:11, 12). El mismo nombre designa además a dos personas de las genealogías de Génesis 10 (ver 10:7 y 10:29).",
+   "hebreo": {
+    "palabra": "havilah",
+    "transliteracion": "havilah",
+    "significado": "terreno arenoso"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 541",
+   "importancia": 2
+  },
+  {
+   "ref": "2:23",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hueso de mis huesos y carne de mi carne»: parentesco",
+   "contenido": "El diccionario explica que la frase «hueso de mis huesos y carne de mi carne» (Gén 2:23; 29:14) muestra en forma figurada parentesco.",
+   "cita": "muestra en forma figurada parentesco",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 580",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 29:14"
+   ]
+  },
+  {
+   "ref": "3",
+   "tipo": "teologia_doctrina",
+   "titulo": "Adán y Eva eligen desobedecer: pérdida de comunión y efectos en sus descendientes",
+   "contenido": "Adán y Eva, la primera pareja de seres humanos, eligieron por voluntad propia desobedecer el mandamiento divino, y eso resultó en la pérdida de la comunión con Dios. Esta desobediencia también afectó sus vidas y relaciones, y las de sus hijos y los hijos de sus hijos (Gén 3; Rom 6:12 ss.). El autor añade que los seres humanos dan evidencia de ser tanto creación especial de Dios como seres pecaminosos (el texto impreso cita aquí Gén 7:14-25).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 574",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 3",
+    "Romanos 6:12 ss."
+   ]
+  },
+  {
+   "ref": "5:1-3",
+   "tipo": "conexion_biblica",
+   "titulo": "Génesis 5:1, 3 entre los textos de la imagen de Dios",
+   "contenido": "Al tratar la imagen de Dios, el diccionario incluye Gén 5:1, 3 entre los pasajes que establecen que Dios hizo al hombre a su propia imagen, junto con Gén 1:26, 27; 9:6; Salmo 8; Hch 17:22-31; 1 Cor 11:7; Ef 4:24; Col 3:10 y Stg 3:9.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 591",
+   "importancia": 1
+  },
+  {
+   "ref": "9:6",
+   "tipo": "conexion_biblica",
+   "titulo": "Génesis 9:6 entre los textos de la imagen de Dios",
+   "contenido": "El diccionario incluye Gén 9:6 entre los pasajes que establecen que el hombre fue hecho a imagen de Dios (junto con 1:26, 27; 5:1, 3; Salmo 8; Hch 17:22-31; 1 Cor 11:7; Ef 4:24; Col 3:10; Stg 3:9). Recuerda que las Escrituras no definen con precisión la naturaleza de esa imagen.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 591",
+   "importancia": 1
+  },
+  {
+   "ref": "10",
+   "tipo": "contexto_historico",
+   "titulo": "Los heveos: descendientes cananeos de Cam",
+   "contenido": "Los heveos fueron una de las siete naciones de la tierra de Canaán que el Señor entregó en manos de Josué (Jos 24:11). Se nombran entre los descendientes cananeos de Cam, el hijo menor de Noé (Gén 10). Parecen haber estado en diversos lugares (Gén 34:2; Jos 9:1, 7; 11:3; 2 Cr 8:7). El autor indica que quizá hayan sido los mismos que los horeos.",
+   "postura": "El autor dice que quizá los heveos hayan sido los mismos que los horeos (planteado como posibilidad, sin afirmarlo).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 565",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Josué 24:11",
+    "Génesis 34:2",
+    "Josué 9:1, 7",
+    "Josué 11:3",
+    "2 Crónicas 8:7"
+   ]
+  },
+  {
+   "ref": "10:7",
+   "tipo": "personaje",
+   "titulo": "Havila, hijo de Cus (descendiente de Cam)",
+   "contenido": "Uno de los sentidos de Havila es el de un hijo de Cus, de los descendientes de Cam (Gén 10:7; 1 Cr 1:9).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 541",
+   "importancia": 1
+  },
+  {
+   "ref": "10:15",
+   "tipo": "personaje",
+   "titulo": "Het, bisnieto de Noé y progenitor de los heteos",
+   "contenido": "Het fue bisnieto de Noé por intermedio de Cam y Canaán (Gén 10:15) y progenitor de la famosa raza de los heteos (o hititas), a veces llamados «hijos e hijas de Het» (Gén 23:3; 27:46).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 564",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 23:3",
+    "Génesis 27:46",
+    "1 Crónicas 1:13"
+   ]
+  },
+  {
+   "ref": "10:15",
+   "tipo": "contexto_historico",
+   "titulo": "Los heteos (hititas): origen y lugar en Canaán",
+   "contenido": "Los primitivos heteos surgieron de Cam por intermedio de Het, el segundo hijo de Canaán (Gén 10:15; 1 Cr 1:13). Las Escrituras por lo general los nombran entre los pueblos de Canaán (Gén 15:20; Éx 3:8, 17; Dt 7:1; 20:17). Eran el pueblo de aquella tierra (Gén 23:7), especialmente en los montes centrales (Núm 13:29; Jos 11:3). Junto con los habitantes de la Mesopotamia y los egipcios (2 Re 7:6), fueron uno de los tres grandes poderes que Israel enfrentó en sus primeros años.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 565",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 15:20",
+    "Génesis 23:7",
+    "Números 13:29",
+    "Josué 11:3",
+    "2 Reyes 7:6"
+   ]
+  },
+  {
+   "ref": "10:15",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Arqueología de los heteos: respaldo al cuadro bíblico",
+   "contenido": "El cuadro bíblico del dominio heteo, que una vez se consideró poco fidedigno, fue respaldado por descubrimientos en Carquemis, sobre el Eufrates, en 1871, y luego por excavaciones en Khattusa (Boghaz-koy), en Turquía, en 1906-1907. Diez mil tablillas de esa antigua capital hetea confirmaron la descripción de Josué sobre toda la parte oeste de la Media Luna Fértil como tierra de los heteos (Jos 1:4).",
+   "cita": "El cuadro bíblico que se presenta del dominio heteo, una vez considerado no muy fidedigno, fue respaldado por descubrimientos en Carquemis sobre el Eufrates en 1871",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 564",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Josué 1:4"
+   ]
+  },
+  {
+   "ref": "10:24-25",
+   "tipo": "personaje",
+   "titulo": "Heber, padre de Peleg y Joctán",
+   "contenido": "Heber («asociado») aparece en la genealogía de Cristo (Lc 3:35) como padre de Peleg y Joctán; el diccionario dice que su nombre es propiamente Heber en la RVA y otras versiones (Gén 10:24, 25; 11:14-17).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 544",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Lucas 3:35",
+    "Génesis 11:14-17"
+   ]
+  },
+  {
+   "ref": "10:29",
+   "tipo": "personaje",
+   "titulo": "Havila, hijo de Joctán (descendiente de Sem)",
+   "contenido": "Otro sentido de Havila es el de un hijo de Joctán, descendiente de Sem (Gén 10:29; 1 Cr 1:23).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 541",
+   "importancia": 1
+  },
+  {
+   "ref": "11:27-28",
+   "tipo": "personaje",
+   "titulo": "Harán, hermano de Abram y padre de Lot",
+   "contenido": "Harán (heb. haran, «montañés») fue el hermano menor de Abram y padre de Lot, sobrino de Abram. Murió en Ur antes de que su padre Taré se llevara a su familia de esa ciudad (Gén 11:27, 28). No debe confundirse con la ciudad de Harán.",
+   "hebreo": {
+    "palabra": "haran",
+    "transliteracion": "haran",
+    "significado": "montañés"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 539",
+   "importancia": 2
+  },
+  {
+   "ref": "11:31",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Harán, ciudad del norte de Mesopotamia",
+   "contenido": "Harán es una ciudad del norte de la Mesopotamia adonde emigró Taré, padre de Abram, con su familia (Gén 11:31). Nacor, hermano de Abram, se quedó allí. Más adelante Abraham envió a su sirviente a buscar entre sus familiares una esposa para Isaac (Gén 24:4) y Jacob fue a la misma región, a pedido de su padre, en busca de esposa (Gén 29:4, 5). Harán y otras ciudades del área fueron conquistadas por Asiria (2 Re 19:12; Is 37:12) y tenía mucho comercio con Tiro (Ez 27:23).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 539",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 24:4",
+    "Génesis 29:4, 5",
+    "2 Reyes 19:12",
+    "Isaías 37:12",
+    "Ezequiel 27:23"
+   ]
+  },
+  {
+   "ref": "12:8",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Hai: ciudad al este de Betel donde Abraham puso su tienda",
+   "contenido": "Hai (heb. ’ay, «ruina») es una ciudad de Palestina central, al este de Betel, también llamada Ayat (Is 10:28) y Haía (Neh 11:31). Abraham puso su tienda entre Hai y Betel cuando llegó a Canaán (Gén 12:8). La ciudad figura con más prominencia en la conquista: fue la segunda ciudad cananea tomada por Josué e Israel (Jos 7—8); el primer ataque fracasó por el pecado de Acán, el segundo tuvo éxito y destruyó totalmente la ciudad y sus habitantes.",
+   "hebreo": {
+    "palabra": "’ay",
+    "transliteracion": "’ay",
+    "significado": "ruina"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 533",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Josué 7—8",
+    "Isaías 10:28",
+    "Nehemías 11:31"
+   ]
+  },
+  {
+   "ref": "12:10",
+   "tipo": "contexto_historico",
+   "titulo": "Hambre: causas, alcance y lectura bíblica (Abraham y José)",
+   "contenido": "Las escaseces (heb. ra’av; gr. limos) resultaban de la falta de lluvia en temporada, tormentas de piedra destructoras, lluvia fuera de temporada, destrucción de cultivos por langostas y gusanos, y el corte de suministros por un sitio (2 Re 6:25). Muchas veces eran seguidas por pestilencia y gran sufrimiento. Se registran escaseces de causas naturales en la época de Abraham (Gén 12:10) y de José (Gén 41:56), de los jueces (Rut 1:1), David, Acab y Elías, y Eliseo. A veces se dice que las hambres se envían como castigo (Lev 26:19, 20; Dt 28:49-51) y otras veces se usan como amenaza. La preservación en tiempo de hambre es una marca especial del favor y el poder de Dios (Job 5:20; Sal 33:19; 37:19).",
+   "hebreo": {
+    "palabra": "ra’av",
+    "transliteracion": "ra’av",
+    "significado": "hambre, escasez"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 535",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 41:56",
+    "Levítico 26:19, 20",
+    "Deuteronomio 28:49-51",
+    "Job 5:20",
+    "Salmo 33:19",
+    "Salmo 37:19"
+   ]
+  },
+  {
+   "ref": "13:18",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Hebrón: lugar de acampada de Abram y su historia posterior",
+   "contenido": "Hebrón, de gran interés histórico, fue uno de los lugares donde acampó Abram (Gén 13:18). Después, la ciudad y sus alrededores fueron dados a Caleb para que los conquistara (Jos 14:6-15; 15:14-19), y la ciudad misma se dio a los levitas de la familia de Coat, aunque los descendientes de Caleb retuvieron los campos y aldeas suburbanos. David reinó desde Hebrón siete años y medio sobre Judá, y allí los ancianos de Israel lo ungieron rey sobre todo Israel (2 Sam 5:3-5) antes de que cambiara la capital a Jerusalén. Absalón hizo de Hebrón su cuartel general cuando se rebeló (2 Sam 15:7-12).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 550",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Josué 14:6-15",
+    "Josué 15:14-19",
+    "2 Samuel 5:3-5",
+    "2 Samuel 15:7-12"
+   ]
+  },
+  {
+   "ref": "14:6",
+   "tipo": "contexto_historico",
+   "titulo": "Los horeos: habitantes primitivos de Seír, probablemente hurrianos",
+   "contenido": "Los horeos vivían en el monte Seír desde los tiempos de Abraham y fueron conquistados por Quedorlaomer y sus aliados (Gén 14:6). Eran los habitantes primitivos, hasta que los edomitas los desalojaron y se mezclaron con ellos por matrimonio (Gén 36:20-30; Dt 2:12, 22). Se cree que los heveos eran los mismos que los horeos, o fueron confundidos con ellos (Gén 34:2; Jos 9:7). Hoy se piensa en general que los horeos eran los hurrianos, de las regiones montañosas de Media, que antes de la segunda mitad del segundo milenio a. de J.C. se esparcieron desde Media hasta el Mediterráneo, formando el reino de Mitani o uniéndose a él; ese reino fue destruido después por los heteos.",
+   "cita": "Hoy en día, en general se piensa que los horeos eran los hurrianos, de las regiones montañosas de Media",
+   "postura": "Se cree que los heveos eran los mismos que los horeos (o fueron confundidos con ellos); hoy se piensa en general que los horeos eran los hurrianos.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 576",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 36:20-30",
+    "Deuteronomio 2:12, 22",
+    "Génesis 34:2",
+    "Josué 9:7"
+   ]
+  },
+  {
+   "ref": "18:6",
+   "tipo": "hebreo_palabra",
+   "titulo": "qemah: harina (Gén 18:6)",
+   "contenido": "El diccionario registra para «harina» el hebreo qemah en Gén 18:6 (soleth en Lev 2:1; gr. aleuron en Mt 13:33), y la define como el grano utilizado tanto para comer como (la frase queda cortada en el texto disponible).",
+   "hebreo": {
+    "palabra": "qemah",
+    "transliteracion": "qemah",
+    "significado": "harina"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 539",
+   "importancia": 1
+  },
+  {
+   "ref": "20:12",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Hermana» (’ahoth): los usos de la palabra en el AT",
+   "contenido": "En el AT, ’ahoth («hermana») se usa de mujeres que tienen los mismos padres, de las que tienen un solo padre en común, de una familiar femenina o de una mujer del mismo país. El autor cita Gén 20:12, Núm 25:18, Lev 18:18 y Job 42:11 como ejemplos de la variedad de usos. En el NT se usa sobre todo para muchachas de la misma familia o parientes de sangre, y también en sentido figurado.",
+   "hebreo": {
+    "palabra": "’ahoth",
+    "transliteracion": "’ahoth",
+    "significado": "hermana (misma madre y padre, un solo padre en común, familiar femenina o mujer del mismo país)"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 555",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Números 25:18",
+    "Levítico 18:18",
+    "Job 42:11"
+   ]
+  },
+  {
+   "ref": "21:14",
+   "tipo": "cultura_costumbres",
+   "titulo": "Cántaros sobre el hombro: las mujeres iban al pozo",
+   "contenido": "En casi todo el Oriente, las criadas iban a los pozos a sacar agua cargando grandes cántaros sobre sus hombros (heb. shekkem, «hombro»; Gén 21:14). Aun las doncellas que no eran criadas cargaban agua de esta manera (Gén 24:15).",
+   "cita": "En casi todo el Oriente, las criadas iban a los pozos a extraer agua, cargando sobre sus hombros",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 575",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 24:15"
+   ]
+  },
+  {
+   "ref": "23:3-20",
+   "tipo": "cronologia_fechas",
+   "titulo": "Abraham compra Macpela a los heteos, en 2029 a. de J.C.",
+   "contenido": "Según el diccionario, en Hebrón, en 2029 a. de J.C., Abraham compró de los heteos el campo de Macpela (Gén 23:3-20; 49:29-32; 50:13). Los heteos eran entonces el pueblo de aquella tierra (Gén 23:7).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 565",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 49:29-32",
+    "Génesis 50:13",
+    "Génesis 23:7"
+   ]
+  },
+  {
+   "ref": "23:17-20",
+   "tipo": "explicacion_texto",
+   "titulo": "Macpela: la única tierra que poseyó Abraham",
+   "contenido": "La única tierra que poseyó Abraham, aunque Dios le había prometido todo Canaán (Gén 15:18-21), fue el campo de Macpela, cerca de Mamre, que compró a los heteos para sepultar a Sara (Gén 23:17-20; cf. Heb 11:8-10).",
+   "cita": "La única tierra que poseyó Abraham, aun cuando Dios le había prometido todo Canaán",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 550",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 15:18-21",
+    "Hebreos 11:8-10"
+   ]
+  },
+  {
+   "ref": "23:17-20",
+   "tipo": "arqueologia_geografia",
+   "titulo": "La mezquita de Hebrón sobre la cueva de Macpela",
+   "contenido": "El pie de foto del diccionario indica que, en la vista general de Hebrón, la mezquita del centro está edificada sobre la cueva de Macpela, lugar tradicional de sepultura de Abraham y Sara.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 550",
+   "importancia": 1
+  },
+  {
+   "ref": "23:17",
+   "tipo": "cultura_costumbres",
+   "titulo": "Los huertos como lugares de entierro",
+   "contenido": "Los hebreos usaban los huertos como lugares de entierro (Gén 23:17; 2 Re 21:18, 26).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 580",
+   "importancia": 1,
+   "refs_biblicas": [
+    "2 Reyes 21:18, 26"
+   ]
+  },
+  {
+   "ref": "24:4",
+   "tipo": "conexion_biblica",
+   "titulo": "Abraham envía a su siervo a Harán en busca de esposa para Isaac",
+   "contenido": "Con el tiempo Abraham envió a Harán a su sirviente para que buscara entre sus familiares una esposa para su hijo Isaac (Gén 24:4); Nacor, hermano de Abram, se había quedado allí.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 539",
+   "importancia": 1
+  },
+  {
+   "ref": "24:15",
+   "tipo": "cultura_costumbres",
+   "titulo": "Las doncellas también cargaban agua sobre el hombro",
+   "contenido": "El diccionario señala que aun las doncellas que no eran criadas cargaban agua sobre el hombro, como las criadas que iban a los pozos (Gén 24:15; cf. 21:14).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 575",
+   "importancia": 1
+  },
+  {
+   "ref": "25:4",
+   "tipo": "personaje",
+   "titulo": "Hanoc, nieto de Abraham y Quetura por Madián",
+   "contenido": "Hanoc fue uno de los nietos de Abraham y Quetura por intermedio de su hijo Madián (Gén 25:4; 1 Cr 1:33).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 538",
+   "importancia": 1
+  },
+  {
+   "ref": "25:15",
+   "tipo": "personaje",
+   "titulo": "Hadad, nieto de Abraham por Ismael",
+   "contenido": "Hadad (agudeza, fiereza) fue uno de los nietos de Abraham por intermedio de Ismael (Gén 25:15; 1 Cr 1:30).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 531",
+   "importancia": 1
+  },
+  {
+   "ref": "26:34",
+   "tipo": "cronologia_fechas",
+   "titulo": "Esaú se casa con mujeres heteas, amargura para Rebeca",
+   "contenido": "Según el diccionario, 60 años después de la compra de Macpela (fechada en 2029 a. de J.C.), Esaú se casó con mujeres heteas (Gén 26:34; 36:2), lo cual fue amargura para Rebeca (Gén 27:46).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 565",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 36:2",
+    "Génesis 27:46"
+   ]
+  },
+  {
+   "ref": "27:6",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hermano»: los sentidos de la palabra",
+   "contenido": "El diccionario enumera los sentidos de «hermano»: (1) varón con el mismo padre y madre (Gén 27:6), el mismo padre (Gén 28:2) o la misma madre (Jue 8:19); (2) hombre del mismo país; (3) miembro de la misma tribu; (4) aliado; (5) pariente (Núm 20:14); (6) quien comparte la misma religión; (7) compañero de oficio; (8) alguien de igual rango u oficio; (9) cualquier miembro de la raza humana (Mt 7:3-5; Heb 2:17).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 555",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 28:2",
+    "Jueces 8:19",
+    "Números 20:14"
+   ]
+  },
+  {
+   "ref": "29:4-5",
+   "tipo": "conexion_biblica",
+   "titulo": "Jacob llega a la región de Harán buscando esposa",
+   "contenido": "Jacob vino a la región de Harán en busca de esposa, a petición de su padre (Gén 29:4, 5), la misma ciudad del norte de Mesopotamia adonde había emigrado Taré (Gén 11:31).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 539",
+   "importancia": 1
+  },
+  {
+   "ref": "29:14",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hueso mío y carne mía» (Labán a Jacob): parentesco",
+   "contenido": "El diccionario cita Gén 29:14 junto con 2:23 como ejemplo de la frase «hueso de mis huesos y carne de mi carne», que muestra figuradamente parentesco.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 580",
+   "importancia": 1
+  },
+  {
+   "ref": "34:1",
+   "tipo": "personaje",
+   "titulo": "Hamor, padre de Siquem",
+   "contenido": "Hamor (heb. hamor, «un asno») fue el padre de Siquem, el que asaltó criminalmente a Dina, hija de Jacob. Como resultado, padre e hijo fueron asesinados en venganza por Simeón y Leví, hermanos de Dina (Gén 34:1-31).",
+   "hebreo": {
+    "palabra": "hamor",
+    "transliteracion": "hamor",
+    "significado": "un asno"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 535",
+   "importancia": 2
+  },
+  {
+   "ref": "34:21",
+   "tipo": "contexto_historico",
+   "titulo": "Los heveos de Siquem: gente pacífica y comerciante, de moralidad cananea",
+   "contenido": "Los heveos parecen haber sido gente pacífica y comerciante (Gén 34:21), aunque de moralidad cananea. Se los ubica en diversos lugares, entre ellos Gén 34:2.",
+   "cita": "gente pacífica y comerciante",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 565",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 34:2"
+   ]
+  },
+  {
+   "ref": "36:20-30",
+   "tipo": "contexto_historico",
+   "titulo": "Los horeos y los edomitas: desalojo y matrimonios mixtos",
+   "contenido": "Los horeos fueron los habitantes primitivos de Seír, desalojados luego por los edomitas, que se mezclaron con ellos por matrimonio (Gén 36:20-30; Dt 2:12, 22). Esaú se casó con la hija de uno de los caciques, llamado también heveo (Gén 36:2); se cree que heveos y horeos eran el mismo pueblo o se confundieron (Gén 34:2; Jos 9:7).",
+   "postura": "Se cree que heveos y horeos eran los mismos, o que se confundieron.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 576",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 36:2",
+    "Deuteronomio 2:12, 22"
+   ]
+  },
+  {
+   "ref": "36:22",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Homam / Hemam: nieto de Seír y variante del nombre",
+   "contenido": "Homam fue nieto de Seír (1 Cr 1:39), y Gén 36:22 tiene la forma Hemam (RVA, RVR-1960, DHH, BA; el diccionario remite a una nota en BA).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 574",
+   "importancia": 1
+  },
+  {
+   "ref": "36:35",
+   "tipo": "personaje",
+   "titulo": "Hadad, rey de Edom que derrotó a Madián en el campo de Moab",
+   "contenido": "Uno de los Hadad del diccionario fue uno de los primeros reyes de Edom, quien derrotó a Madián en el campo de Moab (Gén 36:35; 1 Cr 1:46). El diccionario menciona aparte a otro rey de Edom con ese nombre, cuya capital era Pau o Pai (1 Cr 1:50).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 531",
+   "importancia": 1
+  },
+  {
+   "ref": "36:39",
+   "tipo": "personaje",
+   "titulo": "Hadad, último de los reyes de Edom",
+   "contenido": "El diccionario identifica a un Hadad como el último de los reyes de Edom (Gén 36:39).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 531",
+   "importancia": 1
+  },
+  {
+   "ref": "40:15",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hebreo» como autodesignación ante los no judíos",
+   "contenido": "Los israelitas se identificaban como «hebreos» al hablar a los no judíos (Gén 40:15; Éx 10:3; Jon 1:9), mientras que entre ellos usaban Israel o hijos de Israel.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 544",
+   "importancia": 1
+  },
+  {
+   "ref": "41:56",
+   "tipo": "contexto_historico",
+   "titulo": "El hambre de los días de José: causas naturales",
+   "contenido": "El diccionario cuenta el hambre de la época de José (Gén 41:56) entre las escaseces causadas por factores naturales (sequía, lluvias fuera de tiempo, plagas, etc.), junto con la de Abraham (Gén 12:10).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 535",
+   "importancia": 1
+  },
+  {
+   "ref": "43:32",
+   "tipo": "cultura_costumbres",
+   "titulo": "«Hebreos» frente a otras naciones (Gén 43:32)",
+   "contenido": "El término «hebreos» aparece marcando contrastes entre los israelitas y la gente de otras naciones (Gén 43:32; Éx 1:15; 2:11; 1 Sam 13:3; 14:21). Fue una designación que dieron otras razas a Abraham y sus descendientes.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 544",
+   "importancia": 1
+  },
+  {
+   "ref": "46:9",
+   "tipo": "personaje",
+   "titulo": "Hanoc, primogénito de Rubén",
+   "contenido": "Hanoc (heb. hanokh, «iniciación») fue el hijo mayor de Rubén (Gén 46:9; Éx 6:14; 1 Cr 5:3) y jefe de la familia de los enoquitas. El diccionario menciona también a Hesrón como hijo de Rubén (46:9).",
+   "hebreo": {
+    "palabra": "hanokh",
+    "transliteracion": "hanokh",
+    "significado": "iniciación"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 538",
+   "importancia": 1
+  },
+  {
+   "ref": "46:9",
+   "tipo": "personaje",
+   "titulo": "Hesrón, hijo de Rubén",
+   "contenido": "Hesrón («cercamiento o encerramiento») fue un hijo de Rubén (Gén 46:9), distinto del nieto de Judá por Fares (Gén 46:12) y del lugar en la frontera sur de Judá.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 564",
+   "importancia": 1
+  },
+  {
+   "ref": "46:12",
+   "tipo": "personaje",
+   "titulo": "Hesrón, nieto de Judá por Fares",
+   "contenido": "Hesrón fue un nieto de Judá por intermedio de Fares (Gén 46:12).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 564",
+   "importancia": 1
+  },
+  {
+   "ref": "46:16",
+   "tipo": "personaje",
+   "titulo": "Hagui, hijo de Gad y nieto de Jacob",
+   "contenido": "Hagui («festivo») fue uno de los hijos de Gad y nieto de Jacob (Gén 46:16), patriarca de los haguitas (Núm 26:15).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 533",
+   "importancia": 1
+  },
+  {
+   "ref": "46:17",
+   "tipo": "personaje",
+   "titulo": "Heber, bisnieto de Jacob por Aser y Bería",
+   "contenido": "Heber («asociado») fue un bisnieto de Jacob por intermedio de Aser y Bería (Gén 46:17).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 544",
+   "importancia": 1
+  },
+  {
+   "ref": "49:29-32",
+   "tipo": "contexto_historico",
+   "titulo": "La cueva de Macpela: sepultura de los patriarcas",
+   "contenido": "En la cueva de Macpela, cerca de Hebrón, fueron enterrados Sara y Abraham, luego Isaac y Rebeca, y después Jacob y Lea. El diccionario cita Gén 49:29-32 y 50:13 en relación con la compra del campo a los heteos.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 550",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 50:13"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hebreo» y «hebreos»: quiénes son",
+   "contenido": "Hebreo(s) son designaciones tradicionalmente asignadas a Abraham y sus descendientes, especialmente por Jacob; equivalen a israelita(s). En 1 Sam 14:21 parece sugerirse que son sinónimos. Los judíos usaron casi siempre Israel e hijos de Israel (luego judíos), por sus asociaciones religiosas y nacionalistas; otras razas los llamaron hebreos (Éx 1:16; 2:6) y así se identificaban ellos ante los no judíos (Gén 40:15; Éx 10:3; Jon 1:9). El término marca contrastes con otras naciones (Gén 43:32; Éx 1:15; 2:11; 1 Sam 13:3; 14:21). En el NT, «hebreos» contrasta con lo griego y helenista, tanto en la gente (Hch 6:1) como en el idioma (Jn 5:2; 19:13, 17, 20; 20:16).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 544",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 40:15",
+    "Génesis 43:32",
+    "Éxodo 1:16",
+    "1 Samuel 14:21",
+    "Hechos 6:1"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hijo» (ben): descendencia, genealogías y filiación directa",
+   "contenido": "En hebreo ben («hijo») expresa genéticamente cualquier descendencia humana sin hacer caso del sexo (Gén 3:16). En los registros genealógicos «hijo» muchas veces es un término general para descendientes (Dan 5:22). Muchas veces designa a una persona, normalmente un varón, que es hijo directo de un padre dado (Gén 9:19; 16:15).",
+   "hebreo": {
+    "palabra": "ben",
+    "transliteracion": "ben",
+    "significado": "hijo"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 567",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 3:16",
+    "Génesis 9:19",
+    "Génesis 16:15",
+    "Daniel 5:22"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hija»: usos de la palabra en la Biblia",
+   "contenido": "«Hija» tiene varios usos en la Biblia y se aplicaba a personas y objetos, a veces sin relación con parentesco ni sexo: (1) hija mujer (Gén 6:1; 20:12; 24:23); (2) cualquier descendiente mujer, sin importar la distancia (Gén 34:13-17); (3) las mujeres en general (Gén 28:6; Núm 25:1); (4) progenie; (5) los que adoraban al verdadero Dios; (6) «hijas del canto», los medios físicos de producir música; (7) ciudad; (8) ciudadanos.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 567",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 6:1",
+    "Génesis 20:12",
+    "Génesis 24:23",
+    "Génesis 34:13-17",
+    "Génesis 28:6"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Cristo, el postrer Adán, restaura lo que el pecado dañó",
+   "contenido": "El eterno Hijo de Dios fue hecho hombre para proveer salvación del pecado y una nueva y permanente relación con Dios (el texto impreso cita Gén 5:12 ss.). A Jesucristo se le llama el postrer Adán (1 Cor 15:45). En Cristo, los seres humanos son restaurados a su relación correcta con su Creador y con su creación (Col 1:15-20). De creyentes y no creyentes Dios espera que actúen con responsabilidad, y cada persona será juzgada en el juicio final (Rom 2:16).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 574",
+   "importancia": 2,
+   "refs_biblicas": [
+    "1 Corintios 15:45",
+    "Colosenses 1:15-20",
+    "Romanos 2:16"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "contexto_historico",
+   "titulo": "Los heteos después de Génesis: matrimonios mixtos y corrupción de Israel",
+   "contenido": "Egipto cubrió el territorio hasta el Eufrates a principios del siglo XV y, al retirarse, los hebreos bajo Josué se sobrepusieron a los heteos palestinos (1406-1400; Jos 9:1; 11:3). Después las uniones con heteos se volvieron comunes (Jue 3:5, 6), a pesar de la prohibición mosaica (Dt 20:17), y esos matrimonios continuaron de Salomón a Esdras (1 Re 11:1; Esd 9:1). Por eso Ezequiel condenó su raza y moralidad: «Tu padre fue un amorreo y tu madre una hetea» (Ez 16:3, 45). Toi de Hamat apoyó a David (c. 1000 a. de J.C.), varios guerreros de David eran heteos, Salomón sometió a los heteos palestinos a trabajo tributario y Carquemis cayó ante Asiria en 717 a. de J.C. El autor afirma que, por su diosa madre de la fertilidad, los heteos corrompieron a Israel (Ez 16:44, 45).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 565",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Josué 9:1",
+    "Josué 11:3",
+    "Jueces 3:5, 6",
+    "Deuteronomio 20:17",
+    "Ezequiel 16:3, 45"
+   ]
+  }
+ ],
+ "problemas": "1) El archivo no trae marcas [Page N]; el campo \"pagina\" usa solo el rótulo del encabezado (PÁGINA PDF 531 a 591). 2) Las páginas no son contiguas (por ejemplo 531, 533, 535, 538...), así que varias entradas llegan cortadas. Quedaron truncadas y sin poder completarse: Hamurabi (cortada al final de la pág. 535; no cita Génesis, no se extrajo), Harina (se corta en «comer como»), Havila inciso 4 («uno de los límites del...»), Hebrón (falta el comienzo de la entrada), Huerto (falta el comienzo) y Heteos (continúa entre 564 y 565). 3) Corregí errores de OCR sin cambiar el sentido: «19061907» pasó a 1906-1907, y arreglé guiones de corte de línea («tan-to», «cre-yentes», «apa-rece»). 4) Algunas citas bíblicas de la entrada «Hombre» están impresas con referencias que no parecen corresponder (Gén 7:14-25 y Gén 5:12 ss.). Las dejé tal como figuran e indiqué que son del texto impreso. 5) El texto fuente no trae letras hebreas, solo transliteraciones; en \"hebreo.palabra\" repetí la transliteración del autor. 6) En «Hermana» y «Hermano» las citas se listan sin indicar claramente a qué sentido corresponde cada una, así que no las asigné una por una. 7) Se ignoraron las entradas ajenas a Génesis (Hacmoni, Hagiografa, Hagrienos, Haguit, Hananeel, Hauran, Heres, Hermanos del Señor, Hora, Horca, Horeb, Hulda, Ilirico, entre otras) y los datos editoriales y de crédito de las fotos."
+}

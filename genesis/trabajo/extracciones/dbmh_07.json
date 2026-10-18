@@ -1,0 +1,796 @@
+{
+ "bloque": "dbmh_07",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "hebreo_palabra",
+   "titulo": "Nombre del libro: bereshith y Génesis",
+   "contenido": "En la tradición judía el libro recibe su nombre de la primera palabra, bereshith (en el principio). El nombre Génesis, que significa principio, se deriva de la LXX y también se halla en la traducción latina (Liber Genesis). Mucho del libro trata de los orígenes.",
+   "hebreo": {
+    "palabra": "bereshith",
+    "transliteracion": "bereshith",
+    "significado": "en el principio"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 512",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Autoría tradicional mosaica de Génesis",
+   "contenido": "La tradición atribuye el libro a Moisés. El autor observa que muchos de los relatos históricos de Génesis predatan a Moisés por grandes extensiones de tiempo, y que no hay ninguna razón por la cual Moisés no podría haber dispuesto estos relatos antiguos en la estructura literaria del libro.",
+   "postura": "El autor acepta la atribución tradicional a Moisés entendiéndola como la disposición, en la estructura literaria del libro, de relatos antiguos mucho más viejos que él.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 512",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Génesis en tres partes",
+   "contenido": "Génesis se puede dividir aproximadamente en tres partes: (1) la creación hasta la muerte de Taré, padre de Abraham (caps. 1—11); (2) una historia de los patriarcas Abraham, Isaac y Jacob (12—36); y (3) el relato de José (37—50). La primera sección comienza con el relato de la creación y registra la caída de la raza humana, el diluvio y la torre de Babel.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 512",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "Génesis prepara el trasfondo de Éxodo",
+   "contenido": "Jacob y sus hijos llegan a Egipto como resultado de una escasez general; entonces José se reunió con su familia y la estableció en la tierra de Egipto. Las narraciones acerca de José proveen el trasfondo histórico para el libro de Éxodo, que registra la esclavitud de los israelitas en Egipto y su posterior éxodo. Estas narraciones también señalan el período de esclavitud egipcia mencionado en el pacto abrahámico.",
+   "refs_biblicas": [
+    "Génesis 47:11-12",
+    "Génesis 15:13-14"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 512",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "teologia_doctrina",
+   "titulo": "Genealogía: qué es y para qué se compila",
+   "contenido": "Genealogía (heb. yachas; gr. genea-logía) es una lista de antepasados o descendientes, la descendencia de un antepasado o el estudio de las líneas de descendencia. Se compilan para mostrar la descendencia biológica, el derecho de herencia, la sucesión a un puesto, o relaciones etnológicas o geográficas. En el AT Dios estaba reuniendo a un pueblo escogido dedicado a preservar su revelación hasta que mandara a su Hijo. El NT muestra mucho menos interés en las genealogías que el AT.",
+   "hebreo": {
+    "palabra": "yachas",
+    "transliteracion": "yachas",
+    "significado": "genealogía (lista de antepasados o descendientes)"
+   },
+   "cita": "En el AT Dios estaba reuniendo a un pueblo escogido dedicado a preservar su revelación hasta que mandara a su Hijo, quien llamaría un nuevo pueblo, unido no por descendencia genealógica sino por un nacimiento nuevo y espiritual.",
+   "refs_biblicas": [
+    "1 Crónicas 4:33",
+    "1 Timoteo 1:4",
+    "Tito 3:9"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 510",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "cristo_en_genesis",
+   "titulo": "La genealogía de Lucas llega hasta Adán",
+   "contenido": "La genealogía de Lucas 3 incluye los antepasados de Jesús hasta Adán. El autor contrasta el pueblo del AT, reunido por descendencia genealógica para preservar la revelación, con el nuevo pueblo que Cristo llamaría, unido por un nacimiento nuevo y espiritual y no por descendencia.",
+   "refs_biblicas": [
+    "Lucas 3:23-38",
+    "Mateo 1:1-17"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 510",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "Faraón: significado del título y dinastías de Egipto",
+   "contenido": "Faraón era el gobierno de Egipto y, por consiguiente, el monarca supremo, investido de todos sus poderes. Era conocido como gran casa en idioma egipcio, de donde proviene el término faraón. Los reyes de Egipto, en 26 dinastías distintas, comenzaron con Menes en 3400 a. de J.C. y terminaron con Psametik III, destronado cuando los persas conquistaron Egipto en 525. (El artículo continúa más allá de este segmento.)",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 475",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "La mujer bajo la autoridad protectora de un pariente varón; levirato",
+   "contenido": "A lo largo de la vida la mujer estaba sujeta a la autoridad protectora de un pariente varón: como hija, la del padre; como esposa, la del marido. Si enviudaba, el pariente varón más cercano se convertía en su protector y, bajo las provisiones matrimoniales del levirato, en su redentor. (Fragmento de un artículo sobre la familia cuyo comienzo no está en este segmento.)",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "Matrimonio como alianza entre familias; disciplina del padre",
+   "contenido": "Con frecuencia no se consultaba ni a los varones ni a las mujeres cuando se les escogían los compañeros de matrimonio. El matrimonio muchas veces era una alianza o un contrato entre familias y se consideraba que los deseos del individuo no eran dignos de consideración. Aunque se los amaba y valoraba, no se consentía a los hijos; como responsable de la disciplina de la familia, el padre no perdonaba la vara. En la época postexílica la educación más formal del hijo varón se llevaba a cabo en la sinagoga.",
+   "refs_biblicas": [
+    "Proverbios 13:24",
+    "Proverbios 22:15",
+    "Proverbios 29:15-17"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 475",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "Autoridad del padre limitada por la ley mosaica",
+   "contenido": "Con el advenimiento de la ley mosaica el padre ya no podía matar a sus hijos sin referir el caso a las autoridades: los ancianos atendían acusaciones de desobediencia, glotonería y borrachera, castigables con apedreamiento si los acusados eran hallados culpables. Los hijos ya no podían ser considerados responsables por las ofensas de sus padres. Para la época del rey David existía el derecho de apelación final al monarca. Esto contrasta con la situación patriarcal descrita en el mismo artículo.",
+   "refs_biblicas": [
+    "Deuteronomio 21:20-21",
+    "Deuteronomio 24:16",
+    "2 Samuel 14:4-11"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 475",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "Posición de la esposa: opinión respetada y mejora en época persa",
+   "contenido": "En muchas familias se buscaba la opinión de la esposa para tomar decisiones y se respetaban sus ideas. Para la época persa la posición de la esposa mostraba señales marcadas de mejoramiento: tenía su propia posición en los juegos, los teatros y los festivales religiosos, y a veces administraba propiedades y negocios.",
+   "refs_biblicas": [
+    "Proverbios 31:16, 18, 24",
+    "Hechos 16:14"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "teologia_doctrina",
+   "titulo": "Imágenes familiares para la relación de Dios con su pueblo",
+   "contenido": "En el AT la relación entre Dios e Israel se expresa en términos familiares como esposa, hija, hijos o desposorio. El NT usa imágenes matrimoniales para describir la relación entre Cristo y la iglesia, y se refiere a la iglesia como la casa o familia de Dios.",
+   "refs_biblicas": [
+    "Jeremías 3:20",
+    "Oseas 2:19",
+    "2 Corintios 11:2",
+    "Efesios 5:25-33",
+    "Apocalipsis 19:7",
+    "Gálatas 6:10",
+    "Efesios 2:19",
+    "1 Pedro 4:17"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 475",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "teologia_doctrina",
+   "titulo": "El fuego en la Escritura: juicio, aceptación, prueba y gloria",
+   "contenido": "La palabra fuego se usa por primera vez en las Escrituras en Génesis 19:24. Después, Dios envió fuego del cielo para consumir la primera ofrenda aarónica en señal de aceptación, y ese fuego debía mantenerse constantemente; el fuego extraño de Nadab y Abiú trajo juicio. El destino final de los enemigos de Dios es el lago de fuego y algún día este mundo será consumido por fuego. Dios usa el fuego no solo para el juicio sino también para la prueba; la gloria de Dios está acompañada por fuego, y se usa el fuego para refinar el oro y para limpiarnos.",
+   "refs_biblicas": [
+    "Levítico 9:24",
+    "Levítico 6:9",
+    "Levítico 10:1",
+    "Apocalipsis 20:14",
+    "2 Pedro 3:7-12",
+    "1 Corintios 3:12-15",
+    "Ezequiel 1:27",
+    "Malaquías 3:2"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 496",
+   "importancia": 1
+  },
+  {
+   "ref": "1:28",
+   "tipo": "cultura_costumbres",
+   "titulo": "Deber primario de la esposa: tener hijos y organizar la casa",
+   "contenido": "Aparte del deber primario de tener hijos (Génesis 1:28; 9:1), la responsabilidad principal de la esposa era la organización de la casa: alimento, ropa y animales domésticos.",
+   "refs_biblicas": [
+    "Génesis 9:1"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 2
+  },
+  {
+   "ref": "2:8-14",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Guijón, uno de los cuatro ríos del Edén",
+   "contenido": "Guijón (heb. gihon, irrumpir) es el nombre de uno de los cuatro ríos del Edén. El nombre indica que surgía o de un manantial grande o de una catarata. Ya que rodea toda la tierra de Cus, se piensa que es el Nilo, aunque es posible que sea un pequeño arroyo en la región del Tigris y del Eufrates. (El artículo registra aparte otro Guijón, un manantial famoso cerca de Jerusalén.)",
+   "hebreo": {
+    "palabra": "gihon",
+    "transliteracion": "gihon",
+    "significado": "irrumpir"
+   },
+   "postura": "Menciona primero la identificación con el Nilo (por rodear toda la tierra de Cus) y deja abierta como posible la de un pequeño arroyo en la región del Tigris y el Eufrates; no se decide de forma categórica.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 528",
+   "importancia": 2
+  },
+  {
+   "ref": "2:23",
+   "tipo": "hebreo_palabra",
+   "titulo": "Eva (hawwah) e ishshah / ish",
+   "contenido": "Eva (heb. hawwah, vida, viviente) es la primera mujer, formada por Dios de la costilla de Adán. Adán la designó mujer (heb. ishshah) porque fue tomada del hombre (heb. ish).",
+   "hebreo": {
+    "palabra": "hawwah",
+    "transliteracion": "hawwah",
+    "significado": "vida, viviente"
+   },
+   "refs_biblicas": [
+    "Génesis 2:23"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 455",
+   "importancia": 3
+  },
+  {
+   "ref": "2:24",
+   "tipo": "teologia_doctrina",
+   "titulo": "La creación de Eva y la inseparabilidad del matrimonio",
+   "contenido": "La forma en que se creó a Eva y la designación de mujer enfatizan la intimidad, la santidad y la inseparabilidad del estado matrimonial, que trasciende aun la relación entre padres e hijos.",
+   "cita": "La forma en que se creó a Eva y la designación de mujer también enfatizan la intimidad, la santidad y la inseparabilidad del estado matrimonial, que trasciende aun la relación entre padres e hijos",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 455",
+   "importancia": 3
+  },
+  {
+   "ref": "3",
+   "tipo": "personaje",
+   "titulo": "El papel de Eva en Génesis 3",
+   "contenido": "Aunque las Escrituras uniformemente llevan el rastreo de la caída de la raza hasta el pecado de Adán, Génesis 3 pinta un cuadro vivo del papel desempeñado por Eva. Su mayor debilidad y susceptibilidad a la tentación aparecen junto con la acción deliberada de desobediencia de Adán. Engañada por Satanás, ella comió del fruto. Enamorado de su esposa, Adán eligió dejar a Dios por la que él le había dado.",
+   "cita": "Enamorado de su esposa, Adán eligió dejar a Dios por la que él le había dado",
+   "refs_biblicas": [
+    "2 Corintios 11:3",
+    "1 Timoteo 2:13"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 455",
+   "importancia": 3
+  },
+  {
+   "ref": "4:1-22",
+   "tipo": "explicacion_texto",
+   "titulo": "La primera genealogía: los oficios y la cultura naciente",
+   "contenido": "La primera genealogía bíblica (Génesis 4:1, 2, 17-22), con su énfasis en los oficios, muestra el surgimiento de nuevas características en la cultura.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 510",
+   "importancia": 2
+  },
+  {
+   "ref": "4:22",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Tubalcaín, padre de los herreros antes del diluvio",
+   "contenido": "Antes del diluvio, Tubalcaín (Génesis 4:22) fue el padre de los herreros. El artículo lo menciona en la entrada Fuego, al repasar los usos del fuego en la Escritura.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 496",
+   "importancia": 1
+  },
+  {
+   "ref": "5:1-32",
+   "tipo": "cronologia_fechas",
+   "titulo": "Genealogías que abarcan largos períodos de la historia bíblica",
+   "contenido": "Algunas genealogías abarcan largos períodos de la historia bíblica: Génesis 5:1-32 y 11:10-22, 1 Crónicas 1—9, Mateo 1:1-17 y Lucas 3:23-38.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 510",
+   "importancia": 2
+  },
+  {
+   "ref": "7:11",
+   "tipo": "explicacion_texto",
+   "titulo": "Las fuentes del grande abismo y el diluvio",
+   "contenido": "El rompimiento de todas las fuentes del grande abismo (Génesis 7:11), junto con la lluvia, causó el diluvio. Fuente es un manantial de agua que surge del suelo.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 497",
+   "importancia": 2
+  },
+  {
+   "ref": "9:1",
+   "tipo": "conexion_biblica",
+   "titulo": "Tener hijos como deber de la esposa (referencia cruzada)",
+   "contenido": "El artículo sobre la familia cita Génesis 9:1, junto con 1:28, como base del deber primario de la esposa de tener hijos.",
+   "refs_biblicas": [
+    "Génesis 1:28"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 1
+  },
+  {
+   "ref": "10:6",
+   "tipo": "personaje",
+   "titulo": "Fut, tercer hijo de Cam, y la dificultad de ubicarlo",
+   "contenido": "Fut es el tercer hijo de Cam (Génesis 10:6; 1 Crónicas 1:8) y sus descendientes no se mencionan. Una comparación de traducciones del hebreo fut revela la dificultad de localizarlo: el problema es en parte textual (confusión entre Fut, Put y Pul; entre Lidia y Libia), en parte etimológico (si la palabra es de origen egipcio) y en parte implicado en la ubicación de los territorios con que se asocia. Algunos lo ubican al oeste de Egipto, en la costa norte de África; algunos en Nubia; otros al este de Somaliland, a ambos lados del mar Rojo, tanto en África como en Asia. Génesis 10:6 lo menciona entre dos territorios africanos, Cus (Etiopía) y Mizraim (Egipto), y el Canaán asiático, lo que sugiere la ambigüedad, y ninguna otra referencia la puede suprimir.",
+   "postura": "Presenta las distintas ubicaciones propuestas sin decidirse por ninguna; concluye que Génesis 10:6 sugiere la ambigüedad y que ninguna otra referencia la puede suprimir.",
+   "refs_biblicas": [
+    "Isaías 66:19",
+    "Jeremías 46:9",
+    "Ezequiel 27:10",
+    "Ezequiel 30:5",
+    "Nahúm 3:9"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 498",
+   "importancia": 2
+  },
+  {
+   "ref": "10:15-16",
+   "tipo": "personaje",
+   "titulo": "Gergeseos, descendientes de Cam",
+   "contenido": "Los gergeseos eran una de las siete tribus cananeas conquistadas por Josué; descendientes de Cam (Génesis 10:15, 16). La tradición dice que huyeron a África.",
+   "refs_biblicas": [
+    "Deuteronomio 7:1"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 514",
+   "importancia": 1
+  },
+  {
+   "ref": "10:19",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Gerar: pueblo del Néguev en ruta de caravanas",
+   "contenido": "Gerar (heb. gerar, círculo, región) era un pueblo del Néguev en una ruta protegida para caravanas tierra adentro de Palestina a Egipto (Génesis 10:19).",
+   "hebreo": {
+    "palabra": "gerar",
+    "transliteracion": "gerar",
+    "significado": "círculo, región"
+   },
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 514",
+   "importancia": 2
+  },
+  {
+   "ref": "11:10-22",
+   "tipo": "cronologia_fechas",
+   "titulo": "Genealogía de Génesis 11 entre las que abarcan largos períodos",
+   "contenido": "Génesis 11:10-22 se cita, junto con Génesis 5:1-32, entre las genealogías que abarcan largos períodos de la historia bíblica.",
+   "refs_biblicas": [
+    "Génesis 5:1-32"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 510",
+   "importancia": 1
+  },
+  {
+   "ref": "12:2",
+   "tipo": "hebreo_palabra",
+   "titulo": "Goy (nación) a veces designa a Israel; goy y 'am",
+   "contenido": "En el AT goy (pl. goyim) se traduce gentiles, paganos, pueblo y nación, y generalmente se usa para los que no eran israelitas. Sin embargo, a veces se refiere a los israelitas, por ejemplo en Génesis 12:2 y Deuteronomio 32:28; la palabra que casi siempre se usa para ellos es 'am. En el NT ethnos equivale a goy, mientras que laos corresponde a 'am.",
+   "hebreo": {
+    "palabra": "goy",
+    "transliteracion": "goy (pl. goyim)",
+    "significado": "nación, pueblo; gentiles, paganos"
+   },
+   "refs_biblicas": [
+    "Deuteronomio 32:28"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 513",
+   "importancia": 2
+  },
+  {
+   "ref": "14:17-20",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Tradición samaritana: Melquisedec y Salem junto al monte Gerizim",
+   "contenido": "La tradición samaritana mantiene que Abraham se encontró con Melquisedec en la cercana Salem (Génesis 14:17-20), cerca del monte Gerizim.",
+   "postura": "El artículo solo registra lo que mantiene la tradición samaritana; no la adopta ni la discute.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 515",
+   "importancia": 1
+  },
+  {
+   "ref": "15:12-21",
+   "tipo": "teologia_doctrina",
+   "titulo": "La promesa a Abraham toma forma de pacto",
+   "contenido": "Los relatos patriarcales registran la primera declaración formal de la promesa a Abraham. La promesa, que más tarde tomó la forma de pacto (Génesis 15:12-21), garantizaba una herencia para el pueblo de Dios en todas las edades.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 512",
+   "importancia": 3
+  },
+  {
+   "ref": "15:13",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Por cierto» (Génesis 15:13) y expresiones equivalentes",
+   "contenido": "Las expresiones por cierto (Génesis 15:13), realmente (18:13; Hechos 12:11) y de veras (Génesis 26:9) tienen el mismo significado. El artículo las trata en el primer sentido de la entrada Garantía.",
+   "refs_biblicas": [
+    "Génesis 18:13",
+    "Génesis 26:9",
+    "Hechos 12:11"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 506",
+   "importancia": 1
+  },
+  {
+   "ref": "15:13-14",
+   "tipo": "cronologia_fechas",
+   "titulo": "El período de esclavitud egipcia mencionado en el pacto abrahámico",
+   "contenido": "Las narraciones acerca de José señalan el período de esclavitud egipcia mencionado en el pacto abrahámico (Génesis 15:13, 14), cuyo trasfondo histórico llevan al libro de Éxodo.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 512",
+   "importancia": 2
+  },
+  {
+   "ref": "15:17",
+   "tipo": "explicacion_texto",
+   "titulo": "Horno humeante y antorcha de fuego en el pacto abrahámico",
+   "contenido": "En el relato del pacto abrahámico (Génesis 15:17) se cuenta de un horno humeante y una antorcha de fuego. El artículo lo menciona entre los usos del fuego en la Escritura.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 496",
+   "importancia": 2
+  },
+  {
+   "ref": "15:18",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El Éufrates (perath): el gran río y la promesa a Abraham",
+   "contenido": "Éufrates (heb. perath, de una raíz que significa irrumpir) es el río más largo y más importante de Asia occidental, frecuentemente llamado el Río o el gran río en el AT, siendo el más grande que conocía Israel, en contraste con los torrentes de Palestina que se secaban fácilmente. La promesa a Abraham de que la heredad de su simiente llegaría hasta el Éufrates (Génesis 15:18) recibió cumplimiento parcial en las posesiones pastorales de Rubén (1 Crónicas 5:9, 10) y un cumplimiento más completo bajo David y Salomón, cuando los pequeños reinos de esa zona pagaban un tributo anual.",
+   "hebreo": {
+    "palabra": "perath",
+    "transliteracion": "perath",
+    "significado": "irrumpir (significado de la raíz)"
+   },
+   "refs_biblicas": [
+    "Deuteronomio 1:7",
+    "Josué 1:4",
+    "1 Crónicas 5:9-10",
+    "2 Samuel 8:3-8",
+    "1 Reyes 4:21",
+    "1 Crónicas 18:3",
+    "2 Crónicas 9:26"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 454",
+   "importancia": 3
+  },
+  {
+   "ref": "15:21",
+   "tipo": "personaje",
+   "titulo": "El territorio de los gergeseos prometido a Abram",
+   "contenido": "La tierra de los gergeseos le había sido prometida a Abram (Génesis 15:21) y a Israel (Josué 3:10).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 514",
+   "importancia": 1
+  },
+  {
+   "ref": "18:13",
+   "tipo": "hebreo_palabra",
+   "titulo": "«Realmente» (Génesis 18:13)",
+   "contenido": "Realmente (Génesis 18:13) es una de las expresiones que el artículo Garantía considera de igual significado que por cierto (15:13) y de veras (26:9).",
+   "refs_biblicas": [
+    "Génesis 15:13",
+    "Génesis 26:9"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 506",
+   "importancia": 1
+  },
+  {
+   "ref": "19:24",
+   "tipo": "explicacion_texto",
+   "titulo": "Primera aparición de la palabra fuego en la Escritura",
+   "contenido": "Se usa la palabra fuego por primera vez en las Escrituras en Génesis 19:24.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 496",
+   "importancia": 2
+  },
+  {
+   "ref": "20:1-2",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Abraham en Gerar con el rey Abimelec",
+   "contenido": "En Gerar se quedó Abraham con su rey, Abimelec (Génesis 20:1, 2).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 514",
+   "importancia": 2
+  },
+  {
+   "ref": "22:1-14",
+   "tipo": "cultura_costumbres",
+   "titulo": "Autoridad del padre sobre la vida de los hijos: Abraham e Isaac",
+   "contenido": "El artículo sobre la familia describe la condición inferior de la hija en la sociedad patriarcal: hasta su misma vida estaba a disposición de su padre. Tanto hijos como hijas podían ser muertos por desobedecer a la cabeza de la familia. Como ejemplo cita que Abraham estaba dispuesto a sacrificar a su hijo Isaac (Génesis 22:1-14).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 475",
+   "importancia": 2
+  },
+  {
+   "ref": "22:1-19",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Tradición samaritana: el sacrificio de Isaac en el monte Gerizim",
+   "contenido": "Gerizim es una montaña de Samaria (Jebel et-Tor, de 890 m de altura), al sudoeste del monte Ebal. La tradición samaritana mantiene que Abraham trató de sacrificar a Isaac en esta montaña (Génesis 22:1, 19). Los samaritanos construyeron un templo en el monte Gerizim (Juan 4:20, 21) después de que los israelitas que volvieron del exilio babilónico se negaran a permitir que las razas mixtas de Samaria ayudaran a reconstruir Jerusalén; adoraron en el campo abierto después de que su templo fuera destruido por los macabeos.",
+   "postura": "El artículo solo registra lo que mantiene la tradición samaritana; no la adopta ni la discute.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 515",
+   "importancia": 2
+  },
+  {
+   "ref": "25:24-26",
+   "tipo": "cultura_costumbres",
+   "titulo": "La ley de la primogenitura: porción doble",
+   "contenido": "La ley de la primogenitura proveía una porción doble de la herencia como el derecho de nacimiento del hijo mayor (Deuteronomio 21:17; Génesis 25:24, 26; 38:27-30; 43:33). Se podía perder el derecho por una ofensa seria, o renunciar o venderlo voluntariamente, como hizo Esaú con Jacob. David dio el reino a su hijo menor, Salomón, a pesar de una ley que protegía al hijo mayor del favoritismo de un padre hacia un hermano menor. En una familia sin varones la hija podía heredar la propiedad.",
+   "refs_biblicas": [
+    "Deuteronomio 21:17",
+    "Deuteronomio 21:15-17",
+    "1 Reyes 2:15",
+    "Números 27:8"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 3
+  },
+  {
+   "ref": "25:29-34",
+   "tipo": "cultura_costumbres",
+   "titulo": "Esaú vende la primogenitura a Jacob; el guisado",
+   "contenido": "El derecho de primogenitura se podía renunciar o vender voluntariamente, como hizo Esaú con Jacob (Génesis 25:29-34). En la entrada Guisado, el artículo define el guisado o guiso como un potaje espeso hecho de vegetales y carne o sebo, citando Génesis 25:29, 30, 34 (y 2 Reyes 4:38, 39).",
+   "refs_biblicas": [
+    "2 Reyes 4:38-39"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 528",
+   "importancia": 2
+  },
+  {
+   "ref": "26:1-33",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Isaac en Gerar: experiencias similares y más extensas que las de Abraham",
+   "contenido": "Después de Abraham, Isaac (Génesis 26:1-33) tuvo en la región de Gerar experiencias similares y más extensas con el rey y la gente de la región.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 514",
+   "importancia": 2
+  },
+  {
+   "ref": "26:9",
+   "tipo": "hebreo_palabra",
+   "titulo": "«De veras» (Génesis 26:9)",
+   "contenido": "De veras (Génesis 26:9) es una de las expresiones que el artículo Garantía considera de igual significado que por cierto (15:13) y realmente (18:13).",
+   "refs_biblicas": [
+    "Génesis 15:13",
+    "Génesis 18:13"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 506",
+   "importancia": 1
+  },
+  {
+   "ref": "28:10-17",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Tradición samaritana: el sueño de Jacob en Khirbet Lanzah",
+   "contenido": "La tradición samaritana mantiene que el sueño de Jacob (Génesis 28:10-17) ocurrió en Khirbet Lanzah, en el monte Gerizim.",
+   "postura": "El artículo solo registra lo que mantiene la tradición samaritana; no la adopta ni la discute.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 515",
+   "importancia": 1
+  },
+  {
+   "ref": "29:18-27",
+   "tipo": "cultura_costumbres",
+   "titulo": "La dote pagada por el novio y la vida de la novia en la familia del esposo",
+   "contenido": "La dote pagada por el novio al padre de su prometida, aunque no era un precio de compra directamente, tenía la intención de compensar al padre por la pérdida de los servicios de la hija (cf. Génesis 29:18, 27; Éxodo 22:16-17; 1 Samuel 18:25; 2 Samuel 3:14). Después del matrimonio la novia normalmente iba a vivir con la familia del esposo; así se convertía en parte de ese grupo familiar extendido y estaba sujeta a su autoridad.",
+   "refs_biblicas": [
+    "Éxodo 22:16-17",
+    "1 Samuel 18:25",
+    "2 Samuel 3:14"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 3
+  },
+  {
+   "ref": "30:9-11",
+   "tipo": "personaje",
+   "titulo": "Gad, séptimo hijo de Jacob y primogénito de Zilpa",
+   "contenido": "Gad (heb. gadh, fortuna) fue el séptimo hijo de Jacob, primogénito de Zilpa, sierva de Lea (Génesis 30:9-11). El artículo registra además, en una entrada aparte, un dios cananeo de la fortuna llamado Gad, visto en nombres compuestos como Baal-gad y Migdal-gad.",
+   "hebreo": {
+    "palabra": "gadh",
+    "transliteracion": "gadh",
+    "significado": "fortuna"
+   },
+   "refs_biblicas": [
+    "Josué 11:17",
+    "Josué 15:37"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 500",
+   "importancia": 2
+  },
+  {
+   "ref": "31:22-25",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Galaad: la región al este del Jordán donde Jacob acampó",
+   "contenido": "Galaad (heb. gil'adh, riguroso) es la posesión de Israel al este del río Jordán, que se extiende desde el extremo sur del mar de Galilea hasta el extremo norte del mar Muerto. Jacob acampó allí cuando estaba huyendo de Labán (Génesis 31:22-25, 47). Al distribuir Canaán entre los israelitas, Galaad le tocó a los rubenitas, gaditas y la media tribu de Manasés (Deuteronomio 3:13). (El artículo continúa más allá de este segmento.)",
+   "hebreo": {
+    "palabra": "gil'adh",
+    "transliteracion": "gil'adh",
+    "significado": "riguroso"
+   },
+   "refs_biblicas": [
+    "Génesis 31:47",
+    "Deuteronomio 3:13"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 501",
+   "importancia": 2
+  },
+  {
+   "ref": "32:22-33:15",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Jacob se reconcilió con Esaú en Galaad",
+   "contenido": "Según la entrada Galaad, Jacob acampó en esa región y allí se reconcilió con Esaú (Génesis 32:22—33:15).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 501",
+   "importancia": 2
+  },
+  {
+   "ref": "35:22",
+   "tipo": "cultura_costumbres",
+   "titulo": "Pérdida de la primogenitura por una ofensa seria",
+   "contenido": "El derecho a la primogenitura se podía perder como resultado de una ofensa seria (Génesis 35:22; 49:3, 4; 1 Crónicas 5:1).",
+   "refs_biblicas": [
+    "Génesis 49:3-4",
+    "1 Crónicas 5:1"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 2
+  },
+  {
+   "ref": "35:23-26",
+   "tipo": "personaje",
+   "titulo": "Jacob, progenitor de las 12 tribus de Israel",
+   "contenido": "Jacob es el progenitor de las 12 tribus de Israel (Génesis 35:23-26).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 512",
+   "importancia": 2
+  },
+  {
+   "ref": "35:29",
+   "tipo": "hebreo_palabra",
+   "titulo": "Modos de expresar la muerte: «fallecer»",
+   "contenido": "Según el artículo Expirar, el espíritu humano se distingue del cuerpo, y el hecho de morir se expresa como entregar el espíritu, expirar (Génesis 49:33), fallecer (Génesis 35:29) o dar el último suspiro (Job 11:20).",
+   "refs_biblicas": [
+    "Génesis 49:33",
+    "Job 11:20"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 466",
+   "importancia": 1
+  },
+  {
+   "ref": "36:11",
+   "tipo": "personaje",
+   "titulo": "Gatam, nieto de Esaú y jefe edomita",
+   "contenido": "Gatam fue nieto de Esaú y jefe edomita (Génesis 36:11, 16; 1 Crónicas 1:36).",
+   "refs_biblicas": [
+    "Génesis 36:16",
+    "1 Crónicas 1:36"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 506",
+   "importancia": 1
+  },
+  {
+   "ref": "36:20",
+   "tipo": "personaje",
+   "titulo": "Los gabaonitas como heveos u horeos",
+   "contenido": "Los gabaonitas, habitantes de Gabaón, eran heveos u horeos (Génesis 36:20; Deuteronomio 2:12), quienes antiguamente habían vivido en Edom. Josué los convirtió en esclavos para tareas manuales. Eran los campesinos del imperio mitanio que en el 1500 a. de J.C. llegaba desde Media hasta el Mediterráneo.",
+   "refs_biblicas": [
+    "Josué 9:3",
+    "Josué 9:7",
+    "Deuteronomio 2:12"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 500",
+   "importancia": 1
+  },
+  {
+   "ref": "37:36",
+   "tipo": "hebreo_palabra",
+   "titulo": "Eunuco: de guardián del harén a oficial",
+   "contenido": "Eunuco es un varón castrado. Comenzando con el empleo de tales hombres como guardianes de los harenes reales, el término llegó a designar un oficial, ya sea físicamente eunuco o no. Génesis 37:36 se cita como ejemplo de este uso, junto con 2 Reyes 23:1, Isaías 56:3 y Jeremías 29:2.",
+   "refs_biblicas": [
+    "2 Reyes 23:1",
+    "Isaías 56:3",
+    "Jeremías 29:2"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 454",
+   "importancia": 2
+  },
+  {
+   "ref": "38:11-26",
+   "tipo": "cultura_costumbres",
+   "titulo": "Judá ordena quemar a Tamar: autoridad familiar y levirato",
+   "contenido": "Judá ordenó quemar a Tamar por sospechar que ella, una viuda, había tenido relaciones sexuales con un hombre que no pertenecía a la familia de su esposo (Génesis 38:11-26), cuando normalmente se habría esperado que se casara con un pariente del esposo; de hecho estaba comprometida con su hermano. El artículo lo cita como ejemplo del poder de la cabeza de la familia sobre la vida de los suyos.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 475",
+   "importancia": 2
+  },
+  {
+   "ref": "38:21",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Lugares con el nombre de un manantial",
+   "contenido": "Muchos pueblos y otras localidades tienen el nombre de los manantiales propios del lugar; el artículo cita Génesis 38:21 (y Josué 15:62) como ejemplos.",
+   "refs_biblicas": [
+    "Josué 15:62"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 497",
+   "importancia": 1
+  },
+  {
+   "ref": "38:27-30",
+   "tipo": "cultura_costumbres",
+   "titulo": "Primogenitura: ejemplo del nacimiento de los mellizos de Tamar",
+   "contenido": "El artículo cita Génesis 38:27-30 entre los pasajes que ilustran la ley de la primogenitura, que daba una porción doble de la herencia al hijo mayor.",
+   "refs_biblicas": [
+    "Génesis 25:24-26",
+    "Génesis 43:33",
+    "Deuteronomio 21:17"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 1
+  },
+  {
+   "ref": "43:9",
+   "tipo": "hebreo_palabra",
+   "titulo": "Fiador: comprometerse a responder si otro falla",
+   "contenido": "Cuando se trata de comprometerse a hacer o a dar algo si otro falla, el término significa fiador (Génesis 43:9; Hebreos 7:22) o fianza (Job 17:3). Se expresaba estrechando las manos. Salir fiador por un extraño o un vecino es consistentemente condenado en Proverbios como poniendo en peligro los bienes y la paz mental del fiador.",
+   "refs_biblicas": [
+    "Hebreos 7:22",
+    "Job 17:3",
+    "Proverbios 11:15",
+    "Proverbios 17:18",
+    "Proverbios 22:26"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 506",
+   "importancia": 2
+  },
+  {
+   "ref": "43:33",
+   "tipo": "cultura_costumbres",
+   "titulo": "Primogenitura: referencia a Génesis 43:33",
+   "contenido": "El artículo cita Génesis 43:33 entre los pasajes que ilustran la ley de la primogenitura, que daba una porción doble de la herencia al hijo mayor.",
+   "refs_biblicas": [
+    "Génesis 25:24-26",
+    "Génesis 38:27-30",
+    "Deuteronomio 21:17"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 1
+  },
+  {
+   "ref": "46:13",
+   "tipo": "personaje",
+   "titulo": "Fuaitas, descendientes de Fúa de la tribu de Isacar",
+   "contenido": "Los fuaitas son descendientes de Fúa, de la tribu de Isacar (Génesis 46:13; Números 26:23; 1 Crónicas 7:1). La RVR-1960 traduce funitas.",
+   "refs_biblicas": [
+    "Números 26:23",
+    "1 Crónicas 7:1"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 496",
+   "importancia": 1
+  },
+  {
+   "ref": "46:16",
+   "tipo": "personaje",
+   "titulo": "Gad: siete hijos al descender a Egipto",
+   "contenido": "Gad tenía siete hijos cuando descendió a Egipto (Génesis 46:16). Sus descendientes, los gaditas, tenían 45.650 varones adultos en el censo del Sinaí, pero para el segundo censo su número había bajado a 40.500. Su posición en la marcha era al sur del tabernáculo, junto a Rubén. Con Rubén y la media tribu de Manasés siguieron siendo pastores como sus antepasados y, por la inmensa muchedumbre de ganado, pidieron a Moisés las ricas tierras de pasto al este del Jordán. Finalmente Gad fue llevado cautivo por Asiria y Amón tomó sus tierras y ciudades.",
+   "refs_biblicas": [
+    "Números 1:24-25",
+    "Números 26:18",
+    "Números 32:1",
+    "2 Reyes 15:29",
+    "Jeremías 49:1"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 500",
+   "importancia": 1
+  },
+  {
+   "ref": "46:21",
+   "tipo": "personaje",
+   "titulo": "Gera, hijo de Benjamín",
+   "contenido": "Gera (heb. gera, grano) es nombre común de la tribu de Benjamín. El primero que registra el artículo es hijo de Benjamín (Génesis 46:21); luego menciona a otros del mismo nombre (hijo de Bela, padre de Aod, hijo de Aod, padre de Simei).",
+   "hebreo": {
+    "palabra": "gera",
+    "transliteracion": "gera",
+    "significado": "grano"
+   },
+   "refs_biblicas": [
+    "1 Crónicas 8:3",
+    "Jueces 3:15"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 514",
+   "importancia": 1
+  },
+  {
+   "ref": "46:24",
+   "tipo": "personaje",
+   "titulo": "Guni, clan de la tribu de Neftalí",
+   "contenido": "Guni fue un clan familiar de la tribu de Neftalí (Génesis 46:24; Números 26:48; 1 Crónicas 7:13).",
+   "refs_biblicas": [
+    "Números 26:48",
+    "1 Crónicas 7:13"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 528",
+   "importancia": 1
+  },
+  {
+   "ref": "49:3-4",
+   "tipo": "cultura_costumbres",
+   "titulo": "Pérdida de la primogenitura (referencia cruzada)",
+   "contenido": "Génesis 49:3, 4 se cita, junto con 35:22 y 1 Crónicas 5:1, como ejemplo de que el derecho de primogenitura se podía perder como resultado de una ofensa seria.",
+   "refs_biblicas": [
+    "Génesis 35:22",
+    "1 Crónicas 5:1"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 474",
+   "importancia": 1
+  },
+  {
+   "ref": "49:19",
+   "tipo": "explicacion_texto",
+   "titulo": "Gad y la destreza militar de los gaditas",
+   "contenido": "Génesis 49:19 parece describir la destreza militar de los gaditas. Los gaditas eran conocidos por su valor y su fe. Sus guerreros, con los de Rubén y la media tribu de Manasés, encabezaron la conquista de la Palestina occidental y volvieron a sus familias con la bendición de Josué.",
+   "refs_biblicas": [
+    "Deuteronomio 33:20",
+    "Josué 1:12-18",
+    "Josué 22:1-9"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 501",
+   "importancia": 2
+  },
+  {
+   "ref": "49:33",
+   "tipo": "hebreo_palabra",
+   "titulo": "Expirar (Génesis 49:33)",
+   "contenido": "El hecho de morir se expresa, entre otras formas, como expirar (Génesis 49:33), en contraste con fallecer (Génesis 35:29). El artículo señala que el espíritu humano se distingue del cuerpo.",
+   "refs_biblicas": [
+    "Génesis 35:29",
+    "Mateo 27:50",
+    "Juan 19:30"
+   ],
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. I | PÁGINA PDF 466",
+   "importancia": 1
+  }
+ ],
+ "problemas": "El archivo no contiene marcadores [Page N], solo los encabezados === [dbmh | ... | PÁGINA PDF N] ===; por eso el campo pagina usa ese rótulo con el número de PDF. Las páginas del segmento no son contiguas (454, 455, 466, 474, 475, 496-498, 500, 501, 506, 510, 512-515, 528), así que varios artículos están cortados al inicio o al final: Familia (empieza a mitad de frase en la pág. 474 y no se ve su título), Faraón (se corta en la pág. 475), Galaad (se corta en 'Jaír,' en la pág. 501), Expiación y Guerra (empiezan a mitad). Cuando un artículo estaba cortado lo indiqué en la nota. Correcciones menores de OCR: 'ishhah' leído como ishshah; 'Pero' en la entrada Faraón (gran casa en egipcio, de donde proviene faraón) lo transcribí sin la grafía egipcia por ser dudosa; 'antiguametne' corregido; en la entrada Gad el texto trae 'Génesis 49:19' y códigos sueltos como <014919> y <011924> que son residuos de citas codificadas y no aportan contenido. Citas del texto con referencias que parecen erróneas y que omití de refs_biblicas: 'Eclesiastés 30:9-12' (probablemente Eclesiástico) y 'Oseas 31:22' (probablemente Jeremías 31:22). Se ignoró por ser ajeno a Génesis el resto de las entradas (Tirhaca, Eunice, Evangelio, Expiación, Funeral, Gat, Gehena, Gemarias, Gerizim fuera de las tradiciones samaritanas sobre Génesis, Gerasa, Getsemaní, etc.). En el campo hebreo no se agregó escritura hebrea porque el diccionario solo da transliteración."
+}

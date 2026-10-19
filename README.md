@@ -4,7 +4,8 @@ Estudios para acompañar la lectura de la Biblia en pareja: unos 20 versículos 
 
 ## Génesis en pareja
 
-Abrir `genesis/estudio-genesis.html` en el navegador (es un solo archivo, funciona sin conexión salvo las tipografías).
+Abrir `genesis/estudio-genesis.html` en el navegador: es un solo archivo, con las tipografías incluidas, y funciona sin conexión
+(solo el botón «Leer el pasaje» abre BibleGateway).
 
 - **El plan:** todo Génesis en 69 días, ordenado según las diez «generaciones» (*toledot*) del propio libro y agrupado en
   cuatro partes: los orígenes (1–11), Abraham (11:27–25:18), Isaac y Jacob (25:19–36) y José (37–50).
@@ -14,7 +15,8 @@ Abrir `genesis/estudio-genesis.html` en el navegador (es un solo archivo, funcio
   «Para profundizar».
 - **Además:** una introducción en cinco capítulos, un panorama antes de cada parte, nueve artículos de temas, mapas con los
   viajes, una línea de tiempo, árboles genealógicos, todas las palabras hebreas, Cristo en Génesis y un buscador.
-- **Progreso y notas:** se guardan en la compu; publicado como artefacto de claude.ai, se comparten entre los dos.
+- **Progreso y notas:** se guardan en el navegador de la compu. Desde el inicio se baja una copia (y se vuelve a cargar),
+  para no perderlas si se limpian los datos del navegador o para pasarlas a otra compu.
 
 ### De dónde sale
 
@@ -37,4 +39,5 @@ Nada está inventado: cada afirmación lleva etiquetas con su fuente y la págin
 4. Un segundo control cotejó cada afirmación con sus notas, las citas con la RVR1960 y el hebreo con el texto masorético.
 
 `genesis/trabajo/` guarda todo el trabajo intermedio: notas extraídas, clasificación de autores, plan, días y artículos en
-JSON, y los scripts. `genesis/app/` tiene la plantilla y el armador (`python3 genesis/app/construir.py`).
+JSON, y los scripts. `genesis/app/` tiene la plantilla, las tipografías y el armador (`python3 genesis/app/construir.py`;
+con `--artefacto` arma la versión para publicar en claude.ai).

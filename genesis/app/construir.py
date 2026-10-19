@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Arma la app del estudio (un solo HTML) a partir de los datos de trabajo.
 
-Uso: python3 construir.py [salida.html]
+Uso: python3 construir.py [salida.html] [--artefacto]
+Por defecto arma un documento completo para abrir como archivo (UTF-8, tipografías incrustadas, sin conexión).
+Con --artefacto arma la versión para publicar en claude.ai (la plataforma le pone el esqueleto del documento).
 Lee: trabajo/plan/plan.json, trabajo/dias/dia_NN.json, trabajo/extracciones/*, trabajo/biblia/rvr1960_genesis.json,
      trabajo/mapas/datos_mapas.json y trabajo/textos/*.json (introducción, cómo usar, fuentes).
 """
@@ -11,7 +13,10 @@ from insumos_dias import OBRAS_BIBLIO
 
 T = '/home/user/trabajo'
 AQUI = os.path.dirname(os.path.abspath(__file__))
-SALIDA = sys.argv[1] if len(sys.argv) > 1 else os.path.join(AQUI, '..', 'estudio-genesis.html')
+ARTEFACTO = '--artefacto' in sys.argv
+_args = [a for a in sys.argv[1:] if not a.startswith('--')]
+SALIDA = _args[0] if _args else os.path.join(AQUI, '..', 'estudio-genesis.html')
+FUENTES_DIR = os.path.join(AQUI, 'tipografias')   # woff2 (latin, latin-ext, hebrew) y su CSS de Google Fonts
 
 COMENTARIOS = {
     'kline': ('Kline', 'Meredith G. Kline, «Génesis», en Nuevo Comentario Bíblico (Casa Bautista de Publicaciones)', 'pág.'),
@@ -270,8 +275,40 @@ def main():
     plantilla = open(os.path.join(AQUI, 'plantilla.html')).read()
     js = 'window.DATOS = ' + json.dumps(datos, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/') + ';'
     out = plantilla.replace('/*__DATOS__*/', js)
+    if not ARTEFACTO:
+        out = documento_local(out)
     open(SALIDA, 'w').write(out)
     print('escrito', os.path.abspath(SALIDA), f'{len(out)/1e6:.2f} MB', '| días', len(dias), '| artículos', len(articulos), '| fuentes', len(fuentes), '| versículos RVR', n_vers)
+
+
+def documento_local(pagina):
+    """Envuelve la página en un documento completo e incrusta las tipografías para usarla sin conexión."""
+    import base64
+    css = open(os.path.join(FUENTES_DIR, 'fuentes.css')).read()
+    # las fuentes variables usan el mismo archivo para varios grosores: una sola cara con rango de grosor
+    grupos = {}
+    for subset, cara in re.findall(r'/\* ([a-z-]+) \*/\s*(@font-face \{.*?\})', css, re.S):
+        if subset not in ('latin', 'latin-ext', 'hebrew'):
+            continue
+        campo = lambda k: re.search(k + r':\s*([^;]+);', cara).group(1).strip()
+        clave = (campo('font-family'), campo('font-style'), campo('src'), campo('unicode-range'))
+        grupos.setdefault(clave, []).append(int(campo('font-weight')))
+    caras = []
+    for (familia, estilo, src, rango), pesos in grupos.items():
+        url = re.search(r'url\((https://[^)]+)\)', src).group(1)
+        datos = base64.b64encode(open(os.path.join(FUENTES_DIR, url.rsplit('/', 1)[1]), 'rb').read()).decode()
+        peso = str(pesos[0]) if len(set(pesos)) == 1 else f'{min(pesos)} {max(pesos)}'
+        caras.append(f"@font-face {{ font-family: {familia}; font-style: {estilo}; font-weight: {peso}; font-display: swap; "
+                     f"src: url(data:font/woff2;base64,{datos}) format('woff2'); unicode-range: {rango}; }}")
+    pagina = re.sub(r'<link rel="preconnect"[^>]*>\n?', '', pagina)
+    pagina = re.sub(r'<link rel="stylesheet" href="https://fonts\.googleapis\.com[^>]*>', '<style>\n' + '\n'.join(caras) + '\n</style>', pagina)
+    pagina = pagina.replace('<meta name="claude:viewport-fit-sides" content="cover">\n', '')
+    corte = pagina.index('<header')
+    cabeza, cuerpo = pagina[:corte], pagina[corte:]
+    return ('<!doctype html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
+            '<style>[hidden] { display: none !important; } img { max-width: 100%; }</style>\n'
+            + cabeza + '</head>\n<body>\n' + cuerpo + '\n</body>\n</html>\n')
 
 
 if __name__ == '__main__':

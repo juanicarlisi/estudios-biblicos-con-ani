@@ -182,6 +182,12 @@ h2[id^="ap-"] { scroll-margin-top: 90px; }
 .nav a.parte-l { margin-top: 12px; border: 1px dashed var(--line); }
 .nav a.parte-l small { color: var(--muted); font-size: .72rem; }
 
+.copia { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 20px; align-items: center; margin-top: 34px; }
+.copia b { font: 600 1.15rem var(--f-display); }
+.copia p { margin: 4px 0 0; font-size: .92rem; color: var(--muted); }
+.copia .acciones { margin: 0; }
+.copia .estado { grid-column: 1 / -1; }
+
 /* Columna de contexto */
 .tarjeta { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 14px; font-family: var(--f-ui); font-size: .85rem; }
 .tarjeta h5 { margin: 0 0 8px; font: 600 .72rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
@@ -244,6 +250,7 @@ h2[id^="ap-"] { scroll-margin-top: 90px; }
   .postura { grid-template-columns: minmax(0, 1fr); gap: 2px; }
   .conex { grid-template-columns: minmax(0, 1fr); }
   .estructura a { grid-template-columns: minmax(0, 1fr); gap: 3px; }
+  .copia { grid-template-columns: minmax(0, 1fr); }
   .marca .heb { display: none; }
 }
 @media (max-width: 460px) {
@@ -431,7 +438,10 @@ function vistaInicio() {
       <a href="#linea"><div class="panel"><b>Línea de tiempo</b><small>Las edades de los patriarcas, según las cifras del texto.</small></div></a>
       <a href="#familias"><div class="panel"><b>Árboles genealógicos</b><small>De Adán a las doce tribus.</small></div></a>
       <a href="#palabras"><div class="panel"><b>Palabras hebreas</b><small>Las que comentan las fuentes, día por día.</small></div></a>
-    </div></div>`;
+    </div>
+    <section class="copia panel"><div><b>Sus notas y su avance</b><p>Se guardan en el navegador de esta compu. Si se limpian los datos del navegador se pierden, así que bajen una copia de vez en cuando (también sirve para pasarlos a otra compu).</p></div>
+      <div class="acciones"><button class="btn" id="bajar-copia">Descargar copia</button><button class="btn" id="cargar-copia-btn">Cargar copia</button>
+      <input type="file" id="cargar-copia" accept=".json,application/json" hidden></div><div class="estado" id="estado-copia"></div></section></div>`;
 }
 function bloqueNotas(d) {
   return `<section class="notas-p"><h2>Sus notas del día</h2><textarea id="notas-dia" data-dia="${d}" placeholder="Lo que aprendieron, lo que conversaron, por qué van a orar…">${esc(est.notas[d] || '')}</textarea>
@@ -764,6 +774,36 @@ document.addEventListener('click', e => {
   const a = e.target.closest('[data-ir]'); if (!a) return;
   e.preventDefault(); const el = document.getElementById(a.dataset.ir); if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
 });
+
+/* ---------- copia de seguridad de notas y avance ---------- */
+function bajarCopia() {
+  const datos = { app: 'genesis-en-pareja', version: 1, fecha: new Date().toISOString(), hechos: est.hechos, notas: est.notas };
+  const url = URL.createObjectURL(new Blob([JSON.stringify(datos, null, 1)], { type: 'application/json' }));
+  const a = document.createElement('a'); a.href = url; a.download = 'genesis-en-pareja-copia-' + datos.fecha.slice(0, 10) + '.json';
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 2000);
+  $('#estado-copia').textContent = 'Copia descargada: ' + a.download + '.';
+}
+async function cargarCopia(archivo) {
+  const msg = t => { $('#estado-copia').textContent = t; };
+  let c; try { c = JSON.parse(await archivo.text()); } catch (e) { msg('Ese archivo no es una copia del estudio.'); return; }
+  if (!c || c.app !== 'genesis-en-pareja') { msg('Ese archivo no es una copia del estudio.'); return; }
+  // se suman a lo que ya hay: un día terminado sigue terminado y, si las dos versiones de una nota difieren, se conservan ambas
+  const tocados = new Set();
+  Object.entries(c.hechos || {}).forEach(([d, f]) => { if (!est.hechos[d]) { est.hechos[d] = f; tocados.add(+d); } });
+  Object.entries(c.notas || {}).forEach(([d, t]) => {
+    const actual = est.notas[d] || '';
+    if (!t || actual === t || actual.includes(t)) return;
+    est.notas[d] = actual ? actual + '\n\n— De la copia del ' + String(c.fecha || '').slice(0, 10) + ' —\n' + t : t; tocados.add(+d);
+  });
+  guardarLocal(); render();
+  for (const d of tocados) await escribirDia(d);
+  msg(!tocados.size ? 'La copia no tenía nada que no estuviera ya guardado.' : tocados.size === 1 ? 'Copia cargada: se actualizó 1 día.' : `Copia cargada: se actualizaron ${tocados.size} días.`);
+}
+document.addEventListener('click', e => {
+  if (e.target.closest('#bajar-copia')) bajarCopia();
+  if (e.target.closest('#cargar-copia-btn')) $('#cargar-copia').click();
+});
+document.addEventListener('change', e => { if (e.target.id === 'cargar-copia' && e.target.files[0]) cargarCopia(e.target.files[0]); });
 
 /* ---------- ruteo ---------- */
 function render() {

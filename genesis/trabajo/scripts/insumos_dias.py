@@ -50,6 +50,16 @@ def rango(ref):
     return idx(c1, v1), idx(int(a), int(b))   # "11:27-25:11"
 
 
+# obras de la biblioteca que el barrido no pudo atribuir (identificadas por su portada)
+OBRAS_BIBLIO = {
+    'BIBLIO/58 - HEBREOS/Hebreos, Santiago, 1 y 2 Pedro, Judas.pdf': ('Comentario Bíblico Mundo Hispano', 'tomo 23: Hebreos, Santiago, 1 y 2 Pedro, Judas', 'Mundo Hispano'),
+    'BIBLIO/58 - HEBREOS/La Biblia Popular 39-Hebreos.pdf': ('Richard E. Lauersdorf', 'La Biblia Popular: Hebreos', 'Lauersdorf'),
+    'BIBLIO/45 - ROMANOS/Romanos - Estudio.pdf': ('Biblia de bosquejos y sermones', 'tomo 7: Romanos', 'Bosquejos y sermones'),
+    'BIBLIO/62 - 1 JUAN/1,2y3 Juan.pdf': ('John MacArthur', 'Comentario MacArthur del NT: 1, 2 y 3 Juan', 'MacArthur'),
+    'BIBLIO/62 - 1 JUAN/1, 2 y 3 Juan.pdf': ('John MacArthur', 'Comentario MacArthur del NT: 1, 2 y 3 Juan', 'MacArthur'),
+}
+
+
 def cargar():
     notas = []
     for f in sorted(glob.glob(f'{BASE}/extracciones/biblio/*.json')):
@@ -61,12 +71,17 @@ def cargar():
     # obras eliminadas por no confiables (no aportan nada aunque alguna nota se haya colado)
     borrados = set(json.load(open(f'{BASE}/borrado/archivos_borrados_claves.json')))
     autores_fuera = ('barclay', 'white', 'pikaza', 'iafrancesco', 'deiros', 'adventista', 'flores', 'hanegraaff')
+    # resúmenes de autor no identificado (no son la obra del autor que resumen)
+    borrados |= {'REF3/Teologia Sistematica y Doctrina/001 - Los atributos de Dios - A. W. Pink - Resumen.docx',
+                 'REF3/Crecimiento y Vida Cristiana/Copia de Los Peligros de la Fe Superficial - A. W. Tozer - Resumen(1).docx'}
     for f in sorted(glob.glob(f'{BASE}/extracciones/ref3/*.json')):
         blq = os.path.basename(f)[:-5]
         for i, n in enumerate(json.load(open(f))['notas'], 1):
             if n.get('archivo') in borrados or any(a in (n.get('autor', '') + n.get('obra', '')).lower() for a in autores_fuera):
                 continue
             n = dict(n); n['id'] = f'{blq}#{i}'; n['origen'] = 'ref3'
+            if n.get('archivo') in OBRAS_BIBLIO:
+                n['autor'], n['obra'] = OBRAS_BIBLIO[n['archivo']][:2]
             n['fuente'] = f"{n.get('autor','')}, {n.get('obra','')}"
             notas.append(n)
     return notas

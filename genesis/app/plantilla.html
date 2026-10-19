@@ -148,6 +148,40 @@ details.prof > summary { cursor: pointer; font: 600 1.3rem var(--f-display); }
 .pie-dia { display: flex; justify-content: space-between; gap: 12px; margin-top: 34px; padding-top: 18px; border-top: 1px solid var(--line); }
 .pend-msg { margin-top: 30px; }
 
+/* Artículos: introducción, partes y temas */
+.bajada { font: 500 1.22rem/1.45 var(--f-display); font-style: italic; color: var(--muted); margin: 0 0 18px; text-wrap: pretty; }
+.entrada p:first-child::first-letter { float: left; font: 600 3.4rem/.85 var(--f-display); color: var(--oro); padding: 6px 8px 0 0; }
+.destacado { margin: 18px 0 22px; padding: 14px 18px; border-radius: var(--radio); background: var(--lapis-soft); border-left: 4px solid var(--lapis); }
+.destacado .et { font: 600 .7rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--lapis); display: block; margin-bottom: 4px; }
+.destacado p { margin: 0; }
+figure.cita { margin: 30px 0; padding: 0 0 0 22px; border-left: 2px solid var(--oro); }
+figure.cita blockquote { margin: 0 0 6px; font: 500 1.35rem/1.4 var(--f-display); font-style: italic; text-wrap: pretty; }
+figure.cita figcaption { font: 500 .8rem var(--f-ui); color: var(--muted); }
+.indice-arts { display: grid; gap: 12px; margin: 18px 0; }
+.indice-arts a { display: grid; grid-template-columns: 44px 1fr; gap: 4px 14px; align-items: start; text-decoration: none; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); border-radius: var(--radio); padding: 14px 16px; }
+.indice-arts a:hover { border-color: var(--lapis); }
+.indice-arts .num { grid-row: span 2; font: 600 1.9rem/1 var(--f-display); color: var(--oro); text-align: center; }
+.indice-arts b { font: 600 1.2rem/1.2 var(--f-display); }
+.indice-arts small { color: var(--muted); font: 400 .86rem/1.4 var(--f-ui); }
+.indice-arts a.pend { opacity: .55; }
+.estructura { display: grid; gap: 4px; margin: 16px 0 24px; font-family: var(--f-ui); }
+.estructura .pt { font: 600 .72rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; margin: 12px 0 2px; }
+.estructura a { display: grid; grid-template-columns: minmax(0, 15rem) 1fr; gap: 12px; align-items: center; text-decoration: none; color: var(--ink); padding: 3px 6px; border-radius: 6px; }
+.estructura a:hover { background: var(--surface); }
+.estructura .et { font-size: .84rem; line-height: 1.25; }
+.estructura .et small { display: block; color: var(--muted); font-size: .72rem; }
+.estructura .b { height: 12px; border-radius: 99px; min-width: 6px; }
+.en-plan { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.aviso-parte { display: flex; gap: 14px; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 18px 0 0; padding: 12px 16px;
+  border-radius: var(--radio); background: var(--oro-soft); border: 1px solid var(--oro); font: 500 .9rem var(--f-ui); }
+h2[id^="ap-"] { scroll-margin-top: 90px; }
+.toc a { display: block; padding: 4px 0; color: var(--ink); text-decoration: none; line-height: 1.3; }
+.toc a:hover { color: var(--lapis); }
+.nav a.sub { padding-left: 22px; font-size: .84rem; color: var(--muted); }
+.nav a.parte-l { margin-top: 12px; border: 1px dashed var(--line); }
+.nav a.parte-l small { color: var(--muted); font-size: .72rem; }
+
 /* Columna de contexto */
 .tarjeta { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 14px; font-family: var(--f-ui); font-size: .85rem; }
 .tarjeta h5 { margin: 0 0 8px; font: 600 .72rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
@@ -175,6 +209,7 @@ details.prof > summary { cursor: pointer; font: 600 1.3rem var(--f-display); }
 .grilla-h .panel:hover { border-color: var(--lapis); }
 .grilla-h b { font: 600 1.15rem var(--f-display); display: block; }
 .grilla-h small { color: var(--muted); font-family: var(--f-ui); }
+.grilla-h.temas small { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
 /* Herramientas */
 .svgcaja { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 10px; }
@@ -208,19 +243,25 @@ details.prof > summary { cursor: pointer; font: 600 1.3rem var(--f-display); }
   .donde-cuando, .heroe { grid-template-columns: minmax(0, 1fr); }
   .postura { grid-template-columns: minmax(0, 1fr); gap: 2px; }
   .conex { grid-template-columns: minmax(0, 1fr); }
+  .estructura a { grid-template-columns: minmax(0, 1fr); gap: 3px; }
   .marca .heb { display: none; }
+}
+@media (max-width: 460px) {
+  .barra { gap: 8px; }
+  .marca b { font-size: 1.22rem; }
+  .anillo { display: none; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
 </style>
 
 <header class="barra">
-  <button class="btn icono menu-btn" id="menu-btn" aria-label="Abrir el índice">☰</button>
+  <button class="btn icono menu-btn" id="menu-btn" aria-label="Abrir el índice"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
   <a class="marca" href="#inicio"><b>Génesis en pareja</b><span class="heb" lang="he">בְּרֵאשִׁית</span></a>
   <div class="esp"></div>
   <div class="anillo" id="anillo" title="Días terminados"></div>
-  <a class="btn icono" href="#buscar" aria-label="Buscar">⌕</a>
+  <a class="btn icono" href="#buscar" aria-label="Buscar"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></a>
   <button class="btn icono" id="tam-btn" aria-label="Cambiar el tamaño de letra">Aa</button>
-  <button class="btn icono" id="tema-btn" aria-label="Cambiar entre modo claro y oscuro">◐</button>
+  <button class="btn icono" id="tema-btn" aria-label="Cambiar entre modo claro y oscuro"><svg width="17" height="17" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
 </header>
 <div class="app">
   <nav class="nav" id="nav" aria-label="Índice del estudio"></nav>
@@ -325,6 +366,10 @@ document.addEventListener('click', e => {
   if (e.target.closest('.nav a')) document.body.classList.remove('nav-abierta');
 });
 const parr = t => esc(t).split(/\n{2,}/).map(x => `<p>${x.replace(/\n/g, '<br>')}</p>`).join('');
+const ARTS = D.articulos_orden || [];
+const artDe = id => (D.articulos || {})[id];
+const tituloArt = a => (artDe(a.id) || {}).titulo || a.titulo;
+const COLOR_PARTE = { I: 'var(--lapis)', II: 'var(--oro)', III: 'var(--olivo)', IV: 'var(--cornalina)' };
 
 /* ---------- progreso y navegación ---------- */
 function pintarProgreso() {
@@ -338,9 +383,16 @@ function pintarNav() {
   const actual = rutaActual;
   const it = (h, t) => `<a class="item ${actual === h ? 'actual' : ''}" href="#${h}">${t}</a>`;
   let h = it('inicio', 'Inicio') + it('como-usar', 'Cómo usar el estudio') + it('introduccion', 'Introducción a Génesis');
+  const enIntro = actual === 'introduccion' || /^art-I/.test(actual);
+  if (enIntro) h += ARTS.filter(a => a.grupo === 'intro').map(a => `<a class="item sub ${actual === 'art-' + a.id ? 'actual' : ''}" href="#art-${a.id}">${esc(tituloArt(a))}</a>`).join('');
   h += '<h4>El plan, según el libro</h4>';
+  let parteVista = '';
   D.toledot.forEach(t => {
     const dias = PLAN.filter(p => p.toledot === t.id);
+    if (dias.length && dias[0].parte !== parteVista) {
+      parteVista = dias[0].parte; const a = ARTS.find(x => x.grupo === 'parte' && x.parte === parteVista);
+      if (a) h += `<a class="item parte-l ${actual === 'art-' + a.id ? 'actual' : ''}" href="#art-${a.id}"><span>${esc(a.titulo)}<br><small>Panorama antes de empezar · Gn ${esc(a.rango)}</small></span></a>`;
+    }
     if (!dias.length) { const dd = diaQueContiene(t.inicio);
       h += `<div class="tol"><a class="dia-l" href="#dia-${dd}" style="grid-template-columns:1fr"><span><span class="t1" style="display:block">${esc(t.etiqueta)} · Gn ${esc(t.rango)}</span><b style="font:600 1.02rem var(--f-display)">${esc(t.titulo)}</b> <span class="r">se lee en el día ${dd}</span></span></a></div>`; return; }
     const hechos = dias.filter(p => est.hechos[p.dia]).length;
@@ -350,6 +402,8 @@ function pintarNav() {
       dias.map(p => `<a class="dia-l ${est.hechos[p.dia] ? 'hecho' : ''} ${actual === 'dia-' + p.dia ? 'actual' : ''} ${hayDia(p.dia) ? '' : 'pend'}" href="#dia-${p.dia}">
         <span class="n">${p.dia}</span><span>${esc(p.titulo)}</span><span class="r">${esc(p.desde)}</span></a>`).join('') + '</details>';
   });
+  const temas = ARTS.filter(a => a.grupo === 'tema');
+  if (temas.length) h += '<h4>Temas de Génesis</h4>' + it('temas', 'Todos los temas') + temas.map(a => it('art-' + a.id, esc(tituloArt(a)))).join('');
   h += '<h4>Herramientas</h4>' + it('mapas', 'Mapas y viajes') + it('linea', 'Línea de tiempo') + it('familias', 'Árboles genealógicos') +
     it('palabras', 'Palabras hebreas') + it('cristo', 'Cristo en Génesis') + it('buscar', 'Buscar') + it('fuentes', 'Fuentes del estudio');
   $('#nav').innerHTML = h;
@@ -371,6 +425,7 @@ function vistaInicio() {
         <div class="acciones"><a class="btn prim" href="#dia-${d}">Abrir el día ${d}</a>${hechos ? '' : '<a class="btn" href="#introduccion">Leer antes la introducción</a>'}</div></div></section>
     <h2>Las secciones del libro</h2><p style="color:var(--muted)">Génesis se ordena con una frase que se repite: «Estas son las generaciones de…» (en hebreo, <span class="heb" lang="he">תּוֹלְדֹת</span>, <i>toledot</i>). El plan sigue esas secciones.</p>
     <div class="partes">${partes}</div>
+    ${ARTS.some(a => a.grupo === 'tema') ? `<h2>Los grandes temas</h2><div class="grilla-h temas">${ARTS.filter(a => a.grupo === 'tema').map(a => `<a href="#art-${a.id}"><div class="panel"><b>${esc(tituloArt(a))}</b><small>${esc((artDe(a.id) || {}).bajada || 'En preparación.')}</small></div></a>`).join('')}</div>` : ''}
     <h2>Para acompañar la lectura</h2><div class="grilla-h">
       <a href="#mapas"><div class="panel"><b>Mapas y viajes</b><small>De Ur a Egipto: los recorridos de Abraham, Jacob y José.</small></div></a>
       <a href="#linea"><div class="panel"><b>Línea de tiempo</b><small>Las edades de los patriarcas, según las cifras del texto.</small></div></a>
@@ -387,7 +442,9 @@ function vistaDia(d) {
   const x = D.dias[d];
   const ant = d > 1 ? diaPlan(d - 1) : null, sig = d < TOTAL ? diaPlan(d + 1) : null;
   const tol = D.toledot.find(t => t.id === p.toledot);
-  let h = `<article class="hoja"><span class="ojo">${esc(tol.etiqueta)} · Día ${d} de ${TOTAL}</span>
+  const artParte = ARTS.find(a => a.grupo === 'parte' && a.parte === p.parte);
+  const empiezaParte = artParte && (!ant || ant.parte !== p.parte);
+  let h = `<article class="hoja">${empiezaParte ? `<div class="aviso-parte" style="margin:0 0 18px"><span>Empieza la <b>${esc(artParte.titulo)}</b>. Antes de leer, conviene mirar el panorama.</span><a class="btn" href="#art-${artParte.id}">Ver el panorama →</a></div>` : ''}<span class="ojo">${esc(tol.etiqueta)} · Día ${d} de ${TOTAL}</span>
     <h1 class="titulo">${esc(x ? x.titulo : p.titulo)}</h1>
     <div class="meta"><span>Génesis ${esc(p.desde)}–${esc(p.hasta)}</span><span>${p.versiculos} versículos</span>${x ? `<span>≈ ${x.minutos.lectura} min de lectura + ${x.minutos.estudio} de estudio</span>` : ''}</div>
     <div class="acciones"><a class="btn prim" href="${bg(p.desde, p.hasta)}" target="_blank" rel="noopener">Leer el pasaje (RVR1960) ↗</a>
@@ -561,7 +618,7 @@ function vistaPalabras() {
 function vistaCristo() {
   const items = []; Object.entries(D.dias).forEach(([d, x]) => x.cristo.forEach(k => items.push({ ...k, d: +d, p: diaPlan(+d) })));
   return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Cristo en Génesis</h1>
-    <p>Cómo el primer libro de la Biblia ya apunta a Jesús, según las fuentes de cada día.</p>` +
+    <p>Cómo el primer libro de la Biblia ya apunta a Jesús, según las fuentes de cada día.${artDe('T9') ? ' Para verlo reunido en un solo recorrido, lean el tema <a href="#art-T9">' + esc(artDe('T9').titulo) + '</a>.' : ''}</p>` +
     items.map(k => `<div class="cristo"><span class="ojo"><a href="#dia-${k.d}">Día ${k.d} · Gn ${esc(k.p.desde)}–${esc(k.p.hasta)}</a></span><p>${esc(k.texto)} ${chips(k.fuentes)}</p>${k.refs && k.refs.length ? `<span class="refs">${esc(k.refs.join(' · '))}</span>` : ''}</div>`).join('') + '</div>';
 }
 let indice = null;
@@ -570,8 +627,15 @@ function vistaBuscar() {
 }
 function armarIndice() {
   indice = [];
+  ARTS.forEach(a => { const x = artDe(a.id); if (!x) return;
+    const push = (sec, t) => t && indice.push({ href: '#art-' + a.id, lab: tituloArt(a), sec, t });
+    push('Entrada', x.entrada.texto);
+    x.apartados.forEach(s => s.parrafos.forEach(q => push(s.titulo, q.texto)));
+    (x.interpretaciones || []).forEach(i => i.posturas.forEach(p => push('Interpretación: ' + i.tema, p.quien + ': ' + p.postura)));
+    (x.conexiones || []).forEach(k => push('Conexión: ' + k.ref, k.nota));
+  });
   Object.entries(D.dias).forEach(([d, x]) => {
-    const push = (sec, t) => t && indice.push({ d: +d, sec, t });
+    const push = (sec, t) => t && indice.push({ href: '#dia-' + d, lab: 'Día ' + d, sec, t });
     push('Panorama', x.panorama.texto);
     x.secciones.forEach(s => s.notas.forEach(n => push(s.rango + ' · ' + s.titulo, n.texto)));
     x.palabras.forEach(w => push('Palabra: ' + w.translit, w.significado));
@@ -592,7 +656,7 @@ document.addEventListener('input', e => {
     const q = sinTildes(e.target.value.trim());
     const res = q.length < 3 ? [] : indice.filter(r => sinTildes(r.t + ' ' + r.sec).includes(q)).slice(0, 80);
     $('#res').innerHTML = q.length < 3 ? '' : (res.length ? res.map(r => { const i = sinTildes(r.t).indexOf(q); const ini = Math.max(0, i - 90);
-      const frag = esc(r.t.slice(ini, ini + 260)); return `<div class="resultado"><a href="#dia-${r.d}"><b>Día ${r.d}</b> · ${esc(r.sec)}</a><div>${ini ? '…' : ''}${frag}…</div></div>`; }).join('') : '<p>No hay resultados.</p>');
+      const frag = esc(r.t.slice(ini, ini + 260)); return `<div class="resultado"><a href="${r.href}"><b>${esc(r.lab)}</b> · ${esc(r.sec)}</a><div>${ini ? '…' : ''}${frag}…</div></div>`; }).join('') : '<p>No hay resultados.</p>');
   }
 });
 function vistaTexto(clave) {
@@ -606,6 +670,100 @@ function vistaFuentes() {
     <h2>Libros de referencia citados</h2><p style="font-size:.92rem;color:var(--muted)">Solo autores protestantes confiables. ${F.referencia.length} obras aportaron a los días ya escritos.</p>
     <table class="tabla"><tbody>${F.referencia.map(o => `<tr><td>${esc(o[0])}</td><td>${esc(o[1])}</td></tr>`).join('')}</tbody></table></div>`;
 }
+
+/* ---------- introducción, partes y temas ---------- */
+function estructuraLibro() {
+  const max = Math.max(...D.toledot.map(t => t.versos));
+  let h = '<div class="estructura" role="list" aria-label="Las secciones de Génesis">', pt = '';
+  D.toledot.forEach(t => {
+    const parte = (PLAN.find(p => p.dia === diaQueContiene(t.inicio)) || {}).parte;
+    const a = ARTS.find(x => x.grupo === 'parte' && x.parte === parte);
+    if (parte !== pt) { pt = parte; h += `<div class="pt" style="color:${COLOR_PARTE[parte]}">${esc(a ? a.titulo : 'Parte ' + parte)}</div>`; }
+    h += `<a role="listitem" href="#dia-${diaQueContiene(t.inicio)}"><span class="et">${esc(t.titulo)}<small>${esc(t.etiqueta)} · Gn ${esc(t.rango)} · ${t.versos} versículos</small></span>
+      <span class="b" style="width:${(100 * t.versos / max).toFixed(1)}%;background:${COLOR_PARTE[parte]}"></span></a>`;
+  });
+  return h + '</div>';
+}
+function indiceArts(grupo) {
+  return '<div class="indice-arts">' + ARTS.filter(a => a.grupo === grupo).map((a, i) => { const x = artDe(a.id);
+    return `<a href="#art-${a.id}" class="${x ? '' : 'pend'}"><span class="num">${grupo === 'parte' ? a.parte : i + 1}</span><b>${esc(tituloArt(a))}</b>
+      <small>${esc(x ? x.bajada : 'En preparación.')}</small></a>`; }).join('') + '</div>';
+}
+function vistaIntro() {
+  const t = D.textos.introduccion || {};
+  return `<article class="hoja"><span class="ojo">Antes de empezar</span><h1 class="titulo">Introducción a Génesis</h1>
+    <p class="bajada">Qué libro es, quién lo escribió, cómo está armado y cómo leerlo. Cinco capítulos breves para leer antes del día 1, o de a uno cuando quieran.</p>
+    ${indiceArts('intro')}
+    <h2>Cómo está armado el libro</h2><p>Génesis se ordena con una frase que vuelve una y otra vez: «Estas son las generaciones de…» (<span class="heb" lang="he">תּוֹלְדֹת</span>, <i>toledot</i>). Cada barra muestra el largo de una sección; los colores, las cuatro partes del plan. Tocando una sección se abre su primer día.</p>
+    ${estructuraLibro()}
+    <h2>El panorama de cada parte</h2>${indiceArts('parte')}
+    ${t.html && !ARTS.some(a => a.grupo === 'intro' && artDe(a.id)) ? t.html : ''}</article>`;
+}
+function vistaTemas() {
+  return `<article class="hoja"><span class="ojo">Temas de Génesis</span><h1 class="titulo">Los grandes temas</h1>
+    <p class="bajada">Lo que Génesis enseña de punta a punta, reunido desde todos los comentarios y libros de la biblioteca. Sirven para repasar al terminar una parte o para estudiar un tema a fondo.</p>
+    ${indiceArts('tema')}</article>`;
+}
+const palabrasDe = o => { let n = 0; JSON.stringify(o, (k, v) => { if (typeof v === 'string' && k !== 'fuentes' && k !== 'notas_no_usadas') n += v.split(/\s+/).length; return v; }); return n; };
+function diasDeRefs(refs) {
+  const ds = new Set();
+  (refs || []).forEach(r => { const m = String(r).replace(/^G[ée]n?\.?\s*/i, '').match(/^(\d+):(\d+)/); if (m && +m[1] >= 1 && +m[1] <= 50) ds.add(diaQueContiene(m[1] + ':' + m[2])); });
+  return [...ds].sort((a, b) => a - b);
+}
+function vistaArticulo(id) {
+  const a = ARTS.find(x => x.id === id); if (!a) return vistaInicio();
+  const x = artDe(id), grupo = ARTS.filter(y => y.grupo === a.grupo), i = grupo.indexOf(a);
+  const ojo = { intro: `Introducción a Génesis · ${i + 1} de ${grupo.length}`, parte: `Panorama · Génesis ${a.rango}`, tema: `Temas de Génesis · ${i + 1} de ${grupo.length}` }[a.grupo];
+  let h = `<article class="hoja"><span class="ojo">${esc(ojo)}</span><h1 class="titulo">${esc(tituloArt(a))}</h1>`;
+  if (!x) return h + `<div class="panel pend-msg"><p><b>Esta sección está en preparación.</b> Se escribe con el material de la biblioteca, como los días.</p></div></article>`;
+  h += `<p class="bajada">${esc(x.bajada)}</p><div class="meta"><span>≈ ${Math.max(3, Math.round(palabrasDe({ e: x.entrada, a: x.apartados }) / 200))} min de lectura</span></div>`;
+  h += `<div class="entrada" style="margin-top:18px">${parr(x.entrada.texto)}${chips(x.entrada.fuentes)}</div>`;
+  if (id === 'I2') h += estructuraLibro();
+  if (a.grupo === 'parte') {
+    const ds = PLAN.filter(p => p.parte === a.parte);
+    h += `<div class="panel" style="margin:18px 0;padding:10px 8px"><span class="ojo" style="padding:0 8px">Los ${ds.length} días de esta parte</span>` +
+      ds.map(p => `<a class="dia-l ${est.hechos[p.dia] ? 'hecho' : ''}" href="#dia-${p.dia}"><span class="n">${p.dia}</span><span>${esc(p.titulo)}</span><span class="r">${esc(p.desde)}–${esc(p.hasta)}</span></a>`).join('') + '</div>';
+  }
+  const versiculo = v => { const vt = D.rvr[v.ref];
+    return vt ? `<figure class="clave"><blockquote>«${esc(vt).replace(/\n/g, ' / ')}»</blockquote><cite>Génesis ${esc(v.ref)} · RVR1960</cite>${v.porque ? `<p class="porque">${esc(v.porque)}</p>` : ''}</figure>` : ''; };
+  const cita = c => `<figure class="cita"><blockquote>«${esc(c.texto)}»</blockquote><figcaption>${esc(c.autor)}, <i>${esc(c.obra)}</i> ${chips(c.fuentes)}</figcaption></figure>`;
+  // los versículos clave y las citas se intercalan entre los apartados para que la lectura respire
+  const vers = (x.versiculos || []).slice(), citas = (x.citas || []).slice();
+  if (vers.length) h += versiculo(vers.shift());
+  x.apartados.forEach((s, k) => {
+    h += `<h2 id="ap-${k}">${esc(s.titulo)}</h2>` + s.parrafos.map(q => `<p class="nota">${esc(q.texto)} ${chips(q.fuentes)}</p>`).join('');
+    if (s.destacado && s.destacado.texto) h += `<aside class="destacado"><span class="et">Para retener</span><p>${esc(s.destacado.texto)} ${chips(s.destacado.fuentes)}</p></aside>`;
+    if (k === x.apartados.length - 1) return;
+    if (k % 2 === 0 ? vers.length : !citas.length && vers.length) h += versiculo(vers.shift());
+    else if (citas.length) h += cita(citas.shift());
+  });
+  vers.forEach(v => { h += versiculo(v); }); citas.forEach(c => { h += cita(c); });
+  if (x.palabras && x.palabras.length) h += `<h2>Palabras para entender</h2><div class="palabras">` + x.palabras.map(w => `<div class="palabra">${w.hebreo ? `<span class="heb" lang="he">${esc(w.hebreo)}</span>` : ''}
+    <span class="tr">${esc(w.translit)}</span> <span class="rf">· ${esc(w.ref)}</span><p>${esc(w.significado)} ${chips(w.fuentes)}</p></div>`).join('') + '</div>';
+  if (x.interpretaciones && x.interpretaciones.length) h += `<h2>Preguntas difíciles e interpretaciones</h2>` + x.interpretaciones.map(q => `<details class="interp"><summary>${esc(q.tema)}</summary><div class="cuerpo">` +
+    q.posturas.map(p => `<div class="postura"><span class="quien">${esc(p.quien)}</span><span>${esc(p.postura)} ${chips(p.fuentes)}</span></div>`).join('') +
+    (q.nota ? `<p style="margin-top:10px;font-size:.92rem">${esc(q.nota)}</p>` : '') + '</div></details>').join('');
+  if (x.conexiones && x.conexiones.length) h += `<h2>Conexiones con el resto de la Biblia</h2><div class="conex">` + x.conexiones.map(k => `<span class="rf">${esc(k.ref)}</span><span>${esc(k.nota)} ${chips(k.fuentes)}</span>`).join('') + '</div>';
+  if ((x.para_vivir && x.para_vivir.length) || (x.para_conversar && x.para_conversar.length)) {
+    h += `<section class="vida"><h2>Para la vida de ustedes</h2>${x.para_vivir.length ? `<ul>${x.para_vivir.map(v => `<li>${esc(v.texto)} ${chips(v.fuentes)}</li>`).join('')}</ul>` : ''}
+      ${x.para_conversar.length ? `<h3>Para conversar</h3><ol>${x.para_conversar.map(q => `<li>${esc(q)}</li>`).join('')}</ol>` : ''}</section>`;
+  }
+  const ds = a.grupo === 'parte' ? [] : diasDeRefs(x.refs_genesis);
+  if (ds.length) h += `<h2>Dónde aparece en el plan</h2><div class="en-plan">${ds.map(d => `<a class="btn" href="#dia-${d}">Día ${d} · Gn ${esc(diaPlan(d).desde)}</a>`).join('')}</div>`;
+  const ant = grupo[i - 1], sig = grupo[i + 1];
+  const fin = a.grupo === 'parte' ? { href: '#dia-' + PLAN.find(p => p.parte === a.parte).dia, t: 'Empezar la parte →' } : null;
+  h += `<nav class="pie-dia">${ant ? `<a class="btn" href="#art-${ant.id}">← ${esc(tituloArt(ant))}</a>` : `<a class="btn" href="#${a.grupo === 'tema' ? 'temas' : 'introduccion'}">← Índice</a>`}
+    ${fin ? `<a class="btn prim" href="${fin.href}">${fin.t}</a>` : sig ? `<a class="btn" href="#art-${sig.id}">${esc(tituloArt(sig))} →</a>` : a.grupo === 'intro' ? `<a class="btn prim" href="#dia-1">Empezar el día 1 →</a>` : ''}</nav></article>`;
+  return h;
+}
+function ladoArticulo(id) {
+  const x = artDe(id); if (!x || !x.apartados.length) return '';
+  return `<div class="tarjeta toc"><h5>En esta sección</h5>${x.apartados.map((s, k) => `<a href="#art-${id}" data-ir="ap-${k}">${esc(s.titulo)}</a>`).join('')}</div>`;
+}
+document.addEventListener('click', e => {
+  const a = e.target.closest('[data-ir]'); if (!a) return;
+  e.preventDefault(); const el = document.getElementById(a.dataset.ir); if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+});
 
 /* ---------- ruteo ---------- */
 function render() {
@@ -621,7 +779,10 @@ function render() {
   else if (h === 'cristo') main = vistaCristo();
   else if (h === 'buscar') main = vistaBuscar();
   else if (h === 'fuentes') main = vistaFuentes();
-  else if (h === 'introduccion' || h === 'como-usar') main = vistaTexto(h);
+  else if (h === 'introduccion') main = vistaIntro();
+  else if (h === 'temas') main = vistaTemas();
+  else if (/^art-[IPT]\d$/.test(h)) { main = vistaArticulo(h.slice(4)); lado = ladoArticulo(h.slice(4)); }
+  else if (h === 'como-usar') main = vistaTexto(h);
   else { rutaActual = 'inicio'; main = vistaInicio(); }
   $('#principal').innerHTML = main;
   $('#lado').innerHTML = lado; $('#lado').hidden = !lado;

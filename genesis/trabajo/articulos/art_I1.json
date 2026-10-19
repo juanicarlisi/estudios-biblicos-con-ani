@@ -1,0 +1,526 @@
+{
+ "id": "I1",
+ "titulo": "Nombre, autor y fecha",
+ "bajada": "De dónde viene el nombre de Génesis, en qué se apoya la tradición que lo atribuye a Moisés, qué propuso la hipótesis documental, cómo le responden las fuentes y cuándo se escribió.",
+ "entrada": {
+  "texto": "Antes de empezar el plan conviene saber cómo se llama este libro, quién lo escribió y cuándo. La pregunta por el autor no es un detalle técnico. Para muchos escritores conservadores, dice el Comentario Bíblico Mundo Hispano, dudar de que Moisés esté detrás de Génesis es dudar de la autoridad inspirada del Pentateuco. En este capítulo van a ver de dónde viene el nombre, qué dice la Biblia del autor, qué teoría lo discutió y cómo le responden las fuentes, qué materiales pudo usar Moisés y cuándo se escribió.",
+  "fuentes": [
+   "cbmh_03#10",
+   "cbmh_03#8",
+   "beacon_01#14"
+  ]
+ },
+ "versiculos": [
+  {
+   "ref": "1:1",
+   "porque": "Su primera palabra, bereshit («en el principio»), es el nombre hebreo del libro."
+  },
+  {
+   "ref": "2:4",
+   "porque": "Es la primera fórmula toledot («estos son los orígenes»), que marca las unidades del libro. Berkhof la usa para mostrar que Génesis 2 no es un segundo relato de la creación."
+  },
+  {
+   "ref": "36:31",
+   "porque": "Es uno de los ejemplos de glosa (una aclaración agregada después de Moisés) que da el Comentario Bíblico Mundo Hispano."
+  }
+ ],
+ "apartados": [
+  {
+   "titulo": "Un nombre tomado de la primera palabra",
+   "parrafos": [
+    {
+     "texto": "En hebreo el libro se llama Bereshit, «en el principio»: es su primera palabra. Nombrar una obra por sus palabras iniciales era una práctica muy común en el antiguo Cercano Oriente, y así designan los judíos cada libro de la ley: por la primera palabra de su comienzo o por la más notable.",
+     "fuentes": [
+      "beacon_01#12",
+      "cbmh_03#7",
+      "dbmh_07#1",
+      "kline_01#1",
+      "macarthur_01#1",
+      "edersheim_01#4"
+     ]
+    },
+    {
+     "texto": "«Génesis» viene de la Septuaginta (LXX), la traducción griega del Antiguo Testamento, y quiere decir «origen» o «principio». Al pasar a la Vulgata, la traducción latina, se mantuvo el término. El nombre griego se conservó en las versiones vernáculas porque describe bien el contenido: para Kline, el libro entero es el prólogo de la historia de Israel y, en el relato de la creación de su propio prólogo, describe los orígenes de toda la historia humana. El Comentario Bíblico Mundo Hispano lo vincula además con toledot, palabra que significa «generaciones», «orígenes», «descendientes» o «historia» y que marca las unidades del relato; se verá en el capítulo sobre la estructura.",
+     "fuentes": [
+      "beacon_01#12",
+      "kline_01#1",
+      "cbmh_03#6",
+      "dbmh_07#1",
+      "edersheim_01#4",
+      "macarthur_01#1"
+     ]
+    },
+    {
+     "texto": "Génesis introduce el Pentateuco, palabra griega que significa el libro «de cinco partes», y la Biblia entera. Según MacArthur, el Nuevo Testamento lo cita más de treinta y cinco veces.",
+     "fuentes": [
+      "edersheim_01#4",
+      "macarthur_01#1",
+      "cbmh_03#6"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Bereshit, «en el principio», es la primera palabra de la Biblia hebrea y el nombre hebreo del libro; «Génesis», su nombre griego, significa «origen».",
+    "fuentes": [
+     "beacon_01#12",
+     "cbmh_03#7",
+     "kline_01#1",
+     "macarthur_01#1"
+    ]
+   }
+  },
+  {
+   "titulo": "Lo que la Biblia dice del autor",
+   "parrafos": [
+    {
+     "texto": "Génesis no nombra a su autor ni sus fuentes, y su texto no menciona a Moisés: según Livingston, Lutero (1483–1546) fue el primero en añadir su nombre al título. La Biblia de Estudio MacArthur recuerda, además, que el libro termina casi tres siglos antes de que Moisés naciera.",
+     "fuentes": [
+      "cbmh_03#8",
+      "beacon_01#14",
+      "beacon_01#5",
+      "kline_01#2",
+      "macarthur_01#2"
+     ]
+    },
+    {
+     "texto": "Aun así, el judaísmo antiguo y la tradición cristiana dan el crédito a Moisés, y los autores conservadores encuentran apoyo en la Escritura. En el Pentateuco, Dios le manda escribir o transmitir sus revelaciones (Éx 17:14; 24:4; Nm 33:2; Dt 31:9). El resto del Antiguo Testamento habla de «la ley de Moisés» y de «el libro de Moisés». Y Jesús menciona a Moisés como autoridad de la Ley (Lc 24:44) y habla de lo que Moisés escribió (Jn 5:46-47).",
+     "fuentes": [
+      "beacon_01#5",
+      "beacon_01#14",
+      "beacon_01#2",
+      "beacon_01#3",
+      "cbmh_03#9",
+      "macarthur_01#2",
+      "kline_01#3",
+      "dbmh_07#2"
+     ]
+    },
+    {
+     "texto": "Kline suma dos argumentos. Uno es el testimonio del Nuevo Testamento: Jesús y sus discípulos atribuyen a Moisés distintas partes del Pentateuco, y Kline rechaza que eso valga solo para los pasajes que citan. Para dejar afuera a Génesis, los autores del Nuevo Testamento habrían tenido que hacer una investigación de alta crítica que los llevara a rechazar la tradición sobre Génesis, o haber recibido esa crítica por revelación especial. A Kline ninguna de las dos le parece aceptable. El otro argumento es la interrelación: Génesis está entretejido con los libros que siguen. La genealogía de Génesis 46 continúa en Éxodo 1, y la historia de Esaú y Jacob se recuerda para justificar las instrucciones a Israel sobre su encuentro con Edom (Dt 2:4). Kline juzga muy poco plausible que Éxodo a Deuteronomio se hayan producido con independencia de Génesis.",
+     "fuentes": [
+      "kline_01#3",
+      "kline_01#2"
+     ]
+    },
+    {
+     "texto": "Moisés, además, tenía la preparación (Hch 7:22) y, según el Comentario Bíblico Mundo Hispano, también la necesidad: como libertador, legislador y modelador del pueblo, necesitó un documento autoritativo que le diera a Israel identidad étnica y política y la identidad del Dios de los Padres. Wiersbe resume: Moisés no vivía cuando ocurrieron esos hechos, pero el Espíritu lo guió al escribirlos (2 P 1:20-21), y como Cristo creyó que Moisés escribió esos libros (Jn 5:45-47), eso es autoridad suficiente.",
+     "fuentes": [
+      "macarthur_01#2",
+      "cbmh_03#21",
+      "cbmh_03#17",
+      "r1_055#2"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Génesis no nombra a su autor, pero el resto de la Escritura y el mismo Jesús ligan la ley a Moisés.",
+    "fuentes": [
+     "macarthur_01#2",
+     "kline_01#3",
+     "cbmh_03#9"
+    ]
+   }
+  },
+  {
+   "titulo": "La hipótesis documental",
+   "parrafos": [
+    {
+     "texto": "Livingston cuenta que los eruditos se dividieron entre dos posiciones: que Génesis sea producto de Moisés y su época, o de autores anónimos de tiempos mucho más recientes. El médico francés Jean Astruc propuso que detrás de Génesis había dos documentos: J, que llama a Dios Jehová, y E, que lo llama Elohim. Johann Eichhorn, profesor en Jena, se apoyó en esas supuestas fuentes y fue el primero en dudar de la paternidad mosaica del Pentateuco. En los primeros 75 años del siglo XIX, los eruditos alemanes discutieron si las fuentes eran tres, dos o una, y las fecharon desde la época de Salomón hasta la de Esdras, a partir de los nombres de Dios, las diferencias de vocabulario y estilo y los distintos enfoques teológicos.",
+     "fuentes": [
+      "beacon_01#14",
+      "beacon_01#15",
+      "cbmh_03#12"
+     ]
+    },
+    {
+     "texto": "Julius Wellhausen popularizó con éxito la idea de tres fuentes principales: J (siglo IX a.C.), E (siglo VIII) y P, la «sacerdotal», con temas de culto y genealogías (siglo V). Según el Comentario Bíblico Mundo Hispano, esta hipótesis documental se apoya en tradiciones con intereses distintos, en el uso distinto del nombre de Dios, en relatos duplicados con variaciones, en la idea de un desarrollo progresivo de la religiosidad humana y en separar la autoridad inspirada de un autor específico. Fue muy popular entre protestantes y judíos de Occidente; la Iglesia Católica reaccionó negativamente.",
+     "fuentes": [
+      "beacon_01#16",
+      "cbmh_03#12"
+     ]
+    },
+    {
+     "texto": "Con el tiempo aparecieron otros enfoques, que el Comentario Bíblico Mundo Hispano describe así. La crítica de formas ve en Génesis tradiciones orales y escritas, y algunos creen que muchas nacieron en santuarios ligados a los patriarcas (Hebrón, Beerseba, Betel). Para ella no importa determinar el autor, y algunos dan poco crédito a la historicidad de los relatos. La crítica de redacción no habla de un autor sino de «redactores» que recogieron las tradiciones y las redactaron según las necesidades de cada momento, y toma como normativa la composición final.",
+     "fuentes": [
+      "cbmh_03#15",
+      "cbmh_03#16"
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cómo responden las fuentes",
+   "parrafos": [
+    {
+     "texto": "Según Livingston, los eruditos conservadores encuentran inaceptable la hipótesis documental. Para Kline, uno de sus mayores perjuicios, al menos en su formulación clásica, fue romper la unidad de Génesis y convertirlo en fragmentos sin relación, superpuestos y hasta contradictorios, cuando debe verse como el desarrollo armonioso y coherente de un solo tema. Su comentario intenta mostrar que, visto en esa unidad, ordenada por las fórmulas toledot, las principales posiciones de los teóricos documentarios ni concuerdan con los hechos ni hacen falta como explicación.",
+     "fuentes": [
+      "beacon_01#18",
+      "beacon_01#16",
+      "kline_01#10"
+     ]
+    },
+    {
+     "texto": "Un ejemplo son los supuestos dos relatos de la creación. Berkhof, que cita a Laidlaw, responde que Génesis 2 no es otro relato de la creación, porque no la explica en total. La fórmula «estos son los orígenes» (2:4), repetida en el libro, señala siempre no el origen de lo ya nombrado sino su historia familiar, mientras que el capítulo 1 explica la creación de todas las cosas en el orden en que ocurrieron.",
+     "fuentes": [
+      "r2_082#55"
+     ]
+    },
+    {
+     "texto": "Los eruditos conservadores, dice Livingston, se animan con los estudios del antiguo Cercano Oriente. Sostienen que varios tipos de escritura, incluso la alfabética, se usaban siglos antes de Moisés; que la transmisión oral de tradiciones importantes, sobre todo si se relacionan con una deidad, tiene una exactitud asombrosa; y que la orientación social, económica y política de las historias patriarcales estaba firmemente arraigada en el período 2000–1500 a.C. Por eso ven posible, y aun sumamente probable, que Génesis se compusiera en tiempos de Moisés. Para Livingston, el único obstáculo para la composición mosaica es teológico: hoy se concede mucho más que antes que había creencias monoteístas entre los hebreos del tiempo de Moisés, pero solo los conservadores se han atrevido a sostener que el monoteísmo fue la fe de los patriarcas desde el principio.",
+     "fuentes": [
+      "beacon_01#18",
+      "beacon_01#19"
+     ]
+    },
+    {
+     "texto": "El Comentario Bíblico Mundo Hispano ve otra pista en el texto mismo: Génesis conserva intactos pasajes que parecerían contradictorios, relatos del mismo hecho con perspectivas diferentes y acciones que serían denigrantes para ciertas tribus o grupos del pueblo de Dios. Eso muestra, dice, gran fidelidad al texto recibido.",
+     "fuentes": [
+      "cbmh_03#24"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Para Kline, visto en su unidad, Génesis es el desarrollo armonioso y coherente de un solo tema.",
+    "fuentes": [
+     "kline_01#10"
+    ]
+   }
+  },
+  {
+   "titulo": "Lo que Moisés pudo usar",
+   "parrafos": [
+    {
+     "texto": "¿Cómo supo Moisés lo que había pasado siglos antes? Geisler y Brooks dan la respuesta sencilla: Dios se lo reveló. El Comentario Bíblico Mundo Hispano explica además el camino: los descendientes de Abraham transmitieron las historias, la comunidad las conservó bajo la dirección de Dios y Moisés, inspirado, las integró; por su posición privilegiada de cultura, pudo disponer de documentos de distintos pueblos.",
+     "fuentes": [
+      "r1_020#38",
+      "cbmh_03#9",
+      "cbmh_03#21"
+     ]
+    },
+    {
+     "texto": "P. J. Wiseman propuso una hipótesis más concreta, que Geisler y Brooks hacen suya y que, aclaran, no elimina la guía divina. Génesis se habría escrito primero en tablillas de barro transmitidas de generación en generación, que custodiaba cada jefe de clan. Cada autor habría firmado con la fórmula de las generaciones (toledot) (2:4; 5:1; 37:2, entre otras), y Moisés habría compilado esos documentos, quizá una historia familiar registrada por los propios patriarcas. Craig recoge que incluso quienes sostienen la autoría mosaica reconocen que probablemente se usaron fuentes, como registros de las familias ancestrales guardados por los patriarcas y registros genealógicos.",
+     "fuentes": [
+      "r1_020#38",
+      "r1_024#34"
+     ]
+    },
+    {
+     "texto": "Según el Comentario Bíblico Mundo Hispano, muchos escritores conservadores reconocen que en la transmisión se insertaron en Génesis algunas glosas, es decir, aclaraciones posteriores a Moisés: explicaciones, nombres geográficos más nuevos, complementos de genealogías (por ejemplo, 26:1; 35:20; 36:31). Son mínimas, responden al proceso normal de aclarar y actualizar el texto para el pueblo, y atestiguan que se aceptaba la autoridad de un documento al que se quería dar relevancia permanente. Geisler y Howe ofrecen dos explicaciones para Hebrón (13:18): pudo ser el nombre original, que más tarde cambió a Quiriat-arba y después volvió a ser Hebrón (Jos 14:15), o un editor posterior actualizó el nombre para los lectores de su época.",
+     "fuentes": [
+      "cbmh_03#10",
+      "cbmh_03#24",
+      "r2_026#49"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Para las fuentes conservadoras, usar relatos y documentos anteriores no elimina la guía divina: Moisés los reunió inspirado por Dios.",
+    "fuentes": [
+     "r1_020#38",
+     "cbmh_03#9",
+     "r1_055#2"
+    ]
+   }
+  },
+  {
+   "titulo": "Cuándo se escribió",
+   "parrafos": [
+    {
+     "texto": "Según MacArthur, Génesis se escribió después del éxodo (hacia 1445 a.C.) y antes de la muerte de Moisés (hacia 1405 a.C.); Israel lo oyó por primera vez antes de cruzar el Jordán. El mismo autor admite que es difícil precisar más. MacArthur y Mayhue fechan Génesis 1–2 hacia 1405 a.C. y lo ven como el comienzo de una Biblia compuesta durante unos mil quinientos años por más de cuarenta escritores y obra de un único Autor divino, hasta Apocalipsis (hacia el 95 d.C.).",
+     "fuentes": [
+      "macarthur_01#3",
+      "r2_078#29"
+     ]
+    },
+    {
+     "texto": "En la versión de Wellhausen, las fuentes se ubican entre los siglos IX y V a.C. W. F. Albright fue uno de los grandes defensores de otra opinión: que el libro se completó en el exilio, pero es sustancialmente mosaico. Tampoco todos los conservadores ponen el acento en el mismo lugar: la introducción al Pentateuco del Comentario Beacon afirma la autoridad mosaica, pero deja abierta la autoría exacta de cada parte, como Orígenes con la de Hebreos: «Sólo Dios lo sabe». Las distintas posturas están reunidas en «interpretaciones».",
+     "fuentes": [
+      "beacon_01#16",
+      "beacon_01#17",
+      "beacon_01#11"
+     ]
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "1:1",
+   "hebreo": "בְּרֵאשִׁית",
+   "translit": "bereshit",
+   "significado": "«En el principio». Es la primera palabra de la Biblia hebrea y el título hebreo del libro, según la costumbre antigua de nombrar una obra por sus palabras iniciales.",
+   "fuentes": [
+    "beacon_01#12",
+    "cbmh_03#7",
+    "dbmh_07#1",
+    "kline_01#1",
+    "macarthur_01#1",
+    "edersheim_01#4"
+   ]
+  },
+  {
+   "ref": "2:4",
+   "hebreo": "תוֹלְדוֹת",
+   "translit": "toledot",
+   "significado": "«Generaciones», «orígenes», «descendientes» o «historia». Según el Comentario Bíblico Mundo Hispano, que la relaciona con el título «Génesis», aparece once veces en Génesis (2:4; 5:1; 10:1; 11:10, entre otras) y señala una unidad histórica o narrativa.",
+   "fuentes": [
+    "cbmh_03#6"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Quién escribió Génesis?",
+   "nota": "Las obras de estas notas que toman posición sostienen la autoría o al menos la autoridad mosaica. Las posturas críticas aparecen descriptas por ellas.",
+   "posturas": [
+    {
+     "postura": "Moisés escribió o compiló Génesis.",
+     "quien": "Livingston (Comentario Bíblico Beacon), MacArthur, Kline, Wiersbe, Diccionario Bíblico Mundo Hispano y Comentario Bíblico Mundo Hispano (este último admite además glosas posteriores mínimas)",
+     "fuentes": [
+      "beacon_01#19",
+      "macarthur_01#2",
+      "kline_01#3",
+      "cbmh_03#17",
+      "cbmh_03#10",
+      "r1_055#2",
+      "dbmh_07#2"
+     ]
+    },
+    {
+     "postura": "La autoridad mosaica es firme, pero quién escribió exactamente cada parte puede quedar abierto. «El libro de Moisés» muy posiblemente significa «el libro acerca de Moisés» o «basado en su autoridad».",
+     "quien": "Introducción al Pentateuco del Comentario Bíblico Beacon (firmada «W. T. P.»)",
+     "fuentes": [
+      "beacon_01#11",
+      "beacon_01#9",
+      "beacon_01#5"
+     ]
+    },
+    {
+     "postura": "Hipótesis documental: Génesis combina documentos de autores anónimos muy posteriores a Moisés: J y E (Astruc, Eichhorn) y, con Wellhausen, también P. En su versión, J es del siglo IX a.C., E del VIII y P del V.",
+     "quien": "Jean Astruc, Johann Eichhorn, Julius Wellhausen y sus seguidores",
+     "fuentes": [
+      "beacon_01#15",
+      "beacon_01#16",
+      "cbmh_03#12"
+     ]
+    },
+    {
+     "postura": "Gran parte del libro pasó por un largo período de transmisión oral, en centros culturales y tribales o en santuarios, antes de fijarse por escrito. El material sería comunal y el autor no importa.",
+     "quien": "Hermann Gunkel, Otto Eissfeldt y la crítica de formas",
+     "fuentes": [
+      "beacon_01#17",
+      "cbmh_03#15"
+     ]
+    },
+    {
+     "postura": "Varios redactores dieron forma a las tradiciones según las necesidades de cada época, y lo normativo es el texto final.",
+     "quien": "Crítica de redacción (según la expone el Comentario Bíblico Mundo Hispano)",
+     "fuentes": [
+      "cbmh_03#16"
+     ]
+    },
+    {
+     "postura": "El libro se completó en el exilio, pero en sustancia es mosaico.",
+     "quien": "W. F. Albright",
+     "fuentes": [
+      "beacon_01#17"
+     ]
+    },
+    {
+     "postura": "No necesita tomar posición, dice, porque su interés es el texto canónico. Observa que la hipótesis fue muy criticada y que hay escepticismo sobre poder delimitar las fuentes, aunque la existencia de J y P detrás de Génesis 1–11 sigue siendo ampliamente aceptada.",
+     "quien": "William Lane Craig",
+     "fuentes": [
+      "r1_024#34"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "¿Cómo conoció Moisés lo que pasó antes de él?",
+   "nota": "Las posturas no se excluyen: Geisler y Brooks aclaran que la hipótesis de las tablillas no elimina la guía divina.",
+   "posturas": [
+    {
+     "postura": "Dios se lo reveló; el Espíritu lo guió al escribir.",
+     "quien": "Geisler y Brooks (como respuesta sencilla), Wiersbe",
+     "fuentes": [
+      "r1_020#38",
+      "r1_055#2"
+     ]
+    },
+    {
+     "postura": "Usó tablillas de barro que custodiaban los jefes de clan, cada una firmada con la fórmula de las generaciones (toledot).",
+     "quien": "P. J. Wiseman, seguido por Geisler y Brooks",
+     "fuentes": [
+      "r1_020#38"
+     ]
+    },
+    {
+     "postura": "Integró, inspirado, tradiciones transmitidas por los descendientes de Abraham, manuscritos antiguos y documentos de distintos pueblos, y les dio la forma actual.",
+     "quien": "Livingston (Comentario Bíblico Beacon), Comentario y Diccionario Bíblico Mundo Hispano",
+     "fuentes": [
+      "beacon_01#14",
+      "beacon_01#18",
+      "cbmh_03#9",
+      "cbmh_03#21",
+      "dbmh_07#2"
+     ]
+    },
+    {
+     "postura": "Incluso quienes sostienen la autoría mosaica admiten que probablemente se usaron fuentes, como registros de las familias ancestrales guardados por los patriarcas y registros genealógicos.",
+     "quien": "William Lane Craig (lo recoge, sin tomar posición)",
+     "fuentes": [
+      "r1_024#34"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "¿Cuándo se escribió?",
+   "posturas": [
+    {
+     "postura": "Entre el éxodo (hacia 1445 a.C.) y la muerte de Moisés (hacia 1405 a.C.); Génesis 1–2, hacia 1405 a.C.",
+     "quien": "MacArthur; MacArthur y Mayhue",
+     "fuentes": [
+      "macarthur_01#3",
+      "r2_078#29"
+     ]
+    },
+    {
+     "postura": "En tiempos de Moisés, sobre escritos y tradiciones anteriores.",
+     "quien": "Livingston (Comentario Bíblico Beacon)",
+     "fuentes": [
+      "beacon_01#18",
+      "beacon_01#19"
+     ]
+    },
+    {
+     "postura": "Las fuentes se fechan entre la época de Salomón y la de Esdras; en la versión de Wellhausen, J en el siglo IX, E en el VIII y P en el V a.C.",
+     "quien": "Eruditos alemanes del siglo XIX; Wellhausen",
+     "fuentes": [
+      "beacon_01#15",
+      "beacon_01#16"
+     ]
+    },
+    {
+     "postura": "Se completó en el exilio, aunque en sustancia es mosaico.",
+     "quien": "W. F. Albright",
+     "fuentes": [
+      "beacon_01#17"
+     ]
+    }
+   ]
+  }
+ ],
+ "citas": [
+  {
+   "texto": "El Génesis fue escrito por Moisés, por su mano y su época.",
+   "autor": "George Herbert Livingston",
+   "obra": "Comentario Bíblico Beacon",
+   "fuentes": [
+    "beacon_01#19"
+   ]
+  },
+  {
+   "texto": "Es quien tuvo más aproximación histórica a los relatos memoriales de los acontecimientos de Génesis. (¡Mucho más que los sacerdotes del tiempo del exilio!)",
+   "autor": "Comentario Bíblico Mundo Hispano (autor del comentario de Génesis, sobre Moisés)",
+   "obra": "Comentario Bíblico Mundo Hispano",
+   "fuentes": [
+    "cbmh_03#21"
+   ]
+  },
+  {
+   "texto": "Sólo Dios lo sabe.",
+   "autor": "Orígenes, citado en la introducción al Pentateuco (W. T. P.)",
+   "obra": "Comentario Bíblico Beacon",
+   "fuentes": [
+    "beacon_01#11"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Éx 17:14; 24:4; Nm 33:2; Dt 31:9",
+   "nota": "Según el Comentario Bíblico Mundo Hispano, en estos pasajes Dios le ordena a Moisés escribir o transmitir sus revelaciones; si Génesis forma parte de esa unidad, Moisés es también su autor.",
+   "fuentes": [
+    "cbmh_03#9",
+    "beacon_01#5",
+    "macarthur_01#2"
+   ]
+  },
+  {
+   "ref": "Jos 8:31; 1 R 2:3; Esd 6:18; Neh 13:1; Dn 9:11; Mal 4:4",
+   "nota": "El resto del Antiguo Testamento atribuye la ley a Moisés («la ley de Moisés», «el libro de Moisés»).",
+   "fuentes": [
+    "macarthur_01#2",
+    "beacon_01#14",
+    "beacon_01#2"
+   ]
+  },
+  {
+   "ref": "Lc 24:44",
+   "nota": "Jesús menciona a Moisés como autoridad de la Ley.",
+   "fuentes": [
+    "cbmh_03#9"
+   ]
+  },
+  {
+   "ref": "Jn 5:45-47",
+   "nota": "Jesús habla de los escritos de Moisés; Kline y Wiersbe ven en eso un aval de la autoría mosaica del Pentateuco, y Kline aclara que Génesis no queda excluido.",
+   "fuentes": [
+    "kline_01#3",
+    "r1_055#2"
+   ]
+  },
+  {
+   "ref": "Mr 12:26",
+   "nota": "Jesús cita «el libro de Moisés»; la introducción al Pentateuco del Comentario Beacon propone entenderlo como «libro acerca de Moisés» o «basado en su autoridad».",
+   "fuentes": [
+    "beacon_01#9",
+    "beacon_01#3"
+   ]
+  },
+  {
+   "ref": "Hch 7:22",
+   "nota": "Según MacArthur y el Comentario Bíblico Mundo Hispano, la preparación de Moisés lo hacía apto para ser el autor y compilar el libro.",
+   "fuentes": [
+    "macarthur_01#2",
+    "cbmh_03#21"
+   ]
+  },
+  {
+   "ref": "2 P 1:20-21",
+   "nota": "Según Wiersbe, el Espíritu guió a Moisés al escribir hechos que no presenció.",
+   "fuentes": [
+    "r1_055#2"
+   ]
+  },
+  {
+   "ref": "Éx 1:1; Dt 2:4",
+   "nota": "Según Kline, la genealogía de Génesis 46 sigue en Éxodo y la historia de Esaú y Jacob se recuerda para justificar las instrucciones sobre Edom: señales de que Génesis y el resto del Pentateuco están estrechamente interrelacionados.",
+   "fuentes": [
+    "kline_01#2"
+   ]
+  }
+ ],
+ "para_vivir": [],
+ "para_conversar": [],
+ "refs_genesis": [
+  "1:1",
+  "2:4",
+  "5:1",
+  "6:9",
+  "10:1",
+  "11:10",
+  "11:27",
+  "13:18",
+  "25:12",
+  "25:19",
+  "26:1",
+  "35:20",
+  "36:1",
+  "36:9",
+  "36:31",
+  "37:2"
+ ],
+ "notas_no_usadas": "Se usaron todas las notas de importancia 3. Algunas tienen datos que les tocan a otras secciones y quedaron apenas mencionados: de macarthur_01#1, la historia de la salvación que va de Génesis 3 a Apocalipsis 21–22 y el uso de Génesis en el Nuevo Testamento (I2 e I5); de beacon_01#18, el conocimiento de Génesis 1–11 en tiempos de Abraham (I4); de r2_082#55, la relación entre Génesis 1 y 2 en cuanto a género (I3). Otras quedaron afuera o se usaron solo en parte. beacon_01#8 es una lista de elementos no mosaicos de Éxodo a Deuteronomio, no de Génesis. beacon_01#2 y beacon_01#3 son listas de expresiones como «libro de Moisés»: solo se tomaron algunos pasajes para las conexiones. beacon_01#10, la advertencia de Aalders, coincide con lo ya dicho. r2_017#49 (McGee) da una postura de estilo sin desarrollarla. r2_081#56 (Chafer) trata la inspiración y la tipología, más propias de T9. De r2_026#49 se omitieron, por espacio, los amalecitas y «la tierra de los hebreos». De beacon_01#17 se omitió el detalle de Gunkel sobre la fecha de la transmisión oral, que va solo en interpretaciones."
+}

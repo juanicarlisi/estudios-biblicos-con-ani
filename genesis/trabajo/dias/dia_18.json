@@ -1,0 +1,809 @@
+{
+ "dia": 18,
+ "desde": "14:1",
+ "hasta": "14:24",
+ "titulo": "La guerra de los reyes y Melquisedec",
+ "minutos": {
+  "lectura": 4,
+  "estudio": 20
+ },
+ "contexto": {
+  "antes": "En Génesis 13 Abram y Lot se separaron. Lot eligió la llanura del Jordán y se fue acercando a Sodoma. Abram se quedó en Hebrón. Lot andaba por vista; Abram, por fe.",
+  "ahora": "Cuatro reyes del oriente aplastan la rebelión de cinco reyes del valle del Jordán y se llevan cautivo a Lot. Abram sale a rescatarlo y lo logra. A la vuelta le salen al encuentro dos reyes: Melquisedec, que lo bendice y recibe el diezmo, y el rey de Sodoma, que le ofrece el botín. Abram no acepta nada para sí.",
+  "donde": "La batalla final es en el valle de Sidim, al sur del mar Muerto. Abram sale del encinar de Mamre, en Hebrón, y persigue a los invasores hasta Dan y más allá de Damasco. Los dos reyes lo reciben cerca de Salem, la antigua Jerusalén, en el valle de Save (el lugar exacto es incierto).",
+  "cuando": "Abram ya vive en Canaán. Según Kline, Quedorlaomer había impuesto su tratado a estas ciudades poco antes de que Abram llegara, y muchos de los nombres de los reyes son propios de comienzos del segundo milenio a. C. Es la primera guerra que registra la Biblia.",
+  "despues": "En Génesis 15 el Señor le responde enseguida al que rechazó la riqueza de Sodoma: «yo soy tu escudo». Abram cree y Dios hace pacto con él. Lot, en cambio, vuelve a Sodoma.",
+  "fuentes": [
+   "edersheim_05#34",
+   "r1_062#53",
+   "r1_014#42",
+   "cbmh_07#38",
+   "beacon_04#12",
+   "edersheim_05#48",
+   "beacon_04#17",
+   "edersheim_05#49",
+   "kline_03#64",
+   "kline_03#57",
+   "kline_03#53",
+   "r1_012#35",
+   "r1_055#84",
+   "dbmh_01#29",
+   "cbmh_07#52",
+   "r1_062#55"
+  ]
+ },
+ "versiculo_clave": {
+  "ref": "14:18-20",
+  "porque": "Es el momento culminante del relato. Melquisedec, rey de Salem y sacerdote del Dios Altísimo, bendice a Abram y le atribuye a Dios la victoria; Abram le entrega el diezmo. El Antiguo Testamento solo lo vuelve a nombrar en el Salmo 110:4, y Hebreos 7 hace de esta escena una figura de Cristo, Rey y Sacerdote."
+ },
+ "panorama": {
+  "texto": "Génesis 14 cambia de escala: aparecen reyes, ejércitos y alianzas. Por primera vez en la Escritura, el reino del mundo, tal como lo fundó Nimrod, choca con el pueblo de Dios en la tierra que Dios le había dado. Abram, que no es más que un extranjero y peregrino, sale a liberar a Lot. Pero la tentación mayor llega después de la victoria. Melquisedec, rey y sacerdote, lo alimenta y lo bendice; el rey de Sodoma le ofrece riquezas. Abram recibe la bendición, da el diezmo y no toma ni un hilo de Sodoma. Vence dos veces: a los reyes con la espada y a la riqueza con un no.",
+  "fuentes": [
+   "edersheim_05#46",
+   "dbmh_15#21",
+   "edersheim_05#49",
+   "r1_062#55",
+   "r1_055#86",
+   "dbmh_01#29"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "14:1-4",
+   "titulo": "Un imperio del oriente y una rebelión",
+   "notas": [
+    {
+     "texto": "Durante doce años, las ciudades de la llanura del Jordán le pagaron tributo a Quedorlaomer, rey de Elam. Eran vasallos, es decir, sometidos a un rey más fuerte, y reyes chicos: cada uno gobernaba probablemente una ciudad y sus alrededores. En el año trece dejaron de pagar, que era la forma de rebelarse. En el catorce llegó la represalia: una expedición militar en toda regla.",
+     "fuentes": [
+      "edersheim_05#44",
+      "macarthur_03#15",
+      "beacon_04#12",
+      "r1_050#1"
+     ],
+     "tipo": "contexto_historico"
+    },
+    {
+     "texto": "Elam, al sudeste de Babilonia, dominaba la coalición. Sinar es el antiguo nombre de Babilonia, la llanura de la torre de Babel. Estos reyes no eran meros caciques: gobernaban ciudades florecientes y cultas, y de una de ellas había emigrado el propio Abram.",
+     "fuentes": [
+      "kline_03#55",
+      "beacon_04#10",
+      "dbmh_16#25",
+      "dbmh_06#21"
+     ],
+     "tipo": "arqueologia_geografia"
+    },
+    {
+     "texto": "¿Es historia? A estos reyes concretos todavía no se los identificó, pero muchos de sus nombres son auténticos de esa época: el equivalente de Arioc se halló en documentos de Mari y Nuzi, y Tidal corresponde a Tudhalia, un nombre real hitita. Geisler y Howe no ven buena razón para dudar del relato, aunque falte confirmación arqueológica directa.",
+     "fuentes": [
+      "kline_03#53",
+      "beacon_04#11",
+      "r1_020#40",
+      "r1_021#37"
+     ],
+     "tipo": "apologetica"
+    }
+   ]
+  },
+  {
+   "rango": "14:5-12",
+   "titulo": "La campaña y la caída de Sodoma",
+   "notas": [
+    {
+     "texto": "Los invasores bajaron por el camino real, una ruta de caravanas al este del Jordán. Vencieron a los refaítas, recordados como gigantes, y a los horeos del monte Seir, la futura Edom. Después saquearon el rico oasis de Cades y devastaron Hazezon-tamar, la actual En-guedi, junto al mar Muerto.",
+     "fuentes": [
+      "kline_03#58",
+      "cbmh_07#38",
+      "beacon_04#13",
+      "dbmh_16#27",
+      "macarthur_03#16",
+      "beacon_04#15",
+      "dbmh_04#21",
+      "dbmh_06#19"
+     ],
+     "tipo": "arqueologia_geografia"
+    },
+    {
+     "texto": "La batalla final fue en el valle de Sidim. La frase «que es el Mar Salado» indica que, entre Abram y Moisés, esa llanura pasó a formar parte del mar Muerto. Estaba llena de pozos de asfalto, yacimientos de brea. El hebreo dice literalmente «pozos, pozos»; R. C. Sproul lo lee como un énfasis con humor: pozos que eran más pozos que otros.",
+     "fuentes": [
+      "kline_03#56",
+      "edersheim_05#44",
+      "macarthur_03#17",
+      "dbmh_04#23",
+      "dbmh_14#8",
+      "r2_031#4"
+     ],
+     "tipo": "arqueologia_geografia"
+    },
+    {
+     "texto": "Los cinco reyes perdieron: algunos cayeron en los pozos y los demás huyeron al monte. Sodoma fue saqueada, y entre los cautivos iba Lot. Fíjense en el avance: en el capítulo 13 Lot se acercaba a Sodoma; ahora «moraba en Sodoma», y quedó atrapado en una guerra que no era suya.",
+     "fuentes": [
+      "beacon_04#15",
+      "edersheim_05#45",
+      "macarthur_03#15",
+      "dbmh_10#17",
+      "r1_062#53"
+     ],
+     "tipo": "personaje"
+    }
+   ]
+  },
+  {
+   "rango": "14:13-16",
+   "titulo": "Abram el hebreo sale al rescate",
+   "notas": [
+    {
+     "texto": "Un fugitivo le avisó a Abram, porque se pensaba que él podía hacer algo por su pariente. Aquí se lo llama por primera vez «el hebreo»: descendiente de Heber. No estaba solo: tenía como aliados a los amorreos Mamre, Escol y Aner, y 318 criados nacidos en su casa, una guardia muy instruida para proteger sus bienes.",
+     "fuentes": [
+      "macarthur_03#18",
+      "macarthur_03#19",
+      "kline_03#59",
+      "cbmh_07#41",
+      "macarthur_03#20",
+      "edersheim_05#48"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "«Armó» es, literalmente, «extrajo» a sus hombres armados, como se saca una espada. Los pactos de la época exigían que el vasallo mandara tropas apenas supiera que los intereses de su señor corrían peligro. Quedorlaomer reclamaba la tierra que Dios le había dado a Abram, así que el asunto tocaba también los intereses del Señor. Al salir, Abram actuó como vasallo leal de Él.",
+     "fuentes": [
+      "kline_03#62",
+      "kline_03#69",
+      "edersheim_05#46"
+     ],
+     "tipo": "cultura_costumbres"
+    },
+    {
+     "texto": "Hasta entonces Abram no se había metido en conflictos ajenos. Pero se trataba de su «hermano»: así llama el hebreo a Lot, y la palabra también significa pariente cercano. Habría podido alegar que tenía pocos hombres o que Lot se lo había buscado. No lo hizo.",
+     "fuentes": [
+      "r1_062#54",
+      "r2_027#1"
+     ],
+     "tipo": "personaje"
+    },
+    {
+     "texto": "Los persiguió más de 150 kilómetros hasta Dan, en el extremo norte, y siguió más allá de Damasco. Atacó de noche y recuperó todo. Edersheim imagina que dividió sus fuerzas y cayó desde varios lados sobre un ejército que probablemente andaba confiado, disperso y cargado de botín. El texto no menciona ningún milagro, pero Melquisedec le dará a Dios el crédito.",
+     "fuentes": [
+      "beacon_04#16",
+      "cbmh_07#42",
+      "macarthur_03#21",
+      "edersheim_05#48",
+      "kline_03#63",
+      "macarthur_03#25"
+     ],
+     "tipo": "explicacion_texto"
+    }
+   ]
+  },
+  {
+   "rango": "14:17-20",
+   "titulo": "Melquisedec: pan, vino y bendición",
+   "notas": [
+    {
+     "texto": "A la vuelta, dos reyes salieron a su encuentro desde lados opuestos: desde el Jordán subió el rey de Sodoma; desde las alturas de Salem bajó Melquisedec. Salem es Jerusalén, que aparece aquí por primera vez en la Biblia.",
+     "fuentes": [
+      "edersheim_05#49",
+      "kline_03#64",
+      "dbmh_09#15",
+      "macarthur_03#22"
+     ],
+     "tipo": "arqueologia_geografia"
+    },
+    {
+     "texto": "Melquisedec es rey y sacerdote a la vez; su nombre significa «rey de justicia». Era sacerdote para los cananeos y para Abram, y en una época en que el jefe de cada familia hacía de sacerdote, él tenía esa función aparte. Sacó pan y vino para los vencedores y bendijo a Abram.",
+     "fuentes": [
+      "dbmh_11#20",
+      "macarthur_03#23",
+      "dbmh_15#23",
+      "beacon_04#18",
+      "cbmh_07#44",
+      "cbmh_07#46"
+     ],
+     "tipo": "personaje"
+    },
+    {
+     "texto": "¿A qué Dios servía? Los cananeos también llamaban «Dios Altísimo» a su dios principal. Pero Melquisedec lo confiesa «creador de los cielos y de la tierra», y Abram identifica a ese mismo Dios con Jehová (v. 22). Era, pues, el Dios verdadero, y Kline deduce que en Canaán ya existía una comunidad de fe verdadera bajo este rey-sacerdote.",
+     "fuentes": [
+      "kline_03#65",
+      "macarthur_03#24",
+      "cbmh_07#45",
+      "beacon_04#18",
+      "dbmh_11#21"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "La bendición va en dos direcciones: a Abram, de parte de Dios, y a Dios, de parte de Abram (Darby), porque fue Él quien «entregó tus enemigos en tu mano». Resuena 12:2-3: a la bendición del elegido le corresponde la maldición de sus enemigos. Y por primera vez Abram prueba ser de bendición para sus vecinos.",
+     "fuentes": [
+      "r1_014#45",
+      "r2_018#33",
+      "macarthur_03#25",
+      "kline_03#67",
+      "beacon_04#17"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "Abram responde con «los diezmos de todo». Es la primera mención del diezmo en la Biblia, y fue voluntario: no había ley que lo pidiera. Hebreos precisa que fue del botín. Con ese gesto reconoció que la victoria era de Dios y que Melquisedec era sacerdote legítimo; para Kline, también que el Señor era el Señor supremo, cualquiera fuese la autoridad que controlara Canaán.",
+     "fuentes": [
+      "macarthur_03#26",
+      "r1_016#18",
+      "r1_013#20",
+      "cbmh_07#48",
+      "kline_03#68",
+      "edersheim_05#52",
+      "dbmh_04#24"
+     ],
+     "tipo": "teologia_doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "14:21-24",
+   "titulo": "Ni un hilo ni una correa",
+   "notas": [
+    {
+     "texto": "El rey de Sodoma ofrece: «Dame las personas, y toma para ti los bienes». Era una oferta muy tentadora, y Abram parecía tener derecho a ella. Para Kœchlin, este rey era un adversario más peligroso que los cuatro reyes, porque con regalos podía dejar a Abram en deuda con él.",
+     "fuentes": [
+      "r1_050#4",
+      "r1_062#55"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Abram ya había jurado no tomar nada («he alzado mi mano»), quizá ante Melquisedec. En la época, el señor podía dejarle el botín al vasallo que peleaba por él; parece que el rey de Sodoma quiso ocupar el lugar de señor. Abram no aceptó esa relación: su Señor era Jehová.",
+     "fuentes": [
+      "kline_03#69",
+      "beacon_04#19",
+      "cbmh_07#50"
+     ],
+     "tipo": "cultura_costumbres"
+    },
+    {
+     "texto": "Y da otra razón: «para que no digas: Yo enriquecí a Abram». Aceptar habría permitido que aquel rey malvado se atribuyera la prosperidad de Abram y oscureciera el testimonio de la bendición de Dios. Además, la gente habría dicho que rescató a Lot por interés.",
+     "fuentes": [
+      "macarthur_03#27",
+      "r1_055#86",
+      "beacon_04#19"
+     ],
+     "tipo": "aplicacion_practica"
+    },
+    {
+     "texto": "No les impuso su voto a otros: los jóvenes comieron y sus aliados tomaron su parte. Y al título que usó Melquisedec le suma el nombre «Jehová», el del Dios del pacto: un solo Dios verdadero en medio de los dioses de Canaán.",
+     "fuentes": [
+      "macarthur_03#27",
+      "beacon_04#19",
+      "edersheim_05#57",
+      "cbmh_07#51"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "Los dos reyes se separan para no volver a cruzarse; el de Sodoma, rumbo al juicio. Lot no aprendió la lección y volvió a Sodoma.",
+     "fuentes": [
+      "edersheim_05#58",
+      "r1_062#55",
+      "cbmh_07#52"
+     ],
+     "tipo": "personaje"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "14:5",
+   "hebreo": "רְפָאִים",
+   "translit": "repha'im",
+   "significado": "«Gigantes o poderosos». Pueblo de gigantes que vivía en Canaán antes de Abraham; Og, rey de Basán, descendía de ellos.",
+   "fuentes": [
+    "dbmh_15#22",
+    "beacon_04#13"
+   ]
+  },
+  {
+   "ref": "14:13",
+   "hebreo": "עִבְרִי",
+   "translit": "'ibri",
+   "significado": "«Hebreo»: descendiente de Heber, del linaje de Sem. Es la primera vez que se le aplica a Abram. Kline sugiere que se usa justo aquí para mostrar que en Abram se cumple la promesa de Noé a Sem (9:26; 10:21); por eso la escena culmina en otra bendición (vv. 19-20).",
+   "fuentes": [
+    "kline_03#59",
+    "kline_03#61",
+    "macarthur_03#19",
+    "cbmh_07#40"
+   ]
+  },
+  {
+   "ref": "14:16",
+   "hebreo": "",
+   "translit": "go'el",
+   "significado": "El pariente-redentor, el que rescata a su familiar (Lv 25:47-49). La palabra no aparece en el capítulo, pero según el comentario Beacon, Abram cumplió ese papel con Lot. Isaías la usa para llamar a Dios «tu Redentor».",
+   "fuentes": [
+    "r2_004#2"
+   ]
+  },
+  {
+   "ref": "14:18",
+   "hebreo": "מַלְכִּי־צֶדֶק",
+   "translit": "melkitsedhek",
+   "significado": "«Rey de justicia»; Kistemaker lo descompone además como «mi rey es justo». Hebreos 7:2 suma su título: rey de Salem, es decir, rey de paz.",
+   "fuentes": [
+    "dbmh_11#20",
+    "r1_013#12",
+    "r1_030#46"
+   ]
+  },
+  {
+   "ref": "14:18",
+   "hebreo": "אֵל עֶלְיוֹן",
+   "translit": "'el 'elyon",
+   "significado": "«Dios Altísimo»: el gobernante soberano supremo. Según el Diccionario, 'el, la palabra para «Dios», es la designación semita más antigua. La expresión pasa al Nuevo Testamento: llamar a Jesús «Hijo del Altísimo» afirma que tiene la misma esencia de Dios.",
+   "fuentes": [
+    "kline_03#65",
+    "macarthur_03#24",
+    "dbmh_11#21",
+    "dbmh_01#30",
+    "r2_008#16"
+   ]
+  },
+  {
+   "ref": "14:20",
+   "hebreo": "מַעֲשֵׂר",
+   "translit": "ma'aser",
+   "significado": "«Una décima parte». A veces es una ofrenda voluntaria, como aquí y en el voto de Jacob (28:22); otras, un pago que manda la ley (Dt 14:22-29).",
+   "fuentes": [
+    "r2_038#59",
+    "macarthur_03#26"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Rey y sacerdote. Ningún sacerdote del linaje de Leví fue rey. El Salmo 110 une las dos cosas en el Mesías, «sacerdote para siempre según el orden de Melquisedec». Para Edersheim, lo que en Melquisedec yacía en semilla se desplegó de a poco, el sacerdocio en Aarón y la realeza en David, hasta unirse en Cristo.",
+   "refs": [
+    "Sal 110:1-4",
+    "He 7:1-3"
+   ],
+   "fuentes": [
+    "r1_014#43",
+    "r1_016#16",
+    "r2_018#11",
+    "edersheim_05#56",
+    "beacon_04#20",
+    "dbmh_11#22"
+   ]
+  },
+  {
+   "texto": "Justicia y paz. Hebreos lee su nombre, rey de justicia, y su título, rey de paz. Cristo nos da paz mediante su justicia, hecha posible por su muerte en la cruz; allí, dice Henrichsen, la justicia y la paz «se besaron».",
+   "refs": [
+    "He 7:1-2",
+    "Sal 85:10"
+   ],
+   "fuentes": [
+    "beacon_04#21",
+    "r1_055#87",
+    "r1_030#46"
+   ]
+  },
+  {
+   "texto": "Un sacerdocio mayor. Abram dio el diezmo y fue bendecido, y el mayor bendice al menor. En Abram diezmó, por así decirlo, también Leví, que aún no había nacido. Por eso el sacerdocio de Cristo es superior al de Aarón. Kline lo resume: «Melquisedec era mayor que Abram, pero la simiente mesiánica de Abram sería mayor que Melquisedec».",
+   "refs": [
+    "He 7:4-10"
+   ],
+   "fuentes": [
+    "dbmh_10#18",
+    "r1_086#47",
+    "r2_077#18",
+    "r1_015#6",
+    "kline_03#66",
+    "macarthur_03#23"
+   ]
+  },
+  {
+   "texto": "El silencio que habla. Melquisedec aparece «como un meteorito» y desaparece igual (Edersheim): no se dice nada de sus padres ni de su muerte, porque el registro calla. Ese silencio apunta al sacerdocio eterno de Cristo, que no depende del linaje sino de quién es Él. Chafer añade que se apoya en su resurrección: por eso puede «salvar perpetuamente».",
+   "refs": [
+    "He 7:3",
+    "He 7:23-25"
+   ],
+   "fuentes": [
+    "edersheim_05#51",
+    "r1_009#31",
+    "r1_009#32",
+    "r2_072#42",
+    "cbmh_07#47"
+   ]
+  },
+  {
+   "texto": "Sale al encuentro antes de la prueba. Melquisedec alimentó y bendijo a Abram justo antes de la oferta del rey de Sodoma. Así obra Cristo: refresca y sostiene a los suyos y da «gracia para el oportuno socorro». Kœchlin lo dice así: «Un corazón saciado por Cristo es el secreto para resistir a las ofertas de Satanás».",
+   "refs": [
+    "He 4:16"
+   ],
+   "fuentes": [
+    "r1_055#87",
+    "r2_077#18",
+    "r1_062#55"
+   ]
+  },
+  {
+   "texto": "Como Jesús en el desierto. La victoria le abría a Abram la posibilidad de poseer la tierra por las armas y las alianzas, sin esperar a Dios, que se demoraba con su promesa. Como Jesús cuando el diablo le ofreció los reinos de la tierra, Abram no escogió ese camino: esperó a Dios y aceptó sus condiciones.",
+   "refs": [
+    "Lc 4:5-8"
+   ],
+   "fuentes": [
+    "cbmh_07#43",
+    "r1_050#5"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Quién era Melquisedec?",
+   "posturas": [
+    {
+     "postura": "Una persona histórica, cuyo sacerdocio Dios usó como tipo (figura anticipada) de Cristo. No era Cristo mismo: Hebreos lo describe «hecho semejante al Hijo de Dios», no como el Hijo.",
+     "quien": "Edersheim y John MacArthur; Kistemaker coincide en que fue una figura histórica",
+     "fuentes": [
+      "edersheim_05#53",
+      "r1_009#25",
+      "r1_013#18",
+      "macarthur_03#23"
+     ]
+    },
+    {
+     "postura": "Probablemente el último representante de la fe de Sem en aquella tierra, que le cede a Abram esa herencia.",
+     "quien": "Edersheim (como opinión propia)",
+     "fuentes": [
+      "edersheim_05#55"
+     ]
+    },
+    {
+     "postura": "Parece una revelación de Jesucristo en el Antiguo Testamento; lo plantea sin dogmatismo.",
+     "quien": "Henrichsen",
+     "fuentes": [
+      "r1_030#47"
+     ]
+    },
+    {
+     "postura": "Verlo como una aparición de Cristo antes de Belén es especulación; y aunque lo fuera, no sería una encarnación.",
+     "quien": "R. C. Sproul",
+     "fuentes": [
+      "r1_086#47",
+      "r2_082#5"
+     ]
+    },
+    {
+     "postura": "Entre los antiguos hubo lecturas muy distintas, desde un ángel (libertador escatológico) hasta una persona histórica; los escritores judíos lo identificaban con Sem, hijo de Noé. MacArthur objeta lo del ángel: el sacerdocio es función humana (He 5:1).",
+     "quien": "Escritores judíos, Rollos del Mar Muerto y cristianos primitivos, según Kistemaker; MacArthur sobre el ángel",
+     "fuentes": [
+      "r1_013#18",
+      "r1_009#25"
+     ]
+    }
+   ],
+   "nota": "Los autores modernos citados coinciden en que Melquisedec apunta a Cristo. MacArthur reconoce que los detalles de su identidad están entre las cosas secretas que pertenecen al Señor."
+  },
+  {
+   "tema": "¿Amrafel es Hammurabi?",
+   "posturas": [
+    {
+     "postura": "Sí: Amrafel de Sinar es Hammurabi.",
+     "quien": "Diccionario Bíblico Mundo Hispano (artículo Elasar)",
+     "fuentes": [
+      "dbmh_06#18"
+     ]
+    },
+    {
+     "postura": "No: Hammurabi vivió siglos después de Abram y hay objeciones lingüísticas.",
+     "quien": "Kline; Livingston (Beacon) también lo cuestiona",
+     "fuentes": [
+      "kline_03#54",
+      "beacon_04#10"
+     ]
+    },
+    {
+     "postura": "Se cree hoy que fue un rey amorreo, a la luz de las tabletas de Mari.",
+     "quien": "Diccionario Bíblico Mundo Hispano (artículo Amorreos)",
+     "fuentes": [
+      "dbmh_02#23"
+     ]
+    },
+    {
+     "postura": "Quedorlaomer y sus tres aliados figuran en una lista de monarcas babilonios.",
+     "quien": "El Sr. Smith, citado por Edersheim",
+     "fuentes": [
+      "edersheim_05#47"
+     ]
+    }
+   ],
+   "nota": "Kline aclara que a estos reyes concretos todavía no se los identificó."
+  },
+  {
+   "tema": "¿Qué significan el pan y el vino?",
+   "posturas": [
+    {
+     "postura": "Comida y bebida para los soldados cansados.",
+     "quien": "Livingston (Beacon); William Perkins, citado por Beeke y Jones",
+     "fuentes": [
+      "beacon_04#18",
+      "r2_067#37"
+     ]
+    },
+    {
+     "postura": "Un acto ceremonial de adoración a Dios y de reconocimiento o alianza mutua.",
+     "quien": "Comentario Bíblico Mundo Hispano",
+     "fuentes": [
+      "cbmh_07#44"
+     ]
+    },
+    {
+     "postura": "Un refrigerio con acción de gracias para quien vive por fe; no un sacrificio.",
+     "quien": "Darby",
+     "fuentes": [
+      "r1_014#45"
+     ]
+    },
+    {
+     "postura": "Figuras del cuerpo y la sangre de Cristo (Wiersbe), quizá de la última cena (Henrichsen se pregunta si lo son), o de la redención lograda por la resurrección (Chafer).",
+     "quien": "Wiersbe, Henrichsen, Chafer",
+     "fuentes": [
+      "r1_055#87",
+      "r1_030#47",
+      "r2_072#42"
+     ]
+    }
+   ],
+   "nota": "El puritano Perkins rechazaba con firmeza el método romano de los cuatro sentidos, que veía aquí la misa."
+  },
+  {
+   "tema": "¿El diezmo de Abram es la medida para hoy?",
+   "posturas": [
+    {
+     "postura": "Sí: dar en la propia congregación, con el diezmo como mínimo establecido por el Señor, por gratitud y apenas se recibe.",
+     "quien": "Comentario Bíblico Mundo Hispano",
+     "fuentes": [
+      "cbmh_07#49"
+     ]
+    },
+    {
+     "postura": "Fue voluntario, quizá una décima de lo mejor, y distinto del diezmo de la ley. Bajo la gracia el Nuevo Testamento no fija un porcentaje, pero dar no es opcional: Abram es modelo en dar lo mejor y libremente.",
+     "quien": "John MacArthur",
+     "fuentes": [
+      "macarthur_03#26",
+      "r1_009#33"
+     ]
+    }
+   ],
+   "nota": "Coinciden en el motivo: la gratitud a Dios."
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "Lot, siendo creyente, gustó del mundo y lo escogió; Abraham lo dejó por la fe y no quiso de él ni un hilo. «Lot estaba bajo el mundo; Abraham tenía un total poder sobre el mundo porque lo había dejado.»",
+   "autor": "J. N. Darby",
+   "obra": "Hebreos (Collected Writings, vol. 27)",
+   "tipo": "aplicacion",
+   "fuentes": [
+    "r1_014#42"
+   ]
+  },
+  {
+   "texto": "Lot siguió a su tío imitándolo, como muchos jóvenes que se apoyan en la fe de otros; la prueba mostró lo que había en su corazón. «Una vez que tomamos voluntariamente un camino resbaladizo, ya no somos dueños de detenernos.»",
+   "autor": "J. Kœchlin",
+   "obra": "Cada día las Escrituras",
+   "tipo": "aplicacion",
+   "fuentes": [
+    "r1_062#53"
+   ]
+  },
+  {
+   "texto": "«La fe nos hace independientes, pero no indiferentes»: la separación verdadera quiere liberar al que quedó enredado. Y quien acepta los subsidios del mundo pierde su independencia: mejor ser «pensionistas de la providencia diaria de Dios» que poseer el oro de Sodoma.",
+   "autor": "Frederick B. Meyer",
+   "obra": "Abraham: la obediencia de la fe",
+   "tipo": "aplicacion",
+   "fuentes": [
+    "r1_050#2",
+    "r1_050#5"
+   ]
+  },
+  {
+   "texto": "«Casi siempre es cierto que Satanás nos tienta inmediatamente después de una gran victoria espiritual», como a Cristo después de su bautismo y a Elías después del Carmelo.",
+   "autor": "Warren W. Wiersbe",
+   "obra": "Bosquejos expositivos de la Biblia",
+   "tipo": "aplicacion",
+   "fuentes": [
+    "r1_055#86"
+   ]
+  },
+  {
+   "texto": "Génesis le dedica a Melquisedec tres versículos; unos mil años después lo retoma el Salmo 110, y otros mil años después Hebreos revela lo que ni Abraham sabía. De ahí concluye que el mismo Dios escribió Hebreos, Génesis y el Salmo 110.",
+   "autor": "John MacArthur",
+   "obra": "Hebreos",
+   "tipo": "apologetica",
+   "fuentes": [
+    "r1_011#13"
+   ]
+  },
+  {
+   "texto": "Para los patriarcas, Dios era el «Dios Altísimo, poseedor de los cielos y de la tierra» (así lo traduce la Valera Moderna que cita Kœchlin); para Israel, Jehová, el que no cambia y es fiel a su pacto. Para los creyentes de hoy, el nombre más precioso es Padre.",
+   "autor": "J. Kœchlin",
+   "obra": "Cada día las Escrituras",
+   "tipo": "doctrina",
+   "fuentes": [
+    "r2_061#51"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Sal 110:4",
+   "nota": "La única otra mención de Melquisedec en el Antiguo Testamento; Jesús citó este salmo.",
+   "fuentes": [
+    "dbmh_11#22",
+    "r1_030#47"
+   ]
+  },
+  {
+   "ref": "He 7:1-10",
+   "nota": "Funciona como comentario de Génesis 14: el nombre, la bendición y el diezmo.",
+   "fuentes": [
+    "r1_030#47",
+    "beacon_04#21",
+    "dbmh_10#18"
+   ]
+  },
+  {
+   "ref": "2 P 2:8",
+   "nota": "Vivir entre quienes no temen a Dios le causaba a Lot tormentos de conciencia diarios.",
+   "fuentes": [
+    "r1_062#53"
+   ]
+  },
+  {
+   "ref": "Gn 19:29",
+   "nota": "Abram volverá a librar a Lot, esta vez con la oración.",
+   "fuentes": [
+    "r1_055#85"
+   ]
+  },
+  {
+   "ref": "Jos 10:1",
+   "nota": "Adonisedec, otro rey de Jerusalén con un nombre parecido, pelea contra Israel; Melquisedec, en cambio, bendijo a Abram.",
+   "fuentes": [
+    "r2_062#6",
+    "r1_013#12"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Separados, pero no indiferentes. Abram no siguió a Lot a Sodoma, pero cuando cayó salió a buscarlo sin preguntar si se lo merecía, y más adelante intercederá por él. ¿Hay alguien cerca de ustedes que necesite que lo vayan a buscar, con hechos y con oración?",
+   "fuentes": [
+    "r1_050#2",
+    "r1_062#54",
+    "r1_055#85",
+    "r2_005#20"
+   ]
+  },
+  {
+   "texto": "Ojo con los pasos chicos. Rara vez el mundo atrapa de golpe: se entra de a poco, como Lot. Revisen juntos hacia dónde los llevan decisiones que parecen menores.",
+   "fuentes": [
+    "r1_055#84",
+    "r1_062#53"
+   ]
+  },
+  {
+   "texto": "Después de la victoria, atentos. La oferta más peligrosa le llegó a Abram cuando le iba bien, y envuelta en generosidad. Desconfíen de lo que los deje en deuda o le quite a Dios la gloria. Y no tomen atajos: «La fe no es tomar por asalto las promesas de Dios, sino esperar a recibirlas de su mano bondadosa.»",
+   "fuentes": [
+    "r1_050#4",
+    "r1_055#86",
+    "macarthur_03#27",
+    "cbmh_07#39"
+   ]
+  },
+  {
+   "texto": "Dar con gratitud. Abram dio enseguida, por propia voluntad y de lo mejor, porque sabía que la victoria venía de Dios. Piensen juntos cómo dar en su iglesia: no lo que sobra, sino lo mejor.",
+   "fuentes": [
+    "cbmh_07#48",
+    "cbmh_07#49",
+    "r1_009#33"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "Lot fue llegando a Sodoma paso a paso. ¿Qué decisiones chicas de nuestra vida de pareja (amistades, trabajo, pantallas, gastos) nos podrían ir llevando de a poco adonde no queremos terminar?",
+  "Abram salió a rescatar a un sobrino que había elegido mal, sin preguntar si se lo merecía. ¿A quién de nuestras familias o amigos podemos acompañar o sostener en oración esta semana?",
+  "Abram dio el diezmo con gratitud y le dijo que no a una ganancia que lo comprometía. ¿Qué lugar tienen la gratitud y el dar en cómo manejamos la plata juntos? ¿Hay algo que hoy nos ata y deberíamos soltar?"
+ ],
+ "para_orar": "Señor, Dios Altísimo, creador de los cielos y de la tierra: gracias porque nuestras victorias vienen de tu mano. Gracias por Jesús, nuestro Rey de justicia y de paz, que sale a nuestro encuentro y nos sostiene. Llena nuestro corazón con tu pan y tu bendición, para que podamos decirle que no a todo lo que nos ata. Danos amor para salir a buscar a los que se alejaron, y gratitud para darte lo mejor. Amén.",
+ "profundizar": [
+  {
+   "titulo": "¿Dónde fue el encuentro con Melquisedec?",
+   "texto": "Kline identifica Salem con Jerusalén (Sal 76:2). Considera incierta la ubicación del Valle del Rey, aunque se supone que estaba cerca de la ciudad, y tampoco da por seguro que el episodio ocurriera allí. Livingston (Beacon) sugiere que el valle de Save era posiblemente el del Cedrón. Edersheim cree que este encuentro le dio nombre al valle, donde más adelante Absalón se levantó una columna (2 S 18:18). La tradición samaritana, en cambio, ubica el encuentro en una Salem cercana al monte Gerizim; el Diccionario Mundo Hispano solo la registra.",
+   "fuentes": [
+    "kline_03#64",
+    "beacon_04#17",
+    "edersheim_05#50",
+    "dbmh_07#29"
+   ]
+  },
+  {
+   "titulo": "Abram, ¿un «habiru»?",
+   "texto": "En textos del Cercano Oriente del segundo milenio aparecen los habiru, al parecer militares profesionales. Hay una teoría que los identifica con los hebreos y que leería «el hebreo» de 14:13 en sentido profesional. Kline la expone, pero dice que no tiene sustento suficiente y que la equivalencia fonética es muy problemática; prefiere el sentido étnico: descendiente de Heber.",
+   "fuentes": [
+    "kline_03#60"
+   ]
+  },
+  {
+   "titulo": "Nombres de una época posterior",
+   "texto": "La ciudad de Dan recién recibió ese nombre en tiempos de los jueces (Jue 18:29). El Comentario Mundo Hispano lo toma como un nombre posterior que marca el extremo norte de la tierra prometida; para Livingston (Beacon), implica que el versículo se ubicó después de la época de Moisés. Con los amalecitas pasa algo parecido: para MacArthur no existían todavía en tiempos de Abram (cf. 36:12), pero sí cuando Moisés escribía. El Diccionario Mundo Hispano, en cambio, los ubica en el Néguev desde la época de Abraham y toma este versículo como su primera mención.",
+   "fuentes": [
+    "beacon_01#6",
+    "cbmh_07#42",
+    "macarthur_03#16",
+    "dbmh_01#28"
+   ]
+  },
+  {
+   "titulo": "Pueblos y lugares de la campaña",
+   "texto": "Quedorlaomer significa «siervo de (la diosa) Lakamar», y Goim, «naciones», quizá un grupo de ciudades de Asia Menor federadas bajo Tidal. El Diccionario identifica Elasar con Larsa; para Kline su identidad es incierta. Los refaítas vivían en Basán, región fértil al este del mar de Galilea; Og, su último rey, cayó ante Israel. Los zuzitas pueden ser los zomzoneos de Deuteronomio 2:20. Los horeos, primeros habitantes de Seir, serían los hurrianos, y después los edomitas los desalojaron. Parán es un desierto en el centro del Sinaí, cruzado por una ruta comercial importante. Cades (En-mispat) será el oasis clave del peregrinaje de Israel: desde allí salieron los doce espías y allí murió María. Bela, que se salvó de la destrucción por la intercesión de Lot, se llamó después Zoar («pequeña»). Livingston sugiere un motivo económico para la campaña: el cobre cercano a la región de los horeos.",
+   "fuentes": [
+    "kline_03#53",
+    "kline_03#55",
+    "dbmh_06#18",
+    "dbmh_03#21",
+    "dbmh_19#7",
+    "dbmh_08#24",
+    "dbmh_13#25",
+    "dbmh_04#21",
+    "dbmh_04#22",
+    "dbmh_03#20",
+    "dbmh_19#6",
+    "beacon_04#14"
+   ]
+  },
+  {
+   "titulo": "El rey de Sodoma: ¿el mismo u otro?",
+   "texto": "Edersheim entiende que dos de los reyes cananeos murieron en la batalla y que quien sale a recibir a Abram es un rey nuevo de Sodoma, porque el anterior había caído. Meyer piensa que probablemente era el mismo, que no fue capturado sino que huyó a los cerros. Meyer también ve una lección en la derrota de la llanura: «la corrupción social mostró ser el presagio de la derrota política».",
+   "fuentes": [
+    "edersheim_05#45",
+    "edersheim_05#49",
+    "r1_050#4",
+    "r1_050#1"
+   ]
+  },
+  {
+   "titulo": "Abram, jefe de un pequeño ejército",
+   "texto": "Con el tiempo Abram llegó a ser lo que los árabes llaman un jeque: un jefe con tiendas, ganado y cientos de hombres. Vernon McGee calcula que, si cada uno de los 318 tenía esposa y al menos un hijo, unas mil personas estaban a su servicio; y señala que, queriendo rescatar solo a Lot, rescató también a los de Sodoma. Geisler y Howe recuerdan que la Biblia no enseña un pacifismo total: Abram fue bendecido por el Dios Altísimo después de pelear contra una agresión injusta. El Beacon lee Isaías 41:2 («¿quién despertó del oriente al justo?») como una referencia a Abraham, a quien Dios dio poder para vencer reyes.",
+   "fuentes": [
+    "edersheim_11#11",
+    "r1_012#35",
+    "r2_027#17",
+    "r2_004#1"
+   ]
+  },
+  {
+   "titulo": "Un plan desde el principio",
+   "texto": "Para John MacArthur, que Dios dejara de lado el sacerdocio de Aarón no fue un accidente: apenas llamó a Abram, y antes de hacer pacto con él, le presentó a Melquisedec, sacerdote de un orden mayor. Edersheim ve aquí el umbral entre dos etapas: el pacto con Noé se fundía con el de Abram. Así como Juan dio testimonio de Jesús y aun así lo bautizó, Melquisedec dio testimonio de Abram y aun así recibió sus diezmos. El Diccionario Mundo Hispano, en su entrada «Prosélitos», pone a Melquisedec entre los no israelitas que adoraban al Dios verdadero, como Job, Rut o Naamán.",
+   "fuentes": [
+    "r2_017#30",
+    "edersheim_05#54",
+    "dbmh_14#9"
+   ]
+  },
+  {
+   "titulo": "Para estar más alto que el que se cae",
+   "texto": "Meyer sostiene que los que viven separados para Dios actúan con más rapidez y éxito cuando llega la hora: Lot, instalado en Sodoma, no pudo evitar el ataque ni elevar su carácter moral; Abraham, desde las colinas, sí pudo enfrentar al tirano. Rechaza la idea de que hay que vivir al nivel del mundo para salvar a otros, y la ilustra con la palanca de Arquímedes, que necesita un punto de apoyo fuera del mundo: «Si quieres elevarme tienes que estar en un nivel más alto que el mío».",
+   "fuentes": [
+    "r1_050#3"
+   ]
+  },
+  {
+   "titulo": "Lo que deja Abraham a las generaciones",
+   "texto": "El Comentario Mundo Hispano resume lo que aporta la vida de Abraham: Dios es soberano y autor de un pacto, y llega a ser conocido como «el Dios de Abraham»; por medio de él revela su plan de salvación; sus promesas se cumplen en las generaciones siguientes; y por la fe se puede llegar a ser amigo de Dios (2 Cr 20:7). Henrichsen agrega, a partir de Leví, que «diezmó» en su bisabuelo: lo que uno es y hace repercute en sus descendientes.",
+   "fuentes": [
+    "cbmh_07#53",
+    "r1_030#48"
+   ]
+  }
+ ],
+ "notas_no_usadas": "Quedaron afuera, por marginales o repetidas: dbmh_19#8 (solo consigna citas, sin datos); dbmh_03#18 (Arioc es distinto del de Daniel); dbmh_03#19 (Bera, «regalo»); dbmh_18#17 (Zeboim); dbmh_04#20 (Cam, ciudad de los zuzitas); dbmh_16#26 (Sidim como campo de batalla, repite otras notas); dbmh_02#24, dbmh_06#20 y dbmh_11#19 (significado de los nombres de Aner, Escol y Mamre: dato menor); dbmh_18#18 (yayin, vino como bebida común: dato menor que no cambia la lectura); r2_050#66 (Tony Evans: la oración sobre Jehová El Elión inspiró «para orar», pero no se cita); r1_035#44 (Moody: coincide con Kœchlin y Wiersbe y su idea ya está en el estudio; se quitó de «para vivir» porque el texto no la usa). Se sumó cbmh_07#46 (Melquisedec fue sacerdote para los cananeos y para Abram) que el borrador no citaba, y dbmh_04#24 (el diezmo fue del botín)."
+}

@@ -1,0 +1,438 @@
+[
+ {
+  "ventana": 1,
+  "dia": 2,
+  "campo": "contexto.despues",
+  "tipo": "cronologia",
+  "problema": "El día 2 dice que el «bueno en gran manera» de 1:31 «anticipa» el «no es bueno» de 2:18. Según el día 3, el «no es bueno» ocurre dentro del sexto día y ANTES de que la obra pueda declararse muy buena (falta la mujer). El día 2 invierte el orden y deja al lector sin entender cómo un «bueno» puede anticipar un «no es bueno».",
+  "resultado": "aplicado",
+  "antes": "El «bueno en gran manera» de hoy ya anticipa el «no es bueno» de 2:18.",
+  "despues": "Ese regreso al sexto día muestra que el «no es bueno» de 2:18 llega antes del «bueno en gran manera» de hoy: al hombre todavía le faltaba la mujer."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "secciones[3].notas[2]",
+  "tipo": "contradiccion",
+  "problema": "El día 5 afirma sin atribución que la muerte física no llegó el día de la caída. El día 4 cita a Edersheim diciendo que ese día «el hombre murió en cuerpo, alma, y espíritu», y el día 3 atribuye la postura contraria (muerte espiritual ese día y física después, 5:5) a MacArthur. Son dos posturas de fuentes distintas presentadas como si una fuera un hecho y la otra no existiera.",
+  "resultado": "descartado: Descartada. «La muerte física no llegó ese día» se apoya en un dato del texto que el día 5 ya cita (Adán vivió 930 años, 5:5, en contexto.cuando), así que no es una opinión que haya que atribuir. El reemplazo lo convierte en postura de MacArthur y le atribuye también «quedó asegurada», que es del propio día 5 y no figura en el día 3. Además enfrenta con «en cambio» a Edersheim, cuya frase «murió en cuerpo, alma, y espíritu» puede leerse como el comienzo de la muerte. Esa oposición es una inferencia que el estudio no hace. Es una diferencia entre fuentes que no llega a confundir, y ante la duda queda real=false."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "contexto.antes",
+  "tipo": "continuidad",
+  "problema": "El «antes» del día 5 dice que el interrogatorio abarca 3:8-13, pero el día 4 separa 3:8 (Dios llega y ellos se esconden) del interrogatorio de Dios, que cubre 3:9-13. Además el día 4 dice que se esconden los dos, mientras el día 5 dice que solo «Adán se escondió».",
+  "resultado": "aplicado",
+  "antes": "y Adán se escondió de Dios, que lo llamó: «¿Dónde estás tú?» (3:9). Siguió un interrogatorio (3:8-13)",
+  "despues": "y los dos se escondieron de Dios (3:8), que llamó a Adán: «¿Dónde estás tú?» (3:9). Así empezó el interrogatorio (3:9-13)"
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "panorama",
+  "tipo": "repeticion",
+  "problema": "El panorama del día 5 repite casi palabra por palabra el del día 4: «uno de los capítulos más importantes», el origen de las relaciones torcidas con Dios, los demás, el universo y uno mismo, y el contraste del clima de paz del capítulo 2 con la duda, el temor y la ira. Es la misma explicación en dos días seguidos.",
+  "resultado": "descartado: Descartada. Es redundancia de estilo, no un problema que confunda. Cada día lleva su panorama y ese panorama tiene que sostenerse solo, porque el día 5 trata el mismo capítulo 3. El reemplazo recorta contenido, quita el contraste con el capítulo 2 que prepara el «Pero Dios no se queda callado» siguiente, y no corrige ningún error de continuidad."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "secciones[4].notas[1]",
+  "tipo": "repeticion",
+  "problema": "La primera oración repite la idea que el día 4 ya desarrolló sobre los delantales de higuera: es un esfuerzo propio que no alcanza y la vergüenza no se tapa con recursos humanos. Lo nuevo del día 5 es que Dios los viste.",
+  "resultado": "descartado: Descartada. La repetición no confunde al lector: la frase sobre las hojas de higuera es el contraste que da sentido a «Dios los vistió». Sin ella la nota deja de entenderse por sí sola. No hay contradicción ni dato mal puesto, solo un recordatorio breve que conviene conservar."
+ },
+ {
+  "ventana": 2,
+  "dia": 7,
+  "campo": "contexto.despues",
+  "tipo": "continuidad",
+  "problema": "El «después» dice que en Génesis 6 «viene el diluvio» y que Noé «es preservado con su familia», pero el día siguiente (Gn 6:1-22) solo trae la corrupción, el anuncio del juicio y la orden de construir el arca. El diluvio llega en Gn 7 (día 9). El lector espera el diluvio mañana y no lo encuentra.",
+  "resultado": "descartado: El texto_actual figura exacto en día 7 contexto.despues, pero no es un problema que confunda. Es un resumen del arco de Gn 6, donde Dios anuncia el diluvio y le promete a Noé que se salvará con su familia (6:17-18). «Viene» se lee como anuncio, y el día 8 aclara que el diluvio llega en el capítulo 7. Es una imprecisión de estilo, no una contradicción. Con duda, se deja como está."
+ },
+ {
+  "ventana": 2,
+  "dia": 9,
+  "campo": "secciones[0].notas[1]",
+  "tipo": "repeticion",
+  "problema": "Explica que «justo» no significa sin pecado, la misma idea que el día 8 ya desarrolló en secciones[2].notas[1] («Que se lo llame justo no significa que no tuviera pecado...»). Dos días seguidos con la misma aclaración sobre el mismo término.",
+  "resultado": "descartado: El texto_actual es exacto, pero la repetición no confunde. El día 9 responde al «justo» de 7:1 y sumá algo que el día 8 no dice: la comparación con Job y el punto de que nadie guarda los mandamientos a la perfección y todos necesitamos un Salvador. El reemplazo borra ese contenido evangélico y deja solo una remisión al día 8. Retomar una aclaración clave dos días después es refuerzo, no defecto."
+ },
+ {
+  "ventana": 2,
+  "dia": 10,
+  "campo": "contexto.despues",
+  "tipo": "continuidad",
+  "problema": "El «después» dice que Noé ofrece el sacrificio «junto con toda su familia», pero el día 11 (8:20–9:17) presenta a Noé como único actor: edifica el altar, toma los animales y ofrece los holocaustos. Ninguna nota del día 11 dice que la familia ofreciera con él.",
+  "resultado": "aplicado",
+  "antes": "Noé ofrece sacrificio junto con toda su familia, Dios renueva sobre él la bendición",
+  "despues": "Noé ofrece sacrificio, Dios renueva sobre él y sus hijos la bendición"
+ },
+ {
+  "ventana": 3,
+  "dia": 12,
+  "campo": "contexto.despues",
+  "tipo": "continuidad",
+  "problema": "El «después» del día 12 dice que los descendientes de Canaán son «el centro de atención principal» de Génesis 10. El día 13 muestra otra cosa: la lista es selectiva, cierra primero a Jafet y a Cam, y deja para el final a Sem, la línea que la revelación sigue. Canaán es solo una de siete secciones (10:13-20), dentro de Cam.",
+  "resultado": "aplicado",
+  "antes": "Los descendientes de Canaán pasan a ser allí el centro de atención principal: son los antiguos habitantes de la tierra que Dios prometería a Abraham (10:15-20).",
+  "despues": "Los descendientes de Canaán aparecen allí entre los de Cam: son los antiguos habitantes de la tierra que Dios prometería a Abraham (10:15-20)."
+ },
+ {
+  "ventana": 3,
+  "dia": 15,
+  "campo": "secciones[1].notas[0]",
+  "tipo": "contradiccion",
+  "problema": "La nota dice que hasta ahora Dios «solo» había intervenido para frenar al hombre, como en el diluvio y en Babel, y que «ahora» interviene «en persona y con misericordia». Eso contradice lo que dicen los días anteriores. El día 14 presenta Babel como «juicio, pero con misericordia» y dice que Dios «actuó en persona» (descendió). El día 11 muestra al Dios del diluvio salvando a Noé y haciendo un pacto de misericordia.",
+  "resultado": "aplicado",
+  "antes": "Hasta ahora solo había intervenido, como en el diluvio y en Babel, para frenar los intentos del hombre contra sus propósitos de misericordia. Ahora interviene en persona y con misericordia: deja que el mal siga su curso, pero llama a un hombre para que se separe de él.",
+  "despues": "Hasta ahora había intervenido sobre todo para frenar los intentos del hombre contra sus propósitos de misericordia, como en el diluvio y en Babel. Ahora interviene para elegir a un hombre: deja que el mal siga su curso, pero lo llama para que se separe de él."
+ },
+ {
+  "ventana": 3,
+  "dia": 15,
+  "campo": "panorama",
+  "tipo": "contradiccion",
+  "problema": "El panorama dice que Dios vuelve a intervenir «pero esta vez con misericordia». Eso sugiere que Babel no la tuvo. El día 14 dice expresamente que Babel fue «un juicio que también es misericordia» y que «aun después de Babel hay gracia».",
+  "resultado": "aplicado",
+  "antes": "pero esta vez con misericordia",
+  "despues": "ahora no para frenar sino para elegir"
+ },
+ {
+  "ventana": 4,
+  "dia": 17,
+  "campo": "contexto.antes",
+  "tipo": "error_texto",
+  "problema": "El nombre de la esposa de Abram aparece como «Sara», pero en este tramo del relato (capítulos 12 a 16, días 16 a 20) se llama Sarai. Solo recibe el nombre Sara en el capítulo 17 (día 21, donde se explica el cambio). Además, «regalos dados por Sara» sugiere que los dio ella, cuando el día 16 explica que los regalos los dio el faraón por causa de Sarai.",
+  "resultado": "aplicado",
+  "antes": "dados por Sara",
+  "despues": "dados por causa de Sarai"
+ },
+ {
+  "ventana": 4,
+  "dia": 21,
+  "campo": "secciones[0].notas[0]",
+  "tipo": "repeticion",
+  "problema": "Esta nota repite casi palabra por palabra la última nota del día 20 (secciones[5].notas[2]): los trece años sin revelación, la prueba muy dolorosa para la fe de Abram según Edersheim, y la idea de que toda esperanza humana tenía que desaparecer para que el heredero fuera el hijo de la promesa. El día 20 también cierra con esa misma explicación en su panorama.",
+  "resultado": "aplicado",
+  "antes": "Según Edersheim, esos trece años, en los que al parecer no hubo ninguna revelación de Dios, fueron una prueba muy dolorosa para la fe de Abram. Toda esperanza humana tenía que quedar barrida para que el heredero fuera, en el sentido más pleno, el hijo de la promesa.",
+  "despues": "Como vieron ayer, para Edersheim esos trece años, en los que al parecer no hubo ninguna revelación de Dios, fueron una prueba muy dolorosa para la fe de Abram."
+ },
+ {
+  "ventana": 5,
+  "dia": 25,
+  "campo": "secciones[1].notas[2]",
+  "tipo": "repeticion",
+  "problema": "La idea de que Dios permitió salidas alternativas (montaña o ciudad pequeña) pero no hace concesiones en la obediencia ya se desarrolló ayer, casi con las mismas palabras, en la nota sobre Zoar. Repetirla igual al día siguiente es redundante.",
+  "resultado": "descartado: El texto actual figura tal cual, pero es una resonancia deliberada entre días, no un error que confunda: el día 25 aplica la misma enseñanza al caso de la mujer de Lot. El reemplazo empeora la nota. Pierde la cita entre comillas y el «le dejó» queda ambiguo (en esa nota podría leerse como la mujer de Lot, cuando las salidas alternativas fueron para Lot). Ante la duda, no se toca."
+ },
+ {
+  "ventana": 5,
+  "dia": 25,
+  "campo": "secciones[2].notas[3]",
+  "tipo": "repeticion",
+  "problema": "La afirmación de que el juicio y el papel de Abraham se vuelven norma en la relación de Dios con su pueblo y su iglesia ya estaba casi textual en el panorama del día 24. El día 25 la repite como si fuera nueva.",
+  "resultado": "descartado: Es una repetición temática parcial, no una contradicción que confunda al lector. La oración del día 25 agrega algo que el panorama del día 24 no dice: el papel de Abraham como profeta que intercede. El reemplazo borra esa idea y la mención de la iglesia, y «todo esto» queda vago. Empobrece el texto sin arreglar un problema real."
+ },
+ {
+  "ventana": 5,
+  "dia": 23,
+  "campo": "contexto.antes",
+  "tipo": "repeticion",
+  "problema": "El «antes» repite casi literalmente la frase del panorama del día 22, con la misma valoración («una de las teofanías más bellas e instructivas de la Biblia») y la misma definición entre paréntesis. Ya se explicó ayer y no hace falta volver a definirla.",
+  "resultado": "descartado: Recapitular en «antes» lo visto el día anterior es normal y no confunde. Es redundancia menor, no error de continuidad. Además el reemplazo deja una aposición torpe («acompañado de dos ángeles, la teofanía que vieron ayer») y borra la valoración que da sentido a la recapitulación. Ante la duda, no se toca."
+ },
+ {
+  "ventana": 5,
+  "dia": 25,
+  "campo": "contexto.antes",
+  "tipo": "cronologia",
+  "problema": "Dice que Abraham intercedió «la noche anterior», pero según los días 22 a 24 la intercesión fue de día, justo después de la visita del mediodía. Los ángeles llegaron a Sodoma «al caer la tarde», poco después de dejar a Abraham, y la noche la pasaron en Sodoma. Abraham ya había terminado de interceder antes de que cayera la noche.",
+  "resultado": "aplicado",
+  "antes": "La noche anterior, Abraham había intercedido ante Jehová por las ciudades (cap. 18).",
+  "despues": "El día anterior, Abraham había intercedido ante Jehová por las ciudades (cap. 18)."
+ },
+ {
+  "ventana": 5,
+  "dia": 25,
+  "campo": "secciones[2].notas[0]",
+  "tipo": "cronologia",
+  "problema": "Repite que Abraham había rogado ante Jehová «la noche anterior». Eso choca con la cronología de los días 22 a 24, donde la intercesión ocurre de día, antes de que los ángeles lleguen a Sodoma al caer la tarde.",
+  "resultado": "aplicado",
+  "antes": "donde la noche anterior había rogado ante Jehová",
+  "despues": "donde el día anterior había rogado ante Jehová"
+ },
+ {
+  "ventana": 6,
+  "dia": 26,
+  "campo": "secciones[3].notas[0]",
+  "tipo": "contradiccion",
+  "problema": "El día 26 da mil monedas de plata como «unos 11 kilos» (equivale a un siclo de unos 11 g). El día 30 dice que todavía no había monedas y que el siclo pesaba unos 14,4 g, lo que daría unos 14 kilos. Dos equivalencias distintas para la misma unidad, sin aclarar que difieren según la fuente.",
+  "resultado": "descartado: La contradiccion depende de una inferencia que el estudio no hace: el dia 26 nunca dice que esas mil monedas sean siclos, asi que no hay dos pesos incompatibles para la misma unidad dentro del texto. El reemplazo ademas agrega una referencia hacia adelante (dia 30), que el lector aun no leyo, y afirma que la diferencia es 'segun la fuente', cosa que el estudio no establece. Ante la duda, no es un problema probado."
+ },
+ {
+  "ventana": 6,
+  "dia": 30,
+  "campo": "secciones[3].notas[2]",
+  "tipo": "contradiccion",
+  "problema": "Dice que lo primero que Abraham poseyó en Canaán fue una tumba y que las únicas tierras de los patriarcas fueron sepulturas. El día 28 muestra a Abraham con un pozo propio en Beerseba. El rey reconoce su derecho al pozo que él cavó, y la nota recuerda que las fuentes de agua eran propiedad privada aceptada. Quedan dos afirmaciones incompatibles sobre qué poseyó primero.",
+  "resultado": "descartado: La nota habla de tierras (el versiculo y la frase anterior son sobre tierra prometida), y un pozo cavado no es un pedazo de tierra: el lector no lo lee como contradiccion con el dia 28. El reemplazo ademas altera lo que dice la fuente ('que los patriarcas compraron') y suma interpretacion propia en un parentesis ('derecho al agua... no una compra de tierra') que el estudio no formula asi."
+ },
+ {
+  "ventana": 6,
+  "dia": 30,
+  "campo": "contexto.ahora",
+  "tipo": "contradiccion",
+  "problema": "Afirma que por primera vez un pedazo de la tierra prometida pasa a ser de Abraham. Eso choca con el día 28, donde el pozo de Beerseba, cavado por él, se le reconoce como suyo por pacto con Abimelec.",
+  "resultado": "descartado: La frase habla de un 'pedazo de la tierra prometida', es decir, de terreno. El pozo de Beerseba (dia 28) es un derecho sobre una fuente de agua, no un pedazo de tierra, asi que no choca. No hace falta el agregado de 'por compra y con titulo legal'."
+ },
+ {
+  "ventana": 6,
+  "dia": 30,
+  "campo": "panorama",
+  "tipo": "contradiccion",
+  "problema": "Dice que lo primero que Abraham posee de la tierra prometida es una tumba, sin distinguir la compra legal de lo que ya tenía en Beerseba (el pozo reconocido por pacto en el día 28).",
+  "resultado": "descartado: Lo que posee 'de la tierra prometida' es terreno, y en eso la tumba es lo primero; el pozo del dia 28 no es tierra. No hay contradiccion que confunda al lector, y el cambio a 'adquiere por compra' es innecesario."
+ },
+ {
+  "ventana": 6,
+  "dia": 30,
+  "campo": "contexto.donde",
+  "tipo": "continuidad",
+  "problema": "Dice que Hebrón es donde vivía entonces Abraham. El día 29 termina con Abraham regresando a Beerseba y habitando allí, y el propio día 30 cuenta que «vino» a hacer duelo por Sara. El cambio de lugar queda sin explicar y parece contradicción.",
+  "resultado": "aplicado",
+  "antes": "donde vivía entonces Abraham",
+  "despues": "donde murió Sara y adonde Abraham «vino» a hacer duelo (v. 2); él había vuelto a habitar en Beerseba al regresar de Moriah (día 29)"
+ },
+ {
+  "ventana": 7,
+  "dia": 36,
+  "campo": "secciones[0].notas[0]",
+  "tipo": "contradiccion",
+  "problema": "La nota dice que Isaac sale de Beerseba, pero el día 34 lo ubica junto al pozo del Viviente-que-me-ve (25:11), y el propio «después» del día 36 dice que Isaac «seguirá hasta Beerseba» (v. 23), como destino futuro. Beerseba figura a la vez como lugar de partida y de llegada.",
+  "resultado": "aplicado",
+  "antes": "Isaac sale de Beerseba y piensa, con toda naturalidad, en seguir a su padre hasta Egipto",
+  "despues": "Isaac deja el lugar donde vivía (junto al pozo del Viviente-que-me-ve, 25:11) y piensa, con toda naturalidad, en seguir a su padre hasta Egipto"
+ },
+ {
+  "ventana": 7,
+  "dia": 33,
+  "campo": "secciones[1].notas[1]",
+  "tipo": "repeticion",
+  "problema": "La observación de Edersheim sobre el criado («muy parecido a su amo: digno y honrado en su propósito») y el dato de que ni persuasiones ni súplicas lo hicieron prolongar su estadía ya se desarrollaron casi con las mismas palabras el día 32 (secciones[1].notas[2]). Se repite el mismo contenido dos días seguidos.",
+  "resultado": "descartado: El texto_actual figura exacto y el día 32 (secciones[1].notas[2]) dice algo muy parecido, pero es redundancia y no confunde ni contradice. El día 32 adelanta lo que el día 33 narra (vv. 54-56), y la nota del día 33 está en el lugar donde ocurre el hecho. El reemplazo borra el matiz «digno y honrado en su propósito» y agrega una referencia meta («como vieron ayer»). Se pierde contenido por un beneficio mínimo, así que se deja como está."
+ },
+ {
+  "ventana": 7,
+  "dia": 31,
+  "campo": "secciones[0].notas[2]",
+  "tipo": "continuidad",
+  "problema": "La nota cita el v. 67 como el pasaje donde el criado sirve lealmente al heredero. Según el día 33, el v. 67 trata de Isaac llevando a Rebeca a la tienda de Sara. La lealtad del criado hacia Isaac aparece en los vv. 65-66: lo llama «mi señor» (v. 65) y le cuenta todo lo que había hecho (v. 66).",
+  "resultado": "aplicado",
+  "antes": "sirvió lealmente a su amo y al propio heredero (v. 67)",
+  "despues": "sirvió lealmente a su amo y al propio heredero (vv. 65-66)"
+ },
+ {
+  "ventana": 8,
+  "dia": 37,
+  "campo": "contexto.antes",
+  "tipo": "continuidad",
+  "problema": "El día 36 termina con dos disputas por pozos (Esek y Sitna, donde Isaac cede) y un tercero, Rehobot, sin disputa. El «antes» del día 37 dice que Isaac reabrió pozos «sin disputar» y que «la hostilidad no cesó». Eso borra las disputas y choca con el final en paz del día 36.",
+  "resultado": "aplicado",
+  "antes": "Isaac reabrió pozos uno tras otro sin disputar, pero la hostilidad no cesó y terminó alejándose de Gerar.",
+  "despues": "Isaac reabrió los pozos de Abraham y cavó otros; cedió ante las disputas por Esek y Sitna y llegó a Rehobot, donde nadie le discutió. Aun así, empujado por la hostilidad de los filisteos, dejó Gerar."
+ },
+ {
+  "ventana": 8,
+  "dia": 39,
+  "campo": "contexto.donde",
+  "tipo": "contradiccion",
+  "problema": "El día 39 ubica a Labán en Harán «hacia lo que hoy es la moderna Siria». El día 41 dice que Harán queda en territorio de los arameos «hoy Turquía». Dos días seguidos dan una ubicación moderna distinta para el mismo lugar, sin aclarar la diferencia.",
+  "resultado": "descartado: El texto_actual figura exacto, pero el reemplazo fabrica una armonización, «Siria y Turquía», que ninguna fuente del estudio afirma. Además, «(ver día 41)» en el día 39 es una remisión hacia adelante poco natural. El día 41 trae Livingston ubicando Harán hacia Damasco, así que las referencias geográficas dependen de las fuentes. Resolver esa discrepancia exige elegir entre ellas o agregar un dato. Como el día 39 puede leerse como la dirección del viaje y no como la ubicación exacta de Harán, no es un error claro que confunda al lector. Se deja sin cambios."
+ },
+ {
+  "ventana": 8,
+  "dia": 41,
+  "campo": "contexto.cuando",
+  "tipo": "cronologia",
+  "problema": "El día 41 dice que Jacob «ya pasaba los cuarenta años» sin aclarar que es una sola postura. El día 38 (Edersheim y MacArthur) calcula que Jacob tenía 77 cuando recibió la bendición y salió de casa. La frase siguiente del día 41 (97 años desde que Rebeca dejó esa casa, según MacArthur) también supone los 77. El lector no sabe si Jacob tenía unos 40 años o 77.",
+  "resultado": "aplicado",
+  "antes": "Jacob ya pasaba los cuarenta años (Comentario Bíblico Mundo Hispano, a partir de 26:34).",
+  "despues": "Jacob ya había pasado los cuarenta años (Comentario Bíblico Mundo Hispano, a partir de 26:34); Edersheim y MacArthur, a partir de las edades de José y de Jacob, calculan que tenía 77 (ver día 38)."
+ },
+ {
+  "ventana": 8,
+  "dia": 39,
+  "campo": "secciones[0].notas[3]",
+  "tipo": "repeticion",
+  "problema": "El día 38 (secciones[0].notas[2]) ya explicó la misma idea de Edersheim: Isaac, con sus afectos naturales, cuestiona de nuevo lo que Dios ya estableció («tentar a Dios»). El día 39 la repite casi igual: el llamamiento claro de Jacob y los afectos naturales de Isaac en la balanza.",
+  "resultado": "descartado: El texto_actual figura exacto, pero una idea que reaparece en el día siguiente como recordatorio no confunde al lector, así que no es un problema de continuidad. El reemplazo empeora el texto: «un llamamiento tan claro como el de Jacob» es incoherente, porque habla del propio llamamiento de Jacob como si fuera el de otro. También elimina la explicación de por qué Isaac los trataba como derechos ineludibles, que prepara la cita de Edersheim que sigue."
+ },
+ {
+  "ventana": 8,
+  "dia": 39,
+  "campo": "panorama",
+  "tipo": "repeticion",
+  "problema": "El panorama del día 39 reproduce casi igual la imagen del escritor alemán citado por Edersheim sobre los hilos de la historia, que el día 38 ya desarrolló en secciones[5].notas[0]. Es la misma explicación en dos días seguidos, y el día 39 no la desarrolla en ninguna nota.",
+  "resultado": "descartado: El texto_actual figura exacto en el panorama del día 39. El panorama cierra con una idea ya vista como recapitulación, lo cual es normal en un estudio diario y no confunde al lector. El reemplazo quita la atribución de la cita (Edersheim y el escritor alemán), con lo que pasa a leerse como afirmación propia del estudio, y deforma la imagen original. No justifica el cambio."
+ },
+ {
+  "ventana": 9,
+  "dia": 43,
+  "campo": "contexto.despues",
+  "tipo": "contradiccion",
+  "problema": "El día 43 dice, sin atribuir a nadie, que Jacob se va 'por su seguridad'. El panorama del día 44 sostiene, citando a Kline y al Comentario Mundo Hispano, que lo que lo movió no fue la hostilidad sino la palabra de Dios. El día 44 también muestra que Dios le ordena volver (31:3, 13). Lo que sigue al día 43 queda anunciado con un motivo que el día siguiente desmiente.",
+  "resultado": "aplicado",
+  "antes": "y Jacob siente que tiene que irse por su seguridad. En el capítulo 31 les cuenta a sus esposas que Dios lo instruyó en la selección del ganado, y huye de Labán.",
+  "despues": "y en el capítulo 31 Dios le ordena volver a Canaán. Jacob les cuenta a sus esposas que Dios lo instruyó en la selección del ganado, y parte a escondidas de Labán."
+ },
+ {
+  "ventana": 9,
+  "dia": 44,
+  "campo": "secciones[4].notas[1]",
+  "tipo": "repeticion",
+  "problema": "La frase final repite casi igual la explicación del día 43 (nota sobre «he adivinado»): la familia estaba lejos del monoteísmo de Abraham, definido otra vez como 'la fe en un solo Dios', y en las aldeas del valle del Éufrates se veneraba la magia.",
+  "resultado": "descartado: El texto figura exacto, pero es un refuerzo de un día a otro, no una confusión ni una contradicción. Cada día se lee por separado. El reemplazo borra la definición de monoteísmo y la referencia al valle del Éufrates, que ayudan a quien lee este día solo. «Como vieron el día 43» agrega un estilo de referencia cruzada que el estudio no usa así."
+ },
+ {
+  "ventana": 9,
+  "dia": 45,
+  "campo": "secciones[1].notas[1]",
+  "tipo": "repeticion",
+  "problema": "La nota vuelve a explicar con casi las mismas palabras lo que el día 44 ya desarrolló sobre los terafim: figurillas pequeñas, comparadas con muñecas, usadas para adivinar y como prueba de derechos de herencia y propiedad. El día 44 lo dice en dos notas, la de las figurillas y la de las tabletas de adopción.",
+  "resultado": "descartado: El texto figura exacto, pero la nota no confunde. Re-explica los terafim con detalle propio de este día (forma humana, tamaño de muñeca, cultura sumeria) y sostiene la pena extrema del v. 32 que sigue. El reemplazo borra «imágenes pequeñas con forma humana», que respalda la nota siguiente (la albarda, «por lo pequeños que eran»). La repetición con el día 44 es redundancia leve, no un problema real."
+ },
+ {
+  "ventana": 9,
+  "dia": 44,
+  "campo": "secciones[6].notas[0]",
+  "tipo": "repeticion",
+  "problema": "La última oración repite casi literalmente la nota del día 43 («Tres días de camino»: las distancias se medían por el tiempo que llevaba recorrerlas). Además queda suelta, sin relación con lo que dice la nota.",
+  "resultado": "descartado: El texto figura exacto, pero la oración no está suelta. La nota habla de 500 kilómetros recorridos en siete días, y la frase explica que la distancia se expresaba en tiempo de camino. Repetir el dato del día 43 no confunde. El reemplazo además cambia el matiz al quitar «En el Antiguo Testamento» y «por lo general»."
+ },
+ {
+  "ventana": 9,
+  "dia": 42,
+  "campo": "contexto.despues",
+  "tipo": "contradiccion",
+  "problema": "El día 42 define la dote como 'lo que el novio pagaba por la novia', que suena a precio de compra. El día 41 aclara que 'la dote no era un precio de compra; compensaba al padre por perder los servicios de su hija'. Las dos definiciones de la misma palabra en días seguidos se contradicen.",
+  "resultado": "aplicado",
+  "antes": "(la dote era lo que el novio pagaba por la novia; Jacob la pagó con trabajo)",
+  "despues": "(la dote era lo que el novio entregaba al padre de la novia, no como precio de compra sino como compensación por perder los servicios de su hija; Jacob la pagó con trabajo)"
+ },
+ {
+  "ventana": 9,
+  "dia": 41,
+  "campo": "panorama",
+  "tipo": "continuidad",
+  "problema": "La última oración del panorama habla de 'las circunstancias en que nacen las doce tribus', y el día 41 no cubre ningún nacimiento. Anticipa la conclusión del día 42, cuyo panorama repite casi igual que 'la elección de Israel es pura gracia'. Además, el día 42 trae once hijos y una hija, no doce tribus.",
+  "resultado": "descartado: El texto figura exacto, pero es dudoso que confunda. Los panoramas de este estudio miran hacia adelante (el panorama del día 43 remite al capítulo 31), y esta oración es un puente natural hacia el tramo siguiente, que cierra la nota sobre Lea y sus hijos. Su único defecto es menor: «doce tribus» frente a los once hijos del día 42. El reemplazo borra el hilo de la elección por gracia, que va del 41 al 42, solo para evitar una repetición leve. Ante la duda, no se cambia."
+ },
+ {
+  "ventana": 10,
+  "dia": 51,
+  "campo": "secciones[4].notas[0]",
+  "tipo": "contradiccion",
+  "problema": "La nota dice que Jacob entiende que la luna del sueño es Raquel, pero el día 49 (Gn 35:16-20) cuenta que Raquel murió al dar a luz a Benjamín, antes de este sueño. El lector que acaba de leer su muerte se confunde: la luna no puede representar a una persona viva.",
+  "resultado": "descartado: El texto_actual figura exacto en el día 51, secciones[4].notas[0]. La tensión con la muerte de Raquel (35:16-20) existe, pero está en el texto bíblico mismo: 37:10 dice «tu madre». El estudio no se contradice. El razonamiento de la propuesta tampoco se sostiene: una luna simbólica puede nombrar a una persona muerta. El reemplazo no resuelve nada. «La madre de José (aunque Raquel ya había muerto)» deja al lector sin saber a quién representa la luna. Resolverlo exigiría tomar partido interpretativo (Bilha, Lea, figura simbólica), y el estudio no tiene fuente para eso. Se deja sin cambios."
+ },
+ {
+  "ventana": 10,
+  "dia": 46,
+  "campo": "secciones[1].notas[0]",
+  "tipo": "cronologia",
+  "problema": "El día 46 afirma que, cuando Jacob regresa, Esaú ya se había instalado en Seir y formado Edom, citando 36:6-8. El día 50 explica que ese pasaje describe la mudanza permanente posterior a la muerte de Isaac; antes Esaú solo tenía una base en Seir (33:14, 16), y las fuentes discrepan sobre cómo llegó (Kline: preparación del traslado; Edersheim: expedición guerrera). Los dos días dan momentos distintos para el mismo hecho.",
+  "resultado": "aplicado",
+  "antes": "Esaú se había instalado en Seir, al sudeste del mar Muerto, donde se unió con los horeos y formó una unidad político-étnica importante: Edom (36:6-8).",
+  "despues": "Esaú ya tenía una base en Seir, al sudeste del mar Muerto, donde más tarde se estableció de manera permanente, se unió con los horeos y formó una unidad político-étnica importante: Edom (36:6-8; ver día 50)."
+ },
+ {
+  "ventana": 10,
+  "dia": 47,
+  "campo": "secciones[6].notas[2]",
+  "tipo": "contradiccion",
+  "problema": "La nota dice que el altar de Siquem cumple el voto de Betel. Pero el propio día 47 (contexto.despues) anuncia que Jacob subirá a Betel a cumplir su voto, y el día 49 dice que el voto de la piedra como casa de Dios seguía pendiente después de ocho a diez años en Canaán y lo cumple recién en Betel. El lector recibe dos momentos distintos para el cumplimiento del mismo voto.",
+  "resultado": "descartado: El texto_actual figura exacto en el día 47, secciones[6].notas[2]. No hay contradicción. El voto de 28:20-22 tiene varias cláusulas: volver en paz, «Jehová será mi Dios», la piedra como casa de Dios y el diezmo. El día 47 habla solo de la cláusula «el Señor sería su Dios». El día 49 presenta como pendiente la cláusula de la piedra como casa de Dios, y llama «otra parte del voto» a la llegada en paz a Mamre. El reemplazo, además, crea un error nuevo. Dice que el voto «se cumple del todo recién cuando suba a Betel», pero el día 49 muestra que otra parte se cumple después, en Mamre. Se deja sin cambios."
+ },
+ {
+  "ventana": 10,
+  "dia": 51,
+  "campo": "contexto.despues",
+  "tipo": "error_texto",
+  "problema": "El mismo lugar se escribe «Siquem» en los días 47, 48 y 49 y aparece como «Siquén» en el contexto.despues del día 51; el lector puede creer que es otra ciudad.",
+  "resultado": "aplicado",
+  "antes": "Jacob envía a José a Siquén.",
+  "despues": "Jacob envía a José a Siquem."
+ },
+ {
+  "ventana": 11,
+  "dia": 51,
+  "campo": "contexto.despues",
+  "tipo": "error_texto",
+  "problema": "El lugar se escribe «Siquén» en el «después» del día 51, pero en el resto del tramo (nota del propio día 51 sobre Simeón y Leví, y todo el día 52) es «Siquem». El mismo sitio aparece con dos nombres y el lector puede pensar que son lugares distintos.",
+  "resultado": "fragmento no encontrado tal cual"
+ },
+ {
+  "ventana": 11,
+  "dia": 52,
+  "campo": "contexto.ahora",
+  "tipo": "repeticion",
+  "problema": "La idea de Edersheim de que la historia personal de los patriarcas se funde con la de la familia y las tribus de Israel ya se desarrolló el día anterior (día 51, contexto.cuando), casi con las mismas palabras. En el día 52 se repite entera dentro del resumen de lo que pasa, donde además no encaja.",
+  "resultado": "descartado: La idea de Edersheim sí aparece en el día 51 (contexto.cuando) y otra vez en el día 52 (contexto.ahora), pero repetirla no confunde al lector y es solo redundancia de estilo. El reemplazo además descarta «con Jacob termina» y la mención de los doce hijos, que son parte de lo que dice el día 52, y deja igual de fuera de lugar una frase de historiografía en el resumen de los hechos. Con dudas, no corresponde tocarlo."
+ },
+ {
+  "ventana": 11,
+  "dia": 54,
+  "campo": "secciones[0].notas[0]",
+  "tipo": "repeticion",
+  "problema": "El día 52 (secciones[6].notas[0]) ya explicó los títulos de Potifar, «capitán de la guardia» («el jefe de los que ejecutaban las sentencias del rey») y «oficial». El día 54 vuelve a explicar los mismos títulos con otra glosa («jefe de la guardia personal del rey»), sin aclarar la diferencia. Con eso, el lector recibe dos definiciones distintas del mismo cargo en dos días seguidos.",
+  "resultado": "descartado: El texto_actual figura exactamente en secciones[0].notas[0] del día 54, y las dos glosas del día 52 («jefe de los que ejecutaban las sentencias del rey») y del día 54 («jefe de la guardia personal del rey») difieren. Pero no son claramente contradictorias, y el reemplazo borra la del día 54 y deja como única la del día 52. Eso es tomar partido entre fuentes sin poder verificarlas. Además introduce una remisión «ver el día 52» que no sigue la convención del estudio, que remite por capítulo o por «ayer» y «mañana»."
+ },
+ {
+  "ventana": 12,
+  "dia": 57,
+  "campo": "secciones[5].notas[0]",
+  "tipo": "repeticion",
+  "problema": "El día 56 (secciones[4].notas[3]) ya explicó que Egipto dependía de la crecida del Nilo y que, si quedaba muy por debajo de lo normal, había hambre. El día 57 vuelve a desarrollar la misma explicación casi con las mismas palabras. Lo único nuevo es la lectura del Diccionario Bíblico Mundo Hispano sobre siete años seguidos de crecida fallida.",
+  "resultado": "descartado: El texto_actual figura tal cual en secciones[5].notas[0] del día 57, pero no es un problema que confunda al lector. Es un repaso breve, coherente con el día 56, que ahí es una inferencia («el texto no nombra la causa natural, pero se entiende»). Cada día se lee por separado y ya trae su propio contexto.antes, así que repetir la idea del Nilo ayuda a entender por qué la lectura del Diccionario Bíblico Mundo Hispano sobre siete años de crecida fallida tiene sentido. El reemplazo, además, mete una referencia cruzada por número de día («Como vieron el día 56»), un recurso que el resto del estudio no usa (remite a versículos, no a días) y que supone que el lector hizo el día anterior. Ante la duda, no se cambia."
+ },
+ {
+  "ventana": 13,
+  "dia": 62,
+  "campo": "contexto.cuando",
+  "tipo": "continuidad",
+  "problema": "El día 61 termina con los hermanos postrados ante José en su casa y con la oferta de José (44:17). El día 62 arranca en esa misma escena (44:18 sigue sin corte a 44:14-17). Decir que es «un nuevo encuentro» hace pensar que es otra reunión posterior, y el «primero» queda sin referente claro (hubo varios encuentros: el primer viaje, el banquete y la casa de José).",
+  "resultado": "aplicado",
+  "antes": "en un nuevo encuentro con José: Judá repasa lo que se dijo en el primero",
+  "despues": "en la misma escena del día anterior, en la casa de José: Judá repasa lo que se dijo en el primer encuentro"
+ },
+ {
+  "ventana": 13,
+  "dia": 63,
+  "campo": "contexto.despues",
+  "tipo": "repeticion",
+  "problema": "El «después» del día 63 desarrolla por completo la explicación que el día 64 trae en su primera nota (secciones[0].notas[0]): decisión no fácil ni inmediata, antecedentes de Abraham (12:10-20) e Isaac (26:1-3), y los tres factores que pesaron (hambre, lectura de José, revelación en Beerseba). La misma explicación aparece casi igual al empezar el día 64.",
+  "resultado": "aplicado",
+  "antes": "No fue una decisión fácil ni inmediata: dejar la tierra prometida tenía antecedentes inquietantes (Abraham en Egipto, 12:10-20; Dios le prohibió a Isaac bajar, 26:1-3). Pesaron el hambre, la lectura que José hizo de su lugar en Egipto y la revelación de Dios a Jacob en Beerseba (46:1-4).",
+  "despues": "Antes se detiene en Beerseba, donde Dios le habla (46:1-4)."
+ },
+ {
+  "ventana": 13,
+  "dia": 65,
+  "campo": "contexto.antes",
+  "tipo": "repeticion",
+  "problema": "El «antes» del día 65 vuelve a explicar por tercera vez (después del contexto.despues del día 63 y de la nota inicial del día 64) por qué Jacob bajó a Egipto: los factores que pesaron y los antecedentes de Abraham e Isaac. Eso ocupa casi todo el recuento, aunque el día 64 también cubrió el reencuentro en Gosén y la lista de los setenta.",
+  "resultado": "descartado: El «antes» existe justamente para recapitular lo leído el día anterior. Que repita el punto central del día 64 no contradice nada ni confunde al lector. Con el cambio [1], el «después» del día 63 ya no lo duplica, así que no queda una triple repetición. Es un retoque de estilo, no un defecto real. Además el reemplazo propuesto tiene problemas propios: «Como vieron en el día anterior» rompe la voz del estudio, que usa «vimos» o «Ayer vimos», y es redundante con «En Génesis 46». Y «no fue un impulso» queda sin el contenido que lo explica. Se deja como está."
+ },
+ {
+  "ventana": 14,
+  "dia": 68,
+  "campo": "panorama",
+  "tipo": "repeticion",
+  "problema": "El panorama del día 68 vuelve a explicar, casi con las mismas ideas y palabras, lo que el panorama del día 67 ya desarrolló: que las palabras de Jacob son testamento y profecía, que miran pasado, presente y futuro desde la perspectiva de Dios, y que ya no bendice solo al primogénito sino a los doce porque de ellos salen las doce tribus. Es el mismo capítulo, así que alcanza con una referencia breve a lo visto ayer.",
+  "resultado": "aplicado",
+  "antes": "Estas palabras son a la vez testamento y profecía. Jacob mira el pasado, el presente y el futuro siempre desde la perspectiva de Dios y sus promesas; para el Comentario Bíblico Mundo Hispano, su cumplimiento es «certero e inalterable». A diferencia de los patriarcas anteriores, no bendice solo al primogénito: bendice a los doce, porque de ellos salen las doce tribus de Israel.",
+  "despues": "Como vieron ayer, estas palabras son a la vez testamento y profecía, y para el Comentario Bíblico Mundo Hispano su cumplimiento es «certero e inalterable»."
+ }
+]

@@ -1,0 +1,548 @@
+{
+ "id": "I2",
+ "titulo": "Estructura y mensaje",
+ "bajada": "Cómo está armado Génesis, para qué se escribió, qué lugar ocupa en el Pentateuco y cómo prepara el resto de la Biblia.",
+ "entrada": {
+  "texto": "Génesis es el libro de los comienzos: del universo, del ser humano, del pecado, de la salvación, de la nación hebrea y del pacto. Pero no es una colección suelta de relatos. Tiene una arquitectura cuidada, un tema que lo atraviesa de punta a punta y un lugar preciso en la Biblia. Antes de empezar el plan, les conviene mirarlo entero: cómo está armado, para qué se escribió y cómo prepara lo que sigue.",
+  "fuentes": [
+   "beacon_01#13",
+   "r1_055#1",
+   "r1_027#1"
+  ]
+ },
+ "versiculos": [
+  {
+   "ref": "2:4",
+   "porque": "Es la primera vez que aparece la fórmula de las «generaciones», la que encabeza las diez secciones del libro."
+  },
+  {
+   "ref": "3:8-9",
+   "porque": "Dios se pasea por el jardín y llama al hombre que se esconde: ahí se ve el hilo de la comunión que atraviesa Génesis."
+  },
+  {
+   "ref": "12:1-3",
+   "porque": "La promesa a Abraham es la bisagra del libro: el relato pasa de toda la humanidad a una familia elegida para bendecir a toda la humanidad."
+  }
+ ],
+ "apartados": [
+  {
+   "titulo": "Diez veces «estas son las generaciones de»",
+   "parrafos": [
+    {
+     "texto": "Después de un prólogo (1:1–2:3), Génesis se divide en diez secciones. Cada una empieza con la misma fórmula, apenas modificada en 5:1: «estas son las generaciones de» (en hebreo, 'elleh toledot; a veces se traduce «los orígenes»). Arrancan en 2:4 (los cielos y la tierra), 5:1 (Adán), 6:9 (Noé), 10:1 (los hijos de Noé), 11:10 (Sem), 11:27 (Taré, padre de Abraham), 25:12 (Ismael), 25:19 (Isaac), 36:1 (Esaú) y 37:2 (Jacob).",
+     "fuentes": [
+      "kline_01#9",
+      "beacon_01#20",
+      "edersheim_01#1",
+      "kline_01#13",
+      "macarthur_01#14"
+     ]
+    },
+    {
+     "texto": "La palabra toledot se traduce «generaciones» (literalmente, «engendros»), pero se acerca más a «historia» o «relato» que a una simple genealogía. En cinco de las secciones, los datos genealógicos ocupan una parte importante, o incluso la mayor parte (5:1; 10:1; 11:10; 25:12; 36:1).",
+     "fuentes": [
+      "beacon_01#20",
+      "r1_027#1",
+      "kline_01#9"
+     ]
+    },
+    {
+     "texto": "Kline ve en este marco una señal clara de que el autor quería que el relato se entendiera como historia real de personas que fueron engendradas y engendraron. A diferencia de las listas de reyes de Mesopotamia, que van del presente hacia el pasado, las genealogías de Génesis bajan de padres a hijos, de modo que los relatos avanzan en el tiempo. Craig lo dice con una imagen: «Las genealogías son como la cuerda en la que se ensarta un collar.»",
+     "fuentes": [
+      "kline_01#9",
+      "r1_027#1",
+      "r1_024#32"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Diez veces se repite la misma fórmula, y con ella los relatos avanzan en el tiempo, de padres a hijos.",
+    "fuentes": [
+     "kline_01#9",
+     "r1_027#1",
+     "beacon_01#20"
+    ]
+   }
+  },
+  {
+   "titulo": "Dos grandes partes: de toda la humanidad a una familia",
+   "parrafos": [
+    {
+     "texto": "Por su contenido, el libro tiene dos grandes partes. Según la Biblia de Estudio MacArthur, la historia primitiva (capítulos 1 a 11) registra cuatro acontecimientos: la creación, la caída, el diluvio y la dispersión de las naciones, y la historia patriarcal (12 a 50) se enfoca en cuatro hombres: Abraham, Isaac, Jacob y José. Otros separan la historia de José (37–50) como una tercera parte.",
+     "fuentes": [
+      "macarthur_01#14",
+      "macarthur_01#7",
+      "r1_055#1",
+      "dbmh_07#3",
+      "r1_027#2"
+     ]
+    },
+    {
+     "texto": "Según Edersheim, en la primera parte importan más los acontecimientos; en la segunda, las personas. El foco se va estrechando: de los temas universales pasa a un solo hombre y su descendencia, Abram, presentado al final del capítulo 11. El Comentario Beacon describe ese camino como «un movimiento ondulante de secuencias que van de lo universal a lo específico».",
+     "fuentes": [
+      "edersheim_01#2",
+      "r1_002#19",
+      "beacon_01#22"
+     ]
+    },
+    {
+     "texto": "La proporción también enseña, nota Chafer: la creación ocupa dos capítulos y la caída uno, mientras que las vidas de Abraham, Isaac y Jacob ocupan del 12 al 50. Para leer esa segunda parte, Edersheim propone tres claves: la elección del pueblo de Dios, siempre sobrenatural y por gracia; un modo nuevo de revelación, porque Dios ya no solo habla, sino que se aparece; y la fe como rasgo de los patriarcas.",
+     "fuentes": [
+      "r1_086#24",
+      "edersheim_04#54"
+     ]
+    },
+    {
+     "texto": "Hay otras divisiones útiles. El Comentario Bíblico Mundo Hispano ordena el libro en seis partes, todas centradas en Dios: Dios y la creación, Dios y la humanidad, Dios y Abraham, Dios e Isaac, Dios y Jacob, y Dios y José. El Comentario Beacon titula las secciones de los patriarcas por lo que Dios hizo con cada uno: Abraham, el hombre elegido; Isaac, a quien Dios preservó la vida; Jacob, rehecho; José, preservado. Sobre cuánto pesan las diez «generaciones» en la estructura, las fuentes no coinciden del todo (ver «interpretaciones»).",
+     "fuentes": [
+      "cbmh_03#33",
+      "cbmh_03#32",
+      "beacon_01#29",
+      "r1_027#2"
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Primero las ramas, después la línea elegida",
+   "parrafos": [
+    {
+     "texto": "Un detalle les va a ayudar al leer: las ramas secundarias se cierran antes de seguir con la principal. Caín va antes que Set; Jafet y Cam, antes que Sem; Ismael, antes que Isaac; Esaú, antes que Jacob. Esas líneas apartadas del pacto ocupan las secciones más breves, formadas sobre todo por datos genealógicos, y quedan a un lado. Después el relato se detiene con amplitud en la línea elegida, la que conduce a Israel y al Mesías.",
+     "fuentes": [
+      "edersheim_01#3",
+      "kline_01#12"
+     ]
+    },
+    {
+     "texto": "La razón es que, desde el principio, la historia avanza por elección y por gracia. Dios trató primero con la humanidad entera; con los patriarcas comienza a formar un pueblo especial, por medio del cual cumpliría sus propósitos de misericordia para con todos. Por eso Génesis no cuenta todo de todos: cada sección se extiende según lo que aporta a la historia del reino de Dios. Más adelante, la promesa se limita a la casa de David y, al final, a una sola persona, el Hijo de David, Jesucristo. La genealogía de Lucas 3 prolonga estas listas hasta que la línea de Adán llega a Jesús.",
+     "fuentes": [
+      "edersheim_01#3",
+      "edersheim_04#53",
+      "edersheim_01#1",
+      "edersheim_10#73",
+      "kline_01#9"
+     ]
+    },
+    {
+     "texto": "Para Kline, el marco genealógico encaja con el tema del pacto: Dios no administra su pacto con individuos aislados, sino con su siervo junto con su familia.",
+     "fuentes": [
+      "kline_01#12"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Génesis cierra primero las ramas laterales para detenerse en la línea elegida, la que conduce a Israel y al Mesías.",
+    "fuentes": [
+     "edersheim_01#3",
+     "kline_01#12"
+    ]
+   }
+  },
+  {
+   "titulo": "Para qué se escribió: Dios y la comunión",
+   "parrafos": [
+    {
+     "texto": "Por lo general se lee Génesis como un libro que explica el origen de todo, y así se lo pone a competir con la ciencia. Pero su interés por el origen del universo es teológico: no intenta probar que Dios existe, sino declarar que todo viene del Dios Creador y es sostenido por él, y distingue al Dios de Israel de los supuestos dioses de los pueblos vecinos.",
+     "fuentes": [
+      "cbmh_03#25",
+      "beacon_01#24",
+      "macarthur_01#6"
+     ]
+    },
+    {
+     "texto": "Para el Comentario Bíblico Mundo Hispano, el tema central es Dios: el que crea el mundo y lo sustenta, el que crea al ser humano y lo llama a una vida de comunión, y el que, fiel a su propósito, trae juicio y redime. Las fuentes formulan el propósito del libro con acentos distintos (ver «interpretaciones»).",
+     "fuentes": [
+      "cbmh_03#26",
+      "beacon_01#24",
+      "cbmh_03#25",
+      "kline_01#11"
+     ]
+    },
+    {
+     "texto": "Al principio hay comunión; después, desobediencia. Esa primera relación queda como el ideal y la meta de todo el trato posterior de Dios con el ser humano. El pacto quebrado por la caída se restablece por la redención y se concentra en el pacto con Abraham. Aun los juicios tienen un propósito redentor, y en sus actos redentores se ven el amor, la paciencia, la fidelidad y la misericordia de Dios.",
+     "fuentes": [
+      "beacon_01#25",
+      "kline_01#11",
+      "cbmh_03#29"
+     ]
+    },
+    {
+     "texto": "Craig recoge que los comentaristas coinciden en que el libro empieza antes de Abraham por un interés universal: el plan original de Dios era bendecir a toda la humanidad, y la elección de Israel es el medio para cumplirlo. Según Clines, citado por Craig, Génesis 1 a 11 puede leerse como la propagación del pecado o como la propagación de la gracia; leído junto con el resto del Pentateuco, lo más probable es la segunda lectura: a pesar de las consecuencias destructivas del pecado, Dios encuentra un camino de liberación y bendición, y la promesa a Abraham reafirma lo que quiso desde el principio para la humanidad (1:26-28).",
+     "fuentes": [
+      "r1_025#15",
+      "r1_024#27",
+      "r1_024#36"
+     ]
+    },
+    {
+     "texto": "Para Alexander, el plan de creación de Dios es habitar con la humanidad en la tierra. En Génesis, Dios anda con los suyos (3:8; 5:22, 24; 6:9; 17:1); la desobediencia de Adán y Eva en el Edén levantó una barrera mayor, pero Dios encontró la forma de restaurar el vínculo.",
+     "fuentes": [
+      "r1_001#2",
+      "r2_054#14",
+      "r2_027#63"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Para el Comentario Bíblico Mundo Hispano, el tema central de Génesis es Dios, que llama al ser humano a la comunión con él y no abandona su propósito cuando este se aleja.",
+    "fuentes": [
+     "cbmh_03#26",
+     "cbmh_03#29"
+    ]
+   }
+  },
+  {
+   "titulo": "Su lugar en el Pentateuco",
+   "parrafos": [
+    {
+     "texto": "Génesis abre el Pentateuco (del griego, «cinco libros»): Génesis, Éxodo, Levítico, Números y Deuteronomio. Se los conoce también como la Torá, que significa «ley», pero también «enseñanza, instrucción o guía», y desde los tiempos más remotos se los reconoce como el corazón del canon del Antiguo Testamento. Cubren desde la creación hasta la muerte de Moisés. Cada uno es una unidad, pero forman una secuencia: después de Génesis, cada libro presupone a los anteriores.",
+     "fuentes": [
+      "beacon_01#1",
+      "dbmh_13#1",
+      "beacon_01#4"
+     ]
+    },
+    {
+     "texto": "La promesa de 12:1-3 pone en marcha el conjunto. Craig, siguiendo a Clines, ve en esa triple promesa a Abraham (descendencia, relación con Dios y tierra) el impulso del Pentateuco: la descendencia domina Génesis 12 a 50; la relación con Dios, Éxodo y Levítico; la tierra, Números y Deuteronomio.",
+     "fuentes": [
+      "r1_024#26"
+     ]
+    },
+    {
+     "texto": "El final de Génesis prepara Éxodo. Por una escasez general, Jacob y sus hijos llegan a Egipto, donde José los establece. Esas narraciones dan el trasfondo histórico de Éxodo, que cuenta la esclavitud y la salida de Egipto, y señalan el período de esclavitud que ya mencionaba el pacto con Abraham (15:13-14). El libro cierra cuando la familia se ha vuelto nación, en el umbral del pacto del Sinaí.",
+     "fuentes": [
+      "dbmh_07#4",
+      "edersheim_01#2",
+      "kline_01#11"
+     ]
+    },
+    {
+     "texto": "Para el pueblo que salía de Egipto, Génesis era indispensable. En lo político, lo único que tenían en común era la esclavitud; Génesis les mostraba que eran una comunidad con origen e identidad propios, con un linaje que se rastreaba hasta Heber (de ahí «hebreos») y hasta Sem (de ahí «semitas»). Les recordaba las promesas de Dios a los patriarcas y la tierra que ellos habían ocupado. Y les hacía conocer al Dios que los llamaba, el Dios de Abraham, de Isaac y de Jacob (Éx 3:15). Era el documento de la promesa.",
+     "fuentes": [
+      "cbmh_03#18",
+      "macarthur_01#7",
+      "cbmh_03#19",
+      "cbmh_03#20",
+      "cbmh_03#22"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Génesis termina cuando la familia se ha vuelto nación, a las puertas de la historia del Éxodo.",
+    "fuentes": [
+     "edersheim_01#2",
+     "dbmh_07#4",
+     "kline_01#11"
+    ]
+   }
+  },
+  {
+   "titulo": "Cómo prepara el resto de la Biblia",
+   "parrafos": [
+    {
+     "texto": "Para el Comentario Bíblico Mundo Hispano, Génesis no es la culminación del plan de Dios, sino su inicio: la redención que comienza allí sigue por todo el Antiguo Testamento y culmina en Jesucristo, y por eso el mensaje de Génesis sigue siendo el de la iglesia. Es un solo plan de redención, de Génesis 3 a Apocalipsis 22, que se extiende de un hombre hasta los confines de la tierra.",
+     "fuentes": [
+      "cbmh_03#30",
+      "r2_058#34"
+     ]
+    },
+    {
+     "texto": "Ese plan se revela de a poco: Edersheim lo compara con la luz que va en aumento hasta el día perfecto (Pr 4:18). Por eso no se pueden separar los dos Testamentos: el Dios de Abraham, Isaac y Jacob es el Dios y Padre de nuestro Señor Jesucristo, y los que son de la fe son hijos de Abraham (Gá 3:7).",
+     "fuentes": [
+      "edersheim_01#9",
+      "edersheim_01#8"
+     ]
+    },
+    {
+     "texto": "Génesis y Apocalipsis se corresponden de cerca y cierran la Escritura por los dos extremos. A la creación de los cielos y la tierra le responde un cielo nuevo y una tierra nueva; al ataque de Satanás, su derrota final; a la maldición, su fin; a la expulsión del jardín, el paraíso restaurado con el árbol de la vida. El Edén se convierte en una ciudad resplandeciente donde Dios vive con su pueblo.",
+     "fuentes": [
+      "macarthur_01#11",
+      "r2_078#30",
+      "r1_055#5",
+      "r2_080#50",
+      "r1_001#2"
+     ]
+    },
+    {
+     "texto": "Pero el final es mejor que el comienzo, enseña Grau: en el Edén todavía existía la posibilidad de pecar y repetir el ciclo de ruina; la redención lleva a cielos nuevos y tierra nueva, libres del poder del mal, con una comunión más plena con Dios por su Espíritu, y todo gira en torno a Cristo, el Cordero. Cómo anuncia Génesis a Cristo, lo van a ver en el tema «Cristo en Génesis».",
+     "fuentes": [
+      "r1_033#4"
+     ]
+    }
+   ],
+   "destacado": {
+    "texto": "Génesis no es la culminación del plan de Dios, sino su inicio, y ese plan culmina en Jesucristo.",
+    "fuentes": [
+     "cbmh_03#30"
+    ]
+   }
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "Gn 2:4",
+   "translit": "toledot",
+   "hebreo": "תוֹלְדוֹת",
+   "significado": "«Generaciones» (literalmente, «engendros»), pero con el sentido de «historia» o «relato» más que de simple genealogía. Encabeza cada una de las diez secciones del libro.",
+   "fuentes": [
+    "beacon_01#20",
+    "r1_027#1",
+    "edersheim_01#1",
+    "kline_01#9"
+   ]
+  },
+  {
+   "ref": "Gn 2:4",
+   "translit": "'elleh toledot",
+   "hebreo": "אֵלֶּה תוֹלְדוֹת",
+   "significado": "«Estas son las generaciones de»: la fórmula que abre cada sección (en 5:1 aparece apenas modificada) y ordena los relatos en una línea de tiempo.",
+   "fuentes": [
+    "kline_01#9",
+    "r1_024#32"
+   ]
+  },
+  {
+   "ref": "Pentateuco (Génesis a Deuteronomio)",
+   "translit": "torah",
+   "hebreo": "",
+   "significado": "«Ley», con la idea de «enseñanza, instrucción o guía». Es el nombre de los cinco primeros libros de la Biblia.",
+   "fuentes": [
+    "dbmh_13#1",
+    "beacon_01#1"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Las diez «generaciones» son la estructura del libro?",
+   "posturas": [
+    {
+     "quien": "Kline, Edersheim, la Biblia de Estudio MacArthur y el Comentario Beacon (Livingston)",
+     "postura": "Génesis está estructurado formalmente por la fórmula: un prólogo o introducción (1:1–2:3) y diez secciones encabezadas por «estas son las generaciones de». Kline arma su bosquejo sobre esas secciones; Edersheim las agrupa en dos partes de cinco y ve en el diez el número de la plenitud.",
+     "fuentes": [
+      "kline_01#9",
+      "kline_01#13",
+      "edersheim_01#1",
+      "macarthur_01#14",
+      "beacon_01#20"
+     ]
+    },
+    {
+     "quien": "William Lane Craig (siguiendo a Wenham y a Mathews)",
+     "postura": "Decir que las fórmulas determinan la estructura es engañoso. Ofrecen una ordenación lineal y son «la espina dorsal de Génesis 1-11», pero no fijan su estructura literaria. El libro se divide naturalmente en tres partes (historia primigenia, patriarcas, José), y tratar todas las secciones como de igual peso aplana el conjunto: la breve noticia sobre Ismael (25:12-18) no está al nivel del diluvio ni de la vida de José.",
+     "fuentes": [
+      "r1_027#2",
+      "r1_024#32"
+     ]
+    },
+    {
+     "quien": "Comentario Bíblico Mundo Hispano",
+     "postura": "Divide el libro por su contenido en seis partes centradas en Dios: Dios y la creación (1:1–2:4a), Dios y la humanidad (2:4b–11:9), Dios y Abraham (11:10–25:18), Dios e Isaac (25:19–28:9), Dios y Jacob (28:10–37:2a) y Dios y José (37:2b–50:26).",
+     "fuentes": [
+      "cbmh_03#33"
+     ]
+    },
+    {
+     "quien": "G. Campbell Morgan (citado en el Comentario Beacon)",
+     "postura": "Lo lee en tres movimientos: generación (1:1–2:25), degeneración (3:1–11:32) y regeneración (12:1–50:26).",
+     "fuentes": [
+      "beacon_01#21"
+     ]
+    }
+   ],
+   "nota": "Los esquemas que dividen el libro por su contenido separan la historia primitiva de la patriarcal, aunque ubican el corte en 11:10, 11:27 o 12:1."
+  },
+  {
+   "tema": "¿Cuál es el propósito principal del libro?",
+   "posturas": [
+    {
+     "quien": "Comentario Beacon (Livingston)",
+     "postura": "Mostrar cómo Dios eligió al pueblo de Israel para establecer un pacto con él, contando cómo trató con sus antepasados. El interés por el origen del universo es teológico: todo proviene del Dios Creador y es sostenido por él.",
+     "fuentes": [
+      "beacon_01#24"
+     ]
+    },
+    {
+     "quien": "Comentario Bíblico Mundo Hispano",
+     "postura": "No es explicar el origen de las cosas ni la historia de la raza humana, una lectura que lo pone a competir con la ciencia. Es dar testimonio de los actos de Dios en su propósito de tener comunión con el hombre, hasta formar un pueblo escogido.",
+     "fuentes": [
+      "cbmh_03#25",
+      "cbmh_03#26"
+     ]
+    },
+    {
+     "quien": "Kline",
+     "postura": "El tema que ordena todo el libro, incluso dónde se ubican las genealogías, es la relación de pacto de Dios con los hombres: la relación original, quebrada por la caída, restablecida en comunión y concentrada en el pacto con Abraham.",
+     "fuentes": [
+      "kline_01#11"
+     ]
+    },
+    {
+     "quien": "Biblia de Estudio MacArthur",
+     "postura": "Génesis 1 a 11 revela los orígenes del universo y de muchas experiencias humanas, y Génesis 12 a 50 le explica a Israel cómo llegó a existir. Dios se lo dio a Israel antes de entrar en Canaán para que entendiera su historia y el contexto de sus enemigos.",
+     "fuentes": [
+      "macarthur_01#7",
+      "macarthur_01#8"
+     ]
+    }
+   ],
+   "nota": "Son acentos distintos más que posturas enfrentadas. Solo el Comentario Bíblico Mundo Hispano rechaza de manera expresa leer el libro como una explicación de los orígenes."
+  },
+  {
+   "tema": "¿Cómo se ordenan las etapas de la historia en Génesis?",
+   "posturas": [
+    {
+     "quien": "Lewis Sperry Chafer (dispensacionalismo)",
+     "postura": "Distingue siete dispensaciones en la Biblia. En Génesis ubica la inocencia (1:26–3:6), la conciencia (3:7–8:19), el gobierno humano, con el pacto con Noé (8:20–11:9), y la promesa, con el pacto con Abraham (11:10 hasta Éx 19:2). Ve en Génesis 1 a 11 la primera tercera parte de la historia humana y, desde el capítulo 12, a Israel como tema dominante de la Biblia. Él mismo reconoce que los expositores no siempre coinciden en cómo caracterizar los períodos más remotos.",
+     "fuentes": [
+      "r1_085#46",
+      "r2_081#58",
+      "r2_080#2",
+      "r2_080#1"
+     ]
+    },
+    {
+     "quien": "Kline",
+     "postura": "Lee todo el libro como la historia de una sola relación de pacto. Al final, esa relación queda en el umbral del pacto del Sinaí y de la teocracia israelita, que a su vez prefiguraba el reino eterno del nuevo pacto.",
+     "fuentes": [
+      "kline_01#11"
+     ]
+    }
+   ],
+   "nota": "Son dos maneras protestantes de ordenar la historia bíblica; esta guía no toma posición."
+  }
+ ],
+ "citas": [
+  {
+   "texto": "Nunca es el hombre quien se vuelve a Dios, sino Dios quien sale a buscar al hombre y a proveer el medio para restablecer la comunión perdida.",
+   "autor": "Comentario Bíblico Mundo Hispano",
+   "obra": "Comentario Bíblico Mundo Hispano (introducción a Génesis)",
+   "fuentes": [
+    "cbmh_03#29"
+   ]
+  },
+  {
+   "texto": "Dios administra su pacto no en términos individuales atomizados, sino a su siervo junto con sus familias, aun a la milésima generación de aquellos que le aman.",
+   "autor": "Kline",
+   "obra": "Nuevo Comentario Bíblico",
+   "fuentes": [
+    "kline_01#12"
+   ]
+  },
+  {
+   "texto": "En el libro de Apocalipsis, el paraíso que fue perdido en Génesis será recuperado.",
+   "autor": "MacArthur",
+   "obra": "Biblia de Estudio MacArthur",
+   "fuentes": [
+    "macarthur_01#11"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Lc 3:23-38",
+   "nota": "La genealogía de Jesús retoma las listas de Génesis y las prolonga hasta que la línea de Adán llega a Jesús, el segundo Adán.",
+   "fuentes": [
+    "kline_01#9"
+   ]
+  },
+  {
+   "ref": "Éx 3:15",
+   "nota": "Dios se presenta ante Moisés como el Dios de Abraham, de Isaac y de Jacob; para responder al llamado, el pueblo debía conocer a ese Dios, y Génesis daba testimonio de él.",
+   "fuentes": [
+    "cbmh_03#20"
+   ]
+  },
+  {
+   "ref": "Éx 25:8; 29:46",
+   "nota": "En Génesis Dios anda con su pueblo; en Éxodo dice que quiere morar en medio de él, y el tabernáculo es la primera de varias moradas de su gloria.",
+   "fuentes": [
+    "r2_054#14"
+   ]
+  },
+  {
+   "ref": "Jn 1:14",
+   "nota": "La gloria vuelve a la tierra en Jesucristo: «habitó» quiere decir «moró» entre nosotros.",
+   "fuentes": [
+    "r2_054#14",
+    "r2_027#63"
+   ]
+  },
+  {
+   "ref": "Gá 3:7",
+   "nota": "Los que son de la fe son hijos de Abraham: el Dios de los patriarcas es el Dios y Padre de nuestro Señor Jesucristo.",
+   "fuentes": [
+    "edersheim_01#8"
+   ]
+  },
+  {
+   "ref": "2 Co 1:20",
+   "nota": "Cristo, hacia quien apuntaba toda la historia anterior, es aquel en quien todas las promesas son «Sí» y «Amén».",
+   "fuentes": [
+    "edersheim_01#8"
+   ]
+  },
+  {
+   "ref": "Pr 4:18",
+   "nota": "Es la imagen que usa Edersheim para la revelación progresiva: la luz que va en aumento hasta el día perfecto.",
+   "fuentes": [
+    "edersheim_01#9"
+   ]
+  },
+  {
+   "ref": "Ap 21–22",
+   "nota": "Apocalipsis responde a Génesis con un cielo nuevo y una tierra nueva (21:1), sin maldición (22:3) ni noche (22:5), con el árbol de la vida (22:14) y con Dios habitando con su pueblo en una ciudad resplandeciente.",
+   "fuentes": [
+    "r1_055#5",
+    "macarthur_01#11",
+    "r1_001#2",
+    "r2_054#14"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Cuando lleguen a una genealogía, no la salteen: es la cuerda que sostiene el collar. Fíjense qué rama se cierra y qué línea sigue, porque ahí se ve cómo Dios lleva adelante su promesa.",
+   "fuentes": [
+    "r1_024#32",
+    "edersheim_01#3",
+    "kline_01#12"
+   ]
+  },
+  {
+   "texto": "Dios trata con su siervo junto con su familia. Abraham mandó a sus hijos y a su casa guardar el camino del Señor (Gn 18:19). Ustedes también pueden hacer de su casa el lugar donde se enseña el temor del Señor.",
+   "fuentes": [
+    "kline_01#12",
+    "r2_075#4",
+    "r2_075#6"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "¿Qué cambia en su manera de leer Génesis saber que su tema central es Dios y su llamado a la comunión, y no solo el origen de las cosas?",
+  "Si Dios lleva adelante su pacto con familias enteras, ¿qué lugar tiene en su casa transmitir la fe?"
+ ],
+ "refs_genesis": [
+  "1:1-2:3",
+  "2:4",
+  "5:1",
+  "6:9",
+  "10:1",
+  "11:10",
+  "11:27",
+  "25:12",
+  "25:19",
+  "36:1",
+  "37:2",
+  "1:26-28",
+  "3:8-9",
+  "5:22",
+  "5:24",
+  "12:1-3",
+  "15:13-14",
+  "17:1",
+  "18:19",
+  "25:12-18"
+ ],
+ "notas_no_usadas": "De importancia 3 quedaron afuera dos notas. dbmh_13#2 (bosquejo de Génesis dentro del Pentateuco: era de los comienzos y período patriarcal) no se usó porque repite la división en dos partes que ya está en el cuerpo. cbmh_06#47 (la sección de Abraham como la más importante del plan redentor y el testimonio de Dios a las naciones dispersas, Hch 14 y Ro 2) quedó afuera por espacio: su idea central ya aparece en la proporción de capítulos y en el paso de lo universal a Abraham. De los bosquejos detallados (kline_01#13, beacon_01#29, macarthur_01#15-17, cbmh_03#36, cbmh_03#38, cbmh_10#22, cbmh_11#36, kline_04#4) se tomaron solo los grandes cortes y los títulos de los patriarcas; las subdivisiones les corresponden a las lecciones del plan. Lo que dice macarthur_01#6 sobre los fundamentos teológicos (Trinidad, ángeles, pactos, etc.) se trata en las secciones T1 a T9; acá solo se usó el contraste del Dios de Israel con los dioses vecinos. Lo de cbmh_03#20 y cbmh_03#22 sobre la autoría mosaica se dejó para I1; acá solo se usó el papel de Génesis como documento de la promesa. macarthur_01#8 (por qué Dios dio Génesis a Israel antes de entrar a Canaán) va solo en «interpretaciones». La propuesta dispensacional de Chafer (r1_085#46, r2_081#58, r2_080#1-2) va solo en «interpretaciones», y de r1_086#24 solo se tomó la proporción de capítulos: su idea de que la historia de Israel es la clave de la historia se dejó afuera para no tomar posición sobre Israel. Por espacio quedaron afuera varias notas de importancia 2: Tozer (r2_032#52, la revelación creciente en Génesis), Kœchlin (r1_064#33), Coleman (r2_033#35, los «hilos de oro»; su referencia a Gn 3:9 se usó en el versículo clave), Capill sobre el «ya» y el «aún no» (r2_058#34, usado solo en parte), Edersheim sobre Hageo 2:7 (edersheim_04#53, usado solo en parte), la cita de San Agustín sobre los dos Testamentos (edersheim_01#7) y la historia de la salvación que comienza con Adán y Eva (r2_018#40). También quedaron afuera las de importancia 1: el Hexateuco (dbmh_08#1), los cinco libros de la Ley y de los Salmos (edersheim_01#5), el esquema del resto del Pentateuco (dbmh_13#3) y el guion creación-caída-redención-nueva creación de Helm (r2_058#31). En «palabras», la grafía hebrea de torah quedó vacía porque hebreo.py solo muestra la forma de Génesis (en 26:5 aparece solo con sufijo) y no confirma la forma base."
+}

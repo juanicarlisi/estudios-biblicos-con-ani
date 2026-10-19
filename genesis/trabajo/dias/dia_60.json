@@ -1,0 +1,471 @@
+{
+ "dia": 60,
+ "desde": "43:16",
+ "hasta": "43:34",
+ "titulo": "El banquete en casa de José",
+ "minutos": {
+  "lectura": 5,
+  "estudio": 20
+ },
+ "contexto": {
+  "antes": "En el tramo anterior, los hermanos volvieron de Egipto con alimentos y encontraron en sus costales el dinero que habían pagado. Simeón había quedado preso allá. Para el segundo viaje, Judá se ofreció ante Jacob como garantía por Benjamín. Así bajaron todos, Benjamín incluido, con el dinero devuelto, más dinero para comprar y un presente que su padre enviaba al gobernador.",
+  "ahora": "José ve a Benjamín y manda preparar un banquete en su casa. Los hermanos, asustados, se justifican ante el mayordomo, que los tranquiliza y les devuelve a Simeón. Cuando llega José, se inclinan ante él. Él pregunta por el padre, ve a Benjamín y sale a llorar a solas. En la mesa, los sienta por orden de edad y honra a Benjamín con una porción cinco veces mayor. Ellos no se quejan: se alegran con él.",
+  "donde": "Egipto, en la casa de José, el gobernador.",
+  "cuando": "Es el segundo viaje de los hermanos a Egipto para comprar alimentos. Según Edersheim, han pasado veintidós años desde que José se separó de Benjamín. Las fuentes del día no dan fechas absolutas.",
+  "despues": "En el próximo tramo (44:1-17), José llena los sacos de alimento y esconde su copa personal en el de Benjamín. Es la última prueba que tenía preparada para sus hermanos.",
+  "fuentes": [
+   "r1_011#23",
+   "beacon_08#59",
+   "beacon_08#60",
+   "cbmh_16#11",
+   "edersheim_09#50",
+   "edersheim_10#3",
+   "r2_032#17",
+   "kline_06#43"
+  ]
+ },
+ "versiculo_clave": {
+  "ref": "43:34",
+  "porque": "Resume la prueba silenciosa del banquete: Benjamín recibe cinco veces más que los demás y sus hermanos, en vez de envidiarlo, se alegran con él. Sugiere un corazón cambiado, aunque todavía falta la última prueba."
+ },
+ "panorama": {
+  "texto": "José pone en marcha un plan largamente meditado. Recibe a sus hermanos con honores, pero ellos, cargados de culpa, leen la invitación como una trampa. Dos veces se les habla de su Dios, una el mayordomo y otra José, y no lo oyen. José, que todavía no les dice quién es, casi se quiebra al ver a Benjamín. En la mesa hay una prueba silenciosa: el hijo de Raquel recibe cinco veces más que los demás, como antes era el preferido en casa de su padre. Los que un día sacrificaron a un hermano por celos no muestran envidia: comen y se alegran con él. Eso sugiere un corazón convertido, aunque José todavía guarda una última prueba.",
+  "fuentes": [
+   "kline_06#39",
+   "cbmh_16#11",
+   "macarthur_06#68",
+   "macarthur_06#70",
+   "r2_032#17",
+   "edersheim_10#2",
+   "edersheim_10#5",
+   "macarthur_06#74",
+   "kline_06#43",
+   "beacon_08#62"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "43:16-18",
+   "titulo": "Invitados que tiemblan",
+   "notas": [
+    {
+     "texto": "Al ver a Benjamín, José pone en marcha su plan largamente meditado. Manda al mayordomo llevar a los hombres a su casa y preparar una res: comerán con él al mediodía. No era momento ni lugar para abrirse y conversar. Según Edersheim, José habló en egipcio y, al parecer, sus hermanos no le entendían.",
+     "fuentes": [
+      "kline_06#39",
+      "edersheim_09#49"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Llegan con el corazón más ansioso que el de José camino a Egipto. Ser llevados a la casa del gobernador les suena a encarcelamiento. Piensan que el dinero devuelto es la excusa para acusarlos de robo y tomarlos como esclavos, con sus asnos. Estaban tan atemorizados ante el mayordomo de aquel amo impredecible que hasta su hospitalidad los alarmó.",
+     "fuentes": [
+      "edersheim_09#49",
+      "cbmh_16#11",
+      "beacon_08#58",
+      "kline_06#40"
+     ],
+     "tipo": "explicacion_texto"
+    }
+   ]
+  },
+  {
+   "rango": "43:19-24",
+   "titulo": "«Paz a vosotros, no temáis»",
+   "notas": [
+    {
+     "texto": "En la puerta se adelantan a dar explicaciones al mayordomo, el administrador que manejaba la casa de José. Cuentan que hallaron el dinero, que lo traen completo («en su justo peso» equivale a «nuestro dinero en total», en la versión Smith-Goodspeed que cita Beacon) y que traen más para comprar. Quieren aclarar todo antes de que los acusen.",
+     "fuentes": [
+      "beacon_08#58",
+      "dbmh_13#56",
+      "cbmh_16#11"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "El mayordomo les habla con bondad y se hace cargo: «yo recibí vuestro dinero». Les trae a Simeón, les da agua para lavarse los pies y alimenta a sus asnos: un trato digno de los mejores huéspedes. Sin saberlo, ellos ya muestran otra cara: los que habían vendido a su hermano por veinte piezas de plata ahora devuelven el dinero que hallaron. Ya no son los hombres voraces de antes; actúan como hombres honestos.",
+     "fuentes": [
+      "beacon_08#59",
+      "cbmh_16#11"
+     ],
+     "tipo": "personaje"
+    },
+    {
+     "texto": "Lo más hondo está en cómo explica el dinero: «vuestro Dios y el Dios de vuestro padre os dio el tesoro en vuestros costales». El mayordomo apunta al Dios de Israel y se presenta como alguien que tuvo parte en lo sucedido («yo recibí vuestro dinero»). Su explicación llega más hondo que la confusión del momento. Pero ellos, nerviosos y ocupados en declarar que no sabían cómo volvió el dinero y en saldar su deuda, pasan por alto que se les habla de su Dios.",
+     "fuentes": [
+      "macarthur_06#68",
+      "kline_06#40"
+     ],
+     "tipo": "teologia_doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "43:25-28",
+   "titulo": "Inclinados hasta la tierra",
+   "notas": [
+    {
+     "texto": "Esperan a José con el presente en la mano. Cuando llega, se lo entregan en persona, según la costumbre oriental, y se inclinan hasta el suelo. El regalo buscaba ganarse el favor del gobernador. La reverencia reconocía el lugar de cada uno, como hizo Jacob ante Esaú.",
+     "fuentes": [
+      "beacon_08#60",
+      "cbmh_16#12",
+      "edersheim_09#50"
+     ],
+     "tipo": "cultura_costumbres"
+    },
+    {
+     "texto": "Sin saberlo, vuelven a cumplir el sueño que José tuvo de muchacho (37:5-8; 42:6).",
+     "fuentes": [
+      "macarthur_06#69"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "José pregunta una y otra vez por el padre, «el anciano que dijisteis», y ellos responden que aún vive. Muestra un interés íntimo por la familia, y sus palabras disimulan mal lo que siente. Edersheim ve en la escena una prueba profunda para José: los hermanos, inclinados ante él, no podían imaginar lo que pasaba por su cabeza.",
+     "fuentes": [
+      "edersheim_10#2",
+      "cbmh_16#12",
+      "edersheim_09#50"
+     ],
+     "tipo": "explicacion_texto"
+    }
+   ]
+  },
+  {
+   "rango": "43:29-31",
+   "titulo": "José busca dónde llorar",
+   "notas": [
+    {
+     "texto": "Entonces mira a Benjamín, «hijo de su madre», a quien dejó en casa con apenas un año. Según Edersheim, ahora tiene delante a un joven algo mayor de lo que era José cuando empezó su amarga estancia en la cárcel. Lo bendice con una frase muy poco egipcia: «Dios tenga misericordia de ti, hijo mío». José nombra a Dios con naturalidad, pero los hermanos no reconocen a su propio Dios, el del pacto, en boca de alguien que parece solo un egipcio.",
+     "fuentes": [
+      "edersheim_09#49",
+      "edersheim_10#3",
+      "edersheim_10#2",
+      "macarthur_06#70",
+      "cbmh_16#12"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Es demasiado. Se le conmueven las entrañas, sale apurado y llora a solas en su cuarto. Después se lava la cara, se domina y vuelve a la mesa. No es la única vez que José llora en esta historia (42:24; 45:2; 46:29).",
+     "fuentes": [
+      "beacon_08#60",
+      "r2_032#17",
+      "macarthur_06#71"
+     ],
+     "tipo": "personaje"
+    },
+    {
+     "texto": "El Comentario Bíblico Mundo Hispano lo dice así: «En verdad José, pese a su posición y dura experiencia en la vida política, no perdió su ternura ni su amor hacia su familia.» Esa fortaleza le permitía seguir sin darse a conocer, y eso refuerza la idea de que seguía un plan para revelarse a los suyos.",
+     "fuentes": [
+      "cbmh_16#13"
+     ],
+     "tipo": "personaje"
+    }
+   ]
+  },
+  {
+   "rango": "43:32",
+   "titulo": "Tres mesas separadas",
+   "notas": [
+    {
+     "texto": "Sirven en tres grupos: José aparte, los hermanos aparte y los egipcios aparte. José come solo por su rango, como miembro de una casta superior, y los egipcios, por sus escrúpulos religiosos. Tenían fuertes prejuicios contra los hebreos y cuidaban de no comer con extranjeros: compartir la mesa con ellos dejaba un estigma. Esos escrúpulos venían de ideas de pureza ritual, y el texto dice que comer pan con hebreos era «abominación a los egipcios».",
+     "fuentes": [
+      "beacon_08#61",
+      "edersheim_10#4",
+      "kline_06#42",
+      "macarthur_06#72"
+     ],
+     "tipo": "cultura_costumbres"
+    },
+    {
+     "texto": "«Hebreos» era el nombre que otros pueblos daban a Abraham y sus descendientes. Aquí marca el contraste entre Israel y las demás naciones.",
+     "fuentes": [
+      "dbmh_08#48"
+     ],
+     "tipo": "cultura_costumbres"
+    }
+   ]
+  },
+  {
+   "rango": "43:33-34",
+   "titulo": "Una mesa que prueba el corazón",
+   "notas": [
+    {
+     "texto": "Los sientan del mayor al menor, y se miran atónitos. ¿Cómo sabía un egipcio el orden exacto de nacimiento de hijos de cuatro madres? Había pistas: su preocupación por Jacob, su cariño por Benjamín, el nombre de Dios en su boca. Aun así no llegan a la única explicación lógica: evidentemente no pensaban que José estuviera vivo, y menos con tanto poder. Para MacArthur, probablemente se habían estado riendo todos esos años al recordar los sueños de superioridad de José.",
+     "fuentes": [
+      "kline_06#41",
+      "macarthur_06#73",
+      "edersheim_10#5",
+      "cbmh_16#14",
+      "beacon_08#62"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "José les sirve de su propia mesa, y a Benjamín le da cinco veces más. En los banquetes antiguos, los invitados más honrados recibían porciones más grandes o más selectas, y Edersheim anota que en Egipto la ración de honor parece haber sido cinco veces mayor: una distinción extraordinaria para los antiguos. Además, según el Comentario Bíblico Mundo Hispano, rompía la costumbre patriarcal: Benjamín recibe la «porción doble» que normalmente le tocaba al primogénito (el versículo habla de cinco veces).",
+     "fuentes": [
+      "dbmh_03#60",
+      "edersheim_10#4",
+      "edersheim_10#5",
+      "cbmh_16#14",
+      "dbmh_07#60"
+     ],
+     "tipo": "cultura_costumbres"
+    },
+    {
+     "texto": "Esa porción es una prueba silenciosa. El hijo de Raquel vuelve a ser el preferido, como en casa de su padre. La pregunta de fondo es si los que una vez sacrificaron a un hermano por celos abandonarían ahora al otro por egoísmo. Si quedaba envidia, tenía que salir a la luz. No salió: nadie dijo nada, y «bebieron, y se alegraron con él». Esa falta de resentimiento sugiere un corazón convertido. Pero José todavía tiene preparada una última prueba.",
+     "fuentes": [
+      "macarthur_06#74",
+      "edersheim_10#5",
+      "edersheim_10#2",
+      "r2_032#17",
+      "beacon_08#62",
+      "kline_06#43"
+     ],
+     "tipo": "explicacion_texto"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "43:30",
+   "hebreo": "רַחֲמָיו",
+   "translit": "rachamav (rachamim)",
+   "significado": "Es la palabra que está detrás de «se conmovieron sus entrañas». En el versículo lleva el sufijo «sus» (rachamav); Buswell la cita en plural, rachamim. Designa el interior de la persona, lo que no es material, en su lado afectuoso y sentimental, sobre todo en el afecto y el amor hacia otros. Su equivalente griego, splangchna, es de uso frecuente en el Nuevo Testamento.",
+   "fuentes": [
+    "r2_044#17"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Judá, el fiador. MacArthur ve en Judá una ilustración de lo que es ser fiador: antes de este segundo viaje se ofreció ante Jacob como garantía por Benjamín (43:9). Hoy Benjamín está a la mesa del gobernador; más adelante, cuando la copa aparezca en su saco, Judá se ofrecerá de nuevo como siervo en lugar del joven (44:33), una segunda garantía para cumplir la primera. Dispuesto a todo por cumplir su promesa al padre, Judá ilustra la idea de Cristo como garantía del nuevo pacto, el que garantiza el pago de todas las deudas de nuestros pecados.",
+   "refs": [
+    "Gn 43:9",
+    "Gn 44:33"
+   ],
+   "fuentes": [
+    "r1_009#36",
+    "r1_011#23"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "Las palabras del mayordomo: ¿los calmaron o los asustaron más?",
+   "posturas": [
+    {
+     "postura": "Con palabras amables alejó sus temores, y al ver libre a Simeón cobraron ánimo.",
+     "quien": "Edersheim",
+     "fuentes": [
+      "edersheim_09#49"
+     ]
+    },
+    {
+     "postura": "Lejos de aliviarlos, oír que su Dios estaba detrás del dinero reforzó el miedo de que Dios les estuviera cobrando la culpa de sangre que cargaban.",
+     "quien": "Comentario Bíblico Mundo Hispano",
+     "fuentes": [
+      "cbmh_16#11"
+     ]
+    },
+    {
+     "postura": "Estaban tan nerviosos y tan ocupados en justificarse que no captaron lo que se les decía de Dios.",
+     "quien": "Kline y MacArthur",
+     "fuentes": [
+      "kline_06#40",
+      "macarthur_06#68"
+     ]
+    }
+   ],
+   "nota": "El texto registra el «no temáis» del mayordomo, pero no dice qué sintieron los hermanos; de ahí las distintas lecturas."
+  },
+  {
+   "tema": "¿Creía el mayordomo en el Dios de José?",
+   "posturas": [
+    {
+     "postura": "Hay dos posibilidades: que hubiera llegado a la fe en Dios, o que se hubiera familiarizado mucho con la forma en que José hablaba de su Dios y de la vida.",
+     "quien": "MacArthur",
+     "fuentes": [
+      "macarthur_06#68"
+     ]
+    },
+    {
+     "postura": "Se había ganado la confianza de José y quizá había llegado a aceptar su fe.",
+     "quien": "Kline",
+     "fuentes": [
+      "kline_06#40"
+     ]
+    }
+   ],
+   "nota": "Ninguno lo afirma con certeza."
+  },
+  {
+   "tema": "¿Qué buscaba José con el banquete?",
+   "posturas": [
+    {
+     "postura": "Al ver a Benjamín, José quedó satisfecho del gran cambio de actitud de sus hermanos y ordenó el banquete.",
+     "quien": "Livingston (Comentario Bíblico Beacon)",
+     "fuentes": [
+      "beacon_08#58"
+     ]
+    },
+    {
+     "postura": "El banquete fue además una prueba: el favor hacia Benjamín sacaría a la luz cualquier envidia. La pasaron, pero José guardaba una prueba más.",
+     "quien": "Kline, MacArthur y Edersheim",
+     "fuentes": [
+      "kline_06#43",
+      "macarthur_06#74",
+      "edersheim_10#2"
+     ]
+    }
+   ],
+   "nota": "Beacon ubica la satisfacción de José al ver a Benjamín; los otros, en la reacción de los hermanos ante su porción. Coinciden en que los hermanos habían cambiado."
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "En su comentario a Hebreos, MacArthur recurre a esta historia para mostrar qué es un fiador: la garantía de Judá por Benjamín y su segundo ofrecimiento, cuando aparece la copa, son para él una excelente ilustración de Cristo como garantía del nuevo pacto.",
+   "autor": "John MacArthur",
+   "obra": "Comentario MacArthur del Nuevo Testamento: Hebreos",
+   "tipo": "doctrina",
+   "fuentes": [
+    "r1_011#23",
+    "r1_009#36"
+   ]
+  },
+  {
+   "texto": "Lucado cuenta la escena de un hombre a punto de quebrarse: al fijarse en Benjamín, José casi se derrumba, dice «Dios tenga misericordia de ti, hijo mío» y sale a llorar. Al volver, da a Benjamín una porción cinco veces mayor y los hermanos no dicen nada.",
+   "autor": "Max Lucado",
+   "obra": "Saldrás de esta",
+   "tipo": "ilustracion",
+   "fuentes": [
+    "r2_032#17"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Gn 42:21-22",
+   "nota": "El Comentario Mundo Hispano lee que la culpa de sangre que los hermanos cargan desde el primer viaje hace que hasta la mención de Dios los asuste.",
+   "fuentes": [
+    "cbmh_16#11"
+   ]
+  },
+  {
+   "ref": "Gn 37:5-8",
+   "nota": "El sueño de José se cumple otra vez cuando sus hermanos se inclinan ante él (ver también 42:6).",
+   "fuentes": [
+    "macarthur_06#69"
+   ]
+  },
+  {
+   "ref": "Gn 42:18",
+   "nota": "MacArthur remite a este versículo al notar que José empleaba con naturalidad el nombre de Dios ante los hermanos.",
+   "fuentes": [
+    "macarthur_06#70"
+   ]
+  },
+  {
+   "ref": "Gn 44:20",
+   "nota": "Más adelante se ve que los hermanos no pensaban que José siguiera vivo.",
+   "fuentes": [
+    "macarthur_06#73"
+   ]
+  },
+  {
+   "ref": "1 S 9:22-24",
+   "nota": "Otro banquete donde se sienta a los invitados por rango y se honra a uno con una porción especial.",
+   "fuentes": [
+    "dbmh_03#60"
+   ]
+  },
+  {
+   "ref": "Dt 21:17",
+   "nota": "La ley de la primogenitura daba al hijo mayor una porción doble de la herencia; en la mesa de José, el honor va al menor.",
+   "fuentes": [
+    "dbmh_07#60",
+    "cbmh_16#14"
+   ]
+  },
+  {
+   "ref": "1 P 4:10",
+   "nota": "«Mayordomo», el que administra una casa, se usa también para los ministros del evangelio (1 Co 4:1) y para los creyentes.",
+   "fuentes": [
+    "dbmh_13#56"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Cuando la culpa sigue abierta, hasta la bondad parece una trampa. Los hermanos entendieron la invitación a la casa del gobernador como un lazo. Si algo del pasado los hace desconfiar de la gracia de Dios o del otro, no lo dejen guardado: llévenlo delante de Dios.",
+   "fuentes": [
+    "cbmh_16#11",
+    "kline_06#40",
+    "beacon_08#58"
+   ]
+  },
+  {
+   "texto": "La ansiedad tapa la voz de Dios. Los hermanos estaban tan preocupados por justificarse que no oyeron que se les hablaba de su Dios. En los días de nervios, frenen y escuchen.",
+   "fuentes": [
+    "macarthur_06#68",
+    "kline_06#40"
+   ]
+  },
+  {
+   "texto": "Hablen de Dios con naturalidad. José lo nombraba en su conversación, y su mayordomo hablaba con la misma soltura, ya fuera porque había llegado a creer o porque se había familiarizado con cómo José hablaba de su Dios y de la vida. Lo que se dice de Dios en una casa llega a quienes la rodean.",
+   "fuentes": [
+    "macarthur_06#70",
+    "macarthur_06#68",
+    "kline_06#40"
+   ]
+  },
+  {
+   "texto": "Alégrense con el bien del otro. La prueba de la mesa fue ver honrado a otro sin envidiarlo, y los hermanos se alegraron. En el matrimonio también se ve el corazón cuando al otro lo reconocen o lo prefieren.",
+   "fuentes": [
+    "macarthur_06#74",
+    "kline_06#43",
+    "beacon_08#62"
+   ]
+  },
+  {
+   "texto": "Firmes y tiernos a la vez. José tenía una posición de poder y una dura experiencia en la vida política, y no perdió la ternura ni el amor por su familia.",
+   "fuentes": [
+    "cbmh_16#13",
+    "beacon_08#60"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "Los hermanos leyeron la invitación del gobernador como una amenaza por la culpa que cargaban. ¿Hay algo del pasado que hoy los haga desconfiar de la gracia de Dios o de su pareja?",
+  "José y su mayordomo hablaban de Dios con naturalidad. ¿Cómo se habla de Dios en su casa, y qué perciben de eso quienes los visitan o trabajan con ustedes?",
+  "Benjamín recibió cinco veces más y sus hermanos se alegraron con él. ¿En qué situaciones les cuesta alegrarse cuando el otro es reconocido o preferido, y cómo pueden ayudarse en eso?"
+ ],
+ "para_orar": "Señor, gracias porque obrás aun cuando no te reconocemos, como en la casa de José. Librános de la culpa que nos hace ver trampas donde hay gracia, y danos oídos atentos cuando alguien nos habla de vos. Hacé nuestro corazón capaz de alegrarse por el bien del otro, sin envidia, y danos la ternura de José, firme y llena de amor por los nuestros. Te lo pedimos en el nombre de Jesús, nuestro fiador. Amén.",
+ "profundizar": [
+  {
+   "titulo": "Cómo era un banquete antiguo",
+   "texto": "Edersheim cuenta que, según la historia secular, los egipcios se abstenían de ciertas carnes y no usaban los cuchillos, tenedores ni utensilios de cocina de personas de otra nación. Las porciones de honor variaban: ante príncipes y gobernantes, los espartanos ponían ración doble y los cretenses cuatro veces más; en Egipto parece que era cinco veces mayor. En los banquetes bíblicos se sentaba a los invitados según su rango (1 S 9:22; Lc 14:8), se lavaban las manos (2 R 3:11) y se oraba para bendecir los alimentos (1 S 9:13; Mt 15:36; Lc 22:17). A veces se mandaban porciones a los amigos que no habían ido (2 S 11:8; Neh 8:10). La cita de José era al mediodía, la hora en que el sol brillaba más; después bajaba el calor y llegaba el fresco del día (Gn 3:8).",
+   "fuentes": [
+    "edersheim_10#4",
+    "dbmh_03#60",
+    "dbmh_17#48"
+   ]
+  },
+  {
+   "titulo": "Jacob espera atrás",
+   "texto": "Edersheim describe la partida de los hermanos «en nombre del Dios de Israel», Benjamín incluido. Jacob se quedó atrás en los vados de Jaboc, no en soledad, sino con fe y paciencia, esperando el resultado.",
+   "fuentes": [
+    "edersheim_09#49"
+   ]
+  },
+  {
+   "titulo": "Lo que queda de la historia",
+   "texto": "Según los intertítulos de su comentario, Edersheim ordena así lo que sigue: José pone a prueba a sus hermanos (la copa y la defensa de Judá), José se da a conocer, Jacob y su familia se preparan para descender a Egipto y van allá, Jacob se entrevista con Faraón, enferma y pide ser sepultado en Canaán, Efraín y Manasés son admitidos entre los hijos de Israel, y llegan la última bendición y la muerte de Jacob.",
+   "fuentes": [
+    "edersheim_10#1"
+   ]
+  }
+ ],
+ "notas_no_usadas": "Se usaron las 37 notas. Solo quedaron afuera detalles puntuales: en kline_06#41, la referencia «v. 39» (errata ya señalada en la nota; se lee v. 33); en macarthur_06#71, las referencias 45:24-25 de su lista de llantos de José; en edersheim_09#50, la frase final cortada («Sus…»); en macarthur_06#72, la comparación con 46:34; en dbmh_08#48 y dbmh_07#60, las referencias secundarias (Éx 1:15; 2:11; 1 S 13:3; 14:21; Gn 25:24-26; 38:27-30), marginales para este pasaje."
+}

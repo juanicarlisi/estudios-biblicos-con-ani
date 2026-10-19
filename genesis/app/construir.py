@@ -6,6 +6,8 @@ Lee: trabajo/plan/plan.json, trabajo/dias/dia_NN.json, trabajo/extracciones/*, t
      trabajo/mapas/datos_mapas.json y trabajo/textos/*.json (introducción, cómo usar, fuentes).
 """
 import json, glob, os, re, sys, html
+sys.path.insert(0, '/home/user/trabajo/scripts')
+from insumos_dias import OBRAS_BIBLIO
 
 T = '/home/user/trabajo'
 AQUI = os.path.dirname(os.path.abspath(__file__))
@@ -131,6 +133,24 @@ def idx_toledot(desde):
     return actual
 
 
+# etiquetas cortas que el apellido final no resuelve bien (apellidos compuestos, obras colectivas)
+ETIQUETAS = [
+    (r'^comentario b[ií]blico mundo hispano', 'Mundo Hispano'), (r'editores generales: juan carlos cevallos', 'Mundo Hispano'),
+    (r'p[ée]rez millos', 'Pérez Millos'), (r'de haan', 'De Haan'), (r'juan c\. de la cruz', 'De la Cruz'),
+    (r'^antonio cruz', 'A. Cruz'), (r'coleman jr', 'Coleman'), (r'^varios \(plumer', 'Portavoz de la Gracia'),
+    (r'^varios \(jeremy pierre', '9Marcas'), (r'^varios autores \(compilaci', 'Antología'),
+    (r'^elizabeth george', 'E. George'), (r'^jim george', 'J. George'), (r'^joel b\. green', 'J. B. Green'),
+    (r'^les thompson', 'L. Thompson'), (r'^w\. oscar thompson', 'O. Thompson'),
+]
+
+
+def etiqueta_ref3(autor, ape):
+    for pat, et in ETIQUETAS:
+        if re.search(pat, autor, re.I):
+            return et
+    return ape
+
+
 def notas_por_id():
     out = {}
     for f in glob.glob(f'{T}/extracciones/biblio/*.json'):
@@ -144,6 +164,12 @@ def notas_por_id():
         for i, n in enumerate(json.load(open(f))['notas'], 1):
             autor = (n.get('autor') or '').strip(); obra = (n.get('obra') or '').strip()
             ape = re.split(r'\s+y\s+|,|\(', autor)[0].strip().split()[-1] if autor else 'Referencia'
+            if n.get('archivo') in OBRAS_BIBLIO:
+                autor, obra, ape = OBRAS_BIBLIO[n['archivo']]
+            ape = etiqueta_ref3(autor, ape)
+            m = re.search(r'citado por ([^)]+)\)', autor)
+            if autor.lower().startswith('autor no identificado') and m:
+                ape = m.group(1).split()[-1]; autor = f'Cita recogida por {m.group(1)}'
             out[f'{b}#{i}'] = [ape, f'{autor}, {obra}', f"pág. PDF {n.get('pagina', '')}".replace('pág. PDF pág. PDF', 'pág. PDF')]
     return out
 
@@ -154,8 +180,17 @@ def main():
         p['toledot'] = idx_toledot(p['desde'])
     rvr = json.load(open(f'{T}/biblia/rvr1960_genesis.json'))['texto']
     dias = {}
-    for f in sorted(glob.glob(f'{T}/dias/dia_*.json')):
+    for f in sorted(glob.glob(f"{T}/dias/{os.environ.get('DIAS', 'dia_')}*.json")):   # DIAS=borrador_ para probar con borradores
         d = json.load(open(f)); dias[d['dia']] = d
+    meta_arts = json.load(open(f'{T}/plan/articulos.json'))
+    articulos = {}
+    for a in meta_arts:
+        f = f"{T}/articulos/art_{a['id']}.json"
+        if os.path.exists(f):
+            x = json.load(open(f))
+            for v in x.get('versiculos', []):
+                v['ref'] = re.sub(r'^(Gn|Gén|Génesis)\.?\s*', '', v['ref'].strip())
+            articulos[a['id']] = x
     todas = notas_por_id()
     usados = set()
     def recoger(o):
@@ -168,15 +203,22 @@ def main():
         elif isinstance(o, list):
             for v in o:
                 recoger(v)
-    recoger(dias)
+    recoger(dias); recoger(articulos)
     # versículos clave (RVR1960; menos de 500 versículos en total)
     clave = {}
-    for d in dias.values():
-        r = d['versiculo_clave']['ref'].replace(' ', '')
-        m = re.match(r'(\d+):(\d+)(?:-(\d+))?', r)
+    def poner(ref):
+        m = re.match(r'(\d+):(\d+)(?:-(\d+))?$', ref.replace(' ', ''))
         if m:
             c, a, b = int(m.group(1)), int(m.group(2)), int(m.group(3) or m.group(2))
-            clave[d['versiculo_clave']['ref']] = ' '.join(rvr[str(c)][str(v)] for v in range(a, b + 1) if str(v) in rvr[str(c)])
+            if 1 <= c <= 50 and b - a < 6:
+                clave[ref] = ' '.join(rvr[str(c)][str(v)] for v in range(a, b + 1) if str(v) in rvr[str(c)])
+    for d in dias.values():
+        poner(d['versiculo_clave']['ref'])
+    for x in articulos.values():
+        for v in x.get('versiculos', []):
+            poner(v['ref'])
+    n_vers = sum(1 + (int(m.group(2)) - int(m.group(1)) if (m := re.search(r':(\d+)-(\d+)$', r)) else 0) for r in clave)
+    assert n_vers <= 500, f'demasiados versículos RVR citados: {n_vers}'
     # lugares por día (según el texto del pasaje)
     lugares_dia = {}
     V = [len(rvr[str(c)]) for c in range(1, 51)]
@@ -202,6 +244,12 @@ def main():
              'advertencia': 'Kline, Beacon, Mundo Hispano y MacArthur coinciden en que las genealogías de Génesis 5 y 11 son selectivas o representativas, no completas: pueden saltar generaciones. Por eso estas cuentas sirven para ver el orden y la duración de las vidas tal como el texto las presenta, pero no para fechar la creación ni el diluvio.',
              'fuentes': advert_ids}
     fuentes = {i: todas[i] for i in usados if i in todas}
+    # versículos de cada sección del libro (para el diagrama de la estructura)
+    orden = [(c, int(v)) for c in range(1, 51) for v in sorted(map(int, rvr[str(c)]))]
+    versos_toledot = {}
+    for k, t in enumerate(TOLEDOT):
+        fin = TOLEDOT[k + 1][4] if k + 1 < len(TOLEDOT) else (51, 0)
+        versos_toledot[t[0]] = sum(1 for x in orden if t[4] <= x < fin)
     ref_obras = sorted({tuple(todas[i][1].split(', ', 1)) for i in usados if i in todas and i.startswith(('r1_', 'r2_'))})
     textos = {}
     for f in glob.glob(f'{T}/textos/*.json'):
@@ -211,7 +259,8 @@ def main():
     textos.setdefault('fuentes', {'html': '<p>Cada afirmación del estudio lleva etiquetas con sus fuentes: tocándolas se ve la obra y la página.</p>'})
     datos = {
         'plan': plan,
-        'toledot': [{'id': a, 'etiqueta': b, 'titulo': c, 'rango': d, 'inicio': f'{e[0]}:{e[1]}'} for a, b, c, d, e in TOLEDOT],
+        'toledot': [{'id': a, 'etiqueta': b, 'titulo': c, 'rango': d, 'inicio': f'{e[0]}:{e[1]}', 'versos': versos_toledot[a]} for a, b, c, d, e in TOLEDOT],
+        'articulos': articulos, 'articulos_orden': [{k: a[k] for k in ('id', 'grupo', 'titulo', 'parte', 'rango') if k in a} for a in meta_arts],
         'dias': dias, 'fuentes': fuentes, 'rvr': clave,
         'mapas': json.load(open(f'{T}/mapas/datos_mapas.json')),
         'lugares_dia': lugares_dia, 'linea_dia': linea_dia, 'linea': linea, 'familias': FAMILIAS, 'textos': textos,
@@ -222,7 +271,7 @@ def main():
     js = 'window.DATOS = ' + json.dumps(datos, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/') + ';'
     out = plantilla.replace('/*__DATOS__*/', js)
     open(SALIDA, 'w').write(out)
-    print('escrito', os.path.abspath(SALIDA), f'{len(out)/1e6:.2f} MB', '| días', len(dias), '| fuentes', len(fuentes), '| versículos RVR', len(clave))
+    print('escrito', os.path.abspath(SALIDA), f'{len(out)/1e6:.2f} MB', '| días', len(dias), '| artículos', len(articulos), '| fuentes', len(fuentes), '| versículos RVR', n_vers)
 
 
 if __name__ == '__main__':

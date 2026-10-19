@@ -95,6 +95,10 @@ def main():
         c1, v1 = map(int, d['desde'].split(':')); c2, v2 = map(int, d['hasta'].split(':'))
         dias.append((idx(c1, v1), idx(c2, v2)))
     por_dia = collections.defaultdict(list); panorama = collections.defaultdict(list); libro = []; sin = []
+    sobrantes = collections.defaultdict(list)
+    selecciones = {}   # día (índice 0) -> ids de referencia elegidos por la curaduría
+    for f in glob.glob(f'{BASE}/insumos/curaduria/dia_*.json'):
+        dd = json.load(open(f)); selecciones[dd['dia'] - 1] = set(dd['ids'])
     partes_rango = {}
     for d, (a, b) in zip(plan, dias):
         p = d['parte']; x = partes_rango.get(p, (a, b)); partes_rango[p] = (min(x[0], a), max(x[1], b))
@@ -108,8 +112,17 @@ def main():
         a, b = r; span = b - a + 1
         tocados = [i for i, (x, y) in enumerate(dias) if not (b < x or a > y)]
         if span <= 60:
-            for i in tocados:
-                por_dia[i].append(n)
+            if n['origen'] == 'ref3':
+                # una nota de referencia va a un solo día: el de mayor superposición (evita repetir ideas en días seguidos)
+                mejor = max(tocados, key=lambda i: (min(b, dias[i][1]) - max(a, dias[i][0]), -i))
+                sel = selecciones.get(mejor)
+                if sel is None or n['id'] in sel:
+                    por_dia[mejor].append(n)
+                else:
+                    sobrantes[mejor].append(n)
+            else:
+                for i in tocados:
+                    por_dia[i].append(n)
         else:
             ps = sorted({plan[i]['parte'] for i in tocados})
             if len(ps) == 1 and span <= 900:
@@ -135,6 +148,11 @@ def main():
                f'=== NOTAS ({len(ns)}) ===']
         open(f'{BASE}/insumos/dia_{d["dia"]:02d}.txt', 'w').write('\n'.join(cab) + '\n' + '\n\n'.join(linea(n) for n in ns) + '\n')
         stats.append((d['dia'], len(ns), sum(len(linea(n)) for n in ns)))
+    os.makedirs(f'{BASE}/insumos/sobrantes', exist_ok=True)
+    for i, ns in sobrantes.items():
+        json.dump([n['id'] for n in ns], open(f'{BASE}/insumos/sobrantes/dia_{i+1:02d}.json', 'w'))
+    ref3_dia = {plan[i]['dia']: sum(len(linea(n)) for n in ns if n['origen'] == 'ref3') for i, ns in por_dia.items()}
+    json.dump(ref3_dia, open(f'{BASE}/insumos/_ref3_por_dia.json', 'w'))
     for p, ns in panorama.items():
         open(f'{BASE}/insumos/panorama_parte_{p}.txt', 'w').write('\n\n'.join(linea(n) for n in sorted(ns, key=lambda n: rango(n['ref'])[0])))
     open(f'{BASE}/insumos/libro_intro_y_temas.txt', 'w').write('\n\n'.join(linea(n) for n in libro))

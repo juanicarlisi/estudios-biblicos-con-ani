@@ -1,0 +1,328 @@
+{
+ "bloque": "dbmh_19",
+ "notas": [
+  {
+   "ref": "tema",
+   "tipo": "explicacion_texto",
+   "titulo": "Qué es la lista de «Nombres no incluidos en el diccionario»",
+   "contenido": "El Diccionario Bíblico Mundo Hispano (vol. II) explica que los nombres de personas y lugares que aparecen una sola vez en la Biblia no tienen entrada en el cuerpo principal si de ellos nada se conoce más allá de la mera mención del nombre; unos cuantos nombres de las genealogías caen en esta categoría. En algunos casos también se incluyen nombres que aparecen dos veces pero que de otro modo no se conocen. Lo que sigue en el volumen es una lista completa de esos nombres, cada uno con su cita bíblica. Para Génesis, la lista sirve como índice: indica que el diccionario no ofrece datos adicionales sobre esos nombres, solo su referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 463",
+   "importancia": 1
+  },
+  {
+   "ref": "4:16-22",
+   "tipo": "personaje",
+   "titulo": "Nombres de Génesis 4 sin entrada propia (línea de Caín)",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a estos nombres de Génesis 4: Nod (4:16); Irad, Mejuyael y Metusael (4:18); Zila (4:19-22); Jubal (4:21); Tubal-caín (4:22). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 477, 481, 484, 486, 496, 497",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 4:16",
+    "Génesis 4:18",
+    "Génesis 4:19-22",
+    "Génesis 4:21",
+    "Génesis 4:22"
+   ]
+  },
+  {
+   "ref": "5:18-20",
+   "tipo": "personaje",
+   "titulo": "Jared, sin entrada propia",
+   "contenido": "Jared (Gén 5:18-20) figura en la lista de nombres sin entrada propia en el diccionario; solo se consigna la cita, sin datos adicionales.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 479",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 5:18-20"
+   ]
+  },
+  {
+   "ref": "10",
+   "tipo": "personaje",
+   "titulo": "Nombres de la tabla de las naciones (Gén 10) sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a estos nombres de Génesis 10: Tiras (10:2; también 1 Crón 1:5); Rifat (10:3; 1 Crón 1:6); Sabta, Sabteca y Seba (10:7; Sabta y Sabteca también en 1 Crón 1:9); Resén (10:12); Anameos y Naftujitas (10:13; 1 Crón 1:11); Sineo (10:17; 1 Crón 1:15); Zemareo (10:18; 1 Crón 1:16); Geter y Hul (10:23; 1 Crón 1:17); Hazar-mávet, Jéraj y Selef (10:26; Hazar-mávet y Jéraj también en 1 Crón 1:20); Dicla y Uzal (10:27; 1 Crón 1:21); Abimael (10:28; 1 Crón 1:22); Sefar (10:30). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 463, 465, 470, 473, 476, 477, 480, 485, 490, 491, 492, 493, 495, 496, 497",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 10:2",
+    "Génesis 10:3",
+    "Génesis 10:7",
+    "Génesis 10:12",
+    "Génesis 10:13",
+    "Génesis 10:17",
+    "Génesis 10:18",
+    "Génesis 10:23",
+    "Génesis 10:26",
+    "Génesis 10:27",
+    "Génesis 10:28",
+    "Génesis 10:30",
+    "1 Crónicas 1"
+   ]
+  },
+  {
+   "ref": "11",
+   "tipo": "personaje",
+   "titulo": "Reu e Isca, sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a Reu (Gén 11:18, 19) e Isca (Gén 11:29). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 478, 490",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 11:18-19",
+    "Génesis 11:29"
+   ]
+  },
+  {
+   "ref": "14:2",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Zoar se llamaba antes Bela",
+   "contenido": "Según el diccionario, la ciudad cananea de Zoar (heb. tso’ar, «pequeña») fue «llamada Bela con anterioridad», con cita a Génesis 14:2. Ver la nota de Zoar en 19:20-22 para el resto de la entrada.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 422",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 14:2"
+   ],
+   "hebreo": {
+    "palabra": "tso’ar",
+    "transliteracion": "tso’ar",
+    "significado": "pequeña"
+   }
+  },
+  {
+   "ref": "14:5",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Zomzoneos: los gigantes del este del Jordán, quizá los zuzitas",
+   "contenido": "Zomzoneos (heb. zamzummin, «murmuradores») es un nombre hallado solo en Deuteronomio 2:20. Se usa para designar la raza de gigantes llamados refaítas o refaím (2 Sam 5:18-22), que vivían al este del Jordán. Más tarde los amonitas los capturaron y ocuparon su territorio. El diccionario añade que pueden ser los mismos zuzitas de Génesis 14:5.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 422",
+   "importancia": 2,
+   "postura": "El diccionario propone, con cautela («pueden ser»), que los zomzoneos de Deut 2:20 sean los zuzitas de Gén 14:5.",
+   "refs_biblicas": [
+    "Génesis 14:5",
+    "Deuteronomio 2:20",
+    "2 Samuel 5:18-22"
+   ],
+   "hebreo": {
+    "palabra": "zamzummin",
+    "transliteracion": "zamzummin",
+    "significado": "murmuradores"
+   }
+  },
+  {
+   "ref": "14",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Nombres de Génesis 14 sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a estos nombres de Génesis 14: Tidal (14:1, 9); Birsa, Semeber y Sinab (14:2); Save-quiriataim (14:5); En-mispat y Hazezón-tamar (14:7); Hoba (14:15); y el valle de Savé (14:17). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 469, 472, 476, 477, 491, 492, 493, 495",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 14:1",
+    "Génesis 14:2",
+    "Génesis 14:5",
+    "Génesis 14:7",
+    "Génesis 14:9",
+    "Génesis 14:15",
+    "Génesis 14:17"
+   ]
+  },
+  {
+   "ref": "15:19",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Cadmoneos, sin entrada propia",
+   "contenido": "Cadmoneos (Gén 15:19) figura en la lista de nombres sin entrada propia en el diccionario; solo se consigna la cita, sin datos adicionales.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 469",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 15:19"
+   ]
+  },
+  {
+   "ref": "16:7",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Shur, sin entrada propia",
+   "contenido": "Shur (Gén 16:7; 20:1) figura en la lista de nombres sin entrada propia en el diccionario; solo se consigna la cita, sin datos adicionales.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 492",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 16:7",
+    "Génesis 20:1"
+   ]
+  },
+  {
+   "ref": "19:20-22",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Zoar: la ciudad pequeña que se salvó por la oración de Lot",
+   "contenido": "Zoar (heb. tso’ar, «pequeña») era una antigua ciudad cananea, hoy probablemente bajo las aguas de la bahía en la parte sudeste del mar Muerto. Había sido llamada Bela (Gén 14:2). Se salvó de destrucción inmediata junto con Sodoma y Gomorra en respuesta a la oración de Lot (Gén 19:20-22). Cuando Moisés estuvo sobre el monte Pisga para ver la Tierra Prometida, Zoar estaba en el límite sur de su vista (Deut 34:3). En la sentencia contra Moab (Isaías 15) los fugitivos moabitas debían ir a Zoar (15:5), y Jeremías 48:34 habla de su ruina posterior.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 422",
+   "importancia": 2,
+   "cita": "se salvó de destrucción inmediata con Sodoma y Gomorra en respuesta a la oración de Lot",
+   "refs_biblicas": [
+    "Génesis 14:2",
+    "Génesis 19:20-22",
+    "Deuteronomio 34:3",
+    "Isaías 15:5",
+    "Jeremías 48:34"
+   ],
+   "hebreo": {
+    "palabra": "tso’ar",
+    "transliteracion": "tso’ar",
+    "significado": "pequeña"
+   }
+  },
+  {
+   "ref": "22:22-24",
+   "tipo": "personaje",
+   "titulo": "Nombres de la familia de Nacor (Gén 22) sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a estos nombres de Génesis 22: Hazo, Jidlaf y Quesed (22:22); Gajam, Tajas y Reúma (22:24). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 473, 476, 480, 488, 490, 494",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 22:22",
+    "Génesis 22:24"
+   ]
+  },
+  {
+   "ref": "23:8",
+   "tipo": "personaje",
+   "titulo": "Zojar el hitita, padre de Efrón",
+   "contenido": "Zojar es, en la primera acepción del diccionario, un hitita noble, padre de Efrón, a quien Abraham compró el campo de Macpela donde sepultó en una cueva el cuerpo de Sara (Gén 23:8; también citado en 25:9).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 422",
+   "importancia": 2,
+   "cita": "Un hitita noble, padre de Efrón, a quien Abraham compró el campo de Macpela donde sepultó en una cueva el cuerpo de Sara",
+   "refs_biblicas": [
+    "Génesis 23:8",
+    "Génesis 25:9"
+   ]
+  },
+  {
+   "ref": "25:2-15",
+   "tipo": "personaje",
+   "titulo": "Nombres de los descendientes de Cetura e Ismael (Gén 25) sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a estos nombres de Génesis 25: Zimrán, Jocsán, Medán e Isbac (25:2; Jocsán también 25:3; Zimrán y Medán también en 1 Crón 1:32); Eldaa (25:4); Adbeel (25:13; 1 Crón 1:29); Masá (25:14; 1 Crón 1:30); Quedema (25:15). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 463, 471, 478, 480, 483, 488, 497",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 25:2",
+    "Génesis 25:3",
+    "Génesis 25:4",
+    "Génesis 25:13",
+    "Génesis 25:14",
+    "Génesis 25:15",
+    "1 Crónicas 1:29-32"
+   ]
+  },
+  {
+   "ref": "26:20-34",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Esec, Sitna, Seba y Judit (Gén 26), sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a estos nombres de Génesis 26: Esec (26:20; también 1 Crón 8:38-40), Sitna (26:21), Seba (26:31, 33) y Judit (26:34). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 472, 481, 491, 493",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 26:20",
+    "Génesis 26:21",
+    "Génesis 26:31",
+    "Génesis 26:33",
+    "Génesis 26:34"
+   ]
+  },
+  {
+   "ref": "31:37-48",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Galed y Yegar-sahaduta (Gén 31), sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a Galed (Gén 31:47, 48) y a Yegar-sahaduta (cita dada por el diccionario: Gén 31:37). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 473, 496",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 31:37",
+    "Génesis 31:47-48"
+   ]
+  },
+  {
+   "ref": "35:7",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El-betel, sin entrada propia",
+   "contenido": "El-betel (Gén 35:7) figura en la lista de nombres sin entrada propia en el diccionario; solo se consigna la cita, sin datos adicionales.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 471",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 35:7"
+   ]
+  },
+  {
+   "ref": "36",
+   "tipo": "personaje",
+   "titulo": "Nombres de la genealogía de Esaú/Edom (Gén 36) sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a numerosos nombres de Génesis 36: Zibeón (36:2, 14); Jalam (36:5, 18); Omar (36:11, 15); Miza (36:13, 17); Disán (36:21); Alván (36:23; 1 Crón 1:40); Esbán, Hemdán y Querán (36:26; Esbán y Querán también 1 Crón 1:41); Acán (36:27); Zaaván (36:27; 1 Crón 1:42); Arán (36:28; 1 Crón 1:42); Dinaba (36:32); Temanitas (36:34); Husam (36:34, 35; 1 Crón 1:45, 46); Bedad y Avit (36:35; Bedad también 1 Crón 1:46); Samla (36:36, 37; 1 Crón 1:47, 48); Mezaab (36:39; 1 Crón 1:50); Alva y Jetet (36:40; Jetet también 1 Crón 1:51); Pinón (36:41; 1 Crón 1:52); Mibzar (36:42); Magdiel e Iram (36:43; 1 Crón 1:54). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 463, 465, 466, 467, 470, 471, 472, 476, 477, 479, 480, 483, 484, 485, 486, 488, 491, 495, 496, 497",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 36:2-43",
+    "1 Crónicas 1:40-54"
+   ]
+  },
+  {
+   "ref": "38",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Jira, Quezib y Enaim (Gén 38), sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a Jira (Gén 38:1, 12), Quezib (38:5) y Enaim (38:14, 21). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 472, 480, 488",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 38:1",
+    "Génesis 38:5",
+    "Génesis 38:12",
+    "Génesis 38:14",
+    "Génesis 38:21"
+   ]
+  },
+  {
+   "ref": "41:45",
+   "tipo": "personaje",
+   "titulo": "Zafenat-panéaj, sin entrada propia",
+   "contenido": "Zafenat-panéaj (Gén 41:45) figura en la lista de nombres sin entrada propia en el diccionario; solo se consigna la cita, sin datos adicionales.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 496",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 41:45"
+   ]
+  },
+  {
+   "ref": "46:10",
+   "tipo": "personaje",
+   "titulo": "Zojar, hijo de Simeón (también llamado Séraj)",
+   "contenido": "En su segunda acepción, el diccionario identifica a Zojar como un hijo de Simeón (Gén 46:10; Éx 6:15), también llamado Séraj (Núm 26:13; 1 Crón 4:24).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 422",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 46:10",
+    "Éxodo 6:15",
+    "Números 26:13",
+    "1 Crónicas 4:24"
+   ]
+  },
+  {
+   "ref": "46:10-17",
+   "tipo": "personaje",
+   "titulo": "Nombres de los hijos de Israel que entraron a Egipto (Gén 46) sin entrada propia",
+   "contenido": "El diccionario no da entrada propia, y solo consigna la cita, a estos nombres de Génesis 46: Ohad (46:10; también Éx 6:15); Yajleel y Sered (46:14; también Núm 26:26); Arelim (46:16; Núm 26:17), Eri (46:16) y Suni (46:16; Núm 26:15); Isva (46:17; 1 Crón 7:30). No agrega datos sobre ellos más allá de la referencia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 466, 472, 478, 486, 492, 494, 496",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 46:10",
+    "Génesis 46:14",
+    "Génesis 46:16",
+    "Génesis 46:17"
+   ]
+  },
+  {
+   "ref": "50:11",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Atad, sin entrada propia",
+   "contenido": "Atad (Gén 50:11) figura en la lista de nombres sin entrada propia en el diccionario; solo se consigna la cita, sin datos adicionales.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 466",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 50:11"
+   ]
+  }
+ ],
+ "problemas": "Este bloque es muy pobre en contenido sobre Génesis: solo la cola de la letra Z (entradas Zoar, Zojar y Zomzoneos relevantes; Zofaj, Zofar, Zojelet y Zora, ajenas a Génesis, se ignoraron) y la lista «Nombres no incluidos en el diccionario», que solo da nombres y citas, sin datos. Por eso las notas de la lista tienen importancia 1 y están agrupadas por pasaje. Correcciones de OCR: «Muer-to» leído como «Muerto»; los códigos de cita <244834> (Jeremías 48:34) y <050220> (Deut 2:20) venían partidos o desplazados a una línea aparte y se reubicaron según el contexto. Los textos no traen marcadores [Page N], así que el rótulo de página es solo el encabezado PÁGINA PDF. Las páginas 464, 468, 474-475, 482, 487 y 489 del diccionario no están en este segmento, por lo que la lista de nombres está incompleta (pueden faltar nombres de Génesis de esas páginas). Yegar-sahaduta aparece con la cita codificada <013137> (Gén 31:37) en el original; se transcribió tal cual y se marcó como cita del diccionario, porque Galed se cita en 31:47-48 y la cita parece un posible error de la fuente. «Hazezón-tamar» viene con «Gén 14:7» sin código numérico. Para identificar nombres (por ejemplo, de quién descienden) no se agregó nada que el diccionario no diga."
+}

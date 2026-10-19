@@ -1,0 +1,857 @@
+{
+ "bloque": "dbmh_13",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "El Pentateuco y el lugar de Génesis: de la creación a la promesa a Abraham",
+   "contenido": "El Pentateuco (heb. torah, ley o enseñanza) son los cinco primeros libros de la Biblia (Génesis, Éxodo, Levítico, Números y Deuteronomio) y cubre desde la creación hasta el fin de la era mosaica. Génesis comienza con un relato de la creación, pero pronto centra su interés en la raza humana. A Adán y Eva se les confió la responsabilidad de cuidar del mundo que los rodeaba, pero perdieron ese privilegio por su desobediencia y su pecado. En las generaciones siguientes el mundo se volvió tan malvado que toda la raza humana, excepto Noé y su familia, fue destruida. Cuando la nueva civilización también se degeneró, Dios eligió cumplir sus promesas de redención a través de Abraham.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 109",
+   "importancia": 3,
+   "hebreo": {
+    "palabra": "torah",
+    "transliteracion": "torah",
+    "significado": "ley o enseñanza"
+   }
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de Génesis dentro del Pentateuco (era de los comienzos y período patriarcal)",
+   "contenido": "La era patriarcal (Génesis 12—50) narra los acontecimientos de aproximadamente cuatro generaciones: las de Abraham, Isaac, Jacob y José. El bosquejo del diccionario para el Pentateuco asigna a Génesis los puntos I y II. I. La era de los comienzos (Gén 1:1—11:32): A. el relato de la creación (1:1—2:25); B. la caída del hombre y sus consecuencias (3:1—6:10); C. el diluvio, juicio de Dios sobre el hombre (6:11—8:19); D. el nuevo comienzo del hombre (8:20—11:32). II. El período patriarcal (12:1—50:26): A. vida de Abraham (12:1—25:18); B. Isaac y Jacob (25:19—36:43); C. José (37:1—50:26). El punto III, la emancipación de Israel, comienza en Éxodo 1:1—19:2 y ya queda fuera de Génesis.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 110",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Génesis 1:1—11:32",
+    "Génesis 12:1—50:26",
+    "Éxodo 1:1—19:2"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "contexto_historico",
+   "titulo": "Estructura del núcleo histórico del Pentateuco después de Génesis",
+   "contenido": "Luego de los primeros versículos de Éxodo, el resto del Pentateuco se limita, cronológicamente, al período de la vida de Moisés; por eso la liberación de Israel de Egipto y su preparación para entrar en Canaán son el tema principal. El esquema que da el diccionario: Éxodo 1—19, de Egipto al monte Sinaí; Éxodo 19—Números 10, Israel acampa en el Sinaí (aprox. un año); Números 10—21, el pueblo vaga por el desierto (aprox. 38 años); Números 22—Deuteronomio 34, Israel acampa frente a Canaán (aprox. un año). La ley mosaica fue entregada en el Sinaí; como pueblo con el que Dios había hecho un pacto, los israelitas no debían conformarse a las prácticas idolátricas de los egipcios ni a las costumbres de los cananeos, cuya tierra debían conquistar y poseer. La religión de Israel era una religión revelada, y la entrada a Canaán se postergó aprox. 40 años por la incredulidad de los israelitas.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 110",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Éxodo 1—19",
+    "Números 10—21",
+    "Deuteronomio 34"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "personaje",
+   "titulo": "Patriarca: el título del NT para los fundadores de la nación hebrea",
+   "contenido": "Patriarca es el título con que se conoce en el NT a quienes fundaron la raza y la nación hebrea: Abraham (Hebreos 7:4), los hijos de Jacob (Hechos 7:8, 9) y David (Hechos 2:29). El diccionario remite a sus artículos sobre Abraham, Isaac, Jacob y José, los cuatro que protagonizan la era patriarcal de Génesis.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 98",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Hebreos 7:4",
+    "Hechos 7:8-9",
+    "Hechos 2:29"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "teologia_doctrina",
+   "titulo": "Los pactos de la Biblia: la lista de ocho y la definición de «dispensación»",
+   "contenido": "El artículo enumera los pactos bíblicos. El primer ítem queda cortado al comienzo de la página (solo se lee su final: «de la simiente de la mujer»). (2) El noéico (Gén 9:9), para la preservación de la simiente. (3) El abrahámico (Gén 15:18), que otorga bendición a través de la familia de Abram. (4) El sinaítico (Éx 19:5, 6), que designa a Israel como pueblo escogido de Dios. (5) El levítico (Núm 25:12, 13), reconciliación a través de la expiación sacerdotal. (6) El davídico (2 Sam 23:5), salvación mesiánica por la dinastía de David. (7) El presente nuevo pacto en Cristo, interno, reconciliador, directo y con expiación consumada (Jer 31:33, 34; Heb 8:6-13). (8) El futuro pacto de paz, cuando la salvación interior abrazará la naturaleza exterior (Ez 34:25), la comunión espiritual directa será cara a cara (Ez 20:35; 37:27) y el perdón divino conquistará la meta de la paz entre las naciones (Ez 34:28). Entre paréntesis define «dispensación».",
+   "cita": "Una “dispensación” puede definirse como un período de pacto durante el cual la fe en Cristo se manifiesta por una forma distinta de obediencia ceremonial.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Génesis 9:9",
+    "Génesis 15:18",
+    "Éxodo 19:5-6",
+    "Números 25:12-13",
+    "2 Samuel 23:5",
+    "Jeremías 31:33-34",
+    "Hebreos 8:6-13",
+    "Ezequiel 34:25",
+    "Ezequiel 34:28"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "hebreo_palabra",
+   "titulo": "Los términos bíblicos para pecado (hebreos y griegos)",
+   "contenido": "Los autores bíblicos describieron el pecado con diversos términos. Hebreos que cita el diccionario: hatta'the (errar), 'awon (iniquidad, maldad, culpa), pesha' (rebelión, transgresión) y ra' (maldad, lo malo). Griegos: adikia (injusticia, iniquidad, maldad), hamartia (pecado, falta), hamartema (pecado), parabasis (transgresión, infracción, rebelión, contravención), paraptoma (ofensa, delito, pecado, falta, yerro) y ponería (malicia, maldad). Observa que solo cuando los autores bíblicos están conscientes de la santidad de Dios se dan cuenta de verdad de su pecado (1 Reyes 17:18; Salmo 51:4-6; Isaías 6).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 99",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "hatta'the",
+    "transliteracion": "hatta'the",
+    "significado": "errar (los otros términos: 'awon, iniquidad, maldad, culpa; pesha', rebelión, transgresión; ra', maldad, lo malo)"
+   },
+   "refs_biblicas": [
+    "1 Reyes 17:18",
+    "Salmo 51:4-6",
+    "Isaías 6"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "Medidas de longitud, distancia, capacidad y superficie en la Biblia",
+   "contenido": "Los antiguos hebreos usaban el paso (como un metro), el codo (largo del antebrazo), el palmo (ancho de una mano, como la mitad de un codo) y el dedo (como un cuarto de un palmo); en Egipto se usaba un sistema similar. El codo común equivalía a unos 45 o 46 cm; Ezequiel menciona un codo regular más un palmo menor, de unos 53 cm. La inscripción del túnel de Ezequías da 1.200 codos y el túnel mide 547 m, lo que da un codo de 45 cm; las excavaciones en edificios antiguos confirman 45 o 46 cm, o cañas de 6 codos. La caña (instrumento de medir) tenía 6 codos y la braza casi 2 m. Las medidas de tierra se indicaban por lo que una yunta de bueyes araba en un día o por la parte de un campo que se sembraba con cebada en un día. El hin era un pote, el efa una cesta, el omer una gavilla y el homer la carga de un asno.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 118",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Ezequiel 40:5",
+    "Ezequiel 43:13",
+    "2 Crónicas 3:3",
+    "1 Samuel 14:14",
+    "Isaías 5:10",
+    "Levítico 27:16"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "El pastor: oficio de los patriarcas, dueño o empleado",
+   "contenido": "Pastor es quien cuida bueyes, ovejas, cabras y camellos. Los patriarcas fueron destacados pastores y los pastores de David se contaron entre sus principales funcionarios de estado. En general, el pastor rara vez era dueño del rebaño. Su función es proteger al rebaño de las bestias, evitar que las ovejas deambulen solas y se pierdan, y dirigirlas hacia los pastos adecuados. También era pastor el empleado que atendía, llevaba a pastar y cuidaba las ovejas, y el diccionario da como ejemplos a Abel, Raquel y David. El diccionario remite también a la entrada «Ganadero» (el pastor que es a la vez propietario de las ovejas).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 52",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 13:7",
+    "Génesis 26:20",
+    "1 Samuel 21:7",
+    "Amós 1:1",
+    "Amós 7:14"
+   ]
+  },
+  {
+   "ref": "tema",
+   "tipo": "cultura_costumbres",
+   "titulo": "El equipo del pastor",
+   "contenido": "El equipo del pastor consistía generalmente en un saco o bolsa de cuero de cabra con las patas atadas, para llevar alimento y otros elementos; una honda para protegerse de los animales salvajes; una vara de aprox. 80 cm de largo con un nudo en un extremo; un cayado con un extremo curvado en gancho; una flauta de caña para entretenerse y calmar a las ovejas; y una manta para cubrirse durante la noche.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 53",
+   "importancia": 1
+  },
+  {
+   "ref": "2:11-12",
+   "tipo": "conexion_biblica",
+   "titulo": "Havila y su buen oro, vinculada con Ofir",
+   "contenido": "Al tratar de Ofir (tierra rica en oro, 1 Reyes 9:28), el diccionario señala que Ofir está ubicada entre Seba y Havila, ambas en el sur de Arabia, y remite a Génesis 2:11, 12, donde la vecina Havila es renombrada por su buen oro. Agrega que Ofir fue famosa por su oro desde tiempos muy antiguos (Job 22:24; 28:16).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 57",
+   "importancia": 1,
+   "refs_biblicas": [
+    "1 Reyes 9:28",
+    "Job 22:24",
+    "Job 28:16",
+    "Génesis 10:29"
+   ]
+  },
+  {
+   "ref": "2:15",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El jardín del Edén en la traducción griega: «paraíso» y su ubicación incierta",
+   "contenido": "El artículo sobre Paraíso (cuyo comienzo, con la palabra griega, queda cortado) dice que el término se traduce como bosques, jardines o huertos (Neh 2:8; Ecl 2:5; Cant 4:13). La Septuaginta (LXX) usa la palabra griega 46 veces, en una variada categoría de lugares, y la aplica al jardín del Edén (Gén 2:15; 3:23). La ubicación exacta del paraíso es incierta. En 2 Corintios 12:4 Pablo usa la palabra identificándola con el tercer cielo.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 95",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 3:23",
+    "Nehemías 2:8",
+    "Eclesiastés 2:5",
+    "Cantares 4:13",
+    "2 Corintios 12:4"
+   ],
+   "postura": "El autor no fija el lugar: afirma que la ubicación exacta del paraíso es incierta."
+  },
+  {
+   "ref": "3",
+   "tipo": "teologia_doctrina",
+   "titulo": "Cómo entró el pecado en la existencia humana según Génesis",
+   "contenido": "El primer libro del AT revela que los seres humanos fueron creados por Dios sin pecado, pero escogieron actuar en contra de su voluntad revelada y así hicieron que el pecado llegase a ser un rasgo endémico de la existencia humana (Génesis 3; Salmo 14:1-3). El diccionario define el pecado como una rebelión contra la santidad y la soberana voluntad de Dios. Para Israel el pecado fue el fracaso en guardar las condiciones del pacto que el Señor misericordiosamente había hecho en el Sinaí (Éxodo 19 ss.). Afirma que no existe persona alguna en Israel o en todo el mundo que no sea pecadora.",
+   "cita": "El pecado es una rebelión en contra de la santidad y de la soberana voluntad de Dios.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 99",
+   "importancia": 3,
+   "refs_biblicas": [
+    "Salmo 14:1-3",
+    "Éxodo 19"
+   ]
+  },
+  {
+   "ref": "4:20",
+   "tipo": "explicacion_texto",
+   "titulo": "«Padre» como originador de una forma de vida",
+   "contenido": "Entre los usos figurados y derivados de «padre» el diccionario menciona el de originador de una forma de vida, y cita Génesis 4:20. Es uno de los usos de ’av (heb.) / pater (gr.) junto con el de antepasado espiritual (Juan 8:44; Romanos 4:11), el de alguien que muestra bondad y sabiduría paternal con otro (Jueces 17:10) o el de superior venerado (1 Samuel 10:12; 1 Juan 2:13).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "’av",
+    "transliteracion": "’av",
+    "significado": "padre"
+   },
+   "refs_biblicas": [
+    "Juan 8:44",
+    "Romanos 4:11",
+    "Jueces 17:10"
+   ]
+  },
+  {
+   "ref": "6:5",
+   "tipo": "teologia_doctrina",
+   "titulo": "El pecado como condición del corazón y su resultado en pensamiento, palabras y hechos",
+   "contenido": "El pecado es tanto una condición del corazón, la mente, la voluntad y los sentimientos (Isaías 29:13; Jeremías 17:9) como el resultado práctico y palpable de esa condición en pensamientos, palabras y hechos que ofenden a Dios y transgreden su santa ley (Génesis 6:5; Isaías 59:12, 13). El diccionario cita Génesis 6:5 junto con Isaías 59:12-13 como ejemplo de esa expresión visible de la condición pecaminosa.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 99",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Isaías 29:13",
+    "Jeremías 17:9",
+    "Isaías 59:12-13"
+   ]
+  },
+  {
+   "ref": "6:9",
+   "tipo": "teologia_doctrina",
+   "titulo": "Los «justos» no están libres de pecado: la dirección de su vida",
+   "contenido": "Los que tienen una relación recta con Dios, reciben su perdón y andan en sus sendas son a veces llamados justos (Génesis 6:9) e íntegros (Job 1:1; Salmo 18:20-24). El diccionario aclara que no es porque estén libres de pecado, sino porque la verdadera dirección de sus vidas es servir y agradar a Dios en la forma como él lo exige.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 99",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Job 1:1",
+    "Salmo 18:20-24"
+   ]
+  },
+  {
+   "ref": "6:14",
+   "tipo": "cultura_costumbres",
+   "titulo": "El oficio de carpintero y sus herramientas",
+   "contenido": "Carpintero es quien labraba la madera; un constructor. El diccionario nota que en la Biblia se menciona a menudo el trabajo de los carpinteros (Gén 6:14; Éxodo 37; Isaías 44:13). David empleó carpinteros fenicios en su palacio (2 Samuel 5:11; 1 Crónicas 14:1). Entre las herramientas de los antiguos egipcios estaban la azuela, el serrucho o sierra, la escuadra, la lezna, el martillo y el recipiente para la cola (Éxodo 21:6; Jeremías 10:4).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 46",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Éxodo 37",
+    "Isaías 44:13",
+    "2 Samuel 5:11",
+    "1 Crónicas 14:1",
+    "Éxodo 21:6",
+    "Jeremías 10:4"
+   ]
+  },
+  {
+   "ref": "9:9",
+   "tipo": "teologia_doctrina",
+   "titulo": "El pacto noéico: preservación de la simiente",
+   "contenido": "En la serie de pactos bíblicos que enumera el diccionario, el segundo es el noéico (Génesis 9:9), cuyo fin es la preservación de la simiente. El pacto anterior de la lista, cuyo inicio queda cortado, se refiere a «la simiente de la mujer»; el siguiente, el abrahámico, otorga bendición a través de la familia de Abram.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 15:18"
+   ]
+  },
+  {
+   "ref": "10",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Los nombres de la Tabla de Naciones suelen indicar localidades",
+   "contenido": "El diccionario advierte que los nombres de la Tabla de Naciones (Génesis 10) muchas veces indican localidades. Lo ilustra con Ofir, hijo de Joctán, ubicado entre Seba y Havila, ambas en el sur de Arabia, y con los patruseos, descendientes de Mizraim que parecen haber sido los habitantes de Patros, en el Alto Egipto.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 57",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 10:13-14",
+    "Génesis 10:29"
+   ]
+  },
+  {
+   "ref": "10:9",
+   "tipo": "cultura_costumbres",
+   "titulo": "La caza: una de las ocupaciones más antiguas y de alta estima",
+   "contenido": "La tarea de cazador, de aves u otros animales, fue una de las ocupaciones más antiguas. Lo que en principio fue un medio de supervivencia llegó a ser una forma de recreación. Se la tenía en alta estima y todas las clases sociales la practicaban, especialmente los nobles (Génesis 10:9; 27:3, 5; 1 Samuel 26:20; Job 38:39; Proverbios 6:5).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 46",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 27:3",
+    "Génesis 27:5",
+    "1 Samuel 26:20",
+    "Job 38:39",
+    "Proverbios 6:5"
+   ]
+  },
+  {
+   "ref": "10:13-14",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Patros y los patruseos, descendientes de Mizraim",
+   "contenido": "Patros (nombre que en el AT aparece en Ezequiel 29:14; 30:14, Isaías 11:11 y Jeremías 44:1, 15) era el Alto Egipto, la tierra del sur de Egipto, que se extendía desde el sur de Menfis hasta la primera catarata. Los patruseos de Génesis 10:14 parecen haber sido los habitantes de este territorio. Patruseos (heb. pathrusi, habitantes de Patros) son egipcios que, según se cree, provenían de Patros; descienden de Mizraim (Génesis 10:13, 14; 1 Crónicas 1:11, 12).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 98",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "pathrusi",
+    "transliteracion": "pathrusi",
+    "significado": "habitantes de Patros"
+   },
+   "refs_biblicas": [
+    "1 Crónicas 1:11-12",
+    "Ezequiel 29:14",
+    "Ezequiel 30:14",
+    "Isaías 11:11",
+    "Jeremías 44:1"
+   ]
+  },
+  {
+   "ref": "10:25",
+   "tipo": "hebreo_palabra",
+   "titulo": "Peleg («división»): en sus días fue dividida la tierra",
+   "contenido": "Peleg (heb. pelegh, división) fue uno de los hijos de Heber (Génesis 10:25; 11:16-19; 1 Crónicas 1:19, 25). Se lo llamó Peleg porque en sus días fue dividida la tierra. El diccionario dice que esto probablemente se refiere a la confusión de los idiomas y a la consecuente dispersión de los descendientes de Noé (Génesis 11:1-9).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 109",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "pelegh",
+    "transliteracion": "pelegh",
+    "significado": "división"
+   },
+   "postura": "El autor interpreta, con cautela («probablemente»), que la división de la tierra alude a la confusión de lenguas y dispersión de Babel (Gén 11:1-9).",
+   "refs_biblicas": [
+    "Génesis 11:1-9",
+    "Génesis 11:16-19",
+    "1 Crónicas 1:19",
+    "1 Crónicas 1:25"
+   ]
+  },
+  {
+   "ref": "10:29",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Ofir, hijo de Joctán, y la tierra de Ofir",
+   "contenido": "Ofir fue hijo de Joctán, hijo de Heber (Génesis 10:29). Como los nombres de la Tabla de Naciones suelen indicar localidades, Ofir está ubicado entre Seba y Havila, ambas en el sur de Arabia. La tierra ocupada por sus descendientes era rica en oro (1 Reyes 9:28; cf. Génesis 2:11, 12, donde la vecina Havila es renombrada por su buen oro). En Arabia, Ofir quizá haya sido además una escala para las naves de Tarsis que iban hacia el oeste desde la India, si los monos, el marfil y los pavos reales (1 Reyes 10:22) y la madera de sándalo (1 Reyes 10:11, 12) provenían de la India. Fue famosa por su oro desde tiempos muy antiguos (Job 22:24; 28:16).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 57",
+   "importancia": 2,
+   "postura": "El autor plantea como posibilidad («quizá», «si es que») que Ofir fuera escala de las naves de Tarsis desde la India.",
+   "refs_biblicas": [
+    "1 Reyes 9:28",
+    "1 Reyes 10:22",
+    "1 Reyes 10:11-12",
+    "Job 22:24",
+    "Job 28:16"
+   ]
+  },
+  {
+   "ref": "13:7",
+   "tipo": "cultura_costumbres",
+   "titulo": "El pastor rara vez era dueño del rebaño",
+   "contenido": "El diccionario dice que, en general, el pastor rara vez era el dueño del rebaño o del grupo de animales que cuidaba, y cita Génesis 13:7 y 26:20 junto con 1 Samuel 21:7 y Amós 1:1; 7:14. Reitera que los patriarcas fueron destacados pastores.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 52",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 26:20",
+    "1 Samuel 21:7",
+    "Amós 1:1",
+    "Amós 7:14"
+   ]
+  },
+  {
+   "ref": "13:10",
+   "tipo": "arqueologia_geografia",
+   "titulo": "La llanura del Jordán que vio Lot, llamada «paraíso» en la LXX",
+   "contenido": "La Septuaginta usa la palabra griega traducida «paraíso» 46 veces, para una variada categoría de lugares. Además del jardín del Edén (Génesis 2:15; 3:23), la aplica a la bien regada llanura del Jordán que vio Lot (Génesis 13:10).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 95",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 2:15",
+    "Génesis 3:23"
+   ]
+  },
+  {
+   "ref": "14:6",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El-parán y el desierto de Parán",
+   "contenido": "Parán (heb. paran, ornamental) es una zona desértica mencionada por primera vez como El-parán (Génesis 14:6). Sus límites parecen inciertos y está situada en la zona central de la península del Sinaí. Los cuatro reyes del oriente pasaron por esta región al tratar de sofocar la rebelión de sus vasallos (Génesis 14:6). Una de las rutas comerciales más importantes de la época cruzaba Parán. Más adelante en la Biblia los israelitas acamparon allí dos veces tras dejar el Sinaí (Números 10:12; 12:16) y los espías subieron desde ese desierto (Números 13:3, 26).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 95",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "paran",
+    "transliteracion": "paran",
+    "significado": "ornamental"
+   },
+   "refs_biblicas": [
+    "Números 10:12",
+    "Números 12:16",
+    "Números 13:3",
+    "Números 13:26"
+   ]
+  },
+  {
+   "ref": "15:2",
+   "tipo": "personaje",
+   "titulo": "Eliezer, siervo de Abraham: función comparable a la de un primer ministro",
+   "contenido": "Bajo «Mayordomo» (Siervo), el diccionario explica que el término designa a cualquier persona que estaba bajo la autoridad de otra, a veces con el sentido de joven o ministro. Se aplica a la relación de autoridad entre hombres en altos cargos, como Eliezer, cuya función en la casa de Abraham era comparable a la de un primer ministro (Génesis 15:2; 24:2; Proverbios 14:35). Aclara que en Génesis 15:2 la RVA traduce «heredero» y remite a la nota de la RVA.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 51",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 24:2",
+    "Proverbios 14:35"
+   ],
+   "postura": "El diccionario nota la variante de traducción (RVA: «heredero») en 15:2 y remite a la nota de esa versión."
+  },
+  {
+   "ref": "15:18",
+   "tipo": "teologia_doctrina",
+   "titulo": "El pacto abrahámico: bendición a través de la familia de Abram",
+   "contenido": "El diccionario ubica el pacto abrahámico (Génesis 15:18) como el tercero de su serie de pactos bíblicos: otorga bendición a través de la familia de Abram. Lo coloca después del noéico (preservación de la simiente) y antes del sinaítico (Israel, pueblo escogido de Dios).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 9:9",
+    "Éxodo 19:5-6"
+   ]
+  },
+  {
+   "ref": "17:4",
+   "tipo": "explicacion_texto",
+   "titulo": "«Padre» como antepasado: Abraham, padre de muchedumbres",
+   "contenido": "Bajo «Padre» (heb. ’av; gr. pater) el segundo sentido es el de antepasado, inmediato o remoto. Dios le dice a Abraham que será padre de muchedumbres de gentes (Génesis 17:4). El término se usa para los patriarcas (Romanos 9:5) y para los jefes de los clanes (Éxodo 6:14; 1 Crónicas 27:1). Entre los usos figurados está el de antepasado espiritual (Juan 8:44; Romanos 4:11).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "’av",
+    "transliteracion": "’av",
+    "significado": "padre"
+   },
+   "refs_biblicas": [
+    "Romanos 9:5",
+    "Romanos 4:11",
+    "Juan 8:44",
+    "Éxodo 6:14",
+    "1 Crónicas 27:1"
+   ]
+  },
+  {
+   "ref": "21:21",
+   "tipo": "arqueologia_geografia",
+   "titulo": "El desierto de Parán, donde vivió Ismael",
+   "contenido": "El diccionario indica que el desierto de Parán, en la zona central de la península del Sinaí, era la zona donde vivía Ismael (Génesis 21:21). Por allí cruzaba una de las rutas comerciales más importantes de la época.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 95",
+   "importancia": 1
+  },
+  {
+   "ref": "24:2",
+   "tipo": "personaje",
+   "titulo": "El siervo de Abraham (Eliezer) como administrador de la casa",
+   "contenido": "Génesis 24:2 se cita entre los pasajes que ilustran el oficio del siervo de mayor rango: Eliezer, cuya función en la casa de Abraham era comparable a la de un primer ministro (junto con Génesis 15:2 y Proverbios 14:35). El diccionario define ese siervo como persona bajo la autoridad de otra, a veces con el sentido de joven o ministro.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 51",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 15:2",
+    "Proverbios 14:35"
+   ]
+  },
+  {
+   "ref": "24:11-14",
+   "tipo": "aplicacion_practica",
+   "titulo": "Orar en campo abierto y orar por todo: lo que importa es la actitud",
+   "contenido": "Entre los ejemplos de oración que da el diccionario, Génesis 24:11, 12 aparece como oración en campo abierto y Génesis 24:12-14 como ejemplo de que se ora literalmente por todo (cf. Filipenses 4:6; 1 Timoteo 2:1-4). El artículo hace notar que a lo largo de la Biblia las personas oran de rodillas, de pie, sentadas y postradas; con las manos alzadas; en silencio y en voz alta; solas o unidas; en momentos determinados o en cualquier momento; en cualquier lugar (la cama, el templo, la orilla del río, el campo de batalla); espontánea o litúrgicamente. La enseñanza: lo importante es la actitud en la oración, no la postura física.",
+   "cita": "Obviamente, a través de toda la Biblia la importancia no está adjudicada a la postura o posición física correctas, sino a la actitud correcta en la oración.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 66",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Filipenses 4:6",
+    "1 Timoteo 2:1-4",
+    "1 Timoteo 2:8"
+   ]
+  },
+  {
+   "ref": "24:15",
+   "tipo": "hebreo_palabra",
+   "titulo": "Bato: «hija» y el cántaro de la que va al pozo",
+   "contenido": "Entre las medidas de capacidad, el diccionario señala que la palabra bato significa hija, y se pregunta si este cántaro podría ser el que la hija de uno llevaba a su casa desde el pozo (Génesis 24:15). Es una conjetura planteada como pregunta, no una afirmación.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 118",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "bato",
+    "transliteracion": "bato",
+    "significado": "hija"
+   },
+   "postura": "El autor solo plantea la posibilidad en forma de pregunta."
+  },
+  {
+   "ref": "24:59",
+   "tipo": "cultura_costumbres",
+   "titulo": "La nodriza de Rebeca acompañó a Canaán y fue sepultada con lamentación",
+   "contenido": "Una nodriza (ama) es quien cuida, hace de tutor o guía de otra persona, por ejemplo en un período de inexperiencia o enfermedad. En la antigüedad ocupaba un lugar honroso en una casa de familia, a menudo como maestra (2 Samuel 4:4; 2 Reyes 11:2). La nodriza de Rebeca la acompañó a Canaán (Génesis 24:59) y a su muerte fue sepultada con grande lamentación (Génesis 35:8). A los padres o madres adoptivos a menudo se los llamaba tutores o nodrizas (Rut 4:16; Isaías 49:23).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 52",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 35:8",
+    "2 Samuel 4:4",
+    "2 Reyes 11:2",
+    "Rut 4:16",
+    "Isaías 49:23"
+   ]
+  },
+  {
+   "ref": "26:20",
+   "tipo": "cultura_costumbres",
+   "titulo": "Pastores empleados: los pastores no eran los dueños del ganado",
+   "contenido": "Génesis 26:20 es uno de los pasajes (junto con Génesis 13:7, 1 Samuel 21:7 y Amós 1:1; 7:14) que el diccionario cita para sostener que, en general, el pastor rara vez era el dueño del rebaño o del grupo de animales que cuidaba.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 52",
+   "importancia": 1
+  },
+  {
+   "ref": "27:3",
+   "tipo": "cultura_costumbres",
+   "titulo": "Tres métodos de caza en la Biblia: arco y flecha, redes y pozos",
+   "contenido": "La Biblia menciona tres métodos principales de caza. (1) Con arco y flecha (Génesis 27:3). (2) Atrapando con red y jaulas, especialmente aves como codornices, perdices y patos (Jeremías 5:27; Amós 3:5). (3) Con pozos cubiertos con una red o con malezas, para atrapar ciervos, zorros, lobos, osos, leones y otros (Salmo 35:7; Isaías 24:18; 42:22). La caza se practicaba por todas las clases sociales, en especial los nobles (Génesis 27:3, 5).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 46",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Génesis 27:5",
+    "Jeremías 5:27",
+    "Amós 3:5",
+    "Salmo 35:7",
+    "Isaías 24:18",
+    "Isaías 42:22"
+   ]
+  },
+  {
+   "ref": "28:13",
+   "tipo": "explicacion_texto",
+   "titulo": "Abraham llamado «padre» de Jacob (antepasado remoto)",
+   "contenido": "En el sentido de antepasado, inmediato o remoto, el diccionario ejemplifica que se llama padre de Jacob a Abraham (Génesis 28:13). Distingue este uso del de padre como progenitor varón inmediato (Génesis 42:13).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "’av",
+    "transliteracion": "’av",
+    "significado": "padre"
+   }
+  },
+  {
+   "ref": "30:36",
+   "tipo": "cultura_costumbres",
+   "titulo": "Cómo se medían las distancias en el AT: por el tiempo del recorrido",
+   "contenido": "En tiempos del AT la distancia se medía generalmente por la cantidad de tiempo necesario para atravesarla (Génesis 30:36; 31:23). Más tarde, en el NT, se usan el estadio (unos 189 m) y la milla (unos 1.519 m).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 118",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 31:23"
+   ]
+  },
+  {
+   "ref": "31:18",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Padan-Aram, hogar de Labán y lugar del exilio de Jacob",
+   "contenido": "Padan-Aram es el lugar donde vivió Jacob en el exilio (Génesis 31:18), hogar de Labán. El diccionario dice que es muy probable que se trate de Harán, en el valle superior del Eufrates. Algunas veces se traduce simplemente como Mesopotamia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 2,
+   "postura": "El autor considera «muy probable» que Padan-Aram sea Harán, en el valle superior del Eufrates; a veces la palabra se traduce como Mesopotamia."
+  },
+  {
+   "ref": "31:19",
+   "tipo": "cultura_costumbres",
+   "titulo": "La esquila como tiempo de diversión",
+   "contenido": "Al hablar de la esquila, el diccionario dice que esta fiesta generalmente se destaca por ser un tiempo de diversión, y cita Génesis 31:19 (el texto lo cita así). Cuando la lana está lista para ser trasquilada se proclama un tiempo de esquila, y es un tiempo de regocijo.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 48",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 38:12"
+   ]
+  },
+  {
+   "ref": "31:23",
+   "tipo": "cultura_costumbres",
+   "titulo": "Distancia expresada como tiempo de camino",
+   "contenido": "Génesis 31:23 se cita, junto con Génesis 30:36, como ejemplo de que en el AT la distancia se medía generalmente por la cantidad de tiempo necesario para atravesarla.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 118",
+   "importancia": 1
+  },
+  {
+   "ref": "32:24-32",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Peniel («cara de Dios»), donde Jacob luchó con el ángel",
+   "contenido": "Peniel (heb. peni’el, cara de Dios) es el lugar donde Jacob luchó con el ángel de Dios (Génesis 32:24-32). La ubicación exacta no es conocida, aunque estaba al este del Jordán y no lejos de Sucot.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 109",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "peni’el",
+    "transliteracion": "peni’el",
+    "significado": "cara de Dios"
+   }
+  },
+  {
+   "ref": "35:8",
+   "tipo": "cultura_costumbres",
+   "titulo": "Sepultura de la nodriza de Rebeca con grande lamentación",
+   "contenido": "Génesis 35:8 es citado por el diccionario como el pasaje en que la nodriza de Rebeca, que la había acompañado a Canaán (Génesis 24:59), fue sepultada con grande lamentación a su muerte. El diccionario subraya el lugar honroso que ocupaba una nodriza en la casa de familia.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 52",
+   "importancia": 1
+  },
+  {
+   "ref": "36:2",
+   "tipo": "personaje",
+   "titulo": "Oholibama, esposa de Esaú, llamada también Judit",
+   "contenido": "Oholibama (tienda del lugar alto) fue una de las tres esposas de Esaú (Génesis 36:2, 14, 18), llamada también Judit. El diccionario dice que Judit quizá fuera su nombre de soltera (Génesis 26:34) y Oholibama el de casada.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 58",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "oholibamah",
+    "transliteracion": "oholibamah",
+    "significado": "tienda del lugar alto"
+   },
+   "postura": "El autor sugiere, con «quizá», que Judit era el nombre de soltera y Oholibama el de casada.",
+   "refs_biblicas": [
+    "Génesis 26:34",
+    "Génesis 36:14",
+    "Génesis 36:18"
+   ]
+  },
+  {
+   "ref": "36:23",
+   "tipo": "personaje",
+   "titulo": "Onam, quinto hijo de Sobal",
+   "contenido": "Onam (fuerte) fue el quinto hijo de Sobal (Génesis 36:23; 1 Crónicas 1:40). El diccionario menciona además otro Onam, tataranieto de Judá (1 Crónicas 2:26, 28).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 61",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "onam",
+    "transliteracion": "onam",
+    "significado": "fuerte"
+   },
+   "refs_biblicas": [
+    "1 Crónicas 1:40"
+   ]
+  },
+  {
+   "ref": "36:39",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Pau, capital del rey Hadad de Edom",
+   "contenido": "Pau (heb. pa’u, balido) fue la ciudad capital del rey Hadad de Edom (Génesis 36:39; 1 Crónicas 1:50). Su ubicación no ha sido descubierta.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 98",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "pa’u",
+    "transliteracion": "pa’u",
+    "significado": "balido"
+   },
+   "refs_biblicas": [
+    "1 Crónicas 1:50"
+   ]
+  },
+  {
+   "ref": "36:41",
+   "tipo": "personaje",
+   "titulo": "Oholibama, jefe descendiente de Esaú",
+   "contenido": "El diccionario registra una segunda Oholibama como un jefe descendiente de Esaú (Génesis 36:41; 1 Crónicas 1:52), distinto de la esposa de Esaú del mismo nombre (Génesis 36:2).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 58",
+   "importancia": 1,
+   "refs_biblicas": [
+    "1 Crónicas 1:52",
+    "Génesis 36:2"
+   ]
+  },
+  {
+   "ref": "38:4-10",
+   "tipo": "personaje",
+   "titulo": "Onán y el levirato: negarse a consumar el matrimonio con Tamar",
+   "contenido": "Onán fue el segundo hijo de Judá y de su esposa cananea, hija de Súa (Génesis 38:4-10; 46:12; Números 26:19; 1 Crónicas 2:3). Se negó a consumar el matrimonio por levirato con Tamar, viuda de su hermano Er, que había sido un hombre malvado. Por esto el Señor lo hizo morir, dejando a Tamar viuda por segunda vez.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 61",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "onan",
+    "transliteracion": "onan",
+    "significado": "fuerte"
+   },
+   "refs_biblicas": [
+    "Génesis 46:12",
+    "Números 26:19",
+    "1 Crónicas 2:3"
+   ]
+  },
+  {
+   "ref": "38:12",
+   "tipo": "cultura_costumbres",
+   "titulo": "El tiempo de esquila, tiempo de regocijo",
+   "contenido": "Cuando la lana de las ovejas ha crecido y está lista para ser trasquilada, se proclama un tiempo de esquila, y es un tiempo de regocijo (Génesis 38:12; 2 Samuel 13:23, 24). El diccionario agrega que esta fiesta generalmente se destaca por ser un tiempo de diversión.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 48",
+   "importancia": 1,
+   "refs_biblicas": [
+    "2 Samuel 13:23-24"
+   ]
+  },
+  {
+   "ref": "39:1",
+   "tipo": "cultura_costumbres",
+   "titulo": "El «funcionario» designado para los asuntos personales de un soberano",
+   "contenido": "Funcionario es una persona designada para atender los asuntos personales de un soberano (Génesis 39:1). El diccionario dice que Salomón introdujo en la corte el oficio de mayordomo, conocido también como administrador (1 Reyes 4:6; 16:9; 18:3). Sus funciones parecen haber sido la superintendencia del palacio y la atención de los aspectos ceremoniales, e incluía presentar personas al rey. El puesto llegó a ser de especial importancia y se convirtió en el principal servidor (Romanos 16:23).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 48",
+   "importancia": 1,
+   "refs_biblicas": [
+    "1 Reyes 4:6",
+    "1 Reyes 16:9",
+    "1 Reyes 18:3",
+    "Romanos 16:23"
+   ]
+  },
+  {
+   "ref": "40:1-22",
+   "tipo": "cultura_costumbres",
+   "titulo": "El panadero real, que amasaba para el rey",
+   "contenido": "Panadero (amasador) era un oficio que ocupaba una calle especial en Jerusalén (Jeremías 37:21; 1 Samuel 8:13). Además del panadero de familia y del panadero público, estaba el panadero real, quien amasaba para el rey (Génesis 40:1-22; 41:10).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 52",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Génesis 41:10",
+    "Jeremías 37:21",
+    "1 Samuel 8:13"
+   ]
+  },
+  {
+   "ref": "41:8",
+   "tipo": "cultura_costumbres",
+   "titulo": "Los magos: ceremonias supersticiosas y dos tipos de magia",
+   "contenido": "Mago es quien lleva a cabo ceremonias supersticiosas para perjudicar o beneficiar a los seres humanos. A los hebreos se les prohibió consultar a los magos (el diccionario cita Génesis 41:8; Éxodo 7:11, 22; Daniel 1:20; 2:2; 5:11; Hechos 13:6, 8). La magia puede ser de dos tipos: (1) natural o científica, que atribuye su poder a una relación profunda y práctica con la naturaleza; y (2) sobrenatural o espiritual, que atribuye su poder a una relación con agencias celestiales o infernales.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 51",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Éxodo 7:11",
+    "Éxodo 7:22",
+    "Daniel 1:20",
+    "Daniel 2:2",
+    "Daniel 5:11",
+    "Hechos 13:6-8"
+   ]
+  },
+  {
+   "ref": "41:8",
+   "tipo": "cultura_costumbres",
+   "titulo": "Hombres sabios de Egipto agrupados con magos, adivinos y astrólogos",
+   "contenido": "En las naciones paganas los hombres sabios, agrupados con, e identificados como, magos, adivinos, encantadores, astrólogos y caldeos, aparecen en Egipto (Génesis 41:8; Éxodo 7:11), Babilonia (Daniel 2:12—5:15) y Persia (Ester 1:13). El fragmento (cuyo título queda cortado en el inicio de la página) trata a los sabios como una clase distinguida, altamente estimada por los sagaces, y remite a OFICIOS, Mago.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 118",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Éxodo 7:11",
+    "Daniel 2:12",
+    "Ester 1:13"
+   ]
+  },
+  {
+   "ref": "41:45",
+   "tipo": "arqueologia_geografia",
+   "titulo": "On (Heliópolis), ciudad de Egipto de cuyo sacerdote era hija Asenat",
+   "contenido": "On era una ciudad del delta de Egipto, llamada Heliópolis (Ciudad del Sol) por los griegos, nombre con que la traduce la LXX (Génesis 41:45, 50; 46:20; cf. Jeremías 43:13; Ezequiel 30:17). On es una palabra egipcia que significa luz o sol. Fue un centro de comunicaciones y comercio en el norte de Egipto. El sacerdote de On, cuya hija Asenat fue esposa de José, era por tanto una persona de considerable importancia. El diccionario también señala que On se menciona como el lugar en que permaneció la sagrada familia luego de la huida hacia Egipto.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 61",
+   "importancia": 2,
+   "hebreo": {
+    "palabra": "on",
+    "transliteracion": "on",
+    "significado": "luz o sol (palabra egipcia)"
+   },
+   "refs_biblicas": [
+    "Génesis 41:50",
+    "Génesis 46:20",
+    "Jeremías 43:13",
+    "Ezequiel 30:17"
+   ]
+  },
+  {
+   "ref": "41:45",
+   "tipo": "cultura_costumbres",
+   "titulo": "El culto al dios sol en On: identificaciones de Ra",
+   "contenido": "El diccionario describe que la adoración del dios sol, que tenía su centro en On, tenía características muy particulares, que sugerirían una influencia siria. El dios Ra era identificado con Baal por los semitas y con Apolo por los griegos. Esto sitúa el trasfondo religioso del sacerdote de On cuya hija fue esposa de José.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 61",
+   "importancia": 1,
+   "postura": "El autor propone como posibilidad («sugerirían») una influencia siria en el culto solar de On."
+  },
+  {
+   "ref": "42:13",
+   "tipo": "explicacion_texto",
+   "titulo": "«Padre» como progenitor varón inmediato",
+   "contenido": "El primer sentido de «padre» (heb. ’av; gr. pater) es el progenitor varón inmediato (Génesis 42:13). Se ordena reverencia y obediencia de parte de los hijos (Éxodo 20:12; Levítico 19:3; Deuteronomio 5:16). Las Escrituras frecuentemente presentan el carácter y los deberes del padre ideal; el diccionario remite al artículo FAMILIA.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "’av",
+    "transliteracion": "’av",
+    "significado": "padre"
+   },
+   "refs_biblicas": [
+    "Éxodo 20:12",
+    "Levítico 19:3",
+    "Deuteronomio 5:16"
+   ]
+  },
+  {
+   "ref": "43:19",
+   "tipo": "cultura_costumbres",
+   "titulo": "El mayordomo como administrador de una casa",
+   "contenido": "Bajo «Mayordomo» (Administrador), el diccionario define a la persona dedicada al manejo de los diferentes aspectos de una casa (Génesis 43:19; Lucas 16:1). El término se aplica también a los ministros del evangelio (1 Corintios 4:1) y a los creyentes (1 Pedro 4:10).",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 51",
+   "importancia": 1,
+   "refs_biblicas": [
+    "Lucas 16:1",
+    "1 Corintios 4:1",
+    "1 Pedro 4:10"
+   ]
+  },
+  {
+   "ref": "45:8",
+   "tipo": "explicacion_texto",
+   "titulo": "«Padre» como consejero real o primer ministro",
+   "contenido": "Entre los usos figurados de «padre» el diccionario incluye los consejeros reales y los primeros ministros, y cita Génesis 45:8. Es uno de los sentidos derivados de ’av (heb.) junto con el de antepasado, el de originador de una forma de vida (Génesis 4:20) y el de superior venerado.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 85",
+   "importancia": 1,
+   "hebreo": {
+    "palabra": "’av",
+    "transliteracion": "’av",
+    "significado": "padre"
+   },
+   "refs_biblicas": [
+    "Génesis 4:20"
+   ]
+  },
+  {
+   "ref": "46:32",
+   "tipo": "cultura_costumbres",
+   "titulo": "Las ovejas aprenden a conocer la voz de su pastor",
+   "contenido": "El diccionario dice que las ovejas aprendían a conocer la voz de su pastor, y cita Génesis 46:32, 1 Samuel 17:20 y Juan 10:3, 4. Lo menciona al describir el equipo y la tarea del pastor empleado.",
+   "cita": "Las ovejas aprendían a conocer la voz de su pastor",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 53",
+   "importancia": 1,
+   "refs_biblicas": [
+    "1 Samuel 17:20",
+    "Juan 10:3-4"
+   ]
+  },
+  {
+   "ref": "48:15",
+   "tipo": "cristo_en_genesis",
+   "titulo": "Dios como pastor de su rebaño y Cristo como pastor",
+   "contenido": "Metafóricamente, Dios es presentado como el pastor de su rebaño (Génesis 48:15). El diccionario cita varias referencias a Cristo en el mismo sentido: Marcos 14:27 (cf. Zacarías 13:7), Juan 10 y Apocalipsis 7:17.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 53",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Marcos 14:27",
+    "Zacarías 13:7",
+    "Juan 10",
+    "Apocalipsis 7:17"
+   ]
+  },
+  {
+   "ref": "50:2",
+   "tipo": "cultura_costumbres",
+   "titulo": "Los médicos egipcios asistían en el embalsamamiento",
+   "contenido": "Médico es quien entiende y practica la medicina. Se esperaba que los sacerdotes y los profetas tuviesen algún conocimiento de medicina. En tiempos de Moisés había parteras y médicos de profesión que atendían a los israelitas (Éxodo 1:19). En Egipto, los médicos también asistían en las tareas de embalsamamiento (Génesis 50:2). El diccionario remite al artículo ENFERMEDADES.",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 51",
+   "importancia": 2,
+   "refs_biblicas": [
+    "Éxodo 1:19"
+   ]
+  },
+  {
+   "ref": "50:2",
+   "tipo": "cultura_costumbres",
+   "titulo": "Perfumes y ungüentos en el embalsamamiento; médicos y perfumistas muy estimados",
+   "contenido": "Los perfumes y ungüentos se empleaban en el embalsamamiento de los muertos y en los ritos de sepultura (2 Crónicas 16:14; Marcos 16:1; Lucas 23:56); el perfumista combinaba y comercializaba esas especias aromáticas y ungüentos. Las frecuentes referencias a los médicos y perfumistas en el AT demuestran, dice el diccionario, que estas profesiones eran consideradas con muy alta estima (Génesis 50:2; Jeremías 8:22; Lucas 4:23). Todas las grandes ciudades orientales tenían su «calle de los perfumistas».",
+   "pagina": "dbmh | Diccionario Bíblico Mundo Hispano, vol. II | PÁGINA PDF 53",
+   "importancia": 1,
+   "refs_biblicas": [
+    "2 Crónicas 16:14",
+    "Marcos 16:1",
+    "Lucas 23:56",
+    "Jeremías 8:22",
+    "Lucas 4:23"
+   ]
+  }
+ ],
+ "problemas": "El archivo no trae marcadores [Page N]; como rótulo de página se usó el encabezado completo de cada bloque (PÁGINA PDF 46, 48, 51, 52, 53, 57, 58, 61, 66, 85, 95, 98, 99, 109, 110, 118). Son extractos salteados de un diccionario alfabético, así que casi todo el texto es ajeno a Génesis y se ignoró. Entradas cortadas por los límites de página: Carpintero (el comienzo trata de Éxodo), Hechicero (corte final), Ojo (corte final), el inicio de la p. 57 (entrada sin título), el inicio de la p. 85 (Pacto: el primer pacto de la lista solo muestra «de la simiente de la mujer»), el inicio de la p. 95 (Paraíso: falta el título y la primera parte) y el inicio de la p. 118 (entrada sobre sabios sin título visible); esas lagunas se anotaron en cada nota. Hay códigos sueltos de OCR (por ejemplo <661918>, <110419>) sin texto asociado que se ignoraron; las citas <01CCVV> de Génesis se decodificaron a capítulo:versículo. El libro da solo transliteración del hebreo, sin escritura hebrea, así que en los campos «palabra» de hebreo se puso la transliteración tal como la imprime el diccionario; no se agregó nada que el autor no diga. En el artículo sobre esquila el diccionario cita «Génesis 31:19» para «tiempo de diversión»; se transcribió tal cual. En Onán, la frase «el Señor lo hizo morir» es ambigua en el original, pero «dejando a Tamar viuda por segunda vez» indica que se refiere a Onán. En Pesas y medidas, «paso (como un m.)» se interpretó como «un metro». Las referencias de Génesis de las entradas de Mayordomo, Pastor y Padre se distribuyeron por pasaje, por lo que algunos datos se repiten brevemente en notas distintas."
+}

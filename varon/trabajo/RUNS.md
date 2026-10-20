@@ -1,0 +1,15 @@
+# Corridas del estudio del varón (para retomar)
+- Web (estadísticas y artículos): wf_0bd39a80-248 (script: workflows/scripts/varon-investigar-web-wf_0bd39a80-248.js)
+- Extracción piloto (prompt viejo): wf_da93610c-0cb
+- Extracción de los 450 bloques b_NNN (script: scratchpad/wf_varon_extraer.js, lotes de a 5 en round-robin):
+  - lote 1 (b_001, b_006…): wf_869b68ca-ee3
+  - lote 2 (b_002, b_007…): wf_c42de448-a22
+  - lote 3 (b_003, b_008…): wf_5214772c-22f
+  - lote 4 (b_004, b_009…): wf_bef31454-564
+  - lote 5 (b_005, b_010…): wf_6b06fb20-f7c
+- Extracción de los 40 bloques o_NNN (libros pasados por OCR, incluido Schmidt): wf_4084fc18-a0c
+- OCR: varon/ocr/cola.sh (hecho) y cola2.sh (Schmidt, hecho)
+- (viejo) OCR: varon/ocr/cola.sh (log en varon/ocr/cola.log); al terminar: OCR de Schmidt y armar bloques o_NNN con `bloques.py --solo-ocr`, re-puntuar antes (puntajes.py).
+- Agrupar (piloto in_G_01, con notas parciales): wf_1db22a89-3d0 (script: varon/scripts/wf_varon_agrupar.js)
+- Agrupar piloto (in_M_01, in_N_01, notas parciales; prueba de punta a punta): wf_7406e891-977
+- Planear piloto (M, N con notas parciales): wf_21e089cc-6e0

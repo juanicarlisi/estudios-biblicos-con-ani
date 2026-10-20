@@ -1,0 +1,815 @@
+<title>El varón según Dios</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,500;0,600;0,700;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Public+Sans:wght@400;500;600;700&family=Caveat:wght@500;700&family=Frank+Ruhl+Libre:wght@400;500&display=swap">
+<style>
+/* Concepto: el banco de trabajo. A la izquierda el plan por partes, al centro la lectura (~68 caracteres) con
+   espacio para marcar, dibujar y anotar a mano, a la derecha las notas y el contexto del día.
+   Paleta: acero templado, roble y bronce (el oficio de Jesús, el hierro que se afila con hierro). */
+:root {
+  --bg: #eceeea; --surface: #ffffff; --surface-2: #f5f6f3; --ink: #1d232b; --muted: #5b6470; --line: #d5d9d2;
+  --acero: #2f5d62; --acero-soft: #e0ebea; --roble: #8b5a2b; --roble-soft: #f3e9dd; --bronce: #9a6d1f; --bronce-soft: #f4ecd9;
+  --alerta: #9b3b2f; --ok: #3f6b3a; --ok-soft: #e4eedf; --sombra: 0 1px 2px rgba(29,35,43,.06), 0 8px 24px rgba(29,35,43,.07);
+  --hl-amarillo: #fde68a; --hl-verde: #bbf7d0; --hl-celeste: #bae6fd; --hl-rosa: #fbcfe8; --tinta-nota: #2b4c7e;
+  --f-display: "Zilla Slab", "Rockwell", Georgia, serif;
+  --f-texto: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --f-ui: "Public Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mano: "Caveat", "Segoe Print", "Bradley Hand", cursive;
+  --f-heb: "Frank Ruhl Libre", "Times New Roman", serif;
+  --texto: 1.06rem; --radio: 10px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #101418; --surface: #171c22; --surface-2: #13181d; --ink: #e6e3dc; --muted: #a1a9b3; --line: #29313a;
+  --acero: #86bcc1; --acero-soft: #18292c; --roble: #d6a06a; --roble-soft: #2a2017; --bronce: #ddb05a; --bronce-soft: #2a2414;
+  --alerta: #e58b78; --ok: #a5c98f; --ok-soft: #1a2617; --sombra: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.3);
+  --hl-amarillo: rgba(250,204,21,.38); --hl-verde: rgba(74,222,128,.32); --hl-celeste: rgba(56,189,248,.32); --hl-rosa: rgba(244,114,182,.32); --tinta-nota: #9cc3ff;
+  color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #101418; --surface: #171c22; --surface-2: #13181d; --ink: #e6e3dc; --muted: #a1a9b3; --line: #29313a;
+  --acero: #86bcc1; --acero-soft: #18292c; --roble: #d6a06a; --roble-soft: #2a2017; --bronce: #ddb05a; --bronce-soft: #2a2414;
+  --alerta: #e58b78; --ok: #a5c98f; --ok-soft: #1a2617; --sombra: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.3);
+  --hl-amarillo: rgba(250,204,21,.38); --hl-verde: rgba(74,222,128,.32); --hl-celeste: rgba(56,189,248,.32); --hl-rosa: rgba(244,114,182,.32); --tinta-nota: #9cc3ff;
+  color-scheme: dark; }
+:root[data-size="grande"] { --texto: 1.18rem; }
+:root[data-size="chica"] { --texto: .98rem; }
+
+* { box-sizing: border-box; }
+html, body { min-height: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 var(--texto)/1.66 var(--f-texto); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+a { color: var(--acero); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--bronce); outline-offset: 2px; border-radius: 4px; }
+.heb { font-family: var(--f-heb); direction: rtl; unicode-bidi: isolate; }
+
+/* Barra superior */
+.barra { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; display: flex; align-items: center; gap: 10px;
+  padding-block: 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  background: var(--surface); border-bottom: 1px solid var(--line); font-family: var(--f-ui); }
+.marca { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); min-width: 0; }
+.marca b { font: 700 1.38rem/1 var(--f-display); letter-spacing: .005em; white-space: nowrap; }
+.marca span { font: 500 .78rem var(--f-ui); color: var(--bronce); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
+.barra .esp { flex: 1; }
+.btn { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px;
+  padding: 6px 12px; font: 500 .86rem/1.2 var(--f-ui); cursor: pointer; text-decoration: none; color: var(--ink); }
+.btn:hover { border-color: var(--acero); }
+.btn.prim { background: var(--acero); border-color: var(--acero); color: var(--surface); }
+.btn.ok { background: var(--ok-soft); border-color: var(--ok); color: var(--ink); }
+.icono { width: 34px; height: 34px; padding: 0; justify-content: center; }
+.anillo { display: flex; align-items: center; gap: 8px; font: 500 .82rem var(--f-ui); color: var(--muted); white-space: nowrap; }
+.anillo svg { width: 30px; height: 30px; }
+.menu-btn { display: none; }
+
+/* Estructura */
+.app { display: grid; grid-template-columns: 280px minmax(0, 1fr) 290px; gap: 28px; max-width: 1480px; margin: 0 auto;
+  padding-block: 24px 96px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.nav { position: sticky; top: 76px; align-self: start; max-height: calc(100vh - 96px); overflow-y: auto; font-family: var(--f-ui); padding-right: 4px; }
+.nav h4 { font: 600 .72rem var(--f-ui); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 18px 0 6px; }
+.nav a.item { display: flex; align-items: center; gap: 8px; padding: 6px 8px; border-radius: 8px; color: var(--ink); text-decoration: none; font-size: .9rem; }
+.nav a.item:hover { background: var(--surface); }
+.nav a.item.actual { background: var(--acero-soft); color: var(--acero); font-weight: 600; }
+.parte-n { margin-top: 8px; }
+.parte-n summary { cursor: pointer; list-style: none; padding: 6px 8px; border-radius: 8px; }
+.parte-n summary::-webkit-details-marker { display: none; }
+.parte-n summary:hover { background: var(--surface); }
+.parte-n .t1 { font: 600 .72rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--bronce); }
+.parte-n .t2 { display: block; font: 600 1.02rem/1.25 var(--f-display); color: var(--ink); }
+.parte-n .t3 { display: flex; justify-content: space-between; font-size: .74rem; color: var(--muted); }
+.dia-l { display: grid; grid-template-columns: 30px 1fr; gap: 6px; align-items: baseline; padding: 4px 8px; border-radius: 8px;
+  text-decoration: none; color: var(--ink); font-size: .84rem; line-height: 1.3; }
+.dia-l:hover { background: var(--surface); }
+.dia-l .n { font: 600 .74rem var(--f-ui); color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+.dia-l.hecho .n { color: var(--ok); }
+.dia-l.hecho .n::before { content: "✓ "; }
+.dia-l.actual { background: var(--acero-soft); }
+.dia-l.pend { opacity: .55; }
+.principal { min-width: 0; }
+.lado { position: sticky; top: 76px; align-self: start; display: grid; gap: 16px; max-height: calc(100vh - 96px); overflow-y: auto; }
+
+/* Lectura */
+.hoja { position: relative; max-width: 72ch; margin: 0 auto; }
+.ojo { font: 600 .76rem var(--f-ui); letter-spacing: .12em; text-transform: uppercase; color: var(--bronce); }
+h1.titulo { font: 700 clamp(2rem, 4vw, 2.75rem)/1.08 var(--f-display); margin: 6px 0 10px; text-wrap: balance; }
+h2 { font: 600 1.55rem/1.18 var(--f-display); margin: 38px 0 12px; text-wrap: balance; scroll-margin-top: 90px; }
+h3 { font: 600 1.2rem/1.25 var(--f-display); margin: 24px 0 8px; text-wrap: balance; }
+.bajada { font: 400 1.16rem/1.5 var(--f-texto); font-style: italic; color: var(--muted); margin: 0 0 16px; text-wrap: pretty; }
+.meta { display: flex; flex-wrap: wrap; gap: 8px 16px; font: 500 .86rem var(--f-ui); color: var(--muted); }
+.acciones { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 6px; }
+p { margin: 0 0 14px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 18px 20px; }
+.entrada p:first-child::first-letter { float: left; font: 700 3.2rem/.86 var(--f-display); color: var(--roble); padding: 6px 8px 0 0; }
+.clave { margin: 26px 0; padding: 20px 24px 16px 26px; background: var(--bronce-soft); border-radius: var(--radio); border-left: 4px solid var(--bronce); }
+.clave blockquote { margin: 0 0 8px; font: 500 1.3rem/1.42 var(--f-texto); font-style: italic; }
+.clave cite { font: 600 .8rem var(--f-ui); color: var(--bronce); font-style: normal; letter-spacing: .04em; }
+.clave .porque { font-size: .92rem; margin: 8px 0 0; }
+.lectura-b { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin: 18px 0; padding: 12px 16px;
+  background: var(--acero-soft); border-radius: var(--radio); font: 500 .92rem var(--f-ui); }
+.lectura-b b { font-weight: 700; }
+.nota { margin: 0 0 14px; }
+.destacado { margin: 18px 0 22px; padding: 14px 18px; border-radius: var(--radio); background: var(--acero-soft); border-left: 4px solid var(--acero); }
+.destacado .et { font: 600 .7rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--acero); display: block; margin-bottom: 4px; }
+.destacado p { margin: 0; }
+figure.cita { margin: 28px 0; padding: 0 0 0 22px; border-left: 2px solid var(--roble); }
+figure.cita blockquote { margin: 0 0 6px; font: 500 1.28rem/1.42 var(--f-display); font-style: italic; text-wrap: pretty; }
+figure.cita figcaption { font: 500 .8rem var(--f-ui); color: var(--muted); }
+.datos { display: grid; gap: 12px; }
+.dato { display: grid; grid-template-columns: minmax(84px, auto) 1fr; gap: 4px 16px; align-items: start; background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radio); padding: 14px 16px; }
+.dato .valor { font: 700 1.5rem/1.1 var(--f-display); color: var(--roble); font-variant-numeric: tabular-nums; }
+.dato p { margin: 0; font-size: .95rem; }
+.dato .fte { grid-column: 2; font: 400 .76rem var(--f-ui); color: var(--muted); }
+.modelo { margin: 30px 0; padding: 18px 20px; border-radius: var(--radio); background: var(--roble-soft); }
+.modelo .ojo { color: var(--roble); }
+.modelo h3 { margin: 4px 0 8px; }
+.chips { display: inline-flex; flex-wrap: wrap; gap: 4px; margin-left: 4px; vertical-align: 1px; }
+.chip { font: 600 .66rem/1 var(--f-ui); letter-spacing: .03em; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 3px 7px;
+  background: var(--surface); cursor: pointer; white-space: nowrap; }
+.chip:hover, .chip[aria-expanded="true"] { color: var(--acero); border-color: var(--acero); }
+.pop { position: absolute; z-index: 40; max-width: 340px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--sombra);
+  padding: 10px 12px; font: 400 .82rem/1.45 var(--f-ui); }
+.pop div + div { margin-top: 6px; padding-top: 6px; border-top: 1px dashed var(--line); }
+.palabras { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.palabra { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 12px 14px; min-width: 0; }
+.palabra .orig { display: block; font-size: 1.5rem; line-height: 1.2; color: var(--acero); }
+.palabra .tr { font: 600 .9rem var(--f-ui); }
+.palabra p { font-size: .88rem; line-height: 1.45; margin: 6px 0 0; }
+details.interp { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); margin: 0 0 10px; }
+details.interp summary { cursor: pointer; padding: 12px 16px; font: 600 1.02rem var(--f-display); list-style: none; display: flex; justify-content: space-between; gap: 12px; }
+details.interp summary::after { content: "+"; font-family: var(--f-ui); color: var(--muted); }
+details.interp[open] summary::after { content: "–"; }
+details.interp .cuerpo { padding: 0 16px 12px; }
+.postura { display: grid; grid-template-columns: 150px 1fr; gap: 10px; padding: 8px 0; border-top: 1px dashed var(--line); font-size: .93rem; }
+.postura .quien { font: 600 .8rem var(--f-ui); color: var(--acero); }
+.conex { display: grid; grid-template-columns: 120px 1fr; gap: 6px 14px; font-size: .93rem; }
+.conex .rf { font: 600 .82rem var(--f-ui); color: var(--acero); }
+.vida { background: var(--ok-soft); border-radius: var(--radio); padding: 20px 22px; margin-top: 34px; }
+.vida h2 { margin-top: 0; }
+.vida ul, .vida ol { margin: 0 0 8px; padding-left: 20px; }
+.vida li { margin-bottom: 8px; }
+.vida h3 { margin-top: 18px; }
+.orar { font-style: italic; }
+details.prof { margin-top: 26px; }
+details.prof > summary { cursor: pointer; font: 600 1.25rem var(--f-display); }
+.notas-p textarea, .anot-nota textarea { width: 100%; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); color: var(--ink); resize: vertical; }
+.notas-p textarea { min-height: 120px; padding: 12px; font: 500 1.25rem/1.35 var(--f-mano); color: var(--tinta-nota); }
+.estado { font: 500 .76rem var(--f-ui); color: var(--muted); }
+.pie-dia { display: flex; justify-content: space-between; gap: 12px; margin-top: 34px; padding-top: 18px; border-top: 1px solid var(--line); }
+.aviso-parte { margin: 0 0 18px; padding: 14px 16px; border-radius: var(--radio); background: var(--roble-soft); border: 1px solid var(--roble); font: 400 .95rem/1.5 var(--f-texto); }
+.aviso-parte b { font: 700 1.05rem var(--f-display); display: block; margin-bottom: 2px; }
+
+/* Marcas: resaltado, notas a mano y dibujo */
+mark.hl { color: inherit; border-radius: 2px; padding: 0 1px; cursor: pointer; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+mark.hl-amarillo { background: var(--hl-amarillo); }
+mark.hl-verde { background: var(--hl-verde); }
+mark.hl-celeste { background: var(--hl-celeste); }
+mark.hl-rosa { background: var(--hl-rosa); }
+mark.hl.con-nota { text-decoration: underline dotted var(--tinta-nota) 2px; text-underline-offset: 3px; }
+.anot-nota { position: relative; margin: -6px 0 16px; padding: 4px 30px 4px 14px; border-left: 3px solid var(--tinta-nota); }
+.anot-nota textarea { border: 0; background: transparent; padding: 2px 0; min-height: 34px; font: 500 1.28rem/1.3 var(--f-mano); color: var(--tinta-nota); overflow: hidden; resize: none; }
+.anot-nota .x { position: absolute; top: 2px; right: 0; border: 0; background: none; color: var(--muted); cursor: pointer; font-size: 1.1rem; line-height: 1; padding: 4px 6px; }
+.anot-nota .cita-hl { display: block; font: 500 .74rem var(--f-ui); color: var(--muted); margin-bottom: 2px; }
+.nota-estatica { font: 500 1.28rem/1.3 var(--f-mano); color: var(--tinta-nota); white-space: pre-wrap; }
+svg.lienzo { position: absolute; left: 0; top: 0; pointer-events: none; z-index: 5; overflow: visible; }
+body.modo-lapiz svg.lienzo, body.modo-borrador svg.lienzo { pointer-events: auto; touch-action: none; cursor: crosshair; }
+body.modo-borrador svg.lienzo { cursor: cell; }
+.sel-pop { position: absolute; z-index: 45; display: flex; align-items: center; gap: 6px; padding: 6px 8px; background: var(--surface); border: 1px solid var(--line);
+  border-radius: 999px; box-shadow: var(--sombra); font: 500 .8rem var(--f-ui); }
+.sw { width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--line); cursor: pointer; padding: 0; }
+.sw[data-c="amarillo"] { background: #facc15; } .sw[data-c="verde"] { background: #4ade80; } .sw[data-c="celeste"] { background: #38bdf8; } .sw[data-c="rosa"] { background: #f472b6; }
+.sel-pop .txt { border: 0; background: none; cursor: pointer; padding: 4px 6px; border-radius: 6px; font: 600 .8rem var(--f-ui); color: var(--ink); }
+.sel-pop .txt:hover { background: var(--surface-2); }
+.herramientas { position: fixed; z-index: 30; left: 50%; transform: translateX(-50%); bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+  display: flex; align-items: center; gap: 4px; padding: 6px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; box-shadow: var(--sombra);
+  font-family: var(--f-ui); max-width: calc(100vw - 24px); overflow-x: auto; }
+.herramientas button { display: inline-flex; align-items: center; gap: 6px; border: 0; background: none; border-radius: 999px; padding: 7px 10px; cursor: pointer;
+  font: 600 .8rem var(--f-ui); color: var(--ink); white-space: nowrap; }
+.herramientas button:hover { background: var(--surface-2); }
+.herramientas button[aria-pressed="true"] { background: var(--acero); color: var(--surface); }
+.herramientas .sep { width: 1px; align-self: stretch; background: var(--line); margin: 4px 2px; }
+.herramientas .tinta { width: 20px; height: 20px; padding: 0; border-radius: 50%; border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--line); }
+.herramientas .tinta[aria-pressed="true"] { box-shadow: 0 0 0 2px var(--acero); }
+.herramientas .confirmar { color: var(--alerta); }
+
+/* Columna de contexto */
+.tarjeta { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 14px; font-family: var(--f-ui); font-size: .85rem; }
+.tarjeta h5 { margin: 0 0 8px; font: 600 .72rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.tarjeta .marca-i { display: block; padding: 6px 0; border-top: 1px dashed var(--line); color: var(--ink); text-decoration: none; font: 400 .86rem/1.4 var(--f-texto); }
+.tarjeta .marca-i:first-of-type { border-top: 0; }
+.toc a { display: block; padding: 4px 0; color: var(--ink); text-decoration: none; line-height: 1.3; }
+.toc a:hover { color: var(--acero); }
+
+/* Inicio */
+.heroe { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 28px; align-items: center; margin-bottom: 26px; }
+.heroe h1 { font: 700 clamp(2.4rem, 5.5vw, 3.9rem)/1 var(--f-display); margin: 0 0 12px; text-wrap: balance; }
+.heroe p { color: var(--muted); max-width: 52ch; }
+.hoy { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px 22px; box-shadow: var(--sombra); }
+.hoy .ojo { display: block; margin-bottom: 4px; }
+.hoy h2 { margin: 0 0 6px; font-size: 1.7rem; }
+.partes { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin: 18px 0; }
+.parte { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 12px 14px; font-family: var(--f-ui); text-decoration: none; color: var(--ink); }
+.parte:hover { border-color: var(--acero); }
+.parte small { color: var(--muted); font-size: .74rem; }
+.parte b { display: block; font: 600 1.05rem/1.25 var(--f-display); margin: 2px 0 6px; }
+.parte .bar { height: 6px; background: var(--surface-2); border-radius: 99px; overflow: hidden; border: 1px solid var(--line); margin-bottom: 4px; }
+.parte .bar i { display: block; height: 100%; background: var(--ok); }
+.copia { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 20px; align-items: center; margin-top: 30px; }
+.copia b { font: 600 1.12rem var(--f-display); }
+.copia p { margin: 4px 0 0; font-size: .92rem; color: var(--muted); }
+.copia .acciones { margin: 0; }
+.copia .estado { grid-column: 1 / -1; }
+
+/* Herramientas generales */
+.buscar input { width: 100%; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); color: var(--ink); font: 400 1rem var(--f-ui); }
+.resultado { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.tabla { width: 100%; border-collapse: collapse; font: 400 .86rem var(--f-ui); }
+.tabla th, .tabla td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.tabla th { font-weight: 600; color: var(--muted); font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; }
+.lista-pal { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+
+@media (max-width: 1180px) {
+  .app { grid-template-columns: 250px minmax(0, 1fr); }
+  .lado { position: static; grid-column: 2; max-height: none; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+}
+@media (max-width: 820px) {
+  .app { grid-template-columns: minmax(0, 1fr); padding-block: 16px 104px; }
+  .lado { grid-column: 1; }
+  .nav { position: fixed; inset: 0 auto 0 0; z-index: 35; width: min(86vw, 330px); max-height: none; background: var(--bg); padding: 70px 16px 24px;
+    padding-left: max(16px, env(safe-area-inset-left, 0px)); transform: translateX(-105%); transition: transform .2s ease; box-shadow: var(--sombra); }
+  body.nav-abierta .nav { transform: none; }
+  .menu-btn { display: inline-flex; }
+  .anillo span { display: none; }
+  .heroe, .copia { grid-template-columns: minmax(0, 1fr); }
+  .postura, .conex, .dato { grid-template-columns: minmax(0, 1fr); }
+  .dato .fte { grid-column: 1; }
+  .marca span { display: none; }
+}
+@media (max-width: 460px) { .barra { gap: 6px; } .marca b { font-size: 1.15rem; } .anillo { display: none; } .herramientas .etq { display: none; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+@media print {
+  body { background: #fff; color: #000; }
+  .barra, .nav, .lado, .herramientas, .sel-pop, .pie-dia, .acciones, .anot-nota .x, .no-imprimir, .chips { display: none !important; }
+  .app { display: block; padding: 0; max-width: none; }
+  .hoja { max-width: none; }
+  details { display: block; } details > summary { display: none; } details > * { display: block !important; }
+  .vida, .clave, .destacado, .modelo { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+body.exportado { padding: 24px max(16px, env(safe-area-inset-left, 0px)); }
+body.exportado .hoja { margin: 0 auto; }
+</style>
+
+<header class="barra">
+  <button class="btn icono menu-btn" id="menu-btn" aria-label="Abrir el índice"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  <a class="marca" href="#inicio"><b>El varón según Dios</b><span>Estudio diario</span></a>
+  <div class="esp"></div>
+  <div class="anillo" id="anillo" title="Días terminados"></div>
+  <button class="btn icono" id="guardar-btn" aria-label="Guardar el estudio con mis marcas" title="Guardar el estudio con mis marcas"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M5 3h11l3 3v15H5z"/><path d="M8 3v6h8V3M8 21v-7h8v7"/></svg></button>
+  <a class="btn icono" href="#buscar" aria-label="Buscar"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></a>
+  <button class="btn icono" id="tam-btn" aria-label="Cambiar el tamaño de letra">Aa</button>
+  <button class="btn icono" id="tema-btn" aria-label="Cambiar entre modo claro y oscuro"><svg width="17" height="17" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+</header>
+<div class="app">
+  <nav class="nav" id="nav" aria-label="Índice del estudio"></nav>
+  <main class="principal" id="principal"></main>
+  <aside class="lado" id="lado" aria-label="Notas y contexto"></aside>
+</div>
+<div class="herramientas no-imprimir" id="herramientas" hidden role="toolbar" aria-label="Herramientas para marcar">
+  <button id="t-leer" aria-pressed="true" title="Leer y resaltar (seleccioná texto)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20h4l10-10-4-4L4 16z"/><path d="M13 7l4 4"/></svg><span class="etq">Resaltar</span></button>
+  <button id="t-lapiz" aria-pressed="false" title="Lápiz: dibujar o subrayar a mano"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 21c3-1 5-3 7-6s4-7 8-9"/><circle cx="19" cy="5" r="1.6" fill="currentColor"/></svg><span class="etq">Lápiz</span></button>
+  <span id="tintas" hidden><button class="tinta" data-t="grafito" aria-label="Grafito"></button><button class="tinta" data-t="azul" aria-label="Azul"></button><button class="tinta" data-t="rojo" aria-label="Rojo"></button><button class="tinta" data-t="fluo" aria-label="Fibra resaltadora"></button></span>
+  <button id="t-borrador" aria-pressed="false" title="Borrar trazos"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M8 20h12M4 15l9-9 6 6-7 7H8z"/></svg><span class="etq">Borrar</span></button>
+  <button id="t-deshacer" title="Deshacer el último trazo"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M9 14 4 9l5-5"/><path d="M4 9h10a6 6 0 0 1 0 12h-3"/></svg><span class="etq">Deshacer</span></button>
+  <span class="sep"></span>
+  <button id="t-descargar" title="Descargar este día con mis marcas"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span class="etq">Descargar día</span></button>
+  <button id="t-imprimir" title="Imprimir o guardar como PDF"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M6 9V3h12v6M6 18H4v-7h16v7h-2M7 14h10v7H7z"/></svg><span class="etq">PDF</span></button>
+</div>
+<div class="sel-pop no-imprimir" id="sel-pop" hidden role="dialog" aria-label="Marcar el texto seleccionado">
+  <button class="sw" data-c="amarillo" aria-label="Amarillo"></button><button class="sw" data-c="verde" aria-label="Verde"></button>
+  <button class="sw" data-c="celeste" aria-label="Celeste"></button><button class="sw" data-c="rosa" aria-label="Rosa"></button>
+  <button class="txt" id="pop-nota">Nota</button><button class="txt" id="pop-quitar" hidden>Quitar</button>
+</div>
+<script type="application/json" id="estado-inicial">{}</script>
+<script>
+/*__DATOS__*/
+</script>
+<script>
+(() => {
+/* La copia intacta del documento, para «Guardar el estudio con mis marcas» (antes de dibujar nada) */
+const PRISTINO = '<!doctype html>\n' + document.documentElement.outerHTML;
+const D = window.DATOS;
+const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const PLAN = D.plan, TOTAL = PLAN.length;
+const hoyISO = () => new Date().toISOString();
+
+/* ---------- estado: avance, notas, marcas y trazos ---------- */
+const LS = 'varon-segun-dios-v1';
+const vacio = () => ({ hechos: {}, notasDia: {}, marcas: {}, notas: {}, trazos: {}, actualizado: '' });
+let est = vacio();
+let local = null; try { local = JSON.parse(localStorage.getItem(LS) || 'null'); } catch (e) {}
+let embebido = null; try { embebido = JSON.parse($('#estado-inicial').textContent || 'null'); } catch (e) {}
+let avisoCarga = '';
+if (embebido && embebido.guardado && (!local || !local.actualizado || embebido.guardado > local.actualizado)) {
+  est = Object.assign(vacio(), embebido); avisoCarga = 'Se cargaron las marcas guardadas en este archivo (' + embebido.guardado.slice(0, 10) + ').';
+} else if (local) est = Object.assign(vacio(), local);
+let avisoGuardado = '';
+const guardar = () => { est.actualizado = hoyISO(); try { localStorage.setItem(LS, JSON.stringify(est)); avisoGuardado = ''; } catch (e) { avisoGuardado = 'El navegador no deja guardar más: descargá una copia.'; } };
+const lista = (obj, d) => (obj[d] = obj[d] || []);
+const nuevoId = () => Math.random().toString(36).slice(2, 9);
+
+/* ---------- preferencias ---------- */
+const PREF = 'varon-segun-dios-pref';
+let pref = {}; try { pref = JSON.parse(localStorage.getItem(PREF) || '{}'); } catch (e) {}
+const aplicarPref = () => {
+  if (pref.tema) document.documentElement.dataset.theme = pref.tema; else delete document.documentElement.dataset.theme;
+  if (pref.tam) document.documentElement.dataset.size = pref.tam; else delete document.documentElement.dataset.size;
+};
+const guardarPref = () => { try { localStorage.setItem(PREF, JSON.stringify(pref)); } catch (e) {} };
+aplicarPref();
+$('#tema-btn').onclick = () => { const osc = pref.tema ? pref.tema === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches; pref.tema = osc ? 'light' : 'dark'; aplicarPref(); guardarPref(); setTimeout(dibujarTrazos, 50); };
+$('#tam-btn').onclick = () => { pref.tam = { undefined: 'grande', grande: 'chica', chica: undefined }[pref.tam]; aplicarPref(); guardarPref(); setTimeout(dibujarTrazos, 50); };
+$('#menu-btn').onclick = () => document.body.classList.toggle('nav-abierta');
+
+/* ---------- utilidades ---------- */
+const diaPlan = d => PLAN[d - 1];
+const hayDia = d => !!D.dias[d];
+const parteDe = id => D.partes.find(p => p.id === id);
+const siguientePendiente = () => (PLAN.find(p => !est.hechos[p.dia]) || PLAN[TOTAL - 1]).dia;
+const bg = ref => 'https://www.biblegateway.com/passage/?search=' + encodeURIComponent(ref) + '&version=RVR1960';
+function chips(ids) {
+  if (!ids || !ids.length) return '';
+  const vistos = {};
+  ids.forEach(id => { const f = D.fuentes[id]; if (f) (vistos[f[0]] = vistos[f[0]] || []).push(id); });
+  return '<span class="chips">' + Object.keys(vistos).map(k => `<button class="chip" data-ids="${esc(vistos[k].join(' '))}" aria-expanded="false">${esc(k)}</button>`).join('') + '</span>';
+}
+let popAbierto = null;
+const cerrarPop = () => { if (popAbierto) { popAbierto.remove(); $$('.chip[aria-expanded="true"]').forEach(b => b.setAttribute('aria-expanded', 'false')); popAbierto = null; } };
+document.addEventListener('click', e => {
+  const c = e.target.closest('.chip');
+  cerrarPop();
+  if (c) {
+    const pop = document.createElement('div'); pop.className = 'pop'; pop.setAttribute('role', 'dialog');
+    pop.innerHTML = c.dataset.ids.split(' ').map(id => { const f = D.fuentes[id]; if (!f) return '';
+      const enlace = f[3] ? ` <a href="${esc(f[3])}" target="_blank" rel="noopener">abrir ↗</a>` : '';
+      return `<div><b>${esc(f[1])}</b><br>${esc(f[2] || '')}${enlace}</div>`; }).join('');
+    document.body.appendChild(pop);
+    const r = c.getBoundingClientRect(); const w = Math.min(340, innerWidth - 32);
+    pop.style.width = w + 'px'; pop.style.left = Math.max(16, Math.min(innerWidth - w - 16, r.left + scrollX)) + 'px'; pop.style.top = (r.bottom + scrollY + 6) + 'px';
+    c.setAttribute('aria-expanded', 'true'); popAbierto = pop; e.stopPropagation();
+  }
+  if (e.target.closest('.nav a')) document.body.classList.remove('nav-abierta');
+});
+const parr = t => esc(t).split(/\n{2,}/).map(x => `<p class="ak">${x.replace(/\n/g, '<br>')}</p>`).join('');
+const minutosDe = x => x.minutos && x.minutos.estudio ? x.minutos.estudio : null;
+
+/* ---------- progreso y navegación ---------- */
+function pintarProgreso() {
+  const hechos = Object.keys(est.hechos).length, p = hechos / TOTAL, R = 12, C = 2 * Math.PI * R;
+  $('#anillo').innerHTML = `<svg viewBox="0 0 30 30" aria-hidden="true"><circle cx="15" cy="15" r="${R}" fill="none" stroke="var(--line)" stroke-width="4"/>
+    <circle cx="15" cy="15" r="${R}" fill="none" stroke="var(--ok)" stroke-width="4" stroke-linecap="round" stroke-dasharray="${C * p} ${C}" transform="rotate(-90 15 15)"/></svg><span>${hechos} de ${TOTAL} días</span>`;
+}
+let rutaActual = '';
+function pintarNav() {
+  const actual = rutaActual;
+  const it = (h, t) => `<a class="item ${actual === h ? 'actual' : ''}" href="#${h}">${t}</a>`;
+  let h = it('inicio', 'Inicio') + it('como-usar', 'Cómo usar el estudio') + it('marcas', 'Mis marcas y notas');
+  h += '<h4>El plan</h4>';
+  D.partes.forEach(pt => {
+    const dias = PLAN.filter(p => p.parte === pt.id); if (!dias.length) return;
+    const hechos = dias.filter(p => est.hechos[p.dia]).length;
+    const abierto = dias.some(p => actual === 'dia-' + p.dia) || (actual === 'inicio' && dias.some(p => p.dia === siguientePendiente()));
+    h += `<details class="parte-n" ${abierto ? 'open' : ''}><summary><span class="t1">Parte ${esc(pt.numero)}</span><span class="t2">${esc(pt.titulo)}</span>
+      <span class="t3"><span>Días ${dias[0].dia}–${dias[dias.length - 1].dia}</span><span>${hechos}/${dias.length}</span></span></summary>` +
+      dias.map(p => `<a class="dia-l ${est.hechos[p.dia] ? 'hecho' : ''} ${actual === 'dia-' + p.dia ? 'actual' : ''} ${hayDia(p.dia) ? '' : 'pend'}" href="#dia-${p.dia}"><span class="n">${p.dia}</span><span>${esc(p.titulo)}</span></a>`).join('') + '</details>';
+  });
+  h += '<h4>Herramientas</h4>' + it('datos', 'Los datos de la crisis') + it('modelos', 'Varones de la Biblia y la historia') + it('palabras', 'Palabras griegas y hebreas') + it('buscar', 'Buscar') + it('fuentes', 'Fuentes del estudio');
+  $('#nav').innerHTML = h;
+}
+
+/* ---------- vistas ---------- */
+function vistaInicio() {
+  const d = siguientePendiente(), p = diaPlan(d), hechos = Object.keys(est.hechos).length;
+  const partes = D.partes.map(pt => { const ds = PLAN.filter(x => x.parte === pt.id); if (!ds.length) return '';
+    const h = ds.filter(x => est.hechos[x.dia]).length;
+    return `<a class="parte" href="#dia-${ds[0].dia}"><small>Parte ${esc(pt.numero)} · ${ds.length} días</small><b>${esc(pt.titulo)}</b><div class="bar"><i style="width:${100 * h / ds.length}%"></i></div><small>${h} de ${ds.length} terminados</small></a>`; }).join('');
+  return `<div class="hoja" style="max-width:none">
+    <section class="heroe"><div><span class="ojo">Un estudio diario, de 20 a 30 minutos</span><h1>El varón según el diseño de Dios</h1>
+      <p>Quién te hizo y para qué, y cómo vivirlo con Dios, en tu casa, en el trabajo, en la iglesia y en la sociedad, en cada etapa de la vida. Todo sale de los libros de tu biblioteca y de fuentes confiables, con la fuente de cada afirmación.</p>${avisoCarga ? `<p class="estado">${esc(avisoCarga)}</p>` : ''}</div>
+      <div class="hoy"><span class="ojo">${hechos ? 'Seguís con' : 'Para empezar'} · Día ${d} de ${TOTAL}</span><h2>${esc(p.titulo)}</h2>
+        <div class="meta"><span>Parte ${esc(parteDe(p.parte).numero)} · ${esc(parteDe(p.parte).titulo)}</span></div>
+        <div class="acciones"><a class="btn prim" href="#dia-${d}">Abrir el día ${d}</a><a class="btn" href="#como-usar">Cómo usarlo</a></div></div></section>
+    <h2>Las partes del estudio</h2><div class="partes">${partes}</div>
+    <section class="copia panel"><div><b>Tus marcas, notas y avance</b><p>Se guardan en el navegador de esta compu. Con el botón de guardar (arriba, el disquete) bajás el estudio completo con todas tus marcas adentro; también podés bajar solo una copia de tus marcas para pasarla a otra compu.</p></div>
+      <div class="acciones"><button class="btn prim" id="guardar-html-2">Guardar el estudio con mis marcas</button><button class="btn" id="bajar-copia">Copia de mis marcas</button><button class="btn" id="cargar-copia-btn">Cargar copia</button>
+      <input type="file" id="cargar-copia" accept=".json,application/json" hidden></div><div class="estado" id="estado-copia">${esc(avisoGuardado)}</div></section></div>`;
+}
+function bloqueNotas(d) {
+  return `<section class="notas-p"><h2>Tus notas del día</h2><textarea id="notas-dia" data-dia="${d}" placeholder="Lo que Dios te mostró, lo que vas a hacer, por qué vas a orar…">${esc(est.notasDia[d] || '')}</textarea>
+    <div class="estado" id="estado-notas">Se guarda en esta compu.</div></section>`;
+}
+function vistaDia(d) {
+  const p = diaPlan(d); if (!p) return vistaInicio();
+  const x = D.dias[d], pt = parteDe(p.parte);
+  const ant = d > 1 ? diaPlan(d - 1) : null, sig = d < TOTAL ? diaPlan(d + 1) : null;
+  const empiezaParte = !ant || ant.parte !== p.parte;
+  let h = `<article class="hoja" id="hoja" data-dia="${d}">`;
+  if (empiezaParte) h += `<div class="aviso-parte"><b>Parte ${esc(pt.numero)} · ${esc(pt.titulo)}</b>${esc(pt.bajada || '')}</div>`;
+  h += `<span class="ojo">Parte ${esc(pt.numero)} · Día ${d} de ${TOTAL}</span><h1 class="titulo">${esc(x ? x.titulo : p.titulo)}</h1>`;
+  if (!x) return h + `<div class="panel"><p><b>Este día está en preparación.</b> Se está escribiendo con el material de la biblioteca.</p></div></article>`;
+  if (x.bajada) h += `<p class="bajada">${esc(x.bajada)}</p>`;
+  h += `<div class="meta">${minutosDe(x) ? `<span>≈ ${minutosDe(x)} min de estudio</span>` : ''}${x.lectura && x.lectura.pasaje ? `<span>Lectura: ${esc(x.lectura.pasaje)}</span>` : ''}</div>
+    <div class="acciones no-imprimir"><button class="btn ${est.hechos[d] ? 'ok' : ''}" id="hecho-btn">${est.hechos[d] ? '✓ Terminado' : 'Marcar como terminado'}</button></div>`;
+  if (x.lectura && x.lectura.pasaje) h += `<div class="lectura-b"><span>Antes de empezar, leé <b>${esc(x.lectura.pasaje)}</b>${x.lectura.porque ? ' · ' + esc(x.lectura.porque) : ''}</span><a class="btn no-imprimir" href="${bg(x.lectura.pasaje)}" target="_blank" rel="noopener">Leer en RVR1960 ↗</a></div>`;
+  const vers = (x.versiculos || []).slice(), citas = (x.citas || []).slice();
+  const versiculo = v => { const t = D.rvr[v.ref]; return t ? `<figure class="clave"><blockquote class="ak">«${esc(t)}»</blockquote><cite>${esc(v.ref)} · RVR1960</cite>${v.porque ? `<p class="porque ak">${esc(v.porque)}</p>` : ''}</figure>` : ''; };
+  const cita = c => `<figure class="cita"><blockquote class="ak">«${esc(c.texto)}»</blockquote><figcaption>${esc(c.autor)}${c.obra ? ', <i>' + esc(c.obra) + '</i>' : ''} ${chips(c.fuentes)}</figcaption></figure>`;
+  if (vers.length) h += versiculo(vers.shift());
+  h += `<div class="entrada">${parr(x.entrada.texto)}${chips(x.entrada.fuentes)}</div>`;
+  x.apartados.forEach((s, k) => {
+    h += `<h2 id="ap-${k}">${esc(s.titulo)}</h2>` + s.parrafos.map(q => `<p class="nota ak">${esc(q.texto)} ${chips(q.fuentes)}</p>`).join('');
+    if (s.destacado && s.destacado.texto) h += `<aside class="destacado"><span class="et">Para retener</span><p class="ak">${esc(s.destacado.texto)} ${chips(s.destacado.fuentes)}</p></aside>`;
+    if (k === x.apartados.length - 1) return;
+    if (k % 2 === 0 ? vers.length : !citas.length && vers.length) h += versiculo(vers.shift());
+    else if (citas.length) h += cita(citas.shift());
+  });
+  vers.forEach(v => { h += versiculo(v); }); citas.forEach(c => { h += cita(c); });
+  if (x.datos && x.datos.length) h += `<h2>Los datos</h2><div class="datos">` + x.datos.map(dt => `<div class="dato">${dt.valor ? `<span class="valor">${esc(dt.valor)}</span>` : '<span></span>'}<p class="ak">${esc(dt.texto)}</p><span class="fte">${chips(dt.fuentes)}</span></div>`).join('') + '</div>';
+  if (x.modelo && x.modelo.texto) h += `<section class="modelo"><span class="ojo">Un varón para mirar</span><h3>${esc(x.modelo.persona)}</h3><p class="ak">${esc(x.modelo.texto)} ${chips(x.modelo.fuentes)}</p>${x.modelo.refs && x.modelo.refs.length ? `<span class="estado">${esc(x.modelo.refs.join(' · '))}</span>` : ''}</section>`;
+  if (x.palabras && x.palabras.length) h += `<h2>Palabras para entender</h2><div class="palabras">` + x.palabras.map(w => `<div class="palabra">${w.original ? `<span class="orig ${w.idioma === 'hebreo' ? 'heb' : ''}" lang="${w.idioma === 'hebreo' ? 'he' : 'el'}">${esc(w.original)}</span>` : ''}<span class="tr">${esc(w.translit)}</span> <span class="estado">· ${esc(w.ref || '')}</span><p class="ak">${esc(w.significado)} ${chips(w.fuentes)}</p></div>`).join('') + '</div>';
+  if (x.interpretaciones && x.interpretaciones.length) h += `<h2>Preguntas difíciles</h2>` + x.interpretaciones.map(i => `<details class="interp"><summary>${esc(i.tema)}</summary><div class="cuerpo">` +
+    i.posturas.map(q => `<div class="postura"><span class="quien">${esc(q.quien)}</span><span class="ak">${esc(q.postura)} ${chips(q.fuentes)}</span></div>`).join('') + (i.nota ? `<p class="ak" style="margin-top:10px;font-size:.92rem">${esc(i.nota)}</p>` : '') + '</div></details>').join('');
+  if (x.conexiones && x.conexiones.length) h += `<h2>En toda la Biblia</h2><div class="conex">` + x.conexiones.map(k => `<span class="rf">${esc(k.ref)}</span><span class="ak">${esc(k.nota)} ${chips(k.fuentes)}</span>`).join('') + '</div>';
+  h += `<section class="vida"><h2>Para tu vida</h2><ul>${(x.para_vivir || []).map(v => `<li class="ak">${esc(v.texto)} ${chips(v.fuentes)}</li>`).join('')}</ul>
+    <h3>Para pensar delante de Dios</h3><ol>${(x.para_reflexionar || []).map(q => `<li class="ak">${esc(q)}</li>`).join('')}</ol>
+    ${x.para_conversar && x.para_conversar.length ? `<h3>Para charlar con tu esposa o con un amigo</h3><ul>${x.para_conversar.map(q => `<li class="ak">${esc(q)}</li>`).join('')}</ul>` : ''}
+    <h3>Para orar</h3><p class="orar ak">${esc(x.para_orar || '')}</p></section>`;
+  if (x.profundizar && x.profundizar.length) h += `<details class="prof"><summary>Para profundizar (optativo)</summary>` + x.profundizar.map(f => `<h3>${esc(f.titulo)}</h3><p class="ak">${esc(f.texto)} ${chips(f.fuentes)}</p>`).join('') + '</details>';
+  h += bloqueNotas(d);
+  h += `<nav class="pie-dia" aria-label="Días">${ant ? `<a class="btn" href="#dia-${ant.dia}">← Día ${ant.dia}</a>` : '<span></span>'}${sig ? `<a class="btn" href="#dia-${sig.dia}">Día ${sig.dia} →</a>` : ''}</nav></article>`;
+  return h;
+}
+function ladoDia(d) {
+  const x = D.dias[d]; if (!x) return '';
+  let h = '';
+  if (x.apartados && x.apartados.length) h += `<div class="tarjeta toc"><h5>En este día</h5>${x.apartados.map((s, k) => `<a href="#dia-${d}" data-ir="ap-${k}">${esc(s.titulo)}</a>`).join('')}</div>`;
+  const ms = (est.marcas[d] || []), ns = (est.notas[d] || []).filter(n => n.txt), tr = (est.trazos[d] || []).length;
+  h += `<div class="tarjeta" id="tarjeta-marcas"><h5>Tus marcas de este día</h5>${ms.length || ns.length || tr ? '' : '<div>Seleccioná texto para resaltar o anotar, o tocá el lápiz para dibujar.</div>'}` +
+    ms.map(m => `<a class="marca-i" href="#dia-${d}" data-ir-k="${esc(m.k)}"><mark class="hl hl-${esc(m.c)}">${esc((m.t || '').slice(0, 90))}</mark></a>`).join('') +
+    ns.map(n => `<a class="marca-i" href="#dia-${d}" data-ir-k="${esc(n.k)}"><span class="nota-estatica" style="font-size:1.1rem">${esc(n.txt.slice(0, 120))}</span></a>`).join('') +
+    (tr ? `<div class="estado" style="margin-top:6px">${tr} trazo${tr === 1 ? '' : 's'} a mano</div>` : '') + '</div>';
+  const pt = parteDe(diaPlan(d).parte);
+  h += `<div class="tarjeta"><h5>Parte ${esc(pt.numero)}</h5><div><b style="font-family:var(--f-display)">${esc(pt.titulo)}</b></div><div style="margin-top:6px">${Object.keys(est.hechos).length} de ${TOTAL} días terminados.</div></div>`;
+  return h;
+}
+document.addEventListener('click', e => {
+  const a = e.target.closest('[data-ir],[data-ir-k]'); if (!a) return;
+  e.preventDefault();
+  const el = a.dataset.ir ? document.getElementById(a.dataset.ir) : document.querySelector(`[data-k="${a.dataset.irK}"]`);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+});
+
+/* ---------- vistas de herramientas ---------- */
+function vistaDatos() {
+  const items = []; Object.entries(D.dias).forEach(([d, x]) => (x.datos || []).forEach(dt => items.push({ ...dt, d: +d })));
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Los datos de la crisis</h1><p class="bajada">Las cifras que aparecen en el estudio, con su fuente y su año. Argentina y Latinoamérica primero, y al lado los datos internacionales.</p>
+    <div class="datos">${items.map(dt => `<div class="dato">${dt.valor ? `<span class="valor">${esc(dt.valor)}</span>` : '<span></span>'}<p>${esc(dt.texto)} <a href="#dia-${dt.d}">día ${dt.d}</a></p><span class="fte">${chips(dt.fuentes)}</span></div>`).join('') || '<p>Todavía no hay datos.</p>'}</div></div>`;
+}
+function vistaModelos() {
+  const items = []; Object.entries(D.dias).forEach(([d, x]) => { if (x.modelo && x.modelo.texto) items.push({ ...x.modelo, d: +d }); });
+  items.sort((a, b) => a.persona.localeCompare(b.persona, 'es'));
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Varones de la Biblia y de la historia</h1><p class="bajada">Los hombres que el estudio pone como ejemplo o como advertencia.</p>` +
+    items.map(m => `<section class="modelo"><span class="ojo"><a href="#dia-${m.d}">Día ${m.d}</a></span><h3>${esc(m.persona)}</h3><p>${esc(m.texto)} ${chips(m.fuentes)}</p></section>`).join('') + '</div>';
+}
+function vistaPalabras() {
+  const todas = []; Object.entries(D.dias).forEach(([d, x]) => (x.palabras || []).forEach(w => todas.push({ ...w, d: +d })));
+  todas.sort((a, b) => a.translit.localeCompare(b.translit, 'es'));
+  return `<div class="hoja" style="max-width:none"><span class="ojo">Herramientas</span><h1 class="titulo">Palabras griegas y hebreas</h1><div class="lista-pal">` +
+    todas.map(w => `<div class="palabra">${w.original ? `<span class="orig ${w.idioma === 'hebreo' ? 'heb' : ''}">${esc(w.original)}</span>` : ''}<span class="tr">${esc(w.translit)}</span> <span class="estado">· ${esc(w.ref || '')} · <a href="#dia-${w.d}">día ${w.d}</a></span><p>${esc(w.significado)}</p></div>`).join('') + '</div></div>';
+}
+function vistaMarcas() {
+  const dias = PLAN.map(p => p.dia).filter(d => (est.marcas[d] || []).length || (est.notas[d] || []).some(n => n.txt) || (est.trazos[d] || []).length || est.notasDia[d]);
+  return `<div class="hoja"><span class="ojo">Tu estudio</span><h1 class="titulo">Mis marcas y notas</h1><p class="bajada">Todo lo que resaltaste, anotaste y dibujaste, día por día.</p>` +
+    (dias.length ? dias.map(d => `<h2><a href="#dia-${d}">Día ${d} · ${esc(diaPlan(d).titulo)}</a></h2>` +
+      (est.marcas[d] || []).map(m => `<p><mark class="hl hl-${esc(m.c)}">${esc(m.t || '')}</mark></p>`).join('') +
+      (est.notas[d] || []).filter(n => n.txt).map(n => `<p class="nota-estatica">${esc(n.txt)}</p>`).join('') +
+      (est.notasDia[d] ? `<p class="nota-estatica">${esc(est.notasDia[d])}</p>` : '') +
+      ((est.trazos[d] || []).length ? `<p class="estado">${est.trazos[d].length} trazos a mano</p>` : '')).join('') : '<p>Todavía no marcaste nada. En cualquier día, seleccioná un texto para resaltarlo o anotarlo, o usá el lápiz.</p>') + '</div>';
+}
+let indice = null;
+function vistaBuscar() { return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Buscar</h1><div class="buscar"><label for="q" class="estado">Buscar en todo el estudio y en tus notas</label><input id="q" type="search" placeholder="Por ejemplo: liderazgo, pornografía, Efesios 5, José…" autocomplete="off"></div><div id="res"></div></div>`; }
+function armarIndice() {
+  indice = [];
+  Object.entries(D.dias).forEach(([d, x]) => {
+    const push = (sec, t) => t && indice.push({ d: +d, sec, t });
+    push('Entrada', x.entrada.texto); x.apartados.forEach(s => s.parrafos.forEach(q => push(s.titulo, q.texto)));
+    (x.datos || []).forEach(dt => push('Datos', dt.texto)); if (x.modelo) push('Modelo: ' + x.modelo.persona, x.modelo.texto);
+    (x.palabras || []).forEach(w => push('Palabra: ' + w.translit, w.significado));
+    (x.interpretaciones || []).forEach(i => i.posturas.forEach(p => push('Pregunta difícil: ' + i.tema, p.quien + ': ' + p.postura)));
+    (x.conexiones || []).forEach(k => push('Conexión: ' + k.ref, k.nota)); (x.profundizar || []).forEach(f => push('Profundizar: ' + f.titulo, f.texto));
+    if (x.lectura) push('Lectura', x.lectura.pasaje);
+  });
+}
+const sinTildes = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+function vistaTexto(clave) { const t = D.textos[clave]; if (!t) return vistaInicio(); return `<article class="hoja"><span class="ojo">${esc(t.ojo)}</span><h1 class="titulo">${esc(t.titulo)}</h1>${t.html}</article>`; }
+function vistaFuentes() {
+  const F = D.obras;
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Fuentes del estudio</h1>${D.textos.fuentes ? D.textos.fuentes.html : ''}
+    <h2>Libros y comentarios citados</h2><p class="estado">${F.libros.length} obras de autores protestantes confiables.</p><table class="tabla"><tbody>${F.libros.map(o => `<tr><td>${esc(o[0])}</td><td>${esc(o[1])}</td></tr>`).join('')}</tbody></table>
+    <h2>Fuentes de la web</h2><table class="tabla"><tbody>${F.web.map(o => `<tr><td>${esc(o[0])}</td><td><a href="${esc(o[2])}" target="_blank" rel="noopener">${esc(o[1])}</a></td></tr>`).join('')}</tbody></table>
+    <p class="estado" style="margin-top:16px">${esc(D.aviso_rvr)}</p></div>`;
+}
+
+/* ---------- marcas: claves de bloque, offsets y resaltado ---------- */
+const hash = s => { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) | 0; return (h >>> 0).toString(36); };
+const nodosTexto = el => { const w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest('.chips, .anot-nota, button') ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT }); const out = []; while (w.nextNode()) out.push(w.currentNode); return out; };
+const textoBloque = el => nodosTexto(el).map(n => n.nodeValue).join('');
+function asignarClaves(d) {
+  const vistos = {};
+  $$('#hoja .ak').forEach(el => { const base = 'k' + hash(textoBloque(el).slice(0, 200)); vistos[base] = (vistos[base] || 0) + 1; el.dataset.k = vistos[base] > 1 ? base + '-' + vistos[base] : base; });
+}
+function offsetEn(el, nodo, off) {
+  let total = 0;
+  for (const n of nodosTexto(el)) { if (n === nodo) return total + off; total += n.nodeValue.length; }
+  return null;
+}
+function puntoBorde(el, nodo, off, alFinal) {
+  // convierte un punto de la selección (que puede caer en un elemento) a offset de texto del bloque
+  if (nodo.nodeType === 3) { const o = offsetEn(el, nodo, off); if (o !== null) return o; }
+  const r = document.createRange(); r.selectNodeContents(el); r.setEnd(nodo, off);
+  const frag = r.cloneContents(); const tmp = document.createElement('div'); tmp.appendChild(frag);
+  tmp.querySelectorAll('.chips, .anot-nota, button').forEach(x => x.remove());
+  return tmp.textContent.length;
+}
+function aplicarMarcas(d) {
+  (est.marcas[d] || []).forEach(m => {
+    const el = document.querySelector(`#hoja [data-k="${m.k}"]`); if (!el) return;
+    let pos = 0;
+    for (const n of nodosTexto(el)) {
+      const ini = pos, fin = pos + n.nodeValue.length; pos = fin;
+      if (fin <= m.a || ini >= m.b) continue;
+      const a = Math.max(m.a, ini) - ini, b = Math.min(m.b, fin) - ini;
+      let nodo = n; if (a > 0) nodo = nodo.splitText(a); if (b - a < nodo.nodeValue.length) nodo.splitText(b - a);
+      const mk = document.createElement('mark'); mk.className = `hl hl-${m.c}` + ((est.notas[d] || []).some(x => x.hl === m.id && x.txt) ? ' con-nota' : ''); mk.dataset.hl = m.id;
+      nodo.parentNode.insertBefore(mk, nodo); mk.appendChild(nodo);
+    }
+  });
+}
+function pintarNotas(d) {
+  (est.notas[d] || []).forEach(n => {
+    const el = document.querySelector(`#hoja [data-k="${n.k}"]`); if (!el) return;
+    const m = n.hl && (est.marcas[d] || []).find(x => x.id === n.hl);
+    const div = document.createElement('div'); div.className = 'anot-nota'; div.dataset.nota = n.id;
+    div.innerHTML = `${m ? `<span class="cita-hl">sobre «${esc((m.t || '').slice(0, 70))}${(m.t || '').length > 70 ? '…' : ''}»</span>` : ''}<textarea rows="1" aria-label="Nota al margen" placeholder="Escribí tu nota…">${esc(n.txt || '')}</textarea><button class="x" aria-label="Borrar la nota" title="Borrar la nota">×</button>`;
+    const ancla = el.closest('li, figure, .dato, .postura, .palabra, aside.destacado') || el;
+    ancla.after(div); autoalto(div.querySelector('textarea'));
+  });
+}
+const autoalto = ta => { ta.style.height = 'auto'; ta.style.height = (ta.scrollHeight + 2) + 'px'; };
+
+/* selección → mini barra de colores */
+let selActual = null, marcaTocada = null;
+function bloquesDeRango(r) {
+  return $$('#hoja .ak').filter(el => r.intersectsNode(el));
+}
+function mostrarPop(rect, conQuitar) {
+  const pop = $('#sel-pop'); pop.hidden = false; $('#pop-quitar').hidden = !conQuitar;
+  const w = pop.offsetWidth; pop.style.left = Math.max(12, Math.min(innerWidth - w - 12, rect.left + scrollX + rect.width / 2 - w / 2)) + 'px';
+  pop.style.top = Math.max(scrollY + 64, rect.top + scrollY - pop.offsetHeight - 10) + 'px';
+}
+const ocultarPop = () => { $('#sel-pop').hidden = true; selActual = null; marcaTocada = null; };
+function revisarSeleccion() {
+  if (modo !== 'leer' || !$('#hoja')) return;
+  const s = getSelection(); if (!s.rangeCount || s.isCollapsed) { if (!marcaTocada) $('#sel-pop').hidden = true; return; }
+  const r = s.getRangeAt(0); if (!$('#hoja').contains(r.commonAncestorContainer)) return;
+  const bloques = bloquesDeRango(r); if (!bloques.length) return;
+  selActual = bloques.map(el => {
+    const a = el.contains(r.startContainer) ? puntoBorde(el, r.startContainer, r.startOffset) : 0;
+    const b = el.contains(r.endContainer) ? puntoBorde(el, r.endContainer, r.endOffset) : textoBloque(el).length;
+    return { k: el.dataset.k, a, b, t: textoBloque(el).slice(a, b) };
+  }).filter(x => x.b > x.a && x.t.trim());
+  if (!selActual.length) return;
+  marcaTocada = null; mostrarPop(r.getBoundingClientRect(), false);
+}
+let tSel = null;
+document.addEventListener('selectionchange', () => { clearTimeout(tSel); tSel = setTimeout(revisarSeleccion, 250); });
+document.addEventListener('click', e => {
+  const mk = e.target.closest('mark.hl');
+  if (mk && modo === 'leer' && getSelection().isCollapsed && $('#hoja') && $('#hoja').contains(mk)) {
+    marcaTocada = mk.dataset.hl; selActual = null; mostrarPop(mk.getBoundingClientRect(), true); e.stopPropagation(); return;
+  }
+  if (!e.target.closest('#sel-pop') && getSelection().isCollapsed) $('#sel-pop').hidden = true;
+});
+function crearMarcas(color) {
+  const d = diaVisible(); const ids = [];
+  selActual.forEach(s => { const m = { id: nuevoId(), k: s.k, a: s.a, b: s.b, c: color, t: s.t.trim() }; lista(est.marcas, d).push(m); ids.push(m.id); });
+  guardar(); return ids;
+}
+$('#sel-pop').addEventListener('click', e => {
+  const d = diaVisible();
+  const sw = e.target.closest('.sw');
+  if (sw) {
+    if (marcaTocada) { const m = (est.marcas[d] || []).find(x => x.id === marcaTocada); if (m) m.c = sw.dataset.c; guardar(); }
+    else if (selActual) crearMarcas(sw.dataset.c);
+    getSelection().removeAllRanges(); ocultarPop(); repintarDia(); return;
+  }
+  if (e.target.closest('#pop-nota')) {
+    let hl = marcaTocada, k;
+    if (!hl && selActual) { const ids = crearMarcas('amarillo'); hl = ids[ids.length - 1]; }
+    const m = (est.marcas[d] || []).find(x => x.id === hl); k = m ? m.k : null;
+    if (k) { const yaN = (est.notas[d] || []).find(n => n.hl === hl); const id = yaN ? yaN.id : nuevoId(); if (!yaN) lista(est.notas, d).push({ id, k, hl, txt: '' }); guardar();
+      getSelection().removeAllRanges(); ocultarPop(); repintarDia(); const ta = document.querySelector(`[data-nota="${id}"] textarea`); if (ta) ta.focus(); }
+    return;
+  }
+  if (e.target.closest('#pop-quitar') && marcaTocada) {
+    est.marcas[d] = (est.marcas[d] || []).filter(x => x.id !== marcaTocada); est.notas[d] = (est.notas[d] || []).filter(n => n.hl !== marcaTocada || n.txt);
+    (est.notas[d] || []).forEach(n => { if (n.hl === marcaTocada) n.hl = null; }); guardar(); ocultarPop(); repintarDia();
+  }
+});
+document.addEventListener('input', e => {
+  const ta = e.target.closest('.anot-nota textarea');
+  if (ta) { autoalto(ta); const d = diaVisible(), id = ta.closest('.anot-nota').dataset.nota; const n = (est.notas[d] || []).find(x => x.id === id); if (n) { n.txt = ta.value; clearTimeout(window._tnn); window._tnn = setTimeout(() => { guardar(); pintarLado(); }, 700); } }
+  if (e.target.id === 'notas-dia') { const d = +e.target.dataset.dia; est.notasDia[d] = e.target.value; $('#estado-notas').textContent = 'Guardando…'; clearTimeout(window._tn); window._tn = setTimeout(() => { guardar(); $('#estado-notas').textContent = avisoGuardado || 'Guardado en esta compu.'; }, 700); }
+  if (e.target.id === 'q') buscar(e.target.value);
+});
+document.addEventListener('click', e => {
+  const x = e.target.closest('.anot-nota .x'); if (!x) return;
+  const d = diaVisible(), id = x.closest('.anot-nota').dataset.nota; est.notas[d] = (est.notas[d] || []).filter(n => n.id !== id); guardar(); repintarDia();
+});
+
+/* ---------- lápiz: trazos anclados a los párrafos ---------- */
+let modo = 'leer', tinta = 'grafito', trazo = null;
+const TINTAS = { grafito: { c: 'var(--ink)', s: 2.2, o: .9 }, azul: { c: '#2563eb', s: 2.2, o: .95 }, rojo: { c: '#dc2626', s: 2.2, o: .95 }, fluo: { c: '#facc15', s: 14, o: .38 } };
+const diaVisible = () => { const h = $('#hoja'); return h ? +h.dataset.dia : null; };
+function ponerModo(m) {
+  modo = m; document.body.classList.toggle('modo-lapiz', m === 'lapiz'); document.body.classList.toggle('modo-borrador', m === 'borrador');
+  $('#t-leer').setAttribute('aria-pressed', m === 'leer'); $('#t-lapiz').setAttribute('aria-pressed', m === 'lapiz'); $('#t-borrador').setAttribute('aria-pressed', m === 'borrador');
+  $('#tintas').hidden = m !== 'lapiz'; $$('.tinta').forEach(b => b.setAttribute('aria-pressed', b.dataset.t === tinta));
+  $$('.tinta').forEach(b => { const t = TINTAS[b.dataset.t]; b.style.background = b.dataset.t === 'grafito' ? 'var(--ink)' : t.c; });
+  ocultarPop();
+}
+$('#t-leer').onclick = () => ponerModo('leer');
+$('#t-lapiz').onclick = () => ponerModo(modo === 'lapiz' ? 'leer' : 'lapiz');
+$('#t-borrador').onclick = () => ponerModo(modo === 'borrador' ? 'leer' : 'borrador');
+$('#tintas').addEventListener('click', e => { const b = e.target.closest('.tinta'); if (b) { tinta = b.dataset.t; ponerModo('lapiz'); } });
+$('#t-deshacer').onclick = () => { const d = diaVisible(); const ts = est.trazos[d] || []; if (ts.length) { ts.pop(); guardar(); dibujarTrazos(); pintarLado(); } };
+function rectBloques() {
+  const hoja = $('#hoja'); const rh = hoja.getBoundingClientRect();
+  return $$('#hoja .ak').map(el => { const r = el.getBoundingClientRect(); return { k: el.dataset.k, x: r.left - rh.left, y: r.top - rh.top, w: r.width, h: r.height }; });
+}
+function camino(pts) {
+  if (pts.length < 2) return pts.length ? `M${pts[0][0]},${pts[0][1]} l0.01,0` : '';
+  let d = `M${pts[0][0].toFixed(1)},${pts[0][1].toFixed(1)}`;
+  for (let i = 1; i < pts.length - 1; i++) { const mx = (pts[i][0] + pts[i + 1][0]) / 2, my = (pts[i][1] + pts[i + 1][1]) / 2; d += ` Q${pts[i][0].toFixed(1)},${pts[i][1].toFixed(1)} ${mx.toFixed(1)},${my.toFixed(1)}`; }
+  const u = pts[pts.length - 1]; return d + ` L${u[0].toFixed(1)},${u[1].toFixed(1)}`;
+}
+let posCache = {};
+function dibujarTrazos() {
+  const hoja = $('#hoja'); if (!hoja) return;
+  let svg = $('#lienzo');
+  if (!svg) { svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); svg.id = 'lienzo'; svg.setAttribute('class', 'lienzo'); hoja.appendChild(svg); }
+  const W = hoja.offsetWidth, H = hoja.scrollHeight; svg.setAttribute('width', W); svg.setAttribute('height', H); svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  const bloques = Object.fromEntries(rectBloques().map(b => [b.k, b])); posCache = {};
+  const d = diaVisible();
+  svg.innerHTML = (est.trazos[d] || []).map(t => {
+    const b = bloques[t.k]; if (!b) return '';
+    const sx = b.w / (t.bw || b.w), sy = b.h / (t.bh || b.h);
+    const pts = t.pts.map(p => [b.x + p[0] * sx, b.y + p[1] * sy]); posCache[t.id] = pts;
+    const ti = TINTAS[t.c] || TINTAS.grafito;
+    return `<path d="${camino(pts)}" fill="none" stroke="${ti.c}" stroke-width="${ti.s}" stroke-opacity="${ti.o}" stroke-linecap="round" stroke-linejoin="round"/>`;
+  }).join('');
+}
+function puntoLocal(e) { const r = $('#hoja').getBoundingClientRect(); return [e.clientX - r.left, e.clientY - r.top]; }
+document.addEventListener('pointerdown', e => {
+  const svg = e.target.closest('#lienzo'); if (!svg) return;
+  if (modo === 'lapiz') { e.preventDefault(); svg.setPointerCapture(e.pointerId); trazo = { pts: [puntoLocal(e)], el: document.createElementNS('http://www.w3.org/2000/svg', 'path') };
+    const ti = TINTAS[tinta]; Object.entries({ fill: 'none', stroke: ti.c, 'stroke-width': ti.s, 'stroke-opacity': ti.o, 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }).forEach(([k, v]) => trazo.el.setAttribute(k, v)); svg.appendChild(trazo.el); }
+  if (modo === 'borrador') { e.preventDefault(); svg.setPointerCapture(e.pointerId); borrarCerca(puntoLocal(e)); window._borrando = true; }
+});
+document.addEventListener('pointermove', e => {
+  if (trazo) { const evs = e.getCoalescedEvents ? e.getCoalescedEvents() : [e]; evs.forEach(ev => trazo.pts.push(puntoLocal(ev))); trazo.el.setAttribute('d', camino(trazo.pts)); }
+  else if (window._borrando && modo === 'borrador') borrarCerca(puntoLocal(e));
+});
+document.addEventListener('pointerup', () => {
+  window._borrando = false;
+  if (!trazo) return;
+  const t = trazo; trazo = null; if (t.pts.length < 2) { t.el.remove(); return; }
+  const bloques = rectBloques(); const [x0, y0] = t.pts[0];
+  let b = bloques.find(q => y0 >= q.y && y0 <= q.y + q.h) || bloques.reduce((m, q) => Math.abs(q.y + q.h / 2 - y0) < Math.abs(m.y + m.h / 2 - y0) ? q : m, bloques[0]);
+  if (!b) return;
+  const d = diaVisible(); lista(est.trazos, d).push({ id: nuevoId(), k: b.k, bw: +b.w.toFixed(1), bh: +b.h.toFixed(1), c: tinta, pts: t.pts.map(p => [+(p[0] - b.x).toFixed(1), +(p[1] - b.y).toFixed(1)]) });
+  guardar(); dibujarTrazos(); pintarLado();
+});
+function borrarCerca([x, y]) {
+  const d = diaVisible(); const ts = est.trazos[d] || []; const antes = ts.length;
+  est.trazos[d] = ts.filter(t => { const pts = posCache[t.id] || []; return !pts.some((p, i) => { const q = pts[i + 1] || p; return distSeg(x, y, p, q) < 10; }); });
+  if (est.trazos[d].length !== antes) { guardar(); dibujarTrazos(); pintarLado(); }
+}
+function distSeg(x, y, p, q) { const dx = q[0] - p[0], dy = q[1] - p[1]; const l = dx * dx + dy * dy; let t = l ? ((x - p[0]) * dx + (y - p[1]) * dy) / l : 0; t = Math.max(0, Math.min(1, t)); return Math.hypot(x - (p[0] + t * dx), y - (p[1] + t * dy)); }
+let tRes = null; addEventListener('resize', () => { clearTimeout(tRes); tRes = setTimeout(dibujarTrazos, 150); });
+
+/* ---------- descargar el día, imprimir y guardar el estudio ---------- */
+function bajar(nombre, contenido, tipo) {
+  const url = URL.createObjectURL(new Blob([contenido], { type: tipo }));
+  const a = document.createElement('a'); a.href = url; a.download = nombre; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 3000);
+}
+const fechaArchivo = () => new Date().toISOString().slice(0, 10);
+function descargarDia() {
+  const d = diaVisible(); if (!d) return;
+  dibujarTrazos();
+  const hoja = $('#hoja'); const ancho = hoja.offsetWidth;
+  const copia = hoja.cloneNode(true);
+  copia.querySelectorAll('.no-imprimir, .acciones, .pie-dia, #hecho-btn').forEach(x => x.remove());
+  copia.querySelectorAll('details').forEach(x => x.setAttribute('open', ''));
+  copia.querySelectorAll('.anot-nota').forEach(n => { const ta = n.querySelector('textarea'); const div = document.createElement('div'); div.className = 'nota-estatica'; div.textContent = ta ? ta.value : ''; ta && ta.replaceWith(div); n.querySelector('.x') && n.querySelector('.x').remove(); });
+  const ta = copia.querySelector('#notas-dia'); if (ta) { const div = document.createElement('div'); div.className = 'nota-estatica'; div.textContent = ta.value || ''; ta.replaceWith(div); }
+  const usadas = new Map();
+  copia.querySelectorAll('.chip').forEach(c => { c.dataset.ids.split(' ').forEach(id => { const f = D.fuentes[id]; if (f && !usadas.has(id)) usadas.set(id, f); }); const s = document.createElement('span'); s.className = 'chip'; s.textContent = c.textContent; c.replaceWith(s); });
+  const fuentesHtml = `<section style="margin-top:30px"><h2>Fuentes de este día</h2><ul style="font:400 .85rem/1.5 var(--f-ui)">${[...usadas.values()].map(f => `<li><b>${esc(f[0])}</b>: ${esc(f[1])}${f[2] ? ', ' + esc(f[2]) : ''}${f[3] ? ` · <a href="${esc(f[3])}">${esc(f[3])}</a>` : ''}</li>`).join('')}</ul><p class="estado">${esc(D.aviso_rvr)}</p></section>`;
+  const css = $$('style').map(s => s.textContent).join('\n');
+  const tema = document.documentElement.dataset.theme ? ` data-theme="${document.documentElement.dataset.theme}"` : '';
+  const html = `<!doctype html>\n<html lang="es"${tema}><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Día ${d} · ${esc(diaPlan(d).titulo)} · El varón según Dios</title><style>${css}\n.hoja{width:${ancho}px;max-width:none}</style></head><body class="exportado"><main>${copia.outerHTML}${fuentesHtml}</main></body></html>`;
+  bajar(`Varon-segun-Dios-dia-${String(d).padStart(3, '0')}.html`, html, 'text/html');
+}
+$('#t-descargar').onclick = descargarDia;
+$('#t-imprimir').onclick = () => { $$('#hoja details').forEach(x => x.setAttribute('open', '')); dibujarTrazos(); setTimeout(() => window.print(), 100); };
+function guardarHTML() {
+  const estado = JSON.stringify({ ...est, guardado: hoyISO() }).replace(/</g, '\\u003c');
+  const html = PRISTINO.replace(/(<script type="application\/json" id="estado-inicial">)[\s\S]*?(<\/script>)/, (m, a, b) => a + estado + b);
+  bajar(`El-varon-segun-Dios-con-mis-marcas-${fechaArchivo()}.html`, html, 'text/html');
+  const e = $('#estado-copia'); if (e) e.textContent = 'Listo: se descargó el estudio completo con tus marcas. Abrilo cuando quieras; trae todo adentro.';
+}
+$('#guardar-btn').onclick = guardarHTML;
+
+/* copia de las marcas (JSON) para pasar a otra compu */
+function bajarCopia() { bajar(`varon-segun-dios-marcas-${fechaArchivo()}.json`, JSON.stringify({ app: 'varon-segun-dios', version: 1, fecha: hoyISO(), ...est }, null, 1), 'application/json'); $('#estado-copia').textContent = 'Copia descargada.'; }
+async function cargarCopia(archivo) {
+  const msg = t => { $('#estado-copia').textContent = t; };
+  let c; try { c = JSON.parse(await archivo.text()); } catch (e) { msg('Ese archivo no es una copia del estudio.'); return; }
+  if (!c || c.app !== 'varon-segun-dios') { msg('Ese archivo no es una copia del estudio.'); return; }
+  let n = 0;
+  Object.entries(c.hechos || {}).forEach(([d, f]) => { if (!est.hechos[d]) { est.hechos[d] = f; n++; } });
+  Object.entries(c.notasDia || {}).forEach(([d, t]) => { const a = est.notasDia[d] || ''; if (t && !a.includes(t)) { est.notasDia[d] = a ? a + '\n\n— De la copia —\n' + t : t; n++; } });
+  ['marcas', 'notas', 'trazos'].forEach(k => Object.entries(c[k] || {}).forEach(([d, xs]) => { const ya = new Set((est[k][d] || []).map(x => x.id)); xs.forEach(x => { if (!ya.has(x.id)) { lista(est[k], d).push(x); n++; } }); }));
+  guardar(); render(); msg(n ? `Copia cargada: se sumaron ${n} elementos.` : 'La copia no tenía nada nuevo.');
+}
+document.addEventListener('click', e => {
+  if (e.target.closest('#guardar-html-2')) guardarHTML();
+  if (e.target.closest('#bajar-copia')) bajarCopia();
+  if (e.target.closest('#cargar-copia-btn')) $('#cargar-copia').click();
+});
+document.addEventListener('change', e => { if (e.target.id === 'cargar-copia' && e.target.files[0]) cargarCopia(e.target.files[0]); });
+
+/* ---------- búsqueda ---------- */
+function buscar(v) {
+  if (!indice) armarIndice();
+  const q = sinTildes(v.trim()); if (q.length < 3) { $('#res').innerHTML = ''; return; }
+  const propios = []; Object.entries(est.notasDia).forEach(([d, t]) => t && propios.push({ d: +d, sec: 'Tu nota', t })); Object.entries(est.notas).forEach(([d, ns]) => ns.forEach(n => n.txt && propios.push({ d: +d, sec: 'Tu nota al margen', t: n.txt })));
+  const res = propios.concat(indice).filter(r => sinTildes(r.t + ' ' + r.sec).includes(q)).slice(0, 100);
+  $('#res').innerHTML = res.length ? res.map(r => { const i = sinTildes(r.t).indexOf(q); const ini = Math.max(0, i - 90); return `<div class="resultado"><a href="#dia-${r.d}"><b>Día ${r.d}</b> · ${esc(r.sec)}</a><div>${ini ? '…' : ''}${esc(r.t.slice(ini, ini + 260))}…</div></div>`; }).join('') : '<p>No hay resultados.</p>';
+}
+
+/* ---------- ruteo ---------- */
+function pintarLado() { const d = diaVisible(); if (d && D.dias[d]) $('#lado').innerHTML = ladoDia(d); }
+function repintarDia() {
+  const d = diaVisible(); if (!d) return; const y = scrollY;
+  $('#principal').innerHTML = vistaDia(d); asignarClaves(d); aplicarMarcas(d); pintarNotas(d); dibujarTrazos(); pintarLado(); conectarDia(d); scrollTo(0, y);
+}
+function conectarDia(d) {
+  const hb = $('#hecho-btn'); if (hb) hb.onclick = () => { if (est.hechos[d]) delete est.hechos[d]; else est.hechos[d] = hoyISO().slice(0, 10); guardar(); repintarDia(); pintarNav(); pintarProgreso(); };
+}
+function render() {
+  const h = (location.hash || '#inicio').slice(1);
+  rutaActual = h; let main = '', lado = '', esDia = false;
+  const m = h.match(/^dia-(\d+)$/);
+  if (m && diaPlan(+m[1])) { esDia = true; main = vistaDia(+m[1]); }
+  else if (h === 'marcas') main = vistaMarcas();
+  else if (h === 'datos') main = vistaDatos();
+  else if (h === 'modelos') main = vistaModelos();
+  else if (h === 'palabras') main = vistaPalabras();
+  else if (h === 'buscar') main = vistaBuscar();
+  else if (h === 'fuentes') main = vistaFuentes();
+  else if (h === 'como-usar') main = vistaTexto(h);
+  else { rutaActual = 'inicio'; main = vistaInicio(); }
+  $('#principal').innerHTML = main; ocultarPop();
+  $('#herramientas').hidden = !(esDia && D.dias[+m[1]]);
+  if (esDia) { const d = +m[1]; asignarClaves(d); aplicarMarcas(d); pintarNotas(d); conectarDia(d); lado = ladoDia(d); }
+  else ponerModo('leer');
+  $('#lado').innerHTML = lado; $('#lado').hidden = !lado;
+  document.querySelector('.app').style.gridTemplateColumns = lado ? '' : (innerWidth > 820 ? '280px minmax(0, 1fr)' : '');
+  pintarNav(); pintarProgreso();
+  if (h === 'buscar') setTimeout(() => $('#q') && $('#q').focus(), 0);
+  window.scrollTo(0, 0);
+  if (esDia) { document.fonts && document.fonts.ready ? document.fonts.ready.then(dibujarTrazos) : dibujarTrazos(); setTimeout(dibujarTrazos, 300); }
+}
+addEventListener('hashchange', render);
+addEventListener('keydown', e => {
+  if (e.target.matches('input, textarea')) return;
+  const m = (location.hash || '').match(/^#dia-(\d+)$/); if (!m) return;
+  const d = +m[1];
+  if (e.key === 'ArrowRight' && d < TOTAL) location.hash = 'dia-' + (d + 1);
+  if (e.key === 'ArrowLeft' && d > 1) location.hash = 'dia-' + (d - 1);
+  if (e.key === 'Escape') ponerModo('leer');
+});
+ponerModo('leer');
+render();
+})();
+</script>

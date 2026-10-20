@@ -1,6 +1,6 @@
 # Esquema de cada día del estudio «El varón según Dios» (JSON)
 
-Un día = 20 a 30 minutos de estudio personal (unas 2.000 a 2.600 palabras en el cuerpo principal, sin contar «profundizar»).
+Un día = 20 a 30 minutos de estudio personal (entre 2.000 y 2.500 palabras en el cuerpo principal, nunca más de 2.600, sin contar «profundizar»).
 Lo lee un hombre cristiano protestante de Buenos Aires: se le habla de **vos**, en castellano rioplatense, cálido, directo y
 sin relleno. Nada inventado: cada afirmación lleva en `fuentes` los ids de las notas que la respaldan (p. ej. `b_014#7`)
 o de los datos de la web (p. ej. `W0123`).

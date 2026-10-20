@@ -13,3 +13,5 @@
 - Agrupar (piloto in_G_01, con notas parciales): wf_1db22a89-3d0 (script: varon/scripts/wf_varon_agrupar.js)
 - Agrupar piloto (in_M_01, in_N_01, notas parciales; prueba de punta a punta): wf_7406e891-977
 - Planear piloto (M, N con notas parciales): wf_21e089cc-6e0
+- Escribir piloto (días 4-5 del plan de prueba M/N): wf_cb2ba58a-5d3
+- Continuidad piloto (días 4-5 de prueba): wf_f3bcf3b2-1a3

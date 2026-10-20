@@ -1,0 +1,144 @@
+[
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "para_vivir[0].texto",
+  "tipo": "tono",
+  "problema": "El día 4 muestra que el varón mayor es el grupo con más suicidios (25,1 cada 100.000 en Argentina a partir de los 70) y le pide al lector en riesgo que no cargue esos pensamientos solo. Al día siguiente, el mismo lector lee «morir es ganancia» y «Pablo no quiere quedarse en este mundo», y recibe como tarea hacerse «la pregunta valiente: ¿cómo y cuándo voy a dejar esta vida?». En el día 5 esa tarea no tiene ningún resguardo. Leídos juntos, un hombre mayor vulnerable puede tomar el ejercicio como permiso o como empujón.",
+  "resultado": "descartado: El riesgo pastoral es real, pero esta propuesta toca el mismo fragmento que la [1], que es mejor: además de sumar el resguardo, cambia la pregunta «¿cómo y cuándo voy a dejar esta vida?». En una evaluación de riesgo de suicidio, «cómo y cuándo» son justamente las preguntas por el método y el momento, y la [0] deja esa pregunta como está. Se acepta solo la [1]."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "para_vivir[0].texto",
+  "tipo": "continuidad",
+  "problema": "El día 4 muestra que el varón mayor está especialmente expuesto al suicidio y le pide al lector que, si tiene esos pensamientos, los hable. Al día siguiente se le pide que se haga la pregunta «¿cómo y cuándo voy a dejar esta vida?», todo en un día que presenta la muerte como ganancia y como «beso de las buenas noches». Para un lector vulnerable, esa pregunta suena a planear la propia muerte.",
+  "resultado": "aplicado",
+  "antes": "hacete la pregunta valiente: ¿cómo y cuándo voy a dejar esta vida? Anotá una cosa que cambiarías hoy si lo tomaras en serio.",
+  "despues": "hacete la pregunta valiente: ¿cómo y cuándo me va a llegar la muerte? Anotá una cosa que cambiarías hoy si lo tomaras en serio. Y si alguna vez esa pregunta te lleva a pensar en quitarte la vida, no lo cargues solo: hablalo hoy con alguien de confianza, con tu pastor o con un profesional."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[0].parrafos[2].texto",
+  "tipo": "continuidad",
+  "problema": "Es la misma formulación que en para_vivir[0]. Leída justo después de la sección del día 4 sobre el suicidio de los varones mayores, «cómo y cuándo vas a dejar esta vida» puede entenderse como decidir uno mismo cuándo y cómo morir.",
+  "resultado": "aplicado",
+  "antes": "preguntarte cómo y cuándo vas a dejar esta vida.",
+  "despues": "preguntarte cómo y cuándo te va a llegar la muerte."
+ },
+ {
+  "ventana": 1,
+  "dia": 4,
+  "campo": "apartados[4].parrafos[3].texto",
+  "tipo": "doctrina",
+  "problema": "Ryle muestra que los pecados de la juventud llenan de vergüenza y autorreproche los últimos días, y el párrafo cierra con «lo que sembrás ahora, lo cosechás de viejo». Al hombre mayor que ya carga esa cosecha solo se le dice «llevásela a Dios en oración». No aparece el perdón en Cristo, y el resultado es culpa sin esperanza y una ley de siembra y cosecha sin evangelio.",
+  "resultado": "aplicado",
+  "antes": "Y si ya cargás esa cosecha, hacé como David: llevásela a Dios en oración.",
+  "despues": "Y si ya cargás esa cosecha, hacé como David: llevásela a Dios en oración y pedile que no se acuerde de los pecados de tu juventud. Si confesaste tu pecado y tenés a Jesús como Señor y Salvador, ya fuiste perdonado por la muerte y la resurrección de Cristo."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[3].parrafos[3].texto",
+  "tipo": "error",
+  "problema": "«La misma certeza» remite a la frase anterior, «saber que era hora de volver a casa». Un lector nuevo puede entender que mirar a Jesús le va a revelar cuándo le toca morir, o que se trata de una visión mística del rostro de Cristo. Pesa más en estos días, que hablan de la muerte y del suicidio.",
+  "resultado": "aplicado",
+  "antes": "Una mirada al rostro del Salvador te va a dar a vos la misma certeza.",
+  "despues": "Si tu confianza está puesta en el Salvador, vas a poder partir con la misma paz el día que Dios fijó para vos."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "entrada.texto",
+  "tipo": "error",
+  "problema": "Apocalipsis 1:18 no habla de «las llaves de la vida y de la muerte»: en la RVR1960 dice «las llaves de la muerte y del Hades». El lector que busque la cita no va a encontrar lo que se le atribuye.",
+  "resultado": "aplicado",
+  "antes": "Aquel que tiene las llaves de la vida y de la muerte (Apocalipsis 1:18)",
+  "despues": "Aquel que tiene las llaves de la muerte (Apocalipsis 1:18)"
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[4].parrafos[2].texto",
+  "tipo": "contradiccion",
+  "problema": "Dos párrafos antes, MacArthur dice que «Ninguna tarea quedó sin terminar», y acá se dice que Pablo «no había terminado de leer, de escribir ni de estudiar». Leídas juntas, las dos afirmaciones chocan.",
+  "resultado": "aplicado",
+  "antes": "en sus últimos días, Pablo no había terminado de leer, de escribir ni de estudiar.",
+  "despues": "en sus últimos días, con la carrera ya acabada, Pablo no había dejado de leer, de escribir ni de estudiar."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[5].parrafos[0].texto",
+  "tipo": "error",
+  "problema": "Justo después de nombrar a Demas y a Alejandro («los que lo lastimaron»), el texto dice «Ellos eran su legado más visible». Así parece que también los que abandonaron o dañaron a Pablo son su legado.",
+  "resultado": "aplicado",
+  "antes": "Ellos eran su legado más visible.",
+  "despues": "Las personas en las que había invertido eran su legado más visible."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[5].parrafos[3].texto",
+  "tipo": "error",
+  "problema": "«Seis horas diarias, tres o cuatro veces a la semana» se contradice dentro de la misma frase: una cosa es todos los días y la otra no.",
+  "resultado": "aplicado",
+  "antes": "lo ató a un dializador seis horas diarias, tres o cuatro veces a la semana",
+  "despues": "lo ató a un dializador seis horas por sesión, tres o cuatro veces a la semana"
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "para_vivir[4].texto",
+  "tipo": "tono",
+  "problema": "Da por hecho que el lector tiene esposa e hijos. En la parte «El varón mayor», donde el día 4 insiste en los hombres solos y los viudos, esta consigna deja afuera, y puede herir, al viudo o al soltero. El día 4 ya tuvo ese cuidado: «tus hijos, o por los chicos que Dios puso cerca tuyo».",
+  "resultado": "aplicado",
+  "antes": "hoy mismo deciles a tu esposa y a tus hijos que los amás.",
+  "despues": "hoy mismo deciles a tu esposa y a tus hijos, o a los que Dios puso cerca tuyo, que los amás."
+ },
+ {
+  "ventana": 1,
+  "dia": 4,
+  "campo": "apartados[5].parrafos[3].texto",
+  "tipo": "error",
+  "problema": "En una iglesia protestante, «los ancianos de la iglesia» son los que tienen el cargo de liderazgo (presbíteros). «La iglesia les debe honra a sus ancianos» puede leerse como una enseñanza sobre honrar a los líderes, cuando el párrafo habla de las personas mayores.",
+  "resultado": "descartado: La confusión con los ancianos como cargo dura una sola frase: enseguida vienen Proverbios 16:31 (las canas) y los asilos, y el mismo día usa «ancianos» varias veces en el sentido de personas mayores (Washer, profundizar[2]). La propia justificación reconoce que el contexto lo aclara. No desorienta al lector."
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[4].parrafos[1].texto",
+  "tipo": "error",
+  "problema": "La lectura del día (2 Timoteo 4:6-22) dice que a Trófimo Pablo lo dejó enfermo en Mileto. El texto lo pone con los demás «esparcidos en la obra», y quien lea el pasaje va a notar que no coincide.",
+  "resultado": "aplicado",
+  "antes": "Priscila, Aquila, Onesíforo, Erasto y Trófimo, esparcidos en la obra",
+  "despues": "Priscila, Aquila, Onesíforo, Erasto y Trófimo, lejos de él"
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[3].parrafos[0].texto",
+  "tipo": "tono",
+  "problema": "«Dan más importancia a la muerte que a la vida como escena de carácter» es una expresión oscura y cuesta entender qué afirma Meyer.",
+  "resultado": "aplicado",
+  "antes": "los hombres dan más importancia a la muerte que a la vida como escena de carácter",
+  "despues": "los hombres creen que el carácter de alguien se ve más en su muerte que en su vida"
+ },
+ {
+  "ventana": 1,
+  "dia": 5,
+  "campo": "apartados[0].parrafos[2].texto",
+  "tipo": "tono",
+  "problema": "«Los que están perdidos» es jerga evangélica sin explicar. Un lector nuevo puede entenderlo como desorientados y no como los que están sin Cristo.",
+  "resultado": "descartado: El estudio es para un hombre cristiano protestante, y en un párrafo sobre la muerte y la eternidad «los que están perdidos» se entiende sin dificultad. La aclaración no corrige una confusión real."
+ },
+ {
+  "ventana": 1,
+  "dia": 4,
+  "campo": "apartados[5].parrafos[2].texto",
+  "tipo": "tono",
+  "problema": "«Invitó a su padre» no dice a qué lo invitó, y el lector no entiende de dónde sale después «lo vieron bailar con su hija toda la noche». El párrafo queda confuso.",
+  "resultado": "descartado: La frase siguiente («Lo vieron bailar con su hija toda la noche») deja ver que fue a algún evento, así que el lector no se pierde. Además, «una fiesta» es un dato que el estudio no trae y que la misma propuesta pide confirmar en el libro de Dobson. Si hay duda, no se agrega."
+ }
+]

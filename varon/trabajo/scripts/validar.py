@@ -70,7 +70,7 @@ def main():
             if norm(c['texto'])[:80] not in citas_ins:
                 p.append(f'cita no textual: «{c["texto"][:70]}»')
         palabras = sum(len(t.split()) for k in CUERPO for t in textos(x.get(k)))
-        if not 1700 <= palabras <= 3000:
+        if not 1800 <= palabras <= 2800:
             p.append(f'largo del cuerpo: {palabras} palabras')
         for v in x.get('versiculos', []):
             if not normalizar(v['ref']):

@@ -59,6 +59,19 @@ def recoger(o, acc):
     return acc
 
 
+def recoger_textos(o, acc):
+    if isinstance(o, dict):
+        for k, v in o.items():
+            if k not in ('fuentes', 'notas_no_usadas'):
+                recoger_textos(v, acc)
+    elif isinstance(o, list):
+        for v in o:
+            recoger_textos(v, acc)
+    elif isinstance(o, str):
+        acc.append(o)
+    return acc
+
+
 def documento_local(pagina):
     """Documento completo con las tipografías incrustadas (una cara por archivo, con rango de grosor)."""
     css = open(os.path.join(FUENTES_DIR, 'fuentes.css')).read()
@@ -106,8 +119,14 @@ def main():
     libros = sorted({tuple(todas[i][1].split(', ', 1)) for i in usados if i in todas and not i.startswith('W')})
     web_usadas = sorted({(todas[i][0], todas[i][1], todas[i][3]) for i in usados if i.startswith('W') and i in todas})
     textos = {os.path.basename(f)[:-5]: json.load(open(f)) for f in glob.glob(f'{V}/textos/*.json')}
+    # líneas de ayuda oficiales (verificadas a mano) en los días que tratan temas delicados
+    ayuda = json.load(open(f'{V}/web/ayuda.json')) if os.path.exists(f'{V}/web/ayuda.json') else {'temas': {}}
+    for d in dias.values():
+        texto = ' '.join(recoger_textos(d, [])).lower()
+        d['ayuda'] = [k for k, t in ayuda['temas'].items() if re.search(t['patron'], texto)]
+    ayuda_app = {'consultado': ayuda.get('consultado', ''), 'temas': {k: {'titulo': t['titulo'], 'lineas': t['lineas']} for k, t in ayuda['temas'].items()}}
     textos.setdefault('como-usar', {'ojo': 'Guía', 'titulo': 'Cómo usar el estudio', 'html': '<p>Un día por vez: leé el pasaje, recorré el estudio y terminá con las preguntas y la oración.</p>'})
-    datos = {'partes': partes, 'plan': plan, 'dias': dias, 'fuentes': fuentes, 'rvr': rvr, 'textos': textos,
+    datos = {'partes': partes, 'plan': plan, 'dias': dias, 'fuentes': fuentes, 'rvr': rvr, 'textos': textos, 'ayuda': ayuda_app,
              'obras': {'libros': [list(o) for o in libros], 'web': [list(o) for o in web_usadas]}, 'aviso_rvr': AVISO_RVR}
     plantilla = open(os.path.join(AQUI, 'plantilla.html')).read()
     js = 'window.DATOS = ' + json.dumps(datos, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/') + ';'

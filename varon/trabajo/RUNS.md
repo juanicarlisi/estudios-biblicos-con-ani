@@ -15,3 +15,8 @@
 - Planear piloto (M, N con notas parciales): wf_21e089cc-6e0
 - Escribir piloto (días 4-5 del plan de prueba M/N): wf_cb2ba58a-5d3
 - Continuidad piloto (días 4-5 de prueba): wf_f3bcf3b2-1a3
+- 20-10 12:25 UTC: se detuvieron las 6 corridas de extracción (209 de 490 bloques hechos) y el resto (281 bloques) se repartió en 12 corridas nuevas (lista en scratchpad/lotes_resto.json):
+  - resto 1: wf_d36dda7b-0e0 · resto 2: wf_c20a7c42-b4e · resto 3: wf_bc887ab0-5ed · resto 4: wf_d1108634-57f
+  - resto 5: wf_b56e1b0e-f30 · resto 6: wf_8498ac28-263 · resto 7: wf_1ac38c8b-c24 · resto 8: wf_91e86de5-304
+  - resto 9: wf_1c8b0c8d-ce4 · resto 10: wf_ed5d8823-424 · resto 11: wf_09b838f1-97c · resto 12: wf_92eed452-8c4
+- 23-10: los 18 bloques que cortó el límite de uso, en 9 corridas de a 2: wf_5e801c7a-4eb wf_777a3475-915 wf_69cf83c8-a58 wf_d5fa62bc-798 wf_e0af705b-a0a wf_8942daec-903 wf_75bdce08-763 wf_dfb8dc72-b9c wf_5c6f8ce9-950

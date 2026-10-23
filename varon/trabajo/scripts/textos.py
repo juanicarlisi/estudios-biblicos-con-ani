@@ -63,6 +63,8 @@ def main():
 </ol>
 <h2>Qué quedó afuera</h2>
 <p>Solo entran autores protestantes confiables. Ya se habían excluido, y borrado de los repositorios, las obras católicas, adventistas, mormonas, de teología de la prosperidad o liberales, las de corriente carismática o con reservas, las de autor desconocido y la ficción. Tampoco se usaron dos resúmenes anónimos de libros de Pink y de Tozer que siguen en LIBROS-REFERENCIA3, porque no son la obra de esos autores. Los datos que no se pudieron confirmar en su fuente se dejaron de lado.</p>
+<h2>Líneas de ayuda</h2>
+<p>En los días que tratan el suicidio, la depresión, las adicciones, las apuestas o la violencia aparece un recuadro con líneas de ayuda de Argentina. Se tomaron de sus páginas oficiales el 20 de octubre de 2026 (Ministerio de Salud de la Nación, SEDRONAR, Ministerio de Justicia, Lotería de la Ciudad, Lotería de la Provincia de Buenos Aires y Centro de Asistencia al Suicida), cada una con su enlace. Los números pueden cambiar: si los necesitás, confirmalos en esas páginas.</p>
 <h2>El texto bíblico</h2>
 <p>Los versículos clave son de la Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. El estudio cita solo los versículos clave; el pasaje completo se lee en tu Biblia o en BibleGateway.</p>
 <h2>Tipografías</h2>

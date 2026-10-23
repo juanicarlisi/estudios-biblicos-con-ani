@@ -1,0 +1,40 @@
+{
+ "consultado": "20 de octubre de 2026",
+ "temas": {
+  "salud_mental": {
+   "titulo": "Si estás pensando en quitarte la vida o atravesás una crisis",
+   "patron": "suicid|quitarse la vida|quitarte la vida|ganas de morir|desesperanza|depresi",
+   "lineas": [
+    ["0800-999-0091", "Línea Nacional de Salud Mental del Ministerio de Salud de la Nación: gratuita, confidencial, todo el país, las 24 horas.", "https://www.argentina.gob.ar/node/513585"],
+    ["135", "Centro de Asistencia al Suicida (gratuita desde CABA y Gran Buenos Aires; desde el resto del país, (011) 5275-1135 o 0800 345 1435), de 8 a 24 h.", "https://www.asistenciaalsuicida.org.ar/ayuda"],
+    ["107 o 911", "Si hay peligro inmediato: 107 (SAME, en CABA y zonas con SAME) o 911 (todo el país).", "https://www.argentina.gob.ar/tema/emergencias"]
+   ]
+  },
+  "adicciones": {
+   "titulo": "Si el alcohol, las drogas u otro consumo te dominan",
+   "patron": "adicci|alcohol|droga|consumo problem|borrach|cocaína|marihuana",
+   "lineas": [
+    ["141", "Línea 141 de SEDRONAR: gratuita y anónima, todo el país, las 24 horas, para la persona o su familia.", "https://www.argentina.gob.ar/tema/cuidarlasalud/recuperacion-de-adicciones"]
+   ]
+  },
+  "juego": {
+   "titulo": "Si las apuestas o el juego se te fueron de las manos",
+   "patron": "apuesta|juego compulsivo|ludopat|casino|juego problem",
+   "lineas": [
+    ["141", "Línea 141 de SEDRONAR: gratuita, todo el país, las 24 horas; también atiende ludopatía.", "https://www.argentina.gob.ar/noticias/la-linea-141-de-la-sedronar-recibio-mas-de-23-mil-llamados-en-lo-que-va-del-2026"],
+    ["0800-666-6006", "Lotería de la Ciudad de Buenos Aires: orientación por juego problemático.", "https://juegosegurolegal.gob.ar/"],
+    ["0800-444-4000", "Provincia de Buenos Aires: Programa de Prevención y Asistencia al Juego Compulsivo, gratuito.", "https://loteria.gba.gob.ar/juego-compulsivo"]
+   ]
+  },
+  "violencia": {
+   "titulo": "Si hay violencia o abuso en tu casa",
+   "patron": "violencia familiar|violencia doméstica|violencia de género|maltrat|abuso sexual|abuso físico|abusador|golpea",
+   "lineas": [
+    ["137", "Violencia familiar y sexual: gratuita, todo el país, las 24 horas (WhatsApp 11-3133-1000). Pueden llamar la víctima o quien sepa de un caso.", "https://www.argentina.gob.ar/violencia-familiar-y-sexual"],
+    ["144", "Violencia de género: gratuita, las 24 horas.", "https://www.argentina.gob.ar/linea-144"],
+    ["102", "Derechos de niñas, niños y adolescentes: gratuita y confidencial, las 24 horas (no es emergencia: ante urgencia, 911).", "https://www.argentina.gob.ar/justicia/convosenlaweb/denuncia"],
+    ["911", "Emergencias, todo el país.", "https://www.argentina.gob.ar/tema/emergencias"]
+   ]
+  }
+ }
+}

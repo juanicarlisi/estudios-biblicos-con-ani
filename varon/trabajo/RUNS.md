@@ -20,3 +20,4 @@
   - resto 5: wf_b56e1b0e-f30 · resto 6: wf_8498ac28-263 · resto 7: wf_1ac38c8b-c24 · resto 8: wf_91e86de5-304
   - resto 9: wf_1c8b0c8d-ce4 · resto 10: wf_ed5d8823-424 · resto 11: wf_09b838f1-97c · resto 12: wf_92eed452-8c4
 - 23-10: los 18 bloques que cortó el límite de uso, en 9 corridas de a 2: wf_5e801c7a-4eb wf_777a3475-915 wf_69cf83c8-a58 wf_d5fa62bc-798 wf_e0af705b-a0a wf_8942daec-903 wf_75bdce08-763 wf_dfb8dc72-b9c wf_5c6f8ce9-950
+- Agrupar (81 tandas, 23.976 notas, en 10 corridas): wf_1db2877c-f60 wf_a6e50eb3-09a wf_a0c2184f-c40 wf_0a29ca48-f29 wf_f2d67b7f-4a8 wf_9e8cbf87-102 wf_560b492e-727 wf_52ec0265-d42 wf_22344b01-ec8 wf_2fec1895-f52

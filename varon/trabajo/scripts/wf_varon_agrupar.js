@@ -41,7 +41,7 @@ Tarea: agrupá TODAS las notas en grupos temáticos finos. Cada grupo reúne not
 
 Reglas:
 1. Cada id va en exactamente un grupo o en "fuera". Copiá los ids exactos (por ejemplo «b_014#7»); no inventes ninguno y no te olvides de ninguno.
-2. Grupos de 3 a 25 notas. Un grupo de 1 o 2 notas solo si la idea es única y valiosa.
+2. Grupos de 4 a 30 notas (las tandas ya vienen ordenadas por parecido, así que muchas notas seguidas suelen ir juntas). Un grupo de 1 a 3 notas solo si la idea es única y valiosa.
 3. El "tema" es concreto. «Matrimonio», «oración» o «carácter» no sirven: decí qué aspecto.
 4. Las notas de distintos autores que dicen lo mismo van juntas (eso es justamente lo que se quiere unir).
 5. Las ilustraciones, biografías y datos van con el tema que ilustran, salvo que formen un tema propio (por ejemplo, la vida de un personaje).

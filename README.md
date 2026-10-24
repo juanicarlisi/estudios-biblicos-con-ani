@@ -1,6 +1,6 @@
 # Estudios bíblicos
 
-Estudios para acompañar la lectura de la Biblia en pareja: unos 20 versículos por día, media hora de lectura y estudio.
+Estudios para acompañar la lectura de la Biblia en pareja: de 20 a 30 minutos de lectura y estudio por día (Génesis, con unos 20 versículos diarios; Santiago, sin tope de versículos: cada día cubre lo que el material pida).
 
 ## Génesis en pareja
 
@@ -41,3 +41,15 @@ Nada está inventado: cada afirmación lleva etiquetas con su fuente y la págin
 `genesis/trabajo/` guarda todo el trabajo intermedio: notas extraídas, clasificación de autores, plan, días y artículos en
 JSON, y los scripts. `genesis/app/` tiene la plantilla, las tipografías y el armador (`python3 genesis/app/construir.py`;
 con `--artefacto` arma la versión para publicar en claude.ai).
+
+## Santiago en pareja (en construcción)
+
+El estudio de la carta de Santiago sigue la misma mecánica que Génesis, pero **sin tope de versículos por día**: cada día se lee en 20 a 30 minutos y
+puede ser de un solo versículo, o varios días pueden recorrer el mismo pasaje con enfoques distintos. La cantidad de días sale de cuánto material hay.
+Se arma con todo lo que la biblioteca tiene sobre Santiago (MacArthur, Kistemaker, Carballosa, Elizabeth George, Mundo Hispano, Beacon, Biblia de Estudio MacArthur,
+Diccionario Bíblico Mundo Hispano) y con los libros de referencia de autores protestantes confiables.
+
+- **Estado y cómo retomar:** `santiago/trabajo/ESTADO.md`. La extracción de notas está en curso (`python3 santiago/trabajo/scripts/pendientes.py` muestra qué falta).
+- **Novedades de UX previstas:** barra de avance global, por parte y por día; cuadrícula de los 108 versículos; el pasaje (y el griego, si se quiere) en la misma página; gráficos de palabras clave;
+  diagramas, mapas y línea de tiempo dentro de cada día; enlaces a temas y anexos.
+- **Texto bíblico:** Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. Texto griego: SBLGNT (CC BY 4.0) con el análisis de MorphGNT.

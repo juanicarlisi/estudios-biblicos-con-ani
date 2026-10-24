@@ -25,10 +25,8 @@ PERICOPAS = [  # (desde, hasta, nombre)
 ]
 
 
-def main():
-    ppd = 4200
-    if '--palabras-por-dia' in sys.argv:
-        ppd = int(sys.argv[sys.argv.index('--palabras-por-dia') + 1])
+def calcular():
+    """(densidad por versículo, notas por versículo, conteo de notas sin pasaje corto): palabras ponderadas por importancia; REFERENCIA3 vale la mitad."""
     notas = N.cargar()
     dens = [0.0] * (C.TOTAL_VERSICULOS + 2)
     cnt = [0] * (C.TOTAL_VERSICULOS + 2)
@@ -43,7 +41,15 @@ def main():
         w = N.palabras(n) * PESO_IMP.get(int(n.get('importancia', 1)), 0.35) * (1.0 if n['origen'] == 'biblio' else 0.5)
         for i in range(a, b + 1):
             dens[i] += w / (b - a + 1); cnt[i] += 1 / (b - a + 1)
-    print('notas', len(notas), '| sin pasaje corto:', dict(amplias))
+    return dens, cnt, amplias, len(notas)
+
+
+def main():
+    ppd = 4200
+    if '--palabras-por-dia' in sys.argv:
+        ppd = int(sys.argv[sys.argv.index('--palabras-por-dia') + 1])
+    dens, cnt, amplias, n_notas = calcular()
+    print('notas', n_notas, '| sin pasaje corto:', dict(amplias))
     print('\nversículo: densidad (palabras ponderadas) y notas')
     for c in range(1, 6):
         fila = []

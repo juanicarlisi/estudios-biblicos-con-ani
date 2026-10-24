@@ -1,0 +1,599 @@
+{
+ "bloque": "kistemaker_01",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Una epístola general, sin datos personales",
+   "contenido": "Santiago abre con encabezamiento y saludo (1:1), usa «vosotros» y «nosotros» y llama a sus lectores «hermanos míos (amados)». Pero no nombra a ningún destinatario, no da datos personales y cierra sin bendición ni saludo final. Por eso es una epístola general y no un documento personal, con la misma forma que las de Pedro, Juan, Judas, Hebreos y las cartas recuperadas de las arenas de Egipto.",
+   "refs_biblicas": [
+    "Stg 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 7",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Carta y epístola: ¿dos cosas distintas?",
+   "contenido": "Algunos eruditos distinguen entre «carta» y «epístola»: las cartas exhibirían temporalidad y las epístolas, permanencia y universalidad (Deissmann; Wessel). Otros consideran sinónimos ambos términos. Kistemaker pasa de ahí a preguntarse si la carta de Santiago equivale a un discurso o a un sermón.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 7",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "¿Una diatriba helenística?",
+   "contenido": "Algunos eruditos ven en Santiago una diatriba: un tipo de discurso helenístico, común en esos círculos, caracterizado por la ironía, la sátira y el uso de motes. Señalan semejanzas con las diatribas griegas: preguntas retóricas, ejemplos de la naturaleza y de la historia, juegos de palabras, aliteración y asonancia, analogías, refranes y citas (Dibelius; Ropes; Davids).",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 7",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Santiago no es una diatriba",
+   "contenido": "Las similitudes son obvias (por ejemplo, la serie de preguntas breves, preguntas retóricas y mandamientos de 4:1-10), pero Santiago es un judío y no un helenista, y un escritor inspirado que presenta la revelación de Dios. Por el contenido sagrado de su carta están ausentes el sarcasmo amargo, la ironía y los motes propios de las diatribas. Concluye que no es un discurso al estilo diatriba.",
+   "refs_biblicas": [
+    "Stg 4:1-10"
+   ],
+   "postura": "Descarta que la carta sea una diatriba helenística, pese a las semejanzas de forma.",
+   "pagina": "kistemaker | PÁGINA PDF 8",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Cartas escritas para leerse en voz alta en la iglesia",
+   "contenido": "Pablo pide que su carta a Colosas se lea allí y se intercambie con la de Laodicea (Col 4:16), y que la primera a Tesalónica se lea a todos los hermanos (1 Ts 5:27). Las cartas a iglesias se escribían para leerse en voz alta. Kistemaker presume que la de Santiago a «las doce tribus dispersas entre las naciones» (1:1) se leía en los cultos como un sermón del pastor Santiago.",
+   "cita": "para ser leídas en la iglesia en voz alta",
+   "refs_biblicas": [
+    "Col 4:16",
+    "1 Ts 5:27",
+    "Stg 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 8",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Dos sermones sucesivos: capítulos 1-2 y 3-5",
+   "contenido": "Kistemaker ve la carta como dos sermones sucesivos sobre temas comunes, de tamaño casi igual: los capítulos 1-2 (53 versículos) y 3-5 (55 versículos). El primero abre y cierra con la fe (1:3; 2:26). El segundo parte de que los que enseñan serán juzgados porque todos tropezamos en lo que decimos (3:1-2) y termina aconsejando convencer al pecador del error de su camino (5:20).",
+   "refs_biblicas": [
+    "Stg 1:3",
+    "Stg 2:26",
+    "Stg 3:1-2",
+    "Stg 5:20"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 8",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "cultura_costumbres",
+   "titulo": "Paralelos con los sermones de la sinagoga",
+   "contenido": "Los sermones judíos de los primeros siglos se parecen notablemente a la carta: usan el diálogo, se dirigen a los oyentes de la sinagoga llamándolos «hermanos» y tratan muchos de los temas que menciona Santiago. Wessel concluye que la variedad del material de la epístola tiene su paralelo en los sermones de la sinagoga judía.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 8",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "¿Predicado en una sinagoga y luego enviado como carta?",
+   "contenido": "Kistemaker no descarta que Santiago haya predicado este material ante el auditorio de una sinagoga (2:2) y que con el tiempo se transformara en epístola. La carta tiene las características de un sermón, pero su encabezamiento y su saludo inicial hacen que sea una epístola y no un sermón.",
+   "refs_biblicas": [
+    "Stg 2:2"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 8",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Griego cuidado con colorido hebraico: el paralelismo",
+   "contenido": "Aunque su griego se compara favorablemente con el mejor del NT (el de Hebreos), el estilo de la carta tiene un colorido peculiarmente hebraico. Ejemplo de paralelismo hebraico: 1:9-10a, donde el hermano de condición humilde debería enorgullecerse de su alta posición y el rico, de su baja posición. Otros ejemplos: 1:15, 17, 19-20, 22-23; 2:22; 4:7, 10. Mussner señala además paralelismos en el griego de 1:5, 9, 13; 3:9; 4:8, 9; 5:4.",
+   "refs_biblicas": [
+    "Stg 1:9-10"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 9",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Una carta llena de imperativos",
+   "contenido": "La carta está llena de imperativos: se cuentan 54 (Kistemaker computa solo los verdaderos imperativos, no los participios que ocupan su lugar); Mitton menciona sesenta casos. Su frecuencia indica que el escritor habla con autoridad y cuenta con el respeto de los miembros de su iglesia, y a la vez muestra su amorosa preocupación pastoral por aquellos a quienes se dirige.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 9",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Ejemplos y comparaciones de la naturaleza y la vida humana",
+   "contenido": "Santiago comunica su mensaje con eficacia por medio de numerosos ejemplos y comparaciones tomados de la naturaleza y de la vida humana. Solo en el capítulo 1 aparecen el viento y las olas, el sol naciente y el calor quemante, la planta y su flor, las luminarias celestiales y las sombras cambiantes, la imagen del espejo y el dominio de la lengua. El estilo atrae y retiene al lector porque las imágenes son naturales.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 9",
+   "importancia": 2
+  },
+  {
+   "ref": "1:13-15",
+   "tipo": "explicacion_texto",
+   "titulo": "Eslabones: una palabra repetida enlaza las frases",
+   "contenido": "Santiago vincula oraciones y cláusulas repitiendo un verbo o un sustantivo, rasgo visible incluso en traducción. Kistemaker lo ilustra con 1:13-15: la tentación, el propio mal deseo que arrastra y seduce, el deseo que concibe y da a luz el pecado, y el pecado que, ya crecido, da a luz la muerte.",
+   "refs_biblicas": [
+    "Stg 1:13-15"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 9",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Nombres del AT: lectores cristianos de origen judío",
+   "contenido": "Santiago y sus lectores conocen bien los nombres de la historia del AT que la carta menciona: Abraham, Isaac, Rahab, Job y Elías. Para Kistemaker, incluir esos nombres es una indicación preliminar de que escribe a lectores cristianos de origen judío.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 9",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "Las tres partes del canon del AT y el pueblo de Israel",
+   "contenido": "Santiago alude a las tres partes del canon del AT: la Ley, cuya totalidad hay que guardar (2:10); los Profetas, ejemplo de paciencia en el sufrimiento (5:10); y la Literatura Sapiencial, con la perseverancia de Job (5:11). Escritor y lectores conocían bien el AT y pertenecían a las doce tribus (1:1), el pueblo escogido «para heredar el reino» (2:5), que llamaba «padre» a Abraham (2:21).",
+   "refs_biblicas": [
+    "Stg 2:10",
+    "Stg 5:10",
+    "Stg 5:11",
+    "Stg 1:1",
+    "Stg 2:5",
+    "Stg 2:21"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 2
+  },
+  {
+   "ref": "5:7",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Las lluvias del otoño y de la primavera",
+   "contenido": "Cuando Santiago habla de «las lluvias del otoño y de la primavera» (5:7), describe un clima que cuadra bien con el de Israel y no con el de otros países que rodeaban el Mediterráneo. Kistemaker concluye que el escritor vive en Israel y que los lectores también tienen allí su origen.",
+   "refs_biblicas": [
+    "Stg 5:7"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "contexto_historico",
+   "titulo": "«Las doce tribus»: el nuevo Israel, en sentido figurado",
+   "contenido": "Los lectores son judíos, como indica «a las doce tribus dispersas entre las naciones» (1:1). «Doce tribus» es una referencia bíblica a Israel (Ex 24:4; Mt 19:28; Lc 22:30; Hch 26:7; Ap 21:12) que debe interpretarse en sentido figurado y no literal: Santiago escribe a representantes de esas tribus que, a causa de la obra de Cristo, son ahora el nuevo Israel.",
+   "refs_biblicas": [
+    "Stg 1:1",
+    "Ex 24:4",
+    "Mt 19:28",
+    "Lc 22:30",
+    "Hch 26:7",
+    "Ap 21:12"
+   ],
+   "postura": "Entiende «doce tribus» de modo figurado: el nuevo Israel por la obra de Cristo, no las tribus de manera literal.",
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1",
+   "tipo": "contexto_historico",
+   "titulo": "Destinatarios: judíos cristianos, no gentiles",
+   "contenido": "Santiago llama «hermanos» a sus lectores, «creyentes en nuestro glorioso Señor Jesucristo» (2:1): judíos cristianos que viven «dispersos entre las naciones» (1:1) pero saben que son el pueblo de Dios. La carta no aporta evidencia de que se dirija a cristianos gentiles; los lectores son exclusivamente judíos, salvo los ricos opresores a quienes reprocha (5:1-6).",
+   "refs_biblicas": [
+    "Stg 1:1",
+    "Stg 2:1",
+    "Stg 5:1-6"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 3
+  },
+  {
+   "ref": "2:2",
+   "tipo": "griego_palabra",
+   "titulo": "«Reunión»: la sinagoga de los destinatarios",
+   "contenido": "Los destinatarios se congregan para el culto en una «reunión» (2:2), traducción de la palabra que Kistemaker transcribe «sinagogue». Es uno de los indicios que ubican a los lectores en un ambiente judío.",
+   "griego": {
+    "palabra": "sinagogue",
+    "transliteracion": "sinagogue",
+    "significado": "Traducida «reunión» en la versión que usa el autor: la asamblea donde los destinatarios se congregan para el culto."
+   },
+   "refs_biblicas": [
+    "Stg 2:2"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 2
+  },
+  {
+   "ref": "4:4",
+   "tipo": "conexion_biblica",
+   "titulo": "«Pueblo adúltero»: Dios esposo, Israel esposa",
+   "contenido": "A los lectores se les llama «pueblo adúltero» (4:4). Kistemaker nota que el griego emplea un término de adulterio (que él transcribe «adultera») y que es obviamente una figura del AT: el contrato de casamiento entre Dios, como esposo, e Israel, como esposa. Es otro indicio de que los destinatarios son judíos.",
+   "refs_biblicas": [
+    "Stg 4:4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 2
+  },
+  {
+   "ref": "5:4",
+   "tipo": "explicacion_texto",
+   "titulo": "«Sabaoth»: un término hebreo que los lectores entienden",
+   "contenido": "Los lectores entienden también el término hebreo «Sabaoth», que la versión usada en la obra traduce «Todopoderoso» (5:4). Kistemaker lo suma a los indicios de que los destinatarios son judíos.",
+   "refs_biblicas": [
+    "Stg 5:4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 1
+  },
+  {
+   "ref": "5:14",
+   "tipo": "cultura_costumbres",
+   "titulo": "Ancianos y no «supervisores»: una iglesia de influencia judía",
+   "contenido": "Los lectores llaman a los ancianos de la iglesia para que los visiten y oren por los enfermos (5:14), pero esta iglesia no tiene «supervisores». Ese término (Hch 20:28; Fil 1:1; 1 Ti 3:2; Tit 1:7; 1 P 2:25) nace en la parte de la iglesia de origen gentil; «anciano», en cambio, recuerda a los líderes de Israel y refleja influencia judía.",
+   "refs_biblicas": [
+    "Stg 5:14",
+    "Hch 20:28",
+    "Fil 1:1",
+    "1 Ti 3:2",
+    "Tit 1:7",
+    "1 P 2:25"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "contexto_historico",
+   "titulo": "Judíos que creen en Jesucristo",
+   "contenido": "Estos judíos son cristianos: el escritor se presenta como «siervo de Dios y del Señor Jesucristo» (1:1), llama hermanos a los lectores que creen en Jesucristo (2:1) y dice que Dios escogió «hacernos» (al escritor y a sus lectores) «nacer por la palabra de verdad» (1:18). Los lectores pertenecen a Jesús, cuyo buen nombre es calumniado (2:7).",
+   "refs_biblicas": [
+    "Stg 1:1",
+    "Stg 1:18",
+    "Stg 2:1",
+    "Stg 2:7"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "conexion_biblica",
+   "titulo": "«Dispersos»: la persecución tras la muerte de Esteban",
+   "contenido": "La expresión «dispersos» aparece solo en Juan 7:35, Santiago 1:1 y 1 Pedro 1:1, pero tiene un paralelo verbal en el relato de la persecución de la iglesia de Jerusalén: tras la muerte de Esteban fue dispersada por Judea y Samaria (Hch 8:1) hasta llegar a Fenicia, Chipre y Antioquía (Hch 11:19). Por Hechos sabemos que los cristianos dispersos eran judíos expulsados de Jerusalén.",
+   "refs_biblicas": [
+    "Stg 1:1",
+    "Jn 7:35",
+    "1 P 1:1",
+    "Hch 8:1",
+    "Hch 11:19"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 10",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "cronologia_fechas",
+   "titulo": "Una carta de la primera parte del primer siglo",
+   "contenido": "Si se da por sentado que Santiago escribió a judíos cristianos perseguidos tras la muerte de Esteban, la conclusión lógica es que la epístola proviene de la primera parte del primer siglo. Los lectores eran judíos cristianos de lengua nativa griega que encontraron refugio en países de habla griega al norte de Israel: Fenicia, Chipre y Siria.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 11",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Una carta pastoral a dispersos pobres y explotados",
+   "contenido": "Santiago escribió una carta pastoral a estos creyentes dispersos que, antes de la persecución, pertenecían a la iglesia de Jerusalén (Grosheide). Sabía que vivían en la pobreza, trabajando para ricos hacendados que los explotaban; algunos eran mercaderes, pero todos pasaban dificultades. Respondió a sus necesidades con esa carta pastoral.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 11",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Los varios Santiagos del Nuevo Testamento",
+   "contenido": "El NT menciona varios Santiagos: el hijo de Zebedeo (Mt 10:2; Hch 1:13; 12:2), el hijo de Alfeo (Mt 10:3), Santiago el joven (Mr 15:40), el padre de Judas (Lc 6:16; Hch 1:13), el hermano de Judas (Judas 1) y el medio hermano de Jesús, líder en Jerusalén (Mt 13:55; Mr 6:3; Hch 12:17; 15:13; 21:18; 1 Co 15:7; Gá 1:19; 2:9, 12). Si el hermano de Judas es el medio hermano de Jesús, quedan cinco.",
+   "refs_biblicas": [
+    "Mt 10:2",
+    "Mt 10:3",
+    "Mr 15:40",
+    "Lc 6:16",
+    "Hch 1:13",
+    "Hch 12:2",
+    "Judas 1",
+    "Mt 13:55",
+    "Mr 6:3",
+    "Hch 12:17",
+    "Hch 15:13",
+    "Hch 21:18",
+    "1 Co 15:7",
+    "Gá 1:19",
+    "Gá 2:9"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 11",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Santiago hijo de Zebedeo: por qué no sería el autor",
+   "contenido": "Santiago y su hermano Juan recibieron el nombre de Boanerges, «Hijos del trueno» (Mr 3:17). Herodes Agripa I «hizo matar a espada» a Santiago, hermano de Juan (Hch 12:2), en el año 44 d.C., durante la Fiesta de los Panes Acimos. Si él hubiera escrito la carta, esperaríamos más información interna y externa, que se llamara «apóstol» y no «siervo», y que la iglesia primitiva la atesorara como escrito apostólico.",
+   "refs_biblicas": [
+    "Mr 3:17",
+    "Hch 12:2"
+   ],
+   "postura": "Lo descarta como autor: faltarían información interna y externa, el título de apóstol y el aprecio de la iglesia por un escrito apostólico.",
+   "pagina": "kistemaker | PÁGINA PDF 11",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Santiago hijo de Alfeo: sin datos que lo respalden",
+   "contenido": "Del apóstol Santiago hijo de Alfeo solo sabemos por las listas de apóstoles de los Evangelios y Hechos; el NT guarda silencio sobre su vida y obra. Si él hubiera escrito la epístola, habría aportado mayor identificación, y si la hubiera escrito un apóstol, la iglesia habría recordado ese hecho.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 11",
+   "importancia": 1
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Santiago el menor",
+   "contenido": "Según Marcos 15:40, Santiago, José y su hermana Salomé eran hijos de María. A Santiago se lo llama «el menor», en referencia a su edad o a su estatura. Nada sabemos de su vida; su madre era presumiblemente la mujer de Cleofas (Jn 19:25).",
+   "refs_biblicas": [
+    "Mr 15:40",
+    "Jn 19:25"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 11",
+   "importancia": 1
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Santiago el padre de Judas",
+   "contenido": "Kistemaker lo incluye entre los homónimos, pero nada se sabe de esta persona en particular, salvo que era padre del apóstol Judas (no el Iscariote).",
+   "refs_biblicas": [
+    "Lc 6:16",
+    "Hch 1:13"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 12",
+   "importancia": 1
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Santiago, medio hermano del Señor: de incrédulo a creyente",
+   "contenido": "Los Evangelios lo mencionan como uno de los hijos de María, la madre de Jesús (Mt 13:55; Mr 6:3). Durante el ministerio terrenal de Jesús, él y sus hermanos no creyeron en Él (Jn 7:5). Santiago llegó a ser creyente cuando Jesús se le apareció después de la resurrección (1 Co 15:7), y tras la ascensión estuvo con sus hermanos y los apóstoles en el aposento alto (Hch 1:14).",
+   "refs_biblicas": [
+    "Mt 13:55",
+    "Mr 6:3",
+    "Jn 7:5",
+    "1 Co 15:7",
+    "Hch 1:14"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 12",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Santiago, líder de la iglesia de Jerusalén y autor según la tradición",
+   "contenido": "Santiago asumió el liderazgo de la iglesia de Jerusalén después de que Pedro fue liberado de la prisión (Hch 12:17), habló con autoridad en la asamblea de Jerusalén (Hch 15:13), fue reconocido como cabeza de la iglesia (Gá 1:19; 2:9, 12) y se reunió con Pablo para escuchar su informe sobre las misiones al mundo gentil (Hch 21:18). La tradición enseña que este dirigente influyente y estimado escribió la epístola.",
+   "refs_biblicas": [
+    "Hch 12:17",
+    "Hch 15:13",
+    "Gá 1:19",
+    "Gá 2:9",
+    "Gá 2:12",
+    "Hch 21:18"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 12",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Objeción: un galileo de lengua aramea y un griego tan culto",
+   "contenido": "Se objeta que un galileo cuya lengua natal fuese el arameo no podría haber escrito en un griego tan culto. Kistemaker responde que no es tan decisivo: la capacidad lingüística de Santiago no se conoce, pero pudo ser bilingüe; Galilea tenía profunda influencia griega, con muchas ciudades griegas y no judías, y hay amplia evidencia del uso del griego entre los judíos de Palestina (Guthrie; Davids; Sevenster).",
+   "cita": "no hay razón para suponer que Santiago no pudiese hablar fluidamente el griego",
+   "refs_biblicas": [],
+   "postura": "Acepta que Santiago pudo ser bilingüe y hablar griego con fluidez; la objeción no es decisiva.",
+   "pagina": "kistemaker | PÁGINA PDF 12",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "ilustracion",
+   "titulo": "John Bunyan, el zapatero inculto que escribió un clásico",
+   "contenido": "Ni siquiera el asunto de la educación es convincente: Kistemaker recuerda que John Bunyan, un zapatero remendón e inculto, escribió «El Progreso del Peregrino», considerado un clásico del idioma inglés. Concluye que el argumento de que Santiago no pudo haber escrito una carta parece carecer de fundamento.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 12",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Objeción: se presenta como «siervo» y no como «hermano» de Jesús",
+   "contenido": "Otra objeción: Santiago se presenta como siervo de Jesús, no como hermano ni como dirigente de Jerusalén. Kistemaker responde que otros escritores del NT omiten en sus saludos referencias a sí mismos y a sus cargos (Pablo no se llama apóstol en Fil 1:1, 1 Ts 1:1 y 2 Ts 1:1; Juan tampoco en sus cartas); que Santiago veía su relación con Jesús desde lo espiritual (siervo) y no desde lo físico (hermano); y que su autoridad es inequívoca en toda la carta y los lectores ya lo conocían.",
+   "refs_biblicas": [
+    "Stg 1:1",
+    "Fil 1:1",
+    "1 Ts 1:1",
+    "2 Ts 1:1"
+   ],
+   "postura": "Rechaza la objeción: el título de siervo no impide que el autor sea el medio hermano del Señor.",
+   "pagina": "kistemaker | PÁGINA PDF 12",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "El lenguaje de la carta y el discurso de Hechos 15",
+   "contenido": "Si el dirigente de Jerusalén escribió la epístola, conviene comparar su lenguaje con el discurso que pronunció en el concilio y con la carta que compuso entonces (Hch 15:13-29). Allí llama a Pedro «Simón» (en griego, Hch 15:14), nombre que solo reaparece en 2 Pedro 1:1. Según Mayor, las palabras del orador están registradas en forma original o traducida, así que vale preguntar si hay parecido con la epístola.",
+   "refs_biblicas": [
+    "Hch 15:13-29",
+    "Hch 15:14",
+    "2 P 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 12",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "Palabras de Santiago en Hechos 15 que reaparecen en la carta",
+   "contenido": "Lucas registra palabras de Santiago en Hechos 15 que reaparecen en su carta: «hermanos» como apelativo, el saludo (Hch 15:23; Stg 1:1), «escuchadme» (Hch 15:13; Stg 2:5) y el «nombre» que se lleva (Hch 15:17; Stg 2:7). Mayor destaca que, de las 230 palabras que Santiago dijo y escribió en el Concilio, tantas reaparezcan en una carta sobre un tema totalmente distinto.",
+   "cita": "Es una notable coincidencia que … tantas reaparezcan en nuestra epístola, escrita acerca de un tema totalmente diferente",
+   "refs_biblicas": [
+    "Hch 15:13",
+    "Hch 15:17",
+    "Hch 15:23",
+    "Stg 1:1",
+    "Stg 2:5",
+    "Stg 2:7"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 13",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Autoría: la evidencia interna apunta al medio hermano de Jesús",
+   "contenido": "Kistemaker reconoce que no podemos estar absolutamente seguros de la paternidad literaria de la epístola, pero la evidencia interna parece señalar en la dirección de Santiago, el medio hermano de Jesús.",
+   "refs_biblicas": [],
+   "postura": "Autor probable: Santiago, el medio hermano de Jesús, aunque sin certeza absoluta.",
+   "pagina": "kistemaker | PÁGINA PDF 13",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Hegesipo: Santiago orando en el templo",
+   "contenido": "Eusebio cita a Hegesipo: Santiago entraba solo al templo y se lo hallaba arrodillado, orando por el perdón del pueblo. Como líder de la iglesia de Jerusalén se ganó el respeto de cristianos y judíos.",
+   "cita": "sus rodillas se pusieron duras como las de un camello a causa de su constante adoración a Dios",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 13",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "cronologia_fechas",
+   "titulo": "La muerte de Santiago el Justo",
+   "contenido": "Según Josefo, tras morir el gobernador Festo (62 d.C.) y antes de que llegara Albino, el joven sumo sacerdote Anano reunió al Sanedrín y condenó a Santiago, acusado de quebrantar la ley, a morir apedreado. Según Eusebio, los sacerdotes lo arrojaron desde el techo del templo; sobrevivió, pero lo apedrearon hasta que un lavandero lo mató a garrotazos.",
+   "refs_biblicas": [
+    "Hch 24:27-26:32"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 13",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Un mensaje más ético que doctrinal",
+   "contenido": "La carta parece una colección de dichos sin mayor cohesión. A diferencia de Pablo, que desarrolla primero un tema doctrinal (por ejemplo, la cristología en Colosenses) y luego su aplicación práctica, Santiago presenta exhortaciones y amonestaciones de énfasis más ético que doctrinal, aunque con progreso y desarrollo.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 13",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Temas que anuncia y luego amplía",
+   "contenido": "Santiago suele anticipar un tema en resumen y ampliarlo después: fe, prueba y sabiduría (1:2-5) y lengua, ira y sumisión a Dios (1:19-20) vuelven en 1:12-15 (prueba y tentación), 1:22-2:26 (cumplir la ley en la fe), 3:1-12 (la lengua), 3:13-18 (sabiduría terrenal y celestial), cap. 4 (voluntad de Dios) y cap. 5 (paciencia por la oración). Como repite puntos (4:8 con 1:8; 5:11 con 1:12), no admite una división estricta por temas.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 14",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Evangelio oral de Jesús y teología implícita",
+   "contenido": "Santiago parece conocer el evangelio oral de Jesús, no los libros del NT: no se puede demostrar dependencia literaria de los Evangelios (Robinson). De haberlos conocido, habría sido más teológico que ético. Su teología es implícita: se funda en la predicación de Jesús, trata la fe y las obras con independencia de Pablo y el sometimiento a Dios más elementalmente que Pedro.",
+   "cita": "No puede demostrarse el caso a favor de una dependencia literaria de nuestro Evangelio según Mateo (ni tampoco de Lucas o Juan)",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 14",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "eco_de_jesus",
+   "titulo": "Santiago se hace eco de la predicación de Jesús",
+   "contenido": "Santiago se hace eco del tono y tenor de la predicación de Jesús: hay un notable paralelo entre el Sermón del Monte (Mt 5:3-7:27; Lc 6:20-49) y versículos, frases y palabras de la carta. Según los expertos, no cita directamente los sinópticos sino que hace referencias generales: difieren las palabras, la sintaxis y la estructura de las oraciones.",
+   "refs_biblicas": [
+    "Mt 5:3-7:27",
+    "Lc 6:20-49"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 14",
+   "importancia": 3
+  },
+  {
+   "ref": "2:13",
+   "tipo": "eco_de_jesus",
+   "titulo": "Misericordia: Mateo 5:7 y Santiago 2:13",
+   "contenido": "Kistemaker alinea la bienaventuranza «Bienaventurados los misericordiosos porque a ellos se les mostrará misericordia» (Mt 5:7) con Santiago 2:13: juicio sin misericordia le será ejecutado a todo aquel que no haya sido misericordioso.",
+   "refs_biblicas": [
+    "Mt 5:7",
+    "Stg 2:13"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 14",
+   "importancia": 2
+  },
+  {
+   "ref": "2:10",
+   "tipo": "eco_de_jesus",
+   "titulo": "Un solo mandamiento y toda la ley: Mateo 5:19 y Santiago 2:10",
+   "contenido": "Paralelo con Mateo 5:19, donde quien quebrante uno de los más pequeños mandamientos «será llamado pequeño en el reino de los cielos», y Santiago 2:10: quien guarda toda la ley pero tropieza en un solo punto es culpable de quebrantarla toda.",
+   "refs_biblicas": [
+    "Mt 5:19",
+    "Stg 2:10"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 14",
+   "importancia": 2
+  },
+  {
+   "ref": "5:2-3",
+   "tipo": "eco_de_jesus",
+   "titulo": "Tesoros, polilla y herrumbre: Mateo 6:19 y Santiago 5:2-3",
+   "contenido": "Paralelo con Mateo 6:19 («No os acumuléis tesoros en la tierra donde la polilla y la herrumbre destruyen»): Santiago 5:2-3 dice que la polilla se ha comido las ropas, que el oro y la plata están enmohecidos y que han acumulado riquezas.",
+   "refs_biblicas": [
+    "Mt 6:19",
+    "Stg 5:2-3"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 14",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "eco_de_jesus",
+   "titulo": "Lista de paralelos entre Mateo 5-7 y Santiago (según Mayor)",
+   "contenido": "Mayor recopiló todas las semejanzas de Santiago con los Sinópticos; Kistemaker cataloga solo los paralelos con Mt 5-7: Mt 5:3 con Stg 2:5; 5:7 con 2:13; 5:11-12 con 1:2 y 5:10-11; 5:34-37 con 5:12; 6:11 con 2:15-16; 6:19 con 5:2-3; 6:22 con 4:4, 8; 6:34 con 4:13-14; 7:1 con 4:11-12 y 5:9; 7:7-8 con 1:5 y 4:3; 7:16 con 3:10-13, 18 y 1:21; 7:21-23 con 1:26-27, 2:14-26 y 3:13-14; 7:24 con 1:22-25.",
+   "refs_biblicas": [
+    "Mt 5:3",
+    "Mt 5:7",
+    "Mt 5:11-12",
+    "Mt 5:34-37",
+    "Mt 6:11",
+    "Mt 6:19",
+    "Mt 6:22",
+    "Mt 6:34",
+    "Mt 7:1",
+    "Mt 7:7-8",
+    "Mt 7:16",
+    "Mt 7:21-23",
+    "Mt 7:24"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 14",
+   "importancia": 2
+  }
+ ],
+ "problemas": "PDF 8, nota 4: «varieded» leído como «variedad». PDF 10: «sinagogue» y «adultera» se conservan como los transcribe el libro. PDF 12: «Mt. 13:15» corregido a Mt 13:55 (así figura en la lista de PDF 11); «jesucristo», «Ademá» y similares, sin cambio de sentido. PDF 14: «3:10–13, 18: 1:21» leído como «3:10-13, 18; 1:21». El texto del bloque termina a media frase («…si decimos que»), que sigue en el bloque siguiente."
+}

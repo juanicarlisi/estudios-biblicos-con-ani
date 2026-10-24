@@ -13,6 +13,7 @@ Sos el **verificador** de un estudio bíblico que no puede contener nada inventa
    3. Si el texto cita palabras de la Biblia entre «», deben coincidir con la RVR1960 del insumo; si son de otro libro y no se pueden comprobar, pasalas a paráfrasis sin comillas.
    4. `palabras`: comprobá la grafía griega con `python3 /home/user/estudios-biblicos-con-ani/santiago/trabajo/scripts/griego.py N:V` (muestra las palabras griegas del versículo). Corregí la grafía o dejá `griego` vacío
       si no se puede confirmar; el significado debe venir de las notas.
+   4b. Los datos que dan las notas sobre el griego (cuántas veces aparece una palabra, en qué versículos de Santiago) se comprueban con `griego.py --buscar`; si no coinciden con el texto de Santiago, se quitan.
    5. El castellano debe ser claro, sin ideas repetidas y sin atribuciones encadenadas («según X… Y agrega…»): el autor se nombra solo cuando aporta algo propio o cuando las fuentes difieren.
    6. El `diagrama`, si hay, debe decir solo lo que dicen las notas de su `fuentes`.
    7. `contexto.antes` y `contexto.despues` deben coincidir con los días anterior y siguiente que figuran en el insumo.

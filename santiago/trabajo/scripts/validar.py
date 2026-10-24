@@ -156,7 +156,7 @@ def validar_dia(d, n):
     dudosas = citas_dudosas(d)
     if dudosas:
         mal.append(f'AVISO citas entre «» que no figuran en Santiago (RVR1960): {dudosas[:4]}')
-    if pal > 3400:
+    if pal > 3100:
         mal.append(f'AVISO cuerpo principal largo: {pal} palabras (objetivo 2.000 a 3.000)')
     d['_palabras'] = pal
     return mal

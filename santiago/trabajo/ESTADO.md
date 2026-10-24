@@ -72,7 +72,18 @@ mapas, diagramas y gráficos en la misma página, enlaces a anexos.
 Con el plan provisional se lanzó un agente escritor para el día 2 (Santiago 1:2–4, 129 notas de insumo; peso de material ≈ 5.000 palabras ponderadas). Su borrador está en `dias/borrador_02.json` (pasa `validar.py`)
 y sirve para calibrar: el primer intento dio 3.900 palabras de cuerpo principal y el definitivo 3.200, por encima del objetivo (2.000 a 3.000). **Conclusión: un día de ~5.000 de peso ya es demasiado; usar
 `plan_auto.py --T 3500` (un día admite hasta 1,3·T ≈ 4.550) y, si hace falta, sumar días a los tramos más densos.** No es un día definitivo: antes de armar el plan real, borrar `dias/borrador_02.json`.
-El agente escritor tardó unos 16 minutos con un insumo de 60.000 caracteres (leyó antes ejemplos de Génesis y los scripts); si se repite a escala, conviene darle el esquema en el prompt para que no explore.
+El agente escritor de prueba tardó unos 30 minutos y gastó ~490.000 tokens (101 llamadas): exploró scripts y días de Génesis y rehízo el día porque yo había regenerado el insumo mientras escribía. Con el insumo estable
+(no regenerar mientras hay escritores en marcha) y los prompts ajustados debería bajar mucho; si no, darle el esquema completo en el prompt para que no explore.
+Resultado final del día de prueba: 3.089 palabras de cuerpo principal según `validar.py` (2.802 sin contar versículo clave, preguntas, oración ni diagrama), 123 de las 129 notas usadas, todas las de importancia 3, 0 errores y 0 avisos.
+
+**Ajustes ya hechos a los prompts a raíz del día de prueba** (`escribir_dia.md` reglas 5, 9, 17, 18 y 19; `verificar_dia.md` 4b; `validar.py` avisa desde 3.100 palabras): contar las palabras como lo hace el validador; permitir buscar la grafía griega
+cuando la nota trae solo la transliteración; comprobar con `griego.py --buscar` los datos de las notas sobre el griego (una nota de CBMH decía que *peirasmós* aparece seis veces en Santiago 1 y el griego dice dos); citas de autores entre “ ” y «» solo
+para Santiago; el campo `lugares` toma sus ids de una lista del insumo; avisar si el insumo cambió.
+**Pendiente antes de la tanda grande:** armar `mapas/lugares_santiago.json` *antes* de escribir los días y hacer que `insumos_dias.py` agregue al insumo la lista «Lugares del mapa» (ids y nombres) — hoy no la trae.
+
+### Cómo se ve (prueba con el día 2)
+
+`santiago/app/qa/ejemplos/prueba-dia-2.html` se abre en el navegador (un solo archivo): es la app con el plan provisional de 32 días y **solo el día 2 escrito**, para ver la UX. Capturas: `inicio.png`, `dia-2-arriba.png` y `dia-2-diagrama.png`.
 
 ## Cómo retomar en una sesión nueva (el texto de los libros vive fuera del repositorio)
 

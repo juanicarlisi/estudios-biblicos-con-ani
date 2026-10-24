@@ -26,14 +26,16 @@ Vas a escribir el estudio de **un día** de un plan de lectura de la carta de Sa
 4. **TONO.** Castellano rioplatense neutro, cálido y claro, hablándoles a «ustedes». Explicá los términos técnicos la primera vez. Frases cortas. Nada de relleno ni de frases hechas.
    **No encadenes** «según MacArthur… Kistemaker agrega… Carballosa dice…». Nombrá al autor solo cuando aporta algo propio (una postura, una frase memorable, un dato que solo él da) o cuando
    las fuentes difieren; lo demás se afirma directamente y las fuentes quedan en `fuentes` (la app las muestra como etiquetas).
-5. **PRÁCTICO PARA EL DÍA.** El cuerpo principal (contexto, panorama, secciones, palabras, cristo, eco_de_jesus, interpretaciones, biblioteca, conexiones, para_vivir) debe leerse en 20 a 30 minutos:
-   **2.000 a 3.000 palabras**. Un día con poco material puede ser más corto (lo necesario). Lo valioso que no entra va a `profundizar`.
+5. **PRÁCTICO PARA EL DÍA.** El cuerpo principal (todo menos `profundizar`, `notas_no_usadas` y `minutos`; es el número que imprime `validar.py`) debe leerse en 20 a 30 minutos:
+   **2.000 a 3.000 palabras**. Un día con poco material puede ser más corto (lo necesario). Lo valioso que no entra va a `profundizar`. Si `validar.py` marca más de 3.100, recortá antes de cerrar.
 6. **CONTEXTO.** `contexto`: qué pasó antes (resumen del tramo anterior), qué pasa ahora, dónde y cuándo (si las fuentes dan fechas, decí de quién es la cronología) y qué viene después.
    Esto le da a cada día una línea clara y progresiva: usá los títulos de los días anterior y siguiente que trae el insumo.
 7. **VERSÍCULO CLAVE.** Solo la referencia (la app pone el texto) y por qué es clave. Debe estar dentro del pasaje del día.
 8. **SECCIONES.** Siguen el texto en orden, por unidades de sentido; el `rango` de cada una está dentro del pasaje del día. Si el día es de un solo versículo, una sección alcanza.
-9. **PALABRAS.** Solo palabras griegas que comentan las notas. Escribí la grafía griega **solo si la nota la trae y figura en Santiago** (podés comprobarlo con
-   `python3 /home/user/estudios-biblicos-con-ani/santiago/trabajo/scripts/griego.py N:V` que muestra las palabras griegas del versículo, o `griego.py --verificar palabra`); si no, dejá `griego` vacío y usá la transliteración.
+9. **PALABRAS.** Solo palabras griegas que comentan las notas, con el significado que dan las notas. La grafía griega va **solo si figura en Santiago**: si la nota la trae, comprobala con
+   `python3 /home/user/estudios-biblicos-con-ani/santiago/trabajo/scripts/griego.py N:V` (muestra las palabras griegas del versículo) o `griego.py --verificar palabra`; si la nota trae solo la transliteración (MacArthur),
+   buscá en `griego.py N:V` la palabra del versículo que le corresponde y usá su grafía si coincide sin dudas; si no podés confirmarla, dejá `griego` vacío y usá la transliteración. **Un dato sobre el griego que dé una nota
+   (cuántas veces aparece una palabra, en qué versículos) se comprueba con `griego.py --buscar`; si no coincide con el texto de Santiago, no lo uses.**
 10. **ECO DE JESÚS** (`eco_de_jesus`): solo lo que las notas ligan entre el pasaje y palabras o hechos de Jesús (Sermón del Monte y otros). **CRISTO** (`cristo`): cómo el pasaje apunta a Cristo o lo muestra, según las notas.
 11. **BIBLIOTECA.** `biblioteca`: aportes de los libros de referencia (notas cuyo id empieza con `r1_` o `r2_`), con autor y obra. Si no hay, lista vacía.
 12. **PARA LA VIDA.** `para_conversar` (exactamente 3 preguntas, pensadas para una pareja) y `para_orar` se formulan a partir de lo que enseñan las fuentes del día.
@@ -42,3 +44,6 @@ Vas a escribir el estudio de **un día** de un plan de lectura de la carta de Sa
     Todo lo que dice el diagrama sale de las notas que citás en su `fuentes`.
 15. **ANEXOS** (opcional): si el insumo trae una lista de temas y anexos del estudio y el pasaje los toca de lleno, enlazalos con una frase de por qué leerlos (`id` y `por_que`).
 16. **DÍAS COMPARTIDOS.** Si el insumo dice que el pasaje se estudia en varios días, escribí solo lo que corresponde al enfoque de este día y no repitas lo de los otros.
+17. **LUGARES.** `lugares`: ids de los lugares del mapa que el día nombra, tomados de la lista «Lugares del mapa» del insumo (si la lista no está, dejá `[]`). No inventes ids.
+18. **COMILLAS.** Las «» se reservan para el texto de Santiago (RVR1960 del insumo) y las citas textuales de autores van entre “ ” (de un campo CITA de las notas); así el validador de citas bíblicas no se confunde.
+19. **EL INSUMO NO CAMBIA mientras escribís.** Antes de cerrar, comprobá que el encabezado `=== NOTAS (N) ===` del archivo de insumos sigue siendo el que leíste; si cambió, volvé a leerlo y completá lo que falte.

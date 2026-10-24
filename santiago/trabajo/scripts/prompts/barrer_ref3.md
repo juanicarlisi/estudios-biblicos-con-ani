@@ -56,7 +56,9 @@ Por cada bloque que te asignaron (uno por uno, en el orden dado):
 - `tema`: el tema en pocas palabras (p. ej. pruebas, tentación, fe y obras, la lengua, sabiduría, ricos y pobres, oración por los enfermos, paciencia, humildad, mundanalidad).
 - `tipo` (uno de): `teologia_doctrina`, `explicacion_texto`, `griego_palabra`, `contexto_historico`, `cultura_costumbres`, `apologetica`, `cristo_en_santiago`, `eco_de_jesus`,
   `conexion_biblica`, `aplicacion_practica`, `matrimonio_familia`, `ilustracion`, `dificultad_interpretaciones`, `personaje`, `pregunta_reflexion`, `estructura_bosquejo`.
-- `archivo`: el ARCHIVO del encabezado de donde sale, copiado exacto. `pagina`: **el número** de página PDF del fragmento (solo el número, como texto).
+- `archivo`: el ARCHIVO del encabezado de donde sale, copiado exacto. `pagina`: **el número** de página PDF del fragmento (solo el número, como texto):
+  siempre el de la marca `pág. PDF n` (o `--- [pág. PDF n] ---`) bajo la cual está el texto, aunque la numeración impresa del libro sea otra. El «205» del ejemplo es solo ilustrativo.
+  Si el autor atribuye mal una cita bíblica (la pone en otro libro o capítulo), no copies esa cita: conservá la idea si se sostiene sola, sin corregir con datos tuyos.
 - `autor` y `obra`: los del encabezado (el título de la obra sin el subtítulo, si es largo).
 - `importancia`: 3 = central para entender o vivir el pasaje; 2 = valioso; 1 = complementario.
 

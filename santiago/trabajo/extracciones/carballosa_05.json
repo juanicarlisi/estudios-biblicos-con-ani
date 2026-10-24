@@ -1,0 +1,469 @@
+{
+ "bloque": "carballosa_05",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "El griego pulido de la carta no prueba que no sea de Santiago",
+   "contenido": "Carballosa afirma que es insostenible la hipótesis de que el griego de la carta sea una traducción, y que el autor usa la Biblia griega. Impugnar la paternidad por lo pulido de su vocabulario es un juicio a priori: supone que un judío de Palestina en el siglo I no podía compenetrarse con una lengua extranjera como el griego.",
+   "pagina": "carballosa | PÁGINA PDF 65",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Cuatro factores que explican el buen griego de Santiago",
+   "contenido": "Muchos judíos se educaban en una cultura bilingüe y eran notorios por manejar más de un idioma; Galilea, de donde procedía Santiago, era la región de Palestina más apropiada para aprender griego con fluidez; la Biblia habitual de los judíos era la Septuaginta; y pudo valerse de un amanuense que copiara su dictado, como Pablo. Esto no prueba que el autor sea el hermano del Señor, pero sí que los argumentos de quienes rechazan la postura tradicional carecen de fundamentos definitivos.",
+   "pagina": "carballosa | PÁGINA PDF 65",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Objeción teológica: la carta calla la muerte y resurrección de Cristo",
+   "contenido": "Una tercera impugnación contra la paternidad es que la carta omite la muerte y resurrección de Cristo y no ofrece una declaración positiva del evangelio. Carballosa responde que Santiago no pretende ser un tratado doctrinal, aunque contiene doctrinas fundamentales: su tema principal es la ética cristiana que se deriva de una fe viva, el fruto de la fe entre el pueblo de Dios. Como enfoca la vida práctica del creyente, el autor cumplió su cometido.",
+   "postura": "Carballosa: la omisión no resta autenticidad, porque la carta trata la ética de una fe viva y no pretende ser un tratado doctrinal.",
+   "pagina": "carballosa | PÁGINA PDF 65",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Balance de las objeciones: el peso de la evidencia favorece a Santiago, el hermano del Señor",
+   "contenido": "El punto de vista tradicional ha sido impugnado con tres argumentos: que las condiciones descritas en la carta son posteriores a la muerte de Santiago, que tiene demasiados rasgos helenísticos para un judío de Palestina y que el autor no se declara apóstol ni hermano del Señor. Pese a todo, Carballosa concluye que, al reunir el conjunto de las evidencias, el peso de ellas apoya que el autor fue Santiago el hermano del Señor.",
+   "postura": "Carballosa: autor = Santiago, el hermano del Señor.",
+   "pagina": "carballosa | PÁGINA PDF 66",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "personaje",
+   "titulo": "«Hermano del Señor»: los pasajes sobre los hermanos de Jesús",
+   "contenido": "La expresión «hermano del Señor» sale de Mateo 13:55, Marcos 6:3, Juan 7:3-8, Hechos 1:14 y Gálatas 1:19. Mateo y Marcos nombran a los hermanos de Jesús, entre ellos Jacobo (Santiago), y en Gálatas 1:19 Pablo, al hablar de su visita a Jerusalén, menciona a Jacobo el hermano del Señor. La identidad del autor ha sido muy discutida: algunos lo identifican con uno de los doce apóstoles y otros con un maestro desconocido de la iglesia primitiva.",
+   "cita": "Pero no vi a ninguno de los apóstoles, sino a Jacobo el hermano del Señor",
+   "refs_biblicas": [
+    "Mt 13:55",
+    "Mr 6:3",
+    "Jn 7:3-8",
+    "Hch 1:14",
+    "Gá 1:19"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 66",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Teoría helvidiana: hijos de José y María nacidos después de Jesús",
+   "contenido": "En los primeros siglos surgieron tres teorías para explicar las referencias bíblicas a los hermanos de Jesús, cuando la perpetua virginidad de María ya era tema de discusión. La primera, la helvidiana, sostiene que eran hijos de José y María engendrados después del nacimiento de Jesús. Helvidio se apoya en Mateo 1:18-25 y en particular en el versículo 25.",
+   "cita": "no la conoció hasta que dio a luz a su hijo primogénito",
+   "postura": "Helvidio: los hermanos de Jesús eran hijos de José y María, nacidos después de Jesús.",
+   "refs_biblicas": [
+    "Mt 1:18-25"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 66",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "griego_palabra",
+   "titulo": "Helvidio y el «hasta» (heos hou) de Mateo 1:25",
+   "contenido": "Para Helvidio, la frase adverbial «hasta» (heos hou) implica que, después del nacimiento de Jesús, José y María tuvieron relaciones conyugales y otros hijos. Barclay, citado por Carballosa, ve la clara implicación de relaciones matrimoniales normales; Tertuliano usó el pasaje para mostrar que María fue primero virgen y luego esposa en el pleno sentido de la palabra.",
+   "griego": {
+    "palabra": "heos hou",
+    "transliteracion": "heos hou",
+    "significado": "«hasta»; según Helvidio, indica que después del nacimiento de Jesús José y María tuvieron relaciones conyugales de las que nacieron otros hijos."
+   },
+   "refs_biblicas": [
+    "Mt 1:25"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 67",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "griego_palabra",
+   "titulo": "Helvidio: «primogénito» (prototokon) y no «unigénito» (monogenes)",
+   "contenido": "Helvidio subraya que Lucas 2:7 dice que María «dio a luz a su hijo primogénito» (ton prototokon). Si se hubiera querido decir que no tuvo más hijos, habría usado «unigénito» (monogenes), la palabra que expresa mejor la idea de hijo único.",
+   "griego": {
+    "palabra": "prototokon",
+    "transliteracion": "prototokon",
+    "significado": "«primogénito»; Helvidio lo contrasta con monogenes («unigénito»), que expresaría mejor la idea de hijo único."
+   },
+   "refs_biblicas": [
+    "Lc 2:7"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 67",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Tertuliano apoya a Helvidio y la iglesia lo rechaza",
+   "contenido": "Helvidio apeló también a Tertuliano (160-220 d.C.), el primer escritor que afirmó expresamente que los hermanos de Jesús nacieron del vientre de María. Su obra fue atacada por muchos, entre ellos Jerónimo, que ofreció su propia explicación. Como la creencia en la perpetua virginidad de María ya se había generalizado, su postura fue rechazada por ese sector de la iglesia.",
+   "pagina": "carballosa | PÁGINA PDF 67",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Teoría epifaniana: hijos de un matrimonio anterior de José",
+   "contenido": "Epifanio (c. 315-403), obispo de Salamina, generalizó a fines del siglo IV esta teoría, aunque al parecer solo puso por escrito lo que ya se creía desde el siglo II. Para él, los «hermanos de Jesús» eran hijos de José por un matrimonio previo: Jacobo y los demás eran mayores que Jesús y no hijos de María.",
+   "postura": "Epifanio: hermanastros mayores, hijos de José y no de María.",
+   "pagina": "carballosa | PÁGINA PDF 67",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Juan 19:27 y la hostilidad de los hermanos de Jesús",
+   "contenido": "Los defensores de la teoría epifaniana arguyen que, si María hubiera tenido más hijos, sería difícil explicar por qué Jesús encomendó su madre a Juan y no a uno de sus hermanos (Jn 19:27). Carballosa responde que los hermanos fueron hostiles al Señor durante su ministerio (Mr 3:21, 31-34; Jn 7:2-9) y que, hasta donde se sabe, creyeron después de la resurrección (1 Co 15:7).",
+   "refs_biblicas": [
+    "Jn 19:27",
+    "Mr 3:21",
+    "Mr 3:31-34",
+    "Jn 7:2-9",
+    "1 Co 15:7"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 67",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Valoración de Carballosa: sí hubo otros hijos de José y María",
+   "contenido": "Para Carballosa, la teoría epifaniana nace del deseo de defender la perpetua virginidad de María, creencia que solo cuenta con el apoyo de la literatura apócrifa y de algunos voceros de la tradición. Los evangelios canónicos y las epístolas muestran que Jesús sí tuvo otros hermanos (Gá 1:19; 1 Co 9:5), y nada impide que fueran hijos de José y María.",
+   "cita": "No existe razón teológica o exegética que impida pensar que esos hermanos de Jesús no fueran hijos de José y María, producto de una relación matrimonial normal.",
+   "postura": "Carballosa: eran hijos de José y María, fruto de una relación matrimonial normal; la virginidad perpetua solo se apoya en apócrifos y tradición.",
+   "refs_biblicas": [
+    "Gá 1:19",
+    "1 Co 9:5"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 68",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Teoría de Jerónimo: los «hermanos» eran primos de Jesús",
+   "contenido": "Jerónimo, el traductor de la Vulgata Latina, quiso refutar a Helvidio demostrando que María no tuvo más hijos. Sugirió que Santiago el hermano del Señor y Santiago el hijo de Alfeo eran la misma persona y que María de Cleofás era hermana de la virgen María; así, Jesús y Santiago serían primos y no hermanos.",
+   "postura": "Jerónimo: Santiago el hermano del Señor = Santiago hijo de Alfeo, primo de Jesús.",
+   "pagina": "carballosa | PÁGINA PDF 68",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "griego_palabra",
+   "titulo": "Críticas a Jerónimo: «hermano» (adelphós) y Cleofás/Alfeo",
+   "contenido": "Muchos escritores reconocen la deficiencia del punto de vista de Jerónimo. Según Carballosa, abandonó sin justificación el significado normal o natural de «hermano» (adelphós) e ignoró el uso propio del griego al confundir a Cleofás con Alfeo.",
+   "cita": "descansa en la dudosa conclusión de que Cleofás y Alfeo son la misma persona",
+   "griego": {
+    "palabra": "adelphós",
+    "transliteracion": "adelphós",
+    "significado": "«hermano»; su significado normal o natural, que Jerónimo abandonó sin justificación para hablar de primos."
+   },
+   "pagina": "carballosa | PÁGINA PDF 68",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Jerónimo ignoró «primogénito» y «hasta»; su fracaso afianza la postura tradicional",
+   "contenido": "Jerónimo pasó por alto además el uso de prototokon en Lucas 2:7 («hijo primogénito», no «unigénito») y del adverbio heos en Mateo 1:25: José no había tenido relación física con María hasta después del nacimiento de Jesús. Carballosa concluye que su incapacidad para probar la teoría afianza la postura tradicional de que el autor fue Santiago el hermano del Señor.",
+   "refs_biblicas": [
+    "Lc 2:7",
+    "Mt 1:25"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 68",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "La concepción de María «sin pecado» viene de los apócrifos",
+   "contenido": "Al cerrar la discusión sobre los hermanos de Jesús, Carballosa señala que la enseñanza católico-romana de que María fue «concebida sin pecado» procede de la literatura apócrifa.",
+   "cita": "La enseñanza católico-romana de que María fue «concebida sin pecado» procede de la literatura apócrifa.",
+   "pagina": "carballosa | PÁGINA PDF 69",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "cronologia_fechas",
+   "titulo": "La fecha depende del autor: antes del 62 d.C. si es Santiago",
+   "contenido": "La fecha de la carta está necesariamente ligada a su autor. Quienes la consideran pseudoepigráfica la ubican entre el 80 o 90 d.C. y el 150 d.C.; quienes la atribuyen a Santiago el hermano del Señor creen que se escribió mucho antes. Según Flavio Josefo, Santiago fue martirizado en el 62 d.C., así que la carta debe ser anterior; A. T. Robertson la fechaba entre el 48 y el 49 d.C.",
+   "pagina": "carballosa | PÁGINA PDF 69",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "cronologia_fechas",
+   "titulo": "Indicios internos de una fecha muy temprana",
+   "contenido": "Un escritor citado por Carballosa ve tres indicios de una fecha temprana: la persecución de los creyentes que refleja la carta se dio en Palestina solo antes del año 70; el uso de la palabra «sinagoga» (2:2) atestigua una fecha muy temprana; y no hay referencia alguna a la controversia del concilio de Jerusalén del año 49.",
+   "refs_biblicas": [
+    "Stg 2:2"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 69",
+   "importancia": 2
+  },
+  {
+   "ref": "2:15-16",
+   "tipo": "contexto_historico",
+   "titulo": "El hambre de Hechos 11:27-30 y la fecha de la carta",
+   "contenido": "Según el mismo escritor, Santiago 2:15-16 debe ser una referencia al hambre mencionada en Hechos 11:27-30. Junto con los demás indicios, esto colocaría la escritura de la carta entre los años 44 y 50.",
+   "refs_biblicas": [
+    "Hch 11:27-30"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 69",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "cronologia_fechas",
+   "titulo": "Eruditos que fechan la carta antes del 50 d.C.",
+   "contenido": "Varios eruditos de renombre prefieren fechar la carta antes del 50 d.C.: Gerhard Kittel, Theodor Zahn, J. B. Mayor, A. T. Robertson, Henry C. Thiessen y Alexander Ross. Como no menciona el concilio de Jerusalén (48 o 49 d.C.), se sugiere que fue escrita no más tarde del 48 d.C., y seguramente tan temprano como el 45 d.C.",
+   "pagina": "carballosa | PÁGINA PDF 69",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«Las doce tribus de la dispersión»: ¿judíos o iglesia gentil?",
+   "contenido": "La carta se dirige a «las doce tribus que están en la dispersión» (1:1), y se ha dicho que ningún libro del Nuevo Testamento es más judaico. Algunos escritores toman la expresión como metáfora de la iglesia gentil esparcida por el Imperio romano; a Carballosa le parece más acorde con el contexto entenderla en su sentido normal: fue dirigida a judíos.",
+   "cita": "no hay libro más judaico en el Nuevo Testamento que la Epístola de Santiago, aun sin excluir Mateo, Hebreos y Apocalipsis",
+   "postura": "Carballosa: judíos, en sentido normal; otros escritores: metáfora de la iglesia gentil dispersa en el Imperio romano.",
+   "pagina": "carballosa | PÁGINA PDF 69",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Destinatarios en sentido amplio y en sentido limitado",
+   "contenido": "Un escritor citado advierte que la carta no habría entrado al canon si se hubiera entendido dirigida a los judíos en general, ni contendría párrafos tan impropios para no cristianos. Carballosa concluye que Santiago tenía un enfoque amplio (los judíos de la diáspora en el Oriente) y otro limitado (los judíos cristianos, con una llamada a los incrédulos), con mayoría de pobres y pocos ricos. Su mayor preocupación eran los creyentes judíos, sometidos a severas pruebas y persecuciones, y su comportamiento como «amados hermanos míos».",
+   "postura": "Carballosa: enfoque amplio (judíos de la diáspora) y limitado (judíos cristianos, con una llamada a los incrédulos).",
+   "pagina": "carballosa | PÁGINA PDF 70",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Lo que la carta revela de sus lectores (Mayor)",
+   "contenido": "Joseph B. Mayor deduce de la propia carta que Santiago asume que los lectores abrazaron la fe de Cristo (2:1) y no están bajo yugo de servidumbre sino bajo la perfecta ley de la libertad (1:25; 2:12), pero conviven con incrédulos que blasfeman el nombre de Cristo y persiguen a los creyentes (2:6-7). Los ricos del grupo (1:10) corrían peligro de apostatar por codicia, mundanalidad y orgullo (4:3-6, 13-16), y en general aparecen como perseguidores y opresores que se llevan el salario de sus jornaleros (2:6-7; 5:5).",
+   "refs_biblicas": [
+    "Stg 2:1",
+    "Stg 1:25",
+    "Stg 2:12",
+    "Stg 2:6-7",
+    "Stg 1:10",
+    "Stg 4:3-6",
+    "Stg 4:13-16",
+    "Stg 5:5"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 70",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Propósito: una carta práctica ocasionada por la situación de los lectores (Thiessen)",
+   "contenido": "Se admite en general que la carta es preeminentemente práctica. Thiessen, citado por Carballosa, dice que la ocasionaron las experiencias corporales, el estado espiritual y las doctrinas falsas de los judíos de la dispersión: persecuciones de sus compatriotas, trato injusto de los ricos y aflicciones físicas; un estado espiritual bajo, con actitud incorrecta hacia Dios y sus dádivas, conductas desenfrenadas, contiendas y espíritu mundano; y graves concepciones doctrinales erróneas. Todo ello llevó al «estricto y recto Santiago» a escribir.",
+   "cita": "Muchos actuaban como si conocer la verdad fuera suficiente y como si la fe sin obras satisficiera todos los requisitos.",
+   "pagina": "carballosa | PÁGINA PDF 71",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Un error de práctica y otro teológico que corregir",
+   "contenido": "Para Carballosa, Santiago no solo quiso advertir a los cristianos sino corregir falsos conceptos infiltrados entre los creyentes hebreos: un error de práctica y otro teológico. Un ejemplo es la exaltación del mero conocimiento de la ley, con tendencia a reclamar superioridad, mientras sus vidas a menudo no armonizaban ni con ese supuesto conocimiento ni con la profesión externa.",
+   "pagina": "carballosa | PÁGINA PDF 71",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "teologia_doctrina",
+   "titulo": "Las obras son parte integral de la fe: resultado, no requisito",
+   "contenido": "Santiago exhorta a sus lectores a respaldar con un testimonio positivo y práctico lo que profesaban con los labios. Es evidente para Carballosa que Santiago consideraba las obras parte integral de la fe y no cosas excluyentes o antitéticas: la carta enseña de manera categórica que una fe viva produce buenas obras, y las que agradan a Dios las produce una fe viva.",
+   "cita": "Las buenas obras no son un requisito, sino un resultado de la salvación.",
+   "pagina": "carballosa | PÁGINA PDF 72",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "explicacion_texto",
+   "titulo": "Estilo de un hombre educado: ilustraciones y diatribas",
+   "contenido": "Carballosa considera crucial conocer el carácter y estilo literario de la carta. Santiago escribe con el estilo refinado de un hombre educado; la carta abunda en ilustraciones tomadas de la experiencia natural y humana, y su uso constante de diatribas le da color y vivacidad.",
+   "pagina": "carballosa | PÁGINA PDF 72",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "eco_de_jesus",
+   "titulo": "Parentesco con la literatura sapiencial y con el Sermón del Monte",
+   "contenido": "Hay una marcada semejanza entre la carta y la literatura sapiencial judía, y su vocabulario y estilo se parecen mucho a los de Jesús en el Sermón del Monte. Un escritor citado añade que un estudio reciente recoge 26 alusiones a las palabras de Jesús y que cada página da evidencia de su influencia: imágenes vivas, situaciones dramáticas, ritmo poético y estilo enérgico, rasgos comunes a las enseñanzas de Jesús y a la carta.",
+   "cita": "Santiago nunca menciona a Jesús directamente, pero un estudio reciente recoge 26 alusiones a sus palabras.",
+   "pagina": "carballosa | PÁGINA PDF 72",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "conexion_biblica",
+   "titulo": "Entrelaza la Ley, los Profetas y los Escritos",
+   "contenido": "Santiago entrelaza la dinámica de las tres divisiones del Antiguo Testamento (la Ley, los Profetas y los Escritos) y las une dentro de su propio estilo literario. Su uso de metáforas, símiles y otras figuras del lenguaje da a la carta un lugar único en el canon del Nuevo Testamento.",
+   "pagina": "carballosa | PÁGINA PDF 72",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Una colección casual de proverbios o una carta con argumento?",
+   "contenido": "Los eruditos de la alta crítica afirman con frecuencia que la carta es una simple y casual colección de dichos proverbiales, sin principios unificantes en torno a los cuales gire un tema central. Los eruditos conservadores no están de acuerdo: aunque no coinciden entre sí sobre cuál es ese principio, creen que, aplicando sanos principios de hermenéutica, el tema unificante se hace evidente.",
+   "postura": "Alta crítica: colección casual de proverbios sin tema central; eruditos conservadores: hay un tema unificante.",
+   "pagina": "carballosa | PÁGINA PDF 73",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "El tema unificante: una fe viviente produce obras que honran a Dios",
+   "contenido": "Carballosa cree que la carta manifiesta la realidad de los resultados de una fe viviente y, sin oponerse a otras opiniones, propone que su gran idea es que una fe viviente produce obras que honran a Dios. Al final de su recorrido insiste en que Santiago no escribía enseñanzas sin propósito ni ideas sin relación, sino con un principio unificante definido.",
+   "cita": "una fe viviente produce la clase de obras que traen gloria a Dios",
+   "pagina": "carballosa | PÁGINA PDF 73",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "La situación de los lectores: pruebas, indiferencia y superficialidad",
+   "contenido": "Santiago escribió a hebreos cristianos que sufrían pruebas y dificultades: algunos llegaron a la desesperación y otros cayeron en la indiferencia y en la tentación de desconfiar de la Palabra de Dios. Prevalecía la superficialidad, que afectaba su relación con Dios, entre ellos y con los incrédulos, junto con el mal uso de la lengua, la codicia y la mundanalidad. Santiago corrige la idea de que una confesión oral bastaba para verificar la condición espiritual interior.",
+   "pagina": "carballosa | PÁGINA PDF 73",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2-18",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Primera parte (1:2-18): la fe viviente produce gozo en medio de las pruebas",
+   "contenido": "Tras una breve introducción epistolar, Santiago abre su argumento con una fe viviente que produce gozo en las pruebas y, como resultado, paciencia (1:2-3); la paciencia produce madurez (1:4). Esa fe mueve a orar por sabiduría divina en medio de las pruebas (1:5-11), la intervención de Dios en respuesta a ella asegura la victoria sobre la tentación, y enseña completa confianza en Dios (1:17-18), el dador bueno y perfecto, nuestro inmutable Padre celestial.",
+   "pagina": "carballosa | PÁGINA PDF 73",
+   "importancia": 2
+  },
+  {
+   "ref": "1:19-27",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Segunda parte (1:19-27): la fe viviente obedece la Palabra de Dios",
+   "contenido": "El segundo movimiento del argumento muestra que una fe viviente resulta en obediencia a la Palabra de Dios (1:19-27). Santiago enfatiza los resultados definidos que la Palabra produce en la vida del creyente: la obediencia redunda en pureza de vida y la desobediencia acaba en hipocresía (1:19-25). La religión que agrada a Dios se basa en la obediencia a su voluntad revelada (1:26-27).",
+   "pagina": "carballosa | PÁGINA PDF 74",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-13",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Tercera parte (2:1-13): la fe viviente practica la imparcialidad",
+   "contenido": "La tercera etapa del argumento se centra en que una fe viviente motiva a practicar la imparcialidad (2:1-13). Según Carballosa, la imparcialidad mira hacia las cualidades internas de la vida (2:1-4), armoniza con los propósitos electivos de Dios (2:5-7) y cumple la ley real (2:8-13).",
+   "pagina": "carballosa | PÁGINA PDF 74",
+   "importancia": 2
+  },
+  {
+   "ref": "2:14-19",
+   "tipo": "explicacion_texto",
+   "titulo": "Pasaje central: la fe muerta no puede salvar",
+   "contenido": "Para Carballosa, ninguna sección enfatiza más la necesidad de una fe viva que 2:14-16, considerado el pasaje central de la carta. Citando a un escritor, precisa que la cuestión no es si la fe puede salvar, sino si una fe muerta puede hacerlo: quien dice tener fe y no produce obras, como lo muestra su falta de respuesta a las limosnas, tiene una fe muerta (v. 17), aunque confiese un credo ortodoxo (v. 19).",
+   "cita": "La cuestión no es si la fe puede salvar, sino si tal fe, que es fe muerta, puede salvar.",
+   "refs_biblicas": [
+    "Stg 2:14",
+    "Stg 2:17",
+    "Stg 2:19"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 74",
+   "importancia": 3
+  },
+  {
+   "ref": "2:14-26",
+   "tipo": "teologia_doctrina",
+   "titulo": "Qué es la fe en la Biblia: confianza y entrega, no solo ejercicio mental",
+   "contenido": "Carballosa considera de vital importancia entender el significado bíblico y teológico de la fe: cuando la Biblia habla de «fe» no se refiere a un ejercicio mental o intelectual, sino a un acto de confianza y de entrega. Que «Abraham creyó a Dios» significa que descansó confiadamente en la promesa de Dios.",
+   "cita": "Fe es creer, confiar, descansar en Dios y en su promesa.",
+   "pagina": "carballosa | PÁGINA PDF 74",
+   "importancia": 3
+  },
+  {
+   "ref": "2:14-26",
+   "tipo": "cristo_en_santiago",
+   "titulo": "El único objeto de la fe que agrada a Dios es Jesucristo",
+   "contenido": "Al explicar qué es la fe en el argumento de Santiago, Carballosa subraya que la fe ha de tener un objeto, y que el único objeto de fe que agrada a Dios es Jesucristo.",
+   "cita": "El único objeto de fe que agrada a Dios es Jesucristo.",
+   "pagina": "carballosa | PÁGINA PDF 74",
+   "importancia": 2
+  },
+  {
+   "ref": "2:14-26",
+   "tipo": "explicacion_texto",
+   "titulo": "La fe viva se evidencia en amor a los hermanos; Abraham y Rahab como ejemplos",
+   "contenido": "Santiago arguye enérgicamente que una fe viva produce buenas obras y que una fe sin obras es fe muerta. Esas obras se evidencian por el amor hacia los hermanos (2:14-17) y por la obediencia a la Palabra de Dios. Abraham (2:21-24) y Rahab (2:25-26) son ejemplos de fe viviente porque eligieron obedecer a Dios a pesar del costo.",
+   "pagina": "carballosa | PÁGINA PDF 75",
+   "importancia": 2
+  },
+  {
+   "ref": "3:1-18",
+   "tipo": "estructura_bosquejo",
+   "titulo": "La fe viviente genera autocontrol (3:1-18)",
+   "contenido": "Según Carballosa, una fe viviente genera autocontrol (3:1-18), requerido especialmente de quienes se ocupan en enseñar la Palabra de Dios (3:1-2). Si un hombre controla su lengua, posee sabiduría divina y Dios controla su vida (3:3-9); una lengua sin control se convierte en instrumento satánico y en evidencia de sabiduría mundana (3:10-18).",
+   "pagina": "carballosa | PÁGINA PDF 75",
+   "importancia": 2
+  },
+  {
+   "ref": "4:1-12",
+   "tipo": "estructura_bosquejo",
+   "titulo": "La fe viviente produce humildad (4:1-12)",
+   "contenido": "El debate de Santiago es que una fe viviente produce humildad (4:1-12). Si esa fe está ausente, el resultado es carnalidad (4:1-3), mundanalidad que se vuelve enemistad contra Dios (4:4-10) y contienda con los hermanos.",
+   "pagina": "carballosa | PÁGINA PDF 75",
+   "importancia": 2
+  },
+  {
+   "ref": "4:13-5:6",
+   "tipo": "estructura_bosquejo",
+   "titulo": "La fe viva distingue lo permanente de lo temporal (4:13—5:6)",
+   "contenido": "Una fe viva distingue entre lo permanente y lo temporal (4:13—5:6). La vida en este mundo es como vapor, por lo que los planes deben estar siempre en línea con la voluntad de Dios (4:13-17); las riquezas de esta tierra son temporales, perecederas y engañosas, y nunca debemos poner en ellas nuestra confianza.",
+   "pagina": "carballosa | PÁGINA PDF 75",
+   "importancia": 2
+  },
+  {
+   "ref": "5:7-20",
+   "tipo": "estructura_bosquejo",
+   "titulo": "La fe viviente se apoya en las Escrituras y termina en oración (5:7-20)",
+   "contenido": "Santiago concluye mostrando que una fe viviente se apoya en las Santas Escrituras (5:7-20): la impulsa la esperanza de la Segunda Venida del Señor y la ejemplifican los sufrimientos y la paciencia de los profetas. Termina con la misma nota con que empezó, la oración, evidencia sólida de una fe viviente: oración y fe van de la mano, y habla de la oración de fe (5:15).",
+   "cita": "La oración es una evidencia sólida de una fe viviente.",
+   "pagina": "carballosa | PÁGINA PDF 75",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Cuadro resumen: cuando la fe es viva, ante cada realidad produce algo",
+   "contenido": "Carballosa resume el argumento en un cuadro titulado «Cuando la fe es viva», con lo que enfrenta y lo que produce: las pruebas (1:2-12), madurez; la tentación (1:13-18), firmeza; la Palabra de Dios (1:19-27), frutos; las personas (2:1-13), imparcialidad; la realidad (2:14-26), obras; la lengua (3:1-12), control; el hombre sabio y de entendimiento (3:13-18), sabiduría; el mundo (4:1—5:6), sumisión a Dios; la venida del Señor (5:12-20), paciencia y vida piadosa.",
+   "pagina": "carballosa | PÁGINA PDF 76",
+   "importancia": 3
+  },
+  {
+   "ref": "intro",
+   "tipo": "griego_palabra",
+   "titulo": "Antilegómena: los libros «objetados» antes de entrar al canon",
+   "contenido": "En una nota al pie, Carballosa explica que antilegómena significa literalmente «hablar en contra» u «objetar» y se aplica a los libros del Nuevo Testamento sometidos a un escrutinio cuidadoso antes de ser recibidos como canónicos. Entre ellos estaban, además de Santiago, Hebreos, Judas, 2 Pedro, 2 y 3 Juan y Apocalipsis; todos entraron al canon y fueron reconocidos en cuanto se disiparon las dudas.",
+   "griego": {
+    "palabra": "antilegómena",
+    "transliteracion": "antilegómena",
+    "significado": "Literalmente «hablar en contra» u «objetar»; libros del Nuevo Testamento objetados o sometidos a escrutinio antes de ser recibidos como canónicos."
+   },
+   "pagina": "carballosa | PÁGINA PDF 76",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "La reserva de Jerónimo hacia la carta de Santiago",
+   "contenido": "Otra nota al pie reconoce que Jerónimo muestra alguna reserva hacia la carta de Santiago, tal vez porque rechazaba la idea de que la hubiera escrito el hermano del Señor.",
+   "pagina": "carballosa | PÁGINA PDF 76",
+   "importancia": 1
+  }
+ ],
+ "problemas": "OCR: «1:1825» leído como Mateo 1:18-25; «hermano de1 Señor» leído como «hermano del Señor». OCR: «2:1516» leído como 2:15-16; «2:67» leído como 2:6-7. El texto ubica la victoria sobre la tentación en «1:12-26» (probable errata; el cuadro final dice 1:13-18): no se reprodujo ese rango en la nota de 1:2-18. El cuadro final rotula la venida del Señor como 5:12-20 (el texto del argumento dice 5:7-20); se respetó el rótulo del autor en la nota del cuadro. Las notas al pie que solo son referencias bibliográficas no se extrajeron."
+}

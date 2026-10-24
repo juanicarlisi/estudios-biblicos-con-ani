@@ -124,6 +124,7 @@ def main():
     for k, (fn, a, b, desc, off) in FUENTES.items():
         for i, (x, y, c) in enumerate(bloques_de_fuente(k, fn, a, b, off), 1):
             out = os.path.join(DEST, f'{k}_{i:02d}.txt')
+            c = f'OBRA: {desc}\nBLOQUE: {k}_{i:02d} (páginas PDF {x}-{y})\n\n' + c
             open(out, 'w').write(c)
             idx.append({'id': f'{k}_{i:02d}', 'fuente': k, 'descripcion': desc, 'paginas': f'{x}-{y}', 'archivo': out, 'chars': len(c)})
     trozos, sel = diccionario()
@@ -132,6 +133,7 @@ def main():
             '(personas, lugares, costumbres, palabras, temas); ignorar lo ajeno a Santiago')
     for i, t in enumerate(trozos, 1):
         out = os.path.join(DEST, f'dbmh_{i:02d}.txt')
+        t = f'OBRA: {desc}\nBLOQUE: dbmh_{i:02d}\n\n' + t
         open(out, 'w').write(t)
         idx.append({'id': f'dbmh_{i:02d}', 'fuente': 'dbmh', 'descripcion': desc, 'paginas': 'varias (ver encabezados)', 'archivo': out, 'chars': len(t)})
     json.dump(idx, open(os.path.join(DEST, '_indice.json'), 'w'), ensure_ascii=False, indent=1)

@@ -1,0 +1,646 @@
+{
+ "bloque": "kistemaker_03",
+ "notas": [
+  {
+   "ref": "4:1-17",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de Sometimiento (4:1-17)",
+   "contenido": "El bosquejo divide Sometimiento en dos partes. A. Sometimiento en la vida y en el espíritu (4:1-12): peticiones con malos propósitos (4:1-3), amistad con el mundo (4:4-6), acercamiento a Dios (4:7-10) y enjuiciamiento del hermano (4:11-12). B. Sometimiento a la voluntad de Dios (4:13-17): el ejemplo (4:13-15) y el bien y el mal (4:16-17).",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 25",
+   "importancia": 2
+  },
+  {
+   "ref": "5:1-11",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de Paciencia (5:1-11)",
+   "contenido": "Paciencia empieza con la impaciencia para con los ricos (5:1-6): encabezamiento (5:1), riqueza (5:2-3), robo (5:4), desenfreno (5:5) y homicidio (5:6). Sigue la necesidad de paciencia (5:7-11): exhortación a la paciencia (5:7-8), advertencia contra la impaciencia (5:9) y ejemplos (5:10-11).",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 25",
+   "importancia": 2
+  },
+  {
+   "ref": "5:12-20",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de 5:12-20",
+   "contenido": "Dentro de Paciencia siguen los juramentos (5:12) y la persistencia en la oración (5:13-18): oración y alabanza (5:13), oración y fe (5:14-15), poder de la oración (5:16) y ejemplo (5:17-18). La sección cierra con el rescate del extraviado (5:19-20).",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 26",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1-11",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de 1:1-11",
+   "contenido": "Después del saludo (A, 1:1), la sección B. Pruebas (1:2-11) se divide en probando la fe (1:2-4), pidiendo sabiduría (1:5-8) y sintiendo orgullo (1:9-11).",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 27",
+   "importancia": 2
+  },
+  {
+   "ref": "1:12-27",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Bosquejo de 1:12-27",
+   "contenido": "C. Pruebas y tentaciones (1:12-18) tiene tres puntos: soportando la prueba (1:12), siendo tentado por malos deseos (1:13-15) y recibiendo dones perfectos (1:16-18). D. Una vida conforme a la Palabra (1:19-27) se divide en aceptando la Palabra de Dios (1:19-21), escuchando obedientemente (1:22-25) y sirviendo religiosamente (1:26-27).",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 27",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Títulos de la epístola en los manuscritos",
+   "contenido": "Según los eruditos, los encabezamientos de los libros del Nuevo Testamento se agregaron más tarde, supuestamente en el siglo II. Las versiones varían: RVR «la Epístola Universal de Santiago», BJ «Epístola de Santiago» y VP-DHH «Carta de Santiago». Algunos manuscritos (P, 33, 1739 y otros) traen «La Epístola General de Santiago el Apóstol», y otros títulos aún más elaborados.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 28",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Canonicidad y la regla apostólica",
+   "contenido": "La iglesia antigua, sobre todo en Oriente (Egipto), aplicaba la regla: «Un libro tiene que ser apostólico para ser canónico». Santiago no cumplía el criterio aplicado a José Barsabás y a Matías (Hch 1:23): los apóstoles debían ser discípulos desde el bautismo hasta la ascensión, y Santiago no creyó en Jesús (Jn 7:5) hasta que Jesús se le apareció en los cuarenta días entre la resurrección y la ascensión (1 Co 15:7). Algunos escribas de los primeros siglos lo llamaron apóstol en el encabezamiento, pero esos encabezamientos son obras humanas y no inspiradas.",
+   "cita": "Un libro tiene que ser apostólico para ser canónico",
+   "refs_biblicas": [
+    "Hch 1:23",
+    "Jn 7:5",
+    "1 Co 15:7"
+   ],
+   "postura": "La iglesia aceptó la epístola como canónica a nivel local, y con el tiempo los concilios reconocieron su canonicidad.",
+   "pagina": "kistemaker | PÁGINA PDF 28",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Epístola o carta?",
+   "contenido": "La iglesia siempre consideró la carta como una epístola, y la tradición habla con fuerza a favor: la dedicatoria da el nombre y la posición del escritor y se dirige a «las doce tribus dispersas entre las naciones», como un sobre con remitente y destinatario. El autor reconoce que la pregunta es válida: el escritor no dice nada de sí mismo, y el comienzo y el final son abruptos, sin los saludos habituales. Aun así, el escrito tiene rasgos de carta en su modo directo: habla a sus oyentes, usa el imperativo cincuenta y cuatro veces y tiene en mente un grupo definido de gente.",
+   "cita": "Tiene, además, un grupo definido de gente en mente al escribir la carta.",
+   "refs_biblicas": [
+    "Stg 1:1"
+   ],
+   "postura": "El autor concluye que el escrito tiene rasgos de carta y lo trata como epístola, por la tradición y por esos rasgos.",
+   "pagina": "kistemaker | PÁGINA PDF 28",
+   "importancia": 2
+  },
+  {
+   "ref": "intro",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Davids: epístola literaria",
+   "contenido": "En la nota 36, Peter H. Davids llama a la carta «una epístola literaria», es decir, un tratado escrito para ser publicado, y no una carta verdadera como las de Pablo a iglesias determinadas. El autor cita esa opinión junto a la discusión sobre el género de la carta.",
+   "refs_biblicas": [],
+   "postura": "El autor prefiere leerla como epístola (tradición y rasgos de carta) y cita a Davids como voz contraria.",
+   "pagina": "kistemaker | PÁGINA PDF 28",
+   "importancia": 1
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Otros Santiagos del Nuevo Testamento",
+   "contenido": "El nombre Santiago (en griego Jakobos) era común en el Nuevo Testamento. El autor distingue: Santiago, hermano de Juan e hijo de Zebedeo, que fue muerto (Hch 12:1-2); Santiago, hijo de Alfeo (Mt 10:3 y paralelos); Santiago, padre del apóstol Judas (no el Iscariote, Hch 1:13); «Santiago el joven» (Mr 15:40), casi desconocido; y Santiago, el hermano de Jesús.",
+   "refs_biblicas": [
+    "Hch 12:1-2",
+    "Mt 10:3",
+    "Hch 1:13",
+    "Mr 15:40"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 28",
+   "importancia": 1
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Santiago, hermano del Señor",
+   "contenido": "Los eruditos coinciden en que el autor de la carta es el hermano de Jesús (Mt 13:55). Después de la partida de Pedro se volvió dirigente de la iglesia madre de Jerusalén (Hch 12:17); habló en el Concilio de Jerusalén (Hch 15:13-21) y fue una «columna» de la iglesia, a quien Pablo presentó su informe misionero (Gá 2:2, 9; Hch 21:18-19).",
+   "cita": "Los eruditos están de acuerdo en que el escritor de la epístola es el hermano de Jesús",
+   "refs_biblicas": [
+    "Mt 13:55",
+    "Hch 12:17",
+    "Hch 15:13-21",
+    "Gá 2:2",
+    "Gá 2:9",
+    "Hch 21:18-19"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "explicacion_texto",
+   "titulo": "«Siervo» como elección",
+   "contenido": "Santiago se llama «siervo de Dios y del Señor Jesucristo», lo que recuerda la palabra de Jesús: el Hijo del Hombre «no vino a ser servido sino a servir» (Mt 20:28). Podría haberse presentado como hermano del Señor, pero eligió «siervo» con humildad, aunque ocupaba una posición de autoridad. Es siervo por elección, no por necesidad ni por fuerza, y reconoce a Jesús como Señor de su vida.",
+   "cita": "Santiago pudo haber dicho que era hermano del Señor.",
+   "refs_biblicas": [
+    "Stg 1:1",
+    "Mt 20:28"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "explicacion_texto",
+   "titulo": "Doce tribus: la carta más judía",
+   "contenido": "La carta es la más judía del Nuevo Testamento, y eso se ve ya en el encabezamiento. Va a personas de estirpe judía que viven fuera de Israel, «entre las naciones», es decir, a los judíos de la dispersión (Jn 7:35).",
+   "cita": "Que la carta de Santiago es la más judía de todas las epístolas del Nuevo Testamento se evidencia ya en el encabezamiento",
+   "refs_biblicas": [
+    "Jn 7:35"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "contexto_historico",
+   "titulo": "La dispersión judía y Pentecostés",
+   "contenido": "Tras la deportación de las diez tribus a Asiria (2 R 17:6), el exilio de las dos tribus en Babilonia (2 R 25:11) y otras ocasiones, miles de judíos vivían fuera de su patria. Lucas enumera los lugares del mundo del siglo I donde residían judíos piadosos de toda nación (Hch 2:5, 9-11); algunos vinieron a Pentecostés, oyeron el evangelio, se convirtieron y volvieron a sus lugares de residencia. Los que se quedaron en Jerusalén fueron perseguidos y expulsados después de la muerte de Esteban (Hch 8:1; 11:19).",
+   "refs_biblicas": [
+    "2 R 17:6",
+    "2 R 25:11",
+    "Hch 2:5",
+    "Hch 2:9-11",
+    "Hch 8:1",
+    "Hch 11:19"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 1
+  },
+  {
+   "ref": "1:1",
+   "tipo": "explicacion_texto",
+   "titulo": "Destinatarios: judíos cristianos fuera de Jerusalén",
+   "contenido": "Santiago escribe a cristianos judíos que viven en lugares fuera de Jerusalén. Pedro, en cambio, nombra las regiones de sus destinatarios (1 P 1:1). Santiago es más general: en la carta no hay ninguna indicación de que se refiera a cristianos gentiles, pero su mensaje también les habla a ellos.",
+   "cita": "No obstante, el mensaje de su carta también les habla a ellos.",
+   "refs_biblicas": [
+    "1 P 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Laws: el origen judío queda sin definir",
+   "contenido": "Sophie Laws advierte con cautela que, si la intención primordial de la carta es definir teológicamente a la comunidad en su carácter cristiano, la pregunta de si sus miembros son de origen judío queda sin definición. El autor cita esa advertencia (nota 39) y sostiene a la vez que los destinatarios son creyentes judíos de la dispersión.",
+   "refs_biblicas": [],
+   "postura": "Laws pide cautela sobre el origen judío de los miembros; el autor afirma que los destinatarios son creyentes judíos de la dispersión.",
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "cronologia_fechas",
+   "titulo": "Una de las cartas más antiguas",
+   "contenido": "El destinatario (el Israel espiritual que está en la dispersión) y el saludo sencillo parecen apuntar a una etapa primitiva de la iglesia. Según lo que pueden determinar los peritos, esta epístola podría ser la más antigua de los veintisiete libros del Nuevo Testamento. Quizá Santiago la escribió antes del Concilio de Jerusalén, en el año 49 d.C.",
+   "cita": "esta epístola podría ser la más antigua de los veintisiete",
+   "refs_biblicas": [],
+   "postura": "Hipótesis del autor: dice «quizá» antes del año 49; no lo presenta como certeza.",
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "contexto_historico",
+   "titulo": "El saludo y la carta del Concilio",
+   "contenido": "El autor tiene la impresión de que Santiago escribió la carta que el Concilio de Jerusalén envió a los creyentes gentiles de Antioquía, Siria y Cilicia, y que la empezó con el mismo saludo escueto: «Saludos» (Hch 15:23). Ese saludo es la manera griega de saludar, y Claudio Lisias usa la misma palabra en su carta al gobernador Félix (Hch 23:26).",
+   "refs_biblicas": [
+    "Hch 15:23",
+    "Hch 23:26"
+   ],
+   "postura": "Hipótesis del autor («da la impresión»), no una afirmación documentada.",
+   "pagina": "kistemaker | PÁGINA PDF 29",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "personaje",
+   "titulo": "Quien conoció bien a Jesús",
+   "contenido": "Si alguien conoció bien a Jesús, probablemente fue Santiago: creció con él en la misma familia, y comieron, jugaron y trabajaron juntos. Después de la resurrección, Jesús se le apareció cuando estaba solo (1 Co 15:7). Si alguien podía llamar a Jesús «mi hermano» por derecho propio, era Santiago.",
+   "cita": "Si alguien conoció bien a Jesús, probablemente Santiago haya sido esa persona.",
+   "refs_biblicas": [
+    "1 Co 15:7"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 30",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "aplicacion_practica",
+   "titulo": "Humildad: llamarse siervo",
+   "contenido": "Santiago evita jactarse: se identifica con humildad como «siervo de Dios y del Señor Jesucristo». Jesús no se avergüenza de llamarnos hermanos y hermanas (Heb 2:11), así que el autor concluye que hacemos bien en seguir el ejemplo de Santiago y llamarnos siervos de Dios y de nuestro Señor Jesucristo.",
+   "refs_biblicas": [
+    "Heb 2:11",
+    "Stg 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 30",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "griego_palabra",
+   "titulo": "Ἱάκωβος: forma helenizada del nombre",
+   "contenido": "El autor señala que Ἱάκωβος es la forma helenizada del nombre Ἱακώβ, que se encuentra en el Antiguo Testamento.",
+   "griego": {
+    "palabra": "Ἱάκωβος",
+    "transliteracion": "Jakobos",
+    "significado": "Forma helenizada del nombre Ἱακώβ que se encuentra en el Antiguo Testamento."
+   },
+   "refs_biblicas": [
+    "Stg 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 30",
+   "importancia": 1
+  },
+  {
+   "ref": "1:1",
+   "tipo": "griego_palabra",
+   "titulo": "διασπορᾷ: dispersión",
+   "contenido": "La palabra viene del verbo compuesto διασπείρω (dispersar), y el autor advierte que el sustantivo admite dos lecturas: que los lectores estaban siendo dispersados o que ya habían sido dispersados.",
+   "griego": {
+    "palabra": "διασπορᾷ",
+    "transliteracion": "diasporá",
+    "significado": "Sustantivo del verbo compuesto διασπείρω (disperso). Puede significar que los lectores estaban siendo dispersados o que ya habían sido dispersados."
+   },
+   "refs_biblicas": [
+    "Stg 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 30",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "griego_palabra",
+   "titulo": "χαίρειν: el saludo «Saludos»",
+   "contenido": "El autor explica que χαίρειν es un infinitivo presente activo que significa «saludos». Santiago lo usa como fórmula inicial, y el infinitivo funciona como imperativo.",
+   "griego": {
+    "palabra": "χαίρειν",
+    "transliteracion": "jaírein",
+    "significado": "Infinitivo presente activo que aparece tres veces al comienzo de una carta en el Nuevo Testamento (Hch 15:23; 23:26; Stg 1:1) y significa «saludos». Hay que suplir λέγει: Santiago dice «Saludos». El infinitivo funciona como imperativo."
+   },
+   "refs_biblicas": [
+    "Hch 15:23",
+    "Hch 23:26",
+    "Stg 1:1"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 30",
+   "importancia": 2
+  },
+  {
+   "ref": "1:1",
+   "tipo": "conexion_biblica",
+   "titulo": "El saludo de Pablo y de los demás",
+   "contenido": "Los saludos de Pablo siguen una fórmula general de la iglesia primitiva: «Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo» (Ro 1:7). Pedro, Juan y Judas usan la misma fórmula, con pequeñas variantes. Santiago no usa esa fórmula: su saludo es el escueto «Saludos».",
+   "refs_biblicas": [
+    "Ro 1:7"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 30",
+   "importancia": 1
+  },
+  {
+   "ref": "1:2-4",
+   "tipo": "aplicacion_practica",
+   "titulo": "Un mensaje para todos los siglos",
+   "contenido": "Las presiones de la era tecnológica son demasiado grandes para mucha gente, que no puede controlar los incidentes angustiantes que la confrontan. Aunque el escritor se dirige a cristianos judíos perseguidos, su mensaje abarca a toda la gente de todos los siglos.",
+   "cita": "De allí que el escritor sagrado, al dirigirse a cristianos judíos perseguidos, abarca en su mensaje a toda la gente a lo largo de todos los siglos.",
+   "refs_biblicas": [
+    "Stg 1:2-4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2-4",
+   "tipo": "contexto_historico",
+   "titulo": "Destinatarios que sufren",
+   "contenido": "Santiago escribe a cristianos judíos que fueron expulsados de sus hogares y posesiones. Sufren la explotación de los ricos, son llevados a las cortes y son calumniados por creer en el noble nombre de Jesús (2:6-7). La primera exhortación de esta carta pastoral es que se regocijen.",
+   "refs_biblicas": [
+    "Stg 2:6-7"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Un pastor alejado del dolor?",
+   "contenido": "El autor plantea una objeción: Santiago vive a salvo en Jerusalén y habla de gozo a cristianos que perdieron sus hogares, por lo que parece alejado de la realidad. Algunos dirían que es el típico pastor que escribe sermones sin notar el sufrimiento diario de la gente.",
+   "cita": "¡Qué extraña manera de dirigirse a los destinatarios de esta carta!",
+   "refs_biblicas": [
+    "Stg 1:2"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "explicacion_texto",
+   "titulo": "Santiago conoce el sufrimiento",
+   "contenido": "Santiago fue testigo de la muerte de Esteban, de la persecución y de la dispersión de la iglesia de Jerusalén por Judea y Samaria (Hch 8:1), y conoce su tarea de pastor. Por eso ofrece aliento y exhorta a gozarse, apoyado en Pablo (Ro 5:3) y en Pedro (1 P 1:6).",
+   "cita": "Sin embargo, Santiago no deja de estar consciente de las dificultades que su pueblo confronta.",
+   "refs_biblicas": [
+    "Hch 8:1",
+    "Ro 5:3",
+    "1 P 1:6"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "eco_de_jesus",
+   "titulo": "Eco de la última bienaventuranza",
+   "contenido": "Santiago repite lo que Jesús enseñó en la última bienaventuranza: los que sufren insultos y persecución por causa de Jesús se regocijan, porque su recompensa es grande en el cielo (Mt 5:11-12; ver también Lc 6:22-23). Por eso Santiago dice a sus lectores que no se amarguen por las adversidades, sino que se gocen.",
+   "cita": "Regocijaos y gozaos, porque grande es vuestra recompensa en el cielo",
+   "refs_biblicas": [
+    "Mt 5:11-12",
+    "Lc 6:22-23"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "explicacion_texto",
+   "titulo": "«Hermanos míos»: un tono cercano",
+   "contenido": "El apelativo «hermanos» pone al escritor a la misma altura de sus lectores: él es uno de ellos y uno con ellos. Por la repetición del término, la carta resulta muy personal (1:2, 16, 19; 2:1, 5, 14; 3:1, 10, 12; 4:11; 5:7, 9, 10, 12, 19).",
+   "cita": "Esta expresión coloca al escritor a la misma altura de sus lectores.",
+   "refs_biblicas": [
+    "Stg 1:2",
+    "Stg 5:19"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "explicacion_texto",
+   "titulo": "Hermano: sentido nacional y sentido de la fe",
+   "contenido": "En sentido nacional todos los judíos son hermanos, como era cierto en tiempos antiguos y lo sigue siendo (Ex 2:11; Dt 15:3; Mt 5:47; Hch 13:26). Pero el escritor no piensa en eso: se dirige a cristianos judíos, que son sus hermanos espirituales. En el Nuevo Testamento, y en muchos círculos cristianos de hoy, «hermano» designa a un compañero de la fe.",
+   "cita": "Pero este no es el concepto que tiene en mente el escritor.",
+   "refs_biblicas": [
+    "Ex 2:11",
+    "Dt 15:3",
+    "Mt 5:47",
+    "Hch 13:26"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "ilustracion",
+   "titulo": "Un soldado judío y el lamento de la nación",
+   "contenido": "En la nota 42 el autor cita su libro sobre las parábolas de Jesús: cuando un soldado judío muere en un conflicto armado, la nación se lamenta como por la muerte de un hermano.",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 31",
+   "importancia": 1
+  },
+  {
+   "ref": "1:2",
+   "tipo": "explicacion_texto",
+   "titulo": "Pruebas de todo tipo",
+   "contenido": "Las circunstancias angustiosas son adversidades que Dios usa para probar la fe del creyente. Vienen de modos diversos, y ningún creyente tiene garantía de una vida libre de dificultades: todos experimentan problemas y pesares, y nadie puede escapar porque no controla las circunstancias.",
+   "cita": "Las circunstancias angustiosas son las adversidades que Dios usa para probar la fe del creyente.",
+   "refs_biblicas": [
+    "Stg 1:2"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 32",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "teologia_doctrina",
+   "titulo": "La prueba diseñada por Dios",
+   "contenido": "Santiago dice que el cristiano literalmente cae en una situación angustiosa: Dios lo coloca, a veces de modo repentino, en una dificultad diseñada para probar su fe. Muchas veces el creyente no se da cuenta de que está en una prueba y entiende por qué Dios lo probó solo más tarde; entonces ve la bondad y la gracia de Dios, que le llena de gozo. Por eso el cristiano debe ver la mano de Dios en todos los ámbitos de su vida.",
+   "cita": "Muchas veces es sólo más tarde que el creyente comienza a entender por qué Dios lo probó.",
+   "refs_biblicas": [
+    "Stg 1:2"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 32",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "ilustracion",
+   "titulo": "Amado Nervo: Dios en todo",
+   "contenido": "Para mostrar que el cristiano debe ver la mano de Dios en todo, el autor cita un poema de Amado Nervo que recorre contrastes de la vida, como la aurora y la noche, la capilla fúnebre y la noche de bodas, o el primer beso y el último, y dice que Dios está en cada uno.",
+   "cita": "Tú en todas las transfiguraciones y en todo padecer;",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 32",
+   "importancia": 1
+  },
+  {
+   "ref": "1:3",
+   "tipo": "explicacion_texto",
+   "titulo": "«Sabéis»: la clave de la prueba",
+   "contenido": "Santiago pregunta por qué ha de haber gozo cada vez que Dios prueba, y responde con el verbo «saber»: el creyente sabe que sus pruebas no suceden por casualidad y que todo viene de la mano de Dios.",
+   "cita": "El verbo saber es la palabra clave.",
+   "refs_biblicas": [
+    "Stg 1:3"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 32",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "ilustracion",
+   "titulo": "Ursino y la providencia",
+   "contenido": "Para expresar la fe en que todo viene de la mano de Dios, el autor cita a Zacarías Ursino, que respondió la pregunta 27 del Catecismo de Heidelberg, sobre la providencia (nota 45), junto a Caspar Oleviano. Según la cita, las cosas no nos suceden por obra del azar, sino por la mano paternal de Dios.",
+   "cita": "Todas las cosas, en realidad, nos suceden",
+   "refs_biblicas": [],
+   "pagina": "kistemaker | PÁGINA PDF 32",
+   "importancia": 1
+  },
+  {
+   "ref": "1:2-4",
+   "tipo": "teologia_doctrina",
+   "titulo": "Dios detrás de cada prueba",
+   "contenido": "Dios está detrás de toda dificultad y prueba, y quiere que el creyente no solo vea su mano sino que la sienta por experiencia. Ante cada adversidad, el creyente confía en su Padre celestial, que tiene completo control de cada situación y le da lo que necesita: alegrías y penas, dificultades y triunfos.",
+   "cita": "Dios está detrás de toda dificultad y prueba.",
+   "refs_biblicas": [
+    "Stg 1:2-4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 32",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2-4",
+   "tipo": "ilustracion",
+   "titulo": "Nubes oscuras y lluvias de bendición",
+   "contenido": "El autor propone considerar la prueba como puro gozo aunque se acumulen nubes oscuras sobre la cabeza, porque esas nubes dan lluvias de bendición que hacen crecer la vida de fe. Un proverbio árabe que él cita dice que «el sol solo crea desiertos».",
+   "cita": "Estas lluvias hacen que vuestra vida de fe se desarrolle y crezca.",
+   "refs_biblicas": [
+    "Stg 1:2-4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 33",
+   "importancia": 1
+  },
+  {
+   "ref": "1:3",
+   "tipo": "explicacion_texto",
+   "titulo": "Perseverancia: paralelo con 1 Pedro",
+   "contenido": "El término «prueba» explica las «pruebas» del versículo anterior. Hay un paralelo con 1 Pedro: los lectores de Pedro tenían que sufrir «en todo tipo de pruebas», y su fe, de mayor valor que el oro, es probada como genuina (1 P 1:6-7).",
+   "cita": "Notamos un paralelo entre la epístola de Santiago y la primera epístola de Pedro en este punto.",
+   "refs_biblicas": [
+    "1 P 1:6-7",
+    "Stg 1:3"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 33",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "explicacion_texto",
+   "titulo": "Refinación: una fe que se purifica",
+   "contenido": "La prueba es un proceso de refinación: la fe se purifica como el oro en el fuego del fundidor (Pr 27:21), y Dios quita el pecado como el orfebre quita las impurezas del metal. A diferencia del oro, la fe no es pasiva: debe ir acompañada por la acción, o está muerta (Stg 2:17).",
+   "cita": "La fe del hombre nunca puede ser pasiva. Es activa.",
+   "refs_biblicas": [
+    "Pr 27:21",
+    "Stg 2:17",
+    "Stg 1:3"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 33",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "explicacion_texto",
+   "titulo": "El verbo «producir»",
+   "contenido": "El autor explica que el verbo «producir» transmite, en griego, la idea de elaborar algo completamente. Pablo usa el mismo verbo en Filipenses 2:12 («Continuad elaborando vuestra salvación con temor y temblor»), así que la prueba de la fe sigue elaborando perseverancia.",
+   "cita": "La prueba de vuestra fe sigue elaborando perseverancia, escribe Santiago.",
+   "refs_biblicas": [
+    "Stg 1:3",
+    "Fil 2:12"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 33",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "explicacion_texto",
+   "titulo": "Perseverancia, no resignación",
+   "contenido": "La perseverancia, ejemplificada por Job, no tiene nada en común con la resignación: la resignación es pasiva y lleva a la derrota, mientras que la perseverancia es activa y lleva al triunfo. El cristiano persevera mirando a Jesús, autor y perfeccionador de su fe (Heb 12:2; ver también Ro 5:3-5).",
+   "cita": "Pero mientras que la resignación es pasiva, la perseverancia es activa.",
+   "refs_biblicas": [
+    "Heb 12:2",
+    "Ro 5:3-5"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 33",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "aplicacion_practica",
+   "titulo": "Quien persevera se aferra a Dios",
+   "contenido": "El cristiano confía en que de Dios vendrá ayuda, auxilio, fuerza y consuelo, porque Dios responde a la fe y provee los medios para superar la prueba. Quien posee la perseverancia se aferra a Dios, persiste en la voluntad divina y no puede ser apartado de su propósito de servir a Dios.",
+   "cita": "El sabe que Dios siempre responde a la fe y provee los medios para superar el período de prueba.",
+   "refs_biblicas": [
+    "Stg 1:3"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 33",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "eco_de_jesus",
+   "titulo": "Perseverancia: eco de Jesús",
+   "contenido": "Santiago repite el sustantivo «perseverancia» para mostrar que el concepto es central en la carta. Con esa repetición alude a la enseñanza de Jesús a sus discípulos: «Pero el que permanece firme hasta el fin será salvo» (Mt 10:22; 24:13).",
+   "cita": "Santiago repite el sustantivo perseverancia para demostrar que este concepto es importante para el mensaje de la epístola.",
+   "refs_biblicas": [
+    "Mt 10:22",
+    "Mt 24:13"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 33",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "ilustracion",
+   "titulo": "La pierna fracturada",
+   "contenido": "Para ilustrar que la perseverancia necesita tiempo, el autor compara con un paciente de pierna fracturada: debe obedecer al médico y no apoyar peso hasta que la curación siga su curso. Si el paciente pone fin a ese proceso de golpe, el resultado sería desastroso.",
+   "cita": "No podemos apurar a la perseverancia. Necesita tiempo.",
+   "refs_biblicas": [
+    "Stg 1:4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 34",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "conexion_biblica",
+   "titulo": "Pablo: «Mi gracia es suficiente para ti»",
+   "contenido": "Pablo pidió tres veces que le quitaran el aguijón de la carne, y la respuesta fue: «Mi gracia es suficiente para ti, porque mi poder se perfecciona en la debilidad» (2 Co 12:8-9). El autor lo liga con el término «perfecto» que usa Santiago: no hay que interferir con el plan de Dios, sino perseverar hasta que la obra que Dios comenzó en uno llegue a su culminación.",
+   "cita": "Tres veces rogué al Señor que lo quitase de mí",
+   "refs_biblicas": [
+    "2 Co 12:8-9",
+    "Stg 1:4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 34",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "conexion_biblica",
+   "titulo": "Salmo 138:8: la obra que Dios comenzó",
+   "contenido": "El autor presenta el Salmo 138:8 como oración de David: el Señor cumplirá su propósito acerca de uno, porque su amor permanece para siempre, y por eso se le pide que no abandone las obras de sus manos.",
+   "cita": "El Señor cumplirá su propósito acerca de mí;",
+   "refs_biblicas": [
+    "Sal 138:8"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 34",
+   "importancia": 1
+  },
+  {
+   "ref": "1:4",
+   "tipo": "explicacion_texto",
+   "titulo": "Paralelismo semítico en 1:3-4",
+   "contenido": "El paralelismo es un rasgo semítico de la carta: el versículo 4 repite el pensamiento del versículo 3 y así explica su significado. Como una planta que da fruto necesita completar su período de crecimiento, la perseverancia necesita todo el tiempo que haga falta.",
+   "cita": "El paralelismo es uno de los rasgos semíticos presentes en la epístola de Santiago.",
+   "refs_biblicas": [
+    "Stg 1:3",
+    "Stg 1:4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 34",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "explicacion_texto",
+   "titulo": "Santiago repite palabras para unir ideas",
+   "contenido": "Santiago tiende a vincular palabras y conceptos repitiendo el mismo término. La traducción literal de la NASB que cita el autor muestra la repetición: que la perseverancia tenga su resultado perfecto, para que seáis perfectos y completos, carentes de nada.",
+   "cita": "Santiago tiene una tendencia a vincular palabras o conceptos, repitiendo preferentemente el mismo término.",
+   "refs_biblicas": [
+    "Stg 1:4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 34",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "explicacion_texto",
+   "titulo": "«Perfecto» no significa «sin pecado»",
+   "contenido": "El autor aclara que «perfecto» no significa «sin pecado». Cita 3:2, donde el que nunca yerra al hablar es «un hombre perfecto», y concluye que el término transmite plenitud, es decir, no quedarse atrás en ningún punto. Con los lectores de Pablo y de Santiago, «perfecto» significa «maduro», y «completo» es sinónimo de «maduro» (Fil 3:15).",
+   "cita": "Con respecto a los lectores de las cartas de Pablo y Santiago, el término perfecto significa",
+   "refs_biblicas": [
+    "Stg 1:4",
+    "Stg 3:2",
+    "Fil 3:15"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 34",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "explicacion_texto",
+   "titulo": "Burdick: la perseverancia que completa su obra",
+   "contenido": "Según Donald W. Burdick, citado en la nota 48, la frase «la perseverancia debe concluir su obra» indica progreso y desarrollo, y su resultado puede describirse como madurez.",
+   "cita": "indica progreso y desarrollo, cuyo resultado bien puede ser descrito como madurez",
+   "refs_biblicas": [
+    "Stg 1:4"
+   ],
+   "pagina": "kistemaker | PÁGINA PDF 34",
+   "importancia": 1
+  }
+ ],
+ "problemas": "Páginas 28-29: corregido «recidían» por «residían» y «lugares mundo» por «lugares del mundo» (errores de tipeo u OCR en la p. 29). Páginas 30-31: corregido «Féliz» por «Félix» (p. 30) y «la mismo fórmula» por «la misma fórmula» (nota 40, tipeo del original). Páginas 32-34: unidos los cortes de línea con guion («prue-ba», «completa-mente»); corregido «suscintamente» por «sucintamente» (p. 33), «desastrozo» por «desastroso» y «asi» por «así» (p. 34)."
+}

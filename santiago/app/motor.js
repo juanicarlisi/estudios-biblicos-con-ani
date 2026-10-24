@@ -140,6 +140,35 @@ function pasajeHTML(p, abierto) {
     <div id="caja-griego" hidden>${conGriego ? griegoHTML(p.a, p.b) + `<div class="pie-pasaje"><span>${esc(D.aviso_griego || '')}</span></div>` : ''}</div></div></details>`;
 }
 
+/* ---------- palabras clave: conteo por capítulo (columna del día y gráfico) ---------- */
+const sinTildes = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const CLAVES = [
+  ['fe', /\bfe\b/], ['obras', /\bobras?\b/], ['hermanos', /\bhermanos?\b/], ['palabra', /\bpalabras?\b/], ['lengua', /\blenguas?\b/], ['sabiduría', /\bsabidur[ií]a\b/],
+  ['pruebas y tentación', /\b(pruebas?|prueba|tentaci[oó]n|tentado|tienta|tentar)\b/], ['paciencia', /\b(paciencia|pacientes?|sufridos?)\b/], ['ley', /\bley\b/],
+  ['pobres', /\bpobres?\b/], ['ricos', /\b(ricos?|riquezas?)\b/], ['oración', /\b(orar|ora|oraci[oó]n|oren|oad|orad|pida|pedir|ped[ií]s|pedid)\b/],
+  ['pecado', /\b(pecados?|pecar|pecador(es)?)\b/], ['justo y justicia', /\b(justos?|justicia|justificad[oa]s?|justificar)\b/], ['Dios', /\bdios\b/], ['Señor', /\bse[nñ]or\b/],
+];
+let _conteos = null;
+function conteosClaves() {
+  if (_conteos) return _conteos;
+  _conteos = CLAVES.map(([n, re]) => { const por = [0, 0, 0, 0, 0], vers = [[], [], [], [], []];
+    for (let c = 1; c <= 5; c++) for (let v = 1; v <= NV[c - 1]; v++) { const t = sinTildes(vtxt(c, v) || ''); const k = t.match(new RegExp(re.source, 'g')); if (k) { por[c - 1] += k.length; vers[c - 1].push(v); } }
+    return { n, re, por, vers, tot: por.reduce((a, b) => a + b, 0) }; });
+  return _conteos;
+}
+function clavesDelDia(p) {
+  let t = ''; for (let i = p.a; i <= p.b; i++) { const [c, v] = deIdx(i); t += ' ' + sinTildes(vtxt(c, v) || ''); }
+  return conteosClaves().filter(r => new RegExp(r.re.source).test(t)).sort((a, b) => a.tot - b.tot).slice(0, 3);
+}
+function miniGrafico(r, capActual) {
+  const max = Math.max(...r.por, 1), W = 150, H = 44, bw = 20, gap = 10;
+  return `<div style="margin:8px 0 2px"><div style="display:flex;justify-content:space-between"><b>${esc(r.n)}</b><span class="estado">${r.tot} en la carta</span></div>
+    <svg viewBox="0 0 ${W} ${H + 14}" width="100%" role="img" aria-label="${esc(r.n)}: ${r.por.map((n, k) => `capítulo ${k + 1}, ${n}`).join('; ')}">${r.por.map((n, k) => { const h = Math.max(1.5, (n / max) * H);
+      return `<rect x="${k * (bw + gap) + 5}" y="${H - h}" width="${bw}" height="${h}" rx="3" fill="${k + 1 === capActual ? 'var(--terracota)' : 'var(--tinta)'}" opacity="${k + 1 === capActual ? 1 : .55}"/>
+      <text x="${k * (bw + gap) + 5 + bw / 2}" y="${H + 11}" text-anchor="middle" font-size="9" fill="var(--muted)" font-family="var(--f-ui)">${k + 1}</text>
+      <text x="${k * (bw + gap) + 5 + bw / 2}" y="${H - h - 2}" text-anchor="middle" font-size="9" fill="var(--ink)" font-family="var(--f-ui)">${n}</text>`; }).join('')}</svg></div>`;
+}
+
 /* ---------- tira de versículos (avance por versículo) ---------- */
 function tira(grande, hoy) {
   let h = `<div class="tira ${grande ? 'grande' : ''}" role="img" aria-label="Avance por versículo de la carta">`;
@@ -309,7 +338,7 @@ function vistaDia(d) {
     <div class="meta"><span>Santiago ${esc(p.desde)}${p.desde === p.hasta ? '' : '–' + esc(p.hasta)}</span><span>${nVers} ${nVers === 1 ? 'versículo' : 'versículos'}</span>${x ? `<span>≈ ${x.minutos.lectura} min de lectura + ${x.minutos.estudio} de estudio</span>` : ''}
       ${p.compartido ? `<span class="insignia">Parte ${p.compartido.n} de ${p.compartido.de}${p.foco ? ' · ' + esc(p.foco) : ''}</span>` : ''}</div>
     <div class="acciones"><button class="btn ${est.hechos[d] ? 'oro' : ''}" id="hecho-btn">${est.hechos[d] ? '✓ Terminado' : 'Marcar como terminado'}</button>
-      <a class="btn" href="#carta" data-ir-carta="${p.a}">Ver en la carta completa</a></div>`;
+      <a class="btn" href="#carta" data-ir-carta="${p.a}">Ver en la carta completa</a><button class="btn" id="imprimir-btn">Imprimir este día</button></div>`;
   if (x) {
     const tot = x.minutos.lectura + x.minutos.estudio + 5;
     h += `<nav class="seguimiento" id="seg" aria-label="Pasos del día"><ol>
@@ -355,7 +384,8 @@ function vistaDia(d) {
     h += '</section>';
   }
   h += bloqueNotas(d);
-  h += `<nav class="pie-dia" aria-label="Días">${ant ? `<a class="btn" href="#dia-${ant.dia}">← Día ${ant.dia}</a>` : '<span></span>'}${sig ? `<a class="btn prim" href="#dia-${sig.dia}">Día ${sig.dia}: ${esc((D.dias[sig.dia] || sig).titulo)} →</a>` : `<a class="btn prim" href="#inicio">Terminaron la carta ✓</a>`}</nav></article>`;
+  h += `<nav class="pie-dia" aria-label="Días">${ant ? `<a class="btn" href="#dia-${ant.dia}">← Día ${ant.dia}</a>` : '<span></span>'}
+    ${sig ? `<button class="btn prim" id="hecho-sig" data-sig="${sig.dia}">${est.hechos[d] ? 'Seguir con el día ' + sig.dia : 'Terminar el día y seguir'} →</button>` : `<button class="btn prim" id="hecho-fin">${est.hechos[d] ? 'Volver al inicio' : 'Terminar la carta ✓'}</button>`}</nav></article>`;
   return h;
 }
 function ladoDia(d) {
@@ -367,6 +397,8 @@ function ladoDia(d) {
   const t = (D.linea_dia || {})[d];
   if (t) h += `<div class="tarjeta"><h5>En la historia</h5><div>${esc(t.texto)}</div><div class="tiempo-barra"><span style="left:${t.desde}%;width:${Math.max(1.5, t.hasta - t.desde)}%"></span></div><div class="tiempo-et"><span>${esc(D.linea.inicio_et)}</span><span>${esc(D.linea.fin_et)}</span></div></div>`;
   if (x && x.palabras.some(w => w.griego)) h += `<div class="tarjeta"><h5>Palabras del día</h5>${x.palabras.filter(w => w.griego).slice(0, 6).map(w => `<div style="display:flex;justify-content:space-between;gap:8px;padding:3px 0"><span>${esc(w.translit)}</span><span class="gr" lang="grc" style="color:var(--tinta);font-size:1.05rem">${esc(w.griego)}</span></div>`).join('')}</div>`;
+  const cl = clavesDelDia(p);
+  if (cl.length) h += `<div class="tarjeta"><h5>Palabras del pasaje en toda la carta</h5>${cl.map(r => miniGrafico(r, deIdx(p.a)[0])).join('')}<div class="leyenda">Cuántas veces aparece en cada capítulo. <a href="#claves">Ver todas</a></div></div>`;
   const hechos = hechosN();
   h += `<div class="tarjeta"><h5>Su avance</h5><div>${hechos} de ${TOTAL} días terminados.</div><div class="tiempo-barra" style="margin-top:8px"><span style="left:0;width:${100 * hechos / TOTAL}%;background:var(--oliva)"></span></div></div>`;
   return h;
@@ -539,18 +571,9 @@ function vistaEcos() {
 }
 
 /* ---------- palabras de la carta (gráfico) ---------- */
-const sinTildes = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
-const CLAVES = [
-  ['fe', /\bfe\b/], ['obras', /\bobras?\b/], ['hermanos', /\bhermanos?\b/], ['palabra', /\bpalabras?\b/], ['lengua', /\blenguas?\b/], ['sabiduría', /\bsabidur[ií]a\b/],
-  ['pruebas y tentación', /\b(pruebas?|prueba|tentaci[oó]n|tentado|tienta|tentar)\b/], ['paciencia', /\b(paciencia|pacientes?|sufridos?)\b/], ['ley', /\bley\b/],
-  ['pobres', /\bpobres?\b/], ['ricos', /\b(ricos?|riquezas?)\b/], ['oración', /\b(orar|ora|oraci[oó]n|oren|oad|orad|pida|pedir|pedís|pedis|pedid)\b/],
-  ['pecado', /\b(pecados?|pecar|pecador(es)?)\b/], ['justo y justicia', /\b(justos?|justicia|justificad[oa]s?|justificar)\b/], ['Dios', /\bdios\b/], ['Señor', /\bse[nñ]or\b/],
-];
 let claveSel = null;
 function vistaClaves() {
-  const cuenta = CLAVES.map(([n, re]) => { const por = [0, 0, 0, 0, 0], vers = [[], [], [], [], []];
-    for (let c = 1; c <= 5; c++) for (let v = 1; v <= NV[c - 1]; v++) { const t = sinTildes(vtxt(c, v) || ''); const m = t.match(new RegExp(re.source, 'g') ); if (m) { por[c - 1] += m.length; vers[c - 1].push(v); } }
-    return { n, por, vers, tot: por.reduce((a, b) => a + b, 0) }; }).sort((a, b) => b.tot - a.tot);
+  const cuenta = conteosClaves().slice().sort((x, y) => y.tot - x.tot);
   const max = Math.max(...cuenta.flatMap(r => r.por));
   const sel = claveSel && cuenta.find(r => r.n === claveSel.n);
   return `<div class="hoja ancha"><span class="ojo">Herramientas</span><h1 class="titulo">Palabras de la carta</h1>
@@ -750,6 +773,15 @@ async function cargarCopia(archivo) {
   for (const d of tocados) await escribirDia(d);
   msg(!tocados.size ? 'La copia no tenía nada que no estuviera ya guardado.' : tocados.size === 1 ? 'Copia cargada: se actualizó 1 día.' : `Copia cargada: se actualizaron ${tocados.size} días.`);
 }
+document.addEventListener('click', async e => {
+  if (e.target.closest('#imprimir-btn')) { document.querySelectorAll('details.interp, details.prof, details.pasaje').forEach(x => { x.open = true; }); print(); }
+  const hs = e.target.closest('#hecho-sig, #hecho-fin');
+  if (hs) {
+    const d = +(location.hash.match(/dia-(\d+)/) || [])[1];
+    if (d && !est.hechos[d]) { est.hechos[d] = new Date().toISOString().slice(0, 10); pintarProgreso(); await escribirDia(d); }
+    location.hash = hs.id === 'hecho-sig' ? 'dia-' + hs.dataset.sig : 'inicio';
+  }
+});
 document.addEventListener('click', e => {
   if (e.target.closest('#bajar-copia')) bajarCopia();
   if (e.target.closest('#cargar-copia-btn')) $('#cargar-copia').click();

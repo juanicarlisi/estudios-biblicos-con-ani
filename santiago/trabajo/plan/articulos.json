@@ -1,28 +1,283 @@
 [
- {"id": "I1", "grupo": "intro", "titulo": "Quién escribió la carta", "largo": "1.000 a 1.500", "alcance": "el nombre «Santiago» (Jacobo), cuál de los Santiagos del Nuevo Testamento la escribió y qué se sabe de él (su familia, su lugar en la iglesia de Jerusalén, su carácter y su muerte), las dudas sobre la autoría y cómo las responden las fuentes"},
- {"id": "I2", "grupo": "intro", "titulo": "A quién, cuándo y desde dónde", "largo": "1.000 a 1.500", "alcance": "los destinatarios («las doce tribus que están en la dispersión»), su situación (pobreza, persecución, ricos y pobres en la iglesia), la fecha de la carta según las distintas posturas (temprana o tardía) y el lugar desde donde escribe"},
- {"id": "I3", "grupo": "intro", "titulo": "Qué clase de carta es", "largo": "1.000 a 1.600", "alcance": "el género (epístola general, literatura de sabiduría, exhortación o parénesis, sermón), el estilo y el griego de Santiago, sus imágenes tomadas de la naturaleza y de la vida diaria, su uso del Antiguo Testamento y su parentesco con Proverbios"},
- {"id": "I4", "grupo": "intro", "titulo": "Estructura y mensaje", "largo": "1.000 a 1.600", "alcance": "cómo está armada la carta (los bosquejos que proponen las fuentes), su propósito y su tema central, y su lugar en el canon: cómo fue recibida, la duda de Lutero y la respuesta de las fuentes"},
- {"id": "I5", "grupo": "intro", "titulo": "Santiago, Jesús y Pablo", "largo": "1.000 a 1.600", "alcance": "cómo suena la carta a las enseñanzas de Jesús (sobre todo el Sermón del Monte), cómo se relaciona con Pablo y con el resto del Nuevo Testamento, y cómo apunta a Cristo aunque lo nombre pocas veces"},
- {"id": "P1", "grupo": "parte", "parte": "I", "titulo": "Panorama · Primera parte", "rango": "1:1–27", "largo": "700 a 1.100", "alcance": "panorama del capítulo 1 antes de leerlo: de qué trata, cómo se ordena (saludo, pruebas, sabiduría, tentación, la Palabra), qué temas atraviesa y qué conviene tener en cuenta al leer"},
- {"id": "P2", "grupo": "parte", "parte": "II", "titulo": "Panorama · Segunda parte", "rango": "2:1–26", "largo": "700 a 1.100", "alcance": "panorama del capítulo 2 antes de leerlo: el favoritismo, la ley real y la fe que obra; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer"},
- {"id": "P3", "grupo": "parte", "parte": "III", "titulo": "Panorama · Tercera parte", "rango": "3:1–18", "largo": "700 a 1.100", "alcance": "panorama del capítulo 3 antes de leerlo: la lengua y las dos sabidurías; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer"},
- {"id": "P4", "grupo": "parte", "parte": "IV", "titulo": "Panorama · Cuarta parte", "rango": "4:1–17", "largo": "700 a 1.100", "alcance": "panorama del capítulo 4 antes de leerlo: las guerras interiores, la amistad con el mundo, la sumisión a Dios y la vida sin presunción; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer"},
- {"id": "P5", "grupo": "parte", "parte": "V", "titulo": "Panorama · Quinta parte", "rango": "5:1–20", "largo": "700 a 1.100", "alcance": "panorama del capítulo 5 antes de leerlo: los ricos opresores, la paciencia, el juramento, la oración y la restauración del extraviado; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer"},
- {"id": "T1", "grupo": "tema", "titulo": "Pruebas y perseverancia", "largo": "1.400 a 2.200", "alcance": "qué son las pruebas, por qué hay que gozarse en ellas, qué producen (paciencia, madurez), la corona de vida, el ejemplo de los profetas y de Job, y cómo se vive la paciencia hasta la venida del Señor"},
- {"id": "T2", "grupo": "tema", "titulo": "La tentación y el pecado", "largo": "1.400 a 2.200", "alcance": "la diferencia entre prueba y tentación, de dónde viene la tentación, el deseo, el camino del pecado a la muerte, el carácter de Dios, la resistencia al diablo y el pecado de omisión"},
- {"id": "T3", "grupo": "tema", "titulo": "La sabiduría", "largo": "1.400 a 2.200", "alcance": "qué es la sabiduría en Santiago, cómo se pide y se recibe, la sabiduría de lo alto frente a la terrenal, su relación con Proverbios y con la vida diaria"},
- {"id": "T4", "grupo": "tema", "titulo": "La Palabra: oír y hacer", "largo": "1.400 a 2.200", "alcance": "la palabra implantada y el nuevo nacimiento, ser hacedores y no solo oidores, la ley perfecta de la libertad, la ley real, la religión pura"},
- {"id": "T5", "grupo": "tema", "titulo": "Fe y obras", "largo": "1.600 a 2.400", "alcance": "qué dice Santiago 2:14-26 sobre la fe y las obras, cómo se entiende «justificar», Abraham y Rahab, cómo se concilian Santiago y Pablo, y las lecturas que ofrecen las distintas fuentes"},
- {"id": "T6", "grupo": "tema", "titulo": "La lengua", "largo": "1.400 a 2.200", "alcance": "pronto para oír y tardo para hablar, la responsabilidad de los maestros, las imágenes de la lengua (freno, timón, fuego, fuente), bendecir y maldecir, hablar mal, el juramento"},
- {"id": "T7", "grupo": "tema", "titulo": "Ricos, pobres y justicia", "largo": "1.400 a 2.200", "alcance": "el favoritismo en la iglesia, Dios y los pobres, el humilde y el rico, los ricos opresores, la riqueza y los negocios sin Dios, la ley de la misericordia"},
- {"id": "T8", "grupo": "tema", "titulo": "Humildad y mundanalidad", "largo": "1.400 a 2.200", "alcance": "las guerras y pleitos, la amistad con el mundo, la gracia mayor, el doble ánimo, la sumisión a Dios y la resistencia al diablo, el arrepentimiento, no juzgar al hermano"},
- {"id": "T9", "grupo": "tema", "titulo": "Oración, enfermedad y restauración", "largo": "1.400 a 2.200", "alcance": "pedir con fe, la oración en toda circunstancia, los ancianos y la unción de los enfermos, la confesión mutua, el ejemplo de Elías, y hacer volver al hermano extraviado"},
- {"id": "T10", "grupo": "tema", "titulo": "Cristo en Santiago", "largo": "1.400 a 2.200", "alcance": "cómo Santiago nombra y muestra a Jesús (el Señor de la gloria, el Juez que está a las puertas, la venida del Señor), cómo suena a su enseñanza y cómo apunta a él la carta"},
- {"id": "A1", "grupo": "anexo", "titulo": "Los Santiagos del Nuevo Testamento", "largo": "700 a 1.200", "alcance": "quiénes son los Santiagos que aparecen en el Nuevo Testamento (el hijo de Zebedeo, el hijo de Alfeo, el hermano del Señor) y qué se sabe de cada uno; los hermanos de Jesús; con tabla de datos y citas del texto"},
- {"id": "A2", "grupo": "anexo", "titulo": "Santiago y el Sermón del Monte", "largo": "600 a 1.200", "alcance": "los ecos de las enseñanzas de Jesús en la carta, en una tabla de paralelos (pasaje de Santiago, pasaje de los evangelios, qué comparten) según los señalan las fuentes"},
- {"id": "A3", "grupo": "anexo", "titulo": "Pablo y Santiago: cuadro comparativo", "largo": "600 a 1.200", "alcance": "una tabla que compara cómo usan Pablo y Santiago las palabras «fe», «obras» y «justificar», sus ejemplos (Abraham), a quién le hablan y contra qué error, según las fuentes"},
- {"id": "A4", "grupo": "anexo", "titulo": "Santiago y el Antiguo Testamento", "largo": "700 a 1.200", "alcance": "los personajes, pasajes y imágenes del Antiguo Testamento que Santiago usa (Abraham, Rahab, Job, Elías, Levítico 19, Proverbios, la lluvia temprana y tardía…), con tabla y citas"},
- {"id": "A5", "grupo": "anexo", "titulo": "Las imágenes de la carta", "largo": "600 a 1.200", "alcance": "las imágenes de la naturaleza y de la vida diaria que usa Santiago (ola, hierba, espejo, freno, timón, fuego, fuente, higuera, vid, niebla, polilla, labrador, lluvia…), qué enseña cada una y dónde está"},
- {"id": "A6", "grupo": "anexo", "titulo": "Glosario", "largo": "700 a 1.400", "alcance": "los términos que usa el estudio explicados con sencillez (dispersión o diáspora, epístola general, parénesis, canon, antilegómena, Gehena, justificar, Escritura, Señor de los ejércitos…), cada uno según lo que dicen las fuentes"}
+ {
+  "id": "I1",
+  "grupo": "intro",
+  "titulo": "Quién escribió la carta",
+  "largo": "1.000 a 1.500",
+  "alcance": "el nombre «Santiago» (Jacobo), cuál de los Santiagos del Nuevo Testamento la escribió y qué se sabe de él (su familia, su lugar en la iglesia de Jerusalén, su carácter y su muerte), las dudas sobre la autoría y cómo las responden las fuentes",
+  "pasajes": [
+   "1:1"
+  ]
+ },
+ {
+  "id": "I2",
+  "grupo": "intro",
+  "titulo": "A quién, cuándo y desde dónde",
+  "largo": "1.000 a 1.500",
+  "alcance": "los destinatarios («las doce tribus que están en la dispersión»), su situación (pobreza, persecución, ricos y pobres en la iglesia), la fecha de la carta según las distintas posturas (temprana o tardía) y el lugar desde donde escribe",
+  "pasajes": [
+   "1:1"
+  ]
+ },
+ {
+  "id": "I3",
+  "grupo": "intro",
+  "titulo": "Qué clase de carta es",
+  "largo": "1.000 a 1.600",
+  "alcance": "el género (epístola general, literatura de sabiduría, exhortación o parénesis, sermón), el estilo y el griego de Santiago, sus imágenes tomadas de la naturaleza y de la vida diaria, su uso del Antiguo Testamento y su parentesco con Proverbios",
+  "pasajes": []
+ },
+ {
+  "id": "I4",
+  "grupo": "intro",
+  "titulo": "Estructura y mensaje",
+  "largo": "1.000 a 1.600",
+  "alcance": "cómo está armada la carta (los bosquejos que proponen las fuentes), su propósito y su tema central, y su lugar en el canon: cómo fue recibida, la duda de Lutero y la respuesta de las fuentes",
+  "pasajes": []
+ },
+ {
+  "id": "I5",
+  "grupo": "intro",
+  "titulo": "Santiago, Jesús y Pablo",
+  "largo": "1.000 a 1.600",
+  "alcance": "cómo suena la carta a las enseñanzas de Jesús (sobre todo el Sermón del Monte), cómo se relaciona con Pablo y con el resto del Nuevo Testamento, y cómo apunta a Cristo aunque lo nombre pocas veces",
+  "pasajes": [
+   "2:8",
+   "2:14-26"
+  ]
+ },
+ {
+  "id": "P1",
+  "grupo": "parte",
+  "parte": "I",
+  "titulo": "Panorama · Primera parte",
+  "rango": "1:1–27",
+  "largo": "700 a 1.100",
+  "alcance": "panorama del capítulo 1 antes de leerlo: de qué trata, cómo se ordena (saludo, pruebas, sabiduría, tentación, la Palabra), qué temas atraviesa y qué conviene tener en cuenta al leer",
+  "pasajes": [
+   "1:1-27"
+  ]
+ },
+ {
+  "id": "P2",
+  "grupo": "parte",
+  "parte": "II",
+  "titulo": "Panorama · Segunda parte",
+  "rango": "2:1–26",
+  "largo": "700 a 1.100",
+  "alcance": "panorama del capítulo 2 antes de leerlo: el favoritismo, la ley real y la fe que obra; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer",
+  "pasajes": [
+   "2:1-26"
+  ]
+ },
+ {
+  "id": "P3",
+  "grupo": "parte",
+  "parte": "III",
+  "titulo": "Panorama · Tercera parte",
+  "rango": "3:1–18",
+  "largo": "700 a 1.100",
+  "alcance": "panorama del capítulo 3 antes de leerlo: la lengua y las dos sabidurías; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer",
+  "pasajes": [
+   "3:1-18"
+  ]
+ },
+ {
+  "id": "P4",
+  "grupo": "parte",
+  "parte": "IV",
+  "titulo": "Panorama · Cuarta parte",
+  "rango": "4:1–17",
+  "largo": "700 a 1.100",
+  "alcance": "panorama del capítulo 4 antes de leerlo: las guerras interiores, la amistad con el mundo, la sumisión a Dios y la vida sin presunción; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer",
+  "pasajes": [
+   "4:1-17"
+  ]
+ },
+ {
+  "id": "P5",
+  "grupo": "parte",
+  "parte": "V",
+  "titulo": "Panorama · Quinta parte",
+  "rango": "5:1–20",
+  "largo": "700 a 1.100",
+  "alcance": "panorama del capítulo 5 antes de leerlo: los ricos opresores, la paciencia, el juramento, la oración y la restauración del extraviado; cómo se ordena, qué temas atraviesa y qué conviene tener en cuenta al leer",
+  "pasajes": [
+   "5:1-20"
+  ]
+ },
+ {
+  "id": "T1",
+  "grupo": "tema",
+  "titulo": "Pruebas y perseverancia",
+  "largo": "1.400 a 2.200",
+  "alcance": "qué son las pruebas, por qué hay que gozarse en ellas, qué producen (paciencia, madurez), la corona de vida, el ejemplo de los profetas y de Job, y cómo se vive la paciencia hasta la venida del Señor",
+  "pasajes": [
+   "1:2-4",
+   "1:9-12",
+   "5:7-11"
+  ]
+ },
+ {
+  "id": "T2",
+  "grupo": "tema",
+  "titulo": "La tentación y el pecado",
+  "largo": "1.400 a 2.200",
+  "alcance": "la diferencia entre prueba y tentación, de dónde viene la tentación, el deseo, el camino del pecado a la muerte, el carácter de Dios, la resistencia al diablo y el pecado de omisión",
+  "pasajes": [
+   "1:12-18",
+   "4:1-6",
+   "4:17"
+  ]
+ },
+ {
+  "id": "T3",
+  "grupo": "tema",
+  "titulo": "La sabiduría",
+  "largo": "1.400 a 2.200",
+  "alcance": "qué es la sabiduría en Santiago, cómo se pide y se recibe, la sabiduría de lo alto frente a la terrenal, su relación con Proverbios y con la vida diaria",
+  "pasajes": [
+   "1:5-8",
+   "3:13-18"
+  ]
+ },
+ {
+  "id": "T4",
+  "grupo": "tema",
+  "titulo": "La Palabra: oír y hacer",
+  "largo": "1.400 a 2.200",
+  "alcance": "la palabra implantada y el nuevo nacimiento, ser hacedores y no solo oidores, la ley perfecta de la libertad, la ley real, la religión pura",
+  "pasajes": [
+   "1:18-27",
+   "2:8-13"
+  ]
+ },
+ {
+  "id": "T5",
+  "grupo": "tema",
+  "titulo": "Fe y obras",
+  "largo": "1.600 a 2.400",
+  "alcance": "qué dice Santiago 2:14-26 sobre la fe y las obras, cómo se entiende «justificar», Abraham y Rahab, cómo se concilian Santiago y Pablo, y las lecturas que ofrecen las distintas fuentes",
+  "pasajes": [
+   "2:14-26"
+  ]
+ },
+ {
+  "id": "T6",
+  "grupo": "tema",
+  "titulo": "La lengua",
+  "largo": "1.400 a 2.200",
+  "alcance": "pronto para oír y tardo para hablar, la responsabilidad de los maestros, las imágenes de la lengua (freno, timón, fuego, fuente), bendecir y maldecir, hablar mal, el juramento",
+  "pasajes": [
+   "1:19",
+   "1:26",
+   "3:1-12",
+   "4:11-12",
+   "5:12"
+  ]
+ },
+ {
+  "id": "T7",
+  "grupo": "tema",
+  "titulo": "Ricos, pobres y justicia",
+  "largo": "1.400 a 2.200",
+  "alcance": "el favoritismo en la iglesia, Dios y los pobres, el humilde y el rico, los ricos opresores, la riqueza y los negocios sin Dios, la ley de la misericordia",
+  "pasajes": [
+   "1:9-11",
+   "2:1-13",
+   "4:13-17",
+   "5:1-6"
+  ]
+ },
+ {
+  "id": "T8",
+  "grupo": "tema",
+  "titulo": "Humildad y mundanalidad",
+  "largo": "1.400 a 2.200",
+  "alcance": "las guerras y pleitos, la amistad con el mundo, la gracia mayor, el doble ánimo, la sumisión a Dios y la resistencia al diablo, el arrepentimiento, no juzgar al hermano",
+  "pasajes": [
+   "1:8",
+   "4:1-12"
+  ]
+ },
+ {
+  "id": "T9",
+  "grupo": "tema",
+  "titulo": "Oración, enfermedad y restauración",
+  "largo": "1.400 a 2.200",
+  "alcance": "pedir con fe, la oración en toda circunstancia, los ancianos y la unción de los enfermos, la confesión mutua, el ejemplo de Elías, y hacer volver al hermano extraviado",
+  "pasajes": [
+   "1:5-8",
+   "4:2-3",
+   "5:13-20"
+  ]
+ },
+ {
+  "id": "T10",
+  "grupo": "tema",
+  "titulo": "Cristo en Santiago",
+  "largo": "1.400 a 2.200",
+  "alcance": "cómo Santiago nombra y muestra a Jesús (el Señor de la gloria, el Juez que está a las puertas, la venida del Señor), cómo suena a su enseñanza y cómo apunta a él la carta",
+  "pasajes": [
+   "1:1",
+   "2:1",
+   "5:7-9"
+  ]
+ },
+ {
+  "id": "A1",
+  "grupo": "anexo",
+  "titulo": "Los Santiagos del Nuevo Testamento",
+  "largo": "700 a 1.200",
+  "alcance": "quiénes son los Santiagos que aparecen en el Nuevo Testamento (el hijo de Zebedeo, el hijo de Alfeo, el hermano del Señor) y qué se sabe de cada uno; los hermanos de Jesús; con tabla de datos y citas del texto",
+  "pasajes": [
+   "1:1"
+  ]
+ },
+ {
+  "id": "A2",
+  "grupo": "anexo",
+  "titulo": "Santiago y el Sermón del Monte",
+  "largo": "600 a 1.200",
+  "alcance": "los ecos de las enseñanzas de Jesús en la carta, en una tabla de paralelos (pasaje de Santiago, pasaje de los evangelios, qué comparten) según los señalan las fuentes",
+  "pasajes": []
+ },
+ {
+  "id": "A3",
+  "grupo": "anexo",
+  "titulo": "Pablo y Santiago: cuadro comparativo",
+  "largo": "600 a 1.200",
+  "alcance": "una tabla que compara cómo usan Pablo y Santiago las palabras «fe», «obras» y «justificar», sus ejemplos (Abraham), a quién le hablan y contra qué error, según las fuentes",
+  "pasajes": [
+   "2:14-26"
+  ]
+ },
+ {
+  "id": "A4",
+  "grupo": "anexo",
+  "titulo": "Santiago y el Antiguo Testamento",
+  "largo": "700 a 1.200",
+  "alcance": "los personajes, pasajes y imágenes del Antiguo Testamento que Santiago usa (Abraham, Rahab, Job, Elías, Levítico 19, Proverbios, la lluvia temprana y tardía…), con tabla y citas",
+  "pasajes": [
+   "2:21-25",
+   "5:10-11",
+   "5:17-18"
+  ]
+ },
+ {
+  "id": "A5",
+  "grupo": "anexo",
+  "titulo": "Las imágenes de la carta",
+  "largo": "600 a 1.200",
+  "alcance": "las imágenes de la naturaleza y de la vida diaria que usa Santiago (ola, hierba, espejo, freno, timón, fuego, fuente, higuera, vid, niebla, polilla, labrador, lluvia…), qué enseña cada una y dónde está",
+  "pasajes": []
+ },
+ {
+  "id": "A6",
+  "grupo": "anexo",
+  "titulo": "Glosario",
+  "largo": "700 a 1.400",
+  "alcance": "los términos que usa el estudio explicados con sencillez (dispersión o diáspora, epístola general, parénesis, canon, antilegómena, Gehena, justificar, Escritura, Señor de los ejércitos…), cada uno según lo que dicen las fuentes",
+  "pasajes": []
+ }
 ]

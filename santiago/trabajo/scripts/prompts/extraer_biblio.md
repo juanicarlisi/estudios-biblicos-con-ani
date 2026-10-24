@@ -11,7 +11,7 @@ de notas directamente en el archivo. Cada nota se escribe una sola vez. Si te en
 Por cada bloque que te asignaron (uno por uno, en el orden dado):
 
 1. Leé el bloque con **UNA sola llamada a Read, sin offset ni limit y con `allow_large: true`**
-   (`/home/user/trabajo_santiago/segmentos/biblio/<id>.txt`). Cada página empieza con un encabezado `=== [obra | PÁGINA PDF n ...] ===`.
+   (`/home/user/trabajo_santiago/segmentos/biblio/<id>.txt`). Las dos primeras líneas dicen la obra (`OBRA:`) y el bloque; después, cada página empieza con un encabezado `=== [obra | PÁGINA PDF n ...] ===`.
 2. Escribí las notas **en tandas**, una por cada 2 o 3 páginas del bloque, avanzando en el orden del texto. Cada tanda es **una llamada Write** a
    `/home/user/trabajo_santiago/partes/<id>.p1.json`, luego `<id>.p2.json`, `<id>.p3.json`… con la forma:
 
@@ -47,8 +47,8 @@ Por cada bloque que te asignaron (uno por uno, en el orden dado):
 
 ## Qué es una buena nota
 
-- **Una idea del autor por nota**, entendible sola. Un bloque de ~30.000 caracteres da típicamente **30 a 60 notas**; el conjunto de las notas debe ser bastante
-  más corto que el texto original (condensás, no transcribís). Si el autor repite una idea, una sola nota.
+- **Una idea del autor por nota**, entendible sola. Un bloque de ~30.000 caracteres da típicamente **30 a 60 notas**; el conjunto de las notas debe ser **la mitad o menos** del largo
+  del texto original (condensás, no transcribís): cada nota, 40 a 90 palabras, y los nombres, fechas y citas bíblicas solo cuando hacen falta para entender la idea. Si el autor repite una idea, una sola nota.
 - `ref`: el pasaje de Santiago que la nota comenta: `"C:V"`, `"C:V-V"`, `"C:V-C:V"`, `"C"` (capítulo entero), `"intro"` (la carta entera: autor, fecha,
   destinatarios, canon, estilo, estructura, propósito) o `"tema"` (transversal, sin pasaje puntual). Santiago llega hasta 5:20.
 - `tipo` (uno de): `contexto_historico`, `cultura_costumbres`, `arqueologia_geografia`, `griego_palabra`, `explicacion_texto`, `teologia_doctrina`,
@@ -60,7 +60,7 @@ Por cada bloque que te asignaron (uno por uno, en el orden dado):
 - `griego`: cuando el autor comenta una palabra griega. `palabra` con letras griegas si el texto las trae; si solo trae la transliteración, poné esa en `palabra`
   y repetila en `transliteracion`. `significado`: lo que dice el autor.
 - `pagina`: copiá el rótulo del encabezado de la página donde está el contenido, sin los `=` ni los corchetes: p. ej. `macarthur | PÁGINA PDF 57`.
-  En el comentario Mundo Hispano (cbmh) agregá la marca de página impresa más cercana: `cbmh | PÁGINA PDF 140 | [P. 184]`.
+  En el comentario Mundo Hispano (cbmh) agregá la marca de página impresa `[P. n]` que esté más cerca **antes** del comienzo de la idea que resumís: `cbmh | PÁGINA PDF 140 | [P. 184]`.
   En el Diccionario (dbmh) copiá el rótulo completo, con el nombre de la entrada. **La página tiene que existir en el bloque.**
 - `importancia`: 3 = central (no se puede estudiar el pasaje sin esto); 2 = valioso; 1 = complementario.
 
@@ -70,6 +70,8 @@ Explicación del texto versículo por versículo; contexto histórico y cultural
 autoría, fecha, destinatarios y canonicidad; estructura de la carta; teología y doctrina; relación con las enseñanzas de Jesús (Sermón del Monte), con Pablo y
 con el Antiguo Testamento; cómo apunta a Cristo; dificultades e interpretaciones (con la postura del autor); bosquejos; aplicaciones prácticas; ilustraciones y
 frases memorables; preguntas de reflexión del autor.
+
+Los **bosquejos del autor** (cómo divide la carta o el pasaje, con rangos de versículos) sí van, como `estructura_bosquejo`; el índice de contenidos como tal, no.
 
 **No incluyas:** datos editoriales, índices, bibliografías, prólogos y agradecimientos, publicidad de otras obras, ni lo que no trata Santiago (por ejemplo lo
 que ya es de 1 Pedro u otras epístolas del mismo volumen; la metodología de predicación expositiva de Carballosa, parte 3, salvo el contenido sobre el texto de Santiago).

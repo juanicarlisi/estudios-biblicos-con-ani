@@ -33,6 +33,7 @@ def main():
         for f in os.listdir(cdir):
             if f.startswith('dia_') and f.endswith('.json'):
                 dd = json.load(open(os.path.join(cdir, f))); curadas[dd['dia']] = set(dd['ids'])
+    arts = json.load(open(os.path.join(C.REPO_TRABAJO, 'plan', 'articulos.json')))
     for p in plan:
         p['a'] = C.idx(*map(int, p['desde'].split(':'))); p['b'] = C.idx(*map(int, p['hasta'].split(':')))
     partes_rango = {}
@@ -87,6 +88,7 @@ def main():
                        f"Tipos de nota que le tocan: {', '.join(p.get('tipos', []))}. No repitas lo que corresponde a los otros días del mismo pasaje.")
         cab += [f"Día anterior: {ant['dia']} · Stg {ant['desde']}–{ant['hasta']} · {ant['titulo']}" if ant else 'Día anterior: (es el primero)',
                 f"Día siguiente: {sig['dia']} · Stg {sig['desde']}–{sig['hasta']} · {sig['titulo']}" if sig else 'Día siguiente: (es el último)',
+                *enlaces(p, arts),
                 '', '=== TEXTO DEL PASAJE (RVR1960) ===', *pas, '', f'=== NOTAS ({len(ns)}) ===']
         cuerpo = '\n\n'.join(N.linea(n) for n in ns)
         open(os.path.join(DST, f"dia_{p['dia']:02d}.txt"), 'w').write('\n'.join(cab) + '\n' + cuerpo + '\n')
@@ -102,6 +104,26 @@ def main():
     print('por día: notas min/máx', min(s[1] for s in stats), max(s[1] for s in stats), '| caracteres min/prom/máx', min(cs), sum(cs) // len(cs), max(cs))
     for d, n, c in stats:
         print(f'  día {d:2d}: {n:4d} notas, {c:7d} caracteres')
+
+
+def enlaces(p, arts):
+    """Líneas del insumo con los temas y anexos a los que este día puede enviar (campo «anexos»)."""
+    tocan, generales = [], []
+    for a in arts:
+        if a['grupo'] not in ('tema', 'anexo'):
+            continue
+        rangos = [N.rango(x) for x in a.get('pasajes', [])]
+        rangos = [r for r in rangos if r]
+        if not rangos:
+            generales.append(f"{a['id']} «{a['titulo']}»")
+        elif any(not (r[1] < p['a'] or r[0] > p['b']) for r in rangos):
+            tocan.append(f"{a['id']} «{a['titulo']}»")
+    out = []
+    if tocan:
+        out.append('Temas y anexos del estudio que tocan este pasaje (enlazá en «anexos» los que de verdad le sirvan al lector): ' + '; '.join(tocan))
+    if generales:
+        out.append('Anexos generales (enlazalos solo si el día los usa de lleno): ' + '; '.join(generales))
+    return out
 
 
 def elegir_dia_compartido(n, grupo):

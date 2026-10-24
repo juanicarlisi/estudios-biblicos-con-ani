@@ -1,0 +1,564 @@
+{
+ "bloque": "carballosa_07",
+ "notas": [
+  {
+   "ref": "1:2-27",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Los tres temas del capítulo 1",
+   "contenido": "Tras la breve introducción (1:1), Santiago comienza el cuerpo de la carta. En este primer capítulo enfoca tres temas, las pruebas, las tentaciones y la Palabra de Dios, cada uno visto a la luz de la fe, que para él es viva, dinámica y fructífera. El primero (1:2-12) se divide en tres partes: la fe viva produce paciencia (1:2-4); apela a la sabiduría divina por la oración (1:5-8); y da una actitud correcta tanto al pobre como al rico (1:9-11).",
+   "pagina": "carballosa | PÁGINA PDF 88",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2-12",
+   "tipo": "contexto_historico",
+   "titulo": "Lectores que sufren por su identificación con Cristo",
+   "contenido": "Los creyentes a quienes se dirige la carta atravesaban pruebas y dificultades como resultado de su identificación con Cristo. Santiago los exhorta a asumir una actitud correcta ante ellas, porque el resultado final será la madurez espiritual de sus vidas.",
+   "pagina": "carballosa | PÁGINA PDF 88",
+   "importancia": 3
+  },
+  {
+   "ref": "1:2",
+   "tipo": "griego_palabra",
+   "titulo": "«Considerad» (hegéisasthe): mandato urgente y personal",
+   "contenido": "Hegéisasthe, de hegéomai, puede significar «ir delante», «ser un líder», «gobernar», o bien «considerar», «reconocer», «pensar»; en 1:2 vale lo segundo. Es un aoristo imperativo: un mandato que sugiere urgencia y acción inmediata. La voz media enfatiza que el sujeto, además de ejecutar la acción, participa de sus resultados: Santiago pide que reflexionen en lo más íntimo y adopten conscientemente, para su propio beneficio, una nueva actitud.",
+   "griego": {
+    "palabra": "hegéisasthe",
+    "transliteracion": "hegéisasthe",
+    "significado": "considerar, reconocer, pensar (de hegéomai); aoristo imperativo, voz media"
+   },
+   "pagina": "carballosa | PÁGINA PDF 88",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "griego_palabra",
+   "titulo": "«Cuando caigáis» (hótan, peripésete)",
+   "contenido": "«Cuando» (hótan) es una conjunción temporal indefinida: «cuando sea que ocurra». «Os halléis» traduce peripésete, de peri (alrededor) y pípto (caer): caer en medio de algo y quedar rodeado, como el hombre de Lucas 10:30 que «cayó en manos de ladrones». El aoristo indica una experiencia individual, y el subjuntivo con hótan, un suceso que puede venir en cualquier momento y sin previo aviso.",
+   "refs_biblicas": [
+    "Lc 10:30"
+   ],
+   "griego": {
+    "palabra": "peripésete",
+    "transliteracion": "peripésete",
+    "significado": "caer en medio de, quedar rodeado (peri + pípto); aoristo subjuntivo activo"
+   },
+   "pagina": "carballosa | PÁGINA PDF 89",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2",
+   "tipo": "griego_palabra",
+   "titulo": "«Diversas pruebas» (peirasmóis poikílois): pruebas externas",
+   "contenido": "Peirasmóis procede de peirázo, que muchas veces significa «tentar»; pero aquí el contexto sugiere pruebas y luchas externas de la vida diaria, no tentaciones. El cristiano se ve rodeado de circunstancias y obstáculos que le causan tristeza. Poikílois («diversas») es «de diversos colores», como los del arco iris: pruebas en todas sus variedades, que pueden alcanzar al hijo de Dios en cualquier momento.",
+   "griego": {
+    "palabra": "peirasmóis poikílois",
+    "transliteracion": "peirasmóis poikílois",
+    "significado": "pruebas diversas, «de diversos colores»; peirasmós (de peirázo) puede ser «tentación», pero aquí designa pruebas externas"
+   },
+   "pagina": "carballosa | PÁGINA PDF 89",
+   "importancia": 3
+  },
+  {
+   "ref": "1:2",
+   "tipo": "explicacion_texto",
+   "titulo": "«Sumo gozo»: gozo en el resultado, no en la prueba",
+   "contenido": "«Sumo gozo» (pásan charàn) es en el original «gozo total o sin mezcla», gozo ciento por ciento puro; también, «gozo completo», que ha completado su ciclo. Santiago no dice que las pruebas equivalgan al gozo, sino que exhorta a considerar que redundarán en beneficio de los lectores y a regocijarse en el resultado final.",
+   "griego": {
+    "palabra": "pásan charàn",
+    "transliteracion": "pásan charàn",
+    "significado": "gozo total o sin mezcla; gozo completo que ha completado su ciclo"
+   },
+   "pagina": "carballosa | PÁGINA PDF 90",
+   "importancia": 3
+  },
+  {
+   "ref": "1:3",
+   "tipo": "griego_palabra",
+   "titulo": "«Sabiendo» (ginóskontes): conocer por experiencia",
+   "contenido": "Ginóskontes es participio presente activo de ginósko, que significa «conocer por experiencia». El presente indica que los lectores ya conocían la verdad expuesta (que la prueba de la fe produce paciencia), pero debían seguir practicándola.",
+   "griego": {
+    "palabra": "ginóskontes",
+    "transliteracion": "ginóskontes",
+    "significado": "sabiendo, conociendo por experiencia (de ginósko); participio presente activo"
+   },
+   "pagina": "carballosa | PÁGINA PDF 90",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«La prueba» (tó dokímion): ¿adjetivo o sustantivo?",
+   "contenido": "Algunos eruditos toman dokímion como adjetivo, con el sentido de 1 Pedro 1:7: «el elemento genuino de vuestra fe», en lugar de «la prueba» o «el crisol»; A. T. Robertson parafrasea que la fe, como el oro, resiste el fuego y es aprobada como de ley. Carballosa juzga mejor tomarlo como sustantivo: un instrumento o medio para probar algo.",
+   "cita": "Las pruebas son los agentes que examinan la fe y revelan su verdadera naturaleza",
+   "refs_biblicas": [
+    "1 P 1:7"
+   ],
+   "griego": {
+    "palabra": "dokímion",
+    "transliteracion": "dokímion",
+    "significado": "adjetivo («elemento genuino») o sustantivo («instrumento o medio para probar»)"
+   },
+   "postura": "Prefiere tomar dokímion como sustantivo (medio para probar la fe) y no como adjetivo («genuino»).",
+   "pagina": "carballosa | PÁGINA PDF 90",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "explicacion_texto",
+   "titulo": "La fe se purifica en las pruebas, como el oro en el fuego",
+   "contenido": "Así como el oro es purificado por el fuego, la fe es purificada y fortalecida por las pruebas. «Vuestra fe» (hymôn teîs písteos) lleva artículo definido («la fe vuestra») y confirma que Santiago escribe a creyentes: lo que se ponía a prueba era la fe cristiana de los lectores, es decir, si lo que habían creído era cierto o ficticio.",
+   "griego": {
+    "palabra": "hymôn teîs písteos",
+    "transliteracion": "hymôn teîs písteos",
+    "significado": "«la fe vuestra»: fe con artículo definido, la fe cristiana de los lectores"
+   },
+   "pagina": "carballosa | PÁGINA PDF 90",
+   "importancia": 3
+  },
+  {
+   "ref": "1:3",
+   "tipo": "griego_palabra",
+   "titulo": "«Produce» (katergázetai): obra continua hasta la meta",
+   "contenido": "Katergázetai (presente indicativo, voz media de katergázomai) significa «producir», «crear», «efectuar». Es enfático por ser compuesto (kata + ergázomai): el prefijo intensifica la acción, que sigue hasta una conclusión perfecta, la producción de paciencia. El presente marca acción continua: la prueba obra hasta alcanzar su meta, la madurez de la fe.",
+   "griego": {
+    "palabra": "katergázetai",
+    "transliteracion": "katergázetai",
+    "significado": "producir, crear, efectuar (kata + ergázomai); acción continua hasta la meta"
+   },
+   "pagina": "carballosa | PÁGINA PDF 90",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "griego_palabra",
+   "titulo": "«Paciencia» (hypomonéin): permanecer debajo",
+   "contenido": "Hypomonéin une hypo (debajo) y monéin (de méno, permanecer): literalmente «permanecer debajo». Se usaba para quien lleva una carga pesada y, aunque la tarea se hace más difícil, no se deja vencer y sigue hasta la meta. En el griego clásico: perseverar, mantenerse firme, sobrevivir a un ataque enemigo, constancia. Santiago parece tener esos mismos conceptos en mente.",
+   "refs_biblicas": [
+    "Ro 5:3",
+    "2 Co 1:6"
+   ],
+   "griego": {
+    "palabra": "hypomonéin",
+    "transliteracion": "hypomonéin",
+    "significado": "«permanecer debajo»: perseverar, mantenerse firme, constancia"
+   },
+   "pagina": "carballosa | PÁGINA PDF 91",
+   "importancia": 3
+  },
+  {
+   "ref": "1:4",
+   "tipo": "griego_palabra",
+   "titulo": "«Dejad que tenga» (echéto): una paciencia activa",
+   "contenido": "La paciencia de la que habla Santiago es activa y fructífera. Echéto es presente imperativo activo de echô («tener»): un mandamiento cuyo presente pide acción continua, sin interrupción. Santiago manda no romper ningún eslabón de la cadena que permite a la paciencia realizar su obra perfecta; «obra completa» significa haber llegado a la meta pretendida.",
+   "griego": {
+    "palabra": "echéto",
+    "transliteracion": "echéto",
+    "significado": "«dejad que tenga» (de echô); presente imperativo activo: mandato de acción continua"
+   },
+   "pagina": "carballosa | PÁGINA PDF 91",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4",
+   "tipo": "griego_palabra",
+   "titulo": "«Para que seáis perfectos» (hína êite, téleioi): la meta es el carácter",
+   "contenido": "La obra de la paciencia tiene dos propósitos: que seáis perfectos y cabales, y que no os falte cosa alguna. «Para que seáis» (hína êite) señala la meta; el presente subjuntivo de «ser» muestra que no se trata de poseer algo sino de formar el carácter, y sugiere que es alcanzable en esta vida. «Perfectos» (téleioi) implica madurez ética y espiritual.",
+   "griego": {
+    "palabra": "téleioi",
+    "transliteracion": "téleioi",
+    "significado": "perfectos: madurez en sentido ético y espiritual"
+   },
+   "pagina": "carballosa | PÁGINA PDF 91",
+   "importancia": 3
+  },
+  {
+   "ref": "1:4",
+   "tipo": "griego_palabra",
+   "titulo": "«Cabales» (holos + kleros) y «sin que os falte cosa alguna»",
+   "contenido": "«Cabales» traduce una palabra compuesta (holos + kleros) que significa literalmente «completo en todas sus partes»: algo en perfectas condiciones al ser reconocido por un experto. Para reforzarlo, Santiago añade «sin que os falte cosa alguna»: lo que no carece de nada, está completo.",
+   "griego": {
+    "palabra": "holos + kleros",
+    "transliteracion": "holos + kleros",
+    "significado": "completo en todas sus partes"
+   },
+   "pagina": "carballosa | PÁGINA PDF 91",
+   "importancia": 2
+  },
+  {
+   "ref": "1:2-4",
+   "tipo": "explicacion_texto",
+   "titulo": "Idea exegética de 1:2-4",
+   "contenido": "Síntesis del autor: las pruebas de la fe son instrumentos para producir madurez de carácter, y por eso se soportan con gozo y paciencia. Santiago refuerza el v. 4 con una frase epexegética (explicativa), «sin que os falte nada», y seguramente desea que los lectores tengan la plenitud de recursos que necesitan para enfrentar las pruebas de la vida diaria.",
+   "cita": "Santiago exhorta al creyente a considerar las pruebas de la fe como instrumentos para producir madurez de carácter, por eso deben soportarlas con gozo y paciencia.",
+   "pagina": "carballosa | PÁGINA PDF 92",
+   "importancia": 3
+  },
+  {
+   "ref": "1:5-8",
+   "tipo": "explicacion_texto",
+   "titulo": "De las pruebas a la sabiduría que se pide en oración",
+   "contenido": "Bajo el título «La fe viva apela a la sabiduría divina en medio de las pruebas por medio de la oración (1:5-8)», el autor recuerda que el creyente no se goza en las pruebas en sí sino en su finalidad. Pero muchas veces no entiende por qué las atraviesa, y necesita la sabiduría divina, que debe pedir en oración y con fe, creyendo que Dios la suplirá.",
+   "pagina": "carballosa | PÁGINA PDF 92",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5",
+   "tipo": "explicacion_texto",
+   "titulo": "Reconocer la falta de sabiduría: el punto de partida",
+   "contenido": "El v. 5 abre con una condicional («Si alguno de vosotros está desposeído de sabiduría») que asume la existencia de la necesidad. Reconocer esa falta es el punto de partida del creyente que desea depender de Dios. Específicamente, necesita sabiduría para entender el porqué de las pruebas y cómo ser capaz de soportarlas.",
+   "cita": "Reconocer su falta de sabiduría es el punto de partida del creyente que desea depender de Dios.",
+   "pagina": "carballosa | PÁGINA PDF 93",
+   "importancia": 3
+  },
+  {
+   "ref": "1:5",
+   "tipo": "griego_palabra",
+   "titulo": "«Desposeído» (leípetai): carencia continua",
+   "contenido": "Leípetai significa literalmente «estar desposeído, destituido o deficiente»; su raíz se usaba en el lenguaje comercial para la falta de fondos. Es presente indicativo, voz pasiva: una situación continua y real. Paráfrasis: «Si alguno de vosotros se encuentra en una situación continua de deficiencia de sabiduría».",
+   "griego": {
+    "palabra": "leípetai",
+    "transliteracion": "leípetai",
+    "significado": "estar desposeído, destituido o deficiente; término comercial para la carencia de fondos"
+   },
+   "pagina": "carballosa | PÁGINA PDF 93",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5",
+   "tipo": "griego_palabra",
+   "titulo": "Sabiduría (sophía), no conocimiento (gnósis)",
+   "contenido": "Santiago habla de falta de sabiduría (sophías), no de conocimiento (gnósis). Citando a otro autor, el cristiano necesita una sabiduría diferente: una percepción espiritual que lo libre de las fatuidades del hombre inconverso. Para Moffatt, sabiduría es la percepción que permite al cristiano comprender, practicar y promover la vida religiosa acorde con la ley de Dios.",
+   "cita": "Sabiduría, a través de esta homilía, es la percepción que permite a un cristiano comprender, practicar y promover la vida religiosa que está en armonía con la ley de Dios.",
+   "griego": {
+    "palabra": "sophía",
+    "transliteracion": "sophía",
+    "significado": "sabiduría: percepción espiritual, distinta de gnósis (conocimiento)"
+   },
+   "pagina": "carballosa | PÁGINA PDF 93",
+   "importancia": 3
+  },
+  {
+   "ref": "1:5",
+   "tipo": "conexion_biblica",
+   "titulo": "Job 28:12 y Colosenses 2:3: dónde se halla la sabiduría",
+   "contenido": "La pregunta de Job, «¿dónde se hallará sabiduría?» (Job 28:12), queda contestada con la exhortación de Santiago. Pablo afirma que en Cristo están escondidos todos los tesoros de la sabiduría y del conocimiento (Col 2:3). Por valiosos que sean los años de entrenamiento y el conocimiento del siervo de Dios, más importante es poseer la sabiduría que viene del cielo.",
+   "refs_biblicas": [
+    "Job 28:12",
+    "Col 2:3"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 93",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5",
+   "tipo": "explicacion_texto",
+   "titulo": "«Pídala»: persistir en pedir",
+   "contenido": "Cuando uno se siente desposeído de sabiduría, el camino es pedirla a Dios. El verbo está en presente imperativo activo: «que continúe pidiendo», «que persista en pedir». La acción de pedir implica un acto de gracia: se relaciona con algo que se da, no con algo que se hace.",
+   "pagina": "carballosa | PÁGINA PDF 93",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«A Dios, el que da» (toû didóntos): dos lecturas del participio",
+   "contenido": "La frase «a Dios» va acompañada de un participio, toû didóntos. Algunos lo toman como sustantivo y traducen «pida al Dador, a saber, Dios»; otros como atributivo, para subrayar que dar es una característica inherente a Dios: «Pida a Dios, quien continuamente da».",
+   "griego": {
+    "palabra": "toû didóntos",
+    "transliteracion": "toû didóntos",
+    "significado": "«el que da»: participio sustantivado («el Dador») o atributivo («quien continuamente da»)"
+   },
+   "postura": "Presenta las dos lecturas (sustantivo y atributivo) sin declarar expresamente cuál prefiere.",
+   "pagina": "carballosa | PÁGINA PDF 94",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5",
+   "tipo": "teologia_doctrina",
+   "titulo": "Dios da «a todos»: gracia común y bendición a sus hijos",
+   "contenido": "Dios da «a todos» (pâsin). La gracia común hace salir su sol para todos y que, cuando llueve, buenos y malos se beneficien; y las bendiciones a sus hijos, los justificados por la fe en Cristo, no se limitan a unos pocos privilegiados. El creyente debe admitir su falta de sabiduría y pedirla al Padre bondadoso, que da al que pide con humildad y sinceridad.",
+   "pagina": "carballosa | PÁGINA PDF 94",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5",
+   "tipo": "griego_palabra",
+   "titulo": "Dios da «con liberalidad» (haplôs) y «sin reproche»",
+   "contenido": "Haplôs es un adverbio que describe cómo da Dios: con liberalidad, generosa y abundantemente; también connota dar desinteresadamente, y ambos conceptos valen para Dios. Además da «sin reproche»: es un participio presente de oneidízo («censurar», «reprender») con negación; Dios no da lo pedido para luego reprochar la petición.",
+   "cita": "no nos da lo que le pedimos para luego reprocharnos por la petición",
+   "griego": {
+    "palabra": "haplôs",
+    "transliteracion": "haplôs",
+    "significado": "con liberalidad, generosa y desinteresadamente; junto a mé oneidízo, «sin reproche»"
+   },
+   "pagina": "carballosa | PÁGINA PDF 94",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5",
+   "tipo": "eco_de_jesus",
+   "titulo": "«Y le será dada»: promesa segura (Mt 7:7)",
+   "contenido": "El versículo termina con una promesa: «Y le será dada» (kaì dothésetai autoí). El verbo dídomi está en voz pasiva (el sujeto recibe la acción) e indicativo. La idea es que Dios cumplirá su promesa de dar al que pide de Él (Mt 7:7); el texto indica absoluta certeza de que la petición será contestada.",
+   "refs_biblicas": [
+    "Mt 7:7"
+   ],
+   "griego": {
+    "palabra": "dothésetai",
+    "transliteracion": "dothésetai",
+    "significado": "«será dada» (de dídomi): voz pasiva, indicativo; certeza de la respuesta"
+   },
+   "pagina": "carballosa | PÁGINA PDF 94",
+   "importancia": 3
+  },
+  {
+   "ref": "1:6",
+   "tipo": "explicacion_texto",
+   "titulo": "«Pida con fe, no dudando nada»: la fe, condición de la oración",
+   "contenido": "Bajo el subtítulo «La fe viva es necesaria en la oración para que la petición sea efectiva (1:6-8)», el autor afirma que un requisito bíblico de la oración eficaz es la fe genuina. El presente imperativo de «pida» sugiere que es la demanda divina, y «con fe» (dativo instrumental) la vuelve condición esencial. «No dudando nada» enfatiza el «con fe»: orar así es hacerlo con la confianza de que Dios va a responder.",
+   "griego": {
+    "palabra": "en pístei",
+    "transliteracion": "en pístei",
+    "significado": "«con fe»: dativo instrumental; la fe es condición esencial de la oración"
+   },
+   "pagina": "carballosa | PÁGINA PDF 95",
+   "importancia": 3
+  },
+  {
+   "ref": "1:6",
+   "tipo": "teologia_doctrina",
+   "titulo": "La fe al orar: dependencia total de Dios revelado en Cristo",
+   "contenido": "Carballosa recoge una definición de la «fe» que Santiago exige al orar: no basta asentir a una doctrina; es una actitud de entrega plena y de dependencia de Dios tal como se ha revelado en Cristo Jesús.",
+   "cita": "no es meramente una afirmación doctrinal a la que uno puede adherirse, sino más bien esa actitud total de un compromiso pleno e insoslayable de una dependencia en Dios, tal como se ha revelado en Cristo Jesús",
+   "pagina": "carballosa | PÁGINA PDF 95",
+   "importancia": 2
+  },
+  {
+   "ref": "1:6",
+   "tipo": "griego_palabra",
+   "titulo": "«El que duda» (ho diakrinómenos)",
+   "contenido": "El participio masculino con artículo señala el aspecto personal: «el hombre o la persona que duda». Diakríno significa «separar», «dividir», «juzgar» y también «estar en desacuerdo con uno mismo», «dudar», «vacilar»; Santiago lo usa en este último sentido. El presente sugiere un estado continuo de duda o vacilación.",
+   "griego": {
+    "palabra": "diakrinómenos",
+    "transliteracion": "diakrinómenos",
+    "significado": "el que duda (de diakríno: separar, dividir, juzgar; estar en desacuerdo con uno mismo, dudar, vacilar)"
+   },
+   "pagina": "carballosa | PÁGINA PDF 95",
+   "importancia": 3
+  },
+  {
+   "ref": "1:6",
+   "tipo": "ilustracion",
+   "titulo": "El que duda es como el oleaje del mar",
+   "contenido": "El que duda es «semejante a la onda del mar». El original habla no de una ola sino del oleaje, una sucesión de olas, y «es semejante» está en perfecto, que subraya una semejanza continua. Se destaca la inconstancia del carácter del que duda: el oleaje no se controla a sí mismo; su dirección y su fuerza dependen del viento que lo bate.",
+   "griego": {
+    "palabra": "klýdoni thalásseis",
+    "transliteracion": "klýdoni thalásseis",
+    "significado": "oleaje del mar: sucesión de olas"
+   },
+   "pagina": "carballosa | PÁGINA PDF 95",
+   "importancia": 2
+  },
+  {
+   "ref": "1:6",
+   "tipo": "griego_palabra",
+   "titulo": "«Arrastrada por el viento y echada de una parte a otra»",
+   "contenido": "La frase final del v. 6 se expresa en el original con solo tres palabras (anemizoméno kaì ripizoméno). Los dos participios están en presente, lo que marca acción continua, y en voz pasiva, lo que señala el control del viento sobre las olas. Así, quien duda es controlado por su duda, nunca al contrario.",
+   "cita": "el que duda es controlado por su duda. Nunca es al contrario.",
+   "griego": {
+    "palabra": "anemizoméno kaì ripizoméno",
+    "transliteracion": "anemizoméno kaì ripizoméno",
+    "significado": "«arrastrada por el viento y echada de una parte a otra»; participios presentes en voz pasiva"
+   },
+   "pagina": "carballosa | PÁGINA PDF 96",
+   "importancia": 2
+  },
+  {
+   "ref": "1:7",
+   "tipo": "griego_palabra",
+   "titulo": "«No piense, pues, quien tal haga» (oiéstho)",
+   "contenido": "El v. 7 da una segunda razón para pedir con fe; «pues» (gàr) introduce la razón. «Piense» (oiéstho), presente imperativo de oíomai («pensar», «suponer», «esperar»), expresa un juicio subjetivo; con la negación equivale a dejar de hacer lo que ya se hace: «Cese tal hombre de imaginarse que…». «Quien tal haga» es más enfático: literalmente «el hombre ese», casi señalado con el dedo.",
+   "griego": {
+    "palabra": "oiéstho",
+    "transliteracion": "oiéstho",
+    "significado": "piense (de oíomai: pensar, suponer, esperar); con negación, «cese de imaginarse»"
+   },
+   "pagina": "carballosa | PÁGINA PDF 96",
+   "importancia": 2
+  },
+  {
+   "ref": "1:7",
+   "tipo": "explicacion_texto",
+   "titulo": "Quien pide dudando no recibirá lo pedido",
+   "contenido": "La confianza en Dios es requisito indispensable de la oración eficaz: quien pide dudando no tiene derecho a pensar que recibirá «cosa alguna» del Señor, es decir, nada de lo que pidió así. El verbo «recibirá» (futuro indicativo de lambáno) indica la realidad de que quien pide sin fe no recibe lo pedido. «Del Señor» (pará kyríou) señala la fuente de procedencia (caso ablativo).",
+   "griego": {
+    "palabra": "pará kyríou",
+    "transliteracion": "pará kyríou",
+    "significado": "«del Señor»: fuente de procedencia (caso ablativo)"
+   },
+   "pagina": "carballosa | PÁGINA PDF 96",
+   "importancia": 2
+  },
+  {
+   "ref": "1:7",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«El Señor» del v. 7: ¿Cristo o Dios Padre?",
+   "contenido": "Algunos expositores creen que la frase «del Señor» se refiere a Cristo. Carballosa considera más correcto que sea una referencia a Dios el Padre, a quien en el v. 5 se le llama «Dios, quien da».",
+   "postura": "Prefiere que «el Señor» sea Dios el Padre y no Cristo.",
+   "pagina": "carballosa | PÁGINA PDF 96",
+   "importancia": 2
+  },
+  {
+   "ref": "1:8",
+   "tipo": "griego_palabra",
+   "titulo": "«Hombre de doble ánimo» (anér dípsychos): «dos almas»",
+   "contenido": "El v. 8 resume la descripción del que duda: «hombre de doble ánimo» (anér dípsychos). Anér designa específicamente al varón (en contraste con ánthropos, ser humano); dípsychos une dis (doble) y psychéi (alma): literalmente «dos almas». Aparece solo dos veces en el NT (Stg 1:8 y 4:8) y no se halla en ninguna obra secular ni religiosa anterior, por lo que Santiago pudo acuñarlo.",
+   "refs_biblicas": [
+    "Stg 4:8"
+   ],
+   "griego": {
+    "palabra": "dípsychos",
+    "transliteracion": "dípsychos",
+    "significado": "de doble ánimo, literalmente «dos almas» (dis + psychéi); solo en Stg 1:8 y 4:8, posible neologismo"
+   },
+   "pagina": "carballosa | PÁGINA PDF 96",
+   "importancia": 3
+  },
+  {
+   "ref": "1:8",
+   "tipo": "ilustracion",
+   "titulo": "Una «guerra civil ambulante» (Hiebert)",
+   "contenido": "D. Edmond Hiebert, citado por Carballosa, describe al hombre de dos almas como alguien que actúa como si dos personalidades en conflicto perpetuo vivieran en su cuerpo: una mira a Dios y otra al mundo; una cree y otra duda. Lo compara con «el señor mira-a-ambos-lados» de Bunyan y con el jinete mitológico que cabalgó en dos direcciones a la vez.",
+   "cita": "Tal persona es una guerra civil ambulante, en la que confiar y desconfiar en Dios están en guerra continua uno contra otro.",
+   "pagina": "carballosa | PÁGINA PDF 97",
+   "importancia": 2
+  },
+  {
+   "ref": "1:8",
+   "tipo": "griego_palabra",
+   "titulo": "«Inconstante» (akatástatos) en todos sus caminos",
+   "contenido": "Akatástatos es un adjetivo doblemente compuesto: a (no, sin) + katá (hacia abajo) + hístemi (colocar, establecer). Significa «carecer de fundamento», «ser irresoluto», «tambalearse como un borracho», de carácter voluble. El hombre de doble ánimo es inconstante no solo al orar sino en «todos sus caminos» (en pásais taîs hoîs autoû), es decir, en todas las demás actividades de su vida.",
+   "griego": {
+    "palabra": "akatástatos",
+    "transliteracion": "akatástatos",
+    "significado": "inconstante: carecer de fundamento, irresoluto, tambalearse como un borracho (a + katá + hístemi)"
+   },
+   "pagina": "carballosa | PÁGINA PDF 97",
+   "importancia": 3
+  },
+  {
+   "ref": "1:9-11",
+   "tipo": "explicacion_texto",
+   "titulo": "Pobres y ricos ante las pruebas: lo que importa es la actitud",
+   "contenido": "Bajo el título «La fe viva, tanto en el pobre como en el rico, produce una actitud correcta frente a las pruebas (1:9-11)», el autor señala que las pruebas pueden afectar a creyentes pobres y ricos, y que lo importante es la actitud con que las enfrentan. El v. 9 se enlaza con lo anterior por la partícula dé, que no aparece en la Reina-Valera y que se repite en el v. 10; la traducción debe respetarla.",
+   "griego": {
+    "palabra": "dé",
+    "transliteracion": "dé",
+    "significado": "partícula transicional («pero»), ausente en la Reina-Valera; aparece en los vv. 9 y 10"
+   },
+   "pagina": "carballosa | PÁGINA PDF 97",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "explicacion_texto",
+   "titulo": "«El hermano pobre»: la pobreza material como prueba",
+   "contenido": "La conjunción «pero» (dé) probablemente conecta este pasaje con la discusión iniciada en el v. 2. «El hermano pobre» (en la Reina-Valera, «el hermano que es de humilde condición») parece referirse a la condición externa, la pobreza material. El artículo definido sugiere que quizá una de las pruebas difíciles de algunos era precisamente esa pobreza.",
+   "pagina": "carballosa | PÁGINA PDF 98",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "contexto_historico",
+   "titulo": "Ricos que discriminaban a los pobres",
+   "contenido": "Es muy posible que los creyentes ricos discriminaran a los pobres, lo que producía frustración y desánimo en estos. Carballosa cita a A. T. Robertson: ya entonces ricos y pobres en las iglesias hallaban ocasiones de mostrar sus celos.",
+   "cita": "Ya entonces los ricos y los pobres en las iglesias hallaban ocasiones para mostrar sus celos",
+   "pagina": "carballosa | PÁGINA PDF 98",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "griego_palabra",
+   "titulo": "«Gloríese» (kauchástho) en su exaltación",
+   "contenido": "Santiago no habla del hermano pobre con palabras de lástima: lo exhorta a «gloriarse» (kauchástho) en su exaltación o estado elevado (en toî hýpsei autoû). Kauchéomai a veces tiene sentido negativo («vanagloriarse»), pero en el NT lo común es el positivo. El presente sugiere continuidad, y la voz media, que el sujeto se beneficia de la acción.",
+   "griego": {
+    "palabra": "kauchástho",
+    "transliteracion": "kauchástho",
+    "significado": "gloríese, que se gloríe (de kauchéomai); presente imperativo, voz media; sentido positivo en la mayoría de los usos del NT"
+   },
+   "pagina": "carballosa | PÁGINA PDF 98",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "cristo_en_santiago",
+   "titulo": "El pobre es exaltado por estar «en Cristo»",
+   "contenido": "Según el autor, es evidente que Santiago contrasta la pobreza material del hermano con la riqueza espiritual que posee por el hecho de hallarse «en Cristo»; ese es el estado elevado en el que se le invita a gloriarse.",
+   "pagina": "carballosa | PÁGINA PDF 98",
+   "importancia": 3
+  },
+  {
+   "ref": "1:10",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Quién es «el rico» (ho ploúsios)?",
+   "contenido": "Algunos sostienen que el rico es un inconverso; otros, que es un creyente («parece razonablemente cierto que este hombre rico es un hermano en Cristo»). Carballosa razona que, si Santiago contrasta y el pobre es creyente, lo más razonable es que el contraste sea entre la actitud de un creyente pobre y la de un creyente rico ante las circunstancias de su vida aquí en la tierra.",
+   "griego": {
+    "palabra": "ho ploúsios",
+    "transliteracion": "ho ploúsios",
+    "significado": "el rico"
+   },
+   "postura": "Considera que el rico es un creyente, por el contraste con el hermano pobre, que también lo es.",
+   "pagina": "carballosa | PÁGINA PDF 98",
+   "importancia": 3
+  },
+  {
+   "ref": "1:10",
+   "tipo": "explicacion_texto",
+   "titulo": "Por qué el rico necesita el recordatorio: el falso sentido de seguridad",
+   "contenido": "El creyente rico es exhortado a gloriarse en su humillación porque las riquezas podrían ser un peligro en su vida. Según Barclay, citado por el autor, el cristianismo da al rico un sentido nuevo de humildad, pues la riqueza lo lleva a creerse seguro: piensa poder comprarlo todo y pagar para eludir cualquier situación desagradable.",
+   "cita": "El gran peligro de las riquezas es que tienden a dar al hombre un falso sentido de seguridad.",
+   "pagina": "carballosa | PÁGINA PDF 99",
+   "importancia": 3
+  },
+  {
+   "ref": "1:10",
+   "tipo": "teologia_doctrina",
+   "titulo": "La Biblia no condena la riqueza sino la avaricia",
+   "contenido": "La Biblia no condena al rico como persona ni la riqueza. Hubo hombres ricos que sirvieron al Señor, como José de Arimatea y Bernabé, y Pablo reconoció a «los ricos» en la iglesia que pastoreaba Timoteo (1 Ti 6:17, 19). Lo que sí condena es la avaricia: el deseo desenfrenado de poseer más bienes materiales con fines meramente egoístas.",
+   "refs_biblicas": [
+    "1 Ti 6:17",
+    "1 Ti 6:19"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 99",
+   "importancia": 3
+  },
+  {
+   "ref": "1:9-10",
+   "tipo": "explicacion_texto",
+   "titulo": "Pobre y rico, dos formas de doble ánimo",
+   "contenido": "En el contexto inmediato, Santiago enseña contra la inconstancia, la falta de fe y el doble ánimo. El creyente pobre puede dividir su mente: decir que confía en Dios y a la vez excusarse en su pobreza para no servir como quisiera. El rico puede estar tan cegado por sus riquezas que confíe en ellas más que en Dios; por eso se le recuerda que se regocije en su humillación.",
+   "pagina": "carballosa | PÁGINA PDF 99",
+   "importancia": 3
+  },
+  {
+   "ref": "1:10",
+   "tipo": "cristo_en_santiago",
+   "titulo": "Ante la cruz, rico y pobre tienen el mismo valor",
+   "contenido": "Es muy posible que Santiago quisiera recordar al rico que, si antes medía el valor de las cosas por sus riquezas, ya no debe hacerlo: el nuevo criterio debe relacionarse con la persona de Cristo y su obra expiatoria en la cruz. Junto a la cruz, rico y pobre alcanzan la misma estatura y valor.",
+   "cita": "Cuando un rico y un pobre se paran junto a la cruz de Cristo, ambos alcanzan la misma estatura y el mismo valor.",
+   "pagina": "carballosa | PÁGINA PDF 99",
+   "importancia": 3
+  },
+  {
+   "ref": "1:10-11",
+   "tipo": "conexion_biblica",
+   "titulo": "«Como la flor de la hierba»: la fugacidad de la vida (Is 40:7)",
+   "contenido": "Santiago explica con una metáfora por qué el creyente rico debe gloriarse en su humillación: «Porque él pasará como la flor de la hierba» (v. 10b). El concepto viene del Antiguo Testamento (Is 40:7) y expresa la verdad de la vida: la vida del rico es tan transitoria como una flor.",
+   "refs_biblicas": [
+    "Is 40:7"
+   ],
+   "pagina": "carballosa | PÁGINA PDF 99",
+   "importancia": 3
+  }
+ ],
+ "problemas": "En la p. 90 el texto dice «gozo completó» (errata por «completo»); se leyó «gozo completo». En la p. 93 el texto dice «el exhortación» (errata de redacción por «la exhortación»); no afecta el sentido. En la p. 94 el texto da «reconvertir» como tercer sentido de oneidízo (probable errata de «reconvenir»); se omitió y se dejó «censurar», «reprender». El bloque termina a mitad de oración en la p. 99 («tan transitoria como una flor de la…»); la última nota recoge solo lo que figura."
+}

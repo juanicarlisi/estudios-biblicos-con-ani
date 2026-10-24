@@ -26,8 +26,26 @@ mapas, diagramas y gráficos en la misma página, enlaces a anexos.
 - 162 bloques de lectura: 107 de los comentarios de la biblioteca (MacArthur, Kistemaker, Carballosa, Elizabeth George, Mundo Hispano, Beacon, Biblia de Estudio MacArthur,
   Diccionario Bíblico Mundo Hispano), 40 de REFERENCIA3 (`r1_` = tramos completos con mucha señal; `r2_` = ventanas alrededor de las citas) y 15 «puentes» (ver punto 2 de «Falta»).
   La lista en orden está en `plan/cola_extraccion.txt`; `plan/bloques_manifest.json` guarda el sha1 de cada bloque.
-- MacArthur (27 bloques) está completo. Faltan Carballosa, Elizabeth George, Mundo Hispano (casi todo), Beacon, Biblia de Estudio MacArthur, Diccionario, el resto de REFERENCIA3 y los puentes
-  (`python3 scripts/pendientes.py` los lista).
+- **Al 24-10-2026: 67 de 162 bloques extraídos, 2.844 notas** (2.346 de la biblioteca y 498 de REFERENCIA3):
+
+  | Obra | Bloques extraídos |
+  |---|---|
+  | MacArthur (comentario) | 27 de 27 ✔ |
+  | Kistemaker | 18 de 18 ✔ |
+  | Carballosa | 7 de 24 (`carballosa_01` a `07`) |
+  | Mundo Hispano (CBMH) | 1 de 16 (`cbmh_01`) |
+  | Elizabeth George | 0 de 6 |
+  | Beacon | 0 de 6 |
+  | Biblia de Estudio MacArthur | 0 de 3 |
+  | Diccionario Bíblico Mundo Hispano | 0 de 7 |
+  | REFERENCIA3 `r1_` (tramos completos) | 7 de 7 ✔ |
+  | REFERENCIA3 `r2_` (ventanas) | 7 de 33 (`r2_001` a `007`) |
+  | Puentes | 0 de 15 |
+
+  Lo que falta lo lista `python3 scripts/pendientes.py`.
+- **Auditoría de fidelidad** (`scripts/auditar_fidelidad.py`, sobre las 2.844 notas): cobertura mediana de palabras contra la página citada, 0,89 (biblioteca) y 0,87 (REFERENCIA3). Solo 3 notas bajo 0,35, todas
+  bosquejos o pasajes breves cuyas palabras el autor cambió; las 12 notas con números que la página no trae se revisaron: todos los números estaban escritos con letras en el libro (por ejemplo «doscientas treinta palabras»).
+  Una errata del libro (CBMH imprime «Massebiau (1985)») quedó anotada en la nota en vez de «corregirla» en silencio. Un detalle menor para revisar si se usa: `r1_004#14` dice «Salmo 119», que viene del contexto del capítulo y no de la página.
 - Método: un agente por bloque (máximo 20 a la vez), con las instrucciones de `scripts/prompts/extraer_biblio.md` (comentarios) o `barrer_ref3.md` (REFERENCIA3); cada uno escribe sus notas en
   tandas, las une con `scripts/unir_partes.py` y las valida con `scripts/validar_extraccion.py`. `pendientes.py --prompt ID` imprime el prompt exacto de un bloque.
 - Cada nota lleva su página; los ids de nota son `bloque#n` (por ejemplo `macarthur_05#12`) y **son estables mientras no se vuelva a extraer ese bloque**.
@@ -51,8 +69,10 @@ mapas, diagramas y gráficos en la misma página, enlaces a anexos.
 
 ## El día de prueba (calibración)
 
-Con el plan provisional se lanzó un agente escritor para el día 2 (Santiago 1:2–4, 129 notas de insumo). Su borrador, si terminó, está en `dias/borrador_02.json`; sirve para ver cuánto del material cabe en 20 a 30 minutos y
-ajustar T en `plan_auto.py`. No es un día definitivo. Antes de armar el plan real, borrar `dias/borrador_02.json`.
+Con el plan provisional se lanzó un agente escritor para el día 2 (Santiago 1:2–4, 129 notas de insumo; peso de material ≈ 5.000 palabras ponderadas). Su borrador está en `dias/borrador_02.json` (pasa `validar.py`)
+y sirve para calibrar: el primer intento dio 3.900 palabras de cuerpo principal y el definitivo 3.200, por encima del objetivo (2.000 a 3.000). **Conclusión: un día de ~5.000 de peso ya es demasiado; usar
+`plan_auto.py --T 3500` (un día admite hasta 1,3·T ≈ 4.550) y, si hace falta, sumar días a los tramos más densos.** No es un día definitivo: antes de armar el plan real, borrar `dias/borrador_02.json`.
+El agente escritor tardó unos 16 minutos con un insumo de 60.000 caracteres (leyó antes ejemplos de Génesis y los scripts); si se repite a escala, conviene darle el esquema en el prompt para que no explore.
 
 ## Cómo retomar en una sesión nueva (el texto de los libros vive fuera del repositorio)
 

@@ -13,6 +13,21 @@ sys.path.insert(0, f'{V}/scripts')
 from grupos_entrada import notas  # noqa: E402
 
 
+def parecidos(plan, det, grupos, k=3, umbral=0.13):
+    """Para cada día, los días de OTRAS partes más parecidos (TF-IDF de título, objetivo, contenido y temas de sus grupos)."""
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from grupos_entrada import VACIAS
+    ds = [p['dia'] for p in plan]
+    txt = [' '.join([det[d]['titulo'], det[d]['objetivo'], det[d].get('contenido', '')] + [grupos[g]['tema'] for g in det[d]['grupos']]) for d in ds]
+    X = TfidfVectorizer(stop_words=list(VACIAS), sublinear_tf=True, min_df=2).fit_transform(txt)
+    S = (X @ X.T).toarray()
+    out = {}
+    for i, d in enumerate(ds):
+        cand = [(S[i, j], ds[j]) for j in range(len(ds)) if det[ds[j]]['parte'] != det[d]['parte'] and S[i, j] >= umbral]
+        out[d] = [e for _, e in sorted(cand, reverse=True)[:k]]
+    return out
+
+
 def main():
     plan = json.load(open(f'{V}/plan/plan.json'))
     partes = {p['id']: p for p in json.load(open(f'{V}/plan/partes.json'))}
@@ -23,6 +38,7 @@ def main():
     todas = dict(notas())
     citas = json.load(open(f'{V}/revision/citas.json')) if os.path.exists(f'{V}/revision/citas.json') else {}
     total = len(plan)
+    relacionados = parecidos(plan, det, grupos)
     pedidos = [int(x) for x in sys.argv[1:]] or [p['dia'] for p in plan]
     os.makedirs(f'{V}/insumos', exist_ok=True)
     tams = []
@@ -38,6 +54,11 @@ def main():
             cab.append(f"- Día {p['dia']}: {p['titulo']}{extra}{marca}")
         if d > 1 and plan[d - 2]['parte'] != x['parte']:
             cab.append(f"(El día anterior, {d - 1}, cerró la parte previa: «{plan[d - 2]['titulo']}».)")
+        if x.get('enfoque'):
+            cab += ['', '## ENFOQUE PROPIO DE ESTE DÍA (lo pidió la revisión del plan)'] + [f'- {e}' for e in x['enfoque']]
+        if relacionados.get(d):
+            cab += ['', '## DÍAS PARECIDOS EN OTRAS PARTES (no repitas lo que enseñan; si hace falta, remití: «como viste el día N» o «lo vas a ver el día N»)']
+            cab += [f"- Día {r}: {det[r]['titulo']} — {det[r]['objetivo']}" for r in relacionados[d]]
 
         def bloque_notas(nivel):
             out = ['', '## NOTAS (agrupadas por tema)']

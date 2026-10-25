@@ -84,6 +84,14 @@ def main():
         else:
             lw.append(f"{wid} | artículo | {w['tema']} | «{w['titulo']}» de {w['autor']} ({w['sitio']}) | ideas: {' / '.join(w['ideas_clave'][:3])}")
     open(f'{V}/plan/planear/_web.txt', 'w').write('\n'.join(lw) + '\n')
+    # versión corta para las partes donde los datos son complemento
+    lc = []
+    for wid, w in web.items():
+        if w['clase'] == 'dato':
+            lc.append(f"{wid} | dato | {w['tema']} | {w['valor'][:110]} | {w['indicador'][:110]} | {w['ambito']} | {w['anio']}")
+        else:
+            lc.append(f"{wid} | artículo | {w['tema']} | «{w['titulo']}» de {w['autor']} ({w['etiqueta']})")
+    open(f'{V}/plan/planear/_web_corto.txt', 'w').write('\n'.join(lc) + '\n')
     print(f'grupos: {len(grupos)} | notas fuera: {fuera_n} | sueltas: {sueltas} | tandas sin resultado: {faltan_tandas}')
     print('grupos por sección:', {s: len(v) for s, v in sorted(por.items())})
 

@@ -21,3 +21,10 @@
   - resto 9: wf_1c8b0c8d-ce4 · resto 10: wf_ed5d8823-424 · resto 11: wf_09b838f1-97c · resto 12: wf_92eed452-8c4
 - 23-10: los 18 bloques que cortó el límite de uso, en 9 corridas de a 2: wf_5e801c7a-4eb wf_777a3475-915 wf_69cf83c8-a58 wf_d5fa62bc-798 wf_e0af705b-a0a wf_8942daec-903 wf_75bdce08-763 wf_dfb8dc72-b9c wf_5c6f8ce9-950
 - Agrupar (81 tandas, 23.976 notas, en 10 corridas): wf_1db2877c-f60 wf_a6e50eb3-09a wf_a0c2184f-c40 wf_0a29ca48-f29 wf_f2d67b7f-4a8 wf_9e8cbf87-102 wf_560b492e-727 wf_52ec0265-d42 wf_22344b01-ec8 wf_2fec1895-f52
+- Planear (17 partes, en 9 corridas): wf_d267cac3-36a (C,N) wf_483f734f-106 (G,M) wf_72a0a07f-bc9 (H,O) wf_1dcab966-a70 (D,A) wf_bc3053fb-4ae (I,B) wf_786e9cf1-cbd (Q,J) wf_d1c1751b-bef (F,L) wf_5c085a43-a2b (P,K) wf_98af9f74-c5d (E)
+- Revisar plan (544 días; un editor por parte + superposición y huecos del conjunto): wf_6c9d1972-04a (global,M,N) wf_09ac2c3b-8b9 (C,A,B) wf_c26ac85a-69d (G,O,J) wf_d1977d4a-562 (H,L,K) wf_c7f17841-b4b (D,P,E) wf_15728d63-205 (I,Q,F)
+- Revisión del plan, ronda 1 aplicada: 544 → 512 días (plan/plan_v2.json). Mapa de días en plan/revision/mapa_v1_v2.json.
+- Ronda 2 (proponer): wf_601380aa-c39 (lecturas, adulto) wf_87880155-b0c wf_d63b6aa0-e14 wf_c9b60f6e-60f wf_cae99ef0-66e wf_d635f605-603 wf_6ea0471a-d75 wf_42fd58c0-f0a wf_4bc3daec-080 (resolver notas 0-30)
+- Ronda 2 (verificar por lotes): wf_4ea996fe-10e (estructura, enfoques_1) wf_c0357d7d-8f1 (lecturas, enfoques_2) wf_ee754a01-c5c (enfoques_3, enfoques_4) wf_75103865-795 (enfoques_5, enfoques_6)
+- 25-10: ronda 2 verificada en 3 de 4 corridas (wf_4ea996fe-10e, wf_ee754a01-c5c, wf_75103865-795). Falta wf_c0357d7d-8f1 (lecturas, enfoques_2).
+  Para seguir: python3 scripts/aplicar_ronda2.py aplicar wf_4ea996fe-10e wf_c0357d7d-8f1 wf_ee754a01-c5c wf_75103865-795 → insumos.py → escribir (wf_varon_escribir.js).

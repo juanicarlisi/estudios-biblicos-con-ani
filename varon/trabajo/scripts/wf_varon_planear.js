@@ -44,7 +44,7 @@ Te toca diseñar los días de la PARTE ${PARTES[s][0]}: ${PARTES[s][1]}.
 
 Leé con Read (allow_large: true):
 1. /home/user/trabajo/varon/plan/planear/${s}.txt: los grupos temáticos de notas de esta parte, uno por línea: clave | cuántas notas (cuántas de importancia 3) | tema | resumen | versículos | autores | personas | tipos de nota.
-2. /home/user/trabajo/varon/plan/planear/_web.txt: datos estadísticos verificados (con año y fuente) y artículos de sitios cristianos confiables, con id W.
+2. /home/user/trabajo/varon/plan/planear/${s === 'A' ? '_web.txt' : '_web_corto.txt'}: datos estadísticos verificados (con año y fuente) y artículos de sitios cristianos confiables, con id W.
 Después devolvé el plan con la herramienta de salida estructurada. No uses otras herramientas.
 
 Cómo diseñar los días:

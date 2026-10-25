@@ -1,0 +1,843 @@
+{
+"grupos": [
+{
+"tema": "El llamamiento al ministerio: interno y externo, don y oficio, y quién puede ocupar el oficio",
+"resumen": "El llamamiento tiene un aspecto interno (anhelo, motivación, dones, señales providenciales) y uno externo (el reconocimiento de la iglesia); don y oficio van unidos, solo el Espíritu hace un líder, Dios busca un hombre dispuesto y el oficio de anciano/pastor está reservado a varones.",
+"refs": [
+"Heb 5:4",
+"Hch 1:15-26",
+"Hch 6:2-6",
+"1 Ti 3:1-13",
+"Ez 22:30"
+],
+"ids": [
+"b_359#36",
+"b_365#2",
+"b_377#5",
+"b_409#47",
+"b_412#46",
+"b_412#48"
+]
+},
+{
+"tema": "Servir sin esperar título ni cargo: el ministerio de todo creyente, en el trabajo y desde la casa",
+"resumen": "El ministerio bíblico no se reduce a títulos, ordenación o seminario: el líder cristiano sirve en lugar de esperar ser servido, ministra en su trabajo y en su casa mientras se prepara, y la participación en el servicio supone fe probada.",
+"refs": [
+"2 Co 4:7",
+"1 Co 12:4-6"
+],
+"ids": [
+"b_334#40",
+"b_334#39",
+"b_080#6",
+"b_290#18",
+"b_316#16"
+]
+},
+{
+"tema": "Ordenar y nombrar líderes: imposición de manos, reconocimiento de la iglesia y examen sin precipitación",
+"resumen": "Nadie entra al ministerio por su solo deseo: la iglesia examina, reconoce y aparta con imposición de manos a quienes cumplen 1 Ti 3, sin ligereza (1 Ti 5:22), sin transmitir poder místico y sin nombrar líderes dudosos en doctrina; el pastor lo es para una iglesia concreta.",
+"refs": [
+"1 Ti 4:14",
+"1 Ti 5:22",
+"Hch 13:2",
+"Hch 14:23",
+"Tit 1:5"
+],
+"ids": [
+"b_373#53",
+"b_377#6",
+"b_412#55",
+"b_414#8",
+"b_417#6",
+"b_422#11",
+"b_427#21",
+"b_428#23",
+"b_305#21",
+"b_306#4",
+"b_302#24"
+]
+},
+{
+"tema": "Ancianos y diáconos: tabla de requisitos, las cuatro pruebas y la función del diácono",
+"resumen": "Comparación de los requisitos de 1 Ti 3 y Tito 1 (conducta, capacidades, credo y compromiso) y qué se sabe de los diáconos: los siete de Hechos 6, su duración y ordenación, y su función de servicio sin gobierno ni enseñanza.",
+"refs": [
+"1 Ti 3:1-13",
+"Tit 1:5-9",
+"Hch 6:1-6",
+"Fil 1:1"
+],
+"ids": [
+"b_374#12",
+"b_192#12",
+"b_396#2",
+"b_416#53",
+"b_362#7"
+]
+},
+{
+"tema": "«Marido de una sola mujer»: fidelidad conyugal como requisito del anciano y el diácono",
+"resumen": "Las distintas lecturas de la frase (poligamia, divorcio y nuevo casamiento, fidelidad) y por qué la exigencia central es la fidelidad matrimonial del líder.",
+"refs": [
+"1 Ti 3:2",
+"1 Ti 3:12",
+"Tit 1:6",
+"1 Ti 5:9"
+],
+"ids": [
+"b_292#9",
+"b_362#5",
+"b_371#24",
+"b_421#24",
+"b_423#39",
+"b_442#8"
+]
+},
+{
+"tema": "Hijos que creen y están sujetos: lo que Tito 1:6 y 1 Timoteo 3 piden del padre-anciano",
+"resumen": "El anciano debe tener hijos creyentes, sujetos y sin acusación de libertinaje ni insumisión; qué significa esto, qué no exige y cómo se aplica a quien no tiene hijos o no ve fruto.",
+"refs": [
+"Tit 1:6",
+"1 Ti 3:4-5"
+],
+"ids": [
+"b_179#12",
+"b_191#14",
+"b_425#23",
+"b_321#7"
+]
+},
+{
+"tema": "Gobernar bien la propia casa: la prueba de lo menor a lo mayor para dirigir la iglesia (1 Ti 3:4-5)",
+"resumen": "Quien no sabe presidir su casa no podrá cuidar la iglesia de Dios: la familia es la escuela y la prueba del liderazgo, y proistemi describe el gobierno del padre en el hogar y de los líderes en la iglesia.",
+"refs": [
+"1 Ti 3:4-5",
+"1 Ti 3:12",
+"1 Ti 3:2",
+"Tit 1:6",
+"1 Ti 5:8"
+],
+"ids": [
+"b_107#42",
+"b_125#26",
+"b_162#41",
+"b_192#21",
+"b_194#36",
+"b_301#35",
+"b_355#54",
+"b_371#25",
+"b_420#26",
+"b_422#23",
+"b_289#40",
+"b_398#28"
+]
+},
+{
+"tema": "La espiritualidad del líder se mide en el hogar: ni santo afuera ni demonio en casa",
+"resumen": "La vida hogareña ejemplar, y cómo trata el líder a su esposa e hijos cuando nadie lo ve, es la medida real de su espiritualidad; el liderazgo del hogar y el de la iglesia se reflejan mutuamente.",
+"refs": [
+"1 Ti 3:4-5",
+"1 Ti 5:17",
+"Tit 1:6",
+"1 Ti 5:1-2"
+],
+"ids": [
+"b_408#29",
+"b_413#14",
+"b_427#38",
+"b_362#13"
+]
+},
+{
+"tema": "Jefes de casa bíblicos: Abraham, Moisés, David y Cornelio gobiernan su casa ante Dios",
+"resumen": "Ejemplos bíblicos del cabeza de familia que cumple el mandato de Dios para toda su casa (circuncisión de Abraham, orden doméstico de Moisés, Salmo 101, Cornelio) y cómo cambia su representación espiritual en el Nuevo Testamento.",
+"refs": [
+"Gn 17:12-13",
+"Éx 4:24-26",
+"Sal 101:1-2",
+"Hch 10:1-2"
+],
+"ids": [
+"b_236#6",
+"b_345#15",
+"b_360#18",
+"b_356#17",
+"b_180#9"
+]
+},
+{
+"tema": "El padre como sacerdote del hogar: culto familiar, intercesión y enseñanza de la Palabra",
+"resumen": "El padre es embajador de Dios para su familia: dirige un culto familiar regular, intercede por cada uno, transmite la Palabra (Dt 6:5-7) y lidera a los suyos en la vida de una iglesia bíblica.",
+"refs": [
+"Dt 6:5-7",
+"1 Ti 2:1",
+"Job 1:5"
+],
+"ids": [
+"b_126#42",
+"b_168#3",
+"b_352#15",
+"o_026#25",
+"b_025#19"
+]
+},
+{
+"tema": "Ser primero el hombre espiritual: el padre que cree, discierne y dirige como cabeza de la familia",
+"resumen": "Para guiar a la familia el hombre debe ser dueño de su propia vida espiritual; cuando el padre es el primero en creer la familia suele seguirlo, y la jefatura exige discernir necesidades, tomar decisiones y ejercer influencia.",
+"refs": [
+"1 Ti 6:10-16",
+"1 S 13:14"
+],
+"ids": [
+"b_167#33",
+"b_273#53",
+"b_044#56",
+"b_044#79",
+"b_105#45"
+]
+},
+{
+"tema": "Familia antes que activismo: no sacrificar el hogar por el ministerio",
+"resumen": "Descuidar a la familia inhabilita al ministro y vacía su obra; el orden de valores es Dios, familia, iglesia, y servir en la iglesia no excusa al padre infiel con su propio hogar.",
+"refs": [
+"1 Co 13:1",
+"Mt 10:37",
+"Mt 22:37",
+"1 Ti 3:4-5",
+"Ro 12:2"
+],
+"ids": [
+"b_299#22",
+"b_356#43",
+"b_402#4",
+"b_407#10",
+"b_417#30",
+"b_243#27",
+"b_325#25",
+"b_114#28"
+]
+},
+{
+"tema": "El pastor y los padres de familia: sin padres que cumplan su deber no se reforma la congregación",
+"resumen": "El pastor necesita a los cabezas de familia cumpliendo su deber y debe despertar su conciencia sobre sus hijos, cuidando sensibilidad y realismo al predicar sobre el hogar.",
+"refs": [
+"Ro 14:10",
+"Gá 6:1-2"
+],
+"ids": [
+"b_351#61",
+"b_355#8",
+"b_126#52"
+]
+},
+{
+"tema": "Prevenir la caída moral del ministro: doble vida, estadísticas, prudencia y rendición de cuentas",
+"resumen": "Casos y datos de pastores con vidas secretas y fracasos morales, reglas de prudencia personales y el valor de un equipo de liderazgo para reducir la caída.",
+"refs": [
+"2 S 11",
+"1 Ti 4:16"
+],
+"ids": [
+"b_136#2",
+"b_216#7",
+"b_082#25",
+"b_419#28"
+]
+},
+{
+"tema": "El sostén del ministro: el obrero es digno de su salario",
+"resumen": "Quien sirve a tiempo completo en el evangelio tiene derecho a ser sostenido por la iglesia (soldado, labrador, pastor), los apóstoles tenían esposa, Pablo renunció a ese derecho por razones puntuales, y la iglesia debe pagar con motivos bíblicos y sin avaricia.",
+"refs": [
+"1 Co 9:6-14",
+"1 Ti 5:18",
+"Lc 10:7",
+"3 Jn 5-8",
+"Fil 4:10-19"
+],
+"ids": [
+"b_380#2",
+"b_322#54",
+"b_326#40",
+"b_328#33",
+"b_402#41",
+"b_402#42",
+"b_403#2",
+"b_403#3",
+"b_405#13",
+"b_418#19",
+"b_444#13",
+"o_013#6",
+"o_035#15"
+]
+},
+{
+"tema": "Motivos puros del ministro: la gloria de Dios, no el dinero, el prestigio ni las cifras",
+"resumen": "Advertencias contra el ministro que prioriza el salario, la ambición de cargos mayores o el poder, que infla resultados o edifica con madera y heno; los motivos egoístas corrompen aun las buenas obras y la obra depende de la santidad del siervo.",
+"refs": [
+"1 Co 3:12-15",
+"1 Ti 3:3"
+],
+"ids": [
+"b_269#12",
+"b_367#9",
+"b_302#25",
+"b_188#22",
+"b_442#37",
+"b_434#17",
+"b_188#12"
+]
+},
+{
+"tema": "Perseverar sin desaliento: anhelar fruto, soportar la soledad y sembrar en campo ajeno",
+"resumen": "El ministro enfrenta desaliento, soledad y rechazo; se sostiene con motivos dignos, deseo de fruto, abnegación y paciencia, sabiendo que el sermón olvidado igual alimenta.",
+"refs": [
+"Mt 11:19",
+"Mt 3:17"
+],
+"ids": [
+"b_188#31",
+"b_041#23",
+"b_327#26",
+"b_080#11",
+"b_297#49",
+"b_416#11"
+]
+},
+{
+"tema": "El ministerio como trabajo arduo y entrega total: «trabajar» (kopiaō) hasta el cansancio",
+"resumen": "El ministerio es obra exigente de por vida, no empleo de nueve a cinco: el pastor fiel trabaja hasta agotarse en la Palabra, se examina contra la flojera y aprende diligencia hasta del diablo (Latimer).",
+"refs": [
+"1 Ts 5:12",
+"1 Ti 5:17",
+"2 Ti 4:5",
+"Col 1:28-29",
+"Hch 20:31"
+],
+"ids": [
+"b_303#2",
+"b_411#58",
+"b_412#54",
+"b_419#21",
+"b_427#20",
+"b_419#42",
+"b_189#41",
+"b_412#51",
+"b_297#48"
+]
+},
+{
+"tema": "Ternura y entrega del pastor-padre (1 Tesalonicenses 2): compartir el evangelio y la propia vida",
+"resumen": "Pablo ministró con ternura de padre y entregó no solo el evangelio sino su propio ser; el ministerio es una confianza sagrada que busca agradar a Dios y no a los hombres.",
+"refs": [
+"1 Ts 2:3-4",
+"1 Ts 2:7-12",
+"1 Ts 2:8-9"
+],
+"ids": [
+"b_417#12",
+"b_419#53",
+"b_419#55",
+"b_431#64"
+]
+},
+{
+"tema": "El líder en 2 Timoteo 2: siete imágenes, el obrero aprobado y el labrador",
+"resumen": "Pablo describe los rigores del liderazgo con siete figuras (maestro, soldado, atleta, labrador, obrero, utensilio, siervo) y diez rasgos del obrero aprobado; ninguna lo hace atractivo.",
+"refs": [
+"2 Ti 2:2",
+"2 Ti 2:3-6",
+"2 Ti 2:14-26"
+],
+"ids": [
+"b_189#16",
+"b_301#4",
+"b_418#21",
+"b_323#19",
+"b_301#7"
+]
+},
+{
+"tema": "Timoteo y Tito, delegados de Pablo: encargos pastorales y obra de evangelista",
+"resumen": "Qué mandó Pablo a Timoteo y a Tito (corregir doctrina, orar, nombrar ancianos, huir de las pasiones juveniles, hacer obra de evangelista) y cómo el pastor también debe tener corazón evangelístico.",
+"refs": [
+"1 Ti 1:3-5",
+"2 Ti 2:22",
+"2 Ti 4:5",
+"Tit 1:5"
+],
+"ids": [
+"b_190#17",
+"b_291#7",
+"b_367#8",
+"b_374#19",
+"b_297#6"
+]
+},
+{
+"tema": "Tito en Creta: encarar los problemas y nombrar ancianos ciudad por ciudad sin apresurarse",
+"resumen": "Pablo dejó a Tito para corregir lo deficiente y establecer ancianos; el líder no huye de las dificultades, administra lo de Dios y designa con calma y oración.",
+"refs": [
+"Tit 1:5-9",
+"Hch 14:23",
+"1 Co 4:1-2"
+],
+"ids": [
+"b_321#19",
+"b_321#20",
+"b_421#22",
+"b_432#43"
+]
+},
+{
+"tema": "Autoridad pastoral delegada por Dios: presidir sin tiranía ni señorío",
+"resumen": "La autoridad del pastor es delegada («en el Señor»), no poder propio; el rebaño es de Dios, se guía con ejemplo y afecto y no con tiranía ni autoritarismo.",
+"refs": [
+"1 Ts 5:12",
+"1 P 5:1-4",
+"1 Ti 5:17"
+],
+"ids": [
+"b_412#2",
+"b_419#22",
+"b_376#9",
+"b_239#10",
+"b_103#54",
+"b_281#20"
+]
+},
+{
+"tema": "El líder enseña con su ejemplo: Tito 2:7-8 y 1 Timoteo 4:12-16",
+"resumen": "El que exhorta debe ser ejemplo de buenas obras; la autoridad de quien enseña crece o se debilita con su obediencia, y enseñar lo correcto es más fácil que vivirlo.",
+"refs": [
+"Tit 2:7-8",
+"1 Ti 4:12",
+"1 Ti 4:15-16",
+"1 Co 11:1"
+],
+"ids": [
+"b_426#7",
+"b_433#2",
+"b_449#82",
+"b_194#29",
+"b_194#28",
+"b_423#1",
+"b_240#27",
+"b_002#39",
+"b_297#39"
+]
+},
+{
+"tema": "Apto para enseñar: la aptitud de enseñar como cualidad central del anciano (1 Ti 3:2)",
+"resumen": "Ser apto para enseñar es lo que distingue al anciano del diácono y es esencial al ministerio fructífero; supone conocer la Palabra, haber sido enseñado y ser aprobado ante Dios.",
+"refs": [
+"1 Ti 3:2",
+"Tit 1:9",
+"1 Ti 5:17",
+"2 Ti 2:2",
+"2 Ti 2:24"
+],
+"ids": [
+"b_416#1",
+"b_417#31",
+"b_432#19",
+"b_449#57",
+"b_238#13",
+"b_420#22",
+"b_423#32"
+]
+},
+{
+"tema": "Retenedor de la palabra fiel (Tito 1:9): aferrarse a la Escritura para exhortar y convencer",
+"resumen": "El liderazgo se funda en lealtad inconmovible a la Escritura y no en capacidades; el anciano preserva la verdad, la proclama, discierne y refuta el error.",
+"refs": [
+"Tit 1:9",
+"1 Ti 4:6",
+"Lc 16:13",
+"Ef 6:17"
+],
+"ids": [
+"b_416#3",
+"b_432#50",
+"b_421#26",
+"b_449#79",
+"b_371#22",
+"b_097#34"
+]
+},
+{
+"tema": "Exhortar y animar a los hermanos (parakaleo): venir al lado, consolar y fortalecer",
+"resumen": "Exhortar es llamar para acercar, con persuasión, consuelo, ánimo y doctrina; es función espiritual del líder y pastoreo personal de cada creyente.",
+"refs": [
+"Tit 1:9",
+"2 Ti 4:2",
+"1 Ts 2:11",
+"1 Ti 6:2",
+"1 S 30:6"
+],
+"ids": [
+"b_407#47",
+"b_336#11",
+"b_423#33",
+"b_249#42"
+]
+},
+{
+"tema": "Amonestar, reprender y corregir con paciencia y mansedumbre",
+"resumen": "Enseñar con advertencia para corregir y encaminar a la santidad: reprender el pecado con paciencia como un padre, con mansedumbre, sin despotismo, hablando y exhortando con autoridad.",
+"refs": [
+"1 Ts 5:12",
+"2 Ti 4:2",
+"2 Ti 2:24-25",
+"Tit 1:13",
+"Tit 2:15"
+],
+"ids": [
+"b_412#3",
+"b_419#23",
+"b_415#7",
+"b_429#26",
+"b_424#31",
+"b_425#38",
+"b_416#9",
+"b_431#15"
+]
+},
+{
+"tema": "El oficio pastoral existe para guardar y defender la verdad",
+"resumen": "Cristo instituyó el ministerio para preservar, declarar y defender la verdad; los pastores son guardianes y no mercaderes de la Palabra, protegen al rebaño de la herejía y unen sana doctrina con vida piadosa.",
+"refs": [
+"Ef 4:11-15",
+"Hch 20:28-30",
+"1 Ts 2:3",
+"1 Ti 6:20",
+"2 Ti 1:14"
+],
+"ids": [
+"b_190#5",
+"b_296#31",
+"b_302#11",
+"b_359#37",
+"b_440#34",
+"b_306#10",
+"b_372#10",
+"o_013#18"
+]
+},
+{
+"tema": "Confrontar a los falsos maestros y al error dentro de la iglesia",
+"resumen": "El líder que tolera el error es responsable; hay que refutar, taparles la boca a los falsos maestros (aun ancianos), convencer a los que contradicen y rechazar fábulas, con ejemplos de quienes defendieron la verdad.",
+"refs": [
+"Tit 1:9",
+"Tit 1:11",
+"Ap 2:20",
+"Hch 20:29-30",
+"1 Ti 1:3"
+],
+"ids": [
+"b_196#1",
+"b_281#4",
+"b_425#35",
+"b_425#37",
+"b_426#41",
+"b_235#25",
+"b_251#30",
+"b_422#41"
+]
+},
+{
+"tema": "Predicación expositiva: qué es y por qué predicar el texto de la Escritura",
+"resumen": "La predicación expositiva explica y aplica un pasaje con autoridad que viene solo de la Escritura; ventajas de la predicación consecutiva de un libro, sus peligros y los riesgos de la temática, con la enseñanza como contenido central del sermón.",
+"refs": [
+"Neh 8:8",
+"Esd 7:10",
+"Hch 20:27",
+"Tit 1:9",
+"2 Ti 4:2"
+],
+"ids": [
+"b_430#25",
+"b_416#7",
+"b_239#5",
+"b_305#20",
+"b_437#53",
+"b_439#1",
+"b_446#3",
+"b_194#15",
+"b_239#37",
+"b_239#38",
+"b_239#39"
+]
+},
+{
+"tema": "El predicador se sujeta a la Biblia: que el texto sea el predicador y no el hombre",
+"resumen": "La exposición es una filosofía de someter las ideas propias a la autoridad de la Biblia; quien usa la Biblia como apoyo y no como luz, o la esconde para no incomodar, estorba al texto.",
+"refs": [
+"2 Ti 4:3",
+"He 3:7",
+"Jn 6:63",
+"Mt 7:21-23"
+],
+"ids": [
+"b_437#54",
+"b_439#2",
+"b_329#21",
+"b_431#7",
+"b_366#41",
+"b_425#36",
+"b_329#11",
+"b_366#32"
+]
+},
+{
+"tema": "Claridad y sencillez al enseñar: si el oyente no entiende, nada de lo demás sirve",
+"resumen": "La claridad es la meta mayor del predicador porque la Escritura está hecha para revelar; hay que entender bien lo que se enseña, usar palabras simples y hablar con voz firme sin opinar de lo que no se sabe.",
+"refs": [
+"1 Co 14:19",
+"Hch 27:22-25"
+],
+"ids": [
+"b_188#24",
+"b_240#17",
+"b_270#51",
+"b_331#48",
+"b_438#37",
+"b_096#9",
+"b_327#25"
+]
+},
+{
+"tema": "Del texto al sermón: pasaje, propósito, estructura, bosquejo, conclusión y notas",
+"resumen": "Pasos prácticos para construir el sermón expositivo: elegir la unidad del pasaje y la idea central, fijar un propósito, escoger la forma, bosquejar, concluir con aplicación y manejar las notas sin que estorben.",
+"refs": [
+"Stg 1:1-12",
+"Stg 2:1-13",
+"Stg 2:14-26"
+],
+"ids": [
+"b_438#34",
+"b_438#35",
+"b_438#36",
+"b_439#4",
+"b_241#11",
+"b_241#14"
+]
+},
+{
+"tema": "Prepararse con estudio, oración y diligencia antes de enseñar",
+"resumen": "El trabajo sin oración es ateísmo y la oración sin trabajo arrogancia: preparación general a lo largo de años y especial para cada mensaje, plan de clase, tiempo anticipado, preparación espiritual y estudio sin atajos.",
+"refs": [
+"2 Ti 2:15",
+"2 Ti 3:17"
+],
+"ids": [
+"b_297#43",
+"b_297#44",
+"b_329#13",
+"b_300#12",
+"b_178#6",
+"b_078#46",
+"b_188#7",
+"b_192#7"
+]
+},
+{
+"tema": "Ser primero alumno y alimentarse de la Palabra: lo decisivo del ministro es cuánto la conoce",
+"resumen": "Los grandes teólogos fueron pastores estudiosos de la Biblia; sin la Palabra no hay profundidad, el secreto del ministerio está en el tiempo a solas con la Escritura y quien enseña crece al estudiar.",
+"refs": [
+"1 Ti 4:6",
+"2 Ti 2:15",
+"2 Ti 3:16-17",
+"1 P 2:2",
+"Neh 2:12"
+],
+"ids": [
+"b_413#27",
+"b_416#5",
+"b_427#50",
+"b_213#19",
+"b_080#16"
+]
+},
+{
+"tema": "Esdras: preparar el corazón para estudiar, practicar y enseñar la ley",
+"resumen": "Esdras es el modelo del pastor fiel y del reformador: dedicó su corazón a estudiar, cumplir y enseñar la Escritura, y de ese orden depende que la Iglesia sea sal y luz.",
+"refs": [
+"Esd 7:10",
+"Mal 2:6",
+"2 Ti 2:15"
+],
+"ids": [
+"b_238#14",
+"b_272#32",
+"b_351#55"
+]
+},
+{
+"tema": "Formación del predicador: idiomas originales, marco teológico y programa de lectura",
+"resumen": "Conocer hebreo y griego para enseñar con seguridad, tener un marco teológico y seguir un programa disciplinado de lectura en varios ámbitos; qué hacer si no se conocen los idiomas.",
+"refs": [
+"2 P 1:21",
+"2 Ti 2:2"
+],
+"ids": [
+"b_191#63",
+"b_193#25",
+"b_247#6",
+"b_330#13"
+]
+},
+{
+"tema": "Convicciones antes que técnicas: obedecer el patrón de la Escritura por encima del pragmatismo",
+"resumen": "Para seguir enseñando hacen falta convicciones teológicas y no técnicas novedosas; el predicador debe emocionarse con la Biblia y obedecer el patrón bíblico aunque otro modelo parezca funcionar mejor.",
+"refs": [],
+"ids": [
+"b_238#3",
+"b_270#52",
+"b_362#26",
+"b_271#2"
+]
+},
+{
+"tema": "Enseñar con fidelidad, autoridad de embajador y aplicación",
+"resumen": "Quien enseña es administrador, heraldo y embajador: habla lo que Dios dijo, enseña todo el consejo de Dios (también la doctrina del Espíritu), con pasión y seriedad, sin entretener, y aplica la Palabra.",
+"refs": [
+"Mt 7:28-29",
+"1 Ti 4:11",
+"Tit 2:15",
+"Hch 20:26-27",
+"2 Ti 2:15"
+],
+"ids": [
+"b_192#1",
+"b_192#2",
+"b_239#4",
+"b_240#21",
+"b_448#37",
+"b_329#17",
+"b_426#8",
+"b_370#12"
+]
+},
+{
+"tema": "Predicar a Cristo y ofrecer el evangelio con pasión, y no predicarse a uno mismo",
+"resumen": "El evangelio se predica más que la Ley, el predicador ofrece a Cristo a los no salvos con pasión y cortejo, y no hace de su propio «yo» el centro del sermón.",
+"refs": [
+"Ro 10:4"
+],
+"ids": [
+"b_243#24",
+"b_360#8",
+"b_359#29",
+"b_440#49"
+]
+},
+{
+"tema": "Discipular a otros hombres: mentoría, casa abierta y multiplicación de generación en generación",
+"resumen": "Cómo se forma a otros: tiempos formales de estudio, encuentros regulares, autoevaluación del mentor, casas abiertas como las de Edwards y la transmisión de lo recibido a hombres fieles que enseñen a otros.",
+"refs": [
+"2 Ti 2:2",
+"Tit 2:6"
+],
+"ids": [
+"o_021#19",
+"o_021#29",
+"o_020#24",
+"b_242#23",
+"b_245#3",
+"b_197#23",
+"b_426#6"
+]
+},
+{
+"tema": "Enseñanza personal y sistemática de nuevos creyentes y adultos (catequizar)",
+"resumen": "Enseñar a cada persona con orden y preguntas y respuestas, discipular a los recién convertidos con la doctrina completa y ayudar a los adultos a cambiar escuchando, discutiendo y aplicando.",
+"refs": [
+"Mt 28:20",
+"Hch 8:26-35"
+],
+"ids": [
+"b_188#45",
+"b_258#28",
+"b_404#5",
+"b_278#54"
+]
+},
+{
+"tema": "Enseñar a los jóvenes: pensar la fe, conocer las cosmovisiones y hablar del pecado",
+"resumen": "Los jóvenes cuestionan la fe: hay que dejar la enseñanza lineal, ser coalumno, equiparlos ante las filosofías, llevarlos hondo en la teología, hablar con claridad del pecado y mantener autoridad con amor.",
+"refs": [
+"Col 2:8",
+"1 Co 3:18-23"
+],
+"ids": [
+"b_082#15",
+"b_082#4",
+"b_081#42",
+"b_078#38",
+"b_101#27",
+"b_333#32",
+"b_178#8"
+]
+},
+{
+"tema": "Cuidado personal de las almas: ver a la persona, consejería centrada en Cristo y humildad",
+"resumen": "Conectar con quienes se lidera y verlos como personas; la consejería se centra en Cristo y en qué adora el corazón, se hace con humildad y tiempo limitado, y el pueblo debe acudir al pastor, quien debe conocer los peligros espirituales.",
+"refs": [
+"Lc 7:36-50",
+"Fil 1:9-11"
+],
+"ids": [
+"b_200#21",
+"b_200#25",
+"b_200#23",
+"b_188#47",
+"b_296#45",
+"o_024#21",
+"o_024#27"
+]
+},
+{
+"tema": "Liderar con sabiduría: gobernar, juzgar con sabiduría divina y escuchar consejo",
+"resumen": "El gobierno de la iglesia pide sabiduría práctica y coraje espiritual, ingenio y diligencia; el anciano gobernante rige en nombre de Cristo y el líder sabio no descuida el consejo de otros, incluidas las mujeres.",
+"refs": [
+"1 R 3:16-28",
+"1 Ti 5:17"
+],
+"ids": [
+"b_303#6",
+"b_339#57",
+"b_326#42",
+"b_360#1",
+"b_279#56",
+"b_362#22"
+]
+},
+{
+"tema": "Lawrence Saunders: formación bíblica, casa abierta y fidelidad a su grey hasta el fin",
+"resumen": "El mártir inglés que estudió lenguas y Escrituras para predicar, mantuvo su casa abierta y rehusó huir, volviendo a su grey sabiendo lo que le esperaba.",
+"refs": [],
+"ids": [
+"b_248#38",
+"b_252#42",
+"b_252#43"
+]
+},
+{
+"tema": "Pastores de la historia como modelo: Hooper, Taylor, Fawcet, Eulogio y Edwards",
+"resumen": "Vidas de pastores entregados a la Palabra y a su gente: Hooper, ejemplar y ferviente; Rowland Taylor, gentil y de hogar ordenado; Fawcet, que se queda con su pobre iglesia; Eulogio, que comparte el saber; y Edwards, predicador prudente.",
+"refs": [
+"Mt 5:13-15",
+"1 Co 1:29-31"
+],
+"ids": [
+"b_249#4",
+"b_252#53",
+"b_274#6",
+"b_257#8",
+"b_244#18",
+"b_244#19"
+]
+}
+],
+"fuera": []
+}

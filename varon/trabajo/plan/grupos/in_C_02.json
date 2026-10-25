@@ -1,0 +1,934 @@
+{
+"grupos": [
+{
+"tema": "Mateo 7: los dos caminos, las dos puertas, los dos constructores y el que dice «Señor, Señor»",
+"resumen": "Jesús obliga a ubicarse: camino angosto o ancho, árbol bueno o malo, casa sobre roca o sobre arena. Muchos sirven y profesan sin ser conocidos por Cristo, y el varón tiene que preguntarse dónde está su corazón y sobre qué edifica su hogar.",
+"refs": [
+"Mt 7:13-14",
+"Mt 7:21-23",
+"Mt 7:24-27",
+"Sal 1:3"
+],
+"ids": [
+"b_076#2",
+"b_077#59",
+"b_319#9",
+"o_012#9"
+]
+},
+{
+"tema": "Cómo recibir a Cristo: arrepentirse, creer y entregarle el control de la vida",
+"resumen": "La conversión es arrepentirse, creer y recibir a Cristo como Señor y Salvador, no solo aceptarlo como Salvador. El que llega sin nada que ofrecer es recibido, y el corazón se le da primero a Dios.",
+"refs": [
+"Lc 13:3",
+"Jn 1:12",
+"Ap 3:20",
+"Ro 4:5",
+"Pr 23:26"
+],
+"ids": [
+"b_120#2",
+"b_356#50",
+"b_061#30",
+"o_004#26",
+"o_005#22",
+"o_034#8",
+"b_118#38",
+"b_149#11",
+"b_340#16",
+"b_353#52"
+]
+},
+{
+"tema": "Testimonios de conversión: cómo Dios alcanzó a un hombre",
+"resumen": "Casos concretos de hombres alcanzados por Cristo: McDowell («no religión, sino Jesucristo»), Martinson en medio de la pérdida, y el esposo incrédulo que Dios atrae por la oración y el cambio de su esposa.",
+"refs": [
+"Jn 14:6",
+"1 Co 9:24",
+"Stg 5:16",
+"Is 55:8-11"
+],
+"ids": [
+"o_002#60",
+"b_325#35",
+"b_175#6",
+"o_008#2"
+]
+},
+{
+"tema": "Conversión como entrega total: Cristo es el único Señor y dueño, sin reservas",
+"resumen": "No se puede confiar en Cristo como Salvador sin someterse a Él como Señor. La conversión es un cambio de dirección visible: se dejan los ídolos, se pacta la entrega sin excepciones, y Cristo es dueño de todo o de nada.",
+"refs": [
+"Stg 4:7",
+"1 Ts 1:1-10",
+"Mt 6:24",
+"1 Co 7:23",
+"Mt 13:44-46"
+],
+"ids": [
+"b_350#10",
+"b_187#8",
+"o_012#14",
+"o_030#11",
+"b_215#44",
+"b_437#38",
+"b_431#44",
+"b_273#40",
+"o_014#35",
+"b_009#35"
+]
+},
+{
+"tema": "El costo del discipulado: «Sígueme», negarse a sí mismo y morir al yo",
+"resumen": "Seguir a Cristo tiene ocho aspectos, incluida la negación del yo, y las mayores amenazas están en lo que más amamos. El discípulo muere al yo y pone a prueba su obediencia con sacrificio radical.",
+"refs": [
+"Mt 16:24",
+"Lc 14:26-27",
+"Mt 8:22",
+"Gá 2:20",
+"Fil 1:21"
+],
+"ids": [
+"b_321#62",
+"b_225#30",
+"b_084#36",
+"b_097#16",
+"b_018#14"
+]
+},
+{
+"tema": "Vivir para uno mismo: egocentrismo, independencia de Dios, ídolos y adulterio espiritual",
+"resumen": "El cristiano que retoma el trono de su vida es miserable, y el deseo de controlarlo todo es independencia de Dios. Los ídolos empiezan como ayuda y terminan mandando, y la mundanalidad es adulterio espiritual también entre cristianos.",
+"refs": [
+"Jer 10:23",
+"Stg 4:1-10",
+"1 Jn 2:15-17",
+"2 Co 6:14",
+"Jn 13:17"
+],
+"ids": [
+"o_034#11",
+"b_061#23",
+"b_081#26",
+"b_320#5",
+"b_341#35",
+"b_291#38"
+]
+},
+{
+"tema": "El cambio verdadero nace adentro: la conducta no se reforma sin un corazón nuevo",
+"resumen": "Podemos dejar hábitos externos pero no crear un principio nuevo por dentro: eso lo da solo Dios. El moralismo, los filtros y las reglas no transforman el corazón, y el Redentor no abandona su obra.",
+"refs": [
+"Jer 13:23",
+"Tit 3:5-8",
+"Col 2:20-23",
+"Ro 8:13-14"
+],
+"ids": [
+"b_156#38",
+"b_041#58",
+"b_219#56",
+"b_198#5",
+"b_016#26",
+"b_229#38",
+"b_052#21",
+"b_044#95"
+]
+},
+{
+"tema": "La Ley como espejo: la justicia propia no salva (el joven rico)",
+"resumen": "Los Diez Mandamientos y el Sermón del Monte muestran que la lujuria es adulterio del corazón y que nadie hereda la vida eterna por obras. El joven rico creía haberlo guardado todo, y la ley revela nuestra imposibilidad.",
+"refs": [
+"Mt 5:28",
+"Mr 10:17-20",
+"Mt 19:20",
+"Is 64:6",
+"Lc 18:9-14"
+],
+"ids": [
+"b_228#7",
+"b_228#9",
+"b_385#42",
+"b_386#38",
+"b_389#49",
+"o_005#11"
+]
+},
+{
+"tema": "Religiosidad sin corazón: llevar la Palabra sin amar a Dios, bondad solo negativa y fe heredada",
+"resumen": "Los fariseos cumplían 613 mandamientos sin amar a Dios con el corazón. No basta con no hacer el mal ni con tener padres piadosos o una iglesia: hay que deleitarse en el bien y no fiarse de los propios ojos.",
+"refs": [
+"Mt 22:34-37",
+"Sal 1:2",
+"Mt 23:5",
+"Jn 1:12-13",
+"Jue 21:25"
+],
+"ids": [
+"b_082#18",
+"b_280#27",
+"b_397#4",
+"b_338#58"
+]
+},
+{
+"tema": "Los dos hijos perdidos de Lucas 15: el libertino y el religioso",
+"resumen": "Los dos hijos amaban la riqueza del padre más que al padre. El menor está perdido en su libertinaje y el mayor en su religiosidad y orgullo, y trabajar duro sin relación con el Padre es vacío.",
+"refs": [
+"Lc 15:11-32",
+"Lc 15:25-32",
+"Ro 1",
+"Ro 2"
+],
+"ids": [
+"b_147#19",
+"b_148#10",
+"b_267#12",
+"b_307#30"
+]
+},
+{
+"tema": "El pródigo vuelve: volver en sí, del «dame» al «hazme» y el Padre que corre a recibirlo",
+"resumen": "El cambio empieza al volver en sí y recordar la bondad del padre. La actitud pasa del «dame» al «hazme», y el padre sale corriendo a recibir al hijo y lo restituye sin vergüenza.",
+"refs": [
+"Lc 15:12",
+"Lc 15:17",
+"Lc 15:18-19",
+"Lc 15:17-23"
+],
+"ids": [
+"b_067#56",
+"b_148#19",
+"b_148#23",
+"b_149#10",
+"b_381#54",
+"b_393#5",
+"b_381#72"
+]
+},
+{
+"tema": "Obediencia que nace del amor a Cristo: amar es guardar sus mandamientos",
+"resumen": "Amar a Jesús se evidencia obedeciéndolo. Dios bendice a quien hace de su Palabra un patrón de vida, y la fe verdadera rige la conducta y hace discípulo.",
+"refs": [
+"Jn 14:15",
+"Jn 14:21",
+"1 S 15:22",
+"Hch 5:29",
+"Sal 1:1-3"
+],
+"ids": [
+"b_240#7",
+"b_445#34",
+"o_005#25",
+"o_010#21",
+"o_005#23",
+"b_357#40"
+]
+},
+{
+"tema": "La Palabra de Dios: suficiente, sin sustituto y puerta al conocimiento de Dios",
+"resumen": "La Escritura es la autoridad suficiente y no hay sustituto para ella. El conocimiento espiritual del hombre piadoso es sabio y aplicable, y la comunión con Cristo por la Palabra la abre el Espíritu.",
+"refs": [
+"2 Ti 3:16-17",
+"Heb 4:12",
+"Sal 119:11",
+"Ro 10:17",
+"Pr 14:18"
+],
+"ids": [
+"o_004#31",
+"b_320#73",
+"b_352#19",
+"b_388#26"
+]
+},
+{
+"tema": "Amar la Palabra y ponerla en práctica: el tesoro de George Crow, la meditación y el espejo",
+"resumen": "Crow perdió el cargamento pero salvó su Nuevo Testamento, y la Palabra se medita y se muestra con la vida. Oírla sin hacerla es engañarse: es un espejo que hay que mirar sin el traje dominguero.",
+"refs": [
+"Stg 1:22-25",
+"Stg 1:23-24",
+"Sal 119:105"
+],
+"ids": [
+"b_249#31",
+"b_253#14",
+"b_344#41",
+"b_360#35",
+"b_122#41",
+"o_010#20"
+]
+},
+{
+"tema": "Zonas grises: criterios para decidir lo que la Biblia no nombra",
+"resumen": "La Biblia no es una lista de prohibiciones: la madurez discierne. Se decide por si edifica y si glorifica a Dios, porque para Él no hay áreas grises.",
+"refs": [
+"1 Co 10:23",
+"1 Co 10:31",
+"1 Co 6:12",
+"He 5:14",
+"Gá 5:19-21"
+],
+"ids": [
+"b_259#9",
+"b_198#8",
+"b_198#9",
+"b_266#7"
+]
+},
+{
+"tema": "Gratitud a Dios: registrar sus bendiciones y dar gracias en público",
+"resumen": "El varón no olvida las bendiciones de Dios: las anota, como Jesús, que dio gracias en voz alta ante la tumba de Lázaro, y como Daniel. La generosidad también produce acción de gracias.",
+"refs": [
+"Sal 103:2",
+"Jn 11:41-42",
+"Dn 2:19",
+"2 Co 9:11-13"
+],
+"ids": [
+"b_175#3",
+"b_316#29",
+"b_039#58",
+"o_015#14"
+]
+},
+{
+"tema": "El ayuno cristiano: oración intensa, escondida y para ver a Dios",
+"resumen": "Jesús mencionó el ayuno sin ordenarlo, y es para tiempos de añoranza hasta que vuelva el Novio. Se hace a escondidas y por debilidad, y su recompensa es Dios mismo y no sus dones.",
+"refs": [
+"Mt 9:15",
+"Mt 6:16-18",
+"Hch 13:1-4",
+"Stg 4:3-4",
+"Mr 2:18-20"
+],
+"ids": [
+"b_269#32",
+"b_335#32",
+"b_335#35",
+"b_335#36",
+"b_385#35",
+"b_396#10"
+]
+},
+{
+"tema": "Confiar en Dios cuando no responde como esperamos o cuando no se entiende",
+"resumen": "Dios se interesa en nuestros deseos pero a veces dice «no» para darnos algo mejor. Donde no entendemos, confiamos, como los tres jóvenes que dijeron «aunque no lo haga».",
+"refs": [
+"Sal 37:4",
+"2 Co 12:8",
+"Dn 3:16-18",
+"Stg 4:3"
+],
+"ids": [
+"b_205#13",
+"b_122#35",
+"b_253#40",
+"b_039#66"
+]
+},
+{
+"tema": "Conocer y sujetarse a la voluntad de Dios: buscarla, discernir las señales y subordinar los planes",
+"resumen": "Müller busca la voluntad de Dios antes de empezar cualquier cosa. Dios tiene un plan, a veces no confirmado por señales fáciles, y los planes se ajustan a «si el Señor quisiere».",
+"refs": [
+"Ef 5:15-17",
+"Sal 32:8",
+"Hch 16:10",
+"1 Co 4:19",
+"Sal 138:8"
+],
+"ids": [
+"b_250#37",
+"b_109#2",
+"b_123#11",
+"b_400#33",
+"b_025#53"
+]
+},
+{
+"tema": "Dios guarda y provee: confiar en el cuidado del Padre y en sus promesas",
+"resumen": "Dios nos guarda de formas que no vemos y cuida de los gorriones, cuánto más de quienes Cristo compró. Sus promesas son seguras, y Cristo es confiable cuando los amigos fallan.",
+"refs": [
+"Mt 10:29-30",
+"Mt 6:26",
+"2 Co 1:20",
+"1 Co 10:13",
+"Fil 4:19"
+],
+"ids": [
+"b_122#18",
+"b_122#24",
+"b_291#6",
+"b_096#12",
+"b_311#14"
+]
+},
+{
+"tema": "Dios obra y nosotros trabajamos: ni autodependencia ni pasividad",
+"resumen": "Trabajar como si nos tocara edificar la iglesia es autodependencia, y depender sin actuar es presunción. Dios hace lo suyo y nosotros lo nuestro: confiar, no apoyarse en la propia prudencia y vivir la nueva vida sin la propia energía.",
+"refs": [
+"Pr 3:5-6",
+"Pr 21:31",
+"Ef 2:8-10",
+"2 P 3:9",
+"Mt 16:18"
+],
+"ids": [
+"b_299#8",
+"b_368#5",
+"b_208#14",
+"b_409#43",
+"b_383#26"
+]
+},
+{
+"tema": "Elías y la fuerza de Dios en la debilidad",
+"resumen": "Elías hundido en la depresión es hallado por Dios con una pregunta, y su fortaleza nunca estuvo en sí mismo. Cuando soy débil, entonces soy fuerte: Dios usa aun sin que sintamos su fuerza.",
+"refs": [
+"1 R 19:9-10",
+"2 Co 12:7-10",
+"2 S 22:32-36",
+"1 R 17:1"
+],
+"ids": [
+"b_199#18",
+"b_231#36",
+"b_029#39",
+"b_123#18"
+]
+},
+{
+"tema": "Gozo, paz y contentamiento en Cristo más allá de las circunstancias",
+"resumen": "El gozo de Cristo está asegurado por la resurrección, no depende de las circunstancias, y Pablo se regocija desde la prisión. Frente al desánimo, el varón confía, se regocija y se habla el evangelio.",
+"refs": [
+"Fil 4:4",
+"Fil 4:11-13",
+"Jn 16:22",
+"Jn 14:27",
+"Ro 5:6-10"
+],
+"ids": [
+"b_203#16",
+"b_331#10",
+"o_005#31",
+"b_202#10",
+"b_328#40",
+"b_202#8"
+]
+},
+{
+"tema": "Autoexamen y vigilancia ante el retroceso espiritual: el varón que se duerme como David",
+"resumen": "David se durmió espiritualmente y nunca se recuperó del todo. El varón examina su vida ante el Señor, y la inconstancia del corazón y la pérdida de la gloria (Icabod) son la causa del retroceso.",
+"refs": [
+"2 S 11:1",
+"Sal 139:23-24",
+"Pr 14:14",
+"1 S 4:19-22",
+"Ap 2:2-4"
+],
+"ids": [
+"o_021#32",
+"b_018#51",
+"o_009#14",
+"b_274#17",
+"b_313#31"
+]
+},
+{
+"tema": "Bautismo, Cena y culto: obediencia, examen y presencia de Cristo",
+"resumen": "El bautismo y la Cena son mandatos de Cristo que no se omiten. Se participa de la Cena examinándose, y Cristo está especialmente presente donde se reúnen en su nombre.",
+"refs": [
+"Mt 28:19",
+"1 Co 11:23-34",
+"1 Co 11:27-29",
+"Mt 18:20",
+"Gá 3:26-27"
+],
+"ids": [
+"b_196#8",
+"b_196#6",
+"b_404#17",
+"o_017#31",
+"b_350#1"
+]
+},
+{
+"tema": "Cómo vencer la tentación: pensar bíblicamente, plan de contingencia, despojarse y mortificar",
+"resumen": "Un plan concreto: recordar las promesas, orar de inmediato, repasar versículos memorizados, despojarse del pecado identificado y mortificarlo cada día. Dios provee Palabra, intercesión y Espíritu contra el pecado del creyente.",
+"refs": [
+"1 Co 10:13",
+"He 4:15-16",
+"Col 3:1-5",
+"Sal 119:11",
+"1 Jn 1:9"
+],
+"ids": [
+"o_009#9",
+"o_009#11",
+"o_009#13",
+"b_223#5",
+"b_049#23"
+]
+},
+{
+"tema": "Crecer en la vida cristiana: recursos, pasos y disciplinas concretas",
+"resumen": "El creyente puede cambiar porque tiene el poder del Espíritu, la Palabra y un propósito. Los pasos son sumisión, confesión, nueva naturaleza y disciplinas como Biblia, oración, iglesia y testimonio.",
+"refs": [
+"Jn 14:16-17",
+"Ro 6",
+"Ef 4:22-24",
+"1 Jn 5:11-13",
+"Jos 1:9"
+],
+"ids": [
+"o_004#29",
+"o_011#3",
+"o_010#22",
+"b_323#37",
+"o_034#10"
+]
+},
+{
+"tema": "Santificación: cómo la obra Dios y cómo trabajamos junto a Él",
+"resumen": "La santificación va de posición a progresión y perfección. La regeneración es obra de Dios solo, pero el crecimiento lo trabajamos con Él, y Cristo nos aparta y nos hace vivir como hijos.",
+"refs": [
+"1 Ts 4:3",
+"Fil 2:12-13",
+"Ef 5:25-26",
+"Jn 17:17",
+"1 Co 6:11"
+],
+"ids": [
+"b_372#16",
+"b_375#4",
+"b_359#4",
+"b_370#37",
+"b_284#37"
+]
+},
+{
+"tema": "Conformados a la imagen de Cristo: la meta de Dios para el creyente",
+"resumen": "Dios nos habla para que lo conozcamos y seamos hechos a la imagen de Cristo, que es la imagen de Dios. El Espíritu exalta al Hijo y nos conforma, y ese es el propósito que Dios persigue con todo lo que permite.",
+"refs": [
+"Ro 8:29",
+"2 Co 3:18",
+"Gá 4:19",
+"Col 3:9-10",
+"Ef 4:22-24"
+],
+"ids": [
+"b_062#35",
+"b_240#24",
+"b_283#24",
+"b_099#38",
+"b_121#45",
+"b_048#21"
+]
+},
+{
+"tema": "Cuando el creyente peca: la posición no cambia, la comunión se interrumpe y Dios se contrista",
+"resumen": "El hijo que peca sigue perdonado y sigue siendo hijo, pero pierde comunión y entristece a Dios. Dios es fiel y confirma a los suyos hasta el fin.",
+"refs": [
+"Ro 8:1",
+"1 Jn 1:9",
+"1 Jn 2:1-2",
+"Ef 4:30",
+"1 Co 1:8-9"
+],
+"ids": [
+"b_046#68",
+"b_260#21",
+"b_065#12",
+"b_399#16"
+]
+},
+{
+"tema": "Guerra espiritual: el adversario, las fortalezas del pensamiento y el buen soldado",
+"resumen": "Satanás cayó por orgullo y se lo puede resistir. Las fortalezas son sistemas de pensamiento, el cristiano combate la carne, el mundo y el diablo, y el buen soldado quiere agradar a quien lo reclutó.",
+"refs": [
+"2 Co 10:4-5",
+"1 P 5:8-9",
+"Is 14:13-14",
+"2 Ti 2:4",
+"Gá 5:16-17"
+],
+"ids": [
+"b_445#2",
+"b_097#32",
+"b_322#39",
+"b_429#13"
+]
+},
+{
+"tema": "Perspectiva de eternidad: peregrinos, la brevedad de la vida y el valor del alma",
+"resumen": "El cristiano es peregrino con ciudadanía en el cielo. La vida es corta, el alma vale más que el mundo y nada es tan importante como vivir para la eternidad.",
+"refs": [
+"Fil 3:20",
+"1 P 2:11",
+"1 Jn 2:17",
+"Ecl 3:11",
+"Sal 39:12"
+],
+"ids": [
+"b_279#20",
+"b_176#27",
+"b_165#21",
+"b_071#52",
+"b_257#26",
+"b_058#27"
+]
+},
+{
+"tema": "Amar a Dios de todo corazón: el Gran Mandamiento y la intimidad con Cristo",
+"resumen": "El primer compromiso es amar a Dios con todo el corazón, sede de la voluntad, la fe y la lujuria. Se cultiva a solas con Dios, contemplándolo y enamorándose de Jesucristo, fuente del verdadero amor.",
+"refs": [
+"Mt 22:37-40",
+"Mt 28:19-20",
+"Gn 32:24-30",
+"1 Jn 4:7",
+"Mt 15:18-19"
+],
+"ids": [
+"b_104#6",
+"b_106#43",
+"b_020#41",
+"b_030#43",
+"b_044#27",
+"b_293#10"
+]
+},
+{
+"tema": "El valor del varón no está en lo que rinde sino en ser amado: ser versus hacer",
+"resumen": "El líder se siente tentado a medir su valor por el desempeño, pero es aceptado por gracia y aprobado por fe, como Jesús en su bautismo antes de su ministerio. Dios no es un entrenador contrariado: hay que absorber que somos hijos amados y no lo que logramos.",
+"refs": [
+"Mt 3:16-17",
+"Ro 8:15-17",
+"Ef 1:6",
+"Fil 3:8-9",
+"Sal 23:4"
+],
+"ids": [
+"b_106#22",
+"b_199#3",
+"b_199#55",
+"b_105#46",
+"b_106#9",
+"b_122#38",
+"b_262#21",
+"b_280#33",
+"b_278#41",
+"b_122#52",
+"b_043#96"
+]
+},
+{
+"tema": "Quién define al varón: Dios, no la cultura, la opinión ajena ni los logros",
+"resumen": "La cultura dice «sé quien tú dices», pero el evangelio dice «eres quien Dios dice». Las cinco mentiras de identidad, el espejo deformador y la autoestima de Jesús, que dependía solo de su Padre, muestran dónde anclar la identidad.",
+"refs": [
+"Jn 17:6-10",
+"Jn 7:25-30",
+"Ro 12:3",
+"Pr 23:7",
+"Jn 1:12-13"
+],
+"ids": [
+"b_170#3",
+"b_170#70",
+"b_170#21",
+"o_023#33",
+"o_023#35",
+"b_072#45",
+"b_072#47",
+"b_198#21",
+"b_122#40",
+"o_001#11",
+"o_001#13"
+]
+},
+{
+"tema": "Cristo, y no el cónyuge ni la carrera, sostiene la identidad y satisface al varón",
+"resumen": "Vivir para la carrera o para la esposa aplasta a ambos: ningún ser humano puede sostener una identidad. Solo Cristo llena, y Jesús es el verdadero esposo de cada cristiano, casado o soltero.",
+"refs": [
+"Sal 37:4",
+"Sal 73:25",
+"Fil 4:19",
+"Fil 1:21",
+"Gá 2:20"
+],
+"ids": [
+"b_005#11",
+"b_169#30",
+"b_158#47",
+"b_225#35",
+"b_171#52",
+"b_006#26",
+"b_225#25"
+]
+},
+{
+"tema": "Comprados por precio: el valor del creyente y su pertenencia a Cristo",
+"resumen": "El valor del hombre es el precio que Dios pagó por él. Pertenece a Cristo, que lo compró, los creyentes son «los que me has dado» del Padre al Hijo, y hasta el creyente anónimo es dignificado.",
+"refs": [
+"1 Co 6:20",
+"1 P 1:18-19",
+"Jn 17:2",
+"1 Co 3:23",
+"Ro 6:22"
+],
+"ids": [
+"o_001#12",
+"o_005#6",
+"b_111#39",
+"b_132#20",
+"b_078#8",
+"b_371#9",
+"b_245#26",
+"b_062#38",
+"b_200#3",
+"b_400#14",
+"b_415#15"
+]
+},
+{
+"tema": "«En Cristo»: unión vital, nueva creación y la vida de Cristo en el creyente",
+"resumen": "Estar en Cristo no es modificar lo anterior sino ser una nueva creación unida a Él, con su victoria como propia. El que estaba en pecado ya no es el mismo, y Cristo recrea desde adentro.",
+"refs": [
+"2 Co 5:17",
+"Gá 2:20",
+"Jn 15:4-5",
+"1 Co 6:9-11",
+"Ef 2:6"
+],
+"ids": [
+"b_405#5",
+"b_424#2",
+"b_431#41",
+"b_311#9",
+"b_367#23",
+"b_371#13",
+"b_220#32",
+"b_401#12",
+"b_363#18",
+"b_433#11",
+"b_063#6"
+]
+},
+{
+"tema": "Los nombres que Dios da al creyente: escogido, santo, amado, heredero",
+"resumen": "El catálogo bíblico de lo que somos: escogidos, santos y amados, antes de la exhortación a vestirse de carácter. Y herederos que, como el heredero de la historia, deben creer y actuar como tales.",
+"refs": [
+"Col 3:12",
+"Ro 8:33",
+"1 P 2:9",
+"Ef 1:3",
+"1 Co 1:2"
+],
+"ids": [
+"b_395#28",
+"b_450#44",
+"o_004#28",
+"b_168#14",
+"b_410#31",
+"b_332#30",
+"b_153#32",
+"b_406#1",
+"b_347#11",
+"b_397#35"
+]
+},
+{
+"tema": "El descanso de Cristo para los trabajados y cargados",
+"resumen": "El primer paso es ir a Cristo: Él da descanso al cansado de la religión formalista, del servicio a sí mismo y de la carga de la tradición, y responde una a una las excusas.",
+"refs": [
+"Mt 11:28-30",
+"Jn 6:37",
+"Is 1:18",
+"Mt 23:4"
+],
+"ids": [
+"b_319#11",
+"b_386#48",
+"b_358#3"
+]
+},
+{
+"tema": "Perdonar es un mandato y refleja haber recibido perdón",
+"resumen": "Jesús ordena perdonar al orar y condiciona el perdón del Padre a que perdonemos a otros.",
+"refs": [
+"Mr 11:25",
+"Mt 6:14-15"
+],
+"ids": [
+"o_002#16"
+]
+},
+{
+"tema": "Fe, dudas y evidencia: de los hechos a la entrega personal",
+"resumen": "Las dudas sobre ciencia y fe se acompañan con la verdad. Las exigencias de Jesús no parecen invento humano, y la evidencia demanda una respuesta personal.",
+"refs": [
+"Mt 5:28",
+"Mt 5:39-48",
+"Jn 14:6",
+"Sal 119:160"
+],
+"ids": [
+"b_081#41",
+"b_262#25",
+"b_263#12"
+]
+},
+{
+"tema": "Vivir todo para la gloria de Dios: la vida entera consagrada",
+"resumen": "Fuimos creados y salvados para la gloria de Dios, y comer, beber, trabajar y noviar se hacen para Él. No hay para el creyente lo «profano», y el mayor deseo del cristiano es hacer la voluntad de Dios.",
+"refs": [
+"1 Co 10:31",
+"Ro 12:1",
+"Ro 3:23",
+"Ef 6:6",
+"Mt 22:37"
+],
+"ids": [
+"b_165#4",
+"b_165#5",
+"b_286#20",
+"b_048#39"
+]
+},
+{
+"tema": "La adopción: el mayor privilegio del evangelio y su fundamento",
+"resumen": "La adopción es mayor que la justificación: pasamos de ser juzgados como justos a ser recibidos como hijos por el Padre. Es la fuente de todos los privilegios y da certidumbre por el testimonio del Espíritu y la herencia con Cristo.",
+"refs": [
+"Ro 8:15-17",
+"Ef 1:5",
+"Gá 4:4-7",
+"1 Jn 3:1-2",
+"Jn 1:12"
+],
+"ids": [
+"b_347#37",
+"b_348#6",
+"b_359#3",
+"b_364#1",
+"b_368#6",
+"b_377#7",
+"b_365#21",
+"b_373#33",
+"b_347#43",
+"b_121#4"
+]
+},
+{
+"tema": "Hijos por nuevo nacimiento y no por naturaleza: de hijos de ira a hijos de Dios",
+"resumen": "Por naturaleza somos hijos de ira y de Adán, no de Dios. Ser hijo es un regalo que se recibe por la fe y la regeneración, y marca un cambio radical de identidad.",
+"refs": [
+"Jn 1:12-13",
+"Ef 2:3",
+"1 Jn 3:8-10",
+"Jn 8:44",
+"Ro 8:14-17"
+],
+"ids": [
+"b_041#37",
+"b_363#27",
+"b_359#6",
+"b_375#2",
+"b_368#1",
+"b_376#11",
+"b_326#9",
+"b_260#19",
+"b_307#11",
+"b_070#17",
+"b_276#37"
+]
+},
+{
+"tema": "Hijo y no solo siervo: la relación con el Padre",
+"resumen": "«Padre» es el nombre cristiano de Dios, y el creyente es hijo con libertad y acceso, no un siervo que paga su deuda. Pasa del niño-esclavo al hijo adulto y heredero, y ya es hijo de Dios hoy.",
+"refs": [
+"Ro 8:15",
+"Gá 4:1-7",
+"1 Jn 3:1-2",
+"Jn 15:14",
+"Ef 1:3-6"
+],
+"ids": [
+"b_121#6",
+"b_333#44",
+"b_261#41",
+"b_449#6",
+"b_305#26",
+"b_438#8",
+"b_445#35",
+"b_348#39",
+"b_376#16",
+"b_206#25"
+]
+},
+{
+"tema": "El Padre se deleita en los suyos: aceptados en el Amado, elegidos y amados",
+"resumen": "Dios no es un Dios de ceño fruncido: el Padre se complace en el Hijo y por eso en nosotros que estamos en Él. Nos escogió y nos amó antes de la fundación del mundo, en pasado, presente y futuro, y se goza por cada pecador que vuelve.",
+"refs": [
+"Mt 3:17",
+"Ef 1:4-6",
+"Ef 1:6-7",
+"Jer 31:3",
+"Lc 15:7"
+],
+"ids": [
+"b_369#29",
+"b_387#12",
+"b_388#24",
+"b_050#4",
+"b_366#13",
+"o_025#19",
+"o_001#14",
+"b_325#5",
+"b_350#38"
+]
+},
+{
+"tema": "Orfandad, abandono y vergüenza: el Padre que no abandona",
+"resumen": "Muchos varones cargan heridas de padres ausentes y la pregunta «¿le importo a Dios?». Dios adopta a hombres indignos como David a Mefiboset, hace de los «no pueblo» sus hijos, y Cristo cargó nuestra vergüenza.",
+"refs": [
+"Sal 27:10",
+"2 S 9:1-13",
+"Os 1:10",
+"1 Jn 3:1",
+"Heb 13:5"
+],
+"ids": [
+"b_120#65",
+"b_164#57",
+"b_275#64",
+"b_050#7",
+"b_028#5",
+"b_398#16",
+"b_349#71",
+"b_203#5"
+]
+},
+{
+"tema": "Las marcas del hijo y del discípulo: imita al Padre, se parece a Cristo, obedece y ama al hermano",
+"resumen": "Los hijos exhiben el carácter de su Padre: santidad, amor al hermano, obediencia y semejanza con Cristo. El discípulo auténtico es tratado como Cristo y tiene conducta, humildad y obediencia consecuentes con el evangelio.",
+"refs": [
+"Ef 5:1-2",
+"1 P 1:14-16",
+"Jn 8:39-44",
+"Mt 10:24-25",
+"Fil 1:27"
+],
+"ids": [
+"b_194#24",
+"b_361#29",
+"b_448#26",
+"b_380#65",
+"b_359#18",
+"o_012#17",
+"b_010#23",
+"b_431#50",
+"b_338#17"
+]
+}
+],
+"fuera": []
+}

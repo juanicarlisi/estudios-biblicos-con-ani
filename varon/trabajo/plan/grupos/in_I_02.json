@@ -1,0 +1,781 @@
+{
+"grupos": [
+{
+"tema": "«Imítenme a mí, como yo a Cristo»: el ejemplo del líder y la prueba de que alguien lo sigue",
+"resumen": "Pablo se ofrece como modelo derivado de Cristo, sin pretender perfección ni atar la imitación a su persona. El líder se prueba por quién lo sigue y por la mano de Dios visible en su vida, y la iglesia y los hijos terminan reflejando a quien los guía.",
+"refs": [
+"1 Co 11:1",
+"Fil 3:17",
+"1 Co 4:16",
+"Heb 13:7",
+"1 Ts 1:6"
+],
+"ids": [
+"b_101#31",
+"b_101#35",
+"b_102#38",
+"b_192#47",
+"b_194#23",
+"b_194#25",
+"b_194#26",
+"b_195#27",
+"b_197#20",
+"b_201#11",
+"b_336#30",
+"b_339#46",
+"b_104#46"
+]
+},
+{
+"tema": "Coherencia entre lo que se enseña y lo que se vive: el peligro del líder hipócrita",
+"resumen": "Decir y no hacer es detestable, sobre todo en quien enseña. La integridad es decisiva en el liderazgo, y el que ayuda a otros empieza por examinarse y gobernarse a sí mismo.",
+"refs": [
+"Mt 23:3",
+"Stg 3:1",
+"Ro 2:21-22",
+"Gá 6:1",
+"1 S 1:14"
+],
+"ids": [
+"b_194#20",
+"b_272#25",
+"b_398#9",
+"o_004#38",
+"b_195#1",
+"b_230#29",
+"o_012#24",
+"b_301#22"
+]
+},
+{
+"tema": "La vida del ministro es su mensaje: santidad irreprochable y plenitud del Espíritu",
+"resumen": "Sin una vida piadosa que la respalde, la predicación queda como una concha vacía. El líder irreprochable anda con Cristo, vive a Jesús ante sus hermanos y es llamado a ser un hombre piadoso, no un promotor ni un ejecutivo.",
+"refs": [
+"1 Ti 3:2",
+"1 Ti 4:12",
+"2 Ti 2:2-6",
+"1 P 5:1",
+"Fil 4:9"
+],
+"ids": [
+"b_263#37",
+"b_289#1",
+"b_301#27",
+"b_302#17",
+"b_335#44",
+"b_413#31",
+"b_427#54",
+"b_430#3",
+"b_441#33",
+"b_077#36",
+"b_360#4",
+"b_415#25",
+"b_429#39"
+]
+},
+{
+"tema": "El líder como padre: nodriza y padre en 1 Tesalonicenses 2 y los padres espirituales",
+"resumen": "Pablo eligió la metáfora del padre y la madre: ternura, entrega de la propia vida, ejemplo cercano, advertencia y disciplina en amor. Esa paternidad espiritual marca cómo los líderes cuidan a los que están en la fe.",
+"refs": [
+"1 Ts 2:7-11",
+"1 Co 4:14-21",
+"Gá 4:19",
+"1 Jn 2:12-14",
+"2 Ti 1:1-5"
+],
+"ids": [
+"b_193#44",
+"b_305#2",
+"b_320#51",
+"b_396#22",
+"b_415#27",
+"b_429#42",
+"b_418#47",
+"b_429#2"
+]
+},
+{
+"tema": "Hablar lo que Dios dijo: predicar y enseñar con la autoridad delegada de Cristo, sin opiniones propias",
+"resumen": "Jesús enseñaba con autoridad y no como los escribas; el ministro habla con autoridad prestada («Esto dice el Señor»), no con la propia, y repite fielmente lo recibido sin pedir votos ni inventar un mensaje nuevo.",
+"refs": [
+"Mt 7:28-29",
+"Mt 5:21-22",
+"Jn 12:49-50",
+"Tit 2:15",
+"Hch 15:35"
+],
+"ids": [
+"b_096#10",
+"b_239#9",
+"b_324#11",
+"b_324#12",
+"b_298#29",
+"b_186#32"
+]
+},
+{
+"tema": "Autoridad sin poder ni dominio: ternura, servicio y abuso de autoridad",
+"resumen": "La autoridad bíblica invita y sirve, no amenaza ni controla. Hace falta equilibrio entre autoridad y ternura, y se advierte contra el control dictatorial, el abuso del poder (incluso sexual) y la falsa autoridad en la iglesia.",
+"refs": [
+"2 Co 12:11-12",
+"1 Co 4:21",
+"1 Ts 2:7-11",
+"Mt 8:5-9",
+"1 Co 12:4-28"
+],
+"ids": [
+"b_096#37",
+"b_105#7",
+"b_193#11",
+"b_216#32",
+"b_256#27",
+"b_258#14",
+"b_431#8",
+"b_386#40",
+"b_193#13",
+"b_365#13",
+"b_422#6"
+]
+},
+{
+"tema": "Humildad y no ambición: sin títulos exaltados, sin celos y sin querer el primer lugar",
+"resumen": "El líder espiritual evita los títulos que le corresponden a Cristo, no se mide por cuántos lo siguen a él ni compite con otros, y se elige por humildad y no por afán de notoriedad (Diótrefes como contraejemplo).",
+"refs": [
+"Mt 23:8-10",
+"Jn 3:27-30",
+"3 Jn 9-10",
+"1 Co 3:21",
+"1 Co 1:12"
+],
+"ids": [
+"b_281#22",
+"b_390#5",
+"b_393#29",
+"b_400#13",
+"b_254#29"
+]
+},
+{
+"tema": "Predicar a Cristo con urgencia y fidelidad a toda la Escritura",
+"resumen": "Enseñar sin Cristo es moralismo: la Biblia entera es cristocéntrica, el mensaje es la Palabra que libera, y la predicación fiel es lo primero en el ministerio pastoral y se hace con urgencia.",
+"refs": [
+"1 Co 2:2",
+"Hch 8:32-35",
+"2 Co 5:10-11",
+"Jn 8:32",
+"2 Ti 4:1-4"
+],
+"ids": [
+"b_104#40",
+"b_178#1",
+"b_239#15",
+"b_239#35",
+"b_328#27",
+"b_194#13"
+]
+},
+{
+"tema": "La meta del ministro y del discipulado: presentar perfecto en Cristo a todo hombre (Col 1:28-29)",
+"resumen": "El propósito del ministro es la madurez en Cristo, no llenar auditorios; la conversión es solo el primer paso. El discipulado se mide por discípulos obedientes que practican las disciplinas de Cristo, no por números ni presupuestos.",
+"refs": [
+"Col 1:28-29",
+"Gá 4:19",
+"Ro 8:29",
+"Mt 28:19-20",
+"Ef 4:13"
+],
+"ids": [
+"b_099#17",
+"b_190#42",
+"b_178#5",
+"b_198#1",
+"b_289#41",
+"b_305#17"
+]
+},
+{
+"tema": "Enseñar bien: diálogo, creatividad, partir de la realidad del oyente y dar el proceso",
+"resumen": "Consejos prácticos de método para quien enseña: no aburrir con la Palabra, guiar al descubrimiento, tender un puente desde la situación del oyente, enseñar el porqué y no solo el resultado, y unir contenido, comunicación y carácter.",
+"refs": [
+"Ec 12:9-11",
+"Mr 6:20",
+"Mr 12:37"
+],
+"ids": [
+"b_071#16",
+"b_365#24",
+"o_025#44",
+"b_177#49",
+"b_280#49"
+]
+},
+{
+"tema": "La preparación de quien enseña: estudio, Escritura, oración y aprendizaje permanente",
+"resumen": "Predicar y enseñar es trabajo arduo que pide estudio, meditación y oración. La Escritura forma al líder, el pastor es siempre un estudiante y el expositor se prepara con un plan y con comunión íntima con Dios.",
+"refs": [
+"2 Ti 2:15",
+"2 Ti 3:16-17",
+"1 Ti 5:17",
+"Ef 4:11-16"
+],
+"ids": [
+"b_328#25",
+"b_106#29",
+"b_240#1",
+"b_289#16",
+"b_404#6",
+"b_423#14"
+]
+},
+{
+"tema": "«Apto para enseñar» (1 Ti 3:2): don, doctrina profunda y humildad del maestro",
+"resumen": "El único requisito del anciano ligado a la función es ser apto para enseñar: capaz de instruir y a la vez enseñable. Se exige don, comprensión de la doctrina, carácter coherente, preparación y humildad (el maestro también tropieza).",
+"refs": [
+"1 Ti 3:2",
+"2 Ti 2:24",
+"Stg 3:1-2",
+"1 Ti 4:6",
+"1 Ti 4:14"
+],
+"ids": [
+"b_046#40",
+"b_300#26",
+"b_323#28",
+"b_412#31",
+"b_413#8",
+"b_422#19",
+"b_427#31",
+"b_427#32",
+"b_437#49",
+"b_438#40"
+]
+},
+{
+"tema": "Falsos maestros: cómo reconocerlos y por qué el líder debe vigilar",
+"resumen": "Quienes enseñan otra doctrina, por ganancia o avaricia, se infiltran en la iglesia y niegan a Dios con sus obras. Se dan criterios para reconocerlos y probarlos, y el líder tiene que perseverar en la doctrina de Cristo.",
+"refs": [
+"1 Ti 6:3",
+"Tit 1:10-16",
+"Jud 3-4",
+"2 P 2:3",
+"2 Jn 9"
+],
+"ids": [
+"b_441#31",
+"b_281#21",
+"b_421#27",
+"b_423#34",
+"b_439#50",
+"b_440#48"
+]
+},
+{
+"tema": "El llamado al ministerio y los dones: Dios llama y capacita, nadie se envía a sí mismo",
+"resumen": "El llamado es iniciativa de Dios, que da el don; el entrenamiento solo desarrolla lo dado. Se advierte contra enseñar sin llamado ni don, contra ejercer dones sin oficio y contra abandonar el puesto asignado.",
+"refs": [
+"Jn 15:16",
+"Jer 1:4-5",
+"Ef 4:11-13",
+"Ro 12:7",
+"1 Co 12:28"
+],
+"ids": [
+"b_055#38",
+"b_021#16",
+"b_107#96",
+"b_191#41",
+"b_302#2",
+"b_367#11",
+"b_397#25",
+"b_397#26"
+]
+},
+{
+"tema": "Don y oficio en el gobierno de la iglesia: no compiten, se complementan",
+"resumen": "Distinguir el don (ministerio) del oficio (cargo) y entender que el mismo Espíritu da fervor y orden. Los dones de gobernar, ayudar y administrar sostienen a ancianos y diáconos.",
+"refs": [
+"1 Co 12:28",
+"Ro 12:8",
+"1 Co 16:15-16",
+"1 P 4:10"
+],
+"ids": [
+"b_282#5",
+"b_303#3",
+"b_371#19",
+"b_404#7",
+"b_422#7"
+]
+},
+{
+"tema": "Solo varones como ancianos y pastores (1 Ti 2:11-12)",
+"resumen": "Jesús nombró a doce hombres, y el Nuevo Testamento reserva el oficio de anciano-maestro a varones, con base en la creación y no en la cultura. Se expone la subordinación sin inferioridad y el lugar de los dones de las mujeres.",
+"refs": [
+"1 Ti 2:11-14",
+"1 Ti 3:2",
+"1 Ti 5:17",
+"Mt 19:28",
+"Hch 21:8-11"
+],
+"ids": [
+"b_362#16",
+"b_320#43",
+"b_373#52",
+"b_412#41",
+"b_427#8",
+"b_449#4"
+]
+},
+{
+"tema": "Pastores y maestros en Efesios 4:11: un solo don o dos y sus funciones",
+"resumen": "Discusión de si pastor y maestro son un solo don o dos, qué hacía cada oficio (evangelista, anciano, diácono, profeta) y por qué la iglesia necesita sobre todo maestros de la Palabra.",
+"refs": [
+"Ef 4:11-12",
+"1 Co 12:28",
+"1 Ti 5:17",
+"Hch 13:1"
+],
+"ids": [
+"b_377#3",
+"b_398#25",
+"b_302#29",
+"b_359#38",
+"b_365#27",
+"b_370#7",
+"b_375#35",
+"b_396#7",
+"b_406#50",
+"b_409#46",
+"b_416#50"
+]
+},
+{
+"tema": "El cuidado pastoral no es solo del ordenado: pastores asistentes y don de pastor",
+"resumen": "Cristo es el buen Pastor; el don de pastor y el cuidar, aconsejar y guiar pueden ejercerlo creyentes sin cargo. Todo discípulo adopta en alguna medida el papel de pastor.",
+"refs": [
+"Jn 10:11",
+"Mt 9:36",
+"Ro 15:14",
+"Gá 6:1-5",
+"1 P 5:4"
+],
+"ids": [
+"o_011#9",
+"b_294#12",
+"b_283#14",
+"b_305#30",
+"b_404#4"
+]
+},
+{
+"tema": "Elegir y probar a quienes van a liderar: compromiso, carácter y prueba antes del oficio",
+"resumen": "Criterios para escoger colaboradores, ancianos y diáconos: buen testimonio, compromiso e integridad antes que capacidad, no un neófito, humildad y prueba previa sirviendo. Incluye levantar hombres jóvenes para el futuro.",
+"refs": [
+"1 Ti 3:1-13",
+"1 Ti 3:6",
+"1 Ti 3:10",
+"Tit 1:5",
+"1 P 5:1-3"
+],
+"ids": [
+"b_300#3",
+"b_261#26",
+"b_283#16",
+"b_196#22",
+"b_283#29",
+"b_321#11",
+"b_373#54",
+"o_010#31"
+]
+},
+{
+"tema": "Funciones del pastor y equipar a los santos: no ser el hombre orquesta",
+"resumen": "Las actividades del pastor según Tesalonicenses y 2 Timoteo, y su tarea de capacitar a otros para la obra del ministerio y hacerse innecesario.",
+"refs": [
+"1 Ts 2:1-12",
+"2 Ti 1:6-14",
+"Ef 4:11-12",
+"Hch 14:21-28"
+],
+"ids": [
+"b_320#40",
+"b_190#19",
+"b_189#27",
+"b_299#14"
+]
+},
+{
+"tema": "Nadie lidera solo: delegar, facultar, pedir ayuda y armar equipo",
+"resumen": "El líder comparte su influencia e invierte en las personas, pide ayuda, mantiene una organización sencilla y recluta colaboradores. El equipo es la cantera de futuros líderes y delegar es una forma de discipulado.",
+"refs": [
+"2 Ti 2:2",
+"Mt 10:1",
+"Stg 4:2",
+"Hch 20:4"
+],
+"ids": [
+"b_095#31",
+"b_106#73",
+"b_102#25",
+"b_102#42",
+"b_196#24",
+"b_300#2",
+"b_195#10",
+"b_168#10"
+]
+},
+{
+"tema": "Sostener a la gente que se lidera: afirmar, inspirar, confiar y mantener firmeza",
+"resumen": "El líder gana confianza día a día, afirma y agradece, inspira al desanimado, sostiene la visión y el celo, y sabe poner límites sin caer en la codependencia ni rebajar a nadie.",
+"refs": [
+"2 Ts 1:3-4",
+"Ro 15:7",
+"Mt 25:21",
+"Nm 13:32",
+"Mt 19:16-22"
+],
+"ids": [
+"b_106#35",
+"b_106#68",
+"b_195#6",
+"b_291#2",
+"b_093#28",
+"b_288#18",
+"b_195#9",
+"b_195#21"
+]
+},
+{
+"tema": "Jesús como modelo de líder: verdad, confrontación con gracia, compasión y trabajo",
+"resumen": "Rasgos del liderazgo de Jesús: define la realidad con la verdad, denuncia la mentira, confronta sin separar gracia y verdad, es veraz y digno de confianza, trabaja por compasión, motiva con esperanza real y adapta su estilo.",
+"refs": [
+"Jn 8:31-32",
+"Mt 23:27-28",
+"Mr 12:13-14",
+"Jn 1:14",
+"Jn 8:1-12"
+],
+"ids": [
+"b_107#79",
+"b_107#82",
+"b_392#13",
+"b_041#15",
+"b_041#18",
+"b_041#21",
+"b_041#28",
+"b_041#29",
+"b_041#47",
+"b_100#27",
+"b_105#31",
+"b_386#24",
+"b_041#46"
+]
+},
+{
+"tema": "La oración del líder: interceder, discernir la voluntad de Dios y escuchar antes de hablar",
+"resumen": "El líder se pone en la brecha, ora antes de decidir como Jesús (noche entera) y mantiene la prioridad de la Palabra y la oración. También se enseña a orar por el pastor.",
+"refs": [
+"Ez 22:30",
+"Lc 6:12-13",
+"Mr 1:32-38",
+"Mt 6:9-10",
+"Is 50:4"
+],
+"ids": [
+"b_101#48",
+"b_109#1",
+"b_283#7",
+"b_419#27",
+"b_041#20",
+"b_238#11"
+]
+},
+{
+"tema": "Los principios de Jesús para elegir y formar discípulos: orar, seleccionar, estar con ellos, enviar",
+"resumen": "El método de Jesús según Coleman, Ortiz y otros: orar antes de elegir, seleccionar con cuidado, convivir, formar un equipo, ejemplificar, delegar y liberar, con acercamientos educativos distintos (grupo grande, pequeño, acompañamiento, servicio).",
+"refs": [
+"Mr 3:13-15",
+"Lc 6:12-13",
+"Jn 17:12",
+"Mr 6:7"
+],
+"ids": [
+"b_107#80",
+"b_195#22",
+"b_195#29",
+"b_195#30",
+"b_195#37",
+"o_020#30",
+"o_020#38",
+"b_311#31"
+]
+},
+{
+"tema": "Primero estar con Jesús, después ser enviados: la progresión de Marcos 3:14",
+"resumen": "Dios llama, capacita y envía para que el discípulo llame, capacite y envíe a otros. Jesús estableció a doce para que estuvieran con él y para enviarlos, y la meta del líder es preparar sucesores.",
+"refs": [
+"Mr 3:14-15",
+"Lc 9:1",
+"2 Ti 2:2",
+"Jn 17:18",
+"Hch 2:41"
+],
+"ids": [
+"b_039#10",
+"b_039#16",
+"b_039#22",
+"b_104#45",
+"b_316#19",
+"b_053#16",
+"b_056#1"
+]
+},
+{
+"tema": "Los Doce: hombres comunes y difíciles, con pocos meses de formación y círculos de intimidad desiguales",
+"resumen": "Jesús formó a hombres sin credenciales religiosas, con carencias de entendimiento, humildad, fe, compromiso y poder, y tuvo paciencia con ellos. Mantuvo a tres muy cerca porque ningún líder puede dar igual atención a todos.",
+"refs": [
+"Mt 10:2-4",
+"Mt 15:16-17",
+"Lc 24:25",
+"Mr 5:37",
+"Lc 9:12"
+],
+"ids": [
+"b_014#7",
+"b_305#15",
+"b_053#1",
+"b_053#19",
+"b_053#23",
+"b_055#25",
+"b_055#28",
+"b_056#2",
+"b_056#8",
+"b_292#45"
+]
+},
+{
+"tema": "Invertir la vida en pocos hombres en vez de perseguir multitudes: el modelo de Jesús",
+"resumen": "Jesús no explotó su fama sino que derramó su vida en un puñado de hombres, viviendo con ellos. Hacer discípulos empieza en el propio entorno, y el mejor aprendizaje es una vida invertida en otra vida.",
+"refs": [
+"Jn 17",
+"Mt 28:19-20",
+"Jn 6:66-69",
+"Zac 4:6",
+"Ro 1:8-15"
+],
+"ids": [
+"b_101#37",
+"b_105#19",
+"b_013#41",
+"b_016#10",
+"b_053#18",
+"b_397#43",
+"b_017#10",
+"b_018#21",
+"b_280#17",
+"b_053#3",
+"b_055#26"
+]
+},
+{
+"tema": "2 Timoteo 2:2: la cadena Pablo, Timoteo, hombres fieles, otros (exégesis)",
+"resumen": "Qué significa «hombres fieles idóneos para enseñar también a otros»: el sentido de «fiel» (pistos), la transmisión sin alterar la fe, el relevo generacional y el batón que pasa de un hombre a otro.",
+"refs": [
+"2 Ti 2:2",
+"2 Ti 1:13-14",
+"1 Ti 6:20",
+"2 Ti 2:14",
+"Ap 14:4"
+],
+"ids": [
+"b_085#5",
+"b_164#23",
+"b_104#32",
+"b_195#28",
+"b_289#10",
+"b_414#44",
+"b_416#6",
+"b_421#9",
+"b_424#14",
+"b_429#9",
+"b_430#24",
+"b_424#15"
+]
+},
+{
+"tema": "Formar hombres fieles que enseñen a otros: aplicación del relevo generacional",
+"resumen": "Cómo se aplica la cadena de 2 Timoteo 2:2: buscar y preparar a jóvenes como Timoteo, formar pastores en la propia congregación, reproducir líderes como hizo Jesús con los doce y discipular con principios bíblicos y no con marketing.",
+"refs": [
+"2 Ti 2:2",
+"Lc 6:12-13",
+"1 Ti 3:1",
+"Mt 9:37-38",
+"2 Ti 4:3"
+],
+"ids": [
+"b_055#23",
+"b_189#14",
+"b_191#51",
+"b_281#7",
+"b_289#11",
+"b_300#1",
+"b_336#40",
+"b_411#35",
+"b_418#46"
+]
+},
+{
+"tema": "Hacer discípulos es mandato para todo cristiano y el pastor se prueba discipulando",
+"resumen": "La Gran Comisión hace sinónimos «cristiano» y «hacedor de discípulos». Nadie necesita un don especial para hacerlo, el discípulo que no hace discípulos es inconsistente, y el pastor no puede quedarse en el púlpito sin involucrarse en la vida de su gente.",
+"refs": [
+"Mt 28:19-20",
+"1 Jn 2:12-14",
+"Lc 6:40",
+"Hch 1:8",
+"Mt 25:37"
+],
+"ids": [
+"b_017#11",
+"b_017#13",
+"b_017#17",
+"b_039#8",
+"b_195#26",
+"b_195#38",
+"b_288#21",
+"b_290#1",
+"b_351#7",
+"b_052#26"
+]
+},
+{
+"tema": "Cómo discipular en la práctica: pasos de entrenamiento, grupos de hombres y casos reales",
+"resumen": "Métodos concretos para formar a otros: nunca trabajar solo, los cinco pasos (ejemplo, guía, observación, motivación, multiplicación), a quién elegir, grupos pequeños de hombres y ejemplos de quienes empezaron sin experiencia.",
+"refs": [
+"2 Ti 2:2",
+"Mr 3:14",
+"1 P 2:2"
+],
+"ids": [
+"b_091#2",
+"b_013#25",
+"b_015#9",
+"b_018#26",
+"b_024#38",
+"b_298#21",
+"b_039#21",
+"b_058#35",
+"b_093#27",
+"b_086#33",
+"b_334#37",
+"b_197#27"
+]
+},
+{
+"tema": "Discipular a jóvenes: identidad en Cristo, buenas preguntas, transparencia del mentor y paciencia",
+"resumen": "Seis herramientas para acompañar a jóvenes: que el líder tenga clara su identidad, preguntar para llevarlos a pensar, mostrar el espejo bíblico, ser un mentor transparente, amarlos con paciencia y ajustar las expectativas sin juzgarlos de carnales.",
+"refs": [
+"1 Co 13",
+"1 Co 15:33",
+"2 Ti 2:2",
+"Ef 4:11-16"
+],
+"ids": [
+"b_081#15",
+"b_082#12",
+"b_082#21",
+"b_081#16",
+"b_081#17",
+"b_081#18",
+"b_081#19",
+"o_025#38",
+"b_081#28",
+"b_081#29"
+]
+},
+{
+"tema": "Mentoría espiritual: Emaús como patrón, cualidades del mentor y metas de acompañamiento",
+"resumen": "El relato de Emaús como estructura del acompañamiento, las nueve cualidades del mentor, un encuentro modelo y cómo fijar metas que pasen del deseo a la acción (rueda de la vida).",
+"refs": [
+"Lc 24:13-35",
+"1 Co 11:1",
+"Stg 1:22-25",
+"Jn 13:17"
+],
+"ids": [
+"o_021#17",
+"o_021#25",
+"o_021#40",
+"o_021#47",
+"o_021#1"
+]
+},
+{
+"tema": "El discipulado es una relación y no un programa: cercanía, escucha y sin posesividad",
+"resumen": "Discipular es compartir la vida, ver a las personas como personas y no como miembros, escuchar con devoción, estar en la iglesia local y no sentirse dueño de nadie. Se critica a los líderes que no se relacionan con sus discípulos.",
+"refs": [
+"1 Co 11:1",
+"1 Ts 2:8",
+"Gá 4:19",
+"Stg 1:19",
+"He 3:12-13"
+],
+"ids": [
+"b_100#15",
+"b_101#1",
+"b_351#57",
+"b_290#3",
+"o_022#20",
+"b_105#21",
+"b_101#7",
+"b_351#58"
+]
+},
+{
+"tema": "Los hombres son el método de Dios, no los programas ni los métodos",
+"resumen": "Dios no unge planes sino hombres: los experimentados toman bajo sus alas a los jóvenes. De hombres correctos nacen matrimonios, familias e iglesias correctas, y el carácter del predicador pesa más que la organización.",
+"refs": [
+"Tit 2",
+"2 Ti 2:2"
+],
+"ids": [
+"b_039#13",
+"b_195#31",
+"b_195#36",
+"b_039#11",
+"b_318#24"
+]
+},
+{
+"tema": "El hogar primero: Cristo reina en la casa y el ministro no sacrifica a su familia",
+"resumen": "Para que Cristo reine en el hogar hay que amarle y obedecerle; cada familia es una pequeña iglesia con padres como pastores y sacerdotes, y el ministro prioriza su hogar piadoso por encima de las exigencias del ministerio.",
+"refs": [
+"Jn 14:23",
+"Pr 31:26",
+"Gá 6:2",
+"1 Ti 3:4-5"
+],
+"ids": [
+"b_126#31",
+"b_275#29",
+"o_003#63",
+"b_196#29"
+]
+},
+{
+"tema": "El gozo y las pruebas del ministro: ver a los suyos andar en la verdad, la ingratitud y la mirada ajena",
+"resumen": "El mayor gozo del ministro es que su gente crea, ame y obedezca la verdad; también enfrenta la ingratitud y vive bajo la mirada de todos.",
+"refs": [
+"3 Jn 4",
+"1 Ts 2:19-20",
+"Jn 15:20-22"
+],
+"ids": [
+"b_326#39",
+"b_441#24",
+"b_444#14",
+"b_258#6"
+]
+}
+],
+"fuera": []
+}

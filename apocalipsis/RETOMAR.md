@@ -1,0 +1,14 @@
+# Apocalipsis: dónde quedamos (25-10-2026)
+
+**Hecho**
+- Corpus: 12 obras de la biblioteca (MacArthur, McGee x2, Larkin, Ladd, Beacon/Earle, Mundo Hispano t. 24, Carballosa y Beasley-Murray por OCR, Biblia MacArthur, Diccionario MH), libros de REFERENCIA3, 90 artículos de Coalición por el Evangelio y 101 documentos libres (Guzik, Gracia a Vosotros, Ligonier, 9Marcas, blog de TTL, muestra de MiSion).
+- Extracción en `trabajo/extracciones/` (~250 archivos, unas 11.000 notas con página de origen). Instrucciones en `trabajo/prompts/extraer.md`; validador `scripts/validar_extraccion.py`.
+- Griego (SBLGNT + Strong) en `trabajo/griego/`; mapas en `trabajo/mapas/`; unidades de lectura y pesos en `scripts/unidades.py` y `scripts/pesos.py` (≈80 días).
+
+**Falta**
+1. Terminar bloques: r1_034–039, web_01–21, r2_001–040 (revisar con la lista de `_indice.json` qué ids no tienen archivo). Los bloques se regeneran con `scripts/armar_corpus.py` (necesita SCRATCH con los textos; ver cabecera del script).
+2. Plan de días (sin tope de versículos; 20–30 min por día), partes y artículos/temas.
+3. Escribir los días, cotejar citas con RVR1960 y griego, continuidad entre días.
+4. App: adaptar `genesis/app/plantilla.html` (barra de progreso, mapas y diagramas en la página, anexos, griego en vez de hebreo).
+
+**Pendiente de decidir:** los PDF de clases de TTL (Evangelio completo 14–15, Iglesia gloriosa 14) quedaron excluidos por prudencia; el curso «Maranata» y el de MiSion son de pago y no se tocaron. No hay trabajo de Santiago en el repositorio.

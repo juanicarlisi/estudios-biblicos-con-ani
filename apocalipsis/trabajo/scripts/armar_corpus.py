@@ -35,7 +35,7 @@ FAM_A = {
     'beacon': dict(txt=S + '/txt/Comentario_Biblico_B.txt', desde=307, hasta=None, obra='Ralph Earle, «Apocalipsis», Comentario Bíblico Beacon, tomo 10 (Casa Nazarena de Publicaciones)'),
     'cbmh': dict(txt=S + '/ref3txt/Escatologia y Ultimos Tiempos__Apocalipsis 1, 2, 3.pdf.txt', desde=97, hasta=None, obra='Comentario Bíblico Mundo Hispano, tomo 24: Apocalipsis (exposición de N. Alirio Eustache Vilaire; ayudas prácticas de Juan Carlos Cevallos)'),
     'carballosa': dict(txt=S + '/corpus/carballosa.txt', obra='Evis L. Carballosa, Apocalipsis: el drama de los siglos (Portavoz)'),
-    'henry': dict(txt=S + '/corpus/henry.txt', desde=173, hasta=195, obra='Matthew Henry, Comentario bíblico: Apocalipsis (Clie)'),
+    'henry': dict(txt=S + '/corpus/henry.txt', desde=173, hasta=195, obra='G. R. Beasley-Murray, «Apocalipsis», Nuevo Comentario Bíblico (Clie); el PDF se rotula como «Biblia Matthew Henry», pero el texto es de Beasley-Murray'),
     'mbiblia': dict(txt=S + '/corpus/macarthur_biblia.txt', desde=3390, hasta=3479, obra='John MacArthur, Biblia de Estudio MacArthur: introducción y notas de Apocalipsis'),
 }
 indice = []
@@ -149,7 +149,7 @@ def fam_d():
         items = []
         for sc, d in arts:
             cab = f"{d.get('titulo','')} | {d.get('autor','')} | {d.get('fecha','')} | {d.get('fuente') or 'Coalición por el Evangelio'} | {d.get('url','')}"
-            items.append((cab, d['texto'][:25000]))
+            items.append((cab, d['texto'][:(45000 if 'guzik' in str(d.get('url','')).lower() or 'guzik' in str(d.get('fuente','')).lower() else 25000)]))
         volcar(fuente, items, 'Artículos web de acceso libre (' + ('Coalición por el Evangelio' if fuente == 'cpe' else 'TTL, MiSion y otros sitios') + ')')
         print(fuente, 'artículos', len(arts))
 

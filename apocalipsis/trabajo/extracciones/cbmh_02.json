@@ -1,0 +1,769 @@
+{
+ "bloque": "cbmh_02",
+ "notas": [
+  {
+   "ref": "1:9",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Patmos: isla de destierro",
+   "contenido": "Patmos es una isla pequeña de las Espóradas del Sur o Dodecaneso (Doce Islas), cercana a Turquía: 14 km de largo por 7 de ancho, a unos 59 km al sudoeste de Mileto, puerto de Éfeso. Tiene un excelente puerto natural y era la última etapa del viaje entre Roma y Éfeso. Es de colinas volcánicas y superficie rocosa, y los romanos desterraban allí a sus convictos.",
+   "refs_biblicas": [
+    "Hch 20:17"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "cronologia_fechas",
+   "titulo": "Destierro de Juan bajo Domiciano (95 d. de J.C.)",
+   "contenido": "Según el autor, Eusebio dice que Juan fue desterrado a Patmos por el emperador Domiciano en 95 d. de J.C. y puesto en libertad año y medio después por el emperador Nerva.",
+   "postura": "El autor adopta el testimonio de Eusebio sobre el destierro bajo Domiciano.",
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "explicacion_texto",
+   "titulo": "Por qué estaba Juan en Patmos",
+   "contenido": "Juan dice estar en Patmos por causa de la palabra de Dios y del testimonio de Jesús, frase que aquí se refiere al contenido de su predicación. El autor concluye que el exilio vino porque las autoridades, aparentemente, interpretaron su predicación como sediciosa e inconveniente para los intereses del imperio. Juan no estaba allí para predicar, sino por la oposición político-religiosa a su fidelidad a la Palabra.",
+   "refs_biblicas": [
+    "Ap 1:2",
+    "Ap 6:9",
+    "Ap 20:4"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:10",
+   "tipo": "explicacion_texto",
+   "titulo": "En el Espíritu: estado de exaltación profética",
+   "contenido": "Estar en el Espíritu describe un estado espiritual de exaltación semejante a un trance: Juan fue tomado por el Espíritu o inspirado y llevado al mundo de las visiones proféticas. El autor lo compara con Pedro en Jope y Pablo en Jerusalén, y con otras expresiones del libro y de Ezequiel.",
+   "refs_biblicas": [
+    "Hch 10:10",
+    "Hch 11:5",
+    "Hch 22:17",
+    "2 Co 12:2-4",
+    "Ap 4:2",
+    "Ap 17:3",
+    "Ap 21:10",
+    "Ez 3:12",
+    "Ez 3:14",
+    "Ez 37:1"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:10",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "El día del Señor",
+   "contenido": "Es el único lugar del NT donde aparece la expresión, por lo que identificarla es difícil. Algunos creen que alude al domingo de resurrección; la mayoría de los estudiosos, que se refiere al domingo, primer día de la semana. Esto une al apóstol exiliado con la adoración de las iglesias de Asia. Los cristianos habían cambiado el sábado judío por el primer día de la semana en recuerdo de la resurrección de Jesucristo.",
+   "postura": "Presenta dos posturas (domingo de resurrección; domingo semanal) y se inclina por la de la mayoría: el domingo.",
+   "refs_biblicas": [
+    "1 Co 16:2"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:10-11",
+   "tipo": "explicacion_texto",
+   "titulo": "La gran voz como de trompeta y el mandato de escribir",
+   "contenido": "La voz como de trompeta es de Dios: resonante, penetrante, inconfundible, de mandato claro. La trompeta tiene significado escatológico en otros pasajes del NT y evoca la entrega de la ley en Sinaí. El mandato Escribe en un libro lo que ves exige atención a lo que ve y fidelidad y precisión al registrarlo, además de enviarlo a las siete iglesias.",
+   "refs_biblicas": [
+    "Mt 24:31",
+    "1 Co 15:52",
+    "1 Ts 4:16",
+    "Éx 19:16",
+    "Éx 19:19",
+    "Heb 12:19"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:11",
+   "tipo": "contexto_historico",
+   "titulo": "Las siete iglesias: ciudades clave, símbolo y correo (Ramsay)",
+   "contenido": "Las siete iglesias se identifican con siete ciudades importantes y clave de los distritos de la provincia romana de Asia. El siete es simbólico de lo completo, por lo que es muy probable que Juan se refiera a toda la comunidad cristiana de Asia, y por extensión a todo el pueblo cristiano. Según W. M. Ramsay, plausible para el autor, eran centros de distritos para distribuir correo y noticias, desde los cuales las cartas se difundirían a toda la provincia.",
+   "postura": "Tres explicaciones complementarias (ciudades clave; simbolismo del siete; centros postales según Ramsay); el autor considera plausible la de Ramsay.",
+   "pagina": "pág. PDF 128-129",
+   "importancia": 2
+  },
+  {
+   "ref": "1:12-20",
+   "tipo": "estructura_bosquejo",
+   "titulo": "La visión de Cristo glorificado, clave del resto del libro",
+   "contenido": "La visión de 1:12-20 presenta al Señor de la iglesia y autor de las siete cartas. Según el autor, es sumamente importante para el resto del libro, pues da a la visión apocalíptica posterior el sello distintivo de ser cristiana: en Apocalipsis todo depende de Cristo. En contraste con el César, personaje central del imperio, Cristo es infinitamente más imponente.",
+   "pagina": "pág. PDF 129",
+   "importancia": 2
+  },
+  {
+   "ref": "1:12-13",
+   "tipo": "simbolo_numero",
+   "titulo": "Los siete candeleros de oro",
+   "contenido": "Los siete candeleros de oro son las siete iglesias (1:20). El símbolo cuadra con que los cristianos son la luz del mundo (Mt 5:14) y proviene del AT: el candelabro de siete lámparas de Zacarías 4:2-3, que remite al candelabro original del tabernáculo y del templo. Si Juan tiene en mente a Zacarías, las iglesias son portadoras de luz solo por su íntima relación con Cristo, la fuente de luz, y por el poder del Espíritu Santo.",
+   "refs_biblicas": [
+    "Mt 5:14",
+    "Zac 4:2-3",
+    "Éx 25:31-40",
+    "Ap 1:4",
+    "Ap 3:1",
+    "Ap 4:5",
+    "Ap 5:6"
+   ],
+   "pagina": "pág. PDF 130",
+   "importancia": 2
+  },
+  {
+   "ref": "1:13",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "Semejante al Hijo del Hombre",
+   "contenido": "Es el modo favorito con que Cristo se refería a sí mismo, aunque no negó el título Hijo de Dios. Su origen está en Daniel 7:13, donde un Hijo del Hombre viene en las nubes ante el Anciano de Días; el autor lo toma como referencia al Mesías celestial que a la vez es humano. Hay diferentes opiniones sobre el significado de la designación, pero en Juan el que habla es el Cristo exaltado.",
+   "refs_biblicas": [
+    "Dn 7:13",
+    "Jn 10:36",
+    "Mr 14:61-62"
+   ],
+   "pagina": "pág. PDF 130",
+   "importancia": 2
+  },
+  {
+   "ref": "1:13",
+   "tipo": "simbolo_numero",
+   "titulo": "Vestidura larga y cinto de oro: sacerdocio y dignidad",
+   "contenido": "La visión crea una impresión de totalidad más que de conceptos abstractos: lo divino, lo misterioso y el temor reverente. Juan ve a Jesús como el legítimo Hijo de Dios y como cumplimiento de las descripciones mesiánicas del AT (firmeza, poder, sabiduría divina, visión penetrante). La vestidura y el cinto de oro los portaban los sacerdotes, y pueden representar a Cristo como gran sumo sacerdote de las iglesias en cumplimiento del sacerdocio aarónico; también pueden indicar dignidad y autoridad divina.",
+   "refs_biblicas": [
+    "Éx 28:4",
+    "Ez 9:2",
+    "Ez 9:11",
+    "Dn 10:5"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 2
+  },
+  {
+   "ref": "1:14",
+   "tipo": "simbolo_numero",
+   "titulo": "Cabello blanco como lana y nieve",
+   "contenido": "El autor enumera la descripción física de Jesús en siete rasgos; el primero es su cabeza y sus cabellos blancos como la lana y la nieve. Concuerda con Daniel 7:9 (Anciano de Días). En la antigüedad el cabello blanco indicaba respeto y sabiduría de los años; enseña a Juan la deidad y la sabiduría de Cristo.",
+   "griego": {
+    "palabra": "καί",
+    "transliteracion": "kai",
+    "significado": "Con valor explicativo seguido de un nombre en aposición: «su cabeza, es decir, sus cabellos» (o sea, esto es, y ciertamente)."
+   },
+   "refs_biblicas": [
+    "Dn 7:9",
+    "Col 2:3"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 2
+  },
+  {
+   "ref": "1:14",
+   "tipo": "simbolo_numero",
+   "titulo": "Ojos como llama de fuego",
+   "contenido": "El segundo rasgo: ojos como llama de fuego, imagen que reaparece en Ap 2:18 y 19:12 y en Daniel 10:6. Según el autor, puede aludir a la capacidad de escrutinio penetrante o al juicio intenso de Cristo.",
+   "refs_biblicas": [
+    "Ap 2:18",
+    "Ap 19:12",
+    "Dn 10:6"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 1
+  },
+  {
+   "ref": "1:15",
+   "tipo": "simbolo_numero",
+   "titulo": "Pies como bronce bruñido y voz como muchas aguas",
+   "contenido": "Tercer rasgo: pies semejantes al bronce bruñido, ardiente como en un horno; en Ezequiel y Daniel el metal brillante es símbolo de la gloria de Dios. Swete ve en la figura la fuerza o poder de aplastar. Cuarto rasgo: la voz como estruendo de muchas aguas, que describe la gloria y majestad de Dios como en Ezequiel; el autor lo ilustra con el imponente salto Ángel (Cuquenán), en Venezuela. El símil se repite en 14:2 y 19:6.",
+   "refs_biblicas": [
+    "Dn 10:6",
+    "Ez 1:7",
+    "Ez 1:24",
+    "Ez 43:2",
+    "Sal 93:4",
+    "Ap 14:2",
+    "Ap 19:6"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 1
+  },
+  {
+   "ref": "1:16",
+   "tipo": "simbolo_numero",
+   "titulo": "Siete estrellas en la mano derecha",
+   "contenido": "Quinto rasgo: la mano derecha es símbolo de poder y seguridad, y las siete estrellas son los ángeles de las siete iglesias (v. 20). Probablemente Juan solo quiere enfatizar que Cristo tiene poder sobre las iglesias y que ellas existen solo cuando él las tiene.",
+   "refs_biblicas": [
+    "Ap 1:20"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 2
+  },
+  {
+   "ref": "1:16",
+   "tipo": "simbolo_numero",
+   "titulo": "La espada aguda de dos filos que sale de su boca",
+   "contenido": "Sexto rasgo: metáfora usada varias veces en el libro; dibujarla sería grotesco. Su único paralelo es Isaías 11:4 (la vara de su boca) y 2 Tesalonicenses 2:8 (el soplo de su boca). Aunque la espada suele simbolizar guerra o autoridad política, al salir de la boca y no estar en la mano, significa el poder irresistible del juicio divino. Cristo conquista el mundo por su muerte y resurrección, y la espada es su testimonio fiel del propósito salvador de Dios; las armas de sus seguidores son la justicia, la lealtad y la verdad.",
+   "refs_biblicas": [
+    "Is 11:4",
+    "Is 49:2",
+    "2 Ts 2:8",
+    "Heb 4:12",
+    "Ap 2:12",
+    "Ap 2:16",
+    "Ap 19:15",
+    "Ap 19:21"
+   ],
+   "pagina": "pág. PDF 131-132",
+   "importancia": 3
+  },
+  {
+   "ref": "1:16",
+   "tipo": "simbolo_numero",
+   "titulo": "Rostro como el sol en su fuerza",
+   "contenido": "Séptimo y último rasgo: el rostro como el sol cuando resplandece en su fuerza, que habla de la gloria divina, la preeminencia y la victoria de Cristo; su fulgor no solo resplandece sino que enceguece por su poder divino.",
+   "refs_biblicas": [
+    "Mt 13:43",
+    "Mt 17:2",
+    "Ap 10:1"
+   ],
+   "pagina": "pág. PDF 132",
+   "importancia": 1
+  },
+  {
+   "ref": "1:17",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "Juan cae como muerto y Jesús le dice «No temas»",
+   "contenido": "Juan cae como muerto ante la visión, como los profetas ante la manifestación de Dios (Isaías, Ezequiel, Daniel). Jesús pone sobre él su mano derecha, signo de bendición y poder que le restituye la confianza y lo prepara para oír consuelo y órdenes. Un temor tan grande solo podía quitarlo el toque de Jesús. Juan ya había oído No temas en el mar de Galilea y en la transfiguración.",
+   "refs_biblicas": [
+    "Is 6:1-8",
+    "Ez 1:28",
+    "Dn 10:9",
+    "Mt 14:27",
+    "Mt 17:6",
+    "Mt 17:7",
+    "Hch 26:14",
+    "Ap 2:10"
+   ],
+   "pagina": "pág. PDF 132",
+   "importancia": 2
+  },
+  {
+   "ref": "1:17-18",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El primero y el último: Cristo idéntico a Jehovah",
+   "contenido": "La triple afirmación de Cristo sustenta su consuelo a Juan. Primero, el título Yo soy el primero y el último, aplicado a Dios en Isaías 44:6 y 48:12, significa que solo él es Dios, Señor absoluto de la historia y Creador. Según el autor, evidencia que en la cristología de Apocalipsis Jesucristo es idéntico a Jehovah Dios, Rey de Israel: es afirmación de su divinidad y absoluta soberanía.",
+   "cita": "evidencia que en la cristología de Apocalipsis Jesucristo es idéntico a Jehovah Dios, el Rey de Israel",
+   "refs_biblicas": [
+    "Is 44:6",
+    "Is 48:12",
+    "Ap 1:8",
+    "Ap 2:8",
+    "Ap 22:13"
+   ],
+   "pagina": "pág. PDF 132",
+   "importancia": 3
+  },
+  {
+   "ref": "1:18",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El que vive, estuvo muerto y vive por los siglos",
+   "contenido": "Segundo, Jesús es el que vive, como Dios que no cambia; la expresión viene del AT y contrasta con los dioses muertos del paganismo. Aunque estuvo muerto, vive hoy y por la eternidad. Para el autor el concepto total que Juan presenta de Jesús y su reino se centra en la cruz y la resurrección, y esa perspectiva marca el sentido de las visiones siguientes.",
+   "refs_biblicas": [
+    "Heb 13:8",
+    "Jos 3:10",
+    "1 S 17:26",
+    "Sal 42:2",
+    "Sal 84:2",
+    "Mt 16:16",
+    "Hch 14:15",
+    "Ro 9:26",
+    "Ap 7:2"
+   ],
+   "pagina": "pág. PDF 133",
+   "importancia": 3
+  },
+  {
+   "ref": "1:18",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "Las llaves de la muerte y del Hades",
+   "contenido": "Tercero, por su muerte y resurrección Jesús se gana las llaves de la muerte y del Hades, que dan acceso, autoridad y poder sobre sus dominios; según la literatura judía pertenecían solo a Dios. Hades equivale al hebreo Seol: a veces el lugar de todos los muertos (Hch 2:27, 31) y otras la morada del difunto malvado (Lc 16:23; Ap 20:13-14). Solo Jesús ha conquistado la muerte, así que solo él decide quién va a la muerte y al Hades y quién sale; solo los verdaderos cristianos pueden ver la muerte como sierva de Cristo, y se destruye el temor a la muerte.",
+   "griego": {
+    "palabra": "ᾅδης",
+    "transliteracion": "hádes",
+    "significado": "Equivalente del hebreo Seol: morada o lugar de los muertos."
+   },
+   "refs_biblicas": [
+    "Mt 16:19",
+    "Hch 2:27",
+    "Hch 2:31",
+    "Lc 16:23",
+    "Ap 3:7",
+    "Ap 9:1",
+    "Ap 20:1",
+    "Ap 20:13-14",
+    "Ap 21:25",
+    "Heb 2:14-15"
+   ],
+   "pagina": "pág. PDF 133",
+   "importancia": 3
+  },
+  {
+   "ref": "1:9-20",
+   "tipo": "aplicacion_practica",
+   "titulo": "Semillero: «No temas»",
+   "contenido": "Bosquejo homilético de 1:9-20. I. Juan, uno que entiende mis problemas: hermano y compañero (comunión en el evangelio), en medio de problemas (isla/cárcel, testimonio hasta las últimas consecuencias), compañero en el sufrimiento, el reino y la perseverancia, en un día señorial con siete iglesias concretas. II. Jesús, uno que me acompaña: Jesús en medio de su iglesia; no tratar de dibujar la visión ni buscar simbolismos, entenderla en su totalidad (la espada puede ser la Palabra cortante); reverencia, su mano de cariño que dice No temas, el Yo soy que vive y tiene el control (Ro 8). Conclusión: la Palabra es un libro para todos, y Jesús vuelve a decir: NO TEMAS.",
+   "refs_biblicas": [
+    "Hch 14:22",
+    "Ro 8"
+   ],
+   "pagina": "pág. PDF 133-134",
+   "importancia": 1
+  },
+  {
+   "ref": "1:19",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«Lo que has visto, lo que es y lo que ha de ser»",
+   "contenido": "Se repite y expande el encargo de escribir. El griego permite traducir «y lo que significan» en lugar de y las que son, de modo que el mandato sería describir la visión de Jesús y su significado, y además las cosas que se revelarán después. El autor reconoce que el texto da lugar a mucha discusión por ser difícil. La relación entre presente y futuro es más profética que apocalíptica, característica de todo el libro, y su interpretación depende del contenido de la visión.",
+   "postura": "Señala la traducción alternativa «y lo que significan» sin imponer un esquema de tres partes; reconoce la dificultad.",
+   "pagina": "pág. PDF 134",
+   "importancia": 2
+  },
+  {
+   "ref": "1:20",
+   "tipo": "simbolo_numero",
+   "titulo": "El misterio de las estrellas y los candeleros",
+   "contenido": "La primera visión termina con su interpretación: las siete estrellas son los ángeles de las siete iglesias y los siete candeleros son las siete iglesias. A la visión se la llama misterio, que en el NT es algo antes escondido y ahora revelado o identificado.",
+   "griego": {
+    "palabra": "μυστήριον",
+    "transliteracion": "musterion",
+    "significado": "Misterio: algo anteriormente escondido o secreto que ahora se ha dado a conocer."
+   },
+   "refs_biblicas": [
+    "Ap 10:7",
+    "Ap 17:7",
+    "Ap 17:18"
+   ],
+   "pagina": "pág. PDF 134",
+   "importancia": 2
+  },
+  {
+   "ref": "1:20",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Quiénes son los ángeles de las siete iglesias?",
+   "contenido": "El término ángel aparece 67 veces en Apocalipsis, casi siempre para mensajeros celestiales, y solo ocasionalmente en el NT para mensajeros humanos; en la literatura apocalíptica no se halla ningún caso de ángeles como mensajeros humanos. Posturas: (1) pastores de las iglesias (Ralph Earle, Iván Barchuk; la opinión tradicional); (2) mensajeros celestiales a quienes Cristo confió el cuidado de las iglesias, tan identificados con ellas que las cartas se dirigen a ambos; (3) un instrumento literario para dirigir las cartas. Sea cual sea, el énfasis recae en la presencia directa de Jesucristo y su comunicación por el Espíritu; las iglesias tienen carácter celestial y corporal, y Cristo tiene la autoridad para regirlas y juzgarlas.",
+   "postura": "Presenta tres posturas; al considerar los elementos, dice que «pareciera tener validez» la opinión tradicional de que son los pastores, lo cual consuela a los ministros, sostenidos por las manos del Señor.",
+   "refs_biblicas": [
+    "Lc 7:24",
+    "Lc 9:52",
+    "Stg 2:25",
+    "1 Co 11:10",
+    "Ef 3:10",
+    "Heb 1:14"
+   ],
+   "pagina": "pág. PDF 134-135",
+   "importancia": 3
+  },
+  {
+   "ref": "2:1-3:22",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Los caps. 2 y 3 como mensajes proféticos; todo el libro es carta circular",
+   "contenido": "Los caps. 2 y 3 se relacionan íntimamente con el cap. 1. El mandato de 1:11 de escribir y enviar a las siete iglesias se aplica a todas las visiones del libro, por lo que llamar «cartas» a estos capítulos puede conducir a mala interpretación. Es más apropiado verlos como mensajes proféticos a las iglesias y a todo Apocalipsis como una carta circular a las siete iglesias; los mensajes individuales son las introducciones al resto del contenido.",
+   "postura": "Para el autor los caps. 2-3 son mensajes proféticos introductorios y Apocalipsis entero es una carta circular.",
+   "refs_biblicas": [
+    "Ap 1:11"
+   ],
+   "pagina": "pág. PDF 135",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-3:22",
+   "tipo": "simbolo_numero",
+   "titulo": "Por qué siete iglesias: reales y representativas de todas las edades",
+   "contenido": "El siete es símbolo de lo completo o perfecto. Según el autor, las siete eran congregaciones históricas y reales, y a la vez representantes de las iglesias de todas las edades. El patrón de obediencia y desobediencia en los mensajes sirve de recordatorio permanente a las iglesias. El orden de mención sigue la ruta natural del camino que unía las ciudades, de Éfeso a Laodicea.",
+   "postura": "Las ve como iglesias reales y a la vez representativas de las iglesias de todos los tiempos (no como una cronología de edades).",
+   "refs_biblicas": [
+    "Ap 2:23"
+   ],
+   "pagina": "pág. PDF 135-136",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-3:22",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Los siete elementos de cada mensaje",
+   "contenido": "Cada mensaje tiene: (1) la orden de escribir al ángel de la iglesia; (2) la identificación del que habla con frases de la visión de Cristo glorificado; (3) su conocimiento omnisciente de las obras; (4) el veredicto, condenatorio salvo en Esmirna y Filadelfia (desaprobadas por completo Sardis y Laodicea); (5) un mandato punzante que expone la naturaleza precisa del engaño, que no era fácil de reconocer; (6) la exhortación El que tiene oído, oiga, que en las últimas cuatro va después de la promesa; (7) una promesa al vencedor, a menudo simbólica, escatológica y correlacionada con los caps. 21-22. Todas las iglesias deben oír tanto elogio como censura. El conjunto busca marcar a los creyentes para perseverar en la persecución y elegir a Cristo antes que al César.",
+   "refs_biblicas": [
+    "Ap 2:7",
+    "Ap 2:11",
+    "Ap 2:17",
+    "Ap 2:29",
+    "Ap 3:6",
+    "Ap 3:13",
+    "Ap 3:22",
+    "Ap 21-22"
+   ],
+   "pagina": "pág. PDF 136-137",
+   "importancia": 3
+  },
+  {
+   "ref": "2:1-7",
+   "tipo": "contexto_historico",
+   "titulo": "Éfeso: ciudad, comercio y religión",
+   "contenido": "Éfeso estaba en la costa occidental de Asia Menor, en la desembocadura del río Caister, donde convergían caminos de Oriente, Galacia y Mesopotamia hacia Roma y España; hoy es un desierto de ruinas. Se la llamó la primera y mayor metrópoli de Asia, la luz de Asia, la feria de vanidades del mundo antiguo. Era cosmopolita, rica por el comercio, con turistas que buscaban talismanes y artesanos que fabricaban altares e imágenes plateadas de Diana. Pérgamo era la capital administrativa de la provincia, pero Éfeso era más prominente; el gobernador romano residía allí y era ciudad libre. Éfeso significa «deseable».",
+   "refs_biblicas": [
+    "Hch 19:23-25"
+   ],
+   "pagina": "pág. PDF 137-138",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-7",
+   "tipo": "cultura_costumbres",
+   "titulo": "El templo de Diana y el testimonio de Heráclito",
+   "contenido": "Éfeso era centro de adoración de la diosa de la fertilidad (Artemisa griega, Diana romana). Su templo, una de las siete maravillas, medía 120 m por 70 m, con 120 columnas de 12 m (36 talladas e incrustadas), regaladas por reyes. Tenía muchos sacerdotes y sacerdotisas que se dedicaban a la prostitución (el autor sugiere que podría relacionarse con los hechos de los nicolaítas). Servía como banco para monarcas y comerciantes y como asilo de criminales. Heráclito (550-480 a. de J.C.), efesio, dijo que sus conciudadanos merecían ser ahogados y que nunca reía por vivir en tan terrible inmundicia.",
+   "refs_biblicas": [
+    "Hch 19:23-25"
+   ],
+   "pagina": "pág. PDF 138-139",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1",
+   "tipo": "contexto_historico",
+   "titulo": "Fundación de la iglesia de Éfeso",
+   "contenido": "Según el autor, la iglesia de Éfeso fue establecida probablemente por Priscila y Aquila hacia 52 d. de J.C., cuando Pablo los dejó allí en su regreso de Corinto a Antioquía. En el siguiente viaje Pablo se quedó más de dos años; luego Timoteo se encargó del ministerio y, según Apocalipsis, Juan tuvo gran protagonismo.",
+   "refs_biblicas": [
+    "Hch 18:18-22",
+    "Hch 19:1-10",
+    "1 Ti 1:3"
+   ],
+   "pagina": "pág. PDF 139",
+   "importancia": 1
+  },
+  {
+   "ref": "2:1",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El que tiene las siete estrellas y camina entre los candeleros",
+   "contenido": "Cristo se identifica con rasgos de la visión inicial. Tiene (krateo) conlleva fuerte idea de control: Cristo ejerce control total sobre las iglesias, que están seguras en su mano derecha, como dice Jn 10:28. Que camine en medio de los candeleros es también advertencia: su vigilancia alcanza a todas las iglesias a la vez. La fórmula dice estas cosas recuerda la solemne de los profetas del AT.",
+   "griego": {
+    "palabra": "κρατέω",
+    "transliteracion": "krateo",
+    "significado": "Tener firmemente, con fuerte idea de control."
+   },
+   "refs_biblicas": [
+    "Ap 1:16",
+    "Jn 10:28",
+    "Is 3:15",
+    "Jer 2:2",
+    "Ez 3:11",
+    "Am 1:3"
+   ],
+   "pagina": "pág. PDF 139",
+   "importancia": 2
+  },
+  {
+   "ref": "2:2-3",
+   "tipo": "explicacion_texto",
+   "titulo": "Elogio a Éfeso: obras, arduo trabajo, discernimiento y aguante",
+   "contenido": "El reconocimiento tiene tres elementos: logros, diferenciación y aguante. Arduo trabajo (kopos) es, en palabras de Barclay, el trabajo que hace sudar y deja exhaustos. La iglesia rechazó a los malos, que no eran los paganos sino falsos maestros dentro de ella, y puso a prueba a los que se decían apóstoles (no «los doce», sino apóstoles en sentido general). Los milagros eran señal de autoridad apostólica, pero también los falsos profetas pueden hacerlos; por eso hay que probar. El autor advierte que ninguna iglesia debe perseguir herejes como lo hizo la historia. Mentirosos (pseudes) y perseverancia (hupomone, virtud de fuerza y no de debilidad) son términos clave.",
+   "griego": {
+    "palabra": "ὑπομονή",
+    "transliteracion": "hupomoné",
+    "significado": "Aguante, perseverancia; virtud que resulta de la fuerza, de quien fija la mirada en la meta."
+   },
+   "refs_biblicas": [
+    "2 Co 11:13",
+    "2 Co 12:12",
+    "Heb 2:4",
+    "Mr 13:22",
+    "2 Ts 2:9",
+    "2 Ti 3:8",
+    "Ap 13:13-14",
+    "1 Jn 4:1"
+   ],
+   "pagina": "pág. PDF 139-140",
+   "importancia": 2
+  },
+  {
+   "ref": "2:6",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Los nicolaítas",
+   "contenido": "No se sabe a ciencia cierta quiénes eran; Juan es el único que los menciona en el NT. Estaban extendidos en Asia: se los menciona en Éfeso y Pérgamo, y sus prácticas inmorales e idólatras estaban también en Tiatira, así que tres de las siete iglesias estaban afectadas. La tradición primitiva los vincula con Nicolás de Antioquía (Hch 6:5), pero los estudiosos no ven evidencia. Parece haber buenas razones para relacionarlos con la doctrina de Balaam y de Jezabel; sus errores incluirían una forma de antinomia.",
+   "postura": "Rechaza la identificación con Nicolás por falta de evidencia; ve probable un vínculo con Balaam y Jezabel y una forma de antinomia.",
+   "refs_biblicas": [
+    "Hch 6:5",
+    "Ap 2:14-16",
+    "Ap 2:20-25"
+   ],
+   "pagina": "pág. PDF 140-141",
+   "importancia": 2
+  },
+  {
+   "ref": "2:4",
+   "tipo": "teologia_doctrina",
+   "titulo": "Haber dejado el primer amor",
+   "contenido": "La queja es sencilla y seria: la iglesia abandonó el amor de sus comienzos. Aunque solo se pueden hacer conjeturas, ningún logro, discernimiento de malos ni perseverancia sustituye el vacío de haber dejado el primer amor, lo cual expone a perder la esencia de la vida cristiana. Incluye abandonar el amor a Dios y a los hermanos (Jn 13:34-35). Barclay: perdió el entusiasmo y fervor de su piedad primera. Tertuliano (Apología 39) recoge lo que decían los paganos: «Ved cuánto se aman los unos a los otros».",
+   "cita": "ninguna cantidad de logros, ni el distinguir a los malos y tampoco la perseverancia pueden sustituir el vacío que resulta cuando una iglesia ha dejado su primer amor",
+   "refs_biblicas": [
+    "Jer 2:2",
+    "Jn 13:34-35",
+    "Hch 20:36-38",
+    "Jue 2:7",
+    "Os 2:14-16"
+   ],
+   "pagina": "pág. PDF 141-142",
+   "importancia": 3
+  },
+  {
+   "ref": "2:5",
+   "tipo": "griego_palabra",
+   "titulo": "Recuerda, arrepiéntete y haz las primeras obras",
+   "contenido": "La exhortación triple empieza por recordar (mnemoneuo) lo que Dios hizo, mayor motivación para el arrepentimiento. Arrepentimiento (metanoeo) no es sentimiento o remordimiento sino volverse 180 grados de andar de espaldas a Dios hacia él, con cambio de mente, conducta y actitud. Luego volver a hacer las obras primeras, con amor, confiando en la misericordia redentora y dando frutos dignos de arrepentimiento. La amenaza es quitar el candelero: el testimonio de una iglesia puede apagarse, como ha ocurrido con iglesias que brillaron y se oscurecieron por pecado y apatía.",
+   "griego": {
+    "palabra": "μετανοέω",
+    "transliteracion": "metanoéo",
+    "significado": "Arrepentirse: volverse 180 grados; cambio radical de mente, conducta y actitud, no mero remordimiento."
+   },
+   "refs_biblicas": [
+    "Lc 15:17-19",
+    "Mt 3:8"
+   ],
+   "pagina": "pág. PDF 142",
+   "importancia": 3
+  },
+  {
+   "ref": "2:7",
+   "tipo": "teologia_doctrina",
+   "titulo": "El que tiene oído y la promesa del árbol de la vida",
+   "contenido": "La exhortación adapta la de los Evangelios sinópticos, pasa de la congregación a los individuos, atribuye ahora la voz al Espíritu (relación Cristo-Espíritu como en Ro 8:9) y pasa del singular al plural las iglesias. El vencedor en Apocalipsis no es quien triunfa sobre un enemigo por la fuerza sino quien se mantiene fiel hasta el fin: el verdadero vencedor es el mártir, y su triunfo es análogo al de Cristo en la cruz. El árbol de la vida y el paraíso vienen de Edén (Gn 2:9; 3:22-24); paraíso es palabra persa que significa jardín placentero y en el judaísmo pasó a ser la morada de los justos muertos. En Apocalipsis simboliza el estado final de perfecta comunión; la promesa es la vida eterna en Cristo.",
+   "refs_biblicas": [
+    "Gn 2:9",
+    "Gn 3:22-24",
+    "Ez 47:12",
+    "Ap 22:2",
+    "Ro 8:9",
+    "Mt 11:15",
+    "Mt 13:9",
+    "Mr 4:9",
+    "Lc 8:8",
+    "Lc 14:35"
+   ],
+   "pagina": "pág. PDF 142-143",
+   "importancia": 3
+  },
+  {
+   "ref": "2:1-7",
+   "tipo": "aplicacion_practica",
+   "titulo": "Semillero: mensaje a la iglesia de Éfeso",
+   "contenido": "Bosquejo: I. La ciudad (la más importante de Asia Menor, templo de Diana, centro de culto al emperador) y el Hijo del Hombre que se mueve en su iglesia; la iglesia fue centro de misiones con pastores como Pablo, Timoteo y Juan. II. Iglesia activista y ortodoxa: obras, duro trabajo, perseverancia, sana doctrina y discernimiento. III. Pero has dejado tu primer amor: faltó amor por la gente, actitud de superioridad; tres imperativos (haz conciencia, arrepiéntete, vuélvete). IV. Más allá de la ortodoxia y el activismo: los criterios de Cristo no son el éxito ni los programas sino el amor al prójimo; no vivir «antitodo»; el evangelio es subversivo. Conclusión: la palabra sirve cuando se convierte en acción.",
+   "refs_biblicas": [
+    "Hch 20:29"
+   ],
+   "pagina": "pág. PDF 137-138",
+   "importancia": 1
+  },
+  {
+   "ref": "2:8-11",
+   "tipo": "contexto_historico",
+   "titulo": "Esmirna: la ciudad hermosa, rival de Éfeso",
+   "contenido": "Esmirna, unos 50 km al norte de Éfeso, era considerada la más hermosa de Asia, con unos 200.000 habitantes; disputaba a Éfeso y Pérgamo el título de «primera de Asia», según sus monedas. Tenía fama como cuna de Homero, comercio de exportación (segunda tras Éfeso) y medicina floreciente. Destruida por los lidios, dejó de existir como ciudad unos 400 años (Estrabón) y se reedificó a fines del siglo IV a. de J.C. por Antígono Monóftalmos y Lisímaco. Tenía estadio, biblioteca, teatros y templos a Afrodita, Apolo, Cibeles, Esculapio, Némesis y Zeus, y sufría terremotos.",
+   "pagina": "pág. PDF 143-144",
+   "importancia": 2
+  },
+  {
+   "ref": "2:8-11",
+   "tipo": "contexto_historico",
+   "titulo": "Esmirna, Roma y Policarpo",
+   "contenido": "Esmirna se alió con Roma y recibió privilegios: ciudad libre bajo Tiberio. En 195 a. de J.C. fue la primera en edificar un templo a Dea Roma y en 23 a. de J.C. ganó a otras once ciudades el privilegio de erigir un templo a Tiberio. Su lealtad a Roma y la numerosa población judía hostil hacían muy difícil vivir como creyente. Policarpo, su obispo, de 86 años, fue quemado vivo hacia 156 d. de J.C. («duodécimo mártir en Esmirna») por no renunciar a su fe: «Ochenta y seis años he servido a Cristo, y él nunca me ha traicionado…». Los judíos participaron, incluso en sábado, juntando leña. Es la primera narración detallada de un mártir después de Esteban.",
+   "cita": "Ochenta y seis años he servido a Cristo, y él nunca me ha traicionado. ¿Cómo pudiera yo blasfemar el nombre de mi Rey que me salvó?",
+   "refs_biblicas": [
+    "Hch 6:8-8:3"
+   ],
+   "pagina": "pág. PDF 144",
+   "importancia": 2
+  },
+  {
+   "ref": "2:8",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El primero y el último, el que estuvo muerto y vivió",
+   "contenido": "De la iglesia de Esmirna no se sabe cuándo se fundó (quizá por la obra de Pablo en la provincia); fue una de las dos sin reproche. El título primero y último recuerda a los que sufren que pertenecen al Creador y Señor de la historia. Ramsay sugiere un contraste con la pretensión de Esmirna de ser «primera» de Asia en belleza y lealtad al emperador. Estuvo muerto (lit. «llegó a ser un cadáver») y vivió: quien triunfó sobre la muerte permite afrontar el martirio. Johnson ve posible alusión a la ciudad destruida y reconstruida.",
+   "refs_biblicas": [
+    "Ap 1:17-18"
+   ],
+   "pagina": "pág. PDF 145-146",
+   "importancia": 2
+  },
+  {
+   "ref": "2:9",
+   "tipo": "griego_palabra",
+   "titulo": "Tribulación y pobreza, pero ricos",
+   "contenido": "Tribulación (thlipsis) es una carga que aplasta, presiona o tritura; era tentación a ceder en la fidelidad. Pobreza (ptocheia) indica carencia total, material; Cristo agrega aunque eres rico (ante Dios). Causas posibles, según el autor: sanciones económicas por no rendir culto al emperador (la presión económica quizá fue el primer paso a la persecución); que los miembros fueran de las clases más pobres (1 Co 1:26); o saqueo por turbas judías o paganas (Heb 10:34). La enseñanza es el contraste entre situación económica y condición espiritual.",
+   "griego": {
+    "palabra": "θλῖψις",
+    "transliteracion": "thlípsis",
+    "significado": "Carga que aplasta, presiona o tritura."
+   },
+   "refs_biblicas": [
+    "Stg 2:5",
+    "Mt 6:20",
+    "2 Co 6:10",
+    "1 Co 1:26",
+    "Heb 10:34"
+   ],
+   "pagina": "pág. PDF 146-147",
+   "importancia": 2
+  },
+  {
+   "ref": "2:9",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "La sinagoga de Satanás",
+   "contenido": "La blasfemia (calumnia) vino de la comunidad judía, no de toda ella, según el autor. El Martirio de Policarpo registra el odio de paganos y judíos. Que digan ser judíos y no lo son indica que, sin fe en Cristo, la descendencia de Abraham (Gl 3:16, 29), no son sus verdaderos hijos; el autor ve aquí la interpretación primitiva de que los cristianos son el verdadero Israel y la circuncisión es del corazón. Sinagoga de Satanás une la designación sagrada de asamblea del Señor con el adversario (Satanás significa adversario; en griego, calumniador). Se refiere a algunos judíos hostiles de Esmirna y no debe aplicarse indiscriminadamente a todas las sinagogas.",
+   "postura": "Para el autor la frase se aplica a ciertos judíos hostiles de Esmirna; ve en el pasaje a los cristianos como verdadero Israel y advierte contra generalizarla.",
+   "refs_biblicas": [
+    "Gl 3:16",
+    "Gl 3:29",
+    "Ro 2:28-29",
+    "Gl 6:15-16"
+   ],
+   "pagina": "pág. PDF 147",
+   "importancia": 3
+  },
+  {
+   "ref": "2:10",
+   "tipo": "explicacion_texto",
+   "titulo": "No temas: padecimiento, cárcel y diez días",
+   "contenido": "No tengas ningún temor llama a dejar el miedo, como Jesús lo dijo a sus discípulos (Mt 10:28; Jn 16:33; 2 Ti 3:12). La cárcel antigua era sobre todo espera de ejecución y a veces castigo temporal. El diablo es el instigador del encarcelamiento y de la persecución romana. Seáis probados (peirazo) evoca la prueba de fuego de los metales; el autor aclara que no significa que Dios haya ordenado el sufrimiento, sino que puede ser prueba. Los diez días son lenguaje apocalíptico de un período corto o indeterminado que se puede soportar (cf. Dn 1:12, 14). Tres fundamentos para no temer: el diablo está detrás, es tiempo de prueba y es limitado (1 Co 10:13).",
+   "postura": "Los diez días: diez días literales o un período corto e indeterminado; el autor lo toma como lenguaje apocalíptico de tiempo limitado.",
+   "griego": {
+    "palabra": "πειράζω",
+    "transliteracion": "peirázo",
+    "significado": "Probar; se usaba para la prueba de fuego de los metales."
+   },
+   "refs_biblicas": [
+    "Mt 10:28",
+    "Jn 16:33",
+    "2 Ti 3:12",
+    "Hch 16:23",
+    "2 Co 11:23",
+    "Dn 1:12",
+    "Dn 1:14",
+    "1 Co 10:13",
+    "Ap 13:11"
+   ],
+   "pagina": "pág. PDF 147-148",
+   "importancia": 2
+  },
+  {
+   "ref": "2:10",
+   "tipo": "simbolo_numero",
+   "titulo": "La corona de la vida (stéfanos) y la corona de Esmirna",
+   "contenido": "Sé fiel hasta la muerte equivale a vencer; Cristo no pide nada que él no haya logrado. El martirio es victoria; los cristianos vencen por fidelidad y no por armas mundanas. La corona no es la diadema real sino el stéfanos, guirnalda de laurel del ganador de los juegos. Esmirna era famosa por sus juegos (Pausanias) y la «corona de Esmirna» podría ser el círculo de columnatas sobre el monte Pagus. Así como los esmirneos eran fieles a Roma, los ciudadanos de la ciudad celestial deben serlo a Cristo, que les dará la corona de la vida eterna.",
+   "griego": {
+    "palabra": "στέφανος",
+    "transliteracion": "stéfanos",
+    "significado": "Corona de laurel o guirnalda del vencedor en los juegos, distinta de la diadema real (diádema)."
+   },
+   "refs_biblicas": [
+    "Stg 1:12",
+    "1 P 5:4",
+    "Ap 22:5"
+   ],
+   "pagina": "pág. PDF 148-149",
+   "importancia": 2
+  },
+  {
+   "ref": "2:11",
+   "tipo": "teologia_doctrina",
+   "titulo": "La segunda muerte",
+   "contenido": "El temor al juicio eterno debe superar al temor de la muerte física (Lc 12:4-5). La segunda muerte aparece en el Tárgum pero no en el AT. La doble negación enfática del griego asegura que el vencedor está inmunizado. Juan no podía garantizar protección contra la primera muerte (martirio o muerte natural), pero sí contra la segunda, que es el lago de fuego; sobre los que participan de la primera resurrección no tiene poder.",
+   "refs_biblicas": [
+    "Lc 12:4-5",
+    "Ap 20:6",
+    "Ap 20:14",
+    "Ap 21:8"
+   ],
+   "pagina": "pág. PDF 149",
+   "importancia": 3
+  },
+  {
+   "ref": "2:8-11",
+   "tipo": "aplicacion_practica",
+   "titulo": "Semillero: mensaje a Esmirna",
+   "contenido": "Bosquejo: I. La ciudad que «resucitó», fiel a Roma y primera en el culto al emperador, y Jesús, Hijo del Hombre, soberano libre de todo sistema y tema de muerte y vida. II. Una iglesia pobre, perseguida y calumniada, sin lista de méritos ni reproches, perseguida por una comunidad judía que se había convertido en sinagoga de Satanás; su poder está en Dios y la fidelidad a los valores del reino. III. La promesa: no claudicar, la corona (del ganador de los juegos, no por jueces o dinero), preguntas: ¿por qué no tenemos persecuciones?, ¿nos acomodamos al mundo?; la fidelidad se mide por la incomodidad que causa el mensaje; debemos ser subversivos. Conclusión: Seguir a Jesús causa problemas.",
+   "pagina": "pág. PDF 144-145",
+   "importancia": 1
+  },
+  {
+   "ref": "2:12-17",
+   "tipo": "contexto_historico",
+   "titulo": "Pérgamo: historia, cultura y religión",
+   "contenido": "Antigua ciudad de Misia, alcanzó su gloria con Atalo I (241-197 a. de J.C.) y Eumenes II Sóter (197-159 a. de J.C.), aliados de Roma; Atalo III legó su reino a Roma en 133 a. de J.C. Eumenes II fundó una biblioteca de 200.000 pergaminos, solo superada por la de Alejandría. Estaba construida sobre un cerro de 300 m que dominaba la llanura del río Caico. Era la ciudad más importante del culto al emperador en Oriente: el templo a la diosa Roma y al divino Augusto fue erigido en 29 a. de J.C., y había un concilio de religión estatal e incienso ante la imagen del emperador. Tenía templos a Zeus, Atenea, Dionisio y Asclepio (Esculapio), centro de sacerdotes médicos con emblema de serpiente, adonde llegaba gente a sanarse y donde los pacientes dormían con serpientes no venenosas. Galeno era oriundo de Pérgamo. Josefo menciona una comunidad judía.",
+   "pagina": "pág. PDF 149-150",
+   "importancia": 2
+  },
+  {
+   "ref": "2:12",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "La espada aguda de dos filos ante el culto imperial",
+   "contenido": "De las siete, la iglesia de Pérgamo era la más proclive al choque frontal con el culto al emperador; por eso Cristo se identifica con la espada aguda de dos filos. Como el procónsul gobernaba por la espada, Juan contrasta una espada con otra: el poder supremo es de Cristo. Doble simbolismo posible: capacidad de proteger y salvar a sus fieles, y poder de juzgar con veredicto justo. Cristo viene a enfrentar con ella a los falsos maestros.",
+   "refs_biblicas": [
+    "Ap 1:16",
+    "Is 49:2"
+   ],
+   "pagina": "pág. PDF 150",
+   "importancia": 2
+  },
+  {
+   "ref": "2:13",
+   "tipo": "explicacion_texto",
+   "titulo": "El trono de Satanás y la fidelidad en Pérgamo",
+   "contenido": "Habitas (katoikeo) sugiere residencia permanente; Barclay: los cristianos de Pérgamo deben quedarse donde Satanás ejerce mayor autoridad, les guste o no. Lo más probable es que el trono de Satanás sea la prominencia de Pérgamo como centro oficial del culto imperial en Asia: como Roma era la sede de la actividad satánica en Occidente (Ap 13:2; 16:10), Pérgamo lo era en Oriente. Retienes mi nombre es mantenerse leal a Cristo, diciendo «Cristo es Señor» y rehusando quemar incienso y decir «César es Señor».",
+   "griego": {
+    "palabra": "κατοικέω",
+    "transliteracion": "katoikéo",
+    "significado": "Residir, morar de modo permanente."
+   },
+   "refs_biblicas": [
+    "Ap 13:2",
+    "Ap 16:10"
+   ],
+   "pagina": "pág. PDF 150-151",
+   "importancia": 2
+  },
+  {
+   "ref": "2:13",
+   "tipo": "personaje",
+   "titulo": "Antipas, testigo fiel",
+   "contenido": "Los romanos ofrecieron a los creyentes la oportunidad de salvar la vida maldiciendo o negando a Cristo y repitiendo la declaración de reverencia al emperador. Antipas parece haber sido el único matado, aunque la presión fue grande; no hay información adecuada para identificar esta persecución. Se le da el mismo título que a Cristo (testigo fiel, Ap 1:5). Probablemente murió por algún decreto gubernamental. Se contrasta que tanto los cristianos como su adversario esencial habitan en el mismo lugar; el martirio empezó en Pérgamo.",
+   "refs_biblicas": [
+    "Ap 1:5"
+   ],
+   "pagina": "pág. PDF 152",
+   "importancia": 2
+  },
+  {
+   "ref": "2:14-15",
+   "tipo": "explicacion_texto",
+   "titulo": "La doctrina de Balaam y de los nicolaítas en Pérgamo",
+   "contenido": "La iglesia de Pérgamo es condenada por ser demasiado tolerante con los que sostenían la doctrina de Balaam (poner tropiezo a Israel: comer lo sacrificado a ídolos y cometer inmoralidad) y la de los nicolaítas, error que Éfeso sí rechazó (2:6). El texto sigue en la página siguiente del comentario.",
+   "refs_biblicas": [
+    "Ap 2:6"
+   ],
+   "pagina": "pág. PDF 152",
+   "importancia": 1
+  },
+  {
+   "ref": "2:12-17",
+   "tipo": "aplicacion_practica",
+   "titulo": "Semillero: mensaje a Pérgamo",
+   "contenido": "Bosquejo: I. La ciudad (centro religioso, templo a Zeus, biblioteca de 200.000 pergaminos, Esculapio y Galeno, brujería, serpiente símbolo de Satanás; primer templo a un emperador vivo, Augusto) y el Hijo del Hombre con la espada, símbolo de dar o quitar vida, fidelidad total. II. Fieles al nombre de Jesús: tuvieron que escoger entre maldecir a Jesús o servir a la ciudad. III. Balaam y Balac (religión al servicio del sistema político), nicolaítas (contemporizar con valores como homosexualismo, fornicación e idolatría, según el autor del bosquejo); conformismo y asimilación; llamado al arrepentimiento a los que hacen y a los que toleran. Promesa: maná (Dios proveedor) y la piedrita (comprobante de transacción; indica que Dios cumple sus promesas). Conclusión: Dios exige radicalidad.",
+   "postura": "El bosquejo (ayuda homilética) dice que los nicolaítas no se saben con certeza pero parece que era contemporizar con nuevos valores.",
+   "pagina": "pág. PDF 151-152",
+   "importancia": 1
+  }
+ ],
+ "problemas": "El bloque termina a mitad de 2:14-15 (pág. PDF 152). OCR corregido: via jeros, afectaba, 'Litel' (Lit. el). El río Éfeso figura como Caister (grafía del original)."
+}

@@ -1,0 +1,395 @@
+{
+ "bloque": "cbmh_02",
+ "notas": [
+  {
+   "ref": "1:9",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Patmos: isla de destierro",
+   "contenido": "Patmos es una isla pequeña de las Espóradas del Sur o Dodecaneso (Doce Islas), cercana a Turquía: 14 km de largo por 7 de ancho, a unos 59 km al sudoeste de Mileto, puerto de Éfeso. Tiene un excelente puerto natural y era la última etapa del viaje entre Roma y Éfeso. Es de colinas volcánicas y superficie rocosa, y los romanos desterraban allí a sus convictos.",
+   "refs_biblicas": [
+    "Hch 20:17"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "cronologia_fechas",
+   "titulo": "Destierro de Juan bajo Domiciano (95 d. de J.C.)",
+   "contenido": "Según el autor, Eusebio dice que Juan fue desterrado a Patmos por el emperador Domiciano en 95 d. de J.C. y puesto en libertad año y medio después por el emperador Nerva.",
+   "postura": "El autor adopta el testimonio de Eusebio sobre el destierro bajo Domiciano.",
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "explicacion_texto",
+   "titulo": "Por qué estaba Juan en Patmos",
+   "contenido": "Juan dice estar en Patmos por causa de la palabra de Dios y del testimonio de Jesús, frase que aquí se refiere al contenido de su predicación. El autor concluye que el exilio vino porque las autoridades, aparentemente, interpretaron su predicación como sediciosa e inconveniente para los intereses del imperio. Juan no estaba allí para predicar, sino por la oposición político-religiosa a su fidelidad a la Palabra.",
+   "refs_biblicas": [
+    "Ap 1:2",
+    "Ap 6:9",
+    "Ap 20:4"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:10",
+   "tipo": "explicacion_texto",
+   "titulo": "En el Espíritu: estado de exaltación profética",
+   "contenido": "Estar en el Espíritu describe un estado espiritual de exaltación semejante a un trance: Juan fue tomado por el Espíritu o inspirado y llevado al mundo de las visiones proféticas. El autor lo compara con Pedro en Jope y Pablo en Jerusalén, y con otras expresiones del libro y de Ezequiel.",
+   "refs_biblicas": [
+    "Hch 10:10",
+    "Hch 11:5",
+    "Hch 22:17",
+    "2 Co 12:2-4",
+    "Ap 4:2",
+    "Ap 17:3",
+    "Ap 21:10",
+    "Ez 3:12",
+    "Ez 3:14",
+    "Ez 37:1"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:10",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "El día del Señor",
+   "contenido": "Es el único lugar del NT donde aparece la expresión, por lo que identificarla es difícil. Algunos creen que alude al domingo de resurrección; la mayoría de los estudiosos, que se refiere al domingo, primer día de la semana. Esto une al apóstol exiliado con la adoración de las iglesias de Asia. Los cristianos habían cambiado el sábado judío por el primer día de la semana en recuerdo de la resurrección de Jesucristo.",
+   "postura": "Presenta dos posturas (domingo de resurrección; domingo semanal) y se inclina por la de la mayoría: el domingo.",
+   "refs_biblicas": [
+    "1 Co 16:2"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:10-11",
+   "tipo": "explicacion_texto",
+   "titulo": "La gran voz como de trompeta y el mandato de escribir",
+   "contenido": "La voz como de trompeta es de Dios: resonante, penetrante, inconfundible, de mandato claro. La trompeta tiene significado escatológico en otros pasajes del NT y evoca la entrega de la ley en Sinaí. El mandato Escribe en un libro lo que ves exige atención a lo que ve y fidelidad y precisión al registrarlo, además de enviarlo a las siete iglesias.",
+   "refs_biblicas": [
+    "Mt 24:31",
+    "1 Co 15:52",
+    "1 Ts 4:16",
+    "Éx 19:16",
+    "Éx 19:19",
+    "Heb 12:19"
+   ],
+   "pagina": "pág. PDF 128",
+   "importancia": 2
+  },
+  {
+   "ref": "1:11",
+   "tipo": "contexto_historico",
+   "titulo": "Las siete iglesias: ciudades clave, símbolo y correo (Ramsay)",
+   "contenido": "Las siete iglesias se identifican con siete ciudades importantes y clave de los distritos de la provincia romana de Asia. El siete es simbólico de lo completo, por lo que es muy probable que Juan se refiera a toda la comunidad cristiana de Asia, y por extensión a todo el pueblo cristiano. Según W. M. Ramsay, plausible para el autor, eran centros de distritos para distribuir correo y noticias, desde los cuales las cartas se difundirían a toda la provincia.",
+   "postura": "Tres explicaciones complementarias (ciudades clave; simbolismo del siete; centros postales según Ramsay); el autor considera plausible la de Ramsay.",
+   "pagina": "pág. PDF 128-129",
+   "importancia": 2
+  },
+  {
+   "ref": "1:12-20",
+   "tipo": "estructura_bosquejo",
+   "titulo": "La visión de Cristo glorificado, clave del resto del libro",
+   "contenido": "La visión de 1:12-20 presenta al Señor de la iglesia y autor de las siete cartas. Según el autor, es sumamente importante para el resto del libro, pues da a la visión apocalíptica posterior el sello distintivo de ser cristiana: en Apocalipsis todo depende de Cristo. En contraste con el César, personaje central del imperio, Cristo es infinitamente más imponente.",
+   "pagina": "pág. PDF 129",
+   "importancia": 2
+  },
+  {
+   "ref": "1:12-13",
+   "tipo": "simbolo_numero",
+   "titulo": "Los siete candeleros de oro",
+   "contenido": "Los siete candeleros de oro son las siete iglesias (1:20). El símbolo cuadra con que los cristianos son la luz del mundo (Mt 5:14) y proviene del AT: el candelabro de siete lámparas de Zacarías 4:2-3, que remite al candelabro original del tabernáculo y del templo. Si Juan tiene en mente a Zacarías, las iglesias son portadoras de luz solo por su íntima relación con Cristo, la fuente de luz, y por el poder del Espíritu Santo.",
+   "refs_biblicas": [
+    "Mt 5:14",
+    "Zac 4:2-3",
+    "Éx 25:31-40",
+    "Ap 1:4",
+    "Ap 3:1",
+    "Ap 4:5",
+    "Ap 5:6"
+   ],
+   "pagina": "pág. PDF 130",
+   "importancia": 2
+  },
+  {
+   "ref": "1:13",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "Semejante al Hijo del Hombre",
+   "contenido": "Es el modo favorito con que Cristo se refería a sí mismo, aunque no negó el título Hijo de Dios. Su origen está en Daniel 7:13, donde un Hijo del Hombre viene en las nubes ante el Anciano de Días; el autor lo toma como referencia al Mesías celestial que a la vez es humano. Hay diferentes opiniones sobre el significado de la designación, pero en Juan el que habla es el Cristo exaltado.",
+   "refs_biblicas": [
+    "Dn 7:13",
+    "Jn 10:36",
+    "Mr 14:61-62"
+   ],
+   "pagina": "pág. PDF 130",
+   "importancia": 2
+  },
+  {
+   "ref": "1:13",
+   "tipo": "simbolo_numero",
+   "titulo": "Vestidura larga y cinto de oro: sacerdocio y dignidad",
+   "contenido": "La visión crea una impresión de totalidad más que de conceptos abstractos: lo divino, lo misterioso y el temor reverente. Juan ve a Jesús como el legítimo Hijo de Dios y como cumplimiento de las descripciones mesiánicas del AT (firmeza, poder, sabiduría divina, visión penetrante). La vestidura y el cinto de oro los portaban los sacerdotes, y pueden representar a Cristo como gran sumo sacerdote de las iglesias en cumplimiento del sacerdocio aarónico; también pueden indicar dignidad y autoridad divina.",
+   "refs_biblicas": [
+    "Éx 28:4",
+    "Ez 9:2",
+    "Ez 9:11",
+    "Dn 10:5"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 2
+  },
+  {
+   "ref": "1:14",
+   "tipo": "simbolo_numero",
+   "titulo": "Cabello blanco como lana y nieve",
+   "contenido": "El autor enumera la descripción física de Jesús en siete rasgos; el primero es su cabeza y sus cabellos blancos como la lana y la nieve. Concuerda con Daniel 7:9 (Anciano de Días). En la antigüedad el cabello blanco indicaba respeto y sabiduría de los años; enseña a Juan la deidad y la sabiduría de Cristo.",
+   "griego": {
+    "palabra": "καί",
+    "transliteracion": "kai",
+    "significado": "Con valor explicativo seguido de un nombre en aposición: «su cabeza, es decir, sus cabellos» (o sea, esto es, y ciertamente)."
+   },
+   "refs_biblicas": [
+    "Dn 7:9",
+    "Col 2:3"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 2
+  },
+  {
+   "ref": "1:14",
+   "tipo": "simbolo_numero",
+   "titulo": "Ojos como llama de fuego",
+   "contenido": "El segundo rasgo: ojos como llama de fuego, imagen que reaparece en Ap 2:18 y 19:12 y en Daniel 10:6. Según el autor, puede aludir a la capacidad de escrutinio penetrante o al juicio intenso de Cristo.",
+   "refs_biblicas": [
+    "Ap 2:18",
+    "Ap 19:12",
+    "Dn 10:6"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 1
+  },
+  {
+   "ref": "1:15",
+   "tipo": "simbolo_numero",
+   "titulo": "Pies como bronce bruñido y voz como muchas aguas",
+   "contenido": "Tercer rasgo: pies semejantes al bronce bruñido, ardiente como en un horno; en Ezequiel y Daniel el metal brillante es símbolo de la gloria de Dios. Swete ve en la figura la fuerza o poder de aplastar. Cuarto rasgo: la voz como estruendo de muchas aguas, que describe la gloria y majestad de Dios como en Ezequiel; el autor lo ilustra con el imponente salto Ángel (Cuquenán), en Venezuela. El símil se repite en 14:2 y 19:6.",
+   "refs_biblicas": [
+    "Dn 10:6",
+    "Ez 1:7",
+    "Ez 1:24",
+    "Ez 43:2",
+    "Sal 93:4",
+    "Ap 14:2",
+    "Ap 19:6"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 1
+  },
+  {
+   "ref": "1:16",
+   "tipo": "simbolo_numero",
+   "titulo": "Siete estrellas en la mano derecha",
+   "contenido": "Quinto rasgo: la mano derecha es símbolo de poder y seguridad, y las siete estrellas son los ángeles de las siete iglesias (v. 20). Probablemente Juan solo quiere enfatizar que Cristo tiene poder sobre las iglesias y que ellas existen solo cuando él las tiene.",
+   "refs_biblicas": [
+    "Ap 1:20"
+   ],
+   "pagina": "pág. PDF 131",
+   "importancia": 2
+  },
+  {
+   "ref": "1:16",
+   "tipo": "simbolo_numero",
+   "titulo": "La espada aguda de dos filos que sale de su boca",
+   "contenido": "Sexto rasgo: metáfora usada varias veces en el libro; dibujarla sería grotesco. Su único paralelo es Isaías 11:4 (la vara de su boca) y 2 Tesalonicenses 2:8 (el soplo de su boca). Aunque la espada suele simbolizar guerra o autoridad política, al salir de la boca y no estar en la mano, significa el poder irresistible del juicio divino. Cristo conquista el mundo por su muerte y resurrección, y la espada es su testimonio fiel del propósito salvador de Dios; las armas de sus seguidores son la justicia, la lealtad y la verdad.",
+   "refs_biblicas": [
+    "Is 11:4",
+    "Is 49:2",
+    "2 Ts 2:8",
+    "Heb 4:12",
+    "Ap 2:12",
+    "Ap 2:16",
+    "Ap 19:15",
+    "Ap 19:21"
+   ],
+   "pagina": "pág. PDF 131-132",
+   "importancia": 3
+  },
+  {
+   "ref": "1:16",
+   "tipo": "simbolo_numero",
+   "titulo": "Rostro como el sol en su fuerza",
+   "contenido": "Séptimo y último rasgo: el rostro como el sol cuando resplandece en su fuerza, que habla de la gloria divina, la preeminencia y la victoria de Cristo; su fulgor no solo resplandece sino que enceguece por su poder divino.",
+   "refs_biblicas": [
+    "Mt 13:43",
+    "Mt 17:2",
+    "Ap 10:1"
+   ],
+   "pagina": "pág. PDF 132",
+   "importancia": 1
+  },
+  {
+   "ref": "1:17",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "Juan cae como muerto y Jesús le dice «No temas»",
+   "contenido": "Juan cae como muerto ante la visión, como los profetas ante la manifestación de Dios (Isaías, Ezequiel, Daniel). Jesús pone sobre él su mano derecha, signo de bendición y poder que le restituye la confianza y lo prepara para oír consuelo y órdenes. Un temor tan grande solo podía quitarlo el toque de Jesús. Juan ya había oído No temas en el mar de Galilea y en la transfiguración.",
+   "refs_biblicas": [
+    "Is 6:1-8",
+    "Ez 1:28",
+    "Dn 10:9",
+    "Mt 14:27",
+    "Mt 17:6",
+    "Mt 17:7",
+    "Hch 26:14",
+    "Ap 2:10"
+   ],
+   "pagina": "pág. PDF 132",
+   "importancia": 2
+  },
+  {
+   "ref": "1:17-18",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El primero y el último: Cristo idéntico a Jehovah",
+   "contenido": "La triple afirmación de Cristo sustenta su consuelo a Juan. Primero, el título Yo soy el primero y el último, aplicado a Dios en Isaías 44:6 y 48:12, significa que solo él es Dios, Señor absoluto de la historia y Creador. Según el autor, evidencia que en la cristología de Apocalipsis Jesucristo es idéntico a Jehovah Dios, Rey de Israel: es afirmación de su divinidad y absoluta soberanía.",
+   "cita": "evidencia que en la cristología de Apocalipsis Jesucristo es idéntico a Jehovah Dios, el Rey de Israel",
+   "refs_biblicas": [
+    "Is 44:6",
+    "Is 48:12",
+    "Ap 1:8",
+    "Ap 2:8",
+    "Ap 22:13"
+   ],
+   "pagina": "pág. PDF 132",
+   "importancia": 3
+  },
+  {
+   "ref": "1:18",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El que vive, estuvo muerto y vive por los siglos",
+   "contenido": "Segundo, Jesús es el que vive, como Dios que no cambia; la expresión viene del AT y contrasta con los dioses muertos del paganismo. Aunque estuvo muerto, vive hoy y por la eternidad. Para el autor el concepto total que Juan presenta de Jesús y su reino se centra en la cruz y la resurrección, y esa perspectiva marca el sentido de las visiones siguientes.",
+   "refs_biblicas": [
+    "Heb 13:8",
+    "Jos 3:10",
+    "1 S 17:26",
+    "Sal 42:2",
+    "Sal 84:2",
+    "Mt 16:16",
+    "Hch 14:15",
+    "Ro 9:26",
+    "Ap 7:2"
+   ],
+   "pagina": "pág. PDF 133",
+   "importancia": 3
+  },
+  {
+   "ref": "1:18",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "Las llaves de la muerte y del Hades",
+   "contenido": "Tercero, por su muerte y resurrección Jesús se gana las llaves de la muerte y del Hades, que dan acceso, autoridad y poder sobre sus dominios; según la literatura judía pertenecían solo a Dios. Hades equivale al hebreo Seol: a veces el lugar de todos los muertos (Hch 2:27, 31) y otras la morada del difunto malvado (Lc 16:23; Ap 20:13-14). Solo Jesús ha conquistado la muerte, así que solo él decide quién va a la muerte y al Hades y quién sale; solo los verdaderos cristianos pueden ver la muerte como sierva de Cristo, y se destruye el temor a la muerte.",
+   "griego": {
+    "palabra": "ᾅδης",
+    "transliteracion": "hádes",
+    "significado": "Equivalente del hebreo Seol: morada o lugar de los muertos."
+   },
+   "refs_biblicas": [
+    "Mt 16:19",
+    "Hch 2:27",
+    "Hch 2:31",
+    "Lc 16:23",
+    "Ap 3:7",
+    "Ap 9:1",
+    "Ap 20:1",
+    "Ap 20:13-14",
+    "Ap 21:25",
+    "Heb 2:14-15"
+   ],
+   "pagina": "pág. PDF 133",
+   "importancia": 3
+  },
+  {
+   "ref": "1:9-20",
+   "tipo": "aplicacion_practica",
+   "titulo": "Semillero: «No temas»",
+   "contenido": "Bosquejo homilético de 1:9-20. I. Juan, uno que entiende mis problemas: hermano y compañero (comunión en el evangelio), en medio de problemas (isla/cárcel, testimonio hasta las últimas consecuencias), compañero en el sufrimiento, el reino y la perseverancia, en un día señorial con siete iglesias concretas. II. Jesús, uno que me acompaña: Jesús en medio de su iglesia; no tratar de dibujar la visión ni buscar simbolismos, entenderla en su totalidad (la espada puede ser la Palabra cortante); reverencia, su mano de cariño que dice No temas, el Yo soy que vive y tiene el control (Ro 8). Conclusión: la Palabra es un libro para todos, y Jesús vuelve a decir: NO TEMAS.",
+   "refs_biblicas": [
+    "Hch 14:22",
+    "Ro 8"
+   ],
+   "pagina": "pág. PDF 133-134",
+   "importancia": 1
+  },
+  {
+   "ref": "1:19",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«Lo que has visto, lo que es y lo que ha de ser»",
+   "contenido": "Se repite y expande el encargo de escribir. El griego permite traducir «y lo que significan» en lugar de y las que son, de modo que el mandato sería describir la visión de Jesús y su significado, y además las cosas que se revelarán después. El autor reconoce que el texto da lugar a mucha discusión por ser difícil. La relación entre presente y futuro es más profética que apocalíptica, característica de todo el libro, y su interpretación depende del contenido de la visión.",
+   "postura": "Señala la traducción alternativa «y lo que significan» sin imponer un esquema de tres partes; reconoce la dificultad.",
+   "pagina": "pág. PDF 134",
+   "importancia": 2
+  },
+  {
+   "ref": "1:20",
+   "tipo": "simbolo_numero",
+   "titulo": "El misterio de las estrellas y los candeleros",
+   "contenido": "La primera visión termina con su interpretación: las siete estrellas son los ángeles de las siete iglesias y los siete candeleros son las siete iglesias. A la visión se la llama misterio, que en el NT es algo antes escondido y ahora revelado o identificado.",
+   "griego": {
+    "palabra": "μυστήριον",
+    "transliteracion": "musterion",
+    "significado": "Misterio: algo anteriormente escondido o secreto que ahora se ha dado a conocer."
+   },
+   "refs_biblicas": [
+    "Ap 10:7",
+    "Ap 17:7",
+    "Ap 17:18"
+   ],
+   "pagina": "pág. PDF 134",
+   "importancia": 2
+  },
+  {
+   "ref": "1:20",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿Quiénes son los ángeles de las siete iglesias?",
+   "contenido": "El término ángel aparece 67 veces en Apocalipsis, casi siempre para mensajeros celestiales, y solo ocasionalmente en el NT para mensajeros humanos; en la literatura apocalíptica no se halla ningún caso de ángeles como mensajeros humanos. Posturas: (1) pastores de las iglesias (Ralph Earle, Iván Barchuk; la opinión tradicional); (2) mensajeros celestiales a quienes Cristo confió el cuidado de las iglesias, tan identificados con ellas que las cartas se dirigen a ambos; (3) un instrumento literario para dirigir las cartas. Sea cual sea, el énfasis recae en la presencia directa de Jesucristo y su comunicación por el Espíritu; las iglesias tienen carácter celestial y corporal, y Cristo tiene la autoridad para regirlas y juzgarlas.",
+   "postura": "Presenta tres posturas; al considerar los elementos, dice que «pareciera tener validez» la opinión tradicional de que son los pastores, lo cual consuela a los ministros, sostenidos por las manos del Señor.",
+   "refs_biblicas": [
+    "Lc 7:24",
+    "Lc 9:52",
+    "Stg 2:25",
+    "1 Co 11:10",
+    "Ef 3:10",
+    "Heb 1:14"
+   ],
+   "pagina": "pág. PDF 134-135",
+   "importancia": 3
+  },
+  {
+   "ref": "2:1-3:22",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Los caps. 2 y 3 como mensajes proféticos; todo el libro es carta circular",
+   "contenido": "Los caps. 2 y 3 se relacionan íntimamente con el cap. 1. El mandato de 1:11 de escribir y enviar a las siete iglesias se aplica a todas las visiones del libro, por lo que llamar «cartas» a estos capítulos puede conducir a mala interpretación. Es más apropiado verlos como mensajes proféticos a las iglesias y a todo Apocalipsis como una carta circular a las siete iglesias; los mensajes individuales son las introducciones al resto del contenido.",
+   "postura": "Para el autor los caps. 2-3 son mensajes proféticos introductorios y Apocalipsis entero es una carta circular.",
+   "refs_biblicas": [
+    "Ap 1:11"
+   ],
+   "pagina": "pág. PDF 135",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-3:22",
+   "tipo": "simbolo_numero",
+   "titulo": "Por qué siete iglesias: reales y representativas de todas las edades",
+   "contenido": "El siete es símbolo de lo completo o perfecto. Según el autor, las siete eran congregaciones históricas y reales, y a la vez representantes de las iglesias de todas las edades. El patrón de obediencia y desobediencia en los mensajes sirve de recordatorio permanente a las iglesias. El orden de mención sigue la ruta natural del camino que unía las ciudades, de Éfeso a Laodicea.",
+   "postura": "Las ve como iglesias reales y a la vez representativas de las iglesias de todos los tiempos (no como una cronología de edades).",
+   "refs_biblicas": [
+    "Ap 2:23"
+   ],
+   "pagina": "pág. PDF 135-136",
+   "importancia": 2
+  }
+ ],
+ "problemas": "El bloque termina a mitad de 2:14-15 (pág. PDF 152). OCR corregido: via jeros, afectaba, 'Litel' (Lit. el). El río Éfeso figura como Caister (grafía del original)."
+}

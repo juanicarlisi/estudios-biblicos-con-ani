@@ -1,0 +1,240 @@
+{
+"bloque": "dbmh_01",
+"notas": [
+{
+"ref": "1:1",
+"tipo": "contexto_historico",
+"titulo": "Literatura apocalíptica judía y cristiana",
+"contenido": "La literatura apocalíptica es un tipo de escritos religiosos, judíos y cristianos, entre el AT y el NT, con raíces en la profecía del AT. La palabra deriva del griego apokalypsis (revelación o descubrimiento, Ap 1:1) y se aplica a esos escritos porque contienen la supuesta revelación de los propósitos secretos de Dios, el fin del mundo y el establecimiento de su reino. Tras los profetas posexílicos Dios ya no habló a Israel; las promesas proféticas del reino no se habían cumplido y una sucesión de reinos pecaminosos gobernó sobre Israel: Medo-Persia, Grecia y finalmente Roma.",
+"refs_biblicas": [
+"Ap 1:1"
+],
+"griego": {
+"palabra": "ἀποκάλυψις",
+"transliteracion": "apokálypsis",
+"significado": "revelación, descubrimiento"
+},
+"pagina": "vol. I pág. PDF 736",
+"importancia": 2
+},
+{
+"ref": "1:18",
+"tipo": "simbolo_numero",
+"titulo": "La llave: autoridad que Cristo retiene",
+"contenido": "La llave es símbolo de autoridad (Is 22:20-22). El término griego kleis significa algo que cierra. Simboliza la autoridad dada a Pedro (Mt 16:19), pero Jesús la retiene (Ap 1:18; 3:7). Es también la llave que mantiene a las fuerzas destructivas (Ap 9:1) y a Satanás (Ap 20:1) en el abismo sin fondo.",
+"refs_biblicas": [
+"Is 22:20-22",
+"Mt 16:19",
+"Ap 3:7",
+"Ap 9:1",
+"Ap 20:1"
+],
+"griego": {
+"palabra": "κλείς",
+"transliteracion": "kleís",
+"significado": "llave, algo que cierra"
+},
+"pagina": "vol. I pág. PDF 738",
+"importancia": 2
+},
+{
+"ref": "13:1",
+"tipo": "simbolo_numero",
+"titulo": "El mar como símbolo de inquietud y pecado",
+"contenido": "Los antiguos hebreos no eran gente de mar. En la Biblia el mar llega a ser símbolo de inquietud o ansiedad, inestabilidad y pecado (Is 57:20; Jer 49:23; Stg 1:6; Jud 13; Ap 13:1).",
+"refs_biblicas": [
+"Is 57:20",
+"Jer 49:23",
+"Stg 1:6"
+],
+"pagina": "vol. I pág. PDF 767",
+"importancia": 2
+},
+{
+"ref": "4:6",
+"tipo": "simbolo_numero",
+"titulo": "El mar de vidrio: pureza y santidad de Dios",
+"contenido": "En la visión del cielo, un mar de vidrio se ve delante del trono de Dios (Ap 4:6; 15:2). Es translúcido y simboliza, según el diccionario, la pureza y santidad de Dios. En la entrada sobre minerales, el vidrio es el producto de la fusión de silicatos, boratos y fosfatos (Ap 4:6; 15:2; 21:18, 21).",
+"refs_biblicas": [
+"Ap 15:2",
+"Ap 21:18",
+"Ap 21:21"
+],
+"pagina": "vol. I pág. PDF 767; vol. I pág. PDF 809",
+"importancia": 2
+},
+{
+"ref": "13:16",
+"tipo": "griego_palabra",
+"titulo": "Marca: tres palabras, el charagma de la bestia",
+"contenido": "El diccionario distingue varios términos para marca: tau, una firma o señal de propiedad (Ez 9:4, 6; Ap 7:2-8), y charagma, una clasificación o característica peculiar que denota el tipo y clase de la gente (Ap 13:16). Otra palabra remite a las marcas de sufrimiento (Gá 6:17).",
+"refs_biblicas": [
+"Ez 9:4",
+"Ap 7:2-8",
+"Gá 6:17"
+],
+"griego": {
+"palabra": "χάραγμα",
+"transliteracion": "cháragma",
+"significado": "marca o característica que denota el tipo y clase de la gente"
+},
+"pagina": "vol. I pág. PDF 769",
+"importancia": 2
+},
+{
+"ref": "2:13",
+"tipo": "griego_palabra",
+"titulo": "Mártir (martys): testigo hasta la muerte",
+"contenido": "Martys significa testimonio o testigo. Por su uso con Esteban y otros que murieron por Cristo, la palabra llegó a describir a quien pagó el precio máximo por la fidelidad a Cristo. Antipas fue un testigo fiel (Ap 2:13). La ramera Babilonia estaba embriagada con la sangre de los mártires (Ap 17:6).",
+"refs_biblicas": [
+"Hch 22:20",
+"Ap 17:6"
+],
+"griego": {
+"palabra": "μάρτυς",
+"transliteracion": "mártys",
+"significado": "testigo, testimonio; mártir"
+},
+"pagina": "vol. I pág. PDF 776",
+"importancia": 2
+},
+{
+"ref": "21:18-21",
+"tipo": "simbolo_numero",
+"titulo": "Las piedras preciosas de la Ciudad Santa",
+"contenido": "El diccionario cuenta la lista de gemas de Apocalipsis 21:18-21 como una de las cuatro grandes listas de minerales de la Biblia (junto al pectoral de Aarón, Job 28 y el rey de Tiro en Ez 28:13): hay piedras preciosas en cada uno de los 12 cimientos. Las piedras citadas para la ciudad incluyen amatista, berilo, crisólito, crisoprasa, esmeralda, jacinto, jaspe, perla, sardónice, topacio y zafiro, con notas sobre su composición y color.",
+"refs_biblicas": [
+"Éx 28:17-20",
+"Ez 28:13",
+"Job 28:16-19",
+"Ap 21:20"
+],
+"pagina": "vol. I pág. PDF 804-807",
+"importancia": 2
+},
+{
+"ref": "4:3",
+"tipo": "arqueologia_geografia",
+"titulo": "Jaspe, cornalina y esmeralda del trono",
+"contenido": "La cornalina (sardio) se menciona en Apocalipsis 4:3 y 21:20; el jaspe en Ap 4:3; 21:11, 18, 19; la esmeralda, clase de berilo de transparente a verde intenso, en Ap 4:3 y 21:19. El diccionario remite el jaspe a la calcedonia y describe la esmeralda como silicato de berilo aluminio.",
+"refs_biblicas": [
+"Ap 21:11",
+"Ap 21:18-20"
+],
+"pagina": "vol. I pág. PDF 806",
+"importancia": 1
+},
+{
+"ref": "21:20",
+"tipo": "arqueologia_geografia",
+"titulo": "Jacinto, sardónice y topacio en la ciudad",
+"contenido": "El jacinto (Ap 21:20) tiene en griego la connotación de una piedra azul oscuro; es posible que sea el zafiro. El sardónice es un ónice cubierto con capas de cornalina roja. El topacio más apreciado es el amarillo. El zafiro de Ap 21:19, como el rubí, pertenece a la familia del corindón, con dureza 9, segundo después del diamante; los zafiros verdaderos son azules.",
+"refs_biblicas": [
+"Ap 21:19"
+],
+"pagina": "vol. I pág. PDF 806-807",
+"importancia": 1
+},
+{
+"ref": "17:4",
+"tipo": "cultura_costumbres",
+"titulo": "Perlas: cómo se forman",
+"contenido": "La perla (Mt 7:6; 1 Ti 2:9; Ap 17:4; 18:12, 16; 21:21) crece en el mar por la extracción de carbonato de calcio del agua salada, alrededor de un pedacito de materia extraña dentro de la concha de ostras o mejillones. No son mucho más duras que las uñas.",
+"refs_biblicas": [
+"Ap 18:12",
+"Ap 21:21"
+],
+"pagina": "vol. I pág. PDF 806",
+"importancia": 1
+},
+{
+"ref": "14:10",
+"tipo": "simbolo_numero",
+"titulo": "El azufre: fuego, castigo y ruina",
+"contenido": "En la Biblia el azufre se asocia casi siempre con el fuego y metafóricamente con el castigo o la ruina (Gn 19:24; Ap 9:17-18; 14:10; 19:20; 20:10; 21:8). El azufre en llamas da muchísimo calor y el dióxido de azufre tiene un hedor sofocante.",
+"refs_biblicas": [
+"Gn 19:24",
+"Ap 9:17-18",
+"Ap 19:20",
+"Ap 20:10",
+"Ap 21:8"
+],
+"pagina": "vol. I pág. PDF 809",
+"importancia": 1
+},
+{
+"ref": "18:12",
+"tipo": "cultura_costumbres",
+"titulo": "El mármol entre las mercancías de Babilonia",
+"contenido": "El mármol (1 Cr 29:2; Est 1:6; Ap 18:12) es piedra caliza recristalizada capaz de recibir un lustre con brillo.",
+"pagina": "vol. I pág. PDF 809",
+"importancia": 1
+},
+{
+"ref": "20:15",
+"tipo": "teologia_doctrina",
+"titulo": "Segunda muerte para quienes no están en el libro de la vida",
+"contenido": "El diccionario enseña que quienes no están inscritos en el libro de la vida del Cordero (Ap 20:15) experimentan la segunda muerte. Antes señala que la muerte es resultado del pecado y del diablo, quien tiene poder sobre ella hasta que Cristo se lo quite (He 2:15), y que la muerte de Jesús es victoria sobre la muerte en la resurrección corporal.",
+"refs_biblicas": [
+"Ro 5:12",
+"He 2:15"
+],
+"pagina": "vol. I pág. PDF 824",
+"importancia": 2
+},
+{
+"ref": "2:6",
+"tipo": "personaje",
+"titulo": "Los nicolaítas",
+"contenido": "Grupo cuyas obras fueron aborrecidas por el Señor y por la iglesia en Éfeso (Ap 2:6) y cuya doctrina era defendida por algunos en Pérgamo (Ap 2:15). Su doctrina era similar a la de Balaam, por cuya influencia los israelitas comieron lo sacrificado a los ídolos y cometieron fornicación (Ap 2:14-15). En el siglo III existió una secta de nicolaítas entre los gnósticos.",
+"refs_biblicas": [
+"Ap 2:14-15"
+],
+"pagina": "vol. II pág. PDF 22",
+"importancia": 2
+},
+{
+"ref": "1:11",
+"tipo": "cultura_costumbres",
+"titulo": "Dios ordena escribir",
+"contenido": "El diccionario recuerda que Dios mismo escribió (Éx 31:18) y que a menudo ordenaba a los profetas escribir (Is 8:1; Jer 36:2; Hab 2:2; Ap 1:11; 21:5).",
+"refs_biblicas": [
+"Éx 31:18",
+"Hab 2:2",
+"Ap 21:5"
+],
+"pagina": "vol. II pág. PDF 48",
+"importancia": 1
+},
+{
+"ref": "18:3",
+"tipo": "cultura_costumbres",
+"titulo": "Mercaderes condenados por buscar solo ganancia",
+"contenido": "Los mercaderes a veces son personas honorables, pero en ocasiones se los condena porque únicamente perseguían ganancias materiales (Ap 18:3, 11, 15, 23).",
+"pagina": "vol. II pág. PDF 52",
+"importancia": 1
+},
+{
+"ref": "18:22",
+"tipo": "cultura_costumbres",
+"titulo": "Música e instrumentos en Babilonia",
+"contenido": "El artículo sobre el músico cita Apocalipsis 18:22 entre los pasajes sobre música con instrumentos. Entre los instrumentos de los hebreos menciona címbalo, arpa, órgano, flauta, salterio y trompeta.",
+"pagina": "vol. II pág. PDF 52",
+"importancia": 1
+},
+{
+"ref": "19:6",
+"tipo": "teologia_doctrina",
+"titulo": "Omnipotencia de Dios",
+"contenido": "La omnipotencia es el atributo de Dios que describe su capacidad de hacer todo lo que desee. La voluntad de Dios está limitada por su naturaleza, de modo que no puede ignorar el pecado, pecar, hacer algo absurdo o contradecirse. Dios no es controlado por su poder sino que tiene control completo sobre él. Cita Ap 19:6 junto a Job 42:2, Jer 32:17, Mt 19:26 y Lc 1:37.",
+"refs_biblicas": [
+"Job 42:2",
+"Mt 19:26",
+"Lc 1:37"
+],
+"pagina": "vol. II pág. PDF 60",
+"importancia": 1
+}
+],
+"problemas": "Algunas entradas aparecen cortadas por el límite de página (por ejemplo Balac, Muerte, Hechicero); se registró solo lo presente. Entradas con citas apocalípticas marginales (Esclavitud, Frontal) sin contenido propio no se extrajeron."
+}

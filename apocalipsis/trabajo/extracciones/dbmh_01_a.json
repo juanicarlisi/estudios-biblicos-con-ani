@@ -1,0 +1,540 @@
+{
+"bloque": "dbmh_01",
+"notas": [
+{
+"ref": "intro",
+"tipo": "contexto_historico",
+"titulo": "Apocalipsis: único libro del NT exclusivamente profético, atribuido a Juan",
+"contenido": "El Diccionario explica que apokalypsis viene de apo (quitar) y kalypto (cubrir), y que el libro también se llama la Revelación. Es el último libro de la Biblia y el único del NT que es exclusivamente profético en su carácter. A diferencia de muchos libros apocalípticos, que son anónimos o se publicaron bajo un nombre falso, Apocalipsis se atribuye a Juan (1:9).",
+"refs_biblicas": [
+"Ap 1:9"
+],
+"griego": {
+"palabra": "ἀποκάλυψις",
+"transliteracion": "apokálypsis",
+"significado": "de apo (quitar) y kalypto (cubrir): descubrimiento, revelación"
+},
+"pagina": "vol. I pág. PDF 142",
+"importancia": 2
+},
+{
+"ref": "intro",
+"tipo": "cronologia_fechas",
+"titulo": "Fecha: reinado de Nerón o de Domiciano",
+"contenido": "Hay dos puntos de vista predominantes sobre la fecha. Una fecha temprana, en el reinado de Nerón, es favorecida por algunos a causa de la referencia al templo en Apocalipsis 11:1-2. Un segundo punto de vista, según el diccionario mucho mejor sustentado por los intérpretes primitivos del libro, lo ubica en el reinado de Domiciano (81-96 d. de J.C.), casi al final del primer siglo.",
+"refs_biblicas": [
+"Ap 11:1-2"
+],
+"postura": "Presenta ambas fechas; considera la de Domiciano mucho mejor sustentada por los intérpretes primitivos.",
+"pagina": "vol. I pág. PDF 142",
+"importancia": 3
+},
+{
+"ref": "intro",
+"tipo": "arqueologia_geografia",
+"titulo": "Patmos, colonia penal, y las siete iglesias de Asia",
+"contenido": "El libro se escribió en la isla de Patmos, donde Juan había sido exiliado por su fe. Patmos era sitio de una colonia penal, donde los prisioneros políticos eran condenados a trabajos forzados en las minas. Se dirigió a las siete iglesias de la provincia romana de Asia, que ocupaba la tercera parte occidental de la actual Turquía. Las ciudades estaban en las principales carreteras norte-sur, de modo que un mensajero con las cartas podía recorrer un circuito directo de una a otra.",
+"refs_biblicas": [
+"Ap 1:9",
+"Ap 1:4"
+],
+"pagina": "vol. I pág. PDF 142",
+"importancia": 3
+},
+{
+"ref": "intro",
+"tipo": "contexto_historico",
+"titulo": "Propósito: corregir males en las iglesias",
+"contenido": "Según el diccionario, el Apocalipsis fue escrito con el propósito de que los males en las iglesias pudiesen ser corregidos por los eventos que estaban a punto de confrontarlos.",
+"pagina": "vol. I pág. PDF 142",
+"importancia": 2
+},
+{
+"ref": "tema",
+"tipo": "escuelas_interpretacion",
+"titulo": "Las cuatro escuelas de interpretación",
+"contenido": "Hay cuatro escuelas principales. La preterista sostiene que Apocalipsis es una fotografía de las condiciones del Imperio Romano a fines del primer siglo, presentada en forma de visión y profecía para ocultar su significado a los paganos hostiles. La histórica (historicista) ve el libro como representación simbólica de todo el curso de la historia de la iglesia desde su escritura hasta la consumación, con figuras y acciones identificables con eventos humanos. La futurista parte de la triple división de 1:19: lo que has visto es el ambiente inmediato del visionario y la visión de Cristo (1:9-19); lo que es, las iglesias de Asia o la era eclesiástica que simbolizan (2:1—3:22); y lo que ha de ser después se relaciona con los eventos que acompañarán el regreso de Cristo y el establecimiento de la ciudad de Dios. La idealista o simbólica lo trata como una representación dramática del conflicto entre el bien y el mal.",
+"refs_biblicas": [
+"Ap 1:19",
+"Ap 1:9-19",
+"Ap 2:1—3:22"
+],
+"pagina": "vol. I pág. PDF 142-143",
+"importancia": 3
+},
+{
+"ref": "1:19",
+"tipo": "estructura_bosquejo",
+"titulo": "La triple división de 1:19 según la escuela futurista",
+"contenido": "La escuela futurista, sobre la base de la triple división de Apocalipsis 1:19, entiende las cosas que has visto como el ambiente inmediato del visionario y la visión de Cristo (1:9-19); las que son, como las iglesias de Asia o la era eclesiástica que ellas simbolizan (2:1—3:22); y las que han de ser después de éstas, como los eventos que acompañarán el regreso de Cristo y el establecimiento de la ciudad de Dios.",
+"refs_biblicas": [
+"Ap 1:9-19",
+"Ap 2:1—3:22"
+],
+"escuela": "futurista",
+"pagina": "vol. I pág. PDF 142-143",
+"importancia": 2
+},
+{
+"ref": "tema",
+"tipo": "estructura_bosquejo",
+"titulo": "Cuatro grandes visiones introducidas por «en el Espíritu»",
+"contenido": "Apocalipsis contiene cuatro grandes visiones, cada una introducida por la frase en el Espíritu (1:10; 4:2; 17:3; 21:10). Cada una ubica al visionario en un lugar diferente, contiene una representación distintiva de Cristo y conduce la acción de modo significativo hacia su meta. La primera (1:9—3:22) presenta a Cristo como crítico de las iglesias, que elogia sus virtudes y condena sus vicios a la luz de sus virtudes. La segunda (4:1—16:21) trata las series progresivas de sellos, trompetas y copas, que marcan el juicio de Dios sobre un mundo dominado por el mal. La tercera (17:1—21:8) describe el derrocamiento de la sociedad, religión y gobierno malignos en la destrucción de Babilonia y la derrota de la bestia y sus ejércitos por el Cristo victorioso. La última (21:9—22:5) es el establecimiento de la ciudad de Dios, destino eterno de su pueblo.",
+"refs_biblicas": [
+"Ap 1:10",
+"Ap 4:2",
+"Ap 17:3",
+"Ap 21:10"
+],
+"pagina": "vol. I pág. PDF 143",
+"importancia": 3
+},
+{
+"ref": "intro",
+"tipo": "estructura_bosquejo",
+"titulo": "Bosquejo del libro centrado en Cristo",
+"contenido": "Bosquejo del diccionario: I. Introducción: el regreso de Cristo (1:1-8). II. Cristo, el crítico de las iglesias (1:9—3:22). III. Cristo, el director del destino (4:1—16:21). IV. Cristo, el conquistador del mal (17:1—21:8). V. Cristo, el consumador de la esperanza (21:9—22:5). VI. Epílogo: llamamiento e invitación (22:6-21).",
+"pagina": "vol. I pág. PDF 143",
+"importancia": 3
+},
+{
+"ref": "1:8",
+"tipo": "cristo_en_apocalipsis",
+"titulo": "Dios (Cristo) es el Alfa y la Omega",
+"contenido": "El diccionario afirma que Dios (Cristo) es el Alfa y la Omega (1:8; 21:6; 22:13) y lo compara con Isaías 41:4 y 44:6. En la entrada Omega aclara que la omega es la última letra del alfabeto griego, la o larga, y que en esos tres contextos se la usa como símbolo de inclusión.",
+"refs_biblicas": [
+"Ap 21:6",
+"Ap 22:13",
+"Is 41:4",
+"Is 44:6"
+],
+"pagina": "vol. I pág. PDF 97; vol. II pág. PDF 60",
+"importancia": 2
+},
+{
+"ref": "19:5-7",
+"tipo": "teologia_doctrina",
+"titulo": "La alabanza por la redención domina el NT",
+"contenido": "Al tratar la alabanza, el diccionario señala que en el NT domina la alabanza por la redención (Lc 2:13-14; Ap 19:5-7).",
+"refs_biblicas": [
+"Lc 2:13-14"
+],
+"pagina": "vol. I pág. PDF 93",
+"importancia": 1
+},
+{
+"ref": "4:8",
+"tipo": "conexion_biblica",
+"titulo": "Alas de los seres vivientes",
+"contenido": "Entre los usos de las alas en la Biblia, el diccionario incluye las alas de los querubines o seres vivientes (Ez 1:5-25; Ap 4:8), junto con las alas de aves y las alas figuradas.",
+"refs_biblicas": [
+"Ez 1:5-25"
+],
+"pagina": "vol. I pág. PDF 93",
+"importancia": 1
+},
+{
+"ref": "2:27",
+"tipo": "conexion_biblica",
+"titulo": "Dios quiebra a los malvados como una vasija de alfarero",
+"contenido": "En la entrada sobre alfarería, el diccionario dice que Dios vencerá a los malvados de la misma forma que se aplasta una pieza de alfarería (Sal 2:9; Jer 19:10-11; Ap 2:27).",
+"refs_biblicas": [
+"Sal 2:9",
+"Jer 19:10-11"
+],
+"pagina": "vol. I pág. PDF 97",
+"importancia": 1
+},
+{
+"ref": "13:11-18",
+"tipo": "simbolo_numero",
+"titulo": "La bestia como símbolo apocalíptico",
+"contenido": "Entre los sentidos de bestia, el diccionario registra el de símbolo apocalíptico de una fuerza bruta, opuesta al gobierno de Dios y por tanto a los mejores intereses del hombre. En Daniel 7:3 cuatro grandes bestias simbolizan cuatro imperios mundiales sucesivos: Babilonia, Media y Persia, Grecia y Roma. Según el diccionario, muchos consideran que la bestia que sale de la tierra (Ap 13:11-18) habrá de ser el anticristo.",
+"refs_biblicas": [
+"Dn 7:3",
+"Ap 13:11-18"
+],
+"postura": "Muchos la identifican con el anticristo (referido como opinión de muchos).",
+"pagina": "vol. I pág. PDF 120",
+"importancia": 2
+},
+{
+"ref": "4:6-9",
+"tipo": "simbolo_numero",
+"titulo": "Bestias en el cielo: seres celestiales que adoran",
+"contenido": "Otro sentido de bestia en la Biblia son los seres celestiales que adoran a Dios, reflejan sus cualidades y llevan a cabo su voluntad. El diccionario cita para ello Ap 4:6-9; 5:6, 8, 11, 14; 6:1, 3, 5-7; 7:11; 14:3; 15:7; 19:4.",
+"refs_biblicas": [
+"Ap 5:6",
+"Ap 6:1",
+"Ap 7:11",
+"Ap 14:3",
+"Ap 15:7",
+"Ap 19:4"
+],
+"pagina": "vol. I pág. PDF 120",
+"importancia": 2
+},
+{
+"ref": "22:2",
+"tipo": "conexion_biblica",
+"titulo": "El árbol de la vida reaparece en el Apocalipsis",
+"contenido": "El árbol de la vida, un árbol especial del jardín del Edén (Gn 2:9; 3:22), aparece otra vez en Apocalipsis 22:2 como un árbol que produce frutos y tiene hojas con poder de sanidad. El diccionario agrega que la frase árbol de vida en Proverbios es figurada para una experiencia de regocijo.",
+"refs_biblicas": [
+"Gn 2:9",
+"Gn 3:22",
+"Pr 3:18"
+],
+"pagina": "vol. I pág. PDF 149",
+"importancia": 2
+},
+{
+"ref": "6:2",
+"tipo": "cultura_costumbres",
+"titulo": "El arco, una sola mención en el NT",
+"contenido": "El diccionario, en el artículo sobre armas, anota que el arco se menciona una sola vez en el NT, en Apocalipsis 6:2.",
+"pagina": "vol. I pág. PDF 156",
+"importancia": 1
+},
+{
+"ref": "9:9",
+"tipo": "griego_palabra",
+"titulo": "Coraza (thorax) en sentido simbólico",
+"contenido": "Entre la armadura defensiva, el diccionario menciona la coraza (en griego thorax), usada en el NT en Efesios 6:14 y 1 Tesalonicenses 5:8 figuradamente, y en Apocalipsis 9:9, 17 de manera simbólica.",
+"refs_biblicas": [
+"Ef 6:14",
+"1 Ts 5:8"
+],
+"griego": {
+"palabra": "θώραξ",
+"transliteracion": "thórax",
+"significado": "coraza, pieza de la armadura defensiva"
+},
+"pagina": "vol. I pág. PDF 156",
+"importancia": 1
+},
+{
+"ref": "2:14",
+"tipo": "personaje",
+"titulo": "Balaam y Balac, trasfondo de Apocalipsis 2:14",
+"contenido": "Balaam, hijo de Beor, era un adivino empleado por Balac, rey de Moab, para maldecir a Israel. Dios permitió que fuera, pero le advirtió que hablara solo lo que él ordenara; Balaam pronunció bendición en vez de maldición. Más tarde logró que el pueblo se alejara del Señor: por su consejo los israelitas fueron seducidos a la idolatría (Nm 31), trayendo el juicio de Dios, y Balaam pereció en la matanza de los madianitas. En el NT es ejemplo de la influencia destructiva de los maestros hipócritas que intentan desviar al pueblo (Jud 11; 2 P 2:15). Balac consiguió su propósito cuando siguió el consejo de Balaam para seducir a Israel.",
+"refs_biblicas": [
+"Nm 22—24",
+"Nm 31",
+"2 P 2:15",
+"Jud 11"
+],
+"pagina": "vol. I pág. PDF 202",
+"importancia": 3
+},
+{
+"ref": "5:8",
+"tipo": "griego_palabra",
+"titulo": "Copa (phiale) en Apocalipsis",
+"contenido": "El diccionario señala que el término griego phiale designa una vasija hueca usada con diversos propósitos; en 1 Samuel 10:1 se traduce frasco, y copa en Apocalipsis 5:8; 16:1-4, 8, 10, 12, 17; 17:1; 21:19 (la raíz hebrea paralela significa derramar).",
+"griego": {
+"palabra": "φιάλη",
+"transliteracion": "fiále",
+"significado": "vasija hueca, copa o frasco"
+},
+"pagina": "vol. I pág. PDF 317",
+"importancia": 2
+},
+{
+"ref": "17:4",
+"tipo": "simbolo_numero",
+"titulo": "La copa como bendición, maldición y embriaguez",
+"contenido": "La copa se usa como símbolo de prosperidad o bendición del Señor y, a la inversa, de su maldición sobre los malvados (Sal 11:6; 16:5; 23:5). También representa embriaguez y otros placeres ilícitos (Pr 23:31; Ap 17:4; 18:6). Se contrasta la copa del Señor (comunión) con la copa de los demonios (1 Co 10:21): no se puede tener compañerismo con Cristo y con las fuerzas de las tinieblas al mismo tiempo.",
+"refs_biblicas": [
+"Sal 11:6",
+"Pr 23:31",
+"1 Co 10:21",
+"Ap 18:6"
+],
+"pagina": "vol. I pág. PDF 317",
+"importancia": 1
+},
+{
+"ref": "13:1",
+"tipo": "simbolo_numero",
+"titulo": "Cuernos: naciones y perfección de poder",
+"contenido": "Los cuernos de un animal denotan naciones o gobernantes sucesivos (Dn 7:7-24; 8:3-22; Ap 13:1; 17:3-16). Siete cuernos (Ap 5:6; 12:3) indican perfección de poder, sea bueno o malo. La bestia con dos cuernos semejantes a los de un cordero, que hablaba como dragón (13:11), sugiere una semejanza externa a la de un cordero e impiedad interna.",
+"refs_biblicas": [
+"Dn 7:7-24",
+"Dn 8:3-22",
+"Ap 5:6",
+"Ap 12:3",
+"Ap 13:11",
+"Ap 17:3-16"
+],
+"pagina": "vol. I pág. PDF 343",
+"importancia": 2
+},
+{
+"ref": "9:1-12",
+"tipo": "teologia_doctrina",
+"titulo": "Demonios: langostas del abismo",
+"contenido": "Según el diccionario, en una visión apocalíptica Juan vio la erupción de los demonios en forma de langostas del abismo en el día final (Ap 9:1-12). También cita Ap 9:20-21 entre los pasajes que asocian a los demonios con pecado sexual y carnalidad flagrante.",
+"refs_biblicas": [
+"Ap 9:20-21"
+],
+"pagina": "vol. I pág. PDF 364",
+"importancia": 2
+},
+{
+"ref": "16:13-16",
+"tipo": "teologia_doctrina",
+"titulo": "Tres espíritus como ranas y Armagedón",
+"contenido": "El diccionario describe los tres horribles espíritus que emanan de la trinidad satánica (el dragón, la bestia y el falso profeta) como ranas que en la tribulación juntan los ejércitos del mundo para su suerte predestinada en Armagedón (Ap 16:13-16). Los demonios son llamados inmundos (Ap 16:13).",
+"refs_biblicas": [
+"Ap 16:13-16"
+],
+"pagina": "vol. I pág. PDF 364",
+"importancia": 2
+},
+{
+"ref": "1:10",
+"tipo": "griego_palabra",
+"titulo": "«El día del Señor»: el domingo, no el día profético",
+"contenido": "El adjetivo traducido «del Señor» indica posesión: un día consagrado al Señor, paralelo a la cena del Señor (1 Co 11:20). Algunos eruditos lo compararían con el día del Señor profético del AT, pero el diccionario afirma que claramente Juan no habla del día profético (1 Co 5:5; 2 Co 1:14; 1 Ts 5:2), sino del primer día de la semana, día de la resurrección, en que el Cristo resucitado se apareció repetidamente. El domingo es una institución cristiana y debe distinguirse del sábado, vinculado a la antigua creación, mientras el día del Señor conmemora la nueva creación en Cristo; las instrucciones del sábado del AT no fueron transferidas al domingo como sábado cristiano.",
+"refs_biblicas": [
+"1 Co 11:20",
+"Jn 20:1-26",
+"Hch 15:28-29",
+"Ro 14:5-6",
+"Col 2:16-17"
+],
+"postura": "Rechaza que 1:10 sea el día profético del Señor; lo entiende como el domingo, día de la resurrección.",
+"pagina": "vol. I pág. PDF 370",
+"importancia": 3
+},
+{
+"ref": "tema",
+"tipo": "teologia_doctrina",
+"titulo": "El día del Señor como término escatológico",
+"contenido": "El diccionario define el día del Señor, en sentido escatológico, como la consumación del reino de Dios, su triunfo sobre sus enemigos y la liberación de su pueblo. Comienza con la Segunda Venida, acompañada de calamidades sociales y cataclismos físicos (Mt 24; Lc 21:7-33). Incluirá el juicio milenario (el texto cita Ap 4:1—19:6) y culminará en el nuevo cielo y la nueva tierra (Is 65:17; 66:22; Ap 21:1).",
+"refs_biblicas": [
+"Mt 24",
+"Lc 21:7-33",
+"Is 65:17",
+"Ap 21:1"
+],
+"pagina": "vol. I pág. PDF 370",
+"importancia": 2
+},
+{
+"ref": "20:10",
+"tipo": "teologia_doctrina",
+"titulo": "Satanás: origen y destino final",
+"contenido": "El diccionario describe a Satanás como un querubín protector creado hermoso y perfecto, cuyo orgullo condujo a la voluntad propia (Is 14:13-14) y a la rebeldía; aparentemente arrastró a otros ángeles (2 P 2:4; Jud 6). Un día él y los demás enemigos de Dios serán echados en el lago de fuego y azufre (Ap 20:10, 15). La lucha entre el bien y el mal es larga pero no eterna, y la victoria de Dios es segura.",
+"refs_biblicas": [
+"Is 14:13-14",
+"2 P 2:4",
+"Jud 6",
+"Ap 20:15"
+],
+"pagina": "vol. I pág. PDF 371",
+"importancia": 2
+},
+{
+"ref": "12:9-10",
+"tipo": "griego_palabra",
+"titulo": "Títulos de Satanás",
+"contenido": "Diablo (gr. diabolos) significa calumniador y es uno de los títulos principales de Satanás, referido a él 35 veces en el NT. Entre sus nombres el diccionario cita: dios de este siglo, príncipe de la potestad del aire, asesino y mentiroso, Apolión (Destructor, Ap 9:11), Beelzebul, y la serpiente antigua, acusador de nuestros hermanos (Ap 12:9-10). Se lo puede resistir (Stg 4:7) y derrotar.",
+"refs_biblicas": [
+"2 Co 4:4",
+"Ef 2:2",
+"Jn 8:44",
+"Ap 9:11",
+"Stg 4:7"
+],
+"griego": {
+"palabra": "διάβολος",
+"transliteracion": "diábolos",
+"significado": "calumniador"
+},
+"pagina": "vol. I pág. PDF 370-371",
+"importancia": 2
+},
+{
+"ref": "19:12",
+"tipo": "griego_palabra",
+"titulo": "Diadema frente a corona (stephanos)",
+"contenido": "La palabra griega diadema se usa tres veces en el NT (Ap 12:3; 13:1; 19:12) como emblema de poder absoluto y debe distinguirse de la corona (stephanos) que se usa en otras partes del NT. El diccionario añade que el Señor llevará la diadema (Ap 19:12).",
+"griego": {
+"palabra": "διάδημα",
+"transliteracion": "diádema",
+"significado": "emblema de realeza, poder absoluto; distinto de stéphanos (corona)"
+},
+"pagina": "vol. I pág. PDF 371-372",
+"importancia": 2
+},
+{
+"ref": "7:3",
+"tipo": "simbolo_numero",
+"titulo": "La frente: marca de piedad y nombre de Dios",
+"contenido": "La frente puede revelar desvergüenza, valor y piedad (Ap 7:3). En Ezequiel 9:4 se marcaba la frente de los hombres de Jerusalén que hacían duelo por su maldad, y se los perdonaba en el juicio. En las edades gloriosas por venir, el nombre de Dios estará marcado en la frente de su pueblo (Ap 22:4).",
+"refs_biblicas": [
+"Ez 9:4",
+"Éx 28:38",
+"Ap 22:4"
+],
+"pagina": "vol. I pág. PDF 495",
+"importancia": 1
+},
+{
+"ref": "14:20",
+"tipo": "griego_palabra",
+"titulo": "Freno de los caballos",
+"contenido": "En el artículo freno, el diccionario cita Apocalipsis 14:20 entre los usos literales de la palabra: la parte del aparejo que rodea la cabeza de la bestia.",
+"pagina": "vol. I pág. PDF 495",
+"importancia": 1
+},
+{
+"ref": "19:20",
+"tipo": "teologia_doctrina",
+"titulo": "El lago de fuego como destino de los enemigos de Dios",
+"contenido": "El destino final de los enemigos de Dios es el lago de fuego (Ap 19:20; 20:10, 14). El diccionario agrega que algún día este mundo será consumido por fuego (2 P 3:7-12). En la entrada Gehena, lago de fuego (Ap 19:20; 20:14-15) y lago de fuego y azufre (Ap 20:10) figuran entre los términos paralelos al Gehena, estado del juicio final después de la resurrección del cuerpo, distinto del Hades, estado intermedio incorpóreo.",
+"refs_biblicas": [
+"2 P 3:7-12",
+"Mt 25:41",
+"Mt 13:42"
+],
+"pagina": "vol. I pág. PDF 496; vol. I pág. PDF 510",
+"importancia": 2
+},
+{
+"ref": "1:14",
+"tipo": "cristo_en_apocalipsis",
+"titulo": "Ojos como llama de fuego: obra de juicio",
+"contenido": "El diccionario dice que se describe a nuestro Señor con ojos como llama de fuego, lo que sugiere su obra de juicio (Ap 1:14). También señala que Dios usa el fuego no solo para el juicio sino para la prueba (1 Co 3:12-15) y que la gloria de Dios está acompañada de fuego (Ez 1:27).",
+"refs_biblicas": [
+"1 Co 3:12-15",
+"Ez 1:27"
+],
+"pagina": "vol. I pág. PDF 496",
+"importancia": 1
+},
+{
+"ref": "9:2",
+"tipo": "teologia_doctrina",
+"titulo": "Infierno: naturaleza y duración del castigo",
+"contenido": "El diccionario enseña que la existencia real del infierno es enseñada en las Escrituras, y que su naturaleza se indica por referencias al castigo eterno, el fuego eterno, el pozo del abismo (Ap 9:2, 11), las tinieblas de afuera, la ira de Dios, la segunda muerte (Ap 21:8) y la perdición eterna. Sobre la duración, argumenta desde aionios (edad): así como la vida eterna del creyente será interminable, también lo será el aspecto retributivo del infierno. Advierte que algunas versiones traducen Seol erróneamente como infierno.",
+"refs_biblicas": [
+"Mt 25:46",
+"Ro 2:5",
+"2 Ts 1:9",
+"Ap 21:8"
+],
+"griego": {
+"palabra": "αἰώνιος",
+"transliteracion": "aiónios",
+"significado": "eterno; de aión, edad o duración"
+},
+"postura": "Sostiene la duración interminable del castigo (tormento eterno consciente).",
+"pagina": "vol. I pág. PDF 597",
+"importancia": 2
+},
+{
+"ref": "21:1-2",
+"tipo": "teologia_doctrina",
+"titulo": "La Nueva Jerusalén",
+"contenido": "La Nueva Jerusalén es un término que se encuentra dos veces en la Biblia (Ap 3:12; 21:2), donde la ciudad desciende del cielo, de Dios. También se la llama la santa ciudad (21:2) y la santa ciudad de Jerusalén (21:10). Su descripción está en Ap 21:10—22:5. En el artículo sobre Jerusalén, el diccionario enumera las expectativas bíblicas sobre la ciudad: purificada de sus impurezas, conocedora permanente de la gloria, la paz y el gozo de Dios, y meta de las naciones para instrucción y bendición.",
+"refs_biblicas": [
+"Ap 3:12",
+"Ap 21:10—22:5",
+"Is 62:2",
+"Is 2:2-4"
+],
+"pagina": "vol. I pág. PDF 651",
+"importancia": 2
+},
+{
+"ref": "6:10",
+"tipo": "teologia_doctrina",
+"titulo": "El juicio como parte de la liberación de los creyentes",
+"contenido": "En el NT el juicio es uno de los aspectos de la liberación de los creyentes (Lc 18:1-8; 2 Ts 1:5-10; Ap 6:10). Dios es paciente en su administración para que la gente se arrepienta (Ro 2:4; 2 P 3:9). Este mundo será sacudido y destruido y un nuevo mundo lo reemplazará (2 P 3:13; Ap 21:1). Dios depositará el juicio final en manos de su Hijo en su aparición en gloria.",
+"refs_biblicas": [
+"Lc 18:1-8",
+"2 Ts 1:5-10",
+"2 P 3:9",
+"2 P 3:13",
+"Ap 21:1"
+],
+"pagina": "vol. I pág. PDF 702",
+"importancia": 1
+},
+{
+"ref": "3:14-22",
+"tipo": "contexto_historico",
+"titulo": "Laodicea: banca, lana negra y colirio",
+"contenido": "Laodicea fue una ciudad rica de Asia Menor fundada por Antíoco II (261-246 a. de J.C.), ciudad principal del circuito de las siete iglesias, en una gran ruta comercial asiática que le aseguraba prosperidad. Se destacaba como centro bancario; era rica y no tenía necesidad de nada (Ap 3:17). El valle del Lico producía una lana negra brillante, material de mantos y alfombras que la hicieron famosa. Tenía además una escuela de medicina y producía colirio, famoso ungüento para los ojos. Según el diccionario, las figuras del mensaje a Laodicea reflejan todas estas actividades.",
+"refs_biblicas": [
+"Ap 1:4",
+"Ap 3:17"
+],
+"pagina": "vol. I pág. PDF 713",
+"importancia": 3
+},
+{
+"ref": "16:10",
+"tipo": "griego_palabra",
+"titulo": "Lengua como pueblo o idioma",
+"contenido": "Entre los sentidos de lengua (heb. lashon, gr. glossa) el diccionario incluye el órgano del cuerpo (Ap 16:10) y un pueblo o raza con un idioma común (Is 66:18; Dn 3:4; Ap 5:9; 10:11).",
+"refs_biblicas": [
+"Ap 5:9",
+"Ap 10:11",
+"Dn 3:4"
+],
+"griego": {
+"palabra": "γλῶσσα",
+"transliteracion": "glóssa",
+"significado": "lengua; idioma; pueblo con idioma común"
+},
+"pagina": "vol. I pág. PDF 718",
+"importancia": 1
+},
+{
+"ref": "5:1",
+"tipo": "cultura_costumbres",
+"titulo": "El libro escrito por ambos lados y sellado",
+"contenido": "En los libros antiguos de papiro o pergamino se escribía generalmente en un lado de cada hoja, pero a veces también en el reverso, como en Apocalipsis 5:1. Cuando un libro se sellaba, el contenido era secreto; al quitarse el sello quedaba descubierto (Dn 12:4, 9; Ap 5:1-4; cf. 5:5; 22:10). El diccionario añade que el pergamino se empezó a usar en Pérgamo en el siglo II a. de J.C. por escasez de papel.",
+"refs_biblicas": [
+"Dn 12:4",
+"Dn 12:9",
+"Ap 22:10"
+],
+"pagina": "vol. I pág. PDF 732",
+"importancia": 2
+},
+{
+"ref": "3:5",
+"tipo": "teologia_doctrina",
+"titulo": "El libro de la vida",
+"contenido": "El libro de la vida es el registro de Dios de quienes heredarán vida eterna (Fil 4:3; Ap 3:5; 21:27). Desde el punto de vista humano, individuos pueden ser borrados de ese libro (Sal 69:28), pero desde el punto de vista de Dios el libro contiene solo los nombres de los elegidos que no serán borrados (Ap 3:5; 13:8; 17:8; 20:15). También se lo llama libro de la vida del Cordero (Ap 21:27).",
+"refs_biblicas": [
+"Fil 4:3",
+"Sal 69:28",
+"Ap 13:8",
+"Ap 17:8",
+"Ap 20:15",
+"Ap 21:27"
+],
+"postura": "Desde Dios los nombres inscritos no serán borrados; desde lo humano se habla de ser borrado.",
+"pagina": "vol. I pág. PDF 732",
+"importancia": 2
+},
+{
+"ref": "18:12",
+"tipo": "cultura_costumbres",
+"titulo": "Lino fino como señal de lujo",
+"contenido": "El uso de lino fino para tareas comunes era considerado señal de lujo y extravagancia (Is 3:23; Ez 16:10; Lc 16:19; Ap 18:12, 16).",
+"refs_biblicas": [
+"Lc 16:19",
+"Is 3:23"
+],
+"pagina": "vol. I pág. PDF 736",
+"importancia": 1
+}
+],
+"problemas": "Texto de diccionario con OCR de buena calidad; sin correcciones relevantes. La cita 'Ap 4:1—19:6' como juicio milenario es tal cual figura en el diccionario."
+}

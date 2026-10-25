@@ -6,7 +6,7 @@
 - Griego (SBLGNT + Strong) en `trabajo/griego/`; mapas en `trabajo/mapas/`; unidades de lectura y pesos en `scripts/unidades.py` y `scripts/pesos.py` (≈80 días).
 
 **Falta**
-1. Terminar bloques: r1_034–039, web_01–21, r2_001–040 (revisar con la lista de `_indice.json` qué ids no tienen archivo). Los bloques se regeneran con `scripts/armar_corpus.py` (necesita SCRATCH con los textos; ver cabecera del script).
+1. (HECHO) Extracción completa: los 194 bloques tienen sus notas.
 2. Plan de días (sin tope de versículos; 20–30 min por día), partes y artículos/temas.
 3. Escribir los días, cotejar citas con RVR1960 y griego, continuidad entre días.
 4. App: adaptar `genesis/app/plantilla.html` (barra de progreso, mapas y diagramas en la página, anexos, griego en vez de hebreo).

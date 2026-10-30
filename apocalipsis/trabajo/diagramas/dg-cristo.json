@@ -1,0 +1,106 @@
+{
+  "id": "dg-cristo",
+  "titulo": "Los títulos de Cristo",
+  "bajada": "Los nombres y descripciones de Cristo repartidos por el libro, en el orden en que aparecen, con lo que cada uno revela según los autores.",
+  "tipo": "tarjetas",
+  "tarjetas": [
+    {
+      "titulo": "«El testigo fiel»",
+      "texto": "El único que dio testimonio fiel del propósito de Dios (Ladd); el perfecto testigo de la naturaleza de Dios (MacArthur), de toda su verdad (Beasley-Murray, con Jn 18:37). La palabra griega, mártys, es también «mártir»: fue fiel hasta la muerte, y eso anima a iglesias perseguidas a ser fieles aunque cueste la vida (Mundo Hispano, Guzik). Larkin y Carballosa ven aquí su oficio de profeta.",
+      "ref": "1:5",
+      "fuentes": ["ladd_01_a#30", "macarthur_01#24", "henry_01_a#8", "cbmh_01_b#9", "web_03_a#10", "larkin_01_a#15", "carballosa_02_a#29"]
+    },
+    {
+      "titulo": "«El primogénito de los muertos»",
+      "texto": "No el primero en volver a la vida, porque hubo resurrecciones antes, sino el primero en preeminencia (MacArthur): resucitó para no morir más, primicias de los que durmieron (1 Co 15:20). Es también un título de rango: el Salmo 89:27 llama al rey primogénito, «el más excelso de los reyes de la tierra» (Ladd, Beasley-Murray). Guzik aclara que no significa que haya sido creado. Larkin y Carballosa ven su oficio de sacerdote.",
+      "ref": "1:5",
+      "fuentes": ["macarthur_01#24", "ladd_01_a#30", "henry_01_a#8", "web_03_a#10", "larkin_01_a#15", "carballosa_02_a#29"]
+    },
+    {
+      "titulo": "«El soberano de los reyes de la tierra»",
+      "texto": "Sale del mismo Salmo 89: por su resurrección fue exaltado y gobierna sobre los señores de la tierra (Ladd). Las iglesias lo leían mientras Domiciano, que según Ladd reinaba cuando Juan escribió, exigía que lo llamaran «Señor y Dios». MacArthur: soberano absoluto, con el título de propiedad del mundo (5:1). Larkin y Carballosa ven su oficio de rey.",
+      "ref": "1:5",
+      "fuentes": ["ladd_01_a#30", "ladd_01_a#32", "macarthur_01#24", "larkin_01_a#15", "carballosa_02_a#29"]
+    },
+    {
+      "titulo": "«El Alfa y la Omega»",
+      "texto": "La primera y la última letra del alfabeto griego: el principio, el fin y todo lo que hay en medio. En 1:8 y 21:6 lo dice Dios; si en 1:8 habla el Padre (Swete, Mundo Hispano, Grudem) o Cristo (Plummer, Earle, Carballosa) se discute. En 22:13 lo dice Jesús, junto con «el primero y el último» y «el principio y el fin»: comparte la eternidad del Padre (Mundo Hispano, Grudem, Chafer). Para Ladd, por eso puede ser juez.",
+      "ref": "22:13",
+      "fuentes": ["beacon_01_b#11", "carballosa_02_b#5", "cbmh_01_b#19", "cbmh_08_b#18", "r2_026#7", "r2_029#12", "ladd_08_b#12", "carballosa_18_a#12"]
+    },
+    {
+      "titulo": "«Uno semejante al Hijo del Hombre»",
+      "texto": "Viene de Daniel 7:13 y fue el nombre que Jesús más usó para sí; fuera de los Evangelios solo lo usan Esteban y Juan (Berkhof). «Semejante»: como un hombre, pero no meramente un hombre (Ladd). Grudem: Jesús sigue siendo hombre en la gloria. En 14:14 vuelve con la hoz: para MacArthur, la última vez que la Escritura lo llama así; Carballosa lo liga a su potestad para juzgar (Jn 5:27).",
+      "ref": "1:13",
+      "fuentes": ["r2_040#1", "ladd_01_b#8", "r2_026#29", "macarthur_13_a#19", "carballosa_11_b#11"]
+    },
+    {
+      "titulo": "«El primero y el último»",
+      "texto": "En Isaías es Jehová quien dice «Yo soy el primero, y yo soy el postrero» (Is 44:6; 48:12). Jesús lo dice de sí en 1:17, 2:8 y 22:13. Todos lo leen como afirmación de su deidad: para Mundo Hispano, Cristo es idéntico a Jehová; para Chafer, es una perífrasis del nombre Jehová. A Esmirna, amenazada de muerte, le recuerda que nada hay antes ni después de él (McGee).",
+      "ref": "1:17",
+      "fuentes": ["beacon_01_b#30", "carballosa_02_b#20", "cbmh_02_a#19", "r2_029#12", "mcgee_02_b#24", "cbmh_02_b#14"]
+    },
+    {
+      "titulo": "«El que vivo, y estuve muerto»",
+      "texto": "«El que vivo» es literalmente «el Viviente», título de Dios (Earle, MacArthur). «Estuve muerto» dice «vine a estar muerto»: un hecho histórico (Carballosa). Ladd: no volvió solo a su gloria anterior, entró a una vida en que la muerte quedó vencida para siempre. MacArthur y Mayhue citan el pasaje como ejemplo de las dos naturalezas en una sola persona; MacArthur agrega que vive para siempre en una humanidad glorificada unida a su deidad.",
+      "ref": "1:18",
+      "fuentes": ["beacon_01_b#31", "macarthur_02_b#5", "carballosa_02_b#20", "ladd_01_b#13", "r2_035#5", "macarthur_02_b#6"]
+    },
+    {
+      "titulo": "«El Hijo de Dios»",
+      "texto": "Aparece solo aquí en el libro. MacArthur lo contrasta con «Hijo del Hombre»: subraya su deidad y su unidad con el Padre, y viene a Tiatira como Juez. Mundo Hispano lo ve casi equivalente, como título del Mesías ligado al Salmo 2 que se cita en 2:27, y quizá dirigido a los tentados por el culto al César, a quien se llamaba «hijo de Dios». Carballosa: de la misma sustancia que el Padre.",
+      "ref": "2:18",
+      "fuentes": ["macarthur_03_b#15", "cbmh_03_a#9", "carballosa_02_a#6"]
+    },
+    {
+      "titulo": "«El Santo, el Verdadero, el que tiene la llave de David»",
+      "texto": "«El Santo» es nombre de Dios (Is 6:3; Ap 6:10); según Mundo Hispano, este es el único versículo del libro que se lo da a Cristo. «El Verdadero» es lo genuino (sentido griego) y lo fiel al pacto (sentido hebreo); Ladd prefiere el segundo. La llave de David cita Isaías 22:22: la autoridad del mayordomo del rey. Cristo decide quién entra en su reino (MacArthur, Ladd). Para MacArthur, el título confirma su deidad.",
+      "ref": "3:7",
+      "fuentes": ["macarthur_04_a#26", "cbmh_03_b#6", "ladd_02_a#44", "ladd_02_a#45", "macarthur_04_a#27"]
+    },
+    {
+      "titulo": "«El Amén», «el principio de la creación de Dios»",
+      "texto": "Es el único lugar de la Biblia donde «Amén» es un nombre propio (McGee): eco de Isaías 65:16, «el Dios de verdad», y del «de cierto» que Jesús repite en los Evangelios (Earle). En él las promesas de Dios son sí (2 Co 1:20; Biblia MacArthur). «Principio» no significa primera criatura, como dicen arrianos y Testigos de Jehová: es la misma palabra de 22:13 (Grudem). Ladd la entiende como fuente y origen (Jn 1:3).",
+      "ref": "3:14",
+      "fuentes": ["mcgee_03_b#24", "beacon_02_b#26", "ladd_02_b#18", "mbiblia_01_b#27", "r2_026#5", "ladd_02_b#19"]
+    },
+    {
+      "titulo": "«El León de la tribu de Judá, la raíz de David»",
+      "texto": "El León viene de la bendición de Jacob (Gn 49:8-10), uno de los títulos más antiguos del Mesías (Biblia MacArthur): Judá fue el cachorro, Jesús es el León (Earle). La raíz de David cita Isaías 11:1 y 10: del tronco caído de la casa de David brota un retoño que restaura su reino (Ladd). Wiersbe: «León» habla de su realeza en la línea de David; «raíz», de su deidad, porque de él vino David.",
+      "ref": "5:5",
+      "fuentes": ["macarthur_05_b#17", "mbiblia_01_c#1", "beacon_03_a#22", "ladd_02_c#28", "r1_024_b#9"]
+    },
+    {
+      "titulo": "«Un Cordero como inmolado»",
+      "texto": "Se anuncia un León y aparece un Cordero con las marcas de su muerte, pero de pie: Juan lo reconoce como vencedor justamente por esas marcas (Mundo Hispano). Es su nombre más frecuente en el libro: 27, 28 o 29 veces según quién cuente (Earle, Wiersbe, Carballosa, Mundo Hispano). La palabra, arníon, no es la de Juan 1:29 (Earle). Recuerda el cordero de la Pascua (Éx 12:3-6; MacArthur) y el de Isaías 53:7. Ladd: su victoria como León solo es posible porque antes sufrió como Cordero.",
+      "ref": "5:6",
+      "fuentes": ["cbmh_04#21", "beacon_03_a#23", "r1_001#21", "carballosa_02_a#8", "carballosa_05_b#16", "macarthur_05_b#19", "ladd_03_a#2"]
+    },
+    {
+      "titulo": "«Fiel y Verdadero»",
+      "texto": "No es un nombre nuevo: ya fue el testigo fiel (1:5), el Verdadero (3:7) y el testigo fiel y verdadero (3:14) (Earle, Mundo Hispano, MacArthur). En la idea hebrea la verdad es sobre todo confiabilidad: el que guarda su pacto (Ladd). McGee: fiel porque cumple lo anunciado, verdadero porque es la verdad (Jn 14:6). MacArthur: fiel a sus promesas de juicio tanto como a las de gracia.",
+      "ref": "19:11",
+      "fuentes": ["beacon_05_a#15", "cbmh_07#27", "macarthur_16#21", "ladd_07_a#25", "mcgeer_12#12"]
+    },
+    {
+      "titulo": "«El Verbo de Dios»",
+      "texto": "El título de Juan 1:1 y 14 lo identifica sin margen de error (MacArthur, Ladd). Es la revelación de Dios en persona, la expresión plena de su mente y su voluntad (MacArthur; Biblia MacArthur, con He 1:1-3). Ladd: el plan redentor entero hecho carne. Carballosa, con Mounce: la Palabra que no solo revela, sino que ejecuta y consuma los propósitos de Dios.",
+      "ref": "19:13",
+      "fuentes": ["macarthur_16#28", "ladd_07_a#30", "mbiblia_02_d#37", "carballosa_15_b#6"]
+    },
+    {
+      "titulo": "«Rey de reyes y Señor de señores»",
+      "texto": "Títulos que el Antiguo Testamento da a Dios (Dt 10:17; Sal 136:2-3; Dn 2:47), aplicados al Cordero (Earle, Mundo Hispano, Biblia MacArthur); Carballosa ve declaradas su deidad y su soberanía. En 17:14 explica por qué el Cordero vence; en 19:16 va escrito en su vestidura y en su muslo, a la vista de todos (por qué en el muslo, el texto no lo dice, admite Ladd). Ladd: es el nombre con que el mundo lo conocerá.",
+      "ref": "19:16",
+      "fuentes": ["beacon_04_b#28", "cbmh_07#6", "mbiblia_02_d#8", "carballosa_13_b#17", "carballosa_15_b#9", "cbmh_07#30", "ladd_07_a#34"]
+    },
+    {
+      "titulo": "«La raíz y el linaje de David, la estrella resplandeciente de la mañana»",
+      "texto": "Raíz y linaje a la vez: para MacArthur, su deidad (de él viene David) y su humanidad (desciende de David), el Dios-hombre. La estrella recuerda «saldrá estrella de Jacob» (Nm 24:17; Ladd) y la promesa a Tiatira (2:28); anuncia el día después de la noche (MacArthur, Mundo Hispano). McGee y Wiersbe la ligan a la venida de Cristo por su iglesia, el arrebatamiento; Grau rechaza deducir de estas metáforas dos venidas distintas.",
+      "ref": "22:16",
+      "fuentes": ["mbiblia_03_b#10", "r2_008#9", "ladd_08_b#16", "henry_03#18", "cbmh_09#2", "macarthur_19#4", "mcgee_03_a#23", "r1_022#19", "r1_012#17"]
+    }
+  ],
+  "nota": "Carballosa resume el retrato: poco sobre su humanidad, mucho sobre su deidad. Varios títulos que el Antiguo Testamento da a Dios pasan a Cristo (el primero y el último, el Santo, Rey de reyes). En las cartas, las cinco primeras presentaciones retoman rasgos de la visión del capítulo 1 (ver el diagrama del candelero) y las de Filadelfia y Laodicea usan títulos del Antiguo Testamento (MacArthur). Larkin y Carballosa ordenan los títulos de 1:5 como profeta, sacerdote y rey. Desarrollo completo en el anexo T3.",
+  "dias": [2, 4, 6, 7, 10, 13, 17, 19, 25, 60, 67, 73, 74, 94]
+}

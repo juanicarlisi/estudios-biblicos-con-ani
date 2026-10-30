@@ -1,9 +1,9 @@
 {
   "id": "I3",
   "titulo": "Cómo leer un libro apocalíptico: símbolos, números y el Antiguo Testamento",
-  "bajada": "Las reglas que dan los autores para leer las imágenes del libro sin inventarles sentido: el género, los símbolos, los números y el Antiguo Testamento como diccionario.",
+  "bajada": "Las reglas que dan los autores para leer las imágenes del libro sin inventarles sentido, con el Antiguo Testamento como diccionario.",
   "entrada": {
-    "texto": "El Apocalipsis se llama a sí mismo «revelación»: no se escribió para confundir sino para mostrar el plan de Dios de juzgar al impío y llevar a los suyos al reino eterno. Pero lo dice con un idioma que hoy suena raro: bestias, colores, números, un dragón con siete cabezas. Para el creyente del siglo I, explica la clase de 9Marcas, eran recursos conocidos, tomados en buena parte del Antiguo Testamento. Benware llega a lo mismo desde otra escuela: si Dios lo reveló, se puede entender. Acá van las reglas de lectura en las que coinciden los autores y los puntos donde se separan.",
+    "texto": "El Apocalipsis se llama a sí mismo «revelación»: no se escribió para confundir sino para mostrar el plan de Dios. Pero habla con un idioma que hoy suena raro: bestias, colores, números, un dragón con siete cabezas. Para el creyente del siglo I, explica la clase de 9Marcas, eran recursos conocidos, tomados en buena parte del Antiguo Testamento. Benware llega a lo mismo desde otra escuela: si Dios lo reveló, se puede entender. Acá van las reglas de lectura que comparten los autores y los puntos donde se separan.",
     "fuentes": [
       "web_16#18",
       "web_07#3",
@@ -13,27 +13,27 @@
   "versiculos": [
     {
       "ref": "1:1",
-      "porque": "«La declaró»: el libro avisa desde el primer versículo que Dios se comunica por señales."
+      "porque": "«La declaró»: desde el comienzo, Dios se comunica por señales."
     },
     {
       "ref": "1:3",
-      "porque": "La bendición es para el que lee, oye y guarda: el libro se dio para ser entendido y vivido."
+      "porque": "La bendición es para el que lee, oye y guarda: se dio para entenderlo y vivirlo."
     },
     {
       "ref": "1:20",
-      "porque": "El primer símbolo que el mismo libro explica: estrellas y candeleros."
+      "porque": "El primer símbolo que el libro mismo explica."
     },
     {
       "ref": "5:6",
-      "porque": "Juan oye de un León y ve un Cordero: la imagen corrige lo que uno esperaba."
+      "porque": "Juan oye de un León y ve un Cordero."
     },
     {
       "ref": "12:9",
-      "porque": "El texto dice quién es el dragón: un ejemplo de distinguir el símbolo de lo que representa."
+      "porque": "El texto dice quién es el dragón."
     },
     {
       "ref": "22:10",
-      "porque": "A Daniel se le mandó sellar su libro; a Juan, no sellarlo."
+      "porque": "A Daniel se le mandó sellar su libro; a Juan, no."
     }
   ],
   "apartados": [
@@ -41,7 +41,7 @@
       "titulo": "Un libro, tres maneras de hablar",
       "parrafos": [
         {
-          "texto": "Mundo Hispano pide tener siempre presente que el libro reúne tres géneros: se presenta como apocalíptico, se declara profecía (1:3) y está armado como carta (1:4). La Coalición por el Evangelio y la clase de 9Marcas coinciden: tiene saludo, cuerpo y despedida como una epístola a iglesias concretas; es una profecía, y por eso cierra con la advertencia de no agregar ni quitar (22:18); y usa un género que en el siglo I se entendía sin esfuerzo.",
+          "texto": "Mundo Hispano pide tener siempre presente que el libro reúne tres géneros: es apocalíptico, se declara profecía (1:3) y está armado como carta (1:4). La Coalición por el Evangelio y 9Marcas coinciden: tiene saludo, cuerpo y despedida como una epístola; es profecía, y por eso cierra prohibiendo agregar o quitar (22:18); y usa un género que en el siglo I se entendía sin esfuerzo.",
           "fuentes": [
             "cbmh_01_a#4",
             "cpe_01#5",
@@ -49,7 +49,7 @@
           ]
         },
         {
-          "texto": "Carballosa enumera los rasgos del género, que el libro comparte con Daniel, Ezequiel y Zacarías: el mensaje llega por símbolos y visiones, un mensajero celestial los declara o interpreta, el contenido mira al fin y nace en un ambiente de exilio. Mundo Hispano señala el efecto: la visión saca a Juan de este mundo y le hace verlo desde el cielo, y el poder de Roma, que parecía no tener límites, queda chico ante el propósito de Dios.",
+          "texto": "Carballosa enumera los rasgos del género, que comparte con Daniel, Ezequiel y Zacarías: símbolos y visiones, un mensajero celestial que los interpreta, la mirada puesta en el fin y un ambiente de exilio. Mundo Hispano señala el efecto: la visión hace ver el mundo desde el cielo, y el poder de Roma, que parecía no tener límites, queda chico ante el propósito de Dios.",
           "fuentes": [
             "carballosa_01#2",
             "r1_001#33",
@@ -58,7 +58,7 @@
           ]
         },
         {
-          "texto": "¿Por qué importa? La clase de 9Marcas dice que muchos malentendidos nacen de ignorar el género, como jugar al fútbol con las reglas del béisbol. Mundo Hispano advierte desde el otro lado: olvidar que es una carta lleva a pensar que buena parte del libro no les decía nada a sus primeros lectores.",
+          "texto": "¿Por qué importa? Para 9Marcas, muchos malentendidos nacen de ignorar el género, como jugar al fútbol con las reglas del béisbol. Mundo Hispano agrega que olvidar que es una carta lleva a pensar que no les decía nada a sus primeros lectores.",
           "fuentes": [
             "web_07#3",
             "cbmh_01_a#8"
@@ -70,14 +70,14 @@
       "titulo": "Un símbolo siempre habla de algo real",
       "parrafos": [
         {
-          "texto": "Wiersbe ve en «la declaró» (1:1) el anuncio de un libro simbólico, y aclara que los símbolos hablan de realidades, como una bandera habla de una nación: el retrato de Cristo de 1:12-16 no es una foto, pero cada rasgo dice algo verdadero de Él. Carballosa usa las señales de tránsito: son símbolos, y nadie duda de que avisan algo real. Por eso distingue el uso de símbolos, que hace el texto, de la alegoría, que le busca un sentido oculto.",
+          "texto": "Wiersbe ve en «la declaró» (1:1) el anuncio de un libro simbólico, y aclara que los símbolos hablan de realidades, como una bandera habla de una nación: el retrato de Cristo de 1:12-16 no es una foto, pero cada rasgo dice algo verdadero. Carballosa piensa en las señales de tránsito, símbolos que avisan algo real, y distingue ese uso de símbolos de la alegoría, que busca un sentido oculto.",
           "fuentes": [
             "r1_024_a#3",
             "carballosa_19#12"
           ]
         },
         {
-          "texto": "El mismo libro da claves. Wiersbe distingue símbolos que se explican (1:20; 4:5), otros que no (los veinticuatro ancianos, 4:4; los dos testigos, 11:3) y otros que se aclaran con el Antiguo Testamento (2:7, 17, 27, 28). Mundo Hispano suma la ramera, que es Babilonia (17:1), y la Jerusalén celestial, que es la esposa del Cordero (21:9-10); Ligonier, el dragón, que es Satanás (12:9). McGee nota que Juan avisa cuándo habla en símbolos, y Larkin, que lo que el libro no explica lo explica otra parte de la Escritura.",
+          "texto": "El libro da claves. Wiersbe distingue símbolos que se explican (1:20; 4:5), otros que no (4:4; 11:3) y otros que aclara el Antiguo Testamento (2:7, 17). Mundo Hispano suma la ramera, que es Babilonia (17:1), y la esposa del Cordero, que es la Jerusalén celestial (21:9-10); Ligonier, el dragón, que es Satanás (12:9). McGee nota que Juan avisa cuándo habla en símbolos, y Larkin, que lo que el libro no explica lo explica otra parte de la Escritura.",
           "fuentes": [
             "r1_024_a#3",
             "cbmh_01_a#4",
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "texto": "A veces la imagen sorprende. Un anciano anuncia «El León de la tribu de Judá»; Juan se da vuelta y ve «Un Cordero como inmolado» (5:5-6). La clase de 9Marcas lo resume: oímos al León, pero al mirar descubrimos al siervo sufriente de Isaías. Ladd insiste en que no son dos personajes. Leer bien una imagen es dejar que el texto la complete.",
+          "texto": "A veces la imagen sorprende. Un anciano anuncia «El León de la tribu de Judá»; Juan se da vuelta y ve «Un Cordero como inmolado» (5:5-6). Para 9Marcas, oímos al León y al mirar descubrimos al siervo sufriente de Isaías; Ladd insiste en que son el mismo. Leer bien es dejar que el texto complete la imagen.",
           "fuentes": [
             "web_07#7",
             "web_16#22",
@@ -100,7 +100,7 @@
       "titulo": "¿Literal o figurado?",
       "parrafos": [
         {
-          "texto": "Pentecost cree que de esta pregunta dependen las demás: las diferencias sobre el milenio o el arrebatamiento son, en el fondo, de método. Benware, Carballosa, MacArthur y McGee piden la lectura normal (histórico-gramatical): el símbolo representa algo real y hay que descubrir qué. Carballosa agrega que el propio mensajero celestial suele interpretar las figuras, así que no hace falta alegorizar; McGee prefiere lo literal salvo que Juan indique otra cosa.",
+          "texto": "Pentecost cree que de esta pregunta dependen las demás: lo que separa las posturas sobre el milenio o el arrebatamiento es el método. Benware, Carballosa, MacArthur y McGee piden la lectura normal (histórico-gramatical): el símbolo representa algo real y hay que descubrir qué. Carballosa agrega que el mensajero celestial suele interpretar las figuras; McGee prefiere lo literal salvo que Juan indique otra cosa.",
           "fuentes": [
             "r2_008#12",
             "r1_003#1",
@@ -110,14 +110,14 @@
           ]
         },
         {
-          "texto": "La clase de 9Marcas va por el otro lado: como la profecía del Antiguo Testamento suele ser realista y la apocalíptica es muy simbólica, lee en sentido figurado salvo que el contexto obligue a lo literal; los hechos son reales, descritos con símbolos. La Coalición pone un ejemplo: para MacArthur, las langostas del capítulo 9 son demonios con forma visible de langosta; para la lectura simbólica, la figura de un ataque demoníaco contra los incrédulos. Su conclusión: los dos lados admiten símbolos; discuten cuántos.",
+          "texto": "9Marcas va por el otro lado: como la apocalíptica es muy simbólica, lee en sentido figurado salvo que el contexto obligue a lo literal; los hechos son reales, descritos con símbolos. La Coalición da un ejemplo: para MacArthur, las langostas del capítulo 9 son demonios con forma visible de langosta; para la lectura simbólica, la figura de un ataque demoníaco. Su conclusión: los dos lados admiten símbolos; discuten cuántos.",
           "fuentes": [
             "web_07#3",
             "cpe_03#1"
           ]
         },
         {
-          "texto": "Los dos temen lo mismo: que cada uno le haga decir al texto lo que quiera. Carballosa critica la alegoría que viene de Orígenes, Ticonio y Agustín porque no tiene control. Benware muestra el riesgo con la tercera trompeta: Barnes vio la invasión de los vándalos y Lenski un engaño religioso mundial. La Coalición reconoce el peligro y responde que el control está en el Antiguo Testamento.",
+          "texto": "Los dos temen lo mismo: que cada uno le haga decir al texto lo que quiera. Carballosa critica la alegoría de Orígenes, Ticonio y Agustín porque no tiene control. Benware lo ilustra con la tercera trompeta: Barnes vio a los vándalos y Lenski un engaño religioso mundial. La Coalición reconoce el peligro y pone el control en el Antiguo Testamento.",
           "fuentes": [
             "carballosa_01#29",
             "r1_003#1",
@@ -130,7 +130,7 @@
       "titulo": "El Antiguo Testamento, diccionario del libro",
       "parrafos": [
         {
-          "texto": "Ningún libro del Nuevo Testamento usa tanto el Antiguo, aunque casi nunca lo cita al pie de la letra. Las cifras cambian según quién cuenta: McGee repite un cálculo, que dice no haber verificado, de 278 versículos de 404 con referencias y más de 500 alusiones; Benware cita un estudio de 348 alusiones, unos 250 pasajes distintos; Earle (Beacon), siguiendo a Beck, habla de casi 300 referencias a los profetas, casi 70 de Daniel.",
+          "texto": "Ningún libro del Nuevo Testamento usa tanto el Antiguo, aunque casi nunca lo cita textualmente. Las cifras cambian según quién cuente: McGee repite, sin haberlo verificado, que 278 de los 404 versículos tienen referencias; Benware cita 348 alusiones, unos 250 pasajes distintos; Earle (Beacon), siguiendo a Beck, casi 300 referencias a los profetas, casi 70 de Daniel.",
           "fuentes": [
             "mcgeer_01#13",
             "mcgee_01_a#17",
@@ -140,7 +140,7 @@
           ]
         },
         {
-          "texto": "Algunos ecos: Juan cae como muerto y oye «No temas», como Daniel ante el ángel (Dn 10:9, 12). Cuando come el librito (10:8-11) sigue el modelo de Ezequiel, cuyo rollo fue dulce como la miel. A Daniel se le mandó sellar su libro hasta el tiempo del fin (Dn 12:4); a Juan, «No selles» (22:10). Mundo Hispano aclara que Juan no copia a los profetas: los relee a la luz de la victoria del Cordero.",
+          "texto": "Algunos ecos: Juan cae como muerto y oye «No temas», como Daniel (Dn 10:9, 12). Al comer el librito (10:8-11) sigue a Ezequiel, cuyo rollo fue dulce como la miel. A Daniel se le mandó sellar su libro (Dn 12:4); a Juan, «No selles» (22:10). Mundo Hispano aclara que Juan no copia a los profetas: los relee a la luz de la victoria del Cordero.",
           "fuentes": [
             "cpe_01#4",
             "cbmh_01_a#7",
@@ -149,7 +149,7 @@
           ]
         },
         {
-          "texto": "Daniel pesa más que ningún otro: Carballosa llega a decir que sin él el Apocalipsis no se entiende, y Grau compara Daniel 7 con Apocalipsis 13. Según McGee, los libros más usados son Salmos, Daniel y Zacarías, y también Génesis, Isaías, Jeremías, Ezequiel y Joel.",
+          "texto": "Daniel pesa más que ninguno: Carballosa dice que sin él el Apocalipsis no se entiende, y Grau compara Daniel 7 con Apocalipsis 13. Según McGee, también abundan Salmos y Zacarías, Génesis, Isaías, Jeremías, Ezequiel y Joel.",
           "fuentes": [
             "r2_004_a#3",
             "beacon_01_a#6",
@@ -157,7 +157,7 @@
           ]
         },
         {
-          "texto": "De ahí sale la regla práctica. Sproul dice que lo más seguro es estudiar cómo se usa cada imagen en el resto de la Escritura, porque su uso es coherente; la Coalición, buscar el símbolo en el Antiguo Testamento y trasladar su sentido; McGee, seguir cada tema desde su primera mención. Sennewald (MiSion) lo dice a su modo: la Biblia explica la Biblia. Benware agrega que así se evitan especulaciones y excesos (más en el artículo T4).",
+          "texto": "De ahí la regla práctica. Sproul aconseja estudiar cómo se usa cada imagen en el resto de la Escritura, porque su uso es coherente; la Coalición, buscar el símbolo en el Antiguo Testamento y trasladar su sentido; McGee, seguir cada tema desde su primera mención; Sennewald (MiSion): la Biblia explica la Biblia. Benware agrega que así se evitan excesos (más en T4).",
           "fuentes": [
             "web_14#2",
             "cpe_03#3",
@@ -172,7 +172,7 @@
       "titulo": "Números, colores e imágenes",
       "parrafos": [
         {
-          "texto": "Mundo Hispano cuenta los números y los colores entre los rasgos del género, y la Coalición explica para qué sirven: avivan la imaginación para que el mensaje se recuerde. El número que más se ve es el siete: Ladd ordena el libro en cuatro series de siete (cartas, sellos, trompetas y copas).",
+          "texto": "Mundo Hispano cuenta los números y los colores entre los rasgos del género; la Coalición dice que avivan la imaginación para que el mensaje se recuerde. El número más visible es el siete: Ladd ordena el libro en cuatro series de siete (cartas, sellos, trompetas y copas).",
           "fuentes": [
             "cbmh_01_a#4",
             "cpe_01#5",
@@ -180,7 +180,7 @@
           ]
         },
         {
-          "texto": "Las siete iglesias son un buen ejemplo. Había otras en la región (Carballosa nombra Hierápolis, Colosas, Tralles y Magnesia). La Coalición lo explica por el siete, número de perfección y plenitud: las siete representan a todas; TTL también lee el siete como totalidad. Carballosa llega a lo mismo por el texto: cada carta termina con «lo que el Espíritu dice a las iglesias».",
+          "texto": "Las siete iglesias son un buen ejemplo. Había otras en la región (Carballosa nombra Hierápolis, Colosas, Tralles y Magnesia). La Coalición lo explica por el siete, número de plenitud: las siete representan a todas; TTL también lee el siete como totalidad. Carballosa llega a lo mismo por el texto: cada carta habla de «lo que el Espíritu dice a las iglesias».",
           "fuentes": [
             "carballosa_01#22",
             "cpe_01#6",
@@ -188,7 +188,7 @@
           ]
         },
         {
-          "texto": "Cuánto pesa un número depende de la lectura. Larkin ve en el sellado de los 144.000 de Israel una muestra de que el libro es en gran parte judío. Con los mil años, Grudem nota que hasta los premilenaristas se dividen: unos los toman al pie de la letra, otros como figura de un período largo; Carballosa asocia lo primero con el dispensacionalismo.",
+          "texto": "Cuánto pesa un número depende de la lectura. Larkin ve en el sellado de los 144.000 de Israel una muestra de que el libro es en gran parte judío. Con los mil años, Grudem nota que hasta los premilenaristas se dividen entre tomarlos al pie de la letra o como un período largo; Carballosa asocia lo primero con el dispensacionalismo.",
           "fuentes": [
             "larkin_01_a#12",
             "r1_027#27",
@@ -196,7 +196,7 @@
           ]
         },
         {
-          "texto": "Una advertencia que comparten varios: el simbolismo no está para calcular fechas. La Coalición recuerda que el género se diseñó para animar a los perseguidos, no para fijar cuándo llega el fin, y Latham rechaza leer señales en las constelaciones porque suma astrología y numerología. La guía T5 y la tabla de números recorren cada cifra con lo que dice cada postura.",
+          "texto": "Una advertencia compartida: el simbolismo no está para calcular fechas. La Coalición recuerda que el género se diseñó para animar a los perseguidos, no para fijar el fin, y Latham rechaza leer señales en las constelaciones porque suma astrología y numerología. La guía T5 y la tabla de números recorren cada cifra.",
           "fuentes": [
             "cpe_10#6",
             "cpe_01#12"
@@ -208,7 +208,7 @@
       "titulo": "Reglas para el camino",
       "parrafos": [
         {
-          "texto": "Primero, preguntar qué oyeron los primeros lectores. Ligonier propone pensar cómo animaba cada visión a las iglesias de Asia; Beasley-Murray, leer como ellos, sabiendo que el cumplimiento espera el día que nadie conoce (Hch 1:7); Carballosa, preguntar qué quiso decir el autor. Walvoord, citado por MacArthur, completa desde el futurismo: lo que está lejos también se aplica hoy, como en 2 Pedro 3.",
+          "texto": "Primero, preguntar qué oyeron los primeros lectores. Ligonier propone pensar cómo animaba cada visión a las iglesias de Asia; Beasley-Murray, leer como ellos, sabiendo que el cumplimiento espera el día que nadie conoce (Hch 1:7); Carballosa, preguntar qué quiso decir el autor. Walvoord, citado por MacArthur, agrega que lo lejano también se aplica hoy.",
           "fuentes": [
             "web_12#15",
             "henry_01_a#4",
@@ -217,14 +217,14 @@
           ]
         },
         {
-          "texto": "Segundo, recordar cómo mira la profecía. Ladd explica que los profetas ven a la vez lo cercano y lo final, sin separar fechas: Isaías pintó la caída de Babilonia con colores del fin. Beasley-Murray aplica eso a Juan: pintó la última crisis con los colores de su época, porque una se parece a la otra.",
+          "texto": "Segundo, recordar cómo mira la profecía. Ladd explica que los profetas ven a la vez lo cercano y lo final: Isaías pintó la caída de Babilonia con colores del fin. Beasley-Murray dice que Juan pintó la última crisis con los colores de su época, porque una se parece a la otra.",
           "fuentes": [
             "ladd_01_a#13",
             "henry_01_a#4"
           ]
         },
         {
-          "texto": "Tercero, no leerlo con el diario en la mano. La clase de 9Marcas pide no tomarlo como el periódico de mañana; la Coalición dice que Juan no quería que se leyera a la luz de las noticias, sino las noticias a la luz del Apocalipsis. Ligonier aconseja no perderse en esquemas, y MacArthur avisa que estudiarlo para sostener opiniones sensacionales es fracasar.",
+          "texto": "Tercero, no leerlo con el diario en la mano. 9Marcas pide no tomarlo como el periódico de mañana; la Coalición, leer las noticias a la luz del Apocalipsis y no al revés. Ligonier aconseja no perderse en esquemas, y MacArthur avisa que estudiarlo para sostener opiniones sensacionales es fracasar.",
           "fuentes": [
             "web_16#18",
             "cpe_03#3",
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "texto": "Cuarto, leerlo como el final de la Biblia y con Cristo en el centro: la historia que empezó en un huerto termina en una ciudad (Ligonier), y el libro es la revelación de Jesucristo (Wiersbe). McGee cree que la advertencia de no agregar ni quitar (22:18-19) debería frenar las interpretaciones absurdas. Y Wiersbe recuerda que intérpretes buenos y consagrados difieren.",
+          "texto": "Cuarto, leerlo como final de la Biblia y con Cristo en el centro: la historia que empezó en un huerto termina en una ciudad (Ligonier), y el libro es la revelación de Jesucristo (Wiersbe). McGee cree que la advertencia de 22:18-19 debería frenar las interpretaciones absurdas. Y Wiersbe recuerda que intérpretes buenos y consagrados difieren.",
           "fuentes": [
             "web_17#8",
             "r1_024_a#3",
@@ -272,7 +272,7 @@
       "tema": "¿Lectura normal (literal) o figurada por defecto?",
       "posturas": [
         {
-          "postura": "Método histórico-gramatical: los símbolos representan realidades concretas y se toma lo literal salvo que el texto indique otra cosa; alegorizar quita todo control.",
+          "postura": "Lectura histórico-gramatical: el símbolo representa una realidad concreta; se toma lo literal salvo que el texto indique otra cosa.",
           "quien": "Benware, Carballosa, MacArthur, McGee (premilenial dispensacional)",
           "fuentes": [
             "r1_003#1",
@@ -282,7 +282,7 @@
           ]
         },
         {
-          "postura": "Lectura figurada salvo que el contexto obligue a lo literal: los hechos son reales, pero descritos con símbolos que se recapitulan.",
+          "postura": "Lectura figurada salvo que el contexto obligue a lo literal: hechos reales descritos con símbolos.",
           "quien": "CHBC, 9Marcas; Coalición por el Evangelio (idealista)",
           "fuentes": [
             "web_07#3",
@@ -290,20 +290,20 @@
           ]
         }
       ],
-      "nota": "Todos admiten que hay símbolos y que hablan de algo real; discuten cuántos. Pentecost ve en esta cuestión la raíz de las escuelas (ver I4)."
+      "nota": "Todos admiten símbolos que hablan de algo real; discuten cuántos. Pentecost ve aquí la raíz de las escuelas (ver I4)."
     },
     {
       "tema": "¿Apocalíptico o profético?",
       "posturas": [
         {
-          "postura": "Es ante todo profecía, como el libro dice de sí (1:3; 22:7); el género apocalíptico no autoriza a dar cualquier sentido a los símbolos.",
+          "postura": "Es ante todo profecía (1:3; 22:7); el género no autoriza a dar cualquier sentido a los símbolos.",
           "quien": "Benware, siguiendo a Thomas (premilenial dispensacional)",
           "fuentes": [
             "r1_005#9"
           ]
         },
         {
-          "postura": "Es las dos cosas: lo apocalíptico es una forma de la profecía y hay que leerlo con sus reglas sin perder su mensaje histórico.",
+          "postura": "Es las dos cosas: lo apocalíptico es una forma de la profecía, con mensaje para su tiempo y para el fin.",
           "quien": "Ligonier; Mundo Hispano; CHBC, 9Marcas",
           "fuentes": [
             "web_17#8",
@@ -312,7 +312,7 @@
           ]
         },
         {
-          "postura": "Los apocalipsis judíos desconfiaban de la historia, a diferencia de los profetas del Antiguo Testamento; leer el Apocalipsis solo como uno de esos «tratados para tiempos difíciles» es inadecuado si es profecía genuina.",
+          "postura": "Los apocalipsis judíos desconfiaban de la historia, a diferencia de los profetas; leer el Apocalipsis solo como uno de ellos no alcanza si es profecía genuina.",
           "quien": "Ladd (premilenial histórico)",
           "fuentes": [
             "ladd_01_a#4",
@@ -379,14 +379,14 @@
   ],
   "para_vivir": [
     {
-      "texto": "Antes de buscar en las noticias qué significa una imagen, búsquenla en la Biblia: lean juntos el pasaje del Antiguo Testamento del que viene.",
+      "texto": "Antes de buscar una imagen en las noticias, búsquenla en la Biblia: lean juntos el pasaje del Antiguo Testamento del que viene.",
       "fuentes": [
         "cpe_03#3",
         "web_14#2"
       ]
     },
     {
-      "texto": "Cuando un símbolo no se deje entender, quédense con lo que todos ven: Dios está en su trono y el Cordero vence. El libro se escribió para animar a gente que sufría.",
+      "texto": "Cuando un símbolo no se deje entender, quédense con lo que todos ven: Dios está en su trono y el Cordero vence.",
       "fuentes": [
         "cpe_01#6",
         "cpe_10#6"
@@ -394,9 +394,9 @@
     }
   ],
   "para_conversar": [
-    "¿Qué imagen del Apocalipsis les daba miedo o les parecía rara, y cómo cambia si se pregunta qué entendían los primeros lectores?",
-    "¿Qué peligro ven en leer el libro con el diario en la mano? ¿Y en hacerle decir a cada símbolo lo que uno quiera?",
-    "Juan esperaba un León y vio un Cordero. ¿En qué se parece eso a la manera en que Dios nos sorprende hoy?"
+    "¿Qué imagen del libro les parecía rara, y cómo cambia si se preguntan qué entendían los primeros lectores?",
+    "¿Qué peligro ven en leerlo con el diario en la mano? ¿Y en hacerle decir a un símbolo lo que uno quiera?",
+    "Juan esperaba un León y vio un Cordero. ¿Cómo nos sorprende Dios hoy de un modo parecido?"
   ],
   "dias_relacionados": [
     1,

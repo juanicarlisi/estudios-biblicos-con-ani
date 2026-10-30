@@ -1,0 +1,161 @@
+{
+  "id": "dg-numeros",
+  "titulo": "Los números del Apocalipsis",
+  "bajada": "Dónde aparece cada número, qué significa según las fuentes y en qué difieren las posturas. Todos ven símbolos; la discusión es si además son cantidades exactas.",
+  "tipo": "tabla",
+  "columnas": ["Número", "Dónde aparece", "Qué significa según las fuentes", "Dónde difieren las posturas"],
+  "filas": [
+    {
+      "celdas": [
+        "2",
+        "Los dos testigos (11:3), los dos olivos y candeleros (11:4) y las dos bestias que se ayudan (cap. 13).",
+        "Compañía, fuerza y confirmación (Grau). Los testigos aluden a Zorobabel y Josué y a Moisés y Elías (Lacueva); son dos porque la Ley pide dos testigos (MacArthur, Coalición).",
+        "Dos personas reales (MacArthur: en el Nuevo Testamento «mártys» designa personas) o la iglesia que testifica, porque Juan ya explicó que los candeleros son iglesias (Coalición, idealista)."
+      ],
+      "ref": "11:3-4",
+      "fuentes": ["r1_012#7", "r1_020#1", "macarthur_09#26", "cpe_01#16"]
+    },
+    {
+      "celdas": [
+        "3",
+        "«Santo, santo, santo» (4:8); el triple «¡ay!» (8:13); los tres espíritus inmundos del dragón, la bestia y el falso profeta (16:13).",
+        "Número divino: la Deidad y las tres personas (Grau, Lacueva). Repetir algo tres veces lo lleva al grado máximo (Sproul). El dragón y las dos bestias forman una trinidad falsa (Biblia MacArthur).",
+        "Grau y Lacueva le dan valor simbólico; Robert Thomas (citado por MacArthur) cuenta los tres espíritus entre los números exactos, y Benware sostiene que solo el siete tiene sentido simbólico."
+      ],
+      "ref": "16:13",
+      "fuentes": ["r1_012#7", "r1_020#1", "r2_003_a#23", "macarthur_12_a#14", "mbiblia_02_c#16", "macarthur_16#45", "r1_004#8"]
+    },
+    {
+      "celdas": [
+        "3½",
+        "Tres días y medio (11:9, 11) y tres años y medio: 42 meses, 1.260 días y «un tiempo, y tiempos, y la mitad de un tiempo» (11:2-3; 12:6, 14; 13:5).",
+        "La mitad del siete: lo interrumpido e incompleto, el tiempo en que el mal parece reinar (Grau); el tiempo de dominio del mal antes del fin (Ladd).",
+        "Para Ryrie y los dispensacionalistas, cada mitad exacta de la semana setenta de Daniel; para Grau, calcular con el 3½ es inútil. Detalle en el cuadro de las medidas de tiempo."
+      ],
+      "ref": "11:2-3",
+      "fuentes": ["r1_012#9", "ladd_04_b#5", "r1_032#17"]
+    },
+    {
+      "celdas": [
+        "4",
+        "Cuatro seres vivientes (4:6); cuatro jinetes (6:1-8); cuatro ángeles en los cuatro ángulos de la tierra (7:1); cuatro ángeles del Éufrates (9:14); los cuatro ángulos (20:8).",
+        "Número del mundo y de la creación: los cuatro puntos cardinales, toda la tierra (Grau, Lacueva, Wiersbe, Benware; para Carballosa, una figura de universalidad).",
+        "Los cuatro seres: la creación (Swete, Wiersbe), también los cuatro evangelios (McGee, que admite que se discute) o ángeles del rango más alto (Carballosa)."
+      ],
+      "ref": "4:6; 7:1",
+      "fuentes": ["r1_012#7", "r1_020#1", "r1_024_b#6", "r1_008#10", "carballosa_16_b#12", "beacon_03_a#15", "mcgeer_04#26", "carballosa_19#18"]
+    },
+    {
+      "celdas": [
+        "6 y 666",
+        "El número de la bestia, «número de hombre» (13:18); algunos manuscritos dicen 616.",
+        "El seis es el número del hombre, que no llega al siete; repetido tres veces (MacArthur, Grau, Hendriksen). Se calcula por gematría: las letras valían números (Ladd).",
+        "Nerón César en letras hebreas (Ligonier, preterista); un anticristo futuro que hoy no se identifica (MacArthur, McGee, Benware); el fracaso del mal (Grau, Mundo Hispano); «Lateinos» (Ireneo)."
+      ],
+      "ref": "13:18",
+      "fuentes": ["macarthur_12_a#14", "r1_012#11", "r1_020#2", "ladd_05_b#6", "web_09#22", "mcgee_08#24", "r1_005#17", "cbmh_06_a#33", "henry_02_a#18"]
+    },
+    {
+      "celdas": [
+        "7",
+        "Iglesias, candeleros, estrellas y espíritus (caps. 1-5); sellos, trompetas, copas, truenos y cabezas. Carballosa (con Swete) cuenta 52 apariciones; Grau, 54.",
+        "Perfección (MacArthur; Grau: 4 + 3, el mundo y Dios); plenitud y término, «se acabó» (MacArthur, Gracia a Vosotros); totalidad (Diccionario Mundo Hispano).",
+        "McGee: «completo», no «perfecto». Carballosa y Benware: el símbolo no quita la cantidad (siete iglesias reales); Grau: las siete iglesias son toda la Iglesia universal."
+      ],
+      "ref": "1:4; 1:20",
+      "fuentes": ["carballosa_01#25", "r1_012#8", "macarthur_02_a#20", "web_11_a#11", "dbmh_02#19", "mcgee_01_b#19", "carballosa_01#26", "r1_004#8"]
+    },
+    {
+      "celdas": [
+        "10",
+        "Diez días de tribulación (2:10); diez cuernos del dragón y de la bestia (12:3; 13:1; 17:3, 12); la décima parte de la ciudad (11:13).",
+        "Poder completo, gobierno absoluto (Grau); plenitud o cantidad indefinida (Mundo Hispano); la base de la cuenta hebrea, cuyo cubo es mil (Lacueva).",
+        "Los diez reyes: diez reyes literales y futuros con la bestia (Carballosa, MacArthur) o símbolo de la plenitud del poder del Anticristo (Ladd) o de muchas soberanías aliadas (Mundo Hispano)."
+      ],
+      "ref": "17:12",
+      "fuentes": ["r1_012#8", "cbmh_07#5", "r1_020#4", "carballosa_13_b#15", "macarthur_15_a#5", "ladd_06_b#5"]
+    },
+    {
+      "celdas": [
+        "12",
+        "Doce mil de cada una de las doce tribus (7:5-8); doce estrellas (12:1); doce puertas, ángeles y cimientos (21:12-14); 12.000 estadios y 144 codos (21:16-17); doce frutos (22:2).",
+        "El pueblo de Dios: doce tribus y doce apóstoles (Coalición); plenitud de autoridad (Lacueva); para Grau, 4 × 3, la religión organizada en el mundo.",
+        "La ciudad de 12.000 estadios: un cubo real de unos 2.220 km por lado (MacArthur) o símbolo de vastedad y perfección (Ladd, Beasley-Murray, Mundo Hispano)."
+      ],
+      "ref": "21:12-17",
+      "fuentes": ["cpe_02#28", "r1_020#1", "r1_012#9", "macarthur_18_a#14", "ladd_08_a#9", "henry_03#7", "cbmh_08_a#16"]
+    },
+    {
+      "celdas": [
+        "24",
+        "Veinticuatro tronos y veinticuatro ancianos alrededor del trono (4:4, 10; 5:8; 11:16; 19:4).",
+        "Doce más doce, tribus y apóstoles (Victorino, Swete, Larkin); los 24 turnos de sacerdotes de 1 Cr 24 (Larkin, MacArthur, Lacueva); autoridad bajo Dios (Mundo Hispano).",
+        "Quiénes son: la iglesia (MacArthur, McGee), todo el pueblo de Dios de ambos Testamentos (Earle) o ángeles de alto rango (Carballosa); Ladd niega que sean la iglesia."
+      ],
+      "ref": "4:4",
+      "fuentes": ["beacon_03_a#12", "larkin_02_a#12", "macarthur_05_a#25", "r1_020#1", "cbmh_03_b#26", "macarthur_05_a#23", "mcgeer_04#22", "carballosa_15_a#1", "ladd_02_c#11"]
+    },
+    {
+      "celdas": [
+        "144.000",
+        "Los sellados de las tribus de Israel (7:4-8); los que están con el Cordero en el monte de Sion (14:1, 3).",
+        "12 × 12 × 1.000: una multitud grande y completa del pueblo de Dios (Coalición, Earle, Lacueva); para Ladd, todo el pueblo de Dios llevado seguro a través de la tribulación, sin que se pierda uno.",
+        "Judíos literales de las doce tribus, distintos de la multitud de las naciones (McGee, Wiersbe) o el número total de los fieles (Swete y Earle, Coalición)."
+      ],
+      "ref": "7:4",
+      "fuentes": ["cpe_02#28", "beacon_03_b#11", "r1_020#3", "ladd_03_b#9", "mcgee_05_a#25", "r1_024_b#19"]
+    },
+    {
+      "celdas": [
+        "1.000",
+        "«Mil años», seis veces (20:2-7); también dentro de 144.000, 7.000 y 12.000.",
+        "Diez al cubo: lo completo en grado sumo (Lacueva; Grau, citado por Coalición).",
+        "Mil años literales (MacArthur, Benware, Ryrie, Carballosa); un símbolo que igual marca un período real (Ladd); símbolo de la era entre las dos venidas (Hoekema, Mundo Hispano, Alcántara)."
+      ],
+      "ref": "20:2-7",
+      "fuentes": ["r1_020#4", "cpe_02#28", "r1_015#7", "r1_004#8", "r1_033#9", "carballosa_16_a#1", "ladd_07_b#7", "cbmh_07#36", "cpe_02#10"]
+    },
+    {
+      "celdas": [
+        "7.000",
+        "Los que mueren en el terremoto de la gran ciudad (11:13).",
+        "7 × 1.000: perfección en calidad y en cantidad, como los siete mil de Elías (1 R 19:18), según Lacueva.",
+        "La décima parte de Jerusalén o solo un número considerable (Beasley-Murray); hombres destacados, seguidores del anticristo (McGee)."
+      ],
+      "ref": "11:13",
+      "fuentes": ["r1_020#3", "henry_02_a#5", "mcgee_07_a#20"]
+    },
+    {
+      "celdas": [
+        "200 millones",
+        "Los ejércitos de jinetes de la sexta trompeta: «Yo oí su número» (9:16).",
+        "Una cifra colosal que simboliza a los jinetes dispuestos a matar a la tercera parte de los hombres (Lacueva).",
+        "McGee los vincula con las naciones del Oriente, aunque en el fondo cree que se trata de una invasión del mundo demoníaco."
+      ],
+      "ref": "9:16",
+      "fuentes": ["r1_020#3", "beacon_03_c#10", "mcgeer_07#16"]
+    },
+    {
+      "celdas": [
+        "Cuarta y tercera parte",
+        "La cuarta parte de la tierra (6:8); la tercera parte de árboles, mar, aguas y astros (8:7-12) y de los hombres (9:15, 18).",
+        "Juicio parcial, todavía no el final: un aviso que busca el arrepentimiento (Ladd, MacArthur, Carballosa).",
+        "MacArthur: hechos físicos y literales en toda la tierra; McGee suma las víctimas y llega a más de la mitad de la humanidad."
+      ],
+      "ref": "8:7-12",
+      "fuentes": ["ladd_04_a#5", "macarthur_08#1", "carballosa_06#2", "mcgeer_07#16"]
+    },
+    {
+      "celdas": [
+        "1.600 estadios",
+        "La sangre del lagar llega a los frenos de los caballos (14:20).",
+        "Entre unos 288 y 320 km según el autor; varios lo comparan con el largo de Palestina.",
+        "Toda Palestina como escenario de la guerra final (McGee, Larkin); hipérbole de una gran matanza (MacArthur); figura de un juicio total (Ladd; Earle, con 4 × 4 × 100)."
+      ],
+      "ref": "14:20",
+      "fuentes": ["mcgee_08#42", "larkin_06_a#8", "carballosa_11_b#19", "macarthur_13_a#28", "ladd_06_a#3", "beacon_04_b#12"]
+    }
+  ],
+  "nota": "Carballosa enumera los números del libro (2, 3, 3½, 4, 5, 6, 7, 10, 12, 24, 42, 144, 666, 1.000, 1.260, 1.600, 7.000, 12.000 y 200 millones). Benware cuenta unos 240 usos y sostiene que casi todos son cantidades; Grau recuerda que el profeta es un vidente y no un matemático. Para Carballosa, el significado simbólico no niega la cantidad.",
+  "dias": [2, 7, 10, 22, 32, 37, 39, 44, 46, 56, 60, 67, 77, 89, 90]
+}

@@ -1,0 +1,186 @@
+{
+  "dia": 2,
+  "desde": "1:4",
+  "hasta": "1:5",
+  "titulo": "Gracia y paz del Dios trino",
+  "minutos": {"lectura": 1, "estudio": 25},
+  "contexto": {
+    "antes": "En el día 1 (1:1-3) leímos el prólogo: el libro se presenta como la revelación de Jesucristo. Según el Comentario Mundo Hispano, esa breve introducción, con elementos apocalípticos y de adoración, es lo único que lo distingue de una carta.",
+    "ahora": "Desde 1:4 empieza la carta propiamente dicha: remitente, destinatarios y saludo. Pero el saludo llega del Padre, del Espíritu y del Hijo, y al nombrar a Jesucristo se convierte en alabanza.",
+    "donde": "La provincia romana de Asia, en el extremo occidental de Asia Menor, sobre el mar Egeo: el oeste de la actual Turquía.",
+    "cuando": "Para Ladd, Juan escribe en tiempos del emperador Domiciano (que el Comentario Mundo Hispano ubica entre el 81 y el 96). La fecha del libro se discute: ver el anexo I2.",
+    "despues": "Mañana (1:6) sigue la alabanza: Cristo nos hizo un reino, sacerdotes para Dios su Padre, y a él se le da la gloria y el imperio por los siglos.",
+    "fuentes": ["cbmh_01_b#1", "macarthur_01#22", "beacon_01_a#37", "larkin_01_a#14", "cbmh_01_b#3", "ladd_01_a#32", "cbmh_01_b#10", "mcgeer_01#28", "r2_032#10"]
+  },
+  "versiculo_clave": {
+    "ref": "1:5",
+    "porque": "En un solo versículo está quién es Jesús (testigo fiel, primogénito de los muertos, soberano de los reyes) y qué hizo por nosotros: nos ama y nos libró de nuestros pecados con su sangre."
+  },
+  "panorama": {
+    "texto": "Después del prólogo, el libro se vuelve carta. Juan escribe a siete iglesias reales de Asia y, a través de ellas, a toda la iglesia. El saludo de siempre, «Gracia y paz», llega esta vez de parte del Dios trino: del Padre eterno, «el que es y que era y que ha de venir»; del Espíritu Santo en su plenitud, delante del trono; y de Jesucristo, presentado con tres títulos: el testigo fiel (la palabra que después significó “mártir”), el primero en vencer la muerte para siempre y el soberano de los reyes de la tierra, en tiempos en que el emperador se hacía llamar “Señor y Dios”. Apenas lo nombra, Juan empieza a alabarlo: él nos ama y nos libró de nuestros pecados con su sangre. Un libro que muchos abren con miedo empieza envuelto en gracia, en paz y en amor.",
+    "fuentes": ["ladd_01_a#28", "macarthur_01#22", "beacon_01_b#3", "beacon_01_b#1", "ladd_01_a#32", "ladd_01_a#34", "mcgee_01_b#21"]
+  },
+  "secciones": [
+    {
+      "rango": "1:4",
+      "titulo": "Una carta real, para toda la iglesia",
+      "notas": [
+        {"texto": "«Juan, a las siete iglesias que están en Asia»: así empezaba cualquier carta del mundo antiguo, con el nombre de quien escribe y el de quien recibe. Para Ladd, ese detalle separa al libro de los escritos apocalípticos judíos y lo arraiga en la historia. El Comentario Mundo Hispano va más lejos: el libro entero, de 1:4 a 22:21, es una carta extensa.", "fuentes": ["ladd_01_a#28", "cbmh_01_b#1", "macarthur_01#22"], "tipo": "explicacion_texto"},
+        {"texto": "Juan no agrega ningún título. Earle y Carballosa lo identifican con el apóstol, hijo de Zebedeo, conocido en Asia Menor y en Éfeso, donde ministró varios años. Para la mayoría de los estudiosos, dice el Mundo Hispano, presentarse solo con el nombre muestra cercanía con esas iglesias, y la autoridad con que escribe, su liderazgo. McGee agrega que había sido pastor en Éfeso y que parecía supervisar las iglesias de la zona.", "fuentes": ["beacon_01_a#36", "carballosa_02_a#26", "cbmh_01_b#2", "mcgee_01_b#18", "mcgeer_01#25"], "tipo": "contexto_historico"},
+        {"texto": "«Asia» no es el continente ni toda Asia Menor, sino la provincia romana del extremo occidental, junto al mar. Eran congregaciones verdaderas, las destinatarias originales del libro; MacArthur recuerda que la región se evangelizó sobre todo desde Éfeso, por el ministerio de Pablo. Las siete ciudades estaban unidas por caminos, y el Mundo Hispano traza el recorrido probable del mensajero: Éfeso, Esmirna y Pérgamo hacia el norte, y después al este y al sur por Tiatira, Sardis, Filadelfia y Laodicea.", "fuentes": ["beacon_01_a#37", "larkin_01_a#14", "mcgee_01_b#20", "web_03_b#3", "cbmh_01_b#3", "web_03_a#7", "cbmh_01_a#12"], "tipo": "arqueologia_geografia"},
+        {"texto": "No eran las únicas iglesias de la provincia: había otras en Colosas, Hierápolis y Troas (Col 1:2; 4:13; Hch 20:5), y poco después Ignacio escribió a las de Magnesia y Tralles. Por qué se eligieron estas siete no se puede saber con certeza (Mundo Hispano). La explicación que más se repite es que el siete expresa totalidad: escribiendo a siete iglesias concretas, Juan habla a toda la iglesia. Ya el Canon Muratori, de fines del siglo II, decía que Juan escribe a siete pero habla a todas; Erdman, citado por Earle: “representaban toda la iglesia en todo el mundo y en todas las edades”.", "fuentes": ["beacon_01_a#38", "ladd_01_a#28", "cbmh_01_b#3", "mcgee_01_b#20"], "tipo": "simbolo_numero"},
+        {"texto": "Ladd lo llama diversidad dentro de una unidad. El Mundo Hispano lo ve confirmado en el estribillo de cada carta, “El que tiene oído, oiga lo que el Espíritu dice a las iglesias”: las situaciones de las siete abarcan lo que cualquier iglesia vive. Si además representan épocas sucesivas de la historia se discute (ver Interpretaciones).", "fuentes": ["ladd_01_a#28", "cbmh_01_a#12", "cbmh_01_b#3"], "tipo": "explicacion_texto"}
+      ]
+    },
+    {
+      "rango": "1:4",
+      "titulo": "«Gracia y paz»: el saludo que se vuelve bendición",
+      "notas": [
+        {"texto": "Es la fórmula con que abren las cartas de Pablo y las dos de Pedro (Earle). Une dos mundos: «gracia» era la forma griega de saludar y «paz», el shalom hebreo (Plummer, citado por Earle; McGee; Mundo Hispano); Carballosa lo vincula con el hesed y el shalom del Antiguo Testamento. Pero aquí no es una simple cortesía: MacArthur nota que es una bendición que viene de la Trinidad (compárese 2 Co 13:14).", "fuentes": ["beacon_01_a#39", "mcgee_01_b#21", "mcgeer_01#27", "cbmh_01_b#4", "carballosa_02_a#26", "macarthur_01#22"], "tipo": "griego_palabra"},
+        {"texto": "Gracia es el favor de Dios, inmerecido y dado libremente en Jesucristo, sobre pecadores que merecen lo contrario. La paz no es ausencia de luchas ni la “paz mental” de hoy: es el resultado de estar reconciliados con Dios por la fe (Ro 5:1), una calma y una confianza que permiten andar firmes en medio de las tormentas. Por eso el orden importa: para McGee, la paz fluye de la gracia, fuente de todas las bendiciones. Walvoord, citado por Guzik, lo resume así: “Gracia representa firmeza; paz representa experiencia”.", "fuentes": ["cbmh_01_b#4", "carballosa_02_a#26", "mcgee_01_b#21", "mcgeer_01#27", "web_03_a#7"], "tipo": "teologia_doctrina"}
+      ]
+    },
+    {
+      "rango": "1:4",
+      "titulo": "«Del que es y que era y que ha de venir»",
+      "notas": [
+        {"texto": "La gracia viene primero del Padre (Earle, Carballosa, MacArthur, McGee). Carballosa nota que la preposición «de» (apó) se repite delante de cada uno: del Padre, de los siete espíritus y de Jesucristo. Earle, Ladd, Carballosa y el Mundo Hispano ven en el título un eco del nombre que Dios reveló a Moisés (Éx 3:14): Jehová, el que existe por sí mismo, no cambia y guarda su pacto. Este título solo aparece en Apocalipsis (también en 4:8; compárese 11:17 y 16:5).", "fuentes": ["beacon_01_a#40", "carballosa_02_a#27", "macarthur_01#22", "mcgee_01_b#22", "ladd_01_a#29", "cbmh_01_b#6"], "tipo": "teologia_doctrina"},
+        {"texto": "En griego la frase está armada a propósito de forma irregular: Juan no declina el nombre como pediría la gramática. Moffatt y Charles lo leen como una violación deliberada para que el nombre de Dios quede, también en la escritura, sin cambio; Guzik dice que la construcción busca comunicar la idea de Yahveh. Ladd reconoce que es imposible traducirla con naturalidad.", "fuentes": ["beacon_01_a#40", "web_03_a#8", "ladd_01_a#29"], "tipo": "griego_palabra"},
+        {"texto": "Las tres partes dicen algo de Dios y el tiempo. Lenski: «el que es», el que vive de eternidad a eternidad; «el que era», antes de que existiera el tiempo; «el que ha de venir», cuando venga para el juicio final. Lo llamativo es la tercera: no dice “el que será” sino, literalmente, “el que viene”, “el que está viniendo”. Swete cree que se eligió porque anticipa el propósito del libro, mostrar las venidas de Dios en la historia humana; Beasley-Murray la relaciona con la segunda venida, que será también la venida de Dios; Carballosa subraya la inminencia: el que está en camino puede llegar en cualquier momento.", "fuentes": ["beacon_01_a#40", "henry_01_a#7", "carballosa_02_a#27"], "tipo": "explicacion_texto"},
+        {"texto": "La Biblia de estudio MacArthur lo resume: la presencia de Dios no está limitada por el tiempo; siempre estuvo presente y la hará manifiesta en el futuro. El Mundo Hispano lo aplica a su pueblo: el Dios eterno está presente para sostenerlo en todas las experiencias de la vida. Guzik aclara que el nombre describe al Dios trino; Juan lo aplica aquí al Padre porque enseguida nombra al Espíritu y al Hijo.", "fuentes": ["mbiblia_01_a#15", "cbmh_01_b#6", "web_03_a#8"], "tipo": "teologia_doctrina"}
+      ]
+    },
+    {
+      "rango": "1:4",
+      "titulo": "«Los siete espíritus que están delante de su trono»",
+      "notas": [
+        {"texto": "La segunda fuente de la gracia es la más misteriosa. Casi todos los autores de la biblioteca entienden que es el Espíritu Santo, uno solo, presentado con el número de la plenitud (ver Interpretaciones). No son siete Espíritus Santos ni un Espíritu partido en siete (Ligonier); hay un solo Espíritu, y el siete lo describe en su plenitud (MacArthur; Guzik).", "fuentes": ["ladd_01_a#29", "macarthur_01#23", "web_16#10", "web_03_a#9", "beacon_01_a#41", "cbmh_01_b#7"], "tipo": "dificultad_interpretaciones"},
+        {"texto": "Las razones que dan: la frase está entre el Padre y el Hijo, así que Juan incluye a las tres personas de la Divinidad (Ladd); sería extraño poner la bendición de siete ángeles entre el Padre y el Hijo, y los ángeles no dispensan gracia y paz (Carballosa); en este libro los ángeles rechazan ser adorados (19:10; 22:9), mientras que estos espíritus dan una bendición divina (Brandon D. Smith). Además reaparecen en las escenas del trono como siete lámparas y como los siete ojos del Cordero (4:5; 5:6).", "fuentes": ["ladd_01_a#29", "carballosa_02_a#28", "cpe_01#10", "cpe_01#7", "web_16#10"], "tipo": "teologia_doctrina"},
+        {"texto": "La imagen viene de dos profetas. Isaías 11:2 describe al Espíritu que reposa sobre el Mesías: Espíritu de Jehová, de sabiduría, inteligencia, consejo, poder, conocimiento y temor de Jehová; muchos ven ahí la plenitud séptuple de su obra (Guzik, MacArthur, Geisler y Howe). Zacarías 4 muestra un candelero de siete lámparas, los ojos del Señor que alcanzan toda la tierra, con el mensaje “No con ejército, ni con fuerza, sino con mi Espíritu” (Zac 4:6). Ladd, Carballosa, McGee y la Biblia de estudio MacArthur prefieren este segundo trasfondo.", "fuentes": ["web_03_a#9", "web_03_b#4", "r1_001#11", "ladd_01_a#29", "carballosa_02_a#28", "mbiblia_01_a#16", "mcgee_01_b#22", "cbmh_01_b#7"], "tipo": "explicacion_texto"},
+        {"texto": "«Delante de su trono»: para Carballosa, una posición de administración y de juicio, porque en Apocalipsis el Espíritu se revela como Espíritu de juicio. El Mundo Hispano relaciona las siete lámparas con las iglesias, que son candeleros (1:20): los siete espíritus muestran al Cristo resucitado obrando por su Espíritu en cada una. Smith sigue al Espíritu por todo el libro: lleva a Juan a la visión y lo guía (1:10; 4:2; 17:3; 21:10); es “una pieza central de toda la narrativa y es digno de nuestra alabanza”.", "fuentes": ["carballosa_02_a#28", "cbmh_01_b#7", "cpe_01#10"], "tipo": "teologia_doctrina"}
+      ]
+    },
+    {
+      "rango": "1:5",
+      "titulo": "El testigo fiel y el primogénito de los muertos",
+      "notas": [
+        {"texto": "La gracia viene, por último, de Jesucristo. MacArthur dice que se lo nombra al final porque es el tema del libro; Carballosa, que la igualdad de las tres personas permite cambiar el orden para destacarlo. El Mundo Hispano aclara que eso no lo subordina a los siete espíritus: Juan lo describe con tres títulos.", "fuentes": ["macarthur_01#22", "carballosa_02_a#29", "cbmh_01_b#9"], "tipo": "explicacion_texto"},
+        {"texto": "«El testigo fiel» es el que siempre dice la verdad, digno de toda confianza: el único que dio testimonio fiel del propósito y la obra redentora de Dios (MacArthur, Earle, Ladd), y no solo de esta revelación sino de toda la verdad de Dios (Beasley-Murray, con Jn 18:37). Para Carballosa, eso garantiza la veracidad de lo que el libro revela; McGee lo dice simple: es el único testigo confiable de los hechos del libro. Solo aquí y en 3:14 se llama testigo a Jesús (Earle).", "fuentes": ["macarthur_01#24", "beacon_01_b#1", "ladd_01_a#30", "henry_01_a#8", "carballosa_02_a#29", "mcgee_01_b#23"], "tipo": "cristo_en_apocalipsis"},
+        {"texto": "La palabra griega, mártys, terminó significando “mártir”, y Moffatt habla del mártir leal (compárese 2:10). Jesús fue fiel hasta la muerte. El Mundo Hispano aclara que eso no exalta el martirio: anima a los perseguidos a ser fieles aunque les cueste la vida, con Cristo como ejemplo.", "fuentes": ["beacon_01_b#1", "cbmh_01_b#9", "web_03_a#10"], "tipo": "griego_palabra"},
+        {"texto": "«El primogénito de los muertos» no quiere decir que fuera el primero en volver a la vida: hubo resurrecciones antes (MacArthur cita 1 R 17; 2 R 4; Lc 7; Jn 11), algunas obradas por él mismo (Jn 11:43-44). Puede indicar que fue el primero en resucitar para no morir más, las primicias de los que durmieron (1 Co 15:20; Col 1:18). Berkhof precisa que su resurrección no fue solo volver a unir cuerpo y alma, sino la elevación de su humanidad a un nivel más alto; McGee lo dice con una imagen: la muerte fue la matriz que lo dio a luz.", "fuentes": ["macarthur_01#24", "web_03_b#5", "ladd_01_a#30", "henry_01_a#8", "r2_040#2", "mcgee_01_b#24"], "tipo": "cristo_en_apocalipsis"},
+        {"texto": "Pero varios autores ven en el título sobre todo una idea de rango. En el Salmo 89:27 Dios dice del rey: “Yo también le pondré por primogénito, el más excelso de los reyes de la tierra”, y los judíos entendían ese primogénito como el Mesías soberano. Por eso Jesús es el primero en preeminencia, el líder de todos los que resucitarán y heredero por derecho propio (Ladd, Beasley-Murray, MacArthur, Guzik). Guzik advierte que «primogénito» no significa que haya sido creado: los rabinos lo usaban como título mesiánico y hasta lo aplicaban a Dios.", "fuentes": ["ladd_01_a#30", "henry_01_a#8", "macarthur_01#24", "web_03_a#10", "mbiblia_01_a#17", "web_03_b#5", "carballosa_02_a#29"], "tipo": "cristo_en_apocalipsis"}
+      ]
+    },
+    {
+      "rango": "1:5",
+      "titulo": "El soberano de los reyes de la tierra",
+      "notas": [
+        {"texto": "El tercer título sale del mismo Salmo 89:27, y el reinado de Cristo sobre el mundo es un tema clave del libro (11:15; 19:16). Ladd une los dos títulos: por su resurrección, Jesús fue exaltado a la posición del hijo primogénito, y por eso es soberano de los reyes de la tierra.", "fuentes": ["cbmh_01_b#10", "ladd_01_a#30", "macarthur_01#24"], "tipo": "cristo_en_apocalipsis"},
+        {"texto": "Las iglesias lo leían en un contexto preciso. Julio César, Augusto, Claudio, Vespasiano y Tito fueron declarados divinos por el senado romano después de muertos, y los tres últimos pusieron DIVUS en sus monedas. Domiciano, que según Ladd reinaba cuando Juan escribió, fue más lejos: exigió que se dirigieran a él como Dominus et Deus, “Señor y Dios”. El culto al emperador era especialmente popular en Asia, sobre todo en Éfeso. Ladd y el Mundo Hispano lo dicen sin vueltas: detrás de toda autoridad política humana está la soberanía de Jesucristo.", "fuentes": ["ladd_01_a#32", "cbmh_01_b#10"], "tipo": "cultura_costumbres"},
+        {"texto": "Para Ladd es una de las afirmaciones centrales del Nuevo Testamento, aunque la experiencia política parezca contradecirla: Roma gobernaba sin rivales, la historia puede leerse como el dominio de los poderosos y no siempre triunfa el bien. Pero detrás de los hechos caóticos de la historia, el creyente reconoce que Jesús, que eligió la obediencia y la humillación, fue exaltado a la diestra de Dios y gobierna sobre todos los señores de la tierra. Cómo y cuándo se ve ese reinado se discute (ver Interpretaciones); que Jesús es el Señor de los reyes, lo afirman todos.", "fuentes": ["ladd_01_a#31", "cbmh_01_b#10", "carballosa_02_a#29", "r1_035#11"], "tipo": "teologia_doctrina"}
+      ]
+    },
+    {
+      "rango": "1:5",
+      "titulo": "«Al que nos amó, y nos lavó de nuestros pecados con su sangre»",
+      "notas": [
+        {"texto": "Al nombrar a Jesucristo, el saludo se convierte en alabanza (sigue mañana, en 1:6). Earle observa que aquí debería empezar un versículo nuevo. El verbo «amó» está en griego en presente: “al que nos ama”, un amor continuo, con la misma fuerza que cuando fue a la cruz (Earle, Carballosa, Ladd, McGee). McGee lo dice así: “Este mismo momento Jesús le ama”. La liberación, en cambio, está en pasado: es una obra terminada. Ladd ve en esos dos tiempos la evidencia sin ambigüedad de que Dios es un Dios de amor que lo transmite por su Hijo (Ro 5:8).", "fuentes": ["beacon_01_b#4", "carballosa_02_a#30", "ladd_01_a#34", "mcgeer_01#28", "mcgee_01_b#25"], "tipo": "griego_palabra"},
+        {"texto": "Guzik, leyendo «nos amó», mira a la cruz: la certeza del amor de Dios se apoya en esa demostración y no en las circunstancias; Dios puede dar otras pruebas, pero no una mayor. Ladd piensa en los primeros lectores: ante la persecución, podían ver el amor de Dios oscurecido y solo el mal dominando, pero ese amor estaba asegurado por un hecho histórico, la muerte de Jesucristo.", "fuentes": ["web_03_a#12", "ladd_01_a#34"], "tipo": "teologia_doctrina"},
+        {"texto": "¿«Nos lavó» o “nos libró”? Los manuscritos difieren en una sola letra: lousanti (lavó) y lysanti (libró), que casi suenan igual y eran fáciles de confundir al dictado (Earle). Muchos autores prefieren “nos libró” (ver Interpretaciones), pero coinciden en que la diferencia teológica no es grande: Guzik y Tozer afirman las dos verdades.", "fuentes": ["beacon_01_b#4", "ladd_01_a#33", "cbmh_01_b#12", "web_03_a#13", "r2_003_a#2"], "tipo": "dificultad_interpretaciones"},
+        {"texto": "«Con su sangre»: Ladd y el Mundo Hispano leen un hebraísmo, “nos ha liberado del pecado al precio de su sangre” (compárese 5:9). En la Biblia la sangre representa la muerte del sacrificio, tomada del cordero de la Pascua, cuando Dios libertó a Israel de Egipto (Ladd); es toda la pasión y muerte expiatoria de Cristo, lo único que satisface por el pecado y purifica (Mundo Hispano). McGee pide no tratarla a la ligera: la vida está en la sangre (Lv 17:11), y Cristo entregó la suya por completo. Owen lo explica como un rescate: estábamos cautivos bajo la sentencia de la ley, y la muerte de Cristo nos libra de su maldición y de la ira.", "fuentes": ["ladd_01_a#35", "cbmh_01_b#12", "mcgee_01_b#25", "mcgee_02_a#1", "r2_023_a#4"], "tipo": "teologia_doctrina"}
+      ]
+    }
+  ],
+  "simbolos": [
+    {"signo": "el número siete (siete iglesias)", "significado": "Lo completo, la totalidad: siete iglesias reales que representan a toda la iglesia. Según Earle y la Biblia de estudio MacArthur, perfección y plenitud; según McGee, lo completo y representativo, no necesariamente lo perfecto; según Ladd, plenitud, pero no un número sagrado (también la bestia tiene siete cabezas, 13:1). Smith advierte no ser demasiado literales con los números ni tratar el libro como un acertijo.", "refs": ["1:4", "1:11", "13:1"], "fuentes": ["beacon_01_a#38", "mbiblia_01_a#16", "mcgee_01_b#19", "ladd_01_a#28", "cpe_01#8"]},
+    {"signo": "siete espíritus delante del trono", "significado": "El Espíritu Santo en la plenitud de su obra, según casi todos los autores; reaparecen como siete lámparas de fuego (4:5) y como los siete ojos del Cordero (5:6). La imagen se apoya en Isaías 11:2 y en el candelero de Zacarías 4.", "refs": ["3:1", "4:5", "5:6"], "fuentes": ["web_16#10", "r1_008#10", "mbiblia_01_a#16", "cbmh_01_b#7"]}
+  ],
+  "palabras": [
+    {"ref": "1:4", "griego": "χάρις", "translit": "cháris", "significado": "“Gracia”: favor inmerecido, dado libremente por Dios en Jesucristo; era la forma griega de saludar, unida aquí a la paz, el shalom hebreo.", "fuentes": ["cbmh_01_b#4", "mcgee_01_b#21"]},
+    {"ref": "1:4", "griego": "ὁ ἐρχόμενος", "translit": "ho erchómenos", "significado": "“El que ha de venir”: participio presente, “el que viene, el que está viniendo”; con fuerza de inminencia (Carballosa).", "fuentes": ["carballosa_02_a#27", "beacon_01_a#40"]},
+    {"ref": "1:5", "griego": "μάρτυς", "translit": "mártys", "significado": "“Testigo”; con el tiempo, “mártir”: el que da testimonio hasta la muerte.", "fuentes": ["beacon_01_b#1", "web_03_a#10"]},
+    {"ref": "1:5", "griego": "πρωτότοκος", "translit": "prōtótokos", "significado": "“Primogénito”: además del primero en el tiempo, prioridad de rango, jefe o cabeza.", "fuentes": ["carballosa_02_a#29", "macarthur_01#24"]},
+    {"ref": "1:5", "griego": "ἄρχων", "translit": "ho árchōn", "significado": "“El soberano”: el que gobierna; Carballosa lo lee como título del Rey-Mesías (Sal 2; 89:27).", "fuentes": ["carballosa_02_a#29"]},
+    {"ref": "1:5", "griego": "ἀγαπῶντι", "translit": "agapônti", "significado": "“Al que nos ama”: participio presente, un amor que sigue en pie (la RVR1960 traduce «nos amó»).", "fuentes": ["beacon_01_b#4", "carballosa_02_a#30"]},
+    {"ref": "1:5", "griego": "λύσαντι", "translit": "lýsanti", "significado": "“Nos libró, nos soltó”: la lectura de los manuscritos más antiguos según Earle; otros traen λούσαντι (loúsanti), “nos lavó”.", "fuentes": ["beacon_01_b#4", "web_03_a#13"]},
+    {"ref": "1:5", "griego": "ἁμαρτία", "translit": "hamartía", "significado": "“Pecado”: errar el blanco; según Ryrie, la palabra más usada para el pecado en el Nuevo Testamento (unas 227 veces).", "fuentes": ["r2_033#27"]}
+  ],
+  "cristo": [
+    {"texto": "El saludo es trinitario: gracia y paz del Padre, del Espíritu y del Hijo (MacArthur, Carballosa, McGee, Guzik). Earle cita a Julian Price Love: “Se hallará que el libro del Apocalipsis es cabalmente trinitario”. MacArthur y Mayhue ven al Padre, al Espíritu y al Hijo como coiguales, y MacArthur dice de Jesucristo que es “ni más ni menos, Dios todopoderoso”. Larkin nota que en 1:8 Jesús reclama el mismo título que aquí se da al Padre.", "refs": ["2 Co 13:14", "Mt 28:19", "Ap 1:8"], "fuentes": ["beacon_01_b#3", "macarthur_01#22", "carballosa_02_a#1", "mcgee_01_b#22", "web_03_a#11", "r2_035#11", "web_03_b#4", "larkin_01_a#15"]},
+    {"texto": "Larkin y Carballosa ven en los tres títulos los tres oficios de Cristo: profeta (el testigo fiel), sacerdote (el primogénito de los muertos, cuyo ministerio sumosacerdotal empieza con la resurrección) y rey (el soberano de los reyes). Larkin agrega: como profeta es la Palabra de Dios, como sacerdote el Cordero, como rey el León. Swete, citado por Earle, ve en el triple título el triple propósito del libro: el testimonio divino, la revelación del Señor resucitado y la predicción de la historia.", "refs": ["Jn 18:37", "Sal 2:8-12", "Ap 19:11-16"], "fuentes": ["larkin_01_a#15", "carballosa_02_a#29", "beacon_01_b#1"]},
+    {"texto": "Stott observa que el libro empieza presentando a Jesús con títulos del Señor resucitado, ascendido, glorificado y reinante, y que la visión de 1:17-18 los justifica. Chafer nota que un libro que mira hacia los juicios finales también mira atrás, a la cruz: 1:5, 5:9, 7:14 y 13:8. Los redimidos no se identifican por sus obras ni por sus méritos, sino por la sangre del Cordero.", "refs": ["Ap 1:17-18", "Ap 5:9", "Ap 7:14"], "fuentes": ["r1_030#27", "r2_029#13"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Quiénes son los «siete espíritus»?",
+      "posturas": [
+        {"postura": "El Espíritu Santo, uno solo, en la plenitud de su obra: el siete es plenitud. Earle (con Alford, Swete y Plummer), Ladd, Carballosa, MacArthur, Beasley-Murray, Mundo Hispano, Brandon D. Smith, Guzik, Ligonier, Owen, Chafer y Grudem.", "quien": "La gran mayoría, de todas las escuelas", "fuentes": ["beacon_01_a#41", "ladd_01_a#29", "carballosa_02_a#28", "macarthur_01#23", "henry_01_a#7", "cbmh_01_b#7", "cpe_01#7", "web_03_a#9", "web_16#10", "r2_022_b#8", "r2_032#20", "r2_004_a#7"]},
+        {"postura": "Dentro de esa postura, el trasfondo: los siete rasgos del Espíritu en Isaías 11:2, o, como más probable, el candelero de siete lámparas de Zacarías 4.", "quien": "Is 11:2: Guzik, MacArthur (sermón), Geisler y Howe. Zac 4: Ladd, Carballosa, McGee, Biblia de estudio MacArthur", "fuentes": ["web_03_a#9", "web_03_b#4", "r1_001#11", "ladd_01_a#29", "carballosa_02_a#28", "mcgee_01_b#22", "mbiblia_01_a#16"]},
+        {"postura": "Siete seres angélicos, quizás los siete ángeles principales de la tradición judía. Beasley-Murray menciona a Andreas, Arethas y Charles; Smith, también el trasfondo grecorromano de una pluralidad de espíritus.", "quien": "Algunos comentaristas antiguos y modernos (según Earle, Beasley-Murray y Smith)", "fuentes": ["beacon_01_a#41", "henry_01_a#7", "cpe_01#7"]}
+      ],
+      "nota": "Contra la lectura angélica: los ángeles no dan gracia y paz (Carballosa), rechazan la adoración (Smith) y nunca se dice que estos espíritus adoren a Dios, como sí lo hacen los ángeles (Beasley-Murray)."
+    },
+    {
+      "tema": "¿Las siete iglesias representan siete épocas de la historia de la iglesia?",
+      "posturas": [
+        {"postura": "Sí: fueron elegidas por rasgos que muestran el carácter de la iglesia a lo largo de los siglos, en siete períodos definidos.", "quien": "Larkin; McGee (premilenial dispensacional)", "fuentes": ["larkin_01_a#14", "mcgee_01_b#20", "mcgeer_01#26"]},
+        {"postura": "No hay indicio de períodos sucesivos: el siete muestra que el mensaje es para toda la iglesia.", "quien": "Ladd (premilenial histórico)", "fuentes": ["ladd_01_a#28"]},
+        {"postura": "Representan a la iglesia de todo lugar y de todas las edades: lo que vivieron es lo que cualquier iglesia puede vivir.", "quien": "Earle con Erdman (Beacon); Mundo Hispano (idealista)", "fuentes": ["beacon_01_a#38", "cbmh_01_a#12"]}
+      ],
+      "nota": "Todos coinciden en que eran iglesias reales y en que las cartas hablan también a nosotros. El tema vuelve con las cartas (anexo P2)."
+    },
+    {
+      "tema": "¿«Nos lavó» o “nos libró” de nuestros pecados?",
+      "posturas": [
+        {"postura": "“Nos libró” (lýsanti), la lectura de los manuscritos más antiguos y mejores; la Reina-Valera siguió pocos manuscritos tardíos.", "quien": "Earle (Beacon); Ladd; Carballosa la presenta como lectura alternativa", "fuentes": ["beacon_01_b#4", "ladd_01_a#33", "carballosa_02_a#30"]},
+        {"postura": "Las dos lecturas están en manuscritos antiguos y las dos verdades son ciertas; el verbo permite ambos sentidos.", "quien": "Guzik; Tozer", "fuentes": ["web_03_a#13", "r2_003_a#2"]}
+      ],
+      "nota": "Ladd y el Mundo Hispano coinciden en que la diferencia teológica no es grande: la sangre de Cristo libera y purifica."
+    },
+    {
+      "tema": "¿Cristo ya reina sobre los reyes o reinará?",
+      "posturas": [
+        {"postura": "Ya fue exaltado a la diestra de Dios y gobierna; su segunda venida será la manifestación al mundo de la soberanía que ya tiene.", "quien": "Ladd (premilenial histórico); Mundo Hispano", "fuentes": ["ladd_01_a#31", "cbmh_01_b#10"]},
+        {"postura": "Es un título de derecho que hoy no ejerce de ese modo: aguarda su segunda venida y su reinado, cuando cumpla la promesa a David.", "quien": "Carballosa; MacArthur y Mayhue; McGee (premilenial dispensacional)", "fuentes": ["carballosa_02_a#29", "r1_035#11", "mcgee_01_b#25"]},
+        {"postura": "Hoy reina un reino que aún no es de este mundo; antes de que termine el libro tomará el dominio de cada reino terrenal.", "quien": "Guzik", "fuentes": ["web_03_a#10"]}
+      ],
+      "nota": "Todos afirman que Jesús es el Señor de los reyes; la diferencia está en cómo y cuándo se ve ese reinado. Ver el anexo T11 (los mil años)."
+    }
+  ],
+  "biblioteca": [
+    {"texto": "Owen usa este saludo para mostrar que cada persona divina comunica gracia de un modo propio, y lo toma como modelo para orar y adorar también al Espíritu Santo, cuyas operaciones son perfectas y completas.", "autor": "John Owen", "obra": "Comunión con el Dios Trino", "pagina": "PDF 17, 284", "tipo": "doctrina", "fuentes": ["r2_022_b#8", "r2_023_a#12"]},
+    {"texto": "¿Cómo puede una persona ser siete espíritus? El libro es muy simbólico: el siete expresa plenitud, y el Espíritu recibe muchos otros símbolos en la Biblia (paloma, viento, agua, lenguas de fuego, sello).", "autor": "Norman Geisler y Thomas Howe", "obra": "Dificultades bíblicas", "pagina": "PDF 213", "tipo": "apologetica", "fuentes": ["r1_001#11"]},
+    {"texto": "Jesús es el primero y el prototipo de los mártires; los mártires se veían como seguidores del Cristo mártir, y Tertuliano decía: “Cristo está en el mártir”.", "autor": "Alfonso Ropero", "obra": "Mártires y perseguidores", "pagina": "PDF 27", "tipo": "historia", "fuentes": ["r2_011#39"]},
+    {"texto": "Como en una lavandería, Cristo limpia lo que está en nosotros y no solo lo que está sobre nosotros.", "autor": "A. W. Tozer", "obra": "Fe más allá de la razón", "pagina": "PDF 57", "tipo": "ilustracion", "fuentes": ["r2_003_a#2"]},
+    {"texto": "Los creyentes están limpios por la sangre de la cruz, pero se ensucian en contacto con el mal; como Sumo Sacerdote, Cristo les lava los pies llevándolos a juzgarse a la luz de la Palabra, y ese servicio también se lo prestan unos a otros (Jn 13:1-10).", "autor": "Kœchlin", "obra": "Cada día las Escrituras", "pagina": "PDF 253", "tipo": "aplicacion", "fuentes": ["r2_022_a#12"]}
+  ],
+  "conexiones": [
+    {"ref": "Éx 3:14", "nota": "El nombre que Dios revela a Moisés: el trasfondo de «el que es y que era y que ha de venir».", "fuentes": ["beacon_01_a#40", "ladd_01_a#29", "cbmh_01_b#6"]},
+    {"ref": "Zac 4:1-10", "nota": "El candelero de siete lámparas y la palabra “con mi Espíritu”: la fuente más probable de los siete espíritus.", "fuentes": ["ladd_01_a#29", "carballosa_02_a#28", "mbiblia_01_a#16"]},
+    {"ref": "Is 11:2", "nota": "El Espíritu que reposa sobre el Mesías, descrito con sus rasgos.", "fuentes": ["web_03_a#9", "r1_001#11"]},
+    {"ref": "Sal 89:27", "nota": "“Primogénito, el más excelso de los reyes de la tierra”: de aquí salen dos de los títulos de Jesús.", "fuentes": ["ladd_01_a#30", "cbmh_01_b#10"]},
+    {"ref": "Col 1:18", "nota": "Pablo también llama a Cristo primogénito de entre los muertos, y por su resurrección afirma su soberanía.", "fuentes": ["cbmh_01_b#9"]},
+    {"ref": "Ro 5:8", "nota": "Dios muestra su amor en que Cristo murió por nosotros: la prueba que no tiene igual.", "fuentes": ["ladd_01_a#34", "web_03_a#12"]}
+  ],
+  "para_vivir": [
+    {"texto": "McGee anima a no tenerle miedo a este libro: empieza con gracia y paz, y viene de alguien que nos ama hoy. Pueden encarar juntos las partes difíciles del Apocalipsis con esa paz en el corazón.", "fuentes": ["mcgee_01_b#21", "mcgee_01_b#25"]},
+    {"texto": "Cuando las noticias asustan, Schreiner recuerda que no estamos llamados a la desesperación: servimos a un Cristo que gobierna a los reyes de la tierra (1:5) y que dice a las iglesias que sufren “No temas” (1:17). La paz de la que habla Juan es la que permite andar firmes en medio de las tormentas.", "fuentes": ["cpe_08#13", "ladd_01_a#31", "cbmh_01_b#4"]},
+    {"texto": "Guzik invita a basar la certeza del amor de Dios en la cruz y no en las circunstancias. En una semana mala, ustedes pueden recordarse uno al otro que el amor de Cristo está probado de una vez para siempre.", "fuentes": ["web_03_a#12", "ladd_01_a#34"]},
+    {"texto": "Jesús fue el testigo fiel aunque le costó la vida. El Mundo Hispano lo presenta como ejemplo para los creyentes: ser fieles a la verdad aun cuando cuesta, en el trabajo, en la familia y en la iglesia.", "fuentes": ["cbmh_01_b#9"]},
+    {"texto": "El Mundo Hispano lee 1:4-8 como un modelo de adoración: todas las bendiciones vienen del Padre, del Espíritu y del Hijo, y la adoración depende de nuestra relación con Dios, con música o sin música.", "fuentes": ["cbmh_01_b#5"]}
+  ],
+  "para_conversar": [
+    "¿Qué cambia en nuestra manera de leer el Apocalipsis saber que empieza con «gracia y paz» de parte del Padre, del Espíritu y del Hijo?",
+    "¿Qué “emperadores” o poderes de hoy parecen gobernar sin rival en nuestra vida o en las noticias? ¿Cómo nos ayuda saber que Jesús es el soberano de los reyes de la tierra?",
+    "¿En qué nos apoyamos para estar seguros de que Jesús nos ama: en cómo nos va o en lo que él hizo en la cruz? ¿Cómo podemos ayudarnos a recordarlo?"
+  ],
+  "para_orar": "Padre eterno, que eres, que eras y que vienes; Espíritu Santo, pleno delante del trono; Señor Jesús, testigo fiel, primogénito de los muertos y soberano de los reyes: gracias por la gracia y la paz que nos dan. Gracias porque nos amas hoy y nos libraste de nuestros pecados con tu sangre. Haznos fieles como tú, y que ningún poder de este mundo nos haga olvidar quién reina.",
+  "visuales": ["mapa-asia", "dg-cristo"],
+  "anexos": ["T1", "T2", "T3", "I2"],
+  "profundizar": [
+    {"titulo": "La provincia de Asia y sus ruinas", "texto": "La provincia romana de Asia se formó hacia el 130 a.C., y en el 116 a.C. se le agregó Frigia (Earle). Larkin la compara en tamaño con el estado de Pennsylvania; McGee enumera las regiones que abarcaba (Lidia, Misia, Caria y partes de Frigia) y sostiene que la expresión “Asia Menor” no se usó hasta el siglo IV. La Biblia de estudio MacArthur habla de siete distritos postales con siete ciudades principales que servían para difundir información. McGee describe las ruinas magníficas de Hierápolis, a unos 16 km de Laodicea, frente a Laodicea, cubierta en su mayor parte por un campo de avena silvestre y sin excavar (según su visita).", "fuentes": ["beacon_01_a#37", "larkin_01_a#14", "mcgee_01_b#20", "mbiblia_01_a#14", "mcgeer_01#25"]},
+    {"titulo": "El siete en la Biblia, según McGee y Smith", "texto": "McGee reúne ejemplos del siete como número de lo completo, ligado a los pactos de Dios: el sábado, la circuncisión, las siete vueltas a Jericó, Naamán sumergido siete veces, los siete años de abundancia y de hambre en Egipto, los siete años de Nabucodonosor, siete bienaventuranzas, siete peticiones del Padrenuestro, siete parábolas en Mateo 13, siete panes y siete palabras desde la cruz. Brandon D. Smith recuerda que el siete aparece más de 800 veces en la Biblia y lo asocia con la creación “buena en gran manera” (Gn 1).", "fuentes": ["mcgee_01_b#19", "mcgeer_01#26", "cpe_01#8"]},
+    {"titulo": "Por qué la Reina-Valera dice «lavó»", "texto": "Ladd explica que la Reina-Valera se basó en unos pocos manuscritos tardíos; desde entonces se descubrieron muchos más, los mejores de mediados del siglo IV d.C., y muchas diferencias de traducción se deben a que el texto griego de base es mejor o peor. La Nácar-Colunga traduce “nos ha absuelto” o “liberado”. Ladd insiste en que la diferencia teológica no es grande, pero que la exactitud importa.", "fuentes": ["ladd_01_a#33"]},
+    {"titulo": "Dos detalles del griego", "texto": "«El testigo fiel» está en nominativo donde la gramática pediría genitivo; Charles lo explica como un hebraísmo: como el hebreo no declina los nombres en esos casos, Juan a veces escribe el griego como si tampoco los declinara (Earle). Y el nombre «Jesucristo» une nombre y título: Jesús viene del hebreo Yehoshu'a, “Yavé es salvación”, y Cristo, de Mashíaj, “Ungido” (Mundo Hispano).", "fuentes": ["beacon_01_b#2", "cbmh_01_b#8"]}
+  ]
+}

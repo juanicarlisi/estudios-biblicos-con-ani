@@ -1,178 +1,798 @@
 {
-  "dia": 5,
-  "desde": "1:9",
-  "hasta": "1:11",
-  "titulo": "Un domingo en Patmos: el desterrado que oyó la trompeta",
-  "minutos": {"lectura": 1, "estudio": 25},
-  "contexto": {
-    "antes": "En los días 1 a 4 leímos el prólogo y el saludo: el libro es la revelación de Jesucristo, dada a sus siervos por medio de Juan, con una bendición para quien la lee y la guarda (1:3). El saludo terminó con los títulos de 1:8: el Alfa y la Omega.",
-    "ahora": "Empieza la visión que abre el libro. Juan cuenta quién es, dónde estaba, en qué día y cómo recibió la orden de escribir; hoy leemos el marco, antes de que vea a Cristo.",
-    "donde": "La isla de Patmos, en el mar Egeo, frente a la costa occidental de Asia Menor: a unos 55 a 65 km de Mileto, el puerto de Éfeso, según los autores (ver «Profundizar»).",
-    "cuando": "La mayoría de las fuentes del día ubica el destierro bajo el emperador Domiciano, hacia el 95-96 d.C., y su fin cuando Nerva liberó a los desterrados (Eusebio). Ladd y Beasley-Murray notan que Juan dice que «estaba» en Patmos: pudo escribir el libro después de dejar la isla (ver anexo I2).",
-    "despues": "Mañana (1:12-16) Juan se da vuelta para ver quién le habla y ve siete candeleros de oro y, en medio de ellos, a Jesús resucitado en toda su gloria.",
-    "fuentes": ["r1_026#1", "carballosa_02_b#12", "web_03_a#24", "beacon_01_b#15", "cbmh_02_a#1", "macarthur_02_a#13", "larkin_01_a#18", "carballosa_02_b#10", "cbmh_02_a#2", "mbiblia_01_a#25", "web_03_a#22", "henry_01_a#11", "ladd_01_b#3", "r2_034#25", "macarthur_02_a#17"]
-  },
-  "versiculo_clave": {
-    "ref": "1:9",
-    "porque": "En un solo versículo Juan se pone a la altura de sus lectores: hermano, compañero de sufrimiento, ciudadano del mismo reino y llamado a la misma perseverancia, y desterrado solo por ser fiel a la Palabra."
-  },
-  "panorama": {
-    "texto": "Después del saludo, Juan cuenta dónde y cómo recibió la revelación. No se presenta con títulos sino como un hermano más, que comparte con las iglesias la tribulación, el reino y la perseverancia que se viven en Jesús. Está desterrado en Patmos, una isla rocosa del Egeo que Roma usaba como cárcel sin paredes, no por haber cometido un delito sino por su fidelidad a la Palabra de Dios. Y ahí, lejos de su iglesia, en el día del Señor, el Espíritu lo toma y oye detrás de sí una voz fuerte como trompeta que le manda escribir lo que vea y enviarlo a siete iglesias reales de Asia. Ladd lo resume así: no sabemos con exactitud por qué fue desterrado, pero Dios usó ese destierro para mostrarle el conflicto entre su reino y el poder de Satanás, y la victoria final del reino.",
-    "fuentes": ["macarthur_02_a#12", "carballosa_02_b#8", "web_03_a#21", "cbmh_01_a#11", "macarthur_02_a#14", "ladd_01_a#7", "r2_034#25", "web_12#10"]
-  },
-  "secciones": [
-    {
-      "rango": "1:9",
-      "titulo": "«Yo Juan, vuestro hermano»",
-      "notas": [
-        {"texto": "Es la tercera vez en nueve versículos que Juan da su nombre, y volverá a hacerlo en 22:8; MacArthur ve en ese «Yo Juan» el asombro de quien no termina de creer el privilegio que recibe, él que en su Evangelio nunca se nombra.", "fuentes": ["macarthur_02_a#12", "web_11_a#8", "mcgee_02_a#9"], "tipo": "explicacion_texto"},
-        {"texto": "La fórmula recuerda a los profetas: «Yo, Daniel» (Dn 7:28; 8:1; 9:2; 10:2). Fausset, citado por Earle, señala que ningún otro escritor de la Escritura usa esa frase: es uno de los muchos parecidos entre los videntes de Daniel y de Apocalipsis.", "fuentes": ["beacon_01_b#13", "cbmh_01_b#23"], "tipo": "conexion_biblica"},
-        {"texto": "Siendo apóstol, autor de un Evangelio y de tres cartas, y el último de los doce con vida, no invoca rango alguno: se llama «vuestro hermano». Carballosa ve en «hermano y copartícipe» sus cartas credenciales, de intimidad y humildad; el Comentario Mundo Hispano, que al llamarse hermano se hace uno con sus lectores.", "fuentes": ["macarthur_02_a#12", "web_12#9", "carballosa_02_b#8", "cbmh_01_b#23", "cpe_09#12"], "tipo": "personaje"}
-      ]
-    },
-    {
-      "rango": "1:9",
-      "titulo": "Compañeros en la tribulación, el reino y la paciencia",
-      "notas": [
-        {"texto": "En griego un solo artículo une los tres sustantivos: literalmente, «en la tribulación y reino y perseverancia en Jesús». No son tres temas sueltos sino una sola esfera de comunión entre Juan y las iglesias, y el lugar donde se vive es «en Jesús», el equivalente juanino del «en Cristo» de Pablo: la unión del creyente con su Señor.", "fuentes": ["carballosa_02_b#8", "beacon_01_b#14", "ladd_01_b#1", "cbmh_01_b#24"], "tipo": "griego_palabra"},
-        {"texto": "Tribulación (thlípsis) es presión: el sufrimiento que acompaña la fidelidad a Cristo en un mundo hostil al evangelio. Jesús lo anunció (Jn 16:33) y los apóstoles lo enseñaron (Hch 14:22; 2 Ti 3:12). El Comentario Mundo Hispano llama extraña al cristianismo genuino la idea de que se puede ser cristiano sin aflicción. Juan no hablaba de oídas: sufría el destierro junto a delincuentes. Si esta tribulación tiene relación con la gran tribulación del fin, los autores lo discuten (ver Interpretaciones).", "fuentes": ["cbmh_01_b#24", "carballosa_02_b#9", "ladd_01_b#1", "henry_01_a#11", "macarthur_02_a#12"], "tipo": "teologia_doctrina"},
-        {"texto": "El reino está en el medio. Para el Comentario Mundo Hispano eso es a propósito: a pesar del sufrimiento, la mirada está puesta en el reino. Los autores difieren en cuánto de ese reino es presente y cuánto futuro (ver Interpretaciones).", "fuentes": ["cbmh_01_b#24", "mbiblia_01_a#24", "macarthur_02_a#12", "carballosa_02_b#9"], "tipo": "explicacion_texto"},
-        {"texto": "La «paciencia» (hypomoné) no es esperar de brazos cruzados. Literalmente es «permanecer bajo» el peso: aguantar las dificultades sin renunciar, con la esperanza de la fe. Earle dice que «paciencia» suena demasiado pasivo y prefiere perseverancia o fortaleza; el Comentario Mundo Hispano la describe como un espíritu valiente que convierte la derrota en victoria. McGee nota que en el versículo el énfasis cae justamente acá.", "fuentes": ["macarthur_02_a#12", "carballosa_02_b#8", "beacon_01_b#14", "cbmh_01_b#24", "mcgee_02_a#9"], "tipo": "griego_palabra"}
-      ]
-    },
-    {
-      "rango": "1:9",
-      "titulo": "Patmos, una cárcel sin paredes",
-      "notas": [
-        {"texto": "Patmos es una isla chica del Egeo, de unos 15 km de largo y bastante menos de ancho, volcánica, árida y rocosa, sin árboles ni ríos. Los romanos usaban esas islas como lugar de destierro; Tácito cuenta que era un castigo común, y casi al mismo tiempo Domiciano desterró a su propia sobrina, Flavia Domitilla, a otra isla (F. F. Bruce, citado por MacArthur). Guzik la llama la “Alcatraz” del Imperio: una prisión sin paredes.", "fuentes": ["beacon_01_b#15", "ladd_01_b#3", "mbiblia_01_a#25", "cbmh_02_a#1", "macarthur_02_a#13", "web_03_a#21", "carballosa_02_b#10"], "tipo": "arqueologia_geografia"},
-        {"texto": "La vida allí era dura. Según Victorino (citado por Guzik), Juan fue forzado a trabajar en las minas a pesar de su edad; Guzik habla de canteras de mármol y Carballosa de minas. MacArthur lo imagina como un anciano de ochenta o noventa años, con trabajo extenuante bajo un capataz romano, poca comida y ropa, durmiendo en el suelo. Barnes observa que era el lugar ideal para silenciar al apóstol sin matarlo.", "fuentes": ["web_03_a#22", "web_03_a#21", "carballosa_02_b#10", "macarthur_02_a#13", "web_11_a#8"], "tipo": "contexto_historico"},
-        {"texto": "Eusebio transmite la tradición de que Juan fue condenado a Patmos bajo Domiciano y que, cuando Nerva subió al poder, el senado permitió volver a los desterrados: Juan regresó a Éfeso. Ropero recuerda que el libro entero da testimonio de esa época difícil en Asia: Éfeso había sufrido por el nombre de Cristo (2:3), Antipas murió en Pérgamo (2:13) y a Esmirna se le anuncia cárcel (2:10).", "fuentes": ["beacon_01_b#15", "cbmh_02_a#2", "mbiblia_01_a#25", "r1_019#27"], "tipo": "contexto_historico"}
-      ]
-    },
-    {
-      "rango": "1:9",
-      "titulo": "«Por causa de la palabra de Dios»",
-      "notas": [
-        {"texto": "Llama la atención que Juan aclare por qué estaba en una isla de convictos: no por transgredir la ley sino «por causa de la palabra de Dios y el testimonio de Jesucristo». La preposición diá con acusativo expresa causa: estaba allí porque había predicado, no para predicar. Las mismas expresiones se usan en 6:9 y 20:4 para los que sufren y mueren por su fe.", "fuentes": ["cbmh_01_a#11", "carballosa_02_b#10", "beacon_01_b#15", "cbmh_02_a#3", "henry_01_a#11"], "tipo": "explicacion_texto"},
-        {"texto": "MacArthur entiende que las dos frases son casi sinónimas (como en 1:2) y que el único “delito” de Juan fue predicar el evangelio con fidelidad, sin ceder. Quién lo desterró y por qué exactamente no es seguro; las fuentes proponen distintas respuestas (ver Interpretaciones).", "fuentes": ["macarthur_02_a#14", "ladd_01_a#7", "ladd_01_b#4"], "tipo": "explicacion_texto"},
-        {"texto": "Wiersbe recuerda un contraste: de jóvenes, Jacobo y Juan le pidieron a Jesús los tronos a su derecha y a su izquierda (Mc 10:35-45). Después llegó el precio: Jacobo fue ejecutado y Juan, desterrado. Pero Juan no estaba vencido: según MacArthur, en Patmos descubre por qué todavía no había muerto: su obra no había terminado.", "fuentes": ["r1_024_a#13", "web_12#10"], "tipo": "personaje"}
-      ]
-    },
-    {
-      "rango": "1:10",
-      "titulo": "«En el Espíritu en el día del Señor»",
-      "notas": [
-        {"texto": "Literalmente Juan dice «llegué a estar en el Espíritu» (Carballosa). No es el andar diario del creyente en el Espíritu del que habla Pablo (Ro 8:9; Gá 5:16), sino una experiencia única de revelación: Juan, despierto y no soñando, fue llevado más allá de sus sentidos normales para que Dios le mostrara lo que tenía que escribir. Algo parecido vivieron Ezequiel (Ez 3:12, 14), Pedro en Jope (Hch 10:10) y Pablo (Hch 22:17; 2 Co 12:2). Guzik aclara que nada tiene que ver con el ocultismo.", "fuentes": ["carballosa_02_b#11", "ladd_01_b#6", "web_03_a#23", "mbiblia_01_a#26", "macarthur_02_a#15", "cbmh_02_a#4"], "tipo": "explicacion_texto"},
-        {"texto": "La expresión marca el libro: Juan está «en el Espíritu» en Patmos (1:10), en el cielo (4:2), en el desierto (17:3) y en un monte (21:10). McGee ve aquí al Espíritu cumpliendo lo que Jesús prometió en Juan 16:13-14: tomar de lo de Cristo y mostrarlo; lo compara con una pantalla gigante con imagen y sonido.", "fuentes": ["web_03_a#23", "cbmh_02_a#4", "mcgee_02_a#12", "mcgeer_02#4"], "tipo": "explicacion_texto"},
-        {"texto": "¿Qué día es «el día del Señor»? Es la única vez que aparece la expresión en el Nuevo Testamento. La mayoría de las fuentes entiende el domingo, el primer día de la semana, día de la resurrección; Carballosa y Larkin entienden el día del Señor de los profetas, el tiempo del juicio y del regreso de Cristo (ver Interpretaciones).", "fuentes": ["cbmh_02_a#5", "macarthur_02_a#16", "ladd_01_b#5", "carballosa_02_b#11", "larkin_01_a#19"], "tipo": "dificultad_interpretaciones"},
-        {"texto": "Si era domingo, la escena tiene algo conmovedor. Earle la reconstruye así: Juan no podía reunirse con los hermanos; mirando el mar, pensaría en los cristianos de Éfeso reunidos y en la resurrección. El Comentario Mundo Hispano subraya que el dato une al apóstol desterrado con la adoración de las iglesias de Asia. Y el Señor resucitado se le aparece justamente en su día, como notan Chafer y los autores puritanos.", "fuentes": ["beacon_01_b#19", "cbmh_02_a#5", "r2_038_a#21", "r2_024#37"], "tipo": "ilustracion"}
-      ]
-    },
-    {
-      "rango": "1:10-11",
-      "titulo": "Una voz como de trompeta: «Escribe»",
-      "notas": [
-        {"texto": "La voz suena detrás de Juan y recuerda la que oyó Ezequiel (Ez 3:12). Es «una gran voz»: en todo el libro una voz fuerte marca la solemnidad de lo que se revela. Y suena «como de trompeta»: clara, penetrante, inconfundible, que llama la atención y da orden. Evoca el Sinaí, cuando Dios dio la ley (Éx 19:16, 19).", "fuentes": ["macarthur_02_a#17", "beacon_01_b#19", "cbmh_02_a#6", "mbiblia_01_a#26", "web_03_a#24", "web_12#10"], "tipo": "explicacion_texto"},
-        {"texto": "¿De quién es la voz? MacArthur, Carballosa, Guzik y Earle dicen que es de Jesús: Juan se da vuelta y lo ve (vv. 12-13), y el que habla usa los títulos de 1:8 y 1:17. Ladd piensa que es más probable la voz de un ángel, como en 4:1. Earle advierte además que las palabras «Yo soy el Alfa y la Omega, el primero y el último» y «que están en Asia» faltan en los manuscritos más antiguos; la RVR1960 las incluye.", "fuentes": ["macarthur_02_a#17", "carballosa_02_b#12", "web_03_a#24", "beacon_01_b#20", "ladd_01_b#6"], "tipo": "dificultad_interpretaciones"},
-        {"texto": "«Escribe en un libro lo que ves» es un imperativo aoristo: una orden urgente, y de escribir solo lo revelado. Pide atención a lo que ve y fidelidad al registrarlo. Es la primera de doce órdenes de escribir en el libro; solo una vez se le prohibirá (10:4). Dios ya lo había mandado a otros profetas (Is 8:1; Jer 36:2; Hab 2:2). Guzik comenta que, si no se lo hubieran mandado, quizás Juan lo habría guardado para sí.", "fuentes": ["carballosa_02_b#12", "cbmh_02_a#6", "macarthur_02_a#17", "dbmh_01_b#15", "web_03_a#24"], "tipo": "explicacion_texto"},
-        {"texto": "El «libro» (biblíon, de donde viene «Biblia») era un rollo de papiro, hecho con juncos del Nilo, más barato que el pergamino; Kenyon calcula que uno así medía unos cinco metros. Antes de la imprenta todo se copiaba a mano.", "fuentes": ["beacon_01_b#20", "mbiblia_01_a#27", "ladd_01_b#6"], "tipo": "cultura_costumbres"}
-      ]
-    },
-    {
-      "rango": "1:11",
-      "titulo": "Siete iglesias en un mismo camino",
-      "notas": [
-        {"texto": "Las siete ciudades existieron y tenían congregaciones reales. Cada una recibirá su carta particular en los capítulos 2 y 3, además del libro completo.", "fuentes": ["r1_030#13", "web_03_b#8", "carballosa_02_b#12", "mcgeer_02#4", "web_12#10"], "tipo": "contexto_historico"},
-        {"texto": "No eran las únicas: había iglesias en Colosas, Hierápolis y Tralles. ¿Por qué estas siete? Las siete están sobre el gran camino circular que unía la zona más rica y poblada de la provincia. Partiendo de Éfeso, un mensajero iría hacia el norte a Esmirna y Pérgamo, y luego al sureste por Tiatira, Sardis, Filadelfia y Laodicea. Sir William Ramsay propuso que eran los centros de siete distritos postales desde donde el mensaje se difundiría a toda la provincia; MacArthur, Beasley-Murray y el Comentario Mundo Hispano lo aceptan, y Earle lo considera interesante pero “solo una teoría”.", "fuentes": ["carballosa_02_b#12", "web_03_a#25", "beacon_01_b#21", "macarthur_02_a#18", "henry_01_a#13", "cbmh_02_a#7", "beacon_01_b#20"], "tipo": "contexto_historico"},
-        {"texto": "Además, siete es el número de lo completo. Por eso muchos autores ven en estas siete iglesias a toda la iglesia de Asia y, por extensión, a todo el pueblo cristiano: Wiersbe dice que Cristo las escogió para representar las necesidades de su pueblo, y Seiss, citado por Guzik, que “las iglesias de todos los tiempos están comprendidas por siete”. Las dos explicaciones no se excluyen.", "fuentes": ["cbmh_02_a#7", "web_03_a#25", "r1_024_a#13", "carballosa_02_b#12"], "tipo": "simbolo"}
-      ]
-    }
-  ],
-  "simbolos": [
-    {"signo": "voz como de trompeta", "significado": "Solemnidad, autoridad y llamado de atención (Clarke, Carballosa, MacArthur). Evoca el Sinaí (Éx 19:16); en el Antiguo Testamento la trompeta reunía al pueblo, anunciaba la guerra o los días especiales (Nm 10, según Wiersbe), y en el Nuevo tiene sentido de fin de los tiempos (Mt 24:31; 1 Ts 4:16).", "refs": ["1:10"], "fuentes": ["web_03_a#24", "carballosa_02_b#12", "macarthur_02_a#17", "cbmh_02_a#6", "r1_024_a#13"]},
-    {"signo": "siete iglesias", "significado": "Siete congregaciones reales de Asia. Según el Comentario Mundo Hispano y Guzik, el siete como plenitud las vuelve también representantes de toda la iglesia; según Ramsay, eran además los centros de distribución de la provincia.", "refs": ["1:11", "1:20"], "fuentes": ["cbmh_02_a#7", "web_03_a#25", "beacon_01_b#21"]},
-    {"signo": "el libro (rollo)", "significado": "No es un símbolo en sí, sino el soporte: un rollo de papiro donde Juan debía poner por escrito, con fidelidad, todo lo que viera.", "refs": ["1:11"], "fuentes": ["beacon_01_b#20", "mbiblia_01_a#27", "cbmh_02_a#6"]}
-  ],
-  "palabras": [
-    {"ref": "1:9", "griego": "συγκοινωνὸς", "translit": "synkoinonós", "significado": "“Copartícipe”: el que comparte algo junto con otros. Con «hermano» expresa intimidad y humildad: Juan está en las mismas que sus lectores.", "fuentes": ["carballosa_02_b#8", "beacon_01_b#14"]},
-    {"ref": "1:9", "griego": "θλίψει", "translit": "thlípsis", "significado": "“Tribulación”: presión; el sufrimiento que acompaña la fidelidad a Cristo.", "fuentes": ["cbmh_01_b#24", "carballosa_02_b#8"]},
-    {"ref": "1:9", "griego": "ὑπομονή", "translit": "hypomoné", "significado": "“Paciencia”: literalmente «permanecer bajo»; aguante activo, perseverancia bajo la prueba con esperanza de fe, no resignación pasiva.", "fuentes": ["macarthur_02_a#12", "beacon_01_b#14", "carballosa_02_b#8", "cbmh_01_b#24"]},
-    {"ref": "1:9", "griego": "Ἰησοῦ", "translit": "en Iesoû", "significado": "“En Jesús”: el texto griego dice así, sin «Cristo» (Ladd explica que la Reina-Valera sigue aquí un texto inferior). Indica que Jesús es la esfera de la comunión: lo que viven, lo viven unidos a él.", "fuentes": ["carballosa_02_b#8", "ladd_01_b#1", "ladd_01_b#2", "beacon_01_b#14"]},
-    {"ref": "1:9", "griego": "διά", "translit": "diá", "significado": "“Por causa de”: con acusativo expresa la causa. Juan estaba en Patmos por haber predicado, no para predicar.", "fuentes": ["carballosa_02_b#10"]},
-    {"ref": "1:10", "griego": "κυριακῇ", "translit": "kyriaké (heméra)", "significado": "“Del Señor”: adjetivo que indica pertenencia, distinto de la expresión habitual del día escatológico (heméra kyríou). Solo aparece otra vez en el NT, en «la cena del Señor» (1 Co 11:20). En inscripciones de Asia y Egipto significaba “imperial”; en griego moderno, domingo se dice kyriaké.", "fuentes": ["beacon_01_b#18", "macarthur_02_a#16", "r2_033#19", "r2_038_b#9", "carballosa_02_b#11"]},
-    {"ref": "1:11", "griego": "βιβλίον", "translit": "biblíon", "significado": "“Libro”: un rollo de papiro; de esta palabra viene «Biblia».", "fuentes": ["beacon_01_b#20", "mbiblia_01_a#27"]}
-  ],
-  "cristo": [
-    {"texto": "La voz se presenta como «el primero y el último», título que en Isaías pertenece al SEÑOR, Yahveh. Guzik ve aquí uno de los pasajes donde Jesús reclama claramente ser Dios, y Chafer cita este versículo entre los que afirman su eternidad. Aunque estas palabras falten en los manuscritos más antiguos del v. 11, el mismo título aparece en boca de Cristo en 1:17.", "refs": ["Is 41:4", "Is 44:6", "Is 48:12", "Ap 1:17"], "fuentes": ["web_03_a#24", "r2_037_b#26", "carballosa_02_b#12", "beacon_01_b#20"]},
-    {"texto": "Owen saca de ese título una certeza para el corazón: el que es “ayer, hoy y siempre” (He 13:8) ama con un amor eterno e inmutable, distinto del nuestro, que cambia. El desterrado de Patmos no estaba olvidado.", "refs": ["He 13:8"], "fuentes": ["r2_022_b#12"]},
-    {"texto": "Todo lo que Juan comparte con las iglesias lo vive «en Jesús»: él es el lugar de la comunión y el modelo de la perseverancia. Ladd nota además que el libro lo llama a menudo simplemente «Jesús», nombre que vuelve la mirada a su vida en la carne: el Señor glorificado es el mismo que sufrió.", "refs": ["Jn 16:33"], "fuentes": ["carballosa_02_b#8", "cbmh_01_b#24", "ladd_01_b#1", "ladd_01_b#2"]},
-    {"texto": "Si «el día del Señor» es el domingo, el Resucitado se muestra a Juan en el día de su resurrección, el día que le pertenece. Los autores puritanos citados por Pollard y Brown lo ven como señal de que Cristo se deleita en bendecir ese día, como lo hizo en Pentecostés.", "refs": ["Jn 20:19", "Hch 2:1"], "fuentes": ["r2_001_a#1", "r2_024#37", "r2_038_a#21"]}
-  ],
-  "interpretaciones": [
-    {"tema": "¿Qué «tribulación» comparte Juan?", "posturas": [
-      {"postura": "El sufrimiento presente de los creyentes en un mundo hostil, distinto de la Gran Tribulación futura, que será un período único de juicio del que la iglesia es librada.", "quien": "Carballosa, Larkin, McGee (premilenial dispensacional)", "fuentes": ["carballosa_02_b#9", "larkin_01_a#18", "mcgee_02_a#9", "mcgeer_02#2"]},
-      {"postura": "La suerte del pueblo de Dios en toda esta época; incluye todo mal que caiga sobre la iglesia, y especialmente la gran tribulación final, que será la intensificación de lo que la iglesia sufrió en la historia.", "quien": "Ladd (premilenial histórico, postribulacional)", "fuentes": ["ladd_01_b#1"]},
-      {"postura": "Una experiencia presente que acompaña toda vida cristiana fiel.", "quien": "Beasley-Murray (premilenial histórico); Comentario Mundo Hispano (amilenial/idealista)", "fuentes": ["henry_01_a#11", "cbmh_01_b#24"]}
-    ], "nota": "Todos coinciden en que Juan y sus lectores ya sufrían por su fe. Las posturas sobre la gran tribulación se tratan en el anexo T7."},
-    {"tema": "¿El «reino» es presente o futuro?", "posturas": [
-      {"postura": "Presente: la esfera de la salvación donde Cristo reina, a la que se entra por el nuevo nacimiento; distinto del reino milenario, todavía futuro.", "quien": "MacArthur; McGee (premilenial dispensacional); Beasley-Murray lo ve como posesión presente", "fuentes": ["macarthur_02_a#12", "mcgee_02_a#9", "henry_01_a#11"]},
-      {"postura": "Las dos cosas: pertenecer hoy a la comunidad de redimidos donde Cristo es Rey y esperar con anhelo su reino milenario en la tierra.", "quien": "Biblia de estudio MacArthur", "fuentes": ["mbiblia_01_a#24"]},
-      {"postura": "Futuro: el reino del Mesías que llega en plenitud con su segunda venida; el orden de la frase muestra que el presente es tribulación y el reino, bendición por venir.", "quien": "Carballosa (premilenial dispensacional); el Comentario Mundo Hispano lo llama “el tiempo de la dicha mesiánica” hacia el que se mira", "fuentes": ["carballosa_02_b#9", "carballosa_02_b#8", "cbmh_01_b#24"]}
-    ], "nota": "Todos miran hacia la plenitud del reino que Cristo trae en su venida; difieren en cuánto de él se vive ya."},
-    {"tema": "¿Por qué y por quién fue desterrado Juan?", "posturas": [
-      {"postura": "Por orden del emperador Domiciano, por su predicación y su obra en Éfeso.", "quien": "Larkin, McGee, Carballosa; el Comentario Mundo Hispano (las autoridades vieron sediciosa su predicación); Ropero", "fuentes": ["larkin_01_a#18", "mcgee_02_a#9", "carballosa_02_b#10", "cbmh_02_a#3", "r1_019#27"]},
-      {"postura": "No hay evidencia de una persecución general; probablemente lo acusaron de sedición ante el gobernador de Asia, que podía desterrar por razones políticas.", "quien": "Ladd", "fuentes": ["ladd_01_b#4"]},
-      {"postura": "Lo exiliaron los líderes religiosos para callarlo.", "quien": "MacArthur (sermones)", "fuentes": ["web_03_b#7", "r1_030#13"]},
-      {"postura": "Había ido a recibir la revelación o a predicar como misionero.", "quien": "Otros, según Ladd; Guzik lo admite como posible, aunque la mayoría supone un arresto", "fuentes": ["ladd_01_b#4", "web_03_a#22"]}
-    ], "nota": "Lo que el texto afirma es la causa: «la palabra de Dios y el testimonio de Jesucristo»."},
-    {"tema": "«En el Espíritu»: ¿el Espíritu Santo o el espíritu de Juan?", "posturas": [
-      {"postura": "El Espíritu Santo tomó a Juan y lo capacitó para recibir la revelación.", "quien": "MacArthur; McGee; Grudem; Comentario Mundo Hispano; Earle (siguiendo a Swete)", "fuentes": ["macarthur_02_a#15", "mcgee_02_a#12", "r2_026#12", "cbmh_02_a#4", "beacon_01_b#17"]},
-      {"postura": "El espíritu humano de Juan, en un éxtasis producido por Dios.", "quien": "Carballosa; Lenski (citado por Earle)", "fuentes": ["carballosa_02_b#11", "beacon_01_b#17"]}
-    ], "nota": "Todos coinciden en que fue una experiencia dada por Dios, fuera de lo común."},
-    {"tema": "¿Qué es «el día del Señor»?", "posturas": [
-      {"postura": "El domingo, día de la resurrección: el adjetivo kyriaké es distinto de la expresión del día escatológico; la visión trata de Cristo en medio de su iglesia, y en el siglo II la expresión ya designaba al domingo. Quizás también una protesta contra el “día del emperador”.", "quien": "Earle (Beacon); Ladd; MacArthur; McGee; Beasley-Murray; Comentario y Diccionario Mundo Hispano; Ryrie; Guzik; Piper", "fuentes": ["beacon_01_b#18", "ladd_01_b#5", "macarthur_02_a#16", "mcgee_02_a#13", "henry_01_a#12", "cbmh_02_a#5", "dbmh_01_a#24", "r2_033#19", "web_03_a#23", "cpe_08#7"]},
-      {"postura": "El día del Señor de los profetas (el día de Jehová): Juan fue transportado en espíritu a ese tiempo de juicio y del regreso de Cristo, que es el tema del libro. El domingo se llamaba en el NT «el primer día de la semana».", "quien": "Carballosa; Larkin (premilenial dispensacional)", "fuentes": ["carballosa_02_b#11", "carballosa_01#38", "larkin_01_a#19"]}
-    ], "nota": "McGee reconoce que buenos expositores sostienen la segunda lectura y la respeta, aunque no la comparte."},
-    {"tema": "¿Por qué estas siete iglesias?", "posturas": [
-      {"postura": "Estaban sobre el camino circular de la provincia y eran centros de distribución (distritos postales, según Ramsay).", "quien": "MacArthur; Beasley-Murray; Comentario Mundo Hispano (plausible); Earle (interesante, pero teoría)", "fuentes": ["macarthur_02_a#18", "henry_01_a#13", "cbmh_02_a#7", "beacon_01_b#21"]},
-      {"postura": "El siete indica plenitud: representan a toda la iglesia.", "quien": "Guzik (preferida); Wiersbe; Carballosa (representativas de las de Asia)", "fuentes": ["web_03_a#25", "r1_024_a#13", "carballosa_02_b#12"]}
-    ], "nota": "Muchos combinan las dos razones."}
-  ],
-  "biblioteca": [
-    {"texto": "Plummer observa que los tiempos de prueba suelen preparar la revelación de Dios: Jacob en Betel, Moisés ante la zarza, Elías y el silbo apacible, Ezequiel junto al río Quebar, Daniel ante el Anciano de días. Bengel agrega que este libro deleita más a los fieles en tribulación.", "autor": "Ralph Earle (Plummer y Bengel)", "obra": "Comentario Bíblico Beacon", "pagina": "PDF 326-327", "tipo": "ilustracion", "fuentes": ["beacon_01_b#16", "beacon_01_b#14"]},
-    {"texto": "Estar «en el Espíritu» como Juan es vivir conscientemente en la atmósfera de la presencia del Espíritu Santo; así se puede orar «en el Espíritu».", "autor": "Wayne Grudem", "obra": "Teología sistemática", "pagina": "PDF 402, 675", "tipo": "doctrina", "fuentes": ["r2_026#12", "r2_027#11"]},
-    {"texto": "Siguiendo a Richard Baxter: recibir el día del Señor como un regalo de gracia, procurar estar «en el Espíritu» como Juan y usar los domingos como escalones hacia la gloria.", "autor": "John D. Gillespie", "obra": "El descanso eterno de los creyentes", "pagina": "PDF 102", "tipo": "aplicacion", "fuentes": ["r2_009#10"]},
-    {"texto": "Los encuentros del Resucitado en domingo (Jn 20:26), el Espíritu derramado en domingo (Hch 2:1) y la aparición a Juan «el día del Señor» dieron a la iglesia el modelo del culto dominical.", "autor": "Geisler y Howe", "obra": "Dificultades bíblicas", "pagina": "PDF 34", "tipo": "historia", "fuentes": ["r2_001_a#2"]}
-  ],
-  "conexiones": [
-    {"ref": "Dn 10:2", "nota": "«Yo Daniel»: Juan se presenta con la misma fórmula que el profeta (también Dn 7:28; 8:1; 9:2).", "fuentes": ["beacon_01_b#13", "cbmh_01_b#23"]},
-    {"ref": "Jn 16:33", "nota": "Jesús anunció aflicción a los suyos: la tribulación es parte de la vida del discípulo (también Hch 14:22).", "fuentes": ["ladd_01_b#1", "carballosa_02_b#9", "cbmh_01_b#24"]},
-    {"ref": "Éx 19:16-19", "nota": "La entrega de la ley en el Sinaí: la voz de trompeta evoca esa escena.", "fuentes": ["macarthur_02_a#17", "cbmh_02_a#6", "web_12#10"]},
-    {"ref": "Ez 3:12", "nota": "La gran voz de la visión de Ezequiel; MacArthur y el Comentario Mundo Hispano citan también Ez 3:12-14 como paralelo de estar «en el Espíritu».", "fuentes": ["beacon_01_b#19", "macarthur_02_a#17", "macarthur_02_a#15"]},
-    {"ref": "Is 44:6", "nota": "El primero y el último: título de Dios que el Apocalipsis aplica a Cristo (también Is 41:4; 48:12).", "fuentes": ["web_03_a#24"]},
-    {"ref": "Hch 20:7", "nota": "Los creyentes se reunían el primer día de la semana para partir el pan (también 1 Co 16:2).", "fuentes": ["ladd_01_b#5", "r2_033#19", "r1_021#4"]},
-    {"ref": "Mc 10:35-45", "nota": "Jacobo y Juan pidieron tronos; después vino el sufrimiento: Jacobo ejecutado y Juan desterrado (Wiersbe).", "fuentes": ["r1_024_a#13"]}
-  ],
-  "para_vivir": [
-    {"texto": "La aflicción por ser fiel no es señal de que algo anda mal: Jesús la anunció y Juan la compartía. Lo que se pide es hypomoné, quedarse bajo el peso sin soltar a Cristo, con la mirada en el reino. Ustedes pueden preguntarse juntos dónde les toca hoy “permanecer bajo” sin aflojar.", "fuentes": ["cbmh_01_b#24", "macarthur_02_a#12", "carballosa_02_b#8"]},
-    {"texto": "Juan estaba «en la isla» y a la vez «en el Espíritu». Wiersbe lo aplica así: las circunstancias no tienen por qué privarnos de las bendiciones espirituales. Una mudanza, un trabajo que aísla, una enfermedad o una etapa de soledad pueden ser, como para Jacob, Moisés o Ezequiel, el lugar donde Dios se muestra.", "fuentes": ["r1_024_a#13", "beacon_01_b#16"]},
-    {"texto": "El apóstol más anciano se presenta como «vuestro hermano». La madurez cristiana se parece más a la humildad de compartir el camino que a reclamar un lugar. Vale para la iglesia y vale en casa.", "fuentes": ["macarthur_02_a#12", "web_12#9", "carballosa_02_b#8"]},
-    {"texto": "El domingo puede ser algo más que un día libre: es el día de la resurrección, en que la iglesia se reúne. Desterrado, Juan lo vivió en el Espíritu; Gillespie, siguiendo a Baxter, invita a buscar lo mismo. Piper recuerda que los primeros cristianos se reunían aun sin leyes que les dieran el día, temprano o de noche.", "fuentes": ["beacon_01_b#19", "r2_009#10", "cpe_08#7"]}
-  ],
-  "para_conversar": [
-    "¿Qué tribulaciones, chicas o grandes, nos tocaron por ser fieles a Cristo? ¿Las vivimos como algo extraño o como parte del camino con él?",
-    "Juan recibió la revelación en el lugar más duro de su vida. ¿Hubo alguna “Patmos” en nuestra historia en la que Dios se nos hizo más cercano?",
-    "¿Cómo vivimos hoy el día del Señor? ¿Qué podríamos cambiar para que sea un día de encuentro con él y con la iglesia?"
-  ],
-  "para_orar": "Señor Jesús, el primero y el último, gracias porque no abandonaste a Juan en su isla ni nos abandonas en las nuestras. Danos perseverancia para permanecer fieles en la tribulación, la mirada puesta en tu reino, y oídos abiertos para escuchar tu voz cuando tu Espíritu nos habla por tu Palabra.",
-  "visuales": ["mapa-asia", "dg-cronologia"],
-  "anexos": ["T1", "I2", "T2", "T7"],
-  "profundizar": [
-    {"titulo": "Patmos en números", "texto": "Las medidas varían según el autor: 15 por 9 km (Earle), 15 por 10 (MacArthur, Ladd), 16 por menos de 10 (Biblia de estudio MacArthur), 16 por 10 (McGee), 14 por 7 (Comentario Mundo Hispano), 14 por 3,5 con 24 km de circunferencia (Carballosa); Núñez la estima en unos 34 km². La distancia a Mileto: unos 55 km (Earle), 59 (Mundo Hispano) o 64 (MacArthur); Wiersbe dice que estaba a unos 100 km de Éfeso, y Larkin, a 30 millas de la costa frente a Éfeso. Pertenece a las Espóradas del Sur o Dodecaneso (Mundo Hispano); la Biblia de estudio MacArthur la ubica en un grupo de unas cincuenta islas. Tenía un buen puerto natural y era la última escala del viaje de Roma a Éfeso. Allí se muestra hoy una gruta donde, según la tradición, Juan tuvo la visión (Seiss, citado por Guzik; MacArthur, que la visitó varias veces).", "fuentes": ["beacon_01_b#15", "macarthur_02_a#13", "ladd_01_b#3", "mbiblia_01_a#25", "mcgee_02_a#10", "cbmh_02_a#1", "carballosa_02_b#10", "cpe_09#12", "r1_024_a#13", "larkin_01_a#18", "web_03_a#21", "web_12#9"]},
-    {"titulo": "Domiciano y el fin del destierro", "texto": "Según el Comentario Mundo Hispano, Eusebio dice que Juan fue desterrado en el 95 y liberado un año y medio después por Nerva (96-98). Domiciano murió apuñalado en una conjura palaciega el 18 de septiembre del 96, a los 45 años; fue el séptimo emperador asesinado de los diez que hubo desde el 30 a.C. (Ropero). Ropero menciona en nota la fecha temprana que propuso Robinson, aunque él se queda con la de Domiciano. McGee da un margen amplio para el destierro, entre el 86 y el 96.", "fuentes": ["cbmh_02_a#2", "mbiblia_01_a#25", "r1_019#27", "mcgee_02_a#10"]},
-    {"titulo": "El «día del Señor» y el día del emperador", "texto": "Deissmann (citado por Earle y Beasley-Murray) mostró que el adjetivo kyriakós aparece en inscripciones y papiros con el sentido de “imperial”, la más antigua del 68 d.C., y que en Asia se celebraba el “día de Augusto” al menos una vez por mes. Llamar a un día “del Señor” podía ser una protesta: el emperador tenía su día; los cristianos, el de su Señor. Piper subraya el riesgo, porque kýrios era también título del César. Ryrie y Buswell notan que kyriakós es también el origen de church y Kirche, aunque en el NT nunca se usa para la iglesia.", "fuentes": ["beacon_01_b#18", "henry_01_a#12", "web_03_a#23", "cpe_08#7", "r2_033#19", "r2_038_b#9"]},
-    {"titulo": "¿El domingo es el sábado cristiano?", "texto": "Las fuentes del día no coinciden. Buswell, con el Catecismo menor de Westminster (pregunta 59), sostiene que el día del Señor tomó todo el significado del sábado como día santo de descanso y adoración, y los autores puritanos defienden que los primeros cristianos lo guardaban como día santo. Wellum, el Diccionario Mundo Hispano y Wiersbe sostienen que el sábado se dio a Israel y se cumplió en Cristo: el domingo celebra la nueva creación y no es un sábado cristiano; Wiersbe agrega que Col 2:16-17 y Ro 14 impiden juzgar a quien guarda uno u otro. Un artículo de Coalición cita a Bauckham: para los primeros cristianos el día del Señor no sustituía al sábado ni era día de descanso (el Imperio lo declaró día de descanso recién con Constantino, en el 321); el artículo concluye que el cristiano no está obligado al cuarto mandamiento como tal, aunque descansar un día de cada siete es sabio.", "fuentes": ["r2_012#23", "r2_024#37", "cpe_10#5", "dbmh_01_a#24", "r1_021#4", "cpe_08#8"]},
-    {"titulo": "Distancias entre las siete ciudades", "texto": "Según Charles (citado por Earle): Esmirna, a 60 km al norte de Éfeso; Pérgamo, 60 al norte de Esmirna; Tiatira, 68 al sureste de Pérgamo; Sardis, 45 al sur de Tiatira; Filadelfia, 45 al sureste de Sardis; Laodicea, 60 al sureste de Filadelfia. Bowman observa que, en el mapa, las siete forman el candelabro de siete brazos del templo. Guzik recuerda que también Pablo escribió a siete iglesias (Roma, Corinto, Galacia, Éfeso, Colosas, Filipos y Tesalónica).", "fuentes": ["beacon_01_b#20", "web_03_a#25"]},
-    {"titulo": "Lo que Juan había visto", "texto": "MacArthur pinta el ánimo de Juan hacia el 96: último apóstol vivo, había visto a Jerusalén destruida por Roma y a sus compañeros martirizados; y de las siete iglesias, cinco estaban en decadencia, como mostrarán las cartas. En ese momento Cristo le habla.", "fuentes": ["web_12#9"]}
+ "dia": 5,
+ "desde": "1:9",
+ "hasta": "1:11",
+ "titulo": "Desterrado en Patmos, tomado por el Espíritu",
+ "minutos": {
+  "lectura": 1,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "En los días 1 a 4 leímos el prólogo y el saludo: la revelación de Jesucristo, dada por medio de Juan, con una bendición para quien la lee y la guarda (1:3); el saludo terminó con los títulos de 1:8.",
+  "ahora": "Empieza la visión que abre el libro: Juan cuenta quién es, dónde y en qué día estaba, y cómo recibió la orden de escribir.",
+  "donde": "La isla de Patmos, en el mar Egeo, a unos 55 a 65 km de Mileto, el puerto de Éfeso (ver «Profundizar»).",
+  "cuando": "La mayoría de las fuentes ubica el destierro bajo Domiciano, hacia el 95-96 d.C.; según Eusebio, Nerva lo liberó. Ladd y Beasley-Murray notan que Juan dice que «estaba» en Patmos: pudo escribir el libro después (ver anexo I2).",
+  "despues": "Mañana (1:12-16) Juan se da vuelta para ver quién le habla y ve a Jesús resucitado en toda su gloria, en medio de siete candeleros.",
+  "fuentes": [
+   "r1_026#1",
+   "carballosa_02_b#12",
+   "web_03_a#24",
+   "beacon_01_b#15",
+   "cbmh_02_a#1",
+   "macarthur_02_a#13",
+   "larkin_01_a#18",
+   "carballosa_02_b#10",
+   "cbmh_02_a#2",
+   "mbiblia_01_a#25",
+   "web_03_a#22",
+   "henry_01_a#11",
+   "ladd_01_b#3",
+   "r2_034#25",
+   "macarthur_02_a#17"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "1:9",
+  "porque": "Juan se pone a la altura de sus lectores: hermano, compañero de sufrimiento, del mismo reino y de la misma perseverancia, y desterrado solo por ser fiel a la Palabra."
+ },
+ "panorama": {
+  "texto": "Juan cuenta dónde y cómo recibió la revelación. No se presenta con títulos sino como un hermano que comparte con las iglesias la tribulación, el reino y la perseverancia que se viven en Jesús. Está desterrado en Patmos, una isla que Roma usaba como cárcel sin paredes, no por un delito sino por su fidelidad a la Palabra. Y ahí, lejos de su iglesia, en el día del Señor, el Espíritu lo toma y oye una voz como de trompeta que le manda escribir lo que vea y enviarlo a siete iglesias reales de Asia. Ladd lo resume: no sabemos con exactitud por qué fue desterrado, pero Dios usó ese destierro para mostrarle el conflicto entre su reino y el poder de Satanás, y la victoria final del reino.",
+  "fuentes": [
+   "macarthur_02_a#12",
+   "carballosa_02_b#8",
+   "web_03_a#21",
+   "cbmh_01_a#11",
+   "macarthur_02_a#14",
+   "ladd_01_a#7",
+   "r2_034#25",
+   "web_12#10"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "1:9",
+   "titulo": "«Yo Juan, vuestro hermano»",
+   "notas": [
+    {
+     "texto": "Es la tercera vez en nueve versículos que Juan da su nombre (volverá a hacerlo en 22:8). MacArthur ve en ese «Yo Juan» el asombro ante el privilegio recibido, en quien nunca se nombra en su Evangelio. La fórmula recuerda a “Yo, Daniel” (Dn 7:28; 8:1; 9:2; 10:2): según Fausset, citado por Earle, ningún otro escritor de la Escritura la usa.",
+     "fuentes": [
+      "macarthur_02_a#12",
+      "web_11_a#8",
+      "mcgee_02_a#9",
+      "beacon_01_b#13",
+      "cbmh_01_b#23"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Apóstol, autor de un Evangelio y tres cartas, último de los doce con vida, no invoca rango: se llama «vuestro hermano». Carballosa ve en “hermano y copartícipe” sus cartas credenciales, de intimidad y humildad; el Comentario Mundo Hispano, que así se hace uno con sus lectores.",
+     "fuentes": [
+      "macarthur_02_a#12",
+      "web_12#9",
+      "carballosa_02_b#8",
+      "cbmh_01_b#23",
+      "cpe_09#12"
+     ],
+     "tipo": "personaje"
+    }
+   ]
+  },
+  {
+   "rango": "1:9",
+   "titulo": "Compañeros en la tribulación, el reino y la paciencia",
+   "notas": [
+    {
+     "texto": "En griego un solo artículo une los tres sustantivos: “en la tribulación y reino y perseverancia en Jesús”. Forman una sola esfera de comunión entre Juan y las iglesias, y se viven “en Jesús”, el equivalente juanino del “en Cristo” de Pablo: la unión del creyente con su Señor.",
+     "fuentes": [
+      "carballosa_02_b#8",
+      "beacon_01_b#14",
+      "ladd_01_b#1",
+      "cbmh_01_b#24"
+     ],
+     "tipo": "griego_palabra"
+    },
+    {
+     "texto": "Tribulación es presión: el sufrimiento que acompaña la fidelidad a Cristo en un mundo hostil (Jn 16:33; Hch 14:22; 2 Ti 3:12). El Comentario Mundo Hispano llama extraña al cristianismo genuino la idea de ser cristiano sin aflicción. Juan no hablaba de oídas: sufría el destierro entre delincuentes. Si tiene relación con la gran tribulación del fin, se discute (ver Interpretaciones).",
+     "fuentes": [
+      "cbmh_01_b#24",
+      "carballosa_02_b#9",
+      "ladd_01_b#1",
+      "henry_01_a#11",
+      "macarthur_02_a#12"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "El reino está en el medio, y para el Comentario Mundo Hispano es a propósito: aun sufriendo, la mirada está puesta en el reino. Cuánto de ese reino es presente y cuánto futuro, los autores lo ven distinto (ver Interpretaciones).",
+     "fuentes": [
+      "cbmh_01_b#24",
+      "mbiblia_01_a#24",
+      "carballosa_02_b#9"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "La «paciencia» no es esperar de brazos cruzados: es “permanecer bajo” el peso, aguantar sin renunciar, con la esperanza de la fe. Earle dice que la palabra suena demasiado pasiva y prefiere perseverancia o fortaleza; el Comentario Mundo Hispano habla de un espíritu valiente que convierte la derrota en victoria. Para McGee, el énfasis del versículo cae acá.",
+     "fuentes": [
+      "macarthur_02_a#12",
+      "carballosa_02_b#8",
+      "beacon_01_b#14",
+      "cbmh_01_b#24",
+      "mcgee_02_a#9"
+     ],
+     "tipo": "griego_palabra"
+    }
+   ]
+  },
+  {
+   "rango": "1:9",
+   "titulo": "Patmos, una cárcel sin paredes",
+   "notas": [
+    {
+     "texto": "Patmos es una isla chica del Egeo, de unos 15 km de largo, volcánica, árida y rocosa. Los romanos usaban esas islas para desterrar; según Tácito era un castigo común, y casi al mismo tiempo Domiciano desterró a su sobrina Flavia Domitilla a otra isla (F. F. Bruce, citado por MacArthur). Guzik la llama la “Alcatraz” del Imperio.",
+     "fuentes": [
+      "beacon_01_b#15",
+      "ladd_01_b#3",
+      "mbiblia_01_a#25",
+      "cbmh_02_a#1",
+      "macarthur_02_a#13",
+      "web_03_a#21",
+      "carballosa_02_b#10"
+     ],
+     "tipo": "arqueologia_geografia"
+    },
+    {
+     "texto": "La vida allí era dura. Según Victorino (citado por Guzik), Juan fue forzado a trabajar en las minas pese a su edad. MacArthur lo imagina anciano, con trabajo extenuante bajo un capataz romano, poca comida y ropa, durmiendo en el suelo. Barnes observa que era el lugar ideal para silenciar al apóstol sin matarlo.",
+     "fuentes": [
+      "web_03_a#22",
+      "web_03_a#21",
+      "carballosa_02_b#10",
+      "macarthur_02_a#13",
+      "web_11_a#8"
+     ],
+     "tipo": "contexto_historico"
+    }
+   ]
+  },
+  {
+   "rango": "1:9",
+   "titulo": "«Por causa de la palabra de Dios»",
+   "notas": [
+    {
+     "texto": "Juan aclara por qué estaba en una isla de convictos: no por transgredir la ley sino «por causa de la palabra de Dios y el testimonio de Jesucristo». La preposición expresa causa: estaba allí porque había predicado, no para predicar. Las mismas expresiones vuelven en 6:9 y 20:4 para los que sufren por su fe.",
+     "fuentes": [
+      "cbmh_01_a#11",
+      "carballosa_02_b#10",
+      "beacon_01_b#15",
+      "cbmh_02_a#3",
+      "henry_01_a#11"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Para MacArthur, su único “delito” fue predicar el evangelio con fidelidad, sin ceder. Quién lo desterró y por qué exactamente no es seguro (ver Interpretaciones).",
+     "fuentes": [
+      "macarthur_02_a#14",
+      "ladd_01_b#4"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Wiersbe recuerda que de jóvenes Jacobo y Juan pidieron tronos (Mc 10:35-45); después llegó el precio: Jacobo ejecutado, Juan desterrado. Pero, según MacArthur, en Patmos Juan descubre por qué todavía no había muerto: su obra no había terminado.",
+     "fuentes": [
+      "r1_024_a#13",
+      "web_12#10"
+     ],
+     "tipo": "personaje"
+    }
+   ]
+  },
+  {
+   "rango": "1:10",
+   "titulo": "«En el Espíritu en el día del Señor»",
+   "notas": [
+    {
+     "texto": "Carballosa traduce “llegué a estar en el Espíritu”. No es el andar diario en el Espíritu del que habla Pablo (Ro 8:9; Gá 5:16), sino una experiencia única de revelación: despierto, no soñando, Juan fue llevado más allá de sus sentidos normales para que Dios le mostrara lo que debía escribir, como Ezequiel (Ez 3:12, 14), Pedro (Hch 10:10) y Pablo (2 Co 12:2). Guzik aclara que nada tiene que ver con el ocultismo.",
+     "fuentes": [
+      "carballosa_02_b#11",
+      "ladd_01_b#6",
+      "web_03_a#23",
+      "mbiblia_01_a#26",
+      "macarthur_02_a#15",
+      "cbmh_02_a#4"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "La expresión marca el libro: Juan está «en el Espíritu» en Patmos, en el cielo (4:2), en el desierto (17:3) y en un monte (21:10). McGee ve al Espíritu haciendo lo que Jesús prometió: tomar de lo de Cristo y mostrarlo (Jn 16:13-14).",
+     "fuentes": [
+      "web_03_a#23",
+      "cbmh_02_a#4",
+      "mcgee_02_a#12"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "«El día del Señor» aparece solo aquí en el Nuevo Testamento. La mayoría de las fuentes entiende el domingo, día de la resurrección; Carballosa y Larkin, el día del Señor de los profetas, tiempo de juicio y del regreso de Cristo (ver Interpretaciones). Si era domingo, Earle reconstruye la escena: Juan, sin poder reunirse con los hermanos, mira el mar y piensa en los de Éfeso reunidos y en la resurrección. Así el desterrado queda unido a la adoración de las iglesias (Mundo Hispano).",
+     "fuentes": [
+      "cbmh_02_a#5",
+      "macarthur_02_a#16",
+      "ladd_01_b#5",
+      "carballosa_02_b#11",
+      "larkin_01_a#19",
+      "beacon_01_b#19"
+     ],
+     "tipo": "dificultad_interpretaciones"
+    }
+   ]
+  },
+  {
+   "rango": "1:10-11",
+   "titulo": "Una voz como de trompeta: «Escribe»",
+   "notas": [
+    {
+     "texto": "La voz suena detrás de Juan y recuerda la que oyó Ezequiel (Ez 3:12). Es «una gran voz», como tantas en el libro, que marcan la solemnidad de lo revelado; y «como de trompeta»: clara, penetrante, que llama la atención y da una orden. Evoca el Sinaí (Éx 19:16, 19).",
+     "fuentes": [
+      "macarthur_02_a#17",
+      "beacon_01_b#19",
+      "cbmh_02_a#6",
+      "mbiblia_01_a#26",
+      "web_03_a#24"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "¿De quién es? MacArthur, Carballosa, Guzik y Earle dicen que de Jesús: Juan se da vuelta y lo ve (vv. 12-13). Ladd cree más probable la de un ángel, como en 4:1. Earle advierte que «Yo soy el Alfa y la Omega, el primero y el último» y «que están en Asia» faltan en los manuscritos más antiguos; la RVR1960 los incluye.",
+     "fuentes": [
+      "macarthur_02_a#17",
+      "carballosa_02_b#12",
+      "web_03_a#24",
+      "beacon_01_b#20",
+      "ladd_01_b#6"
+     ],
+     "tipo": "dificultad_interpretaciones"
+    },
+    {
+     "texto": "«Escribe en un libro lo que ves» es un imperativo aoristo: una orden urgente de escribir solo lo revelado, con atención y fidelidad. Es la primera de doce órdenes de escribir; una sola vez se le prohibirá (10:4). Dios ya lo había mandado a otros profetas (Is 8:1; Jer 36:2; Hab 2:2). Guzik comenta que, sin la orden, quizás Juan lo habría guardado para sí. El «libro» era un rollo de papiro, de unos cinco metros según Kenyon.",
+     "fuentes": [
+      "carballosa_02_b#12",
+      "cbmh_02_a#6",
+      "macarthur_02_a#17",
+      "dbmh_01_b#15",
+      "web_03_a#24",
+      "beacon_01_b#20",
+      "mbiblia_01_a#27"
+     ],
+     "tipo": "explicacion_texto"
+    }
+   ]
+  },
+  {
+   "rango": "1:11",
+   "titulo": "Siete iglesias en un mismo camino",
+   "notas": [
+    {
+     "texto": "Las siete ciudades existieron y tenían congregaciones reales; cada una recibirá su carta en los capítulos 2 y 3, además del libro entero. No eran las únicas (había iglesias en Colosas, Hierápolis y Tralles), pero estaban sobre el gran camino circular de la provincia: de Éfeso al norte, a Esmirna y Pérgamo, y luego al sureste. Ramsay propuso que eran los centros de siete distritos postales; Earle lo considera interesante pero “solo una teoría”.",
+     "fuentes": [
+      "r1_030#13",
+      "carballosa_02_b#12",
+      "web_03_a#25",
+      "beacon_01_b#21",
+      "macarthur_02_a#18",
+      "henry_01_a#13",
+      "beacon_01_b#20"
+     ],
+     "tipo": "contexto_historico"
+    },
+    {
+     "texto": "Siete es además el número de lo completo: muchos ven en ellas a toda la iglesia. Wiersbe dice que Cristo las escogió para representar las necesidades de su pueblo; Seiss, citado por Guzik, que “las iglesias de todos los tiempos están comprendidas por siete”. Las dos explicaciones no se excluyen (ver Interpretaciones).",
+     "fuentes": [
+      "cbmh_02_a#7",
+      "web_03_a#25",
+      "r1_024_a#13"
+     ],
+     "tipo": "simbolo"
+    }
+   ]
+  }
+ ],
+ "simbolos": [
+  {
+   "signo": "voz como de trompeta",
+   "significado": "Solemnidad, autoridad y llamado de atención; evoca el Sinaí. En el AT la trompeta reunía al pueblo y anunciaba guerra o días especiales (Nm 10, según Wiersbe).",
+   "refs": [
+    "1:10"
+   ],
+   "fuentes": [
+    "web_03_a#24",
+    "carballosa_02_b#12",
+    "macarthur_02_a#17",
+    "cbmh_02_a#6",
+    "r1_024_a#13"
+   ]
+  },
+  {
+   "signo": "siete iglesias",
+   "significado": "Siete congregaciones reales que, por el siete de plenitud, representan también a toda la iglesia (Mundo Hispano, Guzik).",
+   "refs": [
+    "1:11"
+   ],
+   "fuentes": [
+    "cbmh_02_a#7",
+    "web_03_a#25"
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "1:9",
+   "griego": "συγκοινωνὸς",
+   "translit": "synkoinonós",
+   "significado": "“Copartícipe”: el que comparte algo junto con otros.",
+   "fuentes": [
+    "carballosa_02_b#8",
+    "beacon_01_b#14"
+   ]
+  },
+  {
+   "ref": "1:9",
+   "griego": "θλίψει",
+   "translit": "thlípsis",
+   "significado": "“Tribulación”: presión.",
+   "fuentes": [
+    "cbmh_01_b#24"
+   ]
+  },
+  {
+   "ref": "1:9",
+   "griego": "ὑπομονή",
+   "translit": "hypomoné",
+   "significado": "“Paciencia”: literalmente “permanecer bajo”; aguante activo bajo la prueba.",
+   "fuentes": [
+    "macarthur_02_a#12",
+    "beacon_01_b#14",
+    "cbmh_01_b#24"
+   ]
+  },
+  {
+   "ref": "1:9",
+   "griego": "Ἰησοῦ",
+   "translit": "en Iesoû",
+   "significado": "“En Jesús”: así dice el griego, sin “Cristo” (Ladd: la Reina-Valera sigue aquí un texto inferior). Jesús es la esfera de la comunión.",
+   "fuentes": [
+    "carballosa_02_b#8",
+    "ladd_01_b#2"
+   ]
+  },
+  {
+   "ref": "1:9",
+   "griego": "διά",
+   "translit": "diá",
+   "significado": "“Por causa de”: con acusativo expresa la causa.",
+   "fuentes": [
+    "carballosa_02_b#10"
+   ]
+  },
+  {
+   "ref": "1:10",
+   "griego": "κυριακῇ",
+   "translit": "kyriaké (heméra)",
+   "significado": "“Del Señor”: adjetivo de pertenencia, distinto del giro del día escatológico (heméra kyríou); solo vuelve en “la cena del Señor” (1 Co 11:20). En inscripciones significaba “imperial”; en griego moderno, domingo es kyriaké.",
+   "fuentes": [
+    "beacon_01_b#18",
+    "macarthur_02_a#16",
+    "r2_033#19",
+    "r2_038_b#9"
+   ]
+  },
+  {
+   "ref": "1:11",
+   "griego": "βιβλίον",
+   "translit": "biblíon",
+   "significado": "“Libro”: un rollo de papiro; de aquí viene “Biblia”.",
+   "fuentes": [
+    "beacon_01_b#20",
+    "mbiblia_01_a#27"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "El que habla se llama «el primero y el último», título que en Isaías pertenece al SEÑOR. Guzik ve aquí a Jesús reclamando claramente ser Dios; Chafer cita el versículo entre los que afirman su eternidad. Aunque estas palabras falten en los manuscritos más antiguos del v. 11, el mismo título vuelve en boca de Cristo en 1:17.",
+   "refs": [
+    "Is 44:6",
+    "Ap 1:17"
+   ],
+   "fuentes": [
+    "web_03_a#24",
+    "r2_037_b#26",
+    "carballosa_02_b#12",
+    "beacon_01_b#20"
+   ]
+  },
+  {
+   "texto": "Owen saca de ahí una certeza: el que es “ayer, hoy y siempre” ama con un amor eterno e inmutable, no cambiante como el nuestro. El desterrado no estaba olvidado.",
+   "refs": [
+    "He 13:8"
+   ],
+   "fuentes": [
+    "r2_022_b#12"
+   ]
+  },
+  {
+   "texto": "Todo lo que Juan comparte lo vive “en Jesús”, modelo de la perseverancia. Ladd nota que el libro lo llama a menudo solo “Jesús”, nombre que recuerda su vida en la carne: el glorificado es el mismo que sufrió. Y si era domingo, el Resucitado se muestra en el día de su resurrección (Chafer; los puritanos citados por Pollard y Brown).",
+   "refs": [
+    "Jn 20:19"
+   ],
+   "fuentes": [
+    "cbmh_01_b#24",
+    "ladd_01_b#1",
+    "ladd_01_b#2",
+    "r2_038_a#21",
+    "r2_024#37"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Qué «tribulación» comparte Juan?",
+   "posturas": [
+    {
+     "postura": "La persecución presente, distinta de la Gran Tribulación futura, período único de juicio del que la iglesia es librada.",
+     "quien": "Carballosa, Larkin, McGee (premilenial dispensacional)",
+     "fuentes": [
+      "carballosa_02_b#9",
+      "larkin_01_a#18",
+      "mcgee_02_a#9"
+     ]
+    },
+    {
+     "postura": "La suerte del pueblo de Dios en toda esta época, que culminará en la gran tribulación final como intensificación de lo ya sufrido.",
+     "quien": "Ladd (premilenial histórico)",
+     "fuentes": [
+      "ladd_01_b#1"
+     ]
+    },
+    {
+     "postura": "Una experiencia presente de toda vida cristiana fiel.",
+     "quien": "Beasley-Murray; Comentario Mundo Hispano (amilenial/idealista)",
+     "fuentes": [
+      "henry_01_a#11",
+      "cbmh_01_b#24"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en que ya sufrían por su fe (ver anexo T7)."
+  },
+  {
+   "tema": "¿El «reino» es presente o futuro?",
+   "posturas": [
+    {
+     "postura": "Presente: la esfera de la salvación donde Cristo reina, a la que se entra por el nuevo nacimiento.",
+     "quien": "MacArthur; McGee; Beasley-Murray",
+     "fuentes": [
+      "macarthur_02_a#12",
+      "mcgee_02_a#9",
+      "henry_01_a#11"
+     ]
+    },
+    {
+     "postura": "Presente y futuro: la comunidad de redimidos y la espera del reino milenario.",
+     "quien": "Biblia de estudio MacArthur",
+     "fuentes": [
+      "mbiblia_01_a#24"
+     ]
+    },
+    {
+     "postura": "Futuro: el reino mesiánico que llega en plenitud con la segunda venida.",
+     "quien": "Carballosa",
+     "fuentes": [
+      "carballosa_02_b#9"
+     ]
+    }
+   ],
+   "nota": "Todos miran hacia la plenitud del reino en la venida de Cristo."
+  },
+  {
+   "tema": "¿Por qué y por quién fue desterrado Juan?",
+   "posturas": [
+    {
+     "postura": "Por orden de Domiciano, por su predicación.",
+     "quien": "Larkin, McGee, Carballosa, Mundo Hispano, Ropero",
+     "fuentes": [
+      "larkin_01_a#18",
+      "mcgee_02_a#9",
+      "carballosa_02_b#10",
+      "cbmh_02_a#3",
+      "r1_019#27"
+     ]
+    },
+    {
+     "postura": "Acusado de sedición ante el gobernador de Asia; no hay evidencia de una persecución general.",
+     "quien": "Ladd",
+     "fuentes": [
+      "ladd_01_b#4"
+     ]
+    },
+    {
+     "postura": "Lo exiliaron los líderes religiosos para callarlo.",
+     "quien": "MacArthur (sermones)",
+     "fuentes": [
+      "web_03_b#7"
+     ]
+    },
+    {
+     "postura": "Fue a recibir la revelación o a predicar.",
+     "quien": "Otros, según Ladd; Guzik lo admite como posible",
+     "fuentes": [
+      "ladd_01_b#4",
+      "web_03_a#22"
+     ]
+    }
+   ],
+   "nota": "El texto afirma la causa: la palabra de Dios y el testimonio de Jesús."
+  },
+  {
+   "tema": "«En el Espíritu»: ¿el Espíritu Santo o el espíritu de Juan?",
+   "posturas": [
+    {
+     "postura": "El Espíritu Santo lo tomó y lo capacitó.",
+     "quien": "MacArthur; McGee; Grudem; Mundo Hispano; Earle (con Swete)",
+     "fuentes": [
+      "macarthur_02_a#15",
+      "mcgee_02_a#12",
+      "r2_026#12",
+      "cbmh_02_a#4",
+      "beacon_01_b#17"
+     ]
+    },
+    {
+     "postura": "El espíritu de Juan, en un éxtasis producido por Dios.",
+     "quien": "Carballosa; Lenski",
+     "fuentes": [
+      "carballosa_02_b#11",
+      "beacon_01_b#17"
+     ]
+    }
+   ],
+   "nota": "Fue, para todos, una experiencia dada por Dios."
+  },
+  {
+   "tema": "¿Qué es «el día del Señor»?",
+   "posturas": [
+    {
+     "postura": "El domingo, día de la resurrección: el adjetivo es distinto del giro escatológico, la visión trata de Cristo en su iglesia y en el siglo II así se llamaba al domingo; quizás en contraste con el día del emperador.",
+     "quien": "Earle; Ladd; MacArthur; McGee; Beasley-Murray; Mundo Hispano; Ryrie; Guzik; Piper",
+     "fuentes": [
+      "beacon_01_b#18",
+      "ladd_01_b#5",
+      "macarthur_02_a#16",
+      "mcgee_02_a#13",
+      "henry_01_a#12",
+      "dbmh_01_a#24",
+      "r2_033#19",
+      "web_03_a#23",
+      "cpe_08#7"
+     ]
+    },
+    {
+     "postura": "El día de Jehová de los profetas: Juan fue transportado a ese tiempo, tema del libro; en el NT el domingo se llama “el primer día de la semana”.",
+     "quien": "Carballosa; Larkin (premilenial dispensacional)",
+     "fuentes": [
+      "carballosa_02_b#11",
+      "carballosa_01#38",
+      "larkin_01_a#19"
+     ]
+    }
+   ],
+   "nota": "McGee reconoce que buenos expositores sostienen la segunda y la respeta."
+  },
+  {
+   "tema": "¿Por qué estas siete iglesias?",
+   "posturas": [
+    {
+     "postura": "Estaban sobre el camino circular y eran centros de distribución (Ramsay).",
+     "quien": "MacArthur; Beasley-Murray; Mundo Hispano; Earle (teoría)",
+     "fuentes": [
+      "macarthur_02_a#18",
+      "henry_01_a#13",
+      "cbmh_02_a#7",
+      "beacon_01_b#21"
+     ]
+    },
+    {
+     "postura": "El siete indica plenitud: representan a toda la iglesia.",
+     "quien": "Guzik; Wiersbe; Carballosa (las de Asia)",
+     "fuentes": [
+      "web_03_a#25",
+      "r1_024_a#13",
+      "carballosa_02_b#12"
+     ]
+    }
+   ],
+   "nota": "Muchos combinan las dos."
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "Estar «en el Espíritu» como Juan es vivir conscientemente en la presencia del Espíritu Santo.",
+   "autor": "Wayne Grudem",
+   "obra": "Teología sistemática",
+   "pagina": "PDF 402, 675",
+   "tipo": "doctrina",
+   "fuentes": [
+    "r2_026#12",
+    "r2_027#11"
+   ]
+  },
+  {
+   "texto": "Siguiendo a Baxter: recibir el día del Señor como regalo de gracia y usar los domingos como escalones hacia la gloria.",
+   "autor": "John D. Gillespie",
+   "obra": "El descanso eterno de los creyentes",
+   "pagina": "PDF 102",
+   "tipo": "aplicacion",
+   "fuentes": [
+    "r2_009#10"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Dn 10:2",
+   "nota": "Juan se presenta con la fórmula de Daniel.",
+   "fuentes": [
+    "beacon_01_b#13"
+   ]
+  },
+  {
+   "ref": "Hch 14:22",
+   "nota": "Ladd y Carballosa lo citan: la tribulación es la suerte del pueblo de Dios en esta época (también Jn 16:33).",
+   "fuentes": [
+    "ladd_01_b#1",
+    "carballosa_02_b#9"
+   ]
+  },
+  {
+   "ref": "Éx 19:16",
+   "nota": "La entrega de la ley en el Sinaí, que evoca la voz de trompeta.",
+   "fuentes": [
+    "macarthur_02_a#17",
+    "cbmh_02_a#6"
+   ]
+  },
+  {
+   "ref": "Hch 20:7",
+   "nota": "Los creyentes se reunían el primer día de la semana (también 1 Co 16:2).",
+   "fuentes": [
+    "ladd_01_b#5",
+    "r1_021#4"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "La aflicción por ser fiel no es señal de que algo anda mal: Jesús la anunció. Lo que se pide es perseverancia, quedarse bajo el peso sin soltar a Cristo, con la mirada en el reino. ¿Dónde les toca hoy a ustedes no aflojar?",
+   "fuentes": [
+    "cbmh_01_b#24",
+    "macarthur_02_a#12"
+   ]
+  },
+  {
+   "texto": "Juan estaba en la isla y a la vez en el Espíritu: para Wiersbe, el lugar no nos priva de las bendiciones espirituales. Plummer (citado por Earle) recuerda que Jacob, Moisés, Elías, Ezequiel y Daniel vieron a Dios en tiempos de exilio.",
+   "fuentes": [
+    "r1_024_a#13",
+    "beacon_01_b#16"
+   ]
+  },
+  {
+   "texto": "El apóstol más anciano se presenta como «vuestro hermano». La madurez se parece más a compartir el camino que a reclamar un lugar, en la iglesia y en casa.",
+   "fuentes": [
+    "macarthur_02_a#12",
+    "carballosa_02_b#8"
+   ]
+  },
+  {
+   "texto": "El domingo es el día de la resurrección. Piper recuerda que los primeros cristianos se reunían aun sin leyes que les dieran el día, temprano o de noche.",
+   "fuentes": [
+    "cpe_08#7",
+    "r2_001_a#1"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "¿Qué tribulaciones nos tocaron por ser fieles a Cristo? ¿Las vivimos como algo extraño o como parte del camino?",
+  "¿Hubo alguna “Patmos” en nuestra historia en la que Dios se nos hizo más cercano?",
+  "¿Cómo vivimos el día del Señor? ¿Qué podríamos cambiar para que sea un día de encuentro con él y con la iglesia?"
+ ],
+ "para_orar": "Señor Jesús, el primero y el último, gracias porque no abandonaste a Juan en su isla ni nos abandonas en las nuestras. Danos perseverancia en la tribulación, la mirada en tu reino y oídos atentos a tu voz en tu Palabra.",
+ "visuales": [
+  "mapa-asia",
+  "dg-cronologia"
+ ],
+ "anexos": [
+  "T1",
+  "I2",
+  "T2",
+  "T7"
+ ],
+ "profundizar": [
+  {
+   "titulo": "Patmos en números",
+   "texto": "Las medidas varían según el autor: 15 por 9 km (Earle), 15 por 10 (MacArthur, Ladd), 16 por menos de 10 (Biblia de estudio MacArthur), 16 por 10 (McGee), 14 por 7 (Comentario Mundo Hispano), 14 por 3,5 con 24 km de circunferencia (Carballosa); Núñez la estima en unos 34 km². La distancia a Mileto: unos 55 km (Earle), 59 (Mundo Hispano) o 64 (MacArthur); Wiersbe dice que estaba a unos 100 km de Éfeso, y Larkin, a 30 millas de la costa frente a Éfeso. Pertenece a las Espóradas del Sur o Dodecaneso (Mundo Hispano); la Biblia de estudio MacArthur la ubica en un grupo de unas cincuenta islas. Tenía un buen puerto natural y era la última escala del viaje de Roma a Éfeso. Allí se muestra hoy una gruta donde, según la tradición, Juan tuvo la visión (Seiss, citado por Guzik; MacArthur, que la visitó varias veces).",
+   "fuentes": [
+    "beacon_01_b#15",
+    "macarthur_02_a#13",
+    "ladd_01_b#3",
+    "mbiblia_01_a#25",
+    "mcgee_02_a#10",
+    "cbmh_02_a#1",
+    "carballosa_02_b#10",
+    "cpe_09#12",
+    "r1_024_a#13",
+    "larkin_01_a#18",
+    "web_03_a#21",
+    "web_12#9"
+   ]
+  },
+  {
+   "titulo": "Domiciano y el fin del destierro",
+   "texto": "Según el Comentario Mundo Hispano, Eusebio dice que Juan fue desterrado en el 95 y liberado un año y medio después por Nerva; Eusebio cuenta que el senado permitió volver a los desterrados y Juan se estableció en Éfeso. Domiciano murió apuñalado en una conjura palaciega el 18 de septiembre del 96 (Ropero), que menciona en nota la fecha temprana de Robinson aunque se queda con Domiciano. Ropero recuerda que el libro da testimonio de esa época en Asia: Éfeso sufrió por el nombre de Cristo (2:3), Antipas murió en Pérgamo (2:13) y a Esmirna se le anuncia cárcel (2:10). McGee da un margen amplio, entre el 86 y el 96.",
+   "fuentes": [
+    "cbmh_02_a#2",
+    "beacon_01_b#15",
+    "mbiblia_01_a#25",
+    "r1_019#27",
+    "mcgee_02_a#10"
+   ]
+  },
+  {
+   "titulo": "El «día del Señor» y el día del emperador",
+   "texto": "Deissmann (citado por Earle y Beasley-Murray) mostró que el adjetivo kyriakós aparece en inscripciones y papiros con el sentido de “imperial”, la más antigua del 68 d.C., y que en Asia se celebraba el “día de Augusto” al menos una vez por mes. Llamar a un día “del Señor” podía ser una protesta: el emperador tenía su día; los cristianos, el de su Señor. Piper subraya el riesgo, porque kýrios era también título del César. Ryrie y Buswell notan que kyriakós es también el origen de church y Kirche, aunque en el NT nunca se usa para la iglesia.",
+   "fuentes": [
+    "beacon_01_b#18",
+    "henry_01_a#12",
+    "web_03_a#23",
+    "cpe_08#7",
+    "r2_033#19",
+    "r2_038_b#9"
+   ]
+  },
+  {
+   "titulo": "¿El domingo es el sábado cristiano?",
+   "texto": "Las fuentes del día no coinciden. Buswell, con el Catecismo menor de Westminster (pregunta 59), sostiene que el día del Señor tomó todo el significado del sábado como día santo de descanso y adoración, y los autores puritanos defienden que los primeros cristianos lo guardaban como día santo. Wellum, el Diccionario Mundo Hispano y Wiersbe sostienen que el sábado se dio a Israel y se cumplió en Cristo: el domingo celebra la nueva creación y no es un sábado cristiano; Wiersbe agrega que Col 2:16-17 y Ro 14 impiden juzgar a quien guarda uno u otro. Un artículo de Coalición cita a Bauckham: para los primeros cristianos el día del Señor no sustituía al sábado ni era día de descanso (el Imperio lo declaró día de descanso recién con Constantino, en el 321); el artículo concluye que el cristiano no está obligado al cuarto mandamiento como tal, aunque descansar un día de cada siete es sabio.",
+   "fuentes": [
+    "r2_012#23",
+    "r2_024#37",
+    "cpe_10#5",
+    "dbmh_01_a#24",
+    "r1_021#4",
+    "cpe_08#8"
+   ]
+  },
+  {
+   "titulo": "Distancias entre las siete ciudades",
+   "texto": "Según Charles (citado por Earle): Esmirna, a 60 km al norte de Éfeso; Pérgamo, 60 al norte de Esmirna; Tiatira, 68 al sureste de Pérgamo; Sardis, 45 al sur de Tiatira; Filadelfia, 45 al sureste de Sardis; Laodicea, 60 al sureste de Filadelfia. Bowman observa que, en el mapa, las siete forman el candelabro de siete brazos del templo. Guzik recuerda que también Pablo escribió a siete iglesias (Roma, Corinto, Galacia, Éfeso, Colosas, Filipos y Tesalónica).",
+   "fuentes": [
+    "beacon_01_b#20",
+    "web_03_a#25"
+   ]
+  },
+  {
+   "titulo": "Lo que Juan había visto",
+   "texto": "MacArthur pinta el ánimo de Juan hacia el 96: último apóstol vivo, había visto a Jerusalén destruida por Roma y a sus compañeros martirizados; y de las siete iglesias, cinco estaban en decadencia, como mostrarán las cartas. En ese momento Cristo le habla.",
+   "fuentes": [
+    "web_12#9"
+   ]
+  },
+  {
+   "titulo": "Más sobre la trompeta y los títulos",
+   "texto": "MacArthur enumera las grandes voces del libro (5:2, 12; 6:10; 7:2, 10; 8:13; 10:3; 11:12, 15; 12:10; 14:2, 15, 18; 16:1, 17; 19:1, 17; 21:3) y las doce órdenes de escribir (1:11, 19; 2:1, 8, 12, 18; 3:1, 7, 14; 14:13; 19:9; 21:5). Wiersbe nota que las trompetas vuelven en 4:1 y 8:2 y que el mar se menciona 27 veces en el libro. McGee vincula la voz con 1 Ts 4:16: Cristo no necesitará arcángel para levantar a los muertos. Bengel (citado por Earle): este libro deleita más a los fieles en tribulación.",
+   "fuentes": [
+    "macarthur_02_a#17",
+    "r1_024_a#13",
+    "mcgee_02_a#14",
+    "beacon_01_b#14"
+   ]
+  }
+ ]
 }

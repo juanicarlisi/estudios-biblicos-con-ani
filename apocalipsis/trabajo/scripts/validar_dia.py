@@ -60,8 +60,8 @@ def revisar(n):
     texto_gr = sin(' '.join(w['t'] + ' ' + w['l'] for i in range(p['ini'], p['fin'] + 1) for w in gr['%d:%d' % U.desde_idx(i)]))
     notas_gr = sin(' '.join(json.dumps(I[u].get('griego', ''), ensure_ascii=False) for u in usados if u in I))
     for w in d.get('palabras', []):
-        g = sin(re.sub(r'[^\w]', '', w.get('griego', '')))
-        if g and g not in texto_gr and g not in notas_gr: avis.append(f"griego no verificado en el texto del día: {w.get('griego')}")
+        partes = [sin(re.sub(r'[^\w]', '', x)) for x in w.get('griego', '').split()]
+        if any(g and g not in texto_gr and g not in notas_gr for g in partes): avis.append(f"griego no verificado en el texto del día: {w.get('griego')}")
     vis = json.load(open(AQUI + '/../plan/visuales.json')); ok = set(vis['mapas']) | set(vis['diagramas'])
     for v in d.get('visuales', []):
         if v not in ok: errs.append(f'visual desconocido {v}')

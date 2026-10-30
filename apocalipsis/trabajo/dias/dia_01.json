@@ -1,0 +1,341 @@
+{
+  "dia": 1,
+  "desde": "1:1",
+  "hasta": "1:3",
+  "titulo": "Se corre el velo: un libro para ver a Jesús",
+  "minutos": {"lectura": 1, "estudio": 25},
+  "contexto": {
+    "antes": "No hay día anterior: acá empieza todo. Los ocho primeros versículos son el prólogo del libro entero, y MacArthur prefiere no armar una introducción propia, porque 1:1-3 ya es la introducción inspirada.",
+    "ahora": "Juan presenta el libro: qué es (una revelación), de dónde viene y cómo llegó hasta él, qué contiene y qué bendición promete. Charles, citado por Earle, ve tres tríos en estos versículos: la fuente (Dios, Cristo, Juan), el contenido (la palabra de Dios, el testimonio de Jesucristo, lo que Juan vio) y la bendición (el que lee, los que oyen, los que guardan).",
+    "donde": "Juan escribe desterrado en la isla de Patmos, como dirá en 1:9, por causa de su testimonio. Wiersbe nota que, aunque estaba físicamente allí, en las visiones fue llevado al cielo, al desierto y a un monte.",
+    "cuando": "La fecha se discute. MacArthur y Mayhue siguen el consenso que ubica el libro bajo el emperador Domiciano, hacia el 95 d.C., con el testimonio de Ireneo (ca. 180 d.C.); Sproul (Ligonier) defiende una fecha anterior al 70, con el templo de Jerusalén todavía en pie. Ver el anexo I2.",
+    "despues": "Mañana (1:4-5) empieza la carta propiamente dicha: Juan saluda a las siete iglesias de la provincia romana de Asia con una bendición en la que intervienen las tres personas de la Trinidad.",
+    "fuentes": ["cbmh_01_a#25", "web_14#8", "beacon_01_a#34", "macarthur_01#26", "macarthur_01#18", "cbmh_01_a#32", "r1_024_a#10", "r1_035#19", "web_13#21", "carballosa_02_b#7"]
+  },
+  "versiculo_clave": {
+    "ref": "1:3",
+    "porque": "Es la puerta de entrada al estudio: la bendición no se promete a quien lo entienda todo, sino a quien lo lee, lo escucha y lo vive."
+  },
+  "panorama": {
+    "texto": "Lo primero que el libro dice de sí mismo desarma un prejuicio: no es un acertijo para especialistas, sino una «revelación», un velo que se corre para que se vea lo que estaba oculto. Y lo que se ve, ante todo, es a Jesucristo: ya no en la humildad de su primera venida, sino en su gloria. La revelación baja por una cadena cuidada (de Dios a Cristo, de Cristo a su ángel, del ángel a Juan, de Juan a los siervos), llega con la autoridad de la palabra de Dios y trae una promesa para el que lee, los que oyen y los que guardan. Los autores difieren en cómo entender «pronto» y cuánto pesa el lenguaje simbólico, pero coinciden en que el libro fue dado para ser entendido y obedecido, y en que su centro es Cristo.",
+    "fuentes": ["macarthur_01#6", "web_03_a#1", "mbiblia_01_a#11", "mcgee_01_b#15", "cbmh_01_a#32", "macarthur_01#19", "mcgee_01_b#12", "r1_024_a#9"]
+  },
+  "secciones": [
+    {
+      "rango": "1:1",
+      "titulo": "«La revelación de Jesucristo»: el velo que se corre",
+      "notas": [
+        {
+          "texto": "«Apocalipsis» no es una palabra misteriosa: es el griego apokálypsis, de apó (lejos de) y kálymma (velo). Es quitar la cubierta, como cuando se descubre una estatua. En el Nuevo Testamento casi siempre tiene sentido religioso: Dios da a conocer lo que el hombre jamás podría descubrir por su cuenta (Ro 16:25; Gá 1:12). Referida a una persona, significa que se hace visible por completo, y por eso se usa para la segunda venida de Cristo (1 Co 1:7; 2 Ts 1:7; 1 P 1:7).",
+          "fuentes": ["larkin_01_a#3", "ladd_01_a#19", "macarthur_01#6", "web_14#8", "beacon_01_a#22", "mbiblia_01_a#11", "cbmh_01_a#26"],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "El título va en singular. McGee cuenta que alguien lo criticó por “no saber nada del libro de las revelaciones”, y él contestó que nunca lo había visto: ese libro no existe. Es una sola revelación, la de Jesucristo.",
+          "fuentes": ["mcgee_01_b#11", "mcgeer_01#20"],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "De ahí sale algo práctico: el propósito del libro es mostrar, no esconder. MacArthur lo dice así: “Lejos de esconder la verdad, el libro de Apocalipsis la revela”. A Daniel se le mandó sellar el libro (Dn 12:4, 9); a Juan se le dirá que no lo selle (22:10). Guzik lo resume con un juego de palabras: es apocalipsis, no apócrifo.",
+          "fuentes": ["macarthur_01#7", "mcgee_01_b#12", "web_11_a#1", "web_03_a#1"],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "«De Jesucristo» admite dos lecturas: una revelación que viene de él o una revelación acerca de él. Ladd, Earle y Carballosa prefieren la primera: Jesucristo es el gran Revelador de Dios (Jn 1:18). MacArthur prefiere la segunda, por el uso de la frase en Gálatas 1:12 y 1 Corintios 1:7; Guzik sostiene las dos (ver Interpretaciones). Por cualquiera de los dos caminos se llega a lo mismo: Guzik advierte que el libro muestra juicios, al Anticristo y a Babilonia, pero sobre todo a Jesús, y que quien vea todo lo demás y no lo vea a él no vio el Apocalipsis.",
+          "fuentes": ["ladd_01_a#21", "beacon_01_a#23", "carballosa_02_a#19", "macarthur_01#9", "web_03_a#1"],
+          "tipo": "dificultad_interpretaciones"
+        }
+      ]
+    },
+    {
+      "rango": "1:1",
+      "titulo": "La cadena de la revelación",
+      "notas": [
+        {
+          "texto": "La revelación baja por pasos: Dios el Padre se la dio a Jesucristo, Jesucristo la envió por su ángel, el ángel la dio a Juan y Juan la transmite a los siervos; así llega hasta nosotros. Swete, citado por Earle, lo explica así: el Padre es el Revelador primario y el Hijo, el medio por el cual la revelación pasa a los hombres. Es lo que enseña el Evangelio de Juan, donde el Hijo habla lo que el Padre le enseñó (Jn 7:16; 8:28).",
+          "fuentes": ["mcgee_01_b#15", "mcgeer_01#22", "r1_024_a#10", "beacon_01_a#24", "carballosa_02_a#20", "ladd_01_a#21"],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "«Que Dios le dio» despierta una pregunta: ¿qué necesitaba recibir el Hijo? Larkin la une a Marcos 13:32: después de la ascensión, Cristo recibió del Padre lo que los discípulos le habían preguntado. MacArthur lo descarta, porque el libro no da día ni hora y el Hijo glorificado ejerce plenamente su omnisciencia; para él es el regalo del Padre como recompensa por la humillación y la obediencia del Hijo (Fil 2:5-11). La Biblia de estudio MacArthur lo pinta así: leer el libro es como oír tras la puerta mientras el Padre le entrega el regalo a su Hijo (ver Interpretaciones).",
+          "fuentes": ["larkin_01_a#4", "macarthur_01#11", "web_14#11", "mbiblia_01_a#12"],
+          "tipo": "dificultad_interpretaciones"
+        },
+        {
+          "texto": "«Para manifestar a sus siervos»: el verbo es mostrar, exhibir, el mismo que usa Felipe cuando le pide a Jesús que les muestre al Padre (Jn 14:8-9). Los «siervos» son, literalmente, esclavos, pero Simcox (citado por Earle) advierte que no se lo lea en el sentido occidental moderno, y MacArthur piensa en el esclavo de Éxodo 21:5-6, que elegía quedarse con su amo por amor. Según el Comentario Mundo Hispano pueden ser los profetas cristianos, los creyentes en general o las iglesias. MacArthur concluye que el libro no se escribió para curiosos sino para siervos: no es un libro evangelístico, aunque Dios pueda usarlo para salvar, sino un libro de esperanza para los cristianos.",
+          "fuentes": ["carballosa_02_a#20", "cbmh_01_a#28", "beacon_01_a#25", "macarthur_01#12", "web_11_a#6"],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "«Por medio de su ángel»: MacArthur nota que es el único libro del Nuevo Testamento enviado a su autor humano por un ángel, como la ley fue dada por medio de ángeles (Hch 7:53; Gá 3:19), y que ningún libro tiene tanto ministerio angélico. Earle toma el singular de modo general: los distintos ángeles que en cada visión le explican algo a Juan. Ladd observa que el ángel recién aparece como intérprete en el capítulo 17, y el Comentario Mundo Hispano lo identifica con el de 22:8, el que reprende a Juan cuando se postra a adorarlo.",
+          "fuentes": ["macarthur_01#17", "web_11_a#7", "beacon_01_a#28", "ladd_01_a#25", "cbmh_01_a#31"],
+          "tipo": "explicacion_texto"
+        }
+      ]
+    },
+    {
+      "rango": "1:1",
+      "titulo": "«Las cosas que deben suceder pronto»",
+      "notas": [
+        {
+          "texto": "«Deben» traduce dei: no un destino ciego, sino la necesidad que nace del propósito de Dios. Charles, citado por Earle, ve ahí el cumplimiento absolutamente seguro de lo que Dios se propuso; McGee, urgencia y seguridad absoluta. Pink lo une a la omnisciencia: nada es incierto en los consejos de Dios, y por eso el libro que descubre el futuro empieza así. El Comentario Mundo Hispano saca la consecuencia: la historia no es una secuencia de casualidades.",
+          "fuentes": ["beacon_01_a#26", "carballosa_02_a#21", "mcgee_01_b#14", "r2_039#25", "cbmh_01_a#28"],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "La frase tiene un eco de Daniel 2:28. Ladd lo toma como muestra de algo que recorre todo el libro: Juan casi nunca cita el Antiguo Testamento de manera formal, pero tiene la mente saturada de él. Guzik cuenta más de 500 alusiones, con referencias en 278 de sus 404 versículos; MacArthur, al menos 275, sobre todo a Ezequiel, Daniel y Zacarías, además de muchos paralelos con el discurso de Jesús en Mateo 24 y 25.",
+          "fuentes": ["ladd_01_a#22", "cbmh_01_a#26", "web_03_a#3", "web_14#9"],
+          "tipo": "conexion_biblica"
+        },
+        {
+          "texto": "«Pronto» (en táchei) es lo que más discusión despierta: ¿cómo decir «pronto» después de dos mil años? Las respuestas van desde «cerca en el calendario» hasta «rápido una vez que empiece», «con toda seguridad» o «ya cumplido en el siglo I» (ver Interpretaciones). Moffatt, citado por Earle, llama a esta frase el gozne del libro: de parte de Dios no hay vacilación ni demora.",
+          "fuentes": ["beacon_01_a#26", "cbmh_01_a#30", "ladd_01_a#24", "macarthur_01#15", "carballosa_02_a#21"],
+          "tipo": "dificultad_interpretaciones"
+        },
+        {
+          "texto": "Lo que nadie puede hacer es leer esa agenda: Earle recuerda Hechos 1:7. Ladd nota que, a diferencia de los apocalipsis judíos, el Nuevo Testamento no tiene espíritu de cálculo: del día y la hora nadie sabe (Mt 24:36). Pero Dios es soberano, tiene un plan redentor que se cumplirá a su tiempo, y nada puede impedir la llegada de su reino.",
+          "fuentes": ["beacon_01_a#26", "ladd_01_a#23"],
+          "tipo": "teologia_doctrina"
+        }
+      ]
+    },
+    {
+      "rango": "1:1",
+      "titulo": "«La declaró»: un mensaje en señales",
+      "notas": [
+        {
+          "texto": "El verbo esémanen viene de sēma, «señal», la misma familia de las «señales» con que el Evangelio de Juan llama a los milagros de Jesús. Significa dar a conocer, y Wiersbe, Vincent y el Comentario Mundo Hispano entienden que indica señales y símbolos. La Coalición por el Evangelio, siguiendo a G. K. Beale, nota que es el verbo que la versión griega de Daniel 2:45 usa para la visión simbólica de Nabucodonosor: la estatua de oro, plata, bronce, hierro y barro destrozada por una roca. Para Beale, 1:1 anuncia así el modo en que se comunica todo el libro.",
+          "fuentes": ["beacon_01_a#27", "carballosa_02_a#22", "cpe_03#2", "cbmh_01_a#31", "r1_024_a#10"],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "Cuánto pesa este dato es donde los autores se separan (ver Interpretaciones). Pero hay algo en que coinciden lectores de escuelas distintas, y McGee lo dice con claridad: los símbolos son símbolos de realidades. Cita a Ottman: “Aun el lenguaje figurativo de Apocalipsis es figurativo de hecho”, y lo ilustra con los juguetes de un chico tirados en el piso: si uno tropieza, cae sobre algo sólido. La realidad es mayor que el símbolo.",
+          "fuentes": ["mcgee_01_b#13", "mcgeer_01#21"],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "¿Por qué tantos símbolos? Guzik da dos razones. Juan describe cosas del cielo, que no caben en palabras comunes (2 Co 12:4). Y la imagen tiene una fuerza que la definición no tiene: una mujer ebria de la sangre de los santos (17:6) dice mucho más que la palabra “malvado”. Dios no está jugando a las adivinanzas.",
+          "fuentes": ["web_03_a#3"],
+          "tipo": "explicacion_texto"
+        }
+      ]
+    },
+    {
+      "rango": "1:2",
+      "titulo": "Juan, testigo de lo que vio",
+      "notas": [
+        {
+          "texto": "El «siervo Juan» es, según MacArthur y Guzik, el apóstol, hijo de Zebedeo, autor del Evangelio y de las cartas de Juan. El que dio testimonio de la primera venida de Jesús (Jn 19:35; 21:24) da ahora testimonio de la segunda. Ladd destaca que pone su nombre, conocido por sus lectores, a diferencia de los apocalipsis judíos, que se firmaban con nombres ajenos; Duesterdieck, citado por Earle, ve en el nombre propio una firma al estilo de los antiguos profetas.",
+          "fuentes": ["macarthur_01#18", "web_03_a#4", "ladd_01_a#20", "beacon_01_a#28"],
+          "tipo": "contexto_historico"
+        },
+        {
+          "texto": "«Ha dado testimonio» viene de martyréo, y de esa raíz sale «mártir»: en días de persecución, el testigo era candidato al martirio. El Comentario Mundo Hispano recuerda que el destierro de Juan en Patmos fue consecuencia directa de este testimonio. Earle y McGee notan que el verbo está en aoristo epistolar: Juan se pone en el lugar de sus lectores y mira lo que escribe como algo ya hecho.",
+          "fuentes": ["beacon_01_a#29", "cbmh_01_a#32", "mcgee_01_b#16", "mcgeer_01#23"],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "Juan atestigua «la palabra de Dios», «el testimonio de Jesucristo» y «todas las cosas que ha visto». Para Ladd y el Comentario Mundo Hispano, la palabra de Dios es aquí el contenido de la revelación, una palabra activa que hace lo que dice (Sal 33:9; Is 55:11), y el testimonio de Jesucristo es la garantía que él mismo le da (22:16, 20). MacArthur las ve como sinónimos, juntas también en 1:9, 12:17 y 19:10. Earle y Carballosa notan que en griego no hay «y» antes de la última frase: lo que Juan vio es, justamente, esa palabra y ese testimonio.",
+          "fuentes": ["ladd_01_a#25", "ladd_01_a#26", "cbmh_01_a#32", "macarthur_01#18", "web_11_a#9", "beacon_01_a#30", "carballosa_02_a#23"],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "Así Juan establece la autoridad del libro en su origen, en su transmisión y en su contenido (Mundo Hispano). Guzik agrega que Juan sabía que escribía Escritura: llama a lo que recibió «palabra de Dios», como un profeta del Antiguo Testamento.",
+          "fuentes": ["cbmh_01_a#32", "web_03_a#4"],
+          "tipo": "teologia_doctrina"
+        }
+      ]
+    },
+    {
+      "rango": "1:3",
+      "titulo": "La primera bienaventuranza: leer, oír y guardar",
+      "notas": [
+        {
+          "texto": "Es la primera de siete bienaventuranzas del libro (1:3; 14:13; 16:15; 19:9; 20:6; 22:7; 22:14), y la palabra, makários, es la misma del Sermón del Monte. El libro empieza y termina con una bendición (1:3 y 22:7); MacArthur sostiene que es el único libro de la Biblia que lo hace.",
+          "fuentes": ["web_03_a#5", "web_11_a#10", "beacon_01_a#32", "carballosa_02_a#24", "macarthur_01#19", "mbiblia_01_a#13", "cbmh_01_a#33", "web_11_a#1"],
+          "tipo": "estructura_bosquejo"
+        },
+        {
+          "texto": "«El que lee» está en singular y «los que oyen», en plural: es una escena de culto. Uno leía en voz alta y la congregación escuchaba, según la práctica judía (Neh 8:2-3; Lc 4:16), que Pablo también pedía para sus cartas (Col 4:16; 1 Ts 5:27). Robert Thomas, citado por MacArthur, explica que los materiales de escritura eran caros y escasos: una copia por iglesia era lo más que se podía esperar, y la lectura pública era el único modo en que la mayoría conocía estos libros. Como en el culto solo se leía la Escritura, que el libro se escribiera para leerse en público es un argumento temprano a favor de su lugar en el canon.",
+          "fuentes": ["ladd_01_a#27", "cbmh_01_a#34", "macarthur_01#19", "macarthur_01#20", "web_03_a#5", "r2_010#19"],
+          "tipo": "cultura_costumbres"
+        },
+        {
+          "texto": "Pero oír no alcanza: hay que guardar. El verbo es el de guardar los mandamientos, y los dos participios juntos repiten la enseñanza de Jesús en Lucas 11:28. MacArthur nota que los tres verbos están en presente: leer, oír y obedecer como forma de vida. ¿Cuántos grupos hay? Beasley-Murray y Carballosa ven dos (el lector y los oyentes que guardan); Earle y McGee, tres.",
+          "fuentes": ["beacon_01_a#31", "cbmh_01_a#35", "macarthur_01#19", "web_11_a#10", "henry_01_a#6", "carballosa_02_a#24", "mcgee_01_b#17"],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "La bendición no depende de entenderlo todo. Larkin lo subraya: se promete al que lee y al que oye. Guzik coincide: hay cosas que solo se entenderán mirando hacia atrás, cuando se cumplan, pero se puede ser bendecido leyendo y escuchando. Y a quienes dicen que estudiar el Apocalipsis es perder el tiempo, Storms y los maestros de 9Marcas les responden con este versículo: Dios prometió su bendición a quienes se esfuerzan por conocerlo en su Palabra.",
+          "fuentes": ["larkin_01_a#9", "web_03_a#5", "cpe_06#5", "web_05_c#2"],
+          "tipo": "aplicacion_practica"
+        },
+        {
+          "texto": "Al llamarlo «las palabras de esta profecía», Juan pone su libro a la par de los profetas del Antiguo Testamento. Y profecía no es solo anuncio del futuro: el libro está lleno de exhortaciones a la fe, la paciencia, la obediencia, la oración y la vigilancia para el presente.",
+          "fuentes": ["beacon_01_a#31", "ladd_01_a#27", "cbmh_01_a#36"],
+          "tipo": "explicacion_texto"
+        }
+      ]
+    },
+    {
+      "rango": "1:3",
+      "titulo": "«Porque el tiempo está cerca»",
+      "notas": [
+        {
+          "texto": "«Tiempo» no es chronos, el tiempo del reloj, sino kairós: el tiempo señalado, la estación, el momento de crisis o de decisión. Carballosa lo compara con una estación del año, un período con rasgos propios. El «porque» explica la bienaventuranza: conviene oír y guardar porque ese tiempo se acerca. Juan vuelve así sobre el «pronto» del v. 1.",
+          "fuentes": ["beacon_01_a#33", "macarthur_01#21", "carballosa_02_a#25", "cbmh_01_a#36"],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "Qué es lo que está cerca se lee distinto según la postura (ver Interpretaciones): la próxima gran era de la redención, con la venida de Cristo como siguiente acontecimiento (MacArthur); el tiempo en que Dios intervendrá para juzgar y establecer su reino (Carballosa); la liberación de los fieles, que está a la puerta (Mundo Hispano). McGee aclara que no significa que lo del final ocurra hoy, sino que desde Pentecostés Cristo ejerce en el cielo un ministerio que avanza hacia ese futuro. Niles, citado por Earle, describe algo propio de la profecía: acerca la visión de modo que lo seguro parece inminente. “Está viniendo y vendrá”.",
+          "fuentes": ["macarthur_01#21", "carballosa_02_a#25", "cbmh_01_a#36", "mcgee_01_b#17", "beacon_01_a#33"],
+          "tipo": "dificultad_interpretaciones"
+        },
+        {
+          "texto": "La Biblia de estudio MacArthur agrega una advertencia: esa era es inminente, pero puede demorarse tanto que algunos lleguen a preguntarse si Cristo volverá (Mt 24:36-39; 2 P 3:3-4). Frente a esos burladores, la respuesta del libro es firme: Cristo volverá.",
+          "fuentes": ["mbiblia_01_a#13", "macarthur_01#21"],
+          "tipo": "teologia_doctrina"
+        }
+      ]
+    }
+  ],
+  "palabras": [
+    {"ref": "1:1", "griego": "ἀποκάλυψις", "translit": "apokálypsis", "significado": "Revelación: quitar el velo, descubrir lo oculto (de apó, «lejos de», y kálymma, «velo»). Referida a una persona, que se hace visible.", "fuentes": ["larkin_01_a#3", "macarthur_01#6", "ladd_01_a#19"]},
+    {"ref": "1:1", "griego": "δεῖξαι", "translit": "deîxai (de deíknymi)", "significado": "Mostrar, manifestar: verbo de Juan para la revelación que llega por visiones.", "fuentes": ["cbmh_01_a#28", "carballosa_02_a#20"]},
+    {"ref": "1:1", "griego": "δούλοις", "translit": "doúlois", "significado": "A sus siervos, literalmente «esclavos»: el que se somete a otro; MacArthur lo entiende como el que sirve por amor.", "fuentes": ["beacon_01_a#25", "macarthur_01#12", "carballosa_02_a#22"]},
+    {"ref": "1:1", "griego": "δεῖ", "translit": "dei", "significado": "Es necesario, debe: necesidad que nace del propósito de Dios; cumplimiento seguro.", "fuentes": ["beacon_01_a#26", "carballosa_02_a#21"]},
+    {"ref": "1:1", "griego": "τάχει", "translit": "en táchei", "significado": "Pronto, con rapidez (la familia de «tacómetro»). Se discute si indica cercanía o rapidez una vez que empiece.", "fuentes": ["carballosa_02_a#21", "macarthur_01#15", "r1_005#22", "web_03_a#2"]},
+    {"ref": "1:1", "griego": "ἐσήμανεν", "translit": "esémanen", "significado": "La declaró: dio a conocer; de sēma, «señal». Mostrar por medio de señales.", "fuentes": ["beacon_01_a#27", "carballosa_02_a#22", "cpe_03#2"]},
+    {"ref": "1:2", "griego": "ἐμαρτύρησεν", "translit": "emartýrēsen (de martyréo)", "significado": "Dio testimonio; de la misma raíz sale «mártir». En aoristo epistolar.", "fuentes": ["beacon_01_a#29", "mcgee_01_b#16"]},
+    {"ref": "1:3", "griego": "μακάριος", "translit": "makários", "significado": "Bienaventurado, dichoso: la palabra de las bienaventuranzas del Sermón del Monte.", "fuentes": ["carballosa_02_a#24", "cbmh_01_a#33"]},
+    {"ref": "1:3", "griego": "τηροῦντες", "translit": "tēroûntes (de tēréo)", "significado": "Los que guardan: el verbo de guardar los mandamientos; incluye obedecer.", "fuentes": ["beacon_01_a#31", "cbmh_01_a#35"]},
+    {"ref": "1:3", "griego": "καιρός", "translit": "kairós", "significado": "El tiempo señalado, estación o momento de crisis; no chronos, el tiempo del reloj.", "fuentes": ["beacon_01_a#33", "macarthur_01#21", "carballosa_02_a#25"]}
+  ],
+  "cristo": [
+    {
+      "texto": "Jesucristo está en el centro desde la primera línea: es el que revela a Dios (Jn 1:18) y el que es revelado. Spurgeon, citado por Guzik, advertía que para muchos Cristo es un personaje histórico del pasado y no una realidad viva y presente; este libro lo muestra vivo y reinando.",
+      "refs": ["Jn 1:18"],
+      "fuentes": ["carballosa_02_a#19", "web_03_a#1"]
+    },
+    {
+      "texto": "Los Evangelios lo muestran en la humildad de su primera venida; el Apocalipsis, en su exaltación: en gloria (1:7-20), como Señor de su iglesia (caps. 2 y 3), en su segunda venida para establecer su reino (caps. 4 a 20) y en el estado eterno (caps. 21 y 22). La transfiguración fue un anticipo (Mt 17:1-2). MacArthur cita a Criswell: la última vez que el mundo incrédulo lo vio fue crucificado como malhechor, pero un día lo verá en gloria, “sosteniendo este mundo y su destino en sus horadadas y amorosas manos”.",
+      "refs": ["Mt 17:1-2", "Fil 2:5-11"],
+      "fuentes": ["mbiblia_01_a#11", "macarthur_01#9", "macarthur_01#10", "web_14#10", "web_03_b#2"]
+    },
+    {
+      "texto": "Es también el Mediador. No recibe la revelación en visiones como Juan: es el único digno de tomar el libro, abrirlo y darlo a conocer (5:3-7). Owen, según Beeke y Jones, lo llama el Mediador de toda comunicación entre Dios y la humanidad caída.",
+      "refs": ["Ap 5:3-7", "Jn 3:34"],
+      "fuentes": ["cbmh_01_a#26", "r2_024#39"]
+    },
+    {
+      "texto": "El «testimonio de Jesucristo» puede incluir, además de lo que mostró a Juan, el testimonio de su vida en la tierra, cuando el Verbo se hizo carne (Jn 1:14), según Ladd. El que más adelante el libro llama el Verbo de Dios (19:13) es quien respalda esta palabra.",
+      "refs": ["Jn 1:14", "Ap 19:13"],
+      "fuentes": ["ladd_01_a#26", "cbmh_01_a#32"]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "«La revelación de Jesucristo»: ¿de él o acerca de él?",
+      "posturas": [
+        {"postura": "Viene de él (genitivo subjetivo): el Padre la da a Cristo y Cristo la muestra a sus siervos.", "quien": "Ladd (premilenial histórico); Earle (Beacon), con Lenski; Carballosa (premilenial dispensacional)", "fuentes": ["ladd_01_a#21", "beacon_01_a#23", "carballosa_02_a#19"]},
+        {"postura": "Es acerca de él: el libro lo revela en su segunda venida y su exaltación.", "quien": "MacArthur (premilenial dispensacional)", "fuentes": ["macarthur_01#9", "web_14#10"]},
+        {"postura": "Las dos cosas: le pertenece porque él la hace, y él es el revelado.", "quien": "Guzik", "fuentes": ["web_03_a#1"]},
+        {"postura": "Más que la persona de Cristo, presenta los hechos que precederán y acompañarán su regreso.", "quien": "Larkin (premilenial dispensacional)", "fuentes": ["larkin_01_a#3"]}
+      ],
+      "nota": "Todos coinciden en que Cristo es el centro del libro."
+    },
+    {
+      "tema": "«Que Dios le dio»: ¿qué recibió el Hijo?",
+      "posturas": [
+        {"postura": "La información que no tuvo en su humillación (Mr 13:32), dada después de la ascensión.", "quien": "Larkin (premilenial dispensacional)", "fuentes": ["larkin_01_a#4"]},
+        {"postura": "Un regalo y una herencia: la recompensa del Padre por la obediencia del Hijo (Fil 2:5-11).", "quien": "MacArthur; Biblia de estudio MacArthur", "fuentes": ["macarthur_01#11", "web_14#11", "mbiblia_01_a#12"]}
+      ],
+      "nota": "MacArthur objeta a la primera que el libro no da el día ni la hora."
+    },
+    {
+      "tema": "«Pronto» y «el tiempo está cerca»",
+      "posturas": [
+        {"postura": "Cercanía o inminencia: la venida de Cristo es el próximo acontecimiento en la agenda de Dios, aunque no excluye un tiempo de espera (6:10-11); se trata de secuencia más que de calendario.", "quien": "MacArthur; Biblia de estudio MacArthur (premilenial dispensacional)", "fuentes": ["macarthur_01#15", "web_11_a#4", "mbiblia_01_a#12", "r1_030#11"]},
+        {"postura": "Rapidez de ejecución: no dice cuándo, sino que, cuando empiece, sucederá de golpe y sin demora (como en Lc 18:8).", "quien": "Carballosa; McGee; Walvoord (citado por Guzik); Benware con Thomas Ice; Wiersbe; Newell (citado por Earle)", "fuentes": ["carballosa_02_a#21", "mcgee_01_b#14", "web_03_a#2", "r1_005#22", "r1_005#23", "r1_024_a#10", "beacon_01_a#26"]},
+        {"postura": "Perspectiva profética: «pronto» tiene su sentido simple, porque los profetas veían lo lejano a través de lo inmediato, sin profundidad cronológica; es la actitud normal del Nuevo Testamento, que llama a velar (Mr 13:33).", "quien": "Ladd; Beasley-Murray (premilenial histórico)", "fuentes": ["ladd_01_a#24", "henry_01_a#6"]},
+        {"postura": "Certeza: más que fijar un plazo, asegura que Dios cumplirá, según su propio reloj (2 P 3:8); desde la perspectiva profética el fin es siempre inminente y seguro.", "quien": "Charles, Robertson y Simcox (citados por Earle); Comentario Mundo Hispano (amilenial/idealista)", "fuentes": ["beacon_01_a#26", "cbmh_01_a#30"]},
+        {"postura": "Cumplimiento cercano, en el siglo I: Farrar veía en la destrucción de Jerusalén (70 d.C.) una “segunda venida”; Sproul ve en estos términos una cercanía radical que apoya una fecha anterior al 70.", "quien": "Farrar (según Carballosa); Sproul, Ligonier (preterista)", "fuentes": ["carballosa_01#31", "web_13#21"]}
+      ],
+      "nota": "MacArthur y Mayhue rechazan el preterismo por la fecha del libro (hacia el 95) y porque lo anunciado no ocurrió en el siglo I; Carballosa tampoco lo comparte. Ver el anexo I4."
+    },
+    {
+      "tema": "«La declaró»: ¿cuánto pesa el lenguaje simbólico?",
+      "posturas": [
+        {"postura": "El modo de comunicación del libro es fundamentalmente simbólico; se lee en gran medida de manera figurada. El verbo es un aviso contra leer la historia futura de manera literal.", "quien": "Beale (citado por la Coalición, idealista); Comentario Mundo Hispano", "fuentes": ["cpe_03#2", "cbmh_01_a#31"]},
+        {"postura": "Hay señales, pero eso no obliga a una lectura simbólica: el método es el histórico-gramatical normal, dando a cada figura su sentido cultural. J. B. Smith niega que el verbo indique símbolos.", "quien": "Carballosa (premilenial dispensacional); J. B. Smith (citado por Earle)", "fuentes": ["carballosa_02_a#22", "carballosa_02_a#19", "beacon_01_a#27"]},
+        {"postura": "Dios habló con claridad del principio y habló con claridad del fin; ver el libro como vago y confuso es un serio error.", "quien": "MacArthur (premilenial dispensacional)", "fuentes": ["macarthur_01#7"]},
+        {"postura": "Término medio: el sentido de señal tiene mérito sin exagerarlo; con McDowell, debería salvarnos de un craso literalismo.", "quien": "Earle (Beacon)", "fuentes": ["beacon_01_a#27"]}
+      ],
+      "nota": "McGee resume lo que todos aceptan: los símbolos remiten a realidades. Ver el anexo I3."
+    }
+  ],
+  "biblioteca": [
+    {"texto": "Apocalipsis 1:1-3 está entre los textos que muestran que los escritos apostólicos son mandamiento del Señor, de modo que “todo lo que Jesús ordenó” (Mt 28:20) incluye todo el Nuevo Testamento.", "autor": "Wayne Grudem", "obra": "Teología sistemática", "pagina": "PDF 29", "tipo": "doctrina", "fuentes": ["r2_025_a#35", "r2_039#10"]},
+    {"texto": "Apocalipsis 1:2 y 1:3 figuran entre los pasajes en que la Biblia declara ser Palabra de Dios inspirada; para el autor, solo la inspiración plenaria y verbal explica ese testimonio.", "autor": "Lewis Sperry Chafer", "obra": "Teología sistemática (tomo 1 y versión resumida)", "pagina": "PDF 154; PDF 3", "tipo": "doctrina", "fuentes": ["r2_038_b#17", "r2_037_b#23"]},
+    {"texto": "Juan abre el libro afirmando que su mensaje es la revelación que Dios dio; junto con 1 Juan 4:6 y las palabras de Pablo, muestra que los apóstoles reclamaban haber recibido su mensaje de Dios.", "autor": "Norman Geisler y Frank Turek", "obra": "No tengo suficiente fe para ser un ateo", "pagina": "PDF 348", "tipo": "apologetica", "fuentes": ["r2_002_a#1"]},
+    {"texto": "La bendición de 1:3 la reciben los que se disciplinan para leer y prestar atención a la Palabra; el motivo principal de esa disciplina es la piedad.", "autor": "Donald Whitney", "obra": "Disciplinas espirituales", "pagina": "PDF 34", "tipo": "aplicacion", "fuentes": ["r2_003_a#1"]},
+    {"texto": "Juan ofrece una mejor vida presente a quien conoce la profecía y ordena su vida según ella: la profecía bíblica es para el mundo real y tiene efecto en lo cotidiano.", "autor": "Paul Benware", "obra": "Entienda la profecía de los últimos tiempos", "pagina": "PDF 9", "tipo": "aplicacion", "fuentes": ["r2_004_a#6"]}
+  ],
+  "conexiones": [
+    {"ref": "Dn 2:28", "nota": "Eco de «las cosas que deben suceder»: Dios es la fuente de lo que revela.", "fuentes": ["ladd_01_a#22", "cbmh_01_a#26"]},
+    {"ref": "Dn 2:45", "nota": "La Septuaginta usa el mismo verbo de «la declaró» para la visión simbólica de la estatua.", "fuentes": ["cpe_03#2"]},
+    {"ref": "Dn 12:4", "nota": "A Daniel se le manda sellar el libro; a Juan, no sellarlo (Ap 22:10).", "fuentes": ["mcgee_01_b#12", "mcgeer_01#20", "web_11_a#1"]},
+    {"ref": "Am 3:7", "nota": "Los profetas como siervos de Dios: uno de los sentidos de «sus siervos».", "fuentes": ["cbmh_01_a#28", "beacon_01_a#22"]},
+    {"ref": "Éx 21:5-6", "nota": "El esclavo que elige quedarse con su amo por amor: la imagen con que MacArthur lee «siervos».", "fuentes": ["macarthur_01#12"]},
+    {"ref": "Lc 18:8", "nota": "Dios hará justicia «pronto»: la misma frase que en 1:1.", "fuentes": ["beacon_01_a#26", "carballosa_02_a#21", "mcgee_01_b#14"]},
+    {"ref": "Neh 8:2-3", "nota": "La lectura pública de la ley ante el pueblo, la práctica detrás de «el que lee».", "fuentes": ["cbmh_01_a#34", "ladd_01_a#27"]},
+    {"ref": "Lc 11:28", "nota": "Jesús bendice a los que oyen la palabra de Dios y la guardan: lo que repite 1:3.", "fuentes": ["cbmh_01_a#35", "henry_01_a#6", "ladd_01_a#27"]}
+  ],
+  "para_vivir": [
+    {"texto": "No es un libro para la curiosidad: sus palabras se guardan, es decir, se obedecen y se practican (Wiersbe). El Comentario Mundo Hispano lo dice así: el Apocalipsis tiene que transformar, no adormecer; su propósito es que seamos fieles en este mundo.", "fuentes": ["r1_024_a#9", "cbmh_01_a#29"]},
+    {"texto": "La bendición se prometió primero a una iglesia reunida alrededor de alguien que leía en voz alta. Ustedes pueden hacer lo mismo en casa: uno lee, el otro escucha, y los dos buscan qué guardar. Kœchlin une el escuchar y guardar la Palabra con frutos en la vida familiar.", "fuentes": ["ladd_01_a#27", "macarthur_01#19", "r2_022_a#39"]},
+    {"texto": "Cambien la ansiedad de calcular por la tarea de velar. No nos toca saber tiempos ni sazones (Hch 1:7), sino estar atentos (Mt 24:42) y vivir en santidad (2 P 3:14). MacArthur recuerda que la Iglesia siempre vivió así, con expectativa continua y las lámparas encendidas (Lc 12:35-40).", "fuentes": ["macarthur_01#16", "web_11_a#5"]},
+    {"texto": "Frente a horóscopos, tarot y adivinos, este libro recuerda que solo Dios conoce y declara el futuro (Is 46:9-10), y que lo dio a conocer en su Palabra (MacArthur).", "fuentes": ["macarthur_01#27", "macarthur_01#26"]},
+    {"texto": "En medio de las discusiones sobre símbolos, rapto y tribulación, Storms pide no perder lo central: el regreso físico y personal de Jesucristo, nuestra bendita esperanza. John Newton lo escribía en una carta de 1781: el Señor reina, y viene un día sin nubes ni noche en que veremos a Jesús tal como es.", "fuentes": ["cpe_06#5", "web_05_c#2"]}
+  ],
+  "para_conversar": [
+    "¿Qué ideas, miedos o expectativas traemos sobre el Apocalipsis? ¿Cuáles confirma y cuáles corrige lo que leímos hoy?",
+    "Si el centro del libro es Jesús, ¿qué cambia en la manera en que vamos a leer los próximos días, sobre todo cuando lleguemos a los juicios y a los símbolos difíciles?",
+    "Leer, oír y guardar: ¿cuál de los tres nos cuesta más como pareja, y qué podemos hacer para que este estudio termine en obediencia y no solo en información?"
+  ],
+  "para_orar": "Padre, gracias porque no nos dejaste a oscuras: corriste el velo para que veamos a tu Hijo. Señor Jesús, abrí nuestros ojos para verte en cada página de este libro, danos humildad para no querer calcular lo que reservaste para ti, y ayúdanos a leer, oír y guardar tu Palabra juntos, mientras esperamos tu venida.",
+  "visuales": ["dg-estructura", "dg-escuelas"],
+  "anexos": ["I1", "I2", "I3", "I4"],
+  "profundizar": [
+    {
+      "titulo": "El Apocalipsis y los apocalipsis judíos",
+      "texto": "La palabra «apocalíptico» la tomaron los eruditos modernos de este libro y la aplicaron a un género: escritos judíos y cristianos del período entre los Testamentos, con raíces en la profecía del Antiguo Testamento, que pretendían revelar los propósitos secretos de Dios y el fin del mundo (Diccionario Mundo Hispano). Ladd admite que el libro comparte rasgos con Enoc, 4 Esdras o Baruc (visiones, simbolismo, interés por el fin), pero señala las diferencias: aquellos son seudónimos y Juan firma con su nombre; reescriben la historia pasada como si fuera profecía y Juan mira hacia adelante; tienden al pesimismo, mientras que para Juan el futuro depende de lo que Dios ya hizo en la muerte de Jesús; y el libro está lleno de alusiones al Antiguo Testamento sin ninguna a los apocalipsis judíos conocidos. Larkin niega, en la misma línea, que sea una recopilación de folclore judío y pagano.",
+      "fuentes": ["ladd_01_a#20", "dbmh_01_b#1", "larkin_01_a#6", "ladd_01_a#22"]
+    },
+    {
+      "titulo": "El título del libro",
+      "texto": "Según Ladd, «El Apocalipsis de San Juan» es la forma más antigua del título: no era parte del original, pero se le puso muy temprano, tomado de 1:1. «La Revelación de San Juan el Divino» aparece en manuscritos griegos, pero no antes de Eusebio, en el siglo IV. Larkin prefiere el título que el libro se da a sí mismo: «La Revelación de Jesucristo». Earle sugiere tomar las tres primeras palabras como título.",
+      "fuentes": ["ladd_01_a#18", "larkin_01_a#3", "beacon_01_a#23"]
+    },
+    {
+      "titulo": "¿Juan autor o escribano?",
+      "texto": "Larkin sostiene que el autor del libro es el Señor Jesús y que Juan fue solo escribano: atribuye a eso que el estilo difiera tanto del Evangelio y de las cartas de Juan, y nota que es el único lugar del Nuevo Testamento en que Jesús estampa su firma (22:16). MacArthur y Guzik, en cambio, presentan a Juan como el testigo que pone por escrito lo que vio.",
+      "fuentes": ["larkin_01_a#5", "macarthur_01#18", "web_03_a#4"]
+    },
+    {
+      "titulo": "Los ángeles en el libro",
+      "texto": "En su comentario, MacArthur cuenta setenta y una veces las palabras «ángel» o «ángeles», una de cada cuatro menciones de la Biblia, y dice que aparecen en todos los capítulos salvo el 4 y el 13; en un sermón da la cifra de 67. McGee explica su prominencia desde su lectura pretribulacional: desde el capítulo 4 todo ocurre después de que la iglesia sale de la tierra.",
+      "fuentes": ["macarthur_01#17", "web_11_a#7", "mcgee_01_b#15"]
+    },
+    {
+      "titulo": "El lector en la iglesia antigua",
+      "texto": "Al principio el lector era alguien elegido por su habilidad para leer bien, algo poco común en la antigüedad; con el tiempo pasó a ser un cargo, y Tertuliano es el primero en mencionarlo (Mundo Hispano). Guzik recoge una escena que cita Trapp: un mártir arrojado al fuego con el libro exclamó “¡Oh bendita Revelación, qué feliz estoy al ser quemado en tu compañía!”.",
+      "fuentes": ["cbmh_01_a#34", "web_03_a#5"]
+    },
+    {
+      "titulo": "Un libro agridulce y descuidado",
+      "texto": "MacArthur cita a Charles Erdman: el libro no esconde la cara oscura; está el Cordero inmolado y también la ira del Cordero, el río de agua de vida y también el lago de fuego. “Un brillante día está por venir, pero hay truenos antes del amanecer”. MacArthur lo llama el libro más malentendido y descuidado del Nuevo Testamento, y Guzik nota que la Iglesia Anglicana prácticamente lo omite en sus lecturas. Larkin va más lejos: ve en ese descuido una estrategia de Satanás, que según él ataca especialmente Génesis y Apocalipsis.",
+      "fuentes": ["macarthur_01#14", "web_11_a#1", "web_03_a#5", "larkin_01_a#9"]
+    }
+  ]
+}

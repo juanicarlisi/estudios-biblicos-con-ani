@@ -2,13 +2,13 @@
 """Arma el insumo de cada día (varon/insumos/dia_NNN.txt): su plan, su lugar en la parte y todas sus notas y datos.
 
 Las «citas textuales» solo entran si verificar_citas.py las encontró en el libro.
-Si un insumo pasa de TOPE caracteres, deja afuera primero las notas de importancia 1 y después acorta las de importancia 2.
+Si un insumo pasa de TOPE caracteres: nivel 1 deja afuera las notas de importancia 1; nivel 2 acorta las de importancia 2 (520) y 3 (1000); nivel 3 las acorta más.
 Uso: insumos.py [dia ...]   (por defecto, todos)
 """
 import json, os, re, sys
 
 V = '/home/user/trabajo/varon'
-TOPE = 160000
+TOPE = 52000        # ≈13.000 tokens de entrada por día; las notas que no entran siguen en notas/ (nada se pierde)
 sys.path.insert(0, f'{V}/scripts')
 from grupos_entrada import notas  # noqa: E402
 
@@ -71,8 +71,11 @@ def main():
                         continue
                     src = fuentes.get(n.get('fuente'), {})
                     cont = n.get('contenido', '')
-                    if imp == 2 and nivel >= 2 and len(cont) > 500:
-                        cont = cont[:500].rsplit(' ', 1)[0] + '…'
+                    tope = {0: 99999, 1: 99999, 2: 520, 3: 520}[nivel] if imp == 2 else {0: 99999, 1: 99999, 2: 1000, 3: 800}[nivel] if imp == 3 else 99999
+                    if nivel >= 3 and imp == 2:
+                        tope = 360
+                    if len(cont) > tope:
+                        cont = cont[:tope].rsplit(' ', 1)[0] + '…'
                     out.append(f"[{i}] (importancia {imp} · {n.get('tipo')} · {src.get('autor', '?')}, {src.get('obra', '?')}, pág. {n.get('pagina', '')}) {n.get('titulo', '')}")
                     out.append(cont)
                     cv = citas.get(i, {})
@@ -100,7 +103,7 @@ def main():
                 v = web[w]
                 wl.append(f"[{w}] «{v['titulo']}», {v['autor']}, {v['sitio']} ({v['detalle']}). Ideas clave: " + ' / '.join(v['ideas_clave'])
                           + (f" Cita textual: «{v['cita']}»" if v.get('cita') else '') + (f" Versículos: {', '.join(v['refs'])}" if v.get('refs') else ''))
-        for nivel in (0, 1, 2):
+        for nivel in (0, 1, 2, 3):
             txt = '\n'.join(cab + bloque_notas(nivel) + wl) + '\n'
             if len(txt) <= TOPE:
                 break

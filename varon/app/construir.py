@@ -126,7 +126,8 @@ def main():
         d['ayuda'] = [k for k, t in ayuda['temas'].items() if re.search(t['patron'], texto)]
     ayuda_app = {'consultado': ayuda.get('consultado', ''), 'temas': {k: {'titulo': t['titulo'], 'lineas': t['lineas']} for k, t in ayuda['temas'].items()}}
     textos.setdefault('como-usar', {'ojo': 'Guía', 'titulo': 'Cómo usar el estudio', 'html': '<p>Un día por vez: leé el pasaje, recorré el estudio y terminá con las preguntas y la oración.</p>'})
-    datos = {'partes': partes, 'plan': plan, 'dias': dias, 'fuentes': fuentes, 'rvr': rvr, 'textos': textos, 'ayuda': ayuda_app,
+    series = json.load(open(f'{V}/web/series.json')) if os.path.exists(f'{V}/web/series.json') else None
+    datos = {'series': series, 'partes': partes, 'plan': plan, 'dias': dias, 'fuentes': fuentes, 'rvr': rvr, 'textos': textos, 'ayuda': ayuda_app,
              'obras': {'libros': [list(o) for o in libros], 'web': [list(o) for o in web_usadas]}, 'aviso_rvr': AVISO_RVR}
     plantilla = open(os.path.join(AQUI, 'plantilla.html')).read()
     js = 'window.DATOS = ' + json.dumps(datos, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/') + ';'

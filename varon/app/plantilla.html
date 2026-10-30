@@ -101,6 +101,7 @@ p { margin: 0 0 14px; }
 .clave blockquote { margin: 0 0 8px; font: 500 1.3rem/1.42 var(--f-texto); font-style: italic; }
 .clave cite { font: 600 .8rem var(--f-ui); color: var(--bronce); font-style: normal; letter-spacing: .04em; }
 .clave .porque { font-size: .92rem; margin: 8px 0 0; }
+.graficos { display: grid; gap: 18px; } .grafico { margin: 0; padding: 14px 16px; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); } .grafico svg { width: 100%; height: auto; display: block; } .grafico figcaption { margin-bottom: 6px; } .leyenda { display: flex; gap: 16px; font-family: var(--f-ui); font-size: .85rem; margin: 4px 0; } .leyenda i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
 .ayuda { margin: 28px 0; padding: 16px 20px; border: 1px solid var(--line); border-left: 4px solid var(--acero); border-radius: var(--radio); background: var(--acero-soft); }
 .ayuda h2 { margin-top: 0; } .ayuda h3 { margin: 14px 0 4px; font-size: 1rem; } .ayuda p { margin: 6px 0; }
 .ayuda ul { margin: 0; padding-left: 18px; } .ayuda li { margin: 6px 0; } .ayuda .tel { font-family: var(--f-ui); color: var(--acero); white-space: nowrap; margin-right: 4px; }
@@ -474,9 +475,36 @@ document.addEventListener('click', e => {
 });
 
 /* ---------- vistas de herramientas ---------- */
+function graficoSexo(sv, sm, titulo, unidad) {
+  const W = 560, H = 230, m = { l: 46, r: 14, t: 16, b: 26 }, pa = (sv.paises.ARG || []), pm = (sm.paises.ARG || []);
+  if (!pa.length) return '';
+  const todos = pa.concat(pm), x0 = Math.min(...todos.map(p => p[0])), x1 = Math.max(...todos.map(p => p[0]));
+  let y0 = Math.min(...todos.map(p => p[1])), y1 = Math.max(...todos.map(p => p[1])); const pad = (y1 - y0) * .12 || 1; y0 -= pad; y1 += pad;
+  const X = v => m.l + (W - m.l - m.r) * (v - x0) / (x1 - x0 || 1), Y = v => H - m.b - (H - m.t - m.b) * (v - y0) / (y1 - y0);
+  const linea = (pts, c) => `<polyline fill="none" stroke="${c}" stroke-width="2.4" stroke-linejoin="round" points="${pts.map(p => X(p[0]).toFixed(1) + ',' + Y(p[1]).toFixed(1)).join(' ')}"/>`;
+  const ult = (pts, c, dy) => { const p = pts[pts.length - 1]; return `<circle cx="${X(p[0])}" cy="${Y(p[1])}" r="3.6" fill="${c}"/><text x="${X(p[0]) - 6}" y="${Y(p[1]) + dy}" text-anchor="end" font-size="12" fill="${c}" font-weight="700">${String(p[1]).replace('.', ',')}</text>`; };
+  const ticks = [0, 1, 2, 3].map(k => y0 + (y1 - y0) * k / 3), xs = [x0, Math.round((x0 + x1) / 2), x1];
+  const otros = ['LCN', 'WLD'].filter(i => sv.paises[i]).map(i => `${esc({ LCN: 'América Latina y el Caribe', WLD: 'Mundo' }[i])}: varones ${String(sv.paises[i].slice(-1)[0][1]).replace('.', ',')}${sm.paises[i] ? ' · mujeres ' + String(sm.paises[i].slice(-1)[0][1]).replace('.', ',') : ''} (${sv.paises[i].slice(-1)[0][0]})`).join(' &nbsp;|&nbsp; ');
+  return `<figure class="grafico"><figcaption><b>${esc(titulo)}</b> <span class="estado">· Argentina${unidad ? ', ' + esc(unidad) : ''}</span></figcaption>
+    <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(titulo)}, Argentina, varones y mujeres">
+      ${ticks.map(t => `<line x1="${m.l}" x2="${W - m.r}" y1="${Y(t)}" y2="${Y(t)}" stroke="var(--line)"/><text x="${m.l - 6}" y="${Y(t) + 4}" text-anchor="end" font-size="11" fill="var(--muted)">${Math.round(t * 10) / 10}</text>`).join('')}
+      ${xs.map(v => `<text x="${X(v)}" y="${H - 6}" text-anchor="middle" font-size="11" fill="var(--muted)">${v}</text>`).join('')}
+      ${linea(pa, 'var(--acero)')}${linea(pm, 'var(--roble)')}${ult(pa, 'var(--acero)', pm.length && pm[pm.length - 1][1] > pa[pa.length - 1][1] ? 18 : -9)}${pm.length ? ult(pm, 'var(--roble)', pm[pm.length - 1][1] > pa[pa.length - 1][1] ? -9 : 18) : ''}
+    </svg>
+    <div class="leyenda"><span><i style="background:var(--acero)"></i>Varones</span><span><i style="background:var(--roble)"></i>Mujeres</span></div>
+    <div class="estado">${otros}</div></figure>`;
+}
+function vistaGraficos() {
+  const S = D.series; if (!S) return '';
+  const g = S.series;
+  return `<h2>Tres gráficos con datos oficiales</h2><p class="estado">${esc(S.fuente)} · consultado el ${esc(S.consultado)}. Se bajan por programa de la API del Banco Mundial; las cifras del último año se ven en cada gráfico.</p><div class="graficos">` +
+    graficoSexo(g.esperanza_vida_varones, g.esperanza_vida_mujeres, 'Cuántos años vive un varón y cuántos una mujer', 'años de vida al nacer') +
+    graficoSexo(g.suicidio_varones, g.suicidio_mujeres, 'Muertes por suicidio por sexo', 'cada 100.000 personas del mismo sexo') +
+    graficoSexo(g.secundaria_varones, g.secundaria_mujeres, 'Matrícula en la escuela secundaria por sexo', '% bruto') + '</div>';
+}
 function vistaDatos() {
   const items = []; Object.entries(D.dias).forEach(([d, x]) => (x.datos || []).forEach(dt => items.push({ ...dt, d: +d })));
-  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Los datos de la crisis</h1><p class="bajada">Las cifras que aparecen en el estudio, con su fuente y su año. Argentina y Latinoamérica primero, y al lado los datos internacionales.</p>
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Los datos de la crisis</h1><p class="bajada">Las cifras que aparecen en el estudio, con su fuente y su año. Argentina y Latinoamérica primero, y al lado los datos internacionales.</p>${vistaGraficos()}
     <div class="datos">${items.map(dt => `<div class="dato">${dt.valor ? `<span class="valor">${esc(dt.valor)}</span>` : '<span></span>'}<p>${esc(dt.texto)} <a href="#dia-${dt.d}">día ${dt.d}</a></p><span class="fte">${chips(dt.fuentes)}</span></div>`).join('') || '<p>Todavía no hay datos.</p>'}</div></div>`;
 }
 function vistaModelos() {

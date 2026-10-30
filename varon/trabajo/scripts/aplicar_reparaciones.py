@@ -26,10 +26,14 @@ def main():
             if e.get('type') == 'started':
                 lab[e['agentId']] = e.get('label', '')
             elif e.get('type') == 'result':
-                m = re.match(r'reparar:dia(\d+)', lab.get(e.get('agentId'), ''))
+                et = lab.get(e.get('agentId'), '')
                 v = e['result']; v = json.loads(v) if isinstance(v, str) else v
+                m = re.match(r'reparar:dia(\d+)', et)
                 if m and v:
-                    cambios[int(m.group(1))] = v['cambios']
+                    cambios.setdefault(int(m.group(1)), []).extend(v['cambios'])
+                elif et.startswith('reparar:grupo') and v:
+                    for c in v['cambios']:
+                        cambios.setdefault(int(c['dia']), []).append(c)
     for d, cs in cambios.items():
         fn = f'{V}/dias/borradores/dia_{d:03d}.json'
         x = json.load(open(fn))

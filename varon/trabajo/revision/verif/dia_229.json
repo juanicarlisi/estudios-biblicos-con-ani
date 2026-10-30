@@ -1,1 +1,1 @@
-{"ok": false, "cuerpo": 2220, "flags": [{"ruta": "entrada.texto", "tipo": "cifras", "detalle": "la cifra 230 no está en el insumo"}, {"ruta": "profundizar[7].texto", "tipo": "cifras", "detalle": "la cifra 379 no está en el insumo"}]}
+{"ok": true, "cuerpo": 2204, "flags": []}

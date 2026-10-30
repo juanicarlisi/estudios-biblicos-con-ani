@@ -49,6 +49,15 @@ def main():
         open(f'{V}/reparar/dia_{d:03d}.txt', 'w').write('\n'.join(out) + '\n')
         dias.append(d)
     json.dump(dias, open(f'{V}/reparar/_dias.json', 'w'))
+    # grupos de N días por archivo: un agente corrige varios días con UNA lectura (reparte el costo fijo del agente)
+    N = int(sys.argv[sys.argv.index('--grupo') + 1]) if '--grupo' in sys.argv else 6
+    for f in glob.glob(f'{V}/reparar/grupo_*.txt'):
+        os.remove(f)
+    grupos = [dias[i:i + N] for i in range(0, len(dias), N)]
+    for k, g in enumerate(grupos, 1):
+        open(f'{V}/reparar/grupo_{k:02d}.txt', 'w').write('\n\n=====\n\n'.join(open(f'{V}/reparar/dia_{d:03d}.txt').read() for d in g))
+    json.dump(grupos, open(f'{V}/reparar/_grupos.json', 'w'))
+    print(f'{len(grupos)} grupos de hasta {N} días')
     print(f'{len(dias)} días a reparar · tamaño medio {sum(os.path.getsize(f"{V}/reparar/dia_{d:03d}.txt") for d in dias) // max(1, len(dias))} bytes')
 
 

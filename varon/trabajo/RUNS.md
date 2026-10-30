@@ -37,3 +37,5 @@
 - Escribir2: piloto Sonnet/medio días 100 y 150 (wf_8544cbb7-029): ~91k tokens/día (antes ~170k), 80 s/día; flags iguales o menos que Opus+verificador.
 - Escribir2 (287 días que faltaban, Sonnet/medio, sin verificador de IA; luego verificar_dia.py): wf_c135a7fa-2ec wf_ab7986d7-f14 wf_7ae4e594-57b wf_f63208aa-6f6 wf_64eb1397-166 wf_78b1956d-59a wf_ccd95125-f4a wf_d4197528-032 wf_65be0e45-2e1 wf_46def1de-716 wf_d9325305-3db wf_508c70e0-a0e   (listas en plan/lanzados_escribir2.json y plan/resto_escribir2.json; el día 237 se escribió de más)
 - Reparar (136 borradores con flags, Sonnet/bajo): wf_537f45bc-8bd wf_5e7fea76-e7f wf_43c4be75-a71 → luego aplicar_reparaciones.py <runs>, verificar_dia.py, promover.py
+- Reparar ronda 2 (11 días, en 2 grupos de 6): wf_05a8313a-8d5 → aplicar_reparaciones.py wf_05a8313a-8d5 (maneja grupos). Ronda 1 aplicada: 214 días definitivos.
+- 31-10: 512 días escritos (borradores). Recortar días largos (85, en 15 grupos): wf_040160cf-321 wf_df8b5102-e7b wf_54468808-deb → aplicar_recorte.py <runs> → verificar_dia.py → reparar_entrada.py --grupo 6 + wf_varon_reparar.js {grupos} → aplicar_reparaciones.py → promover.py

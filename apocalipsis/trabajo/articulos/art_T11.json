@@ -4,15 +4,38 @@
   "bajada": "Cómo leen Apocalipsis 20:1-6 las grandes escuelas, en qué difieren sobre la atadura de Satanás y la primera resurrección, y qué confiesan todas juntas.",
   "entrada": {
     "texto": "Entre 20:2 y 20:7 la expresión «mil años» aparece seis veces. De esos pocos versículos sale uno de los debates más largos de la historia de la iglesia. McGee lo llama la gran línea divisoria entre los expositores, y enseguida agrega que quienes discrepan están en buena compañía y que nadie tiene por qué insultar al otro. La pregunta de fondo es sencilla de formular: ¿Cristo vuelve antes de ese reinado de mil años o después? Los premilenialistas responden que antes; los posmilenialistas, que después de que la iglesia, por el evangelio, haya traído el milenio; los amilenialistas, que el milenio no es un reinado terrenal futuro sino la era que vivimos.",
-    "fuentes": ["carballosa_16_b#4", "mcgeer_12#31", "cpe_07#1", "beacon_05_a#20"]
+    "fuentes": [
+      "carballosa_16_b#4",
+      "mcgeer_12#31",
+      "cpe_07#1",
+      "beacon_05_a#20"
+    ]
   },
   "versiculos": [
-    {"ref": "20:2", "porque": "El dragón es prendido y atado por mil años: la primera de las seis menciones del número."},
-    {"ref": "20:3", "porque": "Dice para qué es la atadura (que no engañe más a las naciones), el punto donde las escuelas se separan."},
-    {"ref": "20:4", "porque": "Los tronos, las almas de los decapitados y el verbo «vivieron»: el centro de la discusión exegética."},
-    {"ref": "20:5", "porque": "«Los otros muertos» y «la primera resurrección»: ¿una o dos resurrecciones del mismo tipo?"},
-    {"ref": "20:6", "porque": "La bienaventuranza que todas las escuelas celebran: la segunda muerte no tiene poder sobre los que reinan con Cristo."},
-    {"ref": "20:7", "porque": "Satanás suelto al cumplirse los mil años: cada escuela tiene que explicar esa liberación."}
+    {
+      "ref": "20:2",
+      "porque": "El dragón atado por mil años: la primera mención del número."
+    },
+    {
+      "ref": "20:3",
+      "porque": "Para qué es la atadura: que no engañe más a las naciones."
+    },
+    {
+      "ref": "20:4",
+      "porque": "Los tronos, las almas y el verbo «vivieron»: el centro del debate."
+    },
+    {
+      "ref": "20:5",
+      "porque": "«La primera resurrección» y «los otros muertos»."
+    },
+    {
+      "ref": "20:6",
+      "porque": "La bienaventuranza que todas las escuelas celebran."
+    },
+    {
+      "ref": "20:7",
+      "porque": "Satanás suelto: cada escuela explica esa liberación."
+    }
   ],
   "apartados": [
     {
@@ -20,15 +43,27 @@
       "parrafos": [
         {
           "texto": "Ladd, que es premilenialista, reconoce que Apocalipsis 20 es el único pasaje de la Biblia que enseña un reinado temporal de mil años, y el Comentario Mundo Hispano, amilenialista, coincide. Grudem cuenta que el primer argumento amilenialista es ese: no conviene apoyar una doctrina importante en un solo pasaje difícil. Él mismo, premilenarista, advierte que en la profecía sobre el futuro la certeza es menor que en otras doctrinas.",
-          "fuentes": ["ladd_07_b#19", "cbmh_07#34", "r1_027#29"]
+          "fuentes": [
+            "ladd_07_b#19",
+            "cbmh_07#34",
+            "r1_027#29"
+          ]
         },
         {
           "texto": "Juan da pocos detalles. Mundo Hispano los enumera: Satanás atado, mártires fieles que viven, tronos, bienaventurados que no temen la segunda muerte y que sirven como sacerdotes. El milenio aparece casi de paso; el centro de los versículos 4 al 6 es la primera resurrección.",
-          "fuentes": ["cbmh_07#38"]
+          "fuentes": [
+            "cbmh_07#38"
+          ]
         },
         {
-          "texto": "Antes de discutir el número hay una pregunta de estructura: ¿el capítulo 20 sigue en el tiempo al 19 o vuelve al comienzo de la era cristiana? La lectura amilenial se apoya en la recapitulación: el libro no narra hechos consecutivos sino que recorre el mismo período desde distintos ángulos, y Satanás, el enemigo mayor, es juzgado último. Ladd responde que en el capítulo 12 la mirada vuelve claramente al nacimiento del Mesías, pero que en el 20 no hay ninguna señal así; los capítulos 18 al 20 forman una serie: cae Babilonia, después la bestia y el falso profeta, y por último Satanás, en dos etapas. Carballosa y MacArthur suman la fórmula griega «y vi», que en 19:11, 17, 19 y 20:1, 4, 11 marcaría progresión y no regreso.",
-          "fuentes": ["ladd_07_b#2", "cbmh_07#34", "ladd_07_b#5", "carballosa_16_a#4", "carballosa_15_b#17"]
+          "texto": "Antes de discutir el número hay una pregunta de estructura: ¿el capítulo 20 sigue en el tiempo al 19 o vuelve al comienzo de la era cristiana? La lectura amilenial se apoya en la recapitulación: el libro recorre el mismo período desde distintos ángulos, y Satanás, el enemigo mayor, es juzgado último. Ladd responde que en el capítulo 12 la mirada vuelve claramente al nacimiento del Mesías, pero en el 20 no hay señal así: los capítulos 18 al 20 forman una serie (cae Babilonia, después la bestia y el falso profeta, por último Satanás). Carballosa y MacArthur suman la fórmula «y vi», que de 19:11 a 20:11 marcaría progresión.",
+          "fuentes": [
+            "ladd_07_b#2",
+            "cbmh_07#34",
+            "ladd_07_b#5",
+            "carballosa_16_a#4",
+            "carballosa_15_b#17"
+          ]
         }
       ]
     },
@@ -37,19 +72,40 @@
       "parrafos": [
         {
           "texto": "Para el premilenialismo el capítulo 20 es enteramente futuro: Cristo vuelve, Satanás es atado, los santos resucitan y reinan con él en la tierra, y al final hay una última rebelión y el juicio. Hay dos familias. Las dos enseñan ese reinado terrenal inaugurado por la segunda venida y, después, cielos nuevos y tierra nueva donde Cristo reina para siempre.",
-          "fuentes": ["ladd_07_b#4", "carballosa_15_b#19", "cpe_02#1"]
+          "fuentes": [
+            "ladd_07_b#4",
+            "carballosa_15_b#19",
+            "cpe_02#1"
+          ]
         },
         {
-          "texto": "El premilenialismo histórico (Ladd, Beasley-Murray, Grudem) cree que la iglesia pasará por la gran tribulación y no separa tajantemente a Israel de la iglesia; Ladd lee el Apocalipsis como profecía del destino de la iglesia. Ligonier le encuentra raíces en el siglo II, con Justino e Ireneo y quizá Papías. Sobre el número, Ladd piensa que mil, diez a la tercera potencia, es simbólico pero describe un período real; Grudem aclara que unos premilenaristas lo toman literalmente y otros no. Beasley-Murray sugiere que Juan pudo usar la cifra para presentar el milenio como un descanso de Dios para la humanidad, más que para fijar su duración.",
-          "fuentes": ["ladd_07_b#4", "carballosa_15_b#19", "web_13#9", "ladd_07_b#7", "r1_027#27", "henry_02_b#18"]
+          "texto": "El premilenialismo histórico (Ladd, Beasley-Murray, Grudem) cree que la iglesia pasará por la gran tribulación y no separa tajantemente a Israel de la iglesia. Ligonier le encuentra raíces en el siglo II, con Justino e Ireneo. Ladd piensa que mil es un número simbólico que describe un período real; Beasley-Murray sugiere que Juan pudo usarlo para presentar el milenio como un descanso de Dios para la humanidad, más que para fijar su duración.",
+          "fuentes": [
+            "ladd_07_b#4",
+            "carballosa_15_b#19",
+            "web_13#9",
+            "ladd_07_b#7",
+            "r1_027#27",
+            "henry_02_b#18"
+          ]
         },
         {
-          "texto": "El premilenialismo dispensacional (Carballosa, MacArthur, McGee, Benware) afirma aplicar siempre la interpretación literal, distingue a Israel de la iglesia, enseña el arrebatamiento antes de la tribulación y espera que en el milenio se cumplan los pactos hechos con Abraham y David. Toma los mil años al pie de la letra: MacArthur cita a Robert Thomas, para quien ningún número verificable del libro es simbólico, y Benware recuerda que Juan, cuando quiere decir algo indefinido, lo dice (millones de millones, una gran multitud). Según Ligonier, esta forma nació en el siglo XIX con Darby y los Hermanos de Plymouth y se difundió con la Biblia de Scofield y con Chafer.",
-          "fuentes": ["carballosa_19#14", "carballosa_15_b#19", "macarthur_16#45", "r1_008#11", "web_13#10"]
+          "texto": "El premilenialismo dispensacional (Carballosa, MacArthur, McGee, Benware) afirma aplicar siempre la interpretación literal, distingue a Israel de la iglesia, enseña el arrebatamiento antes de la tribulación y espera que en el milenio se cumplan los pactos hechos con Abraham y David. Toma los mil años al pie de la letra. Según Ligonier, esta forma nació en el siglo XIX con Darby y los Hermanos de Plymouth y se difundió con la Biblia de Scofield y con Chafer.",
+          "fuentes": [
+            "carballosa_19#14",
+            "carballosa_15_b#19",
+            "web_13#10"
+          ]
         },
         {
-          "texto": "En 20:1-6 los premilenialistas ven una atadura futura, que llega después de que la bestia y el falso profeta fueron echados al lago de fuego (19:20). Benware, MacArthur y Carballosa señalan que hoy Satanás sigue activo (Hch 5:3; 2 Co 4:3-4; 1 Ts 2:18; 1 P 5:8). La primera resurrección es corporal. Los dispensacionalistas agregan que ocurre por etapas: McGee, como juicio personal, la ve empezar con Cristo, seguir con la iglesia en el arrebatamiento y completarse con los mártires de la tribulación y los santos del Antiguo Testamento; Carballosa, citando a Aldrich, explica que primera puede querer decir primera en clase, la resurrección de vida de Juan 5:29.",
-          "fuentes": ["carballosa_15_b#25", "r1_004#7", "macarthur_16#54", "mcgee_11_a#9", "carballosa_16_b#2"]
+          "texto": "En 20:1-6 los premilenialistas ven una atadura futura, que llega después de que la bestia y el falso profeta fueron echados al lago de fuego (19:20). Benware, MacArthur y Carballosa señalan que hoy Satanás sigue activo (Hch 5:3; 2 Co 4:3-4; 1 Ts 2:18; 1 P 5:8). La primera resurrección es corporal; los dispensacionalistas agregan que ocurre por etapas (Cristo, la iglesia en el arrebatamiento, los mártires de la tribulación y los santos del Antiguo Testamento).",
+          "fuentes": [
+            "carballosa_15_b#25",
+            "r1_004#7",
+            "macarthur_16#54",
+            "mcgee_11_a#9",
+            "carballosa_16_b#2"
+          ]
         }
       ]
     },
@@ -58,19 +114,41 @@
       "parrafos": [
         {
           "texto": "El amilenialismo enseña que los mil años son la era entre las dos venidas, con Cristo reinando desde el trono celestial. Por eso muchos prefieren llamarlo milenio realizado: no niega el milenio, lo ubica en el presente. Después vienen una sola segunda venida, la resurrección general, el juicio final y la tierra nueva. Lo sostuvieron Agustín, Calvino y otros reformadores, y más cerca nuestro Bavinck, Vos, Berkhof y Hoekema.",
-          "fuentes": ["cpe_02#7", "cpe_01#20", "carballosa_19#14", "web_13#11", "web_05_c#6"]
+          "fuentes": [
+            "cpe_02#7",
+            "cpe_01#20",
+            "carballosa_19#14",
+            "web_13#11",
+            "web_05_c#6"
+          ]
         },
         {
-          "texto": "La atadura de Satanás ya ocurrió en la primera venida. Se apoyan en el hombre fuerte atado (Mt 12:29), en Satanás que cae como un rayo (Lc 10:17-18), en el príncipe de este mundo echado fuera (Jn 12:31-32) y en los principados despojados (Col 2:15). Hoekema lo relaciona con la Gran Comisión: Satanás no puede impedir que las naciones conozcan el evangelio. Benware aclara que, para ellos, eso no significa que Satanás no pueda hacer daño. Sugel Michelén sostiene que un texto simbólico como Apocalipsis 20 se interpreta a la luz de los textos claros de los evangelios y las epístolas, y no al revés. Mundo Hispano subraya que el abismo es una restricción temporal, no el castigo final, y que el poder de Satanás está en el engaño, no en la fuerza.",
-          "fuentes": ["carballosa_16_a#5", "r1_004#4", "web_18#3", "cbmh_07#35"]
+          "texto": "La atadura de Satanás ya ocurrió en la primera venida. Se apoyan en el hombre fuerte atado (Mt 12:29), en Satanás que cae como un rayo (Lc 10:17-18), en el príncipe de este mundo echado fuera (Jn 12:31-32) y en los principados despojados (Col 2:15). Hoekema lo relaciona con la Gran Comisión: Satanás no puede impedir que las naciones conozcan el evangelio, aunque todavía puede hacer daño. Sugel Michelén sostiene que un texto simbólico como Apocalipsis 20 se interpreta a la luz de los textos claros de los evangelios y las epístolas, y no al revés.",
+          "fuentes": [
+            "carballosa_16_a#5",
+            "r1_004#4",
+            "web_18#3",
+            "cbmh_07#35"
+          ]
         },
         {
-          "texto": "El número se lee como símbolo. Mundo Hispano: diez expresa algo completo y mil es diez a la tercera potencia, un período largo y de duración indefinida que va de la primera venida hasta poco antes de la segunda. Un artículo de Coalición agrega que en la Escritura mil años o mil generaciones siempre expresan algo extenso y completo desde la mirada de Dios (Sal 90:4; 105:8; 2 P 3:8). Swete y Lenski, citados por Beacon, piensan lo mismo.",
-          "fuentes": ["cbmh_07#36", "cpe_01#21", "beacon_05_a#20"]
+          "texto": "El número se lee como símbolo. Mundo Hispano: diez expresa algo completo y mil es diez a la tercera potencia, un período largo y de duración indefinida que va de la primera venida hasta poco antes de la segunda. Un artículo de Coalición agrega que en la Escritura mil años o mil generaciones siempre expresan algo extenso y completo (Sal 90:4; 105:8; 2 P 3:8).",
+          "fuentes": [
+            "cbmh_07#36",
+            "cpe_01#21",
+            "beacon_05_a#20"
+          ]
         },
         {
           "texto": "Los tronos de 20:4 estarían en el cielo: en el Apocalipsis casi todos los tronos lo están, y «almas» designa en 6:9 a creyentes muertos. Para Alcántara y Mundo Hispano, la primera resurrección es el paso del creyente a la vida con Cristo al morir (2 Co 5:8; Fil 1:23). Otros amilenialistas la entienden como el nuevo nacimiento (Jn 5:25; Ef 2:5-6). La segunda es la resurrección corporal de todos al final. Berkhof agrega que la Biblia nombra juntas la resurrección de justos e injustos (Dn 12:2; Jn 5:28-29; Hch 24:15).",
-          "fuentes": ["cbmh_07#39", "cpe_02#11", "cbmh_07#40", "ladd_07_b#3", "r1_004#5", "r1_029#25"]
+          "fuentes": [
+            "cbmh_07#39",
+            "cpe_02#11",
+            "cbmh_07#40",
+            "ladd_07_b#3",
+            "r1_004#5",
+            "r1_029#25"
+          ]
         }
       ]
     },
@@ -78,12 +156,22 @@
       "titulo": "Posmilenialismo: el evangelio avanza y después vuelve Cristo",
       "parrafos": [
         {
-          "texto": "El posmilenialismo espera que Cristo vuelva después de un milenio de expansión del evangelio, conversiones masivas y florecimiento humano. Ladd explica que, en esta lectura, el capítulo 19 no describe la segunda venida sino, de modo simbólico, el triunfo de Cristo por medio de su iglesia. Benware resume sus lecturas de Apocalipsis 20: coincide con el premilenialismo en que el 20 sigue al 19, pero ve en el jinete del caballo blanco a Cristo venciendo por el evangelio; la atadura significa que Satanás no puede engañar a las naciones; la primera resurrección no es física (quizás el renacer del espíritu de los mártires o la reivindicación de su causa); hacia el final estalla la maldad y después vienen la resurrección y el juicio generales. Los mil años son, para unos, toda la era entre las venidas; para otros, una edad de oro que llega de a poco.",
-          "fuentes": ["cpe_07#1", "ladd_07_b#1", "r1_004#13", "web_13#11"]
+          "texto": "El posmilenialismo espera que Cristo vuelva después de un milenio de expansión del evangelio, conversiones masivas y florecimiento humano. Ladd explica que, en esta lectura, el capítulo 19 no describe la segunda venida sino, de modo simbólico, el triunfo de Cristo por medio de su iglesia. Benware resume sus lecturas de Apocalipsis 20: el 20 sigue al 19, pero el jinete del caballo blanco es Cristo venciendo por el evangelio; la atadura significa que Satanás no puede engañar a las naciones; la primera resurrección no es física; al final estalla la maldad y vienen la resurrección y el juicio generales. Los mil años son, para unos, toda la era entre las venidas; para otros, una edad de oro que llega de a poco.",
+          "fuentes": [
+            "cpe_07#1",
+            "ladd_07_b#1",
+            "r1_004#13",
+            "web_13#11"
+          ]
         },
         {
           "texto": "Carballosa nombra como primer posmilenarista a Joaquín de Fiore, en el siglo XII, y a Daniel Whitby como quien lo sistematizó. Fue la postura de muchos puritanos, de Jonathan Edwards, de los dos Hodge y de Warfield, según Ligonier, y dominó en los siglos XVIII y XIX. Decayó con las guerras mundiales y tuvo un leve resurgimiento a fines del siglo XX; Boettner es uno de sus defensores. Ligonier observa que el posmilenialismo que identifica el milenio con toda la era se parece mucho al amilenialismo.",
-          "fuentes": ["carballosa_19#14", "web_13#11", "r1_004#12", "cpe_07#1"]
+          "fuentes": [
+            "carballosa_19#14",
+            "web_13#11",
+            "r1_004#12",
+            "cpe_07#1"
+          ]
         }
       ]
     },
@@ -91,12 +179,14 @@
       "titulo": "Una historia larga",
       "parrafos": [
         {
-          "texto": "Beasley-Murray afirma que el reino de mil años en la tierra fue la interpretación más común de la iglesia primitiva, y un artículo de Coalición concluye que los dispensacionalistas popularizaron el premilenialismo pero no lo inventaron. MacArthur y Mayhue cuentan el giro: Orígenes difundió la interpretación alegórica, Ticonio vio la primera resurrección como el nuevo nacimiento, y Agustín, al que llaman padre del amilenialismo, dejó el premilenialismo por los excesos carnales que veía en algunos milenaristas de su tiempo e identificó a la iglesia con el reino. Pentecost agrega que los reformadores, concentrados en la salvación, siguieron mayormente la línea agustiniana.",
-          "fuentes": ["henry_02_b#16", "cpe_02#2", "r1_035#25", "carballosa_15_b#22", "r1_018#28"]
-        },
-        {
-          "texto": "Hoy el mapa varía según la región. El mismo artículo de Coalición cita una encuesta de la Asociación Nacional de Evangélicos de Estados Unidos: hace una década el 65 % de los evangélicos de ese país se consideraba premilenial, el 13 % amilenial y el 4 % posmilenial. En América Latina probablemente predomina el premilenialismo dispensacional, por los primeros misioneros y por la Biblia de Estudio Scofield.",
-          "fuentes": ["cpe_02#2"]
+          "texto": "Beasley-Murray afirma que el reino de mil años en la tierra fue la interpretación más común de la iglesia primitiva, y un artículo de Coalición concluye que los dispensacionalistas popularizaron el premilenialismo pero no lo inventaron. MacArthur y Mayhue cuentan el giro: Orígenes difundió la interpretación alegórica, Ticonio vio la primera resurrección como el nuevo nacimiento, y Agustín, al que llaman padre del amilenialismo, dejó el premilenialismo por los excesos carnales que veía en algunos milenaristas de su tiempo e identificó a la iglesia con el reino. Pentecost agrega que los reformadores siguieron mayormente la línea agustiniana. Hoy, según el mismo artículo de Coalición, en América Latina probablemente predomina el premilenialismo dispensacional, por los primeros misioneros y la Biblia de Estudio Scofield.",
+          "fuentes": [
+            "henry_02_b#16",
+            "cpe_02#2",
+            "r1_035#25",
+            "carballosa_15_b#22",
+            "r1_018#28"
+          ]
         }
       ]
     },
@@ -105,75 +195,345 @@
       "parrafos": [
         {
           "texto": "Christopher Morgan advierte que las lecturas de Apocalipsis 20 no pueden ser todas correctas, pero que no hay que agrandar las diferencias hasta perder lo común: desde el siglo I hasta hoy los cristianos confiesan juntos el regreso de Cristo, la resurrección de los muertos, el juicio final y el destino eterno en el cielo o en el infierno. La iglesia de Capitol Hill (9Marcas) recuerda que todas las posturas las sostuvieron creyentes genuinos y grandes teólogos, y que ninguna es condición de salvación. Ligonier suma que todas parten de lo mismo: Jesús resucitó y tiene toda autoridad (Mt 28:18).",
-          "fuentes": ["cpe_03#17", "web_05_c#6", "web_13#11"]
+          "fuentes": [
+            "cpe_03#17",
+            "web_05_c#6",
+            "web_13#11"
+          ]
         },
         {
           "texto": "Por eso los mismos autores piden humildad. Grudem ruega a los evangélicos ser comprensivos con otras posturas; McGee pide no insultarse; Mark Dever sostiene que el milenio no debe dividir a una congregación. Y el texto, se lea como se lea, termina en una bienaventuranza: «Bienaventurado y santo» el que tiene parte en la primera resurrección; «la segunda muerte no tiene potestad sobre estos».",
-          "fuentes": ["r1_027#29", "mcgeer_12#31", "web_05_c#7", "cbmh_07#38"]
+          "fuentes": [
+            "r1_027#29",
+            "mcgeer_12#31",
+            "web_05_c#7",
+            "cbmh_07#38"
+          ]
         }
       ]
     }
   ],
   "palabras": [
-    {"ref": "20:4", "griego": "ἔζησαν", "translit": "ézesan", "significado": "«Vivieron». Ladd y MacArthur sostienen que, dicho de muertos, indica resurrección corporal, y que la misma palabra no puede cambiar de sentido entre el v. 4 y el v. 5. Mundo Hispano admite ese uso, pero aquí lo lee como vida con Cristo en el cielo.", "fuentes": ["ladd_07_b#16", "macarthur_17_a#4", "cbmh_07#40"]},
-    {"ref": "20:1", "griego": "καὶ εἶδον", "translit": "kaì eîdon", "significado": "«Y vi». Para Carballosa y MacArthur marca progresión entre las visiones de 19:11 a 20:12, no un regreso al comienzo.", "fuentes": ["carballosa_16_a#4", "macarthur_16#50"]},
-    {"ref": "20:5", "griego": "πρώτη", "translit": "prṓtē", "significado": "«Primera». Aldrich, citado por Carballosa, recuerda que puede indicar orden en el tiempo o en clase, como cuando Pablo se llama el primero de los pecadores.", "fuentes": ["carballosa_16_b#2"]}
+    {
+      "ref": "20:4",
+      "griego": "ἔζησαν",
+      "translit": "ézesan",
+      "significado": "«Vivieron». Para Ladd y MacArthur, dicho de muertos indica resurrección corporal, y no puede cambiar de sentido entre los vv. 4 y 5. Mundo Hispano lo lee como vida con Cristo en el cielo.",
+      "fuentes": [
+        "ladd_07_b#16",
+        "macarthur_17_a#4",
+        "cbmh_07#40"
+      ]
+    },
+    {
+      "ref": "20:1",
+      "griego": "καὶ εἶδον",
+      "translit": "kaì eîdon",
+      "significado": "«Y vi». Para Carballosa y MacArthur marca progresión entre las visiones de 19:11 a 20:12, no un regreso al comienzo.",
+      "fuentes": [
+        "carballosa_16_a#4",
+        "macarthur_16#50"
+      ]
+    },
+    {
+      "ref": "20:5",
+      "griego": "πρώτη",
+      "translit": "prṓtē",
+      "significado": "«Primera». Aldrich, citado por Carballosa, recuerda que puede indicar orden en el tiempo o en clase, como cuando Pablo se llama el primero de los pecadores.",
+      "fuentes": [
+        "carballosa_16_b#2"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Cuándo es atado Satanás (20:1-3)?",
       "posturas": [
-        {"postura": "Ya fue atado en la primera venida: no puede impedir que el evangelio llegue a las naciones, aunque todavía hace daño.", "quien": "Hoekema, Comentario Mundo Hispano, Sugel Michelén (amilenial); muchos posmilenialistas, según MacArthur", "fuentes": ["carballosa_16_a#5", "cbmh_07#35", "web_18#3", "macarthur_16#54"]},
-        {"postura": "Es una atadura escatológica distinta de la de Mateo 12: allí se liberaba a personas de demonios; aquí deja de engañar a las naciones. La victoria de la cruz es definitiva, en cambio esta atadura prevé una liberación.", "quien": "Ladd (premilenial histórico)", "fuentes": ["ladd_07_b#8", "ladd_07_b#10"]},
-        {"postura": "Confinamiento futuro y completo en el abismo, después de 19:20; hoy Satanás sigue activo.", "quien": "Carballosa, MacArthur, Benware (premilenial dispensacional)", "fuentes": ["r1_004#7", "macarthur_16#54", "carballosa_16_a#15"]}
+        {
+          "postura": "Ya fue atado en la primera venida: no puede impedir que el evangelio llegue a las naciones, aunque todavía hace daño.",
+          "quien": "Hoekema, Comentario Mundo Hispano, Sugel Michelén (amilenial); muchos posmilenialistas, según MacArthur",
+          "fuentes": [
+            "carballosa_16_a#5",
+            "cbmh_07#35",
+            "web_18#3",
+            "macarthur_16#54"
+          ]
+        },
+        {
+          "postura": "Atadura futura, distinta de la de Mateo 12: allí se liberaba a personas de demonios; aquí deja de engañar a las naciones, y a diferencia de la victoria de la cruz, prevé una liberación.",
+          "quien": "Ladd (premilenial histórico)",
+          "fuentes": [
+            "ladd_07_b#8",
+            "ladd_07_b#10"
+          ]
+        },
+        {
+          "postura": "Confinamiento futuro y completo en el abismo, después de 19:20; hoy Satanás sigue activo.",
+          "quien": "Carballosa, MacArthur, Benware (premilenial dispensacional)",
+          "fuentes": [
+            "r1_004#7",
+            "macarthur_16#54",
+            "carballosa_16_a#15"
+          ]
+        }
       ],
-      "nota": "Todos afirman que Cristo derrotó a Satanás en la cruz y que su fin está asegurado (20:10). Difieren en si 20:1-3 describe esa victoria o una etapa posterior."
+      "nota": "Todos afirman que Cristo derrotó a Satanás en la cruz; difieren en si 20:1-3 describe esa victoria o una etapa posterior."
     },
     {
       "tema": "¿Qué es «la primera resurrección» (20:4-6)?",
       "posturas": [
-        {"postura": "Resurrección corporal de los creyentes antes del milenio; «los otros muertos» resucitan después.", "quien": "Ladd, Beasley-Murray (premilenial histórico); MacArthur (premilenial dispensacional); Simcox, citado por Beacon", "fuentes": ["ladd_07_b#20", "henry_02_b#19", "macarthur_17_a#4", "beacon_05_a#23"]},
-        {"postura": "Corporal y por etapas: Cristo, la iglesia en el arrebatamiento, los mártires de la tribulación y los santos del Antiguo Testamento.", "quien": "McGee, Carballosa (premilenial dispensacional)", "fuentes": ["mcgee_11_a#9", "carballosa_16_b#2"]},
-        {"postura": "La vida del creyente con Cristo en el cielo después de morir, o el nuevo nacimiento; la única resurrección corporal es al final.", "quien": "Alcántara, Comentario Mundo Hispano, Berkhof (amilenial)", "fuentes": ["cpe_02#11", "cbmh_07#40", "r1_004#5", "r1_029#25"]},
-        {"postura": "No física: quizás el renacer del espíritu de los mártires o la reivindicación de su causa.", "quien": "Posmilenialistas, según Benware", "fuentes": ["r1_004#13"]}
+        {
+          "postura": "Resurrección corporal de los creyentes antes del milenio; «los otros muertos» resucitan después.",
+          "quien": "Ladd, Beasley-Murray (premilenial histórico); MacArthur (premilenial dispensacional); Simcox, citado por Beacon",
+          "fuentes": [
+            "ladd_07_b#20",
+            "henry_02_b#19",
+            "macarthur_17_a#4",
+            "beacon_05_a#23"
+          ]
+        },
+        {
+          "postura": "Corporal y por etapas: Cristo, la iglesia en el arrebatamiento, los mártires de la tribulación y los santos del Antiguo Testamento.",
+          "quien": "McGee, Carballosa (premilenial dispensacional)",
+          "fuentes": [
+            "mcgee_11_a#9",
+            "carballosa_16_b#2"
+          ]
+        },
+        {
+          "postura": "La vida del creyente con Cristo en el cielo después de morir, o el nuevo nacimiento; la única resurrección corporal es al final.",
+          "quien": "Alcántara, Comentario Mundo Hispano, Berkhof (amilenial)",
+          "fuentes": [
+            "cpe_02#11",
+            "cbmh_07#40",
+            "r1_004#5",
+            "r1_029#25"
+          ]
+        },
+        {
+          "postura": "No física: quizás el renacer del espíritu de los mártires o la reivindicación de su causa.",
+          "quien": "Posmilenialistas, según Benware",
+          "fuentes": [
+            "r1_004#13"
+          ]
+        }
       ],
       "nota": "Ninguna escuela discute lo que dice 20:6: los que tienen parte en ella son bienaventurados y la segunda muerte no tiene poder sobre ellos."
     },
     {
       "tema": "¿Los mil años son literales?",
       "posturas": [
-        {"postura": "Literales: los números verificables del libro son cuantitativos y Juan usa expresiones indefinidas cuando quiere.", "quien": "Robert Thomas y MacArthur, Benware (premilenial dispensacional)", "fuentes": ["macarthur_16#45", "r1_008#11"]},
-        {"postura": "Simbólicos, pero de un período real, sea largo o corto.", "quien": "Ladd (premilenial histórico); Grudem nota que los premilenaristas difieren", "fuentes": ["ladd_07_b#7", "r1_027#27"]},
-        {"postura": "Un período largo e indefinido: toda la era entre las dos venidas.", "quien": "Comentario Mundo Hispano, Swete, Lenski (amilenial)", "fuentes": ["cbmh_07#36", "beacon_05_a#20", "cpe_01#21"]}
+        {
+          "postura": "Literales: los números verificables del libro son cuantitativos y Juan usa expresiones indefinidas cuando quiere.",
+          "quien": "Robert Thomas y MacArthur, Benware (premilenial dispensacional)",
+          "fuentes": [
+            "macarthur_16#45",
+            "r1_008#11"
+          ]
+        },
+        {
+          "postura": "Simbólicos, pero de un período real, sea largo o corto.",
+          "quien": "Ladd (premilenial histórico); Grudem nota que los premilenaristas difieren",
+          "fuentes": [
+            "ladd_07_b#7",
+            "r1_027#27"
+          ]
+        },
+        {
+          "postura": "Un período largo e indefinido: toda la era entre las dos venidas.",
+          "quien": "Comentario Mundo Hispano, Swete, Lenski (amilenial)",
+          "fuentes": [
+            "cbmh_07#36",
+            "beacon_05_a#20",
+            "cpe_01#21"
+          ]
+        }
       ],
-      "nota": "Leer el número de una forma u otra no define por sí solo la escuela: Ladd es premilenialista y lo toma como símbolo, y hay posmilenialistas que lo extienden a toda la era."
+      "nota": "El número no define solo la escuela: Ladd es premilenialista y lo toma como símbolo."
     }
   ],
   "citas": [
-    {"texto": "Los premilenialistas sostienen que Cristo volverá antes del milenio y El mismo introducirá su reino de 1.000 años en la tierra.", "autor": "Ralph Earle", "obra": "Comentario Bíblico Beacon", "pagina": "pág. PDF 422"},
-    {"texto": "la verdad esencial del pasaje es que la firmeza del mártir ganará para sí la vida más elevada en unión con Dios y con Cristo", "autor": "Beckwith, citado por Mounce", "obra": "Comentario Bíblico Mundo Hispano", "pagina": "pág. PDF 270"},
-    {"texto": "No entiendo por qué tiene que ser una cuestión de uniformidad para tener unidad cristiana en una congregación local", "autor": "Mark Dever", "obra": "Teología Sistemática, Clase 25: Escatología, parte 1 (9Marcas)", "pagina": "sermón del 12-7-2009"}
+    {
+      "texto": "Los premilenialistas sostienen que Cristo volverá antes del milenio y El mismo introducirá su reino de 1.000 años en la tierra.",
+      "autor": "Ralph Earle",
+      "obra": "Comentario Bíblico Beacon",
+      "pagina": "pág. PDF 422"
+    },
+    {
+      "texto": "la verdad esencial del pasaje es que la firmeza del mártir ganará para sí la vida más elevada en unión con Dios y con Cristo",
+      "autor": "Beckwith, citado por Mounce",
+      "obra": "Comentario Bíblico Mundo Hispano",
+      "pagina": "pág. PDF 270"
+    },
+    {
+      "texto": "No entiendo por qué tiene que ser una cuestión de uniformidad para tener unidad cristiana en una congregación local",
+      "autor": "Mark Dever",
+      "obra": "Teología Sistemática, Clase 25: Escatología, parte 1 (9Marcas)",
+      "pagina": "sermón del 12-7-2009"
+    }
   ],
   "conexiones": [
-    {"ref": "Mt 12:29", "nota": "El hombre fuerte atado: para el amilenialismo, la atadura de 20:2; para Ladd y Carballosa, la autoridad de Cristo sobre los demonios, que no es la misma atadura.", "fuentes": ["carballosa_16_a#5", "ladd_07_b#8", "carballosa_16_a#15"]},
-    {"ref": "Jn 5:28-29", "nota": "Berkhof ve una sola resurrección de justos e injustos; Ladd ve ahí implícita la doble resurrección.", "fuentes": ["r1_029#25", "ladd_07_b#20"]},
-    {"ref": "1 Co 15:23-24", "nota": "Cada uno en su orden: Ladd lo considera el otro texto que podría sugerir un reinado antes del fin; Carballosa ve ahí la resurrección por etapas.", "fuentes": ["ladd_07_b#19", "carballosa_16_b#2"]},
-    {"ref": "Dn 7:9", "nota": "Los tronos de 20:4 recuerdan los de Daniel 7, según Beasley-Murray.", "fuentes": ["henry_02_b#19"]},
-    {"ref": "2 P 3:8", "nota": "Un día como mil años: para los amilenialistas, prueba de que «mil años» expresa plenitud; para Benware, el texto no es simbólico.", "fuentes": ["cpe_01#21", "r1_008#11"]},
-    {"ref": "Ap 12:9", "nota": "Hendriksen identifica la atadura con la caída del dragón; Beasley-Murray responde que allí Satanás es arrojado a la tierra y aquí sacado de ella al abismo.", "fuentes": ["henry_02_b#16"]}
+    {
+      "ref": "Mt 12:29",
+      "nota": "El hombre fuerte atado: para el amilenialismo, la atadura de 20:2; para Ladd y Carballosa, la autoridad de Cristo sobre los demonios, que no es la misma atadura.",
+      "fuentes": [
+        "carballosa_16_a#5",
+        "ladd_07_b#8",
+        "carballosa_16_a#15"
+      ]
+    },
+    {
+      "ref": "Jn 5:28-29",
+      "nota": "Berkhof ve una sola resurrección de justos e injustos; Ladd, la doble resurrección implícita.",
+      "fuentes": [
+        "r1_029#25",
+        "ladd_07_b#20"
+      ]
+    },
+    {
+      "ref": "1 Co 15:23-24",
+      "nota": "Ladd lo ve como el otro texto que podría sugerir un reinado antes del fin; Carballosa, la resurrección por etapas.",
+      "fuentes": [
+        "ladd_07_b#19",
+        "carballosa_16_b#2"
+      ]
+    },
+    {
+      "ref": "Dn 7:9",
+      "nota": "Los tronos de 20:4 recuerdan los de Daniel 7, según Beasley-Murray.",
+      "fuentes": [
+        "henry_02_b#19"
+      ]
+    },
+    {
+      "ref": "2 P 3:8",
+      "nota": "Un día como mil años: para los amilenialistas, prueba de que «mil años» expresa plenitud; para Benware, el texto no es simbólico.",
+      "fuentes": [
+        "cpe_01#21",
+        "r1_008#11"
+      ]
+    },
+    {
+      "ref": "Ap 12:9",
+      "nota": "Hendriksen identifica la atadura con la caída del dragón; Beasley-Murray responde que allí Satanás es arrojado a la tierra y aquí sacado de ella al abismo.",
+      "fuentes": [
+        "henry_02_b#16"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Se lea como se lea, el pasaje fue escrito para sostener a los que no adoraron a la bestia: la fidelidad hasta el final nunca se pierde.", "fuentes": ["cbmh_07#39", "cbmh_07#40", "henry_02_b#19"]},
-    {"texto": "El engañador tiene los días contados: la victoria de Cristo en la cruz es definitiva y el abismo está bajo la llave del cielo.", "fuentes": ["ladd_07_b#10", "cbmh_07#35"]},
-    {"texto": "Hablar del milenio en casa o en la iglesia sin perder la unidad: con convicción, con humildad y sin insultar al que piensa distinto.", "fuentes": ["web_05_c#7", "mcgeer_12#31", "r1_027#29"]}
+    {
+      "texto": "Se lea como se lea, el pasaje fue escrito para sostener a los que no adoraron a la bestia: la fidelidad hasta el final nunca se pierde.",
+      "fuentes": [
+        "cbmh_07#39",
+        "cbmh_07#40",
+        "henry_02_b#19"
+      ]
+    },
+    {
+      "texto": "El engañador tiene los días contados: la victoria de Cristo en la cruz es definitiva y el abismo está bajo la llave del cielo.",
+      "fuentes": [
+        "ladd_07_b#10",
+        "cbmh_07#35"
+      ]
+    },
+    {
+      "texto": "Hablar del milenio en casa o en la iglesia sin perder la unidad: con convicción, con humildad y sin insultar al que piensa distinto.",
+      "fuentes": [
+        "web_05_c#7",
+        "mcgeer_12#31",
+        "r1_027#29"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué escuela conocían antes de este estudio y de dónde la aprendieron?",
     "¿Qué argumento de otra escuela les pareció más serio de lo que esperaban?",
     "¿Cuál de las verdades que todas comparten les da más esperanza hoy, y por qué?"
   ],
-  "dias_relacionados": [76, 77, 78, 79, 80, 81, 82, 83],
-  "visuales": ["dg-milenio", "dg-numeros", "dg-escuelas"],
-  "refs_apocalipsis": ["20:1-6", "20:7-10", "19:11-21", "12:9", "6:9"],
-  "notas_no_usadas": ["larkin_01_b#6", "r1_038#2", "ladd_01_a#17", "mbiblia_01_a#9", "ladd_01_a#13", "henry_01_a#4", "r1_027#13", "r1_018#10", "r1_027#28", "r1_028#17", "web_12#15", "r1_027#12", "web_14#1", "carballosa_16_b#21", "r1_016#29", "ladd_01_a#8", "r1_027#10", "cpe_04#15", "carballosa_02_a#14", "carballosa_01#33", "r1_007#1", "cpe_01#23", "r1_001#33", "r2_005_a#2", "web_16#18", "r2_008#14", "r1_035#12", "ladd_01_a#1", "r1_035#33", "cpe_02#8", "r2_036#4", "r2_038_b#11", "ladd_06_a#25", "r1_003#1", "r1_006#4", "carballosa_19#24", "carballosa_02_a#6", "mcgeer_01#6", "r2_040#35", "r1_027#11", "macarthur_01#3", "mcgee_10_b#1", "ladd_07_a#40", "carballosa_15_b#18", "r1_002#17", "r1_005#28", "r1_005#29", "r1_039#7", "r1_007#4", "macarthur_07_a#4", "mcgeer_01#9", "mcgee_01_a#10", "carballosa_15_b#23", "carballosa_15_b#27", "cbmh_07#37", "carballosa_19#10", "carballosa_18_b#23", "r1_012#4", "r1_012#5", "web_18#4", "mcgee_11_a#2"]
+  "dias_relacionados": [
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83
+  ],
+  "visuales": [
+    "dg-milenio",
+    "dg-numeros",
+    "dg-escuelas"
+  ],
+  "refs_apocalipsis": [
+    "20:1-6",
+    "20:7-10",
+    "19:11-21",
+    "12:9",
+    "6:9"
+  ],
+  "notas_no_usadas": [
+    "larkin_01_b#6",
+    "r1_038#2",
+    "ladd_01_a#17",
+    "mbiblia_01_a#9",
+    "ladd_01_a#13",
+    "henry_01_a#4",
+    "r1_027#13",
+    "r1_018#10",
+    "r1_027#28",
+    "r1_028#17",
+    "web_12#15",
+    "r1_027#12",
+    "web_14#1",
+    "carballosa_16_b#21",
+    "r1_016#29",
+    "ladd_01_a#8",
+    "r1_027#10",
+    "cpe_04#15",
+    "carballosa_02_a#14",
+    "carballosa_01#33",
+    "r1_007#1",
+    "cpe_01#23",
+    "r1_001#33",
+    "r2_005_a#2",
+    "web_16#18",
+    "r2_008#14",
+    "r1_035#12",
+    "ladd_01_a#1",
+    "r1_035#33",
+    "cpe_02#8",
+    "r2_036#4",
+    "r2_038_b#11",
+    "ladd_06_a#25",
+    "r1_003#1",
+    "r1_006#4",
+    "carballosa_19#24",
+    "carballosa_02_a#6",
+    "mcgeer_01#6",
+    "r2_040#35",
+    "r1_027#11",
+    "macarthur_01#3",
+    "mcgee_10_b#1",
+    "ladd_07_a#40",
+    "carballosa_15_b#18",
+    "r1_002#17",
+    "r1_005#28",
+    "r1_005#29",
+    "r1_039#7",
+    "r1_007#4",
+    "macarthur_07_a#4",
+    "mcgeer_01#9",
+    "mcgee_01_a#10",
+    "carballosa_15_b#23",
+    "carballosa_15_b#27",
+    "cbmh_07#37",
+    "carballosa_19#10",
+    "carballosa_18_b#23",
+    "r1_012#4",
+    "r1_012#5",
+    "web_18#4",
+    "mcgee_11_a#2"
+  ]
 }

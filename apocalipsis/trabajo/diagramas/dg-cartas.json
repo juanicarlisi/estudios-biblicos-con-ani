@@ -1,0 +1,88 @@
+{
+ "id": "dg-cartas",
+ "titulo": "Las siete cartas en un cuadro",
+ "bajada": "Para cada iglesia de Apocalipsis 2 y 3: la ciudad, cómo se presenta Cristo, qué elogia, qué reprocha y qué promete al que venciere.",
+ "tipo": "tabla",
+ "columnas": ["Iglesia y ciudad", "Cómo se presenta Cristo", "Elogio", "Reproche", "Promesa al vencedor"],
+ "filas": [
+  {
+   "celdas": [
+    "Éfeso: el gran puerto de Asia, «el mercado de Asia» según Estrabón; rica y cosmopolita, allí residía el gobernador romano.",
+    "«El que tiene las siete estrellas en su diestra» y anda entre los siete candeleros (1:13, 16): sostiene firme a sus iglesias y las recorre.",
+    "Arduo trabajo y paciencia; no soporta a los malos y desenmascaró a falsos apóstoles; aborrece las obras de los nicolaítas (2:2-3, 6).",
+    "«Has dejado tu primer amor» (2:4). Recordar, arrepentirse y hacer las primeras obras; si no, Cristo quitará su candelero (2:5).",
+    "Comer del árbol de la vida, que está en medio del paraíso de Dios (2:7)."
+   ],
+   "ref": "2:1-7",
+   "fuentes": ["macarthur_02_b#15", "cbmh_02_b#2", "macarthur_02_b#12", "ladd_01_b#19", "macarthur_02_b#17", "macarthur_02_b#19", "beacon_02_a#9", "carballosa_02_b#26", "carballosa_03_a#14", "cbmh_03_a#20"]
+  },
+  {
+   "celdas": [
+    "Esmirna (hoy Izmir): «La Dorada», «el adorno de Asia», de unos 200.000 habitantes; una ciudad rica con una iglesia pobre y perseguida.",
+    "«El primero y el postrero, el que estuvo muerto y vivió» (1:17-18): el eterno que venció a la muerte, para creyentes amenazados de cárcel y muerte.",
+    "Conoce su tribulación y su pobreza, «pero tú eres rico»; soporta la calumnia de la «sinagoga de Satanás» (2:9).",
+    "Ninguno. Solo ánimo: «No temas en nada lo que vas a padecer» y «Sé fiel hasta la muerte» (2:10).",
+    "La corona de la vida (2:10) y no sufrir daño de la segunda muerte (2:11)."
+   ],
+   "ref": "2:8-11",
+   "fuentes": ["carballosa_03_a#17", "cbmh_02_b#12", "carballosa_03_a#18", "beacon_02_a#16", "carballosa_03_a#19", "cbmh_02_b#16", "carballosa_03_a#16", "beacon_01_b#38", "macarthur_05_a#10", "ladd_01_b#37", "cbmh_03_a#20"]
+  },
+  {
+   "celdas": [
+    "Pérgamo: capital de la provincia sobre un cerro de unos 300 m; centro del culto al emperador, con el primer templo imperial de Asia.",
+    "«El que tiene la espada aguda de dos filos» (1:16): su Palabra juzga, y su autoridad está por encima del «derecho de la espada» del procónsul.",
+    "Vive «donde está el trono de Satanás» y aun así retiene el nombre de Cristo y no negó la fe, ni cuando mataron a Antipas (2:13).",
+    "Tolera a los que retienen la doctrina de Balaam (banquetes idólatras e inmoralidad) y la de los nicolaítas (2:14-15). «Arrepiéntete» (2:16).",
+    "El maná escondido y una piedrecita blanca con un nombre nuevo que solo conoce el que lo recibe (2:17)."
+   ],
+   "ref": "2:12-17",
+   "fuentes": ["beacon_02_a#22", "macarthur_03_a#25", "macarthur_03_a#27", "beacon_02_a#23", "macarthur_03_a#22", "beacon_02_a#24", "macarthur_03_b#4", "macarthur_03_b#5", "cbmh_03_a#5", "carballosa_03_b#1", "cbmh_03_a#20"]
+  },
+  {
+   "celdas": [
+    "Tiatira: la más pequeña de las siete; ciudad de oficios (lana, teñidos, bronce) cuyos gremios tenían dioses patronos y banquetes.",
+    "«El Hijo de Dios», con ojos como llama de fuego y pies semejantes al bronce bruñido (1:14-15): ve a la iglesia como es y viene como Juez.",
+    "Amor, fe, servicio y paciencia; sus obras postreras son más que las primeras (2:19). Es la primera de las siete elogiada por su amor.",
+    "Tolera a Jezabel, que se dice profetisa y enseña a fornicar y comer lo sacrificado a los ídolos (2:20). Al resto fiel: «retenedlo hasta que yo venga» (2:25).",
+    "Autoridad sobre las naciones, como Cristo la recibió del Padre (Sal 2), y la estrella de la mañana (2:26-28)."
+   ],
+   "ref": "2:18-29",
+   "fuentes": ["cbmh_03_a#8", "cbmh_03_a#9", "macarthur_03_b#15", "macarthur_03_b#19", "ladd_02_a#14", "macarthur_03_b#20", "ladd_02_a#17", "macarthur_04_a#3", "macarthur_04_a#4", "beacon_02_a#42", "carballosa_03_b#10", "cbmh_03_a#20"]
+  },
+  {
+   "celdas": [
+    "Sardis: antigua capital de Lidia, la del rico Creso; vivía de su pasado, y su ciudadela «inexpugnable» cayó dos veces porque nadie vigilaba.",
+    "«El que tiene los siete espíritus de Dios, y las siete estrellas» (1:4, 16): la plenitud del Espíritu que da vida a una iglesia muerta.",
+    "Solo «unas pocas personas» que no han manchado sus vestiduras (3:4).",
+    "«Tienes nombre de que vives, y estás muerto» (3:1); obras no perfectas delante de Dios. «Sé vigilante», recuerda, guarda y arrepiéntete (3:2-3).",
+    "Vestiduras blancas; su nombre no será borrado del libro de la vida y Cristo lo confesará delante del Padre y de sus ángeles (3:5)."
+   ],
+   "ref": "3:1-6",
+   "fuentes": ["macarthur_04_a#10", "beacon_02_b#1", "macarthur_04_a#12", "macarthur_04_a#8", "cbmh_03_a#22", "ladd_02_a#32", "macarthur_04_a#18", "macarthur_04_a#14", "cbmh_03_a#23", "macarthur_04_a#22", "carballosa_03_b#27", "cbmh_03_a#20"]
+  },
+  {
+   "celdas": [
+    "Filadelfia: la más joven de las siete, «puerta al este» sobre la ruta imperial; una ciudad pequeña, sacudida por terremotos.",
+    "«El Santo, el Verdadero, el que tiene la llave de David» (Is 22:22): títulos divinos y mesiánicos; solo él abre y cierra la entrada a su reino.",
+    "Con poca fuerza guardó su palabra y no negó su nombre; Cristo le pone delante una puerta abierta que nadie puede cerrar (3:8, 10).",
+    "Ninguno. Solo una exhortación: «retén lo que tienes, para que ninguno tome tu corona» (3:11).",
+    "Ser columna en el templo de Dios, de donde nunca saldrá, con el nombre de Dios, el de la nueva Jerusalén y el nombre nuevo de Cristo (3:12)."
+   ],
+   "ref": "3:7-13",
+   "fuentes": ["macarthur_04_b#2", "beacon_02_b#13", "cbmh_03_b#5", "macarthur_04_a#26", "carballosa_04_a#9", "ladd_02_a#45", "ladd_02_b#2", "cbmh_03_b#8", "beacon_02_b#22", "macarthur_04_b#13", "cbmh_03_b#12", "carballosa_04_a#7", "cbmh_03_a#20"]
+  },
+  {
+   "celdas": [
+    "Laodicea: centro bancario, famosa por su lana negra y un colirio; se reconstruyó sola tras el terremoto del año 60; el agua le llegaba tibia.",
+    "«El Amén, el testigo fiel y verdadero, el principio de la creación de Dios» (3:14): firmeza y verdad que le faltaban a una iglesia tibia.",
+    "Ninguno.",
+    "«Ni eres frío ni caliente»: por tibia, la vomitará. Dice ser rica y no sabe que es desventurada, miserable, pobre, ciega y desnuda (3:15-17).",
+    "Sentarse con Cristo en su trono, como él venció y se sentó con su Padre (3:21): la promesa más alta, a la peor iglesia."
+   ],
+   "ref": "3:14-22",
+   "fuentes": ["macarthur_04_b#22", "beacon_02_b#25", "macarthur_04_b#23", "macarthur_04_b#17", "carballosa_04_b#3", "cbmh_03_b#14", "ladd_02_b#20", "cbmh_03_b#15", "carballosa_04_b#1", "carballosa_04_b#13", "cbmh_03_b#20", "beacon_01_b#38", "cbmh_03_a#20"]
+  }
+ ],
+ "nota": "Todas las cartas siguen un mismo molde: a quién se dirige, cómo se presenta Cristo, elogio, reproche, exhortación y promesa al vencedor, con el llamado «El que tiene oído, oiga» (Carballosa, MacArthur, Ladd, Mundo Hispano). Esmirna y Filadelfia no reciben reproche y Laodicea no recibe elogio (Earle, McGee, Ladd). En Filadelfia y Laodicea Cristo no usa rasgos de la visión del capítulo 1 sino títulos divinos (MacArthur). El vencedor no es una élite: MacArthur y Carballosa lo identifican con todo creyente (1 Jn 5:4-5). Sobre qué representan las siete iglesias, los autores difieren: iglesias reales que muestran condiciones de las iglesias de toda época (Earle, MacArthur), y además, para Larkin, McGee y Chafer, un cuadro profético de la historia de la Iglesia hasta el arrebatamiento.",
+ "dias": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 88]
+}

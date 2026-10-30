@@ -4,114 +4,418 @@
   "bajada": "Los números del Apocalipsis uno por uno (siete, cuatro, diez, doce, 144.000, tres años y medio, mil años y 666), con lo que dice de cada uno cada escuela.",
   "entrada": {
     "texto": "El Apocalipsis cuenta casi todo con números: siete iglesias, doce tribus, cuarenta y dos meses, mil años, 666. Esta guía junta los principales para tenerla a mano mientras se lee. Hay una regla que comparten todos: primero mirar lo que el mismo libro explica (el incienso son las oraciones, el dragón es Satanás, las aguas son pueblos: 5:8; 12:9; 17:15), después buscar el mismo símbolo en el resto de la Biblia y recién ahí sacar conclusiones (Diccionario Mundo Hispano; Ligonier). José Grau agrega una advertencia: Juan escribe como vidente, no como matemático.",
-    "fuentes": ["dbmh_02#19", "web_17#8", "r1_012#11"]
+    "fuentes": [
+      "dbmh_02#19",
+      "web_17#8",
+      "r1_012#11"
+    ]
   },
   "versiculos": [
-    {"ref": "1:4", "porque": "Siete iglesias y siete espíritus: el número que arma el libro aparece en el saludo."},
-    {"ref": "7:4", "porque": "Los 144.000 sellados: doce mil de cada tribu."},
-    {"ref": "12:14", "porque": "La tercera forma de medir el mismo tiempo: un tiempo, tiempos y la mitad de un tiempo."},
-    {"ref": "13:18", "porque": "El número de la bestia y la pista que da Juan: es número de hombre."},
-    {"ref": "20:2", "porque": "La primera de las seis veces que aparecen los mil años."},
-    {"ref": "21:16-17", "porque": "Las medidas de la ciudad, todas múltiplos de doce."}
+    {
+      "ref": "1:4",
+      "porque": "Siete iglesias y siete espíritus: el número que arma el libro aparece en el saludo."
+    },
+    {
+      "ref": "7:4",
+      "porque": "Los 144.000 sellados: doce mil de cada tribu."
+    },
+    {
+      "ref": "12:14",
+      "porque": "La tercera forma de medir el mismo tiempo: un tiempo, tiempos y la mitad de un tiempo."
+    },
+    {
+      "ref": "13:18",
+      "porque": "El número de la bestia y la pista que da Juan: es número de hombre."
+    },
+    {
+      "ref": "20:2",
+      "porque": "La primera de las seis veces que aparecen los mil años."
+    },
+    {
+      "ref": "21:16-17",
+      "porque": "Las medidas de la ciudad, todas múltiplos de doce."
+    }
   ],
   "apartados": [
     {
       "titulo": "¿Literales o simbólicos?",
       "parrafos": [
-        {"texto": "La pregunta de fondo divide a las escuelas. Para los premileniales dispensacionales, la regla es leer los números en su sentido normal salvo que el texto obligue a otra cosa: había siete iglesias concretas y los diez cuernos «son diez reyes» (17:12). Paul Benware cuenta unas 240 apariciones de números en el libro y calcula que más del 90 % son cantidades; MacArthur reconoce como simbólicos apenas los siete espíritus de 1:4 y el 666 (Carballosa, con Walvoord; Benware; MacArthur).", "fuentes": ["carballosa_01#26", "r1_004#8", "r1_015#7"]},
-        {"texto": "Del otro lado, Grau, el Comentario Mundo Hispano (amilenial) y, con matices, Ladd (premilenial histórico) leen muchas cifras como símbolos: dicen qué clase de cosa es, más que cuántas hay. Carballosa aclara que las dos cosas pueden ir juntas: el siete significa algo completo y a la vez hay siete sellos, siete trompetas y siete copas de verdad. Y el lenguaje figurado no habilita a alegorizar: cada figura tiene un sentido que hay que descubrir con objetividad.", "fuentes": ["r1_012#11", "cbmh_07#36", "ladd_07_b#7", "carballosa_01#26", "carballosa_10_a#7"]}
+        {
+          "texto": "La pregunta de fondo divide a las escuelas. Para los premileniales dispensacionales, la regla es leer los números en su sentido normal salvo que el texto obligue a otra cosa: había siete iglesias concretas y los diez cuernos «son diez reyes» (17:12). Paul Benware cuenta unas 240 apariciones de números en el libro y calcula que más del 90 % son cantidades; MacArthur reconoce como simbólicos apenas los siete espíritus de 1:4 y el 666 (Carballosa, con Walvoord; Benware; MacArthur).",
+          "fuentes": [
+            "carballosa_01#26",
+            "r1_004#8",
+            "r1_015#7"
+          ]
+        },
+        {
+          "texto": "Del otro lado, Grau, el Comentario Mundo Hispano (amilenial) y, con matices, Ladd (premilenial histórico) leen muchas cifras como símbolos: dicen qué clase de cosa es, más que cuántas hay. Carballosa aclara que las dos cosas pueden ir juntas: el siete significa algo completo y a la vez hay siete sellos, siete trompetas y siete copas de verdad. Y el lenguaje figurado no habilita a alegorizar: cada figura tiene un sentido que hay que descubrir con objetividad.",
+          "fuentes": [
+            "r1_012#11",
+            "cbmh_07#36",
+            "ladd_07_b#7",
+            "carballosa_01#26",
+            "carballosa_10_a#7"
+          ]
+        }
       ]
     },
     {
       "titulo": "Siete: lo completo",
       "parrafos": [
-        {"texto": "Es el número que arma el libro: Grau cuenta 54 apariciones. Siete iglesias, candeleros, estrellas, espíritus, sellos, trompetas, truenos y copas, y también siete bienaventuranzas. Grau lo explica como cuatro (el mundo) más tres (Dios); MacArthur lo une al séptimo día de Génesis 2:3, la obra terminada. McGee insiste en un matiz: siete no quiere decir perfecto sino completo, aunque a veces lo completo sea perfecto.", "fuentes": ["r1_012#8", "web_11_a#11", "mcgee_01_b#19", "mcgeer_10#25"]},
-        {"texto": "Por eso, aunque en Asia había otras iglesias (Colosas, Hierápolis, Troas), Juan escribe a siete: hablándoles a ellas, le habla a toda la iglesia, como ya notaba el Canon de Muratori a fines del siglo II (Earle; Coalición). «Los siete espíritus» de 1:4 no son siete seres sino el Espíritu Santo en su plenitud, con el trasfondo de Isaías 11:2 (Guzik), y el Cordero con siete cuernos y siete ojos (5:6) tiene todo el poder y todo el saber (MacArthur).", "fuentes": ["beacon_01_a#38", "cpe_01#6", "web_03_a#9", "web_03_b#26"]},
-        {"texto": "Las siete cabezas del dragón y de la bestia (12:3; 13:1; 17:9-10) tienen varias lecturas. MacArthur y su Biblia de estudio ven siete imperios sucesivos, de Egipto a Roma y al del anticristo; Larkin, reyes de Roma con el anticristo como séptimo. McGee enumera cuatro opciones y prefiere no ser dogmático.", "fuentes": ["macarthur_10#26", "mbiblia_02_d#5", "larkin_04_b#3", "mcgee_08#6"]}
+        {
+          "texto": "Es el número que arma el libro: Grau cuenta 54 apariciones. Siete iglesias, candeleros, estrellas, espíritus, sellos, trompetas, truenos y copas, y también siete bienaventuranzas. Grau lo explica como cuatro (el mundo) más tres (Dios). McGee insiste en un matiz: siete no quiere decir perfecto sino completo, aunque a veces lo completo sea perfecto.",
+          "fuentes": [
+            "r1_012#8",
+            "web_11_a#11",
+            "mcgee_01_b#19",
+            "mcgeer_10#25"
+          ]
+        },
+        {
+          "texto": "Por eso, aunque en Asia había otras iglesias (Colosas, Hierápolis, Troas), Juan escribe a siete: hablándoles a ellas, le habla a toda la iglesia, como ya notaba el Canon de Muratori a fines del siglo II (Earle; Coalición). «Los siete espíritus» de 1:4 no son siete seres sino el Espíritu Santo en su plenitud, con el trasfondo de Isaías 11:2 (Guzik), y el Cordero con siete cuernos y siete ojos (5:6) tiene todo el poder y todo el saber (MacArthur).",
+          "fuentes": [
+            "beacon_01_a#38",
+            "cpe_01#6",
+            "web_03_a#9",
+            "web_03_b#26"
+          ]
+        },
+        {
+          "texto": "Las siete cabezas del dragón y de la bestia (12:3; 13:1; 17:9-10) tienen varias lecturas. MacArthur y su Biblia de estudio ven siete imperios sucesivos, de Egipto a Roma y al del anticristo; Larkin, reyes de Roma con el anticristo como séptimo. McGee enumera cuatro opciones y prefiere no ser dogmático.",
+          "fuentes": [
+            "macarthur_10#26",
+            "mbiblia_02_d#5",
+            "larkin_04_b#3",
+            "mcgee_08#6"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cuatro y diez: la creación y el poder",
       "parrafos": [
-        {"texto": "Para Grau, el cuatro es el mundo. Los cuatro seres vivientes alrededor del trono (4:6-8) tienen rostro de león, de becerro, de hombre y de águila: Ladd y el Mundo Hispano ven ahí a la creación entera (fieras, animales de campo, seres humanos y aves) adorando a su Creador, o a ángeles que cumplen la voluntad de Dios en todos los órdenes de la creación; Ladd cree que las dos lecturas pueden ser ciertas. El Mundo Hispano agrega, con cautela, que el cuatro podría aludir a los puntos cardinales.", "fuentes": ["r1_012#8", "ladd_02_c#15", "cbmh_04#3"]},
-        {"texto": "El diez, según Grau, es el hombre completo (los diez dedos) y, en los cuernos del dragón y de la bestia, poder completo. Para MacArthur, Carballosa y McGee los diez cuernos son diez reyes concretos que gobiernan a la vez bajo el anticristo, como en Daniel 7:7 y 24. El Mundo Hispano los lee como muchas soberanías aliadas que sostienen a la bestia y rechaza identificarlas con un bloque político actual.", "fuentes": ["r1_012#8", "macarthur_10#26", "carballosa_13_b#15", "mcgee_08#6", "cbmh_07#5"]},
-        {"texto": "La «tribulación por diez días» de Esmirna (2:10) no son diez persecuciones imperiales, como alegorizaron algunos: Carballosa la lee como un período corto, donde importa lo que pasa más que cuánto dura; el Mundo Hispano cita el versículo entre los usos del diez como cantidad indefinida.", "fuentes": ["carballosa_03_a#24", "cbmh_07#5"]}
+        {
+          "texto": "Para Grau, el cuatro es el mundo. Los cuatro seres vivientes alrededor del trono (4:6-8) tienen rostro de león, de becerro, de hombre y de águila: Ladd y el Mundo Hispano ven ahí a la creación entera adorando a su Creador, o a ángeles que cumplen la voluntad de Dios en todos los órdenes de la creación. El Mundo Hispano agrega, con cautela, que el cuatro podría aludir a los puntos cardinales.",
+          "fuentes": [
+            "r1_012#8",
+            "ladd_02_c#15",
+            "cbmh_04#3"
+          ]
+        },
+        {
+          "texto": "El diez, según Grau, es el hombre completo (los diez dedos) y, en los cuernos del dragón y de la bestia, poder completo. Para MacArthur, Carballosa y McGee los diez cuernos son diez reyes concretos que gobiernan a la vez bajo el anticristo, como en Daniel 7:7 y 24. El Mundo Hispano los lee como muchas soberanías aliadas que sostienen a la bestia y rechaza identificarlas con un bloque político actual.",
+          "fuentes": [
+            "r1_012#8",
+            "macarthur_10#26",
+            "carballosa_13_b#15",
+            "mcgee_08#6",
+            "cbmh_07#5"
+          ]
+        },
+        {
+          "texto": "La «tribulación por diez días» de Esmirna (2:10) no son diez persecuciones imperiales, como alegorizaron algunos: Carballosa la lee como un período corto, donde importa lo que pasa más que cuánto dura; el Mundo Hispano cita el versículo entre los usos del diez como cantidad indefinida.",
+          "fuentes": [
+            "carballosa_03_a#24",
+            "cbmh_07#5"
+          ]
+        }
       ]
     },
     {
       "titulo": "Doce, veinticuatro y 144.000: el pueblo de Dios",
       "parrafos": [
-        {"texto": "El doce es el número del pueblo de Dios: doce tribus, doce apóstoles, doce estrellas sobre la mujer (12:1), doce puertas y doce cimientos en la ciudad, doce frutos en el árbol de la vida (22:2). Grau lo explica como cuatro por tres; Hendriksen, según Lacueva, como la acción del Dios trino en el universo.", "fuentes": ["r1_012#9", "r1_020#2", "cpe_02#28"]},
-        {"texto": "Los veinticuatro ancianos (4:4) serían doce más doce: Larkin ve en las tribus a los santos del Antiguo Testamento y en los apóstoles a los del Nuevo, igual que en la ciudad, que lleva unos nombres en las puertas y otros en los cimientos (21:12-14). Agrega que David repartió a los sacerdotes en veinticuatro turnos (1 Cr 24).", "fuentes": ["larkin_02_a#12"]},
-        {"texto": "Con los 144.000 (7:4-8; 14:1) se separan los caminos. Larkin, la Biblia MacArthur y Wiersbe los toman como judíos de las doce tribus, sellados en la tribulación para dar testimonio; Wiersbe explica la ausencia de Dan por su idolatría. Earle, el Mundo Hispano y la Coalición leen doce por doce por mil: el pueblo de Dios completo; Earle se apoya en que 14:4 los llama los que «fueron redimidos de entre los hombres».", "fuentes": ["larkin_02_b#14", "mbiblia_01_c#27", "r1_024_b#19", "beacon_03_b#11", "cbmh_06_a#34", "cpe_02#28"]},
-        {"texto": "La nueva Jerusalén repite el doce: doce mil estadios por lado (según el cálculo, entre 2.160 y 2.400 km) y un muro de 144 codos (21:16-17). MacArthur y Chafer toman las medidas al pie de la letra, porque son «de medida de hombre»; MacArthur prefiere un cubo y Chafer, una pirámide. Ladd y el Mundo Hispano las leen como símbolo de inmensidad y simetría perfecta. Varios coinciden en algo hermoso: el cubo recuerda el Lugar Santísimo del templo (1 R 6:20), porque ahora toda la ciudad es la casa de Dios.", "fuentes": ["macarthur_18_a#14", "r1_039#5", "ladd_08_a#9", "cbmh_08_a#16"]}
+        {
+          "texto": "El doce es el número del pueblo de Dios: doce tribus, doce apóstoles, doce estrellas sobre la mujer (12:1), doce puertas y doce cimientos en la ciudad, doce frutos en el árbol de la vida (22:2). Grau lo explica como cuatro por tres; Hendriksen, según Lacueva, como la acción del Dios trino en el universo.",
+          "fuentes": [
+            "r1_012#9",
+            "r1_020#2",
+            "cpe_02#28"
+          ]
+        },
+        {
+          "texto": "Los veinticuatro ancianos (4:4) serían doce más doce: Larkin ve en las tribus a los santos del Antiguo Testamento y en los apóstoles a los del Nuevo, igual que en la ciudad, que lleva unos nombres en las puertas y otros en los cimientos (21:12-14). Agrega que David repartió a los sacerdotes en veinticuatro turnos (1 Cr 24).",
+          "fuentes": [
+            "larkin_02_a#12"
+          ]
+        },
+        {
+          "texto": "Con los 144.000 (7:4-8; 14:1) se separan los caminos. Larkin, la Biblia MacArthur y Wiersbe los toman como judíos de las doce tribus, sellados en la tribulación para dar testimonio; Wiersbe explica la ausencia de Dan por su idolatría. Earle, el Mundo Hispano y la Coalición leen doce por doce por mil: el pueblo de Dios completo; Earle se apoya en que 14:4 los llama los que «fueron redimidos de entre los hombres».",
+          "fuentes": [
+            "larkin_02_b#14",
+            "mbiblia_01_c#27",
+            "r1_024_b#19",
+            "beacon_03_b#11",
+            "cbmh_06_a#34",
+            "cpe_02#28"
+          ]
+        },
+        {
+          "texto": "La nueva Jerusalén repite el doce: doce mil estadios por lado (según el cálculo, entre 2.160 y 2.400 km) y un muro de 144 codos (21:16-17). MacArthur y Chafer toman las medidas al pie de la letra, porque son «de medida de hombre»; MacArthur prefiere un cubo y Chafer, una pirámide. Ladd y el Mundo Hispano las leen como símbolo de inmensidad y simetría perfecta. Varios coinciden en que el cubo recuerda el Lugar Santísimo del templo (1 R 6:20), porque ahora toda la ciudad es la casa de Dios.",
+          "fuentes": [
+            "macarthur_18_a#14",
+            "r1_039#5",
+            "ladd_08_a#9",
+            "cbmh_08_a#16"
+          ]
+        }
       ]
     },
     {
       "titulo": "Tres años y medio y mil años: el tiempo en manos de Dios",
       "parrafos": [
-        {"texto": "El libro mide un mismo lapso de tres maneras: «cuarenta y dos meses» (11:2; 13:5), mil doscientos sesenta días (11:3; 12:6) y «un tiempo, y tiempos, y la mitad de un tiempo» (12:14), la expresión de Daniel 7:25 y 12:7. Cubre la ciudad hollada, el testimonio de los dos testigos, la mujer cuidada en el desierto y la autoridad de la bestia (Ladd; Grau).", "fuentes": ["ladd_04_b#5", "r1_012#9"]},
-        {"texto": "Para Carballosa, Wiersbe y Guzik (dispensacionales) son tres años y medio literales: la segunda mitad de la semana setenta de Daniel (Dn 9:27), cuando el anticristo rompe su pacto. Ladd (premilenial histórico) dice que el número remite a Daniel pero no es un pronóstico exacto: es el tiempo del poder satánico, con referencia particular a los días finales. Grau va más lejos: tres y medio es la mitad del siete, algo trunco, y calcular cronologías con él es inútil; señala la era de la persecución, corta o larga. Lo que todos comparten es que ese tiempo tiene límite: según Grau, por la gracia de Dios la bestia nunca llega a su pleno desarrollo.", "fuentes": ["carballosa_19#16", "r1_022#14", "web_04_b#17", "ladd_04_b#5", "r1_012#9", "r1_012#11"]},
-        {"texto": "Los «mil años» aparecen seis veces en 20:2-7. Benware, MacArthur (con Robert Thomas) y Lacueva los leen literales: si Juan hubiera querido un número enorme e indefinido tenía otros a mano (5:11; 7:9), y es difícil que un símbolo se repita seis veces. El Mundo Hispano y Alcántara (amileniales), siguiendo a Hoekema, leen diez al cubo: un período largo y completo, la era entre las dos venidas. Ladd queda en el medio: un número simbólico que señala un período real, largo o corto.", "fuentes": ["r1_004#8", "r1_008#11", "macarthur_16#45", "r1_029#23", "cbmh_07#36", "cpe_02#10", "ladd_07_b#7"]}
+        {
+          "texto": "El libro mide un mismo lapso de tres maneras: «cuarenta y dos meses» (11:2; 13:5), mil doscientos sesenta días (11:3; 12:6) y «un tiempo, y tiempos, y la mitad de un tiempo» (12:14), la expresión de Daniel 7:25 y 12:7. Cubre la ciudad hollada, el testimonio de los dos testigos, la mujer cuidada en el desierto y la autoridad de la bestia (Ladd; Grau).",
+          "fuentes": [
+            "ladd_04_b#5",
+            "r1_012#9"
+          ]
+        },
+        {
+          "texto": "Para Carballosa, Wiersbe y Guzik (dispensacionales) son tres años y medio literales: la segunda mitad de la semana setenta de Daniel (Dn 9:27), cuando el anticristo rompe su pacto. Ladd (premilenial histórico) dice que el número remite a Daniel pero no es un pronóstico exacto: es el tiempo del poder satánico. Grau va más lejos: tres y medio es la mitad del siete, algo trunco, y calcular cronologías con él es inútil; señala la era de la persecución, corta o larga. Lo que todos comparten es que ese tiempo tiene límite: según Grau, por la gracia de Dios la bestia nunca llega a su pleno desarrollo.",
+          "fuentes": [
+            "carballosa_19#16",
+            "r1_022#14",
+            "web_04_b#17",
+            "ladd_04_b#5",
+            "r1_012#9",
+            "r1_012#11"
+          ]
+        },
+        {
+          "texto": "Los «mil años» aparecen seis veces en 20:2-7. Benware, MacArthur (con Robert Thomas) y Lacueva los leen literales: si Juan hubiera querido un número enorme e indefinido tenía otros a mano (5:11; 7:9), y es difícil que un símbolo se repita seis veces. El Mundo Hispano y Alcántara (amileniales), siguiendo a Hoekema, leen diez al cubo: un período largo y completo, la era entre las dos venidas. Ladd queda en el medio: un número simbólico que señala un período real, largo o corto.",
+          "fuentes": [
+            "r1_004#8",
+            "r1_008#11",
+            "macarthur_16#45",
+            "r1_029#23",
+            "cbmh_07#36",
+            "cpe_02#10",
+            "ladd_07_b#7"
+          ]
+        }
       ]
     },
     {
       "titulo": "666: el número de un hombre",
       "parrafos": [
-        {"texto": "«Aquí hay sabiduría» (13:18). En el mundo antiguo las letras valían como números, y sumar las de un nombre (la gematría) era un juego conocido: Ladd recuerda una pintada de Pompeya que hablaba de una amada cuyo número era 545, y un oráculo antiguo que daba al nombre de Jesús el valor 888.", "fuentes": ["ladd_05_b#6", "dbmh_02#19", "r1_001#4"]},
-        {"texto": "Escrito en letras hebreas, Nerón César suma 666, y una forma sin la n final suma 616, la cifra que traen algunos manuscritos (Ligonier; Coalición; Earle). Para el preterismo, que fecha el libro en los años sesenta, ahí está la respuesta; otros ven en Nerón un anticipo del último anticristo (Coalición). Ladd no se convence: Juan escribía para lectores griegos, en griego el nombre suma 1005 y ningún intérprete antiguo propuso esa solución; Ireneo, el más antiguo, pensaba en Lateinos, el imperio latino. Earle sostiene que la lectura correcta es 666, la del Papiro 47 (siglo III).", "fuentes": ["web_09#22", "cpe_02#24", "beacon_04_b#1", "ladd_05_b#6"]},
-        {"texto": "Con los siglos se lo calculó para Mahoma, Lutero, Napoleón, Hitler o Mussolini; con un poco de maña, advierte Ladd, se llega a casi cualquier nombre. Por eso la Biblia MacArthur y McGee piden no especular: el sentido se va a ver cuando llegue el momento. Mientras tanto, dice McGee, más vale conocer a Cristo que el número de la bestia.", "fuentes": ["beacon_04_b#1", "ladd_05_b#6", "mbiblia_02_b#17", "mcgee_08#24", "mcgeer_09#25"]},
-        {"texto": "Lo que comparten casi todos: el seis es el número del hombre, creado el sexto día, que se queda a un paso del siete. Repetido tres veces es, según la Coalición, perfectamente imperfecto; para Hendriksen y el Mundo Hispano, un fracaso continuo; para la Biblia MacArthur, el hombre más poderoso que sigue siendo apenas un hombre.", "fuentes": ["macarthur_12_a#14", "mbiblia_02_b#17", "cpe_02#25", "r1_020#2", "r1_012#11", "cbmh_06_a#33"]}
+        {
+          "texto": "«Aquí hay sabiduría» (13:18). En el mundo antiguo las letras valían como números, y sumar las de un nombre (la gematría) era un juego conocido (Ladd; Lennox).",
+          "fuentes": [
+            "ladd_05_b#6",
+            "dbmh_02#19",
+            "r1_001#4"
+          ]
+        },
+        {
+          "texto": "Escrito en letras hebreas, Nerón César suma 666, y una forma sin la n final suma 616, la cifra que traen algunos manuscritos (Ligonier; Coalición; Earle). Para el preterismo, que fecha el libro en los años sesenta, ahí está la respuesta; otros ven en Nerón un anticipo del último anticristo (Coalición). Ladd no se convence: Juan escribía para lectores griegos, en griego el nombre suma 1005 y ningún intérprete antiguo propuso esa solución; Ireneo, el más antiguo, pensaba en Lateinos, el imperio latino.",
+          "fuentes": [
+            "web_09#22",
+            "cpe_02#24",
+            "beacon_04_b#1",
+            "ladd_05_b#6"
+          ]
+        },
+        {
+          "texto": "Con los siglos se lo calculó para Mahoma, Lutero, Napoleón, Hitler o Mussolini; con un poco de maña, advierte Ladd, se llega a casi cualquier nombre. Por eso la Biblia MacArthur y McGee piden no especular: el sentido se va a ver cuando llegue el momento. Mientras tanto, dice McGee, más vale conocer a Cristo que el número de la bestia.",
+          "fuentes": [
+            "beacon_04_b#1",
+            "ladd_05_b#6",
+            "mbiblia_02_b#17",
+            "mcgee_08#24",
+            "mcgeer_09#25"
+          ]
+        },
+        {
+          "texto": "Lo que comparten casi todos: el seis es el número del hombre, creado el sexto día, que se queda a un paso del siete. Repetido tres veces es, según la Coalición, perfectamente imperfecto; para Hendriksen y el Mundo Hispano, un fracaso continuo; para la Biblia MacArthur, el hombre más poderoso que sigue siendo apenas un hombre.",
+          "fuentes": [
+            "macarthur_12_a#14",
+            "mbiblia_02_b#17",
+            "cpe_02#25",
+            "r1_020#2",
+            "r1_012#11",
+            "cbmh_06_a#33"
+          ]
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "20:2", "griego": "χίλια ἔτη", "translit": "chília étē", "significado": "Mil años; la expresión aparece seis veces en 20:2-7.", "fuentes": ["r1_029#23", "r1_004#8"]},
-    {"ref": "13:18", "griego": "ἑξακόσιοι ἑξήκοντα ἕξ", "translit": "hexakósioi hexḗkonta héx", "significado": "Seiscientos sesenta y seis, escrito con palabras en el texto griego.", "fuentes": ["mcgee_08#24", "mcgeer_09#25"]}
+    {
+      "ref": "20:2",
+      "griego": "χίλια ἔτη",
+      "translit": "chília étē",
+      "significado": "Mil años; la expresión aparece seis veces en 20:2-7.",
+      "fuentes": [
+        "r1_029#23",
+        "r1_004#8"
+      ]
+    },
+    {
+      "ref": "13:18",
+      "griego": "ἑξακόσιοι ἑξήκοντα ἕξ",
+      "translit": "hexakósioi hexḗkonta héx",
+      "significado": "Seiscientos sesenta y seis, escrito con palabras en el texto griego.",
+      "fuentes": [
+        "mcgee_08#24",
+        "mcgeer_09#25"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Quiénes son los 144.000?",
       "posturas": [
-        {"postura": "Judíos de las doce tribus, sellados durante la tribulación como testigos.", "quien": "Larkin, Biblia MacArthur y Wiersbe (premilenial dispensacional)", "fuentes": ["larkin_02_b#14", "mbiblia_01_c#27", "r1_024_b#19"]},
-        {"postura": "El pueblo de Dios completo: doce por doce por mil.", "quien": "Earle (Beacon); Comentario Mundo Hispano; Coalición por el Evangelio", "fuentes": ["beacon_03_b#11", "cbmh_06_a#34", "cpe_02#28"]}
+        {
+          "postura": "Judíos de las doce tribus, sellados durante la tribulación como testigos.",
+          "quien": "Larkin, Biblia MacArthur y Wiersbe (premilenial dispensacional)",
+          "fuentes": [
+            "larkin_02_b#14",
+            "mbiblia_01_c#27",
+            "r1_024_b#19"
+          ]
+        },
+        {
+          "postura": "El pueblo de Dios completo: doce por doce por mil.",
+          "quien": "Earle (Beacon); Comentario Mundo Hispano; Coalición por el Evangelio",
+          "fuentes": [
+            "beacon_03_b#11",
+            "cbmh_06_a#34",
+            "cpe_02#28"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que el sello marca a los que pertenecen a Dios y están protegidos por él."
-    },
-    {
-      "tema": "¿Qué señala el 666?",
-      "posturas": [
-        {"postura": "Nerón, por la suma de las letras hebreas de su nombre.", "quien": "Ligonier (preterista)", "fuentes": ["web_09#22"]},
-        {"postura": "Nerón como anticipo de un anticristo final todavía sin identificar.", "quien": "Coalición por el Evangelio; Earle (Beacon)", "fuentes": ["cpe_02#24", "beacon_04_b#1"]},
-        {"postura": "Un símbolo del hombre que no llega al siete, sin cálculo posible hoy.", "quien": "Ladd (premilenial histórico); Grau; McGee y Biblia MacArthur (premilenial dispensacional)", "fuentes": ["ladd_05_b#6", "r1_012#11", "mcgee_08#24", "mbiblia_02_b#17"]}
-      ],
-      "nota": "Ninguno respalda las identificaciones con personajes modernos."
     }
   ],
   "citas": [
-    {"texto": "El 7 es victoria, el 6 es derrota: el 7 es perfección, el 6 es fracaso, frustración.", "autor": "José Grau", "obra": "Escatología: final de los tiempos", "pagina": "pág. PDF 91"},
-    {"texto": "luchando en expresar por medio de símbolos la inmensidad, la simetría perfecta y el esplendor de la nueva Jerusalén", "autor": "Isbon T. Beckwith, citado en el Comentario Bíblico Mundo Hispano", "obra": "Comentario Bíblico Mundo Hispano, tomo 24: Apocalipsis", "pagina": "pág. PDF 285-286"},
-    {"texto": "si el diablo está atado, muy larga tiene que ser la cadena, pues llega hasta los últimos confines de la tierra", "autor": "Francisco Lacueva", "obra": "Curso práctico de teología bíblica", "pagina": "pág. PDF 598"}
+    {
+      "texto": "El 7 es victoria, el 6 es derrota: el 7 es perfección, el 6 es fracaso, frustración.",
+      "autor": "José Grau",
+      "obra": "Escatología: final de los tiempos",
+      "pagina": "pág. PDF 91"
+    },
+    {
+      "texto": "luchando en expresar por medio de símbolos la inmensidad, la simetría perfecta y el esplendor de la nueva Jerusalén",
+      "autor": "Isbon T. Beckwith, citado en el Comentario Bíblico Mundo Hispano",
+      "obra": "Comentario Bíblico Mundo Hispano, tomo 24: Apocalipsis",
+      "pagina": "pág. PDF 285-286"
+    },
+    {
+      "texto": "si el diablo está atado, muy larga tiene que ser la cadena, pues llega hasta los últimos confines de la tierra",
+      "autor": "Francisco Lacueva",
+      "obra": "Curso práctico de teología bíblica",
+      "pagina": "pág. PDF 598"
+    }
   ],
   "conexiones": [
-    {"ref": "Gn 2:3", "nota": "El séptimo día, cuando Dios terminó su obra: base del siete como número de lo completo.", "fuentes": ["web_11_a#11"]},
-    {"ref": "Ez 1:10", "nota": "Los cuatro rostros de los querubines, trasfondo de los cuatro seres vivientes.", "fuentes": ["cbmh_04#3", "ladd_02_c#15"]},
-    {"ref": "1 Cr 24:1-19", "nota": "Los veinticuatro turnos de sacerdotes, según Larkin el origen del número de los ancianos.", "fuentes": ["larkin_02_a#12"]},
-    {"ref": "Dn 7:25", "nota": "«Tiempo, y tiempos, y medio tiempo»: el período de opresión del cuerno pequeño.", "fuentes": ["ladd_04_b#5", "carballosa_19#16"]},
-    {"ref": "Dn 9:27", "nota": "La semana setenta, partida al medio: base de la lectura literal de los tres años y medio.", "fuentes": ["carballosa_19#16", "r1_022#14"]},
-    {"ref": "1 R 6:20", "nota": "El Lugar Santísimo era un cubo, como la nueva Jerusalén.", "fuentes": ["ladd_08_a#9", "macarthur_18_a#14", "cbmh_08_a#16"]}
+    {
+      "ref": "Gn 2:3",
+      "nota": "El séptimo día, cuando Dios terminó su obra: base del siete como número de lo completo.",
+      "fuentes": [
+        "web_11_a#11"
+      ]
+    },
+    {
+      "ref": "Ez 1:10",
+      "nota": "Los cuatro rostros de los querubines, trasfondo de los cuatro seres vivientes.",
+      "fuentes": [
+        "cbmh_04#3",
+        "ladd_02_c#15"
+      ]
+    },
+    {
+      "ref": "1 Cr 24:1-19",
+      "nota": "Los veinticuatro turnos de sacerdotes, según Larkin el origen del número de los ancianos.",
+      "fuentes": [
+        "larkin_02_a#12"
+      ]
+    },
+    {
+      "ref": "Dn 9:27",
+      "nota": "La semana setenta, partida al medio: base de la lectura literal de los tres años y medio.",
+      "fuentes": [
+        "carballosa_19#16",
+        "r1_022#14"
+      ]
+    },
+    {
+      "ref": "1 R 6:20",
+      "nota": "El Lugar Santísimo era un cubo, como la nueva Jerusalén.",
+      "fuentes": [
+        "ladd_08_a#9",
+        "macarthur_18_a#14",
+        "cbmh_08_a#16"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "El tiempo de la prueba tiene límite y lo pone Dios: cuarenta y dos meses, no un día más. Lo que hoy se sufre por Cristo es corto al lado de lo que viene.", "fuentes": ["ladd_04_b#5", "r1_012#9"]},
-    {"texto": "Más vale conocer a Cristo que descifrar el número de la bestia: los números del libro están para dar confianza en el Dios que gobierna la historia, no para alimentar la especulación.", "fuentes": ["mcgee_08#24", "web_17#8"]}
+    {
+      "texto": "El tiempo de la prueba tiene límite y lo pone Dios: lo que hoy se sufre por Cristo es corto al lado de lo que viene.",
+      "fuentes": [
+        "ladd_04_b#5",
+        "r1_012#9"
+      ]
+    },
+    {
+      "texto": "Más vale conocer a Cristo que descifrar el número de la bestia: los números del libro están para dar confianza en el Dios que gobierna la historia, no para alimentar la especulación.",
+      "fuentes": [
+        "mcgee_08#24",
+        "web_17#8"
+      ]
+    }
   ],
   "para_conversar": [
     "Cuando leemos un número en el Apocalipsis, ¿qué nos ayuda a decidir si es una cantidad o un símbolo, o las dos cosas?",
     "¿Qué nos dice del cuidado de Dios que el tiempo del mal esté medido en meses y días?",
     "¿Por qué creen que tanta gente se obsesionó con descifrar el 666, y qué preferiría Dios que miremos?"
   ],
-  "dias_relacionados": [2, 6, 10, 22, 23, 32, 33, 42, 47, 51, 56, 57, 66, 77, 90],
-  "visuales": ["dg-numeros", "dg-tiempos", "dg-milenio"],
-  "refs_apocalipsis": ["1:4", "2:10", "4:4-8", "5:6", "7:4-8", "11:2-3", "12:3", "12:6", "12:14", "13:1", "13:5", "13:18", "14:1-5", "17:9-12", "20:2-7", "21:12-17"],
-  "notas_no_usadas": ["r1_012#10", "r1_029#2", "r1_013#17", "larkin_01_b#6", "web_07#4", "cpe_01#5"]
+  "dias_relacionados": [
+    2,
+    6,
+    10,
+    22,
+    23,
+    32,
+    33,
+    42,
+    47,
+    51,
+    56,
+    57,
+    66,
+    77,
+    90
+  ],
+  "visuales": [
+    "dg-numeros",
+    "dg-tiempos",
+    "dg-milenio"
+  ],
+  "refs_apocalipsis": [
+    "1:4",
+    "2:10",
+    "4:4-8",
+    "5:6",
+    "7:4-8",
+    "11:2-3",
+    "12:3",
+    "12:6",
+    "12:14",
+    "13:1",
+    "13:5",
+    "13:18",
+    "14:1-5",
+    "17:9-12",
+    "20:2-7",
+    "21:12-17"
+  ],
+  "notas_no_usadas": [
+    "r1_012#10",
+    "r1_029#2",
+    "r1_013#17",
+    "larkin_01_b#6",
+    "web_07#4",
+    "cpe_01#5"
+  ]
 }

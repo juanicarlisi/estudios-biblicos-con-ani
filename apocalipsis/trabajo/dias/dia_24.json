@@ -3,21 +3,40 @@
   "desde": "5:1",
   "hasta": "5:4",
   "titulo": "Un libro sellado que nadie puede abrir",
-  "minutos": {"lectura": 1, "estudio": 26},
+  "minutos": {
+    "lectura": 1,
+    "estudio": 26
+  },
   "contexto": {
-    "antes": "El capítulo 4 terminó con el cielo adorando al Creador sentado en el trono. El capítulo 5 empieza con una «y» que une las dos escenas: es la misma visión, que sigue. Si el centro del capítulo 4 es el trono, el del 5 será el Cordero (Carballosa, McGee).",
-    "ahora": "Juan ve un rollo en la mano derecha de Dios, escrito por los dos lados y sellado con siete sellos. Un ángel fuerte pregunta a gran voz quién es digno de abrirlo, nadie en toda la creación responde, y Juan se pone a llorar. Es la primera de las tres escenas del capítulo: la búsqueda de alguien digno (MacArthur).",
+    "antes": "El capítulo 4 terminó con el cielo adorando al Creador. El 5 empieza con una «y»: es la misma visión, que sigue. Si el centro del capítulo 4 es el trono, el del 5 será el Cordero (Carballosa, McGee).",
+    "ahora": "Un rollo sellado en la mano de Dios, un ángel que pregunta quién es digno de abrirlo, nadie que responda y Juan que llora. Es la primera de las tres escenas del capítulo: la búsqueda de alguien digno (MacArthur).",
     "donde": "En el cielo, delante del trono que Juan describió en el capítulo 4.",
-    "despues": "Mañana (5:5-6) uno de los ancianos le dice a Juan que no llore: el León de la tribu de Judá, la raíz de David, ha vencido para abrir el libro. Y cuando Juan mira, ve un Cordero. Con los sellos de ese rollo se abre el capítulo 6.",
-    "fuentes": ["carballosa_05_a#14", "mcgeer_04#28", "macarthur_05_b#14", "r2_031#28", "r2_032#16", "web_03_b#25", "ladd_02_c#27"]
+    "despues": "Mañana (5:5-6) un anciano le dice a Juan que no llore: el León de la tribu de Judá ha vencido para abrir el libro. Y cuando Juan mira, ve un Cordero.",
+    "fuentes": [
+      "carballosa_05_a#14",
+      "mcgeer_04#28",
+      "macarthur_05_b#14",
+      "r2_031#28",
+      "r2_032#16",
+      "web_03_b#25",
+      "ladd_02_c#27"
+    ]
   },
   "versiculo_clave": {
     "ref": "5:1-2",
-    "porque": "Reúne las dos piezas del día: un libro que solo Dios tiene en la mano y una pregunta que recorre todo el universo. Todo lo que sigue en el libro depende de la respuesta."
+    "porque": "Reúne las dos piezas del día: un libro que solo Dios tiene en la mano y una pregunta que recorre todo el universo."
   },
   "panorama": {
-    "texto": "Después de la adoración del capítulo 4, Juan fija la mirada en un objeto: un rollo en la mano derecha de Dios, escrito por dentro y por fuera y cerrado con siete sellos. Los autores no se ponen de acuerdo sobre qué contiene (un título de propiedad, un testamento, el plan de Dios para el fin, entre otras lecturas), pero coinciden en lo que el cuadro enseña: la historia descansa en la mano de Dios, su sentido está escondido y nadie en el cielo, en la tierra ni debajo de ella tiene la dignidad para abrirla. Juan llora porque, si el libro sigue cerrado, lo que Dios prometió mostrarle no se cumple. El día deja la pregunta abierta, como la deja el texto, para que mañana la respuesta brille: solo el Cordero es digno.",
-    "fuentes": ["ladd_02_c#26", "ladd_02_c#25", "web_08#11", "henry_01_b#6", "cbmh_04#17", "web_08#12", "r2_031#28"]
+    "texto": "Después de la adoración del capítulo 4, Juan fija la mirada en un rollo en la mano derecha de Dios, escrito por dentro y por fuera y cerrado con siete sellos. Los autores discuten qué contiene (un título de propiedad, un testamento, el plan de Dios para el fin, entre otras lecturas), pero coinciden en lo que enseña el cuadro: la historia descansa en la mano de Dios, su sentido está escondido y nadie en toda la creación es digno de abrirla. Juan llora porque, si el libro sigue cerrado, lo prometido no se cumple. El texto deja la pregunta abierta hasta mañana, para que la respuesta brille: solo el Cordero es digno.",
+    "fuentes": [
+      "ladd_02_c#26",
+      "ladd_02_c#25",
+      "web_08#11",
+      "henry_01_b#6",
+      "cbmh_04#17",
+      "web_08#12",
+      "r2_031#28"
+    ]
   },
   "secciones": [
     {
@@ -25,18 +44,28 @@
       "titulo": "«En la mano derecha del que estaba sentado en el trono»",
       "notas": [
         {
-          "texto": "«Y vi» abre una escena nueva; Juan lo repite en los versículos 2, 6 y 11 para marcar cada cuadro y recordar que es testigo de lo que cuenta (Carballosa, MacArthur). MacArthur divide el capítulo en tres partes: la búsqueda de alguien digno (vv. 2-4), el digno que aparece (vv. 5-7) y el cántico al digno (vv. 8-14). Hoy estudiamos la primera.",
-          "fuentes": ["carballosa_05_a#14", "macarthur_05_b#14", "beacon_03_a#21"],
+          "texto": "«Y vi» abre una escena nueva, y se repite en los versículos 2, 6 y 11 (Carballosa, MacArthur). MacArthur divide el capítulo en tres partes: la búsqueda de alguien digno (vv. 2-4), el digno que aparece (vv. 5-7) y el cántico al digno (vv. 8-14).",
+          "fuentes": [
+            "carballosa_05_a#14",
+            "macarthur_05_b#14",
+            "beacon_03_a#21"
+          ],
           "tipo": "estructura_bosquejo"
         },
         {
           "texto": "El rollo está en la mano derecha de Dios (una figura humana para hablar de Dios, aclara el Comentario Mundo Hispano). Para Ladd no hay cuadro más sencillo ni más sublime de la soberanía de Dios: toda la historia humana descansa en su mano, y por poderoso que llegue a ser el mal, sigue ahí. Beasley-Murray lo dice así: es un libro sobre el destino, y su autor es Dios.",
-          "fuentes": ["cbmh_04#13", "ladd_02_c#26", "henry_01_b#6"],
+          "fuentes": [
+            "cbmh_04#13",
+            "ladd_02_c#26",
+            "henry_01_b#6"
+          ],
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "Carballosa agrega un matiz: el rollo descansa sobre la mano abierta, disponible para quien esté calificado para tomarlo. Hasta ese momento solo el Padre tiene autoridad sobre los tiempos y las sazones (Hch 1:7).",
-          "fuentes": ["carballosa_05_a#14"],
+          "texto": "Carballosa agrega que el rollo descansa sobre la mano, disponible para quien esté calificado; hasta entonces solo el Padre tiene autoridad sobre los tiempos y las sazones (Hch 1:7).",
+          "fuentes": [
+            "carballosa_05_a#14"
+          ],
           "tipo": "explicacion_texto"
         }
       ]
@@ -47,22 +76,45 @@
       "notas": [
         {
           "texto": "«Libro» traduce biblíon, que no es un libro de páginas como los nuestros sino un rollo de papiro o de piel, el formato de antes del códice (MacArthur, Mundo Hispano, Ladd). Una minoría piensa en un libro con hojas, cada sello atando un grupo de ellas; Ladd lo ve difícil y prefiere el rollo, sellado en el borde exterior con siete sellos de cera.",
-          "fuentes": ["macarthur_05_b#11", "cbmh_04#13", "ladd_02_c#21"],
+          "fuentes": [
+            "macarthur_05_b#11",
+            "cbmh_04#13",
+            "ladd_02_c#21"
+          ],
           "tipo": "cultura_costumbres"
         },
         {
-          "texto": "Lo común era escribir solo de un lado, el interior, donde las fibras del papiro corrían horizontales y la pluma andaba mejor. Escribir también del lado de afuera no era habitual, aunque a veces se hacía; Sproul lo llama extraordinario y Guzik ve en eso mucha información (Earle en el Beacon, Mundo Hispano, Diccionario Mundo Hispano).",
-          "fuentes": ["beacon_03_a#19", "cbmh_04#13", "dbmh_01_a#38", "web_16#15", "web_08#10", "ladd_02_c#24"],
+          "texto": "Lo común era escribir solo del lado interior, donde las fibras del papiro corrían horizontales. Escribir también afuera se hacía a veces, pero no era habitual (Earle, Mundo Hispano, Diccionario Mundo Hispano, Ladd); Sproul lo llama extraordinario.",
+          "fuentes": [
+            "beacon_03_a#19",
+            "cbmh_04#13",
+            "dbmh_01_a#38",
+            "web_16#15",
+            "web_08#10",
+            "ladd_02_c#24"
+          ],
           "tipo": "cultura_costumbres"
         },
         {
-          "texto": "¿Por qué de los dos lados? Las respuestas varían. Según la Biblia de estudio MacArthur, en los contratos antiguos el interior llevaba el detalle y el exterior un resumen en letras más grandes; Larkin dice que afuera iban el título y los nombres de los testigos. Para Wiersbe, que esté lleno de los dos lados indica que no se le puede agregar nada; para Ladd, la plenitud del consejo de Dios, que no se detiene hasta cumplirse del todo; para Carballosa, todo el consejo de Dios. Sproul, con honestidad, admite que no sabe por qué.",
-          "fuentes": ["mbiblia_01_b#43", "larkin_02_a#27", "r1_024_b#8", "ladd_02_c#24", "carballosa_05_a#14", "web_16#15"],
+          "texto": "¿Por qué de los dos lados? Según la Biblia de estudio MacArthur, en los contratos antiguos el interior llevaba el detalle y el exterior un resumen; Larkin dice que afuera iban el título y los testigos. Para Wiersbe, no se le puede agregar nada; para Ladd y Carballosa, es la plenitud del consejo de Dios; para Guzik, mucha información. Sproul admite con honestidad que no sabe por qué.",
+          "fuentes": [
+            "mbiblia_01_b#43",
+            "larkin_02_a#27",
+            "r1_024_b#8",
+            "ladd_02_c#24",
+            "carballosa_05_a#14",
+            "web_16#15"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Varios autores ven el modelo en Ezequiel, que recibió un rollo escrito por delante y por detrás, con endechas, lamentaciones y ayes, y tuvo que comerlo (Ez 2:9-10). Ladd lo considera la clave del pasaje; Sproul y MacArthur lo usan para leer el rollo como juicio; Mundo Hispano lo ofrece como posible inspiración.",
-          "fuentes": ["ladd_02_c#24", "web_16#15", "macarthur_05_b#13", "cbmh_04#13"],
+          "texto": "Varios autores ven el modelo en el rollo escrito por delante y por detrás, con endechas, lamentaciones y ayes, que Ezequiel tuvo que comer (Ez 2:9-10). Ladd lo considera la clave del pasaje; Sproul y MacArthur lo usan para leer el rollo como juicio.",
+          "fuentes": [
+            "ladd_02_c#24",
+            "web_16#15",
+            "macarthur_05_b#13",
+            "cbmh_04#13"
+          ],
           "tipo": "conexion_biblica"
         }
       ]
@@ -73,23 +125,35 @@
       "notas": [
         {
           "texto": "El griego subraya el cierre: un participio perfecto con un prefijo que intensifica, «sellado del todo y con seguridad» (Carballosa; Earle habla de sellado herméticamente). El siete, número de lo completo, refuerza la idea: el rollo está cerrado por completo y oculto a todo ojo humano (Earle, Ladd).",
-          "fuentes": ["carballosa_05_a#18", "beacon_03_a#19", "ladd_02_c#25"],
+          "fuentes": [
+            "carballosa_05_a#18",
+            "beacon_03_a#19",
+            "ladd_02_c#25"
+          ],
           "tipo": "griego_palabra"
         },
         {
-          "texto": "Un sello era una impronta en cera o barro. Servía para dar autenticidad, ratificar un pacto, marcar propiedad y proteger un documento de una persona no autorizada (Diccionario Mundo Hispano, Thomas citado por Carballosa). Un libro sellado guardaba un secreto que se descubría al quitar el sello, como en Daniel 12:4, 9 (Diccionario Mundo Hispano); Carballosa suma Isaías 29:11 y el Comentario Mundo Hispano subraya que el contenido es un secreto absoluto.",
-          "fuentes": ["dbmh_02#18", "carballosa_05_a#18", "dbmh_01_a#38", "cbmh_04#15", "cbmh_04#13"],
+          "texto": "El sello, una impronta en cera o barro, daba autenticidad, ratificaba un pacto, marcaba propiedad y protegía el documento de manos no autorizadas (Diccionario Mundo Hispano; Thomas citado por Carballosa). Un libro sellado guardaba un secreto que se descubría al quitar el sello, como en Daniel 12:4, 9 e Isaías 29:11.",
+          "fuentes": [
+            "dbmh_02#18",
+            "carballosa_05_a#18",
+            "dbmh_01_a#38",
+            "cbmh_04#15",
+            "cbmh_04#13"
+          ],
           "tipo": "cultura_costumbres"
         },
         {
-          "texto": "Muchos recuerdan una costumbre romana: el testamento se sellaba con siete sellos de siete testigos y no se ejecutaba sin romperlos; se citan los de Augusto y Vespasiano (Charles citado por Earle; Stauffer citado por McGee; Zahn citado por Beasley-Murray; Guzik). MacArthur, siguiendo a Thomas, prefiere hablar de un contrato o documento legal, que se usaba para matrimonios, alquileres, préstamos o liberación de esclavos; los títulos hebreos de propiedad pedían al menos tres testigos y tres sellos. McGee aclara que el siete del Apocalipsis no viene de esa costumbre, aunque el dato sea interesante.",
-          "fuentes": ["beacon_03_a#19", "mcgee_04_b#6", "henry_01_b#6", "web_08#11", "macarthur_05_b#12", "mbiblia_01_b#43"],
+          "texto": "Muchos recuerdan que el testamento romano se sellaba con siete sellos de siete testigos y no se ejecutaba sin romperlos, como los de Augusto y Vespasiano (Charles citado por Earle; Stauffer citado por McGee; Zahn citado por Beasley-Murray; Guzik). MacArthur, con Thomas, prefiere hablar de un contrato o título; los títulos hebreos pedían al menos tres testigos y tres sellos. McGee aclara que el siete del Apocalipsis no viene de esa costumbre.",
+          "fuentes": [
+            "beacon_03_a#19",
+            "mcgee_04_b#6",
+            "henry_01_b#6",
+            "web_08#11",
+            "macarthur_05_b#12",
+            "mbiblia_01_b#43"
+          ],
           "tipo": "contexto_historico"
-        },
-        {
-          "texto": "¿Cómo estaban puestos los sellos? Larkin y MacArthur describen un rollo que se enrollaba un tramo, se sellaba, se enrollaba otro tramo y se volvía a sellar, de modo que al romper cada sello se podía leer hasta el siguiente. Ladd y Guzik lo imaginan sellado en el borde exterior, sin poder leerse hasta abrirlos todos. Mundo Hispano reconoce que así sería con un rollo real, pero dice que ese detalle no se aplica en la visión: con cada sello roto se despliega la revelación.",
-          "fuentes": ["larkin_02_a#28", "web_03_b#24", "ladd_02_c#21", "web_08#10", "cbmh_04#15"],
-          "tipo": "dificultad_interpretaciones"
         }
       ]
     },
@@ -98,23 +162,42 @@
       "titulo": "«Un ángel fuerte que pregonaba a gran voz»",
       "notas": [
         {
-          "texto": "El texto no le pone nombre. Algunos piensan en Gabriel, cuyo nombre significa fortaleza de Dios (Dn 8:16); la Biblia de estudio MacArthur lo deja como posibilidad incierta, Guzik dice que no se sabe y MacArthur, en su comentario, que debe quedar anónimo. Lo que importa, dice Carballosa, es su función: es el heraldo de la corte del cielo. Hay otros ángeles fuertes en 10:1 y 18:21.",
-          "fuentes": ["mbiblia_01_b#44", "web_08#12", "macarthur_05_b#15", "carballosa_05_a#19", "cbmh_04#17"],
+          "texto": "El texto no le pone nombre. La Biblia de estudio MacArthur menciona como posibilidad a Gabriel, cuyo nombre significa fortaleza de Dios (Dn 8:16); Guzik dice que no se sabe y MacArthur, que debe quedar anónimo. Lo que importa, según Carballosa, es su función: el heraldo de la corte del cielo. Hay otros ángeles fuertes en 10:1 y 18:21.",
+          "fuentes": [
+            "mbiblia_01_b#44",
+            "web_08#12",
+            "macarthur_05_b#15",
+            "carballosa_05_a#19",
+            "cbmh_04#17"
+          ],
           "tipo": "personaje"
         },
         {
-          "texto": "Es fuerte para una gran responsabilidad y su voz alcanza todo el universo: la pregunta tiene que oírse en el cielo, en la tierra y debajo de la tierra (Carballosa, MacArthur, Mundo Hispano, Beasley-Murray). Earle nota un detalle de orden: primero hay que desatar los sellos y después abrir el libro, pero el ángel nombra primero la apertura porque es la meta.",
-          "fuentes": ["carballosa_05_a#19", "macarthur_05_b#15", "cbmh_04#17", "henry_01_b#7", "beacon_03_a#21"],
+          "texto": "Su voz alcanza todo el universo: la pregunta tiene que oírse en el cielo, en la tierra y debajo de la tierra (Carballosa, MacArthur, Beasley-Murray). Earle nota que primero hay que desatar los sellos y después abrir el libro, pero el ángel nombra primero la apertura porque es la meta.",
+          "fuentes": [
+            "carballosa_05_a#19",
+            "macarthur_05_b#15",
+            "cbmh_04#17",
+            "henry_01_b#7",
+            "beacon_03_a#21"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "«¿Quién es digno de abrir el libro y desatar sus sellos?» No pregunta quién es capaz, sino quién es digno: alguien con el rango, el carácter y la capacidad (Robertson, citado por Carballosa). MacArthur lo detalla: hace falta dignidad y derecho divino para abrir los sellos, y poder para derrotar a Satanás, quitar el pecado y revocar la maldición. Para McGee es la pregunta por quién tiene el derecho y el título para gobernar el mundo y establecer la justicia.",
-          "fuentes": ["carballosa_05_a#19", "macarthur_05_b#15", "mcgee_04_b#9", "mcgeer_04#32"],
+          "texto": "«¿Quién es digno de abrir el libro y desatar sus sellos?» No pregunta quién puede, sino quién es digno: en rango, en carácter y en capacidad (Robertson, citado por Carballosa). Para MacArthur hace falta derecho divino y poder para derrotar a Satanás, quitar el pecado y revocar la maldición; para McGee, el derecho y el título para gobernar el mundo con justicia.",
+          "fuentes": [
+            "carballosa_05_a#19",
+            "macarthur_05_b#15",
+            "mcgee_04_b#9",
+            "mcgeer_04#32"
+          ],
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "Larkin lee el pregón con la ley del rescate en Israel: el pariente que quería redimir una tierra iba a la puerta de la ciudad con diez ancianos como testigos y anunciaba su propósito, como Booz por Rut (Rt 4:1-12). El grito del ángel sería el llamado para que aparezca ese Pariente Redentor, y por eso lo que se busca no es un ángel sino un hombre.",
-          "fuentes": ["larkin_02_a#22"],
+          "texto": "Larkin lee el pregón con la ley del rescate en Israel: el pariente que quería redimir una tierra lo anunciaba en la puerta de la ciudad ante diez ancianos, como Booz (Rt 4:1-12). El grito del ángel llama a ese Pariente Redentor; por eso, dice, lo que se busca no es un ángel sino un hombre.",
+          "fuentes": [
+            "larkin_02_a#22"
+          ],
           "tipo": "conexion_biblica"
         }
       ]
@@ -125,17 +208,28 @@
       "notas": [
         {
           "texto": "«Ni en el cielo ni en la tierra» ni debajo de ella: según la Biblia de estudio MacArthur es una expresión bíblica común para decir el universo entero, no una lección sobre tres pisos precisos (vale lo mismo para 5:13). Earle sugiere traducir «ninguno» como nadie, porque abarca ángeles y hombres.",
-          "fuentes": ["mbiblia_01_b#45", "beacon_03_a#21"],
+          "fuentes": [
+            "mbiblia_01_b#45",
+            "beacon_03_a#21"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Carballosa recorre los tres ámbitos (con Fil 2:10). En el cielo, ni Miguel ni Gabriel tienen lo que hace falta; en la tierra, la raza humana está bajo juicio y maldición; debajo de la tierra, probablemente el Hades, donde están los que murieron sin Cristo y quizá demonios. MacArthur describe el silencio: no responden arcángeles ni ángeles, ni Abraham, Moisés, David, Isaías, Pedro o Pablo. McGee agrega que nadie del linaje de Adán califica: Adán perdió el dominio, Moisés dio la ley y la quebrantó, David y su descendencia fracasaron; y tampoco Satanás. Ni partidos, ni naciones, ni las Naciones Unidas.",
-          "fuentes": ["carballosa_05_a#20", "macarthur_05_b#15", "mcgee_04_b#9", "mcgeer_04#32"],
+          "texto": "Carballosa recorre los tres ámbitos (Fil 2:10): en el cielo, ni Miguel ni Gabriel tienen lo que hace falta; en la tierra, la humanidad está bajo maldición; debajo, probablemente el Hades. MacArthur describe el silencio: ni arcángeles, ni Abraham, Moisés, David, Isaías, Pedro o Pablo. McGee agrega que nadie del linaje de Adán califica (Adán perdió el dominio, Moisés quebrantó la ley que dio, David y su descendencia fracasaron), ni tampoco Satanás, ni partidos ni naciones.",
+          "fuentes": [
+            "carballosa_05_a#20",
+            "macarthur_05_b#15",
+            "mcgee_04_b#9",
+            "mcgeer_04#32"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Nadie puede abrirlo «ni aun mirarlo». Para Guzik, la creación es incapaz de decidir su propio destino: solo Dios puede desenvolver su plan. Ladd ve aquí una verdad simple y profunda: fuera de la persona y la obra de Jesucristo, la historia es un enigma. Recuerda que desde Agustín Occidente pensó la historia con una meta puesta por Dios, que desde el iluminismo muchos lo rechazaron y que hoy se duda de que se pueda conocer su fin. Por eso es significativo que ningún ojo humano pueda leer el rollo.",
-          "fuentes": ["web_08#12", "ladd_02_c#25"],
+          "texto": "Nadie puede abrirlo «ni aun mirarlo». Para Guzik, la creación es incapaz de decidir su propio destino. Ladd ve aquí una verdad simple y profunda: fuera de la persona y la obra de Jesucristo, la historia es un enigma. Desde Agustín, Occidente pensó la historia con una meta puesta por Dios; desde el iluminismo, muchos lo dejaron de lado. Por eso es significativo que ningún ojo humano pueda leer el rollo.",
+          "fuentes": [
+            "web_08#12",
+            "ladd_02_c#25"
+          ],
           "tipo": "teologia_doctrina"
         }
       ]
@@ -145,23 +239,40 @@
       "titulo": "«Y lloraba yo mucho»",
       "notas": [
         {
-          "texto": "No son lágrimas discretas. El verbo está en imperfecto y habla de llanto audible, de lamento en voz alta: empecé a llorar y seguí sollozando (Carballosa). Es la palabra que se usa para el llanto de Jesús sobre Jerusalén y el llanto amargo de Pedro; MacArthur nota que es la única vez que se ven lágrimas en el cielo, el mismo lugar donde Dios las enjugará (7:17; 21:4).",
-          "fuentes": ["carballosa_05_a#21", "macarthur_05_b#16"],
+          "texto": "El verbo, en imperfecto, habla de llanto audible: empecé a llorar y seguí sollozando (Carballosa). Es la palabra del llanto de Jesús sobre Jerusalén y del de Pedro; MacArthur nota que es la única vez que se ven lágrimas en el cielo, donde Dios después las enjugará (7:17; 21:4).",
+          "fuentes": [
+            "carballosa_05_a#21",
+            "macarthur_05_b#16"
+          ],
           "tipo": "griego_palabra"
         },
         {
-          "texto": "¿Por qué llora? No por lástima de sí mismo ni por curiosidad vacía. En 4:1 se le prometió mostrarle lo que va a suceder, y eso no puede cumplirse si el rollo sigue cerrado (Mundo Hispano, Guzik, Wiersbe). Más de fondo, el plan de Dios para la tierra quedaría frustrado y la consumación de la historia, postergada sin fin (Thomas citado por Carballosa; Guzik). Wiersbe y McGee piensan además en la creación que gime esperando su redención (Ro 8:22-23).",
-          "fuentes": ["cbmh_04#17", "web_08#12", "r1_024_b#8", "carballosa_05_a#21", "mcgee_04_b#10"],
+          "texto": "¿Por qué llora? No por curiosidad vacía: en 4:1 se le prometió mostrarle lo que vendría, y eso no puede cumplirse con el rollo cerrado (Mundo Hispano, Guzik, Wiersbe). Más de fondo, el plan de Dios para la tierra quedaría frustrado (Thomas citado por Carballosa), y la creación seguiría gimiendo (Ro 8:22-23; Wiersbe, McGee).",
+          "fuentes": [
+            "cbmh_04#17",
+            "web_08#12",
+            "r1_024_b#8",
+            "carballosa_05_a#21",
+            "mcgee_04_b#10"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "W. A. Criswell, citado por MacArthur, ve en esas lágrimas las de todo el pueblo de Dios, desde Adán y Eva junto a Abel hasta los que hoy miran una tumba: sin Redentor, la tierra quedaría para siempre bajo la maldición. McGee habla de un afecto santo y una curiosidad piadosa, y dice que el Apocalipsis se escribió con lágrimas. Carballosa ve en el lamento la ruina del hombre caído, que ni siquiera puede mirar el rollo.",
-          "fuentes": ["macarthur_05_b#16", "mcgee_04_b#10", "mcgeer_04#32", "carballosa_05_a#21"],
+          "texto": "W. A. Criswell, citado por MacArthur, ve en esas lágrimas las de todo el pueblo de Dios, desde Adán y Eva junto a Abel: sin Redentor, la tierra quedaría para siempre bajo la maldición. McGee habla de un afecto santo y dice que el Apocalipsis se escribió con lágrimas; Carballosa ve en el lamento la ruina del hombre caído.",
+          "fuentes": [
+            "macarthur_05_b#16",
+            "mcgee_04_b#10",
+            "mcgeer_04#32",
+            "carballosa_05_a#21"
+          ],
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "MacArthur agrega que el llanto era sincero pero apresurado: Dios estaba por actuar, como cuando Jesús le dijo a la viuda de Naín que no llorara o entró en la casa de Jairo (Lc 7:13; 8:52). El mismo texto lo confirma enseguida: un anciano le va a decir «No llores» (5:5).",
-          "fuentes": ["macarthur_05_b#16", "r2_032#16"],
+          "texto": "MacArthur agrega que el llanto era sincero pero apresurado: Dios estaba por actuar, como con la viuda de Naín o la hija de Jairo (Lc 7:13; 8:52). Enseguida un anciano le va a decir «No llores» (5:5).",
+          "fuentes": [
+            "macarthur_05_b#16",
+            "r2_032#16"
+          ],
           "tipo": "explicacion_texto"
         }
       ]
@@ -171,32 +282,40 @@
     {
       "signo": "el libro (rollo) sellado",
       "significado": "Su contenido es lo más discutido del día (ver Interpretaciones). Lo que los autores comparten: está en la mano de Dios, encierra su voluntad sobre el destino del mundo y solo se abre por la mediación de Cristo (Ladd, Beasley-Murray, Charles citado por Earle).",
-      "refs": ["5:1"],
-      "fuentes": ["ladd_02_c#26", "henry_01_b#6", "beacon_03_a#20"]
-    },
-    {
-      "signo": "mano derecha",
-      "significado": "Figura humana aplicada a Dios (Mundo Hispano): su soberanía sobre toda la historia (Ladd).",
-      "refs": ["5:1"],
-      "fuentes": ["cbmh_04#13", "ladd_02_c#26"]
+      "refs": [
+        "5:1"
+      ],
+      "fuentes": [
+        "ladd_02_c#26",
+        "henry_01_b#6",
+        "beacon_03_a#20"
+      ]
     },
     {
       "signo": "siete sellos",
       "significado": "El siete es el número de lo completo: el rollo está cerrado del todo y su contenido es secreto (Earle, Ladd, Mundo Hispano). El sello protege, autentica y marca propiedad.",
-      "refs": ["5:1", "6:1"],
-      "fuentes": ["beacon_03_a#19", "ladd_02_c#25", "cbmh_04#15", "dbmh_02#18"]
-    },
-    {
-      "signo": "escrito por dentro y por fuera",
-      "significado": "Según Ladd, la plenitud del consejo de Dios; según Wiersbe, que no se le puede agregar nada; según Guzik, mucha información; Sproul no se pronuncia.",
-      "refs": ["5:1", "Ez 2:9-10"],
-      "fuentes": ["ladd_02_c#24", "r1_024_b#8", "web_08#10", "web_16#15"]
+      "refs": [
+        "5:1",
+        "6:1"
+      ],
+      "fuentes": [
+        "beacon_03_a#19",
+        "ladd_02_c#25",
+        "cbmh_04#15",
+        "dbmh_02#18"
+      ]
     },
     {
       "signo": "cielo, tierra y debajo de la tierra",
       "significado": "El universo entero (Biblia de estudio MacArthur); para Carballosa, los ángeles, la humanidad y el Hades.",
-      "refs": ["5:3", "5:13"],
-      "fuentes": ["mbiblia_01_b#45", "carballosa_05_a#20"]
+      "refs": [
+        "5:3",
+        "5:13"
+      ],
+      "fuentes": [
+        "mbiblia_01_b#45",
+        "carballosa_05_a#20"
+      ]
     }
   ],
   "palabras": [
@@ -205,52 +324,88 @@
       "griego": "βιβλίον",
       "translit": "biblíon",
       "significado": "Rollo o libro pequeño, de papiro o piel; no un libro de páginas (MacArthur, Mundo Hispano).",
-      "fuentes": ["macarthur_05_b#11", "cbmh_04#13"]
+      "fuentes": [
+        "macarthur_05_b#11",
+        "cbmh_04#13"
+      ]
     },
     {
       "ref": "5:1",
       "griego": "γεγραμμένον",
       "translit": "gegramménon",
       "significado": "«Escrito», participio perfecto pasivo; según Carballosa, la forma usada para documentos legales cuya autoridad sigue vigente.",
-      "fuentes": ["carballosa_05_a#14"]
+      "fuentes": [
+        "carballosa_05_a#14"
+      ]
     },
     {
       "ref": "5:1",
       "griego": "κατεσφραγισμένον",
       "translit": "katesphragisménon",
       "significado": "«Sellado» con kata intensivo: sellado del todo y con seguridad (Carballosa); herméticamente (Earle).",
-      "fuentes": ["carballosa_05_a#18", "beacon_03_a#19"]
+      "fuentes": [
+        "carballosa_05_a#18",
+        "beacon_03_a#19"
+      ]
     },
     {
       "ref": "5:2",
       "griego": "ἄξιος",
       "translit": "áxios",
       "significado": "«Digno»: con cualidades morales y espirituales; digno en rango y carácter, y también en capacidad (Robertson, citado por Carballosa).",
-      "fuentes": ["carballosa_05_a#19"]
+      "fuentes": [
+        "carballosa_05_a#19"
+      ]
     },
     {
       "ref": "5:4",
       "griego": "ἔκλαιον",
       "translit": "éklaion (de klaiō)",
       "significado": "«Lloraba», imperfecto: llanto audible y prolongado (Carballosa). Klaiō expresa una emoción fuerte e incontenible; es el verbo de Lc 19:41 y 22:62 (MacArthur).",
-      "fuentes": ["carballosa_05_a#21", "macarthur_05_b#16"]
+      "fuentes": [
+        "carballosa_05_a#21",
+        "macarthur_05_b#16"
+      ]
     }
   ],
   "cristo": [
     {
-      "texto": "El pregón busca a alguien digno, y el resto de la Biblia dice quién es. Carballosa funda los derechos de Cristo sobre la tierra en tres títulos: es el Creador de todo (Col 1:16), el Hijo del Hombre a quien se le sujetó todo (Sal 8; He 2:5-9) y el Redentor que pagó con su sangre (5:9); como la creación está bajo maldición, el derecho del Redentor va primero. McGee lo resume: el que gobierne tiene que ser Redentor, Soberano y Salvador, y apoya en Daniel 7:13-14 que al Hijo del Hombre se le da el dominio.",
-      "refs": ["Col 1:16", "He 2:5-9", "Dn 7:13-14", "Ap 5:9"],
-      "fuentes": ["carballosa_05_a#16", "mcgee_04_b#9", "mcgee_04_b#7"]
+      "texto": "El resto de la Biblia dice quién es el digno. Carballosa funda los derechos de Cristo sobre la tierra en que es Creador (Col 1:16), Hijo del Hombre a quien todo se sujetó (Sal 8; He 2:5-9) y Redentor (5:9); como la creación está bajo maldición, el derecho del Redentor va primero. McGee: el que gobierne tiene que ser Redentor, Soberano y Salvador, como el Hijo del Hombre que recibe el dominio en Daniel 7:13-14.",
+      "refs": [
+        "Col 1:16",
+        "He 2:5-9",
+        "Dn 7:13-14",
+        "Ap 5:9"
+      ],
+      "fuentes": [
+        "carballosa_05_a#16",
+        "mcgee_04_b#9",
+        "mcgee_04_b#7"
+      ]
     },
     {
-      "texto": "Los que leen el rollo como un título de propiedad ven a Cristo como el Pariente Redentor de Levítico 25, de Rut y de Jeremías 32: Adán perdió la herencia y no podía recuperarla, pero la ley permitía que un pariente la rescatara. Para ser pariente, Cristo nació como hombre; pagó el precio con su propia sangre (1 P 1:18-20), aunque todavía no reclamó lo que compró (Larkin, Wiersbe). Wiersbe agrega que un testamento sellado solo lo abría el heredero, y Cristo es «heredero de todo» (He 1:2).",
-      "refs": ["Lv 25:23-25", "Rt 4:1-12", "1 P 1:18-20", "He 1:2"],
-      "fuentes": ["larkin_02_a#21", "larkin_02_a#22", "r1_024_b#8"]
+      "texto": "Para Larkin y Wiersbe, Cristo es el Pariente Redentor: Adán perdió la herencia y no podía recuperarla; Cristo se hizo hombre para ser pariente y pagó con su propia sangre (1 P 1:18-20), aunque todavía no reclamó lo que compró. Wiersbe agrega que un testamento sellado solo lo abría el heredero, y Cristo es «heredero de todo» (He 1:2).",
+      "refs": [
+        "Lv 25:23-25",
+        "Rt 4:1-12",
+        "1 P 1:18-20",
+        "He 1:2"
+      ],
+      "fuentes": [
+        "larkin_02_a#21",
+        "larkin_02_a#22",
+        "r1_024_b#8"
+      ]
     },
     {
-      "texto": "Ladd lo lleva a la historia entera: solo Cristo tiene la llave de su sentido, y fuera de su regreso victorioso la historia va hacia la nada. El vacío del versículo 3 prepara la respuesta del versículo 5, donde, como dice Sproul, el Rey de Israel y el Siervo sufriente se encuentran en una sola persona.",
-      "refs": ["Ap 5:5"],
-      "fuentes": ["ladd_02_c#25", "r2_032#16"]
+      "texto": "Ladd lo lleva a la historia entera: solo Cristo tiene la llave de su sentido. El vacío del versículo 3 prepara el versículo 5, donde, como dice Sproul, el Rey de Israel y el Siervo sufriente se encuentran en una sola persona.",
+      "refs": [
+        "Ap 5:5"
+      ],
+      "fuentes": [
+        "ladd_02_c#25",
+        "r2_032#16"
+      ]
     }
   ],
   "interpretaciones": [
@@ -258,103 +413,187 @@
       "tema": "¿Qué es el libro sellado?",
       "posturas": [
         {
-          "postura": "El título de propiedad de la tierra (o del universo) que Cristo recupera del usurpador. MacArthur agrega que no detalla lo que Cristo hereda sino cómo lo recobra: por los juicios que empiezan en 6:1, y por eso es a la vez rollo de condena y de redención.",
+          "postura": "El título de propiedad de la tierra que Cristo recupera del usurpador. MacArthur agrega que dice cómo la recobra: por los juicios de 6:1 en adelante; es rollo de condena y de redención.",
           "quien": "MacArthur y la Biblia de estudio MacArthur, Larkin, Wiersbe, McGee (con Ironside) (premileniales dispensacionales); Sanders, siguiendo a De Brough, la considera la más satisfactoria",
-          "fuentes": ["macarthur_05_b#13", "mbiblia_01_b#43", "web_03_b#24", "larkin_02_a#21", "r1_024_b#8", "mcgee_04_b#7", "r1_001#28"]
+          "fuentes": [
+            "macarthur_05_b#13",
+            "mbiblia_01_b#43",
+            "web_03_b#24",
+            "larkin_02_a#21",
+            "r1_024_b#8",
+            "mcgee_04_b#7",
+            "r1_001#28"
+          ]
         },
         {
-          "postura": "Un testamento, a la manera del testamento romano con siete sellos: la promesa del reino, decidida hace tiempo y todavía no ejecutada, o el programa completo de Dios que culmina en la segunda venida.",
+          "postura": "Un testamento, como el romano de siete sellos: la promesa del reino, decidida pero aún no ejecutada, o el programa de Dios que culmina en la segunda venida.",
           "quien": "Zahn, cuya lectura Beasley-Murray (premilenial histórico) encuentra atractiva; Guzik, con Barclay y Walvoord. Ladd también la ve atractiva, pero objeta que los sellos y las trompetas traen juicios, no la herencia de los creyentes",
-          "fuentes": ["henry_01_b#6", "web_08#11", "ladd_02_c#23"]
+          "fuentes": [
+            "henry_01_b#6",
+            "web_08#11",
+            "ladd_02_c#23"
+          ]
         },
         {
-          "postura": "La profecía de lo que va a suceder hasta el fin: los decretos de Dios, el plan redentor para el desenlace de la historia, la salvación de su pueblo y el juicio de los malvados.",
+          "postura": "La profecía de lo que sucederá hasta el fin: el plan redentor de Dios para el desenlace de la historia, con la salvación de su pueblo y el juicio de los malvados.",
           "quien": "Ladd (premilenial histórico: el contenido es 7:1-22:21); el Comentario Mundo Hispano (amilenial/idealista: el plan redentor anunciado en el Antiguo Testamento, que contiene el destino del mundo; caps. 7-22); Charles, Swete y Erdman citados por Earle, que la registra como la más común hoy; Walter Scott (el propósito y consejo de Dios)",
-          "fuentes": ["ladd_02_c#23", "cbmh_04#16", "cbmh_04#12", "beacon_03_a#20", "mcgee_04_b#7"]
+          "fuentes": [
+            "ladd_02_c#23",
+            "cbmh_04#16",
+            "cbmh_04#12",
+            "beacon_03_a#20",
+            "mcgee_04_b#7"
+          ]
         },
         {
           "postura": "Los juicios de la semana setenta de Daniel (Dn 9:27), la gran tribulación, que preceden al reino de Cristo en la tierra.",
           "quien": "Carballosa (premilenial dispensacional); Sproul, en términos generales, ve una revelación del juicio de Dios sobre la maldad del mundo",
-          "fuentes": ["carballosa_05_a#15", "web_16#15"]
+          "fuentes": [
+            "carballosa_05_a#15",
+            "web_16#15"
+          ]
         },
         {
           "postura": "El nuevo pacto, en particular el de Dios con Israel (Jer 31:31-33).",
           "quien": "Godet (nuevo pacto); McGee lo suma como sugerencia propia, después del título de propiedad",
-          "fuentes": ["mcgee_04_b#7", "mcgeer_04#30"]
+          "fuentes": [
+            "mcgee_04_b#7",
+            "mcgeer_04#30"
+          ]
         },
         {
           "postura": "El Antiguo Testamento, o las Escrituras, que solo se entienden cumplidas en Cristo (Lc 4:16-21).",
-          "quien": "El concepto tradicional, según Simcox citado por Earle; Sanders la enumera. Mundo Hispano, Ladd y Guzik la descartan: mira hacia atrás y no explica por qué la victoria del Cordero lo hace apto para abrirlo",
-          "fuentes": ["beacon_03_a#20", "r1_001#28", "cbmh_04#16", "ladd_02_c#23", "web_08#11"]
+          "quien": "El concepto tradicional, según Simcox citado por Earle. Mundo Hispano, Ladd y Guzik la descartan: mira hacia atrás y no explica por qué la victoria del Cordero lo hace apto para abrirlo",
+          "fuentes": [
+            "beacon_03_a#20",
+            "r1_001#28",
+            "cbmh_04#16",
+            "ladd_02_c#23",
+            "web_08#11"
+          ]
         },
         {
           "postura": "El libro de la vida del Cordero (3:5; 13:8; 20:12).",
           "quien": "Simcox, citado por Earle. Ladd y Mundo Hispano la rechazan: no corresponde a lo que pasa al romperse los sellos",
-          "fuentes": ["beacon_03_a#20", "ladd_02_c#23", "cbmh_04#16"]
+          "fuentes": [
+            "beacon_03_a#20",
+            "ladd_02_c#23",
+            "cbmh_04#16"
+          ]
         }
       ],
-      "nota": "Hay más propuestas: el Apocalipsis mismo (muchos después de la Reforma; Guzik lo ve poco probable) o la redención (Strauss). Guzik objeta al título de propiedad que Dios nunca perdió la tierra; Mundo Hispano objeta a leerlo como simple registro del futuro que no explica la espera entre la victoria de Cristo (hacia el 29-30) y la visión (hacia el 95), y advierte que el rollo revela lo que viene sin anular la responsabilidad humana. Beasley-Murray y Guzik ponen el acento donde lo pone el texto: no en el contenido sino en los sellos y en el único digno de abrirlos. En eso coinciden todos."
+      "nota": "Hay más propuestas: el Apocalipsis mismo (Guzik lo ve poco probable) o la redención (Strauss). Guzik objeta al título de propiedad que Dios nunca perdió la tierra; Mundo Hispano advierte que el rollo revela lo que viene sin anular la responsabilidad humana. Beasley-Murray y Guzik ponen el acento donde lo pone el texto, y en eso coinciden todos: no en el contenido sino en el único digno de abrirlo."
     },
     {
       "tema": "¿Los sellos son el contenido del rollo o su preparación?",
       "posturas": [
         {
-          "postura": "Al abrir cada sello se despliega y se activa el contenido; los siete sellos llegan hasta el final, como un telescopio: las trompetas salen del séptimo sello y las copas de la séptima trompeta, hasta el estado eterno.",
+          "postura": "Al abrir cada sello se despliega y se activa el contenido, como un telescopio: las trompetas salen del séptimo sello y las copas de la séptima trompeta.",
           "quien": "Carballosa, siguiendo a Walter Scott (premilenial dispensacional); en otro marco, Mundo Hispano: con cada sello roto se despliega la revelación",
-          "fuentes": ["carballosa_05_a#17", "cbmh_04#15"]
+          "fuentes": [
+            "carballosa_05_a#17",
+            "cbmh_04#15"
+          ]
         },
         {
           "postura": "Los sellos son preliminares: el libro se abre recién cuando están rotos los siete. Para Ladd su contenido son las trompetas y lo que sigue (7:1-22:21); para Larkin el contenido no se revela y la toma de posesión llega en 10:1-6.",
           "quien": "Ladd (premilenial histórico); Larkin (premilenial dispensacional)",
-          "fuentes": ["ladd_02_c#22", "ladd_02_c#23", "larkin_02_a#28"]
+          "fuentes": [
+            "ladd_02_c#22",
+            "ladd_02_c#23",
+            "larkin_02_a#28"
+          ]
         }
       ],
-      "nota": "Wiersbe menciona a quienes ven en el rollo los juicios de los capítulos 6 a 9. El anexo T6 compara cómo se relacionan sellos, trompetas y copas."
+      "nota": "El anexo T6 compara cómo se relacionan sellos, trompetas y copas."
     }
   ],
   "biblioteca": [
-    {
-      "texto": "Sanders se detiene en el llanto de Juan y repasa las lecturas del rollo: las Escrituras cerradas sin la cruz, el propósito eterno de Dios, el pacto cumplido por Cristo o el rollo de la historia cuyo único intérprete es el Cordero. Elige la de De Brough: el título de la herencia que el hombre perdió por el pecado y el Cordero redimió, con los pasos para recuperarla del usurpador.",
-      "autor": "J. Oswald Sanders",
-      "obra": "Madurez espiritual",
-      "pagina": "pág. PDF 40-41",
-      "tipo": "doctrina",
-      "fuentes": ["r1_001#28"]
-    },
     {
       "texto": "Lloyd-Jones llega a este capítulo después de describir la soledad de Cristo en Getsemaní y en la cruz: el libro de los sellos de la historia no lo puede abrir nadie, Juan llora, y el anciano anuncia que el León de Judá ha vencido. Cristo, solo en su sufrimiento, es también el único digno.",
       "autor": "D. Martyn Lloyd-Jones",
       "obra": "Avivamiento",
       "pagina": "pág. PDF 314",
       "tipo": "doctrina",
-      "fuentes": ["r2_011#31"]
+      "fuentes": [
+        "r2_011#31"
+      ]
     }
   ],
   "conexiones": [
-    {"ref": "Ez 2:9-10", "nota": "El rollo escrito por delante y por detrás, con endechas y ayes, que Ezequiel tuvo que comer: el antecedente más citado.", "fuentes": ["ladd_02_c#24", "macarthur_05_b#13", "cbmh_04#13", "web_16#15"]},
-    {"ref": "Jer 32:6-15", "nota": "Jeremías compra el campo de su primo Hanameel con carta sellada y copia abierta, señal de que el cautiverio no sería para siempre. Es la ilustración de los que ven un título de propiedad.", "fuentes": ["macarthur_05_b#12", "mcgee_04_b#7", "larkin_02_a#27"]},
-    {"ref": "Rt 4:1-12", "nota": "Booz redime en la puerta de la ciudad, ante diez ancianos: Larkin y Wiersbe ven ahí la figura de Cristo, Pariente Redentor (con Lv 25:23-25).", "fuentes": ["larkin_02_a#22", "larkin_02_a#27", "r1_024_b#8"]},
-    {"ref": "Dn 12:4", "nota": "Palabras selladas hasta el tiempo del fin: un libro sellado guarda un secreto (también Is 29:11).", "fuentes": ["dbmh_01_a#38", "carballosa_05_a#18"]},
-    {"ref": "Ro 8:22-23", "nota": "La creación gime esperando la redención: Wiersbe, McGee y Larkin lo leen junto al llanto de Juan.", "fuentes": ["r1_024_b#8", "mcgee_04_b#10", "larkin_02_a#21"]},
-    {"ref": "Lc 19:41", "nota": "El mismo verbo del llanto de Juan describe el de Jesús sobre Jerusalén (y el de Pedro en Lc 22:62).", "fuentes": ["macarthur_05_b#16"]},
-    {"ref": "Fil 2:10", "nota": "Cielo, tierra y debajo de la tierra: los mismos ámbitos que un día doblarán la rodilla ante Jesús.", "fuentes": ["carballosa_05_a#20"]}
+    {
+      "ref": "Ez 2:9-10",
+      "nota": "El rollo escrito por delante y por detrás, con endechas y ayes, que Ezequiel tuvo que comer: el antecedente más citado.",
+      "fuentes": [
+        "ladd_02_c#24",
+        "macarthur_05_b#13",
+        "cbmh_04#13",
+        "web_16#15"
+      ]
+    },
+    {
+      "ref": "Jer 32:6-15",
+      "nota": "Jeremías compra el campo de su primo Hanameel con carta sellada y copia abierta, señal de que el cautiverio no sería para siempre. Es la ilustración de los que ven un título de propiedad.",
+      "fuentes": [
+        "macarthur_05_b#12",
+        "mcgee_04_b#7",
+        "larkin_02_a#27"
+      ]
+    },
+    {
+      "ref": "Rt 4:1-12",
+      "nota": "Booz redime en la puerta de la ciudad, ante diez ancianos: Larkin y Wiersbe ven ahí la figura de Cristo, Pariente Redentor (con Lv 25:23-25).",
+      "fuentes": [
+        "larkin_02_a#22",
+        "larkin_02_a#27",
+        "r1_024_b#8"
+      ]
+    },
+    {
+      "ref": "Dn 12:4",
+      "nota": "Palabras selladas hasta el tiempo del fin: un libro sellado guarda un secreto (también Is 29:11).",
+      "fuentes": [
+        "dbmh_01_a#38",
+        "carballosa_05_a#18"
+      ]
+    },
+    {
+      "ref": "Ro 8:22-23",
+      "nota": "La creación gime esperando la redención: Wiersbe, McGee y Larkin lo leen junto al llanto de Juan.",
+      "fuentes": [
+        "r1_024_b#8",
+        "mcgee_04_b#10",
+        "larkin_02_a#21"
+      ]
+    }
   ],
   "para_vivir": [
     {
       "texto": "Antes de saber qué dice el libro, Juan ve dónde está: en la mano de Dios. Cuando la historia o la vida de ustedes parezca un rollo cerrado, empiecen por ahí. Como dice Ladd, por poderoso que llegue a ser el mal, la historia sigue descansando en esa mano.",
-      "fuentes": ["ladd_02_c#26"]
+      "fuentes": [
+        "ladd_02_c#26"
+      ]
     },
     {
-      "texto": "El silencio del versículo 3 es una lección de humildad. Ni los mejores hombres de la Biblia ni las instituciones de hoy pueden abrir el sentido de la historia ni arreglar el mundo (MacArthur, McGee). Revisen dónde ponen su esperanza: si en un gobierno, en un proyecto o en ustedes mismos, el texto los invita a esperar en el único digno.",
-      "fuentes": ["macarthur_05_b#15", "mcgee_04_b#9", "ladd_02_c#25"]
+      "texto": "El silencio del versículo 3 es una lección de humildad: ni los mejores hombres de la Biblia ni las instituciones de hoy pueden abrir el sentido de la historia (MacArthur, McGee). Revisen dónde ponen su esperanza.",
+      "fuentes": [
+        "macarthur_05_b#15",
+        "mcgee_04_b#9",
+        "ladd_02_c#25"
+      ]
     },
     {
-      "texto": "Las lágrimas de Juan no son debilidad: son el dolor de quien quiere ver cumplido lo que Dios prometió, el mal vencido y Cristo exaltado (MacArthur). Pueden llorar por lo que gime en este mundo, y también recordar que ese llanto fue apresurado: Dios estaba por actuar.",
-      "fuentes": ["macarthur_05_b#16", "mcgee_04_b#10"]
+      "texto": "Las lágrimas de Juan son el dolor de quien quiere ver cumplido lo que Dios prometió (MacArthur). Pueden llorar por lo que gime en este mundo, recordando que ese llanto fue apresurado: Dios estaba por actuar.",
+      "fuentes": [
+        "macarthur_05_b#16",
+        "mcgee_04_b#10"
+      ]
     },
     {
-      "texto": "El Comentario Mundo Hispano advierte que el rollo revela lo que viene, pero no anula la responsabilidad humana: obedecer o desobedecer forma parte del destino que cada uno elige. Que la soberanía de Dios los lleve a obedecer, no a cruzarse de brazos.",
-      "fuentes": ["cbmh_04#16"]
+      "texto": "Mundo Hispano advierte que el rollo revela lo que viene sin anular la responsabilidad humana. Que la soberanía de Dios los lleve a obedecer, no a cruzarse de brazos.",
+      "fuentes": [
+        "cbmh_04#16"
+      ]
     }
   ],
   "para_conversar": [
@@ -363,33 +602,69 @@
     "¿Alguna vez lloraron, como Juan, porque algo que Dios prometió parecía no llegar? ¿Qué los ayudó, o qué los ayudaría, a esperar?"
   ],
   "para_orar": "Padre, gracias porque la historia y nuestra vida están en tu mano derecha. Reconocemos que nadie, ni nosotros ni nadie en este mundo, es digno de abrir lo que tú guardas. Cuando lloremos porque algo parece cerrado, recuérdanos que el Cordero ya venció, y enséñanos a esperar en él y a obedecerte mientras tanto.",
-  "visuales": ["dg-septenarios", "dg-numeros"],
-  "anexos": ["P3", "T6", "T4", "T5"],
+  "visuales": [
+    "dg-septenarios",
+    "dg-numeros"
+  ],
+  "anexos": [
+    "P3",
+    "T6",
+    "T4",
+    "T5"
+  ],
   "profundizar": [
+    {
+      "titulo": "¿Cómo estaban puestos los sellos?",
+      "texto": "¿Cómo estaban puestos los sellos? Larkin y MacArthur describen un rollo que se enrollaba un tramo, se sellaba, se enrollaba otro tramo y se volvía a sellar, de modo que al romper cada sello se podía leer hasta el siguiente. Ladd y Guzik lo imaginan sellado en el borde exterior, sin poder leerse hasta abrirlos todos. Mundo Hispano reconoce que así sería con un rollo real, pero dice que ese detalle no se aplica en la visión: con cada sello roto se despliega la revelación.",
+      "fuentes": [
+        "larkin_02_a#28",
+        "web_03_b#24",
+        "ladd_02_c#21",
+        "web_08#10",
+        "cbmh_04#15"
+      ]
+    },
     {
       "titulo": "Cómo se rescataba una propiedad en Israel",
       "texto": "Larkin explica que una tierra no podía enajenarse más allá del año del Jubileo: si el dueño tenía que venderla, un pariente podía rescatarla pagando en proporción a los años que faltaban (Lv 25:8-17). La escritura se hacía en un rollo, primero se llenaba el interior y después el exterior, y por fuera constaban el título y los testigos. Se hacían dos copias, una sellada y otra abierta para consulta, que guardaba el comprador o un custodio; Jeremías las puso en una vasija de barro. MacArthur, siguiendo a Thomas, describe la compra de Jeremías (Jer 32:9-15) como señal de que el cautiverio en Babilonia no iba a ser permanente.",
-      "fuentes": ["larkin_02_a#27", "larkin_02_a#28", "macarthur_05_b#12"]
+      "fuentes": [
+        "larkin_02_a#27",
+        "larkin_02_a#28",
+        "macarthur_05_b#12"
+      ]
     },
     {
       "titulo": "Los cuatro títulos de Jesús según Larkin",
       "texto": "Larkin enumera cuatro títulos de Jesús en los Evangelios y lo que cada uno le da: como Hijo de David, el trono de David; como Hijo de Abraham, la tierra prometida a Abraham (Gn 15:18); como Hijo del Hombre, la tierra y el mundo; como Hijo de Dios, la herencia de todas las cosas.",
-      "fuentes": ["larkin_02_a#26"]
+      "fuentes": [
+        "larkin_02_a#26"
+      ]
     },
     {
       "titulo": "McGee: el rollo de Zacarías y los dos pactos",
       "texto": "McGee relaciona este libro con el rollo que vuela en Zacarías 5:1-3, de veinte codos por diez, con maldición sobre el que hurta y el que jura en falso; dice que hay que conocer Zacarías para entender el Apocalipsis, aunque no quiere ser dogmático sobre si lleva los Diez Mandamientos. Su punto: el antiguo pacto dependía del hombre y fracasó por el hombre, no por la ley (como en el Edén el problema no era el fruto); el nuevo pacto depende del poder del trono de Dios y de Cristo.",
-      "fuentes": ["mcgee_04_b#8", "mcgeer_04#31", "mcgeer_04#30"]
+      "fuentes": [
+        "mcgee_04_b#8",
+        "mcgeer_04#31",
+        "mcgeer_04#30"
+      ]
     },
     {
       "titulo": "Cómo era un rollo",
       "texto": "El papiro se hacía con una caña de los pantanos, pegando tiras horizontales sobre una capa de tiras verticales; sobre papiro se escribió casi todo el Nuevo Testamento, y sus manuscritos griegos más antiguos, del siglo III, son de papiro (Earle, Mundo Hispano). Escribir de los dos lados era común entre la gente pobre, según Mundo Hispano. Guzik describe la lectura: columnas angostas, el rollo sostenido con la izquierda y desenrollado con la derecha; el Apocalipsis entero ocuparía unos cinco metros (15 pies). El Diccionario Mundo Hispano recuerda que el pergamino empezó a usarse en Pérgamo en el siglo II a. C.",
-      "fuentes": ["beacon_03_a#19", "cbmh_04#13", "web_08#10", "dbmh_01_a#38"]
+      "fuentes": [
+        "beacon_03_a#19",
+        "cbmh_04#13",
+        "web_08#10",
+        "dbmh_01_a#38"
+      ]
     },
     {
       "titulo": "Mirar y oír la Palabra",
       "texto": "McGee observa que en este capítulo Juan mira y oye, y que en otras escenas casi se huele el fuego y el azufre; por eso recomienda usar todos los sentidos con la Palabra. Una sugerencia para el estudio de hoy: lean el pasaje en voz alta e imaginen la escena antes de pasar a las notas.",
-      "fuentes": ["mcgeer_04#34"]
+      "fuentes": [
+        "mcgeer_04#34"
+      ]
     }
   ]
 }

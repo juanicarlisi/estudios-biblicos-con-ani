@@ -1,248 +1,655 @@
 {
-  "dia": 23,
-  "desde": "4:7",
-  "hasta": "4:11",
-  "titulo": "«Digno eres»: el cielo adora al Creador",
-  "minutos": {"lectura": 2, "estudio": 25},
-  "contexto": {
-    "antes": "En 4:4-6 Juan vio, alrededor del trono, a los veinticuatro ancianos con ropas blancas y coronas, el mar de vidrio y, junto al trono, a los cuatro seres vivientes llenos de ojos. Hoy esos seres se describen uno por uno y toda la sala del trono rompe a cantar.",
-    "ahora": "Los cuatro seres proclaman sin cesar la santidad, el poder y la eternidad de Dios; cada vez que lo hacen, los ancianos se postran, echan sus coronas y le dicen «digno eres» por haber creado todas las cosas. Es el primer gran himno del libro.",
-    "donde": "En el cielo, delante del trono: lo que MacArthur y Mayhue llaman la morada de Dios y su «centro de operaciones», y Sproul, la cámara interior del santuario celestial.",
-    "cuando": "Las fuentes no le ponen fecha a la escena. Para Carballosa y MacArthur prepara los juicios futuros del «día del Señor»; para Ladd y el Comentario Mundo Hispano muestra la realidad permanente que está detrás de la historia: Dios gobierna (ver el anexo P3).",
-    "despues": "Mañana empieza el capítulo 5 (5:1-4): en la mano del que está sentado en el trono aparece un libro sellado. Al himno de la creación de hoy le seguirá el himno de la redención.",
-    "fuentes": ["r1_035#9", "web_16#14", "carballosa_04_b#15", "macarthur_05_b#6", "ladd_02_c#4", "web_07#6", "cbmh_03_b#27", "macarthur_05_b#4", "r1_024_b#6"]
-  },
-  "versiculo_clave": {
-    "ref": "4:11",
-    "porque": "Es la razón de toda la escena puesta en palabras: Dios es digno porque creó todas las cosas, y todo existe por su voluntad. El capítulo 4 entero desemboca en este versículo."
-  },
-  "panorama": {
-    "texto": "El capítulo 4 termina en un concierto. Primero cantan los cuatro seres vivientes: «Santo, santo, santo», alabando a Dios por lo que es. Después responden los veinticuatro ancianos, que bajan de sus tronos, se postran, echan sus coronas y lo alaban por lo que hizo: creó todas las cosas. Detrás del león, el becerro, el hombre y el águila, de las seis alas y de los ojos por todas partes, los autores ven a la creación entera sujeta a su Creador. En un mundo donde el César se hacía llamar señor y dios, Juan muestra quién está de verdad en el trono y quién es el único digno de recibir la gloria. Hoy miramos la escena despacio, porque es el modelo de la adoración del cielo, y la de la iglesia la refleja.",
-    "fuentes": ["ladd_02_c#19", "cbmh_04#8", "henry_01_b#4", "ladd_02_c#15", "cbmh_04#9", "web_07#6", "r2_036#22"]
-  },
-  "secciones": [
-    {
-      "rango": "4:7",
-      "titulo": "Un león, un becerro, un hombre y un águila",
-      "notas": [
-        {
-          "texto": "Juan ve cuatro seres distintos: el primero «semejante a un león», el segundo a un becerro, el tercero con «rostro como de hombre» y el cuarto como «un águila volando». Ezequiel había visto algo parecido junto al río Quebar, pero allí cada ser tenía cuatro rostros, cuatro alas y ruedas llenas de ojos; aquí cada uno tiene un solo rostro, seis alas, los ojos en el cuerpo y no hay ruedas (Beasley-Murray, Carballosa, Larkin). Guzik propone que Juan ve el rostro que tiene enfrente; Larkin, que no hay ruedas porque el cielo es la sede permanente del trono y no un carro en misión.",
-          "fuentes": ["henry_01_b#4", "carballosa_04_b#28", "larkin_02_a#17", "web_05_a#11", "cbmh_04#3", "web_16#14"],
-          "tipo": "conexion_biblica"
-        },
-        {
-          "texto": "La lectura que más autores comparten es que los cuatro reúnen lo mejor de la creación viva. El león, el más poderoso de las fieras; el becerro, el más fuerte de los animales domésticos; el águila, la reina de las aves; el hombre, la cumbre de la creación (Guzik, MacArthur, Grudem, Ladd). Los judíos ya lo leían así, según Beasley-Murray, y Swete lo resume: lo más noble, más fuerte, más sabio y más rápido de la naturaleza. Wiersbe agrega que son las mismas clases de seres del pacto con Noé (Gn 9:8-13), y que su presencia junto al trono enseña que Dios controla la creación y la va a liberar.",
-          "fuentes": ["web_05_a#11", "macarthur_05_b#1", "r2_026#14", "ladd_02_c#15", "henry_01_b#4", "beacon_03_a#16", "r1_024_b#6"],
-          "tipo": "simbolo_numero"
-        },
-        {
-          "texto": "Otros autores miran también las cualidades. Para la Biblia de Estudio MacArthur, el león es fortaleza y poder; el becerro, servicio humilde; el rostro de hombre, seres racionales; el águila en vuelo, la rapidez con que cumplen su servicio. Carballosa suma la majestad del león, el sacrificio del becerro y la mirada permanente del águila. Desde la antigüedad hubo además otras lecturas, como los cuatro Evangelios o los estandartes de las tribus de Israel (ver Interpretaciones).",
-          "fuentes": ["mbiblia_01_b#39", "carballosa_04_b#27", "r2_022_a#1", "web_05_a#11"],
-          "tipo": "simbolo_numero"
-        }
-      ]
-    },
-    {
-      "rango": "4:8",
-      "titulo": "Seis alas y «llenos de ojos»",
-      "notas": [
-        {
-          "texto": "Las seis alas llevan a Isaías 6, donde los serafines cubrían con dos el rostro, con dos los pies y con dos volaban. MacArthur saca de ahí que ni los seres más exaltados pueden mirar de lleno la gloria de Dios, y que su llamado y ocupación permanente es adorar. Carballosa ve en las alas un emblema del servicio continuo y de la adoración.",
-          "fuentes": ["macarthur_05_b#3", "carballosa_04_b#28", "mcgee_04_b#1"],
-          "tipo": "conexion_biblica"
-        },
-        {
-          "texto": "Están llenos de ojos «alrededor y por dentro». Ladd, MacArthur y el Comentario Mundo Hispano leen vigilancia constante y un conocimiento amplísimo: no son omniscientes, pero nada de su tarea se les escapa. Guzik saca una consecuencia hermosa: no son robots ni instrumentos ciegos, sino seres que saben y entienden, y por eso adoran. Si falla la adoración, dice, falla la visión: el culto tiene que ser racional (Ro 12:1).",
-          "fuentes": ["ladd_02_c#15", "macarthur_05_b#1", "cbmh_04#3", "web_05_a#10"],
-          "tipo": "simbolo_numero"
-        },
-        {
-          "texto": "Un detalle del verbo: McGee anota que donde la RVR1960 dice «tenían» el griego está en presente. La escena no es un recuerdo; es lo que pasa ahora mismo en el cielo.",
-          "fuentes": ["mcgee_04_b#1", "mcgeer_04#25"],
-          "tipo": "griego_palabra"
-        }
-      ]
-    },
-    {
-      "rango": "4:8",
-      "titulo": "«Santo, santo, santo»: el canto que no se detiene",
-      "notas": [
-        {
-          "texto": "Los seres vivientes «no cesaban día y noche». En hebreo, repetir una palabra le da énfasis; decirla tres veces es el superlativo máximo (Mundo Hispano, Guzik). Sproul y Washer observan que es el único atributo de Dios que la Biblia eleva al tercer grado: nunca dice «amor, amor, amor». MacArthur explica por qué: la santidad es la suma de todo lo que Dios es, su total separación del mal. El Comentario Mundo Hispano aclara que no es primero una idea moral sino la alteridad de Dios: él es otro, majestuoso, no como nosotros, y la ética nace de su naturaleza.",
-          "fuentes": ["cbmh_04#5", "web_05_a#12", "r2_003_a#15", "r2_024#20", "macarthur_05_b#5"],
-          "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "El canto retoma el de los serafines de Isaías 6:3 con dos cambios. Donde Isaías dice «Jehová de los ejércitos», Juan dice «Señor Dios Todopoderoso»; y donde Isaías agrega que la tierra está llena de su gloria, Juan dice «el que era, el que es, y el que ha de venir». Carballosa lo lee así: hoy la tierra está llena de violencia, y el Señor viene a juzgarla y a prepararla para que se llene de su gloria. El Diccionario Mundo Hispano agrega que lo que en Isaías fue una revelación personal al profeta, aquí se proclama a todos desde el cielo.",
-          "fuentes": ["carballosa_05_a#4", "beacon_03_a#17", "dbmh_02#12"],
-          "tipo": "conexion_biblica"
-        },
-        {
-          "texto": "Barclay y el Comentario Mundo Hispano ven en el canto tres afirmaciones: santidad, poder y eternidad. «Todopoderoso» es el que tiene todo en su mano (Guzik); el título aparece nueve veces en el Apocalipsis y en ningún otro libro del Nuevo Testamento, y MacArthur recuerda que es el nombre con que Dios se presentó a Abraham (Gn 17:1). «El que era, el que es, y el que ha de venir» traduce el sentido del nombre de Dios, como en 1:4 y 1:8. Beasley-Murray saca una conclusión de consuelo: la certeza del triunfo final de Dios está arraigada en lo que él es.",
-          "fuentes": ["beacon_03_a#17", "cbmh_04#5", "web_05_a#12", "macarthur_05_b#6", "henry_01_b#4"],
-          "tipo": "teologia_doctrina"
-        }
-      ]
-    },
-    {
-      "rango": "4:9-10",
-      "titulo": "«Y siempre que…»: el cielo canta a dos coros",
-      "notas": [
-        {
-          "texto": "Los versículos 9 a 11 son una sola oración larga en griego que coordina dos voces: primero alaban los seres vivientes y después responden los ancianos (Mundo Hispano lo llama liturgia antifonal). Carballosa remarca que «siempre que» indica algo que se repite: cada vez que los seres dan gloria, los ancianos se postran, como dos acciones sincronizadas en las que la primera es la señal de la segunda.",
-          "fuentes": ["cbmh_04#6", "carballosa_05_a#6"],
-          "tipo": "estructura_bosquejo"
-        },
-        {
-          "texto": "Los seres dan tres cosas: gloria, la brillantez y majestad de Dios; honra, el reconocimiento de que es inmensamente estimable; y acción de gracias, la gratitud por sus dones en la creación y la providencia (Mundo Hispano, Carballosa, Swete citado en el Beacon). Las dirigen «al que vive por los siglos de los siglos»: Dios es el Viviente, sin principio ni fin, y de él reciben la vida todas las criaturas (MacArthur, Carballosa, Earle).",
-          "fuentes": ["cbmh_04#6", "carballosa_05_a#7", "beacon_03_a#18", "macarthur_05_b#7"],
-          "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "Los ancianos dejan sus tronos y se postran. MacArthur cuenta que es la primera de seis veces que lo hacen en el libro, y que postrarse es la reacción natural de quien ve la gloria de Dios, como Abraham, Josué, Ezequiel o Pablo. Para Carballosa, así confiesan que son criaturas delante del que vive para siempre.",
-          "fuentes": ["macarthur_05_b#8", "carballosa_05_a#8"],
-          "tipo": "explicacion_texto"
-        }
-      ]
-    },
-    {
-      "rango": "4:10",
-      "titulo": "«Echan sus coronas delante del trono»",
-      "notas": [
-        {
-          "texto": "Las coronas de los ancianos son de vencedor: la palabra es la de la corona del atleta que ganaba en los juegos (Guzik). Al echarlas, reconocen que sus victorias vienen de Dios y por gracia son suyas (Earle en el Beacon), que su autoridad se la dio él y es justo devolvérsela (Mundo Hispano), y que solo él merece el crédito de cualquier recompensa (Biblia de Estudio MacArthur). MacArthur lo resume: todo lo propio, excelencia, honor o premio, palidece ante su gloria.",
-          "fuentes": ["web_05_a#13", "beacon_03_a#18", "cbmh_04#7", "mbiblia_01_b#41", "macarthur_05_b#8"],
-          "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "Guzik, siguiendo a Clarke, ve una alusión a una costumbre romana: los reyes vasallos se presentaban ante el emperador y echaban sus coronas como homenaje; él se las devolvía, para mostrar que su derecho a gobernar venía de él. El Comentario Mundo Hispano nota además el orden: los ancianos actúan antes de hablar. Spurgeon, citado por Guzik, agrega que en el cielo nadie envidia la corona del otro: todos las echan, a una.",
-          "fuentes": ["web_05_a#13", "cbmh_04#7"],
-          "tipo": "cultura_costumbres"
-        },
-        {
-          "texto": "Beasley-Murray distingue esta escena de la alabanza del versículo 8: los seres adoran sin pausa, mientras que los ancianos se postran en momentos de crisis especial del libro (5:8, 14; 11:16; 19:4). Quiénes son los ancianos es tema del día 22; lo que cambia la aplicación es si representan o no a los redimidos (ver Interpretaciones).",
-          "fuentes": ["henry_01_b#5", "macarthur_05_b#8"],
-          "tipo": "dificultad_interpretaciones"
-        }
-      ]
-    },
-    {
-      "rango": "4:11",
-      "titulo": "«Señor, digno eres»: el himno al Creador",
-      "notas": [
-        {
-          "texto": "Hay una diferencia entre los dos cantos. Los seres vivientes hablan de Dios en tercera persona y lo alaban por lo que es; los ancianos le hablan en segunda persona, «tú», y lo alaban por lo que hizo (Ladd, Mundo Hispano, McGee siguiendo a Walvoord). En griego el «tú» está en posición enfática: Stam, citado por Mundo Hispano, lo traduce «tú, y solo tú, creaste el universo, de modo que solo tú eres digno de adoración».",
-          "fuentes": ["ladd_02_c#19", "cbmh_04#8", "mcgee_04_b#4", "mcgeer_04#27"],
-          "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "«Digno» tiene una carga política fuerte. Según Stam (citado por Mundo Hispano), la aclamación no viene de la liturgia hebrea, que decía «bendito eres», sino de Roma: en la procesión triunfal del emperador la multitud gritaba «digno», y Domiciano introdujo en el culto el saludo «señor y dios nuestro». MacArthur también señala que la palabra se usaba para el emperador. Wiersbe va más lejos y dice que, según la historia, «Señor Dios Todopoderoso» era un título oficial de Domiciano. En ese contexto, el himno era desafiante: solo Dios, y no el César, merece la adoración.",
-          "fuentes": ["cbmh_04#9", "macarthur_05_b#9", "r1_024_b#7"],
-          "tipo": "contexto_historico"
-        },
-        {
-          "texto": "La razón del himno es la creación: «tú creaste todas las cosas». Grudem, Berkhof, Lacueva y MacArthur y Mayhue usan este versículo para enseñar que Dios creó libremente, no por necesidad, y para su gloria (Is 43:7; Ro 11:36); que solo él existe por sí mismo; y que todo sigue dependiendo de él. Ladd lo resume: detrás de toda la creación está la voluntad soberana y activa del Creador.",
-          "fuentes": ["r2_026#1", "r2_039#32", "r2_030#8", "r2_035#2", "r2_034#2", "r2_025_a#40", "ladd_02_c#20"],
-          "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "La frase «por tu voluntad existen y fueron creadas» tiene una dificultad: en griego dice literalmente «eran y fueron creadas», como si las cosas existieran antes de ser creadas. Ladd presenta tres soluciones sin elegir: son dos ideas distintas (existir en vez de no existir, y haber sido creadas); existían primero en la mente y la voluntad de Dios (es la lectura de Carballosa y de Swete en el Beacon); o la segunda frase explica la primera: «existen, sí, fueron creadas».",
-          "fuentes": ["ladd_02_c#20", "carballosa_05_a#9", "beacon_03_a#18"],
-          "tipo": "dificultad_interpretaciones"
-        },
-        {
-          "texto": "Wiersbe muestra hacia dónde va el libro: 4:11 es la primera doxología, por la creación; 5:9-10, por la redención; 11:16-19, por el juicio. MacArthur lo ve como un oratorio en dos movimientos con un coro que crece: los seres vivientes, los ancianos, las arpas, los ángeles y, al final, toda criatura (5:13). Y agrega que el Creador tiene derecho a redimir y a juzgar lo que hizo: el paraíso perdido empieza a ser paraíso recobrado (Ro 8:19-22).",
-          "fuentes": ["r1_024_b#6", "macarthur_05_b#4", "macarthur_05_b#9"],
-          "tipo": "estructura_bosquejo"
-        }
-      ]
-    }
-  ],
-  "simbolos": [
-    {"signo": "león, becerro, hombre, águila", "significado": "Según Guzik, MacArthur, Ladd, Grudem y Beasley-Murray, lo más excelente de la creación viva (fieras, animales domésticos, seres humanos, aves); según la Biblia de Estudio MacArthur, fortaleza, servicio, razón y rapidez; según McGee, además, los cuatro Evangelios.", "refs": ["4:7"], "fuentes": ["web_05_a#11", "macarthur_05_b#1", "ladd_02_c#15", "r2_026#14", "henry_01_b#4", "mbiblia_01_b#39", "mcgee_04_a#30"]},
-    {"signo": "seis alas", "significado": "Según MacArthur, su privilegio y ocupación de adorar sin cesar (como los serafines de Is 6:2); según Carballosa, servicio continuo y adoración; según Donald Richardson (citado en el Beacon), la perfección de su dotación para servir a Dios.", "refs": ["4:8"], "fuentes": ["macarthur_05_b#3", "carballosa_04_b#28", "beacon_03_a#16"]},
-    {"signo": "llenos de ojos", "significado": "Vigilancia incesante y conocimiento amplísimo (Ladd, Mundo Hispano, MacArthur); según Guzik, seres que entienden lo que adoran.", "refs": ["4:8"], "fuentes": ["ladd_02_c#15", "cbmh_04#3", "macarthur_05_b#1", "web_05_a#10"]},
-    {"signo": "cuatro", "significado": "Según Wiersbe, número de la creación; según Larkin, número de la tierra; el Comentario Mundo Hispano admite que podría aludir a los cuatro puntos cardinales.", "refs": ["4:6", "4:7"], "fuentes": ["r1_024_b#6", "larkin_02_a#15", "cbmh_04#3"]},
-    {"signo": "coronas echadas", "significado": "Sumisión ante el Rey (Carballosa) y reconocimiento de que toda victoria y autoridad viene de Dios y vuelve a él (Earle, Mundo Hispano, Guzik).", "refs": ["4:10"], "fuentes": ["carballosa_05_a#8", "beacon_03_a#18", "cbmh_04#7", "web_05_a#13"]}
-  ],
-  "palabras": [
-    {"ref": "4:7", "griego": "ζῷον", "translit": "zōon", "significado": "«Ser viviente», de zaō, vivir. No es «bestia»: la bestia salvaje del capítulo 13 es otra palabra, thērion (Diccionario Mundo Hispano, Larkin, McGee). Vine, citado por Mundo Hispano, dice que en el Apocalipsis, donde siempre designa a los que dan gloria ante el trono, traducir «animal» es de lo más inapropiado.", "fuentes": ["macarthur_05_a#30", "dbmh_02#6", "larkin_02_a#14", "mcgeer_04#25", "cbmh_04#4"]},
-    {"ref": "4:8", "griego": "παντοκράτωρ", "translit": "pantokrátōr", "significado": "«Todopoderoso», el que tiene todo en su mano (Guzik). Reemplaza al «Jehová de los ejércitos» de Is 6:3; según Carballosa, para destacar la soberanía de Dios que se revelará en sus juicios.", "fuentes": ["web_05_a#12", "carballosa_05_a#4"]},
-    {"ref": "4:8", "griego": "ὁ ἐρχόμενος", "translit": "ho erchómenos", "significado": "«El que viene». Para Carballosa, la próxima manifestación de Dios en juicio y la liberación de la creación; para Ladd, el anhelo de la creación por esa liberación (Ro 8:21).", "fuentes": ["carballosa_05_a#5", "ladd_02_c#18"]},
-    {"ref": "4:9", "griego": "ὅταν", "translit": "hótan", "significado": "«Siempre que», «cada vez que». Con el verbo en futuro indica continuidad: la adoración se repite (Carballosa).", "fuentes": ["carballosa_05_a#6"]},
-    {"ref": "4:10", "griego": "στέφανος", "translit": "stéphanos", "significado": "Corona de victoria, la del atleta ganador, no la de un rey (Guzik).", "fuentes": ["web_05_a#13"]},
-    {"ref": "4:11", "griego": "ἄξιος", "translit": "áxios", "significado": "«Digno». Según Stam (citado por Mundo Hispano) no tiene equivalente hebreo exacto y viene del lenguaje político romano; MacArthur dice que se aclamaba así al emperador en su procesión triunfal.", "fuentes": ["cbmh_04#9", "macarthur_05_b#9"]},
-    {"ref": "4:11", "griego": "ἐκτίσθησαν", "translit": "ektísthēsan", "significado": "«Fueron creadas», aoristo pasivo de ktízō: para Carballosa, mira la creación como un hecho histórico (ver Para profundizar).", "fuentes": ["carballosa_05_a#10"]}
-  ],
-  "cristo": [
-    {"texto": "El que se sienta en el trono creó todas las cosas, y el Nuevo Testamento dice que lo hizo por medio del Hijo: Carballosa une 4:11 con Juan 1:1-3, Colosenses 1:15-16 y Hebreos 1:3. Chafer recuerda que la Biblia atribuye la creación al Padre, al Hijo y al Espíritu. El «digno eres» al Creador prepara el «digno eres» al Cordero del capítulo 5.", "refs": ["Jn 1:1-3", "Col 1:15-16", "He 1:3", "Ap 5:9"], "fuentes": ["carballosa_05_a#9", "r2_038_b#19", "r1_024_b#6"]},
-    {"texto": "«El que era, el que es, y el que ha de venir» es la misma fórmula con que Jesús se presenta en 1:8; McGee la refiere directamente a Cristo. Para el Comentario Mundo Hispano y Chafer, el canto del versículo 8 es una alabanza al Dios trino.", "refs": ["Ap 1:8"], "fuentes": ["mcgee_04_b#1", "mcgeer_04#25", "cbmh_04#5", "r2_039#1"]},
-    {"texto": "La Biblia de Estudio MacArthur resume el paso de un capítulo al otro: el Creador es el que tomó la iniciativa de redimir a su creación. Por toda la eternidad los creyentes exaltarán al Señor Jesús por su obra de redención (5:11-14), y Tozer dice que la frase principal del cielo será «Digno es el Cordero».", "refs": ["Ap 5:11-14", "Fil 2:9-11"], "fuentes": ["mbiblia_01_b#42", "r2_036#22", "r2_002_a#16"]}
-  ],
-  "interpretaciones": [
-    {
-      "tema": "¿Quiénes son los cuatro seres vivientes?",
-      "posturas": [
-        {"postura": "Querubines, como los de Ezequiel 10:15-22: un orden elevado de ángeles que guardan el trono y la santidad de Dios.", "quien": "MacArthur, Guzik y Carballosa (este sin dogmatizar, con Mounce); Chafer con la nota de Scofield; Berkhof; el Diccionario Mundo Hispano", "fuentes": ["macarthur_05_a#30", "web_05_a#10", "carballosa_05_a#1", "r2_028#19", "r2_039#36", "dbmh_02#6"]},
-        {"postura": "Se parecen más a los serafines de Isaías 6 por las seis alas y la adoración; quizá querubines, seres vivientes y serafines sean variantes del mismo tipo de ángel.", "quien": "MacArthur y Mayhue (Teología sistemática); Sproul dice que no sabe distinguirlos", "fuentes": ["r1_034#12", "web_20#8"]},
-        {"postura": "Una combinación de serafines y querubines, o una clase propia de seres celestiales.", "quien": "Wiersbe; Ladd; Grudem, que deja abierta la relación con los de Ezequiel", "fuentes": ["r1_024_b#6", "ladd_02_c#15", "r2_026#14"]},
-        {"postura": "Guardianes del trono, distintos de los ángeles (5:11 los nombra aparte) y que no representan a los redimidos.", "quien": "Larkin (premilenial dispensacional)", "fuentes": ["larkin_02_a#14", "larkin_02_a#19"]},
-        {"postura": "Representan a la creación que adora a su Creador, o los atributos de Dios.", "quien": "La primera, José Grau y Bengel (citados por Carballosa) y el Comentario Mundo Hispano, que igual los ubica como orden de ángeles; la segunda, otros autores que mencionan Ryrie y Carballosa", "fuentes": ["carballosa_05_a#3", "cbmh_04#3", "r1_031#3"]}
-      ],
-      "nota": "Ladd cree que las dos ideas pueden ser verdad a la vez: son seres angélicos y, al cantar, representan la alabanza de toda la creación. Carballosa advierte que no se puede dogmatizar, dado lo poco que sabemos de los ángeles."
-    },
-    {
-      "tema": "¿Qué representan los cuatro rostros?",
-      "posturas": [
-        {"postura": "Lo más excelente de la creación viva.", "quien": "Guzik (la considera la más segura), MacArthur, Ladd, Grudem, Beasley-Murray, Swete, Wiersbe", "fuentes": ["web_05_a#11", "macarthur_05_b#1", "ladd_02_c#15", "r2_026#14", "henry_01_b#4", "beacon_03_a#16", "r1_024_b#6"]},
-        {"postura": "Cualidades de su servicio: fuerza, servicio, razón y rapidez, al servicio de la justicia.", "quien": "Biblia de Estudio MacArthur; Kœchlin; Carballosa", "fuentes": ["mbiblia_01_b#39", "r2_022_a#1", "carballosa_04_b#27"]},
-        {"postura": "Los cuatro Evangelios: león, Mateo (el Rey); becerro, Marcos (el Siervo); hombre, Lucas (el Hijo del Hombre); águila, Juan (el Hijo de Dios).", "quien": "McGee, que admite que se discute. Ireneo (siglo II) ya los asociaba, con otro reparto; Ladd lo juzga sin apoyo en el texto y el Beacon pide no enfatizarlo", "fuentes": ["mcgee_04_a#30", "mcgeer_04#26", "ladd_02_c#16", "beacon_03_a#16"]},
-        {"postura": "Los estandartes de los cuatro campamentos de Israel alrededor del tabernáculo, encabezados por Judá (león), Efraín (buey), Rubén (hombre) y Dan (águila).", "quien": "Larkin; Seiss, Clarke y Poole citados por Guzik; MacArthur lo menciona como tradición del Talmud", "fuentes": ["larkin_02_a#18", "web_05_a#11", "macarthur_05_b#1"]}
-      ],
-      "nota": "Lo que todos afirman: estos seres, con todo lo que simbolizan, existen para adorar a Dios."
-    },
-    {
-      "tema": "¿Quiénes son los ancianos que echan las coronas?",
-      "posturas": [
-        {"postura": "La iglesia ya arrebatada y recompensada.", "quien": "MacArthur y McGee (premileniales dispensacionales)", "fuentes": ["r1_030#17", "mcgee_04_b#4"]},
-        {"postura": "Representantes de todo el pueblo de Dios: su adoración y sus coronas nos pertenecen.", "quien": "Guzik", "fuentes": ["web_05_a#16", "web_05_a#13"]},
-        {"postura": "Seres angelicales de alto rango.", "quien": "Carballosa (premilenial dispensacional)", "fuentes": ["carballosa_05_a#11"]},
-        {"postura": "No hace falta identificarlos: importa su significado, el poder que Dios delega. Buswell agrega que no es seguro que representen a los redimidos, por una variante del texto en 5:9-10.", "quien": "Comentario Mundo Hispano (amilenial/idealista); Buswell (premilenial histórico)", "fuentes": ["cbmh_03_b#27", "r1_009#8"]}
-      ],
-      "nota": "El tema es propio del día 22. Para todos, el gesto enseña lo mismo: ninguna gloria se la queda la criatura."
-    }
-  ],
-  "biblioteca": [
-    {"texto": "Pentecost propone, con un «puede ser que», que la recompensa del creyente consiste en la capacidad de manifestar la gloria de Cristo: echar las coronas sería un solo acto de una glorificación que sigue por la eternidad, y todos estarán llenos hasta el límite de su capacidad, sin sentir falta.", "autor": "J. Dwight Pentecost", "obra": "Eventos del porvenir", "pagina": "pág. PDF 164", "tipo": "doctrina"},
-    {"texto": "Whitney recuerda que la palabra inglesa para adorar, worship, viene de worth-ship, «valor»: adorar es atribuirle a Dios el valor que tiene, como hacen los que lo llaman «digno» en 4:11 y 5:12. Y concluye que si la adoración nos cansa, no estamos adorando: a los seres del cielo nunca se les ocurrió quejarse de cansancio.", "autor": "Donald S. Whitney", "obra": "Disciplinas espirituales", "pagina": "pág. PDF 106-107", "tipo": "aplicacion"},
-    {"texto": "Spurgeon, citado por Guzik, dice que hay un trono, una corona y una parte en el cántico eterno que solo cada creyente puede ocupar; y, como a un coro no se entra sin saber la melodía, hay que aprender aquí a echar las coronas a los pies de Jesús.", "autor": "David Guzik", "obra": "Apocalipsis 4 – Delante del Trono de Dios (Enduring Word)", "pagina": "web", "tipo": "ilustracion"}
-  ],
-  "conexiones": [
-    {"ref": "Is 6:1-3", "nota": "Los serafines de seis alas y el triple «santo»: la fuente directa del canto de 4:8.", "fuentes": ["web_16#14", "carballosa_05_a#4", "macarthur_05_b#3"]},
-    {"ref": "Ez 1:5-10; 10:14-22", "nota": "Los seres vivientes de cuatro rostros que Ezequiel identifica como querubines; Juan los ve modificados.", "fuentes": ["henry_01_b#4", "cbmh_04#3", "macarthur_05_a#30"]},
-    {"ref": "Gn 3:24", "nota": "La primera aparición de los querubines, guardando el camino al árbol de la vida; después estarán esculpidos sobre el arca (Éx 25:18-22).", "fuentes": ["larkin_02_a#16", "macarthur_05_a#30", "r2_039#36"]},
-    {"ref": "Ro 8:19-22", "nota": "La creación que gime esperando su liberación: Ladd, Wiersbe y MacArthur la ven anunciada en el canto de los seres vivientes.", "fuentes": ["ladd_02_c#18", "r1_024_b#6", "macarthur_05_b#9"]},
-    {"ref": "Col 1:16", "nota": "Pablo afirma que todo fue creado por medio del Hijo (Carballosa): el Creador de 4:11 es también el Redentor del capítulo 5.", "fuentes": ["carballosa_05_a#9", "macarthur_05_b#9"]},
-    {"ref": "Ap 5:9-14", "nota": "El segundo movimiento del oratorio: el «digno eres» al Cordero, por la redención.", "fuentes": ["macarthur_05_b#4", "r1_024_b#6"]}
-  ],
-  "para_vivir": [
-    {"texto": "La adoración del cielo no se cansa porque mira a Dios. McGee pregunta, con humor, para qué quiere ir al cielo alguien a quien le aburre adorar aquí. Antes de pensar en el estilo de la reunión del domingo, pregúntense juntos cuánto están mirando a Dios cuando cantan.", "fuentes": ["mcgee_04_b#2", "mcgeer_04#27", "r2_003_a#15"]},
-    {"texto": "Los seres vivientes adoran porque ven y entienden. Guzik dice que toda falla en la adoración es una falla de visión: estudiar juntos quién es Dios, como hoy, es parte de adorarlo.", "fuentes": ["web_05_a#10"]},
-    {"texto": "Echar las coronas es devolverle a Dios cada logro: los del trabajo, los del ministerio, los de la familia. Grudem advierte que el orgullo es malo porque nos apropiamos de un honor que solo le pertenece a él. ¿Qué «corona» les cuesta soltar?", "fuentes": ["web_05_a#13", "mbiblia_01_b#41", "r2_034#10"]},
-    {"texto": "Existimos por su voluntad y para su gloria. Tozer dice que Dios nos creó para que lo adorásemos y que ahí está la respuesta a quiénes somos y para qué estamos. Su derecho de Creador, agrega Guzik, se puede aceptar y disfrutar, o resistir con frustración.", "fuentes": ["r2_001_a#12", "web_05_a#15"]},
-    {"texto": "En el centro del universo no hay azar ni un César, sino un trono. Los cristianos no están en manos de un gobierno ni de un jefe, y por eso el futuro tiene sentido (CHBC). Mundo Hispano lo dice fuerte: adorar es un acto de fe y compromiso, «peligroso y subversivo», porque le niega el trono a cualquier otro.", "fuentes": ["web_07#6", "cbmh_04#1", "cbmh_04#9"]}
-  ],
-  "para_conversar": [
-    "Los seres vivientes alaban a Dios por lo que es y los ancianos por lo que hizo. ¿Cuál de las dos alabanzas les sale más fácil, y qué atributo del canto de 4:8 les gustaría conocer mejor?",
-    "Si tuvieran que nombrar una «corona» propia (un logro, un rol, una reputación), ¿cuál sería? ¿Qué significaría, en concreto, echarla delante del trono esta semana?",
-    "Los primeros lectores oían «digno» y «Señor y Dios» aplicados al emperador. ¿Qué poderes o personas reclaman hoy esa clase de lealtad, y cómo los ayuda esta escena a ponerlos en su lugar?"
-  ],
-  "para_orar": "Santo, santo, santo eres, Señor Dios Todopoderoso, el que era, el que es y el que ha de venir. Tú creaste todas las cosas y por tu voluntad existimos: recibe la gloria, la honra y el poder que te pertenecen. Te devolvemos nuestras coronas, cada logro y cada orgullo, y te pedimos ojos para verte y corazones que no se cansen de adorarte, por Jesús, el Cordero digno.",
-  "visuales": ["dg-numeros"],
-  "anexos": ["P3", "T14", "T4", "T2"],
-  "profundizar": [
-    {"titulo": "¿Qué dice el aoristo de «fueron creadas»?", "texto": "Carballosa sostiene que el aoristo pasivo ektísthēsan contempla la creación como un hecho histórico y que sugiere un acto sobrenatural e instantáneo por la palabra de Dios, no un proceso de millones de años. MacArthur y Mayhue incluyen 4:11 entre los textos de la creación por la palabra de Dios en seis días literales. Son conclusiones de esos autores; el texto de 4:11, por sí mismo, subraya sobre todo que la creación salió de la voluntad libre de Dios, en lo que coinciden también Grudem, Berkhof y Ladd.", "fuentes": ["carballosa_05_a#10", "r2_035#2", "r2_026#1", "r2_039#32", "ladd_02_c#20"]},
-    {"titulo": "Los ojos y la visión de Dios", "texto": "Sproul relaciona los ojos de los seres vivientes con la visión beatífica, la promesa de ver a Dios (Mt 5:8; 1 Jn 3:2). Cita a Jonathan Edwards: lo que nos impide ver a Dios no es el nervio óptico sino el pecado del corazón, y en la gloria la mente percibirá su gloria de manera inmediata.", "fuentes": ["web_20#8"]},
-    {"titulo": "La santidad que juzga", "texto": "MacArthur subraya que en este contexto la santidad se alaba como la que se manifiesta en juicio: Dios aborrece el pecado, como se vio en Bet-semes y con Uza, y hoy por gracia se abstiene de juzgar al mundo entero, pero llegará el día en que los hombres pidan a los montes que caigan sobre ellos (6:16-17). Agrega que la misma eternidad de Dios es consuelo para sus hijos y garantía de su justicia.", "fuentes": ["macarthur_05_b#5", "macarthur_05_b#7"]}
+ "dia": 23,
+ "desde": "4:7",
+ "hasta": "4:11",
+ "titulo": "«Digno eres»: el cielo adora al Creador",
+ "minutos": {
+  "lectura": 2,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "En 4:4-6 Juan vio alrededor del trono a los veinticuatro ancianos, el mar de vidrio y a los cuatro seres vivientes. Hoy esos seres se describen uno por uno y toda la sala del trono rompe a cantar.",
+  "ahora": "Los cuatro seres proclaman sin cesar la santidad de Dios; cada vez que lo hacen, los ancianos se postran, echan sus coronas y le dicen «digno eres» por haber creado todas las cosas.",
+  "donde": "En el cielo, delante del trono: la morada de Dios desde donde gobierna (MacArthur y Mayhue), la cámara interior del santuario celestial (Sproul).",
+  "cuando": "Las fuentes no le ponen fecha. Para Carballosa prepara los juicios futuros del «día del Señor»; para Ladd y el Comentario Mundo Hispano muestra la realidad permanente detrás de la historia: Dios gobierna (ver el anexo P3).",
+  "despues": "Mañana empieza el capítulo 5 (5:1-4) con un libro sellado: al himno de la creación le seguirá el de la redención.",
+  "fuentes": [
+   "r1_035#9",
+   "web_16#14",
+   "carballosa_04_b#15",
+   "ladd_02_c#4",
+   "cbmh_03_b#27",
+   "macarthur_05_b#4"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "4:11",
+  "porque": "Es la razón de toda la escena puesta en palabras: Dios es digno porque creó todas las cosas, y todo existe por su voluntad. El capítulo 4 entero desemboca en este versículo."
+ },
+ "panorama": {
+  "texto": "El capítulo 4 termina en un concierto. Primero cantan los cuatro seres vivientes «Santo, santo, santo», alabando a Dios por lo que es. Después responden los veinticuatro ancianos, que se postran, echan sus coronas y lo alaban por lo que hizo: creó todas las cosas. Detrás del león, el becerro, el hombre y el águila los autores ven a la creación entera sujeta a su Creador. Y en un mundo donde el César se hacía llamar señor y dios, Juan muestra quién está de verdad en el trono: el único digno de la gloria.",
+  "fuentes": [
+   "ladd_02_c#19",
+   "cbmh_04#8",
+   "henry_01_b#4",
+   "ladd_02_c#15",
+   "cbmh_04#9",
+   "web_07#6"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "4:7",
+   "titulo": "Un león, un becerro, un hombre y un águila",
+   "notas": [
+    {
+     "texto": "Juan ve cuatro seres distintos: el primero «semejante a un león», el segundo a un becerro, el tercero con «rostro como de hombre» y el cuarto como «un águila volando». Ezequiel había visto algo parecido, pero allí cada ser tenía cuatro rostros, cuatro alas y ruedas llenas de ojos; aquí cada uno tiene un solo rostro, seis alas, los ojos en el cuerpo y no hay ruedas: para Larkin, porque el cielo es la sede permanente del trono (Beasley-Murray, Carballosa, Larkin).",
+     "fuentes": [
+      "henry_01_b#4",
+      "carballosa_04_b#28",
+      "larkin_02_a#17",
+      "cbmh_04#3",
+      "web_16#14"
+     ],
+     "tipo": "conexion_biblica"
+    },
+    {
+     "texto": "La lectura que más autores comparten es que los cuatro reúnen lo mejor de la creación viva: el león, el más poderoso de las fieras; el becerro, el más fuerte de los domésticos; el águila, la reina de las aves; el hombre, la cumbre de la creación (Guzik, MacArthur, Grudem, Ladd, Beasley-Murray). Wiersbe agrega que su presencia junto al trono enseña que Dios controla la creación y la va a liberar.",
+     "fuentes": [
+      "web_05_a#11",
+      "macarthur_05_b#1",
+      "r2_026#14",
+      "ladd_02_c#15",
+      "henry_01_b#4",
+      "beacon_03_a#16",
+      "r1_024_b#6"
+     ],
+     "tipo": "simbolo_numero"
+    },
+    {
+     "texto": "Otros autores miran las cualidades: para la Biblia de Estudio MacArthur, el león es fortaleza; el becerro, servicio humilde; el hombre, razón; el águila, la rapidez con que cumplen su servicio. Desde la antigüedad hubo además otras lecturas, como los cuatro Evangelios o los estandartes de las tribus de Israel (ver Interpretaciones).",
+     "fuentes": [
+      "mbiblia_01_b#39",
+      "carballosa_04_b#27",
+      "web_05_a#11"
+     ],
+     "tipo": "simbolo_numero"
+    }
+   ]
+  },
+  {
+   "rango": "4:8",
+   "titulo": "Seis alas y «llenos de ojos»",
+   "notas": [
+    {
+     "texto": "Las seis alas llevan a Isaías 6, donde los serafines cubrían con dos el rostro, con dos los pies y con dos volaban. MacArthur saca de ahí que ni los seres más exaltados pueden mirar de lleno la gloria de Dios, y que su llamado y ocupación permanente es adorar. Carballosa ve en las alas un emblema del servicio continuo y de la adoración.",
+     "fuentes": [
+      "macarthur_05_b#3",
+      "carballosa_04_b#28",
+      "mcgee_04_b#1"
+     ],
+     "tipo": "conexion_biblica"
+    },
+    {
+     "texto": "Están llenos de ojos «alrededor y por dentro». Ladd, MacArthur y el Comentario Mundo Hispano leen vigilancia constante y un conocimiento amplísimo: no son omniscientes, pero nada de su tarea se les escapa. Guzik saca una consecuencia hermosa: no son robots ni instrumentos ciegos, sino seres que saben y entienden, y por eso adoran. Si falla la adoración, dice, falla la visión: el culto tiene que ser racional (Ro 12:1).",
+     "fuentes": [
+      "ladd_02_c#15",
+      "macarthur_05_b#1",
+      "cbmh_04#3",
+      "web_05_a#10"
+     ],
+     "tipo": "simbolo_numero"
+    },
+    {
+     "texto": "Un detalle del verbo: McGee anota que donde la RVR1960 dice «tenían» el griego está en presente. La escena no es un recuerdo; es lo que pasa ahora mismo en el cielo.",
+     "fuentes": [
+      "mcgee_04_b#1",
+      "mcgeer_04#25"
+     ],
+     "tipo": "griego_palabra"
+    }
+   ]
+  },
+  {
+   "rango": "4:8",
+   "titulo": "«Santo, santo, santo»: el canto que no se detiene",
+   "notas": [
+    {
+     "texto": "Los seres vivientes «no cesaban día y noche». En hebreo, repetir una palabra le da énfasis; decirla tres veces es el superlativo máximo (Mundo Hispano, Guzik). Sproul y Washer notan que ningún otro atributo de Dios se proclama así: nunca «amor, amor, amor». Para MacArthur, la santidad es la suma de todo lo que Dios es, su total separación del mal; para Mundo Hispano, su alteridad: Dios es otro, majestuoso, no como nosotros.",
+     "fuentes": [
+      "cbmh_04#5",
+      "web_05_a#12",
+      "r2_003_a#15",
+      "r2_024#20",
+      "macarthur_05_b#5"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "El canto retoma el de los serafines de Isaías 6:3 con dos cambios. Donde Isaías dice «Jehová de los ejércitos», Juan dice «Señor Dios Todopoderoso»; y donde Isaías dice que la tierra está llena de su gloria, Juan dice «el que era, el que es, y el que ha de venir». Carballosa lo lee así: hoy la tierra está llena de violencia, y el Señor viene a juzgarla y a prepararla para que se llene de su gloria.",
+     "fuentes": [
+      "carballosa_05_a#4",
+      "beacon_03_a#17"
+     ],
+     "tipo": "conexion_biblica"
+    },
+    {
+     "texto": "Barclay y el Comentario Mundo Hispano ven en el canto tres afirmaciones: santidad, poder y eternidad. «Todopoderoso» aparece nueve veces en el Apocalipsis y en ningún otro libro del Nuevo Testamento; MacArthur recuerda que es el nombre con que Dios se presentó a Abraham (Gn 17:1). «El que era, el que es, y el que ha de venir» traduce el sentido del nombre de Dios, como en 1:8 (Guzik). Beasley-Murray saca de ahí consuelo: la certeza del triunfo final de Dios está arraigada en lo que él es.",
+     "fuentes": [
+      "beacon_03_a#17",
+      "cbmh_04#5",
+      "web_05_a#12",
+      "macarthur_05_b#6",
+      "henry_01_b#4"
+     ],
+     "tipo": "teologia_doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "4:9-10",
+   "titulo": "«Y siempre que…»: el cielo canta a dos coros",
+   "notas": [
+    {
+     "texto": "Los versículos 9 a 11 son una sola oración larga en griego que coordina dos voces: primero alaban los seres vivientes y después responden los ancianos (Mundo Hispano lo llama liturgia antifonal). Carballosa remarca que «siempre que» indica algo que se repite: cada vez que los seres dan gloria, los ancianos se postran, como dos acciones sincronizadas en las que la primera es la señal de la segunda.",
+     "fuentes": [
+      "cbmh_04#6",
+      "carballosa_05_a#6"
+     ],
+     "tipo": "estructura_bosquejo"
+    },
+    {
+     "texto": "Los seres dan tres cosas: gloria, la brillantez y majestad de Dios; honra, el reconocimiento de que es inmensamente estimable; y acción de gracias, la gratitud por sus dones en la creación y la providencia (Mundo Hispano, Carballosa, Swete citado en el Beacon). Las dirigen «al que vive por los siglos de los siglos»: Dios es el Viviente, sin principio ni fin, y de él reciben la vida todas las criaturas (MacArthur, Carballosa, Earle).",
+     "fuentes": [
+      "cbmh_04#6",
+      "carballosa_05_a#7",
+      "beacon_03_a#18",
+      "macarthur_05_b#7"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "Los ancianos dejan sus tronos y se postran. MacArthur cuenta que es la primera de seis veces que lo hacen en el libro, y que postrarse es la reacción natural de quien ve la gloria de Dios, como Abraham, Josué, Ezequiel o Pablo. Para Carballosa, así confiesan que son criaturas delante del que vive para siempre.",
+     "fuentes": [
+      "macarthur_05_b#8",
+      "carballosa_05_a#8"
+     ],
+     "tipo": "explicacion_texto"
+    }
+   ]
+  },
+  {
+   "rango": "4:10",
+   "titulo": "«Echan sus coronas delante del trono»",
+   "notas": [
+    {
+     "texto": "Las coronas de los ancianos son de vencedor: la palabra es la de la corona del atleta que ganaba en los juegos (Guzik). Al echarlas, reconocen que sus victorias vienen de Dios y por gracia son suyas (Earle en el Beacon), que su autoridad se la dio él y es justo devolvérsela (Mundo Hispano), y que solo él merece el crédito de cualquier recompensa (Biblia de Estudio MacArthur). MacArthur lo resume: todo lo propio, excelencia, honor o premio, palidece ante su gloria.",
+     "fuentes": [
+      "web_05_a#13",
+      "beacon_03_a#18",
+      "cbmh_04#7",
+      "mbiblia_01_b#41",
+      "macarthur_05_b#8"
+     ],
+     "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Guzik, siguiendo a Clarke, ve una alusión a una costumbre romana: los reyes vasallos echaban sus coronas ante el emperador, y él se las devolvía para mostrar que su derecho a gobernar venía de él. Spurgeon, citado por Guzik, agrega que en el cielo nadie envidia la corona del otro: todos las echan, a una.",
+     "fuentes": [
+      "web_05_a#13",
+      "cbmh_04#7"
+     ],
+     "tipo": "cultura_costumbres"
+    },
+    {
+     "texto": "Beasley-Murray distingue este gesto de la alabanza del versículo 8: los seres adoran sin pausa, mientras que los ancianos se postran en momentos de crisis especial del libro (5:8, 14; 11:16; 19:4). Quiénes son los ancianos es tema del día 22.",
+     "fuentes": [
+      "henry_01_b#5",
+      "macarthur_05_b#8"
+     ],
+     "tipo": "dificultad_interpretaciones"
+    }
+   ]
+  },
+  {
+   "rango": "4:11",
+   "titulo": "«Señor, digno eres»: el himno al Creador",
+   "notas": [
+    {
+     "texto": "Los seres vivientes hablan de Dios en tercera persona y lo alaban por lo que es; los ancianos le hablan a él, «tú», y lo alaban por lo que hizo (Ladd, Mundo Hispano, McGee con Walvoord). En griego ese «tú» es enfático: Stam, citado por Mundo Hispano, lo traduce «tú, y solo tú, creaste el universo».",
+     "fuentes": [
+      "ladd_02_c#19",
+      "cbmh_04#8",
+      "mcgee_04_b#4",
+      "mcgeer_04#27"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "«Digno» tiene una carga política fuerte. Según Stam (citado por Mundo Hispano), la aclamación no viene de la liturgia hebrea, que decía «bendito eres», sino de Roma: en la procesión triunfal del emperador la multitud gritaba «digno», y Domiciano introdujo en el culto el saludo «señor y dios nuestro». MacArthur también señala que la palabra se usaba para el emperador. Wiersbe va más lejos y dice que, según la historia, «Señor Dios Todopoderoso» era un título oficial de Domiciano. En ese contexto, el himno era desafiante: solo Dios, y no el César, merece la adoración.",
+     "fuentes": [
+      "cbmh_04#9",
+      "macarthur_05_b#9",
+      "r1_024_b#7"
+     ],
+     "tipo": "contexto_historico"
+    },
+    {
+     "texto": "La razón del himno es la creación: «tú creaste todas las cosas». Grudem, Berkhof, Lacueva y MacArthur y Mayhue usan este versículo para enseñar que Dios creó libremente, no por necesidad, y para su gloria (Is 43:7; Ro 11:36), y que todo sigue dependiendo de él.",
+     "fuentes": [
+      "r2_026#1",
+      "r2_039#32",
+      "r2_030#8",
+      "r2_035#2",
+      "r2_034#2",
+      "r2_025_a#40",
+      "ladd_02_c#20"
+     ],
+     "tipo": "teologia_doctrina"
+    },
+    {
+     "texto": "La frase «por tu voluntad existen y fueron creadas» tiene una dificultad: en griego dice literalmente «eran y fueron creadas», como si las cosas existieran antes de ser creadas. Ladd presenta tres soluciones sin elegir: son dos ideas distintas (existir en vez de no existir, y haber sido creadas); existían primero en la mente y la voluntad de Dios (es la lectura de Carballosa y de Swete en el Beacon); o la segunda frase explica la primera: «existen, sí, fueron creadas».",
+     "fuentes": [
+      "ladd_02_c#20",
+      "carballosa_05_a#9",
+      "beacon_03_a#18"
+     ],
+     "tipo": "dificultad_interpretaciones"
+    }
+   ]
+  }
+ ],
+ "simbolos": [
+  {
+   "signo": "león, becerro, hombre, águila",
+   "significado": "Según Guzik, MacArthur, Ladd, Grudem y Beasley-Murray, lo más excelente de la creación viva (fieras, animales domésticos, seres humanos, aves); según la Biblia de Estudio MacArthur, fortaleza, servicio, razón y rapidez; según McGee, además, los cuatro Evangelios.",
+   "refs": [
+    "4:7"
+   ],
+   "fuentes": [
+    "web_05_a#11",
+    "macarthur_05_b#1",
+    "ladd_02_c#15",
+    "r2_026#14",
+    "henry_01_b#4",
+    "mbiblia_01_b#39",
+    "mcgee_04_a#30"
+   ]
+  },
+  {
+   "signo": "seis alas",
+   "significado": "Según MacArthur, su privilegio y ocupación de adorar sin cesar (como los serafines de Is 6:2); según Carballosa, servicio continuo y adoración; según Donald Richardson (citado en el Beacon), la perfección de su dotación para servir a Dios.",
+   "refs": [
+    "4:8"
+   ],
+   "fuentes": [
+    "macarthur_05_b#3",
+    "carballosa_04_b#28",
+    "beacon_03_a#16"
+   ]
+  },
+  {
+   "signo": "llenos de ojos",
+   "significado": "Vigilancia incesante y conocimiento amplísimo (Ladd, Mundo Hispano, MacArthur); según Guzik, seres que entienden lo que adoran.",
+   "refs": [
+    "4:8"
+   ],
+   "fuentes": [
+    "ladd_02_c#15",
+    "cbmh_04#3",
+    "macarthur_05_b#1",
+    "web_05_a#10"
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "4:7",
+   "griego": "ζῷον",
+   "translit": "zōon",
+   "significado": "«Ser viviente», de zaō, vivir. No es «bestia»: la bestia salvaje del capítulo 13 es otra palabra, thērion (Diccionario Mundo Hispano, Larkin, McGee). Vine, citado por Mundo Hispano, dice que aquí traducir «animal» es de lo más inapropiado.",
+   "fuentes": [
+    "macarthur_05_a#30",
+    "dbmh_02#6",
+    "larkin_02_a#14",
+    "mcgeer_04#25",
+    "cbmh_04#4"
+   ]
+  },
+  {
+   "ref": "4:8",
+   "griego": "παντοκράτωρ",
+   "translit": "pantokrátōr",
+   "significado": "«Todopoderoso», el que tiene todo en su mano (Guzik). Reemplaza al «Jehová de los ejércitos» de Is 6:3; según Carballosa, para destacar la soberanía de Dios que se revelará en sus juicios.",
+   "fuentes": [
+    "web_05_a#12",
+    "carballosa_05_a#4"
+   ]
+  },
+  {
+   "ref": "4:10",
+   "griego": "στέφανος",
+   "translit": "stéphanos",
+   "significado": "Corona de victoria, la del atleta ganador, no la de un rey (Guzik).",
+   "fuentes": [
+    "web_05_a#13"
+   ]
+  },
+  {
+   "ref": "4:11",
+   "griego": "ἄξιος",
+   "translit": "áxios",
+   "significado": "«Digno». Según Stam (citado por Mundo Hispano) no tiene equivalente hebreo exacto y viene del lenguaje político romano; MacArthur dice que se aclamaba así al emperador en su procesión triunfal.",
+   "fuentes": [
+    "cbmh_04#9",
+    "macarthur_05_b#9"
+   ]
+  },
+  {
+   "ref": "4:11",
+   "griego": "ἐκτίσθησαν",
+   "translit": "ektísthēsan",
+   "significado": "«Fueron creadas», aoristo pasivo de ktízō: para Carballosa, mira la creación como un hecho histórico (ver Para profundizar).",
+   "fuentes": [
+    "carballosa_05_a#10"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "El que se sienta en el trono creó todas las cosas, y el Nuevo Testamento dice que lo hizo por medio del Hijo: Carballosa une 4:11 con Juan 1:1-3, Colosenses 1:15-16 y Hebreos 1:3. El «digno eres» al Creador prepara el «digno eres» al Cordero del capítulo 5.",
+   "refs": [
+    "Jn 1:1-3",
+    "Col 1:15-16",
+    "He 1:3",
+    "Ap 5:9"
+   ],
+   "fuentes": [
+    "carballosa_05_a#9",
+    "r1_024_b#6"
+   ]
+  },
+  {
+   "texto": "«El que era, el que es, y el que ha de venir» es la misma fórmula con que Jesús se presenta en 1:8; McGee la refiere directamente a Cristo. Para el Comentario Mundo Hispano y Chafer, el canto del versículo 8 es una alabanza al Dios trino.",
+   "refs": [
+    "Ap 1:8"
+   ],
+   "fuentes": [
+    "mcgee_04_b#1",
+    "mcgeer_04#25",
+    "cbmh_04#5",
+    "r2_039#1"
+   ]
+  },
+  {
+   "texto": "La Biblia de Estudio MacArthur lo resume: el Creador es el que tomó la iniciativa de redimir a su creación. Por eso la eternidad será una alabanza al Señor Jesús por su redención (5:11-14).",
+   "refs": [
+    "Ap 5:11-14",
+    "Fil 2:9-11"
+   ],
+   "fuentes": [
+    "mbiblia_01_b#42",
+    "r2_036#22"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Quiénes son los cuatro seres vivientes?",
+   "posturas": [
+    {
+     "postura": "Querubines, como los de Ezequiel 10:15-22: un orden elevado de ángeles que guardan el trono y la santidad de Dios.",
+     "quien": "MacArthur, Guzik y Carballosa (este sin dogmatizar, con Mounce); Chafer con la nota de Scofield; Berkhof; el Diccionario Mundo Hispano",
+     "fuentes": [
+      "macarthur_05_a#30",
+      "web_05_a#10",
+      "carballosa_05_a#1",
+      "r2_028#19",
+      "r2_039#36",
+      "dbmh_02#6"
+     ]
+    },
+    {
+     "postura": "Se parecen más a los serafines de Isaías 6 por las seis alas y la adoración; quizá querubines, seres vivientes y serafines sean variantes del mismo tipo de ángel.",
+     "quien": "MacArthur y Mayhue (Teología sistemática); Sproul dice que no sabe distinguirlos",
+     "fuentes": [
+      "r1_034#12",
+      "web_20#8"
+     ]
+    },
+    {
+     "postura": "Una combinación de serafines y querubines, o una clase propia de seres celestiales.",
+     "quien": "Wiersbe; Ladd; Grudem, que deja abierta la relación con los de Ezequiel",
+     "fuentes": [
+      "r1_024_b#6",
+      "ladd_02_c#15",
+      "r2_026#14"
+     ]
+    },
+    {
+     "postura": "Guardianes del trono, distintos de los ángeles (5:11 los nombra aparte) y que no representan a los redimidos.",
+     "quien": "Larkin (premilenial dispensacional)",
+     "fuentes": [
+      "larkin_02_a#14",
+      "larkin_02_a#19"
+     ]
+    },
+    {
+     "postura": "Representan a la creación que adora a su Creador, o los atributos de Dios.",
+     "quien": "La primera, José Grau y Bengel (citados por Carballosa) y el Comentario Mundo Hispano, que igual los ubica como orden de ángeles; la segunda, otros autores que mencionan Ryrie y Carballosa",
+     "fuentes": [
+      "carballosa_05_a#3",
+      "cbmh_04#3",
+      "r1_031#3"
+     ]
+    }
+   ],
+   "nota": "Ladd cree que las dos ideas pueden ser ciertas a la vez: son seres angélicos que, al cantar, representan la alabanza de toda la creación. Carballosa advierte que no se puede dogmatizar."
+  },
+  {
+   "tema": "¿Qué representan los cuatro rostros?",
+   "posturas": [
+    {
+     "postura": "Lo más excelente de la creación viva.",
+     "quien": "Guzik (la considera la más segura), MacArthur, Ladd, Grudem, Beasley-Murray, Swete, Wiersbe",
+     "fuentes": [
+      "web_05_a#11",
+      "macarthur_05_b#1",
+      "ladd_02_c#15",
+      "r2_026#14",
+      "henry_01_b#4",
+      "beacon_03_a#16",
+      "r1_024_b#6"
+     ]
+    },
+    {
+     "postura": "Cualidades de su servicio: fuerza, servicio, razón y rapidez, al servicio de la justicia.",
+     "quien": "Biblia de Estudio MacArthur; Kœchlin; Carballosa",
+     "fuentes": [
+      "mbiblia_01_b#39",
+      "r2_022_a#1",
+      "carballosa_04_b#27"
+     ]
+    },
+    {
+     "postura": "Los cuatro Evangelios: león, Mateo (el Rey); becerro, Marcos (el Siervo); hombre, Lucas (el Hijo del Hombre); águila, Juan (el Hijo de Dios).",
+     "quien": "McGee, que admite que se discute. Ireneo (siglo II) ya los asociaba, con otro reparto; Ladd lo juzga sin apoyo en el texto y el Beacon pide no enfatizarlo",
+     "fuentes": [
+      "mcgee_04_a#30",
+      "mcgeer_04#26",
+      "ladd_02_c#16",
+      "beacon_03_a#16"
+     ]
+    },
+    {
+     "postura": "Los estandartes de los cuatro campamentos de Israel alrededor del tabernáculo, encabezados por Judá (león), Efraín (buey), Rubén (hombre) y Dan (águila).",
+     "quien": "Larkin; Seiss, Clarke y Poole citados por Guzik; MacArthur lo menciona como tradición del Talmud",
+     "fuentes": [
+      "larkin_02_a#18",
+      "web_05_a#11",
+      "macarthur_05_b#1"
+     ]
+    }
+   ],
+   "nota": "Lo que todos afirman: estos seres, con todo lo que simbolizan, existen para adorar a Dios."
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "Pentecost propone, con un «puede ser que», que la recompensa del creyente consiste en la capacidad de manifestar la gloria de Cristo: echar las coronas sería un solo acto de una glorificación que sigue por la eternidad, y todos estarán llenos hasta el límite de su capacidad, sin sentir falta.",
+   "autor": "J. Dwight Pentecost",
+   "obra": "Eventos del porvenir",
+   "pagina": "pág. PDF 164",
+   "tipo": "doctrina"
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Is 6:1-3",
+   "nota": "Los serafines de seis alas y el triple «santo»: la fuente directa del canto de 4:8.",
+   "fuentes": [
+    "web_16#14",
+    "carballosa_05_a#4",
+    "macarthur_05_b#3"
+   ]
+  },
+  {
+   "ref": "Ez 1:5-10; 10:14-22",
+   "nota": "Los seres vivientes de cuatro rostros que Ezequiel identifica como querubines; Juan los ve modificados.",
+   "fuentes": [
+    "henry_01_b#4",
+    "cbmh_04#3",
+    "macarthur_05_a#30"
+   ]
+  },
+  {
+   "ref": "Ro 8:19-22",
+   "nota": "La creación que gime esperando su liberación: Ladd, Wiersbe y MacArthur la ven anunciada en el canto de los seres vivientes.",
+   "fuentes": [
+    "ladd_02_c#18",
+    "r1_024_b#6",
+    "macarthur_05_b#9"
+   ]
+  },
+  {
+   "ref": "Ap 5:9-14",
+   "nota": "El segundo movimiento del oratorio: el «digno eres» al Cordero, por la redención.",
+   "fuentes": [
+    "macarthur_05_b#4",
+    "r1_024_b#6"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "La adoración del cielo no se cansa porque mira a Dios, y los seres vivientes adoran porque ven y entienden. McGee pregunta con humor para qué quiere ir al cielo alguien a quien le aburre adorar aquí; Guzik dice que toda falla en la adoración es una falla de visión. Estudiar juntos quién es Dios, como hoy, ya es parte de adorarlo.",
+   "fuentes": [
+    "mcgee_04_b#2",
+    "mcgeer_04#27",
+    "web_05_a#10"
+   ]
+  },
+  {
+   "texto": "Echar las coronas es devolverle a Dios cada logro: del trabajo, del ministerio, de la familia. Grudem advierte que el orgullo es malo porque nos apropia un honor que solo es de él.",
+   "fuentes": [
+    "web_05_a#13",
+    "mbiblia_01_b#41",
+    "r2_034#10"
+   ]
+  },
+  {
+   "texto": "Existimos por su voluntad y para su gloria: Tozer dice que Dios nos creó para que lo adoremos y que ahí está la respuesta a quiénes somos y para qué estamos.",
+   "fuentes": [
+    "r2_001_a#12"
+   ]
+  },
+  {
+   "texto": "En el centro del universo no hay azar ni un César, sino un trono, y por eso el futuro tiene sentido (CHBC). Mundo Hispano lo dice fuerte: adorar es un acto de fe y compromiso, «peligroso y subversivo», porque le niega el trono a cualquier otro.",
+   "fuentes": [
+    "web_07#6",
+    "cbmh_04#1",
+    "cbmh_04#9"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "Los seres vivientes alaban a Dios por lo que es y los ancianos por lo que hizo. ¿Cuál de las dos alabanzas les sale más fácil, y qué atributo del canto de 4:8 les gustaría conocer mejor?",
+  "Si tuvieran que nombrar una «corona» propia (un logro, un rol, una reputación), ¿cuál sería? ¿Qué significaría, en concreto, echarla delante del trono esta semana?",
+  "Los primeros lectores oían «digno» y «Señor y Dios» aplicados al emperador. ¿Qué poderes o personas reclaman hoy esa clase de lealtad, y cómo los ayuda esta escena a ponerlos en su lugar?"
+ ],
+ "para_orar": "Santo, santo, santo eres, Señor Dios Todopoderoso, el que era, el que es y el que ha de venir. Tú creaste todas las cosas y por tu voluntad existimos: recibe la gloria, la honra y el poder que te pertenecen. Te devolvemos nuestras coronas, cada logro y cada orgullo, y te pedimos ojos para verte y corazones que no se cansen de adorarte, por Jesús, el Cordero digno.",
+ "visuales": [
+  "dg-numeros"
+ ],
+ "anexos": [
+  "P3",
+  "T14",
+  "T4",
+  "T2"
+ ],
+ "profundizar": [
+  {
+   "titulo": "Tres doxologías y un paraíso recobrado",
+   "texto": "Wiersbe muestra hacia dónde va el libro: 4:11 es la primera doxología, por la creación; 5:9-10, por la redención; 11:16-19, por el juicio. MacArthur agrega que el Creador tiene derecho a redimir y a juzgar lo que hizo: el paraíso perdido empieza a ser paraíso recobrado (Ro 8:19-22).",
+   "fuentes": [
+    "r1_024_b#6",
+    "macarthur_05_b#9"
+   ]
+  },
+  {
+   "titulo": "¿Qué dice el aoristo de «fueron creadas»?",
+   "texto": "Carballosa sostiene que el aoristo pasivo ektísthēsan contempla la creación como un hecho histórico y que sugiere un acto sobrenatural e instantáneo por la palabra de Dios, no un proceso de millones de años. MacArthur y Mayhue incluyen 4:11 entre los textos de la creación por la palabra de Dios en seis días literales. Son conclusiones de esos autores; el texto de 4:11, por sí mismo, subraya sobre todo que la creación salió de la voluntad libre de Dios, en lo que coinciden también Grudem, Berkhof y Ladd.",
+   "fuentes": [
+    "carballosa_05_a#10",
+    "r2_035#2",
+    "r2_026#1",
+    "r2_039#32",
+    "ladd_02_c#20"
+   ]
+  },
+  {
+   "titulo": "Los ojos y la visión de Dios",
+   "texto": "Sproul relaciona los ojos de los seres vivientes con la visión beatífica, la promesa de ver a Dios (Mt 5:8; 1 Jn 3:2). Cita a Jonathan Edwards: lo que nos impide ver a Dios no es el nervio óptico sino el pecado del corazón, y en la gloria la mente percibirá su gloria de manera inmediata.",
+   "fuentes": [
+    "web_20#8"
+   ]
+  },
+  {
+   "titulo": "La santidad que juzga",
+   "texto": "MacArthur subraya que en este contexto la santidad se alaba como la que se manifiesta en juicio: Dios aborrece el pecado, como se vio en Bet-semes y con Uza, y hoy por gracia se abstiene de juzgar al mundo entero, pero llegará el día en que los hombres pidan a los montes que caigan sobre ellos (6:16-17). Agrega que la misma eternidad de Dios es consuelo para sus hijos y garantía de su justicia.",
+   "fuentes": [
+    "macarthur_05_b#5",
+    "macarthur_05_b#7"
+   ]
+  },
+  {
+   "titulo": "Dos palabras más del canto",
+   "texto": "«El que viene» (ho erchómenos): para Carballosa, la próxima manifestación de Dios en juicio y la liberación de la creación; para Ladd, el anhelo de la creación por esa liberación (Ro 8:21). «Siempre que» (hótan) con el verbo en futuro indica, según Carballosa, que la adoración se repite una y otra vez.",
+   "fuentes": [
+    "carballosa_05_a#5",
+    "ladd_02_c#18",
+    "carballosa_05_a#6"
+   ]
+  },
+  {
+   "titulo": "¿Quiénes son los ancianos que echan las coronas?",
+   "texto": "MacArthur y McGee (premileniales dispensacionales) ven a la iglesia ya arrebatada y recompensada; Guzik, a representantes de todo el pueblo de Dios, cuya adoración y coronas nos pertenecen; Carballosa, a seres angelicales de alto rango. El Comentario Mundo Hispano prefiere no identificarlos y mirar su significado, el poder que Dios delega, y Buswell duda de que representen a los redimidos por una variante del texto en 5:9-10. Spurgeon, citado por Guzik, saca la aplicación: hay que aprender aquí a echar las coronas a los pies de Jesús.",
+   "fuentes": [
+    "r1_030#17",
+    "mcgee_04_b#4",
+    "web_05_a#16",
+    "carballosa_05_a#11",
+    "cbmh_03_b#27",
+    "r1_009#8"
+   ]
+  },
+  {
+   "titulo": "Adorar es reconocer el valor",
+   "texto": "Whitney recuerda que la palabra inglesa para adorar, worship, viene de worth-ship, «valor»: adorar es atribuirle a Dios el valor que tiene, como hacen los que lo llaman «digno» en 4:11 y 5:12. Y concluye que si la adoración nos cansa, no estamos adorando: a los seres del cielo nunca se les ocurrió quejarse de cansancio.",
+   "fuentes": [
+    "r2_003_a#16",
+    "r2_003_a#15"
+   ]
+  }
+ ]
 }

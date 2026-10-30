@@ -8,7 +8,7 @@ Uso: continuidad_entrada.py [desde hasta]
 import json, glob, os, sys
 
 V = '/home/user/trabajo/varon'
-TAM, PASO = 6, 5
+TAM, PASO = 10, 9
 
 
 def campos(x):

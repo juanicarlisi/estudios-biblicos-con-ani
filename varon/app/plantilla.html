@@ -101,6 +101,7 @@ p { margin: 0 0 14px; }
 .clave blockquote { margin: 0 0 8px; font: 500 1.3rem/1.42 var(--f-texto); font-style: italic; }
 .clave cite { font: 600 .8rem var(--f-ui); color: var(--bronce); font-style: normal; letter-spacing: .04em; }
 .clave .porque { font-size: .92rem; margin: 8px 0 0; }
+.vref { margin: 14px 0; padding: 10px 14px; border-left: 3px solid var(--bronce); background: var(--bronce-soft); border-radius: 6px; font-family: var(--f-ui); font-size: .95rem; }
 .graficos { display: grid; gap: 18px; } .grafico { margin: 0; padding: 14px 16px; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); } .grafico svg { width: 100%; height: auto; display: block; } .grafico figcaption { margin-bottom: 6px; } .leyenda { display: flex; gap: 16px; font-family: var(--f-ui); font-size: .85rem; margin: 4px 0; } .leyenda i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
 .ayuda { margin: 28px 0; padding: 16px 20px; border: 1px solid var(--line); border-left: 4px solid var(--acero); border-radius: var(--radio); background: var(--acero-soft); }
 .ayuda h2 { margin-top: 0; } .ayuda h3 { margin: 14px 0 4px; font-size: 1rem; } .ayuda p { margin: 6px 0; }
@@ -425,7 +426,7 @@ function vistaDia(d) {
     <div class="acciones no-imprimir"><button class="btn ${est.hechos[d] ? 'ok' : ''}" id="hecho-btn">${est.hechos[d] ? '✓ Terminado' : 'Marcar como terminado'}</button></div>`;
   if (x.lectura && x.lectura.pasaje) h += `<div class="lectura-b"><span>Antes de empezar, leé <b>${esc(x.lectura.pasaje)}</b>${x.lectura.porque ? ' · ' + esc(x.lectura.porque) : ''}</span><a class="btn no-imprimir" href="${bg(x.lectura.pasaje)}" target="_blank" rel="noopener">Leer en RVR1960 ↗</a></div>`;
   const vers = (x.versiculos || []).slice(), citas = (x.citas || []).slice();
-  const versiculo = v => { const t = D.rvr[v.ref]; return t ? `<figure class="clave"><blockquote class="ak">«${esc(t)}»</blockquote><cite>${esc(v.ref)} · RVR1960</cite>${v.porque ? `<p class="porque ak">${esc(v.porque)}</p>` : ''}</figure>` : ''; };
+  const versiculo = v => { const t = D.rvr[v.ref]; return t ? `<figure class="clave"><blockquote class="ak">«${esc(t)}»</blockquote><cite>${esc(v.ref)} · RVR1960</cite>${v.porque ? `<p class="porque ak">${esc(v.porque)}</p>` : ''}</figure>` : `<p class="vref"><b>${esc(v.ref)}</b>${v.porque ? ' · ' + esc(v.porque) : ''} <a class="no-imprimir" href="${bg(v.ref)}" target="_blank" rel="noopener">leer en RVR1960 ↗</a></p>`; };
   const cita = c => `<figure class="cita"><blockquote class="ak">«${esc(c.texto)}»</blockquote><figcaption>${esc(c.autor)}${c.obra ? ', <i>' + esc(c.obra) + '</i>' : ''} ${chips(c.fuentes)}</figcaption></figure>`;
   if (vers.length) h += versiculo(vers.shift());
   h += `<div class="entrada">${parr(x.entrada.texto)}${chips(x.entrada.fuentes)}</div>`;

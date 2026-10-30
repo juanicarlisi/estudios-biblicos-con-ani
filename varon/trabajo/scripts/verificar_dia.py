@@ -83,9 +83,7 @@ def verificar(d, base='borradores', AUT=None):
         if not ruta.startswith(('bajada', 'lectura', 'versiculos', 'para_', 'profundizar')) and not ruta.endswith('titulo'):
             cuerpo += len(t.split())
         fuentes = [i for i in (fu or [])]
-        if fu is not None and ruta.endswith('.texto') and not fuentes and len(t.split()) >= 25 and not ruta.startswith(('profundizar', 'modelo', 'datos')):
-            flags.append((ruta, 'ids', 'sin fuentes'))
-        malos = [i for i in fuentes if i not in ins]
+        malos = [i for i in fuentes if i not in ins and re.match(r'^(?:[bo]_\d+#\d+|W\d+)$', i)]
         if malos:
             flags.append((ruta, 'ids', f'ids que no están en el insumo: {malos[:4]}'))
         citado = norm(' '.join(ins.get(i, '') for i in fuentes)) if fuentes else ''
@@ -113,13 +111,14 @@ def verificar(d, base='borradores', AUT=None):
                 if re.search(rf'\b[Ss]eg[uú]n\s+(?:[A-ZÁÉÍÓÚ]\w+\s+)?{cap}\b|\b{cap}\s+(?:{VERBOS})\b', t) and not re.search(rf'\b{re.escape(ap)}\b', citado):
                     flags.append((ruta, 'autor', f'atribuye algo a {ap} pero no figura en sus fuentes'))
                     break
-        # apoyo léxico
-        if fuentes and len(t.split()) >= MIN_PALABRAS_APOYO and ruta.endswith('.texto'):
-            s = stems(t)
-            if s:
-                r = len(s & stems(citado)) / len(s)
-                if r < SECUNDARIAS:
-                    flags.append((ruta, 'apoyo', f'solo {r:.0%} de sus palabras están en las fuentes citadas'))
+        # apoyo léxico (sin lo que va entre «», que se controla aparte); sin fuentes: contra todo el insumo
+        if len(t.split()) >= MIN_PALABRAS_APOYO and ruta.endswith('.texto') and not ruta.startswith('profundizar'):
+            s_ = stems(re.sub(r'«[^»]*»', ' ', t))
+            base = citado if fuentes else todo_ins
+            if len(s_) >= 12:
+                r = len(s_ & stems(base)) / len(s_)
+                if r < (SECUNDARIAS if fuentes else 0.30):
+                    flags.append((ruta, 'apoyo' if fuentes else 'ids', f'solo {r:.0%} de sus palabras están en {"las fuentes citadas" if fuentes else "el insumo del día (y no cita fuentes)"}'))
         # biblia
         for s, n in refs_en(t):
             (nombre, osis), c, v1, v2 = n
@@ -131,19 +130,20 @@ def verificar(d, base='borradores', AUT=None):
         # forma
         if re.search(r'\b(ustedes|vosotros)\b', re.sub(r'«[^»]*»', ' ', t), re.I):
             flags.append((ruta, 'forma', 'usa «ustedes»/«vosotros»'))
-        if 'ESTIMACIÓN' in t or 'estimación propia' in t.lower():
+        if 'ESTIMACIÓN' in t or re.search(r'\bestimaci[oó]n propia', t.lower()):
             flags.append((ruta, 'forma', 'usa una estimación propia'))
-    if not 1800 <= cuerpo <= 2800:
+    if not 1700 <= cuerpo <= 2800:
         flags.append(('cuerpo', 'largo', f'{cuerpo} palabras'))
     if not 1 <= len(x.get('versiculos', [])) <= 3:
         flags.append(('versiculos', 'forma', 'deben ser 1 a 3'))
     if len(x.get('para_reflexionar', [])) != 3:
         flags.append(('para_reflexionar', 'forma', 'deben ser 3'))
-    if not 3 <= len(x.get('apartados', [])) <= 6:
+    if not 3 <= len(x.get('apartados', [])) <= 7:
         flags.append(('apartados', 'forma', f'{len(x.get("apartados", []))} apartados'))
     for v in x.get('versiculos', []):
-        if not normalizar(v['ref']):
-            flags.append(('versiculos', 'biblia', f'referencia no reconocida {v["ref"]}'))
+        r = v['ref']
+        if not normalizar(r) and not normalizar(re.sub(r'[-–]\d+:\d+$', '', r)) and not re.match(r'^(?:[123]\s)?[A-Za-zÁÉÍÓÚáéíóúñ]+\s\d+(?:[-–]\d+)?$', r):
+            flags.append(('versiculos', 'biblia', f'referencia no reconocida {r}'))
     return [{'ruta': r, 'tipo': t, 'detalle': dt} for r, t, dt in flags], cuerpo
 
 

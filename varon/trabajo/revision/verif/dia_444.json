@@ -1,1 +1,1 @@
-{"ok": false, "cuerpo": 2944, "flags": [{"ruta": "entrada.texto", "tipo": "comillas", "detalle": "«He acabado la carrera: terminar bien» no está en las fuentes ni en la RVR de los capítulos citados"}, {"ruta": "apartados[1].parrafos[3].texto", "tipo": "cifras", "detalle": "la cifra 446 no está en el insumo"}, {"ruta": "apartados[4].parrafos[4].texto", "tipo": "ids", "detalle": "sin fuentes"}, {"ruta": "cuerpo", "tipo": "largo", "detalle": "2944 palabras"}]}
+{"ok": true, "cuerpo": 2472, "flags": []}

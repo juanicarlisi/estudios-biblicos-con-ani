@@ -8,7 +8,7 @@ encuentra tal cual lo informa y no lo toca. Registro en varon/revision/continuid
 import json, glob, re, sys, collections
 
 V = '/home/user/trabajo/varon'
-MIRADAS = ['continuidad', 'doctrina']   # mismo orden que en wf_varon_continuidad.js
+MIRADAS = ['continuidad', 'doctrina', '']   # '' = flujo de un solo agente por ventana (wf_varon_continuidad2.js)
 rev, ver = collections.defaultdict(dict), {}
 for run in sys.argv[1:]:
     fs = glob.glob(f'/root/.claude/projects/**/subagents/workflows/{run}/journal.jsonl', recursive=True)
@@ -22,7 +22,7 @@ for run in sys.argv[1:]:
             v = json.loads(v) if isinstance(v, str) else v
             k = int(lab.split(':v')[-1])
             if lab.startswith('revisar:'):
-                rev[k][lab.split(':')[1]] = v
+                rev[k][lab.split(':')[1] if lab.count(':') > 1 else ''] = v
             elif lab.startswith('verificar:'):
                 ver[k] = v
 
@@ -45,6 +45,8 @@ for k in sorted(rev):
     vs = {x['indice']: x for x in (ver.get(k) or {}).get('veredictos', [])}
     for i, x in enumerate(hs):
         v = vs.get(i)
+        if not ver.get(k) and x.get('texto_nuevo') is not None:
+            v = {'real': True, 'texto_nuevo': x['texto_nuevo'], 'motivo': 'sin verificador (flujo de un agente)'}
         estado = {'ventana': k, 'dia': x['dia'], 'campo': x['campo'], 'tipo': x['tipo'], 'problema': x['problema']}
         if not v or not v['real']:
             estado['resultado'] = 'descartado' + (f": {v['motivo']}" if v else ' (sin veredicto)')

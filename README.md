@@ -41,3 +41,23 @@ Nada está inventado: cada afirmación lleva etiquetas con su fuente y la págin
 `genesis/trabajo/` guarda todo el trabajo intermedio: notas extraídas, clasificación de autores, plan, días y artículos en
 JSON, y los scripts. `genesis/app/` tiene la plantilla, las tipografías y el armador (`python3 genesis/app/construir.py`;
 con `--artefacto` arma la versión para publicar en claude.ai).
+
+
+## El varón según Dios
+
+Abrir `varon/el-varon-segun-dios.html` en el navegador: un solo archivo, con las tipografías incluidas, que funciona sin conexión.
+
+- **El plan:** 512 días de 20 a 30 minutos, en 17 partes: la crisis del varón hoy, el diseño de Dios, el varón y Dios, el carácter,
+  la pureza, el trabajo, el esposo, el padre, el líder y ministro, el siervo, hermanos y mentores, el joven, el adulto, el mayor,
+  la sociedad, las pruebas y el fracaso, y varones de la Biblia y de la historia.
+- **Cada día:** lectura, versículos clave, estudio con la fuente de cada afirmación, datos con año y fuente, modelo bíblico,
+  palabras griegas y hebreas, preguntas difíciles, aplicación, preguntas para pensar y para charlar y oración. Los días sobre
+  suicidio, adicciones, apuestas y violencia traen las líneas de ayuda oficiales de Argentina.
+- **Herramientas:** resaltar con marcador, dibujar con lápiz, notas al margen, guardar el estudio entero con tus marcas,
+  descargar un día (HTML o PDF), copia de seguridad, buscador y tres gráficos con datos del Banco Mundial.
+- **De dónde sale:** 24.000 notas tomadas de los libros de la biblioteca y de REFERENCIA3 (solo autores protestantes confiables),
+  269 datos y 190 artículos de sitios confiables verificados en su fuente. Cada afirmación lleva su fuente y página.
+- **Cómo se verifica:** por programa (`varon/trabajo/scripts/verificar_dia.py`): cifras, frases entre «», atribuciones a autores,
+  apoyo en las notas y existencia de cada versículo en la RVR1960. Reglas de trabajo y ahorro de tokens en `varon/CLAUDE.md`.
+- **Texto bíblico:** Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988.
+  Se transcribe un versículo clave por día hasta 500 versículos en total; el resto se lee en BibleGateway con el enlace de cada día.

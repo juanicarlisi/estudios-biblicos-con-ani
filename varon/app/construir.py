@@ -109,13 +109,24 @@ def main():
     usados = recoger(dias, set())
     fuentes = {i: todas[i] for i in usados if i in todas}
     rvr_todo = json.load(open(f'{V}/biblia/rvr.json')) if os.path.exists(f'{V}/biblia/rvr.json') else {}
-    rvr = {}
-    for d in dias.values():
-        for v in d.get('versiculos', []):
-            if v['ref'] in rvr_todo:
-                rvr[v['ref']] = rvr_todo[v['ref']]
-    n_vers = sum(1 + (int(m.group(2)) - int(m.group(1)) if (m := re.search(r':(\d+)-(\d+)$', r)) else 0) for r in rvr)
-    assert n_vers <= 500, f'demasiados versículos RVR citados: {n_vers}'
+    # texto RVR1960: tope de 500 versículos en todo el estudio → un versículo clave por día (el más corto),
+    # empezando por los de 1 versículo y siguiendo con los de 2, hasta completar el cupo; el resto va solo con su referencia y el enlace
+    CUPO = 500
+    def costo(ref):
+        m = re.search(r':(\d+)-(\d+)$', ref)
+        return 1 + (int(m.group(2)) - int(m.group(1)) if m else 0)
+    cand = []
+    for n, d in sorted(dias.items()):
+        refs = [v['ref'] for v in d.get('versiculos', []) if v['ref'] in rvr_todo]
+        if refs:
+            r = min(refs, key=costo)
+            cand.append((costo(r), n, r))
+    rvr, gastado = {}, 0
+    for c, n, r in sorted(cand):
+        if c <= 2 and gastado + c <= CUPO:
+            rvr[r] = rvr_todo[r]; gastado += c
+    n_vers = gastado
+    assert n_vers <= CUPO, f'demasiados versículos RVR citados: {n_vers}'
     libros = sorted({tuple(todas[i][1].split(', ', 1)) for i in usados if i in todas and not i.startswith('W')})
     web_usadas = sorted({(todas[i][0], todas[i][1], todas[i][3]) for i in usados if i.startswith('W') and i in todas})
     textos = {os.path.basename(f)[:-5]: json.load(open(f)) for f in glob.glob(f'{V}/textos/*.json')}

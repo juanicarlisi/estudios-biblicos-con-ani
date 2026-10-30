@@ -3,7 +3,13 @@
  "titulo": "Las siete cartas en un cuadro",
  "bajada": "Para cada iglesia de Apocalipsis 2 y 3: la ciudad, cómo se presenta Cristo, qué elogia, qué reprocha y qué promete al que venciere.",
  "tipo": "tabla",
- "columnas": ["Iglesia y ciudad", "Cómo se presenta Cristo", "Elogio", "Reproche", "Promesa al vencedor"],
+ "columnas": [
+  "Iglesia y ciudad",
+  "Cómo se presenta Cristo",
+  "Elogio",
+  "Reproche",
+  "Promesa al vencedor"
+ ],
  "filas": [
   {
    "celdas": [
@@ -14,7 +20,22 @@
     "Comer del árbol de la vida, que está en medio del paraíso de Dios (2:7)."
    ],
    "ref": "2:1-7",
-   "fuentes": ["macarthur_02_b#15", "cbmh_02_b#2", "macarthur_02_b#12", "ladd_01_b#19", "macarthur_02_b#17", "macarthur_02_b#19", "beacon_02_a#9", "carballosa_02_b#26", "carballosa_03_a#14", "cbmh_03_a#20"]
+   "fuentes": [
+    "macarthur_02_b#15",
+    "cbmh_02_b#2",
+    "macarthur_02_b#12",
+    "ladd_01_b#19",
+    "macarthur_02_b#17",
+    "macarthur_02_b#19",
+    "beacon_02_a#9",
+    "carballosa_02_b#26",
+    "carballosa_03_a#14",
+    "cbmh_03_a#20",
+    "macarthur_03_a#19",
+    "carballosa_02_b#24",
+    "ladd_01_b#16",
+    "mcgee_02_a#42"
+   ]
   },
   {
    "celdas": [
@@ -25,7 +46,21 @@
     "La corona de la vida (2:10) y no sufrir daño de la segunda muerte (2:11)."
    ],
    "ref": "2:8-11",
-   "fuentes": ["carballosa_03_a#17", "cbmh_02_b#12", "carballosa_03_a#18", "beacon_02_a#16", "carballosa_03_a#19", "cbmh_02_b#16", "carballosa_03_a#16", "beacon_01_b#38", "macarthur_05_a#10", "ladd_01_b#37", "cbmh_03_a#20"]
+   "fuentes": [
+    "carballosa_03_a#17",
+    "cbmh_02_b#12",
+    "carballosa_03_a#18",
+    "beacon_02_a#16",
+    "carballosa_03_a#19",
+    "cbmh_02_b#16",
+    "carballosa_03_a#16",
+    "beacon_01_b#38",
+    "macarthur_05_a#10",
+    "ladd_01_b#37",
+    "cbmh_03_a#20",
+    "macarthur_03_a#6",
+    "mbiblia_01_a#45"
+   ]
   },
   {
    "celdas": [
@@ -36,7 +71,19 @@
     "El maná escondido y una piedrecita blanca con un nombre nuevo que solo conoce el que lo recibe (2:17)."
    ],
    "ref": "2:12-17",
-   "fuentes": ["beacon_02_a#22", "macarthur_03_a#25", "macarthur_03_a#27", "beacon_02_a#23", "macarthur_03_a#22", "beacon_02_a#24", "macarthur_03_b#4", "macarthur_03_b#5", "cbmh_03_a#5", "carballosa_03_b#1", "cbmh_03_a#20"]
+   "fuentes": [
+    "beacon_02_a#22",
+    "macarthur_03_a#25",
+    "macarthur_03_a#27",
+    "beacon_02_a#23",
+    "macarthur_03_a#22",
+    "beacon_02_a#24",
+    "macarthur_03_b#4",
+    "macarthur_03_b#5",
+    "cbmh_03_a#5",
+    "carballosa_03_b#1",
+    "cbmh_03_a#20"
+   ]
   },
   {
    "celdas": [
@@ -47,7 +94,20 @@
     "Autoridad sobre las naciones, como Cristo la recibió del Padre (Sal 2), y la estrella de la mañana (2:26-28)."
    ],
    "ref": "2:18-29",
-   "fuentes": ["cbmh_03_a#8", "cbmh_03_a#9", "macarthur_03_b#15", "macarthur_03_b#19", "ladd_02_a#14", "macarthur_03_b#20", "ladd_02_a#17", "macarthur_04_a#3", "macarthur_04_a#4", "beacon_02_a#42", "carballosa_03_b#10", "cbmh_03_a#20"]
+   "fuentes": [
+    "cbmh_03_a#8",
+    "cbmh_03_a#9",
+    "macarthur_03_b#15",
+    "macarthur_03_b#19",
+    "ladd_02_a#14",
+    "macarthur_03_b#20",
+    "ladd_02_a#17",
+    "macarthur_04_a#3",
+    "macarthur_04_a#4",
+    "beacon_02_a#42",
+    "carballosa_03_b#10",
+    "cbmh_03_a#20"
+   ]
   },
   {
    "celdas": [
@@ -58,7 +118,21 @@
     "Vestiduras blancas; su nombre no será borrado del libro de la vida y Cristo lo confesará delante del Padre y de sus ángeles (3:5)."
    ],
    "ref": "3:1-6",
-   "fuentes": ["macarthur_04_a#10", "beacon_02_b#1", "macarthur_04_a#12", "macarthur_04_a#8", "cbmh_03_a#22", "ladd_02_a#32", "macarthur_04_a#18", "macarthur_04_a#14", "cbmh_03_a#23", "macarthur_04_a#22", "carballosa_03_b#27", "cbmh_03_a#20"]
+   "fuentes": [
+    "macarthur_04_a#10",
+    "beacon_02_b#1",
+    "macarthur_04_a#12",
+    "macarthur_04_a#8",
+    "cbmh_03_a#22",
+    "ladd_02_a#32",
+    "macarthur_04_a#18",
+    "macarthur_04_a#14",
+    "cbmh_03_a#23",
+    "macarthur_04_a#22",
+    "carballosa_03_b#27",
+    "cbmh_03_a#20",
+    "cbmh_03_a#21"
+   ]
   },
   {
    "celdas": [
@@ -69,7 +143,22 @@
     "Ser columna en el templo de Dios, de donde nunca saldrá, con el nombre de Dios, el de la nueva Jerusalén y el nombre nuevo de Cristo (3:12)."
    ],
    "ref": "3:7-13",
-   "fuentes": ["macarthur_04_b#2", "beacon_02_b#13", "cbmh_03_b#5", "macarthur_04_a#26", "carballosa_04_a#9", "ladd_02_a#45", "ladd_02_b#2", "cbmh_03_b#8", "beacon_02_b#22", "macarthur_04_b#13", "cbmh_03_b#12", "carballosa_04_a#7", "cbmh_03_a#20"]
+   "fuentes": [
+    "macarthur_04_b#2",
+    "beacon_02_b#13",
+    "cbmh_03_b#5",
+    "macarthur_04_a#26",
+    "carballosa_04_a#9",
+    "ladd_02_a#45",
+    "ladd_02_b#2",
+    "cbmh_03_b#8",
+    "beacon_02_b#22",
+    "macarthur_04_b#13",
+    "cbmh_03_b#12",
+    "carballosa_04_a#7",
+    "cbmh_03_a#20",
+    "carballosa_04_a#17"
+   ]
   },
   {
    "celdas": [
@@ -80,9 +169,43 @@
     "Sentarse con Cristo en su trono, como él venció y se sentó con su Padre (3:21): la promesa más alta, a la peor iglesia."
    ],
    "ref": "3:14-22",
-   "fuentes": ["macarthur_04_b#22", "beacon_02_b#25", "macarthur_04_b#23", "macarthur_04_b#17", "carballosa_04_b#3", "cbmh_03_b#14", "ladd_02_b#20", "cbmh_03_b#15", "carballosa_04_b#1", "carballosa_04_b#13", "cbmh_03_b#20", "beacon_01_b#38", "cbmh_03_a#20"]
+   "fuentes": [
+    "macarthur_04_b#22",
+    "beacon_02_b#25",
+    "macarthur_04_b#23",
+    "macarthur_04_b#17",
+    "carballosa_04_b#3",
+    "cbmh_03_b#14",
+    "ladd_02_b#20",
+    "cbmh_03_b#15",
+    "carballosa_04_b#1",
+    "carballosa_04_b#13",
+    "cbmh_03_b#20",
+    "beacon_01_b#38",
+    "cbmh_03_a#20",
+    "macarthur_02_b#11",
+    "beacon_02_a#1",
+    "larkin_01_b#7",
+    "mcgeer_02#15",
+    "r2_029#22"
+   ]
   }
  ],
  "nota": "Todas las cartas siguen un mismo molde: a quién se dirige, cómo se presenta Cristo, elogio, reproche, exhortación y promesa al vencedor, con el llamado «El que tiene oído, oiga» (Carballosa, MacArthur, Ladd, Mundo Hispano). Esmirna y Filadelfia no reciben reproche y Laodicea no recibe elogio (Earle, McGee, Ladd). En Filadelfia y Laodicea Cristo no usa rasgos de la visión del capítulo 1 sino títulos divinos (MacArthur). El vencedor no es una élite: MacArthur y Carballosa lo identifican con todo creyente (1 Jn 5:4-5). Sobre qué representan las siete iglesias, los autores difieren: iglesias reales que muestran condiciones de las iglesias de toda época (Earle, MacArthur), y además, para Larkin, McGee y Chafer, un cuadro profético de la historia de la Iglesia hasta el arrebatamiento.",
- "dias": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 88]
+ "dias": [
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  88
+ ]
 }

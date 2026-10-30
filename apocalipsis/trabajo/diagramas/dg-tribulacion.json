@@ -1,0 +1,100 @@
+{
+  "id": "dg-tribulacion",
+  "titulo": "El arrebatamiento y la tribulación: las posturas",
+  "bajada": "Cuándo sube la iglesia al encuentro del Señor respecto de la tribulación (para los premileniales, la semana setenta de Daniel: siete años en dos mitades). Las posiciones son aproximadas.",
+  "tipo": "lineas",
+  "eje": ["Era de la Iglesia", "Empieza la tribulación", "Mitad de la semana", "Segunda venida", "Reino o estado eterno"],
+  "carriles": [
+    {
+      "nombre": "Pretribulacional",
+      "quien": "MacArthur y la Biblia MacArthur, MacArthur y Mayhue, Carballosa, McGee, Larkin, Chafer, Ryrie, Pentecost, Benware, Lacueva y Wiersbe; Walvoord y Scofield; lo sistematizó Darby",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia", "desde": 0, "hasta": 25, "clase": "a"},
+        {"etiqueta": "Primera mitad: la iglesia ya está con Cristo", "desde": 25, "hasta": 50, "clase": "b"},
+        {"etiqueta": "Segunda mitad: gran tribulación", "desde": 50, "hasta": 75, "clase": "c"},
+        {"etiqueta": "Mil años", "desde": 75, "hasta": 100, "clase": "d"}
+      ],
+      "marcas": [
+        {"en": 25, "etiqueta": "Arrebatamiento: la iglesia es guardada fuera de la hora de la prueba (3:10)"},
+        {"en": 75, "etiqueta": "Segunda venida con sus santos"}
+      ],
+      "fuentes": ["r1_036_a#3", "r1_032#32", "r1_029#20", "r2_008#14", "r1_006#5", "r1_005#30", "r1_027#28", "mcgeer_09#32", "macarthur_04_b#7", "carballosa_04_a#14", "larkin_01_b#18", "r1_024_a#23", "r1_038#18", "r1_037#11"]
+    },
+    {
+      "nombre": "Midtribulacional (mesotribulacional)",
+      "quien": "Gleason Archer (según Grudem y Ryrie); J. Oliver Buswell, según Ryrie (él lo ubica en la séptima trompeta, cuando empieza la ira)",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia", "desde": 0, "hasta": 25, "clase": "a"},
+        {"etiqueta": "Primera mitad: ira del hombre y de Satanás; la iglesia en la tierra", "desde": 25, "hasta": 50, "clase": "b"},
+        {"etiqueta": "Segunda mitad: ira de Dios; la iglesia ya no está", "desde": 50, "hasta": 75, "clase": "c"},
+        {"etiqueta": "Mil años", "desde": 75, "hasta": 100, "clase": "d"}
+      ],
+      "marcas": [
+        {"en": 50, "etiqueta": "Arrebatamiento a mitad de la semana (séptima trompeta = la final trompeta)"},
+        {"en": 75, "etiqueta": "Segunda venida"}
+      ],
+      "fuentes": ["r1_028#16", "r1_033#2", "r1_033#3", "r1_007#15", "r1_036_a#3", "r1_029#20", "r1_032#32", "r1_027#28", "r1_008#20", "r1_010#12", "r1_010#43"]
+    },
+    {
+      "nombre": "Antes de la ira (pre-ira)",
+      "quien": "Las fuentes no nombran defensores; la describen MacArthur y Mayhue",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia", "desde": 0, "hasta": 25, "clase": "a"},
+        {"etiqueta": "Primera mitad: la iglesia en la tierra", "desde": 25, "hasta": 50, "clase": "b"},
+        {"etiqueta": "La iglesia sigue en la tierra", "desde": 50, "hasta": 65, "clase": "c"},
+        {"etiqueta": "Trompetas y copas: la ira de Dios", "desde": 65, "hasta": 75, "clase": "c"},
+        {"etiqueta": "Mil años", "desde": 75, "hasta": 100, "clase": "d"}
+      ],
+      "marcas": [
+        {"en": 65, "etiqueta": "Arrebatamiento en la última parte, antes de la ira"},
+        {"en": 75, "etiqueta": "Segunda venida"}
+      ],
+      "fuentes": ["r1_036_a#3"]
+    },
+    {
+      "nombre": "Postribulacional",
+      "quien": "Ladd, Grudem, Beasley-Murray, Grau, Taylor y Piper (Coalición); Reese y Gundry, según Ryrie",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia", "desde": 0, "hasta": 25, "clase": "a"},
+        {"etiqueta": "Primera mitad: la iglesia en la tierra", "desde": 25, "hasta": 50, "clase": "b"},
+        {"etiqueta": "Segunda mitad: la iglesia sufre persecución, pero es guardada de la ira", "desde": 50, "hasta": 75, "clase": "c"},
+        {"etiqueta": "Mil años", "desde": 75, "hasta": 100, "clase": "d"}
+      ],
+      "marcas": [
+        {"en": 75, "etiqueta": "Arrebatamiento y segunda venida: un solo suceso (la iglesia sale a recibir al Rey y vuelve con él)"}
+      ],
+      "fuentes": ["r1_028#17", "r1_028#14", "r1_033#4", "r1_007#6", "r1_007#7", "ladd_02_b#8", "ladd_01_a#37", "henry_01_a#36", "cpe_06#10", "r1_012#18", "r1_012#2", "r1_013#2", "web_11_b#18", "r1_036_a#3"]
+    },
+    {
+      "nombre": "Arrebatamiento parcial",
+      "quien": "Govett, Seiss, Pember, Lang y Witness Lee, según Ryrie; Benware, Pentecost y Ryrie lo describen y lo rechazan",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia", "desde": 0, "hasta": 25, "clase": "a"},
+        {"etiqueta": "Primera mitad", "desde": 25, "hasta": 50, "clase": "b"},
+        {"etiqueta": "Segunda mitad", "desde": 50, "hasta": 75, "clase": "c"},
+        {"etiqueta": "Mil años", "desde": 75, "hasta": 100, "clase": "d"}
+      ],
+      "marcas": [
+        {"en": 25, "etiqueta": "Arrebatamiento de los creyentes que velan"},
+        {"en": 50, "etiqueta": "Los demás, en arrebatamientos durante la tribulación (sin momento fijo) o no son arrebatados"},
+        {"en": 75, "etiqueta": "Segunda venida"}
+      ],
+      "fuentes": ["r1_032#31", "r1_007#14", "r2_008#14", "r1_032#3"]
+    },
+    {
+      "nombre": "Una sola venida, sin semana futura de siete años (amilenial)",
+      "quien": "Berkhof y el Comentario Mundo Hispano; Ligonier y Benware describen la postura",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia: tribulación desde la cruz hasta el regreso", "desde": 0, "hasta": 60, "clase": "a"},
+        {"etiqueta": "Apostasía y tribulación final, con un anticristo", "desde": 60, "hasta": 75, "clase": "c"},
+        {"etiqueta": "Estado eterno", "desde": 75, "hasta": 100, "clase": "e"}
+      ],
+      "marcas": [
+        {"en": 75, "etiqueta": "Una sola venida: arrebatamiento, resurrección y juicio juntos"}
+      ],
+      "fuentes": ["r1_004#5", "web_11_b#15", "r1_029#28", "r1_039#13", "r2_040#4", "cbmh_03_b#10", "cbmh_03_b#24", "r2_039#16"]
+    }
+  ],
+  "nota": "Pasajes clave: 3:10 (¿guardados fuera de la hora o dentro de ella?), 4:1 (¿la subida de Juan pinta el arrebatamiento?) y 7:14. Todos coinciden en que la ira de Dios no es para su pueblo y en que Cristo guarda a los suyos. Earle no se decide y menciona, sin afirmarla, la idea de que la iglesia pase por la primera parte; Grau y Reese ven la gran tribulación como ira del diablo contra los santos, y Grau identifica la de Mateo 24 con el año 70. Ryrie anota que algunos mesotribulacionistas se dicen pretribulacionales porque llaman tribulación solo a la segunda mitad. Lacueva pide que sobre las opiniones reine el amor. Ver el anexo T7.",
+  "dias": [4, 18, 21, 22, 29, 31, 33, 34, 35, 36, 45, 47, 48, 49, 50, 53, 54, 57, 59, 63, 71, 73, 80]
+}

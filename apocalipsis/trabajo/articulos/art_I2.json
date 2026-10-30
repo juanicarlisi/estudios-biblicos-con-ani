@@ -3,15 +3,15 @@
   "titulo": "Autor, fecha y destinatarios",
   "bajada": "Quién escribió el Apocalipsis, desde dónde, cuándo y para qué iglesias, y qué estaban viviendo esos creyentes.",
   "entrada": {
-    "texto": "El Apocalipsis no esconde a su autor ni a sus lectores. Se presenta como una carta, con remitente, destinatarios y saludo: «Juan, a las siete iglesias que están en Asia» (1:4). Juan da su nombre cuatro veces (1:1, 4, 9; 22:8), cuenta que escribe desde Patmos y nombra siete ciudades reales. Saber quién era, cuándo escribió y qué vivían esas iglesias no es un dato de archivo: según el Comentario Mundo Hispano, muchas malas lecturas nacen de olvidar que fue, antes que nada, una carta para creyentes del siglo I.",
+    "texto": "El Apocalipsis no esconde a su autor ni a sus lectores. Se presenta como una carta, con remitente, destinatarios y saludo: «Juan, a las siete iglesias que están en Asia» (1:4). Juan da su nombre cuatro veces (1:1, 4, 9; 22:8), cuenta que escribe desde Patmos y nombra siete ciudades reales. Según el Comentario Mundo Hispano, muchas malas lecturas nacen de olvidar que fue, antes que nada, una carta para creyentes del siglo I.",
     "fuentes": ["cpe_01#5", "mbiblia_01_a#2", "cbmh_01_a#8"]
   },
   "versiculos": [
     {"ref": "1:4", "porque": "El remitente y los destinatarios: la forma de una carta."},
-    {"ref": "1:9", "porque": "Dónde estaba Juan y por qué: desterrado por su fidelidad a la Palabra."},
-    {"ref": "1:11", "porque": "La lista de las siete ciudades, en el orden de la ruta del mensajero."},
-    {"ref": "2:13", "porque": "Antipas, un mártir con nombre: la persecución ya había llegado."},
-    {"ref": "3:17", "porque": "La riqueza de Laodicea, una de las pistas para fechar el libro y retrato de la tibieza."},
+    {"ref": "1:9", "porque": "Juan, desterrado por su fidelidad a la Palabra."},
+    {"ref": "1:11", "porque": "Las siete ciudades, en el orden de la ruta del mensajero."},
+    {"ref": "2:13", "porque": "Antipas: la persecución ya tenía un mártir con nombre."},
+    {"ref": "3:17", "porque": "La riqueza de Laodicea: pista para la fecha y retrato de la tibieza."},
     {"ref": "22:8", "porque": "Juan firma al final lo que oyó y vio."}
   ],
   "apartados": [
@@ -19,7 +19,7 @@
       "titulo": "Un hombre llamado Juan",
       "parrafos": [
         {
-          "texto": "Juan no se presenta con títulos: se llama «siervo Juan» y «vuestro hermano». Por su estilo, Ladd lo ve como un cristiano hebreo saturado del Antiguo Testamento, y tan conocido en Asia que le alcanzaba con su nombre. La iglesia antigua lo identificó con el apóstol Juan, hijo de Zebedeo, autor del cuarto Evangelio y de tres cartas: así lo dicen en el siglo II Justino Mártir e Ireneo, y después Clemente de Alejandría, Tertuliano y Orígenes. MacArthur subraya que Justino e Ireneo conocieron a lectores originales del libro, e Ireneo fue discípulo de Policarpo, que a su vez lo fue de Juan.",
+          "texto": "Juan no se presenta con títulos: se llama «siervo Juan» y «vuestro hermano». Ladd ve en su estilo a un cristiano hebreo saturado del Antiguo Testamento, tan conocido en Asia que le alcanzaba con su nombre. La iglesia antigua lo identificó con el apóstol Juan, hijo de Zebedeo, autor del cuarto Evangelio y de tres cartas: así lo dicen en el siglo II Justino Mártir e Ireneo, y después Clemente de Alejandría, Tertuliano y Orígenes. MacArthur subraya que Justino e Ireneo conocieron a lectores originales del libro, e Ireneo fue discípulo de Policarpo, que a su vez lo fue de Juan.",
           "fuentes": ["ladd_01_a#1", "henry_01_a#1", "mbiblia_01_a#2", "macarthur_01#28", "carballosa_01#9", "cbmh_01_a#1"]
         },
         {
@@ -27,7 +27,7 @@
           "fuentes": ["mbiblia_01_a#2", "beacon_01_a#9", "carballosa_01#11"]
         },
         {
-          "texto": "Las dudas también son antiguas. En el siglo III, Dionisio de Alejandría, que rechazaba un milenio literal, comparó el griego del libro con el del Evangelio y lo atribuyó a otro Juan; Eusebio habló después de un “Juan el anciano”. Hoy se suman otras razones: el estilo es muy distinto (Beasley-Murray), y Juan nunca se llama apóstol, se presenta como profeta y en 21:14 nombra a los apóstoles sin incluirse (Ladd). Carballosa responde que las asperezas del griego vienen del lenguaje apocalíptico y del Antiguo Testamento, y que Juan, a diferencia de Pablo, no necesitaba defender su apostolado. Beasley-Murray prefiere no afirmar ni negar: el libro vale por su origen divino, porque es la revelación de Jesucristo, no por el nombre de quien la escribió.",
+          "texto": "Las dudas también son antiguas. En el siglo III, Dionisio de Alejandría, que rechazaba un milenio literal, comparó el griego del libro con el del Evangelio y lo atribuyó a otro Juan; Eusebio habló después de un “Juan el anciano”. Además, el estilo es muy distinto (Beasley-Murray), y Juan nunca se llama apóstol, se presenta como profeta y en 21:14 nombra a los apóstoles sin incluirse (Ladd). Carballosa responde que las asperezas del griego vienen del lenguaje apocalíptico y del Antiguo Testamento, y que Juan, a diferencia de Pablo, no necesitaba defender su apostolado. Beasley-Murray prefiere no afirmar ni negar: el libro vale por su origen divino, porque es la revelación de Jesucristo, no por el nombre de quien la escribió.",
           "fuentes": ["carballosa_01#7", "macarthur_01#29", "henry_01_a#1", "ladd_01_a#1", "carballosa_01#11"]
         }
       ]
@@ -45,7 +45,7 @@
       "titulo": "¿Cuándo? Las razones para los años 90",
       "parrafos": [
         {
-          "texto": "El libro nace en tiempo de persecución, y hay dos candidatos: el final de Nerón (54-68) o el de Domiciano (81-96). La fecha tradicional, hacia el 95, descansa ante todo en Ireneo, que hacia el 180 escribió que la visión se vio “hacia el final del reinado de Domiciano”. Lo siguen Clemente de Alejandría, Orígenes, Victorino, Eusebio y Jerónimo, y Hegesipo, hacia el 150, ya une el destierro de Juan con Domiciano. Según Benware, la primera mención de una fecha bajo Nerón aparece recién en una línea de una traducción siríaca, hacia el 550.",
+          "texto": "Hay dos candidatos: el final de Nerón (54-68) o el de Domiciano (81-96). La fecha tradicional, hacia el 95, descansa sobre todo en Ireneo, que hacia el 180 escribió que la visión se vio “hacia el final del reinado de Domiciano”. Lo siguen Clemente de Alejandría, Orígenes, Victorino, Eusebio y Jerónimo, y Hegesipo, hacia el 150, ya une el destierro de Juan con Domiciano. Según Benware, la primera mención de una fecha bajo Nerón aparece recién en una línea de una traducción siríaca, hacia el 550.",
           "fuentes": ["cbmh_01_a#10", "r1_005#13", "r1_005#14", "mbiblia_01_a#3", "macarthur_01#31", "carballosa_01#18"]
         },
         {
@@ -62,7 +62,7 @@
           "fuentes": ["henry_01_a#2", "beacon_01_a#10", "web_14#3", "carballosa_01#14", "web_13#20", "r1_005#13"]
         },
         {
-          "texto": "¿Por qué importa? Porque la fecha decide la suerte de una escuela. Si el libro se escribió después del 70, no pudo anunciar la caída de Jerusalén de ese año, y el preterismo, que ve allí su cumplimiento principal, se cae: lo reconoce el propio Sproul. Para las demás lecturas la fecha no es decisiva (Benware). La mayoría de los eruditos se inclina por los años 90, pero con honestidad: Beasley-Murray admite que no se puede estar del todo seguro y el Comentario Mundo Hispano deja la puerta abierta.",
+          "texto": "¿Por qué importa? Porque la fecha decide la suerte de una escuela. Si el libro se escribió después del 70, no pudo anunciar la caída de Jerusalén de ese año, y el preterismo, que ve allí su cumplimiento principal, se cae: lo reconoce el propio Sproul. La mayoría de los eruditos se inclina por los años 90, pero con honestidad: Beasley-Murray admite que no se puede estar del todo seguro y el Comentario Mundo Hispano deja la puerta abierta.",
           "fuentes": ["web_14#3", "r1_005#12", "r1_035#20", "cpe_02#14", "henry_01_a#2", "cbmh_01_a#10"]
         }
       ]
@@ -71,7 +71,7 @@
       "titulo": "Siete iglesias reales",
       "parrafos": [
         {
-          "texto": "El libro circuló como carta entre siete iglesias de la provincia romana de Asia, el tercio occidental de la actual Turquía (1:11). Las ciudades estaban sobre las grandes rutas y formaban casi un círculo, de modo que un mensajero salido de Patmos podía recorrerlas en orden. No eran las únicas: había iglesias en Colosas, Hierápolis, Tralles y Magnesia. Para varios autores, el siete, número de plenitud, las vuelve representantes de toda la iglesia, y cada carta cierra igual: «El que tiene oído, oiga lo que el Espíritu dice a las iglesias». Juan había vivido años en Éfeso y, según Carballosa, conocía de cerca a cada una.",
+          "texto": "El libro circuló como carta entre siete iglesias de la provincia romana de Asia, el tercio occidental de la actual Turquía (1:11). Las ciudades estaban sobre las grandes rutas y formaban casi un círculo, de modo que un mensajero salido de Patmos podía recorrerlas en orden. No eran las únicas: había iglesias en Colosas, Hierápolis, Tralles y Magnesia. Para varios autores, el siete, número de plenitud, las vuelve representantes de toda la iglesia, y cada carta cierra igual: «El que tiene oído, oiga lo que el Espíritu dice a las iglesias».",
           "fuentes": ["cbmh_01_a#8", "dbmh_01_a#3", "carballosa_01#22", "cpe_01#6", "web_20#2"]
         }
       ]
@@ -119,7 +119,7 @@
     {"texto": "pero no podemos estar totalmente seguros", "autor": "G. R. Beasley-Murray", "obra": "«Apocalipsis», Nuevo Comentario Bíblico", "pagina": "PDF 173"}
   ],
   "para_vivir": [
-    {"texto": "Juan escribe desterrado, pero como hermano y compañero, no desde arriba. La fe de esas iglesias se jugaba en una confesión sencilla: Jesús es Señor, aunque cueste.", "fuentes": ["henry_01_a#4", "web_07#1"]},
+    {"texto": "La fe de esas iglesias se jugaba en una confesión sencilla: Jesús es Señor, aunque cueste.", "fuentes": ["henry_01_a#4", "web_07#1"]},
     {"texto": "La tibieza de Laodicea creció con la comodidad y con el paso del tiempo. El primer amor se cuida a propósito.", "fuentes": ["cbmh_01_a#10", "macarthur_01#32"]}
   ],
   "para_conversar": [

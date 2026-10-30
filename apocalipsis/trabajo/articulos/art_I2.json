@@ -1,0 +1,136 @@
+{
+  "id": "I2",
+  "titulo": "Autor, fecha y destinatarios",
+  "bajada": "Quién escribió el Apocalipsis, desde dónde, cuándo y para qué iglesias, y qué estaban viviendo esos creyentes.",
+  "entrada": {
+    "texto": "El Apocalipsis no esconde a su autor ni a sus lectores. Se presenta como una carta, con remitente, destinatarios y saludo: «Juan, a las siete iglesias que están en Asia» (1:4). Juan da su nombre cuatro veces (1:1, 4, 9; 22:8), cuenta que escribe desde Patmos y nombra siete ciudades reales. Saber quién era, cuándo escribió y qué vivían esas iglesias no es un dato de archivo: según el Comentario Mundo Hispano, muchas malas lecturas nacen de olvidar que fue, antes que nada, una carta para creyentes del siglo I.",
+    "fuentes": ["cpe_01#5", "mbiblia_01_a#2", "cbmh_01_a#8"]
+  },
+  "versiculos": [
+    {"ref": "1:4", "porque": "El remitente y los destinatarios: la forma de una carta."},
+    {"ref": "1:9", "porque": "Dónde estaba Juan y por qué: desterrado por su fidelidad a la Palabra."},
+    {"ref": "1:11", "porque": "La lista de las siete ciudades, en el orden de la ruta del mensajero."},
+    {"ref": "2:13", "porque": "Antipas, un mártir con nombre: la persecución ya había llegado."},
+    {"ref": "3:17", "porque": "La riqueza de Laodicea, una de las pistas para fechar el libro y retrato de la tibieza."},
+    {"ref": "22:8", "porque": "Juan firma al final lo que oyó y vio."}
+  ],
+  "apartados": [
+    {
+      "titulo": "Un hombre llamado Juan",
+      "parrafos": [
+        {
+          "texto": "Juan no se presenta con títulos: se llama «siervo Juan» y «vuestro hermano». Por su estilo, Ladd lo ve como un cristiano hebreo saturado del Antiguo Testamento, y tan conocido en Asia que le alcanzaba con su nombre. La iglesia antigua lo identificó con el apóstol Juan, hijo de Zebedeo, autor del cuarto Evangelio y de tres cartas: así lo dicen en el siglo II Justino Mártir e Ireneo, y después Clemente de Alejandría, Tertuliano y Orígenes. MacArthur subraya que Justino e Ireneo conocieron a lectores originales del libro, e Ireneo fue discípulo de Policarpo, que a su vez lo fue de Juan.",
+          "fuentes": ["ladd_01_a#1", "henry_01_a#1", "mbiblia_01_a#2", "macarthur_01#28", "carballosa_01#9", "cbmh_01_a#1"]
+        },
+        {
+          "texto": "Hay además parecidos con el Evangelio: solo esos dos escritos llaman a Jesús el Verbo (Jn 1:1; Ap 19:13), los dos traducen Zacarías 12:10 igual entre sí y distinto de la versión griega antigua (Jn 19:37; Ap 1:7), y los dos lo llaman Cordero y testigo. Earle suma el gusto por los contrastes y el gran conflicto entre el bien y el mal.",
+          "fuentes": ["mbiblia_01_a#2", "beacon_01_a#9", "carballosa_01#11"]
+        },
+        {
+          "texto": "Las dudas también son antiguas. En el siglo III, Dionisio de Alejandría, que rechazaba un milenio literal, comparó el griego del libro con el del Evangelio y lo atribuyó a otro Juan; Eusebio habló después de un “Juan el anciano”. Hoy se suman otras razones: el estilo es muy distinto (Beasley-Murray), y Juan nunca se llama apóstol, se presenta como profeta y en 21:14 nombra a los apóstoles sin incluirse (Ladd). Carballosa responde que las asperezas del griego vienen del lenguaje apocalíptico y del Antiguo Testamento, y que Juan, a diferencia de Pablo, no necesitaba defender su apostolado. Beasley-Murray prefiere no afirmar ni negar: el libro vale por su origen divino, porque es la revelación de Jesucristo, no por el nombre de quien la escribió.",
+          "fuentes": ["carballosa_01#7", "macarthur_01#29", "henry_01_a#1", "ladd_01_a#1", "carballosa_01#11"]
+        }
+      ]
+    },
+    {
+      "titulo": "Desde Patmos, por causa de la Palabra",
+      "parrafos": [
+        {
+          "texto": "Patmos es una isla rocosa del Egeo, al suroeste de Éfeso, de unos 15 km de largo (Wiersbe), con una colonia penal donde los presos trabajaban en las minas. Juan estaba ahí «por causa de la palabra de Dios y el testimonio de Jesucristo» (1:9). Según la Biblia de Estudio MacArthur, lo arrestaron en Éfeso, donde atendía a la iglesia y a las ciudades vecinas, ya anciano y último de los apóstoles con vida; como no podía visitarlas, les escribió por mandato del Señor. Clemente de Alejandría cuenta que después volvió del destierro a Éfeso. El día 5 recorre este versículo en detalle.",
+          "fuentes": ["r1_024_a#1", "dbmh_01_a#3", "mbiblia_01_a#5", "carballosa_19#9"]
+        }
+      ]
+    },
+    {
+      "titulo": "¿Cuándo? Las razones para los años 90",
+      "parrafos": [
+        {
+          "texto": "El libro nace en tiempo de persecución, y hay dos candidatos: el final de Nerón (54-68) o el de Domiciano (81-96). La fecha tradicional, hacia el 95, descansa ante todo en Ireneo, que hacia el 180 escribió que la visión se vio “hacia el final del reinado de Domiciano”. Lo siguen Clemente de Alejandría, Orígenes, Victorino, Eusebio y Jerónimo, y Hegesipo, hacia el 150, ya une el destierro de Juan con Domiciano. Según Benware, la primera mención de una fecha bajo Nerón aparece recién en una línea de una traducción siríaca, hacia el 550.",
+          "fuentes": ["cbmh_01_a#10", "r1_005#13", "r1_005#14", "mbiblia_01_a#3", "macarthur_01#31", "carballosa_01#18"]
+        },
+        {
+          "texto": "También hay pistas dentro del libro. Las iglesias muestran un desgaste que pide tiempo desde que Pablo las plantó: Éfeso dejó su primer amor, Pérgamo tolera malos maestros, Laodicea es tibia. MacArthur agrega que Pablo no aparece en las cartas, que Laodicea, arrasada por un terremoto hacia el 60, no podía decir «Yo soy rico» bajo Nerón, y que la iglesia de Esmirna se fundó después de la muerte de Pablo. Earle suma que el culto al emperador recién se quiso imponer oficialmente al final de Domiciano, y que el libro parece usar la leyenda de un Nerón que volvería, nacida tras su muerte en el 68 (13:3; 17:8).",
+          "fuentes": ["cbmh_01_a#10", "macarthur_01#32", "beacon_01_a#11"]
+        }
+      ]
+    },
+    {
+      "titulo": "Las razones para los años 60, y qué está en juego",
+      "parrafos": [
+        {
+          "texto": "Otros eruditos, como Lightfoot, Westcott y Hort, prefieren la época de Nerón, y Torrey el breve reinado de Galba, en el 68. Sus razones son internas: Juan mide el templo (11:1-2) como si siguiera en pie, y 17:9-11 habla de siete reyes, de los que cinco cayeron y uno reina; Sproul nota que, contando desde Julio César, el sexto es Nerón, aunque no lo afirma en forma definitiva. Algunos agregan que “César Nerón” escrito en hebreo suma 666 (13:18). Sproul también duda de Ireneo: su frase podría querer decir que Juan vivió hasta Domiciano, no que tuvo la visión entonces. Benware, con Hitchcock, responde que lo más cercano en la frase es la visión.",
+          "fuentes": ["henry_01_a#2", "beacon_01_a#10", "web_14#3", "carballosa_01#14", "web_13#20", "r1_005#13"]
+        },
+        {
+          "texto": "¿Por qué importa? Porque la fecha decide la suerte de una escuela. Si el libro se escribió después del 70, no pudo anunciar la caída de Jerusalén de ese año, y el preterismo, que ve allí su cumplimiento principal, se cae: lo reconoce el propio Sproul. Para las demás lecturas la fecha no es decisiva (Benware). La mayoría de los eruditos se inclina por los años 90, pero con honestidad: Beasley-Murray admite que no se puede estar del todo seguro y el Comentario Mundo Hispano deja la puerta abierta.",
+          "fuentes": ["web_14#3", "r1_005#12", "r1_035#20", "cpe_02#14", "henry_01_a#2", "cbmh_01_a#10"]
+        }
+      ]
+    },
+    {
+      "titulo": "Siete iglesias reales",
+      "parrafos": [
+        {
+          "texto": "El libro circuló como carta entre siete iglesias de la provincia romana de Asia, el tercio occidental de la actual Turquía (1:11). Las ciudades estaban sobre las grandes rutas y formaban casi un círculo, de modo que un mensajero salido de Patmos podía recorrerlas en orden. No eran las únicas: había iglesias en Colosas, Hierápolis, Tralles y Magnesia. Para varios autores, el siete, número de plenitud, las vuelve representantes de toda la iglesia, y cada carta cierra igual: «El que tiene oído, oiga lo que el Espíritu dice a las iglesias». Juan había vivido años en Éfeso y, según Carballosa, conocía de cerca a cada una.",
+          "fuentes": ["cbmh_01_a#8", "dbmh_01_a#3", "carballosa_01#22", "cpe_01#6", "web_20#2"]
+        }
+      ]
+    },
+    {
+      "titulo": "Bajo presión: el César, la sinagoga y la tibieza",
+      "parrafos": [
+        {
+          "texto": "Domiciano se hacía llamar “Señor y dios nuestro”. Según Ropero, negarse a honrar a los dioses del Imperio y al emperador se castigaba como “ateísmo”: así condenó a su pariente, el cónsul Flavio Clemente, y desterró a su esposa, Flavia Domitila. Las ciudades de Asia se tomaban muy en serio ese culto; los judíos estaban exentos, pero un cristiano echado de la sinagoga perdía esa protección y podía ser denunciado (Diccionario de Jesús y los Evangelios). Beasley-Murray lo resume: nadie que dijera “Jesús es Señor” iba a confesar “César es Señor”.",
+          "fuentes": ["r1_019#26", "r1_024_a#1", "r2_010#1", "beacon_01_a#11", "henry_01_a#4"]
+        },
+        {
+          "texto": "¿Hubo una persecución general? Stott y Ropero la dan por cierta; Ladd y el Comentario Mundo Hispano advierten que no se puede probar una persecución sistemática en todo el Imperio, y muchos eruditos creen que las fuentes antiguas cargaron las tintas contra Domiciano. Lo seguro está en el texto: Juan desterrado, Antipas muerto en Pérgamo, «mi testigo fiel» (2:13), y Esmirna avisada de cárcel (2:10).",
+          "fuentes": ["r1_030#25", "r1_019#26", "ladd_01_a#6", "ladd_01_a#4", "cbmh_01_a#10", "r2_010#1", "mbiblia_01_a#5"]
+        },
+        {
+          "texto": "La otra amenaza era más silenciosa. Algunos creyentes se sentían tentados a ceder para sobrevivir, en una cultura de idolatría e inmoralidad: el enemigo atacaba con persecución y con seducción. Por eso las cartas hablan de un amor dejado, de maestros tolerados, de una iglesia que «tienes nombre de que vives, y estás muerto» y de otra que «ni eres frío ni caliente». Earle resume el propósito: consolar a los perseguidos con el triunfo final de Cristo y, a la vez, advertir contra el descuido.",
+          "fuentes": ["cpe_01#6", "cpe_05#12", "cpe_04#10", "cbmh_01_a#10", "beacon_01_a#14", "web_07#1"]
+        }
+      ]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Quién es el Juan del Apocalipsis?",
+      "posturas": [
+        {"postura": "El apóstol Juan, autor también del Evangelio y las cartas.", "quien": "MacArthur y Carballosa (premilenial dispensacional); Mundo Hispano (amilenial); Earle (Beacon, sin escuela)", "fuentes": ["mbiblia_01_a#2", "carballosa_01#9", "cbmh_01_a#1", "beacon_01_a#9"]},
+        {"postura": "Otro Juan de Éfeso (“Juan el anciano”).", "quien": "Dionisio de Alejandría y Eusebio; la crítica moderna, según Carballosa", "fuentes": ["carballosa_01#7", "macarthur_01#29"]},
+        {"postura": "No se puede afirmar ni negar, y no cambia la interpretación.", "quien": "Beasley-Murray (premilenial histórico); Ladd deja abierta la posibilidad", "fuentes": ["henry_01_a#1", "ladd_01_a#1"]}
+      ],
+      "nota": "Todos coinciden en que era un Juan conocido y respetado por las iglesias de Asia, y en que el libro tiene la autoridad de la revelación de Jesucristo."
+    },
+    {
+      "tema": "¿Cuándo se escribió?",
+      "posturas": [
+        {"postura": "Bajo Domiciano, hacia el 95-96.", "quien": "MacArthur, Carballosa (premilenial dispensacional); Ladd, Beasley-Murray (premilenial histórico); Earle (Beacon)", "fuentes": ["macarthur_01#31", "carballosa_01#18", "ladd_01_a#3", "henry_01_a#2", "beacon_01_a#10"]},
+        {"postura": "Bajo Nerón o poco después, antes del 70.", "quien": "Lightfoot, Westcott y Hort; Sproul (preterista moderado) ve un argumento fuerte", "fuentes": ["beacon_01_a#10", "web_13#20"]},
+        {"postura": "Más probable Domiciano, pero la cuestión sigue abierta.", "quien": "Comentario Mundo Hispano (amilenial)", "fuentes": ["cbmh_01_a#10"]}
+      ],
+      "nota": "La fecha es decisiva para el preterismo; para las demás lecturas, no."
+    }
+  ],
+  "citas": [
+    {"texto": "se vio no hace mucho tiempo, pero casi en nuestra generación, hacia el final del reinado de Domiciano", "autor": "Ireneo, citado por Paul N. Benware", "obra": "Entienda la profecía de los últimos tiempos", "pagina": "PDF 77-78"},
+    {"texto": "pero no podemos estar totalmente seguros", "autor": "G. R. Beasley-Murray", "obra": "«Apocalipsis», Nuevo Comentario Bíblico", "pagina": "PDF 173"}
+  ],
+  "conexiones": [
+    {"ref": "Jn 19:37", "nota": "Juan cita Zacarías 12:10 con la misma traducción que en Ap 1:7, una de las huellas de un mismo autor.", "fuentes": ["mbiblia_01_a#2"]}
+  ],
+  "para_vivir": [
+    {"texto": "Juan escribe desterrado, pero como hermano y compañero, no desde arriba. La fe de esas iglesias se jugaba en una confesión sencilla: Jesús es Señor, aunque cueste.", "fuentes": ["henry_01_a#4", "web_07#1"]},
+    {"texto": "La tibieza de Laodicea creció con la comodidad y con el paso del tiempo. El primer amor se cuida a propósito.", "fuentes": ["cbmh_01_a#10", "macarthur_01#32"]}
+  ],
+  "para_conversar": [
+    "¿Cambia algo para nosotros saber que el libro fue primero una carta a iglesias reales con problemas reales?",
+    "¿Dónde nos pide hoy la cultura un pequeño “César es Señor” para no quedar afuera?",
+    "¿Qué amenaza nos toca más como matrimonio: la presión de afuera o la tibieza de adentro?"
+  ],
+  "dias_relacionados": [1, 2, 5, 8, 11, 19],
+  "visuales": ["mapa-asia", "dg-cronologia", "mapa-mediterraneo"],
+  "refs_apocalipsis": ["1:1-11", "2:1-3:22", "11:1-2", "17:9-11", "22:8"]
+}

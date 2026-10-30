@@ -1,0 +1,1179 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apocalipsis en pareja</title>
+<style>
+/*__TIPOGRAFIAS__*/
+</style>
+<style>
+/* Concepto: el mismo códice de tres columnas del estudio de Génesis (plan · lectura · contexto), con la paleta de Patmos:
+   púrpura de Tiatira (2:18-29; Hch 16:14), oro de los candeleros (1:12) y el azul del Egeo que rodeaba a Juan. */
+[hidden] { display: none !important; }
+:root {
+  --bg: #f3f1ee; --surface: #ffffff; --surface-2: #f8f6f3; --ink: #1f1a2b; --muted: #5f5a6c; --line: #dcd7d0;
+  --lapis: #4b2f78; --lapis-soft: #ebe5f4; --oro: #8f630c; --oro-soft: #f5ecd6; --cornalina: #9c3d24; --cornalina-soft: #f6e4dd;
+  --olivo: #3f6236; --olivo-soft: #e5eedf; --egeo: #1f5f7a; --egeo-soft: #dfedf2;
+  --sombra: 0 1px 2px rgba(31,26,43,.06), 0 8px 24px rgba(31,26,43,.07);
+  --f-display: "Cormorant Garamond", "Iowan Old Style", Georgia, serif;
+  --f-texto: "Literata", "Iowan Old Style", Georgia, serif;
+  --f-ui: "Figtree", "Segoe UI", system-ui, sans-serif;
+  --f-gr: "Literata", "Gentium Plus", "GFS Didot", "Times New Roman", serif;
+  --texto: 1.06rem; --radio: 10px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #100d18; --surface: #19152a; --surface-2: #141122; --ink: #ebe6dc; --muted: #aaa3b8; --line: #2e2843;
+  --lapis: #c3a9ef; --lapis-soft: #2a2142; --oro: #e2bb5c; --oro-soft: #2b2414; --cornalina: #e8957a; --cornalina-soft: #35201b;
+  --olivo: #a6c78b; --olivo-soft: #1c2719; --egeo: #8ccbe3; --egeo-soft: #15303b;
+  --sombra: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.3); color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #100d18; --surface: #19152a; --surface-2: #141122; --ink: #ebe6dc; --muted: #aaa3b8; --line: #2e2843;
+  --lapis: #c3a9ef; --lapis-soft: #2a2142; --oro: #e2bb5c; --oro-soft: #2b2414; --cornalina: #e8957a; --cornalina-soft: #35201b;
+  --olivo: #a6c78b; --olivo-soft: #1c2719; --egeo: #8ccbe3; --egeo-soft: #15303b;
+  --sombra: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.3); color-scheme: dark; }
+:root[data-size="grande"] { --texto: 1.2rem; }
+:root[data-size="muy-grande"] { --texto: 1.34rem; }
+:root[data-size="chica"] { --texto: .96rem; }
+
+* { box-sizing: border-box; }
+html, body { min-height: 100%; }
+html { scroll-padding-top: 120px; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 var(--texto)/1.65 var(--f-texto); overflow-x: hidden; }
+a { color: var(--lapis); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--oro); outline-offset: 2px; border-radius: 4px; }
+.gr { font-family: var(--f-gr); font-feature-settings: "kern"; }
+/* comillas: «Biblia» frente a “autor” */
+.bib { font-style: italic; color: var(--lapis); }
+.aut { color: var(--muted); }
+
+/* Barra superior */
+.barra { position: sticky; top: 0; z-index: 20; display: flex; align-items: center; gap: 10px;
+  padding-block: 10px; padding-top: max(10px, env(safe-area-inset-top, 0px)); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  background: var(--surface); border-bottom: 1px solid var(--line); font-family: var(--f-ui); }
+.barra .global { position: absolute; left: 0; right: 0; bottom: -1px; height: 3px; background: transparent; }
+.barra .global i { display: block; height: 100%; background: var(--oro); transition: width .3s ease; }
+.marca { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); min-width: 0; }
+.marca b { font: 600 1.45rem/1 var(--f-display); letter-spacing: .01em; white-space: nowrap; }
+.marca .gr { color: var(--oro); font-size: 1rem; white-space: nowrap; }
+.barra .esp { flex: 1; }
+.btn { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px;
+  padding: 6px 12px; font: 500 .86rem/1.2 var(--f-ui); cursor: pointer; text-decoration: none; color: var(--ink); }
+.btn:hover { border-color: var(--lapis); }
+.btn.prim { background: var(--lapis); border-color: var(--lapis); color: var(--surface); }
+.btn.oro { background: var(--oro-soft); border-color: var(--oro); color: var(--ink); }
+.icono { width: 34px; height: 34px; padding: 0; justify-content: center; flex: none; }
+.anillo { display: flex; align-items: center; gap: 8px; font: 500 .82rem var(--f-ui); color: var(--muted); white-space: nowrap; text-decoration: none; }
+.anillo svg { width: 30px; height: 30px; }
+.menu-btn { display: none; }
+
+/* Estructura */
+.app { display: grid; grid-template-columns: 290px minmax(0, 1fr) 300px; gap: 28px; max-width: 1480px; margin: 0 auto;
+  padding-block: 24px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.app.sin-lado { grid-template-columns: 290px minmax(0, 1fr); }
+.nav { position: sticky; top: 76px; align-self: start; max-height: calc(100vh - 96px); overflow-y: auto; font-family: var(--f-ui); padding-right: 4px; }
+.nav h4 { font: 600 .72rem var(--f-ui); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 18px 0 6px; }
+.nav a.item { display: flex; align-items: center; gap: 8px; padding: 6px 8px; border-radius: 8px; color: var(--ink); text-decoration: none; font-size: .9rem; }
+.nav a.item:hover { background: var(--surface); }
+.nav a.item.actual { background: var(--lapis-soft); color: var(--lapis); font-weight: 600; }
+.nav a.sub { padding-left: 22px; font-size: .84rem; color: var(--muted); }
+.tol { margin-top: 8px; }
+.tol summary { cursor: pointer; list-style: none; padding: 6px 8px; border-radius: 8px; }
+.tol summary::-webkit-details-marker { display: none; }
+.tol summary:hover { background: var(--surface); }
+.tol .t1 { font: 600 .72rem var(--f-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--oro); }
+.tol .t2 { display: block; font: 600 1.06rem/1.25 var(--f-display); color: var(--ink); }
+.tol .t3 { display: flex; justify-content: space-between; font-size: .75rem; color: var(--muted); }
+.mini-bar { height: 4px; border-radius: 99px; background: var(--line); overflow: hidden; margin-top: 4px; }
+.mini-bar i { display: block; height: 100%; background: var(--olivo); }
+.dia-l { display: grid; grid-template-columns: 26px 1fr auto; gap: 6px; align-items: baseline; padding: 4px 8px; border-radius: 8px;
+  text-decoration: none; color: var(--ink); font-size: .84rem; line-height: 1.3; }
+.dia-l:hover { background: var(--surface); }
+.dia-l .n { font: 600 .74rem var(--f-ui); color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+.dia-l .r { font-size: .72rem; color: var(--muted); white-space: nowrap; }
+.dia-l.hecho .n { color: var(--olivo); }
+.dia-l.hecho .n::before { content: "✓ "; }
+.dia-l.actual { background: var(--lapis-soft); }
+.dia-l.pend { opacity: .55; }
+.dia-l.pan { grid-template-columns: 1fr; font-style: italic; color: var(--lapis); }
+.principal { min-width: 0; }
+.lado { position: sticky; top: 76px; align-self: start; display: grid; gap: 16px; max-height: calc(100vh - 96px); overflow-y: auto; }
+
+/* Lectura */
+.hoja { max-width: 72ch; margin: 0 auto; }
+.hoja.ancha { max-width: none; }
+.ojo { font: 600 .76rem var(--f-ui); letter-spacing: .12em; text-transform: uppercase; color: var(--oro); }
+.ojo a { color: inherit; text-decoration: none; }
+h1.titulo { font: 600 clamp(2rem, 4vw, 2.9rem)/1.08 var(--f-display); margin: 6px 0 10px; text-wrap: balance; }
+h2 { font: 600 1.7rem/1.15 var(--f-display); margin: 40px 0 12px; text-wrap: balance; }
+h3 { font: 600 1.28rem/1.25 var(--f-display); margin: 26px 0 8px; text-wrap: balance; }
+h3 .rango { font: 600 .78rem var(--f-ui); color: var(--lapis); background: var(--lapis-soft); border-radius: 999px; padding: 2px 9px; margin-right: 8px; vertical-align: middle; letter-spacing: .02em; }
+.meta { display: flex; flex-wrap: wrap; gap: 8px 16px; font: 500 .86rem var(--f-ui); color: var(--muted); }
+.acciones { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 6px; }
+p { margin: 0 0 14px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 18px 20px; }
+.bloque { position: relative; }
+.cab { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.cab h2, .cab h3 { flex: 1; min-width: 0; }
+.leida { flex: none; border: 1px solid var(--line); background: var(--surface); color: var(--muted); border-radius: 999px; width: 28px; height: 28px; padding: 0;
+  font: 600 .8rem var(--f-ui); cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
+.leida[aria-pressed="true"] { background: var(--olivo); border-color: var(--olivo); color: var(--surface); }
+.prog-dia { position: sticky; top: 58px; z-index: 5; display: flex; align-items: center; gap: 10px; margin: 14px 0 0; padding: 8px 12px;
+  background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(6px); border: 1px solid var(--line); border-radius: 999px; font: 500 .8rem var(--f-ui); color: var(--muted); }
+.prog-dia .pista { flex: 1; height: 6px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.prog-dia .pista i { display: block; height: 100%; background: var(--olivo); transition: width .25s ease; }
+.prog-dia button { border: 0; background: none; color: var(--lapis); font: 600 .8rem var(--f-ui); cursor: pointer; padding: 0; white-space: nowrap; }
+.contexto { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0; margin: 22px 0 12px; padding: 0; overflow: hidden; }
+.contexto > div { padding: 14px 16px; border-right: 1px solid var(--line); min-width: 0; }
+.contexto > div:last-child { border-right: 0; }
+.contexto .et { font: 600 .7rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 4px; }
+.contexto .ahora { background: var(--lapis-soft); }
+.contexto p { font-size: .92rem; line-height: 1.5; margin: 0; }
+.donde-cuando { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.donde-cuando .panel { padding: 12px 16px; font-size: .9rem; line-height: 1.5; }
+.clave { position: relative; margin: 26px 0; padding: 22px 24px 18px 28px; background: var(--oro-soft); border-radius: var(--radio); border-left: 4px solid var(--oro); }
+.clave blockquote { margin: 0 0 10px; font: 500 1.42rem/1.38 var(--f-display); font-style: italic; color: var(--ink); }
+.clave blockquote .bib { color: inherit; }
+.clave cite { font: 600 .8rem var(--f-ui); color: var(--oro); font-style: normal; letter-spacing: .04em; }
+.clave .porque { font-size: .92rem; margin: 10px 0 0; color: var(--ink); }
+.clave details { margin-top: 10px; font: 500 .82rem var(--f-ui); }
+.clave details summary { cursor: pointer; color: var(--oro); }
+.clave .gr { display: block; font-size: 1.1rem; line-height: 1.5; margin-top: 6px; color: var(--ink); }
+.sin-texto { font: 500 .86rem var(--f-ui); color: var(--muted); }
+.nota { margin: 0 0 14px; }
+.chips { display: inline-flex; flex-wrap: wrap; gap: 4px; margin-left: 4px; vertical-align: 1px; }
+.chip { font: 600 .66rem/1 var(--f-ui); letter-spacing: .03em; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 3px 7px;
+  background: var(--surface); cursor: pointer; white-space: nowrap; font-style: normal; }
+.chip:hover, .chip[aria-expanded="true"] { color: var(--lapis); border-color: var(--lapis); }
+.pop { position: absolute; z-index: 40; max-width: 380px; max-height: 60vh; overflow-y: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--sombra);
+  padding: 10px 12px; font: 400 .82rem/1.45 var(--f-ui); color: var(--ink); }
+.pop b { font-weight: 600; }
+.pop .ob { color: var(--muted); }
+.pop .esc { color: var(--muted); font-size: .74rem; }
+.pop .res { margin-top: 4px; padding: 6px 8px; background: var(--surface-2); border-radius: 6px; }
+.pop .res b { display: block; }
+.pop > div + div { margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--line); }
+.palabras { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.palabra { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 12px 14px; min-width: 0; }
+.palabra .gr { display: block; font-size: 1.55rem; line-height: 1.25; color: var(--lapis); }
+.palabra .tr { font: 600 .9rem var(--f-ui); }
+.palabra .rf { font: 500 .72rem var(--f-ui); color: var(--muted); }
+.palabra .st { display: block; font: 500 .72rem var(--f-ui); color: var(--muted); margin-top: 2px; }
+.palabra .st .gr { display: inline; font-size: .9rem; color: var(--muted); }
+.palabra p { font-size: .88rem; line-height: 1.45; margin: 6px 0 0; }
+.simbolos { display: grid; gap: 10px; }
+.simbolo { display: grid; grid-template-columns: minmax(0, 12rem) 1fr; gap: 4px 16px; padding: 10px 0; border-top: 1px dashed var(--line); font-size: .95rem; }
+.simbolo .sg { font: 600 1.08rem/1.3 var(--f-display); color: var(--cornalina); }
+.simbolo .sg small { display: block; font: 500 .72rem var(--f-ui); color: var(--muted); }
+.cristo { border-left: 3px solid var(--cornalina); padding: 4px 0 4px 16px; margin: 0 0 14px; }
+.refs { font: 500 .78rem var(--f-ui); color: var(--cornalina); }
+details.interp { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); margin: 0 0 10px; }
+details.interp summary { cursor: pointer; padding: 12px 16px; font: 600 1.05rem var(--f-display); list-style: none; display: flex; justify-content: space-between; gap: 12px; }
+details.interp summary::-webkit-details-marker { display: none; }
+details.interp summary::after { content: "+"; font-family: var(--f-ui); color: var(--muted); }
+details.interp[open] summary::after { content: "–"; }
+details.interp .cuerpo { padding: 0 16px 12px; }
+.postura { display: grid; grid-template-columns: 170px 1fr; gap: 10px; padding: 8px 0; border-top: 1px dashed var(--line); font-size: .93rem; }
+.postura .quien { font: 600 .8rem var(--f-ui); color: var(--lapis); }
+.sin-partido { font: 500 .76rem var(--f-ui); color: var(--muted); margin: -4px 0 12px; }
+.biblio { display: grid; gap: 12px; }
+.biblio .panel { padding: 14px 16px; }
+.biblio .autor { font: 600 .78rem var(--f-ui); color: var(--olivo); letter-spacing: .02em; display: block; margin-bottom: 4px; }
+.conex { display: grid; grid-template-columns: 120px 1fr; gap: 6px 14px; font-size: .93rem; }
+.conex .rf { font: 600 .82rem var(--f-ui); color: var(--lapis); }
+.vida { background: var(--olivo-soft); border-radius: var(--radio); padding: 20px 22px; margin-top: 34px; }
+.vida h2 { margin-top: 0; }
+.vida ul { margin: 0 0 8px; padding-left: 20px; }
+.vida li { margin-bottom: 8px; }
+.vida h3 { margin-top: 18px; }
+.orar { font-style: italic; }
+details.prof { margin-top: 26px; }
+details.prof > summary { cursor: pointer; font: 600 1.3rem var(--f-display); }
+.notas-p textarea { width: 100%; min-height: 120px; border: 1px solid var(--line); border-radius: var(--radio); padding: 12px; background: var(--surface); color: var(--ink);
+  font: 400 .95rem/1.5 var(--f-texto); resize: vertical; }
+.notas-print { display: none; white-space: pre-wrap; }
+.estado { font: 500 .76rem var(--f-ui); color: var(--muted); }
+.pie-dia { display: flex; justify-content: space-between; gap: 12px; margin-top: 34px; padding-top: 18px; border-top: 1px solid var(--line); flex-wrap: wrap; }
+.pend-msg { margin-top: 30px; }
+.aviso-parte { display: flex; gap: 14px; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 0 0 18px; padding: 12px 16px;
+  border-radius: var(--radio); background: var(--oro-soft); border: 1px solid var(--oro); font: 500 .9rem var(--f-ui); }
+
+/* Visuales en la página */
+details.visual { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); margin: 0 0 10px; }
+details.visual > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; padding: 12px 16px; font: 600 1.05rem var(--f-display); }
+details.visual > summary::-webkit-details-marker { display: none; }
+details.visual > summary .tipo { font: 600 .66rem var(--f-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--egeo); background: var(--egeo-soft); padding: 3px 8px; border-radius: 999px; flex: none; }
+details.visual > summary::after { content: "+"; margin-left: auto; font-family: var(--f-ui); color: var(--muted); }
+details.visual[open] > summary::after { content: "–"; }
+details.visual .cuerpo { padding: 0 16px 14px; min-width: 0; }
+.ir-completo { font: 600 .82rem var(--f-ui); display: inline-block; margin-top: 10px; }
+.anexos { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
+.anexos a { display: block; text-decoration: none; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 12px 14px; }
+.anexos a:hover { border-color: var(--lapis); }
+.anexos a.pend { opacity: .55; pointer-events: none; }
+.anexos small { display: block; font: 600 .68rem var(--f-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--oro); }
+.anexos b { font: 600 1.05rem/1.25 var(--f-display); }
+
+/* Diagramas */
+.dg-bajada { color: var(--muted); font-size: .95rem; }
+.dg-nota { font-size: .9rem; margin-top: 12px; padding: 10px 14px; border-radius: var(--radio); background: var(--surface-2); border: 1px solid var(--line); }
+.dg-tabla { width: 100%; border-collapse: collapse; font: 400 .86rem/1.45 var(--f-ui); }
+.dg-tabla th, .dg-tabla td { text-align: left; padding: 8px 9px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.dg-tabla th { font-weight: 600; color: var(--muted); font-size: .72rem; letter-spacing: .06em; text-transform: uppercase; background: var(--surface-2); position: sticky; top: 0; }
+.dg-tabla td:first-child { font-weight: 600; }
+.dg-tabla .ref { display: block; font: 600 .72rem var(--f-ui); color: var(--lapis); margin-top: 2px; }
+.dg-tabla .bib, .dg-tarjeta .bib { font-family: var(--f-texto); }
+.tabla-caja { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); }
+.dg-tarjetas { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.dg-tarjeta { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 12px 14px; font-size: .9rem; line-height: 1.5; min-width: 0; }
+.dg-tarjeta b { display: block; font: 600 1.08rem/1.25 var(--f-display); }
+.dg-tarjeta .ref { font: 600 .72rem var(--f-ui); color: var(--lapis); }
+.dg-tarjeta p { margin: 6px 0 0; }
+.lineas-caja { overflow-x: auto; padding-bottom: 6px; }
+.lineas { min-width: 640px; font-family: var(--f-ui); padding-top: 4px; }
+.lineas.grande { min-width: 920px; }
+.fila-l { margin: 14px 0 4px; }
+.fila-l .nom { position: sticky; left: 0; display: inline-block; font: 600 .74rem var(--f-ui); color: var(--muted); background: var(--surface); padding: 0 6px 0 0; }
+details.visual .fila-l .nom, .hoja .fila-l .nom { background: transparent; }
+.carriles-ley { display: grid; gap: 0; margin-top: 6px; }
+.eje { position: relative; height: 34px; margin: 0 0 6px; border-bottom: 1px solid var(--line); }
+.eje span { position: absolute; bottom: 6px; transform: translateX(-50%); font: 600 .7rem var(--f-ui); color: var(--muted); white-space: nowrap; }
+.eje span:first-child { transform: none; }
+.eje span:last-child { transform: translateX(-100%); }
+.carril { padding: 10px 0 12px; border-bottom: 1px dashed var(--line); }
+.carril-cab b { font: 600 1.05rem var(--f-display); }
+.carril-cab small { display: block; color: var(--muted); font-size: .76rem; line-height: 1.35; }
+.pista-l { position: relative; height: 34px; margin: 12px 0 6px; background: var(--surface-2); border-radius: 6px; }
+.seg { position: absolute; top: 3px; bottom: 3px; border-radius: 5px; overflow: hidden; display: flex; align-items: center; padding: 0 6px; font: 600 .7rem/1.1 var(--f-ui); color: var(--ink); border-left: 3px solid; }
+.seg span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.c-a { background: var(--lapis-soft); border-color: var(--lapis); } .c-b { background: var(--oro-soft); border-color: var(--oro); }
+.c-c { background: var(--olivo-soft); border-color: var(--olivo); } .c-d { background: var(--cornalina-soft); border-color: var(--cornalina); }
+.c-e { background: var(--egeo-soft); border-color: var(--egeo); }
+.marca-l { position: absolute; top: -6px; bottom: -6px; width: 0; border-left: 2px solid var(--ink); }
+.marca-l i { position: absolute; top: -10px; left: -9px; width: 18px; height: 18px; border-radius: 50%; background: var(--ink); color: var(--surface); font: 700 .62rem/18px var(--f-ui); text-align: center; font-style: normal; }
+.leyenda-l { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: .74rem; color: var(--muted); margin: 0; padding: 0; list-style: none; }
+.leyenda-l li { display: flex; gap: 6px; align-items: baseline; }
+.leyenda-l .sw { width: 11px; height: 11px; border-radius: 3px; flex: none; border-left: 11px solid; align-self: center; }
+.leyenda-l .num { font-weight: 700; color: var(--ink); }
+
+/* Artículos */
+.bajada { font: 500 1.22rem/1.45 var(--f-display); font-style: italic; color: var(--muted); margin: 0 0 18px; text-wrap: pretty; }
+.entrada > p:first-child::first-letter { float: left; font: 600 3.4rem/.85 var(--f-display); color: var(--oro); padding: 6px 8px 0 0; }
+.destacado { margin: 18px 0 22px; padding: 14px 18px; border-radius: var(--radio); background: var(--lapis-soft); border-left: 4px solid var(--lapis); }
+figure.cita { margin: 30px 0; padding: 0 0 0 22px; border-left: 2px solid var(--muted); }
+figure.cita blockquote { margin: 0 0 6px; font: 500 1.3rem/1.4 var(--f-display); text-wrap: pretty; color: var(--muted); }
+figure.cita figcaption { font: 500 .8rem var(--f-ui); color: var(--muted); }
+.indice-arts { display: grid; gap: 12px; margin: 18px 0; }
+.indice-arts a, .indice-arts div.pend { display: grid; grid-template-columns: 48px 1fr; gap: 4px 14px; align-items: start; text-decoration: none; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); border-radius: var(--radio); padding: 14px 16px; }
+.indice-arts a:hover { border-color: var(--lapis); }
+.indice-arts .num { grid-row: span 2; font: 600 1.7rem/1 var(--f-display); color: var(--oro); text-align: center; }
+.indice-arts b { font: 600 1.2rem/1.2 var(--f-display); }
+.indice-arts small { color: var(--muted); font: 400 .86rem/1.4 var(--f-ui); }
+.indice-arts .pend { opacity: .55; }
+.en-plan { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+h2[id^="ap-"] { scroll-margin-top: 90px; }
+.toc a { display: flex; gap: 6px; padding: 4px 0; color: var(--ink); text-decoration: none; line-height: 1.3; }
+.toc a:hover { color: var(--lapis); }
+.toc a .ck { flex: none; width: 1.1em; color: var(--line); font-weight: 700; }
+.toc a.ok .ck { color: var(--olivo); }
+
+/* Columna de contexto */
+.tarjeta { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 14px; font-family: var(--f-ui); font-size: .85rem; }
+.tarjeta h5 { margin: 0 0 8px; font: 600 .72rem var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.mini-mapa svg { width: 100%; height: auto; display: block; border-radius: 6px; }
+
+/* Inicio */
+.heroe { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 28px; align-items: center; margin-bottom: 26px; }
+.heroe h1 { font: 600 clamp(2.6rem, 6vw, 4.2rem)/1 var(--f-display); margin: 0; }
+.heroe .gr { font-size: clamp(1.4rem, 3vw, 2rem); color: var(--oro); display: block; margin-top: 6px; }
+.heroe p { color: var(--muted); max-width: 52ch; }
+.hoy { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px 22px; box-shadow: var(--sombra); }
+.hoy .ojo { display: block; margin-bottom: 4px; }
+.hoy h2 { margin: 0 0 6px; font-size: 1.8rem; }
+.barra-global { margin: 10px 0 0; }
+.barra-global .pista { height: 10px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.barra-global .pista i { display: block; height: 100%; background: linear-gradient(90deg, var(--olivo), var(--oro)); }
+.barra-global small { font: 500 .78rem var(--f-ui); color: var(--muted); }
+.partes { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin: 22px 0; }
+.parte { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 12px 14px; font-family: var(--f-ui); text-decoration: none; color: inherit; display: block; }
+.parte:hover { border-color: var(--lapis); }
+.parte b { display: block; font: 600 1.05rem/1.2 var(--f-display); margin: 2px 0; }
+.parte .bar { height: 6px; background: var(--surface-2); border-radius: 99px; margin-top: 8px; overflow: hidden; border: 1px solid var(--line); }
+.parte .bar i { display: block; height: 100%; background: var(--olivo); }
+.parte small { color: var(--muted); font-size: .76rem; }
+.grilla-h { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; }
+.grilla-h a { text-decoration: none; color: var(--ink); }
+.grilla-h .panel { height: 100%; }
+.grilla-h .panel:hover { border-color: var(--lapis); }
+.grilla-h b { font: 600 1.15rem var(--f-display); display: block; }
+.grilla-h small { color: var(--muted); font-family: var(--f-ui); }
+.grilla-h.temas small { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.copia { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 20px; align-items: center; margin-top: 34px; }
+.copia b { font: 600 1.15rem var(--f-display); }
+.copia p { margin: 4px 0 0; font-size: .92rem; color: var(--muted); }
+.copia .acciones { margin: 0; }
+.copia .estado { grid-column: 1 / -1; }
+.indice-parte { margin: 26px 0 0; }
+.indice-parte .cab-p { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.indice-parte .cab-p h2 { margin: 0; font-size: 1.45rem; }
+.dias-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2px 12px; margin-top: 8px; }
+.dias-grid .dia-l { grid-template-columns: 26px 1fr auto; }
+.dias-grid .sec { font: 500 .68rem var(--f-ui); color: var(--muted); }
+
+/* Herramientas */
+.svgcaja { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 10px; }
+.svgcaja svg { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+.svgcaja svg.mapa-g { width: 100%; max-width: none; min-width: 520px; max-height: 80vh; }
+.mapa-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+.mapa-tabs .btn[aria-pressed="true"] { background: var(--lapis); color: var(--surface); border-color: var(--lapis); }
+.leyenda { font: 400 .78rem var(--f-ui); color: var(--muted); margin-top: 8px; }
+.ficha-lugar { margin-top: 10px; }
+.lista-pal { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.letras { display: flex; flex-wrap: wrap; gap: 4px; margin: 12px 0; font-family: var(--f-ui); }
+.letras a { min-width: 30px; text-align: center; padding: 4px 6px; border: 1px solid var(--line); border-radius: 6px; text-decoration: none; color: var(--ink); font-size: .82rem; background: var(--surface); }
+.letras a:hover { border-color: var(--lapis); }
+h2.letra { scroll-margin-top: 90px; font-size: 1.4rem; border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+.filtro { width: 100%; padding: 10px 14px; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); color: var(--ink); font: 400 .95rem var(--f-ui); margin: 8px 0; }
+.buscar input { width: 100%; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); color: var(--ink); font: 400 1rem var(--f-ui); }
+.resultado { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.resultado > div { font-size: .93rem; line-height: 1.55; }
+.resultado mark { background: var(--oro-soft); color: inherit; padding: 0 2px; border-radius: 3px; }
+.tabla { width: 100%; border-collapse: collapse; font: 400 .86rem var(--f-ui); }
+.tabla th, .tabla td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; overflow-wrap: anywhere; }
+.tabla th { font-weight: 600; color: var(--muted); font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; }
+.leyenda-comillas { display: grid; gap: 6px; margin: 12px 0; }
+
+@media (max-width: 1180px) {
+  .app, .app.sin-lado { grid-template-columns: 260px minmax(0, 1fr); }
+  .lado { position: static; grid-column: 2; max-height: none; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+}
+@media (max-width: 820px) {
+  .app, .app.sin-lado { grid-template-columns: minmax(0, 1fr); padding-block: 16px 56px; }
+  .lado { grid-column: 1; }
+  .nav { position: fixed; inset: 0 auto 0 0; z-index: 30; width: min(86vw, 330px); max-height: none; background: var(--bg); padding: 70px 16px 24px;
+    padding-left: max(16px, env(safe-area-inset-left, 0px)); transform: translateX(-105%); transition: transform .2s ease; box-shadow: var(--sombra); visibility: hidden; }
+  body.nav-abierta .nav { transform: none; visibility: visible; }
+  .menu-btn { display: inline-flex; }
+  .anillo span { display: none; }
+  .contexto { grid-template-columns: minmax(0, 1fr); }
+  .contexto > div { border-right: 0; border-bottom: 1px solid var(--line); }
+  .donde-cuando, .heroe, .copia { grid-template-columns: minmax(0, 1fr); }
+  .postura, .conex, .simbolo { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .marca .gr { display: none; }
+  .prog-dia { top: 54px; }
+}
+@media (max-width: 640px) {
+  .tabla-caja { overflow: visible; border: 0; background: none; }
+  .dg-tabla thead { display: none; }
+  .dg-tabla, .dg-tabla tbody, .dg-tabla tr, .dg-tabla td { display: block; width: 100%; }
+  .dg-tabla tr { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); margin: 0 0 10px; padding: 6px 4px; }
+  .dg-tabla td { border-bottom: 0; padding: 5px 10px; }
+  .dg-tabla td[data-col]:not(:first-child)::before { content: attr(data-col); display: block; font: 600 .66rem var(--f-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  .dg-tabla td:first-child { font: 600 1.05rem/1.3 var(--f-display); border-bottom: 1px dashed var(--line); }
+  details.visual .cuerpo { padding: 0 10px 12px; }
+  .clave { padding: 18px 16px 14px 18px; }
+  .clave blockquote { font-size: 1.28rem; }
+}
+@media (max-width: 460px) {
+  .barra { gap: 6px; }
+  .marca b { font-size: 1.22rem; }
+  .anillo { display: none; }
+  .icono { width: 32px; height: 32px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+@media print {
+  :root { --bg: #fff; --surface: #fff; --surface-2: #fff; --ink: #000; --muted: #444; --line: #bbb; }
+  .barra, .nav, .lado, .aviso-parte, .acciones, .pie-dia, .prog-dia, .leida, .chips, .copia, .ir-completo, .menu-btn, .notas-p textarea, .estado { display: none !important; }
+  .app, .app.sin-lado { display: block; padding: 0; max-width: none; }
+  .hoja { max-width: none; }
+  .notas-print { display: block; }
+  body { font-size: 11pt; }
+  details.visual, details.interp, .panel, .vida, .clave { break-inside: avoid; }
+  a { color: inherit; text-decoration: none; }
+  .lineas-caja, .tabla-caja, .svgcaja { overflow: visible; }
+  .lineas, .lineas.grande { min-width: 0; }
+}
+</style>
+</head>
+<body>
+<header class="barra">
+  <button class="btn icono menu-btn" id="menu-btn" aria-label="Abrir el índice"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  <a class="marca" href="#inicio"><b>Apocalipsis en pareja</b><span class="gr" lang="grc">Ἀποκάλυψις</span></a>
+  <div class="esp"></div>
+  <a class="anillo" id="anillo" href="#indice" title="Días leídos"></a>
+  <a class="btn icono" href="#buscar" aria-label="Buscar"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></a>
+  <button class="btn icono" id="tam-btn" aria-label="Cambiar el tamaño de letra">Aa</button>
+  <button class="btn icono" id="tema-btn" aria-label="Cambiar entre modo claro y oscuro"><svg width="17" height="17" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+  <div class="global" aria-hidden="true"><i id="barra-global" style="width:0"></i></div>
+</header>
+<div class="app">
+  <nav class="nav" id="nav" aria-label="Índice del estudio"></nav>
+  <main class="principal" id="principal"></main>
+  <aside class="lado" id="lado" aria-label="Contexto"></aside>
+</div>
+<script>
+/*__DATOS__*/
+</script>
+<script>
+(() => {
+const D = window.DATOS;
+const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+// «texto bíblico» y “cita de autor” se muestran distinto
+const fmt = s => esc(s).replace(/«([^«»]*)»/g, '<span class="bib">«$1»</span>').replace(/“([^“”]*)”/g, '<span class="aut">“$1”</span>');
+const parr = t => String(t || '').split(/\n{2,}/).map(x => `<p>${fmt(x).replace(/\n/g, '<br>')}</p>`).join('');
+const PLAN = D.plan, TOTAL = PLAN.length, PARTES = D.partes;
+const ARTS = D.articulos_orden || [];
+const artDe = id => (D.articulos || {})[id];
+const tituloArt = a => (artDe(a.id) || {}).titulo || a.titulo;
+const diaPlan = d => PLAN.find(p => p.dia === d);
+const parteDe = id => PARTES.find(p => p.id === id);
+const numParte = id => +String(id).replace(/\D/g, '');
+const panoramaDe = parteId => ARTS.find(a => a.grupo === 'panorama' && a.id === 'P' + numParte(parteId));
+const GRUPO = { intro: 'Introducción', panorama: 'Panorama', tema: 'Temas' };
+
+/* ---------- estado: progreso, lectura por secciones y notas (en este navegador) ---------- */
+const LS = 'apocalipsis-en-pareja-v1';
+const est = { hechos: {}, notas: {}, leidas: {}, ultimo: null };
+try { const g = JSON.parse(localStorage.getItem(LS) || '{}'); if (g && typeof g === 'object') Object.assign(est, g); } catch (e) {}
+for (const k of ['hechos', 'notas', 'leidas']) if (!est[k] || typeof est[k] !== 'object') est[k] = {};
+let avisoGuardado = false;
+const guardar = () => {
+  try { localStorage.setItem(LS, JSON.stringify(est)); }
+  catch (e) { if (!avisoGuardado) { avisoGuardado = true; const s = $('#estado-notas'); if (s) s.textContent = 'Este navegador no deja guardar: bajen una copia para no perder las notas.'; } }
+};
+
+/* ---------- preferencias ---------- */
+const PREF = 'apocalipsis-en-pareja-pref';
+let pref = {}; try { pref = JSON.parse(localStorage.getItem(PREF) || '{}') || {}; } catch (e) {}
+const guardarPref = () => { try { localStorage.setItem(PREF, JSON.stringify(pref)); } catch (e) {} };
+const aplicarPref = () => {
+  if (pref.tema) document.documentElement.dataset.theme = pref.tema; else delete document.documentElement.dataset.theme;
+  if (pref.tam) document.documentElement.dataset.size = pref.tam; else delete document.documentElement.dataset.size;
+};
+aplicarPref();
+$('#tema-btn').onclick = () => {
+  const oscuro = pref.tema ? pref.tema === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  pref.tema = oscuro ? 'light' : 'dark'; aplicarPref(); guardarPref();
+};
+$('#tam-btn').onclick = () => {
+  const orden = [undefined, 'grande', 'muy-grande', 'chica'];
+  pref.tam = orden[(orden.indexOf(pref.tam) + 1) % orden.length]; aplicarPref(); guardarPref();
+  $('#tam-btn').title = { undefined: 'Letra normal', grande: 'Letra grande', 'muy-grande': 'Letra muy grande', chica: 'Letra chica' }[pref.tam];
+};
+$('#menu-btn').onclick = () => document.body.classList.toggle('nav-abierta');
+
+/* ---------- fuentes: chips con popover ---------- */
+function chips(ids) {
+  if (!ids || !ids.length) return '';
+  const grupos = {};
+  ids.forEach(id => { const f = D.fuentes[id]; if (f) (grupos[f[0]] = grupos[f[0]] || []).push(id); });
+  return '<span class="chips">' + Object.keys(grupos).map(k => {
+    const g = grupos[k], f = D.fuentes[g[0]];
+    const pag = g.length === 1 && f[2] && !/^https?:/.test(f[2]) ? ' · ' + paginaCorta(f[2]) : (g.length > 1 ? ' ×' + g.length : '');
+    return `<button class="chip" data-ids="${esc(g.join(' '))}" aria-expanded="false" title="${esc(f[1])}">${esc(k + pag)}</button>`;
+  }).join('') + '</span>';
+}
+const paginaCorta = p => { const m = String(p).match(/p[áa]g(?:ina)?s?\.?\s*(?:PDF\s*)?([\d][\d\s,\-–;y]*)/i); return m ? 'p. ' + m[1].trim().replace(/[,;\s-]+$/, '') : ''; };
+let popAbierto = null;
+const cerrarPop = () => { if (popAbierto) { popAbierto.remove(); popAbierto = null; $$('.chip[aria-expanded="true"]').forEach(b => b.setAttribute('aria-expanded', 'false')); } };
+document.addEventListener('click', e => {
+  const c = e.target.closest('.chip');
+  if (e.target.closest('.pop') && !c) return;
+  cerrarPop();
+  if (c) {
+    const pop = document.createElement('div'); pop.className = 'pop'; pop.setAttribute('role', 'dialog');
+    pop.innerHTML = c.dataset.ids.split(' ').map(id => { const f = D.fuentes[id]; if (!f) return '';
+      const url = /^https?:/.test(f[2] || '');
+      return `<div><b>${esc(f[0])}</b> · <span class="ob">${esc(f[1])}</span>${f[2] ? ` · ${url ? `<a href="${esc(f[2])}" target="_blank" rel="noopener">ver el artículo ↗</a>` : esc(f[2])}` : ''}
+        ${f[4] ? `<div class="esc">${esc(f[4])}</div>` : ''}<div class="res">${f[3][0] ? `<b>${fmt(f[3][0])}</b>` : ''}${fmt(f[3][1])}</div></div>`; }).join('');
+    document.body.appendChild(pop);
+    const r = c.getBoundingClientRect(); const w = Math.min(380, innerWidth - 32);
+    pop.style.width = w + 'px';
+    pop.style.left = Math.max(16, Math.min(innerWidth - w - 16, r.left + scrollX)) + 'px';
+    pop.style.top = (r.bottom + scrollY + 6) + 'px';
+    c.setAttribute('aria-expanded', 'true'); popAbierto = pop; e.stopPropagation();
+  }
+  if (e.target.closest('.nav a')) document.body.classList.remove('nav-abierta');
+});
+
+/* ---------- progreso ---------- */
+const hechosEn = dias => dias.filter(p => est.hechos[p.dia]).length;
+const siguientePendiente = () => (PLAN.find(p => !est.hechos[p.dia]) || PLAN[TOTAL - 1]).dia;
+function bloquesDia(d) {   // las partes del día que cuentan para «secciones leídas»
+  const x = D.dias[d]; if (!x) return [];
+  const b = [['contexto', 'Contexto y versículo clave'], ['panorama', 'El pasaje de un vistazo']];
+  x.secciones.forEach((s, i) => b.push(['s' + i, s.rango + ' · ' + s.titulo]));
+  if ((x.simbolos || []).length) b.push(['simbolos', 'Símbolos']);
+  if ((x.palabras || []).length) b.push(['palabras', 'Palabras griegas']);
+  if ((x.cristo || []).length) b.push(['cristo', 'Cristo en el pasaje']);
+  if ((x.interpretaciones || []).length) b.push(['interp', 'Interpretaciones']);
+  if ((x.biblioteca || []).length) b.push(['biblio', 'Desde la biblioteca']);
+  if ((x.conexiones || []).length) b.push(['conex', 'Conexiones']);
+  b.push(['vida', 'Para vivir, conversar y orar']);
+  return b;
+}
+const leidasDe = d => est.leidas[d] || {};
+const fraccionDia = d => { if (est.hechos[d]) return 1; const b = bloquesDia(d); return b.length ? b.filter(([k]) => leidasDe(d)[k]).length / b.length : 0; };
+function pintarProgreso() {
+  const hechos = Object.keys(est.hechos).length, p = hechos / TOTAL, R = 12, C = 2 * Math.PI * R;
+  $('#anillo').innerHTML = `<svg viewBox="0 0 30 30" aria-hidden="true"><circle cx="15" cy="15" r="${R}" fill="none" stroke="var(--line)" stroke-width="4"/>
+    <circle cx="15" cy="15" r="${R}" fill="none" stroke="var(--olivo)" stroke-width="4" stroke-linecap="round" stroke-dasharray="${C * p} ${C}" transform="rotate(-90 15 15)"/></svg>
+    <span>${hechos} de ${TOTAL} días</span>`;
+  $('#barra-global').style.width = (100 * p).toFixed(2) + '%';
+}
+let rutaActual = '';
+function pintarNav() {
+  const actual = rutaActual.split('@')[0];
+  const it = (h, t, cl = '') => `<a class="item ${cl} ${actual === h ? 'actual' : ''}" href="#${h}">${t}</a>`;
+  let h = it('inicio', 'Inicio') + it('como-usar', 'Cómo usar el estudio') + it('indice', 'Índice por partes') + it('articulos', 'Artículos');
+  const enIntro = /^art-I/.test(actual) || actual === 'articulos';
+  if (enIntro) h += ARTS.filter(a => a.grupo === 'intro').map(a => it('art-' + a.id, esc(tituloArt(a)), 'sub')).join('');
+  h += '<h4>El plan: 95 días en 10 partes</h4>';
+  const dActual = (actual.match(/^dia-(\d+)$/) || [])[1], pActual = dActual ? (diaPlan(+dActual) || {}).parte : null;
+  const artP = (actual.match(/^art-P(\d+)$/) || [])[1];
+  PARTES.forEach(pt => {
+    const dias = PLAN.filter(p => p.parte === pt.id), hechos = hechosEn(dias);
+    const abierto = pt.id === pActual || (artP && numParte(pt.id) === +artP) || (actual === 'inicio' && dias.some(p => p.dia === siguientePendiente()));
+    const pan = panoramaDe(pt.id);
+    h += `<details class="tol" ${abierto ? 'open' : ''}><summary><span class="t1">${esc(pt.etiqueta)}</span><span class="t2">${esc(pt.titulo)}</span>
+      <span class="t3"><span>Ap ${esc(pt.rango)}</span><span>${hechos}/${dias.length}</span></span><span class="mini-bar"><i style="width:${100 * hechos / dias.length}%"></i></span></summary>` +
+      (pan ? `<a class="dia-l pan ${actual === 'art-' + pan.id ? 'actual' : ''}" href="#art-${pan.id}">Panorama de la parte${artDe(pan.id) ? '' : ' (en preparación)'}</a>` : '') +
+      dias.map(p => `<a class="dia-l ${est.hechos[p.dia] ? 'hecho' : ''} ${actual === 'dia-' + p.dia ? 'actual' : ''} ${D.dias[p.dia] ? '' : 'pend'}" href="#dia-${p.dia}">
+        <span class="n">${p.dia}</span><span>${esc(p.titulo)}</span><span class="r">${esc(p.rango)}</span></a>`).join('') + '</details>';
+  });
+  const temas = ARTS.filter(a => a.grupo === 'tema');
+  if (temas.length) h += '<h4>Temas del Apocalipsis</h4>' + temas.map(a => it('art-' + a.id, esc(tituloArt(a)) + (artDe(a.id) ? '' : ' <small>(en preparación)</small>'))).join('');
+  h += '<h4>Herramientas</h4>' + it('diagramas', 'Diagramas') + it('mapas', 'Mapas') + it('linea', 'Línea de tiempo') + it('simbolos', 'Símbolos y números') +
+    it('palabras', 'Palabras griegas') + it('cristo', 'Cristo en Apocalipsis') + it('buscar', 'Buscar') + it('fuentes', 'Fuentes y créditos');
+  $('#nav').innerHTML = h;
+  const act = $('#nav .actual'); if (act && innerWidth > 820) { const n = $('#nav'); const r = act.getBoundingClientRect(), rn = n.getBoundingClientRect(); if (r.top < rn.top || r.bottom > rn.bottom) n.scrollTop += r.top - rn.top - 120; }
+}
+
+/* ---------- piezas comunes ---------- */
+const textoRVR = ref => D.rvr[ref];
+function versiculoClave(ref, porque) {
+  const vt = textoRVR(ref), g = D.griego_clave[ref];
+  return `<figure class="clave">${vt ? `<blockquote><span class="bib">«${esc(vt)}»</span></blockquote>` : `<p class="sin-texto">El texto bíblico no viene incluido en esta copia: léanlo en su Biblia.</p>`}
+    <cite>Apocalipsis ${esc(ref)}${vt ? ' · RVR1960' : ''}</cite>${porque ? `<p class="porque">${fmt(porque)}</p>` : ''}
+    ${g ? `<details><summary>Ver el texto griego</summary><span class="gr" lang="grc">${esc(g)}</span></details>` : ''}</figure>`;
+}
+const palabraHTML = (w, conDia) => `<div class="palabra">${w.griego ? `<span class="gr" lang="grc">${esc(w.griego)}</span>` : ''}
+  <span class="tr">${esc(w.translit)}</span> <span class="rf">· Ap ${esc(w.ref)}${conDia ? ` · <a href="#dia-${conDia}">día ${conDia}</a>` : ''}</span>
+  ${w.strong ? `<span class="st">Strong ${esc(w.strong)}${w.lema ? ` · <span class="gr" lang="grc">${esc(w.lema)}</span>` : ''}</span>` : ''}<p>${fmt(w.significado)} ${chips(w.fuentes)}</p></div>`;
+const interpHTML = lista => `<p class="sin-partido">Se presentan las posturas de cada autor, sin tomar partido.</p>` + lista.map(i => `<details class="interp"><summary>${fmt(i.tema)}</summary><div class="cuerpo">` +
+  i.posturas.map(q => `<div class="postura"><span class="quien">${fmt(q.quien)}</span><span>${fmt(q.postura)} ${chips(q.fuentes)}</span></div>`).join('') +
+  (i.nota ? `<p style="margin-top:10px;font-size:.92rem">${fmt(i.nota)}</p>` : '') + '</div></details>').join('');
+const conexHTML = lista => `<div class="conex">` + lista.map(k => `<span class="rf">${esc(k.ref)}</span><span>${fmt(k.nota)} ${chips(k.fuentes)}</span>`).join('') + '</div>';
+const simboloHTML = (s, d) => `<div class="simbolo"><span class="sg">${fmt(s.signo)}<small>${esc((s.refs || []).map(r => /^\d/.test(r) ? 'Ap ' + r : r).join(' · '))}${d ? ` · <a href="#dia-${d}">día ${d}</a>` : ''}</small></span><span>${fmt(s.significado)} ${chips(s.fuentes)}</span></div>`;
+
+/* ---------- visuales: mapas y diagramas ---------- */
+const nombreVisual = id => (D.visuales.mapas || {})[id] || (D.diagramas[id] || {}).titulo || (D.visuales.diagramas || {})[id] || id;
+const hrefVisual = id => id.startsWith('mapa-') ? '#' + id : '#' + id;
+function visualHTML(id, completo) {
+  if (id.startsWith('mapa-')) {
+    const m = D.mapa_marco[id]; if (!m) return '';
+    return `<div class="svgcaja">${mapaSVG(m, m === 'asia' ? 'cartas' : null, [])}</div><div class="leyenda">${esc(D.mapas.credito)}</div>`;
+  }
+  const g = D.diagramas[id];
+  if (!g) return `<p class="sin-texto">Este diagrama está en preparación.</p>`;
+  return diagramaHTML(g, completo);
+}
+function visualesPlegables(ids) {
+  return (ids || []).slice(0, 3).map(id => `<details class="visual" data-visual="${esc(id)}"><summary><span class="tipo">${id.startsWith('mapa-') ? 'Mapa' : 'Diagrama'}</span><span>${esc(nombreVisual(id))}</span></summary>
+    <div class="cuerpo" data-pendiente="1"></div></details>`).join('');
+}
+// los visuales plegados se dibujan al abrirlos (la página carga más liviana)
+document.addEventListener('toggle', e => {
+  const d = e.target; if (!(d instanceof HTMLDetailsElement) || !d.matches('details.visual') || !d.open) return;
+  const c = d.querySelector('.cuerpo'); if (!c || !c.dataset.pendiente) return;
+  delete c.dataset.pendiente; const id = d.dataset.visual;
+  c.innerHTML = visualHTML(id, false) + `<a class="ir-completo" href="${hrefVisual(id)}">Abrir en su página completa →</a>`;
+}, true);
+
+function diagramaHTML(g, completo) {
+  let h = g.bajada && !completo ? `<p class="dg-bajada">${fmt(g.bajada)}</p>` : '';
+  if (g.tipo === 'tabla') h += tablaHTML(g);
+  else if (g.tipo === 'lineas') h += lineasHTML(g, completo && g.id === 'dg-cronologia');
+  else if (g.tipo === 'tarjetas') h += `<div class="dg-tarjetas">` + g.tarjetas.map(t => `<div class="dg-tarjeta"><b>${fmt(t.titulo)}</b>${t.ref ? `<span class="ref">Ap ${esc(t.ref)}</span>` : ''}<p>${fmt(t.texto)} ${chips(t.fuentes)}</p></div>`).join('') + '</div>';
+  if (g.nota) h += `<div class="dg-nota">${fmt(g.nota)}</div>`;
+  return h;
+}
+function tablaHTML(g) {
+  return `<div class="tabla-caja"><table class="dg-tabla"><thead><tr>${g.columnas.map(c => `<th scope="col">${fmt(c)}</th>`).join('')}</tr></thead><tbody>` +
+    g.filas.map(f => `<tr>${f.celdas.map((c, i) => `<td data-col="${esc(g.columnas[i] || '')}">${fmt(c)}${i === 0 && f.ref ? `<span class="ref">Ap ${esc(f.ref)}</span>` : ''}${i === f.celdas.length - 1 ? ' ' + chips(f.fuentes) : ''}</td>`).join('')}</tr>`).join('') +
+    '</tbody></table></div>';
+}
+function lineasHTML(g, grande) {
+  const n = g.eje.length;
+  const eje = `<div class="eje">${g.eje.map((e, i) => `<span style="left:${n > 1 ? 100 * i / (n - 1) : 0}%">${esc(e)}</span>`).join('')}</div>`;
+  // arriba, la escala (se desliza de costado en pantallas chicas); abajo, cada postura con quién la sostiene y su leyenda
+  const filas = g.carriles.map(c => {
+    const segs = (c.segmentos || []).map(s => `<div class="seg c-${esc(s.clase || 'a')}" style="left:${s.desde}%;width:${Math.max(.6, s.hasta - s.desde)}%" title="${esc(s.etiqueta)}"><span>${esc(s.etiqueta)}</span></div>`).join('');
+    const marcas = (c.marcas || []).map((m, k) => `<div class="marca-l" style="left:${m.en}%" title="${esc(m.etiqueta)}"><i>${k + 1}</i></div>`).join('');
+    return `<div class="fila-l"><span class="nom">${esc(c.nombre)}</span><div class="pista-l">${segs}${marcas}</div></div>`;
+  }).join('');
+  const ley = g.carriles.map(c => {
+    const l = (c.segmentos || []).map(s => `<li><span class="sw c-${esc(s.clase || 'a')}"></span>${esc(s.etiqueta)}</li>`).join('') +
+      (c.marcas || []).map((m, k) => `<li><span class="num">${k + 1}</span>${fmt(m.etiqueta)}</li>`).join('');
+    return `<div class="carril"><div class="carril-cab"><b>${fmt(c.nombre)}</b>${c.quien ? `<small>${fmt(c.quien)} ${chips(c.fuentes)}</small>` : chips(c.fuentes)}</div><ul class="leyenda-l" style="margin-top:6px">${l}</ul></div>`;
+  }).join('');
+  return `<div class="lineas-caja"><div class="lineas ${grande ? 'grande' : ''}">${eje}${filas}</div></div><div class="carriles-ley">${ley}</div>`;
+}
+
+/* ---------- mapas ---------- */
+const lugar = id => D.mapas.lugares.find(l => l.id === id);
+function marcoPara(ids) {
+  const ls = ids.map(lugar).filter(Boolean);
+  for (const m of ['asia', 'santa', 'mediterraneo']) if (ls.length && ls.every(l => l[m])) return m;
+  return 'mediterraneo';
+}
+function mapaSVG(marco, recorrido, resaltar, mini) {
+  const M = D.mapas.marcos[marco]; if (!M) return '';
+  const set = new Set(resaltar || []);
+  let pasos = [];
+  if (recorrido && D.mapas.recorridos[recorrido]) pasos = D.mapas.recorridos[recorrido].pasos.map(s => ({ ...s, l: lugar(s.lugar) })).filter(s => s.l && s.l[marco]);
+  const enRuta = new Set(pasos.map(s => s.lugar));
+  const visibles = D.mapas.lugares.filter(l => l[marco] && (mini ? set.has(l.id) : true));
+  // encuadre: se acerca a los lugares (en el mini mapa, a los del día; en el mapa completo, a todos los del marco)
+  let vb = [0, 0, M.W, M.H];
+  const enc = visibles.filter(l => mini || l.tipo !== 'region');
+  if (enc.length) {
+    const xs = enc.map(l => l[marco][0]), ys = enc.map(l => l[marco][1]);
+    const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+    const minW = M.W * (mini ? .45 : .5), cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+    let w = Math.max(minW, (x1 - x0) * (mini ? 1.5 : 1.3)), h = Math.max(w * .75, (y1 - y0) * (mini ? 1.5 : 1.25)); w = Math.max(w, h / .9);
+    w = Math.min(w, M.W); h = Math.min(h, M.H);
+    vb = [Math.max(0, Math.min(M.W - w, cx - w / 2)), Math.max(0, Math.min(M.H - h, cy - h / 2)), w, h];
+  }
+  const k = vb[2] / M.W, fs = mini ? vb[2] / 260 * 11 : vb[2] / 700 * 13, rr = fs * .38;
+  const ruta = pasos.length > 1 ? `<polyline points="${pasos.map(s => s.l[marco].join(',')).join(' ')}" fill="none" stroke="var(--cornalina)" stroke-width="${fs * .16}" stroke-dasharray="${fs * .5} ${fs * .35}" stroke-linejoin="round" stroke-linecap="round"/>` : '';
+  const cajas = [], choca = b => cajas.some(c => b[0] < c[2] && b[2] > c[0] && b[1] < c[3] && b[3] > c[1]);
+  const orden = visibles.slice().sort((a, b) => (set.has(b.id) || enRuta.has(b.id)) - (set.has(a.id) || enRuta.has(a.id)) || (a.tipo === 'region') - (b.tipo === 'region'));
+  const puntos = [], textos = [];
+  orden.forEach(l => {
+    const [x, y] = l[marco]; const dest = set.has(l.id) || enRuta.has(l.id);
+    if (l.tipo === 'region') {
+      const w = l.nombre.length * fs * .5, b = [x - w / 2, y - fs, x + w / 2, y + 2];
+      if (!choca(b)) { cajas.push(b); textos.push(`<text x="${x}" y="${y}" text-anchor="middle" font-size="${fs * 1.05}" font-style="italic" fill="var(--muted)" font-family="var(--f-display)">${esc(l.nombre)}</text>`); }
+      return;
+    }
+    const r = dest ? rr * 1.5 : rr;
+    const n = enRuta.has(l.id) ? pasos.findIndex(s => s.lugar === l.id) + 1 : 0;
+    puntos.push(`<g class="lugar" data-id="${l.id}" data-marco="${marco}" style="cursor:pointer"><title>${esc(l.nombre)}</title><circle cx="${x}" cy="${y}" r="${r}" fill="${dest ? 'var(--oro)' : 'var(--ink)'}" stroke="var(--surface)" stroke-width="${r * .35}" ${l.certeza === 'baja' || l.certeza === 'media' ? `stroke-dasharray="${r * .5} ${r * .5}"` : ''}/></g>`);
+    const nombre = (n ? n + '. ' : '') + l.nombre, w = nombre.length * fs * .52;
+    for (const [dx, anc] of [[r + fs * .35, 'start'], [-(r + fs * .35), 'end']]) {
+      const bx = anc === 'start' ? [x + dx, y - fs * .8, x + dx + w, y + fs * .3] : [x + dx - w, y - fs * .8, x + dx, y + fs * .3];
+      if (bx[0] < vb[0] || bx[2] > vb[0] + vb[2]) continue;
+      if (!choca(bx)) { cajas.push(bx); textos.push(`<text x="${x + dx}" y="${y + fs * .33}" text-anchor="${anc}" font-size="${fs}" font-family="var(--f-ui)" font-weight="${dest ? 600 : 400}" fill="var(--ink)" paint-order="stroke" stroke="var(--surface)" stroke-width="${fs * .22}">${esc(nombre)}</text>`); break; }
+    }
+  });
+  const rios = Object.entries(M.rios || {}).map(([nm, v]) => `<path d="${v}" fill="none" stroke="var(--egeo)" stroke-width="${1.6 * Math.max(k, .5)}" opacity=".75"><title>${esc(nm)}</title></path>`).join('');
+  return `<svg class="${mini ? '' : 'mapa-g'}" viewBox="${vb.map(v => (+v).toFixed(1)).join(' ')}" role="img" aria-label="Mapa: ${esc(nombreVisual('mapa-' + marco))}">
+    <rect x="${vb[0]}" y="${vb[1]}" width="${vb[2]}" height="${vb[3]}" fill="var(--egeo-soft)"/>
+    <path d="${M.tierra}" fill="var(--surface-2)" stroke="var(--line)" stroke-width="${Math.max(k, .5)}"/>
+    ${M.lagos ? `<path d="${M.lagos}" fill="var(--egeo-soft)" stroke="var(--egeo)" stroke-width="${.8 * Math.max(k, .5)}"/>` : ''}${rios}${ruta}${puntos.join('')}${textos.join('')}</svg>`;
+}
+const diasDeLugar = id => Object.entries(D.lugares_dia).filter(([d, ids]) => ids.includes(id)).map(([d]) => +d);
+let mapaSel = { marco: 'asia', ruta: true };
+function vistaMapas(id) {
+  if (id && D.mapa_marco[id]) mapaSel.marco = D.mapa_marco[id];
+  const m = mapaSel.marco, conRuta = m === 'asia' && mapaSel.ruta;
+  const lugares = D.mapas.lugares.filter(l => l[m] && l.tipo !== 'region');
+  return `<div class="hoja ancha"><span class="ojo"><a href="#mapas">Herramientas · Mapas</a></span><h1 class="titulo">${esc(nombreVisual('mapa-' + m))}</h1>
+    <div class="mapa-tabs" role="group" aria-label="Mapa">${Object.entries(D.mapa_marco).map(([k, v]) => `<a class="btn" href="#${k}" aria-pressed="${m === v}">${esc((D.visuales.mapas || {})[k] || k)}</a>`).join('')}</div>
+    ${m === 'asia' ? `<div class="mapa-tabs"><button class="btn" id="ruta-btn" aria-pressed="${conRuta}">${esc(D.mapas.recorridos.cartas.nombre)}</button></div>` : ''}
+    <div class="svgcaja" id="mapa-caja">${mapaSVG(m, conRuta ? 'cartas' : null, [])}</div>
+    <div class="leyenda">${conRuta ? 'Línea punteada: el orden de las cartas, que sigue el camino de un mensajero desde Éfeso. ' : ''}Punto con borde cortado: ubicación aproximada o discutida. Tocando un lugar se ve su ficha. ${esc(D.mapas.credito)}</div>
+    <div class="panel ficha-lugar" id="ficha" hidden></div>
+    <h2>Los lugares de este mapa</h2><table class="tabla"><thead><tr><th>Lugar</th><th>Nota</th><th>Días</th></tr></thead><tbody>
+    ${lugares.map(l => { const ds = diasDeLugar(l.id); return `<tr><td><b>${esc(l.nombre)}</b></td><td>${fmt(l.nota)}</td><td>${ds.map(d => `<a href="#dia-${d}">${d}</a>`).join(', ') || '—'}</td></tr>`; }).join('')}</tbody></table></div>`;
+}
+document.addEventListener('click', e => {
+  if (e.target.closest('#ruta-btn')) { mapaSel.ruta = !mapaSel.ruta; render(true); return; }
+  const g = e.target.closest('.lugar'); const f = $('#ficha');
+  if (g && f) {
+    const l = lugar(g.dataset.id), ds = diasDeLugar(l.id);
+    f.hidden = false; f.innerHTML = `<b style="font:600 1.2rem var(--f-display)">${esc(l.nombre)}</b><p style="margin:4px 0">${fmt(l.nota || '')}</p>
+      <div class="estado">Certeza de la ubicación: ${esc({ alta: 'alta', media: 'media', baja: 'baja', region: 'región aproximada' }[l.certeza] || l.certeza)}</div>
+      ${ds.length ? `<div style="margin-top:6px;font:500 .86rem var(--f-ui)">Se nombra en: ${ds.map(d => `<a href="#dia-${d}">día ${d}</a>`).join(', ')}</div>` : ''}`;
+    f.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  }
+});
+function vistaListaMapas() { return vistaMapas('mapa-asia'); }
+
+/* ---------- inicio e índice ---------- */
+function barraGlobal() {
+  const h = Object.keys(est.hechos).length;
+  return `<div class="barra-global"><div class="pista"><i style="width:${(100 * h / TOTAL).toFixed(1)}%"></i></div><small>${h} de ${TOTAL} días leídos (${Math.round(100 * h / TOTAL)} %)</small></div>`;
+}
+function tarjetaParte(pt) {
+  const ds = PLAN.filter(x => x.parte === pt.id), h = hechosEn(ds);
+  return `<a class="parte" href="#dia-${(ds.find(x => !est.hechos[x.dia]) || ds[0]).dia}"><small>${esc(pt.etiqueta)} · Ap ${esc(pt.rango)}</small><b>${esc(pt.titulo)}</b>
+    <div class="bar"><i style="width:${100 * h / ds.length}%"></i></div><small>${h} de ${ds.length} días</small></a>`;
+}
+function vistaInicio() {
+  const u = est.ultimo && est.ultimo.h && /^dia-\d+$/.test(est.ultimo.h) && !est.hechos[+est.ultimo.h.slice(4)] ? est.ultimo : null;
+  const d = u ? +u.h.slice(4) : siguientePendiente(), p = diaPlan(d), hechos = Object.keys(est.hechos).length;
+  const bl = u && u.b ? (bloquesDia(d).find(([k]) => k === u.b) || [])[1] : '';
+  const fr = fraccionDia(d);
+  return `<div class="hoja ancha">
+    <section class="heroe"><div><h1>Apocalipsis</h1><span class="gr" lang="grc">Ἀποκάλυψις Ἰησοῦ Χριστοῦ</span>
+      <p>Un estudio para leer de a dos el último libro de la Biblia en ${TOTAL} días, de veinte a treinta minutos cada uno. Todo sale de los comentarios y libros de su biblioteca, con la fuente de cada afirmación; donde los autores difieren, se muestran las posturas sin tomar partido.</p></div>
+      <div class="hoy"><span class="ojo">${u ? 'Continuar donde dejaron' : hechos ? 'Siguen con' : 'Para empezar'} · Día ${d} de ${TOTAL}</span><h2>${esc(p.titulo)}</h2>
+        <div class="meta"><span>Apocalipsis ${esc(p.rango)}</span><span>${p.versiculos} versículo${p.versiculos > 1 ? 's' : ''}</span>${fr > 0 && fr < 1 ? `<span>${Math.round(100 * fr)} % leído</span>` : ''}</div>
+        ${bl ? `<div class="meta" style="margin-top:4px"><span>Iban por: ${esc(bl)}</span></div>` : ''}
+        <div class="acciones"><a class="btn prim" href="#dia-${d}${u && u.b ? '@' + u.b : ''}">${u ? 'Continuar' : 'Abrir el día ' + d}</a>${hechos ? '' : '<a class="btn" href="#art-I1">Leer antes la introducción</a>'}</div>
+        ${barraGlobal()}</div></section>
+    <h2>Las diez partes del libro</h2><div class="partes">${PARTES.map(tarjetaParte).join('')}</div>
+    <h2>Antes de empezar</h2><div class="grilla-h">${ARTS.filter(a => a.grupo === 'intro').map(a => `<a href="#art-${a.id}"><div class="panel"><b>${esc(tituloArt(a))}</b><small>${fmt((artDe(a.id) || {}).bajada || 'En preparación.')}</small></div></a>`).join('')}</div>
+    <h2>Los grandes temas</h2><div class="grilla-h temas">${ARTS.filter(a => a.grupo === 'tema').map(a => `<a href="#art-${a.id}"><div class="panel"><b>${esc(tituloArt(a))}</b><small>${fmt((artDe(a.id) || {}).bajada || 'En preparación.')}</small></div></a>`).join('')}</div>
+    <h2>Para acompañar la lectura</h2><div class="grilla-h">
+      <a href="#diagramas"><div class="panel"><b>Diagramas</b><small>Estructura, septenarios, cartas, escuelas, milenio, tribulación y más.</small></div></a>
+      <a href="#mapas"><div class="panel"><b>Mapas</b><small>Las siete iglesias, Patmos, el Mediterráneo y Tierra Santa.</small></div></a>
+      <a href="#linea"><div class="panel"><b>Línea de tiempo</b><small>De Nerón a Domiciano: cuándo y en qué situación se escribió.</small></div></a>
+      <a href="#simbolos"><div class="panel"><b>Símbolos y números</b><small>Qué significa cada signo según las fuentes.</small></div></a>
+      <a href="#palabras"><div class="panel"><b>Palabras griegas</b><small>Las que comentan las fuentes, con su número de Strong.</small></div></a>
+      <a href="#cristo"><div class="panel"><b>Cristo en Apocalipsis</b><small>Cómo se lo ve en cada pasaje.</small></div></a>
+    </div>
+    <section class="copia panel"><div><b>Sus notas y su avance</b><p>Se guardan en el navegador de esta compu o este teléfono. Si se borran los datos del navegador se pierden, así que bajen una copia de vez en cuando (también sirve para pasarlos a otro aparato).</p></div>
+      <div class="acciones"><button class="btn" id="bajar-copia">Descargar copia</button><button class="btn" id="cargar-copia-btn">Cargar copia</button>
+      <input type="file" id="cargar-copia" accept=".json,application/json" hidden></div><div class="estado" id="estado-copia"></div></section></div>`;
+}
+function vistaIndice() {
+  return `<div class="hoja ancha"><span class="ojo">El plan</span><h1 class="titulo">Índice por partes</h1>${barraGlobal()}` +
+    PARTES.map(pt => {
+      const ds = PLAN.filter(x => x.parte === pt.id), h = hechosEn(ds), pan = panoramaDe(pt.id);
+      return `<section class="indice-parte"><div class="cab-p"><h2>${esc(pt.etiqueta)}: ${esc(pt.titulo)}</h2><span class="estado">Ap ${esc(pt.rango)} · ${h} de ${ds.length} días</span></div>
+        <div class="mini-bar" style="height:6px"><i style="width:${100 * h / ds.length}%"></i></div>
+        ${pan ? `<div class="en-plan"><a class="btn" href="#art-${pan.id}">Panorama de la parte${artDe(pan.id) ? '' : ' (en preparación)'}</a></div>` : ''}
+        <div class="dias-grid">${ds.map(p => { const fr = fraccionDia(p.dia);
+          return `<a class="dia-l ${est.hechos[p.dia] ? 'hecho' : ''}" href="#dia-${p.dia}"><span class="n">${p.dia}</span><span>${esc(p.titulo)}${fr > 0 && fr < 1 ? `<br><span class="sec">${Math.round(100 * fr)} % leído</span>` : ''}</span><span class="r">${esc(p.rango)}</span></a>`; }).join('')}</div></section>`;
+    }).join('') + '</div>';
+}
+
+/* ---------- día ---------- */
+function bloqueNotas(d) {
+  return `<section class="notas-p"><h2>Sus notas del día</h2><textarea id="notas-dia" data-dia="${d}" placeholder="Lo que aprendieron, lo que conversaron, por qué van a orar…">${esc(est.notas[d] || '')}</textarea>
+    <div class="notas-print">${esc(est.notas[d] || '')}</div><div class="estado" id="estado-notas">Se guarda en este navegador.</div></section>`;
+}
+const cab = (nivel, k, titulo, extra = '') => `<div class="cab"><h${nivel}>${extra}${titulo}</h${nivel}><button class="leida" data-bloque="${k}" aria-pressed="false" aria-label="Marcar como leída" title="Marcar como leída">✓</button></div>`;
+const finBloque = k => `<span class="fin-bloque" data-bloque="${k}"></span>`;
+function vistaDia(d) {
+  const p = diaPlan(d); if (!p) return vistaInicio();
+  const x = D.dias[d], pt = parteDe(p.parte);
+  const ant = diaPlan(d - 1), sig = diaPlan(d + 1);
+  const pan = panoramaDe(p.parte);
+  const empiezaParte = pan && (!ant || ant.parte !== p.parte);
+  let h = `<article class="hoja">${empiezaParte ? `<div class="aviso-parte"><span>Empieza la <b>${esc(pt.etiqueta)}: ${esc(pt.titulo)}</b>. Antes de leer, conviene mirar el panorama.</span><a class="btn" href="#art-${pan.id}">Ver el panorama →</a></div>` : ''}
+    <span class="ojo"><a href="#indice">${esc(pt.etiqueta)} · ${esc(pt.titulo)}</a> · Día ${d} de ${TOTAL}</span>
+    <h1 class="titulo">${esc(x ? x.titulo : p.titulo)}</h1>
+    <div class="meta"><span>Apocalipsis ${esc(p.rango)}</span><span>${p.versiculos} versículo${p.versiculos > 1 ? 's' : ''}</span>${x && x.minutos ? `<span>≈ ${x.minutos.lectura} min de lectura + ${x.minutos.estudio} de estudio</span>` : ''}</div>
+    <div class="acciones"><a class="btn" href="https://www.biblegateway.com/passage/?search=${encodeURIComponent('Apocalipsis ' + p.rango)}&version=RVR1960" target="_blank" rel="noopener">Leer el pasaje en línea ↗</a>
+      <button class="btn" id="hecho-btn"></button><button class="btn" id="imprimir-btn">Imprimir</button></div>`;
+  if (!x) {
+    return h + `<div class="panel pend-msg"><p><b>Este día está en preparación.</b> Mientras tanto pueden leer el pasaje en su Biblia y usar los diagramas y mapas.</p></div>` + bloqueNotas(d) + pieDia(ant, sig) + '</article>';
+  }
+  h += `<div class="prog-dia" id="prog-dia"></div>`;
+  const c = x.contexto;
+  h += `<section class="bloque" id="b-contexto">${cab(2, 'contexto', 'Dónde estamos')}<div class="contexto panel"><div><span class="et">Antes</span><p>${fmt(c.antes)}</p></div><div class="ahora"><span class="et">Ahora</span><p>${fmt(c.ahora)}</p></div><div><span class="et">Después</span><p>${fmt(c.despues)}</p></div></div>
+    <div class="donde-cuando"><div class="panel"><span class="ojo">Dónde</span><br>${fmt(c.donde)}</div><div class="panel"><span class="ojo">Cuándo</span><br>${fmt(c.cuando)} ${chips(c.fuentes)}</div></div>
+    ${versiculoClave(x.versiculo_clave.ref, x.versiculo_clave.porque)}${finBloque('contexto')}</section>`;
+  h += `<section class="bloque" id="b-panorama">${cab(2, 'panorama', 'El pasaje de un vistazo')}${parr(x.panorama.texto)}${chips(x.panorama.fuentes)}${finBloque('panorama')}</section>`;
+  if ((x.visuales || []).length) h += `<section class="bloque" id="b-visuales"><h2>Para verlo</h2>${visualesPlegables(x.visuales)}</section>`;
+  h += `<h2>Versículo por versículo</h2>` + x.secciones.map((s, i) => `<section class="bloque" id="b-s${i}">${cab(3, 's' + i, fmt(s.titulo), `<span class="rango">${esc(s.rango)}</span>`)}` +
+    s.notas.map(n => `<p class="nota">${fmt(n.texto)} ${chips(n.fuentes)}</p>`).join('') + finBloque('s' + i) + '</section>').join('');
+  if ((x.simbolos || []).length) h += `<section class="bloque" id="b-simbolos">${cab(2, 'simbolos', 'Símbolos del pasaje')}<div class="simbolos">${x.simbolos.map(s => simboloHTML(s)).join('')}</div>${finBloque('simbolos')}</section>`;
+  if ((x.palabras || []).length) h += `<section class="bloque" id="b-palabras">${cab(2, 'palabras', 'Palabras griegas')}<div class="palabras">${x.palabras.map(w => palabraHTML(w)).join('')}</div>${finBloque('palabras')}</section>`;
+  if ((x.cristo || []).length) h += `<section class="bloque" id="b-cristo">${cab(2, 'cristo', 'Cristo en el pasaje')}` + x.cristo.map(k => `<div class="cristo"><p>${fmt(k.texto)} ${chips(k.fuentes)}</p>${k.refs && k.refs.length ? `<span class="refs">${esc(k.refs.join(' · '))}</span>` : ''}</div>`).join('') + finBloque('cristo') + '</section>';
+  if ((x.interpretaciones || []).length) h += `<section class="bloque" id="b-interp">${cab(2, 'interp', 'Preguntas difíciles e interpretaciones')}${interpHTML(x.interpretaciones)}${finBloque('interp')}</section>`;
+  if ((x.biblioteca || []).length) h += `<section class="bloque" id="b-biblio">${cab(2, 'biblio', 'Desde la biblioteca')}<div class="biblio">` + x.biblioteca.map(b => `<div class="panel"><span class="autor">${esc(b.autor)} · ${esc(b.obra)}${b.pagina ? ' · ' + esc(/^p/i.test(b.pagina) ? b.pagina : 'pág. ' + b.pagina) : ''}</span>${fmt(b.texto)} ${chips(b.fuentes)}</div>`).join('') + `</div>${finBloque('biblio')}</section>`;
+  if ((x.conexiones || []).length) h += `<section class="bloque" id="b-conex">${cab(2, 'conex', 'Conexiones con el resto de la Biblia')}${conexHTML(x.conexiones)}${finBloque('conex')}</section>`;
+  h += `<section class="bloque vida" id="b-vida">${cab(2, 'vida', 'Para la vida de ustedes')}<ul>${(x.para_vivir || []).map(v => `<li>${fmt(v.texto)} ${chips(v.fuentes)}</li>`).join('')}</ul>
+    <h3>Para conversar</h3><ol>${(x.para_conversar || []).map(q => `<li>${fmt(q)}</li>`).join('')}</ol>
+    <h3>Para orar</h3><p class="orar">${fmt(x.para_orar)}</p>${finBloque('vida')}</section>`;
+  if ((x.profundizar || []).length) h += `<details class="prof"><summary>Para profundizar (optativo)</summary>` + x.profundizar.map(f => `<h3>${fmt(f.titulo)}</h3><p>${fmt(f.texto)} ${chips(f.fuentes)}</p>`).join('') + '</details>';
+  if ((x.anexos || []).length) h += `<h2>Para seguir leyendo</h2><div class="anexos">${x.anexos.map(id => { const a = ARTS.find(y => y.id === id); if (!a) return '';
+    return `<a href="#art-${id}" class="${artDe(id) ? '' : 'pend'}"><small>${GRUPO[a.grupo] || ''}${artDe(id) ? '' : ' · en preparación'}</small><b>${esc(tituloArt(a))}</b></a>`; }).join('')}</div>`;
+  h += bloqueNotas(d) + pieDia(ant, sig) + '</article>';
+  return h;
+}
+const pieDia = (ant, sig) => `<nav class="pie-dia" aria-label="Días">${ant ? `<a class="btn" href="#dia-${ant.dia}">← Día ${ant.dia}</a>` : '<span></span>'}${sig ? `<a class="btn" href="#dia-${sig.dia}">Día ${sig.dia} →</a>` : `<a class="btn prim" href="#indice">Ver el índice</a>`}</nav>`;
+function ladoDia(d) {
+  const p = diaPlan(d), x = D.dias[d]; if (!p) return '';
+  let h = '';
+  if (x) h += `<div class="tarjeta toc" id="toc-dia"><h5>En este día</h5>${bloquesDia(d).map(([k, t]) => `<a href="#dia-${d}" data-ir="b-${k}" data-k="${k}"><span class="ck">✓</span><span>${fmt(t)}</span></a>`).join('')}</div>`;
+  const lugares = (D.lugares_dia[d] || []).filter(id => lugar(id));
+  if (lugares.length) { const m = marcoPara(lugares);
+    h += `<div class="tarjeta mini-mapa"><h5>Dónde</h5>${mapaSVG(m, null, lugares.filter(id => lugar(id)[m]), true)}<div class="leyenda">${lugares.map(id => esc(lugar(id).nombre)).join(' · ')} · <a href="#mapa-${m}">abrir el mapa</a></div></div>`; }
+  if (x && (x.palabras || []).length) h += `<div class="tarjeta"><h5>Palabras del día</h5>${x.palabras.slice(0, 8).map(w => `<div style="display:flex;justify-content:space-between;gap:8px;padding:3px 0"><span>${esc(w.translit)}</span><span class="gr" lang="grc" style="color:var(--lapis)">${esc(w.griego)}</span></div>`).join('')}</div>`;
+  const ds = PLAN.filter(y => y.parte === p.parte), hh = hechosEn(ds), pt = parteDe(p.parte);
+  h += `<div class="tarjeta"><h5>${esc(pt.etiqueta)}</h5><div>${esc(pt.titulo)}: ${hh} de ${ds.length} días leídos.</div><div class="mini-bar" style="height:6px;margin-top:8px"><i style="width:${100 * hh / ds.length}%"></i></div>
+    <div style="margin-top:10px">En total: ${Object.keys(est.hechos).length} de ${TOTAL} días.</div></div>`;
+  return h;
+}
+function actualizarDia(d) {
+  const b = bloquesDia(d), l = leidasDe(d), n = b.filter(([k]) => l[k]).length, hecho = !!est.hechos[d];
+  const pd = $('#prog-dia');
+  if (pd) pd.innerHTML = `<span>${hecho ? 'Día leído' : `Leyeron ${n} de ${b.length} secciones`}</span><span class="pista"><i style="width:${hecho ? 100 : 100 * n / b.length}%"></i></span>` +
+    (!hecho && n === b.length ? `<button id="hecho-prog">Marcar el día como leído</button>` : '');
+  $$('.leida').forEach(btn => btn.setAttribute('aria-pressed', l[btn.dataset.bloque] ? 'true' : 'false'));
+  $$('#toc-dia a').forEach(a => a.classList.toggle('ok', !!l[a.dataset.k]));
+  const hb = $('#hecho-btn'); if (hb) { hb.textContent = hecho ? '✓ Día leído' : 'Marcar el día como leído'; hb.className = 'btn ' + (hecho ? 'oro' : 'prim'); }
+}
+function marcarBloque(d, k, valor) {
+  const l = est.leidas[d] = est.leidas[d] || {};
+  if (valor) l[k] = 1; else delete l[k];
+  guardar(); actualizarDia(d);
+}
+function alternarHecho(d) {
+  if (est.hechos[d]) delete est.hechos[d];
+  else { est.hechos[d] = new Date().toISOString().slice(0, 10); const l = est.leidas[d] = est.leidas[d] || {}; bloquesDia(d).forEach(([k]) => { l[k] = 1; }); }
+  guardar(); actualizarDia(d); pintarNav(); pintarProgreso();
+  const lado = $('#lado'); if (lado && rutaActual.startsWith('dia-')) { lado.innerHTML = ladoDia(d); actualizarDia(d); }
+}
+let observador = null, scrolleo = false, diaVisto = 0;
+function vigilarLectura(d) {
+  if (observador) observador.disconnect();
+  scrolleo = false; diaVisto = d;
+  if (!('IntersectionObserver' in window)) return;
+  // una sección cuenta como leída cuando, después de haber bajado, aparece su final en pantalla
+  observador = new IntersectionObserver(ents => {
+    if (!scrolleo) return;
+    ents.forEach(en => { if (en.isIntersecting && !leidasDe(d)[en.target.dataset.bloque]) marcarBloque(d, en.target.dataset.bloque, true); });
+  }, { rootMargin: '0px 0px -15% 0px' });
+  $$('.fin-bloque').forEach(s => observador.observe(s));
+}
+let tUltimo = 0;
+addEventListener('scroll', () => {
+  if (!scrolleo && scrollY > 40) { scrolleo = true; if (observador) { $$('.fin-bloque').forEach(s => { observador.unobserve(s); observador.observe(s); }); } }
+  if (!diaVisto || Date.now() - tUltimo < 400) return;
+  tUltimo = Date.now();
+  let actual = null;
+  $$('.bloque[id^="b-"]').forEach(s => { if (s.getBoundingClientRect().top < 160) actual = s.id.slice(2); });
+  est.ultimo = { h: 'dia-' + diaVisto, b: actual && actual !== 'visuales' ? actual : null, f: new Date().toISOString().slice(0, 10) }; guardar();
+}, { passive: true });
+document.addEventListener('click', e => {
+  const b = e.target.closest('.leida');
+  if (b && diaVisto) { marcarBloque(diaVisto, b.dataset.bloque, b.getAttribute('aria-pressed') !== 'true'); return; }
+  if (e.target.closest('#hecho-btn, #hecho-prog') && diaVisto) alternarHecho(diaVisto);
+  if (e.target.closest('#imprimir-btn')) window.print();
+  const a = e.target.closest('[data-ir]');
+  if (a) { e.preventDefault(); const el = document.getElementById(a.dataset.ir); if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' }); document.body.classList.remove('nav-abierta'); }
+});
+
+/* ---------- artículos ---------- */
+const ORDEN_ARTS = ['intro', 'panorama', 'tema'].flatMap(g => ARTS.filter(a => a.grupo === g));
+function indiceArts(grupo) {
+  return '<div class="indice-arts">' + ARTS.filter(a => a.grupo === grupo).map((a, i) => { const x = artDe(a.id);
+    const num = grupo === 'panorama' ? a.id.slice(1) : i + 1, sub = `${grupo === 'intro' ? '' : 'Ap ' + esc(a.rango) + ' · '}${x ? fmt(x.bajada) : 'En preparación.'}`;
+    return x ? `<a href="#art-${a.id}"><span class="num">${num}</span><b>${esc(tituloArt(a))}</b><small>${sub}</small></a>`
+      : `<div class="pend"><span class="num">${num}</span><b>${esc(tituloArt(a))}</b><small>${sub}</small></div>`; }).join('') + '</div>';
+}
+function vistaArticulos() {
+  const n = Object.keys(D.articulos).length;
+  return `<div class="hoja"><span class="ojo">Artículos</span><h1 class="titulo">Artículos del estudio</h1>
+    <p class="bajada">Para leer antes de empezar, al comienzo de cada parte o cuando quieran estudiar un tema a fondo (${n} de ${ARTS.length} disponibles).</p>
+    <h2>Introducción al libro</h2>${indiceArts('intro')}<h2>El panorama de cada parte</h2>${indiceArts('panorama')}<h2>Los grandes temas</h2>${indiceArts('tema')}</div>`;
+}
+const palabrasDe = o => { let n = 0; JSON.stringify(o, (k, v) => { if (typeof v === 'string' && k !== 'fuentes') n += v.split(/\s+/).length; return v; }); return n; };
+function diasDeArticulo(id) {
+  const x = artDe(id) || {}, s = new Set(x.dias_relacionados || []);
+  Object.values(D.dias).forEach(dd => { if ((dd.anexos || []).includes(id)) s.add(dd.dia); });
+  return [...s].filter(d => diaPlan(d)).sort((a, b) => a - b);
+}
+function vistaArticulo(id) {
+  const a = ARTS.find(x => x.id === id); if (!a) return vistaArticulos();
+  const x = artDe(id), grupo = ARTS.filter(y => y.grupo === a.grupo), i = grupo.indexOf(a);
+  const ojo = { intro: `Introducción · ${i + 1} de ${grupo.length}`, panorama: `Panorama · Apocalipsis ${a.rango}`, tema: `Temas del Apocalipsis · ${i + 1} de ${grupo.length}` }[a.grupo];
+  const k = ORDEN_ARTS.indexOf(a), ant = ORDEN_ARTS[k - 1], sig = ORDEN_ARTS[k + 1];
+  const pie = `<nav class="pie-dia">${ant ? `<a class="btn" href="#art-${ant.id}">← ${esc(tituloArt(ant))}</a>` : `<a class="btn" href="#articulos">← Artículos</a>`}
+    ${a.grupo === 'panorama' ? `<a class="btn prim" href="#dia-${PLAN.find(p => numParte(p.parte) === +a.id.slice(1)).dia}">Empezar la parte →</a>` : sig ? `<a class="btn" href="#art-${sig.id}">${esc(tituloArt(sig))} →</a>` : ''}</nav>`;
+  let h = `<article class="hoja"><span class="ojo"><a href="#articulos">${esc(ojo)}</a></span><h1 class="titulo">${esc(tituloArt(a))}</h1>`;
+  if (!x) return h + `<div class="panel pend-msg"><p><b>Este artículo está en preparación.</b> Se escribe con el material de la biblioteca, como los días; aparecerá acá cuando esté listo.</p></div>` + pie + '</article>';
+  h += `<p class="bajada">${fmt(x.bajada)}</p><div class="meta"><span>≈ ${Math.max(3, Math.round(palabrasDe({ e: x.entrada, a: x.apartados }) / 200))} min de lectura</span></div>`;
+  h += `<div class="entrada" style="margin-top:18px">${parr(x.entrada.texto)}${chips(x.entrada.fuentes)}</div>`;
+  if (a.grupo === 'panorama') {
+    const ds = PLAN.filter(p => numParte(p.parte) === +a.id.slice(1));
+    h += `<div class="panel" style="margin:18px 0;padding:10px 8px"><span class="ojo" style="padding:0 8px">Los ${ds.length} días de esta parte</span>` +
+      ds.map(p => `<a class="dia-l ${est.hechos[p.dia] ? 'hecho' : ''}" href="#dia-${p.dia}"><span class="n">${p.dia}</span><span>${esc(p.titulo)}</span><span class="r">${esc(p.rango)}</span></a>`).join('') + '</div>';
+  }
+  const cita = c => `<figure class="cita"><blockquote>“${fmt(String(c.texto).replace(/^[“"]|[”"]$/g, ''))}”</blockquote><figcaption>${esc(c.autor)}, <i>${esc(c.obra)}</i>${c.pagina ? ', ' + esc(c.pagina) : ''} ${chips(c.fuentes)}</figcaption></figure>`;
+  const vers = (x.versiculos || []).slice(), citas = (x.citas || []).slice();
+  if (vers.length) h += versiculoClave(vers[0].ref, vers.shift().porque);
+  x.apartados.forEach((s, j) => {
+    h += `<h2 id="ap-${j}">${fmt(s.titulo)}</h2>` + s.parrafos.map(q => `<p class="nota">${fmt(q.texto)} ${chips(q.fuentes)}</p>`).join('');
+    if (j === x.apartados.length - 1) return;
+    if (j % 2 === 0 ? vers.length : !citas.length && vers.length) { const v = vers.shift(); h += versiculoClave(v.ref, v.porque); }
+    else if (citas.length) h += cita(citas.shift());
+  });
+  vers.forEach(v => { h += versiculoClave(v.ref, v.porque); }); citas.forEach(c => { h += cita(c); });
+  if ((x.visuales || []).length) h += `<h2>Para verlo</h2>${visualesPlegables(x.visuales)}`;
+  if ((x.palabras || []).length) h += `<h2>Palabras griegas</h2><div class="palabras">${x.palabras.map(w => palabraHTML(w)).join('')}</div>`;
+  if ((x.interpretaciones || []).length) h += `<h2>Preguntas difíciles e interpretaciones</h2>${interpHTML(x.interpretaciones)}`;
+  if ((x.conexiones || []).length) h += `<h2>Conexiones con el resto de la Biblia</h2>${conexHTML(x.conexiones)}`;
+  if ((x.para_vivir || []).length || (x.para_conversar || []).length) {
+    h += `<section class="vida"><h2>Para la vida de ustedes</h2>${(x.para_vivir || []).length ? `<ul>${x.para_vivir.map(v => `<li>${fmt(v.texto)} ${chips(v.fuentes)}</li>`).join('')}</ul>` : ''}
+      ${(x.para_conversar || []).length ? `<h3>Para conversar</h3><ol>${x.para_conversar.map(q => `<li>${fmt(q)}</li>`).join('')}</ol>` : ''}</section>`;
+  }
+  const ds = a.grupo === 'panorama' ? [] : diasDeArticulo(id);
+  if (ds.length) h += `<h2>Días relacionados</h2><div class="en-plan">${ds.map(d => `<a class="btn ${est.hechos[d] ? 'oro' : ''}" href="#dia-${d}">Día ${d} · Ap ${esc(diaPlan(d).rango)}</a>`).join('')}</div>`;
+  return h + pie + '</article>';
+}
+function ladoArticulo(id) {
+  const x = artDe(id); if (!x || !x.apartados.length) return '';
+  return `<div class="tarjeta toc"><h5>En este artículo</h5>${x.apartados.map((s, k) => `<a href="#art-${id}" data-ir="ap-${k}"><span>${fmt(s.titulo)}</span></a>`).join('')}</div>`;
+}
+
+/* ---------- páginas de diagramas, línea de tiempo, símbolos, palabras, Cristo ---------- */
+const ORDEN_DG = Object.keys(D.visuales.diagramas || {});
+function vistaDiagramas() {
+  return `<div class="hoja ancha"><span class="ojo">Herramientas</span><h1 class="titulo">Diagramas</h1><p class="bajada">El libro en cuadros: estructura, series de juicios, cartas, escuelas de interpretación, números y tiempos.</p>
+    <div class="grilla-h">${ORDEN_DG.map(id => { const g = D.diagramas[id];
+      return `<a href="#${id}"><div class="panel" style="${g ? '' : 'opacity:.55'}"><b>${esc(g ? g.titulo : D.visuales.diagramas[id])}</b><small>${g ? fmt(g.bajada || '') : 'En preparación.'}</small></div></a>`; }).join('')}</div>
+    <h2>Mapas</h2><div class="grilla-h">${Object.entries(D.visuales.mapas || {}).map(([k, v]) => `<a href="#${k}"><div class="panel"><b>${esc(v)}</b><small>Mapa</small></div></a>`).join('')}</div></div>`;
+}
+function vistaDiagrama(id) {
+  const g = D.diagramas[id], k = ORDEN_DG.indexOf(id), ant = ORDEN_DG[k - 1], sig = ORDEN_DG[k + 1];
+  let h = `<div class="hoja ancha"><span class="ojo"><a href="#diagramas">Herramientas · Diagramas</a></span><h1 class="titulo">${esc(g ? g.titulo : (D.visuales.diagramas || {})[id] || id)}</h1>`;
+  if (!g) return h + `<div class="panel pend-msg"><p><b>Este diagrama está en preparación.</b></p></div></div>`;
+  h += g.bajada ? `<p class="bajada">${fmt(g.bajada)}</p>` : '';
+  h += diagramaHTML(g, true);
+  if ((g.dias || []).length) h += `<h2>Dónde se explica</h2><div class="en-plan">${g.dias.filter(d => diaPlan(d)).map(d => `<a class="btn" href="#dia-${d}">Día ${d} · Ap ${esc(diaPlan(d).rango)}</a>`).join('')}</div>`;
+  const arts = Object.entries(D.articulos).filter(([i, a]) => (a.visuales || []).includes(id)).map(([i]) => ARTS.find(y => y.id === i)).filter(Boolean);
+  if (arts.length) h += `<h2>Artículos que lo usan</h2><div class="en-plan">${arts.map(a => `<a class="btn" href="#art-${a.id}">${esc(tituloArt(a))}</a>`).join('')}</div>`;
+  h += `<nav class="pie-dia">${ant ? `<a class="btn" href="#${ant}">← ${esc(nombreVisual(ant))}</a>` : '<a class="btn" href="#diagramas">← Diagramas</a>'}${sig ? `<a class="btn" href="#${sig}">${esc(nombreVisual(sig))} →</a>` : ''}</nav>`;
+  return h + '</div>';
+}
+function vistaLinea() {
+  const g = D.diagramas['dg-cronologia'];
+  if (!g) return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Línea de tiempo</h1><div class="panel pend-msg"><p>En preparación.</p></div></div>`;
+  return `<div class="hoja ancha"><span class="ojo">Herramientas</span><h1 class="titulo">Línea de tiempo: ${esc(g.titulo)}</h1>${g.bajada ? `<p class="bajada">${fmt(g.bajada)}</p>` : ''}
+    ${diagramaHTML(g, true)}<p class="leyenda">En el teléfono, la línea se desliza de costado. Cada número sobre una línea corresponde a la lista de abajo.</p>
+    ${(g.dias || []).length ? `<h2>Dónde se explica</h2><div class="en-plan">${g.dias.filter(d => diaPlan(d)).map(d => `<a class="btn" href="#dia-${d}">Día ${d}</a>`).join('')}</div>` : ''}</div>`;
+}
+const sinTildes = s => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const letraDe = s => { const c = sinTildes(String(s).replace(/^[«“"(¿¡\s]+/, '').replace(/^(el|la|los|las|un|una|unos|unas)\s+/i, ''))[0] || '#'; return /[a-zñ]/.test(c) ? c.toUpperCase() : '#'; };
+function listaConLetras(items, clave, html, idPref) {
+  const grupos = {};
+  items.forEach(it => { const l = letraDe(clave(it)); (grupos[l] = grupos[l] || []).push(it); });
+  const letras = Object.keys(grupos).sort((a, b) => a.localeCompare(b, 'es'));
+  return `<nav class="letras" aria-label="Índice alfabético">${letras.map(l => `<a href="#${rutaActual}" data-ir="${idPref}-${l}">${l}</a>`).join('')}</nav>` +
+    letras.map(l => `<h2 class="letra" id="${idPref}-${l}">${l}</h2>` + html(grupos[l])).join('');
+}
+function vistaSimbolos() {
+  const todos = []; Object.values(D.dias).forEach(x => (x.simbolos || []).forEach(s => todos.push({ ...s, d: x.dia })));
+  const sinArt = s => sinTildes(s.replace(/^[«“"(¿¡\s]+/, '').replace(/^(el|la|los|las|un|una|unos|unas)\s+/i, ''));
+  todos.sort((a, b) => sinArt(a.signo).localeCompare(sinArt(b.signo), 'es') || a.d - b.d);
+  const dg = ['dg-numeros', 'dg-tiempos', 'dg-cristo', 'dg-candelero'].filter(id => D.diagramas[id]);
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Símbolos y números</h1>
+    <p class="bajada">Los ${todos.length} signos que explican los días (números, colores, animales, objetos), con lo que significan según las fuentes. Cuando los autores difieren, se dice quién sostiene qué.</p>
+    ${dg.length ? `<div class="en-plan">${dg.map(id => `<a class="btn" href="#${id}">${esc(D.diagramas[id].titulo)}</a>`).join('')}</div>` : ''}
+    <input class="filtro" id="filtro-lista" type="search" placeholder="Filtrar: siete, cordero, 666…" autocomplete="off" aria-label="Filtrar símbolos">
+    <div id="lista-filtrable">${listaConLetras(todos, s => s.signo, g => `<div class="simbolos">${g.map(s => simboloHTML(s, s.d)).join('')}</div>`, 'sim')}</div></div>`;
+}
+function vistaPalabras() {
+  const todas = []; Object.values(D.dias).forEach(x => (x.palabras || []).forEach(w => todas.push({ ...w, d: x.dia })));
+  todas.sort((a, b) => sinTildes(a.translit).localeCompare(sinTildes(b.translit), 'es') || a.d - b.d);
+  return `<div class="hoja ancha"><span class="ojo">Herramientas</span><h1 class="titulo">Palabras griegas</h1>
+    <p class="bajada">Las ${todas.length} palabras del texto griego que comentan las fuentes, reunidas de los ${Object.keys(D.dias).length} días, en orden alfabético por su transliteración.</p>
+    <input class="filtro" id="filtro-lista" type="search" placeholder="Filtrar: agápe, nikáo, ἀρνίον…" autocomplete="off" aria-label="Filtrar palabras">
+    <div id="lista-filtrable">${listaConLetras(todas, w => w.translit, g => `<div class="lista-pal">${g.map(w => palabraHTML(w, w.d)).join('')}</div>`, 'pal')}</div>
+    <p class="leyenda">${esc(D.aviso_griego)}</p></div>`;
+}
+function vistaCristo() {
+  const t = ARTS.filter(a => a.grupo === 'tema' && /cristo|cordero/i.test(tituloArt(a)) && artDe(a.id));
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Cristo en Apocalipsis</h1>
+    <p class="bajada">El libro es «la revelación de Jesucristo» (1:1): así se lo ve en cada pasaje, según las fuentes de cada día.</p>
+    <div class="en-plan">${t.map(a => `<a class="btn" href="#art-${a.id}">${esc(tituloArt(a))}</a>`).join('')}${D.diagramas['dg-cristo'] ? `<a class="btn" href="#dg-cristo">${esc(D.diagramas['dg-cristo'].titulo)}</a>` : ''}</div>` +
+    PARTES.map(pt => { const ds = PLAN.filter(p => p.parte === pt.id && D.dias[p.dia] && (D.dias[p.dia].cristo || []).length);
+      if (!ds.length) return '';
+      return `<h2>${esc(pt.etiqueta)}: ${esc(pt.titulo)}</h2>` + ds.map(p => D.dias[p.dia].cristo.map(k => `<div class="cristo"><span class="ojo"><a href="#dia-${p.dia}">Día ${p.dia} · Ap ${esc(p.rango)}</a></span><p>${fmt(k.texto)} ${chips(k.fuentes)}</p>${k.refs && k.refs.length ? `<span class="refs">${esc(k.refs.join(' · '))}</span>` : ''}</div>`).join('')).join(''); }).join('') + '</div>';
+}
+
+/* ---------- búsqueda ---------- */
+let indice = null;
+function vistaBuscar() {
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Buscar</h1><div class="buscar"><label for="q" class="estado">Buscar en todo el estudio (días, artículos, diagramas, símbolos y palabras griegas)</label>
+    <input id="q" type="search" placeholder="Por ejemplo: Laodicea, milenio, ἀρνίον, 666…" autocomplete="off"></div><div id="res"></div></div>`;
+}
+function armarIndice() {
+  indice = [];
+  const pone = (href, lab, sec, t) => { if (t) indice.push({ href, lab, sec, t: String(t), n: sinTildes(t + ' ' + sec) }); };
+  ARTS.forEach(a => { const x = artDe(a.id); if (!x) return;
+    const push = (sec, t) => pone('#art-' + a.id, tituloArt(a), sec, t);
+    push('Bajada', x.bajada); push('Entrada', x.entrada.texto);
+    x.apartados.forEach(s => s.parrafos.forEach(q => push(s.titulo, q.texto)));
+    (x.palabras || []).forEach(w => push('Palabra: ' + w.translit, w.griego + ' — ' + w.significado));
+    (x.interpretaciones || []).forEach(i => i.posturas.forEach(p => push('Interpretación: ' + i.tema, p.quien + ': ' + p.postura)));
+    (x.conexiones || []).forEach(k => push('Conexión: ' + k.ref, k.nota));
+    (x.citas || []).forEach(c => push('Cita: ' + c.autor, c.texto));
+  });
+  Object.values(D.dias).forEach(x => {
+    const push = (sec, t, b) => pone('#dia-' + x.dia + (b ? '@' + b : ''), 'Día ' + x.dia + ' · ' + x.titulo, sec, t);
+    push('Contexto', [x.contexto.antes, x.contexto.ahora, x.contexto.donde, x.contexto.cuando].join(' '), 'contexto');
+    push('Panorama', x.panorama.texto, 'panorama');
+    x.secciones.forEach((s, i) => s.notas.forEach(n => push(s.rango + ' · ' + s.titulo, n.texto, 's' + i)));
+    (x.simbolos || []).forEach(s => push('Símbolo: ' + s.signo, s.significado, 'simbolos'));
+    (x.palabras || []).forEach(w => push('Palabra: ' + w.translit, w.griego + ' — ' + w.significado, 'palabras'));
+    (x.cristo || []).forEach(k => push('Cristo en el pasaje', k.texto, 'cristo'));
+    (x.interpretaciones || []).forEach(i => i.posturas.forEach(p => push('Interpretación: ' + i.tema, p.quien + ': ' + p.postura, 'interp')));
+    (x.biblioteca || []).forEach(b => push('Biblioteca: ' + b.autor, b.texto, 'biblio'));
+    (x.conexiones || []).forEach(k => push('Conexión: ' + k.ref, k.nota, 'conex'));
+    (x.para_vivir || []).forEach(v => push('Para vivir', v.texto, 'vida'));
+    (x.profundizar || []).forEach(f => push('Profundizar: ' + f.titulo, f.texto));
+  });
+  Object.values(D.diagramas).forEach(g => {
+    const push = (sec, t) => pone('#' + g.id, 'Diagrama · ' + g.titulo, sec, t);
+    push('Bajada', g.bajada); push('Nota', g.nota);
+    (g.filas || []).forEach(f => push(f.celdas[0], f.celdas.join(' · ')));
+    (g.tarjetas || []).forEach(t => push(t.titulo, t.texto));
+    (g.carriles || []).forEach(c => push(c.nombre, [c.quien, ...(c.segmentos || []).map(s => s.etiqueta), ...(c.marcas || []).map(m => m.etiqueta)].join(' · ')));
+  });
+  D.mapas.lugares.forEach(l => pone('#mapa-' + (l.asia ? 'asia' : l.santa ? 'santa' : 'mediterraneo'), 'Mapa · ' + l.nombre, 'Lugar', l.nombre + ': ' + l.nota));
+}
+document.addEventListener('input', e => {
+  if (e.target.id === 'notas-dia') {
+    const d = +e.target.dataset.dia; est.notas[d] = e.target.value; const s = $('#estado-notas'); if (s) s.textContent = 'Guardando…';
+    clearTimeout(window._tn); window._tn = setTimeout(() => { guardar(); const s2 = $('#estado-notas'); if (s2 && !avisoGuardado) s2.textContent = 'Guardado en este navegador.'; }, 600);
+  }
+  if (e.target.id === 'q') {
+    if (!indice) armarIndice();
+    const q = sinTildes(e.target.value.trim());
+    const res = q.length < 2 ? [] : indice.filter(r => r.n.includes(q));
+    $('#res').innerHTML = q.length < 2 ? '' : (res.length ? `<p class="estado">${res.length > 120 ? 'Más de 120 resultados; se muestran los primeros 120.' : res.length + ' resultado' + (res.length > 1 ? 's' : '') + '.'}</p>` + res.slice(0, 120).map(r => {
+      const tn = sinTildes(r.t), i = tn.indexOf(q), ini = Math.max(0, i - 90), fin = Math.min(r.t.length, (i < 0 ? 0 : i) + q.length + 170);
+      let frag = esc(r.t.slice(ini, fin));
+      if (i >= 0) { const a = i - ini; frag = esc(r.t.slice(ini, i)) + '<mark>' + esc(r.t.slice(i, i + q.length)) + '</mark>' + esc(r.t.slice(i + q.length, fin)); }
+      return `<div class="resultado"><a href="${r.href}"><b>${esc(r.lab)}</b></a> <span class="estado">· ${esc(r.sec)}</span><div>${ini ? '…' : ''}${frag}${fin < r.t.length ? '…' : ''}</div></div>`; }).join('') : '<p>No hay resultados.</p>');
+  }
+  if (e.target.id === 'filtro-lista') {
+    const q = sinTildes(e.target.value.trim());
+    $$('#lista-filtrable .simbolo, #lista-filtrable .palabra').forEach(el => { el.hidden = q.length > 0 && !sinTildes(el.textContent).includes(q); });
+    $$('#lista-filtrable h2.letra').forEach(h2 => { const sig = h2.nextElementSibling; h2.hidden = !!sig && [...sig.children].every(c => c.hidden); });
+  }
+});
+
+/* ---------- textos fijos: cómo usar y fuentes ---------- */
+function vistaComoUsar() {
+  return `<article class="hoja"><span class="ojo">Guía</span><h1 class="titulo">Cómo usar el estudio</h1>
+    <p class="bajada">Noventa y cinco días, de veinte a treinta minutos cada uno, para leer de a dos el Apocalipsis completo.</p>
+    <h2>Un día de estudio</h2>
+    <p>Lean primero el pasaje en su Biblia (el botón «Leer el pasaje en línea» lo abre en la Reina-Valera 1960). Después recorran el día: dónde estamos en el libro, el versículo clave, el pasaje de un vistazo y las notas versículo por versículo. Terminen con las preguntas para conversar y la oración.</p>
+    <p>Cada sección tiene un botón <b>✓</b>: se marca solo cuando la terminan de leer bajando por la página, o a mano. La barra de arriba del día muestra cuántas secciones leyeron. Al terminar, marquen el día como leído: así avanza la barra general y la de cada parte. En el inicio, «Continuar» los lleva a la sección donde quedaron.</p>
+    <h2>Comillas</h2>
+    <div class="leyenda-comillas panel"><div><span class="bib">«Así se ve el texto bíblico»</span>: siempre entre comillas angulares y en cursiva.</div><div><span class="aut">“Así se ve lo que dice un autor”</span>: entre comillas inglesas.</div></div>
+    <h2>Las fuentes</h2><p>Las etiquetas chiquitas al final de cada afirmación son las fuentes: tocándolas se ve el autor, la obra, la página y el resumen de la nota de donde sale. Cuando los autores difieren (preterismo, historicismo, futurismo, idealismo; pre-, a- y posmilenialismo; las posturas sobre la tribulación), el estudio presenta cada postura con quién la sostiene, sin tomar partido.</p>
+    <h2>Mapas, diagramas y artículos</h2><p>Cada día trae plegados, en la misma página, los mapas y diagramas que lo explican; cada uno se puede abrir en su página completa. Al final del día, «Para seguir leyendo» lleva a los artículos de introducción, los panoramas de cada parte y los temas.</p>
+    <h2>Teclado, letra e impresión</h2><p>Con las flechas ← y → se pasa al día (o artículo) anterior y siguiente. El botón «Aa» cambia el tamaño de letra y el del círculo, entre modo claro y oscuro. «Imprimir» deja solo el texto del día, con los visuales y las interpretaciones que estén abiertos.</p>
+    <h2>Sus notas</h2><p>Las notas y el avance se guardan en este navegador. Bajen de vez en cuando una copia desde el inicio («Descargar copia»); con «Cargar copia» se suman a lo que ya haya, sin borrar nada.</p></article>`;
+}
+function vistaFuentes() {
+  const F = D.obras;
+  return `<div class="hoja"><span class="ojo">Herramientas</span><h1 class="titulo">Fuentes y créditos</h1>
+    <p>Todo el estudio sale de notas tomadas de estas obras, con su página. Las notas resumen con otras palabras lo que dice cada autor; las frases textuales son breves y van entre comillas. Solo autores protestantes.</p>
+    <h2>Comentarios del Apocalipsis</h2><table class="tabla"><thead><tr><th>Etiqueta</th><th>Obra</th><th>Lectura del libro</th></tr></thead><tbody>${F.comentarios.map(o => `<tr><td><b>${esc(o[0])}</b></td><td>${esc(o[1])}</td><td>${esc(o[2])}</td></tr>`).join('')}</tbody></table>
+    <h2>Libros de referencia citados</h2><p class="estado">${F.referencia.length} obras aportaron notas.</p>
+    <table class="tabla"><tbody>${F.referencia.map(o => `<tr><td><b>${esc(o[0])}</b></td><td>${esc(o[1])}</td></tr>`).join('')}</tbody></table>
+    <h2>Artículos en línea</h2><table class="tabla"><tbody>${F.web.map(o => `<tr><td><b>${esc(o[0])}</b></td><td>${esc(o[1])}</td></tr>`).join('')}</tbody></table>
+    <h2>Créditos</h2><p>${esc(D.aviso_rvr)}</p><p>${esc(D.aviso_griego)}</p><p>${esc(D.mapas.credito)}</p>
+    <p>Tipografías: Literata, Cormorant Garamond y Figtree, con licencia SIL Open Font License 1.1.</p></div>`;
+}
+
+/* ---------- copia de seguridad ---------- */
+function bajarCopia() {
+  const datos = { app: 'apocalipsis-en-pareja', version: 1, fecha: new Date().toISOString(), hechos: est.hechos, notas: est.notas, leidas: est.leidas, ultimo: est.ultimo };
+  const url = URL.createObjectURL(new Blob([JSON.stringify(datos, null, 1)], { type: 'application/json' }));
+  const a = document.createElement('a'); a.href = url; a.download = 'apocalipsis-en-pareja-copia-' + datos.fecha.slice(0, 10) + '.json';
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 2000);
+  $('#estado-copia').textContent = 'Copia descargada: ' + a.download + '.';
+}
+async function cargarCopia(archivo) {
+  const msg = t => { const s = $('#estado-copia'); if (s) s.textContent = t; };
+  let c; try { c = JSON.parse(await archivo.text()); } catch (e) { msg('Ese archivo no es una copia del estudio.'); return; }
+  if (!c || c.app !== 'apocalipsis-en-pareja') { msg('Ese archivo no es una copia de este estudio.'); return; }
+  // se suman a lo que ya hay: un día leído sigue leído y, si las dos versiones de una nota difieren, se conservan ambas
+  const tocados = new Set();
+  Object.entries(c.hechos || {}).forEach(([d, f]) => { if (!est.hechos[d]) { est.hechos[d] = f; tocados.add(+d); } });
+  Object.entries(c.leidas || {}).forEach(([d, l]) => { const a = est.leidas[d] = est.leidas[d] || {}; Object.keys(l || {}).forEach(k => { if (!a[k]) { a[k] = 1; tocados.add(+d); } }); });
+  Object.entries(c.notas || {}).forEach(([d, t]) => {
+    const actual = est.notas[d] || '';
+    if (!t || actual === t || actual.includes(t)) return;
+    est.notas[d] = actual ? actual + '\n\n— De la copia del ' + String(c.fecha || '').slice(0, 10) + ' —\n' + t : t; tocados.add(+d);
+  });
+  if (!est.ultimo && c.ultimo) est.ultimo = c.ultimo;
+  guardar(); render();
+  msg(!tocados.size ? 'La copia no tenía nada que no estuviera ya guardado.' : tocados.size === 1 ? 'Copia cargada: se actualizó 1 día.' : `Copia cargada: se actualizaron ${tocados.size} días.`);
+}
+document.addEventListener('click', e => {
+  if (e.target.closest('#bajar-copia')) bajarCopia();
+  if (e.target.closest('#cargar-copia-btn')) $('#cargar-copia').click();
+});
+document.addEventListener('change', e => { if (e.target.id === 'cargar-copia' && e.target.files[0]) cargarCopia(e.target.files[0]); });
+
+/* ---------- impresión: se abren los plegables ---------- */
+let abiertosAntes = [];
+addEventListener('beforeprint', () => {
+  abiertosAntes = $$('details').filter(d => !d.open);
+  $$('details.interp, details.prof').forEach(d => { d.open = true; });
+});
+addEventListener('afterprint', () => { abiertosAntes.forEach(d => { if (!d.matches('.visual')) d.open = false; }); abiertosAntes = []; });
+
+/* ---------- ruteo ---------- */
+function render(mantenerScroll) {
+  const full = decodeURIComponent((location.hash || '#inicio').slice(1));
+  const [h, bloque] = full.split('@');
+  rutaActual = h;
+  let main = '', lado = '';
+  diaVisto = 0; if (observador) { observador.disconnect(); observador = null; }
+  cerrarPop();
+  const m = h.match(/^dia-(\d+)$/);
+  if (m && diaPlan(+m[1])) { const d = +m[1]; main = vistaDia(d); lado = ladoDia(d); }
+  else if (h === 'indice') main = vistaIndice();
+  else if (h === 'articulos' || h === 'introduccion' || h === 'temas') main = vistaArticulos();
+  else if (/^art-[IPT]\d{1,2}$/.test(h)) { main = vistaArticulo(h.slice(4)); lado = ladoArticulo(h.slice(4)); }
+  else if (h === 'diagramas') main = vistaDiagramas();
+  else if (/^dg-[\w-]+$/.test(h)) main = vistaDiagrama(h);
+  else if (h === 'mapas') main = vistaListaMapas();
+  else if (/^mapa-\w+$/.test(h)) main = vistaMapas(h);
+  else if (h === 'linea') main = vistaLinea();
+  else if (h === 'simbolos') main = vistaSimbolos();
+  else if (h === 'palabras') main = vistaPalabras();
+  else if (h === 'cristo') main = vistaCristo();
+  else if (h === 'buscar') main = vistaBuscar();
+  else if (h === 'fuentes') main = vistaFuentes();
+  else if (h === 'como-usar') main = vistaComoUsar();
+  else { rutaActual = 'inicio'; main = vistaInicio(); }
+  const y = scrollY;
+  $('#principal').innerHTML = main;
+  $('#lado').innerHTML = lado; $('#lado').hidden = !lado;
+  $('.app').classList.toggle('sin-lado', !lado);
+  pintarNav(); pintarProgreso();
+  document.title = (rutaActual === 'inicio' ? '' : ($('#principal h1') ? $('#principal h1').textContent.trim() + ' · ' : '')) + 'Apocalipsis en pareja';
+  if (m && diaPlan(+m[1]) && D.dias[+m[1]]) { const d = +m[1]; actualizarDia(d); diaVisto = d; vigilarLectura(d); est.ultimo = { h: 'dia-' + d, b: bloque || null, f: new Date().toISOString().slice(0, 10) }; guardar(); }
+  else if (m) { diaVisto = 0; const hb = $('#hecho-btn'); if (hb) { const d = +m[1]; hb.textContent = est.hechos[d] ? '✓ Día leído' : 'Marcar el día como leído'; hb.onclick = () => { if (est.hechos[d]) delete est.hechos[d]; else est.hechos[d] = new Date().toISOString().slice(0, 10); guardar(); render(true); }; } }
+  if (h === 'buscar') setTimeout(() => $('#q') && $('#q').focus(), 0);
+  if (mantenerScroll) window.scrollTo(0, y);
+  else if (bloque && document.getElementById('b-' + bloque)) setTimeout(() => document.getElementById('b-' + bloque).scrollIntoView({ block: 'start' }), 0);
+  else window.scrollTo(0, 0);
+}
+addEventListener('hashchange', () => render());
+addEventListener('keydown', e => {
+  if (e.key === 'Escape') { cerrarPop(); document.body.classList.remove('nav-abierta'); }
+  if (e.target.matches('input, textarea, select') || e.altKey || e.ctrlKey || e.metaKey) return;
+  if (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return;
+  const paso = e.key === 'ArrowRight' ? 1 : -1;
+  const h = (location.hash || '').slice(1).split('@')[0];
+  let m;
+  if ((m = h.match(/^dia-(\d+)$/))) { const d = +m[1] + paso; if (d >= 1 && d <= TOTAL) location.hash = 'dia-' + d; }
+  else if ((m = h.match(/^art-(\w+)$/))) { const k = ORDEN_ARTS.findIndex(a => a.id === m[1]) + paso; if (ORDEN_ARTS[k]) location.hash = 'art-' + ORDEN_ARTS[k].id; }
+  else if (/^dg-/.test(h)) { const k = ORDEN_DG.indexOf(h) + paso; if (ORDEN_DG[k]) location.hash = ORDEN_DG[k]; }
+});
+render();
+})();
+</script>
+</body>
+</html>

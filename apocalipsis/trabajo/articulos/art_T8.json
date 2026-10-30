@@ -1,18 +1,41 @@
 {
   "id": "T8",
   "titulo": "La bestia, el falso profeta y el anticristo",
-  "bajada": "Quiénes son las dos bestias del capítulo 13, qué tienen que ver con el anticristo de las cartas de Juan y cómo se han leído la marca y el 666, sin tomar partido entre las escuelas.",
+  "bajada": "Quiénes son las dos bestias del capítulo 13, qué tienen que ver con el anticristo y cómo se leyeron la marca y el 666, sin tomar partido.",
   "entrada": {
-    "texto": "Pocos capítulos despertaron tanta curiosidad como el 13. Juan ve dos fieras: una sube del mar y otra de la tierra, y las dos trabajan para el dragón del capítulo 12. Ahí aparecen la marca en la mano o en la frente y el número «seiscientos sesenta y seis». MacArthur y Carballosa ubican estos capítulos en el centro del drama: el 12 y el 13 muestran la guerra desde el lado de Satanás, y el 14 vuelve a lo que hace Dios. Earle y Beasley-Murray agregan que este paréntesis revela de qué se trata en serio el conflicto: no es solo una iglesia chica frente a un imperio, sino el viejo adversario de Dios usando la política y la religión contra su pueblo.",
-    "fuentes": ["macarthur_12_a#19", "carballosa_09_a#21", "beacon_04_a#12", "henry_02_a#7"]
+    "texto": "Juan ve dos fieras al servicio del dragón: una sube del mar y otra de la tierra. Con ellas llegan la marca en la mano o en la frente y el número «seiscientos sesenta y seis». Para MacArthur, los capítulos 12 y 13 muestran la guerra desde el lado de Satanás y el 14 vuelve a lo que hace Dios. Earle y Beasley-Murray ven en este paréntesis la verdadera naturaleza del conflicto: el viejo adversario de Dios usando la política y la religión contra su pueblo.",
+    "fuentes": [
+      "macarthur_12_a#19",
+      "carballosa_09_a#21",
+      "beacon_04_a#12",
+      "henry_02_a#7"
+    ]
   },
   "versiculos": [
-    {"ref": "13:1", "porque": "La primera bestia sube del mar con siete cabezas y diez cuernos, como el dragón."},
-    {"ref": "13:4", "porque": "Lo que la bestia busca es adoración, no solo poder."},
-    {"ref": "13:11", "porque": "La segunda bestia parece un cordero pero habla como dragón."},
-    {"ref": "13:16", "porque": "La marca alcanza a todos y es lo opuesto al sello de Dios."},
-    {"ref": "13:18", "porque": "El número de la bestia y el pedido de sabiduría."},
-    {"ref": "19:20", "porque": "El final de las dos bestias: apresadas y lanzadas vivas al lago de fuego."}
+    {
+      "ref": "13:1",
+      "porque": "Sube del mar con siete cabezas y diez cuernos."
+    },
+    {
+      "ref": "13:4",
+      "porque": "Busca adoración, no solo poder."
+    },
+    {
+      "ref": "13:11",
+      "porque": "Parece cordero y habla como dragón."
+    },
+    {
+      "ref": "13:16",
+      "porque": "La marca, opuesta al sello de Dios."
+    },
+    {
+      "ref": "13:18",
+      "porque": "El número y el pedido de sabiduría."
+    },
+    {
+      "ref": "19:20",
+      "porque": "El final de las dos bestias."
+    }
   ],
   "apartados": [
     {
@@ -20,15 +43,34 @@
       "parrafos": [
         {
           "texto": "La palabra «anticristo» no aparece en el Apocalipsis. Está solo en las cartas de Juan (1 Jn 2:18, 22; 4:3; 2 Jn 7), donde dice que ya en su tiempo habían surgido muchos. Pablo habla del «hombre de pecado» (2 Ts 2:3-4) y Daniel, del «cuerno pequeño» (Dn 7:8). Berkhof (amilenial) ve ahí una revelación que va creciendo: Daniel pinta un poder político, Pablo uno religioso y Juan los dos. Sproul resume que la mayoría de la erudición cristiana histórica identifica anticristo, hombre de pecado y bestia como una sola figura.",
-          "fuentes": ["r1_039#11", "web_20#4", "web_13#17", "cbmh_06_a#26", "r1_036_a#13"]
+          "fuentes": [
+            "r1_039#11",
+            "web_20#4",
+            "web_13#17",
+            "cbmh_06_a#26",
+            "r1_036_a#13"
+          ]
         },
         {
           "texto": "El prefijo griego «anti» quiere decir «contra» y también «en lugar de». Por eso el anticristo se opone a Cristo y a la vez lo imita: es un adversario y un sustituto, y no hace falta elegir entre las dos cosas (Sproul, McGee, Wiersbe, MacArthur y Mayhue). Pentecost nota que en Juan pesa más la oposición, a diferencia de los «falsos Cristos» de Mateo 24:24, que dicen ser el Mesías.",
-          "fuentes": ["web_13#18", "mcgee_08#1", "r1_023#6", "r1_036_a#13", "r1_017#24"]
+          "fuentes": [
+            "web_13#18",
+            "mcgee_08#1",
+            "r1_023#6",
+            "r1_036_a#13",
+            "r1_017#24"
+          ]
         },
         {
-          "texto": "¿Es una persona, un sistema o un espíritu? La Coalición por el Evangelio (amilenial) subraya el espíritu de herejía que está presente en toda la era, y con Hoekema espera que se intensifique poco antes del regreso de Cristo. Berkhof ve un principio que ya obraba en tiempos de Pablo y que probablemente termine concentrado en un individuo. McGee, Carballosa y MacArthur (premileniales dispensacionales) esperan una persona futura y distinguen los muchos «anticristos» de la historia del ANTICRISTO del final.",
-          "fuentes": ["cpe_03#11", "cpe_03#13", "r1_039#11", "mcgee_08#1", "carballosa_11_a#9", "r1_036_a#13"]
+          "texto": "¿Persona, sistema o espíritu? La Coalición por el Evangelio (amilenial) subraya un espíritu de herejía presente en toda la era, que con Hoekema espera intensificado antes del regreso de Cristo. Berkhof ve un principio que probablemente termine en un individuo. McGee, Carballosa y MacArthur (premileniales dispensacionales) esperan una persona futura, distinta de los muchos «anticristos» de la historia.",
+          "fuentes": [
+            "cpe_03#11",
+            "cpe_03#13",
+            "r1_039#11",
+            "mcgee_08#1",
+            "carballosa_11_a#9",
+            "r1_036_a#13"
+          ]
         }
       ]
     },
@@ -37,15 +79,32 @@
       "parrafos": [
         {
           "texto": "Juan dice: «vi subir del mar una bestia». Tiene rasgos de las fieras de Daniel 7, siete cabezas y diez cuernos, y recibe del dragón poder, trono y autoridad. Una de sus cabezas parece herida de muerte y se sana, blasfema y hace guerra contra los santos. Ladd hace notar que el grito «¿Quién como la bestia?» muestra que no busca solo dominar: quiere la lealtad de la gente y apartarla de Dios. Para él, las blasfemias son una forma de hacerse dios.",
-          "fuentes": ["carballosa_11_a#10", "r1_036_a#13", "ladd_05_a#29", "r2_036#11"]
+          "fuentes": [
+            "carballosa_11_a#10",
+            "r1_036_a#13",
+            "ladd_05_a#29",
+            "r2_036#11"
+          ]
         },
         {
-          "texto": "Las lecturas se separan en quién es. Para muchos estudiosos citados por Ligonier, la bestia es el poder de Roma, con siete cabezas que serían los siete montes de la ciudad. Ropero cuenta que después de Nerón los cristianos empezaron a ver al Estado como un enemigo. Stott la ve primero en Roma, pero cree que reaparece en todo Estado tiránico que oprime a la iglesia y exige un homenaje sin preguntas. Chafer, Pentecost, Carballosa y MacArthur (premileniales dispensacionales) la entienden como un dictador futuro, cabeza de un Imperio Romano reavivado, que gobierna cuarenta y dos meses hasta que Cristo lo destruye.",
-          "fuentes": ["web_09#18", "r1_019#23", "r1_030#30", "r1_037#1", "r1_017#19", "carballosa_11_a#10", "r2_036#11"]
+          "texto": "Para muchos estudiosos citados por Ligonier, la bestia es el poder de Roma, y sus siete cabezas, los siete montes de la ciudad; Ropero cuenta que después de Nerón los cristianos empezaron a ver al Estado como enemigo. Stott la ve primero en Roma y después en todo Estado tiránico que oprime a la iglesia. Chafer, Pentecost, Carballosa y MacArthur (premileniales dispensacionales) esperan un dictador futuro que gobierna cuarenta y dos meses hasta que Cristo lo destruye.",
+          "fuentes": [
+            "web_09#18",
+            "r1_019#23",
+            "r1_030#30",
+            "r1_037#1",
+            "r1_017#19",
+            "carballosa_11_a#10",
+            "r2_036#11"
+          ]
         },
         {
           "texto": "En la herida sanada, muchos preteristas ven la leyenda de que Nerón volvería. Beasley-Murray cree que Juan usó esa leyenda como cuadro del anticristo sin creer en ella, así como usó imágenes de su época para anunciar el evangelio. Los futuristas ven ahí una falsa resurrección con la que el anticristo imita a Cristo.",
-          "fuentes": ["henry_02_b#9", "carballosa_11_a#10", "r1_036_a#13"]
+          "fuentes": [
+            "henry_02_b#9",
+            "carballosa_11_a#10",
+            "r1_036_a#13"
+          ]
         }
       ]
     },
@@ -53,16 +112,34 @@
       "titulo": "La bestia de la tierra: el falso profeta",
       "parrafos": [
         {
-          "texto": "Después Juan ve «otra bestia que subía de la tierra»: tenía «dos cuernos semejantes a los de un cordero, pero hablaba como dragón». No gobierna. Su trabajo es que el mundo adore a la primera, y para eso hace señales, levanta una imagen y la hace hablar. Más adelante el libro la llama «el falso profeta» (16:13; 19:20; 20:10). La Biblia MacArthur ve en ella a un líder religioso amable, un cristo falso disfrazado de Cordero, y MacArthur la compara con los lobos vestidos de ovejas (Mt 7:15).",
-          "fuentes": ["mbiblia_02_b#11", "macarthur_11_b#22", "beacon_04_a#32", "r1_017#22", "r1_037#3"]
+          "texto": "Después Juan ve «otra bestia que subía de la tierra», con «dos cuernos semejantes a los de un cordero, pero hablaba como dragón». No gobierna: hace que el mundo adore a la primera, con señales y con una imagen que habla. Más adelante el libro la llama «el falso profeta» (16:13; 19:20; 20:10). MacArthur la ve como un líder religioso amable, un lobo vestido de oveja (Mt 7:15).",
+          "fuentes": [
+            "mbiblia_02_b#11",
+            "macarthur_11_b#22",
+            "beacon_04_a#32",
+            "r1_017#22",
+            "r1_037#3"
+          ]
         },
         {
-          "texto": "Ladd y Beasley-Murray recuerdan que, en la Asia de Juan, la religión que promovía el culto al emperador tenía sus propios sacerdotes. Los preteristas ven ahí a la segunda bestia. Ladd cree que eso es solo el fondo de una realidad futura más grande. Stott la amplía a toda religión o ideología que lleva la adoración a algo que no es el Dios vivo. Hendriksen, según Carballosa, la ve como la religión falsa de toda la era. En cambio, Larkin, MacArthur y Carballosa sostienen que es un individuo, distinto del anticristo, porque en 19:20 «la bestia fue apresada, y con ella el falso profeta», y Dios no echa ideologías al lago de fuego.",
-          "fuentes": ["ladd_05_a#33", "henry_02_a#17", "r1_030#31", "carballosa_10_b#28", "larkin_04_b#9", "macarthur_11_b#21"]
+          "texto": "En la Asia de Juan, el culto al emperador tenía sus sacerdotes, y los preteristas ven ahí a la segunda bestia (Ladd, Beasley-Murray). Ladd cree que eso es solo el fondo de una realidad futura. Stott la amplía a toda religión o ideología que desvía la adoración del Dios vivo, y Hendriksen, según Carballosa, a la religión falsa de toda la era. Larkin, MacArthur y Carballosa sostienen que es un individuo distinto del anticristo, porque en 19:20 «la bestia fue apresada, y con ella el falso profeta».",
+          "fuentes": [
+            "ladd_05_a#33",
+            "henry_02_a#17",
+            "r1_030#31",
+            "carballosa_10_b#28",
+            "larkin_04_b#9",
+            "macarthur_11_b#21"
+          ]
         },
         {
           "texto": "Muchos autores ven en el dragón, la bestia y el falso profeta una imitación de la Trinidad: un anti-Padre, un anti-Cristo y un anti-Espíritu (Larkin, Guzik, MacArthur y Mayhue). En la Reforma se decía que Satanás era «el simio de Dios»: no crea, copia. Por eso Guzik, siguiendo a Morgan, advierte que el engaño funciona justamente porque se parece a lo verdadero.",
-          "fuentes": ["larkin_04_b#11", "web_02_b#14", "r1_034#30", "web_02_b#20"]
+          "fuentes": [
+            "larkin_04_b#11",
+            "web_02_b#14",
+            "r1_034#30",
+            "web_02_b#20"
+          ]
         }
       ]
     },
@@ -70,12 +147,24 @@
       "titulo": "La marca: a quién pertenece cada uno",
       "parrafos": [
         {
-          "texto": "La segunda bestia hace que todos reciban una marca en la mano derecha o en la frente, para «que ninguno pudiese comprar ni vender» sin ella. La palabra griega es la que se usaba para el sello oficial en los documentos del emperador, que según Bullinger hacía falta para comprar y vender. También era la señal que se ponía a los esclavos o que se tatuaban los devotos de un dios pagano (Simcox, citado por Earle). Los autores coinciden en que la marca es lo opuesto al sello que Dios pone en la frente de los suyos (7:3): las dos muestran a quién pertenece cada uno.",
-          "fuentes": ["carballosa_11_a#2", "beacon_04_a#34", "henry_02_a#18", "carballosa_11_a#3", "cbmh_06_a#32"]
+          "texto": "La segunda bestia hace que todos reciban una marca en la mano derecha o en la frente, para «que ninguno pudiese comprar ni vender» sin ella. La palabra griega nombraba el sello oficial de los documentos imperiales (Bullinger, citado por Carballosa) y la señal de los esclavos o de los devotos de un dios (Simcox, citado por Earle). Todos la ven como lo opuesto al sello de Dios en la frente de los suyos (7:3): las dos muestran a quién pertenece cada uno.",
+          "fuentes": [
+            "carballosa_11_a#2",
+            "beacon_04_a#34",
+            "henry_02_a#18",
+            "carballosa_11_a#3",
+            "cbmh_06_a#32"
+          ]
         },
         {
-          "texto": "Las lecturas difieren en cómo será. Carballosa la describe como un tatuaje real del tiempo del anticristo. El Comentario Mundo Hispano la lee como un símbolo de lealtad, con fines religiosos y económicos. La Coalición por el Evangelio pone en duda la lectura tecnológica (chip, tarjeta, código de barras) y recuerda que los cristianos del siglo I ya sufrían exclusión económica por no participar del culto de los gremios, como en Esmirna. Earle llama vana especulación a querer identificarla con nombres o símbolos de hoy, y Piper se niega a ver en las vacunas la marca de la bestia.",
-          "fuentes": ["carballosa_11_a#2", "cbmh_06_a#32", "cpe_02#23", "beacon_04_a#34", "cpe_06#29"]
+          "texto": "Difieren en cómo será. Carballosa la describe como un tatuaje real en el tiempo del anticristo; el Comentario Mundo Hispano, como símbolo de lealtad con fines religiosos y económicos. La Coalición por el Evangelio duda de la lectura tecnológica (chip, tarjeta, código de barras) y recuerda que en el siglo I los cristianos ya sufrían exclusión económica, como en Esmirna. Earle llama vana especulación identificarla con cosas de hoy, y Piper se niega a ver la marca en las vacunas.",
+          "fuentes": [
+            "carballosa_11_a#2",
+            "cbmh_06_a#32",
+            "cpe_02#23",
+            "beacon_04_a#34",
+            "cpe_06#29"
+          ]
         }
       ]
     },
@@ -84,15 +173,34 @@
       "parrafos": [
         {
           "texto": "«Aquí hay sabiduría»: el número es «seiscientos sesenta y seis», «número de hombre». En hebreo y en griego las letras también servían como números, así que cada nombre daba una suma. Ladd cita un grafito de Pompeya: «Amo a aquella cuyo número es 545». A esto se le llama gematría.",
-          "fuentes": ["ladd_05_b#6", "beacon_04_a#35", "r1_001#4", "web_02_b#18"]
+          "fuentes": [
+            "ladd_05_b#6",
+            "beacon_04_a#35",
+            "r1_001#4",
+            "web_02_b#18"
+          ]
         },
         {
-          "texto": "La propuesta más conocida es Nerón César escrito en letras hebreas, que suma 666. Algunos manuscritos dicen 616, que coincidiría con la forma latina del nombre (Ligonier, Coalición por el Evangelio). Wallace dice que el manuscrito más antiguo del capítulo, del siglo III, trae 616, mientras que Earle cita el papiro 47, también del siglo III, que trae 666. Para el preterista, Nerón es el cumplimiento. Para muchos futuristas, Nerón es un anticipo del último anticristo. Ladd objeta que en griego el nombre suma 1005, que nadie explica por qué Juan usaría el hebreo para lectores griegos y que ningún autor antiguo propuso esa solución. Ireneo pensó en «Lateinos», el imperio latino.",
-          "fuentes": ["web_09#22", "cpe_02#24", "r2_002_a#27", "beacon_04_b#1", "ladd_05_b#6"]
+          "texto": "La propuesta más conocida es Nerón César en letras hebreas, que suma 666; algunos manuscritos dicen 616, que coincidiría con la forma latina (Ligonier, Coalición por el Evangelio). Wallace dice que el manuscrito más antiguo del capítulo, del siglo III, trae 616; Earle cita el papiro 47, del mismo siglo, con 666. Para el preterista, Nerón es el cumplimiento; para muchos futuristas, un anticipo. Ladd objeta que en griego el nombre suma 1005 y que ningún autor antiguo propuso esa solución; Ireneo pensó en «Lateinos», el imperio latino.",
+          "fuentes": [
+            "web_09#22",
+            "cpe_02#24",
+            "r2_002_a#27",
+            "beacon_04_b#1",
+            "ladd_05_b#6"
+          ]
         },
         {
-          "texto": "Otros leen el número como símbolo. El hombre fue creado el sexto día, y el seis queda corto frente al siete de la perfección: repetido tres veces, sería el fracaso del poder que se opone a Dios (Hendriksen, según Lacueva; Grau; el Comentario Mundo Hispano). Grau insiste en que no es una adivinanza. MacArthur toma el sentido de «número de hombre», pero cree que el significado preciso espera al anticristo futuro. Carballosa rechaza la lectura simbólica porque el texto manda «contar»: para él, cuando el anticristo aparezca, su nombre sumará 666.",
-          "fuentes": ["r1_020#2", "r1_012#11", "cbmh_06_a#33", "cpe_02#25", "macarthur_12_a#14", "carballosa_11_a#7", "carballosa_11_a#9"]
+          "texto": "Otros lo leen como símbolo: el hombre fue creado el sexto día, y el seis queda corto frente al siete; triplicado, sería el fracaso del poder que se opone a Dios (Hendriksen, según Lacueva; Grau; Comentario Mundo Hispano). MacArthur acepta ese sentido, pero cree que el significado preciso espera al anticristo. Carballosa rechaza lo simbólico porque el texto manda «contar»: el nombre del anticristo sumará 666.",
+          "fuentes": [
+            "r1_020#2",
+            "r1_012#11",
+            "cbmh_06_a#33",
+            "cpe_02#25",
+            "macarthur_12_a#14",
+            "carballosa_11_a#7",
+            "carballosa_11_a#9"
+          ]
         }
       ]
     },
@@ -100,65 +208,350 @@
       "titulo": "Lo que enseña la historia de las identificaciones",
       "parrafos": [
         {
-          "texto": "En la iglesia antigua muchos esperaban a un judío que se presentaría como mesías. En la Reforma, Lutero, Calvino y Melanchton vieron la primera bestia en la Roma pagana y la segunda en la Roma papal, y la Confesión de Westminster llamó al papa anticristo. Puritanos como Cotton y Goodwin siguieron esa línea. Berkhof matiza: el papado tiene rasgos anticristianos, pero no es el anticristo. En el siglo XX el número se aplicó a Napoleón, Mussolini, Stalin y Hitler. Lennox observa que, en cada generación, los hechos desmintieron a los que decían tener resuelta la identidad.",
-          "fuentes": ["r1_039#11", "carballosa_10_b#28", "web_09#18", "r2_025_a#28", "r1_027#17", "macarthur_12_a#12", "r1_001#3"]
+          "texto": "En la iglesia antigua muchos esperaban a un judío que se presentaría como mesías. En la Reforma, Lutero, Calvino y Melanchton vieron la primera bestia en la Roma pagana y la segunda en la papal; la Confesión de Westminster llamó al papa anticristo, y puritanos como Cotton y Goodwin siguieron esa línea. Berkhof matiza que el papado tiene rasgos anticristianos sin ser el anticristo. En el siglo XX se probó con Napoleón, Mussolini, Stalin y Hitler; Lennox nota que los hechos desmintieron a cada generación.",
+          "fuentes": [
+            "r1_039#11",
+            "carballosa_10_b#28",
+            "web_09#18",
+            "r2_025_a#28",
+            "r1_027#17",
+            "macarthur_12_a#12",
+            "r1_001#3"
+          ]
         },
         {
           "texto": "Aquí casi todos están de acuerdo: no hay que ponerle nombre de hoy a la bestia. MacArthur recuerda que Ireneo ya pedía esperar a que la persona apareciera, McGee llama irónico al «Aquí hay sabiduría» frente a tanto cálculo, y Lennox cree que, llegado el momento, no hará falta adivinar. Earle propone no encerrarse en una sola escuela: preteristas, historicistas y futuristas ven algo verdadero, porque el libro le habla al pasado, al presente y al futuro.",
-          "fuentes": ["macarthur_12_a#12", "mcgee_08#24", "r1_001#3", "beacon_04_b#2", "cpe_02#16"]
+          "fuentes": [
+            "macarthur_12_a#12",
+            "mcgee_08#24",
+            "r1_001#3",
+            "beacon_04_b#2",
+            "cpe_02#16"
+          ]
         }
       ]
     }
   ],
   "palabras": [
-    {"ref": "13:16", "griego": "χάραγμα", "translit": "járagma", "significado": "“Marca” grabada o impresa: el sello oficial de los documentos imperiales y la señal de los esclavos o de los devotos de un dios. Es distinta del sello que Dios pone en los suyos (Ez 9:4; Ap 7:2-8).", "fuentes": ["dbmh_01_b#5", "beacon_04_a#34", "carballosa_11_a#2"]},
-    {"ref": "13:11", "griego": "ἄλλο θηρίον", "translit": "állo theríon", "significado": "“Otra bestia”: según MacArthur, «otra del mismo tipo», y por eso tan persona como la primera.", "fuentes": ["macarthur_11_b#21"]}
+    {
+      "ref": "13:16",
+      "griego": "χάραγμα",
+      "translit": "járagma",
+      "significado": "“Marca”: el sello oficial de los documentos imperiales y la señal de esclavos o devotos de un dios; distinta del sello de Dios (Ez 9:4; Ap 7:2-8).",
+      "fuentes": [
+        "dbmh_01_b#5",
+        "beacon_04_a#34",
+        "carballosa_11_a#2"
+      ]
+    },
+    {
+      "ref": "13:11",
+      "griego": "ἄλλο θηρίον",
+      "translit": "állo theríon",
+      "significado": "“Otra bestia”: según MacArthur, «otra del mismo tipo», y por eso tan persona como la primera.",
+      "fuentes": [
+        "macarthur_11_b#21"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Quiénes son las dos bestias?",
       "posturas": [
-        {"postura": "El poder civil de Roma y el sacerdocio que imponía el culto al emperador, con Nerón como candidato más probable.", "quien": "Lectura preterista (Ligonier en «La bestia»)", "fuentes": ["beacon_04_b#2", "web_09#20", "web_09#18"]},
-        {"postura": "El Imperio Romano y la Iglesia de Roma o el papado.", "quien": "Lectura historicista (reformadores, Cotton, Goodwin)", "fuentes": ["beacon_04_b#2", "carballosa_10_b#28", "r2_025_a#28", "r1_027#17"]},
-        {"postura": "Dos personas futuras: el anticristo, líder político, y el falso profeta, líder religioso.", "quien": "Lectura futurista (Chafer, Pentecost, Carballosa, MacArthur, McGee; premileniales dispensacionales)", "fuentes": ["r1_037#3", "r1_017#22", "carballosa_10_b#28", "mbiblia_02_b#11", "mcgee_08#1"]},
-        {"postura": "El Estado que persigue y la religión o ideología falsa, presentes en toda la historia, con una manifestación final.", "quien": "Stott; Hendriksen; Comentario Mundo Hispano", "fuentes": ["r1_030#30", "r1_030#31", "carballosa_10_b#28", "cbmh_06_a#26"]}
+        {
+          "postura": "El poder civil de Roma y el sacerdocio del culto al emperador; Nerón, el candidato más probable.",
+          "quien": "Lectura preterista (Ligonier en «La bestia»)",
+          "fuentes": [
+            "beacon_04_b#2",
+            "web_09#20",
+            "web_09#18"
+          ]
+        },
+        {
+          "postura": "El Imperio Romano y la Iglesia de Roma o el papado.",
+          "quien": "Lectura historicista (reformadores, Cotton, Goodwin)",
+          "fuentes": [
+            "beacon_04_b#2",
+            "carballosa_10_b#28",
+            "r2_025_a#28",
+            "r1_027#17"
+          ]
+        },
+        {
+          "postura": "Dos personas futuras: el anticristo, líder político, y el falso profeta, líder religioso.",
+          "quien": "Lectura futurista (Chafer, Pentecost, Carballosa, MacArthur, McGee; premileniales dispensacionales)",
+          "fuentes": [
+            "r1_037#3",
+            "r1_017#22",
+            "carballosa_10_b#28",
+            "mbiblia_02_b#11",
+            "mcgee_08#1"
+          ]
+        },
+        {
+          "postura": "El Estado perseguidor y la religión falsa de toda la historia, con una manifestación final.",
+          "quien": "Stott; Hendriksen; Comentario Mundo Hispano",
+          "fuentes": [
+            "r1_030#30",
+            "r1_030#31",
+            "carballosa_10_b#28",
+            "cbmh_06_a#26"
+          ]
+        }
       ],
-      "nota": "Earle sugiere no excluir ninguna, y la Coalición por el Evangelio combina lo preterista y lo futurista. Todos coinciden en que las dos bestias sirven al dragón y terminan en el lago de fuego."
+      "nota": "Earle sugiere no excluir ninguna. Todos coinciden en que las dos sirven al dragón y terminan en el lago de fuego."
     },
     {
       "tema": "¿Qué significa el 666?",
       "posturas": [
-        {"postura": "Nerón César por gematría hebrea; 616 sería la forma latina.", "quien": "Preteristas; Ligonier", "fuentes": ["web_09#22", "cpe_02#24"]},
-        {"postura": "Nerón fue un anticipo; el número será el del anticristo futuro, y ahora no se puede identificar.", "quien": "Carballosa, MacArthur, McGee (premileniales dispensacionales)", "fuentes": ["carballosa_11_a#9", "macarthur_12_a#12", "mcgee_08#24"]},
-        {"postura": "Un símbolo: el seis triplicado es lo humano que nunca llega al siete.", "quien": "Hendriksen; Grau; Comentario Mundo Hispano; Coalición por el Evangelio", "fuentes": ["r1_020#2", "r1_012#11", "cbmh_06_a#33", "cpe_02#25"]},
-        {"postura": "Las soluciones pueden valer en parte: el principio del mal, el imperio y el individuo en que se encarna.", "quien": "Beasley-Murray; Ladd deja abierta la lectura simbólica o la futura", "fuentes": ["henry_02_a#18", "ladd_05_b#6"]}
+        {
+          "postura": "Nerón César por gematría hebrea; 616 sería la forma latina.",
+          "quien": "Preteristas; Ligonier",
+          "fuentes": [
+            "web_09#22",
+            "cpe_02#24"
+          ]
+        },
+        {
+          "postura": "Nerón fue un anticipo; es el número del anticristo futuro, hoy imposible de identificar.",
+          "quien": "Carballosa, MacArthur, McGee (premileniales dispensacionales)",
+          "fuentes": [
+            "carballosa_11_a#9",
+            "macarthur_12_a#12",
+            "mcgee_08#24"
+          ]
+        },
+        {
+          "postura": "Un símbolo: lo humano que nunca llega al siete.",
+          "quien": "Hendriksen; Grau; Comentario Mundo Hispano; Coalición por el Evangelio",
+          "fuentes": [
+            "r1_020#2",
+            "r1_012#11",
+            "cbmh_06_a#33",
+            "cpe_02#25"
+          ]
+        },
+        {
+          "postura": "Varias soluciones valen en parte: el principio del mal, el imperio y el individuo.",
+          "quien": "Beasley-Murray; Ladd deja abierta la lectura simbólica o la futura",
+          "fuentes": [
+            "henry_02_a#18",
+            "ladd_05_b#6"
+          ]
+        }
       ],
       "nota": "Todos rechazan las identificaciones con personajes modernos."
     }
   ],
   "citas": [
-    {"texto": "Todos los intentos de identificarla con símbolos o nombres corrientes son sólo vanas especulaciones que deshonran la Palabra de Dios.", "autor": "Ralph Earle", "obra": "Comentario Bíblico Beacon", "pagina": "pág. PDF 399"},
-    {"texto": "en lugar de dedicar tanto tiempo al anticristo, quiero conocer a Cristo", "autor": "J. Vernon McGee", "obra": "Apocalipsis: un comentario", "pagina": "pág. PDF 300-301"}
+    {
+      "texto": "Todos los intentos de identificarla con símbolos o nombres corrientes son sólo vanas especulaciones que deshonran la Palabra de Dios.",
+      "autor": "Ralph Earle",
+      "obra": "Comentario Bíblico Beacon",
+      "pagina": "pág. PDF 399"
+    },
+    {
+      "texto": "en lugar de dedicar tanto tiempo al anticristo, quiero conocer a Cristo",
+      "autor": "J. Vernon McGee",
+      "obra": "Apocalipsis: un comentario",
+      "pagina": "pág. PDF 300-301"
+    }
   ],
   "conexiones": [
-    {"ref": "Dn 7:1-8", "nota": "Las fieras y el cuerno pequeño: de ahí salen los rasgos de la primera bestia.", "fuentes": ["carballosa_11_a#10", "r1_036_a#13"]},
-    {"ref": "2 Ts 2:3-10", "nota": "El hombre de pecado, con señales mentirosas, destruido con el resplandor de la venida de Cristo.", "fuentes": ["r1_037#1", "r1_001#3", "web_13#19"]},
-    {"ref": "1 Jn 2:18", "nota": "Muchos anticristos ya en tiempos de Juan.", "fuentes": ["web_13#18", "cpe_02#16"]},
-    {"ref": "Mt 24:24", "nota": "Jesús distingue falsos Cristos y falsos profetas.", "fuentes": ["larkin_04_b#9", "r1_017#24"]},
-    {"ref": "Ap 7:3", "nota": "El sello de Dios en la frente, contracara de la marca.", "fuentes": ["henry_02_a#18", "carballosa_11_a#3"]}
+    {
+      "ref": "Dn 7:1-8",
+      "nota": "Las fieras y el cuerno pequeño: de ahí salen los rasgos de la primera bestia.",
+      "fuentes": [
+        "carballosa_11_a#10",
+        "r1_036_a#13"
+      ]
+    },
+    {
+      "ref": "2 Ts 2:3-10",
+      "nota": "El hombre de pecado, con señales mentirosas, destruido con el resplandor de la venida de Cristo.",
+      "fuentes": [
+        "r1_037#1",
+        "r1_001#3",
+        "web_13#19"
+      ]
+    },
+    {
+      "ref": "1 Jn 2:18",
+      "nota": "Muchos anticristos ya en tiempos de Juan.",
+      "fuentes": [
+        "web_13#18",
+        "cpe_02#16"
+      ]
+    },
+    {
+      "ref": "Mt 24:24",
+      "nota": "Jesús distingue falsos Cristos y falsos profetas.",
+      "fuentes": [
+        "larkin_04_b#9",
+        "r1_017#24"
+      ]
+    },
+    {
+      "ref": "Ap 7:3",
+      "nota": "El sello de Dios en la frente, contracara de la marca.",
+      "fuentes": [
+        "henry_02_a#18",
+        "carballosa_11_a#3"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Conocer bien lo verdadero. Guzik advierte que lo falso engaña porque se parece a lo verdadero, y McGee prefiere conocer a Cristo antes que el número de la bestia.", "fuentes": ["web_02_b#20", "mcgee_08#24"]},
-    {"texto": "Tener claro a quién pertenecemos. Piper ve en la marca dejar a Jesús a cambio de privilegios y recuerda que se vence por la sangre del Cordero y por el testimonio (12:11). Cuando el poder exige lo que es de Dios, Geisler y Howe señalan que obedecer a Dios está primero.", "fuentes": ["cpe_06#29", "r2_001_b#4"]},
-    {"texto": "Aferrarse a la sana doctrina y soportar con paciencia: ese es el llamado que Ligonier saca del capítulo, el de «la paciencia y la fe de los santos».", "fuentes": ["web_20#4"]}
+    {
+      "texto": "Conocer bien lo verdadero. Guzik advierte que lo falso engaña porque se parece a lo verdadero, y McGee prefiere conocer a Cristo antes que el número de la bestia.",
+      "fuentes": [
+        "web_02_b#20",
+        "mcgee_08#24"
+      ]
+    },
+    {
+      "texto": "Saber a quién pertenecemos. Para Piper, la marca es dejar a Jesús a cambio de privilegios, y se vence por la sangre del Cordero (12:11). Geisler y Howe: cuando el poder exige lo que es de Dios, se obedece a Dios.",
+      "fuentes": [
+        "cpe_06#29",
+        "r2_001_b#4"
+      ]
+    },
+    {
+      "texto": "Aferrarse a la sana doctrina y soportar: Ligonier lo saca del capítulo, que pide «la paciencia y la fe de los santos».",
+      "fuentes": [
+        "web_20#4"
+      ]
+    }
   ],
   "para_conversar": [
     "La segunda bestia parece un cordero pero habla como dragón. ¿Dónde vemos hoy mensajes que suenan a Cristo y llevan a otra parte?",
     "¿Qué cosas nos piden lealtad a cambio de poder «comprar y vender», es decir, de estar adentro?",
     "¿Por qué será que tantos se apasionaron por descifrar el 666 y tan pocos por conocer al Cordero?"
   ],
-  "dias_relacionados": [51, 52, 53, 54, 55, 56, 66, 75],
-  "visuales": ["dg-escuelas", "dg-numeros"],
-  "refs_apocalipsis": ["12:1-17", "13:1-18", "16:13", "19:20", "20:10"],
-  "notas_no_usadas": ["larkin_01_b#6", "r1_037#9", "ladd_01_a#17", "carballosa_18_b#11", "cpe_01#5", "r1_022#14", "mbiblia_01_a#9", "ladd_01_a#13", "carballosa_19#16", "r1_036_b#15", "henry_01_a#4", "web_07#4", "r1_027#13", "r1_018#10", "ladd_01_a#11", "r1_038#3", "dbmh_01_a#5", "web_12#15", "web_14#3", "r1_027#12", "web_13#20", "cbmh_01_a#10", "carballosa_18_b#10", "r1_016#29", "r1_017#5", "web_05_c#6", "ladd_01_a#8", "dbmh_01_a#7", "carballosa_01#36", "cpe_04#15", "carballosa_02_a#14", "macarthur_01#34", "carballosa_01#33", "r1_022#12", "r1_005#27", "web_03_a#6", "r1_012#8", "r1_032#6", "r1_019#26", "beacon_01_a#17", "web_16#18", "ladd_01_a#14", "web_07#3", "r1_024_a#1", "r1_018#11", "r1_006#4", "mcgee_01_a#18", "r1_012#19", "larkin_02_a#34", "r1_009#11", "henry_01_a#2", "beacon_01_a#11", "cpe_06#9", "mcgeer_01#6", "r1_036_a#9", "r1_023#7", "r2_040#35", "beacon_03_a#8", "macarthur_01#3", "mcgee_10_b#1", "carballosa_01#30", "cbmh_09#9", "r1_037#7", "r2_004_a#3", "cpe_02#14", "web_05_c#1", "dbmh_02#19", "r1_035#22", "r1_002#17", "r1_022#1", "r2_037_a#26", "web_07#1", "larkin_02_a#29", "mcgeer_01#14", "macarthur_07_a#4", "dbmh_02#2", "larkin_02_a#30", "r1_005#12", "r1_035#18", "beacon_01_a#9", "r1_008#1", "macarthur_01#31", "r1_005#33", "beacon_01_a#10", "web_07#2", "r1_017#1", "carballosa_01#14", "mbiblia_01_a#3", "r1_023#8", "web_16#21", "mcgee_01_a#24", "dbmh_01_a#2", "mcgeer_01#15", "web_05_c#8", "cbmh_01_a#20", "r1_038#5", "r1_030#34", "carballosa_01#34", "ladd_01_a#6", "carballosa_18_b#8", "r1_009#13", "r1_012#4", "web_20#3", "r2_008#21"]
+  "dias_relacionados": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    66,
+    75
+  ],
+  "visuales": [
+    "dg-escuelas",
+    "dg-numeros"
+  ],
+  "refs_apocalipsis": [
+    "12:1-17",
+    "13:1-18",
+    "16:13",
+    "19:20",
+    "20:10"
+  ],
+  "notas_no_usadas": [
+    "larkin_01_b#6",
+    "r1_037#9",
+    "ladd_01_a#17",
+    "carballosa_18_b#11",
+    "cpe_01#5",
+    "r1_022#14",
+    "mbiblia_01_a#9",
+    "ladd_01_a#13",
+    "carballosa_19#16",
+    "r1_036_b#15",
+    "henry_01_a#4",
+    "web_07#4",
+    "r1_027#13",
+    "r1_018#10",
+    "ladd_01_a#11",
+    "r1_038#3",
+    "dbmh_01_a#5",
+    "web_12#15",
+    "web_14#3",
+    "r1_027#12",
+    "web_13#20",
+    "cbmh_01_a#10",
+    "carballosa_18_b#10",
+    "r1_016#29",
+    "r1_017#5",
+    "web_05_c#6",
+    "ladd_01_a#8",
+    "dbmh_01_a#7",
+    "carballosa_01#36",
+    "cpe_04#15",
+    "carballosa_02_a#14",
+    "macarthur_01#34",
+    "carballosa_01#33",
+    "r1_022#12",
+    "r1_005#27",
+    "web_03_a#6",
+    "r1_012#8",
+    "r1_032#6",
+    "r1_019#26",
+    "beacon_01_a#17",
+    "web_16#18",
+    "ladd_01_a#14",
+    "web_07#3",
+    "r1_024_a#1",
+    "r1_018#11",
+    "r1_006#4",
+    "mcgee_01_a#18",
+    "r1_012#19",
+    "larkin_02_a#34",
+    "r1_009#11",
+    "henry_01_a#2",
+    "beacon_01_a#11",
+    "cpe_06#9",
+    "mcgeer_01#6",
+    "r1_036_a#9",
+    "r1_023#7",
+    "r2_040#35",
+    "beacon_03_a#8",
+    "macarthur_01#3",
+    "mcgee_10_b#1",
+    "carballosa_01#30",
+    "cbmh_09#9",
+    "r1_037#7",
+    "r2_004_a#3",
+    "cpe_02#14",
+    "web_05_c#1",
+    "dbmh_02#19",
+    "r1_035#22",
+    "r1_002#17",
+    "r1_022#1",
+    "r2_037_a#26",
+    "web_07#1",
+    "larkin_02_a#29",
+    "mcgeer_01#14",
+    "macarthur_07_a#4",
+    "dbmh_02#2",
+    "larkin_02_a#30",
+    "r1_005#12",
+    "r1_035#18",
+    "beacon_01_a#9",
+    "r1_008#1",
+    "macarthur_01#31",
+    "r1_005#33",
+    "beacon_01_a#10",
+    "web_07#2",
+    "r1_017#1",
+    "carballosa_01#14",
+    "mbiblia_01_a#3",
+    "r1_023#8",
+    "web_16#21",
+    "mcgee_01_a#24",
+    "dbmh_01_a#2",
+    "mcgeer_01#15",
+    "web_05_c#8",
+    "cbmh_01_a#20",
+    "r1_038#5",
+    "r1_030#34",
+    "carballosa_01#34",
+    "ladd_01_a#6",
+    "carballosa_18_b#8",
+    "r1_009#13",
+    "r1_012#4",
+    "web_20#3",
+    "r2_008#21"
+  ]
 }

@@ -3,16 +3,41 @@
   "titulo": "Los títulos y la gloria de Cristo en el Apocalipsis",
   "bajada": "Un recorrido por los nombres que el libro le da a Jesús y lo que revela cada uno: el Dios eterno, el que murió y vive, el Cordero que reina y el Rey que vuelve.",
   "entrada": {
-    "texto": "El libro dice de entrada de qué se trata: «La revelación de Jesucristo» (1:1). La Biblia de estudio MacArthur lo llama “en primer lugar y sobre cualquier otra cosa” una revelación de Jesús, y McGee insiste en que el tema no son los jinetes, las bestias ni los juicios, sino él. En los Evangelios se lo ve en humillación; acá, en gloria y con mando absoluto (McGee, Carballosa). Una buena manera de ver esa gloria es seguir los nombres que el libro le da: MacArthur cuenta más de una docena, desde «el testigo fiel» del capítulo 1 hasta «la estrella resplandeciente de la mañana» del último. Cada uno muestra algo de quién es.",
-    "fuentes": ["mbiblia_01_a#7", "mcgeer_06#7", "mcgee_01_b#1", "carballosa_02_a#6", "macarthur_01#4", "r1_034#1"]
+    "texto": "El libro dice de entrada de qué se trata: «La revelación de Jesucristo» (1:1). La Biblia de estudio MacArthur lo llama “en primer lugar y sobre cualquier otra cosa” una revelación de Jesús, y McGee insiste en que el tema no son los jinetes, las bestias ni los juicios, sino él. En los Evangelios se lo ve en humillación; acá, en gloria y con mando absoluto (McGee, Carballosa). Una buena manera de ver esa gloria es seguir los nombres que el libro le da: MacArthur enumera una larga lista, desde «el testigo fiel» del capítulo 1 hasta «la estrella resplandeciente de la mañana» del último. Cada uno muestra algo de quién es.",
+    "fuentes": [
+      "mbiblia_01_a#7",
+      "mcgeer_06#7",
+      "mcgee_01_b#1",
+      "carballosa_02_a#6",
+      "macarthur_01#4",
+      "r1_034#1"
+    ]
   },
   "versiculos": [
-    {"ref": "1:5", "porque": "Los tres títulos del saludo: testigo, primogénito y soberano."},
-    {"ref": "1:17", "porque": "Jesús toma para sí un título que en Isaías es de Dios, y lo dice para consolar."},
-    {"ref": "5:5-6", "porque": "Se anuncia un León y aparece un Cordero: la clave de cómo venció."},
-    {"ref": "19:16", "porque": "El nombre escrito en el jinete del caballo blanco."},
-    {"ref": "22:13", "porque": "Los tres pares de títulos de Dios, ahora en boca de Jesús."},
-    {"ref": "22:16", "porque": "El nombre humano y los títulos de David al cerrar el libro."}
+    {
+      "ref": "1:5",
+      "porque": "Los tres títulos del saludo: testigo, primogénito y soberano."
+    },
+    {
+      "ref": "1:17",
+      "porque": "Jesús toma para sí un título que en Isaías es de Dios, y lo dice para consolar."
+    },
+    {
+      "ref": "5:5-6",
+      "porque": "Se anuncia un León y aparece un Cordero: la clave de cómo venció."
+    },
+    {
+      "ref": "19:16",
+      "porque": "El nombre escrito en el jinete del caballo blanco."
+    },
+    {
+      "ref": "22:13",
+      "porque": "Los tres pares de títulos de Dios, ahora en boca de Jesús."
+    },
+    {
+      "ref": "22:16",
+      "porque": "El nombre humano y los títulos de David al cerrar el libro."
+    }
   ],
   "apartados": [
     {
@@ -20,11 +45,23 @@
       "parrafos": [
         {
           "texto": "En el saludo, Jesucristo aparece con tres títulos: «el testigo fiel, el primogénito de los muertos, y el soberano de los reyes de la tierra» (1:5). Carballosa los lee como sus tres oficios: profeta, sacerdote y rey. La palabra «testigo» es la que con el tiempo dio “mártir”: el que siempre dice la verdad de Dios (MacArthur) y fue fiel hasta la muerte, ejemplo para creyentes perseguidos (Mundo Hispano; Earle en el Beacon).",
-          "fuentes": ["carballosa_02_a#29", "macarthur_01#24", "cbmh_01_b#9", "beacon_01_b#1", "web_03_a#10"]
+          "fuentes": [
+            "carballosa_02_a#29",
+            "macarthur_01#24",
+            "cbmh_01_b#9",
+            "beacon_01_b#1",
+            "web_03_a#10"
+          ]
         },
         {
-          "texto": "«Primogénito» no dice solo que fue el primero en resucitar: hubo resurrecciones antes. MacArthur, Ladd y Guzik lo leen sobre todo como rango, a la luz del Salmo 89:27: el primero en preeminencia. De ahí sale el tercer título. Ladd recuerda que en tiempos de Juan Roma gobernaba sin rivales, y aun así el creyente confiesa que el que eligió la humillación ya gobierna sobre los reyes; su venida mostrará al mundo esa soberanía. Carballosa subraya el otro lado: ese reinado sobre los reyes espera su segunda venida.",
-          "fuentes": ["macarthur_01#24", "ladd_01_a#30", "web_03_a#10", "ladd_01_a#31", "carballosa_02_a#29"]
+          "texto": "El título «primogénito de los muertos» no dice solo que fue el primero en resucitar: hubo resurrecciones antes. MacArthur, Ladd y Guzik lo leen sobre todo como rango, a la luz del Salmo 89:27: el primero en preeminencia. De ahí sale el tercer título. Ladd recuerda que en tiempos de Juan Roma gobernaba sin rivales, y aun así el creyente confiesa que el que eligió la humillación ya gobierna sobre los reyes; su venida mostrará al mundo esa soberanía. Carballosa subraya el otro lado: ese reinado sobre los reyes espera su segunda venida.",
+          "fuentes": [
+            "macarthur_01#24",
+            "ladd_01_a#30",
+            "web_03_a#10",
+            "ladd_01_a#31",
+            "carballosa_02_a#29"
+          ]
         }
       ]
     },
@@ -33,11 +70,26 @@
       "parrafos": [
         {
           "texto": "En Isaías, Dios se llama a sí mismo el primero y el último (Is 41:4; 44:6; 48:12). En el Apocalipsis, Jesús toma ese título como propio: «yo soy el primero y el último» (1:17), y lo repite a Esmirna (2:8) y al final del libro (22:13). Para la Biblia MacArthur, Geisler y Brooks, Chafer y el Comentario Mundo Hispano es una afirmación clara de que Jesús es Dios; el Mundo Hispano llega a decir que en este libro Jesucristo es idéntico a Jehová. MacArthur suma otros textos sobre Dios que el libro aplica a Cristo, como Daniel 7:9 en 1:14 y Deuteronomio 10:17 en 19:16.",
-          "fuentes": ["mbiblia_01_a#33", "r2_001_a#5", "r2_029#12", "cbmh_02_a#19", "web_01#23", "macarthur_01#5"]
+          "fuentes": [
+            "mbiblia_01_a#33",
+            "r2_001_a#5",
+            "r2_029#12",
+            "cbmh_02_a#19",
+            "web_01#23",
+            "macarthur_01#5"
+          ]
         },
         {
           "texto": "Lo mismo pasa con «el Alfa y la Omega», la primera y la última letra del alfabeto griego (1:8; 21:6; 22:13). Ladd explica que incluye todo lo que está entre las dos: el comienzo, el fin y todo lo que pasa en la historia. McGee lo lleva al lenguaje: con un alfabeto se hacen las palabras, y Cristo es toda la comunicación de Dios. Para Ladd, por eso Cristo puede juzgar: comparte la naturaleza eterna de Dios. Y el título no se da para asustar: cuando Juan cae como muerto, Jesús le pone la mano encima y le dice «No temas; yo soy el primero y el último» (MacArthur, Carballosa).",
-          "fuentes": ["ladd_01_a#39", "mcgee_02_a#7", "ladd_08_b#12", "macarthur_18_b#19", "macarthur_17_b#16", "macarthur_02_b#5", "carballosa_02_b#20"]
+          "fuentes": [
+            "ladd_01_a#39",
+            "mcgee_02_a#7",
+            "ladd_08_b#12",
+            "macarthur_18_b#19",
+            "macarthur_17_b#16",
+            "macarthur_02_b#5",
+            "carballosa_02_b#20"
+          ]
         }
       ]
     },
@@ -46,11 +98,25 @@
       "parrafos": [
         {
           "texto": "Juan ve en medio de los candeleros a «uno semejante al Hijo del Hombre» (1:13). La frase viene de Daniel 7:13, y fue el título que Jesús más usó para sí. Ladd dice que acá señala a alguien que es como un hombre pero no meramente hombre; Carballosa ve en «semejante» su humanidad junto con su gloria y su deidad, y Guzik advierte que el nombre que suena humilde es, a la luz de Daniel, una figura de gloria. A Tiatira se presenta como «El Hijo de Dios» (2:18), la única vez en el libro: MacArthur lo lee como énfasis en su deidad, frente al Hijo del Hombre, título de su compasión como sumo sacerdote.",
-          "fuentes": ["ladd_01_b#8", "carballosa_02_b#15", "beacon_01_b#23", "web_03_a#27", "macarthur_03_b#15"]
+          "fuentes": [
+            "ladd_01_b#8",
+            "carballosa_02_b#15",
+            "beacon_01_b#23",
+            "web_03_a#27",
+            "macarthur_03_b#15"
+          ]
         },
         {
           "texto": "En algunas cartas aparecen títulos que no salen de la visión del capítulo 1 (MacArthur). A Filadelfia le habla «el Santo, el Verdadero» (3:7): según el Mundo Hispano, es el único versículo donde se llama «el Santo» a Cristo, un título que en el libro es de Dios. «Verdadero» quiere decir genuino, real (Carballosa, Guzik). La llave de David remite a Isaías 22:22: la autoridad sobre la casa del rey, que en Cristo es decidir quién entra a su reino (Ladd, Mundo Hispano). A Laodicea se presenta como «el Amén» (3:14): McGee señala que es el único lugar de la Biblia donde Amén es nombre propio, y MacArthur lo une a 2 Corintios 1:20: todas las promesas de Dios tienen en él su sí y su amén.",
-          "fuentes": ["macarthur_04_b#17", "cbmh_03_b#6", "carballosa_04_a#9", "web_02_a#17", "ladd_02_a#45", "mcgee_03_b#24", "mbiblia_01_b#27"]
+          "fuentes": [
+            "macarthur_04_b#17",
+            "cbmh_03_b#6",
+            "carballosa_04_a#9",
+            "web_02_a#17",
+            "ladd_02_a#45",
+            "mcgee_03_b#24",
+            "mbiblia_01_b#27"
+          ]
         }
       ]
     },
@@ -59,15 +125,44 @@
       "parrafos": [
         {
           "texto": "En el capítulo 5 un anciano anuncia que «el León de la tribu de Judá, la raíz de David, ha vencido» (5:5). Los dos títulos juntan la esperanza mesiánica del Antiguo Testamento: la bendición de Jacob sobre Judá (Gn 49:9-10) y el retoño de Isaí (Is 11:1, 10). Ladd nota que en la literatura judía de la época el león era el Mesías conquistador. Pero Juan mira y ve «un Cordero como inmolado» (5:6). MacArthur lo resume: no podía ser León de juicio sin ser primero el Cordero que quita el pecado del mundo. Stott agrega que la combinación sugiere que su poder se debe a su sacrificio, y que más de la mitad de las veces que el Nuevo Testamento habla de vencer y de victoria están en este libro.",
-          "fuentes": ["cbmh_04#18", "beacon_03_a#22", "carballosa_18_b#11", "ladd_02_c#27", "macarthur_05_b#19", "web_16#16", "r1_030#28", "r1_030#24", "carballosa_05_b#15"]
+          "fuentes": [
+            "cbmh_04#18",
+            "beacon_03_a#22",
+            "carballosa_18_b#11",
+            "ladd_02_c#27",
+            "macarthur_05_b#19",
+            "web_16#16",
+            "r1_030#28",
+            "r1_030#24",
+            "carballosa_05_b#15"
+          ]
         },
         {
           "texto": "Desde ahí, Cordero es la forma más propia de nombrarlo: los autores cuentan entre 27 y 29 veces, según cómo cuenten (Earle en el Beacon, Wiersbe, Stott, MacArthur, Mundo Hispano), y el Mundo Hispano lo compara con solo siete veces el nombre Cristo. Fuera del Apocalipsis, recuerda MacArthur, el Nuevo Testamento llama cordero a Jesús apenas cuatro veces. Para Carballosa, la figura habla del sacrificio sustituto de la cruz y del que resucitó y vuelve con poder. McGee, citando a Snell, lo dice en una frase: el Cordero es el centro alrededor del cual se agrupa todo.",
-          "fuentes": ["cbmh_04#21", "beacon_03_a#23", "r1_024_b#10", "r2_032#2", "macarthur_05_b#19", "carballosa_18_b#4", "mcgee_01_b#1"]
+          "fuentes": [
+            "cbmh_04#21",
+            "beacon_03_a#23",
+            "r1_024_b#10",
+            "r2_032#2",
+            "macarthur_05_b#19",
+            "carballosa_18_b#4",
+            "mcgee_01_b#1"
+          ]
         },
         {
           "texto": "Pero no es solo una imagen de mansedumbre. Los hombres piden esconderse de «la ira del Cordero» (6:16), una paradoja que el Mundo Hispano y McGee explican porque el Cordero es también el León y el juez. El mismo Cordero, en medio del trono, «los pastoreará» (7:17), y en 17:14 vence porque es «Señor de señores y Rey de reyes». Al final, Grau observa que todo en la ciudad gira en torno a él: es la esposa del Cordero, él es su templo y su lumbrera, y el río sale «del trono de Dios y del Cordero» (22:1). Lacueva se apoya en esto para afirmar que el Hijo no deja su humanidad: el Cordero sigue ahí para siempre.",
-          "fuentes": ["cbmh_04#44", "mcgee_05_a#11", "macarthur_06_b#36", "cbmh_05_a#16", "carballosa_13_b#17", "r1_013#21", "carballosa_17_a#32", "carballosa_17_a#27", "carballosa_17_b#3", "r2_030#6"]
+          "fuentes": [
+            "cbmh_04#44",
+            "mcgee_05_a#11",
+            "macarthur_06_b#36",
+            "cbmh_05_a#16",
+            "carballosa_13_b#17",
+            "r1_013#21",
+            "carballosa_17_a#32",
+            "carballosa_17_a#27",
+            "carballosa_17_b#3",
+            "r2_030#6"
+          ]
         }
       ]
     },
@@ -76,11 +171,25 @@
       "parrafos": [
         {
           "texto": "Cuando el cielo se abre en 19:11, Chafer cuenta cuatro títulos en el jinete del caballo blanco: «Fiel y Verdadero», un nombre secreto, «EL VERBO DE DIOS» y «REY DE REYES Y SEÑOR DE SEÑORES». Fiel y Verdadero retoma lo que ya se dijo de él en 1:5, 3:7 y 3:14 (Earle en el Beacon, Mundo Hispano): el que vuelve es el mismo que habló a las iglesias, y juzga con justicia. Del «nombre escrito que ninguno conocía sino él mismo» (19:12), Swete, citado en el Beacon, dice que la mente no alcanza el misterio de su persona; MacArthur admite que no sabe cuál es.",
-          "fuentes": ["r1_029#11", "beacon_05_a#15", "cbmh_07#27", "r1_013#25", "r1_014#32"]
+          "fuentes": [
+            "r1_029#11",
+            "beacon_05_a#15",
+            "cbmh_07#27",
+            "r1_013#25",
+            "r1_014#32"
+          ]
         },
         {
-          "texto": "Solo Juan llama a Cristo el Verbo, la Palabra (lógos): en su Evangelio, en su primera carta y acá. Jesús es la expresión perfecta de lo que Dios es y quiere, su revelación final (Beacon, Biblia MacArthur). «Rey de reyes y Señor de señores» es, para MacArthur, un título que Deuteronomio 10:17 da a Dios; Carballosa y Grudem lo leen como declaración de su deidad y su soberanía. Ladd y el Mundo Hispano responden a quienes ven aquí un Cristo distinto del bondadoso de los Evangelios: en todo el Nuevo Testamento la victoria por medio del juicio es parte de su obra.",
-          "fuentes": ["beacon_05_a#16", "mbiblia_02_d#37", "macarthur_01#5", "carballosa_13_b#17", "r2_026#7", "ladd_07_a#22", "cbmh_07#27"]
+          "texto": "Solo Juan llama a Cristo el Verbo, la Palabra (lógos): en su Evangelio, en su primera carta y acá. Jesús es la expresión perfecta de lo que Dios es y quiere, su revelación final (Beacon, Biblia MacArthur). «Rey de reyes y Señor de señores» es, para MacArthur, un título que Deuteronomio 10:17 da a Dios; Carballosa lo lee como declaración de su deidad y su soberanía, y Grudem como la culminación del título Señor, cuando Jesús vuelve como rey conquistador. Ladd y el Mundo Hispano responden a quienes ven aquí un Cristo distinto del bondadoso de los Evangelios: en todo el Nuevo Testamento la victoria por medio del juicio es parte de su obra.",
+          "fuentes": [
+            "beacon_05_a#16",
+            "mbiblia_02_d#37",
+            "macarthur_01#5",
+            "carballosa_13_b#17",
+            "r2_026#7",
+            "ladd_07_a#22",
+            "cbmh_07#27"
+          ]
         }
       ]
     },
@@ -89,70 +198,381 @@
       "parrafos": [
         {
           "texto": "Casi al cerrar, el Señor usa por única vez en el libro su nombre humano: «Yo Jesús» (22:16), nota Carballosa, justo después de los títulos de deidad del versículo 13. Y se llama «la raíz y el linaje de David». MacArthur ve en esa aparente paradoja las dos naturalezas: en su deidad es la raíz, el origen de David; en su humanidad, su descendiente. Solo el Dios hecho hombre puede ser las dos cosas. Para Carballosa, ahí se cumple la promesa hecha a David.",
-          "fuentes": ["carballosa_18_a#17", "macarthur_19#3", "mbiblia_03_b#10", "carballosa_18_a#18", "ladd_08_b#16"]
+          "fuentes": [
+            "carballosa_18_a#17",
+            "macarthur_19#3",
+            "mbiblia_03_b#10",
+            "carballosa_18_a#18",
+            "ladd_08_b#16"
+          ]
         },
         {
-          "texto": "También es «la estrella resplandeciente de la mañana». Ladd lo une a la antigua profecía de la estrella que saldría de Jacob (Nm 24:17), y el Mundo Hispano recuerda que la estrella era un símbolo conocido del rey de la casa de David. Es la estrella que anuncia el día: cuando Jesús venga, se termina la noche (Biblia MacArthur, Mundo Hispano). En la carta a Tiatira esa estrella se le promete al vencedor (2:28), y Earle concluye en el Beacon que la mayor recompensa del cristiano es Cristo mismo.",
-          "fuentes": ["ladd_08_b#16", "cbmh_09#2", "mbiblia_03_b#10", "beacon_02_a#42"]
+          "texto": "También es «la estrella resplandeciente de la mañana». Ladd lo une a la antigua profecía de la estrella que saldría de Jacob (Nm 24:17), y el Mundo Hispano recuerda que la estrella era un símbolo conocido del rey de la casa de David. Es la estrella que anuncia el día: cuando Jesús venga, se termina la noche (Biblia MacArthur, Mundo Hispano). En la carta a Tiatira esa estrella se le promete al vencedor (2:28), y el Beacon concluye que la mayor recompensa del cristiano es Cristo mismo.",
+          "fuentes": [
+            "ladd_08_b#16",
+            "cbmh_09#2",
+            "mbiblia_03_b#10",
+            "beacon_02_a#42"
+          ]
         }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1:5", "griego": "μάρτυς", "translit": "mártys", "significado": "“Testigo”; con el tiempo, “mártir”. Solo en 1:5 y 3:14 se llama testigo a Jesús (Beacon).", "fuentes": ["beacon_01_b#1", "web_03_a#10", "cbmh_01_b#9"]},
-    {"ref": "1:5", "griego": "πρωτότοκος", "translit": "prōtótokos", "significado": "“Primogénito”: además de orden, preeminencia (Sal 89:27).", "fuentes": ["macarthur_01#24", "ladd_01_a#30"]},
-    {"ref": "3:14", "griego": "ἀρχή", "translit": "arjé", "significado": "“Principio”: origen, fuente; Grudem admite también “soberano”. No significa “primera criatura”.", "fuentes": ["ladd_02_b#19", "macarthur_04_b#18", "r2_034#15"]},
-    {"ref": "5:6", "griego": "ἀρνίον", "translit": "arníon", "significado": "“Cordero”, diminutivo de arnos (MacArthur, McGee), aunque Jeremias, citado por Earle, advierte que ya no se sentía diminutivo. Carballosa lo contrapone a thēríon, la bestia.", "fuentes": ["macarthur_05_b#19", "mcgee_04_b#12", "beacon_03_a#23", "carballosa_05_a#24"]},
-    {"ref": "19:13", "griego": "λόγος", "translit": "lógos", "significado": "“Palabra”, “Verbo”: un pensamiento y su expresión. Solo Juan lo usa como nombre de Cristo.", "fuentes": ["beacon_05_a#16", "mbiblia_02_d#37"]}
+    {
+      "ref": "1:5",
+      "griego": "μάρτυς",
+      "translit": "mártys",
+      "significado": "“Testigo”; con el tiempo, “mártir”. Solo en 1:5 y 3:14 se llama testigo a Jesús (Beacon).",
+      "fuentes": [
+        "beacon_01_b#1",
+        "web_03_a#10",
+        "cbmh_01_b#9"
+      ]
+    },
+    {
+      "ref": "1:5",
+      "griego": "πρωτότοκος",
+      "translit": "prōtótokos",
+      "significado": "“Primogénito”: además de orden, preeminencia (Sal 89:27).",
+      "fuentes": [
+        "macarthur_01#24",
+        "ladd_01_a#30"
+      ]
+    },
+    {
+      "ref": "3:14",
+      "griego": "ἀρχή",
+      "translit": "arjé",
+      "significado": "“Principio”: origen, fuente; Grudem admite también “soberano”. No significa “primera criatura”.",
+      "fuentes": [
+        "ladd_02_b#19",
+        "macarthur_04_b#18",
+        "r2_034#15"
+      ]
+    },
+    {
+      "ref": "5:6",
+      "griego": "ἀρνίον",
+      "translit": "arníon",
+      "significado": "“Cordero”, diminutivo de arnos (MacArthur, McGee), aunque Jeremias, citado por Earle, advierte que ya no se sentía diminutivo. Carballosa lo contrapone a thēríon, la bestia.",
+      "fuentes": [
+        "macarthur_05_b#19",
+        "mcgee_04_b#12",
+        "beacon_03_a#23",
+        "carballosa_05_a#24"
+      ]
+    },
+    {
+      "ref": "19:13",
+      "griego": "λόγος",
+      "translit": "lógos",
+      "significado": "“Palabra”, “Verbo”: un pensamiento y su expresión. Solo Juan lo usa como nombre de Cristo.",
+      "fuentes": [
+        "beacon_05_a#16",
+        "mbiblia_02_d#37"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Quién dice «Yo soy el Alfa y la Omega» en 1:8?",
       "posturas": [
-        {"postura": "Dios: es el sello divino que reafirma su señorío sobre la historia antes de la primera visión; en el epílogo (22:13) es Cristo quien se aplica el título.", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial e idealista)", "fuentes": ["ladd_01_a#39", "cbmh_08_b#18"]},
-        {"postura": "Jesucristo, centro de la revelación; «el que es y que era y que ha de venir» también se dice del Hijo.", "quien": "Carballosa (premilenial dispensacional); Guzik", "fuentes": ["carballosa_02_b#5", "web_03_a#19"]}
+        {
+          "postura": "Dios: es el sello divino que reafirma su señorío sobre la historia antes de la primera visión; en el epílogo (22:13) es Cristo quien se aplica el título.",
+          "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial e idealista)",
+          "fuentes": [
+            "ladd_01_a#39",
+            "cbmh_08_b#18"
+          ]
+        },
+        {
+          "postura": "Jesucristo, centro de la revelación; «el que es y que era y que ha de venir» también se dice del Hijo.",
+          "quien": "Carballosa (premilenial dispensacional); Guzik",
+          "fuentes": [
+            "carballosa_02_b#5",
+            "web_03_a#19"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que en 22:13 lo dice Cristo, y Carballosa recuerda que el Padre y el Hijo pueden decirlo por igual. Por eso Grudem y MacArthur ven en el título compartido la igualdad del Hijo con el Padre."
     },
     {
       "tema": "«El principio de la creación de Dios» (3:14)",
       "posturas": [
-        {"postura": "Fuente y origen de la creación: Cristo es aquel por medio de quien Dios creó todo (Jn 1:3; Col 1:15-17).", "quien": "Ladd (premilenial histórico); MacArthur y Carballosa (premilenial dispensacional)", "fuentes": ["ladd_02_b#19", "macarthur_04_b#18", "carballosa_04_b#3"]},
-        {"postura": "Soberano de la creación, como traduce la NVI: un sentido alternativo aceptable.", "quien": "Grudem", "fuentes": ["r2_034#15"]}
+        {
+          "postura": "Fuente y origen de la creación: Cristo es aquel por medio de quien Dios creó todo (Jn 1:3; Col 1:15-17).",
+          "quien": "Ladd (premilenial histórico); MacArthur y Carballosa (premilenial dispensacional)",
+          "fuentes": [
+            "ladd_02_b#19",
+            "macarthur_04_b#18",
+            "carballosa_04_b#3"
+          ]
+        },
+        {
+          "postura": "Soberano de la creación, como traduce la NVI: un sentido alternativo aceptable.",
+          "quien": "Grudem",
+          "fuentes": [
+            "r2_034#15"
+          ]
+        }
       ],
       "nota": "Ninguno acepta la lectura de los arrianos y de los Testigos de Jehová, para quienes Jesús sería la primera criatura: Grudem muestra que la misma palabra lo llama en 22:13 «el principio y el fin»."
     },
     {
       "tema": "¿Quién está sentado sobre la nube en 14:14?",
       "posturas": [
-        {"postura": "Cristo que vuelve: «Hijo del Hombre» nunca se aplica a ángeles, y la corona de oro lo señala como Rey.", "quien": "Ladd (premilenial histórico); McGee (premilenial dispensacional); Guzik", "fuentes": ["ladd_05_b#21", "mcgee_08#39", "web_04_a#13"]},
-        {"postura": "Un ángel, porque empieza la cosecha cuando se lo pide «otro ángel» (14:15).", "quien": "Algunos intérpretes, según Guzik y Ladd, que responden la objeción", "fuentes": ["web_04_a#13", "ladd_05_b#21"]}
+        {
+          "postura": "Cristo que vuelve: «Hijo del Hombre» nunca se aplica a ángeles, y la corona de oro lo señala como Rey.",
+          "quien": "Ladd (premilenial histórico); McGee (premilenial dispensacional); Guzik",
+          "fuentes": [
+            "ladd_05_b#21",
+            "mcgee_08#39",
+            "web_04_a#13"
+          ]
+        },
+        {
+          "postura": "Un ángel, porque empieza la cosecha cuando se lo pide «otro ángel» (14:15).",
+          "quien": "Algunos intérpretes, según Guzik y Ladd, que responden la objeción",
+          "fuentes": [
+            "web_04_a#13",
+            "ladd_05_b#21"
+          ]
+        }
       ],
       "nota": "Ladd responde que en las parábolas de Jesús también los ángeles recogen la cosecha (Mt 13:41)."
     }
   ],
   "citas": [
-    {"texto": "Él es la letra “a” y la letra “z”, y Él es el abecedario completo.", "autor": "J. Vernon McGee", "obra": "Apocalipsis: un comentario", "pagina": "pág. PDF 51"},
-    {"texto": "No es un Cordero blandengue, débil y pasivo, es un Cordero que triunfa por ser inmolado", "autor": "N. Alirio Eustache Vilaire", "obra": "Comentario Bíblico Mundo Hispano, tomo 24: Apocalipsis", "pagina": "pág. PDF 186-187"},
-    {"texto": "La mayor recompensa que cualquier cristiano victorioso puede recibir es Cristo mismo.", "autor": "Ralph Earle", "obra": "Comentario Bíblico Beacon, tomo 10", "pagina": "pág. PDF 352"}
+    {
+      "texto": "Él es la letra “a” y la letra “z”, y Él es el abecedario completo.",
+      "autor": "J. Vernon McGee",
+      "obra": "Apocalipsis: un comentario",
+      "pagina": "pág. PDF 51"
+    },
+    {
+      "texto": "No es un Cordero blandengue, débil y pasivo, es un Cordero que triunfa por ser inmolado",
+      "autor": "N. Alirio Eustache Vilaire",
+      "obra": "Comentario Bíblico Mundo Hispano, tomo 24: Apocalipsis",
+      "pagina": "pág. PDF 186-187"
+    },
+    {
+      "texto": "La mayor recompensa que cualquier cristiano victorioso puede recibir es Cristo mismo.",
+      "autor": "Ralph Earle",
+      "obra": "Comentario Bíblico Beacon, tomo 10",
+      "pagina": "pág. PDF 352"
+    }
   ],
   "conexiones": [
-    {"ref": "Dn 7:13", "nota": "Uno como un hijo de hombre viene con las nubes ante el Anciano de días; Juan lo ve en 1:13 y 14:14.", "fuentes": ["ladd_01_b#8", "r1_002#4"]},
-    {"ref": "Is 44:6", "nota": "Dios se llama el primero y el último; Jesús lo dice de sí en 1:17, 2:8 y 22:13.", "fuentes": ["mbiblia_01_a#33", "r2_001_a#5"]},
-    {"ref": "Gn 49:9-10", "nota": "Jacob llama a Judá cachorro de león y le promete el cetro: de ahí el León de la tribu de Judá.", "fuentes": ["ladd_02_c#27", "macarthur_05_b#17", "beacon_03_a#22"]},
-    {"ref": "Nm 24:17", "nota": "La estrella que saldría de Jacob, detrás de la estrella resplandeciente de la mañana.", "fuentes": ["ladd_08_b#16"]}
+    {
+      "ref": "Dn 7:13",
+      "nota": "Uno como un hijo de hombre viene con las nubes ante el Anciano de días; Juan lo ve en 1:13 y 14:14.",
+      "fuentes": [
+        "ladd_01_b#8",
+        "r1_002#4"
+      ]
+    },
+    {
+      "ref": "Is 44:6",
+      "nota": "Dios se llama el primero y el último; Jesús lo dice de sí en 1:17, 2:8 y 22:13.",
+      "fuentes": [
+        "mbiblia_01_a#33",
+        "r2_001_a#5"
+      ]
+    },
+    {
+      "ref": "Gn 49:9-10",
+      "nota": "Jacob llama a Judá cachorro de león y le promete el cetro: de ahí el León de la tribu de Judá.",
+      "fuentes": [
+        "ladd_02_c#27",
+        "macarthur_05_b#17",
+        "beacon_03_a#22"
+      ]
+    },
+    {
+      "ref": "Nm 24:17",
+      "nota": "La estrella que saldría de Jacob, detrás de la estrella resplandeciente de la mañana.",
+      "fuentes": [
+        "ladd_08_b#16"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Mirarlo a él. McGee aconseja no apartar los ojos de Cristo ni cuando el libro habla de las copas de la ira: si lo tenemos delante, el libro cobra sentido y deja de preocuparnos. La Coalición por el Evangelio resume el mensaje así: perseverar, porque el León de Judá reina y dirige la historia.", "fuentes": ["mcgeer_01#15", "mcgeer_06#7", "cpe_01#6"]},
-    {"texto": "Creerle. El Amén y el testigo fiel no dice nada falso: a Laodicea eso le aseguraba que su diagnóstico era exacto y que su invitación era cierta (MacArthur). Lo que nos dice y nos promete, también.", "fuentes": ["macarthur_04_b#17", "mbiblia_01_b#27"]}
+    {
+      "texto": "Mirarlo a él. McGee aconseja no apartar los ojos de Cristo ni cuando el libro habla de las copas de la ira: si lo tenemos delante, el libro cobra sentido y deja de preocuparnos. La Coalición por el Evangelio resume el mensaje así: perseverar, porque el León de Judá reina y dirige la historia.",
+      "fuentes": [
+        "mcgeer_01#15",
+        "mcgeer_06#7",
+        "cpe_01#6"
+      ]
+    },
+    {
+      "texto": "Creerle. El Amén y el testigo fiel no dice nada falso: a Laodicea eso le aseguraba que su diagnóstico era exacto y que su invitación era cierta (MacArthur). Lo que nos dice y nos promete, también.",
+      "fuentes": [
+        "macarthur_04_b#17",
+        "mbiblia_01_b#27"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Cuál de los títulos de Jesús en el Apocalipsis nos toca más hoy, y por qué?",
     "Juan esperaba un León y vio un Cordero. ¿Cuándo esperamos que Dios actúe con fuerza y él elige otro camino?",
     "Jesús le dice a Juan «No temas» justo cuando le muestra su gloria. ¿Qué cambia en nuestros miedos saber quién es él?"
   ],
-  "dias_relacionados": [1, 2, 4, 7, 13, 17, 19, 25, 31, 35, 60, 67, 73, 74, 91, 94],
-  "visuales": ["dg-cristo", "dg-candelero", "dg-cartas"],
-  "refs_apocalipsis": ["1:1", "1:5", "1:8", "1:13", "1:17-18", "2:8", "2:18", "2:28", "3:7", "3:14", "5:5-6", "6:16", "7:17", "14:14", "17:14", "19:11-16", "21:6", "21:22-23", "22:1", "22:13", "22:16"],
-  "notas_no_usadas": []
+  "dias_relacionados": [
+    1,
+    2,
+    4,
+    7,
+    13,
+    17,
+    19,
+    25,
+    31,
+    35,
+    60,
+    67,
+    73,
+    74,
+    91,
+    94
+  ],
+  "visuales": [
+    "dg-cristo",
+    "dg-candelero",
+    "dg-cartas"
+  ],
+  "refs_apocalipsis": [
+    "1:1",
+    "1:5",
+    "1:8",
+    "1:13",
+    "1:17-18",
+    "2:8",
+    "2:18",
+    "2:28",
+    "3:7",
+    "3:14",
+    "5:5-6",
+    "6:16",
+    "7:17",
+    "14:14",
+    "17:14",
+    "19:11-16",
+    "21:6",
+    "21:22-23",
+    "22:1",
+    "22:13",
+    "22:16"
+  ],
+  "notas_no_usadas": [
+    "larkin_01_b#6",
+    "henry_02_b#16",
+    "r1_039#5",
+    "r1_039#11",
+    "carballosa_19#23",
+    "henry_02_b#17",
+    "r1_037#9",
+    "henry_02_b#8",
+    "ladd_04_b#2",
+    "r1_038#2",
+    "ladd_01_a#17",
+    "cpe_01#5",
+    "r1_022#14",
+    "ladd_01_a#13",
+    "larkin_02_b#12",
+    "r1_037#6",
+    "carballosa_19#16",
+    "r1_036_a#21",
+    "r1_027#27",
+    "web_17#8",
+    "web_14#7",
+    "r1_036_b#15",
+    "henry_01_a#1",
+    "henry_01_a#4",
+    "carballosa_18_b#7",
+    "r1_029#25",
+    "web_07#4",
+    "carballosa_15_b#25",
+    "r1_024_a#7",
+    "r1_027#13",
+    "web_20#4",
+    "r1_027#28",
+    "ladd_01_a#11",
+    "r1_028#17",
+    "r1_038#3",
+    "r1_019#13",
+    "r1_026#20",
+    "dbmh_01_a#5",
+    "web_12#15",
+    "carballosa_02_a#12",
+    "r1_027#12",
+    "web_14#1",
+    "carballosa_09_a#21",
+    "carballosa_08#29",
+    "carballosa_16_b#21",
+    "cpe_03#18",
+    "carballosa_18_b#10",
+    "r1_012#12",
+    "r1_036_a#13",
+    "cbmh_04#31",
+    "r1_027#15",
+    "ladd_05_b#7",
+    "r1_017#19",
+    "web_05_c#6",
+    "ladd_01_a#8",
+    "r1_013#17",
+    "r1_027#10",
+    "dbmh_01_a#7",
+    "r1_019#23",
+    "cpe_03#13",
+    "r1_024_a#3",
+    "carballosa_01#36",
+    "cpe_04#15",
+    "carballosa_02_b#25",
+    "r1_029#14",
+    "r1_038#14",
+    "carballosa_02_a#14",
+    "mcgee_11_b#1",
+    "r1_025#13",
+    "larkin_01_b#8",
+    "web_14#5",
+    "r1_024_a#15",
+    "r1_009#7",
+    "r1_024_a#8",
+    "cbmh_04#48",
+    "r1_022#12",
+    "r1_007#1",
+    "r1_027#17",
+    "r1_005#27",
+    "r2_008#22",
+    "carballosa_05_b#18",
+    "r2_004_a#1",
+    "cpe_03#15",
+    "r1_012#8",
+    "carballosa_06#39",
+    "ladd_03_b#21",
+    "web_04_c#1",
+    "ladd_05_a#5",
+    "ladd_08_a#2",
+    "macarthur_12_a#19",
+    "cpe_01#23",
+    "r2_005_a#2",
+    "cbmh_02_b#1",
+    "beacon_01_a#17",
+    "r1_030#29",
+    "r2_008#14",
+    "ladd_01_a#14",
+    "r1_029#2",
+    "mbiblia_01_a#2",
+    "cpe_02#8",
+    "macarthur_15_a#11",
+    "r1_032#16",
+    "r2_036#4",
+    "r2_038_b#11",
+    "web_10_b#2",
+    "r1_029#1",
+    "ladd_06_a#25",
+    "web_10_b#12"
+  ]
 }

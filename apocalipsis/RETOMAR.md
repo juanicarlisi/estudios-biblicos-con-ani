@@ -30,3 +30,8 @@
 - No queda ningún agente en curso. Hecho: 95 días; diagramas 12/13 (falta dg-jerusalen); artículos 14/29 (I1-I5, P1-P6, T1-T3).
 - Falta: artículos P7-P10 y T4-T14; dg-jerusalen; cotejos anotados arriba (Buswell día 45, comillas «» en diagramas, Nerva, fila «diez días», tarjeta 22:16); luego la app (`apocalipsis/app/`) y el HTML final.
 - Nota T3: el insumo `art_T3.txt` casi no traía material de títulos de Cristo (el filtro de `insumos_articulos.py` agarró «Cristo»/«gloria» y trajo milenio, anticristo, etc.); el agente usó notas de `extracciones/` (tipos cristo_en_apocalipsis y griego_palabra). Revisar el filtro de T3 antes de rehacer insumos de otros artículos temáticos (T4-T14) para que traigan el material pertinente.
+
+## Estado al 30-10-2026 (tarde)
+- Contenido completo: 95 días, 29 artículos, 13 diagramas; todo valida (`python3 trabajo/scripts/estado.py --validar`). La app la construye un agente (`trabajo/prompts/construir_app.md`) → `apocalipsis/estudio-apocalipsis.html`.
+- Cotejo de comillas: `python3 trabajo/scripts/cotejar_citas.py` → 486 de 3.197 frases «» no coinciden con la RVR de Apocalipsis (mezcla de: términos que no son bíblicos —«mártir», «anticristo», que deben ir en “ ”—, citas de otros libros —no verificables con este archivo— y posibles citas imprecisas de Apocalipsis). Pendiente: pasar a “ ” lo no bíblico y corregir las imprecisas.
+- Otros cotejos pendientes: Buswell (día 45 vs Ryrie), Nerva en dg-cronologia, fila «diez días» en dg-tiempos, tarjeta 22:16 en dg-cristo, repetición entre días 76-81 y 32/33.

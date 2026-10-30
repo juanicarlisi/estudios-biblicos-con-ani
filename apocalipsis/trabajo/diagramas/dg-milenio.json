@@ -1,0 +1,78 @@
+{
+  "id": "dg-milenio",
+  "titulo": "Los mil años: dónde los ubica cada postura",
+  "bajada": "Cuatro líneas de tiempo, de la primera venida al estado eterno. Mismo color, mismo tipo de período. Las posiciones son aproximadas: las fuentes dan el orden, no fechas.",
+  "tipo": "lineas",
+  "eje": ["Primera venida de Cristo", "Estado eterno"],
+  "carriles": [
+    {
+      "nombre": "Premilenialismo dispensacional",
+      "quien": "MacArthur y la Biblia MacArthur, MacArthur y Mayhue, Carballosa, McGee, Larkin, Chafer, Ryrie, Pentecost, Benware y Lacueva",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia", "desde": 0, "hasta": 40, "clase": "a"},
+        {"etiqueta": "Tribulación (siete años)", "desde": 40, "hasta": 52, "clase": "b"},
+        {"etiqueta": "Mil años literales en la tierra; se cumplen las promesas a Israel", "desde": 52, "hasta": 82, "clase": "c"},
+        {"etiqueta": "Satanás suelto: rebelión final", "desde": 82, "hasta": 86, "clase": "b"},
+        {"etiqueta": "Gran trono blanco: solo incrédulos", "desde": 86, "hasta": 90, "clase": "d"},
+        {"etiqueta": "Estado eterno", "desde": 90, "hasta": 100, "clase": "e"}
+      ],
+      "marcas": [
+        {"en": 40, "etiqueta": "Arrebatamiento: empieza la primera resurrección (la iglesia)"},
+        {"en": 52, "etiqueta": "Segunda venida: resucitan los santos del AT y los mártires de la tribulación"},
+        {"en": 86, "etiqueta": "Resurrección de los incrédulos"}
+      ],
+      "fuentes": ["cpe_03#16", "r1_005#30", "r2_035#10", "r2_005_a#25", "carballosa_16_a#4", "carballosa_16_a#1", "r1_035#14", "mcgee_11_a#9", "mbiblia_03_a#4", "r1_032#33", "r1_019#3", "macarthur_17_a#26", "r1_038#24", "larkin_06_a#16", "r1_029#20"]
+    },
+    {
+      "nombre": "Premilenialismo histórico",
+      "quien": "Ladd, Grudem, Beasley-Murray y Buswell; Ligonier lo describe",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia", "desde": 0, "hasta": 40, "clase": "a"},
+        {"etiqueta": "Gran tribulación: la iglesia en la tierra", "desde": 40, "hasta": 52, "clase": "b"},
+        {"etiqueta": "Reino de Cristo en la tierra (la duración exacta es secundaria)", "desde": 52, "hasta": 82, "clase": "c"},
+        {"etiqueta": "Satanás suelto: rebelión final", "desde": 82, "hasta": 86, "clase": "b"},
+        {"etiqueta": "Juicio final ante el trono blanco", "desde": 86, "hasta": 90, "clase": "d"},
+        {"etiqueta": "Estado eterno", "desde": 90, "hasta": 100, "clase": "e"}
+      ],
+      "marcas": [
+        {"en": 52, "etiqueta": "Segunda venida, arrebatamiento y primera resurrección (los justos)"},
+        {"en": 86, "etiqueta": "Resurrección de los demás muertos"}
+      ],
+      "fuentes": ["cpe_03#16", "web_11_b#18", "r1_028#13", "r1_028#6", "r1_028#17", "r1_028#22", "ladd_07_b#6", "ladd_07_b#7", "ladd_07_b#17", "ladd_07_b#20", "ladd_07_b#22", "henry_02_b#18", "henry_02_b#20", "r1_010#47", "r1_011#1"]
+    },
+    {
+      "nombre": "Amilenialismo",
+      "quien": "Berkhof, Hendriksen, Hoekema, Grau, el Comentario Mundo Hispano, Alcántara (Coalición), Storms y Michelén; antes, Agustín",
+      "segmentos": [
+        {"etiqueta": "Los mil años son la era de la Iglesia: Satanás atado; los fieles que mueren reinan con Cristo en el cielo", "desde": 0, "hasta": 80, "clase": "c"},
+        {"etiqueta": "Satanás suelto: apostasía y tribulación final", "desde": 80, "hasta": 86, "clase": "b"},
+        {"etiqueta": "Un solo juicio final, de todos", "desde": 86, "hasta": 90, "clase": "d"},
+        {"etiqueta": "Estado eterno", "desde": 90, "hasta": 100, "clase": "e"}
+      ],
+      "marcas": [
+        {"en": 0, "etiqueta": "Satanás atado en la primera venida"},
+        {"en": 40, "etiqueta": "Primera resurrección: espiritual (el nuevo nacimiento o la vida del alma con Cristo)"},
+        {"en": 86, "etiqueta": "Segunda venida: una sola resurrección general"}
+      ],
+      "fuentes": ["cpe_03#16", "r1_004#2", "r1_004#5", "cbmh_07#34", "cbmh_07#36", "cbmh_07#40", "cbmh_07#41", "carballosa_15_b#28", "carballosa_16_b#23", "web_11_b#15", "cpe_02#11", "cpe_02#12", "r2_040#36", "r2_040#37", "r1_003#12", "r1_035#25"]
+    },
+    {
+      "nombre": "Posmilenialismo",
+      "quien": "Boettner (citado por Grau), Charles Hodge (citado por Ryrie), A. H. Strong (citado por Grudem) y Jonathan Edwards (según Beeke y Jones); Whitby lo sistematizó",
+      "segmentos": [
+        {"etiqueta": "Era de la Iglesia: el evangelio avanza", "desde": 0, "hasta": 45, "clase": "a"},
+        {"etiqueta": "Mil años: edad de oro que llega de a poco, con la mayoría convertida", "desde": 45, "hasta": 80, "clase": "c"},
+        {"etiqueta": "Breve rebelión final", "desde": 80, "hasta": 86, "clase": "b"},
+        {"etiqueta": "Resurrección y juicio generales", "desde": 86, "hasta": 90, "clase": "d"},
+        {"etiqueta": "Estado eterno", "desde": 90, "hasta": 100, "clase": "e"}
+      ],
+      "marcas": [
+        {"en": 45, "etiqueta": "Satanás atado de manera especial; primera resurrección no física"},
+        {"en": 86, "etiqueta": "Segunda venida, una sola vez"}
+      ],
+      "fuentes": ["cpe_03#16", "r1_004#13", "r1_028#9", "r1_013#13", "r1_013#14", "r2_033#24", "r2_025_a#30", "carballosa_19#14", "cbmh_07#37", "r1_003#12"]
+    }
+  ],
+  "nota": "Lo que todos comparten (Morgan, en la Coalición): Cristo vuelve en persona, resucitan los muertos, hay juicio final y cielo e infierno eternos. La primera decisión es si el capítulo 20 sigue al 19 (premileniales) o vuelve a contar la era entre las dos venidas (amileniales, con Hendriksen). Variantes que la línea no muestra: Kliefoth ubica el milenio amilenial en el cielo; para algunos posmileniales los mil años son todo el tiempo entre las venidas; Buswell pone la primera resurrección en la séptima trompeta (11:18), y McGee y MacArthur la ven en etapas. Ver el anexo T11.",
+  "dias": [14, 27, 45, 72, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 91]
+}

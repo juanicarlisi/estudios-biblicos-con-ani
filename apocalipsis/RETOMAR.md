@@ -22,3 +22,4 @@
 - Al retomar: `ls trabajo/dias trabajo/articulos trabajo/diagramas`, validar (`validar_dia.py`, `validar_articulo.py ID`, `validar_diagrama.py`), relanzar lo que falte, luego construir la app (`apocalipsis/app/plantilla.html` + `construir.py`, modelo en `genesis/app/`), cotejos finales y commit.
 - Pendiente de cotejo: Buswell figura como «postribulacional» en el día 45 y en la nota r1_010#12, pero Ryrie (r1_033#2) lo pone entre los mesotribulacionistas y él ubica el arrebatamiento en la séptima trompeta (r1_008#20). El diagrama dg-tribulacion lo atribuye «según Ryrie»; revisar el día 45 para que coincidan.
 - Diagramas B (dg-escuelas, dg-milenio, dg-tribulacion) hechos y validados.
+- Diagramas A (dg-estructura, dg-septenarios, dg-cartas) hechos y validados. Cotejo pendiente de comillas: dg-candelero, dg-cristo y dg-numeros usan «» también para texto no bíblico; deben ir en “ ” (solo la Biblia va entre «»).

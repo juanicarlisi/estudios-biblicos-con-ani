@@ -1,0 +1,324 @@
+{
+  "id": "dg-cronologia",
+  "titulo": "De Nerón a Domiciano",
+  "bajada": "Los emperadores, la persecución y la vida de Juan, con las dos fechas que se proponen para el libro y los hechos que mencionan las fuentes (años d.C.).",
+  "tipo": "lineas",
+  "eje": [
+    "50 d.C.",
+    "60",
+    "70",
+    "80",
+    "90",
+    "100",
+    "110",
+    "120",
+    "130",
+    "140",
+    "150",
+    "160",
+    "170",
+    "180 d.C."
+  ],
+  "carriles": [
+    {
+      "nombre": "Emperadores",
+      "quien": "Lista de Ladd; Nerva y Trajano según Ropero; Marco Aurelio según McGee",
+      "segmentos": [
+        {
+          "etiqueta": "Nerón (54-68)",
+          "desde": 3.1,
+          "hasta": 13.8,
+          "clase": "a"
+        },
+        {
+          "etiqueta": "Galba, Otón y Vitelio",
+          "desde": 13.8,
+          "hasta": 14.6,
+          "clase": "c"
+        },
+        {
+          "etiqueta": "Vespasiano (69-79)",
+          "desde": 14.6,
+          "hasta": 22.3,
+          "clase": "c"
+        },
+        {
+          "etiqueta": "Tito (79-81)",
+          "desde": 22.3,
+          "hasta": 23.8,
+          "clase": "c"
+        },
+        {
+          "etiqueta": "Domiciano (81-96)",
+          "desde": 23.8,
+          "hasta": 35.4,
+          "clase": "b"
+        },
+        {
+          "etiqueta": "Nerva",
+          "desde": 35.4,
+          "hasta": 36.9,
+          "clase": "c"
+        },
+        {
+          "etiqueta": "Trajano (98-117)",
+          "desde": 36.9,
+          "hasta": 51.5,
+          "clase": "c"
+        },
+        {
+          "etiqueta": "Marco Aurelio (161-180)",
+          "desde": 85.4,
+          "hasta": 100.0,
+          "clase": "c"
+        }
+      ],
+      "marcas": [
+        {
+          "en": 13.8,
+          "etiqueta": "Nerón se suicida (68)"
+        },
+        {
+          "en": 35.4,
+          "etiqueta": "Domiciano, asesinado (18 de septiembre del 96)"
+        }
+      ],
+      "fuentes": [
+        "ladd_06_b#2",
+        "r1_019#25",
+        "r1_019#27",
+        "r2_011#42",
+        "mcgee_02_b#29"
+      ]
+    },
+    {
+      "nombre": "Persecución",
+      "quien": "MacArthur, Diccionario Mundo Hispano, Ropero, McGee y Ladd",
+      "segmentos": [
+        {
+          "etiqueta": "Nerón: en Roma (64-68)",
+          "desde": 10.8,
+          "hasta": 13.8,
+          "clase": "d"
+        },
+        {
+          "etiqueta": "Trajano (104-117, según McGee)",
+          "desde": 41.5,
+          "hasta": 51.5,
+          "clase": "d"
+        },
+        {
+          "etiqueta": "Marco Aurelio (161-180, según McGee)",
+          "desde": 85.4,
+          "hasta": 100.0,
+          "clase": "d"
+        }
+      ],
+      "marcas": [
+        {
+          "en": 10.8,
+          "etiqueta": "Incendio de Roma: Nerón culpa a los cristianos (64)"
+        },
+        {
+          "en": 34.6,
+          "etiqueta": "Domiciano (95): llega a Asia según MacArthur; para Ladd, pocas familias en Roma"
+        },
+        {
+          "en": 47.7,
+          "etiqueta": "Trajano (112, según Ladd)"
+        },
+        {
+          "en": 97.7,
+          "etiqueta": "Marco Aurelio (177, según Ladd)"
+        }
+      ],
+      "fuentes": [
+        "macarthur_02_a#10",
+        "dbmh_02#2",
+        "r1_019#22",
+        "mcgee_02_b#29",
+        "ladd_01_a#5",
+        "macarthur_01#33"
+      ]
+    },
+    {
+      "nombre": "Juan",
+      "quien": "Tradición que recogen Benware (con Thomas), Wiersbe, el Mundo Hispano (con Eusebio), Guzik, Ropero y McGee",
+      "segmentos": [
+        {
+          "etiqueta": "Pastor en Éfeso (desde ca. 70)",
+          "desde": 15.4,
+          "hasta": 34.6,
+          "clase": "e"
+        },
+        {
+          "etiqueta": "Patmos",
+          "desde": 34.6,
+          "hasta": 35.8,
+          "clase": "e"
+        },
+        {
+          "etiqueta": "De vuelta en Éfeso",
+          "desde": 35.8,
+          "hasta": 38.5,
+          "clase": "e"
+        }
+      ],
+      "marcas": [
+        {
+          "en": 13.1,
+          "etiqueta": "Llega a Asia a fines de los 60"
+        },
+        {
+          "en": 34.6,
+          "etiqueta": "Desterrado a Patmos por Domiciano (95)"
+        },
+        {
+          "en": 38.5,
+          "etiqueta": "Muere hacia el 100 (McGee)"
+        }
+      ],
+      "fuentes": [
+        "r1_005#15",
+        "r1_024_a#1",
+        "cbmh_02_a#2",
+        "web_03_a#22",
+        "r2_011#42",
+        "macarthur_02_a#13",
+        "mcgee_02_b#23",
+        "mcgeer_02#26"
+      ]
+    },
+    {
+      "nombre": "Fecha temprana (neroniana)",
+      "quien": "Sproul y Ligonier (preterista); Lightfoot, Westcott y Hort; Torrey; Robinson (citado por Ropero)",
+      "segmentos": [
+        {
+          "etiqueta": "Antes de la caída de Jerusalén",
+          "desde": 11.5,
+          "hasta": 15.4,
+          "clase": "a"
+        }
+      ],
+      "marcas": [
+        {
+          "en": 11.5,
+          "etiqueta": "ca. 65: Lightfoot, Westcott y Hort"
+        },
+        {
+          "en": 13.8,
+          "etiqueta": "67-69: Sproul, Torrey (bajo Galba), Robinson"
+        }
+      ],
+      "fuentes": [
+        "web_14#3",
+        "web_13#20",
+        "web_13#22",
+        "beacon_01_a#10",
+        "henry_01_a#2",
+        "r1_019#23",
+        "carballosa_01#14"
+      ]
+    },
+    {
+      "nombre": "Fecha tardía (domiciana)",
+      "quien": "Ireneo y la mayoría de los Padres; MacArthur, Carballosa, Ladd, Beasley-Murray, Earle, McGee, Larkin, Stott; el Mundo Hispano resume a los Padres (81-96, probablemente 95) pero deja abierto el tema",
+      "segmentos": [
+        {
+          "etiqueta": "Fin del reinado de Domiciano",
+          "desde": 30.8,
+          "hasta": 35.4,
+          "clase": "b"
+        }
+      ],
+      "marcas": [
+        {
+          "en": 34.6,
+          "etiqueta": "ca. 95-96: la mayoría de estos autores"
+        },
+        {
+          "en": 100.0,
+          "etiqueta": "Ireneo (ca. 180): «hacia el final del reinado de Domiciano»"
+        }
+      ],
+      "fuentes": [
+        "beacon_01_a#10",
+        "beacon_01_a#12",
+        "carballosa_01#18",
+        "macarthur_01#31",
+        "ladd_01_a#3",
+        "henry_01_a#2",
+        "mbiblia_01_a#3",
+        "mcgee_01_a#24",
+        "larkin_01_a#18",
+        "r1_030#25",
+        "cbmh_01_a#10",
+        "r1_035#20",
+        "r1_005#13"
+      ]
+    },
+    {
+      "nombre": "Hechos que mencionan las fuentes",
+      "quien": "MacArthur, Mundo Hispano, Benware, Sproul, Grau, Earle, Carballosa y McGee",
+      "segmentos": [
+        {
+          "etiqueta": "Rebelión judía (66-70)",
+          "desde": 12.3,
+          "hasta": 15.4,
+          "clase": "c"
+        },
+        {
+          "etiqueta": "Martirio de Policarpo en Esmirna (136, 138, 155 o 156, según el autor)",
+          "desde": 66.2,
+          "hasta": 81.5,
+          "clase": "d"
+        }
+      ],
+      "marcas": [
+        {
+          "en": 7.7,
+          "etiqueta": "Terremoto en Laodicea (60-61)"
+        },
+        {
+          "en": 11.5,
+          "etiqueta": "Última visita de Pablo a Asia (65)"
+        },
+        {
+          "en": 13.1,
+          "etiqueta": "Muerte de Pablo (c. 67)"
+        },
+        {
+          "en": 15.4,
+          "etiqueta": "Tito destruye Jerusalén (70)"
+        },
+        {
+          "en": 32.3,
+          "etiqueta": "Domiciano ordena no plantar viñas nuevas (92)"
+        }
+      ],
+      "fuentes": [
+        "macarthur_04_b#22",
+        "cbmh_03_b#13",
+        "r1_005#15",
+        "macarthur_01#32",
+        "web_14#3",
+        "r1_011#31",
+        "cbmh_04#34",
+        "beacon_03_b#3",
+        "carballosa_03_a#27",
+        "mcgee_02_b#22",
+        "cbmh_02_b#13"
+      ]
+    }
+  ],
+  "nota": "Colores: a = Nerón y la fecha neroniana; b = Domiciano y la fecha domiciana; c = otros reinados y hechos; d = persecución y martirio; e = vida de Juan. Fuera de la escala: Pérgamo levantó el primer templo provincial del culto imperial, a Roma y Augusto (probablemente 29 a.C., según Ramsay citado por Earle), y Antipas murió mártir allí (2:13), bajo Domiciano según Tertuliano (citado por Ropero), sin año. Ladd advierte que las persecuciones de Nerón y Domiciano fueron locales y que solo Decio, Valeriano y Diocleciano persiguieron en todo el imperio. Sobre los siete reyes de 17:10, Sproul cuenta desde Julio César y llega a Nerón como el sexto; para Ladd, ningún método conduce bien a Domiciano.",
+  "dias": [
+    1,
+    2,
+    5,
+    10,
+    11,
+    56,
+    66
+  ]
+}

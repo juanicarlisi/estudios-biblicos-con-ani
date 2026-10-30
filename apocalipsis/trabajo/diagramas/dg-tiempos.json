@@ -1,0 +1,99 @@
+{
+  "id": "dg-tiempos",
+  "titulo": "Las medidas de tiempo",
+  "bajada": "Cada plazo del libro con su referencia, las equivalencias que señalan los autores y quién lo lee al pie de la letra o como símbolo.",
+  "tipo": "tabla",
+  "columnas": ["Medida", "Dónde", "Equivalencias que señalan los autores", "Quién la lee al pie de la letra", "Quién la lee como símbolo"],
+  "filas": [
+    {
+      "celdas": [
+        "Diez días",
+        "La tribulación de Esmirna (2:10).",
+        "Diez persecuciones bajo diez emperadores, de Nerón a Diocleciano (McGee, Larkin); diez años, un día por año (Clarke, citado por Guzik).",
+        "Diez días reales de persecución intensa pero breve (MacArthur, Carballosa).",
+        "Un período corto y limitado, como los diez días de Daniel 1:12 (Ladd, Beasley-Murray, Mundo Hispano; Barclay, citado por Guzik)."
+      ],
+      "ref": "2:10",
+      "fuentes": ["mcgee_02_b#29", "web_01#29", "macarthur_03_a#16", "carballosa_03_a#24", "ladd_01_b#35", "henry_01_a#25", "cbmh_02_b#17"]
+    },
+    {
+      "celdas": [
+        "Cinco meses",
+        "El tormento de las langostas de la quinta trompeta (9:5, 10).",
+        "Lo que vive una langosta, de mayo a septiembre (Earle, MacArthur, Beasley-Murray).",
+        "Cinco meses reales de tormento sin muerte, una última oportunidad de arrepentirse (MacArthur, que lo cuenta entre los números de sentido normal).",
+        "Un tiempo prolongado de sufrimiento, pero no interminable (Ligonier); Earle descarta que sean langostas literales."
+      ],
+      "ref": "9:5",
+      "fuentes": ["beacon_03_c#6", "macarthur_08#22", "henry_01_b#24", "r1_015#7", "web_16#12"]
+    },
+    {
+      "celdas": [
+        "42 meses",
+        "Los gentiles hollan la ciudad santa (11:2); la bestia actúa con autoridad (13:5).",
+        "Igual a 1.260 días y a «un tiempo, y tiempos…»: tres años y medio (Ryrie, MacArthur, Carballosa). Lennox: un «tiempo» sería un año de 360 días.",
+        "Futuristas: la segunda mitad de la semana setenta de Daniel 9:27, la gran tribulación (Carballosa, MacArthur, McGee). Algunos preteristas: la guerra judía hasta el año 70 (según Earle).",
+        "El tiempo limitado en que el mal impera (Mundo Hispano); el poder satánico antes del fin, no un pronóstico exacto (Ladd). Beasley-Murray: su sentido preciso es oscuro."
+      ],
+      "ref": "11:2; 13:5",
+      "fuentes": ["r1_032#17", "macarthur_11_a#11", "carballosa_08#16", "r2_001_a#26", "mcgee_07_a#9", "beacon_03_c#20", "cbmh_05_b#18", "ladd_04_b#5", "henry_02_a#2"]
+    },
+    {
+      "celdas": [
+        "1.260 días",
+        "Profetizan los dos testigos (11:3); la mujer es sustentada en el desierto (12:6).",
+        "Igual a 42 meses de 30 días (Larkin, McGee). Historicistas, un día por año: 1.260 años de papado que terminan en 1517 (Barnes); Mede llegó a 1656.",
+        "Los testigos, en la primera mitad de la tribulación (McGee) o en la segunda (Larkin); Buswell: sus 1.260 días van antes de los 42 meses de la bestia.",
+        "El mismo período de poder del mal que los 42 meses, en el que la mujer es preservada (Ladd)."
+      ],
+      "ref": "11:3; 12:6",
+      "fuentes": ["larkin_03_a#23", "mcgee_07_a#12", "beacon_04_a#1", "r1_027#21", "r1_009#14", "ladd_04_b#5"]
+    },
+    {
+      "celdas": [
+        "«Un tiempo, y tiempos, y la mitad de un tiempo»",
+        "La mujer protegida de la serpiente (12:14); tomado de Daniel 7:25 y 12:7.",
+        "Tres años y medio, igual a 42 meses y a 1.260 días (Carballosa, MacArthur, Lennox). Leupold y Young rechazan esa equivalencia, según Carballosa.",
+        "La segunda mitad de la tribulación, que Jesús llamó la gran tribulación (MacArthur, Carballosa, McGee).",
+        "El tiempo de la dominación del mal antes del fin, como en Daniel (Ladd); Grau: siempre la era de la persecución, corta o prolongada."
+      ],
+      "ref": "12:14",
+      "fuentes": ["r1_002#15", "macarthur_11_a#11", "r2_001_a#26", "mcgee_07_a#9", "ladd_04_b#5", "r1_012#9"]
+    },
+    {
+      "celdas": [
+        "Tres días y medio",
+        "Los cadáveres de los testigos quedan en la plaza; después entra en ellos el espíritu de vida (11:9, 11).",
+        "Tantos días como años profetizaron (Earle). Barnes, un día por año: de 1514 (Concilio de Letrán) a 1517 (las tesis de Lutero); Earle lo halla forzado.",
+        "Tres días y medio reales, con el mundo entero mirando y festejando (MacArthur, McGee).",
+        "Un tiempo de calamidad, lo que refuerza que tampoco los tres años y medio son literales (Ladd); un triunfo corto que parece final (Swete, citado por Beasley-Murray)."
+      ],
+      "ref": "11:9-11",
+      "fuentes": ["beacon_04_a#7", "macarthur_09#33", "mcgee_07_a#18", "ladd_04_b#11", "henry_02_a#5"]
+    },
+    {
+      "celdas": [
+        "Una hora",
+        "Los diez reyes reinan con la bestia «por una hora» (17:12); Babilonia cae «en una hora» (18:10, 17, 19).",
+        "En 17:12, la brevedad de los tres años y medio (Biblia MacArthur).",
+        "Larkin: Babilonia desaparecerá en pocas horas, como Sodoma y Gomorra (18:8-10).",
+        "Una figura de brevedad (MacArthur, Mundo Hispano); un juicio repentino (Carballosa); Dios tuvo la última palabra (Ladd)."
+      ],
+      "ref": "17:12; 18:10",
+      "fuentes": ["mbiblia_02_d#7", "larkin_05_b#10", "macarthur_15_a#5", "cbmh_07#5", "carballosa_14_a#25", "ladd_06_b#16"]
+    },
+    {
+      "celdas": [
+        "Mil años",
+        "Satanás atado y los santos que reinan con Cristo: seis veces en 20:2-7.",
+        "Diez al cubo (Lacueva; Hoekema). Ryrie: Agustín los tomó al pie de la letra y esperaba la venida mil años después de la ascensión.",
+        "Mil años literales en la tierra (MacArthur, Benware, Ryrie, Carballosa, Guzik).",
+        "Un símbolo que igual marca un período real (Ladd); la era entre las dos venidas (Hoekema, Mundo Hispano, Alcántara); para el posmilenialismo, un período indeterminado (según Benware)."
+      ],
+      "ref": "20:2-7",
+      "fuentes": ["r1_020#4", "r1_004#8", "r1_031#14", "r1_015#7", "r1_033#9", "carballosa_16_a#1", "web_06#20", "ladd_07_b#7", "cbmh_07#36", "cpe_02#10", "r1_004#13"]
+    }
+  ],
+  "nota": "Para Ladd, estos plazos remiten a Daniel 7:25 y 12:7, no a un calendario exacto; para los dispensacionalistas, 42 meses, 1.260 días y «un tiempo, y tiempos, y la mitad de un tiempo» nombran la misma mitad de la semana setenta. Grau advierte que calcular una cronología con el 3½ es una tarea inútil.",
+  "dias": [10, 38, 42, 43, 44, 47, 50, 53, 67, 69, 76, 77, 78, 79, 80, 81]
+}

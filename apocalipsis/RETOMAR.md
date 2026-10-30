@@ -24,3 +24,4 @@
 - Diagramas B (dg-escuelas, dg-milenio, dg-tribulacion) hechos y validados.
 - Diagramas A (dg-estructura, dg-septenarios, dg-cartas) hechos y validados. Cotejo pendiente de comillas: dg-candelero, dg-cristo y dg-numeros usan «» también para texto no bíblico; deben ir en “ ” (solo la Biblia va entre «»).
 - Diagramas D (dg-numeros, dg-tiempos, dg-cronologia) hechos y validados. Revisar: dg-tiempos tiene una fila extra («diez días» de 2:10) no pedida, se puede borrar; dg-cronologia usa «Nerva (96-98)», deducido (ninguna nota lo escribe), conviene confirmarlo o quitarlo.
+- Diagramas C (dg-candelero, dg-cristo, dg-ramera) hechos y validados. dg-cristo: la tarjeta de 22:16 se escribió solo con extracciones porque el día 94 no existía; ya existe, cotejar. Con esto están 12 de 13 diagramas (falta dg-jerusalen).

@@ -25,3 +25,7 @@
 - Diagramas A (dg-estructura, dg-septenarios, dg-cartas) hechos y validados. Cotejo pendiente de comillas: dg-candelero, dg-cristo y dg-numeros usan «» también para texto no bíblico; deben ir en “ ” (solo la Biblia va entre «»).
 - Diagramas D (dg-numeros, dg-tiempos, dg-cronologia) hechos y validados. Revisar: dg-tiempos tiene una fila extra («diez días» de 2:10) no pedida, se puede borrar; dg-cronologia usa «Nerva (96-98)», deducido (ninguna nota lo escribe), conviene confirmarlo o quitarlo.
 - Diagramas C (dg-candelero, dg-cristo, dg-ramera) hechos y validados. dg-cristo: la tarjeta de 22:16 se escribió solo con extracciones porque el día 94 no existía; ya existe, cotejar. Con esto están 12 de 13 diagramas (falta dg-jerusalen).
+
+## Estado final de la pausa (30-10-2026)
+- No queda ningún agente en curso. Hecho: 95 días; diagramas 12/13 (falta dg-jerusalen); artículos 14/29 (I1-I5, P1-P6, T1-T3).
+- Falta: artículos P7-P10 y T4-T14; dg-jerusalen; cotejos anotados arriba (Buswell día 45, comillas «» en diagramas, Nerva, fila «diez días», tarjeta 22:16); luego la app (`apocalipsis/app/`) y el HTML final.

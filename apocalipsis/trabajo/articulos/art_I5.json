@@ -1,0 +1,131 @@
+{
+  "id": "I5",
+  "titulo": "Estructura y mensaje del libro",
+  "bajada": "Cómo está armado el Apocalipsis, cómo lo dividen los autores y qué quiere decirle a la iglesia de entonces y de hoy.",
+  "entrada": {
+    "texto": "A primera vista el Apocalipsis parece un torbellino de imágenes. Ralph Earle recuerda que es el libro del Nuevo Testamento del que más se ha abusado, y que hasta Calvino prefirió no comentarlo. J. Vernon McGee, en cambio, sostiene que es el libro mejor ordenado de la Biblia. Las dos cosas pueden ser ciertas: el libro tiene un orden claro, y conocerlo ayuda a no perderse. El Comentario Mundo Hispano pone esto como primera clave de lectura: el libro es una unidad, no un montón de visiones sueltas.",
+    "fuentes": ["beacon_01_a#1", "mcgeer_01#1", "mcgee_01_a#5", "cbmh_01_a#23"]
+  },
+  "versiculos": [
+    {"ref": "1:19", "porque": "Muchos autores lo toman como el bosquejo del libro dado por el mismo Cristo."},
+    {"ref": "1:10", "porque": "Primera de las cuatro veces en que Juan dice estar «en el Espíritu»: cada una abre una gran visión."},
+    {"ref": "4:1", "porque": "La bisagra del libro: Juan pasa de la tierra al cielo y empieza «lo que ha de ser»."},
+    {"ref": "11:15", "porque": "La séptima trompeta anuncia que «los reinos del mundo» pasan a Cristo: el mensaje del libro en una frase."},
+    {"ref": "21:3", "porque": "La meta de toda la historia: Dios viviendo con su pueblo."},
+    {"ref": "22:20", "porque": "Según Richardson, citado por Earle, la venida del Señor es la nota dominante del libro."}
+  ],
+  "apartados": [
+    {
+      "titulo": "Un bosquejo dentro del libro: 1:19",
+      "parrafos": [
+        {
+          "texto": "Cristo le manda a Juan: «Escribe las cosas que has visto, y las que son, y las que han de ser después de estas». Wiersbe, MacArthur, Benware y McGee leen ahí el plano del libro: lo visto es la visión de Cristo glorificado (cap. 1); lo que es, las siete iglesias (caps. 2-3); lo que vendrá, los capítulos 4 a 22. Earle lo resume como pasado, presente y futuro. Wiersbe llega a decir que seguir otro método es suponer que sabemos más que Cristo sobre su libro.",
+          "fuentes": ["r1_024_a#2", "macarthur_01#36", "mbiblia_01_a#10", "r1_008#1", "mcgee_01_a#5", "beacon_01_a#21"]
+        },
+        {
+          "texto": "La bisagra está en 4:1, con el «Sube acá»: los tres primeros capítulos pasan en la tierra y, desde ahí, Juan ve todo desde arriba, como lo explica TTL Training. No todos aceptan que 1:19 divida el libro en tres tiempos; esa discusión se trata en el día 7. El Comentario Mundo Hispano advierte, además, que cualquier bosquejo tiene que quedar por debajo del texto, porque Juan corta la secuencia para meter visiones y explicaciones.",
+          "fuentes": ["web_20#2", "dbmh_01_a#5", "cbmh_01_a#24"]
+        }
+      ]
+    },
+    {
+      "titulo": "Cuatro visiones «en el Espíritu»",
+      "parrafos": [
+        {
+          "texto": "El Diccionario Mundo Hispano ofrece otra forma de ver el plano: cuatro grandes visiones, cada una abierta con la frase «en el Espíritu» (1:10; 4:2; 17:3; 21:10). Cada una lleva a Juan a un lugar distinto y muestra a Cristo de un modo propio: Cristo examina a las iglesias (1:9-3:22); dirige el destino del mundo con sellos, trompetas y copas (4:1-16:21); vence al mal en la caída de Babilonia y de la bestia (17:1-21:8); y consuma la esperanza con la ciudad de Dios (21:9-22:5). Antes va un prólogo (1:1-8) y después, un epílogo de invitación (22:6-21).",
+          "fuentes": ["dbmh_01_a#7", "dbmh_01_a#8"]
+        },
+        {
+          "texto": "Ladd y el Comentario Mundo Hispano dividen igual, con prólogo, cuatro visiones y epílogo; Ladd marca los cortes donde Juan es llamado a venir y ver. Beasley-Murray, en cambio, arma el libro por bloques: visión de Cristo, cartas, cielo, sellos, trompetas, conflicto, copas, Babilonia y reino consumado.",
+          "fuentes": ["ladd_01_a#16", "ladd_01_a#17", "cbmh_01_a#20", "henry_01_a#5"]
+        }
+      ]
+    },
+    {
+      "titulo": "Los sietes y las pausas",
+      "parrafos": [
+        {
+          "texto": "El esqueleto del libro son las series de siete: siete cartas, siete sellos, siete trompetas y siete copas. Según el Comentario Mundo Hispano, el siete aparece 52 veces y habla de algo completo, al que no le falta nada; Wiersbe y Coleman le dan el mismo sentido. Earle recoge que varios autores ven el libro como un drama en siete actos, y todos coinciden en que el siete manda.",
+          "fuentes": ["ladd_01_a#16", "cbmh_01_a#15", "r1_024_a#5", "r1_001#30", "beacon_01_a#15"]
+        },
+        {
+          "texto": "Las series no corren sin pausa. Entre el sexto y el séptimo sello está el capítulo 7 (los 144.000 y la multitud incontable); entre la sexta y la séptima trompeta, el ángel con el librito y los dos testigos (10:1-11:14); y antes de las copas, la mujer, el dragón y las bestias (12-14). Ladd los llama paréntesis y el Comentario Mundo Hispano, interludios: muestran al pueblo de Dios guardado mientras caen los juicios.",
+          "fuentes": ["ladd_01_a#17", "cbmh_01_a#20", "larkin_01_b#6"]
+        }
+      ]
+    },
+    {
+      "titulo": "¿En fila o en espiral?",
+      "parrafos": [
+        {
+          "texto": "Acá los autores se separan. Para Carballosa, MacArthur y Larkin las series van una dentro de otra: el séptimo sello abre las trompetas y la séptima trompeta trae las copas, en un orden cronológico que cubre la tribulación futura (caps. 6-19). Hendriksen, CHBC, la Coalición por el Evangelio y Stott ven siete secciones paralelas (1-3, 4-7, 8-11, 12-14, 15-16, 17-19, 20-22), cada una desde la primera hasta la segunda venida, con intensidad creciente. Como señal citan que el séptimo sello, la séptima trompeta y la séptima copa terminan con relámpagos, voces, truenos y terremoto.",
+          "fuentes": ["carballosa_18_b#10", "macarthur_08#39", "larkin_01_a#1", "carballosa_19#13", "web_07#4", "cpe_04#10", "cpe_01#24", "r1_030#26"]
+        },
+        {
+          "texto": "El Comentario Mundo Hispano propone una imagen intermedia: el libro avanza, pero con interrupciones y repeticiones, como una espiral que sube hacia un futuro glorioso. Earle pide algo que vale para todo el estudio: estas posturas las sostienen creyentes igualmente piadosos y fieles a la Palabra.",
+          "fuentes": ["cbmh_01_a#15", "beacon_01_a#17", "carballosa_01#41"]
+        }
+      ]
+    },
+    {
+      "titulo": "El tema: Cristo reina y viene",
+      "parrafos": [
+        {
+          "texto": "Por encima de las divisiones, el centro es uno. Wiersbe llama al libro cristocéntrico: Cristo es Sacerdote-Rey en el capítulo 1, examina a las iglesias en el 2 y el 3, recibe el libro en el 4 y el 5, juzga del 6 al 19 y reina del 20 al 22. También lo llama «el libro del trono»: según él, desde el capítulo 4 la palabra trono aparece 44 veces. Carballosa pone como tema central la segunda venida de Cristo, y Richardson, citado por Earle, la llama la nota dominante. Sproul, desde otra escuela, reconoce que en todas las lecturas se ve el triunfo de Cristo.",
+          "fuentes": ["r1_024_a#3", "r1_024_a#6", "carballosa_01#35", "beacon_01_a#20", "web_14#1", "cbmh_01_a#18"]
+        },
+        {
+          "texto": "El final responde al principio. Para Erdman, citado por Earle, el libro abre con una iglesia imperfecta y en peligro y cierra con la Nueva Jerusalén. Ligonier nota que los enemigos aparecen en un orden (dragón, bestias, Babilonia) y caen en el inverso. Y la Biblia, que empezó en un huerto, termina en una ciudad donde Dios vive con su pueblo: «He aquí el tabernáculo de Dios con los hombres».",
+          "fuentes": ["beacon_01_a#16", "web_12#15", "web_17#8"]
+        }
+      ]
+    },
+    {
+      "titulo": "El mensaje para la iglesia",
+      "parrafos": [
+        {
+          "texto": "Ligonier y Beasley-Murray piden leer cada visión preguntando cómo animaba a los primeros lectores, que debían elegir entre decir «Jesús es Señor» o «César es Señor». Juan Sánchez muestra que esas iglesias enfrentaban lo mismo que nosotros: la seducción de la cultura y la presión del poder, con Satanás detrás. Las siete secciones repiten el mensaje con advertencia, ánimo y consuelo. Cada carta termina con «El que tiene oído, oiga lo que el Espíritu dice a las iglesias», y Carballosa ve ahí que el libro le habla a todo creyente.",
+          "fuentes": ["web_12#15", "henry_01_a#4", "cpe_05#12", "cpe_04#10", "carballosa_01#22"]
+        },
+        {
+          "texto": "El Comentario Mundo Hispano lo resume: el libro nos saca de este mundo para verlo desde el cielo, donde los límites del poder humano se abren al propósito de Dios; y mientras Cristo vuelve, nos toca vivir de otra manera.",
+          "fuentes": ["cbmh_01_a#5", "cbmh_01_a#23", "carballosa_01#20"]
+        }
+      ]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Los sellos, las trompetas y las copas van en fila o se repiten?",
+      "posturas": [
+        {"postura": "En fila, una serie dentro de la otra, durante una tribulación futura que corresponde a la semana setenta de Daniel.", "quien": "Carballosa, MacArthur, Larkin y Wiersbe (premilenial dispensacional)", "fuentes": ["carballosa_18_b#10", "macarthur_08#39", "larkin_01_b#6", "r1_024_a#2"]},
+        {"postura": "Se repiten: cada serie recorre la historia entre las dos venidas, cada vez con más fuerza.", "quien": "Hendriksen, CHBC y Alcántara (amilenial); Stott; Earle se inclina por esta lectura", "fuentes": ["carballosa_34_ref", "web_16#21", "cpe_02#9", "r1_030#26", "beacon_01_a#16"]},
+        {"postura": "Avanzan en espiral: hay repeticiones e interludios, pero el movimiento va hacia adelante.", "quien": "Comentario Bíblico Mundo Hispano", "fuentes": ["cbmh_01_a#15"]}
+      ],
+      "nota": "Para todas, las series desembocan en la venida de Cristo y su reino. La discusión completa está en el artículo T6; los modos de leer el libro, en el I4."
+    }
+  ],
+  "citas": [
+    {"texto": "El libro de Apocalipsis no es un libro difícil. Es el libro mejor ordenado de la Biblia.", "autor": "J. Vernon McGee", "obra": "Apocalipsis: un comentario; «A través de la Biblia» (radio)", "pagina": "pág. PDF 3-4"},
+    {"texto": "las tres posiciones pueden ser sostenidas por hombres igualmente piadosos, llenos del Espíritu, y leales a la Palabra de Dios", "autor": "Ralph Earle", "obra": "Comentario Bíblico Beacon", "pagina": "pág. PDF 313"}
+  ],
+  "conexiones": [
+    {"ref": "Dn 12:4", "nota": "A Daniel se le manda sellar el libro; a Juan, «No selles» (22:10): el Apocalipsis es un libro abierto.", "fuentes": ["r1_024_a#3", "cpe_01#4"]},
+    {"ref": "Dn 7-12", "nota": "Las visiones de Daniel también vuelven en ciclos sobre los mismos hechos, un modelo para leer las series de siete.", "fuentes": ["cpe_01#5"]},
+    {"ref": "Gn 2:8-10", "nota": "La Biblia empieza en un huerto y termina en una ciudad con el río y el árbol de la vida.", "fuentes": ["web_17#8"]}
+  ],
+  "para_vivir": [
+    {"texto": "Antes de detenerse en un detalle, mirar dónde está en el libro entero: cada escena tiene su lugar en el plano.", "fuentes": ["r1_001#30", "cbmh_01_a#23"]},
+    {"texto": "Cuando las noticias asusten, volver al capítulo 4: el trono está ocupado.", "fuentes": ["r1_024_a#6", "cbmh_01_a#5"]},
+    {"texto": "Conversar sobre las diferencias sin desprecio: hay creyentes fieles en cada postura.", "fuentes": ["beacon_01_a#17", "carballosa_01#41"]}
+  ],
+  "para_conversar": [
+    "¿Les ayuda más pensar el libro en tres tiempos (1:19), en cuatro visiones o en siete secciones? ¿Por qué?",
+    "Si el centro del libro es Cristo en el trono, ¿qué cambia en cómo miramos lo que nos pasa esta semana?",
+    "¿Qué presiones de la cultura y del poder vivimos hoy que se parezcan a las de las siete iglesias?"
+  ],
+  "dias_relacionados": [4, 5, 7, 21, 36, 45, 64, 65, 87, 89],
+  "visuales": ["dg-estructura", "dg-septenarios", "dg-cristo"],
+  "refs_apocalipsis": ["1:10", "1:19", "4:1-2", "7:1-17", "8:1-5", "10:1-11:14", "11:15-19", "12:1-14:20", "16:17-21", "17:3", "21:3", "21:10", "22:20"],
+  "notas_no_usadas": []
+}

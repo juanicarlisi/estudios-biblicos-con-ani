@@ -3,27 +3,27 @@
   "titulo": "Roma, el emperador y el culto imperial",
   "bajada": "Quién gobernaba el mundo cuando Juan escribió, qué exigía el culto al César y por qué ese trasfondo ayuda a leer las bestias y a Babilonia.",
   "entrada": {
-    "texto": "Las siete iglesias no leyeron el Apocalipsis en el aire. Vivían en ciudades llenas de templos al emperador, bajo un imperio que toleraba casi cualquier religión, pero no que alguien le negara honores al César. Juan escribía desde Patmos, desterrado «por causa de la palabra de Dios y el testimonio de Jesucristo» (1:9). A muchos creyentes les parecía que Dios había perdido el control (Coalición por el Evangelio). Conocer ese mundo no resuelve todas las preguntas del libro, pero explica por qué sus imágenes golpeaban tan fuerte: como dice Beasley-Murray, nadie que dijera “Jesús es Señor” podía confesar a la vez “César es Señor”.",
+    "texto": "Las siete iglesias no leyeron el Apocalipsis en el aire. Vivían en ciudades llenas de templos al emperador, bajo un imperio que toleraba casi cualquier religión, pero no que alguien le negara honores al César. Juan escribía desde Patmos, desterrado «por causa de la palabra de Dios y el testimonio de Jesucristo» (1:9). A muchos creyentes les parecía que Dios había perdido el control (Coalición por el Evangelio). Conocer ese mundo no resuelve todo, pero explica por qué sus imágenes golpeaban tan fuerte: como dice Beasley-Murray, nadie que dijera “Jesús es Señor” podía confesar a la vez “César es Señor”.",
     "fuentes": ["cpe_01#6", "henry_01_a#4", "dbmh_02#2", "mbiblia_01_a#5"]
   },
   "versiculos": [
-    {"ref": "1:9", "porque": "Juan escribe como desterrado y compañero de las iglesias en la tribulación: el libro nace bajo la presión de Roma."},
-    {"ref": "2:13", "porque": "Pérgamo, sede del culto imperial en Asia, es «donde está el trono de Satanás»; allí murió Antipas."},
-    {"ref": "13:4", "porque": "La adoración a la bestia suena como la del César: «¿Quién como la bestia, y quién podrá luchar contra ella?»."},
-    {"ref": "13:15", "porque": "La imagen que hace matar a quien no la adora recuerda el culto obligatorio al emperador."},
+    {"ref": "1:9", "porque": "Juan escribe desterrado, compañero de las iglesias en la tribulación."},
+    {"ref": "2:13", "porque": "Pérgamo, sede del culto imperial, es «donde está el trono de Satanás»."},
+    {"ref": "13:4", "porque": "La adoración a la bestia suena como la que se daba al César."},
+    {"ref": "13:15", "porque": "La imagen que hace matar a quien no la adora recuerda el culto obligatorio."},
     {"ref": "17:18", "porque": "Para los primeros lectores, la ciudad que reinaba sobre los reyes de la tierra era Roma."},
-    {"ref": "17:14", "porque": "Frente a un emperador que se hacía llamar señor y dios, el Cordero es «Señor de señores y Rey de reyes»."}
+    {"ref": "17:14", "porque": "Frente al emperador que se decía señor y dios, el Cordero es el verdadero Señor."}
   ],
   "apartados": [
     {
       "titulo": "Un imperio tolerante, con una excepción",
       "parrafos": [
         {
-          "texto": "Roma era notablemente tolerante con las religiones extranjeras; el choque con los creyentes vino por el culto al César (Diccionario Mundo Hispano). Negarse a honrar a los dioses del imperio y al emperador se llamaba “ateísmo”, y así se veía el monoteísmo de judíos y cristianos, a quienes además se confundía a menudo (Ropero). Los judíos estaban exentos de participar, pero los cristianos expulsados de las sinagogas podían perder esa protección (Diccionario de Jesús y los Evangelios). La Coalición por el Evangelio agrega que había judíos que entregaban cristianos a las autoridades.",
+          "texto": "Roma era notablemente tolerante con las religiones extranjeras; el choque con los creyentes vino por el culto al César (Diccionario Mundo Hispano). Negarse a honrar a los dioses del imperio y al emperador se llamaba “ateísmo”, y así se veía el monoteísmo de judíos y cristianos, a quienes además se confundía a menudo (Ropero). Los judíos estaban exentos de participar, pero los cristianos expulsados de las sinagogas podían perder esa protección (Diccionario de Jesús y los Evangelios).",
           "fuentes": ["dbmh_02#2", "r1_019#26", "r2_010#1", "cpe_01#6"]
         },
         {
-          "texto": "En la provincia de Asia el culto imperial se tomaba muy en serio. El senado declaraba divinos a los emperadores al morir, algunos se llamaban DIVUS en sus monedas y las ciudades competían por tener un templo a Roma y al César (Ladd). Pérgamo levantó el primero en el 29 a.C. y Esmirna ganó el derecho a otro bajo Tiberio. El trámite que describe Barclay era simple: una pizca de incienso, decir “César es Señor” y recibir un certificado. Los días 10 y 11 muestran lo que eso significaba para esas dos iglesias.",
+          "texto": "En la provincia de Asia el culto imperial se tomaba muy en serio. El senado declaraba divinos a los emperadores al morir, algunos se llamaban DIVUS en sus monedas y las ciudades competían por tener un templo a Roma y al César (Ladd). Pérgamo levantó el primero en el 29 a.C. y Esmirna ganó el derecho a otro bajo Tiberio. El trámite que describe Barclay era simple: una pizca de incienso, decir “César es Señor” y recibir un certificado (ver los días 10 y 11).",
           "fuentes": ["r2_010#1", "ladd_05_a#26", "ladd_01_b#38", "web_01#22", "cbmh_02_b#12"]
         }
       ]
@@ -36,7 +36,7 @@
           "fuentes": ["r1_019#23", "dbmh_02#2", "web_09#21", "r1_019#22", "web_09#20"]
         },
         {
-          "texto": "Los antiguos lo recordaron con dureza: Tácito habló de su naturaleza cruel y Plinio el Viejo lo llamó “destructor de la raza humana”; según Apolonio de Tiana, el pueblo lo apodaba “la bestia” (Ligonier). Ligonier añade que con Calígula y Nerón creció el culto al emperador en vida. MacArthur aclara que su persecución quedó circunscrita a Roma. Al morir corrió el rumor de que seguía vivo, y en el 69 y hacia el 88 aparecieron impostores que decían ser él (Swete, citado por Earle; Ladd).",
+          "texto": "Los antiguos lo recordaron con dureza: Tácito habló de su naturaleza cruel y Plinio el Viejo lo llamó “destructor de la raza humana”; según Apolonio de Tiana, el pueblo lo apodaba “la bestia” (Ligonier). MacArthur aclara que su persecución quedó circunscrita a Roma. Al morir corrió el rumor de que seguía vivo, y en el 69 y hacia el 88 aparecieron impostores que decían ser él (Swete, citado por Earle; Ladd).",
           "fuentes": ["web_09#21", "macarthur_01#32", "beacon_04_a#28", "ladd_05_a#28", "r1_019#25"]
         }
       ]
@@ -45,11 +45,11 @@
       "titulo": "Domiciano: “Señor y dios nuestro”",
       "parrafos": [
         {
-          "texto": "Domiciano (81-96), prudente al principio y nefasto al final según Ropero, instauró un culto a su persona: se hacía llamar “Señor y dios nuestro”, pedía que le besaran los pies y expulsó a los filósofos estoicos. Wiersbe dice que sus anuncios empezaban “Nuestro señor y dios Domiciano ordena”. A diferencia de los emperadores venerados como dioses después de muertos, él se creía divino en vida (CHBC). Dión Casio cuenta que el cónsul Flavio Clemente fue condenado “por ateísmo” y su esposa, Flavia Domitila, desterrada; el Beacon recuerda que las inscripciones la muestran cristiana.",
+          "texto": "Domiciano (81-96), prudente al principio y nefasto al final según Ropero, instauró un culto a su persona: se hacía llamar “Señor y dios nuestro”. Wiersbe dice que sus anuncios empezaban “Nuestro señor y dios Domiciano ordena”. A diferencia de los emperadores venerados como dioses después de muertos, él se creía divino en vida (CHBC). Dión Casio cuenta que el cónsul Flavio Clemente fue condenado “por ateísmo” y su esposa, Flavia Domitila, desterrada; el Beacon recuerda que las inscripciones la muestran cristiana.",
           "fuentes": ["r1_019#26", "r1_024_a#1", "web_07#1", "beacon_01_a#11"]
         },
         {
-          "texto": "McGee cita a Stauffer: Nerón eliminó a Pedro y a Pablo tratándolos como judíos sediciosos, pero Domiciano fue el primer emperador que entendió que detrás del movimiento cristiano había una figura que amenazaba su gloria, el primero en declararle la guerra… y en perderla. La mayoría de los autores fecha el libro hacia el 95, bajo Domiciano; otros, como Sproul o Robinson, lo ubican antes del 70, bajo Nerón o poco después. Esa discusión se desarrolla en el anexo I2.",
+          "texto": "McGee cita a Stauffer: Nerón eliminó a Pedro y a Pablo tratándolos como judíos sediciosos, pero Domiciano fue el primer emperador que entendió que detrás del movimiento cristiano había una figura que amenazaba su gloria, el primero en declararle la guerra… y en perderla. La mayoría de los autores fecha el libro hacia el 95, bajo Domiciano; otros, como Sproul o Robinson, lo ubican antes del 70, bajo Nerón o poco después (ver el anexo I2).",
           "fuentes": ["mcgee_01_a#24", "henry_01_a#2", "beacon_01_a#10", "mbiblia_01_a#3", "carballosa_01#18", "ladd_01_a#3", "web_14#3", "r1_019#23"]
         }
       ]
@@ -58,8 +58,8 @@
       "titulo": "Lo que el libro deja ver",
       "parrafos": [
         {
-          "texto": "El propio Apocalipsis muestra una presión concreta. Juan está en Patmos, sede de una colonia penal donde los presos trabajaban en las minas. En Pérgamo mataron a «Antipas mi testigo fiel» (2:13), y a Esmirna se le anuncia que «el diablo echará a algunos de vosotros en la cárcel» (2:10). Ladd señala que el exilio de Juan pudo deberse a una acción local y no a un decreto imperial. Unos querían ceder para sobrevivir; otros, permanecer fieles (Coalición). El Beacon resume el propósito: consolar y animar a los perseguidos con el triunfo final de Cristo.",
-          "fuentes": ["dbmh_01_a#3", "r1_024_a#1", "mbiblia_01_a#5", "ladd_01_a#6", "cpe_01#6", "beacon_01_a#14"]
+          "texto": "El propio Apocalipsis muestra una presión concreta. Juan está en Patmos, sede de una colonia penal donde los presos trabajaban en las minas. En Pérgamo mataron a «Antipas mi testigo fiel» (2:13), y a Esmirna se le anuncia que «el diablo echará a algunos de vosotros en la cárcel» (2:10). Ladd señala que el exilio de Juan pudo deberse a una acción local y no a un decreto imperial. El Beacon resume el propósito: consolar y animar a los perseguidos con el triunfo final de Cristo.",
+          "fuentes": ["dbmh_01_a#3", "r1_024_a#1", "mbiblia_01_a#5", "ladd_01_a#6", "beacon_01_a#14"]
         }
       ]
     },
@@ -84,7 +84,7 @@
           "fuentes": ["henry_02_b#8", "r1_030#32", "web_04_c#1", "r1_019#23", "cbmh_01_a#4", "r1_010#19"]
         },
         {
-          "texto": "Pero Roma no fue destruida: terminó siendo un centro del cristianismo. Beasley-Murray responde que Juan, como los profetas, vio cercano el fin, y que los anticristos de la historia se acercan al retrato que culminará en uno que será su réplica exacta. Los futuristas esperan un imperio romano restaurado (Chafer, Wiersbe), y Carballosa niega que Babilonia sea Roma, porque Roma nunca fue una gran ciudad comercial, aunque Scofield leía Ap 18 justamente como Roma, ciudad de lujo y comercio. El anexo T10 sigue la discusión.",
+          "texto": "Pero Roma no fue destruida: llegó a ser centro del cristianismo. Beasley-Murray responde que Juan, como los profetas, vio cercano el fin, y que los anticristos de la historia anticipan a uno final que será su réplica exacta. Los futuristas esperan un imperio romano restaurado (Chafer, Wiersbe), y Carballosa niega que Babilonia sea Roma, porque Roma nunca fue una gran ciudad comercial, aunque Scofield leía Ap 18 justamente como Roma, ciudad de lujo y comercio. Más en el anexo T10.",
           "fuentes": ["henry_02_b#8", "r1_037#9", "r1_022#1", "carballosa_13_b#30", "r1_018#24"]
         }
       ]
@@ -93,24 +93,24 @@
       "titulo": "Quién es Señor de verdad",
       "parrafos": [
         {
-          "texto": "Domiciano quería ser llamado señor y dios; el libro reserva para el Cordero el título que el Antiguo Testamento da a Dios: «Señor de señores y Rey de reyes» (17:14; Earle). MacArthur pone a los emperadores romanos en la larga lista de usurpadores, de Nabucodonosor al anticristo final, que fracasaron: solo Cristo tiene derecho a gobernar la tierra. Stott recuerda que Roma desapareció, pero el diablo no cambió de estrategia: sigue persiguiendo, engañando y corrompiendo.",
+          "texto": "Domiciano quería ser llamado señor y dios; el libro reserva para el Cordero el título que el Antiguo Testamento da a Dios: «Señor de señores y Rey de reyes» (17:14; Earle). MacArthur pone a los emperadores romanos entre los usurpadores que fracasaron: solo Cristo tiene derecho a gobernar la tierra. Stott recuerda que Roma desapareció, pero el diablo no cambió de estrategia: sigue persiguiendo, engañando y corrompiendo.",
           "fuentes": ["beacon_04_b#28", "macarthur_05_b#10", "r1_030#34"]
         }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1:10", "griego": "κυριακῇ", "translit": "kyriaké", "significado": "“Del Señor”. Deissmann (citado por Earle y Beasley-Murray) mostró que el adjetivo aparece en inscripciones y papiros con el sentido de “imperial”: llamar a un día “del Señor” podía ser una protesta frente al día del emperador.", "fuentes": ["beacon_01_b#18", "henry_01_a#12"]},
+    {"ref": "1:10", "griego": "κυριακῇ", "translit": "kyriaké", "significado": "“Del Señor”. En inscripciones y papiros significa también “imperial” (Deissmann, citado por Earle y Beasley-Murray): el día “del Señor” podía ser una protesta frente al del emperador.", "fuentes": ["beacon_01_b#18", "henry_01_a#12"]},
     {"ref": "13:16", "griego": "χάραγμα", "translit": "cháragma", "significado": "“Marca”, de un verbo que significa grabar (MacArthur). Nombraba el sello oficial del emperador y su imagen en las monedas; Ladd advierte que el culto imperial no marcaba a nadie.", "fuentes": ["macarthur_12_a#7", "carballosa_11_a#2", "ladd_05_b#5"]}
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué lugar ocupa la Roma del siglo I en las bestias y en Babilonia?",
       "posturas": [
-        {"postura": "Se cumplieron en Roma: la bestia es el imperio (con Nerón y el 666), el falso profeta es el sacerdocio del culto imperial y Babilonia es la ciudad.", "quien": "La lectura preterista, según la exponen Ladd y Carballosa sin compartirla; el historiador Alfonso Ropero ve a Nerón en la bestia y en el 666", "fuentes": ["ladd_01_a#8", "carballosa_01#30", "r1_019#23"]},
+        {"postura": "Se cumplieron en Roma: la bestia es el imperio (con Nerón y el 666), el falso profeta es el sacerdocio del culto imperial y Babilonia es la ciudad.", "quien": "La lectura preterista (expuesta por Ladd y Carballosa, que no la comparten); el historiador Alfonso Ropero", "fuentes": ["ladd_01_a#8", "carballosa_01#30", "r1_019#23"]},
         {"postura": "Roma es la primera aplicación y el precursor; el cumplimiento pleno será un anticristo final.", "quien": "Beasley-Murray y Ladd (premilenial histórico)", "fuentes": ["henry_02_b#8", "henry_01_a#4", "ladd_01_a#14"]},
         {"postura": "Roma es un antecedente: viene un imperio romano restaurado bajo el anticristo; para Carballosa, Babilonia será una ciudad literal junto al Éufrates.", "quien": "Chafer, Wiersbe, Carballosa y MacArthur (premilenial dispensacional)", "fuentes": ["r1_037#9", "r1_022#1", "carballosa_19#2", "carballosa_13_b#30", "r1_036_a#13"]},
-        {"postura": "El poder perseguidor pasó de la Roma imperial a la Roma papal: para Goodwin, una bestia (el papa) reemplazó a otra (el emperador).", "quien": "Los reformadores y puritanos (historicistas); Berkhof (amilenial) ve rasgos anticristianos en el papado, pero no lo identifica con el anticristo", "fuentes": ["henry_01_a#3", "r1_027#15", "r1_039#11"]},
+        {"postura": "El poder perseguidor pasó de la Roma imperial a la Roma papal: para Goodwin, una bestia (el papa) reemplazó a otra (el emperador).", "quien": "Reformadores y puritanos (historicistas); Berkhof (amilenial) ve en el papado rasgos anticristianos, sin identificarlo con el anticristo", "fuentes": ["henry_01_a#3", "r1_027#15", "r1_039#11"]},
         {"postura": "Roma fue la forma que tomó en el siglo I algo que se repite: el poder que persigue, la religión que engaña y la cultura que seduce.", "quien": "Stott (idealista); Juan Sánchez (Coalición por el Evangelio)", "fuentes": ["r1_030#34", "cpe_05#12"]}
       ],
       "nota": "Todos admiten que los primeros lectores verían a Roma detrás de estas imágenes; difieren en si el libro se agota en ella."
@@ -119,7 +119,7 @@
       "tema": "¿Hubo una persecución general bajo Domiciano?",
       "posturas": [
         {"postura": "Sí: persiguió a los cristianos, exigía adoración en todo el imperio y la persecución pasó de esporádica a sistemática.", "quien": "Alfonso Ropero (historiador); Stott; CHBC (9Marcas); Wiersbe (premilenial dispensacional)", "fuentes": ["r1_019#26", "r1_030#25", "web_07#1", "r1_024_a#1"]},
-        {"postura": "Hubo tribulaciones locales serias, pero no se puede probar una persecución abierta en todo el imperio.", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano; el Diccionario de Jesús y los Evangelios, que recoge que muchos eruditos creen que las fuentes antiguas calumniaron a Domiciano", "fuentes": ["ladd_01_a#6", "ladd_01_a#4", "cbmh_01_a#10", "r2_010#1"]}
+        {"postura": "Hubo tribulaciones locales serias, pero no se puede probar una persecución abierta en todo el imperio.", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano; Diccionario de Jesús y los Evangelios (muchos eruditos creen que las fuentes calumniaron a Domiciano)", "fuentes": ["ladd_01_a#6", "ladd_01_a#4", "cbmh_01_a#10", "r2_010#1"]}
       ],
       "nota": "Unos y otros coinciden en lo que el libro muestra: Juan desterrado, Antipas muerto y Esmirna advertida de la cárcel."
     }
@@ -129,10 +129,10 @@
     {"ref": "Ro 13:1-7", "nota": "Antes de Nerón, los cristianos veían al Estado como autoridad puesta por Dios (Ropero).", "fuentes": ["r1_019#23"]},
     {"ref": "Dn 7:7", "nota": "La cuarta bestia, que muchos autores identifican con Roma, es el modelo de la bestia del mar.", "fuentes": ["r1_002#17", "carballosa_01#36"]},
     {"ref": "1 Co 12:3", "nota": "“Jesús es el Señor”: la confesión que chocaba con “César es Señor”.", "fuentes": ["beacon_02_a#25"]},
-    {"ref": "2 Ts 2:3-4", "nota": "El hombre de pecado que se hace pasar por Dios; algunos lo vinculan con la bestia y con el culto exigido.", "fuentes": ["r1_039#11", "web_13#19"]}
+    {"ref": "2 Ts 2:3-4", "nota": "El hombre de pecado que se hace pasar por Dios, vinculado con la bestia.", "fuentes": ["r1_039#11", "web_13#19"]}
   ],
   "para_vivir": [
-    {"texto": "Los creyentes de Asia vivían rodeados de templos y monedas que llamaban dios al emperador. Hoy la presión tiene otros nombres, pero la pregunta es la misma: a quién le damos la adoración, la confianza última y el nombre de Señor (Ladd, Stott).", "fuentes": ["ladd_05_a#26", "r1_030#34"]},
+    {"texto": "Los creyentes de Asia vivían rodeados de templos y monedas que llamaban dios al emperador. Hoy la presión tiene otros nombres; la pregunta sigue siendo a quién le damos la adoración y el nombre de Señor (Ladd, Stott).", "fuentes": ["ladd_05_a#26", "r1_030#34"]},
     {"texto": "Antipas vivía donde estaba el trono de Satanás y no negó a Cristo. El libro se escribió para que gente con poca fuerza perseverara sabiendo que el Cordero vence.", "fuentes": ["beacon_01_a#14", "mbiblia_01_a#5"]}
   ],
   "para_conversar": [

@@ -53,10 +53,9 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "La Biblia MacArthur une esta bendición con la de 14:13: los que mueren en el Señor son bienaventurados, y aquí se ve el privilegio que reciben, entrar en su reino. El Comentario Mundo Hispano subraya el contraste de escala que recorre todo el capítulo: el sufrimiento de los fieles fue breve, y su reinado con Cristo se mide en mil años.",
+          "texto": "La Biblia MacArthur une esta bendición con la de 14:13: los que mueren en el Señor son bienaventurados, y aquí se ve el privilegio que reciben, entrar en su reino.",
           "fuentes": [
-            "mbiblia_03_a#5",
-            "cbmh_07#41"
+            "mbiblia_03_a#5"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -138,13 +137,6 @@
             "ladd_07_b#21",
             "cbmh_07#41",
             "macarthur_17_a#7"
-          ],
-          "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "El Diccionario Mundo Hispano nota un detalle: este sacerdocio se menciona durante el reinado de mil años, pero no en la descripción de los cielos nuevos y la tierra nueva, donde la muerte y el pecado ya no existen. A su juicio, después del juicio final esa función ya no hace falta.",
-          "fuentes": [
-            "dbmh_02#11"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -387,16 +379,7 @@
           ]
         }
       ],
-      "nota": "Las críticas cruzadas son fuertes. MacArthur sostiene que si mil años no significa mil años no hay modo de limitar su sentido; Lacueva, que las guerras del siglo XX desmintieron el optimismo posmilenial; Benware, dispensacionalista, critica al premilenialismo histórico por parecerse al amilenialismo; y Grau contrapone a la lectura de Scofield los textos que hablan de un reino eterno (Sal 145:13; Dn 7:18). El anexo T11 las presenta en detalle."
-    }
-  ],
-  "biblioteca": [
-    {
-      "texto": "Buswell responde a la objeción de que es imposible un milenio con todos los redimidos junto a Cristo: la verdad no se contradice, pero el cristiano aprende a esperar lo sobrenatural. Si innumerables ángeles participan del gobierno de Dios y sirven a los escogidos (Ap 5:11; He 1:6-2:7), no es extraño que innumerables santos reinen con Cristo.",
-      "autor": "J. Oliver Buswell, Jr.",
-      "obra": "Escatología",
-      "pagina": "pág. PDF 139-140",
-      "tipo": "apologetica"
+      "nota": "Cada postura critica a las otras con argumentos serios (algunos se resumen en Para profundizar); el anexo T11 los presenta en detalle."
     }
   ],
   "conexiones": [
@@ -429,14 +412,6 @@
         "r1_028#12",
         "r2_029#10",
         "r2_012#24"
-      ]
-    },
-    {
-      "ref": "Jn 5:28-29",
-      "nota": "Resurrección de vida y resurrección de condenación: Chafer y Pentecost ven en Apocalipsis 20 la aclaración de que las separa un intervalo de mil años.",
-      "fuentes": [
-        "r2_028#30",
-        "r2_008#27"
       ]
     },
     {
@@ -511,6 +486,13 @@
         "r2_016#17",
         "r2_037_a#11",
         "r1_013#5"
+      ]
+    },
+    {
+      "titulo": "¿Sigue el sacerdocio en la eternidad?",
+      "texto": "El Diccionario Mundo Hispano nota un detalle: este sacerdocio se menciona durante el reinado de mil años, pero no en la descripción de los cielos nuevos y la tierra nueva, donde la muerte y el pecado ya no existen. A su juicio, después del juicio final esa función ya no hace falta.",
+      "fuentes": [
+        "dbmh_02#11"
       ]
     },
     {

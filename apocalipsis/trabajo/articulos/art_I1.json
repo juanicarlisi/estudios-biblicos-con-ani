@@ -1,95 +1,46 @@
 {
   "id": "I1",
   "titulo": "Antes de empezar: qué es el Apocalipsis",
-  "bajada": "Qué clase de libro tienen en las manos, por qué vale la pena leerlo y cómo lo leen hoy los autores evangélicos.",
+  "bajada": "Qué clase de libro es, por qué vale la pena leerlo y cómo lo leen hoy los autores evangélicos.",
   "entrada": {
-    "texto": "Pocos libros despiertan tanto temor y tanta curiosidad. MacArthur dice que ninguno revela con más esplendor la gloria de Dios y de Cristo, y que ninguno ha sido peor comprendido y más descuidado. Sin embargo, el libro se presenta como algo que se abre, no como algo que se esconde: a Juan se le manda «No selles las palabras de la profecía de este libro» (22:10). McGee se opone a quienes lo declaran incomprensible, y Carballosa recuerda que, aunque se escribió hace unos mil novecientos años, tiene un mensaje importante para hoy. Antes de empezar los días, conviene saber qué clase de libro es.",
-    "fuentes": [
-      "web_03_b#1",
-      "r1_030#10",
-      "mcgee_01_a#16",
-      "carballosa_18_b#1"
-    ]
+    "texto": "Pocos libros despiertan tanto temor y tanta curiosidad. MacArthur dice que ninguno revela con más esplendor la gloria de Dios y de Cristo, y que ninguno ha sido peor comprendido y más descuidado. Sin embargo, es un libro que se abre: a Juan se le manda «No selles las palabras de la profecía de este libro» (22:10), y McGee se opone a quienes lo declaran incomprensible.",
+    "fuentes": ["web_03_b#1", "r1_030#10", "mcgee_01_a#16"]
   },
   "versiculos": [
-    {
-      "ref": "1:1",
-      "porque": "Es el título que el libro se da a sí mismo: lo que se revela es Jesucristo."
-    },
-    {
-      "ref": "1:3",
-      "porque": "La bendición prometida al que lee, a los que oyen y a los que guardan."
-    },
-    {
-      "ref": "1:4",
-      "porque": "El saludo de una carta dirigida a siete iglesias reales."
-    },
-    {
-      "ref": "1:11",
-      "porque": "Juan escribe por encargo de Cristo y envía lo que ve a las iglesias."
-    },
-    {
-      "ref": "22:7",
-      "porque": "El libro termina como empezó: con una bendición para el que guarda la profecía."
-    },
-    {
-      "ref": "22:10",
-      "porque": "A diferencia de Daniel, este libro no se sella: fue dado para entenderse."
-    }
+    {"ref": "1:1", "porque": "El título del libro: lo que se revela es Jesucristo."},
+    {"ref": "1:3", "porque": "La bendición para el que lee, oye y guarda."},
+    {"ref": "1:4", "porque": "El saludo de una carta a siete iglesias reales."},
+    {"ref": "22:7", "porque": "El libro termina como empezó: con una bendición."},
+    {"ref": "22:10", "porque": "A diferencia de Daniel, este libro no se sella."}
   ],
   "apartados": [
     {
       "titulo": "Una revelación de Jesucristo",
       "parrafos": [
         {
-          "texto": "El libro trae su propio título: «La revelación de Jesucristo» (1:1). La palabra griega, apokálypsis, habla de algo antes escondido que se vuelve visible; Wiersbe la explica como “descorrer el velo”. En el Nuevo Testamento se usa también para la aparición gloriosa de Cristo en su segunda venida (2 Ts 1:7; 1 P 1:7). El nombre no anuncia un enigma sino una manifestación.",
-          "fuentes": [
-            "mbiblia_01_a#1",
-            "r1_024_a#3"
-          ]
+          "texto": "El libro trae su propio título: «La revelación de Jesucristo» (1:1). La palabra griega, apokálypsis, habla de algo antes escondido que se vuelve visible; Wiersbe la explica como “descorrer el velo”. El Nuevo Testamento la usa también para la aparición gloriosa de Cristo en su segunda venida (2 Ts 1:7; 1 P 1:7).",
+          "fuentes": ["mbiblia_01_a#1", "r1_024_a#3"]
         },
         {
-          "texto": "Lo que se descubre, ante todo, es a Cristo. La Biblia de estudio MacArthur lo llama una revelación de Jesucristo “en primer lugar y sobre cualquier otra cosa” y recorre sus títulos: testigo fiel, primogénito de los muertos, el Alfa y la Omega, el León de la tribu de Judá, el Cordero, Rey de reyes. Wiersbe ordena el libro alrededor de él: es Sacerdote-Rey en el capítulo 1, examina a las iglesias en los capítulos 2 y 3, recibe adoración y el título de propiedad en los capítulos 4 y 5, juzga en los capítulos 6 al 19 y reina en los capítulos 20 al 22. McGee lo contrasta con los Evangelios: allí se lo ve en humillación; aquí, en gloria y a cargo de todo.",
-          "fuentes": [
-            "mbiblia_01_a#7",
-            "macarthur_01#4",
-            "r1_024_a#3",
-            "mcgee_01_b#1"
-          ]
+          "texto": "Lo que se descubre, ante todo, es a Cristo: la Biblia de estudio MacArthur lo dice “en primer lugar y sobre cualquier otra cosa”. Wiersbe ordena el libro alrededor de él: examina a las iglesias (caps. 2-3), recibe adoración (4-5), juzga (6-19) y reina (20-22). McGee lo contrasta con los Evangelios: allí se lo ve en humillación; aquí, en gloria y a cargo de todo.",
+          "fuentes": ["mbiblia_01_a#7", "macarthur_01#4", "r1_024_a#3", "mcgee_01_b#1"]
         }
       ]
     },
     {
-      "titulo": "Tres géneros en un solo libro",
+      "titulo": "Profecía y carta",
       "parrafos": [
         {
-          "texto": "Mundo Hispano pide tener siempre presente, para una interpretación sana, que el libro reúne tres géneros: se declara profecía (1:3), se presenta como carta (1:4) y es apocalíptico. La Coalición por el Evangelio y CHBC (9Marcas) coinciden, y CHBC advierte que muchos malentendidos nacen de ignorar el género, como jugar al fútbol con las reglas del béisbol.",
-          "fuentes": [
-            "cbmh_01_a#4",
-            "cpe_01#5",
-            "web_16#18",
-            "web_07#3"
-          ]
+          "texto": "Mundo Hispano pide recordar, para una interpretación sana, que el libro reúne tres géneros: profecía (1:3), carta (1:4) y apocalipsis. La Coalición por el Evangelio y CHBC (9Marcas) coinciden; CHBC advierte que ignorar el género es como jugar al fútbol con las reglas del béisbol.",
+          "fuentes": ["cbmh_01_a#4", "cpe_01#5", "web_16#18", "web_07#3"]
         },
         {
-          "texto": "Es profecía. Juan lo llama «las palabras de esta profecía» (1:3) y lo repite al final (22:7, 10, 18-19). Grudem destaca su autoridad: obedecerlo trae bendición y alterarlo trae castigo (22:18-19). Mira al futuro, pero no para alimentar la curiosidad: según Grudem, lo revelado sirve para exhortar, para consolar a los creyentes en tribulación y para proclamar el gobierno de Dios y su triunfo sobre el mal. Ladd agrega que la profecía no entrega un programa del futuro, sino que arroja luz desde el fin hacia el presente.",
-          "fuentes": [
-            "r2_004_a#1",
-            "r2_004_a#2",
-            "r1_024_a#3",
-            "ladd_01_a#13",
-            "ladd_01_a#15"
-          ]
+          "texto": "Es profecía: Juan lo llama «las palabras de esta profecía» (1:3) y lo repite al cerrar (22:7, 10, 18-19). Grudem destaca su autoridad: obedecerlo trae bendición y alterarlo, castigo. Y muestra que lo revelado no sirve a la curiosidad, sino para exhortar, consolar a los que sufren y proclamar el gobierno de Dios. Ladd agrega que la profecía no entrega un programa del futuro: arroja luz desde el fin hacia el presente.",
+          "fuentes": ["r2_004_a#1", "r2_004_a#2", "ladd_01_a#13", "ladd_01_a#15"]
         },
         {
-          "texto": "Es una carta. Tiene saludo (1:4), cuerpo (caps. 2 y 3) y una despedida con exhortaciones y bendición (22:14-21), y va dirigida a «las siete iglesias que están en Asia», en lo que hoy es Turquía. Mundo Hispano piensa que el orden en que se las nombra sigue la ruta circular de un mensajero que partía de Patmos, y el Diccionario Mundo Hispano nota que las ciudades estaban sobre las grandes carreteras. Para Mundo Hispano, muchas malas interpretaciones vienen de olvidar que el libro les habló primero a cristianos del siglo I. Pero no se agota en ellos: Carballosa recuerda que cada carta termina con «El que tiene oído, oiga lo que el Espíritu dice a las iglesias».",
-          "fuentes": [
-            "cpe_01#5",
-            "cbmh_01_a#8",
-            "dbmh_01_a#3",
-            "cpe_05#12",
-            "carballosa_01#22"
-          ]
+          "texto": "Es una carta, con saludo, cuerpo y despedida (22:14-21), dirigida a «las siete iglesias que están en Asia», en lo que hoy es Turquía. Mundo Hispano piensa que el orden en que se las nombra sigue la ruta de un mensajero que partía de Patmos, y advierte que muchas malas interpretaciones nacen de olvidar que el libro les habló primero a cristianos del siglo I. Pero no se agota en ellos: Carballosa recuerda que cada carta termina con «El que tiene oído, oiga lo que el Espíritu dice a las iglesias».",
+          "fuentes": ["cpe_01#5", "cbmh_01_a#8", "dbmh_01_a#3", "cpe_05#12", "carballosa_01#22"]
         }
       ]
     },
@@ -97,23 +48,12 @@
       "titulo": "Un apocalipsis: la historia vista desde el cielo",
       "parrafos": [
         {
-          "texto": "Grau lo señala como el único libro del Nuevo Testamento de este género; Carballosa lo agrupa con Daniel, Ezequiel y Zacarías. Sus rasgos: el mensaje llega en visiones y símbolos, un mensajero celestial los declara o interpreta, la mirada está puesta en el fin y el origen está en tiempos de opresión. Para el lector del siglo I esos recursos eran familiares (CHBC). Mundo Hispano lo resume así: la visión lleva a Juan fuera de este mundo para que los lectores lo vean desde la perspectiva del cielo, donde los límites del poder de Roma se abren al propósito de Dios. Y lo distingue de otros apocalipsis porque ancla la esperanza en la obra de Cristo en la cruz.",
-          "fuentes": [
-            "r2_005_a#1",
-            "carballosa_01#2",
-            "web_16#18",
-            "cbmh_01_a#5",
-            "cbmh_01_a#4",
-            "r1_001#33"
-          ]
+          "texto": "Grau lo señala como el único libro del Nuevo Testamento de este género; Carballosa lo agrupa con Daniel, Ezequiel y Zacarías: visiones y símbolos, un mensajero celestial que los interpreta, la mirada puesta en el fin y un origen en tiempos de opresión. Mundo Hispano lo resume así: la visión saca a Juan de este mundo para que los lectores lo vean desde el cielo, donde el poder de Roma queda chico ante el propósito de Dios. Y la esperanza está anclada en la cruz.",
+          "fuentes": ["r2_005_a#1", "carballosa_01#2", "r1_001#33", "cbmh_01_a#5", "cbmh_01_a#4"]
         },
         {
-          "texto": "Los símbolos no son adivinanzas. Wiersbe muestra que algunos los explica el mismo libro (1:20), otros se aclaran con el Antiguo Testamento, y todos hablan de realidades, como una bandera indica una nación. Cuánto se lee en figura y cuánto en sentido literal es una de las grandes diferencias entre los intérpretes (ver Interpretaciones y el anexo I3).",
-          "fuentes": [
-            "r1_024_a#3",
-            "web_07#3",
-            "cpe_03#1"
-          ]
+          "texto": "Los símbolos no son adivinanzas. Wiersbe muestra que algunos los explica el mismo libro (1:20), otros se aclaran con el Antiguo Testamento, y todos hablan de realidades, como una bandera indica una nación. Cuánto se lee en figura y cuánto al pie de la letra divide a los intérpretes (ver Interpretaciones y el anexo I3).",
+          "fuentes": ["r1_024_a#3", "web_07#3", "cpe_03#1"]
         }
       ]
     },
@@ -121,30 +61,16 @@
       "titulo": "Por qué leerlo: la bendición de 1:3",
       "parrafos": [
         {
-          "texto": "El libro empieza (1:3) y termina (22:7) con una bendición para quien lo lee y lo guarda; MacArthur sostiene que es el único de la Biblia que lo hace, y Guzik cuenta siete bienaventuranzas en todo el libro. Larkin y Guzik subrayan lo que la promesa no pide: entenderlo todo. Pide leer, oír y guardar, y guardar implica que cambie cómo vivimos (ver el día 1).",
-          "fuentes": [
-            "r1_030#10",
-            "web_03_b#1",
-            "web_03_a#5",
-            "larkin_01_a#9"
-          ]
+          "texto": "El libro empieza (1:3) y termina (22:7) con una bendición; MacArthur sostiene que es el único de la Biblia que lo hace. Larkin y Guzik subrayan lo que la promesa no pide: entenderlo todo. Pide leer, oír y guardar, y guardar cambia cómo vivimos (ver el día 1).",
+          "fuentes": ["r1_030#10", "web_03_b#1", "web_03_a#5", "larkin_01_a#9"]
         },
         {
-          "texto": "¿Para qué se escribió? Earle (Beacon) dice que su propósito primordial era consolar y estimular a los cristianos perseguidos, asegurándoles el triunfo final de Cristo y de los suyos, y también advertir a las iglesias contra el descuido. Las iglesias ya lo sentían: en Pérgamo habían matado a Antipas (2:13) y a Esmirna se le anunciaba la cárcel (2:10). Ligonier propone preguntarse, ante cada visión, cómo animaría a sus primeros lectores. Carballosa cita a José M. Martínez: el último triunfo no corresponde a Roma sino al reino de Dios.",
-          "fuentes": [
-            "beacon_01_a#14",
-            "ladd_01_a#6",
-            "mbiblia_01_a#5",
-            "web_12#15",
-            "carballosa_01#19"
-          ]
+          "texto": "Earle (Beacon) dice que su propósito era consolar y estimular a los cristianos perseguidos, asegurándoles el triunfo final de Cristo, y advertir a las iglesias contra el descuido. La presión era real: en Pérgamo habían matado a Antipas (2:13) y a Esmirna se le anunciaba la cárcel (2:10). Carballosa cita a José M. Martínez: el último triunfo no es de Roma sino del reino de Dios.",
+          "fuentes": ["beacon_01_a#14", "ladd_01_a#6", "mbiblia_01_a#5", "carballosa_01#19"]
         },
         {
-          "texto": "Ese consuelo sigue vigente. CHBC sostiene que la aplicación principal no es un mapa del futuro sino ordenar hoy la esperanza: al final Dios gana, y los que confían en él vivirán con él para siempre. Quien lo lee solo para averiguar quién es el anticristo, sospecha el autor, no cambiará su vida. La esperanza no está en que falte el sufrimiento, sino en la bondad y la soberanía de Dios en medio de él; la Coalición agrega que Cristo está en su trono y que lo que hoy se padece es pasajero.",
-          "fuentes": [
-            "web_07#2",
-            "cpe_10#6"
-          ]
+          "texto": "Ese consuelo sigue vigente. CHBC sostiene que la aplicación principal no es un mapa del futuro sino ordenar hoy la esperanza: al final Dios gana. Quien lo lee solo para averiguar quién es el anticristo, sospecha, no cambiará su vida. La esperanza no está en que falte el sufrimiento, sino en la bondad y la soberanía de Dios en medio de él.",
+          "fuentes": ["web_07#2", "cpe_10#6"]
         }
       ]
     },
@@ -152,27 +78,16 @@
       "titulo": "Su lugar en la Biblia",
       "parrafos": [
         {
-          "texto": "Es el último libro y, para varios autores, el que cierra lo que el resto abrió. Carballosa lo llama el libro consumador de la Escritura: es al Nuevo Testamento lo que Daniel es al Antiguo. McGee lo compara con una gran estación terminal del ferrocarril, adonde llegan todas las líneas de la profecía, y enumera diez, desde la promesa de Génesis 3:15 hasta los pactos con Abraham. Ligonier lo resume con una imagen: la Biblia comienza en un huerto y termina en una ciudad.",
-          "fuentes": [
-            "carballosa_01#1",
-            "mcgee_01_a#16",
-            "mcgeer_01#14",
-            "web_17#8"
-          ]
+          "texto": "Carballosa lo llama el libro consumador de la Escritura: es al Nuevo Testamento lo que Daniel es al Antiguo. McGee lo compara con una estación terminal del ferrocarril, adonde llegan todas las líneas de la profecía, desde Génesis 3:15. Ligonier lo resume en una imagen: la Biblia comienza en un huerto y termina en una ciudad.",
+          "fuentes": ["carballosa_01#1", "mcgee_01_a#16", "mcgeer_01#14", "web_17#8"]
         },
         {
-          "texto": "Por eso no se entiende sin el Antiguo Testamento. La Coalición afirma que el libro no tiene una sola cita directa, pero sí más de 500 referencias; Benware, citando un estudio, cuenta 348 alusiones (casi 250 pasajes distintos); Earle (Beacon) recoge casi 300 referencias a los profetas, unas 70 de Daniel. Las cifras varían de un autor a otro, pero la conclusión es la misma: hay que leer y releer el Antiguo Testamento (anexo T4).",
-          "fuentes": [
-            "cpe_01#4",
-            "r1_003#6",
-            "beacon_01_a#6"
-          ]
+          "texto": "Por eso no se entiende sin el Antiguo Testamento. La Coalición dice que no lo cita directamente ni una vez, pero tiene más de 500 referencias; Benware, citando un estudio, cuenta 348 alusiones; Earle, casi 300 a los profetas, unas 70 de Daniel. Las cifras varían, la conclusión no: hay que leer y releer el Antiguo Testamento (anexo T4).",
+          "fuentes": ["cpe_01#4", "r1_003#6", "beacon_01_a#6"]
         },
         {
-          "texto": "Su lugar en el canon no se ganó sin discusión. Carballosa cuenta que en Occidente se lo aceptó temprano, mientras que en Oriente algunos lo rechazaron y la iglesia griega lo excluyó del uso litúrgico; él atribuye la demora a su contenido apocalíptico y a las dudas sobre el autor (ver el anexo I2).",
-          "fuentes": [
-            "carballosa_01#13"
-          ]
+          "texto": "Su lugar en el canon se discutió: según Carballosa, Occidente lo aceptó temprano, pero en Oriente algunos lo rechazaron, por su contenido y por dudas sobre el autor (anexo I2).",
+          "fuentes": ["carballosa_01#13"]
         }
       ]
     },
@@ -180,35 +95,16 @@
       "titulo": "Cómo lo leen hoy los autores evangélicos",
       "parrafos": [
         {
-          "texto": "Sproul (Ligonier) observa que muchas diferencias sobre los últimos tiempos se remontan a cómo se aborda este libro. Hay cuatro enfoques: el preterista lo ve cumplido en su mayor parte en el siglo I; el historicista, como un panorama de la historia de la iglesia; el futurista, sobre todo desde los capítulos 4 o 6, como hechos todavía futuros alrededor de la venida de Cristo; el idealista, como el conflicto entre el bien y el mal sin una cronología. Sproul los llama “virtualmente incompatibles” (detalle en el anexo I4).",
-          "fuentes": [
-            "web_14#1",
-            "dbmh_01_a#5",
-            "macarthur_01#34"
-          ]
+          "texto": "Sproul (Ligonier) observa que muchas diferencias sobre los últimos tiempos nacen de cómo se aborda este libro. Hay cuatro enfoques: el preterista lo ve cumplido en su mayor parte en el siglo I; el historicista, como un panorama de la historia de la iglesia; el futurista, como hechos todavía futuros alrededor de la venida de Cristo; el idealista, como el conflicto entre el bien y el mal, sin cronología. Sproul los llama “virtualmente incompatibles” (anexo I4).",
+          "fuentes": ["web_14#1", "dbmh_01_a#5", "macarthur_01#34"]
         },
         {
-          "texto": "Entre los autores de este estudio hay de todo. MacArthur, Wiersbe, Carballosa y McGee son futuristas. Ladd se acerca a un futurismo moderado y lo integra con el preterismo. Beasley-Murray busca leer las visiones como sus primeros destinatarios, sabiendo que su cumplimiento espera el día que nadie conoce. La Coalición y CHBC leen las visiones como relatos que se repiten y recorren la historia entre las dos venidas. Sproul se inclina por un preterismo moderado, que espera la segunda venida y la resurrección.",
-          "fuentes": [
-            "macarthur_01#34",
-            "r1_024_a#7",
-            "carballosa_01#36",
-            "mcgeer_01#6",
-            "ladd_01_a#11",
-            "henry_01_a#4",
-            "cpe_02#17",
-            "web_16#21",
-            "web_13#20",
-            "r1_005#5"
-          ]
+          "texto": "En este estudio hay de todo. MacArthur, Wiersbe, Carballosa y McGee son futuristas. Ladd integra un futurismo moderado con el preterismo, y Beasley-Murray lee las visiones como sus primeros destinatarios, esperando un cumplimiento sin fecha. La Coalición y CHBC ven relatos que se repiten entre las dos venidas. Sproul se inclina por un preterismo moderado, que espera la segunda venida.",
+          "fuentes": ["r1_024_a#7", "carballosa_01#36", "mcgeer_01#6", "ladd_01_a#11", "henry_01_a#4", "cpe_02#17", "web_16#21", "web_13#20", "r1_005#5"]
         },
         {
-          "texto": "Lo que comparten pesa más. Carballosa reconoce expositores serios y piadosos en todas las escuelas que aceptan el libro como Palabra de Dios y pide respetar a quienes piensan distinto. La Coalición enumera los puntos de acuerdo: la derrota de los enemigos, el juicio y la resurrección final y la restauración de todas las cosas; las diferencias están en el cuándo y el cómo. Y Sproul, después de marcar la distancia entre los enfoques, dice que en todos aparece magníficamente el mensaje central: el triunfo de Cristo.",
-          "fuentes": [
-            "carballosa_01#41",
-            "cpe_02#18",
-            "web_14#1"
-          ]
+          "texto": "Lo que comparten pesa más. Carballosa reconoce expositores serios y piadosos en todas las escuelas que aceptan el libro como Palabra de Dios. La Coalición nombra los acuerdos: la derrota de los enemigos, el juicio y la resurrección final y la restauración de todas las cosas; las diferencias están en el cuándo y el cómo. Y Sproul dice que en todos los enfoques aparece el mensaje central: el triunfo de Cristo.",
+          "fuentes": ["carballosa_01#41", "cpe_02#18", "web_14#1"]
         }
       ]
     }
@@ -218,242 +114,52 @@
       "ref": "1:1",
       "griego": "ἀποκάλυψις",
       "translit": "apokálypsis",
-      "significado": "Descubrimiento, revelación, apertura: algo antes escondido que se vuelve visible. Es la palabra que da nombre al libro.",
-      "fuentes": [
-        "mbiblia_01_a#1",
-        "r1_024_a#3"
-      ]
+      "significado": "Descubrimiento, revelación: algo escondido que se vuelve visible.",
+      "fuentes": ["mbiblia_01_a#1", "r1_024_a#3"]
     }
   ],
   "interpretaciones": [
     {
-      "tema": "¿Profecía para leer en sentido normal o apocalipsis para leer en figuras?",
+      "tema": "¿Profecía en sentido normal o apocalipsis en figuras?",
       "posturas": [
         {
-          "postura": "Es ante todo profecía y se lee con el método histórico-gramatical (literal): los símbolos representan algo real y suele explicarlos el propio libro.",
+          "postura": "Es ante todo profecía y se lee con el método histórico-gramatical: los símbolos representan algo real y suele explicarlos el propio libro.",
           "quien": "Benware, siguiendo a Robert Thomas; Carballosa; MacArthur (premilenial dispensacional)",
-          "fuentes": [
-            "r1_005#9",
-            "carballosa_18_b#2",
-            "macarthur_01#34"
-          ]
+          "fuentes": ["r1_005#9", "carballosa_18_b#2", "macarthur_01#34"]
         },
         {
-          "postura": "Es apocalíptico: se lee en sentido figurado salvo que el contexto pida lo literal; los hechos son reales, pero descritos en símbolos.",
+          "postura": "Es apocalíptico: se lee en sentido figurado salvo que el contexto pida lo literal; los hechos son reales, descritos en símbolos.",
           "quien": "CHBC (9Marcas); Coalición por el Evangelio (recapitulación)",
-          "fuentes": [
-            "web_07#3",
-            "cpe_03#1"
-          ]
+          "fuentes": ["web_07#3", "cpe_03#1"]
         },
         {
-          "postura": "El simbolismo apocalíptico apunta a hechos de la historia que llevan a la consumación; una lectura solo simbólica se queda corta.",
+          "postura": "Sus símbolos apuntan a hechos de la historia que llevan al fin; una lectura solo simbólica se queda corta.",
           "quien": "Ladd (premilenial histórico)",
-          "fuentes": [
-            "ladd_01_a#10",
-            "ladd_01_a#15"
-          ]
+          "fuentes": ["ladd_01_a#10", "ladd_01_a#15"]
         }
       ],
-      "nota": "Todos admiten que hay símbolos; según la Coalición, la discusión es sobre cuántos."
-    },
-    {
-      "tema": "¿Para quién se escribió: para los primeros lectores o para los últimos tiempos?",
-      "posturas": [
-        {
-          "postura": "Habló primero a las iglesias del siglo I; olvidarlo produce malas interpretaciones, y una lectura que las deje sin mensaje no convence.",
-          "quien": "Mundo Hispano; Ladd (premilenial histórico)",
-          "fuentes": [
-            "cbmh_01_a#8",
-            "ladd_01_a#9"
-          ]
-        },
-        {
-          "postura": "Los capítulos 4 a 22 son futuros, y eso no los vacía para los primeros lectores: la profecía de lo lejano tiene aplicación inmediata.",
-          "quien": "MacArthur, citando a Walvoord (premilenial dispensacional)",
-          "fuentes": [
-            "macarthur_01#35"
-          ]
-        },
-        {
-          "postura": "Juan pintó la crisis final con los colores de su época; lo que vivían sus lectores anticipa lo que vendrá, y muchas figuras son a la vez futuras y representativas de toda la historia.",
-          "quien": "Beasley-Murray; Coalición por el Evangelio",
-          "fuentes": [
-            "henry_01_a#4",
-            "cpe_02#16"
-          ]
-        }
-      ],
-      "nota": "Los cuatro enfoques, con sus razones, están en el anexo I4."
+      "nota": "Todos admiten símbolos; según la Coalición, la discusión es cuántos."
     }
   ],
   "citas": [
-    {
-      "texto": "virtualmente incompatibles",
-      "autor": "R. C. Sproul",
-      "obra": "Una introducción al Apocalipsis (Ministerios Ligonier)",
-      "pagina": "artículo web"
-    },
-    {
-      "texto": "descorrer el velo",
-      "autor": "Warren W. Wiersbe",
-      "obra": "Bosquejos expositivos de la Biblia",
-      "pagina": "PDF 471-472"
-    }
+    {"texto": "virtualmente incompatibles", "autor": "R. C. Sproul", "obra": "Una introducción al Apocalipsis (Ministerios Ligonier)", "pagina": "artículo web"},
+    {"texto": "descorrer el velo", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 471-472"}
   ],
   "conexiones": [
-    {
-      "ref": "Dn 12:4",
-      "nota": "A Daniel se le manda sellar el libro hasta el tiempo del fin; a Juan, no sellarlo (Ap 22:10).",
-      "fuentes": [
-        "cpe_01#4",
-        "mcgee_01_a#16"
-      ]
-    },
-    {
-      "ref": "Gn 3:15",
-      "nota": "McGee hace nacer aquí la línea de profecía sobre Cristo que desemboca en el Apocalipsis.",
-      "fuentes": [
-        "mcgeer_01#14"
-      ]
-    },
-    {
-      "ref": "Jn 1:29",
-      "nota": "El Cordero que presentó Juan el Bautista vuelve como el León de Judá (Ap 5:5).",
-      "fuentes": [
-        "web_17#8"
-      ]
-    }
+    {"ref": "Dn 12:4", "nota": "A Daniel se le manda sellar el libro; a Juan, no (Ap 22:10).", "fuentes": ["cpe_01#4", "mcgee_01_a#16"]},
+    {"ref": "Jn 1:29", "nota": "El Cordero vuelve como León de Judá (Ap 5:5).", "fuentes": ["web_17#8"]}
   ],
   "para_vivir": [
-    {
-      "texto": "Léanlo para ver a Jesús, no para armar un calendario. Si al cerrar cada día lo conocen y lo esperan un poco más, el estudio está cumpliendo su propósito.",
-      "fuentes": [
-        "mbiblia_01_a#7",
-        "web_07#2"
-      ]
-    },
-    {
-      "texto": "Ante una visión difícil, háganse dos preguntas: cómo habrá animado a los primeros lectores (Ligonier) y qué principio y qué promesa valen igual para nosotros hoy (Coalición).",
-      "fuentes": [
-        "web_12#15",
-        "cpe_02#18"
-      ]
-    },
-    {
-      "texto": "Si leen autores que no piensan igual, quédense con lo que comparten: Cristo vence, juzga y restaura todas las cosas. Las diferencias sobre el cuándo y el cómo no tienen que quitarles el consuelo ni la adoración.",
-      "fuentes": [
-        "cpe_02#18",
-        "carballosa_01#41"
-      ]
-    }
+    {"texto": "Léanlo para ver a Jesús, no para armar un calendario.", "fuentes": ["mbiblia_01_a#7", "web_07#2"]},
+    {"texto": "Ante una visión difícil, pregúntense cómo habrá animado a los primeros lectores (Ligonier) y qué promesa vale igual para nosotros (Coalición).", "fuentes": ["web_12#15", "cpe_02#18"]}
   ],
   "para_conversar": [
-    "¿Qué imagen teníamos del Apocalipsis antes de empezar? ¿Qué cambia saber que es a la vez revelación, profecía y carta?",
-    "Si lo hubiéramos recibido como una de las iglesias de Asia, bajo presión, ¿qué parte del mensaje nos habría consolado más?",
-    "¿Cómo podemos estudiar las partes discutidas sin perder de vista que el centro es Cristo y su triunfo?"
+    "¿Qué imagen teníamos del Apocalipsis antes de empezar, y qué cambia saber que es revelación, profecía y carta?",
+    "Si lo hubiéramos recibido como una iglesia de Asia bajo presión, ¿qué nos habría consolado más?",
+    "¿Cómo estudiar lo discutido sin perder de vista que el centro es Cristo y su triunfo?"
   ],
-  "dias_relacionados": [
-    1,
-    2,
-    4,
-    5,
-    93,
-    94
-  ],
-  "visuales": [
-    "dg-estructura",
-    "dg-escuelas",
-    "mapa-asia"
-  ],
-  "refs_apocalipsis": [
-    "1:1-3",
-    "1:4",
-    "1:11",
-    "1:20",
-    "2:10",
-    "2:13",
-    "22:7",
-    "22:10",
-    "22:14-21"
-  ],
-  "notas_no_usadas": [
-    "cpe_01#6",
-    "mbiblia_01_a#9",
-    "henry_01_a#1",
-    "r1_027#13",
-    "r1_027#28",
-    "r1_028#17",
-    "web_14#3",
-    "r1_027#12",
-    "r1_017#5",
-    "ladd_01_a#8",
-    "r1_027#10",
-    "henry_01_a#3",
-    "r1_007#1",
-    "web_03_a#6",
-    "r2_005_a#2",
-    "cpe_01#24",
-    "ladd_01_a#1",
-    "r2_005_a#4",
-    "carballosa_19#15",
-    "mbiblia_01_a#2",
-    "cpe_02#8",
-    "r1_005#13",
-    "r1_003#1",
-    "r1_012#19",
-    "cpe_06#9",
-    "r1_003#9",
-    "r1_027#11",
-    "macarthur_01#28",
-    "cpe_04#10",
-    "r1_005#4",
-    "cpe_02#31",
-    "cpe_02#14",
-    "r2_008#12",
-    "r2_004_a#5",
-    "r1_005#30",
-    "r1_005#12",
-    "r1_035#18",
-    "r1_008#1",
-    "macarthur_01#31",
-    "web_14#2",
-    "larkin_01_a#1",
-    "beacon_01_a#10",
-    "mcgee_01_a#11",
-    "carballosa_01#20",
-    "r1_030#25",
-    "larkin_01_a#11",
-    "cbmh_01_a#1",
-    "carballosa_19#9",
-    "carballosa_19#12",
-    "carballosa_01#11",
-    "web_17#10",
-    "web_20#1",
-    "r1_007#6",
-    "r1_007#7",
-    "carballosa_19#10",
-    "carballosa_01#29",
-    "r1_012#4",
-    "ladd_01_a#4",
-    "web_17#11",
-    "cbmh_07#37",
-    "mcgee_01_b#6",
-    "mcgee_01_a#10",
-    "r1_005#6",
-    "mbiblia_01_a#8",
-    "r1_005#14",
-    "carballosa_01#39",
-    "r1_007#14",
-    "r1_012#22",
-    "mcgee_01_a#9",
-    "r1_007#11",
-    "r1_005#3",
-    "cbmh_01_a#7",
-    "carballosa_02_a#16",
-    "cbmh_01_a#6",
-    "r1_005#25",
-    "r1_005#8",
-    "r1_027#9"
-  ]
+  "dias_relacionados": [1, 2, 4, 5, 93, 94],
+  "visuales": ["dg-estructura", "dg-escuelas", "mapa-asia"],
+  "refs_apocalipsis": ["1:1-3", "1:4", "1:20", "2:10", "2:13", "22:7", "22:10", "22:14-21"],
+  "notas_no_usadas": []
 }

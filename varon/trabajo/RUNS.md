@@ -28,3 +28,8 @@
 - Ronda 2 (verificar por lotes): wf_4ea996fe-10e (estructura, enfoques_1) wf_c0357d7d-8f1 (lecturas, enfoques_2) wf_ee754a01-c5c (enfoques_3, enfoques_4) wf_75103865-795 (enfoques_5, enfoques_6)
 - 25-10: ronda 2 verificada en 3 de 4 corridas (wf_4ea996fe-10e, wf_ee754a01-c5c, wf_75103865-795). Falta wf_c0357d7d-8f1 (lecturas, enfoques_2).
   Para seguir: python3 scripts/aplicar_ronda2.py aplicar wf_4ea996fe-10e wf_c0357d7d-8f1 wf_ee754a01-c5c wf_75103865-795 → insumos.py → escribir (wf_varon_escribir.js).
+- Plan v3 cerrado (512 días; ronda 2 aplicada: 541 cambios). Siguiente: escribir.
+- ESCRIBIR (512 días en 24 corridas de a ~21, intercaladas para que el estudio se complete en orden; lista en scratchpad/lotes_escribir.json):
+  Escribir wf_db104f77-72f wf_e508e3cc-9fa wf_6175b3b6-600 wf_090b0464-f8a wf_3f48aee9-43e wf_be5f77a9-7ec wf_106fbcd8-5b5 wf_3e5eef96-483 wf_6841d29f-3ad wf_e0daeacc-9c2 wf_cd320f13-ba3 wf_5b11c515-309
+  Escribir wf_5079400b-970 wf_a235531a-772 wf_ea7c11a7-3cb wf_f5f9675c-2d6 wf_cec87002-f65 wf_31050627-0c8 wf_a1587dae-66c wf_73e5dc33-c03 wf_2e2103fe-da8 wf_6bd7e8e2-14d wf_32cbc635-f7d wf_ef4ccd37-54c
+- 30-10: pausa pedida por el usuario con la escritura en curso. Para retomar: python3 scripts/dias_desde_journal.py (junta los días ya escritos y verificados; no pisa los existentes) → ver cuáles faltan y relanzar esas corridas con resumeFromRunId y los mismos args (plan/lotes_escribir.json) → validar.py → rvr.py → continuidad (wf_varon_continuidad.js) → construir.py.

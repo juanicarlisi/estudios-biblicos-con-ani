@@ -3,22 +3,41 @@
   "desde": "4:1",
   "hasta": "4:3",
   "titulo": "Una puerta abierta y un trono ocupado",
-  "minutos": {"lectura": 1, "estudio": 26},
+  "minutos": {
+    "lectura": 1,
+    "estudio": 26
+  },
   "contexto": {
-    "antes": "Ayer (3:18-22) terminó la carta a Laodicea y, con ella, las siete cartas. Juan ya había visto al Cristo glorificado entre los candeleros (1:9-20) y había escrito lo que él dictó a cada iglesia: en el bosquejo de 1:19, «las cosas que son».",
-    "ahora": "Cambia el escenario: de la tierra al cielo. Una puerta abierta, la misma voz como de trompeta, una orden («Sube acá») y lo primero que Juan ve allá arriba: un trono, y en el trono alguien sentado, envuelto en luz de piedras preciosas y rodeado por un arco iris.",
-    "donde": "Juan sigue en Patmos, pero en la visión pasa de la tierra al cielo, al lugar mismo del trono de Dios. Según Ladd y el Comentario Mundo Hispano, permanece allí hasta el final del capítulo 9 y después alterna entre cielo y tierra.",
-    "cuando": "El texto solo dice «después de esto». Ladd y el Comentario Mundo Hispano piensan que el libro puede reunir visiones recibidas en distintas ocasiones; a qué tiempo se refiere lo que Juan va a ver es una de las grandes discusiones del día (ver Interpretaciones).",
-    "despues": "Mañana (4:4-6) la mirada se abre alrededor del trono: veinticuatro ancianos, relámpagos y truenos, siete lámparas y un mar de vidrio. En el capítulo 5 aparecerá el Cordero, y el trono del Padre será también el suyo.",
-    "fuentes": ["macarthur_05_a#13", "cbmh_03_b#22", "cbmh_03_b#24", "ladd_02_c#6", "ladd_02_c#7", "macarthur_05_a#17", "mcgee_04_a#17", "r1_021#10"]
+    "antes": "Ayer (3:18-22) terminó la carta a Laodicea y, con ella, las siete cartas: en el bosquejo de 1:19, «las cosas que son».",
+    "ahora": "Cambia el escenario, de la tierra al cielo: una puerta abierta, la misma voz como de trompeta, la orden «Sube acá» y lo primero que Juan ve allá arriba: un trono ocupado, envuelto en luz y rodeado por un arco iris.",
+    "donde": "En la visión, Juan pasa de la tierra al cielo; según Ladd y el Comentario Mundo Hispano, se queda allí hasta el final del capítulo 9.",
+    "cuando": "El texto solo dice «después de esto». A qué tiempo se refiere lo que Juan va a ver se discute (ver Interpretaciones).",
+    "despues": "Mañana (4:4-6), alrededor del trono: veinticuatro ancianos, relámpagos, siete lámparas y un mar de vidrio. En el capítulo 5 llega el Cordero.",
+    "fuentes": [
+      "macarthur_05_a#13",
+      "cbmh_03_b#22",
+      "cbmh_03_b#24",
+      "ladd_02_c#6",
+      "macarthur_05_a#17",
+      "mcgee_04_a#17"
+    ]
   },
   "versiculo_clave": {
     "ref": "4:2",
-    "porque": "Es el centro del día y de todo el capítulo: lo primero que Juan ve en el cielo es un trono, y no está vacío. Antes de los sellos, las trompetas y las copas, el libro deja claro quién gobierna."
+    "porque": "Es el centro del capítulo: lo primero que Juan ve en el cielo es un trono, y no está vacío. Antes de sellos, trompetas y copas, el libro deja claro quién gobierna."
   },
   "panorama": {
-    "texto": "Hasta acá Juan miró a las iglesias en la tierra; ahora una voz lo invita a subir y mirar todo desde el cielo. Lo primero que ve no es un calendario de sucesos sino un trono ocupado: Dios reina, con autoridad absoluta, y todo lo que sigue en el libro sale de ese trono o gira a su alrededor. Juan no describe una figura; describe luz: brillo de jaspe y de cornalina, y un arco iris color esmeralda que rodea el trono. Los autores discuten si «Sube acá» alude al arrebatamiento de la iglesia y cómo leer «las cosas que sucederán», pero todos coinciden en lo esencial: en el centro de todo hay un trono, y el que está sentado en él es santo, justo y fiel a sus promesas.",
-    "fuentes": ["henry_01_b#2", "web_05_a#5", "macarthur_05_a#17", "cbmh_03_b#22", "cbmh_03_b#25", "beacon_03_a#11", "ladd_02_c#8", "macarthur_05_a#22"]
+    "texto": "Hasta acá Juan miró a las iglesias en la tierra; ahora una voz lo invita a subir y mirar desde el cielo. Lo primero que ve es un trono ocupado: Dios reina con autoridad absoluta, y todo lo que sigue en el libro sale de ese trono o gira a su alrededor. Juan no describe una figura sino luz: jaspe, cornalina y un arco iris como de esmeralda. Los autores discuten si «Sube acá» alude al arrebatamiento y cómo leer «las cosas que sucederán», pero coinciden en lo esencial: en el centro de todo hay un trono, y el que se sienta en él es santo, justo y fiel a sus promesas.",
+    "fuentes": [
+      "henry_01_b#2",
+      "web_05_a#5",
+      "macarthur_05_a#17",
+      "cbmh_03_b#22",
+      "cbmh_03_b#25",
+      "beacon_03_a#11",
+      "ladd_02_c#8",
+      "macarthur_05_a#22"
+    ]
   },
   "secciones": [
     {
@@ -26,18 +45,26 @@
       "titulo": "«Después de esto»: empieza una nueva etapa",
       "notas": [
         {
-          "texto": "El versículo empieza y termina con la misma expresión griega, metà taûta: «Después de esto miré…» y «las cosas que sucederán después de estas». MacArthur distingue los dos usos. El primero sigue la experiencia de Juan: esta visión viene después de la del Cristo glorificado y de las cartas; la misma frase abre otras visiones nuevas en 7:9, 15:5, 18:1 y 19:1 (lo señala también Carballosa). El segundo marca, en el plan de Dios, el paso de «las cosas que son» a «las que han de ser».",
-          "fuentes": ["macarthur_05_a#13", "carballosa_05_a#13", "mcgee_04_a#17", "web_05_a#1"],
+          "texto": "El versículo empieza y termina con la misma expresión griega, metà taûta: «Después de esto miré…» y «las cosas que sucederán después de estas». MacArthur distingue los dos usos: el primero sigue la experiencia de Juan (una visión nueva, como en 7:9, 15:5, 18:1 y 19:1, según también Carballosa); el segundo marca, en el plan de Dios, el paso de «las cosas que son» a «las que han de ser».",
+          "fuentes": [
+            "macarthur_05_a#13",
+            "carballosa_05_a#13",
+            "mcgee_04_a#17",
+            "web_05_a#1"
+          ],
           "tipo": "estructura_bosquejo"
         },
         {
-          "texto": "Por eso MacArthur, McGee, Guzik, Chafer y Carballosa, siguiendo el bosquejo de 1:19, ven en 4:1 el comienzo de la tercera y última parte del libro (capítulos 4 a 22). El Comentario Mundo Hispano lo organiza distinto: 4:1 abre la segunda visión de Juan (4:1-16:21), encabezada por la visión de Dios soberano en su trono. Las dos lecturas coinciden en el cambio de fondo: de la tierra al cielo, y de Cristo como cabeza de las iglesias a la acción soberana de Dios sobre toda su creación.",
-          "fuentes": ["macarthur_05_a#13", "mcgee_04_a#12", "web_05_a#1", "r1_037#13", "carballosa_04_b#18", "cbmh_03_b#22"],
-          "tipo": "estructura_bosquejo"
-        },
-        {
-          "texto": "Guzik advierte que los capítulos 4 y 5 son la base de lo que sigue: desde el capítulo 6 vienen sellos, trompetas y copas, y el capítulo 4 muestra primero el lugar de donde sale todo eso, el trono. Larkin los llama capítulos introductorios a los sellos, las trompetas y las copas.",
-          "fuentes": ["web_05_a#1", "larkin_01_b#23"],
+          "texto": "Por eso MacArthur, McGee, Guzik, Chafer y Carballosa, con el bosquejo de 1:19, ven aquí el comienzo de la tercera parte del libro (capítulos 4 a 22). El Comentario Mundo Hispano lo organiza distinto: 4:1 abre la segunda visión de Juan (4:1-16:21). Todos ven el mismo cambio de fondo: de la tierra al cielo, y de Cristo como cabeza de las iglesias a la acción soberana de Dios sobre su creación. Guzik y Larkin agregan que los capítulos 4 y 5 preparan los sellos, las trompetas y las copas: antes de los juicios, el libro muestra el trono de donde salen.",
+          "fuentes": [
+            "macarthur_05_a#13",
+            "mcgee_04_a#12",
+            "web_05_a#1",
+            "r1_037#13",
+            "carballosa_04_b#18",
+            "cbmh_03_b#22",
+            "larkin_01_b#23"
+          ],
           "tipo": "estructura_bosquejo"
         }
       ]
@@ -47,24 +74,23 @@
       "titulo": "«Una puerta abierta en el cielo»",
       "notas": [
         {
-          "texto": "Juan no ve abrirse la puerta: la encuentra abierta. En griego es un participio perfecto pasivo, una puerta que había sido abierta y seguía así; Earle (Beacon) cita a Simcox: «vio que la puerta estaba abierta, no la vio abrirse». Carballosa lo traduce «ha sido abierta y dejada así para la llegada de Juan», y nota que no se dice cómo ni cuándo se abrió.",
-          "fuentes": ["beacon_03_a#10", "carballosa_04_b#17"],
+          "texto": "Juan no ve abrirse la puerta: la encuentra abierta. En griego es un participio perfecto pasivo, una puerta que había sido abierta y seguía así; Earle cita a Simcox: «vio que la puerta estaba abierta, no la vio abrirse». Carballosa: «dejada así para la llegada de Juan».",
+          "fuentes": [
+            "beacon_03_a#10",
+            "carballosa_04_b#17"
+          ],
           "tipo": "griego_palabra"
         },
         {
-          "texto": "¿Para qué sirve esa puerta? Ladd, Earle y el Comentario Mundo Hispano coinciden: es la puerta de la revelación. Juan no se queda mirando el cielo desde abajo: pasa, en éxtasis, de la tierra al cielo, y por esa puerta entran todas las visiones que siguen. Ladd agrega que la puerta es una figura: Juan ya había visto antes al Cristo glorificado sin necesidad de puertas celestiales.",
-          "fuentes": ["ladd_02_c#5", "beacon_03_a#10", "cbmh_03_b#23"],
+          "texto": "Ladd, Earle y el Comentario Mundo Hispano coinciden en que es la puerta de la revelación: Juan no mira el cielo desde abajo, sino que pasa en éxtasis de la tierra al cielo, y por esa puerta entran todas las visiones que siguen. La Biblia habla muchas veces de cielos abiertos cuando Dios se deja ver (Gn 28:17; Ez 1:1; Mr 1:10; Hch 7:56). Carballosa marca una diferencia: cuando «los cielos» se abren (Mt 3:16; Ap 19:11) la manifestación es pública; esta «puerta» deja ver la visión solo a Juan. MacArthur entiende que da al tercer cielo (2 Co 12:2), la habitación misma del trono de Dios.",
+          "fuentes": [
+            "ladd_02_c#5",
+            "beacon_03_a#10",
+            "cbmh_03_b#23",
+            "carballosa_05_a#13",
+            "macarthur_05_a#15"
+          ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "La Biblia habla muchas veces de puertas y cielos abiertos cuando Dios actúa o se deja ver: Betel (Gn 28:17), Ezequiel junto al río (Ez 1:1), el bautismo de Jesús (Mr 1:10), Esteban (Hch 7:56) y Pedro en Jope (Hch 10:11), entre otros (Mundo Hispano). Carballosa marca una diferencia: cuando «los cielos» se abren (Mt 3:16; Ap 19:11) la manifestación es pública; una «puerta» abierta, en cambio, deja ver la visión solo a Juan.",
-          "fuentes": ["cbmh_03_b#23", "carballosa_05_a#13"],
-          "tipo": "conexion_biblica"
-        },
-        {
-          "texto": "MacArthur entiende que la puerta da al tercer cielo (2 Co 12:2), la habitación misma del trono de Dios, el cielo al que Cristo subió y donde está sentado a la diestra del Padre; desde allí Juan ve el resto del libro.",
-          "fuentes": ["macarthur_05_a#15"],
-          "tipo": "arqueologia_geografia"
         }
       ]
     },
@@ -73,24 +99,26 @@
       "titulo": "La voz como de trompeta: «Sube acá»",
       "notas": [
         {
-          "texto": "«La primera voz» es la que Juan oyó en 1:10: la del Señor Jesucristo. En esto coinciden Larkin, MacArthur, Carballosa, Earle, Guzik, Beasley-Murray y el Comentario Mundo Hispano. Es clara, sonora y penetrante, y la comparación con la trompeta, según MacArthur y Carballosa, destaca su autoridad. McGee hace notar que una trompeta no habla: la voz de Cristo es «como» una trompeta.",
-          "fuentes": ["larkin_01_b#23", "macarthur_05_a#16", "carballosa_04_b#17", "beacon_03_a#10", "web_05_a#3", "henry_01_b#2", "cbmh_03_b#23", "mcgeer_04#18"],
+          "texto": "«La primera voz» es la de 1:10: la del Señor Jesucristo, como coinciden Larkin, MacArthur, Carballosa, Earle, Guzik, Beasley-Murray y Mundo Hispano. La comparación con la trompeta destaca su autoridad (MacArthur, Carballosa); en el Antiguo Testamento la trompeta convocaba al pueblo (Neh 4:20), anunciaba juicio (Jl 2:1) y producía reverencia (Éx 19:16).",
+          "fuentes": [
+            "larkin_01_b#23",
+            "macarthur_05_a#16",
+            "carballosa_04_b#17",
+            "beacon_03_a#10",
+            "web_05_a#3",
+            "henry_01_b#2",
+            "cbmh_03_b#23"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Carballosa recuerda para qué se usaba la trompeta en el Antiguo Testamento: para convocar al pueblo (Neh 4:20), para anunciar un juicio (Jl 2:1) y para producir reverencia ante Dios (Éx 19:16).",
-          "fuentes": ["carballosa_04_b#17"],
-          "tipo": "conexion_biblica"
-        },
-        {
-          "texto": "«Sube acá» es una orden (aoristo imperativo, urgente según Carballosa), y le sigue una promesa: «yo te mostraré». Carballosa ve ahí el plan de 1:1: el Padre le dio a Cristo la tarea de transmitir la revelación. MacArthur insiste en que Juan no fue llevado a un mundo de fantasía sino trasladado espiritualmente a la realidad del cielo. Si esta subida alude o no al arrebatamiento de la iglesia es una discusión aparte (ver Interpretaciones).",
-          "fuentes": ["carballosa_04_b#17", "macarthur_05_a#16"],
+          "texto": "«Sube acá» es una orden urgente (aoristo imperativo, según Carballosa) seguida de una promesa: «yo te mostraré». Carballosa ve ahí el plan de 1:1: el Padre dio a Cristo la tarea de transmitir la revelación. Y lo que se mostrará, subraya, «necesariamente» sucederá: ninguna acción humana ni fuerza satánica puede impedirlo. MacArthur insiste en que Juan no fue llevado a un mundo de fantasía sino a la realidad del cielo. Si esta subida alude al arrebatamiento, ver Interpretaciones.",
+          "fuentes": [
+            "carballosa_04_b#17",
+            "carballosa_04_b#18",
+            "macarthur_05_a#16"
+          ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "Lo que se le va a mostrar son «las cosas que sucederán después de estas». Carballosa subraya que el griego dice que esas cosas «necesariamente» sucederán: es seguro que se cumplirán, y ninguna acción humana ni fuerza satánica puede impedirlo.",
-          "fuentes": ["carballosa_04_b#18"],
-          "tipo": "griego_palabra"
         }
       ]
     },
@@ -99,18 +127,22 @@
       "titulo": "«Al instante yo estaba en el Espíritu»",
       "notas": [
         {
-          "texto": "Juan ya estaba «en el Espíritu» en 1:10, sin que se diga que haya salido de ese estado. Ladd ve dos opciones: o hubo una interrupción que el texto no menciona, o la frase indica un estado todavía más elevado (así lo lee también Beasley-Murray). El Comentario Mundo Hispano descarta especular con una inspiración más intensa: puede ser solo un recordatorio de que lo escrito viene de la visión. Ladd y Mundo Hispano consideran posible que las visiones se recibieran en distintas ocasiones.",
-          "fuentes": ["ladd_02_c#7", "henry_01_b#2", "cbmh_03_b#24"],
+          "texto": "Juan ya estaba «en el Espíritu» en 1:10. Ladd ve dos opciones: o hubo una interrupción que el texto no menciona, o la frase indica un estado más elevado (así lo lee Beasley-Murray). Mundo Hispano lo toma como un recordatorio de que lo escrito viene de la visión; con Ladd, considera posible que las visiones se recibieran en distintas ocasiones.",
+          "fuentes": [
+            "ladd_02_c#7",
+            "henry_01_b#2",
+            "cbmh_03_b#24"
+          ],
           "tipo": "dificultad_interpretaciones"
         },
         {
-          "texto": "¿El Espíritu Santo o el espíritu de Juan? Carballosa prefiere leer el espíritu de Juan, en un segundo éxtasis como el de 1:10; para MacArthur, en su sermón, significa que el Espíritu lo guiaba hacia la visión, y la Biblia MacArthur habla de un traslado temporal y sobrenatural «en el Espíritu». Earle entiende que Juan fue transportado espiritualmente y no en el cuerpo; Guzik prefiere no decidirlo: tampoco Pablo sabía si había sido arrebatado en el cuerpo o fuera de él (2 Co 12:1-4).",
-          "fuentes": ["carballosa_04_b#19", "web_03_b#21", "mbiblia_01_b#33", "beacon_03_a#11", "web_05_a#4"],
-          "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "Guzik ve otra diferencia con 1:10: allá Juan vio a Cristo en la tierra; ahora va al cielo y mira todo con una perspectiva celestial. Ladd agrega que los cambios de escena entre cielo y tierra se dan con naturalidad en el libro y no son lo esencial de las visiones.",
-          "fuentes": ["web_05_a#4", "ladd_02_c#6"],
+          "texto": "Carballosa prefiere leer el espíritu de Juan, en éxtasis; para MacArthur, el Espíritu lo guiaba hacia la visión. Earle entiende que Juan fue transportado en espíritu y no en el cuerpo; Guzik prefiere no decidirlo, porque tampoco Pablo lo sabía (2 Co 12:1-4). Lo nuevo, según Guzik, es la perspectiva: ahora Juan mira todo desde el cielo.",
+          "fuentes": [
+            "carballosa_04_b#19",
+            "web_03_b#21",
+            "beacon_03_a#11",
+            "web_05_a#4"
+          ],
           "tipo": "explicacion_texto"
         }
       ]
@@ -120,23 +152,30 @@
       "titulo": "«Un trono establecido en el cielo, y en el trono, uno sentado»",
       "notas": [
         {
-          "texto": "Lo primero que Juan ve en el cielo es un trono. Para Beasley-Murray, eso es lo primero que se sabe del cielo: que Dios tiene autoridad absoluta. MacArthur y la Biblia MacArthur aclaran que no es un mueble sino el símbolo del gobierno soberano de Dios (Sal 11:4; 103:19; Is 66:1). El trono es el tema del capítulo: según la Biblia MacArthur aparece trece veces, y en once es el de Dios. MacArthur bosqueja el capítulo según la relación de cada cosa con el trono: quién está en él, qué hay alrededor, qué sale de él, qué hay delante y qué sube hacia él en adoración.",
-          "fuentes": ["henry_01_b#2", "macarthur_05_a#18", "mbiblia_01_b#34", "macarthur_05_a#17"],
+          "texto": "Para Beasley-Murray, lo primero que se sabe del cielo es que Dios tiene autoridad absoluta. MacArthur aclara que el trono no es un mueble sino el símbolo de su gobierno soberano (Sal 11:4; 103:19; Is 66:1); es el tema del capítulo, y MacArthur lo bosqueja según la relación de cada cosa con el trono: quién está en él, qué hay alrededor, qué sale de él y qué sube hacia él en adoración.",
+          "fuentes": [
+            "henry_01_b#2",
+            "macarthur_05_a#18",
+            "mbiblia_01_b#34",
+            "macarthur_05_a#17"
+          ],
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "Y el trono está ocupado. Larkin, Guzik y G. Campbell Morgan (citado por Guzik) lo subrayan: en el centro de todo hay un trono, y no está vacío. McGee lo dice así: el centro del universo está en el cielo y no en ninguna capital de la tierra. Guzik señala que ese trono declara no solo la presencia de Dios sino su reinado soberano y justo, y su derecho a juzgar.",
-          "fuentes": ["larkin_02_a#1", "web_05_a#5", "mcgee_04_a#23", "mcgeer_04#20"],
+          "texto": "Y el trono está ocupado. Larkin y Guzik lo subrayan, y Guzik cita a Morgan: en el centro de todo hay un trono, y no está vacío. Declara la presencia de Dios, su reinado justo y su derecho a juzgar (Guzik). McGee: el centro del universo está en el cielo, no en una capital de la tierra. «Establecido» y «sentado» tienen matices según cada autor (ver Palabras).",
+          "fuentes": [
+            "larkin_02_a#1",
+            "web_05_a#5",
+            "mcgee_04_a#23"
+          ],
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "Dos palabras griegas dan matices distintos según el autor. «Establecido» (ékeito): para MacArthur y en su sermón, un gobierno firme, permanente e inamovible; para Carballosa, un imperfecto que se puede traducir «estaba siendo puesto», un trono que se prepara para el juicio (Sal 9:7; Dn 7:9). «Sentado» (kathḗmenos): MacArthur lo lee como la postura del que reina, porque está por imponerse la justicia (distinto del reposo de Cristo en Hebreos); Carballosa, como un juez que entra a la corte y toma su lugar porque el juicio va a empezar.",
-          "fuentes": ["macarthur_05_a#18", "web_03_b#21", "carballosa_04_b#19", "macarthur_05_a#19"],
-          "tipo": "griego_palabra"
-        },
-        {
-          "texto": "Juan no dice quién está sentado, pero MacArthur muestra que es el mismo que vieron Isaías (Is 6:1), Micaías (1 R 22:19), el salmista (Sal 47:8), Daniel, como el Anciano de días (Dn 7:9-10), y Ezequiel (Ez 1:26-28), que da la descripción más detallada fuera del Apocalipsis. MacArthur agrega que esta visión daba aliento ante los horrores que vendrían, como la de Isaías en un tiempo de crisis para Israel.",
-          "fuentes": ["macarthur_05_a#19", "macarthur_05_a#18"],
+          "texto": "Juan no nombra al que está sentado, pero MacArthur muestra que es el mismo que vieron Isaías (Is 6:1), Micaías (1 R 22:19), Daniel (Dn 7:9-10) y Ezequiel (Ez 1:26-28). Y agrega que esta visión daba aliento ante los horrores que vendrían, como la de Isaías en un tiempo de crisis para Israel.",
+          "fuentes": [
+            "macarthur_05_a#19",
+            "macarthur_05_a#18"
+          ],
           "tipo": "conexion_biblica"
         }
       ]
@@ -146,19 +185,32 @@
       "titulo": "«Semejante a piedra de jaspe y de cornalina»",
       "notas": [
         {
-          "texto": "Juan no describe una figura: describe brillo. Swete (citado por Earle) señala que la descripción evita con rigor cualquier rasgo humano; el ojo es atraído por colores como de gemas, pero no ve forma alguna. Lo mismo observan Ladd, Beasley-Murray, Mundo Hispano, Larkin y McGee; Guzik cita a Clarke: el texto describe el resplandor que rodea a Dios, no a su persona, y Carballosa cita a Hendriksen en el mismo sentido. Ladd marca el contraste con Daniel 7:9, donde el Anciano de días sí tiene rasgos humanos.",
-          "fuentes": ["beacon_03_a#11", "ladd_02_c#9", "henry_01_b#2", "cbmh_03_b#25", "larkin_02_a#1", "mcgee_04_a#24", "web_05_a#6", "carballosa_04_b#20"],
+          "texto": "Juan no describe una figura: describe brillo. Swete, citado por Earle, nota que evita todo rasgo humano: el ojo ve colores como de gemas, pero ninguna forma. Lo mismo observan Ladd, Beasley-Murray, Mundo Hispano, Larkin, McGee, Guzik (con Clarke) y Carballosa (con Hendriksen). Ladd lo contrasta con Daniel 7:9, donde el Anciano de días sí tiene rasgos humanos, y concluye que la majestad de Dios era tan inefable que solo cabía describirla con luz y gloria; Larkin lo une con «Dios es luz» (1 Jn 1:5).",
+          "fuentes": [
+            "beacon_03_a#11",
+            "ladd_02_c#9",
+            "henry_01_b#2",
+            "cbmh_03_b#25",
+            "larkin_02_a#1",
+            "mcgee_04_a#24",
+            "web_05_a#6",
+            "carballosa_04_b#20"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Las piedras no son fáciles de identificar (Earle). El jaspe más valioso era verde, según Beasley-Murray y Mundo Hispano; MacArthur, Carballosa y Guzik piensan que podría ser el diamante, porque en 21:11 es «diáfano como el cristal», y Ladd lo describe como transparente. La cornalina (sardio) es roja: MacArthur la compara con un rubí y, como la Biblia MacArthur, recuerda que su nombre se parece al de Sardis, donde abundaba. Las dos vuelven a aparecer en la nueva Jerusalén (21:11, 18-20), según el Diccionario Mundo Hispano.",
-          "fuentes": ["beacon_03_a#11", "henry_01_b#2", "cbmh_03_b#25", "macarthur_05_a#20", "carballosa_04_b#20", "web_05_a#6", "ladd_02_c#9", "mbiblia_01_b#35", "dbmh_01_b#8"],
+          "texto": "Las piedras son de identificación dudosa (Earle). El jaspe más valioso era verde (Beasley-Murray, Mundo Hispano); MacArthur, Carballosa y Guzik piensan en el diamante, porque en 21:11 es «diáfano como el cristal». La cornalina es roja, como un rubí; su nombre se parece al de Sardis, donde abundaba (Biblia MacArthur). Las dos vuelven en la nueva Jerusalén (21:11, 18-20). Qué significan los colores se discute (ver Símbolos).",
+          "fuentes": [
+            "beacon_03_a#11",
+            "henry_01_b#2",
+            "cbmh_03_b#25",
+            "macarthur_05_a#20",
+            "carballosa_04_b#20",
+            "web_05_a#6",
+            "mbiblia_01_b#35",
+            "dbmh_01_b#8"
+          ],
           "tipo": "arqueologia_geografia"
-        },
-        {
-          "texto": "Larkin une ese resplandor con «Dios es luz» (1 Jn 1:5) y con Ezequiel 1:26-28, donde también la figura queda velada por el brillo. Ladd lo resume: la majestad de Dios era tan inefable que solo podía describirse con símbolos de luz y gloria. Lo que significan los colores se discute (ver Símbolos).",
-          "fuentes": ["larkin_02_a#1", "ladd_02_c#9"],
-          "tipo": "teologia_doctrina"
         }
       ]
     },
@@ -167,18 +219,42 @@
       "titulo": "Un arco iris como de esmeralda alrededor del trono",
       "notas": [
         {
-          "texto": "El arco iris rodea el trono: no se arquea por encima, lo circunda (Mundo Hispano). Carballosa, Larkin y Wiersbe lo ven como un círculo completo, a modo de aureola; McGee recuerda que la palabra griega îris puede significar también aureola. Ladd es más prudente: puede ser un arco parcial o completo, y el texto no dice cómo rodeaba el trono. Tampoco tiene los colores del prisma: domina el verde esmeralda (Ladd, MacArthur).",
-          "fuentes": ["cbmh_03_b#25", "carballosa_04_b#20", "larkin_02_a#2", "r1_024_b#2", "mcgee_04_a#26", "ladd_02_c#10", "macarthur_05_a#22"],
+          "texto": "El arco iris rodea el trono, no se arquea por encima (Mundo Hispano). Carballosa, Larkin y Wiersbe lo ven como un círculo completo, a modo de aureola; Ladd es más prudente: el texto no dice cómo lo rodeaba. Y no tiene los colores del prisma: domina el verde (Ladd, MacArthur).",
+          "fuentes": [
+            "cbmh_03_b#25",
+            "carballosa_04_b#20",
+            "larkin_02_a#2",
+            "r1_024_b#2",
+            "ladd_02_c#10",
+            "macarthur_05_a#22"
+          ],
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "La mayoría de los autores del día ve aquí un eco del arco que Dios le dio a Noé como señal de su pacto (Gn 9:12-17): MacArthur, Carballosa, Larkin, McGee, Guzik, Wiersbe, Beasley-Murray y Mundo Hispano. Ladd lo considera posible pero no seguro, y Swete (citado por Earle) advierte que forzarlo es precario, porque la versión griega del Antiguo Testamento usa en Génesis 9:13 otra palabra (toxon).",
-          "fuentes": ["macarthur_05_a#22", "carballosa_04_b#20", "larkin_02_a#2", "mcgee_04_a#26", "web_05_a#6", "r1_024_b#2", "henry_01_b#2", "cbmh_03_b#25", "ladd_02_c#10", "beacon_03_a#11"],
+          "texto": "La mayoría ve aquí el arco que Dios dio a Noé como señal de su pacto (Gn 9:12-17): MacArthur, Carballosa, Larkin, McGee, Guzik, Wiersbe, Beasley-Murray y Mundo Hispano. Ladd lo cree posible pero no seguro, y Swete (citado por Earle) advierte que la versión griega de Génesis 9:13 usa otra palabra (toxon).",
+          "fuentes": [
+            "macarthur_05_a#22",
+            "carballosa_04_b#20",
+            "larkin_02_a#2",
+            "mcgee_04_a#26",
+            "web_05_a#6",
+            "r1_024_b#2",
+            "henry_01_b#2",
+            "cbmh_03_b#25",
+            "ladd_02_c#10",
+            "beacon_03_a#11"
+          ],
           "tipo": "dificultad_interpretaciones"
         },
         {
-          "texto": "Si es el arco del pacto, el orden importa. Carballosa y Wiersbe lo notan: en Génesis el arco aparece después del juicio; en el Apocalipsis, antes. Wiersbe completa la serie: Noé lo vio después de la tormenta, Ezequiel en medio de ella y Juan antes de que llegara. Para MacArthur, los atributos de Dios obran en perfecta armonía: su ira nunca va contra su fidelidad, ni sus juicios anulan sus promesas. McGee y Wiersbe lo resumen con Habacuc 3:2: «en la ira acuérdate de la misericordia».",
-          "fuentes": ["carballosa_04_b#20", "r1_021#10", "macarthur_05_a#22", "mcgee_04_a#26", "r1_024_b#2"],
+          "texto": "Si es el arco del pacto, el orden importa: en Génesis aparece después del juicio y aquí, antes (Carballosa). Wiersbe completa: Noé lo vio después de la tormenta, Ezequiel en medio de ella y Juan antes de que llegara. Para MacArthur, la ira de Dios nunca va contra su fidelidad, ni sus juicios anulan sus promesas. McGee y Wiersbe lo resumen con Habacuc 3:2: «en la ira acuérdate de la misericordia».",
+          "fuentes": [
+            "carballosa_04_b#20",
+            "r1_021#10",
+            "macarthur_05_a#22",
+            "mcgee_04_a#26",
+            "r1_024_b#2"
+          ],
           "tipo": "teologia_doctrina"
         }
       ]
@@ -187,45 +263,72 @@
   "simbolos": [
     {
       "signo": "puerta abierta",
-      "significado": "La puerta de la revelación, por la que Juan entra a ver (Ladd, Earle, Mundo Hispano). Ladd y Barclay (citado por Earle) la ponen junto a las otras puertas de los primeros capítulos: la de la oportunidad o del reino (3:8) y la del corazón (3:20); McGee y Wiersbe suman la de 19:11, por la que Cristo sale del cielo. Para McGee, la puerta es Cristo mismo (Jn 10:9; 14:6).",
-      "refs": ["4:1", "3:8", "3:20", "19:11"],
-      "fuentes": ["ladd_02_c#5", "beacon_03_a#10", "cbmh_03_b#23", "beacon_03_a#6", "mcgee_04_a#19", "r1_024_b#1", "mcgee_04_a#20"]
-    },
-    {
-      "signo": "trompeta",
-      "significado": "Autoridad de la voz que habla, la de Cristo (MacArthur, Carballosa); en el Antiguo Testamento convocaba, anunciaba juicio y producía reverencia (Carballosa).",
-      "refs": ["1:10", "4:1"],
-      "fuentes": ["macarthur_05_a#16", "carballosa_04_b#17"]
+      "significado": "La puerta de la revelación (Ladd, Earle, Mundo Hispano). Ladd y Barclay la ponen junto a las de 3:8 y 3:20; McGee y Wiersbe suman la de 19:11. Para McGee, la puerta es Cristo mismo (Jn 10:9).",
+      "refs": [
+        "4:1",
+        "3:8",
+        "3:20",
+        "19:11"
+      ],
+      "fuentes": [
+        "ladd_02_c#5",
+        "beacon_03_a#10",
+        "cbmh_03_b#23",
+        "beacon_03_a#6",
+        "mcgee_04_a#19",
+        "r1_024_b#1",
+        "mcgee_04_a#20"
+      ]
     },
     {
       "signo": "trono",
-      "significado": "El gobierno soberano y la autoridad absoluta de Dios (MacArthur, Mundo Hispano, McGee). Según Carballosa, aquí es un trono de juicio; para McGee, el trono de gracia que pasa a ser de juicio.",
-      "refs": ["4:2", "7:15", "Is 6:1"],
-      "fuentes": ["macarthur_05_a#18", "mbiblia_01_b#34", "cbmh_03_b#25", "mcgee_04_a#23", "carballosa_04_b#19"]
+      "significado": "El gobierno soberano y la autoridad absoluta de Dios (MacArthur, Mundo Hispano, McGee). Para Carballosa, aquí un trono de juicio; para McGee, el trono de gracia que pasa a ser de juicio.",
+      "refs": [
+        "4:2",
+        "Is 6:1"
+      ],
+      "fuentes": [
+        "macarthur_05_a#18",
+        "mbiblia_01_b#34",
+        "cbmh_03_b#25",
+        "mcgee_04_a#23",
+        "carballosa_04_b#19"
+      ]
     },
     {
-      "signo": "jaspe",
-      "significado": "Según Carballosa, Wiersbe y McGee, la pureza y la santidad de Dios; según MacArthur, la belleza de su gloria. Ladd duda de que Juan haya querido darle un sentido simbólico.",
-      "refs": ["4:3", "21:11"],
-      "fuentes": ["carballosa_04_b#20", "r1_024_b#2", "mcgee_04_a#25", "macarthur_05_a#20", "ladd_02_c#9"]
-    },
-    {
-      "signo": "cornalina (rojo)",
-      "significado": "Según Carballosa, Wiersbe, McGee y MacArthur, la justicia, la ira o el juicio de Dios; Guzik sugiere también el amor sacrificial del Calvario (y el blanco del jaspe, la gloria de la tumba vacía). Ladd ve posible la lectura de santidad, juicio y misericordia, pero sin indicios de que estuviera en la mente de Juan.",
-      "refs": ["4:3", "21:20"],
-      "fuentes": ["carballosa_04_b#20", "r1_024_b#2", "mcgee_04_a#25", "macarthur_05_a#20", "web_05_a#6", "ladd_02_c#9"]
-    },
-    {
-      "signo": "piedras del pectoral",
-      "significado": "Guzik, MacArthur, Wiersbe y McGee recuerdan que jaspe y cornalina estaban en el pectoral del sumo sacerdote (Éx 28:17-20); MacArthur y McGee las asocian con Rubén y Benjamín y, con cautela («podría», «quizá»), con Cristo. Ladd recuerda el dato pero no le ve un significado claro.",
-      "refs": ["Éx 28:17-21"],
-      "fuentes": ["web_05_a#6", "macarthur_05_a#20", "r1_024_b#2", "mcgee_04_a#25", "ladd_02_c#9"]
+      "signo": "jaspe y cornalina",
+      "significado": "Según Carballosa, Wiersbe y McGee, el jaspe habla de pureza y santidad, y la cornalina roja de justicia, ira o juicio; Guzik sugiere también la tumba vacía (blanco) y el Calvario (rojo). Las dos estaban en el pectoral del sumo sacerdote (Éx 28:17-20), y MacArthur y McGee las asocian, con cautela, con Rubén, Benjamín y Cristo. Ladd duda de que Juan les diera un sentido simbólico.",
+      "refs": [
+        "4:3",
+        "21:11",
+        "Éx 28:17-20"
+      ],
+      "fuentes": [
+        "carballosa_04_b#20",
+        "r1_024_b#2",
+        "mcgee_04_a#25",
+        "web_05_a#6",
+        "macarthur_05_a#20",
+        "ladd_02_c#9"
+      ]
     },
     {
       "signo": "arco iris esmeralda",
-      "significado": "Según la mayoría, el pacto de Dios con Noé: misericordia y fidelidad aun en el juicio (MacArthur, Carballosa, Larkin, McGee, Guzik, Wiersbe). Para Larkin, un pacto fundado en el sacrificio de Cristo; para Tozer, inmortalidad e infinitud. Ladd y Swete no lo dan por seguro.",
-      "refs": ["4:3", "10:1", "Gn 9:13"],
-      "fuentes": ["macarthur_05_a#22", "carballosa_04_b#20", "larkin_02_a#2", "mcgee_04_a#26", "web_05_a#6", "r1_024_b#2", "r2_024#13", "ladd_02_c#10", "beacon_03_a#11"]
+      "significado": "Para la mayoría, el pacto con Noé: misericordia y fidelidad aun en el juicio (MacArthur, Carballosa, Larkin, McGee, Guzik, Wiersbe). Para Larkin, un pacto fundado en el sacrificio de Cristo; para Tozer, inmortalidad e infinitud. Ladd y Swete no lo dan por seguro.",
+      "refs": [
+        "4:3",
+        "Gn 9:13"
+      ],
+      "fuentes": [
+        "macarthur_05_a#22",
+        "carballosa_04_b#20",
+        "larkin_02_a#2",
+        "mcgee_04_a#26",
+        "web_05_a#6",
+        "r2_024#13",
+        "ladd_02_c#10",
+        "beacon_03_a#11"
+      ]
     }
   ],
   "palabras": [
@@ -233,67 +336,100 @@
       "ref": "4:1",
       "griego": "μετὰ ταῦτα",
       "translit": "metà taûta",
-      "significado": "«Después de estas cosas». Aparece dos veces en 4:1; para McGee, Chafer y Guzik retoma la tercera parte del bosquejo de 1:19.",
-      "fuentes": ["mcgee_04_a#12", "mcgeer_04#16", "r1_037#13", "web_05_a#1"]
+      "significado": "«Después de estas cosas». Abre y cierra 4:1; para McGee, Chafer y Guzik retoma la tercera parte de 1:19.",
+      "fuentes": [
+        "mcgee_04_a#12",
+        "mcgeer_04#16",
+        "r1_037#13",
+        "web_05_a#1"
+      ]
     },
     {
       "ref": "4:1",
       "griego": "ἠνεῳγμένη",
       "translit": "ēneōgménē",
-      "significado": "«Abierta»: participio perfecto pasivo. Una puerta que había sido abierta y seguía abierta; Juan no la ve abrirse (Earle, Carballosa).",
-      "fuentes": ["beacon_03_a#10", "carballosa_04_b#17"]
-    },
-    {
-      "ref": "4:1",
-      "griego": "ἀνάβα",
-      "translit": "anába",
-      "significado": "«Sube»: aoristo imperativo, una orden urgente según Carballosa.",
-      "fuentes": ["carballosa_04_b#17"]
+      "significado": "«Abierta»: participio perfecto pasivo; una puerta que ya estaba abierta y seguía así (Earle, Carballosa).",
+      "fuentes": [
+        "beacon_03_a#10",
+        "carballosa_04_b#17"
+      ]
     },
     {
       "ref": "4:1",
       "griego": "δεῖ",
       "translit": "deî",
-      "significado": "«Es necesario»: en la frase «las cosas que sucederán», Carballosa lee «las cosas que necesariamente sucederán», una certeza que nada puede impedir.",
-      "fuentes": ["carballosa_04_b#18"]
+      "significado": "«Es necesario»: para Carballosa, lo que se mostrará «necesariamente» sucederá.",
+      "fuentes": [
+        "carballosa_04_b#18"
+      ]
     },
     {
       "ref": "4:2",
       "griego": "ἔκειτο",
       "translit": "ékeito",
-      "significado": "«Estaba puesto, establecido». Para MacArthur, un gobierno firme y permanente; para Carballosa (imperfecto), «estaba siendo puesto» para el juicio.",
-      "fuentes": ["macarthur_05_a#18", "web_03_b#21", "carballosa_04_b#19"]
+      "significado": "«Estaba puesto». Para MacArthur, un gobierno firme y permanente; para Carballosa, «estaba siendo puesto» para el juicio.",
+      "fuentes": [
+        "macarthur_05_a#18",
+        "web_03_b#21",
+        "carballosa_04_b#19"
+      ]
     },
     {
       "ref": "4:2",
       "griego": "καθήμενος",
       "translit": "kathḗmenos",
-      "significado": "«Sentado»: participio presente. Según Carballosa, siguiendo a Thomas, denota la actividad de reinar; MacArthur, la postura del que reina.",
-      "fuentes": ["carballosa_04_b#19", "macarthur_05_a#19"]
+      "significado": "«Sentado»: para MacArthur, la postura del que reina; para Carballosa, un juez que toma su estrado porque el juicio va a empezar.",
+      "fuentes": [
+        "carballosa_04_b#19",
+        "macarthur_05_a#19"
+      ]
     },
     {
       "ref": "4:3",
       "griego": "ἶρις",
       "translit": "îris",
-      "significado": "«Arco iris», y también «aureola» (McGee); Ladd aclara que puede ser un arco parcial o completo.",
-      "fuentes": ["mcgee_04_a#26", "ladd_02_c#10"]
+      "significado": "«Arco iris», y también «aureola» (McGee).",
+      "fuentes": [
+        "mcgee_04_a#26"
+      ]
     }
   ],
   "cristo": [
     {
-      "texto": "La voz que llama a Juan es la de Cristo. Beasley-Murray lo dice así: el mismo que reveló la verdadera condición de las iglesias, ahora corre el velo sobre lo que va a suceder. Y Carballosa ve en el «te mostraré» el cumplimiento de 1:1: el Padre dio a Cristo la tarea de revelar.",
-      "refs": ["Ap 1:1", "Ap 1:10", "Ap 1:19"],
-      "fuentes": ["henry_01_b#2", "carballosa_04_b#17"]
+      "texto": "La voz que llama a Juan es la de Cristo. Beasley-Murray: el que reveló la verdadera condición de las iglesias ahora corre el velo sobre lo que va a suceder; y Carballosa ve en «te mostraré» el cumplimiento de 1:1.",
+      "refs": [
+        "Ap 1:1",
+        "Ap 1:10",
+        "Ap 1:19"
+      ],
+      "fuentes": [
+        "henry_01_b#2",
+        "carballosa_04_b#17"
+      ]
     },
     {
-      "texto": "El trono de este capítulo es el del Padre, pero no por mucho tiempo solo: el Comentario Mundo Hispano recuerda que en el capítulo 5 será también el trono del Cordero, que amó hasta la muerte y comparte la gloria y el poder del Padre. McGee lo resume: en medio del trono hay un Cordero, que murió por los pecados del mundo y será quien juzgue. Wiersbe y McGee ven al Dios trino alrededor del trono: el Padre sentado, el Espíritu en las lámparas (4:5) y el Hijo, que llega en 5:6.",
-      "refs": ["Ap 5:6", "Ap 7:17"],
-      "fuentes": ["cbmh_03_b#22", "mcgee_04_a#15", "r1_024_b#2", "mcgeer_04#21"]
+      "texto": "El trono del capítulo 4 será, en el capítulo 5, también el del Cordero, que amó hasta la muerte y comparte la gloria del Padre (Mundo Hispano). McGee: en medio del trono hay un Cordero que murió por los pecados del mundo y será quien juzgue. Wiersbe y McGee ven al Dios trino: el Padre sentado, el Espíritu en las lámparas (4:5) y el Hijo, que llega en 5:6.",
+      "refs": [
+        "Ap 5:6",
+        "Ap 7:17"
+      ],
+      "fuentes": [
+        "cbmh_03_b#22",
+        "mcgee_04_a#15",
+        "r1_024_b#2",
+        "mcgeer_04#21"
+      ]
     },
     {
-      "texto": "Para McGee, la puerta abierta al cielo es Cristo mismo: «Yo soy la puerta» (Jn 10:9) y «Yo soy el camino» (Jn 14:6). Estaba abierta todo el tiempo, y es la misma por la que pasan los creyentes desde hace dos mil años.",
-      "refs": ["Jn 10:9", "Jn 14:6"],
-      "fuentes": ["mcgee_04_a#20", "mcgeer_04#17"]
+      "texto": "Para McGee, la puerta abierta es Cristo: «Yo soy la puerta» (Jn 10:9) y «Yo soy el camino» (Jn 14:6). Estaba abierta todo el tiempo, y por ella pasan los creyentes desde hace dos mil años.",
+      "refs": [
+        "Jn 10:9",
+        "Jn 14:6"
+      ],
+      "fuentes": [
+        "mcgee_04_a#20",
+        "mcgeer_04#17"
+      ]
     }
   ],
   "interpretaciones": [
@@ -301,133 +437,228 @@
       "tema": "¿Alude «Sube acá» al arrebatamiento de la iglesia?",
       "posturas": [
         {
-          "postura": "Sí: la subida de Juan es tipo o cuadro del arrebatamiento antes de la tribulación. La voz como de trompeta recuerda la de 1 Ts 4:16-17 y 1 Co 15:52; Juan representa a la iglesia; después del capítulo 3 la palabra «iglesia» no vuelve a aparecer en las escenas de la tierra.",
+          "postura": "Sí: la subida de Juan es tipo o cuadro del arrebatamiento antes de la tribulación. La voz como de trompeta recuerda 1 Ts 4:16-17; Juan representa a la iglesia, que después del capítulo 3 no vuelve a nombrarse en las escenas de la tierra.",
           "quien": "Larkin, McGee, Wiersbe y Chafer (premileniales dispensacionales); Guzik la expone con simpatía como la lectura de «muchos»",
-          "fuentes": ["larkin_01_b#24", "mcgee_04_a#21", "mcgeer_04#14", "r1_024_b#1", "r1_029#12", "r1_037#13", "web_05_a#3"]
+          "fuentes": [
+            "larkin_01_b#24",
+            "mcgee_04_a#21",
+            "mcgeer_04#14",
+            "r1_024_b#1",
+            "r1_029#12",
+            "r1_037#13",
+            "web_05_a#3"
+          ]
         },
         {
-          "postura": "El arrebatamiento ocurre antes de la tribulación y, por la estructura del libro, entre los capítulos 3 y 4; pero 4:1 no lo describe: es Juan, no la iglesia glorificada, subiendo a recibir revelación. Forzar ahí esa enseñanza sería alegorizar la persona de Juan.",
+          "postura": "El arrebatamiento ocurre antes de la tribulación, entre los capítulos 3 y 4, pero 4:1 no lo describe: es Juan, no la iglesia glorificada, subiendo a recibir revelación; forzarlo sería alegorizar a Juan.",
           "quien": "MacArthur (en su comentario y en la Biblia MacArthur) y Carballosa, con Walvoord (premileniales dispensacionales)",
-          "fuentes": ["macarthur_05_a#16", "mbiblia_01_b#33", "macarthur_05_a#14", "r1_030#16", "web_03_b#20", "carballosa_05_a#12", "carballosa_04_b#19"]
+          "fuentes": [
+            "macarthur_05_a#16",
+            "mbiblia_01_b#33",
+            "macarthur_05_a#14",
+            "r1_030#16",
+            "web_03_b#20",
+            "carballosa_05_a#12",
+            "carballosa_04_b#19"
+          ]
         },
         {
-          "postura": "No hay arrebatamiento en el pasaje: el lenguaje se dirige solo a Juan y a su recepción de la revelación. Un arrebatamiento antes de la tribulación, según Ladd, es una presunción sin apoyo en una exégesis explícita del Nuevo Testamento.",
+          "postura": "No hay arrebatamiento en el pasaje: el lenguaje se dirige solo a Juan. Para Ladd, un arrebatamiento antes de la tribulación es una presunción sin apoyo exegético explícito.",
           "quien": "Ladd (premilenial histórico, postribulacional); el Comentario Mundo Hispano (amilenial/idealista), que lo lee como el ascenso de Juan a la esfera celestial",
-          "fuentes": ["ladd_02_c#8", "cbmh_03_b#24"]
+          "fuentes": [
+            "ladd_02_c#8",
+            "cbmh_03_b#24"
+          ]
         }
       ],
-      "nota": "Los dos primeros grupos comparten la cronología (la iglesia es arrebatada antes de la tribulación) y difieren en si este versículo lo enseña. Benware sugiere que la «voz de mando» de 1 Ts 4:16 podría ser una orden como «Sube acá», pero lo presenta como posibilidad. Ladd responde al argumento de la ausencia de la palabra «iglesia» y a la identificación de los veinticuatro ancianos con la iglesia: para él no se apoyan en el texto. El anexo T7 desarrolla las posturas."
+      "nota": "Los dos primeros grupos comparten la cronología y difieren en si este versículo la enseña. Ladd discute también el argumento de la palabra «iglesia» ausente y el de los veinticuatro ancianos (ver Profundizar y el anexo T7)."
     },
     {
       "tema": "¿A qué tiempo se refieren «las cosas que sucederán después de estas»?",
       "posturas": [
         {
-          "postura": "A acontecimientos futuros, posteriores a la era de la iglesia: la tribulación, la venida de Cristo, el reino de mil años y el estado eterno (capítulos 4 a 22).",
+          "postura": "A sucesos futuros, posteriores a la era de la iglesia: la tribulación, la venida de Cristo, el reino de mil años y el estado eterno.",
           "quien": "MacArthur, McGee, Carballosa, Chafer, Guzik y Larkin (premileniales dispensacionales, futuristas); Larkin y Chafer ubican ahí la semana setenta de Daniel",
-          "fuentes": ["macarthur_05_a#13", "mcgee_04_a#12", "carballosa_04_b#18", "r1_037#13", "web_05_a#3", "larkin_01_b#23", "r1_029#12"]
+          "fuentes": [
+            "macarthur_05_a#13",
+            "mcgee_04_a#12",
+            "carballosa_04_b#18",
+            "r1_037#13",
+            "web_05_a#3",
+            "larkin_01_b#23",
+            "r1_029#12"
+          ]
         },
         {
-          "postura": "A la acción soberana de Dios sobre su creación, que el libro muestra en una nueva visión (4:1-16:21) presidida por el trono; Juan ve cosas futuras que nadie más conocería.",
+          "postura": "A la acción soberana de Dios sobre su creación, en una nueva visión (4:1-16:21) presidida por el trono.",
           "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
-          "fuentes": ["cbmh_03_b#22", "cbmh_03_b#24"]
+          "fuentes": [
+            "cbmh_03_b#22",
+            "cbmh_03_b#24"
+          ]
         },
         {
-          "postura": "A sucesos ya cumplidos: para los preteristas, antes de Juan o en su tiempo (la invasión romana y la destrucción de Jerusalén); para los historicistas, entre Juan y hoy.",
-          "quien": "Lecturas que Guzik expone para refutarlas (cita a Poole, que objeta que la destrucción de Jerusalén ya había ocurrido si el libro se escribió bajo Domiciano)",
-          "fuentes": ["web_05_a#3"]
+          "postura": "A sucesos ya cumplidos: en tiempos de Juan, como la destrucción de Jerusalén (preteristas), o entre Juan y hoy (historicistas).",
+          "quien": "Lecturas que Guzik expone para refutarlas",
+          "fuentes": [
+            "web_05_a#3"
+          ]
         }
       ],
-      "nota": "Guzik responde que esos hechos solo pueden darse por cumplidos si se los toma como simbólicos. Todos los autores del día coinciden en que lo que Juan va a ver procede del trono y está en manos de Dios. Ver el anexo I4 y el diagrama de las escuelas."
+      "nota": "Guzik responde que solo pueden darse por cumplidos si se los toma como simbólicos. Todos coinciden en que lo que Juan verá procede del trono."
     }
   ],
   "biblioteca": [
     {
-      "texto": "Tozer comenta 4:1-3: un arco iris común es medio círculo, pero el que rodea el trono es un círculo perfecto; para él el arco esmeralda habla de inmortalidad e infinitud, y muestra que nadie puede destruir a Dios.",
+      "texto": "Tozer: un arco iris común es medio círculo, pero el que rodea el trono es un círculo perfecto; muestra que nadie puede destruir a Dios.",
       "autor": "A. W. Tozer",
       "obra": "Los atributos de Dios, vol. 2",
       "pagina": "pág. PDF 113, 206",
       "tipo": "doctrina"
     },
     {
-      "texto": "Coxe ve en el arco iris de 4:3 el símbolo del pacto con Noé convertido en emblema de la firmeza y del recuerdo eterno del pacto de gracia: la soberanía de la bondad de Dios y lo absoluto de su promesa, como estímulo a la fe (Is 54:9).",
+      "texto": "Coxe ve en el arco de 4:3 el pacto con Noé convertido en emblema de la firmeza eterna del pacto de gracia, estímulo a la fe (Is 54:9).",
       "autor": "Nehemiah Coxe",
       "obra": "Discurso de los pactos",
       "pagina": "pág. PDF 74",
       "tipo": "doctrina"
     },
     {
-      "texto": "Lacueva advierte que «sentado en el trono» es un antropomorfismo, porque Dios es Espíritu (Jn 4:24): Juan no vio la realidad celeste tal cual sino una representación.",
+      "texto": "Lacueva recuerda que «sentado en el trono» es un antropomorfismo, porque Dios es Espíritu (Jn 4:24): Juan vio una representación.",
       "autor": "Francisco Lacueva",
       "obra": "El hombre: su grandeza y su miseria",
       "pagina": "pág. PDF 50",
       "tipo": "doctrina"
-    },
-    {
-      "texto": "Ryrie usa 4:2 para explicar que la omnipresencia de Dios no significa que su presencia sea igual en todas partes: no es lo mismo su presencia sobre el trono, en el templo o en el creyente, que en el lago de fuego, donde no hay comunión con él (2 Ts 1:9; Ap 14:10).",
-      "autor": "Charles C. Ryrie",
-      "obra": "Teología básica",
-      "pagina": "pág. PDF 17-18",
-      "tipo": "doctrina"
-    },
-    {
-      "texto": "Wiersbe ve en los colores del arco iris la «multiforme gracia de Dios» y un puente entre el cielo y la tierra, como el que Cristo tendió entre Dios y los hombres.",
-      "autor": "Warren W. Wiersbe",
-      "obra": "Bosquejos expositivos de la Biblia",
-      "pagina": "pág. PDF 10",
-      "tipo": "ilustracion"
     }
   ],
   "conexiones": [
-    {"ref": "Ez 1:26-28", "nota": "Un trono, alguien sentado velado por el resplandor y un arco iris alrededor: la visión más parecida a esta fuera del Apocalipsis (Larkin, MacArthur).", "fuentes": ["larkin_02_a#1", "macarthur_05_a#19"]},
-    {"ref": "Is 6:1-8", "nota": "Isaías ve al Señor sentado en un trono alto en un tiempo de crisis; MacArthur y Guzik lo ponen junto a esta escena.", "fuentes": ["macarthur_05_a#18", "web_05_a#1"]},
-    {"ref": "Dn 7:9-10", "nota": "El Anciano de días en su trono; Ladd nota que Juan, a diferencia de Daniel, evita todo rasgo humano.", "fuentes": ["macarthur_05_a#19", "ladd_02_c#9"]},
-    {"ref": "1 R 22:19", "nota": "Micaías ve a Jehová sentado en su trono, con el ejército del cielo alrededor (MacArthur).", "fuentes": ["macarthur_05_a#19"]},
-    {"ref": "Gn 9:12-17", "nota": "El arco iris como señal del pacto con Noé, que la mayoría ve evocado alrededor del trono.", "fuentes": ["macarthur_05_a#22", "mbiblia_01_b#35", "cbmh_03_b#25"]},
-    {"ref": "Hab 3:2", "nota": "«En la ira acuérdate de la misericordia»: McGee y Wiersbe resumen con él el sentido del arco.", "fuentes": ["mcgee_04_a#26", "r1_024_b#2"]},
-    {"ref": "2 Co 12:1-4", "nota": "Pablo arrebatado al tercer cielo sin saber si en el cuerpo o fuera de él (Guzik, MacArthur, Larkin).", "fuentes": ["web_05_a#4", "macarthur_05_a#15", "larkin_01_b#24"]},
-    {"ref": "Éx 28:17-21", "nota": "Las piedras del pectoral del sumo sacerdote, entre ellas jaspe y cornalina.", "fuentes": ["r1_024_b#2", "macarthur_05_a#20"]}
+    {
+      "ref": "Ez 1:26-28",
+      "nota": "Trono, alguien sentado velado por el resplandor y un arco iris: la visión más parecida fuera del Apocalipsis.",
+      "fuentes": [
+        "larkin_02_a#1",
+        "macarthur_05_a#19"
+      ]
+    },
+    {
+      "ref": "Is 6:1-8",
+      "nota": "Isaías ve al Señor en su trono en un tiempo de crisis.",
+      "fuentes": [
+        "macarthur_05_a#18",
+        "web_05_a#1"
+      ]
+    },
+    {
+      "ref": "Dn 7:9-10",
+      "nota": "El Anciano de días en su trono; Juan, a diferencia de Daniel, evita todo rasgo humano (Ladd).",
+      "fuentes": [
+        "macarthur_05_a#19",
+        "ladd_02_c#9"
+      ]
+    },
+    {
+      "ref": "Gn 9:12-17",
+      "nota": "El arco iris, señal del pacto con Noé.",
+      "fuentes": [
+        "macarthur_05_a#22",
+        "mbiblia_01_b#35"
+      ]
+    },
+    {
+      "ref": "2 Co 12:1-4",
+      "nota": "Pablo arrebatado al tercer cielo, sin saber si en el cuerpo o fuera de él.",
+      "fuentes": [
+        "web_05_a#4",
+        "macarthur_05_a#15"
+      ]
+    }
   ],
   "para_vivir": [
     {
-      "texto": "Guzik observa que nadie vive sin un trono: el que saca a Dios de él pone a otro en su lugar, a sí mismo o a otro hombre. Antes de cualquier noticia inquietante, el libro les muestra que el trono del universo está ocupado. Pregúntense juntos quién se sienta, en la práctica, en el trono de sus decisiones, sus miedos y sus planes.",
-      "fuentes": ["web_05_a#5"]
+      "texto": "Guzik observa que nadie vive sin un trono: el que saca a Dios pone a otro en su lugar, a sí mismo o a otro hombre. Pregúntense juntos quién se sienta, en la práctica, en el trono de sus decisiones, sus miedos y sus planes.",
+      "fuentes": [
+        "web_05_a#5"
+      ]
     },
     {
-      "texto": "MacArthur recuerda que esta visión le dio a Juan aliento antes de ver los juicios, como el trono que vio Isaías en un tiempo de crisis. Él lo dice así: no gobiernan el universo las fuerzas caprichosas de la casualidad. Cuando atraviesen algo difícil, empiecen por levantar la mirada a ese trono antes de buscar explicaciones.",
-      "fuentes": ["macarthur_05_a#18", "macarthur_05_a#19"]
+      "texto": "La visión le dio a Juan aliento antes de ver los juicios (MacArthur): no gobierna la casualidad. Cuando atraviesen algo difícil, levanten primero la mirada a ese trono.",
+      "fuentes": [
+        "macarthur_05_a#18",
+        "macarthur_05_a#19"
+      ]
     },
     {
-      "texto": "El arco iris rodea un trono de juicio. Guzik, citando a Spurgeon, lo aplica así: como soberano, Dios podría dejarnos, pero se comprometió a no hacerlo; se limita a sí mismo por sus promesas. La santidad de Dios no anula su fidelidad: sin ella, dice MacArthur, su poder y su santidad nos harían vivir con terror.",
-      "fuentes": ["web_05_a#6", "macarthur_05_a#22"]
+      "texto": "El arco iris rodea un trono de juicio. Guzik, citando a Spurgeon: como soberano, Dios podría dejarnos, pero prometió no hacerlo; se limita a sí mismo por sus promesas.",
+      "fuentes": [
+        "web_05_a#6"
+      ]
     },
     {
-      "texto": "Para McGee, «Sube acá» es también la invitación del cielo a todos los que conocen a Cristo a tener comunión con Dios (1 Jn 1:3). La puerta está abierta; vivan como quienes tienen acceso a ella.",
-      "fuentes": ["mcgee_04_a#21", "mcgeer_04#18"]
+      "texto": "Para McGee, «Sube acá» es también la invitación del cielo a tener comunión con Dios (1 Jn 1:3). La puerta está abierta: vivan como quienes tienen acceso.",
+      "fuentes": [
+        "mcgee_04_a#21",
+        "mcgeer_04#18"
+      ]
     }
   ],
   "para_conversar": [
-    "Juan, desterrado en una isla, lo primero que ve en el cielo es un trono ocupado. ¿Qué cambia en la manera de mirar sus propias circunstancias saber que ese trono no está vacío?",
-    "¿Por qué les parece que Juan describe a Dios solo con luz y colores, sin ningún rasgo humano? ¿Qué enseña eso sobre cómo hablar de Dios?",
-    "Repasen las lecturas de «Sube acá»: ¿qué argumentos les parecen más sólidos y cuáles dependen más del sistema que del texto? ¿Qué afirman todos sin discusión?"
+    "Juan, desterrado, lo primero que ve en el cielo es un trono ocupado. ¿Qué cambia en cómo miran sus propias circunstancias saber que ese trono no está vacío?",
+    "¿Por qué Juan describe a Dios solo con luz y colores? ¿Qué les enseña eso sobre cómo hablar de Dios?",
+    "Repasen las lecturas de «Sube acá»: ¿qué argumentos salen del texto y cuáles del sistema? ¿Qué afirman todos?"
   ],
-  "para_orar": "Señor, Dios santo, gracias porque en el centro de todo hay un trono y lo ocupás vos. Gracias porque tu voz nos sigue llamando y porque en Cristo la puerta está abierta. Cuando el mundo tiemble, ayudanos a mirar primero tu trono y a descansar en el arco de tu fidelidad: en la ira, acordate de la misericordia, y danos un corazón que te adore.",
-  "visuales": ["dg-estructura", "dg-tribulacion", "dg-escuelas"],
-  "anexos": ["P3", "T7", "I4", "T4"],
+  "para_orar": "Señor, gracias porque en el centro de todo hay un trono y lo ocupás vos, y porque en Cristo la puerta está abierta. Cuando el mundo tiemble, ayudanos a mirar primero tu trono y a descansar en tu fidelidad: en la ira, acordate de la misericordia.",
+  "visuales": [
+    "dg-estructura",
+    "dg-tribulacion",
+    "dg-escuelas"
+  ],
+  "anexos": [
+    "P3",
+    "T7",
+    "I4",
+    "T4"
+  ],
   "profundizar": [
     {
       "titulo": "Las cinco evidencias de McGee",
       "texto": "McGee ofrece cinco razones para sostener que la iglesia ya está en el cielo desde el capítulo 4: 1) la palabra «iglesia» aparece al menos 19 veces en los capítulos 1 a 3 y desaparece luego, salvo la invitación general de 22:16; 2) la escena pasa al cielo, adonde la iglesia llegó por el arrebatamiento (1 Ts 4:17; 1 Co 15:51-52); 3) «iglesia» (ekklesía, de ek-kaleo, «llamar fuera») describe al pueblo mientras está en el mundo, y en el cielo se la describe como los veinticuatro ancianos y la esposa, mientras la organización apóstata sigue en la tierra y se llama la Gran Ramera; 4) los juicios del capítulo 6 en adelante no armonizan con la promesa de librar a la iglesia del juicio (3:10); 5) no ver el cambio es ignorar la división natural de 1:19. Ladd discute los argumentos de la palabra ausente y de los ancianos (ver Interpretaciones).",
-      "fuentes": ["mcgee_04_a#13", "mcgee_04_a#14", "mcgee_04_a#15", "mcgeer_04#15", "ladd_02_c#8"]
+      "fuentes": [
+        "mcgee_04_a#13",
+        "mcgee_04_a#14",
+        "mcgee_04_a#15",
+        "mcgeer_04#15",
+        "ladd_02_c#8"
+      ]
     },
     {
       "titulo": "Larkin: Juan, la Transfiguración y el regreso de Israel al centro",
       "texto": "Larkin compara la subida de Juan con la Transfiguración: Moisés representaría a los santos resucitados y Elías a los trasladados; y la palabra de Jesús sobre Juan («si quiero que él quede hasta que yo venga», Jn 21:22) se cumpliría en que Juan vio en visión el regreso del Señor. Sostiene además que, desde el capítulo 4 hasta el 19, predominan símbolos del Antiguo Testamento (tabernáculo, arca, altar, querubines, trompetas), señal para él de que Dios retoma su trato con Israel en la semana setenta de Daniel. Chafer, por su parte, sostiene que mientras en la tierra transcurre esa semana, la iglesia celebra en el cielo las bodas del Cordero (19:7-10).",
-      "fuentes": ["larkin_01_b#24", "larkin_01_b#23", "r1_029#12"]
+      "fuentes": [
+        "larkin_01_b#24",
+        "larkin_01_b#23",
+        "r1_029#12"
+      ]
     },
     {
       "titulo": "¿Trono que se prepara o trono eterno?",
       "texto": "Carballosa lee «establecido» como un trono que se coloca para el juicio y «sentado» como un juez que toma su estrado; según él, el trono de la gracia se transforma en trono de juicio, en correspondencia con la semana setenta de Daniel y con el Dios del cielo que manifestará su soberanía en la tierra (Dn 2:44). McGee saca de ahí otro argumento para el arrebatamiento previo: si la iglesia siguiera en la tierra, Cristo habría dejado la intercesión para bajar al juicio. MacArthur, en cambio, subraya que el trono es firme y permanente, un trono eterno; y en su comentario advierte que la visión no es de paz y consuelo sino que revela los terrores del juicio, porque «nuestro Dios es fuego consumidor» (He 12:29).",
-      "fuentes": ["carballosa_04_b#19", "mcgee_04_a#23", "mcgeer_04#20", "macarthur_05_a#18", "web_03_b#21", "macarthur_05_a#21"]
+      "fuentes": [
+        "carballosa_04_b#19",
+        "mcgee_04_a#23",
+        "mcgeer_04#20",
+        "macarthur_05_a#18",
+        "web_03_b#21",
+        "macarthur_05_a#21"
+      ]
+    },
+    {
+      "titulo": "Más de la biblioteca",
+      "texto": "Ryrie usa 4:2 para explicar que la omnipresencia de Dios no hace igual su presencia en todas partes: no es lo mismo sobre el trono que en el lago de fuego, donde no hay comunión (2 Ts 1:9; Ap 14:10). Wiersbe ve en los colores del arco la «multiforme gracia de Dios» y un puente entre cielo y tierra, como el que Cristo tendió. MacArthur agrega que, sin la fidelidad de Dios, su poder y su santidad nos harían vivir con terror.",
+      "fuentes": [
+        "r2_033#7",
+        "r2_016#21",
+        "macarthur_05_a#22"
+      ]
     }
   ]
 }

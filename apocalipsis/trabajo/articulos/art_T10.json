@@ -4,15 +4,38 @@
   "bajada": "Quién es la mujer sentada sobre la bestia: Roma, Jerusalén, una Babilonia reedificada, un sistema religioso o el mundo sin Dios; y qué hacer con los siete montes y los diez reyes.",
   "entrada": {
     "texto": "La caída de Babilonia se anuncia dos veces antes de contarse (14:8; 16:19), y recién en los capítulos 17 y 18 se ve en detalle: primero el lado negativo de la victoria, el derrumbe de una civilización rebelde, y después la venida de Cristo y la ciudad nueva. El ángel promete mostrarle a Juan la sentencia contra la gran ramera, y la pregunta salta enseguida: ¿quién es? Los comentaristas protestantes responden de maneras muy distintas. Este artículo ordena las respuestas, dice quién sostiene cada una y marca lo que todos comparten.",
-    "fuentes": ["ladd_06_a#25", "web_04_c#1", "cbmh_07#10", "macarthur_14_b#19"]
+    "fuentes": [
+      "ladd_06_a#25",
+      "web_04_c#1",
+      "cbmh_07#10",
+      "macarthur_14_b#19"
+    ]
   },
   "versiculos": [
-    {"ref": "17:5", "porque": "El nombre escrito en la frente de la mujer: un misterio que el ángel va a explicar."},
-    {"ref": "17:9-10", "porque": "La clave más discutida: siete montes que son también siete reyes."},
-    {"ref": "17:12", "porque": "Los diez cuernos son diez reyes que todavía no reinan y reinarán poco."},
-    {"ref": "17:18", "porque": "El ángel identifica a la mujer con una ciudad que reina sobre los reyes."},
-    {"ref": "18:2", "porque": "El pregón de la caída, con palabras tomadas de los profetas."},
-    {"ref": "18:4", "porque": "Lo que se le pide al pueblo de Dios frente a Babilonia, sea cual sea su identidad."}
+    {
+      "ref": "17:5",
+      "porque": "El nombre escrito en la frente de la mujer: un misterio que el ángel va a explicar."
+    },
+    {
+      "ref": "17:9-10",
+      "porque": "La clave más discutida: siete montes que son también siete reyes."
+    },
+    {
+      "ref": "17:12",
+      "porque": "Los diez cuernos son diez reyes que todavía no reinan y reinarán poco."
+    },
+    {
+      "ref": "17:18",
+      "porque": "El ángel identifica a la mujer con una ciudad que reina sobre los reyes."
+    },
+    {
+      "ref": "18:2",
+      "porque": "El pregón de la caída, con palabras tomadas de los profetas."
+    },
+    {
+      "ref": "18:4",
+      "porque": "Lo que se le pide al pueblo de Dios frente a Babilonia, sea cual sea su identidad."
+    }
   ],
   "apartados": [
     {
@@ -20,11 +43,20 @@
       "parrafos": [
         {
           "texto": "Babilonia no es un nombre neutro. La Biblia empieza a contarla con Nimrod y con Babel, el intento humano de unidad política y religiosa contra Dios (Gn 10:10; 11), y la sigue en el imperio que destruyó Jerusalén y llevó a Judá al exilio. Para los judíos llegó a ser la esencia de la maldad: idolatría organizada, soberbia y persecución. Según Guzik se la nombra 287 veces en la Escritura, más que a cualquier ciudad salvo Jerusalén. MacArthur la ve como la fuente de los sistemas de religión falsa; Wiersbe, como el sistema de Satanás en este mundo.",
-          "fuentes": ["web_04_c#1", "r1_022#3", "r2_007#27", "carballosa_14_b#7"]
+          "fuentes": [
+            "web_04_c#1",
+            "r1_022#3",
+            "r2_007#27",
+            "carballosa_14_b#7"
+          ]
         },
         {
           "texto": "Juan describe su caída con el lenguaje de Jeremías 50 y 51: la copa de oro, la que mora entre muchas aguas, el vino que embriagó a los pueblos, la destrucción súbita por fuego, la salida del pueblo de Dios y la piedra arrojada al agua. El Comentario Mundo Hispano agrega los oráculos contra Nínive y Tiro. Todos reconocen ese trasfondo; la discusión es qué ciudad lo cumple.",
-          "fuentes": ["carballosa_14_b#10", "macarthur_14_b#19", "cbmh_07#10"]
+          "fuentes": [
+            "carballosa_14_b#10",
+            "macarthur_14_b#19",
+            "cbmh_07#10"
+          ]
         }
       ]
     },
@@ -32,12 +64,27 @@
       "titulo": "Roma: la Babilonia que conocían los primeros lectores",
       "parrafos": [
         {
-          "texto": "Muchos autores sostienen que, para las iglesias de Asia, Babilonia era Roma. Pedro parece usar ese nombre en clave para Roma (1 P 5:13), y los apocalipsis judíos de la época hacían lo mismo, según Ladd. Roma se levantaba sobre siete colinas famosas, y el ángel habla de siete montes donde se sienta la mujer. McGee cita a poetas romanos que celebraban esas colinas y a Agustín, que unió las dos ciudades. Beasley-Murray dice que Roma era sin duda la ciudad ramera; Stott, Piper, Buswell y el Comentario Mundo Hispano también la ven ahí. Era la ciudad que en tiempos de Juan reinaba sobre los reyes y perseguía a los santos.",
-          "fuentes": ["cbmh_06_b#3", "ladd_05_b#14", "mcgee_09_b#16", "henry_02_b#8", "r1_030#32", "r2_021#1", "r1_010#19"]
+          "texto": "Muchos autores sostienen que, para las iglesias de Asia, Babilonia era Roma. Pedro parece usar ese nombre en clave para Roma (1 P 5:13), y los apocalipsis judeocristianos de la época hacían lo mismo, según Ladd. Roma se levantaba sobre siete colinas famosas, y el ángel habla de siete montes donde se sienta la mujer. McGee cita a poetas romanos que celebraban esas colinas y a Agustín, que unió las dos ciudades. Beasley-Murray dice que Roma era sin duda la ciudad ramera; Stott, Piper, Buswell y el Comentario Mundo Hispano también la ven ahí. Era la ciudad que en tiempos de Juan reinaba sobre los reyes y perseguía a los santos.",
+          "fuentes": [
+            "cbmh_06_b#3",
+            "ladd_05_b#14",
+            "mcgee_09_b#16",
+            "henry_02_b#8",
+            "r1_030#32",
+            "r2_021#1",
+            "r1_010#19"
+          ]
         },
         {
           "texto": "Pero Roma no fue destruida como describe el capítulo 18. Beasley-Murray responde que Juan, como los profetas antes que él, vio cerca el fin, y que Roma fue la primera encarnación de un retrato que culminará en el anticristo final. Los reformadores, en la lectura historicista, la identificaron con la Roma papal; Scofield, citado por Chafer y Pentecost, ve en la ramera al cristianismo apóstata bajo el papado. Otros piden cuidado: Guzik advierte que asociarla con Roma no hace a la Iglesia Católica idéntica a Babilonia, y Carballosa observa que el título de madre de las rameras queda reservado a Babilonia.",
-          "fuentes": ["henry_02_b#8", "henry_01_a#3", "r1_037#6", "r1_018#24", "web_04_c#16", "carballosa_13_b#1"]
+          "fuentes": [
+            "henry_02_b#8",
+            "henry_01_a#3",
+            "r1_037#6",
+            "r1_018#24",
+            "web_04_c#16",
+            "carballosa_13_b#1"
+          ]
         }
       ]
     },
@@ -46,11 +93,24 @@
       "parrafos": [
         {
           "texto": "Una parte del futurismo dispensacional espera una ciudad literal. MacArthur nota que el capítulo 18 la llama ciudad cinco veces y que las profecías de desolación perpetua (Is 13:19-22; Jer 50-51) todavía no se cumplieron del todo: prevé una Babilonia reconstruida junto al Éufrates, capital del anticristo. Carballosa, siguiendo a Dyer, dice que hay una sola Babilonia, literal, de los postreros días, y descarta a Roma porque, según él, nunca fue una gran ciudad comercial. McGee cuenta que por años creyó que no sería reedificada y cambió de opinión; la ubica cerca del sitio antiguo, porque el Éufrates habría corrido su cauce.",
-          "fuentes": ["macarthur_15_a#12", "macarthur_14_b#19", "carballosa_13_b#30", "carballosa_14_b#12", "mcgee_10_a#10"]
+          "fuentes": [
+            "macarthur_15_a#12",
+            "macarthur_14_b#19",
+            "carballosa_13_b#30",
+            "carballosa_14_b#12",
+            "mcgee_10_a#10"
+          ]
         },
         {
           "texto": "El mismo texto de Isaías se usa para lo contrario: Scofield, citado por Chafer y Pentecost, sostiene que esas profecías impiden reedificar Babilonia, y por eso mira a Roma. Jerusalén también aparece en la discusión: Sproul se pregunta si la ciudad es Roma o Jerusalén sin cerrar la cuestión, y McGee pone en Jerusalén el centro religioso del fin. Carballosa y MacArthur ven a Jerusalén en la gran ciudad de 16:19, pero justamente la distinguen de Babilonia.",
-          "fuentes": ["r1_037#6", "r1_018#24", "web_14#4", "mcgee_10_b#2", "carballosa_12_b#29", "macarthur_14_a#32"]
+          "fuentes": [
+            "r1_037#6",
+            "r1_018#24",
+            "web_14#4",
+            "mcgee_10_b#2",
+            "carballosa_12_b#29",
+            "macarthur_14_a#32"
+          ]
         }
       ]
     },
@@ -59,11 +119,24 @@
       "parrafos": [
         {
           "texto": "Otros leen a Babilonia como el sistema del mundo organizado contra Dios. El Comentario Mundo Hispano la ve como la madre: Babilonia, Roma o Jerusalén serían sus hijas, y donde aparecen lujo, jactancia, idolatría, opresión y violencia contra el pueblo de Dios, allí está Babilonia. Hendriksen la entiende como el mundo seductor de cualquier época; Carballosa rechaza esa lectura por alegórica. Guzik, con Barnhouse, prefiere ver simbólica también la Babilonia comercial. Ladd combina: tuvo su manifestación en la Roma del siglo I, pero su sentido pleno es escatológico.",
-          "fuentes": ["cbmh_06_b#25", "cbmh_07#8", "carballosa_13_b#28", "web_11_b#3", "ladd_06_a#27", "cpe_07#8"]
+          "fuentes": [
+            "cbmh_06_b#25",
+            "cbmh_07#8",
+            "carballosa_13_b#28",
+            "web_11_b#3",
+            "ladd_06_a#27",
+            "cpe_07#8"
+          ]
         },
         {
           "texto": "Hay acuerdos de fondo. El texto mismo explica que las aguas son «pueblos, muchedumbres, naciones y lenguas»: su influencia es mundial. Ella seduce, se enriquece, persigue a los santos y cae de golpe. Y es la contracara de la novia: dos mujeres y dos ciudades, la ramera y la esposa del Cordero, Babilonia y la nueva Jerusalén.",
-          "fuentes": ["r1_003#5", "cbmh_07#7", "cpe_07#7", "cpe_07#9", "r1_018#21"]
+          "fuentes": [
+            "r1_003#5",
+            "cbmh_07#7",
+            "cpe_07#7",
+            "cpe_07#9",
+            "r1_018#21"
+          ]
         }
       ]
     },
@@ -72,7 +145,15 @@
       "parrafos": [
         {
           "texto": "Scofield, Pentecost, McGee y Larkin distinguen una Babilonia religiosa (capítulo 17), destruida por la bestia y los diez reyes a mitad de la tribulación, y otra comercial y política (capítulo 18), destruida por Dios al final; Guzik las ve entrelazadas pero distintas. Ryrie y Chafer identifican a la ramera con una religión ecuménica apóstata. Carballosa responde con una tabla: el mismo nombre, el mismo atavío de púrpura, oro y perlas, la misma copa, la misma sangre de los santos y el mismo fuego; para él, es una sola ciudad vista desde dos ángulos.",
-          "fuentes": ["r1_018#24", "mcgee_09_b#12", "larkin_05_a#20", "web_11_b#1", "r1_032#1", "r1_038#7", "carballosa_14_b#11"]
+          "fuentes": [
+            "r1_018#24",
+            "mcgee_09_b#12",
+            "larkin_05_a#20",
+            "web_11_b#1",
+            "r1_032#1",
+            "r1_038#7",
+            "carballosa_14_b#11"
+          ]
         }
       ]
     },
@@ -81,11 +162,24 @@
       "parrafos": [
         {
           "texto": "El ángel pide discernimiento: «para la mente que tenga sabiduría». Los montes son también reyes, «Cinco de ellos han caído; uno es», y la bestia es un octavo que pertenece a los siete. Ladd recuerda que en la Biblia el monte suele simbolizar un poder o un reino. Nadie logró una lista de emperadores que encaje sin forzar: Sproul, contando desde Julio César, llega a Nerón; Ladd y el Comentario Mundo Hispano muestran que toda lista tropieza. Por eso varios leen siete imperios o la plenitud del poder del mal.",
-          "fuentes": ["ladd_06_b#1", "ladd_06_b#2", "web_13#22", "cbmh_06_b#29", "beacon_04_b#27", "mbiblia_02_d#5"]
+          "fuentes": [
+            "ladd_06_b#1",
+            "ladd_06_b#2",
+            "web_13#22",
+            "cbmh_06_b#29",
+            "beacon_04_b#27",
+            "mbiblia_02_d#5"
+          ]
         },
         {
           "texto": "Los diez cuernos son diez reyes que «aún no han recibido reino» y reinan «por una hora» con la bestia, como en Daniel 7:7 y 24. Sea cual sea su identidad, el texto dice lo esencial: «Pelearán contra el Cordero, y el Cordero los vencerá», y terminan destruyendo a la ramera porque «Dios ha puesto en sus corazones el ejecutar lo que él quiso». El mal se devora a sí mismo, y nada se le escapa a Dios.",
-          "fuentes": ["ladd_06_b#5", "carballosa_13_b#15", "r2_021#1", "ladd_06_b#7", "cbmh_07#7"]
+          "fuentes": [
+            "ladd_06_b#5",
+            "carballosa_13_b#15",
+            "r2_021#1",
+            "ladd_06_b#7",
+            "cbmh_07#7"
+          ]
         }
       ]
     }
@@ -94,57 +188,330 @@
     {
       "tema": "¿Quién es Babilonia la grande?",
       "posturas": [
-        {"postura": "Roma imperial, la ciudad que dominaba al pueblo de Dios en tiempos de Juan, con aplicación posterior.", "quien": "Beasley-Murray (premilenial histórico); Stott; Piper; Buswell", "fuentes": ["henry_02_b#8", "r1_030#32", "r2_021#1", "r1_010#19"]},
-        {"postura": "La Roma papal o la cristiandad apóstata, con Roma como centro.", "quien": "Reformadores (historicistas); Scofield, citado por Chafer y Pentecost (premilenial dispensacional); Lockyer; Kœchlin", "fuentes": ["henry_01_a#3", "r1_037#6", "r2_014#14", "r1_026#31"]},
-        {"postura": "Babilonia literal reedificada junto al Éufrates, capital del anticristo.", "quien": "MacArthur; Carballosa; McGee (premilenial dispensacional)", "fuentes": ["macarthur_14_b#19", "carballosa_13_b#30", "mcgee_10_a#10"]},
-        {"postura": "Jerusalén, como pregunta abierta.", "quien": "Sproul (preterista moderado), sin conclusión", "fuentes": ["web_14#4"]},
-        {"postura": "El sistema del mundo opuesto a Dios, con manifestaciones en cada época.", "quien": "Comentario Mundo Hispano (amilenial/idealista); Hendriksen (amilenial); Guzik; Ladd, que lo une a una ciudad final", "fuentes": ["cbmh_07#8", "carballosa_13_b#28", "web_04_c#16", "ladd_06_a#27"]}
+        {
+          "postura": "Roma imperial, la ciudad que dominaba al pueblo de Dios en tiempos de Juan, con aplicación posterior.",
+          "quien": "Beasley-Murray (premilenial histórico); Stott; Piper; Buswell",
+          "fuentes": [
+            "henry_02_b#8",
+            "r1_030#32",
+            "r2_021#1",
+            "r1_010#19"
+          ]
+        },
+        {
+          "postura": "La cristiandad apóstata; para varios, con la Roma papal como centro.",
+          "quien": "Reformadores (historicistas); Scofield, citado por Chafer y Pentecost (premilenial dispensacional); Lockyer; Kœchlin",
+          "fuentes": [
+            "henry_01_a#3",
+            "r1_037#6",
+            "r2_014#14",
+            "r1_026#31"
+          ]
+        },
+        {
+          "postura": "Babilonia literal reedificada junto al Éufrates, capital del anticristo.",
+          "quien": "MacArthur; Carballosa; McGee (premilenial dispensacional)",
+          "fuentes": [
+            "macarthur_14_b#19",
+            "carballosa_13_b#30",
+            "mcgee_10_a#10"
+          ]
+        },
+        {
+          "postura": "Jerusalén, como pregunta abierta.",
+          "quien": "Sproul (preterista moderado), sin conclusión",
+          "fuentes": [
+            "web_14#4"
+          ]
+        },
+        {
+          "postura": "El sistema del mundo opuesto a Dios, con manifestaciones en cada época.",
+          "quien": "Comentario Mundo Hispano (amilenial/idealista); Hendriksen (amilenial); Guzik; Ladd, que lo une a una ciudad final",
+          "fuentes": [
+            "cbmh_07#8",
+            "carballosa_13_b#28",
+            "web_04_c#16",
+            "ladd_06_a#27"
+          ]
+        }
       ],
       "nota": "Todos coinciden en el trasfondo de Jeremías 50-51 y en que su caída es segura, súbita y obra de Dios."
     },
     {
       "tema": "Los siete montes y los siete reyes",
       "posturas": [
-        {"postura": "Las siete colinas de Roma; los reyes, emperadores.", "quien": "Larkin; Govett, citado por McGee; Sproul; preteristas citados por Earle", "fuentes": ["larkin_04_b#3", "mcgee_10_a#5", "web_13#22", "beacon_04_b#27"]},
-        {"postura": "Siete imperios: Egipto, Asiria, Babilonia, Persia, Grecia, Roma y el del anticristo.", "quien": "Carballosa, siguiendo a Seiss; Biblia de estudio MacArthur; Ladd con matices", "fuentes": ["carballosa_13_b#11", "mbiblia_02_d#5", "ladd_06_b#1"]},
-        {"postura": "Siete formas de gobierno de Roma.", "quien": "Scofield y Scott, citados por McGee; Barnes, citado por Earle", "fuentes": ["mcgee_10_a#5", "beacon_04_b#27"]},
-        {"postura": "Siete como número de plenitud: la totalidad del poder del mal.", "quien": "Comentario Mundo Hispano (amilenial/idealista)", "fuentes": ["cbmh_06_b#29"]}
+        {
+          "postura": "Las siete colinas de Roma; los reyes, emperadores.",
+          "quien": "Larkin; Govett, citado por McGee; Sproul; preteristas citados por Earle",
+          "fuentes": [
+            "larkin_04_b#3",
+            "mcgee_10_a#5",
+            "web_13#22",
+            "beacon_04_b#27"
+          ]
+        },
+        {
+          "postura": "Siete imperios: Egipto, Asiria, Babilonia, Persia, Grecia, Roma y el del anticristo.",
+          "quien": "Carballosa, siguiendo a Seiss; Biblia de estudio MacArthur; Ladd con matices",
+          "fuentes": [
+            "carballosa_13_b#11",
+            "mbiblia_02_d#5",
+            "ladd_06_b#1"
+          ]
+        },
+        {
+          "postura": "Siete formas de gobierno de Roma.",
+          "quien": "Scofield y Scott, citados por McGee; Barnes, citado por Earle",
+          "fuentes": [
+            "mcgee_10_a#5",
+            "beacon_04_b#27"
+          ]
+        },
+        {
+          "postura": "Siete como número de plenitud: la totalidad del poder del mal.",
+          "quien": "Comentario Mundo Hispano (amilenial/idealista)",
+          "fuentes": [
+            "cbmh_06_b#29"
+          ]
+        }
       ],
       "nota": "Earle señala bastante consenso en que el octavo es el anticristo."
     },
     {
       "tema": "Los diez reyes",
       "posturas": [
-        {"postura": "Diez reyes concretos del futuro, aliados del anticristo en un imperio romano restaurado.", "quien": "Carballosa; MacArthur; Thiessen, citado por Chafer (premilenial dispensacional)", "fuentes": ["carballosa_13_b#15", "macarthur_15_a#5", "r1_037#9"]},
-        {"postura": "Poderes surgidos del propio imperio que se volvieron contra Roma.", "quien": "Swete (preterista), citado por Earle", "fuentes": ["beacon_04_b#28"]},
-        {"postura": "Número simbólico: la plenitud de los poderes que apoyan a la bestia.", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano", "fuentes": ["ladd_06_b#5", "cbmh_07#5"]}
+        {
+          "postura": "Diez reyes concretos del futuro, aliados del anticristo en un imperio romano restaurado.",
+          "quien": "Carballosa; MacArthur; Thiessen, citado por Chafer (premilenial dispensacional)",
+          "fuentes": [
+            "carballosa_13_b#15",
+            "macarthur_15_a#5",
+            "r1_037#9"
+          ]
+        },
+        {
+          "postura": "Poderes surgidos del propio imperio que se volvieron contra Roma.",
+          "quien": "Swete (preterista), citado por Earle",
+          "fuentes": [
+            "beacon_04_b#28"
+          ]
+        },
+        {
+          "postura": "Número simbólico: la plenitud de los poderes que apoyan a la bestia.",
+          "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano",
+          "fuentes": [
+            "ladd_06_b#5",
+            "cbmh_07#5"
+          ]
+        }
       ],
       "nota": "El Comentario Mundo Hispano recuerda que el bloque europeo que algunos señalaron ya no tiene diez naciones."
     }
   ],
   "citas": [
-    {"texto": "Los numerosos anticristos que han vivido en este mundo desde los días de Juan, se han aproximado cada vez más al retrato que él pintó y que culminará en uno que será su réplica exacta.", "autor": "G. R. Beasley-Murray", "obra": "«Apocalipsis», Nuevo Comentario Bíblico", "pagina": "pág. PDF 189"},
-    {"texto": "Babilonia es una forma de Roma, y Roma es una Babilonia postrera", "autor": "Agustín, citado por J. Vernon McGee", "obra": "Apocalipsis: un comentario", "pagina": "pág. PDF 358"},
-    {"texto": "La figura del Cordero como un poderoso Conquistador es una de las asombrosas paradojas del Apocalipsis.", "autor": "Ralph Earle", "obra": "«Apocalipsis», Comentario Bíblico Beacon, tomo 10", "pagina": "pág. PDF 413"}
+    {
+      "texto": "Los numerosos anticristos que han vivido en este mundo desde los días de Juan, se han aproximado cada vez más al retrato que él pintó y que culminará en uno que será su réplica exacta.",
+      "autor": "G. R. Beasley-Murray",
+      "obra": "«Apocalipsis», Nuevo Comentario Bíblico",
+      "pagina": "pág. PDF 189"
+    },
+    {
+      "texto": "Babilonia es una forma de Roma, y Roma es una Babilonia postrera",
+      "autor": "Agustín, citado por J. Vernon McGee",
+      "obra": "Apocalipsis: un comentario",
+      "pagina": "pág. PDF 358"
+    },
+    {
+      "texto": "La figura del Cordero como un poderoso Conquistador es una de las asombrosas paradojas del Apocalipsis.",
+      "autor": "Ralph Earle",
+      "obra": "«Apocalipsis», Comentario Bíblico Beacon, tomo 10",
+      "pagina": "pág. PDF 413"
+    }
   ],
   "conexiones": [
-    {"ref": "Gn 11:1-9", "nota": "Babel, el primer intento de unidad humana contra Dios, origen del nombre.", "fuentes": ["r1_022#3", "cpe_07#8"]},
-    {"ref": "Jer 51:7-8, 63-64", "nota": "La copa de oro, la caída repentina y la piedra hundida en el Éufrates que Juan retoma en 18:21.", "fuentes": ["carballosa_14_b#10"]},
-    {"ref": "Is 13:19-22", "nota": "La desolación perpetua de Babilonia, leída como aún futura o como prueba de que no será reedificada.", "fuentes": ["macarthur_15_a#12", "r1_037#6"]},
-    {"ref": "1 P 5:13", "nota": "Pedro escribe desde Babilonia, nombre que muchos entienden como Roma.", "fuentes": ["cbmh_06_b#3", "r1_010#19"]},
-    {"ref": "Dn 7:7, 24", "nota": "La cuarta bestia con diez cuernos que son diez reyes.", "fuentes": ["ladd_06_b#5", "carballosa_13_b#15"]}
+    {
+      "ref": "Gn 11:1-9",
+      "nota": "Babel, el primer intento de unidad humana contra Dios, origen del nombre.",
+      "fuentes": [
+        "r1_022#3",
+        "cpe_07#8"
+      ]
+    },
+    {
+      "ref": "Jer 51:7-8, 63-64",
+      "nota": "La copa de oro, la caída repentina y la piedra hundida en el Éufrates que Juan retoma en 18:21.",
+      "fuentes": [
+        "carballosa_14_b#10"
+      ]
+    },
+    {
+      "ref": "Is 13:19-22",
+      "nota": "La desolación perpetua de Babilonia, leída como aún futura o como prueba de que no será reedificada.",
+      "fuentes": [
+        "macarthur_15_a#12",
+        "r1_037#6"
+      ]
+    },
+    {
+      "ref": "1 P 5:13",
+      "nota": "Pedro escribe desde Babilonia, nombre que muchos entienden como Roma.",
+      "fuentes": [
+        "cbmh_06_b#3",
+        "r1_010#19"
+      ]
+    },
+    {
+      "ref": "Dn 7:7, 24",
+      "nota": "La cuarta bestia con diez cuernos que son diez reyes.",
+      "fuentes": [
+        "ladd_06_b#5",
+        "carballosa_13_b#15"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "«Salid de ella, pueblo mío»: a veces la separación podrá ser física, pero siempre tiene que ser del modo de pensar. Pregúntense qué valores de Babilonia (lujo, autosuficiencia, vivir solo para hoy) se les meten en casa.", "fuentes": ["cbmh_07#12", "cpe_07#8"]},
-    {"texto": "Dios no nos sacó de la ciudad: nos puso en ella para ser luz. La pregunta de Guzik sirve para todos los días: ¿esta ciudad me gobierna, o soy ciudadano de la Jerusalén celestial?", "fuentes": ["cbmh_07#2", "web_04_c#16"]}
+    {
+      "texto": "«Salid de ella, pueblo mío»: a veces la separación podrá ser física, pero siempre tiene que ser del modo de pensar. Pregúntense qué valores de Babilonia (lujo, autosuficiencia, vivir solo para hoy) se les meten en casa.",
+      "fuentes": [
+        "cbmh_07#12",
+        "cpe_07#8"
+      ]
+    },
+    {
+      "texto": "Dios no nos sacó de la ciudad: nos puso en ella para ser luz. La pregunta de Guzik sirve para todos los días: ¿esta ciudad me gobierna, o soy ciudadano de la Jerusalén celestial?",
+      "fuentes": [
+        "cbmh_07#2",
+        "web_04_c#16"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Cuál de las lecturas de Babilonia les parece que mejor respeta lo que el ángel mismo explica, y por qué?",
     "¿Dónde ven hoy los rasgos de Babilonia: seducción, lujo, orgullo y desprecio por el pueblo de Dios?",
     "¿Qué les da paz de saber que Dios usa aun a los enemigos para cumplir sus palabras?"
   ],
-  "dias_relacionados": [58, 64, 65, 66, 67, 68, 69],
-  "visuales": ["dg-ramera", "dg-escuelas", "mapa-mediterraneo"],
-  "refs_apocalipsis": ["14:8", "16:19", "17:1-18", "18:1-24"],
-  "notas_no_usadas": []
+  "dias_relacionados": [
+    58,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "visuales": [
+    "dg-ramera",
+    "dg-escuelas",
+    "mapa-mediterraneo"
+  ],
+  "refs_apocalipsis": [
+    "14:8",
+    "16:19",
+    "17:1-18",
+    "18:1-24"
+  ],
+  "notas_no_usadas": [
+    "larkin_01_b#6",
+    "ladd_01_a#17",
+    "cpe_01#6",
+    "r1_022#14",
+    "mbiblia_01_a#9",
+    "ladd_01_a#13",
+    "web_17#8",
+    "henry_01_a#4",
+    "web_07#4",
+    "r1_024_a#7",
+    "r1_037#5",
+    "r1_027#13",
+    "r1_028#17",
+    "r1_038#3",
+    "dbmh_01_a#5",
+    "web_12#15",
+    "web_14#3",
+    "cpe_04#11",
+    "r1_016#29",
+    "r1_017#5",
+    "ladd_01_a#8",
+    "cbmh_01_a#16",
+    "dbmh_01_a#7",
+    "r1_024_a#3",
+    "carballosa_01#36",
+    "cpe_04#15",
+    "carballosa_02_a#14",
+    "macarthur_01#34",
+    "r1_024_a#8",
+    "r1_005#27",
+    "r1_012#9",
+    "web_03_a#6",
+    "r1_012#8",
+    "cpe_01#24",
+    "r1_019#26",
+    "beacon_01_a#17",
+    "ladd_01_a#14",
+    "macarthur_15_a#11",
+    "r1_024_a#1",
+    "cpe_10#1",
+    "r1_006#4",
+    "mbiblia_01_a#5",
+    "r1_021#2",
+    "r1_012#19",
+    "cbmh_01_a#4",
+    "mcgee_10_a#9",
+    "mcgeer_01#6",
+    "r2_010#1",
+    "cpe_04#10",
+    "beacon_03_a#8",
+    "carballosa_01#30",
+    "cbmh_09#9",
+    "r1_005#4",
+    "web_05_c#1",
+    "r1_002#17",
+    "carballosa_13_a#9",
+    "r1_022#1",
+    "mcgeer_11#22",
+    "cbmh_01_a#8",
+    "larkin_02_a#29",
+    "dbmh_02#2",
+    "larkin_02_a#30",
+    "mcgee_01_b#5",
+    "ladd_01_a#16",
+    "dbmh_01_a#3",
+    "macarthur_15_a#13",
+    "ladd_01_a#3",
+    "cbmh_01_a#20",
+    "r1_039#7",
+    "r1_030#34",
+    "carballosa_18_b#23",
+    "r1_018#28",
+    "cpe_04#16",
+    "cpe_04#3",
+    "carballosa_01#34",
+    "r1_035#25",
+    "ladd_01_a#6",
+    "carballosa_01#29",
+    "carballosa_18_b#8",
+    "r1_005#24",
+    "ladd_01_a#4",
+    "mcgee_01_b#9",
+    "carballosa_13_a#18",
+    "r1_034#39",
+    "carballosa_14_b#8",
+    "r1_027#22",
+    "carballosa_02_a#7",
+    "cpe_05#12",
+    "macarthur_01#32",
+    "r1_012#7",
+    "mcgee_01_a#10",
+    "cpe_03#12",
+    "carballosa_01#22",
+    "mcgeer_01#9",
+    "carballosa_01#39",
+    "mcgee_01_a#13",
+    "r1_026#32",
+    "carballosa_13_b#31",
+    "r1_012#22",
+    "r1_007#11",
+    "cbmh_01_a#5",
+    "mcgeer_01#18"
+  ]
 }

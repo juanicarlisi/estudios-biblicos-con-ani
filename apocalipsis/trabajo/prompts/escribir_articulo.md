@@ -18,3 +18,8 @@ todo sale de las notas extraídas de los libros (ya leídas y resumidas), de los
 - Citas bíblicas: solo `versiculos` (hasta 6, cada uno con su `porque`; la app inserta el texto RVR1960) y frases cortas entre «» copiadas literales del texto bíblico de los insumos o de un día ya escrito.
 - Extensión: la indicada en `largo` (palabras), sin contar `citas`. Si hay mucho material, elegí lo mejor; el resto queda en `notas_no_usadas` (ids).
 - No toques otros archivos ni hagas commits. No publiques nada como artefacto.
+
+## Ahorro de contexto (30-10-2026)
+- Leé el insumo por tramos (offset/limit) y descartá rápido lo que no es de tu tema; si el insumo trae poco de lo que pide `alcance`,
+  completá con Grep sobre `trabajo/extracciones/*.json` (tipos de nota pertinentes) en vez de leer más insumo.
+- Un solo ciclo de escritura + validación; no releas el JSON entero después de validar.

@@ -3,22 +3,43 @@
   "desde": "8:6",
   "hasta": "8:13",
   "titulo": "Tierra, mar, ríos y cielo: cuatro trompetas que todavía avisan",
-  "minutos": {"lectura": 2, "estudio": 26},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 26
+  },
   "contexto": {
-    "antes": "Ayer se abrió el séptimo sello: media hora de silencio en el cielo, el incienso unido a las oraciones de todos los santos y el ángel que arroja el incensario a la tierra, con truenos y un terremoto. Para MacArthur, ese terremoto es la señal para los siete ángeles; Ladd subraya que se disponen a tocar en respuesta a las oraciones de los santos.",
-    "ahora": "Suenan las cuatro primeras trompetas. Cada una golpea un ámbito de la creación (la vegetación, el mar, las aguas dulces y los astros), siempre en una tercera parte, y al final un águila (o un ángel) anuncia tres ayes todavía peores.",
-    "donde": "Los juicios caen sobre los cuatro elementos de los que depende la vida: tierra, mar, aguas dulces y cielo (Mundo Hispano). El anuncio final se oye desde lo más alto del cielo, a la vista de todos.",
+    "antes": "Ayer se abrió el séptimo sello: silencio en el cielo, el incienso con las oraciones de los santos y el incensario arrojado a la tierra, con truenos y un terremoto. Para MacArthur, ese terremoto es la señal para los siete ángeles.",
+    "ahora": "Suenan las cuatro primeras trompetas: cada una golpea un ámbito de la creación, siempre en una tercera parte, y al final se anuncian tres ayes peores.",
+    "donde": "Los juicios caen sobre tierra, mar, aguas dulces y astros, los cuatro elementos de los que depende la vida (Mundo Hispano).",
     "cuando": "Depende de la lectura: para MacArthur, Carballosa, McGee y Wiersbe, en la tribulación futura, después de los sellos; para Mundo Hispano y otros comentaristas, con la mirada puesta también en el mundo romano de Juan (ver Interpretaciones).",
     "despues": "Mañana suena la quinta trompeta (9:1-12): las langostas que salen del abismo, el primero de los tres ayes anunciados en 8:13.",
-    "fuentes": ["macarthur_07_b#25", "ladd_04_a#5", "cbmh_05_a#28", "macarthur_08#1", "carballosa_07#8", "web_08#9", "cbmh_05_a#23", "r1_024_b#24", "macarthur_08#11"]
+    "fuentes": [
+      "macarthur_07_b#25",
+      "ladd_04_a#5",
+      "cbmh_05_a#28",
+      "macarthur_08#1",
+      "carballosa_07#8",
+      "web_08#9",
+      "cbmh_05_a#23",
+      "r1_024_b#24",
+      "macarthur_08#11",
+      "mcgeer_06#36"
+    ]
   },
   "versiculo_clave": {
     "ref": "8:13",
     "porque": "Resume el sentido del día: lo que pasó con las cuatro primeras trompetas fue serio pero parcial, y Dios todavía avisa a gran voz antes de lo que viene."
   },
   "panorama": {
-    "texto": "Las trompetas responden a las oraciones de los santos y repiten, con otra escala, las plagas de Egipto: granizo y fuego, agua hecha sangre, aguas amargas y tinieblas. Las cuatro primeras golpean la naturaleza, aquello de lo que el hombre vive y en lo que confía (comida, agua, luz, el ritmo del día y la noche). Todas tienen un límite que se repite como un estribillo: la tercera parte. Los autores coinciden en lo que eso enseña: Dios juzga con precisión y con medida, y su juicio todavía busca que la gente se vuelva a él. Difieren en cómo leer las imágenes (catástrofes físicas o símbolos del juicio), pero no en quién las manda ni en para qué.",
-    "fuentes": ["ladd_04_a#5", "cbmh_05_a#22", "web_08#9", "macarthur_08#8", "carballosa_07#9", "cbmh_05_a#26"]
+    "texto": "Las trompetas responden a las oraciones de los santos y repiten, en otra escala, las plagas de Egipto: granizo y fuego, agua hecha sangre, aguas amargas y tinieblas. Las cuatro primeras golpean aquello de lo que el hombre vive: comida, agua, luz, el ritmo del día y la noche. Todas tienen un límite que se repite como estribillo: la tercera parte. Los autores difieren en cómo leer las imágenes, pero coinciden en lo central: Dios juzga con precisión y con medida, y su juicio todavía busca que la gente se vuelva a él.",
+    "fuentes": [
+      "ladd_04_a#5",
+      "cbmh_05_a#22",
+      "web_08#9",
+      "macarthur_08#8",
+      "carballosa_07#9",
+      "cbmh_05_a#26"
+    ]
   },
   "secciones": [
     {
@@ -26,19 +47,23 @@
       "titulo": "Siete ángeles se preparan",
       "notas": [
         {
-          "texto": "Los siete ángeles «se dispusieron a tocarlas». Carballosa lo imagina en cámara lenta: levantan los instrumentos y los acercan a los labios. El verbo griego significa preparar; Mundo Hispano, con Mounce, ve en esa preparación un recurso que eleva la expectativa. Y no tocan por iniciativa propia: Ladd recuerda que lo hacen en respuesta a las oraciones de todos los santos que subieron con el incienso en 8:3-5.",
-          "fuentes": ["carballosa_07#7", "cbmh_05_a#22", "ladd_04_a#5"],
+          "texto": "Los siete ángeles «se dispusieron a tocarlas»: Carballosa los imagina levantando los instrumentos hasta los labios, y Mundo Hispano, con Mounce, ve en esa preparación un recurso que eleva la expectativa. No tocan por iniciativa propia: Ladd recuerda que lo hacen en respuesta a las oraciones de los santos (8:3-5).",
+          "fuentes": [
+            "carballosa_07#7",
+            "cbmh_05_a#22",
+            "ladd_04_a#5"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "La serie tiene un diseño. Como los sellos, las trompetas se dividen en cuatro y tres: las cuatro primeras caen sobre la naturaleza y las tres últimas, los ayes, sobre la gente (8:13; 9:12; 11:14). Mundo Hispano marca las diferencias: los primeros sellos traían sufrimientos de origen humano (guerra, hambre); las primeras trompetas, de origen natural y sobrenatural. El sufrimiento crece, pero sigue limitado: de quince casos de destrucción, doce se limitan a un tercio. Ladd ve una división parecida en el sermón de Jesús en Mateo 24.",
-          "fuentes": ["cbmh_05_a#22", "ladd_04_a#5", "carballosa_07#7", "beacon_03_c#4"],
+          "texto": "Como los sellos, las trompetas se dividen en cuatro y tres: las cuatro primeras caen sobre la naturaleza y las tres últimas, los ayes, sobre la gente (8:13; 9:12; 11:14). Mundo Hispano marca la diferencia: los primeros sellos traían sufrimientos de origen humano; las primeras trompetas, de origen natural y sobrenatural. El sufrimiento crece, pero sigue limitado. MacArthur agrega que probablemente estos son los juicios que se retenían hasta sellar a los siervos de Dios (7:3).",
+          "fuentes": [
+            "cbmh_05_a#22",
+            "ladd_04_a#5",
+            "beacon_03_c#4",
+            "macarthur_08#1"
+          ],
           "tipo": "estructura_bosquejo"
-        },
-        {
-          "texto": "MacArthur agrega dos datos de contexto. Los que en el sexto sello se escondían de la ira del Cordero (6:15-17) quizás pensaron que todo volvía a la normalidad; no es así. Y probablemente estos son los juicios que se retenían hasta que fueran sellados los siervos de Dios (7:3).",
-          "fuentes": ["macarthur_08#1"],
-          "tipo": "explicacion_texto"
         }
       ]
     },
@@ -47,23 +72,43 @@
       "titulo": "Primera trompeta: granizo y fuego sobre la vegetación",
       "notas": [
         {
-          "texto": "Cae «granizo y fuego mezclados con sangre» y se quema la tercera parte de los árboles y «toda la hierba verde». Es el eco de la séptima plaga de Egipto, el granizo con fuego de Éxodo 9:22-26 (Beacon, Carballosa, Larkin, Wiersbe, McGee). El texto griego del día trae además que se quemó la tercera parte de la tierra, y así lo comentan Beasley-Murray, Ladd y Mundo Hispano. Carballosa nota que el verbo «se quemó» lleva un prefijo intensivo: quemarse por completo, hasta las cenizas.",
-          "fuentes": ["beacon_03_c#1", "carballosa_07#9", "larkin_02_b#23", "r1_024_b#24", "mcgee_06_a#10", "henry_01_b#23", "ladd_04_a#6", "cbmh_05_a#23"],
+          "texto": "Cae «granizo y fuego mezclados con sangre» y se quema la tercera parte de los árboles y «toda la hierba verde»: eco de la séptima plaga de Egipto, el granizo con fuego de Éxodo 9:22-26 (Beacon, Carballosa, Larkin, Wiersbe, McGee). El griego del día agrega que se quemó la tercera parte de la tierra, como comentan Beasley-Murray, Ladd y Mundo Hispano; y el verbo «se quemó» lleva un prefijo intensivo: quemarse hasta las cenizas (Carballosa).",
+          "fuentes": [
+            "beacon_03_c#1",
+            "carballosa_07#9",
+            "larkin_02_b#23",
+            "r1_024_b#24",
+            "mcgee_06_a#10",
+            "henry_01_b#23",
+            "ladd_04_a#6",
+            "cbmh_05_a#23"
+          ],
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "La comparación con Egipto muestra también las diferencias. Allí el granizo hirió a hombres, animales y plantas y desgajó todos los árboles; aquí solo sufren árboles y hierba, y solo un tercio de los árboles (Larkin, McGee). Earle, en el Beacon, citando a Swete, piensa en los árboles frutales (olivo, higuera, vid), de los que vivían Palestina y Asia Menor. McGee nota que la vegetación fue lo primero que Dios creó (Gn 1:11) y es lo primero que se destruye; y que si el primer juicio mundial fue con agua, ahora el instrumento es el fuego.",
-          "fuentes": ["larkin_02_b#24", "mcgee_06_a#10", "mcgeer_06#35", "beacon_03_c#1"],
+          "texto": "También hay diferencias con Egipto: allí el granizo hirió a hombres, animales y plantas y desgajó todos los árboles; aquí solo sufren árboles y hierba, y solo en parte (Larkin, McGee). Earle, con Swete, piensa en los frutales (olivo, higuera, vid), de los que vivían Palestina y Asia Menor. McGee nota que la vegetación fue lo primero creado (Gn 1:11) y es lo primero destruido.",
+          "fuentes": [
+            "larkin_02_b#24",
+            "mcgee_06_a#10",
+            "beacon_03_c#1"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "¿Por qué sangre? Mundo Hispano reconoce que no hay seguridad; quizá sea un clamor contra la injusticia que derrama sangre humana (18:24). Granizo, fuego y sangre son señales de juicio en todo el Antiguo Testamento (Gn 19:24; Is 28:2; Jl 2:30), y en el Nuevo el granizo solo aparece en Apocalipsis. MacArthur y la Biblia de estudio MacArthur sugieren, como posibilidad, que el terremoto de 8:5 provoque erupciones volcánicas: lava roja, vapor que cae como granizo, lluvias teñidas por polvo y gases. MacArthur cierra: sea cual sea la explicación científica, es Dios quien lanza ese diluvio de muerte.",
-          "fuentes": ["cbmh_05_a#23", "macarthur_08#2", "mbiblia_01_d#5"],
+          "texto": "¿Por qué sangre? Mundo Hispano admite que no hay seguridad; quizá sea un clamor contra la injusticia que derrama sangre humana (18:24). MacArthur propone como posibilidad erupciones volcánicas provocadas por el terremoto de 8:5, pero concluye que, sea cual sea la explicación científica, es Dios quien lanza ese diluvio de muerte.",
+          "fuentes": [
+            "cbmh_05_a#23",
+            "macarthur_08#2",
+            "mbiblia_01_d#5"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Una dificultad: si se quema «toda la hierba verde», ¿cómo es que en 9:4 todavía hay hierba? MacArthur cita a Robert Thomas, que da dos salidas: pasa tiempo entre la primera y la quinta trompeta y la hierba rebrota, o se quema solo la que está verde en esa estación. Beasley-Murray, en cambio, toma 9:4 como señal de que no toda la hierba fue dañada, porque el juicio no es universal.",
-          "fuentes": ["macarthur_08#3", "henry_01_b#23"],
+          "texto": "Una dificultad: si se quema «toda la hierba verde», ¿cómo hay hierba en 9:4? MacArthur cita a Robert Thomas: o pasa tiempo y la hierba rebrota, o se quema solo la que está verde en esa estación. Beasley-Murray, en cambio, toma 9:4 como señal de que no toda la hierba fue dañada.",
+          "fuentes": [
+            "macarthur_08#3",
+            "henry_01_b#23"
+          ],
           "tipo": "dificultad_interpretaciones"
         }
       ]
@@ -73,18 +118,27 @@
       "titulo": "Segunda trompeta: algo como una montaña cae al mar",
       "notas": [
         {
-          "texto": "«Como una gran montaña ardiendo en fuego» es precipitada en el mar: un tercio del mar se hace sangre, muere un tercio de los seres que viven en él y «la tercera parte de las naves fue destruida». Es la primera plaga de Egipto, el Nilo convertido en sangre y sus peces muertos (Éx 7:20-21), en escala mayor (Beacon, Carballosa, Ladd, Wiersbe). Carballosa recuerda que para los egipcios el Nilo era el dador de la vida, un dios; ahora Dios hiere el mar, fuente de sustento. MacArthur suma que el mar es una bendición de Dios: alimento, oxígeno, lluvia.",
-          "fuentes": ["beacon_03_c#2", "carballosa_07#10", "ladd_04_a#7", "r1_024_b#24", "macarthur_08#5"],
+          "texto": "Algo «como una gran montaña ardiendo en fuego» cae al mar: un tercio del mar se hace sangre, muere un tercio de los seres marinos y «la tercera parte de las naves fue destruida». Es la primera plaga de Egipto, el Nilo hecho sangre (Éx 7:20-21), en escala mayor (Beacon, Ladd, Wiersbe). Carballosa recuerda que los egipcios veían en el Nilo un dios dador de vida; ahora Dios hiere el mar, fuente de sustento.",
+          "fuentes": [
+            "beacon_03_c#2",
+            "carballosa_07#10",
+            "ladd_04_a#7",
+            "r1_024_b#24",
+            "macarthur_08#5"
+          ],
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "Casi todos se detienen en la palabra «como». Juan no dice que cayó una montaña, sino algo semejante: una masa de ese tamaño, ardiendo (McGee, Carballosa, Guzik). Para Larkin, un enorme meteoro en llamas, lo más cercano que Juan podía describir; MacArthur y Guzik piensan en un meteorito o asteroide, con tsunamis que hunden naves e inundan puertos. Ladd no cree que sea un volcán (los volcanes no son arrojados al mar) y prefiere no definir la forma concreta. McGee es directo: no sabemos qué es, porque Juan no lo dijo.",
-          "fuentes": ["mcgee_06_a#11", "mcgeer_06#36", "carballosa_07#10", "web_08#6", "larkin_02_b#25", "macarthur_08#5", "mbiblia_01_d#6", "ladd_04_a#7"],
-          "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "Mundo Hispano lee la imagen con ojos del siglo I: Ashcraft sugiere que la erupción del Vesubio en el año 79, poco antes de que se escribiera el libro, pudo inspirar la figura; en el Antiguo Testamento el monte simboliza poder y a veces soberbia (Zac 4:7), y las naves destruidas podrían aludir al comercio marítimo que sostenía la opulencia de Roma. Sobre qué mar es, Larkin piensa en el Mediterráneo; Guzik lo deja como posible, porque para Juan era «el mar»; Wiersbe y MacArthur ven más probable que sean todos los mares.",
-          "fuentes": ["cbmh_05_a#24", "larkin_02_b#25", "web_08#6", "r1_024_b#24", "macarthur_08#5"],
+          "texto": "Casi todos se detienen en el «como»: Juan no dice que cayó una montaña, sino una masa de ese tamaño, ardiendo (McGee, Carballosa, Guzik). Larkin, MacArthur y Guzik piensan en un meteoro o asteroide; Ladd descarta un volcán y prefiere no definir la forma. McGee es directo: no sabemos qué es, porque Juan no lo dijo. Mundo Hispano mira al siglo I: Ashcraft sugiere que la erupción del Vesubio (año 79) pudo inspirar la figura, y las naves podrían aludir al comercio que sostenía la opulencia de Roma.",
+          "fuentes": [
+            "mcgee_06_a#11",
+            "carballosa_07#10",
+            "web_08#6",
+            "larkin_02_b#25",
+            "macarthur_08#5",
+            "ladd_04_a#7",
+            "cbmh_05_a#24"
+          ],
           "tipo": "dificultad_interpretaciones"
         }
       ]
@@ -94,24 +148,38 @@
       "titulo": "Tercera trompeta: la estrella Ajenjo y las aguas amargas",
       "notas": [
         {
-          "texto": "Cae del cielo una gran estrella, «ardiendo como una antorcha», sobre un tercio de los ríos y las fuentes: el agua dulce que se bebe y con la que se riega (Carballosa). MacArthur explica que la palabra «estrella» designa cualquier cuerpo celeste salvo el sol y la luna, y que «antorcha» se usaba para meteoros y cometas; él, Larkin, McGee y Guzik piensan en un meteoro o cometa. Beasley-Murray, en cambio, se pregunta si no será un ángel, como la estrella de 9:1; Carballosa responde que «estrella» designa ángeles solo cuando el contexto lo exige. Para Mundo Hispano, la estrella ardiente es símbolo de la visitación de Dios.",
-          "fuentes": ["carballosa_07#11", "macarthur_08#6", "larkin_02_b#26", "mcgee_06_a#12", "web_08#7", "henry_01_b#23", "cbmh_05_a#25"],
+          "texto": "Cae del cielo una gran estrella «ardiendo como una antorcha» sobre un tercio de los ríos y las fuentes: el agua que se bebe y con la que se riega (Carballosa). MacArthur, Larkin, McGee y Guzik piensan en un meteoro o cometa; Beasley-Murray se pregunta si será un ángel, como la estrella de 9:1, y Carballosa responde que «estrella» designa ángeles solo cuando el contexto lo exige. Para Mundo Hispano, es símbolo de la visitación de Dios.",
+          "fuentes": [
+            "carballosa_07#11",
+            "macarthur_08#6",
+            "larkin_02_b#26",
+            "mcgee_06_a#12",
+            "web_08#7",
+            "henry_01_b#23",
+            "cbmh_05_a#25"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "«El nombre de la estrella es Ajenjo». El ajenjo es una planta muy amarga; MacArthur cuenta ocho menciones en el Antiguo Testamento, asociadas con amargura, veneno y muerte. Allí es fruto de la idolatría (Dt 29:18), imagen de calamidad y tristeza (Lm 3:15), de la injusticia (Am 5:7) y del castigo de Dios sobre su pueblo rebelde (Jer 9:15; 23:15). Por eso McGee, con Vincent, ve aquí un juicio contra la idolatría y la injusticia del hombre.",
-          "fuentes": ["macarthur_08#7", "carballosa_07#11", "cbmh_05_a#25", "mcgee_06_a#12", "mcgeer_07#1", "ladd_04_a#8", "beacon_03_c#3"],
+          "texto": "«El nombre de la estrella es Ajenjo», una planta muy amarga. En el Antiguo Testamento es fruto de la idolatría (Dt 29:18), imagen de calamidad (Lm 3:15) y de injusticia (Am 5:7) y castigo de Dios sobre su pueblo rebelde (Jer 9:15). Por eso McGee, con Vincent, ve aquí un juicio contra la idolatría y la injusticia del hombre.",
+          "fuentes": [
+            "macarthur_08#7",
+            "carballosa_07#11",
+            "cbmh_05_a#25",
+            "mcgee_06_a#12",
+            "ladd_04_a#8"
+          ],
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "Barclay (citado por Carballosa) y Ladd aclaran que el ajenjo no era veneno mortal; aquí, en cambio, «muchos hombres murieron» porque las aguas «se hicieron amargas». Es la primera vez que una trompeta trae muerte de personas, aunque de forma indirecta (MacArthur, Mundo Hispano): la gente puede aguantar un tiempo con provisiones, pero no sin agua. Mundo Hispano observa que el texto dice «muchos» y no un tercio, y que el límite indica que todavía hay tiempo para arrepentirse.",
-          "fuentes": ["carballosa_07#11", "ladd_04_a#8", "macarthur_08#6", "macarthur_08#8", "cbmh_05_a#25"],
+          "texto": "El ajenjo no era veneno mortal (Barclay, citado por Carballosa; Ladd), pero aquí «muchos hombres murieron». Es la primera trompeta que trae muerte de personas, aunque indirecta (MacArthur, Mundo Hispano), y el texto dice «muchos», no un tercio: todavía hay tiempo para arrepentirse. Es además Mara al revés: allí Dios endulzó las aguas amargas con un árbol (Éx 15:23-25); ahora vuelve amargas las dulces.",
+          "fuentes": [
+            "carballosa_07#11",
+            "ladd_04_a#8",
+            "macarthur_08#6",
+            "cbmh_05_a#25"
+          ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "Carballosa, MacArthur y Mundo Hispano señalan que es Mara al revés. En el desierto, Dios endulzó las aguas amargas con un árbol (Éx 15:23-25); ahora vuelve amargas las aguas dulces. McGee ve en ese árbol de Mara una figura de la cruz.",
-          "fuentes": ["carballosa_07#11", "macarthur_08#6", "cbmh_05_a#25", "mcgee_06_a#12", "mcgeer_06#37"],
-          "tipo": "conexion_biblica"
         }
       ]
     },
@@ -120,19 +188,27 @@
       "titulo": "Cuarta trompeta: se apaga un tercio de la luz",
       "notas": [
         {
-          "texto": "«Fue herida la tercera parte del sol», de la luna y de las estrellas. El verbo griego es el que da origen a la palabra plaga (MacArthur). El juicio pasa de la tierra al cielo y recuerda la plaga de las tinieblas en Egipto (Éx 10:21-23). Carballosa señala que los egipcios adoraban al sol y a la luna, y que Dios mostró que sus dioses no tenían poder. McGee y Wiersbe notan un detalle de la creación: los astros fueron hechos el cuarto día (Gn 1:14-16) y se oscurecen con la cuarta trompeta.",
-          "fuentes": ["macarthur_08#9", "beacon_03_c#4", "carballosa_07#12", "ladd_04_a#9", "mcgee_06_a#13", "r1_024_b#25"],
+          "texto": "«Fue herida la tercera parte del sol», de la luna y de las estrellas; el verbo griego es el que da origen a la palabra plaga (MacArthur). Recuerda las tinieblas de Egipto (Éx 10:21-23), donde, según Carballosa, Dios mostró que el sol y la luna que adoraban los egipcios no tenían poder. McGee y Wiersbe notan que los astros fueron hechos el cuarto día (Gn 1:14-16) y se oscurecen con la cuarta trompeta.",
+          "fuentes": [
+            "macarthur_08#9",
+            "beacon_03_c#4",
+            "carballosa_07#12",
+            "mcgee_06_a#13",
+            "r1_024_b#25"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "¿Qué significa exactamente? Para McGee y la Biblia de estudio MacArthur, la luz baja a dos tercios de su intensidad, con frío y alteraciones del clima y las cosechas. Para Guzik, un tercio del día y de la noche queda en oscuridad absoluta; Ryrie piensa en un día acortado. Ladd hace notar que, tomada al pie de la letra, la imagen no cierra (oscurecer un tercio de los astros daría menos luz todo el tiempo, no horas sin luz): es la libertad del estilo apocalíptico. Mundo Hispano agrega que el texto se escuchaba en voz alta en las iglesias (1:3) y que la repetición de «tercera parte» y las frases breves golpeaban el oído como un staccato. MacArthur y la Biblia MacArthur aclaran que es temporal: más adelante Dios aumentará el calor del sol (16:8-9).",
-          "fuentes": ["mcgee_06_a#13", "mbiblia_01_d#9", "web_08#8", "r1_032#22", "ladd_04_a#9", "cbmh_05_a#26", "macarthur_08#9"],
+          "texto": "¿Qué significa? Para McGee y la Biblia MacArthur, la luz baja a dos tercios; para Guzik, un tercio del día y de la noche queda en oscuridad absoluta. Ladd nota que, tomada al pie de la letra, la imagen no cierra: es la libertad del estilo apocalíptico. Mundo Hispano recuerda que el texto se leía en voz alta (1:3) y que la repetición de «tercera parte» golpeaba el oído como un staccato. La oscuridad, además, es lenguaje del día del Señor (Am 5:18; Jl 2:2).",
+          "fuentes": [
+            "mcgee_06_a#13",
+            "mbiblia_01_d#9",
+            "web_08#8",
+            "ladd_04_a#9",
+            "cbmh_05_a#26",
+            "cbmh_05_a#27"
+          ],
           "tipo": "dificultad_interpretaciones"
-        },
-        {
-          "texto": "La oscuridad es lenguaje de juicio en toda la Biblia: el día del Señor es día de tinieblas y no de luz (Am 5:18; Jl 2:2), y Jesús anunció que el sol se oscurecería (Mr 13:24). Mundo Hispano considera razonable ver aquí un cumplimiento de esas profecías, y nota que esta oscuridad antecede a los ayes demoníacos que vienen.",
-          "fuentes": ["cbmh_05_a#27", "macarthur_08#10", "dbmh_02#20"],
-          "tipo": "conexion_biblica"
         }
       ]
     },
@@ -141,97 +217,377 @@
       "titulo": "Un grito desde lo alto: ¡ay, ay, ay!",
       "notas": [
         {
-          "texto": "La RVR1960 dice que Juan oyó «a un ángel volar por en medio del cielo», pero el mejor texto griego dice un águila (Beacon, Carballosa, Guzik, Larkin, McGee). Guzik explica que en griego las dos palabras se escriben muy parecido. Carballosa y Larkin coinciden en que el mensaje no cambia; Larkin y McGee agregan que, si Dios hizo hablar al asna de Balaam, puede usar un águila.",
-          "fuentes": ["beacon_03_c#4", "carballosa_07#13", "web_08#8", "larkin_02_b#28", "mcgee_06_a#15", "mcgeer_07#4"],
+          "texto": "La RVR1960 dice que Juan oyó «a un ángel», pero el mejor texto griego dice un águila; en griego las dos palabras se escriben muy parecido (Beacon, Carballosa, Guzik, Larkin, McGee). El mensaje no cambia, y Larkin agrega que si Dios hizo hablar al asna de Balaam, puede usar un águila.",
+          "fuentes": [
+            "beacon_03_c#4",
+            "carballosa_07#13",
+            "web_08#8",
+            "larkin_02_b#28",
+            "mcgee_06_a#15"
+          ],
           "tipo": "griego_palabra"
         },
         {
-          "texto": "Vuela «por en medio del cielo», en el punto más alto, donde todos la ven y oyen (Ladd, MacArthur, Ford citado por Carballosa). Ladd y Swete piensan que se elige un águila por la fuerza de sus alas (12:14); MacArthur, por la imagen del ave de presa que se lanza sobre su víctima, como en Deuteronomio 28:49 y Habacuc 1:8: la venganza final se acerca rápido.",
-          "fuentes": ["ladd_04_a#10", "macarthur_08#11", "carballosa_07#13", "beacon_03_c#4"],
-          "tipo": "simbolo_numero"
-        },
-        {
-          "texto": "El triple «¡Ay!» corresponde a las tres trompetas que faltan (MacArthur, Ladd, Beasley-Murray). La quinta, las langostas, queda marcada como primer ay (9:12); el segundo cierra después del interludio (11:14), y el tercero, según Mundo Hispano, es probablemente la serie de las copas. Sproul explica que en la Biblia repetir algo tres veces lo lleva al grado superlativo. La Biblia MacArthur lo dice sin vueltas: por terribles que sean estas cuatro trompetas, no serán nada comparadas con las tres que faltan.",
-          "fuentes": ["macarthur_08#11", "ladd_04_a#10", "henry_01_b#23", "cbmh_05_a#28", "r2_003_a#23", "mbiblia_01_d#10"],
+          "texto": "Vuela «por en medio del cielo», en lo más alto, donde todos la ven (Ladd, MacArthur). El triple «¡Ay!» anuncia las tres trompetas que faltan: la quinta es el primer ay (9:12), el segundo cierra después del interludio (11:14) y el tercero, según Mundo Hispano, es probablemente la serie de las copas. Repetirlo tres veces lo lleva al superlativo (Sproul): por terribles que sean estas cuatro trompetas, no serán nada al lado de las que faltan (Biblia MacArthur).",
+          "fuentes": [
+            "ladd_04_a#10",
+            "macarthur_08#11",
+            "cbmh_05_a#28",
+            "r2_003_a#23",
+            "mbiblia_01_d#10"
+          ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "¿Quiénes son «los que moran en la tierra»? La frase vuelve una y otra vez en el libro (3:10; 6:10; 11:10; 13:8; 17:2) y todos los autores del día la leen igual: los que rechazan a Dios y a Cristo, el mundo hostil a él (MacArthur, Ladd, Johnson citado por Mundo Hispano). Carballosa y Wiersbe lo explican por contraste: los creyentes son peregrinos con la ciudadanía en el cielo (Fil 3:20; He 11:13); ellos se sienten en casa en este orden presente y viven para la tierra. Ladd agrega que la iglesia, sellada, es de alguna manera preservada, como queda claro en 9:4.",
-          "fuentes": ["carballosa_07#14", "macarthur_08#12", "ladd_04_a#10", "cbmh_05_a#28", "r1_024_b#26", "henry_01_b#23"],
+          "texto": "«Los que moran en la tierra» es una frase que vuelve en el libro (3:10; 6:10; 11:10; 13:8) y todos los autores del día la leen igual: los que rechazan a Dios y a Cristo (MacArthur, Ladd, Mundo Hispano). Carballosa y Wiersbe lo explican por contraste: los creyentes son peregrinos con ciudadanía en el cielo (Fil 3:20); ellos viven para la tierra y se sienten en casa en este orden presente.",
+          "fuentes": [
+            "carballosa_07#14",
+            "macarthur_08#12",
+            "ladd_04_a#10",
+            "cbmh_05_a#28",
+            "r1_024_b#26"
+          ],
           "tipo": "teologia_doctrina"
         }
       ]
     }
   ],
   "simbolos": [
-    {"signo": "trompeta", "significado": "Anuncio de juicio y advertencia: Carballosa, con Mounce, la compara con la trompeta del atalaya de Ezequiel 33, que avisa para que el pueblo se arrepienta; Kœchlin la vincula con la trompeta de juicio de Oseas 8:1.", "refs": ["8:6"], "fuentes": ["carballosa_07#9", "r2_023_a#34"]},
-    {"signo": "la tercera parte", "significado": "Destrucción grave pero parcial: no son todavía los juicios finales. Para MacArthur, la precisión muestra juicios controlados por Dios y no accidentes de la naturaleza; para Mundo Hispano y Guzik, la medida revela la paciencia y la misericordia de Dios. Wiersbe recoge que algunos la limitan al Imperio romano restaurado.", "refs": ["8:7-12"], "fuentes": ["macarthur_08#1", "macarthur_08#8", "cbmh_05_a#26", "web_08#9", "r1_024_b#24"]},
-    {"signo": "granizo, fuego y sangre", "significado": "Señales de juicio divino en el Antiguo Testamento (Gn 19:24; Sal 18:12-13; Jl 2:30), según Mundo Hispano y MacArthur.", "refs": ["8:7"], "fuentes": ["cbmh_05_a#23", "macarthur_08#2"]},
-    {"signo": "montaña", "significado": "Para Mundo Hispano, en el Antiguo Testamento el monte simboliza poder y a veces soberbia; McGee y Guzik citan Jeremías 51:25 (Babilonia como monte), pero prefieren leer aquí una masa física.", "refs": ["8:8"], "fuentes": ["cbmh_05_a#24", "mcgee_06_a#11", "web_08#6"]},
-    {"signo": "ajenjo", "significado": "Amargura, calamidad y castigo divino; en el Antiguo Testamento, también fruto de la idolatría (Dt 29:18; Jer 9:15).", "refs": ["8:11"], "fuentes": ["macarthur_08#7", "carballosa_07#11", "mcgee_06_a#12"]},
-    {"signo": "oscuridad", "significado": "Juicio, el día del Señor y, en el Nuevo Testamento, el poder de lo demoníaco, del que los santos son librados (Col 1:13).", "refs": ["8:12"], "fuentes": ["cbmh_05_a#27", "dbmh_02#20"]},
-    {"signo": "águila", "significado": "Según Ladd y Swete, por la fuerza de su vuelo y su perspectiva; según MacArthur, ave de presa que anuncia una venganza que se acerca rápido.", "refs": ["8:13", "12:14"], "fuentes": ["ladd_04_a#10", "beacon_03_c#4", "macarthur_08#11"]}
+    {
+      "signo": "trompeta",
+      "significado": "Advertencia de juicio: Carballosa, con Mounce, la compara con la trompeta del atalaya de Ezequiel 33, que avisa para que el pueblo se arrepienta.",
+      "refs": [
+        "8:6"
+      ],
+      "fuentes": [
+        "carballosa_07#9"
+      ]
+    },
+    {
+      "signo": "la tercera parte",
+      "significado": "Destrucción grave pero parcial: no son los juicios finales. Para MacArthur, la precisión muestra juicios controlados por Dios; para Mundo Hispano y Guzik, revela su paciencia y misericordia.",
+      "refs": [
+        "8:7-12"
+      ],
+      "fuentes": [
+        "macarthur_08#1",
+        "macarthur_08#8",
+        "cbmh_05_a#26",
+        "web_08#9"
+      ]
+    },
+    {
+      "signo": "ajenjo",
+      "significado": "Amargura, calamidad y castigo divino; también fruto de la idolatría (Dt 29:18).",
+      "refs": [
+        "8:11"
+      ],
+      "fuentes": [
+        "macarthur_08#7",
+        "mcgee_06_a#12"
+      ]
+    },
+    {
+      "signo": "oscuridad",
+      "significado": "Juicio y día del Señor; en el Nuevo Testamento, el poder del que los santos son librados (Col 1:13).",
+      "refs": [
+        "8:12"
+      ],
+      "fuentes": [
+        "cbmh_05_a#27",
+        "dbmh_02#20"
+      ]
+    },
+    {
+      "signo": "águila",
+      "significado": "Según Ladd y Swete, por la fuerza de su vuelo; según MacArthur, ave de presa: la venganza final se acerca rápido (Dt 28:49; Hab 1:8).",
+      "refs": [
+        "8:13",
+        "12:14"
+      ],
+      "fuentes": [
+        "ladd_04_a#10",
+        "beacon_03_c#4",
+        "macarthur_08#11"
+      ]
+    }
   ],
   "palabras": [
-    {"ref": "8:6", "griego": "ἑτοιμάζω", "translit": "jetoimádzo", "significado": "Preparar, disponer: «se dispusieron». Según Mounce (citado por Mundo Hispano), la preparación eleva la expectativa.", "fuentes": ["cbmh_05_a#22"]},
-    {"ref": "8:7", "griego": "κατεκάη", "translit": "katekáē", "significado": "«Se quemó», con el prefijo katá intensivo: quemarse por completo, hasta las cenizas (Carballosa).", "fuentes": ["carballosa_07#9"]},
-    {"ref": "8:11", "griego": "ἄψινθος", "translit": "ápsinthos", "significado": "Ajenjo, planta amarga. Ladd dice que no aparece en otra parte del griego bíblico; MacArthur, que es su única aparición en el Nuevo Testamento.", "fuentes": ["cbmh_05_a#25", "ladd_04_a#8", "macarthur_08#6"]},
-    {"ref": "8:12", "griego": "πλήσσω", "translit": "plēssō", "significado": "Herir, golpear; de este verbo viene el sustantivo plaga (MacArthur).", "fuentes": ["macarthur_08#9"]},
-    {"ref": "8:12", "griego": "σκότος", "translit": "skótos", "significado": "Oscuridad, tinieblas: en la Biblia, marco de acontecimientos sobrenaturales y señal de juicio (Diccionario Mundo Hispano).", "fuentes": ["dbmh_02#20"]},
-    {"ref": "8:13", "griego": "ἀετοῦ", "translit": "aetoû", "significado": "De un águila: lo que dice el griego del día donde la RVR1960 traduce «ángel», siguiendo otros manuscritos (Carballosa, McGee, Larkin).", "fuentes": ["carballosa_07#13", "mcgee_06_a#15", "larkin_02_b#28"]}
+    {
+      "ref": "8:6",
+      "griego": "ἑτοιμάζω",
+      "translit": "jetoimádzo",
+      "significado": "Preparar, disponer: «se dispusieron». Según Mounce (citado por Mundo Hispano), la preparación eleva la expectativa.",
+      "fuentes": [
+        "cbmh_05_a#22"
+      ]
+    },
+    {
+      "ref": "8:7",
+      "griego": "κατεκάη",
+      "translit": "katekáē",
+      "significado": "«Se quemó», con el prefijo katá intensivo: quemarse por completo, hasta las cenizas (Carballosa).",
+      "fuentes": [
+        "carballosa_07#9"
+      ]
+    },
+    {
+      "ref": "8:11",
+      "griego": "ἄψινθος",
+      "translit": "ápsinthos",
+      "significado": "Ajenjo, planta amarga; según Ladd y MacArthur, no aparece en otra parte del Nuevo Testamento.",
+      "fuentes": [
+        "cbmh_05_a#25",
+        "ladd_04_a#8",
+        "macarthur_08#6"
+      ]
+    },
+    {
+      "ref": "8:12",
+      "griego": "πλήσσω",
+      "translit": "plēssō",
+      "significado": "Herir, golpear; de este verbo viene el sustantivo plaga (MacArthur).",
+      "fuentes": [
+        "macarthur_08#9"
+      ]
+    },
+    {
+      "ref": "8:12",
+      "griego": "σκότος",
+      "translit": "skótos",
+      "significado": "Oscuridad, tinieblas: marco de acontecimientos sobrenaturales y señal de juicio (Diccionario Mundo Hispano).",
+      "fuentes": [
+        "dbmh_02#20"
+      ]
+    },
+    {
+      "ref": "8:13",
+      "griego": "ἀετοῦ",
+      "translit": "aetoû",
+      "significado": "De un águila: lo que dice el griego del día donde la RVR1960 traduce «ángel», siguiendo otros manuscritos (Carballosa, McGee, Larkin).",
+      "fuentes": [
+        "carballosa_07#13",
+        "mcgee_06_a#15",
+        "larkin_02_b#28"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Jesús lo había anunciado: habrá señales en el sol, en la luna y en las estrellas, y angustia de las gentes antes de su venida. MacArthur, Wiersbe, Larkin y McGee leen la cuarta trompeta a la luz de esas palabras. Lo que el cielo muestra no toma por sorpresa al Señor: él lo dijo antes.", "refs": ["Lc 21:25-28", "Mt 24:29", "Mr 13:24"], "fuentes": ["macarthur_08#10", "r1_024_b#25", "larkin_02_b#27", "mcgee_06_a#13"]},
-    {"texto": "En Mara, Dios endulzó las aguas amargas con un árbol; McGee ve en ese árbol una figura de la cruz. La tercera trompeta muestra lo contrario: aguas dulces que se vuelven amargas. Lo que endulza la amargura del pecado es la cruz de Cristo, no el mundo que la rechaza.", "refs": ["Éx 15:23-25"], "fuentes": ["mcgee_06_a#12", "mcgeer_06#37", "carballosa_07#11"]},
-    {"texto": "Las tinieblas son juicio, pero los que son de Cristo fueron librados del poder de la oscuridad y llamados a su luz admirable (Mundo Hispano). Y MacArthur recuerda hacia dónde va todo: Dios pondrá fin a los días del usurpador y establecerá el reino de Cristo.", "refs": ["Col 1:13", "1 P 2:9"], "fuentes": ["cbmh_05_a#27", "macarthur_07_b#25"]}
+    {
+      "texto": "Jesús lo había anunciado: habrá señales en el sol, en la luna y en las estrellas antes de su venida. MacArthur, Wiersbe, Larkin y McGee leen la cuarta trompeta a la luz de esas palabras: nada de esto toma por sorpresa al Señor.",
+      "refs": [
+        "Lc 21:25-28",
+        "Mt 24:29",
+        "Mr 13:24"
+      ],
+      "fuentes": [
+        "macarthur_08#10",
+        "r1_024_b#25",
+        "larkin_02_b#27",
+        "mcgee_06_a#13"
+      ]
+    },
+    {
+      "texto": "En Mara, Dios endulzó las aguas amargas con un árbol; McGee ve en ese árbol una figura de la cruz. La tercera trompeta muestra lo contrario: aguas dulces que se vuelven amargas. Lo que endulza la amargura del pecado es la cruz de Cristo, no el mundo que la rechaza.",
+      "refs": [
+        "Éx 15:23-25"
+      ],
+      "fuentes": [
+        "mcgee_06_a#12",
+        "mcgeer_06#37",
+        "carballosa_07#11"
+      ]
+    },
+    {
+      "texto": "Las tinieblas son juicio, pero los que son de Cristo fueron librados del poder de la oscuridad y llamados a su luz admirable (Mundo Hispano). Y MacArthur recuerda hacia dónde va todo: Dios pondrá fin a los días del usurpador y establecerá el reino de Cristo.",
+      "refs": [
+        "Col 1:13",
+        "1 P 2:9"
+      ],
+      "fuentes": [
+        "cbmh_05_a#27",
+        "macarthur_07_b#25"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Catástrofes físicas o símbolos del juicio?",
       "posturas": [
-        {"postura": "Hechos literales y físicos, como lo fueron las plagas de Egipto; no simbolizan juicios políticos ni sucesos locales del pasado. Se proponen erupciones, meteoritos o cometas, sin certeza.", "quien": "MacArthur, McGee, Larkin, Ryrie, Carballosa y Wiersbe (premileniales dispensacionales); Guzik", "fuentes": ["macarthur_08#1", "mcgeer_06#35", "larkin_02_b#23", "r1_032#22", "carballosa_07#9", "r1_024_b#24", "web_08#5"]},
-        {"postura": "Catástrofes concretas sobre el mundo físico, pero descritas con la libertad del estilo apocalíptico, que no se deja reducir a un fenómeno preciso; rechaza ver en los árboles y la hierba a personas de alto o bajo rango.", "quien": "Ladd (premilenial histórico)", "fuentes": ["ladd_04_a#6", "ladd_04_a#9", "ladd_04_a#7"]},
-        {"postura": "Imágenes tomadas de los símbolos del juicio del Antiguo Testamento, difíciles de entender literalmente, cuyo sentido está en la impresión que causaban al leerse en voz alta; ciertos comentaristas ven alusiones a desastres que contribuyeron a la caída de Roma.", "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)", "fuentes": ["cbmh_05_a#23", "cbmh_05_a#26", "cbmh_05_a#24"]},
-        {"postura": "Lectura histórica: invasiones y potencias que irrumpen en el imperio y la apostasía de sus autoridades. Clarke registra identificaciones como los bárbaros, Atila, Genserico o Arrio.", "quien": "Kœchlin; los intérpretes que cita Clarke (Guzik, que los recoge, duda de todos)", "fuentes": ["r2_023_b#4", "web_08#5", "web_08#7"]}
+        {
+          "postura": "Hechos literales y físicos, como las plagas de Egipto; se proponen erupciones, meteoritos o cometas, sin certeza.",
+          "quien": "MacArthur, McGee, Larkin, Ryrie, Carballosa y Wiersbe (premileniales dispensacionales); Guzik",
+          "fuentes": [
+            "macarthur_08#1",
+            "mcgeer_06#35",
+            "larkin_02_b#23",
+            "r1_032#22",
+            "carballosa_07#9",
+            "r1_024_b#24",
+            "web_08#5"
+          ]
+        },
+        {
+          "postura": "Catástrofes concretas sobre el mundo físico, descritas con la libertad del estilo apocalíptico; los árboles y la hierba no son personas de alto o bajo rango.",
+          "quien": "Ladd (premilenial histórico)",
+          "fuentes": [
+            "ladd_04_a#6",
+            "ladd_04_a#9",
+            "ladd_04_a#7"
+          ]
+        },
+        {
+          "postura": "Símbolos del juicio tomados del Antiguo Testamento, cuyo sentido está en la impresión que causaban al leerse en voz alta; ciertos comentaristas ven alusiones a la caída de Roma.",
+          "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
+          "fuentes": [
+            "cbmh_05_a#23",
+            "cbmh_05_a#26",
+            "cbmh_05_a#24"
+          ]
+        },
+        {
+          "postura": "Lectura histórica: potencias que irrumpen en el imperio y apostasía de sus autoridades; Clarke registra identificaciones como Atila, Genserico o Arrio.",
+          "quien": "Kœchlin; los intérpretes que cita Clarke (Guzik, que los recoge, duda de todos)",
+          "fuentes": [
+            "r2_023_b#4",
+            "web_08#5",
+            "web_08#7"
+          ]
+        }
       ],
-      "nota": "Todos coinciden en lo central: Dios es quien envía estos juicios, los limita, y los hombres sabrán que vienen de él (Guzik; MacArthur)."
+      "nota": "Todos coinciden en lo central: Dios envía estos juicios y los limita."
     },
     {
       "tema": "¿Sellos, trompetas y copas vienen uno después del otro o cuentan lo mismo?",
       "posturas": [
-        {"postura": "Consecutivos y en crescendo: el séptimo sello contiene las siete trompetas y la séptima trompeta anuncia la venida de Cristo y abarca las copas.", "quien": "Carballosa (premilenial dispensacional); MacArthur sigue la misma secuencia", "fuentes": ["carballosa_07#8", "macarthur_08#1"]},
-        {"postura": "Series paralelas, que recorren en buena medida el mismo tiempo con imágenes distintas.", "quien": "Otros comentaristas que menciona Carballosa (remite a Johnson); Mundo Hispano y Earle (Beacon) destacan las semejanzas intencionales de diseño entre sellos y trompetas", "fuentes": ["carballosa_07#8", "cbmh_05_a#22", "beacon_03_c#4"]}
+        {
+          "postura": "Consecutivos y en crescendo: el séptimo sello contiene las siete trompetas, y la séptima trompeta, las copas.",
+          "quien": "Carballosa (premilenial dispensacional); MacArthur sigue la misma secuencia",
+          "fuentes": [
+            "carballosa_07#8",
+            "macarthur_08#1"
+          ]
+        },
+        {
+          "postura": "Series paralelas que recorren en buena medida el mismo tiempo.",
+          "quien": "Otros comentaristas que menciona Carballosa; Mundo Hispano y Earle (Beacon) destacan las semejanzas de diseño entre sellos y trompetas",
+          "fuentes": [
+            "carballosa_07#8",
+            "cbmh_05_a#22",
+            "beacon_03_c#4"
+          ]
+        }
       ],
       "nota": "El anexo T6 desarrolla la discusión."
     },
     {
       "tema": "¿Quién recibe estos juicios?",
       "posturas": [
-        {"postura": "Las trompetas caen sobre la tribulación futura y tienen a Israel en la mira, a la inversa de Egipto, donde los juicios iban contra Faraón.", "quien": "Larkin (premilenial dispensacional)", "fuentes": ["larkin_02_b#23"]},
-        {"postura": "Caen sobre la sociedad rebelde, «los que moran en la tierra», mientras la iglesia sellada es de alguna manera preservada.", "quien": "Ladd (premilenial histórico); Beasley-Murray llama a esos moradores el mundo no cristiano", "fuentes": ["ladd_04_a#10", "henry_01_b#23"]}
+        {
+          "postura": "Juicios de la tribulación futura que, a la inversa de Egipto, tienen a Israel en la mira.",
+          "quien": "Larkin (premilenial dispensacional)",
+          "fuentes": [
+            "larkin_02_b#23"
+          ]
+        },
+        {
+          "postura": "Caen sobre la sociedad rebelde mientras la iglesia sellada es de alguna manera preservada (9:4).",
+          "quien": "Ladd (premilenial histórico); Beasley-Murray llama a esos moradores el mundo no cristiano",
+          "fuentes": [
+            "ladd_04_a#10",
+            "henry_01_b#23"
+          ]
+        }
       ],
-      "nota": "Todos leen «los que moran en la tierra» como los que rechazan a Dios; difieren en el marco (ver anexos T7 y T9)."
+      "nota": "Todos leen «los que moran en la tierra» como los que rechazan a Dios; difieren en el marco (anexos T7 y T9)."
     }
   ],
   "biblioteca": [
-    {"texto": "Guzik resume el sentido de estas cuatro trompetas: golpean los medios ordinarios de subsistencia (comida, agua) y de comodidad (la luz, el ritmo de los días). El hombre ve el orden de la creación como fuerzas impersonales; Dios proclama su señorío rompiéndolo, como la humildad que trae un terremoto. Y a la vez muestra misericordia: por ahora perdona más de lo que castiga.", "autor": "David Guzik", "obra": "Guía de estudio de Apocalipsis 8 (Enduring Word, 2016)", "pagina": "web", "tipo": "doctrina", "fuentes": ["web_08#9"]},
-    {"texto": "Earle recoge una ilustración de D. W. Richardson: las aguas del mundo se vuelven la esencia de la amargura para quienes las adoran. Cuenta el caso de un famoso caricaturista norteamericano que dejó una gran fortuna y se quitó la vida, cansado de buscar cómo llenar las horas, después de pasar de esposa en esposa y de país en país tratando de huir de sí mismo.", "autor": "Ralph Earle", "obra": "Comentario Bíblico Beacon", "pagina": "pág. PDF 383", "tipo": "ilustracion", "fuentes": ["beacon_03_c#3"]},
-    {"texto": "MacArthur ve en estos juicios una respuesta a la idolatría de la creación: los que cambiaron la verdad de Dios por la mentira y adoraron a la criatura antes que al Creador (Ro 1:25). Reconoce que el hombre caído falló en cuidar la creación (Gn 2:15), pero ese daño palidece ante lo que Dios hará, hasta los cielos nuevos y la tierra nueva (2 P 3:10; Ap 21:1).", "autor": "John MacArthur", "obra": "Comentario MacArthur del Nuevo Testamento: Apocalipsis", "pagina": "pág. PDF 138; 140", "tipo": "aplicacion", "fuentes": ["macarthur_08#4", "macarthur_07_b#24"]},
-    {"texto": "Sproul usa 8:13 para explicar un recurso hebreo: repetir algo tres veces lo eleva al superlativo, como el templo de Jehová repetido en Jeremías 7:4. Solo un atributo de Dios se repite así en la Biblia: santo, santo, santo.", "autor": "R. C. Sproul", "obra": "La santidad de Dios", "pagina": "pág. PDF 17", "tipo": "doctrina", "fuentes": ["r2_003_a#23"]}
+    {
+      "texto": "Earle recoge una ilustración de D. W. Richardson: las aguas del mundo se vuelven amargas para quienes las adoran, como para un famoso caricaturista que dejó una fortuna y se quitó la vida tras pasar de esposa en esposa y de país en país tratando de huir de sí mismo.",
+      "autor": "Ralph Earle",
+      "obra": "Comentario Bíblico Beacon",
+      "pagina": "pág. PDF 383",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "beacon_03_c#3"
+      ]
+    },
+    {
+      "texto": "MacArthur ve en estos juicios una respuesta a la idolatría de la creación, a quienes adoraron a la criatura antes que al Creador (Ro 1:25). Reconoce que el hombre falló en cuidarla (Gn 2:15), pero ese daño palidece ante lo que Dios hará antes de los cielos nuevos y la tierra nueva.",
+      "autor": "John MacArthur",
+      "obra": "Comentario MacArthur del Nuevo Testamento: Apocalipsis",
+      "pagina": "pág. PDF 138; 140",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "macarthur_08#4",
+        "macarthur_07_b#24"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Éx 7-10", "nota": "Las plagas de Egipto: granizo (9:22-26), el Nilo hecho sangre (7:20-21) y las tinieblas (10:21-23). Larkin cree que al menos cinco de ellas se repiten en el Apocalipsis.", "fuentes": ["larkin_02_b#23", "beacon_03_c#1", "carballosa_07#12"]},
-    {"ref": "Éx 15:23-25", "nota": "Mara: Dios endulza las aguas amargas; la tercera trompeta hace lo inverso.", "fuentes": ["carballosa_07#11", "cbmh_05_a#25"]},
-    {"ref": "Jer 9:15", "nota": "Dios da a comer ajenjo y a beber aguas de hiel al pueblo rebelde (también 23:15).", "fuentes": ["ladd_04_a#8", "macarthur_08#7"]},
-    {"ref": "Jl 2:30-31", "nota": "Fuego, sangre y astros oscurecidos como señales del día del Señor; Larkin y MacArthur lo ven cumplirse aquí.", "fuentes": ["larkin_02_b#23", "macarthur_08#2", "macarthur_08#10"]},
-    {"ref": "Ez 33", "nota": "El atalaya que toca la trompeta para que el pueblo se arrepienta: la clave de propósito que propone Mounce (citado por Carballosa).", "fuentes": ["carballosa_07#9"]},
-    {"ref": "Gn 8:22", "nota": "Mientras la tierra permanezca no cesarán el día y la noche: McGee nota que aquí el día sigue, aunque disminuido.", "fuentes": ["mcgee_06_a#13", "mcgeer_07#3"]}
+    {
+      "ref": "Éx 7-10",
+      "nota": "Las plagas de Egipto: granizo (9:22-26), el Nilo hecho sangre (7:20-21) y tinieblas (10:21-23).",
+      "fuentes": [
+        "larkin_02_b#23",
+        "beacon_03_c#1",
+        "carballosa_07#12"
+      ]
+    },
+    {
+      "ref": "Jer 9:15",
+      "nota": "Dios da a comer ajenjo y a beber aguas de hiel al pueblo rebelde (también 23:15).",
+      "fuentes": [
+        "ladd_04_a#8",
+        "macarthur_08#7"
+      ]
+    },
+    {
+      "ref": "Jl 2:30-31",
+      "nota": "Fuego, sangre y astros oscurecidos como señales del día del Señor; Larkin y MacArthur lo ven cumplirse aquí.",
+      "fuentes": [
+        "larkin_02_b#23",
+        "macarthur_08#2",
+        "macarthur_08#10"
+      ]
+    },
+    {
+      "ref": "Ez 33",
+      "nota": "El atalaya que toca la trompeta para que el pueblo se arrepienta: la clave de propósito que propone Mounce (citado por Carballosa).",
+      "fuentes": [
+        "carballosa_07#9"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Las trompetas salen de las oraciones de los santos. Lo que ustedes oran juntos en casa no se pierde: sube delante de Dios y forma parte de cómo él conduce la historia hacia su fin.", "fuentes": ["ladd_04_a#5"]},
-    {"texto": "Dios toca lo que damos por sentado: el pan, el agua, la luz, el ciclo de los días. Guzik dice que así proclama su señorío. Es una invitación a vivir agradecidos por lo cotidiano y a no confiar en la creación como si se sostuviera sola.", "fuentes": ["web_08#9", "macarthur_08#5"]},
-    {"texto": "La tercera parte es un aviso, no el final. Carballosa y Mounce comparan la trompeta con la del atalaya, y MacArthur recuerda Hebreos 3:7-8: no endurezcan el corazón. Si hay algo que Dios les viene señalando, el momento de responder es hoy.", "fuentes": ["carballosa_07#9", "macarthur_08#12"]},
-    {"texto": "La pregunta de Wiersbe para cerrar el día: ¿dónde está nuestra ciudadanía? Los que moran en la tierra viven para ella; los creyentes son peregrinos. Revisen juntos qué lugar ocupan en su casa las cosas de la tierra y cuál la esperanza del cielo.", "fuentes": ["r1_024_b#26", "carballosa_07#14"]}
+    {
+      "texto": "Las trompetas salen de las oraciones de los santos. Lo que ustedes oran juntos en casa no se pierde: sube delante de Dios y forma parte de cómo él conduce la historia hacia su fin.",
+      "fuentes": [
+        "ladd_04_a#5"
+      ]
+    },
+    {
+      "texto": "Dios toca lo que damos por sentado: el pan, el agua, la luz. Guzik dice que así proclama su señorío. Vivan agradecidos por lo cotidiano y no confíen en la creación como si se sostuviera sola.",
+      "fuentes": [
+        "web_08#9",
+        "macarthur_08#5"
+      ]
+    },
+    {
+      "texto": "La tercera parte es un aviso, no el final. Carballosa y Mounce comparan la trompeta con la del atalaya, y MacArthur recuerda Hebreos 3:7-8: no endurezcan el corazón. Si hay algo que Dios les viene señalando, el momento de responder es hoy.",
+      "fuentes": [
+        "carballosa_07#9",
+        "macarthur_08#12"
+      ]
+    },
+    {
+      "texto": "La pregunta de Wiersbe para cerrar el día: ¿dónde está nuestra ciudadanía? Los que moran en la tierra viven para ella; los creyentes son peregrinos. Revisen juntos qué lugar ocupan en su casa las cosas de la tierra y cuál la esperanza del cielo.",
+      "fuentes": [
+        "r1_024_b#26",
+        "carballosa_07#14"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué les dice de Dios que cada trompeta tenga un límite (la tercera parte)? ¿Cómo se combinan acá su justicia y su paciencia?",
@@ -239,11 +595,60 @@
     "Según los autores, «los que moran en la tierra» son los que viven para ella. ¿En qué se nota, en lo concreto de su semana, que su ciudadanía está en el cielo?"
   ],
   "para_orar": "Señor, Dios de la creación, gracias por el pan, el agua y la luz de cada día, que nos das aunque no lo merecemos. Gracias por tu paciencia, que todavía avisa antes de juzgar. Guardanos de vivir para la tierra; que nuestra ciudadanía esté en el cielo y que, mientras haya tiempo, podamos anunciar a otros la cruz de Cristo, la única que endulza las aguas amargas.",
-  "visuales": ["dg-septenarios", "dg-escuelas"],
-  "anexos": ["P5", "T6", "T4", "I4"],
+  "visuales": [
+    "dg-septenarios",
+    "dg-escuelas"
+  ],
+  "anexos": [
+    "P5",
+    "T6",
+    "T4",
+    "I4"
+  ],
   "profundizar": [
-    {"titulo": "Los días del hombre y el día del Señor", "texto": "MacArthur enmarca las trompetas en un esquema amplio: la era presente son los días del hombre, con libertad dentro de límites, y de Satanás, siempre bajo la tolerancia soberana de Dios. El día del Señor es el tiempo en que Dios derroca al usurpador, destruye el sistema mundial y establece el reino terrenal de Cristo, con una renovación completa del universo. Para él, antes de las trompetas el mundo ya habrá sufrido años de guerras, hambre y terremotos, y las trompetas serán peores.", "fuentes": ["macarthur_07_b#25"]},
-    {"titulo": "McGee, Govett y el pacto con Noé", "texto": "Comentando la cuarta trompeta, McGee cita Génesis 8:22 y a Robert Govett: el día sigue, aunque disminuido, y Dios pide cuentas a una humanidad que no cumplió el pacto de Génesis 9:6. De ahí McGee pasa a defender la pena capital y a opinar que el anticristo la abolirá. Es una opinión propia del autor, que los demás comentaristas del día no comparten ni discuten.", "fuentes": ["mcgee_06_a#14", "mcgeer_07#3"]},
-    {"titulo": "Cuántas veces la «tercera parte»", "texto": "Mounce (citado por Carballosa) cuenta doce menciones de la tercera parte en 8:7-12; Wiersbe, trece en los capítulos 8 y 9; Mundo Hispano, cinco solo en el versículo 12. Mounce agrega que, cuanto más intensas las plagas, mayor es la negativa a arrepentirse (9:20-21; 16:9, 11, 21).", "fuentes": ["carballosa_07#9", "r1_024_b#24", "cbmh_05_a#26"]}
+    {
+      "titulo": "Los días del hombre y el día del Señor",
+      "texto": "MacArthur enmarca las trompetas en un esquema amplio: la era presente son los días del hombre, con libertad dentro de límites, y de Satanás, siempre bajo la tolerancia soberana de Dios. El día del Señor es el tiempo en que Dios derroca al usurpador, destruye el sistema mundial y establece el reino terrenal de Cristo, con una renovación completa del universo. Para él, antes de las trompetas el mundo ya habrá sufrido años de guerras, hambre y terremotos, y las trompetas serán peores.",
+      "fuentes": [
+        "macarthur_07_b#25"
+      ]
+    },
+    {
+      "titulo": "McGee, Govett y el pacto con Noé",
+      "texto": "Comentando la cuarta trompeta, McGee cita Génesis 8:22 y a Robert Govett: el día sigue, aunque disminuido, y Dios pide cuentas a una humanidad que no cumplió el pacto de Génesis 9:6. De ahí McGee pasa a defender la pena capital y a opinar que el anticristo la abolirá. Es una opinión propia del autor, que los demás comentaristas del día no comparten ni discuten.",
+      "fuentes": [
+        "mcgee_06_a#14",
+        "mcgeer_07#3"
+      ]
+    },
+    {
+      "titulo": "Cuántas veces la «tercera parte»",
+      "texto": "Mounce (citado por Carballosa) cuenta doce menciones de la tercera parte en 8:7-12; Wiersbe, trece en los capítulos 8 y 9; Mundo Hispano, cinco solo en el versículo 12. Mounce agrega que, cuanto más intensas las plagas, mayor es la negativa a arrepentirse (9:20-21; 16:9, 11, 21).",
+      "fuentes": [
+        "carballosa_07#9",
+        "r1_024_b#24",
+        "cbmh_05_a#26"
+      ]
+    },
+    {
+      "titulo": "La sangre, el mar y la estrella: explicaciones naturales",
+      "texto": "La Biblia MacArthur sugiere que el granizo con sangre podría ser lava y vapor de erupciones, con lluvias teñidas por polvo y gases; que el mar hecho sangre podría ser una marea roja; y que la estrella sería un cometa que se desintegra. MacArthur imagina tsunamis que hunden naves e inundan puertos, y frío y tormentas por la pérdida de luz, que será temporal: más adelante Dios aumentará el calor del sol (16:8-9). Larkin y Wiersbe creen probable que el mar sea el Mediterráneo o todos los mares, respectivamente.",
+      "fuentes": [
+        "mbiblia_01_d#5",
+        "mbiblia_01_d#6",
+        "mbiblia_01_d#7",
+        "macarthur_08#5",
+        "macarthur_08#9",
+        "larkin_02_b#25",
+        "r1_024_b#24"
+      ]
+    },
+    {
+      "titulo": "Guzik: orden de la creación y señorío de Dios",
+      "texto": "Guzik explica que el hombre ve el orden de la creación como fuerzas impersonales, y que Dios proclama su señorío rompiéndolo, como la humildad que trae un terremoto; a la vez, por ahora perdona más de lo que castiga.",
+      "fuentes": [
+        "web_08#9"
+      ]
+    }
   ]
 }

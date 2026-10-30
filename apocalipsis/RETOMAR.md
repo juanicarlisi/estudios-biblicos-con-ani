@@ -12,3 +12,11 @@
 4. App: adaptar `genesis/app/plantilla.html` (barra de progreso, mapas y diagramas en la página, anexos, griego en vez de hebreo).
 
 **Pendiente de decidir:** los PDF de clases de TTL (Evangelio completo 14–15, Iglesia gloriosa 14) quedaron excluidos por prudencia; el curso «Maranata» y el de MiSion son de pago y no se tocaron. No hay trabajo de Santiago en el repositorio.
+
+
+## Estado al 30-10-2026 (pausa pedida por el fundador: «Luego continuamos»)
+- Días: 94 de 95 escritos y validados (OK). Falta el día 95 (agente en curso al pausar).
+- Lanzados al pausar (pueden haber dejado archivos sin commitear en `trabajo/articulos/` y `trabajo/diagramas/`):
+  - Diagramas: A (dg-estructura, dg-septenarios, dg-cartas), B (dg-escuelas, dg-milenio, dg-tribulacion), C (dg-candelero, dg-cristo, dg-ramera), D (dg-numeros, dg-tiempos, dg-cronologia). Falta dg-jerusalen (días 89-91 ya existen).
+  - Artículos: I1-I5, P1-P6, T1-T3. Faltan P7-P10 y T4-T14.
+- Al retomar: `ls trabajo/dias trabajo/articulos trabajo/diagramas`, validar (`validar_dia.py`, `validar_articulo.py ID`, `validar_diagrama.py`), relanzar lo que falte, luego construir la app (`apocalipsis/app/plantilla.html` + `construir.py`, modelo en `genesis/app/`), cotejos finales y commit.

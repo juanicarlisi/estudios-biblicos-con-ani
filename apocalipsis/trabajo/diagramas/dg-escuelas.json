@@ -1,0 +1,69 @@
+{
+  "id": "dg-escuelas",
+  "titulo": "Cuatro modos de leer el Apocalipsis (y una mezcla)",
+  "bajada": "Qué sostiene cada escuela, cuándo ubica lo que Juan vio, qué le reconocen y qué le objetan los autores, y quiénes la siguen.",
+  "tipo": "tabla",
+  "columnas": ["Escuela", "Cómo lee el libro", "Cuándo ubica los hechos", "Ventaja que señalan", "Objeción que señalan", "Quiénes la sostienen"],
+  "filas": [
+    {
+      "celdas": [
+        "Preterista («del pasado»)",
+        "Habla de su propia época: la lucha de la iglesia con Roma y el judaísmo, contada en visiones. La bestia sería Roma o Nerón (su nombre en hebreo suma 666).",
+        "En el siglo I, en torno a la caída de Jerusalén (70 d.C.), o hasta Constantino. El moderado espera aún la segunda venida; el radical dice que ya ocurrió.",
+        "Lo hace relevante para los primeros lectores (Mundo Hispano) y ayuda a entender el vocabulario y el trasfondo histórico (Grau).",
+        "El libro se declara profecía (1:3; 22:7) y la segunda venida no ocurrió en el siglo I (MacArthur); depende de fechar el libro antes del 70 (Benware); poco le dice a hoy (McGee).",
+        "Sproul (Ligonier) y Gentry, preteristas moderados según Benware; antes, Alcázar (1614), Grotius, Farrar y Summers (Carballosa); muchos eruditos críticos (Ladd, McGee)."
+      ],
+      "ref": "1:1",
+      "fuentes": ["carballosa_01#30", "ladd_01_a#8", "dbmh_01_a#5", "r1_005#5", "r1_012#19", "web_14#1", "cbmh_01_a#16", "macarthur_01#34", "mbiblia_01_a#9", "r1_005#12", "mcgee_01_a#9", "web_13#21", "web_20#1"]
+    },
+    {
+      "celdas": [
+        "Historicista (histórica)",
+        "Profecía simbólica de toda la historia de la iglesia: los símbolos señalan hechos concretos de Occidente, como Roma, el papado, el islam o la Reforma.",
+        "Desde los días de Juan hasta la segunda venida, en orden; desde el capítulo 4 (o el 6), como esquema de la historia por períodos.",
+        "Da una visión poderosa de la soberanía de Dios sobre la historia (Mundo Hispano).",
+        "No hay líneas fijas y sus intérpretes se contradicen (Ladd; Walvoord, citado por Carballosa); deja sin mensaje a las iglesias de Asia (Ladd, MacArthur).",
+        "Joaquín de Fiore; los reformadores (la bestia como el papado) y los puritanos Brightman, Mede, Goodwin y Owen; Bengel, Elliot y Barnes. Fue la más popular hasta el siglo XIX."
+      ],
+      "fuentes": ["ladd_01_a#9", "macarthur_01#34", "dbmh_01_a#5", "beacon_01_a#17", "web_14#1", "r1_027#13", "cbmh_01_a#16", "carballosa_01#33", "r1_027#10", "r2_039#22", "beacon_04_a#7", "henry_01_a#3", "cpe_07#2"]
+    },
+    {
+      "celdas": [
+        "Futurista",
+        "Profecía de lo que vendrá, leída con el método gramático-histórico: los juicios caen de verdad sobre la tierra, en línea con Daniel 9:27 y Mateo 24.",
+        "Del capítulo 4 (o del 6) en adelante todo es futuro: tribulación, segunda venida, milenio y estado eterno. Muchos toman 1:19 como bosquejo del libro.",
+        "Trata el libro como profecía, con el mismo método que el resto de la Escritura (MacArthur, Biblia MacArthur, Carballosa).",
+        "Le quitaría el consuelo a la iglesia del siglo I (Morris, Summers, Grau, Hendriksen, Mounce y Milligan, según Carballosa); en su forma popular ignora el marco histórico (Beasley-Murray).",
+        "MacArthur, la Biblia MacArthur, MacArthur y Mayhue, McGee, Larkin, Carballosa, Wiersbe y Guzik (premileniales dispensacionales); Walvoord. Grau la remonta al jesuita Ribera (1603)."
+      ],
+      "ref": "1:19",
+      "fuentes": ["carballosa_01#36", "macarthur_01#34", "mbiblia_01_a#9", "r1_035#18", "dbmh_01_a#6", "web_14#1", "carballosa_01#41", "carballosa_01#37", "henry_01_a#3", "r1_012#21", "mcgee_01_a#11", "larkin_01_a#1", "r1_024_a#7", "web_03_a#6", "r1_012#20", "macarthur_01#35"]
+    },
+    {
+      "celdas": [
+        "Idealista (simbólica o espiritual)",
+        "Un cuadro simbólico del conflicto de siempre entre Dios y el mal: no describe hechos concretos sino principios con los que Dios actúa y el triunfo de Cristo.",
+        "Sin cronología específica: lo que describe se repite en cada época.",
+        "Acierta al ver que Dios actúa con principios constantes (Carballosa); Ladd le reconoce algo de verdad, como el conflicto en los cielos del capítulo 12.",
+        "Niega cumplimientos concretos y el regreso personal de Cristo como hecho futuro (Carballosa); separa el libro de la historia (MacArthur); el símbolo apocalíptico apunta a hechos del fin (Ladd).",
+        "Las fuentes la describen sin nombrar defensores. Cerca está la lectura simbólica y recapitulativa: Beale (citado por la Coalición), Hendriksen, Stott y 9Marcas."
+      ],
+      "fuentes": ["carballosa_01#40", "ladd_01_a#10", "web_14#1", "dbmh_01_a#5", "macarthur_01#34", "mbiblia_01_a#9", "r1_024_a#7", "cpe_03#2", "cpe_03#1", "carballosa_19#13", "r1_030#26", "web_07#4"]
+    },
+    {
+      "celdas": [
+        "Combinación (las fuentes no le dan nombre de escuela)",
+        "Une lecturas: lo que Juan escribió para las iglesias bajo Roma apunta también al fin. Para Ladd, la bestia es Roma y a la vez el Anticristo final.",
+        "Cumplimiento parcial en el Imperio romano, continuado a lo largo de la era de la iglesia y completo en el futuro (Earle).",
+        "Para Earle, la única posición que hace justicia a todos los factores; permite leer como los primeros destinatarios sin perder el cumplimiento futuro (Beasley-Murray).",
+        "Las fuentes no le formulan una objeción propia. Sproul advierte que los cuatro enfoques son casi incompatibles entre sí y que alguno está equivocado.",
+        "Earle en el Beacon (preterista, historicista y futurista); Ladd y Beasley-Murray (preterista y futurista); Guzik (futurista de fondo, con algo de los otros tres); un artículo de la Coalición."
+      ],
+      "ref": "22:10",
+      "fuentes": ["beacon_05_b#17", "ladd_01_a#14", "henry_01_a#4", "web_03_a#6", "cpe_02#16", "web_14#1"]
+    }
+  ],
+  "nota": "Earle pide tolerancia: las escuelas las sostienen creyentes igualmente piadosos; Carballosa pide respeto entre intérpretes, y el Comentario Mundo Hispano expone las cuatro sin elegir y recuerda que las verdades del libro no dependen de adoptar una. Carballosa suma otras escuelas (crítica, alegórica, tópica o cíclica). Varios futuristas (McGee, Larkin, J. B. Smith) leen las siete cartas como períodos de la historia de la iglesia. Sproul observa que de cómo se lee el libro dependen las posturas sobre el milenio y la tribulación (ver dg-milenio y dg-tribulacion).",
+  "dias": [1, 21, 28, 29, 30, 31, 37, 38, 42, 43, 44, 46, 48, 51, 52, 53, 55, 56, 58, 62, 64, 65, 66, 67, 68, 69, 77, 93]
+}

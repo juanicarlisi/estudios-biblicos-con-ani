@@ -4,9 +4,12 @@ set -e
 V=/home/user/trabajo/varon
 R=/home/user/estudios-biblicos-con-ani/varon/trabajo
 mkdir -p "$R"
-for d in notas web plan textos dias insumos revision scripts; do
+for d in notas web plan textos revision scripts; do
   if [ -d "$V/$d" ]; then rm -rf "$R/$d"; cp -r "$V/$d" "$R/$d"; fi
 done
+# días definitivos (sin borradores ni pruebas) y los insumos se regeneran con insumos.py desde notas/ y plan/
+rm -rf "$R/dias" "$R/insumos"; mkdir -p "$R/dias"; cp "$V"/dias/dia_*.json "$R/dias/"
+rm -rf "$R/revision/verif"
 mkdir -p "$R/biblia"; [ -f "$V/biblia/rvr.json" ] && cp "$V/biblia/rvr.json" "$R/biblia/"
 cp "$V/bloques/_fuentes.json" "$R/fuentes.json"
 cp "$V/RUNS.md" "$R/"

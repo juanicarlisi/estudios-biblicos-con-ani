@@ -134,7 +134,9 @@ def main():
     ayuda = json.load(open(f'{V}/web/ayuda.json')) if os.path.exists(f'{V}/web/ayuda.json') else {'temas': {}}
     for d in dias.values():
         texto = ' '.join(recoger_textos(d, [])).lower()
-        d['ayuda'] = [k for k, t in ayuda['temas'].items() if re.search(t['patron'], texto)]
+        cabeza = ' '.join([d.get('titulo', ''), d.get('bajada', ''), d.get('entrada', {}).get('texto', '')]).lower()
+        # el recuadro aparece solo si el tema está en el título, la bajada o la entrada, o si el día lo nombra 4 veces o más
+        d['ayuda'] = [k for k, t in ayuda['temas'].items() if re.search(t['patron'], cabeza) or len(re.findall(t['patron'], texto)) >= 4]
     ayuda_app = {'consultado': ayuda.get('consultado', ''), 'temas': {k: {'titulo': t['titulo'], 'lineas': t['lineas']} for k, t in ayuda['temas'].items()}}
     textos.setdefault('como-usar', {'ojo': 'Guía', 'titulo': 'Cómo usar el estudio', 'html': '<p>Un día por vez: leé el pasaje, recorré el estudio y terminá con las preguntas y la oración.</p>'})
     series = json.load(open(f'{V}/web/series.json')) if os.path.exists(f'{V}/web/series.json') else None

@@ -17,6 +17,8 @@ def nodo(x, ruta):
 
 
 def main():
+    BASE = 'dias' if '--base' in sys.argv else 'borradores'
+    sys.argv = [a for a in sys.argv if a not in ('--base', 'dias')]
     cambios, aplicados, borrados, fallos = {}, 0, 0, 0
     for run in sys.argv[1:]:
         fs = glob.glob(f'/root/.claude/projects/**/subagents/workflows/{run}/journal.jsonl', recursive=True)
@@ -35,7 +37,7 @@ def main():
                     for c in v['cambios']:
                         cambios.setdefault(int(c['dia']), []).append(c)
     for d, cs in cambios.items():
-        fn = f'{V}/dias/borradores/dia_{d:03d}.json'
+        fn = f'{V}/dias/dia_{d:03d}.json' if BASE == 'dias' else f'{V}/dias/borradores/dia_{d:03d}.json'
         x = json.load(open(fn))
         borrar = []
         for c in cs:

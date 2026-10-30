@@ -42,3 +42,4 @@
 - Recorte aplicado (85 días). Reparar 180 días en 30 grupos de 6: wf_78ee3341-6a9 wf_c777fa3f-c67 wf_76f6462c-6a0 wf_29c5977b-b02 wf_df3b849e-20b → aplicar_reparaciones.py (los 5) → verificar_dia.py $(cat plan/a_verificar.txt) → promover.py. Definitivos: 332.
 - Aceptados a mano (solo 'apoyo' en la entrada, que es un gancho al lector): 386, 387, 450, 487 (plan/aceptados_manual.json). Recortes: 85 días. Reparaciones: 4 rondas agrupadas.
 - 31-10: 512 días definitivos (verificar_dia.py). Continuidad (57 ventanas de 10 días, 1 agente c/u): wf_46ad673f-6c7 wf_428140e8-ce9 wf_fb0b2ff6-58b → aplicar_continuidad.py (los 3) → verificar_dia.py --dias → rvr_desde_cache.py → construir.py → pruebas.
+- Continuidad aplicada (935 correcciones de 963). Reparación final sobre dias/ (16 días): wf_0e279dd1-d99 → aplicar_reparaciones.py --base dias wf_0e279dd1-d99 → verificar_dia.py --dias → rvr_desde_cache.py → construir.py

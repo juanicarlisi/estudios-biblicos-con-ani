@@ -3,142 +3,559 @@
   "desde": "3:1",
   "hasta": "3:2",
   "titulo": "Sardis: fama de viva, pero muerta",
-  "minutos": {"lectura": 1, "estudio": 25},
+  "minutos": {
+    "lectura": 1,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "Ayer terminó la carta a Tiatira, la cuarta. Allí Jesús se había presentado como Juez; a Sardis, aunque el juicio también está cerca, se presenta de otra manera: como el que obra en su iglesia por su Espíritu y por sus mensajeros (MacArthur).",
+    "antes": "Ayer terminó la carta a Tiatira, la cuarta, donde Jesús se había presentado como Juez. A Sardis, aunque el juicio también está cerca, se presenta como el que obra en su iglesia por su Espíritu y por sus mensajeros (MacArthur).",
     "ahora": "Empieza la quinta carta. Hoy leemos cómo se presenta Jesús, su diagnóstico (no hay elogio: va directo al reproche) y sus primeras órdenes: despertar y afirmar lo que todavía queda.",
-    "donde": "Sardis, siguiendo el camino del correo imperial desde Tiatira, unos 45 a 50 km hacia el sur y sudeste (según el autor), en el valle del río Hermo, al pie del monte Tmolo. La ciudad antigua ocupaba una acrópolis natural de unos 450 a 500 metros sobre el valle; la nueva creció al pie. Hoy queda allí la aldea de Sart.",
-    "cuando": "Según MacArthur, la iglesia probablemente nació durante los años de Pablo en Éfeso, cuando toda Asia oyó la Palabra (Hch 19:10). Al recibir la carta, la ciudad ya había pasado sus mejores días: un terremoto la destruyó en el año 17 d. C. y se reconstruyó con ayuda del emperador Tiberio.",
+    "donde": "Sardis, siguiendo el camino del correo imperial desde Tiatira, unos 45 a 50 km hacia el sur y sudeste (según el autor), en el valle del río Hermo. La ciudad antigua ocupaba una acrópolis natural de unos 450 a 500 metros sobre el valle; la nueva creció al pie. Hoy queda allí la aldea de Sart.",
+    "cuando": "Según MacArthur, la iglesia probablemente nació durante el ministerio de Pablo en Éfeso (Hch 19:10). Al recibir la carta, la ciudad ya había pasado sus mejores días: un terremoto la destruyó en el año 17 d. C. y se reconstruyó con ayuda del emperador Tiberio.",
     "despues": "Mañana (3:3-6) Jesús completa el remedio: acordarse, guardar lo recibido y arrepentirse; advierte que, si no velan, vendrá como ladrón; y reconoce que unas pocas personas no habían manchado sus vestiduras.",
-    "fuentes": ["macarthur_04_a#8", "cbmh_03_a#21", "beacon_02_b#1", "macarthur_04_a#11", "mbiblia_01_b#16", "macarthur_04_a#9", "macarthur_04_a#13", "beacon_02_b#8", "carballosa_03_b#30", "cpe_03#8"]
+    "fuentes": [
+      "macarthur_04_a#8",
+      "cbmh_03_a#21",
+      "beacon_02_b#1",
+      "macarthur_04_a#11",
+      "mbiblia_01_b#16",
+      "macarthur_04_a#9",
+      "macarthur_04_a#13",
+      "beacon_02_b#8",
+      "carballosa_03_b#30",
+      "cpe_03#8"
+    ]
   },
   "versiculo_clave": {
     "ref": "3:1",
     "porque": "En una sola línea está todo el drama de Sardis: lo que la gente veía («nombre de que vives») y lo que veía Jesús («estás muerto»)."
   },
   "panorama": {
-    "texto": "Sardis era una iglesia con buena fama: activa, conocida por sus obras, sin persecución, sin herejías a la vista y sin escándalos. Jesús, que tiene la plenitud del Espíritu y sostiene a sus iglesias, mira más allá de la fama y da el veredicto más duro de las siete cartas: «estás muerto». La ciudad, que había perdido dos veces su fortaleza inexpugnable por no tener a nadie de guardia, servía de espejo: la iglesia también se había dormido confiada. Pero el diagnóstico no es el final: todavía queda algo que despertar y afirmar, y sus obras, que impresionaban a la gente, tienen que llegar a estar completas delante de Dios.",
-    "fuentes": ["ladd_02_a#33", "ladd_02_a#31", "cbmh_03_a#23", "beacon_02_b#3", "web_02_a#2", "ladd_02_a#34", "web_02_a#5", "cbmh_03_a#26"]
+    "texto": "Sardis era una iglesia con buena fama: activa, sin persecución, sin herejías a la vista y sin escándalos. Jesús, que tiene la plenitud del Espíritu y sostiene a sus iglesias, mira más allá de la fama y da el veredicto más duro de las cartas: «estás muerto». La ciudad, que había perdido dos veces su fortaleza por no tener a nadie de guardia, era el espejo de una iglesia dormida y confiada. Pero todavía queda algo que despertar y afirmar, y obras que tienen que llegar a estar completas delante de Dios.",
+    "fuentes": [
+      "ladd_02_a#33",
+      "ladd_02_a#31",
+      "cbmh_03_a#23",
+      "beacon_02_b#3",
+      "web_02_a#2",
+      "ladd_02_a#34",
+      "web_02_a#5",
+      "cbmh_03_a#26"
+    ]
   },
   "secciones": [
     {
       "rango": "3:1",
       "titulo": "Una ciudad que vivía de su pasado",
       "notas": [
-        {"texto": "Sardis había sido una de las ciudades más poderosas del mundo antiguo: capital del reino de Lidia, donde reinó Creso, cuya riqueza se hizo proverbio («tan rico como Creso»). El oro del río Pactolo pasaba por sus refinerías (los arqueólogos hallaron cientos de crisoles, según Yamauchi, citado por MacArthur), y allí se acuñaron, al parecer, las primeras monedas de oro y plata: según Barclay, en Sardis nacía el dinero moderno. Estaba en un cruce de caminos y era centro de la lana: la producía, la teñía (decía haber descubierto el arte de teñirla) y hacía ropa con ella.", "fuentes": ["carballosa_03_b#28", "macarthur_04_a#10", "web_02_a#1", "cbmh_03_a#21", "mbiblia_01_b#16", "beacon_02_b#1", "mcgeer_03#22", "ladd_02_a#31"], "tipo": "contexto_historico"},
-        {"texto": "Pero esa gloria era pasado. Cayó ante los persas, pasó a Alejandro, a los seléucidas y finalmente a Roma, y nunca recuperó la independencia. Para cuando Juan escribe, era próspera pero en decadencia, en una relativa oscuridad. Charles dice que ninguna ciudad de Asia mostraba un contraste tan triste entre su esplendor pasado y su presente; Ramsay la llamó “la ciudad de la muerte”, y Barclay, “la ciudad de los decadentes”. Según Summers, sus habitantes vivían orgullosos de su pasado, arrogantes y confiados.", "fuentes": ["cbmh_03_a#21", "macarthur_04_a#13", "ladd_02_a#31", "beacon_02_b#1", "web_02_a#1"], "tipo": "contexto_historico"},
-        {"texto": "Su culto principal era el de Cibeles, la diosa madre (algunos autores la identifican con la Artemisa de Éfeso), adorada con inmoralidad sexual en un templo enorme. Los habitantes tenían fama de vida fácil, lujo y licencia, lo que hacía difícil vivir con pureza. Y MacArthur nota una ironía: cerca había aguas termales celebradas como el lugar donde los dioses mostraban su poder de dar vida a los muertos.", "fuentes": ["carballosa_03_b#28", "beacon_02_b#1", "web_02_a#1", "ladd_02_a#31", "macarthur_04_a#13"], "tipo": "cultura_costumbres"}
+        {
+          "texto": "Sardis había sido una de las ciudades más poderosas del mundo antiguo: capital del reino de Lidia, donde reinó Creso, cuya riqueza se hizo proverbio («tan rico como Creso»). Su riqueza venía del oro del río Pactolo, y allí se acuñaron, al parecer, las primeras monedas. Estaba en un cruce de caminos y era centro de la lana: la producía, la teñía (decía haber descubierto el arte de teñirla) y hacía ropa con ella.",
+          "fuentes": [
+            "carballosa_03_b#28",
+            "macarthur_04_a#10",
+            "web_02_a#1",
+            "cbmh_03_a#21",
+            "mbiblia_01_b#16",
+            "beacon_02_b#1",
+            "mcgeer_03#22",
+            "ladd_02_a#31"
+          ],
+          "tipo": "contexto_historico"
+        },
+        {
+          "texto": "Pero esa gloria era pasado. Cayó ante los persas, pasó a Alejandro, a los seléucidas y a Roma, y nunca recuperó la independencia; en tiempos de Juan era próspera pero en decadencia. Ramsay la llamó “la ciudad de la muerte”. Según Summers, sus habitantes vivían orgullosos de su pasado, arrogantes y confiados.",
+          "fuentes": [
+            "cbmh_03_a#21",
+            "macarthur_04_a#13",
+            "ladd_02_a#31",
+            "beacon_02_b#1",
+            "web_02_a#1"
+          ],
+          "tipo": "contexto_historico"
+        },
+        {
+          "texto": "Su culto principal era el de Cibeles, la diosa madre (algunos autores la identifican con la Artemisa de Éfeso), adorada con inmoralidad sexual. La ciudad tenía fama de vida fácil, lujo y licencia, lo que hacía difícil vivir con pureza. MacArthur nota una ironía: cerca había aguas termales celebradas como el lugar donde los dioses mostraban su poder de dar vida a los muertos.",
+          "fuentes": [
+            "carballosa_03_b#28",
+            "beacon_02_b#1",
+            "web_02_a#1",
+            "ladd_02_a#31",
+            "macarthur_04_a#13"
+          ],
+          "tipo": "cultura_costumbres"
+        }
       ]
     },
     {
       "rango": "3:1",
       "titulo": "«El que tiene los siete espíritus de Dios, y las siete estrellas»",
       "notas": [
-        {"texto": "Jesús toma un rasgo de la visión del capítulo 1, las siete estrellas (1:16, 20), y le suma uno del saludo inicial, los siete espíritus que están delante del trono (1:4). Los autores coinciden en que los siete espíritus son el Espíritu Santo en su plenitud: el siete habla de algo completo. MacArthur sugiere que el trasfondo puede ser Isaías 11:2 (el Espíritu del Señor con sus siete rasgos) o el candelabro de siete lámparas de Zacarías 4.", "fuentes": ["macarthur_04_a#8", "ladd_02_a#32", "cbmh_03_a#22", "carballosa_03_b#29", "beacon_02_b#2", "web_02_a#3"], "tipo": "explicacion_texto"},
-        {"texto": "La elección no es casual. A una iglesia muerta Jesús se presenta como el que tiene el Espíritu que da vida. Beasley-Murray, citado por el Comentario Mundo Hispano, recuerda que el judaísmo atribuía al Espíritu la profecía y la resurrección de los muertos. Carballosa subraya que «el que tiene» está en presente: un control y una dirección continuos. Lo que le faltaba a Sardis estaba disponible en abundancia, en las manos de su Señor.", "fuentes": ["ladd_02_a#32", "cbmh_03_a#22", "carballosa_03_b#29", "macarthur_04_a#8"], "tipo": "cristo_en_apocalipsis"},
-        {"texto": "Las siete estrellas son los mensajeros de las iglesias (1:20). Que Jesús las tenga muestra que las iglesias le pertenecen, que las cuida y que les pide cuentas: Ladd destaca que, aun caída en la complacencia, Sardis seguía siendo objeto de su cuidado; Thomas, citado por Carballosa, que los candeleros están para alumbrar, y Sardis no daba luz.", "fuentes": ["ladd_02_a#32", "carballosa_03_b#29", "cbmh_03_a#22", "beacon_02_b#2"], "tipo": "simbolo_numero"}
+        {
+          "texto": "Jesús toma un rasgo de la visión del capítulo 1, las siete estrellas (1:16, 20), y le suma uno del saludo inicial, los siete espíritus que están delante del trono (1:4). Los autores coinciden en que los siete espíritus son el Espíritu Santo en su plenitud. MacArthur sugiere como trasfondo Isaías 11:2 (el Espíritu de Jehová, de sabiduría, consejo, poder, conocimiento y temor) o el candelabro de siete lámparas de Zacarías 4.",
+          "fuentes": [
+            "macarthur_04_a#8",
+            "ladd_02_a#32",
+            "cbmh_03_a#22",
+            "carballosa_03_b#29",
+            "beacon_02_b#2",
+            "web_02_a#3"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "La elección no es casual: a una iglesia muerta Jesús se presenta como el que tiene el Espíritu que da vida. Beasley-Murray, citado por el Comentario Mundo Hispano, recuerda que el judaísmo atribuía al Espíritu la resurrección de los muertos. Carballosa subraya que «el que tiene» está en presente: un control continuo. Lo que le faltaba a Sardis estaba en las manos de su Señor.",
+          "fuentes": [
+            "ladd_02_a#32",
+            "cbmh_03_a#22",
+            "carballosa_03_b#29",
+            "macarthur_04_a#8"
+          ],
+          "tipo": "cristo_en_apocalipsis"
+        },
+        {
+          "texto": "Las siete estrellas son los mensajeros de las iglesias (1:20): las iglesias le pertenecen, él las cuida y les pide cuentas. Ladd destaca que, aun caída en la complacencia, Sardis seguía siendo objeto de su cuidado; Thomas, citado por Carballosa, que los candeleros están para alumbrar, y Sardis no daba luz.",
+          "fuentes": [
+            "ladd_02_a#32",
+            "carballosa_03_b#29",
+            "cbmh_03_a#22",
+            "beacon_02_b#2"
+          ],
+          "tipo": "simbolo_numero"
+        }
       ]
     },
     {
       "rango": "3:1",
       "titulo": "«Yo conozco tus obras»: una fama que no engaña a Jesús",
       "notas": [
-        {"texto": "Las siete cartas empiezan con «Yo conozco»: nada está oculto para Cristo, y por eso puede juzgar con justicia. En Sardis no hay elogio que dar y Jesús va directo al reproche. Earle (Beacon) y el Comentario Mundo Hispano lo consideran el veredicto más severo de las siete cartas; Carballosa, el más duro después del de Laodicea.", "fuentes": ["beacon_02_b#3", "macarthur_04_a#14", "cbmh_03_a#23", "carballosa_03_b#28"], "tipo": "explicacion_texto"},
-        {"texto": "«Nombre» es reputación. Desde afuera la decadencia no se notaba: era una iglesia conocida por sus buenas obras, con fama de viva. Los autores la imaginan llena de actividad: Erdman (citado en Beacon), con buena asistencia, comités, aniversarios y líderes respetados; Havner (citado por Guzik), con reuniones todas las noches, promoción y publicidad. Pero, dice Smith, Aquel que mira el corazón declara: «estás muerto». La apariencia engañaba a la opinión pública, no al Señor.", "fuentes": ["ladd_02_a#33", "beacon_02_b#3", "web_02_a#4", "cbmh_03_a#23", "macarthur_04_a#14"], "tipo": "explicacion_texto"},
-        {"texto": "Erdman describe lo que no pasaba en esa iglesia tan ocupada: no se salvaban almas, no se fortalecía a los creyentes, no se ayudaba a los necesitados; sus cultos eran formales y sin vida. MacArthur la compara con un museo de animales disecados en su hábitat: todo parece normal, pero nada está vivo.", "fuentes": ["beacon_02_b#3", "macarthur_04_a#14"], "tipo": "ilustracion"}
+        {
+          "texto": "Las siete cartas empiezan con «Yo conozco»: nada está oculto para Cristo, y por eso puede juzgar con justicia. En Sardis no hay elogio que dar y Jesús va directo al reproche. Earle (Beacon) y el Comentario Mundo Hispano lo consideran el veredicto más severo de las siete cartas; Carballosa, el más duro después del de Laodicea.",
+          "fuentes": [
+            "beacon_02_b#3",
+            "macarthur_04_a#14",
+            "cbmh_03_a#23",
+            "carballosa_03_b#28"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "«Nombre» es reputación. Desde afuera la decadencia no se notaba: era una iglesia conocida por sus buenas obras, con fama de viva. Los autores la imaginan llena de actividad: Erdman (citado en Beacon), con buena asistencia, comités, aniversarios y líderes respetados; Havner (citado por Guzik), con reuniones todas las noches, promoción y publicidad. Pero, dice Smith, Aquel que mira el corazón declara: «estás muerto». La apariencia engañaba a la opinión pública, no al Señor.",
+          "fuentes": [
+            "ladd_02_a#33",
+            "beacon_02_b#3",
+            "web_02_a#4",
+            "cbmh_03_a#23",
+            "macarthur_04_a#14"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "Erdman agrega lo que no pasaba en esa iglesia tan ocupada: no se salvaban almas, no se fortalecía a los creyentes, no se ayudaba a los necesitados. MacArthur la compara con un museo de animales disecados: todo parece normal, pero nada está vivo.",
+          "fuentes": [
+            "beacon_02_b#3",
+            "macarthur_04_a#14"
+          ],
+          "tipo": "ilustracion"
+        }
       ]
     },
     {
       "rango": "3:1",
       "titulo": "Qué clase de muerte",
       "notas": [
-        {"texto": "En el Nuevo Testamento la muerte espiritual va unida a su causa, el pecado: el hijo pródigo estaba muerto y revivió (Lc 15:24); los creyentes fueron sacados de entre los muertos (Ro 6:13; Ef 2:1); la que vive para los placeres, “viviendo está muerta” (1 Ti 5:6). Barclay lo resume: “el pecado es una especie de muerte”. MacArthur, más directo: “El pecado mató a la iglesia en Sardis”.", "fuentes": ["macarthur_04_a#14", "cbmh_03_a#23"], "tipo": "teologia_doctrina"},
-        {"texto": "Carballosa aclara que en la Biblia la muerte no es aniquilación sino impotencia, incapacidad: así se dice que el cuerpo de Abraham estaba “ya como muerto” (Ro 4:19; He 11:12). Sardis seguía funcionando, pero no podía dar vida.", "fuentes": ["carballosa_03_b#30"], "tipo": "explicacion_texto"},
-        {"texto": "Lo llamativo es lo que la carta no menciona: ni persecución, ni oposición judía, ni falsas doctrinas, ni escándalos. El problema era una apatía profunda, quizá alimentada por el lujo y la comodidad de la ciudad (Ladd). Guzik y MacArthur se preguntan para qué iba a perseguir Satanás a una iglesia que no le hacía ningún daño. Caird la llamó “el modelo perfecto de un cristianismo inofensivo”; otro autor, citado por Guzik: no un escándalo, sino una muerte decente, que conservaba la forma cuando el corazón ya no estaba. Barclay habla de la paz de los muertos. Qué significaba exactamente que estuviera muerta se discute (ver Interpretaciones).", "fuentes": ["ladd_02_a#31", "web_02_a#4", "macarthur_04_a#9", "ladd_02_a#35"], "tipo": "explicacion_texto"}
+        {
+          "texto": "En el Nuevo Testamento la muerte espiritual va unida a su causa, el pecado: el hijo pródigo estaba muerto y revivió (Lc 15:24); antes de Cristo estábamos “muertos en vuestros delitos” (Ef 2:1); la que se entrega a los placeres, “viviendo está muerta” (1 Ti 5:6). Barclay lo resume: “el pecado es una especie de muerte”. MacArthur, más directo: “El pecado mató a la iglesia en Sardis”.",
+          "fuentes": [
+            "macarthur_04_a#14",
+            "cbmh_03_a#23"
+          ],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "Carballosa aclara que en la Biblia la muerte no es aniquilación sino impotencia, incapacidad (Ro 4:19; He 11:12). Sardis seguía funcionando, pero no podía dar vida.",
+          "fuentes": [
+            "carballosa_03_b#30"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "Lo llamativo es lo que la carta no menciona: ni persecución, ni oposición judía, ni falsas doctrinas. El problema era una apatía profunda, quizá alimentada por el lujo de la ciudad (Ladd). Guzik y MacArthur se preguntan para qué iba a perseguir Satanás a una iglesia que no le hacía ningún daño. Caird la llamó “el modelo perfecto de un cristianismo inofensivo”; otro autor, citado por Guzik: no un escándalo, sino una muerte decente, con la forma retenida cuando el corazón ya no estaba. Qué significaba exactamente que estuviera muerta se discute (ver Interpretaciones).",
+          "fuentes": [
+            "ladd_02_a#31",
+            "web_02_a#4",
+            "macarthur_04_a#9",
+            "ladd_02_a#35"
+          ],
+          "tipo": "explicacion_texto"
+        }
       ]
     },
     {
       "rango": "3:2",
       "titulo": "«Sé vigilante»: la ciudadela que cayó dos veces",
       "notas": [
-        {"texto": "La orden tenía un sentido muy concreto para Sardis. Su acrópolis tenía paredes de roca casi verticales en tres lados y un solo acceso por el sur; parecía inexpugnable, y tomarla llegó a ser un proverbio para decir “lograr lo imposible” (Hemer, citado por MacArthur). Esa misma seguridad volvió confiados a sus habitantes.", "fuentes": ["macarthur_04_a#11", "macarthur_04_a#12", "mcgee_03_a#30", "mbiblia_01_b#16"], "tipo": "contexto_historico"},
-        {"texto": "Heródoto cuenta (citado por el Comentario Mundo Hispano y por Guzik) que en el 549 a. C. Ciro de Persia sitiaba a Creso. Un soldado persa vio que a un defensor se le caía el casco por el precipicio y que bajaba por una grieta a buscarlo y volvía a subir. Marcó el camino, y esa noche subió con un grupo: en el lado que se creía inaccesible no había nadie de guardia, y los lidios fueron sorprendidos. Más de tres siglos después la historia se repitió: Antíoco el Grande tomó la ciudad gracias a un soldado cretense que escaló sin ser visto, mientras los defensores vigilaban solo el camino conocido. La lección no se había aprendido.", "fuentes": ["cbmh_03_a#25", "web_02_a#2", "macarthur_04_a#12", "beacon_02_b#6", "mcgee_03_a#30"], "tipo": "contexto_historico"},
-        {"texto": "Guzik lo resume: Sardis no cayó porque la abrumaran los ejércitos, sino porque la confianza excesiva detuvo la vigilancia; y eso reflejaba el estado de la iglesia. El verbo pide estar despierto de manera continua, el mismo que Jesús usó en el sermón del monte de los Olivos al hablar de su venida (Mr 13:35, 37). Earle aplica: basta un solo punto débil en el carácter para caer ante la astucia de Satanás; “la vigilancia eterna es el precio de la seguridad”.", "fuentes": ["web_02_a#5", "web_02_a#2", "beacon_02_b#5", "beacon_02_b#6"], "tipo": "aplicacion_practica"}
+        {
+          "texto": "La orden tenía un sentido muy concreto para Sardis. Su acrópolis tenía paredes de roca casi verticales en tres lados y un solo acceso por el sur; parecía inexpugnable, y tomarla llegó a ser un proverbio para decir “lograr lo imposible” (Hemer, citado por MacArthur). Esa misma seguridad volvió confiados a sus habitantes.",
+          "fuentes": [
+            "macarthur_04_a#11",
+            "macarthur_04_a#12",
+            "mcgee_03_a#30",
+            "mbiblia_01_b#16"
+          ],
+          "tipo": "contexto_historico"
+        },
+        {
+          "texto": "Heródoto cuenta (citado por el Comentario Mundo Hispano y por Guzik) que en el 549 a. C. Ciro de Persia sitiaba a Creso. Un soldado persa vio que a un defensor se le caía el casco y que bajaba por una grieta a buscarlo. Marcó el camino y luego subió con un grupo: en el lado que se creía inaccesible no había nadie de guardia. Más de tres siglos después la historia se repitió: Antíoco el Grande tomó la ciudad gracias a un soldado cretense que escaló sin ser visto, mientras los defensores cuidaban solo el camino conocido.",
+          "fuentes": [
+            "cbmh_03_a#25",
+            "web_02_a#2",
+            "macarthur_04_a#12",
+            "beacon_02_b#6",
+            "mcgee_03_a#30"
+          ],
+          "tipo": "contexto_historico"
+        },
+        {
+          "texto": "Guzik lo resume: Sardis no cayó porque la abrumaran los ejércitos, sino porque la confianza excesiva detuvo la vigilancia; y eso reflejaba el estado de la iglesia. Earle aplica: basta un solo punto débil en el carácter para caer ante la astucia de Satanás.",
+          "fuentes": [
+            "web_02_a#5",
+            "web_02_a#2",
+            "beacon_02_b#5",
+            "beacon_02_b#6"
+          ],
+          "tipo": "aplicacion_practica"
+        }
       ]
     },
     {
       "rango": "3:2",
       "titulo": "«Afirma las otras cosas que están para morir»",
       "notas": [
-        {"texto": "Que Jesús mande vigilar y afirmar significa que no todo estaba perdido. Quedaba un resto de vida que podía reavivarse; sin avivamiento, también ese remanente terminaría muriendo (Ladd). Guzik: su condición era mala, pero no sin esperanza; era tarde, pero no demasiado tarde. El Comentario Mundo Hispano agrega que hacían falta acciones decisivas, rápidas y a tiempo.", "fuentes": ["ladd_02_a#34", "web_02_a#5", "cbmh_03_a#25"], "tipo": "explicacion_texto"},
-        {"texto": "Carballosa ve aquí una debilidad interna: lo que quedaba estaba a punto de perder la última señal de vida. Earle nota que el verbo está en pasado (“estaban por morir”) y cita a Swete: Juan escribe pensando en el momento en que la iglesia leerá la carta, con un optimismo delicado, como quien confía en que lo peor pronto habrá pasado.", "fuentes": ["carballosa_03_b#30", "beacon_02_b#5"], "tipo": "griego_palabra"},
-        {"texto": "¿Cómo se llega a eso? La Coalición por el Evangelio compara la tentación con los que tomaron Sardis: el enemigo suele abrir las puertas desde adentro, haciendo desear otras cosas poco a poco y acomodando la vida a los ídolos de la cultura. Con el tiempo uno crece menos en santidad y se parece más a los vecinos que no conocen a Cristo; citando a Daniel Pink, casi siempre hay un bajón en el medio, también en lo espiritual.", "fuentes": ["cpe_03#8"], "tipo": "aplicacion_practica"}
+        {
+          "texto": "Que Jesús mande vigilar y afirmar significa que no todo estaba perdido. Quedaba un resto de vida que podía reavivarse; sin avivamiento, también ese remanente terminaría muriendo (Ladd). Guzik: su condición era mala, pero no sin esperanza; era tarde, pero no demasiado tarde. El Comentario Mundo Hispano agrega que hacían falta acciones decisivas, rápidas y a tiempo.",
+          "fuentes": [
+            "ladd_02_a#34",
+            "web_02_a#5",
+            "cbmh_03_a#25"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "Carballosa ve aquí una debilidad interna: lo que quedaba estaba a punto de perder la última señal de vida. Earle nota que el verbo está en pasado (“estaban por morir”) y cita a Swete: Juan escribe pensando en el momento en que la iglesia leerá la carta, con un optimismo delicado, como quien confía en que lo peor pronto habrá pasado.",
+          "fuentes": [
+            "carballosa_03_b#30",
+            "beacon_02_b#5"
+          ],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "¿Cómo se llega a eso? Un artículo de la Coalición por el Evangelio compara la tentación con los que tomaron Sardis: el enemigo suele abrir las puertas desde adentro, haciendo desear otras cosas poco a poco y acomodando la vida a los ídolos de la cultura, hasta parecerse a los vecinos que no conocen a Cristo.",
+          "fuentes": [
+            "cpe_03#8"
+          ],
+          "tipo": "aplicacion_practica"
+        }
       ]
     },
     {
       "rango": "3:2",
       "titulo": "Obras que no estaban completas delante de Dios",
       "notas": [
-        {"texto": "«Perfectas» significa literalmente completas, llenas, terminadas. Carballosa, siguiendo a Robertson, aclara que el reproche no es por la cantidad sino por la calidad: no se ajustaban a la medida de Dios porque no nacían de una fe genuina. Guzik: Dios pide obras hechas con un corazón y un propósito íntegros delante de él. Clarke lo describe con una frase que duele: siempre empezando, nunca terminando nada.", "fuentes": ["carballosa_03_b#30", "beacon_02_b#4", "web_02_a#6", "r2_011#13"], "tipo": "griego_palabra"},
-        {"texto": "Para Swete (citado en Beacon), las obras están completas solo cuando las anima el Espíritu de vida: esa es la diferencia entre una iglesia muerta y una viva. Ladd y el Comentario Mundo Hispano coinciden: las obras que la gente alababa eran formales y externas, sin la influencia del Espíritu, y ante Dios resultaban incompletas e inadecuadas. Earle concluye: “Ninguna cantidad de actividad o eficiente organización puede reemplazar a la energía dinámica del Espíritu Santo”.", "fuentes": ["beacon_02_b#4", "ladd_02_a#35", "cbmh_03_a#26"], "tipo": "teologia_doctrina"},
-        {"texto": "«Delante de Dios» es la clave: las obras alcanzaban para ganar reputación ante los hombres, no para la mirada de Dios. MacArthur recuerda la escritura en la pared de Belsasar: pesados en la balanza del Juez justo y hallados faltos (Dn 5:27).", "fuentes": ["macarthur_04_a#16", "cbmh_03_a#26"], "tipo": "explicacion_texto"}
+        {
+          "texto": "«Perfectas» significa literalmente completas, llenas, terminadas. Carballosa, siguiendo a Robertson, aclara que el reproche no es por la cantidad sino por la calidad: no se ajustaban a la medida de Dios porque no nacían de una fe genuina. Clarke (citado por Guzik) lo describe con una frase que duele: siempre empezando, nunca terminando nada.",
+          "fuentes": [
+            "carballosa_03_b#30",
+            "beacon_02_b#4",
+            "web_02_a#6",
+            "r2_011#13"
+          ],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "Para Swete (citado en Beacon), las obras están completas solo cuando las anima el Espíritu de vida: esa es la diferencia entre una iglesia muerta y una viva. Ladd y el Comentario Mundo Hispano coinciden: las obras que la gente alababa eran formales y externas, sin la influencia del Espíritu, y ante Dios resultaban incompletas e inadecuadas. Earle concluye: “Ninguna cantidad de actividad o eficiente organización puede reemplazar a la energía dinámica del Espíritu Santo”.",
+          "fuentes": [
+            "beacon_02_b#4",
+            "ladd_02_a#35",
+            "cbmh_03_a#26"
+          ],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "«Delante de Dios» es la clave: las obras alcanzaban para ganar fama ante los hombres, no para la mirada de Dios. MacArthur lo dice con Daniel 5:27: pesados en la balanza del Juez justo y hallados faltos.",
+          "fuentes": [
+            "macarthur_04_a#16",
+            "cbmh_03_a#26"
+          ],
+          "tipo": "explicacion_texto"
+        }
       ]
     }
   ],
   "simbolos": [
-    {"signo": "los siete espíritus de Dios", "significado": "El Espíritu Santo en su plenitud, el que da vida; según MacArthur, con trasfondo en Isaías 11:2 o en el candelabro de Zacarías 4. Que estén delante del trono (1:4) y a la vez en poder de Cristo muestra, para el Comentario Mundo Hispano, que el libro iguala a Jesucristo con Dios.", "refs": ["1:4", "3:1"], "fuentes": ["ladd_02_a#32", "macarthur_04_a#8", "cbmh_03_a#22", "beacon_02_b#2"]},
-    {"signo": "las siete estrellas", "significado": "Los mensajeros (para Earle, los pastores) de las siete iglesias (1:20): en la mano de Cristo, que las sostiene, las cuida y les pide cuentas.", "refs": ["1:16", "1:20"], "fuentes": ["beacon_02_b#2", "ladd_02_a#32", "carballosa_03_b#29", "web_02_a#3"]},
-    {"signo": "el siete", "significado": "Número de plenitud: Jesús tiene la plenitud del Espíritu para darla a la iglesia y tiene en su mano la plenitud de la iglesia (Guzik).", "refs": ["3:1"], "fuentes": ["web_02_a#3"]}
+    {
+      "signo": "los siete espíritus de Dios",
+      "significado": "El Espíritu Santo en su plenitud, el que da vida. Para el Comentario Mundo Hispano, que estén delante del trono (1:4) y a la vez en poder de Cristo muestra que el libro iguala a Jesucristo con Dios; Carballosa ve en «de Dios» la relación eterna entre las personas de la Trinidad.",
+      "refs": [
+        "1:4",
+        "3:1"
+      ],
+      "fuentes": [
+        "ladd_02_a#32",
+        "macarthur_04_a#8",
+        "cbmh_03_a#22",
+        "carballosa_03_b#29"
+      ]
+    },
+    {
+      "signo": "las siete estrellas",
+      "significado": "Los mensajeros (para Earle, los pastores) de las siete iglesias (1:20). Para Guzik, el siete es plenitud: Jesús tiene en su mano la plenitud de la iglesia.",
+      "refs": [
+        "1:16",
+        "1:20"
+      ],
+      "fuentes": [
+        "beacon_02_b#2",
+        "web_02_a#3"
+      ]
+    }
   ],
   "palabras": [
-    {"ref": "3:1", "griego": "ἔχων", "translit": "ho échôn", "significado": "“El que tiene”: participio presente; un control y una dirección continuos sobre el Espíritu que envía y sobre las iglesias.", "fuentes": ["carballosa_03_b#29"]},
-    {"ref": "3:2", "griego": "γρηγορῶν", "translit": "gregorôn", "significado": "“Sé vigilante”: de gregoréo, estar despierto; en presente, “mantente en vigilancia continua”. Es el verbo de Jesús en Mr 13:35, 37.", "fuentes": ["beacon_02_b#5"]},
-    {"ref": "3:2", "griego": "ἔμελλον", "translit": "émellon", "significado": "“Estaban por morir”: imperfecto; mira desde el momento en que se lee la carta y deja abierta la esperanza (Swete).", "fuentes": ["beacon_02_b#5"]},
-    {"ref": "3:2", "griego": "πεπληρωμένα", "translit": "pepleroména", "significado": "“Perfectas”: participio perfecto pasivo de pleróo, llenar, cumplir; obras completas, llevadas a plenitud.", "fuentes": ["carballosa_03_b#30", "beacon_02_b#4", "r2_011#13"]}
+    {
+      "ref": "3:1",
+      "griego": "ἔχων",
+      "translit": "ho échôn",
+      "significado": "“El que tiene”: participio presente; un control y una dirección continuos sobre el Espíritu que envía y sobre las iglesias.",
+      "fuentes": [
+        "carballosa_03_b#29"
+      ]
+    },
+    {
+      "ref": "3:2",
+      "griego": "γρηγορῶν",
+      "translit": "gregorôn",
+      "significado": "“Sé vigilante”: de gregoréo, estar despierto; en presente, “mantente en vigilancia continua”. Es el verbo de Jesús en Mr 13:35, 37.",
+      "fuentes": [
+        "beacon_02_b#5"
+      ]
+    },
+    {
+      "ref": "3:2",
+      "griego": "ἔμελλον",
+      "translit": "émellon",
+      "significado": "“Estaban por morir”: imperfecto; mira desde el momento en que se lee la carta y deja abierta la esperanza (Swete).",
+      "fuentes": [
+        "beacon_02_b#5"
+      ]
+    },
+    {
+      "ref": "3:2",
+      "griego": "πεπληρωμένα",
+      "translit": "pepleroména",
+      "significado": "“Perfectas”: participio perfecto pasivo de pleróo, llenar, cumplir; obras completas, llevadas a plenitud.",
+      "fuentes": [
+        "carballosa_03_b#30",
+        "beacon_02_b#4",
+        "r2_011#13"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Jesús ve lo que nadie ve. Para los vecinos de Sardis la iglesia estaba viva; él conoce las obras y el corazón. Ryle usa este versículo para recordar que a Cristo nadie lo engaña y que la fe tiene que ser real, sincera y abarcar toda la vida.", "refs": ["Ap 2:2", "Ap 3:1"], "fuentes": ["beacon_02_b#3", "cbmh_03_a#23", "r2_003_a#13"]},
-    {"texto": "Es el único que puede dar vida. Tiene el Espíritu en plenitud y, según McGee, es quien lo envió al mundo. Lo que una iglesia muerta necesita, dice McGee, no son métodos ni cursos sino la Persona de Cristo, que solo el Espíritu Santo hace real; para Carballosa, solo el Señor, por su Espíritu, podía reavivar a Sardis.", "refs": ["Ap 1:4"], "fuentes": ["ladd_02_a#32", "cbmh_03_a#22", "mcgee_03_a#28", "carballosa_03_b#29"]},
-    {"texto": "Es Dios, con el Padre y el Espíritu. El Comentario Mundo Hispano nota que los siete espíritus están ante el trono de Dios y a la vez en poder de Cristo; Carballosa ve en «de Dios» la relación eterna entre las personas de la Trinidad.", "refs": ["Ap 1:4"], "fuentes": ["cbmh_03_a#22", "carballosa_03_b#29"]},
-    {"texto": "Es Juez y también sustentador: dueño, Salvador y cuidador de sus iglesias. John Owen observa que Cristo se compadece de sus iglesias cuando son tentadas y perseguidas, pero las amenaza cuando decaen, porque no tolera lo que deshonra su nombre y las arruina a ellas.", "refs": ["Ap 2:4-5", "Ap 3:1-3"], "fuentes": ["cbmh_03_a#22", "r2_014#29"]}
+    {
+      "texto": "Jesús ve lo que nadie ve. Para los vecinos de Sardis la iglesia estaba viva; él conoce las obras y el corazón. Ryle usa este versículo para recordar que a Cristo nadie lo engaña y que la fe tiene que ser real, sincera y abarcar toda la vida.",
+      "refs": [
+        "Ap 2:2",
+        "Ap 3:1"
+      ],
+      "fuentes": [
+        "beacon_02_b#3",
+        "cbmh_03_a#23",
+        "r2_003_a#13"
+      ]
+    },
+    {
+      "texto": "Es el único que puede dar vida. Tiene el Espíritu en plenitud y, según McGee, es quien lo envió al mundo; lo que una iglesia muerta necesita, dice, no son métodos ni cursos sino la Persona de Cristo, que solo el Espíritu hace real.",
+      "refs": [
+        "Ap 1:4"
+      ],
+      "fuentes": [
+        "ladd_02_a#32",
+        "cbmh_03_a#22",
+        "mcgee_03_a#28",
+        "carballosa_03_b#29"
+      ]
+    },
+    {
+      "texto": "Es Juez y también sustentador de sus iglesias. John Owen observa que Cristo se compadece de ellas cuando son tentadas y perseguidas, pero las amenaza cuando decaen, porque no tolera lo que deshonra su nombre y las arruina.",
+      "refs": [
+        "Ap 2:4-5",
+        "Ap 3:1-3"
+      ],
+      "fuentes": [
+        "cbmh_03_a#22",
+        "r2_014#29"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué quiere decir que la iglesia estaba «muerta»?",
       "posturas": [
-        {"postura": "La mayoría de sus miembros no eran regenerados: personas no redimidas que imitaban ser una iglesia; sus buenas obras eran ropa sobre cadáveres espirituales (Ef 2:1-2).", "quien": "MacArthur y la Biblia de estudio MacArthur (premilenial dispensacional)", "fuentes": ["macarthur_04_a#14", "mbiblia_01_b#16", "macarthur_04_a#16"]},
-        {"postura": "El versículo muestra que hay quienes profesan la fe sin ser de la fe (1 Jn 2:19); su apostasía no prueba que verdaderos creyentes caigan de la gracia.", "quien": "Berkhof y Lacueva (reformados)", "fuentes": ["r2_040#12", "r2_030#32"]},
-        {"postura": "Un cristianismo nominal: una congregación activa cuya actividad era formal y externa, sin el Espíritu que da vida, pero con un resto de vida que todavía podía reavivarse.", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial/idealista); Earle (Beacon)", "fuentes": ["ladd_02_a#33", "ladd_02_a#35", "cbmh_03_a#26", "beacon_02_b#5"]},
-        {"postura": "Muerte como impotencia, no aniquilación: obras sin fe genuina y una debilidad que estaba por apagar la última señal de vida; solo unos pocos eran lo que decían ser.", "quien": "Carballosa (premilenial dispensacional)", "fuentes": ["carballosa_03_b#30"]}
+        {
+          "postura": "La mayoría de sus miembros no eran regenerados: personas que imitaban ser una iglesia; sus buenas obras eran ropa sobre cadáveres espirituales (Ef 2:1-2).",
+          "quien": "MacArthur y la Biblia de estudio MacArthur (premilenial dispensacional)",
+          "fuentes": [
+            "macarthur_04_a#14",
+            "mbiblia_01_b#16",
+            "macarthur_04_a#16"
+          ]
+        },
+        {
+          "postura": "El versículo muestra que hay quienes profesan la fe sin ser de la fe (1 Jn 2:19); su apostasía no prueba que verdaderos creyentes caigan de la gracia.",
+          "quien": "Berkhof y Lacueva (reformados)",
+          "fuentes": [
+            "r2_040#12",
+            "r2_030#32"
+          ]
+        },
+        {
+          "postura": "Un cristianismo nominal: actividad formal y externa, sin el Espíritu que da vida, pero con un resto de vida que podía reavivarse.",
+          "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial/idealista); Earle (Beacon)",
+          "fuentes": [
+            "ladd_02_a#33",
+            "ladd_02_a#35",
+            "cbmh_03_a#26",
+            "beacon_02_b#5"
+          ]
+        },
+        {
+          "postura": "Muerte como impotencia, no aniquilación: obras sin fe genuina y una debilidad que estaba por apagar la última señal de vida; solo unos pocos eran lo que decían ser.",
+          "quien": "Carballosa (premilenial dispensacional)",
+          "fuentes": [
+            "carballosa_03_b#30"
+          ]
+        }
       ],
       "nota": "Las posturas se tocan más de lo que parece: todos coinciden en que la fama no engaña a Cristo y en que todavía había algo que afirmar."
     },
     {
       "tema": "¿Sardis representa una época de la historia de la iglesia?",
       "posturas": [
-        {"postura": "Sí: el protestantismo, desde la Reforma (1517) hasta alrededor de 1800 (fechas aproximadas). El «Yo conozco tus obras» elogia lo que la Reforma recuperó (la autoridad de la Palabra, la depravación del hombre, la justificación por la fe); «las cosas que están para morir» serían esas verdades, que hoy se pierden.", "quien": "McGee (premilenial dispensacional)", "fuentes": ["mcgeer_03#23", "mcgee_03_a#29", "mcgeer_03#24", "mcgee_03_a#32"]},
-        {"postura": "Retrata un peligro de cualquier época: el cristianismo nominal, la iglesia con nombre de viva que hoy puede tener templo, multitudes y ofrendas y estar muerta.", "quien": "Ladd (premilenial histórico); MacArthur; Núñez", "fuentes": ["ladd_02_a#33", "macarthur_04_a#15", "r2_031#7", "r2_013#14"]}
+        {
+          "postura": "Sí: el protestantismo, desde la Reforma (1517) hasta alrededor de 1800 (fechas aproximadas). «Yo conozco tus obras» elogia lo que la Reforma recuperó (la autoridad de la Palabra, la justificación por la fe); «las cosas que están para morir» serían esas verdades, que hoy se pierden.",
+          "quien": "McGee (premilenial dispensacional)",
+          "fuentes": [
+            "mcgeer_03#23",
+            "mcgee_03_a#29",
+            "mcgeer_03#24",
+            "mcgee_03_a#32"
+          ]
+        },
+        {
+          "postura": "Retrata un peligro de cualquier época: el cristianismo nominal, la iglesia con nombre de viva que hoy puede tener templo, multitudes y ofrendas y estar muerta.",
+          "quien": "Ladd (premilenial histórico); MacArthur; Núñez",
+          "fuentes": [
+            "ladd_02_a#33",
+            "macarthur_04_a#15",
+            "r2_031#7",
+            "r2_013#14"
+          ]
+        }
       ],
       "nota": "Aun McGee aplica la carta a las iglesias de su tiempo. Ver los anexos P2 e I4."
     }
   ],
   "biblioteca": [
-    {"texto": "Cristo soporta más a los del todo muertos que a los que viven bajo corrupciones espirituales (Ap 3:15-16). El estado de Ap 3:1 es contentarse con cumplir los medios externos sin comunión con Dios, un formalismo que desvía a muchos cristianos.", "autor": "John Owen", "obra": "La gracia y el deber de tener una mente espiritual; La mentalidad del Espíritu", "pagina": "PDF 237, 273; PDF 218, 250", "tipo": "doctrina", "fuentes": ["r2_014#29", "r2_002_a#9"]},
-    {"texto": "La iglesia formal es como el barco de la muerte de El antiguo marinero de Coleridge, con una tripulación sin vida: un muerto en el púlpito y muertos en los bancos.", "autor": "A. B. Simpson", "obra": "Andando en el Espíritu", "pagina": "PDF 68", "tipo": "ilustracion", "fuentes": ["r2_009#13"]},
-    {"texto": "Cuando la iglesia arrulla al mundo, la iglesia muere: Sardis pensaba estar viva, pero cortejaba al mundo. El banco de la iglesia tendría que ser el asiento menos cómodo para quien está fuera de Cristo.", "autor": "John MacArthur", "obra": "La verdad permanece", "pagina": "PDF 78-79", "tipo": "aplicacion", "fuentes": ["r2_031#7"]},
-    {"texto": "Sardis tenía la forma externa de la devoción y buena reputación, pero sus obras no eran íntegras delante de Dios; la integridad es la que completa el deber.", "autor": "William Gurnall", "obra": "El cristiano con toda la armadura de Dios", "pagina": "PDF 331", "tipo": "doctrina", "fuentes": ["r2_011#13"]}
+    {
+      "texto": "Cristo soporta más a los del todo muertos que a los que viven bajo corrupciones (Ap 3:15-16). El estado de Ap 3:1 es contentarse con los medios externos sin comunión con Dios.",
+      "autor": "John Owen",
+      "obra": "La gracia y el deber de tener una mente espiritual; La mentalidad del Espíritu",
+      "pagina": "PDF 237, 273; PDF 218, 250",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r2_014#29",
+        "r2_002_a#9"
+      ]
+    },
+    {
+      "texto": "La iglesia formal es como el barco de la muerte de El antiguo marinero de Coleridge, con una tripulación sin vida: un muerto en el púlpito y muertos en los bancos.",
+      "autor": "A. B. Simpson",
+      "obra": "Andando en el Espíritu",
+      "pagina": "PDF 68",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "r2_009#13"
+      ]
+    },
+    {
+      "texto": "Cuando la iglesia arrulla al mundo, la iglesia muere: Sardis pensaba estar viva, pero cortejaba al mundo. El banco de la iglesia tendría que ser el asiento menos cómodo para quien está fuera de Cristo.",
+      "autor": "John MacArthur",
+      "obra": "La verdad permanece",
+      "pagina": "PDF 78-79",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r2_031#7"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Jue 16:20", "nota": "Sansón “no sabía que Jehová ya se había apartado de él”: el mismo hombre, con el mismo nombre, sin su poder. MacArthur lo usa como imagen de Sardis, ciega y débil sin darse cuenta.", "fuentes": ["macarthur_04_a#17"]},
-    {"ref": "Is 29:13", "nota": "Un pueblo que honra a Dios con los labios pero tiene el corazón lejos: Owen lo une al formalismo de Sardis.", "fuentes": ["r2_014#29", "r2_002_a#9"]},
-    {"ref": "Mr 13:35-37", "nota": "«Velad»: el mismo verbo de «sé vigilante», en boca de Jesús al hablar de su venida.", "fuentes": ["beacon_02_b#5"]},
-    {"ref": "Dn 5:27", "nota": "Pesado en balanza y hallado falto: así quedan las obras que impresionan a los hombres, pero no a Dios.", "fuentes": ["macarthur_04_a#16"]}
+    {
+      "ref": "Jue 16:20",
+      "nota": "Sansón “no sabía que Jehová ya se había apartado de él”: el mismo hombre, con el mismo nombre, sin su poder. MacArthur lo usa como imagen de Sardis, ciega y débil sin darse cuenta.",
+      "fuentes": [
+        "macarthur_04_a#17"
+      ]
+    },
+    {
+      "ref": "Is 29:13",
+      "nota": "Owen remite a este texto al describir el formalismo de Sardis.",
+      "fuentes": [
+        "r2_014#29",
+        "r2_002_a#9"
+      ]
+    },
+    {
+      "ref": "Mr 13:35-37",
+      "nota": "Jesús usa el verbo de «sé vigilante» al hablar de su venida.",
+      "fuentes": [
+        "beacon_02_b#5"
+      ]
+    },
+    {
+      "ref": "Dn 5:27",
+      "nota": "Pesado en balanza y hallado falto: así quedan ante Dios las obras que solo impresionan a los hombres.",
+      "fuentes": [
+        "macarthur_04_a#16"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "MacArthur enumera señales de una iglesia que se está muriendo: descansar en los logros pasados; cuidar más las formas que la realidad espiritual; preferir lo material a lo espiritual; importarle más lo que piensa la gente que lo que Dios dijo; querer más un sistema que la Palabra. Pueden usarla también como examen para su casa: un matrimonio cristiano también puede tener nombre de vivo.", "fuentes": ["macarthur_04_a#15"]},
-    {"texto": "Ryle pide que la profesión de fe sea real: sincera, honesta y que alcance toda la vida, no superficial ni ritualista. Miren si su fe depende de la agenda (actividades, reuniones, servicio) o de la comunión con Cristo por su Espíritu.", "fuentes": ["r2_003_a#13", "beacon_02_b#4"]},
-    {"texto": "Vigilen el lado que creen seguro. Sardis cayó por donde nadie miraba, y Earle advierte que un solo punto débil alcanza. Pongan nombre, juntos, a esa zona donde se sienten fuertes y por eso dejaron de cuidar.", "fuentes": ["beacon_02_b#6", "macarthur_04_a#12"]},
-    {"texto": "Si descubren algo de Sardis en ustedes, recuerden lo que dice Guzik: es tarde, pero no demasiado tarde. El que habla tiene la plenitud del Espíritu; lo que queda puede afirmarse.", "fuentes": ["web_02_a#5", "ladd_02_a#32"]}
+    {
+      "texto": "MacArthur enumera señales de una iglesia que se muere: descansar en los logros pasados, cuidar más las formas que la realidad espiritual, importarle más lo que piensa la gente que lo que Dios dijo. Úsenlas también para su casa: un matrimonio cristiano también puede tener nombre de vivo.",
+      "fuentes": [
+        "macarthur_04_a#15"
+      ]
+    },
+    {
+      "texto": "Ryle pide que la profesión de fe sea real, sincera y que alcance toda la vida. Miren si su fe se sostiene en la agenda o en la comunión con Cristo por su Espíritu.",
+      "fuentes": [
+        "r2_003_a#13",
+        "beacon_02_b#4"
+      ]
+    },
+    {
+      "texto": "Vigilen el lado que creen seguro: Sardis cayó por donde nadie miraba. Pónganle nombre, juntos, a esa zona donde se sienten fuertes y dejaron de cuidar; Earle lo dice así: “la vigilancia eterna es el precio de la seguridad”.",
+      "fuentes": [
+        "beacon_02_b#6",
+        "macarthur_04_a#12"
+      ]
+    },
+    {
+      "texto": "Si descubren algo de Sardis en ustedes, recuerden lo que dice Guzik: es tarde, pero no demasiado tarde. El que habla tiene la plenitud del Espíritu; lo que queda puede afirmarse.",
+      "fuentes": [
+        "web_02_a#5",
+        "ladd_02_a#32"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué diría la gente de nuestra vida cristiana viéndola desde afuera? ¿Y qué creemos que ve Jesús?",
@@ -146,12 +563,62 @@
     "¿Qué cosas de nuestra fe «están para morir» y cómo podríamos empezar a afirmarlas esta semana?"
   ],
   "para_orar": "Señor Jesús, tú tienes la plenitud del Espíritu y nos sostienes en tu mano; nada te engaña. Líbranos de tener fama de vivos estando muertos. Despiértanos, afirma lo que en nosotros está por apagarse y haz que nuestras obras nazcan de tu Espíritu y estén completas delante de nuestro Dios.",
-  "visuales": ["mapa-asia", "dg-cartas"],
-  "anexos": ["T1", "P2", "I4"],
+  "visuales": [
+    "mapa-asia",
+    "dg-cartas"
+  ],
+  "anexos": [
+    "T1",
+    "P2",
+    "I4"
+  ],
   "profundizar": [
-    {"titulo": "Las dos caídas de Sardis: las fechas", "texto": "Todos fechan la caída ante Ciro en el 549 a. C. Para la segunda, con Antíoco III el Grande y un escalador cretense, las fuentes no coinciden: 218 a. C. según Ramsay (citado en Beacon) y McGee, 214 según Walvoord (citado por Guzik) y 195 según MacArthur (siguiendo a Thomas). Heródoto (Historia 1.84) da el nombre del soldado persa, Hieroeades, y dice que el sitio duró catorce días y que Ciro había prometido un premio a quien escalara la cima. El Comentario Mundo Hispano añade que había una necrópolis a unos 11 km de la ciudad.", "fuentes": ["beacon_02_b#6", "mcgee_03_a#30", "web_02_a#2", "macarthur_04_a#12", "cbmh_03_a#25"]},
-    {"titulo": "Sardis y el culto al emperador", "texto": "Las fuentes difieren. Ladd dice que Sardis era celosa promotora del culto al emperador; MacArthur, que tras el terremoto edificaron un templo en honor de Tiberio. El Comentario Mundo Hispano sostiene que no tuvo templo de Tiberio y que el culto imperial no fue allí una amenaza seria. Coinciden en que el culto principal de la ciudad era el de Cibeles; McGee agrega que había un templo doble, de Cibeles y de Apolo.", "fuentes": ["ladd_02_a#31", "macarthur_04_a#13", "cbmh_03_a#21", "mcgeer_03#22"]},
-    {"titulo": "Una ciudad doble y famosa", "texto": "Su nombre griego (Sardeis) es plural porque eran dos ciudades: la de la meseta y la del valle; cinco carreteras romanas la servían. Tiberio la eximió de impuestos por cinco años después del terremoto. Las joyas halladas en las tumbas junto al Pactolo prueban su fortuna. Quizá Esopo era de allí. Hoy se excavan el gimnasio, la sinagoga y el camino romano.", "fuentes": ["cbmh_03_a#21", "macarthur_04_a#10", "mbiblia_01_b#16", "mcgeer_03#22"]},
-    {"titulo": "Melitón de Sardis", "texto": "La figura más conocida de esta iglesia es Melitón, apologista y obispo de Sardis a fines del siglo II, autor del primer comentario conocido de Apocalipsis (MacArthur; la Biblia de estudio MacArthur dice, según la tradición, de ciertos pasajes del libro).", "fuentes": ["macarthur_04_a#9", "mbiblia_01_b#16"]}
+    {
+      "titulo": "Las dos caídas de Sardis: las fechas",
+      "texto": "Todos fechan la caída ante Ciro en el 549 a. C. Para la segunda, con Antíoco III el Grande y un escalador cretense, las fuentes no coinciden: 218 a. C. según Ramsay (citado en Beacon) y McGee, 214 según Walvoord (citado por Guzik) y 195 según MacArthur (siguiendo a Thomas). Heródoto (Historia 1.84) da el nombre del soldado persa, Hieroeades, y dice que el sitio duró catorce días y que Ciro había prometido un premio a quien escalara la cima. El Comentario Mundo Hispano añade que había una necrópolis a unos 11 km de la ciudad.",
+      "fuentes": [
+        "beacon_02_b#6",
+        "mcgee_03_a#30",
+        "web_02_a#2",
+        "macarthur_04_a#12",
+        "cbmh_03_a#25"
+      ]
+    },
+    {
+      "titulo": "Sardis y el culto al emperador",
+      "texto": "Las fuentes difieren. Ladd dice que Sardis era celosa promotora del culto al emperador; MacArthur, que tras el terremoto edificaron un templo en honor de Tiberio. El Comentario Mundo Hispano sostiene que no tuvo templo de Tiberio y que el culto imperial no fue allí una amenaza seria. Coinciden en que el culto principal de la ciudad era el de Cibeles; McGee agrega que había un templo doble, de Cibeles y de Apolo.",
+      "fuentes": [
+        "ladd_02_a#31",
+        "macarthur_04_a#13",
+        "cbmh_03_a#21",
+        "mcgeer_03#22"
+      ]
+    },
+    {
+      "titulo": "El oro y el dinero de Sardis",
+      "texto": "Según Yamauchi, citado por MacArthur, los arqueólogos hallaron centenares de crisoles para refinar el oro del Pactolo. Barclay, citado por Guzik, dice que la primera moneda de Asia Menor se acuñó en Sardis en tiempos de Creso: allí nacía el dinero moderno. Barclay también la llamó “la ciudad de los decadentes”.",
+      "fuentes": [
+        "macarthur_04_a#10",
+        "web_02_a#1"
+      ]
+    },
+    {
+      "titulo": "Una ciudad doble y famosa",
+      "texto": "Su nombre griego (Sardeis) es plural porque eran dos ciudades: la de la meseta y la del valle; cinco carreteras romanas la servían. Tiberio la eximió de impuestos por cinco años después del terremoto. Las joyas halladas en las tumbas junto al Pactolo prueban su fortuna. Quizá Esopo era de allí. Hoy se excavan el gimnasio, la sinagoga y el camino romano.",
+      "fuentes": [
+        "cbmh_03_a#21",
+        "macarthur_04_a#10",
+        "mbiblia_01_b#16",
+        "mcgeer_03#22"
+      ]
+    },
+    {
+      "titulo": "Melitón de Sardis",
+      "texto": "La figura más conocida de esta iglesia es Melitón, apologista y obispo de Sardis a fines del siglo II, autor del primer comentario conocido de Apocalipsis (MacArthur; la Biblia de estudio MacArthur dice, según la tradición, de ciertos pasajes del libro).",
+      "fuentes": [
+        "macarthur_04_a#9",
+        "mbiblia_01_b#16"
+      ]
+    }
   ]
 }

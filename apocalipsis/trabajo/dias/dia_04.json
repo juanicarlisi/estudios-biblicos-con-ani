@@ -3,166 +3,638 @@
   "desde": "1:7",
   "hasta": "1:8",
   "titulo": "Él viene: el tema del libro y la firma de Dios",
-  "minutos": {"lectura": 2, "estudio": 25},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "En los días 2 y 3 leímos el saludo: la carta viene del Dios eterno, de los siete espíritus y de Jesucristo, testigo fiel, primogénito de los muertos y soberano de los reyes de la tierra. Juan rompió en alabanza: Cristo nos ama, nos libró de nuestros pecados con su sangre y nos hizo un reino de sacerdotes.",
-    "ahora": "Juan, que venía alabando a Cristo por lo que ya hizo, lo alaba ahora por lo que va a hacer: anuncia su regreso (v. 7). Enseguida el Señor mismo pone su firma (v. 8). Con estos dos versículos se cierra la introducción del libro.",
+    "antes": "En los días 2 y 3 leímos el saludo de parte del Dios eterno, de los siete espíritus y de Jesucristo, y la alabanza de Juan: Cristo nos ama, nos libró de nuestros pecados con su sangre y nos hizo un reino de sacerdotes.",
+    "ahora": "Juan pasa de alabar a Cristo por lo que hizo a anunciar lo que va a hacer: volver (v. 7). Enseguida el Señor pone su firma (v. 8), y así se cierra la introducción del libro.",
     "donde": "La carta va dirigida a siete iglesias reales de Asia Menor, hoy Turquía. Desde dónde escribe Juan se dice mañana.",
     "despues": "Mañana (1:9-11) Juan se presenta como hermano y copartícipe de sus lectores en la tribulación, en el reino y en la paciencia; está desterrado en la isla de Patmos y recibe la orden de escribir lo que ve y enviarlo a las siete iglesias.",
-    "fuentes": ["r1_024_a#11", "r1_030#12", "macarthur_01#25", "carballosa_02_b#1", "web_03_b#6", "beacon_01_a#35", "macarthur_02_a#12", "beacon_01_b#15"]
+    "fuentes": [
+      "r1_024_a#11",
+      "r1_030#12",
+      "macarthur_01#25",
+      "carballosa_02_b#1",
+      "web_03_b#6",
+      "beacon_01_a#35",
+      "macarthur_02_a#12",
+      "beacon_01_b#15"
+    ]
   },
   "versiculo_clave": {
     "ref": "1:7",
     "porque": "Varios autores de escuelas distintas lo leen como el tema de todo el libro: Jesús vuelve, a la vista de todos."
   },
   "panorama": {
-    "texto": "Estos dos versículos son como la tapa del libro. El primero anuncia de qué se trata todo: Jesús viene, con las nubes, y esta vez nadie va a poder dejar de verlo. Juan arma el anuncio con dos profecías del Antiguo Testamento (Daniel 7:13 y Zacarías 12:10), las mismas que Jesús usó para hablar de su regreso. El segundo es la firma: el Señor Dios se presenta como el principio y el final de todo, el que siempre es, y el Todopoderoso. Los autores discuten detalles: quiénes son los que lo traspasaron, qué clase de llanto es ese, quién habla en el v. 8. En lo central coinciden todos: el regreso de Cristo es cierto, público y glorioso, y nada puede impedirlo.",
-    "fuentes": ["carballosa_02_b#1", "ladd_01_a#37", "cbmh_01_b#16", "web_19#8", "beacon_01_b#8", "macarthur_02_a#5", "cbmh_01_b#19", "beacon_01_b#12"]
+    "texto": "Estos dos versículos son como la tapa del libro. El primero anuncia de qué se trata: Jesús viene con las nubes, y esta vez nadie va a poder dejar de verlo. Juan arma el anuncio con Daniel 7:13 y Zacarías 12:10, las mismas profecías que Jesús usó para hablar de su regreso. El segundo es la firma: el Señor Dios se presenta como el principio y el final de todo, el que siempre es, el Todopoderoso. Los autores discuten detalles (quiénes lo traspasaron, qué llanto es ese, quién habla en el v. 8), pero coinciden en lo central: el regreso de Cristo es cierto, público y glorioso, y nada puede impedirlo.",
+    "fuentes": [
+      "carballosa_02_b#1",
+      "ladd_01_a#37",
+      "cbmh_01_b#16",
+      "web_19#8",
+      "beacon_01_b#8",
+      "macarthur_02_a#5",
+      "cbmh_01_b#19",
+      "beacon_01_b#12"
+    ]
   },
   "secciones": [
     {
       "rango": "1:7",
       "titulo": "«He aquí que viene»: de qué trata el libro",
       "notas": [
-        {"texto": "«He aquí» es un llamado a mirar, una partícula que el libro usa muchas veces para despertar la atención (MacArthur cuenta entre veinticinco y treinta). Spurgeon decía que este hecho merece vigilancia: hay que sentirlo tan vivo que uno termine clamando “¡He aquí viene!”, y proclamarlo como un heraldo.", "fuentes": ["carballosa_02_b#2", "macarthur_01#38", "web_19#8", "web_03_a#16", "r2_016#1"], "tipo": "explicacion_texto"},
-        {"texto": "«Viene» está en presente. Carballosa lo lee como un presente profético, con fuerza de futuro; MacArthur, como alguien que ya está en camino: la venida es cierta y cercana. “El que había de venir” era un título del Mesías (así preguntó Juan el Bautista, Mt 11:3), y en Apocalipsis el verbo «venir» se usa nueve veces para Cristo, siete de ellas en su propia boca.", "fuentes": ["carballosa_02_b#2", "macarthur_01#38", "web_19#8"], "tipo": "explicacion_texto"},
-        {"texto": "Para Ladd, Carballosa, MacArthur, el Comentario Mundo Hispano y Lenski (citado por Earle) este versículo enuncia el tema de todo el libro: el regreso de Cristo y lo que lleva hasta él. Chafer lo dice así: “el principal argumento del libro de Apocalipsis es que Cristo será revelado al mundo en su segunda venida”. Wiersbe la cuenta como la primera de siete referencias del libro a su venida, y la escena completa llega en el capítulo 19, con Cristo en un caballo blanco.", "fuentes": ["ladd_01_a#37", "carballosa_02_b#1", "macarthur_01#37", "cbmh_01_b#16", "beacon_01_b#12", "r1_038#18", "r1_024_a#12"], "tipo": "teologia_doctrina"}
+        {
+          "texto": "«He aquí» es un llamado a mirar, una partícula que el libro repite muchas veces (MacArthur cuenta entre veinticinco y treinta). Spurgeon decía que este hecho merece vigilancia y debe sentirse tan vivo que uno termine clamando “¡He aquí viene!”.",
+          "fuentes": [
+            "carballosa_02_b#2",
+            "macarthur_01#38",
+            "web_19#8",
+            "web_03_a#16",
+            "r2_016#1"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "«Viene» está en presente: un presente profético, con fuerza de futuro (Carballosa), de alguien que ya está en camino (MacArthur). “El que había de venir” era un título del Mesías (Mt 11:3), y en Apocalipsis el verbo «venir» se usa nueve veces para Cristo, siete en su propia boca.",
+          "fuentes": [
+            "carballosa_02_b#2",
+            "macarthur_01#38",
+            "web_19#8"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "Ladd, Carballosa, MacArthur, el Comentario Mundo Hispano y Lenski (citado por Earle) leen aquí el tema de todo el libro: el regreso de Cristo y lo que lleva hasta él. Chafer: “el principal argumento del libro de Apocalipsis es que Cristo será revelado al mundo en su segunda venida”. La escena completa llega en el capítulo 19 (Ladd).",
+          "fuentes": [
+            "ladd_01_a#37",
+            "carballosa_02_b#1",
+            "macarthur_01#37",
+            "cbmh_01_b#16",
+            "beacon_01_b#12",
+            "r1_038#18",
+            "r1_024_a#12"
+          ],
+          "tipo": "teologia_doctrina"
+        }
       ]
     },
     {
       "rango": "1:7",
       "titulo": "«Con las nubes»: la gloria que ya no estará velada",
       "notas": [
-        {"texto": "La frase viene de Daniel 7:13: uno como hijo de hombre viene con las nubes ante el Anciano de días y recibe dominio, gloria y un reino que no será destruido. El Nuevo Testamento la repite en otros seis lugares, y Jesús la usó ante el Sanedrín (Mr 14:61-62).", "fuentes": ["beacon_01_b#8", "r1_002#4", "ladd_01_a#37"], "tipo": "conexion_biblica"},
-        {"texto": "En la Biblia las nubes suelen hablar de la presencia de Dios: Chafer calcula que de unas 150 menciones, al menos cien se relacionan con su presencia y su gloria. Es la columna del desierto, la nube espesa del Sinaí, la gloria que llenó el tabernáculo y el templo, la nube de la transfiguración y la de la ascensión (Hch 1:9).", "fuentes": ["r2_028#23", "macarthur_01#42", "web_19#10", "carballosa_02_b#2"], "tipo": "simbolo_numero"},
-        {"texto": "Por eso MacArthur y su Biblia de estudio no piensan en nubes comunes sino en nubes de gloria: la luz de la presencia de Dios (la Shekiná), que en el Antiguo Testamento debía quedar velada porque nadie podía verla y vivir (Éx 33:20). Cuando Cristo vuelva, esa gloria se verá por completo. Guzik suma que las nubes son literales, como en la ascensión, y también figuradas: las multitudes de creyentes son una “nube” (He 12:1).", "fuentes": ["mbiblia_01_a#19", "web_19#10", "macarthur_01#42", "web_03_a#16"], "tipo": "explicacion_texto"}
+        {
+          "texto": "La frase viene de Daniel 7:13: uno como hijo de hombre viene con las nubes ante el Anciano de días y recibe dominio, gloria y un reino que no será destruido. El Nuevo Testamento la repite en otros seis lugares, y Jesús la usó ante el Sanedrín (Mr 14:61-62).",
+          "fuentes": [
+            "beacon_01_b#8",
+            "r1_002#4",
+            "ladd_01_a#37"
+          ],
+          "tipo": "conexion_biblica"
+        },
+        {
+          "texto": "En la Biblia las nubes suelen hablar de la presencia de Dios: Chafer calcula que de unas 150 menciones, al menos cien se relacionan con su presencia y su gloria. Es la columna del desierto, la nube espesa del Sinaí, la gloria que llenó el tabernáculo y el templo, la nube de la transfiguración y la de la ascensión (Hch 1:9).",
+          "fuentes": [
+            "r2_028#23",
+            "macarthur_01#42",
+            "web_19#10",
+            "carballosa_02_b#2"
+          ],
+          "tipo": "simbolo_numero"
+        },
+        {
+          "texto": "MacArthur y su Biblia de estudio piensan en nubes de gloria: la luz de la presencia de Dios (la Shekiná), que antes debía quedar velada porque nadie podía verla y vivir (Éx 33:20). Cuando Cristo vuelva, se verá por completo.",
+          "fuentes": [
+            "mbiblia_01_a#19",
+            "web_19#10",
+            "macarthur_01#42",
+            "web_03_a#16"
+          ],
+          "tipo": "explicacion_texto"
+        }
       ]
     },
     {
       "rango": "1:7",
       "titulo": "«Todo ojo le verá»: nada de secreto",
       "notas": [
-        {"texto": "La primera vez vino casi sin que se notara: Guzik recuerda que nunca salió en las noticias de Roma, y para MacArthur su gloria estuvo velada; solo Pedro, Jacobo y Juan vieron un reflejo en la transfiguración. Wiersbe agrega que entonces asombró a unos pocos en Palestina; cuando vuelva, se asombrará el mundo entero (Is 52:15).", "fuentes": ["web_03_a#17", "macarthur_02_a#1", "r2_016#16", "carballosa_02_b#3"], "tipo": "explicacion_texto"},
-        {"texto": "Ladd lo explica con el juicio ante el Sanedrín: en los días de su carne se podía discutir que fuera el Mesías; ese día será evidente para todos. Le parece ocioso especular cómo lo verá todo el mundo a la vez: el señorío que hoy los creyentes reconocen por fe será imposible de esquivar. Buswell ve en la ascensión una muestra: subió visible en una nube y así volverá (Hch 1:11).", "fuentes": ["ladd_01_a#37", "r2_004_a#8"], "tipo": "explicacion_texto"},
-        {"texto": "La frase descarta una venida oculta. Berkhof (reformado, amilenial) la describe como personal, física, visible, repentina y gloriosa, y contesta a quienes decían que Cristo volvió de forma invisible en 1914; la nota de Justin Taylor sobre los Testigos de Jehová dice lo mismo. MacArthur la usa contra quienes ubican su venida en el año 70: “¿Quién vio a Cristo en el año 70?”; entonces se vio a Tito, el general romano.", "fuentes": ["r1_029#28", "r1_039#13", "cpe_05#14", "r2_007#1", "r2_005_a#5", "cbmh_01_b#16"], "tipo": "teologia_doctrina"}
+        {
+          "texto": "La primera vez vino casi sin que se notara: Guzik recuerda que nunca salió en las noticias de Roma, y MacArthur, que solo Pedro, Jacobo y Juan vieron un reflejo de su gloria en la transfiguración. Wiersbe agrega que entonces asombró a unos pocos; cuando vuelva, se asombrará el mundo entero (Is 52:15).",
+          "fuentes": [
+            "web_03_a#17",
+            "macarthur_02_a#1",
+            "r2_016#16",
+            "carballosa_02_b#3"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "Ladd lo explica con el juicio ante el Sanedrín: en los días de su carne se podía discutir que fuera el Mesías; ese día será evidente para todos. Le parece ocioso especular cómo lo verá todo el mundo a la vez: el señorío que hoy los creyentes reconocen por fe será imposible de esquivar. Buswell ve en la ascensión una muestra: subió visible en una nube y así volverá (Hch 1:11).",
+          "fuentes": [
+            "ladd_01_a#37",
+            "r2_004_a#8"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "La frase descarta una venida oculta. Berkhof (reformado, amilenial) la describe como personal, física, visible, repentina y gloriosa, y contesta a quienes decían que Cristo volvió invisiblemente en 1914, como también Justin Taylor frente a los Testigos de Jehová. MacArthur la usa contra quienes ubican la venida en el año 70: entonces solo se vio a Tito, el general romano (ver Profundizar).",
+          "fuentes": [
+            "r1_029#28",
+            "r1_039#13",
+            "cpe_05#14",
+            "r2_007#1",
+            "r2_005_a#5",
+            "cbmh_01_b#16"
+          ],
+          "tipo": "teologia_doctrina"
+        }
       ]
     },
     {
       "rango": "1:7",
       "titulo": "«Los que le traspasaron» y el llanto de los linajes",
       "notas": [
-        {"texto": "La segunda parte sigue a Zacarías 12:10-12, donde el que habla es el Señor: “mirarán a mí, a quien traspasaron”. Juan ya había citado ese texto al contar la lanzada en el costado (Jn 19:34, 37). Earle (Beacon) señala que solo Juan menciona ese detalle y que en los dos pasajes usa la misma palabra poco común, tomada del hebreo y no de la traducción griega del Antiguo Testamento: un indicio de que el Evangelio y el Apocalipsis tienen el mismo autor.", "fuentes": ["beacon_01_b#8", "r2_030#22", "r2_010#25"], "tipo": "conexion_biblica"},
-        {"texto": "Quiénes son «los que le traspasaron» y qué clase de lamento es el de «todos los linajes de la tierra» se discute (ver Interpretaciones). La palabra para lamentarse significa literalmente “cortar”: venía del duelo pagano en que la gente se hería, como los profetas de Baal (1 R 18:28), algo prohibido a Israel (Lv 19:28).", "fuentes": ["macarthur_02_a#3", "beacon_01_b#9", "carballosa_02_b#4"], "tipo": "griego_palabra"},
-        {"texto": "Hay algo en que todos coinciden: el que fue crucificado va a ser reconocido como Rey y Juez del mundo (Ladd). Koechlin lo resume al comentar las burlas del Salmo 35: lo verán “ya no más en la cruz, sino en toda su gloria judicial”.", "fuentes": ["ladd_01_a#38", "r2_021#26", "cbmh_01_b#16"], "tipo": "teologia_doctrina"}
+        {
+          "texto": "La segunda parte sigue a Zacarías 12:10-12, donde el que habla es el Señor: “mirarán a mí, a quien traspasaron”. Juan ya había citado ese texto al contar la lanzada en el costado (Jn 19:34, 37). Earle (Beacon) nota que en los dos pasajes usa la misma palabra poco común, tomada del hebreo: un indicio de que el Evangelio y el Apocalipsis tienen el mismo autor.",
+          "fuentes": [
+            "beacon_01_b#8",
+            "r2_030#22",
+            "r2_010#25"
+          ],
+          "tipo": "conexion_biblica"
+        },
+        {
+          "texto": "Quiénes son «los que le traspasaron» y qué clase de lamento es el de «todos los linajes de la tierra» se discute (ver Interpretaciones). La palabra para lamentarse significa literalmente “cortar”: venía del duelo pagano en que la gente se hería, como los profetas de Baal (1 R 18:28), algo prohibido a Israel (Lv 19:28).",
+          "fuentes": [
+            "macarthur_02_a#3",
+            "beacon_01_b#9",
+            "carballosa_02_b#4"
+          ],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "Hay algo en que todos coinciden: el que fue crucificado va a ser reconocido como Rey y Juez del mundo (Ladd). Koechlin lo resume al comentar las burlas del Salmo 35: lo verán “ya no más en la cruz, sino en toda su gloria judicial”.",
+          "fuentes": [
+            "ladd_01_a#38",
+            "r2_021#26",
+            "cbmh_01_b#16"
+          ],
+          "tipo": "teologia_doctrina"
+        }
       ]
     },
     {
       "rango": "1:7",
       "titulo": "«Sí, amén»: la respuesta de Juan",
       "notas": [
-        {"texto": "Juan cierra con dos palabras de afirmación puestas lado a lado: la griega (nai, “sí”) y la hebrea (amén, “así es”), como en 2 Corintios 1:20. Es el modo más fuerte de decir que todo se cumplirá al pie de la letra. MacArthur ve aquí a Juan dando su propia respuesta a la venida, después de mostrar la de creyentes e incrédulos. McGee recuerda que amén tiene que ver con la fidelidad: Cristo lo va a hacer y no va a cambiar de idea. En 3:14 Jesús mismo se llama «el Amén».", "fuentes": ["beacon_01_b#10", "cbmh_01_b#18", "carballosa_02_b#4", "macarthur_02_a#4", "mcgee_02_a#6", "carballosa_18_b#24"], "tipo": "griego_palabra"}
+        {
+          "texto": "Juan cierra con dos palabras de afirmación lado a lado: la griega (nai, “sí”) y la hebrea (amén, “así es”), como en 2 Corintios 1:20. Es el modo más fuerte de decir que todo se cumplirá al pie de la letra; para MacArthur, es la respuesta personal de Juan a la venida. McGee recuerda que amén habla de fidelidad: Cristo lo va a hacer y no va a cambiar de idea. En 3:14 Jesús mismo es “el Amén”.",
+          "fuentes": [
+            "beacon_01_b#10",
+            "cbmh_01_b#18",
+            "carballosa_02_b#4",
+            "macarthur_02_a#4",
+            "mcgee_02_a#6",
+            "carballosa_18_b#24"
+          ],
+          "tipo": "griego_palabra"
+        }
       ]
     },
     {
       "rango": "1:8",
       "titulo": "«Yo soy el Alfa y la Omega»",
       "notas": [
-        {"texto": "Ahora habla otro: es una declaración divina, como un sello sobre lo anunciado (quién habla se discute; ver Interpretaciones). Alfa y omega son la primera y la última letra del alfabeto griego. Beasley-Murray explica que traducen para lectores griegos una expresión hebrea, “de alef a tau”: los rabinos decían que Adán quebrantó la ley “de alef a tau” y que Abraham la guardó así. Dios es Señor del comienzo, del final y de todo lo que hay en el medio.", "fuentes": ["beacon_01_b#11", "carballosa_02_b#5", "henry_01_a#10", "ladd_01_a#39"], "tipo": "explicacion_texto"},
-        {"texto": "Swete, citado por Earle y Carballosa, ve en la frase no solo eternidad sino infinitud: una vida sin límites que lo abarca todo y a la vez lo trasciende. El Comentario Mundo Hispano observa que solo el Apocalipsis llama así a Dios, que equivale a “el primero y el último” (1:17) y a “el principio y el fin” (21:6; 22:13), y que las dos letras se volvieron símbolos del arte cristiano. Washer y Lacueva lo enlazan con Isaías 44:6, donde el Señor dice ser el primero y el último.", "fuentes": ["beacon_01_b#12", "carballosa_02_b#5", "cbmh_01_b#19", "r2_024#19", "r2_030#2", "dbmh_01_a#9"], "tipo": "teologia_doctrina"},
-        {"texto": "Dos detalles de texto. Según Earle, las palabras «principio y fin» que trae la RVR1960 no son originales en este versículo, aunque sí en 22:13. Y donde leemos «dice el Señor», el griego dice “el Señor Dios”, un título que subraya su soberanía (Carballosa).", "fuentes": ["beacon_01_b#12", "carballosa_02_b#6"], "tipo": "explicacion_texto"}
+        {
+          "texto": "Ahora habla otro: es una declaración divina, como un sello sobre lo anunciado (quién habla se discute; ver Interpretaciones). Alfa y omega son la primera y la última letra del alfabeto griego. Beasley-Murray explica que traducen para lectores griegos una expresión hebrea, “de alef a tau”: los rabinos decían que Adán quebrantó la ley “de alef a tau” y que Abraham la guardó así. Dios es Señor del comienzo, del final y de todo lo que hay en el medio.",
+          "fuentes": [
+            "beacon_01_b#11",
+            "carballosa_02_b#5",
+            "henry_01_a#10",
+            "ladd_01_a#39"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "Swete, citado por Earle y Carballosa, ve en la frase no solo eternidad sino infinitud: una vida que lo abarca todo y a la vez lo trasciende. Solo el Apocalipsis llama así a Dios, y equivale a “el primero y el último” (1:17) y a “el principio y el fin” (22:13), como en Isaías 44:6 (Mundo Hispano, Washer, Lacueva).",
+          "fuentes": [
+            "beacon_01_b#12",
+            "carballosa_02_b#5",
+            "cbmh_01_b#19",
+            "r2_024#19",
+            "r2_030#2",
+            "dbmh_01_a#9"
+          ],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "Dos detalles de texto. Según Earle, las palabras «principio y fin» que trae la RVR1960 no son originales en este versículo, aunque sí en 22:13. Y donde leemos «dice el Señor», el griego dice “el Señor Dios”, un título que subraya su soberanía (Carballosa).",
+          "fuentes": [
+            "beacon_01_b#12",
+            "carballosa_02_b#6"
+          ],
+          "tipo": "explicacion_texto"
+        }
       ]
     },
     {
       "rango": "1:8",
       "titulo": "«El que es y que era y que ha de venir, el Todopoderoso»",
       "notas": [
-        {"texto": "Es el mismo nombre del saludo (1:4). Ladd ve en él a un Dios eterno, por encima de los conflictos de la historia, que además “ha de venir” para llevar la historia a su fin. El Comentario Mundo Hispano lo aplica a la vida: es el Dios en quien los creyentes confiaron, confían y confiarán. Grudem lo pone entre los textos de la eternidad de Dios, junto al “Yo soy” de Jesús (Jn 8:58; Éx 3:14).", "fuentes": ["ladd_01_a#39", "cbmh_01_b#20", "r2_034#4", "r1_024_a#11"], "tipo": "teologia_doctrina"},
-        {"texto": "«El Todopoderoso» es un título casi exclusivo del Apocalipsis: fuera del libro solo aparece en 2 Corintios 6:18. Traduce el nombre hebreo El Shaddai (Berkhof, MacArthur y Mayhue) y, según Beasley-Murray, la traducción griega del Antiguo Testamento lo usa para “Jehová de los ejércitos”. Ladd prefiere traducirlo “el que todo lo gobierna”; Guzik, “aquel que tiene su mano en todo”.", "fuentes": ["cbmh_01_b#21", "beacon_01_b#12", "r2_039#30", "r2_034#12", "henry_01_a#10", "ladd_01_a#39", "web_03_a#20"], "tipo": "griego_palabra"},
-        {"texto": "¿Por qué este nombre justo acá? MacArthur ve una firma con tres garantías: el que lo sabe todo conoce la certeza de su promesa; el eterno no tiene sorpresas; el Todopoderoso no puede ser detenido. Para el Comentario Mundo Hispano es Dios mismo avalando con su firma la verdad de la segunda venida, en el momento en que las iglesias de Asia estaban por enfrentar la persecución. Carballosa resume en el v. 8 el gran tema del libro: Dios va a establecer su autoridad sobre la tierra cuando Jesucristo venga con poder y gloria.", "fuentes": ["macarthur_02_a#5", "mbiblia_01_a#21", "cbmh_01_b#19", "cbmh_01_b#20", "carballosa_02_b#6"], "tipo": "teologia_doctrina"}
+        {
+          "texto": "Es el mismo nombre del saludo (1:4). Ladd ve a un Dios eterno, por encima de los conflictos de la historia, que además “ha de venir” para llevarla a su fin. El Comentario Mundo Hispano lo aplica: es el Dios en quien los creyentes confiaron, confían y confiarán.",
+          "fuentes": [
+            "ladd_01_a#39",
+            "cbmh_01_b#20",
+            "r2_034#4",
+            "r1_024_a#11"
+          ],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "«El Todopoderoso» es un título casi exclusivo del Apocalipsis: fuera del libro solo aparece en 2 Corintios 6:18. Traduce el nombre hebreo El Shaddai (Berkhof, MacArthur y Mayhue) y, según Beasley-Murray, la traducción griega del Antiguo Testamento lo usa para “Jehová de los ejércitos”. Ladd prefiere traducirlo “el que todo lo gobierna”; Guzik, “aquel que tiene su mano en todo”.",
+          "fuentes": [
+            "cbmh_01_b#21",
+            "beacon_01_b#12",
+            "r2_039#30",
+            "r2_034#12",
+            "henry_01_a#10",
+            "ladd_01_a#39",
+            "web_03_a#20"
+          ],
+          "tipo": "griego_palabra"
+        },
+        {
+          "texto": "¿Por qué este nombre justo acá? MacArthur ve una firma con tres garantías: el que lo sabe todo conoce la certeza de su promesa, el eterno no tiene sorpresas y al Todopoderoso nadie lo detiene. Para el Comentario Mundo Hispano es Dios avalando con su firma la segunda venida, cuando las iglesias de Asia estaban por enfrentar la persecución.",
+          "fuentes": [
+            "macarthur_02_a#5",
+            "mbiblia_01_a#21",
+            "cbmh_01_b#19",
+            "cbmh_01_b#20",
+            "carballosa_02_b#6"
+          ],
+          "tipo": "teologia_doctrina"
+        }
       ]
     }
   ],
   "simbolos": [
-    {"signo": "las nubes", "significado": "La presencia y la gloria de Dios, como en el desierto, el Sinaí, el tabernáculo y la ascensión. Según MacArthur, nubes de gloria (la Shekiná) que ya no estarán veladas; según Guzik, también las multitudes de creyentes que acompañan al Señor.", "refs": ["1:7", "14:14"], "fuentes": ["macarthur_01#42", "mbiblia_01_a#19", "r2_028#23", "web_03_a#16"]},
-    {"signo": "Alfa y Omega", "significado": "Primera y última letra del alfabeto griego: el principio y el fin, y todo lo que hay en medio. Para MacArthur, todo conocimiento se escribe con letras, así que no hay nada fuera del saber de Dios; para McGee, Cristo es “el abecedario completo”, la Palabra con que Dios se comunica.", "refs": ["1:8", "21:6", "22:13"], "fuentes": ["ladd_01_a#39", "macarthur_02_a#5", "mbiblia_01_a#21", "mcgee_02_a#7", "carballosa_18_b#24"]}
+    {
+      "signo": "las nubes",
+      "significado": "La presencia y la gloria de Dios, como en el desierto, el Sinaí, el tabernáculo y la ascensión. Según MacArthur, nubes de gloria (la Shekiná) que ya no estarán veladas; según Guzik, también las multitudes de creyentes que acompañan al Señor.",
+      "refs": [
+        "1:7",
+        "14:14"
+      ],
+      "fuentes": [
+        "macarthur_01#42",
+        "mbiblia_01_a#19",
+        "r2_028#23",
+        "web_03_a#16"
+      ]
+    },
+    {
+      "signo": "Alfa y Omega",
+      "significado": "Primera y última letra del alfabeto griego: el principio, el fin y todo lo que hay en medio. Para MacArthur no hay nada fuera del saber de Dios, porque todo conocimiento se escribe con letras; para McGee, Cristo es “el abecedario completo”, la Palabra con que Dios se comunica.",
+      "refs": [
+        "1:8",
+        "21:6",
+        "22:13"
+      ],
+      "fuentes": [
+        "ladd_01_a#39",
+        "macarthur_02_a#5",
+        "mbiblia_01_a#21",
+        "mcgee_02_a#7",
+        "carballosa_18_b#24"
+      ]
+    }
   ],
   "palabras": [
-    {"ref": "1:7", "griego": "ἰδού", "translit": "idoú", "significado": "“He aquí”: partícula que llama la atención; una invitación a mirar.", "fuentes": ["carballosa_02_b#2", "macarthur_01#38"]},
-    {"ref": "1:7", "griego": "ἔρχεται", "translit": "érchetai (de érchomai)", "significado": "“Viene”: presente con valor de futuro; para MacArthur, alguien que ya está en camino.", "fuentes": ["carballosa_02_b#2", "macarthur_01#38", "web_19#8"]},
-    {"ref": "1:7", "griego": "ἐξεκέντησαν", "translit": "exekéntēsan (de ekkentéō)", "significado": "“Traspasaron”: palabra poco común que Juan usa también en Juan 19:37, siguiendo el hebreo de Zacarías.", "fuentes": ["beacon_01_b#8"]},
-    {"ref": "1:7", "griego": "κόψονται", "translit": "kópsontai (de kóptō)", "significado": "“Harán lamentación”: literalmente cortar(se), por el duelo pagano con golpes y heridas.", "fuentes": ["macarthur_02_a#3"]},
-    {"ref": "1:7", "griego": "ναί, ἀμήν", "translit": "nai, amén", "significado": "“Sí, amén”: las formas griega y hebrea de afirmar, juntas; amén viene de una raíz que habla de firmeza y certeza.", "fuentes": ["beacon_01_b#10", "cbmh_01_b#18", "carballosa_18_b#24"]},
-    {"ref": "1:8", "griego": "παντοκράτωρ", "translit": "pantokrátōr", "significado": "“Todopoderoso”: el que tiene todo poder y autoridad; Grudem aclara que su poder no se agota en lo que ya hizo.", "fuentes": ["r2_026#3", "carballosa_02_b#6", "mbiblia_01_a#22"]}
+    {
+      "ref": "1:7",
+      "griego": "ἰδού",
+      "translit": "idoú",
+      "significado": "“He aquí”: partícula que llama la atención; una invitación a mirar.",
+      "fuentes": [
+        "carballosa_02_b#2",
+        "macarthur_01#38"
+      ]
+    },
+    {
+      "ref": "1:7",
+      "griego": "ἔρχεται",
+      "translit": "érchetai (de érchomai)",
+      "significado": "“Viene”: presente con valor de futuro; para MacArthur, alguien que ya está en camino.",
+      "fuentes": [
+        "carballosa_02_b#2",
+        "macarthur_01#38",
+        "web_19#8"
+      ]
+    },
+    {
+      "ref": "1:7",
+      "griego": "ἐξεκέντησαν",
+      "translit": "exekéntēsan (de ekkentéō)",
+      "significado": "“Traspasaron”: palabra poco común que Juan usa también en Juan 19:37, siguiendo el hebreo de Zacarías.",
+      "fuentes": [
+        "beacon_01_b#8"
+      ]
+    },
+    {
+      "ref": "1:7",
+      "griego": "κόψονται",
+      "translit": "kópsontai (de kóptō)",
+      "significado": "“Harán lamentación”: literalmente cortar(se), por el duelo pagano con golpes y heridas.",
+      "fuentes": [
+        "macarthur_02_a#3"
+      ]
+    },
+    {
+      "ref": "1:7",
+      "griego": "ναί",
+      "translit": "nai (con amén)",
+      "significado": "“Sí, amén”: las formas griega y hebrea de afirmar, juntas; amén viene de una raíz que habla de firmeza y certeza.",
+      "fuentes": [
+        "beacon_01_b#10",
+        "cbmh_01_b#18",
+        "carballosa_18_b#24"
+      ]
+    },
+    {
+      "ref": "1:8",
+      "griego": "παντοκράτωρ",
+      "translit": "pantokrátōr",
+      "significado": "“Todopoderoso”: el que tiene todo poder y autoridad; Grudem aclara que su poder no se agota en lo que ya hizo.",
+      "fuentes": [
+        "r2_026#3",
+        "carballosa_02_b#6",
+        "mbiblia_01_a#22"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "En Zacarías 12:10 el que habla es el Señor (Jehová): “mirarán a mí, a quien traspasaron”. Juan aplica ese texto a Jesús dos veces (Jn 19:37; Ap 1:7), y Geisler, Brooks y Chafer ven ahí una identificación de Jesús con Jehová. Lacueva propone esta comparación para entender por qué en Apocalipsis 1 se dan a Cristo nombres que la Biblia suele reservar para Dios.", "refs": ["Zac 12:10", "Jn 19:37"], "fuentes": ["r2_001_a#4", "r2_039#3", "r2_029#15", "r2_030#22"]},
-    {"texto": "El que vino a morir vuelve a reinar. MacArthur: “Jesucristo vino la primera vez en humillación; Él volverá en exaltación”: vino a servir y como Siervo sufriente, y volverá como Rey vencedor. Ladd: el crucificado será reconocido como rey y juez del mundo.", "refs": ["Fil 2:10-11", "Mt 26:63-64"], "fuentes": ["macarthur_02_a#6", "ladd_01_a#38", "macarthur_01#39"]},
-    {"texto": "Los títulos del v. 8 terminan siendo de Cristo: en 22:13 Jesús dice ser el Alfa y la Omega, el principio y el fin. Berkhof, Grudem y MacArthur y Mayhue citan este versículo como prueba de que el Hijo comparte la eternidad y la omnipotencia de Dios. Tozer agrega que la gloria de Cristo no viene de David, de Abraham ni de Adán: la de ellos viene de la suya.", "refs": ["Ap 22:13", "Jn 1:1"], "fuentes": ["r2_039#34", "r2_034#4", "r1_033#27", "r2_030#2", "r2_022_a#42"]}
+    {
+      "texto": "En Zacarías 12:10 el que habla es el Señor (Jehová): “mirarán a mí, a quien traspasaron”. Juan aplica ese texto a Jesús dos veces (Jn 19:37; Ap 1:7), y Geisler, Brooks y Chafer ven ahí una identificación de Jesús con Jehová. Lacueva propone esta comparación para entender por qué en Apocalipsis 1 se dan a Cristo nombres que la Biblia suele reservar para Dios.",
+      "refs": [
+        "Zac 12:10",
+        "Jn 19:37"
+      ],
+      "fuentes": [
+        "r2_001_a#4",
+        "r2_039#3",
+        "r2_029#15",
+        "r2_030#22"
+      ]
+    },
+    {
+      "texto": "El que vino a morir vuelve a reinar. MacArthur: “Jesucristo vino la primera vez en humillación; Él volverá en exaltación”: vino a servir y como Siervo sufriente, y volverá como Rey vencedor. Ladd: el crucificado será reconocido como rey y juez del mundo.",
+      "refs": [
+        "Fil 2:10-11",
+        "Mt 26:63-64"
+      ],
+      "fuentes": [
+        "macarthur_02_a#6",
+        "ladd_01_a#38",
+        "macarthur_01#39"
+      ]
+    },
+    {
+      "texto": "Los títulos del v. 8 terminan siendo de Cristo: en 22:13 Jesús dice ser el Alfa y la Omega. Berkhof, Grudem y MacArthur y Mayhue citan este versículo como prueba de que el Hijo comparte la eternidad y la omnipotencia de Dios.",
+      "refs": [
+        "Ap 22:13",
+        "Jn 8:58"
+      ],
+      "fuentes": [
+        "r2_039#34",
+        "r2_034#4",
+        "r1_033#27",
+        "r2_030#2"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Quiénes son «los que le traspasaron»?",
       "posturas": [
-        {"postura": "La nación judía incrédula, responsable de su muerte (Hch 2:22-23), y no los soldados romanos; «todos los linajes» serían los gentiles.", "quien": "MacArthur y su Biblia de estudio; McGee; Wiersbe (premilenial dispensacional)", "fuentes": ["macarthur_02_a#2", "mbiblia_01_a#20", "mcgee_02_a#5", "r1_024_a#12"]},
-        {"postura": "Una clase de personas, judíos y gentiles: los que lo crucificaron ya no vivirán, pero sí la clase que hizo lo mismo. Para Carballosa, «y los que le traspasaron» explica «todo ojo» (“es decir”).", "quien": "Carballosa (premilenial dispensacional)", "fuentes": ["carballosa_02_b#3"]},
-        {"postura": "Los responsables directos (Pilatos, Anás, Caifás) y todos los que en cualquier época fueron hostiles o indiferentes a Jesús, los que lo “crucifican de nuevo”.", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial); Plummer, citado por Earle", "fuentes": ["ladd_01_a#38", "cbmh_01_b#17", "beacon_01_b#9"]}
+        {
+          "postura": "La nación judía incrédula, responsable de su muerte (Hch 2:22-23), y no los soldados romanos; «todos los linajes» serían los gentiles.",
+          "quien": "MacArthur y su Biblia de estudio; McGee; Wiersbe (premilenial dispensacional)",
+          "fuentes": [
+            "macarthur_02_a#2",
+            "mbiblia_01_a#20",
+            "mcgee_02_a#5",
+            "r1_024_a#12"
+          ]
+        },
+        {
+          "postura": "Una clase de personas, judíos y gentiles: los que lo crucificaron ya no vivirán, pero sí la clase que hizo lo mismo. Para Carballosa, «y los que le traspasaron» explica «todo ojo» (“es decir”).",
+          "quien": "Carballosa (premilenial dispensacional)",
+          "fuentes": [
+            "carballosa_02_b#3"
+          ]
+        },
+        {
+          "postura": "Los responsables directos (Pilatos, Anás, Caifás) y todos los que en cualquier época fueron hostiles o indiferentes a Jesús, los que lo “crucifican de nuevo”.",
+          "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial); Plummer, citado por Earle",
+          "fuentes": [
+            "ladd_01_a#38",
+            "cbmh_01_b#17",
+            "beacon_01_b#9"
+          ]
+        }
       ],
-      "nota": "Guzik junta las dos cosas: es una revelación especial para el pueblo judío, aunque no solo los judíos lo traspasaron; al ver sus heridas, todos dirán “nosotros le hicimos esto”."
+      "nota": "Guzik junta las dos cosas: será una revelación especial para el pueblo judío, aunque no solo ellos lo traspasaron; al ver sus heridas, todos dirán “nosotros le hicimos esto”."
     },
     {
       "tema": "¿Qué clase de lamento es?",
       "posturas": [
-        {"postura": "El llanto de arrepentimiento de Israel anunciado en Zacarías 12, que se salvará cuando vea al que traspasaron.", "quien": "MacArthur; Wiersbe; Chafer; Larkin (premilenial dispensacional)", "fuentes": ["macarthur_02_a#2", "r2_017#19", "r2_029#15", "larkin_01_a#17"]},
-        {"postura": "Remordimiento y terror ante el juicio, no arrepentimiento: Cristo no es el objeto sino la ocasión del llanto, porque en el libro los impíos no se arrepienten (9:20; 16:9, 11).", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial); Simcox, citado por Earle; MacArthur y su Biblia de estudio, para las naciones", "fuentes": ["ladd_01_a#38", "cbmh_01_b#17", "beacon_01_b#9", "macarthur_02_a#3", "mbiblia_01_a#20"]},
-        {"postura": "Expone las dos lecturas (Israel arrepentido o la humanidad desesperada) y prefiere la segunda por el contexto del libro.", "quien": "Carballosa (premilenial dispensacional)", "fuentes": ["carballosa_02_b#4"]}
+        {
+          "postura": "El llanto de arrepentimiento de Israel anunciado en Zacarías 12, que se salvará cuando vea al que traspasaron.",
+          "quien": "MacArthur; Wiersbe; Chafer; Larkin (premilenial dispensacional)",
+          "fuentes": [
+            "macarthur_02_a#2",
+            "r2_017#19",
+            "r2_029#15",
+            "larkin_01_a#17"
+          ]
+        },
+        {
+          "postura": "Remordimiento y terror ante el juicio, no arrepentimiento: Cristo no es el objeto sino la ocasión del llanto, porque en el libro los impíos no se arrepienten (9:20; 16:9, 11).",
+          "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano (amilenial); Simcox, citado por Earle; MacArthur y su Biblia de estudio, para las naciones",
+          "fuentes": [
+            "ladd_01_a#38",
+            "cbmh_01_b#17",
+            "beacon_01_b#9",
+            "macarthur_02_a#3",
+            "mbiblia_01_a#20"
+          ]
+        },
+        {
+          "postura": "Expone las dos lecturas (Israel arrepentido o la humanidad desesperada) y prefiere la segunda por el contexto del libro.",
+          "quien": "Carballosa (premilenial dispensacional)",
+          "fuentes": [
+            "carballosa_02_b#4"
+          ]
+        }
       ],
-      "nota": "MacArthur admite que entre las naciones habrá también algunos arrepentidos (7:9-10, 14). Guzik cree que, para entonces, Israel ya habrá vuelto a Jesús y su llanto no será de ira."
+      "nota": "MacArthur admite que entre las naciones habrá algunos arrepentidos (7:9-10, 14). Guzik cree que, para entonces, Israel ya habrá vuelto a Jesús."
     },
     {
       "tema": "¿Esta venida es la misma que el arrebatamiento?",
       "posturas": [
-        {"postura": "No: es la venida pública a la tierra, distinta de un arrebatamiento previo de la iglesia a las nubes (1 Ts 4:17), que el libro no describe (Larkin) o que ocurre antes de la tribulación (MacArthur). McGee rechaza la idea de un rapto “secreto”, pero separa los dos hechos; Wiersbe sí llama secreto al arrebatamiento.", "quien": "Larkin; MacArthur; McGee; Wiersbe; Chafer (premilenial dispensacional)", "fuentes": ["larkin_01_a#17", "macarthur_01#41", "mcgee_02_a#5", "mcgeer_01#30", "r1_024_a#12", "r1_038#18"]},
-        {"postura": "Es la venida en gloria, después de la tribulación; el libro la retrata en el capítulo 19.", "quien": "Ladd (premilenial histórico, postribulacional)", "fuentes": ["ladd_01_a#37"]},
-        {"postura": "Una sola venida final: con ella llegan la resurrección, el juicio final y el estado eterno.", "quien": "Berkhof (reformado, amilenial)", "fuentes": ["r1_029#28", "r1_039#13", "r2_040#4"]}
+        {
+          "postura": "No: es la venida pública a la tierra, distinta de un arrebatamiento de la iglesia a las nubes (1 Ts 4:17), que el libro no describe (Larkin) o que ocurre antes de la tribulación (MacArthur). McGee rechaza un rapto “secreto” pero separa los dos hechos.",
+          "quien": "Larkin; MacArthur; McGee; Wiersbe; Chafer (premilenial dispensacional)",
+          "fuentes": [
+            "larkin_01_a#17",
+            "macarthur_01#41",
+            "mcgee_02_a#5",
+            "mcgeer_01#30",
+            "r1_024_a#12",
+            "r1_038#18"
+          ]
+        },
+        {
+          "postura": "Es la venida en gloria, después de la tribulación; el libro la retrata en el capítulo 19.",
+          "quien": "Ladd (premilenial histórico, postribulacional)",
+          "fuentes": [
+            "ladd_01_a#37"
+          ]
+        },
+        {
+          "postura": "Una sola venida final: con ella llegan la resurrección, el juicio final y el estado eterno.",
+          "quien": "Berkhof (reformado, amilenial)",
+          "fuentes": [
+            "r1_029#28",
+            "r1_039#13",
+            "r2_040#4"
+          ]
+        }
       ],
       "nota": "Todos afirman que la venida de 1:7 es personal, visible y gloriosa (ver anexo T7)."
     },
     {
-      "tema": "¿Se cumplió en el año 70?",
-      "posturas": [
-        {"postura": "La venida con las nubes sería el juicio sobre Jerusalén y el fin del antiguo pacto en el 70 (lectura preterista). Robert Thomas observa que Gentry la identifica, en distintos lugares, con tres hechos distintos de los años 64 a 70.", "quien": "Gentry y DeMar, según Benware", "fuentes": ["r1_005#7"]},
-        {"postura": "No: Jesús no volvió visiblemente en el 70 ni ejecutó los juicios del libro; «todo ojo le verá» pide una venida pública todavía futura.", "quien": "Benware, con Thomas y Geisler; MacArthur", "fuentes": ["r1_005#7", "r2_007#1"]}
-      ],
-      "nota": "La nota sobre esta postura viene de un autor que la rechaza; ver el diagrama de los cuatro modos de leer el libro."
-    },
-    {
       "tema": "¿Quién habla en el v. 8, el Padre o Cristo?",
       "posturas": [
-        {"postura": "Dios Padre, “el Señor Dios Todopoderoso”; en 22:13 el título se le da a Cristo, pero aquí no habla él.", "quien": "Swete y muchos recientes; Beasley-Murray; Comentario Mundo Hispano", "fuentes": ["beacon_01_b#11", "henry_01_a#10", "cbmh_01_b#19"]},
-        {"postura": "Cristo, porque el capítulo prepara su revelación como Dios y Todopoderoso, y los mismos títulos vuelven en su boca (1:17; 22:13). Así lo leían Hipólito y Orígenes.", "quien": "Plummer; J. B. Smith; Earle; Lenski; Carballosa; Guzik", "fuentes": ["beacon_01_b#11", "beacon_01_b#12", "carballosa_02_b#5", "web_03_a#19"]}
+        {
+          "postura": "Dios Padre, “el Señor Dios Todopoderoso”; en 22:13 el título se le da a Cristo, pero aquí no habla él.",
+          "quien": "Swete y muchos recientes; Beasley-Murray; Comentario Mundo Hispano",
+          "fuentes": [
+            "beacon_01_b#11",
+            "henry_01_a#10",
+            "cbmh_01_b#19"
+          ]
+        },
+        {
+          "postura": "Cristo, porque el capítulo prepara su revelación como Dios y Todopoderoso, y los mismos títulos vuelven en su boca (1:17; 22:13). Así lo leían Hipólito y Orígenes.",
+          "quien": "Plummer; J. B. Smith; Earle; Lenski; Carballosa; Guzik",
+          "fuentes": [
+            "beacon_01_b#11",
+            "beacon_01_b#12",
+            "carballosa_02_b#5",
+            "web_03_a#19"
+          ]
+        }
       ],
       "nota": "Carballosa recuerda que el Padre y el Hijo son coiguales y coeternos, así que los dos pueden decirlo; Lacueva nota que el título se aplica por igual a Dios y a Jesucristo."
     }
   ],
   "biblioteca": [
-    {"texto": "Una ciudad sitiada no tiene más consuelo que la promesa de que llega su rey. Así el regreso de Jesús debería ser fuente continua de fortaleza y paciencia; ¿por qué buscamos consuelo en otro lado? La invitación es orar cada día “Señor Jesús, venga tu reino”.", "autor": "John D. Gillespie (sobre Richard Baxter)", "obra": "El descanso eterno de los creyentes", "pagina": "pág. PDF 37", "tipo": "aplicacion", "fuentes": ["r2_009#8"]},
-    {"texto": "Mientras Ricardo Corazón de León estaba lejos, su hermano Juan usurpó el trono y gobernó mal; el pueblo oraba por la vuelta del rey, y cuando volvió, los castillos del usurpador cayeron como naipes. Un Rey mayor reclamará un reino mayor.", "autor": "John MacArthur, citando a John Phillips", "obra": "Comentario MacArthur del Nuevo Testamento: Apocalipsis", "pagina": "pág. PDF 31", "tipo": "ilustracion", "fuentes": ["macarthur_02_a#7"]},
-    {"texto": "Ante catástrofes políticas y quiebres sociales, el final está asegurado porque Cristo ha de reinar.", "autor": "C. H. Spurgeon", "obra": "Apuntes de sermones", "pagina": "pág. PDF 104", "tipo": "doctrina", "fuentes": ["r2_015#26"]},
-    {"texto": "El Reino de Dios es un futuro que ya avanza hacia nosotros: donde se perdona un pecado, el Reino está presente, aunque su plenitud es futura. Es la realidad del Dios “que era, que es y que ha de venir”.", "autor": "José Grau", "obra": "Escatología", "pagina": "pág. PDF 65", "tipo": "doctrina", "fuentes": ["r2_004_a#9"]}
+    {
+      "texto": "Una ciudad sitiada no tiene más consuelo que la promesa de que llega su rey. Así el regreso de Jesús debería ser fuente continua de fortaleza y paciencia; ¿por qué buscamos consuelo en otro lado? La invitación es orar cada día “Señor Jesús, venga tu reino”.",
+      "autor": "John D. Gillespie (sobre Richard Baxter)",
+      "obra": "El descanso eterno de los creyentes",
+      "pagina": "pág. PDF 37",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r2_009#8"
+      ]
+    },
+    {
+      "texto": "Mientras Ricardo Corazón de León estaba lejos, su hermano Juan usurpó el trono y gobernó mal; el pueblo oraba por la vuelta del rey, y cuando volvió, los castillos del usurpador cayeron como naipes. Un Rey mayor reclamará un reino mayor.",
+      "autor": "John MacArthur, citando a John Phillips",
+      "obra": "Comentario MacArthur del Nuevo Testamento: Apocalipsis",
+      "pagina": "pág. PDF 31",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "macarthur_02_a#7"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Dn 7:13-14", "nota": "El hijo de hombre que viene con las nubes y recibe un reino eterno.", "fuentes": ["beacon_01_b#8", "r1_002#4"]},
-    {"ref": "Zac 12:10-14", "nota": "Mirarán al que traspasaron y llorarán como por un hijo único.", "fuentes": ["carballosa_02_b#1", "r1_022#18"]},
-    {"ref": "Jn 19:34-37", "nota": "La lanzada en el costado: Juan cita a Zacarías al pie de la cruz.", "fuentes": ["beacon_01_b#8", "r2_030#22"]},
-    {"ref": "Mt 24:30", "nota": "Jesús une las mismas dos profecías al hablar de su regreso; Beasley-Murray nota que Ap 1:7 lo reproduce con el orden invertido.", "fuentes": ["henry_01_a#10", "cbmh_01_b#16"]},
-    {"ref": "Hch 1:9-11", "nota": "Subió en una nube y volverá del mismo modo.", "fuentes": ["r2_004_a#8", "r2_031#36"]},
-    {"ref": "Is 44:6", "nota": "“Yo soy el primero y yo soy el postrero”: el título del Señor que el Apocalipsis retoma.", "fuentes": ["r2_024#19", "r2_030#2"]}
+    {
+      "ref": "Dn 7:13-14",
+      "nota": "El hijo de hombre que viene con las nubes y recibe un reino eterno.",
+      "fuentes": [
+        "beacon_01_b#8",
+        "r1_002#4"
+      ]
+    },
+    {
+      "ref": "Zac 12:10-14",
+      "nota": "Mirarán al que traspasaron y llorarán como por un hijo único.",
+      "fuentes": [
+        "carballosa_02_b#1",
+        "r1_022#18"
+      ]
+    },
+    {
+      "ref": "Jn 19:34-37",
+      "nota": "La lanzada en el costado: Juan cita a Zacarías al pie de la cruz.",
+      "fuentes": [
+        "beacon_01_b#8",
+        "r2_030#22"
+      ]
+    },
+    {
+      "ref": "Mt 24:30",
+      "nota": "Jesús une las mismas dos profecías al hablar de su regreso; Beasley-Murray nota que Ap 1:7 lo reproduce con el orden invertido.",
+      "fuentes": [
+        "henry_01_a#10",
+        "cbmh_01_b#16"
+      ]
+    },
+    {
+      "ref": "Hch 1:9-11",
+      "nota": "Subió en una nube y volverá del mismo modo.",
+      "fuentes": [
+        "r2_004_a#8",
+        "r2_031#36"
+      ]
+    },
+    {
+      "ref": "Is 44:6",
+      "nota": "“Yo soy el primero y yo soy el postrero”: el título del Señor que el Apocalipsis retoma.",
+      "fuentes": [
+        "r2_024#19",
+        "r2_030#2"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "La esperanza también ordena la vida. Vila contrasta al creyente que aguarda la esperanza bienaventurada (Tit 2:13), y por eso busca la santidad (2 P 3:11), con el que espera ese día con espanto. MacArthur recuerda que el libro llama a estar preparados: la corona es para “los que aman su venida” (2 Ti 4:8).", "fuentes": ["r1_025#5", "macarthur_02_a#6"]},
-    {"texto": "Cuando el mundo parece fuera de control, el Todopoderoso tiene todo en su mano. El Comentario Mundo Hispano lo dice con una imagen: los cristianos y las iglesias están guardados en el puño de Dios. McGee concluye que, como él nos ama, no hay que tenerle miedo a lo que sigue en el libro.", "fuentes": ["cbmh_01_b#21", "mcgee_02_a#8"]},
-    {"texto": "No se dejen ganar por la burla de “¿dónde está la promesa de su advenimiento?” (2 P 3:4). Un autor puritano exhortaba a esperar al Señor cada día; para Dios la tardanza es breve.", "fuentes": ["r2_024#35"]},
-    {"texto": "Lucado usa este versículo para recordar que la santidad de Dios deja al descubierto nuestro pecado (He 12:14). Es una buena razón para venir hoy a Cristo, el traspasado, y no esperar a verlo como Juez.", "fuentes": ["r2_022_a#21", "r2_003_a#3"]}
+    {
+      "texto": "La esperanza también ordena la vida. Vila contrasta al creyente que aguarda la esperanza bienaventurada (Tit 2:13), y por eso busca la santidad (2 P 3:11), con el que espera ese día con espanto. MacArthur recuerda que el libro llama a estar preparados: la corona es para “los que aman su venida” (2 Ti 4:8).",
+      "fuentes": [
+        "r1_025#5",
+        "macarthur_02_a#6"
+      ]
+    },
+    {
+      "texto": "Cuando el mundo parece fuera de control, el Todopoderoso tiene todo en su mano. El Comentario Mundo Hispano lo dice con una imagen: los cristianos y las iglesias están guardados en el puño de Dios. McGee concluye que, como él nos ama, no hay que tenerle miedo a lo que sigue en el libro.",
+      "fuentes": [
+        "cbmh_01_b#21",
+        "mcgee_02_a#8"
+      ]
+    },
+    {
+      "texto": "Lucado usa este versículo para recordar que la santidad de Dios deja al descubierto nuestro pecado (He 12:14). Mejor venir hoy a Cristo, el traspasado, que verlo un día como Juez.",
+      "fuentes": [
+        "r2_022_a#21",
+        "r2_003_a#3"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué cambia en nuestra semana pensar que Jesús “ya está en camino”? ¿Lo esperamos con alegría, con miedo o casi sin pensarlo?",
@@ -170,13 +642,70 @@
     "Si Dios es el Alfa y la Omega y tiene todo en su mano, ¿qué preocupación concreta de nuestra familia necesitamos poner hoy en esa mano?"
   ],
   "para_orar": "Señor Jesús, tú vienes con las nubes y todo ojo te verá. Gracias porque fuiste traspasado por nosotros y volverás en gloria. Danos un corazón que ame tu venida, que viva en santidad y que descanse en que tú eres el principio y el fin, el Todopoderoso. Sí, amén: ven, Señor Jesús.",
-  "visuales": ["dg-cristo", "dg-tribulacion", "dg-escuelas"],
-  "anexos": ["T3", "T4", "T7", "P1"],
+  "visuales": [
+    "dg-cristo",
+    "dg-tribulacion",
+    "dg-estructura"
+  ],
+  "anexos": [
+    "T3",
+    "T4",
+    "T7",
+    "P1"
+  ],
   "profundizar": [
-    {"titulo": "Nueve razones por las que Cristo debe volver (MacArthur)", "texto": "MacArthur enumera nueve: las promesas de Dios en el Antiguo Testamento que no se cumplieron en la primera venida (Gn 49:10; Sal 2; Is 9; Dn 7:13-14; Zac 14); la promesa de Jesús (Jn 14:2-3); la garantía del Espíritu Santo; el plan para la iglesia (en su lectura, guardarla de “la hora de la prueba” de 3:10, recompensarla y hacerla volver con él); el plan para las naciones (Sal 2; Jl 3; Mt 25:31-46); el plan para Israel, que Dios no desechó (Ro 11:1-2; Jer 31:35-37); su humillación, que pide una exaltación pública (Fil 2:10-11; Mt 26:63-64); el juicio de Satanás (1 Jn 3:8; Ro 16:20); y la expectativa de los creyentes (Tit 2:13; 2 Ti 4:8).", "fuentes": ["macarthur_01#39", "web_19#9", "macarthur_01#40"]},
-    {"titulo": "Cuánto habla la Biblia de la segunda venida", "texto": "MacArthur afirma que la Biblia habla de la venida en más de quinientos versículos y que, según un cálculo, uno de cada veinticinco versículos del Nuevo Testamento la menciona; Chafer repite esa proporción. Chafer agrega que es la primera profecía puesta en boca de un hombre (Judas 14-15, sobre Enoc) y la última palabra de la Biblia (Ap 22:20). Son cifras de estos autores, no del texto bíblico.", "fuentes": ["macarthur_01#38", "r1_038#18", "r1_036_b#8", "web_19#9"]},
-    {"titulo": "Tres palabras del Nuevo Testamento para la venida", "texto": "Lacueva explica que el Nuevo Testamento usa tres términos: parousía (“presencia” o “presentación”: Mt 24:3; 1 Ts 4:15), apokálypsis (“revelación”, quitar un velo: 2 Ts 1:7) y epipháneia (“aparición” gloriosa: 2 Ts 2:8; Tit 2:13). Berkhof agrega que los tres hablan de una venida que se puede ver.", "fuentes": ["r1_029#16", "r1_039#13"]},
-    {"titulo": "¿Cuántas veces dice «Todopoderoso» el Apocalipsis?", "texto": "Los autores no cuentan igual: la Biblia de estudio MacArthur da ocho; Earle (Beacon) y Guzik, nueve en el libro y una afuera (2 Co 6:18). La lista del Comentario Mundo Hispano incluye 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:6, 15 y 21:22. Lo que todos subrayan es que el libro de los grandes juicios es el libro del Dios que gobierna sobre todos ellos.", "fuentes": ["mbiblia_01_a#22", "beacon_01_b#12", "web_03_a#20", "cbmh_01_b#21"]},
-    {"titulo": "Una lectura judía de Zacarías 12:10", "texto": "El Diccionario de Jesús y los Evangelios señala que el Targum Jonatán no lee Zacarías 12:10 en clave mesiánica, pero una nota marginal posterior habla de un Mesías hijo de Efraín traspasado; la fecha de esa nota es incierta. Juan, al citarlo, cambia el pronombre de “mí” a “él”.", "fuentes": ["r2_010#25"]}
+    {
+      "titulo": "¿Se cumplió en el año 70?",
+      "texto": "Según Benware, autores de lectura preterista como Gary DeMar y Kenneth Gentry ven en la venida con las nubes el juicio sobre Jerusalén y el fin del antiguo pacto en el año 70; Robert Thomas observa que Gentry la identifica, en distintos lugares, con tres hechos diferentes de los años 64 a 70. Benware, con Thomas y Geisler, responde que Jesús no volvió visiblemente en el 70 ni ejecutó los juicios del libro, y MacArthur pregunta con ironía quién vio a Cristo ese año. La postura preterista llega aquí a través de un autor que la rechaza.",
+      "fuentes": [
+        "r1_005#7",
+        "r2_007#1",
+        "r2_005_a#5"
+      ]
+    },
+    {
+      "titulo": "Nueve razones por las que Cristo debe volver (MacArthur)",
+      "texto": "MacArthur enumera nueve: las promesas de Dios en el Antiguo Testamento que no se cumplieron en la primera venida (Gn 49:10; Sal 2; Is 9; Dn 7:13-14; Zac 14); la promesa de Jesús (Jn 14:2-3); la garantía del Espíritu Santo; el plan para la iglesia (en su lectura, guardarla de “la hora de la prueba” de 3:10, recompensarla y hacerla volver con él); el plan para las naciones (Sal 2; Jl 3; Mt 25:31-46); el plan para Israel, que Dios no desechó (Ro 11:1-2; Jer 31:35-37); su humillación, que pide una exaltación pública (Fil 2:10-11; Mt 26:63-64); el juicio de Satanás (1 Jn 3:8; Ro 16:20); y la expectativa de los creyentes (Tit 2:13; 2 Ti 4:8).",
+      "fuentes": [
+        "macarthur_01#39",
+        "web_19#9",
+        "macarthur_01#40"
+      ]
+    },
+    {
+      "titulo": "Cuánto habla la Biblia de la segunda venida",
+      "texto": "MacArthur afirma que la Biblia habla de la venida en más de quinientos versículos y que, según un cálculo, uno de cada veinticinco versículos del Nuevo Testamento la menciona; Chafer repite esa proporción. Chafer agrega que es la primera profecía puesta en boca de un hombre (Judas 14-15, sobre Enoc) y la última palabra de la Biblia (Ap 22:20). Son cifras de estos autores, no del texto bíblico.",
+      "fuentes": [
+        "macarthur_01#38",
+        "r1_038#18",
+        "r1_036_b#8",
+        "web_19#9"
+      ]
+    },
+    {
+      "titulo": "Tres palabras del Nuevo Testamento para la venida",
+      "texto": "Lacueva explica que el Nuevo Testamento usa tres términos: parousía (“presencia” o “presentación”: Mt 24:3; 1 Ts 4:15), apokálypsis (“revelación”, quitar un velo: 2 Ts 1:7) y epipháneia (“aparición” gloriosa: 2 Ts 2:8; Tit 2:13). Berkhof agrega que los tres hablan de una venida que se puede ver.",
+      "fuentes": [
+        "r1_029#16",
+        "r1_039#13"
+      ]
+    },
+    {
+      "titulo": "¿Cuántas veces dice «Todopoderoso» el Apocalipsis?",
+      "texto": "Los autores no cuentan igual: la Biblia de estudio MacArthur da ocho; Earle (Beacon) y Guzik, nueve en el libro y una afuera (2 Co 6:18). La lista del Comentario Mundo Hispano incluye 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:6, 15 y 21:22. Lo que todos subrayan es que el libro de los grandes juicios es el libro del Dios que gobierna sobre todos ellos.",
+      "fuentes": [
+        "mbiblia_01_a#22",
+        "beacon_01_b#12",
+        "web_03_a#20",
+        "cbmh_01_b#21"
+      ]
+    },
+    {
+      "titulo": "Una lectura judía de Zacarías 12:10",
+      "texto": "El Diccionario de Jesús y los Evangelios señala que el Targum Jonatán no lee Zacarías 12:10 en clave mesiánica, pero una nota marginal posterior habla de un Mesías hijo de Efraín traspasado; la fecha de esa nota es incierta. Juan, al citarlo, cambia el pronombre de “mí” a “él”.",
+      "fuentes": [
+        "r2_010#25"
+      ]
+    }
   ]
 }

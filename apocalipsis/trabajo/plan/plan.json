@@ -1,0 +1,1491 @@
+{
+ "partes": [
+  {
+   "id": "p1",
+   "etiqueta": "Parte 1",
+   "titulo": "La revelación de Jesucristo",
+   "rango": "1:1-20"
+  },
+  {
+   "id": "p2",
+   "etiqueta": "Parte 2",
+   "titulo": "Las siete cartas a las iglesias",
+   "rango": "2:1-3:22"
+  },
+  {
+   "id": "p3",
+   "etiqueta": "Parte 3",
+   "titulo": "El trono y el Cordero",
+   "rango": "4:1-5:14"
+  },
+  {
+   "id": "p4",
+   "etiqueta": "Parte 4",
+   "titulo": "Los siete sellos",
+   "rango": "6:1-8:5"
+  },
+  {
+   "id": "p5",
+   "etiqueta": "Parte 5",
+   "titulo": "Las siete trompetas",
+   "rango": "8:6-11:19"
+  },
+  {
+   "id": "p6",
+   "etiqueta": "Parte 6",
+   "titulo": "La mujer, el dragón y las bestias",
+   "rango": "12:1-14:20"
+  },
+  {
+   "id": "p7",
+   "etiqueta": "Parte 7",
+   "titulo": "Las siete copas",
+   "rango": "15:1-16:21"
+  },
+  {
+   "id": "p8",
+   "etiqueta": "Parte 8",
+   "titulo": "Babilonia cae y viene el Rey",
+   "rango": "17:1-19:21"
+  },
+  {
+   "id": "p9",
+   "etiqueta": "Parte 9",
+   "titulo": "El milenio y el juicio final",
+   "rango": "20:1-15"
+  },
+  {
+   "id": "p10",
+   "etiqueta": "Parte 10",
+   "titulo": "Cielo nuevo y tierra nueva",
+   "rango": "21:1-22:21"
+  }
+ ],
+ "dias": [
+  {
+   "dia": 1,
+   "desde": "1:1",
+   "hasta": "1:3",
+   "rango": "1:1-3",
+   "versiculos": 3,
+   "ini": 1,
+   "fin": 3,
+   "titulo_provisional": "Prólogo: la revelación de Jesucristo",
+   "unidades": [
+    "prologo"
+   ],
+   "parte": "p1",
+   "peso": 55945
+  },
+  {
+   "dia": 2,
+   "desde": "1:4",
+   "hasta": "1:5",
+   "rango": "1:4-5",
+   "versiculos": 2,
+   "ini": 4,
+   "fin": 5,
+   "titulo_provisional": "Saludo y tema del libro (1 de 3)",
+   "unidades": [
+    "saludo"
+   ],
+   "parte": "p1",
+   "peso": 42532
+  },
+  {
+   "dia": 3,
+   "desde": "1:6",
+   "hasta": "1:6",
+   "rango": "1:6",
+   "versiculos": 1,
+   "ini": 6,
+   "fin": 6,
+   "titulo_provisional": "Saludo y tema del libro (2 de 3)",
+   "unidades": [
+    "saludo"
+   ],
+   "parte": "p1",
+   "peso": 12796
+  },
+  {
+   "dia": 4,
+   "desde": "1:7",
+   "hasta": "1:8",
+   "rango": "1:7-8",
+   "versiculos": 2,
+   "ini": 7,
+   "fin": 8,
+   "titulo_provisional": "Saludo y tema del libro (3 de 3)",
+   "unidades": [
+    "saludo"
+   ],
+   "parte": "p1",
+   "peso": 48563
+  },
+  {
+   "dia": 5,
+   "desde": "1:9",
+   "hasta": "1:11",
+   "rango": "1:9-11",
+   "versiculos": 3,
+   "ini": 9,
+   "fin": 11,
+   "titulo_provisional": "La visión del Cristo glorificado (1 de 3)",
+   "unidades": [
+    "visionpatmos"
+   ],
+   "parte": "p1",
+   "peso": 42114
+  },
+  {
+   "dia": 6,
+   "desde": "1:12",
+   "hasta": "1:16",
+   "rango": "1:12-16",
+   "versiculos": 5,
+   "ini": 12,
+   "fin": 16,
+   "titulo_provisional": "La visión del Cristo glorificado (2 de 3)",
+   "unidades": [
+    "visionpatmos"
+   ],
+   "parte": "p1",
+   "peso": 46061
+  },
+  {
+   "dia": 7,
+   "desde": "1:17",
+   "hasta": "1:20",
+   "rango": "1:17-20",
+   "versiculos": 4,
+   "ini": 17,
+   "fin": 20,
+   "titulo_provisional": "La visión del Cristo glorificado (3 de 3)",
+   "unidades": [
+    "visionpatmos"
+   ],
+   "parte": "p1",
+   "peso": 45873
+  },
+  {
+   "dia": 8,
+   "desde": "2:1",
+   "hasta": "2:4",
+   "rango": "2:1-4",
+   "versiculos": 4,
+   "ini": 21,
+   "fin": 24,
+   "titulo_provisional": "Éfeso (1 de 2)",
+   "unidades": [
+    "efeso"
+   ],
+   "parte": "p2",
+   "peso": 48767
+  },
+  {
+   "dia": 9,
+   "desde": "2:5",
+   "hasta": "2:7",
+   "rango": "2:5-7",
+   "versiculos": 3,
+   "ini": 25,
+   "fin": 27,
+   "titulo_provisional": "Éfeso (2 de 2)",
+   "unidades": [
+    "efeso"
+   ],
+   "parte": "p2",
+   "peso": 38562
+  },
+  {
+   "dia": 10,
+   "desde": "2:8",
+   "hasta": "2:11",
+   "rango": "2:8-11",
+   "versiculos": 4,
+   "ini": 28,
+   "fin": 31,
+   "titulo_provisional": "Esmirna",
+   "unidades": [
+    "esmirna"
+   ],
+   "parte": "p2",
+   "peso": 56732
+  },
+  {
+   "dia": 11,
+   "desde": "2:12",
+   "hasta": "2:13",
+   "rango": "2:12-13",
+   "versiculos": 2,
+   "ini": 32,
+   "fin": 33,
+   "titulo_provisional": "Pérgamo (1 de 2)",
+   "unidades": [
+    "pergamo"
+   ],
+   "parte": "p2",
+   "peso": 26839
+  },
+  {
+   "dia": 12,
+   "desde": "2:14",
+   "hasta": "2:17",
+   "rango": "2:14-17",
+   "versiculos": 4,
+   "ini": 34,
+   "fin": 37,
+   "titulo_provisional": "Pérgamo (2 de 2)",
+   "unidades": [
+    "pergamo"
+   ],
+   "parte": "p2",
+   "peso": 37342
+  },
+  {
+   "dia": 13,
+   "desde": "2:18",
+   "hasta": "2:22",
+   "rango": "2:18-22",
+   "versiculos": 5,
+   "ini": 38,
+   "fin": 42,
+   "titulo_provisional": "Tiatira (1 de 2)",
+   "unidades": [
+    "tiatira"
+   ],
+   "parte": "p2",
+   "peso": 32583
+  },
+  {
+   "dia": 14,
+   "desde": "2:23",
+   "hasta": "2:29",
+   "rango": "2:23-29",
+   "versiculos": 7,
+   "ini": 43,
+   "fin": 49,
+   "titulo_provisional": "Tiatira (2 de 2)",
+   "unidades": [
+    "tiatira"
+   ],
+   "parte": "p2",
+   "peso": 35962
+  },
+  {
+   "dia": 15,
+   "desde": "3:1",
+   "hasta": "3:2",
+   "rango": "3:1-2",
+   "versiculos": 2,
+   "ini": 50,
+   "fin": 51,
+   "titulo_provisional": "Sardis (1 de 2)",
+   "unidades": [
+    "sardis"
+   ],
+   "parte": "p2",
+   "peso": 29567
+  },
+  {
+   "dia": 16,
+   "desde": "3:3",
+   "hasta": "3:6",
+   "rango": "3:3-6",
+   "versiculos": 4,
+   "ini": 52,
+   "fin": 55,
+   "titulo_provisional": "Sardis (2 de 2)",
+   "unidades": [
+    "sardis"
+   ],
+   "parte": "p2",
+   "peso": 36180
+  },
+  {
+   "dia": 17,
+   "desde": "3:7",
+   "hasta": "3:9",
+   "rango": "3:7-9",
+   "versiculos": 3,
+   "ini": 56,
+   "fin": 58,
+   "titulo_provisional": "Filadelfia (1 de 2)",
+   "unidades": [
+    "filadelfia"
+   ],
+   "parte": "p2",
+   "peso": 35507
+  },
+  {
+   "dia": 18,
+   "desde": "3:10",
+   "hasta": "3:13",
+   "rango": "3:10-13",
+   "versiculos": 4,
+   "ini": 59,
+   "fin": 62,
+   "titulo_provisional": "Filadelfia (2 de 2)",
+   "unidades": [
+    "filadelfia"
+   ],
+   "parte": "p2",
+   "peso": 45079
+  },
+  {
+   "dia": 19,
+   "desde": "3:14",
+   "hasta": "3:17",
+   "rango": "3:14-17",
+   "versiculos": 4,
+   "ini": 63,
+   "fin": 66,
+   "titulo_provisional": "Laodicea (1 de 2)",
+   "unidades": [
+    "laodicea"
+   ],
+   "parte": "p2",
+   "peso": 41107
+  },
+  {
+   "dia": 20,
+   "desde": "3:18",
+   "hasta": "3:22",
+   "rango": "3:18-22",
+   "versiculos": 5,
+   "ini": 67,
+   "fin": 71,
+   "titulo_provisional": "Laodicea (2 de 2)",
+   "unidades": [
+    "laodicea"
+   ],
+   "parte": "p2",
+   "peso": 44238
+  },
+  {
+   "dia": 21,
+   "desde": "4:1",
+   "hasta": "4:3",
+   "rango": "4:1-3",
+   "versiculos": 3,
+   "ini": 72,
+   "fin": 74,
+   "titulo_provisional": "El trono en el cielo (1 de 3)",
+   "unidades": [
+    "trono"
+   ],
+   "parte": "p3",
+   "peso": 40204
+  },
+  {
+   "dia": 22,
+   "desde": "4:4",
+   "hasta": "4:6",
+   "rango": "4:4-6",
+   "versiculos": 3,
+   "ini": 75,
+   "fin": 77,
+   "titulo_provisional": "El trono en el cielo (2 de 3)",
+   "unidades": [
+    "trono"
+   ],
+   "parte": "p3",
+   "peso": 39881
+  },
+  {
+   "dia": 23,
+   "desde": "4:7",
+   "hasta": "4:11",
+   "rango": "4:7-11",
+   "versiculos": 5,
+   "ini": 78,
+   "fin": 82,
+   "titulo_provisional": "El trono en el cielo (3 de 3)",
+   "unidades": [
+    "trono"
+   ],
+   "parte": "p3",
+   "peso": 46169
+  },
+  {
+   "dia": 24,
+   "desde": "5:1",
+   "hasta": "5:4",
+   "rango": "5:1-4",
+   "versiculos": 4,
+   "ini": 83,
+   "fin": 86,
+   "titulo_provisional": "El libro sellado y el Cordero (1 de 4)",
+   "unidades": [
+    "libro"
+   ],
+   "parte": "p3",
+   "peso": 34012
+  },
+  {
+   "dia": 25,
+   "desde": "5:5",
+   "hasta": "5:6",
+   "rango": "5:5-6",
+   "versiculos": 2,
+   "ini": 87,
+   "fin": 88,
+   "titulo_provisional": "El libro sellado y el Cordero (2 de 4)",
+   "unidades": [
+    "libro"
+   ],
+   "parte": "p3",
+   "peso": 35147
+  },
+  {
+   "dia": 26,
+   "desde": "5:7",
+   "hasta": "5:9",
+   "rango": "5:7-9",
+   "versiculos": 3,
+   "ini": 89,
+   "fin": 91,
+   "titulo_provisional": "El libro sellado y el Cordero (3 de 4)",
+   "unidades": [
+    "libro"
+   ],
+   "parte": "p3",
+   "peso": 36282
+  },
+  {
+   "dia": 27,
+   "desde": "5:10",
+   "hasta": "5:14",
+   "rango": "5:10-14",
+   "versiculos": 5,
+   "ini": 92,
+   "fin": 96,
+   "titulo_provisional": "El libro sellado y el Cordero (4 de 4)",
+   "unidades": [
+    "libro"
+   ],
+   "parte": "p3",
+   "peso": 36056
+  },
+  {
+   "dia": 28,
+   "desde": "6:1",
+   "hasta": "6:2",
+   "rango": "6:1-2",
+   "versiculos": 2,
+   "ini": 97,
+   "fin": 98,
+   "titulo_provisional": "Los cuatro primeros sellos (1 de 2)",
+   "unidades": [
+    "sellos14"
+   ],
+   "parte": "p4",
+   "peso": 40124
+  },
+  {
+   "dia": 29,
+   "desde": "6:3",
+   "hasta": "6:8",
+   "rango": "6:3-8",
+   "versiculos": 6,
+   "ini": 99,
+   "fin": 104,
+   "titulo_provisional": "Los cuatro primeros sellos (2 de 2)",
+   "unidades": [
+    "sellos14"
+   ],
+   "parte": "p4",
+   "peso": 45967
+  },
+  {
+   "dia": 30,
+   "desde": "6:9",
+   "hasta": "6:11",
+   "rango": "6:9-11",
+   "versiculos": 3,
+   "ini": 105,
+   "fin": 107,
+   "titulo_provisional": "El quinto sello",
+   "unidades": [
+    "sello5"
+   ],
+   "parte": "p4",
+   "peso": 52369
+  },
+  {
+   "dia": 31,
+   "desde": "6:12",
+   "hasta": "6:17",
+   "rango": "6:12-17",
+   "versiculos": 6,
+   "ini": 108,
+   "fin": 113,
+   "titulo_provisional": "El sexto sello",
+   "unidades": [
+    "sello6"
+   ],
+   "parte": "p4",
+   "peso": 53803
+  },
+  {
+   "dia": 32,
+   "desde": "7:1",
+   "hasta": "7:4",
+   "rango": "7:1-4",
+   "versiculos": 4,
+   "ini": 114,
+   "fin": 117,
+   "titulo_provisional": "Los sellados (1 de 2)",
+   "unidades": [
+    "sellados"
+   ],
+   "parte": "p4",
+   "peso": 39955
+  },
+  {
+   "dia": 33,
+   "desde": "7:5",
+   "hasta": "7:8",
+   "rango": "7:5-8",
+   "versiculos": 4,
+   "ini": 118,
+   "fin": 121,
+   "titulo_provisional": "Los sellados (2 de 2)",
+   "unidades": [
+    "sellados"
+   ],
+   "parte": "p4",
+   "peso": 30064
+  },
+  {
+   "dia": 34,
+   "desde": "7:9",
+   "hasta": "7:13",
+   "rango": "7:9-13",
+   "versiculos": 5,
+   "ini": 122,
+   "fin": 126,
+   "titulo_provisional": "La multitud vestida de blanco (1 de 2)",
+   "unidades": [
+    "multitud"
+   ],
+   "parte": "p4",
+   "peso": 30957
+  },
+  {
+   "dia": 35,
+   "desde": "7:14",
+   "hasta": "7:17",
+   "rango": "7:14-17",
+   "versiculos": 4,
+   "ini": 127,
+   "fin": 130,
+   "titulo_provisional": "La multitud vestida de blanco (2 de 2)",
+   "unidades": [
+    "multitud"
+   ],
+   "parte": "p4",
+   "peso": 37676
+  },
+  {
+   "dia": 36,
+   "desde": "8:1",
+   "hasta": "8:5",
+   "rango": "8:1-5",
+   "versiculos": 5,
+   "ini": 131,
+   "fin": 135,
+   "titulo_provisional": "El séptimo sello",
+   "unidades": [
+    "sello7"
+   ],
+   "parte": "p4",
+   "peso": 40066
+  },
+  {
+   "dia": 37,
+   "desde": "8:6",
+   "hasta": "8:13",
+   "rango": "8:6-13",
+   "versiculos": 8,
+   "ini": 136,
+   "fin": 143,
+   "titulo_provisional": "Las cuatro primeras trompetas",
+   "unidades": [
+    "trom14"
+   ],
+   "parte": "p5",
+   "peso": 36515
+  },
+  {
+   "dia": 38,
+   "desde": "9:1",
+   "hasta": "9:12",
+   "rango": "9:1-12",
+   "versiculos": 12,
+   "ini": 144,
+   "fin": 155,
+   "titulo_provisional": "La quinta trompeta",
+   "unidades": [
+    "trom5"
+   ],
+   "parte": "p5",
+   "peso": 50924
+  },
+  {
+   "dia": 39,
+   "desde": "9:13",
+   "hasta": "9:21",
+   "rango": "9:13-21",
+   "versiculos": 9,
+   "ini": 156,
+   "fin": 164,
+   "titulo_provisional": "La sexta trompeta",
+   "unidades": [
+    "trom6"
+   ],
+   "parte": "p5",
+   "peso": 41767
+  },
+  {
+   "dia": 40,
+   "desde": "10:1",
+   "hasta": "10:6",
+   "rango": "10:1-6",
+   "versiculos": 6,
+   "ini": 165,
+   "fin": 170,
+   "titulo_provisional": "El ángel y el librito (1 de 2)",
+   "unidades": [
+    "angel"
+   ],
+   "parte": "p5",
+   "peso": 34747
+  },
+  {
+   "dia": 41,
+   "desde": "10:7",
+   "hasta": "10:11",
+   "rango": "10:7-11",
+   "versiculos": 5,
+   "ini": 171,
+   "fin": 175,
+   "titulo_provisional": "El ángel y el librito (2 de 2)",
+   "unidades": [
+    "angel"
+   ],
+   "parte": "p5",
+   "peso": 28852
+  },
+  {
+   "dia": 42,
+   "desde": "11:1",
+   "hasta": "11:2",
+   "rango": "11:1-2",
+   "versiculos": 2,
+   "ini": 176,
+   "fin": 177,
+   "titulo_provisional": "Los dos testigos (1 de 3)",
+   "unidades": [
+    "testigos"
+   ],
+   "parte": "p5",
+   "peso": 29843
+  },
+  {
+   "dia": 43,
+   "desde": "11:3",
+   "hasta": "11:7",
+   "rango": "11:3-7",
+   "versiculos": 5,
+   "ini": 178,
+   "fin": 182,
+   "titulo_provisional": "Los dos testigos (2 de 3)",
+   "unidades": [
+    "testigos"
+   ],
+   "parte": "p5",
+   "peso": 41353
+  },
+  {
+   "dia": 44,
+   "desde": "11:8",
+   "hasta": "11:14",
+   "rango": "11:8-14",
+   "versiculos": 7,
+   "ini": 183,
+   "fin": 189,
+   "titulo_provisional": "Los dos testigos (3 de 3)",
+   "unidades": [
+    "testigos"
+   ],
+   "parte": "p5",
+   "peso": 34730
+  },
+  {
+   "dia": 45,
+   "desde": "11:15",
+   "hasta": "11:19",
+   "rango": "11:15-19",
+   "versiculos": 5,
+   "ini": 190,
+   "fin": 194,
+   "titulo_provisional": "La séptima trompeta",
+   "unidades": [
+    "trom7"
+   ],
+   "parte": "p5",
+   "peso": 49099
+  },
+  {
+   "dia": 46,
+   "desde": "12:1",
+   "hasta": "12:3",
+   "rango": "12:1-3",
+   "versiculos": 3,
+   "ini": 195,
+   "fin": 197,
+   "titulo_provisional": "La mujer y el dragón (1 de 2)",
+   "unidades": [
+    "mujer"
+   ],
+   "parte": "p6",
+   "peso": 33152
+  },
+  {
+   "dia": 47,
+   "desde": "12:4",
+   "hasta": "12:6",
+   "rango": "12:4-6",
+   "versiculos": 3,
+   "ini": 198,
+   "fin": 200,
+   "titulo_provisional": "La mujer y el dragón (2 de 2)",
+   "unidades": [
+    "mujer"
+   ],
+   "parte": "p6",
+   "peso": 36758
+  },
+  {
+   "dia": 48,
+   "desde": "12:7",
+   "hasta": "12:9",
+   "rango": "12:7-9",
+   "versiculos": 3,
+   "ini": 201,
+   "fin": 203,
+   "titulo_provisional": "Guerra en el cielo (1 de 3)",
+   "unidades": [
+    "guerra"
+   ],
+   "parte": "p6",
+   "peso": 38656
+  },
+  {
+   "dia": 49,
+   "desde": "12:10",
+   "hasta": "12:12",
+   "rango": "12:10-12",
+   "versiculos": 3,
+   "ini": 204,
+   "fin": 206,
+   "titulo_provisional": "Guerra en el cielo (2 de 3)",
+   "unidades": [
+    "guerra"
+   ],
+   "parte": "p6",
+   "peso": 32111
+  },
+  {
+   "dia": 50,
+   "desde": "12:13",
+   "hasta": "12:17",
+   "rango": "12:13-17",
+   "versiculos": 5,
+   "ini": 207,
+   "fin": 211,
+   "titulo_provisional": "Guerra en el cielo (3 de 3)",
+   "unidades": [
+    "guerra"
+   ],
+   "parte": "p6",
+   "peso": 32639
+  },
+  {
+   "dia": 51,
+   "desde": "13:1",
+   "hasta": "13:1",
+   "rango": "13:1",
+   "versiculos": 1,
+   "ini": 212,
+   "fin": 212,
+   "titulo_provisional": "La bestia que sube del mar (1 de 4)",
+   "unidades": [
+    "bestiamar"
+   ],
+   "parte": "p6",
+   "peso": 45815
+  },
+  {
+   "dia": 52,
+   "desde": "13:2",
+   "hasta": "13:3",
+   "rango": "13:2-3",
+   "versiculos": 2,
+   "ini": 213,
+   "fin": 214,
+   "titulo_provisional": "La bestia que sube del mar (2 de 4)",
+   "unidades": [
+    "bestiamar"
+   ],
+   "parte": "p6",
+   "peso": 31817
+  },
+  {
+   "dia": 53,
+   "desde": "13:4",
+   "hasta": "13:6",
+   "rango": "13:4-6",
+   "versiculos": 3,
+   "ini": 215,
+   "fin": 217,
+   "titulo_provisional": "La bestia que sube del mar (3 de 4)",
+   "unidades": [
+    "bestiamar"
+   ],
+   "parte": "p6",
+   "peso": 24027
+  },
+  {
+   "dia": 54,
+   "desde": "13:7",
+   "hasta": "13:10",
+   "rango": "13:7-10",
+   "versiculos": 4,
+   "ini": 218,
+   "fin": 221,
+   "titulo_provisional": "La bestia que sube del mar (4 de 4)",
+   "unidades": [
+    "bestiamar"
+   ],
+   "parte": "p6",
+   "peso": 39073
+  },
+  {
+   "dia": 55,
+   "desde": "13:11",
+   "hasta": "13:15",
+   "rango": "13:11-15",
+   "versiculos": 5,
+   "ini": 222,
+   "fin": 226,
+   "titulo_provisional": "La bestia de la tierra y el 666 (1 de 2)",
+   "unidades": [
+    "bestiatierra"
+   ],
+   "parte": "p6",
+   "peso": 47374
+  },
+  {
+   "dia": 56,
+   "desde": "13:16",
+   "hasta": "13:18",
+   "rango": "13:16-18",
+   "versiculos": 3,
+   "ini": 227,
+   "fin": 229,
+   "titulo_provisional": "La bestia de la tierra y el 666 (2 de 2)",
+   "unidades": [
+    "bestiatierra"
+   ],
+   "parte": "p6",
+   "peso": 42856
+  },
+  {
+   "dia": 57,
+   "desde": "14:1",
+   "hasta": "14:5",
+   "rango": "14:1-5",
+   "versiculos": 5,
+   "ini": 230,
+   "fin": 234,
+   "titulo_provisional": "El Cordero y los 144.000",
+   "unidades": [
+    "cordero144"
+   ],
+   "parte": "p6",
+   "peso": 39289
+  },
+  {
+   "dia": 58,
+   "desde": "14:6",
+   "hasta": "14:9",
+   "rango": "14:6-9",
+   "versiculos": 4,
+   "ini": 235,
+   "fin": 238,
+   "titulo_provisional": "Tres ángeles (1 de 2)",
+   "unidades": [
+    "tresangeles"
+   ],
+   "parte": "p6",
+   "peso": 31443
+  },
+  {
+   "dia": 59,
+   "desde": "14:10",
+   "hasta": "14:13",
+   "rango": "14:10-13",
+   "versiculos": 4,
+   "ini": 239,
+   "fin": 242,
+   "titulo_provisional": "Tres ángeles (2 de 2)",
+   "unidades": [
+    "tresangeles"
+   ],
+   "parte": "p6",
+   "peso": 40045
+  },
+  {
+   "dia": 60,
+   "desde": "14:14",
+   "hasta": "14:20",
+   "rango": "14:14-20",
+   "versiculos": 7,
+   "ini": 243,
+   "fin": 249,
+   "titulo_provisional": "La siega y la vendimia",
+   "unidades": [
+    "cosecha"
+   ],
+   "parte": "p6",
+   "peso": 37546
+  },
+  {
+   "dia": 61,
+   "desde": "15:1",
+   "hasta": "15:8",
+   "rango": "15:1-8",
+   "versiculos": 8,
+   "ini": 250,
+   "fin": 257,
+   "titulo_provisional": "El cántico de Moisés y las siete copas",
+   "unidades": [
+    "copas0"
+   ],
+   "parte": "p7",
+   "peso": 52236
+  },
+  {
+   "dia": 62,
+   "desde": "16:1",
+   "hasta": "16:11",
+   "rango": "16:1-11",
+   "versiculos": 11,
+   "ini": 258,
+   "fin": 268,
+   "titulo_provisional": "Las primeras cinco copas",
+   "unidades": [
+    "copas15"
+   ],
+   "parte": "p7",
+   "peso": 47040
+  },
+  {
+   "dia": 63,
+   "desde": "16:12",
+   "hasta": "16:15",
+   "rango": "16:12-15",
+   "versiculos": 4,
+   "ini": 269,
+   "fin": 272,
+   "titulo_provisional": "Las copas sexta y séptima: Armagedón (1 de 2)",
+   "unidades": [
+    "copas67"
+   ],
+   "parte": "p7",
+   "peso": 47094
+  },
+  {
+   "dia": 64,
+   "desde": "16:16",
+   "hasta": "16:21",
+   "rango": "16:16-21",
+   "versiculos": 6,
+   "ini": 273,
+   "fin": 278,
+   "titulo_provisional": "Las copas sexta y séptima: Armagedón (2 de 2)",
+   "unidades": [
+    "copas67"
+   ],
+   "parte": "p7",
+   "peso": 41732
+  },
+  {
+   "dia": 65,
+   "desde": "17:1",
+   "hasta": "17:6",
+   "rango": "17:1-6",
+   "versiculos": 6,
+   "ini": 279,
+   "fin": 284,
+   "titulo_provisional": "La gran ramera",
+   "unidades": [
+    "ramera"
+   ],
+   "parte": "p8",
+   "peso": 55340
+  },
+  {
+   "dia": 66,
+   "desde": "17:7",
+   "hasta": "17:11",
+   "rango": "17:7-11",
+   "versiculos": 5,
+   "ini": 285,
+   "fin": 289,
+   "titulo_provisional": "El misterio de la bestia y la ramera (1 de 2)",
+   "unidades": [
+    "ramera2"
+   ],
+   "parte": "p8",
+   "peso": 39368
+  },
+  {
+   "dia": 67,
+   "desde": "17:12",
+   "hasta": "17:18",
+   "rango": "17:12-18",
+   "versiculos": 7,
+   "ini": 290,
+   "fin": 296,
+   "titulo_provisional": "El misterio de la bestia y la ramera (2 de 2)",
+   "unidades": [
+    "ramera2"
+   ],
+   "parte": "p8",
+   "peso": 39281
+  },
+  {
+   "dia": 68,
+   "desde": "18:1",
+   "hasta": "18:8",
+   "rango": "18:1-8",
+   "versiculos": 8,
+   "ini": 297,
+   "fin": 304,
+   "titulo_provisional": "La caída de Babilonia",
+   "unidades": [
+    "babilonia1"
+   ],
+   "parte": "p8",
+   "peso": 44948
+  },
+  {
+   "dia": 69,
+   "desde": "18:9",
+   "hasta": "18:24",
+   "rango": "18:9-24",
+   "versiculos": 16,
+   "ini": 305,
+   "fin": 320,
+   "titulo_provisional": "El lamento por Babilonia",
+   "unidades": [
+    "babilonia2"
+   ],
+   "parte": "p8",
+   "peso": 52568
+  },
+  {
+   "dia": 70,
+   "desde": "19:1",
+   "hasta": "19:6",
+   "rango": "19:1-6",
+   "versiculos": 6,
+   "ini": 321,
+   "fin": 326,
+   "titulo_provisional": "Aleluya: las bodas del Cordero (1 de 3)",
+   "unidades": [
+    "aleluya"
+   ],
+   "parte": "p8",
+   "peso": 32360
+  },
+  {
+   "dia": 71,
+   "desde": "19:7",
+   "hasta": "19:8",
+   "rango": "19:7-8",
+   "versiculos": 2,
+   "ini": 327,
+   "fin": 328,
+   "titulo_provisional": "Aleluya: las bodas del Cordero (2 de 3)",
+   "unidades": [
+    "aleluya"
+   ],
+   "parte": "p8",
+   "peso": 39470
+  },
+  {
+   "dia": 72,
+   "desde": "19:9",
+   "hasta": "19:10",
+   "rango": "19:9-10",
+   "versiculos": 2,
+   "ini": 329,
+   "fin": 330,
+   "titulo_provisional": "Aleluya: las bodas del Cordero (3 de 3)",
+   "unidades": [
+    "aleluya"
+   ],
+   "parte": "p8",
+   "peso": 28783
+  },
+  {
+   "dia": 73,
+   "desde": "19:11",
+   "hasta": "19:13",
+   "rango": "19:11-13",
+   "versiculos": 3,
+   "ini": 331,
+   "fin": 333,
+   "titulo_provisional": "El Jinete del caballo blanco (1 de 3)",
+   "unidades": [
+    "jinete"
+   ],
+   "parte": "p8",
+   "peso": 42531
+  },
+  {
+   "dia": 74,
+   "desde": "19:14",
+   "hasta": "19:16",
+   "rango": "19:14-16",
+   "versiculos": 3,
+   "ini": 334,
+   "fin": 336,
+   "titulo_provisional": "El Jinete del caballo blanco (2 de 3)",
+   "unidades": [
+    "jinete"
+   ],
+   "parte": "p8",
+   "peso": 34812
+  },
+  {
+   "dia": 75,
+   "desde": "19:17",
+   "hasta": "19:21",
+   "rango": "19:17-21",
+   "versiculos": 5,
+   "ini": 337,
+   "fin": 341,
+   "titulo_provisional": "El Jinete del caballo blanco (3 de 3)",
+   "unidades": [
+    "jinete"
+   ],
+   "parte": "p8",
+   "peso": 42817
+  },
+  {
+   "dia": 76,
+   "desde": "20:1",
+   "hasta": "20:1",
+   "rango": "20:1",
+   "versiculos": 1,
+   "ini": 342,
+   "fin": 342,
+   "titulo_provisional": "Los mil años (1 de 6)",
+   "unidades": [
+    "milenio"
+   ],
+   "parte": "p9",
+   "peso": 28247
+  },
+  {
+   "dia": 77,
+   "desde": "20:2",
+   "hasta": "20:2",
+   "rango": "20:2",
+   "versiculos": 1,
+   "ini": 343,
+   "fin": 343,
+   "titulo_provisional": "Los mil años (2 de 6)",
+   "unidades": [
+    "milenio"
+   ],
+   "parte": "p9",
+   "peso": 30218
+  },
+  {
+   "dia": 78,
+   "desde": "20:3",
+   "hasta": "20:3",
+   "rango": "20:3",
+   "versiculos": 1,
+   "ini": 344,
+   "fin": 344,
+   "titulo_provisional": "Los mil años (3 de 6)",
+   "unidades": [
+    "milenio"
+   ],
+   "parte": "p9",
+   "peso": 32797
+  },
+  {
+   "dia": 79,
+   "desde": "20:4",
+   "hasta": "20:4",
+   "rango": "20:4",
+   "versiculos": 1,
+   "ini": 345,
+   "fin": 345,
+   "titulo_provisional": "Los mil años (4 de 6)",
+   "unidades": [
+    "milenio"
+   ],
+   "parte": "p9",
+   "peso": 62078
+  },
+  {
+   "dia": 80,
+   "desde": "20:5",
+   "hasta": "20:5",
+   "rango": "20:5",
+   "versiculos": 1,
+   "ini": 346,
+   "fin": 346,
+   "titulo_provisional": "Los mil años (5 de 6)",
+   "unidades": [
+    "milenio"
+   ],
+   "parte": "p9",
+   "peso": 36186
+  },
+  {
+   "dia": 81,
+   "desde": "20:6",
+   "hasta": "20:6",
+   "rango": "20:6",
+   "versiculos": 1,
+   "ini": 347,
+   "fin": 347,
+   "titulo_provisional": "Los mil años (6 de 6)",
+   "unidades": [
+    "milenio"
+   ],
+   "parte": "p9",
+   "peso": 34436
+  },
+  {
+   "dia": 82,
+   "desde": "20:7",
+   "hasta": "20:8",
+   "rango": "20:7-8",
+   "versiculos": 2,
+   "ini": 348,
+   "fin": 349,
+   "titulo_provisional": "La rebelión final (1 de 2)",
+   "unidades": [
+    "gog"
+   ],
+   "parte": "p9",
+   "peso": 34879
+  },
+  {
+   "dia": 83,
+   "desde": "20:9",
+   "hasta": "20:10",
+   "rango": "20:9-10",
+   "versiculos": 2,
+   "ini": 350,
+   "fin": 351,
+   "titulo_provisional": "La rebelión final (2 de 2)",
+   "unidades": [
+    "gog"
+   ],
+   "parte": "p9",
+   "peso": 35824
+  },
+  {
+   "dia": 84,
+   "desde": "20:11",
+   "hasta": "20:12",
+   "rango": "20:11-12",
+   "versiculos": 2,
+   "ini": 352,
+   "fin": 353,
+   "titulo_provisional": "El gran trono blanco (1 de 2)",
+   "unidades": [
+    "tronoblanco"
+   ],
+   "parte": "p9",
+   "peso": 39760
+  },
+  {
+   "dia": 85,
+   "desde": "20:13",
+   "hasta": "20:15",
+   "rango": "20:13-15",
+   "versiculos": 3,
+   "ini": 354,
+   "fin": 356,
+   "titulo_provisional": "El gran trono blanco (2 de 2)",
+   "unidades": [
+    "tronoblanco"
+   ],
+   "parte": "p9",
+   "peso": 51652
+  },
+  {
+   "dia": 86,
+   "desde": "21:1",
+   "hasta": "21:1",
+   "rango": "21:1",
+   "versiculos": 1,
+   "ini": 357,
+   "fin": 357,
+   "titulo_provisional": "Cielo nuevo y tierra nueva (1 de 3)",
+   "unidades": [
+    "nuevocielo"
+   ],
+   "parte": "p10",
+   "peso": 31234
+  },
+  {
+   "dia": 87,
+   "desde": "21:2",
+   "hasta": "21:4",
+   "rango": "21:2-4",
+   "versiculos": 3,
+   "ini": 358,
+   "fin": 360,
+   "titulo_provisional": "Cielo nuevo y tierra nueva (2 de 3)",
+   "unidades": [
+    "nuevocielo"
+   ],
+   "parte": "p10",
+   "peso": 51719
+  },
+  {
+   "dia": 88,
+   "desde": "21:5",
+   "hasta": "21:8",
+   "rango": "21:5-8",
+   "versiculos": 4,
+   "ini": 361,
+   "fin": 364,
+   "titulo_provisional": "Cielo nuevo y tierra nueva (3 de 3)",
+   "unidades": [
+    "nuevocielo"
+   ],
+   "parte": "p10",
+   "peso": 32663
+  },
+  {
+   "dia": 89,
+   "desde": "21:9",
+   "hasta": "21:14",
+   "rango": "21:9-14",
+   "versiculos": 6,
+   "ini": 365,
+   "fin": 370,
+   "titulo_provisional": "La nueva Jerusalén (1 de 3)",
+   "unidades": [
+    "jerusalen"
+   ],
+   "parte": "p10",
+   "peso": 35666
+  },
+  {
+   "dia": 90,
+   "desde": "21:15",
+   "hasta": "21:21",
+   "rango": "21:15-21",
+   "versiculos": 7,
+   "ini": 371,
+   "fin": 377,
+   "titulo_provisional": "La nueva Jerusalén (2 de 3)",
+   "unidades": [
+    "jerusalen"
+   ],
+   "parte": "p10",
+   "peso": 33513
+  },
+  {
+   "dia": 91,
+   "desde": "21:22",
+   "hasta": "21:27",
+   "rango": "21:22-27",
+   "versiculos": 6,
+   "ini": 378,
+   "fin": 383,
+   "titulo_provisional": "La nueva Jerusalén (3 de 3)",
+   "unidades": [
+    "jerusalen"
+   ],
+   "parte": "p10",
+   "peso": 40958
+  },
+  {
+   "dia": 92,
+   "desde": "22:1",
+   "hasta": "22:5",
+   "rango": "22:1-5",
+   "versiculos": 5,
+   "ini": 384,
+   "fin": 388,
+   "titulo_provisional": "El río de vida",
+   "unidades": [
+    "rio"
+   ],
+   "parte": "p10",
+   "peso": 56096
+  },
+  {
+   "dia": 93,
+   "desde": "22:6",
+   "hasta": "22:12",
+   "rango": "22:6-12",
+   "versiculos": 7,
+   "ini": 389,
+   "fin": 395,
+   "titulo_provisional": "Epílogo: «Ven, Señor Jesús» (1 de 3)",
+   "unidades": [
+    "epilogo"
+   ],
+   "parte": "p10",
+   "peso": 44988
+  },
+  {
+   "dia": 94,
+   "desde": "22:13",
+   "hasta": "22:17",
+   "rango": "22:13-17",
+   "versiculos": 5,
+   "ini": 396,
+   "fin": 400,
+   "titulo_provisional": "Epílogo: «Ven, Señor Jesús» (2 de 3)",
+   "unidades": [
+    "epilogo"
+   ],
+   "parte": "p10",
+   "peso": 47587
+  },
+  {
+   "dia": 95,
+   "desde": "22:18",
+   "hasta": "22:21",
+   "rango": "22:18-21",
+   "versiculos": 4,
+   "ini": 401,
+   "fin": 404,
+   "titulo_provisional": "Epílogo: «Ven, Señor Jesús» (3 de 3)",
+   "unidades": [
+    "epilogo"
+   ],
+   "parte": "p10",
+   "peso": 37499
+  }
+ ]
+}

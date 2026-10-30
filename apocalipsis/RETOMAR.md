@@ -23,3 +23,4 @@
 - Pendiente de cotejo: Buswell figura como «postribulacional» en el día 45 y en la nota r1_010#12, pero Ryrie (r1_033#2) lo pone entre los mesotribulacionistas y él ubica el arrebatamiento en la séptima trompeta (r1_008#20). El diagrama dg-tribulacion lo atribuye «según Ryrie»; revisar el día 45 para que coincidan.
 - Diagramas B (dg-escuelas, dg-milenio, dg-tribulacion) hechos y validados.
 - Diagramas A (dg-estructura, dg-septenarios, dg-cartas) hechos y validados. Cotejo pendiente de comillas: dg-candelero, dg-cristo y dg-numeros usan «» también para texto no bíblico; deben ir en “ ” (solo la Biblia va entre «»).
+- Diagramas D (dg-numeros, dg-tiempos, dg-cronologia) hechos y validados. Revisar: dg-tiempos tiene una fila extra («diez días» de 2:10) no pedida, se puede borrar; dg-cronologia usa «Nerva (96-98)», deducido (ninguna nota lo escribe), conviene confirmarlo o quitarlo.

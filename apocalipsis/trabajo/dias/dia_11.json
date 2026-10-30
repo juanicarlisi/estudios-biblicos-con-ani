@@ -1,0 +1,647 @@
+{
+  "dia": 11,
+  "desde": "2:12",
+  "hasta": "2:13",
+  "titulo": "Pérgamo: fieles donde está el trono de Satanás",
+  "minutos": {
+    "lectura": 1,
+    "estudio": 25
+  },
+  "contexto": {
+    "antes": "Ayer leímos la carta a Esmirna (2:8-11), la ciudad que quedaba a mitad de camino entre Éfeso y Pérgamo. Siguiendo el recorrido, la tercera carta sube hacia el norte, tierra adentro.",
+    "ahora": "Empieza la carta a Pérgamo. Hoy leemos solo dos versículos: cómo se presenta Jesús y lo que elogia de una iglesia que vive en el lugar más hostil de la provincia. Hasta acá, todo es reconocimiento.",
+    "donde": "Pérgamo (hoy Bergama), al norte de Esmirna, no sobre la costa sino unos 22 km tierra adentro según MacArthur (unos 32 km del Egeo según la Biblia de estudio MacArthur), sobre una colina de unos 300 metros que domina el valle del río Caico.",
+    "cuando": "Ropero ubica el libro en la persecución de Domiciano (ver anexo I2). Para Ladd, el tiempo del verbo «no has negado mi fe» apunta a una prueba concreta en un pasado reciente, cuando murió Antipas.",
+    "despues": "Mañana (2:14-17) llega el «pero»: Jesús le reprocha a esta iglesia una actitud flexible hacia las prácticas paganas (Ladd) y le advierte que usará contra los falsos maestros la espada que hoy muestra (2:16).",
+    "fuentes": [
+      "macarthur_03_a#25",
+      "mbiblia_01_b#4",
+      "ladd_01_b#38",
+      "beacon_02_a#22",
+      "mcgee_02_c#3",
+      "r2_011#38",
+      "ladd_01_b#41",
+      "ladd_01_b#39",
+      "beacon_02_a#23",
+      "mcgee_03_a#6"
+    ]
+  },
+  "versiculo_clave": {
+    "ref": "2:13",
+    "porque": "Jesús pone juntas dos realidades: la iglesia vive donde Satanás tiene su trono y, aun así, retiene el nombre de Cristo. Él conoce las dos cosas."
+  },
+  "panorama": {
+    "texto": "Pérgamo era la ciudad real de Asia: capital de la provincia, orgullosa de su acrópolis, de su biblioteca y de sus templos, y la primera en levantar un templo al emperador. Allí el procónsul romano tenía el “derecho de la espada”, el poder de vida y muerte. A esa iglesia Jesús se presenta como el que tiene la espada aguda de dos filos: la autoridad suprema no es la de Roma sino la suya, y su arma es su Palabra. Después dice que sabe dónde viven: donde está el trono de Satanás. No les pide que se muden; los elogia porque, en ese lugar y aun después de ver morir a Antipas, siguieron confesando su nombre. Es una carta para todo creyente que vive donde la fe cuesta.",
+    "fuentes": [
+      "ladd_01_b#38",
+      "macarthur_03_a#27",
+      "beacon_02_a#23",
+      "cbmh_02_b#22",
+      "macarthur_03_a#22",
+      "beacon_02_a#24",
+      "cbmh_02_b#23",
+      "ladd_01_b#41"
+    ]
+  },
+  "secciones": [
+    {
+      "rango": "2:12",
+      "titulo": "Pérgamo, la ciudad real",
+      "notas": [
+        {
+          "texto": "Ramsay la describe como una “ciudad real”, sede de la autoridad, por la colina rocosa que domina la llanura; Plinio la llamó la ciudad más ilustre de Asia. Desde que su último rey, Átalo III, la legó a Roma en el 133 a.C., fue capital de la provincia de Asia durante unos dos siglos y medio. No era puerto ni estaba sobre las grandes rutas comerciales: McGee resume que Esmirna era el centro comercial y Pérgamo el gran centro religioso.",
+          "fuentes": [
+            "beacon_02_a#22",
+            "macarthur_03_a#25",
+            "mbiblia_01_b#4",
+            "mcgee_02_c#3",
+            "mcgeer_03#6",
+            "mcgee_02_c#2",
+            "ladd_01_b#38"
+          ],
+          "tipo": "arqueologia_geografia"
+        },
+        {
+          "texto": "Era también una ciudad culta: su biblioteca, de unos 200.000 volúmenes, solo era superada por la de Alejandría, y de su nombre viene la palabra “pergamino”, el material de pieles tratadas que allí se difundió (ver Profundizar).",
+          "fuentes": [
+            "macarthur_03_a#26",
+            "carballosa_03_b#2",
+            "web_01#36",
+            "mbiblia_01_b#4"
+          ],
+          "tipo": "contexto_historico"
+        },
+        {
+          "texto": "Sobre todo, era una ciudad entregada a la religión. En la acrópolis había templos de Atenea, Dionisio y otros dioses, coronados por un enorme altar a Zeus; cerca de allí, el santuario de Asclepio (Esculapio), dios de la sanidad representado por una serpiente, adonde llegaban enfermos de todo el Imperio. Y fue la primera ciudad de Asia en dedicar un templo al emperador (29 a.C., a Augusto y a la diosa Roma); después sumó otros. Según MacArthur, esa devoción eclipsaba a todos los demás cultos.",
+          "fuentes": [
+            "ladd_01_b#38",
+            "carballosa_03_b#2",
+            "mcgee_02_c#4",
+            "web_01#37",
+            "macarthur_03_a#27",
+            "mbiblia_01_b#4",
+            "web_01#36"
+          ],
+          "tipo": "cultura_costumbres"
+        }
+      ]
+    },
+    {
+      "rango": "2:12",
+      "titulo": "«El que tiene la espada aguda de dos filos»",
+      "notas": [
+        {
+          "texto": "Jesús retoma un rasgo de la visión de 1:16, la espada que sale de su boca, y ahora se la muestra a Pérgamo. Carballosa nota que en griego el artículo se repite tres veces, como si dijera “el que tiene la espada, la aguda, la de dos filos”, para que cada rasgo pese por separado. La palabra (rhomphaía) designa una espada grande, de origen tracio.",
+          "fuentes": [
+            "web_01#38",
+            "beacon_02_a#23",
+            "carballosa_03_b#3"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "En Pérgamo esa imagen tenía un filo especial. Ramsay explica que para los romanos la espada simbolizaba la autoridad más alta del procónsul de Asia: el “derecho de la espada”, el poder de decidir sobre la vida y la muerte. Como el procónsul gobernaba por la espada, Juan contrasta una espada con otra: el poder supremo es de Cristo (Comentario Mundo Hispano).",
+          "fuentes": [
+            "beacon_02_a#23",
+            "cbmh_02_b#22"
+          ],
+          "tipo": "cultura_costumbres"
+        },
+        {
+          "texto": "La espada es la Palabra de Dios (He 4:12; Ef 6:17). Que tenga dos filos muestra, según MacArthur, su poder para descubrir y juzgar lo más íntimo del corazón. McGee agrega que para una ciudad dominada por una religión falsa y templos enormes, lo único que podía alcanzarla era la Palabra.",
+          "fuentes": [
+            "macarthur_03_a#22",
+            "web_01#38",
+            "mcgee_02_c#6",
+            "mcgeer_03#9"
+          ],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "La espada protege y también juzga. El Comentario Mundo Hispano ve un doble sentido: Cristo defiende y salva a los suyos, y da un veredicto justo. Ladd y Earle subrayan el segundo, porque en el v. 16 Jesús la usará contra los que enseñan el error. MacArthur la llama la primera presentación amenazante de Cristo en las cartas: de las concesiones al mundo al abandono de Dios hay un paso corto.",
+          "fuentes": [
+            "cbmh_02_b#22",
+            "ladd_01_b#39",
+            "beacon_02_a#23",
+            "macarthur_03_a#22"
+          ],
+          "tipo": "cristo_en_apocalipsis"
+        }
+      ]
+    },
+    {
+      "rango": "2:13",
+      "titulo": "«Yo conozco… dónde moras»",
+      "notas": [
+        {
+          "texto": "Earle y Carballosa señalan que los mejores manuscritos no traen “tus obras, y”: el texto dice “Yo sé dónde vives”. A esta iglesia Jesús no le enumera primero lo que hace, sino el lugar donde le tocó vivir. McGee lo lee como señal de que Cristo toma en cuenta las circunstancias de cada iglesia, y advierte que a veces condenamos a quien está en una situación en la que nosotros quizá nos portaríamos peor.",
+          "fuentes": [
+            "beacon_02_a#24",
+            "carballosa_03_b#4",
+            "mcgee_02_c#7",
+            "mcgeer_03#10"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "«Moras» traduce un verbo que indica residencia permanente, no un lugar de paso. Barclay, citado por el Comentario Mundo Hispano, saca la consecuencia: los cristianos de Pérgamo tienen que quedarse donde Satanás ejerce más autoridad, les guste o no. Carballosa, en cambio, ve en el verbo un matiz de reproche (ver Interpretaciones).",
+          "fuentes": [
+            "cbmh_02_b#23",
+            "macarthur_03_b#2",
+            "carballosa_03_b#4"
+          ],
+          "tipo": "griego_palabra"
+        }
+      ]
+    },
+    {
+      "rango": "2:13",
+      "titulo": "«Donde está el trono de Satanás»",
+      "notas": [
+        {
+          "texto": "Los autores proponen varias candidatas. La que más eligen es el culto imperial: Pérgamo era su sede principal en Asia, la primera “Guardiana del Templo”, una y aun dos veces, y negarse a ese culto se tomaba como traición a Roma. MacArthur observa que en otras ciudades el peligro llegaba el día del año en que había que sacrificar al emperador; en Pérgamo el peligro era de todos los días. Para Earle, Satanás representa aquí la autoridad oficial que se opone a la iglesia.",
+          "fuentes": [
+            "ladd_01_b#40",
+            "beacon_02_a#24",
+            "cbmh_02_b#23",
+            "macarthur_03_a#27",
+            "macarthur_03_b#1",
+            "ladd_01_b#38"
+          ],
+          "tipo": "dificultad_interpretaciones"
+        },
+        {
+          "texto": "Otras dos candidatas están en la misma ciudad. El gran altar de Zeus, con forma de trono, dominaba la acrópolis: según Yamauchi, citado por MacArthur, medía unos 36 por 34 metros, con un friso de unos 136 metros, una de las grandes obras del arte griego. Y el culto a Asclepio, cuya serpiente podía evocar a Satanás (Ap 12:9; 20:2); en su templo los enfermos dormían en el suelo esperando que las serpientes los tocaran para sanarlos.",
+          "fuentes": [
+            "macarthur_03_b#1",
+            "mbiblia_01_b#5",
+            "ladd_01_b#40",
+            "web_01#37"
+          ],
+          "tipo": "arqueologia_geografia"
+        },
+        {
+          "texto": "Más allá de cuál sea la candidata, la frase dice algo de Satanás. Carballosa la entiende como un trono de gobierno: Satanás gobierna el sistema del mundo y es el “dios de este siglo” (2 Co 4:4; Lc 4:6). McGee responde a quien imagina a Satanás en el infierno: tenía su sede de operaciones en Pérgamo, anda buscando a quien devorar (1 P 5:8) y desde entonces ha cambiado de lugar.",
+          "fuentes": [
+            "carballosa_03_b#4",
+            "macarthur_03_b#1",
+            "mcgee_02_c#7",
+            "mcgeer_03#10"
+          ],
+          "tipo": "teologia_doctrina"
+        },
+        {
+          "texto": "Charles, citado por Earle, ve un contraste: detrás de la ciudad se alzaba un cerro cubierto de templos paganos, un falso “monte de Dios” frente al verdadero (Is 14:13; Ez 28:14). MacArthur y Mayhue cuentan este trono entre las imitaciones con que Satanás copia lo que es de Dios.",
+          "fuentes": [
+            "beacon_02_a#24",
+            "r1_034#29"
+          ],
+          "tipo": "simbolo_numero"
+        }
+      ]
+    },
+    {
+      "rango": "2:13",
+      "titulo": "«Retienes mi nombre, y no has negado mi fe»",
+      "notas": [
+        {
+          "texto": "Roma pedía decir “el César es Señor” y quemar incienso; los cristianos respondían “Jesús es el Señor” (1 Co 12:3). Retener el nombre de Cristo era esa lealtad pública: según el Comentario Mundo Hispano, a los creyentes se les ofrecía salvar la vida maldiciendo o negando a Cristo.",
+          "fuentes": [
+            "beacon_02_a#25",
+            "cbmh_02_b#23",
+            "cbmh_02_b#24",
+            "carballosa_03_b#5"
+          ],
+          "tipo": "cultura_costumbres"
+        },
+        {
+          "texto": "«No has negado» apunta, según Ladd, a un momento definido y reciente en que tuvieron que elegir. No sabemos si fue un brote de persecución por supuesta deslealtad a Roma. MacArthur lo resume así: no se apartaron de Cristo ni de las verdades centrales de la fe.",
+          "fuentes": [
+            "ladd_01_b#41",
+            "macarthur_03_b#2"
+          ],
+          "tipo": "explicacion_texto"
+        },
+        {
+          "texto": "MacArthur ve aquí cumplida la promesa de Mateo 16:18: ninguna oposición satánica destruye la fe genuina. Y Jesús lo dice antes de cualquier reproche: en el lugar más difícil hubo fidelidad, y él la reconoce.",
+          "fuentes": [
+            "macarthur_03_b#2",
+            "mcgee_03_a#6"
+          ],
+          "tipo": "teologia_doctrina"
+        }
+      ]
+    },
+    {
+      "rango": "2:13",
+      "titulo": "Antipas, «mi testigo fiel»",
+      "notas": [
+        {
+          "texto": "Fuera de este versículo no se sabe nada cierto de Antipas. Ni siquiera está claro si murió por una turba o por sentencia de las autoridades. MacArthur y su Biblia de estudio suponen que era un líder o pastor de la iglesia. La tradición cuenta que lo quemaron dentro de un toro (o becerro) de bronce en tiempos de Domiciano; es tradición, no dato del texto. Carballosa agrega que su nombre significa “contra todo”.",
+          "fuentes": [
+            "ladd_01_b#41",
+            "beacon_02_a#25",
+            "macarthur_03_b#3",
+            "mbiblia_01_b#6",
+            "carballosa_03_b#5"
+          ],
+          "tipo": "personaje"
+        },
+        {
+          "texto": "Probablemente murió, al menos en parte, por negarse a adorar al emperador (MacArthur, Ladd). Ladd aclara que Roma todavía no salía a buscar y ejecutar a los que lo evitaban. «Entre vosotros» no obliga a pensar que era de Pérgamo: según Ramsay, allí se juzgaba ante el procónsul a cristianos de toda la provincia.",
+          "fuentes": [
+            "macarthur_03_a#27",
+            "ladd_01_b#41",
+            "beacon_02_a#25"
+          ],
+          "tipo": "contexto_historico"
+        },
+        {
+          "texto": "Jesús le da el título que usa para sí mismo: «testigo fiel» (1:5; 3:14). El Comentario Mundo Hispano nota que Antipas parece haber sido el único muerto, aunque la presión fue grande; McGee cree que fue el primero, no el último. La frase termina como empezó, «donde mora Satanás»: la iglesia y su enemigo viven en la misma ciudad. Carballosa: pagó con su vida, y Cristo no olvidó su nombre.",
+          "fuentes": [
+            "cbmh_02_b#24",
+            "macarthur_03_b#3",
+            "mcgee_03_a#6",
+            "mcgeer_03#12",
+            "carballosa_03_b#5"
+          ],
+          "tipo": "personaje"
+        }
+      ]
+    }
+  ],
+  "simbolos": [
+    {
+      "signo": "espada aguda de dos filos",
+      "significado": "La Palabra de Cristo (He 4:12; Ef 6:17), que penetra y juzga lo íntimo. En Pérgamo contrasta con la espada del procónsul: la autoridad suprema es de Cristo. Según el Comentario Mundo Hispano, protege a los fieles y juzga; para Ladd, Earle y MacArthur aquí predomina el juicio (2:16).",
+      "refs": [
+        "1:16",
+        "2:16",
+        "19:15"
+      ],
+      "fuentes": [
+        "macarthur_03_a#22",
+        "beacon_02_a#23",
+        "cbmh_02_b#22",
+        "ladd_01_b#39",
+        "web_01#38"
+      ]
+    },
+    {
+      "signo": "trono de Satanás",
+      "significado": "La sede del poder que se opone a Dios y a su iglesia. Según la mayoría de los autores, el culto imperial; según otros, el altar de Zeus, el culto a Asclepio o la suma del paganismo de la ciudad (ver Interpretaciones). MacArthur y Mayhue lo ven como una imitación del trono de Dios.",
+      "refs": [
+        "2:13",
+        "13:2"
+      ],
+      "fuentes": [
+        "ladd_01_b#40",
+        "macarthur_03_b#1",
+        "mcgee_02_c#8",
+        "cbmh_02_b#23",
+        "r1_034#29"
+      ]
+    }
+  ],
+  "palabras": [
+    {
+      "ref": "2:12",
+      "griego": "ῥομφαία",
+      "translit": "rhomphaía",
+      "significado": "“Espada”: una espada grande, de fabricación tracia.",
+      "fuentes": [
+        "carballosa_03_b#3"
+      ]
+    },
+    {
+      "ref": "2:13",
+      "griego": "κατοικεῖς",
+      "translit": "katoikéis (de katoikéo)",
+      "significado": "“Moras”: residir de modo permanente, no estar de paso. En Apocalipsis, Carballosa nota que se usa para “los que moran en la tierra” (3:10; 6:10).",
+      "fuentes": [
+        "cbmh_02_b#23",
+        "carballosa_03_b#4",
+        "macarthur_03_b#2"
+      ]
+    },
+    {
+      "ref": "2:13",
+      "griego": "ἠρνήσω",
+      "translit": "ernéso",
+      "significado": "“Has negado”: por su tiempo verbal, Ladd lo entiende como una prueba concreta en un pasado reciente.",
+      "fuentes": [
+        "ladd_01_b#41"
+      ]
+    },
+    {
+      "ref": "2:13",
+      "griego": "μάρτυς",
+      "translit": "mártys",
+      "significado": "“Testigo”. Como tantos testigos murieron por Cristo (Esteban, Hch 22:20), la palabra pasó a significar “mártir”; Earle ubica ese sentido técnico en el siglo II y deja abierto si ya lo tiene aquí. Ropero cuenta dos usos con ese sentido en Apocalipsis: Antipas y las almas del quinto sello (6:9).",
+      "fuentes": [
+        "dbmh_01_b#6",
+        "ladd_01_b#41",
+        "beacon_02_a#25",
+        "mbiblia_01_b#6",
+        "r2_011#38"
+      ]
+    }
+  ],
+  "cristo": [
+    {
+      "texto": "Cristo es la autoridad verdadera. En la ciudad del procónsul y del culto al César, se presenta con la espada de su boca: Roma podía quitar la vida a Antipas, pero el poder supremo es de Cristo, el juez que en su venida actuará con esa misma espada (19:15).",
+      "refs": [
+        "Ap 1:16",
+        "Ap 19:15",
+        "Is 49:2"
+      ],
+      "fuentes": [
+        "cbmh_02_b#22",
+        "beacon_02_a#23",
+        "macarthur_03_a#22"
+      ]
+    },
+    {
+      "texto": "Cristo conoce el lugar. Su «Yo conozco» incluye la dirección: sabe dónde vive cada iglesia y qué presión enfrenta, y lo toma en cuenta antes de pedir cuentas (McGee).",
+      "refs": [
+        "Ap 2:13"
+      ],
+      "fuentes": [
+        "mcgee_02_c#7",
+        "mcgeer_03#10"
+      ]
+    },
+    {
+      "texto": "Cristo comparte su nombre con sus testigos. “El testigo fiel” es él (1:5; 3:14), y llama así a Antipas: la fidelidad del discípulo refleja la del Maestro. MacArthur agrega que esa fidelidad era una advertencia para los de Pérgamo tentados a ceder.",
+      "refs": [
+        "Ap 1:5",
+        "Ap 3:14"
+      ],
+      "fuentes": [
+        "cbmh_02_b#24",
+        "macarthur_03_b#3"
+      ]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué era el «trono de Satanás» en Pérgamo?",
+      "posturas": [
+        {
+          "postura": "El culto imperial, el mayor peligro para la iglesia: Pérgamo era en Oriente lo que Roma en Occidente (13:2; 16:10).",
+          "quien": "Ladd (premilenial histórico), que lo considera lo más probable; Comentario Mundo Hispano (amilenial/idealista); Earle (Beacon), siguiendo a Ramsay",
+          "fuentes": [
+            "ladd_01_b#40",
+            "cbmh_02_b#23",
+            "beacon_02_a#24"
+          ]
+        },
+        {
+          "postura": "Cualquiera de tres razones bastaba: el altar de Zeus, el culto a Asclepio o el culto al emperador, que era la amenaza más grave.",
+          "quien": "MacArthur (premilenial dispensacional)",
+          "fuentes": [
+            "macarthur_03_b#1"
+          ]
+        },
+        {
+          "postura": "El altar de Zeus en forma de trono y el culto a Asclepio, como cuartel de las religiones falsas.",
+          "quien": "Biblia de estudio MacArthur",
+          "fuentes": [
+            "mbiblia_01_b#5"
+          ]
+        },
+        {
+          "postura": "La combinación de todos los templos, con énfasis en Dionisio y en la “sanidad” de Asclepio, que considera satánica.",
+          "quien": "McGee (premilenial dispensacional)",
+          "fuentes": [
+            "mcgee_02_c#8",
+            "mcgeer_03#11",
+            "mcgee_03_a#3"
+          ]
+        },
+        {
+          "postura": "Pérgamo como capital del paganismo, adonde se había refugiado la magia babilónica.",
+          "quien": "Newell, citado por Carballosa (premilenial dispensacional)",
+          "fuentes": [
+            "carballosa_03_b#4"
+          ]
+        }
+      ],
+      "nota": "Todos coinciden en que la ciudad era un centro de oposición a Cristo y en que la iglesia vivía allí bajo una presión fuera de lo común."
+    },
+    {
+      "tema": "¿«Donde moras» es un elogio o un reproche?",
+      "posturas": [
+        {
+          "postura": "Describe una situación que no eligieron: vivían allí de modo permanente y siguieron fieles donde les tocó.",
+          "quien": "MacArthur; Barclay, citado por el Comentario Mundo Hispano",
+          "fuentes": [
+            "macarthur_03_b#2",
+            "cbmh_02_b#23"
+          ]
+        },
+        {
+          "postura": "Tiene un matiz de censura: en Apocalipsis “morar” se usa para los que tienen la mente arraigada en la tierra, y la iglesia es peregrina (1 P 2:11; Fil 3:20).",
+          "quien": "Carballosa (premilenial dispensacional)",
+          "fuentes": [
+            "carballosa_03_b#4"
+          ]
+        }
+      ],
+      "nota": "El texto pone la frase entre los elogios; el reproche explícito llega en el v. 14."
+    },
+    {
+      "tema": "¿Pérgamo representa una época de la historia de la iglesia?",
+      "posturas": [
+        {
+          "postura": "Sí: el período de aproximadamente 314 a 509 d.C. (en otro pasaje habla de 590), “un paganismo sin límite” en que el mundo entró en la iglesia, aunque hubo gigantes de la fe. La carta tiene además un mensaje para la iglesia local.",
+          "quien": "McGee (premilenial dispensacional)",
+          "fuentes": [
+            "mcgee_02_c#1",
+            "mcgeer_03#8",
+            "mcgee_03_a#5"
+          ]
+        },
+        {
+          "postura": "Simboliza a las iglesias que cedieron al mundo en cualquier época, muy visible entre los siglos IV y VII, cuando tras el Edicto de Milán (313) el cristianismo se fusionó con el Estado.",
+          "quien": "MacArthur (premilenial dispensacional)",
+          "fuentes": [
+            "macarthur_03_a#23"
+          ]
+        }
+      ],
+      "nota": "Ver el anexo P2."
+    }
+  ],
+  "biblioteca": [
+    {
+      "texto": "Pérgamo fue alabada por su valiente profesión de fe: el engañador se sentaba en la silla del juez y los cristianos a menudo eran condenados, pero la sangre derramada ante sus ojos no los hizo negar la verdad de la sangre de Cristo.",
+      "autor": "William Gurnall",
+      "obra": "El cristiano con toda la armadura de Dios",
+      "pagina": "PDF 298",
+      "tipo": "historia",
+      "fuentes": [
+        "r2_011#10"
+      ]
+    },
+    {
+      "texto": "Owen alentaba a los congregacionalistas perseguidos con el ejemplo de Antipas: quienes perseveran en la adoración pura, tomando su cruz, recibirán una recompensa completa.",
+      "autor": "Beeke y Jones",
+      "obra": "Una teología puritana",
+      "pagina": "PDF 899",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r2_025_a#25"
+      ]
+    }
+  ],
+  "conexiones": [
+    {
+      "ref": "He 4:12",
+      "nota": "La palabra de Dios, más cortante que toda espada de dos filos: la clave de la imagen.",
+      "fuentes": [
+        "macarthur_03_a#22",
+        "web_01#38",
+        "mcgeer_03#9"
+      ]
+    },
+    {
+      "ref": "Is 49:2",
+      "nota": "El Siervo del Señor, cuya boca es como espada aguda.",
+      "fuentes": [
+        "cbmh_02_b#22"
+      ]
+    },
+    {
+      "ref": "1 Co 12:3",
+      "nota": "“Jesús es el Señor”: la confesión que chocaba con “el César es Señor”.",
+      "fuentes": [
+        "beacon_02_a#25"
+      ]
+    },
+    {
+      "ref": "Mt 16:18",
+      "nota": "Las puertas del Hades no prevalecerán contra la iglesia.",
+      "fuentes": [
+        "macarthur_03_b#2"
+      ]
+    },
+    {
+      "ref": "Ap 6:9",
+      "nota": "Las almas bajo el altar, muertas por el testimonio: la misma familia de palabras que «testigo».",
+      "fuentes": [
+        "r2_011#38"
+      ]
+    }
+  ],
+  "para_vivir": [
+    {
+      "texto": "No siempre elegimos dónde vivir, trabajar o estudiar. Pérgamo muestra que se puede ser fiel en el lugar más difícil y que Jesús sabe exactamente dónde están ustedes. Y que antes de juzgar a otros creyentes bajo más presión, conviene recordar que quizá nosotros lo haríamos peor (McGee).",
+      "fuentes": [
+        "cbmh_02_b#23",
+        "mcgee_02_c#7",
+        "macarthur_03_b#2"
+      ]
+    },
+    {
+      "texto": "Retener el nombre de Cristo hoy también es público: decir de quién somos cuando cuesta. El ejemplo de Antipas, que Cristo honró con su propio título, sigue alentando, como alentaba a los perseguidos en tiempos de Owen.",
+      "fuentes": [
+        "beacon_02_a#25",
+        "macarthur_03_b#3",
+        "r2_025_a#25"
+      ]
+    },
+    {
+      "texto": "La espada sirve primero para nosotros. Carballosa advierte que, si la iglesia no se juzga a sí misma con la espada del Espíritu, Cristo la usará en juicio contra ella. Dejen que la Palabra los examine, juntos, antes de que haga falta otra cosa.",
+      "fuentes": [
+        "carballosa_03_b#3",
+        "macarthur_03_a#22"
+      ]
+    },
+    {
+      "texto": "Por fuerte que sea la ciudad donde Satanás tiene su trono, MacArthur y Mayhue recuerdan que Satanás puede morar en una ciudad, pero solo Dios mora dentro del creyente (1 Jn 4:4); y puede encarcelar personas (2:10), pero la Palabra de Dios no está presa (2 Ti 2:9).",
+      "fuentes": [
+        "r1_034#29"
+      ]
+    }
+  ],
+  "para_conversar": [
+    "¿Cuál es nuestra “Pérgamo”: el lugar o el ambiente donde más nos cuesta confesar a Cristo? ¿Cómo nos sostenemos ahí?",
+    "¿Qué “César es Señor” nos piden hoy, aunque sea con otras palabras, y qué significaría retener el nombre de Jesús en esos momentos?",
+    "¿Dejamos que la Palabra nos examine como una espada de dos filos, o la usamos solo para medir a los demás?"
+  ],
+  "para_orar": "Señor Jesús, tú tienes la espada aguda de dos filos y sabes dónde vivimos. Gracias por los que, como Antipas, te fueron fieles hasta la muerte. Danos firmeza para retener tu nombre donde cuesta, y que tu Palabra nos examine primero a nosotros.",
+  "visuales": [
+    "mapa-asia",
+    "dg-cartas"
+  ],
+  "anexos": [
+    "T1",
+    "T2",
+    "P2"
+  ],
+  "profundizar": [
+    {
+      "titulo": "Cómo nació la iglesia de Pérgamo",
+      "texto": "Hechos no cuenta cómo nació la iglesia. MacArthur cree lo más probable que surgiera cuando, desde Éfeso, toda Asia oyó la Palabra (Hch 19:10). Rodeados de esa cultura, los creyentes, en su mayoría venidos del paganismo, vivían bajo presión social y religiosa constante, a menudo desde su propia familia.",
+      "fuentes": [
+        "macarthur_03_a#24",
+        "ladd_01_b#41"
+      ]
+    },
+    {
+      "titulo": "La biblioteca y el pergamino",
+      "texto": "Según la leyenda que recoge MacArthur, en el siglo III a.C. el rey de Pérgamo quiso llevarse al bibliotecario de Alejandría; el gobernante egipcio lo impidió y prohibió exportar papiro a Pérgamo, y allí se desarrolló el pergamino de pieles tratadas. Ya se conocía en Egipto mil años antes, pero Pérgamo difundió su uso. McGee y MacArthur cuentan que la biblioteca pasó después a Marco Antonio, que se la regaló a Cleopatra. En Pérgamo nació y estudió el médico Galeno.",
+      "fuentes": [
+        "macarthur_03_a#26",
+        "mcgee_02_c#5",
+        "mcgeer_03#7"
+      ]
+    },
+    {
+      "titulo": "El santuario de Asclepio según McGee",
+      "texto": "McGee lo describe como el hospital más grande del mundo antiguo y a la vez templo: circular, con baños calientes, masajes, un teatro con escenas de sanidad y una biblioteca médica. Los pacientes cruzaban túneles donde voces les prometían que iban a sanar; como último recurso los dejaban de noche con serpientes no venenosas. Por una puerta trasera salían los muertos, y solo se hablaba de los curados. Barclay (citado por Guzik) dice que el roce de una de esas víboras mansas se tenía por el toque del dios. McGee afirma además que Augusto iba allí a curarse del alcoholismo, y que la imagen popular de un Satanás con cuernos, pezuñas y cola no sale de la Biblia sino del culto a Dionisio.",
+      "fuentes": [
+        "mcgee_03_a#2",
+        "mcgeer_03#11",
+        "web_01#37",
+        "mcgee_03_a#3",
+        "mcgee_03_a#1"
+      ]
+    },
+    {
+      "titulo": "Una persecución que siguió",
+      "texto": "MacArthur cuenta que bajo Diocleciano algunos canteros cristianos fueron ejecutados por negarse a esculpir una imagen de Esculapio. Pérgamo levantó después templos a Trajano y a Septimio Severo.",
+      "fuentes": [
+        "macarthur_03_b#1",
+        "macarthur_03_a#27",
+        "beacon_02_a#24"
+      ]
+    },
+    {
+      "titulo": "El nombre de la ciudad",
+      "texto": "Los autores no coinciden: para la Biblia de estudio MacArthur significa “ciudadela”; para Carballosa, “matrimonio consumado”, y de ahí lee una “bigamia espiritual” (2 Co 6:14-16): una iglesia que se sometió a la autoridad terrenal.",
+      "fuentes": [
+        "mbiblia_01_b#4",
+        "carballosa_03_b#2",
+        "carballosa_03_b#3"
+      ]
+    },
+    {
+      "titulo": "Los “gigantes de la fe” del período de Pérgamo",
+      "texto": "Para McGee, «retienes mi nombre» se cumplió en el período que representa Pérgamo con quienes defendieron la deidad de Cristo: Atanasio contra el arrianismo en Nicea (325) y Agustín contra la negación del pecado original.",
+      "fuentes": [
+        "mcgee_03_a#5",
+        "mcgeer_03#12"
+      ]
+    },
+    {
+      "titulo": "Chafer: el trono terrenal de Satanás",
+      "texto": "Chafer cita 2:13 como prueba de que el “trono terrenal” que buscaba Lucero (Is 14:12-14) existe ahora; y recuerda que Satanás ha sido adorado por medio de los dioses falsos (Ap 9:20) y que los milagros no prueban que una doctrina sea de Dios. (Angeleología, PDF 108-113; 252-253.)",
+      "fuentes": [
+        "r2_028#28",
+        "r2_029#6"
+      ]
+    }
+  ]
+}

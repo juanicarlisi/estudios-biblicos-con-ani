@@ -341,7 +341,7 @@
       "titulo": "El templo lleno de humo: nadie podía entrar",
       "notas": [
         {
-          "texto": "El humo «por la gloria de Dios, y por su poder» recuerda los grandes momentos en que la presencia de Dios llenó su casa: Moisés no pudo entrar en el tabernáculo cubierto por la nube (Éx 40:34-35), los sacerdotes no pudieron ministrar en la dedicación del templo de Salomón (1 R 8:10-11), el templo se llenó de humo en la visión de Isaías (Is 6:4) y Ezequiel cayó sobre su rostro (Ez 44:4). Así lo leen Ladd, Carballosa, Beasley-Murray, MacArthur y Mundo Hispano.",
+          "texto": "El humo «por la gloria de Dios, y por su poder» recuerda los grandes momentos en que la presencia de Dios llenó su casa: Moisés no pudo entrar en el tabernáculo cubierto por la nube (Éx 40:34-35), lo mismo ocurrió con los sacerdotes en la dedicación del templo de Salomón (1 R 8:10-11), el templo se llenó de humo en la visión de Isaías (Is 6:4) y Ezequiel cayó sobre su rostro (Ez 44:4). Así lo leen Ladd, Carballosa, Beasley-Murray, MacArthur y Mundo Hispano.",
           "fuentes": [
             "ladd_06_a#11",
             "carballosa_12_a#22",
@@ -450,7 +450,7 @@
     },
     {
       "signo": "copas de oro",
-      "significado": "Recipientes del culto, anchos y poco profundos, que se vacían de golpe (MacArthur, Guzik); en el Antiguo Testamento, la copa como medida del juicio (Beasley-Murray; cf. Jer 25:15).",
+      "significado": "Recipientes del culto, anchos y poco profundos, que se vacían de golpe (MacArthur, Guzik); en el Antiguo Testamento, la copa como medida del juicio (Beasley-Murray); Kœchlin remite a Jer 25:15.",
       "refs": [
         "15:7",
         "5:8"
@@ -837,7 +837,7 @@
     },
     {
       "ref": "Sal 86:9",
-      "nota": "«Todas las naciones que hiciste vendrán y adorarán delante de ti»: la fuente más directa del versículo 4, según MacArthur, Ladd y Beasley-Murray (también Jer 10:7 para «¿quién no te temerá?»).",
+      "nota": "El salmo donde todas las naciones vienen a adorar al Señor: la fuente más directa del versículo 4, según MacArthur, Ladd y Beasley-Murray (también Jer 10:7 para «¿quién no te temerá?»).",
       "fuentes": [
         "macarthur_13_b#15",
         "ladd_06_a#8",
@@ -855,8 +855,9 @@
     },
     {
       "ref": "Is 6:4",
-      "nota": "En la visión de Isaías la casa se llena de humo ante el Dios tres veces santo; la misma santidad que el cántico proclama.",
+      "nota": "En la visión de Isaías la casa se llena de humo ante el Dios santo (Is 6:3), la misma santidad que el cántico proclama.",
       "fuentes": [
+        "macarthur_13_b#15",
         "ladd_06_a#11",
         "macarthur_13_b#20",
         "r1_010#27"
@@ -938,7 +939,7 @@
     "P7",
     "T6",
     "T14",
-    "T4"
+    "T9"
   ],
   "profundizar": [
     {
@@ -975,7 +976,7 @@
     },
     {
       "titulo": "La venganza de Dios a favor de los suyos (MacArthur)",
-      "texto": "MacArthur ve en el versículo 2 el primer motivo de las copas: Dios va a vengar a su pueblo. Recorre la advertencia de Jesús contra los que hacen tropezar a los pequeños (Mt 18:6-10), Romanos 12:19 («mía es la venganza»), Zacarías 2:8 (quien los toca, toca la niña de su ojo) y el Salmo 94. Ladd, en cambio, destaca que en el canto no hay rastro de venganza personal: los mártires dejan el asunto en manos de Dios.",
+      "texto": "MacArthur ve en el versículo 2 el primer motivo de las copas: Dios va a vengar a su pueblo. Recorre la advertencia de Jesús contra los que hacen tropezar a los pequeños (Mt 18:6-10), Romanos 12:19, Zacarías 2:8 (quien los toca, toca la niña de su ojo) y el Salmo 94. Ladd, en cambio, destaca que en el canto no hay rastro de venganza personal: los mártires dejan el asunto en manos de Dios.",
       "fuentes": [
         "macarthur_13_b#12",
         "macarthur_13_b#5",

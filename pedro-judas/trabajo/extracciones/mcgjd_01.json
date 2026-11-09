@@ -1,30 +1,365 @@
-{"bloque": "mcgjd_01", "notas": [
-{"ref": "Jd intro", "tipo": "autoria_fecha", "titulo": "Judas, medio hermano del Señor y siervo", "contenido": "Según McGee, el autor es Judas, hermano de Santiago y medio hermano de Jesús por parte de María, no por el mismo padre. Distingue tres Judas en las Escrituras: el Iscariote, el apóstol Judas «no el Iscariote» (Jn 14:22) y este, que cita en la lista de hermanos de Mt 13:55. Acepta que algunos cuentan hasta cuatro, pero usa tres por mejor división de sus bosquejos. Judas se llama «siervo» (doulos, esclavo en el original) y «hermano de Jacobo», igual que Santiago, que solo se dice siervo del Señor; ninguno invoca el parentesco de sangre.", "refs_biblicas": ["Mt 13:55", "Jn 14:22", "Stg 1:1"], "pagina": "pág. PDF 1-2", "importancia": 3},
-{"ref": "Jd 1", "tipo": "personaje", "titulo": "Por qué no alegan su parentesco con Jesús", "contenido": "McGee sostiene que ni Santiago ni Judas creyeron en Jesús hasta después de la resurrección, cuando eso los convenció; antes pensaban que se había dedicado demasiado a la religión y estaba fuera de sí. Por eso no usan la relación familiar: Judas lo reconoce como Cristo glorificado, y la relación humana ya no tiene significado (cita 2Co 5:16). Es posible, dice, haber crecido en el mismo hogar que Cristo y no haberlo reconocido.", "refs_biblicas": ["2Co 5:16", "Jn 7:5"], "pagina": "pág. PDF 2-3", "importancia": 2},
-{"ref": "Jd 1", "tipo": "apologetica", "titulo": "Contra la veneración supersticiosa de la familia de Jesús", "contenido": "Según McGee, la actitud de Santiago y Judas responde a un período posterior a los apóstoles en que se trató a la familia de Jesús de modo supersticioso y sagrado. Ellos eran simples seres humanos que se acercaron a Cristo como pecadores, igual que cualquiera. McGee dice que los protestantes han ignorado a María y que fue elegida por Dios sin accidente, pero no debe elevarse por encima de las demás mujeres: es bendita entre las mujeres, nunca superior a ellas. Cita a Vincent (la relación natural quedaba subordinada a la espiritual) y a Alford (hubiera estado en armonía con los sentimientos supersticiosos de siglos posteriores).", "refs_biblicas": ["Lc 1:28"], "pagina": "pág. PDF 3-4", "importancia": 2},
-{"ref": "Jd 1", "tipo": "interpretacion_discutida", "titulo": "«Santificados» o «amados» en Dios Padre", "contenido": "McGee señala que «santificados» no figura en los mejores manuscritos. Siguiendo a Scofield y a los textos de Nestle y Westcott, lee «amados en Dios Padre» (agapáo en lugar de hagiázo). Opina que los eruditos tienen razón y que hace el texto más precioso: los santificados en Dios Padre son también amados. Presenta además la traducción de Wuest (profesor del Instituto Bíblico Moody): amados por Dios el Padre y en estado permanente de ser objeto de su amor; guardados por Jesucristo en estado permanente de ser cuidados; y llamados.", "refs_biblicas": [], "griego": {"palabra": "ἠγαπημένοις", "transliteracion": "ēgapēmenois", "significado": "amados (variante frente a «santificados»), en estado permanente de ser amados"}, "postura": "Prefiere la lectura «amados» sobre «santificados» por los mejores textos griegos.", "pagina": "pág. PDF 4-5", "importancia": 2},
-{"ref": "Jd 1", "tipo": "doctrina", "titulo": "«Guardados»: la clave de la carta y la seguridad en la apostasía", "contenido": "Según McGee, «guardado» es la palabra clave del libro. Judas pinta la apostasía como en ningún otro lugar de la Escritura, pero no para atemorizar sino para dar seguridad en esos días. Cuenta que el verbo aparece cuatro veces: guardados en Jesucristo (v. 1), los ángeles guardados (v. 6), conservaos en el amor de Dios (v. 21) y poderoso para guardaros sin caída (v. 24). Es el poder guardador de Dios para los suyos, la seguridad de la salvación en tiempos oscuros. Aplica Jn 10:27-30: la oveja no tiene mérito por ser guardada; el mérito es del pastor.", "refs_biblicas": ["Jn 10:27-30", "Jd 6", "Jd 21", "Jd 24"], "escuela": "dispensacional", "pagina": "pág. PDF 5-7", "importancia": 3},
-{"ref": "Jd 1", "tipo": "ilustracion", "titulo": "Preservados en vinagre o en azúcar; la oveja indefensa", "contenido": "McGee ilustra que hay dos modos de preservar cosas: con vinagre o con azúcar. Algunos santos son preservados en vinagre, con disposición ácida, y no por ello dejan de ser santos de Dios; otros en azúcar, y se nota en cómo tratan a los demás. La perseverancia de los santos es por gracia, no por mérito. Para la seguridad usa la oveja: sin colmillos, garras ni capacidad de huir (ni siquiera como un conejo), está desamparada sin buen pastor; decir «estoy segura» no es jactarse sino confiar en el pastor. «No es asunto de si yo puedo agarrarme, sino si Él puede agarrarme».", "refs_biblicas": ["Jn 10:27-30"], "pagina": "pág. PDF 6-7", "importancia": 2},
-{"ref": "Jd 1", "tipo": "griego_palabra", "titulo": "«Llamados»: invitación aceptada", "contenido": "McGee explica que «llamados» en las Escrituras no es solo una invitación enviada sino una invitación aceptada y hecha real por el Espíritu de Dios. Cita 1Co 1:22-24 (Cristo, poder y sabiduría de Dios para los llamados, judíos y griegos). Quien encontró en Cristo el poder y la sabiduría de Dios y confía en él es uno de los llamados.", "refs_biblicas": ["1Co 1:22-24"], "pagina": "pág. PDF 7", "importancia": 2},
-{"ref": "Jd intro", "tipo": "estructura", "titulo": "Bosquejo de Judas y tema: seguridad en los días de apostasía", "contenido": "Según McGee, el tema es la seguridad en los días de la apostasía. Bosquejo: vv. 1-2 seguridad de los creyentes; v. 3 cambio a la apostasía (ocasión de la carta); vv. 4-16 los sucesos o ejemplos de la apostasía; vv. 17-25 deberes de los creyentes en esos días. Tres divisiones: la ocasión de la epístola, los acontecimientos de la apostasía y los deberes de los creyentes. Judas ofrece el relato más gráfico de la apostasía y es el único que registra la disputa de Miguel con Satanás por el cuerpo de Moisés y la profecía de Enoc (v. 14, «decenas de millares»).", "refs_biblicas": ["Jd 9", "Jd 14"], "pagina": "pág. PDF 9-10", "importancia": 3},
-{"ref": "Jd 2", "tipo": "griego_palabra", "titulo": "Misericordia, paz y amor; diferencia entre gracia y misericordia", "contenido": "Según McGee, el saludo de Judas es distinto: «misericordia» en lugar de «gracia», y se agrega paz. Cita a Trench: cáris (gracia) se refiere a los pecados del hombre y es el don gratuito del perdón; éleos (misericordia) se refiere a la miseria que es consecuencia del pecado. La gracia debe ir antes que la misericordia en el orden de la salvación: Dios nos salva primero por gracia y luego, rico en misericordia, consuela y alivia. McGee relata que, en su cáncer, pedía a Dios misericordia (ya tenía la gracia). Aclara que el cáncer y la enfermedad son resultado del pecado, no un envío de Dios.", "refs_biblicas": ["Ef 2:8", "Jn 3:16", "Ro 9:15"], "griego": {"palabra": "ἔλεος", "transliteracion": "éleos", "significado": "misericordia: compasión que mira la miseria causada por el pecado (contrasta con cáris, gracia)"}, "pagina": "pág. PDF 11-14", "importancia": 3},
-{"ref": "Jd 2", "tipo": "doctrina", "titulo": "El amor de Dios no salva por sí solo", "contenido": "McGee afirma que el amor es un atributo de Dios y abarca a toda la humanidad sin favoritos; se puede levantar una «sombrilla» de resistencia que impida experimentarlo, pero no deja de brillar como el sol. Con todo, Dios nunca salvó por amor solamente, porque también es santo, recto y justo: no puede abrir el cielo sin normas ni aceptar un soborno como un mal juez. Por eso entregó a su Hijo y, sobre la base de su justicia, salva por gracia al pecador que acepta su salvación.", "refs_biblicas": ["Jn 3:16", "Ef 2:8"], "pagina": "pág. PDF 11-12", "importancia": 2},
-{"ref": "Jd 2", "tipo": "aplicacion", "titulo": "La paz de Dios y la mente descansada", "contenido": "McGee dice que la paz es la experiencia que llega al corazón que confía en Cristo (Ro 5:1): saber que Dios no nos lo pone difícil ni tiene nada en contra de nosotros. Quiere que el creyente repose de noche, como en una almohada suave, en Ro 8:28. Además, afirma que las tres personas de la Trinidad tienen la mirada puesta sobre el creyente; si no entendemos por qué suceden las cosas, Dios lo permite con un propósito que explicará en el porvenir.", "refs_biblicas": ["Ro 5:1", "Ro 8:28"], "pagina": "pág. PDF 11-15", "importancia": 1},
-{"ref": "Jd 3", "tipo": "exegesis", "titulo": "El cambio de rumbo: del tema de la salvación a la apostasía", "contenido": "Según McGee, Judas pensaba escribir sobre «nuestra común salvación», quizá sobre redención, cristología, profecía o santificación (no se sabe), pero el Espíritu Santo le hizo cambiar para advertir sobre la apostasía. La apostasía es apartarse de la fe, de la doctrina de los apóstoles; lo que en tiempos de Judas era una nube del tamaño de una mano es hoy una tormenta como huracán. Aclara que «común» remite al griego koiné, el de todos. Judas se siente constreñido («me ha sido necesario»).", "refs_biblicas": ["1R 18:44"], "pagina": "pág. PDF 15-18", "importancia": 3},
-{"ref": "Jd 3", "tipo": "griego_palabra", "titulo": "«Contender ardientemente» (epagonízomai)", "contenido": "McGee descarta la idea de que signifique contender de rodillas, para la cual dice no haber autoridad. La palabra griega epagonízomai da «agonía» e incluye compulsión y lucha, pero no es la lucha ardiente del fundamentalista: se contiende sin ser contencioso (2Ti 2:24-26) y «siguiendo la verdad en amor» (Ef 4:15). Quien no presenta la verdad en amor hace dudar de si presenta la verdad. Defender las grandes doctrinas es primero para la iglesia (Hch 2:42). Una manera de contender es esparcir la Palabra, predicándola.", "refs_biblicas": ["2Ti 2:24-26", "Ef 4:15", "Hch 2:42"], "griego": {"palabra": "ἐπαγωνίζεσθαι", "transliteracion": "epagonízesthai", "significado": "contender con esfuerzo, luchar con agonía"}, "pagina": "pág. PDF 17-19", "importancia": 3},
-{"ref": "Jd 3", "tipo": "exegesis", "titulo": "Traducción de Wuest del versículo 3", "contenido": "McGee cita la traducción de Wuest, a quien tiene por autor de uno de los mejores libros sobre Judas y fuente muy usada en el programa: «Divinamente amados, cuando sentía gran diligencia por escribiros acerca de la salvación que todos gozamos en común, me vi obligado a escribiros exhortándoos que contendáis con ardor y determinación por la fe que ha sido confiada al cuidado de los santos».", "refs_biblicas": [], "pagina": "pág. PDF 19", "importancia": 1},
-{"ref": "Jd 4", "tipo": "falsos_maestros", "titulo": "Hombres que entraron encubiertamente por una puerta lateral", "contenido": "Según McGee, estos hombres se deslizaron sin hacerse notar. El verbo paraisdúno (para, al lado; dúno, entrar) significa, según Vincent, «entrar por un lado» o «por una puerta lateral». Compara con 2Co 11:13-14 (metaskematízo, disfrazarse, cambiar la expresión externa) y Gá 2:4 (falsos hermanos introducidos a escondidas). Pone como ejemplo cómo los liberales toman una iglesia sólida: el nuevo pastor asegura creer las grandes doctrinas, da un buen primer sermón, y después se descubre que es liberal. McGee cuenta que de joven vio esto en su denominación presbiteriana y salió voluntariamente; opina que quien entró por la puerta lateral debería salir por la trasera.", "refs_biblicas": ["2Co 11:13", "Gá 2:4"], "griego": {"palabra": "παρεισέδυσαν", "transliteracion": "pareisédysan", "significado": "se introdujeron furtivamente, por una puerta lateral"}, "pagina": "pág. PDF 19-21", "importancia": 3},
-{"ref": "Jd 4", "tipo": "interpretacion_discutida", "titulo": "«Destinados desde antes para esta condenación»: prográfo", "contenido": "McGee aclara que la palabra griega prográfo significa escribir de antemano: Judas dice que sobre estos hombres otros escritores ya habían advertido, no que sea una novedad. Cita como advertencias previas Hch 20:29-31 (lobos rapaces en Éfeso), 2Ti 3:2-6 y 2P 2:1 (falsos maestros que introducirán encubiertamente herejías y negarán al Señor).", "refs_biblicas": ["Hch 20:29-31", "2Ti 3:2-6", "2P 2:1"], "griego": {"palabra": "προγράφω", "transliteracion": "prográpho", "significado": "escribir de antemano"}, "postura": "Entiende «destinados» como «descritos de antemano por escrito» por otros autores, no como predestinación.", "pagina": "pág. PDF 19-22", "importancia": 2},
-{"ref": "Jd 4", "tipo": "falsos_maestros", "titulo": "Tres señales del apóstata: impiedad, libertinaje, negar a Cristo", "contenido": "Según McGee, Judas da tres señales: son impíos (dejan a Dios fuera de sus vidas, por tanto no son convertidos); convierten en libertinaje (desenfreno, anarquía, arrogancia) la gracia de Dios, es decir, inmoralidad descarada, hoy llamada «nueva moralidad»; y niegan al único soberano y Señor Jesucristo, señal del anticristo de 1 Juan, que niega que Jesús vino en carne. En tiempos de Judas la perversión de la gracia era el gnosticismo, que, según McGee, enseñaba que la materia y el cuerpo eran malos y solo el espíritu bueno, por lo que nada importaba lo que se hiciera con el cuerpo. Para él, la prueba final es lo que se enseña sobre la persona de Cristo.", "refs_biblicas": ["Gá 5:13", "1J 2:18", "1J 4:2-3"], "pagina": "pág. PDF 24-29", "importancia": 3},
-{"ref": "Jd 4", "tipo": "aplicacion", "titulo": "Examinar la vida del maestro, no solo su enseñanza", "contenido": "McGee cuenta el caso de un matrimonio con discernimiento que, tras escuchar a un buen maestro bíblico, notó que mantenía abiertamente una relación ilícita; observa que la pareja estaba dispuesta a tolerarlo. Su conclusión: pueden enseñar la Biblia y aparentar, pero lo importante es si Dios está en sus vidas. Pide investigar los programas de radio y los movimientos antes de apoyarlos, porque Satanás envía «ministros de luz» y los que buscan entrar lo hacen por la puerta lateral, no por la principal.", "refs_biblicas": ["2Co 11:14-15"], "pagina": "pág. PDF 26-27", "importancia": 2},
-{"ref": "Jd 4", "tipo": "doctrina", "titulo": "Libertinaje y la «nueva moralidad»", "contenido": "McGee explica que «libertinaje» también puede traducirse desenfreno: algo sin ley, arrogancia que hace lo que quiere aun ofendiendo la sensibilidad ajena. Para él, estos hombres convierten la gracia en inmoralidad. Cita 'Gá 5:13' (no usar la libertad como ocasión para la carne). Menciona que hoy hay quien dice que el matrimonio no es esencial y se vive con quien se quiere, lo que deja de lado la moralidad que es base del hogar y de una nación; cita al Dr. Wallace Petty sobre el credo del presente (moral como asunto de gusto) y compara a la iglesia que tolera esto.", "refs_biblicas": ["Gá 5:13"], "pagina": "pág. PDF 27-28", "importancia": 1},
-{"ref": "Jd 4", "tipo": "aplicacion", "titulo": "Advertencia de McGee sobre los movimientos de mujeres y 2 Timoteo 3", "contenido": "Ligando Jd 4 con 2Ti 3:5-6 (los que llevan cautivas a mujercillas), McGee expresa una opinión propia, que dice formular con cuidado: ve un peligro en movimientos de estudio bíblico femeninos que funcionan fuera de la iglesia local, y en que la esposa sepa más Biblia que el esposo; dice que el esposo debería ir con su esposa. Agrega, como juicio personal, que en la historia de la iglesia no hubo teólogas y que muchas sectas y herejías tuvieron mujeres líderes, y compara a la mujer con un reloj fino frente al motor de un auto. Atribuye esos movimientos al fracaso de la iglesia local y pide que cooperen con ella. Es opinión del autor, no exégesis del texto.", "refs_biblicas": ["2Ti 3:5-6"], "pagina": "pág. PDF 22-26", "importancia": 1},
-{"ref": "Jd 4", "tipo": "falsos_maestros", "titulo": "Apostasía: sentido de aphístemi y relación con el rapto", "contenido": "McGee, citando a Thayer, dice que aphístemi significa quitar, salir, retirarse, apartarse. En 2Ts 2 ve un doble sentido: la «partida» (efístemi) sería el rapto de la iglesia, que debe venir primero, y traería una apostasía total, un alejamiento completo de la fe. Cita Lc 18:8 («¿hallará fe en la tierra?»), que según él responde «no» en el griego. Para él esto puede ocurrir en cualquier momento y dice que ya estamos en tiempos de apostasía; Judas presenta seis ejemplos del pasado: tres grupos y tres personas.", "refs_biblicas": ["2Ts 2:3", "Lc 18:8"], "griego": {"palabra": "ἀφίστημι", "transliteracion": "aphístemi", "significado": "quitar, salir, retirarse, apartarse"}, "postura": "Lee 2Ts 2:3 como alusión al rapto precediendo a la apostasía total.", "escuela": "dispensacional", "pagina": "pág. PDF 29", "importancia": 2},
-{"ref": "Jd 5", "tipo": "exegesis", "titulo": "Israel en Cades-Barnea: ejemplo de apostasía por incredulidad", "contenido": "Según McGee, Israel salió de Egipto pero, en Cades-Barnea, tras ver la evidencia de los espías sobre la tierra buena, se negó a entrar y Dios los devolvió al desierto. Cuenta que permanecieron 38 años más hasta que murió esa generación, salvo Josué y Caleb; la excusa fue «pensar en nuestros hijos», que Dios les dijo que cuidaría. Una generación nueva cruzó el Jordán y tomó Jericó. Para McGee es un ejemplo de apostasía: apartarse de la base con la que salieron de Egipto; Dios castiga la apostasía, y Israel sigue bajo juicio hasta que regrese a Dios.", "refs_biblicas": ["Nm 13", "Nm 14", "Heb 3:16-19"], "pagina": "pág. PDF 29-30", "importancia": 2},
-{"ref": "Jd 6", "tipo": "exegesis", "titulo": "Ángeles caídos: dos grupos, los encarcelados y los libres", "contenido": "McGee entiende que Dios creó a los ángeles con libre voluntad y que, en algún momento del pasado (probablemente en días «pre-adánicos»), algunos se rebelaron. Distingue dos grupos de ángeles caídos: los encarcelados (v. 6), que ya no tienen libertad de movimiento, y los demonios, que bajo Satanás andan libres por el mundo. Los ángeles no se reproducen como los seres humanos. Anuncia que tratará el tema en el próximo programa.", "refs_biblicas": ["2P 2:4"], "postura": "Los ángeles de Jd 6 son ángeles que cayeron en una rebelión previa; se distinguen de los demonios libres bajo Satanás.", "escuela": "dispensacional", "pagina": "pág. PDF 31-32", "importancia": 3},
-{"ref": "Jd 6", "tipo": "interpretacion_discutida", "titulo": "Las «prisiones eternas»: no cadenas literales", "contenido": "Según McGee, el texto no indica cadenas literales: son seres espirituales y sería difícil encadenarlos; se trata de «prisiones eternas» con guardia severa en espera de juicio. Relaciona Jd 6 con 2P 2:4, donde «infierno» traduce el Hades, lugar de los no salvos (en realidad esa palabra es tártaro; McGee lo glosa como Hades). Estos ángeles esperan un juicio que tendrá lugar durante el reino milenario.", "refs_biblicas": ["2P 2:4"], "pagina": "pág. PDF 37-38", "importancia": 2},
-{"ref": "Jd 6", "tipo": "doctrina", "titulo": "El juicio de los ángeles y la participación de los creyentes", "contenido": "McGee dice que hay ocho juicios en la Biblia y que uno es el de los ángeles, que tendrá lugar durante el reino de Cristo; el del Gran Trono Blanco, aparte, es para los incrédulos. Cita 1Co 15:23-25 (Cristo reina hasta poner a todos los enemigos bajo sus pies, suprimiendo todo dominio) y 1Co 6:3 («hemos de juzgar a los ángeles»): los creyentes participarán, aunque fueron creados inferiores a ellos. Ve el milenio con Cristo viajando hacia la Nueva Jerusalén, hogar eterno de la iglesia.", "refs_biblicas": ["1Co 15:23-25", "1Co 6:3", "Ap 20:11-15"], "escuela": "premilenial", "pagina": "pág. PDF 36-37", "importancia": 2},
-{"ref": "Jd 6", "tipo": "conexion_biblica", "titulo": "Satanás, los demonios y su destino final", "contenido": "McGee remite a Ap 12:7-9 (Miguel y sus ángeles contra el dragón, arrojado a la tierra con los suyos) y Ap 20:10 (el diablo en el lago de fuego). Señala que el diablo no está hoy en el infierno sino activo en las grandes ciudades con ayudantes naturales y sobrenaturales; sobre el fuego, dice que puede discutirse si es literal, pero la realidad es peor que el símbolo. Afirma que se exagera la manifestación demoníaca actual: si el 90% es falso, queda un 10% difícil de explicar. Deja los detalles para Apocalipsis.", "refs_biblicas": ["Ap 12:7-9", "Ap 20:10"], "pagina": "pág. PDF 38-39", "importancia": 2},
-{"ref": "Jd 6", "tipo": "contexto", "titulo": "Contexto de McGee: materialismo y retorno de lo sobrenatural", "contenido": "McGee describe su época (años setenta) como materialista, con la iglesia liberal negando lo sobrenatural y los ángeles; cita a Ben Hecht (1963) sobre la desaparición del cristianismo y a un profesor de Chicago sobre el protestantismo. Observa un regreso de interés en lo sobrenatural en las universidades y en la cultura (la película «El Exorcista»), y lo explica porque la humanidad es depravada y necesita al diablo para explicar el mal. Es contexto del predicador, no del texto de Judas.", "refs_biblicas": [], "pagina": "pág. PDF 9-10, 34-36", "importancia": 1},
-{"ref": "Jd 7", "tipo": "exegesis", "titulo": "Sodoma y Gomorra: advertencia contra el pecado sensual", "contenido": "Según McGee, estas ciudades, probablemente sepultadas en el fondo del Mar Muerto (hay quien cree haberlas localizado; no le parece importante), fueron juzgadas por entregarse a la homosexualidad, que identifica con sodomía, el peor pecado de todos y una inmoralidad crasa. Dice que Satanás adoctrina con un nuevo vocabulario (el adulterio como amor libre, el borracho como alcohólico respetado, el asesino como «temporalmente enajenado») y que la «nueva moralidad» tiene raíz en Sodoma. Advierte que Dios juzgará a cualquier civilización que vaya demasiado lejos en esa dirección.", "refs_biblicas": ["Gn 19"], "pagina": "pág. PDF 39-40", "importancia": 2}
-], "problemas": "Transcripción de radio (TTB); sin OCR defectuoso relevante. Wuest aparece también como «West»/«Wiest» en el texto; normalizado a Wuest."}
+{
+ "bloque": "mcgjd_01",
+ "notas": [
+  {
+   "ref": "Jd intro",
+   "tipo": "autoria_fecha",
+   "titulo": "Judas, medio hermano del Señor y siervo",
+   "contenido": "Según McGee, el autor es Judas, hermano de Santiago y medio hermano de Jesús por parte de María, no por el mismo padre. Distingue tres Judas en las Escrituras: el Iscariote, el apóstol Judas «no el Iscariote» (Jn 14:22) y este, que cita en la lista de hermanos de Mt 13:55. Acepta que algunos cuentan hasta cuatro, pero usa tres por mejor división de sus bosquejos. Judas se llama «siervo» (doulos, esclavo en el original) y «hermano de Jacobo», igual que Santiago, que solo se dice siervo del Señor; ninguno invoca el parentesco de sangre.",
+   "refs_biblicas": [
+    "Mt 13:55",
+    "Jn 14:22",
+    "Stg 1:1"
+   ],
+   "pagina": "pág. PDF 1-2",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 1",
+   "tipo": "personaje",
+   "titulo": "Por qué no alegan su parentesco con Jesús",
+   "contenido": "McGee sostiene que ni Santiago ni Judas creyeron en Jesús hasta después de la resurrección, cuando eso los convenció; antes pensaban que se había dedicado demasiado a la religión y estaba fuera de sí. Por eso no usan la relación familiar: Judas lo reconoce como Cristo glorificado, y la relación humana ya no tiene significado (cita 2Co 5:16). Es posible, dice, haber crecido en el mismo hogar que Cristo y no haberlo reconocido.",
+   "refs_biblicas": [
+    "2Co 5:16"
+   ],
+   "pagina": "pág. PDF 2-3",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 1",
+   "tipo": "apologetica",
+   "titulo": "Contra la veneración supersticiosa de la familia de Jesús",
+   "contenido": "Según McGee, la actitud de Santiago y Judas responde a un período posterior a los apóstoles en que se trató a la familia de Jesús de modo supersticioso y sagrado. Ellos eran simples seres humanos que se acercaron a Cristo como pecadores, igual que cualquiera. McGee dice que los protestantes han ignorado a María y que fue elegida por Dios sin accidente, pero no debe elevarse por encima de las demás mujeres: es bendita entre las mujeres, nunca superior a ellas. Cita a Vincent (la relación natural quedaba subordinada a la espiritual) y a Alford (hubiera estado en armonía con los sentimientos supersticiosos de siglos posteriores).",
+   "refs_biblicas": [
+    "Lc 1:28"
+   ],
+   "pagina": "pág. PDF 3-4",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 1",
+   "tipo": "interpretacion_discutida",
+   "titulo": "«Santificados» o «amados» en Dios Padre",
+   "contenido": "McGee señala que «santificados» no figura en los mejores manuscritos. Siguiendo a Scofield y a los textos de Nestle y Westcott, lee «amados en Dios Padre» (agapáo en lugar de hagiázo). Opina que los eruditos tienen razón y que hace el texto más precioso: los santificados en Dios Padre son también amados. Presenta además la traducción de Wuest (profesor del Instituto Bíblico Moody): amados por Dios el Padre y en estado permanente de ser objeto de su amor; guardados por Jesucristo en estado permanente de ser cuidados; y llamados.",
+   "refs_biblicas": [],
+   "griego": {
+    "palabra": "ἠγαπημένοις",
+    "transliteracion": "ēgapēmenois",
+    "significado": "amados (variante frente a «santificados»), en estado permanente de ser amados"
+   },
+   "postura": "Prefiere la lectura «amados» sobre «santificados» por los mejores textos griegos.",
+   "pagina": "pág. PDF 4-5",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 1",
+   "tipo": "doctrina",
+   "titulo": "«Guardados»: la clave de la carta y la seguridad en la apostasía",
+   "contenido": "Según McGee, «guardado» es la palabra clave del libro. Judas pinta la apostasía como en ningún otro lugar de la Escritura, pero no para atemorizar sino para dar seguridad en esos días. Cuenta que el verbo aparece cuatro veces: guardados en Jesucristo (v. 1), los ángeles guardados (v. 6), conservaos en el amor de Dios (v. 21) y poderoso para guardaros sin caída (v. 24). Es el poder guardador de Dios para los suyos, la seguridad de la salvación en tiempos oscuros. Aplica Jn 10:27-30: la oveja no tiene mérito por ser guardada; el mérito es del pastor.",
+   "refs_biblicas": [
+    "Jn 10:27-30",
+    "Jd 6",
+    "Jd 21",
+    "Jd 24"
+   ],
+   "escuela": "dispensacional",
+   "pagina": "pág. PDF 5-7",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 1",
+   "tipo": "ilustracion",
+   "titulo": "Preservados en vinagre o en azúcar; la oveja indefensa",
+   "contenido": "McGee ilustra que hay dos modos de preservar cosas: con vinagre o con azúcar. Algunos santos son preservados en vinagre, con disposición ácida, y no por ello dejan de ser santos de Dios; otros en azúcar, y se nota en cómo tratan a los demás. La perseverancia de los santos es por gracia, no por mérito. Para la seguridad usa la oveja: sin colmillos, garras ni capacidad de huir (ni siquiera como un conejo), está desamparada sin buen pastor; decir «estoy segura» no es jactarse sino confiar en el pastor. «No es asunto de si yo puedo agarrarme, sino si Él puede agarrarme».",
+   "refs_biblicas": [
+    "Jn 10:27-30"
+   ],
+   "pagina": "pág. PDF 6-7",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 1",
+   "tipo": "griego_palabra",
+   "titulo": "«Llamados»: invitación aceptada",
+   "contenido": "McGee explica que «llamados» en las Escrituras no es solo una invitación enviada sino una invitación aceptada y hecha real por el Espíritu de Dios. Cita 1Co 1:22-24 (Cristo, poder y sabiduría de Dios para los llamados, judíos y griegos). Quien encontró en Cristo el poder y la sabiduría de Dios y confía en él es uno de los llamados.",
+   "refs_biblicas": [
+    "1Co 1:22-24"
+   ],
+   "pagina": "pág. PDF 7",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd intro",
+   "tipo": "estructura",
+   "titulo": "Bosquejo de Judas y tema: seguridad en los días de apostasía",
+   "contenido": "Según McGee, el tema es la seguridad en los días de la apostasía. Bosquejo: vv. 1-2 seguridad de los creyentes; v. 3 cambio a la apostasía (ocasión de la carta); vv. 4-16 los sucesos o ejemplos de la apostasía; vv. 17-25 deberes de los creyentes en esos días. Tres divisiones: la ocasión de la epístola, los acontecimientos de la apostasía y los deberes de los creyentes. Judas ofrece el relato más gráfico de la apostasía y es el único que registra la disputa de Miguel con Satanás por el cuerpo de Moisés y la profecía de Enoc (v. 14, «decenas de millares»).",
+   "refs_biblicas": [
+    "Jd 9",
+    "Jd 14"
+   ],
+   "pagina": "pág. PDF 9-10",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 2",
+   "tipo": "griego_palabra",
+   "titulo": "Misericordia, paz y amor; diferencia entre gracia y misericordia",
+   "contenido": "Según McGee, el saludo de Judas es distinto: «misericordia» en lugar de «gracia», y se agrega paz. Cita a Trench: cáris (gracia) se refiere a los pecados del hombre y es el don gratuito del perdón; éleos (misericordia) se refiere a la miseria que es consecuencia del pecado. La gracia debe ir antes que la misericordia en el orden de la salvación: Dios nos salva primero por gracia y luego, rico en misericordia, consuela y alivia. McGee relata que, en su cáncer, pedía a Dios misericordia (ya tenía la gracia). Aclara que el cáncer y la enfermedad son resultado del pecado, no un envío de Dios.",
+   "refs_biblicas": [
+    "Ef 2:8",
+    "Jn 3:16",
+    "Ro 9:15"
+   ],
+   "griego": {
+    "palabra": "ἔλεος",
+    "transliteracion": "éleos",
+    "significado": "misericordia: compasión que mira la miseria causada por el pecado (contrasta con cáris, gracia)"
+   },
+   "pagina": "pág. PDF 11-14",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 2",
+   "tipo": "doctrina",
+   "titulo": "El amor de Dios no salva por sí solo",
+   "contenido": "McGee afirma que el amor es un atributo de Dios y abarca a toda la humanidad sin favoritos; se puede levantar una «sombrilla» de resistencia que impida experimentarlo, pero no deja de brillar como el sol. Con todo, Dios nunca salvó por amor solamente, porque también es santo, recto y justo: no puede abrir el cielo sin normas ni aceptar un soborno como un mal juez. Por eso entregó a su Hijo y, sobre la base de su justicia, salva por gracia al pecador que acepta su salvación.",
+   "refs_biblicas": [
+    "Jn 3:16",
+    "Ef 2:8"
+   ],
+   "pagina": "pág. PDF 11-12",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 2",
+   "tipo": "aplicacion",
+   "titulo": "La paz de Dios y la mente descansada",
+   "contenido": "McGee dice que la paz es la experiencia que llega al corazón que confía en Cristo (Ro 5:1): saber que Dios no nos lo pone difícil ni tiene nada en contra de nosotros. Quiere que el creyente repose de noche, como en una almohada suave, en Ro 8:28. Además, afirma que las tres personas de la Trinidad tienen la mirada puesta sobre el creyente; si no entendemos por qué suceden las cosas, Dios lo permite con un propósito que explicará en el porvenir.",
+   "refs_biblicas": [
+    "Ro 5:1",
+    "Ro 8:28"
+   ],
+   "pagina": "pág. PDF 11-15",
+   "importancia": 1
+  },
+  {
+   "ref": "Jd 3",
+   "tipo": "exegesis",
+   "titulo": "El cambio de rumbo: del tema de la salvación a la apostasía",
+   "contenido": "Según McGee, Judas pensaba escribir sobre «nuestra común salvación», quizá sobre redención, cristología, profecía o santificación (no se sabe), pero el Espíritu Santo le hizo cambiar para advertir sobre la apostasía. La apostasía es apartarse de la fe, de la doctrina de los apóstoles; lo que en tiempos de Judas era una nube del tamaño de una mano es hoy una tormenta como huracán. Aclara que «común» remite al griego koiné, el de todos. Judas se siente constreñido («me ha sido necesario»).",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 15-18",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 3",
+   "tipo": "griego_palabra",
+   "titulo": "«Contender ardientemente» (epagonízomai)",
+   "contenido": "McGee descarta la idea de que signifique contender de rodillas, para la cual dice no haber autoridad. La palabra griega epagonízomai da «agonía» e incluye compulsión y lucha, pero no es la lucha ardiente del fundamentalista: se contiende sin ser contencioso (2Ti 2:24-26) y «siguiendo la verdad en amor» (Ef 4:15). Quien no presenta la verdad en amor hace dudar de si presenta la verdad. Defender las grandes doctrinas es primero para la iglesia (Hch 2:42). Una manera de contender es esparcir la Palabra, predicándola.",
+   "refs_biblicas": [
+    "2Ti 2:24-26",
+    "Ef 4:15",
+    "Hch 2:42"
+   ],
+   "griego": {
+    "palabra": "ἐπαγωνίζεσθαι",
+    "transliteracion": "epagonízesthai",
+    "significado": "contender con esfuerzo, luchar con agonía"
+   },
+   "pagina": "pág. PDF 17-19",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 3",
+   "tipo": "exegesis",
+   "titulo": "Traducción de Wuest del versículo 3",
+   "contenido": "McGee cita la traducción de Wuest, a quien tiene por autor de uno de los mejores libros sobre Judas y fuente muy usada en el programa: «Divinamente amados, cuando sentía gran diligencia por escribiros acerca de la salvación que todos gozamos en común, me vi obligado a escribiros exhortándoos que contendáis con ardor y determinación por la fe que ha sido confiada al cuidado de los santos».",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 19",
+   "importancia": 1
+  },
+  {
+   "ref": "Jd 4",
+   "tipo": "falsos_maestros",
+   "titulo": "Hombres que entraron encubiertamente por una puerta lateral",
+   "contenido": "Según McGee, estos hombres se deslizaron sin hacerse notar. El verbo paraisdúno (para, al lado; dúno, entrar) significa, según Vincent, «entrar por un lado» o «por una puerta lateral». Compara con 2Co 11:13-14 (metaskematízo, disfrazarse, cambiar la expresión externa) y Gá 2:4 (falsos hermanos introducidos a escondidas). Pone como ejemplo cómo los liberales toman una iglesia sólida: el nuevo pastor asegura creer las grandes doctrinas, da un buen primer sermón, y después se descubre que es liberal. McGee cuenta que de joven vio esto en su denominación presbiteriana y salió voluntariamente; opina que quien entró por la puerta lateral debería salir por la trasera.",
+   "refs_biblicas": [
+    "2Co 11:13",
+    "Gá 2:4"
+   ],
+   "griego": {
+    "palabra": "παρεισέδυσαν",
+    "transliteracion": "pareisédysan",
+    "significado": "se introdujeron furtivamente, por una puerta lateral"
+   },
+   "pagina": "pág. PDF 19-21",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 4",
+   "tipo": "interpretacion_discutida",
+   "titulo": "«Destinados desde antes para esta condenación»: prográfo",
+   "contenido": "McGee aclara que la palabra griega prográfo significa escribir de antemano: Judas dice que sobre estos hombres otros escritores ya habían advertido, no que sea una novedad. Cita como advertencias previas Hch 20:29-31 (lobos rapaces en Éfeso), 2Ti 3:2-6 y 2P 2:1 (falsos maestros que introducirán encubiertamente herejías y negarán al Señor).",
+   "refs_biblicas": [
+    "Hch 20:29-31",
+    "2Ti 3:2-6",
+    "2P 2:1"
+   ],
+   "griego": {
+    "palabra": "προγράφω",
+    "transliteracion": "prográpho",
+    "significado": "escribir de antemano"
+   },
+   "postura": "Entiende «destinados» como «descritos de antemano por escrito» por otros autores, no como predestinación.",
+   "pagina": "pág. PDF 19-22",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 4",
+   "tipo": "falsos_maestros",
+   "titulo": "Tres señales del apóstata: impiedad, libertinaje, negar a Cristo",
+   "contenido": "Según McGee, Judas da tres señales: son impíos (dejan a Dios fuera de sus vidas, por tanto no son convertidos); convierten en libertinaje (desenfreno, anarquía, arrogancia) la gracia de Dios, es decir, inmoralidad descarada, hoy llamada «nueva moralidad»; y niegan al único soberano y Señor Jesucristo, señal del anticristo de 1 Juan, que niega que Jesús vino en carne. En tiempos de Judas la perversión de la gracia era el gnosticismo, que, según McGee, enseñaba que la materia y el cuerpo eran malos y solo el espíritu bueno, por lo que nada importaba lo que se hiciera con el cuerpo. Para él, la prueba final es lo que se enseña sobre la persona de Cristo.",
+   "refs_biblicas": [
+    "Gá 5:13",
+    "1J 2:18",
+    "1J 4:2-3"
+   ],
+   "pagina": "pág. PDF 24-29",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 4",
+   "tipo": "aplicacion",
+   "titulo": "Examinar la vida del maestro, no solo su enseñanza",
+   "contenido": "McGee cuenta el caso de un matrimonio con discernimiento que, tras escuchar a un buen maestro bíblico, notó que mantenía abiertamente una relación ilícita; observa que la pareja estaba dispuesta a tolerarlo. Su conclusión: pueden enseñar la Biblia y aparentar, pero lo importante es si Dios está en sus vidas. Pide investigar los programas de radio y los movimientos antes de apoyarlos, porque Satanás envía «ministros de luz» y los que buscan entrar lo hacen por la puerta lateral, no por la principal.",
+   "refs_biblicas": [
+    "2Co 11:13"
+   ],
+   "pagina": "pág. PDF 26-27",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 4",
+   "tipo": "doctrina",
+   "titulo": "Libertinaje y la «nueva moralidad»",
+   "contenido": "McGee explica que «libertinaje» también puede traducirse desenfreno: algo sin ley, arrogancia que hace lo que quiere aun ofendiendo la sensibilidad ajena. Para él, estos hombres convierten la gracia en inmoralidad. Cita 'Gá 5:13' (no usar la libertad como ocasión para la carne). Menciona que hoy hay quien dice que el matrimonio no es esencial y se vive con quien se quiere, lo que deja de lado la moralidad que es base del hogar y de una nación; cita al Dr. Wallace Petty sobre el credo del presente (moral como asunto de gusto) y compara a la iglesia que tolera esto.",
+   "refs_biblicas": [
+    "Gá 5:13"
+   ],
+   "pagina": "pág. PDF 27-28",
+   "importancia": 1
+  },
+  {
+   "ref": "Jd 4",
+   "tipo": "aplicacion",
+   "titulo": "Advertencia de McGee sobre los movimientos de mujeres y 2 Timoteo 3",
+   "contenido": "Ligando Jd 4 con 2Ti 3:5-6 (los que llevan cautivas a mujercillas), McGee expresa una opinión propia, que dice formular con cuidado: ve un peligro en movimientos de estudio bíblico femeninos que funcionan fuera de la iglesia local, y en que la esposa sepa más Biblia que el esposo; dice que el esposo debería ir con su esposa. Agrega, como juicio personal, que en la historia de la iglesia no hubo teólogas y que muchas sectas y herejías tuvieron mujeres líderes, y compara a la mujer con un reloj fino frente al motor de un auto. Atribuye esos movimientos al fracaso de la iglesia local y pide que cooperen con ella. Es opinión del autor, no exégesis del texto.",
+   "refs_biblicas": [
+    "2Ti 3:5-6"
+   ],
+   "pagina": "pág. PDF 22-26",
+   "importancia": 1
+  },
+  {
+   "ref": "Jd 4",
+   "tipo": "falsos_maestros",
+   "titulo": "Apostasía: sentido de aphístemi y relación con el rapto",
+   "contenido": "McGee, citando a Thayer, dice que aphístemi significa quitar, salir, retirarse, apartarse. En 2Ts 2 ve un doble sentido: la «partida» (efístemi) sería el rapto de la iglesia, que debe venir primero, y traería una apostasía total, un alejamiento completo de la fe. Cita Lc 18:8 («¿hallará fe en la tierra?»), que según él responde «no» en el griego. Para él esto puede ocurrir en cualquier momento y dice que ya estamos en tiempos de apostasía; Judas presenta seis ejemplos del pasado: tres grupos y tres personas.",
+   "refs_biblicas": [
+    "2Ts 2:3",
+    "Lc 18:8"
+   ],
+   "griego": {
+    "palabra": "ἀφίστημι",
+    "transliteracion": "aphístemi",
+    "significado": "quitar, salir, retirarse, apartarse"
+   },
+   "postura": "Lee 2Ts 2:3 como alusión al rapto precediendo a la apostasía total.",
+   "escuela": "dispensacional",
+   "pagina": "pág. PDF 29",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 5",
+   "tipo": "exegesis",
+   "titulo": "Israel en Cades-Barnea: ejemplo de apostasía por incredulidad",
+   "contenido": "Según McGee, Israel salió de Egipto pero, en Cades-Barnea, tras ver la evidencia de los espías sobre la tierra buena, se negó a entrar y Dios los devolvió al desierto. Cuenta que permanecieron 38 años más hasta que murió esa generación, salvo Josué y Caleb; la excusa fue «pensar en nuestros hijos», que Dios les dijo que cuidaría. Una generación nueva cruzó el Jordán y tomó Jericó. Para McGee es un ejemplo de apostasía: apartarse de la base con la que salieron de Egipto; Dios castiga la apostasía, y Israel sigue bajo juicio hasta que regrese a Dios.",
+   "refs_biblicas": [
+    "Nm 13:1-33",
+    "Nm 14:1-35"
+   ],
+   "pagina": "pág. PDF 29-30",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 6",
+   "tipo": "exegesis",
+   "titulo": "Ángeles caídos: dos grupos, los encarcelados y los libres",
+   "contenido": "McGee entiende que Dios creó a los ángeles con libre voluntad y que, en algún momento del pasado (probablemente en días «pre-adánicos»), algunos se rebelaron. Distingue dos grupos de ángeles caídos: los encarcelados (v. 6), que ya no tienen libertad de movimiento, y los demonios, que bajo Satanás andan libres por el mundo. Los ángeles no se reproducen como los seres humanos. Anuncia que tratará el tema en el próximo programa.",
+   "refs_biblicas": [
+    "2P 2:4"
+   ],
+   "postura": "Los ángeles de Jd 6 son ángeles que cayeron en una rebelión previa; se distinguen de los demonios libres bajo Satanás.",
+   "escuela": "dispensacional",
+   "pagina": "pág. PDF 31-32",
+   "importancia": 3
+  },
+  {
+   "ref": "Jd 6",
+   "tipo": "interpretacion_discutida",
+   "titulo": "Las «prisiones eternas»: no cadenas literales",
+   "contenido": "Según McGee, el texto no indica cadenas literales: los ángeles son seres espirituales y sería muy difícil encadenarlos; se trata de «prisiones eternas» bajo guardia muy severa, en espera de juicio. Relaciona Jd 6 con 2P 2:4, donde, según él, «infierno» significa el Hades, lugar de los no salvos. Estos ángeles esperan un juicio que tendrá lugar durante el reino milenario.",
+   "refs_biblicas": [
+    "2P 2:4"
+   ],
+   "pagina": "pág. PDF 37-38",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 6",
+   "tipo": "doctrina",
+   "titulo": "El juicio de los ángeles y la participación de los creyentes",
+   "contenido": "McGee dice que hay ocho juicios en la Biblia y que uno es el de los ángeles, que tendrá lugar durante el reino de Cristo; el del Gran Trono Blanco, aparte, es para los incrédulos. Cita 1Co 15:23-25 (Cristo reina hasta poner a todos los enemigos bajo sus pies, suprimiendo todo dominio) y 1Co 6:3 («hemos de juzgar a los ángeles»): los creyentes participarán, aunque fueron creados inferiores a ellos. Ve el milenio con Cristo viajando hacia la Nueva Jerusalén, hogar eterno de la iglesia.",
+   "refs_biblicas": [
+    "1Co 15:23-25",
+    "1Co 6:3"
+   ],
+   "escuela": "premilenial",
+   "pagina": "pág. PDF 36-37",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 6",
+   "tipo": "conexion_biblica",
+   "titulo": "Satanás, los demonios y su destino final",
+   "contenido": "McGee remite a Ap 12:7-9 (Miguel y sus ángeles contra el dragón, arrojado a la tierra con los suyos) y Ap 20:10 (el diablo en el lago de fuego). Señala que el diablo no está hoy en el infierno sino activo en las grandes ciudades con ayudantes naturales y sobrenaturales; sobre el fuego, dice que puede discutirse si es literal, pero la realidad es peor que el símbolo. Afirma que se exagera la manifestación demoníaca actual: si el 90% es falso, queda un 10% difícil de explicar. Deja los detalles para Apocalipsis.",
+   "refs_biblicas": [
+    "Ap 12:7-9",
+    "Ap 20:10"
+   ],
+   "pagina": "pág. PDF 38-39",
+   "importancia": 2
+  },
+  {
+   "ref": "Jd 6",
+   "tipo": "contexto",
+   "titulo": "Contexto de McGee: materialismo y retorno de lo sobrenatural",
+   "contenido": "McGee describe su época (años setenta) como materialista, con la iglesia liberal negando lo sobrenatural y los ángeles; cita a Ben Hecht (1963) sobre la desaparición del cristianismo y a un profesor de Chicago sobre el protestantismo. Observa un regreso de interés en lo sobrenatural en las universidades y en la cultura (la película «El Exorcista»), y lo explica porque la humanidad es depravada y necesita al diablo para explicar el mal. Es contexto del predicador, no del texto de Judas.",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 9-10, 34-36",
+   "importancia": 1
+  },
+  {
+   "ref": "Jd 7",
+   "tipo": "exegesis",
+   "titulo": "Sodoma y Gomorra: advertencia contra el pecado sensual",
+   "contenido": "Según McGee, estas ciudades, probablemente sepultadas en el fondo del Mar Muerto (hay quien cree haberlas localizado; no le parece importante), fueron juzgadas por entregarse a la homosexualidad, que identifica con sodomía, el peor pecado de todos y una inmoralidad crasa. Dice que Satanás adoctrina con un nuevo vocabulario (el adulterio como amor libre, el borracho como alcohólico respetado, el asesino como «temporalmente enajenado») y que la «nueva moralidad» tiene raíz en Sodoma. Advierte que Dios juzgará a cualquier civilización que vaya demasiado lejos en esa dirección.",
+   "refs_biblicas": [
+    "Gn 19"
+   ],
+   "pagina": "pág. PDF 39-40",
+   "importancia": 2
+  }
+ ],
+ "problemas": "Transcripción de radio (TTB); sin OCR defectuoso relevante. Wuest aparece también como «West»/«Wiest» en el texto; normalizado a Wuest."
+}

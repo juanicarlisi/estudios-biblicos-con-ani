@@ -1,6 +1,10 @@
 # Varón: dónde quedamos (leer solo la sección pertinente: `grep -n "^## " varon/RETOMAR.md`)
 
-## Estado (31-10-2026)
+## Estado (09-11-2026, tras REFERENCIA4)
+- **REFERENCIA4 incorporada:** 2.414 notas nuevas (`trabajo/notas/r_*, q_*, z_*, y_*.json`; fuentes `R4001–R4281` en `trabajo/fuentes.json`) de libros A (primera pasada) y B, D y algunos C no católicos ni heterodoxos (segunda pasada, a pedido del fundador; el filtro doctrinal lo hacen los agentes al extraer y excluyó 1 libro de «liberación»), integradas en 454 de los 512 días (1.780 ítems de «Para profundizar», 1.289 conexiones, 221 pasos, 32 modelos, 13 datos, 11 interpretaciones). 512/512 días pasan `verificar_dia.py` (con `INSUMO_TOPE=400000` y las notas nuevas añadidas al insumo; ver `trabajo/scripts/ref4/`). Sin días nuevos; el tema «qué les dejás a tus hijos» va en los días 265, 274, 278, 289, 301 y 307. Excluidos por regla del fundador: católicos, adventistas, testigos, esoterismo, laicos y documentos legales (`trabajo/ref4/clasificacion.json`). HTML regenerado (17 MB).
+- Cuidado al repetir el proceso: `armar_bloques.py` debe calcular el próximo id de fuente con `int(k[1:])` (un error con `k[2:]` pisó R4001–R4013; ya reparado).
+
+## Estado anterior (31-10-2026)
 - **Terminado:** 512 días definitivos en `trabajo/dias/`, verificados por programa (`verificar_dia.py`: 511 sin marcas, el 377 pasa 18 palabras del largo) y revisados en continuidad y doctrina (935 retoques).
 - App y archivo final: `varon/app/` (plantilla + `construir.py`) → `varon/el-varon-segun-dios.html` (15 MB, sin conexión). Probada con Playwright (resaltar, nota, lápiz, guardar con marcas, descargar día, móvil).
 - Datos: 24.000 notas, 269 datos y 190 artículos web verificados, líneas de ayuda oficiales (`trabajo/web/ayuda.json`), 3 gráficos del Banco Mundial (`trabajo/web/series.json`).

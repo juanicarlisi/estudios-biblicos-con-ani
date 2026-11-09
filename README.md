@@ -41,3 +41,9 @@ Nada está inventado: cada afirmación lleva etiquetas con su fuente y la págin
 `genesis/trabajo/` guarda todo el trabajo intermedio: notas extraídas, clasificación de autores, plan, días y artículos en
 JSON, y los scripts. `genesis/app/` tiene la plantilla, las tipografías y el armador (`python3 genesis/app/construir.py`;
 con `--artefacto` arma la versión para publicar en claude.ai).
+
+## 1 Pedro a Apocalipsis (11-2026)
+
+- **Archivo único:** `pedro-apocalipsis/estudio-pedro-a-apocalipsis.html` (sin conexión): 1 Pedro, 2 Pedro, 1, 2 y 3 Juan, Judas y Apocalipsis en 164 días, 43 artículos y 26 diagramas, con progreso único y por libro, mapas y diagramas en cada página.
+- **Apocalipsis** (`apocalipsis/`) se revisó con los libros nuevos de REFERENCIA4 (Hitchcock, Lennox, Walvoord, Graham, Carballosa, MacArthur, Dyer, Lutzer, Foxe, Matthew Henry y Moody, entre otros).
+- **1 Pedro a Judas** (`pedro-judas/`): mismo método; estado y recetario en `pedro-judas/RETOMAR.md`.

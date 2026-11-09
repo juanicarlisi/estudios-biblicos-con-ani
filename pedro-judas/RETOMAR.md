@@ -27,3 +27,9 @@ SCRATCH = /tmp/claude-0/-home-user/532e468b-ac94-5647-a250-c8778228a262/scratchp
 - `trabajo/plan/cola_extraccion.json`: 72 grupos de a 1-2 bloques (A, B, D y `r1`); los 40 bloques `r2` (ventanas sueltas de REFERENCIA3, bajo rendimiento) quedan para el final, solo si hay huecos de cobertura.
 - Se lanza un subagente sonnet por grupo (prompt: `trabajo/prompts/extraer.md`, «Tus bloques: X y Y; un JSON por bloque»). Faltantes: `python3 trabajo/scripts/estado.py --bloques`.
 - Lanzados primero: grupos 0-3 (mac1p_01…08).
+
+## Estado (09-11-2026, noche)
+- Extracción terminada para A, B, D y r1 (118/158 bloques; los 40 `r2` quedan diferidos, solo si el plan de días muestra huecos de cobertura).
+- Plan de días hecho (`plan/plan.json`): 69 días en 11 partes (1P 24, 2P 14, 1J 18, 2J-3J 4, Jd 9). Insumos: `python3 trabajo/scripts/insumos_dias.py` e `insumos_articulos.py` (→ `SCRATCH/pj_insumos/`).
+- Pilotos de días: 1, 16 y 40. Si salen bien, lanzar el resto (opus, un agente por día, prompt `trabajo/prompts/escribir_dia.md`). Título duplicado a corregir: días 67 y 68 (Jd 17-20 / 21-23).
+- Después: artículos (14), diagramas (13), mapas, app combinada `pedro-apocalipsis/`.

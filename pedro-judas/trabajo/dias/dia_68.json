@@ -510,16 +510,6 @@
       "fuentes": [
         "mcgjd_03#10"
       ]
-    },
-    {
-      "texto": "Núñez cita al puritano George Swinnock, que decía que callar los pecados de la gente por miedo es matar sus almas, y concluye que el pastor que nunca lloró por sus ovejas tiene que pedirle a Dios un corazón como el de Cristo.",
-      "autor": "Miguel Núñez",
-      "obra": "2 Pedro y Judas",
-      "pagina": "PDF 213-215",
-      "tipo": "aplicacion",
-      "fuentes": [
-        "nunez2p_03_b#25"
-      ]
     }
   ],
   "conexiones": [
@@ -584,7 +574,7 @@
       ]
     },
     {
-      "texto": "La misericordia nunca le resta importancia al mal: odiar hasta la ropa manchada es tomar en serio el contagio. El que ayuda a otro a salir del pecado tiene que cuidarse a sí mismo.",
+      "texto": "La misericordia nunca le resta importancia al mal: el que ayuda a otro a salir del pecado tiene que cuidarse a sí mismo.",
       "fuentes": [
         "r1_003#17",
         "nunez2p_03_b#26",
@@ -634,11 +624,12 @@
     },
     {
       "titulo": "Más ilustraciones de la biblioteca",
-      "texto": "Para testificar no hace falta saber mucho: Deiros usa un verso del Martín Fierro (soy como los mates, sirvo si me abren la boca) y recuerda que el mensaje más poderoso es la experiencia personal con Cristo. Hinn propone, con los que dudan, no tirarles una Biblia de estudio y decirles que investiguen, sino regalársela y tomar café con ellos todas las veces que haga falta, recordando la misericordia que uno mismo recibió. Deiros advierte que el quietismo bañado de ortodoxia es tan peligroso como la herejía, y que en las iglesias se expulsa más fácil al desviado que al hipócrita religioso; cita a Elton Trueblood: la peor blasfemia no es el insulto sino la hipocresía.",
+      "texto": "Para testificar no hace falta saber mucho: Deiros usa un verso del Martín Fierro (soy como los mates, sirvo si me abren la boca) y recuerda que el mensaje más poderoso es la experiencia personal con Cristo. Hinn propone, con los que dudan, no tirarles una Biblia de estudio y decirles que investiguen, sino regalársela y tomar café con ellos todas las veces que haga falta, recordando la misericordia que uno mismo recibió. Deiros advierte que el quietismo bañado de ortodoxia es tan peligroso como la herejía, y que en las iglesias se expulsa más fácil al desviado que al hipócrita religioso; cita a Elton Trueblood: la peor blasfemia no es el insulto sino la hipocresía. Núñez cita al puritano George Swinnock, que decía que callar los pecados de la gente por miedo es matar sus almas, y concluye que el pastor que nunca lloró por sus ovejas tiene que pedirle a Dios un corazón como el de Cristo.",
       "fuentes": [
         "deirosjd_03_b#22",
         "r1_003#15",
-        "deirosjd_03_b#18"
+        "deirosjd_03_b#18",
+        "nunez2p_03_b#25"
       ]
     }
   ]

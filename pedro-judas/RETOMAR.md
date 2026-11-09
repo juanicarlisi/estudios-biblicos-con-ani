@@ -34,3 +34,8 @@ SCRATCH = /tmp/claude-0/-home-user/532e468b-ac94-5647-a250-c8778228a262/scratchp
 - Pilotos de días: 1, 16 y 40. Si salen bien, lanzar el resto (opus, un agente por día, prompt `trabajo/prompts/escribir_dia.md`). Título duplicado a corregir: días 67 y 68 (Jd 17-20 / 21-23).
 - Después: artículos (14), diagramas (13), mapas, app combinada `pedro-apocalipsis/`.
 - Pasada de recorte pendiente al final: días por encima de ~2.700 palabras según el validador (p. ej. día 44 = 2.912). Duplicado de título a corregir: días 67 y 68 (Jd 17-20 / 21-23). Los días se escribieron sin tocar la RVR en el repo; el assert de ≤500 versículos (con los 183 de Apocalipsis) se controla en la app combinada.
+
+## Estado (10-11-2026)
+- Los 69 días están escritos y validan. Artículos (14) y diagramas (13) lanzados; mapas ya tienen datos (`mapas/datos_mapas.json`).
+- Pendientes de cotejo: (1) contexto «antes/después» de los días escritos en paralelo (el día 69 se escribió sin el 68; revisar vecinos); (2) pasada de recorte de los días >2.700 palabras (p. ej. 44, 50); (3) `cotejar_citas.py` adaptado a pedro-judas (comillas «» solo texto RVR literal); (4) coherencia entre días y artículos sobre datos discutidos.
+- Siguiente gran paso: app combinada `pedro-apocalipsis/` (índice por libros: 1P, 2P, 1J, 2J, 3J, Jd, Ap; progreso único; numeración por libro) con el assert de ≤500 versículos RVR en total.

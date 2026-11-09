@@ -1,0 +1,163 @@
+{
+  "dia": 39,
+  "libro": "1J",
+  "desde": "1J 1:1",
+  "hasta": "1J 1:4",
+  "titulo": "El Verbo de vida: lo que hemos visto y oído",
+  "minutos": {"lectura": 2, "estudio": 25},
+  "contexto": {
+    "antes": "Ayer cerramos 2 Pedro (2P 3:14-18): Pedro pedía estar en guardia frente a los que tuercen las Escrituras y crecer en la gracia y el conocimiento de Jesucristo. Hoy empieza otra carta y otra voz, pero el frente es parecido: maestros que desvían a la iglesia.",
+    "ahora": "Juan abre su primera carta sin saludo ni firma, con un párrafo apretado que anuncia su tema: la vida eterna se hizo visible en Jesús, los testigos la oyeron, la vieron y la tocaron, y la anuncian para que los lectores entren en la misma comunión con el Padre y con el Hijo, y el gozo sea completo.",
+    "donde": "Según Kistemaker, el escritor pertenece a la comunidad de sus lectores (2:19) y los conoce de cerca: los llama hijitos, amados y hermanos.",
+    "cuando": "La Biblia MacArthur y MacArthur ubican la carta más de sesenta años después de lo vivido con Jesús; Richards la sitúa en los últimos años de Juan, cuando la herejía se había vuelto más peligrosa que en tiempos de Pedro y Judas.",
+    "despues": "Mañana (1J 1:5-10): el núcleo del mensaje es que Dios es luz, y de ahí salen las condiciones de la comunión: andar en la luz y confesar los pecados.",
+    "fuentes": ["kis1j_02_a#9", "mbib1j_01_a#21", "mac1j_01#16", "rich1j_01_a#6", "moodynt_02_b#1"]
+  },
+  "versiculo_clave": {
+    "ref": "1J 1:3",
+    "porque": "Reúne el movimiento del prólogo: lo que los testigos vieron y oyeron se anuncia con un propósito, que otros tengan comunión con ellos, y esa comunión es con el Padre y con su Hijo Jesucristo. Blaney, Bedford y el Comentario Moody ven aquí el tema de toda la carta."
+  },
+  "panorama": {
+    "texto": "Primera Juan empieza como ninguna otra carta del Nuevo Testamento: no hay nombre del autor, ni destinatarios, ni saludo. En su lugar, cuatro versículos que en griego forman un solo párrafo condensado y que funcionan como prólogo de todo lo que sigue, igual que los dieciocho primeros versículos del Evangelio de Juan. El tema es el Verbo de vida: Jesucristo, eterno, que estaba con el Padre y se manifestó en la historia de una forma tan real que pudo ser oído, mirado y palpado. Ese testimonio de primera mano no es un recuerdo privado: se anuncia para que otros participen de la misma comunión que tienen los apóstoles con el Padre y con el Hijo, y el resultado es un gozo completo. Persona (vv. 1-2) y propósito (vv. 3-4): así lo resume el Comentario Moody. De fondo hay maestros que negaban que Jesús hubiera venido en verdadera carne, y Juan les responde con lo que sus sentidos comprobaron.",
+    "fuentes": ["moodynt_02_b#1", "ncb1j_01_a#10", "kis1j_02_a#9", "cbmh1j_01_a#13", "bea1j_01_a#13", "mbib1j_01_a#19", "r1_007_b#6"]
+  },
+  "secciones": [
+    {
+      "rango": "1J 1:1-4",
+      "titulo": "Una carta que empieza sin saludo",
+      "notas": [
+        {"texto": "Faltan el nombre del escritor, los destinatarios y la bendición inicial que tienen casi todas las cartas del Nuevo Testamento (compárese con 1Co 1:1-4 o Stg 1:1); tampoco hay bendición al final. Aun así es una carta: el autor conoce íntimamente a sus lectores, los llama hijitos, amados y hermanos, y habla como testigo presencial.", "fuentes": ["kis1j_02_a#9", "moodynt_02_b#1", "cbmh1j_01_a#13"], "tipo": "estructura"},
+        {"texto": "El prólogo corre paralelo al de Hebreos 1:1-4, pero con otro estilo: Hebreos escribe en griego clásico, con oraciones equilibradas y muchas subordinadas; Juan escribe en un griego de sabor semítico, con frases breves unidas por «y». Blaney nota además que este párrafo es inusualmente complejo para Juan, como si el autor estuviera tan lleno del tema que los pensamientos se le amontonaran.", "fuentes": ["kis1j_02_a#9", "bea1j_01_a#10"], "tipo": "estructura"},
+        {"texto": "La gramática ayuda a leerlo: el verbo principal recién aparece en el v. 3 (anunciamos); las cinco cláusulas del v. 1 describen lo que se anuncia, y el v. 2 es un paréntesis sobre la vida. Bedford señala tres temas que van a recorrer la carta: el testimonio del Dios que por amor se hizo hombre y da vida eterna, la comunión del creyente con Dios y con los hermanos, y el gozo de esa comunión.", "fuentes": ["bea1j_01_a#10", "kis1j_02_a#14", "cbmh1j_01_a#13"], "tipo": "estructura"}
+      ]
+    },
+    {
+      "rango": "1J 1:1",
+      "titulo": "«Lo que era desde el principio»",
+      "notas": [
+        {"texto": "La primera palabra de la carta es un neutro: «lo que», no «el que». Juan la repite varias veces en estos versículos. Kistemaker explica que el neutro es más amplio: abarca la persona de Jesucristo y también su mensaje, el evangelio proclamado acerca de él. El Nuevo Comentario Bíblico lo dice así: el pronombre parece hablar de un mensaje, pero enseguida Juan habla de oír, ver y tocar, y eso solo se hace con una Persona; el comienzo extraño recuerda a la vez el evangelio y a Aquel en quien está centrado.", "fuentes": ["kis1j_02_a#10", "ncb1j_01_a#10", "cbmh1j_01_a#16"], "tipo": "exegesis"},
+        {"texto": "«Era» no significa que empezó a existir sino que ya existía. El Comentario Moody explica que «desde el principio» aquí apunta a antes de la creación, porque el v. 2 dice que la vida «estaba con el Padre»: es una alusión a la eternidad de Cristo. Las palabras recuerdan Juan 1:1 y Génesis 1:1, pero con un matiz: el Evangelio dice «en el principio» y mira la preexistencia; la carta dice «desde el principio» y subraya, según Bedford, que en Jesús la eternidad entró en el tiempo. La Biblia MacArthur lo lee de otro modo (ver Interpretaciones).", "fuentes": ["moodynt_02_b#2", "kis1j_02_a#10", "cbmh1j_01_a#16", "mhenry_01_c#3"], "tipo": "exegesis"},
+        {"texto": "Hay una consecuencia práctica que varios autores sacan de esta frase: si el mensaje es «desde el principio», no es una idea tardía ni una novedad. El Nuevo Comentario Bíblico ve en ella que el evangelio era parte del plan de Dios; MacArthur, que el mensaje de redención es inmutable y ningún predicador puede alterarlo, ni siquiera para hacerlo más aceptable (cita Gá 1:6-9); la Biblia MacArthur, que su contenido no está sujeto a modas ni filosofías.", "fuentes": ["ncb1j_01_a#10", "mac1j_01#15", "mbib1j_01_a#20"], "tipo": "doctrina"}
+      ]
+    },
+    {
+      "rango": "1J 1:1",
+      "titulo": "Oído, visto, contemplado, palpado",
+      "notas": [
+        {"texto": "Juan acumula cuatro verbos de los sentidos en un crescendo: oír, ver con los propios ojos, contemplar, tocar con las manos. El Nuevo Comentario Bíblico lo resume: no habla de misterios griegos ni de visiones sino de una Persona históricamente genuina y de realidades tangibles. Un espíritu no puede ser oído, visto y tocado como lo fue Jesús por los discípulos durante su ministerio y aun después de resucitar.", "fuentes": ["ncb1j_01_a#11", "mbib1j_01_a#21", "mac1j_01#16"], "tipo": "exegesis"},
+        {"texto": "Oído: Juan escuchó las parábolas, los sermones y la enseñanza privada de Jesús, como uno de los doce que lo acompañaron desde el bautismo hasta la ascensión (Hch 1:21-22). Kistemaker recuerda lo que Pedro y Juan dijeron ante el Sanedrín: no podían dejar de hablar de lo que habían visto y oído (Hch 4:20).", "fuentes": ["mac1j_01#16", "kis1j_02_a#11"], "tipo": "exegesis"},
+        {"texto": "Visto «con nuestros ojos»: el agregado aclara que no fue una visión espiritual ni una aparición sin cuerpo, sino un hecho literal. Contemplado: otro verbo, de mirada detenida; MacArthur nota que es el mismo de Juan 1:14 y que lo contemplado incluye su poder sobre los demonios, la enfermedad, la naturaleza y la muerte. Bedford agrega que ese verbo deja lugar a percibir algo más que lo físico: Juan vio a un hombre y, en él, al Hijo de Dios.", "fuentes": ["moodynt_02_b#2", "kis1j_02_a#12", "mac1j_01#16", "cbmh1j_01_a#17", "bea1j_01_a#11"], "tipo": "exegesis"},
+        {"texto": "Palpado: el verbo describe el tantear de un ciego que busca comprobar algo. Es la misma palabra que usó Jesús resucitado al invitar a los discípulos a tocarlo (Lc 24:39), y varios autores ven aquí también el recuerdo de Tomás (Jn 20:27). Kistemaker observa que Juan no menciona la resurrección en toda la carta, lo que hace más notable esta referencia callada: el cuerpo del Señor resucitado es real. Bedford lo pone en escala: oír la voz de Dios ya había pasado en el Antiguo Testamento; ver convence más; pero palpar con las manos es la prueba concluyente de que el Verbo se hizo carne.", "fuentes": ["mac1j_01#16", "moodynt_02_b#2", "kis1j_02_a#12", "cbmh1j_01_a#18", "bea1j_01_a#11"], "tipo": "exegesis"},
+        {"texto": "Detrás de todo esto hay un problema concreto. La Biblia MacArthur y Wiersbe explican que los falsos maestros negaban que Jesús hubiera venido en carne (ver 1J 4:2-3), y MacArthur habla de un gnosticismo incipiente que ofrecía un conocimiento secreto para una élite. Blaney aclara que Juan combate así la idea de un Jesús fantasmal, pero que su propósito primero no es polémico sino teológico y devocional: proclamar que en Jesús se reconoció la vida eterna de Dios. Wiersbe lo dice en una frase: sin un Cristo real no puede haber perdón verdadero.", "fuentes": ["mbib1j_01_a#19", "r1_007_b#6", "mac1j_01#15", "bea1j_01_a#11"], "tipo": "falsos_maestros"}
+      ]
+    },
+    {
+      "rango": "1J 1:1-2",
+      "titulo": "El Verbo de vida y la vida manifestada",
+      "notas": [
+        {"texto": "«Verbo de vida» recuerda el prólogo del Evangelio: en el Verbo estaba la vida, y la vida era la luz de los hombres (Jn 1:1-4). Kistemaker lo entiende como nombre personal de Jesucristo, como en Jn 1:1, 14 y Ap 19:13: el que declara las palabras de Dios con autoridad y, además, el que tiene vida y la da a los que oyen con fe. Otros autores mantienen que la frase incluye también el mensaje predicado (ver Interpretaciones).", "fuentes": ["ncb1j_01_a#10", "kis1j_02_a#13", "cbmh1j_01_a#14", "dbmh_01_a#20"], "tipo": "cristo"},
+        {"texto": "El v. 2 interrumpe la frase para hablar de la vida. El Nuevo Comentario Bíblico muestra cómo Juan insiste por repetición: toma «vida», la última palabra del v. 1, y la repite tres veces en pocas líneas. No es la vida en general sino la que fue manifestada; y como en el Evangelio Jesús es la vida (Jn 14:6), es de él de quien se testifica. Kistemaker nota que en griego lleva artículo, la vida, para destacar su plenitud en Jesucristo.", "fuentes": ["ncb1j_01_a#12", "kis1j_02_a#14", "kis1j_02_a#19"], "tipo": "exegesis"},
+        {"texto": "«Fue manifestada» es hacer visible lo que estaba oculto, dar a conocer lo que ya existía: nadie encuentra esta vida buscándola por su cuenta, dice Blaney, solo se conoce porque se reveló. Kistemaker ubica esa manifestación en la historia concreta de Jesús: su nacimiento, su vida, su muerte, su resurrección y sus apariciones posteriores.", "fuentes": ["mac1j_01#16", "cbmh1j_01_a#20", "bea1j_01_a#12", "kis1j_02_a#14"], "tipo": "doctrina"},
+        {"texto": "«La cual estaba con el Padre»: la preposición griega tiene el sentido de junto a, frente a, la misma construcción de Juan 1:1 sobre el Verbo. El Comentario Moody ve en ella la personalidad propia de Cristo y su igualdad con el Padre; la Biblia MacArthur, su eternidad en la gloria previa a la encarnación.", "fuentes": ["kis1j_02_a#14", "ncb1j_01_a#12", "moodynt_02_b#3", "mbib1j_01_a#23"], "tipo": "cristo"},
+        {"texto": "Los testigos no solo vieron: «testificamos, y os anunciamos». Kistemaker señala que testificar es un verbo muy de Juan (33 veces en el Evangelio y diez en las cartas) y que desemboca en proclamar. La Biblia MacArthur explica que esa repetición de manifestada, visto, testificamos, anunciamos recalca la autoridad del testigo frente a maestros que se jactaban de un Cristo al que nunca habían visto. MacArthur agrega que el privilegio de Juan no fue una experiencia privada sino la base de su encargo: comunicar el Verbo de vida es un mandato.", "fuentes": ["kis1j_02_a#15", "mbib1j_01_a#22", "mac1j_01#17"], "tipo": "doctrina"}
+      ]
+    },
+    {
+      "rango": "1J 1:3",
+      "titulo": "Para que tengan comunión",
+      "notas": [
+        {"texto": "Después del paréntesis, Juan retoma el hilo e invierte el orden del v. 1: «lo que hemos visto y oído, eso os anunciamos». Al repetir ver y oír, dice Kistemaker, vuelve a advertir contra las doctrinas que niegan la naturaleza humana y la resurrección corporal de Jesús: el núcleo apostólico es que Jesucristo, el Hijo de Dios, apareció en carne humana.", "fuentes": ["kis1j_02_a#16", "cbmh1j_01_a#20"], "tipo": "exegesis"},
+        {"texto": "El propósito aparece con un «para que»: que los lectores tengan comunión con los testigos. Koinonía es tener algo en común, participar, compartir; el Nuevo Comentario Bíblico recuerda que se usaba para socios comerciales (Lc 5:10), y MacArthur la describe como vida conjunta en una causa común, más que simple asociación por ideas compartidas. Kistemaker ve un propósito doble: protegerlos de los falsos maestros y fortalecerlos dentro de la comunión, que se expresaba también compartiendo bienes (Hch 4:32-37).", "fuentes": ["moodynt_02_b#4", "ncb1j_01_a#13", "mac1j_01#18", "kis1j_02_a#16"], "tipo": "exegesis"},
+        {"texto": "Enseguida Juan aclara de qué comunión habla: «verdaderamente es con el Padre, y con su Hijo Jesucristo». No es, dice la Biblia MacArthur, un tipo de relación social, sino hacerse socios del apóstol en la posesión común de la vida eterna; por eso Juan no escribe solo para defender una doctrina sino para producir salvación. El Comentario Moody añade que la base de esa comunión es la Encarnación, aun para quienes no vieron ni oyeron, y que tiene dos caras: con Dios y con los hermanos. Henry y el Nuevo Comentario Bíblico remarcan que es el Espíritu Santo quien la inicia y la sostiene.", "fuentes": ["mbib1j_01_a#24", "moodynt_02_b#4", "mhenry_01_c#4", "ncb1j_01_a#13", "mac1j_01#18"], "tipo": "doctrina"},
+        {"texto": "Ya en este versículo, Jesucristo queda unido al Padre. Kistemaker observa que Juan casi siempre usa el nombre completo, Jesucristo, o la frase que Jesús es el Cristo, porque quiere que sepan que el Jesús humano es el Mesías celestial. Citando a Plummer, el Comentario Moody dice que la fórmula deja sentadas dos verdades que las herejías podían negar: el Padre y el Hijo son personas distintas e iguales en dignidad, y el Hijo eterno de Dios es la misma persona que el Jesús de la historia.", "fuentes": ["kis1j_02_a#16", "moodynt_02_b#4", "ncb1j_01_a#13"], "tipo": "cristo"}
+      ]
+    },
+    {
+      "rango": "1J 1:4",
+      "titulo": "Para que el gozo sea cumplido",
+      "notas": [
+        {"texto": "Juan da el motivo de escribir: el gozo completo. La Biblia MacArthur traza la cadena del prólogo: la proclamación de la realidad del evangelio (vv. 1-2) produce comunión en la vida eterna (v. 3), y la comunión produce gozo (v. 4). Para Blaney este es el propósito primordial de toda la carta, y el gozo se mantiene completo en una comunión que no se interrumpe.", "fuentes": ["mbib1j_01_a#25", "bea1j_01_a#13", "moodynt_02_b#5", "cbmh1j_01_a#20"], "tipo": "doctrina"},
+        {"texto": "Kistemaker observa que este es el único lugar donde Juan dice «escribimos» en plural (en el resto de la carta dice «escribo») y lo entiende literalmente: Juan escribe junto con los demás apóstoles como testigos. Hay además una diferencia de manuscritos entre «vuestro gozo» y «nuestro gozo» (ver Interpretaciones). Sea cual fuere la lectura, el Nuevo Comentario Bíblico señala que los dos gozos van de la mano: Juan no puede gozarse plenamente si sus amigos no entran en la comunión, ni ellos sin él.", "fuentes": ["kis1j_02_a#17", "ncb1j_01_a#14", "moodynt_02_b#5"], "tipo": "exegesis"},
+        {"texto": "¿Qué gozo? MacArthur descarta la definición secular y cita a Martyn Lloyd-Jones: el gozo del Nuevo Testamento afecta a toda la persona y lo produce una sola cosa, la contemplación del Señor Jesucristo; es la respuesta del alma al conocerlo. Henry agrega que no es como los bienes del mundo, que se reparten y dan envidia: alcanza para cualquier cantidad de personas, y quien lo tiene quiere llevar a otros a él.", "fuentes": ["mac1j_01#19", "mhenry_01_c#4"], "tipo": "aplicacion"}
+      ]
+    }
+  ],
+  "palabras": [
+    {"ref": "1J 1:1", "griego": "ἀκηκόαμεν", "translit": "akēkóamen", "significado": "Hemos oído. Está en tiempo perfecto, igual que hemos visto: una acción pasada con efecto permanente. Kistemaker y Bedford ven en eso un testimonio fijo e inalterable; MacArthur, que lo oído seguía vívido sesenta años después.", "fuentes": ["kis1j_02_a#19", "cbmh1j_01_a#17", "moodynt_02_b#2", "mac1j_01#16"]},
+    {"ref": "1J 1:1", "griego": "θεάομαι", "translit": "theáomai", "significado": "Contemplar, mirar con detención (aquí ἐθεασάμεθα). Bedford lo describe como ver con los ojos percibiendo una impresión sobrenatural. Junto con palparon pasa al aoristo, que según Kistemaker y el Comentario Moody señala un período concreto en que los apóstoles acompañaron a Jesús.", "fuentes": ["cbmh1j_01_a#17", "mac1j_01#16", "kis1j_02_a#19", "moodynt_02_b#2"]},
+    {"ref": "1J 1:1", "griego": "ψηλαφάω", "translit": "psēlaphaō", "significado": "Palpar, tantear como un ciego que examina para comprobar. Es la palabra de Lc 24:39, cuando el Resucitado invita a tocarlo.", "fuentes": ["mac1j_01#16", "cbmh1j_01_a#18", "kis1j_02_a#19"]},
+    {"ref": "1J 1:1", "griego": "λόγος", "translit": "lógos", "significado": "Palabra, Verbo. En Juan es un nombre de Jesucristo (Jn 1:1, 14; Ap 19:13), el revelador de Dios; en Hechos la misma palabra designa el mensaje del evangelio. El Diccionario Mundo Hispano advierte que «verbo» traduce con limitaciones un término de mucha historia en el mundo judío y griego.", "fuentes": ["kis1j_02_a#13", "cbmh1j_01_a#15", "dbmh_01_a#20", "dbmh_02_b#21"]},
+    {"ref": "1J 1:2", "griego": "αἰώνιον", "translit": "aiṓnion", "significado": "Eterna. Kistemaker subraya que es vida sin fin; Blaney, que es más una cualidad que una duración: la vida propia de la era venidera, que Cristo posee y da a los que creen. Vida eterna aparece seis veces en 1 Juan.", "fuentes": ["bea1j_01_a#12", "kis1j_02_a#14"]},
+    {"ref": "1J 1:3", "griego": "κοινωνία", "translit": "koinōnía", "significado": "Comunión: tener algo en común, participar, compartir una vida. Richards la llama palabra de intimidad. Fuera de este capítulo, en el Nuevo Testamento la usa sobre todo Pablo.", "fuentes": ["ncb1j_01_a#13", "mac1j_01#18", "rich1j_01_a#7", "moodynt_02_b#4"]}
+  ],
+  "cristo": [
+    {"texto": "Verdadero Dios: el que «era desde el principio» y «estaba con el Padre» no empezó a existir en Belén. Henry lo llama la excelencia no creada, igual con el Padre, que al fin se manifestó con naturaleza humana para salvar pecadores.", "refs": ["Jn 1:1-2"], "fuentes": ["mhenry_01_c#3", "moodynt_02_b#2", "moodynt_02_b#3"]},
+    {"texto": "Verdadero hombre: se lo pudo oír, mirar y tocar. Bedford y MacArthur insisten en que el prólogo presenta al Dios-hombre, plenamente divino y plenamente humano, no un fantasma ni una experiencia mística.", "refs": ["Jn 1:14"], "fuentes": ["cbmh1j_01_a#17", "mac1j_01#16"]},
+    {"texto": "Resucitado en cuerpo: el palpar evoca Lc 24:39 y la invitación a Tomás. Kistemaker saca de ahí que el cuerpo resucitado del Señor es real, y que eso nos importa hoy: su cuerpo glorificado garantiza que los nuestros también serán glorificados (Fil 3:21), y por haber compartido nuestra carne y sangre es sumo sacerdote misericordioso y fiel (He 2:17).", "refs": ["Lc 24:39", "Jn 20:27", "Fil 3:21", "He 2:17"], "fuentes": ["kis1j_02_a#12", "kis1j_02_a#18"]},
+    {"texto": "La vida misma y el dador de vida: Jesús es la vida (Jn 14:6; 11:25), y la comparte con quienes oyen su Palabra con fe. Richards lo resume: para Juan, la vida eterna para el ser humano empieza con Jesús.", "refs": ["Jn 14:6", "Jn 11:25", "Jn 5:26"], "fuentes": ["kis1j_02_a#13", "ncb1j_01_a#12", "rich1j_01_a#8"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Quiénes son el «nosotros» que vio, oyó y tocó?",
+      "posturas": [
+        {"postura": "El grupo de los testigos oculares, los apóstoles, de los cuales Juan es el último sobreviviente; habla en nombre de ellos (siguiendo a Plummer y Westcott). Repasa otras cuatro lecturas: plural de autoridad equivalente a «yo», plural editorial, toda la iglesia (Dodd) y la escuela joanina (Brown); objeta a la de Dodd que los lectores no vieron ni tocaron a Jesús.", "quien": "Kistemaker", "fuentes": ["kis1j_01_a#17", "kis1j_01_a#18"]},
+        {"postura": "Solo tiene sentido si «nosotros» designa a quienes realmente vieron a Jesús en la carne y anuncian a la iglesia lo que vieron.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1j_01_a#11"]},
+        {"postura": "Un nosotros editorial: los primeros ministros del evangelio, entre los que Juan probablemente sobrevivió más tiempo.", "quien": "Blaney (Comentario Beacon)", "fuentes": ["bea1j_01_a#10"]}
+      ],
+      "nota": "Todos coinciden en que detrás del anuncio hay testigos de primera mano. Como dice Stott, citado por Kistemaker: los que anuncian son los mismos que tuvieron la experiencia."
+    },
+    {
+      "tema": "«Desde el principio» y «el Verbo de vida»: ¿la persona eterna o el mensaje?",
+      "posturas": [
+        {"postura": "«Desde el principio» apunta a la eternidad, antes de la creación, y «Verbo» es un nombre personal de Jesucristo.", "quien": "Comentario Moody, Kistemaker (con de Jonge y Burdick), Henry", "fuentes": ["moodynt_02_b#2", "kis1j_02_a#10", "kis1j_02_a#13", "mhenry_01_c#3"]},
+        {"postura": "«Lo que era» es la proclamación del evangelio centrada en Cristo, y «desde el principio» alude al comienzo de la predicación, cuando los lectores oyeron de Jesús por primera vez; el Verbo de vida es Jesucristo y también la predicación de su evangelio.", "quien": "Biblia MacArthur", "fuentes": ["mbib1j_01_a#20", "mbib1j_01_a#21"]},
+        {"postura": "El neutro abarca a la vez la Persona y el mensaje: la frase recuerda tanto el evangelio como a Aquel en quien está centrado. Blaney precisa que lo anunciado es algo acerca (περί) del Verbo: la vida que el Logos poseía y que emanaba de él.", "quien": "Nuevo Comentario Bíblico; Blaney (Comentario Beacon)", "fuentes": ["ncb1j_01_a#10", "bea1j_01_a#10"]}
+      ],
+      "nota": "Las lecturas no se excluyen del todo: ninguna separa el mensaje de la persona de Jesucristo, y todos afirman su eternidad (la Biblia MacArthur la ve en el v. 2)."
+    },
+    {
+      "tema": "¿«Vuestro gozo» o «nuestro gozo» (v. 4)?",
+      "posturas": [
+        {"postura": "La evidencia de los manuscritos favorece «nuestro gozo», por el énfasis del pasaje en nosotros y vosotros.", "quien": "Kistemaker", "fuentes": ["kis1j_02_a#17"]},
+        {"postura": "Hay argumentos para «vuestro gozo» (RV), pero es más correcto «nuestro gozo»: el gozo del apóstol y el de los lectores van de la mano.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1j_01_a#14"]},
+        {"postura": "Es difícil decidir entre las dos variantes; en cualquier caso, el gozo del apóstol y el de los lectores dependen de la comunión.", "quien": "Comentario Moody", "fuentes": ["moodynt_02_b#5"]}
+      ],
+      "nota": "La RVR1960 sigue «vuestro gozo». El sentido del versículo no cambia: el gozo pleno nace de la comunión compartida."
+    }
+  ],
+  "biblioteca": [
+    {"texto": "Barclay, citado por Bedford: una mirada rápida a Cristo nunca hizo cristiano a nadie; los ojos del creyente quedan fijos en él, con asombro amoroso.", "autor": "Benjamín Bedford", "obra": "Comentario Bíblico Mundo Hispano, 1 Juan", "pagina": "PDF 27-28", "tipo": "ilustracion", "fuentes": ["cbmh1j_01_a#18"]},
+    {"texto": "Stott, citado por MacArthur: la revelación fue dada a unos pocos para muchos; el mensaje cristiano no es especulación filosófica ni una sugerencia tentativa, sino la afirmación de testigos calificados por su experiencia y su comisión.", "autor": "John MacArthur", "obra": "Comentario MacArthur del Nuevo Testamento, 1-3 Juan", "pagina": "PDF 17-18", "tipo": "doctrina", "fuentes": ["mac1j_01#17"]},
+    {"texto": "Kistemaker recuerda a Papías (hacia el año 125), que prefería la voz viva de los testigos sobrevivientes a los libros. Esa generación terminó a fines del siglo I; a los que vinimos después nos alcanza lo que Jesús le dijo a Tomás sobre los que creen sin haber visto (Jn 20:29).", "autor": "Simon J. Kistemaker", "obra": "Comentario al Nuevo Testamento, 1 Juan", "pagina": "PDF 199 (p. 274)", "tipo": "historia", "fuentes": ["kis1j_02_a#18"]},
+    {"texto": "MacArthur contrasta una época que desconfía de toda certeza, incluso de que se pueda saber lo que dice la Biblia, con una carta escrita para que los creyentes sepan: certidumbre teológica, moral y relacional.", "autor": "John MacArthur", "obra": "Comentario MacArthur del Nuevo Testamento, 1-3 Juan", "pagina": "PDF 14-15", "tipo": "apologetica", "fuentes": ["mac1j_01#14"]},
+    {"texto": "La comunión con el Padre y el Hijo por el Espíritu es la primera prueba de la seguridad de la salvación: quienes la experimentan con regularidad pueden alegrarse de que su fe es genuina.", "autor": "John MacArthur y Richard Mayhue", "obra": "Teología sistemática", "pagina": "PDF 881", "tipo": "doctrina", "fuentes": ["r1_018_a#14"]}
+  ],
+  "conexiones": [
+    {"ref": "Jn 1:1-18", "nota": "El prólogo del Evangelio y el de la carta se corresponden: el Verbo eterno, la vida, la luz, el Verbo hecho carne. Bedford ve que el Verbo hecho carne es el punto de partida del Evangelio, de las cartas y del Apocalipsis.", "fuentes": ["moodynt_02_b#1", "cbmh1j_01_a#14", "ncb1j_01_a#10"]},
+    {"ref": "Lc 24:39", "nota": "Jesús resucitado invita a palparlo: carne y huesos, no un espíritu. Juan usa el mismo verbo.", "fuentes": ["moodynt_02_b#2", "r1_007_b#6", "kis1j_02_a#12"]},
+    {"ref": "2P 1:16", "nota": "Pedro, como Juan, apela a haber sido testigo ocular: no siguieron fábulas sino que vieron la majestad de Cristo. Kistemaker y MacArthur unen los dos testimonios.", "fuentes": ["kis1j_01_a#18", "mac1j_01#17"]},
+    {"ref": "1Ti 3:16", "nota": "Kistemaker cita este himno para describir la manifestación de Cristo: se manifestó en un cuerpo, fue visto, predicado y recibido en gloria.", "fuentes": ["kis1j_02_a#14"]},
+    {"ref": "1J 4:2-3", "nota": "Más adelante Juan hará de esto una prueba explícita: confesar que Jesucristo ha venido en carne. La Biblia MacArthur ve en el prólogo la primera prueba de comunión verdadera: una visión correcta de Cristo.", "fuentes": ["mbib1j_01_a#19"]},
+    {"ref": "1J 5:13", "nota": "El propósito de la carta al comienzo (comunión y gozo) tiene su paralelo al final: escribir para que sepan que tienen vida eterna.", "fuentes": ["kis1j_02_a#16"]},
+    {"ref": "1Co 10:16", "nota": "El Comentario Moody dice que la comunión con Cristo y entre hermanos se describe mejor en la Cena del Señor.", "fuentes": ["moodynt_02_b#4"]}
+  ],
+  "para_vivir": [
+    {"texto": "Ustedes no vieron ni tocaron a Jesús, pero no tienen una fe de segunda: la comunión que Juan ofrece se apoya en la Encarnación aun para los que no estuvieron ahí, y Kistemaker recuerda que tenemos comunión con un Cristo que es nuestro hermano y amigo. Lo que reciben es testimonio de primera mano, no una especulación.", "fuentes": ["moodynt_02_b#4", "kis1j_02_a#18", "mac1j_01#17"]},
+    {"texto": "Frente a versiones de la fe que prometen experiencias para iniciados o un Jesús más cómodo, el prólogo pide volver a lo que es «desde el principio»: el mensaje no se ajusta para hacerlo más aceptable. Vale como filtro para lo que escuchan y leen.", "fuentes": ["mac1j_01#15", "mbib1j_01_a#20"]},
+    {"texto": "La comunión es vertical y horizontal a la vez: con el Padre y el Hijo, y con los hermanos. Como matrimonio, ustedes ya comparten muchas cosas; esta carta los invita a reconocer que lo más profundo que tienen en común es la vida de Cristo, y a buscarla juntos.", "fuentes": ["moodynt_02_b#4", "ncb1j_01_a#13", "bea1j_01_a#13"]},
+    {"texto": "El gozo cristiano no se fabrica: según Lloyd-Jones, citado por MacArthur, nace de conocer y contemplar a Cristo. Y no se guarda: Henry dice que quien lo tiene quiere llevar a otros a él, y el gozo de Juan se completaba cuando otros entraban en la comunión.", "fuentes": ["mac1j_01#19", "mhenry_01_c#4", "ncb1j_01_a#14"]}
+  ],
+  "para_conversar": [
+    "Juan insiste en que Jesús fue oído, visto y tocado. ¿Por qué creen que importa tanto que Jesús haya sido un hombre real y no solo una idea o una experiencia espiritual?",
+    "Si la comunión es con el Padre y con el Hijo y también con los hermanos, ¿cómo se nota en su vida de pareja y en su iglesia que comparten esa vida en común?",
+    "¿Qué les quita el gozo hoy? ¿Qué cambiaría si lo buscaran, como dice Lloyd-Jones, en la contemplación de Cristo?"
+  ],
+  "para_orar": "Padre, gracias porque tu Hijo, que estaba contigo desde siempre, se hizo visible y tocable, y porque por el testimonio de los apóstoles hoy podemos tener comunión contigo y con él. Afírmanos en ese mensaje que no cambia, únenos más en esa vida compartida y completa nuestro gozo en Jesucristo.",
+  "visuales": ["dg-estructura-1j", "dg-falsos"],
+  "anexos": ["I4", "P3", "T2"],
+  "profundizar": [
+    {"titulo": "La vida de Cristo, la resurrección y el nacimiento virginal", "texto": "Blaney saca del concepto juanino de vida una lectura de la Pascua: la resurrección no es tanto que una vida quitada volviera, sino que la vida misma, que no fue rota por la cruz, se levantó de la muerte con un cuerpo espiritual (1Co 15:44). De ahí concluye que la comunión del cristiano con Dios y con los hermanos no puede ser destruida por el sufrimiento ni por la muerte. Del mismo modo entiende el nacimiento virginal como la entrada en la humanidad de esa vida que Juan oyó, vio y palpó.", "fuentes": ["bea1j_01_a#14"]},
+    {"titulo": "¿Se puede estar «fuera de la comunión»?", "texto": "La Biblia MacArthur concluye de este versículo, que identifica comunión con salvación, que el cristiano genuino nunca está fuera de la comunión. MacArthur matiza en su comentario que el creyente que peca puede perder el gozo de la comunión, pero no la realidad de la vida eterna recibida por la unión con Cristo (Jn 5:24). Blaney, por su parte, subraya que el gozo se completa en una comunión ininterrumpida. El tema vuelve mañana con andar en la luz y confesar.", "fuentes": ["mbib1j_01_a#24", "mac1j_01#18", "bea1j_01_a#13"]},
+    {"titulo": "Un bosquejo para enseñar 1J 1:1-3", "texto": "Bedford propone tres puntos: la verdad del Verbo eterno (era desde el principio, estaba con el Padre); su manifestación (enviado por el Padre, apareció a los hombres); y los testimonios sobre él (visto, palpado, escuchado, anunciado por testigos fieles). Conclusión: Jesús vino en la carne para revelar el amor y el propósito del Padre.", "fuentes": ["cbmh1j_01_a#19"]}
+  ]
+}

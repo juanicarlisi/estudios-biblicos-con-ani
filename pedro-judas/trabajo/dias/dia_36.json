@@ -1,177 +1,657 @@
 {
-  "dia": 36,
-  "libro": "2P",
-  "desde": "2P 3:8",
-  "hasta": "2P 3:10",
-  "titulo": "Mil años como un día: el día del Señor vendrá",
-  "minutos": {"lectura": 2, "estudio": 25},
-  "contexto": {
-    "antes": "En 2P 3:1-7 Pedro desenmascaró a los burladores que preguntaban dónde estaba la promesa de la venida del Señor y suponían que todo sigue igual desde la creación. Les recordó lo que olvidan a propósito: Dios ya interrumpió una vez la historia con el diluvio, y el mundo actual está guardado para el fuego del juicio.",
-    "ahora": "Después de contestar a los burladores, Pedro se vuelve a los «amados»: los creyentes que, sin negar la promesa, pueden quedar perplejos porque el Señor todavía no volvió. Les da razones para no perder la calma: Dios mide el tiempo de otra manera, su demora es paciencia y no olvido, y el día vendrá de todos modos, de golpe, como un ladrón.",
-    "despues": "En 2P 3:11-13 Pedro saca la consecuencia práctica: si todo esto va a ser deshecho, qué clase de personas conviene ser, mientras esperan cielos nuevos y tierra nueva donde mora la justicia.",
-    "fuentes": ["bea2p_01_a#11", "bea2p_01_b#14", "ncb2p_01_b#21", "kis2p_04_b#25", "cbmh2p_01_b#13"]
-  },
-  "versiculo_clave": {
-    "ref": "2P 3:9",
-    "porque": "Es el corazón del tramo: lo que parece tardanza es la paciencia de un Dios que no quiere que nadie se pierda, y por eso cada día de espera es un día de gracia."
-  },
-  "panorama": {
-    "texto": "Pedro responde a una pregunta muy humana: si el Señor prometió volver, ¿por qué tarda tanto? Los comentaristas coinciden en que da varias respuestas encadenadas. Primero, Dios no está dentro del tiempo como nosotros: para él un día y mil años no pesan distinto, así que nuestra impaciencia no es una medida de su fidelidad. Segundo, lo que llamamos demora es en realidad paciencia: Dios contiene el juicio para dar lugar al arrepentimiento. Tercero, la paciencia no es eterna: el día del Señor vendrá, sin aviso, y con él el fin del orden actual por el fuego. Así, el control de Dios sobre el final es tan seguro como lo fue sobre el comienzo, y la espera, en vez de ser motivo de duda, se vuelve una muestra de misericordia.",
-    "fuentes": ["bea2p_01_a#11", "bea2p_01_b#14", "ncb2p_01_b#21", "moodynt_02_a#17", "nunez2p_02_b#5", "nunez2p_02_b#6"]
-  },
-  "secciones": [
-    {
-      "rango": "2P 3:8",
-      "titulo": "«No ignoréis esto»: Dios y el tiempo",
-      "notas": [
-        {"texto": "Pedro vuelve a llamarlos «amados» y les pide que no se les escape lo que los burladores pasan por alto adrede: el verbo es el mismo del v. 5. Es un contraste buscado: los falsos maestros ignoran voluntariamente; los creyentes no tienen por qué ignorar. Con esto el autor deja de hablarles a los que se burlan y se dirige a los cristianos que podían estar desconcertados.", "fuentes": ["kis2p_04_b#22", "ncb2p_01_b#21", "cbmh2p_01_b#12"], "tipo": "exegesis"},
-        {"texto": "La frase «un día es como mil años, y mil años como un día» es un eco del Salmo 90:4. El sentido que todos señalan es que Dios es eterno y está por encima de las limitaciones del tiempo: todo lo pasado, presente y futuro está siempre delante de él. Para nosotros hay una diferencia enorme entre un día y mil años; para él no, y una postergación de siglos no es para Dios lo que para nosotros dejar algo para mañana. Henry agrega que a quien no conoce al Dios eterno le cuesta formarse idea de la eternidad, y por eso tiende a imaginar a Dios como uno más de nosotros.", "fuentes": ["mhenry_01_b#38", "moodynt_02_a#17", "ncb2p_01_b#21", "cbmh2p_01_b#12", "mac2p_04_a#23"], "tipo": "doctrina"},
-        {"texto": "Núñez lo explica así: Dios vive fuera del tiempo y del espacio, en un presente eterno; por eso, aunque Cristo ascendió hace unos dos mil años, en el calendario de Dios es como si hubiera partido hoy. Lo relaciona con el nombre YO SOY y con el Dios de Ap 1:4, el que es, el que era y el que ha de venir. El Comentario Moody saca una conclusión parecida: medido sin las limitaciones del tiempo, desde los apóstoles hasta la venida del reino no habrá pasado más que un día o dos.", "fuentes": ["nunez2p_02_b#5", "moodynt_02_a#17"], "tipo": "doctrina"},
-        {"texto": "Kistemaker hace notar que Pedro no se pone a especular sobre cuándo llegará el fin (Jesús dijo que nadie sabe el día ni la hora, Mt 24:36). No le interesa una lección abstracta sobre tiempo y eternidad, sino ubicar el tiempo en relación con el último día. Y Fuhrman lo resume con una paradoja útil: el Señor no vendrá ni un día antes del tiempo señalado, pero siempre está cerca, porque mil años son para él como un día.", "fuentes": ["kis2p_04_b#22", "bea2p_01_b#14"], "tipo": "exegesis"},
-        {"texto": "¿Habla este versículo del milenio? Algunos autores ven además aquí una indicación de los mil años del reino; otros advierten que el versículo no trata ese tema y que su segunda mitad («mil años como un día») impide usarlo para calcular fechas. Ver Interpretaciones.", "fuentes": ["mac2p_04_a#23", "kis2p_04_b#23", "ncb2p_01_b#21"], "tipo": "interpretacion"}
-      ]
-    },
-    {
-      "rango": "2P 3:9",
-      "titulo": "«No retarda su promesa»: la demora es paciencia",
-      "notas": [
-        {"texto": "Pedro niega que Dios llegue tarde. Hay quienes lo tienen por tardanza, pero se equivocan de diagnóstico. Kistemaker cree que esos «algunos» no son los burladores del v. 3 sino creyentes influidos por ellos, que dudaban sin poder explicarse el retraso; sus dudas eran innecesarias, porque Dios tiene control absoluto. El texto alude a Habacuc 2:3, una promesa que dice que lo anunciado vendrá aunque parezca demorarse.", "fuentes": ["kis2p_04_b#25", "kis2p_04_b#24", "ncb2p_01_b#21"], "tipo": "exegesis"},
-        {"texto": "La demora no se debe a indiferencia, distracción ni impotencia. Dios hace todo según su plan, como lo hizo en la primera venida, cuando envió a su Hijo en el cumplimiento del tiempo (Gá 4:4). Mientras espera, soporta la blasfemia, la rebelión y la transgresión continua de su ley; McGee observa que la tierra viene arrastrando una contaminación moral de miles de años y Dios sigue soportándola. Fuhrman lo pone así: la demora no prueba que la profecía sea falsa, sino que Dios quiere darle al hombre más tiempo para arrepentirse.", "fuentes": ["mac2p_04_a#24", "mbib2p_01_c#22", "mcg2p_03_b#8", "bea2p_01_a#11"], "tipo": "doctrina"},
-        {"texto": "Kistemaker cita a Bauckham: lo que determina el retraso no es el pecado humano sino la paciencia divina, que no puede ser forzada. Y Núñez lo dice de manera pastoral: lo que frena el juicio no es nuestro buen comportamiento sino la bondad infinita de Dios. Es decir, la espera no depende de que el mundo mejore; depende del corazón de Dios.", "fuentes": ["kis2p_04_b#24", "nunez2p_02_b#6"], "tipo": "doctrina"},
-        {"texto": "Pedro dice que Dios es paciente «para con nosotros». Algunos manuscritos y traducciones leen con ustedes o a causa de ustedes, pero el Nuevo Comentario Bíblico señala que la diferencia es poca. Kistemaker subraya que la paciencia es con los lectores, no con los burladores: Dios no juzga a su pueblo apresuradamente, como ya había esperado en tiempos de Noé (1P 3:20).", "fuentes": ["ncb2p_01_b#21", "kis2p_04_b#25"], "tipo": "exegesis"},
-        {"texto": "«No queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.» La voluntad de Dios en la espera es redentora: abre la puerta del arrepentimiento todo lo que se pueda. Varios autores lo leen junto con Ro 2:4 y 1Ti 2:4. Quiénes son ese «ninguno» y ese «todos» es algo que los comentaristas explican de modo distinto; ver Interpretaciones. Pero todos coinciden en dos cosas: que el versículo no enseña que al final todos se salvarán, y que quien se pierde lo hace por rechazar la oferta de Dios.", "fuentes": ["moodynt_02_a#17", "ncb2p_01_b#21", "cbmh2p_01_b#12", "kis2p_04_b#26", "mbib2p_01_c#23", "mac2p_04_a#26"], "tipo": "interpretacion"},
-        {"texto": "El versículo ha sido usado por el universalismo, la idea de que el amor de Dios terminará abarcando a todo ser humano. El Nuevo Comentario Bíblico responde que enseña lo contrario: después de la segunda venida, ya anunciado el juicio de Cristo, no habrá otra oportunidad de arrepentirse, y justamente por eso Dios en su misericordia da todo el tiempo posible. Kistemaker recuerda que en esta misma carta Pedro declara condenados a los falsos maestros y burladores (2P 2:3; 3:7), y que el arrepentimiento es un acto que el hombre tiene que hacer: Esaú buscó con lágrimas y no halló lugar para él (He 12:17).", "fuentes": ["ncb2p_01_b#21", "kis2p_04_b#26", "r1_004#1"], "tipo": "doctrina"}
-      ]
-    },
-    {
-      "rango": "2P 3:10",
-      "titulo": "«El día del Señor vendrá como ladrón en la noche»",
-      "notas": [
-        {"texto": "Frente a la paciencia de Dios, Pedro pone la certeza: el día vendrá. Es la primera respuesta a quien pregunta por qué tarda el Señor: la demora no anula la palabra de Dios. Y vendrá como ladrón: de repente, sin aviso, y desastroso para quienes no estén preparados. La imagen la usó Jesús (Mt 24:43; Lc 12:39) y la retomaron los apóstoles (1Ts 5:2; Ap 3:3; 16:15).", "fuentes": ["kis2p_04_c#1", "bea2p_01_b#14", "mac2p_04_a#28", "cbmh2p_01_b#14", "moodynt_02_a#18"], "tipo": "exegesis"},
-        {"texto": "El día del Señor es una expresión que viene de los profetas. Núñez cuenta 17 apariciones en el Antiguo Testamento, de Isaías a Malaquías, y cuatro en el Nuevo (Hch 2:20; 1Ts 5:2; 2Ts 2:2; 2P 3:10); MacArthur y Mayhue cuentan 19 en el Antiguo. Designa las intervenciones extraordinarias de Dios en la historia para juzgar, que culminan en el juicio final y el fin del mundo presente. Los profetas lo veían como tinieblas y condenación sin igual, en que Dios reivindica su nombre y establece su reino. Los profetas lo usaron también para juicios cercanos, como la plaga de langostas de Joel 1, que prefiguran el juicio lejano.", "fuentes": ["nunez2p_02_b#7", "mac2p_04_a#27", "mbib2p_01_c#24", "r1_019#5"], "tipo": "doctrina"},
-        {"texto": "Roldán aporta un dato que ayuda: día del Señor (v. 10) y día de Dios (v. 12) son expresiones intercambiables, y el Nuevo Testamento aplica esa expresión del Antiguo a Jesucristo. También recuerda que la escatología del Nuevo Testamento no busca dibujar un mapa de los eventos futuros sino mostrar cómo la esperanza transforma el presente, y que así funciona este pasaje.", "fuentes": ["cbmh2p_01_b#14"], "tipo": "exegesis"},
-        {"texto": "Núñez lo aplica sin rodeos: nadie sabe la hora, pero cuando llegue todos lo sabrán. Hoy todavía hay tiempo para entregarle la vida a Cristo; cuando llegue, no habrá un segundo para otra oportunidad. Por eso Jesús habló del dueño de casa que, si supiera la hora, se quedaría despierto (Mt 24:42-43). Cuándo empieza y cuánto dura ese día es un punto en que los autores difieren; ver Interpretaciones.", "fuentes": ["nunez2p_02_b#8", "r1_003#2", "r4a_001#5"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "2P 3:10",
-      "titulo": "Los cielos, los elementos y la tierra",
-      "notas": [
-        {"texto": "«Los cielos pasarán con grande estruendo»: la palabra griega imita un ruido fuerte, como un silbido o el crepitar de lo que se consume en llamas. Kistemaker piensa en los cielos que se enrollan como un pergamino (Ap 6:14; Is 34:4). Para MacArthur es la desintegración del universo visible por intervención directa de Dios, no por causas naturales. Núñez agrega que ocurrirá como fue creado: Dios habló y todo existió; hablará y dejará de existir.", "fuentes": ["kis2p_04_c#2", "mac2p_04_a#28", "mbib2p_01_c#25", "nunez2p_02_b#9"], "tipo": "exegesis"},
-        {"texto": "«Los elementos ardiendo serán deshechos.» Qué son esos elementos se discute: componentes básicos de la materia, los cuatro elementos de los antiguos, o los astros (ver Interpretaciones). El verbo traducido «deshechos» es el de desatar o desunir; Núñez dice que también puede significar derretir o desintegrar. Fuhrman reconoce que hay un misterio sobre el cuándo y el cómo, pero que la certeza permanece.", "fuentes": ["cbmh2p_01_b#15", "kis2p_04_c#3", "mcg2p_03_b#11", "nunez2p_02_b#9", "bea2p_01_b#15"], "tipo": "interpretacion"},
-        {"texto": "Varios autores del siglo XX relacionaron el lenguaje de Pedro con la energía atómica: McGee vio en el estruendo y el calor algo parecido a una explosión atómica; MacArthur propone que Dios quizá incinere el universo en una reacción en cadena. Fuhrman, en cambio, es prudente: el vocabulario se adapta al atómico, pero es imposible decir si Dios usará esa clase de destrucción. Lo que sí está claro, dice, es su decisión de poner fin al orden pecaminoso con un fuego purificador.", "fuentes": ["mcg2p_03_b#10", "mbib2p_01_c#25", "bea2p_01_b#15"], "tipo": "interpretacion"},
-        {"texto": "La última frase tiene un problema de texto. La RVR1960 dice que la tierra y sus obras «serán quemadas», siguiendo manuscritos con lecturas más fáciles; pero el texto griego más antiguo, el que trae el SBLGNT, dice será hallada o quedará al descubierto. Kistemaker y el Nuevo Comentario Bíblico prefieren esa lectura difícil: la tierra y todas las obras del hombre comparecerán ante el tribunal de Dios, que es quien las pone al descubierto. Así, «obras» tendría un sentido moral, y Pedro podría retomarlo en el v. 14 cuando habla de ser hallados en paz. Kistemaker admite que el verbo sigue siendo difícil.", "fuentes": ["kis2p_04_c#4", "ncb2p_01_b#23", "nunez2p_02_b#10"], "tipo": "exegesis"},
-        {"texto": "Henry ve en el fuego dos efectos: consume todo lo que el pecado trajo al mundo, y purifica lo que es obra de la mano de Dios. Los palacios y todo aquello en que el mundo pone su felicidad pasarán por el fuego; por eso pregunta qué será de quien hace de esta tierra su porción, y exhorta a asegurar una felicidad que esté más allá de lo visible.", "fuentes": ["mhenry_01_b#39"], "tipo": "aplicacion"}
-      ]
-    }
-  ],
-  "palabras": [
-    {"ref": "2P 3:9", "griego": "βραδύνει", "translit": "bradýnei", "significado": "Tardar, retrasarse, con idea de pérdida de tiempo. Pedro niega que eso se aplique a Dios, que obra todo conforme a su plan. Rige el genitivo «de la promesa».", "fuentes": ["mac2p_04_a#24", "kis2p_04_b#28"]},
-    {"ref": "2P 3:9", "griego": "μακροθυμεῖ", "translit": "makrothymeî", "significado": "Ser paciente, longánimo; literalmente, de enojo largo: Dios tiene una enorme capacidad de contener su ira antes de que se desborde en juicio. El sustantivo makrothymía es el preferido para hablar de la demora del Señor en castigar (Ro 2:4; 2P 3:15).", "fuentes": ["cbmh2p_01_b#12", "mac2p_04_a#24", "dbmh_01_b#25"]},
-    {"ref": "2P 3:10", "griego": "ῥοιζηδὸν", "translit": "rhoizēdón", "significado": "Con estruendo: onomatopeya del silbido o ráfaga de un ruido fuerte, como el crepitar de lo que arde.", "fuentes": ["mac2p_04_a#28", "kis2p_04_c#2"]},
-    {"ref": "2P 3:10", "griego": "στοιχεῖα", "translit": "stoicheîa", "significado": "Elementos; literalmente, cosas puestas en fila (como letras o números). Aplicado al mundo físico, los componentes básicos de la materia o, según otros, los cuerpos celestes. Pablo usa la palabra en otro sentido en Gá 4:3 y Col 2:8.", "fuentes": ["mac2p_04_a#28", "cbmh2p_01_b#15", "ncb2p_01_b#23"]},
-    {"ref": "2P 3:10", "griego": "εὑρεθήσεται", "translit": "heurethḗsetai", "significado": "Será hallada, quedará al descubierto: futuro pasivo de encontrar. La forma pasiva implica que Dios es quien pone al descubierto la creación en el juicio.", "fuentes": ["kis2p_04_c#4"]}
-  ],
-  "cristo": [
-    {"texto": "La imagen del ladrón en la noche fue una metáfora favorita del mismo Jesús, y los apóstoles la tomaron de él. El que avisó que vendría a la hora que no se espera es el mismo que viene: el día del Señor del Antiguo Testamento el Nuevo lo aplica a Jesucristo.", "refs": ["Mt 24:43", "Lc 12:39", "1Ts 5:2"], "fuentes": ["moodynt_02_a#18", "cbmh2p_01_b#14"]},
-    {"texto": "Así como el Hijo vino en el cumplimiento del tiempo, la segunda venida tampoco se atrasa: sucede según el plan de Dios. Berkhof resume su propósito: Cristo vuelve al final de la historia para la resurrección de los muertos y el juicio final.", "refs": ["Gá 4:4", "Jn 5:25-29", "2Co 5:10"], "fuentes": ["mac2p_04_a#24", "r1_015#4"]},
-    {"texto": "La paciencia de Dios tiene un rostro: entregó a su Hijo para morir. McGee lo dice así: uno puede darle la espalda a Dios, pero no puede impedir que quiera salvarlo.", "refs": ["Jn 3:16"], "fuentes": ["mcg2p_03_b#9"]}
-  ],
-  "interpretaciones": [
-    {
-      "tema": "¿Habla 2P 3:8 del milenio?",
-      "posturas": [
-        {"postura": "Además del sentido general (Dios está por encima del tiempo), ve una indicación específica: mil años literales entre la primera fase del día del Señor, al final de la tribulación, y la última, al final del reino milenial.", "quien": "MacArthur (premilenial)", "fuentes": ["mac2p_04_a#23", "mbib2p_01_c#21"]},
-        {"postura": "El versículo se aplica al intervalo antes del juicio de fuego: la tribulación y los mil años del reino; aunque el Rapto fuera mañana, pasarían por lo menos 1007 años antes de ese juicio.", "quien": "McGee", "fuentes": ["mcg2p_03_b#5"]},
-        {"postura": "No da información sobre un milenio. En los primeros siglos algunos (la Epístola de Bernabé, Ireneo) calcularon seis mil años usando solo la primera mitad del versículo; la segunda mitad, mil años como un día, cancela esa lectura.", "quien": "Kistemaker", "fuentes": ["kis2p_04_b#23"]},
-        {"postura": "No hay base para construir una doctrina del milenio sobre este versículo, porque no es su tema; el término mil es el de Ap 20 pero aquí indica que el tiempo no afecta al Señor.", "quien": "Nuevo Comentario Bíblico; Roldán (Mundo Hispano)", "fuentes": ["ncb2p_01_b#21", "cbmh2p_01_b#12"]}
-      ],
-      "nota": "Todos coinciden en el sentido principal: Dios es eterno y no está atado a nuestro calendario."
-    },
-    {
-      "tema": "¿Quiénes son el «ninguno» y el «todos» del v. 9?",
-      "posturas": [
-        {"postura": "Dios desea sinceramente que todos se salven, pero eso no significa que todos lo sean: se distingue entre el deseo de Dios y su decreto. Caín y Judas Iscariote muestran un amor divino rechazado; quien repudia la gracia es responsable de su condenación.", "quien": "Kistemaker (con Calvino y Berkhof)", "fuentes": ["kis2p_04_b#27", "kis2p_04_b#26"]},
-        {"postura": "El contexto limita el «nosotros» a los creyentes, y por tanto «ninguno» y «todos» son los elegidos: Cristo no vuelve hasta que el último de ellos sea salvo. Dios ofrece salvación a todos y no se complace en la muerte del impío, pero eligió salvar a algunos; quien perece lo hace por rechazar a Cristo, no por haber sido creado para el infierno.", "quien": "MacArthur", "fuentes": ["mac2p_04_a#25", "mbib2p_01_c#23", "mac2p_04_a#26"]},
-        {"postura": "La espera es redentora y la voluntad primordial de Dios es que todos los hombres se arrepientan; Dios mantiene abierta lo más posible la puerta del arrepentimiento para la humanidad.", "quien": "Comentario Moody; Nuevo Comentario Bíblico; Fuhrman (Beacon)", "fuentes": ["moodynt_02_a#17", "ncb2p_01_b#21", "bea2p_01_b#14"]}
-      ],
-      "nota": "Todos rechazan el universalismo y coinciden en que la paciencia de Dios es una oportunidad real de arrepentimiento antes del juicio."
-    },
-    {
-      "tema": "¿Cuándo empieza y cuánto abarca el día del Señor?",
-      "posturas": [
-        {"postura": "Es solo juicio y sucede dos veces: al final de la tribulación y al final del milenio, justo antes de los cielos nuevos y la tierra nueva.", "quien": "MacArthur y Mayhue (premilenial futurista)", "fuentes": ["r1_019#6", "mac2p_04_a#27"]},
-        {"postura": "Es un período largo que empieza inmediatamente después del traslado de la iglesia, con la tribulación, y sigue con la segunda venida y el milenio hasta los cielos nuevos; solo así puede llegar como ladrón.", "quien": "Pentecost y Walvoord (pretribulacionales)", "fuentes": ["r1_003#2", "r4a_001#5", "r4a_001#6"]},
-        {"postura": "Empieza con el regreso del Señor en gloria y termina con la purificación de cielos y tierra por fuego.", "quien": "Scofield (según Pentecost)", "fuentes": ["r1_003#2"]},
-        {"postura": "Comienza con la Gran Tribulación y concluye con el milenio, la rebelión final de Satanás, el Gran Trono Blanco y el juicio de fuego.", "quien": "McGee", "fuentes": ["mcg2p_03_b#13"]},
-        {"postura": "La gran tribulación que vendrá sobre la tierra después del Arrebatamiento de la Iglesia.", "quien": "Wiersbe (Bosquejos expositivos)", "fuentes": ["r1_007_a#19"]},
-        {"postura": "Cristo vuelve al final de la historia para inaugurar la era futura con la resurrección de los muertos y el juicio final; 2P 3:10-13 está entre los textos de ese único acontecimiento final.", "quien": "Berkhof", "fuentes": ["r1_015#4"]}
-      ],
-      "nota": "Todos coinciden en que el día vendrá de modo inesperado, que es obra de Dios y que trae el juicio final y cielos nuevos y tierra nueva."
-    },
-    {
-      "tema": "¿Qué son «los elementos»?",
-      "posturas": [
-        {"postura": "Los componentes atómicos básicos de la materia.", "quien": "MacArthur; McGee", "fuentes": ["mac2p_04_a#28", "mbib2p_01_c#25", "mcg2p_03_b#11"]},
-        {"postura": "Los elementos físicos que forman el mundo, quizá los cuatro de los estoicos (agua, aire, fuego, tierra); descarta aquí las fuerzas cósmicas de Gá 4:3 y Col 2:8.", "quien": "Roldán (Mundo Hispano)", "fuentes": ["cbmh2p_01_b#15"]},
-        {"postura": "Expone dos opciones: tierra, agua y aire (Esser, Delling) o los cuerpos celestes, sol, luna y estrellas, con Is 34:4 (Mayor); desarrolla más la segunda sin pronunciarse.", "quien": "Kistemaker", "fuentes": ["kis2p_04_c#3"]},
-        {"postura": "Deja abiertas las dos posibilidades: sustancias elementales o cuerpos celestes.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb2p_01_b#23"]}
-      ],
-      "nota": "Más allá del detalle, todos leen que el orden actual llega a su fin por obra de Dios."
-    },
-    {
-      "tema": "¿Destrucción total o renovación de la creación?",
-      "posturas": [
-        {"postura": "El universo actual será reemplazado por cielos y tierra totalmente nuevos.", "quien": "MacArthur", "fuentes": ["mac2p_04_a#29"]},
-        {"postura": "Por el pecado la tierra y sus obras serán destruidas y limpiadas, y reemplazadas por nuevos cielos y nueva tierra.", "quien": "Geisler y Howe", "fuentes": ["r1_001#27"]},
-        {"postura": "Leído con Ro 8:20-21 (la creación liberada de la corrupción), parece indicar una renovación: lo nuevo (kainós) es nuevo en calidad, no algo hecho por primera vez. En cualquier caso habrá destrucción y algo nuevo.", "quien": "Núñez", "fuentes": ["nunez2p_02_b#10"]},
-        {"postura": "El fuego consume lo que el pecado trajo y purifica lo que es obra de Dios; un bautismo de fuego purificador que prepara para la justicia.", "quien": "Matthew Henry; Fuhrman (Beacon)", "fuentes": ["mhenry_01_b#39", "bea2p_01_b#15"]}
-      ],
-      "nota": "Se retoma en el día siguiente, con los cielos nuevos y la tierra nueva de 2P 3:13."
-    }
-  ],
-  "antiguo_testamento": [
-    {"ref": "Sal 90:4", "nota": "Pedro parafrasea la oración de Moisés sobre la eternidad de Dios y le da la vuelta: también mil años son como un día. Kistemaker aclara que no busca explicar la diferencia entre tiempo y eternidad como Moisés, sino ubicar el tiempo respecto del último día.", "fuentes": ["kis2p_04_b#22", "mac2p_04_a#23", "ncb2p_01_b#21"]},
-    {"ref": "Hab 2:3", "nota": "La promesa de que la visión vendrá aunque tarde está detrás de «el Señor no retarda su promesa»; Hebreos 10:37 también la cita.", "fuentes": ["kis2p_04_b#24", "ncb2p_01_b#21"]},
-    {"ref": "Gn 6:3", "nota": "Entre el anuncio del diluvio y el cierre del arca hubo, según Kistemaker, 120 años de gracia; así llegará el día del Señor en el momento señalado, cuando el tiempo de gracia termine.", "fuentes": ["kis2p_04_b#21", "mac2p_04_a#25"]},
-    {"ref": "Is 13:6", "nota": "Uno de los textos proféticos del día del Señor; Joel, Amós, Sofonías, Zacarías y Malaquías también lo anuncian como día de juicio.", "fuentes": ["cbmh2p_01_b#14", "nunez2p_02_b#7", "mbib2p_01_c#24"]},
-    {"ref": "Is 34:4", "nota": "El ejército de los cielos que se disuelve y los cielos que se enrollan como un libro estarían detrás de los cielos que pasan y, para algunos, de los elementos.", "fuentes": ["kis2p_04_c#3", "kis2p_04_c#2"]},
-    {"ref": "Ex 34:6", "nota": "El Dios tardo para la ira: la lentitud para la ira que el AT revela en Sinaí es la paciencia del v. 9.", "fuentes": ["dbmh_01_b#25", "mac2p_04_a#24"]}
-  ],
-  "biblioteca": [
-    {"texto": "¿Contradice este versículo la promesa de Gn 8:21? No: Dios prometió no volver a destruir el mundo de la misma manera, por agua; la segunda destrucción será por fuego. Y aun así no destruirá a todo ser viviente, porque los suyos vivirán en cuerpos resucitados e imperecederos (1Co 15:42).", "autor": "Geisler y Howe", "obra": "Dificultades bíblicas", "pagina": "PDF 18", "tipo": "apologetica", "fuentes": ["r1_001#7"]},
-    {"texto": "Sal 104:5 y Ec 1:4, que hablan de una tierra que permanece, la describen tal como se ve desde la perspectiva humana; 2P 3:10 e Is 65:17 hablan del futuro, cuando habrá nuevos cielos y nueva tierra.", "autor": "Geisler y Howe", "obra": "Dificultades bíblicas", "pagina": "PDF 245", "tipo": "apologetica", "fuentes": ["r1_001#27"]},
-    {"texto": "Entre los textos que cita el universalismo (Nels Ferré) figura 2P 3:9. Sanders admite que algunos versículos, sacados de contexto, parecen apoyarlo, pero sostiene que el universalismo no armoniza con el conjunto de la enseñanza bíblica.", "autor": "Sanders", "obra": "¿Están perdidos?", "pagina": "PDF 7", "tipo": "doctrina", "fuentes": ["r1_004#1"]},
-    {"texto": "Dios es paciente en la administración del juicio para dar lugar al arrepentimiento (Lc 13:6-9, la higuera a la que se le da un año más; Ro 2:4); el juicio final quedará en manos del Hijo en su aparición en gloria.", "autor": "Diccionario Bíblico Mundo Hispano", "obra": "Diccionario Bíblico Mundo Hispano, artículo sobre el juicio", "pagina": "vol. I, PDF 702", "tipo": "doctrina", "fuentes": ["dbmh_01_b#23"]},
-    {"texto": "Un estudiante, al oír que el sol agotaría su energía en quince billones de años, se tranquilizó: había entendido quince millones. Con cifras así no importa cuánto falta; lo que viene es el juicio.", "autor": "McGee", "obra": "2 Pedro", "pagina": "PDF 104", "tipo": "ilustracion", "fuentes": ["mcg2p_03_b#7"]},
-    {"texto": "A un hermano le robaron dos veces a plena luz del día y quedó levantándose de noche ante cualquier ruido. Para los creyentes, en cambio, Jesús es un ladrón esperado: anhelan su venida y oran por ella (Ap 22:20).", "autor": "Daniel Zorzoli (en Comentario Bíblico Mundo Hispano)", "obra": "Comentario Bíblico Mundo Hispano: 2 Pedro", "pagina": "PDF 299", "tipo": "ilustracion", "fuentes": ["cbmh2p_01_b#16"]}
-  ],
-  "conexiones": [
-    {"ref": "Ro 2:4", "nota": "La benignidad, paciencia y longanimidad de Dios guían al arrepentimiento; menospreciarlas es la actitud de los burladores.", "fuentes": ["ncb2p_01_b#21", "dbmh_01_b#25", "kis2p_04_b#26"]},
-    {"ref": "1Ti 2:4", "nota": "Dios quiere que todos los hombres sean salvos; Kistemaker y MacArthur lo leen junto con Ez 18:23, 32: Dios no se complace en la muerte del impío.", "fuentes": ["cbmh2p_01_b#12", "kis2p_04_b#27", "mac2p_04_a#26"]},
-    {"ref": "1P 3:20", "nota": "La paciencia de Dios esperaba en los días de Noé: es la tercera vez que Pedro menciona a Noé (con 2P 2:5), un indicio más de la unidad de las dos cartas según el Comentario Moody.", "fuentes": ["moodynt_02_a#17", "kis2p_04_b#25"]},
-    {"ref": "1Ts 5:2", "nota": "Pablo usa la misma imagen del ladrón en la noche para el día del Señor, que llega cuando el mundo dice paz y seguridad.", "fuentes": ["kis2p_04_c#1", "r1_007_a#19", "mac2p_04_a#28"]},
-    {"ref": "Mt 24:35", "nota": "MacArthur y Núñez relacionan los cielos que pasan con el anuncio de Jesús de que el cielo y la tierra pasarán, pero sus palabras no.", "fuentes": ["mac2p_04_a#28", "nunez2p_02_b#9"]},
-    {"ref": "Lc 13:6-9", "nota": "La higuera a la que se le da un año más: una parábola de la paciencia de Dios antes del juicio.", "fuentes": ["dbmh_01_b#23"]}
-  ],
-  "para_vivir": [
-    {"texto": "No midan la fidelidad de Dios con el reloj de ustedes. Cuando una promesa parece demorarse, recuerden que para él no hay atraso: la preocupación principal no es la fecha de la venida, sino esperar confiados en la sabiduría de su tiempo, que no es solo cronológico sino un tiempo de oportunidades.", "fuentes": ["cbmh2p_01_b#13", "bea2p_01_b#14", "mcg2p_03_b#6"]},
-    {"texto": "Cada día que el Señor no vuelve es un día de gracia. Henry dice que Dios lo da a su pueblo para crecer en conocimiento y piedad y abundar en buenas obras; y Zorzoli, que aprendamos de su amor y paciencia cuando hablamos del evangelio a otros.", "fuentes": ["mhenry_01_b#38", "cbmh2p_01_b#13", "mcg2p_03_b#8"]},
-    {"texto": "Si hay alguien cercano que todavía no se volvió a Cristo, la paciencia de Dios es una invitación urgente, no una excusa para postergar: cuando llegue el día, no habrá otra oportunidad.", "fuentes": ["nunez2p_02_b#8", "ncb2p_01_b#21"]},
-    {"texto": "Todo lo que este mundo ofrece como seguridad va a pasar por el fuego. Revisen juntos dónde ponen el corazón, y vivan con la oración de los primeros cristianos: ¡Maranata!, ven pronto, Señor.", "fuentes": ["mhenry_01_b#39", "nunez2p_02_b#11", "mac2p_04_a#29"]}
-  ],
-  "para_conversar": [
-    "¿En qué área de su vida les cuesta más aceptar que los tiempos de Dios no son los de ustedes? ¿Cómo cambia esa espera si la miran como paciencia y no como olvido?",
-    "Si la paciencia de Dios es para que otros procedan al arrepentimiento, ¿por quiénes concretos podrían orar y a quiénes podrían hablarles mientras dura este tiempo de gracia?",
-    "Pedro dice que la tierra y sus obras serán quemadas o quedarán al descubierto ante Dios. ¿Qué cosas de su casa y su agenda pasarían esa prueba, y cuáles no?"
-  ],
-  "para_orar": "Señor eterno, para quien mil años son como un día: perdonanos cuando confundimos tu paciencia con tardanza. Gracias porque cada día de espera es misericordia; usanos para que otros se vuelvan a vos mientras hay tiempo, y guardá nuestro corazón en lo que no pasa, hasta que vengas. Maranata.",
-  "visuales": ["dg-estructura-2p", "dg-at"],
-  "anexos": ["P2", "T4"],
-  "profundizar": [
-    {"titulo": "¿Señor es Dios o Jesús en los vv. 9-10?", "texto": "Kistemaker entiende que Señor, aquí y en el v. 10, es una designación del Antiguo Testamento para Dios, no específicamente Jesús. Roldán, por su parte, recuerda que el Nuevo Testamento aplica la expresión día del Señor a Jesucristo. Las dos observaciones no se excluyen: el día de Dios es también el día de la venida de Cristo.", "fuentes": ["kis2p_04_b#24", "cbmh2p_01_b#14"]},
-    {"titulo": "Moody y la expectativa judía de una purificación final", "texto": "El Comentario Moody sugiere que los elementos ardiendo podrían aludir al Libro de Enoc y a sus montañas de siete metales, y que entre los judíos religiosos había una expectativa de una última purificación violenta de la tierra.", "fuentes": ["moodynt_02_a#18"]},
-    {"titulo": "Walvoord y el día que comienza de noche", "texto": "Walvoord distingue tres sentidos del día del Señor (cualquier juicio directo de Dios; eventos futuros puntuales; y el sentido amplio, con juicios y bendiciones del milenio) y lo ilustra con el día hebreo: comienza de noche, mientras la gente duerme, sigue con el alba y culmina por la tarde. En su lectura, el día de la gracia termina con el Rapto y entonces empieza el día del Señor.", "fuentes": ["r4a_001#6", "r4a_001#8"]},
-    {"titulo": "¿Cómo puede quemarse el agua?", "texto": "McGee recuerda una vieja objeción que causaba risa: cómo podría arder un mundo hecho mayormente de agua. Según él, esa crítica perdió fuerza cuando se vio que la materia puede deshacerse.", "fuentes": ["mcg2p_03_b#12"]}
+ "dia": 36,
+ "libro": "2P",
+ "desde": "2P 3:8",
+ "hasta": "2P 3:10",
+ "titulo": "Mil años como un día: el día del Señor vendrá",
+ "minutos": {
+  "lectura": 2,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "En 2P 3:1-7 Pedro desenmascaró a los burladores que preguntaban dónde estaba la promesa de la venida del Señor y suponían que todo sigue igual desde la creación. Les recordó lo que olvidan a propósito: Dios ya interrumpió una vez la historia con el diluvio, y el mundo actual está guardado para el fuego del juicio.",
+  "ahora": "Después de contestar a los burladores, Pedro se vuelve a los «amados»: los creyentes que, sin negar la promesa, pueden quedar perplejos porque el Señor todavía no volvió. Les da razones para no perder la calma: Dios mide el tiempo de otra manera, su demora es paciencia y no olvido, y el día vendrá de todos modos, de golpe, como un ladrón.",
+  "despues": "En 2P 3:11-13 Pedro saca la consecuencia práctica: si todo esto va a ser deshecho, qué clase de personas conviene ser, mientras esperan cielos nuevos y tierra nueva donde mora la justicia.",
+  "fuentes": [
+   "bea2p_01_a#11",
+   "bea2p_01_b#14",
+   "ncb2p_01_b#21",
+   "kis2p_04_b#25",
+   "cbmh2p_01_b#13"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "2P 3:9",
+  "porque": "Es el corazón del tramo: lo que parece tardanza es la paciencia de un Dios que no quiere que nadie se pierda, y por eso cada día de espera es un día de gracia."
+ },
+ "panorama": {
+  "texto": "Pedro responde a una pregunta muy humana: si el Señor prometió volver, ¿por qué tarda tanto? Los comentaristas coinciden en que da varias respuestas encadenadas. Primero, Dios no está dentro del tiempo como nosotros: para él un día y mil años no pesan distinto, así que nuestra impaciencia no es una medida de su fidelidad. Segundo, lo que llamamos demora es en realidad paciencia: Dios contiene el juicio para dar lugar al arrepentimiento. Tercero, la paciencia no es eterna: el día del Señor vendrá, sin aviso, y con él el fin del orden actual por el fuego. Así, el control de Dios sobre el final es tan seguro como lo fue sobre el comienzo, y la espera, en vez de ser motivo de duda, se vuelve una muestra de misericordia.",
+  "fuentes": [
+   "bea2p_01_a#11",
+   "bea2p_01_b#14",
+   "ncb2p_01_b#21",
+   "moodynt_02_a#17",
+   "nunez2p_02_b#5",
+   "nunez2p_02_b#6"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "2P 3:8",
+   "titulo": "«No ignoréis esto»: Dios y el tiempo",
+   "notas": [
+    {
+     "texto": "Pedro vuelve a llamarlos «amados» y les pide que no se les escape lo que los burladores pasan por alto adrede: el verbo es el mismo del v. 5. Es un contraste buscado: los falsos maestros ignoran voluntariamente; los creyentes no tienen por qué ignorar. Con esto el autor deja de hablarles a los que se burlan y se dirige a los cristianos que podían estar desconcertados.",
+     "fuentes": [
+      "kis2p_04_b#22",
+      "ncb2p_01_b#21",
+      "cbmh2p_01_b#12"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "La frase «un día es como mil años, y mil años como un día» es un eco del Salmo 90:4. El sentido que todos señalan es que Dios es eterno y está por encima del tiempo: todo lo pasado, presente y futuro está siempre delante de él. Para nosotros hay una diferencia enorme entre un día y mil años; para él no, y una postergación de siglos no es para Dios lo que para nosotros dejar algo para mañana.",
+     "fuentes": [
+      "mhenry_01_b#38",
+      "moodynt_02_a#17",
+      "ncb2p_01_b#21",
+      "cbmh2p_01_b#12",
+      "mac2p_04_a#23"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Núñez lo explica así: Dios vive fuera del tiempo, en un presente eterno; aunque Cristo ascendió hace unos dos mil años, en el calendario de Dios es como si hubiera partido hoy. Fuhrman lo resume con una paradoja: el Señor no vendrá ni un día antes del tiempo señalado, pero siempre está cerca, porque mil años son para él como un día. Kistemaker hace notar que Pedro no especula sobre cuándo llegará el fin (Mt 24:36).",
+     "fuentes": [
+      "nunez2p_02_b#5",
+      "bea2p_01_b#14",
+      "kis2p_04_b#22"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "¿Habla este versículo del milenio? Algunos autores ven además aquí una indicación de los mil años del reino; otros advierten que el versículo no trata ese tema y que su segunda mitad («mil años como un día») impide usarlo para calcular fechas. Ver Interpretaciones.",
+     "fuentes": [
+      "mac2p_04_a#23",
+      "kis2p_04_b#23",
+      "ncb2p_01_b#21"
+     ],
+     "tipo": "interpretacion"
+    }
+   ]
+  },
+  {
+   "rango": "2P 3:9",
+   "titulo": "«No retarda su promesa»: la demora es paciencia",
+   "notas": [
+    {
+     "texto": "Pedro niega que Dios llegue tarde. Hay quienes lo tienen por tardanza, pero se equivocan de diagnóstico. Kistemaker cree que esos «algunos» no son los burladores del v. 3 sino creyentes influidos por ellos, que dudaban sin poder explicarse el retraso; sus dudas eran innecesarias, porque Dios tiene control absoluto. El texto alude a Habacuc 2:3, una promesa que dice que lo anunciado vendrá aunque parezca demorarse.",
+     "fuentes": [
+      "kis2p_04_b#25",
+      "kis2p_04_b#24",
+      "ncb2p_01_b#21"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "La demora no se debe a indiferencia, distracción ni impotencia: Dios obra según su plan, como en la primera venida (Gá 4:4). Mientras tanto soporta la rebelión y la transgresión continua de su ley. Kistemaker cita a Bauckham: lo que determina el retraso no es el pecado humano sino la paciencia divina, que no puede ser forzada; y Núñez agrega que lo que frena el juicio no es nuestro buen comportamiento sino la bondad infinita de Dios.",
+     "fuentes": [
+      "mac2p_04_a#24",
+      "mbib2p_01_c#22",
+      "kis2p_04_b#24",
+      "nunez2p_02_b#6",
+      "bea2p_01_a#11"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Pedro dice que Dios es paciente «para con nosotros»; otras lecturas dicen con ustedes o a causa de ustedes, con poca diferencia. Kistemaker subraya que la paciencia es con los lectores: Dios no juzga a su pueblo apresuradamente, como ya había esperado en tiempos de Noé (1P 3:20).",
+     "fuentes": [
+      "ncb2p_01_b#21",
+      "kis2p_04_b#25"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "«No queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.» La voluntad de Dios en la espera es redentora: abre la puerta del arrepentimiento todo lo que se pueda. Varios autores lo leen junto con Ro 2:4 y 1Ti 2:4. Quiénes son ese «ninguno» y ese «todos» es algo que los comentaristas explican de modo distinto; ver Interpretaciones. Pero todos coinciden en dos cosas: que el versículo no enseña que al final todos se salvarán, y que quien se pierde lo hace por rechazar la oferta de Dios.",
+     "fuentes": [
+      "moodynt_02_a#17",
+      "ncb2p_01_b#21",
+      "cbmh2p_01_b#12",
+      "kis2p_04_b#26",
+      "mbib2p_01_c#23",
+      "mac2p_04_a#26"
+     ],
+     "tipo": "interpretacion"
+    },
+    {
+     "texto": "El versículo ha sido usado por el universalismo, la idea de que al final todos se salvarán. El Nuevo Comentario Bíblico responde que enseña lo contrario: después de la segunda venida no habrá otra oportunidad de arrepentirse, y justamente por eso Dios da todo el tiempo posible. Kistemaker recuerda que el arrepentimiento es un acto que el hombre tiene que hacer: Esaú lo buscó con lágrimas y no lo halló (He 12:17).",
+     "fuentes": [
+      "ncb2p_01_b#21",
+      "kis2p_04_b#26",
+      "r1_004#1"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "2P 3:10",
+   "titulo": "«El día del Señor vendrá como ladrón en la noche»",
+   "notas": [
+    {
+     "texto": "Frente a la paciencia de Dios, Pedro pone la certeza: el día vendrá. Es la primera respuesta a quien pregunta por qué tarda el Señor: la demora no anula la palabra de Dios. Y vendrá como ladrón: de repente, sin aviso, y desastroso para quienes no estén preparados. La imagen la usó Jesús (Mt 24:43; Lc 12:39) y la retomaron los apóstoles (1Ts 5:2; Ap 3:3; 16:15).",
+     "fuentes": [
+      "kis2p_04_c#1",
+      "bea2p_01_b#14",
+      "mac2p_04_a#28",
+      "cbmh2p_01_b#14",
+      "moodynt_02_a#18"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "El día del Señor es una expresión de los profetas: Núñez cuenta 17 apariciones en el Antiguo Testamento, de Isaías a Malaquías, y cuatro en el Nuevo (Hch 2:20; 1Ts 5:2; 2Ts 2:2; 2P 3:10). Designa las intervenciones extraordinarias de Dios para juzgar, que culminan en el juicio final y el fin del mundo presente. Los profetas lo usaron también para juicios cercanos, como las langostas de Joel 1, que prefiguran el juicio lejano.",
+     "fuentes": [
+      "nunez2p_02_b#7",
+      "mac2p_04_a#27",
+      "mbib2p_01_c#24",
+      "r1_019#5"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Roldán aporta dos datos: día del Señor (v. 10) y día de Dios (v. 12) son expresiones intercambiables, que el Nuevo Testamento aplica a Jesucristo; y la escatología del Nuevo Testamento no busca dibujar un mapa del futuro sino mostrar cómo la esperanza transforma el presente.",
+     "fuentes": [
+      "cbmh2p_01_b#14"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Núñez lo aplica sin rodeos: nadie sabe la hora, pero cuando llegue todos lo sabrán. Hoy todavía hay tiempo para entregarle la vida a Cristo; cuando llegue, no habrá un segundo para otra oportunidad. Por eso Jesús habló del dueño de casa que, si supiera la hora, se quedaría despierto (Mt 24:42-43). Cuándo empieza y cuánto dura ese día es un punto en que los autores difieren; ver Interpretaciones.",
+     "fuentes": [
+      "nunez2p_02_b#8",
+      "r1_003#2",
+      "r4a_001#5"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "2P 3:10",
+   "titulo": "Los cielos, los elementos y la tierra",
+   "notas": [
+    {
+     "texto": "«Los cielos pasarán con grande estruendo»: la palabra griega imita un ruido fuerte, como el crepitar de lo que arde. Kistemaker piensa en los cielos que se enrollan como un pergamino (Ap 6:14; Is 34:4); para MacArthur es la desintegración del universo visible por intervención directa de Dios. Núñez agrega que ocurrirá como fue creado: Dios habló y todo existió; hablará y dejará de existir.",
+     "fuentes": [
+      "kis2p_04_c#2",
+      "mac2p_04_a#28",
+      "mbib2p_01_c#25",
+      "nunez2p_02_b#9"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "«Los elementos ardiendo serán deshechos.» Qué son esos elementos se discute: componentes básicos de la materia, los cuatro elementos de los antiguos, o los astros (ver Interpretaciones). El verbo traducido «deshechos» es el de desatar o desunir; Núñez dice que también puede significar derretir o desintegrar. Fuhrman reconoce que hay un misterio sobre el cuándo y el cómo, pero que la certeza permanece.",
+     "fuentes": [
+      "cbmh2p_01_b#15",
+      "kis2p_04_c#3",
+      "mcg2p_03_b#11",
+      "nunez2p_02_b#9",
+      "bea2p_01_b#15"
+     ],
+     "tipo": "interpretacion"
+    },
+    {
+     "texto": "La última frase tiene un problema de texto. La RVR1960 dice que la tierra y sus obras «serán quemadas», siguiendo manuscritos con lecturas más fáciles; pero el texto griego más antiguo, el que trae el SBLGNT, dice será hallada o quedará al descubierto. Kistemaker y el Nuevo Comentario Bíblico prefieren esa lectura difícil: la tierra y todas las obras del hombre comparecerán ante el tribunal de Dios, que es quien las pone al descubierto. Así, «obras» tendría un sentido moral, y Pedro podría retomarlo en el v. 14 cuando habla de ser hallados en paz. Kistemaker admite que el verbo sigue siendo difícil.",
+     "fuentes": [
+      "kis2p_04_c#4",
+      "ncb2p_01_b#23",
+      "nunez2p_02_b#10"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Henry ve en el fuego dos efectos: consume lo que el pecado trajo al mundo y purifica lo que es obra de la mano de Dios. Por eso pregunta qué será de quien hace de esta tierra su porción.",
+     "fuentes": [
+      "mhenry_01_b#39"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "2P 3:9",
+   "griego": "βραδύνει",
+   "translit": "bradýnei",
+   "significado": "Tardar, retrasarse, con idea de pérdida de tiempo. Pedro niega que eso se aplique a Dios, que obra todo conforme a su plan. Rige el genitivo «de la promesa».",
+   "fuentes": [
+    "mac2p_04_a#24",
+    "kis2p_04_b#28"
+   ]
+  },
+  {
+   "ref": "2P 3:9",
+   "griego": "μακροθυμεῖ",
+   "translit": "makrothymeî",
+   "significado": "Ser paciente, longánimo; literalmente, de enojo largo: Dios tiene una enorme capacidad de contener su ira antes de que se desborde en juicio. El sustantivo makrothymía es el preferido para hablar de la demora del Señor en castigar (Ro 2:4; 2P 3:15).",
+   "fuentes": [
+    "cbmh2p_01_b#12",
+    "mac2p_04_a#24",
+    "dbmh_01_b#25"
+   ]
+  },
+  {
+   "ref": "2P 3:10",
+   "griego": "ῥοιζηδὸν",
+   "translit": "rhoizēdón",
+   "significado": "Con estruendo: onomatopeya del silbido o ráfaga de un ruido fuerte, como el crepitar de lo que arde.",
+   "fuentes": [
+    "mac2p_04_a#28",
+    "kis2p_04_c#2"
+   ]
+  },
+  {
+   "ref": "2P 3:10",
+   "griego": "στοιχεῖα",
+   "translit": "stoicheîa",
+   "significado": "Elementos; literalmente, cosas puestas en fila (como letras o números). Aplicado al mundo físico, los componentes básicos de la materia o, según otros, los cuerpos celestes. Pablo usa la palabra en otro sentido en Gá 4:3 y Col 2:8.",
+   "fuentes": [
+    "mac2p_04_a#28",
+    "cbmh2p_01_b#15",
+    "ncb2p_01_b#23"
+   ]
+  },
+  {
+   "ref": "2P 3:10",
+   "griego": "εὑρεθήσεται",
+   "translit": "heurethḗsetai",
+   "significado": "Será hallada, quedará al descubierto: futuro pasivo de encontrar. La forma pasiva implica que Dios es quien pone al descubierto la creación en el juicio.",
+   "fuentes": [
+    "kis2p_04_c#4"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "La imagen del ladrón en la noche fue una metáfora favorita del mismo Jesús, y los apóstoles la tomaron de él. El que avisó que vendría a la hora que no se espera es el mismo que viene: el día del Señor del Antiguo Testamento el Nuevo lo aplica a Jesucristo.",
+   "refs": [
+    "Mt 24:43",
+    "Lc 12:39",
+    "1Ts 5:2"
+   ],
+   "fuentes": [
+    "moodynt_02_a#18",
+    "cbmh2p_01_b#14"
+   ]
+  },
+  {
+   "texto": "Así como el Hijo vino en el cumplimiento del tiempo, la segunda venida tampoco se atrasa: sucede según el plan de Dios. Berkhof resume su propósito: Cristo vuelve al final de la historia para la resurrección de los muertos y el juicio final.",
+   "refs": [
+    "Gá 4:4",
+    "Jn 5:25-29",
+    "2Co 5:10"
+   ],
+   "fuentes": [
+    "mac2p_04_a#24",
+    "r1_015#4"
+   ]
+  },
+  {
+   "texto": "La paciencia de Dios tiene un rostro: entregó a su Hijo para morir. McGee lo dice así: uno puede darle la espalda a Dios, pero no puede impedir que quiera salvarlo.",
+   "refs": [
+    "Jn 3:16"
+   ],
+   "fuentes": [
+    "mcg2p_03_b#9"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Habla 2P 3:8 del milenio?",
+   "posturas": [
+    {
+     "postura": "Además del sentido general (Dios está por encima del tiempo), ve una indicación específica: mil años literales entre la primera fase del día del Señor, al final de la tribulación, y la última, al final del reino milenial.",
+     "quien": "MacArthur (premilenial)",
+     "fuentes": [
+      "mac2p_04_a#23",
+      "mbib2p_01_c#21"
+     ]
+    },
+    {
+     "postura": "El versículo se aplica al intervalo antes del juicio de fuego: la tribulación y los mil años del reino; aunque el Rapto fuera mañana, pasarían por lo menos 1007 años antes de ese juicio.",
+     "quien": "McGee",
+     "fuentes": [
+      "mcg2p_03_b#5"
+     ]
+    },
+    {
+     "postura": "No da información sobre un milenio: en los primeros siglos algunos (Bernabé, Ireneo) calcularon seis mil años con solo la primera mitad del versículo, pero la segunda la cancela.",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kis2p_04_b#23"
+     ]
+    },
+    {
+     "postura": "No hay base para construir una doctrina del milenio sobre este versículo, porque no es su tema; el término mil es el de Ap 20 pero aquí indica que el tiempo no afecta al Señor.",
+     "quien": "Nuevo Comentario Bíblico; Roldán (Mundo Hispano)",
+     "fuentes": [
+      "ncb2p_01_b#21",
+      "cbmh2p_01_b#12"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en el sentido principal: Dios es eterno y no está atado a nuestro calendario."
+  },
+  {
+   "tema": "¿Quiénes son el «ninguno» y el «todos» del v. 9?",
+   "posturas": [
+    {
+     "postura": "Dios desea sinceramente que todos se salven, pero eso no significa que todos lo sean: se distingue entre el deseo de Dios y su decreto. Caín y Judas Iscariote muestran un amor divino rechazado; quien repudia la gracia es responsable de su condenación.",
+     "quien": "Kistemaker (con Calvino y Berkhof)",
+     "fuentes": [
+      "kis2p_04_b#27",
+      "kis2p_04_b#26"
+     ]
+    },
+    {
+     "postura": "El contexto limita el «nosotros» a los creyentes, y por tanto «ninguno» y «todos» son los elegidos: Cristo no vuelve hasta que el último de ellos sea salvo. Dios ofrece salvación a todos y no se complace en la muerte del impío, pero eligió salvar a algunos; quien perece lo hace por rechazar a Cristo, no por haber sido creado para el infierno.",
+     "quien": "MacArthur",
+     "fuentes": [
+      "mac2p_04_a#25",
+      "mbib2p_01_c#23",
+      "mac2p_04_a#26"
+     ]
+    },
+    {
+     "postura": "La espera es redentora y la voluntad primordial de Dios es que todos los hombres se arrepientan; Dios mantiene abierta lo más posible la puerta del arrepentimiento para la humanidad.",
+     "quien": "Comentario Moody; Nuevo Comentario Bíblico; Fuhrman (Beacon)",
+     "fuentes": [
+      "moodynt_02_a#17",
+      "ncb2p_01_b#21",
+      "bea2p_01_b#14"
+     ]
+    }
+   ],
+   "nota": "Todos rechazan el universalismo y coinciden en que la paciencia de Dios es una oportunidad real de arrepentimiento antes del juicio."
+  },
+  {
+   "tema": "¿Cuándo empieza y cuánto abarca el día del Señor?",
+   "posturas": [
+    {
+     "postura": "Es solo juicio y sucede dos veces: al final de la tribulación y al final del milenio, justo antes de los cielos nuevos y la tierra nueva.",
+     "quien": "MacArthur y Mayhue (premilenial futurista)",
+     "fuentes": [
+      "r1_019#6",
+      "mac2p_04_a#27"
+     ]
+    },
+    {
+     "postura": "Un período largo que empieza justo después del traslado de la iglesia (tribulación), sigue con la segunda venida y el milenio y llega a los cielos nuevos; solo así puede llegar como ladrón.",
+     "quien": "Pentecost y Walvoord (pretribulacionales); Wiersbe",
+     "fuentes": [
+      "r1_003#2",
+      "r4a_001#5",
+      "r1_007_a#19"
+     ]
+    },
+    {
+     "postura": "Desde la Gran Tribulación hasta el juicio de fuego después del milenio y el Gran Trono Blanco.",
+     "quien": "McGee",
+     "fuentes": [
+      "mcg2p_03_b#13"
+     ]
+    },
+    {
+     "postura": "Cristo vuelve al final de la historia para la resurrección y el juicio final; 2P 3:10-13 está entre los textos de ese acontecimiento final.",
+     "quien": "Berkhof",
+     "fuentes": [
+      "r1_015#4"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en que el día vendrá de modo inesperado, que es obra de Dios y que trae el juicio final y cielos nuevos y tierra nueva."
+  },
+  {
+   "tema": "¿Qué son «los elementos»?",
+   "posturas": [
+    {
+     "postura": "Los componentes atómicos básicos de la materia.",
+     "quien": "MacArthur; McGee",
+     "fuentes": [
+      "mac2p_04_a#28",
+      "mbib2p_01_c#25",
+      "mcg2p_03_b#11"
+     ]
+    },
+    {
+     "postura": "Los elementos físicos que forman el mundo, quizá los cuatro de los estoicos (agua, aire, fuego, tierra); descarta aquí las fuerzas cósmicas de Gá 4:3 y Col 2:8.",
+     "quien": "Roldán (Mundo Hispano)",
+     "fuentes": [
+      "cbmh2p_01_b#15"
+     ]
+    },
+    {
+     "postura": "Expone dos opciones: tierra, agua y aire (Esser, Delling) o los cuerpos celestes, sol, luna y estrellas, con Is 34:4 (Mayor); desarrolla más la segunda sin pronunciarse.",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kis2p_04_c#3"
+     ]
+    },
+    {
+     "postura": "Deja abiertas las dos posibilidades: sustancias elementales o cuerpos celestes.",
+     "quien": "Nuevo Comentario Bíblico",
+     "fuentes": [
+      "ncb2p_01_b#23"
+     ]
+    }
+   ],
+   "nota": "Más allá del detalle, todos leen que el orden actual llega a su fin por obra de Dios."
+  }
+ ],
+ "antiguo_testamento": [
+  {
+   "ref": "Sal 90:4",
+   "nota": "Pedro parafrasea la oración de Moisés sobre la eternidad de Dios y le da la vuelta: también mil años son como un día. Kistemaker aclara que no busca explicar la diferencia entre tiempo y eternidad como Moisés, sino ubicar el tiempo respecto del último día.",
+   "fuentes": [
+    "kis2p_04_b#22",
+    "mac2p_04_a#23",
+    "ncb2p_01_b#21"
+   ]
+  },
+  {
+   "ref": "Hab 2:3",
+   "nota": "La promesa de que la visión vendrá aunque tarde está detrás de «el Señor no retarda su promesa»; Hebreos 10:37 también la cita.",
+   "fuentes": [
+    "kis2p_04_b#24",
+    "ncb2p_01_b#21"
+   ]
+  },
+  {
+   "ref": "Gn 6:3",
+   "nota": "Entre el anuncio del diluvio y el cierre del arca hubo, según Kistemaker, 120 años de gracia; así llegará el día del Señor en el momento señalado, cuando el tiempo de gracia termine.",
+   "fuentes": [
+    "kis2p_04_b#21",
+    "mac2p_04_a#25"
+   ]
+  },
+  {
+   "ref": "Ex 34:6",
+   "nota": "El Dios tardo para la ira: la lentitud para la ira que el AT revela en Sinaí es la paciencia del v. 9.",
+   "fuentes": [
+    "dbmh_01_b#25",
+    "mac2p_04_a#24"
+   ]
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "¿Contradice este versículo la promesa de Gn 8:21? No: Dios prometió no volver a destruir el mundo de la misma manera, por agua; la segunda destrucción será por fuego. Y aun así no destruirá a todo ser viviente, porque los suyos vivirán en cuerpos resucitados e imperecederos (1Co 15:42).",
+   "autor": "Geisler y Howe",
+   "obra": "Dificultades bíblicas",
+   "pagina": "PDF 18",
+   "tipo": "apologetica",
+   "fuentes": [
+    "r1_001#7"
+   ]
+  },
+  {
+   "texto": "Entre los textos que cita el universalismo (Nels Ferré) figura 2P 3:9. Sanders admite que algunos versículos, sacados de contexto, parecen apoyarlo, pero sostiene que el universalismo no armoniza con el conjunto de la enseñanza bíblica.",
+   "autor": "Sanders",
+   "obra": "¿Están perdidos?",
+   "pagina": "PDF 7",
+   "tipo": "doctrina",
+   "fuentes": [
+    "r1_004#1"
+   ]
+  },
+  {
+   "texto": "A un hermano le robaron dos veces a plena luz del día y quedó levantándose de noche ante cualquier ruido. Para los creyentes, en cambio, Jesús es un ladrón esperado: anhelan su venida y oran por ella (Ap 22:20).",
+   "autor": "Daniel Zorzoli (en Comentario Bíblico Mundo Hispano)",
+   "obra": "Comentario Bíblico Mundo Hispano: 2 Pedro",
+   "pagina": "PDF 299",
+   "tipo": "ilustracion",
+   "fuentes": [
+    "cbmh2p_01_b#16"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Ro 2:4",
+   "nota": "La benignidad, paciencia y longanimidad de Dios guían al arrepentimiento; menospreciarlas es la actitud de los burladores.",
+   "fuentes": [
+    "ncb2p_01_b#21",
+    "dbmh_01_b#25",
+    "kis2p_04_b#26"
+   ]
+  },
+  {
+   "ref": "1Ti 2:4",
+   "nota": "Dios quiere que todos los hombres sean salvos; Kistemaker y MacArthur lo leen junto con Ez 18:23, 32: Dios no se complace en la muerte del impío.",
+   "fuentes": [
+    "cbmh2p_01_b#12",
+    "kis2p_04_b#27",
+    "mac2p_04_a#26"
+   ]
+  },
+  {
+   "ref": "1P 3:20",
+   "nota": "La paciencia de Dios esperaba en los días de Noé: es la tercera vez que Pedro menciona a Noé (con 2P 2:5), un indicio más de la unidad de las dos cartas según el Comentario Moody.",
+   "fuentes": [
+    "moodynt_02_a#17",
+    "kis2p_04_b#25"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "No midan la fidelidad de Dios con el reloj de ustedes. Cuando una promesa parece demorarse, recuerden que para él no hay atraso: la preocupación principal no es la fecha de la venida, sino esperar confiados en la sabiduría de su tiempo, que no es solo cronológico sino un tiempo de oportunidades.",
+   "fuentes": [
+    "cbmh2p_01_b#13",
+    "bea2p_01_b#14",
+    "mcg2p_03_b#6"
+   ]
+  },
+  {
+   "texto": "Cada día que el Señor no vuelve es un día de gracia. Henry dice que Dios lo da a su pueblo para crecer en conocimiento y piedad y abundar en buenas obras; y Zorzoli, que aprendamos de su amor y paciencia cuando hablamos del evangelio a otros.",
+   "fuentes": [
+    "mhenry_01_b#38",
+    "cbmh2p_01_b#13",
+    "mcg2p_03_b#8"
+   ]
+  },
+  {
+   "texto": "Si hay alguien cercano que todavía no se volvió a Cristo, la paciencia de Dios es una invitación urgente, no una excusa para postergar: cuando llegue el día, no habrá otra oportunidad.",
+   "fuentes": [
+    "nunez2p_02_b#8",
+    "ncb2p_01_b#21"
+   ]
+  },
+  {
+   "texto": "Todo lo que este mundo ofrece como seguridad va a pasar por el fuego. Revisen juntos dónde ponen el corazón, y vivan con la oración de los primeros cristianos: ¡Maranata!, ven pronto, Señor.",
+   "fuentes": [
+    "mhenry_01_b#39",
+    "nunez2p_02_b#11",
+    "mac2p_04_a#29"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "¿En qué área de su vida les cuesta más aceptar que los tiempos de Dios no son los de ustedes? ¿Cómo cambia esa espera si la miran como paciencia y no como olvido?",
+  "Si la paciencia de Dios es para que otros procedan al arrepentimiento, ¿por quiénes concretos podrían orar y a quiénes podrían hablarles mientras dura este tiempo de gracia?",
+  "Pedro dice que la tierra y sus obras serán quemadas o quedarán al descubierto ante Dios. ¿Qué cosas de su casa y su agenda pasarían esa prueba, y cuáles no?"
+ ],
+ "para_orar": "Señor eterno, para quien mil años son como un día: perdonanos cuando confundimos tu paciencia con tardanza. Gracias porque cada día de espera es misericordia; usanos para que otros se vuelvan a vos mientras hay tiempo, y guardá nuestro corazón en lo que no pasa, hasta que vengas. Maranata.",
+ "visuales": [
+  "dg-estructura-2p",
+  "dg-at"
+ ],
+ "anexos": [
+  "P2",
+  "T4"
+ ],
+ "profundizar": [
+  {
+   "titulo": "El lenguaje de Pedro y la energía atómica",
+   "texto": "Varios autores del siglo XX relacionaron el lenguaje de Pedro con la energía atómica: McGee vio en el estruendo y el calor algo parecido a una explosión atómica; MacArthur propone que Dios quizá incinere el universo en una reacción en cadena. Fuhrman, en cambio, es prudente: el vocabulario se adapta al atómico, pero es imposible decir si Dios usará esa clase de destrucción. Lo que sí está claro, dice, es su decisión de poner fin al orden pecaminoso con un fuego purificador.",
+   "fuentes": [
+    "mcg2p_03_b#10",
+    "mbib2p_01_c#25",
+    "bea2p_01_b#15"
+   ]
+  },
+  {
+   "titulo": "¿Destrucción total o renovación?",
+   "texto": "MacArthur y Geisler y Howe hablan de cielos y tierra totalmente nuevos que reemplazan a los actuales. Núñez, leyendo con Ro 8:20-21, prefiere una renovación (kainós: nuevo en calidad, no hecho por primera vez), aunque dice que en cualquier caso habrá destrucción y algo nuevo. Henry y Fuhrman subrayan el fuego purificador. Se retoma en el día 37.",
+   "fuentes": [
+    "mac2p_04_a#29",
+    "r1_001#27",
+    "nunez2p_02_b#10",
+    "mhenry_01_b#39",
+    "bea2p_01_b#15"
+   ]
+  },
+  {
+   "titulo": "¿Señor es Dios o Jesús en los vv. 9-10?",
+   "texto": "Kistemaker entiende que Señor, aquí y en el v. 10, es una designación del Antiguo Testamento para Dios, no específicamente Jesús. Roldán, por su parte, recuerda que el Nuevo Testamento aplica la expresión día del Señor a Jesucristo. Las dos observaciones no se excluyen: el día de Dios es también el día de la venida de Cristo.",
+   "fuentes": [
+    "kis2p_04_b#24",
+    "cbmh2p_01_b#14"
+   ]
+  },
+  {
+   "titulo": "Moody y la expectativa judía de una purificación final",
+   "texto": "El Comentario Moody sugiere que los elementos ardiendo podrían aludir al Libro de Enoc y a sus montañas de siete metales, y que entre los judíos religiosos había una expectativa de una última purificación violenta de la tierra.",
+   "fuentes": [
+    "moodynt_02_a#18"
+   ]
+  },
+  {
+   "titulo": "Walvoord y el día que comienza de noche",
+   "texto": "Walvoord distingue tres sentidos del día del Señor (cualquier juicio directo de Dios; eventos futuros puntuales; y el sentido amplio, con juicios y bendiciones del milenio) y lo ilustra con el día hebreo: comienza de noche, mientras la gente duerme, sigue con el alba y culmina por la tarde. En su lectura, el día de la gracia termina con el Rapto y entonces empieza el día del Señor.",
+   "fuentes": [
+    "r4a_001#6",
+    "r4a_001#8"
+   ]
+  },
+  {
+   "titulo": "¿Cómo puede quemarse el agua?",
+   "texto": "McGee recuerda una vieja objeción que causaba risa: cómo podría arder un mundo hecho mayormente de agua. Según él, esa crítica perdió fuerza cuando se vio que la materia puede deshacerse.",
+   "fuentes": [
+    "mcg2p_03_b#12"
+   ]
+  },
+  {
+   "titulo": "Los quince billones de años",
+   "texto": "Un estudiante, al oír que el sol agotaría su energía en quince billones de años, se tranquilizó: había entendido quince millones. Con cifras así no importa cuánto falta; lo que viene es el juicio. (McGee)",
+   "fuentes": [
+    "mcg2p_03_b#7"
+   ]
+  }
+ ]
 }

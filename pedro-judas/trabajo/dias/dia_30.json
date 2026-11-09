@@ -1,161 +1,619 @@
 {
-  "dia": 30,
-  "libro": "2P",
-  "desde": "2P 2:1",
-  "hasta": "2P 2:3",
-  "titulo": "Habrá falsos maestros",
-  "minutos": {"lectura": 2, "estudio": 25},
-  "contexto": {
-    "antes": "Ayer Pedro cerró el capítulo 1 hablando de la palabra profética más segura: ninguna profecía de la Escritura nació de interpretación privada, sino que los profetas hablaron movidos por el Espíritu Santo (2P 1:19-21). Esa es la palabra confiable que los lectores tienen en las manos.",
-    "ahora": "El «pero» con que arranca el capítulo 2 marca el contraste: frente a la palabra segura aparecen las palabras engañosas. Así como junto a los verdaderos profetas de Israel hubo falsos profetas, en la iglesia habrá falsos maestros. Kistemaker hace notar que el tema parece el opuesto del capítulo 1, aunque ya en 1:16 Pedro insinuaba que circulaban “fábulas” dentro de la comunidad. En estos tres versículos Pedro presenta qué buscan estos maestros (v. 1), qué resultado logran (vv. 2-3a) y qué juicio los espera (v. 3b).",
-    "cuando": "Kistemaker señala que quienes fechan la carta temprano reconocen en la vida y la doctrina de estos maestros el ambiente de mediados del siglo I (los abusos en las cenas de Corinto, las dudas sobre la resurrección y sobre la venida en Tesalónica); quienes la fechan tarde los identifican con los gnósticos del siglo II (ver Interpretaciones).",
-    "despues": "Mañana (2P 2:4-6) Pedro muestra con tres ejemplos del pasado —los ángeles que pecaron, el diluvio y Sodoma y Gomorra— que Dios sabe juzgar a los impíos y librar a los suyos. Es la explicación de la condenación que «no se tarda» del v. 3.",
-    "fuentes": ["mac2p_02_b#16", "kis2p_02_b#27", "kis2p_02_b#28", "kis2p_01_b#19", "kis2p_03_a#9", "mac2p_03_a#12", "bea2p_01_b#1"]
-  },
-  "versiculo_clave": {"ref": "2P 2:1", "porque": "Resume todo el retrato: de dónde vienen (de adentro), cómo trabajan (a escondidas), cuál es su error de fondo (negar al Señor que los compró) y adónde van (a una destrucción que ellos mismos se acarrean)."},
-  "panorama": {
-    "texto": "Pedro no sabía si iba a vivir mucho más, y antes de irse quiere que la iglesia aprenda a reconocer a los falsos maestros. Lo dice sin vueltas: habrá, como hubo en Israel. No vendrán de afuera con un cartel, sino de adentro, mezclando el error con la verdad. Su error más hondo no es solo una idea equivocada, sino negarse a vivir bajo el señorío de Cristo; por eso la doctrina torcida termina en una vida desordenada, y esa vida desacredita el evangelio ante los de afuera. Detrás de todo hay un motivo bien terrenal: la codicia, que convierte a las personas en mercadería. El Nuevo Comentario Bíblico resume el peligro en tres frentes: se destruyen a sí mismos, arrastran a otros y desprestigian la fe, y buscan sacar provecho de los creyentes. Pero el párrafo termina con una certeza que consuela: Dios ya dictó sentencia, y esa sentencia está despierta.",
-    "fuentes": ["ncb2p_01_b#1", "mbib2p_01_b#16", "mac2p_02_b#14", "kis2p_02_b#27"]
-  },
-  "secciones": [
-    {
-      "rango": "2P 2:1a",
-      "titulo": "«Hubo también falsos profetas entre el pueblo»",
-      "notas": [
-        {"texto": "“El pueblo” es Israel: lo muestran la terminología y los ejemplos del Antiguo Testamento que siguen en el capítulo (Noé, Sodoma, Lot, Balaam). Israel convivió con falsos profetas una y otra vez (1R 22; Jer 23; Ez 13), y la ley ya preveía cómo tratar al profeta que empujara al pueblo detrás de otros dioses (Dt 13:1-5; 18:20). Pedro pone a la iglesia en la misma línea: lo que pasó en Israel va a pasar entre ustedes.", "fuentes": ["mac2p_02_b#16", "mbib2p_01_b#16", "ncb2p_01_b#2", "kis2p_02_b#28", "bea2p_01_b#1"], "tipo": "contexto"},
-        {"texto": "Kistemaker observa que aquellos profetas eran falsos por partida doble: por el mensaje que daban y por reclamar un oficio que Dios no les había dado. El Nuevo Comentario Bíblico aplica lo mismo a los “falsos maestros”: la falsedad está en lo que enseñan y en su pretensión de ser maestros, probablemente las dos cosas a la vez.", "fuentes": ["kis2p_02_b#28", "ncb2p_01_b#2"], "tipo": "exegesis"},
-        {"texto": "El verbo va en futuro, «habrá». Kistemaker piensa que Pedro ya había detectado su presencia y sabía que vendrían más; el Comentario Moody sugiere que quizás ya actuaban en algunas iglesias. No es una advertencia aislada: repite lo que Jesús anunció (Mt 24:4-5, 11, 24) y lo que advierten Pablo, Juan y Judas (Hch 20:29-30; 2Ti 4:3-4; 1J 2:18-19; Jd 3-4). Los creyentes pueden esperar falsos maestros tanto como Israel tuvo falsos profetas.", "fuentes": ["kis2p_02_b#28", "moodynt_02_a#2", "mac2p_02_b#16"], "tipo": "exegesis"},
-        {"texto": "Núñez subraya que pueden venir de afuera, pero muchas veces salen de adentro, y esos son los más peligrosos porque parecen un hermano más: cuanto más piadosos se ven, más daño pueden hacer. McGee y Wiersbe coinciden en el retrato: aparecen como miembros de la iglesia, dicen ser creyentes y trabajan bajo una cubierta de hipocresía, como lobos con piel de oveja (Mt 7:15).", "fuentes": ["nunez2p_01_b#15", "mcg2p_02_a#16", "r1_007_a#13"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "2P 2:1b",
-      "titulo": "«Introducirán encubiertamente herejías destructoras»",
-      "notas": [
-        {"texto": "Primero el método: el sigilo. El verbo describe meter algo sin que se note; MacArthur cuenta que se usaba del acusado astuto que quiere engañar al juez o del desterrado que vuelve en secreto. Judas dice casi lo mismo: ciertos hombres “entraron encubiertamente” (Jd 4). Beacon lo ilustra como un traidor dentro del campamento.", "fuentes": ["mac2p_02_b#18", "kis2p_02_b#29", "bea2p_01_b#1"], "tipo": "exegesis"},
-        {"texto": "¿Cómo se cuela el error? Núñez describe una secuencia: primero coinciden con la verdad y la predican; después meten la falsa enseñanza junto a la verdad; al final solo queda lo falso. Wiersbe y McGee lo dicen de modo parecido: traen el error mezclado con doctrina verdadera, y por eso son más peligrosos que un error total. La meta, según Núñez, es que la gente se olvide de cómo es Dios y siga a un dios imaginado, como los profetas de sueños que hacían olvidar el nombre del Señor (Jer 23:25-27).", "fuentes": ["nunez2p_01_b#16", "r1_007_a#13", "mcg2p_02_a#16"], "tipo": "exegesis"},
-        {"texto": "La palabra “herejía” (ver Palabras griegas) viene de “elegir”: una opinión elegida por uno mismo en lugar de la verdad recibida. Al principio podía designar simplemente un partido: fariseos y saduceos eran “sectas”, y a los cristianos mismos los llamaban así (Hch 24:5, 14; 28:22). Acá el sentido es claramente negativo, y Pedro le pone apellido: herejías “de destrucción”, enseñanzas que arruinan la vida espiritual y moral de los creyentes y que terminan en condenación.", "fuentes": ["kis2p_03_a#1", "cbmh2p_01_a#29", "ncb2p_01_b#2", "mac2p_02_b#19"], "tipo": "exegesis"},
-        {"texto": "La palabra “destrucción” aparece dos veces en el mismo versículo: introducen herejías destructoras y se acarrean destrucción. Kistemaker lo llama una misión suicida: entran para destruir a otros y se destruyen a sí mismos. La Biblia MacArthur suma que la carta usa ese término seis veces, siempre para una perdición definitiva.", "fuentes": ["kis2p_03_a#2", "mbib2p_01_b#17"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "2P 2:1c",
-      "titulo": "«Negarán al Señor que los rescató»",
-      "notas": [
-        {"texto": "Pedro agrega «aun», como quien dice “llegan al extremo de…”. El título que usa para Jesús no es el habitual: es el amo absoluto, el dueño de la casa (ver Palabras griegas). Junto con el verbo “comprar”, pinta una escena del mercado de esclavos: un amo compra siervos para que hagan su voluntad. Varios autores recuerdan que así describe el Nuevo Testamento la obra de Cristo, que compró a los suyos con su sangre (1Co 6:20; 7:23; Ap 5:9; 1P 1:18-19); por eso el creyente es siervo de Cristo y no vive para agradarse a sí mismo.", "fuentes": ["kis2p_03_a#3", "kis2p_03_a#4", "cbmh2p_01_a#32", "ncb2p_01_b#2"], "tipo": "exegesis"},
-        {"texto": "¿Cómo se niega al Señor? Roldán propone dos caminos: con la conducta (Tit 1:16) o negando su venida (3:3-4). MacArthur nota que el participio presente describe un patrón habitual, y que quizás no negaban de palabra la deidad, la cruz o la resurrección: lo que no aceptaban era someter la vida a su gobierno, y su vida inmoral los delataba. Beacon recoge un criterio práctico para reconocer una herejía: si niega o no el señorío de Jesucristo.", "fuentes": ["cbmh2p_01_a#32", "mac2p_02_b#20", "mbib2p_01_b#18", "bea2p_01_b#2"], "tipo": "doctrina"},
-        {"texto": "La frase el «Señor que los rescató» aplicada a gente que termina en destrucción es una de las más discutidas de la carta: ¿Cristo pagó por ellos? ¿Eran creyentes que se perdieron, o nunca lo fueron? Los autores responden de maneras distintas (ver Interpretaciones). En lo que todos coinciden es en lo que Pedro quiere dejar claro: estos maestros tienen un Dueño al que rechazan, y eso los lleva a la ruina.", "fuentes": ["kis2p_03_a#5", "r1_017#8", "nunez2p_01_b#19", "mbib2p_01_b#19"], "tipo": "interpretacion"},
-        {"texto": "La destrucción es “repentina”, es decir, rápida o inminente. La Biblia MacArthur la ubica en la muerte física de ellos o en el juicio al regreso de Cristo. MacArthur saca de ahí una advertencia: quien rechaza el señorío de Cristo no es un “creyente de segunda” que todavía no llegó a discípulo; si no se arrepiente, enfrenta perdición.", "fuentes": ["mac2p_03_a#6", "mbib2p_01_b#19"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "2P 2:2",
-      "titulo": "«Muchos seguirán sus disoluciones»",
-      "notas": [
-        {"texto": "Lo grave es que tienen éxito. El verbo “seguir” es el mismo de 1:16, donde Pedro dice que los apóstoles no siguieron fábulas: aun con la enseñanza apostólica a mano, muchos prefieren los cuentos ingeniosos. MacArthur explica el atractivo: un mensaje de independencia y exaltación personal le resulta cómodo al corazón caído, que prefiere servirse a sí mismo antes que someterse. Wiersbe agrega que el error se vuelve popular porque facilita vivir en pecado sin perder la religiosidad.", "fuentes": ["kis2p_03_a#6", "mac2p_03_a#7", "r1_007_a#13"], "tipo": "exegesis"},
-        {"texto": "Lo que siguen no es una teoría sino un estilo de vida: «disoluciones», conducta desenfrenada y vergonzosa. Kistemaker señala que es la misma palabra que describe a los de Sodoma en el v. 7; MacArthur destaca el plural, porque el libertinaje toma muchas formas. Según el Nuevo Comentario Bíblico, el error de fondo era poner el conocimiento por encima de la práctica: total, la gracia lo perdona todo. Pedro ya les había respondido en sus dos cartas (1P 1:15; 2:11-12; 2P 1:4; 3:11), igual que Pablo (Ro 6:1-2).", "fuentes": ["kis2p_03_a#6", "mac2p_03_a#8", "ncb2p_01_b#3", "cbmh2p_01_a#33"], "tipo": "exegesis"},
-        {"texto": "Doctrina y conducta van de la mano. Núñez lo formula así: con el tiempo, toda enseñanza falsa termina en conducta torcida, y cuanto más lejos de la verdad, más inmoral la vida. Beacon lo dice desde el otro lado: herejía y depravación moral se alimentan mutuamente.", "fuentes": ["nunez2p_01_b#20", "bea2p_01_b#2", "kis2p_03_a#6"], "tipo": "doctrina"},
-        {"texto": "El resultado: «el camino de la verdad será blasfemado». “El Camino” era uno de los primeros nombres de la fe cristiana (Hch 9:2; 19:9, 23; 24:14), y Kistemaker cree que Pedro toma la expresión del Sal 119:30. Los cristianos viven, dice, en casa de vidrio: los vecinos miran, y cuando ven a quienes se dicen cristianos entregados a excesos, desprecian todo el camino. En la primera carta Pedro advertía que los creyentes serían calumniados por su buena conducta (1P 3:16); ahora lamenta que la fe sea insultada por la mala conducta de los de adentro.", "fuentes": ["kis2p_03_a#7", "mac2p_03_a#9", "ncb2p_01_b#3", "mbib2p_01_b#20"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "2P 2:3a",
-      "titulo": "«Por avaricia harán mercadería de vosotros con palabras fingidas»",
-      "notas": [
-        {"texto": "Pedro desnuda el motivo. Para MacArthur, lo que de verdad mueve a estos maestros es el amor desenfrenado al dinero; más adelante Pedro dirá que tienen el corazón habituado a la codicia (v. 14). Beacon deja abierto si se trata de ganancia material o de conquistar seguidores, pero en cualquier caso el motivo gira alrededor de ellos mismos y no de Cristo. McGee suma la búsqueda de posición, renombre y popularidad.", "fuentes": ["mac2p_03_a#10", "kis2p_03_a#8", "bea2p_01_b#1", "mcg2p_02_a#19"], "tipo": "exegesis"},
-        {"texto": "“Hacer mercadería” es lenguaje de comercio: el mercader busca su tajada y el comprador desprevenido termina explotado. Kistemaker recuerda que Pablo identifica la avaricia con la idolatría (Col 3:5) y habla de quienes “mercadean” la palabra de Dios (2Co 2:17). Núñez lo aplica al evangelio de la prosperidad, que llena los bolsillos de quienes lo predican y vacía los de quienes lo siguen.", "fuentes": ["kis2p_03_a#8", "ncb2p_01_b#4", "nunez2p_01_b#21"], "tipo": "aplicacion"},
-        {"texto": "La herramienta son “palabras fingidas”, fabricadas, moldeadas (ver Palabras griegas): discursos hechos a medida del oído del público. Wiersbe advierte que usan vocabulario bíblico vaciado de su sentido, y McGee dice que usan el mismo vocabulario con otro diccionario: lo que cuenta no es lo que el maestro dice, sino lo que quiere decir.", "fuentes": ["ncb2p_01_b#4", "r1_007_a#13", "mcg2p_02_a#19", "mac2p_03_a#10"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "2P 2:3b",
-      "titulo": "«La condenación no se tarda, y su perdición no se duerme»",
-      "notas": [
-        {"texto": "La frase es un paralelismo al estilo hebreo, con dos imágenes. La primera: el veredicto ya fue dictado «de largo tiempo»; el juicio no está inactivo. Kistemaker vincula ese “hace mucho” con los casos del pasado que Pedro va a contar enseguida (vv. 4-9); MacArthur lo remonta al primer juicio sobre la serpiente (Gn 3:13-15). Judas usa la misma idea: gente que desde antes había sido destinada a esta condenación (Jd 4).", "fuentes": ["kis2p_03_a#9", "mac2p_03_a#13", "mbib2p_01_b#21"], "tipo": "exegesis"},
-        {"texto": "La segunda imagen personifica la perdición como alguien que no duerme: un verdugo despierto, listo para ejecutar la sentencia. El Nuevo Comentario Bíblico lo resume: la retribución es cierta, aunque no llegue de inmediato. Para MacArthur, como Dios es verdad y no puede mentir (Nm 23:19; He 6:18), juzgará a los que mienten en su nombre; y Santiago advierte que los maestros recibirán juicio más estricto (Stg 3:1).", "fuentes": ["kis2p_03_a#9", "mac2p_03_a#13", "ncb2p_01_b#4", "mac2p_03_a#11", "mac2p_03_a#12"], "tipo": "doctrina"},
-        {"texto": "¿Y si parece que Dios duerme? Núñez recuerda que Dios demora el juicio por misericordia —no quiere que nadie perezca (3:9)— pero es lento para la ira, no un Dios sin ira. McGee lo une a la experiencia del creyente que ve prosperar al impío: como el salmista que entendió en el santuario (Sal 73), aprendemos a dejar la cuenta en manos de Dios, que dice que suya es la venganza (Ro 12:19).", "fuentes": ["nunez2p_01_b#23", "mcg2p_02_b#1"], "tipo": "aplicacion"}
-      ]
-    }
-  ],
-  "palabras": [
-    {"ref": "2P 2:1", "griego": "ψευδοδιδάσκαλοι", "translit": "pseudodidáskaloi", "significado": "Falsos maestros. Según Vincent, citado por McGee, aparece solo aquí en el Nuevo Testamento. McGee define al falso maestro como el que conoce la verdad y enseña una mentira a sabiendas, por interés; no lo es quien se equivoca creyendo enseñar la verdad.", "fuentes": ["mcg2p_02_a#14"]},
-    {"ref": "2P 2:1", "griego": "παρεισάξουσιν", "translit": "pareisáxousin", "significado": "Introducirán a escondidas, meterán de contrabando junto a lo que ya está. El Nuevo Comentario Bíblico nota que lo encubierto está implícito en el verbo, que literalmente es “traer además”.", "fuentes": ["mac2p_02_b#18", "ncb2p_01_b#2"]},
-    {"ref": "2P 2:1", "griego": "αἱρέσεις", "translit": "haíreseis", "significado": "Herejías. De un verbo que significa “elegir”: una opinión escogida por uno mismo en lugar de la verdad recibida, que divide y forma partidos. En el Nuevo Testamento aparece nueve veces, a veces neutra (secta, partido) y aquí con sentido muy negativo.", "fuentes": ["cbmh2p_01_a#29", "bea2p_01_b#2", "mac2p_02_b#19", "ncb2p_01_b#2"]},
-    {"ref": "2P 2:1", "griego": "δεσπότης", "translit": "despótēs", "significado": "Amo, dueño con autoridad absoluta (de ahí “déspota”). Aparece diez veces en el Nuevo Testamento: a veces del amo de esclavos (1P 2:18) y en la mayoría de Dios; aplicado a Cristo, solo aquí y en Jd 4.", "fuentes": ["mac2p_02_b#20", "mbib2p_01_b#18", "ncb2p_01_b#2", "kis2p_03_a#4"]},
-    {"ref": "2P 2:1", "griego": "ἀγοράζω", "translit": "agorázō", "significado": "Comprar en el mercado (agorá); se usaba de la compra de esclavos y de ahí pasó a describir el rescate que Cristo pagó por los suyos.", "fuentes": ["cbmh2p_01_a#32", "mbib2p_01_b#19", "kis2p_03_a#4"]},
-    {"ref": "2P 2:2", "griego": "ἀσέλγεια", "translit": "asélgeia", "significado": "Libertinaje, conducta desenfrenada y escandalosa; Pedro la usa en plural (disoluciones), porque toma muchas formas.", "fuentes": ["mac2p_03_a#8"]},
-    {"ref": "2P 2:3", "griego": "πλαστός", "translit": "plastós", "significado": "Moldeado, fabricado, fingido; de la familia de “plástico”. Del verbo que se usa para el barro moldeado (cf. 1Ti 2:13): palabras hechas a medida, que toman la forma que el público quiere.", "fuentes": ["kis2p_03_a#10", "mcg2p_02_a#18", "r1_007_a#13"]},
-    {"ref": "2P 2:3", "griego": "ἔκπαλαι", "translit": "ékpalai", "significado": "Desde hace mucho tiempo: la sentencia contra ellos no es nueva.", "fuentes": ["mac2p_03_a#13"]},
-    {"ref": "2P 2:3", "griego": "κρίμα", "translit": "kríma", "significado": "Veredicto: el resultado de un proceso judicial, no el proceso. La sentencia ya está dictada.", "fuentes": ["kis2p_03_a#12"]}
-  ],
-  "cristo": [
-    {"texto": "Jesús es el Dueño que compró a los suyos. El título de amo absoluto, que en el Nuevo Testamento se usa sobre todo para Dios, Pedro y Judas se lo dan a Cristo; y el precio fue su propia sangre, como la de un cordero sin mancha. La vida cristiana empieza por reconocer que ya no nos pertenecemos.", "refs": ["1P 1:18-19", "1Co 6:19-20", "Jd 4", "Mr 10:45"], "fuentes": ["ncb2p_01_b#2", "cbmh2p_01_a#32", "kis2p_03_a#4", "kis2p_03_a#3"]},
-    {"texto": "Por eso el criterio para discernir a un maestro pasa por Cristo: qué dice de Él y si se somete a Él. MacArthur afirma que toda religión falsa tiene una cristología errada; Beacon propone preguntar si se niega o no su señorío.", "refs": ["Mt 7:21"], "fuentes": ["mbib2p_01_b#18", "bea2p_01_b#2", "mac2p_03_a#7"]},
-    {"texto": "Contra las palabras moldeadas a gusto del público, Núñez pone a Cristo, que es la verdad y vino a dar testimonio de ella: a Él se acude frente a la falsa enseñanza.", "refs": ["Jn 18:37", "Jn 14:6"], "fuentes": ["nunez2p_01_b#21", "ncb2p_01_b#3"]},
-    {"texto": "Pedro repite lo que el mismo Jesús anunció: que vendrían muchos en su nombre a engañar, y que los lobos llegarían vestidos de oveja. La advertencia de hoy es obediencia a la palabra del Señor.", "refs": ["Mt 24:4-5", "Mt 7:15", "Mr 13:22-23"], "fuentes": ["kis2p_02_b#28", "ncb2p_01_b#1", "kis2p_03_a#6"]}
-  ],
-  "interpretaciones": [
-    {
-      "tema": "«El Señor que los rescató»: ¿por quiénes pagó Cristo y qué pasó con estos maestros?",
-      "posturas": [
-        {"postura": "Cristo los compró de verdad. Kistemaker menciona a Lenski, para quien fueron comprados a precio de sangre para siempre, y a Alford, que ve aquí con toda claridad una redención universal.", "quien": "Lenski y Alford, citados por Kistemaker", "fuentes": ["kis2p_03_a#5"]},
-        {"postura": "Ryrie admite que es el versículo más difícil para quienes sostienen una expiación limitada. Su lectura: Cristo realmente pagó el rescate por ellos (murió por ellos), pero nunca los poseyó, porque no fueron salvos. Responde a los argumentos contrarios: Judas 4 usa el mismo título para Cristo, Ap 14:4 tampoco menciona el precio, y en Lc 14:18-19 alguien compra sin haber tomado posesión.", "quien": "Ryrie (Teología básica)", "fuentes": ["r1_017#8"]},
-        {"postura": "Profesaron, pero nunca fueron redimidos: su negación demostró que no eran del Señor (1J 2:19). Kistemaker dice que la muerte de Cristo alcanza para redimir al mundo pero es eficaz en el pueblo escogido; si les hubiera dado vida eterna, no se habrían apartado (Jn 10:28). Núñez plantea si perdieron la salvación y lo descarta: a los ojos de otros, y quizás de ellos mismos, eran rescatados, pero nunca pertenecieron a la familia de Dios.", "quien": "Kistemaker; Núñez", "fuentes": ["kis2p_03_a#5", "nunez2p_01_b#19"]},
-        {"postura": "No es lenguaje de salvación sino de propiedad: el amo que compra esclavos que le deben lealtad, como Dios “compró” a Israel aunque lo rechazó (Dt 32:5-6). Pedro estaría repitiendo con ironía lo que ellos alegaban de sí mismos. MacArthur y Mayhue agregan que el título se usa casi siempre del Padre, que el verbo, cuando habla de salvación, menciona el precio, y que Pedro alude a Dt 32:6 (el Padre que creó a Israel). MacArthur sostiene que Cristo expió realmente por los elegidos, y rechaza la lectura de una expiación solo potencial que el pecador activa.", "quien": "MacArthur (comentario y Biblia de estudio); MacArthur y Mayhue (Teología sistemática)", "fuentes": ["mbib2p_01_b#19", "r1_017#22", "mac2p_03_a#1", "mac2p_03_a#3"]}
-      ],
-      "nota": "Bajo la discusión hay dos temas grandes: por quiénes murió Cristo y si un verdadero creyente puede perder la salvación. Kistemaker y Núñez plantean expresamente esta segunda posibilidad y la descartan; Kistemaker cita a Bauckham, que habla de “cristianos apóstatas”, y Roldán prefiere no definir hasta dónde llegaron, aunque el final del capítulo (2:20-22) le hace pensar que no experimentaron plenamente la regeneración. Lo que nadie discute: el Señor es Dueño, ellos lo negaron, y van a la perdición. Ver el anexo T3."
-    },
-    {
-      "tema": "¿Quiénes eran estos maestros y de cuándo es el retrato?",
-      "posturas": [
-        {"postura": "Quienes fechan tarde la carta los identifican con los gnósticos del siglo II.", "quien": "posición descripta por Kistemaker", "fuentes": ["kis2p_01_b#19"]},
-        {"postura": "Faltan rasgos esenciales del gnosticismo (como el demiurgo creador); lo que se ve son las condiciones de mediados del siglo I, con a lo sumo precursores como los de Colosas. Kistemaker los ve como antiguos miembros que se apartaron.", "quien": "Kistemaker", "fuentes": ["kis2p_01_b#19", "kis2p_01_b#18"]},
-        {"postura": "Owen aplica la profecía a los gnósticos, marcionistas y maniqueos, que conservaban el nombre de cristianos pero apostataron, y a la apostasía posterior de la iglesia visible.", "quien": "Owen (Apostasía del evangelio)", "fuentes": ["r1_019#17"]}
-      ],
-      "nota": "El Comentario Moody nota que el error de estos maestros parece estar más en el terreno de la conducta que en el de la doctrina; otros autores subrayan el error doctrinal. Pedro describe las dos cosas. Sobre la autoría y la fecha de 2 Pedro, ver el anexo I3."
-    }
-  ],
-  "antiguo_testamento": [
-    {"ref": "Dt 13:1-5", "nota": "La ley mandaba no escuchar al profeta que, aun con señales, empujara al pueblo detrás de otros dioses. Es el trasfondo de «hubo también falsos profetas entre el pueblo» y de la seriedad con que Dios trata la mentira religiosa.", "fuentes": ["bea2p_01_b#1", "ncb2p_01_b#2", "mac2p_02_b#15", "kis2p_02_b#28"]},
-    {"ref": "Jer 23:14-16", "nota": "Jeremías compara a los falsos profetas de Jerusalén con Sodoma: cometen adulterio y andan en mentira. Mentira y vida corrupta juntas, como en 2P 2:2.", "fuentes": ["kis2p_02_b#28", "r1_018_b#20"]},
-    {"ref": "1R 22", "nota": "Cientos de profetas le dijeron al rey Acab lo que quería oír, mientras Miqueas, el que decía la verdad, estaba preso. McGee lo usa como ejemplo de los falsos profetas “entre el pueblo”.", "fuentes": ["mcg2p_02_a#13", "mac2p_02_b#16"]},
-    {"ref": "Dt 32:5-6", "nota": "Moisés llama a Dios el Padre que “compró” a Israel, aunque Israel se corrompió. Varios autores creen que Pedro alude a este texto al hablar del Señor que los rescató (ver Interpretaciones).", "fuentes": ["mbib2p_01_b#19", "r1_017#22", "r1_017#8"]},
-    {"ref": "Sal 119:30", "nota": "El salmista dice haber escogido el camino de la verdad; según Kistemaker y el Nuevo Comentario Bíblico, de ahí puede venir la expresión de 2P 2:2.", "fuentes": ["kis2p_03_a#7", "ncb2p_01_b#3"]}
-  ],
-  "biblioteca": [
-    {"texto": "Teología sistemática de MacArthur y Mayhue: para probar a un profeta o maestro, la Escritura da tres pruebas: la doctrina (¿concuerda con lo ya revelado?), la pureza moral (¿cómo vive?) y la exactitud (¿se cumple lo que anuncia?). Quien enseñaba falsa doctrina o vivía en lujuria y avaricia sin freno quedaba descalificado.", "autor": "John MacArthur y Richard Mayhue", "obra": "Teología sistemática", "pagina": "PDF 1044", "tipo": "doctrina"},
-    {"texto": "Núñez ve en Satanás al primer falso maestro: en el Edén primero cuestionó la palabra de Dios, después la negó y finalmente la torció. Cuestionada, negada, distorsionada: la misma progresión que sigue el error hoy, siempre con disfraz.", "autor": "Miguel Núñez", "obra": "2 Pedro", "pagina": "PDF 65-67", "tipo": "doctrina"},
-    {"texto": "McGee aclara que no todo el que se equivoca es un falso maestro: algunos reformadores y padres de la iglesia enseñaron cosas que él considera erróneas, pero creían enseñar la verdad. El falso maestro sabe lo que hace. Y pide que a él mismo lo comparen con la Biblia: no alcanza con “lo dijo el programa”.", "autor": "J. Vernon McGee", "obra": "2 Pedro", "pagina": "PDF 47-53", "tipo": "aplicacion"},
-    {"texto": "McGee explica la semejanza entre 2 Pedro 2 y Judas sin recurrir a que uno copió al otro: cuando Dios quiere enfatizar algo lo dice dos veces. Pedro habla de falsos maestros que vendrán; Judas, de los que ya llegaron.", "autor": "J. Vernon McGee", "obra": "2 Pedro", "pagina": "PDF 53", "tipo": "doctrina"}
-  ],
-  "conexiones": [
-    {"ref": "Hch 20:28-30", "nota": "Pablo avisa a los ancianos de Éfeso que entrarán lobos rapaces y que de entre ellos mismos se levantarán hombres que hablen cosas perversas: el mismo peligro desde adentro.", "fuentes": ["mcg2p_02_a#16", "moodynt_02_a#2", "kis2p_02_b#28"]},
-    {"ref": "Jd 4", "nota": "Casi las mismas palabras: hombres que entraron encubiertamente, convierten la gracia en libertinaje y niegan al único Soberano y Señor. Conviene leer 2 Pedro 2 al lado de Judas.", "fuentes": ["kis2p_02_b#29", "ncb2p_01_b#1", "mac2p_02_b#18"]},
-    {"ref": "2Co 11:13-15", "nota": "Satanás se disfraza de ángel de luz y sus servidores de servidores de justicia: el disfraz es el método.", "fuentes": ["nunez2p_01_b#18", "mac2p_02_b#14"]},
-    {"ref": "2Ti 4:3-4", "nota": "Vendrá tiempo en que no soportarán la sana doctrina y buscarán maestros conforme a sus deseos. MacArthur ve aquí cuándo prosperan los falsos maestros: cuando la iglesia prefiere oír lo agradable.", "fuentes": ["mac2p_02_b#17", "mac2p_02_b#16"]},
-    {"ref": "1J 2:19", "nota": "Salieron de nosotros, pero no eran de nosotros: el texto que Kistemaker y Núñez usan para leer el «que los rescató».", "fuentes": ["kis2p_03_a#5", "nunez2p_01_b#19", "nunez2p_01_b#13"]},
-    {"ref": "Ro 2:24", "nota": "Por causa de los que se decían del pueblo de Dios, su nombre era blasfemado entre los gentiles: el mismo efecto que 2P 2:2.", "fuentes": ["nunez2p_01_b#20"]}
-  ],
-  "para_vivir": [
-    {"texto": "Comparen todo con la Escritura, incluso a los maestros que más aprecian. McGee pedía eso para sí mismo, y el capítulo anterior les dio la razón: la palabra profética es la vara segura.", "fuentes": ["mcg2p_02_a#10", "r1_019#2"]},
-    {"texto": "Escuchen no solo lo que se dice sino lo que se quiere decir. Las mismas palabras —gracia, fe, bendición— pueden venir vaciadas por dentro.", "fuentes": ["r1_007_a#13", "mcg2p_02_a#19"]},
-    {"texto": "Miren también la vida y el bolsillo. Un maestro que se promociona a sí mismo, que convierte a las personas en clientes o cuya vida contradice lo que enseña muestra lo que hay detrás.", "fuentes": ["mcg2p_02_a#20", "r1_018_b#20", "mac2p_03_a#8"]},
-    {"texto": "Recuerden que ustedes también viven en casa de vidrio: la doctrina verdadera tiene que producir una vida verdadera, en el matrimonio y frente a los vecinos. Así se responde al desprestigio del camino.", "fuentes": ["kis2p_03_a#7", "mac2p_03_a#9"]},
-    {"texto": "No pongan el amor contra la verdad. MacArthur lamenta una tolerancia indiferente hacia la verdad en nombre del amor y la unidad; Pedro advierte por amor a las ovejas, con corazón de pastor.", "fuentes": ["mac2p_02_b#15", "mbib2p_01_b#17", "nunez2p_01_b#20"]},
-    {"texto": "Si ven prosperar a quien engaña, no se amarguen ni tomen la justicia en sus manos: la condenación no duerme, y Dios la ejecutará a su tiempo.", "fuentes": ["mcg2p_02_b#1", "nunez2p_01_b#23"]}
-  ],
-  "para_conversar": [
-    "¿Qué enseñanzas que hoy circulan en iglesias, en redes o en la cultura mezclan verdad con error? ¿Cómo se darían cuenta ustedes de la mezcla?",
-    "Si negar al Señor es, ante todo, no someter la vida a su gobierno, ¿en qué parte de nuestra vida juntos nos cuesta más reconocerlo como Dueño?",
-    "Pedro une doctrina, conducta y dinero. ¿Qué preguntas concretas podemos hacernos antes de seguir o apoyar a un maestro, un libro o un ministerio?"
-  ],
-  "para_orar": "Señor Jesús, Dueño nuestro que nos compraste con tu sangre: líbranos de las palabras moldeadas a nuestro gusto y danos amor por tu verdad. Que lo que creemos se vea en cómo vivimos, para que tu camino sea honrado y no blasfemado por causa nuestra; y guardanos en tus manos, confiando en que tu justicia no duerme.",
-  "visuales": ["dg-2p-judas", "dg-falsos", "dg-estructura-2p"],
-  "anexos": ["T2", "T3", "I3"],
-  "profundizar": [
-    {"titulo": "La extensión de la expiación según MacArthur", "texto": "MacArthur desarrolla a partir de este versículo su visión de la expiación. Parte de la incapacidad total del pecador (muerto en delitos y pecados, ciego, sin deseo de buscar a Dios): si el pecador no puede decidir por sí mismo, la salvación viene solo de Dios, que da vida, arrepentimiento y fe. Sostiene que toda postura que no es universalista limita la expiación de algún modo: o la limita el pecador o la limita Dios. Cita a Spurgeon, que replicaba que son los arminianos quienes la limitan, porque Cristo no habría muerto para asegurar la salvación de nadie en particular, y a Clotfelter, para quien una expiación por multitudes que nunca se salvan no expía de verdad. Esta es la postura de MacArthur; otros autores de la biblioteca leen el pasaje de otro modo (ver Interpretaciones).", "fuentes": ["mac2p_03_a#2", "mac2p_03_a#3", "mac2p_03_a#4", "mac2p_03_a#5"]},
-    {"titulo": "La lista de Kistemaker: cómo describe el capítulo a los falsos maestros", "texto": "Kistemaker resume lo que el capítulo y el siguiente dicen de ellos: rechazan a Jesucristo y su evangelio (2:1), repudian la conducta cristiana (2:2), desprecian la autoridad (2:10a), insultan a los seres celestiales (2:10b), viven en inmoralidad (2:13-14), prometen libertad siendo esclavos de la corrupción (2:19), se burlan de la venida de Cristo (3:4), niegan el juicio venidero (3:5-7) y tuercen las cartas de Pablo (3:16). Sirve de mapa para los próximos días.", "fuentes": ["kis2p_01_b#18"]},
-    {"titulo": "Cómo funciona la tentación, según Núñez", "texto": "A propósito de los que caen, Núñez hace tres observaciones: solo nos tienta lo que el corazón desea; la tentación se fortalece cuando la imaginación arma escenarios hasta crear una realidad virtual; y una vez tentados racionalizamos hasta justificar el deseo. Detrás suele haber una idea equivocada de Dios, pero el problema principal es el corazón engañoso (Jer 17:9). También repasa los casos de abandono que menciona 2 Timoteo: Figelo y Hermógenes, Himeneo y Fileto, Demas, Alejandro.", "fuentes": ["nunez2p_01_b#14", "nunez2p_01_b#13"]},
-    {"titulo": "Ejemplos modernos que dan los autores", "texto": "El recuadro del Comentario Mundo Hispano recuerda los casos de Jim Jones (más de 900 muertos en Guyana, 1978) y de los davidianos de David Koresh (1993), y menciona movimientos nacidos desde el siglo XIX alrededor de un maestro que descubre o inventa una doctrina contraria a la fe histórica. McGee relata, a partir de una crónica de una revista cristiana, una reunión evangelística donde el predicador habló de sí mismo muchísimas más veces que de Cristo y nunca presentó el evangelio. Son ilustraciones de los autores; el criterio sigue siendo el de Pedro: qué hacen con Cristo, cómo viven, qué buscan.", "fuentes": ["cbmh2p_01_a#30", "cbmh2p_01_a#31", "mcg2p_02_a#19"]}
+ "dia": 30,
+ "libro": "2P",
+ "desde": "2P 2:1",
+ "hasta": "2P 2:3",
+ "titulo": "Habrá falsos maestros",
+ "minutos": {
+  "lectura": 2,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "Ayer Pedro cerró el capítulo 1 hablando de la palabra profética más segura: ninguna profecía de la Escritura nació de interpretación privada, sino que los profetas hablaron movidos por el Espíritu Santo (2P 1:19-21). Esa es la palabra confiable que los lectores tienen en las manos.",
+  "ahora": "El «Pero» con que arranca el capítulo 2 marca el contraste: frente a la palabra segura aparecen las palabras engañosas. Así como junto a los verdaderos profetas de Israel hubo falsos profetas, en la iglesia habrá falsos maestros. En estos tres versículos Pedro presenta qué buscan (v. 1), qué logran (vv. 2-3a) y qué juicio los espera (v. 3b).",
+  "despues": "Mañana (2P 2:4-6) Pedro muestra con tres ejemplos del pasado —los ángeles que pecaron, el diluvio y Sodoma y Gomorra— que Dios sabe juzgar a los impíos y librar a los suyos. Es la explicación de la condenación que «no se tarda» del v. 3.",
+  "fuentes": [
+   "mac2p_02_b#16",
+   "kis2p_02_b#27",
+   "kis2p_02_b#28",
+   "kis2p_03_a#9",
+   "mac2p_03_a#12",
+   "bea2p_01_b#1"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "2P 2:1",
+  "porque": "Resume todo el retrato: de dónde vienen (de adentro), cómo trabajan (a escondidas), cuál es su error de fondo (negar al Señor que los compró) y adónde van (a una destrucción que ellos mismos se acarrean)."
+ },
+ "panorama": {
+  "texto": "Antes de irse, Pedro quiere que la iglesia aprenda a reconocer a los falsos maestros. Lo dice sin vueltas: habrá, como hubo en Israel. No vendrán de afuera con un cartel, sino de adentro, mezclando el error con la verdad. Su error más hondo es negarse a vivir bajo el señorío de Cristo; por eso la doctrina torcida termina en una vida desordenada que desacredita el evangelio. Detrás hay un motivo bien terrenal: la codicia. El Nuevo Comentario Bíblico resume el peligro en tres frentes: se destruyen a sí mismos, arrastran y desprestigian a otros, y sacan provecho de los creyentes. Pero el párrafo termina con una certeza: Dios ya dictó sentencia, y esa sentencia está despierta.",
+  "fuentes": [
+   "ncb2p_01_b#1",
+   "mbib2p_01_b#16",
+   "mac2p_02_b#14",
+   "kis2p_02_b#27"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "2P 2:1a",
+   "titulo": "«Hubo también falsos profetas entre el pueblo»",
+   "notas": [
+    {
+     "texto": "“El pueblo” es Israel: lo muestran la terminología y los ejemplos del Antiguo Testamento que siguen en el capítulo (Noé, Sodoma, Lot, Balaam). Israel convivió con falsos profetas una y otra vez (1R 22; Jer 23; Ez 13), y la ley ya preveía cómo tratar al profeta que empujara al pueblo detrás de otros dioses (Dt 13:1-5; 18:20). Pedro pone a la iglesia en la misma línea: lo que pasó en Israel va a pasar entre ustedes.",
+     "fuentes": [
+      "mac2p_02_b#16",
+      "mbib2p_01_b#16",
+      "ncb2p_01_b#2",
+      "kis2p_02_b#28",
+      "bea2p_01_b#1"
+     ],
+     "tipo": "contexto"
+    },
+    {
+     "texto": "El verbo va en futuro, «habrá». Kistemaker piensa que Pedro ya había detectado su presencia; el Comentario Moody sugiere que quizás ya actuaban en algunas iglesias. Pedro repite lo que Jesús anunció (Mt 24:4-5, 11, 24) y lo que advierten Pablo, Juan y Judas (Hch 20:29-30; 1J 2:18-19; Jd 3-4).",
+     "fuentes": [
+      "kis2p_02_b#28",
+      "moodynt_02_a#2",
+      "mac2p_02_b#16"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Núñez subraya que muchas veces salen de adentro, y esos son los más peligrosos porque parecen un hermano más: cuanto más piadosos se ven, más daño pueden hacer. McGee y Wiersbe coinciden: se presentan como miembros, dicen ser creyentes y trabajan bajo una cubierta de hipocresía, como lobos con piel de oveja (Mt 7:15).",
+     "fuentes": [
+      "nunez2p_01_b#15",
+      "mcg2p_02_a#16",
+      "r1_007_a#13"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:1b",
+   "titulo": "«Introducirán encubiertamente herejías destructoras»",
+   "notas": [
+    {
+     "texto": "Primero el método: el sigilo. El verbo describe meter algo sin que se note; MacArthur cuenta que se usaba del desterrado que vuelve en secreto. Judas dice casi lo mismo de los que se infiltraron (Jd 4).",
+     "fuentes": [
+      "mac2p_02_b#18",
+      "kis2p_02_b#29",
+      "bea2p_01_b#1"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "¿Cómo se cuela el error? Núñez describe una secuencia: primero coinciden con la verdad y la predican; después meten la falsa enseñanza junto a la verdad; al final solo queda lo falso. Wiersbe y McGee coinciden: el error mezclado con verdad es más peligroso que un error total. La meta, según Núñez, es que la gente olvide cómo es Dios y siga a un dios imaginado (Jer 23:25-27).",
+     "fuentes": [
+      "nunez2p_01_b#16",
+      "r1_007_a#13",
+      "mcg2p_02_a#16"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "“Herejía” (ver Palabras griegas) viene de “elegir”: una opinión elegida por uno mismo en lugar de la verdad recibida. Podía designar simplemente un partido, y a los cristianos mismos los llamaban “secta” (Hch 24:5, 14). Acá el sentido es claramente negativo: herejías “de destrucción”, que arruinan la vida espiritual y moral de los creyentes.",
+     "fuentes": [
+      "kis2p_03_a#1",
+      "cbmh2p_01_a#29",
+      "ncb2p_01_b#2",
+      "mac2p_02_b#19"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "“Destrucción” aparece dos veces en el versículo: introducen herejías destructoras y se acarrean destrucción. Kistemaker lo llama una misión suicida.",
+     "fuentes": [
+      "kis2p_03_a#2",
+      "mbib2p_01_b#17"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:1c",
+   "titulo": "«Negarán al Señor que los rescató»",
+   "notas": [
+    {
+     "texto": "Pedro agrega «aun», como quien dice “llegan al extremo de…”. El título que usa para Jesús es el de amo absoluto (ver Palabras griegas), y junto con el verbo “comprar” pinta el mercado de esclavos: el amo compra siervos para que hagan su voluntad. Así describe el Nuevo Testamento la obra de Cristo, que compró a los suyos con su sangre (1Co 6:20; 1P 1:18-19); por eso el creyente no vive para agradarse a sí mismo.",
+     "fuentes": [
+      "kis2p_03_a#3",
+      "kis2p_03_a#4",
+      "cbmh2p_01_a#32",
+      "ncb2p_01_b#2"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "¿Cómo se niega al Señor? Roldán propone dos caminos: con la conducta (Tit 1:16) o negando su venida (3:3-4). MacArthur cree que quizás no negaban de palabra la deidad ni la resurrección: lo que no aceptaban era someter la vida a su gobierno, y su vida los delataba. Beacon recoge un criterio práctico para reconocer una herejía: si niega o no el señorío de Jesucristo.",
+     "fuentes": [
+      "cbmh2p_01_a#32",
+      "mac2p_02_b#20",
+      "mbib2p_01_b#18",
+      "bea2p_01_b#2"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Que gente que termina en destrucción haya sido comprada por el Señor es una de las frases más discutidas de la carta (ver Interpretaciones). Lo que todos ven claro es que estos maestros tienen un Dueño al que rechazan, y eso los lleva a la ruina.",
+     "fuentes": [
+      "kis2p_03_a#5",
+      "r1_017#8",
+      "nunez2p_01_b#19",
+      "mbib2p_01_b#19"
+     ],
+     "tipo": "interpretacion"
+    },
+    {
+     "texto": "La destrucción es “repentina”: rápida o inminente, en la muerte o al regreso de Cristo, según MacArthur. Y advierte: quien rechaza el señorío de Cristo no es un “creyente de segunda”; si no se arrepiente, enfrenta perdición.",
+     "fuentes": [
+      "mac2p_03_a#6",
+      "mbib2p_01_b#19"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:2",
+   "titulo": "«Muchos seguirán sus disoluciones»",
+   "notas": [
+    {
+     "texto": "Lo grave es que tienen éxito. El verbo “seguir” es el mismo de 1:16, donde Pedro dice que los apóstoles no siguieron fábulas. MacArthur explica el atractivo: un mensaje de independencia y exaltación personal le resulta cómodo al corazón caído. Wiersbe agrega que el error se vuelve popular porque permite vivir en pecado sin perder la religiosidad.",
+     "fuentes": [
+      "kis2p_03_a#6",
+      "mac2p_03_a#7",
+      "r1_007_a#13"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Lo que siguen es un estilo de vida: «disoluciones», conducta desenfrenada. Kistemaker señala que es la palabra que describe a los de Sodoma en el v. 7. Según el Nuevo Comentario Bíblico, el error de fondo era poner el conocimiento por encima de la práctica: total, la gracia lo perdona todo; Pedro ya lo había refutado (1P 1:15; 2P 1:4), igual que Pablo (Ro 6:1-2). Núñez lo generaliza: toda enseñanza falsa termina, con el tiempo, en conducta torcida.",
+     "fuentes": [
+      "kis2p_03_a#6",
+      "mac2p_03_a#8",
+      "ncb2p_01_b#3",
+      "nunez2p_01_b#20",
+      "bea2p_01_b#2"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "El resultado: «el camino de la verdad será blasfemado». “El Camino” era uno de los primeros nombres de la fe (Hch 9:2; 24:14), y Kistemaker cree que Pedro toma la expresión del Sal 119:30. Los cristianos viven en casa de vidrio: cuando los vecinos ven a quienes se dicen cristianos entregados a excesos, desprecian todo el camino. En la primera carta los creyentes eran calumniados por su buena conducta (1P 3:16); ahora la fe es insultada por la mala conducta de los de adentro.",
+     "fuentes": [
+      "kis2p_03_a#7",
+      "mac2p_03_a#9",
+      "ncb2p_01_b#3",
+      "mbib2p_01_b#20"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:3a",
+   "titulo": "«Por avaricia harán mercadería de vosotros con palabras fingidas»",
+   "notas": [
+    {
+     "texto": "Pedro desnuda el motivo. Para MacArthur, lo que de verdad mueve a estos maestros es el amor al dinero (cf. v. 14). Beacon deja abierto si buscan ganancia material o seguidores, pero en cualquier caso el motivo gira alrededor de ellos y no de Cristo.",
+     "fuentes": [
+      "mac2p_03_a#10",
+      "kis2p_03_a#8",
+      "bea2p_01_b#1"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "“Hacer mercadería” es lenguaje de comercio: el mercader busca su tajada y el comprador desprevenido termina explotado. Kistemaker recuerda que Pablo identifica la avaricia con la idolatría (Col 3:5); Núñez lo aplica al evangelio de la prosperidad, que llena los bolsillos de quienes lo predican y vacía los de quienes lo siguen.",
+     "fuentes": [
+      "kis2p_03_a#8",
+      "ncb2p_01_b#4",
+      "nunez2p_01_b#21"
+     ],
+     "tipo": "aplicacion"
+    },
+    {
+     "texto": "La herramienta son “palabras fingidas”, fabricadas a medida del oído del público (ver Palabras griegas). Wiersbe y McGee advierten que usan vocabulario bíblico con otro diccionario: importa no solo lo que el maestro dice, sino lo que quiere decir.",
+     "fuentes": [
+      "ncb2p_01_b#4",
+      "r1_007_a#13",
+      "mcg2p_02_a#19",
+      "mac2p_03_a#10"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:3b",
+   "titulo": "«La condenación no se tarda, y su perdición no se duerme»",
+   "notas": [
+    {
+     "texto": "Dos imágenes al estilo hebreo. La primera: el veredicto ya fue dictado «de largo tiempo» y el juicio no está inactivo. Kistemaker vincula ese “hace mucho” con los casos que Pedro cuenta enseguida (vv. 4-9); MacArthur lo remonta al juicio sobre la serpiente (Gn 3:13-15).",
+     "fuentes": [
+      "kis2p_03_a#9",
+      "mac2p_03_a#13",
+      "mbib2p_01_b#21"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "La segunda personifica la perdición como un verdugo que no duerme, listo para ejecutar la sentencia. La retribución es cierta aunque no llegue de inmediato. Como Dios es verdad y no puede mentir, juzgará a quienes mienten en su nombre, y los maestros recibirán juicio más estricto (Stg 3:1).",
+     "fuentes": [
+      "kis2p_03_a#9",
+      "mac2p_03_a#13",
+      "ncb2p_01_b#4",
+      "mac2p_03_a#11",
+      "mac2p_03_a#12"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "¿Y si parece que Dios duerme? Núñez recuerda que Dios demora el juicio por misericordia (3:9), pero es lento para la ira, no un Dios sin ira. McGee lo une al creyente que ve prosperar al impío: como en el Sal 73, se aprende a dejar la cuenta en manos de Dios (Ro 12:19).",
+     "fuentes": [
+      "nunez2p_01_b#23",
+      "mcg2p_02_b#1"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "2P 2:1",
+   "griego": "ψευδοδιδάσκαλοι",
+   "translit": "pseudodidáskaloi",
+   "significado": "Falsos maestros; según Vincent, citado por McGee, aparece solo aquí en el Nuevo Testamento. McGee lo define como quien conoce la verdad y enseña una mentira a sabiendas; no lo es quien se equivoca creyendo enseñar la verdad.",
+   "fuentes": [
+    "mcg2p_02_a#14"
+   ]
+  },
+  {
+   "ref": "2P 2:1",
+   "griego": "παρεισάξουσιν",
+   "translit": "pareisáxousin",
+   "significado": "Introducirán a escondidas, meterán de contrabando junto a lo que ya está.",
+   "fuentes": [
+    "mac2p_02_b#18",
+    "ncb2p_01_b#2"
+   ]
+  },
+  {
+   "ref": "2P 2:1",
+   "griego": "αἱρέσεις",
+   "translit": "haíreseis",
+   "significado": "Herejías. De “elegir”: una opinión escogida en lugar de la verdad recibida, que divide y forma partidos. Aparece nueve veces en el Nuevo Testamento, a veces neutra (secta) y aquí muy negativa.",
+   "fuentes": [
+    "cbmh2p_01_a#29",
+    "bea2p_01_b#2",
+    "mac2p_02_b#19",
+    "ncb2p_01_b#2"
+   ]
+  },
+  {
+   "ref": "2P 2:1",
+   "griego": "δεσπότης",
+   "translit": "despótēs",
+   "significado": "Amo, dueño con autoridad absoluta (de ahí “déspota”). Aparece diez veces en el Nuevo Testamento: a veces del amo de esclavos (1P 2:18) y en la mayoría de Dios; aplicado a Cristo, solo aquí y en Jd 4.",
+   "fuentes": [
+    "mac2p_02_b#20",
+    "mbib2p_01_b#18",
+    "ncb2p_01_b#2",
+    "kis2p_03_a#4"
+   ]
+  },
+  {
+   "ref": "2P 2:1",
+   "griego": "ἀγοράζω",
+   "translit": "agorázō",
+   "significado": "Comprar en el mercado (agorá); se usaba de la compra de esclavos y de ahí pasó a describir el rescate que Cristo pagó por los suyos.",
+   "fuentes": [
+    "cbmh2p_01_a#32",
+    "mbib2p_01_b#19",
+    "kis2p_03_a#4"
+   ]
+  },
+  {
+   "ref": "2P 2:2",
+   "griego": "ἀσέλγεια",
+   "translit": "asélgeia",
+   "significado": "Libertinaje, conducta desenfrenada y escandalosa; Pedro la usa en plural (disoluciones), porque toma muchas formas.",
+   "fuentes": [
+    "mac2p_03_a#8"
+   ]
+  },
+  {
+   "ref": "2P 2:3",
+   "griego": "πλαστός",
+   "translit": "plastós",
+   "significado": "Moldeado, fabricado, fingido; de la familia de “plástico”: palabras hechas a medida, que toman la forma que el público quiere.",
+   "fuentes": [
+    "kis2p_03_a#10",
+    "mcg2p_02_a#18",
+    "r1_007_a#13"
+   ]
+  },
+  {
+   "ref": "2P 2:3",
+   "griego": "κρίμα",
+   "translit": "kríma",
+   "significado": "Veredicto: el resultado de un proceso judicial. La sentencia ya está dictada.",
+   "fuentes": [
+    "kis2p_03_a#12"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Jesús es el Dueño que compró a los suyos. El título de amo absoluto, que el Nuevo Testamento usa sobre todo para Dios, Pedro y Judas se lo dan a Cristo; y el precio fue su propia sangre. La vida cristiana empieza por reconocer que ya no nos pertenecemos.",
+   "refs": [
+    "1P 1:18-19",
+    "1Co 6:19-20",
+    "Jd 4",
+    "Mr 10:45"
+   ],
+   "fuentes": [
+    "ncb2p_01_b#2",
+    "cbmh2p_01_a#32",
+    "kis2p_03_a#4",
+    "kis2p_03_a#3"
+   ]
+  },
+  {
+   "texto": "Por eso el criterio para discernir a un maestro pasa por Cristo: qué dice de Él y si se somete a Él. MacArthur afirma que toda religión falsa tiene una cristología errada; Beacon propone preguntar si se niega o no su señorío.",
+   "refs": [
+    "Mt 7:21"
+   ],
+   "fuentes": [
+    "mbib2p_01_b#18",
+    "bea2p_01_b#2",
+    "mac2p_03_a#7"
+   ]
+  },
+  {
+   "texto": "Contra las palabras moldeadas a gusto del público, Núñez pone a Cristo, que es la verdad y vino a dar testimonio de ella: a Él se acude frente a la falsa enseñanza.",
+   "refs": [
+    "Jn 18:37",
+    "Jn 14:6"
+   ],
+   "fuentes": [
+    "nunez2p_01_b#21",
+    "ncb2p_01_b#3"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "«El Señor que los rescató»: ¿por quiénes pagó Cristo y qué pasó con estos maestros?",
+   "posturas": [
+    {
+     "postura": "Cristo los compró de verdad. Kistemaker menciona a Lenski, para quien fueron comprados a precio de sangre para siempre, y a Alford, que ve aquí con toda claridad una redención universal.",
+     "quien": "Lenski y Alford, citados por Kistemaker",
+     "fuentes": [
+      "kis2p_03_a#5"
+     ]
+    },
+    {
+     "postura": "Ryrie admite que es el versículo más difícil para la expiación limitada. Su lectura: Cristo realmente pagó el rescate por ellos, pero nunca los poseyó, porque no fueron salvos.",
+     "quien": "Ryrie (Teología básica)",
+     "fuentes": [
+      "r1_017#8"
+     ]
+    },
+    {
+     "postura": "Profesaron, pero nunca fueron redimidos: su negación demostró que no eran del Señor (1J 2:19). Kistemaker: la muerte de Cristo alcanza para el mundo pero es eficaz en el pueblo escogido. Núñez plantea si perdieron la salvación y lo descarta: a los ojos de otros, y quizás de ellos mismos, eran rescatados, pero nunca fueron de la familia de Dios.",
+     "quien": "Kistemaker; Núñez",
+     "fuentes": [
+      "kis2p_03_a#5",
+      "nunez2p_01_b#19"
+     ]
+    },
+    {
+     "postura": "No es lenguaje de salvación sino de propiedad: el amo que compra esclavos que le deben lealtad, como Dios “compró” a Israel aunque lo rechazó (Dt 32:5-6); Pedro repetiría con ironía lo que ellos alegaban. MacArthur sostiene que Cristo expió realmente por los elegidos.",
+     "quien": "MacArthur (comentario y Biblia de estudio); MacArthur y Mayhue (Teología sistemática)",
+     "fuentes": [
+      "mbib2p_01_b#19",
+      "r1_017#22",
+      "mac2p_03_a#1",
+      "mac2p_03_a#3"
+     ]
+    }
+   ],
+   "nota": "Bajo la discusión hay dos temas: por quiénes murió Cristo y si un verdadero creyente puede perder la salvación. Kistemaker y Núñez descartan expresamente lo segundo; Kistemaker cita a Bauckham, que habla de “cristianos apóstatas”, y Roldán prefiere no definir hasta dónde llegaron. Lo que nadie discute: el Señor es Dueño, ellos lo negaron y van a la perdición. Ver el anexo T3."
+  }
+ ],
+ "antiguo_testamento": [
+  {
+   "ref": "Dt 13:1-5",
+   "nota": "La ley mandaba no escuchar al profeta que empujara al pueblo detrás de otros dioses: es el trasfondo de «hubo también falsos profetas entre el pueblo».",
+   "fuentes": [
+    "bea2p_01_b#1",
+    "ncb2p_01_b#2",
+    "mac2p_02_b#15",
+    "kis2p_02_b#28"
+   ]
+  },
+  {
+   "ref": "Jer 23:14-16",
+   "nota": "Jeremías compara a los falsos profetas de Jerusalén con Sodoma: cometen adulterio y andan en mentira. Mentira y vida corrupta juntas, como en 2P 2:2.",
+   "fuentes": [
+    "kis2p_02_b#28",
+    "r1_018_b#20"
+   ]
+  },
+  {
+   "ref": "Dt 32:5-6",
+   "nota": "Dios como Padre que “compró” a Israel aunque Israel se corrompió; varios autores ven aquí la alusión de Pedro (ver Interpretaciones).",
+   "fuentes": [
+    "mbib2p_01_b#19",
+    "r1_017#22",
+    "r1_017#8"
+   ]
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "Teología sistemática de MacArthur y Mayhue: para probar a un profeta o maestro, la Escritura da tres pruebas: la doctrina (¿concuerda con lo ya revelado?), la pureza moral (¿cómo vive?) y la exactitud (¿se cumple lo que anuncia?). Quien enseñaba falsa doctrina o vivía en lujuria y avaricia sin freno quedaba descalificado.",
+   "autor": "John MacArthur y Richard Mayhue",
+   "obra": "Teología sistemática",
+   "pagina": "PDF 1044",
+   "tipo": "doctrina"
+  },
+  {
+   "texto": "McGee aclara que no todo el que se equivoca es un falso maestro: algunos reformadores y padres de la iglesia enseñaron cosas que él considera erróneas, pero creían enseñar la verdad. El falso maestro sabe lo que hace. Y pide que a él mismo lo comparen con la Biblia: no alcanza con “lo dijo el programa”.",
+   "autor": "J. Vernon McGee",
+   "obra": "2 Pedro",
+   "pagina": "PDF 47-53",
+   "tipo": "aplicacion"
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Hch 20:28-30",
+   "nota": "Pablo avisa a los ancianos de Éfeso que entrarán lobos rapaces y que de entre ellos mismos se levantarán hombres que hablen cosas perversas: el mismo peligro desde adentro.",
+   "fuentes": [
+    "mcg2p_02_a#16",
+    "moodynt_02_a#2",
+    "kis2p_02_b#28"
+   ]
+  },
+  {
+   "ref": "Jd 4",
+   "nota": "Casi las mismas palabras: hombres infiltrados que convierten la gracia en libertinaje y niegan al único Soberano. Conviene leer 2 Pedro 2 al lado de Judas.",
+   "fuentes": [
+    "kis2p_02_b#29",
+    "ncb2p_01_b#1",
+    "mac2p_02_b#18"
+   ]
+  },
+  {
+   "ref": "1J 2:19",
+   "nota": "Salieron de nosotros, pero no eran de nosotros: el texto que Kistemaker y Núñez usan para leer el «que los rescató».",
+   "fuentes": [
+    "kis2p_03_a#5",
+    "nunez2p_01_b#19",
+    "nunez2p_01_b#13"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Comparen todo con la Escritura, incluso a los maestros que más aprecian. McGee pedía eso para sí mismo, y el capítulo anterior les dio la razón: la palabra profética es la vara segura.",
+   "fuentes": [
+    "mcg2p_02_a#10",
+    "r1_019#2"
+   ]
+  },
+  {
+   "texto": "Miren también la vida y el bolsillo. Un maestro que se promociona a sí mismo, que convierte a las personas en clientes o cuya vida contradice lo que enseña muestra lo que hay detrás.",
+   "fuentes": [
+    "mcg2p_02_a#20",
+    "r1_018_b#20",
+    "mac2p_03_a#8"
+   ]
+  },
+  {
+   "texto": "Recuerden que ustedes también viven en casa de vidrio: la doctrina verdadera tiene que producir una vida verdadera, en el matrimonio y frente a los vecinos. Así se responde al desprestigio del camino.",
+   "fuentes": [
+    "kis2p_03_a#7",
+    "mac2p_03_a#9"
+   ]
+  },
+  {
+   "texto": "No pongan el amor contra la verdad. MacArthur lamenta una tolerancia indiferente hacia la verdad en nombre del amor y la unidad; Pedro advierte por amor a las ovejas, con corazón de pastor.",
+   "fuentes": [
+    "mac2p_02_b#15",
+    "mbib2p_01_b#17",
+    "nunez2p_01_b#20"
+   ]
+  },
+  {
+   "texto": "Si ven prosperar a quien engaña, no se amarguen ni tomen la justicia en sus manos: la condenación no duerme, y Dios la ejecutará a su tiempo.",
+   "fuentes": [
+    "mcg2p_02_b#1",
+    "nunez2p_01_b#23"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "¿Qué enseñanzas que hoy circulan en iglesias, en redes o en la cultura mezclan verdad con error? ¿Cómo se darían cuenta ustedes de la mezcla?",
+  "Si negar al Señor es, ante todo, no someter la vida a su gobierno, ¿en qué parte de nuestra vida juntos nos cuesta más reconocerlo como Dueño?",
+  "Pedro une doctrina, conducta y dinero. ¿Qué preguntas concretas podemos hacernos antes de seguir o apoyar a un maestro, un libro o un ministerio?"
+ ],
+ "para_orar": "Señor Jesús, Dueño nuestro que nos compraste con tu sangre: líbranos de las palabras moldeadas a nuestro gusto y danos amor por tu verdad. Que lo que creemos se vea en cómo vivimos, para que tu camino sea honrado y no blasfemado por causa nuestra; y guardanos en tus manos, confiando en que tu justicia no duerme.",
+ "visuales": [
+  "dg-2p-judas",
+  "dg-falsos",
+  "dg-estructura-2p"
+ ],
+ "anexos": [
+  "T2",
+  "T3",
+  "I3"
+ ],
+ "profundizar": [
+  {
+   "titulo": "¿Quiénes eran y de cuándo es el retrato?",
+   "texto": "Kistemaker señala que quienes fechan la carta temprano reconocen en la vida y la doctrina de estos maestros el ambiente de mediados del siglo I (los abusos en las cenas de Corinto, las dudas sobre la resurrección y sobre la venida en Tesalónica); quienes la fechan tarde los identifican con los gnósticos del siglo II. Kistemaker sostiene lo primero: faltan rasgos esenciales del gnosticismo (como el demiurgo creador), y a lo sumo se ven precursores como los de Colosas. Owen, en cambio, aplica la profecía a gnósticos, marcionistas y maniqueos, y a la apostasía posterior de la iglesia visible. El Comentario Moody nota que el error parece estar más en la conducta que en la doctrina. Sobre autoría y fecha, ver el anexo I3.",
+   "fuentes": [
+    "kis2p_01_b#19",
+    "r1_019#17",
+    "moodynt_02_a#2"
+   ]
+  },
+  {
+   "titulo": "Otros argumentos sobre «que los rescató»",
+   "texto": "Ryrie responde a los argumentos particularistas: Judas 4 usa el mismo título para Cristo, Ap 14:4 tampoco menciona el precio, y en Lc 14:18-19 alguien compra sin haber tomado posesión. MacArthur y Mayhue, en cambio, dan cinco razones contra la lectura universal: el título se usa casi siempre del Padre, el verbo menciona el precio cuando habla de salvación, Pedro alude a Dt 32:6, puede estar hablando con ironía, y esa lectura negaría la redención eficaz.",
+   "fuentes": [
+    "r1_017#8",
+    "r1_017#22"
+   ]
+  },
+  {
+   "titulo": "La extensión de la expiación según MacArthur",
+   "texto": "MacArthur desarrolla a partir de este versículo su visión de la expiación. Parte de la incapacidad total del pecador (muerto en delitos y pecados, ciego, sin deseo de buscar a Dios): si el pecador no puede decidir por sí mismo, la salvación viene solo de Dios, que da vida, arrepentimiento y fe. Sostiene que toda postura que no es universalista limita la expiación de algún modo: o la limita el pecador o la limita Dios. Cita a Spurgeon, que replicaba que son los arminianos quienes la limitan, porque Cristo no habría muerto para asegurar la salvación de nadie en particular, y a Clotfelter, para quien una expiación por multitudes que nunca se salvan no expía de verdad. Esta es la postura de MacArthur; otros autores de la biblioteca leen el pasaje de otro modo (ver Interpretaciones).",
+   "fuentes": [
+    "mac2p_03_a#2",
+    "mac2p_03_a#3",
+    "mac2p_03_a#4",
+    "mac2p_03_a#5"
+   ]
+  },
+  {
+   "titulo": "La lista de Kistemaker: cómo describe el capítulo a los falsos maestros",
+   "texto": "Kistemaker resume lo que el capítulo y el siguiente dicen de ellos: rechazan a Jesucristo y su evangelio (2:1), repudian la conducta cristiana (2:2), desprecian la autoridad (2:10a), insultan a los seres celestiales (2:10b), viven en inmoralidad (2:13-14), prometen libertad siendo esclavos de la corrupción (2:19), se burlan de la venida de Cristo (3:4), niegan el juicio venidero (3:5-7) y tuercen las cartas de Pablo (3:16). Sirve de mapa para los próximos días.",
+   "fuentes": [
+    "kis2p_01_b#18"
+   ]
+  },
+  {
+   "titulo": "Cómo funciona la tentación, según Núñez",
+   "texto": "A propósito de los que caen, Núñez hace tres observaciones: solo nos tienta lo que el corazón desea; la tentación se fortalece cuando la imaginación arma escenarios hasta crear una realidad virtual; y una vez tentados racionalizamos hasta justificar el deseo. Detrás suele haber una idea equivocada de Dios, pero el problema principal es el corazón engañoso (Jer 17:9). También repasa los casos de abandono que menciona 2 Timoteo: Figelo y Hermógenes, Himeneo y Fileto, Demas, Alejandro.",
+   "fuentes": [
+    "nunez2p_01_b#14",
+    "nunez2p_01_b#13"
+   ]
+  },
+  {
+   "titulo": "Ejemplos modernos que dan los autores",
+   "texto": "El recuadro del Comentario Mundo Hispano recuerda los casos de Jim Jones (más de 900 muertos en Guyana, 1978) y de los davidianos de David Koresh (1993), y menciona movimientos nacidos desde el siglo XIX alrededor de un maestro que descubre o inventa una doctrina contraria a la fe histórica. McGee relata, a partir de una crónica de una revista cristiana, una reunión evangelística donde el predicador habló de sí mismo muchísimas más veces que de Cristo y nunca presentó el evangelio. Son ilustraciones de los autores; el criterio sigue siendo el de Pedro: qué hacen con Cristo, cómo viven, qué buscan.",
+   "fuentes": [
+    "cbmh2p_01_a#30",
+    "cbmh2p_01_a#31",
+    "mcg2p_02_a#19"
+   ]
+  },
+  {
+   "titulo": "Satanás, el primer falso maestro, y otros apuntes",
+   "texto": "Núñez ve en Satanás al primer falso maestro: en el Edén primero cuestionó la palabra de Dios, después la negó y finalmente la torció. Cuestionada, negada, distorsionada: la misma progresión que sigue el error hoy, siempre con disfraz. McGee explica la semejanza entre 2 Pedro 2 y Judas sin recurrir a que uno copió al otro: cuando Dios quiere enfatizar algo lo dice dos veces. Pedro habla de falsos maestros que vendrán; Judas, de los que ya llegaron.",
+   "fuentes": [
+    "nunez2p_01_b#17",
+    "nunez2p_01_b#18",
+    "mcg2p_02_a#15"
+   ]
+  }
+ ]
 }

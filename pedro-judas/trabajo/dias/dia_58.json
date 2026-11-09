@@ -4,173 +4,606 @@
   "desde": "2J 7",
   "hasta": "2J 13",
   "titulo": "Engañadores: no recibirlos en casa y cara a cara",
-  "minutos": {"lectura": 2, "estudio": 25},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "En 2J 1-6 el anciano saludó a la señora elegida y a sus hijos, se alegró de que anduvieran en la verdad y les recordó el mandamiento de amarse unos a otros. Ahora explica por qué ese amor necesita la verdad: hay engañadores dando vueltas.",
-    "ahora": "Juan describe a los engañadores (los que niegan a Jesucristo venido en carne), pide vigilancia para no perder lo trabajado, fija la prueba (permanecer en la doctrina de Cristo) y pone un límite concreto a la hospitalidad: no abrirle la casa al maestro del error. Cierra con el deseo de verlos cara a cara.",
+    "ahora": "Juan describe a los engañadores, pide vigilancia para no perder lo trabajado, fija la prueba (permanecer en la doctrina de Cristo) y pone un límite a la hospitalidad. Cierra con el deseo de verlos cara a cara.",
     "donde": "MacArthur ubica a Juan escribiendo desde Éfeso; Kistemaker aclara que no se sabe dónde vivían los lectores.",
     "despues": "En 3 Juan (día 59) aparece la otra cara de la misma moneda: la hospitalidad que sí hay que dar a los que predican la verdad, y el mal ejemplo de Diótrefes.",
-    "fuentes": ["mac23j_01_b#20", "kis23j_01_b#3", "kis1j_01_b#18", "mbib23j_01_a#15"]
+    "fuentes": [
+      "mac23j_01_b#20",
+      "kis23j_01_b#3",
+      "kis1j_01_b#18",
+      "mbib23j_01_a#15"
+    ]
   },
-  "versiculo_clave": {"ref": "2J 9", "porque": "Es la prueba que ordena todo el tramo: lo que alguien cree y enseña de Cristo decide si tiene o no al Padre y al Hijo, y por eso decide también a quién se le abre la casa."},
+  "versiculo_clave": {
+    "ref": "2J 9",
+    "porque": "Es la prueba que ordena todo el tramo: lo que alguien cree y enseña de Cristo decide si tiene o no al Padre y al Hijo, y por eso decide también a quién se le abre la casa."
+  },
   "panorama": {
     "texto": "Los versículos 7 al 11 son, según la Biblia MacArthur, el centro del pensamiento de la carta: Juan pone límites a la hospitalidad cristiana. El amor del que habló antes no es aceptar ingenuamente a cualquiera que diga representar a Cristo. Hay muchos engañadores que salieron al mundo, y se los reconoce por lo que dicen de Jesús: no confiesan que Jesucristo vino en carne. Frente a ellos Juan pide tres cosas: cuidarse para no perder el fruto del trabajo, permanecer en la doctrina de Cristo en vez de ir más allá, y no darles casa ni bienvenida, porque eso es hacerse socio de su obra. El final, en cambio, es cálido: Juan prefiere hablar en persona para que el gozo sea completo. Verdad y amor no compiten: la verdad le da forma al amor.",
-    "fuentes": ["mbib23j_01_a#15", "mac23j_01_b#5", "cbmh23j_01_a#22", "r1_007_b#31"]
+    "fuentes": [
+      "mbib23j_01_a#15",
+      "mac23j_01_b#5",
+      "cbmh23j_01_a#22",
+      "r1_007_b#31"
+    ]
   },
   "secciones": [
     {
       "rango": "2J 7",
       "titulo": "Muchos engañadores salieron al mundo",
       "notas": [
-        {"texto": "El versículo arranca con un «Porque» (en el griego, ὅτι causal): la advertencia explica por qué Juan acaba de insistir en andar en amor y en los mandamientos. Kistemaker nota que la frase se parece mucho a 1J 4:1, y Beacon recuerda que estos son los mismos engañadores contra quienes Juan ya había advertido en 1J 2:18-23.", "fuentes": ["kis23j_01_a#19", "kis23j_01_a#22", "bea23j_01#13"], "tipo": "exegesis"},
-        {"texto": "La frase «han salido por el mundo» usa el mismo verbo de 1J 2:19: se fueron de la comunidad. Varios autores (Kistemaker, el Nuevo Comentario Bíblico, Catalán) entienden que antes habían sido parte de la iglesia y que, al irse, convirtieron el mundo en el campo de sus doctrinas. Catalán lo dice así: como los cristianos salen al mundo a predicar, estos salían como emisarios itinerantes del error, buscando ganar adeptos.", "fuentes": ["cbmh23j_01_a#20", "kis23j_01_a#19", "ncb23j_01#4"], "tipo": "exegesis"},
-        {"texto": "¿Qué los delata? No confiesan que Jesucristo vino en carne. El error de fondo, como en 1 Juan, es la encarnación: negaban que el Hijo de Dios se hubiera hecho verdaderamente hombre. MacArthur los ve como precursores del gnosticismo del siglo II, que trataba la humanidad de Jesús como una ilusión. Catalán agrega que negar la encarnación arrastra todo lo demás: su vida, su muerte, su cuerpo realmente humano y la unión permanente de sus dos naturalezas. Jesús no se volvió Hijo de Dios en el bautismo ni dejó de serlo antes de morir.", "fuentes": ["ncb23j_01#4", "mac23j_01_b#7", "cbmh23j_01_a#21", "kis1j_01_b#17"], "tipo": "doctrina"},
-        {"texto": "¿Por qué importa tanto? Porque golpea el corazón del evangelio. MacArthur lo explica: si Jesús no fuera el Dios-hombre, plenamente humano y plenamente divino, no habría podido morir como sustituto. El Comentario Moody suma otro ángulo: si Cristo no fue genuinamente humano, la ética cristiana se queda sin base, porque no tendríamos un ejemplo real de amor que se entrega. Por eso el amor de 2J 5-6 y la verdad del v. 7 van atados.", "fuentes": ["mac23j_01_b#7", "moodynt_03_a#5"], "tipo": "doctrina"},
-        {"texto": "Juan no esquiva los nombres: quien hace esto es «el engañador y el anticristo». Kistemaker observa que, como empezó hablando de muchos, «el anticristo» funciona como nombre colectivo: el que se pone en el lugar de Cristo. Beacon y el Nuevo Comentario notan que «engañador» es un epíteto nuevo respecto de 1 Juan: subraya que extravía a otros. Matthew Henry saca una lección de calma: no debe sorprendernos que haya engañadores, porque los hubo ya en tiempos de los apóstoles; cuanto más abundan, más despiertos tienen que estar los discípulos. Sobre la relación con el anticristo final, ver Interpretaciones.", "fuentes": ["kis23j_01_a#21", "ncb23j_01#4", "bea23j_01#13", "mhenry_01_c#44"], "tipo": "exegesis"},
-        {"texto": "McGee pone un límite sano a esta prueba: lo que convierte a alguien en engañador es lo que cree de la persona de Cristo, no cualquier diferencia teológica. Wesley y Calvino discreparon sobre la elección, pero ambos creían en la deidad de Cristo, su nacimiento virginal y la doctrina apostólica; para McGee, quienes difieren en temas secundarios pero exaltan a Cristo y predican la salvación por la fe en su obra en la cruz son hermanos.", "fuentes": ["mcg2j_01#29"], "tipo": "aplicacion"}
+        {
+          "texto": "El versículo arranca con un «Porque» (en el griego, ὅτι causal): la advertencia explica por qué Juan acaba de insistir en andar en amor y en los mandamientos. Kistemaker nota que la frase se parece mucho a 1J 4:1, y Beacon recuerda que estos son los mismos engañadores contra quienes Juan ya había advertido en 1J 2:18-23.",
+          "fuentes": [
+            "kis23j_01_a#19",
+            "kis23j_01_a#22",
+            "bea23j_01#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La frase «han salido por el mundo» usa el mismo verbo de 1J 2:19: se fueron de la comunidad. Varios autores (Kistemaker, el Nuevo Comentario Bíblico, Catalán) entienden que antes habían sido parte de la iglesia y que, al irse, convirtieron el mundo en el campo de sus doctrinas. Catalán lo dice así: como los cristianos salen al mundo a predicar, estos salían como emisarios itinerantes del error, buscando ganar adeptos.",
+          "fuentes": [
+            "cbmh23j_01_a#20",
+            "kis23j_01_a#19",
+            "ncb23j_01#4"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Qué los delata? No confiesan que Jesucristo vino en carne. El error de fondo, como en 1 Juan, es la encarnación: negaban que el Hijo de Dios se hubiera hecho verdaderamente hombre. MacArthur los ve como precursores del gnosticismo del siglo II. Catalán agrega que negar la encarnación arrastra su vida, su muerte y su cuerpo realmente humano: Jesús no se volvió Hijo de Dios en el bautismo ni dejó de serlo antes de morir.",
+          "fuentes": [
+            "ncb23j_01#4",
+            "mac23j_01_b#7",
+            "cbmh23j_01_a#21",
+            "kis1j_01_b#17"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Por qué importa tanto? Porque golpea el corazón del evangelio. MacArthur lo explica: si Jesús no fuera el Dios-hombre, plenamente humano y plenamente divino, no habría podido morir como sustituto. El Comentario Moody suma otro ángulo: si Cristo no fue genuinamente humano, la ética cristiana se queda sin base, porque no tendríamos un ejemplo real de amor que se entrega. Por eso el amor de 2J 5-6 y la verdad del v. 7 van atados.",
+          "fuentes": [
+            "mac23j_01_b#7",
+            "moodynt_03_a#5"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Juan no esquiva los nombres: quien hace esto es «el engañador y el anticristo». Kistemaker lee «el anticristo» como nombre colectivo para los muchos engañadores; el Nuevo Comentario nota que «engañador» es un epíteto nuevo respecto de 1 Juan: subraya que extravía a otros. Henry agrega: no debe sorprendernos que los haya; cuanto más abundan, más despiertos hay que estar (ver Interpretaciones).",
+          "fuentes": [
+            "kis23j_01_a#21",
+            "ncb23j_01#4",
+            "mhenry_01_c#44"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "2J 8",
       "titulo": "Mirad por vosotros mismos: el galardón completo",
       "notas": [
-        {"texto": "«Mirad por vosotros mismos» ya no es un ruego sino una orden, dice Kistemaker, y le escucha un eco de Jesús en Mr 13:5, 9, 23, 33, cuando advirtió a los discípulos que nadie los engañara. El Comentario Moody señala que el peligro era doble: hay que examinar a los demás, pero también examinarse uno mismo.", "fuentes": ["kis23j_01_a#23", "moodynt_03_a#6"], "tipo": "exegesis"},
-        {"texto": "Lo que está en juego es el fruto de un trabajo hecho. Según Plummer (citado por Beacon) y el Comentario Moody, se trata de que los engañadores no deshagan lo que apóstoles y evangelistas habían construido en ellos. Catalán lo dice en términos de años: asociarse con el error es perder lo logrado con tiempo y esfuerzo. Hay una diferencia de manuscritos entre «vuestro» y «nuestro» trabajo (ver Interpretaciones), pero el sentido general no cambia.", "fuentes": ["bea23j_01#15", "moodynt_03_a#6", "cbmh23j_01_a#24"], "tipo": "exegesis"},
-        {"texto": "La meta positiva es recibir «galardón completo». Los autores del día coinciden en que no se habla de ganar ni de perder la salvación, sino de la recompensa por la fidelidad (ver Interpretaciones). Kistemaker aclara que aun esa recompensa es un regalo: una señal más de la gracia de Dios. El Nuevo Comentario apunta que los escritores del Nuevo Testamento no tenían la aversión moderna a hablar de recompensas, aunque nunca proponen servir solo por ellas: el servicio nace de la gratitud de corazones redimidos.", "fuentes": ["kis23j_01_a#25", "ncb23j_01#4", "cbmh23j_01_a#24", "mac23j_01_b#9", "mcg2j_01#30"], "tipo": "doctrina"},
-        {"texto": "La Biblia MacArthur une este versículo con el tema de la hospitalidad que viene: el creyente que no discierne con quién se asocia según la verdad puede ver disminuida su recompensa si ayuda o ampara a quienes propagan la mentira. MacArthur lo amplía: la iglesia recibió un legado por el que muchos pagaron caro, y hay que guardarlo, como Pablo le pidió a Timoteo que guardara el buen depósito (1Ti 6:20; 2Ti 1:13-14).", "fuentes": ["mbib23j_01_a#16", "mac23j_01_b#10"], "tipo": "aplicacion"}
+        {
+          "texto": "«Mirad por vosotros mismos» ya no es un ruego sino una orden, dice Kistemaker, y le escucha un eco de Jesús en Mr 13:5, 9, 23, 33, cuando advirtió a los discípulos que nadie los engañara. El Comentario Moody señala que el peligro era doble: hay que examinar a los demás, pero también examinarse uno mismo.",
+          "fuentes": [
+            "kis23j_01_a#23",
+            "moodynt_03_a#6"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Lo que está en juego es el fruto de un trabajo hecho. Según Plummer (citado por Beacon) y el Comentario Moody, se trata de que los engañadores no deshagan lo que apóstoles y evangelistas habían construido en ellos. Catalán lo dice en términos de años: asociarse con el error es perder lo logrado con tiempo y esfuerzo. Hay una diferencia de manuscritos entre «vuestro» y «nuestro» trabajo (ver Interpretaciones), pero el sentido general no cambia.",
+          "fuentes": [
+            "bea23j_01#15",
+            "moodynt_03_a#6",
+            "cbmh23j_01_a#24"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La meta positiva es recibir «galardón completo». Los autores del día coinciden en que no se habla de la salvación sino de la recompensa por la fidelidad (ver Interpretaciones), y Kistemaker aclara que aun esa recompensa es un regalo de la gracia. La Biblia MacArthur la une con lo que sigue: quien ampara a los que propagan la mentira puede ver disminuido su galardón.",
+          "fuentes": [
+            "kis23j_01_a#25",
+            "cbmh23j_01_a#24",
+            "mac23j_01_b#9",
+            "mcg2j_01#30",
+            "mbib23j_01_a#16"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "2J 9",
       "titulo": "Ir más allá o permanecer en la doctrina de Cristo",
       "notas": [
-        {"texto": "Donde la RVR1960 dice «se extravía», el verbo griego (προάγω) significa literalmente ir adelante, adelantarse. Otras versiones traducen pasa adelante, se excede, va demasiado lejos. McGee, Catalán y el Nuevo Comentario explican que los falsos maestros se presentaban como avanzados, con un conocimiento superior que dejaba atrás los rudimentos de la fe. La ironía de Juan es filosa: avanzaron tanto que se salieron del camino y dejaron a Dios atrás sin darse cuenta.", "fuentes": ["bea23j_01#16", "cbmh23j_01_a#25", "mcg2j_01#31", "ncb23j_01#4"], "tipo": "exegesis"},
-        {"texto": "MacArthur define el verbo, siguiendo un léxico, como ir más allá de los límites establecidos de la enseñanza. Esos límites están en la Escritura: no pensar más de lo que está escrito (1Co 4:6). Kistemaker suma un detalle del griego: un solo artículo gobierna los dos participios, de modo que adelantarse y no permanecer forman un solo concepto. Quien va más allá, por eso mismo, deja de permanecer.", "fuentes": ["mac23j_01_b#11", "kis23j_01_a#30"], "tipo": "exegesis"},
-        {"texto": "Esto no es una condena del estudio ni del crecimiento. Kistemaker recuerda que Juan no está contra el desarrollo de la doctrina ni contra crecer en el conocimiento de Cristo (2P 3:18); Beacon, siguiendo a Smith, dice que la teología sigue descubriendo los tesoros escondidos en Cristo. Lo que Juan rechaza es pasar de largo a Cristo. El progreso genuino, dice Kistemaker, siempre está enraizado en su enseñanza.", "fuentes": ["kis23j_01_a#27", "bea23j_01#16"], "tipo": "doctrina"},
-        {"texto": "Permanecer (μένω) es la palabra favorita de Juan: habitar, hacer morada. Catalán la describe como una conexión viva con la verdad y con el Padre y el Hijo. MacArthur nota que «tiene al Padre y al Hijo» es lenguaje de salvación, y lo une a Jn 14:23: el Padre y el Hijo hacen morada con quien ama a Jesús y guarda su palabra. Y del otro lado, el Comentario Moody observa que la frase positiva aclara la negativa: no tener a Dios es también no tener a Cristo.", "fuentes": ["cbmh23j_01_a#26", "mac23j_01_b#12", "moodynt_03_a#7"], "tipo": "doctrina"},
-        {"texto": "Para MacArthur este versículo resume la prueba de toda la literatura juanina: un verdadero cristiano y un verdadero predicador se reconocen por su doctrina sobre Cristo. Y no se conoce a Dios aparte del Cristo de las Escrituras; quien altera, agrega o niega lo que la Biblia dice de él no tiene a Dios, diga lo que diga.", "fuentes": ["mac23j_01_a#29", "mac23j_01_b#12", "mac23j_01_b#11"], "tipo": "doctrina"}
+        {
+          "texto": "Donde la RVR1960 dice «se extravía», el verbo griego (προάγω) significa literalmente ir adelante, adelantarse. Otras versiones traducen pasa adelante, se excede, va demasiado lejos. McGee, Catalán y el Nuevo Comentario explican que los falsos maestros se presentaban como avanzados, con un conocimiento superior que dejaba atrás los rudimentos de la fe. La ironía de Juan es filosa: avanzaron tanto que se salieron del camino y dejaron a Dios atrás sin darse cuenta.",
+          "fuentes": [
+            "bea23j_01#16",
+            "cbmh23j_01_a#25",
+            "mcg2j_01#31",
+            "ncb23j_01#4"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "MacArthur define el verbo como ir más allá de los límites establecidos de la enseñanza, límites que están en la Escritura (1Co 4:6). Kistemaker suma un detalle del griego: un solo artículo gobierna los dos participios, de modo que adelantarse y no permanecer forman un solo concepto.",
+          "fuentes": [
+            "mac23j_01_b#11",
+            "kis23j_01_a#30"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Esto no es una condena del estudio ni del crecimiento. Kistemaker recuerda que Juan no está contra el desarrollo de la doctrina ni contra crecer en el conocimiento de Cristo (2P 3:18); Beacon, siguiendo a Smith, dice que la teología sigue descubriendo los tesoros escondidos en Cristo. Lo que Juan rechaza es pasar de largo a Cristo. El progreso genuino, dice Kistemaker, siempre está enraizado en su enseñanza.",
+          "fuentes": [
+            "kis23j_01_a#27",
+            "bea23j_01#16"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Permanecer (μένω) es habitar, hacer morada: una conexión viva con la verdad y con el Padre y el Hijo, dice Catalán. MacArthur nota que «tiene al Padre y al Hijo» es lenguaje de salvación (cf. Jn 14:23) y que no se conoce a Dios aparte del Cristo de las Escrituras; para él, aquí está la prueba de todo verdadero cristiano y predicador.",
+          "fuentes": [
+            "cbmh23j_01_a#26",
+            "mac23j_01_b#12",
+            "mac23j_01_a#29"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "2J 10-11",
       "titulo": "No lo recibáis en casa",
       "notas": [
-        {"texto": "Para entender la orden hay que ver la escena. McGee describe que no había hoteles: en los mesones apenas se alquilaba un espacio para tender la propia cama entre mucha gente. Por eso las casas de los creyentes estaban abiertas a evangelistas y maestros itinerantes, y de esa hospitalidad dependía buena parte del ministerio (Lc 9:1-6; 10:1-12). El Nuevo Comentario explica la consecuencia: recibir a un predicador en casa significaba aceptar su mensaje y, además, ayudarlo a llevarlo al pueblo siguiente.", "fuentes": ["mcg2j_01#33", "mac23j_01_b#13", "ncb23j_01#5", "r1_001#23"], "tipo": "historia"},
-        {"texto": "El «Si alguno viene» no es una hipótesis lejana. Kistemaker, MacArthur y el Comentario Moody leen la construcción como un caso que se da por hecho: estos maestros llegaban a los hogares como amigos. MacArthur piensa que la señora, por compasión, probablemente ya los había recibido, y que buscaban justamente a personas generosas como ella; McGee reconstruye una historia parecida, pero es una deducción suya que el texto no afirma.", "fuentes": ["kis23j_01_a#31", "mac23j_01_b#14", "moodynt_03_a#8", "mcg2j_01#34"], "tipo": "exegesis"},
-        {"texto": "La prohibición tiene dos partes: no recibirlo en casa y no decirle ¡Bienvenido! El Comentario Moody y Kistemaker notan que son imperativos presentes con negación, que en griego suelen pedir que se deje de hacer lo que se venía haciendo. El saludo (χαίρειν) era el alegrate habitual entre cristianos; MacArthur y Catalán explican que dárselo al falso maestro sería expresarle una solidaridad y un gozo que no corresponden.", "fuentes": ["moodynt_03_a#8", "kis23j_01_b#2", "mac23j_01_b#16", "cbmh23j_01_a#27"], "tipo": "exegesis"},
-        {"texto": "¿Qué no prohíbe? MacArthur aclara que no se trata de apartarse de los que no saben, ni de dejar de invitar a incrédulos, aun de otra religión, a estar con creyentes: eso impediría darles la verdad. La Biblia MacArthur y Henry insisten en que no se refiere a quienes difieren en cosas secundarias; con ellos hay que mostrar bondad y buen espíritu. Lo prohibido es alojar y apoyar al maestro que viene a destruir las verdades básicas sobre Cristo. El alcance exacto se discute (ver Interpretaciones).", "fuentes": ["mac23j_01_b#13", "mbib23j_01_a#18", "mhenry_01_c#45"], "tipo": "aplicacion"},
-        {"texto": "El v. 11 da la razón: el que le da la bienvenida «participa en sus malas obras». El verbo es el de la comunión (κοινωνεῖ): quien lo acoge queda asociado a la obra del anticristo, explica el Comentario Moody. Kistemaker agrega que la palabra «malas» apunta al maligno, y que el cristiano que se pone bajo la enseñanza de ese maestro termina destruyendo su propia fe. La Biblia MacArthur resume: la hospitalidad a esos líderes ayuda a propagar la herejía y deja la impresión de que se la aprueba.", "fuentes": ["moodynt_03_a#8", "kis23j_01_a#31", "kis23j_01_b#2", "mbib23j_01_a#19"], "tipo": "exegesis"},
-        {"texto": "¿Es falta de amor? Geisler y Howe responden que no se contradice con amar al enemigo (Mt 5:44): son situaciones distintas, y negarle la plataforma al falso maestro puede ser el acto de amor más alto, porque le comunica que necesita arrepentirse, mientras que hospedarlo lo animaría. Kœchlin lo lleva a lo cotidiano: no soportaríamos que una visita nos mintiera sobre alguien que amamos; ¿y a quién amamos más que al Señor Jesús? Para MacArthur, el amor prohíbe dejar que el engaño se afiance entre los creyentes.", "fuentes": ["r1_001#23", "r1_012_b#6", "mac23j_01_b#17"], "tipo": "aplicacion"}
+        {
+          "texto": "Para entender la orden hay que ver la escena. McGee describe que no había hoteles: en los mesones apenas se alquilaba un espacio para tender la propia cama entre mucha gente. Por eso las casas de los creyentes estaban abiertas a evangelistas y maestros itinerantes, y de esa hospitalidad dependía buena parte del ministerio (Lc 9:1-6; 10:1-12). El Nuevo Comentario explica la consecuencia: recibir a un predicador en casa significaba aceptar su mensaje y, además, ayudarlo a llevarlo al pueblo siguiente.",
+          "fuentes": [
+            "mcg2j_01#33",
+            "mac23j_01_b#13",
+            "ncb23j_01#5",
+            "r1_001#23"
+          ],
+          "tipo": "historia"
+        },
+        {
+          "texto": "El «Si alguno viene» no es una hipótesis lejana: Kistemaker, MacArthur y el Comentario Moody lo leen como un caso que se da por hecho. MacArthur piensa que la señora, por compasión, probablemente ya los había recibido; McGee reconstruye algo parecido, pero es una deducción que el texto no afirma.",
+          "fuentes": [
+            "kis23j_01_a#31",
+            "mac23j_01_b#14",
+            "moodynt_03_a#8",
+            "mcg2j_01#34"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La prohibición tiene dos partes: no recibirlo en casa y no decirle ¡Bienvenido! El Comentario Moody y Kistemaker notan que son imperativos presentes con negación, que en griego suelen pedir que se deje de hacer lo que se venía haciendo. El saludo (χαίρειν) era el alegrate habitual entre cristianos; MacArthur y Catalán explican que dárselo al falso maestro sería expresarle una solidaridad y un gozo que no corresponden.",
+          "fuentes": [
+            "moodynt_03_a#8",
+            "kis23j_01_b#2",
+            "mac23j_01_b#16",
+            "cbmh23j_01_a#27"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Qué no prohíbe? MacArthur aclara que no se trata de apartarse de los que no saben, ni de dejar de invitar a incrédulos, aun de otra religión, a estar con creyentes: eso impediría darles la verdad. La Biblia MacArthur y Henry insisten en que no se refiere a quienes difieren en cosas secundarias; con ellos hay que mostrar bondad y buen espíritu. Lo prohibido es alojar y apoyar al maestro que viene a destruir las verdades básicas sobre Cristo. El alcance exacto se discute (ver Interpretaciones).",
+          "fuentes": [
+            "mac23j_01_b#13",
+            "mbib23j_01_a#18",
+            "mhenry_01_c#45"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "El v. 11 da la razón: el que le da la bienvenida «participa en sus malas obras». El verbo (κοινωνεῖ) es el de la comunión: quien lo acoge queda asociado a la obra del anticristo, explica el Comentario Moody, y deja la impresión de que aprueba su enseñanza (Biblia MacArthur). Kistemaker agrega que «malas» apunta al maligno.",
+          "fuentes": [
+            "moodynt_03_a#8",
+            "kis23j_01_b#2",
+            "mbib23j_01_a#19"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Es falta de amor? Geisler y Howe responden que no contradice amar al enemigo (Mt 5:44): negarle la plataforma al falso maestro le comunica que necesita arrepentirse, mientras que hospedarlo lo animaría. Kœchlin lo lleva a lo cotidiano: no soportaríamos que una visita nos mintiera sobre alguien que amamos; ¿y a quién amamos más que al Señor Jesús?",
+          "fuentes": [
+            "r1_001#23",
+            "r1_012_b#6"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "2J 12-13",
       "titulo": "Cara a cara, para que el gozo sea cumplido",
       "notas": [
-        {"texto": "Después de tanta firmeza, el tono cambia. Juan tiene muchas cosas para decir pero no quiere hacerlo con papel y tinta. La Biblia MacArthur explica que el papel era una hoja de papiro, en la que entraba entera esta carta, y que la tinta se hacía con agua, carbón y resina. El Nuevo Comentario aclara que no termina por falta de tema: ya dijo lo urgente y deja lo demás para el encuentro.", "fuentes": ["mbib23j_01_a#20", "ncb23j_01#6", "kis23j_01_b#3"], "tipo": "historia"},
-        {"texto": "La expresión «cara a cara» es en griego, literalmente, boca a boca (στόμα πρὸς στόμα), la misma expresión de Nm 12:8, donde Dios dice que habla así con Moisés. Catalán imagina la razón práctica: en persona se oye el tono de la voz y se ve el rostro, y es difícil malinterpretar. MacArthur ve aquí el corazón pastoral de Juan. Henry lo resume: la carta sirve para consolar, pero verse es mejor.", "fuentes": ["mac23j_01_b#18", "dbmh_01_a#15", "cbmh23j_01_a#29", "mhenry_01_c#46"], "tipo": "exegesis"},
-        {"texto": "La meta es «que nuestro gozo sea cumplido», las mismas palabras de 1J 1:4. Ese «nuestro» une el gozo del apóstol con el de los lectores. La Biblia MacArthur liga el gozo con lo que acaba de enseñar: cuando la comunión se cuida según la verdad, el resultado es alegría genuina entre hermanos.", "fuentes": ["cbmh23j_01_a#29", "ncb23j_01#6", "mbib23j_01_a#21", "kis23j_01_b#3"], "tipo": "doctrina"},
-        {"texto": "El saludo final viene de los hijos de la hermana elegida. Si se toma literal, son sobrinos de la señora; si «la señora» es una iglesia, son los miembros de la congregación donde estaba Juan (ver Interpretaciones). El Comentario Moody y Kistemaker notan que el cierre se parece mucho al de 3 Juan, por lo que las dos cartas pudieron escribirse por la misma época.", "fuentes": ["mbib23j_01_a#22", "kis23j_01_b#5", "moodynt_03_a#9", "kis23j_01_b#3"], "tipo": "exegesis"}
+        {
+          "texto": "Después de tanta firmeza, el tono cambia. Juan tiene mucho para decir pero no con papel y tinta: una hoja de papiro, en la que entraba entera esta carta, y tinta de agua, carbón y resina (Biblia MacArthur). Ya dijo lo urgente; lo demás espera el encuentro.",
+          "fuentes": [
+            "mbib23j_01_a#20",
+            "ncb23j_01#6",
+            "kis23j_01_b#3"
+          ],
+          "tipo": "historia"
+        },
+        {
+          "texto": "La expresión «cara a cara» es literalmente boca a boca (στόμα πρὸς στόμα), como en Nm 12:8, donde Dios habla así con Moisés. Catalán imagina la razón: en persona se oye el tono y se ve el rostro. Henry lo resume: la carta consuela, pero verse es mejor.",
+          "fuentes": [
+            "mac23j_01_b#18",
+            "dbmh_01_a#15",
+            "cbmh23j_01_a#29",
+            "mhenry_01_c#46"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La meta es «que nuestro gozo sea cumplido», las mismas palabras de 1J 1:4. Ese «nuestro» une el gozo del apóstol con el de los lectores. La Biblia MacArthur liga el gozo con lo que acaba de enseñar: cuando la comunión se cuida según la verdad, el resultado es alegría genuina entre hermanos.",
+          "fuentes": [
+            "cbmh23j_01_a#29",
+            "ncb23j_01#6",
+            "mbib23j_01_a#21",
+            "kis23j_01_b#3"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "El saludo final viene de los hijos de la hermana elegida. Si se toma literal, son sobrinos de la señora; si «la señora» es una iglesia, son los miembros de la congregación donde estaba Juan (ver Interpretaciones). El Comentario Moody y Kistemaker notan que el cierre se parece mucho al de 3 Juan, por lo que las dos cartas pudieron escribirse por la misma época.",
+          "fuentes": [
+            "mbib23j_01_a#22",
+            "kis23j_01_b#5",
+            "moodynt_03_a#9",
+            "kis23j_01_b#3"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "2J 7", "griego": "πλάνος", "translit": "plános", "significado": "Engañador. Literalmente vagabundo, el que se desvía (de la misma raíz viene planeta); de ahí, el que corrompe la verdad y aleja a otros de ella. Juan lo usa solo acá.", "fuentes": ["mac23j_01_b#5", "bea23j_01#13"]},
-    {"ref": "2J 7", "griego": "ἐρχόμενον", "translit": "erchómenon", "significado": "Viniendo. Participio presente: Kistemaker lo lee como un título de Cristo, el que viene; Moody, como la continuidad de su humanidad.", "fuentes": ["kis23j_01_a#20", "kis23j_01_a#22", "moodynt_03_a#5"]},
-    {"ref": "2J 9", "griego": "προάγων", "translit": "proágōn", "significado": "El que va adelante, se adelanta. Ir más allá de los límites de la enseñanza; los que se creían avanzados.", "fuentes": ["mac23j_01_b#11", "mcg2j_01#31", "kis23j_01_a#30"]},
-    {"ref": "2J 9", "griego": "μένων", "translit": "ménōn", "significado": "El que permanece. Habitar, quedarse, hacer morada: adhesión constante.", "fuentes": ["mac23j_01_b#12", "cbmh23j_01_a#26"]},
-    {"ref": "2J 10", "griego": "χαίρειν", "translit": "chaírein", "significado": "Alegrate, regocijate: el saludo de bienvenida habitual entre cristianos.", "fuentes": ["mac23j_01_b#16", "cbmh23j_01_a#27", "moodynt_03_a#8"]}
+    {
+      "ref": "2J 7",
+      "griego": "πλάνος",
+      "translit": "plános",
+      "significado": "Engañador. Literalmente vagabundo, el que se desvía (de la misma raíz viene planeta); de ahí, el que corrompe la verdad y aleja a otros de ella. Juan lo usa solo acá.",
+      "fuentes": [
+        "mac23j_01_b#5",
+        "bea23j_01#13"
+      ]
+    },
+    {
+      "ref": "2J 7",
+      "griego": "ἐρχόμενον",
+      "translit": "erchómenon",
+      "significado": "Viniendo. Participio presente: Kistemaker lo lee como un título de Cristo, el que viene; Moody, como la continuidad de su humanidad.",
+      "fuentes": [
+        "kis23j_01_a#20",
+        "kis23j_01_a#22",
+        "moodynt_03_a#5"
+      ]
+    },
+    {
+      "ref": "2J 9",
+      "griego": "προάγων",
+      "translit": "proágōn",
+      "significado": "El que va adelante, se adelanta. Ir más allá de los límites de la enseñanza; los que se creían avanzados.",
+      "fuentes": [
+        "mac23j_01_b#11",
+        "mcg2j_01#31",
+        "kis23j_01_a#30"
+      ]
+    },
+    {
+      "ref": "2J 9",
+      "griego": "μένων",
+      "translit": "ménōn",
+      "significado": "El que permanece. Habitar, quedarse, hacer morada: adhesión constante.",
+      "fuentes": [
+        "mac23j_01_b#12",
+        "cbmh23j_01_a#26"
+      ]
+    },
+    {
+      "ref": "2J 10",
+      "griego": "χαίρειν",
+      "translit": "chaírein",
+      "significado": "Alegrate, regocijate: el saludo de bienvenida habitual entre cristianos.",
+      "fuentes": [
+        "mac23j_01_b#16",
+        "cbmh23j_01_a#27",
+        "moodynt_03_a#8"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "La prueba de la verdad en este pasaje es una persona. Juan usa el nombre completo, Jesucristo, para recordar que el Hijo es a la vez divino y humano. Lo llama además el que viene, un título mesiánico que aparece en los Evangelios y en Apocalipsis. Por eso la encarnación no es solo un hecho del pasado: el Hijo sigue siendo hombre.", "refs": ["Mt 11:2", "Jn 1:15", "Ap 1:4"], "fuentes": ["kis23j_01_a#20", "moodynt_03_a#5", "cbmh23j_01_a#21"]},
-    {"texto": "En el v. 9 Juan escribe la doctrina de Cristo y pone a Cristo al mismo nivel del Padre: nadie tiene al Padre sin el Hijo. Kistemaker ve aquí otra afirmación de su divinidad, y señala que es el único lugar de las cartas de Juan donde aparece Cristo solo, sin Jesús, junto a Dios.", "refs": ["1J 2:23-24", "1J 5:12"], "fuentes": ["kis23j_01_a#29"]},
-    {"texto": "MacArthur reúne lo que Juan enseña de Jesús frente a los que lo atacaban: es Dios el Hijo, el abogado de los suyos ante el Padre, cuya muerte fue propiciación por nuestros pecados; vino a deshacer las obras del diablo, el Padre lo envió como Salvador, y solo quien cree el testimonio de Dios sobre él tiene vida eterna.", "refs": ["1J 2:1-2", "1J 3:8", "1J 4:14", "1J 5:9-13"], "fuentes": ["mac23j_01_b#8"]}
+    {
+      "texto": "La prueba de la verdad en este pasaje es una persona. Juan usa el nombre completo, Jesucristo, para recordar que el Hijo es a la vez divino y humano. Lo llama además el que viene, un título mesiánico que aparece en los Evangelios y en Apocalipsis. Por eso la encarnación no es solo un hecho del pasado: el Hijo sigue siendo hombre.",
+      "refs": [
+        "Mt 11:2",
+        "Jn 1:15",
+        "Ap 1:4"
+      ],
+      "fuentes": [
+        "kis23j_01_a#20",
+        "moodynt_03_a#5",
+        "cbmh23j_01_a#21"
+      ]
+    },
+    {
+      "texto": "En el v. 9 Juan escribe la doctrina de Cristo y pone a Cristo al mismo nivel del Padre: nadie tiene al Padre sin el Hijo. Kistemaker ve aquí otra afirmación de su divinidad, y señala que es el único lugar de las cartas de Juan donde aparece Cristo solo, sin Jesús, junto a Dios.",
+      "refs": [
+        "1J 2:23-24",
+        "1J 5:12"
+      ],
+      "fuentes": [
+        "kis23j_01_a#29"
+      ]
+    },
+    {
+      "texto": "MacArthur reúne lo que Juan enseña de Jesús frente a sus atacantes: es Dios el Hijo, nuestro abogado ante el Padre, cuya muerte fue propiciación por nuestros pecados, y solo quien cree el testimonio de Dios sobre él tiene vida eterna.",
+      "refs": [
+        "1J 2:1-2",
+        "1J 5:9-13"
+      ],
+      "fuentes": [
+        "mac23j_01_b#8"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿«Venido en carne» se refiere a la encarnación o a la segunda venida?",
       "posturas": [
-        {"postura": "Por el participio presente (viniendo), Dodd entendió una referencia a la segunda venida.", "quien": "Dodd (citado por Blaney en Beacon)", "fuentes": ["bea23j_01#14"]},
-        {"postura": "Es la misma prueba de 1J 4:2-3: la encarnación. El presente casi no difiere del pasado de 1J 4:2; describe a Cristo mismo, el que viene.", "quien": "Blaney (Beacon), Kistemaker, Nuevo Comentario Bíblico", "fuentes": ["bea23j_01#14", "kis23j_01_a#20", "ncb23j_01#4"]},
-        {"postura": "Lo central es la encarnación, pero el presente subraya también la continuidad de su humanidad e incluso su manifestación futura.", "quien": "Comentario Moody (Harrison, ed.)", "fuentes": ["moodynt_03_a#5"]}
+        {
+          "postura": "Por el participio presente (viniendo), Dodd entendió una referencia a la segunda venida.",
+          "quien": "Dodd (citado por Blaney en Beacon)",
+          "fuentes": [
+            "bea23j_01#14"
+          ]
+        },
+        {
+          "postura": "Es la misma prueba de 1J 4:2-3: la encarnación. El presente casi no difiere del pasado de 1J 4:2; describe a Cristo mismo, el que viene.",
+          "quien": "Blaney (Beacon), Kistemaker, Nuevo Comentario Bíblico",
+          "fuentes": [
+            "bea23j_01#14",
+            "kis23j_01_a#20",
+            "ncb23j_01#4"
+          ]
+        },
+        {
+          "postura": "Lo central es la encarnación, pero el presente subraya también la continuidad de su humanidad e incluso su manifestación futura.",
+          "quien": "Comentario Moody (Harrison, ed.)",
+          "fuentes": [
+            "moodynt_03_a#5"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que negar que el Hijo de Dios se hizo verdaderamente hombre es el error que Juan denuncia."
     },
     {
       "tema": "El anticristo de 2J 7 y el anticristo del fin",
       "posturas": [
-        {"postura": "«El anticristo» es acá un nombre colectivo para los muchos engañadores.", "quien": "Kistemaker", "fuentes": ["kis23j_01_a#21"]},
-        {"postura": "Los anticristos presentes anticipan a un anticristo venidero; el hombre de pecado se revelará al final, pero su espíritu ya está en el mundo.", "quien": "Catalán (Mundo Hispano); Wiersbe", "fuentes": ["cbmh23j_01_a#21", "r1_007_b#31"]},
-        {"postura": "Lectura futurista: ese espíritu culminará en dos figuras de Ap 13, un líder político y uno religioso, antes de que Cristo venga a establecer su reino.", "quien": "McGee", "fuentes": ["mcg2j_01#26"]}
+        {
+          "postura": "«El anticristo» es acá un nombre colectivo para los muchos engañadores.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis23j_01_a#21"
+          ]
+        },
+        {
+          "postura": "Los anticristos presentes anticipan a uno venidero; su espíritu ya está en el mundo.",
+          "quien": "Catalán (Mundo Hispano); Wiersbe",
+          "fuentes": [
+            "cbmh23j_01_a#21",
+            "r1_007_b#31"
+          ]
+        },
+        {
+          "postura": "Lectura futurista: ese espíritu culminará en dos figuras de Ap 13, un líder político y uno religioso, antes de que Cristo venga a establecer su reino.",
+          "quien": "McGee",
+          "fuentes": [
+            "mcg2j_01#26"
+          ]
+        }
       ],
-      "nota": "Las lecturas no se excluyen del todo; difieren en cuánto ven en el pasaje sobre el fin. Todos afirman que el espíritu del anticristo ya obraba en tiempos de Juan."
+      "nota": "Todos afirman que el espíritu del anticristo ya obraba en tiempos de Juan."
     },
     {
       "tema": "2J 8 y 9: ¿qué se pierde y qué muestra el que no permanece?",
       "posturas": [
-        {"postura": "Lo que se arriesga en el v. 8 es la recompensa por la fidelidad, no la salvación, que no se pierde.", "quien": "MacArthur, McGee, Kistemaker, Catalán, Ryrie (Teología básica)", "fuentes": ["mac23j_01_b#9", "mcg2j_01#30", "kis23j_01_a#25", "cbmh23j_01_a#24", "r1_017#10"]},
-        {"postura": "Sobre el v. 9: el que no permanece supone a alguien que alguna vez permaneció; extraviarse es dejar a Dios atrás.", "quien": "Catalán (Mundo Hispano)", "fuentes": ["cbmh23j_01_a#26"]},
-        {"postura": "Sobre el v. 9: quien no es fiel a las doctrinas fundamentales sobre Cristo demuestra que nunca nació de nuevo.", "quien": "Biblia de estudio MacArthur", "fuentes": ["mbib23j_01_a#17"]}
+        {
+          "postura": "Lo que se arriesga en el v. 8 es la recompensa por la fidelidad, no la salvación, que no se pierde.",
+          "quien": "MacArthur, McGee, Kistemaker, Catalán, Ryrie (Teología básica)",
+          "fuentes": [
+            "mac23j_01_b#9",
+            "mcg2j_01#30",
+            "kis23j_01_a#25",
+            "cbmh23j_01_a#24",
+            "r1_017#10"
+          ]
+        },
+        {
+          "postura": "Sobre el v. 9: el que no permanece supone a alguien que alguna vez permaneció; extraviarse es dejar a Dios atrás.",
+          "quien": "Catalán (Mundo Hispano)",
+          "fuentes": [
+            "cbmh23j_01_a#26"
+          ]
+        },
+        {
+          "postura": "Sobre el v. 9: quien no es fiel a las doctrinas fundamentales sobre Cristo demuestra que nunca nació de nuevo.",
+          "quien": "Biblia de estudio MacArthur",
+          "fuentes": [
+            "mbib23j_01_a#17"
+          ]
+        }
       ],
       "nota": "Es uno de los puntos donde las tradiciones leen distinto la relación entre perseverancia y seguridad. Ver el anexo T3."
     },
     {
-      "tema": "Variante textual del v. 8: «vuestro» o «nuestro» trabajo",
-      "posturas": [
-        {"postura": "Segunda persona (vuestro trabajo), como la RVR1960; Moody dice que no perdáis tiene más apoyo, aunque refiere el trabajo a los apóstoles.", "quien": "Comentario Moody", "fuentes": ["moodynt_03_a#6"]},
-        {"postura": "No perdáis lo que trabajamos: es la lectura más difícil y por eso preferible, aunque sin dogmatismo.", "quien": "Kistemaker", "fuentes": ["kis23j_01_a#24"]}
-      ],
-      "nota": "Beacon señala que el sentido general no cambia: que los engañadores no deshagan la obra hecha."
-    },
-    {
-      "tema": "«La doctrina de Cristo»: ¿la que él enseñó o la que habla de él?",
-      "posturas": [
-        {"postura": "Genitivo subjetivo: la enseñanza que viene de Cristo mismo (cf. Jn 7:16-17).", "quien": "Kistemaker; Comentario Moody", "fuentes": ["kis23j_01_a#28", "moodynt_03_a#7"]},
-        {"postura": "Puede ser cualquiera de las dos, porque su enseñanza y la enseñanza bíblica sobre él concuerdan plenamente.", "quien": "MacArthur", "fuentes": ["mac23j_01_b#12"]}
-      ],
-      "nota": ""
-    },
-    {
       "tema": "¿Hasta dónde llega el no recibirlo en casa?",
       "posturas": [
-        {"postura": "No hay que tomar la decisión del anciano como guía suficiente frente al deber de hospedar forasteros (He 13:2).", "quien": "Dodd y Barclay (según Kistemaker)", "fuentes": ["kis23j_01_a#32"]},
-        {"postura": "No contradice la hospitalidad: habla del maestro que viene a destruir la iglesia, no del viajero necesitado; la casa pudo ser también la iglesia que se reunía en una casa.", "quien": "Kistemaker", "fuentes": ["kis23j_01_a#32"]},
-        {"postura": "Hay que leerlo a la luz de las circunstancias locales, sin usarlo para rechazar a todo el que disiente ni para justificar una tolerancia fácil.", "quien": "Blaney (Beacon), siguiendo a Smith", "fuentes": ["bea23j_01#17"]},
-        {"postura": "Prohíbe alojar y apoyar a falsos maestros itinerantes, no recibir a incrédulos para darles la verdad.", "quien": "MacArthur", "fuentes": ["mac23j_01_b#13"]}
+        {
+          "postura": "No hay que tomar la decisión del anciano como guía suficiente frente al deber de hospedar forasteros (He 13:2).",
+          "quien": "Dodd y Barclay (según Kistemaker)",
+          "fuentes": [
+            "kis23j_01_a#32"
+          ]
+        },
+        {
+          "postura": "Habla del maestro que viene a destruir la iglesia, no del viajero necesitado; la casa pudo ser la iglesia que se reunía en ella.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis23j_01_a#32"
+          ]
+        },
+        {
+          "postura": "Hay que leerlo a la luz de las circunstancias locales, sin usarlo para rechazar a todo el que disiente ni para justificar una tolerancia fácil.",
+          "quien": "Blaney (Beacon), siguiendo a Smith",
+          "fuentes": [
+            "bea23j_01#17"
+          ]
+        },
+        {
+          "postura": "Prohíbe alojar y apoyar a falsos maestros itinerantes, no recibir a incrédulos para darles la verdad.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac23j_01_b#13"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que no se trata de diferencias menores sino de quien niega la verdad sobre Cristo."
     },
     {
       "tema": "«Los hijos de tu hermana, la elegida»",
       "posturas": [
-        {"postura": "Literal: los sobrinos de la señora.", "quien": "Biblia de estudio MacArthur", "fuentes": ["mbib23j_01_a#22"]},
-        {"postura": "Figurado: una iglesia hermana, cuyos miembros saludan; Juan sería parte de ella (comp. 1P 5:13).", "quien": "Kistemaker; Blaney (Beacon)", "fuentes": ["kis23j_01_b#5", "bea23j_01#18"]},
-        {"postura": "Deja abiertas las dos posibilidades.", "quien": "McGee", "fuentes": ["mcg2j_01#36"]}
+        {
+          "postura": "Literal: los sobrinos de la señora.",
+          "quien": "Biblia de estudio MacArthur",
+          "fuentes": [
+            "mbib23j_01_a#22"
+          ]
+        },
+        {
+          "postura": "Figurado: una iglesia hermana, cuyos miembros saludan; Juan sería parte de ella (comp. 1P 5:13).",
+          "quien": "Kistemaker; Blaney (Beacon)",
+          "fuentes": [
+            "kis23j_01_b#5",
+            "bea23j_01#18"
+          ]
+        },
+        {
+          "postura": "Deja abiertas las dos posibilidades.",
+          "quien": "McGee",
+          "fuentes": [
+            "mcg2j_01#36"
+          ]
+        }
       ],
       "nota": "Depende de cómo se entienda la señora elegida del v. 1 (día 57)."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Nm 12:8", "nota": "Boca a boca es la expresión con que Dios describe su trato directo con Moisés; Juan la usa para el encuentro personal que desea.", "fuentes": ["mbib23j_01_a#20", "mac23j_01_b#18", "kis23j_01_b#3"]}
+    {
+      "ref": "Nm 12:8",
+      "nota": "Boca a boca es la expresión con que Dios describe su trato directo con Moisés; Juan la usa para el encuentro personal que desea.",
+      "fuentes": [
+        "mbib23j_01_a#20",
+        "mac23j_01_b#18",
+        "kis23j_01_b#3"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "La Didaché (Doctrina de los Doce Apóstoles, 11:1-2), quizá contemporánea de estas cartas, da una regla parecida: recibir al que enseña lo recibido y no escuchar al que enseña otra doctrina para destruir.", "autor": "Simon J. Kistemaker", "obra": "Comentario al NT: 1 Juan", "pagina": "PDF 178-179", "tipo": "historia", "fuentes": ["kis1j_01_b#19"]},
-    {"texto": "Ireneo cuenta que Juan, al ver al hereje Cerinto en un baño público de Éfeso, salió sin saludarlo y advirtió a los suyos que huyeran. McGee aclara que puede ser verdad o solo tradición, pero refleja la postura de Juan.", "autor": "John MacArthur; J. Vernon McGee", "obra": "Comentario MacArthur 2 y 3 Juan; A través de la Biblia: 2 Juan", "pagina": "PDF 166; PDF 30", "tipo": "historia", "fuentes": ["mac23j_01_b#15", "mcg2j_01#27"]},
-    {"texto": "Para mostrar cómo esta firmeza convive con el amor, Kistemaker cuenta de un padre que amaba a su hijo, un oficial que vendió secretos militares al enemigo, y aun así dijo que debía ser juzgado: quien traicionó a Cristo y quiere entrar en los hogares para destruir la fe no puede ser recibido como amigo.", "autor": "Simon J. Kistemaker", "obra": "Comentario al NT: 2 y 3 Juan", "pagina": "PDF 319", "tipo": "ilustracion", "fuentes": ["kis23j_01_b#1"]},
-    {"texto": "Hoy la falsa enseñanza no necesita golpear la puerta: entra por la televisión, la radio, internet y los libros. MacArthur aplica el v. 10 a esa puerta también.", "autor": "John MacArthur", "obra": "Comentario MacArthur 2 y 3 Juan", "pagina": "PDF 166", "tipo": "aplicacion", "fuentes": ["mac23j_01_b#14"]}
+    {
+      "texto": "La Didaché (Doctrina de los Doce Apóstoles, 11:1-2), quizá contemporánea de estas cartas, da una regla parecida: recibir al que enseña lo recibido y no escuchar al que enseña otra doctrina para destruir.",
+      "autor": "Simon J. Kistemaker",
+      "obra": "Comentario al NT: 1 Juan",
+      "pagina": "PDF 178-179",
+      "tipo": "historia",
+      "fuentes": [
+        "kis1j_01_b#19"
+      ]
+    },
+    {
+      "texto": "Ireneo cuenta que Juan, al ver al hereje Cerinto en un baño público de Éfeso, salió sin saludarlo y advirtió a los suyos que huyeran. McGee aclara que puede ser verdad o solo tradición, pero refleja la postura de Juan.",
+      "autor": "John MacArthur; J. Vernon McGee",
+      "obra": "Comentario MacArthur 2 y 3 Juan; A través de la Biblia: 2 Juan",
+      "pagina": "PDF 166; PDF 30",
+      "tipo": "historia",
+      "fuentes": [
+        "mac23j_01_b#15",
+        "mcg2j_01#27"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "1J 4:1-3", "nota": "La misma prueba de los espíritus: confesar a Jesucristo venido en carne.", "fuentes": ["kis1j_01_b#17", "ncb23j_01#4"]},
-    {"ref": "Jd 4", "nota": "Judas y 2P 2 describen con imágenes vívidas a los mismos tipos de infiltrados; MacArthur los lee en paralelo.", "fuentes": ["mac23j_01_b#6"]},
-    {"ref": "3J 5-8", "nota": "La contracara: hospitalidad obligada para los que predican el Nombre. Kistemaker resuelve la aparente contradicción por el propósito de cada visitante.", "fuentes": ["kis1j_01_b#18"]},
-    {"ref": "Mt 7:15", "nota": "Lobos vestidos de ovejas: Jesús ya había advertido contra estos maestros.", "fuentes": ["mac23j_01_b#5", "mac23j_01_b#17"]},
-    {"ref": "Jn 14:23", "nota": "El Padre y el Hijo hacen morada con el que guarda la palabra de Jesús: eso es tener al Padre y al Hijo.", "fuentes": ["mac23j_01_b#12"]}
+    {
+      "ref": "1J 4:1-3",
+      "nota": "La misma prueba de los espíritus: confesar a Jesucristo venido en carne.",
+      "fuentes": [
+        "kis1j_01_b#17",
+        "ncb23j_01#4"
+      ]
+    },
+    {
+      "ref": "Jd 4",
+      "nota": "Judas y 2P 2 describen con imágenes vívidas a los mismos tipos de infiltrados; MacArthur los lee en paralelo.",
+      "fuentes": [
+        "mac23j_01_b#6"
+      ]
+    },
+    {
+      "ref": "3J 5-8",
+      "nota": "La contracara: hospitalidad obligada para los que predican el Nombre. Kistemaker resuelve la aparente contradicción por el propósito de cada visitante.",
+      "fuentes": [
+        "kis1j_01_b#18"
+      ]
+    },
+    {
+      "ref": "Mt 7:15",
+      "nota": "Lobos vestidos de ovejas: Jesús ya había advertido contra estos maestros.",
+      "fuentes": [
+        "mac23j_01_b#5",
+        "mac23j_01_b#17"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Pregúntense qué cree de Jesús quien les enseña, sea en la iglesia, en un libro o en un video. Wiersbe aconseja averiguar lo que creen y consultar al pastor antes de abrir la puerta.", "fuentes": ["r1_007_b#31", "mac23j_01_b#14"]},
-    {"texto": "Distingan lo central de lo secundario. Con hermanos que difieren en temas menores pero confiesan a Cristo, bondad y buen espíritu; con quien niega a Cristo, ni plataforma ni apoyo.", "fuentes": ["mhenry_01_c#45", "mcg2j_01#29"]},
-    {"texto": "Revisen a qué causas dan su dinero. McGee advierte que se puede terminar siendo socio de lo que niega a Cristo por dar movidos solo por una historia conmovedora, sin saber adónde llega la ofrenda.", "fuentes": ["mcg2j_01#35"]},
-    {"texto": "Cuiden el encuentro cara a cara. Lo importante se dice mejor en persona, y la comunión fundada en la verdad termina en gozo compartido.", "fuentes": ["mhenry_01_c#46", "mbib23j_01_a#21"]}
+    {
+      "texto": "Pregúntense qué cree de Jesús quien les enseña, en la iglesia, en un libro, en la radio o en internet. Wiersbe aconseja averiguarlo y consultar al pastor.",
+      "fuentes": [
+        "r1_007_b#31",
+        "mac23j_01_b#14"
+      ]
+    },
+    {
+      "texto": "Distingan lo central de lo secundario. Con hermanos que difieren en temas menores pero confiesan a Cristo, bondad y buen espíritu; con quien niega a Cristo, ni plataforma ni apoyo.",
+      "fuentes": [
+        "mhenry_01_c#45",
+        "mcg2j_01#29"
+      ]
+    },
+    {
+      "texto": "Revisen a qué causas dan su dinero. McGee advierte que se puede terminar siendo socio de lo que niega a Cristo por dar movidos solo por una historia conmovedora, sin saber adónde llega la ofrenda.",
+      "fuentes": [
+        "mcg2j_01#35"
+      ]
+    },
+    {
+      "texto": "Cuiden el encuentro cara a cara. Lo importante se dice mejor en persona, y la comunión fundada en la verdad termina en gozo compartido.",
+      "fuentes": [
+        "mhenry_01_c#46",
+        "mbib23j_01_a#21"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué diferencia hay entre alguien que piensa distinto en un tema secundario y alguien que niega la verdad sobre Cristo? ¿Cómo reaccionamos ante cada uno?",
@@ -178,11 +611,63 @@
     "¿En qué situación nos costó entender que poner un límite también podía ser amar?"
   ],
   "para_orar": "Señor Jesús, gracias porque te hiciste hombre de verdad y seguís siendo el Hijo que nos da acceso al Padre. Guardanos de los que prometen ir más allá de vos, danos discernimiento para abrir y cerrar la puerta de casa con amor y con verdad, y alegranos en la comunión con los hermanos hasta que te veamos cara a cara.",
-  "visuales": ["dg-falsos", "dg-estructura-23j"],
-  "anexos": ["T2", "T3", "I4"],
+  "visuales": [
+    "dg-falsos",
+    "dg-estructura-23j"
+  ],
+  "anexos": [
+    "T2",
+    "T3",
+    "I4"
+  ],
   "profundizar": [
-    {"titulo": "Cerinto, el docetismo y los herejes de Juan", "texto": "McGee describe dos ramas del error: los seguidores de Cerinto, un maestro de Éfeso, enseñaban que el Cristo divino bajó sobre Jesús en el bautismo y lo dejó antes de la cruz; otra corriente negaba el cuerpo físico, como si los apóstoles hubieran visto una aparición. Por eso, dice, Juan insiste en lo que oyeron, vieron y tocaron (1J 1:1). Catalán agrega que Juan no tuvo una visión de Jesús: lo palparon sus manos. El Comentario Moody nota un matiz preciso: de Cristo nunca se dice que vino a la carne sino en carne; lo primero dejaría lugar a pensar que la divinidad se unió a Jesús después de nacer.", "fuentes": ["mcg2j_01#27", "cbmh23j_01_a#20", "moodynt_03_a#5"]},
-    {"titulo": "Sin evangelio no hay salvación: MacArthur y el v. 9", "texto": "A partir del v. 9, MacArthur se detiene contra las ideas de que se pueda llegar a Dios sin el evangelio (la teología natural como suficiente, la llamada misericordia más extensa o el universalismo). Sostiene que la revelación general alcanza para dejar sin excusa pero no para salvar (Ro 1:18-32), que la fe viene por oír la palabra de Cristo y por eso hay que enviar predicadores (Ro 10:9-17), y propone el discurso de Pablo en Atenas como modelo: respeto por la búsqueda del otro, pero llamado claro al arrepentimiento y a Cristo (Hch 17:22-31). Ofrece además su lectura de la gracia eficaz y la elección (Ef 1:3-7; 2:8-9), que otras tradiciones leen distinto.", "fuentes": ["mac23j_01_a#30", "mac23j_01_a#31", "mac23j_01_a#32", "mac23j_01_a#33", "mac23j_01_a#34", "mac23j_01_a#35"]},
-    {"titulo": "Un bosquejo sobre la hospitalidad", "texto": "El Comentario Mundo Hispano propone un bosquejo: la hospitalidad es mandamiento en ambos Testamentos (Ro 12:13; 1P 4:9); tiene reglas, como no murmurar, no prolongar la visita, no buscar el primer lugar y no hospedar a quien persiste en el error (2J 10-11); y será tenida en cuenta cuando Cristo venga (Mt 25:31-46). Un recuadro recuerda que la hospitalidad genuina no espera retribución ni busca impresionar, pero tampoco sacrifica la verdad.", "fuentes": ["cbmh23j_01_a#23", "cbmh23j_01_a#22"]}
+    {
+      "titulo": "Dos detalles del texto: «vuestro» o «nuestro» trabajo y la doctrina «de» Cristo",
+      "texto": "En el v. 8 los manuscritos varían entre vuestro y nuestro trabajo. El Comentario Moody dice que no perdáis tiene más apoyo, aunque refiere el trabajo a los apóstoles; Kistemaker prefiere no perdáis lo que trabajamos por ser la lectura más difícil, sin dogmatismo; Beacon señala que el sentido no cambia. En el v. 9, la doctrina de Cristo puede ser la que él enseñó o la que habla de él: Kistemaker y Moody prefieren la primera (cf. Jn 7:16-17); MacArthur dice que ambas concuerdan.",
+      "fuentes": [
+        "moodynt_03_a#6",
+        "kis23j_01_a#24",
+        "bea23j_01#15",
+        "kis23j_01_a#28",
+        "moodynt_03_a#7",
+        "mac23j_01_b#12"
+      ]
+    },
+    {
+      "titulo": "Cerinto, el docetismo y los herejes de Juan",
+      "texto": "McGee describe dos ramas del error: los seguidores de Cerinto, un maestro de Éfeso, enseñaban que el Cristo divino bajó sobre Jesús en el bautismo y lo dejó antes de la cruz; otra corriente negaba el cuerpo físico, como si los apóstoles hubieran visto una aparición. Por eso, dice, Juan insiste en lo que oyeron, vieron y tocaron (1J 1:1). Catalán agrega que Juan no tuvo una visión de Jesús: lo palparon sus manos. El Comentario Moody nota un matiz preciso: de Cristo nunca se dice que vino a la carne sino en carne; lo primero dejaría lugar a pensar que la divinidad se unió a Jesús después de nacer.",
+      "fuentes": [
+        "mcg2j_01#27",
+        "cbmh23j_01_a#20",
+        "moodynt_03_a#5"
+      ]
+    },
+    {
+      "titulo": "Sin evangelio no hay salvación: MacArthur y el v. 9",
+      "texto": "A partir del v. 9, MacArthur se detiene contra las ideas de que se pueda llegar a Dios sin el evangelio (la teología natural como suficiente, la llamada misericordia más extensa o el universalismo). Sostiene que la revelación general alcanza para dejar sin excusa pero no para salvar (Ro 1:18-32), que la fe viene por oír la palabra de Cristo y por eso hay que enviar predicadores (Ro 10:9-17), y propone el discurso de Pablo en Atenas como modelo: respeto por la búsqueda del otro, pero llamado claro al arrepentimiento y a Cristo (Hch 17:22-31). Ofrece además su lectura de la gracia eficaz y la elección (Ef 1:3-7; 2:8-9), que otras tradiciones leen distinto.",
+      "fuentes": [
+        "mac23j_01_a#30",
+        "mac23j_01_a#31",
+        "mac23j_01_a#32",
+        "mac23j_01_a#33",
+        "mac23j_01_a#34",
+        "mac23j_01_a#35"
+      ]
+    },
+    {
+      "titulo": "Un bosquejo sobre la hospitalidad",
+      "texto": "El Comentario Mundo Hispano propone un bosquejo: la hospitalidad es mandamiento en ambos Testamentos (Ro 12:13; 1P 4:9); tiene reglas, como no murmurar, no prolongar la visita, no buscar el primer lugar y no hospedar a quien persiste en el error (2J 10-11); y será tenida en cuenta cuando Cristo venga (Mt 25:31-46). Un recuadro recuerda que la hospitalidad genuina no espera retribución ni busca impresionar, pero tampoco sacrifica la verdad.",
+      "fuentes": [
+        "cbmh23j_01_a#23",
+        "cbmh23j_01_a#22"
+      ]
+    },
+    {
+      "titulo": "Una ilustración: el padre del oficial",
+      "texto": "Para mostrar cómo esta firmeza convive con el amor, Kistemaker cuenta de un padre que amaba a su hijo, un oficial que vendió secretos militares al enemigo, y aun así dijo que debía ser juzgado: quien traicionó a Cristo y quiere entrar en los hogares para destruir la fe no puede ser recibido como amigo.",
+      "fuentes": [
+        "kis23j_01_b#1"
+      ]
+    }
   ]
 }

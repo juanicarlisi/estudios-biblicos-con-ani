@@ -9,7 +9,7 @@
   },
   "contexto": {
     "antes": "Ayer salieron los jinetes de los sellos segundo a cuarto: guerra, escasez y muerte. Para Ladd, los cuatro primeros sellos muestran las fuerzas por las que Dios lleva adelante sus propósitos en un mundo hostil, donde el reino se anuncia pero no llega en plenitud en esta era.",
-    "ahora": "Se rompe el quinto sello y ya no sale un jinete: Juan ve a los que murieron por su fe y oye su pregunta. Según el Comentario Mundo Hispano, el sello responde qué pasó con los discípulos martirizados y por qué se demora la victoria final de Dios.",
+    "ahora": "Se rompe el quinto sello y ya no sale un jinete: Juan ve a los que murieron por su fe y oye su pregunta.",
     "donde": "En el cielo, a diferencia de los cuatro primeros sellos, cuyos efectos se ven en la tierra (Carballosa; Mundo Hispano).",
     "cuando": "Depende de la lectura: para MacArthur y Carballosa, en la tribulación futura; para Ladd, los mártires de todos los tiempos y quizá más los del fin; Earle (Beacon) acepta las tres lecturas a la vez (ver Interpretaciones).",
     "despues": "Mañana se abre el sexto sello (6:12-17). Beasley-Murray hace notar que la oración de los mártires recibe respuesta y que el final se apresura (8:1-5).",
@@ -28,7 +28,7 @@
     "porque": "La pregunta honesta de los que sufren, dirigida al Señor santo y verdadero, y la respuesta de Dios: los viste, los hace descansar y les pide esperar un poco."
   },
   "panorama": {
-    "texto": "El quinto sello abre una ventana al cielo. Bajo el altar están los que murieron por la palabra de Dios y por su testimonio, vidas ofrecidas como sacrificio. No se quejan de su suerte: preguntan cuánto falta para que Dios haga justicia. Dios no los reprende: los viste de blanco, los hace descansar y les dice que el número de sus hermanos no está completo. Los autores discuten quiénes son, qué altar es y cómo entender el pedido de venganza, pero todos afirman lo esencial: la sangre de los fieles no se pierde, Dios es santo y verdadero, juzgará, y los que murieron por Cristo están vivos ante él.",
+    "texto": "El quinto sello abre una ventana al cielo. Bajo el altar están los que murieron por la palabra de Dios y por su testimonio, vidas ofrecidas como sacrificio. No se quejan de su suerte: preguntan cuánto falta para que Dios haga justicia. Dios no los reprende: los viste de blanco, los hace descansar y les dice que el número de sus hermanos no está completo. Hay debate sobre quiénes son y qué altar es, pero lo esencial es seguro: la sangre de los fieles no se pierde, Dios es santo y verdadero, juzgará, y los que murieron por Cristo están vivos ante él.",
     "fuentes": [
       "beacon_03_b#2",
       "ladd_03_a#34",
@@ -53,11 +53,12 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "MacArthur aclara que el sello no es el martirio, porque los sellos traen la ira de Dios sobre los malos y no sobre sus hijos: la fuerza que se desata es la oración de los mártires. Propone leer el pasaje en tres pasos: las personas (6:9), la petición (6:10) y la promesa (6:11).",
+          "texto": "MacArthur aclara que el sello no es el martirio, porque los sellos traen la ira de Dios sobre los malos y no sobre sus hijos: la fuerza que se desata es la oración de los mártires. Propone leer el pasaje en tres pasos: las personas (6:9), la petición (6:10) y la promesa (6:11). Lennox lo dice de otro modo: en la tierra se mezclan los juicios de Dios y la furia de sus enemigos contra los creyentes, y no hay que confundirlos; esto último Jesús lo anunció (Mt 24:9; Jn 16:1-4).",
           "fuentes": [
             "macarthur_06_b#5",
             "macarthur_06_a#32",
-            "r2_008#2"
+            "r2_008#2",
+            "r4_460_07_b#22"
           ],
           "tipo": "estructura_bosquejo"
         }
@@ -266,10 +267,9 @@
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "Stam, citado por Mundo Hispano, saca una conclusión audaz: cuanto peor la persecución, más cerca el fin; al derramar más sangre, los enemigos apresuran su propio juicio. Vila lo ilustra con el capitán de un barco que naufraga y espera al último pasajero.",
+          "texto": "Stam, citado por Mundo Hispano, saca una conclusión audaz: cuanto peor la persecución, más cerca el fin; al derramar más sangre, los enemigos apresuran su propio juicio.",
           "fuentes": [
-            "cbmh_04#39",
-            "r2_019#1"
+            "cbmh_04#39"
           ],
           "tipo": "aplicacion_practica"
         }
@@ -277,18 +277,6 @@
     }
   ],
   "simbolos": [
-    {
-      "signo": "el altar",
-      "significado": "Lugar del sacrificio, a cuyo pie se derramaba la sangre (Lv 4:7): los mártires son vidas ofrecidas a Dios. Qué altar es, ver Interpretaciones.",
-      "refs": [
-        "6:9",
-        "8:3-5"
-      ],
-      "fuentes": [
-        "beacon_03_b#2",
-        "ladd_03_a#34"
-      ]
-    },
     {
       "signo": "vestiduras blancas",
       "significado": "Pureza, victoria, justicia y honor (3:4-5; 7:9); para Buswell, santidad perfecta; para Beasley-Murray, anticipo de la gloria de la resurrección.",
@@ -407,7 +395,7 @@
       ]
     },
     {
-      "texto": "Los mártires siguen a su Señor en su muerte de sacrificio (Swete, citado por Earle) y mueren por el testimonio que Jesús mismo dio (Ladd). Y Jesús, como después Esteban, no buscó venganza: oró por los que lo mataban (MacArthur).",
+      "texto": "Los mártires siguen a su Señor en su muerte de sacrificio (Swete, citado por Earle) y mueren por el testimonio que Jesús mismo dio (Ladd). Y Jesús, como después Esteban, no buscó venganza: oró por los que lo mataban (MacArthur). Henry agrega que no es su propia muerte sino el sacrificio de Cristo lo que les abre la entrada.",
       "refs": [
         "Lc 23:34",
         "Hch 7:60"
@@ -415,7 +403,8 @@
       "fuentes": [
         "beacon_03_b#2",
         "ladd_03_a#36",
-        "macarthur_06_a#29"
+        "macarthur_06_a#29",
+        "r4_2_01_a#42"
       ]
     },
     {
@@ -453,14 +442,22 @@
         },
         {
           "postura": "Creyentes convertidos después del arrebatamiento y muertos en la tribulación (Mt 24:9). Larkin y Carballosa lo apoyan en que piden venganza en vez de orar por sus perseguidores; Larkin cree que son principalmente judíos.",
-          "quien": "MacArthur, Carballosa, Walvoord, Larkin, Wiersbe y Ryrie (premilenial dispensacional)",
+          "quien": "MacArthur, Carballosa, Walvoord (que no ve evidencia de que sean la iglesia), Larkin, Wiersbe y Ryrie (premilenial dispensacional)",
           "fuentes": [
             "macarthur_06_a#33",
             "carballosa_06#5",
             "larkin_02_b#5",
             "larkin_02_b#7",
             "r1_024_b#17",
-            "r1_032#11"
+            "r1_032#11",
+            "r4_450_05#9"
+          ]
+        },
+        {
+          "postura": "Creyentes muertos inmediatamente antes de la tribulación, porque las señales celestes del sexto sello todavía no ocurrieron; Moorehead sugiere que los mataron por orden de estos jinetes.",
+          "quien": "Comentario Bíblico Moody",
+          "fuentes": [
+            "r4_225_01_b#43"
           ]
         },
         {
@@ -479,11 +476,12 @@
       "posturas": [
         {
           "postura": "Es un pedido de reivindicación, no de revancha: la sangre clama como la de Abel y Dios hará justicia a sus escogidos (Lc 18:7-8).",
-          "quien": "Ladd; en la misma línea, Swete (citado por Earle) y Ryrie, que habla de vindicación y no de liberación",
+          "quien": "Ladd; en la misma línea, Swete (citado por Earle) y Ryrie, que habla de vindicación y no de liberación; Lennox: piden justicia, no venganza",
           "fuentes": [
             "ladd_03_a#38",
             "beacon_03_b#4",
-            "r1_033#8"
+            "r1_033#8",
+            "r4_460_07_b#23"
           ]
         },
         {
@@ -510,11 +508,12 @@
       "posturas": [
         {
           "postura": "El altar del incienso, porque en el libro el altar celestial se asocia con las oraciones y el juicio que piden los santos.",
-          "quien": "MacArthur, Carballosa (con Thomas y Grau) y la Biblia de estudio MacArthur",
+          "quien": "MacArthur, Carballosa (con Thomas y Grau) y la Biblia de estudio MacArthur; Lennox",
           "fuentes": [
             "macarthur_06_b#3",
             "carballosa_06#4",
-            "mbiblia_01_c#16"
+            "mbiblia_01_c#16",
+            "r4_460_07_b#23"
           ]
         },
         {
@@ -645,7 +644,7 @@
   "profundizar": [
     {
       "titulo": "Lo que la escena deja ver del estado intermedio",
-      "texto": "Muchos teólogos usan 6:9-11 para hablar de lo que pasa entre la muerte y la resurrección. MacArthur y Mayhue lo llaman el texto más detallado sobre el tema y deducen que los que murieron en Cristo tienen conciencia, memoria y esperanza; distinguen el cielo de la tierra; el cielo intermedio no es su hogar definitivo, porque esperan reinar sobre la tierra (5:10); y sus cuerpos aguardan la resurrección. Grudem, Berkhof, Geisler y Howe, y Alcorn lo citan contra el «sueño del alma»: los mártires hablan, preguntan y perciben el paso del tiempo. Buswell aclara que el «¿hasta cuándo?» no indica que no sean felices, sino que todavía no están completos; el Diccionario Mundo Hispano lo dice así: están incompletos y esperan la redención del cuerpo (Ro 8:23). Carballosa deduce además que no hay purgatorio. Ladd introduce una cautela: la imagen de las almas bajo el altar no fue dada para describir el estado intermedio sino para decir que estos creyentes fueron sacrificados por su Dios.",
+      "texto": "Muchos teólogos usan 6:9-11 para hablar de lo que pasa entre la muerte y la resurrección. MacArthur y Mayhue lo llaman el texto más detallado sobre el tema y deducen que los que murieron en Cristo tienen conciencia, memoria y esperanza; distinguen el cielo de la tierra; el cielo intermedio no es su hogar definitivo, porque esperan reinar sobre la tierra (5:10); y sus cuerpos aguardan la resurrección. Grudem, Berkhof, Geisler y Howe, y Alcorn lo citan contra el «sueño del alma»: los mártires hablan, preguntan y perciben el paso del tiempo. Buswell aclara que el «¿hasta cuándo?» no indica que no sean felices, sino que todavía no están completos; el Diccionario Mundo Hispano lo dice así: están incompletos y esperan la redención del cuerpo (Ro 8:23). Lutzer infiere que el conocimiento, el amor, los sentimientos y el deseo de justicia siguen después de la muerte: son las mismas personas. Carballosa deduce además que no hay purgatorio. Ladd introduce una cautela: la imagen de las almas bajo el altar no fue dada para describir el estado intermedio sino para decir que estos creyentes fueron sacrificados por su Dios.",
       "fuentes": [
         "r1_035#3",
         "r2_027#19",
@@ -656,12 +655,13 @@
         "r2_004_a#16",
         "dbmh_02#8",
         "carballosa_06#6",
-        "ladd_03_a#34"
+        "ladd_03_a#34",
+        "r4_448_01#9"
       ]
     },
     {
       "titulo": "El esquema futurista: el quinto sello en la mitad de la tribulación",
-      "texto": "Para MacArthur, los cuatro primeros sellos ocupan la primera mitad de una tribulación de siete años (el principio de dolores de Mt 24:8) y el quinto empieza en esa mitad, llega al punto medio y se acelera en la segunda, la gran tribulación. La persecución sería mundial y religiosa, conducida por los gobiernos y por un sistema religioso falso (17:6), y se dispararía cuando el anticristo profane el templo y exija adoración (la abominación desoladora de Dn 9:27 y Mt 24:15). Sostiene también que pondría en evidencia a los falsos creyentes (Mt 24:10-13) y que, aun así, el evangelio se predicaría en todo el mundo, con una gran multitud salvada (7:9). Larkin lo explica por la predicación del evangelio del reino después del arrebatamiento. El anexo T7 presenta esta lectura junto a las demás.",
+      "texto": "Para MacArthur, los cuatro primeros sellos ocupan la primera mitad de una tribulación de siete años (el principio de dolores de Mt 24:8) y el quinto empieza en esa mitad, llega al punto medio y se acelera en la segunda, la gran tribulación. La persecución sería mundial y religiosa, conducida por los gobiernos y por un sistema religioso falso (17:6), y se dispararía cuando el anticristo profane el templo y exija adoración (la abominación desoladora de Dn 9:27 y Mt 24:15). Sostiene también que pondría en evidencia a los falsos creyentes (Mt 24:10-13) y que, aun así, el evangelio se predicaría en todo el mundo, con una gran multitud salvada (7:9). Larkin lo explica por la predicación del evangelio del reino después del arrebatamiento. Dyer arma una tabla que alinea cada sello con Mateo 24: el quinto, con la persecución y el martirio de 24:9-14. El anexo T7 presenta esta lectura junto a las demás.",
       "fuentes": [
         "web_07#27",
         "macarthur_06_a#32",
@@ -669,7 +669,8 @@
         "macarthur_06_a#36",
         "macarthur_06_a#37",
         "r2_008#3",
-        "larkin_02_b#6"
+        "larkin_02_b#6",
+        "r4_453_01#14"
       ]
     },
     {

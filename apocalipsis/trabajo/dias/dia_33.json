@@ -75,14 +75,6 @@
             "mcgeer_06#10"
           ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "McGee nota el otro lado: Rubén no pierde todo, porque ocupa el segundo lugar. Perdió el honor, pero no quedó fuera del pueblo.",
-          "fuentes": [
-            "mcgee_05_a#30",
-            "mcgeer_06#10"
-          ],
-          "tipo": "aplicacion"
         }
       ]
     },
@@ -107,11 +99,12 @@
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "MacArthur señala que una división tan pareja, doce mil en cada tribu, habla del propósito de Dios que elige: una elección humana no lograría algo así. Y aunque los registros tribales se perdieron cuando los romanos saquearon Jerusalén en el año 70, Dios sabe quién pertenece a cada tribu. Larkin y Guzik dicen lo mismo: aunque las genealogías se hayan perdido, Dios conoce a los suyos y los sella con precisión.",
+          "texto": "MacArthur señala que una división tan pareja, doce mil en cada tribu, habla del propósito de Dios que elige: una elección humana no lograría algo así. Y aunque los registros tribales se perdieron cuando los romanos saquearon Jerusalén en el año 70, Dios sabe quién pertenece a cada tribu: él no pierde los documentos, dice en su “Recorrido”. Larkin y Guzik dicen lo mismo: aunque las genealogías se hayan perdido, Dios conoce a los suyos y los sella con precisión.",
           "fuentes": [
             "macarthur_07_a#18",
             "larkin_02_b#14",
-            "web_10_a#3"
+            "web_10_a#3",
+            "r4_455_01_a#39"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -122,20 +115,15 @@
       "titulo": "Un orden que no aparece en ninguna otra lista",
       "notas": [
         {
-          "texto": "Ladd compara tres listas. En Génesis 49 el orden es: Rubén, Simeón, Leví, Judá, Zabulón, Isacar, Dan, Gad, Aser, Neftalí, José, Benjamín. En Ezequiel 48: Dan, Aser, Neftalí, Manasés, Efraín, Rubén, Judá, Benjamín, Simeón, Isacar, Zabulón, Gad. La de Apocalipsis 7 no sigue a ninguna de las dos.",
-          "fuentes": [
-            "ladd_03_b#6"
-          ],
-          "tipo": "estructura_bosquejo"
-        },
-        {
-          "texto": "Pero no existe un orden fijo. MacArthur, siguiendo a Thomas, cuenta al menos diecinueve formas distintas de listar las tribus en el Antiguo Testamento (por nacimiento, por la bendición de Jacob, por el campamento, por el censo, por las madres, por las puertas de Ezequiel 48…), y ninguna coincide con esta. Carballosa da la misma cifra; Guzik habla de unas veinte y recuerda que cada lista tiene su propio propósito. McGee cita a un autor que cuenta trece listas y a otro que cuenta dieciocho: los nombres cambian, pero siempre suman doce.",
+          "texto": "Pero no existe un orden fijo. MacArthur, siguiendo a Thomas, cuenta al menos diecinueve formas distintas de listar las tribus en el Antiguo Testamento (por nacimiento, por la bendición de Jacob, por el campamento, por el censo, por las madres, por las puertas de Ezequiel 48…), y ninguna coincide con esta. Carballosa da la misma cifra; Guzik habla de unas veinte y recuerda que cada lista tiene su propio propósito. McGee cita a un autor que cuenta trece listas y a otro que cuenta dieciocho: los nombres cambian, pero siempre suman doce. Walvoord precisa el mecanismo: siempre queda afuera una tribu, a veces Leví, porque si Efraín y Manasés cuentan por separado el total sería trece.",
           "fuentes": [
             "macarthur_07_a#19",
             "carballosa_06#24",
             "web_10_a#3",
             "mcgee_05_a#29",
-            "mcgeer_06#9"
+            "mcgeer_06#9",
+            "r4_450_06#9",
+            "r4_442_03_a#6"
           ],
           "tipo": "explicacion_texto"
         },
@@ -169,11 +157,12 @@
           "tipo": "personaje"
         },
         {
-          "texto": "Hay otras explicaciones (ver Interpretaciones). Ireneo, en el siglo II, enseñó que el anticristo saldría de Dan, apoyándose en Jeremías 8:16, y Charles cree que esa tradición ya era judía antes de Cristo. Alford, citado por Buswell, piensa que la tribu se volvió muy pequeña: no aparece en las genealogías de 1 Crónicas.",
+          "texto": "Hay otras explicaciones (ver Interpretaciones). Ireneo, en el siglo II, enseñó que el anticristo saldría de Dan, apoyándose en Jeremías 8:16, y Charles cree que esa tradición ya era judía antes de Cristo. Alford, citado por Buswell, piensa que la tribu se volvió muy pequeña: no aparece en las genealogías de 1 Crónicas; Walvoord, citado por Hitchcock, suma que era pequeña y se la habría agrupado con Neftalí. Swindoll, en cambio, prefiere no especular: Dios tiene sus razones, y Juan solo anotó lo que oyó.",
           "fuentes": [
             "beacon_03_b#12",
             "r1_009#21",
-            "carballosa_06#25"
+            "carballosa_06#25",
+            "r4_442_03_a#6"
           ],
           "tipo": "dificultad_interpretaciones"
         },
@@ -189,7 +178,7 @@
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "Efraín tampoco aparece por nombre. Carballosa recuerda su historia: su nombre sugiere doble fruto; Jacob lo adoptó junto con Manasés con una doble bendición (Gn 48); de esa tribu salió Josué y en su territorio estaba Silo, el centro religioso en tiempos de los jueces. Pero Efraín también se entregó a la idolatría (Os 4:17) y, para Carballosa, la razón principal de su ausencia es que se apartó de la casa de David (2 S 2:9). MacArthur coincide (Is 7:17), y McGee recuerda que fue la tribu que encabezó la división del reino (1 R 11:26).",
+          "texto": "Efraín tampoco aparece por nombre. Carballosa recuerda su historia: su nombre sugiere doble fruto; Jacob lo adoptó junto con Manasés con una doble bendición (Gn 48). Pero Efraín también se entregó a la idolatría (Os 4:17) y, para Carballosa, la razón principal de su ausencia es que se apartó de la casa de David (2 S 2:9). MacArthur coincide (Is 7:17), y McGee recuerda que fue la tribu que encabezó la división del reino (1 R 11:26).",
           "fuentes": [
             "carballosa_06#26",
             "macarthur_07_a#19",
@@ -213,13 +202,14 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "¿Por qué está Leví? Para Geisler y Howe, porque el sacerdocio levítico se cumplió en Cristo, y Buswell piensa algo parecido. McGee y MacArthur la ven ocupando el lugar de Dan; para McGee, es apropiado que la tribu sacerdotal dé testimonio. El artículo de Coalición la vincula con el papel sacerdotal de todo el pueblo de Dios (1:6; 5:10).",
+          "texto": "¿Por qué está Leví? Para Geisler y Howe, porque el sacerdocio levítico se cumplió en Cristo, y Buswell piensa algo parecido; Bengel, citado por el Comentario Moody, dice que abandonadas las ceremonias levíticas, Leví aparece en pie de igualdad. McGee y MacArthur la ven ocupando el lugar de Dan; para McGee, es apropiado que la tribu sacerdotal dé testimonio. El artículo de Coalición la vincula con el papel sacerdotal de todo el pueblo de Dios (1:6; 5:10).",
           "fuentes": [
             "r1_001#15",
             "r1_009#21",
             "mcgeer_06#11",
             "macarthur_07_a#19",
-            "cpe_02#29"
+            "cpe_02#29",
+            "r4_225_01_b#47"
           ],
           "tipo": "dificultad_interpretaciones"
         },
@@ -340,8 +330,8 @@
       "tema": "¿Qué dice la lista sobre quiénes son los 144.000?",
       "posturas": [
         {
-          "postura": "Israelitas étnicos, doce mil de cada tribu: la cifra concreta, los nombres de las tribus y el contraste con la multitud de 7:9 no permiten leerlos como la iglesia. Las diferencias de la lista no obligan a espiritualizar, porque ninguna lista del Antiguo Testamento coincide con otra.",
-          "quien": "Carballosa, MacArthur (con Thomas), MacArthur y Mayhue, McGee, Larkin, Wiersbe, Guzik, Geisler y Howe (premileniales dispensacionales); Buswell (premilenial histórico), que los ve como judíos evangelizados",
+          "postura": "Israelitas étnicos, doce mil de cada tribu: la cifra concreta, los nombres de las tribus y el contraste con la multitud de 7:9 no permiten leerlos como la iglesia. Las diferencias de la lista no obligan a espiritualizar, porque ninguna lista del Antiguo Testamento coincide con otra. Y Lennox responde al argumento de Gálatas: que no haya judío ni griego (Gá 3:28) habla de un mismo evangelio para todos, no de roles idénticos, como no los tienen hombre y mujer; Romanos 9-11 todavía distingue a Israel.",
+          "quien": "Carballosa, MacArthur (con Thomas), MacArthur y Mayhue, McGee, Larkin, Wiersbe, Guzik, Geisler y Howe (premileniales dispensacionales); Buswell (premilenial histórico), que los ve como judíos evangelizados; también Walvoord, Hitchcock, Dyer y el Comentario Moody; Lennox defiende un papel futuro de Israel distinto del de la iglesia",
           "fuentes": [
             "carballosa_06#23",
             "carballosa_06#24",
@@ -352,12 +342,17 @@
             "r1_024_b#19",
             "web_10_a#4",
             "r1_001#15",
-            "r1_009#21"
+            "r1_009#21",
+            "r4_450_06#8",
+            "r4_442_03_a#4",
+            "r4_453_01#25",
+            "r4_225_01_b#47",
+            "r4_460_08_a#12"
           ]
         },
         {
           "postura": "La iglesia como verdadero Israel. La lista irregular (sin Dan, sin Efraín, con Manasés contado dos veces) muestra que Juan no habla del Israel literal; el Nuevo Testamento llama a los creyentes hijos de Abraham y verdadera circuncisión (Ro 2:28-29; Gá 3:29; 6:16; Fil 3:3), y el propio Apocalipsis distingue a judíos que no lo son (2:9; 3:9).",
-          "quien": "Ladd y Beasley-Murray (premileniales históricos); el Comentario Bíblico Mundo Hispano (amilenial/idealista); el artículo de Coalición por el Evangelio, que cita a José Grau; Carballosa nombra también a Mounce y Boring",
+          "quien": "Ladd y Beasley-Murray (premileniales históricos); el Comentario Bíblico Mundo Hispano (amilenial/idealista); el artículo de Coalición por el Evangelio, que cita a José Grau; Carballosa nombra también a Mounce y Boring; Matthew Henry (la Iglesia universal bajo el tipo de Israel); según el Comentario Moody, también Bengel, Alford y Lenski",
           "fuentes": [
             "ladd_03_b#6",
             "ladd_03_b#7",
@@ -365,7 +360,9 @@
             "cbmh_05_a#5",
             "cpe_02#30",
             "cpe_02#28",
-            "carballosa_06#23"
+            "carballosa_06#23",
+            "r4_2_01_a#45",
+            "r4_225_01_b#47"
           ]
         }
       ],
@@ -390,20 +387,23 @@
         },
         {
           "postura": "Porque de Dan saldría el anticristo (Jer 8:16).",
-          "quien": "Ireneo (siglo II) y los Padres que lo siguieron; según Charles, una tradición judía anterior. Carballosa la juzga de escaso apoyo y Ladd la descarta porque Dan está en Ezequiel 48",
+          "quien": "Ireneo (siglo II) y los Padres que lo siguieron; según Charles, una tradición judía anterior. Carballosa la juzga de escaso apoyo y Ladd la descarta porque Dan está en Ezequiel 48. Hitchcock la descarta (cree más probable un anticristo gentil) y Dyer dice que no hay evidencia bíblica",
           "fuentes": [
             "beacon_03_b#12",
             "carballosa_06#25",
             "ladd_03_b#6",
-            "henry_01_b#17"
+            "henry_01_b#17",
+            "r4_442_03_a#6",
+            "r4_453_01#25"
           ]
         },
         {
-          "postura": "Porque la tribu se volvió muy pequeña o desapareció.",
-          "quien": "Alford (citado por Buswell, que no ve razón clara); Duesterdieck, que dice que había muerto mucho antes de Juan, aunque Earle objeta que lo mismo vale para otras diez",
+          "postura": "Porque la tribu se volvió muy pequeña o desapareció; quizá se la agrupó con Neftalí.",
+          "quien": "Alford (citado por Buswell, que no ve razón clara); Duesterdieck, que dice que había muerto mucho antes de Juan, aunque Earle objeta que lo mismo vale para otras diez; Walvoord, citado por Hitchcock, junto con la idolatría",
           "fuentes": [
             "r1_009#21",
-            "beacon_03_b#12"
+            "beacon_03_b#12",
+            "r4_442_03_a#6"
           ]
         },
         {
@@ -513,13 +513,6 @@
         "larkin_02_b#15",
         "macarthur_07_a#19"
       ]
-    },
-    {
-      "texto": "Y aun así, Dan aparece en Ezequiel 48: la gracia alcanza a todo pecador, dice McGee. Ningún pasado los deja fuera de la misericordia de Dios.",
-      "fuentes": [
-        "mcgee_05_a#31",
-        "carballosa_06#25"
-      ]
     }
   ],
   "para_conversar": [
@@ -540,8 +533,9 @@
   "profundizar": [
     {
       "titulo": "Dos intentos de explicar el orden de la lista",
-      "texto": "Swete, citado por Earle en el Comentario Beacon, ve este orden: Judá al frente, luego Rubén, las tribus del norte con Simeón y Leví intercalados, y José y Benjamín a la retaguardia, según el nacimiento y la geografía; Earle lo considera el más razonable. J. B. Smith, en cambio, ordena las tribus en pares. Beasley-Murray recoge una observación de Buchanan Gray: si los nombres de Gad a Manasés se pusieran después del versículo 8, la lista seguiría el orden habitual por madres (hijos de Lea, de Raquel, de la criada de Lea y de la de Raquel), con Manasés en lugar de Dan; quizá un copista antiguo cambió el orden.",
+      "texto": "Ladd compara tres listas. En Génesis 49 el orden es: Rubén, Simeón, Leví, Judá, Zabulón, Isacar, Dan, Gad, Aser, Neftalí, José, Benjamín. En Ezequiel 48: Dan, Aser, Neftalí, Manasés, Efraín, Rubén, Judá, Benjamín, Simeón, Isacar, Zabulón, Gad. La de Apocalipsis 7 no sigue a ninguna de las dos. Swete, citado por Earle en el Comentario Beacon, ve este orden: Judá al frente, luego Rubén, las tribus del norte con Simeón y Leví intercalados, y José y Benjamín a la retaguardia, según el nacimiento y la geografía; Earle lo considera el más razonable. J. B. Smith, en cambio, ordena las tribus en pares. Beasley-Murray recoge una observación de Buchanan Gray: si los nombres de Gad a Manasés se pusieran después del versículo 8, la lista seguiría el orden habitual por madres (hijos de Lea, de Raquel, de la criada de Lea y de la de Raquel), con Manasés en lugar de Dan; quizá un copista antiguo cambió el orden.",
       "fuentes": [
+        "ladd_03_b#6",
         "beacon_03_b#12",
         "henry_01_b#17"
       ]
@@ -589,9 +583,11 @@
     },
     {
       "titulo": "El debate con el postribulacionismo",
-      "texto": "Ryrie expone cómo cada sistema ubica a los 144.000: Ladd los ve como el Israel espiritual, la iglesia; Gundry, como judíos todavía no salvos hasta el final, que poblarán el milenio. Ryrie responde que el texto los llama siervos de Dios sellados antes de los juicios, algo que no cuadra con no convertidos.",
+      "texto": "Ryrie expone cómo cada sistema ubica a los 144.000: Ladd los ve como el Israel espiritual, la iglesia; Gundry, como judíos todavía no salvos hasta el final, que poblarán el milenio. Ryrie responde que el texto los llama siervos de Dios sellados antes de los juicios, algo que no cuadra con no convertidos. Walvoord rechaza la lectura de Gundry porque omite el «de nuestro Dios» de «siervos de nuestro Dios» y porque los que atraviesan la tribulación sin fe reciben la marca de la bestia (14:9-11): no podrían ser siervos sellados. Sobre la lectura de Ladd, Walvoord nota que él mismo admitía que lo natural sería el pueblo judío.",
       "fuentes": [
-        "r1_032#34"
+        "r1_032#34",
+        "r4_450_06#8",
+        "r4_450_06#11"
       ]
     },
     {

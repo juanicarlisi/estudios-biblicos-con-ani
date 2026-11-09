@@ -234,7 +234,7 @@
     "1p-espiritus"
    ],
    "parte": "p3",
-   "peso": 1336
+   "peso": 1250
   },
   {
    "dia": 11,
@@ -548,7 +548,7 @@
     "1j-hijos"
    ],
    "parte": "p8",
-   "peso": 1336
+   "peso": 1250
   },
   {
    "dia": 30,
@@ -798,7 +798,7 @@
     "jd-enoc"
    ],
    "parte": "p11",
-   "peso": 1586
+   "peso": 1500
   },
   {
    "dia": 45,
@@ -817,5 +817,6 @@
    "parte": "p11",
    "peso": 2250
   }
- ]
+ ],
+ "provisional": "plan armado sin notas (OBJ=2000, un día por grupo de pericopas): rehacer con plan_dias.py al terminar la extracción"
 }

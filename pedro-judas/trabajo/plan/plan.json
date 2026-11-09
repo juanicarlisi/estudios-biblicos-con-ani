@@ -1,0 +1,311 @@
+{
+ "partes": [
+  {
+   "id": "p1",
+   "etiqueta": "1 Pedro · Parte 1",
+   "titulo": "Una salvación viva y un pueblo santo",
+   "rango": "1P 1:1-2:10"
+  },
+  {
+   "id": "p2",
+   "etiqueta": "1 Pedro · Parte 2",
+   "titulo": "Extranjeros y peregrinos: vivir sometidos por causa del Señor",
+   "rango": "1P 2:11-3:12"
+  },
+  {
+   "id": "p3",
+   "etiqueta": "1 Pedro · Parte 3",
+   "titulo": "Sufrimiento y gloria",
+   "rango": "1P 3:13-5:14"
+  },
+  {
+   "id": "p4",
+   "etiqueta": "2 Pedro · Parte 1",
+   "titulo": "Crecer en la fe y la palabra segura",
+   "rango": "2P 1:1-21"
+  },
+  {
+   "id": "p5",
+   "etiqueta": "2 Pedro · Parte 2",
+   "titulo": "Los falsos maestros",
+   "rango": "2P 2:1-22"
+  },
+  {
+   "id": "p6",
+   "etiqueta": "2 Pedro · Parte 3",
+   "titulo": "El día del Señor",
+   "rango": "2P 3:1-18"
+  },
+  {
+   "id": "p7",
+   "etiqueta": "1 Juan · Parte 1",
+   "titulo": "Andar en la luz",
+   "rango": "1J 1:1-2:17"
+  },
+  {
+   "id": "p8",
+   "etiqueta": "1 Juan · Parte 2",
+   "titulo": "Permanecer en él: hijos de Dios",
+   "rango": "1J 2:18-3:24"
+  },
+  {
+   "id": "p9",
+   "etiqueta": "1 Juan · Parte 3",
+   "titulo": "Dios es amor: la fe que vence",
+   "rango": "1J 4:1-5:21"
+  },
+  {
+   "id": "p10",
+   "etiqueta": "2 y 3 Juan",
+   "titulo": "La verdad, el amor y la hospitalidad",
+   "rango": "2J 1-3J 15"
+  },
+  {
+   "id": "p11",
+   "etiqueta": "Judas",
+   "titulo": "Contender por la fe",
+   "rango": "Jd 1-25"
+  }
+ ],
+ "dias": [
+  {
+   "dia": 1,
+   "libro": "1P",
+   "desde": "1P 1:1",
+   "hasta": "1P 2:10",
+   "rango": "1P 1:1-2:10",
+   "versiculos": 35,
+   "ini": 1,
+   "fin": 35,
+   "titulo_provisional": "Elegidos y extranjeros: el saludo y una esperanza viva y una herencia guardada y gozo en medio de las pruebas y lo que los profetas indagaron y «Sed santos» y rescatados con la sangre preciosa de Cristo y amor entrañable y la palabra que permanece y desear la leche espiritual y piedras vivas y la piedra angular y linaje escogido, real sacerdocio",
+   "unidades": [
+    "1p-saludo",
+    "1p-esperanza",
+    "1p-gozo",
+    "1p-profetas",
+    "1p-santos",
+    "1p-rescate",
+    "1p-amor",
+    "1p-leche",
+    "1p-piedras",
+    "1p-pueblo"
+   ],
+   "parte": "p1",
+   "peso": 8750
+  },
+  {
+   "dia": 2,
+   "libro": "1P",
+   "desde": "1P 2:11",
+   "hasta": "1P 3:12",
+   "rango": "1P 2:11-3:12",
+   "versiculos": 27,
+   "ini": 36,
+   "fin": 62,
+   "titulo_provisional": "Extranjeros y peregrinos: buena manera de vivir y sumisión a las autoridades y los siervos y el sufrimiento injusto y cristo, ejemplo, sustituto y Pastor y esposas y maridos y unidad y bendición",
+   "unidades": [
+    "1p-peregrinos",
+    "1p-autoridades",
+    "1p-siervos",
+    "1p-ejemplo",
+    "1p-hogar",
+    "1p-unidad"
+   ],
+   "parte": "p2",
+   "peso": 6750
+  },
+  {
+   "dia": 3,
+   "libro": "1P",
+   "desde": "1P 3:13",
+   "hasta": "1P 5:14",
+   "rango": "1P 3:13-5:14",
+   "versiculos": 43,
+   "ini": 63,
+   "fin": 105,
+   "titulo_provisional": "Sufrir por hacer el bien y presentar defensa y cristo padeció una vez: los espíritus y el bautismo y armarse del mismo pensamiento y el fin de todas las cosas se acerca: dones y servicio y la prueba de fuego: sufrir como cristiano y apacentad la grey de Dios y revestidos de humildad y resistid al adversario y silvano, Marcos y Babilonia: saludos",
+   "unidades": [
+    "1p-defensa",
+    "1p-espiritus",
+    "1p-armaos",
+    "1p-fin",
+    "1p-fuego",
+    "1p-ancianos",
+    "1p-humildad",
+    "1p-adversario",
+    "1p-saludos"
+   ],
+   "parte": "p3",
+   "peso": 10750
+  },
+  {
+   "dia": 4,
+   "libro": "2P",
+   "desde": "2P 1:1",
+   "hasta": "2P 1:21",
+   "rango": "2P 1:1-21",
+   "versiculos": 21,
+   "ini": 106,
+   "fin": 126,
+   "titulo_provisional": "Una fe igualmente preciosa y las grandes promesas y añadid a vuestra fe: las virtudes y el legado de Pedro antes de su partida y testigos de su majestad: la transfiguración y la palabra profética más segura",
+   "unidades": [
+    "2p-saludo",
+    "2p-virtudes",
+    "2p-legado",
+    "2p-testigos",
+    "2p-profecia"
+   ],
+   "parte": "p4",
+   "peso": 5250
+  },
+  {
+   "dia": 5,
+   "libro": "2P",
+   "desde": "2P 2:1",
+   "hasta": "2P 2:22",
+   "rango": "2P 2:1-22",
+   "versiculos": 22,
+   "ini": 127,
+   "fin": 148,
+   "titulo_provisional": "Habrá falsos maestros y ángeles, diluvio, Sodoma: Dios sabe librar y juzgar y atrevidos y contumaces: el camino de Balaam y fuentes sin agua: peor que al principio",
+   "unidades": [
+    "2p-falsos",
+    "2p-juicio",
+    "2p-conducta",
+    "2p-perdicion"
+   ],
+   "parte": "p5",
+   "peso": 5500
+  },
+  {
+   "dia": 6,
+   "libro": "2P",
+   "desde": "2P 3:1",
+   "hasta": "2P 3:18",
+   "rango": "2P 3:1-18",
+   "versiculos": 18,
+   "ini": 149,
+   "fin": 166,
+   "titulo_provisional": "Los burladores y el diluvio y mil años como un día: el día del Señor vendrá y cielos nuevos y tierra nueva y pablo, las Escrituras y creced en la gracia",
+   "unidades": [
+    "2p-burladores",
+    "2p-paciencia",
+    "2p-consumacion",
+    "2p-exhortacion"
+   ],
+   "parte": "p6",
+   "peso": 4500
+  },
+  {
+   "dia": 7,
+   "libro": "1J",
+   "desde": "1J 1:1",
+   "hasta": "1J 2:17",
+   "rango": "1J 1:1-2:17",
+   "versiculos": 27,
+   "ini": 167,
+   "fin": 193,
+   "titulo_provisional": "El Verbo de vida: lo que hemos visto y oído y dios es luz: andar en luz y confesar y abogado y propiciación: guardar sus mandamientos y el mandamiento nuevo y antiguo y hijitos, padres y jóvenes y no améis al mundo",
+   "unidades": [
+    "1j-prologo",
+    "1j-luz",
+    "1j-abogado",
+    "1j-mandamiento",
+    "1j-hijitos",
+    "1j-mundo"
+   ],
+   "parte": "p7",
+   "peso": 6750
+  },
+  {
+   "dia": 8,
+   "libro": "1J",
+   "desde": "1J 2:18",
+   "hasta": "1J 3:24",
+   "rango": "1J 2:18-3:24",
+   "versiculos": 36,
+   "ini": 194,
+   "fin": 229,
+   "titulo_provisional": "Es el último tiempo: los anticristos y permanecer y la unción del Santo y hijos de Dios: lo que hemos de ser y el que es nacido de Dios no practica el pecado y caín y el amor de hecho y en verdad y confianza delante de Dios",
+   "unidades": [
+    "1j-anticristos",
+    "1j-uncion",
+    "1j-hijos",
+    "1j-pecado",
+    "1j-cain",
+    "1j-confianza"
+   ],
+   "parte": "p8",
+   "peso": 9000
+  },
+  {
+   "dia": 9,
+   "libro": "1J",
+   "desde": "1J 4:1",
+   "hasta": "1J 5:21",
+   "rango": "1J 4:1-5:21",
+   "versiculos": 42,
+   "ini": 230,
+   "fin": 271,
+   "titulo_provisional": "Probad los espíritus y dios es amor y el perfecto amor echa fuera el temor y la fe que vence al mundo y agua, sangre y Espíritu: el testimonio de Dios y para que sepáis que tenéis vida eterna: la oración y sabemos: certezas finales y los ídolos",
+   "unidades": [
+    "1j-espiritus",
+    "1j-amor",
+    "1j-perfecto",
+    "1j-vence",
+    "1j-testimonio",
+    "1j-oracion",
+    "1j-certezas"
+   ],
+   "parte": "p9",
+   "peso": 10500
+  },
+  {
+   "dia": 10,
+   "libro": "2J+3J",
+   "desde": "2J 1",
+   "hasta": "3J 15",
+   "rango": "2J 1-3J 15",
+   "versiculos": 28,
+   "ini": 272,
+   "fin": 299,
+   "titulo_provisional": "El anciano a la señora elegida y andar en la verdad y en el amor y engañadores: no recibirlos en casa y cara a cara y gayo, el amado, anda en la verdad y colaboradores de la verdad: la hospitalidad y diótrefes, que ama tener el primer lugar y imitar lo bueno: Demetrio y paz a ti",
+   "unidades": [
+    "2j-saludo",
+    "2j-verdad",
+    "2j-enganadores",
+    "2j-despedida",
+    "3j-gayo",
+    "3j-hospitalidad",
+    "3j-diotrefes",
+    "3j-demetrio",
+    "3j-despedida"
+   ],
+   "parte": "p10",
+   "peso": 7000
+  },
+  {
+   "dia": 11,
+   "libro": "Jd",
+   "desde": "Jd 1",
+   "hasta": "Jd 25",
+   "rango": "Jd 1-25",
+   "versiculos": 25,
+   "ini": 300,
+   "fin": 324,
+   "titulo_provisional": "Llamados, amados y guardados y contender ardientemente por la fe y israel, los ángeles, Sodoma y Gomorra y soñadores: Miguel y el diablo y caín, Balaam y Coré: nubes sin agua y la profecía de Enoc y vosotros, amados: edificaos, conservaos, tened misericordia y al que es poderoso para guardaros",
+   "unidades": [
+    "jd-saludo",
+    "jd-proposito",
+    "jd-ejemplos",
+    "jd-sonadores",
+    "jd-cain",
+    "jd-enoc",
+    "jd-exhortacion",
+    "jd-doxologia"
+   ],
+   "parte": "p11",
+   "peso": 6250
+  }
+ ]
+}

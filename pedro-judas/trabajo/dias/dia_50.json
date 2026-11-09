@@ -4,13 +4,21 @@
   "desde": "1J 4:1",
   "hasta": "1J 4:6",
   "titulo": "Probad los espíritus",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "Ayer (1J 3:19-24) Juan cerró hablando de la confianza delante de Dios y terminó con una frase clave: sabemos que Dios permanece en nosotros por el Espíritu que nos ha dado. Esa mención del Espíritu es el puente hacia hoy: si hay un Espíritu verdadero, también hay espíritus falsos que dicen hablar de parte de Dios, y hay que saber distinguirlos.",
-    "ahora": "Con este pasaje empieza, según Kistemaker, una nueva parte de la carta, que él titula Amad a Dios (4:1-5:12). Juan vuelve por segunda vez a atacar de frente a los falsos maestros (la primera fue en 2:18-29) y da a la iglesia una manera de reconocerlos: qué confiesan sobre Jesús, de dónde sale lo que dicen y quiénes los escuchan.",
+    "antes": "Ayer (1J 3:19-24) Juan terminó diciendo que sabemos que Dios permanece en nosotros por el Espíritu que nos dio. Esa mención del Espíritu abre el tema de hoy: si hay un Espíritu verdadero, también hay espíritus falsos que dicen hablar de parte de Dios.",
+    "ahora": "Según Kistemaker, aquí empieza una nueva parte de la carta (4:1-5:12). Juan vuelve por segunda vez contra los falsos maestros (la primera fue en 2:18-29) y da a la iglesia cómo reconocerlos.",
     "cuando": "Según MacArthur, Juan escribe más de medio siglo después del Sermón del Monte y varias décadas después de las cartas de Pablo, y los falsos maestros seguían siendo una amenaza para la iglesia.",
-    "despues": "Mañana (1J 4:7-12) Juan pasa de la verdad al amor: Dios es amor, y quien ama ha nacido de Dios. Las dos pruebas, la de la doctrina y la del amor, van juntas en toda la carta.",
-    "fuentes": ["kis1j_04_b#12", "moodynt_02_d#2", "cbmh1j_02#19", "mbib1j_01_c#19", "r1_003#4", "mbib1j_01_c#18"]
+    "despues": "Mañana (1J 4:7-12) Juan pasa de la verdad al amor: Dios es amor. Las dos pruebas van juntas en toda la carta.",
+    "fuentes": [
+      "kis1j_04_b#12",
+      "moodynt_02_d#2",
+      "cbmh1j_02#19",
+      "r1_003#4"
+    ]
   },
   "versiculo_clave": {
     "ref": "1J 4:4",
@@ -18,128 +26,517 @@
   },
   "panorama": {
     "texto": "Juan pasa de la importancia del amor a la importancia de creer la verdad. No todo el que dice hablar en nombre del Espíritu habla de parte de Dios: detrás de los falsos maestros obra el engañador que desde el Edén busca torcer la Palabra de Dios. Por eso manda dejar de creer a cualquiera y examinar toda enseñanza, como se ensaya un metal. La prueba central es Jesús: el Espíritu de Dios lleva a confesar que Jesucristo ha venido en carne; lo que niega eso es el espíritu del anticristo, que ya actúa. Pero el tono final no es de alarma: los hijos de Dios ya vencieron, porque el que está en ellos es mayor; el mundo escucha a los suyos, y quien conoce a Dios escucha la enseñanza apostólica. Así se distingue el espíritu de verdad del espíritu de error.",
-    "fuentes": ["mbib1j_01_c#18", "mac1j_05_a#24", "ncb1j_01_b#4", "cbmh1j_02#24", "kis1j_04_b#12", "mac1j_05_a#21"]
+    "fuentes": [
+      "mbib1j_01_c#18",
+      "mac1j_05_a#24",
+      "ncb1j_01_b#4",
+      "cbmh1j_02#24",
+      "kis1j_04_b#12",
+      "mac1j_05_a#21"
+    ]
   },
   "secciones": [
     {
       "rango": "1J 4:1",
       "titulo": "Una advertencia: dejen de creerle a cualquiera",
       "notas": [
-        {"texto": "Juan empieza con ternura, «Amados», y varios comentaristas ven en esa palabra la señal de que lo que sigue es importante. Lo que pide es concreto: «no creáis a todo espíritu». La forma del mandato en griego, un imperativo presente con negación, se puede traducir como dejen de creer. Es decir, no prohíbe algo hipotético sino algo que ya estaba pasando: algunos lectores estaban aceptando sin examen lo que enseñaban los falsos maestros, y Juan les dice que lo corten ya.", "fuentes": ["moodynt_02_d#2", "kis1j_04_b#14", "mac1j_05_a#23", "cbmh1j_02#22", "kis1j_04_b#13"], "tipo": "exegesis"},
-        {"texto": "¿Por qué habla de espíritus? Porque el problema de fondo era quién estaba de verdad inspirado y quién solo decía estarlo. Kistemaker infiere que había falsos profetas que presentaban su enseñanza como revelación del Espíritu Santo. El Nuevo Comentario Bíblico recuerda que el problema no era nuevo: ya había falsos profetas en el Antiguo Testamento, y Pablo dio un criterio en 1Co 12:3. Bedford, citando a Barclay, describe un mundo del siglo I que creía en un universo lleno de demonios y espíritus, y una iglesia con muchas manifestaciones espirituales agitadas. Y Curtis Vaughan (citado por Bedford) agrega un dato práctico: las reuniones eran informales y los visitantes tenían libertad para hablar, de modo que cualquiera podía levantarse y decir que traía un mensaje de Dios.", "fuentes": ["ncb1j_01_b#4", "kis1j_04_b#14", "cbmh1j_02#19", "cbmh1j_02#21"], "tipo": "contexto"},
-        {"texto": "Kistemaker hace una observación útil: un espíritu no se ve, pero su enseñanza sí se oye y se entiende; por eso aquí espíritu equivale en la práctica a enseñanza (sigue a Berkhof). Hay dos ámbitos: el del Espíritu Santo, que vive en los hijos de Dios (3:24), y el del diablo, cuyo espíritu obra en los falsos profetas. La Biblia MacArthur lo dice así: al juntar espíritus y falsos profetas, Juan recuerda que detrás de los maestros humanos hay poderes demoníacos, y que los falsos profetas son el canal por el que hablan. MacArthur aclara que el mandato no tiene que ver con confrontar demonios ni hacer exorcismos, sino con evaluar lo que se ve, se oye y se lee.", "fuentes": ["kis1j_04_b#13", "mbib1j_01_c#20", "mac1j_05_a#24", "bea1j_02_a#16"], "tipo": "exegesis"},
-        {"texto": "El motivo de la urgencia: «muchos falsos profetas han salido por el mundo». El Nuevo Comentario Bíblico sugiere que «han salido» puede apuntar a los que se fueron de la iglesia (2:19), y Blaney (Beacon) los identifica con los muchos anticristos que salieron de nosotros en 2:18-27. MacArthur subraya que el error más eficaz no es el que contradice abiertamente la verdad sino el que la mezcla con mentira, como un caballo de Troya (2P 2:1) o como el que se disfraza de ángel de luz (2Co 11:14-15). Vaughan agrega que Juan no enfrentaba a paganos sino a gente que se decía cristiana, que decía tener el Espíritu y un conocimiento profundo: sonaban cristianos, pero eran enemigos de Cristo.", "fuentes": ["ncb1j_01_b#4", "bea1j_02_a#16", "mac1j_05_a#25", "cbmh1j_02#21"], "tipo": "contexto"},
-        {"texto": "La Biblia MacArthur resume la actitud que pide Juan como un sano escepticismo: no recibir a cualquiera que llega con una supuesta enseñanza nueva, sino hacer como los de Berea, que examinaban las Escrituras para ver si lo que oían era así (Hch 17:11). Bedford lo dice de otra manera: la fe verdadera examina su objeto antes de descansar en él. Y Matthew Henry agrega el equilibrio: los creyentes familiarizados con las Escrituras pueden discernir, pero en humilde dependencia de la enseñanza de Dios.", "fuentes": ["mbib1j_01_c#19", "mac1j_05_a#23", "cbmh1j_02#22", "mhenry_01_c#25"], "tipo": "aplicacion"}
+        {
+          "texto": "Juan empieza con ternura, «Amados», y varios comentaristas ven en esa palabra la señal de que lo que sigue es importante. Lo que pide es concreto: «no creáis a todo espíritu». La forma del mandato en griego, un imperativo presente con negación, se puede traducir como dejen de creer. Es decir, no prohíbe algo hipotético sino algo que ya estaba pasando: algunos lectores estaban aceptando sin examen lo que enseñaban los falsos maestros, y Juan les dice que lo corten ya.",
+          "fuentes": [
+            "moodynt_02_d#2",
+            "kis1j_04_b#14",
+            "mac1j_05_a#23",
+            "cbmh1j_02#22",
+            "kis1j_04_b#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Por qué habla de espíritus? Porque el problema era quién estaba de verdad inspirado y quién solo decía estarlo. Kistemaker infiere que había falsos profetas que presentaban su enseñanza como revelación del Espíritu Santo. El problema no era nuevo, recuerda el Nuevo Comentario Bíblico: ya había falsos profetas en el Antiguo Testamento. Bedford agrega, citando a Curtis Vaughan, que las reuniones eran informales y los visitantes podían hablar, y que Juan no enfrentaba a paganos sino a gente que se decía cristiana y decía tener el Espíritu: sonaban cristianos, pero eran enemigos de Cristo.",
+          "fuentes": [
+            "ncb1j_01_b#4",
+            "kis1j_04_b#14",
+            "cbmh1j_02#21"
+          ],
+          "tipo": "contexto"
+        },
+        {
+          "texto": "Kistemaker observa que un espíritu no se ve, pero su enseñanza sí se oye; por eso aquí espíritu equivale en la práctica a enseñanza (sigue a Berkhof). Hay dos ámbitos: el del Espíritu Santo, que vive en los hijos de Dios (3:24), y el del diablo, que obra en los falsos profetas. La Biblia MacArthur lo resume: detrás de los maestros humanos hay poderes demoníacos que hablan a través de ellos. Pero el mandato, aclara MacArthur, no es confrontar demonios sino evaluar lo que se ve, se oye y se lee.",
+          "fuentes": [
+            "kis1j_04_b#13",
+            "mbib1j_01_c#20",
+            "mac1j_05_a#24",
+            "bea1j_02_a#16"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El motivo de la urgencia: «muchos falsos profetas han salido por el mundo». El Nuevo Comentario Bíblico sugiere que «han salido» puede apuntar a los que se fueron de la iglesia (2:19). MacArthur subraya que el error más eficaz no contradice abiertamente la verdad sino que la mezcla con mentira, como un caballo de Troya (2P 2:1) o como quien se disfraza de ángel de luz (2Co 11:14-15).",
+          "fuentes": [
+            "ncb1j_01_b#4",
+            "mac1j_05_a#25"
+          ],
+          "tipo": "contexto"
+        },
+        {
+          "texto": "La Biblia MacArthur llama a esto un sano escepticismo: hacer como los de Berea, que examinaban las Escrituras (Hch 17:11). Bedford lo dice así: la fe verdadera examina su objeto antes de descansar en él. Y Matthew Henry agrega que se discierne en humilde dependencia de la enseñanza de Dios.",
+          "fuentes": [
+            "mbib1j_01_c#19",
+            "mac1j_05_a#23",
+            "cbmh1j_02#22",
+            "mhenry_01_c#25"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1J 4:2-3",
       "titulo": "Una prueba: ¿qué dice de Jesús?",
       "notas": [
-        {"texto": "Juan da la vara para medir: el Espíritu de Dios se reconoce en quien confiesa que «Jesucristo ha venido en carne». El Nuevo Comentario Bíblico, siguiendo la Biblia de Jerusalén, propone traducir confiesa a Jesucristo venido en carne: el centro no es solo una frase correcta sino una Persona. Y en carne subraya la encarnación: Jesús no tomó una apariencia humana, sino carne verdadera (Jn 1:14; 2J 7).", "fuentes": ["ncb1j_01_b#4", "mbib1j_01_c#21", "kis1j_04_b#16"], "tipo": "exegesis"},
-        {"texto": "Esa confesión afirma las dos cosas a la vez. Kistemaker dice que el Espíritu de Dios se reconoce en quien confiesa abiertamente que Jesucristo es humano y divino. Blaney nota que en el mismo nombre Jesús apunta a su humanidad y Cristo a su divinidad, y cita a Plummer: Cristo no descendió sobre un hombre que ya existía, sino que vino en la naturaleza humana, se hizo carne. La Biblia MacArthur insiste en que todo maestro genuino debe defender tanto la humanidad plena como la deidad plena de Jesús; Bedford observa que en 2:18-27 los falsos maestros negaban su divinidad y aquí niegan su humanidad.", "fuentes": ["kis1j_04_b#16", "bea1j_02_a#17", "mbib1j_01_c#21", "cbmh1j_02#23"], "tipo": "doctrina"},
-        {"texto": "¿Por qué alguien negaría que Jesús vino en carne? Varios autores explican que la filosofía griega difundida en la época veía lo material como malo y solo lo espiritual como bueno; para quienes pensaban así, Dios no podía unirse a un cuerpo real. De ahí el docetismo (de la palabra griega para parecer o apariencia), que enseñaba que el cuerpo de Jesús era una ilusión, o que el Cristo celestial solo descendió sobre el hombre Jesús sin tocar un cuerpo. Kistemaker advierte que las cartas no permiten saber si los oponentes de Juan eran docetistas estrictos (ver Interpretaciones), y el Diccionario Mundo Hispano ve en el Nuevo Testamento los gérmenes de ese error, no el sistema desarrollado un siglo después.", "fuentes": ["r1_003#6", "kis1j_01_b#11", "cbmh1j_02#23", "dbmh_01_b#6"], "tipo": "contexto"},
-        {"texto": "Kistemaker, citando Mt 10:32-33, saca la consecuencia: quien niega la naturaleza humana o la divina de Cristo, o las separa, no habla con autoridad de Dios. Da ejemplos de enseñanzas que distorsionan el evangelio: que Jesús recibió un espíritu divino en el bautismo que lo abandonó en la cruz, o que Dios lo designó Hijo recién después de su muerte. El Comentario Moody aclara que esta no es la única prueba de ortodoxia, pero sí una muy importante y la más urgente en tiempos de Juan.", "fuentes": ["kis1j_04_b#17", "moodynt_02_d#3"], "tipo": "doctrina"},
-        {"texto": "Y no hay posición neutral, dice Bedford: el v. 3 cierra la otra puerta. Todo espíritu que no confiesa a Jesús no es de Dios, y Juan lo llama «el espíritu del anticristo». Los lectores habían oído que el anticristo vendría, como algo futuro; Juan les dice que ese espíritu «ahora ya está en el mundo». El Nuevo Comentario Bíblico nota que las palabras ahora, ya y en el mundo juntas hacen fuerte el énfasis en lo presente. Kistemaker, con Plummer, entiende por ese espíritu la naturaleza anticristiana: los principios y poderes que se expresan, a veces con astucia y a veces con violencia, contra Cristo y los suyos. Ver Interpretaciones sobre la relación con el anticristo que viene.", "fuentes": ["cbmh1j_02#23", "ncb1j_01_b#4", "kis1j_04_b#18", "mac1j_05_a#31"], "tipo": "exegesis"}
+        {
+          "texto": "Juan da la vara para medir: el Espíritu de Dios se reconoce en quien confiesa que «Jesucristo ha venido en carne». El Nuevo Comentario Bíblico, siguiendo la Biblia de Jerusalén, propone traducir confiesa a Jesucristo venido en carne: el centro no es solo una frase correcta sino una Persona. Y en carne subraya la encarnación: Jesús no tomó una apariencia humana, sino carne verdadera (Jn 1:14; 2J 7).",
+          "fuentes": [
+            "ncb1j_01_b#4",
+            "mbib1j_01_c#21",
+            "kis1j_04_b#16"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La confesión afirma las dos cosas a la vez: Kistemaker dice que el Espíritu de Dios se reconoce en quien confiesa que Jesucristo es humano y divino. Blaney cita a Plummer: Cristo no descendió sobre un hombre que ya existía, sino que vino en la naturaleza humana, se hizo carne. Bedford observa que en 2:18-27 los falsos maestros negaban su divinidad y aquí niegan su humanidad.",
+          "fuentes": [
+            "kis1j_04_b#16",
+            "bea1j_02_a#17",
+            "cbmh1j_02#23",
+            "mbib1j_01_c#21"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Por qué alguien negaría que Jesús vino en carne? La filosofía griega difundida en la época veía lo material como malo; para quien pensaba así, Dios no podía unirse a un cuerpo real. De ahí el docetismo (de la palabra griega para apariencia), que enseñaba que el cuerpo de Jesús era una ilusión, o que el Cristo celestial solo descendió sobre el hombre Jesús. Si los oponentes de Juan eran docetistas en sentido estricto se discute (ver Interpretaciones).",
+          "fuentes": [
+            "r1_003#6",
+            "kis1j_01_b#11"
+          ],
+          "tipo": "contexto"
+        },
+        {
+          "texto": "Kistemaker, citando Mt 10:32-33, concluye que quien niega la naturaleza humana o la divina de Cristo, o las separa, no habla de parte de Dios; por ejemplo, quien enseña que un espíritu divino vino sobre Jesús en el bautismo y lo dejó en la cruz. El Comentario Moody aclara que esta no es la única prueba de ortodoxia, pero sí la más urgente en tiempos de Juan.",
+          "fuentes": [
+            "kis1j_04_b#17",
+            "moodynt_02_d#3"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "No hay posición neutral, dice Bedford: el que no confiesa a Jesús no es de Dios, y Juan lo llama «el espíritu del anticristo». Los lectores esperaban al anticristo como algo futuro; Juan les dice que ese espíritu «ahora ya está en el mundo», y el Nuevo Comentario Bíblico nota cómo ahora, ya y en el mundo juntos refuerzan lo presente. Ver Interpretaciones.",
+          "fuentes": [
+            "cbmh1j_02#23",
+            "ncb1j_01_b#4"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 4:4",
       "titulo": "Un contraste: ustedes ya vencieron",
       "notas": [
-        {"texto": "Después de la advertencia, Juan cambia de tono: «Hijitos, vosotros sois de Dios». El pronombre ustedes está puesto al principio, enfático: Kistemaker dice que Juan les recuerda su herencia, no solo que nacieron de Dios sino que son distintos de los que son del mundo. El Nuevo Comentario Bíblico resume: los cristianos no necesitan temer.", "fuentes": ["kis1j_04_b#22", "ncb1j_01_b#5", "kis1j_04_b#24"], "tipo": "exegesis"},
-        {"texto": "«Los habéis vencido» se refiere a los falsos maestros mismos, según el Comentario Moody y Kistemaker. El verbo está en perfecto: una victoria del pasado cuyo efecto sigue. Bedford lo explica como que vencieron y siguen victoriosos; el Nuevo Comentario Bíblico lo llama una victoria decisiva y constante, y cuenta que, fuera del Apocalipsis, esta carta breve usa el verbo vencer más que ningún otro libro. ¿Cómo vencieron? Kistemaker responde: obedeciendo los mandamientos y honrando la Palabra, es decir, no cediendo. Y los hijos de Dios no se jactan de sí mismos sino de su Señor, que venció al mundo (Jn 16:33); citando a Günther, la batalla ya está decidida aunque todavía no terminó, y por la fe los creyentes participan de esa victoria.", "fuentes": ["moodynt_02_d#4", "kis1j_04_b#22", "cbmh1j_02#24", "ncb1j_01_b#5"], "tipo": "exegesis"},
-        {"texto": "La razón está en la segunda mitad: «mayor es el que está en vosotros, que el que está en el mundo». El que está en el mundo es el diablo, el príncipe de este mundo (Jn 12:31), coinciden el Comentario Moody y el Nuevo Comentario Bíblico. Sobre quién es el que está en ustedes, ver Interpretaciones. La Biblia MacArthur saca la aplicación: los creyentes deben conocer los engaños pero sin miedo, porque el Espíritu que vive en ellos los guía a la sana doctrina, y nada puede arrebatarlos de la mano del Señor. MacArthur, en su comentario, agrega que los nacidos de nuevo pueden tener dudas en cosas secundarias, pero no serán engañados en las verdades fundamentales del evangelio (Jn 10:28-29). Bedford pone el contrapeso: la victoria es de la iglesia, pero exige discernimiento constante.", "fuentes": ["moodynt_02_d#4", "ncb1j_01_b#5", "mbib1j_01_c#23", "mac1j_05_a#32", "cbmh1j_02#24"], "tipo": "doctrina"}
+        {
+          "texto": "Después de la advertencia, Juan cambia de tono: «Hijitos, vosotros sois de Dios». El pronombre ustedes está puesto al principio, enfático: Kistemaker dice que Juan les recuerda su herencia, no solo que nacieron de Dios sino que son distintos de los que son del mundo. El Nuevo Comentario Bíblico resume: los cristianos no necesitan temer.",
+          "fuentes": [
+            "kis1j_04_b#22",
+            "ncb1j_01_b#5",
+            "kis1j_04_b#24"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Los habéis vencido» se refiere a los falsos maestros mismos (Comentario Moody, Kistemaker). El verbo está en perfecto: una victoria pasada cuyo efecto sigue; el Nuevo Comentario Bíblico la llama decisiva y constante, y cuenta que, fuera del Apocalipsis, ningún libro usa tanto el verbo vencer. ¿Cómo vencieron? Obedeciendo los mandamientos y honrando la Palabra, responde Kistemaker; y no se jactan de sí mismos sino de su Señor, que venció al mundo (Jn 16:33).",
+          "fuentes": [
+            "moodynt_02_d#4",
+            "kis1j_04_b#22",
+            "ncb1j_01_b#5"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La razón: «mayor es el que está en vosotros, que el que está en el mundo». El que está en el mundo es el diablo, el príncipe de este mundo (Jn 12:31); sobre quién es el que está en ustedes, ver Interpretaciones. La Biblia MacArthur aplica: conocer los engaños, pero sin miedo, porque el Espíritu guía a la sana doctrina y nada arrebata a los suyos de la mano del Señor (Jn 10:28-29). Bedford pone el contrapeso: la victoria es segura, pero exige discernimiento constante.",
+          "fuentes": [
+            "moodynt_02_d#4",
+            "ncb1j_01_b#5",
+            "mbib1j_01_c#23",
+            "mac1j_05_a#32",
+            "cbmh1j_02#24"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 4:5",
       "titulo": "Ellos: hablan desde el mundo y el mundo los oye",
       "notas": [
-        {"texto": "«Ellos son del mundo; por eso hablan del mundo, y el mundo los oye». La palabra mundo aparece tres veces: de ahí vienen, de ahí sale lo que dicen y ese es su público. Kistemaker señala que aquí mundo no es simplemente la humanidad, como en los vv. 1 y 3, sino la gente hostil a Dios, donde Satanás gobierna como príncipe. El Comentario Moody precisa que hablan del mundo quiere decir que el mundo es la fuente de lo que dicen, no necesariamente el tema.", "fuentes": ["ncb1j_01_b#5", "kis1j_04_b#23", "moodynt_02_d#4"], "tipo": "exegesis"},
-        {"texto": "Que el mundo los oiga no prueba que tengan razón; prueba de dónde vienen. Matthew Henry describe a estos maestros hablando según los gustos y las máximas del mundo para no ofender a nadie: el mundo los aprueba, crecen rápido y juntan muchos seguidores. Blaney concluye que no debería sorprendernos la variedad y la popularidad de los falsos profetas: el mundo los oye. Kistemaker observa además que Juan ni siquiera detalla el contenido de sus discursos; solo dice que hablan y que resultan persuasivos para quienes ya comparten su oposición a Dios.", "fuentes": ["mhenry_01_c#25", "bea1j_02_a#16", "kis1j_04_b#23"], "tipo": "aplicacion"},
-        {"texto": "Richards y MacArthur agregan que la prueba no es solo de doctrina sino también de vida: el maestro que habla desde el punto de vista del mundo, y vive como el mundo (los deseos de la carne, de los ojos y la vanagloria de 1J 2:16), muestra con lo que dice y con cómo vive que no es siervo de Cristo.", "fuentes": ["rich1j_01_b#12", "mac1j_05_a#33"], "tipo": "aplicacion"}
+        {
+          "texto": "«Ellos son del mundo; por eso hablan del mundo, y el mundo los oye». Mundo aparece tres veces: de ahí vienen, de ahí sale lo que dicen y ese es su público. Kistemaker señala que aquí mundo no es la humanidad en general sino la gente hostil a Dios; el Comentario Moody precisa que el mundo es la fuente de lo que dicen, no necesariamente el tema.",
+          "fuentes": [
+            "ncb1j_01_b#5",
+            "kis1j_04_b#23",
+            "moodynt_02_d#4"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Que el mundo los oiga no prueba que tengan razón; muestra de dónde vienen. Matthew Henry los describe hablando según los gustos del mundo para no ofender: el mundo los aprueba y juntan muchos seguidores. Richards y MacArthur agregan que la prueba también es de vida: quien habla y vive como el mundo (1J 2:16) muestra que no es siervo de Cristo.",
+          "fuentes": [
+            "mhenry_01_c#25",
+            "bea1j_02_a#16",
+            "rich1j_01_b#12",
+            "mac1j_05_a#33"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1J 4:6",
       "titulo": "Nosotros: el que conoce a Dios nos oye",
       "notas": [
-        {"texto": "«Nosotros somos de Dios». Este nosotros, enfático otra vez, no es el mismo que el ustedes del v. 4. Kistemaker y MacArthur entienden que se refiere sobre todo a Juan y a los apóstoles, que hablan con autoridad de parte de Dios; el Comentario Moody también lo aplica a los apóstoles. El criterio es la reacción ante la enseñanza apostólica: el que conoce a Dios la escucha, y el que no es de Dios no. Kistemaker ve aquí un eco de Jesús: el que es de Dios, las palabras de Dios oye (Jn 8:47), y mis ovejas oyen mi voz (Jn 10:27).", "fuentes": ["kis1j_04_b#25", "mac1j_05_a#34", "moodynt_02_d#4"], "tipo": "exegesis"},
-        {"texto": "Para nosotros, hoy, esa enseñanza apostólica está escrita. La Biblia MacArthur lo formula como la segunda prueba: el maestro verdadero habla conforme a la doctrina apostólica, y los dos Testamentos son el único parámetro para probar toda enseñanza; el falso o rechaza lo que la Palabra dice claramente o le agrega cosas. MacArthur agrega que la Escritura es más segura que las experiencias (2P 1:19) y permanece para siempre (1P 1:25). Richards suma un matiz: el creyente reconoce los escritos de Juan como verdad de Dios, y el Espíritu lo confirma en el corazón.", "fuentes": ["mbib1j_01_c#24", "mac1j_05_a#34", "rich1j_01_b#12"], "tipo": "doctrina"},
-        {"texto": "«En esto conocemos el espíritu de verdad y el espíritu de error». Blaney identifica el espíritu de verdad con el Espíritu de Dios, el Consolador prometido por Jesús (Jn 14:17), que permanece en el creyente; así Juan arma una evidencia sólida para que el cristiano esté seguro de su relación con Dios y distinga la verdad del error. Kistemaker añade que quien no escucha no es una víctima pasiva: rechaza el llamado al arrepentimiento y a la fe, y es responsable. La misma Palabra predicada es, como dice Pablo, aroma de vida para unos y de muerte para otros (2Co 2:14-16).", "fuentes": ["bea1j_02_a#19", "kis1j_04_b#25"], "tipo": "doctrina"}
+        {
+          "texto": "«Nosotros somos de Dios». Este nosotros enfático no es el ustedes del v. 4: Kistemaker, MacArthur y el Comentario Moody entienden que se refiere sobre todo a Juan y a los apóstoles. La prueba es la reacción ante la enseñanza apostólica, un eco de Jesús: el que es de Dios oye las palabras de Dios (Jn 8:47) y las ovejas oyen la voz del pastor (Jn 10:27).",
+          "fuentes": [
+            "kis1j_04_b#25",
+            "mac1j_05_a#34",
+            "moodynt_02_d#4"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Hoy esa enseñanza apostólica está escrita. La Biblia MacArthur lo formula como segunda prueba: los dos Testamentos son el único parámetro, y el falso maestro rechaza lo que la Palabra dice claramente o le agrega. MacArthur añade que la Escritura es más segura que las experiencias (2P 1:19) y permanece para siempre (1P 1:25).",
+          "fuentes": [
+            "mbib1j_01_c#24",
+            "mac1j_05_a#34"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«En esto conocemos el espíritu de verdad y el espíritu de error». Blaney identifica el espíritu de verdad con el Espíritu prometido por Jesús (Jn 14:17), que permanece en el creyente y le da seguridad para distinguir la verdad del error. Kistemaker añade que quien no escucha no es una víctima pasiva: rechaza el llamado al arrepentimiento y es responsable.",
+          "fuentes": [
+            "bea1j_02_a#19",
+            "kis1j_04_b#25"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1J 4:1", "griego": "δοκιμάζετε", "translit": "dokimázete", "significado": "Probad, examinad. Era el verbo de los ensayos de metales: se ponía el metal al fuego para comprobar su pureza y su valor (Pr 17:3). Está en presente: un examen continuo, no de una sola vez. El Comentario Moody lo contrasta con peirázo, que suele ser probar para encontrar el defecto: dokimázo es probar con la esperanza de poder aprobar.", "fuentes": ["mac1j_05_a#24", "mbib1j_01_c#20", "moodynt_02_d#2", "r1_003#4", "kis1j_04_b#15", "cbmh1j_02#22"]},
-    {"ref": "1J 4:2", "griego": "ὁμολογεῖ", "translit": "homologeí", "significado": "Confiesa; literalmente, decir lo mismo. El maestro verdadero dice sobre Jesús lo mismo que dice Dios en su Palabra. Está en presente: una confesión que se sostiene. En el v. 3 hubo una variante antigua (disuelve en lugar de no confiesa); Kistemaker, con Metzger, prefiere no confiesa por el abrumador apoyo de los manuscritos.", "fuentes": ["mac1j_05_a#28", "kis1j_04_b#21"]},
-    {"ref": "1J 4:2", "griego": "ἐληλυθότα", "translit": "elēlythóta", "significado": "Venido, en participio perfecto: una acción pasada con efecto que dura. No dice solo que Jesús vino en carne en un momento, sino que vino y sigue en carne. Ver Cristo.", "fuentes": ["kis1j_04_b#20", "moodynt_02_d#3", "cbmh1j_02#23", "r1_001#17"]},
-    {"ref": "1J 4:4", "griego": "νενικήκατε", "translit": "nenikḗkate", "significado": "Habéis vencido, perfecto de nikáo: un hecho pasado con efecto en el presente. La victoria ya ocurrió y sigue en pie.", "fuentes": ["kis1j_04_b#24", "ncb1j_01_b#5", "cbmh1j_02#24"]}
+    {
+      "ref": "1J 4:1",
+      "griego": "δοκιμάζετε",
+      "translit": "dokimázete",
+      "significado": "Probad, examinad. Era el verbo de los ensayos de metales: se ponía el metal al fuego para comprobar su pureza y su valor (Pr 17:3). Está en presente: un examen continuo, no de una sola vez. El Comentario Moody lo contrasta con peirázo, que suele ser probar para encontrar el defecto: dokimázo es probar con la esperanza de poder aprobar.",
+      "fuentes": [
+        "mac1j_05_a#24",
+        "mbib1j_01_c#20",
+        "moodynt_02_d#2",
+        "r1_003#4",
+        "kis1j_04_b#15",
+        "cbmh1j_02#22"
+      ]
+    },
+    {
+      "ref": "1J 4:2",
+      "griego": "ὁμολογεῖ",
+      "translit": "homologeí",
+      "significado": "Confiesa; literalmente, decir lo mismo. El maestro verdadero dice sobre Jesús lo mismo que dice Dios en su Palabra. Está en presente: una confesión que se sostiene. En el v. 3 hubo una variante antigua (disuelve en lugar de no confiesa); Kistemaker, con Metzger, prefiere no confiesa por el abrumador apoyo de los manuscritos.",
+      "fuentes": [
+        "mac1j_05_a#28",
+        "kis1j_04_b#21"
+      ]
+    },
+    {
+      "ref": "1J 4:2",
+      "griego": "ἐληλυθότα",
+      "translit": "elēlythóta",
+      "significado": "Venido, en participio perfecto: una acción pasada con efecto que dura. No dice solo que Jesús vino en carne en un momento, sino que vino y sigue en carne. Ver Cristo.",
+      "fuentes": [
+        "kis1j_04_b#20",
+        "moodynt_02_d#3",
+        "cbmh1j_02#23",
+        "r1_001#17"
+      ]
+    },
+    {
+      "ref": "1J 4:4",
+      "griego": "νενικήκατε",
+      "translit": "nenikḗkate",
+      "significado": "Habéis vencido, perfecto de nikáo: un hecho pasado con efecto en el presente. La victoria ya ocurrió y sigue en pie.",
+      "fuentes": [
+        "kis1j_04_b#24",
+        "ncb1j_01_b#5",
+        "cbmh1j_02#24"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "La encarnación no fue un disfraz pasajero. Piper hace notar que el texto no dice que Jesús vino en carne como si fuera algo temporal, sino que ha venido en carne: el Hijo eterno quedó unido para siempre a nuestra naturaleza humana. Kistemaker dice lo mismo: aun ahora, en el cielo, conserva su naturaleza humana. Geisler y Howe lo usan para mostrar que Jesús sigue en carne después de la resurrección, y recuerdan sus palabras: un espíritu no tiene carne ni huesos como ven que yo tengo (Lc 24:39). Es, dice Piper, el primogénito entre muchos hermanos (Ro 8:29), y Dios no despreció su creación física.", "refs": ["Ro 8:29", "Lc 24:39", "2J 7"], "fuentes": ["r1_010#13", "r1_012_a#10", "kis1j_04_b#16", "r1_001#17"]},
-    {"texto": "Sin carne no hay cruz. El Comentario Moody lo dice sencillo: si no hubiera tomado un cuerpo humano, nunca hubiera podido morir y ser el Salvador. MacArthur agrega que vino en carne para morir como sustituto humano por los pecados (Gá 4:4-5; He 2:17), y que es el único mediador (1Ti 2:5). Por eso negar la encarnación es negar el corazón del evangelio.", "refs": ["Gá 4:4-5", "He 2:17", "1Ti 2:5"], "fuentes": ["moodynt_02_d#3", "mac1j_05_a#29", "cbmh1j_02#23"]},
-    {"texto": "Piper lleva la idea al nuevo nacimiento: sin Navidad no habría regeneración, porque no habría un Cristo encarnado en quien creer ni una unión con él de la cual recibir vida. Blaney dice que la encarnación reúne en sí las otras grandes verdades, el nacimiento virginal, la cruz y la resurrección, y que todo lo que se llame cristiano se sostiene o cae con ella.", "refs": ["1J 5:12", "Jn 5:23"], "fuentes": ["r1_011#22", "bea1j_02_a#17"]},
-    {"texto": "Y el que está en el creyente es mayor: el mismo Cristo que venció al mundo (Jn 16:33) dejó sin poder al diablo frente a los suyos (He 2:14). MacArthur y Mayhue contrastan: Satanás puede morar en una ciudad (Ap 2:13), pero solo Dios mora en el creyente; Satanás acusa, pero Cristo es nuestro abogado ante el Padre (1J 2:1).", "refs": ["Jn 16:33", "He 2:14", "1J 2:1"], "fuentes": ["kis1j_04_b#22", "r1_018_b#4"]}
+    {
+      "texto": "La encarnación no fue un disfraz pasajero. Piper hace notar que el texto no dice que Jesús vino en carne como algo temporal, sino que ha venido en carne: el Hijo eterno quedó unido para siempre a nuestra naturaleza humana, y Kistemaker agrega que aun ahora, en el cielo, la conserva. Geisler y Howe lo relacionan con la resurrección: Jesús sigue en carne (Lc 24:39). Es el primogénito entre muchos hermanos (Ro 8:29).",
+      "refs": [
+        "Ro 8:29",
+        "Lc 24:39",
+        "2J 7"
+      ],
+      "fuentes": [
+        "r1_010#13",
+        "r1_012_a#10",
+        "kis1j_04_b#16",
+        "r1_001#17"
+      ]
+    },
+    {
+      "texto": "Sin carne no hay cruz. El Comentario Moody lo dice simple: sin un cuerpo humano no hubiera podido morir y ser el Salvador; MacArthur agrega que vino en carne para morir como sustituto por los pecados (Gá 4:4-5; He 2:17).",
+      "refs": [
+        "Gá 4:4-5",
+        "He 2:17"
+      ],
+      "fuentes": [
+        "moodynt_02_d#3",
+        "mac1j_05_a#29",
+        "cbmh1j_02#23"
+      ]
+    },
+    {
+      "texto": "Y el que está en el creyente es mayor: MacArthur y Mayhue contrastan que Satanás puede morar en una ciudad (Ap 2:13), pero solo Dios mora en el creyente, y que Satanás acusa pero Cristo es nuestro abogado (1J 2:1).",
+      "refs": [
+        "1J 2:1"
+      ],
+      "fuentes": [
+        "r1_018_b#4"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Quién es el que está en vosotros (v. 4)?",
       "posturas": [
-        {"postura": "Juan no lo precisa; el texto deja abierto cuál persona de la Trinidad es, aunque la mención del Espíritu en 3:24 apunta al Espíritu Santo.", "quien": "Comentario Moody (Harrison, ed.)", "fuentes": ["moodynt_02_d#4"]},
-        {"postura": "Podría ser cualquiera de las personas de la Trinidad: lo importante es que es Dios, mucho más poderoso que el diablo.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1j_01_b#5"]},
-        {"postura": "Es el Espíritu Santo que vive en los hijos de Dios, los mantiene en la verdad de la Palabra y los fortalece contra la tentación.", "quien": "Kistemaker; Biblia MacArthur", "fuentes": ["kis1j_04_b#22", "mbib1j_01_c#23"]}
+        {
+          "postura": "Juan no lo precisa; el texto deja abierto cuál persona de la Trinidad es, aunque la mención del Espíritu en 3:24 apunta al Espíritu Santo.",
+          "quien": "Comentario Moody (Harrison, ed.)",
+          "fuentes": [
+            "moodynt_02_d#4"
+          ]
+        },
+        {
+          "postura": "Podría ser cualquiera de las personas de la Trinidad: lo importante es que es Dios, mucho más poderoso que el diablo.",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb1j_01_b#5"
+          ]
+        },
+        {
+          "postura": "Es el Espíritu Santo que vive en los hijos de Dios, los mantiene en la verdad de la Palabra y los fortalece contra la tentación.",
+          "quien": "Kistemaker; Biblia MacArthur",
+          "fuentes": [
+            "kis1j_04_b#22",
+            "mbib1j_01_c#23"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que el que está en el mundo es el diablo y en que Dios en el creyente es mayor."
     },
     {
       "tema": "¿Eran docetistas los oponentes de Juan?",
       "posturas": [
-        {"postura": "Las cartas no permiten saberlo con certeza: Juan subraya la humanidad de Jesús, pero no dice que sus oponentes vieran su cuerpo como un fantasma.", "quien": "Kistemaker", "fuentes": ["kis1j_01_b#11"]},
-        {"postura": "Sí: los que se separaron cayeron en el tipo de docetismo que combatió Ignacio de Antioquía.", "quien": "Raymond Brown (citado por Kistemaker)", "fuentes": ["kis1j_01_b#11"]},
-        {"postura": "Se trataba de docetismo, la herejía que enseñaba que el cuerpo de Jesús era una ilusión, y que Juan expuso como engaño satánico.", "quien": "MacArthur (Fuego extraño); Bedford habla de un docetismo incipiente", "fuentes": ["r1_003#6", "cbmh1j_02#23"]},
-        {"postura": "En el Nuevo Testamento hay gérmenes del error gnóstico, no el sistema desarrollado que enfrentaron los maestros cristianos un siglo más tarde.", "quien": "Diccionario Mundo Hispano", "fuentes": ["dbmh_01_b#6"]}
+        {
+          "postura": "Las cartas no permiten saberlo con certeza: Juan subraya la humanidad de Jesús, pero no dice que sus oponentes vieran su cuerpo como un fantasma.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1j_01_b#11"
+          ]
+        },
+        {
+          "postura": "Sí: los que se separaron cayeron en el tipo de docetismo que combatió Ignacio de Antioquía.",
+          "quien": "Raymond Brown (citado por Kistemaker)",
+          "fuentes": [
+            "kis1j_01_b#11"
+          ]
+        },
+        {
+          "postura": "Era docetismo, que enseñaba que el cuerpo de Jesús era una ilusión; Bedford habla de un docetismo incipiente.",
+          "quien": "MacArthur (Fuego extraño); Bedford",
+          "fuentes": [
+            "r1_003#6",
+            "cbmh1j_02#23"
+          ]
+        },
+        {
+          "postura": "El Nuevo Testamento muestra gérmenes del error gnóstico, no el sistema desarrollado un siglo después.",
+          "quien": "Diccionario Mundo Hispano",
+          "fuentes": [
+            "dbmh_01_b#6"
+          ]
+        }
       ],
       "nota": "Más allá del nombre del error, todos coinciden en lo que Juan afirma: Jesucristo vino de verdad en carne."
     },
     {
       "tema": "El espíritu del anticristo que ya está y el anticristo que viene",
       "posturas": [
-        {"postura": "Los lectores esperaban al anticristo como algo futuro; Juan ve una realidad presente: muchos anticristos (2:18) y aquí el espíritu del anticristo.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1j_01_b#4"]},
-        {"postura": "El espíritu del anticristo es la naturaleza anticristiana, los principios y poderes que ya actúan contra Cristo (con 2Ts 2:3-8).", "quien": "Kistemaker (siguiendo a Plummer)", "fuentes": ["kis1j_04_b#18"]},
-        {"postura": "Habrá un anticristo final, último gobernante mundial y falso cristo, que será la personificación máxima de todos los espíritus del anticristo; el misterio de iniquidad ya opera (2Ts 2:3-8; Ap 13:1-8).", "quien": "Biblia MacArthur; MacArthur", "fuentes": ["mbib1j_01_c#22", "mac1j_05_a#31"]}
+        {
+          "postura": "Los lectores esperaban al anticristo como algo futuro; Juan ve una realidad presente: muchos anticristos (2:18) y aquí el espíritu del anticristo.",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb1j_01_b#4"
+          ]
+        },
+        {
+          "postura": "El espíritu del anticristo es la naturaleza anticristiana, los principios y poderes que ya actúan contra Cristo (con 2Ts 2:3-8).",
+          "quien": "Kistemaker (siguiendo a Plummer)",
+          "fuentes": [
+            "kis1j_04_b#18"
+          ]
+        },
+        {
+          "postura": "Habrá un anticristo final, falso cristo y último gobernante mundial, personificación máxima de todos los espíritus del anticristo (2Ts 2:3-8).",
+          "quien": "Biblia MacArthur; MacArthur",
+          "fuentes": [
+            "mbib1j_01_c#22",
+            "mac1j_05_a#31"
+          ]
+        }
       ],
-      "nota": "Las fuentes del día no se oponen entre sí, pero ponen el acento en lugares distintos; la figura futura depende de la escuela escatológica (ver el anexo T4)."
+      "nota": "No se oponen, pero ponen el acento en lugares distintos; la figura futura depende de la escuela escatológica (anexo T4)."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Gn 3:1-5", "nota": "MacArthur ve en el Edén el modelo de la estrategia del engañador contra la Palabra: sembrar duda sobre lo que Dios dijo, negarlo y torcerlo con una promesa falsa. Juan enfrenta lo mismo bajo otra forma.", "fuentes": ["mac1j_05_a#21", "mbib1j_01_c#18"]},
-    {"ref": "Dt 13:1-5", "nota": "La ley ya advertía contra profetas cuyo mensaje no venía de Dios, aunque hicieran señales; Bedford remite también a Dt 18:22 y Jer 28:9: hay que mirar el origen del mensaje, no solo su contenido.", "fuentes": ["cbmh1j_02#19", "mac1j_05_a#21"]},
-    {"ref": "Is 8:20", "nota": "MacArthur lo usa como la norma de siempre: la ley y el testimonio, es decir, la Palabra escrita, es el patrón contra el que se mide toda enseñanza.", "fuentes": ["mac1j_05_a#24", "mbib1j_01_c#21"]},
-    {"ref": "Pr 17:3", "nota": "El crisol para la plata y el horno para el oro: la imagen detrás del verbo probar.", "fuentes": ["r1_003#4"]}
+    {
+      "ref": "Gn 3:1-5",
+      "nota": "MacArthur ve en el Edén el modelo de la estrategia del engañador contra la Palabra: sembrar duda sobre lo que Dios dijo, negarlo y torcerlo con una promesa falsa. Juan enfrenta lo mismo bajo otra forma.",
+      "fuentes": [
+        "mac1j_05_a#21",
+        "mbib1j_01_c#18"
+      ]
+    },
+    {
+      "ref": "Dt 13:1-5",
+      "nota": "La ley ya advertía contra profetas cuyo mensaje no venía de Dios, aunque hicieran señales; Bedford remite también a Dt 18:22 y Jer 28:9: hay que mirar el origen del mensaje, no solo su contenido.",
+      "fuentes": [
+        "cbmh1j_02#19",
+        "mac1j_05_a#21"
+      ]
+    },
+    {
+      "ref": "Is 8:20",
+      "nota": "MacArthur lo usa como la norma de siempre: la ley y el testimonio, es decir, la Palabra escrita, es el patrón contra el que se mide toda enseñanza.",
+      "fuentes": [
+        "mac1j_05_a#24",
+        "mbib1j_01_c#21"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Jonathan Edwards evaluó el Gran Despertar con cinco preguntas tomadas de este capítulo: ¿exalta al verdadero Cristo?, ¿se opone a lo mundano?, ¿lleva a la gente a las Escrituras?, ¿exalta la verdad?, ¿produce amor a Dios y a los demás? Edwards no defendía el avivamiento por su popularidad o su emoción, sino porque pasaba la prueba de la Escritura.", "autor": "John MacArthur", "obra": "Fuego extraño", "pagina": "PDF 50-51", "tipo": "historia", "fuentes": ["r1_003#5"]},
-    {"texto": "Grudem distingue dos cosas: en 1Co 14:29 la iglesia evaluaba las palabras de profetas ya aceptados; en cambio 1J 4:1-6, como Mt 7:15-20 y la Didaché, da criterios para probar a extraños que llegaban de afuera. El criterio, dice, es siempre la concordancia con la Escritura o con la enseñanza recibida.", "autor": "Wayne Grudem", "obra": "El don de profecía", "pagina": "PDF 34-35", "tipo": "doctrina", "fuentes": ["r1_002#26"]},
-    {"texto": "Piper muestra la consecuencia moral de separar a Cristo de la carne: si el cuerpo no importaba para Jesús, tampoco importaba para el cristiano, y uno podía considerarse justo en lo espiritual sin practicar la justicia, el engaño que Juan denuncia en 1J 3:7. Mala doctrina sobre Cristo termina en mala conducta.", "autor": "John Piper", "obra": "Más vivo que nunca", "pagina": "PDF 129-130", "tipo": "doctrina", "fuentes": ["r1_012_a#9", "r1_010#12"]},
-    {"texto": "MacArthur abre su comentario con la fiebre del oro de California (1848): no todo lo que brillaba era oro, y los buscadores tenían que distinguir el oro verdadero de la pirita, el oro de los tontos, con pruebas sencillas como rasparla sobre cerámica blanca. Así hay que probar las doctrinas.", "autor": "John MacArthur", "obra": "1 Juan (comentario)", "pagina": "PDF 108", "tipo": "ilustracion", "fuentes": ["mac1j_05_a#20"]},
-    {"texto": "Blaney propone una flexibilidad dentro de la firmeza: Juan exige acuerdo en un punto central e inclusivo, la encarnación, mientras que la multiplicación de dogmas secundarios suele dividir más que unir. Volver a lo central devolvería a la iglesia la sencillez del evangelio.", "autor": "Harvey J. S. Blaney", "obra": "Comentario Bíblico Beacon", "pagina": "PDF 263", "tipo": "aplicacion", "fuentes": ["bea1j_02_a#20"]}
+    {
+      "texto": "Jonathan Edwards evaluó el Gran Despertar con cinco preguntas tomadas de este capítulo: ¿exalta al verdadero Cristo?, ¿se opone a lo mundano?, ¿lleva a la gente a las Escrituras?, ¿exalta la verdad?, ¿produce amor a Dios y a los demás? Edwards no defendía el avivamiento por su popularidad o su emoción, sino porque pasaba la prueba de la Escritura.",
+      "autor": "John MacArthur",
+      "obra": "Fuego extraño",
+      "pagina": "PDF 50-51",
+      "tipo": "historia",
+      "fuentes": [
+        "r1_003#5"
+      ]
+    },
+    {
+      "texto": "Piper muestra la consecuencia moral de separar a Cristo de la carne: si el cuerpo no importaba para Jesús, tampoco importaba para el cristiano, y uno podía considerarse justo en lo espiritual sin practicar la justicia, el engaño que Juan denuncia en 1J 3:7. Mala doctrina sobre Cristo termina en mala conducta.",
+      "autor": "John Piper",
+      "obra": "Más vivo que nunca",
+      "pagina": "PDF 129-130",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_012_a#9",
+        "r1_010#12"
+      ]
+    },
+    {
+      "texto": "MacArthur abre su comentario con la fiebre del oro de California (1848): no todo lo que brillaba era oro, y los buscadores tenían que distinguir el oro verdadero de la pirita, el oro de los tontos, con pruebas sencillas como rasparla sobre cerámica blanca. Así hay que probar las doctrinas.",
+      "autor": "John MacArthur",
+      "obra": "1 Juan (comentario)",
+      "pagina": "PDF 108",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "mac1j_05_a#20"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "1Ts 5:20-21", "nota": "Pablo pide lo mismo: no menospreciar las profecías, pero examinarlo todo y retener lo bueno.", "fuentes": ["mbib1j_01_c#20", "cbmh1j_02#20"]},
-    {"ref": "1Co 12:3", "nota": "Pablo también da un criterio centrado en Jesús para reconocer al Espíritu verdadero.", "fuentes": ["ncb1j_01_b#4", "kis1j_04_b#16"]},
-    {"ref": "1Co 12:10", "nota": "El discernimiento de espíritus como don; Bedford, con 1J 2:20 y 27, señala que de todos modos cada creyente tiene la obligación y la capacidad de probar lo que oye.", "fuentes": ["bea1j_02_a#15", "cbmh1j_02#20"]},
-    {"ref": "Mt 7:15", "nota": "Jesús advirtió contra los falsos profetas que vienen vestidos de ovejas, y en Mt 24:24 contra falsos cristos con grandes señales.", "fuentes": ["mac1j_05_a#25", "kis1j_04_b#13", "moodynt_02_d#2"]},
-    {"ref": "Hch 17:11", "nota": "Los de Berea, modelo de cómo escuchar: con buena disposición y Biblia en mano.", "fuentes": ["mbib1j_01_c#19", "mac1j_05_a#35"]},
-    {"ref": "2J 7", "nota": "La misma prueba en la carta corta de Juan; Geisler y Howe notan que allí la frase está en presente, viene en carne.", "fuentes": ["ncb1j_01_b#4", "r1_001#17"]},
-    {"ref": "Jd 3", "nota": "Probar los espíritus sirve para contender por la fe dada una vez a los santos y conservarla pura para los que vienen.", "fuentes": ["mac1j_05_a#35", "mac1j_05_a#22"]}
+    {
+      "ref": "1Ts 5:20-21",
+      "nota": "Pablo pide lo mismo: no menospreciar las profecías, pero examinarlo todo y retener lo bueno.",
+      "fuentes": [
+        "mbib1j_01_c#20",
+        "cbmh1j_02#20"
+      ]
+    },
+    {
+      "ref": "1Co 12:10",
+      "nota": "El discernimiento de espíritus como don; Bedford, con 1J 2:20 y 27, señala que de todos modos cada creyente tiene la obligación y la capacidad de probar lo que oye.",
+      "fuentes": [
+        "bea1j_02_a#15",
+        "cbmh1j_02#20"
+      ]
+    },
+    {
+      "ref": "Mt 7:15",
+      "nota": "Jesús advirtió contra los falsos profetas que vienen vestidos de ovejas, y en Mt 24:24 contra falsos cristos con grandes señales.",
+      "fuentes": [
+        "mac1j_05_a#25",
+        "kis1j_04_b#13",
+        "moodynt_02_d#2"
+      ]
+    },
+    {
+      "ref": "Jd 3",
+      "nota": "Probar los espíritus sirve para contender por la fe dada una vez a los santos y conservarla pura para los que vienen.",
+      "fuentes": [
+        "mac1j_05_a#35",
+        "mac1j_05_a#22"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Prueben lo que consumen. MacArthur advierte que los más expuestos son los que creen todo lo que leen en una librería cristiana o escuchan en la radio o la televisión cristiana. Hoy podríamos sumar videos, pódcasts y redes. Que algo hable de Dios, tenga emoción o tenga muchos seguidores no lo hace verdadero; la pregunta es si concuerda con la Escritura.", "fuentes": ["mac1j_05_a#25", "mhenry_01_c#25", "r1_003#5"]},
-    {"texto": "Empiecen por Jesús. Ante una enseñanza nueva, la primera pregunta de Juan es qué dice de Cristo: ¿es Dios hecho hombre de verdad, el único Salvador? MacArthur señala que no todas las religiones que creen en un solo Dios adoran al mismo Dios, porque la identidad de Jesús es la prueba decisiva (Jn 14:6; Hch 4:12). Kistemaker y Bedford dan ejemplos de hoy: teologías que niegan la deidad de Cristo o su resurrección corporal, sectas que lo reducen a un hombre o a un espíritu elevado.", "fuentes": ["mac1j_05_a#30", "kis1j_04_b#19", "cbmh1j_02#11", "r1_007_b#19"]},
-    {"texto": "Para probar hay que conocer el original. MacArthur dice que la verdad se protege conociéndola, reteniéndola como convicción y distinguiéndola de lo falso; quien no discierne queda confundido y no puede transmitirla bien a otros. Lo que están haciendo juntos, estudiar la Palabra día a día, es exactamente el entrenamiento que pide Juan.", "fuentes": ["mac1j_05_a#22", "mac1j_05_a#24"]},
-    {"texto": "Sin miedo. Bedford y la Biblia MacArthur insisten: discernir no es vivir sospechando de todo ni con temor. El que está en ustedes es mayor. Pueden escuchar, examinar y rechazar el error con la calma de quien sabe que la batalla ya está decidida.", "fuentes": ["mbib1j_01_c#23", "cbmh1j_02#24", "kis1j_04_b#22"]}
+    {
+      "texto": "Prueben lo que consumen. MacArthur advierte que los más expuestos son los que creen todo lo que leen o escuchan en medios cristianos; hoy podríamos sumar videos y redes. Que algo hable de Dios, emocione o tenga muchos seguidores no lo hace verdadero: la pregunta es si concuerda con la Escritura.",
+      "fuentes": [
+        "mac1j_05_a#25",
+        "mhenry_01_c#25",
+        "r1_003#5"
+      ]
+    },
+    {
+      "texto": "Empiecen por Jesús. Ante una enseñanza nueva, la primera pregunta de Juan es qué dice de Cristo. MacArthur señala que la identidad de Jesús es la prueba decisiva (Jn 14:6; Hch 4:12); Kistemaker y Bedford dan ejemplos actuales de enseñanzas que niegan su deidad o lo reducen a un espíritu elevado.",
+      "fuentes": [
+        "mac1j_05_a#30",
+        "kis1j_04_b#19",
+        "cbmh1j_02#11",
+        "r1_007_b#19"
+      ]
+    },
+    {
+      "texto": "Para probar hay que conocer el original. MacArthur dice que la verdad se protege conociéndola y reteniéndola; lo que ustedes están haciendo, estudiar la Palabra día a día, es el entrenamiento que pide Juan.",
+      "fuentes": [
+        "mac1j_05_a#22",
+        "mac1j_05_a#24"
+      ]
+    },
+    {
+      "texto": "Sin miedo. Discernir no es vivir sospechando de todo: el que está en ustedes es mayor, y la batalla ya está decidida.",
+      "fuentes": [
+        "mbib1j_01_c#23",
+        "cbmh1j_02#24",
+        "kis1j_04_b#22"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Hay alguna enseñanza, libro, predicador o contenido que escuchamos sin examinarlo? ¿Cómo lo probaríamos con lo que Juan enseña hoy?",
@@ -147,11 +544,68 @@
     "Juan advierte sin asustar: ¿cómo podemos ser cuidadosos con el error sin volvernos desconfiados de todo el mundo?"
   ],
   "para_orar": "Señor, gracias porque tu Hijo vino en carne y sigue siendo uno de nosotros para siempre. Danos amor por tu Palabra y discernimiento para probar todo lo que oímos; líbranos del engaño, y que vivamos con la paz de saber que el que está en nosotros es mayor que el que está en el mundo.",
-  "visuales": ["dg-pruebas-1j", "dg-falsos", "dg-estructura-1j"],
-  "anexos": ["T2", "P3", "I4", "T4"],
+  "visuales": [
+    "dg-pruebas-1j",
+    "dg-falsos",
+    "dg-estructura-1j"
+  ],
+  "anexos": [
+    "T2",
+    "P3",
+    "I4",
+    "T4"
+  ],
   "profundizar": [
-    {"titulo": "Detalles del griego del pasaje", "texto": "Kistemaker señala que en el v. 1 la negación está separada del verbo para dar énfasis, y que han salido (ἐξεληλύθασιν) es un perfecto: salieron y siguen afuera. En el v. 2, conoced (γινώσκετε) puede leerse como indicativo o imperativo; el contexto pide el imperativo, aunque muchos traductores prefieren el indicativo. La combinación Jesucristo aparece ocho veces en las cartas de Juan, mientras que en 2:22 y 5:1 Juan separa los nombres (Jesús es el Cristo). En los vv. 4-6 los pronombres ustedes, ellos, nosotros encabezan cada versículo para marcar el contraste. En el v. 6, la preposición ἐκ en en esto denota causa o medio, y el genitivo de la verdad puede ser que pertenece a la verdad o que dice la verdad (Lenski).", "fuentes": ["kis1j_04_b#15", "kis1j_04_b#20", "kis1j_04_b#24", "kis1j_04_b#26"]},
-    {"titulo": "Tres pruebas para el maestro (MacArthur)", "texto": "MacArthur organiza el pasaje como tres pruebas: teológica (¿confiesa a Jesucristo?, vv. 2-3), de conducta (¿hay fruto de justicia o vive como el mundo?, vv. 4-5) y de presuposición (¿está comprometido con la Palabra de Dios?, v. 6). El maestro verdadero confiesa al Señor divino, tiene la vida divina y profesa la ley divina. Agrega que el discernimiento se exige especialmente a los pastores, que deben retener la palabra fiel y refutar a los que contradicen (Tit 1:7-11). Kistemaker suma un desafío: en muchos lugares faltan predicadores bien preparados, y hay que animar a personas capaces a formarse para el ministerio (Mt 9:37).", "fuentes": ["mac1j_05_a#27", "mac1j_05_a#26", "kis1j_04_b#27"]},
-    {"titulo": "Discernimiento en la iglesia de hoy", "texto": "Bedford menciona situaciones concretas donde hace falta discernir: posturas extremas sobre las lenguas, sanidades que exaltan al predicador y no a Cristo, manifestaciones sin propósito ni gloria para Dios, búsqueda de autoridad propia o pretensión de un conocimiento especial. Al mismo tiempo pide equilibrio entre la obra ordenada y la libertad del Espíritu. Blaney, por su lado, ve falsos profetas también dentro de la iglesia cuando se reemplaza la vida del Espíritu por religión institucional o el evangelio por un humanismo. Kistemaker, ante quienes visitan casas para difundir una secta, remite a 2J 10: recibirlos solo con la intención de hablarles de Jesucristo.", "fuentes": ["cbmh1j_02#20", "cbmh1j_02#22", "bea1j_02_a#16", "kis1j_04_b#19"]}
+    {
+      "titulo": "Detalles del griego del pasaje",
+      "texto": "Kistemaker señala que en el v. 1 la negación está separada del verbo para dar énfasis, y que han salido (ἐξεληλύθασιν) es un perfecto: salieron y siguen afuera. En el v. 2, conoced (γινώσκετε) puede leerse como indicativo o imperativo; el contexto pide el imperativo, aunque muchos traductores prefieren el indicativo. La combinación Jesucristo aparece ocho veces en las cartas de Juan, mientras que en 2:22 y 5:1 Juan separa los nombres (Jesús es el Cristo). En los vv. 4-6 los pronombres ustedes, ellos, nosotros encabezan cada versículo para marcar el contraste. En el v. 6, la preposición ἐκ en en esto denota causa o medio, y el genitivo de la verdad puede ser que pertenece a la verdad o que dice la verdad (Lenski).",
+      "fuentes": [
+        "kis1j_04_b#15",
+        "kis1j_04_b#20",
+        "kis1j_04_b#24",
+        "kis1j_04_b#26"
+      ]
+    },
+    {
+      "titulo": "Tres pruebas para el maestro (MacArthur)",
+      "texto": "MacArthur organiza el pasaje como tres pruebas: teológica (¿confiesa a Jesucristo?, vv. 2-3), de conducta (¿hay fruto de justicia o vive como el mundo?, vv. 4-5) y de presuposición (¿está comprometido con la Palabra de Dios?, v. 6). El maestro verdadero confiesa al Señor divino, tiene la vida divina y profesa la ley divina. Agrega que el discernimiento se exige especialmente a los pastores, que deben retener la palabra fiel y refutar a los que contradicen (Tit 1:7-11). Kistemaker suma un desafío: en muchos lugares faltan predicadores bien preparados, y hay que animar a personas capaces a formarse para el ministerio (Mt 9:37).",
+      "fuentes": [
+        "mac1j_05_a#27",
+        "mac1j_05_a#26",
+        "kis1j_04_b#27"
+      ]
+    },
+    {
+      "titulo": "Discernimiento en la iglesia de hoy",
+      "texto": "Bedford menciona situaciones concretas donde hace falta discernir: posturas extremas sobre las lenguas, sanidades que exaltan al predicador y no a Cristo, manifestaciones sin propósito ni gloria para Dios, búsqueda de autoridad propia o pretensión de un conocimiento especial. Al mismo tiempo pide equilibrio entre la obra ordenada y la libertad del Espíritu. Blaney, por su lado, ve falsos profetas también dentro de la iglesia cuando se reemplaza la vida del Espíritu por religión institucional o el evangelio por un humanismo. Kistemaker, ante quienes visitan casas para difundir una secta, remite a 2J 10: recibirlos solo con la intención de hablarles de Jesucristo.",
+      "fuentes": [
+        "cbmh1j_02#20",
+        "cbmh1j_02#22",
+        "bea1j_02_a#16",
+        "kis1j_04_b#19"
+      ]
+    },
+    {
+      "titulo": "Sin encarnación no hay nuevo nacimiento",
+      "texto": "Piper sostiene que sin Navidad no habría regeneración: no habría un Cristo encarnado en quien creer ni unión con él de la cual recibir vida. Blaney dice que la encarnación reúne las otras grandes verdades (nacimiento virginal, cruz, resurrección) y que todo lo que se llame cristiano se sostiene o cae con ella.",
+      "fuentes": [
+        "r1_011#22",
+        "bea1j_02_a#17"
+      ]
+    },
+    {
+      "titulo": "Wayne Grudem: El don de profecía",
+      "texto": "Grudem distingue dos cosas: en 1Co 14:29 la iglesia evaluaba las palabras de profetas ya aceptados; en cambio 1J 4:1-6, como Mt 7:15-20 y la Didaché, da criterios para probar a extraños que llegaban de afuera. El criterio, dice, es siempre la concordancia con la Escritura o con la enseñanza recibida.",
+      "fuentes": [
+        "r1_002#26"
+      ]
+    },
+    {
+      "titulo": "Harvey J. S. Blaney: Comentario Bíblico Beacon",
+      "texto": "Blaney propone una flexibilidad dentro de la firmeza: Juan exige acuerdo en un punto central e inclusivo, la encarnación, mientras que la multiplicación de dogmas secundarios suele dividir más que unir. Volver a lo central devolvería a la iglesia la sencillez del evangelio.",
+      "fuentes": [
+        "bea1j_02_a#20"
+      ]
+    }
   ]
 }

@@ -4,12 +4,21 @@
   "desde": "1J 3:4",
   "hasta": "1J 3:10",
   "titulo": "El que es nacido de Dios no practica el pecado",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer (1J 2:28-3:3) Juan mostró que por la fe ya somos hijos de Dios y que, cuando Cristo aparezca, seremos semejantes a él; quien tiene esa esperanza se purifica.",
     "ahora": "Del hijo que se purifica pasa, por contraste, al que practica el pecado. En 3:4-10 da razones por las que el pecado como forma de vida no cabe en un cristiano: choca con la ley de Dios, con la obra de Cristo y con el nuevo nacimiento. Cierra con una línea divisoria: hijos de Dios e hijos del diablo.",
     "despues": "Mañana (1J 3:11-18) desarrolla la segunda mitad de esa línea, el amor al hermano, con el ejemplo de Caín y el llamado a amar de hecho y en verdad.",
-    "fuentes": ["rich1j_01_b#8", "kis1j_04_a#3", "mac1j_04_b#1", "mbib1j_01_b#30", "mbib1j_01_c#3"]
+    "fuentes": [
+      "rich1j_01_b#8",
+      "kis1j_04_a#3",
+      "mac1j_04_b#1",
+      "mbib1j_01_b#30",
+      "mbib1j_01_c#3"
+    ]
   },
   "versiculo_clave": {
     "ref": "1J 3:9",
@@ -17,140 +26,610 @@
   },
   "panorama": {
     "texto": "Juan no negocia con el pecado. Los falsos maestros sostenían que lo importante era el conocimiento y que la conducta no contaba; Juan responde que la conducta muestra lo que uno es. Quien vive instalado en el pecado no conoce a Cristo, porque Cristo vino justamente a quitar el pecado y a deshacer las obras del diablo, y porque el que nace de Dios lleva dentro una vida nueva que no puede convivir en paz con el pecado. La pregunta que plantea el pasaje no es “¿pecás alguna vez?” (Juan ya dijo en 1:8 que todos pecamos), sino “¿hacia dónde va tu vida?”. Así el texto sirve a la vez para dos peligros: perder la certeza por cada caída y presumir de un nuevo nacimiento que no cambió nada.",
-    "fuentes": ["ncb1j_01_a#31", "cbmh1j_01_b#17", "rich1j_01_b#8", "rich1j_01_b#9", "r1_010#11", "mac1j_04_b#1"]
+    "fuentes": [
+      "ncb1j_01_a#31",
+      "cbmh1j_01_b#17",
+      "rich1j_01_b#8",
+      "rich1j_01_b#9",
+      "r1_010#11",
+      "mac1j_04_b#1"
+    ]
   },
   "secciones": [
     {
       "rango": "1J 3:4",
       "titulo": "Qué es el pecado: vivir como si Dios no hubiera hablado",
       "notas": [
-        {"texto": "Juan da tres razones por las que el pecado habitual no cabe en un cristiano: es incompatible con la ley de Dios (v. 4), con la obra de Cristo (vv. 5-8) y con la obra del Espíritu que hace nacer de nuevo (vv. 9-10). La Biblia de estudio MacArthur las cuenta como cuatro, separando la venida de Cristo para quitar pecados y su venida para deshacer las obras del diablo. Detrás está la enseñanza de los falsos maestros que restaban importancia al pecado.", "fuentes": ["mac1j_04_b#1", "mbib1j_01_b#31", "mbib1j_01_b#33", "mbib1j_01_b#37", "mbib1j_01_b#38"], "tipo": "estructura"},
-        {"texto": "«El pecado es infracción de la ley»: en griego las dos expresiones llevan artículo, de modo que son intercambiables: pecar es vivir sin ley y vivir sin ley es pecar. La ley es la de Dios, entendida en sentido amplio (la ley natural, la de Moisés y la ley de Cristo). Lo que está en juego no es un descuido técnico: la esencia del pecado es despreciar lo que Dios dijo y afirmarse uno mismo contra su voluntad revelada. MacArthur lo describe como una actitud de rebelión, vivir como si no hubiera leyes o ignorarlas a propósito; Matthew Henry lo resume como rechazar la ley divina.", "fuentes": ["ncb1j_01_a#31", "moodynt_02_c#19", "mbib1j_01_b#32", "mac1j_04_b#2", "mhenry_01_c#19", "kis1j_04_a#4"], "tipo": "exegesis"},
-        {"texto": "Kistemaker contrasta esta gravedad con cómo habla el mundo del pecado: algo pícaro que da para bromas, una debilidad psicológica o un error que cualquiera comete. La palabra griega para pecar significaba originalmente errar el blanco, como el arquero que no acierta; para Juan, en cambio, es una ofensa seria contra Dios, un descuido deliberado de su ley que expresa enemistad.", "fuentes": ["kis1j_04_a#11"], "tipo": "aplicacion"},
-        {"texto": "El verbo «comete» está en presente: no apunta a un tropiezo aislado sino a hacer del pecado una práctica. Los creyentes siguen teniendo pecados que confesar (1:9; 2:1), pero ese no es el patrón de su vida; quien sigue viviendo en pecado debe saber que eso equivale a violar la ley de Dios. Blaney (Comentario Beacon) agrega una lectura propia: como la ley se cumple amando (Ro 13:10), el pecado es infracción de la ley del amor; dañar a otro a sabiendas es pecar.", "fuentes": ["mbib1j_01_b#32", "kis1j_04_a#3", "moodynt_02_c#19", "bea1j_01_b#22"], "tipo": "doctrina"}
+        {
+          "texto": "Juan da razones por las que el pecado habitual no cabe en un cristiano: choca con la ley de Dios (v. 4), con la obra de Cristo (vv. 5-8) y con la obra del Espíritu que hace nacer de nuevo (vv. 9-10). Detrás están los falsos maestros que restaban importancia al pecado.",
+          "fuentes": [
+            "mac1j_04_b#1",
+            "mbib1j_01_b#31"
+          ],
+          "tipo": "estructura"
+        },
+        {
+          "texto": "«El pecado es infracción de la ley»: en griego las dos expresiones llevan artículo, de modo que son intercambiables: pecar es vivir sin ley y vivir sin ley es pecar. La ley es la de Dios, entendida en sentido amplio (la ley natural, la de Moisés y la ley de Cristo). Lo que está en juego no es un descuido técnico: la esencia del pecado es despreciar lo que Dios dijo y afirmarse uno mismo contra su voluntad revelada. MacArthur lo describe como una actitud de rebelión, vivir como si no hubiera leyes o ignorarlas a propósito; Matthew Henry lo resume como rechazar la ley divina.",
+          "fuentes": [
+            "ncb1j_01_a#31",
+            "moodynt_02_c#19",
+            "mbib1j_01_b#32",
+            "mac1j_04_b#2",
+            "mhenry_01_c#19",
+            "kis1j_04_a#4"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Kistemaker contrasta esto con cómo habla el mundo: el pecado como picardía, debilidad psicológica o error de cálculo (la palabra griega significaba errar el blanco). Para Juan es una ofensa seria contra Dios, un descuido deliberado de su ley.",
+          "fuentes": [
+            "kis1j_04_a#11"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "El verbo «comete» está en presente: no apunta a un tropiezo aislado sino a hacer del pecado una práctica. Los creyentes siguen teniendo pecados que confesar (1:9; 2:1), pero ese no es el patrón de su vida.",
+          "fuentes": [
+            "mbib1j_01_b#32",
+            "kis1j_04_a#3",
+            "moodynt_02_c#19"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 3:5-6",
       "titulo": "Cristo vino a quitar el pecado: no se puede permanecer en él y seguir pecando",
       "notas": [
-        {"texto": "«Y sabéis»: Juan apela a lo que ya conocen, la esencia del evangelio. Cristo apareció para quitar los pecados, y en él no hay pecado. Es incongruente decirse cristiano y seguir en el pecado, porque Jesús no vino solo a pagar el castigo y dar perdón, sino a quitar el pecado y quebrar su dominio en los suyos: murió para santificar al creyente.", "fuentes": ["kis1j_04_a#6", "mac1j_04_b#4", "mbib1j_01_b#33"], "tipo": "doctrina"},
-        {"texto": "MacArthur subraya que esto no es solo una esperanza futura: la limpieza y separación del pecado empiezan en la salvación y siguen, en la práctica, a medida que el creyente se parece a Cristo (Tit 2:11-14). Kistemaker saca la consecuencia: si Cristo quitó nuestros pecados, el cristiano no debe rendirse ante el pecado sino oponerse con todas sus fuerzas; uno de los rasgos del hijo de Dios es estar libre del gobierno del pecado.", "fuentes": ["mac1j_04_b#5", "kis1j_04_a#7"], "tipo": "doctrina"},
-        {"texto": "v. 6: «Todo aquel que permanece en él, no peca». Los dos verbos, permanecer y pecar, están en presente continuo, y por eso no pueden convivir: el que permanece en Cristo no tiene el pecado como hábito, y el que peca habitualmente no lo ha visto ni conocido. No se refiere a actos individuales sino a lo que caracteriza la vida, que muestra de qué fuente se alimenta uno. El pecado puede aparecer en la experiencia del creyente como excepción, no como regla; cuando cae, confiesa (1:9). Ver Interpretaciones.", "fuentes": ["ncb1j_01_a#32", "cbmh1j_01_b#18", "moodynt_02_c#20", "mac1j_04_b#7", "kis1j_04_a#9"], "tipo": "exegesis"},
-        {"texto": "«No le ha visto, ni le ha conocido»: el verbo ver está en perfecto y tiene sentido espiritual, equivale a creer. El que se goza en el pecado no tiene fe en Cristo ni lo conoce personalmente. Juan no dice que los convertidos nunca vuelvan a pecar (1:8), sino que no vivirán como antes. Wiersbe lo formula así: todo cristiano peca, a veces sin saberlo (Sal 19:12), pero ninguno desafía la Palabra deliberada y repetidamente.", "fuentes": ["kis1j_04_a#9", "mac1j_04_b#7", "r1_007_b#14"], "tipo": "exegesis"}
+        {
+          "texto": "«Y sabéis»: Juan apela a lo que ya conocen, la esencia del evangelio. Cristo apareció para quitar los pecados, y en él no hay pecado. Es incongruente decirse cristiano y seguir en el pecado, porque Jesús no vino solo a pagar el castigo y dar perdón, sino a quitar el pecado y quebrar su dominio en los suyos: murió para santificar al creyente.",
+          "fuentes": [
+            "kis1j_04_a#6",
+            "mac1j_04_b#4",
+            "mbib1j_01_b#33"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Esto no es solo esperanza futura: la separación del pecado empieza en la salvación y sigue a medida que el creyente se parece a Cristo (Tit 2:11-14). Por eso, dice Kistemaker, el cristiano no debe rendirse ante el pecado sino oponerse con todas sus fuerzas.",
+          "fuentes": [
+            "mac1j_04_b#5",
+            "kis1j_04_a#7"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "v. 6: «Todo aquel que permanece en él, no peca». Los dos verbos, permanecer y pecar, están en presente continuo, y por eso no pueden convivir: el que permanece en Cristo no tiene el pecado como hábito, y el que peca habitualmente no lo ha visto ni conocido. No se refiere a actos individuales sino a lo que caracteriza la vida, que muestra de qué fuente se alimenta uno. El pecado puede aparecer en la experiencia del creyente como excepción, no como regla; cuando cae, confiesa (1:9). Ver Interpretaciones.",
+          "fuentes": [
+            "ncb1j_01_a#32",
+            "cbmh1j_01_b#18",
+            "moodynt_02_c#20",
+            "mac1j_04_b#7",
+            "kis1j_04_a#9"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«No le ha visto, ni le ha conocido»: el verbo ver está en perfecto y tiene sentido espiritual, equivale a creer. El que se goza en el pecado no tiene fe en Cristo ni lo conoce personalmente. Juan no dice que los convertidos nunca vuelvan a pecar (1:8), sino que no vivirán como antes. Wiersbe lo formula así: todo cristiano peca, a veces sin saberlo (Sal 19:12), pero ninguno desafía la Palabra deliberada y repetidamente.",
+          "fuentes": [
+            "kis1j_04_a#9",
+            "mac1j_04_b#7",
+            "r1_007_b#14"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 3:7",
       "titulo": "Que nadie los engañe: el obrar muestra el ser",
       "notas": [
-        {"texto": "«Hijitos, nadie os engañe»: el peligro exige ternura (Westcott, citado por el Comentario Moody). Juan habla como pastor y advierte contra maestros que intentaban extraviar a los creyentes con la mentira de que se puede creer en Dios y vivir en pecado. Engañar es llevar a alguien por mal camino.", "fuentes": ["moodynt_02_c#21", "kis1j_04_a#14", "mbib1j_01_b#36"], "tipo": "falsos_maestros"},
-        {"texto": "«El que hace justicia es justo»: Piper lo resume diciendo que la naturaleza espiritual tiene que confirmarse en acciones o no es real. Los engañadores decían que uno podía ser justo sin practicar la justicia; Juan responde que las obras justas brotan de una índole justa y son prueba de haber nacido de Dios (2:29). No se trata de pensar bien ni de saber mucho, ni de creer que el cuerpo no importa mientras el alma esté limpia.", "fuentes": ["r1_010#14", "r1_012_a#11", "moodynt_02_c#21", "ncb1j_01_a#32"], "tipo": "doctrina"},
-        {"texto": "«Como él es justo»: la comparación no significa que el cristiano sea idéntico a Cristo en todo, ni que viva sin pecado. Kistemaker explica que el hijo de Dios refleja a su Padre, y que tanto el Hijo como los hijos son justos por pertenecer a la familia de Dios; el modelo es siempre Cristo.", "fuentes": ["kis1j_04_a#15", "moodynt_02_c#21"], "tipo": "exegesis"}
+        {
+          "texto": "«Hijitos, nadie os engañe»: el peligro exige ternura (Westcott, citado por el Comentario Moody). Juan habla como pastor y advierte contra maestros que intentaban extraviar a los creyentes con la mentira de que se puede creer en Dios y vivir en pecado. Engañar es llevar a alguien por mal camino.",
+          "fuentes": [
+            "moodynt_02_c#21",
+            "kis1j_04_a#14",
+            "mbib1j_01_b#36"
+          ],
+          "tipo": "falsos_maestros"
+        },
+        {
+          "texto": "«El que hace justicia es justo»: Piper lo resume diciendo que la naturaleza espiritual tiene que confirmarse en acciones o no es real. Los engañadores decían que uno podía ser justo sin practicar la justicia; Juan responde que las obras justas brotan de una índole justa y son prueba de haber nacido de Dios (2:29). No se trata de pensar bien ni de saber mucho, ni de creer que el cuerpo no importa mientras el alma esté limpia.",
+          "fuentes": [
+            "r1_010#14",
+            "r1_012_a#11",
+            "moodynt_02_c#21",
+            "ncb1j_01_a#32"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Como él es justo»: la comparación no significa que el cristiano sea idéntico a Cristo en todo, ni que viva sin pecado. Kistemaker explica que el hijo de Dios refleja a su Padre, y que tanto el Hijo como los hijos son justos por pertenecer a la familia de Dios; el modelo es siempre Cristo.",
+          "fuentes": [
+            "kis1j_04_a#15",
+            "moodynt_02_c#21"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 3:8",
       "titulo": "Del diablo, y el Hijo que vino a deshacer sus obras",
       "notas": [
-        {"texto": "«El que practica el pecado es del diablo»: «hace» (v. 7) y «practica» traducen la misma palabra griega, otra vez en presente. Es la contracara del v. 7 y casi repite lo que Jesús dijo en Jn 8:34 y 8:44. Kistemaker cita a Agustín: el diablo no creó a nadie, pero quien lo imita se vuelve hijo suyo, no por nacimiento sino por imitación. Blaney propone dos lecturas: que una vida no movida por amor a Dios responde a las sugestiones de Satanás, o que el que peca habitualmente es de aquellos a quienes Jesús llamó hijos del diablo; aclara que no se refiere al que peca sin querer (2:1).", "fuentes": ["ncb1j_01_a#33", "kis1j_04_a#16", "bea1j_01_b#24"], "tipo": "exegesis"},
-        {"texto": "«Diablo» significa acusador o calumniador. Satanás no solo se opone a Dios: origina e instiga el pecado, tentó a Adán y Eva y, como príncipe de este mundo, gobierna al que vive en pecado. «Desde el principio» se entiende como desde que el diablo es diablo (Kistemaker, siguiendo a Bengel) o, probablemente, desde su rebelión contra Dios (MacArthur). McKinley muestra el rastro: del Edén a Caín y Abel y a la corrupción de Gn 6.", "fuentes": ["mbib1j_01_b#36", "mac1j_04_b#9", "kis1j_04_a#17", "r1_002#23"], "tipo": "doctrina"},
-        {"texto": "Kistemaker advierte contra la excusa “el diablo me hizo hacerlo”: ninguna corte la aceptaría, cada uno responde por su conducta. Pero es innegable que el diablo está detrás de las obras pecaminosas. La diferencia está en la pertenencia: el hijo del diablo sigue pecando porque le pertenece; el hijo de Dios, cuando cae, vuelve a Dios con fe y arrepentimiento y encuentra perdón.", "fuentes": ["kis1j_04_a#23"], "tipo": "aplicacion"},
-        {"texto": "«Para esto apareció el Hijo de Dios»: deshacer es literalmente desatar. Las obras del diablo incluyen instigar al pecado y la rebelión, tentar, inspirar ideologías y religiones falsas, perseguir y acusar a los creyentes, mover a los falsos maestros y ejercer el poder de la muerte. Por eso es impensable que el creyente siga mostrando la conducta del diablo. Ya fue derrotado, aunque todavía opera y sus obras siguen siendo muchas y visibles; llegará el día en que cese toda su actividad.", "fuentes": ["moodynt_02_c#21", "mac1j_04_b#10", "mbib1j_01_b#37", "bea1j_01_b#24"], "tipo": "doctrina"}
+        {
+          "texto": "«El que practica el pecado es del diablo»: «hace» (v. 7) y «practica» traducen la misma palabra griega, otra vez en presente. El versículo casi repite lo que Jesús dijo en Jn 8:34 y 8:44. Kistemaker cita a Agustín: el diablo no creó a nadie, pero quien lo imita se vuelve hijo suyo, no por nacimiento sino por imitación.",
+          "fuentes": [
+            "ncb1j_01_a#33",
+            "kis1j_04_a#16"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Diablo» significa acusador o calumniador. Satanás origina e instiga el pecado: tentó a Adán y Eva y, como príncipe de este mundo, gobierna al que vive en pecado. «Desde el principio» se entiende como desde que el diablo es diablo (Kistemaker, con Bengel) o, probablemente, desde su rebelión contra Dios (MacArthur).",
+          "fuentes": [
+            "mbib1j_01_b#36",
+            "mac1j_04_b#9",
+            "kis1j_04_a#17"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Kistemaker advierte contra la excusa “el diablo me hizo hacerlo”: ninguna corte la aceptaría, cada uno responde por su conducta. Pero es innegable que el diablo está detrás de las obras pecaminosas. La diferencia está en la pertenencia: el hijo del diablo sigue pecando porque le pertenece; el hijo de Dios, cuando cae, vuelve a Dios con fe y arrepentimiento y encuentra perdón.",
+          "fuentes": [
+            "kis1j_04_a#23"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "«Para esto apareció el Hijo de Dios»: deshacer es literalmente desatar. Las obras del diablo incluyen tentar, inspirar religiones falsas, perseguir y acusar a los creyentes, mover a los falsos maestros y ejercer el poder de la muerte. El diablo ya fue derrotado, aunque todavía opera; por eso es impensable que el creyente siga mostrando su conducta.",
+          "fuentes": [
+            "moodynt_02_c#21",
+            "mac1j_04_b#10",
+            "mbib1j_01_b#37",
+            "bea1j_01_b#24"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 3:9",
       "titulo": "Nacido de Dios: la simiente que permanece",
       "notas": [
-        {"texto": "«Nacido de Dios» habla de una acción sobrenatural de Dios por su Espíritu (Jn 3:3-8). El participio griego está en perfecto: nació en el pasado y sigue siéndolo; Grudem sugiere traducir “ha nacido y continúa en la nueva vida que resulta de ese suceso”. Es una frase característica de Juan (2:29; 4:7; 5:1, 4, 18). El Diccionario Mundo Hispano la cuenta entre los sinónimos de regeneración: un cambio en el corazón por el que Dios capacita para responderle en fe, no un estado neutral que deja todo como estaba.", "fuentes": ["ncb1j_01_a#33", "mac1j_04_b#11", "moodynt_02_c#22", "r1_013#10", "kis1j_04_a#19", "dbmh_02_b#1"], "tipo": "exegesis"},
-        {"texto": "«La simiente de Dios permanece en él»: es la única vez que Juan usa la palabra. Es una imagen: así como un nacimiento humano sale de una semilla, el nuevo nacimiento sale de un principio de vida divina que Dios implanta. Los autores la identifican con la naturaleza o vida de Dios (Kistemaker, Moody, Blaney), con el principio que implanta el Espíritu por medio de la Palabra (MacArthur, con 1P 1:23), o con el Espíritu, la Palabra o la naturaleza de Dios, o las tres (Piper). Kistemaker agrega que Dios la guarda y la hace crecer.", "fuentes": ["ncb1j_01_a#33", "cbmh1j_01_b#19", "kis1j_04_a#19", "moodynt_02_c#22", "bea1j_01_b#25", "mac1j_04_b#11", "r1_010#15"], "tipo": "exegesis"},
-        {"texto": "Murray señala el orden: Juan no solo dice que el nacido de Dios no practica el pecado, sino por qué: porque la simiente permanece. La regeneración es la causa y el no pecar es el efecto; el orden no se invierte. Uno no se vuelve hijo de Dios dejando de pecar, sino que deja de vivir en el pecado porque Dios lo hizo nacer.", "fuentes": ["r1_016#5"], "tipo": "doctrina"},
-        {"texto": "«No puede pecar»: Juan ya rechazó la idea de una perfección sin pecado (1:8, 10), y estas palabras no deben contradecirla. Los autores de la biblioteca coinciden en que no enseña que el creyente nunca cometa un acto de pecado. Scott, citado por el Nuevo Comentario Bíblico, dice que Juan muestra más la incongruencia que la imposibilidad: si el cristiano peca, es algo completamente fuera de lugar. Cómo se explica exactamente ese «no puede» varía: ver Interpretaciones.", "fuentes": ["ncb1j_01_a#33", "cbmh1j_01_b#19", "kis1j_04_a#20", "bea1j_01_b#25", "mbib1j_01_c#1"], "tipo": "interpretacion_discutida"},
-        {"texto": "Richards lo baja a tierra: la pregunta no es “¿está pecando?” sino “¿hace del pecado un hábito, una dirección de vida?”. Cuando la vida de Dios echa raíz, lucha contra el pecado y el Espíritu empuja en otra dirección; la evidencia de una vida justa llega con el tiempo, no necesariamente de inmediato. MacArthur y Mayhue lo llaman dirección, no perfección: el pecado sigue morando en la carne y hay que hacerlo morir (Ro 8:12-13), pero el amor al pecado está quebrado.", "fuentes": ["rich1j_01_b#9", "rich1j_01_b#7", "r1_018_a#8", "r1_018_a#20"], "tipo": "aplicacion"}
+        {
+          "texto": "«Nacido de Dios» habla de una acción sobrenatural de Dios por su Espíritu (Jn 3:3-8). El participio griego está en perfecto: nació en el pasado y sigue siéndolo; Grudem sugiere traducir “ha nacido y continúa en la nueva vida que resulta de ese suceso”.",
+          "fuentes": [
+            "ncb1j_01_a#33",
+            "mac1j_04_b#11",
+            "moodynt_02_c#22",
+            "r1_013#10"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«La simiente de Dios permanece en él»: única vez que Juan usa la palabra. Así como un nacimiento humano sale de una semilla, el nuevo nacimiento sale de un principio de vida divina que Dios implanta. Los autores la identifican con la naturaleza o vida de Dios (Kistemaker, Moody, Blaney), con el principio que el Espíritu implanta por la Palabra (MacArthur, con 1P 1:23), o con el Espíritu, la Palabra y la naturaleza de Dios (Piper).",
+          "fuentes": [
+            "ncb1j_01_a#33",
+            "cbmh1j_01_b#19",
+            "kis1j_04_a#19",
+            "moodynt_02_c#22",
+            "bea1j_01_b#25",
+            "mac1j_04_b#11",
+            "r1_010#15"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Murray señala el orden: Juan no solo dice que el nacido de Dios no practica el pecado, sino por qué: porque la simiente permanece. La regeneración es la causa y el no pecar es el efecto; el orden no se invierte. Uno no se vuelve hijo de Dios dejando de pecar, sino que deja de vivir en el pecado porque Dios lo hizo nacer.",
+          "fuentes": [
+            "r1_016#5"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«No puede pecar»: Juan ya rechazó la idea de una perfección sin pecado (1:8, 10), y estas palabras no deben contradecirla. Los autores de la biblioteca coinciden en que no enseña que el creyente nunca cometa un acto de pecado. Scott, citado por el Nuevo Comentario Bíblico, dice que Juan muestra más la incongruencia que la imposibilidad: si el cristiano peca, es algo completamente fuera de lugar. Cómo se explica exactamente ese «no puede» varía: ver Interpretaciones.",
+          "fuentes": [
+            "ncb1j_01_a#33",
+            "cbmh1j_01_b#19",
+            "kis1j_04_a#20",
+            "bea1j_01_b#25",
+            "mbib1j_01_c#1"
+          ],
+          "tipo": "interpretacion_discutida"
+        },
+        {
+          "texto": "Richards lo baja a tierra: la pregunta no es “¿está pecando?” sino “¿hace del pecado un hábito, una dirección de vida?”. Cuando la vida de Dios echa raíz, lucha contra el pecado, y la evidencia de una vida justa llega con el tiempo, no necesariamente de inmediato. MacArthur y Mayhue lo llaman dirección, no perfección: el pecado sigue morando en la carne, pero el amor al pecado está quebrado.",
+          "fuentes": [
+            "rich1j_01_b#9",
+            "rich1j_01_b#7",
+            "r1_018_a#8",
+            "r1_018_a#20"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1J 3:10",
       "titulo": "Dos familias: justicia y amor como señales",
       "notas": [
-        {"texto": "Este versículo resume todo el tramo: solo hay dos clases de hijos, los de Dios y los del diablo, y nadie pertenece a las dos familias a la vez. Juan ve en absolutos (luz o tinieblas, verdad o mentira, vida o muerte), sin término medio. Según el Comentario Moody es el único lugar del Nuevo Testamento donde las dos expresiones aparecen juntas.", "fuentes": ["mbib1j_01_c#2", "kis1j_04_a#22", "moodynt_02_c#23", "mac1j_04_b#13"], "tipo": "exegesis"},
-        {"texto": "La prueba es la conducta: el hijo de Dios hace justicia y ama a su hermano; el otro no hace ninguna de las dos cosas, sea cual sea su profesión o experiencia religiosa. Juan lo dice en negativo para que el creyente tome nota y se dedique activamente a la voluntad de Dios. «Hermano» es aquí el hermano en la fe.", "fuentes": ["kis1j_04_a#22", "mac1j_04_b#13", "bea1j_01_b#26"], "tipo": "doctrina"},
-        {"texto": "«Y que no ama a su hermano» abre la segunda parte de la prueba moral, la del amor, que Juan desarrolla en los vv. 11-24. El amor al hermano es la mejor ilustración de hacer justicia porque se ve. Westcott, citado por el Comentario Moody, dice que no es una simple explicación de lo anterior sino su forma cristiana más elevada. Los falsos maestros, además de su error sobre Cristo y su desobediencia, mostraban falta de amor hacia los creyentes que rechazaban sus ideas.", "fuentes": ["mbib1j_01_c#3", "bea1j_01_b#26", "moodynt_02_c#23", "cbmh1j_01_b#20"], "tipo": "falsos_maestros"}
+        {
+          "texto": "Este versículo resume todo el tramo: solo hay dos clases de hijos, los de Dios y los del diablo, y nadie pertenece a las dos familias a la vez. Juan ve en absolutos (luz o tinieblas, verdad o mentira, vida o muerte), sin término medio. Según el Comentario Moody es el único lugar del Nuevo Testamento donde las dos expresiones aparecen juntas.",
+          "fuentes": [
+            "mbib1j_01_c#2",
+            "kis1j_04_a#22",
+            "moodynt_02_c#23",
+            "mac1j_04_b#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La prueba es la conducta: el hijo de Dios hace justicia y ama a su hermano; el otro no hace ninguna de las dos cosas, sea cual sea su profesión o experiencia religiosa. Juan lo dice en negativo para que el creyente tome nota y se dedique activamente a la voluntad de Dios. «Hermano» es aquí el hermano en la fe.",
+          "fuentes": [
+            "kis1j_04_a#22",
+            "mac1j_04_b#13",
+            "bea1j_01_b#26"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Y que no ama a su hermano» abre la segunda parte de la prueba moral, la del amor, que Juan desarrolla en los vv. 11-24. El amor al hermano es la mejor ilustración de hacer justicia porque se ve; los falsos maestros, en cambio, no amaban a los creyentes que rechazaban sus ideas.",
+          "fuentes": [
+            "mbib1j_01_c#3",
+            "bea1j_01_b#26"
+          ],
+          "tipo": "falsos_maestros"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1J 3:4", "griego": "ἀνομία", "translit": "anomía", "significado": "Ilegalidad, vivir sin ley. Juan la usa solo en este versículo, dos veces y con artículo, igual que «pecado»: por eso los dos términos se equiparan.", "fuentes": ["kis1j_04_a#5", "moodynt_02_c#19", "ncb1j_01_a#31"]},
-    {"ref": "1J 3:6", "griego": "ἁμαρτάνει", "translit": "hamartánei", "significado": "Peca. Presente iterativo o habitual (Kistemaker, con Robertson): sigue pecando, no un acto aislado. Para un acto puntual se esperaría el aoristo.", "fuentes": ["kis1j_04_a#10", "ncb1j_01_a#32", "cbmh1j_01_b#19"]},
-    {"ref": "1J 3:5", "griego": "αἴρω", "translit": "airō", "significado": "Quitar, eliminar por supresión; el mismo verbo de Jn 1:29 (el Cordero que quita el pecado).", "fuentes": ["mac1j_04_b#4"]},
-    {"ref": "1J 3:8", "griego": "διάβολος", "translit": "diábolos", "significado": "Acusador, calumniador.", "fuentes": ["mac1j_04_b#9", "mbib1j_01_b#36"]},
-    {"ref": "1J 3:8", "griego": "λύσῃ", "translit": "lýsē", "significado": "Deshacer, literalmente desatar: Cristo soltó las ataduras que sostenían las obras del diablo.", "fuentes": ["moodynt_02_c#21"]},
-    {"ref": "1J 3:9", "griego": "γεγεννημένος", "translit": "gegennēménos", "significado": "Nacido, engendrado. Participio perfecto pasivo: acción pasada cuyo efecto sigue en el presente.", "fuentes": ["kis1j_04_a#21", "moodynt_02_c#22"]},
-    {"ref": "1J 3:9", "griego": "σπέρμα", "translit": "spérma", "significado": "Simiente, semilla; única vez en los escritos de Juan. Figura del principio de vida de Dios implantado en el nuevo nacimiento.", "fuentes": ["cbmh1j_01_b#19", "ncb1j_01_a#33", "kis1j_04_a#19"]}
+    {
+      "ref": "1J 3:4",
+      "griego": "ἀνομία",
+      "translit": "anomía",
+      "significado": "Ilegalidad, vivir sin ley. Juan la usa solo en este versículo, dos veces y con artículo, igual que «pecado»: por eso los dos términos se equiparan.",
+      "fuentes": [
+        "kis1j_04_a#5",
+        "moodynt_02_c#19",
+        "ncb1j_01_a#31"
+      ]
+    },
+    {
+      "ref": "1J 3:6",
+      "griego": "ἁμαρτάνει",
+      "translit": "hamartánei",
+      "significado": "Peca. Presente iterativo o habitual (Kistemaker, con Robertson): sigue pecando, no un acto aislado. Para un acto puntual se esperaría el aoristo.",
+      "fuentes": [
+        "kis1j_04_a#10",
+        "ncb1j_01_a#32",
+        "cbmh1j_01_b#19"
+      ]
+    },
+    {
+      "ref": "1J 3:5",
+      "griego": "αἴρω",
+      "translit": "airō",
+      "significado": "Quitar, eliminar por supresión; el mismo verbo de Jn 1:29 (el Cordero que quita el pecado).",
+      "fuentes": [
+        "mac1j_04_b#4"
+      ]
+    },
+    {
+      "ref": "1J 3:8",
+      "griego": "διάβολος",
+      "translit": "diábolos",
+      "significado": "Acusador, calumniador.",
+      "fuentes": [
+        "mac1j_04_b#9",
+        "mbib1j_01_b#36"
+      ]
+    },
+    {
+      "ref": "1J 3:8",
+      "griego": "λύσῃ",
+      "translit": "lýsē",
+      "significado": "Deshacer, literalmente desatar: Cristo soltó las ataduras que sostenían las obras del diablo.",
+      "fuentes": [
+        "moodynt_02_c#21"
+      ]
+    },
+    {
+      "ref": "1J 3:9",
+      "griego": "γεγεννημένος",
+      "translit": "gegennēménos",
+      "significado": "Nacido, engendrado. Participio perfecto pasivo: acción pasada cuyo efecto sigue en el presente.",
+      "fuentes": [
+        "kis1j_04_a#21",
+        "moodynt_02_c#22"
+      ]
+    },
+    {
+      "ref": "1J 3:9",
+      "griego": "σπέρμα",
+      "translit": "spérma",
+      "significado": "Simiente, semilla; única vez en los escritos de Juan. Figura del principio de vida de Dios implantado en el nuevo nacimiento.",
+      "fuentes": [
+        "cbmh1j_01_b#19",
+        "ncb1j_01_a#33",
+        "kis1j_04_a#19"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Él es el único sin pecado: «no hay pecado en él». Juan usa el presente para decir que siempre lo fue, lo es y lo será. Henry precisa que asumió las debilidades de la mente y del cuerpo que trajo la caída y que lo expusieron al sufrimiento y a la tentación, pero no nuestra debilidad moral ni la tendencia al pecado. Solo un Cristo así podía cargar los pecados de otros.", "refs": ["2Co 5:21", "He 4:15", "He 7:26", "1P 1:19"], "fuentes": ["kis1j_04_a#6", "mhenry_01_c#19", "mac1j_04_b#6", "r1_002#23"]},
-    {"texto": "Es el Cordero que quita el pecado, eco del anuncio de Juan el Bautista. Los profetas lo prometieron (Is 53) y los apóstoles lo enseñan como hecho cumplido. Por eso no hay condenación y Satanás no tiene base para acusarnos: los pecados fueron borrados. Bloesch, citado por Kistemaker, agrega que Cristo hace más de lo que la ley pide: no solo paga, sino que recibe al pecador y lo adopta como hermano.", "refs": ["Jn 1:29", "Is 53", "1P 2:24", "Ro 8:1", "Ap 12:10"], "fuentes": ["kis1j_04_a#6", "r1_002#23", "kis1j_04_a#12"]},
-    {"texto": "Es el Hijo de Dios que vino a desatar las obras del diablo. Es la primera vez que la carta usa ese título, que expresa dignidad y autoridad especiales. Vino a librar del poder del que tenía el imperio de la muerte y a hacer de los suyos un pueblo celoso de buenas obras.", "refs": ["He 2:14-15", "Tit 2:14", "Col 1:13"], "fuentes": ["moodynt_02_c#21", "kis1j_04_a#18", "mac1j_04_b#10"]}
+    {
+      "texto": "Él es el único sin pecado: «no hay pecado en él». Juan usa el presente para decir que siempre lo fue, lo es y lo será. Henry precisa que asumió las debilidades de la mente y del cuerpo que trajo la caída y que lo expusieron al sufrimiento y a la tentación, pero no nuestra debilidad moral ni la tendencia al pecado. Solo un Cristo así podía cargar los pecados de otros.",
+      "refs": [
+        "2Co 5:21",
+        "He 4:15",
+        "He 7:26",
+        "1P 1:19"
+      ],
+      "fuentes": [
+        "kis1j_04_a#6",
+        "mhenry_01_c#19",
+        "mac1j_04_b#6",
+        "r1_002#23"
+      ]
+    },
+    {
+      "texto": "Es el Cordero que quita el pecado, como anunció Juan el Bautista; los profetas lo prometieron (Is 53) y los apóstoles lo enseñan como hecho cumplido. Por eso no hay condenación y Satanás no tiene base para acusarnos.",
+      "refs": [
+        "Jn 1:29",
+        "Is 53",
+        "1P 2:24",
+        "Ro 8:1",
+        "Ap 12:10"
+      ],
+      "fuentes": [
+        "kis1j_04_a#6",
+        "r1_002#23"
+      ]
+    },
+    {
+      "texto": "Es el Hijo de Dios que vino a desatar las obras del diablo. Es la primera vez que la carta usa ese título, que expresa dignidad y autoridad especiales. Vino a librar del poder del que tenía el imperio de la muerte y a hacer de los suyos un pueblo celoso de buenas obras.",
+      "refs": [
+        "He 2:14-15",
+        "Tit 2:14",
+        "Col 1:13"
+      ],
+      "fuentes": [
+        "moodynt_02_c#21",
+        "kis1j_04_a#18",
+        "mac1j_04_b#10"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "«No peca» y «no puede pecar» (vv. 6 y 9) frente a la confesión de que todos tenemos pecado (1:8)",
       "posturas": [
-        {"postura": "Los verbos en presente indican acción continua: el nacido de Dios no practica el pecado como hábito o estilo de vida, aunque puede caer en actos de pecado. Es la lectura que prefieren casi todos los autores de la biblioteca; Kistemaker la llama el doble enfoque de Juan y dice que muchos expositores la consideran plausible (Stott, Inman).", "quien": "MacArthur; Kistemaker; Comentario Moody; Nuevo Comentario Bíblico; Bedford (Mundo Hispano); Piper; Grudem; Geisler y Howe; Lacueva; Richards; MacArthur y Mayhue", "fuentes": ["mac1j_04_a#28", "kis1j_04_a#20", "kis1j_04_a#24", "moodynt_02_c#22", "ncb1j_01_a#32", "cbmh1j_01_b#19", "r1_010#15", "r1_013#10", "r1_001#16", "r1_014_b#4", "rich1j_01_b#9", "r1_018_a#8"]},
-        {"postura": "El regenerado no puede pecar como pecaba antes ni como pecan los no regenerados: tiene luz que le muestra la malignidad del pecado, un corazón inclinado a aborrecerlo, un principio que se le opone y arrepentimiento cuando cae.", "quien": "Matthew Henry", "fuentes": ["mhenry_01_c#20"]},
-        {"postura": "Es una imposibilidad moral y ética, no literal: quien está gobernado por la ley del amor a Dios y al prójimo no puede a la vez amar a otro y pecar intencionalmente contra él.", "quien": "Blaney (Comentario Beacon)", "fuentes": ["bea1j_01_b#25"]},
-        {"postura": "Dios no erradica la vieja naturaleza sino que implanta una nueva; la nueva no puede pecar, y el creyente que se somete a la vieja tropieza. Chafer (citando a Walvoord) agrega que la nueva naturaleza no basta por sí sola para vencer a la vieja: la victoria viene del Espíritu, y la perfección sin pecado llega recién con la muerte o el arrebatamiento.", "quien": "Wiersbe; Chafer", "fuentes": ["r1_007_b#15", "r1_016#17"]},
-        {"postura": "Lecturas que los autores citados rechazan: perfeccionismo (se puede llegar a no pecar en absoluto); solo la naturaleza regenerada no peca (MacArthur objeta que separa demasiado la persona); un ideal inalcanzable (Alford, de la Potterie); solo el pecado voluntario o ciertos tipos de pecado; solo el pecado imperdonable; la distinción entre pecados veniales y mortales.", "quien": "Expuestas por MacArthur, Kistemaker y Bedford", "fuentes": ["mac1j_04_a#27", "kis1j_04_a#24", "cbmh1j_01_b#19"]}
+        {
+          "postura": "Los verbos en presente indican acción continua: el nacido de Dios no practica el pecado como hábito, aunque puede caer en actos de pecado. Kistemaker la llama el doble enfoque de Juan y dice que muchos la consideran plausible (Stott, Inman).",
+          "quien": "MacArthur; Kistemaker; Comentario Moody; Nuevo Comentario Bíblico; Bedford (Mundo Hispano); Piper; Grudem; Geisler y Howe; Lacueva; Richards; MacArthur y Mayhue",
+          "fuentes": [
+            "mac1j_04_a#28",
+            "kis1j_04_a#20",
+            "kis1j_04_a#24",
+            "moodynt_02_c#22",
+            "ncb1j_01_a#32",
+            "cbmh1j_01_b#19",
+            "r1_010#15",
+            "r1_013#10",
+            "r1_001#16",
+            "r1_014_b#4",
+            "rich1j_01_b#9",
+            "r1_018_a#8"
+          ]
+        },
+        {
+          "postura": "El regenerado no puede pecar como pecaba antes ni como pecan los no regenerados: tiene luz que le muestra la malignidad del pecado, un corazón inclinado a aborrecerlo, un principio que se le opone y arrepentimiento cuando cae.",
+          "quien": "Matthew Henry",
+          "fuentes": [
+            "mhenry_01_c#20"
+          ]
+        },
+        {
+          "postura": "Es una imposibilidad moral y ética, no literal: quien está gobernado por la ley del amor a Dios y al prójimo no puede a la vez amar a otro y pecar intencionalmente contra él.",
+          "quien": "Blaney (Comentario Beacon)",
+          "fuentes": [
+            "bea1j_01_b#25"
+          ]
+        },
+        {
+          "postura": "Dios no erradica la vieja naturaleza sino que implanta una nueva, que no puede pecar; el creyente que se somete a la vieja tropieza. Chafer (citando a Walvoord) agrega que la victoria viene del Espíritu y que la perfección sin pecado llega con la muerte o el arrebatamiento.",
+          "quien": "Wiersbe; Chafer",
+          "fuentes": [
+            "r1_007_b#15",
+            "r1_016#17"
+          ]
+        },
+        {
+          "postura": "Lecturas que los autores citados rechazan: perfeccionismo (se puede llegar a no pecar en absoluto); solo la naturaleza regenerada no peca (MacArthur objeta que separa demasiado la persona); un ideal inalcanzable (Alford, de la Potterie); solo el pecado voluntario o ciertos tipos de pecado; solo el pecado imperdonable; la distinción entre pecados veniales y mortales.",
+          "quien": "Expuestas por MacArthur, Kistemaker y Bedford",
+          "fuentes": [
+            "mac1j_04_a#27",
+            "kis1j_04_a#24",
+            "cbmh1j_01_b#19"
+          ]
+        }
       ],
-      "nota": "Nadie en la biblioteca lee el texto como si el cristiano nunca cometiera pecado, y todos afirman que el nuevo nacimiento cambia de verdad la vida. La diferencia está en cómo se explica ese «no puede». Kistemaker recuerda que Raymond Brown veía aquí una tensión fuerte con 1:8-10 y que muchos se esforzaron en mostrar que no hay contradicción."
+      "nota": "Nadie en la biblioteca lee el texto como si el cristiano nunca cometiera pecado, y todos afirman que el nuevo nacimiento cambia de verdad la vida; la diferencia está en cómo se explica ese «no puede»."
     },
     {
       "tema": "«El pecado es infracción de la ley» (v. 4): ¿definición general o la ilegalidad del fin?",
       "posturas": [
-        {"postura": "Definición del pecado: un rechazo deliberado de las normas de Dios para seguir los propios deseos.", "quien": "Guthrie y el Catecismo Breve de Westminster, según Kistemaker; también el Nuevo Comentario Bíblico y MacArthur", "fuentes": ["kis1j_04_a#4", "ncb1j_01_a#31", "mbib1j_01_b#32"]},
-        {"postura": "Alusión al estado de ilegalidad del fin de los tiempos (2Ts 2:3-8).", "quien": "Raymond Brown, según Kistemaker", "fuentes": ["kis1j_04_a#4"]}
+        {
+          "postura": "Definición del pecado: un rechazo deliberado de las normas de Dios para seguir los propios deseos.",
+          "quien": "Guthrie y el Catecismo Breve de Westminster, según Kistemaker; también el Nuevo Comentario Bíblico y MacArthur",
+          "fuentes": [
+            "kis1j_04_a#4",
+            "ncb1j_01_a#31",
+            "mbib1j_01_b#32"
+          ]
+        },
+        {
+          "postura": "Alusión al estado de ilegalidad del fin de los tiempos (2Ts 2:3-8).",
+          "quien": "Raymond Brown, según Kistemaker",
+          "fuentes": [
+            "kis1j_04_a#4"
+          ]
+        }
       ],
       "nota": "Kistemaker no lo da por resuelto, pero recuerda que Juan llama al presente la última hora (2:18)."
     },
     {
       "tema": "¿Puede perderse el nuevo nacimiento? (v. 9: la simiente «permanece»)",
       "posturas": [
-        {"postura": "La regeneración no puede deshacerse: la nueva vida es un principio fijo que permanece, no por la fuerza del creyente sino por el poder de Dios, que preserva lo que empieza.", "quien": "Los puritanos (Flavel, Van Mastricht, Charnock), según Beeke y Jones; también MacArthur", "fuentes": ["r1_013#21", "mbib1j_01_c#1"]},
-        {"postura": "El verdaderamente regenerado puede caer totalmente de la gracia.", "quien": "Luteranos y pelagianos, según Beeke y Jones", "fuentes": ["r1_013#21"]}
+        {
+          "postura": "La regeneración no puede deshacerse: la nueva vida es un principio fijo que permanece, no por la fuerza del creyente sino por el poder de Dios, que preserva lo que empieza.",
+          "quien": "Los puritanos (Flavel, Van Mastricht, Charnock), según Beeke y Jones; también MacArthur",
+          "fuentes": [
+            "r1_013#21",
+            "mbib1j_01_c#1"
+          ]
+        },
+        {
+          "postura": "El verdaderamente regenerado puede caer totalmente de la gracia.",
+          "quien": "Luteranos y pelagianos, según Beeke y Jones",
+          "fuentes": [
+            "r1_013#21"
+          ]
+        }
       ],
       "nota": "La biblioteca recoge esta segunda postura solo como la describen Beeke y Jones; ver el anexo T3."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Is 53", "nota": "Kistemaker ve en «quitar nuestros pecados» el cumplimiento de lo que los profetas anunciaron del Mesías.", "fuentes": ["kis1j_04_a#6"]},
-    {"ref": "Gn 3:15", "nota": "MacArthur relaciona la venida del Hijo para deshacer las obras del diablo con la primera promesa contra la serpiente.", "fuentes": ["mac1j_04_b#10"]},
-    {"ref": "Is 14:12-14; Ez 28:12-17", "nota": "MacArthur los usa para explicar «desde el principio» como la rebelión de un ser creado perfecto; lo presenta como probable.", "fuentes": ["mac1j_04_b#9", "mbib1j_01_b#36"]},
-    {"ref": "Jer 31:33; Ez 36:25-27", "nota": "La promesa del nuevo pacto, un corazón nuevo y el Espíritu para obedecer, es para MacArthur la base de que el nacido de Dios no viva en el pecado.", "fuentes": ["mac1j_04_a#28", "mac1j_04_b#7"]}
+    {
+      "ref": "Is 53",
+      "nota": "Kistemaker ve en «quitar nuestros pecados» el cumplimiento de lo que los profetas anunciaron del Mesías.",
+      "fuentes": [
+        "kis1j_04_a#6"
+      ]
+    },
+    {
+      "ref": "Gn 3:15",
+      "nota": "MacArthur relaciona la venida del Hijo para deshacer las obras del diablo con la primera promesa contra la serpiente.",
+      "fuentes": [
+        "mac1j_04_b#10"
+      ]
+    },
+    {
+      "ref": "Jer 31:33; Ez 36:25-27",
+      "nota": "La promesa del nuevo pacto, un corazón nuevo y el Espíritu para obedecer, es para MacArthur la base de que el nacido de Dios no viva en el pecado.",
+      "fuentes": [
+        "mac1j_04_a#28",
+        "mac1j_04_b#7"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Si un cerdo y un cordero caen al barro, el cerdo quiere quedarse y el cordero quiere salir: creyente e incrédulo pueden caer en el mismo pecado, pero el creyente no puede quedarse ahí cómodo.", "autor": "Geisler y Howe", "obra": "Dificultades bíblicas", "pagina": "PDF 209", "tipo": "ilustracion", "fuentes": ["r1_001#16"]},
-    {"texto": "Lacueva compara al regenerado con una brújula: puede equivocarse y caer, pero su norte quedó fijado, y el pecado que anide en él será como un cuerpo extraño en la nueva naturaleza.", "autor": "Francisco Lacueva", "obra": "citando Las Doctrinas de la Gracia", "pagina": "PDF 459", "tipo": "ilustracion", "fuentes": ["r1_014_b#4"]},
-    {"texto": "Owen advierte a quienes se tranquilizan con pecados “chicos”: cualquier deseo no mortificado se vuelve familiar y termina dominando al que creía controlarlo.", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 33", "tipo": "aplicacion", "fuentes": ["r1_019#25"]},
-    {"texto": "La imagen de Bengel: una línea torcida se nota cuando se la pone al lado de una recta; Juan hace visible el pecado contrastándolo con la justicia.", "autor": "Kistemaker", "obra": "Comentario a 1 Juan", "pagina": "PDF 248-249", "tipo": "ilustracion", "fuentes": ["kis1j_04_a#3"]},
-    {"texto": "Richards explica la angustia de muchos creyentes nuevos que esperaban liberarse de golpe de viejos hábitos: la vida nueva no trae amnesia espiritual, y lo viejo se reemplaza gradualmente, por crecimiento y gracia.", "autor": "Lawrence O. Richards", "obra": "Comentario sobre 1 Juan", "pagina": "PDF 29-30", "tipo": "aplicacion", "fuentes": ["rich1j_01_b#7"]},
-    {"texto": "Blaney recuerda que algunas de las peores atrocidades de la historia fueron de un sector de la iglesia contra otro, y que detrás de cierto desprecio por el mundo hay una superioridad parecida a la de los gnósticos; toda evangelización sin amor es vana.", "autor": "Harvey J. S. Blaney", "obra": "Comentario Bíblico Beacon", "pagina": "PDF 256", "tipo": "aplicacion", "fuentes": ["bea1j_01_b#23"]}
+    {
+      "texto": "Si un cerdo y un cordero caen al barro, el cerdo quiere quedarse y el cordero quiere salir: creyente e incrédulo pueden caer en el mismo pecado, pero el creyente no puede quedarse ahí cómodo.",
+      "autor": "Geisler y Howe",
+      "obra": "Dificultades bíblicas",
+      "pagina": "PDF 209",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "r1_001#16"
+      ]
+    },
+    {
+      "texto": "Lacueva compara al regenerado con una brújula: puede equivocarse y caer, pero su norte quedó fijado, y el pecado que anide en él será como un cuerpo extraño en la nueva naturaleza.",
+      "autor": "Francisco Lacueva",
+      "obra": "citando Las Doctrinas de la Gracia",
+      "pagina": "PDF 459",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "r1_014_b#4"
+      ]
+    },
+    {
+      "texto": "Owen advierte a quienes se tranquilizan con pecados “chicos”: cualquier deseo no mortificado se vuelve familiar y termina dominando al que creía controlarlo.",
+      "autor": "John Owen",
+      "obra": "Apostasía del evangelio",
+      "pagina": "PDF 33",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r1_019#25"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Jn 8:34, 44", "nota": "Jesús dijo que el que hace pecado es esclavo del pecado y llamó a sus oponentes hijos del diablo; el v. 8 casi lo repite.", "fuentes": ["kis1j_04_a#16", "bea1j_01_b#24"]},
-    {"ref": "Ro 6:4-7, 16-18", "nota": "El creyente cambió la esclavitud al pecado por la esclavitud a Dios y a la justicia.", "fuentes": ["mac1j_04_b#3", "mac1j_04_b#7", "r1_018_a#20"]},
-    {"ref": "Ro 7:14-25", "nota": "El creyente sigue pecando, incluso a veces voluntariamente; por eso los autores leen 1J 3 como dirección, no como perfección.", "fuentes": ["mac1j_04_a#28", "r1_018_a#8"]},
-    {"ref": "1P 1:23", "nota": "Pedro también habla de renacer por una simiente incorruptible, la Palabra de Dios.", "fuentes": ["mac1j_04_b#11", "r1_018_a#8"]},
-    {"ref": "Mt 7:21-23", "nota": "La profesión sin obediencia no salva; Jesús dirá que nunca los conoció.", "fuentes": ["mac1j_04_b#2"]},
-    {"ref": "Stg 2:14", "nota": "Como enseñaba Santiago, la fe verdadera produce obras.", "fuentes": ["r1_001#16"]},
-    {"ref": "Jn 13:35", "nota": "El amor entre hermanos es la señal ante todos de que somos discípulos de Jesús.", "fuentes": ["r1_018_a#24"]}
+    {
+      "ref": "Jn 8:34, 44",
+      "nota": "Jesús dijo que el que hace pecado es esclavo del pecado y llamó a sus oponentes hijos del diablo; el v. 8 casi lo repite.",
+      "fuentes": [
+        "kis1j_04_a#16",
+        "bea1j_01_b#24"
+      ]
+    },
+    {
+      "ref": "Ro 6:4-7, 16-18",
+      "nota": "El creyente cambió la esclavitud al pecado por la esclavitud a Dios y a la justicia.",
+      "fuentes": [
+        "mac1j_04_b#3",
+        "mac1j_04_b#7",
+        "r1_018_a#20"
+      ]
+    },
+    {
+      "ref": "1P 1:23",
+      "nota": "Pedro también habla de renacer por una simiente incorruptible, la Palabra de Dios.",
+      "fuentes": [
+        "mac1j_04_b#11",
+        "r1_018_a#8"
+      ]
+    },
+    {
+      "ref": "Mt 7:21-23",
+      "nota": "La profesión sin obediencia no salva; Jesús dirá que nunca los conoció.",
+      "fuentes": [
+        "mac1j_04_b#2"
+      ]
+    },
+    {
+      "ref": "Jn 13:35",
+      "nota": "El amor entre hermanos es la señal ante todos de que somos discípulos de Jesús.",
+      "fuentes": [
+        "r1_018_a#24"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Revisen la dirección, no solo los tropiezos. Una caída no anula la filiación: el hijo de Dios que peca vuelve, confiesa y encuentra perdón. Lo que debería alarmarlos es sentirse cómodos en un pecado y no querer salir del barro.", "fuentes": ["kis1j_04_a#23", "rich1j_01_b#9", "r1_001#16", "moodynt_02_c#20"]},
-    {"texto": "No le pongan nombres livianos al pecado (debilidad, error, picardía). Juan lo llama rebelión contra la voluntad de Dios, y Cristo murió para quitarlo. Mirar la cruz ayuda a detestarlo.", "fuentes": ["kis1j_04_a#11", "r1_007_b#14"]},
-    {"texto": "Tengan paciencia con el crecimiento, propio y del otro: la evidencia de una vida justa llega con el tiempo, y lo viejo se va reemplazando gradualmente. En el matrimonio eso pide gracia, sin dejar de llamar pecado a lo que es pecado.", "fuentes": ["rich1j_01_b#7", "rich1j_01_b#9"]},
-    {"texto": "Hagan visible la justicia en el amor concreto: compañerismo, perdón, edificación, servicio y compartir bienes, dones y tiempo con los hermanos. Ser justo es amar con hechos.", "fuentes": ["cbmh1j_01_b#20", "r1_018_a#24"]}
+    {
+      "texto": "Revisen la dirección, no solo los tropiezos. Una caída no anula la filiación: el hijo de Dios que peca vuelve, confiesa y encuentra perdón. Lo que debería alarmarlos es sentirse cómodos en un pecado y no querer salir del barro.",
+      "fuentes": [
+        "kis1j_04_a#23",
+        "rich1j_01_b#9",
+        "r1_001#16",
+        "moodynt_02_c#20"
+      ]
+    },
+    {
+      "texto": "No le pongan nombres livianos al pecado (debilidad, error, picardía). Juan lo llama rebelión contra la voluntad de Dios, y Cristo murió para quitarlo. Mirar la cruz ayuda a detestarlo.",
+      "fuentes": [
+        "kis1j_04_a#11",
+        "r1_007_b#14"
+      ]
+    },
+    {
+      "texto": "Tengan paciencia con el crecimiento, propio y del otro: la evidencia de una vida justa llega con el tiempo, y lo viejo se va reemplazando gradualmente. En el matrimonio eso pide gracia, sin dejar de llamar pecado a lo que es pecado.",
+      "fuentes": [
+        "rich1j_01_b#7",
+        "rich1j_01_b#9"
+      ]
+    },
+    {
+      "texto": "Hagan visible la justicia en el amor concreto: compañerismo, perdón, edificación, servicio y compartir bienes, dones y tiempo con los hermanos. Ser justo es amar con hechos.",
+      "fuentes": [
+        "cbmh1j_01_b#20",
+        "r1_018_a#24"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué diferencia hay entre caer en un pecado y practicarlo? ¿Cómo se nota en la vida real cuál de las dos cosas está pasando?",
@@ -158,13 +637,82 @@
     "Si el nacido de Dios deja de vivir en el pecado porque Dios lo hizo nacer y no al revés, ¿cómo afecta eso a nuestra seguridad y a nuestra lucha diaria?"
   ],
   "para_orar": "Padre, gracias porque nos hiciste nacer de nuevo y tu simiente permanece en nosotros. Señor Jesús, que viniste a quitar nuestros pecados y a deshacer las obras del diablo, danos aborrecer lo que vos viniste a destruir, volver pronto a vos cuando caemos y amarnos con hechos como hijos de una misma familia.",
-  "visuales": ["dg-pruebas-1j", "dg-estructura-1j", "dg-falsos"],
-  "anexos": ["T5", "T3", "P3"],
+  "visuales": [
+    "dg-pruebas-1j",
+    "dg-estructura-1j",
+    "dg-falsos"
+  ],
+  "anexos": [
+    "T5",
+    "T3",
+    "P3"
+  ],
   "profundizar": [
-    {"titulo": "El paralelismo del pasaje", "texto": "Kistemaker ve un paralelismo de repetición entre los vv. 4-6 y 7-10: el v. 4 corresponde al 8a, el 6a al 9, el 5 al 8b y el 7b al 10. El v. 7 abre el último párrafo en positivo y el v. 10 lo cierra en negativo. Sus subtítulos: los justos (7), los inicuos (8), libres del poder del pecado (9), justicia y amor (10).", "fuentes": ["kis1j_04_a#13"]},
-    {"titulo": "«Todo aquel que…» en 1 Juan", "texto": "La construcción griega “todo” más artículo y participio aparece catorce veces en la carta (2:23, 29; 3:3, 4, 6 dos veces, 9, 10, 15; 4:7; 5:1 dos veces, 4, 18). Con participio presente indica acción continua. En οὐ δύναται ἁμαρτάνειν Kistemaker nota que Juan no dice “capaz de no pecar” sino “incapaz de pecar”; los gramáticos discuten si el presente es durativo o de estado. Su conclusión: el cristiano peca, pero no puede ser llamado pecador, porque pertenece a Cristo.", "fuentes": ["kis1j_04_a#5", "kis1j_04_a#21"]},
-    {"titulo": "¿“Nuestros” pecados?", "texto": "En el v. 5 los manuscritos varían entre “los pecados” y “nuestros pecados”; muchos eruditos omiten el pronombre por considerarlo una asimilación a 2:2 y 4:10. El plural indica que todos los pecados son quitados.", "fuentes": ["kis1j_04_a#8"]},
-    {"titulo": "Regeneración: obra solo de Dios", "texto": "MacArthur entiende el nuevo nacimiento como obra monergista, solo del Espíritu (Ef 2:1-6): el muerto espiritual necesita ser vivificado por Dios. Aclara que la incapacidad humana no significa que todos sean tan malos como podrían ser, sino que la naturaleza caída afecta todo y nadie puede salvarse a sí mismo.", "fuentes": ["mac1j_04_b#12"]},
-    {"titulo": "Contra la fe sin fruto", "texto": "MacArthur discute con quienes leen el pasaje como un llamado a cristianos carnales a pasar a una vida más espiritual: para él la carta contrasta fe salvadora con fe que no salva (5:13), y la Iglesia ha dudado con razón de profesiones de fe sin fruto. Resume: la mala teología condena y la mala conducta revela mala teología.", "fuentes": ["mac1j_04_a#26", "mac1j_04_a#24", "mac1j_04_a#25"]}
+    {
+      "titulo": "Blaney: el pecado como infracción de la ley del amor",
+      "texto": "Blaney (Comentario Beacon) propone leer el v. 4 a la luz de Ro 13:10: la desobediencia nace del odio como la obediencia del amor, y dañar a otro a sabiendas, física, mental, espiritual o socialmente, es pecar. Agrega que Dios nunca exige algo sin dar la capacidad de cumplirlo.",
+      "fuentes": [
+        "bea1j_01_b#22"
+      ]
+    },
+    {
+      "titulo": "El paralelismo del pasaje",
+      "texto": "Kistemaker ve un paralelismo de repetición entre los vv. 4-6 y 7-10: el v. 4 corresponde al 8a, el 6a al 9, el 5 al 8b y el 7b al 10. El v. 7 abre el último párrafo en positivo y el v. 10 lo cierra en negativo. Sus subtítulos: los justos (7), los inicuos (8), libres del poder del pecado (9), justicia y amor (10).",
+      "fuentes": [
+        "kis1j_04_a#13"
+      ]
+    },
+    {
+      "titulo": "«Todo aquel que…» en 1 Juan",
+      "texto": "La construcción griega “todo” más artículo y participio aparece catorce veces en la carta (2:23, 29; 3:3, 4, 6 dos veces, 9, 10, 15; 4:7; 5:1 dos veces, 4, 18). Con participio presente indica acción continua. En οὐ δύναται ἁμαρτάνειν Kistemaker nota que Juan no dice “capaz de no pecar” sino “incapaz de pecar”; los gramáticos discuten si el presente es durativo o de estado. Su conclusión: el cristiano peca, pero no puede ser llamado pecador, porque pertenece a Cristo.",
+      "fuentes": [
+        "kis1j_04_a#5",
+        "kis1j_04_a#21"
+      ]
+    },
+    {
+      "titulo": "¿“Nuestros” pecados?",
+      "texto": "En el v. 5 los manuscritos varían entre “los pecados” y “nuestros pecados”; muchos eruditos omiten el pronombre por considerarlo una asimilación a 2:2 y 4:10. El plural indica que todos los pecados son quitados.",
+      "fuentes": [
+        "kis1j_04_a#8"
+      ]
+    },
+    {
+      "titulo": "Regeneración: obra solo de Dios",
+      "texto": "MacArthur entiende el nuevo nacimiento como obra monergista, solo del Espíritu (Ef 2:1-6): el muerto espiritual necesita ser vivificado por Dios. Aclara que la incapacidad humana no significa que todos sean tan malos como podrían ser, sino que la naturaleza caída afecta todo y nadie puede salvarse a sí mismo.",
+      "fuentes": [
+        "mac1j_04_b#12"
+      ]
+    },
+    {
+      "titulo": "Contra la fe sin fruto",
+      "texto": "MacArthur discute con quienes leen el pasaje como un llamado a cristianos carnales a pasar a una vida más espiritual: para él la carta contrasta fe salvadora con fe que no salva (5:13), y la Iglesia ha dudado con razón de profesiones de fe sin fruto. Resume: la mala teología condena y la mala conducta revela mala teología.",
+      "fuentes": [
+        "mac1j_04_a#26",
+        "mac1j_04_a#24",
+        "mac1j_04_a#25"
+      ]
+    },
+    {
+      "titulo": "Blaney sobre «del diablo»",
+      "texto": "Blaney ofrece dos lecturas del v. 8: que una vida no movida por amor a obedecer a Dios responde a las sugestiones de Satanás, o que el que peca habitualmente es de aquellos a quienes Jesús llamó hijos del diablo (Jn 8:44). Aclara que no se refiere al que peca sin querer (2:1).",
+      "fuentes": [
+        "bea1j_01_b#24"
+      ]
+    },
+    {
+      "titulo": "Superioridad espiritual y amor",
+      "texto": "Blaney recuerda que algunas de las peores atrocidades de la historia fueron de un sector de la iglesia contra otro, y que detrás de cierto desprecio por el mundo hay una superioridad parecida a la de los gnósticos; toda evangelización sin amor es vana.",
+      "fuentes": [
+        "bea1j_01_b#23"
+      ]
+    },
+    {
+      "titulo": "Más que pagar",
+      "texto": "Bloesch, citado por Kistemaker, dice que Cristo hace más de lo que la ley requiere: no solo paga el castigo del pecado, sino que acepta al pecador y lo adopta en su familia como hermano o hermana.",
+      "fuentes": [
+        "kis1j_04_a#12"
+      ]
+    }
   ]
 }

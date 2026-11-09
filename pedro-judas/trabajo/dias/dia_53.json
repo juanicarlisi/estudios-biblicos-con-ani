@@ -4,12 +4,21 @@
   "desde": "1J 5:1",
   "hasta": "1J 5:5",
   "titulo": "La fe que vence al mundo",
-  "minutos": {"lectura": 2, "estudio": 25},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer (1J 4:13-21) Juan mostró que el perfecto amor echa fuera el temor y cerró con un mandato: el que ama a Dios ame también a su hermano, porque nadie puede decir que ama a Dios a quien no ve si no ama al hermano que ve.",
-    "ahora": "Juan va pasando poco a poco del amor a la fe, sin separarlos: junta en cinco versículos las tres pruebas de la carta (creer en Jesús, amar a Dios y a sus hijos, obedecer sus mandamientos) y las corona con un tema nuevo, la victoria sobre el mundo. Hasta aquí el verbo creer apareció pocas veces en la carta; en 5:1-13 se vuelve central, como si Juan bajara a los cimientos del parentesco espiritual.",
+    "ahora": "Juan pasa poco a poco del amor a la fe, sin separarlos: junta en cinco versículos las tres pruebas de la carta (creer en Jesús, amar a Dios y a sus hijos, obedecer) y las corona con un tema nuevo, la victoria sobre el mundo.",
     "despues": "Mañana (1J 5:6-12): el agua, la sangre y el Espíritu, y el testimonio que Dios mismo da de su Hijo. El v. 5 de hoy funciona como puente hacia ese párrafo, porque su tema es justamente que Jesús es el Hijo de Dios.",
-    "fuentes": ["cbmh1j_02#25", "moodynt_02_d#11", "mac1j_05_b#26", "kis1j_05_b#11", "ncb1j_01_b#12"]
+    "fuentes": [
+      "cbmh1j_02#25",
+      "moodynt_02_d#11",
+      "mac1j_05_b#26",
+      "kis1j_05_b#11",
+      "ncb1j_01_b#12"
+    ]
   },
   "versiculo_clave": {
     "ref": "1J 5:4",
@@ -17,137 +26,531 @@
   },
   "panorama": {
     "texto": "Estos cinco versículos parecen un resumen de toda la carta. Juan vuelve a entrelazar fe, amor y obediencia como un todo vivo: la prueba genuina de la fe es el amor y la prueba genuina del amor es la obediencia. Pero agrega algo que levanta el ánimo: los que nacieron de Dios son vencedores. No porque ganen cada escaramuza de esta vida, sino porque están unidos a Cristo, que ya venció al mundo. La fe que confía en Jesús, el hombre que es el Hijo de Dios, es la victoria misma; por eso los mandamientos no pesan como una carga sino que se viven con gozo.",
-    "fuentes": ["mbib1j_01_d#15", "mac1j_05_b#26", "mbib1j_01_d#12", "kis1j_05_b#8", "r1_016#32", "r1_010#22"]
+    "fuentes": [
+      "mbib1j_01_d#15",
+      "mac1j_05_b#26",
+      "mbib1j_01_d#12",
+      "kis1j_05_b#8",
+      "r1_016#32",
+      "r1_010#22"
+    ]
   },
   "secciones": [
     {
       "rango": "1J 5:1a",
       "titulo": "Creer que Jesús es el Cristo: la marca del nacido de Dios",
       "notas": [
-        {"texto": "La primera característica del vencedor es la fe, y su objeto es preciso: que Jesús es el Cristo, el Mesías o Ungido enviado a salvar. Creer eso implica, según MacArthur, creer todo lo que es cierto de él: que es el Hijo de Dios, que vino a morir y resucitar por los pecadores. Por eso la fe está unida de modo inseparable a la imagen correcta de Jesús, algo en lo que la carta insiste de principio a fin.", "fuentes": ["mac1j_05_b#27", "mbib1j_01_d#13", "ncb1j_01_b#12"], "tipo": "doctrina"},
-        {"texto": "Juan no escribe en el vacío: los falsos maestros negaban que Jesús de Nazaret fuera el Cristo, y Juan convierte la fe en esa verdad en una prueba esencial de haber sido engendrado por Dios. Ya lo había dicho: el que niega que Jesús es el Cristo es mentiroso y anticristo (1J 2:22-23), y el que no confiesa que vino en carne no es de Dios (1J 4:3).", "fuentes": ["moodynt_02_d#11", "mac1j_06_a#4"], "tipo": "historia"},
-        {"texto": "El texto dice todo aquel: la fe cristiana no deja a nadie afuera por origen o condición; el que cree, sea quien sea, es hijo de Dios. Kistemaker cuenta nueve usos del verbo creer en la carta y uno solo del sustantivo fe, que aparece en el v. 4.", "fuentes": ["kis1j_05_b#2", "bea1j_02_b#8"], "tipo": "exegesis"},
-        {"texto": "Antes Juan usaba confesar (1J 4:2, 15), la expresión hacia afuera que mostraba quién era cristiano. Aquí usa creer, porque está hablando del testimonio interior de ser hijo: decir la verdad con la boca no alcanza si no está en el corazón. Blaney aclara que no hay que enfrentar una cosa con la otra: en la confesión el creyente toma posición, entrega su vida y se juega por su Señor; es el coraje de la fe (cf. Ro 10:9).", "fuentes": ["bea1j_02_b#8"], "tipo": "exegesis"},
-        {"texto": "Creer, además, no es solo aceptar un dato. Es confianza personal: decir creo en Jesucristo es soltarse de los propios esfuerzos y descansar en su promesa de perdón y transformación. Varios autores subrayan que se trata de una fe continua, una entrega de por vida y de todo corazón, no un asentimiento de un momento. Quien profesa y después abandona del todo muestra, según MacArthur, la fe de los pedregales y los espinos de la parábola del sembrador, que no da fruto (Mt 13:20-22; 1J 2:19).", "fuentes": ["rich1j_01_b#16", "mbib1j_01_d#13", "mac1j_06_a#3"], "tipo": "doctrina"},
-        {"texto": "Que la fe y el nuevo nacimiento vayan juntos lo afirman todos los autores; en qué orden lógico se relacionan es tema de debate (ver Interpretaciones).", "fuentes": ["mac1j_06_a#2", "cbmh1j_02#25"], "tipo": "doctrina"}
+        {
+          "texto": "La primera característica del vencedor es la fe, y su objeto es preciso: que Jesús es el Cristo, el Ungido enviado a salvar. Según MacArthur, eso implica creer todo lo que es cierto de él: que es el Hijo de Dios, que vino a morir y resucitar por los pecadores. La fe está atada a la imagen correcta de Jesús, algo en lo que la carta insiste de principio a fin.",
+          "fuentes": [
+            "mac1j_05_b#27",
+            "mbib1j_01_d#13",
+            "ncb1j_01_b#12"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Juan no escribe en el vacío: los falsos maestros negaban que Jesús de Nazaret fuera el Cristo, y Juan hace de esa verdad una prueba esencial de haber sido engendrado por Dios (cf. 1J 2:22-23; 4:3).",
+          "fuentes": [
+            "moodynt_02_d#11",
+            "mac1j_06_a#4"
+          ],
+          "tipo": "historia"
+        },
+        {
+          "texto": "El texto dice todo aquel: la fe cristiana no deja a nadie afuera. Y usa creer, no confesar como en 1J 4:2, 15, porque habla del testimonio interior de ser hijo: decir la verdad con la boca no alcanza si no está en el corazón. Blaney aclara que no hay que oponer una cosa a la otra: en la confesión el creyente toma posición y se juega por su Señor (cf. Ro 10:9).",
+          "fuentes": [
+            "kis1j_05_b#2",
+            "bea1j_02_b#8"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Creer no es solo aceptar un dato: es confianza personal, soltarse de los propios esfuerzos y descansar en la promesa de Cristo. Y es continua, una entrega de por vida. Quien profesa y después abandona del todo muestra, según MacArthur, la fe sin fruto de los pedregales de la parábola del sembrador (Mt 13:20-22; 1J 2:19).",
+          "fuentes": [
+            "rich1j_01_b#16",
+            "mbib1j_01_d#13",
+            "mac1j_06_a#3"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Que la fe y el nuevo nacimiento van juntos lo afirman todos; en qué orden lógico se relacionan se discute (ver Interpretaciones).",
+          "fuentes": [
+            "mac1j_06_a#2",
+            "cbmh1j_02#25"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 5:1b",
       "titulo": "El que ama al Padre ama a sus hijos",
       "notas": [
-        {"texto": "La segunda mitad del v. 1 une la fe con el amor; uno no existe sin el otro y juntos muestran la vida espiritual del hijo de Dios. El razonamiento es de familia: el que ama «al que engendró» ama también al que fue engendrado por él. Kistemaker cita a Calvino: como Dios nos hace nacer de nuevo, lo amamos como Padre, y ese amor abraza a todos sus hijos.", "fuentes": ["kis1j_05_b#3"], "tipo": "exegesis"},
-        {"texto": "Si la primera característica del vencedor es doctrinal (creer), la segunda es moral: amar al Padre y a sus hijos. MacArthur aclara que no habla de emoción o sentimentalismo sino de un amor de voluntad, que busca honrar a Dios y atiende con sacrificio las necesidades de los demás (1Co 13:4-7).", "fuentes": ["mac1j_06_a#6", "mbib1j_01_d#14"], "tipo": "doctrina"},
-        {"texto": "Este amor se diferencia de la simpatía natural o de los afectos de grupo, observa Matthew Henry, porque va unido al amor de Dios y a la obediencia: el mismo Espíritu que enseña a amar enseña a obedecer.", "fuentes": ["mhenry_01_c#32"], "tipo": "doctrina"}
+        {
+          "texto": "La segunda mitad del v. 1 une la fe con el amor con una lógica de familia: el que ama «al que engendró» ama también a sus hijos. Kistemaker cita a Calvino: como Dios nos hace nacer de nuevo, lo amamos como Padre, y ese amor abraza a todos sus hijos.",
+          "fuentes": [
+            "kis1j_05_b#3"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Si la primera característica del vencedor es doctrinal, la segunda es moral. MacArthur aclara que no se trata de sentimentalismo sino de un amor de voluntad, que busca honrar a Dios y atiende con sacrificio a los demás. Henry agrega que por eso se distingue de la simpatía natural o los afectos de grupo: va unido a la obediencia.",
+          "fuentes": [
+            "mac1j_06_a#6",
+            "mbib1j_01_d#14",
+            "mhenry_01_c#32"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 5:2",
       "titulo": "La prueba al revés: amar a Dios para amar de verdad a los hermanos",
       "notas": [
-        {"texto": "En 1J 4:20-21 Juan dijo que el amor a Dios se demuestra amando al hermano. Ahora invierte el camino: sabemos que amamos a los hijos de Dios cuando amamos a Dios y «guardamos sus mandamientos». Bedford trae la imagen de Hendricks: como en geometría, dos cosas iguales a una tercera son iguales entre sí. El amor a Dios y el amor al prójimo, y la vida vivida según ese amor, forman una sola unidad.", "fuentes": ["ncb1j_01_b#12", "cbmh1j_02#18", "moodynt_02_d#11"], "tipo": "exegesis"},
-        {"texto": "Hay tres partes que solo valen juntas: amor a los hijos de Dios, amor a Dios y obediencia, tal como enseñó Jesús (Jn 14:15; 15:10). Kistemaker cita a C. H. Dodd: son tan inseparables que la presencia de uno es evidencia del otro. MacArthur lo llama prioridades gemelas: así como no se puede amar a Dios sin amar a sus hijos, tampoco se puede amar de veras a sus hijos sin amar a Dios.", "fuentes": ["kis1j_05_b#4", "mac1j_06_a#7"], "tipo": "doctrina"},
-        {"texto": "Piper ve aquí una protección contra el sentimentalismo: un amor a los hermanos que se olvida de Dios y de sus mandamientos no es el amor del que habla Juan. Sin amar a Dios no se ama de un modo que cuente para la eternidad.", "fuentes": ["r1_010#23"], "tipo": "aplicacion"}
+        {
+          "texto": "En 1J 4:20-21 el amor a Dios se demostraba amando al hermano; ahora Juan invierte el camino: sabemos que amamos a los hijos de Dios cuando amamos a Dios y «guardamos sus mandamientos». Bedford trae la imagen de Hendricks: dos cosas iguales a una tercera son iguales entre sí.",
+          "fuentes": [
+            "ncb1j_01_b#12",
+            "cbmh1j_02#18",
+            "moodynt_02_d#11"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Son tres partes que solo valen juntas: amor a los hijos de Dios, amor a Dios y obediencia, como enseñó Jesús (Jn 14:15; 15:10). Para Dodd, citado por Kistemaker, la presencia de uno es evidencia del otro. Piper ve aquí una protección contra el sentimentalismo: un amor a los hermanos que olvida a Dios y sus mandamientos no es el amor del que habla Juan.",
+          "fuentes": [
+            "kis1j_05_b#4",
+            "mac1j_06_a#7",
+            "r1_010#23"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 5:3",
       "titulo": "Sus mandamientos no son gravosos",
       "notas": [
-        {"texto": "Juan es el autor del Nuevo Testamento que más definiciones breves ofrece, y aquí define el amor a Dios: no son palabras, por bien intencionadas que sean, sino obediencia. Aunque abarca todos los preceptos, Kistemaker y Piper notan que, por el contexto, Juan piensa sobre todo en creer en Jesús y amar a los hijos de Dios (1J 3:23; 4:20).", "fuentes": ["kis1j_05_b#6", "r1_010#23"], "tipo": "exegesis"},
-        {"texto": "Gravosos quiere decir pesados, una carga que agobia. Que los mandamientos no lo sean no significa que sean fáciles ni que tengan poco peso moral: pueden ser difíciles y, a la vez, agradables. La explicación que recoge Blaney (de Haupt) es que la dificultad depende de la relación entre la tarea y la fuerza de quien la hace; el que está unido a Cristo por la fe encuentra fácil su yugo y ligera su carga (Mt 11:28-30).", "fuentes": ["moodynt_02_d#11", "ncb1j_01_b#12", "cbmh1j_02#18", "bea1j_02_b#10"], "tipo": "exegesis"},
-        {"texto": "El contraste son las cargas humanas: los fariseos y escribas sumaban a la ley cientos de reglas pesadas que ellos mismos no movían con un dedo (Mt 23:4; Lc 11:46). Para quien no reconoce a Jesús, los mandamientos amenazan su libertad; el hijo de Dios sabe que le fueron dados para protegerlo, y dentro de ese cerco es libre. Kistemaker cita aquí la frase de Agustín: amá y hacé lo que quieras.", "fuentes": ["kis1j_05_b#7", "mbib1j_01_d#15"], "tipo": "exegesis"},
-        {"texto": "Esa obediencia, dice MacArthur, no es ritual, legalista, renuente ni parcial, sino de corazón, dispuesta, constante y gozosa; los que aman a Dios obedecen por adoración, no por miedo. Y eso no se puede imitar: el moralista puede ajustar la conducta con fuerza de voluntad, pero le pesa; deleitarse en obedecer requiere un corazón nuevo (Sal 40:8; Ef 4:24). Ese gozo no excluye la lucha: Henry nota que los nacidos de Dios lamentan no servirle más perfectamente.", "fuentes": ["mac1j_06_a#10", "r1_018_a#10", "mhenry_01_c#32"], "tipo": "doctrina"},
-        {"texto": "Bedford lo ilustra con la diferencia entre la ley y el amor en una familia: la ley obliga a los padres a dar a sus hijos lo básico; el amor los mueve a sacrificarse para darles lo mejor, y no lo viven como peso. Wiersbe usa la misma imagen.", "fuentes": ["cbmh1j_02#18", "r1_007_b#24"], "tipo": "ilustracion"}
+        {
+          "texto": "Juan, el autor del NT más amigo de las definiciones breves, define el amor a Dios: no son palabras sino obediencia. Por el contexto, notan Kistemaker y Piper, piensa sobre todo en creer en Jesús y amar a los hermanos (1J 3:23).",
+          "fuentes": [
+            "kis1j_05_b#6",
+            "r1_010#23"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Gravosos quiere decir pesados, una carga que agobia. No significa que los mandamientos sean fáciles: pueden ser difíciles y a la vez agradables. Blaney recoge la explicación de Haupt: la dificultad depende de la fuerza de quien la encara, y el que está unido a Cristo encuentra fácil su yugo (Mt 11:28-30).",
+          "fuentes": [
+            "moodynt_02_d#11",
+            "ncb1j_01_b#12",
+            "cbmh1j_02#18",
+            "bea1j_02_b#10"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El contraste son las cargas humanas que los fariseos sumaban a la ley (Mt 23:4). Para quien no reconoce a Jesús, los mandamientos amenazan su libertad; el hijo de Dios sabe que le fueron dados para protegerlo, y dentro de ese cerco es libre.",
+          "fuentes": [
+            "kis1j_05_b#7",
+            "mbib1j_01_d#15"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Esa obediencia es de corazón, dispuesta y gozosa, por adoración y no por miedo. Y no se puede imitar: el moralista puede ajustar la conducta con fuerza de voluntad, pero le pesa; deleitarse en obedecer requiere un corazón nuevo (Sal 40:8; Ef 4:24). Bedford lo ilustra con una familia: la ley obliga a los padres a dar lo básico; el amor los mueve a dar lo mejor sin vivirlo como peso.",
+          "fuentes": [
+            "mac1j_06_a#10",
+            "r1_018_a#10",
+            "cbmh1j_02#18",
+            "r1_007_b#24"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 5:4",
       "titulo": "Todo lo que es nacido de Dios vence al mundo",
       "notas": [
-        {"texto": "¿Por qué los mandamientos no pesan? Porque el nuevo nacimiento vence al mundo. Piper describe una cadena de tres eslabones: obediencia gozosa, que descansa en el poder del nuevo nacimiento, que se expresa en la fe. Roto el hechizo del mundo, Dios y su voluntad se vuelven atractivos. Grudem lo dice así: nacer de Dios da la capacidad de vencer las presiones y tentaciones que de otro modo impedirían obedecer.", "fuentes": ["r1_010#22", "r1_013#12", "moodynt_02_d#12"], "tipo": "doctrina"},
-        {"texto": "¿Qué es el mundo? No la creación ni las personas, sino el sistema de engaño y maldad, hostil a Dios y manejado por Satanás (Jn 12:31; 1J 5:19), cuyos ciudadanos viven dominados por la ambición, el orgullo y la codicia. Piper lo baja a tierra con 1J 2:15-17: el deseo de lo que no tenemos y la arrogancia por lo que tenemos, dos cosas que desplazan a Dios y vuelven ídolos las cosas, buenas o malas. Vencer al mundo es derrotar en la propia vida todo lo opuesto a Dios.", "fuentes": ["mac1j_05_b#24", "mbib1j_01_d#17", "r1_010#24", "bea1j_02_b#11"], "tipo": "doctrina"},
-        {"texto": "El texto dice todo lo que, en neutro, no todo el que: Juan mira al conjunto de los que nacieron de nuevo, con un sentido universal y colectivo. La victoria no es de unos pocos cristianos de élite: Ryrie insiste en que cada creyente, nuevo o maduro, la tiene por el solo hecho de creer.", "fuentes": ["kis1j_05_b#8", "cbmh1j_02#26", "ncb1j_01_b#13", "r1_016#32"], "tipo": "exegesis"},
-        {"texto": "Juan dice «esta es la victoria que ha vencido al mundo, nuestra fe»: no nombra al vencedor sino a la victoria, y la identifica con la fe. El tiempo pasado habla de una victoria decisiva y segura; la batalla ya está decidida aunque todavía no haya terminado. Por eso nada puede separar al creyente del amor de Dios (Ro 8:37-39; 1Co 15:57). La expresión nuestra fe aparece solo aquí en la carta y va al final, para darle peso.", "fuentes": ["kis1j_05_b#8", "moodynt_02_d#12", "ncb1j_01_b#13"], "tipo": "exegesis"},
-        {"texto": "La fe es el medio y el instrumento de la victoria, la armadura espiritual, según Henry: por ella nos aferramos a Cristo y nos oponemos al mundo. No promete una vida sin derrotas parciales: el regenerado puede caer, pero se levanta y vuelve a la pelea, porque el Espíritu que habita en él es mayor que el que está en el mundo (1J 4:4). MacArthur pone el ejemplo de Pablo, que soportó azotes, cárceles y naufragios sin ser derrotado (2Co 11:23-27; Hch 20:24).", "fuentes": ["mhenry_01_c#33", "mac1j_05_b#25", "ncb1j_01_b#13"], "tipo": "doctrina"},
-        {"texto": "Blaney agrega que esa fe incluye el amor a los hermanos, de modo que la victoria es también del amor: la mejor manera de vencer a un enemigo es ganarlo para Cristo, y la evangelización es la gran victoria sobre el mundo. Todo se resume en la fe que obra por el amor (Gá 5:6).", "fuentes": ["bea1j_02_b#11"], "tipo": "aplicacion"}
+        {
+          "texto": "¿Por qué no pesan? Porque el nuevo nacimiento vence al mundo. Piper ve una cadena: obediencia gozosa, que descansa en el nuevo nacimiento, que se expresa en la fe; roto el hechizo del mundo, Dios y su voluntad se vuelven atractivos. Grudem lo dice así: nacer de Dios da la capacidad de vencer las presiones que impedirían obedecer.",
+          "fuentes": [
+            "r1_010#22",
+            "r1_013#12",
+            "moodynt_02_d#12"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "El mundo no es la creación ni las personas, sino el sistema de engaño y maldad hostil a Dios (1J 5:19). Piper lo baja a tierra con 1J 2:15-17: el deseo de lo que no tenemos y el orgullo por lo que tenemos, que desplazan a Dios y vuelven ídolos las cosas.",
+          "fuentes": [
+            "mac1j_05_b#24",
+            "mbib1j_01_d#17",
+            "r1_010#24",
+            "bea1j_02_b#11"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Juan dice todo lo que, en neutro: mira al conjunto de los que nacieron de nuevo. La victoria no es de una élite; Ryrie insiste en que cada creyente, nuevo o maduro, la tiene por el solo hecho de creer.",
+          "fuentes": [
+            "kis1j_05_b#8",
+            "cbmh1j_02#26",
+            "ncb1j_01_b#13",
+            "r1_016#32"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Juan dice «esta es la victoria que ha vencido al mundo, nuestra fe»: no nombra al vencedor sino a la victoria, y la identifica con la fe. El tiempo pasado habla de una victoria decisiva: la batalla ya está decidida aunque no haya terminado (Ro 8:37-39).",
+          "fuentes": [
+            "kis1j_05_b#8",
+            "moodynt_02_d#12",
+            "ncb1j_01_b#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La fe es el instrumento, la armadura, dice Henry. No promete una vida sin derrotas parciales: el creyente puede caer, pero se levanta y vuelve a la pelea, porque el que está en él es mayor que el que está en el mundo (1J 4:4). MacArthur pone el ejemplo de Pablo, golpeado y perseguido pero nunca derrotado (2Co 11:23-27).",
+          "fuentes": [
+            "mhenry_01_c#33",
+            "mac1j_05_b#25",
+            "ncb1j_01_b#13"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Blaney agrega que esa fe incluye el amor, de modo que la victoria es también del amor: la mejor manera de vencer a un enemigo es ganarlo para Cristo (Gá 5:6).",
+          "fuentes": [
+            "bea1j_02_b#11"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1J 5:5",
       "titulo": "¿Quién vence? El que cree que Jesús es el Hijo de Dios",
       "notas": [
-        {"texto": "La pregunta retórica cierra el pensamiento: el vencedor es el que cree que Jesús es el Hijo de Dios. Kistemaker aclara que no vence la fe en general, sino la fe puesta en Jesús como Hijo de Dios; aunque a veces sea débil, cuando es un vínculo firme entre Jesús y el creyente se ve su poder.", "fuentes": ["kis1j_05_b#11", "ncb1j_01_b#13"], "tipo": "exegesis"},
-        {"texto": "Los dos nombres importan: Jesús señala su humanidad verdadera e Hijo de Dios su naturaleza divina. La fe que vence descansa en el Dios hombre completo. El Comentario Moody recoge la frase de Plummer: nuestro credo es nuestra lanza y nuestro escudo.", "fuentes": ["cbmh1j_02#26", "moodynt_02_d#12", "r1_016#32"], "tipo": "doctrina"},
-        {"texto": "Con tres menciones de vencer al mundo en dos versículos, Juan quiere que capten la grandeza de esta victoria. El v. 5 hace además de puente con lo que sigue: algunos lo leen como cierre de 5:1-5 y otros como apertura de 5:5-12 (ver Interpretaciones).", "fuentes": ["mbib1j_01_d#17", "ncb1j_01_b#13", "kis1j_05_b#11"], "tipo": "estructura"}
+        {
+          "texto": "La pregunta del v. 5 cierra el pensamiento: vence el que cree que Jesús es el Hijo de Dios. No vence la fe en general, aclara Kistemaker, sino la fe puesta en él; aunque a veces sea débil, cuando es un vínculo firme se ve su poder.",
+          "fuentes": [
+            "kis1j_05_b#11",
+            "ncb1j_01_b#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Los dos nombres importan: Jesús señala su humanidad verdadera e Hijo de Dios su naturaleza divina. Plummer, citado en el Comentario Moody, lo resume: nuestro credo es nuestra lanza y nuestro escudo.",
+          "fuentes": [
+            "cbmh1j_02#26",
+            "moodynt_02_d#12",
+            "r1_016#32"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Con tres menciones de vencer al mundo, Juan quiere que capten la grandeza de esta victoria. El v. 5 es además bisagra con lo que sigue (ver Interpretaciones).",
+          "fuentes": [
+            "mbib1j_01_d#17",
+            "ncb1j_01_b#13",
+            "kis1j_05_b#11"
+          ],
+          "tipo": "estructura"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1J 5:1", "griego": "γεγέννηται", "translit": "gegénnētai", "significado": "Ha nacido, ha sido engendrado. Perfecto pasivo: un hecho pasado con resultado presente. Junto al participio presente el que cree (acción continua), muestra que los que ahora creen ya han nacido de Dios.", "fuentes": ["mac1j_06_a#2", "r1_017#25", "r1_018_a#5"]},
-    {"ref": "1J 5:1", "griego": "πιστεύων", "translit": "pisteúōn", "significado": "El que cree. Juan lo usa aquí en lugar de confesar (ὁμολογεῖ, 1J 4:2, 15) porque habla del testimonio interior de ser hijo de Dios.", "fuentes": ["bea1j_02_b#8"]},
-    {"ref": "1J 5:1", "griego": "γεγεννημένον", "translit": "gegennēménon", "significado": "El engendrado, el hijo de Dios. Participio perfecto: una condición que permanece, basada en un hecho consumado. En el v. 1 lo precede γεννήσαντα (el que engendró, Dios), en aoristo, por un único acontecimiento.", "fuentes": ["kis1j_05_b#5", "r1_016#32"]},
-    {"ref": "1J 5:2-3", "griego": "ποιῶμεν / τηρῶμεν", "translit": "poiōmen / tērōmen", "significado": "Hacer, practicar / guardar, custodiar. En el v. 2 el griego dice practicamos (la acción continua, que marca la dirección de la vida aunque no la perfección); en el v. 3, guardemos (la actitud de quien cuida un tesoro). Unos pocos manuscritos ponen guardamos también en el v. 2 y la RVR siguió esa lectura.", "fuentes": ["mac1j_06_a#8", "kis1j_05_b#5"]},
-    {"ref": "1J 5:4", "griego": "νικᾷ", "translit": "nikâ", "significado": "Vence, conquista, muestra superioridad. En presente: una victoria continua. Es palabra favorita de Juan (24 de sus 28 apariciones en el NT están en sus escritos); los griegos tenían una diosa de la victoria, Niké, y atribuirles a los cristianos una victoria así era impresionante.", "fuentes": ["mbib1j_01_d#16", "mac1j_05_b#21", "r1_018_a#7"]},
-    {"ref": "1J 5:4", "griego": "νίκη", "translit": "níkē", "significado": "Victoria. Va en aposición con ἡ πίστις: la victoria es la fe. El participio que la acompaña (la que venció) está en aoristo: un hecho firme, que según Cook se apoya en la victoria de Cristo.", "fuentes": ["kis1j_05_b#10", "moodynt_02_d#12", "r1_016#32"]},
-    {"ref": "1J 5:4", "griego": "πίστις", "translit": "pístis", "significado": "Fe: una relación personal de confianza y fidelidad, no solo un conjunto de creencias. Única aparición del sustantivo en la carta.", "fuentes": ["rich1j_01_b#16", "ncb1j_01_b#13"]}
+    {
+      "ref": "1J 5:1",
+      "griego": "γεγέννηται",
+      "translit": "gegénnētai",
+      "significado": "Ha nacido, ha sido engendrado. Perfecto pasivo: un hecho pasado con resultado presente. Junto al participio presente el que cree (acción continua), muestra que los que ahora creen ya han nacido de Dios.",
+      "fuentes": [
+        "mac1j_06_a#2",
+        "r1_017#25",
+        "r1_018_a#5"
+      ]
+    },
+    {
+      "ref": "1J 5:1",
+      "griego": "πιστεύων",
+      "translit": "pisteúōn",
+      "significado": "El que cree. Juan lo usa aquí en lugar de confesar (ὁμολογεῖ, 1J 4:2, 15) porque habla del testimonio interior de ser hijo de Dios.",
+      "fuentes": [
+        "bea1j_02_b#8"
+      ]
+    },
+    {
+      "ref": "1J 5:1",
+      "griego": "γεγεννημένον",
+      "translit": "gegennēménon",
+      "significado": "El engendrado, el hijo de Dios. Participio perfecto: una condición que permanece, basada en un hecho consumado. En el v. 1 lo precede γεννήσαντα (el que engendró, Dios), en aoristo, por un único acontecimiento.",
+      "fuentes": [
+        "kis1j_05_b#5",
+        "r1_016#32"
+      ]
+    },
+    {
+      "ref": "1J 5:2-3",
+      "griego": "ποιῶμεν / τηρῶμεν",
+      "translit": "poiōmen / tērōmen",
+      "significado": "Practicar / guardar. En el v. 2 el griego dice practicamos (la dirección constante de la vida, no la perfección); en el v. 3, guardemos (cuidar un tesoro). Unos pocos manuscritos ponen guardamos también en el v. 2, y la RVR los siguió.",
+      "fuentes": [
+        "mac1j_06_a#8",
+        "kis1j_05_b#5"
+      ]
+    },
+    {
+      "ref": "1J 5:4",
+      "griego": "νικᾷ",
+      "translit": "nikâ",
+      "significado": "Vence, conquista. En presente: victoria continua. Es palabra favorita de Juan (24 de sus 28 apariciones en el NT); los griegos tenían una diosa de la victoria, Niké.",
+      "fuentes": [
+        "mbib1j_01_d#16",
+        "mac1j_05_b#21",
+        "r1_018_a#7"
+      ]
+    },
+    {
+      "ref": "1J 5:4",
+      "griego": "νίκη",
+      "translit": "níkē",
+      "significado": "Victoria. Va en aposición con ἡ πίστις: la victoria es la fe. El participio que la acompaña (la que venció) está en aoristo: un hecho firme, que según Cook se apoya en la victoria de Cristo.",
+      "fuentes": [
+        "kis1j_05_b#10",
+        "moodynt_02_d#12",
+        "r1_016#32"
+      ]
+    },
+    {
+      "ref": "1J 5:4",
+      "griego": "πίστις",
+      "translit": "pístis",
+      "significado": "Fe: una relación personal de confianza y fidelidad, no solo un conjunto de creencias. Única aparición del sustantivo en la carta.",
+      "fuentes": [
+        "rich1j_01_b#16",
+        "ncb1j_01_b#13"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Jesús es el objeto de la fe que salva: el judío de Nazaret que es el Mesías prometido y el Hijo de Dios, verdadero hombre y verdadero Dios. Piper dice que el Espíritu hace nacer de nuevo precisamente para crear fe en el Cristo encarnado; por eso la fe en él es la primera señal de que el nuevo nacimiento ocurrió.", "refs": ["1J 4:2-3", "1J 2:22"], "fuentes": ["r1_011#20", "cbmh1j_02#26", "moodynt_02_d#12"]},
-    {"texto": "La victoria del creyente es la de Cristo. Jesús usó el mismo verbo al decir que había vencido al mundo, y por la unión con él los creyentes participan de su triunfo: él vino, sufrió, murió, resucitó, intercede y vive en ellos. Nuestra victoria de hoy descansa en la suya de ayer.", "refs": ["Jn 16:33", "Ro 8:37"], "fuentes": ["mbib1j_01_d#16", "kis1j_05_b#8", "cbmh1j_02#26", "r1_016#32"]},
-    {"texto": "Los mandamientos no gravosos repiten la invitación de Jesús: su yugo es fácil y su carga ligera, a diferencia de las cargas que imponían los maestros religiosos.", "refs": ["Mt 11:28-30", "Mt 23:4"], "fuentes": ["kis1j_05_b#7", "mbib1j_01_d#15", "mac1j_06_a#10"]}
+    {
+      "texto": "Jesús es el objeto de la fe que salva: el judío de Nazaret que es el Mesías prometido y el Hijo de Dios, verdadero hombre y verdadero Dios. Piper dice que el Espíritu hace nacer de nuevo precisamente para crear fe en el Cristo encarnado; por eso la fe en él es la primera señal de que el nuevo nacimiento ocurrió.",
+      "refs": [
+        "1J 4:2-3",
+        "1J 2:22"
+      ],
+      "fuentes": [
+        "r1_011#20",
+        "cbmh1j_02#26",
+        "moodynt_02_d#12"
+      ]
+    },
+    {
+      "texto": "La victoria del creyente es la de Cristo. Jesús usó el mismo verbo al decir que había vencido al mundo, y por la unión con él los suyos participan de su triunfo: nuestra victoria de hoy descansa en la suya.",
+      "refs": [
+        "Jn 16:33",
+        "Ro 8:37"
+      ],
+      "fuentes": [
+        "mbib1j_01_d#16",
+        "kis1j_05_b#8",
+        "cbmh1j_02#26",
+        "r1_016#32"
+      ]
+    },
+    {
+      "texto": "Los mandamientos no gravosos repiten la invitación de Jesús: su yugo es fácil y su carga ligera, a diferencia de las cargas que imponían los maestros religiosos.",
+      "refs": [
+        "Mt 11:28-30",
+        "Mt 23:4"
+      ],
+      "fuentes": [
+        "kis1j_05_b#7",
+        "mbib1j_01_d#15",
+        "mac1j_06_a#10"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué viene primero, el nuevo nacimiento o la fe? (1J 5:1)",
       "posturas": [
-        {"postura": "La regeneración precede lógicamente a la fe y la causa, aunque en la experiencia ocurren a la vez. El argumento es gramatical: el que cree está en presente y es nacido en perfecto, de modo que los que creen ya nacieron; la misma estructura aparece con practicar la justicia (2:29), amar (4:7) y vencer al mundo (5:4). La fe es la evidencia del nuevo nacimiento, no su causa. MacArthur lo presenta como respuesta a la teología arminiana, y agrega que la fe dada en la regeneración no se pierde.", "quien": "MacArthur; MacArthur y Mayhue (Teología sistemática); Murray; Piper (en su exposición de los cinco puntos del calvinismo); Kistemaker", "fuentes": ["mac1j_06_a#2", "r1_017#25", "r1_018_a#5", "r1_016#7", "r1_010#5", "r1_011#18", "kis1j_05_b#2"]},
-        {"postura": "La fe que acepta el amor de Dios en Cristo produce el nuevo nacimiento: así como el nacimiento físico requiere la unión de dos, el espiritual requiere la unión de la fe del hombre con el amor de Dios (Jn 3:3, 15-18). En la misma línea, Richards dice que el nuevo nacimiento viene únicamente por la fe en Jesucristo.", "quien": "Bedford (Comentario Mundo Hispano); Richards", "fuentes": ["cbmh1j_02#25", "rich1j_01_b#16"]}
+        {
+          "postura": "La regeneración precede lógicamente a la fe y la causa, aunque en la experiencia son simultáneas: el que cree está en presente y es nacido en perfecto, así que los que creen ya nacieron (igual en 2:29, 4:7 y 5:4). La fe es evidencia del nuevo nacimiento, no su causa; MacArthur lo plantea contra la teología arminiana.",
+          "quien": "MacArthur; MacArthur y Mayhue (Teología sistemática); Murray; Piper (en su exposición de los cinco puntos del calvinismo); Kistemaker",
+          "fuentes": [
+            "mac1j_06_a#2",
+            "r1_017#25",
+            "r1_018_a#5",
+            "r1_016#7",
+            "r1_010#5",
+            "r1_011#18",
+            "kis1j_05_b#2"
+          ]
+        },
+        {
+          "postura": "La fe que acepta el amor de Dios en Cristo produce el nuevo nacimiento (Jn 3:3, 15-18); Richards: el nuevo nacimiento viene únicamente por la fe en Jesucristo.",
+          "quien": "Bedford (Comentario Mundo Hispano); Richards",
+          "fuentes": [
+            "cbmh1j_02#25",
+            "rich1j_01_b#16"
+          ]
+        }
       ],
-      "nota": "Todos coinciden en lo central: nadie es hijo de Dios sin creer en Jesús, la fe y el nuevo nacimiento van siempre juntos, y la fe que persevera es la señal confiable de haber nacido de Dios. Piper agrega una advertencia propia: fe y amor son inseparables pero no se deben confundir; él rechaza la idea de que la fe salvadora sea lo mismo que la fidelidad o el amor."
+      "nota": "Todos coinciden: nadie es hijo de Dios sin creer en Jesús, y la fe que persevera es la señal confiable de haber nacido de Dios."
     },
     {
       "tema": "«Nuestra fe»: ¿la confianza personal o el contenido de la fe? (1J 5:4)",
       "posturas": [
-        {"postura": "Aunque la frase podría referirse a la fe cristiana objetiva, la que fue dada a los santos (Jd 3), aquí conviene entenderla como la confianza personal con la que Dios hace vencedores a los suyos; así lo pide la pregunta del v. 5.", "quien": "MacArthur", "fuentes": ["mac1j_06_a#5"]},
-        {"postura": "Se subraya el contenido creído: que Jesús, verdadero hombre, es el Hijo de Dios, verdadero Dios; de ahí la frase de Plummer, nuestro credo es nuestra lanza y escudo.", "quien": "Comentario Moody (Harrison, ed.)", "fuentes": ["moodynt_02_d#12"]}
+        {
+          "postura": "Podría ser la fe objetiva dada a los santos (Jd 3), pero aquí es mejor la confianza personal, como pide el v. 5.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac1j_06_a#5"
+          ]
+        },
+        {
+          "postura": "Se subraya el contenido: que Jesús, verdadero hombre, es el Hijo de Dios.",
+          "quien": "Comentario Moody (Harrison, ed.)",
+          "fuentes": [
+            "moodynt_02_d#12"
+          ]
+        }
       ],
-      "nota": "No se excluyen: la fe que vence es confianza viva, entrega total al Hijo de Dios, y a la vez tiene un contenido preciso sobre quién es Jesús."
+      "nota": "No se excluyen: confianza viva con un contenido preciso."
     },
     {
       "tema": "¿El v. 5 cierra el párrafo anterior o abre el siguiente?",
       "posturas": [
-        {"postura": "Forma parte de la unidad 5:1-5, donde Juan reúne las tres características del vencedor.", "quien": "MacArthur; Biblia MacArthur", "fuentes": ["mac1j_05_b#26", "mbib1j_01_d#17"]},
-        {"postura": "Pertenece al párrafo siguiente (5:5-12), porque la filiación divina de Jesús está al principio, en el medio y al final de ese párrafo; así lo dividen también Nestle-Aland 26, Merk y Brown, entre otros.", "quien": "Kistemaker", "fuentes": ["kis1j_05_b#11"]}
+        {
+          "postura": "Forma parte de la unidad 5:1-5, donde Juan reúne las tres características del vencedor.",
+          "quien": "MacArthur; Biblia MacArthur",
+          "fuentes": [
+            "mac1j_05_b#26",
+            "mbib1j_01_d#17"
+          ]
+        },
+        {
+          "postura": "Abre 5:5-12, porque la filiación de Jesús está al principio, en medio y al final de ese párrafo (así también Nestle-Aland 26 y Brown).",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1j_05_b#11"
+          ]
+        }
       ],
-      "nota": "Es un versículo bisagra: cierra el tema de la victoria y abre el del testimonio sobre el Hijo."
+      "nota": "Cierra la victoria y abre el testimonio sobre el Hijo."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Dt 30:11", "nota": "Para Kistemaker, la observación de que los mandamientos no son una carga se parece a lo que dijo Moisés: lo que Dios manda no es demasiado difícil ni está fuera de alcance.", "fuentes": ["kis1j_01_a#26", "kis1j_05_b#7"]},
-    {"ref": "Sal 119:47", "nota": "El salmista se deleita en los mandamientos porque los ama: es el corazón que no los siente gravosos (también Sal 119:97; 40:8).", "fuentes": ["kis1j_05_b#7", "mac1j_06_a#10", "r1_018_a#10"]},
-    {"ref": "1S 15:22", "nota": "Obedecer es mejor que los sacrificios: MacArthur muestra que la obediencia como expresión del amor a Dios atraviesa todo el canon (también Dt 13:4; Ec 12:13; Jer 7:23).", "fuentes": ["mac1j_06_a#9"]}
+    {
+      "ref": "Dt 30:11",
+      "nota": "Para Kistemaker, la observación de que los mandamientos no son una carga se parece a lo que dijo Moisés: lo que Dios manda no es demasiado difícil ni está fuera de alcance.",
+      "fuentes": [
+        "kis1j_01_a#26",
+        "kis1j_05_b#7"
+      ]
+    },
+    {
+      "ref": "Sal 119:47",
+      "nota": "El salmista se deleita en los mandamientos porque los ama: es el corazón que no los siente gravosos (también Sal 119:97; 40:8).",
+      "fuentes": [
+        "kis1j_05_b#7",
+        "mac1j_06_a#10",
+        "r1_018_a#10"
+      ]
+    },
+    {
+      "ref": "1S 15:22",
+      "nota": "Obedecer es mejor que los sacrificios: MacArthur muestra que la obediencia como expresión del amor a Dios atraviesa todo el canon (también Dt 13:4; Ec 12:13; Jer 7:23).",
+      "fuentes": [
+        "mac1j_06_a#9"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Wiersbe reúne las cinco marcas de los nacidos de Dios en 1 Juan: practican la justicia (2:29), no practican el pecado (3:9), aman a los hermanos (4:7), vencen al mundo (5:4) y se guardan del maligno (5:18). Vencen al mundo, al diablo y a los falsos maestros por la fe en la Palabra, no por su poder.", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 468", "tipo": "doctrina", "fuentes": ["r1_007_b#24"]},
-    {"texto": "Murray cita a Bengel: en la lista de las virtudes, la fe marcha al frente con la banda y el amor cierra la retaguardia.", "autor": "John Murray", "obra": "La redención consumada y aplicada", "pagina": "PDF 103-104", "tipo": "ilustracion", "fuentes": ["r1_016#7"]},
-    {"texto": "Blaney advierte sobre la tendencia de la iglesia a pasar de la sencillez a la complejidad y de la fe interior al mero asentimiento, hasta exigir fórmulas como requisito de salvación; Juan no pide más que una fe personal en Cristo como Hijo de Dios. Al mismo tiempo reconoce que las primeras confesiones del Nuevo Testamento (Ro 10:9; 1Co 15:3-7) eran necesarias contra el error.", "autor": "Harvey J. S. Blaney", "obra": "Comentario Bíblico Beacon, 1 Juan", "pagina": "PDF 268", "tipo": "historia", "fuentes": ["bea1j_02_b#9"]},
-    {"texto": "Kistemaker contrasta a los héroes públicos, como David tras vencer a Goliat, con la galería de Hebreos 11: gente común con pruebas como las nuestras, grande por su fe y su fidelidad. Por eso las siete cartas de Apocalipsis terminan hablándole al que venciere, miembros comunes de iglesias locales.", "autor": "Simon J. Kistemaker", "obra": "Comentario al Nuevo Testamento: 1 Juan", "pagina": "PDF 292-293", "tipo": "aplicacion", "fuentes": ["kis1j_05_b#9"]}
+    {
+      "texto": "Wiersbe reúne las cinco marcas de los nacidos de Dios en 1 Juan: practican la justicia (2:29), no practican el pecado (3:9), aman a los hermanos (4:7), vencen al mundo (5:4) y se guardan del maligno (5:18). Vencen al mundo, al diablo y a los falsos maestros por la fe en la Palabra, no por su poder.",
+      "autor": "Warren W. Wiersbe",
+      "obra": "Bosquejos expositivos de la Biblia",
+      "pagina": "PDF 468",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_007_b#24"
+      ]
+    },
+    {
+      "texto": "Murray cita a Bengel: en la lista de las virtudes, la fe marcha al frente con la banda y el amor cierra la retaguardia.",
+      "autor": "John Murray",
+      "obra": "La redención consumada y aplicada",
+      "pagina": "PDF 103-104",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "r1_016#7"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Jn 3:3-8", "nota": "Nacido de Dios es el mismo lenguaje de Jesús con Nicodemo; Murray ve que lo implícito allí Juan lo deja sin dudas aquí.", "fuentes": ["mbib1j_01_d#13", "r1_016#7"]},
-    {"ref": "Jn 14:15", "nota": "Si me amáis, guardad mis mandamientos: el amor que conduce a la obediencia.", "fuentes": ["kis1j_05_b#4", "mac1j_06_a#9", "r1_010#23"]},
-    {"ref": "Jn 16:33", "nota": "Jesús usa el mismo verbo vencer para su propia victoria sobre el mundo, de la que participan los suyos.", "fuentes": ["mac1j_05_b#21", "kis1j_05_b#8"]},
-    {"ref": "Ap 2:7", "nota": "De las veces que aparece vencer en el NT, la gran mayoría son de Juan; cada una de las siete cartas de Apocalipsis cierra con una promesa al que venciere (Ap 2:7, 11, 17, 26; 3:5, 12, 21).", "fuentes": ["mbib1j_01_d#12", "kis1j_05_b#9"]},
-    {"ref": "Ro 8:37", "nota": "Más que vencedores: Pablo usa un compuesto que habla de una victoria total.", "fuentes": ["mac1j_05_b#21"]},
-    {"ref": "Gá 5:6", "nota": "La fe que obra por el amor: el resumen de la fe y el amor que vencen.", "fuentes": ["bea1j_02_b#11"]}
+    {
+      "ref": "Jn 3:3-8",
+      "nota": "Nacido de Dios es el mismo lenguaje de Jesús con Nicodemo; Murray ve que lo implícito allí Juan lo deja sin dudas aquí.",
+      "fuentes": [
+        "mbib1j_01_d#13",
+        "r1_016#7"
+      ]
+    },
+    {
+      "ref": "Jn 16:33",
+      "nota": "Jesús usa el mismo verbo vencer para su propia victoria sobre el mundo, de la que participan los suyos.",
+      "fuentes": [
+        "mac1j_05_b#21",
+        "kis1j_05_b#8"
+      ]
+    },
+    {
+      "ref": "Ap 2:7",
+      "nota": "De las veces que aparece vencer en el NT, la gran mayoría son de Juan; cada una de las siete cartas de Apocalipsis cierra con una promesa al que venciere (Ap 2:7, 11, 17, 26; 3:5, 12, 21).",
+      "fuentes": [
+        "mbib1j_01_d#12",
+        "kis1j_05_b#9"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Si alguno de los dos duda de ser hijo de Dios, Juan no los manda a buscar una experiencia extraordinaria sino a mirar hacia afuera: ¿confían en Jesús como el Cristo y el Hijo de Dios? Esa fe, aunque sea débil, es la evidencia del nuevo nacimiento.", "fuentes": ["r1_016#7", "kis1j_05_b#11", "mbib1j_01_d#13"]},
-    {"texto": "Cuando un mandamiento les pese, no lo resuelvan solo con más fuerza de voluntad: llévenlo a la relación con Cristo. La dificultad depende de la fuerza con que se encara, y unidos a él el yugo es fácil.", "fuentes": ["bea1j_02_b#10", "r1_018_a#10"]},
-    {"texto": "Revisen qué del mundo los está ganando: el deseo de lo que no tienen o el orgullo por lo que tienen. La fe vence cuando ve que Jesús es mejor que eso.", "fuentes": ["r1_010#24"]},
-    {"texto": "No se midan por cada batalla perdida. Los creyentes pierden algunas y caen, pero se levantan y vuelven a pelear, porque la victoria final ya está asegurada en Cristo.", "fuentes": ["mac1j_05_b#25", "mhenry_01_c#33"]},
-    {"texto": "El amor a los hermanos de la iglesia y el amor a Dios se controlan mutuamente: si uno de los dos se enfría, el otro también. Cuidar a los hijos de Dios es parte de amar al Padre.", "fuentes": ["kis1j_05_b#4", "mac1j_06_a#7"]}
+    {
+      "texto": "Si alguno de los dos duda de ser hijo de Dios, Juan no los manda a buscar una experiencia extraordinaria sino a mirar hacia afuera: ¿confían en Jesús como el Cristo y el Hijo de Dios? Esa fe, aunque sea débil, es la evidencia del nuevo nacimiento.",
+      "fuentes": [
+        "r1_016#7",
+        "kis1j_05_b#11",
+        "mbib1j_01_d#13"
+      ]
+    },
+    {
+      "texto": "Cuando un mandamiento les pese, no lo resuelvan solo con más fuerza de voluntad: llévenlo a la relación con Cristo. La dificultad depende de la fuerza con que se encara, y unidos a él el yugo es fácil.",
+      "fuentes": [
+        "bea1j_02_b#10",
+        "r1_018_a#10"
+      ]
+    },
+    {
+      "texto": "Revisen qué del mundo los está ganando: el deseo de lo que no tienen o el orgullo por lo que tienen. La fe vence cuando ve que Jesús es mejor que eso.",
+      "fuentes": [
+        "r1_010#24"
+      ]
+    },
+    {
+      "texto": "No se midan por cada batalla perdida: el creyente cae y se levanta, porque la victoria final ya está asegurada en Cristo.",
+      "fuentes": [
+        "mac1j_05_b#25",
+        "mhenry_01_c#33"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué mandamiento de Dios sentimos hoy como una carga y cuál como un gozo? ¿Qué cambiaría si lo miráramos desde el amor y no desde la obligación?",
@@ -155,12 +558,62 @@
     "Juan dice que amamos a los hijos de Dios cuando amamos a Dios. ¿A qué hermano de la iglesia nos cuesta amar, y cómo puede ayudarnos empezar por el amor a Dios?"
   ],
   "para_orar": "Padre, gracias porque nos hiciste nacer de nuevo y nos diste fe en Jesús, tu Hijo hecho hombre. Que tus mandamientos sean nuestro gozo y no una carga, que amemos a tus hijos porque te amamos a vos, y que en cada batalla nos apoyemos en la victoria que Cristo ya ganó sobre el mundo.",
-  "visuales": ["dg-pruebas-1j", "dg-estructura-1j"],
-  "anexos": ["P3", "T3"],
+  "visuales": [
+    "dg-pruebas-1j",
+    "dg-estructura-1j"
+  ],
+  "anexos": [
+    "P3",
+    "T3"
+  ],
   "profundizar": [
-    {"titulo": "Las promesas al que venciere (Apocalipsis 2 y 3)", "texto": "MacArthur conecta los vencedores de 1 Juan con las promesas de las siete cartas: comer del árbol de la vida (Ap 2:7); no sufrir daño de la segunda muerte (2:11); el maná escondido y la piedrecita blanca, que según él era el pase de entrada que recibían los atletas vencedores (2:17); autoridad sobre las naciones y la estrella de la mañana, que es Cristo mismo (2:26-28; 22:16), lo que él entiende como reinar con Cristo en el milenio; vestiduras blancas y un nombre que no será borrado del libro de la vida (3:5); ser columna en el templo de Dios (3:12) y sentarse con Cristo en su trono (3:21).", "fuentes": ["mac1j_06_a#11", "mac1j_06_a#12", "mac1j_06_a#13", "mac1j_06_a#14", "mac1j_06_a#15"]},
-    {"titulo": "Vencedores: un nombre entre muchos", "texto": "La Biblia llama al pueblo de Dios de muchas maneras: creyentes, hijos de Dios, hijos de luz, hermanos, ovejas, santos, escogidos, herederos, piedras vivas, real sacerdocio, extranjeros y peregrinos. Cada nombre muestra una faceta, como las de un diamante; Juan agrega la de vencedores.", "fuentes": ["mac1j_05_b#20", "mbib1j_01_d#12"]},
-    {"titulo": "Lo que el creyente ya venció", "texto": "MacArthur extiende la victoria a Satanás, vencido por la Palabra (1J 2:13-14) y por la sangre del Cordero (Ap 12:11), aunque siga siendo peligroso (1P 5:8), y a la muerte, que Pablo presenta como un aguijón quitado (1Co 15:54-57).", "fuentes": ["mac1j_05_b#22", "mac1j_05_b#23"]},
-    {"titulo": "Solo en Cristo", "texto": "MacArthur subraya que, si el nacido de Dios es el que cree en Jesús, no hay salvación fuera de él (Jn 14:6; Hch 4:12; 1Ti 2:5-6).", "fuentes": ["mac1j_06_a#1"]}
+    {
+      "titulo": "Héroes comunes de la fe",
+      "texto": "Kistemaker contrasta a los héroes públicos, como David tras vencer a Goliat, con la galería de Hebreos 11: gente común con pruebas como las nuestras, grande por su fe y su fidelidad. Por eso las siete cartas de Apocalipsis terminan hablándole al que venciere, miembros comunes de iglesias locales.",
+      "fuentes": [
+        "kis1j_05_b#9"
+      ]
+    },
+    {
+      "titulo": "De la sencillez a la fórmula",
+      "texto": "Blaney advierte sobre la tendencia de la iglesia a pasar de la sencillez a la complejidad y de la fe interior al mero asentimiento, hasta exigir fórmulas como requisito de salvación; Juan no pide más que una fe personal en Cristo como Hijo de Dios. Al mismo tiempo reconoce que las primeras confesiones del Nuevo Testamento (Ro 10:9; 1Co 15:3-7) eran necesarias contra el error.",
+      "fuentes": [
+        "bea1j_02_b#9"
+      ]
+    },
+    {
+      "titulo": "Las promesas al que venciere (Apocalipsis 2 y 3)",
+      "texto": "MacArthur conecta los vencedores de 1 Juan con las promesas de las siete cartas: comer del árbol de la vida (Ap 2:7); no sufrir daño de la segunda muerte (2:11); el maná escondido y la piedrecita blanca, que según él era el pase de entrada que recibían los atletas vencedores (2:17); autoridad sobre las naciones y la estrella de la mañana, que es Cristo mismo (2:26-28; 22:16), lo que él entiende como reinar con Cristo en el milenio; vestiduras blancas y un nombre que no será borrado del libro de la vida (3:5); ser columna en el templo de Dios (3:12) y sentarse con Cristo en su trono (3:21).",
+      "fuentes": [
+        "mac1j_06_a#11",
+        "mac1j_06_a#12",
+        "mac1j_06_a#13",
+        "mac1j_06_a#14",
+        "mac1j_06_a#15"
+      ]
+    },
+    {
+      "titulo": "Vencedores: un nombre entre muchos",
+      "texto": "La Biblia llama al pueblo de Dios de muchas maneras: creyentes, hijos de Dios, hijos de luz, hermanos, ovejas, santos, escogidos, herederos, piedras vivas, real sacerdocio, extranjeros y peregrinos. Cada nombre muestra una faceta, como las de un diamante; Juan agrega la de vencedores.",
+      "fuentes": [
+        "mac1j_05_b#20",
+        "mbib1j_01_d#12"
+      ]
+    },
+    {
+      "titulo": "Lo que el creyente ya venció",
+      "texto": "MacArthur extiende la victoria a Satanás, vencido por la Palabra (1J 2:13-14) y por la sangre del Cordero (Ap 12:11), aunque siga siendo peligroso (1P 5:8), y a la muerte, que Pablo presenta como un aguijón quitado (1Co 15:54-57).",
+      "fuentes": [
+        "mac1j_05_b#22",
+        "mac1j_05_b#23"
+      ]
+    },
+    {
+      "titulo": "Solo en Cristo",
+      "texto": "MacArthur subraya que, si el nacido de Dios es el que cree en Jesús, no hay salvación fuera de él (Jn 14:6; Hch 4:12; 1Ti 2:5-6).",
+      "fuentes": [
+        "mac1j_06_a#1"
+      ]
+    }
   ]
 }

@@ -4,156 +4,566 @@
   "desde": "1P 5:8",
   "hasta": "1P 5:11",
   "titulo": "Resistan al adversario: el león que ruge y el Dios que afirma",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "En el tramo anterior (1P 5:5-7) Pedro pidió a los jóvenes respeto hacia los ancianos, a todos humildad mutua, y les mandó echar sus ansiedades sobre un Dios que cuida de ellos. Pero confiar en ese cuidado no es dormirse: enseguida viene el llamado a velar.",
-    "ahora": "Estos cuatro versículos cierran la parte formal de la carta. Primero, un enemigo real y una orden doble: estar sobrios y despiertos, y resistirlo firmes en la fe, sabiendo que la iglesia de todo el mundo sufre lo mismo. Después, la gran promesa: el Dios de toda gracia, que los llamó a su gloria, los va a restaurar y afianzar después de un sufrimiento breve. Y termina con una alabanza y un «Amén».",
+    "antes": "En 1P 5:5-7 Pedro pidió humildad mutua y mandó echar las ansiedades sobre un Dios que cuida de ellos. Confiar en ese cuidado no es dormirse: enseguida viene el llamado a velar.",
+    "ahora": "Estos cuatro versículos cierran la parte formal de la carta: un enemigo real, la orden de velar y resistirlo firmes en la fe, la promesa del Dios de toda gracia y una alabanza final.",
     "despues": "Lo que sigue (1P 5:12-14) son los saludos finales: Silvano, la iglesia «en Babilonia» (posiblemente Roma, según McConnell), Marcos, el beso de amor y la paz para los que están en Cristo.",
-    "fuentes": ["ncb1p_01_b#29", "cbmh1p_03#10", "mbib1p_01_c#40", "kis1p_07#14", "cbmh1p_03#11"]
+    "fuentes": [
+      "ncb1p_01_b#29",
+      "cbmh1p_03#10",
+      "mbib1p_01_c#40",
+      "kis1p_07#14",
+      "cbmh1p_03#11"
+    ]
   },
   "versiculo_clave": {
     "ref": "1P 5:10",
     "porque": "Es la respuesta de Dios a todo lo que la carta dijo sobre el sufrimiento: es por poco tiempo, tiene una meta (la gloria eterna en Cristo) y mientras dura Dios mismo trabaja en sus hijos para restaurarlos y dejarlos firmes."
   },
   "panorama": {
-    "texto": "Pedro termina su carta poniendo a sus lectores frente a dos realidades. Una es un enemigo personal, el diablo, que como un león hambriento da vueltas buscando a quién tragarse; detrás de la presión y la persecución que sufren hay alguien que quiere destruir su fe. La otra, mucho más grande, es Dios: el Dios de toda gracia, que los llamó a su gloria y que promete terminar su obra en ellos. Entre esas dos realidades está la tarea del creyente: mente despierta, posición firme en la fe, conciencia de no estar solo, y la mirada puesta en una gloria que hace que el dolor de ahora sea «un poco de tiempo». Así, esta sección reúne actitudes que MacArthur enumera para el cierre de la carta: dominio propio, vigilancia, fortaleza, esperanza y adoración.",
-    "fuentes": ["ncb1p_01_b#29", "mac1p_08_b#20", "mbib1p_01_c#42", "kis1p_07#12"]
+    "texto": "Pedro pone a sus lectores frente a dos realidades. Una es un enemigo personal, el diablo, que como león hambriento busca a quién tragarse; detrás de la presión que sufren hay alguien que quiere destruir su fe. La otra, mucho más grande, es el Dios de toda gracia, que los llamó a su gloria y promete terminar su obra en ellos. Entre las dos está la tarea del creyente: mente despierta, posición firme en la fe, conciencia de no estar solo y la mirada en una gloria que hace del dolor «un poco de tiempo».",
+    "fuentes": [
+      "ncb1p_01_b#29",
+      "mac1p_08_b#20",
+      "mbib1p_01_c#42",
+      "kis1p_07#12"
+    ]
   },
   "secciones": [
     {
       "rango": "1P 5:8a",
       "titulo": "Sobrios y despiertos",
       "notas": [
-        {"texto": "Pedro acaba de decir que Dios cuida de ellos (v. 7), y sin embargo enseguida manda «Sed sobrios, y velad». McConnell y la Biblia MacArthur subrayan que confiar en el cuidado soberano de Dios no autoriza a descuidarse: hay un enemigo, y eso obliga a estar alerta. Es la tercera vez que la carta pide sobriedad (1P 1:13; 4:7).", "fuentes": ["cbmh1p_03#10", "mbib1p_01_c#40", "ncb1p_01_b#31"], "tipo": "exegesis"},
-        {"texto": "Kistemaker distingue las dos órdenes. Ser sobrio es tener los sentidos bajo rienda firme: mirar la realidad con la mente clara y controlar el propio ánimo. Velar es estar listo para reaccionar ante lo que viene de afuera. El creyente tiene que cuidarse de fuerzas internas y externas que, en el fondo, vienen del mismo adversario. MacArthur agrega que la sobriedad, más allá del sentido físico de no emborracharse, apunta a ordenar y equilibrar la vida con disciplina de mente y cuerpo, sin dejarse embriagar por los atractivos del mundo.", "fuentes": ["kis1p_07#2", "mac1p_08_b#33"], "tipo": "exegesis"},
-        {"texto": "Matthew Henry lo dice a su manera: sobriedad es gobernar al hombre exterior y al interior con la regla de la templanza; vigilancia es sospechar del peligro constante y esquivar los planes del enemigo. MacArthur, por su parte, recuerda que si Eva fue engañada en un Edén perfecto, mucho más expuestos estamos los pecadores redimidos en un mundo caído; por eso la primera defensa es estar atentos a la influencia del mal en el entorno y en las relaciones, evaluar las tentaciones y huir de ellas.", "fuentes": ["mhenry_01_b#14", "mac1p_09#3"], "tipo": "aplicacion"},
-        {"texto": "Para Pedro estas palabras tenían historia. Varios autores (Kistemaker, Nicholson en el Beacon, el Nuevo Comentario Bíblico) ven aquí el recuerdo de la noche de la traición: Jesús le había advertido que Satanás pidió zarandearlo como a trigo (Lc 22:31-32) y en Getsemaní le pidió velar y orar (Mt 26:41); Pedro se durmió y esa misma noche negó a su Señor. El que escribe «velad» aprendió en carne propia lo que cuesta no hacerlo.", "fuentes": ["kis1p_07#3", "bea1p_02#18", "ncb1p_01_b#31", "r1_007_a#3"], "tipo": "historia"}
+        {
+          "texto": "Pedro acaba de decir que Dios cuida de ellos (v. 7), y enseguida manda «Sed sobrios, y velad». Confiar en el cuidado de Dios no autoriza a descuidarse: hay un enemigo, y eso obliga a estar alerta. Es la tercera vez que la carta pide sobriedad (1P 1:13; 4:7).",
+          "fuentes": [
+            "cbmh1p_03#10",
+            "mbib1p_01_c#40",
+            "ncb1p_01_b#31"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Kistemaker distingue las dos órdenes: ser sobrio es mirar la realidad con la mente clara y controlar el propio ánimo; velar es estar listo para reaccionar ante lo que viene de afuera. MacArthur agrega que la sobriedad, más allá de no emborracharse, es ordenar la vida con disciplina de mente y cuerpo, sin dejarse embriagar por los atractivos del mundo. Y recuerda que si Eva fue engañada en un Edén perfecto, más expuestos estamos nosotros en un mundo caído: la primera defensa es detectar la tentación y huir de ella.",
+          "fuentes": [
+            "kis1p_07#2",
+            "mac1p_08_b#33",
+            "mac1p_09#3"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Para Pedro estas palabras tenían historia. Kistemaker, Nicholson (Comentario Beacon) y el Nuevo Comentario Bíblico ven aquí el recuerdo de la noche de la traición: Jesús le había advertido que Satanás pidió zarandearlo (Lc 22:31-32) y en Getsemaní le pidió velar y orar (Mt 26:41); Pedro se durmió y esa noche negó a su Señor. El que escribe «velad» aprendió en carne propia lo que cuesta no hacerlo.",
+          "fuentes": [
+            "kis1p_07#3",
+            "bea1p_02#18",
+            "ncb1p_01_b#31",
+            "r1_007_a#3"
+          ],
+          "tipo": "historia"
+        }
       ]
     },
     {
       "rango": "1P 5:8b",
       "titulo": "El adversario: quién es y qué busca",
       "notas": [
-        {"texto": "Pedro le da dos nombres. «Adversario» era el término para el oponente en un juicio, la parte contraria en un pleito; probablemente traduce el hebreo «satán» (cf. Job 1:6). «Diablo» significa calumniador. El enemigo acusa a los creyentes delante de Dios (Ap 12:10; Zac 3:1-5) y calumnia a Dios delante de los hombres, como en el Edén (Gn 3:1-5); siembra discordia, enfrenta a unos con otros y socava la fe. Wiersbe agrega que también usa la boca de los inconversos para acusar falsamente a los cristianos, algo que los lectores de Pedro conocían bien (1P 2:12; 3:16).", "fuentes": ["ncb1p_01_b#31", "mbib1p_01_c#40", "kis1p_07#3", "mac1p_08_b#35", "r1_007_a#3", "moodynt_01_c#4"], "tipo": "exegesis"},
-        {"texto": "MacArthur hace notar el pronombre: «vuestro adversario». No es un mal abstracto sino un enemigo personal y declarado de todo el pueblo de Dios (Job 1:6-8; Zac 3:1). Jesús lo llamó tres veces príncipe de este mundo (Jn 12:31; 14:30; 16:11): desde ahí lanza sus ataques. Y aunque se esconde en el mundo espiritual, actúa por medio de personas, por ejemplo los falsos maestros que Pedro y Judas describirán más adelante (2P 2; Jd 3-16).", "fuentes": ["mac1p_08_b#35", "mac1p_08_b#37"], "tipo": "doctrina"},
-        {"texto": "El Nuevo Comentario Bíblico sugiere que Satanás puede verse como el que inspira la persecución que sufrían los lectores, para probar y, si fuera posible, destruir su fe. El Comentario Moody menciona que la imagen podría aludir veladamente a Nerón o al anfiteatro con sus leones, pero que detrás de todo hay un diablo personal. Para Nicholson, Pedro está contrastando dos actitudes: la preocupación ansiosa queda condenada (v. 7) y la vigilancia queda recomendada (v. 8).", "fuentes": ["ncb1p_01_b#31", "moodynt_01_c#4", "bea1p_02#18"], "tipo": "contexto"}
+        {
+          "texto": "Pedro le da dos nombres. «Adversario» era la parte contraria en un juicio; probablemente traduce el hebreo «satán» (Job 1:6). «Diablo» significa calumniador. Acusa a los creyentes delante de Dios (Ap 12:10; Zac 3:1-5) y calumnia a Dios delante de los hombres, como en el Edén (Gn 3:1-5); siembra discordia y socava la fe. Wiersbe agrega que también usa la boca de los inconversos para acusar falsamente a los cristianos, algo que los lectores conocían bien (1P 2:12; 3:16).",
+          "fuentes": [
+            "ncb1p_01_b#31",
+            "mbib1p_01_c#40",
+            "kis1p_07#3",
+            "mac1p_08_b#35",
+            "r1_007_a#3"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "MacArthur hace notar el pronombre: «vuestro adversario». No es un mal abstracto sino un enemigo personal de todo el pueblo de Dios, al que Jesús llamó príncipe de este mundo (Jn 12:31). Se esconde en el mundo espiritual pero actúa por medio de personas, como los falsos maestros de 2P 2 y Jd 3-16. El Nuevo Comentario Bíblico sugiere que está detrás de la persecución que sufrían los lectores, buscando destruir su fe; el Comentario Moody menciona que la imagen quizá aludía a Nerón o al anfiteatro, pero que detrás de todo hay un diablo personal.",
+          "fuentes": [
+            "mac1p_08_b#35",
+            "mac1p_08_b#37",
+            "ncb1p_01_b#31",
+            "moodynt_01_c#4"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 5:8c",
       "titulo": "Como león rugiente",
       "notas": [
-        {"texto": "Kistemaker señala que solo Pedro, en toda la Escritura, describe a Satanás como un león rugiente. La imagen viene de los Salmos y los profetas, donde el león que ruge y despedaza pinta la crueldad del cazador sobre su presa (Sal 22:13; 104:21; Ez 22:25). MacArthur agrega que Pedro seguramente sabía de los espectáculos romanos en los que se soltaban leones contra víctimas para divertir al público.", "fuentes": ["kis1p_07#4", "mac1p_08_b#36"], "tipo": "exegesis"},
-        {"texto": "El león «anda alrededor buscando a quien devorar», y la frase recuerda a Job, donde Satanás dice que viene de rodear la tierra (Job 1:7; 2:2). Nicholson, citando a Ellicott, lo describe insaciable, mirando por turno a cada cristiano para ver con cuál tiene más chance. El verbo «devorar» es tragar entero: según MacArthur, la meta no es lastimar sino destruir; Ryrie observa que es el mismo verbo de Hebreos 11:29 para el mar Rojo que se tragó a los egipcios, y deduce que lo que el enemigo quiere es ahogar por completo el testimonio y la utilidad del creyente.", "fuentes": ["ncb1p_01_b#31", "bea1p_02#18", "mac1p_08_b#36", "r1_016#26"], "tipo": "exegesis"},
-        {"texto": "Wiersbe completa la figura con otra: el enemigo viene como serpiente para engañar o como león para devorar; cuando no logra vencer con el rugido, prueba con la seducción. Y Kistemaker equilibra el miedo: sin la revelación de Dios la imagen aterraría, pero el creyente tiene la armadura de Dios (Ef 6:11-18), la oración que Jesús enseñó (Mt 6:13) y la victoria ya ganada por la sangre del Cordero (Ap 12:11). Kistemaker cita el himno de Lutero: al enemigo ya condenado no le es dado dañarnos.", "fuentes": ["r1_007_a#3", "r1_005#9", "kis1p_07#4"], "tipo": "doctrina"}
+        {
+          "texto": "Kistemaker señala que solo Pedro, en toda la Escritura, describe a Satanás como león rugiente. La imagen viene de los Salmos y los profetas, donde el león pinta la crueldad del cazador (Sal 22:13; 104:21; Ez 22:25); MacArthur agrega que Pedro seguramente conocía los espectáculos romanos con leones soltados contra víctimas.",
+          "fuentes": [
+            "kis1p_07#4",
+            "mac1p_08_b#36"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El león «anda alrededor buscando a quien devorar», como Satanás en Job, que viene de rodear la tierra (Job 1:7). «Devorar» es tragar entero: la meta no es lastimar sino destruir (MacArthur). Ryrie observa que es el verbo de Hebreos 11:29 para el mar Rojo que se tragó a los egipcios: lo que el enemigo quiere es ahogar el testimonio y la utilidad del creyente.",
+          "fuentes": [
+            "ncb1p_01_b#31",
+            "mac1p_08_b#36",
+            "r1_016#26",
+            "bea1p_02#18"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Wiersbe completa la figura: el enemigo viene como serpiente para engañar o como león para devorar. Y Kistemaker equilibra el miedo: sin la revelación de Dios la imagen aterraría, pero el creyente tiene la armadura de Dios (Ef 6:11-18), la oración que Jesús enseñó (Mt 6:13) y la victoria ganada por la sangre del Cordero (Ap 12:11).",
+          "fuentes": [
+            "r1_007_a#3",
+            "r1_005#9",
+            "kis1p_07#4"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 5:9a",
       "titulo": "Resistir firmes en la fe",
       "notas": [
-        {"texto": "La respuesta que Pedro manda no es huir ni atacar sino resistir. McConnell observa que no es el mismo verbo del v. 5 (Dios «resiste» a los soberbios) sino uno más defensivo: plantarse en contra, no ceder terreno. Con nuestras fuerzas no podemos pasar a la ofensiva, pero por la fe en Cristo podemos mantenernos de pie. El paralelo con Santiago 4:7 es claro: resistan al diablo y huirá de ustedes. El Nuevo Comentario Bíblico nota la diferencia de método: al diablo se lo resiste, de los deseos de la carne se huye (2Ti 2:22).", "fuentes": ["cbmh1p_03#10", "kis1p_07#6", "ncb1p_01_b#31", "moodynt_01_c#4"], "tipo": "exegesis"},
-        {"texto": "«Firmes» describe algo sólido, inconmovible. MacArthur explica: resistir es tomar posición, y estar firmes es hacer que esa posición sea sólida. El Nuevo Comentario Bíblico agrega que una fe superficial no sirve, porque lo que el diablo quería con la persecución era fabricar apóstatas.", "fuentes": ["kis1p_07#6", "mac1p_09#5", "ncb1p_01_b#31"], "tipo": "exegesis"},
-        {"texto": "¿Qué es «la fe» en la que se está firme? Los autores la entienden de dos maneras: la confianza personal en Dios o el contenido de lo que se cree, la doctrina cristiana (ver Interpretaciones). Las dos lecturas llevan a lo mismo en la práctica: no se resiste con ingenio propio sino apoyados en Dios y en su verdad. La Biblia MacArthur lo resume: cuanto más conoce el creyente la sana doctrina y la obedece, más capacidad tiene de resistir; y como el diablo es mentiroso, la manera segura de enfrentarlo es la obediencia a la verdad, como hizo Jesús en el desierto citando la Escritura (Mt 4).", "fuentes": ["kis1p_07#6", "mac1p_09#6", "mbib1p_01_c#41", "mac1p_09#7", "r1_007_a#3"], "tipo": "doctrina"},
-        {"texto": "Henry usa una imagen: nadie puede pelear parado en un pantano, sin un lugar firme donde apoyar el pie; la fe levanta el alma al terreno sólido de las promesas de Dios. Nicholson agrega que no alcanza con la ortodoxia ni con la sabiduría humana, y que el miedo lleva a la derrota: se vence con confianza completa en Dios como libertador (vv. 6-7) y fidelidad a Cristo (Ap 12:11). Y McConnell remarca que la firmeza se sostiene en grupo: lo que solo es imposible, en el cuerpo de creyentes se logra. Wiersbe usa la imagen de un ejército que resiste unido.", "fuentes": ["mhenry_01_b#14", "bea1p_02#19", "cbmh1p_03#10", "r1_007_a#3"], "tipo": "aplicacion"}
+        {
+          "texto": "La respuesta no es huir ni atacar sino resistir. McConnell observa que no es el verbo del v. 5 sino uno más defensivo: plantarse en contra, no ceder terreno. Con nuestras fuerzas no podemos pasar a la ofensiva, pero por la fe en Cristo podemos mantenernos de pie (cf. Stg 4:7). «Firmes» describe algo sólido, inconmovible; MacArthur lo explica así: resistir es tomar posición, y estar firmes es hacer sólida esa posición. Una fe superficial no sirve, dice el Nuevo Comentario Bíblico, porque el diablo quería fabricar apóstatas con la persecución.",
+          "fuentes": [
+            "cbmh1p_03#10",
+            "kis1p_07#6",
+            "mac1p_09#5",
+            "ncb1p_01_b#31"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«La fe» puede ser la confianza personal en Dios o el contenido de lo que se cree (ver Interpretaciones). En la práctica las dos lecturas llevan a lo mismo: se resiste apoyados en Dios y en su verdad. La Biblia MacArthur lo resume: cuanto más conoce el creyente la sana doctrina y la obedece, más puede resistir; y como el diablo es mentiroso, se lo enfrenta con la verdad, como Jesús en el desierto (Mt 4).",
+          "fuentes": [
+            "kis1p_07#6",
+            "mac1p_09#6",
+            "mbib1p_01_c#41",
+            "mac1p_09#7",
+            "r1_007_a#3"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Henry usa una imagen: nadie puede pelear parado en un pantano; la fe levanta el alma al terreno sólido de las promesas. Nicholson agrega que el miedo lleva a la derrota y se vence con confianza completa en Dios como libertador (vv. 6-7). Y McConnell remarca que la firmeza se sostiene en grupo: lo que solo es imposible, en el cuerpo de creyentes se logra.",
+          "fuentes": [
+            "mhenry_01_b#14",
+            "bea1p_02#19",
+            "cbmh1p_03#10"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 5:9b",
       "titulo": "No están solos: la hermandad que sufre",
       "notas": [
-        {"texto": "Pedro les da un motivo más para resistir: saber que los mismos padecimientos se están cumpliendo en sus hermanos «en todo el mundo». El Nuevo Comentario Bíblico contrasta esa expresión con el grupo de iglesias de Asia Menor a las que va la carta (1P 1:1): su lucha es parte de algo mucho más grande. Kistemaker aclara que «sabiendo» aquí no es saber cómo hacer algo sino pensar en alguien: Pedro les levanta la vista hacia los hermanos de otros lugares, porque la iglesia es una sola en todo el mundo.", "fuentes": ["ncb1p_01_b#31", "kis1p_07#7", "moodynt_01_c#4"], "tipo": "exegesis"},
-        {"texto": "Nicholson ve en esto un remedio contra la autoconmiseración. Si los lectores creían que nadie sufría como ellos, su fe y su amor se iban a apagar, y el enemigo aprovecharía para hacerles dudar de la justicia de Dios. Sus aflicciones no eran señal de que Dios los había olvidado o les había quitado su favor (v. 7); no estaban señalados para un sufrimiento excepcional (Hch 14:22; 1Co 10:13). MacArthur agrega que toda parte de la iglesia ha pasado o pasará por el ataque del enemigo, y que Dios permite esas pruebas para completar su obra en los suyos.", "fuentes": ["bea1p_02#19", "bea1p_02#22", "mac1p_09#8", "mbib1p_01_c#41"], "tipo": "aplicacion"},
-        {"texto": "Kistemaker se detiene en el verbo «se van cumpliendo»: algunas traducciones lo leen como algo que se padece y otras como algo que se lleva a término; unos subrayan la experiencia y otros el cumplimiento del propósito de Dios. Y como Pedro pone sufrimiento y gloria en la misma frase (vv. 9-10), Kistemaker cita a Gärtner: el cristiano no espera el fin del sufrimiento sino su meta.", "fuentes": ["kis1p_07#7"], "tipo": "exegesis"}
+        {
+          "texto": "Otro motivo para resistir: los mismos padecimientos se cumplen en los hermanos «en todo el mundo», expresión que contrasta con el puñado de iglesias de Asia Menor a las que va la carta (1P 1:1). Kistemaker aclara que «sabiendo» aquí es pensar en alguien: Pedro les levanta la vista hacia una iglesia que es una sola en todo el mundo. Y como pone sufrimiento y gloria juntos (vv. 9-10), cita a Gärtner: el cristiano no espera el fin del sufrimiento sino su meta.",
+          "fuentes": [
+            "ncb1p_01_b#31",
+            "kis1p_07#7"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Nicholson ve aquí un remedio contra la autoconmiseración: si creían que nadie sufría como ellos, su fe y su amor se apagarían. Sus aflicciones no eran señal de que Dios los había olvidado (v. 7), ni estaban señalados para un sufrimiento excepcional (Hch 14:22). MacArthur agrega que toda la iglesia pasa o pasará por el ataque del enemigo, y que Dios permite esas pruebas para completar su obra en los suyos.",
+          "fuentes": [
+            "bea1p_02#19",
+            "bea1p_02#22",
+            "mac1p_09#8",
+            "mbib1p_01_c#41"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 5:10",
       "titulo": "El Dios de toda gracia los va a afirmar",
       "notas": [
-        {"texto": "El versículo empieza con un contraste: después del león, Dios. McConnell lo lee como el paso de lo duro del presente a lo glorioso de lo que no termina (2Co 4:16-18). «Dios de toda gracia» aparece solo aquí en el Nuevo Testamento; Kistemaker lo compara con el «Dios de toda consolación» de 2 Corintios 1:3: Dios es la fuente, el dueño y el dador de toda gracia. La carta habló de gracia de punta a punta (1:2, 10, 13; 4:10; 5:5, 12) y Wiersbe llega a decir que la gracia es su tema. Nicholson enumera: hay gracia que salva, que santifica, que sostiene y que da estabilidad, más que suficiente para cada ocasión (2Co 12:9).", "fuentes": ["cbmh1p_03#12", "kis1p_07#10", "r1_007_a#4", "bea1p_02#20", "mac1p_09#10"], "tipo": "doctrina"},
-        {"texto": "Ese Dios «nos llamó a su gloria eterna en Jesucristo». Kistemaker y MacArthur entienden que no es una invitación que se puede aceptar o rechazar, sino el llamado eficaz de Dios, fruto de la elección con la que empezó la carta (1:2); el Comentario Moody también nota que esta mención final del llamamiento recuerda la elección del comienzo. A lo largo de la carta Dios llama a la santidad (1:15), a su luz admirable (2:9), a seguir las pisadas de Cristo (2:21) y, aquí, a la gloria. Nicholson, desde la tradición wesleyana, subraya además la respuesta: los llamados deben recibir y usar fielmente esa gracia (ver Interpretaciones).", "fuentes": ["kis1p_07#11", "mac1p_09#10", "mbib1p_01_c#42", "moodynt_01_c#5", "bea1p_02#21"], "tipo": "doctrina"},
-        {"texto": "La gloria llega «después que hayáis padecido un poco de tiempo». Kistemaker resalta la desproporción: ahora el dolor parece pesado, pero es pequeño y breve frente a una gloria eterna (1:6; Ro 8:18; 2Co 4:17). MacArthur agrega que mientras tanto Dios usa ese sufrimiento para santificarlos, y que no hay por qué temerlo, porque nada separa a los creyentes del amor de Cristo (Ro 8:31-39). La Biblia MacArthur lo dice en una frase: mientras el enemigo ataca, el Señor perfecciona.", "fuentes": ["kis1p_07#12", "mac1p_09#9", "mbib1p_01_c#42"], "tipo": "doctrina"},
-        {"texto": "Y entonces cuatro verbos: «perfeccione, afirme, fortalezca y establezca». Todos los autores los leen como sinónimos que se refuerzan y hablan de solidez. El primero significa arreglar lo roto hasta que quede entero: se usaba para reparar barcos después de una tormenta o una batalla, para remendar redes (Mr 1:19; Mt 4:21) y para componer un hueso quebrado. Afirmar habla de firmeza de posición; Henry lo ve como la cura de nuestra inconstancia natural. Fortalecer apunta a la fuerza donde más débiles somos. Establecer es literalmente poner un cimiento, como la casa fundada sobre la roca (Mt 7:25).", "fuentes": ["kis1p_07#13", "ncb1p_01_b#32", "cbmh1p_03#12", "r1_007_a#4", "mhenry_01_b#15", "mac1p_09#12"], "tipo": "exegesis"},
-        {"texto": "Hay un detalle conmovedor. Kistemaker, el Comentario Moody y McConnell notan que el verbo «afirmar» es el mismo que usó Jesús con Pedro la noche de la traición: confirma a tus hermanos (Lc 22:32). El hombre al que Satanás quiso zarandear, y al que Jesús sostuvo con su oración, ahora está cumpliendo ese encargo: escribe para afirmar a sus hermanos y les promete que Dios mismo los afirmará. Y lo hará «él mismo», en persona.", "fuentes": ["kis1p_07#13", "moodynt_01_c#5", "cbmh1p_03#12", "mac1p_08_b#42"], "tipo": "historia"},
-        {"texto": "McConnell aclara que la promesa no es que Dios los libre de la persecución, sino que les dé poder y victoria en ella (Hch 4:29). Wiersbe lo aplica así: Dios permite el sufrimiento para derramar una gracia que solo reciben los que sienten su necesidad, y a veces la mejor manera de que Dios remiende nuestras redes y nos prepare para servir es atravesar un tiempo difícil.", "fuentes": ["cbmh1p_03#12", "r1_007_a#4"], "tipo": "aplicacion"}
+        {
+          "texto": "Después del león, Dios. «Dios de toda gracia» aparece solo aquí en el Nuevo Testamento; Kistemaker lo compara con el «Dios de toda consolación» de 2Co 1:3: Dios es fuente, dueño y dador de toda gracia. La carta habló de gracia de punta a punta (1:2, 10; 4:10; 5:5, 12), y Nicholson enumera: gracia que salva, que santifica, que sostiene y que estabiliza, suficiente para cada ocasión (2Co 12:9).",
+          "fuentes": [
+            "kis1p_07#10",
+            "mac1p_09#10",
+            "bea1p_02#20",
+            "r1_007_a#4"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Ese Dios «nos llamó a su gloria eterna en Jesucristo». Kistemaker y MacArthur ven aquí el llamado eficaz de Dios, no una simple invitación; el Comentario Moody nota que esta mención final recuerda la elección del comienzo (1:2). Nicholson subraya además la respuesta fiel del llamado (ver Interpretaciones). La gloria llega «después que hayáis padecido un poco de tiempo»: el dolor parece pesado, pero es breve frente a una gloria eterna (Ro 8:18; 2Co 4:17). Como dice la Biblia MacArthur, mientras el enemigo ataca, el Señor perfecciona.",
+          "fuentes": [
+            "kis1p_07#11",
+            "mac1p_09#10",
+            "moodynt_01_c#5",
+            "bea1p_02#21",
+            "kis1p_07#12",
+            "mbib1p_01_c#42"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Y cuatro verbos: «perfeccione, afirme, fortalezca y establezca». Los autores los leen como sinónimos que hablan de solidez. El primero es arreglar lo roto hasta que quede entero: se usaba para reparar barcos tras una tormenta y remendar redes (Mr 1:19), o, como dice McConnell, componer un hueso quebrado. Afirmar es dar firmeza; Henry lo ve como la cura de nuestra inconstancia. Fortalecer apunta a la fuerza donde somos débiles. Establecer es poner un cimiento, como la casa sobre la roca (Mt 7:25).",
+          "fuentes": [
+            "kis1p_07#13",
+            "ncb1p_01_b#32",
+            "cbmh1p_03#12",
+            "mhenry_01_b#15",
+            "mac1p_09#12"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Un detalle conmovedor: el verbo «afirmar» es el mismo que usó Jesús con Pedro la noche de la traición, confirma a tus hermanos (Lc 22:32). El hombre al que Satanás quiso zarandear ahora cumple el encargo, y promete que Dios «mismo» los afirmará. McConnell aclara que la promesa no es librarlos de la persecución sino darles poder en ella; Wiersbe lo aplica: a veces Dios remienda nuestras redes y nos prepara para servir a través del sufrimiento.",
+          "fuentes": [
+            "kis1p_07#13",
+            "moodynt_01_c#5",
+            "cbmh1p_03#12",
+            "r1_007_a#4"
+          ],
+          "tipo": "historia"
+        }
       ]
     },
     {
       "rango": "1P 5:11",
       "titulo": "A él el dominio para siempre",
       "notas": [
-        {"texto": "Pedro no puede seguir sin alabar. La doxología repite en gran parte la de 1P 4:11. La palabra que la RVR1960 traduce «imperio» es «krátos»: fuerza, dominio, la capacidad de Dios de tener todo el universo bajo su control. El Nuevo Comentario Bíblico observa que es de la misma raíz que la «poderosa» mano de Dios del v. 6, y que es justamente ese poder soberano el único que puede salvar al cristiano.", "fuentes": ["kis1p_07#14", "mac1p_09#13", "ncb2p_01_a#1", "cbmh1p_03#13"], "tipo": "exegesis"},
-        {"texto": "La frase griega no tiene verbo, y por eso unas traducciones la leen como deseo («a él sea») y otras como afirmación (suyo es, le pertenece). McConnell hace notar el contraste con los poderes de la época: el dominio del César pasa, el de Dios es «por los siglos de los siglos». Con el «Amén» Pedro cierra la parte formal de la carta; lo que viene son saludos y bendición. MacArthur saca una conclusión práctica: la humildad, la confianza, el dominio propio y la esperanza tienen que ir siempre acompañados de una mente llena de alabanza.", "fuentes": ["kis1p_07#14", "cbmh1p_03#11", "cbmh1p_03#13", "mac1p_09#13"], "tipo": "aplicacion"}
+        {
+          "texto": "Pedro termina alabando, en una doxología parecida a la de 4:11. Lo que la RVR1960 traduce «imperio» es fuerza y dominio: la capacidad de Dios de tener todo bajo su control. McConnell contrasta el dominio del César, que pasa, con el de Dios, «por los siglos de los siglos». Con el «Amén» se cierra la parte formal de la carta. MacArthur saca la conclusión: la humildad, la confianza y la esperanza van siempre con una mente llena de alabanza.",
+          "fuentes": [
+            "kis1p_07#14",
+            "mac1p_09#13",
+            "cbmh1p_03#11",
+            "cbmh1p_03#13"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1P 5:8", "griego": "νήψατε, γρηγορήσατε", "translit": "népsate, gregorésate", "significado": "«Sean sobrios, estén despiertos». Dos imperativos en aoristo que, según Kistemaker, son órdenes claras que miran la acción como un todo. El primero habla de mente clara y dominio propio; el segundo, de permanecer despierto y vigilante.", "fuentes": ["kis1p_07#5", "mac1p_08_b#33", "mac1p_08_b#34"]},
-    {"ref": "1P 5:8", "griego": "ἀντίδικος", "translit": "antídikos", "significado": "Adversario: la parte contraria en un juicio, y por extensión todo enemigo seria y agresivamente hostil. Al lado, διάβολος (diábolos), calumniador.", "fuentes": ["mac1p_08_b#35", "dbmh_02_b#9", "ncb1p_01_b#31"]},
-    {"ref": "1P 5:9", "griego": "στερεοὶ", "translit": "stereoí", "significado": "Firmes, sólidos, inconmovibles. MacArthur recuerda que de esta raíz viene nuestra palabra «estéreo».", "fuentes": ["mac1p_09#5", "kis1p_07#6"]},
-    {"ref": "1P 5:9", "griego": "τὰ αὐτὰ τῶν παθημάτων", "translit": "tà autà tōn pathēmátōn", "significado": "Construcción peculiar que, según Kistemaker (siguiendo a Robertson), apunta a las mismas clases de sufrimiento más que a los mismos sufrimientos exactos.", "fuentes": ["kis1p_07#9", "kis1p_07#7"]},
-    {"ref": "1P 5:10", "griego": "καταρτίσει", "translit": "katartísei", "significado": "Restaurará, perfeccionará: arreglar lo roto hasta que quede íntegro. Se usaba para reparar barcos y remendar redes; Wiersbe lo entiende como equipar para el servicio.", "fuentes": ["kis1p_07#13", "ncb1p_01_b#32", "r1_007_a#4"]},
-    {"ref": "1P 5:11", "griego": "κράτος", "translit": "krátos", "significado": "Fuerza, dominio, poder soberano (la RVR1960 lo traduce «imperio»). Es la raíz de «poderosa» en el v. 6.", "fuentes": ["mac1p_09#13", "ncb2p_01_a#1"]}
+    {
+      "ref": "1P 5:8",
+      "griego": "νήψατε, γρηγορήσατε",
+      "translit": "népsate, gregorésate",
+      "significado": "«Sean sobrios, estén despiertos». Dos imperativos en aoristo que, según Kistemaker, son órdenes claras que miran la acción como un todo. El primero habla de mente clara y dominio propio; el segundo, de permanecer despierto y vigilante.",
+      "fuentes": [
+        "kis1p_07#5",
+        "mac1p_08_b#33",
+        "mac1p_08_b#34"
+      ]
+    },
+    {
+      "ref": "1P 5:8",
+      "griego": "ἀντίδικος",
+      "translit": "antídikos",
+      "significado": "Adversario: la parte contraria en un juicio, y por extensión todo enemigo seria y agresivamente hostil. Al lado, διάβολος (diábolos), calumniador.",
+      "fuentes": [
+        "mac1p_08_b#35",
+        "dbmh_02_b#9",
+        "ncb1p_01_b#31"
+      ]
+    },
+    {
+      "ref": "1P 5:9",
+      "griego": "στερεοὶ",
+      "translit": "stereoí",
+      "significado": "Firmes, sólidos, inconmovibles. MacArthur recuerda que de esta raíz viene nuestra palabra «estéreo».",
+      "fuentes": [
+        "mac1p_09#5",
+        "kis1p_07#6"
+      ]
+    },
+    {
+      "ref": "1P 5:9",
+      "griego": "τὰ αὐτὰ τῶν παθημάτων",
+      "translit": "tà autà tōn pathēmátōn",
+      "significado": "Construcción peculiar que, según Kistemaker (siguiendo a Robertson), apunta a las mismas clases de sufrimiento más que a los mismos sufrimientos exactos.",
+      "fuentes": [
+        "kis1p_07#9",
+        "kis1p_07#7"
+      ]
+    },
+    {
+      "ref": "1P 5:10",
+      "griego": "καταρτίσει",
+      "translit": "katartísei",
+      "significado": "Restaurará, perfeccionará: arreglar lo roto hasta que quede íntegro. Se usaba para reparar barcos y remendar redes; Wiersbe lo entiende como equipar para el servicio.",
+      "fuentes": [
+        "kis1p_07#13",
+        "ncb1p_01_b#32",
+        "r1_007_a#4"
+      ]
+    },
+    {
+      "ref": "1P 5:11",
+      "griego": "κράτος",
+      "translit": "krátos",
+      "significado": "Fuerza, dominio, poder soberano (la RVR1960 lo traduce «imperio»). Es la raíz de «poderosa» en el v. 6.",
+      "fuentes": [
+        "mac1p_09#13",
+        "ncb2p_01_a#1"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El llamado es a la gloria eterna «en Jesucristo». Kistemaker explica que los creyentes fueron escogidos en él y llamados en él, y en él tendrán parte en la gloria. MacArthur agrega en qué consiste esa gloria: ser semejantes a Cristo. Por eso Dios usa, mientras tanto, incluso el sufrimiento que el diablo provoca para moldear a los suyos a la imagen de su Hijo.", "refs": ["Ef 1:4", "Ro 8:30", "1J 3:2", "Fil 3:20-21"], "fuentes": ["kis1p_07#11", "mac1p_09#11"]},
-    {"texto": "Jesús venció al adversario antes que nosotros. McConnell recuerda que también él fue probado (Mt 4), y Wiersbe que resistió las mentiras del diablo con la verdad de la Escritura. El Nuevo Comentario Bíblico y Kistemaker señalan que el camino de la victoria está en Apocalipsis 12:11: la sangre del Cordero.", "refs": ["Mt 4:1-11", "Ap 12:11"], "fuentes": ["cbmh1p_03#11", "r1_007_a#3", "ncb1p_01_b#31", "kis1p_07#4"]},
-    {"texto": "Kistemaker destaca que el león aparece en la Biblia para Satanás, pero también como símbolo de soberanía: la tribu de Judá (Gn 49:9) y Jesucristo, el León de la tribu de Judá (Ap 5:5). Al león que ruge para devorar se le opone el León que venció.", "refs": ["Gn 49:9", "Ap 5:5"], "fuentes": ["kis1p_07#8"]},
-    {"texto": "Owen subraya que Dios no da ninguna gracia sino por medio de Cristo, mediador y cabeza de la iglesia: el «Dios de toda gracia» da toda su gracia en el Hijo.", "refs": ["Jn 1:16"], "fuentes": ["r1_003#11"]}
+    {
+      "texto": "El llamado es a la gloria eterna «en Jesucristo»: escogidos y llamados en él, en él tendrán parte en la gloria (Kistemaker). Esa gloria, dice MacArthur, es ser semejantes a Cristo; por eso Dios usa incluso el sufrimiento que provoca el diablo para moldear a los suyos a la imagen de su Hijo.",
+      "refs": [
+        "Ef 1:4",
+        "Ro 8:30",
+        "1J 3:2",
+        "Fil 3:20-21"
+      ],
+      "fuentes": [
+        "kis1p_07#11",
+        "mac1p_09#11"
+      ]
+    },
+    {
+      "texto": "Jesús venció antes que nosotros: también fue probado (Mt 4) y resistió las mentiras del diablo con la Escritura. El camino de la victoria, señalan el Nuevo Comentario Bíblico y Kistemaker, es la sangre del Cordero (Ap 12:11).",
+      "refs": [
+        "Mt 4:1-11",
+        "Ap 12:11"
+      ],
+      "fuentes": [
+        "cbmh1p_03#11",
+        "r1_007_a#3",
+        "ncb1p_01_b#31",
+        "kis1p_07#4"
+      ]
+    },
+    {
+      "texto": "El león es imagen de Satanás en Pedro, pero Kistemaker recuerda que también simboliza soberanía: Jesucristo es el León de la tribu de Judá (Gn 49:9; Ap 5:5). Al león que ruge para devorar se le opone el León que venció.",
+      "refs": [
+        "Gn 49:9",
+        "Ap 5:5"
+      ],
+      "fuentes": [
+        "kis1p_07#8"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "«Firmes en la fe»: ¿confianza personal o doctrina?",
       "posturas": [
-        {"postura": "Aquí «la fe» es el contenido objetivo de lo creído, la doctrina cristiana que comparte la iglesia universal; MacArthur la relaciona con la fe dada una vez a los santos de Judas 3.", "quien": "Kistemaker; MacArthur", "fuentes": ["kis1p_07#6", "mac1p_09#6"]},
-        {"postura": "Es la confianza positiva y personal en Dios, como Pedro usa la palabra en 1:5, 7 y 9 (postura de Kelly, según la presenta Kistemaker).", "quien": "Kelly (citado por Kistemaker)", "fuentes": ["kis1p_07#6"]},
-        {"postura": "Puede significar las dos cosas: retener la confianza en Cristo y también no ajustar la doctrina por conveniencia para evitarse problemas.", "quien": "McConnell", "fuentes": ["cbmh1p_03#10"]}
+        {
+          "postura": "Es el contenido objetivo de lo creído, la doctrina que comparte la iglesia; MacArthur la vincula con la fe de Jd 3.",
+          "quien": "Kistemaker; MacArthur",
+          "fuentes": [
+            "kis1p_07#6",
+            "mac1p_09#6"
+          ]
+        },
+        {
+          "postura": "Es la confianza personal en Dios, como en 1:5, 7 y 9 (postura de Kelly, según Kistemaker).",
+          "quien": "Kelly (citado por Kistemaker)",
+          "fuentes": [
+            "kis1p_07#6"
+          ]
+        }
       ],
       "nota": "En cualquiera de las lecturas, el creyente no resiste con sus propias fuerzas sino apoyado en Dios y en su verdad."
     },
     {
       "tema": "Los verbos del v. 10: ¿promesa o deseo?",
       "posturas": [
-        {"postura": "Son futuros: una promesa («los restaurará…»), no una oración. Así lo leen el texto griego del día y varias versiones.", "quien": "Nuevo Comentario Bíblico; McConnell; Kistemaker; Comentario Moody", "fuentes": ["ncb1p_01_b#32", "cbmh1p_03#12", "kis1p_07#13", "moodynt_01_c#5"]},
-        {"postura": "Algunos manuscritos los ponen como deseo, y así traduce la RVR1960 («os perfeccione, afirme…»); Henry lo comenta como la oración del apóstol.", "quien": "Matthew Henry (comenta la forma de deseo)", "fuentes": ["mhenry_01_b#15", "cbmh1p_03#12"]}
+        {
+          "postura": "Son futuros: una promesa, no una oración, como trae el texto griego del día.",
+          "quien": "Nuevo Comentario Bíblico; McConnell; Kistemaker; Comentario Moody",
+          "fuentes": [
+            "ncb1p_01_b#32",
+            "cbmh1p_03#12",
+            "kis1p_07#13",
+            "moodynt_01_c#5"
+          ]
+        },
+        {
+          "postura": "Algunos manuscritos los ponen como deseo, y así traduce la RVR1960; Henry los comenta como oración del apóstol.",
+          "quien": "Matthew Henry (comenta la forma de deseo)",
+          "fuentes": [
+            "mhenry_01_b#15",
+            "cbmh1p_03#12"
+          ]
+        }
       ],
-      "nota": "La diferencia es de manuscritos, no de doctrina: sea promesa u oración, el que obra es Dios mismo. Kistemaker además menciona que algunos manuscritos agregan un cuarto verbo (por eso unas versiones traen tres y otras cuatro)."
+      "nota": "Es cuestión de manuscritos, no de doctrina: en los dos casos el que obra es Dios."
     },
     {
       "tema": "El llamado a la gloria y la obra de Dios en el creyente",
       "posturas": [
-        {"postura": "El llamado es eficaz, consecuencia de la elección; como Dios nos llamó a su gloria, podemos confiar en que nos llevará seguros hasta ella (perseverancia de los santos; cf. 1:5; Fil 1:6; Jd 24).", "quien": "Kistemaker; MacArthur; Nuevo Comentario Bíblico", "fuentes": ["kis1p_07#11", "mac1p_09#10", "ncb1p_01_b#32"]},
-        {"postura": "Todo comienza, sigue y termina por gracia, pero los llamados deben responder con obediencia y uso fiel de esa gracia: lo que separa de Cristo destruye la esperanza (Jn 15:5-6). Los cuatro verbos describen el crecimiento y la maduración que siguen a la crisis de la entera santificación.", "quien": "Nicholson, Comentario Beacon (wesleyano de santidad)", "fuentes": ["bea1p_02#21", "bea1p_02#23"]}
+        {
+          "postura": "El llamado es eficaz, fruto de la elección; como Dios nos llamó a su gloria, nos llevará seguros hasta ella (cf. Fil 1:6; Jd 24).",
+          "quien": "Kistemaker; MacArthur; Nuevo Comentario Bíblico",
+          "fuentes": [
+            "kis1p_07#11",
+            "mac1p_09#10",
+            "ncb1p_01_b#32"
+          ]
+        },
+        {
+          "postura": "Todo es por gracia, pero los llamados deben responder con uso fiel de esa gracia (Jn 15:5-6); los cuatro verbos describen la maduración que sigue a la crisis de la entera santificación.",
+          "quien": "Nicholson, Comentario Beacon (wesleyano de santidad)",
+          "fuentes": [
+            "bea1p_02#21",
+            "bea1p_02#23"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que el que llama, sostiene y perfecciona es Dios, y en que la meta es su gloria eterna en Cristo."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Sal 22:13", "nota": "El león que abre la boca y ruge es imagen de los Salmos (también Sal 104:21) y de los profetas (Ez 22:25) para la crueldad del que caza; Pedro la aplica al diablo.", "fuentes": ["kis1p_07#4", "mac1p_08_b#36", "mbib1p_01_c#40"]},
-    {"ref": "Job 1:6-12", "nota": "«Adversario» probablemente traduce el hebreo «satán»; en Job, Satanás acusa al justo ante Dios y viene de rodear la tierra (Job 1:7; 2:2), como el león que «anda alrededor».", "fuentes": ["ncb1p_01_b#31", "kis1p_07#3", "mbib1p_01_c#40"]},
-    {"ref": "Zac 3:1-5", "nota": "El sumo sacerdote Josué, con vestiduras sucias y acusado por Satanás, ilustra al adversario que acusa al creyente ante Dios.", "fuentes": ["kis1p_07#3", "r1_007_a#3"]}
+    {
+      "ref": "Sal 22:13",
+      "nota": "El león que abre la boca y ruge es imagen de los Salmos (también Sal 104:21) y de los profetas (Ez 22:25) para la crueldad del que caza; Pedro la aplica al diablo.",
+      "fuentes": [
+        "kis1p_07#4",
+        "mac1p_08_b#36",
+        "mbib1p_01_c#40"
+      ]
+    },
+    {
+      "ref": "Job 1:6-12",
+      "nota": "«Adversario» probablemente traduce «satán»; en Job, Satanás acusa al justo y viene de rodear la tierra (Job 1:7), como el león que «anda alrededor».",
+      "fuentes": [
+        "ncb1p_01_b#31",
+        "kis1p_07#3",
+        "mbib1p_01_c#40"
+      ]
+    },
+    {
+      "ref": "Zac 3:1-5",
+      "nota": "El sumo sacerdote Josué, con vestiduras sucias y acusado por Satanás, ilustra al adversario que acusa al creyente ante Dios.",
+      "fuentes": [
+        "kis1p_07#3",
+        "r1_007_a#3"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Wiersbe propone cuatro maneras de derrotar al adversario: estar alerta (David bajó la guardia y cayó; Pedro se durmió), resistir como un ejército unido, creer (contrarrestar sus mentiras con la verdad) y recordar que otros cristianos pasan por las mismas pruebas.", "autor": "Warren Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 460", "tipo": "aplicacion", "fuentes": ["r1_007_a#3"]},
-    {"texto": "Comentando Daniel 6, Wiersbe recuerda que Dios puede librar de la boca del león para su gloria, pero no siempre libra del peligro: muchos cristianos dieron la vida en su lugar de deber, con la recompensa de la corona de la vida (Ap 2:10).", "autor": "Warren Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 186", "tipo": "ilustracion", "fuentes": ["r1_005#9"]},
-    {"texto": "Owen enseña que la santidad del evangelio exige un combate que dura toda la vida: resistir al diablo, mortificar el pecado, huir de los deseos carnales y no amar al mundo no son tareas de un día sino deberes continuos mientras estemos en este mundo; por eso pide exhortarse cada día (He 3:12-13).", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 32 y 48", "tipo": "doctrina", "fuentes": ["r1_019#21", "r1_020#3"]},
-    {"texto": "El Diccionario Mundo Hispano recuerda que, hasta el regreso de Jesús, Satanás tienta, pero dentro de los límites que Dios le pone (como en Job); los creyentes pueden vencer la tentación (1Co 10:13), y la tentación misma no es pecado: el pecado está en ceder.", "autor": "Diccionario Bíblico Mundo Hispano", "obra": "Diccionario Bíblico Mundo Hispano, vol. II", "pagina": "PDF 347", "tipo": "doctrina", "fuentes": ["dbmh_02_b#10"]}
+    {
+      "texto": "Wiersbe propone cuatro maneras de derrotar al adversario: estar alerta (David bajó la guardia y cayó; Pedro se durmió), resistir como un ejército unido, creer (contrarrestar sus mentiras con la verdad) y recordar que otros cristianos pasan por las mismas pruebas.",
+      "autor": "Warren Wiersbe",
+      "obra": "Bosquejos expositivos de la Biblia",
+      "pagina": "PDF 460",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r1_007_a#3"
+      ]
+    },
+    {
+      "texto": "Owen enseña que resistir al diablo, mortificar el pecado y no amar al mundo no son tareas de un día sino deberes continuos mientras estemos en este mundo; por eso pide exhortarse cada día (He 3:12-13).",
+      "autor": "John Owen",
+      "obra": "Apostasía del evangelio",
+      "pagina": "PDF 32 y 48",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_019#21",
+        "r1_020#3"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Lc 22:31-32", "nota": "Satanás pidió zarandear a Pedro, Jesús oró por su fe y le encargó confirmar a sus hermanos: el trasfondo personal del «velad» y del «afirme».", "fuentes": ["kis1p_07#3", "kis1p_07#13", "moodynt_01_c#5"]},
-    {"ref": "Stg 4:7", "nota": "Resistan al diablo y huirá: el paralelo más cercano al v. 9.", "fuentes": ["kis1p_07#6", "moodynt_01_c#4", "mac1p_09#5"]},
-    {"ref": "Ef 6:11-18", "nota": "La armadura de Dios para estar firmes contra las asechanzas del diablo; Pablo también habla de resistir y estar firmes.", "fuentes": ["kis1p_07#6", "kis1p_07#4", "bea1p_02#19"]},
-    {"ref": "Ap 12:10-11", "nota": "El acusador de los hermanos vencido por la sangre del Cordero y la palabra del testimonio.", "fuentes": ["bea1p_02#18", "ncb1p_01_b#31", "kis1p_07#4"]},
-    {"ref": "2Co 4:17", "nota": "La leve tribulación momentánea frente al eterno peso de gloria: el mismo contraste que «un poco de tiempo» y «gloria eterna».", "fuentes": ["kis1p_07#12", "bea1p_02#21"]},
-    {"ref": "Fil 1:6", "nota": "El que comenzó la buena obra la perfeccionará: la misma seguridad del v. 10.", "fuentes": ["ncb1p_01_b#32", "mac1p_09#12"]}
+    {
+      "ref": "Lc 22:31-32",
+      "nota": "Satanás pidió zarandear a Pedro, Jesús oró por su fe y le encargó confirmar a sus hermanos: el trasfondo personal del «velad» y del «afirme».",
+      "fuentes": [
+        "kis1p_07#3",
+        "kis1p_07#13",
+        "moodynt_01_c#5"
+      ]
+    },
+    {
+      "ref": "Stg 4:7",
+      "nota": "Resistan al diablo y huirá: el paralelo más cercano al v. 9.",
+      "fuentes": [
+        "kis1p_07#6",
+        "moodynt_01_c#4",
+        "mac1p_09#5"
+      ]
+    },
+    {
+      "ref": "Ef 6:11-18",
+      "nota": "La armadura de Dios para estar firmes contra las asechanzas del diablo; Pablo también habla de resistir y estar firmes.",
+      "fuentes": [
+        "kis1p_07#6",
+        "kis1p_07#4",
+        "bea1p_02#19"
+      ]
+    },
+    {
+      "ref": "Ap 12:10-11",
+      "nota": "El acusador de los hermanos vencido por la sangre del Cordero y la palabra del testimonio.",
+      "fuentes": [
+        "bea1p_02#18",
+        "ncb1p_01_b#31",
+        "kis1p_07#4"
+      ]
+    },
+    {
+      "ref": "2Co 4:17",
+      "nota": "La leve tribulación momentánea frente al eterno peso de gloria: el mismo contraste que «un poco de tiempo» y «gloria eterna».",
+      "fuentes": [
+        "kis1p_07#12",
+        "bea1p_02#21"
+      ]
+    },
+    {
+      "ref": "Fil 1:6",
+      "nota": "El que comenzó la buena obra la perfeccionará: la misma seguridad del v. 10.",
+      "fuentes": [
+        "ncb1p_01_b#32",
+        "mac1p_09#12"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Confiar no es descuidarse. Ustedes pueden echar todas sus ansiedades sobre Dios (v. 7) y, al mismo tiempo, estar despiertos. Vale la pena preguntarse juntos dónde están más expuestos: MacArthur menciona tres frentes de ataque del enemigo, el mundo con sus deseos, el matrimonio y la familia, y la unidad de la iglesia.", "fuentes": ["cbmh1p_03#10", "mbib1p_01_c#40", "mac1p_09#1"]},
-    {"texto": "El matrimonio es terreno de batalla. MacArthur, leyendo 1 Corintios 7:3-5, advierte que el enemigo ataca en lo más íntimo de la relación: cuando un cónyuge se niega al otro, abre la puerta a la tentación. Velar como pareja incluye cuidarse mutuamente, no darle lugar.", "fuentes": ["mac1p_09#2", "mac1p_09#1"]},
-    {"texto": "La firmeza se alimenta de la verdad. No hay fórmulas especiales contra el diablo: lo que lo resiste es conocer la Palabra y obedecerla. MacArthur advierte contra las prácticas de dirigirse al diablo para reprenderlo o «atarlo», porque la Escritura no las manda. Lo que sí está a su alcance es leer, entender y vivir juntos lo que Dios dice.", "fuentes": ["mbib1p_01_c#41", "mac1p_09#4", "mac1p_09#7"]},
-    {"texto": "No están solos. Cuando una prueba les parezca única, recuerden a los hermanos que en otras partes del mundo pasan por lo mismo o por cosas peores. Eso corta la autoconmiseración y, según Nicholson, debería impulsarlos a anunciar las virtudes de quien los llamó (2:9).", "fuentes": ["bea1p_02#19", "bea1p_02#22", "kis1p_07#7"]},
-    {"texto": "Miren el sufrimiento con la medida de Dios: «un poco de tiempo» frente a una gloria eterna, y mientras tanto Dios mismo remendando, afirmando y cimentando. Y terminen como Pedro: la mejor respuesta a todo esto es la alabanza.", "fuentes": ["kis1p_07#12", "mac1p_09#12", "mac1p_09#13"]}
+    {
+      "texto": "Confiar no es descuidarse. Pueden echar sus ansiedades sobre Dios y, a la vez, estar despiertos. MacArthur menciona tres frentes de ataque: los deseos del mundo, el matrimonio y la familia, y la unidad de la iglesia.",
+      "fuentes": [
+        "cbmh1p_03#10",
+        "mbib1p_01_c#40",
+        "mac1p_09#1"
+      ]
+    },
+    {
+      "texto": "El matrimonio es terreno de batalla. MacArthur, leyendo 1Co 7:3-5, advierte que el enemigo ataca en lo más íntimo: cuando un cónyuge se niega al otro, abre la puerta a la tentación. Velar como pareja incluye cuidarse mutuamente.",
+      "fuentes": [
+        "mac1p_09#2",
+        "mac1p_09#1"
+      ]
+    },
+    {
+      "texto": "No hay fórmulas contra el diablo: lo que lo resiste es conocer la Palabra y obedecerla (ver Profundizar sobre «atar» al diablo). Lo que está a su alcance es leer, entender y vivir juntos lo que Dios dice.",
+      "fuentes": [
+        "mbib1p_01_c#41",
+        "mac1p_09#4",
+        "mac1p_09#7"
+      ]
+    },
+    {
+      "texto": "No están solos. Cuando una prueba parezca única, recuerden a los hermanos que en otras partes del mundo pasan por lo mismo. Y midan el sufrimiento con la medida de Dios: «un poco de tiempo» frente a una gloria eterna.",
+      "fuentes": [
+        "bea1p_02#19",
+        "kis1p_07#7",
+        "kis1p_07#12"
+      ]
+    }
   ],
   "para_conversar": [
     "¿En qué momentos nos cuesta más estar «sobrios» y despiertos: cuando estamos cansados, cuando todo va bien, cuando hay tensión entre nosotros? ¿Qué podemos hacer juntos para cuidarnos?",
@@ -161,13 +571,56 @@
     "¿Qué cambia en una prueba saber que es «un poco de tiempo», que otros hermanos sufren lo mismo y que Dios mismo nos va a restaurar y afirmar?"
   ],
   "para_orar": "Dios de toda gracia, gracias porque nos llamaste a tu gloria eterna en Cristo. Danos mente clara y corazón despierto, para resistir firmes en la fe cuando el enemigo ruja o cuando quiera engañarnos. Acordate de nuestros hermanos que sufren en todo el mundo, y mientras dure la prueba restauranos, afirmanos, fortalecenos y ponenos sobre cimiento firme. A vos sea el dominio por los siglos de los siglos. Amén.",
-  "visuales": ["dg-sufrimiento", "dg-estructura-1p"],
-  "anexos": ["T1", "P1"],
+  "visuales": [
+    "dg-sufrimiento",
+    "dg-estructura-1p"
+  ],
+  "anexos": [
+    "T1",
+    "P1"
+  ],
   "profundizar": [
-    {"titulo": "¿Hay que reprender o «atar» al diablo?", "texto": "MacArthur sostiene que la Biblia en ninguna parte manda a los creyentes atacar al diablo con oraciones o fórmulas, ni atarlo. Su argumento: Satanás no está en todas partes; la autoridad sobre los demonios fue dada a los apóstoles (Mt 10:1; Lc 9:1; 2Co 12:12), no a todos los santos; y solo Cristo, por medio de un ángel, ata a Satanás (Ap 20:1-3). La derrota del enemigo ya la logró Cristo, y en los creyentes se hace efectiva por la fe en la verdad y la oración. Es la postura de MacArthur; las demás fuentes del día no tratan el tema, pero todas coinciden en que se lo resiste firmes en la fe.", "fuentes": ["mac1p_09#4", "mbib1p_01_c#41"]},
-    {"titulo": "Satanás en Apocalipsis 12, según MacArthur", "texto": "MacArthur toma Apocalipsis 12 como el pasaje que traza las líneas de la batalla. Lee el dragón como Satanás, la mujer como Israel y el hijo como Cristo, y describe varios blancos del enemigo: Cristo (desde Herodes en Belén hasta la tentación en el desierto y la traición de Judas), Israel (al que, según su lectura de Ap 12:6, Dios preservará en la segunda mitad de una tribulación futura de siete años), los ángeles santos (Miguel y sus ángeles, Ap 12:7-8) y, como cuarto blanco y foco de la advertencia de Pedro, los creyentes (Ap 12:17). Es una lectura propia de MacArthur dentro de su esquema dispensacional; otras escuelas leen Apocalipsis 12 de otra manera.", "fuentes": ["mac1p_08_b#37", "mac1p_08_b#38", "mac1p_08_b#39", "mac1p_08_b#40", "mac1p_08_b#41"]},
-    {"titulo": "Cómo intenta devorar: ataques directos", "texto": "MacArthur enumera casos en que Dios permitió al enemigo atacar directamente: Job y el triunfo de su fe; Pedro, zarandeado hasta negar tres veces a Jesús, pero luego restaurado y usado para fortalecer a otros (Lc 22:31-34; Jn 21:15-22); Pablo y el agente de Satanás que lo abofeteaba (2Co 12:7-10); la persecución en Esmirna (Ap 2:10) y la enseñanza demoníaca en Tiatira (Ap 2:18-24).", "fuentes": ["mac1p_08_b#42"]},
-    {"titulo": "Lo que aguarda al vencedor", "texto": "Nicholson cierra su comentario del v. 10 con una lista que atribuye a Blair: un amor insondable, una vida que no muere, una justicia sin mancha, una paz que no se entiende, un reposo que no se turba, un gozo que no disminuye, una esperanza que no defrauda, una luz sin interrupción y una fuerza que no se debilita. También recuerda que, para él, el sufrimiento produce una cercanía con Dios que no se alcanza de otro modo, ensancha la vida, enseña compasión hacia los que sufren y, sobre todo, muestra el costo de nuestra redención (1:18-19; 2:21-24; 3:18).", "fuentes": ["bea1p_02#21", "bea1p_02#22"]},
-    {"titulo": "Pensar con la mente redimida", "texto": "MacArthur abre su comentario de esta sección insistiendo en que Dios quiere que su pueblo use la mente para conocer su revelación: la comunión y la adoración verdaderas se apoyan en entender la verdad bíblica (Sal 32:8-9; Is 1:18; Hch 17:11). Pero aclara que el pensamiento espiritual no es solo información: incluye las actitudes, convicciones y motivaciones que llevan a practicar la verdad (Ro 8:5-8).", "fuentes": ["mac1p_08_b#18", "mac1p_08_b#19"]}
+    {
+      "titulo": "¿Hay que reprender o «atar» al diablo?",
+      "texto": "MacArthur sostiene que la Biblia en ninguna parte manda a los creyentes atacar al diablo con oraciones o fórmulas, ni atarlo. Su argumento: Satanás no está en todas partes; la autoridad sobre los demonios fue dada a los apóstoles (Mt 10:1; Lc 9:1; 2Co 12:12), no a todos los santos; y solo Cristo, por medio de un ángel, ata a Satanás (Ap 20:1-3). La derrota del enemigo ya la logró Cristo, y en los creyentes se hace efectiva por la fe en la verdad y la oración. Es la postura de MacArthur; las demás fuentes del día no tratan el tema, pero todas coinciden en que se lo resiste firmes en la fe.",
+      "fuentes": [
+        "mac1p_09#4",
+        "mbib1p_01_c#41"
+      ]
+    },
+    {
+      "titulo": "Satanás en Apocalipsis 12, según MacArthur",
+      "texto": "MacArthur toma Apocalipsis 12 como el pasaje que traza las líneas de la batalla. Lee el dragón como Satanás, la mujer como Israel y el hijo como Cristo, y describe varios blancos del enemigo: Cristo (desde Herodes en Belén hasta la tentación en el desierto y la traición de Judas), Israel (al que, según su lectura de Ap 12:6, Dios preservará en la segunda mitad de una tribulación futura de siete años), los ángeles santos (Miguel y sus ángeles, Ap 12:7-8) y, como cuarto blanco y foco de la advertencia de Pedro, los creyentes (Ap 12:17). Es una lectura propia de MacArthur dentro de su esquema dispensacional; otras escuelas leen Apocalipsis 12 de otra manera.",
+      "fuentes": [
+        "mac1p_08_b#37",
+        "mac1p_08_b#38",
+        "mac1p_08_b#39",
+        "mac1p_08_b#40",
+        "mac1p_08_b#41"
+      ]
+    },
+    {
+      "titulo": "Cómo intenta devorar: ataques directos",
+      "texto": "MacArthur enumera casos en que Dios permitió al enemigo atacar directamente: Job y el triunfo de su fe; Pedro, zarandeado hasta negar tres veces a Jesús, pero luego restaurado y usado para fortalecer a otros (Lc 22:31-34; Jn 21:15-22); Pablo y el agente de Satanás que lo abofeteaba (2Co 12:7-10); la persecución en Esmirna (Ap 2:10) y la enseñanza demoníaca en Tiatira (Ap 2:18-24).",
+      "fuentes": [
+        "mac1p_08_b#42"
+      ]
+    },
+    {
+      "titulo": "Lo que aguarda al vencedor",
+      "texto": "Nicholson cierra su comentario del v. 10 con una lista que atribuye a Blair: un amor insondable, una vida que no muere, una justicia sin mancha, una paz que no se entiende, un reposo que no se turba, un gozo que no disminuye, una esperanza que no defrauda, una luz sin interrupción y una fuerza que no se debilita. También recuerda que, para él, el sufrimiento produce una cercanía con Dios que no se alcanza de otro modo, ensancha la vida, enseña compasión hacia los que sufren y, sobre todo, muestra el costo de nuestra redención (1:18-19; 2:21-24; 3:18).",
+      "fuentes": [
+        "bea1p_02#21",
+        "bea1p_02#22"
+      ]
+    },
+    {
+      "titulo": "Pensar con la mente redimida",
+      "texto": "MacArthur abre su comentario de esta sección insistiendo en que Dios quiere que su pueblo use la mente para conocer su revelación: la comunión y la adoración verdaderas se apoyan en entender la verdad bíblica (Sal 32:8-9; Is 1:18; Hch 17:11). Pero aclara que el pensamiento espiritual no es solo información: incluye las actitudes, convicciones y motivaciones que llevan a practicar la verdad (Ro 8:5-8).",
+      "fuentes": [
+        "mac1p_08_b#18",
+        "mac1p_08_b#19"
+      ]
+    }
   ]
 }

@@ -1,0 +1,191 @@
+{
+  "dia": 62,
+  "libro": "Jd",
+  "desde": "Jd 3",
+  "hasta": "Jd 4",
+  "titulo": "Contender ardientemente por la fe",
+  "minutos": {"lectura": 2, "estudio": 25},
+  "contexto": {
+    "antes": "Ayer Judas se presentó como siervo de Jesucristo y hermano de Jacobo, y saludó a los llamados, amados por Dios Padre y guardados para Jesucristo, deseándoles misericordia, paz y amor multiplicados (Jd 1-2). Kistemaker hace notar que el «amados» con que arranca hoy el v. 3 retoma ese marco: amados por Dios en el saludo, amados por el pastor en la exhortación.",
+    "ahora": "En dos versículos Judas cuenta por qué escribe: quería escribir sobre la salvación que todos comparten, pero tuvo que cambiar de plan y llamar a la iglesia a pelear por la fe, porque se habían metido en ella hombres impíos que pervierten la gracia y niegan a Cristo. Deiros resume la escena en tres movimientos (siguiendo a Hiebert): la carta que planeaba (3a), la exhortación que se vio forzado a escribir (3b) y la razón del cambio (4). Es la llave de toda la carta.",
+    "cuando": "MacArthur piensa que Judas pudo escribirse hacia el 68-70 d.C., quizás como secuela de 2 Pedro y tal vez al mismo grupo de cristianos; lo presenta como posibilidad, no como dato seguro (ver el anexo I5).",
+    "despues": "Mañana (Jd 5-7) Judas empieza a probar lo que hoy afirma: Dios ya juzgó a los que se apartaron, con tres ejemplos del Antiguo Testamento: Israel en el desierto, los ángeles que no guardaron su dignidad y Sodoma y Gomorra.",
+    "fuentes": ["kisjd_01_a#27", "deirosjd_01_b#21", "deirosjd_01_b#7", "macjd_01_a#14", "mbibjd_01_a#20", "kisjd_01_a#26"]
+  },
+  "versiculo_clave": {"ref": "Jd 3", "porque": "Es el propósito declarado de la carta: luchar sin pausa por una fe que Dios ya entregó completa y que no se negocia ni se reemplaza."},
+  "panorama": {
+    "texto": "Judas tenía en mente una carta alegre sobre la salvación que todos los creyentes comparten, pero la llegada de falsos maestros a la iglesia le cambió los planes: se sintió obligado a escribir un llamado a las armas. El llamado tiene un objeto preciso, la fe, es decir, el contenido del evangelio que Dios entregó por medio de los apóstoles de una vez para siempre y que no admite agregados. Y tiene un motivo concreto: unos infiltrados que entraron sin hacer ruido, cuyo juicio ya estaba anunciado, que convierten la gracia en permiso para pecar y que niegan a Jesucristo como único Soberano y Señor. Los autores coinciden en que el peligro mayor no venía de afuera sino de adentro, y en que doctrina y conducta van juntas: el error en lo que se cree termina en una vida torcida, y la vida torcida termina retorciendo lo que se cree.",
+    "fuentes": ["deirosjd_01_b#7", "ncbjd_01#10", "mbibjd_01_a#17", "macjd_01_a#13", "nunez2p_03_a#5", "r1_019#16", "kisjd_01_a#26"]
+  },
+  "secciones": [
+    {
+      "rango": "Jd 3a",
+      "titulo": "La carta que Judas no escribió",
+      "notas": [
+        {"texto": "Judas empieza con «Amados». No es una fórmula de transición: muestra el afecto del pastor y, detrás, el amor de Dios en Cristo por los suyos (Rose, siguiendo a Cranfield). MacArthur subraya que ese cariño no es sensiblería sino que nace de una convicción profunda sobre lo que está en juego con la verdad. La misma palabra vuelve en los vv. 17 y 20, y Kistemaker observa que Judas la usa para trazar una línea cuidadosa: a los lectores los llama amados; a los infiltrados, ciertos hombres.", "fuentes": ["beajd_01_a#18", "macjd_01_b#4", "kisjd_01_a#27", "deirosjd_01_b#21"], "tipo": "exegesis"},
+        {"texto": "Judas dice que ponía toda solicitud en escribir sobre «nuestra común salvación». La palabra indica empeño, diligencia y hasta apuro (MacArthur, Deiros). Kistemaker nota un detalle del griego: el verbo «escribir» aparece primero en presente, para la carta que pensaba escribir, y después en aoristo, para la que efectivamente escribió. De aquella primera carta solo conocemos esas pocas palabras, y Kistemaker advierte que no conviene especular sobre su contenido; McGee también reconoce que no sabemos de qué iba a tratar. Deiros, en cambio, lamenta que no la tengamos y piensa que habría sido un tratado más amplio sobre el evangelio.", "fuentes": ["macjd_01_b#4", "deirosjd_01_b#21", "kisjd_01_a#31", "kisjd_01_a#28", "mcgjd_01#12", "deirosjd_01_a#28"], "tipo": "exegesis"},
+        {"texto": "Común quiere decir compartida. El Nuevo Comentario Bíblico ve ahí que Judas se pone en pie de igualdad con sus lectores delante de Dios (cf. Tit 1:4); la Biblia MacArthur sugiere que quizás quería destacar la unidad y la comunión de los creyentes, y que Dios no hace acepción de personas. Kistemaker agrega un contraste que recorre los vv. 3 y 4 (lo toma de Bengel): la salvación que los amados tienen en común frente a la condenación reservada para los impíos, que justamente no participan de ella.", "fuentes": ["ncbjd_01#10", "mbibjd_01_a#16", "kisjd_01_a#28"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "Jd 3b",
+      "titulo": "«Me ha sido necesario»: un cambio de rumbo",
+      "notas": [
+        {"texto": "La palabra que traduce la necesidad (anánkē) habla de algo que aprieta: MacArthur explica que su raíz significa comprimir, y el comentario Mundo Hispano dice que implica a una persona forzada. Judas no cambió de tema por gusto; se sintió obligado, como Pablo cuando dijo que le era impuesta necesidad de predicar (1Co 9:16), y Deiros nota que es la misma expresión. Rose recoge la versión inglesa que lo traduce como «se hizo urgente escribirles de inmediato», y varios autores (McGee, Wiersbe) ven en el cambio la guía del Espíritu Santo.", "fuentes": ["macjd_01_b#4", "cbmhjd_01_a#11", "deirosjd_01_b#21", "beajd_01_a#18", "mcgjd_01#12", "r1_007_b#36", "nunez2p_02_b#35"], "tipo": "exegesis"},
+        {"texto": "Para MacArthur, Judas se sentía como el atalaya de Ezequiel, que no podía mirar en silencio cómo se acercaba el peligro; la falsa enseñanza le pesaba como a Pablo la preocupación por todas las iglesias (2Co 11:28). Y por eso escribe exhortando, es decir, apelando y animando. El Comentario Moody remarca el tono: Judas no exige con dureza, apela con amor.", "fuentes": ["macjd_01_b#4", "moodynt_03_b#6"], "tipo": "exegesis"},
+        {"texto": "Deiros aclara que el segundo proyecto no traiciona al primero: es más específico y urgente, pero sigue siendo una carta sobre la salvación, porque la fe verdadera, como enseña Santiago, se ve en las obras (Stg 2:14-26). Ética y teología no se separan. Y el comentario Mundo Hispano saca una lección para quienes enseñan: la tentación es quedarse en los temas que agradan o en los que todos están de acuerdo, pero hay una obligación de tratar también los temas penosos, como hace Judas.", "fuentes": ["deirosjd_02_a#1", "deirosjd_01_a#28", "cbmhjd_01_a#12"], "tipo": "aplicacion"}
+      ]
+    },
+    {
+      "rango": "Jd 3c",
+      "titulo": "Contender ardientemente: cómo se pelea",
+      "notas": [
+        {"texto": "«Contendáis ardientemente» es una sola palabra en griego, que aparece solo acá en el Nuevo Testamento (Rose). Viene del lenguaje de la competencia atlética (Nuevo Comentario Bíblico) y de ella sale nuestra palabra agonizar (Núñez, MacArthur). La preposición que lleva adelante intensifica el sentido, y el presente indica acción continua (Kistemaker): no es una batalla de un día, sino una tarea permanente. Mombert, citado por Rose, la describe como pelear parado sobre algo que el adversario quiere quitar, para protegerlo y retenerlo. Wiersbe usa la imagen de soldados que defienden una fortaleza, y la Biblia MacArthur la de un soldado al que se le confía un tesoro santo.", "fuentes": ["beajd_01_a#20", "ncbjd_01#10", "nunez2p_03_a#1", "macjd_01_b#5", "kisjd_01_a#31", "r1_007_b#36", "mbibjd_01_a#17"], "tipo": "exegesis"},
+        {"texto": "¿Qué implica en la práctica? El Nuevo Comentario Bíblico y Deiros hablan de dos esfuerzos: uno mental, para comprender, enseñar y defender la Palabra, y otro moral, para vivirla cada día. Kistemaker agrega que combatir supone abnegación para vencer obstáculos y, si hace falta, aceptar el martirio, y que la iglesia pelea propagando el evangelio (cf. 2Ti 4:7). McGee resume que una de las mejores maneras de contender es difundir la Palabra predicándola.", "fuentes": ["ncbjd_01#10", "deirosjd_02_a#10", "kisjd_01_a#30", "mcgjd_01#13"], "tipo": "aplicacion"},
+        {"texto": "Pero los autores insisten con fuerza en el modo. Wesley, citado por Rose, pide contender con humildad, mansedumbre y amor, porque de otro modo la pelea daña la causa y hasta el alma del que pelea; las armas del cristiano no son carnales (2Co 10:3-5). Matthew Henry dice que hay que contender eficazmente, no furiosamente: mentir a favor de la verdad está mal, y castigar en su nombre no es mejor; se pelea como los apóstoles, sufriendo por la verdad, no haciendo sufrir a los demás. McGee lo dice así: se puede contender sin ser contencioso (2Ti 2:24-26), siguiendo la verdad en amor (Ef 4:15); quien no presenta la verdad con amor hace dudar de que esté presentando la verdad.", "fuentes": ["beajd_01_a#20", "mhenry_02#11", "mcgjd_01#13"], "tipo": "aplicacion"}
+      ]
+    },
+    {
+      "rango": "Jd 3d",
+      "titulo": "La fe, una vez dada a los santos",
+      "notas": [
+        {"texto": "La mayoría de los autores entiende «la fe» aquí no como la confianza personal con que creemos, sino como lo que se cree: el contenido del evangelio que predicaron los apóstoles, la doctrina de los apóstoles de Hch 2:42 (Kistemaker, MacArthur, Alford citado por Rose, Deiros con Bauckham). El Nuevo Comentario Bíblico recuerda que ese cuerpo de enseñanza ya se veía en resúmenes como 1Co 15:3-5 o 1Ti 3:16. Kistemaker lo describe como una cadena: Dios entregó su verdad a Cristo, Cristo a los apóstoles y ellos a la iglesia. Hay un matiz sobre si incluye también la vida que la expresa (ver Interpretaciones).", "fuentes": ["kisjd_01_a#29", "macjd_01_b#6", "beajd_01_a#19", "deirosjd_02_a#3", "ncbjd_01#10"], "tipo": "doctrina"},
+        {"texto": "La palabra clave es «una vez» (hápax): algo hecho de tal manera que vale para siempre y no necesita repetirse (Rose, con Thayer). Para el Comentario Moody marca el punto fijo e irrepetible de la revelación de Dios en Cristo; Bengel, citado por Rose, lo leía con urgencia, porque no habrá otra fe. De ahí que, como dicen Núñez y Deiros, la fe no admita innovaciones ni nuevas enseñanzas doctrinales: ya se recibió todo lo necesario para la salvación y la santificación. Pablo hizo lo mismo al transmitir lo que había recibido sin alterarlo (1Co 15:3; Gá 1:8-9).", "fuentes": ["beajd_01_a#20", "moodynt_03_b#6", "nunez2p_02_b#35", "deirosjd_02_a#1", "nunez2p_03_a#1"], "tipo": "doctrina"},
+        {"texto": "La fe fue dada «a los santos»: no a una élite iluminada sino a toda la iglesia, a los apartados para Dios (Rose, Deiros, Biblia MacArthur; cf. 1Co 1:2). Deiros, citando a Arrastía, advierte contra la idea gnóstica de una fe para iniciados. Y Núñez recuerda que defender la fe no se reduce a defender el acto de creer: incluye las grandes doctrinas (la Trinidad, la divinidad de Cristo, la cruz, la resurrección, la segunda venida) y también sus implicaciones prácticas, todo el consejo de Dios (Hch 20:27).", "fuentes": ["beajd_01_a#19", "deirosjd_02_a#2", "mbibjd_01_a#18", "deirosjd_02_a#12", "nunez2p_03_a#2"], "tipo": "doctrina"}
+      ]
+    },
+    {
+      "rango": "Jd 4a",
+      "titulo": "Entraron por la puerta lateral",
+      "notas": [
+        {"texto": "«Porque» une el v. 4 con el 3: esta es la razón del cambio de plan. «Han entrado encubiertamente» es otra palabra única en el Nuevo Testamento (MacArthur). Indica deslizarse en secreto y con mala intención; Barclay, citado por Rose, dice que siempre sugiere una insinuación sutil del mal; Vincent, citado por McGee, la explica como entrar por una puerta lateral. MacArthur cuenta que en el griego común se usaba para el abogado que, con argumentos astutos, se mete en la mente de los jueces y les corrompe el pensamiento. Núñez los compara con termitas: trabajan en los cimientos y el daño aparece después en los pisos de arriba.", "fuentes": ["deirosjd_01_b#21", "macjd_01_b#8", "beajd_01_a#21", "mcgjd_01#15", "nunez2p_03_a#4"], "tipo": "exegesis"},
+        {"texto": "Judas los llama «algunos hombres», en contraste con «amados», y Kistemaker y Deiros ven ahí cierto desprecio. Kistemaker nota que Judas no dice si alguna vez pertenecieron a la comunidad; probablemente eran predicadores itinerantes, idea que también recoge la Biblia MacArthur. MacArthur dice que no hace falta identificarlos con precisión (pudo ser un gnosticismo incipiente o algo parecido a los nicolaítas de Ap 2:6, 15): los lectores sabían de quiénes se hablaba.", "fuentes": ["kisjd_01_a#39", "deirosjd_02_a#4", "kisjd_01_a#34", "mbibjd_01_a#19", "macjd_01_b#8"], "tipo": "exegesis"},
+        {"texto": "Para MacArthur el peligro de adentro es mucho mayor que el de afuera: la persecución suele unir a la iglesia, mientras que el error interno la divide y confunde, y sus víctimas son espirituales y eternas. MacArthur y Mayhue lo ubican en la distinción entre iglesia visible e invisible: no todo el que se asocia con la iglesia es creyente verdadero, como el trigo y la cizaña (Mt 13:24-30).", "fuentes": ["macjd_01_a#13", "macjd_01_b#8", "r1_018_b#9"], "tipo": "doctrina"}
+      ]
+    },
+    {
+      "rango": "Jd 4b",
+      "titulo": "Anunciados desde antes",
+      "notas": [
+        {"texto": "Judas dice que estos hombres estaban «desde antes» señalados «para esta condenación». La palabra significa escribir de antemano (Rose, McGee, Deiros), está en perfecto (algo del pasado que sigue vigente) y lleva el adverbio «hace mucho» (Kistemaker). Lo que todos afirman es que su juicio no es una sorpresa ni una improvisación: estaba anunciado, es seguro, y los infiltrados no pueden torcer los propósitos de Dios. Por eso Deiros dice que los creyentes deben apartarse de ellos, pero sin temerles. A qué escrito se refiere y cómo entender el «destinados» se discute (ver Interpretaciones).", "fuentes": ["beajd_01_a#21", "mcgjd_01#16", "deirosjd_02_a#5", "kisjd_01_a#38", "nunez2p_03_a#5", "mbibjd_01_a#20"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "Jd 4c",
+      "titulo": "Impíos que convierten la gracia en libertinaje y niegan al Señor",
+      "notas": [
+        {"texto": "Primer rasgo: son impíos. Deiros llama a esta palabra la nota clave de la carta, y Rose cuenta que Judas usa esa familia de palabras seis veces. No describe ateos teóricos: Kistemaker aclara que entran a la iglesia reconociendo que Dios existe, y Bauckham (citado por Deiros) habla de una impiedad práctica, un rechazo irreverente de la autoridad moral de Dios. MacArthur lo resume: juegan a la religión sin temor ni amor por Dios.", "fuentes": ["deirosjd_02_a#6", "beajd_01_a#22", "kisjd_01_a#36", "macjd_01_b#10"], "tipo": "exegesis"},
+        {"texto": "Segundo rasgo: convierten la gracia en libertinaje. La palabra (asélgeia) habla de exceso desvergonzado, sin freno, sobre todo en lo sexual (Núñez, MacArthur). Su argumento era que, si la gracia perdona todo, uno puede vivir como quiera (Wiersbe, Núñez); Henry dice que se endurecían justamente con la abundancia de la gracia. Varios autores relacionan esto con ideas gnósticas que despreciaban el cuerpo y concluían que lo que se hacía con él no importaba (Rose, Mundo Hispano, McGee, Moody). La respuesta bíblica es la de Pablo en Ro 6:1-2: la gracia no es permiso para pecar; Núñez dice que Dios la dio para capacitarnos a obedecer, y Rose recuerda que es una gracia costosa.", "fuentes": ["nunez2p_03_a#4", "macjd_01_b#11", "r1_007_b#36", "nunez2p_03_a#3", "mhenry_02#12", "beajd_01_a#22", "cbmhjd_01_a#17", "mcgjd_01#17", "moodynt_03_b#7"], "tipo": "exegesis"},
+        {"texto": "Tercer rasgo: niegan al Señor. Kistemaker hace notar que Judas no describe cómo lo negaban de palabra, sino su conducta, y que el griego sugiere una renuncia constante a su autoridad. Núñez y el Nuevo Comentario Bíblico lo explican con Tit 1:16: profesan conocer a Dios pero con los hechos lo niegan; llamarse cristiano y llevar una vida disipada es una contradicción. Los tres rasgos van juntos, dice Núñez: la mala doctrina lleva a una vida pecaminosa, y quien se corrompe moralmente termina distorsionando la Palabra para justificarse.", "fuentes": ["kisjd_01_a#37", "nunez2p_03_a#5", "ncbjd_01#11", "mcgjd_01#17", "mbibjd_01_a#19"], "tipo": "doctrina"}
+      ]
+    }
+  ],
+  "palabras": [
+    {"ref": "Jd 3", "griego": "ἀγαπητοί", "translit": "agapētoí", "significado": "Amados. Según Rose (con Cranfield) expresa el amor del autor y, detrás, el amor de Dios en Cristo; en Judas se contrapone a «algunos hombres» del v. 4.", "fuentes": ["beajd_01_a#18", "kisjd_01_a#39"]},
+    {"ref": "Jd 3", "griego": "σπουδήν", "translit": "spoudḗn", "significado": "Solicitud, diligencia, empeño; MacArthur agrega el matiz de apremio o velocidad.", "fuentes": ["macjd_01_b#4"]},
+    {"ref": "Jd 3", "griego": "ἀνάγκη", "translit": "anánkē", "significado": "Necesidad que obliga; MacArthur la vincula con una raíz que significa comprimir. Judas se sintió forzado a escribir.", "fuentes": ["nunez2p_02_b#35", "macjd_01_b#4"]},
+    {"ref": "Jd 3", "griego": "ἐπαγωνίζεσθαι", "translit": "epagōnízesthai", "significado": "Contender ardientemente, luchar con agonía por algo que está bajo ataque. Único uso en el Nuevo Testamento; término de certamen atlético; compuesto intensivo en presente, es decir, lucha continua.", "fuentes": ["beajd_01_a#20", "ncbjd_01#10", "kisjd_01_a#31", "macjd_01_b#5", "nunez2p_03_a#1"]},
+    {"ref": "Jd 3", "griego": "ἅπαξ", "translit": "hápax", "significado": "Una vez para siempre: hecho de modo que vale perpetuamente y no se repite. Marca el carácter final e irrepetible de la revelación en Cristo.", "fuentes": ["beajd_01_a#20", "macjd_01_b#6", "moodynt_03_b#6", "deirosjd_02_a#1"]},
+    {"ref": "Jd 4", "griego": "παρεισέδυσαν", "translit": "pareisédysan", "significado": "Se infiltraron, entraron a escondidas, como por una puerta lateral; único uso en el Nuevo Testamento.", "fuentes": ["mcgjd_01#15", "beajd_01_a#21", "macjd_01_b#8"]},
+    {"ref": "Jd 4", "griego": "προγεγραμμένοι", "translit": "progegramménoi", "significado": "Escritos o señalados de antemano; participio perfecto: algo anunciado en el pasado que sigue vigente.", "fuentes": ["kisjd_01_a#38", "deirosjd_02_a#5", "macjd_01_b#9"]},
+    {"ref": "Jd 4", "griego": "ἀσεβεῖς", "translit": "asebeîs", "significado": "Impíos, sin reverencia hacia Dios; palabra clave de la carta, que describe una impiedad práctica más que un ateísmo teórico.", "fuentes": ["deirosjd_02_a#6", "macjd_01_b#10", "beajd_01_a#22"]},
+    {"ref": "Jd 4", "griego": "ἀσέλγεια", "translit": "asélgeia", "significado": "Libertinaje: exceso desvergonzado, vicio sin freno, sobre todo en lo sexual (la misma palabra se traduce lascivia en Gá 5:19).", "fuentes": ["nunez2p_03_a#4", "macjd_01_b#11", "cbmhjd_01_a#16"]},
+    {"ref": "Jd 4", "griego": "δεσπότην", "translit": "despótēn", "significado": "Soberano, dueño: en el siglo I, el amo al que pertenecían personas y bienes de su dominio. Va junto a κύριος, Señor.", "fuentes": ["cbmhjd_01_a#18", "macjd_01_b#12", "mbibjd_01_a#22"]}
+  ],
+  "cristo": [
+    {"texto": "Jesucristo es el único Soberano y Señor. Kistemaker y la Biblia MacArthur explican que «Soberano» suele usarse para Dios y aquí se aplica a Jesús, lo cual le atribuye honor divino. Kistemaker cita a Kuyper: no hay un centímetro de la vida del que Cristo no diga que es suyo. El comentario Mundo Hispano lo aplica así: si él es el dueño absoluto de nuestras vidas, la única relación posible con él es la fidelidad.", "refs": ["2P 2:1"], "fuentes": ["kisjd_01_a#37", "mbibjd_01_a#22", "cbmhjd_01_a#18"]},
+    {"texto": "La fe dada una vez es, en el fondo, la revelación de Dios en Cristo: el Comentario Moody y el Nuevo Comentario Bíblico ven en el hápax la finalidad de esa revelación. Deiros, citando a Arrastía, dice que el evangelio es Jesucristo mismo, el lugar donde Dios y el ser humano se encuentran; por eso, distorsionar el evangelio en la vida también es negarlo a él.", "refs": ["He 1:1-2"], "fuentes": ["moodynt_03_b#6", "ncbjd_01#10", "deirosjd_02_a#18"]},
+    {"texto": "2P 2:1 amplía el retrato: niegan al Señor que los rescató (Rose). Y Manton, según Beeke y Jones, enseña que Cristo como juez será terror para quienes abusan de su gracia convirtiéndola en lascivia, y consuelo para quienes creyeron su doctrina y lo amaron.", "refs": ["2P 2:1", "Jn 11:25"], "fuentes": ["beajd_01_a#23", "r1_013#36"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué es «la fe» por la que hay que contender?",
+      "posturas": [
+        {"postura": "Es la fe objetiva: el contenido del evangelio, la enseñanza de los apóstoles, no la confianza personal del creyente.", "quien": "Alford (citado por Rose), Kistemaker, MacArthur, Deiros (con Bauckham)", "fuentes": ["beajd_01_a#19", "kisjd_01_a#29", "macjd_01_b#6", "deirosjd_02_a#3"]},
+        {"postura": "Lo objetivo debe incluir la vida moral que lo expresa: la fe se defiende con la sana doctrina y también con la vida.", "quien": "Robertson (citado con aprobación por Rose)", "fuentes": ["beajd_01_a#19"]},
+        {"postura": "La apelación a una tradición fija sería típica de la época posterior a los apóstoles; Deiros discrepa y, con Bauckham, ve aquí simplemente la verdad del evangelio.", "quien": "Kahn (citado por Deiros)", "fuentes": ["deirosjd_02_a#3"]}
+      ],
+      "nota": "Las posturas no se excluyen del todo: todos los autores del día afirman que la fe tiene un contenido definido y que ese contenido se tiene que notar en la vida."
+    },
+    {
+      "tema": "«Una vez dada»: ¿qué dice sobre una revelación nueva?",
+      "posturas": [
+        {"postura": "La revelación fue dada completa en las Escrituras y cerrada; toda pretensión de revelación o doctrina nueva debe descartarse como falsa.", "quien": "MacArthur y la Biblia MacArthur", "fuentes": ["macjd_01_b#6", "mbibjd_01_a#18"]},
+        {"postura": "No hay lugar para una nueva enseñanza doctrinal, porque ya se recibió la revelación completa para la salvación y la santificación.", "quien": "Núñez; en la misma línea Deiros (la fe excluye toda innovación)", "fuentes": ["nunez2p_02_b#35", "deirosjd_02_a#1"]},
+        {"postura": "Los principios son permanentes e irrevocables, aunque el Espíritu guía a cada generación a aplicarlos de manera adecuada.", "quien": "Bennett (citado por Rose)", "fuentes": ["beajd_01_a#20"]}
+      ],
+      "nota": "Todos coinciden en que el evangelio no se corrige ni se completa; MacArthur saca de ahí además una conclusión más amplia sobre el cierre de la revelación."
+    },
+    {
+      "tema": "«Desde antes destinados para esta condenación»",
+      "posturas": [
+        {"postura": "No significa que fueran predestinados a condenarse, sino que la condenación que atraerían sobre sí estaba escrita desde mucho antes, en el Antiguo Testamento que Judas cita en los vv. 5-15.", "quien": "Robertson (seguido por Rose)", "fuentes": ["beajd_01_a#21"]},
+        {"postura": "Significa descritos de antemano por otros escritores que ya habían advertido de ellos (Hch 20:29-31; 2Ti 3; 2P 2:1).", "quien": "McGee", "fuentes": ["mcgjd_01#16"]},
+        {"postura": "«Hace tiempo» remite a escritos antiguos, probablemente profecías como la de Enoc (vv. 14-15); traducir «recientemente» y ver aquí 2 Pedro es menos probable.", "quien": "Deiros", "fuentes": ["deirosjd_02_a#5"]},
+        {"postura": "Presenta cuatro lecturas (las Escrituras en general, 2P 2-3, la profecía de Enoc, una lista celestial de impíos) y ve mérito en la última.", "quien": "Kistemaker", "fuentes": ["kisjd_01_a#35"]},
+        {"postura": "Dios pronunció hace mucho la condenación de todos los apóstatas; su juicio es inevitable e inalterable, como anunciaron los profetas, Enoc y Pedro.", "quien": "MacArthur y la Biblia MacArthur", "fuentes": ["macjd_01_b#9", "mbibjd_01_a#20"]},
+        {"postura": "Deja abiertas varias opciones: nombres inscritos en los libros celestiales, una referencia a 2 Pedro o la denuncia general del Antiguo Testamento.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncbjd_01#11"]}
+      ],
+      "nota": "Todas las lecturas comparten lo central: el juicio de los falsos maestros está anunciado y es seguro."
+    },
+    {
+      "tema": "«Dios el único soberano, y nuestro Señor Jesucristo»: ¿una persona o dos?",
+      "posturas": [
+        {"postura": "Los mejores manuscritos no tienen la palabra «Dios»; con un solo artículo para Soberano y Señor, ambos títulos se refieren a Jesucristo (como en 2P 2:1).", "quien": "Kistemaker; la Biblia MacArthur; Rose (con Wesley)", "fuentes": ["kisjd_01_a#37", "mbibjd_01_a#22", "beajd_01_a#23"]},
+        {"postura": "Puede traducirse «nuestro único Dueño y nuestro Señor Jesucristo», con dos sujetos, porque Soberano suele referirse al Padre; 2P 2:1 sería una excepción que podría repetirse aquí.", "quien": "Nuevo Comentario Bíblico (deja la cuestión abierta)", "fuentes": ["ncbjd_01#11"]}
+      ],
+      "nota": "La RVR1960 sigue la lectura con «Dios». Sea cual sea la lectura, el pasaje pide reconocer la autoridad de Jesucristo con la vida."
+    },
+    {
+      "tema": "¿Fueron creyentes alguna vez los infiltrados?",
+      "posturas": [
+        {"postura": "Al usar la gracia como licencia para pecar demostraron que nunca habían aceptado la salvación de Cristo.", "quien": "MacArthur", "fuentes": ["macjd_01_b#11"]},
+        {"postura": "Judas no dice si alguna vez pertenecieron a la comunidad cristiana.", "quien": "Kistemaker", "fuentes": ["kisjd_01_a#34"]},
+        {"postura": "La apostasía es ante todo un fracaso moral que empieza en la voluntad y termina en negar al Señor; la duda honesta no es apostasía, pero negar al Señor de forma persistente es un pecado imperdonable.", "quien": "Deiros", "fuentes": ["deirosjd_02_a#15", "deirosjd_02_a#16"]}
+      ],
+      "nota": "Este tema se vincula con la discusión sobre apostasía y seguridad de la salvación (ver el anexo T3)."
+    }
+  ],
+  "antiguo_testamento": [
+    {"ref": "Is 8:20-22", "nota": "MacArthur y la Biblia MacArthur cuentan entre los anuncios de condenación de los apóstatas a profetas como Isaías, Oseas y Sofonías (Os 9:7-9; Sof 3:1-8): sería parte de lo escrito «desde antes».", "fuentes": ["macjd_01_b#9", "mbibjd_01_a#20"]},
+    {"ref": "Ez 3:16-21", "nota": "MacArthur usa la imagen del atalaya que no puede callar ante el peligro para explicar la necesidad que sintió Judas.", "fuentes": ["macjd_01_b#4"]},
+    {"ref": "Dt 4:2", "nota": "La Biblia MacArthur lo relaciona con la fe una vez dada: a la palabra de Dios no se le añade ni se le quita (cf. Pr 30:6; Ap 22:18-19).", "fuentes": ["mbibjd_01_a#18"]}
+  ],
+  "biblioteca": [
+    {"texto": "La doctrina es el fundamento de la santidad y de la adoración: si se descuida o se corrompe la doctrina, se corrompen también las otras dos. Por eso Judas llama a contender por la fe.", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 5", "tipo": "doctrina", "fuentes": ["r1_019#16"]},
+    {"texto": "Entre las defensas contra la apostasía está contender por la fe sin desanimarse por el desprecio del mundo, y dar testimonio no solo con palabras sino con vidas santas y buena conciencia (1P 3:16).", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 52", "tipo": "aplicacion", "fuentes": ["r1_020#1"]},
+    {"texto": "La carta es como una trompeta que, en lugar de sonar para alegrar, llama a la batalla; y muchos creyentes necesitan que se les recuerde siempre el abecé de la verdad.", "autor": "Kœchlin", "obra": "Cada día las Escrituras", "pagina": "PDF 374-375", "tipo": "aplicacion", "fuentes": ["r1_012_b#10"]},
+    {"texto": "Judas habría preferido una carta alegre sobre los gozos de ser cristiano, pero a veces el amor obliga a enfrentar verdades duras.", "autor": "Hinn", "obra": "Dios, la avaricia y el evangelio de la prosperidad", "pagina": "PDF 125", "tipo": "aplicacion", "fuentes": ["r1_003#14"]},
+    {"texto": "La sinceridad no basta: Deiros recuerda la convicción sincera de muchos conquistadores que creían servir a Dios con la violencia, una sinceridad que hoy todos reconocen como equivocada y diabólica.", "autor": "Pablo A. Deiros", "obra": "Comentario a Judas", "pagina": "PDF 162-163", "tipo": "ilustracion", "fuentes": ["deirosjd_02_a#11"]}
+  ],
+  "conexiones": [
+    {"ref": "2P 2:1-3", "nota": "Pedro anunció que vendrían falsos maestros que introducirían encubiertamente herejías y negarían al Señor; Wiersbe ve en Judas a esos mismos maestros, ya activos.", "fuentes": ["r1_007_b#36", "macjd_01_b#8"]},
+    {"ref": "Hch 20:29-31", "nota": "Pablo advirtió a los ancianos de Éfeso que entrarían lobos rapaces y que de entre ellos mismos se levantarían hombres que hablarían cosas perversas.", "fuentes": ["macjd_01_a#13", "mcgjd_01#16"]},
+    {"ref": "Gá 2:4", "nota": "Los falsos hermanos introducidos a escondidas que Pablo enfrentó son un caso paralelo de infiltración.", "fuentes": ["mcgjd_01#15", "kisjd_01_a#34"]},
+    {"ref": "Ro 6:1-2", "nota": "¿Perseveraremos en el pecado para que la gracia abunde? La respuesta de Pablo es la que niegan los infiltrados.", "fuentes": ["r1_007_b#36", "macjd_01_b#11"]},
+    {"ref": "Gá 5:13", "nota": "La libertad cristiana no es ocasión para la carne (cf. 1P 2:16).", "fuentes": ["kisjd_01_a#36", "mcgjd_01#19"]},
+    {"ref": "2Ti 1:13-14", "nota": "Pablo encargó a Timoteo guardar el buen depósito: la misma idea de una verdad recibida que se custodia.", "fuentes": ["macjd_01_b#6"]},
+    {"ref": "Ap 2:1-3:22", "nota": "MacArthur observa que, a fines del siglo I, solo dos de las siete iglesias seguían plenamente fieles; Judas sirve de puerta de entrada al Apocalipsis.", "fuentes": ["macjd_01_a#14"]}
+  ],
+  "para_vivir": [
+    {"texto": "Importa lo que creen. Deiros rechaza la idea de que da igual lo que uno crea si es sincero: una persona puede estar sinceramente equivocada, y lo que se cree gobierna lo que se decide y se hace. Conocer bien la fe no es un lujo para especialistas sino parte de la vida de cualquier creyente.", "fuentes": ["deirosjd_02_a#10"]},
+    {"texto": "Pelear por la verdad sin perder el amor. Si les toca defender la fe frente a alguien, Henry, Wesley y McGee les recuerdan el modo: con firmeza, pero sin furia, sin mentir ni maltratar, dispuestos a sufrir antes que a hacer sufrir.", "fuentes": ["mhenry_02#11", "beajd_01_a#20", "mcgjd_01#13"]},
+    {"texto": "Mirar la vida además de la enseñanza. McGee aconseja examinar no solo lo que enseña un maestro, un programa o un movimiento, sino si Dios se ve en su vida, antes de apoyarlo. El comentario Mundo Hispano recomienda a las iglesias cuidar con amor y atención cómo reciben miembros y maestros.", "fuentes": ["mcgjd_01#18", "cbmhjd_01_a#14"]},
+    {"texto": "No usar la gracia como excusa. La pregunta para ustedes no es solo qué creen sobre la gracia, sino qué hace la gracia en su casa: si los empuja a obedecer o si se volvió una manera de tranquilizar la conciencia. Núñez dice que Dios dio la gracia para empoderarnos a obedecer.", "fuentes": ["nunez2p_03_a#3", "macjd_01_b#11"]}
+  ],
+  "para_conversar": [
+    "Judas tuvo que dejar de lado el tema que quería para tratar uno incómodo. ¿Hay algún tema de la fe que ustedes suelen evitar porque es penoso, y que tal vez necesitan conversar?",
+    "¿Qué diferencia hay entre contender por la fe y ser contencioso? ¿Recuerdan alguna situación en que defendieron algo verdadero de una manera que no reflejó a Cristo, o al revés?",
+    "¿En qué aspectos concretos de su vida en común reconocen a Jesucristo como dueño y Señor, y en cuáles les cuesta más?"
+  ],
+  "para_orar": "Señor, gracias por la salvación que compartimos y por la fe que nos diste completa, de una vez para siempre. Danos firmeza para guardarla y defenderla, y amor para hacerlo como Cristo; líbranos de usar tu gracia como excusa para pecar, y reiná como único Dueño y Señor en nuestra casa. Amén.",
+  "visuales": ["dg-estructura-jd", "dg-2p-judas", "dg-falsos"],
+  "anexos": ["T2", "I5", "T3"],
+  "profundizar": [
+    {"titulo": "Retrato completo de los infiltrados en la carta", "texto": "Deiros reúne lo que Judas dirá de ellos a lo largo de la carta: impíos (vv. 4, 14-15, 18) que pervierten la gracia y niegan a Cristo (v. 4); inmorales que no reconocen autoridad y blasfeman de los seres celestiales (v. 8); rebajados al nivel de los instintos (v. 10); corruptores de las comidas fraternas (v. 12); murmuradores, quejosos y jactanciosos (v. 16); divisionistas que no tienen el Espíritu (v. 19). Están en la iglesia sin ser de la iglesia. Rose, por su parte, resume la advertencia del v. 4 en cuatro puntos: su engaño, su tergiversación de la gracia, su negación del señorío y la obra de Cristo, y su ruina.", "fuentes": ["deirosjd_01_a#13", "beajd_01_a#24"]},
+    {"titulo": "Por qué se habla de «sectas libertinas»", "texto": "Deiros explica que el nombre lo pusieron eruditos modernos. Muchos convertidos venían de vidas muy disolutas y pudieron usar la enseñanza de Pablo sobre la vida guiada por el Espíritu (Gá 5:16; Ro 8:1-14) para justificar su inmoralidad; una excusa que se apoya en el Espíritu es difícil de condenar. Primero fueron individuos aislados; después formaron grupos que pretendían un conocimiento superior y se creían por encima de la ley. Deiros también menciona, citando a Busto Sáiz, que el v. 4 depende de escritos judíos como 1 Enoc y la Ascensión de Moisés.", "fuentes": ["deirosjd_01_b#21", "deirosjd_01_a#15", "deirosjd_02_a#7"]},
+    {"titulo": "Pluralismo y la unicidad de Cristo", "texto": "Deiros aplica el v. 3 a una cultura que dice que no importa qué se crea mientras se crea en algo. Critica el falso pluralismo y el sincretismo que Eugenio Nida llamó cristopaganismo, y recuerda que en la Biblia la religión no es búsqueda humana sino revelación de Dios (He 1:1-2), que Dios tiene una sola palabra, escrita y encarnada en su Hijo (Is 40:8; 1P 1:25), y que el destino final depende de lo que se cree (Jn 3:18). Cita en ese sentido el Pacto de Lausana.", "fuentes": ["deirosjd_02_a#13"]},
+    {"titulo": "La tarea del pastor como atalaya", "texto": "Kistemaker desarrolla desde el v. 3 la tarea pastoral: alimentar con la Palabra, predicar y enseñar, administrar los sacramentos, orar, dirigir la misión, y también aconsejar, exhortar a luchar por la fe, mantener el orden y oponerse a quienes extravían a los creyentes. El comentario Mundo Hispano agrega que quien enseña en nombre de una iglesia tiene una libertad limitada, como un embajador que representa a su gobierno.", "fuentes": ["kisjd_01_a#32", "cbmhjd_01_a#15"]},
+    {"titulo": "Himno: la fe que da valor", "texto": "Kistemaker cierra su comentario del v. 3 con un himno de Federico W. Faber que pide la fe que sostuvo a los padres en el dolor y que da valor para enfrentar el mal y dar buen testimonio con palabras y hechos. Puede servirles para cantar o leer juntos al terminar.", "fuentes": ["kisjd_01_a#33"]}
+  ]
+}

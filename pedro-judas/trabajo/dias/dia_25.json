@@ -1,0 +1,170 @@
+{
+  "dia": 25,
+  "libro": "2P",
+  "desde": "2P 1:1",
+  "hasta": "2P 1:2",
+  "titulo": "Una fe igualmente preciosa: el saludo de 2 Pedro",
+  "minutos": {"lectura": 1, "estudio": 24},
+  "contexto": {
+    "antes": "Ayer cerramos 1 Pedro con los saludos finales. Hoy empieza la segunda carta, que según MacArthur va a los mismos cristianos que recibieron la primera: creyentes dispersos por Ponto, Galacia, Capadocia, Asia y Bitinia, mayormente gentiles con algunos judíos. La Biblia MacArthur apoya esto en que Pedro la llama su segunda carta (2P 3:1).",
+    "ahora": "Son apenas dos versículos, pero densos: quién escribe (un siervo y apóstol), a quién (los que recibieron la misma fe que los apóstoles), sobre qué base (la justicia de nuestro Dios y Salvador Jesucristo) y con qué deseo (gracia y paz multiplicadas por el conocimiento de Dios y de Jesús). MacArthur ve en el saludo el origen de la salvación (v. 1) y su sustancia (v. 2); su suficiencia vendrá en los vv. 3-4.",
+    "donde": "A diferencia de 1 Pedro, el saludo no nombra lugares: a Pedro le interesa lo que los lectores comparten con él, no dónde viven (Kistemaker).",
+    "cuando": "MacArthur cree muy probable que la escribiera en el 67 o 68 d.C., casi un año después de la primera; McGee dice simplemente que fue poco después de 1 Pedro.",
+    "despues": "Mañana (2P 1:3-4) sigue la otra mitad de la apertura: el poder divino ya nos dio todo lo necesario para la vida y la piedad, y las preciosas y grandísimas promesas.",
+    "fuentes": ["mac2p_01_b#5", "mbib2p_01_a#16", "mac2p_01_b#1", "kis2p_01_b#23", "mcg2p_01_a#8"]
+  },
+  "versiculo_clave": {"ref": "2P 1:1", "porque": "En una sola frase Pedro dice que la fe es un regalo recibido, que vale lo mismo en el más nuevo de los creyentes que en un apóstol, y que descansa en la justicia de Jesucristo, a quien llama Dios y Salvador."},
+  "panorama": {
+    "texto": "Pedro escribe su última carta para afirmar a la iglesia frente a maestros que traían un supuesto saber superior, y ya desde el saludo pone los cimientos. La fe no es privilegio de una élite: los lectores la recibieron como asignación de Dios y es tan valiosa como la de los apóstoles. Esa fe se apoya en la justicia de Jesucristo, a quien Pedro llama sin vueltas Dios y Salvador. Y la vida que de ahí brota no se estanca: la gracia y la paz se multiplican a medida que se conoce, personal y verdaderamente, a Dios y a Jesús. Conocer a Cristo es el hilo de toda la carta, que empieza y termina con esa palabra.",
+    "fuentes": ["cbmh2p_01_a#9", "mac2p_01_b#6", "mac2p_01_b#8", "mac2p_01_b#13", "kis2p_01_b#27", "bea2p_01_a#17", "nunez2p_01_a#14"]
+  },
+  "secciones": [
+    {
+      "rango": "2P 1:1a",
+      "titulo": "Simón Pedro: un nombre con historia",
+      "notas": [
+        {"texto": "Los mejores manuscritos griegos traen «Simeón Pedro», combinación que Kistemaker considera única: la forma Simeón, transliteración directa del hebreo, solo vuelve a aplicarse a Pedro en Hch 15:14, en boca de Jacobo en el concilio de Jerusalén. Kistemaker piensa que el escritor prefiere el nombre hebreo porque le es querido, y Roldán sugiere que puede ser un arcaísmo. La Reina-Valera dice «Simón Pedro».", "fuentes": ["kis2p_01_a#3", "cbmh2p_01_a#8", "ncb2p_01_a#17"], "tipo": "exegesis"},
+        {"texto": "Simón era su nombre de nacimiento, muy común en Israel; Jesús le dio el de Pedro, que significa piedra o roca, y Cefas es el equivalente arameo. MacArthur cree que usó los dos nombres para que nadie dudara de quién venía la carta. El Nuevo Comentario Bíblico agrega que juntar ambos nombres, como en momentos solemnes de los Evangelios (Mt 16:16; Lc 5:8; Jn 21:15), podría recordar el cambio que la gracia obró en él; McGee lo dice a su modo: el hombre de la debilidad y el de la fortaleza, ahora la roca.", "fuentes": ["nunez2p_01_a#13", "mac2p_01_b#2", "bea2p_01_a#14", "ncb2p_01_a#17", "mcg2p_01_a#8"], "tipo": "exegesis"},
+        {"texto": "Kistemaker nota un detalle tierno: en la escena en que Jesús restaura a Pedro junto al lago (Jn 21:15-17) lo llama Simón, y evita llamarlo Pedro. El nombre del saludo carga con toda esa historia de caída y restauración.", "fuentes": ["kis2p_01_b#21"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "2P 1:1a",
+      "titulo": "Siervo y apóstol: humildad y autoridad juntas",
+      "notas": [
+        {"texto": "«Siervo» traduce doulos, el esclavo que pertenece por completo a otro. Pablo, Santiago y Judas usan la misma palabra para presentarse, y en el Antiguo Testamento la llevaron Moisés, Josué, David y los profetas; con el tiempo designó a todo creyente. MacArthur recuerda que en la cultura de Pedro llamarse esclavo voluntariamente era rebajarse mucho, porque los esclavos eran despreciados, pero ante Dios era un título honroso.", "fuentes": ["bea2p_01_a#14", "mac2p_01_b#3", "cbmh2p_01_a#8"], "tipo": "exegesis"},
+        {"texto": "Al lado, «apóstol»: enviado oficialmente por Cristo, testigo comisionado del Resucitado, con autoridad para hablar en su nombre. Pedro no se llama «el» apóstol sino «un» apóstol, aunque había sido líder de los doce; se pone a la par de cualquier siervo. Para Núñez el título no busca mostrar superioridad sino respaldar su derecho a escribir, y Kistemaker señala que así Pedro espera que la carta se reciba como palabra apostólica (Lc 10:16).", "fuentes": ["mac2p_01_b#4", "kis2p_01_b#22", "mcg2p_01_a#8", "nunez2p_01_a#14"], "tipo": "exegesis"},
+        {"texto": "La combinación es la clave: como siervo, Pedro está al mismo nivel que cualquier cristiano; como apóstol, tiene un llamado único. MacArthur ve aquí un modelo para todo liderazgo espiritual: la entrega callada del esclavo con la dignidad y autoridad del enviado. El Comentario Moody lo enlaza con la norma de Jesús de que el mayor sea servidor de los demás (Mt 23:11).", "fuentes": ["mbib2p_01_a#15", "mac2p_01_b#4", "moodynt_01_c#22", "ncb2p_01_a#17"], "tipo": "aplicacion"},
+        {"texto": "Que el autor se presente como Pedro, apóstol, tiene peso en la discusión sobre quién escribió la carta: Kistemaker señala que la palabra apóstol afirma que el escrito no carece de autoridad divina y que su autor es portavoz de Jesucristo (ver Interpretaciones).", "fuentes": ["kis2p_01_a#4"], "tipo": "historia"}
+      ]
+    },
+    {
+      "rango": "2P 1:1b",
+      "titulo": "Una fe recibida, no conquistada",
+      "notas": [
+        {"texto": "El verbo que la Reina-Valera traduce «habéis alcanzado» no describe un logro. Es el verbo de echar suertes, el mismo que se usa cuando Judas «tenía parte» en el ministerio (Hch 1:17). En la Biblia las suertes eran un modo de conocer la voluntad de Dios, y por eso MacArthur lo entiende como algo entregado por asignación divina: no se obtiene por esfuerzo ni por mérito, sino porque Dios en su gracia quiso darlo.", "fuentes": ["mac2p_01_b#6", "mbib2p_01_a#16", "ncb2p_01_a#18", "kis2p_01_b#23"], "tipo": "exegesis"},
+        {"texto": "¿Qué es esa «fe»? Para MacArthur y el Nuevo Comentario Bíblico es la capacidad de creer y confiar que Dios da; para McGee, el conjunto de verdades del evangelio que recibieron. Roldán deja abiertas las dos lecturas. En cualquier caso, dice Roldán, no es un saber esotérico para iniciados sino algo para todos los creyentes (ver Interpretaciones).", "fuentes": ["mac2p_01_b#7", "ncb2p_01_a#18", "mcg2p_01_a#9", "cbmh2p_01_a#9"], "tipo": "exegesis"},
+        {"texto": "Núñez subraya el contraste con los falsos maestros que Pedro enfrentará: ellos ofrecían salvación por un conocimiento especial o por obras; Pedro dice que la fe se recibe por la justicia de Cristo, como regalo. Las obras de justicia vienen después, como fruto de la gracia que nos capacita.", "fuentes": ["nunez2p_01_a#14"], "tipo": "doctrina"}
+      ]
+    },
+    {
+      "rango": "2P 1:1b",
+      "titulo": "Igualmente preciosa: no hay cristianos de segunda",
+      "notas": [
+        {"texto": "La expresión «igualmente preciosa» es una sola palabra griega, isótimos, que no vuelve a aparecer en el Nuevo Testamento: «igual» más «honor» o «precio». Se usaba para cosas del mismo rango o valor, y también para extranjeros a quienes una ciudad daba la misma ciudadanía y los mismos derechos que a los nacidos allí.", "fuentes": ["bea2p_01_a#15", "mbib2p_01_a#19", "ncb2p_01_a#18"], "tipo": "exegesis"},
+        {"texto": "Lo que Pedro dice es asombroso: la fe del lector más sencillo vale lo mismo que la de los apóstoles. No hay creyentes de primera y de segunda clase, ni distinciones espirituales, raciales o de género en cuanto a la salvación (Gá 3:28). Zorzoli, en el comentario Mundo Hispano, lo dice así: la fe no depende de títulos ni de posiciones en la obra del Señor.", "fuentes": ["mbib2p_01_a#19", "mac2p_01_b#8", "cbmh2p_01_a#10"], "tipo": "doctrina"},
+        {"texto": "¿Quiénes son «la nuestra»? MacArthur, Fuhrman (Beacon) y la Biblia MacArthur piensan que Pedro, que escribía sobre todo a gentiles, recuerda la lección que aprendió en casa de Cornelio y defendió en Jerusalén: Dios no hizo diferencia entre judíos y gentiles (Hch 11; 15:5-11), y Fuhrman agrega que la enseñó a pesar de un tropiezo breve (Gá 2:11-14). El Nuevo Comentario Bíblico duda que la carta sea solo para gentiles y propone otra lectura: un gesto de humildad, porque el apóstol sigue siendo un pecador que necesita la misma justicia que el recién convertido.", "fuentes": ["mac2p_01_b#11", "bea2p_01_a#16", "mbib2p_01_a#19", "ncb2p_01_a#18"], "tipo": "exegesis"},
+        {"texto": "McGee ve en la palabra «preciosa» una especie de firma de Pedro, que la usa con una frecuencia que casi nadie más tiene en la Biblia; el Comentario Moody también la toma como indicio de continuidad con la primera carta.", "fuentes": ["mcg2p_01_a#8", "moodynt_01_c#22"], "tipo": "historia"}
+      ]
+    },
+    {
+      "rango": "2P 1:1c",
+      "titulo": "Por la justicia de nuestro Dios y Salvador Jesucristo",
+      "notas": [
+        {"texto": "La fe se recibe «por la justicia» de Cristo. Qué significa esa justicia es materia de discusión (ver Interpretaciones): para MacArthur es la justicia perfecta de Cristo que Dios atribuye a los que creen, de modo que la fe para creer y la justicia que satisface a Dios vienen ambas de Él; para Roldán y el Nuevo Comentario Bíblico es sobre todo el carácter justo e imparcial de Dios, que no hace acepción de personas.", "fuentes": ["mac2p_01_b#12", "mbib2p_01_a#17", "cbmh2p_01_a#9", "ncb2p_01_a#19"], "tipo": "doctrina"},
+        {"texto": "Las dos lecturas se tocan en el punto de Pedro: todos reciben una fe del mismo valor porque la misma justicia los alcanza a todos sin distinción. McGee lo ilustra: Cristo no solo resta nuestro pecado sino que suma su justicia; no somos solo criminales perdonados y liberados, sino aceptados en el Amado (Ef 1:6).", "fuentes": ["mbib2p_01_a#17", "mcg2p_01_a#10"], "tipo": "doctrina"},
+        {"texto": "Y aquí está una de las afirmaciones más claras de la deidad de Cristo en el Nuevo Testamento. En griego hay un solo artículo delante de «Dios y Salvador», de modo que ambos títulos designan a la misma persona: Jesucristo. Pedro no está hablando del Padre por un lado y de Jesús por otro, sino de Jesús como Dios y como Salvador (ver Palabras y Cristo).", "fuentes": ["mac2p_01_b#13", "mbib2p_01_a#18", "kis2p_01_b#25", "r1_013#16", "ncb2p_01_a#19", "cbmh2p_01_a#9"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "2P 1:2",
+      "titulo": "Gracia y paz multiplicadas por el conocimiento",
+      "notas": [
+        {"texto": "«Gracia y paz» es el saludo de muchas cartas, pero en las dos de Pedro y en Judas va con «sean multiplicadas». Kistemaker explica que el verbo está en pasiva y en optativo: es un deseo de que Dios mismo envíe cada vez más. La gracia es el favor gratuito e inmerecido de Dios hacia pecadores; la paz con Dios es su efecto. Por eso, observa McGee, siempre van en ese orden: primero se conoce la gracia, después se experimenta la paz (Ro 5:1).", "fuentes": ["kis2p_01_b#26", "mac2p_01_b#14", "mcg2p_01_a#11"], "tipo": "exegesis"},
+        {"texto": "McGee se divierte con la «aritmética» de Pedro: es el único que habla de multiplicar gracia y paz. Roldán ve en ese deseo una relación con Dios que es personal y dinámica: la vida cristiana nunca es estática, como también subraya Fuhrman.", "fuentes": ["mcg2p_01_a#11", "cbmh2p_01_a#11", "bea2p_01_a#17"], "tipo": "aplicacion"},
+        {"texto": "¿Cómo se multiplican? «En el conocimiento de Dios y de nuestro Señor Jesús». Pedro usa la forma reforzada de la palabra conocimiento, que habla de un saber pleno, cierto y personal. MacArthur insiste en que ese conocimiento descansa en la verdad revelada en la Palabra y no en sentimientos ni intuiciones; Fuhrman y el Nuevo Comentario Bíblico, en que no es especulación sino relación con una Persona viva. Las dos cosas van juntas: Kistemaker habla de un conocimiento que combina lo intelectual, por la lectura de las Escrituras, con la experiencia personal de andar con Dios.", "fuentes": ["bea2p_01_a#17", "mac2p_01_b#15", "mbib2p_01_a#20", "ncb2p_01_a#20", "kis2p_01_b#28"], "tipo": "exegesis"},
+        {"texto": "Kistemaker considera que esta frase es, en cierto sentido, el tema de toda la carta: Pedro empieza deseando gracia y paz por el conocimiento del Señor, insiste en él en el camino (2P 1:3, 8; 2:20) y termina exhortando a crecer en la gracia y el conocimiento de Jesucristo (2P 3:18). Kistemaker también observa que Pedro distingue a Dios y a Jesús en el v. 2 justo después de llamar Dios a Jesús en el v. 1.", "fuentes": ["kis2p_01_b#27", "kis2p_01_b#12", "mac2p_01_b#16"], "tipo": "estructura"},
+        {"texto": "Roldán saca una consecuencia para hoy: en el Nuevo Testamento no hay oposición entre conocimiento y espiritualidad. Donde una iglesia desprecia el estudio, se aleja de esta perspectiva; por el crecimiento en el conocimiento, el creyente madura.", "fuentes": ["cbmh2p_01_a#11"], "tipo": "aplicacion"}
+      ]
+    }
+  ],
+  "palabras": [
+    {"ref": "2P 1:1", "griego": "δοῦλος", "translit": "doûlos", "significado": "Esclavo, alguien que pertenece por completo a otro. Núñez cree que Pedro no busca tanto mostrar humildad como decir a quién pertenece, y propone como posibilidad que pensara en el esclavo de Éx 21:5-6, que podía quedar libre y elegía quedarse con su amo por amor.", "fuentes": ["bea2p_01_a#14", "nunez2p_01_a#12", "cbmh2p_01_a#8"]},
+    {"ref": "2P 1:1", "griego": "λαχοῦσιν", "translit": "lachoûsin", "significado": "Participio de lagchánō, «obtener por suerte»: los que recibieron algo por asignación de Dios, no por mérito.", "fuentes": ["kis2p_01_b#23", "mac2p_01_b#6", "ncb2p_01_a#18"]},
+    {"ref": "2P 1:1", "griego": "ἰσότιμον", "translit": "isótimon", "significado": "De igual honor, rango o valor; «igualmente preciosa». Única vez en el Nuevo Testamento; se decía de quienes compartían los mismos derechos de ciudadanía.", "fuentes": ["bea2p_01_a#15", "mbib2p_01_a#19", "mac2p_01_b#8"]},
+    {"ref": "2P 1:1", "griego": "τοῦ θεοῦ ἡμῶν καὶ σωτῆρος", "translit": "tou theoû hēmōn kai sōtêros", "significado": "Un solo artículo gobierna «Dios» y «Salvador» unidos por «y»: ambos se refieren a la misma persona. Grudem señala que Pedro usa la misma construcción en «nuestro Señor y Salvador Jesucristo» (2P 1:11; 2:20; 3:18), donde nadie duda que se trata de una sola persona; la coherencia pide leer igual 1:1.", "fuentes": ["kis2p_01_b#25", "r1_013#16", "mac2p_01_b#13"]},
+    {"ref": "2P 1:1", "griego": "σωτήρ", "translit": "sōtḗr", "significado": "Salvador, libertador. Los griegos lo aplicaban a dioses y gobernantes (Ptolomeo I, Nerón); en el Nuevo Testamento es un término estrictamente religioso que nunca se aplica a un mero ser humano. No aparece en 1 Pedro, pero sí cinco veces en 2 Pedro.", "fuentes": ["dbmh_02_b#4", "kis2p_01_b#24"]},
+    {"ref": "2P 1:2", "griego": "πληθυνθείη", "translit": "plēthyntheíē", "significado": "«Sean multiplicadas»: pasiva (Dios es quien multiplica) y optativo (expresa un deseo).", "fuentes": ["kis2p_01_b#26"]},
+    {"ref": "2P 1:2", "griego": "ἐπίγνωσις", "translit": "epígnōsis", "significado": "Conocimiento pleno, cierto y personal: la palabra común para conocimiento (gnōsis) reforzada con el prefijo epi. Wesley, citado por Fuhrman, lo describe como un conocimiento divino y experimental de Dios y de Cristo. McGee lo explica como la diferencia entre saber cosas sobre un presidente que uno vio en la televisión y conocerlo personalmente.", "fuentes": ["bea2p_01_a#17", "mac2p_01_b#15", "mcg2p_01_a#12", "cbmh2p_01_a#11"]}
+  ],
+  "cristo": [
+    {"texto": "Jesucristo es Dios. Pedro, que lo conoció como hombre y comió con Él, lo llama «nuestro Dios y Salvador». MacArthur lo vincula con el sermón de Pentecostés, donde Pedro aplicó a Jesús lo que el Antiguo Testamento decía de Dios. Varios autores ponen este versículo junto a los otros que dicen lo mismo: Jn 20:28; Ro 9:5; Tit 2:13; He 1:8.", "refs": ["Jn 20:28", "Ro 9:5", "Tit 2:13", "He 1:8", "Hch 2:21-36"], "fuentes": ["mac2p_01_b#13", "kis2p_01_b#24", "r1_013#16", "ncb2p_01_a#19", "dbmh_02_b#18"]},
+    {"texto": "Jesucristo es el Salvador. En el Antiguo Testamento ese título se reserva para Dios; en el Nuevo pasa a Jesús y se vuelve su título preeminente. Su mismo nombre significa salvación (Mt 1:21). Kistemaker saca la consecuencia: porque es Dios y Señor, puede librarnos del pecado, hacernos justos y restaurarnos por completo.", "refs": ["Mt 1:21", "Lc 19:10", "1J 4:14"], "fuentes": ["dbmh_02_b#4", "kis2p_01_b#24"]},
+    {"texto": "Jesucristo es también la fuente de nuestra justicia. MacArthur lo explica con la cruz: Cristo cargó con los pecados de los que habían de creer para que su justicia les fuera atribuida a ellos (2Co 5:21; 1P 2:24). Y es Aquel a quien se conoce: el cristianismo, dice McGee, es una Persona viva a la diestra de Dios, a quien no solo se le cree sino que se le conoce.", "refs": ["2Co 5:21", "1P 2:24", "Fil 3:10"], "fuentes": ["mac2p_01_b#12", "mcg2p_01_a#13"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué es la «fe» del v. 1?",
+      "posturas": [
+        {"postura": "La fe subjetiva: el poder o la capacidad de creer que Dios da. El texto no lleva artículo, a diferencia de Jd 3, donde se habla de «la fe» como depósito de doctrina.", "quien": "MacArthur; Nuevo Comentario Bíblico", "fuentes": ["mac2p_01_b#7", "mbib2p_01_a#19", "ncb2p_01_a#18"]},
+        {"postura": "El conjunto de verdades del evangelio que los lectores recibieron; qué hacen con ellas es responsabilidad suya.", "quien": "McGee", "fuentes": ["mcg2p_01_a#9"]},
+        {"postura": "Las dos lecturas son posibles (la fe como acto de creer o, por la semejanza con Jd 3, como depósito de la verdad); en ambos casos es para todos los creyentes.", "quien": "Roldán (Comentario Mundo Hispano)", "fuentes": ["cbmh2p_01_a#9"]}
+      ],
+      "nota": "Detrás está una discusión mayor. MacArthur sostiene que la fe misma es don de Dios (con Ef 2:8-9 y Fil 1:29): sin que el Espíritu despierte al alma, nadie cree, aunque todos son responsables de creer. McGee rechaza lo que llama hipercalvinismo (hay que ser elegido antes de poder creer): acepta en parte la elección pero recalca que los hombres no van a Cristo porque no quieren dejar el pecado, y que Dios no quiere que ninguno perezca (2P 3:9). Todos coinciden en que la fe es recibida por gracia y no ganada."
+    },
+    {
+      "tema": "¿Qué es la «justicia» de nuestro Dios y Salvador?",
+      "posturas": [
+        {"postura": "La justicia de Cristo imputada al creyente: Dios le atribuye la justicia perfecta de su Hijo; por eso todos reciben el mismo don.", "quien": "MacArthur; Biblia MacArthur", "fuentes": ["mac2p_01_b#12", "mbib2p_01_a#17"]},
+        {"postura": "El carácter justo e imparcial de Dios, que da la misma fe sin favoritismos (cf. 1P 1:17); el Nuevo Comentario Bíblico dice que es la lectura de la mayoría de los comentaristas.", "quien": "Roldán; Nuevo Comentario Bíblico", "fuentes": ["cbmh2p_01_a#9", "ncb2p_01_a#19"]},
+        {"postura": "No una justicia meramente teórica o jurídica, sino providencial y amorosa, que abarca todo el plan de redención.", "quien": "Comentario Moody", "fuentes": ["moodynt_01_c#22"]}
+      ],
+      "nota": "Las lecturas no se excluyen del todo: todas explican por qué la fe de los lectores vale lo mismo que la de los apóstoles."
+    },
+    {
+      "tema": "«Nuestro Dios y Salvador Jesucristo»: ¿una persona o dos?",
+      "posturas": [
+        {"postura": "Una sola persona: Jesucristo es llamado Dios y Salvador, por el artículo único y por el paralelo con «Señor y Salvador» en 1:11; 2:20; 3:18.", "quien": "MacArthur, Kistemaker, Grudem, Nuevo Comentario Bíblico, Roldán, Fuhrman (Beacon)", "fuentes": ["mac2p_01_b#13", "kis2p_01_b#25", "r1_013#16", "ncb2p_01_a#19", "cbmh2p_01_a#9", "bea2p_01_a#15"]}
+      ],
+      "nota": "Aquí los autores coinciden. Grudem reconoce que alguna traducción pone en el margen «Dios y el Salvador Jesucristo» como dos personas, posible en la gramática pero improbable; el Nuevo Comentario Bíblico dice lo mismo de una nota marginal de otra versión."
+    },
+    {
+      "tema": "¿Escribió Pedro esta carta?",
+      "posturas": [
+        {"postura": "Sí. Geisler y Howe responden a la objeción del estilo distinto: en 1 Pedro tuvo de secretario a Silvano y aquí parece escribir él solo; las dos cartas tienen propósitos distintos; el autor se dice apóstol, testigo de la transfiguración y autor de una carta anterior; y Orígenes, Eusebio, Jerónimo y Agustín la citan como auténtica.", "quien": "Geisler y Howe, Dificultades bíblicas", "fuentes": ["r1_001#14"]},
+        {"postura": "La forma «Simeón Pedro» habla a favor de la autenticidad: un falsificador que tenía delante 1 Pedro habría copiado el simple «Pedro» y no una forma tan rara.", "quien": "Kistemaker; Nuevo Comentario Bíblico", "fuentes": ["kis2p_01_a#8", "ncb2p_01_a#17"]},
+        {"postura": "Algunos eruditos ven en «Simeón Pedro» la mano de un falsificador; Harnack negaba que Pedro escribiera cualquiera de las dos cartas, aunque pensaba que el autor de 2 Pedro había escrito el principio y el final de 1 Pedro.", "quien": "Citados por Kistemaker y el Comentario Moody (no es la postura de estos autores)", "fuentes": ["kis2p_01_a#8", "moodynt_01_c#22"]}
+      ],
+      "nota": "Todos los autores de la biblioteca que tratan el tema defienden la autoría de Pedro. Geisler y Howe agregan que, si no fuera de Pedro, su testimonio de testigo ocular sería un engaño. El anexo I3 desarrolla la cuestión."
+    }
+  ],
+  "antiguo_testamento": [
+    {"ref": "Is 43:11", "nota": "En Isaías solo Dios es Salvador; que Pedro dé ese título a Jesús junto con el de Dios es parte del argumento sobre su deidad.", "fuentes": ["mac2p_01_b#13", "mbib2p_01_a#18", "dbmh_02_b#4"]},
+    {"ref": "Éx 21:5-6", "nota": "El esclavo que elegía quedarse con su amo por amor: Núñez lo propone, como posibilidad, como trasfondo del «siervo» de Pedro.", "fuentes": ["nunez2p_01_a#12"]},
+    {"ref": "Pr 16:33", "nota": "Las suertes como modo de conocer la voluntad de Dios: trasfondo del verbo «alcanzar» según MacArthur.", "fuentes": ["mac2p_01_b#6"]},
+    {"ref": "Dn 11:32", "nota": "McGee lo cita para mostrar que conocer a Dios lleva a actuar: el pueblo que conoce a su Dios se esfuerza.", "fuentes": ["mcg2p_01_a#13"]}
+  ],
+  "biblioteca": [
+    {"texto": "En el artículo sobre la Trinidad explica que los discípulos discernieron primero que Jesús era el Mesías y luego comprendieron que para serlo debía ser Dios hecho hombre; 2P 1:1 está entre los textos que lo muestran.", "autor": "Diccionario Mundo Hispano", "obra": "Diccionario Bíblico Mundo Hispano, vol. II", "pagina": "PDF 376", "tipo": "doctrina", "fuentes": ["dbmh_02_b#18"]},
+    {"texto": "Primera de las cosas preciosas de Pedro: la fe preciosa cree la Palabra, acepta la salvación, hace la voluntad de Dios, soporta su disciplina (1P 1:6-7) y honra al Hijo.", "autor": "Samuel Vila", "obra": "1000 bosquejos para predicadores", "pagina": "PDF 46 (p. 45)", "tipo": "aplicacion", "fuentes": ["r1_004#21"]},
+    {"texto": "La salvación es personal: no basta saber acerca de Cristo, hay que conocerlo (Jn 17:3); los escritos de maestros ayudan, pero solo la Biblia imparte vida.", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 460-461", "tipo": "aplicacion", "fuentes": ["r1_007_a#7"]},
+    {"texto": "La fe une de verdad a Cristo tanto al creyente débil como al fuerte y purifica el corazón de ambos; en Cristo están la plenitud, el perdón, la paz, la gracia y el conocimiento.", "autor": "Matthew Henry", "obra": "Comentario de Matthew Henry", "pagina": "PDF 1066", "tipo": "doctrina", "fuentes": ["mhenry_01_b#18"]}
+  ],
+  "conexiones": [
+    {"ref": "Hch 15:5-11", "nota": "Pedro en el concilio de Jerusalén: Dios no hizo diferencia entre judíos y gentiles, purificando sus corazones por la fe. Es el trasfondo probable de «igualmente preciosa que la nuestra».", "fuentes": ["mac2p_01_b#11"]},
+    {"ref": "Tit 2:13", "nota": "La misma construcción griega que 2P 1:1: Jesucristo, nuestro gran Dios y Salvador.", "fuentes": ["r1_013#16", "bea2p_01_a#15"]},
+    {"ref": "Gá 3:28", "nota": "En Cristo no hay distinciones que hagan a unos creyentes más valiosos que otros.", "fuentes": ["mac2p_01_b#8", "mbib2p_01_a#19"]},
+    {"ref": "Jn 17:3", "nota": "Conocer a Dios y a Jesucristo es la vida eterna: el conocimiento del v. 2 es relación, no especulación.", "fuentes": ["ncb2p_01_a#20", "r1_007_a#7"]},
+    {"ref": "Fil 3:10", "nota": "El anhelo de Pablo de conocer a Cristo: conocerlo al ser salvos es el punto de partida, y el resto de la vida es buscar conocerlo más.", "fuentes": ["mac2p_01_b#16", "mcg2p_01_a#13"]},
+    {"ref": "Col 1:9-10", "nota": "En Colosenses, frente a un error con pretensión de sabiduría superior, la palabra conocimiento pleno ya es clave (Comentario Moody).", "fuentes": ["moodynt_01_c#23"]}
+  ],
+  "para_vivir": [
+    {"texto": "La fe de ustedes vale lo mismo que la de Pedro. No hace falta un título, un ministerio ni años de iglesia para tener una fe preciosa ante Dios; la recibieron por gracia, y cada uno puede crecer en ella.", "fuentes": ["cbmh2p_01_a#10", "mbib2p_01_a#19"]},
+    {"texto": "Siervo antes que apóstol. Zorzoli advierte que quien dice con orgullo «soy siervo del Señor» se delata por el tono: el poder del enviado no es suyo. En casa y en la iglesia, la autoridad cristiana se ejerce desde el servicio.", "fuentes": ["cbmh2p_01_a#10", "mac2p_01_b#4"]},
+    {"texto": "Barclay, citado por MacArthur, resume lo que es ser esclavo de Dios: pertenecerle, estar a su disposición sin condiciones, obedecerle y servirle sin horario propio. En cada situación, la pregunta del cristiano es qué quiere el Señor que haga.", "fuentes": ["mac2p_01_b#3"]},
+    {"texto": "Conocer a Cristo requiere tiempo con la Palabra. McGee recuerda que fuera de la Escritura se puede descubrir algo del poder de Dios en la naturaleza, pero no conocerlo personalmente; y advierte que se puede confiar en el Señor sin conocerlo de verdad. Este estudio diario es parte de ese crecimiento.", "fuentes": ["mcg2p_01_a#13", "mcg2p_01_a#12", "kis2p_01_b#28"]}
+  ],
+  "para_conversar": [
+    "¿Alguna vez sintieron que la fe de otros (un pastor, un misionero, un hermano con años de iglesia) valía más que la de ustedes? ¿Qué cambia saber que recibieron una fe «igualmente preciosa»?",
+    "Pedro se presenta como siervo y como apóstol. ¿Cómo se combinan humildad y autoridad en las responsabilidades que cada uno tiene en casa, en el trabajo o en la iglesia?",
+    "¿Qué diferencia notan entre saber cosas sobre Jesús y conocerlo? ¿Qué los ha ayudado más a conocerlo personalmente?"
+  ],
+  "para_orar": "Señor Jesús, nuestro Dios y Salvador, gracias por la fe que nos diste sin que la mereciéramos, tan preciosa como la de tus apóstoles. Haznos siervos que te pertenezcan con gusto, y multiplica tu gracia y tu paz en nosotros a medida que te conocemos en tu Palabra.",
+  "visuales": ["dg-estructura-2p", "dg-cronologia"],
+  "anexos": ["I3", "P2"],
+  "profundizar": [
+    {"titulo": "La fe como respirar el oxígeno de la gracia", "texto": "MacArthur ilustra que la fe es don con la imagen de alguien que se ahoga y deja de respirar: no puede hacer nada hasta que otro le inicia la respiración. Así, quien está muerto espiritualmente no puede decidirse a creer si Dios no le da antes el aliento de vida; la fe es el simple acto de respirar el oxígeno que la gracia provee, y por eso somos responsables de ejercerla. Sobre Ef 2:8, sostiene que el «esto» que es don de Dios incluye el acto de creer, y apoya la idea con 2P 1:1, Fil 1:29 y Hch 3:16.", "fuentes": ["mac2p_01_b#10", "mac2p_01_b#9"]},
+    {"titulo": "¿Polémica con el gnosticismo?", "texto": "El Nuevo Comentario Bíblico cree que, frente a desviaciones que exaltaban un conocimiento especulativo por encima de la fe, los escritores ortodoxos subrayaron el conocimiento pleno y personal. El Comentario Moody es más cauto: algunos usan esto para fechar la carta en el siglo II, otros (como Bigg) no ven una polémica antignóstica segura, y el propio comentario propone que ya en tiempos apostólicos había en Asia Menor un modo de pensar parecido, como se ve en Colosenses, con atención a los ángeles, prácticas ascéticas, menosprecio de la divinidad de Cristo y pretensión de una sabiduría superior para iniciados.", "fuentes": ["ncb2p_01_a#20", "moodynt_01_c#23"]},
+    {"titulo": "Los nombres de Simeón", "texto": "Kistemaker repasa otros Simeones de la Biblia: un hijo de Jacob, el anciano que bendijo al niño Jesús en el templo (Lc 2:25-34), un antepasado de Jesús (Lc 3:30) y Simeón Niger de Antioquía (Hch 13:1); en el Nuevo Testamento hay por lo menos nueve Simones. Según él, la forma doble Simón Pedro parece la usada entre cristianos de habla griega, y Juan la usa en diecisiete de sus veintidós menciones del apóstol.", "fuentes": ["kis2p_01_b#21", "kis2p_01_a#3"]}
+  ]
+}

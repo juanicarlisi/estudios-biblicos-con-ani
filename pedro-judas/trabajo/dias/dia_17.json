@@ -4,12 +4,20 @@
   "desde": "1P 3:20",
   "hasta": "1P 3:22",
   "titulo": "El arca, el bautismo y el trono",
-  "minutos": {"lectura": 2, "estudio": 25},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer (1P 3:18-19) Pedro presentó a Cristo, que murió una sola vez, el justo por los injustos, para llevarnos a Dios, y que “fue y predicó” a los espíritus encarcelados; vimos allí las lecturas de ese versículo, uno de los más difíciles del Nuevo Testamento.",
-    "ahora": "Pedro termina el pensamiento: los desobedientes de los días de Noé, la paciencia de Dios, el arca con ocho personas, el bautismo que corresponde a esa historia y Cristo subido al cielo, con todo poder sujeto a él. MacArthur ordena el tramo 3:18-22 como cuatro triunfos de Cristo: cargó el pecado (v. 18), proclamó su victoria (vv. 18-20), salva (vv. 20-21) y reina (v. 22). Hoy tocan los dos últimos. Kistemaker lo divide de forma parecida: muerte y vida, espíritus, bautismo, ascensión.",
+    "ahora": "Pedro termina el pensamiento: Noé, el arca con ocho personas, el bautismo que corresponde a esa historia y Cristo subido al cielo, con todo poder sujeto a él. MacArthur ordena 3:18-22 como cuatro triunfos de Cristo: cargó el pecado, proclamó su victoria, salva y reina; hoy tocan los dos últimos.",
     "despues": "Mañana (1P 4:1-6) Pedro saca la consecuencia práctica de todo esto: ya que Cristo padeció en la carne, los creyentes deben armarse del mismo pensamiento.",
-    "fuentes": ["mac1p_06_b#14", "kis1p_05_a#10", "mbib1p_01_a#15", "moodynt_01_b#21"]
+    "fuentes": [
+      "mac1p_06_b#14",
+      "kis1p_05_a#10",
+      "mbib1p_01_a#15",
+      "moodynt_01_b#21"
+    ]
   },
   "versiculo_clave": {
     "ref": "1P 3:21",
@@ -17,140 +25,490 @@
   },
   "panorama": {
     "texto": "Pedro no cambió de tema: sigue consolando a creyentes que sufren injustamente. Mira atrás, a Noé, una minoría que Dios rescató mientras el mundo perecía bajo el juicio, y de ahí pasa al bautismo, figura de esa misma salvación, para terminar en lo más alto: Jesús, que padeció siendo justo, ahora está a la diestra de Dios y todo poder le está sujeto. Los autores difieren en detalles (quiénes eran los desobedientes, a qué corresponde exactamente el bautismo, cómo traducir la palabra que la RVR1960 vierte «aspiración»), pero coinciden en lo central: lo que salva no es el agua sino Cristo muerto y resucitado, recibido por fe; y el sufrimiento por la justicia no es un desastre, sino el camino a la victoria.",
-    "fuentes": ["mac1p_07_a#7", "ncb1p_01_b#4", "mbib1p_01_c#9", "kis1p_05_b#5", "cbmh1p_02_b#11", "mac1p_07_a#10", "r1_002#2"]
+    "fuentes": [
+      "mac1p_07_a#7",
+      "ncb1p_01_b#4",
+      "mbib1p_01_c#9",
+      "kis1p_05_b#5",
+      "cbmh1p_02_b#11",
+      "mac1p_07_a#10",
+      "r1_002#2"
+    ]
   },
   "secciones": [
     {
       "rango": "1P 3:20",
       "titulo": "La paciencia de Dios en los días de Noé",
       "notas": [
-        {"texto": "Pedro describe a los espíritus del v. 19 como «los que en otro tiempo desobedecieron». Quiénes eran depende de cómo se lea el v. 19 (ver el día 16 e Interpretaciones): para MacArthur y Kistemaker, ángeles caídos ligados a Génesis 6; para Matthew Henry y McConnell, los hombres de la generación del diluvio, que oyeron la advertencia de Noé y que ahora están en prisión.", "fuentes": ["mac1p_07_a#4", "kis1p_05_a#22", "mhenry_01_a#36", "cbmh1p_02_b#8"], "tipo": "interpretacion"},
-        {"texto": "Lo que sí es claro es el retrato de Dios. Kistemaker señala que la frase podría traducirse literalmente como que la paciencia de Dios “seguía esperando”: según él, la tolerancia divina duró los 120 años de Gn 6:3, y el énfasis está en la clemencia de Dios antes de ejecutar la sentencia. El Diccionario Mundo Hispano lo dice así: mientras Noé construía, Dios esperaba que los hombres se arrepintieran. McConnell saca de aquí una de las certezas del pasaje: la paciencia de Dios es real aun para los desobedientes más obstinados.", "fuentes": ["kis1p_05_a#23", "dbmh_02_a#5", "cbmh1p_02_b#6"], "tipo": "exegesis"},
-        {"texto": "Pero esa paciencia tiene un final. Henry lo subraya: aunque Dios espera mucho, al final deja de esperar. Al comentar Gn 6:3, Henry (citado en la Neumatología de Chafer) saca tres enseñanzas: el Espíritu contiende con los pecadores por medio de la conciencia; si se lo resiste, no luchará para siempre; y quienes dejan de ser objeto de esa contienda están completando su propia ruina.", "fuentes": ["mhenry_01_a#36", "r1_016#9"], "tipo": "doctrina"},
-        {"texto": "«Mientras se preparaba el arca»: para MacArthur, el arca misma fue una lección visible del juicio que venía, y el hecho de que nadie respondiera a ese “sermón del arca”, fuera de la familia de Noé, revela la profundidad de la maldad de aquel tiempo (Gn 6:5). Kistemaker se permite una suposición que él mismo reconoce sin apoyo bíblico: entre los que se ahogaron habría muchos que ayudaron a construir el arca.", "fuentes": ["mac1p_07_a#8", "kis1p_05_b#1"], "tipo": "contexto"}
+        {
+          "texto": "Pedro describe a los espíritus del v. 19 como «los que en otro tiempo desobedecieron». Quiénes eran depende de cómo se lea el v. 19 (ver el día 16 e Interpretaciones): para MacArthur y Kistemaker, ángeles caídos ligados a Génesis 6; para Matthew Henry y McConnell, los hombres de la generación del diluvio, que oyeron la advertencia de Noé y que ahora están en prisión.",
+          "fuentes": [
+            "mac1p_07_a#4",
+            "kis1p_05_a#22",
+            "mhenry_01_a#36",
+            "cbmh1p_02_b#8"
+          ],
+          "tipo": "interpretacion"
+        },
+        {
+          "texto": "Lo que sí es claro es el retrato de Dios. Kistemaker traduce literalmente que la paciencia de Dios “seguía esperando”: según él, durante los 120 años de Gn 6:3, mostrando su clemencia antes de ejecutar la sentencia. Mientras Noé construía, dice el Diccionario Mundo Hispano, Dios esperaba que los hombres se arrepintieran. Para McConnell, esa paciencia es real aun para los desobedientes más obstinados.",
+          "fuentes": [
+            "kis1p_05_a#23",
+            "dbmh_02_a#5",
+            "cbmh1p_02_b#6"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Pero esa paciencia tiene un final. Henry lo subraya: aunque Dios espera mucho, al final deja de esperar; y, citado en la Neumatología de Chafer al comentar Gn 6:3, agrega que el Espíritu contiende con los pecadores por medio de la conciencia, pero si se lo resiste no luchará para siempre.",
+          "fuentes": [
+            "mhenry_01_a#36",
+            "r1_016#9"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 3:20",
       "titulo": "Pocos, ocho, salvados por agua",
       "notas": [
-        {"texto": "«Pocas personas, es decir, ocho»: Noé, su esposa, sus tres hijos y las esposas de ellos (Gn 7:13, 23). De las multitudes que oyeron a Noé, ninguna se salvó; aun así, observa Kistemaker, Pedro pone el acento en lo positivo: ocho se salvaron. El Nuevo Comentario Bíblico recuerda que “pocos” es un énfasis bíblico (Mt 7:14; Lc 13:23-24), paralelo a la idea del remanente en el Antiguo Testamento (Ro 9:27-29), aunque Pablo también habla de los “muchos” que serán constituidos justos (Ro 5:19).", "fuentes": ["kis1p_05_b#1", "mac1p_07_a#8", "ncb1p_01_b#9"], "tipo": "exegesis"},
-        {"texto": "Para los lectores de Pedro, pocos y perseguidos, esto pesaba. Nicholson (Comentario Beacon) lo resume: sean muchos o pocos los que crean, y aunque seamos perseguidos, el principio sigue en pie: a su tiempo Dios libra a los justos y castiga a los malos. La desobediencia del mundo antiguo lo llevó a la condenación; la fe y la obediencia de Noé, a la salvación.", "fuentes": ["bea1p_01_b#29"], "tipo": "aplicacion"},
-        {"texto": "¿Cómo puede salvar el agua que ahogó al mundo? Los autores responden de maneras distintas (ver Interpretaciones). Kistemaker recoge la observación de Lenski (las aguas ahogaron a las multitudes pero hicieron flotar el arca) y va más al fondo: la familia de Noé, al entrar al arca, dejó atrás un mundo de iniquidad, y después de más de un año sobre las aguas entendió que Dios la había rescatado de ahogarse en el océano de la corrupción humana. Así siguió la raza humana.", "fuentes": ["kis1p_05_b#2"], "tipo": "exegesis"}
+        {
+          "texto": "«Pocas personas, es decir, ocho»: Noé, su esposa, sus tres hijos y las esposas de ellos (Gn 7:13, 23). De las multitudes que oyeron a Noé ninguna se salvó, pero Pedro, observa Kistemaker, pone el acento en lo positivo: ocho se salvaron. El Nuevo Comentario Bíblico recuerda que “pocos” es un énfasis bíblico (Mt 7:14; Lc 13:23-24), paralelo al remanente del Antiguo Testamento (Ro 9:27-29).",
+          "fuentes": [
+            "kis1p_05_b#1",
+            "mac1p_07_a#8",
+            "ncb1p_01_b#9"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Para lectores pocos y perseguidos, esto pesaba. Nicholson (Comentario Beacon) lo resume: sean muchos o pocos los que crean, a su tiempo Dios libra a los justos y castiga a los malos.",
+          "fuentes": [
+            "bea1p_01_b#29"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "¿Cómo puede salvar el agua que ahogó al mundo? Los autores responden distinto (ver Interpretaciones). Kistemaker recoge la observación de Lenski (las aguas ahogaron a las multitudes pero hicieron flotar el arca) y va más al fondo: al entrar al arca, la familia de Noé dejó atrás un mundo de iniquidad y fue rescatada de ahogarse en el océano de la corrupción humana.",
+          "fuentes": [
+            "kis1p_05_b#2"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 3:21",
       "titulo": "El bautismo que corresponde a esto",
       "notas": [
-        {"texto": "Pedro une la historia de Noé con el bautismo por medio de una palabra técnica, “antitipo” (ver Palabras griegas): una cosa que corresponde a otra como la marca al sello. Kistemaker aclara que no se compara algo grande (el diluvio) con algo chico (el bautismo); Pedro indica solo una correspondencia, como ya notaba Calvino. Así como el diluvio limpió la tierra de la iniquidad y separó a Noé del mundo malo, el agua del bautismo indica que la persona es limpiada del pecado, y el bautismo separa a los creyentes del mundo malo presente.", "fuentes": ["kis1p_05_b#4", "ncb1p_01_b#10"], "tipo": "exegesis"},
-        {"texto": "La correspondencia habla de muerte y vida nueva. MacArthur lo ve en la familia de Noé: al entrar al arca murieron a su mundo anterior y, al salir, vivieron casi una resurrección en un mundo nuevo; del mismo modo los cristianos mueren a su vida antigua al ser unidos a Cristo y andan en vida nueva (Ro 6:3-4). El Nuevo Comentario Bíblico recuerda que Jesús llamó bautismo a su propia muerte (Mr 10:38-39; Lc 12:50): la muerte en que él sufrió el juicio es, paradójicamente, el medio por el cual el creyente entra a la vida nueva.", "fuentes": ["mac1p_07_a#12", "ncb1p_01_b#10"], "tipo": "doctrina"},
-        {"texto": "McConnell agrega un matiz hermoso: el bautismo dice que la salvación que logró Cristo incluye el padecimiento, pero no termina allí. Si todo acabara en la inmersión, sería muy triste; también se sale del agua. Primero representa muerte y entierro: decirle “no” al yo al decirle “sí” al Señor.", "fuentes": ["cbmh1p_02_b#10"], "tipo": "aplicacion"},
-        {"texto": "«Ahora nos salva»: esta frase se ha leído de maneras distintas (ver Interpretaciones), pero en la biblioteca de ustedes hay un acuerdo de fondo. Kistemaker repasa los textos de lavamiento (Sal 51:2; Ez 36:25; Hch 22:16; Tit 3:5) y concluye que el bautismo es símbolo de la limpieza del pecado, pero que la Escritura no enseña que el agua salve: el creyente es salvo por la muerte y resurrección de Cristo. McConnell compara la frase con otras figuras de Jesús, como “yo soy la puerta” (Jn 10:7): el bautismo representa la salvación. Geisler y Howe lo ponen en términos de pacto: la justificación es solo por fe (Ro 5:1) y el bautismo es la señal externa de lo que Dios hizo por dentro.", "fuentes": ["kis1p_05_b#5", "cbmh1p_02_b#11", "r1_002#2"], "tipo": "doctrina"}
+        {
+          "texto": "Pedro une la historia de Noé con el bautismo mediante una palabra técnica, “antitipo” (ver Palabras griegas): algo que corresponde a otra cosa como la marca al sello. Kistemaker aclara que no se compara lo grande con lo chico, sino que se señala una correspondencia: así como el diluvio limpió la tierra y separó a Noé del mundo malo, el bautismo indica limpieza del pecado y separa a los creyentes del mundo malo presente.",
+          "fuentes": [
+            "kis1p_05_b#4",
+            "ncb1p_01_b#10"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La correspondencia habla de muerte y vida nueva. Para MacArthur, la familia de Noé murió a su mundo al entrar al arca y vivió casi una resurrección al salir; así los cristianos, unidos a Cristo, mueren a su vida antigua y andan en vida nueva (Ro 6:3-4). El Nuevo Comentario Bíblico recuerda que Jesús llamó bautismo a su propia muerte (Mr 10:38-39; Lc 12:50).",
+          "fuentes": [
+            "mac1p_07_a#12",
+            "ncb1p_01_b#10"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "McConnell agrega un matiz hermoso: el bautismo dice que la salvación que logró Cristo incluye el padecimiento, pero no termina allí. Si todo acabara en la inmersión, sería muy triste; también se sale del agua. Primero representa muerte y entierro: decirle “no” al yo al decirle “sí” al Señor.",
+          "fuentes": [
+            "cbmh1p_02_b#10"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "«Ahora nos salva»: la frase se ha leído de maneras distintas (ver Interpretaciones), pero en la biblioteca de ustedes hay un acuerdo de fondo. Kistemaker repasa los textos de lavamiento (Sal 51:2; Ez 36:25; Hch 22:16; Tit 3:5) y concluye que el bautismo simboliza la limpieza del pecado, pero que la Escritura no enseña que el agua salve: salva la muerte y resurrección de Cristo. McConnell lo compara con otras figuras de Jesús, como “yo soy la puerta” (Jn 10:7).",
+          "fuentes": [
+            "kis1p_05_b#5",
+            "cbmh1p_02_b#11",
+            "r1_002#2"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 3:21",
       "titulo": "No lavar el cuerpo, sino una buena conciencia",
       "notas": [
-        {"texto": "Pedro se apura a explicarse, primero en negativo y después en positivo. En negativo: «no quitando las inmundicias de la carne». Henry lo dice con sencillez: la ceremonia externa, en sí misma, solo limpia el cuerpo. Kistemaker, que entiende el bautismo como sacramento instituido por Cristo y administrado con agua, insiste en que no es eficaz por sí solo: debe ir acompañado del compromiso de una buena conciencia que brota del corazón. MacArthur va más lejos y dice, con una frase llamativa, que el único bautismo que salva es “seco” (ver Interpretaciones).", "fuentes": ["kis1p_05_b#6", "mhenry_01_a#37", "mac1p_07_a#11"], "tipo": "exegesis"},
-        {"texto": "En positivo: «la aspiración de una buena conciencia hacia Dios». La palabra que la RVR1960 traduce «aspiración» aparece solo aquí en el Nuevo Testamento y se usaba en contratos (ver Palabras griegas). Se la entiende como compromiso o respuesta del creyente, o como ruego a Dios; las dos ideas no se excluyen del todo. McConnell las une: al bautizarse, el creyente afirma con buena conciencia que acepta los privilegios y responsabilidades del pacto con su Señor, y a la vez mira a Dios confiando en que fue aceptado por los méritos de Cristo.", "fuentes": ["cbmh1p_02_b#12", "kis1p_05_b#7", "ncb1p_01_b#11"], "tipo": "exegesis"},
-        {"texto": "¿Qué es una buena conciencia? Para McConnell, aquella a la que se le aplicó la sangre de Jesucristo. Kistemaker la enlaza con el v. 16 (tener buena conciencia ante quienes acusan): el creyente se compromete a servir al Señor y a vivir concienzudamente para su honra. MacArthur describe el lado de la conversión: quien busca a Dios llega cansado del pecado, ansiando una conciencia libre de acusación, y se arrepiente y confía en el sacrificio de Cristo (cf. He 9:14; 10:22).", "fuentes": ["cbmh1p_02_b#12", "kis1p_05_b#7", "mac1p_07_a#13"], "tipo": "doctrina"}
+        {
+          "texto": "Pedro se explica primero en negativo: «no quitando las inmundicias de la carne». Henry lo dice simple: la ceremonia externa, en sí misma, solo limpia el cuerpo. Kistemaker, que entiende el bautismo como sacramento instituido por Cristo, insiste en que no es eficaz por sí solo: debe ir con el compromiso de una buena conciencia que brota del corazón. MacArthur va más lejos: para él, el único bautismo que salva es “seco” (ver Interpretaciones).",
+          "fuentes": [
+            "kis1p_05_b#6",
+            "mhenry_01_a#37",
+            "mac1p_07_a#11"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Y en positivo: «la aspiración de una buena conciencia hacia Dios». La palabra traducida «aspiración» aparece solo aquí en el Nuevo Testamento y se usaba en contratos (ver Palabras griegas). McConnell une sus dos sentidos posibles: al bautizarse, el creyente acepta con buena conciencia los privilegios y responsabilidades del pacto con su Señor, y a la vez mira a Dios confiando en que fue aceptado por los méritos de Cristo.",
+          "fuentes": [
+            "cbmh1p_02_b#12",
+            "kis1p_05_b#7",
+            "ncb1p_01_b#11"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Qué es una buena conciencia? Para McConnell, aquella a la que se le aplicó la sangre de Jesucristo. Kistemaker la enlaza con el v. 16: el creyente se compromete a vivir concienzudamente para la honra del Señor. MacArthur describe la conversión: quien llega a Dios cansado del pecado, ansiando una conciencia limpia, se arrepiente y confía en el sacrificio de Cristo.",
+          "fuentes": [
+            "cbmh1p_02_b#12",
+            "kis1p_05_b#7",
+            "mac1p_07_a#13"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 3:21",
       "titulo": "Por la resurrección de Jesucristo",
       "notas": [
-        {"texto": "Todo descansa en una frase final: «por la resurrección de Jesucristo». Kistemaker recuerda que Pedro ya la afirmó en 1:3 y 3:18, y que sin ella la predicación sería vana (1Co 15:14); sin ella, agrega, también el bautismo sería vano. Cita a Hiebert, que llama a la resurrección fundamento de la justicia y garantía de la victoria. El Nuevo Comentario Bíblico lo dice así: todo lo que el bautismo tipifica es real y posible por la resurrección, y por ella finalmente somos salvos.", "fuentes": ["kis1p_05_b#9", "ncb1p_01_b#10"], "tipo": "doctrina"},
-        {"texto": "La Biblia MacArthur explica por qué: la resurrección demuestra que Dios aceptó la muerte de Cristo en lugar nuestro. El juicio cayó sobre Cristo como las aguas cayeron sobre el arca, y el creyente vive protegido dentro de esa arca que atraviesa las aguas rumbo a la gloria. Nicholson añade que la resurrección marca el paso del sufrimiento a la gloria, que es justamente lo que Pedro quiere que vean sus lectores.", "fuentes": ["mbib1p_01_c#7", "bea1p_01_b#30"], "tipo": "doctrina"}
+        {
+          "texto": "Todo descansa en «la resurrección de Jesucristo». Kistemaker recuerda que Pedro ya la afirmó en 1:3 y 3:18, y que sin ella la predicación sería vana (1Co 15:14), y también el bautismo. Cita a Hiebert, que llama a la resurrección fundamento de la justicia y garantía de la victoria. Para el Nuevo Comentario Bíblico, todo lo que el bautismo tipifica es real por la resurrección.",
+          "fuentes": [
+            "kis1p_05_b#9",
+            "ncb1p_01_b#10"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La Biblia MacArthur explica por qué: la resurrección demuestra que Dios aceptó la muerte de Cristo en nuestro lugar. El juicio cayó sobre Cristo como las aguas sobre el arca, y el creyente viaja protegido en esa arca rumbo a la gloria.",
+          "fuentes": [
+            "mbib1p_01_c#7"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 3:22",
       "titulo": "Subió al cielo y está a la diestra de Dios",
       "notas": [
-        {"texto": "Con la resurrección, Pedro retoma el hilo que había dejado en el v. 18 (Comentario Moody). Kistemaker hace notar que el verbo de «habiendo subido» es el mismo que el “fue” del v. 19, algo que algunas traducciones no dejan ver; el Nuevo Comentario Bíblico ve ahí una especie de procesión triunfal que culmina en el trono, en cumplimiento directo del Sal 110:1. McConnell recuerda que Pedro habla de algo que vio: él estaba cuando Jesús subió al cielo (Hch 1:9-11).", "fuentes": ["moodynt_01_b#21", "kis1p_05_b#10", "ncb1p_01_b#12", "cbmh1p_02_b#13"], "tipo": "exegesis"},
-        {"texto": "«Está a la diestra de Dios»: era ya un artículo de fe conocido (Ro 8:34; Ef 1:20; He 1:3), dice Kistemaker, y que aquí diga “está” y en otros lugares “se sentó” no presenta ninguna dificultad: Cristo recibió el honor más alto imaginable. MacArthur añade que, en ambos Testamentos, la diestra es el lugar de prestigio y poder: allí fue Cristo al concluir su obra de redención, y desde allí gobierna hoy. El Diccionario Mundo Hispano ubica este versículo dentro de la exaltación de Cristo, que empieza con la resurrección e incluye la ascensión.", "fuentes": ["kis1p_05_b#10", "mac1p_07_a#15", "dbmh_01_a#32"], "tipo": "doctrina"}
+        {
+          "texto": "Con la resurrección, Pedro retoma el hilo del v. 18 (Comentario Moody). Kistemaker nota que el verbo de «habiendo subido» es el mismo “fue” del v. 19; el Nuevo Comentario Bíblico ve ahí una procesión triunfal que culmina en el trono, en cumplimiento del Sal 110:1. Y McConnell recuerda que Pedro habla de lo que vio (Hch 1:9-11).",
+          "fuentes": [
+            "moodynt_01_b#21",
+            "kis1p_05_b#10",
+            "ncb1p_01_b#12",
+            "cbmh1p_02_b#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Está a la diestra de Dios» era ya un artículo de fe conocido (Ro 8:34; Ef 1:20; He 1:3), dice Kistemaker: Cristo recibió el honor más alto imaginable. MacArthur añade que la diestra es el lugar de prestigio y poder: allí fue Cristo al terminar su obra de redención, y desde allí gobierna hoy.",
+          "fuentes": [
+            "kis1p_05_b#10",
+            "mac1p_07_a#15"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 3:22",
       "titulo": "Ángeles, autoridades y potestades sujetos a él",
       "notas": [
-        {"texto": "Kistemaker entiende que «ángeles» incluye a los espíritus buenos y a los malos, y que «autoridades y potestades» son rangos del mundo angélico; todos están sometidos a Cristo, su creador. Los enemigos espirituales (Satanás, el príncipe de la potestad del aire, Ef 2:2, y los suyos) serán finalmente destruidos (1Co 15:24; Col 2:15). McConnell amplía: sean poderes espirituales o terrenales, todos le están sujetos. MacArthur saca de aquí un argumento para el v. 19: si Cristo proclamó a los demonios su victoria, no les ofreció salvación, porque los demonios no pueden ser salvos (He 2:16).", "fuentes": ["kis1p_05_b#11", "cbmh1p_02_b#13", "mac1p_07_a#18"], "tipo": "doctrina"},
-        {"texto": "¿Por qué termina Pedro aquí? Porque escribe a gente atacada. Kistemaker cita a France: saber que al ascender Cristo triunfó sobre los poderes enemigos daba ánimo a lectores perseguidos. McConnell lo dice para los primeros destinatarios, pocos, despreciados y perseguidos: podían vivir con esperanza, porque nada puede separarnos del amor de Dios en Cristo (Ro 8:39). Y la Biblia MacArthur lo resume: el ejemplo del Señor muestra que el sufrimiento puede ser la ocasión del mayor triunfo.", "fuentes": ["kis1p_05_b#11", "cbmh1p_02_b#13", "mbib1p_01_c#9"], "tipo": "aplicacion"}
+        {
+          "texto": "Kistemaker entiende que «ángeles» abarca espíritus buenos y malos, y que «autoridades y potestades» son rangos del mundo angélico, todos sometidos a Cristo; los enemigos espirituales serán finalmente destruidos (1Co 15:24; Col 2:15). McConnell amplía: sean poderes espirituales o terrenales, todos le están sujetos. MacArthur deduce de aquí que, en el v. 19, Cristo no ofreció salvación a los demonios (He 2:16).",
+          "fuentes": [
+            "kis1p_05_b#11",
+            "cbmh1p_02_b#13",
+            "mac1p_07_a#18"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Por qué termina Pedro aquí? Porque escribe a gente atacada. Kistemaker cita a France: saber que Cristo triunfó sobre los poderes enemigos animaba a lectores perseguidos. McConnell lo dice para aquellos primeros destinatarios, pocos y despreciados: podían vivir con esperanza, porque nada puede separarnos del amor de Dios en Cristo (Ro 8:39).",
+          "fuentes": [
+            "kis1p_05_b#11",
+            "cbmh1p_02_b#13"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1P 3:20", "griego": "διεσώθησαν", "translit": "diesṓthēsan", "significado": "Fueron rescatados, pasando a través. De διασῴζω: la preposición “a través” se repite en «por agua»; la voz pasiva deja a Dios como el que rescata, y el aoristo apunta a un hecho único.", "fuentes": ["kis1p_05_b#8", "kis1p_05_b#1"]},
-    {"ref": "1P 3:21", "griego": "ἀντίτυπον", "translit": "antítypon", "significado": "Antitipo, contraparte, figura que corresponde a otra cosa. Originalmente, la impresión que deja un sello al golpear la cera; en el Nuevo Testamento describe una expresión terrenal de una realidad celestial (He 9:24 llama así al santuario terrenal).", "fuentes": ["mac1p_07_a#9", "ncb1p_01_b#10", "cbmh1p_02_b#11"]},
-    {"ref": "1P 3:21", "griego": "βάπτισμα", "translit": "báptisma", "significado": "Bautismo. MacArthur subraya que el verbo del que viene (baptízō) significa simplemente “inmersión”, y no necesariamente en agua; de ahí su lectura del versículo (ver Interpretaciones).", "fuentes": ["mac1p_07_a#10"]},
-    {"ref": "1P 3:21", "griego": "ἐπερώτημα", "translit": "eperṓtēma", "significado": "Aspiración, apelación, ruego o compromiso. Aparece solo aquí en el Nuevo Testamento; en los papiros designa la pregunta o estipulación solemne al cerrar un contrato, y más tarde se usó para una indagación judicial. MacArthur la ve como acuerdo para cumplir las condiciones que Dios pone (arrepentimiento y fe).", "fuentes": ["ncb1p_01_b#11", "cbmh1p_02_b#12", "mac1p_07_a#13", "kis1p_05_b#7"]},
-    {"ref": "1P 3:22", "griego": "ὑποταγέντων", "translit": "hypotagéntōn", "significado": "Habiendo sido sujetados. De ὑποτάσσω, que según MacArthur significa alinearse por rango debajo de alguien. Kistemaker nota que los tres sustantivos van sin artículo, para destacar la cualidad de su función.", "fuentes": ["kis1p_05_b#12", "mac1p_07_a#19"]}
+    {
+      "ref": "1P 3:20",
+      "griego": "διεσώθησαν",
+      "translit": "diesṓthēsan",
+      "significado": "Fueron rescatados, pasando a través. De διασῴζω: la preposición “a través” se repite en «por agua»; la voz pasiva deja a Dios como el que rescata, y el aoristo apunta a un hecho único.",
+      "fuentes": [
+        "kis1p_05_b#8",
+        "kis1p_05_b#1"
+      ]
+    },
+    {
+      "ref": "1P 3:21",
+      "griego": "ἀντίτυπον",
+      "translit": "antítypon",
+      "significado": "Antitipo, contraparte, figura que corresponde a otra cosa. Originalmente, la impresión que deja un sello al golpear la cera; en el Nuevo Testamento describe una expresión terrenal de una realidad celestial (He 9:24 llama así al santuario terrenal).",
+      "fuentes": [
+        "mac1p_07_a#9",
+        "ncb1p_01_b#10",
+        "cbmh1p_02_b#11"
+      ]
+    },
+    {
+      "ref": "1P 3:21",
+      "griego": "βάπτισμα",
+      "translit": "báptisma",
+      "significado": "Bautismo. MacArthur subraya que el verbo del que viene significa “inmersión”, no necesariamente en agua (ver Interpretaciones).",
+      "fuentes": [
+        "mac1p_07_a#10"
+      ]
+    },
+    {
+      "ref": "1P 3:21",
+      "griego": "ἐπερώτημα",
+      "translit": "eperṓtēma",
+      "significado": "Aspiración, apelación, ruego o compromiso. Solo aparece aquí en el Nuevo Testamento; en los papiros designa la estipulación solemne al cerrar un contrato, y luego se usó para una indagación judicial.",
+      "fuentes": [
+        "ncb1p_01_b#11",
+        "cbmh1p_02_b#12",
+        "mac1p_07_a#13"
+      ]
+    },
+    {
+      "ref": "1P 3:22",
+      "griego": "ὑποταγέντων",
+      "translit": "hypotagéntōn",
+      "significado": "Habiendo sido sujetados. De ὑποτάσσω, que según MacArthur significa alinearse por rango debajo de alguien. Kistemaker nota que los tres sustantivos van sin artículo, para destacar la cualidad de su función.",
+      "fuentes": [
+        "kis1p_05_b#12",
+        "mac1p_07_a#19"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Cristo es el arca. MacArthur lo llama la única arca de salvación: no es el agua del bautismo la que rescata, sino ser unido por fe a la muerte y resurrección de Cristo, que lleva con seguridad a través del juicio. Lutzer lo dice en pocas palabras: el agua no salvó a Noé, fue instrumento de juicio; lo salvó el arca. Wiersbe, en sus bosquejos de Génesis, desarrolla el cuadro: Dios mismo planeó la salvación y el arca, había una sola puerta, y Noé y los suyos se salvaron porque creyeron la promesa (He 11:7).", "refs": ["Gn 6:14", "He 11:7", "Ro 6:3-4"], "fuentes": ["mac1p_07_a#14", "r4b_001#3", "r1_004#27"]},
-    {"texto": "Cristo es el sumo sacerdote que intercede. MacArthur recuerda que al subir al cielo Jesús entró como precursor, sumo sacerdote para siempre según el orden de Melquisedec, y desde allí intercede sin cesar por los suyos (He 6:20; 7:25; 9:24).", "refs": ["He 6:20", "He 7:25", "He 9:24"], "fuentes": ["mac1p_07_a#17"]},
-    {"texto": "Cristo es el humillado que fue exaltado. MacArthur relaciona este versículo con Fil 2:9-11 y He 1:3-6: el que sufrió y murió fue exaltado hasta lo sumo, por encima de los ángeles. Nicholson saca la consecuencia que Pedro mismo sugiere (4:13; 5:1): los que sufren con fe por Cristo compartirán los triunfos y la gloria con que él fue coronado (Jn 17:24; Ap 3:21).", "refs": ["Fil 2:9-11", "He 1:3-6", "Ap 3:21"], "fuentes": ["mac1p_07_a#16", "bea1p_01_b#31"]}
+    {
+      "texto": "Cristo es el arca. MacArthur lo llama la única arca de salvación: no rescata el agua sino la unión por fe con Cristo muerto y resucitado. Lutzer lo resume: el agua no salvó a Noé, fue instrumento de juicio; lo salvó el arca. Wiersbe agrega que el arca tenía una sola puerta y que Noé se salvó porque creyó la promesa (He 11:7).",
+      "refs": [
+        "Gn 6:14",
+        "He 11:7",
+        "Ro 6:3-4"
+      ],
+      "fuentes": [
+        "mac1p_07_a#14",
+        "r4b_001#3",
+        "r1_004#27"
+      ]
+    },
+    {
+      "texto": "Cristo es el sumo sacerdote que intercede. MacArthur recuerda que al subir al cielo Jesús entró como precursor, sumo sacerdote para siempre según el orden de Melquisedec, y desde allí intercede sin cesar por los suyos (He 6:20; 7:25; 9:24).",
+      "refs": [
+        "He 6:20",
+        "He 7:25",
+        "He 9:24"
+      ],
+      "fuentes": [
+        "mac1p_07_a#17"
+      ]
+    },
+    {
+      "texto": "Cristo es el humillado que fue exaltado (Fil 2:9-11). Nicholson saca la consecuencia que Pedro sugiere (4:13; 5:1): los que sufren con fe por Cristo compartirán la gloria con que él fue coronado (Ap 3:21).",
+      "refs": [
+        "Fil 2:9-11",
+        "He 1:3-6",
+        "Ap 3:21"
+      ],
+      "fuentes": [
+        "mac1p_07_a#16",
+        "bea1p_01_b#31"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué bautismo «ahora nos salva»? (v. 21)",
       "posturas": [
-        {"postura": "Es el bautismo en agua, pero como figura o señal: no salva por sí mismo. Su valor está en la fe y la buena conciencia de quien se bautiza, y todo depende de la resurrección de Cristo. Kistemaker lo llama sacramento, que no es eficaz solo por el rito externo; Geisler y Howe, señal de pacto, como la circuncisión; Owen, la señal externa que por sí misma solo moja.", "quien": "Kistemaker; McConnell (Mundo Hispano); el Nuevo Comentario Bíblico; el Comentario Moody; Geisler y Howe; John Owen; Nicholson (Beacon)", "fuentes": ["kis1p_05_b#5", "kis1p_05_b#6", "cbmh1p_02_b#11", "ncb1p_01_b#10", "moodynt_01_b#19", "r1_002#2", "r1_003#7", "bea1p_01_b#30"]},
-        {"postura": "No se refiere al rito de agua, sino a una inmersión espiritual: la unión con Cristo, el arca que protege del juicio. Pedro lo aclara al decir que no se trata de quitar la suciedad del cuerpo.", "quien": "MacArthur y la Biblia MacArthur", "fuentes": ["mac1p_07_a#10", "mac1p_07_a#11", "mbib1p_01_c#7"]},
-        {"postura": "El bautismo que salva es el del Espíritu, la regeneración, del cual el agua bautismal es el signo; la ordenanza externa no salva por sí misma.", "quien": "Matthew Henry", "fuentes": ["mhenry_01_a#37"]}
+        {
+          "postura": "Es el bautismo en agua como figura o señal: no salva por sí mismo; su valor está en la fe y la buena conciencia, y todo depende de la resurrección de Cristo. Geisler y Howe lo llaman señal de pacto, como la circuncisión.",
+          "quien": "Kistemaker; McConnell (Mundo Hispano); el Nuevo Comentario Bíblico; el Comentario Moody; Geisler y Howe; John Owen; Nicholson (Beacon)",
+          "fuentes": [
+            "kis1p_05_b#5",
+            "kis1p_05_b#6",
+            "cbmh1p_02_b#11",
+            "ncb1p_01_b#10",
+            "moodynt_01_b#19",
+            "r1_002#2",
+            "r1_003#7",
+            "bea1p_01_b#30"
+          ]
+        },
+        {
+          "postura": "No se refiere al rito de agua, sino a una inmersión espiritual: la unión con Cristo, el arca que protege del juicio. Pedro lo aclara al decir que no se trata de quitar la suciedad del cuerpo.",
+          "quien": "MacArthur y la Biblia MacArthur",
+          "fuentes": [
+            "mac1p_07_a#10",
+            "mac1p_07_a#11",
+            "mbib1p_01_c#7"
+          ]
+        },
+        {
+          "postura": "El bautismo que salva es el del Espíritu, la regeneración, del cual el agua bautismal es el signo; la ordenanza externa no salva por sí misma.",
+          "quien": "Matthew Henry",
+          "fuentes": [
+            "mhenry_01_a#37"
+          ]
+        }
       ],
-      "nota": "El Comentario Moody menciona que quienes creen en la regeneración bautismal se apoyan en la palabra «salva»; ninguno de los autores de este día la sostiene, y todos coinciden en que la salvación es por fe en Cristo muerto y resucitado."
+      "nota": "Según el Comentario Moody, quienes creen en la regeneración bautismal se apoyan en la palabra «salva»; ningún autor de este día la sostiene, y todos coinciden en que se es salvo por fe en Cristo muerto y resucitado."
     },
     {
       "tema": "«Salvadas por agua»: ¿a través del agua o a pesar del agua? (v. 20)",
       "posturas": [
-        {"postura": "A pesar del agua: el agua fue el agente del juicio, no el medio de salvación; lo que salvó fue el arca.", "quien": "Biblia MacArthur; Lutzer", "fuentes": ["mbib1p_01_c#6", "r4b_001#3"]},
-        {"postura": "Las dos cosas: el arca dio seguridad en medio del agua que juzgaba a otros, y esa misma agua fue el medio de pasar a una vida nueva. El agua era el peligro y a la vez lo que levantaba el arca.", "quien": "El Nuevo Comentario Bíblico (ve ambas ideas involucradas); McConnell; Lenski, según Kistemaker", "fuentes": ["ncb1p_01_b#9", "cbmh1p_02_b#10", "kis1p_05_b#2"]}
-      ]
-    },
-    {
-      "tema": "¿Con qué se corresponde el bautismo: con el agua del diluvio o con toda la experiencia del arca? (v. 21)",
-      "posturas": [
-        {"postura": "Con el agua del diluvio: «esto» remite a las aguas, que se proyectan al agua del bautismo. Algunos lo apoyan en que en griego “antitipo” y “agua” son del mismo género; el Comentario Moody prefiere una variante que lee “por la cual (agua)”.", "quien": "Kistemaker; el Comentario Moody; algunos comentaristas que menciona MacArthur", "fuentes": ["kis1p_05_b#4", "moodynt_01_b#19", "mac1p_07_a#9"]},
-        {"postura": "Con la experiencia completa de Noé y su familia en el arca: Dios los preservó mientras el resto perecía.", "quien": "MacArthur", "fuentes": ["mac1p_07_a#9"]}
+        {
+          "postura": "A pesar del agua: el agua fue el agente del juicio, no el medio de salvación; lo que salvó fue el arca.",
+          "quien": "Biblia MacArthur; Lutzer",
+          "fuentes": [
+            "mbib1p_01_c#6",
+            "r4b_001#3"
+          ]
+        },
+        {
+          "postura": "Las dos cosas: el arca dio seguridad en medio del agua que juzgaba a otros, y esa misma agua fue el medio de pasar a una vida nueva. El agua era el peligro y a la vez lo que levantaba el arca.",
+          "quien": "El Nuevo Comentario Bíblico (ve ambas ideas involucradas); McConnell; Lenski, según Kistemaker",
+          "fuentes": [
+            "ncb1p_01_b#9",
+            "cbmh1p_02_b#10",
+            "kis1p_05_b#2"
+          ]
+        }
       ]
     },
     {
       "tema": "«Aspiración» de una buena conciencia: ¿compromiso o ruego? (v. 21)",
       "posturas": [
-        {"postura": "Compromiso o respuesta del creyente: al bautizarse se compromete a servir al Señor con buena conciencia. Es la lectura de la mayoría de los traductores (entre ellas la King James y la NIV, según Kistemaker).", "quien": "Kistemaker se inclina por ella; MacArthur y la Biblia MacArthur la ven como acuerdo de pacto para cumplir las condiciones de Dios; McConnell", "fuentes": ["kis1p_05_b#7", "mac1p_07_a#13", "mbib1p_01_c#8", "cbmh1p_02_b#12"]},
-        {"postura": "Ruego o pedido a Dios de una buena conciencia: subraya que dependemos de su ayuda.", "quien": "El Comentario Moody (“el buscar una buena conciencia”); la RSV y la NASB, entre otras, según Kistemaker", "fuentes": ["moodynt_01_b#19", "kis1p_05_b#7"]}
+        {
+          "postura": "Compromiso o respuesta del creyente: al bautizarse se compromete a servir al Señor con buena conciencia; es la lectura de la mayoría de los traductores, según Kistemaker.",
+          "quien": "Kistemaker se inclina por ella; MacArthur y la Biblia MacArthur la ven como acuerdo de pacto para cumplir las condiciones de Dios; McConnell",
+          "fuentes": [
+            "kis1p_05_b#7",
+            "mac1p_07_a#13",
+            "mbib1p_01_c#8",
+            "cbmh1p_02_b#12"
+          ]
+        },
+        {
+          "postura": "Ruego o pedido a Dios de una buena conciencia: subraya que dependemos de su ayuda.",
+          "quien": "El Comentario Moody (“el buscar una buena conciencia”); la RSV y la NASB, entre otras, según Kistemaker",
+          "fuentes": [
+            "moodynt_01_b#19",
+            "kis1p_05_b#7"
+          ]
+        }
       ],
       "nota": "El Nuevo Comentario Bíblico presenta las dos lecturas sin zanjar; Nicholson (Beacon) sigue la Versión Moderna, “el obtener respuesta de una buena conciencia”."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Gn 6:3", "nota": "Los 120 años de Génesis son, para Kistemaker y MacArthur, el tiempo en que «esperaba la paciencia de Dios»: un período de gracia antes del juicio.", "fuentes": ["kis1p_05_a#23", "mac1p_07_a#8"]},
-    {"ref": "Gn 6:5-13", "nota": "La maldad de la generación del diluvio. MacArthur la lee junto con Gn 6:1-4, que entiende como un ataque demoníaco contra el matrimonio (ver día 16).", "fuentes": ["mac1p_06_b#30", "mac1p_06_b#28"]},
-    {"ref": "Gn 7:13", "nota": "Las ocho personas que entraron al arca: Noé, su esposa, sus tres hijos y sus esposas (también Gn 7:23).", "fuentes": ["kis1p_05_b#1"]},
-    {"ref": "Sal 110:1", "nota": "La diestra de Dios: el Sal 110:1, que Jesús se aplicó a sí mismo (Mt 22:41-46), se cumple en la entronización de Cristo.", "fuentes": ["ncb1p_01_b#12", "kis1p_05_b#11", "mac1p_07_a#15"]}
+    {
+      "ref": "Gn 6:3",
+      "nota": "Los 120 años de Génesis son, para Kistemaker y MacArthur, el tiempo en que «esperaba la paciencia de Dios»: un período de gracia antes del juicio.",
+      "fuentes": [
+        "kis1p_05_a#23",
+        "mac1p_07_a#8"
+      ]
+    },
+    {
+      "ref": "Gn 7:13",
+      "nota": "Las ocho personas que entraron al arca: Noé, su esposa, sus tres hijos y sus esposas (también Gn 7:23).",
+      "fuentes": [
+        "kis1p_05_b#1"
+      ]
+    },
+    {
+      "ref": "Sal 110:1",
+      "nota": "La diestra de Dios: el Sal 110:1, que Jesús se aplicó a sí mismo (Mt 22:41-46), se cumple en la entronización de Cristo.",
+      "fuentes": [
+        "ncb1p_01_b#12",
+        "kis1p_05_b#11",
+        "mac1p_07_a#15"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Owen advierte que regeneración no es simplemente estar bautizado y decir que uno se arrepintió. El agua es la señal externa; Pablo distingue la ordenanza de la nueva creación (Gá 6:15), y Simón el mago fue bautizado sin tener el corazón recto (Hch 8:13, 21).", "autor": "John Owen", "obra": "El Espíritu Santo (versión abreviada)", "pagina": "PDF 29-30", "tipo": "doctrina", "fuentes": ["r1_003#7"]},
-    {"texto": "Sobre el arca donde se salvaron ocho personas, Geisler y Howe responden a objeciones sobre su capacidad y resistencia: la “especie” bíblica no es la moderna, el arca tenía el tamaño de un gran barco de tres pisos y su forma larga de caja es muy estable en aguas turbulentas.", "autor": "Norman Geisler y Thomas Howe", "obra": "Dificultades bíblicas", "pagina": "PDF 18", "tipo": "apologetica", "fuentes": ["r1_001#6"]},
-    {"texto": "Berkhof y Ryrie citan 1P 3:22 al tratar los ángeles: nombres como autoridades, poderes y dominios no indican clases distintas de seres, sino diferencias de rango y lugar entre los ángeles, buenos y malos.", "autor": "Louis Berkhof; Charles Ryrie", "obra": "Teología sistemática; Teología básica", "pagina": "PDF 77; PDF 57", "tipo": "doctrina", "fuentes": ["r1_014_b#15", "r1_016#25"]},
-    {"texto": "MacArthur cierra el pasaje con el himno de Charles Wesley “And Can It Be”: aun los ángeles no alcanzan a sondear un amor así. Cristo murió por seres humanos perdidos; los ángeles caídos solo oyeron la victoria, y los creyentes no solo miran ese triunfo: participan de él (2Co 2:14).", "autor": "John MacArthur", "obra": "1 Pedro", "pagina": "PDF 154-155", "tipo": "ilustracion", "fuentes": ["mac1p_07_a#20"]}
+    {
+      "texto": "Owen advierte que regeneración no es simplemente estar bautizado y decir que uno se arrepintió. El agua es la señal externa; Pablo distingue la ordenanza de la nueva creación (Gá 6:15), y Simón el mago fue bautizado sin tener el corazón recto (Hch 8:13, 21).",
+      "autor": "John Owen",
+      "obra": "El Espíritu Santo (versión abreviada)",
+      "pagina": "PDF 29-30",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_003#7"
+      ]
+    },
+    {
+      "texto": "Berkhof y Ryrie citan 1P 3:22 al tratar los ángeles: nombres como autoridades, poderes y dominios no indican clases distintas de seres, sino diferencias de rango y lugar entre los ángeles, buenos y malos.",
+      "autor": "Louis Berkhof; Charles Ryrie",
+      "obra": "Teología sistemática; Teología básica",
+      "pagina": "PDF 77; PDF 57",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_014_b#15",
+        "r1_016#25"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "2P 2:4-9", "nota": "Pedro vuelve a Noé en su segunda carta: los ángeles que pecaron, el diluvio, Sodoma (también Jd 6-7), y la conclusión de que el Señor sabe librar de la prueba a los piadosos, como a Noé y a Lot.", "fuentes": ["mac1p_07_a#5", "kis1p_05_b#3"]},
-    {"ref": "2P 3:5-9", "nota": "La misma paciencia de Dios que esperó en tiempos de Noé es la que hoy demora el juicio para dar lugar al arrepentimiento.", "fuentes": ["ncb1p_01_b#9"]},
-    {"ref": "Ro 6:3-4", "nota": "El bautismo como unión con Cristo en su muerte y resurrección, para andar en vida nueva: la idea que varios autores ven detrás de 1P 3:21.", "fuentes": ["mac1p_07_a#12", "ncb1p_01_b#10", "r1_002#2"]},
-    {"ref": "He 9:24", "nota": "El otro uso de “antitipo” en el Nuevo Testamento: el santuario terrenal como figura del verdadero.", "fuentes": ["cbmh1p_02_b#11"]},
-    {"ref": "Col 2:15", "nota": "Cristo despojó a los principados y potestades y triunfó sobre ellos en la cruz: el mismo triunfo que Pedro ve cumplido en el trono.", "fuentes": ["mac1p_07_a#6", "kis1p_05_b#11"]}
+    {
+      "ref": "2P 2:4-9",
+      "nota": "Pedro vuelve a Noé en su segunda carta: los ángeles que pecaron, el diluvio, Sodoma (también Jd 6-7), y la conclusión de que el Señor sabe librar de la prueba a los piadosos, como a Noé y a Lot.",
+      "fuentes": [
+        "mac1p_07_a#5",
+        "kis1p_05_b#3"
+      ]
+    },
+    {
+      "ref": "2P 3:5-9",
+      "nota": "La misma paciencia de Dios que esperó en tiempos de Noé es la que hoy demora el juicio para dar lugar al arrepentimiento.",
+      "fuentes": [
+        "ncb1p_01_b#9"
+      ]
+    },
+    {
+      "ref": "Ro 6:3-4",
+      "nota": "El bautismo como unión con Cristo en su muerte y resurrección, para andar en vida nueva: la idea que varios autores ven detrás de 1P 3:21.",
+      "fuentes": [
+        "mac1p_07_a#12",
+        "ncb1p_01_b#10",
+        "r1_002#2"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "No descansar en lo externo. Henry reconoce que nos gustaría reducir la fe a cosas visibles, y que muchos bautizados que participaron de todo murieron sin Cristo. Por eso invita a mirar las ordenanzas preguntándonos qué obra hacen en la conciencia, y a no quedarse tranquilos hasta estar limpios por la sangre de Cristo.", "fuentes": ["mhenry_01_a#38"]},
-    {"texto": "Recordar lo que prometieron. Si ustedes están bautizados, ese día dijeron que sí. Nicholson lo aplica así: los que mantienen buena conciencia y viven apartados para Dios, como prometieron al bautizarse, tienen la promesa de Dios y la evidencia de su vida para saber que su esperanza está bien fundada.", "fuentes": ["bea1p_01_b#30", "cbmh1p_02_b#6"]},
-    {"texto": "Leer el sufrimiento desde el trono. MacArthur insiste en que el sufrimiento injusto no es un desastre sino el camino a la victoria, y que Dios usa la persecución para sus propósitos. Nicholson lo dice para todo santo: ningún sufrimiento por la justicia debe hacerle temer por su futuro, porque será seguido de gloria.", "fuentes": ["mac1p_07_a#7", "bea1p_01_b#31"]}
+    {
+      "texto": "No descansar en lo externo. Henry reconoce que nos gustaría reducir la fe a lo visible, y que muchos bautizados murieron sin Cristo; por eso invita a no quedarse tranquilos hasta estar limpios por la sangre de Cristo.",
+      "fuentes": [
+        "mhenry_01_a#38"
+      ]
+    },
+    {
+      "texto": "Recordar lo que prometieron. Si ustedes están bautizados, ese día dijeron que sí. Nicholson lo aplica así: los que mantienen buena conciencia y viven apartados para Dios, como prometieron al bautizarse, tienen la promesa de Dios y la evidencia de su vida para saber que su esperanza está bien fundada.",
+      "fuentes": [
+        "bea1p_01_b#30",
+        "cbmh1p_02_b#6"
+      ]
+    },
+    {
+      "texto": "Leer el sufrimiento desde el trono. Para MacArthur, el sufrimiento injusto no es un desastre sino el camino a la victoria; Nicholson agrega que ningún sufrimiento por la justicia debe hacer temer por el futuro, porque será seguido de gloria.",
+      "fuentes": [
+        "mac1p_07_a#7",
+        "bea1p_01_b#31"
+      ]
+    }
   ],
   "para_conversar": [
     "Dios esperó con paciencia en los días de Noé, pero su paciencia tuvo un final. ¿Cómo nos ayuda esto a pensar en las personas que queremos y que todavía no creen?",
@@ -158,13 +516,85 @@
     "Pedro termina con Cristo a la diestra de Dios y todo poder sujeto a él. ¿Qué sufrimiento o temor nuestro de esta semana se ve distinto a la luz de eso?"
   ],
   "para_orar": "Señor, gracias por tu paciencia, que esperó en los días de Noé y nos esperó a nosotros, y por Jesús, nuestra arca, que pasó por el juicio para llevarnos seguros a vos. Danos una buena conciencia delante tuyo, que no confiemos en lo externo sino en Cristo resucitado, y que en medio del sufrimiento recordemos que él reina sobre todo poder.",
-  "visuales": ["dg-espiritus", "dg-sufrimiento", "dg-at"],
-  "anexos": ["T5", "T1"],
+  "visuales": [
+    "dg-espiritus",
+    "dg-sufrimiento",
+    "dg-at"
+  ],
+  "anexos": [
+    "T5",
+    "T1"
+  ],
   "profundizar": [
-    {"titulo": "El calendario del diluvio", "texto": "El Diccionario Mundo Hispano reconstruye el itinerario: una semana antes del diluvio Noé y su familia entraron al arca y Dios cerró la puerta (Gn 7:16); Noé tenía 600 años; las aguas crecieron durante 40 días, se mantuvieron 110 días sobre los montes y bajaron durante 221 días, hasta que Noé desembarcó en los montes de Ararat. Después Dios prometió no enviar otro diluvio universal, con la señal del arco iris (Gn 9:9-17).", "fuentes": ["dbmh_02_a#5"]},
-    {"titulo": "¿Una carta pascual y un pequeño catecismo?", "texto": "Según el Comentario Moody, Selwyn señala que los primeros cristianos a menudo celebraban los bautismos en la Pascua, y que la mención del bautismo, junto con los sufrimientos, la resurrección y la venida de Cristo, sugiere que 1 Pedro fue escrita como carta pascual. Kistemaker, por su parte, recoge la propuesta de Dalton: los vv. 18 y 22 formarían un himno sobre Cristo, y los vv. 19-21 serían una inserción en prosa para enseñar sobre el bautismo. Ambos son conjeturas sin evidencia firme.", "fuentes": ["moodynt_01_b#20", "kis1p_01_b#26"]},
-    {"titulo": "Circuncisión y bautismo", "texto": "Kistemaker menciona que algunos teólogos (Selwyn, Dalton) ven en la frase sobre quitar la suciedad del cuerpo una alusión a la circuncisión, y un vínculo entre circuncisión y bautismo como el de Col 2:11-12. Geisler y Howe, sin referirse a esa alusión, también comparan el bautismo con la circuncisión como señales de pacto.", "fuentes": ["kis1p_05_b#6", "r1_002#2"]},
-    {"titulo": "Detalles del texto griego", "texto": "Kistemaker explica que el pronombre del comienzo del v. 21 apunta a la oración anterior, y que se prefiere la lectura ὑμᾶς (“ustedes”) sobre ἡμᾶς (“nosotros”) por el apoyo de los manuscritos y del contexto; la RVR1960 dice «nos salva». También señala que, después de «Dios» en el v. 22, la Vulgata latina agrega una glosa (que Cristo devoró la muerte para que seamos herederos de la vida eterna), que según Metzger viene probablemente de una glosa griega y no forma parte del texto original.", "fuentes": ["kis1p_05_b#8", "kis1p_05_b#12"]},
-    {"titulo": "Noé y los demonios según MacArthur", "texto": "La Biblia MacArthur sostiene que el abismo está habitado por demonios atados desde los días de Noé, encarcelados por haber traspasado los límites de la tolerancia de Dios, y relaciona 1P 3:20 con 2P 2:4-5, Jd 6-7 y Gn 6:1-8. Kistemaker, desde otro ángulo, dice que los contemporáneos de Noé actuaban como agentes de espíritus demoníacos en su rebelión. Ambas ideas dependen de la lectura del v. 19 (ver día 16).", "fuentes": ["mbib1p_01_c#5", "kis1p_05_a#23"]}
+    {
+      "titulo": "El “sermón del arca”",
+      "texto": "Para MacArthur, el arca misma fue una lección visible del juicio que venía, y el hecho de que nadie respondiera a ese “sermón del arca”, fuera de la familia de Noé, revela la profundidad de la maldad de aquel tiempo (Gn 6:5). Kistemaker se permite una suposición que él mismo reconoce sin apoyo bíblico: entre los que se ahogaron habría muchos que ayudaron a construir el arca.",
+      "fuentes": [
+        "mac1p_07_a#8",
+        "kis1p_05_b#1"
+      ]
+    },
+    {
+      "titulo": "El calendario del diluvio",
+      "texto": "El Diccionario Mundo Hispano reconstruye el itinerario: una semana antes del diluvio Noé y su familia entraron al arca y Dios cerró la puerta (Gn 7:16); Noé tenía 600 años; las aguas crecieron durante 40 días, se mantuvieron 110 días sobre los montes y bajaron durante 221 días, hasta que Noé desembarcó en los montes de Ararat. Después Dios prometió no enviar otro diluvio universal, con la señal del arco iris (Gn 9:9-17).",
+      "fuentes": [
+        "dbmh_02_a#5"
+      ]
+    },
+    {
+      "titulo": "¿Una carta pascual y un pequeño catecismo?",
+      "texto": "Según el Comentario Moody, Selwyn señala que los primeros cristianos a menudo celebraban los bautismos en la Pascua, y que la mención del bautismo, junto con los sufrimientos, la resurrección y la venida de Cristo, sugiere que 1 Pedro fue escrita como carta pascual. Kistemaker, por su parte, recoge la propuesta de Dalton: los vv. 18 y 22 formarían un himno sobre Cristo, y los vv. 19-21 serían una inserción en prosa para enseñar sobre el bautismo. Ambos son conjeturas sin evidencia firme.",
+      "fuentes": [
+        "moodynt_01_b#20",
+        "kis1p_01_b#26"
+      ]
+    },
+    {
+      "titulo": "Circuncisión y bautismo",
+      "texto": "Kistemaker menciona que algunos teólogos (Selwyn, Dalton) ven en la frase sobre quitar la suciedad del cuerpo una alusión a la circuncisión, y un vínculo entre circuncisión y bautismo como el de Col 2:11-12. Geisler y Howe, sin referirse a esa alusión, también comparan el bautismo con la circuncisión como señales de pacto.",
+      "fuentes": [
+        "kis1p_05_b#6",
+        "r1_002#2"
+      ]
+    },
+    {
+      "titulo": "Detalles del texto griego",
+      "texto": "Kistemaker explica que el pronombre del comienzo del v. 21 apunta a la oración anterior, y que se prefiere la lectura ὑμᾶς (“ustedes”) sobre ἡμᾶς (“nosotros”) por el apoyo de los manuscritos y del contexto; la RVR1960 dice «nos salva». También señala que, después de «Dios» en el v. 22, la Vulgata latina agrega una glosa (que Cristo devoró la muerte para que seamos herederos de la vida eterna), que según Metzger viene probablemente de una glosa griega y no forma parte del texto original.",
+      "fuentes": [
+        "kis1p_05_b#8",
+        "kis1p_05_b#12"
+      ]
+    },
+    {
+      "titulo": "Noé y los demonios según MacArthur",
+      "texto": "La Biblia MacArthur sostiene que el abismo está habitado por demonios atados desde los días de Noé, encarcelados por haber traspasado los límites de la tolerancia de Dios, y relaciona 1P 3:20 con 2P 2:4-5, Jd 6-7 y Gn 6:1-8. Kistemaker, desde otro ángulo, dice que los contemporáneos de Noé actuaban como agentes de espíritus demoníacos en su rebelión. Ambas ideas dependen de la lectura del v. 19 (ver día 16).",
+      "fuentes": [
+        "mbib1p_01_c#5",
+        "kis1p_05_a#23"
+      ]
+    },
+    {
+      "titulo": "¿Con qué se corresponde el bautismo?",
+      "texto": "Kistemaker y el Comentario Moody (que prefiere una variante que lee “por la cual [agua]”) ven la correspondencia con el agua del diluvio; algunos comentaristas lo apoyan en que “antitipo” y “agua” tienen el mismo género en griego. MacArthur prefiere verla en la experiencia completa de Noé y su familia en el arca: Dios los preservó mientras el resto perecía.",
+      "fuentes": [
+        "kis1p_05_b#4",
+        "moodynt_01_b#19",
+        "mac1p_07_a#9"
+      ]
+    },
+    {
+      "titulo": "El arca: capacidad y resistencia",
+      "texto": "Sobre el arca donde se salvaron ocho personas, Geisler y Howe responden a objeciones sobre su capacidad y resistencia: la “especie” bíblica no es la moderna, el arca tenía el tamaño de un gran barco de tres pisos y su forma larga de caja es muy estable en aguas turbulentas.",
+      "fuentes": [
+        "r1_001#6"
+      ]
+    },
+    {
+      "titulo": "Un himno de Wesley",
+      "texto": "MacArthur cierra el pasaje con el himno de Charles Wesley “And Can It Be”: aun los ángeles no alcanzan a sondear un amor así. Cristo murió por seres humanos perdidos; los ángeles caídos solo oyeron la victoria, y los creyentes no solo miran ese triunfo: participan de él (2Co 2:14).",
+      "fuentes": [
+        "mac1p_07_a#20"
+      ]
+    }
   ]
 }

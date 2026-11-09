@@ -1,136 +1,759 @@
 {
-  "dia": 21, "libro": "1P", "desde": "1P 5:1", "hasta": "1P 5:4",
-  "titulo": "Apacentad la grey de Dios",
-  "minutos": {"lectura": 2, "estudio": 25},
-  "contexto": {
-    "antes": "Ayer Pedro preparó a los lectores para la prueba de fuego: sufrir como cristianos no es extraño, y quienes padecen según la voluntad de Dios encomiendan sus almas al fiel Creador haciendo el bien (1P 4:12-19). El v. 1 de hoy empieza en griego con una partícula que varias versiones traducen “por tanto” o “pues” y que lo enlaza con 4:19; la Reina-Valera no la trae porque falta en los manuscritos tardíos que usó Reina.",
-    "ahora": "Si la prueba viene sobre la casa de Dios, la iglesia necesita buenos pastores. Hasta acá Pedro habló sobre todo de lo que cada creyente debe hacer; ahora se dirige a los que tienen la responsabilidad de cuidar al grupo, porque la vida cristiana no se vive en aislamiento y más en tiempos de persecución nos necesitamos unos a otros.",
-    "donde": "Según Grudem, la carta va a docenas de iglesias esparcidas por cuatro provincias romanas de Asia Menor (Ponto y Bitinia eran una sola provincia), y Pedro da por sentado que todas tenían ancianos.",
-    "cuando": "Grudem la ubica hacia el año 62, más de treinta años después de Pentecostés.",
-    "despues": "Mañana (1P 5:5-7): «asimismo» los jóvenes, y todos revestidos de humildad, echando la ansiedad sobre Dios. Lo que hoy se pide a los ancianos se completa con la sumisión mutua de toda la iglesia.",
-    "fuentes": ["cbmh1p_02_c#17", "kis1p_06_b#5", "ncb1p_01_b#25", "mac1p_08_a#33", "r1_014_a#16", "cbmh1p_03#4"]
-  },
-  "versiculo_clave": {"ref": "1P 5:2-4", "porque": "En tres versículos está todo el oficio: qué hacer (pastorear la grey que es de Dios), con qué corazón (de buena gana, sin codicia, sin dominar, siendo ejemplo) y para quién (el Príncipe de los pastores, que vuelve con la corona)."},
-  "panorama": {
-    "texto": "Pedro termina su carta con un tono muy personal. Se dirige a los ancianos, los dirigentes de las iglesias locales, y no lo hace como jefe que ordena sino como colega que ruega: él también es anciano, fue testigo de los padecimientos de Cristo y espera compartir su gloria. Les encarga pastorear el rebaño, que no es de ellos sino de Dios, y les marca tres peligros con su contracara: servir por obligación o de buena gana, por ganancia o con entusiasmo, dominando o siendo ejemplo. Todo descansa en una certeza: el rebaño tiene un Pastor principal, Jesucristo, que va a aparecer y dará a sus pastores fieles una corona de gloria que no se marchita. Lo que se pide a los líderes ilumina también cómo se ejerce cualquier cuidado de otros, empezando por el hogar.",
-    "fuentes": ["kis1p_06_b#2", "ncb1p_01_b#25", "cbmh1p_03#3", "mbib1p_01_c#32", "kis1p_06_b#18", "mac1p_08_a#33"]
-  },
-  "secciones": [
-    {"rango": "1P 5:1", "titulo": "«Ruego a los ancianos»: quiénes eran", "notas": [
-      {"texto": "La palabra podría aludir a hermanos de edad, pero el contexto, sobre todo el verbo «apacentad», muestra que habla de dirigentes de la iglesia. Kistemaker hace notar que en griego va sin artículo, para destacar la función del oficio más que los años (la edad aparece recién en el v. 5, cuando habla de los jóvenes).", "fuentes": ["cbmh1p_02_c#18", "kis1p_06_b#3"], "tipo": "exegesis"},
-      {"texto": "El cargo tenía raíz en Israel: el Antiguo Testamento habla a menudo de los ancianos del pueblo, y en tiempos de Jesús cada sinagoga tenía ancianos que gobernaban y enseñaban. La iglesia de Jerusalén ya los tenía temprano (Hch 11:30; 15:2), y los apóstoles los establecían en cada iglesia nueva (Hch 14:23) y encargaban a sus colaboradores hacer lo mismo (Tit 1:5).", "fuentes": ["mac1p_08_a#36", "ncb1p_01_b#26", "kis1p_06_b#3", "mac1p_08_a#34"], "tipo": "contexto"},
-      {"texto": "Sus tareas, resumidas por Kistemaker: cuidar espiritualmente enseñando y predicando, proteger la pureza de la fe advirtiendo contra las falsas doctrinas, y promover la paz y el orden dando ejemplo en sus propios hogares. Los requisitos están en 1Ti 3:2-7 y Tit 1:5-9.", "fuentes": ["kis1p_06_b#3", "mac1p_08_a#34"], "tipo": "doctrina"},
-      {"texto": "Los autores coinciden en que, en el Nuevo Testamento, «anciano», «obispo» (supervisor) y «pastor» nombran a las mismas personas desde ángulos distintos: anciano subraya la madurez y el consejo; obispo, la supervisión; pastor, el alimento y el cuidado del rebaño. En este mismo pasaje aparecen juntos los tres: ancianos (v. 1), «apacentad» y «cuidando», que en griego es el verbo de la supervisión (v. 2). Qué consecuencias tiene esto para el gobierno de la iglesia, ver Interpretaciones.", "fuentes": ["cbmh1p_02_c#18", "ncb1p_01_b#26", "mac1p_08_a#35", "mbib1p_01_c#31", "r1_004#18"], "tipo": "doctrina"},
-      {"texto": "¿Por qué hablarles justo ahora? Porque la prueba que venía exigía un liderazgo adecuado. MacArthur lo explica con la imagen misma: las ovejas se extravían y no saben volver, comen lo que las enferma y son indefensas ante los depredadores; los creyentes tienden a lo mismo, y bajo persecución necesitan todavía más pastores fieles.", "fuentes": ["ncb1p_01_b#25", "mac1p_08_a#32", "mac1p_08_a#33", "mbib1p_01_c#31"], "tipo": "contexto"}
-    ]},
-    {"rango": "1P 5:1", "titulo": "«Yo anciano también con ellos»", "notas": [
-      {"texto": "Pedro, que en 1:1 se presentó como apóstol, ahora se pone al lado de los ancianos: literalmente se llama “el copresbítero”, expresión que no aparece en ningún otro lugar del Nuevo Testamento. No se ubica por encima sino junto a ellos; por eso no ordena: ruega, exhorta. Quería resaltar su afinidad con aquellos a quienes hablaba, como alguien que conocía por dentro los desafíos del pastorado desde que Jesús le encargó sus ovejas (Jn 21:15-17).", "fuentes": ["cbmh1p_02_c#19", "kis1p_06_b#4", "ncb1p_01_b#26", "mac1p_08_a#41", "mhenry_01_b#10"], "tipo": "personaje"},
-      {"texto": "Nicholson, Henry, McConnell y Wiersbe sacan la misma conclusión: no hay en este versículo exaltación ni pretensión de primacía; Pedro no reclama poder de gobierno sobre todos los pastores e iglesias ni se presenta como Papa. Habla de sí con modestia, como hermano y colega de ministerio.", "fuentes": ["bea1p_02#13", "mhenry_01_b#10", "cbmh1p_02_c#19", "r1_005#13", "mbib1p_01_c#32"], "tipo": "apologetica"},
-      {"texto": "MacArthur observa además que «ancianos» va siempre en plural en el Nuevo Testamento cuando se refiere a este ministerio; el singular aparece en casos como este, cuando Pedro habla de sí mismo, o cuando Juan se llama «el anciano» (2J 1; 3J 1).", "fuentes": ["mac1p_08_a#37", "mbib1p_01_c#31"], "tipo": "exegesis"}
-    ]},
-    {"rango": "1P 5:1", "titulo": "Testigo de los padecimientos, participante de la gloria", "notas": [
-      {"texto": "Pedro agrega dos credenciales. La primera: es «testigo de los padecimientos de Cristo». La palabra tiene doble sentido: quien vio algo con sus propios ojos y quien da testimonio de lo que vio. Pedro estuvo en la agonía del huerto, vio el arresto, el juicio ante el sumo sacerdote y la comparecencia ante Pilato, y durante años predicó lo que había visto. Que los evangelios no lo ubiquen al pie de la cruz no quita que viera mucho de esos sufrimientos (ver Interpretaciones).", "fuentes": ["mac1p_08_a#42", "kis1p_06_b#6", "ncb1p_01_b#26", "cbmh1p_02_c#19"], "tipo": "exegesis"},
-      {"texto": "Henry hace una distinción preciosa: haber sido testigo de los sufrimientos de Cristo fue honra de Pedro y de unos pocos; pero participar de la gloria que será revelada es privilegio de todo verdadero creyente. Por eso la segunda credencial no lo separa de los lectores, los une.", "fuentes": ["mhenry_01_b#10"], "tipo": "doctrina"},
-      {"texto": "Pedro ya había vislumbrado esa gloria en el monte de la transfiguración (2P 1:16-18), y esa experiencia hacía su expectativa mucho más viva. Kistemaker añade que, aunque la frase mira al futuro, el creyente ya comparte en parte esa gloria, porque el Espíritu de gloria reposa sobre él (4:14); la plenitud llegará cuando Cristo se manifieste.", "fuentes": ["mbib1p_01_c#32", "mac1p_08_b#1", "kis1p_06_b#7", "cbmh1p_02_c#19"], "tipo": "doctrina"},
-      {"texto": "Así Pedro motiva a los ancianos por tres caminos: se identifica con ellos como colega, habla con la autoridad de testigo ocular y les pone delante la esperanza de la recompensa. Sufrimiento primero, gloria después: el mismo orden de toda la carta (1:11; 4:13).", "fuentes": ["mbib1p_01_c#32", "mac1p_08_a#43", "kis1p_06_b#6"], "tipo": "estructura"}
-    ]},
-    {"rango": "1P 5:2", "titulo": "«Apacentad la grey de Dios»", "notas": [
-      {"texto": "El mandato es una sola palabra: pastoreen. Es más que dar de comer: incluye cuidar, guiar, proteger y llevar al redil. Nicholson lo resume en tres deberes: proveer pasto, mostrar el camino al pasto y proteger en el camino. Por eso el pastoreo es más que predicar, aunque alimentar con la Palabra es su centro: todo anciano debe ser apto para enseñar, y la tarea no es decirle a la gente lo que quiere oír sino nutrirla con alimento sólido.", "fuentes": ["cbmh1p_03#2", "bea1p_02#14", "mac1p_08_a#39", "mbib1p_01_c#33"], "tipo": "exegesis"},
-      {"texto": "La orden suena a la que Pedro mismo recibió cuando Jesús resucitado lo restauró y le encargó sus ovejas (Jn 21:15-17). El Comentario Moody sugiere que quizá de ahí nació la costumbre de llamar pastores a los ancianos.", "fuentes": ["kis1p_06_b#10", "moodynt_01_c#2", "ncb1p_01_b#27", "mac1p_08_a#39"], "tipo": "conexion"},
-      {"texto": "Lo decisivo es de quién es el rebaño: «la grey de Dios». No es de los ancianos. La porción que cuidan sigue siendo de Dios aunque esté a su cargo; pastorear es una mayordomía, y la más seria, porque Cristo compró ese rebaño con su propia sangre (1P 1:18-19; Hch 20:28). Henry lo dice con ternura: esos cristianos pobres, dispersos y sufridos eran la grey de Dios.", "fuentes": ["cbmh1p_03#2", "mac1p_08_b#2", "mbib1p_01_c#33", "mhenry_01_b#11"], "tipo": "doctrina"},
-      {"texto": "La palabra para «grey» es un diminutivo cariñoso: algo así como “el rebañito”. Lenski, citado por MacArthur, dice que las palabras de Pedro son parcas pero rebosan ternura: ovejas mansas, indefensas, propensas a extraviarse, felices bajo el cuidado del pastor.", "fuentes": ["kis1p_06_b#10", "mac1p_08_b#3"], "tipo": "griego"},
-      {"texto": "«Cuidando de ella» traduce el verbo de la supervisión: vigilar, tener cobertura sobre el rebaño para conocer su estado y así guiarlo, protegerlo y alimentarlo. Algunos manuscritos importantes no lo traen; el Nuevo Comentario Bíblico concluye que nada se pierde con omitirlo, porque la idea ya está en el pastoreo.", "fuentes": ["mac1p_08_b#4", "kis1p_06_b#17", "ncb1p_01_b#27"], "tipo": "griego"}
-    ]},
-    {"rango": "1P 5:2", "titulo": "De buena gana y sin codicia", "notas": [
-      {"texto": "Pedro arma tres pares: lo que no y lo que sí. El primero: «no por fuerza, sino voluntariamente». Por fuerza es servir como obligado, sea por un falso sentimiento de indignidad, por desgano o por no querer hacer más que lo justo. La obra no es para conscriptos sino para voluntarios: Dios quiere al dador alegre (2Co 9:7). Cuando el corazón está lleno de Cristo y de amor a las almas, hay tanta compulsión interior que no hace falta presión de afuera (1Co 9:16).", "fuentes": ["ncb1p_01_b#25", "cbmh1p_03#3", "kis1p_06_b#11", "mac1p_08_b#6", "mbib1p_01_c#34"], "tipo": "exegesis"},
-      {"texto": "Detrás del primer par, la Biblia MacArthur ve un peligro concreto: la pereza. Y recuerda que el pastor rendirá cuentas (He 13:17). Algunos manuscritos agregan “según Dios” o “como Dios quiere”: servir como Dios lo haría, el Pastor de 2:25.", "fuentes": ["mbib1p_01_c#34", "mac1p_08_b#6", "moodynt_01_c#2", "ncb1p_01_b#27"], "tipo": "aplicacion"},
-      {"texto": "El segundo: «no por ganancia deshonesta, sino con ánimo pronto». Todos los autores aclaran que Pedro no prohíbe el sostén del pastor: el obrero es digno de su salario (Lc 10:7), los que anuncian el evangelio pueden vivir de él (1Co 9:14) y los ancianos que gobiernan bien merecen doble honor (1Ti 5:17-18). Kistemaker cita a Selwyn: lo prohibido no es desear una remuneración adecuada sino la ambición sórdida de ganancia. Nicholson cita a Williams: un amor de fondo por el dinero descalifica.", "fuentes": ["kis1p_06_b#12", "mac1p_08_b#7", "mbib1p_01_c#34", "cbmh1p_03#3", "bea1p_02#14", "ncb1p_01_b#25"], "tipo": "doctrina"},
-      {"texto": "La ganancia deshonesta no es solo dinero mal habido: Wiersbe y el Nuevo Comentario Bíblico la extienden al prestigio, el poder, la reputación y la promoción. Y es el sello de los falsos maestros, que por avaricia hacen mercadería de los creyentes (2P 2:3). Lo opuesto es servir «con ánimo pronto»: con entusiasmo, de manera libre, por el privilegio del llamado.", "fuentes": ["r1_007_a#1", "ncb1p_01_b#25", "mac1p_08_b#8", "mac1p_08_b#9", "mbib1p_01_c#34"], "tipo": "aplicacion"}
-    ]},
-    {"rango": "1P 5:3", "titulo": "No señores, sino ejemplos", "notas": [
-      {"texto": "El tercer par: «no como teniendo señorío… sino siendo ejemplos de la grey». El verbo griego es intensivo: dominar con fuerza, de manera autocrática y despreciativa, con manipulación e intimidación. Es exactamente lo que Jesús describió como el modo de los gobernantes de este mundo y prohibió entre los suyos (Mr 10:42; Mt 20:25). MacArthur y Nicholson dan un caso concreto: Diótrefes (3J 9-10).", "fuentes": ["kis1p_06_b#13", "mac1p_08_b#10", "mbib1p_01_c#35", "cbmh1p_03#3", "ncb1p_01_b#25", "bea1p_02#14"], "tipo": "exegesis"},
-      {"texto": "La autoridad de los ancianos es real, pero delegada: la reciben del Pastor principal por el Espíritu (Hch 20:28), y por eso no pueden abusar de ella. Pablo tampoco se enseñoreaba de la fe de los corintios (2Co 1:24). Los pastores dirigen, pero no dominan.", "fuentes": ["kis1p_06_b#13", "cbmh1p_03#3"], "tipo": "doctrina"},
-      {"texto": "«Los que están a vuestro cuidado» es una sola palabra griega, plural de la que significa “porción” o “lote”: lo que se reparte por suerte, como Josué repartió la tierra (Jos 14:2) o como Matías fue elegido (Hch 1:26). Cada anciano tiene una porción del rebaño asignada, pero sigue siendo de Dios. Los pastores no eligen ni su responsabilidad ni a las personas de las que van a responder: el Señor se las confía.", "fuentes": ["cbmh1p_03#5", "kis1p_06_b#14", "mac1p_08_b#12", "ncb1p_01_b#27", "r1_007_a#1"], "tipo": "griego"},
-      {"texto": "Lo positivo es ser «ejemplos», modelos que se pueden copiar. Para MacArthur, el poder de una vida ejemplar es lo más importante del liderazgo espiritual y su mejor prueba. Kistemaker pide que en el anciano las palabras y los hechos sean sinónimos; McConnell, que la primera manera de enseñar es por lo que somos. Wiersbe lo resume: el pastor no exige respeto, se lo gana con vida piadosa y servicio sacrificado.", "fuentes": ["ncb1p_01_b#27", "mac1p_08_b#5", "kis1p_06_b#15", "cbmh1p_03#3", "r1_007_a#1"], "tipo": "aplicacion"}
-    ]},
-    {"rango": "1P 5:4", "titulo": "El Príncipe de los pastores y la corona que no se marchita", "notas": [
-      {"texto": "El título «Príncipe de los pastores» (Pastor principal, Pastor supremo) aparece solo aquí en el Nuevo Testamento. Todo lo anterior cambia de luz: los ancianos son pastores subordinados, responden a Otro, y él es el verdadero Dueño del rebaño. Nicholson lo dice en una frase: el pastor no debe olvidar que no es el Príncipe de los pastores.", "fuentes": ["kis1p_06_b#18", "cbmh1p_03#5", "bea1p_02#14", "r1_014_a#17"], "tipo": "cristo"},
-      {"texto": "«Cuando aparezca»: hasta acá Pedro habló de la venida como “revelación”; el verbo de ahora subraya la consecuencia: Jesús será visible a todos en su gloria. Se refiere a su segunda venida, la misma gloria del v. 1.", "fuentes": ["ncb1p_01_b#28", "mac1p_08_b#14"], "tipo": "exegesis"},
-      {"texto": "En el mundo grecorromano los vencedores de los juegos no recibían trofeos sino coronas de laurel o de olivo que pronto se secaban (1Co 9:24-25). La de los pastores fieles es otra cosa: no la corona del rey sino la del vencedor, pero inmarcesible. La palabra griega viene de la amaranta, una flor que se tenía por inmarchitable y era símbolo de inmortalidad.", "fuentes": ["mac1p_08_b#14", "cbmh1p_03#5", "kis1p_06_b#19", "ncb1p_01_b#28", "mbib1p_01_c#36"], "tipo": "cultura"},
-      {"texto": "«Corona … de gloria» quiere decir, según varios autores, la corona que consiste en la gloria misma: no un adorno eterno sino participar de la gloria y el honor de Cristo. Va en la línea de la corona de vida (Stg 1:12), de justicia (2Ti 4:8) y de gozo (1Ts 2:19), todas facetas de la vida eterna.", "fuentes": ["mac1p_08_b#15", "mbib1p_01_c#36", "ncb1p_01_b#28", "bea1p_02#15", "kis1p_06_b#19"], "tipo": "doctrina"},
-      {"texto": "La paga terrenal de un líder de iglesia puede ser poca, pero la recompensa no se pierde (1:4-5). Henry la llama infinitamente mejor que toda autoridad, riqueza y placer del mundo: justo las tres tentaciones de los vv. 2-3. MacArthur agrega la otra cara: el maestro rendirá cuentas con mayor rigor (Stg 3:1), no para desanimar a los llamados sino para recordar la seriedad del encargo.", "fuentes": ["bea1p_02#15", "mhenry_01_b#11", "mac1p_08_b#16"], "tipo": "aplicacion"}
-    ]}
-  ],
-  "palabras": [
-    {"ref": "1P 5:1", "griego": "συμπρεσβύτερος", "translit": "sympresbýteros", "significado": "copresbítero, anciano junto con ellos. Un solo artículo une “copresbítero” y “testigo”, y el prefijo “con” vale para ambos: Pedro es colega, no superior.", "fuentes": ["cbmh1p_02_c#19", "kis1p_06_b#9"]},
-    {"ref": "1P 5:1", "griego": "μάρτυς", "translit": "mártys", "significado": "testigo: quien vio y quien da testimonio. Como a muchos testigos los mataron, terminó dando nuestra palabra “mártir”.", "fuentes": ["mac1p_08_a#42", "moodynt_01_c#1", "cbmh1p_02_c#19"]},
-    {"ref": "1P 5:1", "griego": "κοινωνός", "translit": "koinōnós", "significado": "participante, compañero: el que tiene parte en algo junto con otros.", "fuentes": ["mac1p_08_a#43"]},
-    {"ref": "1P 5:2", "griego": "ποιμάνατε", "translit": "poimánate", "significado": "“pastoreen”, del verbo ποιμαίνω: actuar como pastor en todo sentido (cuidar, guiar, proteger), no solo dar de comer. Es el mismo verbo que se usa para los ancianos en Hch 20:28.", "fuentes": ["r1_014_a#17", "cbmh1p_03#2", "mac1p_08_a#39"]},
-    {"ref": "1P 5:2", "griego": "ποίμνιον", "translit": "poímnion", "significado": "rebaño, en diminutivo afectuoso.", "fuentes": ["mac1p_08_b#3", "kis1p_06_b#10"]},
-    {"ref": "1P 5:2", "griego": "προθύμως", "translit": "prothýmōs", "significado": "con ánimo pronto: de manera voluntaria, libre y entusiasta.", "fuentes": ["mac1p_08_b#9"]},
-    {"ref": "1P 5:3", "griego": "κατακυριεύοντες", "translit": "katakyrieúontes", "significado": "dominando con fuerza; verbo compuesto intensivo, el mismo que Jesús usó para los gobernantes que se enseñorean.", "fuentes": ["mac1p_08_b#10", "kis1p_06_b#17", "cbmh1p_03#3"]},
-    {"ref": "1P 5:3", "griego": "κλήρων", "translit": "klḗrōn", "significado": "las porciones asignadas: la parte del rebaño confiada a cada anciano. De esta raíz viene “clero”.", "fuentes": ["ncb1p_01_b#27", "kis1p_06_b#14", "mac1p_08_b#12"]},
-    {"ref": "1P 5:4", "griego": "ἀμαράντινον", "translit": "amarántinon", "significado": "de amaranto, la flor que se creía inmarchitable: una corona que no se marchita.", "fuentes": ["ncb1p_01_b#28", "mbib1p_01_c#36", "kis1p_06_b#20"]}
-  ],
-  "cristo": [
-    {"texto": "Jesús es el Príncipe de los pastores. El Antiguo Testamento ya presentaba al Mesías como pastor, Juan lo llama el buen pastor que da su vida por las ovejas, Hebreos el gran pastor, y Pedro mismo, poco antes, el Pastor y Obispo de las almas. Todo pastor humano trabaja bajo él y para él.", "refs": ["Jn 10:11", "He 13:20", "1P 2:25", "Zac 13:7"], "fuentes": ["mac1p_08_b#13", "kis1p_06_b#18", "r1_004#20"]},
-    {"texto": "El rebaño es precioso porque fue comprado con su sangre: el valor de cada oveja lo fija el precio que pagó el Pastor.", "refs": ["1P 1:18-19", "Hch 20:28"], "fuentes": ["mac1p_08_b#2", "kis1p_06_b#10"]},
-    {"texto": "La regla para todo liderazgo cristiano la dio Jesús: el que quiera ser grande será servidor, porque el Hijo del Hombre no vino para ser servido sino para servir y dar su vida en rescate por muchos.", "refs": ["Mt 20:25-28"], "fuentes": ["mac1p_08_b#11", "mbib1p_01_c#35"]},
-    {"texto": "Kistemaker señala el contraste: Jesús llevó la corona de espinas para que los suyos lleven la corona de gloria. La humillación fue suya; la guirnalda que no se marchita es para ellos.", "refs": ["Mr 15:17", "Jn 19:2"], "fuentes": ["kis1p_06_b#19"]}
-  ],
-  "interpretaciones": [
-    {"tema": "«Testigo de los padecimientos»: ¿testigo ocular o en sentido amplio?", "posturas": [
-      {"postura": "Sentido literal: Pedro vio con sus ojos el huerto, el arresto y los juicios, y esto encaja con el requisito de apostolado que él mismo formuló al elegir a Matías (Hch 1:21-22). Es una marca de que el autor es Pedro.", "quien": "Kistemaker; el Nuevo Comentario Bíblico; MacArthur", "fuentes": ["kis1p_06_b#6", "ncb1p_01_b#26", "mac1p_08_a#42"]},
-      {"postura": "Solo sentido figurado: “testigo” sería quien proclama, como todo creyente; desde esa lectura se niega que Pedro sea el autor.", "quien": "Beare y Best, según los presenta Kistemaker (que los refuta)", "fuentes": ["kis1p_06_b#6"]}
-    ], "nota": "Ambos sentidos de la palabra (ver y proclamar) existen; las fuentes de la biblioteca sostienen que en Pedro se dan los dos. El tema de la autoría de 2 Pedro, más discutido, se trata en su propio día."},
-    {"tema": "Anciano, obispo y pastor, y cuántos ancianos por iglesia", "posturas": [
-      {"postura": "Anciano, obispo y pastor son un mismo oficio, y el patrón del Nuevo Testamento es una pluralidad de ancianos en cada iglesia; ningún texto sugiere una iglesia con un solo anciano. La pluralidad protege del error, del desequilibrio y del vacío cuando un líder se va. El obispo que preside sobre varios ancianos aparece recién en el siglo II.", "quien": "MacArthur (citando a Lightfoot); Grudem, que rechaza por falta de evidencia la idea de un solo anciano por iglesia de casa", "fuentes": ["mac1p_08_a#37", "mac1p_08_a#38", "r1_004#18", "r1_014_a#16"]},
-      {"postura": "Los términos se intercambian en varios pasajes, pero con un matiz: “presbítero” indica el estado de ser anciano y “obispo” la función de al menos algunos ancianos.", "quien": "Wallace, citado por Kistemaker", "fuentes": ["kis1p_06_b#4"]},
-      {"postura": "Las “porciones” del v. 3 serían pequeños rebaños bajo distintos ancianos; el Nuevo Testamento no sugiere que todas las iglesias de una ciudad formaran una sola, y puede haber unidad espiritual sin uniformidad denominacional.", "quien": "Wiersbe", "fuentes": ["r1_007_a#1"]}
-    ], "nota": "Todos coinciden en lo central: los ancianos pastorean, enseñan y cuidan, bajo Cristo, sin dominar. Lo que varía es cuánto se deduce de este pasaje sobre la forma concreta de gobierno."},
-    {"tema": "¿Cuándo se entrega la corona?", "posturas": [
-      {"postura": "En la segunda venida, cuando Cristo evalúe en su tribunal el ministerio de los pastores; la plenitud de la corona estará en proporción al servicio fiel.", "quien": "Biblia MacArthur; MacArthur", "fuentes": ["mbib1p_01_c#36", "mac1p_08_b#16"]},
-      {"postura": "El juicio de las obras de los creyentes busca la recompensa, no el castigo, y aunque ningún pasaje fija el momento, sería anterior a la Segunda Venida y distinto de sus juicios.", "quien": "Walvoord, en La cuestión del rapto (dispensacional, pretribulacional)", "fuentes": ["r4b_001#10"]}
-    ], "nota": "Todos esperan la corona de manos de Cristo cuando él aparezca; la diferencia depende de cómo se ordenan los acontecimientos finales (ver anexo T4)."}
-  ],
-  "antiguo_testamento": [
-    {"ref": "Sal 78:70-72", "nota": "El Nuevo Comentario Bíblico remite a este salmo para mostrar que «apacentad» es una metáfora pastoral con raíces en el Antiguo Testamento: guiar y alimentar al pueblo de Dios.", "fuentes": ["ncb1p_01_b#27", "ncb1p_01_b#25"]},
-    {"ref": "Ez 34:2-16", "nota": "Cada vez que los pastores de Israel fallaban en alimentar y cuidar al pueblo, Dios los reprendía por los profetas; con Jer 23:1-4, es el trasfondo de los peligros que Pedro marca. Kistemaker usa Ez 34:4 para mostrar lo contrario del dominio: fortalecer, sanar, vendar.", "fuentes": ["mac1p_08_a#40", "kis1p_06_b#13"]},
-    {"ref": "Zac 13:7", "nota": "El Mesías como pastor; Jesús tomó esta figura del Antiguo Testamento (con Sal 23:1; Is 63:11; Jer 31:10) y la aplicó a sí mismo.", "fuentes": ["kis1p_06_b#10", "mac1p_08_b#13"]},
-    {"ref": "Nm 11:16-25", "nota": "Los setenta ancianos que ayudaron a Moisés: probable precedente judío del orden de ancianos en la iglesia.", "fuentes": ["ncb1p_01_b#26"]}
-  ],
-  "biblioteca": [
-    {"texto": "Los cinco términos del oficio en el Nuevo Testamento: anciano (dirección espiritual), obispo (guía y cuidado), pastor (liderazgo y provisión), predicador (proclamar) y maestro (exponer las Escrituras). Sostiene que 1Ti 5:17 y He 13:7 no dan base para separar el gobernar del enseñar.", "autor": "John MacArthur", "obra": "El ministerio pastoral", "pagina": "PDF 51", "tipo": "doctrina", "fuentes": ["r1_004#19"]},
-    {"texto": "Comentando Mt 16, afirma que Pedro jamás reclamó ser Papa (remite a 1P 5:1-4) y que las llaves indican mayordomía, no señorío: Pedro abrió la puerta de la fe a judíos, samaritanos y gentiles; las llaves de la muerte las tiene Cristo.", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 224", "tipo": "apologetica", "fuentes": ["r1_005#13"]},
-    {"texto": "La gloria humana pasa (atletas, belleza, logros); la gloria celestial solo se vio por momentos: los pastores de Belén, la transfiguración, Pablo camino a Damasco, Juan en Patmos. En 1 Pedro la palabra gloria aparece diez veces, y la del creyente es duradera.", "autor": "Simon J. Kistemaker", "obra": "1 Pedro", "pagina": "PDF 160", "tipo": "ilustracion", "fuentes": ["kis1p_06_b#8"]},
-    {"texto": "La palabra que Pedro usa para los confiados a los ancianos (las “porciones”) dio “clérigo”; con los siglos pasó a designar a los ordenados, y el resto quedó como “laicado”. La ironía: el término de Pedro para el rebaño terminó siendo rótulo de los pastores.", "autor": "Simon J. Kistemaker", "obra": "1 Pedro", "pagina": "PDF 163", "tipo": "historia", "fuentes": ["kis1p_06_b#16"]},
-    {"texto": "Un recuadro sobre la brecha generacional: la tensión entre jóvenes y mayores tiende a dividir la comunión, y Pedro anima a ver que se complementan cuando ambos se someten al señorío de Cristo, dejando orgullo y prejuicio.", "autor": "Cecilio McConnell (recuadro de Palomino)", "obra": "Comentario Bíblico Mundo Hispano: 1 Pedro", "pagina": "PDF 272", "tipo": "aplicacion", "fuentes": ["cbmh1p_03#1"]}
-  ],
-  "conexiones": [
-    {"ref": "Hch 20:17-35", "nota": "El paralelo más cercano: Pablo reúne a los ancianos de Éfeso, los llama obispos, les manda pastorear la iglesia comprada con sangre, los alerta contra los lobos y les recuerda que trabajó con sus manos, porque es más bienaventurado dar que recibir.", "fuentes": ["ncb1p_01_b#26", "kis1p_06_b#10", "mac1p_08_b#7"]},
-    {"ref": "Jn 21:15-17", "nota": "Jesús restaura a Pedro y le encarga sus corderos y ovejas; hoy Pedro pasa ese encargo a otros.", "fuentes": ["kis1p_06_b#10", "mac1p_08_a#39", "moodynt_01_c#2"]},
-    {"ref": "Jn 10:1-16", "nota": "La parábola del buen pastor, que Pedro sin duda oyó, está detrás del «Príncipe de los pastores».", "fuentes": ["moodynt_01_c#2", "mac1p_08_b#13"]},
-    {"ref": "1Ti 3:1-7", "nota": "Los requisitos del anciano (con Tit 1:5-9): entre ellos, no codicioso de ganancias deshonestas y apto para enseñar.", "fuentes": ["mac1p_08_a#34", "kis1p_06_b#12", "mbib1p_01_c#33"]},
-    {"ref": "3J 9-10", "nota": "Diótrefes, el contraejemplo del anciano que se enseñorea.", "fuentes": ["bea1p_02#14", "mac1p_08_b#10"]}
-  ],
-  "para_vivir": [
-    {"texto": "Si alguno de ustedes sirve en la iglesia (enseñando, coordinando, cuidando chicos o matrimonios), revisen juntos las tres preguntas de Pedro: ¿lo hago de buena gana o por obligación?, ¿busco algo para mí (dinero, reconocimiento, influencia)?, ¿guío con el ejemplo o con presión? Ninguna se responde de una vez para siempre.", "fuentes": ["mbib1p_01_c#35", "r1_007_a#1", "cbmh1p_03#3"]},
-    {"texto": "Las personas que tienen a cargo, en la iglesia o en casa, no son suyas: son una porción que el Señor les confió y de la que van a dar cuenta. Eso quita el aire de propiedad y pone cuidado, ternura y responsabilidad.", "fuentes": ["cbmh1p_03#5", "mac1p_08_b#12", "kis1p_06_b#14"]},
-    {"texto": "Oren por sus pastores y ancianos, y ayúdenlos. El cuidado bíblico incluye su sostén digno, y la pluralidad de líderes es una protección para ellos y para la iglesia.", "fuentes": ["mac1p_08_b#7", "mac1p_08_a#38"]},
-    {"texto": "Cuando el servicio no se ve o no se agradece, recuerden la corona que no se marchita: el Príncipe de los pastores ve y va a aparecer.", "fuentes": ["bea1p_02#15", "mac1p_08_b#16"]}
-  ],
-  "para_conversar": [
-    "Pedro pudo hablar como apóstol y eligió hablar como colega. ¿En qué situaciones nos cuesta más a nosotros pedir en vez de imponer?",
-    "De los tres peligros (servir por obligación, por ganancia o dominando), ¿cuál reconocemos más en nosotros, en la iglesia o en el hogar?",
-    "¿Qué cambia en nuestra manera de cuidar a otros saber que son «la grey de Dios» y no nuestra?"
-  ],
-  "para_orar": "Señor Jesús, Príncipe de los pastores, gracias por buscarnos, comprarnos con tu sangre y cuidarnos. Danos a nosotros y a quienes nos guían un corazón dispuesto, libre de codicia y de ganas de dominar, para servir con el ejemplo; y que la esperanza de verte aparecer nos sostenga cuando el servicio cueste.",
-  "visuales": ["dg-estructura-1p"],
-  "anexos": ["T6", "T4"],
-  "profundizar": [
-    {"titulo": "La partícula que falta en la Reina-Valera", "texto": "El v. 1 empieza en griego con una partícula (“por tanto”, “pues”) que no está en los manuscritos tardíos que usó Casiodoro de Reina, y por eso falta en la Biblia del Oso (1569) y sus revisiones. La Versión Moderna y la Biblia de las Américas la traducen, con razón según McConnell. Algunas versiones inglesas siguen la variante que la omite. Si se lee, une los deberes de los ancianos con el llamado de 4:19 a encomendarse a Dios haciendo el bien.", "fuentes": ["cbmh1p_02_c#17", "kis1p_06_b#5"]},
-    {"titulo": "Una gloria que se va desplegando", "texto": "Kistemaker observa que en el v. 1 el verbo «será revelada» está en presente continuo, con Dios como agente implícito: la revelación de la gloria no sería un único acontecimiento sino un despliegue ininterrumpido, y el tiempo hasta ella es breve. En cambio, el «aparezca» del v. 4 está en aoristo: un acto puntual.", "fuentes": ["kis1p_06_b#7", "kis1p_06_b#9", "kis1p_06_b#20"]},
-    {"titulo": "Por qué ovejas", "texto": "MacArthur abre su comentario de este pasaje citando a W. Phillip Keller (A Shepherd Looks at Psalm 23): no es por accidente que Dios nos haya elegido como ovejas. Las ovejas necesitan atención sin fin y cuidado meticuloso: hay que llevarlas a aguas tranquilas porque no beben de las agitadas (Sal 23:2), limpiarlas y esquilarlas para que no enfermen, y defenderlas, porque solo saben huir con pánico. Jesús vio así a las multitudes (Mt 9:36).", "fuentes": ["mac1p_08_a#31", "mac1p_08_a#32"]},
-    {"titulo": "Pedro a los ancianos, y luego a los jóvenes", "texto": "El bosquejo del Comentario Mundo Hispano une los vv. 1-5: a los ancianos, apacentar con ternura voluntaria, sin avaricia ni manipulación, como siervos y ejemplos, mirando la recompensa; a los jóvenes, el «asimismo» del v. 5 no crea una jerarquía sino una sumisión mutua, todos revestidos de humildad (Pr 3:34). Lo veremos mañana.", "fuentes": ["cbmh1p_03#4"]}
+ "dia": 21,
+ "libro": "1P",
+ "desde": "1P 5:1",
+ "hasta": "1P 5:4",
+ "titulo": "Apacentad la grey de Dios",
+ "minutos": {
+  "lectura": 2,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "Ayer Pedro preparó a los lectores para la prueba de fuego: sufrir como cristianos no es extraño, y quienes padecen según la voluntad de Dios encomiendan sus almas al fiel Creador haciendo el bien (1P 4:12-19). En griego, el v. 1 de hoy empieza con un “por tanto” que lo enlaza con 4:19 (ver Profundizar).",
+  "ahora": "Si la prueba viene sobre la casa de Dios, la iglesia necesita buenos pastores. Hasta acá Pedro habló sobre todo de lo que cada creyente debe hacer; ahora se dirige a los que tienen la responsabilidad de cuidar al grupo, porque la vida cristiana no se vive en aislamiento y más en tiempos de persecución nos necesitamos unos a otros.",
+  "donde": "Según Grudem, la carta va a docenas de iglesias esparcidas por cuatro provincias romanas de Asia Menor (Ponto y Bitinia eran una sola provincia), y Pedro da por sentado que todas tenían ancianos.",
+  "cuando": "Grudem la ubica hacia el año 62, más de treinta años después de Pentecostés.",
+  "despues": "Mañana (1P 5:5-7): «asimismo» los jóvenes, y todos revestidos de humildad, echando la ansiedad sobre Dios. Lo que hoy se pide a los ancianos se completa con la sumisión mutua de toda la iglesia.",
+  "fuentes": [
+   "cbmh1p_02_c#17",
+   "kis1p_06_b#5",
+   "ncb1p_01_b#25",
+   "mac1p_08_a#33",
+   "r1_014_a#16",
+   "cbmh1p_03#4"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "1P 5:2-4",
+  "porque": "En tres versículos está todo el oficio: qué hacer (pastorear la grey que es de Dios), con qué corazón (de buena gana, sin codicia, sin dominar, siendo ejemplo) y para quién (el Príncipe de los pastores, que vuelve con la corona)."
+ },
+ "panorama": {
+  "texto": "Pedro termina su carta con un tono muy personal. Se dirige a los ancianos, los dirigentes de las iglesias locales, y no lo hace como jefe que ordena sino como colega que ruega: él también es anciano, fue testigo de los padecimientos de Cristo y espera compartir su gloria. Les encarga pastorear el rebaño, que no es de ellos sino de Dios, y les marca tres peligros con su contracara: servir por obligación o de buena gana, por ganancia o con entusiasmo, dominando o siendo ejemplo. Todo descansa en una certeza: el rebaño tiene un Pastor principal, Jesucristo, que va a aparecer y dará a sus pastores fieles una corona de gloria que no se marchita. Lo que se pide a los líderes ilumina también cómo se ejerce cualquier cuidado de otros, empezando por el hogar.",
+  "fuentes": [
+   "kis1p_06_b#2",
+   "ncb1p_01_b#25",
+   "cbmh1p_03#3",
+   "mbib1p_01_c#32",
+   "kis1p_06_b#18",
+   "mac1p_08_a#33"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "1P 5:1",
+   "titulo": "«Ruego a los ancianos»: quiénes eran",
+   "notas": [
+    {
+     "texto": "La palabra podría aludir a hermanos de edad, pero el contexto, sobre todo el verbo «apacentad», muestra que habla de dirigentes de la iglesia. Kistemaker hace notar que en griego va sin artículo, para destacar la función del oficio más que los años (la edad aparece recién en el v. 5, cuando habla de los jóvenes).",
+     "fuentes": [
+      "cbmh1p_02_c#18",
+      "kis1p_06_b#3"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "El cargo tenía raíz en Israel: el Antiguo Testamento habla a menudo de los ancianos del pueblo, y en tiempos de Jesús cada sinagoga tenía ancianos que gobernaban y enseñaban. La iglesia de Jerusalén ya los tenía temprano (Hch 11:30; 15:2), y los apóstoles los establecían en cada iglesia nueva (Hch 14:23) y encargaban a sus colaboradores hacer lo mismo (Tit 1:5).",
+     "fuentes": [
+      "mac1p_08_a#36",
+      "ncb1p_01_b#26",
+      "kis1p_06_b#3",
+      "mac1p_08_a#34"
+     ],
+     "tipo": "contexto"
+    },
+    {
+     "texto": "Los autores coinciden en que, en el Nuevo Testamento, «anciano», «obispo» (supervisor) y «pastor» nombran a las mismas personas desde ángulos distintos: anciano subraya la madurez y el consejo; obispo, la supervisión; pastor, el alimento y el cuidado del rebaño. En este mismo pasaje aparecen juntos los tres: ancianos (v. 1), «apacentad» y «cuidando», que en griego es el verbo de la supervisión (v. 2). Qué consecuencias tiene esto para el gobierno de la iglesia, ver Interpretaciones.",
+     "fuentes": [
+      "cbmh1p_02_c#18",
+      "ncb1p_01_b#26",
+      "mac1p_08_a#35",
+      "mbib1p_01_c#31",
+      "r1_004#18"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "¿Por qué hablarles justo ahora? Porque la prueba que venía exigía un liderazgo adecuado. Los creyentes, como las ovejas, tienden a extraviarse y son vulnerables; bajo persecución necesitan todavía más pastores fieles (ver Profundizar: «Por qué ovejas»).",
+     "fuentes": [
+      "ncb1p_01_b#25",
+      "mac1p_08_a#32",
+      "mac1p_08_a#33",
+      "mbib1p_01_c#31"
+     ],
+     "tipo": "contexto"
+    }
+   ]
+  },
+  {
+   "rango": "1P 5:1",
+   "titulo": "«Yo anciano también con ellos»",
+   "notas": [
+    {
+     "texto": "Pedro, que en 1:1 se presentó como apóstol, ahora se pone al lado de los ancianos: literalmente se llama “el copresbítero”, expresión que no aparece en ningún otro lugar del Nuevo Testamento. No se ubica por encima sino junto a ellos; por eso no ordena: ruega, exhorta. Quería resaltar su afinidad con aquellos a quienes hablaba, como alguien que conocía por dentro los desafíos del pastorado desde que Jesús le encargó sus ovejas (Jn 21:15-17).",
+     "fuentes": [
+      "cbmh1p_02_c#19",
+      "kis1p_06_b#4",
+      "ncb1p_01_b#26",
+      "mac1p_08_a#41",
+      "mhenry_01_b#10"
+     ],
+     "tipo": "personaje"
+    },
+    {
+     "texto": "Nicholson, Henry, McConnell y Wiersbe sacan la misma conclusión: no hay en este versículo exaltación ni pretensión de primacía; Pedro no reclama poder de gobierno sobre todos los pastores e iglesias ni se presenta como Papa. Habla de sí con modestia, como hermano y colega de ministerio.",
+     "fuentes": [
+      "bea1p_02#13",
+      "mhenry_01_b#10",
+      "cbmh1p_02_c#19",
+      "r1_005#13",
+      "mbib1p_01_c#32"
+     ],
+     "tipo": "apologetica"
+    }
+   ]
+  },
+  {
+   "rango": "1P 5:1",
+   "titulo": "Testigo de los padecimientos, participante de la gloria",
+   "notas": [
+    {
+     "texto": "Pedro agrega dos credenciales. La primera: es «testigo de los padecimientos de Cristo». La palabra tiene doble sentido: quien vio algo con sus propios ojos y quien da testimonio de lo que vio. Pedro estuvo en la agonía del huerto, vio el arresto, el juicio ante el sumo sacerdote y la comparecencia ante Pilato, y durante años predicó lo que había visto. Que los evangelios no lo ubiquen al pie de la cruz no quita que viera mucho de esos sufrimientos (ver Interpretaciones).",
+     "fuentes": [
+      "mac1p_08_a#42",
+      "kis1p_06_b#6",
+      "ncb1p_01_b#26",
+      "cbmh1p_02_c#19"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Henry hace una distinción preciosa: haber sido testigo de los sufrimientos de Cristo fue honra de Pedro y de unos pocos; pero participar de la gloria que será revelada es privilegio de todo verdadero creyente. Por eso la segunda credencial no lo separa de los lectores, los une.",
+     "fuentes": [
+      "mhenry_01_b#10"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Pedro ya había vislumbrado esa gloria en el monte de la transfiguración (2P 1:16-18), y esa experiencia hacía su expectativa mucho más viva. Kistemaker añade que, aunque la frase mira al futuro, el creyente ya comparte en parte esa gloria, porque el Espíritu de gloria reposa sobre él (4:14); la plenitud llegará cuando Cristo se manifieste.",
+     "fuentes": [
+      "mbib1p_01_c#32",
+      "mac1p_08_b#1",
+      "kis1p_06_b#7",
+      "cbmh1p_02_c#19"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Así Pedro motiva por tres caminos: como colega, como testigo ocular y con la esperanza de la recompensa. Sufrimiento primero, gloria después: el orden de toda la carta (1:11; 4:13).",
+     "fuentes": [
+      "mbib1p_01_c#32",
+      "mac1p_08_a#43",
+      "kis1p_06_b#6"
+     ],
+     "tipo": "estructura"
+    }
+   ]
+  },
+  {
+   "rango": "1P 5:2",
+   "titulo": "«Apacentad la grey de Dios»",
+   "notas": [
+    {
+     "texto": "El mandato es una sola palabra: pastoreen. Es más que dar de comer: incluye cuidar, guiar, proteger y llevar al redil. Nicholson lo resume en tres deberes: proveer pasto, mostrar el camino al pasto y proteger en el camino. Por eso el pastoreo es más que predicar, aunque alimentar con la Palabra es su centro: todo anciano debe ser apto para enseñar, y la tarea no es decirle a la gente lo que quiere oír sino nutrirla con alimento sólido.",
+     "fuentes": [
+      "cbmh1p_03#2",
+      "bea1p_02#14",
+      "mac1p_08_a#39",
+      "mbib1p_01_c#33"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "La orden suena a la que Pedro mismo recibió cuando Jesús resucitado lo restauró y le encargó sus ovejas (Jn 21:15-17). El Comentario Moody sugiere que quizá de ahí nació la costumbre de llamar pastores a los ancianos.",
+     "fuentes": [
+      "kis1p_06_b#10",
+      "moodynt_01_c#2",
+      "ncb1p_01_b#27",
+      "mac1p_08_a#39"
+     ],
+     "tipo": "conexion"
+    },
+    {
+     "texto": "Lo decisivo es de quién es el rebaño: «la grey de Dios». No es de los ancianos. La porción que cuidan sigue siendo de Dios aunque esté a su cargo; pastorear es una mayordomía, y la más seria, porque Cristo compró ese rebaño con su propia sangre (1P 1:18-19; Hch 20:28). Henry lo dice con ternura: esos cristianos pobres, dispersos y sufridos eran la grey de Dios.",
+     "fuentes": [
+      "cbmh1p_03#2",
+      "mac1p_08_b#2",
+      "mbib1p_01_c#33",
+      "mhenry_01_b#11"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "La palabra para «grey» es un diminutivo cariñoso: algo así como “el rebañito”. Lenski, citado por MacArthur, dice que las palabras de Pedro son parcas pero rebosan ternura: ovejas mansas, indefensas, propensas a extraviarse, felices bajo el cuidado del pastor.",
+     "fuentes": [
+      "kis1p_06_b#10",
+      "mac1p_08_b#3"
+     ],
+     "tipo": "griego"
+    }
+   ]
+  },
+  {
+   "rango": "1P 5:2",
+   "titulo": "De buena gana y sin codicia",
+   "notas": [
+    {
+     "texto": "Pedro arma tres pares: lo que no y lo que sí. El primero: «no por fuerza, sino voluntariamente». Por fuerza es servir como obligado, sea por un falso sentimiento de indignidad, por desgano o por no querer hacer más que lo justo. La obra no es para conscriptos sino para voluntarios: Dios quiere al dador alegre (2Co 9:7). Cuando el corazón está lleno de Cristo y de amor a las almas, hay tanta compulsión interior que no hace falta presión de afuera (1Co 9:16).",
+     "fuentes": [
+      "ncb1p_01_b#25",
+      "cbmh1p_03#3",
+      "kis1p_06_b#11",
+      "mac1p_08_b#6",
+      "mbib1p_01_c#34"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Detrás de este primer par, la Biblia MacArthur ve un peligro concreto: la pereza; y el pastor rendirá cuentas (He 13:17).",
+     "fuentes": [
+      "mbib1p_01_c#34",
+      "mac1p_08_b#6"
+     ],
+     "tipo": "aplicacion"
+    },
+    {
+     "texto": "El segundo: «no por ganancia deshonesta, sino con ánimo pronto». Todos los autores aclaran que Pedro no prohíbe el sostén del pastor: el obrero es digno de su salario (Lc 10:7), los que anuncian el evangelio pueden vivir de él (1Co 9:14) y los ancianos que gobiernan bien merecen doble honor (1Ti 5:17-18). Kistemaker cita a Selwyn: lo prohibido no es desear una remuneración adecuada sino la ambición sórdida de ganancia. Nicholson cita a Williams: un amor de fondo por el dinero descalifica.",
+     "fuentes": [
+      "kis1p_06_b#12",
+      "mac1p_08_b#7",
+      "mbib1p_01_c#34",
+      "cbmh1p_03#3",
+      "bea1p_02#14",
+      "ncb1p_01_b#25"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "La ganancia deshonesta no es solo dinero mal habido: Wiersbe y el Nuevo Comentario Bíblico la extienden al prestigio, el poder, la reputación y la promoción. Y es el sello de los falsos maestros, que por avaricia hacen mercadería de los creyentes (2P 2:3). Lo opuesto es servir «con ánimo pronto»: con entusiasmo, de manera libre, por el privilegio del llamado.",
+     "fuentes": [
+      "r1_007_a#1",
+      "ncb1p_01_b#25",
+      "mac1p_08_b#8",
+      "mac1p_08_b#9",
+      "mbib1p_01_c#34"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "1P 5:3",
+   "titulo": "No señores, sino ejemplos",
+   "notas": [
+    {
+     "texto": "El tercer par: «no como teniendo señorío… sino siendo ejemplos de la grey». El verbo griego es intensivo: dominar con fuerza, de manera autocrática y despreciativa, con manipulación e intimidación. Es exactamente lo que Jesús describió como el modo de los gobernantes de este mundo y prohibió entre los suyos (Mr 10:42; Mt 20:25). MacArthur y Nicholson dan un caso concreto: Diótrefes (3J 9-10).",
+     "fuentes": [
+      "kis1p_06_b#13",
+      "mac1p_08_b#10",
+      "mbib1p_01_c#35",
+      "cbmh1p_03#3",
+      "ncb1p_01_b#25",
+      "bea1p_02#14"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "La autoridad de los ancianos es real, pero delegada: la reciben del Pastor principal por el Espíritu (Hch 20:28), y por eso no pueden abusar de ella. Pablo tampoco se enseñoreaba de la fe de los corintios (2Co 1:24). Los pastores dirigen, pero no dominan.",
+     "fuentes": [
+      "kis1p_06_b#13",
+      "cbmh1p_03#3"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "«Los que están a vuestro cuidado» es una sola palabra griega, plural de la que significa “porción” o “lote”: lo que se reparte por suerte, como Josué repartió la tierra (Jos 14:2) o como Matías fue elegido (Hch 1:26). Cada anciano tiene una porción del rebaño asignada, pero sigue siendo de Dios. Los pastores no eligen ni su responsabilidad ni a las personas de las que van a responder: el Señor se las confía.",
+     "fuentes": [
+      "cbmh1p_03#5",
+      "kis1p_06_b#14",
+      "mac1p_08_b#12",
+      "ncb1p_01_b#27",
+      "r1_007_a#1"
+     ],
+     "tipo": "griego"
+    },
+    {
+     "texto": "Lo positivo es ser «ejemplos», modelos que se pueden copiar. Para MacArthur, el poder de una vida ejemplar es lo más importante del liderazgo espiritual y su mejor prueba. Kistemaker pide que en el anciano las palabras y los hechos sean sinónimos; McConnell, que la primera manera de enseñar es por lo que somos. Wiersbe lo resume: el pastor no exige respeto, se lo gana con vida piadosa y servicio sacrificado.",
+     "fuentes": [
+      "ncb1p_01_b#27",
+      "mac1p_08_b#5",
+      "kis1p_06_b#15",
+      "cbmh1p_03#3",
+      "r1_007_a#1"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "1P 5:4",
+   "titulo": "El Príncipe de los pastores y la corona que no se marchita",
+   "notas": [
+    {
+     "texto": "El título «Príncipe de los pastores» (Pastor principal, Pastor supremo) aparece solo aquí en el Nuevo Testamento. Todo lo anterior cambia de luz: los ancianos son pastores subordinados, responden a Otro, y él es el verdadero Dueño del rebaño. Nicholson lo dice en una frase: el pastor no debe olvidar que no es el Príncipe de los pastores.",
+     "fuentes": [
+      "kis1p_06_b#18",
+      "cbmh1p_03#5",
+      "bea1p_02#14",
+      "r1_014_a#17"
+     ],
+     "tipo": "cristo"
+    },
+    {
+     "texto": "«Cuando aparezca»: hasta acá Pedro habló de la venida como “revelación”; el verbo de ahora subraya la consecuencia: Jesús será visible a todos en su gloria. Se refiere a su segunda venida, la misma gloria del v. 1.",
+     "fuentes": [
+      "ncb1p_01_b#28",
+      "mac1p_08_b#14"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "En el mundo grecorromano los vencedores de los juegos no recibían trofeos sino coronas de laurel o de olivo que pronto se secaban (1Co 9:24-25). La de los pastores fieles es otra cosa: no la corona del rey sino la del vencedor, pero inmarcesible. La palabra griega viene de la amaranta, una flor que se tenía por inmarchitable y era símbolo de inmortalidad.",
+     "fuentes": [
+      "mac1p_08_b#14",
+      "cbmh1p_03#5",
+      "kis1p_06_b#19",
+      "ncb1p_01_b#28",
+      "mbib1p_01_c#36"
+     ],
+     "tipo": "cultura"
+    },
+    {
+     "texto": "«Corona … de gloria» quiere decir, según varios autores, la corona que consiste en la gloria misma: no un adorno eterno sino participar de la gloria y el honor de Cristo. Va en la línea de la corona de vida (Stg 1:12), de justicia (2Ti 4:8) y de gozo (1Ts 2:19), todas facetas de la vida eterna.",
+     "fuentes": [
+      "mac1p_08_b#15",
+      "mbib1p_01_c#36",
+      "ncb1p_01_b#28",
+      "bea1p_02#15",
+      "kis1p_06_b#19"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "La paga terrenal de un líder puede ser poca, pero esta recompensa no se pierde (1:4-5). Henry la llama infinitamente mejor que toda autoridad, riqueza y placer del mundo: justo las tentaciones de los vv. 2-3.",
+     "fuentes": [
+      "bea1p_02#15",
+      "mhenry_01_b#11"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "1P 5:1",
+   "griego": "συμπρεσβύτερος",
+   "translit": "sympresbýteros",
+   "significado": "copresbítero, anciano junto con ellos. Un solo artículo une “copresbítero” y “testigo”, y el prefijo “con” vale para ambos: Pedro es colega, no superior.",
+   "fuentes": [
+    "cbmh1p_02_c#19",
+    "kis1p_06_b#9"
+   ]
+  },
+  {
+   "ref": "1P 5:1",
+   "griego": "μάρτυς",
+   "translit": "mártys",
+   "significado": "testigo: quien vio y quien da testimonio. Como a muchos testigos los mataron, terminó dando nuestra palabra “mártir”.",
+   "fuentes": [
+    "mac1p_08_a#42",
+    "moodynt_01_c#1",
+    "cbmh1p_02_c#19"
+   ]
+  },
+  {
+   "ref": "1P 5:1",
+   "griego": "κοινωνός",
+   "translit": "koinōnós",
+   "significado": "participante, compañero: el que tiene parte en algo junto con otros.",
+   "fuentes": [
+    "mac1p_08_a#43"
+   ]
+  },
+  {
+   "ref": "1P 5:2",
+   "griego": "ποιμάνατε",
+   "translit": "poimánate",
+   "significado": "“pastoreen”, del verbo ποιμαίνω: actuar como pastor en todo sentido (cuidar, guiar, proteger), no solo dar de comer. Es el mismo verbo que se usa para los ancianos en Hch 20:28.",
+   "fuentes": [
+    "r1_014_a#17",
+    "cbmh1p_03#2",
+    "mac1p_08_a#39"
+   ]
+  },
+  {
+   "ref": "1P 5:2",
+   "griego": "ποίμνιον",
+   "translit": "poímnion",
+   "significado": "rebaño, en diminutivo afectuoso.",
+   "fuentes": [
+    "mac1p_08_b#3",
+    "kis1p_06_b#10"
+   ]
+  },
+  {
+   "ref": "1P 5:2",
+   "griego": "προθύμως",
+   "translit": "prothýmōs",
+   "significado": "con ánimo pronto: de manera voluntaria, libre y entusiasta.",
+   "fuentes": [
+    "mac1p_08_b#9"
+   ]
+  },
+  {
+   "ref": "1P 5:3",
+   "griego": "κατακυριεύοντες",
+   "translit": "katakyrieúontes",
+   "significado": "dominando con fuerza; verbo compuesto intensivo, el mismo que Jesús usó para los gobernantes que se enseñorean.",
+   "fuentes": [
+    "mac1p_08_b#10",
+    "kis1p_06_b#17",
+    "cbmh1p_03#3"
+   ]
+  },
+  {
+   "ref": "1P 5:3",
+   "griego": "κλήρων",
+   "translit": "klḗrōn",
+   "significado": "las porciones asignadas: la parte del rebaño confiada a cada anciano. De esta raíz viene “clero”.",
+   "fuentes": [
+    "ncb1p_01_b#27",
+    "kis1p_06_b#14",
+    "mac1p_08_b#12"
+   ]
+  },
+  {
+   "ref": "1P 5:4",
+   "griego": "ἀμαράντινον",
+   "translit": "amarántinon",
+   "significado": "de amaranto, la flor que se creía inmarchitable: una corona que no se marchita.",
+   "fuentes": [
+    "ncb1p_01_b#28",
+    "mbib1p_01_c#36",
+    "kis1p_06_b#20"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Jesús es el Príncipe de los pastores. El Antiguo Testamento ya presentaba al Mesías como pastor, Juan lo llama el buen pastor que da su vida por las ovejas, Hebreos el gran pastor, y Pedro mismo, poco antes, el Pastor y Obispo de las almas. Todo pastor humano trabaja bajo él y para él.",
+   "refs": [
+    "Jn 10:11",
+    "He 13:20",
+    "1P 2:25",
+    "Zac 13:7"
+   ],
+   "fuentes": [
+    "mac1p_08_b#13",
+    "kis1p_06_b#18",
+    "r1_004#20"
+   ]
+  },
+  {
+   "texto": "El rebaño es precioso porque fue comprado con su sangre: el valor de cada oveja lo fija el precio que pagó el Pastor.",
+   "refs": [
+    "1P 1:18-19",
+    "Hch 20:28"
+   ],
+   "fuentes": [
+    "mac1p_08_b#2",
+    "kis1p_06_b#10"
+   ]
+  },
+  {
+   "texto": "La regla para todo liderazgo cristiano la dio Jesús: el que quiera ser grande será servidor, porque el Hijo del Hombre no vino para ser servido sino para servir y dar su vida en rescate por muchos.",
+   "refs": [
+    "Mt 20:25-28"
+   ],
+   "fuentes": [
+    "mac1p_08_b#11",
+    "mbib1p_01_c#35"
+   ]
+  },
+  {
+   "texto": "Kistemaker señala el contraste: Jesús llevó la corona de espinas para que los suyos lleven la corona de gloria. La humillación fue suya; la guirnalda que no se marchita es para ellos.",
+   "refs": [
+    "Mr 15:17",
+    "Jn 19:2"
+   ],
+   "fuentes": [
+    "kis1p_06_b#19"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "«Testigo de los padecimientos»: ¿testigo ocular o en sentido amplio?",
+   "posturas": [
+    {
+     "postura": "Sentido literal: Pedro vio el huerto, el arresto y los juicios, como pedía el requisito de apostolado que él mismo formuló (Hch 1:21-22); es una marca de que el autor es Pedro.",
+     "quien": "Kistemaker; el Nuevo Comentario Bíblico; MacArthur",
+     "fuentes": [
+      "kis1p_06_b#6",
+      "ncb1p_01_b#26",
+      "mac1p_08_a#42"
+     ]
+    },
+    {
+     "postura": "Solo sentido figurado: “testigo” sería quien proclama, como todo creyente; desde esa lectura se niega que Pedro sea el autor.",
+     "quien": "Beare y Best, según los presenta Kistemaker (que los refuta)",
+     "fuentes": [
+      "kis1p_06_b#6"
+     ]
+    }
+   ],
+   "nota": "Las fuentes de la biblioteca sostienen que en Pedro se dan los dos sentidos: vio y proclamó."
+  },
+  {
+   "tema": "Anciano, obispo y pastor, y cuántos ancianos por iglesia",
+   "posturas": [
+    {
+     "postura": "Anciano, obispo y pastor son un mismo oficio, y el patrón del Nuevo Testamento es una pluralidad de ancianos por iglesia (la palabra va siempre en plural para este ministerio). La pluralidad protege del error, del desequilibrio y del vacío cuando un líder se va. El obispo que preside sobre varios ancianos aparece recién en el siglo II.",
+     "quien": "MacArthur (citando a Lightfoot); Grudem, que rechaza por falta de evidencia la idea de un solo anciano por iglesia de casa",
+     "fuentes": [
+      "mac1p_08_a#37",
+      "mac1p_08_a#38",
+      "r1_004#18",
+      "r1_014_a#16"
+     ]
+    },
+    {
+     "postura": "Los términos se intercambian en varios pasajes, pero con un matiz: “presbítero” indica el estado de ser anciano y “obispo” la función de al menos algunos ancianos.",
+     "quien": "Wallace, citado por Kistemaker",
+     "fuentes": [
+      "kis1p_06_b#4"
+     ]
+    },
+    {
+     "postura": "Las “porciones” del v. 3 serían pequeños rebaños bajo distintos ancianos; nada sugiere que todas las iglesias de una ciudad formaran una sola.",
+     "quien": "Wiersbe",
+     "fuentes": [
+      "r1_007_a#1"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en lo central: los ancianos pastorean y enseñan bajo Cristo, sin dominar. Varía cuánto se deduce de aquí sobre la forma concreta de gobierno."
+  },
+  {
+   "tema": "¿Cuándo se entrega la corona?",
+   "posturas": [
+    {
+     "postura": "En la segunda venida, cuando Cristo evalúe en su tribunal el ministerio de los pastores; la corona será proporcional al servicio fiel.",
+     "quien": "Biblia MacArthur; MacArthur",
+     "fuentes": [
+      "mbib1p_01_c#36",
+      "mac1p_08_b#16"
+     ]
+    },
+    {
+     "postura": "El juicio de las obras de los creyentes, que busca la recompensa y no el castigo, sería anterior a la Segunda Venida y distinto de sus juicios, aunque ningún pasaje fija el momento.",
+     "quien": "Walvoord, en La cuestión del rapto (dispensacional, pretribulacional)",
+     "fuentes": [
+      "r4b_001#10"
+     ]
+    }
+   ],
+   "nota": "Todos esperan la corona de manos de Cristo cuando él aparezca; la diferencia depende de cómo se ordenan los acontecimientos finales (ver anexo T4)."
+  }
+ ],
+ "antiguo_testamento": [
+  {
+   "ref": "Sal 78:70-72",
+   "nota": "El Nuevo Comentario Bíblico remite a este salmo para mostrar que «apacentad» es una metáfora pastoral con raíces en el Antiguo Testamento: guiar y alimentar al pueblo de Dios.",
+   "fuentes": [
+    "ncb1p_01_b#27",
+    "ncb1p_01_b#25"
+   ]
+  },
+  {
+   "ref": "Ez 34:2-16",
+   "nota": "Cada vez que los pastores de Israel fallaban en alimentar y cuidar al pueblo, Dios los reprendía por los profetas; con Jer 23:1-4, es el trasfondo de los peligros que Pedro marca. Kistemaker usa Ez 34:4 para mostrar lo contrario del dominio: fortalecer, sanar, vendar.",
+   "fuentes": [
+    "mac1p_08_a#40",
+    "kis1p_06_b#13"
+   ]
+  },
+  {
+   "ref": "Zac 13:7",
+   "nota": "El Mesías como pastor; Jesús tomó esta figura del Antiguo Testamento (con Sal 23:1; Is 63:11; Jer 31:10) y la aplicó a sí mismo.",
+   "fuentes": [
+    "kis1p_06_b#10",
+    "mac1p_08_b#13"
+   ]
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "Los cinco términos del oficio en el Nuevo Testamento: anciano (dirección espiritual), obispo (guía y cuidado), pastor (liderazgo y provisión), predicador (proclamar) y maestro (exponer las Escrituras). Sostiene que 1Ti 5:17 y He 13:7 no dan base para separar el gobernar del enseñar.",
+   "autor": "John MacArthur",
+   "obra": "El ministerio pastoral",
+   "pagina": "PDF 51",
+   "tipo": "doctrina",
+   "fuentes": [
+    "r1_004#19"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Hch 20:17-35",
+   "nota": "El paralelo más cercano: Pablo reúne a los ancianos de Éfeso, los llama obispos, les manda pastorear la iglesia comprada con sangre, los alerta contra los lobos y les recuerda que trabajó con sus manos, porque es más bienaventurado dar que recibir.",
+   "fuentes": [
+    "ncb1p_01_b#26",
+    "kis1p_06_b#10",
+    "mac1p_08_b#7"
+   ]
+  },
+  {
+   "ref": "Jn 21:15-17",
+   "nota": "Jesús restaura a Pedro y le encarga sus corderos y ovejas; hoy Pedro pasa ese encargo a otros.",
+   "fuentes": [
+    "kis1p_06_b#10",
+    "mac1p_08_a#39",
+    "moodynt_01_c#2"
+   ]
+  },
+  {
+   "ref": "Jn 10:1-16",
+   "nota": "La parábola del buen pastor, que Pedro sin duda oyó, está detrás del «Príncipe de los pastores».",
+   "fuentes": [
+    "moodynt_01_c#2",
+    "mac1p_08_b#13"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Si alguno de ustedes sirve en la iglesia, revisen juntos las tres preguntas de Pedro: ¿lo hago de buena gana o por obligación?, ¿busco algo para mí (dinero, reconocimiento, influencia)?, ¿guío con el ejemplo o con presión?",
+   "fuentes": [
+    "mbib1p_01_c#35",
+    "r1_007_a#1",
+    "cbmh1p_03#3"
+   ]
+  },
+  {
+   "texto": "Las personas que tienen a cargo, en la iglesia o en casa, no son suyas: son una porción que el Señor les confió y de la que van a dar cuenta. Eso quita el aire de propiedad y pone cuidado, ternura y responsabilidad.",
+   "fuentes": [
+    "cbmh1p_03#5",
+    "mac1p_08_b#12",
+    "kis1p_06_b#14"
+   ]
+  },
+  {
+   "texto": "Oren por sus pastores y ancianos, y ayúdenlos. El cuidado bíblico incluye su sostén digno, y la pluralidad de líderes es una protección para ellos y para la iglesia.",
+   "fuentes": [
+    "mac1p_08_b#7",
+    "mac1p_08_a#38"
+   ]
+  },
+  {
+   "texto": "Cuando el servicio no se ve o no se agradece, recuerden la corona que no se marchita: el Príncipe de los pastores ve y va a aparecer.",
+   "fuentes": [
+    "bea1p_02#15",
+    "mac1p_08_b#16"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "Pedro pudo hablar como apóstol y eligió hablar como colega. ¿En qué situaciones nos cuesta más a nosotros pedir en vez de imponer?",
+  "De los tres peligros (servir por obligación, por ganancia o dominando), ¿cuál reconocemos más en nosotros, en la iglesia o en el hogar?",
+  "¿Qué cambia en nuestra manera de cuidar a otros saber que son «la grey de Dios» y no nuestra?"
+ ],
+ "para_orar": "Señor Jesús, Príncipe de los pastores, gracias por buscarnos, comprarnos con tu sangre y cuidarnos. Danos a nosotros y a quienes nos guían un corazón dispuesto, libre de codicia y de ganas de dominar, para servir con el ejemplo; y que la esperanza de verte aparecer nos sostenga cuando el servicio cueste.",
+ "visuales": [
+  "dg-estructura-1p"
+ ],
+ "anexos": [
+  "T6",
+  "T4"
+ ],
+ "profundizar": [
+  {
+   "titulo": "La partícula que falta en la Reina-Valera",
+   "texto": "El v. 1 empieza en griego con una partícula (“por tanto”, “pues”) que no está en los manuscritos tardíos que usó Casiodoro de Reina, y por eso falta en la Biblia del Oso (1569) y sus revisiones. La Versión Moderna y la Biblia de las Américas la traducen, con razón según McConnell. Algunas versiones inglesas siguen la variante que la omite. Si se lee, une los deberes de los ancianos con el llamado de 4:19 a encomendarse a Dios haciendo el bien.",
+   "fuentes": [
+    "cbmh1p_02_c#17",
+    "kis1p_06_b#5"
+   ]
+  },
+  {
+   "titulo": "Qué hacían los ancianos",
+   "texto": "Sus tareas, resumidas por Kistemaker: cuidar espiritualmente enseñando y predicando, proteger la pureza de la fe advirtiendo contra las falsas doctrinas, y promover la paz y el orden dando ejemplo en sus propios hogares. Los requisitos están en 1Ti 3:2-7 y Tit 1:5-9.",
+   "fuentes": [
+    "kis1p_06_b#3",
+    "mac1p_08_a#34"
+   ]
+  },
+  {
+   "titulo": "«Cuidando de ella»: el verbo del obispo",
+   "texto": "«Cuidando de ella» traduce el verbo de la supervisión: vigilar, tener cobertura sobre el rebaño para conocer su estado y así guiarlo, protegerlo y alimentarlo. Algunos manuscritos importantes no lo traen; el Nuevo Comentario Bíblico concluye que nada se pierde con omitirlo, porque la idea ya está en el pastoreo.",
+   "fuentes": [
+    "mac1p_08_b#4",
+    "kis1p_06_b#17",
+    "ncb1p_01_b#27"
+   ]
+  },
+  {
+   "titulo": "Una gloria que se va desplegando",
+   "texto": "Kistemaker observa que en el v. 1 el verbo «será revelada» está en presente continuo, con Dios como agente implícito: la revelación de la gloria no sería un único acontecimiento sino un despliegue ininterrumpido, y el tiempo hasta ella es breve. En cambio, el «aparezca» del v. 4 está en aoristo: un acto puntual.",
+   "fuentes": [
+    "kis1p_06_b#7",
+    "kis1p_06_b#9",
+    "kis1p_06_b#20"
+   ]
+  },
+  {
+   "titulo": "Por qué ovejas",
+   "texto": "MacArthur abre su comentario de este pasaje citando a W. Phillip Keller (A Shepherd Looks at Psalm 23): no es por accidente que Dios nos haya elegido como ovejas. Las ovejas necesitan atención sin fin y cuidado meticuloso: hay que llevarlas a aguas tranquilas porque no beben de las agitadas (Sal 23:2), limpiarlas y esquilarlas para que no enfermen, y defenderlas, porque solo saben huir con pánico. Jesús vio así a las multitudes (Mt 9:36).",
+   "fuentes": [
+    "mac1p_08_a#31",
+    "mac1p_08_a#32"
+   ]
+  },
+  {
+   "titulo": "Pedro a los ancianos, y luego a los jóvenes",
+   "texto": "El bosquejo del Comentario Mundo Hispano une los vv. 1-5: a los ancianos, apacentar con ternura voluntaria, sin avaricia ni manipulación, como siervos y ejemplos, mirando la recompensa; a los jóvenes, el «asimismo» del v. 5 no crea una jerarquía sino una sumisión mutua, todos revestidos de humildad (Pr 3:34). Lo veremos mañana.",
+   "fuentes": [
+    "cbmh1p_03#4"
+   ]
+  },
+  {
+   "titulo": "Warren W. Wiersbe, Bosquejos expositivos de la Biblia (PDF 224)",
+   "texto": "Comentando Mt 16, afirma que Pedro jamás reclamó ser Papa (remite a 1P 5:1-4) y que las llaves indican mayordomía, no señorío: Pedro abrió la puerta de la fe a judíos, samaritanos y gentiles; las llaves de la muerte las tiene Cristo.",
+   "fuentes": [
+    "r1_005#13"
+   ]
+  },
+  {
+   "titulo": "Simon J. Kistemaker, 1 Pedro (PDF 160)",
+   "texto": "La gloria humana pasa (atletas, belleza, logros); la gloria celestial solo se vio por momentos: los pastores de Belén, la transfiguración, Pablo camino a Damasco, Juan en Patmos. En 1 Pedro la palabra gloria aparece diez veces, y la del creyente es duradera.",
+   "fuentes": [
+    "kis1p_06_b#8"
+   ]
+  },
+  {
+   "titulo": "Simon J. Kistemaker, 1 Pedro (PDF 163)",
+   "texto": "La palabra que Pedro usa para los confiados a los ancianos (las “porciones”) dio “clérigo”; con los siglos pasó a designar a los ordenados, y el resto quedó como “laicado”. La ironía: el término de Pedro para el rebaño terminó siendo rótulo de los pastores.",
+   "fuentes": [
+    "kis1p_06_b#16"
+   ]
+  },
+  {
+   "titulo": "Cecilio McConnell (recuadro de Palomino), Comentario Bíblico Mundo Hispano: 1 Pedro (PDF 272)",
+   "texto": "Un recuadro sobre la brecha generacional: la tensión entre jóvenes y mayores tiende a dividir la comunión, y Pedro anima a ver que se complementan cuando ambos se someten al señorío de Cristo, dejando orgullo y prejuicio.",
+   "fuentes": [
+    "cbmh1p_03#1"
+   ]
+  }
+ ]
 }

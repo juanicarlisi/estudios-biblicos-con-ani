@@ -4,166 +4,653 @@
   "desde": "1P 1:6",
   "hasta": "1P 1:9",
   "titulo": "Gozo en medio de las pruebas: una fe más preciosa que el oro",
-  "minutos": {"lectura": 2, "estudio": 25},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer (1P 1:3-5) Pedro alabó a Dios por la salvación: por su gran misericordia nos hizo nacer de nuevo a una esperanza viva, mediante la resurrección de Jesucristo, y nos guarda una herencia que no se destruye, no se mancha ni se marchita. El poder de Dios cuida a los creyentes, por medio de la fe, hasta la salvación que se revelará al final.",
-    "ahora": "Sin cambiar de tema, Pedro mira la otra cara de la vida de sus lectores: están sufriendo. Les explica que el gozo de esa esperanza convive con la tristeza de las pruebas, para qué sirven esas pruebas y adónde lleva la fe. Sus lectores necesitaban este ánimo porque ya cargaban con el peso de la persecución.",
+    "ahora": "Sin cambiar de tema, Pedro mira la otra cara de la vida de sus lectores: sufren, porque ya cargan con el peso de la persecución. Les explica que el gozo de la esperanza convive con la tristeza de las pruebas, para qué sirven esas pruebas y adónde lleva la fe.",
     "despues": "Mañana (1P 1:10-12) Pedro muestra que esta salvación tiene testigos: los profetas la anunciaron mucho antes, se reveló a su tiempo y ahora la proclaman los que predicaron el evangelio con el Espíritu Santo.",
-    "fuentes": ["ncb1p_01_a#17", "ncb1p_01_a#18", "mac1p_02_a#13", "moodynt_01_a#19", "cbmh1p_01_b#14"]
+    "fuentes": [
+      "ncb1p_01_a#17",
+      "ncb1p_01_a#18",
+      "mac1p_02_a#13",
+      "moodynt_01_a#19",
+      "cbmh1p_01_b#14"
+    ]
   },
   "versiculo_clave": {
     "ref": "1P 1:7",
     "porque": "Explica el para qué de las pruebas: así como el fuego prueba el oro, Dios prueba la fe para mostrar que es genuina. Y esa fe, que vale más que el oro que se termina, acaba en alabanza, gloria y honra cuando Jesucristo aparezca."
   },
   "panorama": {
-    "texto": "Pedro acaba de hablar de la herencia guardada en el cielo y ahora dice: en eso ustedes se alegran, aunque por un tiempo tengan que estar tristes por pruebas de todo tipo. Gozo y pena conviven en el creyente. Las pruebas no son un accidente: son breves, tienen un propósito, duelen de verdad y Dios las usa como el fuego que prueba el oro, para mostrar que la fe es auténtica. Esa fe probada terminará en alabanza, gloria y honra cuando Cristo se manifieste. Mientras tanto, los lectores aman y creen en un Señor que nunca vieron, y eso les da un gozo que no cabe en palabras, porque ya están recibiendo lo que la fe persigue: la salvación. MacArthur resume el tramo en cinco fuentes de gozo: una herencia protegida, una fe probada, una honra prometida, una comunión personal con Cristo y una liberación presente.",
-    "fuentes": ["ncb1p_01_a#18", "bea1p_01_a#20", "mac1p_02_a#14", "kis1p_02_b#1"]
+    "texto": "Pedro acaba de hablar de la herencia guardada en el cielo y ahora dice: en eso ustedes se alegran, aunque por un tiempo tengan que estar tristes por pruebas de todo tipo. Gozo y pena conviven. Las pruebas son breves, tienen un propósito y Dios las usa como el fuego que prueba el oro, para mostrar que la fe es auténtica; esa fe terminará en alabanza, gloria y honra cuando Cristo se manifieste. Mientras tanto, los lectores aman y creen en un Señor que nunca vieron, y eso les da un gozo que no cabe en palabras, porque ya están recibiendo la salvación. MacArthur ve aquí cinco fuentes de gozo: una herencia protegida, una fe probada, una honra prometida, la comunión con Cristo y una liberación presente.",
+    "fuentes": [
+      "ncb1p_01_a#18",
+      "bea1p_01_a#20",
+      "mac1p_02_a#14",
+      "kis1p_02_b#1"
+    ]
   },
   "secciones": [
     {
       "rango": "1P 1:6a",
       "titulo": "«En lo cual vosotros os alegráis»: un gozo que no depende de las circunstancias",
       "notas": [
-        {"texto": "«En lo cual» mira hacia atrás, a lo que Pedro acaba de decir en los vv. 3-5: el nuevo nacimiento, la esperanza viva y la herencia que Dios guarda. Esa es la razón del gozo. Hay otras lecturas posibles de esta frase (ver Interpretaciones), pero la que siguen MacArthur, Kistemaker y el Nuevo Comentario Bíblico es esta.", "fuentes": ["mac1p_02_a#15", "kis1p_02_a#22", "ncb1p_01_a#19"], "tipo": "exegesis"},
-        {"texto": "El verbo que Pedro elige es fuerte: no es una alegría tranquila sino un gozo desbordante, el mismo que Jesús pidió a los perseguidos en Mt 5:12. Está en presente, así que describe un gozo continuo, no un momento. Kistemaker hace notar que Pedro vuelve al gozo tres veces en la carta (1P 1:6, 8; 4:13), siempre para alentar a lectores que sufren.", "fuentes": ["mac1p_02_a#15", "kis1p_02_a#23"], "tipo": "exegesis"},
-        {"texto": "Este gozo no es una emoción que sube y baja con lo que pasa afuera. MacArthur distingue la simple felicidad, que depende de que las cosas salgan bien, del gozo de la salvación, que nace de la certeza de tener vida eterna por Cristo crucificado y resucitado. El Comentario Moody agrega que, para el mundo, es una paradoja: así cantaban Pablo y Silas con la espalda lastimada. No es solo pensar en lo que vendrá, sino disfrutar ya, por el Espíritu, de las riquezas de Dios; por eso es parte del fruto del Espíritu (Gá 5:22).", "fuentes": ["mac1p_02_a#13", "moodynt_01_a#19", "mbib1p_01_a#29"], "tipo": "doctrina"},
-        {"texto": "MacArthur recuerda la promesa de Jesús en Jn 16:20: los discípulos llorarían un poco de tiempo, pero su tristeza se convertiría en gozo, y así pasó con la resurrección. Además, el Espíritu Santo que vive en cada creyente es la garantía de la herencia (Ef 1:13-14). Matthew Henry saca la consecuencia práctica: el creyente siempre tiene algo en qué alegrarse mucho, y eso tendría que notarse en la cara y en la conducta.", "fuentes": ["mac1p_02_a#16", "mhenry_01_a#6"], "tipo": "aplicacion"}
+        {
+          "texto": "«En lo cual» mira hacia atrás, a lo que Pedro acaba de decir en los vv. 3-5: el nuevo nacimiento, la esperanza viva y la herencia que Dios guarda. Esa es la razón del gozo. Hay otras lecturas posibles de esta frase (ver Interpretaciones), pero la que siguen MacArthur, Kistemaker y el Nuevo Comentario Bíblico es esta.",
+          "fuentes": [
+            "mac1p_02_a#15",
+            "kis1p_02_a#22",
+            "ncb1p_01_a#19"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El verbo es fuerte: no una alegría tranquila sino un gozo desbordante, el mismo que Jesús pidió a los perseguidos en Mt 5:12, y en presente, es decir, continuo. Kistemaker nota que Pedro vuelve al gozo tres veces (1P 1:6, 8; 4:13), siempre para alentar a lectores que sufren.",
+          "fuentes": [
+            "mac1p_02_a#15",
+            "kis1p_02_a#23"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Este gozo no sube y baja con lo que pasa afuera. MacArthur distingue la simple felicidad, que depende de que las cosas salgan bien, del gozo de la salvación, que nace de la certeza de tener vida eterna por Cristo. Para el Comentario Moody es una paradoja para el mundo (así cantaban Pablo y Silas con la espalda lastimada) y no solo una expectativa: es disfrutar ya, por el Espíritu, de las riquezas de Dios, como fruto del Espíritu (Gá 5:22).",
+          "fuentes": [
+            "mac1p_02_a#13",
+            "moodynt_01_a#19",
+            "mbib1p_01_a#29"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "MacArthur agrega que el Espíritu que vive en cada creyente es la garantía de esa herencia (Ef 1:13-14). Y Matthew Henry saca la consecuencia: el creyente siempre tiene algo en qué alegrarse mucho, y eso tendría que notarse en la cara y en la conducta.",
+          "fuentes": [
+            "mac1p_02_a#16",
+            "mhenry_01_a#6"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 1:6b",
       "titulo": "«Por un poco de tiempo, si es necesario»: cómo son las pruebas",
       "notas": [
-        {"texto": "Son breves. «Por un poco de tiempo» se puede entender como «por una temporada». Comparadas con la eternidad, dice Kistemaker, son cortas; Pablo las llama una tribulación leve y momentánea (2 Co 4:17). McConnell lo resume así: el gozo es permanente y la aflicción, pasajera.", "fuentes": ["mac1p_02_a#17", "kis1p_02_a#23", "ncb1p_01_a#18", "cbmh1p_01_b#11"], "tipo": "exegesis"},
-        {"texto": "Tienen un propósito. «Si es necesario» quiere decir que llegan cuando sirven para algo y que no quedan fuera de la voluntad de Dios. Kistemaker, siguiendo a Hiebert, ve aquí la convicción de Pedro de que Dios está presente y gobierna la vida de su pueblo. McConnell añade una advertencia sana: hay que asegurarse de sufrir por hacer lo correcto y no por imprudencia, y nunca buscar el sufrimiento para ganar puntos delante de Dios.", "fuentes": ["mac1p_02_a#17", "ncb1p_01_a#18", "kis1p_02_a#23", "cbmh1p_01_b#11"], "tipo": "doctrina"},
-        {"texto": "Duelen de verdad. La palabra que traduce «ser afligidos» significa ponerse triste, apenado. MacArthur aclara que no es solo dolor físico sino también angustia y ansiedad. Pedro no les pide que nieguen la pena: según Nicholson (Comentario Beacon), gozo y pena conviven en el creyente. Y Matthew Henry recuerda que el Señor no aflige por gusto, sino que su amor sabio asigna las pruebas para hacernos bien al final.", "fuentes": ["kis1p_02_a#23", "kis1p_02_a#26", "mac1p_02_a#17", "bea1p_01_a#20", "mhenry_01_a#6"], "tipo": "exegesis"},
-        {"texto": "Son de muchas clases: «diversas pruebas». Citando a Matthew Henry, Nicholson observa que rara vez vienen solas y que llegan desde distintos lados. El Comentario Moody piensa que aquí no se trata tanto de las dificultades comunes de la vida como del peso de la persecución que estos cristianos ya sufrían.", "fuentes": ["mac1p_02_a#17", "bea1p_01_a#20", "moodynt_01_a#19"], "tipo": "exegesis"}
+        {
+          "texto": "Son breves: «por un poco de tiempo», comparado con la eternidad (2 Co 4:17). McConnell lo resume: el gozo es permanente y la aflicción, pasajera.",
+          "fuentes": [
+            "mac1p_02_a#17",
+            "kis1p_02_a#23",
+            "ncb1p_01_a#18",
+            "cbmh1p_01_b#11"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Tienen un propósito: «si es necesario» indica que llegan cuando sirven para algo y no quedan fuera de la voluntad de Dios. Kistemaker, con Hiebert, ve la convicción de que Dios gobierna la vida de su pueblo. McConnell advierte: hay que sufrir por hacer lo correcto, no por imprudencia, y nunca buscar el sufrimiento para ganar mérito ante Dios.",
+          "fuentes": [
+            "mac1p_02_a#17",
+            "ncb1p_01_a#18",
+            "kis1p_02_a#23",
+            "cbmh1p_01_b#11"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Duelen de verdad: «ser afligidos» es ponerse triste, apenado, y MacArthur aclara que incluye angustia y ansiedad. Pedro no pide negar la pena; Nicholson (Comentario Beacon) dice que gozo y pena conviven. Matthew Henry recuerda que el Señor no aflige por gusto: su amor sabio asigna las pruebas para nuestro bien.",
+          "fuentes": [
+            "kis1p_02_a#23",
+            "kis1p_02_a#26",
+            "mac1p_02_a#17",
+            "bea1p_01_a#20",
+            "mhenry_01_a#6"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Son de muchas clases: «diversas pruebas». Nicholson, citando a Henry, nota que rara vez vienen solas. El Comentario Moody piensa sobre todo en la persecución que estos cristianos ya sufrían.",
+          "fuentes": [
+            "mac1p_02_a#17",
+            "bea1p_01_a#20",
+            "moodynt_01_a#19"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 1:6-7",
       "titulo": "Prueba, no tentación: para qué sirven",
       "notas": [
-        {"texto": "Pedro habla de prueba, no de tentación. Kistemaker lo subraya: Dios no tienta a nadie (Stg 1:13), pero sí prueba al creyente para fortalecer su fe. McConnell lo explica con una imagen de la escuela: en el v. 6 está el examen que se toma (la situación difícil en la que hay que decidir), y en el v. 7 está la nota que se recibe al final, la comprobación de que la fe es auténtica.", "fuentes": ["kis1p_02_a#24", "cbmh1p_01_b#12"], "tipo": "doctrina"},
-        {"texto": "El propósito está en el «para que» del v. 7: comprobar que la fe es genuina. Dios no necesita la prueba para enterarse de quién cree; según MacArthur, el beneficio inmediato es para el propio creyente, que sale de la prueba con más gozo y más confianza en que su fe es real. El Nuevo Comentario Bíblico lo dice así: las pruebas sirven para examinar lo genuino de la fe.", "fuentes": ["mac1p_02_a#20", "mbib1p_01_a#30", "ncb1p_01_a#18"], "tipo": "doctrina"},
-        {"texto": "Kistemaker pone dos ejemplos: Abraham, a quien Dios probó pidiéndole a Isaac en Moriah (Gn 22), y Job, a quien Dios permitió que Satanás atacara y a quien después bendijo más que al principio (Job 42:12). Y agrega algo que consuela: la prueba lleva tiempo, pero al terminar queda una fe genuina.", "fuentes": ["kis1p_02_a#27"], "tipo": "historia"},
-        {"texto": "MacArthur enumera varios bienes que Dios saca de las pruebas: nos hacen humildes (2 Co 12:7-10), nos despegan de lo mundano y nos hacen mirar al cielo, nos enseñan a valorar sus bendiciones, nos preparan para consolar a otros (2 Co 1:3-7), nos corrigen cuando pecamos (He 12:5-12) y fortalecen el carácter (Ro 5:3; Stg 1:2-4). Todo eso lo resume la promesa de 1P 5:10: Dios mismo los perfeccionará, afirmará, fortalecerá y establecerá.", "fuentes": ["mac1p_02_a#18"], "tipo": "doctrina"}
+        {
+          "texto": "Pedro habla de prueba, no de tentación: Dios no tienta a nadie (Stg 1:13), pero prueba al creyente para fortalecer su fe (Kistemaker). McConnell lo explica con una imagen escolar: el v. 6 es el examen; el v. 7, la nota final que certifica que la fe es auténtica.",
+          "fuentes": [
+            "kis1p_02_a#24",
+            "cbmh1p_01_b#12"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "El «para que» del v. 7 da el propósito: comprobar que la fe es genuina. Dios no lo necesita para enterarse de quién cree; según MacArthur, el beneficio es para el creyente, que sale con más gozo y más confianza en que su fe es real.",
+          "fuentes": [
+            "mac1p_02_a#20",
+            "mbib1p_01_a#30",
+            "ncb1p_01_a#18"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Kistemaker pone dos ejemplos: Abraham, probado con el pedido de Isaac (Gn 22), y Job, a quien Dios después bendijo más que al principio (Job 42:12). La prueba lleva tiempo, pero al terminar queda una fe genuina.",
+          "fuentes": [
+            "kis1p_02_a#27"
+          ],
+          "tipo": "historia"
+        }
       ]
     },
     {
       "rango": "1P 1:7a",
       "titulo": "«Mucho más preciosa que el oro»",
       "notas": [
-        {"texto": "La palabra que traduce «sometida a prueba» se usaba para el análisis de un metal: el proceso revela cuánto oro puro hay una vez que se fundieron las impurezas. MacArthur sugiere entenderla como lo que queda probado de la fe; el Comentario Moody señala que la palabra apunta a la aprobación, al resultado final más que al proceso.", "fuentes": ["mac1p_02_a#20", "moodynt_01_a#20"], "tipo": "exegesis"},
-        {"texto": "Pedro elige el oro porque era el metal más precioso y la base del comercio antiguo. Como el fuego separa el oro de la escoria, Dios usa las pruebas para separar la fe verdadera de la apariencia. Pero el oro, aun refinado, se termina. Kistemaker hace explícito el argumento: si se toman tanto trabajo para purificar el oro, que es perecedero, cuánto más se probará la fe, que permanece (1 Co 13:13), viene del cielo y es un regalo de Dios.", "fuentes": ["mac1p_02_a#22", "kis1p_02_a#28"], "tipo": "exegesis"},
-        {"texto": "Matthew Henry marca una diferencia hermosa: el oro no aumenta en el fuego, se reduce; la fe, en cambio, se afirma y se multiplica con las aflicciones. Y Kistemaker recuerda que el valor del oro lo fijan los mercados humanos, mientras que el valor de la fe lo fija Dios.", "fuentes": ["mhenry_01_a#6", "kis1p_02_a#30"], "tipo": "aplicacion"},
-        {"texto": "MacArthur ve un ejemplo vivo en los mismos apóstoles: los que habían huido cuando arrestaron a Jesús, y el Pedro que lo negó tres veces, salieron más tarde contentos del concilio por haber sido maltratados por causa del nombre de Jesús (Hch 5:41). La prueba había hecho su obra.", "fuentes": ["mac1p_02_a#22"], "tipo": "historia"}
+        {
+          "texto": "«Sometida a prueba» traduce una palabra usada para el análisis de un metal: revela cuánto oro puro queda una vez fundidas las impurezas. El Comentario Moody nota que apunta a la aprobación, al resultado más que al proceso.",
+          "fuentes": [
+            "mac1p_02_a#20",
+            "moodynt_01_a#20"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El oro era el metal más precioso y la base del comercio antiguo. Como el fuego separa el oro de la escoria, Dios usa las pruebas para separar la fe verdadera de la apariencia. Pero el oro, aun refinado, se termina. Kistemaker explicita el argumento: si se purifica el oro perecedero, cuánto más se probará la fe, que permanece y es regalo de Dios.",
+          "fuentes": [
+            "mac1p_02_a#22",
+            "kis1p_02_a#28"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Matthew Henry marca la diferencia: el oro se reduce en el fuego; la fe se afirma y se multiplica con las aflicciones. Y el valor del oro lo fijan los mercados; el de la fe, Dios (Kistemaker).",
+          "fuentes": [
+            "mhenry_01_a#6",
+            "kis1p_02_a#30"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 1:7b",
       "titulo": "«Alabanza, gloria y honra cuando sea manifestado Jesucristo»",
       "notas": [
-        {"texto": "El texto no dice quién encontrará aprobada la fe, pero el verbo sugiere que es Dios, el juez. McConnell piensa en el elogio de la parábola de los talentos: bien, siervo bueno y fiel (Mt 25:21). MacArthur insiste en que el énfasis no está en que los creyentes honren a Dios, sino en que Dios honra a los creyentes; y aunque la fe misma es un regalo suyo (Ef 2:8), él la alaba. Eso muestra lo generoso que es.", "fuentes": ["cbmh1p_01_b#13", "kis1p_02_a#31", "mac1p_02_a#23"], "tipo": "doctrina"},
-        {"texto": "Kistemaker aclara que no es un adorno retórico: el creyente participará de la gloria y el honor del cielo al entrar en la presencia de Cristo. MacArthur distingue los tres términos: la alabanza es la aprobación que Dios da a la fe verdadera; la gloria, la semejanza a Cristo que recibirá cada creyente (1 Jn 3:2; Fil 3:21); y la honra, probablemente las recompensas por el servicio (1 Co 3:10-15). Según el Nuevo Comentario Bíblico, en ese día la fe probada traerá gloria tanto a Jesucristo como al que fue probado.", "fuentes": ["kis1p_02_a#29", "mac1p_02_a#24", "ncb1p_01_a#18"], "tipo": "doctrina"},
-        {"texto": "Todo esto se cumple «cuando sea manifestado Jesucristo», es decir, en su segunda venida. Pedro no dice cuándo será: habla del tiempo fijado por Dios en que todos lo verán. Cómo se ordenan los hechos de ese día lo discuten los autores (ver Interpretaciones). MacArthur agrega que la fe ya queda validada al soportar la prueba, sin esperar al regreso; y que cuando Jesús vuelva, según Lc 12:35-37, será él quien sirva a sus siervos fieles.", "fuentes": ["mac1p_02_a#25", "kis1p_02_a#29"], "tipo": "escatologia"}
+        {
+          "texto": "El verbo «sea hallada» sugiere que quien aprueba es Dios. McConnell piensa en el elogio de la parábola: bien, siervo bueno y fiel (Mt 25:21). MacArthur insiste en que aquí Dios honra a los creyentes, y aunque la fe misma es regalo suyo (Ef 2:8), él la alaba.",
+          "fuentes": [
+            "cbmh1p_01_b#13",
+            "kis1p_02_a#31",
+            "mac1p_02_a#23"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "No es un adorno retórico (Kistemaker): el creyente participará de la gloria del cielo en la presencia de Cristo. MacArthur distingue: alabanza es la aprobación de Dios; gloria, la semejanza a Cristo (1 Jn 3:2); honra, probablemente las recompensas por el servicio (1 Co 3:10-15).",
+          "fuentes": [
+            "kis1p_02_a#29",
+            "mac1p_02_a#24",
+            "ncb1p_01_a#18"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Todo se cumple «cuando sea manifestado Jesucristo», en su segunda venida; Pedro no dice cuándo (ver Interpretaciones). MacArthur recuerda Lc 12:35-37: ese día el Señor mismo servirá a los siervos que encuentre esperándolo.",
+          "fuentes": [
+            "mac1p_02_a#25",
+            "kis1p_02_a#29"
+          ],
+          "tipo": "escatologia"
+        }
       ]
     },
     {
       "rango": "1P 1:8",
       "titulo": "«A quien amáis sin haberle visto»",
       "notas": [
-        {"texto": "Pedro pasa del «nosotros» del v. 3 al «ustedes». Kistemaker ve ahí un detalle: él sí vio al Señor (1P 5:1); sus lectores, por el tiempo y la distancia, no. Sin embargo lo aman y creen en él por el evangelio que oyeron. Son, dice Kistemaker, un comentario viviente de lo que Jesús le dijo a Tomás: dichosos los que no vieron y creyeron (Jn 20:29). Viven por fe, no por vista (2 Co 5:7).", "fuentes": ["kis1p_02_b#2", "ncb1p_01_a#18", "cbmh1p_01_b#15"], "tipo": "exegesis"},
-        {"texto": "MacArthur lee el versículo con la historia de Pedro detrás: él, que convivió tres años con Jesús, lo negó en el momento decisivo, y después Jesús le preguntó tres veces si lo amaba (Jn 21:15-17). Con esa memoria, elogia a creyentes que, sin haberlo visto y bajo persecución, siguen amando y confiando. Nicholson ve aquí a Pedro cumpliendo el encargo de Jesús de confirmar a sus hermanos (Lc 22:32).", "fuentes": ["mac1p_02_a#26", "bea1p_01_a#20"], "tipo": "personaje"},
-        {"texto": "Amar y creer van juntos. Según MacArthur, el que ama no puede dejar de creer y el que cree no puede dejar de amar; y cuanto más conoce la fe a Cristo por las Escrituras, más fuerte es el amor y mayor el gozo. El amor está en presente: lo amaban de manera constante. McConnell añade que quien ha sido perdonado mucho ama mucho (Lc 7:42-43), y que a veces no se trata de ver para creer sino de creer para ver, como Moisés, que se sostuvo como viendo al Invisible (He 11:27).", "fuentes": ["mac1p_02_a#28", "mac1p_02_a#27", "cbmh1p_01_b#15"], "tipo": "doctrina"},
-        {"texto": "De ese amor y esa fe nace un «gozo inefable y glorioso». Kistemaker subraya que es un gozo de ahora: no hay que esperar a salir de este mundo para tenerlo. Es inefable porque no se puede expresar con palabras humanas, y glorioso porque ya está tocado por la gloria del cielo. McConnell lo atribuye a la presencia del Espíritu.", "fuentes": ["kis1p_02_b#4", "cbmh1p_01_b#15"], "tipo": "exegesis"}
+        {
+          "texto": "Pedro pasa del «nosotros» al «ustedes»: él vio al Señor (1P 5:1); sus lectores no, pero lo aman y creen por el evangelio. Son, dice Kistemaker, un comentario viviente de lo que Jesús le dijo a Tomás sobre los que creen sin ver (Jn 20:29).",
+          "fuentes": [
+            "kis1p_02_b#2",
+            "ncb1p_01_a#18",
+            "cbmh1p_01_b#15"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "MacArthur lee el versículo con la historia de Pedro detrás: él, que convivió con Jesús, lo negó, y Jesús le preguntó tres veces si lo amaba (Jn 21:15-17). Con esa memoria elogia a quienes, sin verlo y perseguidos, siguen amando. Nicholson ve a Pedro cumpliendo el encargo de confirmar a sus hermanos (Lc 22:32).",
+          "fuentes": [
+            "mac1p_02_a#26",
+            "bea1p_01_a#20"
+          ],
+          "tipo": "personaje"
+        },
+        {
+          "texto": "Amar y creer van juntos: según MacArthur, el que ama no puede dejar de creer y el que cree no puede dejar de amar, y cuanto más se conoce a Cristo en las Escrituras, mayor el gozo. McConnell añade que quien es perdonado mucho ama mucho (Lc 7:42-43).",
+          "fuentes": [
+            "mac1p_02_a#28",
+            "mac1p_02_a#27",
+            "cbmh1p_01_b#15"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "De ahí nace un «gozo inefable y glorioso», y es de ahora: no hay que esperar a salir de este mundo (Kistemaker). No cabe en palabras humanas y ya está tocado por la gloria del cielo.",
+          "fuentes": [
+            "kis1p_02_b#4",
+            "cbmh1p_01_b#15"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 1:9",
       "titulo": "«Obteniendo el fin de vuestra fe»",
       "notas": [
-        {"texto": "El v. 9 da la razón de ese gozo: están recibiendo lo que la fe busca. El verbo está en presente y significa obtener lo que a uno le corresponde. MacArthur y el Comentario Moody subrayan que Pedro mira aquí al presente: los creyentes ya tienen al que es la salvación (Jn 17:3) y ya disfrutan de liberación de la culpa, de la condenación y del dominio del pecado (Ro 8:1; 6:10-12). Por eso no hay razón para perder el gozo (Jn 15:11).", "fuentes": ["kis1p_02_b#8", "kis1p_02_b#5", "mac1p_02_a#30", "moodynt_01_a#21"], "tipo": "doctrina"},
-        {"texto": "Al mismo tiempo, esa salvación todavía no está completa. Kistemaker dice que en principio ya nos pertenece y que la posesión total llegará cuando estemos para siempre con Cristo; la Biblia de estudio MacArthur habla de esperar la redención del cuerpo (Ro 8:23). Es la salvación de ya y todavía no.", "fuentes": ["kis1p_02_b#5", "mbib1p_01_a#31"], "tipo": "doctrina"},
-        {"texto": "«La salvación de vuestras almas» no se refiere solo a la parte espiritual de la persona. McConnell y Kistemaker coinciden en que abarca la persona entera y toda su vida (Lc 21:19; He 10:39; Stg 1:21). Por eso, dice McConnell, vivir con fe, amor y gozo es ya un anticipo del cielo: pasamos de muerte a vida (Jn 5:24).", "fuentes": ["cbmh1p_01_b#16", "kis1p_02_b#5"], "tipo": "doctrina"},
-        {"texto": "Kistemaker hace notar que en los vv. 3-9 aparecen las tres virtudes cristianas: fe, esperanza y amor. Los vv. 8-9 están construidos en paralelo: aman sin haberlo visto y creen aunque no lo ven ahora; se alegran con gozo indecible porque están obteniendo el fin de su fe.", "fuentes": ["kis1p_02_b#1"], "tipo": "estructura"}
+        {
+          "texto": "El v. 9 da la razón del gozo: están recibiendo lo que la fe busca. MacArthur y el Comentario Moody subrayan el presente: los creyentes ya tienen al que es la salvación (Jn 17:3) y ya disfrutan de liberación de la culpa, la condenación y el dominio del pecado (Ro 8:1). No hay razón para perder el gozo (Jn 15:11).",
+          "fuentes": [
+            "kis1p_02_b#8",
+            "kis1p_02_b#5",
+            "mac1p_02_a#30",
+            "moodynt_01_a#21"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "A la vez, la salvación todavía no está completa: en principio ya nos pertenece y la posesión total llegará al estar para siempre con Cristo (Kistemaker), con la redención del cuerpo (Ro 8:23).",
+          "fuentes": [
+            "kis1p_02_b#5",
+            "mbib1p_01_a#31"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Almas» no se limita a lo espiritual: McConnell y Kistemaker coinciden en que abarca la persona entera (Stg 1:21). Vivir con fe, amor y gozo es ya un anticipo del cielo (Jn 5:24).",
+          "fuentes": [
+            "cbmh1p_01_b#16",
+            "kis1p_02_b#5"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1P 1:6", "griego": "ἀγαλλιᾶσθε", "translit": "agalliásthe", "significado": "Os alegráis en extremo. MacArthur explica que es un término intenso que en el Nuevo Testamento siempre se refiere a gozo espiritual relacionado con Dios (Lc 1:47; Ap 19:7). Puede leerse como afirmación o como mandato; los comentaristas prefieren la afirmación: ustedes ya se alegran.", "fuentes": ["mac1p_02_a#15", "kis1p_02_a#26", "ncb1p_01_a#19"]},
-    {"ref": "1P 1:6", "griego": "ποικίλοις", "translit": "poikílois", "significado": "Diversas, literalmente de diferentes colores. Pedro usa la misma palabra en 1P 4:10 para la multiforme gracia de Dios: MacArthur y el Nuevo Comentario Bíblico ven ahí la respuesta, porque para cada color de prueba hay un color de la gracia (1 Co 10:13).", "fuentes": ["mac1p_02_a#17", "mac1p_02_a#19", "ncb1p_01_a#19"]},
-    {"ref": "1P 1:6", "griego": "πειρασμοῖς", "translit": "peirasmoís", "significado": "Pruebas. La palabra puede significar tentación, aflicción no merecida u ocasión en que hay que decidir; el contexto pide prueba.", "fuentes": ["cbmh1p_01_b#12", "moodynt_01_a#19"]},
-    {"ref": "1P 1:7", "griego": "δοκίμιον", "translit": "dokímion", "significado": "La prueba en cuanto comprobación: el análisis del metal que revela su pureza. Según Kistemaker, la palabra aparece solo dos veces en el Nuevo Testamento: aquí y en Stg 1:3.", "fuentes": ["mac1p_02_a#20", "cbmh1p_01_b#12", "kis1p_02_a#27"]},
-    {"ref": "1P 1:7", "griego": "ἀποκαλύψει", "translit": "apokalýpsei", "significado": "Manifestación o revelación: aquí, la venida de Jesucristo. De la misma familia viene el nombre del último libro de la Biblia.", "fuentes": ["mac1p_02_a#25", "kis1p_02_a#31", "moodynt_01_a#20"]},
-    {"ref": "1P 1:8", "griego": "ἀγαπᾶτε", "translit": "agapáte", "significado": "Amáis. MacArthur lo describe como el amor de la voluntad, y el presente indica un amor constante que define lo que es ser cristiano (1 Co 16:22; 1 Jn 4:19).", "fuentes": ["mac1p_02_a#27"]},
-    {"ref": "1P 1:8", "griego": "ἀνεκλαλήτῳ", "translit": "aneklalḗtō", "significado": "Inefable: literalmente, que está más allá del habla. Se forma con una negación y el verbo hablar, y no aparece en ningún otro lugar del Nuevo Testamento.", "fuentes": ["mac1p_02_a#29", "kis1p_02_b#7", "kis1p_02_b#4"]},
-    {"ref": "1P 1:9", "griego": "κομιζόμενοι", "translit": "komizómenoi", "significado": "Obteniendo, recibiendo lo que a uno le corresponde. Está en presente y explica la causa del gozo del v. 8.", "fuentes": ["kis1p_02_b#8", "mac1p_02_a#30", "kis1p_02_b#5"]}
+    {
+      "ref": "1P 1:6",
+      "griego": "ἀγαλλιᾶσθε",
+      "translit": "agalliásthe",
+      "significado": "Os alegráis en extremo. Término intenso que en el NT se refiere a gozo espiritual relacionado con Dios (Lc 1:47). Los comentaristas lo leen como afirmación, no como mandato.",
+      "fuentes": [
+        "mac1p_02_a#15",
+        "kis1p_02_a#26",
+        "ncb1p_01_a#19"
+      ]
+    },
+    {
+      "ref": "1P 1:6",
+      "griego": "ποικίλοις",
+      "translit": "poikílois",
+      "significado": "Diversas, literalmente de diferentes colores. Pedro usa la misma palabra para la multiforme gracia de Dios (1P 4:10): para cada color de prueba hay gracia (1 Co 10:13).",
+      "fuentes": [
+        "mac1p_02_a#17",
+        "mac1p_02_a#19",
+        "ncb1p_01_a#19"
+      ]
+    },
+    {
+      "ref": "1P 1:6",
+      "griego": "πειρασμοῖς",
+      "translit": "peirasmoís",
+      "significado": "Pruebas. La palabra puede significar tentación, aflicción no merecida u ocasión en que hay que decidir; el contexto pide prueba.",
+      "fuentes": [
+        "cbmh1p_01_b#12",
+        "moodynt_01_a#19"
+      ]
+    },
+    {
+      "ref": "1P 1:7",
+      "griego": "δοκίμιον",
+      "translit": "dokímion",
+      "significado": "La prueba como comprobación: el análisis que revela la pureza del metal. Según Kistemaker, solo aparece aquí y en Stg 1:3.",
+      "fuentes": [
+        "mac1p_02_a#20",
+        "cbmh1p_01_b#12",
+        "kis1p_02_a#27"
+      ]
+    },
+    {
+      "ref": "1P 1:7",
+      "griego": "ἀποκαλύψει",
+      "translit": "apokalýpsei",
+      "significado": "Manifestación, revelación: aquí, la venida de Jesucristo.",
+      "fuentes": [
+        "mac1p_02_a#25",
+        "kis1p_02_a#31",
+        "moodynt_01_a#20"
+      ]
+    },
+    {
+      "ref": "1P 1:8",
+      "griego": "ἀγαπᾶτε",
+      "translit": "agapáte",
+      "significado": "Amáis: el amor de la voluntad, en presente constante (MacArthur).",
+      "fuentes": [
+        "mac1p_02_a#27"
+      ]
+    },
+    {
+      "ref": "1P 1:8",
+      "griego": "ἀνεκλαλήτῳ",
+      "translit": "aneklalḗtō",
+      "significado": "Inefable: literalmente, más allá del habla. No aparece en otro lugar del NT.",
+      "fuentes": [
+        "mac1p_02_a#29",
+        "kis1p_02_b#7",
+        "kis1p_02_b#4"
+      ]
+    },
+    {
+      "ref": "1P 1:9",
+      "griego": "κομιζόμενοι",
+      "translit": "komizómenoi",
+      "significado": "Obteniendo lo que a uno le corresponde; en presente, explica la causa del gozo del v. 8.",
+      "fuentes": [
+        "kis1p_02_b#8",
+        "mac1p_02_a#30",
+        "kis1p_02_b#5"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Cristo mismo es el gozo del creyente. El Comentario Moody dice que Cristo en persona, presente por la fe, es el gozo inenarrable de los que creen. Matthew Henry invita a creer en la excelencia de Cristo y en su amor por nosotros, porque eso enciende en el corazón un amor que se ofrece a él.", "refs": ["Col 1:27", "Jn 17:3"], "fuentes": ["moodynt_01_a#21", "mhenry_01_a#7"]},
-    {"texto": "Toda la fe probada apunta a un día: la manifestación de Jesucristo. Allí la fe terminará en alabanza, gloria y honra, y, según MacArthur, el Señor mismo servirá a los siervos que encuentre esperándolo.", "refs": ["Lc 12:35-37", "1P 1:13", "1P 4:13"], "fuentes": ["mac1p_02_a#25", "kis1p_02_a#29"]},
-    {"texto": "Jesús recorrió antes el camino del gozo en medio del sufrimiento: por el gozo puesto delante de él soportó la cruz. McConnell lo pone como el modelo de los lectores que sufren.", "refs": ["He 12:2"], "fuentes": ["cbmh1p_01_b#15"]},
-    {"texto": "El Cristo que restauró a Pedro después de sus negaciones es el que ahora sostiene la fe de quienes nunca lo vieron. Pedro, restaurado, cumple el encargo de fortalecer a sus hermanos.", "refs": ["Jn 21:15-17", "Lc 22:32"], "fuentes": ["mac1p_02_a#26", "bea1p_01_a#20"]}
+    {
+      "texto": "Cristo mismo es el gozo del creyente: presente por la fe, es el gozo inenarrable de los que creen (Comentario Moody). Henry invita a creer en su excelencia y su amor, que encienden el nuestro.",
+      "refs": [
+        "Col 1:27",
+        "Jn 17:3"
+      ],
+      "fuentes": [
+        "moodynt_01_a#21",
+        "mhenry_01_a#7"
+      ]
+    },
+    {
+      "texto": "Toda fe probada apunta a su manifestación, cuando terminará en alabanza, gloria y honra.",
+      "refs": [
+        "Lc 12:35-37",
+        "1P 1:13",
+        "1P 4:13"
+      ],
+      "fuentes": [
+        "mac1p_02_a#25",
+        "kis1p_02_a#29"
+      ]
+    },
+    {
+      "texto": "Jesús recorrió antes el camino del gozo en el sufrimiento: por el gozo puesto delante de él soportó la cruz (McConnell).",
+      "refs": [
+        "He 12:2"
+      ],
+      "fuentes": [
+        "cbmh1p_01_b#15"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿A qué se refiere «en lo cual» y el verbo es afirmación o mandato? (v. 6)",
       "posturas": [
-        {"postura": "Se refiere a la experiencia del nuevo nacimiento y la salvación que se espera (vv. 3-5), y el verbo es una afirmación: ustedes se alegran. Kistemaker descarta otras dos lecturas: tomar como antecedente el tiempo postrero del v. 5 (que obligaría a leer el verbo como mandato o como futuro, aunque el griego está en presente) o traducir «en quien», refiriéndolo a Dios Padre (v. 3), que queda demasiado lejos. Dice que Kelly también considera más probable esta lectura.", "quien": "Kistemaker", "fuentes": ["kis1p_02_a#22", "kis1p_02_a#26"]},
-        {"postura": "Remite a la herencia eterna protegida de los vv. 3-5, y el verbo describe un gozo continuo.", "quien": "MacArthur", "fuentes": ["mac1p_02_a#15"]},
-        {"postura": "Remite probablemente a todo lo dicho en los tres versículos anteriores, y el verbo es una declaración de hecho. Pero sugiere que la relación con lo que sigue podría ser de causa y no de concesión: nos alegramos porque sufrimos pruebas, como en Mt 5:11-12.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1p_01_a#19"]}
+        {
+          "postura": "Se refiere al nuevo nacimiento y la salvación esperada (vv. 3-5), y el verbo afirma un hecho. Descarta tomar como antecedente el tiempo postrero del v. 5 (obligaría a un mandato o un futuro, aunque el griego está en presente) o leer «en quien», refiriéndolo al Padre. Kelly coincide.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1p_02_a#22",
+            "kis1p_02_a#26"
+          ]
+        },
+        {
+          "postura": "Remite a la herencia eterna protegida de los vv. 3-5, y el verbo describe un gozo continuo.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac1p_02_a#15"
+          ]
+        },
+        {
+          "postura": "Remite a los tres versículos anteriores y el verbo es declarativo, pero la relación con lo que sigue podría ser causal: nos alegramos porque sufrimos (Mt 5:11-12).",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb1p_01_a#19"
+          ]
+        }
       ],
       "nota": "Todos coinciden en lo central: el motivo del gozo es la salvación que Dios ya dio y guarda, y Pedro afirma un gozo presente, no solo futuro."
     },
     {
       "tema": "¿A qué momento se refiere «cuando sea manifestado Jesucristo»? (v. 7)",
       "posturas": [
-        {"postura": "Es la segunda venida, en particular cuando Cristo llame y recompense a su pueblo; la nota la identifica con el arrebatamiento de la iglesia (1 Ts 4:13-18).", "quien": "Biblia de estudio MacArthur", "fuentes": ["mbib1p_01_a#30"]},
-        {"postura": "La palabra «revelación» se usa para dos momentos: la revelación de Cristo a la iglesia en el arrebatamiento (aquí y en 1P 1:13; 4:13; 1 Co 1:7) y su manifestación al mundo cuando regrese después de la Tribulación (Lc 17:30; 2 Ts 1:7).", "quien": "Walvoord (La cuestión del rapto)", "fuentes": ["r4a_001#3"]},
-        {"postura": "Pedro no dice cuándo volverá Jesús: habla del tiempo designado en que todo ojo lo verá y todos los creyentes lo alabarán. McConnell agrega que Cristo se da a conocer de diversas maneras, pero sobre todo en la segunda venida.", "quien": "Kistemaker; McConnell (Comentario Mundo Hispano)", "fuentes": ["kis1p_02_a#29", "cbmh1p_01_b#13"]},
-        {"postura": "El sentido es doble: la fe probada será recompensada en la venida de Cristo, y ya ahora glorifica a Cristo, que se manifiesta en el sufrimiento de los suyos.", "quien": "Comentario Moody", "fuentes": ["moodynt_01_a#20"]}
+        {
+          "postura": "Es la segunda venida, en particular cuando Cristo llame y recompense a su pueblo; la nota la identifica con el arrebatamiento de la iglesia (1 Ts 4:13-18).",
+          "quien": "Biblia de estudio MacArthur",
+          "fuentes": [
+            "mbib1p_01_a#30"
+          ]
+        },
+        {
+          "postura": "«Revelación» se usa para dos momentos: la revelación de Cristo a la iglesia en el arrebatamiento (aquí y en 1P 1:13; 4:13) y su manifestación al mundo después de la Tribulación (2 Ts 1:7).",
+          "quien": "Walvoord (La cuestión del rapto)",
+          "fuentes": [
+            "r4a_001#3"
+          ]
+        },
+        {
+          "postura": "Pedro no dice cuándo: habla del tiempo designado en que todo ojo lo verá; Cristo se da a conocer de varias maneras, pero sobre todo en la segunda venida.",
+          "quien": "Kistemaker; McConnell (Comentario Mundo Hispano)",
+          "fuentes": [
+            "kis1p_02_a#29",
+            "cbmh1p_01_b#13"
+          ]
+        },
+        {
+          "postura": "El sentido es doble: la fe probada será recompensada en la venida de Cristo, y ya ahora glorifica a Cristo, que se manifiesta en el sufrimiento de los suyos.",
+          "quien": "Comentario Moody",
+          "fuentes": [
+            "moodynt_01_a#20"
+          ]
+        }
       ],
       "nota": "Lo que todos afirman es que Jesucristo volverá y que la fe que resistió la prueba será honrada en ese día. El orden de los acontecimientos del fin depende de la escuela escatológica de cada autor."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Pr 17:3", "nota": "Pedro no cita aquí el Antiguo Testamento, pero la imagen del metal probado en el fuego viene de allí. MacArthur reúne los textos: el crisol para la plata y la hornaza para el oro, pero el Señor prueba los corazones (también Nm 31:22-23 y Zac 13:9).", "fuentes": ["mac1p_02_a#20"]},
-    {"ref": "Job 23:10", "nota": "Job, el ejemplo clásico de fe probada según MacArthur y Kistemaker: con permiso de Dios Satanás lo atacó, sus amigos lo consolaron mal y su esposa lo empujó a maldecir a Dios, pero nunca dejó de confiar, y su fe salió fortalecida (Job 27:1-6; 42:10-17).", "fuentes": ["mac1p_02_a#20", "mac1p_02_a#21", "kis1p_02_a#27"]},
-    {"ref": "Gn 22:1-12", "nota": "Dios probó a Abraham con el pedido de sacrificar a Isaac; el ángel concluye: ahora conozco que temes a Dios (v. 12). Kistemaker y MacArthur lo citan como modelo de la prueba que muestra una fe genuina.", "fuentes": ["kis1p_02_a#27", "mac1p_02_a#20", "mbib1p_01_a#30"]},
-    {"ref": "Dt 8:2", "nota": "Los cuarenta años del desierto y el maná (Éx 16:4) fueron, según MacArthur, pruebas con las que Dios mostró lo que había en el corazón de su pueblo.", "fuentes": ["mac1p_02_a#21"]},
-    {"ref": "Hab 3:17-18", "nota": "MacArthur lo cita como ejemplo de gozo en Dios cuando todo falta afuera: aunque no florezca la higuera, el profeta se alegra en el Señor.", "fuentes": ["mac1p_02_a#13"]}
+    {
+      "ref": "Pr 17:3",
+      "nota": "Pedro no cita aquí el AT, pero la imagen del metal probado viene de allí: el crisol para la plata, pero el Señor prueba los corazones (también Zac 13:9), según MacArthur.",
+      "fuentes": [
+        "mac1p_02_a#20"
+      ]
+    },
+    {
+      "ref": "Job 23:10",
+      "nota": "Job, el ejemplo clásico: atacado con permiso de Dios, nunca dejó de confiar y su fe salió fortalecida (Job 42:10-17).",
+      "fuentes": [
+        "mac1p_02_a#20",
+        "mac1p_02_a#21",
+        "kis1p_02_a#27"
+      ]
+    },
+    {
+      "ref": "Gn 22:1-12",
+      "nota": "Abraham, probado con el pedido de Isaac: modelo de la prueba que muestra una fe genuina (Kistemaker, MacArthur).",
+      "fuentes": [
+        "kis1p_02_a#27",
+        "mac1p_02_a#20",
+        "mbib1p_01_a#30"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Ryrie distingue las intenciones detrás de una misma situación difícil: Dios puede incluso usar a Satanás para probar al creyente, pero con tres fines buenos: probarnos (1P 1:6-7), enseñarnos (1P 4:12-13; He 5:8) y aumentar nuestro amor por él (Stg 1:12). El único propósito de Satanás, en cambio, es empujar a hacer el mal.", "autor": "Charles C. Ryrie", "obra": "Teología básica", "pagina": "PDF 65", "tipo": "doctrina", "fuentes": ["r1_016#27"]},
-    {"texto": "Wiersbe toma de Kenneth Wuest una comparación: el minero lleva una muestra al examinador y este le da un certificado de que contiene oro; ese papel vale mucho más que la muestra. Así, la aprobación de nuestra fe significará riquezas sin fin cuando Cristo venga. Añade que una fe que no se puede probar no es confiable.", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 455", "tipo": "ilustracion", "fuentes": ["r1_006#14"]},
-    {"texto": "McConnell cuenta la historia de Roy Domínguez, un muchacho de Friona, en el oeste de Texas: a los quince años conoció a Cristo y sus abuelos le dijeron que dejara su fe o se fuera de la casa. Se fue a vivir con una familia creyente, siguió al Señor y después sirvió en la música, la evangelización y el trabajo con jóvenes. La prueba temprana fortaleció su fe.", "autor": "Cecilio McConnell", "obra": "Comentario Bíblico Mundo Hispano: 1 Pedro", "pagina": "p. 321", "tipo": "ilustracion", "fuentes": ["cbmh1p_01_b#21"]},
-    {"texto": "En un bosquejo sobre la segunda venida, Vila reúne los nombres que usa 1 Pedro: la última vez o el tiempo postrero (1:5), la aparición de Jesucristo, cuando la fe probada resulte en alabanza (1:7), y su revelación, en la que se trae la gracia (1:13). Otros bosquejos de la misma obra ponen 1P 1:7 entre los motivos de consuelo en la tribulación.", "autor": "Samuel Vila (comp.)", "obra": "1000 bosquejos para predicadores", "pagina": "PDF 346, 355-357", "tipo": "doctrina", "fuentes": ["r1_009#12"]}
+    {
+      "texto": "Ryrie distingue las intenciones detrás de una misma situación difícil: Dios puede incluso usar a Satanás para probar al creyente, pero con tres fines buenos: probarnos (1P 1:6-7), enseñarnos (1P 4:12-13; He 5:8) y aumentar nuestro amor por él (Stg 1:12). El único propósito de Satanás, en cambio, es empujar a hacer el mal.",
+      "autor": "Charles C. Ryrie",
+      "obra": "Teología básica",
+      "pagina": "PDF 65",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_016#27"
+      ]
+    },
+    {
+      "texto": "Wiersbe toma de Kenneth Wuest esta comparación: el examinador le da al minero un certificado de que su muestra contiene oro, y ese papel vale más que la muestra. Así, la aprobación de la fe significará riquezas sin fin cuando Cristo venga.",
+      "autor": "Warren W. Wiersbe",
+      "obra": "Bosquejos expositivos de la Biblia",
+      "pagina": "PDF 455",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "r1_006#14"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Stg 1:2-4", "nota": "Santiago dice casi lo mismo: tener por sumo gozo las diversas pruebas, porque la prueba de la fe produce paciencia. Kistemaker observa que Santiago destaca la perseverancia y Pedro la compara con el oro refinado.", "fuentes": ["kis1p_02_a#23", "kis1p_02_a#28"]},
-    {"ref": "Mt 5:11-12", "nota": "Jesús pidió a los perseguidos gozarse y alegrarse porque su galardón es grande en los cielos; Pedro usa el mismo verbo intenso.", "fuentes": ["mac1p_02_a#15", "ncb1p_01_a#19"]},
-    {"ref": "Jn 16:33", "nota": "En el mundo tendrán aflicción, pero tengan ánimo: McConnell une esta palabra de Jesús con la experiencia de Pedro, que tropezó y volvió más fuerte.", "fuentes": ["cbmh1p_01_b#11"]},
-    {"ref": "2 Co 4:17", "nota": "La leve tribulación momentánea produce un cada vez más excelente y eterno peso de gloria: la misma proporción entre prueba breve y gloria eterna.", "fuentes": ["mac1p_02_a#17", "kis1p_02_a#23"]},
-    {"ref": "1P 4:12-13", "nota": "Pedro vuelve al tema más adelante: no extrañarse del fuego de la prueba y gozarse de participar de los padecimientos de Cristo. El sufrimiento recorre toda la carta (1P 2:19-23; 3:14-17; 5:10).", "fuentes": ["ncb1p_01_a#18"]}
+    {
+      "ref": "Stg 1:2-4",
+      "nota": "Tener por sumo gozo las diversas pruebas: Santiago destaca la paciencia; Pedro compara la fe con el oro refinado (Kistemaker).",
+      "fuentes": [
+        "kis1p_02_a#23",
+        "kis1p_02_a#28"
+      ]
+    },
+    {
+      "ref": "Mt 5:11-12",
+      "nota": "Jesús pidió a los perseguidos gozarse; Pedro usa el mismo verbo intenso.",
+      "fuentes": [
+        "mac1p_02_a#15",
+        "ncb1p_01_a#19"
+      ]
+    },
+    {
+      "ref": "2 Co 4:17",
+      "nota": "La tribulación leve y momentánea frente al peso eterno de gloria: la misma proporción.",
+      "fuentes": [
+        "mac1p_02_a#17",
+        "kis1p_02_a#23"
+      ]
+    },
+    {
+      "ref": "1P 4:12-13",
+      "nota": "Pedro vuelve al tema: no extrañarse del fuego de la prueba; el sufrimiento recorre toda la carta (2:19-23; 3:14-17; 5:10).",
+      "fuentes": [
+        "ncb1p_01_a#18"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "No tienen que fingir que no les duele. Pedro admite la tristeza y, al mismo tiempo, afirma el gozo. Cuando uno de los dos esté atravesando una prueba, el otro no necesita apurarlo a estar bien: puede acompañarlo en la pena y recordarle la herencia que nadie le puede sacar.", "fuentes": ["bea1p_01_a#20", "kis1p_02_a#23", "mac1p_02_a#16"]},
-    {"texto": "Antes de preguntar por qué a nosotros, pregunten para qué. Las pruebas son por un tiempo, tienen un propósito y Dios las usa para mostrar y afirmar una fe genuina. McConnell agrega un control honesto: fíjense si lo que sufren viene por hacer lo correcto o por una imprudencia propia.", "fuentes": ["mac1p_02_a#17", "mac1p_02_a#18", "cbmh1p_01_b#11"]},
-    {"texto": "Revisen qué cosas tratan como oro en su casa: plata, seguridad, planes. Todo eso se termina. Lo que Dios valora y va a honrar es una fe que siguió confiando cuando costaba.", "fuentes": ["kis1p_02_a#30", "mac1p_02_a#22"]},
-    {"texto": "El gozo crece donde crece el amor a Cristo, y el amor crece conociéndolo en las Escrituras. Leer juntos los Evangelios no es un detalle piadoso: es el camino para amar más al que todavía no vieron.", "fuentes": ["mac1p_02_a#28", "mhenry_01_a#7"]}
+    {
+      "texto": "No tienen que fingir que no duele: Pedro admite la tristeza y afirma el gozo. Cuando uno de los dos atraviese una prueba, el otro no necesita apurarlo a estar bien: puede acompañarlo y recordarle la herencia que nadie le saca.",
+      "fuentes": [
+        "bea1p_01_a#20",
+        "kis1p_02_a#23",
+        "mac1p_02_a#16"
+      ]
+    },
+    {
+      "texto": "Antes de preguntar por qué a nosotros, pregunten para qué: las pruebas son por un tiempo y Dios las usa para afirmar la fe. Y revisen con honestidad si lo que sufren viene por hacer lo correcto o por una imprudencia propia.",
+      "fuentes": [
+        "mac1p_02_a#17",
+        "mac1p_02_a#18",
+        "cbmh1p_01_b#11"
+      ]
+    },
+    {
+      "texto": "El gozo crece donde crece el amor a Cristo, y el amor crece conociéndolo en las Escrituras: leer juntos los Evangelios es el camino para amar más al que todavía no vieron.",
+      "fuentes": [
+        "mac1p_02_a#28",
+        "mhenry_01_a#7"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué diferencia hay entre estar contentos porque las cosas salen bien y el gozo que describe Pedro? ¿Recuerdan algún momento difícil en que hayan sentido las dos cosas juntas, pena y gozo?",
-    "Piensen en una prueba que hayan pasado como pareja. Mirándola hoy, ¿qué mostró o afirmó en su fe? ¿Cuál de los propósitos de las pruebas que vimos reconocen en ella?",
+    "Piensen en una prueba que pasaron como pareja. Mirándola hoy, ¿qué mostró o afirmó en su fe?",
     "Pedro elogia a gente que ama a Jesús sin haberlo visto. ¿Qué los ayuda a ustedes a amarlo y confiar en él, y qué les quita el gozo?"
   ],
   "para_orar": "Padre, gracias porque nos hiciste nacer de nuevo y nos guardás una herencia que no se pierde. Cuando lleguen las pruebas, ayudanos a no perder el gozo, a recordar que son por un poco de tiempo y que vos las usás para afirmar nuestra fe. Enseñanos a amar cada día más a Jesús, a quien no vimos, hasta el día en que se manifieste. Amén.",
-  "visuales": ["dg-sufrimiento", "dg-estructura-1p"],
-  "anexos": ["T1", "T4", "P1"],
+  "visuales": [
+    "dg-sufrimiento",
+    "dg-estructura-1p"
+  ],
+  "anexos": [
+    "T1",
+    "T4",
+    "P1"
+  ],
   "profundizar": [
-    {"titulo": "¿Qué es el gozo? Un don para compartir", "texto": "Kistemaker dedica unas consideraciones al gozo: no es un estallido emocional pasajero ni una respuesta a circunstancias favorables, y muchas veces aparece en medio de las dificultades. Es un don de Dios (Sal 16:11; Jn 16:24; Ro 15:13) que llega al que confía totalmente en él, está ligado a lo que Dios hizo para salvar y se responde amándolo y obedeciéndole (Jn 15:9-11). Además es un gozo que se comparte: el pastor que encontró la oveja y la mujer que encontró la moneda llaman a los vecinos, y en el cielo hay gozo por un pecador que se arrepiente (Lc 15:4-10). MacArthur abre su comentario de este tramo con esas mismas parábolas para decir que la salvación genuina y el gozo verdadero van de la mano.", "fuentes": ["kis1p_02_b#6", "mac1p_02_a#12"]},
-    {"titulo": "¿Pensaban los apóstoles que su fe era menor?", "texto": "Kistemaker, siguiendo a Bengel, se pregunta si los apóstoles, que vieron y oyeron a Jesús, consideraban que su fe no era tan grande como la de quienes creían sin ver. Lo ve posible por tres razones: Pedro estaba presente cuando Jesús pronunció la bienaventuranza sobre los que creen sin ver (Jn 20:29), usa dos veces la idea de «aunque» en el v. 8 y destaca el adverbio «ahora». Lo seguro es que Pedro elogia la fe de sus lectores.", "fuentes": ["kis1p_02_b#3"]},
-    {"titulo": "Detalles del griego en los vv. 8-9", "texto": "Kistemaker señala que los dos «sin ver» del v. 8 son distintos: el primero (no lo vieron) mira al pasado, a la historia; el segundo (no lo ven ahora) mira al presente; ambos tienen sentido de concesión. «Glorioso» es un participio perfecto que indica un efecto permanente. En el v. 9, un manuscrito importante omite «vuestra», pero los especialistas suelen preferir incluirla.", "fuentes": ["kis1p_02_b#7", "kis1p_02_b#8"]}
+    {
+      "titulo": "Para qué usa Dios las pruebas, según MacArthur",
+      "texto": "MacArthur enumera varios bienes que Dios saca de las pruebas: nos hacen humildes (2 Co 12:7-10), nos despegan de lo mundano y nos hacen mirar al cielo, nos enseñan a valorar sus bendiciones, nos preparan para consolar a otros (2 Co 1:3-7), nos corrigen cuando pecamos (He 12:5-12) y fortalecen el carácter (Ro 5:3; Stg 1:2-4). Todo eso lo resume la promesa de 1P 5:10: Dios mismo los perfeccionará, afirmará, fortalecerá y establecerá.",
+      "fuentes": [
+        "mac1p_02_a#18"
+      ]
+    },
+    {
+      "titulo": "Los apóstoles, probados como el oro",
+      "texto": "MacArthur ve un ejemplo vivo en los mismos apóstoles: los que habían huido cuando arrestaron a Jesús, y el Pedro que lo negó tres veces, salieron más tarde contentos del concilio por haber sido maltratados por causa del nombre de Jesús (Hch 5:41). La prueba había hecho su obra.",
+      "fuentes": [
+        "mac1p_02_a#22"
+      ]
+    },
+    {
+      "titulo": "¿Qué es el gozo? Un don para compartir",
+      "texto": "Kistemaker dedica unas consideraciones al gozo: no es un estallido emocional pasajero ni una respuesta a circunstancias favorables, y muchas veces aparece en medio de las dificultades. Es un don de Dios (Sal 16:11; Jn 16:24; Ro 15:13) que llega al que confía totalmente en él, está ligado a lo que Dios hizo para salvar y se responde amándolo y obedeciéndole (Jn 15:9-11). Además es un gozo que se comparte: el pastor que encontró la oveja y la mujer que encontró la moneda llaman a los vecinos, y en el cielo hay gozo por un pecador que se arrepiente (Lc 15:4-10). MacArthur abre su comentario de este tramo con esas mismas parábolas para decir que la salvación genuina y el gozo verdadero van de la mano.",
+      "fuentes": [
+        "kis1p_02_b#6",
+        "mac1p_02_a#12"
+      ]
+    },
+    {
+      "titulo": "¿Pensaban los apóstoles que su fe era menor?",
+      "texto": "Kistemaker, siguiendo a Bengel, se pregunta si los apóstoles, que vieron y oyeron a Jesús, consideraban que su fe no era tan grande como la de quienes creían sin ver. Lo ve posible por tres razones: Pedro estaba presente cuando Jesús pronunció la bienaventuranza sobre los que creen sin ver (Jn 20:29), usa dos veces la idea de «aunque» en el v. 8 y destaca el adverbio «ahora». Lo seguro es que Pedro elogia la fe de sus lectores.",
+      "fuentes": [
+        "kis1p_02_b#3"
+      ]
+    },
+    {
+      "titulo": "Detalles del griego en los vv. 8-9",
+      "texto": "Kistemaker señala que los dos «sin ver» del v. 8 son distintos: el primero (no lo vieron) mira al pasado, a la historia; el segundo (no lo ven ahora) mira al presente; ambos tienen sentido de concesión. «Glorioso» es un participio perfecto que indica un efecto permanente. En el v. 9, un manuscrito importante omite «vuestra», pero los especialistas suelen preferir incluirla.",
+      "fuentes": [
+        "kis1p_02_b#7",
+        "kis1p_02_b#8"
+      ]
+    },
+    {
+      "titulo": "Fe, esperanza y amor en 1P 1:3-9",
+      "texto": "Kistemaker hace notar que en los vv. 3-9 aparecen las tres virtudes cristianas: fe, esperanza y amor. Los vv. 8-9 están construidos en paralelo: aman sin haberlo visto y creen aunque no lo ven ahora; se alegran con gozo indecible porque están obteniendo el fin de su fe.",
+      "fuentes": [
+        "kis1p_02_b#1"
+      ]
+    },
+    {
+      "titulo": "Una ilustración: Roy Domínguez",
+      "texto": "McConnell cuenta la historia de Roy Domínguez, un muchacho de Friona, en el oeste de Texas: a los quince años conoció a Cristo y sus abuelos le dijeron que dejara su fe o se fuera de la casa. Se fue a vivir con una familia creyente, siguió al Señor y después sirvió en la música, la evangelización y el trabajo con jóvenes. La prueba temprana fortaleció su fe. (McConnell, Comentario Bíblico Mundo Hispano, p. 321).",
+      "fuentes": [
+        "cbmh1p_01_b#21"
+      ]
+    },
+    {
+      "titulo": "Los nombres de la segunda venida en 1 Pedro",
+      "texto": "En un bosquejo sobre la segunda venida, Vila (1000 bosquejos para predicadores) reúne los nombres que usa 1 Pedro: la última vez o el tiempo postrero (1:5), la aparición de Jesucristo, cuando la fe probada resulte en alabanza (1:7), y su revelación, en la que se trae la gracia (1:13). Otros bosquejos de la misma obra ponen 1P 1:7 entre los motivos de consuelo en la tribulación.",
+      "fuentes": [
+        "r1_009#12"
+      ]
+    }
   ]
 }

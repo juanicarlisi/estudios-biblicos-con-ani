@@ -1,0 +1,81 @@
+{
+  "id": "dg-sufrimiento",
+  "titulo": "El sufrimiento en 1 Pedro: por qué, cómo responder y qué hizo Cristo",
+  "bajada": "Pedro vuelve al tema una y otra vez. Cada fila junta lo que dice un tramo de la carta: el sentido de la prueba, la respuesta del creyente y lo que Cristo hizo o hará.",
+  "tipo": "tabla",
+  "columnas": ["Pasaje", "Por qué o para qué", "Cómo responder", "Qué hizo Cristo"],
+  "filas": [
+    {
+      "celdas": [
+        "Pruebas que refinan la fe",
+        "Son breves, duelen de verdad y llegan «si es necesario», dentro de la voluntad de Dios; como el fuego al oro, muestran que la fe es genuina",
+        "Alegrarse aun con pena, porque gozo y tristeza conviven; amar y creer en el Señor sin haberlo visto",
+        "Cuando se manifieste, la fe probada terminará en alabanza, gloria y honra"
+      ],
+      "ref": "1P 1:6-9",
+      "fuentes": ["mac1p_02_a#17", "kis1p_02_a#23", "kis1p_02_a#24", "mac1p_02_a#20", "bea1p_01_a#20", "mac1p_02_a#25", "kis1p_02_a#29"]
+    },
+    {
+      "celdas": [
+        "Primero sufrimiento, después gloria",
+        "Los profetas no terminaban de entender cómo se unían las dos cosas; a los lectores dispersos les pasaba lo mismo (Nicholson)",
+        "Valorar la salvación que tienen: los profetas la indagaron y los ángeles anhelan mirarla",
+        "El Espíritu de Cristo anunció de antemano sus sufrimientos y las glorias que vendrían después"
+      ],
+      "ref": "1P 1:10-12",
+      "fuentes": ["moodynt_01_a#22", "bea1p_01_a#21", "mhenry_01_a#8", "mac1p_02_b#1"]
+    },
+    {
+      "celdas": [
+        "Sufrir injustamente",
+        "«Para esto fuisteis llamados»: quien fue llamado a la salvación soportará algún trato injusto, y Dios conoce esa injusticia",
+        "Soportar haciendo el bien, con conciencia de Dios; no devolver insulto por insulto; encomendarse al Juez justo",
+        "Ejemplo: sin pecado ni engaño, no respondía con maldición. Sustituto: llevó nuestros pecados sobre el madero. Pastor de las ovejas que vuelven"
+      ],
+      "ref": "1P 2:19-25",
+      "fuentes": ["mbib1p_01_b#24", "mac1p_05_b#15", "kis1p_04_a#21", "kis1p_04_a#15", "mac1p_05_b#21", "kis1p_04_a#25", "mac1p_05_b#17", "r1_003#23", "mhenry_01_a#27", "kis1p_04_a#27"]
+    },
+    {
+      "celdas": [
+        "Sufrir por hacer el bien",
+        "Es posible, no seguro; si llega, es «por causa de la justicia» y trae bendición. Mejor sufrir por hacer el bien que por hacer el mal",
+        "No temer a los hombres; santificar a Cristo como Señor en el corazón; estar listos para dar razón de la esperanza, con mansedumbre y buena conciencia",
+        "Kistemaker liga «por causa de la justicia» con Cristo, el justo que padeció por los injustos (3:18)"
+      ],
+      "ref": "1P 3:13-17",
+      "fuentes": ["kis1p_04_c#21", "mac1p_06_a#33", "kis1p_05_a#8", "mac1p_06_a#30", "bea1p_01_b#25", "mac1p_06_b#6", "mac1p_06_b#7"]
+    },
+    {
+      "celdas": [
+        "Armarse del mismo pensamiento",
+        "Al mundo le parece extraño que ya no corran con ellos, y los calumnia; pero los que insultan darán cuenta al Juez",
+        "Estar dispuestos a sufrir, sabiendo que la cruz precede a la corona; vivir el tiempo que queda para la voluntad de Dios",
+        "Padeció una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios; la mayor injusticia terminó en su triunfo"
+      ],
+      "ref": "1P 3:18-4:6",
+      "fuentes": ["mac1p_07_a#35", "mac1p_07_a#36", "kis1p_05_b#28", "bea1p_02#1", "mac1p_07_a#24", "cbmh1p_02_b#16", "kis1p_05_a#13", "mac1p_06_b#17", "mac1p_07_a#23"]
+    },
+    {
+      "celdas": [
+        "La prueba de fuego",
+        "No es un accidente: Dios la permite para probar y refinar la fe; es un juicio que empieza por la casa de Dios, para purificar y no para condenar",
+        "No sorprenderse; alegrarse; no sufrir como malhechor ni avergonzarse de ser cristiano; encomendarse al fiel Creador y seguir haciendo el bien",
+        "Participar de sus padecimientos no agrega nada a la cruz: es sufrir lo mismo que Él sufrió; su gloria se revelará en su venida"
+      ],
+      "ref": "1P 4:12-19",
+      "fuentes": ["kis1p_06_a#17", "mac1p_08_a#3", "mac1p_08_a#4", "mac1p_08_a#23", "mac1p_08_a#16", "kis1p_06_a#28", "kis1p_06_a#38", "kis1p_06_a#39", "kis1p_06_a#18", "mac1p_08_a#6", "mac1p_08_a#8"]
+    },
+    {
+      "celdas": [
+        "El adversario y el Dios que afirma",
+        "Detrás de la presión hay un enemigo personal, el diablo, que busca destruir la fe",
+        "Ser sobrios y velar; resistir firmes en la fe; recordar que los hermanos en todo el mundo sufren lo mismo",
+        "Dios los llamó a su gloria eterna en Cristo y, después de un poco de tiempo, los perfeccionará, afirmará, fortalecerá y establecerá"
+      ],
+      "ref": "1P 5:8-11",
+      "fuentes": ["mac1p_08_b#35", "ncb1p_01_b#31", "cbmh1p_03#10", "kis1p_07#6", "bea1p_02#19", "kis1p_07#11", "kis1p_07#13", "mac1p_09#10"]
+    }
+  ],
+  "nota": "Los autores coinciden en que el sufrimiento no salva ni da méritos, y en que no hay que buscarlo: McConnell advierte que se sufre por hacer lo correcto, no por imprudencia, y MacArthur (citando a Lloyd-Jones) previene contra sentirse superior por ser perseguido. Kistemaker distingue prueba de tentación: Dios no tienta, pero prueba para fortalecer la fe.",
+  "dias": [2, 3, 4, 11, 12, 15, 16, 17, 18, 20, 23]
+}

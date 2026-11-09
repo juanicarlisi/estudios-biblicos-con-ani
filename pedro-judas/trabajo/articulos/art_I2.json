@@ -1,42 +1,86 @@
 {
   "id": "I2",
   "titulo": "1 Pedro: autor, fecha, destinatarios y estructura",
-  "bajada": "Quién escribió la carta, desde dónde y cuándo, a quiénes iba dirigida, por qué la escribió y cómo está armada.",
+  "bajada": "Quién escribió la carta, desde dónde, cuándo, a quiénes, para qué y cómo está armada.",
   "entrada": {
-    "texto": "Antes de leer una carta conviene saber quién la manda, a quién y en qué circunstancias. Primera de Pedro se presenta como obra del apóstol, escrita con ayuda de Silvano desde un lugar al que llama «Babilonia», y dirigida a creyentes repartidos por el norte de Asia Menor que sufrían por su fe. Los comentaristas que usamos coinciden en lo central: es carta de Pedro, escrita en los años de Nerón, para animar a cristianos maltratados a mantenerse firmes en la gracia de Dios. Donde difieren (la ciudad exacta, el año, el origen de los lectores) lo vamos a mostrar con sus razones.",
-    "fuentes": ["ncb1p_01_a#1", "moodynt_01_a#1", "mac1p_01_a#20", "bea1p_01_a#2"]
+    "texto": "Primera de Pedro se presenta como obra del apóstol, escrita con ayuda de Silvano desde «Babilonia» y dirigida a creyentes del norte de Asia Menor que sufrían por su fe. Los comentaristas consultados coinciden en lo central: es carta de Pedro, de los años de Nerón, para animar a cristianos maltratados a mantenerse firmes en la gracia de Dios. Donde difieren lo mostramos con sus razones.",
+    "fuentes": [
+      "ncb1p_01_a#1",
+      "moodynt_01_a#1",
+      "mac1p_01_a#20",
+      "bea1p_01_a#2"
+    ]
   },
   "versiculos": [
-    {"ref": "1P 1:1", "porque": "El encabezado: el autor se presenta y nombra a los destinatarios y sus cinco regiones."},
-    {"ref": "1P 5:12", "porque": "El papel de Silvano y el propósito de la carta dicho por el mismo Pedro."},
-    {"ref": "1P 5:13", "porque": "«Babilonia» y Marcos: las pistas sobre el lugar de redacción."},
-    {"ref": "1P 1:6", "porque": "El sufrimiento aparece desde el primer capítulo."},
-    {"ref": "1P 4:12", "porque": "El «fuego de prueba» que los lectores enfrentaban o estaban por enfrentar."},
-    {"ref": "1P 2:11", "porque": "Los lectores como «extranjeros y peregrinos»: la identidad que recorre la carta."}
+    {
+      "ref": "1P 1:1",
+      "porque": "Pedro se presenta y nombra a los destinatarios."
+    },
+    {
+      "ref": "1P 5:12",
+      "porque": "Silvano y el propósito de la carta."
+    },
+    {
+      "ref": "1P 5:13",
+      "porque": "«Babilonia» y Marcos."
+    },
+    {
+      "ref": "1P 1:6",
+      "porque": "El sufrimiento desde el comienzo."
+    },
+    {
+      "ref": "1P 4:12",
+      "porque": "El «fuego de prueba»."
+    },
+    {
+      "ref": "1P 2:11",
+      "porque": "Los lectores como peregrinos."
+    }
   ],
   "apartados": [
     {
       "titulo": "Quién escribe: Pedro, con la mano de Silvano",
       "parrafos": [
         {
-          "texto": "La carta se abre con el nombre de su autor: «apóstol de Jesucristo». Más adelante el mismo escritor se presenta como anciano y testigo de los padecimientos de Cristo (5:1), y al final menciona a Silvano y a Marcos, dos colaboradores conocidos de la iglesia primitiva. Además, 2 Pedro dice ser una segunda carta a los mismos lectores (2P 3:1). El Comentario Moody agrega un criterio sensato: a un escrito antiguo se le cree lo que dice de sí mismo mientras no haya pruebas fuertes en contra.",
-          "fuentes": ["kis1p_01_a#4", "ncb1p_01_a#1", "moodynt_01_a#1"]
+          "texto": "La carta se abre con el nombre de su autor: «apóstol de Jesucristo». Más adelante se presenta como anciano y testigo de los padecimientos de Cristo (5:1) y menciona a Silvano y a Marcos, colaboradores conocidos de la iglesia primitiva. El Comentario Moody recuerda un criterio sensato: a un escrito antiguo se le cree lo que dice de sí mismo mientras no haya pruebas fuertes en contra.",
+          "fuentes": [
+            "kis1p_01_a#4",
+            "ncb1p_01_a#1",
+            "moodynt_01_a#1"
+          ]
         },
         {
-          "texto": "El testimonio externo es temprano y amplio. MacArthur rastrea ecos de la carta en escritos cristianos de fines del primer siglo y comienzos del segundo, una cita directa en la carta de Policarpo a los Filipenses y la atribución explícita a Pedro en Ireneo, Tertuliano y Clemente de Alejandría; Eusebio la contaba entre los libros que nadie discutía. Nicholson (Beacon) recoge el juicio de varios eruditos de que pocos libros del Nuevo Testamento tienen un respaldo tan antiguo, y el Diccionario Mundo Hispano señala que los Padres aceptaron la autoría de manera unánime.",
-          "fuentes": ["mac1p_01_a#10", "bea1p_01_a#2", "dbmh_02_a#12"]
+          "texto": "El testimonio externo es temprano: MacArthur señala una cita en la carta de Policarpo y la atribución explícita a Pedro en Ireneo, Tertuliano y Clemente de Alejandría; Eusebio la contaba entre los libros que nadie discutía. Nicholson (Beacon) y el Diccionario Mundo Hispano subrayan que la iglesia antigua la aceptó de manera unánime.",
+          "fuentes": [
+            "mac1p_01_a#10",
+            "bea1p_01_a#2",
+            "dbmh_02_a#12"
+          ]
         },
         {
-          "texto": "También hay ecos internos de Pedro. Igual que en sus discursos de Hechos, Cristo es la piedra rechazada por los edificadores (2:7-8; Hch 4:10-11) y Dios no hace acepción de personas (1:17; Hch 10:34). MacArthur ve en el pedido de revestirse de humildad (5:5) un recuerdo del lavamiento de los pies, y en varias frases, ecos de dichos de Jesús.",
-          "fuentes": ["mbib1p_01_a#4", "dbmh_02_a#13"]
+          "texto": "También hay ecos de los discursos de Pedro en Hechos: Cristo es la piedra rechazada por los edificadores (2:7-8; Hch 4:10-11) y Dios no hace acepción de personas (1:17; Hch 10:34).",
+          "fuentes": [
+            "mbib1p_01_a#4",
+            "dbmh_02_a#13"
+          ]
         },
         {
-          "texto": "La objeción más seria es el griego, bastante cuidado para un pescador al que Hechos llama «sin letras» (Hch 4:13), y el uso de la traducción griega del Antiguo Testamento (la Septuaginta). Kistemaker, MacArthur y el Nuevo Comentario Bíblico responden en la misma línea: Galilea era una región bilingüe y muy influida por lo griego; Pedro y su hermano Andrés llevaban nombres griegos; un pescador con negocio sobre una ruta comercial necesitaba esa lengua; y tras unos treinta años predicando entre gentiles el griego sería su idioma diario y la Septuaginta, la Biblia que conocían sus lectores. «Sin letras», explica MacArthur, quiere decir sin formación rabínica, no analfabeto.",
-          "fuentes": ["kis1p_01_a#9", "mac1p_01_a#14", "ncb1p_01_a#2", "mbib1p_01_a#5"]
+          "texto": "La objeción más seria es el griego, bastante cuidado para un pescador al que Hechos llama «sin letras» (Hch 4:13). Kistemaker, MacArthur y el Nuevo Comentario Bíblico responden en la misma línea: Galilea era bilingüe y muy influida por lo griego, Pedro y Andrés llevaban nombres griegos, y tras unos treinta años predicando entre gentiles el griego sería su idioma diario y la Septuaginta, la Biblia de sus lectores. «Sin letras», explica MacArthur, quiere decir sin formación rabínica, no analfabeto.",
+          "fuentes": [
+            "kis1p_01_a#9",
+            "mac1p_01_a#14",
+            "ncb1p_01_a#2",
+            "mbib1p_01_a#5"
+          ]
         },
         {
-          "texto": "Y está Silvano. Pedro dice que escribió «por conducto de Silvano» (5:12). Se lo identifica con el Silas de Hechos y de las cartas de Pablo, que además era profeta (Hch 15:32). Pudo ser el portador de la carta, pero varios autores ven más: que actuó como secretario, algo común en la época (Pablo dictó Romanos a Tercio, Ro 16:22), y que ayudó a pulir el estilo mientras el contenido era de Pedro. Para Nicholson, la verdadera pregunta abierta no es si Pedro escribió, sino cuánto aportó Silvano a la redacción.",
-          "fuentes": ["mbib1p_01_a#6", "mac1p_01_a#15", "ncb1p_01_a#2", "bea1p_01_a#2"]
+          "texto": "Y está Silvano: Pedro escribió «por conducto de Silvano» (5:12), el Silas de Hechos y de las cartas de Pablo. Pudo ser el portador, pero varios autores ven más: un secretario, algo común en la época (Ro 16:22), que ayudó a pulir el estilo mientras el contenido era de Pedro. Para Nicholson, la pregunta abierta no es si Pedro escribió, sino cuánto aportó Silvano a la redacción.",
+          "fuentes": [
+            "mbib1p_01_a#6",
+            "mac1p_01_a#15",
+            "ncb1p_01_a#2",
+            "bea1p_01_a#2"
+          ]
         }
       ]
     },
@@ -44,20 +88,42 @@
       "titulo": "Desde dónde y cuándo: «Babilonia» y los años de Nerón",
       "parrafos": [
         {
-          "texto": "Pedro manda saludos de la iglesia que está «en Babilonia» (5:13). Los comentaristas evalúan tres opciones. Había una guarnición romana llamada Babilonia en Egipto, pero era un sitio menor y nada indica que Pedro haya estado allí. La antigua Babilonia del Éufrates tuvo una comunidad judía, pero según el Comentario Moody una persecución la dispersó hacia el año 41, y MacArthur la juzga demasiado chica y lejana para reunir a Pedro, Marcos y Silvano. La tercera opción, preferida por MacArthur, el Nuevo Comentario Bíblico, Kistemaker y el Moody, es que «Babilonia» sea un nombre en clave de Roma, como en Apocalipsis 17 y 18: una forma de cuidar a la iglesia en tiempos de persecución y un retrato de una ciudad idólatra.",
-          "fuentes": ["mbib1p_01_a#10", "moodynt_01_a#7", "mac1p_01_a#19", "ncb1p_01_a#5", "kis1p_01_b#23"]
+          "texto": "Pedro saluda desde la iglesia que está «en Babilonia» (5:13). Los comentaristas evalúan tres opciones: una guarnición romana con ese nombre en Egipto, sitio menor sin vínculo conocido con Pedro; la antigua Babilonia del Éufrates, que el Moody y MacArthur juzgan improbable; y Roma, nombrada en clave como en Apocalipsis 17 y 18, por prudencia en tiempos de persecución y por su idolatría. Esta última es la preferida por MacArthur, el Nuevo Comentario Bíblico, Kistemaker y el Moody.",
+          "fuentes": [
+            "mbib1p_01_a#10",
+            "moodynt_01_a#7",
+            "mac1p_01_a#19",
+            "ncb1p_01_a#5",
+            "kis1p_01_b#23"
+          ]
         },
         {
-          "texto": "A favor de Roma pesa también la tradición. Papías e Ireneo vinculan a Marcos con Pedro como su intérprete y a Pedro con la predicación en Roma, y Marcos estuvo en Roma con Pablo (Col 4:10; 2Ti 4:11) antes de aparecer junto a Pedro (5:13). El Moody añade que la preferencia de algunos reformadores por la Babilonia oriental pudo deberse a su oposición al papado. En el otro sentido, Wiersbe advierte que la Biblia no muestra a Pedro fundando la iglesia de Roma ni siendo su obispo: cuando Pablo escribió Romanos, Pedro no estaba entre los saludados.",
-          "fuentes": ["kis1p_01_b#20", "ncb1p_01_a#5", "moodynt_01_a#7", "r1_006#3", "mac1p_01_a#9"]
+          "texto": "A favor de Roma pesa la tradición: Papías e Ireneo vinculan a Marcos con Pedro como su intérprete, y Marcos estuvo en Roma con Pablo (Col 4:10) antes de aparecer junto a Pedro (5:13). En el otro sentido, Wiersbe advierte que la Biblia no muestra a Pedro fundando la iglesia de Roma ni siendo su obispo: cuando Pablo escribió Romanos, Pedro no estaba entre los saludados.",
+          "fuentes": [
+            "kis1p_01_b#20",
+            "ncb1p_01_a#5",
+            "r1_006#3",
+            "mac1p_01_a#9"
+          ]
         },
         {
-          "texto": "En cuanto a la fecha, los autores conservadores la ubican en una franja estrecha. MacArthur y McConnell razonan que Pedro llegó a Roma después de que Pablo escribió Romanos y después de su primer encarcelamiento, y que murió bajo Nerón, quien a su vez murió en el 68. Kistemaker propone el 63 o comienzos del 64; el Nuevo Comentario Bíblico, 63-64; Nicholson, entre 63 y 65; MacArthur, poco antes o poco después del incendio de Roma de julio del 64. Un argumento repetido es que la carta pide honrar al rey (2:13-17) y no menciona mártires, algo difícil de imaginar si ya hubiera estallado la matanza de cristianos en Roma.",
-          "fuentes": ["kis1p_01_b#17", "ncb1p_01_a#5", "bea1p_01_a#4", "mbib1p_01_a#7", "mac1p_01_a#9", "cbmh1p_01_a#9"]
+          "texto": "Sobre la fecha, los autores consultados coinciden en una franja estrecha al final de la vida de Pedro, que murió bajo Nerón (y Nerón murió en el 68). Kistemaker propone el 63 o comienzos del 64; el Nuevo Comentario Bíblico, 63-64; Nicholson, entre 63 y 65; MacArthur, poco antes o poco después del incendio de Roma de julio del 64. Un argumento repetido: la carta pide honrar al rey (2:13-17) y no menciona mártires, algo difícil si ya hubiera estallado la matanza de cristianos en Roma.",
+          "fuentes": [
+            "kis1p_01_b#17",
+            "ncb1p_01_a#5",
+            "bea1p_01_a#4",
+            "mbib1p_01_a#7",
+            "mac1p_01_a#9",
+            "cbmh1p_01_a#9"
+          ]
         },
         {
-          "texto": "El trasfondo es conocido. Cuando Roma ardió en el 64, Nerón culpó a los cristianos, ya mal vistos por su vínculo con los judíos y por no adorar a los dioses de la ciudad, y los castigó con crueldad. Según MacArthur la persecución oficial se concentró en Roma, aunque la hostilidad se extendió; Kistemaker cree dudoso que haya quedado confinada a la capital y pide no ser dogmáticos. La tradición dice que tanto Pedro como Pablo murieron en esa persecución.",
-          "fuentes": ["mac1p_01_a#4", "mbib1p_01_a#9", "kis1p_01_a#7"]
+          "texto": "Cuando Roma ardió, Nerón culpó a los cristianos y los castigó con crueldad. Según MacArthur la persecución oficial se concentró en Roma, aunque la hostilidad se extendió; Kistemaker pide no ser dogmáticos sobre su alcance. La tradición dice que Pedro y Pablo murieron en esa persecución.",
+          "fuentes": [
+            "mac1p_01_a#4",
+            "mbib1p_01_a#9",
+            "kis1p_01_a#7"
+          ]
         }
       ]
     },
@@ -65,16 +131,33 @@
       "titulo": "A quiénes: los «expatriados de la dispersión»",
       "parrafos": [
         {
-          "texto": "La carta va a los «expatriados de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia» (1:1): el norte y el oeste de la actual Turquía, al norte de los montes Tauro. McConnell recuerda que esos nombres eran antiguos reinos y, salvo el Ponto, también provincias romanas, por eso ubicar las iglesias con precisión es difícil. Había allí judíos asentados desde siglos atrás y sinagogas frecuentadas por gentiles. El orden de la lista llama la atención: el Nuevo Comentario Bíblico lo explica como el recorrido de un mensajero que llega en barco a un puerto del Ponto y da la vuelta por las provincias; McConnell deja la pregunta abierta.",
-          "fuentes": ["cbmh1p_01_a#10", "ncb1p_01_a#6", "ncb1p_01_a#5", "cbmh1p_01_a#11"]
+          "texto": "La carta va a los «expatriados de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia» (1:1): el norte y el oeste de la actual Turquía, al norte de los montes Tauro. McConnell recuerda que esos nombres eran antiguos reinos y, salvo el Ponto, provincias romanas, con judíos asentados desde siglos atrás. El orden de la lista, según el Nuevo Comentario Bíblico, sugiere el recorrido de un mensajero que llega en barco a un puerto del Ponto.",
+          "fuentes": [
+            "cbmh1p_01_a#10",
+            "ncb1p_01_a#6",
+            "ncb1p_01_a#5"
+          ]
         },
         {
-          "texto": "¿Eran judíos o gentiles convertidos? El encabezado suena judío: elegidos, extranjeros, dispersión eran palabras con que se describía a los judíos que vivían fuera de su tierra, y Pedro era el apóstol de la circuncisión (Gá 2:7-9). Pero otros pasajes describen un pasado pagano: vivían en la ignorancia (1:14), heredaron una vana manera de vivir (1:18), antes no eran pueblo (2:10) y hacían lo que agrada a los gentiles (4:3). Con esa evidencia, Kistemaker concluye que había judíos y gentiles; el Nuevo Comentario Bíblico, MacArthur y el Moody, que la mayoría eran gentiles; y Nicholson resume las dos posturas para cerrar, con Dods, que había de ambos. El Nuevo Comentario Bíblico explica la mezcla así: Pedro escribe con mirada judía porque ve a la iglesia como el verdadero Israel de Dios, y por eso aplica a todos los creyentes el lenguaje del pueblo disperso.",
-          "fuentes": ["kis1p_01_b#12", "ncb1p_01_a#6", "mbib1p_01_a#9", "moodynt_01_a#9", "bea1p_01_a#3"]
+          "texto": "¿Eran judíos o gentiles convertidos? El encabezado suena judío: elegidos, extranjeros y dispersión describían a los judíos que vivían fuera de su tierra. Pero otros pasajes hablan de un pasado pagano: vivían en la ignorancia (1:14), heredaron una vana manera de vivir (1:18), antes no eran pueblo (2:10) e hicieron lo que agrada a los gentiles (4:3). Kistemaker y Nicholson concluyen que había de ambos; el Nuevo Comentario Bíblico, MacArthur y el Moody, que la mayoría eran gentiles. El Nuevo Comentario Bíblico explica la mezcla: Pedro ve a la iglesia como el verdadero Israel de Dios y aplica a todos los creyentes el lenguaje del pueblo disperso.",
+          "fuentes": [
+            "kis1p_01_b#12",
+            "ncb1p_01_a#6",
+            "mbib1p_01_a#9",
+            "moodynt_01_a#9",
+            "bea1p_01_a#3"
+          ]
         },
         {
-          "texto": "¿Quién les había llevado el evangelio? Tampoco aquí hay unanimidad. El Moody y Nicholson mencionan la posibilidad de que algunos hubieran oído a Pedro en Pentecostés (Hch 2:9 nombra a gente de Capadocia, Ponto y Asia) y volvieran a sus tierras como sembradores; el Moody nota que a Pablo el Espíritu le impidió trabajar en parte de esa zona (Hch 16:6-8). Wiersbe y MacArthur, en cambio, piensan en iglesias fundadas o enseñadas por Pablo y sus colaboradores. Entre los lectores había esclavos (2:18-20), esposas de maridos incrédulos (3:1) y congregaciones con ancianos (5:1-4).",
-          "fuentes": ["moodynt_01_a#9", "bea1p_01_a#3", "r1_006#5", "mbib1p_01_a#9", "kis1p_01_b#13", "kis1p_01_b#11"]
+          "texto": "¿Quién les llevó el evangelio? El Moody y Nicholson mencionan que algunos pudieron oír a Pedro en Pentecostés (Hch 2:9) y volver a sus tierras como sembradores; Wiersbe y MacArthur piensan en iglesias fundadas o enseñadas por Pablo y sus colaboradores. Entre los lectores había esclavos (2:18-20) y congregaciones con ancianos (5:1-4).",
+          "fuentes": [
+            "moodynt_01_a#9",
+            "bea1p_01_a#3",
+            "r1_006#5",
+            "mbib1p_01_a#9",
+            "kis1p_01_b#13",
+            "kis1p_01_b#11"
+          ]
         }
       ]
     },
@@ -82,20 +165,40 @@
       "titulo": "Por qué escribe: sufrimiento, esperanza y gracia",
       "parrafos": [
         {
-          "texto": "El sufrimiento atraviesa toda la carta, desde las pruebas de 1:6 hasta el «después que hayáis padecido un poco de tiempo» de 5:10. Kistemaker observa que en cuatro de los cinco capítulos hay alusiones al rechazo y aun lenguaje de tribunal (presentar defensa, difamar, juicio), pero advierte que la carta no describe procesos legales ni usa la palabra persecución, así que no hay que proyectarle detalles históricos que no da. Lo que sí está claro es la situación: una minoría que no participaba de la vida pagana de sus vecinos y por eso era calumniada (4:3-4).",
-          "fuentes": ["kis1p_01_b#22", "kis1p_01_b#14", "bea1p_01_a#7"]
+          "texto": "El sufrimiento atraviesa toda la carta, desde las pruebas de 1:6 hasta el «después que hayáis padecido un poco de tiempo» de 5:10. Kistemaker nota alusiones al rechazo en cuatro de los cinco capítulos, aun con lenguaje de tribunal, pero advierte que la carta no describe procesos legales, así que no hay que proyectarle detalles que no da. Lo claro es la situación: una minoría calumniada por no participar de la vida pagana de sus vecinos (4:3-4).",
+          "fuentes": [
+            "kis1p_01_b#22",
+            "kis1p_01_b#14",
+            "bea1p_01_a#7"
+          ]
         },
         {
-          "texto": "¿Era ya la persecución de Nerón o algo anterior? Wiersbe y MacArthur ven a Pedro anticipando que el «fuego de prueba» (4:12) llegaría a las provincias. Bigg, citado por el Moody, piensa en una fase previa de hostilidad social y local, y el Moody juzga razonable esa lectura. Nicholson habla de ostracismo social de parte de judíos y paganos antes de cualquier persecución oficial. Algunos críticos, en cambio, ven en la carta la persecución de Trajano, ya en el siglo II, y por eso niegan que Pedro la escribiera. Kistemaker responde que no hay pruebas de una persecución general en las provincias bajo Domiciano ni bajo Trajano, y MacArthur recuerda que sufrir por el nombre de Cristo ya lo había anunciado Jesús (Mr 13:13) y lo habían vivido los apóstoles (Hch 5:41).",
-          "fuentes": ["r1_006#5", "mac1p_01_a#4", "moodynt_01_a#5", "bea1p_01_a#3", "moodynt_01_a#4", "kis1p_01_a#7", "mac1p_01_a#13"]
+          "texto": "¿Era ya la persecución de Nerón? Wiersbe y MacArthur ven a Pedro anticipando que el «fuego de prueba» (4:12) llegaría a las provincias; Bigg, citado por el Moody, y Nicholson piensan en una hostilidad social y local anterior. Algunos críticos ven allí la persecución de Trajano, en el siglo II, y niegan que Pedro escribiera; Kistemaker responde que no hay pruebas de una persecución general en las provincias en esa época, y MacArthur recuerda que sufrir por el nombre de Cristo ya lo había anunciado Jesús (Mr 13:13).",
+          "fuentes": [
+            "r1_006#5",
+            "mac1p_01_a#4",
+            "moodynt_01_a#5",
+            "bea1p_01_a#3",
+            "moodynt_01_a#4",
+            "kis1p_01_a#7",
+            "mac1p_01_a#13"
+          ]
         },
         {
-          "texto": "El propósito lo dice Pedro al cerrar: les escribió para exhortarlos y testificar que «esta es la verdadera gracia de Dios», en la cual están firmes (5:12). Kistemaker lo resume como un mensaje de esperanza (la palabra aparece varias veces: 1:3, 13, 21; 3:5, 15); Wiersbe destaca la gracia, presente en todos los capítulos; MacArthur, el deseo de que vivan con victoria en la hostilidad, sin perder la esperanza, sin amargarse y esperando la venida del Señor, de modo que su buena conducta hable del evangelio (2:12; 3:1). Nicholson cita a Tenney: enseñarles a vivir su redención en un mundo hostil.",
-          "fuentes": ["kis1p_01_b#21", "r1_006#7", "mbib1p_01_a#11", "mac1p_01_a#20", "bea1p_01_a#7"]
+          "texto": "El propósito lo dice Pedro al cerrar: escribió para exhortarlos y testificar que «esta es la verdadera gracia de Dios», en la cual están firmes (5:12). Kistemaker lo resume como un mensaje de esperanza; Wiersbe destaca la gracia, presente en todos los capítulos; MacArthur, el deseo de que vivan con victoria en la hostilidad, sin amargarse y esperando la venida del Señor, de modo que su conducta hable del evangelio (2:12).",
+          "fuentes": [
+            "kis1p_01_b#21",
+            "r1_006#7",
+            "mbib1p_01_a#11",
+            "mac1p_01_a#20"
+          ]
         },
         {
-          "texto": "McConnell compara estilos: Pablo suele enseñar primero y exhortar después; Pedro enseña mientras exhorta. La doctrina siempre baja a la vida: Dios es santo y por eso hay que imitarlo (1:15-16), es Padre y sus hijos viven como tales (1:17), es fiel y se le puede confiar el alma (4:19), y Cristo es a la vez el sustituto que murió por los injustos y el ejemplo para quien sufre (2:21-24; 3:18). Por eso el Nuevo Comentario Bíblico llama a Pedro un teólogo práctico.",
-          "fuentes": ["cbmh1p_01_a#13", "ncb1p_01_a#10"]
+          "texto": "McConnell observa que Pablo suele enseñar primero y exhortar después, mientras que Pedro enseña mientras exhorta. Por eso el Nuevo Comentario Bíblico lo llama teólogo práctico: Dios es santo y hay que imitarlo (1:15-16), es Padre y sus hijos viven como tales (1:17).",
+          "fuentes": [
+            "cbmh1p_01_a#13",
+            "ncb1p_01_a#10"
+          ]
         }
       ]
     },
@@ -103,20 +206,35 @@
       "titulo": "Cómo está armada la carta",
       "parrafos": [
         {
-          "texto": "Tiene la forma de las cartas de Pablo: saludo (1:1-2), cuerpo y despedida (5:12-14). Para memorizar el cuerpo sirve el bosquejo de Kistemaker en siete palabras: introducción (1:1-2), salvación (1:3-12), santidad (1:13-2:3), elección (2:4-10), sumisión (2:11-3:12), sufrimiento (3:13-4:19) y conclusión (5:1-14).",
-          "fuentes": ["dbmh_02_a#14", "kis1p_01_b#29"]
+          "texto": "Tiene la forma de las cartas de Pablo: saludo, cuerpo y despedida. Kistemaker ofrece un bosquejo fácil de memorizar: introducción (1:1-2), salvación (1:3-12), santidad (1:13-2:3), elección (2:4-10), sumisión (2:11-3:12), sufrimiento (3:13-4:19) y conclusión (5:1-14).",
+          "fuentes": [
+            "dbmh_02_a#14",
+            "kis1p_01_b#29"
+          ]
         },
         {
-          "texto": "Otros bosquejos lo dicen en tres movimientos. MacArthur: recuerden su gran salvación (1:3-2:10), recuerden su ejemplo ante los hombres en el gobierno, el trabajo, la familia, la iglesia y el sufrimiento (2:11-4:6), y recuerden que el Señor vuelve (4:7-5:11). Wiersbe lo ordena en torno a la gracia: en la salvación (1:3-2:10), en la sumisión (2:11-3:12) y en el sufrimiento (3:13-5:11). El Nuevo Comentario Bíblico presenta la naturaleza de la salvación (1:3-9), su revelación (1:10-12) y sus resultados prácticos (1:13-5:4).",
-          "fuentes": ["mac1p_01_a#21", "mbib1p_01_a#16", "r1_006#1", "ncb1p_01_a#12"]
+          "texto": "Otros lo dicen en tres movimientos. MacArthur: recuerden su gran salvación (1:3-2:10), su ejemplo ante los hombres (2:11-4:6) y que el Señor vuelve (4:7-5:11). Wiersbe lo ordena en torno a la gracia: en la salvación, en la sumisión y en el sufrimiento (3:13-5:11).",
+          "fuentes": [
+            "mac1p_01_a#21",
+            "mbib1p_01_a#16",
+            "r1_006#1"
+          ]
         },
         {
-          "texto": "Cada autor subraya un hilo distinto, y todos están en el texto: McConnell titula su bosquejo como la dinámica de la esperanza, el Moody pone como tema el sufrimiento del creyente, y Nicholson, en la línea wesleyana del Comentario Beacon, organiza todo alrededor de la santidad (propuesta, ordenada, provista, experimentada, triunfante). Matthew Henry lo resume como un manual breve de consuelo e instrucción para el viaje del cristiano al cielo.",
-          "fuentes": ["cbmh1p_01_a#18", "moodynt_01_a#11", "bea1p_01_a#10", "mhenry_01_a#1"]
+          "texto": "Cada autor subraya un hilo que está en el texto: McConnell, la esperanza; el Moody, el sufrimiento del creyente; Nicholson (Beacon), la santidad.",
+          "fuentes": [
+            "cbmh1p_01_a#18",
+            "moodynt_01_a#11",
+            "bea1p_01_a#10"
+          ]
         },
         {
-          "texto": "Algunos estudiosos propusieron que la carta sería en realidad dos piezas unidas (una que terminaría en la doxología de 4:11 y otra desde 4:12) o un sermón o liturgia para un bautismo. Kistemaker y el Nuevo Comentario Bíblico lo rechazan: no hay ningún manuscrito que muestre la carta dividida, el bautismo se menciona en forma explícita una sola vez (3:21), una doxología en medio de una carta no es un cierre (Ro 11:33-36) y las dos mitades comparten vocabulario y temas, como el sufrimiento por Cristo, la sumisión y el fin cercano. Admiten, eso sí, que hay material de tono de predicación.",
-          "fuentes": ["ncb1p_01_a#7", "kis1p_01_b#28", "kis1p_01_b#27", "ncb1p_01_a#8"]
+          "texto": "Algunos propusieron que la carta sería dos piezas unidas (cortando en la doxología de 4:11) o una liturgia bautismal. Kistemaker y el Nuevo Comentario Bíblico lo rechazan: ningún manuscrito la muestra dividida, el bautismo se menciona en forma explícita solo en 3:21 y las dos mitades comparten vocabulario y temas.",
+          "fuentes": [
+            "ncb1p_01_a#7",
+            "kis1p_01_b#28",
+            "kis1p_01_b#27"
+          ]
         }
       ]
     }
@@ -125,48 +243,171 @@
     {
       "tema": "¿Qué es «Babilonia» en 5:13?",
       "posturas": [
-        {"postura": "Roma, nombrada en clave por prudencia y por su idolatría (cf. Ap 17-18); la opción más probable.", "quien": "MacArthur; Nuevo Comentario Bíblico; Kistemaker; Comentario Moody (Harrison)", "fuentes": ["mbib1p_01_a#10", "ncb1p_01_a#5", "kis1p_01_b#23", "moodynt_01_a#7"]},
-        {"postura": "La Babilonia del Éufrates: posible por su comunidad judía, pero juzgada improbable por los mismos comentaristas; el Moody señala que fue preferida por algunos reformadores.", "quien": "Mencionada por el Moody, MacArthur y el Nuevo Comentario Bíblico", "fuentes": ["moodynt_01_a#7", "mac1p_01_a#19", "ncb1p_01_a#5"]},
-        {"postura": "La guarnición de Babilonia en Egipto: descartada por ser un sitio menor sin vínculo conocido con Pedro.", "quien": "Mencionada por MacArthur y el Moody", "fuentes": ["mbib1p_01_a#10", "moodynt_01_a#7"]}
+        {
+          "postura": "Roma, nombrada en clave (cf. Ap 17-18).",
+          "quien": "MacArthur; Nuevo Comentario Bíblico; Kistemaker; Comentario Moody (Harrison)",
+          "fuentes": [
+            "mbib1p_01_a#10",
+            "ncb1p_01_a#5",
+            "kis1p_01_b#23",
+            "moodynt_01_a#7"
+          ]
+        },
+        {
+          "postura": "La Babilonia del Éufrates; juzgada improbable por los mismos comentaristas.",
+          "quien": "Mencionada por el Moody, MacArthur y el Nuevo Comentario Bíblico",
+          "fuentes": [
+            "moodynt_01_a#7",
+            "mac1p_01_a#19",
+            "ncb1p_01_a#5"
+          ]
+        },
+        {
+          "postura": "La guarnición de Babilonia en Egipto; descartada.",
+          "quien": "Mencionada por MacArthur y el Moody",
+          "fuentes": [
+            "mbib1p_01_a#10",
+            "moodynt_01_a#7"
+          ]
+        }
       ],
-      "nota": "Todos coinciden en que Pedro escribió desde el lugar donde estaban también Silvano y Marcos."
+      "nota": "Todos ubican allí también a Silvano y Marcos."
     },
     {
       "tema": "¿Los destinatarios eran judíos o gentiles?",
       "posturas": [
-        {"postura": "Mayoría gentil, a la que Pedro aplica el lenguaje de Israel porque la iglesia es el pueblo de Dios.", "quien": "Nuevo Comentario Bíblico; MacArthur; Comentario Moody", "fuentes": ["ncb1p_01_a#6", "mbib1p_01_a#9", "moodynt_01_a#9"]},
-        {"postura": "Iglesias mixtas de judíos y gentiles.", "quien": "Kistemaker; Nicholson (Beacon), siguiendo a Dods", "fuentes": ["kis1p_01_b#12", "bea1p_01_a#3"]}
+        {
+          "postura": "Mayoría gentil, con lenguaje de Israel aplicado a la iglesia.",
+          "quien": "Nuevo Comentario Bíblico; MacArthur; Comentario Moody",
+          "fuentes": [
+            "ncb1p_01_a#6",
+            "mbib1p_01_a#9",
+            "moodynt_01_a#9"
+          ]
+        },
+        {
+          "postura": "Iglesias mixtas de judíos y gentiles.",
+          "quien": "Kistemaker; Nicholson (Beacon), siguiendo a Dods",
+          "fuentes": [
+            "kis1p_01_b#12",
+            "bea1p_01_a#3"
+          ]
+        }
       ],
-      "nota": "Todos reconocen que pasajes como 1:14, 1:18, 2:10 y 4:3 hablan de un pasado pagano."
+      "nota": "Todos reconocen el pasado pagano de 1:14, 1:18, 2:10 y 4:3."
     },
     {
       "tema": "¿Cuándo se escribió?",
       "posturas": [
-        {"postura": "63 o comienzos del 64, antes del incendio de Roma.", "quien": "Kistemaker; Nuevo Comentario Bíblico (63-64)", "fuentes": ["kis1p_01_b#17", "ncb1p_01_a#5"]},
-        {"postura": "Alrededor del 64-65, poco antes o poco después del incendio.", "quien": "MacArthur; Comentario Moody; Nicholson (63-65)", "fuentes": ["mbib1p_01_a#7", "moodynt_01_a#8", "bea1p_01_a#4"]},
-        {"postura": "Bajo Domiciano o Trajano, lo que excluiría a Pedro como autor.", "quien": "Algunos críticos (Beare, Best), según Kistemaker; refutado por Kistemaker y MacArthur", "fuentes": ["kis1p_01_a#6", "mac1p_01_a#13"]}
+        {
+          "postura": "63 o comienzos del 64.",
+          "quien": "Kistemaker; Nuevo Comentario Bíblico (63-64)",
+          "fuentes": [
+            "kis1p_01_b#17",
+            "ncb1p_01_a#5"
+          ]
+        },
+        {
+          "postura": "Alrededor del 64-65.",
+          "quien": "MacArthur; Comentario Moody; Nicholson (63-65)",
+          "fuentes": [
+            "mbib1p_01_a#7",
+            "moodynt_01_a#8",
+            "bea1p_01_a#4"
+          ]
+        },
+        {
+          "postura": "Bajo Domiciano o Trajano, sin Pedro como autor.",
+          "quien": "Algunos críticos, según Kistemaker; refutado por Kistemaker y MacArthur",
+          "fuentes": [
+            "kis1p_01_a#6",
+            "mac1p_01_a#13"
+          ]
+        }
       ],
-      "nota": "Los autores conservadores consultados coinciden en ubicarla al final de la vida de Pedro, en tiempos de Nerón."
+      "nota": "Los conservadores la ubican en tiempos de Nerón."
     }
   ],
   "conexiones": [
-    {"ref": "Hch 4:13", "nota": "«Sin letras»: sin formación rabínica, no analfabeto; la base de la objeción al buen griego de la carta.", "fuentes": ["mac1p_01_a#15", "mbib1p_01_a#5"]},
-    {"ref": "Hch 15:22", "nota": "Silas, el Silvano de 5:12, varón principal entre los hermanos y profeta (Hch 15:32).", "fuentes": ["kis1p_01_a#4", "mbib1p_01_a#6"]},
-    {"ref": "Hch 2:9", "nota": "Gente de Capadocia, Ponto y Asia oyó a Pedro en Pentecostés.", "fuentes": ["moodynt_01_a#9", "bea1p_01_a#3"]},
-    {"ref": "Ap 17:5", "nota": "Babilonia como nombre simbólico de una ciudad idólatra y perseguidora.", "fuentes": ["ncb1p_01_a#5", "mbib1p_01_a#10"]},
-    {"ref": "Hch 10:34", "nota": "Dios no hace acepción de personas: el mismo pensamiento en 1P 1:17.", "fuentes": ["dbmh_02_a#13", "mbib1p_01_a#4"]}
+    {
+      "ref": "Hch 4:13",
+      "nota": "«Sin letras»: sin formación rabínica.",
+      "fuentes": [
+        "mac1p_01_a#15",
+        "mbib1p_01_a#5"
+      ]
+    },
+    {
+      "ref": "Hch 15:22",
+      "nota": "Silas, el Silvano de 5:12.",
+      "fuentes": [
+        "kis1p_01_a#4",
+        "mbib1p_01_a#6"
+      ]
+    },
+    {
+      "ref": "Hch 2:9",
+      "nota": "Gente de Capadocia, Ponto y Asia en Pentecostés.",
+      "fuentes": [
+        "moodynt_01_a#9",
+        "bea1p_01_a#3"
+      ]
+    },
+    {
+      "ref": "Ap 17:5",
+      "nota": "Babilonia como nombre de una ciudad idólatra.",
+      "fuentes": [
+        "ncb1p_01_a#5",
+        "mbib1p_01_a#10"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Pedro no les promete a sus lectores que el sufrimiento se va a terminar enseguida; les recuerda que están parados en la verdadera gracia de Dios. Leer la carta sabiendo eso ayuda a mirar nuestras propias pruebas como lugar donde la fe se afirma, no como señal de abandono.", "fuentes": ["kis1p_01_b#21", "kis1p_01_b#22", "mac1p_01_a#20"]},
-    {"texto": "Los lectores eran extranjeros, pero no se encerraban: Pedro les pide vivir bien entre los incrédulos, honrar a las autoridades y ganar al cónyuge con la conducta antes que con argumentos. Ser peregrinos no es huir del mundo, sino vivir distinto dentro de él.", "fuentes": ["kis1p_01_b#23", "mbib1p_01_a#11"]}
+    {
+      "texto": "Pedro no promete que el sufrimiento termine enseguida; recuerda que estamos firmes en la verdadera gracia de Dios. Ser peregrinos no es huir del mundo sino vivir distinto dentro de él.",
+      "fuentes": [
+        "kis1p_01_b#21",
+        "kis1p_01_b#23"
+      ]
+    }
   ],
   "para_conversar": [
-    "Pedro escribió con ayuda de Silvano. ¿Qué nos dice eso sobre cómo Dios usa a colaboradores, y a quién tenemos nosotros como «hermano fiel» en la fe?",
-    "Los lectores eran «expatriados»: vivían en su tierra pero no encajaban en ella. ¿En qué situaciones concretas de nuestra vida nos sentimos así por ser cristianos?",
-    "Si tuviéramos que resumir 1 Pedro en una palabra (esperanza, gracia, santidad, sufrimiento), ¿cuál elegiríamos hoy para nuestro matrimonio y por qué?"
+    "Pedro escribió con ayuda de Silvano, un «hermano fiel». ¿Quién cumple ese papel en nuestra fe?",
+    "Los lectores eran «expatriados» en su propia tierra. ¿Cuándo nos sentimos así por ser cristianos?",
+    "Si resumiéramos 1 Pedro en una palabra (esperanza, gracia, santidad, sufrimiento), ¿cuál elegiríamos hoy para nuestro matrimonio?"
   ],
-  "dias_relacionados": [1, 10, 20, 23, 24],
-  "visuales": ["mapa-provincias", "dg-estructura-1p", "dg-cronologia"],
-  "refs_libros": ["1P 1:1-2", "1P 4:12-19", "1P 5:12-14"],
-  "notas_no_usadas": ["ncb1p_01_a#11", "dbmh_01_a#29", "kis1p_01_a#3", "kis1p_01_a#13", "cbmh1p_01_a#3", "kis1p_01_a#2", "moodynt_01_a#6", "mbib1p_01_a#13", "mac1p_01_a#16", "mac1p_01_a#17", "kis1p_01_b#25", "r1_006#6"]
+  "dias_relacionados": [
+    1,
+    10,
+    20,
+    23,
+    24
+  ],
+  "visuales": [
+    "mapa-provincias",
+    "dg-estructura-1p",
+    "dg-cronologia"
+  ],
+  "refs_libros": [
+    "1P 1:1-2",
+    "1P 4:12-19",
+    "1P 5:12-14"
+  ],
+  "notas_no_usadas": [
+    "cbmh1p_01_a#3",
+    "dbmh_01_a#29",
+    "kis1p_01_a#13",
+    "kis1p_01_a#2",
+    "kis1p_01_a#3",
+    "kis1p_01_b#25",
+    "mac1p_01_a#16",
+    "mac1p_01_a#17",
+    "mbib1p_01_a#13",
+    "mhenry_01_a#1",
+    "moodynt_01_a#6",
+    "ncb1p_01_a#11",
+    "ncb1p_01_a#12",
+    "ncb1p_01_a#8",
+    "r1_006#6"
+  ]
 }

@@ -1,0 +1,46 @@
+{
+  "id": "dg-pruebas-1j",
+  "titulo": "Las pruebas de la vida eterna en 1 Juan",
+  "bajada": "Juan escribe «para que sepáis que tenéis vida eterna» (1J 5:13): qué señales da, dónde aparecen y cómo las leen los autores",
+  "tipo": "tabla",
+  "columnas": ["Prueba", "La pregunta", "Dónde aparece", "Qué subrayan los autores"],
+  "filas": [
+    {
+      "celdas": ["Doctrinal (teológica)", "¿Creemos correctamente sobre Cristo y sobre el pecado?", "1:1-2:2; 2:18-27; 4:1-6; 4:15", "Confesar que Jesucristo vino en carne, contra los que negaban la encarnación; quien niega al Hijo no tiene al Padre. MacArthur suma la verdad sobre el propio pecado (1:5-10)"],
+      "ref": "1J 4:2-3",
+      "fuentes": ["bea1j_01_a#3", "mbib1j_01_a#18", "mac1j_01#20", "mac1j_03#16", "cbmh1j_02#23", "mbib1j_01_c#18", "mbib1j_01_d#9"]
+    },
+    {
+      "celdas": ["Moral: obediencia", "¿Guardamos sus mandamientos?", "2:3-6; 5:2-3", "El que dice conocerlo y no guarda sus mandamientos miente. Las obras no salvan, pero la obediencia es la señal visible de la salvación (MacArthur)"],
+      "ref": "1J 2:3-6",
+      "fuentes": ["bea1j_01_a#3", "mbib1j_01_a#18", "mac23j_02#19", "cbmh1j_02#33"]
+    },
+    {
+      "celdas": ["Moral: justicia", "¿Practicamos la justicia o seguimos practicando el pecado?", "2:28-3:10 (2:29; 3:6, 9)", "El nacido de Dios practica la justicia; la esperanza del regreso de Cristo purifica (3:3)"],
+      "ref": "1J 3:4-10",
+      "fuentes": ["mbib1j_01_a#18", "mbib1j_01_b#30", "mbib1j_01_b#23", "mac1j_04_a#6", "cbmh1j_02#33"]
+    },
+    {
+      "celdas": ["Social: amor", "¿Amamos a los hermanos de hecho y en verdad?", "2:7-11; 3:10-24; 4:7-21; 5:1-2", "Juan vuelve tres veces al amor y cada vez amplía el tema. Amar a los hermanos es señal segura de haber pasado de muerte a vida (Henry)"],
+      "ref": "1J 3:14",
+      "fuentes": ["bea1j_01_a#3", "mbib1j_01_b#6", "mbib1j_01_c#3", "mbib1j_01_d#1", "mbib1j_01_d#14", "mhenry_01_c#22"]
+    },
+    {
+      "celdas": ["Otras señales (Conner)", "¿Qué más muestra que tenemos vida eterna?", "3:24; 4:4; 5:4-5; 2:20-27; 4:6; 3:19-22; 5:14-15", "Tener el Espíritu, vencer al mundo, conocer la verdad y escuchar a quienes la predican, confiar en la oración"],
+      "ref": "1J 3:24",
+      "fuentes": ["cbmh1j_02#33"]
+    },
+    {
+      "celdas": ["El propósito", "¿Para qué da Juan estas pruebas?", "5:13 (y el cierre, 5:13-21)", "El evangelio se escribió para que creyeran (Jn 20:31); esta carta, para que los que creen sepan que tienen vida eterna. También sirven para distinguir creyentes verdaderos de falsos profesantes"],
+      "ref": "1J 5:13",
+      "fuentes": ["mac1j_06_b#9", "r1_010#19", "r1_018_a#13", "mac1j_01#20", "mbib1j_01_a#18"]
+    },
+    {
+      "celdas": ["Lo que no exigen", "¿Hay que ser perfecto para pasar las pruebas?", "1:7-2:2", "No: andar en la luz no es andar sin manchas sino ver el pecado, confesarlo y recibir perdón; si alguno peca, tiene Abogado (Piper)"],
+      "ref": "1J 1:7-10",
+      "fuentes": ["r1_012_a#7"]
+    }
+  ],
+  "nota": "Los nombres varían según el autor: Robert Law (citado por Blaney en Beacon, wesleyano) habla de pruebas teológica, moral y social; MacArthur (evangélico, bautista reformado), de pruebas doctrinales y morales (obediencia y amor) que vuelven en espiral; Wiersbe, de obediencia, amor y verdad; Conner (Mundo Hispano, bautista) enumera siete. Las referencias de la columna «Dónde aparece» son las que dan estos autores.",
+  "dias": [40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
+}

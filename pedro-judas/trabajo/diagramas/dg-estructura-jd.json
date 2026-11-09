@@ -1,0 +1,46 @@
+{
+  "id": "dg-estructura-jd",
+  "titulo": "Judas en una página",
+  "bajada": "Las siete partes de la carta según Kistemaker y los grupos de tres que Judas usa en casi todas",
+  "tipo": "tabla",
+  "columnas": ["Vv.", "Sección", "Qué hace Judas", "Las tríadas"],
+  "filas": [
+    {
+      "celdas": ["1-2", "Saludo", "Se presenta como siervo de Jesucristo y hermano de Jacobo y saluda a los creyentes", "Judas, siervo, hermano; llamados, amados (RVR1960: «santificados») y guardados; misericordia, paz y amor"],
+      "ref": "Jd 1-2",
+      "fuentes": ["kisjd_01_a#15", "kisjd_01_a#4", "beajd_01_a#17", "deirosjd_01_b#8", "beajd_01_a#15", "deirosjd_01_b#15"]
+    },
+    {
+      "celdas": ["3-4", "Propósito de la carta", "Quería escribir de la salvación común, pero tuvo que exhortar a contender por la fe: se infiltraron hombres impíos", "Tres objetivos (Kistemaker): afirmar la fe, alertar del peligro, conocer la vida y doctrina de los adversarios. Los impíos del v. 4: destinados a condenación, pervierten la gracia, niegan al Señor"],
+      "ref": "Jd 3-4",
+      "fuentes": ["kisjd_01_a#15", "kisjd_01_a#26", "deirosjd_01_b#7", "deirosjd_02_a#7"]
+    },
+    {
+      "celdas": ["5-7", "Ejemplos de la historia", "Recuerda tres juicios de Dios contra la desobediencia y la rebelión, en orden temático (Pedro, en 2P 2:4-8, sigue el cronológico)", "Israel incrédulo en el desierto; los ángeles que no guardaron su dignidad; Sodoma y Gomorra"],
+      "ref": "Jd 5-7",
+      "fuentes": ["kisjd_01_a#15", "kisjd_01_b#1", "kisjd_01_a#4", "beajd_01_a#31"]
+    },
+    {
+      "celdas": ["8-11", "Aplicación y ejemplos", "Llama soñadores a los infiltrados, contrasta su insolencia con el arcángel Miguel y pronuncia un «¡Ay!» profético", "Mancillan la carne, rechazan la autoridad, blasfeman de las potestades (v. 8). Caín, Balaam y Coré: camino, error y contradicción, en crescendo (v. 11)"],
+      "ref": "Jd 8-11",
+      "fuentes": ["kisjd_01_a#15", "kisjd_01_a#4", "beajd_01_a#32", "nunez2p_02_b#30", "kisjd_02_a#4"]
+    },
+    {
+      "celdas": ["12-16", "Descripciones", "Pinta a los infiltrados con imágenes de la naturaleza, cita la profecía de Enoc sobre el juicio y los retrata como murmuradores", "«Impío» tres veces en el v. 15. Según Kistemaker, el v. 16 suma otra tríada: siguen sus deseos, hablan con arrogancia, adulan"],
+      "ref": "Jd 12-16",
+      "fuentes": ["kisjd_01_a#15", "kisjd_02_a#9", "deirosjd_03_a#3", "kisjd_01_a#4"]
+    },
+    {
+      "celdas": ["17-23", "Exhortaciones a los creyentes", "Vuelve a los «amados»: recordar a los apóstoles, edificarse, orar, conservarse en el amor de Dios y tener misericordia de otros", "Causan divisiones, son sensuales, no tienen el Espíritu (v. 19). Espíritu Santo, Dios y Señor Jesucristo (vv. 20-21). Tres clases de personas en los vv. 22-23, según la mayoría de las versiones (otras leen dos)"],
+      "ref": "Jd 17-23",
+      "fuentes": ["kisjd_01_a#15", "kisjd_01_a#4", "kisjd_02_b#17", "nunez2p_02_b#30", "kisjd_02_b#27", "deirosjd_03_b#14"]
+    },
+    {
+      "celdas": ["24-25", "Doxología", "Termina alabando al que puede guardarlos sin caída y presentarlos sin mancha: de la advertencia pasa al consuelo", "Antes de todos los siglos, ahora y por todos los siglos (la RVR1960 no trae la primera frase, que está en los mejores manuscritos)"],
+      "ref": "Jd 24-25",
+      "fuentes": ["kisjd_01_a#15", "kisjd_02_b#29", "deirosjd_04#2", "kisjd_02_b#35", "deirosjd_04#5", "beajd_01_b#19"]
+    }
+  ],
+  "nota": "Otros bosquejos: MacArthur ordena la carta alrededor de los apóstatas (peligro 3-4, perdición 5-7, descripción 8-16, defensa 17-23); Deiros, en introducción (1-4), amonestación contra la doctrina falsa (5-16), exhortación a la fe verdadera (17-23) y doxología (24-25); McGee, en ocasión, sucesos de la apostasía y deberes de los creyentes. Rose (Beacon), citando a Mayor, destaca la afición de Judas a los tercetos.",
+  "dias": [61, 62, 63, 64, 65, 66, 67, 68, 69]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "dg-at",
+  "titulo": "El Antiguo Testamento en estas cartas",
+  "bajada": "1 Pedro consuela con Isaías y los Salmos; 2 Pedro y Judas advierten con Génesis y Números. Cada fila: el texto del AT, dónde aparece y para qué lo usa el autor.",
+  "tipo": "tabla",
+  "columnas": ["Libro", "Texto del AT", "Para qué lo usa"],
+  "filas": [
+    {
+      "celdas": ["Isaías", "Is 40:6-8: toda carne es como hierba; la palabra del Señor permanece", "Prueba que la palabra que los hizo nacer de nuevo dura para siempre. Pedro omite la línea del viento y cambia «nuestro Dios» por «Señor»"],
+      "ref": "1P 1:24-25",
+      "fuentes": ["kis1p_03_a#16", "r1_011#4", "cbmh1p_01_c#8"]
+    },
+    {
+      "celdas": ["Isaías y Salmos", "Is 28:16 (la piedra puesta en Sion), Sal 118:22 (la piedra rechazada) e Is 8:14 (la piedra de tropiezo)", "Tres textos de la piedra encadenados: Cristo es la piedra angular para los que creen y tropiezo para los que no. Jesús usó el Salmo 118 y Pablo une Is 28:16 con 8:14 en Ro 9:32-33"],
+      "ref": "1P 2:6-8",
+      "fuentes": ["ncb1p_01_a#28", "cbmh1p_01_c#15", "mbib1p_01_b#7", "kis1p_03_b#20"]
+    },
+    {
+      "celdas": ["Éxodo e Isaías", "Éx 19:5-6 (reino de sacerdotes, gente santa) e Is 43:20-21 (el pueblo que Dios formó para que publique sus alabanzas)", "Lo que se dijo de Israel se aplica a la iglesia: linaje escogido, real sacerdocio, nación santa, para anunciar las virtudes de Dios"],
+      "ref": "1P 2:9",
+      "fuentes": ["cbmh1p_01_c#18", "mac1p_04_b#14", "ncb1p_01_a#31", "kis1p_03_c#4", "kis1p_03_c#2", "kis1p_03_c#6"]
+    },
+    {
+      "celdas": ["Isaías", "Is 53, el Siervo sufriente: sin engaño (53:9), callado ante el maltrato (53:7), carga el pecado (53:4-5, 11-12), ovejas descarriadas (53:6)", "Retrata a Cristo como ejemplo y sustituto. Pedro pasa del «nosotros» de Isaías al «ustedes»: «por cuya herida fuisteis sanados»"],
+      "ref": "1P 2:22-25",
+      "fuentes": ["kis1p_04_a#23", "mac1p_05_b#20", "mac1p_05_b#21", "kis1p_04_a#27", "kis1p_04_a#29", "kis1p_04_a#31"]
+    },
+    {
+      "celdas": ["Salmos", "Sal 34 (v. 8: gustar la bondad del Señor; vv. 12-16: el que quiere amar la vida)", "Kistemaker nota que Pedro parece tener predilección por este salmo: lo usa para el deseo de la palabra y para sostener el llamado a bendecir en vez de devolver mal por mal"],
+      "ref": "1P 3:10-12",
+      "fuentes": ["kis1p_03_a#39", "mac1p_03_b#26", "kis1p_04_c#10", "bea1p_01_b#24", "ncb1p_01_a#43"]
+    },
+    {
+      "celdas": ["Isaías", "Is 8:12-13: no temer lo que el pueblo teme; santificar al Señor y temerle a él", "Las palabras de Dios a Isaías, cuando Acaz buscaba ayuda humana, sirven a creyentes amenazados: no temer a los hombres y poner a Cristo como Señor en el corazón"],
+      "ref": "1P 3:14-15",
+      "fuentes": ["mac1p_06_b#3", "moodynt_01_b#15", "kis1p_04_c#25", "kis1p_04_c#22"]
+    },
+    {
+      "celdas": ["Salmos", "Sal 110:1: siéntate a mi diestra", "El texto que Jesús se aplicó a sí mismo se cumple en su entronización, sobre ángeles, autoridades y potestades"],
+      "ref": "1P 3:22",
+      "fuentes": ["ncb1p_01_b#12", "kis1p_05_b#11", "mac1p_07_a#15"]
+    },
+    {
+      "celdas": ["Salmos", "Sal 66:10 (Dios prueba como se afina la plata) y Sal 55:22 (echa sobre el Señor tu carga)", "La imagen del horno detrás del «fuego de prueba», y el consejo de David, nacido de la traición de un amigo, extendido a todo creyente"],
+      "ref": "1P 4:12",
+      "fuentes": ["mac1p_08_a#1", "r1_002#17", "cbmh1p_02_c#8", "mbib1p_01_c#39", "mac1p_08_b#31", "ncb1p_01_b#30"]
+    },
+    {
+      "celdas": ["Génesis", "Gn 6-7: los 120 años de espera, el diluvio y las ocho personas del arca", "En 1 Pedro, la paciencia de Dios antes del juicio y figura del bautismo. En 2 Pedro, prueba de que Dios juzga al mundo y libra a Noé, y respuesta a los burladores: el mundo ya fue juzgado una vez"],
+      "ref": "2P 2:5",
+      "fuentes": ["kis1p_05_a#23", "mac1p_07_a#8", "kis1p_05_b#1", "kis1p_05_b#5", "mac2p_03_a#19", "kis2p_03_a#19", "kis2p_04_b#13", "mbib2p_01_c#19"]
+    },
+    {
+      "celdas": ["Génesis", "Gn 9:11: Dios no destruirá otra vez la tierra con agua", "Pedro anuncia que el próximo juicio será por fuego"],
+      "ref": "2P 3:6-7",
+      "fuentes": ["mac2p_04_a#22", "mbib2p_01_c#20"]
+    },
+    {
+      "celdas": ["Génesis", "Gn 19: Sodoma y Gomorra, fuego y azufre; Lot rescatado (con Gn 13 y 18)", "Ejemplo de juicio para los impíos y de rescate para el justo. Pedro suma lo que Génesis no explicita: el tormento interior de Lot. Judas lo usa como advertencia"],
+      "ref": "2P 2:6-8",
+      "fuentes": ["mac2p_03_a#21", "kis2p_03_a#22", "ncb2p_01_b#8", "kis2p_03_a#25", "macjd_01_c#4", "kisjd_01_b#13"]
+    },
+    {
+      "celdas": ["Génesis", "Gn 6:1-4: los hijos de Dios y las hijas de los hombres", "Para muchos, trasfondo de los ángeles que no guardaron su dignidad; otros autores niegan la conexión"],
+      "ref": "Jd 6",
+      "fuentes": ["beajd_01_a#29", "kisjd_01_b#7"]
+    },
+    {
+      "celdas": ["Génesis", "Gn 4:1-16 (Caín) y Gn 5:18-24 (Enoc, séptimo desde Adán)", "Caín es modelo de rebelión contra Dios; la genealogía de Enoc da el «séptimo desde Adán» de su profecía"],
+      "ref": "Jd 11",
+      "fuentes": ["kisjd_02_a#5", "nunez2p_03_a#22", "kisjd_02_a#21", "mbibjd_01_b#11"]
+    },
+    {
+      "celdas": ["Números", "Nm 22-25 y 31:8, 16: Balaam, contratado para maldecir; la asna; su consejo que llevó a Baal-peor", "Retrato del falso maestro a sueldo: amor a la paga y seducción. Pedro toma de aquí la reprensión del animal; Judas lo pone entre sus tres ejemplos"],
+      "ref": "2P 2:15-16",
+      "fuentes": ["kis2p_03_b#21", "mac2p_03_b#14", "mac2p_03_b#15", "r1_001#8", "kisjd_02_a#6", "r1_005#8"]
+    },
+    {
+      "celdas": ["Números", "Nm 14:26-38: la generación incrédula de Cades-Barnea cae en el desierto", "El trasfondo más citado de Jd 5: haber salido de Egipto no libró del juicio a los que no creyeron"],
+      "ref": "Jd 5",
+      "fuentes": ["macjd_01_c#1", "deirosjd_02_a#21", "cbmhjd_01_a#19"]
+    },
+    {
+      "celdas": ["Números", "Nm 16:1-35: la rebelión de Coré contra Moisés y Aarón", "Tercer ejemplo de Judas, junto a Caín y Balaam: rebelarse contra la autoridad que Dios puso termina en juicio"],
+      "ref": "Jd 11",
+      "fuentes": ["kisjd_02_a#7", "macjd_02_a#9"]
+    },
+    {
+      "celdas": ["Números", "Nm 24:17: la estrella que saldría de Jacob, en la profecía de Balaam", "Trasfondo del lucero de la mañana aplicado a Cristo"],
+      "ref": "2P 1:19",
+      "fuentes": ["kis2p_02_b#16", "ncb2p_01_a#32", "mac2p_02_b#11"]
+    }
+  ],
+  "nota": "No son los únicos: 1 Pedro también cita Proverbios (Pr 11:31 en 4:18; Pr 3:34 en 5:5), y 2 Pedro usa el Sal 90:4 («mil años como un día») e Is 65:17 (cielos nuevos y tierra nueva). Varias citas de 1 Pedro siguen la traducción griega del AT (Septuaginta), según Nicholson, Kistemaker y el Nuevo Comentario Bíblico.",
+  "dias": [4, 6, 7, 8, 9, 12, 14, 15, 17, 20, 22, 29, 31, 32, 33, 35, 36, 37, 63, 65, 66]
+}

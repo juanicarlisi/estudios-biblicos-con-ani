@@ -9,7 +9,7 @@
   },
   "contexto": {
     "antes": "Ayer el Cordero rompió el primer sello y salió un jinete en un caballo blanco, con arco y corona, sobre cuya identidad los autores no se ponen de acuerdo. Para MacArthur, por ejemplo, es una paz falsa que no va a durar.",
-    "ahora": "El Cordero rompe tres sellos más y salen tres jinetes: uno rojo que quita la paz, uno negro con una balanza y uno pálido que se llama Muerte. Lennox los resume como guerra, hambre y muerte; Kœchlin, como guerra civil, hambre y calamidades mortales.",
+    "ahora": "El Cordero rompe tres sellos más y salen tres jinetes: uno rojo que quita la paz, uno negro con una balanza y uno pálido que se llama Muerte.",
     "donde": "Los sellos se abren delante del trono (la voz del versículo 6 sale, según Carballosa, del trono mismo); los efectos caen sobre la tierra.",
     "cuando": "Depende de la lectura: para MacArthur, McGee, Wiersbe y Larkin, una tribulación futura; para Ladd, las tribulaciones preliminares que anunció Jesús; para el bosquejo del Comentario Mundo Hispano, algo que ya tenemos en la historia (ver Interpretaciones).",
     "despues": "Mañana se abre el quinto sello (6:9-11): las almas de los mártires bajo el altar.",
@@ -87,7 +87,7 @@
       "titulo": "El caballo negro: después de la guerra, el hambre",
       "notas": [
         {
-          "texto": "Al tercer sello aparece «un caballo negro», color del hambre (Lm 5:10) y del luto (Jer 4:28), según MacArthur, Wiersbe y McGee. Para Larkin, MacArthur y Carballosa es la consecuencia natural del sello anterior: con los hombres en la guerra, nadie siembra ni cosecha. McGee lo dice corto: el hambre siempre sigue a la guerra.",
+          "texto": "Al tercer sello aparece «un caballo negro», color del hambre (Lm 5:10) y del luto (Jer 4:28), según MacArthur, Wiersbe y McGee. Para Larkin, MacArthur y Carballosa es la consecuencia natural del sello anterior: con los hombres en la guerra, nadie siembra ni cosecha.",
           "fuentes": [
             "macarthur_06_a#18",
             "r1_024_b#15",
@@ -126,7 +126,7 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Los números hablan solos. El denario era el jornal de un día (Mt 20:2), y las «dos libras de trigo», alrededor de un litro, la ración diaria de un trabajador: un hombre trabajaría todo el día solo para comer él, sin nada para su familia (Beasley-Murray, Earle, Mundo Hispano, McGee). Con la cebada, el grano barato de los pobres y del ganado, alcanzaba para una familia pequeña, apenas para subsistir (Ladd, MacArthur). Ryrie calcula que en tiempos normales el denario compraba diez veces más; Guzik y Ladd, doce o más.",
+          "texto": "Los números hablan solos. El denario era el jornal de un día (Mt 20:2), y las «dos libras de trigo», alrededor de un litro, la ración diaria de un trabajador: un hombre trabajaría todo el día solo para comer él, sin nada para su familia (Beasley-Murray, Earle, Mundo Hispano, McGee). Con la cebada, el grano barato de los pobres y del ganado, alcanzaba para una familia pequeña, apenas para subsistir (Ladd, MacArthur). Ryrie calcula que en tiempos normales el denario compraba diez veces más; Guzik y Ladd, doce o más; Lennox y Graham, unas dieciséis.",
           "fuentes": [
             "henry_01_b#12",
             "beacon_03_a#36",
@@ -135,7 +135,9 @@
             "ladd_03_a#30",
             "macarthur_06_a#19",
             "r1_032#9",
-            "web_10_b#8"
+            "web_10_b#8",
+            "r4_460_07_b#20",
+            "r4_451_04_a#19"
           ],
           "tipo": "cultura_costumbres"
         },
@@ -167,7 +169,7 @@
           "tipo": "griego_palabra"
         },
         {
-          "texto": "Es el único jinete con nombre: Muerte (Larkin, Ryrie). Y «el Hades le seguía», su compañero inseparable, como en 1:18 y 20:13-14: la muerte siega y el Hades almacena (Carballosa). Ladd admite que el texto no aclara cómo lo sigue.",
+          "texto": "Es el único jinete con nombre: Muerte (Larkin, Ryrie). Y «el Hades le seguía», su compañero inseparable, como en 1:18 y 20:13-14: la muerte siega y el Hades almacena (Carballosa).",
           "fuentes": [
             "larkin_02_b#3",
             "r1_032#10",
@@ -205,7 +207,7 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Espada, hambre, mortandad y fieras vienen de Ezequiel 14:21, los cuatro juicios terribles de Dios sobre Jerusalén (Beasley-Murray, Carballosa, Larkin, McGee, Wiersbe). Benware nota que la Biblia los presenta siempre como ira de Dios. La espada aquí es otra palabra que en el versículo 4, la espada ancha (Carballosa). «Mortandad» traduce la misma palabra que «Muerte» y, por el contexto, es la pestilencia que sigue a la guerra y al hambre (MacArthur; Bullinger, en Carballosa).",
+          "texto": "Espada, hambre, mortandad y fieras vienen de Ezequiel 14:21, los cuatro juicios terribles de Dios sobre Jerusalén (Beasley-Murray, Carballosa, Larkin, McGee, Wiersbe); Graham, siguiendo a Barclay, los remonta a Levítico 26:21-26, el castigo anunciado por desobedecer el pacto. Benware nota que la Biblia los presenta siempre como ira de Dios. La espada aquí es otra palabra que en el versículo 4, la espada ancha (Carballosa). «Mortandad» traduce la misma palabra que «Muerte» y, por el contexto, es la pestilencia que sigue a la guerra y al hambre (MacArthur; Bullinger, en Carballosa).",
           "fuentes": [
             "henry_01_b#12",
             "carballosa_06#2",
@@ -213,16 +215,19 @@
             "mcgeer_05#23",
             "r1_024_b#16",
             "r1_007#8",
-            "macarthur_06_a#23"
+            "macarthur_06_a#23",
+            "r4_451_05_a#13"
           ],
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "Las fieras se multiplican cuando la tierra queda despoblada por el hambre y la peste (Earle, Carballosa, Wiersbe). Carballosa ve una paradoja: los animales fueron creados para servir al hombre (Sal 8:5-8) y terminan siendo amenaza; y la preposición del texto sugiere que son instrumentos en la mano de Dios, como lo fueron langostas, serpientes y osos (Éx 10; Nm 21:6; 2 R 2:24).",
+          "texto": "Las fieras se multiplican cuando la tierra queda despoblada por el hambre y la peste (Earle, Carballosa, Wiersbe). Carballosa ve una paradoja: los animales fueron creados para servir al hombre (Sal 8:5-8) y terminan siendo amenaza; y la preposición del texto sugiere que son instrumentos en la mano de Dios, como lo fueron langostas, serpientes y osos (Éx 10; Nm 21:6; 2 R 2:24). Hitchcock recoge otras dos lecturas: que las fieras expresen el carácter bestial del reino del anticristo, porque en el resto del libro la palabra griega (thēríon) designa a la bestia y al falso profeta; o que sean animales transmisores de enfermedades. Graham suma las langostas demoníacas del capítulo 9 y no se decide.",
           "fuentes": [
             "beacon_03_a#37",
             "carballosa_06#3",
-            "r1_024_b#16"
+            "r1_024_b#16",
+            "r4_442_02#41",
+            "r4_451_05_a#17"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -242,7 +247,7 @@
           "tipo": "griego_palabra"
         },
         {
-          "texto": "Kœchlin lo lee desde los capítulos 4 y 5: quien oyó celebrar la santidad de Dios y vio al Cordero inmolado frente al desprecio del hombre comprende cuán justo es el juicio. Lo escrito de antemano en el libro se cumple en el momento decretado, cuando el Cordero abre el sello. Guzik: Dios todavía tiene el libro y abre los sellos.",
+          "texto": "Kœchlin lo lee desde los capítulos 4 y 5: quien vio la santidad de Dios y al Cordero inmolado comprende cuán justo es el juicio, que se cumple cuando el Cordero abre el sello. Guzik: Dios todavía tiene el libro y abre los sellos.",
           "fuentes": [
             "r2_023_b#1",
             "web_10_b#9"
@@ -267,32 +272,48 @@
     {
       "signo": "caballo bermejo y gran espada",
       "significado": "La guerra y el derramamiento masivo de sangre.",
-      "refs": ["6:4"],
-      "fuentes": ["beacon_03_a#35", "mbiblia_01_c#12"]
+      "refs": [
+        "6:4"
+      ],
+      "fuentes": [
+        "beacon_03_a#35",
+        "mbiblia_01_c#12"
+      ]
     },
     {
       "signo": "caballo negro y balanza",
       "significado": "Hambre y racionamiento; para Newport, citado por Mundo Hispano, la inflación desbordada de una economía en ruinas.",
-      "refs": ["6:5"],
-      "fuentes": ["mbiblia_01_c#13", "cbmh_04#34"]
-    },
-    {
-      "signo": "denario",
-      "significado": "El jornal de un día de trabajo (Mt 20:2).",
-      "refs": ["6:6"],
-      "fuentes": ["beacon_03_a#36"]
+      "refs": [
+        "6:5"
+      ],
+      "fuentes": [
+        "mbiblia_01_c#13",
+        "cbmh_04#34"
+      ]
     },
     {
       "signo": "caballo amarillo",
       "significado": "La palidez de la muerte y el terror (Ladd, Swete); McGee y Mundo Hispano lo vinculan con la peste.",
-      "refs": ["6:8"],
-      "fuentes": ["ladd_03_a#31", "beacon_03_a#37", "mcgee_05_a#2", "cbmh_04#35"]
+      "refs": [
+        "6:8"
+      ],
+      "fuentes": [
+        "ladd_03_a#31",
+        "beacon_03_a#37",
+        "mcgee_05_a#2",
+        "cbmh_04#35"
+      ]
     },
     {
       "signo": "la cuarta parte",
       "significado": "Un juicio terrible pero limitado; las trompetas alcanzarán una tercera parte.",
-      "refs": ["6:8", "8:7"],
-      "fuentes": ["carballosa_06#2"]
+      "refs": [
+        "6:8",
+        "8:7"
+      ],
+      "fuentes": [
+        "carballosa_06#2"
+      ]
     }
   ],
   "palabras": [
@@ -301,59 +322,91 @@
       "griego": "μάχαιρα μεγάλη",
       "translit": "máchaira megálē",
       "significado": "“Gran espada”: para MacArthur, la espada corta del soldado romano y del asesino; Carballosa admite que puede ser la espada larga o la daga.",
-      "fuentes": ["macarthur_06_a#16", "carballosa_05_b#28"]
-    },
-    {
-      "ref": "6:4",
-      "griego": "ἀλλήλους",
-      "translit": "allḗlous",
-      "significado": "“Unos a otros”. Grudem nota que no siempre es “todos contra todos”: aquí, que algunos matarán a otros.",
-      "fuentes": ["r2_012#14", "r2_026#23"]
+      "fuentes": [
+        "macarthur_06_a#16",
+        "carballosa_05_b#28"
+      ]
     },
     {
       "ref": "6:6",
       "griego": "χοῖνιξ",
       "translit": "choínix",
       "significado": "Medida de grano de alrededor de un litro, la ración diaria de un hombre.",
-      "fuentes": ["henry_01_b#12", "beacon_03_a#36"]
+      "fuentes": [
+        "henry_01_b#12",
+        "beacon_03_a#36"
+      ]
     },
     {
       "ref": "6:8",
       "griego": "χλωρός",
       "translit": "chlōrós",
       "significado": "Verde amarillento (de ahí “clorofila”); en el resto del Nuevo Testamento, la vegetación. En un caballo, la palidez de la muerte.",
-      "fuentes": ["macarthur_06_a#21", "mbiblia_01_c#15", "ladd_03_a#31"]
+      "fuentes": [
+        "macarthur_06_a#21",
+        "mbiblia_01_c#15",
+        "ladd_03_a#31"
+      ]
     },
     {
       "ref": "6:8",
       "griego": "ῥομφαία",
       "translit": "rhomphaía",
       "significado": "Espada ancha de largo alcance, distinta de la máchaira del versículo 4 (Carballosa).",
-      "fuentes": ["carballosa_06#2"]
+      "fuentes": [
+        "carballosa_06#2"
+      ]
     },
     {
       "ref": "6:8",
       "griego": "ᾅδης",
       "translit": "hádēs",
       "significado": "El lugar de los muertos; Larkin y McGee advierten que no equivale a “infierno”.",
-      "fuentes": ["larkin_02_b#3", "mcgee_05_a#3"]
+      "fuentes": [
+        "larkin_02_b#3",
+        "mcgee_05_a#3"
+      ]
     }
   ],
   "cristo": [
     {
-      "texto": "Cada sello lo abre el Cordero. Benware insiste en que estos juicios no salen de Satanás ni del hombre sino del libro del Cordero, porque el Padre dio todo el juicio al Hijo (Jn 5:22). El que fue inmolado gobierna lo que sale del libro.",
-      "refs": ["Ap 5:7", "Jn 5:22"],
-      "fuentes": ["r1_007#8", "r2_023_b#1"]
+      "texto": "Cada sello lo abre el Cordero. Benware insiste en que estos juicios no salen de Satanás ni del hombre sino del libro del Cordero, porque el Padre dio todo el juicio al Hijo (Jn 5:22). El que fue inmolado gobierna lo que sale del libro. Lennox agrega que estos juicios salen de un trono que rebosa de vida, y que nadie podrá acusar al Cordero de ejecutarlos después de lo que cargó en la cruz (Is 53:4-6).",
+      "refs": [
+        "Ap 5:7",
+        "Jn 5:22",
+        "Is 53:4-6"
+      ],
+      "fuentes": [
+        "r1_007#8",
+        "r2_023_b#1",
+        "r4_460_07_b#16"
+      ]
     },
     {
       "texto": "El jinete rojo quita una paz humana; la que dura la traerá Cristo (Carballosa), y no habrá paz en la tierra hasta que vuelva el Príncipe de paz (Larkin). El Comentario Mundo Hispano marca el contraste: Cristo triunfó sufriendo inocente, y sus discípulos no vencen como el caballo rojo sino siguiendo su ejemplo.",
-      "refs": ["Ap 6:4"],
-      "fuentes": ["carballosa_05_b#28", "larkin_02_b#1", "cbmh_04#33"]
+      "refs": [
+        "Ap 6:4"
+      ],
+      "fuentes": [
+        "carballosa_05_b#28",
+        "larkin_02_b#1",
+        "cbmh_04#33"
+      ]
     },
     {
-      "texto": "Muerte y Hades cabalgan por un tiempo, pero no tienen la última palabra: en 20:14 son arrojados al lago de fuego, y 21:4 promete que ya no habrá muerte (Buswell, McGee). Por eso, dice el Comentario Mundo Hispano, los creyentes no los temen.",
-      "refs": ["Ap 1:18", "Ap 20:14", "1 Co 15:26", "Ap 21:4"],
-      "fuentes": ["cbmh_04#35", "r1_008#14", "mcgee_05_a#5"]
+      "texto": "Muerte y Hades cabalgan por un tiempo, y con permiso: las llaves las tiene Cristo (1:18), recuerda Graham, pero no tienen la última palabra: en 20:14 son arrojados al lago de fuego, y 21:4 promete que ya no habrá muerte (Buswell, McGee). Por eso, dice el Comentario Mundo Hispano, los creyentes no los temen.",
+      "refs": [
+        "Ap 1:18",
+        "Ap 20:14",
+        "1 Co 15:26",
+        "Ap 21:4"
+      ],
+      "fuentes": [
+        "cbmh_04#35",
+        "r1_008#14",
+        "mcgee_05_a#5",
+        "r4_451_05_a#20"
+      ]
     }
   ],
   "interpretaciones": [
@@ -363,53 +416,101 @@
         {
           "postura": "Preterista: el militarismo y la ambición de conquista del Imperio romano, repetidos en la historia.",
           "quien": "Swete (citado por Earle en el Beacon)",
-          "fuentes": ["beacon_03_a#39"]
+          "fuentes": [
+            "beacon_03_a#39"
+          ]
         },
         {
           "postura": "Historicista: etapas sucesivas de la historia, como las guerras civiles romanas desde el año 193 y los años 248-268, cuando espada, hambre y peste diezmaron el imperio; o etapas de la iglesia hasta la Reforma, propuestas sin dogmatismo.",
           "quien": "Barnes, siguiendo a Gibbon (según Earle); J. Oliver Buswell",
-          "fuentes": ["beacon_03_a#39", "r1_009#17"]
+          "fuentes": [
+            "beacon_03_a#39",
+            "r1_009#17"
+          ]
+        },
+        {
+          "postura": "Lectura espiritual de la historia de la iglesia: después de la pureza de los primeros tiempos, cristianos divididos que recurren a la espada (rojo), un yugo de supersticiones y un hambre de la Palabra peor que la de pan (negro). Las fechas no se pueden precisar porque los cambios fueron graduales.",
+          "quien": "Matthew Henry",
+          "fuentes": [
+            "r4_2_01_a#39",
+            "r4_2_01_a#40",
+            "r4_2_01_a#41"
+          ]
         },
         {
           "postura": "Futurista: juicios sin paralelo al final de esta era, antes del regreso del Señor; para MacArthur y Wiersbe, en la primera mitad de una tribulación de siete años.",
-          "quien": "Kuyper (según Earle); MacArthur, McGee, Larkin, Wiersbe y Benware (premileniales dispensacionales)",
-          "fuentes": ["beacon_03_a#39", "macarthur_06_a#25", "mcgee_04_b#30", "r1_022#22", "r1_007#8"]
+          "quien": "Kuyper (según Earle); MacArthur, McGee, Larkin, Wiersbe y Benware (premileniales dispensacionales); Dyer, que alinea cada sello con Mateo 24:4-14; Graham, que ya oye acercarse sus cascos",
+          "fuentes": [
+            "beacon_03_a#39",
+            "macarthur_06_a#25",
+            "mcgee_04_b#30",
+            "r1_022#22",
+            "r1_007#8",
+            "r4_453_01#14",
+            "r4_451_01_a#2"
+          ]
         },
         {
           "postura": "Las tribulaciones preliminares del fin, antes de una breve gran tribulación; en ese tiempo también se predica el evangelio a todas las naciones.",
           "quien": "Ladd (premilenial histórico)",
-          "fuentes": ["ladd_03_a#27"]
+          "fuentes": [
+            "ladd_03_a#27"
+          ]
         },
         {
           "postura": "Realidades que ya vienen o ya tenemos; la promesa no es que nada pasará, sino esperanza más allá del sufrimiento.",
           "quien": "Bosquejo homilético del Comentario Bíblico Mundo Hispano (amilenial/idealista)",
-          "fuentes": ["cbmh_04#36"]
+          "fuentes": [
+            "cbmh_04#36"
+          ]
         }
       ],
-      "nota": "MacArthur descarta la caída de Jerusalén en el año 70 porque fecha el libro hacia el 96. Todos ven el paralelo con Mateo 24 y afirman que quien abre los sellos es el Cordero."
+      "nota": "MacArthur descarta la caída de Jerusalén en el año 70 porque fecha el libro hacia el 96. Todos ven el paralelo con Mateo 24 y afirman que quien abre los sellos es el Cordero. El Comentario Moody nota que estas escenas no nombran personas, lugares ni hechos: son juicios generales, una fase preliminar de los que siguen."
     },
     {
       "tema": "«No dañes el aceite ni el vino»",
       "posturas": [
         {
           "postura": "Lujos de los ricos: falta el pan para el pobre mientras sobra lo que el pudiente puede pagar.",
-          "quien": "McGee, Wiersbe, Guzik y Carballosa",
-          "fuentes": ["mcgee_04_b#31", "r1_024_b#15", "web_10_b#8", "carballosa_05_b#30"]
+          "quien": "McGee, Wiersbe, Guzik y Carballosa; Graham, que lo une a Mt 24:37-38: hambre y derroche a la vez",
+          "fuentes": [
+            "mcgee_04_b#31",
+            "r1_024_b#15",
+            "web_10_b#8",
+            "carballosa_05_b#30",
+            "r4_451_04_a#23"
+          ]
         },
         {
           "postura": "Un límite a la escasez: trigo, aceite y vino son juntos las necesidades comunes de la vida (Dt 7:13; Os 2:8).",
           "quien": "Ladd",
-          "fuentes": ["ladd_03_a#30"]
+          "fuentes": [
+            "ladd_03_a#30"
+          ]
         },
         {
           "postura": "Básicos (para cocinar y purificar el agua) que se vuelven lujos y hay que proteger.",
           "quien": "MacArthur y la Biblia de estudio MacArthur",
-          "fuentes": ["macarthur_06_a#20", "mbiblia_01_c#14"]
+          "fuentes": [
+            "macarthur_06_a#20",
+            "mbiblia_01_c#14"
+          ]
+        },
+        {
+          "postura": "Los ejércitos invasores solían respetar las viñas, que tardan en rebrotar; quizá el jinete las deja para agravar la escasez de grano.",
+          "quien": "Lennox (que también menciona el edicto de Domiciano)",
+          "fuentes": [
+            "r4_460_07_b#20"
+          ]
         },
         {
           "postura": "Alusión al edicto de Domiciano (año 92), que por falta de cereal mandó no plantar viñas en Italia y talar la mitad en las provincias, y lo anuló por el revuelo en Asia.",
           "quien": "Charles y Earle (Beacon), Beasley-Murray y el Comentario Mundo Hispano, que lo juzga muy probable",
-          "fuentes": ["beacon_03_a#36", "henry_01_b#12", "cbmh_04#34"]
+          "fuentes": [
+            "beacon_03_a#36",
+            "henry_01_b#12",
+            "cbmh_04#34"
+          ]
         }
       ]
     },
@@ -418,18 +519,32 @@
       "posturas": [
         {
           "postura": "Solo de Dios: sale del libro en su mano y la ejecuta Cristo; por eso la iglesia ya habría sido arrebatada.",
-          "quien": "MacArthur, Benware y Larkin (pretribulacionales)",
-          "fuentes": ["macarthur_06_a#15", "web_11_a#18", "r1_007#8", "larkin_02_b#4"]
+          "quien": "MacArthur, Benware y Larkin (pretribulacionales); Walvoord, para quien los muertos del cuarto sello caen por juicio divino y no por obra de Satanás",
+          "fuentes": [
+            "macarthur_06_a#15",
+            "web_11_a#18",
+            "r1_007#8",
+            "larkin_02_b#4",
+            "r4_450_05#7"
+          ]
         },
         {
           "postura": "Ira de Satanás en esta etapa, no de Dios.",
           "quien": "Gundry (postribulacional), según Benware, que lo rebate",
-          "fuentes": ["r1_007#8"]
+          "fuentes": [
+            "r1_007#8"
+          ]
         },
         {
-          "postura": "Permiso de Dios a poderes malignos: directa o indirectamente, juicio de Dios.",
-          "quien": "Caird (citado por Carballosa); Guzik",
-          "fuentes": ["carballosa_06#1", "web_10_b#7"]
+          "postura": "Permiso de Dios a poderes malignos y a la maldad humana: Dios retira el freno y deja al mal seguir su curso (Ro 1:28-32); directa o indirectamente, juicio de Dios.",
+          "quien": "Caird (citado por Carballosa); Guzik; Lennox; Graham, para quien el que recibe permiso de matar es el diablo, bajo mandato de Cristo",
+          "fuentes": [
+            "carballosa_06#1",
+            "web_10_b#7",
+            "r4_460_07_b#18",
+            "r4_451_05_a#15",
+            "r4_451_05_a#20"
+          ]
         }
       ],
       "nota": "Pesa en el debate sobre la tribulación (anexo T7). Todos afirman que el poder de los jinetes es dado y limitado."
@@ -442,58 +557,77 @@
       "obra": "Contra la corriente",
       "pagina": "pág. PDF 215",
       "tipo": "apologetica"
-    },
-    {
-      "texto": "Para mostrar que las pestes matan más que las guerras, MacArthur recuerda que la influenza de 1918-19 mató unos treinta millones de personas, más de tres veces los soldados muertos en la Primera Guerra Mundial.",
-      "autor": "John MacArthur",
-      "obra": "Comentario MacArthur del Nuevo Testamento: Apocalipsis",
-      "pagina": "pág. PDF 107",
-      "tipo": "historia"
     }
   ],
   "conexiones": [
     {
       "ref": "Mt 24:6-8",
-      "nota": "Guerras, hambres y pestes: principio de dolores. El paralelo que casi todos ven con los sellos (también Mr 13:7-8; Lc 21:9-11).",
-      "fuentes": ["ladd_03_a#27", "mcgee_05_a#6", "r1_015#23"]
+      "nota": "Guerras, hambres y pestes: principio de dolores. El paralelo que casi todos ven con los sellos (también Mr 13:7-8; Lc 21:9-11). Lennox observa que el Evangelio de Juan no trae ese discurso: los sellos podrían ser su versión.",
+      "fuentes": [
+        "ladd_03_a#27",
+        "mcgee_05_a#6",
+        "r1_015#23",
+        "r4_460_17_a#30"
+      ]
     },
     {
       "ref": "Ez 14:21",
-      "nota": "Los cuatro juicios terribles sobre Jerusalén: fuente de los instrumentos del cuarto sello.",
-      "fuentes": ["henry_01_b#12", "r1_007#8", "larkin_02_b#4"]
+      "nota": "Los cuatro juicios terribles sobre Jerusalén: fuente de los instrumentos del cuarto sello. Antes, Levítico 26:21-26.",
+      "fuentes": [
+        "henry_01_b#12",
+        "r1_007#8",
+        "larkin_02_b#4",
+        "r4_451_05_a#13"
+      ]
     },
     {
       "ref": "Zac 6:1-8",
       "nota": "Carros con caballos de distintos colores que recorren la tierra; Swete y Ladd ven ahí el antecedente, aunque Juan pone un jinete en lugar de cada carro.",
-      "fuentes": ["beacon_03_a#38", "ladd_03_a#24"]
-    },
-    {
-      "ref": "Is 48:22",
-      "nota": "No hay paz para los malos: McGee lo cita para explicar por qué la paz anterior no dura.",
-      "fuentes": ["mcgee_04_b#30", "mcgeer_05#21"]
+      "fuentes": [
+        "beacon_03_a#38",
+        "ladd_03_a#24"
+      ]
     },
     {
       "ref": "Ap 20:13-14",
       "nota": "Muerte y Hades entregan a sus muertos y son arrojados al lago de fuego: el final de los dos de hoy.",
-      "fuentes": ["r1_008#14"]
+      "fuentes": [
+        "r1_008#14"
+      ]
     }
   ],
   "para_vivir": [
     {
       "texto": "Si la paz es un regalo de Dios y no el estado natural del mundo (Guzik), y ningún acuerdo humano la asegura (Wiersbe), no la den por sentada, ni en el mundo ni en casa: pídanla y agradézcanla como un don.",
-      "fuentes": ["web_10_b#7", "r1_024_b#14"]
+      "fuentes": [
+        "web_10_b#7",
+        "r1_024_b#14"
+      ]
     },
     {
       "texto": "El Comentario Mundo Hispano advierte contra distraerse buscando a quién corresponde cada caballo y perder el mensaje: los que siguen a Cristo no vencen a caballo rojo, sino por el camino del Señor, que venció sufriendo; y la promesa no es que nada malo pasará, sino esperanza más allá del sufrimiento.",
-      "fuentes": ["cbmh_04#36", "cbmh_04#33"]
+      "fuentes": [
+        "cbmh_04#36",
+        "cbmh_04#33"
+      ]
     },
     {
-      "texto": "La balanza muestra al pobre sin pan mientras al rico no le falta nada, y el bosquejo de Mundo Hispano lee que la explotación y el acaparamiento tienen un límite. Pregúntense qué hacen con lo que tienen y quién cerca de ustedes pasa necesidad.",
-      "fuentes": ["web_10_b#8", "cbmh_04#36"]
+      "texto": "La balanza muestra al pobre sin pan mientras al rico no le falta nada, y el bosquejo de Mundo Hispano lee que la explotación y el acaparamiento tienen un límite. Graham lo dice sin vueltas: algo anda muy mal cuando los que tienen de sobra miran con indiferencia a los que no tienen. Pregúntense qué hacen con lo que tienen y quién cerca de ustedes pasa necesidad.",
+      "fuentes": [
+        "web_10_b#8",
+        "cbmh_04#36",
+        "r4_451_04_a#24"
+      ]
     },
     {
-      "texto": "MacArthur cierra con Hebreos 2:3: ¿cómo escaparemos si descuidamos una salvación tan grande? Para quien está en Cristo, Muerte y Hades no dan miedo; para quien no, el pasaje es una advertencia seria. Piensen en alguien a quien necesitan contarle esa esperanza.",
-      "fuentes": ["macarthur_06_a#26", "cbmh_04#35"]
+      "texto": "MacArthur cierra con Hebreos 2:3: ¿cómo escaparemos si descuidamos una salvación tan grande? Graham ve en los jinetes una alarma: como con Nínive, Dios puede demorar el juicio cuando hay arrepentimiento, y la cuarta parte golpeada sirve, según Hough, para que los demás vean y se vuelvan. Para quien está en Cristo, Muerte y Hades no dan miedo; para quien no, es una advertencia seria. Piensen en alguien a quien necesitan contarle esa esperanza.",
+      "fuentes": [
+        "macarthur_06_a#26",
+        "cbmh_04#35",
+        "r4_451_02#29",
+        "r4_451_02#30",
+        "r4_451_05_a#11"
+      ]
     }
   ],
   "para_conversar": [
@@ -502,33 +636,69 @@
     "Comparen 6:3-8 con Mateo 24:6-8. ¿Cómo los ayuda saber que Jesús ya lo había anunciado cuando escuchan noticias de guerras y crisis?"
   ],
   "para_orar": "Señor, gracias porque el libro está en las manos del Cordero y nada sale sin tu permiso. Danos la paz que el mundo no puede dar ni quitar, corazones generosos con el que pasa necesidad, y la certeza de que un día Cristo va a terminar con la muerte para siempre.",
-  "visuales": ["dg-septenarios", "dg-escuelas", "dg-tribulacion"],
-  "anexos": ["P4", "T4", "T6", "T7"],
+  "visuales": [
+    "dg-septenarios",
+    "dg-escuelas",
+    "dg-tribulacion"
+  ],
+  "anexos": [
+    "P4",
+    "T4",
+    "T6",
+    "T7"
+  ],
   "profundizar": [
     {
       "titulo": "El esquema futurista: los sellos y los siete años",
       "texto": "MacArthur ubica los cuatro primeros sellos en la primera mitad de una tribulación de siete años. El quinto marca el punto medio, cuando el anticristo comete la abominación desoladora de Daniel 9:27; la segunda mitad (42 meses, 1.260 días) es la gran tribulación, con el sexto sello y luego la venida de Cristo. Durante esos juicios, según él, la iglesia está en el cielo adorando al Cordero. Wiersbe ordena todo en un cuadro que alinea Mateo 24:4-31 con la semana setenta de Daniel: guerras (6:3-4), hambres (6:5-6) y muerte (6:7-8) en los primeros tres años y medio. Es la postura pretribulacional; el anexo T7 presenta las demás.",
-      "fuentes": ["web_11_a#15", "r2_007#21", "r1_022#22", "r2_006#10"]
+      "fuentes": [
+        "web_11_a#15",
+        "r2_007#21",
+        "r1_022#22",
+        "r2_006#10"
+      ]
     },
     {
       "titulo": "El jinete rojo y el anticristo",
       "texto": "Para MacArthur, quien arma la paz falsa del primer sello tendrá que recurrir él mismo a la guerra para conservar el poder; lo apoya en Daniel 8:24 (destruirá a los fuertes y al pueblo de los santos) y en Daniel 11:36-45, el rey que se engrandece sobre todo dios y honra al dios de las fortalezas. Larkin entiende que los métodos autocráticos del anticristo provocarán guerras civiles e insubordinación entre las naciones bajo otro gran líder, el jinete rojo; Wiersbe ve al mismo anticristo que cambia el arco por la espada. McGee piensa en una guerra mundial futura y advierte que no debe decirse que ya se cumplió.",
-      "fuentes": ["macarthur_06_a#17", "web_11_a#19", "larkin_02_b#1", "r1_024_b#14", "mcgeer_05#21"]
+      "fuentes": [
+        "macarthur_06_a#17",
+        "web_11_a#19",
+        "larkin_02_b#1",
+        "r1_024_b#14",
+        "mcgeer_05#21"
+      ]
     },
     {
       "titulo": "McGee: las tres clases de muerte",
       "texto": "Al llegar al jinete Muerte, McGee distingue la muerte física, consecuencia del pecado de Adán; la espiritual, separación de Dios con la que todos nacemos (Adán murió espiritualmente el día que pecó, Gn 2:17, aunque vivió muchos años más); y la eterna o segunda muerte (20:14). Ve a Pablo personificar la muerte y el pecado en Romanos 5:14, y a Cristo como cabeza de una nueva creación, en quien está la vida. Una frase suya: Dios no creó al hombre para morir.",
-      "fuentes": ["mcgee_05_a#4", "mcgeer_05#24", "mcgee_05_a#3"]
+      "fuentes": [
+        "mcgee_05_a#4",
+        "mcgeer_05#24",
+        "mcgee_05_a#3"
+      ]
     },
     {
       "titulo": "Cálculos y conjeturas sobre el cuarto sello",
-      "texto": "MacArthur calcula que una cuarta parte de la población de su tiempo (unos seis mil millones) serían mil quinientos millones de muertes, y propone como posible explicación de las fieras a la rata, que transmitió la peste negra del siglo XIV. McGee piensa en la guerra bacteriológica y en la falta de medicinas. Larkin conjetura que la cuarta parte sería la zona del Imperio romano revivido y dice que el Hades tendrá que ensanchar su boca, como anunció Isaías 5:13-16. Sobre el aceite y el vino, Larkin supone que el olivo y la vid sufrirían menos la guerra porque dan fruto más tarde y piden menos cuidado. Son conjeturas de cada autor, no afirmaciones del texto.",
-      "fuentes": ["macarthur_06_a#22", "macarthur_06_a#24", "mcgee_05_a#2", "larkin_02_b#3", "larkin_02_b#2"]
+      "texto": "MacArthur calcula que una cuarta parte de la población de su tiempo (unos seis mil millones) serían mil quinientos millones de muertes, y propone como posible explicación de las fieras a la rata, que transmitió la peste negra del siglo XIV. McGee piensa en la guerra bacteriológica y en la falta de medicinas. Larkin conjetura que la cuarta parte sería la zona del Imperio romano revivido y dice que el Hades tendrá que ensanchar su boca, como anunció Isaías 5:13-16. Sobre el aceite y el vino, Larkin supone que el olivo y la vid sufrirían menos la guerra porque dan fruto más tarde y piden menos cuidado. Lennox compara con la peste negra (entre 75 y 200 millones de muertos): una cuarta parte de hoy serían unos 2.000 millones. Graham, escribiendo en 1983, creía probable que el jinete rojo anunciara una guerra mundial nuclear. Son conjeturas de cada autor, no afirmaciones del texto.",
+      "fuentes": [
+        "macarthur_06_a#22",
+        "macarthur_06_a#24",
+        "mcgee_05_a#2",
+        "larkin_02_b#3",
+        "larkin_02_b#2",
+        "r4_460_07_b#21",
+        "r4_451_03_b#11"
+      ]
     },
     {
       "titulo": "El hambre en la historia reciente, según McGee y Guzik",
       "texto": "McGee ilustra el tercer sello con la Segunda Guerra Mundial, cuando los ricos conseguían carne y los pobres se conformaban con lengua, y cita a Malthus, a Toynbee y a Sir John Boyd Orr, director de la FAO, que advertía sobre un caos mundial por el hambre. Guzik cuenta que desde la Segunda Guerra Mundial hubo más de 150 guerras (datos de 2016). Son ilustraciones de los autores para mostrar que el cuadro no es irracional.",
-      "fuentes": ["mcgee_04_b#32", "mcgee_05_a#1", "web_10_b#7"]
+      "fuentes": [
+        "mcgee_04_b#32",
+        "mcgee_05_a#1",
+        "web_10_b#7"
+      ]
     }
   ]
 }

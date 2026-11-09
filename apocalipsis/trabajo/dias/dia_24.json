@@ -27,7 +27,7 @@
     "porque": "Reúne las dos piezas del día: un libro que solo Dios tiene en la mano y una pregunta que recorre todo el universo."
   },
   "panorama": {
-    "texto": "Después de la adoración del capítulo 4, Juan fija la mirada en un rollo en la mano derecha de Dios, escrito por dentro y por fuera y cerrado con siete sellos. Los autores discuten qué contiene (un título de propiedad, un testamento, el plan de Dios para el fin, entre otras lecturas), pero coinciden en lo que enseña el cuadro: la historia descansa en la mano de Dios, su sentido está escondido y nadie en toda la creación es digno de abrirla. Juan llora porque, si el libro sigue cerrado, lo prometido no se cumple. El texto deja la pregunta abierta hasta mañana, para que la respuesta brille: solo el Cordero es digno.",
+    "texto": "Después de la adoración del capítulo 4, Juan fija la mirada en un rollo en la mano derecha de Dios, escrito por dentro y por fuera y cerrado con siete sellos. Los autores discuten qué contiene, pero coinciden en lo que enseña el cuadro: la historia descansa en la mano de Dios, su sentido está escondido y nadie en toda la creación es digno de abrirla. Juan llora porque, si el libro sigue cerrado, lo prometido no se cumple. El texto deja la pregunta abierta hasta mañana, para que la respuesta brille: solo el Cordero es digno.",
     "fuentes": [
       "ladd_02_c#26",
       "ladd_02_c#25",
@@ -60,13 +60,6 @@
             "henry_01_b#6"
           ],
           "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "Carballosa agrega que el rollo descansa sobre la mano, disponible para quien esté calificado; hasta entonces solo el Padre tiene autoridad sobre los tiempos y las sazones (Hch 1:7).",
-          "fuentes": [
-            "carballosa_05_a#14"
-          ],
-          "tipo": "explicacion_texto"
         }
       ]
     },
@@ -84,7 +77,7 @@
           "tipo": "cultura_costumbres"
         },
         {
-          "texto": "Lo común era escribir solo del lado interior, donde las fibras del papiro corrían horizontales. Escribir también afuera se hacía a veces, pero no era habitual (Earle, Mundo Hispano, Diccionario Mundo Hispano, Ladd); Sproul lo llama extraordinario.",
+          "texto": "Lo común era escribir solo del lado interior; escribir también afuera se hacía, pero no era habitual (Earle, Mundo Hispano, Ladd); Sproul lo llama extraordinario.",
           "fuentes": [
             "beacon_03_a#19",
             "cbmh_04#13",
@@ -173,32 +166,25 @@
           "tipo": "personaje"
         },
         {
-          "texto": "Su voz alcanza todo el universo: la pregunta tiene que oírse en el cielo, en la tierra y debajo de la tierra (Carballosa, MacArthur, Beasley-Murray). Earle nota que primero hay que desatar los sellos y después abrir el libro, pero el ángel nombra primero la apertura porque es la meta.",
+          "texto": "Su voz alcanza todo el universo: la pregunta tiene que oírse en el cielo, en la tierra y debajo de la tierra (Carballosa, MacArthur, Beasley-Murray).",
           "fuentes": [
             "carballosa_05_a#19",
             "macarthur_05_b#15",
             "cbmh_04#17",
-            "henry_01_b#7",
-            "beacon_03_a#21"
+            "henry_01_b#7"
           ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "«¿Quién es digno de abrir el libro y desatar sus sellos?» No pregunta quién puede, sino quién es digno: en rango, en carácter y en capacidad (Robertson, citado por Carballosa). Para MacArthur hace falta derecho divino y poder para derrotar a Satanás, quitar el pecado y revocar la maldición; para McGee, el derecho y el título para gobernar el mundo con justicia.",
+          "texto": "«¿Quién es digno de abrir el libro y desatar sus sellos?» No pregunta quién puede, sino quién es digno: en rango, en carácter y en capacidad (Robertson, citado por Carballosa). Para MacArthur hace falta derecho divino y poder para derrotar a Satanás, quitar el pecado y revocar la maldición; para McGee, el derecho y el título para gobernar el mundo con justicia. Lennox lo ilustra: poder tuvieron Nabucodonosor, Alejandro, los césares, Hitler o Stalin; y si Dios simplemente eliminara a los malvados con su omnipotencia, no resolvería el problema moral del mal. Por eso en 5:3 nadie «podía»: el que no es digno, tampoco puede.",
           "fuentes": [
             "carballosa_05_a#19",
             "macarthur_05_b#15",
             "mcgee_04_b#9",
-            "mcgeer_04#32"
+            "mcgeer_04#32",
+            "r4_460_07_a#20"
           ],
           "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "Larkin lee el pregón con la ley del rescate en Israel: el pariente que quería redimir una tierra lo anunciaba en la puerta de la ciudad ante diez ancianos, como Booz (Rt 4:1-12). El grito del ángel llama a ese Pariente Redentor; por eso, dice, lo que se busca no es un ángel sino un hombre.",
-          "fuentes": [
-            "larkin_02_a#22"
-          ],
-          "tipo": "conexion_biblica"
         }
       ]
     },
@@ -225,7 +211,7 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Nadie puede abrirlo «ni aun mirarlo». Para Guzik, la creación es incapaz de decidir su propio destino. Ladd ve aquí una verdad simple y profunda: fuera de la persona y la obra de Jesucristo, la historia es un enigma. Desde Agustín, Occidente pensó la historia con una meta puesta por Dios; desde el iluminismo, muchos lo dejaron de lado. Por eso es significativo que ningún ojo humano pueda leer el rollo.",
+          "texto": "Nadie puede abrirlo «ni aun mirarlo». Para Guzik, la creación es incapaz de decidir su propio destino. Ladd ve aquí una verdad simple y profunda: fuera de la persona y la obra de Jesucristo, la historia es un enigma.",
           "fuentes": [
             "web_08#12",
             "ladd_02_c#25"
@@ -293,7 +279,7 @@
     },
     {
       "signo": "siete sellos",
-      "significado": "El siete es el número de lo completo: el rollo está cerrado del todo y su contenido es secreto (Earle, Ladd, Mundo Hispano). El sello protege, autentica y marca propiedad.",
+      "significado": "Lo completo: el rollo está cerrado del todo y su contenido es secreto (Earle, Ladd, Mundo Hispano). El sello protege, autentica y marca propiedad.",
       "refs": [
         "5:1",
         "6:1"
@@ -426,12 +412,14 @@
           ]
         },
         {
-          "postura": "Un testamento, como el romano de siete sellos: la promesa del reino, decidida pero aún no ejecutada, o el programa de Dios que culmina en la segunda venida.",
-          "quien": "Zahn, cuya lectura Beasley-Murray (premilenial histórico) encuentra atractiva; Guzik, con Barclay y Walvoord. Ladd también la ve atractiva, pero objeta que los sellos y las trompetas traen juicios, no la herencia de los creyentes",
+          "postura": "Un testamento, como el romano de siete sellos: la promesa del reino, decidida pero aún no ejecutada, o el programa de Dios que culmina en la segunda venida. Un testamento se abre recién a la muerte del testador: lo abre el Cordero que murió y resucitó (Lennox).",
+          "quien": "Zahn, cuya lectura Beasley-Murray (premilenial histórico) encuentra atractiva; Guzik, con Barclay y Walvoord. Ladd también la ve atractiva, pero objeta que los sellos y las trompetas traen juicios, no la herencia de los creyentes; Hitchcock la prefiere entre siete lecturas, porque era el único documento del siglo I cerrado con siete sellos; Lennox",
           "fuentes": [
             "henry_01_b#6",
             "web_08#11",
-            "ladd_02_c#23"
+            "ladd_02_c#23",
+            "r4_442_02#34",
+            "r4_460_07_a#19"
           ]
         },
         {
@@ -474,11 +462,12 @@
         },
         {
           "postura": "El libro de la vida del Cordero (3:5; 13:8; 20:12).",
-          "quien": "Simcox, citado por Earle. Ladd y Mundo Hispano la rechazan: no corresponde a lo que pasa al romperse los sellos",
+          "quien": "Simcox, citado por Earle. Ladd y Mundo Hispano la rechazan: no corresponde a lo que pasa al romperse los sellos; también el Comentario Moody",
           "fuentes": [
             "beacon_03_a#20",
             "ladd_02_c#23",
-            "cbmh_04#16"
+            "cbmh_04#16",
+            "r4_225_01_b#40"
           ]
         }
       ],
@@ -505,7 +494,7 @@
           ]
         }
       ],
-      "nota": "El anexo T6 compara cómo se relacionan sellos, trompetas y copas."
+      "nota": "El Comentario Moody marca un detalle que suele pasarse por alto: los sellos se rompen, pero el texto nunca dice que el libro mismo se abra. El anexo T6 compara cómo se relacionan sellos, trompetas y copas."
     }
   ],
   "biblioteca": [
@@ -583,16 +572,18 @@
       ]
     },
     {
-      "texto": "Las lágrimas de Juan son el dolor de quien quiere ver cumplido lo que Dios prometió (MacArthur). Pueden llorar por lo que gime en este mundo, recordando que ese llanto fue apresurado: Dios estaba por actuar.",
+      "texto": "Las lágrimas de Juan son el dolor de quien quiere ver cumplido lo que Dios prometió (MacArthur); para Lennox, sin nadie digno nunca habría justicia contra el mal. Pueden llorar por lo que gime en este mundo, como Jesús lloró ante la tumba de Lázaro sabiendo que iba a resucitarlo, recordando que ese llanto fue apresurado: Dios estaba por actuar.",
       "fuentes": [
         "macarthur_05_b#16",
-        "mcgee_04_b#10"
+        "mcgee_04_b#10",
+        "r4_460_07_a#21"
       ]
     },
     {
-      "texto": "Mundo Hispano advierte que el rollo revela lo que viene sin anular la responsabilidad humana. Que la soberanía de Dios los lleve a obedecer, no a cruzarse de brazos.",
+      "texto": "Mundo Hispano advierte que el rollo revela lo que viene sin anular la responsabilidad humana. Matthew Henry agrega que no hace falta prever cada calamidad personal (los volvería ineptos para sus deberes): basta conocer por las promesas cómo termina la historia para los creyentes. Que la soberanía de Dios los lleve a obedecer, no a cruzarse de brazos.",
       "fuentes": [
-        "cbmh_04#16"
+        "cbmh_04#16",
+        "r4_2_01_a#34"
       ]
     }
   ],
@@ -622,6 +613,13 @@
         "ladd_02_c#21",
         "web_08#10",
         "cbmh_04#15"
+      ]
+    },
+    {
+      "titulo": "La mancipatio: un testamento con siete sellos",
+      "texto": "Hitchcock, citando a David MacLeod, describe una práctica romana para quienes no podían hacer un testamento formal: el testador reunía a siete personas (cinco testigos, un pesador con balanza de cobre y un amigo de la familia llamado “comprador de la familia”). Ese amigo ponía un precio en la balanza y recibía la herencia como albacea y heredero provisional; los siete sellaban el documento, y a la muerte del testador él pagaba las deudas y entregaba la herencia. Para Hitchcock, en Apocalipsis 5 Cristo cumple todos los papeles: es el Testador que murió, el Heredero del reino y el comprador que pagó con su sangre y guarda la herencia de los creyentes (Gá 4:1-7; Ro 3:24-25).",
+      "fuentes": [
+        "r4_442_02#35"
       ]
     },
     {

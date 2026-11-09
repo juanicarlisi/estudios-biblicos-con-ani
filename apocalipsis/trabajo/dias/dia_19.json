@@ -187,13 +187,6 @@
             "carballosa_04_b#5"
           ],
           "tipo": "cultura_costumbres"
-        },
-        {
-          "texto": "Earle lo baja a la mesa: a nadie le gusta un té o un café tibio.",
-          "fuentes": [
-            "beacon_02_b#28"
-          ],
-          "tipo": "ilustracion"
         }
       ]
     },
@@ -217,14 +210,6 @@
             "henry_01_a#38"
           ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "MacArthur explica por qué los tibios están peor que los fríos: al que rechaza abiertamente a Cristo se le puede mostrar que está perdido, pero nadie es más difícil de alcanzar que quien juega a ser cristiano (Mt 7:21-23; 2 Ti 3:5).",
-          "fuentes": [
-            "macarthur_04_b#24",
-            "mcgee_03_b#28"
-          ],
-          "tipo": "teologia_doctrina"
         }
       ]
     },
@@ -302,7 +287,7 @@
   "simbolos": [
     {
       "signo": "frío, caliente y tibio",
-      "significado": "Imágenes del agua de la región. Caliente: el fervor de una vida transformada (Ro 12:11). Tibio: la indiferencia que no sirve para nada. Frío: según Ladd, MacArthur y McGee, el rechazo abierto del evangelio; en la imagen del agua, en cambio, lo frío también es útil, como los manantiales de Colosas.",
+      "significado": "Imágenes del agua de la región. Caliente: el fervor de una vida transformada (Ro 12:11). Tibio: la indiferencia que no sirve para nada. Qué es lo frío se discute (ver Interpretaciones).",
       "refs": [
         "3:15",
         "3:16"
@@ -448,16 +433,6 @@
         "ladd_02_b#19",
         "henry_01_a#38"
       ]
-    },
-    {
-      "texto": "Todo lo que dice es verdad (Jn 14:6). Cuando cuesta saber a quién creerle, McGee anima a confiar en el testigo fiel y verdadero.",
-      "refs": [
-        "Jn 14:6"
-      ],
-      "fuentes": [
-        "mcgee_03_b#25",
-        "macarthur_04_b#17"
-      ]
     }
   ],
   "interpretaciones": [
@@ -466,12 +441,14 @@
       "posturas": [
         {
           "postura": "Fuente y origen: el agente por medio de quien Dios creó todo. Ladd admite la lectura “comienzo”, pero prefiere “fuente” porque Juan presenta a Cristo como eterno.",
-          "quien": "Ladd (premilenial histórico); Carballosa y MacArthur (premilenial dispensacional); Earle con Charles (Beacon)",
+          "quien": "Ladd (premilenial histórico); Carballosa y MacArthur (premilenial dispensacional); Earle con Charles (Beacon); Hitchcock; Lutzer",
           "fuentes": [
             "ladd_02_b#19",
             "carballosa_04_b#3",
             "macarthur_04_b#18",
-            "beacon_02_b#27"
+            "beacon_02_b#27",
+            "r4_442_02#23",
+            "r4_470_01#15"
           ]
         },
         {
@@ -490,19 +467,20 @@
           ]
         }
       ],
-      "nota": "Todos rechazan la lectura de los arrianos y de los Testigos de Jehová: Cristo no es una criatura."
+      "nota": "Todos rechazan la lectura de los arrianos y de los Testigos de Jehová: Cristo no es una criatura (Hitchcock la llama herética)."
     },
     {
       "tema": "¿Había una herejía sobre Cristo en Laodicea?",
       "posturas": [
         {
           "postura": "Sí: la de Colosas, un gnosticismo incipiente que hacía de Cristo un ser creado; por eso el título «principio de la creación». Esa cristología habría producido una iglesia no regenerada.",
-          "quien": "MacArthur y Biblia de estudio MacArthur (premilenial dispensacional); McGee dice que la iglesia había rechazado la deidad de Cristo",
+          "quien": "MacArthur y Biblia de estudio MacArthur (premilenial dispensacional); McGee dice que la iglesia había rechazado la deidad de Cristo; Hitchcock lo ve posible: el error de Colosas, en el mismo valle, quizá persistía",
           "fuentes": [
             "macarthur_04_b#19",
             "mbiblia_01_b#27",
             "macarthur_04_b#26",
-            "mcgee_03_b#24"
+            "mcgee_03_b#24",
+            "r4_442_02#23"
           ]
         },
         {
@@ -516,6 +494,32 @@
         }
       ],
       "nota": "Ver el anexo T3 sobre los títulos de Cristo."
+    },
+    {
+      "tema": "¿Qué es ser «frío»?",
+      "posturas": [
+        {
+          "postura": "El que rechaza abiertamente el evangelio. El tibio está peor: al que rechaza a Cristo se le puede mostrar que está perdido, pero nadie es más difícil de alcanzar que quien juega a ser cristiano (Mt 7:21-23; 2 Ti 3:5); hay más esperanza para un Saulo de Tarso.",
+          "quien": "Ladd; MacArthur; McGee; Hitchcock la expone",
+          "fuentes": [
+            "ladd_02_b#20",
+            "macarthur_04_b#24",
+            "mcgee_03_b#28",
+            "r4_442_02#25"
+          ]
+        },
+        {
+          "postura": "Lo frío también es bueno: como el agua de Colosas, refresca, y la caliente de Hierápolis sana; lo que Cristo rechaza es la inutilidad del tibio, como el agua de Laodicea.",
+          "quien": "Hitchcock; Lutzer; Lennox, con Rudwick y Green (1958)",
+          "fuentes": [
+            "r4_442_02#25",
+            "r4_470_01#17",
+            "r4_460_05_b#23",
+            "r4_460_17_a#21"
+          ]
+        }
+      ],
+      "nota": "Todos coinciden en que la tibieza es la condición de Laodicea y en que Cristo la rechaza."
     },
     {
       "tema": "¿Quiénes eran los tibios y qué alcance tiene «te vomitaré»?",
@@ -592,16 +596,6 @@
       ]
     },
     {
-      "texto": "Mientras el mundo se prepara para un rey, la iglesia dice «Yo soy rico»: más asistencia, más dinero y más programas que nunca, y lo esencial olvidado.",
-      "autor": "A. W. Tozer",
-      "obra": "Los atributos de Dios",
-      "pagina": "PDF 448",
-      "tipo": "aplicacion",
-      "fuentes": [
-        "r2_032#18"
-      ]
-    },
-    {
       "texto": "La abundancia de bienes endurece el corazón hacia Dios y hacia el prójimo, porque se pierde el sentimiento de dependencia y de las verdaderas necesidades del alma.",
       "autor": "Kœchlin",
       "obra": "Cada día las Escrituras",
@@ -657,6 +651,13 @@
         "mbiblia_01_b#28",
         "r2_010#32"
       ]
+    },
+    {
+      "ref": "Lv 18:28",
+      "nota": "La tierra que vomita a los que la profanan: Lennox ve a Laodicea en el mismo peligro que Israel antes del exilio.",
+      "fuentes": [
+        "r4_460_06_a#13"
+      ]
     }
   ],
   "para_vivir": [
@@ -683,10 +684,9 @@
       ]
     },
     {
-      "texto": "El fuego se cuida: Elizabeth George invita a cultivar un corazón ardiente, y Duewel, a mantener alta la temperatura espiritual.",
+      "texto": "Henry: “si la religión vale algo, lo vale todo”. Y describe una tibieza muy reconocible: indiferentes en lo necesario, pero acalorados en las discusiones sobre cosas menores.",
       "fuentes": [
-        "r2_014#17",
-        "r2_020#10"
+        "r4_2_01_a#25"
       ]
     }
   ],
@@ -709,14 +709,16 @@
   "profundizar": [
     {
       "titulo": "¿De dónde venía el agua?",
-      "texto": "Guzik y Stott hacen venir el agua de las fuentes termales de Hierápolis; McGee dice que el acueducto bajaba agua fría de las montañas frigias, con nieve hasta junio, y que también llegaba tibia la caliente de las termas. Carballosa ubica la fuente a casi 10 km, en Denizli, y agrega que desde Laodicea se veían unos manantiales tibios cerca de Hierápolis que no daban ni agua para beber ni baños terapéuticos.",
+      "texto": "Guzik y Stott hacen venir el agua de las fuentes termales de Hierápolis; McGee dice que el acueducto bajaba agua fría de las montañas frigias, con nieve hasta junio, y que también llegaba tibia la caliente de las termas. Carballosa ubica la fuente a casi 10 km, en Denizli, y agrega que desde Laodicea se veían unos manantiales tibios cerca de Hierápolis que no daban ni agua para beber ni baños terapéuticos. Hitchcock la ubica en las termas de Denizli, a unos 8 km al sur, y dice que la tubería de piedra todavía se ve; Lennox (con Rudwick y Green) agrega que el agua llegaba de mala calidad y daba náuseas.",
       "fuentes": [
         "web_02_a#26",
         "r2_001_a#9",
         "mcgee_03_b#27",
         "mcgeer_04#3",
         "carballosa_04_b#5",
-        "carballosa_04_b#2"
+        "carballosa_04_b#2",
+        "r4_442_02#24",
+        "r4_460_05_b#23"
       ]
     },
     {
@@ -728,6 +730,13 @@
         "carballosa_04_b#2",
         "web_02_a#26",
         "mcgeer_03#37"
+      ]
+    },
+    {
+      "titulo": "Una pista para fechar el Apocalipsis",
+      "texto": "Hitchcock nota que Pablo menciona tres veces a Laodicea en Colosenses sin reproche. Tácito cuenta que tras el terremoto del 60 se rehízo sin ayuda de Roma, pero la reconstrucción llevó una generación: el estadio se terminó a fines del 79 y la puerta triple con sus torres hacia el 88-90. Por eso, para Hitchcock, una iglesia que se dijera «rica» encaja mal entre el 64 y el 67 y muy bien hacia el 95.",
+      "fuentes": [
+        "r4_442_01#18"
       ]
     },
     {

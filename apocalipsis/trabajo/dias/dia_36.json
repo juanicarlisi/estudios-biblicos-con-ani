@@ -102,7 +102,7 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "¿Media hora es mucho? Para Guzik no, pero en un cielo de alabanza constante resulta larga, como un predicador callado diez minutos en el púlpito. Larkin agrega que media hora vuela en algo agradable y se vuelve insoportable cuando no se sabe qué viene.",
+          "texto": "¿Media hora es mucho? Para Guzik no, pero en un cielo de alabanza constante resulta larga, como un predicador callado diez minutos en el púlpito.",
           "fuentes": [
             "web_08#1",
             "larkin_02_b#20"
@@ -348,16 +348,6 @@
       ]
     },
     {
-      "ref": "8:3",
-      "griego": "δίδωμι",
-      "translit": "dídōmi",
-      "significado": "Dar: en Apocalipsis suele indicar algo que Dios da (MacArthur); está en «se les dieron» (v. 2) y «se le dio» (v. 3).",
-      "fuentes": [
-        "macarthur_07_b#21",
-        "carballosa_07#3"
-      ]
-    },
-    {
       "ref": "8:5",
       "griego": "εἴληφεν",
       "translit": "eílēphen",
@@ -423,11 +413,13 @@
         },
         {
           "postura": "El cielo calla para que se oigan las oraciones de los santos: para Dios sus necesidades importan más que toda la alabanza del cielo.",
-          "quien": "Charles (citado por Earle); Beasley-Murray (premilenial histórico), con una tradición judía de ángeles que callan para oír a Israel; Buswell, que lo explica por los vv. 3-5",
+          "quien": "Charles (citado por Earle); Beasley-Murray (premilenial histórico), con una tradición judía de ángeles que callan para oír a Israel; Buswell, que lo explica por los vv. 3-5; Lennox, que imagina al cielo callado para captar la oración débil de un creyente que sufre, como se pide silencio para oír a alguien bajo los escombros",
           "fuentes": [
             "beacon_03_b#18",
             "henry_01_b#21",
-            "r1_009#23"
+            "r1_009#23",
+            "r4_460_08_b#6",
+            "r4_460_08_b#14"
           ]
         },
         {
@@ -443,13 +435,6 @@
           "fuentes": [
             "mcgee_06_a#2",
             "mcgeer_06#27"
-          ]
-        },
-        {
-          "postura": "El comienzo del descanso eterno de los santos.",
-          "quien": "Mencionada por Ladd, que la juzga improbable porque no encaja con los seis sellos anteriores",
-          "fuentes": [
-            "ladd_03_b#19"
           ]
         }
       ],
@@ -537,13 +522,6 @@
       "obra": "Para estos tiempos difíciles, mire al cielo",
       "pagina": "pág. PDF 65",
       "tipo": "aplicacion"
-    },
-    {
-      "texto": "Gurnall usa el silencio de media hora como imagen de la paz de la iglesia en la tierra: breve, porque pronto surgen diferencias; solo en el cielo la paz es plena y eterna.",
-      "autor": "Gurnall",
-      "obra": "El cristiano con toda la armadura de Dios",
-      "pagina": "pág. PDF 551",
-      "tipo": "ilustracion"
     }
   ],
   "conexiones": [
@@ -584,18 +562,26 @@
   ],
   "para_vivir": [
     {
-      "texto": "Sus oraciones no se pierden. Antes de que suene una sola trompeta, el cielo se detiene para recibir las oraciones de todos los santos; Mundo Hispano lo dice sin rodeos: nunca son ignoradas. Lo que oran juntos, también lo que todavía no tiene respuesta, llega ante el trono.",
+      "texto": "Sus oraciones no se pierden. Antes de que suene una sola trompeta, el cielo se detiene para recibir las oraciones de todos los santos; Mundo Hispano lo dice sin rodeos: nunca son ignoradas. Lo que oran juntos, también lo que todavía no tiene respuesta, llega ante el trono. Y si el cielo parece callado por años, Lennox alienta: la Biblia misma reconoce ese silencio y lo pone en boca de los creyentes (Sal 94:3; Hab 1:2).",
       "fuentes": [
         "cbmh_05_a#21",
-        "ladd_04_a#2"
+        "ladd_04_a#2",
+        "r4_460_08_b#7",
+        "r4_460_08_b#8"
       ]
     },
     {
-      "texto": "Oren por lo grande, no solo por lo urgente. Wiersbe resume la oración de los santos en que venga el reino, y Guzik recuerda que podemos acelerar la venida del Señor con una conducta santa (2 P 3:10-12) y orando para que venga. Caird, citado por Carballosa, observa que Dios retiene algunos dones hasta que su pueblo ora.",
+      "texto": "Oren por lo grande, no solo por lo urgente. Wiersbe resume la oración de los santos en que venga el reino, y Guzik recuerda que podemos acelerar la venida del Señor con una conducta santa (2 P 3:10-12) y orando para que venga.",
       "fuentes": [
         "r1_024_b#23",
-        "web_08#3",
-        "carballosa_07#5"
+        "web_08#3"
+      ]
+    },
+    {
+      "texto": "¿Cómo se pide juicio sin dejar de amar al enemigo (Mt 5:44)? Lennox responde que lo que se pide no es revancha sino justicia (Lc 18:3-8; Ro 12:19), y que hacerla le toca a Dios: “Solo Dios puede defender su propia causa sin error”. Así obró Jesús en la cruz, encomendándose al que juzga con justicia (1 P 2:23). Cuando la injusticia los toque, oren por justicia y dejen la causa en sus manos.",
+      "fuentes": [
+        "r4_460_08_b#12",
+        "r4_460_08_b#13"
       ]
     },
     {

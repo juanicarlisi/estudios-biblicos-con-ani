@@ -2,6 +2,7 @@
 
 ## Estado (09-11-2026, tras REFERENCIA4)
 - **REFERENCIA4 incorporada:** 2.414 notas nuevas (`trabajo/notas/r_*, q_*, z_*, y_*.json`; fuentes `R4001–R4281` en `trabajo/fuentes.json`) de libros A (primera pasada) y B, D y algunos C no católicos ni heterodoxos (segunda pasada, a pedido del fundador; el filtro doctrinal lo hacen los agentes al extraer y excluyó 1 libro de «liberación»), integradas en 454 de los 512 días (1.780 ítems de «Para profundizar», 1.289 conexiones, 221 pasos, 32 modelos, 13 datos, 11 interpretaciones). 512/512 días pasan `verificar_dia.py` (con `INSUMO_TOPE=400000` y las notas nuevas añadidas al insumo; ver `trabajo/scripts/ref4/`). Sin días nuevos; el tema «qué les dejás a tus hijos» va en los días 265, 274, 278, 289, 301 y 307. Excluidos por regla del fundador: católicos, adventistas, testigos, esoterismo, laicos y documentos legales (`trabajo/ref4/clasificacion.json`). HTML regenerado (17 MB).
+- **Revisión doctrinal independiente (Opus, 6 revisores):** de 583 ítems de autores sensibles (Munroe, Scazzero, Barclay, J. Evans, autores desconocidos, etc.), 29 se reescribieron (atribuir ideas propias del autor, suavizar afirmaciones tajantes, lenguaje sobrio, voseo); ninguno se quitó. Quedan fuera 43 notas de importancia 1 de 36 días (lista en el mapa de trabajo).
 - Cuidado al repetir el proceso: `armar_bloques.py` debe calcular el próximo id de fuente con `int(k[1:])` (un error con `k[2:]` pisó R4001–R4013; ya reparado).
 
 ## Estado anterior (31-10-2026)

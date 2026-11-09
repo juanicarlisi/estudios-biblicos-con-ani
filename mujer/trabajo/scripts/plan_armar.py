@@ -31,6 +31,12 @@ def resultados(runs):
 def main():
     runs = sys.argv[1:] or [r for l in open(f'{V}/RUNS.md') if 'Planear' in l and 'piloto' not in l for r in re.findall(r'wf_[0-9a-f]{8}-[0-9a-f]{3}', l)]
     res = resultados(runs)
+    # fragmentos (S_1, S_2…): se juntan en el orden en que se planearon
+    for S in 'ABCDEFGHIJKLMNOPQ':
+        frs = sorted(k for k in res if k.startswith(S + '_'))
+        if frs and res[frs[0]]:
+            res[S] = {'parte': res[frs[0]]['parte'], 'dias': [d for k in frs if res[k] for d in res[k]['dias']],
+                      'descartados': [x for k in frs if res[k] for x in res[k]['descartados']]}
     grupos = json.load(open(f'{V}/plan/grupos/_grupos.json'))
     web = json.load(open(f'{V}/web/datos.json'))
     partes, plan, detalle, usados, problemas = [], [], {}, {}, []

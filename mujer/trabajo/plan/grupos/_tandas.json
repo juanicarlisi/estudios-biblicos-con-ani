@@ -2,87 +2,117 @@
 {
 "tanda": "in_A_01",
 "seccion": "A",
-"notas": 234
+"notas": 324
+},
+{
+"tanda": "in_A_02",
+"seccion": "A",
+"notas": 171
 },
 {
 "tanda": "in_B_01",
 "seccion": "B",
-"notas": 326
+"notas": 307
 },
 {
 "tanda": "in_B_02",
 "seccion": "B",
-"notas": 326
+"notas": 305
+},
+{
+"tanda": "in_B_03",
+"seccion": "B",
+"notas": 312
+},
+{
+"tanda": "in_B_04",
+"seccion": "B",
+"notas": 144
 },
 {
 "tanda": "in_C_01",
 "seccion": "C",
-"notas": 303
+"notas": 301
 },
 {
 "tanda": "in_C_02",
 "seccion": "C",
-"notas": 303
+"notas": 301
 },
 {
 "tanda": "in_C_03",
 "seccion": "C",
-"notas": 304
+"notas": 300
 },
 {
 "tanda": "in_C_04",
 "seccion": "C",
-"notas": 303
+"notas": 313
 },
 {
 "tanda": "in_C_05",
 "seccion": "C",
-"notas": 304
+"notas": 306
 },
 {
 "tanda": "in_C_06",
 "seccion": "C",
-"notas": 303
+"notas": 308
 },
 {
 "tanda": "in_C_07",
 "seccion": "C",
-"notas": 304
+"notas": 308
 },
 {
 "tanda": "in_C_08",
 "seccion": "C",
-"notas": 303
+"notas": 308
 },
 {
 "tanda": "in_C_09",
 "seccion": "C",
-"notas": 304
+"notas": 308
+},
+{
+"tanda": "in_C_10",
+"seccion": "C",
+"notas": 308
+},
+{
+"tanda": "in_C_11",
+"seccion": "C",
+"notas": 305
+},
+{
+"tanda": "in_C_12",
+"seccion": "C",
+"notas": 299
 },
 {
 "tanda": "in_D_01",
 "seccion": "D",
-"notas": 313
+"notas": 321
 },
 {
 "tanda": "in_D_02",
 "seccion": "D",
-"notas": 313
+"notas": 301
 },
 {
 "tanda": "in_D_03",
 "seccion": "D",
-"notas": 313
+"notas": 310
 },
 {
 "tanda": "in_D_04",
 "seccion": "D",
-"notas": 314
+"notas": 315
 },
 {
 "tanda": "in_D_05",
 "seccion": "D",
-"notas": 313
+"notas": 314
 },
 {
 "tanda": "in_D_06",
@@ -92,132 +122,192 @@
 {
 "tanda": "in_D_07",
 "seccion": "D",
-"notas": 313
+"notas": 311
 },
 {
 "tanda": "in_D_08",
 "seccion": "D",
-"notas": 314
+"notas": 312
+},
+{
+"tanda": "in_D_09",
+"seccion": "D",
+"notas": 318
+},
+{
+"tanda": "in_D_10",
+"seccion": "D",
+"notas": 313
+},
+{
+"tanda": "in_D_11",
+"seccion": "D",
+"notas": 311
+},
+{
+"tanda": "in_D_12",
+"seccion": "D",
+"notas": 192
 },
 {
 "tanda": "in_E_01",
 "seccion": "E",
-"notas": 317
+"notas": 310
 },
 {
 "tanda": "in_E_02",
 "seccion": "E",
-"notas": 318
+"notas": 299
 },
 {
 "tanda": "in_E_03",
 "seccion": "E",
-"notas": 318
+"notas": 306
 },
 {
 "tanda": "in_E_04",
 "seccion": "E",
-"notas": 318
+"notas": 316
+},
+{
+"tanda": "in_E_05",
+"seccion": "E",
+"notas": 310
+},
+{
+"tanda": "in_E_06",
+"seccion": "E",
+"notas": 242
 },
 {
 "tanda": "in_F_01",
 "seccion": "F",
-"notas": 306
+"notas": 304
 },
 {
 "tanda": "in_F_02",
 "seccion": "F",
-"notas": 301
+"notas": 313
 },
 {
 "tanda": "in_F_03",
 "seccion": "F",
-"notas": 301
+"notas": 307
 },
 {
 "tanda": "in_F_04",
 "seccion": "F",
-"notas": 302
+"notas": 310
 },
 {
 "tanda": "in_F_05",
 "seccion": "F",
-"notas": 123
+"notas": 303
+},
+{
+"tanda": "in_F_06",
+"seccion": "F",
+"notas": 124
 },
 {
 "tanda": "in_G_01",
 "seccion": "G",
-"notas": 319
+"notas": 325
 },
 {
 "tanda": "in_G_02",
 "seccion": "G",
-"notas": 308
+"notas": 326
 },
 {
 "tanda": "in_G_03",
 "seccion": "G",
-"notas": 311
+"notas": 326
 },
 {
 "tanda": "in_G_04",
 "seccion": "G",
-"notas": 308
+"notas": 326
 },
 {
 "tanda": "in_G_05",
 "seccion": "G",
-"notas": 137
+"notas": 326
+},
+{
+"tanda": "in_G_06",
+"seccion": "G",
+"notas": 326
+},
+{
+"tanda": "in_G_07",
+"seccion": "G",
+"notas": 326
+},
+{
+"tanda": "in_G_08",
+"seccion": "G",
+"notas": 326
 },
 {
 "tanda": "in_H_01",
 "seccion": "H",
-"notas": 305
+"notas": 318
 },
 {
 "tanda": "in_H_02",
 "seccion": "H",
-"notas": 313
+"notas": 319
 },
 {
 "tanda": "in_H_03",
 "seccion": "H",
-"notas": 173
+"notas": 317
+},
+{
+"tanda": "in_H_04",
+"seccion": "H",
+"notas": 308
 },
 {
 "tanda": "in_I_01",
 "seccion": "I",
-"notas": 170
+"notas": 356
 },
 {
 "tanda": "in_J_01",
 "seccion": "J",
-"notas": 300
+"notas": 330
 },
 {
 "tanda": "in_J_02",
 "seccion": "J",
-"notas": 300
+"notas": 330
 },
 {
 "tanda": "in_J_03",
 "seccion": "J",
-"notas": 208
+"notas": 330
 },
 {
 "tanda": "in_K_01",
 "seccion": "K",
-"notas": 326
+"notas": 336
 },
 {
 "tanda": "in_K_02",
 "seccion": "K",
-"notas": 326
+"notas": 336
 },
 {
 "tanda": "in_K_03",
 "seccion": "K",
-"notas": 327
+"notas": 336
+},
+{
+"tanda": "in_K_04",
+"seccion": "K",
+"notas": 337
 },
 {
 "tanda": "in_L_01",
@@ -225,53 +315,83 @@
 "notas": 316
 },
 {
+"tanda": "in_L_02",
+"seccion": "L",
+"notas": 255
+},
+{
 "tanda": "in_M_01",
 "seccion": "M",
-"notas": 50
+"notas": 76
 },
 {
 "tanda": "in_N_01",
 "seccion": "N",
-"notas": 66
+"notas": 155
 },
 {
 "tanda": "in_O_01",
 "seccion": "O",
-"notas": 301
+"notas": 314
 },
 {
 "tanda": "in_O_02",
 "seccion": "O",
-"notas": 288
+"notas": 302
+},
+{
+"tanda": "in_O_03",
+"seccion": "O",
+"notas": 145
 },
 {
 "tanda": "in_P_01",
 "seccion": "P",
-"notas": 313
+"notas": 318
 },
 {
 "tanda": "in_P_02",
 "seccion": "P",
-"notas": 314
+"notas": 318
 },
 {
 "tanda": "in_P_03",
 "seccion": "P",
-"notas": 313
+"notas": 319
 },
 {
 "tanda": "in_P_04",
 "seccion": "P",
-"notas": 314
+"notas": 318
+},
+{
+"tanda": "in_P_05",
+"seccion": "P",
+"notas": 318
+},
+{
+"tanda": "in_P_06",
+"seccion": "P",
+"notas": 319
 },
 {
 "tanda": "in_Q_01",
 "seccion": "Q",
-"notas": 309
+"notas": 323
 },
 {
 "tanda": "in_Q_02",
 "seccion": "Q",
-"notas": 310
+"notas": 323
+},
+{
+"tanda": "in_Q_03",
+"seccion": "Q",
+"notas": 323
+},
+{
+"tanda": "in_Q_04",
+"seccion": "Q",
+"notas": 323
 }
 ]

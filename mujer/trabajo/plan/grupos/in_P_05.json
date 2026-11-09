@@ -1,0 +1,896 @@
+{
+"grupos": [
+{
+"tema": "Esperar el tiempo de Dios cuando la respuesta se demora",
+"resumen": "Sara, José, Josué y María y Marta esperaron mucho antes de ver la respuesta; las notas muestran que el tiempo de Dios no es el nuestro y que la demora tiene sentido en su plan.",
+"refs": [
+"Gn 21:5",
+"Gn 40:23-41:1",
+"Jn 11:3-4",
+"Lc 8:40-56"
+],
+"ids": [
+"r_066#38",
+"r_083#40",
+"v_b_051#23",
+"v_b_072#40",
+"r_002#32",
+"r_083#44",
+"r_090#12",
+"w_030#21"
+]
+},
+{
+"tema": "Dios restaura lo perdido y da fruto en la aflicción",
+"resumen": "Joel promete devolver lo perdido; José pone a sus hijos nombres que recuerdan el olvido del dolor y el fruto de la aflicción; Dios redime los años perdidos y las historias rotas.",
+"refs": [
+"Jl 2:25-27",
+"Gn 41:50-52",
+"Ro 8:28",
+"Os 2:2-15"
+],
+"ids": [
+"r_098#22",
+"v_b_379#7",
+"r_016#8",
+"r_108#36",
+"w_049#12"
+]
+},
+{
+"tema": "Duelo: llorar, negar la pérdida sin quedarse ahí y no perder la verdad de Dios",
+"resumen": "Jesús llora con los que lloran, el duelo no es incredulidad, hay que pasar por la negación y el dolor sin quedarse en la negación, y el dolor desmedido puede ser pecaminoso.",
+"refs": [
+"Jn 11:25",
+"Jn 11:35",
+"Jn 11:44",
+"2 S 13:2"
+],
+"ids": [
+"v_b_021#16",
+"v_b_051#26",
+"v_b_051#27",
+"v_b_052#1",
+"v_b_387#10",
+"r_095#45",
+"r_095#42"
+]
+},
+{
+"tema": "Resurrección: esperanza y reencuentro en el duelo",
+"resumen": "La esperanza de la resurrección modera el dolor: los creyentes lloran con esperanza, la muerte es un sueño y la resurrección de Jesús garantiza el reencuentro.",
+"refs": [
+"1 Ts 4:13-14",
+"1 Ts 4:16",
+"Jn 11:25-26",
+"1 Ts 2:19-20"
+],
+"ids": [
+"b_098#5",
+"b_154#18",
+"v_b_186#3",
+"v_b_267#19"
+]
+},
+{
+"tema": "Pérdida de un hijo: el temor por su destino y el consuelo de una madre",
+"resumen": "Ante la muerte de un hijo pequeño el temor por su salvación debe examinarse; el consuelo viene de la fe y del acompañamiento de otros que lloran con la madre.",
+"refs": [
+"1 R 14:13",
+"2 S 12:23",
+"Lc 8:52-55",
+"Sal 6:6"
+],
+"ids": [
+"b_098#14",
+"v_b_243#8",
+"b_100#25",
+"v_b_344#10",
+"b_141#16"
+]
+},
+{
+"tema": "Viudez y funeral: gozo y adoración en medio de la pérdida",
+"resumen": "La viudez en sentido amplio describe la pérdida y la soledad; el funeral de Mary Katherine muestra que la fe puede cantar en medio del terror, y la muerte de la amada de Ezequiel es señal de juicio y obediencia.",
+"refs": [
+"1 Ti 5:3",
+"Ez 24:15-27",
+"Sal 23"
+],
+"ids": [
+"b_104#7",
+"b_080#10",
+"r_006#23"
+]
+},
+{
+"tema": "Esperanza cuando parece que no hay salida",
+"resumen": "Quien siente que no tiene salida recibe ánimo: la esperanza viva de la resurrección sostiene en las pruebas, y pregunta como '¿hay alguna esperanza?' encuentra respuesta en Cristo.",
+"refs": [
+"1 P 1:3-7",
+"Ro 8:18",
+"Jn 11:44"
+],
+"ids": [
+"r_141#9",
+"v_b_049#22",
+"v_b_056#18",
+"v_b_326#12",
+"b_092#2"
+]
+},
+{
+"tema": "Confiar en Dios en la tormenta, en el silencio y sin refugios falsos",
+"resumen": "Cuando Dios parece lejano no hay que buscar refugios que drenan (comida, distracción, control); el temor pasa al confiar, el trono de la gracia está abierto y Cristo intercede aun en la tormenta.",
+"refs": [
+"Mt 14:22-33",
+"He 4:16",
+"Mt 27:46",
+"Heb 13:8"
+],
+"ids": [
+"v_b_233#12",
+"w_027#8",
+"r_075#22",
+"r_132#29",
+"v_b_387#3",
+"v_b_296#3",
+"r_027#13",
+"v_b_342#7",
+"v_b_343#27",
+"r_068#17"
+]
+},
+{
+"tema": "Pablo, el aguijón y la gracia que basta en la debilidad",
+"resumen": "Pablo pidió tres veces que le quitaran la espina y Dios respondió que su gracia basta; la debilidad es el lugar donde se perfecciona el poder de Cristo y donde se depende de Él.",
+"refs": [
+"2 Co 12:7-10",
+"2 Co 12:9",
+"2 Co 4:7",
+"Fil 1:29"
+],
+"ids": [
+"b_045#27",
+"r_024#32",
+"v_b_061#24",
+"v_b_166#2",
+"v_b_198#18",
+"v_b_239#6"
+]
+},
+{
+"tema": "Dios no responde como pedimos: gracia para perseverar y no sanidad garantizada",
+"resumen": "La fe no garantiza el embarazo ni la sanidad; Dios puede dar fortaleza en vez de sanar, y la gracia es un don aunque no se conceda lo pedido. Incluye acompañar la infertilidad.",
+"refs": [
+"2 Co 12:9",
+"1 S 1",
+"Gn 21:1-2",
+"Sal 23:4"
+],
+"ids": [
+"r_090#10",
+"w_017#14",
+"b_070#27",
+"b_126#29",
+"r_019#42",
+"r_066#41",
+"v_b_434#23"
+]
+},
+{
+"tema": "Criar un hijo con discapacidad o necesidades especiales: aceptar el don",
+"resumen": "Padres que reciben un hijo con autismo, limitaciones o trastornos del sueño encuentran que el llamado permanece aunque cambie la forma; la gracia basta y la limitación puede ser don.",
+"refs": [
+"Pr 31:27",
+"Stg 1:2",
+"2 Co 12:7"
+],
+"ids": [
+"w_060#5",
+"r_067#15",
+"r_067#80",
+"r_133#8"
+]
+},
+{
+"tema": "Enfermedad grave de un hijo: entrega, oración y esperanza",
+"resumen": "Ante la enfermedad de un hijo los padres se culpan y acusan a Dios; la oración del cuadro completo y la mano abierta, entregando al hijo a Dios, traen paz aun sin la sanidad esperada.",
+"refs": [
+"Jn 9:3",
+"Pr 3:5",
+"Ro 8:28"
+],
+"ids": [
+"b_040#15",
+"b_041#2",
+"v_b_152#8",
+"b_010#43"
+]
+},
+{
+"tema": "Enfermedad grave: prioridades y gratitud de quien vive un tiempo prestado",
+"resumen": "La enfermedad terminal cambia las prioridades y recuerda que todos vivimos prestados; la recomendación es nombrar la enfermedad, agradecer cada día y no dejar que la negación decida.",
+"refs": [
+"1 Ts 5:18",
+"Sal 90:12",
+"Ef 3:20-21"
+],
+"ids": [
+"r_093#78",
+"r_093#79",
+"r_135#24",
+"v_b_262#11",
+"w_037#23"
+]
+},
+{
+"tema": "Enfermedad y fe en la cama del hospital: testimonios de paz y providencia",
+"resumen": "Historias de enfermedad, accidente, cáncer, enfermedad autoinmune y discapacidad que muestran la providencia de Dios, la paz en la noticia difícil y la fe de quien acompaña.",
+"refs": [
+"Ro 8:28",
+"Fil 4:6-7",
+"Sal 147:3"
+],
+"ids": [
+"r_144#5",
+"v_b_337#11",
+"r_058#73",
+"r_060#30",
+"v_b_147#2",
+"v_b_243#7",
+"r_118#33"
+]
+},
+{
+"tema": "Mujer con flujo de sangre: marginación, impureza y culpa social",
+"resumen": "Doce años de hemorragia la hacían impura y apartada; en el primer siglo se creía que la enfermedad era castigo del pecado, y Jesús cruza las líneas de pureza para devolverla a la comunidad.",
+"refs": [
+"Lv 15:25-30",
+"Mr 5:25-34",
+"Jn 9:2",
+"Os 6:6"
+],
+"ids": [
+"b_068#22",
+"b_133#13",
+"r_011#63",
+"r_089#26",
+"r_089#27",
+"r_090#7",
+"w_043#12"
+]
+},
+{
+"tema": "Mujer con flujo de sangre: médicos, dinero y pedir ayuda",
+"resumen": "Gastó todo en médicos y empeoró; la lección es admitir la necesidad de ayuda, no temer lo que dirán y acudir a Jesús y a los medios que Dios usa.",
+"refs": [
+"Mr 5:26",
+"Lc 8:43",
+"Mt 9:12",
+"Mt 8:16"
+],
+"ids": [
+"b_092#24",
+"r_089#28",
+"r_089#29",
+"r_083#23",
+"r_091#27"
+]
+},
+{
+"tema": "Mujer con flujo de sangre: tocar a Jesús y ser llamada «hija»",
+"resumen": "La mujer tocó el manto con fe, confesó temblando y Jesús la llamó hija, la recibió en su reino y la restauró física, social y espiritualmente; tu fe te ha salvado.",
+"refs": [
+"Lc 8:48",
+"Mr 5:34",
+"Jn 1:12",
+"Lc 8:43-48"
+],
+"ids": [
+"b_080#15",
+"r_011#63",
+"b_154#16",
+"b_155#21",
+"r_012#11"
+]
+},
+{
+"tema": "La hija de Jairo: fe probada, interrupción y espera",
+"resumen": "Mientras Jesús atendía a la mujer enferma, la hija de Jairo murió; la madre esperó y oró, y Jesús llegó y dijo «no temas, cree solamente».",
+"refs": [
+"Mr 5:21-43",
+"Lc 8:49-56",
+"Lc 8:51",
+"Mr 5:41"
+],
+"ids": [
+"b_080#16",
+"b_085#33",
+"b_129#14",
+"b_155#22"
+]
+},
+{
+"tema": "Sentimientos, cuerpo y la Palabra cuando no se siente a Dios",
+"resumen": "Cuando hay depresión, ansiedad o agotamiento no hay que depender de sentimientos sino aferrarse a la Palabra; Dios manda obras, no sentimientos, y el cuerpo se cuida con diagnóstico médico.",
+"refs": [
+"Sal 139:14",
+"1 Co 6:20",
+"Ro 12:1",
+"Jn 14:21"
+],
+"ids": [
+"b_020#5",
+"r_092#99",
+"w_059#8",
+"b_104#21",
+"r_090#20",
+"r_112#7",
+"o_005#4",
+"o_009#12",
+"w_002#19",
+"w_004#9"
+]
+},
+{
+"tema": "Ternura de Cristo con el quebrantado y la fragilidad del que sirve",
+"resumen": "Jesús no quiebra la caña cascada ni apaga el pábilo que humea; la fragilidad no descalifica, porque el tesoro está en vasijas de barro y la ternura de Cristo levanta.",
+"refs": [
+"Mt 12:20",
+"2 Co 4:7",
+"Mr 5:41-42",
+"2 Co 4:8-9"
+],
+"ids": [
+"b_153#3",
+"v_b_121#14",
+"v_b_097#8",
+"v_b_105#38"
+]
+},
+{
+"tema": "Enojo con Dios y el «por qué» que no se responde",
+"resumen": "No hay que justificar a Dios ni explicar por qué permitió la prueba; el enojo con Dios obstruye el oído espiritual; hay que confiar en su corazón aunque no se entienda la mano.",
+"refs": [
+"1 Co 13:12",
+"Lc 10:27",
+"Jn 16:12",
+"Job 1"
+],
+"ids": [
+"v_b_335#15",
+"v_b_344#4",
+"v_o_038#13",
+"v_b_199#30",
+"w_011#5"
+]
+},
+{
+"tema": "Efectos del abuso y camino de recuperación",
+"resumen": "El abuso deja efectos durables (culpa, miedo, baja autoestima, enojo reprimido); la recuperación toma años, exige declarar que no es responsable y dar salida al enojo sin dañar.",
+"refs": [
+"1 Co 6:19",
+"Sal 147:3",
+"Mt 5:4"
+],
+"ids": [
+"r_094#44",
+"r_095#30",
+"r_095#31",
+"r_095#37",
+"r_095#39",
+"r_095#35"
+]
+},
+{
+"tema": "Injusticia, abuso, rechazo y matrimonio opresivo: proteger a la víctima",
+"resumen": "Cuando hay abuso o matrimonio opresivo la iglesia debe proteger a la víctima; la ley civil y la separación protectora son caminos legítimos, y la obediencia a Dios va primero que la complacencia del cónyuge.",
+"refs": [
+"Hch 5:29",
+"Ro 12:19",
+"Mt 18:15-17",
+"1 Co 7:15"
+],
+"ids": [
+"v_b_304#5",
+"b_079#12",
+"b_099#17",
+"r_019#47",
+"r_021#34",
+"r_063#83",
+"r_067#41",
+"r_109#54",
+"r_142#9",
+"r_081#28"
+]
+},
+{
+"tema": "Justicia de Dios y venganza: no hacerla nosotras",
+"resumen": "La venganza es de Dios; las víctimas pueden perdonar de corazón y aun así buscar justicia, y se confía que Dios juzga el mal aunque hoy no se vea.",
+"refs": [
+"Ro 12:19",
+"Jn 8:7",
+"Dt 32:35"
+],
+"ids": [
+"r_087#24",
+"r_082#53",
+"r_087#25",
+"r_142#17"
+]
+},
+{
+"tema": "Heridas de los padres: perdonar y soltar la amargura",
+"resumen": "Las heridas de padres imperfectos se sanan reconociendo el daño, perdonando y respondiendo con la verdad de cómo Dios nos ve, sin verse como víctima perpetua.",
+"refs": [
+"Sal 34:18",
+"Pr 18:24",
+"Ef 4:31"
+],
+"ids": [
+"r_092#21",
+"r_095#22",
+"w_002#14",
+"b_017#6",
+"b_126#28",
+"v_b_114#3"
+]
+},
+{
+"tema": "Trauma y heridas que se vuelven servicio",
+"resumen": "El trauma es distinto del carácter: el rayo que cae sobre el árbol; Dios no desperdicia una herida, y el mayor ministerio puede salir de la herida compartida con sinceridad.",
+"refs": [
+"2 Co 1:3-4",
+"Is 61:1",
+"Sal 147:3",
+"Ez 34:16"
+],
+"ids": [
+"v_b_279#38",
+"v_b_338#30",
+"b_105#28",
+"r_044#32",
+"v_b_205#17",
+"v_b_279#39"
+]
+},
+{
+"tema": "Golpes de la vida: traición, ridículo y tocar fondo",
+"resumen": "La deslealtad, el ridículo y los portazos llegan sin aviso; Dios permite tocar fondo y su misericordia retiene en el golpe, y el enemigo ataca primero la autoestima.",
+"refs": [
+"2 Ti 4:10",
+"Neh 4:1-3",
+"Sal 91:1-2"
+],
+"ids": [
+"v_b_098#26",
+"v_b_198#21",
+"v_b_199#16",
+"v_b_199#25",
+"v_b_103#6"
+]
+},
+{
+"tema": "Desempleo: autoestima, sueño y oportunidad",
+"resumen": "Perder el empleo golpea la autoestima, el sueño y la fe; a la vez puede ser tiempo de crecimiento espiritual y de puertas que nunca se habían considerado.",
+"refs": [
+"Ec 3:6",
+"Ro 8:28"
+],
+"ids": [
+"v_b_094#3",
+"v_b_214#8",
+"v_b_268#32",
+"v_b_268#34",
+"v_b_335#14"
+]
+},
+{
+"tema": "Fracaso: preguntar por qué y fracasar con éxito",
+"resumen": "Ante el fracaso conviene preguntar por qué y no de quién es la culpa; fracasar con éxito es sacar provecho de la caída y no clasificar una situación aislada como fracaso personal.",
+"refs": [
+"Pr 24:16",
+"2 Co 4:8-9",
+"Fil 3:13"
+],
+"ids": [
+"v_b_092#2",
+"v_b_091#13",
+"v_b_092#3",
+"v_b_094#1",
+"v_b_263#21"
+]
+},
+{
+"tema": "Decisiones tras la pérdida y la obediencia pendiente",
+"resumen": "Tras una decepción o una enfermedad hay decisiones concretas; si la vida parece un fracaso hay que preguntar qué mandato se rehusó obedecer y corregirlo hoy.",
+"refs": [
+"Jer 48:11",
+"Sal 139:23-24",
+"Is 49:4"
+],
+"ids": [
+"v_b_384#8",
+"r_026#36",
+"v_b_093#10",
+"v_b_232#28"
+]
+},
+{
+"tema": "La disciplina amorosa de Dios en la prueba",
+"resumen": "La disciplina del Padre no es ira: es amorosa y santificadora, como la poda que hace florecer; hay que aceptarla aunque no siempre esté ligada a un error concreto.",
+"refs": [
+"Pr 3:11",
+"He 12:7-10",
+"He 12:10",
+"1 P 4:1"
+],
+"ids": [
+"v_b_187#18",
+"r_040#9",
+"r_058#18",
+"r_062#23",
+"r_063#86",
+"r_098#50"
+]
+},
+{
+"tema": "Pruebas que forman: David, Saúl, José, Moisés y el desierto",
+"resumen": "Dios usa las pruebas y hasta las personas difíciles para preparar para el trono y el servicio; el desierto no hay que acortarlo sino aprender en él.",
+"refs": [
+"1 S 19:1-24",
+"Gn 37-50",
+"Ex 3:4",
+"Is 49:1-4"
+],
+"ids": [
+"v_b_339#6",
+"v_b_025#25",
+"v_b_038#7",
+"v_b_231#21",
+"v_b_248#2",
+"v_b_027#6",
+"v_b_037#19",
+"v_b_038#8",
+"v_b_219#36"
+]
+},
+{
+"tema": "Perdón: nombrar la ofensa, perdonar y el perdón objetivo de Dios",
+"resumen": "No se perdona minimizando el dolor: hay que nombrar la ofensa; el perdón de Dios es un estado objetivo que no depende de que otros nos perdonen; el perdón no reconstruye la confianza por sí solo.",
+"refs": [
+"Col 3:13",
+"Mt 6:14-15",
+"1 Jn 1:9",
+"2 Ti 4:16"
+],
+"ids": [
+"w_035#9",
+"r_094#29",
+"r_112#37",
+"v_b_098#29",
+"v_b_370#14",
+"v_b_414#9",
+"v_o_002#8",
+"v_b_108#37"
+]
+},
+{
+"tema": "Caer en pecado y volver al trono de la gracia",
+"resumen": "Quien cae en tentación o se aparta gradualmente no vuelve a la cruz por otra conversión sino al trono de la gracia, rogando como Pablo; el que se aleja de forma sostenida debe examinarse.",
+"refs": [
+"He 4:16",
+"2 Co 12:8",
+"2 Co 13:5",
+"Stg 5:14-15"
+],
+"ids": [
+"v_b_012#10",
+"v_b_018#33",
+"v_b_077#11",
+"v_b_221#9",
+"v_b_438#13"
+]
+},
+{
+"tema": "Divorcio como dolor sucio, fracaso y duelo",
+"resumen": "El divorcio se describe como dolor sucio, más hondo que la muerte de un cónyuge, con fracaso, culpa y remordimiento que pasan por un duelo; la fe no lo evita pero ofrece un camino.",
+"refs": [
+"Sal 6:6",
+"Mal 2:16"
+],
+"ids": [
+"b_043#16",
+"r_002#54",
+"v_b_124#5",
+"v_b_155#2",
+"b_024#13",
+"v_b_125#1"
+]
+},
+{
+"tema": "Hijos del divorcio: efectos, ira y silencio",
+"resumen": "Los hijos del divorcio sufren ira, depresión, duelo y soledad silenciosa; los estudios muestran más efectos negativos y el divorcio durante la pubertad es especialmente devastador.",
+"refs": [
+"Ef 6:4",
+"Pr 22:6",
+"Mt 19:14"
+],
+"ids": [
+"v_b_129#3",
+"b_010#36",
+"r_109#91",
+"r_021#22",
+"r_095#92",
+"r_113#9",
+"v_b_117#3",
+"v_b_143#4",
+"b_039#20"
+]
+},
+{
+"tema": "Recuperarse del divorcio sin repetir el patrón",
+"resumen": "La recuperación toma años y exige lamentar la pérdida, decidir cómo relacionarse con los hombres y con el ex, no apresurarse a otra relación y decidir ser diferente, sin repetir el patrón.",
+"refs": [
+"Ec 3:4",
+"Sal 34:18"
+],
+"ids": [
+"v_b_167#11",
+"r_095#95",
+"r_095#83",
+"r_095#87",
+"r_095#93",
+"w_015#17"
+]
+},
+{
+"tema": "Datos del divorcio y estudios sobre sus efectos",
+"resumen": "Cifras y estudios sobre tasas de divorcio, asistencia a la iglesia y felicidad conyugal; son datos citados por los autores y deben verificarse en la fuente primaria antes de usarlos.",
+"refs": [
+"Mal 2:16"
+],
+"ids": [
+"b_024#9",
+"r_021#21",
+"r_021#39",
+"r_108#55",
+"r_021#20"
+]
+},
+{
+"tema": "El divorcio como último recurso",
+"resumen": "El divorcio nunca debe ser la primera opción ni la salida fácil; la mayoría de los matrimonios pueden salvarse con compromiso y el derecho a divorciarse no obliga a ejercerlo.",
+"refs": [
+"Mt 19:8",
+"Mal 2:16",
+"Mt 19:6"
+],
+"ids": [
+"r_019#49",
+"r_095#89",
+"r_111#32",
+"r_108#54",
+"r_111#36",
+"v_b_168#2"
+]
+},
+{
+"tema": "Separarse con amor duro y terminar relaciones que no convienen",
+"resumen": "Hay situaciones en que separarse protege la vida: el amor duro, la separación estructurada y cerrar relaciones que dañan, confirmando la decisión con consejeros y sin devastar al otro.",
+"refs": [
+"Ec 3:6",
+"Pr 22:3",
+"Mt 5:23-24"
+],
+"ids": [
+"b_052#12",
+"r_112#31",
+"r_126#21",
+"v_b_038#1",
+"v_b_155#7",
+"v_b_156#8"
+]
+},
+{
+"tema": "Acompañar al divorciado sin estigma y la soltería por honrar los votos",
+"resumen": "La iglesia debe ayudar al divorciado sin vergüenza ni estigma, asegurarle que Dios está con él y, si permanece soltero por honrar sus votos, mostrarle la dignidad de esa vida.",
+"refs": [
+"Ro 8:28-30",
+"Gá 6:1-2",
+"2 Co 1:3-4",
+"Jer 3:8"
+],
+"ids": [
+"b_024#16",
+"b_054#1",
+"r_002#63",
+"v_b_125#2",
+"v_b_125#3",
+"v_b_155#3",
+"v_b_155#5",
+"v_b_170#6",
+"w_020#11",
+"w_030#11"
+]
+},
+{
+"tema": "Dios redime al divorciado: no es pecado imperdonable",
+"resumen": "Dios se llama a sí mismo divorciado en Jeremías 3 y ofrece buena nueva también a quien se divorció; el divorcio no es imperdonable y Dios redime historias complicadas.",
+"refs": [
+"Jer 3:6-8",
+"Mt 1:6",
+"Jn 1:12",
+"1 Jn 3:1"
+],
+"ids": [
+"v_b_169#21",
+"r_109#94",
+"b_053#50",
+"w_013#16",
+"v_b_155#4",
+"v_b_199#33"
+]
+},
+{
+"tema": "Causas bíblicas del divorcio: adulterio y abandono del incrédulo",
+"resumen": "Las dos causas que la mayoría de los autores reconocen son el adulterio y el abandono voluntario del cónyuge incrédulo; el creyente abandonado queda libre, aunque el debate sobre su alcance es fuerte.",
+"refs": [
+"Mt 5:32",
+"Mt 19:9",
+"1 Co 7:15",
+"1 Co 7:10-16"
+],
+"ids": [
+"r_004#19",
+"r_004#20",
+"r_011#61",
+"r_019#44",
+"r_019#45",
+"r_021#31",
+"v_b_064#6",
+"v_b_401#12",
+"r_006#52",
+"v_b_389#4",
+"v_b_391#1",
+"r_105#44",
+"r_109#93"
+]
+},
+{
+"tema": "La cláusula de fornicación y la única causa legítima",
+"resumen": "La cláusula de fornicación aparece en Mateo y es la causa que Jesús admite; algunos autores sostienen que es la única, otros que se trata de una concesión y que el divorcio nunca es obligatorio.",
+"refs": [
+"Mt 5:32",
+"Mt 19:9",
+"Mr 10:11-12"
+],
+"ids": [
+"b_024#11",
+"r_019#43",
+"r_021#30",
+"r_109#92",
+"v_b_331#1",
+"v_b_363#3",
+"v_b_385#9"
+]
+},
+{
+"tema": "Lo que Dios aborrece: el divorcio rompe el pacto",
+"resumen": "El matrimonio es un pacto con Dios como testigo; el divorcio lo rompe, Dios lo aborrece y se aflige por sus consecuencias, aunque su santidad y su misericordia deben tenerse juntas.",
+"refs": [
+"Mal 2:16",
+"Gn 2:24",
+"Mt 19:5-6",
+"Jer 3:6-8"
+],
+"ids": [
+"r_021#27",
+"r_109#90",
+"b_043#17",
+"r_004#12",
+"r_063#84",
+"r_108#33",
+"r_109#95",
+"v_b_170#5"
+]
+},
+{
+"tema": "El divorcio como concesión a la dureza del corazón",
+"resumen": "Moisés reguló el divorcio para proteger a la mujer repudiada, por la dureza del corazón; Jesús lo reconduce al principio del Edén, y el rechazo de la mujer repudiada hoy es un tema pastoral.",
+"refs": [
+"Dt 24:1-4",
+"Mt 19:7-9",
+"Mt 5:32",
+"Mr 10:4-5"
+],
+"ids": [
+"b_024#10",
+"b_148#9",
+"b_156#3",
+"b_158#8",
+"b_168#33",
+"r_003#18",
+"r_003#21",
+"r_003#24",
+"r_016#25",
+"r_111#1"
+]
+},
+{
+"tema": "Debate sobre el nuevo matrimonio: negligencia y bases del divorcio",
+"resumen": "Grudem discute la tesis de Instone-Brewer sobre la negligencia material y emocional como causa de divorcio, y las lecturas del derecho a volver a casarse en el siglo I.",
+"refs": [
+"Dt 24:1",
+"Ex 21:10-11",
+"Mt 19:9"
+],
+"ids": [
+"r_021#28",
+"r_021#29",
+"r_021#36",
+"r_021#37",
+"r_021#38",
+"r_021#43"
+]
+},
+{
+"tema": "Nuevo matrimonio entre creyentes y la libertad del abandonado",
+"resumen": "Cuando un creyente se divorcia sin causa válida no queda libre para casarse; el creyente abandonado por el incrédulo sí puede volver a casarse, y el cónyuge que se separa no está obligado.",
+"refs": [
+"1 Co 7:10-11",
+"1 Co 7:15",
+"Mt 5:32",
+"Ro 7:2-3"
+],
+"ids": [
+"b_024#15",
+"b_170#25",
+"r_004#10",
+"r_004#11",
+"r_096#37",
+"r_109#97",
+"r_109#98",
+"v_b_170#4",
+"w_005#17"
+]
+},
+{
+"tema": "Esposo que abandona, es infiel o tiene adicción: dolor y responsabilidad propia",
+"resumen": "Ante un esposo alcohólico, infiel o que abandona, la mujer debe aceptar su propia responsabilidad sin cargar la del otro, buscar respuestas y reconocer que no puede controlar ni curar; el abandono deja una soledad real.",
+"refs": [
+"Gá 6:5",
+"Jn 9:2",
+"Ro 8:28",
+"Pr 11:14"
+],
+"ids": [
+"r_113#4",
+"r_113#11",
+"b_045#33",
+"r_113#1",
+"o_003#16",
+"r_044#50",
+"v_b_052#1"
+]
+},
+{
+"tema": "Cómo acompañar al que sufre sin sermonear",
+"resumen": "Acompañar al que sufre es estar presente: no lanzar versículos ni apurar, decir algo distinto de «¿cómo estás?» y ofrecer ayuda concreta; la Biblia es un arma contra el enemigo, no contra la persona.",
+"refs": [
+"Gá 6:2",
+"Jn 16:12",
+"Ro 12:15"
+],
+"ids": [
+"b_103#7",
+"r_095#49",
+"w_019#24",
+"r_028#18",
+"v_b_038#24"
+]
+}
+],
+"fuera": []
+}

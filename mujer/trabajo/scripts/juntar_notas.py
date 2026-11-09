@@ -26,6 +26,6 @@ tot = collections.Counter(); n = 0
 for f in bl:
     for x in json.load(open(f))['notas']:
         tot[x['seccion']] += 1; n += 1
-esperados = len(glob.glob(f'{V}/bloques/b_*.txt')) + len(glob.glob(f'{V}/bloques/o_*.txt')) + len(glob.glob(f'{V}/bloques/w_*.txt'))
+esperados = len(glob.glob(f'{V}/bloques/b_*.txt')) + len(glob.glob(f'{V}/bloques/o_*.txt')) + len(glob.glob(f'{V}/bloques/w_*.txt')) + len(glob.glob(f'{V}/bloques/r_*.txt'))
 print(f'bloques con notas: {len(bl)} de {esperados} (nuevos: {nuevos}) | notas: {n}')
 print('por sección:', dict(sorted(tot.items())))

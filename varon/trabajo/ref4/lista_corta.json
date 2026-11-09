@@ -1,0 +1,223 @@
+{
+ "fecha": "2026-11-09",
+ "fuente": "juanicarlisi/LIBROS-REFERENCIA4 (commit 9be0f72)",
+ "criterio": "sin huella de citas en las notas del varón (hit<5), texto extraíble, lente del varón (puntajes.py, página>=10), autor a confirmar protestante confiable (A)",
+ "libros": [
+  {
+   "archivo": "08 - Apologética, Ciencia y Cosmovisión/24 - El Hombre y Su Soledad.pdf",
+   "tier": 1,
+   "paginas_utiles": 62,
+   "chars": 379996
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/pdf-sexo-y-la-supremacia-de-cristodocx_compress (1).pdf",
+   "tier": 1,
+   "paginas_utiles": 75,
+   "chars": 305502
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Gary_Rosberg_LAS_5_NECESIDADES_SEXUALES_DE_HOMBRES_Y_MUJERES.pdf",
+   "tier": 1,
+   "paginas_utiles": 129,
+   "chars": 264590
+  },
+  {
+   "archivo": "nuevos/07 - Familia y Crianza/Hábitos de la Familia - Justin Whitmel Earley.pdf",
+   "tier": 1,
+   "paginas_utiles": 99,
+   "chars": 200949
+  },
+  {
+   "archivo": "nuevos/07 - Familia y Crianza/el-poder-de-los-padres-que-oran.pdf",
+   "tier": 1,
+   "paginas_utiles": 47,
+   "chars": 157687
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/EL_PELIGRO_SEXUAL.pdf",
+   "tier": 1,
+   "paginas_utiles": 92,
+   "chars": 103841
+  },
+  {
+   "archivo": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/JM Dioses Falsos - Timothy Keller (1).pdf",
+   "tier": 1,
+   "paginas_utiles": 58,
+   "chars": 99416
+  },
+  {
+   "archivo": "06 - Discipulado, Ministerio y Juventud/54 - Esto es un asunto personal.pdf",
+   "tier": 1,
+   "paginas_utiles": 53,
+   "chars": 93614
+  },
+  {
+   "archivo": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Los 100 Hombres Principales de la Biblia - Drew Josephs.pdf",
+   "tier": 1,
+   "paginas_utiles": 62,
+   "chars": 92840
+  },
+  {
+   "archivo": "nuevos/07 - Familia y Crianza/Una Familia Bajo Dios - Tony Evans.pdf",
+   "tier": 1,
+   "paginas_utiles": 53,
+   "chars": 90948
+  },
+  {
+   "archivo": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Bajo Las Alas De Dios-John Piper.pdf",
+   "tier": 1,
+   "paginas_utiles": 47,
+   "chars": 87879
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Noviazgo de Altura.pdf",
+   "tier": 1,
+   "paginas_utiles": 31,
+   "chars": 75966
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Solo para esposos - Tony Evans.pdf",
+   "tier": 1,
+   "paginas_utiles": 43,
+   "chars": 68281
+  },
+  {
+   "archivo": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/Cuando_la_Mirada_de_un_Hombre_se_Desvia.pdf",
+   "tier": 1,
+   "paginas_utiles": 23,
+   "chars": 63525
+  },
+  {
+   "archivo": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/46 - Que espera Dios de un hombre - Martin R. De Haan.pdf",
+   "tier": 1,
+   "paginas_utiles": 23,
+   "chars": 60167
+  },
+  {
+   "archivo": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Tony_Reinke_12_FORMAS_EN_QUE_SU_TELÉFONO_LO_ESTÁ_CAMBIANDO.pdf",
+   "tier": 1,
+   "paginas_utiles": 19,
+   "chars": 52723
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/la-batalla-de-cada-hombre-joven.pdf",
+   "tier": 1,
+   "paginas_utiles": 52,
+   "chars": 49506
+  },
+  {
+   "archivo": "nuevos/09 - Juventud/LEYS, Lucas. La batalla de las drogas.pdf",
+   "tier": 1,
+   "paginas_utiles": 29,
+   "chars": 48396
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/AMOR y SEXO para novios y solte - Javi Martinez.pdf",
+   "tier": 1,
+   "paginas_utiles": 14,
+   "chars": 20043
+  },
+  {
+   "archivo": "nuevos/13 - Finanzas, Mayordomía y Trabajo/El Principio del Tesoro - Randy Alcorn.pdf",
+   "tier": 1,
+   "paginas_utiles": 9,
+   "chars": 15601
+  },
+  {
+   "archivo": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/EL LIDER EMOCIONALMENTE SANO - Peter Scazzero.pdf",
+   "tier": 2,
+   "paginas_utiles": 289,
+   "chars": 595302
+  },
+  {
+   "archivo": "05 - Matrimonio, Noviazgo y Sexualidad/Matrimonio sobre la roca - Jimmy y Karen Evans.pdf",
+   "tier": 2,
+   "paginas_utiles": 182,
+   "chars": 328293
+  },
+  {
+   "archivo": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Como-Vencer-la-Depresión-Tim-Lahaye.pdf",
+   "tier": 2,
+   "paginas_utiles": 74,
+   "chars": 307181
+  },
+  {
+   "archivo": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/DISCIPULADO EMOCIONALMENTE SANO.  Peter-Scazzero.pdf",
+   "tier": 2,
+   "paginas_utiles": 115,
+   "chars": 251215
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Gary Chapman - Ama a tu conyuge... (4).pdf",
+   "tier": 2,
+   "paginas_utiles": 257,
+   "chars": 245010
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Gary Chapman - El amor como forma de vida.pdf",
+   "tier": 2,
+   "paginas_utiles": 113,
+   "chars": 230884
+  },
+  {
+   "archivo": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Henry Cloud - LIMITES PARA LIDERES.pdf",
+   "tier": 2,
+   "paginas_utiles": 115,
+   "chars": 225413
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Sana_Las_Heridas_En_Tu_Matrimonio_Más_Allá_del_Desánimo_Gary.pdf",
+   "tier": 2,
+   "paginas_utiles": 93,
+   "chars": 179379
+  },
+  {
+   "archivo": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/11_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Filipenses.pdf",
+   "tier": 2,
+   "paginas_utiles": 74,
+   "chars": 144773
+  },
+  {
+   "archivo": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Restaura tus Relaciones Rotas - Neil T. Anderson.pdf",
+   "tier": 2,
+   "paginas_utiles": 39,
+   "chars": 83725
+  },
+  {
+   "archivo": "nuevos/03 - Vida Cristiana, Devocionales y Oración/interrupción Divina - Tony Evans (1).pdf",
+   "tier": 2,
+   "paginas_utiles": 50,
+   "chars": 79391
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Sexualidad_sana_para_una_Vida_Plena_Silvia_y_José_Luis_Cinalli.pdf",
+   "tier": 2,
+   "paginas_utiles": 48,
+   "chars": 74457
+  },
+  {
+   "archivo": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Solo para esposas- Tony Evans-1.pdf",
+   "tier": 2,
+   "paginas_utiles": 69,
+   "chars": 67252
+  },
+  {
+   "archivo": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Colosenses_Carballosa,_Evis_by_RecursosTeologicosGratis_blogspot.pdf",
+   "tier": 2,
+   "paginas_utiles": 53,
+   "chars": 56324
+  },
+  {
+   "archivo": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Cambio de Rumbo - Tony Evans.pdf",
+   "tier": 2,
+   "paginas_utiles": 23,
+   "chars": 53316
+  },
+  {
+   "archivo": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Gálatas - Timoty Keller.pdf",
+   "tier": 2,
+   "paginas_utiles": 16,
+   "chars": 31947
+  }
+ ]
+}

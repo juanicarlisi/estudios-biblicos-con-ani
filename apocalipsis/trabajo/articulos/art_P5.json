@@ -3,7 +3,7 @@
   "titulo": "Panorama de la parte 5: Las siete trompetas",
   "bajada": "Siete toques de alarma que golpean con medida, una pausa para escuchar a Dios y una última trompeta que anuncia que el reino es de Cristo.",
   "entrada": {
-    "texto": "El séptimo sello no trae una plaga: trae siete trompetas. Esta parte las hace sonar una por una. Las cuatro primeras golpean la creación (tierra, mar, aguas y astros), siempre en una tercera parte. Las tres siguientes, anunciadas como tres ayes, alcanzan directamente a las personas. Entre la sexta y la séptima se abre una pausa larga, con un ángel, un librito y dos testigos. Y la última no suelta fuego ni langostas: anuncia que el reino del mundo pasa a ser de Dios y de su Cristo.",
+    "texto": "El séptimo sello no trae una plaga: trae siete trompetas. Las cuatro primeras golpean la creación (tierra, mar, aguas y astros), siempre en una tercera parte. Las tres siguientes, anunciadas como tres ayes, alcanzan directamente a las personas. Entre la sexta y la séptima se abre una pausa larga, con un ángel, un librito y dos testigos. Y la última no suelta fuego ni langostas: anuncia que el reino del mundo pasa a ser de Dios y de su Cristo.",
     "fuentes": [
       "r1_038#13",
       "r1_036_a#11",
@@ -35,12 +35,12 @@
       "titulo": "Su lugar en el libro",
       "parrafos": [
         {
-          "texto": "Earle (Comentario Beacon) ve la gran sección que empieza en el capítulo 4 como siete visiones; las trompetas son la tercera (8:2-11:19). Carballosa y MacArthur describen el encadenamiento: el séptimo sello se abre en siete trompetas, y la séptima trompeta trae las siete copas de los capítulos 15 y 16.",
+          "texto": "Carballosa y MacArthur describen el encadenamiento: el séptimo sello se abre en siete trompetas, y la séptima trompeta trae las siete copas de los capítulos 15 y 16. Lennox nota que la parte toma como foco un detalle de la anterior, las oraciones de los santos: el clamor del quinto sello, «¿Hasta cuándo?», encuentra respuesta en la séptima trompeta.",
           "fuentes": [
-            "beacon_03_a#9",
             "carballosa_07#16",
             "r2_007#3",
-            "macarthur_08#38"
+            "macarthur_08#38",
+            "r4_460_03#9"
           ]
         },
         {
@@ -120,7 +120,7 @@
           ]
         },
         {
-          "texto": "Carballosa recuerda que el libro es la revelación de Jesucristo y que solo él pudo abrir el rollo del que salen estas trompetas, cuyo crescendo culmina en su venida. Kœchlin ve al mismo Cristo en el ángel fuerte de la nube y el arco iris. Y los testigos mueren en la ciudad «donde también nuestro Señor fue crucificado» y resucitan como él: el Comentario Mundo Hispano concluye que el fiel como el Maestro terminará como el Maestro.",
+          "texto": "Carballosa recuerda que solo Cristo pudo abrir el rollo del que salen estas trompetas, cuyo crescendo culmina en su venida. Kœchlin ve al mismo Cristo en el ángel fuerte de la nube y el arco iris. Y los testigos mueren en la ciudad «donde también nuestro Señor fue crucificado» y resucitan como él: el Comentario Mundo Hispano concluye que el fiel como el Maestro terminará como el Maestro.",
           "fuentes": [
             "carballosa_07#16",
             "r1_026#16",
@@ -198,7 +198,28 @@
           ]
         }
       ],
-      "nota": "Entre los futuristas, Buswell ubica las seis primeras en la primera mitad de los siete años, Pentecost en la segunda, y Ryrie advierte que la Biblia no dice dónde cae la mitad."
+      "nota": "Entre los futuristas, Buswell ubica las seis primeras en la primera mitad de los siete años, Pentecost y Hitchcock en la segunda (Hitchcock, por su severidad), y Ryrie advierte que la Biblia no dice dónde cae la mitad."
+    },
+    {
+      "tema": "¿Es la séptima trompeta la de 1 Corintios 15:52?",
+      "posturas": [
+        {
+          "postura": "Sí: el arrebatamiento ocurre a mitad de la semana; Harrison ve en el capítulo 11 todos los elementos de la venida, y Archer subraya los 42 meses.",
+          "quien": "Harrison y Archer (meditribulacionales), según Walvoord",
+          "fuentes": [
+            "r4_450_03#14",
+            "r4_450_03#20"
+          ]
+        },
+        {
+          "postura": "No: nada conecta las dos trompetas, y la gran tribulación empieza ya en el capítulo 6, de modo que la séptima trompeta cae cerca del final.",
+          "quien": "Walvoord (pretribulacional)",
+          "fuentes": [
+            "r4_450_03#10"
+          ]
+        }
+      ],
+      "nota": "Walvoord llama a la lectura de Archer sugestiva, pero no demostrada."
     },
     {
       "tema": "El capítulo 11: ¿qué templo y quiénes los testigos?",

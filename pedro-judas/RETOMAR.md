@@ -22,3 +22,8 @@ SCRATCH = /tmp/claude-0/-home-user/532e468b-ac94-5647-a250-c8778228a262/scratchp
 5. **Artículos** (opus): `trabajo/prompts/escribir_articulo.md` + «Tu artículo: <ID>» (I1-I5 y P1-P3 después de los días del libro).
 6. **Diagramas** (opus o sonnet): `trabajo/prompts/escribir_diagrama.md` + ids de `plan/visuales.json`. Mapas: `scripts/datos_mapas.py` (en curso aparte).
 7. Después: app combinada `pedro-apocalipsis/` (ojo: el día de estos libros no tiene `simbolos` y suma `libro` y `antiguo_testamento`).
+
+## Cola de extracción (09-11-2026)
+- `trabajo/plan/cola_extraccion.json`: 72 grupos de a 1-2 bloques (A, B, D y `r1`); los 40 bloques `r2` (ventanas sueltas de REFERENCIA3, bajo rendimiento) quedan para el final, solo si hay huecos de cobertura.
+- Se lanza un subagente sonnet por grupo (prompt: `trabajo/prompts/extraer.md`, «Tus bloques: X y Y; un JSON por bloque»). Faltantes: `python3 trabajo/scripts/estado.py --bloques`.
+- Lanzados primero: grupos 0-3 (mac1p_01…08).

@@ -402,7 +402,7 @@ function vistaInicio() {
       <p>Quién te hizo y para qué, y cómo vivirlo con Dios, en tu casa, en el trabajo, en la iglesia y en la sociedad, en cada etapa de la vida. Todo sale de los libros de tu biblioteca y de fuentes confiables, con la fuente de cada afirmación.</p>${avisoCarga ? `<p class="estado">${esc(avisoCarga)}</p>` : ''}</div>
       <div class="hoy"><span class="ojo">${hechos ? 'Seguís con' : 'Para empezar'} · Día ${d} de ${TOTAL}</span><h2>${esc(p.titulo)}</h2>
         <div class="meta"><span>Parte ${esc(parteDe(p.parte).numero)} · ${esc(parteDe(p.parte).titulo)}</span></div>
-        <div class="acciones"><a class="btn prim" href="#dia-${d}">Abrir el día ${d}</a><a class="btn" href="#como-usar">Cómo usarlo</a></div></div></section>
+        <div class="acciones">${pos && pos.dia && diaPlan(pos.dia) && pos.dia !== d ? `<a class="btn prim" href="#dia-${pos.dia}">Seguir donde quedaste · día ${pos.dia}</a><a class="btn" href="#dia-${d}">Abrir el día ${d}</a>` : `<a class="btn prim" href="#dia-${d}">Abrir el día ${d}</a>`}<a class="btn" href="#como-usar">Cómo usarlo</a></div></div></section>
     <h2>Las partes del estudio</h2><div class="partes">${partes}</div>
     <section class="copia panel"><div><b>Tus marcas, notas y avance</b><p>Se guardan en el navegador de esta compu. Con el botón de guardar (arriba, el disquete) bajás el estudio completo con todas tus marcas adentro; también podés bajar solo una copia de tus marcas para pasarla a otra compu.</p></div>
       <div class="acciones"><button class="btn prim" id="guardar-html-2">Guardar el estudio con mis marcas</button><button class="btn" id="bajar-copia">Copia de mis marcas</button><button class="btn" id="cargar-copia-btn">Cargar copia</button>
@@ -832,7 +832,8 @@ function render() {
   document.querySelector('.app').style.gridTemplateColumns = lado ? '' : (innerWidth > 820 ? '280px minmax(0, 1fr)' : '');
   pintarNav(); pintarProgreso();
   if (h === 'buscar') setTimeout(() => $('#q') && $('#q').focus(), 0);
-  window.scrollTo(0, 0);
+  window.scrollTo(0, restaurarY);
+  if (esDia) { guardarPos(); if (restaurarY) { const y = restaurarY; setTimeout(() => scrollTo(0, y), 350); } restaurarY = 0; }
   if (esDia) { document.fonts && document.fonts.ready ? document.fonts.ready.then(dibujarTrazos) : dibujarTrazos(); setTimeout(dibujarTrazos, 300); }
 }
 addEventListener('hashchange', render);
@@ -844,6 +845,15 @@ addEventListener('keydown', e => {
   if (e.key === 'ArrowLeft' && d > 1) location.hash = 'dia-' + (d - 1);
   if (e.key === 'Escape') ponerModo('leer');
 });
+/* ---------- retomar donde quedaste: último día y posición, guardados aparte (liviano) ---------- */
+const POS = LS + '-pos';
+let pos = null; try { pos = JSON.parse(localStorage.getItem(POS) || 'null'); } catch (e) {}
+let restaurarY = 0;
+const guardarPos = () => { try { const m = (location.hash || '').match(/^#dia-(\d+)$/); if (m) localStorage.setItem(POS, JSON.stringify({ dia: +m[1], y: Math.round(scrollY), t: Date.now() })); } catch (e) {} };
+let tPos; addEventListener('scroll', () => { clearTimeout(tPos); tPos = setTimeout(guardarPos, 400); }, { passive: true });
+addEventListener('pagehide', guardarPos);
+document.addEventListener('visibilitychange', () => { if (document.hidden) guardarPos(); });
+if (!location.hash && pos && pos.dia && diaPlan(pos.dia)) { history.replaceState(null, '', '#dia-' + pos.dia); restaurarY = pos.y || 0; }
 ponerModo('leer');
 render();
 })();

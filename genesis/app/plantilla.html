@@ -429,7 +429,7 @@ function vistaInicio() {
       <p>Un estudio para leer de a dos, unos veinte versículos por día, en media hora. Todo sale de los comentarios y libros de su biblioteca, con la fuente de cada afirmación.</p></div>
       <div class="hoy"><span class="ojo">${hechos ? 'Siguen con' : 'Para empezar'} · Día ${d} de ${TOTAL}</span><h2>${esc(p.titulo)}</h2>
         <div class="meta"><span>Génesis ${esc(p.desde)}–${esc(p.hasta)}</span><span>${p.versiculos} versículos</span></div>
-        <div class="acciones"><a class="btn prim" href="#dia-${d}">Abrir el día ${d}</a>${hechos ? '' : '<a class="btn" href="#introduccion">Leer antes la introducción</a>'}</div></div></section>
+        <div class="acciones">${pos && pos.dia && diaPlan(pos.dia) && pos.dia !== d ? `<a class="btn prim" href="#dia-${pos.dia}">Seguir donde quedaron · día ${pos.dia}</a><a class="btn" href="#dia-${d}">Abrir el día ${d}</a>` : `<a class="btn prim" href="#dia-${d}">Abrir el día ${d}</a>`}${hechos ? '' : '<a class="btn" href="#introduccion">Leer antes la introducción</a>'}</div></div></section>
     <h2>Las secciones del libro</h2><p style="color:var(--muted)">Génesis se ordena con una frase que se repite: «Estas son las generaciones de…» (en hebreo, <span class="heb" lang="he">תּוֹלְדֹת</span>, <i>toledot</i>). El plan sigue esas secciones.</p>
     <div class="partes">${partes}</div>
     ${ARTS.some(a => a.grupo === 'tema') ? `<h2>Los grandes temas</h2><div class="grilla-h temas">${ARTS.filter(a => a.grupo === 'tema').map(a => `<a href="#art-${a.id}"><div class="panel"><b>${esc(tituloArt(a))}</b><small>${esc((artDe(a.id) || {}).bajada || 'En preparación.')}</small></div></a>`).join('')}</div>` : ''}
@@ -831,7 +831,9 @@ function render() {
   const hb = $('#hecho-btn');
   if (hb) hb.onclick = async () => { const d = +m[1]; if (est.hechos[d]) delete est.hechos[d]; else est.hechos[d] = new Date().toISOString().slice(0, 10); render(); await escribirDia(d); };
   if (h === 'buscar') setTimeout(() => $('#q') && $('#q').focus(), 0);
-  window.scrollTo(0, 0);
+  window.scrollTo(0, restaurarY);
+  if (m) { guardarPos(); if (restaurarY) { const y = restaurarY; setTimeout(() => scrollTo(0, y), 350); } }
+  restaurarY = 0;
 }
 addEventListener('hashchange', render);
 addEventListener('keydown', e => {
@@ -841,6 +843,15 @@ addEventListener('keydown', e => {
   if (e.key === 'ArrowRight' && d < TOTAL) location.hash = 'dia-' + (d + 1);
   if (e.key === 'ArrowLeft' && d > 1) location.hash = 'dia-' + (d - 1);
 });
+/* ---------- retomar donde quedaron: último día y posición, guardados aparte (liviano) ---------- */
+const POS = LS + '-pos';
+let pos = null; try { pos = JSON.parse(localStorage.getItem(POS) || 'null'); } catch (e) {}
+let restaurarY = 0;
+const guardarPos = () => { try { const m = (location.hash || '').match(/^#dia-(\d+)$/); if (m) localStorage.setItem(POS, JSON.stringify({ dia: +m[1], y: Math.round(scrollY), t: Date.now() })); } catch (e) {} };
+let tPos; addEventListener('scroll', () => { clearTimeout(tPos); tPos = setTimeout(guardarPos, 400); }, { passive: true });
+addEventListener('pagehide', guardarPos);
+document.addEventListener('visibilitychange', () => { if (document.hidden) guardarPos(); });
+if (!location.hash && pos && pos.dia && diaPlan(pos.dia)) { history.replaceState(null, '', '#dia-' + pos.dia); restaurarY = pos.y || 0; }
 render();
 })();
 </script>

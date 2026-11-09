@@ -1,0 +1,431 @@
+{
+"bloque": "kis23j_01",
+"notas": [
+{
+"ref": "2J",
+"tipo": "estructura",
+"titulo": "Bosquejo de 2 Juan según Kistemaker",
+"contenido": "Kistemaker divide la carta así: I. Introducción (vv. 1-3), con encabezamiento (1-2) y saludos (3); II. Instrucción (4-11), con una petición y mandamiento (4-6: encomio en el v. 4 y exhortación en los vv. 5-6) y una advertencia (7-11: descripción y amonestación en 7-8, instrucción en 9 y prohibición en 10-11); III. Conclusión (12-13).",
+"pagina": "pág. PDF 309 (p. 422)",
+"importancia": 2
+},
+{
+"ref": "2J",
+"tipo": "contexto",
+"titulo": "2 Juan es una carta personal dentro de las Epístolas Generales",
+"contenido": "Según el autor, 2 Juan pertenece a las Epístolas Generales pero difiere bastante de 1 Juan: la primera carece de referencia al escritor y de encabezamiento, mientras que 2 Juan es una carta personal con información sobre quién escribe y a quiénes. El propósito, dice Kistemaker, es alertar a los lectores sobre los peligros espirituales: reconocer a los falsos maestros que adulteran la verdad y guardar celosamente la herencia de la verdad de Dios.",
+"pagina": "pág. PDF 309 (p. 423); pág. PDF 315 (p. 430)",
+"importancia": 2
+},
+{
+"ref": "2J 1",
+"tipo": "autoria_fecha",
+"titulo": "«El anciano»: por qué Juan no se llama apóstol",
+"contenido": "Juan omite su nombre y no se presenta como apóstol, a diferencia de Pedro y Pablo. Kistemaker explica que «anciano» puede significar dirigente de iglesia o persona de edad, pero no puede ser un simple anciano de congregación local: no escribe «un anciano» como Pedro en 1 P. 5:1, su influencia excede una iglesia y en 3 Juan (v. 9) el autor no pertenece a la iglesia local de Diótrefes. Como en 2 y 3 Juan no está en juego la apostolicidad, supone que los lectores sabían que era apóstol; en las últimas décadas del siglo I era el único apóstol vivo, de edad avanzada, y llevaba el título honorífico de el anciano.",
+"refs_biblicas": [
+"1P 5:1",
+"3Jn 1",
+"3Jn 9"
+],
+"postura": "El autor identifica al anciano con el apóstol Juan, de edad avanzada y único apóstol vivo.",
+"pagina": "pág. PDF 310 (pp. 423-424)",
+"importancia": 3
+},
+{
+"ref": "2J 1",
+"tipo": "interpretacion_discutida",
+"titulo": "¿Quién es «la señora elegida y sus hijos»?",
+"contenido": "Kistemaker presenta dos explicaciones. Una: Juan piensa en una familia concreta formada por una mujer y sus hijos, de modo que el v. 13 aludiría a los hijos de la hermana de esa mujer. Otra: es una referencia velada a una iglesia y el v. 13 a otra congregación, paralelo al modo ambiguo de Pedro en 1 P. 5:13 («la que está en Babilonia»). Recuerda que bajo la persecución del siglo I se usaban nombres inocuos para proteger a los destinatarios y que en el Nuevo Testamento la iglesia suele representarse como una mujer (Jn. 3:29; Ef. 5:25-33). Informa que muchos eruditos prefieren el simbolismo, sin que el autor lo declare él mismo como conclusión cerrada.",
+"refs_biblicas": [
+"1P 5:13",
+"Jn 3:29",
+"Ef 5:25-33"
+],
+"postura": "Dos posturas: familia concreta (mujer e hijos) o iglesia local simbolizada; el autor señala que muchos eruditos prefieren la segunda.",
+"pagina": "pág. PDF 310 (p. 424)",
+"importancia": 3
+},
+{
+"ref": "2J 1",
+"tipo": "griego_palabra",
+"titulo": "κυρία y ἐκλεκτή: ¿nombres propios o metáfora?",
+"contenido": "La palabra κυρία (señora) aparece solo en esta carta (vv. 1 y 5), mientras que ἐκλεκτός (electa) es frecuente en el Nuevo Testamento (veintitrés veces). Kistemaker indica que pueden ser nombres propios («la escogida Kyría» o «la señora Electa») o referirse metafóricamente a una congregación local. También anota que ἐγώ aparece dos veces, la primera para dar énfasis y la segunda para especificar.",
+"griego": {
+"palabra": "κυρία",
+"transliteracion": "kyría",
+"significado": "señora; solo en 2 Juan 1 y 5"
+},
+"pagina": "pág. PDF 311 (p. 425)",
+"importancia": 2
+},
+{
+"ref": "2J 1-2",
+"tipo": "doctrina",
+"titulo": "La verdad une a los cristianos y permanece para siempre",
+"contenido": "El término verdad aparece cuatro veces en los tres primeros versículos, señal de su importancia, y en las epístolas Juan siempre la contrasta con la mentira. Juan no habla solo en nombre propio sino de la iglesia: todos los que conocen la verdad aman a los destinatarios (cf. 1 Jn. 2:3-4). Según el autor, la última parte del v. 1 puede leerse como paréntesis para que el v. 2 se vincule con «a quienes amo en la verdad»; así, amor y verdad quedan unidos (1 Jn. 3:18; 3 Jn. 1), y la verdad une a los cristianos porque es fundamental, reside en ellos y permanece para siempre.",
+"refs_biblicas": [
+"1Jn 2:3-4",
+"1Jn 3:18",
+"3Jn 1"
+],
+"pagina": "pág. PDF 310-311 (pp. 424-425)",
+"importancia": 2
+},
+{
+"ref": "2J 1",
+"tipo": "griego_palabra",
+"titulo": "ἐγνωκότες: el participio perfecto de «conocer»",
+"contenido": "El participio perfecto activo de γινώσκω (conocer) en «los que conocen la verdad» ha perdido, según la gramática que cita Kistemaker (Robertson), la noción de acción consumada y conserva solo la idea de tiempo presente.",
+"griego": {
+"palabra": "ἐγνωκότες",
+"transliteracion": "egnōkotes",
+"significado": "los que han llegado a conocer (sentido presente)"
+},
+"pagina": "pág. PDF 311 (p. 425)",
+"importancia": 1
+},
+{
+"ref": "2J 3",
+"tipo": "exegesis",
+"titulo": "Gracia, misericordia y paz: el saludo apostólico",
+"contenido": "Es un saludo apostólico comparable al de Pedro y Pablo, que ponen gracia y paz al comienzo; Pablo agrega misericordia en sus cartas a Timoteo. Kistemaker cita a Bengel (la gracia quita la culpa, la misericordia quita la miseria y la paz expresa permanencia continua en ambas) y a Westcott (gracia señala la libertad absoluta del amor de Dios frente a la impotencia humana para obtenerla; misericordia, su ternura ante la miseria del hombre). La paz representa armonía, confianza, reposo, seguridad y libertad, y es don de Dios. Juan usa poco la palabra gracia en sus escritos (Jn. 1:14-17; Ap. 1:4; 22:21).",
+"refs_biblicas": [
+"1Ti 1:2",
+"2Ti 1:2",
+"Jn 1:14",
+"Ap 1:4"
+],
+"pagina": "pág. PDF 311 (pp. 425-426)",
+"importancia": 2
+},
+{
+"ref": "2J 3",
+"tipo": "cristo",
+"titulo": "Jesucristo, Hijo del Padre, al mismo nivel que el Padre",
+"contenido": "Kistemaker destaca que Juan es más explícito que Pablo al colocar a Jesucristo al mismo nivel de Dios el Padre: repite la preposición «de» y señala que Jesús es Hijo del Padre. Como en su primera carta, se opone a las falsas doctrinas sobre Jesucristo y enseña claramente su divinidad (1 Jn. 2:22; 4:2; 5:1, 5; 2 Jn. 7).",
+"refs_biblicas": [
+"1Jn 2:22",
+"1Jn 4:2",
+"1Jn 5:1",
+"1Jn 5:5"
+],
+"pagina": "pág. PDF 312 (p. 426)",
+"importancia": 3
+},
+{
+"ref": "2J 3",
+"tipo": "exegesis",
+"titulo": "Un saludo afirmativo, no un deseo: «estarán con nosotros en verdad y amor»",
+"contenido": "El saludo de Juan se aparta de lo habitual: Pablo, Pedro y Judas lo expresan como oración o deseo («gracia y paz a vosotros en abundancia»), pero Juan declara que la gracia, misericordia y paz «estarán con nosotros». Agrega en verdad y amor, el ambiente donde florecen las tres virtudes: la verdad une a la comunidad frente a un enemigo común o una falsedad, y se hace evidente cuando los cristianos muestran amor mutuo.",
+"refs_biblicas": [
+"1P 1:2",
+"2P 1:2"
+],
+"pagina": "pág. PDF 312 (p. 426)",
+"importancia": 2
+},
+{
+"ref": "2J 3",
+"tipo": "griego_palabra",
+"titulo": "παρά repetido y la variante «Señor»",
+"contenido": "Juan usa dos veces la preposición παρά (antes de θεοῦ y antes de Ἰησοῦ) para mostrar igualdad, mientras que Pablo escribe ἀπό en saludos similares (Ro. 1:7). Algunos manuscritos agregan κυρίου (Señor) antes de Ἰησοῦ, pero el título Señor no aparece en las epístolas de Juan y los traductores lo omiten por la evidencia de los manuscritos y el contexto.",
+"griego": {
+"palabra": "παρά",
+"transliteracion": "pará",
+"significado": "de parte de (repetida antes del Padre y antes de Jesucristo para marcar igualdad)"
+},
+"pagina": "pág. PDF 312 (pp. 426-427)",
+"importancia": 1
+},
+{
+"ref": "2J 4",
+"tipo": "exegesis",
+"titulo": "El gozo de Juan: algunos hijos andan en la verdad",
+"contenido": "El encomio de Juan se parece al de 3 Juan 3 y sigue la convención epistolar de su época (saludo, luego agradecimiento y alabanza, como en Pablo). Kistemaker nota que la redacción es poco específica: no aclara por qué solo algunos de los hijos obedecen. Propone dos posibilidades, que otros hayan aceptado la herejía (alegría solo parcial) o que Juan conozca solo a algunos miembros, y admite que no hay información suficiente para decidir. Juan se enteró probablemente por un informe de terceros.",
+"refs_biblicas": [
+"3Jn 3"
+],
+"pagina": "pág. PDF 313 (pp. 427-428)",
+"importancia": 2
+},
+{
+"ref": "2J 4",
+"tipo": "doctrina",
+"titulo": "Andar en la verdad",
+"contenido": "Para el autor, andar en la verdad describe al creyente que confiesa la verdad de la Palabra de Dios y vive en armonía con ella, una vida gobernada por la ley de Dios. El Padre lo ha mandado (cf. 1 Jn. 1:6-7; 2:6; 3:23). Al nombrar al Padre, Juan recuerda indirectamente que «la verdad vino mediante Jesucristo», el Unigénito que está al lado del Padre (Jn. 1:17-18).",
+"refs_biblicas": [
+"1Jn 1:6-7",
+"1Jn 2:6",
+"1Jn 3:23",
+"Jn 1:17-18"
+],
+"pagina": "pág. PDF 313 (p. 428)",
+"importancia": 2
+},
+{
+"ref": "2J 4",
+"tipo": "griego_palabra",
+"titulo": "ἐχάρην, εὕρηκα y el τινάς sobreentendido",
+"contenido": "El aoristo pasivo de χαίρω (me gozo) es activo en su significado y señala un momento concreto. El perfecto εὕρηκα (he encontrado) indica algo pasado con resultados presentes. Antes de «de tus hijos» debe suplirse el pronombre indefinido τινάς (algunos).",
+"griego": {
+"palabra": "εὕρηκα",
+"transliteracion": "heúrēka",
+"significado": "he encontrado (hecho pasado con efecto en el presente)"
+},
+"pagina": "pág. PDF 313 (p. 428)",
+"importancia": 1
+},
+{
+"ref": "2J 5-6",
+"tipo": "doctrina",
+"titulo": "El mandamiento antiguo del amor",
+"contenido": "Kistemaker señala que Juan usa tres veces la palabra mandamiento para indicar su autoridad derivada: no es nuevo sino el que se tiene «desde el principio», que Dios Padre dio por medio de su Hijo (Jn. 13:34) desde el ministerio terrenal de Jesús. La redacción es casi idéntica a 1 Juan 2:7 y 5:3, de donde el autor concluye que es inevitable que las epístolas provengan del mismo escritor. El mandamiento aparece primero con Israel en el desierto (Lv. 19:18; Dt. 6:5), y cada mandamiento de Dios es una obligación de mostrar amor a él y al prójimo (Mt. 22:36-40; Ro. 13:8-10; Gá. 5:14): obedecerlos es demostrar amor.",
+"refs_biblicas": [
+"Jn 13:34",
+"1Jn 2:7",
+"1Jn 5:3",
+"Lv 19:18",
+"Dt 6:5",
+"Mt 22:36-40",
+"Ro 13:8-10",
+"Gá 5:14"
+],
+"pagina": "pág. PDF 313-314 (pp. 428-429)",
+"importancia": 3
+},
+{
+"ref": "2J 6",
+"tipo": "aplicacion",
+"titulo": "Andar: la conducta diaria y la repetición del mandamiento",
+"contenido": "Juan repite lo ya escrito (1 Jn. 3:11, 23; 4:11) porque, dice Kistemaker, tendemos a oír sin escuchar obedientemente; cita el refrán de que la repetición es la madre del aprendizaje. Nuestra conducta debe conformarse a la de Jesús (1 Jn. 2:6). El verbo andar, usado tres veces en el pasaje, describe constancia en la obediencia, así como andamos de un lugar a otro con confianza y seguridad.",
+"refs_biblicas": [
+"1Jn 3:11",
+"1Jn 3:23",
+"1Jn 4:11",
+"1Jn 2:6"
+],
+"pagina": "pág. PDF 314 (p. 429)",
+"importancia": 2
+},
+{
+"ref": "2J 4-6",
+"tipo": "aplicacion",
+"titulo": "Verdad sin amor: el defensor de la verdad que no ama",
+"contenido": "Kistemaker advierte sobre quien defiende con vigor la verdad de la Escritura (su integridad, unidad, confiabilidad) pero separa estrictamente verdad y amor con quienes piensan distinto: la iglesia lo respeta por andar en la verdad (v. 4) y nadie pregunta si anda en amor (v. 6). Las Escrituras enseñan que el amor no teme a la verdad: son compañeros (2 Jn. 3; 1 Co. 13:6; Ef. 4:15). El amor es un compromiso perdurable, no emoción pasajera, y cumplimiento de la Regla de Oro (Lc. 6:31); Juan lo formula en 1 Jn. 3:18.",
+"refs_biblicas": [
+"1Co 13:6",
+"Ef 4:15",
+"Lc 6:31",
+"1Jn 3:18"
+],
+"pagina": "pág. PDF 314-315 (pp. 429-430)",
+"importancia": 3
+},
+{
+"ref": "2J 5",
+"tipo": "griego_palabra",
+"titulo": "ἐρωτῶ frente a αἰτέω: «ruego»",
+"contenido": "Juan elige ἐρωτάω (ruego) en lugar de αἰτέω (pido); según Trench, que cita el autor, el primer verbo se usa cuando personas de igual dignidad se piden algo mutuamente. Además, la combinación οὐχ ὡς («no como si») introduce una noción de concesión o condición, y ἵνα ἀγαπῶμεν es el mandato indirecto que sigue al verbo de pedir.",
+"griego": {
+"palabra": "ἐρωτῶ",
+"transliteracion": "erōtō",
+"significado": "ruego (entre iguales), distinto de αἰτέω, pedir"
+},
+"pagina": "pág. PDF 315 (p. 430)",
+"importancia": 1
+},
+{
+"ref": "2J 7",
+"tipo": "falsos_maestros",
+"titulo": "Los muchos engañadores que han salido al mundo",
+"contenido": "La frase se parece mucho a 1 Juan 4:1. Kistemaker explica que Juan los llama engañadores porque están llenos del espíritu del engaño y buscan la destrucción espiritual de los cristianos. Supone que antes habían sido parte de la comunidad (1 Jn. 2:19), que dejaron la iglesia para hacer del mundo el ámbito de sus doctrinas perniciosas y que allí tratan de persuadir a los cristianos. La palabra «porque» al inicio del griego fue omitida por la NVI.",
+"refs_biblicas": [
+"1Jn 4:1",
+"1Jn 2:19"
+],
+"pagina": "pág. PDF 315-316 (pp. 430-431)",
+"importancia": 3
+},
+{
+"ref": "2J 7",
+"tipo": "cristo",
+"titulo": "Jesucristo venido en carne: nombre completo y tiempo presente",
+"contenido": "Juan usa el nombre completo Jesucristo para recordar la naturaleza divina y humana del Hijo. Kistemaker compara con 1 Juan 4:2-3, donde el verbo está en pasado («ha venido»), y 2 Juan 7, donde el participio está en presente («viniendo»). Casi no hay diferencia: el pasado describe el ministerio terrenal de Jesús y el presente describe a Cristo mismo, pues «el que viene» es designación mesiánica (Mt. 11:2; Jn. 1:15, 27; 12:13; Ap. 1:4).",
+"refs_biblicas": [
+"1Jn 4:2-3",
+"Mt 11:2",
+"Jn 1:15",
+"Jn 12:13",
+"Ap 1:4"
+],
+"pagina": "pág. PDF 316 (p. 431)",
+"importancia": 3
+},
+{
+"ref": "2J 7",
+"tipo": "doctrina",
+"titulo": "El engañador y el anticristo como nombre colectivo",
+"contenido": "Juan no teme darle nombre al maestro falso: lo llama el engañador y el anticristo, es decir, quien viene en lugar de Cristo (cf. 1 Jn. 2:18, 22; 4:3). Como al comienzo del versículo habla de muchos engañadores, el autor entiende que «el anticristo» es un nombre colectivo.",
+"refs_biblicas": [
+"1Jn 2:18",
+"1Jn 2:22",
+"1Jn 4:3"
+],
+"pagina": "pág. PDF 316 (pp. 431-432)",
+"importancia": 2
+},
+{
+"ref": "2J 7",
+"tipo": "griego_palabra",
+"titulo": "μὴ ὁμολογοῦντες y ἐρχόμενον",
+"contenido": "El participio presente activo μὴ ὁμολογοῦντες revela la persistente negativa de los engañadores a reconocer la humanidad de Jesús; ὅτι es conjunción causal (pues), como en 1 Jn. 3:11. El participio presente ἐρχόμενον funciona como apelativo de Cristo.",
+"griego": {
+"palabra": "ὁμολογοῦντες",
+"transliteracion": "homologountes",
+"significado": "reconociendo, confesando (con negación: se niegan persistentemente a confesar)"
+},
+"pagina": "pág. PDF 317 (p. 433)",
+"importancia": 1
+},
+{
+"ref": "2J 8",
+"tipo": "exegesis",
+"titulo": "«Tened cuidado»: eco del discurso de Jesús sobre el fin",
+"contenido": "Kistemaker oye en la advertencia un eco de Jesús en Marcos 13:5 («Cuidaos de que nadie os engañe»; cf. vv. 9, 23, 33): Juan quiere que los lectores cuiden sus posesiones espirituales. Ya no es un ruego sino una orden.",
+"refs_biblicas": [
+"Mr 13:5",
+"Mr 13:9",
+"Mr 13:23",
+"Mr 13:33"
+],
+"pagina": "pág. PDF 316 (p. 432)",
+"importancia": 2
+},
+{
+"ref": "2J 8",
+"tipo": "interpretacion_discutida",
+"titulo": "Variante textual de 2 Juan 8: «trabajamos» o «trabajasteis»",
+"contenido": "Kistemaker lista tres traducciones: (1) primera persona plural en ambos verbos («que no perdamos… recibamos», NKJV, KJV); (2) «no perdáis el fruto de nuestro trabajo» (BJ y otras); (3) segunda persona plural en ambos («el fruto de vuestro trabajo», RVR, VP, NIV). Los mejores manuscritos griegos tienen segunda persona plural en el primer verbo, por lo que prefiere la segunda a la tercera traducción; la diferencia está en «trabajamos» versus «trabajasteis». Los traductores están divididos casi por igual, pero el autor sostiene que la lectura más difícil es «trabajamos» y debe preferirse. Observa que los escribas, por uniformidad, cambiarían más fácilmente de primera a segunda persona que al revés, aunque no hay que ser dogmático porque el escritor mismo cambia de pronombre con frecuencia (Metzger).",
+"postura": "Prefiere «trabajamos» por ser la lectura más difícil, aunque reconoce que los traductores están divididos.",
+"pagina": "pág. PDF 316-317 (pp. 432-433)",
+"importancia": 2
+},
+{
+"ref": "2J 8",
+"tipo": "doctrina",
+"titulo": "«Plenamente recompensados»: recompensa, no salvación",
+"contenido": "Para Kistemaker plena recompensa no significa la salvación, pues esta es un don y no se gana (Ef. 2:8-9). Merecemos una recompensa por fidelidad, obediencia y diligencia, pero esa recompensa es también un don de Dios y por tanto «una señal adicional de la gracia de Dios» (Böttger). El obrero del reino recibe su recompensa completa (Mt. 20:8; Jn. 4:36; Stg. 5:4).",
+"refs_biblicas": [
+"Ef 2:8-9",
+"Mt 20:8",
+"Jn 4:36",
+"Stg 5:4"
+],
+"postura": "La recompensa es distinta de la salvación y es don de gracia.",
+"pagina": "pág. PDF 317 (p. 432)",
+"importancia": 2
+},
+{
+"ref": "2J 8",
+"tipo": "griego_palabra",
+"titulo": "ἀπολέσητε y εἰργασάμεθα",
+"contenido": "ἀπολέσητε, aoristo subjuntivo de ἀπόλλυμι (destruyo, pierdo), es un mandato indirecto después de βλέπετε (cuidaos) y el aoristo es ingresivo. εἰργασάμεθα, aoristo de ἐργάζομαι (trabajo), es globalizador: el énfasis recae en la actividad más que en su producto.",
+"griego": {
+"palabra": "ἐργάζομαι",
+"transliteracion": "ergázomai",
+"significado": "trabajo, obro (aoristo globalizador, énfasis en la actividad)"
+},
+"pagina": "pág. PDF 317 (p. 433)",
+"importancia": 1
+},
+{
+"ref": "2J 9",
+"tipo": "exegesis",
+"titulo": "«Se excede»: no pasar de largo la enseñanza de Cristo",
+"contenido": "Juan toma en serio su responsabilidad pastoral: los falsos maestros abren brechas en la iglesia. El griego dice literalmente «se adelanta», y alude a quien se aventura más allá de la doctrina establecida y transgrede los límites. Kistemaker aclara que Juan no está en contra del desarrollo de la doctrina ni del crecimiento en gracia y conocimiento de Cristo (2 P. 3:18): advierte contra pasarse de largo y abandonar la fe, lo que lleva a la ruina espiritual. El progreso genuino siempre está enraizado en la enseñanza de Cristo.",
+"refs_biblicas": [
+"2P 3:18"
+],
+"pagina": "pág. PDF 317-318 (pp. 433-434)",
+"importancia": 3
+},
+{
+"ref": "2J 9",
+"tipo": "interpretacion_discutida",
+"titulo": "«La enseñanza de Cristo»: genitivo subjetivo u objetivo",
+"contenido": "La frase puede significar la enseñanza que se origina con Cristo y le pertenece (genitivo subjetivo) o la enseñanza acerca de Cristo (genitivo objetivo). Los eruditos han argumentado a favor de ambas, pero para Kistemaker la evidencia de los escritos de Juan favorece el genitivo subjetivo: Jesús dice «Mi enseñanza no es mía… proviene de Dios» (Jn. 7:16-17; cf. Jn. 18:19; 1 Jn. 1:5; 2:25; Ap. 2:14-15).",
+"refs_biblicas": [
+"Jn 7:16-17",
+"Jn 18:19",
+"1Jn 1:5",
+"1Jn 2:25",
+"Ap 2:14-15"
+],
+"postura": "Dos lecturas (subjetivo u objetivo); el autor prefiere el genitivo subjetivo: la enseñanza de Cristo mismo.",
+"pagina": "pág. PDF 318 (p. 434)",
+"importancia": 3
+},
+{
+"ref": "2J 9",
+"tipo": "cristo",
+"titulo": "Quien persevera tiene al Padre y al Hijo",
+"contenido": "Kistemaker ve aquí otra afirmación de la divinidad de Cristo: Juan escribe «la enseñanza de Cristo» y no «de Jesús» para poner énfasis en Cristo, y lo coloca al mismo nivel del Padre. Nadie tiene al Padre sin el Hijo ni a Dios sin Cristo (1 Jn. 2:23-24; 5:12), y quien persevera en la instrucción de Cristo tiene comunión con el Padre y el Hijo (1 Jn. 1:3). Este es el único lugar de las epístolas de Juan donde aparece Χριστός solo, sin Ἰησοῦς, junto a θεόν.",
+"refs_biblicas": [
+"1Jn 2:23-24",
+"1Jn 5:12",
+"1Jn 1:3"
+],
+"pagina": "pág. PDF 318 (p. 434)",
+"importancia": 3
+},
+{
+"ref": "2J 9",
+"tipo": "griego_palabra",
+"titulo": "ὁ προάγων καὶ μὴ μένων: un solo concepto",
+"contenido": "El artículo rige los dos participios presentes, por lo que la cláusula forma un solo concepto: adelantarse y no permanecer van juntos.",
+"griego": {
+"palabra": "προάγων",
+"transliteracion": "proágōn",
+"significado": "adelantándose, yendo más allá (unido a «no permaneciendo»)"
+},
+"pagina": "pág. PDF 318 (p. 434)",
+"importancia": 1
+},
+{
+"ref": "2J 10-11",
+"tipo": "doctrina",
+"titulo": "No recibir al falso maestro: la prohibición de Juan",
+"contenido": "Kistemaker lee el «si alguien llega» como un hecho y no como posibilidad: los falsos maestros llegan, con el propósito de extraviar a los creyentes, y Juan los llama el anticristo (v. 7). Los creyentes no deben franquearles la entrada a sus hogares ni darles la bienvenida. El que da la bienvenida a un falso maestro, de hecho promueve su propósito, le da su bendición y comparte una mala obra que se origina en Satanás (cf. 1 Jn. 3:12). Si un cristiano lo acoge, acepta someterse a su instrucción y destruye su propia fe.",
+"refs_biblicas": [
+"1Jn 3:12"
+],
+"pagina": "pág. PDF 318-319 (pp. 434-435)",
+"importancia": 3
+},
+{
+"ref": "2J 10",
+"tipo": "interpretacion_discutida",
+"titulo": "¿Contradice la hospitalidad cristiana? La «casa» de 2 Juan 10",
+"contenido": "Algunos expositores (Dodd, Barclay) sugieren que no debemos aceptar la decisión del Presbítero como guía suficiente de conducta frente a la costumbre de albergar forasteros (Heb. 13:2). Kistemaker objeta: Juan no habla del viajero que necesita albergue sino del maestro que intenta destruir la iglesia. Además, las iglesias se reunían en casas (Ro. 16:5; 1 Co. 16:19; Col. 4:15; Flm. 2), de modo que «casa» puede tener sentido más amplio; recoge la sugerencia de Brown de que sea la casa-iglesia juanina, aunque advierte no pensar que toda casa del Nuevo Testamento es una casa-iglesia. El cristiano debe instruir al maestro en la doctrina de Cristo, pero nunca permitirle entrar al hogar ni enseñar.",
+"refs_biblicas": [
+"Heb 13:2",
+"Ro 16:5",
+"1Co 16:19",
+"Col 4:15",
+"Flm 2"
+],
+"postura": "Rechaza que la prohibición contradiga la hospitalidad: se refiere al maestro que destruye la iglesia; la «casa» pudo ser casa-iglesia.",
+"pagina": "pág. PDF 318-319 (pp. 434-435)",
+"importancia": 3
+},
+{
+"ref": "2J 10",
+"tipo": "cultura",
+"titulo": "El título de «maestro» exigía deferencia",
+"contenido": "En los círculos judíos y en la iglesia primitiva, la palabra maestro era un título que demandaba deferencia y sumisión: los alumnos estaban moralmente obligados a respetar y obedecer a su maestro (Wegenast, NIDNTT). Por eso, según Kistemaker, los cristianos deben mostrar respeto al maestro, pero nunca a un falso profeta.",
+"pagina": "pág. PDF 319 (p. 435)",
+"importancia": 1
+}
+],
+"problemas": "Texto con OCR sucio en bosquejos (columnas desordenadas) y erratas corregidas (bonded=bondad, declarer=declarar, soliciter, úlitimas). Referencias bíblicas «Hch 19:29» etc. tomadas de las citas del autor."
+}

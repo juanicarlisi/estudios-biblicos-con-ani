@@ -302,6 +302,13 @@
    "ref": "Día 248",
    "nota": "Pedir perdón de verdad y ser el primero en reconciliarse.",
    "fuentes": []
+  },
+  {
+   "ref": "Proverbios 16:32",
+   "nota": "Mack lo usa para decir que quien gobierna su espíritu vale más que el que toma una ciudad, y que el esposo dominado por su ira ha perdido ese gobierno.",
+   "fuentes": [
+    "r_026#19"
+   ]
   }
  ],
  "para_vivir": [
@@ -323,6 +330,12 @@
    "fuentes": [
     "b_226#38",
     "b_140#20"
+   ]
+  },
+  {
+   "texto": "Si alguna vez tu ira se salió de control, no esperes a que se repita: hablá esta semana con tu pastor o con un consejero. Un grupo de hombres que te confronte puede ayudarte a cambiar el enojo abusivo por formas positivas de expresarlo.",
+   "fuentes": [
+    "r_007#15"
    ]
   }
  ],
@@ -358,7 +371,39 @@
     "b_383#79",
     "b_447#44"
    ]
+  },
+  {
+   "titulo": "El ciclo del abuso: tensión, explosión, arrepentimiento",
+   "texto": "Gary Chapman, apoyándose en investigación que cita, describe el abuso físico como un ciclo de tres fases. Primero se acumula la tensión: irritaciones, hostilidad verbal, una esposa que intenta apaciguar o se retrae, y él que reacciona con más ira. Después viene la explosión, la agresión física. Y por último el arrepentimiento: él se disculpa con lágrimas y promete que no volverá a pasar. Una mujer, Beth, cuenta que él parece tan sincero que ella quiere creerle, pero cada vez vuelve a ocurrir. Chapman señala que en la gran mayoría de los casos quien agrede es el marido. Para vos, la advertencia es directa: las lágrimas y las promesas sin tratamiento no rompen el ciclo. Si en tu casa se parece a esto, no esperes a que pase solo: pedí ayuda ya.",
+   "fuentes": [
+    "r_007#14"
+   ]
+  },
+  {
+   "titulo": "Reemplazar la ira abusiva, no eliminarla",
+   "texto": "En el caso de Julie y Bruce, Chapman sostiene que una esposa abusada no puede cambiar sola la situación: necesita un consejero capacitado, el apoyo de familiares o amigos y recursos espirituales. Julie se mudó dejando una carta que decía que lo amaba demasiado para permitir que la destruyera a ella y a sí mismo. Bruce buscó ayuda recién ante la presión de la separación. Según Chapman, con el esposo que abusa el objetivo básico no es eliminar el enojo sino reemplazar las expresiones abusivas por expresiones positivas. Un grupo de apoyo de hombres ayuda, porque ahí se confrontan entre sí y superan parte de su aislamiento emocional de otros hombres, como en los grupos de Alcohólicos Anónimos. Después de nueve meses de terapia y tres de consejería matrimonial, volvieron a vivir juntos.",
+   "fuentes": [
+    "r_007#15"
+   ]
+  },
+  {
+   "titulo": "Abuso en el matrimonio: iglesia, ley y separación",
+   "texto": "R. C. Sproul reconoce que la Biblia no incluye el abuso físico entre las causas de divorcio, y lo lamenta, porque lo considera una grave violación de la dignidad de la persona y de los votos matrimoniales. Antes de llegar al divorcio señala otras vías: la disciplina de la iglesia para proteger a la víctima, el sistema legal (aconseja llamar a la policía) y una separación al menos temporal si el abusador no cambia. Recuerda que muchos matrimonios se han reparado después del arrepentimiento. Distingue además un caso más grave: si hay abuso sexual de los hijos sin arrepentimiento, lo considera una forma de adulterio y aconsejaría el divorcio. Es la opinión de Sproul; lo que importa hoy es que no hay que quedarse callado ni solo ante la violencia.",
+   "fuentes": [
+    "r_039#12"
+   ]
   }
  ],
- "notas_no_usadas": "Quedaron en profundizar o sin usar: Swindoll, buena voluntad, Cantares 5:2, el estudio en España sobre conflicto y respuesta sexual (b_226#21), la cita de Hormachea y Churchill (b_155#43) y el artículo del Los Angeles Times de Luck y Wendorff."
+ "notas_no_usadas": "Quedaron en profundizar o sin usar: Swindoll, buena voluntad, Cantares 5:2, el estudio en España sobre conflicto y respuesta sexual (b_226#21), la cita de Hormachea y Churchill (b_155#43) y el artículo del Los Angeles Times de Luck y Wendorff.",
+ "modelo": {
+  "persona": "Acab",
+  "texto": "Wayne Mack describe a un esposo que pidió una casa y un patio ordenados, llega cansado, ve juguetes y bicicletas bloqueando la entrada y empieza a enojarse, repasando lo que ya había pedido. Decide no decir nada, saluda con un gruñido y se enfurruña toda la noche ignorando a su familia, convencido de que ella no lo respeta como cabeza de la casa. Para Mack, ese hombre estaba controlado por su ira en lugar de gobernar su espíritu. Cada vez que la ira dicta cómo actuamos y nos impide cumplir responsabilidades bíblicas, dice, es pecaminosa. Su ejemplo bíblico es Acab, dominado por su ira, que terminó provocando la muerte de Nabot. Es un modelo de lo que no hay que hacer: no es la violencia desatada sino el enojo que se guarda y se vuelve castigo silencioso.",
+  "refs": [
+   "Proverbios 16:32",
+   "1 Reyes 21"
+  ],
+  "fuentes": [
+   "r_026#19"
+  ]
+ }
 }

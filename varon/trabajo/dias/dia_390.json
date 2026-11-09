@@ -260,10 +260,17 @@
  ],
  "palabras": [],
  "modelo": {
-  "persona": "",
-  "texto": "",
-  "refs": [],
-  "fuentes": []
+  "persona": "Jonatán",
+  "texto": "Jonatán era el hijo mayor del rey y un guerrero valiente. Sabía que David ocuparía el trono que le correspondía a él, y aun así los celos no tuvieron lugar: según Josephs, hacer la voluntad de Dios le importaba más que heredar. Hizo pacto con David, lo advirtió de los planes de Saúl con una señal y pagó el precio de enfrentarse a su padre. David cumplió el pacto tratando con bondad a Mefiboset.",
+  "refs": [
+   "1 Samuel 18:1-4",
+   "1 Samuel 20:17",
+   "2 Samuel 9:1-13"
+  ],
+  "fuentes": [
+   "r_014#11",
+   "r_001#12"
+  ]
  },
  "interpretaciones": [
   {
@@ -431,6 +438,14 @@
    "fuentes": [
     "o_016#70",
     "b_026#15"
+   ]
+  },
+  {
+   "titulo": "La confianza se construye antes del peligro",
+   "texto": "Lucas Leys y David Noboa observan que Saúl, celoso, pasó de la incomodidad a una persecución terrible. Jonatán, su hijo, se hizo amigo de David y se comprometió a informarle para protegerlo, poniéndose contra su padre el rey. David, a su vez, confió en el hijo de su perseguidor porque la amistad ya se había construido. Para Drew Josephs es la amistad más fuerte de las Escrituras: «Jonatán reafirmó su juramento a David, por amor a él, porque lo amaba como a sí mismo» (1 Samuel 20:17). Leys y Noboa proponen preguntarse cómo llegaron a esa confianza y practicar durante la semana tres unos a otros. Josephs deja otra pregunta: ¿te importa el bienestar de tus amigos o te consume la envidia de sus logros?",
+   "fuentes": [
+    "r_001#12",
+    "r_014#11"
    ]
   }
  ],

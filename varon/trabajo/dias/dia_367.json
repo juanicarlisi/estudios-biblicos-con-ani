@@ -275,10 +275,15 @@
   }
  ],
  "modelo": {
-  "persona": "",
-  "texto": "",
-  "refs": [],
-  "fuentes": []
+  "persona": "G. Campbell Morgan",
+  "texto": "Según McGee, cuando Morgan fue llamado al ministerio sintió que el Señor le preguntaba si quería ser un gran predicador o su siervo. Primero dijo que quería ser un gran predicador. Después de luchar, dijo: «quiero ser Tu siervo antes que ser cualquier otra cosa», aunque terminara siendo un predicador oscuro. McGee cree que Dios lo hizo ambas cosas. Y agrega que Dios no pide grandezas sino siervos, y que la motivación correcta no es la ambición egoísta sino presentarse ante Él y oír «buen siervo y fiel».",
+  "refs": [
+   "Jeremías 45:5",
+   "Mateo 25:21"
+  ],
+  "fuentes": [
+   "r_045#5"
+  ]
  },
  "interpretaciones": [
   {
@@ -327,6 +332,27 @@
    "ref": "Día 368",
    "nota": "Mañana: no se sirve para ganar el amor de Dios sino porque ya se lo recibió.",
    "fuentes": []
+  },
+  {
+   "ref": "Mateo 12:50",
+   "nota": "Núñez lo usa para Judas: es más importante ser hermano espiritual de Jesús, que dijo que sus hermanos son los que hacen la voluntad del Padre, que serlo según la carne.",
+   "fuentes": [
+    "r_043#38"
+   ]
+  },
+  {
+   "ref": "Jeremías 45:5",
+   "nota": "McGee lo cita sobre la ambición: «¿Y tú buscas para ti grandezas? No las busques».",
+   "fuentes": [
+    "r_045#5"
+   ]
+  },
+  {
+   "ref": "Mateo 25:21",
+   "nota": "McGee lo propone como motivación del siervo: presentarse ante Él y oír «buen siervo y fiel».",
+   "fuentes": [
+    "r_045#5"
+   ]
   }
  ],
  "para_vivir": [

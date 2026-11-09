@@ -355,6 +355,34 @@
    "ref": "Día 466",
    "nota": "La vara del Padre frente a la espada del Juez: cómo recibir la disciplina como hijo.",
    "fuentes": []
+  },
+  {
+   "ref": "Jeremías 2:13",
+   "nota": "Tripp lo cita junto a Proverbios 4:23 al hablar del corazón como fuente de la respuesta del hijo.",
+   "fuentes": [
+    "r_022#25"
+   ]
+  },
+  {
+   "ref": "Proverbios 23:13-26",
+   "nota": "Vara y súplicas del corazón en un mismo pasaje, según Tripp.",
+   "fuentes": [
+    "r_022#35"
+   ]
+  },
+  {
+   "ref": "Santiago 1:20",
+   "nota": "El enojo no obra la justicia de Dios: la vara no es un arranque de ira.",
+   "fuentes": [
+    "r_022#38"
+   ]
+  },
+  {
+   "ref": "Jueces 16:28",
+   "nota": "Sansón, al final, clama a Dios con arrepentimiento y confianza.",
+   "fuentes": [
+    "r_011#12"
+   ]
   }
  ],
  "para_vivir": [
@@ -509,7 +537,42 @@
    "fuentes": [
     "b_181#3"
    ]
+  },
+  {
+   "titulo": "Las buenas influencias no determinan al hijo",
+   "texto": "Tedd Tripp critica el determinismo, la idea de que las buenas influencias producen automáticamente buenos hijos y que, si el hijo se descarría, es porque los padres fallaron en las influencias. Según Proverbios 4:23, el corazón es la fuente de la vida y determina cómo responde el hijo a la crianza: los niños nunca son receptores pasivos. Lo ilustra con una pareja, los Everet, que solo veían sus propios errores y no que su hijo de quince años escogía no creer ni obedecer. El padre debe hacer todo lo que Dios manda, pero los hijos son responsables de cómo responden. Eso no te quita la tarea; te saca una culpa que no te toca.",
+   "fuentes": [
+    "r_022#25"
+   ]
+  },
+  {
+   "titulo": "Proverbios 23: súplica y vara en el mismo pasaje",
+   "texto": "Tripp sostiene que Proverbios 23:13-26 une la vara con súplicas profundas, como «Dame, hijo mío, tu corazón»: la crianza bíblica entrelaza una excelente y completa comunicación con la vara. Para él, el uso de la vara preserva la autoridad que Dios delegó a los padres, y el énfasis en la comunicación prohíbe la disciplina fría y tiránica; por eso deben ir siempre juntas. Como ejemplo de comunicación pobre cuenta de un padre que decía que hablaban bien porque, cuando su hijo le pidió una bicicleta, él le respondió que comiera sus frijoles. Es la posición del autor sobre la corrección corporal.",
+   "fuentes": [
+    "r_022#35"
+   ]
+  },
+  {
+   "titulo": "Lo que la vara no es",
+   "texto": "Tripp, que defiende el uso de la vara según Proverbios, pone límites claros a lo que esta no es. No es el derecho a un arranque de ira (Santiago 1:20), ni a golpear cuando uno quiera, ni un desahogo de la frustración, ni una retribución por lo que el niño hizo mal, ni algo asociado al enojo. El padre que amedrenta físicamente a sus hijos seguramente los provoca a ira (Efesios 6:4). El objetivo bíblico, dice, es la restauración positiva, y no pagar una deuda como un convicto. Ilustra con un amigo que corrigió a su hijo, lo reafirmó en su amor y volvió sonriendo con él. Es la posición del autor.",
+   "fuentes": [
+    "r_022#38"
+   ]
   }
  ],
- "notas_no_usadas": "Quedaron fuera Beacon (b_382#47), McGee sobre la psicología (b_442#28, salvo el versículo), MacArthur sobre guardar la mente (b_163#61) y la defensa del débil (b_181#20)."
+ "notas_no_usadas": "Quedaron fuera Beacon (b_382#47), McGee sobre la psicología (b_442#28, salvo el versículo), MacArthur sobre guardar la mente (b_163#61) y la defensa del débil (b_181#20).",
+ "modelo": {
+  "persona": "Manoa, padre de Sansón",
+  "texto": "Manoa y su esposa recibieron instrucciones de un ángel para criar a Sansón, nazareo desde el vientre. Elizabeth y Jim George infieren que le contaron la historia de su nacimiento. Aun así, al crecer aparecen las fallas: era voluntarioso (se casó con una filistea contra la voluntad de sus padres), vengativo (usó su fuerza para fines propios) y lujurioso. Por eso es un cuadro honesto de lo que cuesta criar a un hijo de voluntad firme. Y también de la esperanza: para los padres de hijos obstinados nunca es tarde para orar, porque Sansón, al morir, clamó a Dios con arrepentimiento y confianza.",
+  "refs": [
+   "Jueces 13:5",
+   "Jueces 14:1-3",
+   "Jueces 15:7",
+   "Jueces 16:1",
+   "Jueces 16:28"
+  ],
+  "fuentes": [
+   "r_011#12"
+  ]
+ }
 }

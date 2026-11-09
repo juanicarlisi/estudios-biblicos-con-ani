@@ -42,3 +42,7 @@ ordenar y redactar. Nunca copies frases largas de los autores: se redacta con pa
 ## Ahorro de contexto
 - Leé el insumo una vez; si es muy largo, por tramos (offset/limit) y descartando rápido las notas de importancia 1 repetidas.
 - Un solo ciclo de escritura + validación; si hay errores, corregí con Edit solo lo marcado y no releas el JSON entero después de validar.
+
+## Atribución de tradición (09-11-2026)
+El campo `escuela` de las notas es la tradición del autor que anotó el extractor; úsala solo para ubicar una postura cuando la nota misma la presenta como postura del autor.
+No rotules a un autor («reformado», «dispensacional»…) en el texto si no es un dato de la nota o de su propia obra; ante la duda, citá solo al autor y su postura.

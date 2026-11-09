@@ -196,18 +196,19 @@
       "titulo": "«Fuera de la ciudad», «hasta los frenos de los caballos»",
       "notas": [
         {
-          "texto": "«Fuera de la ciudad»: para Carballosa, McGee, MacArthur y Earle es Jerusalén, con el valle de Josafat de Joel 3:2; Ladd prefiere verla como la morada de Dios con su pueblo, de la que los malos quedan separados (ver Interpretaciones).",
+          "texto": "«Fuera de la ciudad»: para Carballosa, McGee, MacArthur y Earle es Jerusalén, con el valle de Josafat de Joel 3:2; Ladd prefiere verla como la morada de Dios con su pueblo, de la que los malos quedan separados; Lennox nota el contraste con el Cordero, que está dentro, en el monte de Sion con los 144.000 (14:1) (ver Interpretaciones).",
           "fuentes": [
             "carballosa_11_b#18",
             "mcgee_08#42",
             "macarthur_13_a#27",
             "beacon_04_b#12",
-            "ladd_06_a#3"
+            "ladd_06_a#3",
+            "r4_460_11#44"
           ],
           "tipo": "arqueologia_geografia"
         },
         {
-          "texto": "La sangre llega «hasta los frenos de los caballos», más de un metro, «por mil seiscientos estadios»: entre 288 y 320 km según el autor, más o menos el largo de Israel (McGee, Ladd, Earle, Carballosa). Aun los que lo leen como un hecho futuro no piensan en una medición: MacArthur ve una hipérbole, Guzik una salpicadura y no un río; Earle y Mundo Hispano, una figura. Ladd resume: un juicio radical que aplasta todo vestigio de mal contra el reino.",
+          "texto": "La sangre llega «hasta los frenos de los caballos», más de un metro, «por mil seiscientos estadios»: entre 288 y 320 km según el autor, más o menos el largo de Israel (McGee, Ladd, Earle, Carballosa). Aun los que lo leen como un hecho futuro no piensan en una medición: MacArthur y Lennox ven una hipérbole, Guzik y Hitchcock una salpicadura y no un río (el texto dice que la sangre «salió» del lagar y llegó tan alto como los frenos, como el jugo que salta bajo los pies); Earle y Mundo Hispano, una figura. Ladd resume: un juicio radical que aplasta todo vestigio de mal contra el reino.",
           "fuentes": [
             "mcgee_08#42",
             "ladd_06_a#3",
@@ -215,7 +216,9 @@
             "carballosa_11_b#19",
             "macarthur_13_a#28",
             "web_04_a#16",
-            "cbmh_06_b#8"
+            "cbmh_06_b#8",
+            "r4_442_04#5",
+            "r4_460_11#44"
           ],
           "tipo": "dificultad_interpretaciones"
         }
@@ -435,12 +438,14 @@
       "posturas": [
         {
           "postura": "Dos cosechas de dos grupos: la siega del grano reúne a los justos y la vendimia juzga a los malos, como la separación que Jesús enseñó para su venida (Mt 13:30, 38).",
-          "quien": "Ladd (premilenial histórico); Swete, seguido por Earle en el Beacon; Buswell; Barnes la ve como la venida de Cristo a reunir a su pueblo",
+          "quien": "Ladd (premilenial histórico); Swete, seguido por Earle en el Beacon; Buswell; Barnes la ve como la venida de Cristo a reunir a su pueblo; Lennox (la siega como fruto de la evangelización, con las «primicias» de 14:4 y 1 Co 15:20-23); el Comentario Moody, que hace suya la síntesis de Govett: “la simiente de la Mujer da la cosecha; la del Dragón, la vendimia”",
           "fuentes": [
             "ladd_05_b#22",
             "beacon_04_b#13",
             "beacon_04_b#11",
-            "r1_010#25"
+            "r1_010#25",
+            "r4_460_11#43",
+            "r4_225_02_a#30"
           ]
         },
         {
@@ -459,6 +464,13 @@
             "henry_02_a#22",
             "mcgee_08#40",
             "mcgeer_10#10"
+          ]
+        },
+        {
+          "postura": "Un mismo juicio, al final de la tribulación, visto desde dos ángulos: la siega muestra lo repentino de su llegada y la vendimia, su severidad. Objeta a la primera lectura que en los capítulos finales no aparece una cosecha de santos, y a la segunda que ambas escenas son del fin.",
+          "quien": "Hitchcock, que presenta las tres lecturas y prefiere esta",
+          "fuentes": [
+            "r4_442_04#6"
           ]
         }
       ],
@@ -572,11 +584,12 @@
   ],
   "para_vivir": [
     {
-      "texto": "La mies madura cuando Dios dice. La historia no va a la deriva (Ladd) y Dios no se apresura (Guzik): su demora es misericordia (Carballosa). Cuando el mal parezca avanzar sin freno, recuerden que hay una hora fijada y que la fija él.",
+      "texto": "La mies madura cuando Dios dice. La historia no va a la deriva (Ladd) y Dios no se apresura (Guzik): su demora es misericordia (Carballosa). Cuando el mal parezca avanzar sin freno, recuerden que hay una hora fijada y que la fija él. Henry llama a esa paciencia el mayor milagro del mundo, pero advierte que, aunque larga, no es eterna.",
       "fuentes": [
         "ladd_06_a#1",
         "web_04_a#14",
-        "carballosa_11_b#14"
+        "carballosa_11_b#14",
+        "r4_2_01_b#23"
       ]
     },
     {
@@ -642,19 +655,21 @@
     },
     {
       "titulo": "La viña: de Israel a la viña de la tierra",
-      "texto": "Larkin recorre la figura en la Biblia: Israel fue una vid sacada de Egipto (Sal 80:8) que dio uvas silvestres (Is 5:1-7; Os 10:1) y mató a los siervos y al Hijo del dueño (Mt 21:33-43); por eso Jesús se presentó como la vid verdadera (Jn 15:5). La viña de 14:19, en cambio, es la de la tierra. Larkin también recuerda que en el campo la cosecha del grano va antes que la vendimia, y Earle remite al calendario de fiestas de Deuteronomio 16:9-13.",
+      "texto": "Larkin recorre la figura en la Biblia: Israel fue una vid sacada de Egipto (Sal 80:8) que dio uvas silvestres (Is 5:1-7; Os 10:1) y mató a los siervos y al Hijo del dueño (Mt 21:33-43); por eso Jesús se presentó como la vid verdadera (Jn 15:5). La viña de 14:19, en cambio, es la de la tierra. Larkin también recuerda que en el campo la cosecha del grano va antes que la vendimia, y Earle remite al calendario de fiestas de Deuteronomio 16:9-13. Lennox agrega que a las dos cosechas de Israel, el trigo y la uva, correspondían tres fiestas: Primicias y Pentecostés con el trigo, Tabernáculos con la uva y el vino; en el Nuevo Testamento ve a Cristo como primicias y a Pentecostés como la venida del Espíritu y la cosecha del evangelio, e Isaías 25:6-8 usa el banquete de vino para anunciar el fin de la muerte. Las cosechas no tenían en sí nada negativo; la diferencia es simbólica.",
       "fuentes": [
         "larkin_04_b#29",
-        "beacon_04_b#12"
+        "beacon_04_b#12",
+        "r4_460_11#45"
       ]
     },
     {
       "titulo": "McGee y la iglesia frente a la Gran Tribulación",
-      "texto": "Al comentar este pasaje, McGee discute con quienes enseñan que la iglesia pasará por la Gran Tribulación para ser purificada. Responde que ese período es el gran día de la ira de Dios y no una prueba para la novia, que Cristo ya la preparó en la cruz y que Apocalipsis 3:10 promete guardarla de esa hora; la iglesia sí pasa por la “pequeña tribulación” de las pruebas de la vida, como él mismo vivió con un cáncer que lo refinó. Es la postura pretribulacional; Ladd, que es postribulacional, lee estos mismos versículos sin esa distinción. El anexo sobre la gran tribulación y el arrebatamiento presenta todas las posturas.",
+      "texto": "Al comentar este pasaje, McGee discute con quienes enseñan que la iglesia pasará por la Gran Tribulación para ser purificada. Responde que ese período es el gran día de la ira de Dios y no una prueba para la novia, que Cristo ya la preparó en la cruz y que Apocalipsis 3:10 promete guardarla de esa hora; la iglesia sí pasa por la “pequeña tribulación” de las pruebas de la vida, como él mismo vivió con un cáncer que lo refinó. Es la postura pretribulacional; Ladd, que es postribulacional, lee estos mismos versículos sin esa distinción. Walvoord responde a Gundry, que buscaba el arrebatamiento en 14:14-20: aparte de la nube, el pasaje habla solo de juicio, sin resurrección ni traslado. El anexo sobre la gran tribulación y el arrebatamiento presenta todas las posturas.",
       "fuentes": [
         "mcgee_09_a#2",
         "mcgeer_10#14",
-        "ladd_06_a#1"
+        "ladd_06_a#1",
+        "r4_450_06#12"
       ]
     },
     {

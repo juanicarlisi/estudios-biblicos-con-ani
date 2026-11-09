@@ -43,9 +43,8 @@
       "titulo": "«El Cordero estaba en pie sobre el monte de Sion»",
       "notas": [
         {
-          "texto": "«Después miré, y he aquí» abre en el Apocalipsis escenas que sorprenden (MacArthur cita 4:1, 7:9 y 19:11). Carballosa marca el contraste exacto con el capítulo 13: el Cordero en lugar de la bestia, sus seguidores con el nombre de Dios en lugar de los marcados por la bestia, y el monte de Sion gobernado por Dios en lugar de una tierra gobernada por paganos.",
+          "texto": "Carballosa marca el contraste exacto con el capítulo 13: el Cordero en lugar de la bestia, sus seguidores con el nombre de Dios en lugar de los marcados por la bestia, y el monte de Sion gobernado por Dios en lugar de una tierra gobernada por paganos.",
           "fuentes": [
-            "macarthur_12_a#21",
             "carballosa_11_a#22"
           ],
           "tipo": "explicacion_texto"
@@ -94,7 +93,7 @@
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "El contraste con 13:16-17 es deliberado: para Guzik, la marca de la bestia es una copia de esta marca de Dios. Spurgeon, citado por Guzik, señalaba que en la frente no llevan las siglas de una denominación sino el nombre del Padre.",
+          "texto": "El contraste con 13:16-17 es deliberado: para Guzik, la marca de la bestia es una copia de esta marca de Dios.",
           "fuentes": [
             "web_04_a#3",
             "mbiblia_02_b#18"
@@ -127,7 +126,7 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "¿De quién es la voz? Por el parecido con 1:15, Larkin y Guzik la toman como la voz de Cristo o de Dios. Ladd, MacArthur y Carballosa ven un coro: Carballosa nota que «cantaban» está en plural, y MacArthur, que 19:6 usa las mismas imágenes para una multitud del cielo (ver Interpretaciones).",
+          "texto": "¿De quién es la voz? Por el parecido con 1:15, Larkin y Guzik la toman como la voz de Cristo o de Dios; Ladd, MacArthur y Carballosa, que nota el plural de «cantaban», ven un coro (ver Interpretaciones).",
           "fuentes": [
             "larkin_04_b#17",
             "web_04_a#4",
@@ -174,7 +173,7 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Carballosa la toma en sentido llano: hombres que no se casaron para dedicarse a su ministerio en tiempos críticos (1 Co 7:26). Ladd, Earle, Beasley-Murray y Mundo Hispano leen pureza espiritual: fidelidad a Cristo frente a la idolatría, que el Antiguo Testamento y el Apocalipsis llaman fornicación (14:8; 17:2). McGee y Guzik ven las dos cosas (ver Interpretaciones).",
+          "texto": "Carballosa la toma en sentido llano: hombres que no se casaron para dedicarse a su ministerio en tiempos críticos (1 Co 7:26). Otros leen pureza espiritual: fidelidad a Cristo frente a la idolatría, que la Biblia llama fornicación (14:8; 17:2). McGee y Guzik ven las dos cosas (ver Interpretaciones).",
           "fuentes": [
             "carballosa_11_a#29",
             "carballosa_12_a#1",
@@ -221,13 +220,14 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "«Fueron redimidos de entre los hombres»: el verbo significa comprar, el mismo de 5:9, donde el precio es la sangre del Cordero. Ser «primicias» se discute: la primera parte de la cosecha que anuncia el resto, o una ofrenda consagrada a Dios (ver Interpretaciones). Earle y Carballosa recuerdan que en la Septuaginta la palabra significa casi siempre ofrenda.",
+          "texto": "«Fueron redimidos de entre los hombres»: el verbo significa comprar, el mismo de 5:9, donde el precio es la sangre del Cordero. Lennox ve la ironía: bajo la bestia nadie podía comprar ni vender sin su marca, pero el Cordero «compró» a los suyos y les dio su nombre. Ser «primicias» se discute: la primera parte de la cosecha que anuncia el resto, o una ofrenda consagrada a Dios (ver Interpretaciones). Earle y Carballosa recuerdan que en la Septuaginta la palabra significa casi siempre ofrenda.",
           "fuentes": [
             "carballosa_11_a#28",
             "carballosa_11_a#31",
             "macarthur_12_b#7",
             "beacon_04_b#6",
-            "ladd_05_b#11"
+            "ladd_05_b#11",
+            "r4_460_11#24"
           ],
           "tipo": "griego_palabra"
         }
@@ -345,7 +345,7 @@
   ],
   "cristo": [
     {
-      "texto": "El Cordero de pie en Sion es el de 5:6, inmolado y vivo; el libro lo ha mostrado Redentor, Pastor y Rey de reyes (MacArthur), y aquí ocupa el centro. McGee lo dice simple: Cristo tendrá la última palabra, no las dos bestias.",
+      "texto": "El Cordero de pie en Sion es el de 5:6, inmolado y vivo; el libro lo ha mostrado Redentor, Pastor y Rey de reyes (MacArthur), y aquí ocupa el centro. McGee lo dice simple: Cristo tendrá la última palabra, no las dos bestias. Lennox agrega un detalle: el Cordero está de pie en Sion, el mismo lugar donde fue muerto, ya no rechazado por su nación sino rodeado por los de ella que lo siguen como Mesías.",
       "refs": [
         "Ap 5:6",
         "Ap 7:17",
@@ -354,7 +354,8 @@
       "fuentes": [
         "macarthur_12_a#21",
         "carballosa_11_a#22",
-        "mcgee_08#26"
+        "mcgee_08#26",
+        "r4_460_11#21"
       ]
     },
     {
@@ -387,21 +388,23 @@
       "posturas": [
         {
           "postura": "La Jerusalén terrenal, adonde Cristo vuelve a reinar (Sal 2:6; Is 24:23; Zac 14:4). Si fuera el cielo, los 144.000 habrían muerto y el sello de 7:3 no habría servido; además, la voz viene «del cielo».",
-          "quien": "MacArthur, Carballosa (con Thomas), McGee y Guzik (premileniales dispensacionales)",
+          "quien": "MacArthur, Carballosa (con Thomas), McGee, Guzik (premileniales dispensacionales) y Hitchcock",
           "fuentes": [
             "macarthur_12_a#22",
             "carballosa_11_a#23",
             "mcgee_08#27",
-            "web_04_a#2"
+            "web_04_a#2",
+            "r4_442_03_b#23"
           ]
         },
         {
           "postura": "La Sion celestial de Hebreos 12:22 y Gálatas 4:26, donde los seguidores del Cordero están seguros.",
-          "quien": "Earle en el Beacon (que no se compromete con una escuela); Larkin (premilenial dispensacional); Buswell (premilenial histórico)",
+          "quien": "Earle en el Beacon (que no se compromete con una escuela); Larkin (premilenial dispensacional); Buswell (premilenial histórico); el Comentario Moody («sin duda» el cielo)",
           "fuentes": [
             "beacon_04_b#4",
             "larkin_04_b#17",
-            "r1_010#23"
+            "r1_010#23",
+            "r4_225_02_a#26"
           ]
         },
         {
@@ -413,10 +416,11 @@
           ]
         },
         {
-          "postura": "Un símbolo de la fortaleza y la seguridad del pueblo de Dios (Sal 48:2-3; Hch 2:16-21).",
-          "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
+          "postura": "Un símbolo de la fortaleza y la seguridad del pueblo de Dios (Sal 48:2-3; Hch 2:16-21); para Henry, la iglesia del evangelio, que Cristo sostiene en sus angustias.",
+          "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista); Matthew Henry",
           "fuentes": [
-            "cbmh_06_a#34"
+            "cbmh_06_a#34",
+            "r4_2_01_b#20"
           ]
         }
       ],
@@ -427,14 +431,15 @@
       "posturas": [
         {
           "postura": "Israelitas creyentes, doce mil por tribu, los de 7:4-8: un grupo especial de evangelistas en la tribulación (ver Profundizar).",
-          "quien": "MacArthur, Carballosa, McGee, Guzik y Larkin (premileniales dispensacionales)",
+          "quien": "MacArthur, Carballosa, McGee, Guzik y Larkin (premileniales dispensacionales); Lennox los ve como creyentes judíos fieles",
           "fuentes": [
             "macarthur_12_a#22",
             "macarthur_12_a#17",
             "carballosa_11_a#25",
             "mcgee_08#28",
             "web_04_a#6",
-            "larkin_04_b#18"
+            "larkin_04_b#18",
+            "r4_460_11#24"
           ]
         },
         {
@@ -483,13 +488,6 @@
           "fuentes": [
             "mbiblia_02_b#19"
           ]
-        },
-        {
-          "postura": "Los que están en el mar de vidrio con el cántico de Moisés y del Cordero (15:2-4), distintos de la iglesia.",
-          "quien": "Larkin",
-          "fuentes": [
-            "larkin_04_b#18"
-          ]
         }
       ],
       "nota": "Todos coinciden en que es el canto de la redención."
@@ -516,12 +514,14 @@
         },
         {
           "postura": "Pureza espiritual: no se prostituyeron adorando a la bestia, como la esposa fiel de 2 Co 11:2.",
-          "quien": "Ladd y Beasley-Murray (premileniales históricos); Earle en el Beacon; Comentario Bíblico Mundo Hispano",
+          "quien": "Ladd y Beasley-Murray (premileniales históricos); Earle en el Beacon; Comentario Bíblico Mundo Hispano; el Comentario Moody (2 Co 11:2-3; He 13:4); Lennox se inclina por la lealtad que Pablo pide a todos, que no excluye a las mujeres",
           "fuentes": [
             "ladd_05_b#10",
             "henry_02_a#20",
             "beacon_04_b#6",
-            "cbmh_06_a#35"
+            "cbmh_06_a#35",
+            "r4_225_02_a#27",
+            "r4_460_11#27"
           ]
         },
         {
@@ -540,12 +540,15 @@
       "posturas": [
         {
           "postura": "Los primeros de muchos: las primicias del Israel redimido, que anuncian la salvación de la nación (Ro 11:25-27).",
-          "quien": "MacArthur (que también admite el sentido de apartados para servir), McGee, Walvoord citado por Guzik",
+          "quien": "MacArthur (que también admite el sentido de apartados para servir), McGee, Walvoord citado por Guzik; Lennox, que ve la semilla de la restauración de Israel (Ro 11:15) y una cosecha posterior mucho mayor",
           "fuentes": [
             "macarthur_12_b#7",
             "mbiblia_02_b#20",
             "mcgee_08#32",
-            "web_04_a#6"
+            "web_04_a#6",
+            "r4_460_11#27",
+            "r4_460_11#28",
+            "r4_460_10_a#9"
           ]
         },
         {
@@ -576,6 +579,13 @@
       "obra": "Sendas que conducen al poder",
       "pagina": "pág. PDF 7",
       "tipo": "aplicacion"
+    },
+    {
+      "texto": "Lennox ilustra el cántico que solo los redimidos aprenden con El sobrino del mago de C. S. Lewis: Aslan crea el mundo cantando y el tío Andrew se empeña en oír solo rugidos, hasta lograrlo. Sin redención, la música del cielo no tiene sentido.",
+      "autor": "John C. Lennox",
+      "obra": "Dios, la IA y el final de la historia",
+      "pagina": "pág. PDF 301",
+      "tipo": "ilustracion"
     }
   ],
   "conexiones": [
@@ -586,16 +596,6 @@
         "web_04_a#1",
         "carballosa_11_a#25",
         "henry_02_a#19"
-      ]
-    },
-    {
-      "ref": "Sal 2:6",
-      "nota": "Dios pone a su rey sobre Sion: el texto que MacArthur, McGee, Carballosa y Ladd citan para el sentido del monte.",
-      "fuentes": [
-        "mcgee_08#27",
-        "carballosa_11_a#23",
-        "macarthur_12_a#21",
-        "ladd_05_b#8"
       ]
     },
     {
@@ -619,14 +619,16 @@
   ],
   "para_vivir": [
     {
-      "texto": "Lleven el nombre sin vergüenza. Kœchlin pregunta: ¿llevamos el nombre del Salvador sin avergonzarnos? Lo que identifica al creyente no es una etiqueta de iglesia sino el nombre del Padre (Spurgeon).",
+      "texto": "Lleven el nombre sin vergüenza. Kœchlin pregunta: ¿llevamos el nombre del Salvador sin avergonzarnos? Lo que identifica al creyente no es una etiqueta de iglesia sino el nombre del Padre (Spurgeon). Lennox les pregunta qué los conquistó para seguir a Cristo: no un soborno, sino un don gratuito que costó el precio más alto, frente a todo lo que el mundo ofrece para comprarlos.",
       "fuentes": [
         "r1_026#24",
-        "web_04_a#3"
+        "web_04_a#3",
+        "r4_460_11#26",
+        "r4_460_11#25"
       ]
     },
     {
-      "texto": "Descansen en que Dios guarda a los suyos (Jn 10:28-29; Ro 8:31-39, según MacArthur). Esa seguridad no es para quedarse quietos sino para servir con valentía.",
+      "texto": "Descansen en que Dios guarda a los suyos (Jn 10:28-29; Ro 8:31-39, según MacArthur), no para quedarse quietos sino para servir con valentía.",
       "fuentes": [
         "macarthur_12_a#25",
         "mcgee_08#26"
@@ -696,11 +698,12 @@
     },
     {
       "titulo": "¿Por qué solo ellos aprenden el cántico?",
-      "texto": "MacArthur recoge, sin afirmarla como segura, la propuesta de Henry Morris: el canto se basa en haber sido redimidos «de entre los de la tierra», y ellos lo sabrían más hondo por haber creído en el tiempo de mayor persecución y haber sido protegidos por el sello. Sugiere que parte de la letra está en 15:3-4. Carballosa piensa que se debe a su relación especial con el Cordero. Larkin, en cambio, cree que ellos cantan liberados en particular de la fornicación de su época.",
+      "texto": "MacArthur recoge, sin afirmarla como segura, la propuesta de Henry Morris: el canto se basa en haber sido redimidos «de entre los de la tierra», y ellos lo sabrían más hondo por haber creído en el tiempo de mayor persecución y haber sido protegidos por el sello. Sugiere que parte de la letra está en 15:3-4. Carballosa piensa que se debe a su relación especial con el Cordero. Larkin, en cambio, cree que ellos cantan liberados en particular de la fornicación de su época. Larkin identifica a los cantores con los del mar de vidrio que entonan el cántico de Moisés y del Cordero (15:2-4), distintos de la iglesia.",
       "fuentes": [
         "macarthur_12_b#2",
         "carballosa_11_a#29",
-        "larkin_04_b#19"
+        "larkin_04_b#19",
+        "larkin_04_b#18"
       ]
     },
     {

@@ -8,13 +8,12 @@
     "estudio": 26
   },
   "contexto": {
-    "antes": "Ayer vimos que el dragón, fracasado, recurre a otro personaje: una bestia que sube del mar con siete cabezas, diez cuernos con diez coronas y un nombre blasfemo. Beasley-Murray recuerda que es marina como el dragón y que, según 11:7, ese mar equivale al abismo.",
+    "antes": "Ayer vimos que el dragón, fracasado, recurre a otro personaje: una bestia que sube del mar con siete cabezas, diez cuernos con diez coronas y un nombre blasfemo.",
     "ahora": "Juan describe el cuerpo de la bestia con rasgos de leopardo, oso y león, cuenta de dónde le viene el poder (el dragón se lo cede) y ve una de sus cabezas herida de muerte y sanada, lo que deja al mundo entero asombrado. Son dos versículos muy discutidos, sobre todo el de la herida.",
     "donde": "Juan lo ve en visión; la bestia sube del mar, que Beasley-Murray y Mundo Hispano entienden como el abismo.",
     "cuando": "Depende de la lectura: para Earle (Beacon) y Beasley-Murray, el pasaje habla primero de la Roma de los días de Juan; para Larkin, MacArthur, McGee, Carballosa y Guzik, de un imperio y un gobernante todavía futuros (ver Interpretaciones).",
     "despues": "Mañana (13:4-6) el mundo adora al dragón y a la bestia, y a la bestia se le da boca para blasfemar y autoridad para actuar cuarenta y dos meses.",
     "fuentes": [
-      "henry_02_a#13",
       "cbmh_06_a#25",
       "larkin_03_b#31",
       "beacon_04_a#27",
@@ -57,13 +56,12 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "En la lectura habitual de Daniel, el león es Babilonia, el oso Media y Persia, y el leopardo Grecia; la cuarta bestia, Roma (McGee, MacArthur, Earle, Guzik). La Biblia MacArthur agrega que eran animales de la fauna de Palestina, conocidos por los primeros lectores.",
+          "texto": "En la lectura habitual de Daniel, el león es Babilonia, el oso Media y Persia, y el leopardo Grecia; la cuarta bestia, Roma (McGee, MacArthur, Earle, Guzik).",
           "fuentes": [
             "mcgee_08#4",
             "macarthur_11_a#30",
             "beacon_04_a#27",
-            "web_02_b#4",
-            "mbiblia_02_b#3"
+            "web_02_b#4"
           ],
           "tipo": "conexion_biblica"
         },
@@ -94,11 +92,12 @@
       "titulo": "Todos los imperios en un solo cuerpo",
       "notas": [
         {
-          "texto": "Lo que en Daniel estaba repartido en tres fieras, acá forma una unidad de poder y maldad (Beasley-Murray). Ladd lo dice así: en esta bestia se concentran todas las características de los imperios mundiales sucesivos. Carballosa la llama una síntesis de la brutalidad y la fortaleza de Babilonia, Media-Persia y Grecia.",
+          "texto": "Lo que en Daniel estaba repartido en tres fieras, acá forma una unidad de poder y maldad (Beasley-Murray). Ladd lo dice así: en esta bestia se concentran todas las características de los imperios mundiales sucesivos. Carballosa la llama una síntesis de la brutalidad y la fortaleza de Babilonia, Media-Persia y Grecia. Lennox nota que sus siete cabezas suman las de las cuatro bestias de Daniel 7.",
           "fuentes": [
             "henry_02_a#13",
             "ladd_05_a#27",
-            "carballosa_10_b#13"
+            "carballosa_10_b#13",
+            "r4_460_10_b#3"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -228,11 +227,12 @@
           "tipo": "dificultad_interpretaciones"
         },
         {
-          "texto": "Sobre una resurrección hecha por Satanás, McGee y Pentecost advierten que solo Cristo resucita a los muertos (Jn 5:21, 28-29) y que los malos no resucitan antes del juicio del gran trono blanco. McGee lo dice en una frase: «Nadie puede duplicar la resurrección. Ellos pueden imitarla, pero no lo pueden duplicar.»",
+          "texto": "Sobre una resurrección hecha por Satanás, McGee y Pentecost advierten que solo Cristo resucita a los muertos (Jn 5:21, 28-29) y que los malos no resucitan antes del juicio del gran trono blanco. McGee lo dice en una frase: «Nadie puede duplicar la resurrección. Ellos pueden imitarla, pero no lo pueden duplicar.» Hitchcock y Ryrie piensan lo contrario: con permiso de Dios (2 Ts 2:9-12), el anticristo morirá y volverá a vivir, porque el libro usa las mismas palabras que para el Cordero.",
           "fuentes": [
             "mcgee_08#10",
             "mcgeer_09#13",
-            "r1_017#20"
+            "r1_017#20",
+            "r4_442_03_b#14"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -243,11 +243,9 @@
       "titulo": "«Se maravilló toda la tierra en pos de la bestia»",
       "notas": [
         {
-          "texto": "La sanidad produce admiración universal. Carballosa observa que los habitantes de la tierra creen haber encontrado al líder que buscaban; la frase «en pos de» describe a un mundo que va detrás de la bestia. Larkin dice que la recuperación aumenta su prestigio; Guzik, su fama y su autoridad.",
+          "texto": "La sanidad produce admiración universal. Carballosa observa que los habitantes de la tierra creen haber encontrado al líder que buscaban; la frase «en pos de» describe a un mundo que va detrás de la bestia.",
           "fuentes": [
-            "carballosa_10_b#17",
-            "larkin_04_b#4",
-            "web_02_b#7"
+            "carballosa_10_b#17"
           ],
           "tipo": "explicacion_texto"
         },
@@ -273,7 +271,7 @@
   "simbolos": [
     {
       "signo": "leopardo",
-      "significado": "Grecia y Alejandro Magno (Dn 7:6): rapidez y agilidad según MacArthur; según McGee, la brillantez griega en artes y filosofía; según Guzik, vigilancia felina.",
+      "significado": "Grecia (Dn 7:6): rapidez, brillantez o vigilancia, según el autor.",
       "refs": [
         "13:2"
       ],
@@ -286,7 +284,7 @@
     },
     {
       "signo": "pies de oso",
-      "significado": "Media y Persia (Dn 7:5): fuerza y ferocidad según MacArthur; según McGee, fortaleza y riqueza paganas; según Guzik, un poder lento y aplastante.",
+      "significado": "Media y Persia (Dn 7:5): fuerza, riqueza o poder aplastante, según el autor.",
       "refs": [
         "13:2"
       ],
@@ -299,7 +297,7 @@
     },
     {
       "signo": "boca de león",
-      "significado": "Babilonia (Dn 7:4): poder feroz que todo lo devora según MacArthur; según McGee, la autocracia de Nabucodonosor.",
+      "significado": "Babilonia (Dn 7:4): poder feroz o autocracia, según el autor.",
       "refs": [
         "13:2"
       ],
@@ -387,14 +385,15 @@
   ],
   "cristo": [
     {
-      "texto": "El pasaje es una caricatura de Cristo: el Cordero está «como inmolado» y vive; la bestia tiene una cabeza «como herida de muerte» y sanada. Para McGee es «la imitación blasfema de la muerte y resurrección de Cristo». Si Satanás necesita imitar una muerte y una resurrección, es porque la de Jesús es el centro de todo.",
+      "texto": "El pasaje es una caricatura de Cristo: el Cordero está «como inmolado» y vive; la bestia tiene una cabeza «como herida de muerte» y sanada. Lennox lo llama una parodia del evangelio; para McGee es «la imitación blasfema de la muerte y resurrección de Cristo». Si Satanás necesita imitar una muerte y una resurrección, es porque la de Jesús es el centro de todo.",
       "refs": [
         "Ap 5:6"
       ],
       "fuentes": [
         "carballosa_10_b#15",
         "ladd_05_a#28",
-        "mcgee_08#11"
+        "mcgee_08#11",
+        "r4_460_10_b#15"
       ]
     },
     {
@@ -436,20 +435,22 @@
         },
         {
           "postura": "Doble sentido: el Imperio Romano revivido y su jefe, el anticristo.",
-          "quien": "Larkin y Carballosa (premileniales dispensacionales); Hocking, citado por Guzik, combina gobierno mundial y persona",
+          "quien": "Larkin y Carballosa (premileniales dispensacionales); Hocking, citado por Guzik, combina gobierno mundial y persona; Dyer (Roma renovada, en el territorio del antiguo imperio)",
           "fuentes": [
             "larkin_04_b#1",
             "carballosa_10_b#13",
-            "web_02_b#5"
+            "web_02_b#5",
+            "r4_453_01#24"
           ]
         },
         {
           "postura": "Un hombre real, muy unido a su gobierno mundial: la gente adora a individuos, su número es «de hombre» y va al lago de fuego (argumentos de Seiss).",
-          "quien": "Guzik (con Seiss); MacArthur y Carballosa identifican la bestia con el anticristo",
+          "quien": "Guzik (con Seiss); MacArthur y Carballosa identifican la bestia con el anticristo; Hitchcock (rey y reino a la vez: sería extraño hacer la imagen de un imperio resucitado)",
           "fuentes": [
             "web_02_b#5",
             "macarthur_11_b#2",
-            "carballosa_11_a#13"
+            "carballosa_11_a#13",
+            "r4_442_03_b#10"
           ]
         },
         {
@@ -498,6 +499,13 @@
           ]
         },
         {
+          "postura": "La abolición de la idolatría pagana, sanada con la llegada de la idolatría papal, la misma en sustancia con otro ropaje.",
+          "quien": "Matthew Henry (como sugerencia)",
+          "fuentes": [
+            "r4_2_01_b#16"
+          ]
+        },
+        {
           "postura": "El debilitamiento de la idea de un imperio mundial y su vuelta en una liga de diez naciones de la que sale el anticristo (como sugerencia).",
           "quien": "Buswell",
           "fuentes": [
@@ -506,9 +514,10 @@
         },
         {
           "postura": "Una muerte y una resurrección reales del anticristo, que imitan las de Cristo.",
-          "quien": "Larkin",
+          "quien": "Larkin; Hitchcock (con Ryrie), con permiso de Dios",
           "fuentes": [
-            "larkin_04_b#4"
+            "larkin_04_b#4",
+            "r4_442_03_b#14"
           ]
         },
         {
@@ -714,6 +723,14 @@
       "texto": "En su comentario a 9:1 McGee había rechazado que el anticristo sea Satanás encarnado; sobre 13:2 dice que Satanás entra en él y que es lo más cercano a una encarnación de Satanás en la Escritura.",
       "fuentes": [
         "mcgeer_09#12"
+      ]
+    },
+    {
+      "titulo": "Lennox: el poder del dragón y la pretensión de ser dioses",
+      "texto": "Lennox cita a E. O. Wilson: tenemos emociones paleolíticas, instituciones medievales y tecnología con poderes divinos. Recoge voces que hablan de hacerse dioses mediante la ingeniería o la inteligencia artificial (Harari, Gawdat) y lo lee como una afrenta al primer mandamiento; para él el mal de fondo es sobrenatural: el del monstruo con poder de dragón, frente al trono de Dios. Contra Orwell, que objetaba lo sobrenatural en la novela de C. S. Lewis Esa horrible fuerza, responde que saber quién gana no le quita drama a la historia. Son aplicaciones del autor.",
+      "fuentes": [
+        "r4_460_10_b#13",
+        "r4_460_10_b#12"
       ]
     }
   ]

@@ -53,12 +53,13 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Van «vestidos de lino finísimo, blanco y limpio»: para Earle (Beacon), señal de pureza, como el lino de la esposa en el versículo 8; para Ladd, señal de que comparten la victoria del Mesías. Los caballos blancos son simbólicos y hablan de triunfo (MacArthur).",
+          "texto": "Van «vestidos de lino finísimo, blanco y limpio»: para Earle (Beacon), señal de pureza, como el lino de la esposa en el versículo 8; para Ladd, señal de que comparten la victoria del Mesías. Los caballos blancos hablan de triunfo (MacArthur); Hitchcock no descarta caballos celestiales literales, como los de fuego de Elías (2 R 2:11), aunque los primeros lectores entendían la imagen como señal de victoria.",
           "fuentes": [
             "beacon_05_a#17",
             "ladd_07_a#31",
             "macarthur_16#29",
-            "r1_013#26"
+            "r1_013#26",
+            "r4_442_04#23"
           ],
           "tipo": "simbolo_numero"
         },
@@ -90,12 +91,13 @@
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "MacArthur la compara con la espada de 1:16: allí defendía a la iglesia; aquí juzga. Antes Cristo habló consuelo; ahora, palabras de muerte: «su palabra mata», así como da vida, y lo hace en un instante. Ladd ve la coherencia de toda la Biblia: el mundo fue creado por la palabra viviente, Cristo (Jn 1:3), y el juicio del viejo orden será ejecutado por esa misma palabra.",
+          "texto": "MacArthur la compara con la espada de 1:16: allí defendía a la iglesia; aquí juzga. Lennox lo matiza: al principio del libro esa espada escudriñaba a las propias iglesias (Pérgamo), porque el juicio empieza por la casa de Dios; ahora se vuelve contra los enemigos declarados de Dios. Antes Cristo habló consuelo; ahora, palabras de muerte: «su palabra mata», así como da vida, y lo hace en un instante. Ladd ve la coherencia de toda la Biblia: el mundo fue creado por la palabra viviente, Cristo (Jn 1:3), y el juicio del viejo orden será ejecutado por esa misma palabra.",
           "fuentes": [
             "macarthur_16#30",
             "r1_013#27",
             "r2_007#10",
-            "ladd_07_a#32"
+            "ladd_07_a#32",
+            "r4_460_13_b#31"
           ],
           "tipo": "cristo_en_apocalipsis"
         },
@@ -167,11 +169,12 @@
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "La frase se carga a propósito: «del furor y de la ira del Dios Todopoderoso». Edwards lo notó: no dice solo la ira de Dios, sino su furor y su ira, y la del Todopoderoso, como si la Omnipotencia estuviera encolerizada. Earle lo llama una solemne advertencia. Buswell saca de aquí una enseñanza clave: no hay un Padre severo frente a un Hijo bondadoso; el Padre es autor del sacrificio, y el Hijo personifica igualmente la justicia y la ira contra el pecado.",
+          "texto": "La frase se carga a propósito: «del furor y de la ira del Dios Todopoderoso». Edwards lo notó: no dice solo la ira de Dios, sino su furor y su ira, y la del Todopoderoso, como si la Omnipotencia estuviera encolerizada. Earle lo llama una solemne advertencia. Y sin embargo, Carballosa (con Bellet y Ottman) describe un juicio sin arrebato: deliberado, en orden, golpe tras golpe. Buswell saca de aquí una enseñanza clave: no hay un Padre severo frente a un Hijo bondadoso; el Padre es autor del sacrificio, y el Hijo personifica igualmente la justicia y la ira contra el pecado.",
           "fuentes": [
             "r2_011#29",
             "beacon_05_a#17",
-            "r2_038_b#5"
+            "r2_038_b#5",
+            "r4_443_03#13"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -401,9 +404,10 @@
         },
         {
           "postura": "Abierto: ángeles, o creyentes que siguen al Cordero (14:4), resucitados o mártires.",
-          "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
+          "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista); Lennox, que no zanja la cuestión (Zac 14:5) y nota que no hay evidencia de que peleen",
           "fuentes": [
-            "cbmh_07#29"
+            "cbmh_07#29",
+            "r4_460_14_a#5"
           ]
         }
       ],

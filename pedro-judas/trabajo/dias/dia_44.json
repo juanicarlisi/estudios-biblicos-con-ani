@@ -105,14 +105,6 @@
       "kis1j_03_a#20"
      ],
      "tipo": "doctrina"
-    },
-    {
-     "texto": "Detrás de todo esto MacArthur ve a Satanás, que desde su rebelión se opone a Dios y es el primer ejemplo del espíritu del anticristo. Henry lo dice de otra manera: las mentiras más grandes y dañinas del padre de mentira suelen ser errores sobre la persona de Cristo. Por eso la profecía de que aparecerían engañadores no es para asustar sino para que estemos en guardia.",
-     "fuentes": [
-      "mac1j_03#13",
-      "mhenry_01_c#14"
-     ],
-     "tipo": "doctrina"
     }
    ]
   },
@@ -252,15 +244,6 @@
       "moodynt_02_c#11"
      ],
      "tipo": "exegesis"
-    },
-    {
-     "texto": "La herejía cambia de ropa en cada siglo: Marción, Arrio y Sabelio en los primeros siglos; y en cualquier época, la negación del nacimiento virginal, de la resurrección, de la ascensión o del regreso de Cristo, o la separación entre el Jesús de la historia y el Cristo de la fe. Henry lo amplía: todo el que niega la persona de Cristo o alguno de sus oficios es anticristo. MacArthur lo concreta en el triple oficio de Profeta, Sacerdote y Rey.",
-     "fuentes": [
-      "kis1j_03_b#8",
-      "mhenry_01_c#14",
-      "mac1j_03#18"
-     ],
-     "tipo": "doctrina"
     }
    ]
   }
@@ -524,13 +507,6 @@
    ]
   },
   {
-   "ref": "Zac 11:16-17",
-   "nota": "MacArthur ve en el pastor inútil la antítesis del Buen Pastor, a quien Dios destruirá.",
-   "fuentes": [
-    "mac1j_03#14"
-   ]
-  },
-  {
    "ref": "Éx 29:7",
    "nota": "La unción con aceite de sacerdotes (también reyes, 1S 16:12, y profetas, Is 61:1) es el fondo de la unción que ahora tienen todos los creyentes.",
    "fuentes": [
@@ -559,16 +535,6 @@
    "fuentes": [
     "kis1j_03_b#3"
    ]
-  },
-  {
-   "texto": "Owen describe siete señales de la apostasía total; una es dejar el compañerismo de los creyentes (1J 2:19). Pero distingue esa apostasía de los retrocesos de creyentes a quienes llama a arrepentirse mientras pueden.",
-   "autor": "John Owen",
-   "obra": "Apostasía del evangelio",
-   "pagina": "PDF 49-50",
-   "tipo": "doctrina",
-   "fuentes": [
-    "r1_020#11"
-   ]
   }
  ],
  "conexiones": [
@@ -589,29 +555,11 @@
    ]
   },
   {
-   "ref": "Lc 8:13",
-   "nota": "La semilla que brota con gozo pero no tiene raíz: Piper la usa para explicar a los que creen por un tiempo y se apartan.",
-   "fuentes": [
-    "r1_010#21",
-    "r1_012_a#8",
-    "r1_010#7"
-   ]
-  },
-  {
    "ref": "Jn 10:27-29",
    "nota": "Nadie arrebata a las ovejas de la mano de Cristo: la base de la confianza del que permanece.",
    "fuentes": [
     "r1_017#23",
     "mac1j_03#24"
-   ]
-  },
-  {
-   "ref": "Jn 16:13",
-   "nota": "El Espíritu de verdad guía a toda la verdad: la promesa que se cumple en la unción.",
-   "fuentes": [
-    "bea1j_01_b#12",
-    "rich1j_01_b#5",
-    "cbmh1j_01_b#12"
    ]
   },
   {
@@ -652,12 +600,6 @@
     "kis1j_03_a#25",
     "mac1j_03#24",
     "r1_010#7"
-   ]
-  },
-  {
-   "texto": "Vivir en la última hora no es fijar fechas sino no medir el tiempo de Dios con nuestros relojes (2P 3:8), obedecer con urgencia y estar preparados.",
-   "fuentes": [
-    "cbmh1j_01_b#7"
    ]
   }
  ],
@@ -702,6 +644,23 @@
     "mac1j_03#16",
     "r1_005#14",
     "bea1j_01_b#13"
+   ]
+  },
+  {
+   "titulo": "La misma mentira con otra ropa",
+   "texto": "La herejía cambia de ropa en cada siglo: Marción, Arrio y Sabelio en los primeros siglos; y en cualquier época, la negación del nacimiento virginal, de la resurrección, de la ascensión o del regreso de Cristo, o la separación entre el Jesús de la historia y el Cristo de la fe. Henry lo amplía: todo el que niega la persona de Cristo o alguno de sus oficios es anticristo. MacArthur lo concreta en el triple oficio de Profeta, Sacerdote y Rey.",
+   "fuentes": [
+    "kis1j_03_b#8",
+    "mhenry_01_c#14",
+    "mac1j_03#18"
+   ]
+  },
+  {
+   "titulo": "Detrás de los anticristos",
+   "texto": "Detrás de todo esto MacArthur ve a Satanás, que desde su rebelión se opone a Dios y es el primer ejemplo del espíritu del anticristo. Henry lo dice de otra manera: las mentiras más grandes y dañinas del padre de mentira suelen ser errores sobre la persona de Cristo. Por eso la profecía de que aparecerían engañadores no es para asustar sino para que estemos en guardia.",
+   "fuentes": [
+    "mac1j_03#13",
+    "mhenry_01_c#14"
    ]
   }
  ]

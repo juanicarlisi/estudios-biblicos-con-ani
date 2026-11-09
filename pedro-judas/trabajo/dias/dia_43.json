@@ -4,12 +4,19 @@
   "desde": "1J 2:15",
   "hasta": "1J 2:17",
   "titulo": "No amen al mundo: el amor que no puede compartir el corazón",
-  "minutos": {"lectura": 2, "estudio": 24},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 24
+  },
   "contexto": {
     "antes": "Ayer (1J 2:7-14) Juan habló del mandamiento antiguo y nuevo del amor y se dirigió a hijitos, padres y jóvenes recordándoles lo que ya tienen: pecados perdonados, conocimiento del Padre y victoria sobre el maligno.",
     "ahora": "De los privilegios pasa a la exhortación: a esos mismos lectores les manda no amar al mundo ni lo que hay en él, y les da las razones. El mandato vale para todos, no solo para un grupo.",
     "despues": "Mañana (1J 2:18-23): es el último tiempo y han surgido muchos anticristos; algunos salieron de la iglesia porque no eran de ella.",
-    "fuentes": ["moodynt_02_c#5", "mac1j_03#8", "kis1j_03_a#19"]
+    "fuentes": [
+      "moodynt_02_c#5",
+      "mac1j_03#8",
+      "kis1j_03_a#19"
+    ]
   },
   "versiculo_clave": {
     "ref": "1J 2:17",
@@ -17,119 +24,496 @@
   },
   "panorama": {
     "texto": "Después de recordar quiénes son los creyentes, Juan da un mandato breve y tajante: no amen al mundo ni las cosas que hay en el mundo. No se refiere a la creación ni a la gente, que Dios ama, sino al orden de vida organizado sin Dios y contra Dios, que en esta carta aparece bajo el maligno. Los comentaristas leen en el pasaje tres razones: amar al mundo es incompatible con el amor del Padre (v. 15), lo que el mundo ofrece (los deseos de la carne, los deseos de los ojos y la vanagloria de la vida) no viene del Padre (v. 16), y el mundo pasa mientras que el que hace la voluntad de Dios permanece (v. 17). No es un llamado a encerrarse lejos de la sociedad, sino a que el corazón tenga un solo dueño.",
-    "fuentes": ["moodynt_02_c#5", "moodynt_02_c#6", "moodynt_02_c#7", "mac1j_03#7", "mac1j_03#8", "kis1j_03_a#14"]
+    "fuentes": [
+      "moodynt_02_c#5",
+      "moodynt_02_c#6",
+      "moodynt_02_c#7",
+      "mac1j_03#7",
+      "mac1j_03#8",
+      "kis1j_03_a#14"
+    ]
   },
   "secciones": [
     {
       "rango": "1J 2:15a",
       "titulo": "¿Qué mundo no hay que amar?",
       "notas": [
-        {"texto": "Juan nombra el mundo tres veces en el v. 15 y otras tres en los vv. 16-17. La palabra es típicamente suya: según el recuento que cita Kistemaker (de Guhrt), kosmos aparece 185 veces en el Nuevo Testamento, 78 en el Evangelio de Juan y 24 en sus cartas. En 1 Juan tiene varios matices: Jesús es el Salvador del mundo (4:15), pero el mundo también no conoce a Dios (3:1), odia a los creyentes (3:13), alberga a los falsos profetas (4:1) y está bajo el maligno (5:19).", "fuentes": ["cbmh1j_01_b#3", "ncb1j_01_a#24", "kis1j_03_a#14"], "tipo": "exegesis"},
-        {"texto": "Enseguida surge una pregunta: ¿cómo no amar al mundo si Dios mismo amó al mundo (Jn 3:16)? Todos los autores resuelven la tensión del mismo modo. El mundo que Dios ama es la humanidad, a la que envió a su Hijo; el mundo que no hay que amar es todo lo que se alejó de Dios y le hace competencia. Blaney lo dice con Plummer: este mundo es el rival de Dios. Bedford y el Nuevo Comentario Bíblico hablan de amar la mundanalidad, no de rechazar a las personas.", "fuentes": ["bea1j_01_b#7", "cbmh1j_01_b#3", "ncb1j_01_a#24", "moodynt_02_c#5"], "tipo": "doctrina"},
-        {"texto": "Tampoco se trata del mundo físico: Dios declaró buena su creación y la naturaleza refleja su gloria (Gn 1:31; Sal 19:1-6). MacArthur y la Biblia MacArthur definen el mundo de este pasaje como un sistema espiritual e invisible de maldad, un orden mundial o manera de vivir que gobierna Satanás (Ef 2:2; 1J 5:19), con sus ideologías, filosofías y modos de pensar opuestos a Dios, a su Palabra y a su pueblo. Para el Comentario Moody, siguiendo a Westcott, es el sistema organizado rival de Dios, que encuentra su plenitud en un orden finito y sin Dios. Blaney lo describe como un sistema de vida establecido por personas no convertidas bajo la influencia del mal.", "fuentes": ["mac1j_03#7", "mbib1j_01_b#11", "moodynt_02_c#5", "bea1j_01_b#7"], "tipo": "doctrina"},
-        {"texto": "«Ni las cosas que están en el mundo» no condena todos los objetos. Blaney, con Haupt, entiende que son el elemento que hace del mundo lo que es. Matthew Henry precisa que las cosas del mundo pueden desearse, tenerse y usarse para los fines que Dios les dio y para su gloria; lo que no cabe es buscarlas y valorarlas para lo que el pecado hace con ellas. El Moody y Ryrie lo resumen con 1 Corintios 7:31: usar las cosas del mundo sin abusar de ellas, y disfrutarlas sin amarlas (1Ti 6:17).", "fuentes": ["bea1j_01_b#7", "mhenry_01_c#12", "moodynt_02_c#5", "r1_016#31"], "tipo": "aplicacion"}
+        {
+          "texto": "Juan nombra el mundo tres veces en el v. 15 y otras tres en los vv. 16-17. Es una palabra típicamente suya (Kistemaker, con Guhrt: 78 de sus 185 apariciones en el Nuevo Testamento están en el Evangelio de Juan). En 1 Juan el mundo tiene un Salvador (4:15), pero también no conoce a Dios (3:1), odia a los creyentes (3:13) y está bajo el maligno (5:19).",
+          "fuentes": [
+            "cbmh1j_01_b#3",
+            "ncb1j_01_a#24",
+            "kis1j_03_a#14"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Cómo no amar al mundo si Dios mismo amó al mundo (Jn 3:16)? Los autores coinciden: el mundo que Dios ama es la humanidad; el que no hay que amar es todo lo que se alejó de Dios y le hace competencia. Blaney lo dice con Plummer: este mundo es el rival de Dios. Bedford y el Nuevo Comentario Bíblico hablan de no amar la mundanalidad.",
+          "fuentes": [
+            "bea1j_01_b#7",
+            "cbmh1j_01_b#3",
+            "ncb1j_01_a#24",
+            "moodynt_02_c#5"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Tampoco es el mundo físico, que Dios declaró bueno y que refleja su gloria (Gn 1:31; Sal 19:1-6). Para MacArthur es un sistema espiritual de maldad, un orden mundial o manera de vivir que gobierna Satanás (Ef 2:2; 1J 5:19), con sus ideologías opuestas a Dios, a su Palabra y a su pueblo. El Moody, con Westcott, habla del sistema organizado rival de Dios; Blaney, de un sistema de vida establecido por personas no convertidas bajo la influencia del mal.",
+          "fuentes": [
+            "mac1j_03#7",
+            "mbib1j_01_b#11",
+            "moodynt_02_c#5",
+            "bea1j_01_b#7"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Ni las cosas que están en el mundo» no condena todos los objetos: Blaney, con Haupt, piensa en lo que hace del mundo lo que es. Henry precisa que las cosas pueden tenerse y usarse para los fines que Dios les dio y para su gloria, pero no buscarse para lo que el pecado hace con ellas. El Moody y Ryrie lo resumen con 1 Corintios 7:31: usar sin abusar, disfrutar sin amar (1Ti 6:17).",
+          "fuentes": [
+            "bea1j_01_b#7",
+            "mhenry_01_c#12",
+            "moodynt_02_c#5",
+            "r1_016#31"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1J 2:15b",
       "titulo": "Dos amores que no caben en un mismo corazón",
       "notas": [
-        {"texto": "Juan no dice «no les guste», sino «no amen», con el mismo verbo que usó para el amor al hermano (v. 10): el amor que crea comunión íntima y lealtad, el que Dios pide en el resumen de la ley. Por eso Kistemaker entiende que no describe un tropiezo aislado sino un estilo de vida: la lealtad entregada al mundo. Bedford agrega que la forma del mandato significa dejar de hacerlo o no tenerlo por costumbre (ver Palabras).", "fuentes": ["kis1j_03_a#13", "cbmh1j_01_b#3"], "tipo": "exegesis"},
-        {"texto": "La consecuencia es fuerte: si alguno ama al mundo, el amor del Padre no está en él. Kistemaker prefiere entender «el amor del Padre» como el amor hacia el Padre, por el contraste con el amor al mundo; Bedford lo explica como el amor del Padre que no permanece en esa persona como principio que gobierna su vida. Blaney cita a Steele: un corazón no puede contener dos amores tan hostiles. Es el principio de Jesús: nadie puede servir a dos señores (Mt 6:24; Lc 16:13). El Moody subraya que el mandamiento no es «no lo amen demasiado» sino «no lo amen».", "fuentes": ["kis1j_03_a#13", "cbmh1j_01_b#3", "bea1j_01_b#7", "moodynt_02_c#6", "moodynt_02_c#5"], "tipo": "doctrina"},
-        {"texto": "Santiago lo dice con otra imagen: la amistad con el mundo es enemistad con Dios (Stg 4:4). Matthew Henry lo plantea como una balanza: cuanto más prevalece el amor al mundo, más decae el amor a Dios. Richards insiste en que el creyente no puede vivir con el corazón dividido, respondiendo un día con amor a Dios y otro con simpatía por los placeres del mundo; tiene que comprometerse claramente con la voluntad de Dios.", "fuentes": ["kis1j_03_a#13", "moodynt_02_c#5", "mhenry_01_c#12", "rich1j_01_b#4"], "tipo": "doctrina"},
-        {"texto": "En la carta, esto funciona como una prueba. La Biblia MacArthur lo ve como la otra cara del amor a Dios y a los hermanos: la ausencia de amor al mundo es rasgo habitual de los nacidos de nuevo, y los falsos maestros, dedicados a la sabiduría del mundo, mostraban por ahí su condición. MacArthur y Mayhue aclaran que el creyente a veces se siente atraído por el mundo, pero eso le trae convicción, confesión y arrepentimiento; la pregunta para examinarse es si rechaza el sistema del mundo y ama a Dios, su verdad y su pueblo (ver Interpretaciones).", "fuentes": ["mbib1j_01_b#11", "mbib1j_01_b#12", "r1_018_a#22", "mac1j_03#8"], "tipo": "aplicacion"}
+        {
+          "texto": "Juan no dice «no les guste», sino «no amen», con el mismo verbo que usó para el amor al hermano (v. 10): el amor que crea comunión íntima y lealtad, el que Dios pide en el resumen de la ley. Por eso Kistemaker entiende que no describe un tropiezo aislado sino un estilo de vida: la lealtad entregada al mundo. Bedford agrega que la forma del mandato significa dejar de hacerlo o no tenerlo por costumbre (ver Palabras).",
+          "fuentes": [
+            "kis1j_03_a#13",
+            "cbmh1j_01_b#3"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La consecuencia es fuerte: si alguno ama al mundo, el amor del Padre no está en él. Kistemaker lo entiende como el amor hacia el Padre, por contraste con el amor al mundo; Bedford, como el amor del Padre que no gobierna esa vida. Blaney cita a Steele: un corazón no puede contener dos amores tan hostiles. Nadie puede servir a dos señores (Mt 6:24). Y el Moody subraya que el mandato no es amarlo menos, sino no amarlo.",
+          "fuentes": [
+            "kis1j_03_a#13",
+            "cbmh1j_01_b#3",
+            "bea1j_01_b#7",
+            "moodynt_02_c#6",
+            "moodynt_02_c#5"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Santiago lo dice con otra imagen: la amistad con el mundo es enemistad con Dios (Stg 4:4). Henry lo plantea como una balanza: cuanto más crece el amor al mundo, más decae el amor a Dios. Richards insiste en que no se puede vivir con el corazón dividido; hay que comprometerse claramente con la voluntad de Dios.",
+          "fuentes": [
+            "kis1j_03_a#13",
+            "moodynt_02_c#5",
+            "mhenry_01_c#12",
+            "rich1j_01_b#4"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "En la carta esto funciona como una prueba: la Biblia MacArthur ve la ausencia de amor al mundo como rasgo habitual de los nacidos de nuevo, y los falsos maestros, dedicados a la sabiduría del mundo, mostraban por ahí su condición. Aun así, el creyente a veces se siente atraído (ver Interpretaciones).",
+          "fuentes": [
+            "mbib1j_01_b#11",
+            "mbib1j_01_b#12",
+            "r1_018_a#22",
+            "mac1j_03#8"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1J 2:16",
       "titulo": "Las tres puertas: la carne, los ojos y la vanagloria",
       "notas": [
-        {"texto": "El v. 16 no es un inventario de todo lo que hay en el mundo, sino, según Blaney, tres marcas esenciales de la mundanalidad; Kistemaker aclara que no agotan todo lo que podría decirse. Henry las ve como las tres inclinaciones que dominan a la naturaleza caída, y la Biblia MacArthur como tres puertas que, abiertas al pecado, llevan a resultados trágicos.", "fuentes": ["bea1j_01_b#8", "kis1j_03_a#15", "mhenry_01_c#12", "mbib1j_01_b#13"], "tipo": "exegesis"},
-        {"texto": "Los deseos de la carne son los deseos que tiene la carne (el Moody y Kistemaker lo leen así). La carne, en sentido moral, es la vieja naturaleza corrompida por el pecado. Blaney aclara que el mal no está en el cuerpo ni en el apetito legítimo, sino en la lujuria: el deseo desordenado que se ve en la glotonería, la embriaguez y la sexualidad fuera del orden de Dios. Kistemaker recuerda que ese deseo choca con el mandamiento de no codiciar (Ex 20:17), y que Santiago muestra cómo concibe y da a luz el pecado (Stg 1:15). Pablo describe esa naturaleza como contraria al Espíritu (Gá 5:16-17).", "fuentes": ["moodynt_02_c#6", "kis1j_03_a#16", "kis1j_03_a#17", "bea1j_01_b#8", "mac1j_03#10"], "tipo": "exegesis"},
-        {"texto": "Los deseos de los ojos: el ojo es un regalo de Dios, pero también una ventana para la tentación. El Moody los llama la puerta por la que el mundo entra en la carne. Blaney los describe como curiosidad ilícita que involucra vista, mente e imaginación, y como la tendencia a dejarse cautivar por la apariencia sin preguntar por el valor real. La Escritura da ejemplos: la esposa de Lot, Acán (Jos 7:20-21), David y Betsabé (2S 11:2); Job, en cambio, hizo pacto con sus ojos (Job 31:1). Jesús contó la mirada codiciosa como adulterio en el corazón (Mt 5:28). Henry agrega la codicia: los ojos que se deleitan en riquezas y posesiones.", "fuentes": ["mac1j_03#10", "moodynt_02_c#6", "bea1j_01_b#8", "mbib1j_01_b#13", "kis1j_03_a#16", "mhenry_01_c#12"], "tipo": "exegesis"},
-        {"texto": "La vanagloria de la vida es la jactancia de lo que uno tiene y hace. Las dos primeras marcas son deseos internos y ocultos; esta, en cambio, es conducta externa y visible ante los demás (Kistemaker con Plummer). Es la ostentación de los bienes, el ansia de grandeza, honores y aplausos (Henry), un apetito por el progreso y el status social. MacArthur la ve como la arrogancia que posiblemente está detrás de todos los pecados, porque pone al yo en el centro (Ro 1:22-25). Ryrie lo resume diciendo que las tres frases ponen al ego en primer lugar, y que la estrategia del enemigo es hacer atractivo un sistema que prioriza el yo y el presente.", "fuentes": ["kis1j_03_a#15", "kis1j_03_a#17", "mhenry_01_c#12", "mbib1j_01_b#13", "mac1j_03#10", "r1_016#31"], "tipo": "exegesis"},
-        {"texto": "Todo esto «no proviene del Padre, sino del mundo»: la preposición señala origen. Kistemaker observa que Juan dice «el Padre» para recordar a los lectores que son hijos adoptivos de Dios y no pertenecen al mundo (Jn 8:47). MacArthur advierte, a la vez, que no se puede culpar solo a las influencias externas: la tentación viene del sistema del mundo, pero el pecado nace de los propios deseos y cada uno es responsable (Stg 1:13-16; Mr 7:14-23).", "fuentes": ["moodynt_02_c#6", "kis1j_03_a#15", "mac1j_03#9"], "tipo": "doctrina"}
+        {
+          "texto": "El v. 16 no es un inventario de todo lo que hay en el mundo sino, según Blaney, tres marcas esenciales de la mundanalidad. Henry las ve como las tres inclinaciones que dominan a la naturaleza caída; la Biblia MacArthur, como tres puertas que, abiertas al pecado, llevan a resultados trágicos.",
+          "fuentes": [
+            "bea1j_01_b#8",
+            "kis1j_03_a#15",
+            "mhenry_01_c#12",
+            "mbib1j_01_b#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Los deseos de la carne son los deseos que tiene la carne, es decir, la vieja naturaleza corrompida por el pecado. Blaney aclara que el mal no está en el cuerpo ni en el apetito legítimo sino en el deseo desordenado: glotonería, embriaguez, sexualidad fuera del orden de Dios. Kistemaker recuerda que ese deseo choca con el mandamiento de no codiciar (Ex 20:17) y da a luz el pecado (Stg 1:15).",
+          "fuentes": [
+            "moodynt_02_c#6",
+            "kis1j_03_a#16",
+            "kis1j_03_a#17",
+            "bea1j_01_b#8",
+            "mac1j_03#10"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Los deseos de los ojos: el ojo es un regalo de Dios, pero también una ventana a la tentación; el Moody lo llama la puerta por la que el mundo entra en la carne. Blaney habla de una curiosidad ilícita que involucra vista, mente e imaginación, y de dejarse cautivar por la apariencia sin preguntar por el valor real. Ejemplos: Acán (Jos 7:20-21) y David con Betsabé (2S 11:2); Job, en cambio, hizo pacto con sus ojos (Job 31:1). Jesús contó la mirada codiciosa como adulterio en el corazón (Mt 5:28).",
+          "fuentes": [
+            "mac1j_03#10",
+            "moodynt_02_c#6",
+            "bea1j_01_b#8",
+            "mbib1j_01_b#13",
+            "kis1j_03_a#16",
+            "mhenry_01_c#12"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La vanagloria de la vida es la jactancia de lo que uno tiene y hace. Las dos primeras marcas son deseos internos y ocultos; esta es conducta visible ante los demás (Kistemaker con Plummer): ostentación de bienes, ansia de honores y aplausos (Henry), apetito de status social. MacArthur la ve como la arrogancia que posiblemente está detrás de todos los pecados, porque pone al yo en el centro; Ryrie dice que las tres frases ponen al ego en primer lugar.",
+          "fuentes": [
+            "kis1j_03_a#15",
+            "kis1j_03_a#17",
+            "mhenry_01_c#12",
+            "mbib1j_01_b#13",
+            "mac1j_03#10",
+            "r1_016#31"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Todo esto «no proviene del Padre, sino del mundo»: la preposición señala origen. Kistemaker observa que Juan dice «el Padre» para recordar que los lectores son hijos de Dios y no pertenecen al mundo (Jn 8:47). MacArthur advierte que no se puede culpar solo a lo externo: el pecado nace de los propios deseos (Stg 1:13-16).",
+          "fuentes": [
+            "moodynt_02_c#6",
+            "kis1j_03_a#15",
+            "mac1j_03#9"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 2:17",
       "titulo": "Lo que pasa y lo que permanece",
       "notas": [
-        {"texto": "La tercera razón es la más sencilla: el mundo pasa, y sus deseos con él. El verbo está en presente: el mundo ya está pasando, es un proceso en marcha. El Moody saca la conclusión: es necedad poner el corazón en algo que ya empezó a desintegrarse. El Nuevo Comentario Bíblico lo llama un espectáculo pasajero camino a la ruina. Kistemaker, con 1 Corintios 7:31, dice que quien pone su interés en lo que hoy está y mañana no, cosecha inestabilidad y termina como el mundo.", "fuentes": ["moodynt_02_c#7", "mac1j_03#12", "ncb1j_01_a#24", "kis1j_03_a#18"], "tipo": "exegesis"},
-        {"texto": "Blaney lo aplica también a la historia personal: el orgullo y la diversión de la juventud pierden brillo con los años (Ec 12:1). Henry agrega que no solo se desvanecen las cosas del mundo: también el deseo mismo se apagará, mientras que el amor de Dios no falla nunca.", "fuentes": ["bea1j_01_b#9", "mhenry_01_c#12"], "tipo": "aplicacion"},
-        {"texto": "En cambio, «el que hace la voluntad de Dios permanece para siempre». El Moody hace notar que Juan no dice el que habla, ni siquiera el que ama, sino el que hace; y Kistemaker señala que el participio indica una acción continua. Juan se hace eco de Jesús: no todo el que le dice Señor entra en el reino, sino el que hace la voluntad del Padre (Mt 7:21; cf. 1P 4:2). Hacer esa voluntad muestra que se tiene vida eterna; MacArthur la resume como creer el evangelio, arrepentirse y recibir a Cristo (Jn 6:40). Blaney y Kistemaker coinciden en que la permanencia viene de la vida que el creyente posee en Cristo, y la Biblia MacArthur la apoya en que la voluntad de Dios no cambia.", "fuentes": ["moodynt_02_c#7", "kis1j_03_a#18", "mac1j_03#12", "bea1j_01_b#9", "mbib1j_01_b#14"], "tipo": "doctrina"}
+        {
+          "texto": "La tercera razón: el mundo pasa, y sus deseos con él. El verbo está en presente: ya está pasando. El Moody concluye que es necedad poner el corazón en algo que ya empezó a desintegrarse; el Nuevo Comentario Bíblico lo llama un espectáculo pasajero camino a la ruina. Kistemaker: quien se interesa en lo que hoy está y mañana no, cosecha inestabilidad y termina como el mundo (1Co 7:31).",
+          "fuentes": [
+            "moodynt_02_c#7",
+            "mac1j_03#12",
+            "ncb1j_01_a#24",
+            "kis1j_03_a#18"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Blaney lo aplica también a la historia personal: el orgullo y la diversión de la juventud pierden brillo con los años (Ec 12:1). Henry agrega que no solo se desvanecen las cosas del mundo: también el deseo mismo se apagará, mientras que el amor de Dios no falla nunca.",
+          "fuentes": [
+            "bea1j_01_b#9",
+            "mhenry_01_c#12"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "En cambio, «el que hace la voluntad de Dios permanece para siempre». El Moody nota que no dice el que habla, ni siquiera el que ama, sino el que hace, y el participio indica acción continua (Kistemaker). Es eco de Jesús: entra en el reino el que hace la voluntad del Padre (Mt 7:21). MacArthur la resume como creer el evangelio, arrepentirse y recibir a Cristo (Jn 6:40). Hacerla muestra que se tiene vida eterna, la vida en Cristo que no pasa.",
+          "fuentes": [
+            "moodynt_02_c#7",
+            "kis1j_03_a#18",
+            "mac1j_03#12",
+            "bea1j_01_b#9"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1J 2:15", "griego": "κόσμος", "translit": "kósmos", "significado": "Mundo. Puede ser el universo, el planeta o la humanidad; aquí, en sentido moral, el orden de vida organizado sin Dios, la humanidad caída bajo el maligno. El Moody recuerda que es lo opuesto a caos: un sistema ordenado, pero rival de Dios.", "fuentes": ["rich1j_01_b#4", "mac1j_03#7", "moodynt_02_c#5"]},
-    {"ref": "1J 2:15", "griego": "ἀγαπάω", "translit": "agapáō", "significado": "Amar con apego y lealtad. Juan elige este verbo y no φιλέω. Con negación y en presente imperativo (μὴ ἀγαπᾶτε) apunta a una acción en curso: dejen de amar o no lo tengan por costumbre.", "fuentes": ["kis1j_03_a#13", "cbmh1j_01_b#3"]},
-    {"ref": "1J 2:16", "griego": "ἐπιθυμία", "translit": "epithymía", "significado": "Deseo, anhelo. Puede ser bueno o malo; aquí es negativo, el deseo fuerte que empuja a transgredir. Se usa en forma colectiva.", "fuentes": ["mac1j_03#10", "kis1j_03_a#16", "mbib1j_01_b#13"]},
-    {"ref": "1J 2:16", "griego": "σάρξ", "translit": "sárx", "significado": "Carne: en este uso, la naturaleza humana corrompida por el pecado, no el cuerpo como tal.", "fuentes": ["bea1j_01_b#8", "moodynt_02_c#6"]},
-    {"ref": "1J 2:16", "griego": "ἀλαζονεία", "translit": "alazoneía", "significado": "Jactancia, alarde de un presuntuoso o de un impostor. En el Nuevo Testamento aparece solo aquí y en Stg 4:16. De ahí las distintas traducciones: soberbia de la vida, alarde de la opulencia, jactancia de las riquezas.", "fuentes": ["kis1j_03_a#17", "moodynt_02_c#6"]},
-    {"ref": "1J 2:16", "griego": "βίος", "translit": "bíos", "significado": "Vida en el sentido de manera de vivir, medios y posesiones; no ζωή, la vida en sí misma, que Juan usa para la vida eterna. Por eso la vanagloria de la vida es el orgullo por lo que se posee.", "fuentes": ["moodynt_02_c#6", "kis1j_03_a#17", "dbmh_02_b#23"]},
-    {"ref": "1J 2:17", "griego": "παράγω", "translit": "parágō", "significado": "Pasar, desaparecer. Está en presente (παράγεται): el mundo ya está pasando.", "fuentes": ["mac1j_03#12", "moodynt_02_c#7", "kis1j_03_a#18"]}
+    {
+      "ref": "1J 2:15",
+      "griego": "κόσμος",
+      "translit": "kósmos",
+      "significado": "Mundo: universo, planeta o humanidad; aquí, en sentido moral, el orden de vida organizado sin Dios, bajo el maligno. El Moody recuerda que es lo opuesto a caos: un sistema ordenado, pero rival de Dios.",
+      "fuentes": [
+        "rich1j_01_b#4",
+        "mac1j_03#7",
+        "moodynt_02_c#5"
+      ]
+    },
+    {
+      "ref": "1J 2:15",
+      "griego": "ἀγαπάω",
+      "translit": "agapáō",
+      "significado": "Amar con apego y lealtad. Juan elige este verbo y no φιλέω. Con negación y en presente imperativo (μὴ ἀγαπᾶτε) apunta a una acción en curso: dejen de amar o no lo tengan por costumbre.",
+      "fuentes": [
+        "kis1j_03_a#13",
+        "cbmh1j_01_b#3"
+      ]
+    },
+    {
+      "ref": "1J 2:16",
+      "griego": "ἐπιθυμία",
+      "translit": "epithymía",
+      "significado": "Deseo, anhelo. Puede ser bueno o malo; aquí es negativo, el deseo fuerte que empuja a transgredir. Se usa en forma colectiva.",
+      "fuentes": [
+        "mac1j_03#10",
+        "kis1j_03_a#16",
+        "mbib1j_01_b#13"
+      ]
+    },
+    {
+      "ref": "1J 2:16",
+      "griego": "ἀλαζονεία",
+      "translit": "alazoneía",
+      "significado": "Jactancia, alarde del presuntuoso o del impostor; solo aquí y en Stg 4:16. De ahí las traducciones: soberbia, alarde o jactancia de las riquezas.",
+      "fuentes": [
+        "kis1j_03_a#17",
+        "moodynt_02_c#6"
+      ]
+    },
+    {
+      "ref": "1J 2:16",
+      "griego": "βίος",
+      "translit": "bíos",
+      "significado": "Vida como manera de vivir, medios y posesiones; no ζωή, la vida misma. La vanagloria de la vida es el orgullo por lo que se posee.",
+      "fuentes": [
+        "moodynt_02_c#6",
+        "kis1j_03_a#17",
+        "dbmh_02_b#23"
+      ]
+    },
+    {
+      "ref": "1J 2:17",
+      "griego": "παράγω",
+      "translit": "parágō",
+      "significado": "Pasar, desaparecer. Está en presente (παράγεται): el mundo ya está pasando.",
+      "fuentes": [
+        "mac1j_03#12",
+        "moodynt_02_c#7",
+        "kis1j_03_a#18"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "La misma triple tentación del v. 16 aparece en el desierto. MacArthur lo ve así: el hambre de pan (la carne), el esplendor de los reinos del mundo (los ojos) y el salto desde el pináculo del templo (el orgullo). Donde Adán cayó, Jesús venció, respondiendo cada vez con la Palabra (Dt 8:3; 6:13, 16). Los creyentes, unidos a él, pueden resistir por las mismas sendas. Blaney, en cambio, duda de que se puedan sacar conclusiones firmes de ese paralelo (ver Interpretaciones).", "refs": ["Lc 4:1-13", "Mt 4:1-11"], "fuentes": ["mac1j_03#11", "bea1j_01_b#8"]},
-    {"texto": "Jesús es el Salvador del mundo (4:15): ama a la humanidad que el sistema del mundo tiene cautiva. Por la fe en él, el creyente vence al mundo (5:4-5). Owen une los dos textos: no amar al mundo, sino vencerlo por la fe que cree que Jesús es el Hijo de Dios.", "refs": ["1J 4:15", "1J 5:4-5"], "fuentes": ["kis1j_03_a#14", "r1_019#26"]},
-    {"texto": "Jesús oró al Padre no que sacara a los suyos del mundo sino que los protegiera (Jn 17:18). Kistemaker ve ahí la clave: Juan no pide aislarse, sino estar en el mundo sin ser del mundo. Además, quienes fueron comprados por precio deben mantenerse sin contaminarse.", "refs": ["Jn 17:18"], "fuentes": ["kis1j_03_a#19"]}
+    {
+      "texto": "La triple tentación del v. 16 aparece, según MacArthur, en el desierto: el hambre de pan (la carne), el esplendor de los reinos (los ojos) y el salto desde el pináculo (el orgullo). Donde Adán cayó, Jesús venció respondiendo con la Palabra (Dt 8:3; 6:13, 16), y los suyos pueden resistir como él (ver Interpretaciones).",
+      "refs": [
+        "Lc 4:1-13",
+        "Mt 4:1-11"
+      ],
+      "fuentes": [
+        "mac1j_03#11",
+        "bea1j_01_b#8"
+      ]
+    },
+    {
+      "texto": "Jesús es el Salvador del mundo (4:15): ama a la humanidad que el sistema del mundo tiene cautiva. Por la fe en él, el creyente vence al mundo (5:4-5). Owen une los dos textos: no amar al mundo, sino vencerlo por la fe que cree que Jesús es el Hijo de Dios.",
+      "refs": [
+        "1J 4:15",
+        "1J 5:4-5"
+      ],
+      "fuentes": [
+        "kis1j_03_a#14",
+        "r1_019#26"
+      ]
+    },
+    {
+      "texto": "Jesús pidió al Padre no que sacara a los suyos del mundo sino que los protegiera (Jn 17:18). Por eso, dice Kistemaker, Juan no pide aislarse: estamos en el mundo, pero no somos del mundo.",
+      "refs": [
+        "Jn 17:18"
+      ],
+      "fuentes": [
+        "kis1j_03_a#19"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Hay un paralelo entre el v. 16 y las tentaciones de Jesús en el desierto?",
       "posturas": [
-        {"postura": "Sí: la misma triple matriz de tentación aparece en Edén (Gn 3:1-7) y en el desierto (Lc 4:1-13), y Jesús venció donde Adán cayó.", "quien": "MacArthur", "fuentes": ["mac1j_03#11"]},
-        {"postura": "Algunos ven el paralelo, pero es difícil sacar de él conclusiones significativas.", "quien": "Blaney (Comentario Beacon)", "fuentes": ["bea1j_01_b#8"]}
+        {
+          "postura": "Sí: la misma triple matriz de tentación aparece en Edén (Gn 3:1-7) y en el desierto (Lc 4:1-13), y Jesús venció donde Adán cayó.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac1j_03#11"
+          ]
+        },
+        {
+          "postura": "Algunos ven el paralelo, pero es difícil sacar de él conclusiones significativas.",
+          "quien": "Blaney (Comentario Beacon)",
+          "fuentes": [
+            "bea1j_01_b#8"
+          ]
+        }
       ],
       "nota": "La relación con Génesis 3:6 la señalan varios autores (Bedford, el Nuevo Comentario Bíblico, MacArthur); la discusión es sobre el paralelo con el desierto."
     },
     {
       "tema": "¿Qué es lo que «pasa» en el v. 17?",
       "posturas": [
-        {"postura": "Aunque Juan habla en otros lugares del último tiempo y del juicio, aquí piensa sobre todo en el mundo sin Dios: la vida edificada sobre el orgullo y el desafío a Dios no puede sobrevivir. La permanencia del creyente también es ante todo moral y espiritual, por la vida en Cristo.", "quien": "Blaney (Comentario Beacon)", "fuentes": ["bea1j_01_b#9"]},
-        {"postura": "No se refiere a la destrucción del universo físico (2P 3:10, que ubica al final del milenio) sino a la del sistema mundial satánico y sus ideologías, que ya lleva en sí las semillas de su desintegración. Los impíos no dejan de existir: rechaza la aniquilación y afirma el castigo eterno (2Ts 1:6-10).", "quien": "MacArthur", "fuentes": ["mac1j_03#12"]},
-        {"postura": "Es una de las referencias indirectas de la carta al regreso de Cristo: el mundo y sus deseos llegarán a su fin, en la última hora que abarca toda la era presente (2:18).", "quien": "Kistemaker", "fuentes": ["kis1j_02_a#1"]},
-        {"postura": "Ve en el v. 17 el final del sistema del mundo, tal como lo describen Apocalipsis 17-19 y Daniel 2:34-35, 44.", "quien": "Ryrie (Teología básica)", "fuentes": ["r1_016#31"]}
+        {
+          "postura": "Aquí piensa sobre todo en el mundo sin Dios: la vida edificada sobre el orgullo y el desafío a Dios no puede sobrevivir; la permanencia del creyente es ante todo moral y espiritual.",
+          "quien": "Blaney (Comentario Beacon)",
+          "fuentes": [
+            "bea1j_01_b#9"
+          ]
+        },
+        {
+          "postura": "No es la destrucción del universo físico (2P 3:10, al final del milenio) sino la del sistema mundial satánico, que ya lleva en sí su desintegración; los impíos no dejan de existir sino que sufren castigo eterno.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac1j_03#12"
+          ]
+        },
+        {
+          "postura": "Es una de las referencias indirectas de la carta al regreso de Cristo: el mundo y sus deseos llegarán a su fin, en la última hora que abarca toda la era presente (2:18).",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1j_02_a#1"
+          ]
+        },
+        {
+          "postura": "Ve en el v. 17 el final del sistema del mundo, tal como lo describen Apocalipsis 17-19 y Daniel 2:34-35, 44.",
+          "quien": "Ryrie (Teología básica)",
+          "fuentes": [
+            "r1_016#31"
+          ]
+        }
       ],
-      "nota": "Todos coinciden en que el mundo opuesto a Dios es pasajero y en que quien hace la voluntad de Dios permanece para siempre. Las diferencias están en cuánto mira el versículo al fin de la historia."
+      "nota": "Todos coinciden en que el mundo opuesto a Dios es pasajero y en que quien hace la voluntad de Dios permanece."
     },
     {
       "tema": "¿Qué pasa con el creyente que se siente atraído por el mundo?",
       "posturas": [
-        {"postura": "No hay terreno intermedio: quien ama al mundo muestra que no es regenerado. Demas, que amó este mundo, probó que nunca había amado a Dios.", "quien": "MacArthur y la Biblia MacArthur", "fuentes": ["mbib1j_01_b#12", "mac1j_03#5"]},
-        {"postura": "El amor al mundo es una causa de apostasía, que se ve tanto en la persecución como en tiempos de popularidad; da el ejemplo de Demas y de la semilla ahogada entre espinos.", "quien": "John Owen (Apostasía del evangelio)", "fuentes": ["r1_019#26"]},
-        {"postura": "El texto no habla de un incidente sino de un estilo de vida, de quienes ya cambiaron su lealtad. Los creyentes, por la carne que todavía tienen, son tentados, y la atracción ocasional les trae convicción y arrepentimiento.", "quien": "Kistemaker; MacArthur y Mayhue", "fuentes": ["kis1j_03_a#13", "mac1j_03#8", "r1_018_a#22"]}
+        {
+          "postura": "No hay terreno intermedio: quien ama al mundo muestra que no es regenerado. Demas, que amó este mundo, probó que nunca había amado a Dios.",
+          "quien": "MacArthur y la Biblia MacArthur",
+          "fuentes": [
+            "mbib1j_01_b#12",
+            "mac1j_03#5"
+          ]
+        },
+        {
+          "postura": "El amor al mundo es una causa de apostasía, que aparece tanto en la persecución como en tiempos de aceptación (Demas; la semilla entre espinos, Mr 4:18-19).",
+          "quien": "John Owen (Apostasía del evangelio)",
+          "fuentes": [
+            "r1_019#26"
+          ]
+        },
+        {
+          "postura": "El texto describe un estilo de vida, no un incidente. Los creyentes, por la carne que todavía tienen, son tentados; la atracción les trae convicción, confesión y arrepentimiento.",
+          "quien": "Kistemaker; MacArthur y Mayhue",
+          "fuentes": [
+            "kis1j_03_a#13",
+            "mac1j_03#8",
+            "r1_018_a#22"
+          ]
+        }
       ],
-      "nota": "Matthew Henry advierte contra los esfuerzos por suavizar el pasaje con excepciones: su sentido es evidente, y sin velar y orar no se vence al mundo. Las diferencias sobre la apostasía y la seguridad se tratan en el anexo T3."
+      "nota": "Henry advierte contra suavizar el pasaje con excepciones: su sentido es evidente, y sin velar y orar no se vence al mundo. Ver el anexo T3."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Gn 3:6", "nota": "Bedford, el Nuevo Comentario Bíblico y la Biblia MacArthur comparan las tres cosas del v. 16 con lo que llevó a Eva y a Adán a desobedecer: según MacArthur, el deseo de comida (la carne), la atracción de algo hermoso (los ojos) y la codicia de sabiduría (la vanagloria). La tentación fue algo bello en apariencia y su resultado, muerte espiritual.", "fuentes": ["cbmh1j_01_b#3", "ncb1j_01_a#24", "mbib1j_01_b#13", "mac1j_03#11"]},
-    {"ref": "Ex 20:17", "nota": "El deseo de la carne es malo porque lleva a desobedecer el mandamiento de no codiciar (también Dt 5:21).", "fuentes": ["kis1j_03_a#16"]},
-    {"ref": "Dt 8:3", "nota": "Con Dt 8:3 y 6:13, 16 Jesús rechazó cada una de las tres apelaciones del tentador en el desierto.", "fuentes": ["mac1j_03#11"]},
-    {"ref": "Sal 97:10", "nota": "Dios, que ama perfectamente, también aborrece el mal, y pide a los que lo aman que lo aborrezcan con él (también Pr 8:13; 6:16-19).", "fuentes": ["mac1j_03#6"]}
+    {
+      "ref": "Gn 3:6",
+      "nota": "Varios autores comparan el v. 16 con lo que llevó a Eva y a Adán a desobedecer: según MacArthur, el deseo de comida (la carne), la atracción de algo hermoso (los ojos) y la codicia de sabiduría (la vanagloria).",
+      "fuentes": [
+        "cbmh1j_01_b#3",
+        "ncb1j_01_a#24",
+        "mbib1j_01_b#13",
+        "mac1j_03#11"
+      ]
+    },
+    {
+      "ref": "Ex 20:17",
+      "nota": "El deseo de la carne es malo porque lleva a desobedecer el mandamiento de no codiciar (también Dt 5:21).",
+      "fuentes": [
+        "kis1j_03_a#16"
+      ]
+    },
+    {
+      "ref": "Sal 97:10",
+      "nota": "Dios, que ama perfectamente, también aborrece el mal, y pide a los que lo aman que lo aborrezcan con él (también Pr 8:13; 6:16-19).",
+      "fuentes": [
+        "mac1j_03#6"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Demas había trabajado junto a Marcos, Lucas, Tito y otros, pero amó este mundo y se fue a Tesalónica, una ciudad grande y cosmopolita en la ruta comercial entre oriente y occidente (2Ti 4:10). MacArthur lo pone como retrato del amor que Dios aborrece.", "autor": "John MacArthur", "obra": "1, 2 y 3 Juan (Comentario MacArthur)", "pagina": "PDF 58-59", "tipo": "ilustracion", "fuentes": ["mac1j_03#5"]},
-    {"texto": "Blaney, citando a Maurice: los cristianos no debían huir de ningún lugar ni de ninguna persona, pero en cualquier lugar encontrarían un mundo al cual no amar.", "autor": "Harvey J. S. Blaney", "obra": "Comentario Bíblico Beacon, 1 Juan", "pagina": "PDF 249-250", "tipo": "aplicacion", "fuentes": ["bea1j_01_b#7"]},
-    {"texto": "Hacia fines del siglo I la sociedad pagana estaba marcada por la inmoralidad, la codicia, el soborno y el desprecio por la vida; la iglesia buscó ser una influencia que moderara con honestidad, moralidad y respeto por la vida y la propiedad, sin transigir con el espíritu de la época.", "autor": "Simon J. Kistemaker", "obra": "Comentario al Nuevo Testamento: 1 Juan", "pagina": "PDF 229 (p. 313)", "tipo": "historia", "fuentes": ["kis1j_03_a#19"]},
-    {"texto": "Ryrie da tres pautas para el creyente frente al mundo: separación (ser como Cristo en este mundo), usar sin abusar y disfrutar sin amar. Y define un ídolo como cualquier cosa que levanta una barrera entre el creyente y su amor a Dios.", "autor": "Charles C. Ryrie", "obra": "Teología básica", "pagina": "PDF 66-67", "tipo": "doctrina", "fuentes": ["r1_016#31"]},
-    {"texto": "En su lista de versículos para quien lucha con el orgullo, Kendrick incluye 1 Juan 2:16 junto a Salmo 10:4, Proverbios 16:18, Romanos 12:3 y Santiago 4:6-10.", "autor": "Kendrick", "obra": "El plan de batalla para la oración", "pagina": "PDF 217", "tipo": "aplicacion", "fuentes": ["r1_004#17"]}
+    {
+      "texto": "Demas, que había trabajado junto a Marcos y Lucas, amó este mundo y se fue a Tesalónica, ciudad cosmopolita en la ruta comercial (2Ti 4:10): para MacArthur, retrato del amor que Dios aborrece.",
+      "autor": "John MacArthur",
+      "obra": "1, 2 y 3 Juan (Comentario MacArthur)",
+      "pagina": "PDF 58-59",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "mac1j_03#5"
+      ]
+    },
+    {
+      "texto": "Blaney, citando a Maurice: los cristianos no debían huir de ningún lugar ni de ninguna persona, pero en cualquier lugar encontrarían un mundo al cual no amar.",
+      "autor": "Harvey J. S. Blaney",
+      "obra": "Comentario Bíblico Beacon, 1 Juan",
+      "pagina": "PDF 249-250",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "bea1j_01_b#7"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Stg 4:4", "nota": "La amistad con el mundo es enemistad con Dios: la misma incompatibilidad que plantea el v. 15.", "fuentes": ["kis1j_03_a#13", "moodynt_02_c#5"]},
-    {"ref": "Mt 6:24", "nota": "Nadie puede servir a dos señores (también Lc 16:13): un corazón no puede tener dos amores rivales.", "fuentes": ["bea1j_01_b#7", "moodynt_02_c#6", "kis1j_03_a#13"]},
-    {"ref": "1Co 7:31", "nota": "Usar las cosas del mundo sin abusar de ellas, porque la apariencia de este mundo se pasa.", "fuentes": ["moodynt_02_c#5", "kis1j_03_a#18", "r1_016#31"]},
-    {"ref": "1J 5:19", "nota": "El mundo entero está bajo el maligno: por eso este mundo no puede ser objeto del amor del creyente.", "fuentes": ["mac1j_03#7", "rich1j_01_b#4", "moodynt_02_c#5"]},
-    {"ref": "2Ti 4:10", "nota": "Demas, amando este mundo, abandonó a Pablo; Owen lo une a la semilla ahogada por los afanes y las riquezas (Mr 4:18-19).", "fuentes": ["mac1j_03#5", "r1_019#26"]},
-    {"ref": "Fil 3:3-11", "nota": "Pablo es para MacArthur ejemplo de alguien que aprendió a amar los propósitos de Dios en lugar del mundo.", "fuentes": ["mac1j_03#12"]}
+    {
+      "ref": "Stg 4:4",
+      "nota": "La amistad con el mundo es enemistad con Dios: la misma incompatibilidad que plantea el v. 15.",
+      "fuentes": [
+        "kis1j_03_a#13",
+        "moodynt_02_c#5"
+      ]
+    },
+    {
+      "ref": "1Co 7:31",
+      "nota": "Usar las cosas del mundo sin abusar de ellas, porque la apariencia de este mundo se pasa.",
+      "fuentes": [
+        "moodynt_02_c#5",
+        "kis1j_03_a#18",
+        "r1_016#31"
+      ]
+    },
+    {
+      "ref": "1J 5:19",
+      "nota": "El mundo entero está bajo el maligno: por eso este mundo no puede ser objeto del amor del creyente.",
+      "fuentes": [
+        "mac1j_03#7",
+        "rich1j_01_b#4",
+        "moodynt_02_c#5"
+      ]
+    },
+    {
+      "ref": "2Ti 4:10",
+      "nota": "Demas, amando este mundo, abandonó a Pablo; Owen lo une a la semilla ahogada entre espinos (Mr 4:18-19).",
+      "fuentes": [
+        "mac1j_03#5",
+        "r1_019#26"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "No se trata de alejarse de la gente ni de despreciar lo que Dios creó: pueden disfrutar de una comida, de un paisaje o de su casa con gratitud. La pregunta es otra: ¿qué ocupa el primer lugar en el corazón? Ryrie lo dice así: un ídolo es lo que se interpone entre ustedes y su amor a Dios.", "fuentes": ["mac1j_03#7", "mhenry_01_c#12", "r1_016#31", "mbib1j_01_b#11"]},
-    {"texto": "Revisen juntos las tres puertas. La de los ojos hoy pasa mucho por las pantallas: Blaney advertía sobre el erotismo en la publicidad y el entretenimiento, que es egoísta y se presenta como amor. La de la vanagloria pasa por mostrar lo que se tiene y lo que se logra. Como matrimonio pueden ayudarse a cuidar esas puertas, igual que Job hizo pacto con sus ojos.", "fuentes": ["bea1j_01_b#8", "mac1j_03#10", "kis1j_03_a#17"]},
-    {"texto": "Cuando sientan la atracción del mundo, no la escondan: el camino es la convicción, la confesión y el arrepentimiento, y también la gratitud por haber dejado de amarlo. Henry recuerda que sin velar y orar no se vence al mundo, y Owen que se lo vence por la fe en Jesús, el Hijo de Dios.", "fuentes": ["r1_018_a#22", "mhenry_01_c#13", "r1_019#26"]},
-    {"texto": "Antes de una decisión de plata, de trabajo o de tiempo, pregúntense qué de eso va a permanecer. Lo que hoy está y mañana no deja inestabilidad; hacer la voluntad de Dios es lo único que dura para siempre.", "fuentes": ["kis1j_03_a#18", "moodynt_02_c#7", "mbib1j_01_b#14"]}
+    {
+      "texto": "No se trata de alejarse de la gente ni de despreciar lo creado: pueden disfrutar de una comida o de su casa con gratitud. La pregunta es qué ocupa el primer lugar. Ryrie: un ídolo es lo que se interpone entre ustedes y su amor a Dios.",
+      "fuentes": [
+        "mac1j_03#7",
+        "mhenry_01_c#12",
+        "r1_016#31",
+        "mbib1j_01_b#11"
+      ]
+    },
+    {
+      "texto": "Revisen juntos las tres puertas. La de los ojos hoy pasa mucho por las pantallas (Blaney ya advertía sobre el erotismo en la publicidad y el entretenimiento); la de la vanagloria, por mostrar lo que se tiene y se logra. Como matrimonio pueden ayudarse a cuidarlas.",
+      "fuentes": [
+        "bea1j_01_b#8",
+        "mac1j_03#10",
+        "kis1j_03_a#17"
+      ]
+    },
+    {
+      "texto": "Cuando sientan la atracción del mundo, no la escondan: convicción, confesión y arrepentimiento. Henry recuerda que sin velar y orar no se lo vence; Owen, que se lo vence por la fe en Jesús.",
+      "fuentes": [
+        "r1_018_a#22",
+        "mhenry_01_c#13",
+        "r1_019#26"
+      ]
+    }
   ],
   "para_conversar": [
     "Con lo que vimos hoy, ¿cómo le explicarían a alguien la diferencia entre el mundo que Dios ama (Jn 3:16) y el mundo que no hay que amar?",
@@ -137,11 +521,44 @@
     "Si el mundo ya está pasando, ¿qué cambiaría en la forma en que usan su tiempo, su plata y su casa si pensaran en lo que permanece?"
   ],
   "para_orar": "Padre, gracias porque nos amaste y enviaste a tu Hijo al mundo. Guardanos del mundo que pasa: cuidá nuestros ojos, nuestros deseos y nuestro orgullo, y danos un solo corazón para amarte a vos y hacer tu voluntad, que permanece para siempre. En el nombre de Jesús, que venció la tentación por nosotros. Amén.",
-  "visuales": ["dg-estructura-1j", "dg-pruebas-1j"],
-  "anexos": ["P3", "T3"],
+  "visuales": [
+    "dg-estructura-1j",
+    "dg-pruebas-1j"
+  ],
+  "anexos": [
+    "P3",
+    "T3"
+  ],
   "profundizar": [
-    {"titulo": "Dios ama perfectamente y aborrece perfectamente", "texto": "MacArthur introduce el pasaje recordando que, aunque Juan repite que Dios es amor, la Escritura también muestra que Dios aborrece cierto amor: el amor al mundo. Porque es santo, ama todo lo justo y odia todo lo que se le opone, y pide a los que lo aman que compartan su rechazo del mal (Sal 97:10; 119:104; Pr 8:13). Proverbios 6:16-19 enumera cosas que Dios aborrece porque contradicen su naturaleza.", "fuentes": ["mac1j_03#6", "mbib1j_01_b#11"]},
-    {"titulo": "Qué dice el v. 16 sobre el pecado", "texto": "Al comentar «todo lo que hay en el mundo», MacArthur repasa la naturaleza del pecado: es infracción de la ley (1J 3:4), tiene sus raíces en el corazón, es rebelde y desagradecido, humanamente incurable (Is 1:4-6; Jer 13:23), universal (Sal 14:3) y esclavizante, y deriva de Adán (Ro 5:12-21). Kistemaker recoge que Marshall habla de depravación total en el sentido de que la maldad del mundo es universal, no de que sea tan mala como podría ser.", "fuentes": ["mac1j_03#9", "kis1j_03_a#15"]},
-    {"titulo": "La gramática del v. 16", "texto": "Kistemaker señala que «el deseo de la carne» y «el deseo de los ojos» se leen como genitivos subjetivos (los deseos que la carne y los ojos tienen), y que el singular de πᾶν τό («todo lo que») destaca cada vicio por separado. Las versiones traducen la tercera frase de maneras muy distintas (soberbia de la vida, alarde de la opulencia, arrogancia del dinero, jactancia de las riquezas, alarde de lo que tiene y hace) porque ἀλαζονεία y βίος juntos apuntan al orgullo por la posición y las posesiones.", "fuentes": ["kis1j_03_a#17"]}
+    {
+      "titulo": "Dios ama perfectamente y aborrece perfectamente",
+      "texto": "MacArthur introduce el pasaje recordando que, aunque Juan repite que Dios es amor, la Escritura también muestra que Dios aborrece cierto amor: el amor al mundo. Porque es santo, ama todo lo justo y odia todo lo que se le opone, y pide a los que lo aman que compartan su rechazo del mal (Sal 97:10; 119:104; Pr 8:13). Proverbios 6:16-19 enumera cosas que Dios aborrece porque contradicen su naturaleza.",
+      "fuentes": [
+        "mac1j_03#6",
+        "mbib1j_01_b#11"
+      ]
+    },
+    {
+      "titulo": "Qué dice el v. 16 sobre el pecado",
+      "texto": "Al comentar «todo lo que hay en el mundo», MacArthur repasa la naturaleza del pecado: es infracción de la ley (1J 3:4), tiene sus raíces en el corazón, es rebelde y desagradecido, humanamente incurable (Is 1:4-6; Jer 13:23), universal (Sal 14:3) y esclavizante, y deriva de Adán (Ro 5:12-21). Kistemaker recoge que Marshall habla de depravación total en el sentido de que la maldad del mundo es universal, no de que sea tan mala como podría ser.",
+      "fuentes": [
+        "mac1j_03#9",
+        "kis1j_03_a#15"
+      ]
+    },
+    {
+      "titulo": "La gramática del v. 16",
+      "texto": "Kistemaker señala que «el deseo de la carne» y «el deseo de los ojos» se leen como genitivos subjetivos (los deseos que la carne y los ojos tienen), y que el singular de πᾶν τό («todo lo que») destaca cada vicio por separado. Las versiones traducen la tercera frase de maneras muy distintas (soberbia de la vida, alarde de la opulencia, arrogancia del dinero, jactancia de las riquezas, alarde de lo que tiene y hace) porque ἀλαζονεία y βίος juntos apuntan al orgullo por la posición y las posesiones.",
+      "fuentes": [
+        "kis1j_03_a#17"
+      ]
+    },
+    {
+      "titulo": "El mundo de fines del siglo I",
+      "texto": "Kistemaker describe la sociedad pagana de fines del siglo I marcada por la inmoralidad, la codicia, el soborno y el desprecio por la vida; la iglesia buscó ser una influencia moderadora con honestidad, moralidad y respeto por la vida y la propiedad, sin transigir con el espíritu de la época.",
+      "fuentes": [
+        "kis1j_03_a#19"
+      ]
+    }
   ]
 }

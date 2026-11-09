@@ -4,158 +4,613 @@
   "desde": "1J 2:7",
   "hasta": "1J 2:14",
   "titulo": "El mandamiento nuevo y antiguo y hijitos, padres y jóvenes",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer (1J 2:1-6) Juan presentó a Jesucristo como Abogado y propiciación, y dio una prueba: quien dice que permanece en él debe andar como él anduvo, guardando sus mandamientos.",
     "ahora": "Juan dice cuál es el mandamiento que resume ese andar: el amor a los hermanos, antiguo y nuevo a la vez, y lo usa como prueba de quién está de verdad en la luz. Después cambia de tono y anima a toda la familia de la fe (hijitos, padres y jóvenes) recordándoles lo que ya tienen en Cristo.",
     "despues": "Mañana (1J 2:15-17): sobre esa base viene el llamado a no amar al mundo, porque el mundo pasa y el que hace la voluntad de Dios permanece.",
-    "fuentes": ["bea1j_01_b#2", "mbib1j_01_b#6", "r1_007_b#10", "moodynt_02_c#3", "cbmh1j_01_b#1"]
+    "fuentes": [
+      "bea1j_01_b#2",
+      "mbib1j_01_b#6",
+      "r1_007_b#10",
+      "moodynt_02_c#3",
+      "cbmh1j_01_b#1"
+    ]
   },
   "versiculo_clave": {
     "ref": "1J 2:10",
     "porque": "Resume la prueba del día: el amor al hermano no es un adorno de la fe sino la señal de que alguien vive en la luz de Dios, y quien ama camina sin hacer tropezar ni tropezar."
   },
   "panorama": {
-    "texto": "Juan pasa del conocimiento y la obediencia al amor. El mandamiento que tiene en mente, aunque no lo nombra, es el de amarse unos a otros: antiguo, porque la Escritura ya lo mandaba y los lectores lo oyeron desde que creyeron; nuevo, porque Cristo lo cumplió de una manera nunca vista y lo puso en el corazón de los suyos. Con ese mandamiento Juan desarma otra pretensión vacía: decir que se está en la luz mientras se aborrece al hermano. Luz y odio no conviven; el odio ciega. Pero el apóstol no termina en la advertencia: en un pasaje casi poético se dirige a hijitos, padres y jóvenes para asegurarles que sus pecados están perdonados, que conocen al Padre y al que es desde el principio, y que han vencido al maligno por la palabra que permanece en ellos.",
-    "fuentes": ["kis1j_02_b#12", "ncb1j_01_a#22", "mbib1j_01_b#7", "bea1j_01_b#3", "kis1j_03_a#11", "ncb1j_01_a#23"]
+    "texto": "Juan pasa del conocimiento y la obediencia al amor. El mandamiento que tiene en mente es el de amarse unos a otros: antiguo, porque la Escritura ya lo mandaba y los lectores lo oyeron desde que creyeron; nuevo, porque Cristo lo cumplió como nunca se había visto y lo puso en el corazón de los suyos. Con él Juan desarma otra pretensión vacía: decir que se está en la luz mientras se aborrece al hermano. Luz y odio no conviven; el odio ciega. Pero no termina en la advertencia: se dirige a hijitos, padres y jóvenes para asegurarles lo que ya tienen en Cristo.",
+    "fuentes": [
+      "kis1j_02_b#12",
+      "ncb1j_01_a#22",
+      "mbib1j_01_b#7",
+      "bea1j_01_b#3",
+      "kis1j_03_a#11",
+      "ncb1j_01_a#23"
+    ]
   },
   "secciones": [
     {
       "rango": "1J 2:7",
       "titulo": "No es un mandamiento nuevo",
       "notas": [
-        {"texto": "La RVR1960 empieza con «Hermanos», pero varios comentaristas señalan que la mejor lectura del griego es amados, un término cariñoso que Juan usa por primera vez aquí y que repite en 3:2, 21 y 4:1, 7, 11. Kistemaker agrega que es un adjetivo de sentido pasivo: amados por Dios. Juan, al que MacArthur llama el apóstol del amor, habla como un pastor que quiere a su gente justo antes de decirles algo importante.", "fuentes": ["kis1j_02_b#12", "kis1j_02_b#16", "moodynt_02_c#2", "ncb1j_01_a#22", "cbmh1j_01_a#40", "bea1j_01_b#1", "mac1j_02#19"], "tipo": "exegesis"},
-        {"texto": "Juan no nombra el mandamiento, pero el contexto (vv. 9-10) muestra que es el de amarse unos a otros. Y en eso no hay novedad: Dios ya había mandado en Sinaí amar al prójimo como a uno mismo (Lv 19:18), el credo de Israel mandaba amar a Dios con todo el corazón (Dt 6:5), y Jesús resumió la ley en esos dos mandamientos (Mt 22:34-40). Moody hace notar que este mandamiento y el andar como él anduvo del v. 6 son, en esencia, lo mismo.", "fuentes": ["kis1j_02_b#12", "mac1j_02#18", "mac1j_02#19", "moodynt_02_c#2", "bea1j_01_b#1"], "tipo": "exegesis"},
-        {"texto": "Los lectores lo tenían «desde el principio»: es «la palabra que habéis oído» cuando el evangelio les llegó por primera vez. La mayoría de los autores entiende ese principio como el comienzo de su vida cristiana (ver Interpretaciones). El punto es pastoral y polémico a la vez: Juan no está inventando nada, como quizá lo acusaban los falsos maestros; les recuerda la enseñanza que recibieron desde el día en que creyeron. Kistemaker anota que los mejores manuscritos omiten la segunda mención de desde el principio, al final del versículo.", "fuentes": ["mbib1j_01_b#7", "mac1j_02#19", "moodynt_02_c#2", "kis1j_02_b#12"], "tipo": "exegesis"}
+        {
+          "texto": "La RVR1960 empieza con «Hermanos», pero los comentaristas señalan que la mejor lectura griega es amados (ver Palabras), un término cariñoso que Juan usa aquí por primera vez y repite cinco veces más (3:2, 21; 4:1, 7, 11). Habla como un pastor que quiere a su gente justo antes de decirles algo importante.",
+          "fuentes": [
+            "kis1j_02_b#12",
+            "moodynt_02_c#2",
+            "ncb1j_01_a#22",
+            "cbmh1j_01_a#40",
+            "bea1j_01_b#1"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Juan no nombra el mandamiento, pero los vv. 9-10 muestran que es el de amarse unos a otros. Y no es novedad: Dios ya había mandado en Sinaí amar al prójimo (Lv 19:18), el credo de Israel mandaba amar a Dios con todo el corazón (Dt 6:5) y Jesús resumió la ley en esos dos mandamientos (Mt 22:34-40). Moody nota que este mandamiento y el andar como él anduvo del v. 6 son, en esencia, lo mismo.",
+          "fuentes": [
+            "kis1j_02_b#12",
+            "mac1j_02#18",
+            "mac1j_02#19",
+            "moodynt_02_c#2"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Lo tenían «desde el principio»: es «la palabra que habéis oído» cuando les llegó el evangelio (sobre qué principio, ver Interpretaciones). Juan no inventa nada, como quizá lo acusaban los falsos maestros: recuerda lo que recibieron desde el día en que creyeron.",
+          "fuentes": [
+            "mbib1j_01_b#7",
+            "mac1j_02#19",
+            "moodynt_02_c#2"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 2:8",
       "titulo": "Y sin embargo, nuevo: verdadero en él y en ustedes",
       "notas": [
-        {"texto": "Juan dice primero que no escribe un mandamiento nuevo y enseguida que sí. No es contradicción sino un juego de palabras: es el mismo mandamiento visto desde dos lados. La palabra nuevo no señala algo recién aparecido en el calendario sino algo fresco en calidad, que reemplaza lo gastado (ver Palabras). Blaney lo resume con una imagen: era antiguo, pero no obsoleto.", "fuentes": ["mbib1j_01_b#7", "mac1j_02#20", "bea1j_01_b#1", "kis1j_02_b#16"], "tipo": "exegesis"},
-        {"texto": "¿En qué es nuevo? Los autores coinciden en lo central: Cristo lo cumplió primero y lo cumplió como nadie. Antes de él el amor se mandaba; en él se vio en carne y hueso, y por eso es «verdadero en él». Kistemaker muestra cómo Jesús amplió su alcance: el prójimo de Levítico incluía al compatriota y al extranjero, pero Jesús lo extendió con la parábola del buen samaritano y el amor al enemigo, y fue amigo de publicanos y pecadores. Quitó los límites de factura humana y mostró la intención de Dios desde siempre.", "fuentes": ["ncb1j_01_a#22", "cbmh1j_01_a#40", "mac1j_02#20", "kis1j_02_b#13"], "tipo": "doctrina"},
-        {"texto": "También es «verdadero en vosotros»: Cristo transfiere su amor al corazón de los suyos. MacArthur lo vincula con el amor de Dios derramado por el Espíritu (Ro 5:5), cuyo fruto principal es el amor; Bedford insiste en que el amor no se fuerza, fluye de un corazón regenerado. Kistemaker llama a esto el aspecto testimonial: una comunión marcada por ese amor lleva el sello de Cristo (cita a Bruce). Moody propone traducir así: os escribo un mandamiento nuevo, a saber, el que es verdadero.", "fuentes": ["ncb1j_01_a#22", "mac1j_02#20", "cbmh1j_01_a#40", "kis1j_02_b#13", "moodynt_02_c#2"], "tipo": "doctrina"},
-        {"texto": "La razón que da Juan es de época: «las tinieblas van pasando, y la luz verdadera ya alumbra». El verbo está en presente: las tinieblas no desaparecieron, están siendo disipadas por la luz del evangelio. Hay dos mundos que conviven por ahora, uno que se va y otro que ya brilla. La luz es verdadera, explica Kistemaker, porque cualquier otra es solo un reflejo que termina en desencanto (Jn 1:9). Y como esa luz ya alumbra, Juan invita a vivir como hijos de luz.", "fuentes": ["kis1j_02_b#14", "kis1j_02_b#16", "moodynt_02_c#2", "cbmh1j_01_a#40"], "tipo": "exegesis"},
-        {"texto": "Kistemaker hace notar que Juan escribió esto a fines del siglo I, cuando el emperador perseguía a los cristianos y la luz del cristianismo parecía insignificante. Aun así pudo decir que las tinieblas pasan: no miraba las apariencias sino lo que produce vivir a la luz del evangelio.", "fuentes": ["kis1j_02_b#15"], "tipo": "aplicacion"}
+        {
+          "texto": "Juan dice que no escribe un mandamiento nuevo y enseguida que sí. No es contradicción sino un juego de palabras: el mismo mandamiento visto desde dos lados. Nuevo no señala algo reciente en el calendario sino algo fresco en calidad, que reemplaza lo gastado (ver Palabras). Blaney lo resume: era antiguo, pero no obsoleto.",
+          "fuentes": [
+            "mbib1j_01_b#7",
+            "mac1j_02#20",
+            "bea1j_01_b#1"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿En qué es nuevo? Los autores coinciden: Cristo lo cumplió primero y como nadie; en él el amor se vio en carne y hueso, y por eso es «verdadero en él» (ver Cristo). Kistemaker muestra además cómo Jesús amplió su alcance: el prójimo de Levítico incluía al compatriota y al extranjero, pero Jesús lo extendió con el buen samaritano y el amor al enemigo, y fue amigo de publicanos y pecadores.",
+          "fuentes": [
+            "ncb1j_01_a#22",
+            "cbmh1j_01_a#40",
+            "mac1j_02#20",
+            "kis1j_02_b#13"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "También es «verdadero en vosotros»: Cristo transfiere su amor al corazón de los suyos. MacArthur lo vincula con el amor de Dios derramado por el Espíritu (Ro 5:5); Bedford insiste en que el amor no se fuerza, fluye de un corazón regenerado. Una comunión marcada por ese amor lleva el sello de Cristo (Kistemaker, con Bruce).",
+          "fuentes": [
+            "ncb1j_01_a#22",
+            "mac1j_02#20",
+            "cbmh1j_01_a#40",
+            "kis1j_02_b#13"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La razón: «las tinieblas van pasando, y la luz verdadera ya alumbra». El verbo está en presente: las tinieblas no desaparecieron, están siendo disipadas por la luz del evangelio. Dos mundos conviven por ahora, uno que se va y otro que ya brilla. La luz es verdadera, explica Kistemaker, porque cualquier otra es un reflejo que termina en desencanto (Jn 1:9). Juan lo escribió, agrega, cuando el emperador perseguía a los cristianos y su luz parecía insignificante: no miraba las apariencias.",
+          "fuentes": [
+            "kis1j_02_b#14",
+            "moodynt_02_c#2",
+            "cbmh1j_01_a#40",
+            "kis1j_02_b#15"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 2:9",
       "titulo": "Decir que se está en la luz y aborrecer",
       "notas": [
-        {"texto": "Es la cuarta vez que Juan desenmascara una pretensión: antes fue sobre la comunión (1:6), el pecado (1:8), los pecados (1:10) y el conocimiento de Dios (2:4); ahora, sobre la luz. Kistemaker observa el mismo patrón: Juan afirma una verdad y luego cita al oponente que declara algo que no puede probar. El que dice estar en la luz es el mismo que dice tener comunión y conocer a Dios, y su vida lo desmiente.", "fuentes": ["bea1j_01_b#3", "kis1j_02_b#17", "moodynt_02_c#15"], "tipo": "exegesis"},
-        {"texto": "Detrás está la situación de la iglesia. MacArthur y la Biblia MacArthur explican que los falsos maestros decían tener una iluminación y un conocimiento superior de Dios, pero ese supuesto conocimiento solo producía desprecio por la gente común; los creyentes, en su mayoría esclavos o trabajadores (1Co 1:26-29), eran los verdaderos iluminados porque amaban. Blaney piensa que eran probablemente una minoría, pero el problema era real.", "fuentes": ["mac1j_02#21", "mbib1j_01_b#8", "bea1j_01_b#3"], "tipo": "falsos_maestros"},
-        {"texto": "El hermano aquí es el creyente, el compañero de fe (aunque en otros lugares del Nuevo Testamento la palabra puede referirse a cualquier persona). Y aborrecer, según la Biblia MacArthur, apunta a algo habitual, un estilo de vida marcado por el odio. Quien así vive está en el estado opuesto al que dice tener: «todavía en tinieblas». Kistemaker recuerda que Juan vuelve sobre esto con más fuerza: quien odia a su hermano es homicida (3:15) y quien dice amar a Dios y odia a su hermano es mentiroso (4:20). Pero también subraya el tacto del apóstol: dice todavía, no para siempre. La puerta a la luz sigue abierta.", "fuentes": ["moodynt_02_c#15", "kis1j_03_a#4", "mbib1j_01_b#8", "kis1j_03_a#1"], "tipo": "exegesis"}
+        {
+          "texto": "Es otra pretensión desenmascarada: antes fueron la comunión (1:6), el pecado (1:8 y 10) y el conocimiento de Dios (2:4); ahora, la luz. El que dice estar en la luz es el mismo que dice tener comunión y conocer a Dios, y su vida lo desmiente.",
+          "fuentes": [
+            "bea1j_01_b#3",
+            "kis1j_02_b#17",
+            "moodynt_02_c#15"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Detrás está la situación de la iglesia: según MacArthur, los falsos maestros decían tener una iluminación superior de Dios, pero solo producía desprecio por la gente común; los creyentes, en su mayoría esclavos o trabajadores (1Co 1:26-29), eran los verdaderos iluminados porque amaban. Blaney piensa que eran probablemente una minoría, pero el problema era real.",
+          "fuentes": [
+            "mac1j_02#21",
+            "mbib1j_01_b#8",
+            "bea1j_01_b#3"
+          ],
+          "tipo": "falsos_maestros"
+        },
+        {
+          "texto": "El hermano es el compañero de fe, y aborrecer apunta a algo habitual, un estilo de vida (Biblia MacArthur). Quien así vive está en lo opuesto a lo que dice: «todavía en tinieblas». Juan volverá con más fuerza: quien odia a su hermano es homicida (3:15) y mentiroso (4:20). Pero Kistemaker subraya el tacto del apóstol: dice todavía, no para siempre; la puerta a la luz sigue abierta.",
+          "fuentes": [
+            "moodynt_02_c#15",
+            "kis1j_03_a#4",
+            "mbib1j_01_b#8",
+            "kis1j_03_a#1"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 2:10-11",
       "titulo": "El que ama permanece; el que odia anda a ciegas",
       "notas": [
-        {"texto": "Juan habla en términos absolutos: luz o tinieblas, amor u odio; donde falta el amor, gobierna el odio. Los tres versículos (9, 10 y 11) empiezan con un participio presente (el que dice, el que ama, el que aborrece), que describe una conducta que dura. Y el amor del que habla no es de palabras sino de hechos: quien ama a su hermano como a sí mismo permanece en la luz.", "fuentes": ["kis1j_03_a#2", "kis1j_03_a#4"], "tipo": "exegesis"},
-        {"texto": "«En él no hay tropiezo» se puede leer de dos maneras (ver Interpretaciones): que quien ama no hace caer a otros, o que quien ama no tropieza él mismo porque ve con claridad. Blaney junta las dos: ni tropieza ni hace tropezar. El Nuevo Comentario Bíblico lo dice así: quien vive en amor anda con paso seguro, porque el amor despoja al corazón de todo lo que lo haría tropezar.", "fuentes": ["kis1j_03_a#2", "bea1j_01_b#3", "ncb1j_01_a#22", "moodynt_02_c#15", "mac1j_02#21"], "tipo": "exegesis"},
-        {"texto": "El v. 11 describe al que odia en tres pasos: está en tinieblas, anda en tinieblas y no sabe a dónde va. Kistemaker lo pinta así: quieto en la oscuridad, uno está más o menos a salvo; el problema es caminar, porque tropieza sin ver (Jn 12:35). Y la oscuridad tiene un efecto enceguecedor: los ojos que no se usan por mucho tiempo terminan ciegos (cita a Plummer). Moody resume que las tinieblas son a la vez el ambiente en que vive el que odia y el agente que lo ciega. El Nuevo Comentario Bíblico hace notar la triple repetición de tinieblas en estos versículos.", "fuentes": ["kis1j_03_a#3", "moodynt_02_c#15", "ncb1j_01_a#22"], "tipo": "exegesis"},
-        {"texto": "Bedford va al fondo: el odio es homicidio en embrión, distinto del homicidio en grado pero no en naturaleza (Mt 5:21-22). Matthew Henry agrega que donde hay tinieblas espirituales se oscurecen la mente, el juicio y la conciencia, y se pierde el camino a la vida celestial; por eso pide examen serio de uno mismo y oración ferviente. La tragedia, dice Kistemaker, es que no hace falta quedarse así: la luz verdadera de Dios está al alcance de todos (Jn 1:9).", "fuentes": ["cbmh1j_01_a#40", "mhenry_01_c#10", "kis1j_03_a#3"], "tipo": "doctrina"}
+        {
+          "texto": "Juan habla en absolutos: luz o tinieblas, amor u odio; donde falta el amor, gobierna el odio. Los vv. 9, 10 y 11 empiezan con un participio presente (el que dice, el que ama, el que aborrece), que describe una conducta que dura. Y el amor no es de palabras sino de hechos.",
+          "fuentes": [
+            "kis1j_03_a#2",
+            "kis1j_03_a#4"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«En él no hay tropiezo» puede significar que quien ama no hace caer a otros o que no tropieza él mismo (ver Interpretaciones). El Nuevo Comentario Bíblico lo dice así: quien vive en amor anda con paso seguro, porque el amor despoja al corazón de lo que lo haría tropezar.",
+          "fuentes": [
+            "kis1j_03_a#2",
+            "ncb1j_01_a#22"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El que odia está en tinieblas, anda en tinieblas y no sabe a dónde va. Kistemaker: quieto en la oscuridad uno está más o menos a salvo; el problema es caminar, porque tropieza sin ver (Jn 12:35); y los ojos que no se usan terminan ciegos (Plummer). Las tinieblas son a la vez el ambiente del que odia y el agente que lo ciega (Moody).",
+          "fuentes": [
+            "kis1j_03_a#3",
+            "moodynt_02_c#15"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Bedford va al fondo: el odio es homicidio en embrión, distinto en grado pero no en naturaleza (Mt 5:21-22). Matthew Henry agrega que las tinieblas espirituales oscurecen la mente, el juicio y la conciencia, y por eso pide examen serio y oración ferviente. La tragedia, dice Kistemaker, es que no hace falta quedarse así: la luz de Dios está al alcance de todos.",
+          "fuentes": [
+            "cbmh1j_01_a#40",
+            "mhenry_01_c#10",
+            "kis1j_03_a#3"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 2:12-13a",
       "titulo": "Primer llamado: perdonados, conocedores, vencedores",
       "notas": [
-        {"texto": "Después de tanta advertencia, Juan cambia de tono. Kistemaker observa que un pastor sabio sabe que un chorro continuo de advertencias desanima, y que las palabras positivas edifican confianza. Por eso les recuerda lo que ya tienen en Cristo. Richards lo dice así: Juan confía en sus lectores más de lo que ellos confían en sí mismos. MacArthur y Moody agregan el propósito: darles seguridad de que son hijos de Dios frente a los falsos maestros, en línea con 5:13, y poner la base para el llamado a separarse del mundo que viene mañana.", "fuentes": ["kis1j_03_a#11", "rich1j_01_b#3", "mac1j_02#22", "moodynt_02_c#3", "cbmh1j_01_b#1"], "tipo": "aplicacion"},
-        {"texto": "Son seis frases en dos series de tres, cada una con su porque. La primera va a los hijitos (todos los lectores, en la lectura de la mayoría): sus pecados han sido perdonados «por su nombre». El verbo griego (ver Palabras) significa despedir, hacer que algo se vaya: el perdón deja los pecados, con su culpa y su sentencia, al pie de la cruz. Está en perfecto y en voz pasiva: Dios es el que perdona, y lo perdonado queda perdonado. Kistemaker lo llama la mejor noticia del evangelio, la que oyeron el paralítico (Mr 2:5) y la mujer pecadora en casa de Simón (Lc 7:48).", "fuentes": ["cbmh1j_01_b#1", "cbmh1j_01_b#2", "kis1j_03_a#12", "kis1j_03_a#7", "mac1j_03#1"], "tipo": "doctrina"},
-        {"texto": "Los padres «conocéis al que es desde el principio»: un conocimiento íntimo de Dios revelado en Jesucristo (1:1; Jn 1:1), fruto de la experiencia. Los jóvenes han vencido al maligno: tiempo perfecto, una victoria ya ganada cuyo resultado sigue vigente. Moody entiende que el maligno es el diablo en persona, porque la apelación a los jóvenes es personal. Kistemaker los describe como quienes rechazaron los ataques del enemigo, no se pasaron a su campo y se mantuvieron firmes con la fuerza que Dios les dio.", "fuentes": ["kis1j_03_a#8", "cbmh1j_01_b#2", "moodynt_02_c#3", "moodynt_02_c#4", "kis1j_03_a#9"], "tipo": "exegesis"}
+        {
+          "texto": "Después de tanta advertencia Juan cambia de tono. Kistemaker observa que un pastor sabio sabe que un chorro continuo de advertencias desanima y que las palabras positivas edifican confianza. Richards: Juan confía en sus lectores más de lo que ellos confían en sí mismos. El propósito es darles seguridad de que son hijos de Dios frente a los falsos maestros (cf. 5:13) y poner la base del llamado de mañana.",
+          "fuentes": [
+            "kis1j_03_a#11",
+            "rich1j_01_b#3",
+            "mac1j_02#22",
+            "moodynt_02_c#3"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "Son seis frases en dos series de tres, cada una con su porque. Los hijitos (para la mayoría, todos los lectores) tienen sus pecados perdonados «por su nombre». El verbo (ver Palabras) significa despedir, hacer que algo se vaya: el perdón deja los pecados, con su culpa y su sentencia, al pie de la cruz; y lo perdonado queda perdonado. Kistemaker lo llama la mejor noticia del evangelio, la que oyeron el paralítico (Mr 2:5) y la mujer pecadora (Lc 7:48).",
+          "fuentes": [
+            "cbmh1j_01_b#1",
+            "cbmh1j_01_b#2",
+            "kis1j_03_a#12",
+            "kis1j_03_a#7"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Los padres conocen «al que es desde el principio»: un conocimiento íntimo de Dios revelado en Jesucristo, fruto de la experiencia. Los jóvenes han vencido al maligno, una victoria ya ganada que sigue vigente; Moody entiende que es el diablo en persona. Kistemaker: rechazaron sus ataques, no se pasaron a su campo y se mantuvieron firmes con la fuerza que Dios les dio.",
+          "fuentes": [
+            "kis1j_03_a#8",
+            "cbmh1j_01_b#2",
+            "moodynt_02_c#4",
+            "kis1j_03_a#9"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 2:13b-14",
       "titulo": "Segundo llamado: conocer al Padre, permanecer en la Palabra",
       "notas": [
-        {"texto": "En la segunda serie Juan pasa de os escribo a os he escrito (ver Interpretaciones) y usa otra palabra para hijitos (ver Palabras). Kistemaker entiende que también aquí habla a todos: no solo los padres conocen a Cristo, todos los creyentes conocen al Padre y han experimentado su amor.", "fuentes": ["kis1j_03_a#10", "kis1j_03_a#12", "moodynt_02_c#3"], "tipo": "exegesis"},
-        {"texto": "A los padres les repite exactamente lo mismo. Kistemaker ve en esa repetición seriedad: no deben frenar su crecimiento. Matthew Henry dice algo parecido: nadie es demasiado viejo para aprender, y los que llevan más tiempo en la escuela de Cristo necesitan todavía consejo. Kistemaker agrega que la comunidad espera de los padres espirituales que cuiden a los más nuevos y pasen la antorcha del evangelio a la juventud de la iglesia.", "fuentes": ["kis1j_03_a#10", "mhenry_01_c#11", "kis1j_03_a#8"], "tipo": "aplicacion"},
-        {"texto": "A los jóvenes Juan les agrega dos cosas: «porque sois fuertes», con la palabra fuertes puesta delante para darle énfasis, y la palabra de Dios permanece en ellos. Esa es la clave de su victoria. Plummer, citado por Kistemaker, lo dice así: poseer la Palabra es el secreto de su fuerza y la fuente de su victoria. Moody lo aterriza: vencían al diablo porque hacían la voluntad de Dios revelada en su palabra. Blaney atribuye esa fuerza a la comunión con Dios: andar en la luz de la obediencia hace fuertes contra el mal, a jóvenes y mayores.", "fuentes": ["kis1j_03_a#12", "kis1j_03_a#10", "moodynt_02_c#4", "bea1j_01_b#6"], "tipo": "doctrina"},
-        {"texto": "Blaney ve en el conjunto los dos lados de la vida cristiana: conocer al Padre se abre en conocer al Hijo (lado teórico) y vencer al diablo (lado práctico). El Nuevo Comentario Bíblico junta las cuatro posesiones que Juan nombra: perdón de pecados, conocimiento de Dios, la palabra que mora en ellos y la victoria sobre el maligno.", "fuentes": ["bea1j_01_b#6", "ncb1j_01_a#23"], "tipo": "doctrina"}
+        {
+          "texto": "En la segunda serie Juan pasa de os escribo a os he escrito y usa otra palabra para hijitos (ver Palabras e Interpretaciones). Kistemaker entiende que también aquí habla a todos: todos los creyentes conocen al Padre y han experimentado su amor.",
+          "fuentes": [
+            "kis1j_03_a#10",
+            "kis1j_03_a#12"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "A los padres les repite lo mismo, y Kistemaker ve en eso seriedad: no deben frenar su crecimiento. Matthew Henry coincide: nadie es demasiado viejo para aprender. Y la comunidad espera de los padres espirituales que cuiden a los nuevos y pasen la antorcha del evangelio a los jóvenes.",
+          "fuentes": [
+            "kis1j_03_a#10",
+            "mhenry_01_c#11",
+            "kis1j_03_a#8"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "A los jóvenes les agrega «porque sois fuertes» (con énfasis en fuertes) y que la palabra de Dios permanece en ellos. Esa es la clave: poseer la Palabra es el secreto de su fuerza y la fuente de su victoria (Plummer, citado por Kistemaker); vencían porque hacían la voluntad de Dios revelada en su palabra (Moody). Blaney atribuye esa fuerza a la comunión con Dios, que mantiene vigorosos a jóvenes y mayores. El Nuevo Comentario Bíblico junta las cuatro posesiones: perdón, conocimiento de Dios, la Palabra que mora en ellos y la victoria sobre el maligno.",
+          "fuentes": [
+            "kis1j_03_a#12",
+            "kis1j_03_a#10",
+            "moodynt_02_c#4",
+            "bea1j_01_b#6",
+            "ncb1j_01_a#23"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1J 2:7", "griego": "ἀγαπητοί", "translit": "agapētoí", "significado": "Amados. Adjetivo verbal de sentido pasivo: amados por Dios. Es la lectura mejor atestiguada en lugar de hermanos.", "fuentes": ["kis1j_02_b#16", "kis1j_02_b#12", "moodynt_02_c#2"]},
-    {"ref": "1J 2:8", "griego": "καινός", "translit": "kainós", "significado": "Nuevo en calidad o naturaleza, fresco, superior; no necesariamente reciente en el tiempo. Kistemaker lo distingue de νέος, que sería lo reciente.", "fuentes": ["kis1j_02_b#16", "mac1j_02#20", "mbib1j_01_b#7"]},
-    {"ref": "1J 2:10", "griego": "σκάνδαλον", "translit": "skándalon", "significado": "La vara móvil de una trampa para pájaros o animales; de ahí, piedra de tropiezo u ocasión de caer. Westcott, citado por Moody: la falta de amor es la fuente más abundante de agravios.", "fuentes": ["kis1j_03_a#4", "moodynt_02_c#15"]},
-    {"ref": "1J 2:12", "griego": "ἀφέωνται", "translit": "aphéōntai", "significado": "Han sido perdonados. Perfecto pasivo de ἀφίημι (despedir, hacer que se vaya): acción pasada con efecto permanente, y Dios como el que perdona.", "fuentes": ["kis1j_03_a#12", "cbmh1j_01_b#2"]},
-    {"ref": "1J 2:12", "griego": "τεκνία", "translit": "teknía", "significado": "Hijitos. Diminutivo cariñoso de descendencia, sin relación con la edad; abarca a hombres, mujeres y niños, a todos los hijos de Dios.", "fuentes": ["mac1j_03#1", "kis1j_03_a#12", "mbib1j_01_b#9"]},
-    {"ref": "1J 2:14", "griego": "παιδία", "translit": "paidía", "significado": "Niñitos. Para Kistemaker y Blaney, sinónimo de τεκνία con diferencia ligera; MacArthur la entiende como niños pequeños todavía bajo instrucción; Moody, como palabra que subraya la subordinación.", "fuentes": ["kis1j_03_a#12", "bea1j_01_b#4", "mac1j_03#2", "moodynt_02_c#3"]},
-    {"ref": "1J 2:14", "griego": "ἔγραψα", "translit": "égrapsa", "significado": "Escribí, os he escrito. Muchos lo toman como aoristo epistolar: el que escribe se pone en el lugar del lector, para quien la carta ya está escrita; se traduce con presente.", "fuentes": ["kis1j_03_a#12", "moodynt_02_c#4", "bea1j_01_b#5"]}
+    {
+      "ref": "1J 2:7",
+      "griego": "ἀγαπητοί",
+      "translit": "agapētoí",
+      "significado": "Amados. Adjetivo verbal de sentido pasivo: amados por Dios. Es la lectura mejor atestiguada en lugar de hermanos.",
+      "fuentes": [
+        "kis1j_02_b#16",
+        "kis1j_02_b#12",
+        "moodynt_02_c#2"
+      ]
+    },
+    {
+      "ref": "1J 2:8",
+      "griego": "καινός",
+      "translit": "kainós",
+      "significado": "Nuevo en calidad o naturaleza, fresco, superior; no necesariamente reciente en el tiempo. Kistemaker lo distingue de νέος, que sería lo reciente.",
+      "fuentes": [
+        "kis1j_02_b#16",
+        "mac1j_02#20",
+        "mbib1j_01_b#7"
+      ]
+    },
+    {
+      "ref": "1J 2:10",
+      "griego": "σκάνδαλον",
+      "translit": "skándalon",
+      "significado": "La vara móvil de una trampa para pájaros o animales; de ahí, piedra de tropiezo u ocasión de caer. Westcott, citado por Moody: la falta de amor es la fuente más abundante de agravios.",
+      "fuentes": [
+        "kis1j_03_a#4",
+        "moodynt_02_c#15"
+      ]
+    },
+    {
+      "ref": "1J 2:12",
+      "griego": "ἀφέωνται",
+      "translit": "aphéōntai",
+      "significado": "Han sido perdonados. Perfecto pasivo de ἀφίημι (despedir, hacer que se vaya): acción pasada con efecto permanente, y Dios como el que perdona.",
+      "fuentes": [
+        "kis1j_03_a#12",
+        "cbmh1j_01_b#2"
+      ]
+    },
+    {
+      "ref": "1J 2:12",
+      "griego": "τεκνία",
+      "translit": "teknía",
+      "significado": "Hijitos. Diminutivo cariñoso de descendencia, sin relación con la edad; abarca a hombres, mujeres y niños, a todos los hijos de Dios.",
+      "fuentes": [
+        "mac1j_03#1",
+        "kis1j_03_a#12",
+        "mbib1j_01_b#9"
+      ]
+    },
+    {
+      "ref": "1J 2:14",
+      "griego": "παιδία",
+      "translit": "paidía",
+      "significado": "Niñitos. Para Kistemaker y Blaney, sinónimo de τεκνία con diferencia ligera; MacArthur la entiende como niños pequeños todavía bajo instrucción; Moody, como palabra que subraya la subordinación.",
+      "fuentes": [
+        "kis1j_03_a#12",
+        "bea1j_01_b#4",
+        "mac1j_03#2",
+        "moodynt_02_c#3"
+      ]
+    },
+    {
+      "ref": "1J 2:14",
+      "griego": "ἔγραψα",
+      "translit": "égrapsa",
+      "significado": "Escribí, os he escrito. Muchos lo toman como aoristo epistolar: el que escribe se pone en el lugar del lector, para quien la carta ya está escrita; se traduce con presente.",
+      "fuentes": [
+        "kis1j_03_a#12",
+        "moodynt_02_c#4",
+        "bea1j_01_b#5"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El mandamiento es «verdadero en él»: nunca el amor perfecto se había mostrado tan claramente como en el Cristo encarnado. MacArthur y Blaney lo ven sobre todo en el aposento alto: el Señor y Maestro se puso a lavar los pies como siervo, y poco después dio el mandamiento de amarse como él los había amado. Desde entonces el amor ya no es solo un deber sino la respuesta espontánea a un Modelo.", "refs": ["Jn 13:1-17", "Jn 13:34", "Fil 2:6-8"], "fuentes": ["mac1j_02#20", "bea1j_01_b#2", "ncb1j_01_a#22"]},
-    {"texto": "La luz verdadera que ya alumbra es la revelación de Dios en Cristo, la luz verdadera que viene al mundo; con él se inauguró su reino y las tinieblas empezaron a retirarse.", "refs": ["Jn 1:9", "Jn 8:12", "Col 1:13"], "fuentes": ["moodynt_02_c#2", "kis1j_02_b#14", "mac1j_02#20"]},
-    {"texto": "Perdonados «por su nombre»: el nombre revela la persona y la obra del Hijo, de modo que la expresión equivale a decir por medio de su muerte expiatoria. MacArthur agrega que Dios perdona por su gloria, no por mérito nuestro.", "refs": ["1J 2:2", "1J 4:10", "Hch 10:43"], "fuentes": ["kis1j_03_a#7", "bea1j_01_b#6", "mac1j_03#1"]},
-    {"texto": "Los padres conocen «al que es desde el principio»: Cristo, el Verbo que era en el principio, el mismo que los testigos oyeron y tocaron (1:1).", "refs": ["Jn 1:1", "1J 1:1"], "fuentes": ["moodynt_02_c#3", "kis1j_03_a#8"]}
+    {
+      "texto": "El mandamiento es «verdadero en él»: nunca el amor perfecto se había mostrado tan claramente como en Cristo encarnado. MacArthur y Blaney lo ven en el aposento alto: el Señor y Maestro lavó los pies como siervo y poco después mandó amarse como él los había amado. Desde entonces el amor no es solo deber sino respuesta a un Modelo.",
+      "refs": [
+        "Jn 13:1-17",
+        "Jn 13:34",
+        "Fil 2:6-8"
+      ],
+      "fuentes": [
+        "mac1j_02#20",
+        "bea1j_01_b#2",
+        "ncb1j_01_a#22"
+      ]
+    },
+    {
+      "texto": "La luz verdadera que ya alumbra es la revelación de Dios en Cristo, la luz verdadera que viene al mundo; con él se inauguró su reino y las tinieblas empezaron a retirarse.",
+      "refs": [
+        "Jn 1:9",
+        "Jn 8:12",
+        "Col 1:13"
+      ],
+      "fuentes": [
+        "moodynt_02_c#2",
+        "kis1j_02_b#14",
+        "mac1j_02#20"
+      ]
+    },
+    {
+      "texto": "Perdonados «por su nombre»: el nombre revela la persona y la obra del Hijo, así que equivale a por medio de su muerte expiatoria; y Dios perdona por su gloria, no por mérito nuestro (MacArthur).",
+      "refs": [
+        "1J 2:2",
+        "1J 4:10",
+        "Hch 10:43"
+      ],
+      "fuentes": [
+        "kis1j_03_a#7",
+        "bea1j_01_b#6",
+        "mac1j_03#1"
+      ]
+    },
+    {
+      "texto": "Los padres conocen «al que es desde el principio»: Cristo, el Verbo que era en el principio, el mismo que los testigos oyeron y tocaron (1:1).",
+      "refs": [
+        "Jn 1:1",
+        "1J 1:1"
+      ],
+      "fuentes": [
+        "moodynt_02_c#3",
+        "kis1j_03_a#8"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Desde qué principio tenían el mandamiento (v. 7)?",
       "posturas": [
-        {"postura": "Hay tres lecturas posibles: desde la creación, desde la ley de Moisés o desde el comienzo de la era apostólica. Las dos primeras tienen apoyo, pero prefiere la tercera: la iglesia recibió el mandamiento del amor desde su inicio y Juan lo reafirma.", "quien": "Blaney (Beacon)", "fuentes": ["bea1j_01_b#1"]},
-        {"postura": "No es el principio del tiempo ni la ley, sino el comienzo de la vida cristiana de los lectores: lo oyeron al recibir el evangelio, así que no era una novedad de Juan.", "quien": "MacArthur; Biblia MacArthur; Moody", "fuentes": ["mac1j_02#19", "mbib1j_01_b#7", "moodynt_02_c#2"]},
-        {"postura": "El mandamiento de amarse rige desde el comienzo del mundo, pero es nuevo al darse a los cristianos, porque su situación (motivos, reglas, obligaciones) era nueva.", "quien": "Matthew Henry", "fuentes": ["mhenry_01_c#10"]}
+        {
+          "postura": "Tres lecturas posibles: desde la creación, desde la ley de Moisés o desde el comienzo de la era apostólica; prefiere la tercera.",
+          "quien": "Blaney (Beacon)",
+          "fuentes": [
+            "bea1j_01_b#1"
+          ]
+        },
+        {
+          "postura": "El comienzo de la vida cristiana de los lectores, cuando oyeron el evangelio.",
+          "quien": "MacArthur; Biblia MacArthur; Moody",
+          "fuentes": [
+            "mac1j_02#19",
+            "mbib1j_01_b#7",
+            "moodynt_02_c#2"
+          ]
+        },
+        {
+          "postura": "Rige desde el comienzo del mundo, pero es nuevo al darse a los cristianos, cuya situación era nueva.",
+          "quien": "Matthew Henry",
+          "fuentes": [
+            "mhenry_01_c#10"
+          ]
+        }
       ],
-      "nota": "Todos coinciden en que el mandamiento es el del amor y en que Juan no inventa nada: repite lo que la Escritura y el evangelio ya enseñaban."
+      "nota": "Todos coinciden en que es el mandamiento del amor y en que Juan no inventa nada."
     },
     {
       "tema": "«En él no hay tropiezo» (v. 10): ¿para quién?",
       "posturas": [
-        {"postura": "Quien ama no hace tropezar a otros: no los lleva a pecar ni a rechazar el evangelio; la falta de amor es la mayor fuente de agravios.", "quien": "MacArthur; Moody (con Westcott); versión GNB", "fuentes": ["mac1j_02#21", "moodynt_02_c#15", "kis1j_03_a#2"]},
-        {"postura": "En la luz no hay causa de tropiezo.", "quien": "versión RSV, según Kistemaker", "fuentes": ["kis1j_03_a#2"]},
-        {"postura": "No hay nada en él que lo haga tropezar a él mismo, porque ve con claridad; es la mejor transición al v. 11, donde el que odia tropieza por su propio interior.", "quien": "Kistemaker (con la NIV)", "fuentes": ["kis1j_03_a#2"]},
-        {"postura": "Las dos cosas: ni tropieza ni hace caer a otros.", "quien": "Blaney (Beacon)", "fuentes": ["bea1j_01_b#3"]}
+        {
+          "postura": "Quien ama no hace tropezar a otros; la falta de amor es la mayor fuente de agravios.",
+          "quien": "MacArthur; Moody (con Westcott)",
+          "fuentes": [
+            "mac1j_02#21",
+            "moodynt_02_c#15"
+          ]
+        },
+        {
+          "postura": "No hay nada en él que lo haga tropezar a él mismo; enlaza mejor con el v. 11.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1j_03_a#2"
+          ]
+        },
+        {
+          "postura": "Las dos cosas: ni tropieza ni hace caer a otros.",
+          "quien": "Blaney (Beacon)",
+          "fuentes": [
+            "bea1j_01_b#3"
+          ]
+        }
       ],
       "nota": "Kistemaker relaciona la frase con Sal 119:165."
     },
     {
       "tema": "¿Quiénes son los hijitos, los padres y los jóvenes?",
       "posturas": [
-        {"postura": "Hijitos son todos los lectores (por eso el orden hijitos, padres, jóvenes, que sería raro si fueran edades), y Juan los divide en dos grupos: padres y jóvenes. Pueden ser edades o grados de madurez, y todos entran en cierto sentido en cada categoría.", "quien": "Blaney (Beacon); Kistemaker, con Calvino y Brooke", "fuentes": ["bea1j_01_b#4", "kis1j_03_a#5"]},
-        {"postura": "Hijitos son todos; padres, los ancianos de la congregación y quienes tenían posición prominente; jóvenes, los más jóvenes del grupo.", "quien": "Moody", "fuentes": ["moodynt_02_c#3"]},
-        {"postura": "Son tres etapas de crecimiento espiritual: niños con conocimiento básico de Dios, jóvenes fuertes en la sana doctrina y padres que conocen a Dios en profundidad.", "quien": "MacArthur; Biblia MacArthur", "fuentes": ["mbib1j_01_b#10", "mac1j_03#4", "mac1j_03#3", "mac1j_03#2"]},
-        {"postura": "Es un recurso de estilo para dar énfasis y variedad: por gracia todos los cristianos son niños en dependencia, jóvenes en fuerza y padres en experiencia.", "quien": "C. H. Dodd, citado por el Nuevo Comentario Bíblico y por Kistemaker", "fuentes": ["ncb1j_01_a#23", "kis1j_03_a#5"]}
+        {
+          "postura": "Hijitos son todos los lectores (por eso el orden raro hijitos, padres, jóvenes), divididos en dos grupos; pueden ser edades o grados de madurez.",
+          "quien": "Blaney (Beacon); Kistemaker, con Calvino y Brooke",
+          "fuentes": [
+            "bea1j_01_b#4",
+            "kis1j_03_a#5"
+          ]
+        },
+        {
+          "postura": "Padres son los ancianos y quienes tenían posición prominente; jóvenes, los más jóvenes del grupo.",
+          "quien": "Moody",
+          "fuentes": [
+            "moodynt_02_c#3"
+          ]
+        },
+        {
+          "postura": "Tres etapas de crecimiento espiritual: niños, jóvenes fuertes en la doctrina y padres que conocen a Dios en profundidad.",
+          "quien": "MacArthur; Biblia MacArthur",
+          "fuentes": [
+            "mbib1j_01_b#10",
+            "mac1j_03#4"
+          ]
+        },
+        {
+          "postura": "Recurso de estilo: por gracia todos son niños en dependencia, jóvenes en fuerza y padres en experiencia.",
+          "quien": "C. H. Dodd, citado por el Nuevo Comentario Bíblico y Kistemaker",
+          "fuentes": [
+            "ncb1j_01_a#23",
+            "kis1j_03_a#5"
+          ]
+        }
       ],
-      "nota": "Kistemaker menciona y descarta como especulativa la idea de Houlden de que padres y jóvenes serían ancianos y diáconos. Todas las posturas coinciden en que los privilegios nombrados (perdón, conocimiento de Dios, victoria) son de toda la familia de Dios."
+      "nota": "Todos coinciden en que perdón, conocimiento de Dios y victoria son de toda la familia de Dios."
     },
     {
       "tema": "¿Por qué pasa de «os escribo» a «os he escrito»?",
       "posturas": [
-        {"postura": "Aoristo epistolar: quien escribe se pone en el lugar del lector, para quien la carta ya está escrita; no hay diferencia de sentido.", "quien": "Kistemaker; Moody", "fuentes": ["kis1j_03_a#12", "moodynt_02_c#4"]},
-        {"postura": "De las siete explicaciones que enumera Plummer, tres son plausibles: el presente se refiere a la carta y el pasado al Evangelio (Plummer); con el pasado Juan mira la parte de la carta ya escrita (Brooke); el presente mira el acto de escribir y el pasado la carta terminada (Haupt). Prefiere una de las dos primeras.", "quien": "Blaney (Beacon)", "fuentes": ["bea1j_01_b#5"]},
-        {"postura": "El primer escribo es desde la perspectiva de Juan y el segundo anticipa la de los lectores al recibir la carta.", "quien": "Biblia MacArthur", "fuentes": ["mbib1j_01_b#9"]},
-        {"postura": "Una solución más sencilla: Juan fue interrumpido después de la primera serie y retomó con naturalidad.", "quien": "Bedford (Mundo Hispano)", "fuentes": ["cbmh1j_01_b#1"]}
+        {
+          "postura": "Aoristo epistolar: quien escribe se pone en el lugar del lector; no cambia el sentido.",
+          "quien": "Kistemaker; Moody",
+          "fuentes": [
+            "kis1j_03_a#12",
+            "moodynt_02_c#4"
+          ]
+        },
+        {
+          "postura": "El presente se refiere a la carta y el pasado al Evangelio (Plummer), o mira la parte de la carta ya escrita (Brooke); prefiere una de esas dos.",
+          "quien": "Blaney (Beacon)",
+          "fuentes": [
+            "bea1j_01_b#5"
+          ]
+        },
+        {
+          "postura": "Juan fue interrumpido tras la primera serie y retomó con naturalidad.",
+          "quien": "Bedford (Mundo Hispano)",
+          "fuentes": [
+            "cbmh1j_01_b#1"
+          ]
+        }
       ],
-      "nota": "Blaney señala además que la RVR, basada en otro texto griego, tiene cuatro os escribo y dos os he escrito, mientras que el griego crítico tiene tres y tres."
+      "nota": "La RVR, basada en otro texto griego, tiene cuatro os escribo y dos os he escrito (Blaney)."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Lv 19:18", "nota": "Amar al prójimo como a uno mismo: es el mandamiento antiguo que Juan tiene en mente. Kistemaker agrega que Lv 19:34 ya incluía al extranjero.", "fuentes": ["kis1j_02_b#12", "kis1j_02_b#13", "mac1j_02#19", "r1_007_b#10"]},
-    {"ref": "Dt 6:5", "nota": "El credo de Israel, amar a Dios con todo el corazón; junto con Lv 19:18, el resumen de la ley que hizo Jesús.", "fuentes": ["kis1j_02_b#12", "mac1j_02#18"]},
-    {"ref": "Sal 119:165", "nota": "Los que aman la ley de Dios gozan de paz y nada los hace tropezar: Kistemaker lo pone junto al «no hay tropiezo» del v. 10.", "fuentes": ["kis1j_01_a#25"]},
-    {"ref": "Sal 32:1-2", "nota": "MacArthur recuerda que el perdón de los pecados está arraigado en el Antiguo Testamento (también Is 43:25, donde Dios borra las rebeliones por amor de sí mismo).", "fuentes": ["mac1j_03#1"]}
+    {
+      "ref": "Lv 19:18",
+      "nota": "Amar al prójimo como a uno mismo: es el mandamiento antiguo que Juan tiene en mente. Kistemaker agrega que Lv 19:34 ya incluía al extranjero.",
+      "fuentes": [
+        "kis1j_02_b#12",
+        "kis1j_02_b#13",
+        "mac1j_02#19",
+        "r1_007_b#10"
+      ]
+    },
+    {
+      "ref": "Dt 6:5",
+      "nota": "El credo de Israel, amar a Dios con todo el corazón; junto con Lv 19:18, el resumen de la ley que hizo Jesús.",
+      "fuentes": [
+        "kis1j_02_b#12",
+        "mac1j_02#18"
+      ]
+    },
+    {
+      "ref": "Sal 119:165",
+      "nota": "Los que aman la ley de Dios gozan de paz y nada los hace tropezar: Kistemaker lo pone junto al «no hay tropiezo» del v. 10.",
+      "fuentes": [
+        "kis1j_01_a#25"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Wiersbe bosqueja 1J 2:7-17 en tres partes: el nuevo mandamiento (en comunión se anda en amor; quien no está en comunión con Dios no se lleva bien con su pueblo), la nueva familia (todos perdonados, llamados a crecer hasta ser jóvenes fuertes y padres y madres espirituales) y el nuevo peligro, el mundo.", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 465", "tipo": "doctrina", "fuentes": ["r1_007_b#10"]},
-    {"texto": "Tinieblas designa en la Biblia la ceguera espiritual (Is 9:2; Jn 1:5; Ef 5:8; 1J 2:8), y también la ignorancia de Dios, la tristeza y la aflicción, que se disipan cuando Cristo da su luz (Col 1:13).", "autor": "varios", "obra": "Diccionario Bíblico Mundo Hispano", "pagina": "vol. II, PDF 364", "tipo": "doctrina", "fuentes": ["dbmh_02_b#17"]}
+    {
+      "texto": "Wiersbe bosqueja 1J 2:7-17 en tres partes: el nuevo mandamiento (en comunión se anda en amor), la nueva familia (todos perdonados, llamados a crecer) y el nuevo peligro, el mundo.",
+      "autor": "Warren W. Wiersbe",
+      "obra": "Bosquejos expositivos de la Biblia",
+      "pagina": "PDF 465",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_007_b#10"
+      ]
+    },
+    {
+      "texto": "Tinieblas designa en la Biblia la ceguera espiritual (Is 9:2; Jn 1:5; Ef 5:8; 1J 2:8), y también la ignorancia de Dios, la tristeza y la aflicción, que se disipan cuando Cristo da su luz (Col 1:13).",
+      "autor": "varios",
+      "obra": "Diccionario Bíblico Mundo Hispano",
+      "pagina": "vol. II, PDF 364",
+      "tipo": "doctrina",
+      "fuentes": [
+        "dbmh_02_b#17"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Jn 13:34-35", "nota": "El mandamiento nuevo de amarse como él amó, dado después del lavamiento de pies; por ese amor todos conocerán que son sus discípulos.", "fuentes": ["bea1j_01_b#2", "mac1j_02#21", "cbmh1j_01_a#40"]},
-    {"ref": "Ro 13:8-10", "nota": "Pablo dice lo mismo: el cumplimiento de la ley es el amor.", "fuentes": ["mac1j_02#19", "mbib1j_01_b#6"]},
-    {"ref": "Lc 10:25-37", "nota": "El buen samaritano: Jesús ensancha la idea de prójimo, parte de lo nuevo del mandamiento.", "fuentes": ["kis1j_02_b#13"]},
-    {"ref": "Ef 6:10", "nota": "Fuertes en el Señor: la fuerza de los jóvenes es espiritual y viene de Dios.", "fuentes": ["kis1j_03_a#10"]}
+    {
+      "ref": "Jn 13:34-35",
+      "nota": "El mandamiento nuevo de amarse como él amó, dado después del lavamiento de pies; por ese amor todos conocerán que son sus discípulos.",
+      "fuentes": [
+        "bea1j_01_b#2",
+        "mac1j_02#21",
+        "cbmh1j_01_a#40"
+      ]
+    },
+    {
+      "ref": "Ro 13:8-10",
+      "nota": "Pablo dice lo mismo: el cumplimiento de la ley es el amor.",
+      "fuentes": [
+        "mac1j_02#19",
+        "mbib1j_01_b#6"
+      ]
+    },
+    {
+      "ref": "Lc 10:25-37",
+      "nota": "El buen samaritano: Jesús ensancha la idea de prójimo, parte de lo nuevo del mandamiento.",
+      "fuentes": [
+        "kis1j_02_b#13"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Richards señala que Juan pone un mandamiento central para que la vida con Dios no se convierta en un legalismo de listas de hacer y no hacer. Para saber si oímos la voz de Jesús no hace falta medirse con una lista: basta mirar si salimos al encuentro de los demás y nos interesamos por los hermanos. Blaney advierte el peligro opuesto: cuando la obediencia reemplaza al amor espontáneo, el mandamiento se vuelve viejo, como en cualquier época que perdió su primer amor. La obediencia no sustituye al amor; lo demuestra.", "fuentes": ["rich1j_01_b#2", "bea1j_01_b#2"]},
-    {"texto": "Kistemaker cita unos versos populares sobre lo fácil que sería vivir en el cielo con los santos que admiramos y lo difícil que es vivir aquí con los santos que conocemos. Y agrega que preferimos mirar al cielo para no mirarnos a nosotros mismos. La prueba de Juan no es abstracta: pasa por los hermanos concretos de su iglesia, y también por el hermano y la hermana más cercanos, el uno al otro en casa.", "fuentes": ["kis1j_03_a#1", "kis1j_02_b#17"]},
-    {"texto": "Kistemaker contrasta el crecimiento de la iglesia en algunos países con la observación de que la fe se ve el domingo pero falta durante la semana: en el trabajo, el comercio, la educación y la política. La luz que ya alumbra quiere alumbrar el lunes también.", "fuentes": ["kis1j_02_b#15"]},
-    {"texto": "La Palabra es el secreto de la fuerza. MacArthur insiste en que se crece solo aplicando la Palabra (leerla, estudiarla, memorizarla, meditarla, obedecerla), y en que la meta es parecerse a Cristo. El crecimiento no cambia la posición ante Dios ni hace que él los ame más, pero sí es una responsabilidad: usar los medios de gracia con obediencia.", "fuentes": ["mac1j_03#4", "mac1j_02#22", "mac1j_02#23"]}
+    {
+      "texto": "Richards señala que Juan pone un mandamiento central para que la vida con Dios no se vuelva un legalismo de listas: para saber si oímos la voz de Jesús basta mirar si salimos al encuentro de los hermanos. Blaney advierte el peligro opuesto: cuando la obediencia reemplaza al amor, el mandamiento envejece. La obediencia no sustituye al amor; lo demuestra.",
+      "fuentes": [
+        "rich1j_01_b#2",
+        "bea1j_01_b#2"
+      ]
+    },
+    {
+      "texto": "Kistemaker cita unos versos sobre lo fácil que sería vivir en el cielo con los santos que admiramos y lo difícil que es vivir aquí con los que conocemos; preferimos mirar al cielo para no mirarnos a nosotros mismos. La prueba de Juan pasa por hermanos concretos, también el uno por el otro en casa.",
+      "fuentes": [
+        "kis1j_03_a#1",
+        "kis1j_02_b#17"
+      ]
+    },
+    {
+      "texto": "Kistemaker nota que en muchos lugares la fe se ve el domingo pero falta en la semana: en el trabajo, el comercio y la política. La luz que ya alumbra quiere alumbrar el lunes también.",
+      "fuentes": [
+        "kis1j_02_b#15"
+      ]
+    }
   ],
   "para_conversar": [
     "Juan dice que el mandamiento del amor es antiguo y a la vez nuevo porque Cristo lo vivió primero. ¿En qué escena de la vida de Jesús ven ustedes más claramente ese amor, y qué tendría que cambiar en la forma en que se tratan para que se parezca a ella?",
@@ -163,14 +618,79 @@
     "Juan anima a hijitos, padres y jóvenes recordándoles lo que ya tienen: perdón, conocimiento de Dios, la Palabra y la victoria sobre el maligno. ¿Cuál de esas cuatro cosas necesitan recordar hoy, y cómo pueden ayudarse a crecer el uno al otro y a otros más nuevos en la fe?"
   ],
   "para_orar": "Padre, gracias porque por el nombre de tu Hijo nuestros pecados están perdonados y porque la luz verdadera ya alumbra. Que el amor que Jesús mostró al lavar los pies de los suyos se haga verdadero también en nosotros: líbranos del odio que ciega, haznos fuertes por tu Palabra que permanece y ayúdanos a crecer juntos hasta conocerte más.",
-  "visuales": ["dg-pruebas-1j", "dg-estructura-1j"],
-  "anexos": ["P3", "T3"],
+  "visuales": [
+    "dg-pruebas-1j",
+    "dg-estructura-1j"
+  ],
+  "anexos": [
+    "P3",
+    "T3"
+  ],
   "profundizar": [
-    {"titulo": "El amor espontáneo frente al deber formal", "texto": "Siguiendo a Haupt, Blaney observa que solo al final de su ministerio Jesús se presentó como el Modelo del amor, al lavar los pies de los discípulos (Jn 13:15) y dar luego el mandamiento nuevo (Jn 13:34). Antes los discípulos practicaban el amor como deber; desde entonces debían amar de corazón, lo que corresponde al andar como él anduvo. Para Blaney, el v. 8 significa además que el mandamiento se prueba a sí mismo cuando se lo pone en práctica: las tinieblas se desvanecen y la luz muestra su poder.", "fuentes": ["bea1j_01_b#2"]},
-    {"titulo": "Tres aspectos de lo nuevo según Kistemaker", "texto": "Kistemaker ordena la aparente contradicción de los vv. 7-8 en tres aspectos. Literal: lo antiguo dio nacimiento a lo nuevo y perdura con él, como el Antiguo Testamento preparó el Nuevo sin perder validez. Teológico: Jesús amplió el alcance del prójimo y reveló la intención divina; con Calvino, dice que el mandamiento no envejece, y cita a Guthrie: Juan se interesa más en lo nuevo sin que el Antiguo Testamento deje de valer. Testimonial: su verdad se ve en Jesús y en los creyentes. Anota también que ὅ, en el v. 8, no se refiere al mandamiento sino a toda la idea: lo que es cierto de él es cierto de ustedes; y que πάλιν significa todavía o por otra parte, no nuevamente.", "fuentes": ["kis1j_02_b#13", "kis1j_02_b#16"]},
-    {"titulo": "Lo que no es el crecimiento espiritual", "texto": "MacArthur enumera seis malentendidos. El crecimiento no determina la posición del creyente ante Dios, que descansa en la justicia de Cristo; no cambia el amor de Dios, que amó a los apóstoles hasta el fin aunque discutían quién era el mayor (Jn 13:1); no se mide con el calendario (He 5:11-14); no es cantidad de información teológica (cita el dicho de que el mismo sol que derrite la cera endurece el barro); no es éxito en el ministerio, porque Pablo veía la debilidad como señal de madurez (2Co 12:9-10); y no es algo místico ni sentimental, sino el fruto de asimilar y aplicar la Palabra, como el alimento hace crecer el cuerpo (Mt 4:4; 1P 2:2).", "fuentes": ["mac1j_02#23"]},
-    {"titulo": "Las tres etapas según MacArthur", "texto": "Los niños espirituales conocen al Padre como un bebé conoce a sus padres: los llena el gozo de la nueva relación, pero todavía no comen el alimento sólido de la doctrina, se aferran a sus héroes espirituales (1Co 3:4) y son vulnerables a los engañadores (Ef 4:14); los maduros deben alentar su devoción y advertirles. Los jóvenes comprenden la verdad bíblica, la aman y la defienden; MacArthur sostiene que el principal esfuerzo de Satanás es engañar por medio de sistemas religiosos falsos, y que la sana doctrina arma para refutarlos. Los padres conocen a Dios mismo, fuente de la verdad, con una relación informada por la doctrina, como Job después del sufrimiento (Job 42:6). Todos son llamados a crecer más y más.", "fuentes": ["mac1j_03#2", "mac1j_03#3", "mac1j_03#4"]},
-    {"titulo": "Dos familias", "texto": "La Biblia MacArthur y MacArthur observan que, desde la perspectiva de Dios, solo hay dos familias: los hijos de Dios y los hijos del diablo (Jn 8:39-44). Juan recuerda a los lectores que son perdonados y conocen a Dios como Padre; por eso, en el pasaje que sigue, no deben dar su lealtad al mundo. Según MacArthur, la luz que coexiste con las tinieblas terminará disipándolas: brillará más en el reino milenial y gobernará por la eternidad (ver el anexo T4 sobre las distintas escuelas).", "fuentes": ["mbib1j_01_b#9", "mac1j_03#1", "mac1j_02#20"]},
-    {"titulo": "Padre, en Juan y en el uso bíblico", "texto": "Kistemaker cuenta que la palabra padre aparece doce veces en 1 Juan y cuatro en 2 Juan, y que la paternidad humana es apenas un pálido reflejo de la de Dios. Moody agrega que Juan usa Padre mucho más que los tres primeros evangelios juntos. El Diccionario Mundo Hispano recoge, entre los usos figurados de padre, el de un superior venerado (1S 10:12; 1J 2:13).", "fuentes": ["kis1j_03_a#8", "moodynt_02_c#4", "dbmh_02_a#10"]}
+    {
+      "titulo": "El amor espontáneo frente al deber formal",
+      "texto": "Siguiendo a Haupt, Blaney observa que solo al final de su ministerio Jesús se presentó como el Modelo del amor, al lavar los pies de los discípulos (Jn 13:15) y dar luego el mandamiento nuevo (Jn 13:34). Antes los discípulos practicaban el amor como deber; desde entonces debían amar de corazón, lo que corresponde al andar como él anduvo. Para Blaney, el v. 8 significa además que el mandamiento se prueba a sí mismo cuando se lo pone en práctica: las tinieblas se desvanecen y la luz muestra su poder.",
+      "fuentes": [
+        "bea1j_01_b#2"
+      ]
+    },
+    {
+      "titulo": "Tres aspectos de lo nuevo según Kistemaker",
+      "texto": "Kistemaker ordena la aparente contradicción de los vv. 7-8 en tres aspectos. Literal: lo antiguo dio nacimiento a lo nuevo y perdura con él, como el Antiguo Testamento preparó el Nuevo sin perder validez. Teológico: Jesús amplió el alcance del prójimo y reveló la intención divina; con Calvino, dice que el mandamiento no envejece, y cita a Guthrie: Juan se interesa más en lo nuevo sin que el Antiguo Testamento deje de valer. Testimonial: su verdad se ve en Jesús y en los creyentes. Anota también que ὅ, en el v. 8, no se refiere al mandamiento sino a toda la idea: lo que es cierto de él es cierto de ustedes; y que πάλιν significa todavía o por otra parte, no nuevamente.",
+      "fuentes": [
+        "kis1j_02_b#13",
+        "kis1j_02_b#16"
+      ]
+    },
+    {
+      "titulo": "Lo que no es el crecimiento espiritual",
+      "texto": "MacArthur enumera seis malentendidos. El crecimiento no determina la posición del creyente ante Dios, que descansa en la justicia de Cristo; no cambia el amor de Dios, que amó a los apóstoles hasta el fin aunque discutían quién era el mayor (Jn 13:1); no se mide con el calendario (He 5:11-14); no es cantidad de información teológica (cita el dicho de que el mismo sol que derrite la cera endurece el barro); no es éxito en el ministerio, porque Pablo veía la debilidad como señal de madurez (2Co 12:9-10); y no es algo místico ni sentimental, sino el fruto de asimilar y aplicar la Palabra, como el alimento hace crecer el cuerpo (Mt 4:4; 1P 2:2). La Palabra es el secreto de la fuerza. MacArthur insiste en que se crece solo aplicando la Palabra (leerla, estudiarla, memorizarla, meditarla, obedecerla), y en que la meta es parecerse a Cristo. El crecimiento no cambia la posición ante Dios ni hace que él los ame más, pero sí es una responsabilidad: usar los medios de gracia con obediencia.",
+      "fuentes": [
+        "mac1j_02#23",
+        "mac1j_03#4",
+        "mac1j_02#22"
+      ]
+    },
+    {
+      "titulo": "Las tres etapas según MacArthur",
+      "texto": "Los niños espirituales conocen al Padre como un bebé conoce a sus padres: los llena el gozo de la nueva relación, pero todavía no comen el alimento sólido de la doctrina, se aferran a sus héroes espirituales (1Co 3:4) y son vulnerables a los engañadores (Ef 4:14); los maduros deben alentar su devoción y advertirles. Los jóvenes comprenden la verdad bíblica, la aman y la defienden; MacArthur sostiene que el principal esfuerzo de Satanás es engañar por medio de sistemas religiosos falsos, y que la sana doctrina arma para refutarlos. Los padres conocen a Dios mismo, fuente de la verdad, con una relación informada por la doctrina, como Job después del sufrimiento (Job 42:6). Todos son llamados a crecer más y más.",
+      "fuentes": [
+        "mac1j_03#2",
+        "mac1j_03#3",
+        "mac1j_03#4"
+      ]
+    },
+    {
+      "titulo": "Dos familias",
+      "texto": "La Biblia MacArthur y MacArthur observan que, desde la perspectiva de Dios, solo hay dos familias: los hijos de Dios y los hijos del diablo (Jn 8:39-44). Juan recuerda a los lectores que son perdonados y conocen a Dios como Padre; por eso, en el pasaje que sigue, no deben dar su lealtad al mundo. Según MacArthur, la luz que coexiste con las tinieblas terminará disipándolas: brillará más en el reino milenial y gobernará por la eternidad (ver el anexo T4 sobre las distintas escuelas).",
+      "fuentes": [
+        "mbib1j_01_b#9",
+        "mac1j_03#1",
+        "mac1j_02#20"
+      ]
+    },
+    {
+      "titulo": "Padre, en Juan y en el uso bíblico",
+      "texto": "Kistemaker cuenta que la palabra padre aparece doce veces en 1 Juan y cuatro en 2 Juan, y que la paternidad humana es apenas un pálido reflejo de la de Dios. Moody agrega que Juan usa Padre mucho más que los tres primeros evangelios juntos. El Diccionario Mundo Hispano recoge, entre los usos figurados de padre, el de un superior venerado (1S 10:12; 1J 2:13).",
+      "fuentes": [
+        "kis1j_03_a#8",
+        "moodynt_02_c#4",
+        "dbmh_02_a#10"
+      ]
+    },
+    {
+      "titulo": "Teoría y práctica de la vida cristiana",
+      "texto": "Blaney ve en el conjunto los dos lados de la vida cristiana: conocer al Padre se abre en conocer al Hijo (lado teórico) y vencer al diablo (lado práctico). La fuerza para vencer, dice, viene de la comunión con Dios: andar en la luz de la obediencia hace fuertes contra el mal.",
+      "fuentes": [
+        "bea1j_01_b#6"
+      ]
+    },
+    {
+      "titulo": "Sal 32 e Is 43:25",
+      "texto": "MacArthur recuerda que el perdón de los pecados está arraigado en el Antiguo Testamento (Sal 32:1-2; Is 43:25) y es la verdad básica de la misión evangelizadora (Lc 24:47; Hch 10:43).",
+      "fuentes": [
+        "mac1j_03#1"
+      ]
+    }
   ]
 }

@@ -33,3 +33,4 @@ SCRATCH = /tmp/claude-0/-home-user/532e468b-ac94-5647-a250-c8778228a262/scratchp
 - Plan de días hecho (`plan/plan.json`): 69 días en 11 partes (1P 24, 2P 14, 1J 18, 2J-3J 4, Jd 9). Insumos: `python3 trabajo/scripts/insumos_dias.py` e `insumos_articulos.py` (→ `SCRATCH/pj_insumos/`).
 - Pilotos de días: 1, 16 y 40. Si salen bien, lanzar el resto (opus, un agente por día, prompt `trabajo/prompts/escribir_dia.md`). Título duplicado a corregir: días 67 y 68 (Jd 17-20 / 21-23).
 - Después: artículos (14), diagramas (13), mapas, app combinada `pedro-apocalipsis/`.
+- Pasada de recorte pendiente al final: días por encima de ~2.700 palabras según el validador (p. ej. día 44 = 2.912). Duplicado de título a corregir: días 67 y 68 (Jd 17-20 / 21-23). Los días se escribieron sin tocar la RVR en el repo; el assert de ≤500 versículos (con los 183 de Apocalipsis) se controla en la app combinada.

@@ -233,10 +233,14 @@
   }
  ],
  "modelo": {
-  "persona": "",
-  "texto": "",
-  "refs": [],
-  "fuentes": []
+  "persona": "Morrow Graham",
+  "texto": "La madre de Billy Graham vivió diecinueve años más que su marido, que murió en 1962 tras cuarenta y seis años de matrimonio. No fueron años de tristeza ni de inactividad: dedicó más tiempo a orar sin cesar por Billy, sus otros hijos, nietos, bisnietos y el mundo. Según su hijo, conocía y aplicaba las Escrituras mejor que muchos pastores sin haber ido al seminario, y su sabiduría influyó en innumerables vidas. Un ejemplo de cómo servir al Señor en los últimos años.",
+  "refs": [
+   "Isaías 28:10"
+  ],
+  "fuentes": [
+   "r_003#26"
+  ]
  },
  "palabras": [],
  "interpretaciones": [],
@@ -250,6 +254,13 @@
    "ref": "Día 439",
    "nota": "Servir hasta el final incluye entregar el mando a tiempo y con gracia.",
    "fuentes": []
+  },
+  {
+   "ref": "Mateo 20:7",
+   "nota": "La viña de Cristo tiene trabajo también a la hora undécima: nadie queda afuera por la edad.",
+   "fuentes": [
+    "r_021#18"
+   ]
   }
  ],
  "para_vivir": [
@@ -270,6 +281,12 @@
    "texto": "Dobson advierte que muchos hombres caen en depresión poco después de jubilarse. Si ya sentís el peso del retiro o el ánimo bajo, hablalo esta semana con tu esposa, un amigo o tu pastor.",
    "fuentes": [
     "b_144#20"
+   ]
+  },
+  {
+   "texto": "Si todavía te faltan años para el retiro, empezá a preparar desde ya el proyecto de esa etapa: algo para estudiar, para emprender o para servir en tu iglesia, y hablalo con tu esposa.",
+   "fuentes": [
+    "r_017#40"
    ]
   }
  ],
@@ -298,7 +315,28 @@
     "b_252#7",
     "b_250#17"
    ]
+  },
+  {
+   "titulo": "También los ancianos son llamados a la viña",
+   "texto": "Sobre Mateo 20:7, Spurgeon recuerda que hay trabajo en la viña de Cristo incluso para cuerpos viejos: es la hora undécima y Él todavía deja trabajar. Mientras los empleadores miran las canas y menean la cabeza, Jesús contrata a los ancianos y les da un buen salario: gracia aquí, gloria en el más allá, consuelo presente, fuerza igual a su día y visión de gloria cuando llegue la noche. Y el converso anciano recibe lo mismo que quien sirve desde joven. Si el mercado te dijo que ya no servís, fijate que el Señor de la viña piensa distinto.",
+   "fuentes": [
+    "r_021#18"
+   ]
+  },
+  {
+   "titulo": "LaHaye: la ociosidad se paga con depresión",
+   "texto": "Según LaHaye, los mayores que siguen activos y cuidan del bienestar de otros escapan de la depresión. Cita a un tío pastor de 75 años que sigue tras 53 años de servicio y a un capitán de marina de 75 que enseña en la escuela dominical. Advierte contra la obsesión jubilatoria: opina que la mente se adapta a todo menos a la ociosidad, y que la mayoría no se gasta sino que se oxida. Pide planificar el retiro como una etapa activa y productiva. Y recoge un estudio con octogenarios que halló un rasgo común casi unánime: la anticipación positiva del futuro. Su frase: «Todo el mundo necesita ser necesario.»",
+   "fuentes": [
+    "r_027#10"
+   ]
+  },
+  {
+   "titulo": "Prepararse antes: la jubilación no es solo dinero",
+   "texto": "Daniel González es tajante: la jubilación no se prepara el día del retiro, y quien consulta seis meses antes ya llegó tarde. Cuenta que en Punta Alta, ciudad con base naval, un pastor le dijo que allí estaba el índice de suicidios más alto del país; es un dato anecdótico, sin año ni fuente, así que tomalo como alerta y no como cifra. La razón: los marinos se jubilan a los cincuenta con salud y buen sueldo pero sin saber qué hacer. Lo que debía ser una segunda vida puede volverse maldición si falta preparación emocional y de proyecto: estudiar, un negocio, un ministerio, ir de misionero. En sus palabras: «Las etapas lindas de la vida se estropean por falta de preparación.»",
+   "fuentes": [
+    "r_017#40"
+   ]
   }
  ],
- "notas_no_usadas": "No usé el pastor Núñez (b_437#6), la estadística de Winter sin fuente ni los datos de Wesley ya contados fuera del cuerpo."
+ "notas_no_usadas": "No usé el pastor Núñez (b_437#6), la estadística de Winter sin fuente ni los datos de Wesley ya contados fuera del cuerpo. | R4: r_015#7: Barzilai ya está en el apartado 3 (P1) con sus límites y su hijo Quimam"
 }

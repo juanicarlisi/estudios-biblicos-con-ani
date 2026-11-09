@@ -222,10 +222,14 @@
  "palabras": [],
  "interpretaciones": [],
  "modelo": {
-  "persona": "",
-  "texto": "",
-  "refs": [],
-  "fuentes": []
+  "persona": "Moisés",
+  "texto": "Según Scott, a los ochenta años, tras unos cuarenta cuidando ganado de su suegro, se encontró con Dios en la zarza. Era un hombre de educación y cultura que tuvo que ser moldeado: perdió la vana confianza en sí mismo y, tras años de humillación, comprendió sus limitaciones. Dios no le discutió la medida: «Yo estaré contigo».",
+  "refs": [
+   "Éxodo 3:11-12"
+  ],
+  "fuentes": [
+   "r_013#35"
+  ]
  },
  "conexiones": [
   {
@@ -240,6 +244,20 @@
    "nota": "Kœchlin lo relaciona con el fracaso de Moisés: no se puede seguir a Cristo con energía natural, por grande que sea el afecto.",
    "fuentes": [
     "b_345#12"
+   ]
+  },
+  {
+   "ref": "Éxodo 3:1-14",
+   "nota": "La zarza: Scott ve a un Moisés ya moldeado, que perdió su confianza propia y recibe como respuesta la compañía de Dios.",
+   "fuentes": [
+    "r_013#35"
+   ]
+  },
+  {
+   "ref": "Hechos 7:23",
+   "nota": "Los cuarenta años de Moisés: Scott los cuenta como el tiempo en que Dios lo preparó.",
+   "fuentes": [
+    "r_013#35"
    ]
   }
  ],
@@ -316,6 +334,13 @@
    "texto": "Los De Haan citan a Moisés como ejemplo de carácter fuerte porque escogió obedecer a Dios en vez de una vida centrada en el placer.",
    "fuentes": [
     "b_046#51"
+   ]
+  },
+  {
+   "titulo": "Pastor antes de conductor",
+   "texto": "Jack Scott recuerda que Moisés se encontró con Dios en la zarza a los ochenta años, después de unos cuarenta cuidando el ganado de su suegro. Siendo un hombre de educación y cultura, tuvo que ser moldeado para llegar a ser el hombre que Dios quería. Había perdido su vana confianza en sí mismo y, tras años de humillación, comprendió sus limitaciones (Éxodo 3:11), algo imprescindible para los siervos de Dios. Scott agrega que la experiencia pastoral enseñó a Moisés y a David verdades sobre el cuidado de Dios. La respuesta divina fue suficiente: «Yo estaré contigo».",
+   "fuentes": [
+    "r_013#35"
    ]
   }
  ],

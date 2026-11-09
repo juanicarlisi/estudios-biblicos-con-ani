@@ -374,6 +374,13 @@
    "fuentes": [
     "b_195#34"
    ]
+  },
+  {
+   "ref": "Filemón 9-11",
+   "nota": "Pablo, anciano y prisionero, ruega por Onésimo, su hijo espiritual, cuyo nombre significa «útil».",
+   "fuentes": [
+    "r_042#14"
+   ]
   }
  ],
  "para_vivir": [
@@ -438,7 +445,31 @@
    "fuentes": [
     "b_347#27"
    ]
+  },
+  {
+   "titulo": "Timoteo frente a los que buscan lo suyo",
+   "texto": "J. Vernon McGee destaca que Pablo confía en Timoteo, a quien llama hijo espiritual, porque tiene su mismo ánimo en Cristo (Filipenses 2:19-22); según McGee, es el único modo en que dos personas pueden trabajar juntas. Contra ese fondo está Filipenses 2:21: «todos buscan lo suyo propio, no lo que es de Cristo Jesús». McGee dice que había creyentes que querían hacerse famosos y hasta pisotear a Pablo. Y se pregunta si hoy respetamos a quienes se mantienen firmes por la Palabra. Para él, el sentir de Cristo une en comunión real aunque haya miles de kilómetros o diferencias raciales. Para un discípulo, la pregunta es qué busca: lo propio o lo de Cristo.",
+   "fuentes": [
+    "r_041#22"
+   ]
+  },
+  {
+   "titulo": "Onésimo: el hijo «útil»",
+   "texto": "J. Vernon McGee explica que Pablo, que no era casado, llamaba «hijo» a Onésimo, a quien engendró en sus prisiones, igual que a Timoteo y a Tito: hijos espirituales llevados a los pies del Señor. Hace notar un juego de palabras: Onésimo significa «útil», y quien antes le fue inútil a Filemón ahora es útil para ambos. Pablo, de más de 60 años, se presenta como anciano y prisionero, y ruega en lugar de ordenar. Sobre Filemón, McGee imagina, y lo marca como suposición suya, a un joven de nombre griego que viajó a Colosas, prosperó, se casó con la frigia Apia y ambos llegaron a ser creyentes.",
+   "fuentes": [
+    "r_042#14"
+   ]
   }
  ],
- "notas_no_usadas": "Quedaron fuera Grudem (b_045#41) y datos menores de Eliseo; lo de afirmar a otros como Bernabé y el referente coherente es del día 403, y Timoteo en detalle del día 426."
+ "notas_no_usadas": "Quedaron fuera Grudem (b_045#41) y datos menores de Eliseo; lo de afirmar a otros como Bernabé y el referente coherente es del día 403, y Timoteo en detalle del día 426.",
+ "modelo": {
+  "persona": "Timoteo",
+  "texto": "Según McGee, Pablo confía en Timoteo, a quien llama su hijo espiritual, porque tiene su mismo ánimo en Cristo. Mientras otros buscaban lo suyo y no lo de Cristo Jesús, Timoteo se mantuvo al lado de Pablo. McGee ve ahí el único modo en que dos personas pueden trabajar juntas: compartiendo el mismo sentir. Un discípulo que se deja formar es el que sirve junto a su maestro sin buscar la fama propia.",
+  "refs": [
+   "Filipenses 2:19-22"
+  ],
+  "fuentes": [
+   "r_041#22"
+  ]
+ }
 }

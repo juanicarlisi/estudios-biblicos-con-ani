@@ -288,6 +288,27 @@
    "fuentes": [
     "b_108#85"
    ]
+  },
+  {
+   "ref": "1 Juan 3:15",
+   "nota": "Quien odia a su hermano es homicida: Henry lo usa para el odio de los hermanos de José.",
+   "fuentes": [
+    "r_044#23"
+   ]
+  },
+  {
+   "ref": "Salmo 76:10",
+   "nota": "Dios hace servir al propósito suyo hasta la ira humana: Henry lo aplica a los hermanos que quisieron derrotar el sueño.",
+   "fuentes": [
+    "r_044#23"
+   ]
+  },
+  {
+   "ref": "Génesis 45:27",
+   "nota": "El espíritu de Jacob revivió al saber que José vivía.",
+   "fuentes": [
+    "r_021#8"
+   ]
   }
  ],
  "para_vivir": [
@@ -362,7 +383,33 @@
     "b_379#23",
     "b_434#42"
    ]
+  },
+  {
+   "titulo": "Jacob y José: la sombra del adiós",
+   "texto": "Lucado muestra a Jacob destrozado cuando los hijos le llevaron la túnica ensangrentada de José: rasgó sus vestiduras, se vistió de cilicio y se negó a ser consolado (Génesis 37:34-35). José, por su parte, vivió dos décadas de tristeza sin noticias de casa, y cuando se dio a conocer su primera pregunta fue «¿vive aún mi padre?» (Génesis 45:3). Al saber que José vivía, el espíritu de Jacob revivió y volvió a creer que lo vería (Génesis 45:27). Según Lucado, el pasaje muestra el valor del vínculo entre un padre y su hijo adulto, y la prioridad de la reunión familiar.",
+   "fuentes": [
+    "r_021#8"
+   ]
+  },
+  {
+   "titulo": "Henry: el soñador y el odio de sus hermanos",
+   "texto": "Matthew Henry presenta a José informando la mala conducta de sus hermanos no como chismoso sino como hermano leal, obediente a su padre. Dios le dio el sueño de su exaltación sin mostrarle el encarcelamiento, como pasa con los jóvenes que solo sueñan con prosperidad. Los hermanos lo odiaban, lo arrojaron a un pozo y se sentaron a comer pan: querían derrotar el sueño y terminaron siendo sus instrumentos. Henry recuerda que quien odia a su hermano es homicida (1 Juan 3:15), y ve en José un tipo de Cristo, amado por el Padre y rechazado por los suyos.",
+   "fuentes": [
+    "r_044#23"
+   ]
   }
  ],
- "notas_no_usadas": "No se usó W5109 (trata de José, esposo de María, no del hijo de Jacob); lo desarrollado en detalle sobre la huida (días 156) y la providencia (día 463) se remitió."
+ "notas_no_usadas": "No se usó W5109 (trata de José, esposo de María, no del hijo de Jacob); lo desarrollado en detalle sobre la huida (días 156) y la providencia (día 463) se remitió.",
+ "modelo": {
+  "persona": "José",
+  "texto": "Fue un hermano leal que informó a su padre y recibió un sueño de exaltación sin ver todavía la cárcel. Pasó por el pozo, la casa de Potifar y la celda, y aun así lo que pesaba en él era su padre: su primera pregunta al darse a conocer fue «¿vive aún mi padre?». Henry lo ve como un tipo de Cristo, amado por el Padre y rechazado por los suyos.",
+  "refs": [
+   "Génesis 37:2",
+   "Génesis 45:3"
+  ],
+  "fuentes": [
+   "r_044#23",
+   "r_021#8"
+  ]
+ }
 }

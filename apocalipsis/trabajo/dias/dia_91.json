@@ -201,14 +201,6 @@
             "cbmh_08_a#21"
           ],
           "tipo": "simbolo_numero"
-        },
-        {
-          "texto": "Mundo Hispano repasa las puertas del libro: una abierta en el cielo (4:1), otra que nadie puede cerrar (3:8) y una sola cerrada, la de 3:20, donde Cristo llama. Está cerrada por dentro y él no la fuerza. El Comentario Beacon lo aplica: hoy las puertas del Reino están abiertas de par en par.",
-          "fuentes": [
-            "cbmh_08_a#21",
-            "beacon_05_b#13"
-          ],
-          "tipo": "aplicacion_practica"
         }
       ]
     },
@@ -666,6 +658,14 @@
         "cpe_08#15",
         "mcgeer_13#31",
         "mcgee_12#8"
+      ]
+    },
+    {
+      "titulo": "Las puertas del Apocalipsis",
+      "texto": "Mundo Hispano repasa las puertas del libro: una abierta en el cielo (4:1), otra que nadie puede cerrar (3:8) y una sola cerrada, la de 3:20, donde Cristo llama. Está cerrada por dentro y él no la fuerza. El Comentario Beacon lo aplica: hoy las puertas del Reino están abiertas de par en par.",
+      "fuentes": [
+        "cbmh_08_a#21",
+        "beacon_05_b#13"
       ]
     }
   ]

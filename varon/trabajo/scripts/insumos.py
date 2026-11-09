@@ -8,7 +8,7 @@ Uso: insumos.py [dia ...]   (por defecto, todos)
 import json, os, re, sys
 
 V = '/home/user/trabajo/varon'
-TOPE = 52000        # ≈13.000 tokens de entrada por día; las notas que no entran siguen en notas/ (nada se pierde)
+TOPE = int(os.environ.get('INSUMO_TOPE', 52000))        # ≈13.000 tokens de entrada por día; las notas que no entran siguen en notas/ (nada se pierde)
 sys.path.insert(0, f'{V}/scripts')
 from grupos_entrada import notas  # noqa: E402
 

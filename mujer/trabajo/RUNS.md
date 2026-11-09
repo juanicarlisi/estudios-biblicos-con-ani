@@ -15,3 +15,13 @@
 
 - Piloto de agrupado Sonnet vs Haiku (in_G_03, in_P_02, in_Q_02): wf_422afe0b-ac5 (Sonnet, piloto: olvidó/inventó ids) · wf_c984a5d4-35f (Haiku: 0 ids perdidos, grupos más finos) → Haiku/medio para agrupar.
 - Agrupar (79 tandas con todo el material; Haiku/medio; 76 en 5 corridas más las 3 de la prueba Haiku; lotes en plan_agrupar.json): wf_c984a5d4-35f wf_f93f1612-af9 wf_0c042338-d51 wf_69f2a7dc-738 wf_36f0bd55-022 wf_016d28dc-ba1
+- Contador del 09-11-2026 (captura del fundador): «Gasto este mes» USD 24,28 de 200 (12 %; el mes se reinició el 1-11; antes 97,80). Etapa 1 dentro del tope de 25.
+- Planear (26 fragmentos, Opus/medio, 5 corridas; entrada plan/planear/<S>_<k>.txt; wf_mujer_planear2.js; armar con plan_armar.py): wf_9f379ada-0fc wf_c45a29d2-bc8 wf_ed0c9710-8fa wf_8dc6f8a0-c97 wf_98dbaa44-aa6
+- Re-agrupado de in_P_01 (Haiku había dejado 288 notas sueltas) con Sonnet: wf_cafae3a6-55a (va último en planear_entrada). Re-plan de la parte P con Opus: ver abajo.
+- Re-plan de P (Opus/medio): wf_5a8a8b94-483 (va último en plan_armar; reemplaza a P de wf_c45a29d2-bc8)
+- Plan final: 637 días (A17 B21 C106 D94 E42 F44 G58 H31 I12 J26 K33 L19 M4 N6 O22 P61 Q41); insumos en insumos/ (insumos.py).
+- Prueba de escritura, 4 días (5, 120, 330, 600), Sonnet esfuerzo bajo: wf_d289f186-7f2 · medio: wf_659f242d-032 (comparar con verificar_dia.py antes de lanzar el resto)
+- Prueba de escritura: esfuerzo bajo = 4/4 días limpios; medio = 3/4 con marcas → se escribe con Sonnet/bajo. Los 4 días de la prueba (5,120,330,600; versión baja: wf_d289f186-7f2) quedan como borradores.
+- Escribir tanda 1 (días 1-160, Sonnet/bajo, 5 corridas; plan_escribir_t1.json; recoger con recoger_dias.py borradores <runs>): wf_cee31fe9-e9f wf_f2a97345-bd6 wf_547e8c2d-850 wf_6f86c0f3-022 wf_9f12bb18-347. Tras la tanda 1: pedir captura del contador al fundador.
+- Tanda 1 verificada por programa: 162 días | 71 limpios | 91 con marcas (apoyo 53, comillas 37, largo 24 [todos >2800], autor 7, ids 7, cifras 4, forma 4). Reparar en 16 grupos (Sonnet/medio): wf_34c7277e-703 (grupos 1-8) wf_a8edb545-886 (grupos 9-16); aplicar con aplicar_reparaciones.py
+- Tanda 1 (días 1-160 + 330 y 600 de la prueba): reparada (wf_34c7277e-703 wf_a8edb545-886 wf_86722d26-cd4), recortada (wf_8debbbc5-bc0), promovida: 160 definitivos; 2 con marca 'ids' pendientes. CHECKPOINT: pedir captura del contador antes de la tanda 2 (días 161-320).

@@ -1,106 +1,728 @@
 {
 "grupos": [
 {
-"tema": "Cristo comprende nuestro dolor: orfandad, soledad y debilidad",
-"resumen": "Jesús conoce la orfandad, la soledad y la debilidad humana, y promete no dejarnos huérfanos; el Padre y el Hijo consuelan al que sufre en su abandono.",
-"ids": [
-"b_022#17",
-"b_022#18",
-"v_b_186#1",
-"v_b_199#29",
-"v_b_105#40",
-"b_045#28"
-],
+"tema": "Mujeres y creyentes que sufrieron enfermedad prolongada o discapacidad y siguieron confiando (Joni, Mabel, Colleen Chao)",
+"resumen": "Testimonios concretos de enfermedad crónica, parálisis, cáncer y discapacidad vividos con fe, gozo y sentido, que muestran que Dios sostiene al que sufre mucho tiempo.",
 "refs": [
-"Jn 14:18",
-"Jn 14:16",
-"Heb 4:15-16",
-"Mt 11:28-30",
-"Lc 7:13"
+"Jn 10:2",
+"Lc 13:10-13",
+"2 Co 4:16-18",
+"Stg 1:2",
+"Dn 3:24-25"
+],
+"ids": [
+"b_058#4",
+"r_026#34",
+"r_042#62",
+"r_056#41",
+"r_073#17",
+"o_016#8",
+"v_o_038#14",
+"r_025#51",
+"w_036#14",
+"w_054#8",
+"r_100#53",
+"b_140#24",
+"w_052#14",
+"b_141#13",
+"v_b_335#25",
+"v_b_435#4"
 ]
 },
 {
-"tema": "El consuelo que recibimos de Dios nos capacita para consolar a otros",
-"resumen": "Dios es el Dios de toda consolación; el consuelo recibido, incluso en el sufrimiento propio, habilita para acompañar y consolar a otros, y el Espíritu consuela como madre tierna.",
+"tema": "Dios no desperdicia el sufrimiento: lo redime para consolar a otros",
+"resumen": "Quien fue consolada por Dios en su quebranto queda capacitada para consolar a otros; el dolor se vuelve ministerio y bendición.",
+"refs": [
+"2 Co 1:3-7",
+"Col 1:24",
+"2 Co 4:7-12"
+],
 "ids": [
 "b_101#10",
-"b_147#24",
-"r_066#33",
-"r_124#22",
-"b_199#3",
-"v_b_096#10"
-],
-"refs": [
-"2 Co 1:3-4",
-"2 Co 1:9",
-"Is 66:13",
-"Sal 103:13"
+"b_141#14",
+"v_b_199#3",
+"v_b_096#10",
+"v_b_189#13",
+"r_075#25",
+"v_o_026#22"
 ]
 },
 {
-"tema": "Providencia: Dios no desperdicia nada y el dolor tiene propósito aunque no lo entendamos",
-"resumen": "Nada sucede fuera del control de Dios; él permite pérdidas y males para un bien mayor, aun cuando no lo veamos (José, Ester, Abraham, Onésimo, Rut).",
-"ids": [
-"r_066#33",
-"r_084#55",
-"v_b_037#20",
-"v_b_037#22",
-"v_b_034#8",
-"r_025#51",
-"v_b_234#26",
-"v_b_235#4",
-"v_b_245#9",
-"r_075#25"
+"tema": "Dios usa el sufrimiento para santificarnos, podarnos y hacernos semejantes a Cristo",
+"resumen": "La aflicción es el cincel, el crisol y la poda del Padre para formar el carácter de Cristo en sus hijos, incluida la disciplina de un Padre amoroso que no castiga con ira.",
+"refs": [
+"Jn 15:2",
+"1 P 5:10",
+"Heb 12:6",
+"Pr 17:3",
+"Ro 8:29"
 ],
+"ids": [
+"b_093#15",
+"r_060#25",
+"v_b_367#6",
+"w_046#17",
+"r_042#32",
+"r_135#35",
+"v_b_158#13",
+"v_b_335#17",
+"v_b_382#12",
+"v_b_441#15",
+"v_b_280#14",
+"v_b_164#13",
+"v_b_321#27",
+"v_b_266#20",
+"v_b_049#12",
+"v_b_307#17",
+"v_b_167#12"
+]
+},
+{
+"tema": "Por qué sufrimos: causas del sufrimiento (mundo caído, pecado propio, errores, sin culpa) y qué es sufrir",
+"resumen": "Clasificación bíblica de las razones del sufrimiento: la creación caída, el juicio y misericordia de Dios, el pecado propio o ajeno, los errores y el sufrimiento sin culpa, con la tensión entre el amor y el poder de Dios.",
+"refs": [
+"Gn 3:16-19",
+"Ro 5:12",
+"Ro 8:18-25",
+"1 P 4:16-19",
+"He 11:36-37"
+],
+"ids": [
+"v_b_015#20",
+"v_b_031#17",
+"v_b_065#10",
+"v_b_235#4",
+"v_b_108#46",
+"r_066#32",
+"r_028#12",
+"v_b_061#19",
+"v_b_061#20",
+"v_b_061#23",
+"v_b_038#23",
+"v_b_435#1",
+"v_b_199#1",
+"v_b_186#18",
+"v_b_107#55",
+"r_096#27",
+"r_135#20",
+"r_110#32",
+"v_b_171#12"
+]
+},
+{
+"tema": "La providencia de Dios: nada ocurre fuera de su plan y Él obra un bien mayor",
+"resumen": "Dios tiene el control de lo que parece desgracia o puerta cerrada; ve lo que no vemos y lo usa para un bien mayor, como en Onésimo o los tiempos de Rut.",
 "refs": [
 "Ro 8:28",
 "Mt 10:29",
+"Flm 15",
 "Gn 50:20",
-"Gn 22:13-14",
-"Flm 15"
+"Éx 2:1-10"
+],
+"ids": [
+"v_b_034#8",
+"v_b_037#20",
+"v_b_037#22",
+"v_b_245#9",
+"w_039#4",
+"v_b_426#4",
+"v_b_167#9",
+"r_022#14",
+"v_b_122#4",
+"r_145#2",
+"v_b_108#63"
 ]
 },
 {
-"tema": "No hay atajo: el camino a la gloria pasa por tribulación, espera y silencio",
-"resumen": "La espera y el silencio de Dios son lo más difícil; la gloria no llega sin tribulación y el creyente no debe buscar atajos dulces.",
+"tema": "Esperar en Dios: el silencio, la demora y la promesa que no se cumple a nuestro ritmo",
+"resumen": "Cuando Dios calla o tarda (José, Moisés ante el mar, años de espera), Él sigue trabajando y no hay atajo dulce hacia la gloria.",
+"refs": [
+"Gn 39-40",
+"Éx 14:13-14",
+"Mt 11:12",
+"Sal 57",
+"Gn 22:13-14"
+],
 "ids": [
 "b_045#26",
-"b_045#34",
 "r_119#52",
-"r_144#0"
-],
-"refs": [
-"Mt 11:12",
-"Dt 8:2-3",
-"Sal 56-57",
-"Stg 1:2-4"
+"b_045#34",
+"v_b_276#11",
+"v_b_199#18",
+"v_b_020#2",
+"v_b_121#15",
+"v_b_234#26",
+"b_093#20"
 ]
 },
 {
-"tema": "El sufrimiento como llamado y parte del discipulado del creyente",
-"resumen": "Sufrir es parte del llamado de todo hijo de Dios y del siervo fiel; no es señal de desobediencia sino un camino que el Señor usa para formar y para extender el evangelio.",
-"ids": [
-"b_141#14",
-"r_066#43",
-"v_b_070#25",
-"v_b_195#8",
-"v_b_200#12",
-"v_b_201#14",
-"v_b_204#8",
-"v_b_209#22",
-"v_b_257#13",
-"v_b_261#26",
-"v_b_263#12",
-"v_b_350#11",
-"v_b_333#1",
-"v_b_164#13"
+"tema": "Las pruebas de Dios: crecimiento, madurez, carácter y fe probada (Santiago 1)",
+"resumen": "Dios usa las pruebas, distintas de las tentaciones, para fortalecer la fe, producir perseverancia y madurez y depender de Él; se esperan y se enfrentan con fe.",
+"refs": [
+"Stg 1:2-4",
+"Ro 5:3-5",
+"1 P 4:12-14",
+"1 Co 10:13",
+"Gn 22:1"
 ],
+"ids": [
+"v_b_104#21",
+"v_b_108#81",
+"v_b_214#14",
+"v_b_214#18",
+"v_b_234#16",
+"r_145#4",
+"v_b_020#30",
+"v_o_005#13",
+"v_o_010#24",
+"v_o_004#7",
+"v_o_009#14",
+"v_o_010#17",
+"v_b_321#21",
+"v_b_323#13",
+"v_b_326#9",
+"v_b_436#10",
+"v_b_437#8",
+"v_b_123#9",
+"r_025#5",
+"v_b_349#40",
+"v_b_030#22",
+"v_b_097#12",
+"b_070#25",
+"v_o_010#25",
+"v_o_011#4",
+"b_084#3"
+]
+},
+{
+"tema": "Gozo en medio de la prueba: distinto de la felicidad y no dependiente de las circunstancias",
+"resumen": "El gozo del Señor se sostiene bajo presión, se elige, se ofrece en alabanza y convive con el dolor, sin autocompasión y con la esperanza del gozo que sigue.",
+"refs": [
+"Stg 1:2",
+"Sal 16:11",
+"Neh 8:10",
+"Jn 16:20-22",
+"Jn 15:11"
+],
+"ids": [
+"b_090#5",
+"v_b_030#16",
+"v_o_005#23",
+"v_o_010#23",
+"v_b_306#9",
+"v_b_375#26",
+"r_011#41",
+"r_082#72",
+"b_081#27",
+"r_020#42"
+]
+},
+{
+"tema": "Perseverar y contentarse en la vida que no elegiste",
+"resumen": "Soportar por decisión, con la mirada en Jesús, aprendiendo el contentamiento en la escuela de la aflicción y convirtiendo las desventajas en testimonio.",
+"refs": [
+"Fil 4:11-13",
+"2 Ti 2:10",
+"Heb 12:2-3",
+"1 Ti 4:10",
+"Fil 1:12-18"
+],
+"ids": [
+"v_b_424#15",
+"v_b_422#16",
+"v_b_208#25",
+"r_060#35",
+"r_050#14",
+"v_b_360#9",
+"v_b_165#16",
+"v_b_157#28",
+"r_005#27",
+"r_060#28",
+"v_b_325#12"
+]
+},
+{
+"tema": "Cristo comprende al que sufre y está solo: compasión, orfandad y soledad",
+"resumen": "Jesús conoció el abandono, la incomprensión y la soledad; por eso ve al afligido, se compadece y nunca lo deja huérfano, y nos llama a mostrar su compasión.",
+"refs": [
+"Jn 14:18",
+"Heb 4:15-16",
+"Lc 7:13",
+"Jn 16:32",
+"Mt 11:28-30"
+],
+"ids": [
+"v_b_186#1",
+"v_b_319#8",
+"v_b_199#29",
+"v_b_105#40",
+"b_045#28",
+"r_132#9",
+"v_o_026#21",
+"b_022#17",
+"b_022#18",
+"w_001#19",
+"b_051#6",
+"r_100#75",
+"r_066#33",
+"v_b_271#17",
+"b_089#9"
+]
+},
+{
+"tema": "El Dios de todo consuelo: promesas, el Pastor, el refugio y el Espíritu que consuela como una madre",
+"resumen": "Promesas y rostros del consuelo de Dios para la mujer en prueba: Pastor, refugio, Espíritu consolador y oración sencilla.",
+"refs": [
+"2 Co 1:3-4",
+"Sal 23",
+"Is 66:13",
+"Sal 46:1",
+"Sal 34:17-19"
+],
+"ids": [
+"v_b_165#13",
+"v_b_049#25",
+"r_097#5",
+"r_099#81",
+"r_124#22",
+"b_147#24",
+"b_103#10"
+]
+},
+{
+"tema": "Llorar con esperanza: cómo moderar el duelo (los siete consejos de Flavel)",
+"resumen": "El duelo cristiano no prohíbe las lágrimas, pero se modera: sin ingratitud por lo que queda, sin que el dolor apague la comunión con Dios, con consuelo en la resurrección.",
+"refs": [
+"Lc 7:13",
+"1 Co 7:29-30",
+"1 Ts 4:13-17",
+"Nm 14:2",
+"Is 57:1-2"
+],
+"ids": [
+"b_097#20",
+"v_b_186#2",
+"v_b_186#9",
+"b_097#14",
+"b_097#16",
+"b_097#18",
+"b_098#11",
+"v_b_186#4",
+"v_b_186#8",
+"v_b_187#1",
+"v_b_187#4",
+"v_b_187#15"
+]
+},
+{
+"tema": "Esperanza ante la muerte de un ser querido: resurrección, cielo y duelo del creyente",
+"resumen": "Ante la muerte de un creyente se llora y se espera: Cristo venció a la muerte, el cielo no tendrá lágrimas y la fe se prepara antes de la pérdida.",
+"refs": [
+"1 Co 15:54-57",
+"Ap 21:4",
+"Fil 1:23",
+"Fil 2:27",
+"2 Co 1:3-4"
+],
+"ids": [
+"r_045#34",
+"r_045#35",
+"r_086#37",
+"b_170#48",
+"v_b_050#9",
+"w_022#3",
+"w_032#27",
+"b_165#30",
+"r_135#21",
+"r_135#22",
+"v_b_252#23",
+"v_b_357#5"
+]
+},
+{
+"tema": "El sufrimiento es temporal: perspectiva eterna y la mañana que viene",
+"resumen": "El sufrimiento puede durar toda la vida pero no para siempre; la noche de llanto da paso a la mañana de alegría y a un estado sin aflicción.",
+"refs": [
+"Sal 30:5",
+"2 Co 4:17-18",
+"Ro 8:18",
+"Ap 21:4"
+],
+"ids": [
+"r_086#42",
+"v_b_187#13",
+"b_070#43",
+"r_066#37",
+"r_086#37"
+]
+},
+{
+"tema": "Infertilidad, aborto espontáneo, embarazo difícil y pérdida de un hijo",
+"resumen": "El dolor silente de la mujer sin hijos o que perdió un hijo: tentaciones, esperanza, el silencio de Dios y la fecundidad espiritual.",
+"refs": [
+"Jn 16:33",
+"Jn 11:33-35",
+"Sal 22:24",
+"Sal 113:9",
+"Sal 34:10"
+],
+"ids": [
+"w_004#7",
+"w_013#15",
+"r_020#42",
+"r_020#45",
+"r_020#47",
+"r_085#1",
+"b_141#11",
+"b_100#24",
+"b_083#40",
+"b_010#46"
+]
+},
+{
+"tema": "Viudez: el cuidado de las viudas en la iglesia",
+"resumen": "Qué enseña Pablo sobre las viudas verdaderas, el rol de la familia y de la iglesia y las viudas jóvenes.",
+"refs": [
+"1 Ti 5:3-16",
+"Hch 6:1"
+],
+"ids": [
+"b_165#16",
+"r_006#79"
+]
+},
+{
+"tema": "Abuso, violencia y heridas del pasado: romper el silencio y buscar sanidad",
+"resumen": "La mujer abusada o herida no está sola: Cristo la sana, hay que buscar ayuda, soltar el equipaje del pasado y no buscar en relaciones fallidas lo que solo Dios da.",
+"refs": [
+"2 Co 5:17",
+"Heb 4:15-16",
+"Gn 16:13",
+"Lc 8:48",
+"Jn 4:16-18"
+],
+"ids": [
+"w_013#3",
+"r_142#11",
+"r_137#25",
+"r_137#26",
+"r_091#28",
+"r_113#3",
+"w_026#16",
+"w_023#21",
+"b_081#8",
+"b_134#16"
+]
+},
+{
+"tema": "Divorcio, culpa y fracaso: restauración y perdón sin penitencia",
+"resumen": "El perdón es por la fe en Cristo y no por penitencia: Oseas y Gomer, Cipriano con los caídos, la caída y el levantarse, y dejar las etiquetas.",
+"refs": [
+"Os 3:1-2",
+"1 Co 6:9-11",
+"2 Co 5:17",
+"Pr 24:16",
+"1 Ti 1:15-16"
+],
+"ids": [
+"r_042#34",
+"r_065#27",
+"r_023#18",
+"v_b_200#1",
+"v_b_254#15",
+"v_b_421#17",
+"v_o_010#9",
+"v_b_252#17",
+"v_b_270#19"
+]
+},
+{
+"tema": "Marcos: del fracaso y el abandono a la restauración útil para el ministerio",
+"resumen": "Juan Marcos abandonó a Pablo en Perge, pero fue restaurado y Pablo lo pidió por ser útil: ejemplo de segunda oportunidad.",
+"refs": [
+"Hch 13:13",
+"Hch 15:36-41",
+"Col 4:10",
+"2 Ti 4:11"
+],
+"ids": [
+"v_b_098#23",
+"v_b_320#8",
+"v_b_415#1",
+"v_b_425#2",
+"v_b_429#10"
+]
+},
+{
+"tema": "Depresión y vida emocional: remedios bíblicos y apoyo",
+"resumen": "Respuesta práctica y bíblica a la depresión y al entumecimiento: Palabra memorizada, tratamiento, apoyo, desierto, sentimientos y oración sencilla.",
+"refs": [
+"Fil 4:8",
+"Sal 42:11",
+"Jn 15:5",
+"Sal 16:11",
+"Stg 5:13"
+],
+"ids": [
+"b_066#8",
+"o_005#5",
+"b_103#3",
+"o_004#28",
+"b_125#30",
+"w_034#8",
+"w_022#29",
+"w_022#30",
+"v_b_438#12",
+"v_b_449#35",
+"r_084#55",
+"r_084#57"
+]
+},
+{
+"tema": "Ansiedad, estrés y falta de paz: llevar la carga a Dios",
+"resumen": "Echar la ansiedad sobre Dios, ver el estrés bajo su soberanía, la paz de Cristo y la ansiedad como ocasión de depender del evangelio.",
+"refs": [
+"1 P 5:7",
+"Jn 14:27",
+"Sal 23",
+"Fil 4:6",
+"Mt 10:29"
+],
+"ids": [
+"w_052#1",
+"w_065#3",
+"b_136#17",
+"r_099#82",
+"r_140#10",
+"v_b_061#17",
+"v_b_165#14"
+]
+},
+{
+"tema": "Desaliento y agotamiento: cuando las fuerzas se acaban",
+"resumen": "El desaliento es herramienta de Satanás, es normal en el servicio y se enfrenta con la presencia de Dios, apoyo en oración y descanso.",
+"refs": [
+"Jos 1:9",
+"2 Co 1:8-11",
+"2 Co 4:8-10",
+"Neh 4:7-12",
+"Heb 12:2"
+],
+"ids": [
+"v_b_103#7",
+"v_b_103#15",
+"v_b_107#4",
+"v_b_107#5",
+"v_b_215#21",
+"w_005#13",
+"w_051#16",
+"v_b_297#15",
+"v_b_108#79",
+"b_129#56"
+]
+},
+{
+"tema": "Suicidio, autolesión y desesperación: la vida es de Dios y hay esperanza",
+"resumen": "Qué dice la Escritura sobre el suicidio y la desesperación, casos reales de gracia y la lectura de Filipenses que reinterpreta el sufrimiento.",
+"refs": [
+"Fil 1:21-23",
+"Éx 20:13",
+"Mt 27:3-5",
+"Sal 136:26"
+],
+"ids": [
+"b_100#40",
+"v_b_200#7",
+"b_102#27",
+"v_b_201#14",
+"v_b_291#22",
+"v_b_364#14",
+"v_b_390#10",
+"v_b_333#10",
+"v_b_216#17",
+"b_133#23",
+"b_020#3"
+]
+},
+{
+"tema": "La esperanza cristiana: certeza en las promesas, no mero deseo",
+"resumen": "La esperanza bíblica es expectación segura fundada en Cristo, activa y firme, que sostiene aun en las peores situaciones y frente a la desesperación.",
+"refs": [
+"Ro 15:13",
+"Ro 5:3-5",
+"1 P 1:3",
+"Lm 3:21-24",
+"Col 1:27"
+],
+"ids": [
+"b_104#20",
+"b_143#24",
+"v_o_005#21",
+"w_001#27",
+"w_014#22",
+"w_014#4",
+"v_b_200#12",
+"w_025#23",
+"r_011#41",
+"v_b_384#9",
+"w_043#13",
+"b_125#30"
+]
+},
+{
+"tema": "Ester: Dios obra en las sombras cuando el poder es impío y los planes se frustran",
+"resumen": "Pese a que el libro no nombra a Dios, Ester muestra su providencia en la orfandad, bajo gobernantes impíos y en el paso del dolor al gozo.",
+"refs": [
+"Est 6",
+"Est 9:20-22",
+"Sal 47:7",
+"Pr 21:1",
+"Ro 8:28"
+],
+"ids": [
+"r_055#8",
+"r_056#40",
+"w_010#21",
+"w_062#15"
+]
+},
+{
+"tema": "Sufrimiento injusto: seguir el ejemplo de Cristo ante la calumnia, la crítica y el maltrato",
+"resumen": "Cristo sufrió sin pecar, no devolvió insulto y se encomendó al Padre; así responde la creyente a la acusación falsa, la crítica y el maltrato, como José ante Potifar.",
+"refs": [
+"1 P 2:19-24",
+"1 P 3:9-14",
+"Mt 5:11-12",
+"2 Ti 4:14-15",
+"Gn 39:13-20"
+],
+"ids": [
+"r_103#19",
+"w_035#10",
+"v_b_321#17",
+"v_b_097#17",
+"v_b_436#20",
+"v_b_321#19",
+"v_b_106#46",
+"v_b_105#29",
+"v_b_103#39",
+"v_b_098#28",
+"v_b_313#7"
+]
+},
+{
+"tema": "Sufrir por Cristo es la vocación de todo creyente",
+"resumen": "El sufrimiento por seguir a Cristo no es un accidente sino un llamado, una participación en sus padecimientos, que se espera con gozo y prepara para servir.",
 "refs": [
 "1 P 4:12-19",
+"Fil 1:29",
 "Hch 14:22",
 "Jn 15:20",
-"Flp 1:29",
-"2 Ti 3:12"
+"Hch 9:16"
+],
+"ids": [
+"r_066#43",
+"v_o_011#14",
+"v_b_306#8",
+"v_b_333#1",
+"v_b_434#22",
+"v_b_396#8",
+"v_b_097#9",
+"v_b_395#12",
+"v_b_364#8",
+"v_b_350#11",
+"r_045#65",
+"v_b_157#5"
+]
+},
+{
+"tema": "Presos por la fe: Pablo, Bunyan y los encarcelados que hallaron al Señor",
+"resumen": "Desde el calabozo, Pablo y Bunyan muestran gratitud sin amargura, la presencia del Señor que no abandona y la entrega de la familia a Dios.",
+"refs": [
+"2 Ti 4:17-18",
+"2 Ti 1:3",
+"2 Co 1:9",
+"Fil 1:12-18"
+],
+"ids": [
+"v_b_098#30",
+"v_b_424#22",
+"v_b_425#4",
+"v_b_429#2",
+"v_b_254#1",
+"b_113#6",
+"v_b_248#10"
+]
+},
+{
+"tema": "Mártires y perseguidos: acusaciones falsas, azotes y muerte con gozo",
+"resumen": "Cristianos que fueron azotados, encarcelados, condenados a minas y quemados, y aun así se fueron gozosos y fieles.",
+"refs": [
+"Hch 5:40-42",
+"1 P 4:14-16",
+"2 Ti 4:7-8"
+],
+"ids": [
+"v_b_320#19",
+"v_b_304#8",
+"v_b_304#2",
+"v_b_255#5",
+"v_b_249#3",
+"v_b_254#20"
+]
+},
+{
+"tema": "Enfermedad y sanidad: expiación, oración, ayuda médica y el cuerpo",
+"resumen": "El 'fuisteis sanados' no promete salud física inmediata; se ora, se unge y se usa remedio, como con Timoteo y la mujer del flujo de sangre.",
+"refs": [
+"1 P 2:24",
+"Stg 5:14-16",
+"1 Ti 5:23",
+"Mr 5:25-34",
+"2 Co 12:1-10"
+],
+"ids": [
+"v_b_263#23",
+"v_b_440#9",
+"v_b_296#20",
+"v_b_449#36",
+"v_b_321#2",
+"v_b_423#6",
+"w_043#13"
+]
+},
+{
+"tema": "Trampas del que sufre: autocompasión, comparación, orgullo y murmuración",
+"resumen": "Advertencias sobre lo que el dolor puede producir en el corazón: aislamiento, autocompasión, queja contra Dios y errores al afrontar la dificultad, junto con la humildad como remedio.",
+"refs": [
+"Pr 18:1",
+"Ex 17:1-7",
+"1 P 5:6-8",
+"Gn 16:1-5"
+],
+"ids": [
+"b_050#17",
+"v_b_274#21",
+"r_143#8",
+"v_b_240#6",
+"v_b_108#50",
+"v_b_165#12"
+]
+},
+{
+"tema": "El dolor de ver que hijos y amigos se apartan de la fe",
+"resumen": "Consuelo para quien sufre por los que abandonan o se descarrían: Jesús vivió deserciones peores y Dios guarda cada lágrima de la madre.",
+"refs": [
+"2 Ti 4:10",
+"Sal 56:8",
+"Fil 2:20",
+"Mt 25:41"
+],
+"ids": [
+"v_b_011#5",
+"v_o_013#10",
+"v_b_355#4",
+"r_036#16"
 ]
 }
 ],

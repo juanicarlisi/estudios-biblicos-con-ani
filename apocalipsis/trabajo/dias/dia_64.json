@@ -8,7 +8,7 @@
     "estudio": 28
   },
   "contexto": {
-    "antes": "Ayer se derramó la sexta copa: el Éufrates se secó y tres espíritus de demonios salieron a convocar a los reyes de la tierra. MacArthur dice que la sexta copa prepara el escenario final; Ladd, que esa convocatoria apunta a la batalla de 19:11.",
+    "antes": "Ayer se derramó la sexta copa: el Éufrates se secó y tres espíritus de demonios salieron a convocar a los reyes de la tierra.",
     "ahora": "Los ejércitos quedan reunidos en Armagedón y el séptimo ángel derrama la última copa. La voz del trono dice «Hecho está», y siguen el mayor terremoto de la historia, la caída de las ciudades, el juicio de Babilonia, islas y montes que desaparecen y un granizo enorme. Los hombres, otra vez, blasfeman.",
     "donde": "Armagedón remite a Meguido, en la llanura de Esdraelón, a unos cien kilómetros al norte de Jerusalén (MacArthur); si es un lugar del mapa o un símbolo, se discute (ver Interpretaciones). La voz sale del templo del cielo, del trono.",
     "cuando": "Para MacArthur, McGee y Larkin, al final de la Gran Tribulación, justo antes de la venida de Cristo; para Ladd, Juan anticipa el final y lo desarrolla en 17-19; para el Comentario Mundo Hispano, es el fin del mundo, cuando Dios somete a todos sus enemigos.",
@@ -46,11 +46,10 @@
       "titulo": "«Y los reunió»",
       "notas": [
         {
-          "texto": "El versículo cierra la sexta copa: los espíritus que salieron de la boca del dragón, de la bestia y del falso profeta reúnen a los reyes para la batalla de 19:11 (Ladd). Carballosa y Earle (Beacon) explican que el verbo va en singular porque su sujeto es un plural neutro, espíritus, como pide el griego. Para Carballosa son los demonios los que, con sus estratagemas, concentran los ejércitos en un último intento por impedir la venida en gloria de Cristo. McGee lee distinto: quien reúne puede ser Dios mismo, y los tres cumplen sin saberlo su Palabra (ver Interpretaciones). En cualquier caso, la batalla tiene el resultado escrito de antemano (19:11-21).",
+          "texto": "El versículo cierra la sexta copa: los espíritus que salieron de la boca del dragón, de la bestia y del falso profeta reúnen a los reyes para la batalla de 19:11 (Ladd). Para Carballosa son los demonios los que, con sus estratagemas, concentran los ejércitos en un último intento por impedir la venida en gloria de Cristo. McGee lee distinto: quien reúne puede ser Dios mismo, y los tres cumplen sin saberlo su Palabra (ver Interpretaciones). En cualquier caso, la batalla tiene el resultado escrito de antemano (19:11-21).",
           "fuentes": [
             "ladd_06_a#21",
             "carballosa_12_b#24",
-            "beacon_04_b#21",
             "mcgee_09_b#8",
             "carballosa_12_b#25"
           ],
@@ -139,7 +138,7 @@
       "titulo": "Un terremoto como no lo hubo jamás",
       "notas": [
         {
-          "texto": "Relámpagos, voces y truenos son manifestaciones del poder y la gloria de Dios (4:5; 8:5; 11:19; Ladd); McGee nota que lo que se oyó al principio junto al trono vuelve al final, y MacArthur, que la tormenta del séptimo sello y de la séptima trompeta era solo un anticipo. El griego es sumamente enfático: un gran terremoto, como no lo hubo desde que el hombre existe, «tan grande»; Carballosa dice que Juan parece no encontrar vocabulario. Supera los de 6:12 y 11:13, y MacArthur lo contrasta con los terremotos locales de Mateo 24:7.",
+          "texto": "Relámpagos, voces y truenos son manifestaciones del poder y la gloria de Dios (4:5; 8:5; 11:19; Ladd); McGee nota que lo que se oyó al principio junto al trono vuelve al final, y MacArthur, que la tormenta del séptimo sello y de la séptima trompeta era solo un anticipo. El griego es sumamente enfático: un gran terremoto, como no lo hubo desde que el hombre existe, «tan grande»; Carballosa dice que Juan parece no encontrar vocabulario. Supera los de 6:12 y 11:13.",
           "fuentes": [
             "ladd_06_a#23",
             "mcgee_09_b#10",
@@ -190,13 +189,14 @@
       "titulo": "Islas que huyen, granizo y corazones que no se doblan",
       "notas": [
         {
-          "texto": "«Toda isla huyó, y los montes no fueron hallados» recuerda el sexto sello (6:12-14), en escala mucho mayor (Carballosa). MacArthur ve una reconfiguración real de la tierra para el reino (Is 40:4); Ladd y Mundo Hispano, el lenguaje con que la Biblia describe el fin del viejo orden antes de la nueva creación (21:1). Earle admite que es imposible saber hasta dónde es literal.",
+          "texto": "«Toda isla huyó, y los montes no fueron hallados» recuerda el sexto sello (6:12-14), en escala mucho mayor (Carballosa). MacArthur ve una reconfiguración real de la tierra para el reino (Is 40:4); Ladd y Mundo Hispano, el lenguaje con que la Biblia describe el fin del viejo orden antes de la nueva creación (21:1). Earle admite que es imposible saber hasta dónde es literal, y Lennox lo lee como hipérbole: si fuera literal no habría vida posible, y el relato sigue con hombres que reaccionan.",
           "fuentes": [
             "carballosa_13_a#1",
             "macarthur_14_a#34",
             "ladd_06_a#24",
             "cbmh_06_b#21",
-            "beacon_04_b#22"
+            "beacon_04_b#22",
+            "r4_460_12_a#29"
           ],
           "tipo": "explicacion_texto"
         },
@@ -305,6 +305,11 @@
           "postura": "Un lugar real, pero de preparación militar; la última batalla es la del valle de Josafat (Jl 3; Zac 14).",
           "quien": "J. Oliver Buswell (premilenial histórico)",
           "fuentes": ["r1_010#33"]
+        },
+        {
+          "postura": "Un lugar real como trasfondo, pero el texto solo dice que los ejércitos se congregan allí; por Zacarías 12:11 (el llanto en la llanura de Meguido), la batalla contra Jerusalén quizá no ocurra literalmente en Meguido sino que se parecerá a las guerras libradas allí. Importa más su naturaleza que su ubicación.",
+          "quien": "Lennox",
+          "fuentes": ["r4_460_12_a#19"]
         }
       ],
       "nota": "Ladd deja abierto el origen del nombre y afirma lo que todos comparten: es la lucha final entre el mal y el reino de Dios."
@@ -314,8 +319,8 @@
       "posturas": [
         {
           "postura": "Jerusalén: el versículo la distingue de Babilonia, en 11:8 Jerusalén recibe ese nombre y el terremoto la parte como en Zacarías 14:4-5.",
-          "quien": "Carballosa, MacArthur, McGee y Larkin (premileniales dispensacionales); Buswell",
-          "fuentes": ["carballosa_12_b#29", "macarthur_14_a#32", "mcgeer_11#6", "larkin_05_a#16", "r1_010#36"]
+          "quien": "Carballosa, MacArthur, McGee y Larkin (premileniales dispensacionales); Buswell; Lennox, que suma Ezequiel 38:18 y el contraste con las ciudades de las naciones; Milligan, Simcox y Weidner, según el Comentario Moody",
+          "fuentes": ["carballosa_12_b#29", "macarthur_14_a#32", "mcgeer_11#6", "larkin_05_a#16", "r1_010#36", "r4_460_12_a#28", "r4_225_02_a#36"]
         },
         {
           "postura": "Babilonia, capital de la bestia: lo indica el contexto, y Jerusalén ya sufrió su terremoto en 11:13.",
@@ -347,16 +352,7 @@
       "nota": "Todos coinciden en que con esta copa la ira de Dios contra el mal llega a su término."
     }
   ],
-  "biblioteca": [
-    {
-      "texto": "Buswell se pregunta cómo alguien puede pensar en pelear contra Dios: como Herodes supo por los que conocían las Escrituras dónde nacería Cristo, la bestia sabrá por la Biblia que Cristo vendrá al monte de los Olivos. Y agrega que en el «se burlará» del Salmo 2 Dios está cerca de las lágrimas, como Cristo sobre Jerusalén (Lc 13:34).",
-      "autor": "J. Oliver Buswell, Jr.",
-      "obra": "Escatología",
-      "pagina": "pág. PDF 125-126",
-      "tipo": "doctrina",
-      "fuentes": ["r1_010#34"]
-    }
-  ],
+  "biblioteca": [],
   "conexiones": [
     {
       "ref": "Jue 5:19-21, 31",
@@ -398,8 +394,8 @@
       "fuentes": ["macarthur_14_a#36", "web_05_b#14"]
     },
     {
-      "texto": "Lean las noticias con sobriedad: muchas generaciones creyeron ver Armagedón en sus propias guerras y se equivocaron (Grau, Guzik).",
-      "fuentes": ["r1_012#27", "web_05_b#11"]
+      "texto": "Lean las noticias con sobriedad: muchas generaciones creyeron ver Armagedón en sus propias guerras y se equivocaron (Grau, Guzik). Lennox advierte que las predicciones seguras que fallan terminan desacreditando a la misma profecía: el libro revela lo que Dios quiere que sepamos, no todo lo que nos gustaría saber.",
+      "fuentes": ["r1_012#27", "web_05_b#11", "r4_460_12_a#22"]
     }
   ],
   "para_conversar": [
@@ -413,8 +409,13 @@
   "profundizar": [
     {
       "titulo": "Meguido en la historia",
-      "texto": "McGee, que visitó el lugar, lo describe como el valle más fértil del mundo hoy, por donde pasaron Nabucodonosor, egipcios, asirios, persas, sirios, cruzados, turcos, árabes y Napoleón; la Biblia de estudio MacArthur recuerda que Napoleón lo llamó el mayor campo de batalla que había visto, y lo ubica a 96 km al norte de Jerusalén. Guzik cuenta más de doscientas batallas, desde Tutmosis III (1468 a.C.) hasta Allenby (1917). El Comentario Mundo Hispano señala que la derrota de Josías ante Necao abrió el camino a la caída de Judá, y Zacarías 12:11 recuerda el llanto en el valle de Meguido (Guzik, Earle). Carballosa suma 1 Samuel 31:8 a la lista de batallas del valle.",
-      "fuentes": ["mcgee_09_b#8", "mcgeer_11#3", "mbiblia_02_c#19", "web_05_b#11", "cbmh_06_b#20", "beacon_04_b#21", "carballosa_19#5"]
+      "texto": "McGee, que visitó el lugar, lo describe como el valle más fértil del mundo hoy, por donde pasaron Nabucodonosor, egipcios, asirios, persas, sirios, cruzados, turcos, árabes y Napoleón; la Biblia de estudio MacArthur recuerda que Napoleón lo llamó el mayor campo de batalla que había visto, y lo ubica a 96 km al norte de Jerusalén. Guzik cuenta más de doscientas batallas, desde Tutmosis III (1468 a.C.) hasta Allenby (1917). El Comentario Mundo Hispano señala que la derrota de Josías ante Necao abrió el camino a la caída de Judá, y Zacarías 12:11 recuerda el llanto en el valle de Meguido (Guzik, Earle). Carballosa suma 1 Samuel 31:8 a la lista de batallas del valle. Lennox recuerda que Acab fortificó Meguido, hoy un tell, y que la llamaron la encrucijada del Medio Oriente; Dyer explica que domina el valle de Jezreel, que cruza Israel del Mediterráneo al Jordán, por donde pasaba la calzada entre Egipto y Mesopotamia, y Hitchcock da al valle unos 16 por 56 kilómetros.",
+      "fuentes": ["mcgee_09_b#8", "mcgeer_11#3", "mbiblia_02_c#19", "web_05_b#11", "cbmh_06_b#20", "beacon_04_b#21", "carballosa_19#5", "r4_460_12_a#18", "r4_453_01#28", "r4_442_04#8"]
+    },
+    {
+      "titulo": "¿Batalla o campaña?",
+      "texto": "Dyer y Hitchcock subrayan que 16:16 no describe una batalla sino una reunión: es el comienzo de la campaña de Armagedón. Hitchcock la imagina extendida a lo largo de unos 320 kilómetros, con etapas que da sin certeza total: reunión de los ejércitos, ataque a Jerusalén (Zac 12:1-3), regreso de Jesús al monte de los Olivos y derrota de los ejércitos (Zac 14:1-4; 2 Ts 2:8; 19:11-21) y marcha a Edom para librar al remanente (Is 34:1-7; 63:1-3). Ice informa que muchos (Dave Hunt entre ellos) identifican Armagedón con la invasión de Gog de Ezequiel 38-39, postura que él no adopta. Sobre la gramática de 16:16, Carballosa y Earle explican que el verbo va en singular porque su sujeto es un plural neutro, espíritus.",
+      "fuentes": ["r4_453_01#28", "r4_442_04#9", "r4_449_01#4", "carballosa_12_b#24", "beacon_04_b#21"]
     },
     {
       "titulo": "Las conjeturas sobre Armagedón",
@@ -423,7 +424,7 @@
     },
     {
       "titulo": "La cumbre del poder de la bestia",
-      "texto": "Buswell ve en la reunión de Armagedón el máximo poder de la bestia: objeto religioso supremo (13:4, 11-15), dueña del sistema económico (13:15-18) y gobernante política de la humanidad (13:7; 17:12-13). Es el último pecado esperable de esta época, parecido a la rebelión original de Satanás, y muestra a qué conduce resistir la gracia. MacArthur, en sus sermones sobre escatología, habla de demonios sueltos y de la humanidad conducida a los campos de Meguido y más allá de Jerusalén: el gran holocausto de Armagedón.",
+      "texto": "Buswell ve en la reunión de Armagedón el máximo poder de la bestia: objeto religioso supremo (13:4, 11-15), dueña del sistema económico (13:15-18) y gobernante política de la humanidad (13:7; 17:12-13). Es el último pecado esperable de esta época, parecido a la rebelión original de Satanás, y muestra a qué conduce resistir la gracia. MacArthur, en sus sermones sobre escatología, habla de demonios sueltos y de la humanidad conducida a los campos de Meguido y más allá de Jerusalén: el gran holocausto de Armagedón. Buswell se pregunta además cómo alguien puede pensar en pelear contra Dios: como Herodes supo por los entendidos en las Escrituras dónde nacería Cristo, la bestia sabrá por la Biblia que vendrá al monte de los Olivos; y en el «se burlará» del Salmo 2 ve a Dios cerca de las lágrimas, como Cristo sobre Jerusalén (Lc 13:34).",
       "fuentes": ["r1_010#34", "r1_014#38"]
     },
     {

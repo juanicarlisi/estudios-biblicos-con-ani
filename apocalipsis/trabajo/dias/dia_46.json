@@ -56,11 +56,12 @@
       "titulo": "«Apareció en el cielo una gran señal»",
       "notas": [
         {
-          "texto": "La palabra es «señal» (sēmeion): algo que se deja ver y apunta a una realidad distinta de sí mismo (Carballosa, MacArthur). Aparece aquí por primera vez en el libro, calificada de «gran»: para Carballosa, señal de un profundo significado espiritual; para MacArthur, en esta visión todo es grande en tamaño o en importancia.",
+          "texto": "La palabra es «señal» (sēmeion): algo que se deja ver y apunta a una realidad distinta de sí mismo (Carballosa, MacArthur). Aparece aquí por primera vez en el libro, calificada de «gran»: para Carballosa, señal de un profundo significado espiritual; para MacArthur, en esta visión todo es grande en tamaño o en importancia. Lennox recuerda que el Evangelio de Juan también está armado con señales que apuntan a quién es Jesús (Jn 20:31).",
           "fuentes": [
             "carballosa_09_a#23",
             "macarthur_10#19",
-            "mbiblia_02_a#22"
+            "mbiblia_02_a#22",
+            "r4_460_09_b#27"
           ],
           "tipo": "griego_palabra"
         },
@@ -131,12 +132,15 @@
           "tipo": "dificultad_interpretaciones"
         },
         {
-          "texto": "Dos datos del capítulo ordenan la discusión: el hijo es el Mesías (v. 5), y el dragón persigue después al resto de la descendencia de ella (v. 17). Por el primero, Guzik y Carballosa descartan a la Iglesia: Cristo dio origen a la Iglesia, no al revés. Por el segundo, y porque es una señal, Carballosa descarta a María. Ladd usa ese mismo versículo 17 para decir que la mujer es madre del Mesías y también de la iglesia.",
+          "texto": "Dos datos del capítulo ordenan la discusión: el hijo es el Mesías (v. 5), y el dragón persigue después al resto de la descendencia de ella (v. 17). Por el primero, Guzik, Carballosa, Hitchcock y Lennox descartan a la Iglesia: Cristo dio origen a la Iglesia, no al revés. Por el segundo, y porque es una señal, Carballosa descarta a María; Hitchcock agrega que María nunca huyó al desierto 1.260 días (v. 6), y el Comentario Moody, que la misma tradición católica enseña que María dio a luz sin dolor, contra el versículo 2. Ladd usa ese mismo versículo 17 para decir que la mujer es madre del Mesías y también de la iglesia.",
           "fuentes": [
             "web_04_b#2",
             "carballosa_09_a#27",
             "carballosa_09_a#26",
-            "ladd_05_a#7"
+            "ladd_05_a#7",
+            "r4_442_03_b#7",
+            "r4_460_17_b#4",
+            "r4_225_02_a#15"
           ],
           "tipo": "dificultad_interpretaciones"
         },
@@ -276,7 +280,7 @@
     },
     {
       "signo": "sol, luna y doce estrellas",
-      "significado": "Gloria y majestad (Ladd); el sueño de José (Gn 37:9-11); las doce estrellas, las tribus o sus patriarcas (MacArthur, Morris, Ladd) o, como posibilidad, los doce apóstoles (Beacon).",
+      "significado": "Gloria y majestad (Ladd); el sueño de José (Gn 37:9-11); las doce estrellas, las tribus o sus patriarcas (MacArthur, Morris, Ladd) o, como posibilidad, los doce apóstoles (Beacon); para Matthew Henry, la iglesia vestida de Cristo, Sol de justicia, con la doctrina de los doce apóstoles por corona.",
       "refs": [
         "12:1"
       ],
@@ -284,18 +288,8 @@
         "ladd_05_a#8",
         "macarthur_10#22",
         "carballosa_09_a#25",
-        "beacon_04_a#13"
-      ]
-    },
-    {
-      "signo": "dolores de parto",
-      "significado": "Figura profética de Israel o Sión (Is 26:17; 66:7; Mi 4:10): la espera del Mesías y el sufrimiento del pueblo (Carballosa, MacArthur).",
-      "refs": [
-        "12:2"
-      ],
-      "fuentes": [
-        "carballosa_09_a#29",
-        "macarthur_10#23"
+        "beacon_04_a#13",
+        "r4_2_01_b#12"
       ]
     },
     {
@@ -413,7 +407,7 @@
       ]
     },
     {
-      "texto": "Según MacArthur y McGee, el odio del dragón contra la madre y el niño viene de Génesis 3:15. Wiersbe recuerda cómo, después del nacimiento de Jesús, Satanás quiso destruirlo por medio de Herodes. Pero su dominio tiene límite: MacArthur dice que Dios se lo permitió solo hasta la séptima trompeta (11:15).",
+      "texto": "Según MacArthur y McGee, el odio del dragón contra la madre y el niño viene de Génesis 3:15. Lennox subraya que allí Dios prometió que triunfaría una descendencia humana: si hubiera exterminado a la humanidad caída, el diablo habría cantado victoria. Wiersbe recuerda cómo, después del nacimiento de Jesús, Satanás quiso destruirlo por medio de Herodes. Pero su dominio tiene límite: MacArthur dice que Dios se lo permitió solo hasta la séptima trompeta (11:15).",
       "refs": [
         "Gn 3:15",
         "Mt 2:13-18",
@@ -423,7 +417,8 @@
         "macarthur_10#23",
         "mcgee_07_b#7",
         "r2_017#5",
-        "macarthur_10#26"
+        "macarthur_10#26",
+        "r4_460_10_a#2"
       ]
     }
   ],
@@ -432,8 +427,8 @@
       "tema": "¿Quién es la mujer vestida del sol?",
       "posturas": [
         {
-          "postura": "La nación de Israel, que dio al Mesías. Argumentos: el sueño de José, la figura profética de Israel como mujer de parto, el arca de 11:19 y Ro 9:5.",
-          "quien": "Carballosa, MacArthur, McGee, Larkin y Guzik (premileniales dispensacionales); Leon Morris, citado por Carballosa y por Latham",
+          "postura": "La nación de Israel, que dio al Mesías. Argumentos: el sueño de José (para Hitchcock, el único otro lugar de la Biblia que agrupa sol, luna y estrellas), la figura profética de Israel como mujer de parto, el arca de 11:19 y Ro 9:5.",
+          "quien": "Carballosa, MacArthur, McGee, Larkin, Guzik, Hitchcock, Walvoord y Dyer (premileniales dispensacionales); el Comentario Moody; Leon Morris, citado por Carballosa y por Latham",
           "fuentes": [
             "carballosa_09_a#28",
             "macarthur_10#20",
@@ -442,15 +437,28 @@
             "larkin_03_b#6",
             "web_04_b#2",
             "cpe_01#13",
-            "carballosa_09_a#25"
+            "carballosa_09_a#25",
+            "r4_442_03_b#7",
+            "r4_450_03#5",
+            "r4_453_01#10",
+            "r4_225_02_a#15",
+            "r4_455_01_b#9"
+          ]
+        },
+        {
+          "postura": "Israel visto en las mujeres de la línea de la promesa desde Eva (Sara, Rebeca, Lea, Rut, Betsabé), y en particular María al dar a luz al Mesías.",
+          "quien": "Lennox",
+          "fuentes": [
+            "r4_460_10_a#1"
           ]
         },
         {
           "postura": "El pueblo de Dios de los dos Testamentos: el verdadero Israel, que incluye a los creyentes judíos y gentiles; una sola iglesia en todas las épocas.",
-          "quien": "Seiss, a quien el Comentario Beacon considera probablemente la mejor posición; R. H. Charles; Barclay, que parte de Israel como comunidad ideal y la amplía a la Iglesia de todas las edades",
+          "quien": "Seiss, a quien el Comentario Beacon considera probablemente la mejor posición; R. H. Charles; Barclay, que parte de Israel como comunidad ideal y la amplía a la Iglesia de todas las edades; Auberlen y Lenski, según el Comentario Moody",
           "fuentes": [
             "beacon_04_a#13",
-            "carballosa_10_a#11"
+            "carballosa_10_a#11",
+            "r4_225_02_a#15"
           ]
         },
         {
@@ -470,11 +478,13 @@
         },
         {
           "postura": "La Iglesia del Antiguo y del Nuevo Testamento, de la que María forma parte.",
-          "quien": "Los Padres primitivos, según el Beacon; Vila; según McGee, la mayoría de las denominaciones protestantes",
+          "quien": "Los Padres primitivos, según el Beacon (Victorino, según el Moody); Matthew Henry; Vila; según McGee, la mayoría de las denominaciones protestantes",
           "fuentes": [
             "beacon_04_a#13",
             "r2_015#17",
-            "mcgee_07_b#2"
+            "mcgee_07_b#2",
+            "r4_225_02_a#15",
+            "r4_2_01_b#12"
           ]
         },
         {
@@ -487,6 +497,13 @@
             "web_04_b#2",
             "r2_015#17",
             "carballosa_10_a#11"
+          ]
+        },
+        {
+          "postura": "La iglesia, y el hijo varón, los creyentes fieles arrebatados antes de la tribulación.",
+          "quien": "G. H. Lang y otros partidarios del rapto parcial, según Walvoord, que lo rechaza",
+          "fuentes": [
+            "r4_450_03#5"
           ]
         }
       ],
@@ -520,6 +537,13 @@
           ]
         },
         {
+          "postura": "La Roma pagana de las siete colinas: diez reinos en que se divide y siete formas de gobierno.",
+          "quien": "Matthew Henry",
+          "fuentes": [
+            "r4_2_01_b#12"
+          ]
+        },
+        {
           "postura": "Las cabezas, la perfección de sabiduría con que Satanás fue creado (Ez 28:12-16); los cuernos, la división final del Imperio romano.",
           "quien": "McGee",
           "fuentes": [
@@ -539,18 +563,7 @@
       "nota": "El capítulo 17 vuelve sobre estos números."
     }
   ],
-  "biblioteca": [
-    {
-      "texto": "Edward Reynolds, citado por Beeke y Jones, dice que Satanás tiene tres títulos que muestran su maldad contra la iglesia: dragón, por su malicia (Ap 12:3); serpiente, por su astucia (Gn 3:1); y león, por su fuerza (1 P 5:8). Y agrega que ninguno de ellos soporta la oración.",
-      "autor": "Joel Beeke y Mark Jones",
-      "obra": "Una teología puritana",
-      "pagina": "pág. PDF 272",
-      "tipo": "aplicacion",
-      "fuentes": [
-        "r2_025_a#8"
-      ]
-    }
-  ],
+  "biblioteca": [],
   "conexiones": [
     {
       "ref": "Gn 37:9-11",
@@ -659,6 +672,14 @@
       "fuentes": [
         "cpe_01#11",
         "cpe_01#12"
+      ]
+    },
+    {
+      "titulo": "Nicholl y el cielo del año 6 a. C.",
+      "texto": "Lennox recoge la propuesta de Colin Nicholl (El gran cometa de Cristo): la señal aludiría a la constelación de Virgo y el dragón a la Hidra, al sur de ella; Nicholl cuenta doce estrellas visibles junto a la cabeza y sostiene que la luna bajo los pies y el sol vistiéndola coincidieron en el 6 a. C., cuando un cometa brillante habría «entrado» en su vientre. Lennox menciona que Mark Bailey, del Observatorio de Armagh, considera sólidos esos argumentos, y recomienda el libro piense uno lo que piense de la estrella de Belén. A diferencia de la teoría de 2017, mira al nacimiento de Cristo y no fija fechas futuras.",
+      "fuentes": [
+        "r4_460_10_a#4",
+        "r4_460_17_b#4"
       ]
     },
     {

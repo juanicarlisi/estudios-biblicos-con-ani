@@ -174,7 +174,7 @@
           "tipo": "cronologia_fechas"
         },
         {
-          "texto": "La lectura de los reinos se apoya en Daniel, donde cuatro bestias son cuatro reyes que son cuatro reinos (Dn 7:17, 23; Ladd, Carballosa, Benware); Ladd agrega que «han caído» encaja mejor con un reino que con un emperador. Mundo Hispano objeta que la palabra griega es la que se traduce “rey”, no “reino”, y que la lista de imperios obliga a omitir, por ejemplo, la opresión de Antíoco IV Epífanes. Hitchcock, a su vez, le objeta a la lectura simbólica que no explica tanto detalle («cinco… uno… otro»), ni por qué hay un octavo si siete es plenitud, y que en Daniel y en el Apocalipsis los símbolos suelen tener referentes precisos.",
+          "texto": "La lectura de los reinos se apoya en Daniel, donde cuatro bestias son cuatro reyes que son cuatro reinos (Dn 7:17, 23; Ladd, Carballosa, Benware); Ladd agrega que «han caído» encaja mejor con un reino que con un emperador. Mundo Hispano objeta que la palabra griega es la que se traduce “rey”, no “reino”, y que la lista de imperios obliga a omitir, por ejemplo, la opresión de Antíoco IV Epífanes. Hitchcock objeta a la lectura simbólica que no explica tanto detalle (cinco caídos, uno que es, otro por venir) ni por qué hay un octavo si siete es plenitud, y que en Daniel y el Apocalipsis los símbolos tienen referentes precisos.",
           "fuentes": [
             "ladd_06_b#3",
             "carballosa_13_b#11",
@@ -223,45 +223,20 @@
     {
       "signo": "la bestia que trae a la mujer",
       "significado": "El poder que sostiene y usa a la ramera (Carballosa, Guzik); puede ser a la vez un reino y un rey (Biblia MacArthur).",
-      "refs": [
-        "17:7"
-      ],
-      "fuentes": [
-        "carballosa_13_b#2",
-        "web_04_c#8",
-        "mbiblia_02_d#3"
-      ]
+      "refs": ["17:7"],
+      "fuentes": ["carballosa_13_b#2", "web_04_c#8", "mbiblia_02_d#3"]
     },
     {
       "signo": "siete montes",
       "significado": "Según McGee, Larkin, Buswell y Beasley-Murray, las colinas de Roma; según Ladd, Carballosa, MacArthur y Guzik, el monte como figura bíblica de un reino; según Mundo Hispano, la plenitud de lo maligno de la bestia.",
-      "refs": [
-        "17:9",
-        "Dn 2:35"
-      ],
-      "fuentes": [
-        "mcgee_09_b#16",
-        "larkin_04_b#3",
-        "r1_010#19",
-        "henry_02_b#2",
-        "ladd_06_b#1",
-        "carballosa_13_b#29",
-        "macarthur_15_a#2",
-        "web_04_c#9",
-        "cbmh_06_b#29"
-      ]
+      "refs": ["17:9", "Dn 2:35"],
+      "fuentes": ["mcgee_09_b#16", "larkin_04_b#3", "r1_010#19", "henry_02_b#2", "ladd_06_b#1", "carballosa_13_b#29", "macarthur_15_a#2", "web_04_c#9", "cbmh_06_b#29"]
     },
     {
       "signo": "el octavo",
       "significado": "La bestia en su manifestación final, que pertenece a los siete; para Mundo Hispano, además, una imitación de la resurrección de Cristo, que resucitó al octavo día.",
-      "refs": [
-        "17:11"
-      ],
-      "fuentes": [
-        "carballosa_13_b#13",
-        "ladd_06_b#4",
-        "cbmh_07#4"
-      ]
+      "refs": ["17:11"],
+      "fuentes": ["carballosa_13_b#13", "ladd_06_b#4", "cbmh_07#4"]
     }
   ],
   "palabras": [
@@ -270,77 +245,47 @@
       "griego": "βαστάζοντος",
       "translit": "bastázontos",
       "significado": "«Que la trae»: participio de bastázō, llevar, transportar. Para Carballosa, la bestia es la fuerza que mueve y la mujer, su instrumento.",
-      "fuentes": [
-        "carballosa_13_b#2"
-      ]
+      "fuentes": ["carballosa_13_b#2"]
     },
     {
       "ref": "17:8",
       "griego": "εἰς ἀπώλειαν ὑπάγει",
       "translit": "eis apṓleian hypágei",
       "significado": "«Ir a perdición» (v. 8; en el v. 11, «va a la perdición»): presente con función futura (Carballosa); apṓleia es la palabra de la condenación final (Ladd).",
-      "fuentes": [
-        "carballosa_13_b#4",
-        "ladd_06_a#34"
-      ]
+      "fuentes": ["carballosa_13_b#4", "ladd_06_a#34"]
     },
     {
       "ref": "17:8",
       "griego": "πάρεσται",
       "translit": "paréstai",
       "significado": "«Y será», futuro de páreimi, estar presente (Carballosa).",
-      "fuentes": [
-        "carballosa_13_b#6"
-      ]
+      "fuentes": ["carballosa_13_b#6"]
     },
     {
       "ref": "17:9",
       "griego": "ὄρος",
       "translit": "óros",
       "significado": "Monte alto, montaña (aquí en plural). Carballosa nota que colina es otra palabra, bounós (Lc 3:5), y que óros es apropiado como símbolo de reino; Guzik también remarca que el texto dice montes y no colinas.",
-      "fuentes": [
-        "carballosa_13_b#9",
-        "web_04_c#9"
-      ]
+      "fuentes": ["carballosa_13_b#9", "web_04_c#9"]
     },
     {
       "ref": "17:10",
       "griego": "ἔπεσαν",
       "translit": "épesan",
       "significado": "«Han caído»: según Ladd, con Alford y Zahn, se aplica mejor a la caída de un reino que a la muerte de un emperador.",
-      "fuentes": [
-        "ladd_06_b#3"
-      ]
+      "fuentes": ["ladd_06_b#3"]
     }
   ],
   "cristo": [
     {
       "texto": "La bestia «que era y no es, y será» es una copia. Carballosa ve en la fórmula una pobre imitación del nombre de Dios (1:4, 8; 4:8): un falso cristo que muere y resucita. Mundo Hispano marca el contraste con el original, Cristo, que verdaderamente estuvo muerto y vive por los siglos (1:18), y agrega que la bestia es “octava” porque quiere copiar la resurrección de Jesús, que resucitó al octavo día.",
-      "refs": [
-        "Ap 1:18",
-        "Ap 1:8"
-      ],
-      "fuentes": [
-        "carballosa_13_b#6",
-        "cbmh_06_b#28",
-        "cbmh_07#4"
-      ]
+      "refs": ["Ap 1:18", "Ap 1:8"],
+      "fuentes": ["carballosa_13_b#6", "cbmh_06_b#28", "cbmh_07#4"]
     },
     {
       "texto": "Para Mundo Hispano, el «no es» de la bestia es su derrota en el Calvario (Jn 12:31-32), y que cinco cabezas hayan caído proclama la victoria del Cordero y de los mártires (12:11). Se lea como se lea, la bestia no termina por desgaste: la vence el Mesías y la echa al lago de fuego (Carballosa, MacArthur). Lennox agrega que, como el hijo varón ya subió al trono de Dios (12:5), el monstruo está condenado desde el principio.",
-      "refs": [
-        "Jn 12:31-32",
-        "Ap 12:11",
-        "Ap 19:20",
-        "Ap 12:5"
-      ],
-      "fuentes": [
-        "cbmh_06_b#28",
-        "cbmh_07#3",
-        "carballosa_13_b#13",
-        "macarthur_15_a#4",
-        "r4_460_12_b#26"
-      ]
+      "refs": ["Jn 12:31-32", "Ap 12:11", "Ap 19:20", "Ap 12:5"],
+      "fuentes": ["cbmh_06_b#28", "cbmh_07#3", "carballosa_13_b#13", "macarthur_15_a#4", "r4_460_12_b#26"]
     }
   ],
   "interpretaciones": [
@@ -350,42 +295,27 @@
         {
           "postura": "La falsa muerte y resurrección de un anticristo personal (13:3, 12-14), que desde entonces es habitado por un demonio del abismo.",
           "quien": "MacArthur, Biblia MacArthur, Carballosa (premileniales dispensacionales); Lennox, para quien nada así ocurrió todavía",
-          "fuentes": [
-            "macarthur_14_b#23",
-            "mbiblia_02_d#3",
-            "carballosa_13_b#4",
-            "r4_460_12_b#25"
-          ]
+          "fuentes": ["macarthur_14_b#23", "mbiblia_02_d#3", "carballosa_13_b#4", "r4_460_12_b#25"]
         },
         {
           "postura": "El Imperio Romano: existió, hoy está fragmentado en Europa y Satanás lo reactivará bajo el anticristo.",
           "quien": "McGee (premilenial dispensacional)",
-          "fuentes": [
-            "mcgee_10_a#4",
-            "mcgeer_11#17"
-          ]
+          "fuentes": ["mcgee_10_a#4", "mcgeer_11#17"]
         },
         {
           "postura": "La bestia existió en sus cabezas, dejó de existir cuando una fue muerta y tendrá una encarnación final del mal satánico.",
           "quien": "Ladd (premilenial histórico)",
-          "fuentes": [
-            "ladd_06_a#34"
-          ]
+          "fuentes": ["ladd_06_a#34"]
         },
         {
           "postura": "Satanás: ejerció su poder, fue derrotado en el Calvario y se le concede poco tiempo antes de la perdición.",
           "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
-          "fuentes": [
-            "cbmh_06_b#28"
-          ]
+          "fuentes": ["cbmh_06_b#28"]
         },
         {
           "postura": "El monstruo del caos que Dios inmovilizó (Is 30:7), encarnado en Roma con la figura de Nerón que vuelve.",
           "quien": "Beasley-Murray; Earle (Beacon) ve a Nerón y al anticristo como un nuevo Nerón",
-          "fuentes": [
-            "henry_02_b#2",
-            "beacon_04_b#26"
-          ]
+          "fuentes": ["henry_02_b#2", "beacon_04_b#26"]
         }
       ],
       "nota": "Todos leen aquí la herida sanada de 13:3 y todos afirman el final: la perdición."
@@ -396,57 +326,32 @@
         {
           "postura": "Emperadores romanos, con listas distintas: Augusto a Nerón caídos y Vespasiano el que es; o desde Julio César, con Nerón como sexto (Sproul, que lo llama trabajo de detective y no conclusión).",
           "quien": "La mayoría de los preteristas (según el Beacon); Sproul",
-          "fuentes": [
-            "beacon_04_b#27",
-            "web_13#22",
-            "web_14#4"
-          ]
+          "fuentes": ["beacon_04_b#27", "web_13#22", "web_14#4"]
         },
         {
           "postura": "Emperadores de Julio César a Nerón, Domiciano el que es y el anticristo el que viene.",
           "quien": "Govett y Newell (presentados por McGee); Larkin, en parte",
-          "fuentes": [
-            "mcgee_10_a#5",
-            "larkin_04_b#3"
-          ]
+          "fuentes": ["mcgee_10_a#5", "larkin_04_b#3"]
         },
         {
           "postura": "Siete formas de gobierno de Roma (reyes, cónsules, dictadores, decenviros, tribunos, emperadores y una forma satánica futura).",
           "quien": "Scofield y Walter Scott (presentados por McGee y Pentecost); Matthew Henry, con siete clases de gobierno y el papado como octavo",
-          "fuentes": [
-            "mcgee_10_a#5",
-            "r2_008#24",
-            "r4_2_01_b#32"
-          ]
+          "fuentes": ["mcgee_10_a#5", "r2_008#24", "r4_2_01_b#32"]
         },
         {
           "postura": "Siete imperios que enfrentaron a Israel: Egipto, Asiria, Babilonia, Medopersia y Grecia caídos, Roma el que es, y el imperio breve del anticristo (o una Roma reavivada).",
           "quien": "MacArthur, Carballosa (con Seiss), Guzik y Benware (premileniales dispensacionales); Hitchcock (el séptimo, Roma reunificada con diez reyes) y Lennox (el séptimo, aún por identificar); Buswell, con otra lista",
-          "fuentes": [
-            "macarthur_15_a#2",
-            "mbiblia_02_d#5",
-            "carballosa_13_b#11",
-            "web_04_c#10",
-            "r1_005#18",
-            "r1_010#19",
-            "r4_442_04#20",
-            "r4_460_12_b#29"
-          ]
+          "fuentes": ["macarthur_15_a#2", "mbiblia_02_d#5", "carballosa_13_b#11", "web_04_c#10", "r1_005#18", "r1_010#19", "r4_442_04#20", "r4_460_12_b#29"]
         },
         {
           "postura": "Una sucesión de reinos impíos sin fijar la lista, con Roma gobernando cuando Juan escribe.",
           "quien": "Ladd (premilenial histórico), con Alford y Zahn",
-          "fuentes": [
-            "ladd_06_b#3"
-          ]
+          "fuentes": ["ladd_06_b#3"]
         },
         {
           "postura": "Una cifra de totalidad: la plenitud del poder maligno, cuyas cabezas ya van cayendo.",
           "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
-          "fuentes": [
-            "cbmh_06_b#29",
-            "cbmh_07#3"
-          ]
+          "fuentes": ["cbmh_06_b#29", "cbmh_07#3"]
         }
       ],
       "nota": "McGee no se casa con ninguna de sus dos lecturas: el final es el mismo. Guzik admite problemas en la que prefiere: “claramente un pasaje difícil”. Hitchcock remonta la lectura de los imperios a Andrés de Cesarea (siglos VI-VII) y, como Lennox, reconoce que ninguna está libre de dificultades."
@@ -457,35 +362,22 @@
         {
           "postura": "La misma persona en dos etapas: séptimo rey antes de su supuesta muerte, octavo después de su “resurrección”.",
           "quien": "MacArthur, Biblia MacArthur, Carballosa, Larkin; Lennox (un líder asesinado que vuelve por un artilugio satánico, quizá un “super Nerón”)",
-          "fuentes": [
-            "macarthur_15_a#4",
-            "mbiblia_02_d#6",
-            "carballosa_13_b#13",
-            "larkin_04_b#3",
-            "r4_460_12_b#31",
-            "r4_460_12_b#28"
-          ]
+          "fuentes": ["macarthur_15_a#4", "mbiblia_02_d#6", "carballosa_13_b#13", "larkin_04_b#3", "r4_460_12_b#31", "r4_460_12_b#28"]
         },
         {
           "postura": "Una cabeza en dos etapas: apareció en Antíoco Epífanes (Dn 8:9, 21) y subirá del abismo en el anticristo.",
           "quien": "Ladd (premilenial histórico)",
-          "fuentes": [
-            "ladd_06_b#4"
-          ]
+          "fuentes": ["ladd_06_b#4"]
         },
         {
           "postura": "El genio maligno del imperio encarnado en un Nerón que vuelve.",
           "quien": "Beasley-Murray",
-          "fuentes": [
-            "henry_02_b#2"
-          ]
+          "fuentes": ["henry_02_b#2"]
         },
         {
           "postura": "Parte de la misma bestia herida por Cristo, que imita la resurrección; alusión simbólica al mito de Nerón.",
           "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
-          "fuentes": [
-            "cbmh_07#4"
-          ]
+          "fuentes": ["cbmh_07#4"]
         }
       ],
       "nota": "Carballosa rechaza que sea Judas, Nerón o Domiciano vuelto a la vida: el texto mira a los días finales. Guzik lo explica como el que reúne las características de todos los imperios anteriores."
@@ -504,146 +396,77 @@
     {
       "ref": "Ap 13:3",
       "nota": "La cabeza herida de muerte que fue sanada: casi todos leen 17:8 como su relectura.",
-      "fuentes": [
-        "ladd_06_a#34",
-        "cbmh_06_b#28",
-        "carballosa_13_b#4",
-        "macarthur_14_b#23"
-      ]
+      "fuentes": ["ladd_06_a#34", "cbmh_06_b#28", "carballosa_13_b#4", "macarthur_14_b#23"]
     },
     {
       "ref": "Dn 7:17, 23",
       "nota": "Bestias que son reyes y a la vez reinos: la base de quienes leen los siete reyes como imperios.",
-      "fuentes": [
-        "ladd_06_b#1",
-        "carballosa_13_b#11",
-        "r1_005#18"
-      ]
+      "fuentes": ["ladd_06_b#1", "carballosa_13_b#11", "r1_005#18"]
     },
     {
       "ref": "Dn 2:35",
       "nota": "La piedra que se hace un gran monte: el monte como figura de un reino.",
-      "fuentes": [
-        "ladd_06_b#1",
-        "carballosa_13_b#29",
-        "web_04_c#9"
-      ]
+      "fuentes": ["ladd_06_b#1", "carballosa_13_b#29", "web_04_c#9"]
     },
     {
       "ref": "2 Ts 2:3-4",
       "nota": "El hijo de perdición que se hace pasar por Dios: MacArthur y Carballosa lo unen a la bestia.",
-      "fuentes": [
-        "macarthur_14_b#23",
-        "carballosa_13_b#6"
-      ]
+      "fuentes": ["macarthur_14_b#23", "carballosa_13_b#6"]
     }
   ],
   "para_vivir": [
     {
       "texto": "No se queden con la boca abierta ante el brillo del mal. El ángel le preguntó a Juan por qué se asombraba y le dio la explicación; la Palabra hace lo mismo con ustedes. Cuando algo poderoso los deslumbre, pregúntense qué lo sostiene y hacia dónde va.",
-      "fuentes": [
-        "cbmh_06_b#27",
-        "carballosa_13_b#2"
-      ]
+      "fuentes": ["cbmh_06_b#27", "carballosa_13_b#2"]
     },
     {
       "texto": "La religión que se apoya en el poder termina siendo su herramienta. Es una advertencia para la iglesia de cualquier época: no buscar el respaldo de los poderes del mundo ni enamorarse de ellos.",
-      "fuentes": [
-        "web_04_c#8",
-        "ladd_06_b#1"
-      ]
+      "fuentes": ["web_04_c#8", "ladd_06_b#1"]
     },
     {
       "texto": "Descansen en el libro de la vida. Sus nombres no dependen de cuánto entiendan este pasaje difícil: Dios los escribió antes de la creación del mundo, y el engaño no tiene la última palabra sobre los suyos.",
-      "fuentes": [
-        "mbiblia_02_d#3",
-        "macarthur_14_b#24"
-      ]
+      "fuentes": ["mbiblia_02_d#3", "macarthur_14_b#24"]
     }
   ],
-  "para_conversar": [
-    "La mujer parecía gobernar, pero la bestia la llevaba. ¿Dónde ven hoy que la fe se usa como herramienta del poder, y cómo se cuidan ustedes de esa tentación?",
-    "El mundo se asombra de una bestia que imita la muerte y la resurrección. ¿Qué los asombra a ustedes, y cómo los lleva este texto de vuelta a Cristo, que estuvo muerto y vive?",
-    "De las lecturas de los siete reyes, ¿cuál les parece mejor fundada? ¿Qué pueden afirmar con seguridad sea cual sea la lectura?"
-  ],
+  "para_conversar": ["La mujer parecía gobernar, pero la bestia la llevaba. ¿Dónde ven hoy que la fe se usa como herramienta del poder, y cómo se cuidan ustedes de esa tentación?", "El mundo se asombra de una bestia que imita la muerte y la resurrección. ¿Qué los asombra a ustedes, y cómo los lleva este texto de vuelta a Cristo, que estuvo muerto y vive?", "De las lecturas de los siete reyes, ¿cuál les parece mejor fundada? ¿Qué pueden afirmar con seguridad sea cual sea la lectura?"],
   "para_orar": "Señor, gracias porque nuestros nombres están escritos en tu libro desde antes de la fundación del mundo. Danos sabiduría para no asombrarnos ante el brillo del mal y para no apoyarnos en los poderes que pasan. Vos sos el que estuvo muerto y vive para siempre; que ninguna imitación nos aparte de vos.",
-  "visuales": [
-    "dg-escuelas",
-    "dg-ramera",
-    "dg-cronologia"
-  ],
-  "anexos": [
-    "T10",
-    "T8",
-    "I4",
-    "I2"
-  ],
+  "visuales": ["dg-escuelas", "dg-ramera", "dg-cronologia"],
+  "anexos": ["T10", "T8", "I4", "I2"],
   "profundizar": [
     {
       "titulo": "Los emperadores, uno por uno",
       "texto": "Ladd da la lista con fechas: Augusto (27 a. C.-14 d. C.), Tiberio (14-37), Calígula (37-41), Claudio (41-54), Nerón (54-68), Galba (68), Otón (69), Vitelio (69), Vespasiano (69-79), Tito (79-81) y Domiciano (81-96). Govett y Newell, presentados por McGee, cuentan desde Julio César y señalan que los cinco caídos murieron de forma violenta (asesinados, envenenados o por suicidio). Rist, citado en el Beacon, propone los cinco divinizados por el Senado (César, Augusto, Claudio, Vespasiano y Tito), con Domiciano como el que es. Barnes, en lectura historicista, cuenta formas de gobierno y hace del octavo el poder papal; Alford, con imperios, hace del séptimo el bizantino. Hitchcock muestra lo variable del conteo: Aune enumera nueve maneras, Beale cinco y J. M. Ford cuatro, según dónde se empiece (Julio César, Augusto o Calígula), si se cuentan solo los divinizados y si se omiten Galba, Otón y Vitelio; Mounce concluye que todas generan dudas. Lennox añade que, si Juan escribió bajo Domiciano, su sucesor Nerva reinó apenas unos dos años y la lectura llega a un punto muerto.",
-      "fuentes": [
-        "ladd_06_b#2",
-        "mcgeer_11#18",
-        "beacon_04_b#27",
-        "r4_442_04#19",
-        "r4_460_12_b#28"
-      ]
+      "fuentes": ["ladd_06_b#2", "mcgeer_11#18", "beacon_04_b#27", "r4_442_04#19", "r4_460_12_b#28"]
     },
     {
       "titulo": "Los siete reyes y la fecha del libro",
       "texto": "El Beacon señala que la lectura preterista más común ubica a Juan bajo Vespasiano, aunque la fecha más probable es la de Domiciano. Sproul razona al revés: cualquier forma de contar excluye a Domiciano, y desde Julio César el sexto es Nerón. Carballosa responde que quienes defienden la fecha temprana no logran identificar al sexto y al séptimo, y Ladd, que ningún método lleva de manera satisfactoria a Domiciano. El anexo I2 desarrolla la cuestión.",
-      "fuentes": [
-        "beacon_04_b#27",
-        "web_13#22",
-        "carballosa_01#16",
-        "ladd_06_b#2"
-      ]
+      "fuentes": ["beacon_04_b#27", "web_13#22", "carballosa_01#16", "ladd_06_b#2"]
     },
     {
       "titulo": "Roma, colinas y montes: los argumentos",
       "texto": "Buswell ve difícil dudar de que es Roma, en el mismo sentido en que Pedro llama Babilonia a la ciudad pagana (1 P 5:13). Guzik recuerda que los historicistas, con Clarke, vieron casi siempre las colinas de Roma y el papado. Del otro lado, Carballosa, con Dyer, observa que las cabezas pertenecen a la bestia y no a la mujer, y que estar “sentada” (sobre aguas, sobre la bestia, sobre montes) indica control, no ubicación; la Biblia MacArthur concede que el sistema incluye a Roma, pero no se limita a ella. Carballosa critica además leer la Biblia a la luz del ambiente histórico en vez de leer el ambiente a la luz de la Biblia (Dn 12:4, 9; 1 P 1:10-12).",
-      "fuentes": [
-        "r1_010#19",
-        "web_04_c#9",
-        "carballosa_13_b#8",
-        "mbiblia_02_d#4",
-        "carballosa_13_b#10"
-      ]
+      "fuentes": ["r1_010#19", "web_04_c#9", "carballosa_13_b#8", "mbiblia_02_d#4", "carballosa_13_b#10"]
     },
     {
       "titulo": "Por qué esos imperios (Henry Morris)",
       "texto": "Henry Morris, citado por MacArthur, explica que ninguno gobernó el mundo entero, pero cada uno fue el mayor reino de su tiempo en relación con Israel y se opuso a la Palabra de Dios; otros enemigos (Siria, Edom, Moab, Madián) no fueron grandes imperios, y otros imperios (China, India, los incas) no tuvieron contacto con el pueblo escogido.",
-      "fuentes": [
-        "macarthur_15_a#3"
-      ]
+      "fuentes": ["macarthur_15_a#3"]
     },
     {
       "titulo": "Lecturas de actualidad de algunos autores",
       "texto": "McGee enumera intentos fallidos de reunir el Imperio Romano: Carlomagno, Napoleón, Hitler, Mussolini y, en su tiempo, las Naciones Unidas. MacArthur, en sus sermones, sugiere que el séptimo reino bien pudo ser el Imperio otomano, último califato, y él mismo lo presenta como una posibilidad discutida. Guzik ve indicios de una religión mundial en los gestos interreligiosos de Juan Pablo II. Son aplicaciones de cada autor, no explicaciones del texto.",
-      "fuentes": [
-        "mcgeer_11#17",
-        "r1_014#29",
-        "r2_005_a#17",
-        "web_04_c#9"
-      ]
+      "fuentes": ["mcgeer_11#17", "r1_014#29", "r2_005_a#17", "web_04_c#9"]
     },
     {
       "titulo": "El anticristo según MacArthur",
       "texto": "MacArthur reúne de Daniel y Pablo los rasgos del anticristo: genio intelectual (Dn 7:8), gran orador (Dn 7:20), líder militar sin igual (Dn 7:23), político astuto (Dn 8:25; 11:21) y supremo farsante religioso (2 Ts 2:4). Según él y la Biblia MacArthur, después de su “resurrección” se vuelve contra la ramera y exige adoración exclusiva (17:16, el texto de mañana). El anexo T8 desarrolla el tema.",
-      "fuentes": [
-        "macarthur_14_b#22",
-        "macarthur_14_b#23",
-        "mbiblia_02_d#6"
-      ]
+      "fuentes": ["macarthur_14_b#22", "macarthur_14_b#23", "mbiblia_02_d#6"]
     },
     {
       "titulo": "Hitchcock responde a Beale",
       "texto": "Beale prefiere los reinos sucesivos a los emperadores, pero objeta que los imperios de Daniel 7 no son los del Apocalipsis y que la lista no explica los grandes imperios entre Roma y el fin. Hitchcock responde que seis de los ocho coinciden (Babilonia, Medo-Persia, Grecia, Roma, la Roma reunificada y el reino del cuerno pequeño), que Daniel omite Egipto y Asiria porque mira desde su época, y que el segundo problema desaparece si hay un intervalo entre las semanas sesenta y nueve y setenta de Daniel 9:24-27. Sus apoyos: en el Antiguo Testamento los montes simbolizan reinos (Sal 30:7; Is 2:2; Jer 51:25; Dn 2:35), y las cuatro bestias de Daniel 7 suman siete cabezas.",
-      "fuentes": [
-        "r4_442_05#18",
-        "r4_442_04#20"
-      ]
+      "fuentes": ["r4_442_05#18", "r4_442_04#20"]
     }
   ]
 }

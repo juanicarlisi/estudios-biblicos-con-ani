@@ -155,14 +155,6 @@
             "macarthur_18_a#15"
           ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "¿Para qué un muro, si en la nueva tierra no habrá enemigos? Ladd responde que Juan usa lenguaje humano para describir lo indescriptible. McGee ve en el muro seguridad y paz, como dice el nombre de Jerusalén, y concluye que aquí el motivo es más la belleza que la defensa.",
-          "fuentes": [
-            "ladd_08_a#10",
-            "mcgee_12#3"
-          ],
-          "tipo": "dificultad_interpretaciones"
         }
       ]
     },
@@ -251,13 +243,6 @@
             "r4_460_15#38"
           ],
           "tipo": "simbolo_numero"
-        },
-        {
-          "texto": "El Diccionario Mundo Hispano ayuda a entender qué era una puerta: el punto débil del muro, donde estaban el mercado, las noticias, la lectura de la ley y los ancianos que juzgaban; poseer la puerta era poseer la ciudad, y por eso las puertas llegaron a representar la ciudad misma.",
-          "fuentes": [
-            "dbmh_02#5"
-          ],
-          "tipo": "cultura_costumbres"
         },
         {
           "texto": "«La calle de la ciudad» está en singular: para Ladd, todas las calles a la vez o una avenida principal, como en muchas ciudades antiguas; Carballosa cita a quien la ve como una calle continua. Es de oro «transparente como vidrio»: la frase subraya la pureza del oro (Carballosa) y de Dios (Mundo Hispano), para que la gloria brille sin restricción (MacArthur).",
@@ -441,7 +426,7 @@
           ]
         },
         {
-          "postura": "Ni literalismo estricto ni puro símbolo: una construcción así colapsaría por su propio peso, y la escala busca abrumar; pero detrás del símbolo hay una realidad. Si hay cuerpos resucitados y la ciudad se mide, tiene algún aspecto físico, como las murallas de salvación de Is 26:1 no son de piedra pero son reales. Leerla solo como imagen de la iglesia, dice con Turner, olvida la esperanza terrenal del Antiguo Testamento.",
+          "postura": "Ni literalismo estricto ni puro símbolo: así construida, la ciudad colapsaría por su propio peso, y la escala busca abrumar; pero detrás del símbolo hay una realidad física, como las murallas de salvación de Is 26:1 son reales sin ser de piedra. Leerla solo como imagen de la iglesia olvida la esperanza terrenal del Antiguo Testamento (Turner).",
           "quien": "Lennox, siguiendo a Turner",
           "fuentes": [
             "r4_460_15#39"
@@ -671,6 +656,21 @@
       "texto": "Samuel Vila, en un bosquejo sobre la herencia de 1 Pedro 1 (1000 bosquejos para predicadores, segunda parte), propone que la Jerusalén celestial es la casa de reunión de los herederos, con capacidad para muchos billones si el cuerpo de gloria es de tamaño humano, y la distingue de los cielos, el universo de Dios (Ef 3:10).",
       "fuentes": [
         "r2_018#13"
+      ]
+    },
+    {
+      "titulo": "¿Para qué un muro?",
+      "texto": "¿Para qué un muro, si en la nueva tierra no habrá enemigos? Ladd responde que Juan usa lenguaje humano para describir lo indescriptible. McGee ve en el muro seguridad y paz, como dice el nombre de Jerusalén, y concluye que aquí el motivo es más la belleza que la defensa.",
+      "fuentes": [
+        "ladd_08_a#10",
+        "mcgee_12#3"
+      ]
+    },
+    {
+      "titulo": "Qué era una puerta en la ciudad antigua",
+      "texto": "El Diccionario Mundo Hispano ayuda a entender qué era una puerta: el punto débil del muro, donde estaban el mercado, las noticias, la lectura de la ley y los ancianos que juzgaban; poseer la puerta era poseer la ciudad, y por eso las puertas llegaron a representar la ciudad misma.",
+      "fuentes": [
+        "dbmh_02#5"
       ]
     }
   ]

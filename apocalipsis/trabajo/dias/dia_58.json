@@ -29,7 +29,7 @@
     "porque": "Es la única vez que la palabra «evangelio» aparece en el libro, y llega en el momento más oscuro: con el juicio a la puerta, Dios vuelve a llamar a toda nación a temerlo, darle gloria y adorarlo."
   },
   "panorama": {
-    "texto": "Después de ver al Cordero con los suyos, Juan oye tres voces sobre toda la tierra. La primera trae buenas noticias: un evangelio eterno para toda nación, que llama a temer a Dios, darle gloria y adorar al Creador porque llegó la hora de su juicio. La segunda anuncia, como si ya hubiera ocurrido, la caída de Babilonia, la ciudad que emborrachó a las naciones. La tercera empieza a advertir a quien adore a la bestia. Primero la gracia, después el juicio, después la condena: una secuencia lógica más que cronológica, dice MacArthur. Lo que todos comparten se afirma sin reservas: Dios no juzga sin antes llamar, y aun en medio del conflicto su propósito es salvar.",
+    "texto": "Después de ver al Cordero con los suyos, Juan oye tres voces sobre toda la tierra. La primera trae buenas noticias: un evangelio eterno para toda nación, que llama a temer a Dios, darle gloria y adorar al Creador porque llegó la hora de su juicio. La segunda anuncia, como si ya hubiera ocurrido, la caída de Babilonia, la ciudad que emborrachó a las naciones. La tercera empieza a advertir a quien adore a la bestia. Primero la gracia, después el juicio, después la condena: una secuencia lógica más que cronológica, dice MacArthur. Lo que todos comparten: Dios no juzga sin antes llamar, y aun en medio del conflicto su propósito es salvar.",
     "fuentes": [
       "macarthur_12_b#10",
       "macarthur_12_b#20",
@@ -155,6 +155,13 @@
             "mbiblia_02_b#23"
           ],
           "tipo": "apologetica"
+        },
+        {
+          "texto": "Lennox oye aquí el primer mandamiento y la prohibición de imágenes (Éx 20:3-5): cielo, tierra, mar y fuentes no son dioses sino criaturas, y decirlo ya es evangelio en un mundo que adora a la bestia. Y que se le proclame muestra que no todos se rindieron.",
+          "fuentes": [
+            "r4_460_11#30"
+          ],
+          "tipo": "conexion_biblica"
         }
       ]
     },
@@ -180,12 +187,13 @@
           "tipo": "griego_palabra"
         },
         {
-          "texto": "El nombre llega cargado de historia. La fundó Nimrod (Gn 10:9-10); en Babel se levantó la torre, primer sistema organizado de religión falsa, y desde allí la idolatría se dispersó cuando Dios confundió las lenguas (Gn 11:1-9), según MacArthur, la Biblia MacArthur y Carballosa. Después fue la ciudad del cautiverio de Judá (Mundo Hispano). MacArthur ve un círculo que se cierra: la humanidad unida en la falsa religión en Babel lo estará otra vez bajo la Babilonia final.",
+          "texto": "El nombre llega cargado de historia. La fundó Nimrod (Gn 10:9-10); en Babel se levantó la torre, primer sistema organizado de religión falsa, y desde allí la idolatría se dispersó cuando Dios confundió las lenguas (Gn 11:1-9), según MacArthur, la Biblia MacArthur y Carballosa. Después fue la ciudad del cautiverio de Judá (Mundo Hispano). MacArthur ve un círculo que se cierra: la humanidad unida en la falsa religión en Babel lo estará otra vez bajo la Babilonia final. Lennox subraya el sentido de Babel: hacerse un nombre sin Dios (Gn 11:4), lo opuesto a la promesa de engrandecer el nombre de Abram (Gn 12:2).",
           "fuentes": [
             "macarthur_12_b#18",
             "mbiblia_02_b#24",
             "carballosa_11_b#3",
-            "cbmh_06_b#3"
+            "cbmh_06_b#3",
+            "r4_460_11#33"
           ],
           "tipo": "conexion_biblica"
         },
@@ -206,12 +214,13 @@
       "titulo": "«El vino del furor de su fornicación»",
       "notas": [
         {
-          "texto": "Babilonia cae por lo que hizo con los demás: los arrastró a su idolatría (Mundo Hispano). Carballosa nota que el griego no dice «porque», sino literalmente «la que ha hecho beber a todas las naciones». Ese vino es su influencia, que intoxica y empuja al desenfreno (Jer 51:7). Para MacArthur, «furor» describe deseos fuertes y consumidores, y la fornicación es ante todo prostitución espiritual, infidelidad a Dios, aunque suele ir con inmoralidad literal (Guzik).",
+          "texto": "Babilonia cae por lo que hizo con los demás: los arrastró a su idolatría (Mundo Hispano). Carballosa nota que el griego no dice «porque», sino literalmente «la que ha hecho beber a todas las naciones». Ese vino es su influencia, que intoxica y empuja al desenfreno (Jer 51:7). Para MacArthur, «furor» describe deseos fuertes y consumidores, y la fornicación es ante todo prostitución espiritual, infidelidad a Dios, aunque suele ir con inmoralidad literal (Guzik). Lennox recuerda que la Escritura usa el lenguaje del adulterio para la infidelidad religiosa (Ez 6:9) y lo ilustra con el banquete de Belsasar, que bebía en los vasos robados del templo (Dn 5).",
           "fuentes": [
             "cbmh_06_b#3",
             "carballosa_11_b#4",
             "macarthur_12_b#19",
-            "web_04_a#9"
+            "web_04_a#9",
+            "r4_460_11#34"
           ],
           "tipo": "simbolo_numero"
         },
@@ -378,23 +387,26 @@
       "posturas": [
         {
           "postura": "El único evangelio de siempre, la salvación por Jesucristo, anunciado en la forma propia de la hora del juicio; distinguir varios evangelios es una falsa tricotomía.",
-          "quien": "Earle (Beacon), MacArthur, McGee y Guzik (con Seiss); en la misma línea, Ladd y Beasley-Murray",
+          "quien": "Earle (Beacon), MacArthur, McGee y Guzik (con Seiss); en la misma línea, Ladd y Beasley-Murray; Lennox, que ve el mismo evangelio abierto a judíos y gentiles (Ro 11)",
           "fuentes": [
             "beacon_04_b#7",
             "macarthur_12_b#13",
             "mcgeer_09#34",
             "web_04_a#7",
             "ladd_05_b#13",
-            "henry_02_a#21"
+            "henry_02_a#21",
+            "r4_460_11#30"
           ]
         },
         {
           "postura": "Un mensaje distinto del evangelio de la gracia: su carga es el juicio y llama a adorar a Dios como Creador, no como Salvador; o, en palabras de Carballosa, no una invitación a creer sino un llamado urgente a temer y adorar.",
-          "quien": "Larkin (dispensacional temprano, distingue cuatro formas del evangelio); Carballosa (dispensacional)",
+          "quien": "Larkin (dispensacional temprano, distingue cuatro formas del evangelio); Carballosa (dispensacional); Hitchcock (un último llamado a reconocer al Creador, Ro 1:19-20); el Comentario Moody, con Swete: un teísmo puro para la conciencia pagana, sin indicio de que alguien lo acepte",
           "fuentes": [
             "larkin_04_b#23",
             "larkin_04_b#22",
-            "carballosa_11_b#2"
+            "carballosa_11_b#2",
+            "r4_442_03_b#24",
+            "r4_225_02_a#28"
           ]
         }
       ],
@@ -424,10 +436,11 @@
         },
         {
           "postura": "La Reforma en tres fases: los valdenses; Wycliffe, Hus y Jerónimo de Praga; y Lutero como tercer ángel.",
-          "quien": "Thomas Goodwin, puritano historicista (según Beeke y Jones); Guzik critica estas identificaciones históricas",
+          "quien": "Thomas Goodwin, puritano historicista (según Beeke y Jones); Matthew Henry ve también aquí el progreso de la Reforma; Guzik critica estas identificaciones históricas",
           "fuentes": [
             "r1_027#18",
-            "web_04_a#7"
+            "web_04_a#7",
+            "r4_2_01_b#21"
           ]
         }
       ],
@@ -438,13 +451,14 @@
       "posturas": [
         {
           "postura": "Nombre simbólico de Roma (como en 1 P 5:13) y, por extensión, de toda civilización organizada contra Dios.",
-          "quien": "Earle (Beacon), siguiendo a los Padres; Mundo Hispano; Ladd y Beasley-Murray; Mounce, citado por Carballosa",
+          "quien": "Earle (Beacon), siguiendo a los Padres; Mundo Hispano; Ladd y Beasley-Murray; Mounce, citado por Carballosa; Lennox admite esa referencia primera, pero espera otra Babilonia futura",
           "fuentes": [
             "beacon_04_b#8",
             "cbmh_06_b#3",
             "ladd_05_b#14",
             "henry_02_a#21",
-            "carballosa_11_b#3"
+            "carballosa_11_b#3",
+            "r4_460_11#36"
           ]
         },
         {
@@ -516,6 +530,13 @@
       "nota": "Toda lengua confesará a Jesús como Señor: quien no da gloria a Dios de buena gana será obligado a hacerlo (Guzik).",
       "fuentes": [
         "web_04_a#8"
+      ]
+    },
+    {
+      "ref": "He 11:10",
+      "nota": "Abraham sale de la región de Babilonia buscando la ciudad con fundamentos: para Lennox, la Biblia es la historia de dos ciudades, Babilonia y la nueva Jerusalén.",
+      "fuentes": [
+        "r4_460_11#35"
       ]
     }
   ],
@@ -614,22 +635,25 @@
     },
     {
       "titulo": "Más lecturas históricas de los tres ángeles",
-      "texto": "Según Beeke y Jones, Goodwin veía en el tercer ángel a Lutero, más vehemente que el resto, y en Calvino al principal responsable de la Reforma en doctrina y adoración. Guzik cita y critica otras identificaciones: Clarke veía aquí a la Sociedad Bíblica Británica y Extranjera, Trapp a Wycliffe, y en tiempos recientes alguien propuso un satélite.",
+      "texto": "Según Beeke y Jones, Goodwin veía en el tercer ángel a Lutero, más vehemente que el resto, y en Calvino al principal responsable de la Reforma en doctrina y adoración. Guzik cita y critica otras identificaciones: Clarke veía aquí a la Sociedad Bíblica Británica y Extranjera, Trapp a Wycliffe, y en tiempos recientes alguien propuso un satélite. El Comentario Moody recuerda que los Adventistas del Séptimo Día leyeron estos versículos como cumplidos en su movimiento y el v. 12 como llamado a guardar el sábado; el autor objeta que el pasaje no menciona ese mandamiento ni explica por qué elegir uno solo del Decálogo.",
       "fuentes": [
         "r1_027#18",
-        "web_04_a#7"
+        "web_04_a#7",
+        "r4_225_02_a#29"
       ]
     },
     {
       "titulo": "Babilonia: más detalles",
-      "texto": "Ladd recuerda que en los apocalipsis judíos y cristianos Babilonia era nombre simbólico de Roma (Oráculos sibilinos; Apocalipsis de Baruc), y que el anuncio en pasado se parece al del reino en 11:15 y 12:10. MacArthur y Carballosa remiten a 16:17-19 y a los capítulos 17 y 18, donde se describe la caída; McGee distingue la Babilonia religiosa (cap. 17) de la comercial (cap. 18). McGee recoge además la tesis de Alexander Hislop sobre las dos Babilonias: Babilonia como cuna de todas las religiones falsas y Semiramis, esposa de Nimrod, como introductora del principio femenino de la deidad; son afirmaciones de McGee apoyadas en Hislop, no del texto bíblico.",
+      "texto": "Ladd recuerda que en los apocalipsis judíos y cristianos Babilonia era nombre simbólico de Roma (Oráculos sibilinos; Apocalipsis de Baruc), y que el anuncio en pasado se parece al del reino en 11:15 y 12:10. MacArthur y Carballosa remiten a 16:17-19 y a los capítulos 17 y 18, donde se describe la caída; McGee distingue la Babilonia religiosa (cap. 17) de la comercial (cap. 18). McGee recoge además la tesis de Alexander Hislop sobre las dos Babilonias: Babilonia como cuna de todas las religiones falsas y Semiramis, esposa de Nimrod, como introductora del principio femenino de la deidad; son afirmaciones de McGee apoyadas en Hislop, no del texto bíblico. Lennox resume la historia de la ciudad con H. W. F. Saggs: sin registro antes del siglo XXIII a. C., Hammurabi (1792-1750 a. C.) la hizo capital del sur de Mesopotamia y en el siglo VI a. C. era la ciudad más grande del mundo. Nota además un recurso del libro: cada parte menciona de paso lo que la siguiente desarrolla (el trono, el altar, la bestia, Babilonia).",
       "fuentes": [
         "ladd_05_b#14",
         "macarthur_12_b#17",
         "carballosa_11_b#3",
         "mcgee_08#35",
         "mcgee_08#34",
-        "mcgeer_10#1"
+        "mcgeer_10#1",
+        "r4_460_11#32",
+        "r4_460_11#31"
       ]
     },
     {

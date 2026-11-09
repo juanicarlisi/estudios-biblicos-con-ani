@@ -1,0 +1,55 @@
+{
+  "id": "dg-espiritus",
+  "titulo": "Los espíritus encarcelados: cuándo predicó Cristo y a quiénes",
+  "bajada": "Cuatro maneras de leer 1P 3:19-20, ubicadas en el tiempo. Cada carril dice quién la sostiene; ninguna se da por cerrada.",
+  "tipo": "lineas",
+  "eje": ["Días de Noé", "Muerte de Cristo", "Entre muerte y resurrección", "Resurrección", "Ascensión"],
+  "carriles": [
+    {
+      "nombre": "Por medio de Noé, a sus contemporáneos",
+      "quien": "Grudem (reformado; dice que Agustín la sugirió) la considera la más probable; la prefieren el Diccionario Mundo Hispano y McConnell (Comentario Mundo Hispano); el Comentario Moody parece inclinarse por ella",
+      "segmentos": [
+        {"etiqueta": "Cristo, por su Espíritu, predica por boca de Noé", "desde": 0, "hasta": 22, "clase": "a"}
+      ],
+      "marcas": [
+        {"en": 11, "etiqueta": "Personas vivas entonces; «encarceladas» ahora"}
+      ],
+      "fuentes": ["r1_013#2", "r1_013#1", "dbmh_01_a#30", "cbmh1p_02_b#7", "moodynt_01_b#18", "kis1p_05_a#27"]
+    },
+    {
+      "nombre": "A los ángeles caídos, antes de resucitar",
+      "quien": "MacArthur y la Biblia MacArthur; el Nuevo Comentario Bíblico prefiere que los espíritus sean ángeles caídos; Spitta (década de 1890), según Kistemaker",
+      "segmentos": [
+        {"etiqueta": "En espíritu, va a los ángeles de Gn 6 (2P 2:4; Jd 6)", "desde": 25, "hasta": 75, "clase": "b"}
+      ],
+      "marcas": [
+        {"en": 50, "etiqueta": "Anuncio de victoria, no oferta de salvación"}
+      ],
+      "fuentes": ["mac1p_06_b#22", "mac1p_06_b#27", "mbib1p_01_c#4", "ncb1p_01_b#8", "kis1p_05_a#27"]
+    },
+    {
+      "nombre": "Ya resucitado, quizá en la ascensión",
+      "quien": "Kistemaker (reformado), siguiendo a Dalton y a muchos teólogos contemporáneos; Geisler y Howe se inclinan por una proclamación de victoria sin oferta de salvación",
+      "segmentos": [
+        {"etiqueta": "Proclama su victoria a los espíritus encarcelados", "desde": 75, "hasta": 100, "clase": "c"}
+      ],
+      "marcas": [
+        {"en": 100, "etiqueta": "Mismo verbo «fue» del v. 22"}
+      ],
+      "fuentes": ["kis1p_05_a#20", "kis1p_05_a#21", "kis1p_05_a#27", "r1_001#12"]
+    },
+    {
+      "nombre": "Descenso al reino de los muertos (lectura tradicional)",
+      "quien": "Expuesta por el Diccionario Mundo Hispano y el Nuevo Comentario Bíblico como base del «descendió a los infiernos» del Credo; Vila la da por supuesta; Kistemaker y Nicholson (wesleyano) repasan sus variantes",
+      "segmentos": [
+        {"etiqueta": "Su espíritu desciende al Hades", "desde": 25, "hasta": 75, "clase": "d"}
+      ],
+      "marcas": [
+        {"en": 50, "etiqueta": "Variantes: victoria, condena, liberar a justos del AT, oferta a los muertos"}
+      ],
+      "fuentes": ["dbmh_01_a#22", "ncb1p_01_b#8", "r1_009#10", "kis1p_05_a#27", "bea1p_01_b#28", "moodynt_01_b#18"]
+    }
+  ],
+  "nota": "Colores: a = antes de Cristo; b y d = entre su muerte y su resurrección; c = después de resucitar. Objeciones cruzadas: Grudem rechaza la de los ángeles (el contexto habla de personas hostiles), la del infierno y la de los santos del AT; Geisler y Howe recuerdan que los ángeles no se casan (Mt 22:30); Kistemaker rechaza el descenso y la predicación por Noé; Nicholson expone seis lecturas sin decidir. El Nuevo Comentario Bíblico menciona además a quienes ven al Espíritu de Cristo predicando por los apóstoles después de Pentecostés. Hay acuerdo amplio en que el texto no ofrece una segunda oportunidad después de la muerte (Lc 16:26; He 9:27). La variante de la oferta de salvación es de Clemente de Alejandría y de Lange; la del Limbo, del cardenal Bellarmino.",
+  "dias": [16, 17, 18]
+}

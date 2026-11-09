@@ -370,6 +370,13 @@
    "fuentes": [
     "r_013#19"
    ]
+  },
+  {
+   "ref": "Job 42:7-10",
+   "nota": "Dios lo llama «mi siervo Job» cuatro veces y Job ora por sus amigos: cierre de la historia.",
+   "fuentes": [
+    "z_002#4"
+   ]
   }
  ],
  "para_vivir": [
@@ -451,5 +458,16 @@
    ]
   }
  ],
- "notas_no_usadas": "No usé el cálculo de años de Vila (b_321#84), el único consuelo de Job de Walvoord (b_383#9), el mártir Stelfick (b_252#13) ni la conducta de Elí y David de Flavel (b_186#21), por ser marginales o más propias de días siguientes. | R4: r_013#17: ya está en el apartado 3 (Job pierde a sus hijos y adora, Job 1:20-21) y en el apartado 2"
+ "notas_no_usadas": "No usé el cálculo de años de Vila (b_321#84), el único consuelo de Job de Walvoord (b_383#9), el mártir Stelfick (b_252#13) ni la conducta de Elí y David de Flavel (b_186#21), por ser marginales o más propias de días siguientes. | R4: r_013#17: ya está en el apartado 3 (Job pierde a sus hijos y adora, Job 1:20-21) y en el apartado 2",
+ "modelo": {
+  "persona": "Job",
+  "texto": "Perdió bienes, hijos y salud y, sin poder resolver nada, quedó solo con Dios. Satanás lo había acusado de servir a Dios por conveniencia, pero Dios sabía que lo suyo era personal. Al final Dios lo llama «mi siervo Job» cuatro veces y Job ora por sus amigos. Cuando se pierde todo lo demás, queda la relación.",
+  "refs": [
+   "Job 1:9-11",
+   "Job 42:7-10"
+  ],
+  "fuentes": [
+   "z_002#4"
+  ]
+ }
 }

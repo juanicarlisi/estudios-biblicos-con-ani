@@ -367,10 +367,15 @@
   }
  ],
  "modelo": {
-  "persona": "",
-  "texto": "",
-  "refs": [],
-  "fuentes": []
+  "persona": "José de Nazaret",
+  "texto": "Según Swindoll, José era descendiente de David y carpintero de Nazaret, conocido solo como el esposo de María: el hombre olvidado del nacimiento de Jesús. Era justo: no quiso exponer públicamente a María y pensó dejarla en privado. El Señor fue fiel y le envió un ángel en sueños. Swindoll opina que entendió el mensaje porque conocía el Antiguo Testamento y la profecía mesiánica. Un varón que cubre a los suyos sin buscar protagonismo.",
+  "refs": [
+   "Mateo 1:16-25",
+   "Lucas 3:23"
+  ],
+  "fuentes": [
+   "z_008#26"
+  ]
  },
  "para_vivir": [
   {

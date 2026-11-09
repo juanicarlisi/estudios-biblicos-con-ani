@@ -285,13 +285,46 @@
    "fuentes": [
     "r_040#10"
    ]
+  },
+  {
+   "ref": "Juan 12:6",
+   "nota": "Judas robaba de la bolsa: ejemplo de espíritu mercenario.",
+   "fuentes": [
+    "z_002#1"
+   ]
+  },
+  {
+   "ref": "Miqueas 3:11",
+   "nota": "Profetas que predicen por dinero.",
+   "fuentes": [
+    "z_002#1"
+   ]
+  },
+  {
+   "ref": "1 Pedro 2:25",
+   "nota": "Cristo, Pastor y Obispo de las almas.",
+   "fuentes": [
+    "z_027#2"
+   ]
+  },
+  {
+   "ref": "Zacarías 11:16",
+   "nota": "El falso pastor que descuida a las ovejas, peligro de adentro para la iglesia.",
+   "fuentes": [
+    "z_030#8"
+   ]
   }
  ],
  "modelo": {
-  "persona": "",
-  "texto": "",
-  "refs": [],
-  "fuentes": []
+  "persona": "David",
+  "texto": "Barclay lo toma como imagen del pastor auténtico: lo es por vocación y arriesga la vida por el rebaño. Otro autor dice que ante el león y el oso se ve el corazón de pastor: la manada es un asunto personal y se queda cerca hasta que pasa el peligro.",
+  "refs": [
+   "1 Samuel 17:34-36"
+  ],
+  "fuentes": [
+   "z_030#8",
+   "z_002#1"
+  ]
  },
  "para_vivir": [
   {
@@ -394,6 +427,34 @@
    "texto": "MacArthur, mirando la visión de Apocalipsis 1, anima ante los fracasos de pastores que no enseñan, de vidas inmorales y de pastores infieles: el Señor siempre tiene en su mano a pastores verdaderos y fieles en cada generación. Como pastor, se preocupa por quienes Dios le confió y sostiene que hay que advertir y proteger del peligro espiritual. Pero se consuela sabiendo que no somos la última línea de defensa: Cristo protege a su iglesia, con la espada de dos filos que sale de su boca (Apocalipsis 1:16; 2:12). Es un alivio sano para quien cuida a otros. Vigilás de verdad, y a la vez descansás en que el Pastor principal no duerme.",
    "fuentes": [
     "r_040#10"
+   ]
+  },
+  {
+   "titulo": "Espíritu mercenario: Judas, Balaam y Miqueas 3",
+   "texto": "Un autor advierte que es fácil deslizarse a comercializar el ministerio y servir con cabeza de negocios. Distingue entre el asalariado de Juan 10:12-13, que cuida la manada por paga y huye ante el lobo, y el pastor, para quien la manada es un asunto personal y se queda cerca hasta que pasa el peligro. Como ejemplos de espíritu mercenario nombra a Judas, que robaba de la bolsa (Juan 12:6); a Balaam, que por una recompensa aconsejó la seducción sexual de Israel (Números 22-24; Apocalipsis 2:14); y a los profetas de Miqueas 3, que predicen por dinero. Su idea de fondo: ante un depredador se ve quién es quién.",
+   "fuentes": [
+    "z_002#1"
+   ]
+  },
+  {
+   "titulo": "El cabrito de Moisés, una leyenda judía",
+   "texto": "Barclay recorre la imagen del pastor en Israel: Dios y el Mesías son pastores, y también los líderes; Jeremías 23 y Ezequiel 34 denuncian a los pastores que buscan su provecho. Cita además una leyenda judía, que no es Escritura: Moisés fue elegido líder porque cargó sobre sus hombros a un cabrito escapado en lugar de castigarlo. La leyenda no prueba nada, pero muestra qué se esperaba de un pastor: paciencia con la oveja que se pierde. Y para el líder de la iglesia, Barclay resume lo que pide Pedro (1 Pedro 5:2-3): alimentar el rebaño, aceptar la supervisión de buena gana, con interés y no por interés, siendo ejemplo y no avasallando.",
+   "fuentes": [
+    "z_030#7"
+   ]
+  },
+  {
+   "titulo": "Pastor y Obispo de las almas",
+   "texto": "Según Barclay, Cristo es Pastor y Obispo de las almas (1 Pedro 2:25) y Príncipe de los pastores; Jesús le encargó a Pedro cuidar sus ovejas (Juan 21:16), y Pablo y Pedro exhortaron a los ancianos a guardar el rebaño. El pastor, en su retrato, guía a lugares seguros, busca a las descarriadas y arriesga la vida por ellas. Es el hombre que lleva al pueblo de Dios en el corazón, lo alimenta con la verdad, lo busca cuando se extravía y lo defiende de lo que dañe su alma. Y a cada cristiano, agrega, se le encarga ser un poco pastor de sus hermanos.",
+   "fuentes": [
+    "z_027#2"
+   ]
+  },
+  {
+   "titulo": "Kalós: el Buen Pastor con encanto",
+   "texto": "Barclay observa que Jesús usa kalós para el Buen Pastor, una palabra que dice bueno en el sentido de eficaz y fiable, y además con un encanto que cautiva. El pastor auténtico lo es por vocación y da la vida (Juan 10:11-15); el asalariado trabaja por dinero, no siente la responsabilidad y huye ante el lobo. El peligro de la iglesia es doble, según él: enemigos de fuera y falsos pastores que ven su vocación como una carrera (Hechos 20:29; Zacarías 11:16). Barclay considera peor el segundo, y concluye que la primera necesidad de la iglesia es una dirección pastoral que siga a Cristo.",
+   "fuentes": [
+    "z_030#8"
    ]
   }
  ],

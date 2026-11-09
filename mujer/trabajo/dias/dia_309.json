@@ -24,7 +24,7 @@
   }
  ],
  "entrada": {
-  "texto": "Hoy conocés a dos personas que trabajan bien y que se tratan bien. Una es Rut: extranjera, viuda y pobre, con una suegra anciana a su cargo. La otra es Booz, dueño del campo donde Rut termina espigando. Los dos tienen algo para enseñarte. Rut, qué hacer cuando alguien depende de vos y nadie va a resolverlo por vos. Booz, qué hacer cuando sos vos la que tiene el poder de pagar, de mandar o de dar trabajo. Seas empleada, empleadora o las dos cosas, hoy hay una palabra para vos. Un aviso: a Rut la vas a mirar por otros lados el día 128 (su conversión) y el día 606 (su lealtad). Hoy la miramos con las manos en la tarea, a la mañana temprano, camino al campo.",
+  "texto": "Hoy conocés a dos personas que trabajan bien y que se tratan bien. Una es Rut: extranjera, viuda y pobre, con una suegra anciana a su cargo. La otra es Booz, dueño del campo donde Rut termina espigando. Los dos tienen algo para enseñarte. Rut, qué hacer cuando alguien depende de vos y nadie va a resolverlo por vos. Booz, qué hacer cuando sos vos la que tiene el poder de pagar, de mandar o de dar trabajo. Seas empleada, empleadora o las dos cosas, hoy hay una palabra para vos. Un aviso: a Rut ya la miraste por otro lado el día 128 (su conversión) y la vas a mirar de nuevo el día 606 (su lealtad). Hoy la miramos con las manos en la tarea, a la mañana temprano, camino al campo.",
   "fuentes": [
    "b_169#18",
    "b_151#19"
@@ -44,14 +44,16 @@
     {
      "texto": "Pidió permiso, trabajó de la mañana a la tarde casi sin descanso y después desgranó lo recogido: cerca de un efa, unos 13,5 kilos, una cantidad inusualmente generosa. Lo que le sobró de la comida lo guardó para Noemí. La Biblia de estudio para mujeres señala que, al hacerlo, se arriesgó a pasar vergüenza con tal de suplir lo que su suegra necesitaba.",
      "fuentes": [
-      "b_151#19"
+      "b_151#19",
+      "r_009#30"
      ]
     },
     {
      "texto": "MacArthur agrega que Rut recordaba que era extranjera y se condujo con humildad, reconociendo la gracia de Booz. Lockyer rechaza la imagen de una Rut nostálgica de Moab: salió con gozo y confianza en el Dios bajo cuyas alas se refugiaba, y no se avergonzó de ser una recolectora entre los pobres. Matthew Henry la propone como ejemplo de diligencia, porque no le gustaba comer el pan de balde, y dice que Dios ordena sabiamente lo que a nosotros nos parecen hechos pequeños.",
      "fuentes": [
       "b_169#18",
-      "b_077#20"
+      "b_077#20",
+      "r_001#16"
      ]
     },
     {
@@ -60,17 +62,22 @@
       "b_151#19",
       "b_169#18",
       "b_077#20",
+      "r_082#7",
       "b_138#39"
      ]
     },
     {
      "texto": "Piper llama «justicia estratégica» a hacer lo bueno con intención, propósito y planificación, y no solo a evitar el mal. Ve ese rasgo en Noemí, en Rut y en Booz, y lo aplica a las familias: las que tienen esperanza planifican. Rut no esperaba que la vida se arreglara sola. Salió, pidió, trabajó.",
-     "fuentes": []
+     "fuentes": [
+      "r_023#14"
+     ]
     }
    ],
    "destacado": {
     "texto": "No debemos avergonzarnos de un empleo honesto. Ningún trabajo es indigno.",
-    "fuentes": []
+    "fuentes": [
+     "r_001#16"
+    ]
    }
   },
   {
@@ -181,7 +188,7 @@
      ]
     },
     {
-     "texto": "El mismo MacArthur describe a esos jornaleros de Mateo 20 como hombres sin oficio, cerca del fondo de la escala social, desesperados por trabajar y por eso a menudo mal pagados y en desventaja. El jornalero (misthios) vivía de lo que ganara cada día y no tenía posición para negociar. Por eso el padre de la historia que cuenta Jesús en Lucas 15 impresiona: les pagaba más de lo que exigían la ley y la costumbre.",
+     "texto": "El mismo MacArthur describe a esos jornaleros de Mateo 20 como hombres sin oficio, cerca del fondo de la escala social, desesperados por trabajar y por eso a menudo mal pagados y en desventaja. El jornalero (misthios) vivía de lo que ganara cada día y no tenía posición para negociar. Por eso impresiona el dueño de la viña de esa historia que cuenta Jesús en Mateo 20: les pagaba más de lo que exigían la ley y la costumbre.",
      "fuentes": [
       "v_b_389#9",
       "v_b_148#18"
@@ -259,7 +266,9 @@
    "texto": "No debemos avergonzarnos de un empleo honesto. Ningún trabajo es indigno.",
    "autor": "Matthew Henry",
    "obra": "Comentario Bíblico de Matthew Henry (toda la Biblia)",
-   "fuentes": []
+   "fuentes": [
+    "r_001#16"
+   ]
   },
   {
    "texto": "No debe haber dicotomía entre fe y conducta.",
@@ -369,6 +378,7 @@
   {
    "texto": "Si alguien depende de lo que hacés, mirá tu semana con los ojos de Rut: ¿qué iniciativa concreta podés tomar hoy sin esperar que alguien te sirva? Y si sentís vergüenza por el tipo de trabajo que hacés, volvé a leer lo de Henry: ningún trabajo honesto es indigno.",
    "fuentes": [
+    "r_001#16",
     "b_151#19"
    ]
   },
@@ -387,7 +397,7 @@
    ]
   },
   {
-   "texto": "Revisá tu corazón al estilo de Owen: ¿tus razones para sostener a la familia y hacer progresar a los hijos terminaron apagando el miedo y los celos por tu propio corazón? Owen deja una regla: donde el amor al mundo prevaleció por razonamientos y pretextos hasta eliminar ese miedo, allí es seguramente predominante.",
+   "texto": "Revisá tu corazón al estilo de Owen: ¿tus razones para sostener a la familia y hacer progresar a los hijos terminaron apagando el miedo y los celos por tu propio corazón?",
    "fuentes": [
     "v_b_266#23"
    ]

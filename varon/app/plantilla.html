@@ -32,6 +32,13 @@
 :root[data-size="grande"] { --texto: 1.18rem; }
 :root[data-size="chica"] { --texto: .98rem; }
 
+.mapa-dias { display: flex; flex-wrap: wrap; gap: 3px; margin: 10px 0 6px; }
+.mapa-dias a { width: 13px; height: 13px; border-radius: 3px; background: var(--line); display: block; }
+.mapa-dias a:hover { outline: 2px solid var(--acero); }
+.mapa-dias a.hecho { background: var(--acero); }
+.mapa-dias a.ahora { outline: 2px solid var(--bronce); outline-offset: 1px; background: var(--bronce); }
+.mapa-ley { display: flex; gap: 16px; flex-wrap: wrap; font: 500 .8rem var(--f-ui); color: var(--muted); margin-bottom: 22px; }
+.mapa-ley i { display: inline-block; width: 11px; height: 11px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
 * { box-sizing: border-box; }
 html, body { min-height: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 400 var(--texto)/1.66 var(--f-texto); }
@@ -403,6 +410,8 @@ function vistaInicio() {
       <div class="hoy"><span class="ojo">${hechos ? 'Seguís con' : 'Para empezar'} · Día ${d} de ${TOTAL}</span><h2>${esc(p.titulo)}</h2>
         <div class="meta"><span>Parte ${esc(parteDe(p.parte).numero)} · ${esc(parteDe(p.parte).titulo)}</span></div>
         <div class="acciones">${pos && pos.dia && diaPlan(pos.dia) && pos.dia !== d ? `<a class="btn prim" href="#dia-${pos.dia}">Seguir donde quedaste · día ${pos.dia}</a><a class="btn" href="#dia-${d}">Abrir el día ${d}</a>` : `<a class="btn prim" href="#dia-${d}">Abrir el día ${d}</a>`}<a class="btn" href="#como-usar">Cómo usarlo</a></div></div></section>
+    <h2>Tu avance</h2><div class="mapa-dias">${PLAN.map(x => `<a class="${est.hechos[x.dia] ? 'hecho' : ''} ${pos && pos.dia === x.dia ? 'ahora' : ''}" href="#dia-${x.dia}" title="Día ${x.dia}: ${esc(x.titulo)}"></a>`).join('')}</div>
+    <div class="mapa-ley"><span><i style="background:var(--acero)"></i>Terminado</span><span><i style="background:var(--bronce)"></i>Donde quedaste</span><span><i style="background:var(--line)"></i>Por delante</span><span>${hechos} de ${TOTAL} días</span></div>
     <h2>Las partes del estudio</h2><div class="partes">${partes}</div>
     <section class="copia panel"><div><b>Tus marcas, notas y avance</b><p>Se guardan en el navegador de esta compu. Con el botón de guardar (arriba, el disquete) bajás el estudio completo con todas tus marcas adentro; también podés bajar solo una copia de tus marcas para pasarla a otra compu.</p></div>
       <div class="acciones"><button class="btn prim" id="guardar-html-2">Guardar el estudio con mis marcas</button><button class="btn" id="bajar-copia">Copia de mis marcas</button><button class="btn" id="cargar-copia-btn">Cargar copia</button>
@@ -849,7 +858,7 @@ addEventListener('keydown', e => {
 const POS = LS + '-pos';
 let pos = null; try { pos = JSON.parse(localStorage.getItem(POS) || 'null'); } catch (e) {}
 let restaurarY = 0;
-const guardarPos = () => { try { const m = (location.hash || '').match(/^#dia-(\d+)$/); if (m) localStorage.setItem(POS, JSON.stringify({ dia: +m[1], y: Math.round(scrollY), t: Date.now() })); } catch (e) {} };
+const guardarPos = () => { try { const m = (location.hash || '').match(/^#dia-(\d+)$/); if (m) { pos = { dia: +m[1], y: Math.round(scrollY), t: Date.now() }; localStorage.setItem(POS, JSON.stringify(pos)); } } catch (e) {} };
 let tPos; addEventListener('scroll', () => { clearTimeout(tPos); tPos = setTimeout(guardarPos, 400); }, { passive: true });
 addEventListener('pagehide', guardarPos);
 document.addEventListener('visibilitychange', () => { if (document.hidden) guardarPos(); });

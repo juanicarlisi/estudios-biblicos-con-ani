@@ -26,7 +26,9 @@
  "entrada": {
   "texto": "Pensá en una amiga que está pasando por algo muy duro. Capaz no le escribiste porque no sabías qué decir. O capaz fuiste y dijiste algo que, mirando atrás, no ayudó. Hoy no vas a buscar la frase perfecta. Vas a mirar qué hacen las que acompañan bien: están, ayudan con las manos y lloran con la que llora. Y vas a mirar a los amigos de Job, que empezaron muy bien y terminaron hiriendo. Aprender de los dos caminos te prepara para ser, cuando te toque, un refugio y no un peso más.",
   "fuentes": [
-   "v_b_049#28"
+   "r_044#13",
+   "v_b_049#28",
+   "r_086#3"
   ]
  },
  "apartados": [
@@ -41,12 +43,15 @@
     },
     {
      "texto": "Eso te alivia en dos direcciones. No tenés que cargar con todo lo de todas. Y tampoco tenés que cargar sola lo que te aplasta. Jill Briscoe reconoce que hay un tiempo para llevar una carga a solas y otro para compartir una oración con una amiga, y que hace falta sabiduría para decidir cuándo cargar sola, cuándo delegar y cuándo depositar todo en Jesús. Según ella, después de que Dios lleva la carga, te fortalece para ayudar a llevar la de otra.",
-     "fuentes": []
+     "fuentes": [
+      "r_045#41"
+     ]
     },
     {
      "texto": "Dejarse ayudar también es parte del mandato. Marshall Segal memorizó Gálatas 6:2 con amigos y aprendió que lo difícil no es solo llevar las cargas de otros, sino dejar que otros lleven las nuestras. Para él, el individualismo y la independencia son más occidentales que cristianos. Abigail Dodds lo dice desde la debilidad: necesitamos la comida que traen, la fe de quienes oran por nosotras, la misericordia. Dios nos fortalece por medio de Cristo y de su cuerpo.",
      "fuentes": [
-      "v_b_167#4"
+      "v_b_167#4",
+      "r_067#81"
      ]
     },
     {
@@ -63,6 +68,7 @@
     {
      "texto": "Los amigos de Job empezaron bien. Según Briscoe, se sentaron con él siete días sin hablar (Job 2:13), porque su sufrimiento era demasiado grande para palabras. Ella habla de un ministerio de la presencia y del silencio, y recuerda que Eclesiastés 3:7 dice que hay tiempo para callar. Te pregunta si podés sentarte con una amiga sin terminar sus frases y sin llenar el silencio con tus propios problemas. Elifaz, de Temán, era el principal de esos tres amigos (Job 2:11).",
      "fuentes": [
+      "r_044#13",
       "v_b_445#12"
      ]
     },
@@ -74,12 +80,16 @@
     },
     {
      "texto": "También se acompaña llorando. John MacArthur lo ilustra con una escena que toma de W. A. Criswell: una niña le contó a su mamá que su mejor amiga había perdido a su madre. Cuando le preguntó qué le había dicho, respondió que nada: fue a su pupitre, se sentó a su lado y lloró con ella. Billy Graham cuenta algo parecido. Según su esposa, quienes más consolaron a su suegra viuda fueron las viudas que fueron a la casa, la abrazaron y lloraron con ella, sin decir nada. Es lo que pide 1 Corintios 12:26: si un miembro sufre, todos sufren con él.",
-     "fuentes": []
+     "fuentes": [
+      "r_145#12",
+      "r_135#25"
+     ]
     },
     {
      "texto": "Y a veces se acompaña dejándola hablar. James Dobson cuenta que un pastor, destrozado y furioso con Dios por la amputación de la pierna de su hija, fue encontrado por su amigo Dick Foth, que lloró y oró a su lado. Foth y otros dos amigos se turnaron para quedarse con él. Lo dejaron descargar su enojo sin censurarlo, y Foth solo preguntaba si había algo más que necesitara decir. Maija Nyman lo resume así: no podemos empujar ni enseñarle al corazón de otra, pero sí estar a su lado, orar y quedar disponibles cuando nos necesite.",
      "fuentes": [
-      "v_b_344#1"
+      "v_b_344#1",
+      "r_075#24"
      ]
     }
    ]
@@ -124,11 +134,14 @@
    "parrafos": [
     {
      "texto": "Debora Coty pasó tres cirugías de rodilla y siete meses de muletas y dolor, sonriendo y diciendo que estaba bien. Su amiga Cheryl la llamaba cada dos o tres días solo para preguntar «¿Cómo estás hoy?». Según Coty, esas llamadas la ayudaron a sanar más que cualquier medicamento. Después hizo lo mismo con su amiga Sharon durante su cáncer: unos minutos cada dos días. Lo relaciona con Romanos 12:15 (TLA): «Si alguno está alegre, alégrense con él; si alguno está triste, acompáñenlo en su tristeza».",
-     "fuentes": []
+     "fuentes": [
+      "r_086#3"
+     ]
     },
     {
      "texto": "Briscoe imagina a Jesús poniendo a calentar el agua para el té cuando los temores quieren hacernos huir, y a una buena amiga que dice: «Come algo. Te vas a sentir mejor». Swindoll destaca a Sobi, Maquir y Barzilai, que le trajeron a David camas, vasijas, cereales, miel, queso y ovejas, sin que se lo pidiera (2 Samuel 17:27-29). Cada uno tenía excusa para no ir y fueron igual, sin aplausos. Para Swindoll, eso es fe en acción. Katie Faris, sobre cómo animar a una madre que perdió a un hijo, también sugiere ayuda concreta: platos, ropa, compras, comidas.",
      "fuentes": [
+      "r_044#3",
       "v_b_029#14",
       "W5089"
      ]
@@ -167,26 +180,34 @@
    "texto": "Cuando somos débiles, necesitamos la fuerza de los fuertes.",
    "autor": "Abigail Dodds",
    "obra": "Mujer atípica",
-   "fuentes": []
+   "fuentes": [
+    "r_067#81"
+   ]
   },
   {
    "texto": "El silencio amoroso no produce sonido, pero le dice a la persona sentada a tu lado que te importa.",
    "autor": "Jill Briscoe",
    "obra": "Devocional en un año para mujeres",
-   "fuentes": []
+   "fuentes": [
+    "r_044#13"
+   ]
   },
   {
    "texto": "Amar es a veces tener la delicadeza de mantenerse a un lado.",
    "autor": "Maija Nyman",
    "obra": "Mujeres reales",
-   "fuentes": []
+   "fuentes": [
+    "r_075#24"
+   ]
   }
  ],
  "datos": [
   {
    "valor": "7 días",
    "texto": "Los amigos de Job se sentaron con él en silencio antes de hablar.",
-   "fuentes": []
+   "fuentes": [
+    "r_044#13"
+   ]
   },
   {
    "valor": "Más de un año",
@@ -257,13 +278,17 @@
   {
    "ref": "Día 544",
    "nota": "Dios usa tu dolor para que consueles a otras.",
-   "fuentes": []
+   "fuentes": [
+    "r_045#41"
+   ]
   }
  ],
  "para_vivir": [
   {
    "texto": "Esta semana escribile o llamala a una amiga que sufre, y preguntale solo: «¿Cómo estás hoy?». Repetí en unos días.",
-   "fuentes": []
+   "fuentes": [
+    "r_086#3"
+   ]
   },
   {
    "texto": "Ofrecé algo concreto en lugar de «avisame si necesitás algo»: una comida, una compra, un rato de compañía.",
@@ -300,7 +325,9 @@
   {
    "titulo": "Ser Eliú para una amiga",
    "texto": "Briscoe cuenta que en una etapa difícil Dios le envió un Eliú que le recordó su presencia, su protección y sus promesas. Dice que podés ser Eliú para otra, cuidando que tus palabras concuerden con las Escrituras (Job 33:13-19).",
-   "fuentes": []
+   "fuentes": [
+    "r_044#14"
+   ]
   },
   {
    "titulo": "Flavel: la mitad es mía",

@@ -10,6 +10,12 @@ IND = {
     'suicidio_mujeres': ('SH.STA.SUIC.FE.P5', 'Muertes por suicidio, mujeres (cada 100.000 mujeres)'),
     'secundaria_varones': ('SE.SEC.ENRR.MA', 'Matrícula bruta en secundaria, varones (%)'),
     'secundaria_mujeres': ('SE.SEC.ENRR.FE', 'Matrícula bruta en secundaria, mujeres (%)'),
+    'terciaria_varones': ('SE.TER.ENRR.MA', 'Matrícula bruta en educación superior, varones (%)'),
+    'terciaria_mujeres': ('SE.TER.ENRR.FE', 'Matrícula bruta en educación superior, mujeres (%)'),
+    'trabajo_varones': ('SL.TLF.CACT.MA.ZS', 'Participación en la fuerza laboral, varones de 15 años o más (%)'),
+    'trabajo_mujeres': ('SL.TLF.CACT.FE.ZS', 'Participación en la fuerza laboral, mujeres de 15 años o más (%)'),
+    'desempleo_varones': ('SL.UEM.TOTL.MA.ZS', 'Desempleo, varones (% de la fuerza laboral masculina)'),
+    'desempleo_mujeres': ('SL.UEM.TOTL.FE.ZS', 'Desempleo, mujeres (% de la fuerza laboral femenina)'),
 }
 PAISES = {'ARG': 'Argentina', 'LCN': 'América Latina y el Caribe', 'WLD': 'Mundo'}
 out = {'fuente': 'Banco Mundial, API de indicadores (data.worldbank.org)', 'consultado': datetime.date.today().isoformat(), 'series': {}}

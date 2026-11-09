@@ -38,3 +38,4 @@
 - Tanda 4 verificada: 637 borradores | 545 limpios | 92 con marcas (apoyo 59, comillas 24, largo 21, cifras 9, forma 8, ids 8, autor 5). Reparar: wf_5e712420-12c (grupos 1-8) wf_397b7d29-822 (9-16).
 - Tanda 4: reparada (wf_5e712420-12c wf_397b7d29-822), recorte wf_6b006090-430; aceptados a mano también 549,585,602,619,620 (algo cortos, 1540-1660 palabras) y 598.
 - Los 637 días son definitivos (dias/). Siguiente: revisión de continuidad (ventanas de 10 días), app y entrega.
+- Continuidad (71 ventanas de 10 días, Sonnet/medio, 6 corridas): wf_cf9daa07-d95 wf_ff2bf686-6db wf_5138d429-dec wf_9cf37df5-1d2 wf_ea53351d-47b wf_c3b7be24-49e

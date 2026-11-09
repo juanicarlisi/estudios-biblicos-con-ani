@@ -83,7 +83,7 @@ def verificar(d, base='borradores', AUT=None):
         if not ruta.startswith(('bajada', 'lectura', 'versiculos', 'para_', 'profundizar')) and not ruta.endswith('titulo'):
             cuerpo += len(t.split())
         fuentes = [i for i in (fu or [])]
-        malos = [i for i in fuentes if i not in ins and re.match(r'^(?:(?:v_)?[bow]_\d+#\d+|W\d+)$', i)]
+        malos = [i for i in fuentes if i not in ins and re.match(r'^(?:(?:v_)?[bowr]_\d+#\d+|W\d+)$', i)]
         if malos:
             flags.append((ruta, 'ids', f'ids que no están en el insumo: {malos[:4]}'))
         citado = norm(' '.join(ins.get(i, '') for i in fuentes)) if fuentes else ''

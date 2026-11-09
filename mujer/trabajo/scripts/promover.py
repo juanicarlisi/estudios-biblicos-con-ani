@@ -18,7 +18,7 @@ for f in sorted(glob.glob(f'{V}/revision/verif/dia_*.json')):
             if isinstance(o, dict):
                 for k, v in list(o.items()):
                     if k == 'fuentes' and isinstance(v, list):
-                        o[k] = [i for i in v if re.match(r'^(?:(?:v_)?[bow]_\d+#\d+|W\d+)$', i)]
+                        o[k] = [i for i in v if re.match(r'^(?:(?:v_)?[bowr]_\d+#\d+|W\d+)$', i)]
                     else:
                         limpiar(v)
             elif isinstance(o, list):

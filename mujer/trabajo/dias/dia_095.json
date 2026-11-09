@@ -36,12 +36,15 @@
    "parrafos": [
     {
      "texto": "Nancy Leigh DeMoss creció en un hogar donde la santidad se tomaba en serio y se presentaba como algo atrayente. Ella cuenta: «Desde mi más tierna infancia recuerdo haber pensado que la santidad y el gozo eran inseparables.» Y explica de dónde le venía esa idea: de su padre. Él se convirtió hacia los 25 años, después de una vida de apuestas, y deseaba ser «tan puro como la nieve». Según ella, era un hombre feliz. El pecado era para él la verdadera carga, y nunca dejó de maravillarse de haber sido liberado por Cristo.",
-     "fuentes": []
+     "fuentes": [
+      "r_098#24"
+     ]
     },
     {
      "texto": "Fijate qué cambia con esa mirada. La alegría del padre de Nancy no venía de portarse bien, venía de haber sido liberado. La santidad, entonces, no es la jaula: es lo que queda cuando la carga cae. Robert Wolgemuth cuenta que se casó con Nancy y que ella escribió un libro sobre el corazón purificado por Dios, donde sostiene justamente esto: santidad y alegría estaban unidas desde su infancia.",
      "fuentes": [
-      "v_b_033#11"
+      "v_b_033#11",
+      "r_098#24"
      ]
     },
     {
@@ -57,7 +60,9 @@
    "parrafos": [
     {
      "texto": "Elizabeth George lo plantea con una pregunta incómoda y buena: sos apartada para Dios, ¿y los demás pueden notarlo? Colosenses 3:2 llama a fijar la atención en las cosas de arriba, y eso se nota, dice ella, en lo que decís y hacés, en tus actitudes, en tu forma de vestir, en tu manera de hablar y de tratar a amigos y familia. Pero advierte algo importante: no se trata de armar una fachada. La diferencia tiene que verse de forma natural en tus prioridades.",
-     "fuentes": []
+     "fuentes": [
+      "r_100#27"
+     ]
     },
     {
      "texto": "¿Y a quién estás tratando de agradar? Nicolás Tranchini muestra que Pablo apela siempre a agradar a Dios como motivo para relacionarse santamente: en las relaciones, el pensamiento es «me agrada agradar a Cristo», y no que me guste lo que el otro quiere. Y lo que él descubre es liberador: «Cuando agrado a Dios soy libre de necesitar a otros, pero, a su vez, soy libre para poder amarlos.» Si estás cansada de vivir pendiente de la aprobación ajena, acá hay una salida.",
@@ -133,6 +138,7 @@
     {
      "texto": "Pero hay un cuidado más. Nancy Leigh DeMoss, citando a Oswald Chambers, dice que el secreto de una vida santa no está en imitar a Jesús con esfuerzo, sino en dejar que su perfección se manifieste en nuestra carne mortal. Ser santa es apropiarse de la santidad de Cristo; una búsqueda que no se centra en Él se vuelve moralismo y esclavitud. Rosscup lo dice con el vestido: nos vestimos de Cristo cuando nos ponemos el nuevo hombre, creado en la justicia y santidad de la verdad (Efesios 4:24; Romanos 13:14). Gurnall agrega que la santidad es el vestido bordado de la esposa de Cristo (Salmo 45:14), y que esa esperanza es el argumento más eficaz para vencer la tentación. Lo de hoy no se trata de esforzarte para llegar a ser buena; se trata de vestirte de Aquel que ya es santo. El día 279 vas a ver cómo Dios mismo completa esa obra.",
      "fuentes": [
+      "r_098#41",
       "v_b_192#11",
       "b_133#17"
      ]
@@ -162,11 +168,17 @@
     },
     {
      "texto": "Liz Curtis Higgs, sobre Sara riéndose en la tienda y negándolo con una mentira, dice que era un intento de burlarse de la promesa, y que Dios, que lo había oído todo, la detuvo. Cita Gálatas 6:7: Dios no puede ser burlado. Pero fijate cómo sigue: el Señor es misericordioso, aunque nunca debemos dudar de su poder.",
-     "fuentes": []
+     "fuentes": [
+      "r_069#47"
+     ]
     },
     {
      "texto": "También hay una reverencia que se ve en el porte. Elizabeth George explica que reverente (hieroprepes) combina sagrado y apropiado, y que comportamiento (katastema) indica el porte y la conducta externa, manifestación de la vida interior. Juntas, las palabras de Tito 2:3 significan reverentes en comportamiento, como sacerdotisas consagradas, en un espíritu de adoración y santidad. Y el temor, dicen los comentarios de Marcos, es la respuesta de hombres y mujeres a Jesús cuando muestra su majestad: la mujer curada de una hemorragia se postró «temiendo y temblando», y las mujeres ante la tumba vacía huyeron con temblor y asombro. Mirá a Jesús con ese asombro y te va a costar mucho tratarlo como a cualquier cosa. El día 104 vas a profundizar qué es el temor del Señor.",
-     "fuentes": []
+     "fuentes": [
+      "r_046#3",
+      "r_002#29",
+      "r_002#31"
+     ]
     }
    ]
   }
@@ -176,7 +188,9 @@
    "texto": "Desde mi más tierna infancia recuerdo haber pensado que la santidad y el gozo eran inseparables.",
    "autor": "Nancy Leigh DeMoss",
    "obra": "Santidad: El corazón purificado por Dios",
-   "fuentes": []
+   "fuentes": [
+    "r_098#24"
+   ]
   },
   {
    "texto": "Cuando agrado a Dios soy libre de necesitar a otros, pero, a su vez, soy libre para poder amarlos.",
@@ -198,7 +212,9 @@
    "texto": "Dios no puede ser burlado.",
    "autor": "Liz Curtis Higgs",
    "obra": "Mujeres de la Biblia... ligeramente malas",
-   "fuentes": []
+   "fuentes": [
+    "r_069#47"
+   ]
   }
  ],
  "datos": [],
@@ -208,14 +224,18 @@
    "translit": "hieroprepes",
    "ref": "Tito 2:3",
    "significado": "Reverente: combina sagrado y apropiado; describe lo adecuado al carácter sagrado, lo consagrado a Dios.",
-   "fuentes": []
+   "fuentes": [
+    "r_046#3"
+   ]
   },
   {
    "idioma": "griego",
    "translit": "katastema",
    "ref": "Tito 2:3",
    "significado": "Comportamiento: el porte y la conducta externa, manifestación de la vida interior.",
-   "fuentes": []
+   "fuentes": [
+    "r_046#3"
+   ]
   }
  ],
  "interpretaciones": [
@@ -233,7 +253,9 @@
     {
      "postura": "El secreto no es imitar a Jesús con esfuerzo, sino dejar que su perfección se manifieste en nosotros; sin centrarse en Él, la búsqueda se vuelve moralismo y esclavitud.",
      "quien": "Nancy Leigh DeMoss, citando a Oswald Chambers",
-     "fuentes": []
+     "fuentes": [
+      "r_098#41"
+     ]
     },
     {
      "postura": "Se descansa en la obra terminada de Cristo, pero con esfuerzo por ser justo y por purificarse.",
@@ -286,6 +308,7 @@
   {
    "texto": "Vestite de Cristo cada mañana: antes de salir, pedile que su santidad se note en tu manera de hablar y de tratar a los tuyos.",
    "fuentes": [
+    "r_100#27",
     "v_b_192#11"
    ]
   }
@@ -304,6 +327,7 @@
    "titulo": "Santa y reverente en el hogar: dos posturas",
    "texto": "Tony Evans sostiene que, en el contexto de 1 Pedro 3, una mujer santa confía en Dios y honra a su esposo, y que la santidad, compromiso interior, se muestra en palabras y acciones. Tranchini, por su parte, ubica el motivo de toda relación en agradar a Cristo. Ninguna de estas posturas es excusa para el maltrato: si vivís violencia o sentís miedo en tu casa, pedí ayuda a alguien de confianza, a tu pastor o a un profesional.",
    "fuentes": [
+    "r_121#27",
     "b_143#16"
    ]
   },

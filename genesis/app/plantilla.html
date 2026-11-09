@@ -847,7 +847,7 @@ addEventListener('keydown', e => {
 const POS = LS + '-pos';
 let pos = null; try { pos = JSON.parse(localStorage.getItem(POS) || 'null'); } catch (e) {}
 let restaurarY = 0;
-const guardarPos = () => { try { const m = (location.hash || '').match(/^#dia-(\d+)$/); if (m) localStorage.setItem(POS, JSON.stringify({ dia: +m[1], y: Math.round(scrollY), t: Date.now() })); } catch (e) {} };
+const guardarPos = () => { try { const m = (location.hash || '').match(/^#dia-(\d+)$/); if (m) { pos = { dia: +m[1], y: Math.round(scrollY), t: Date.now() }; localStorage.setItem(POS, JSON.stringify(pos)); } } catch (e) {} };
 let tPos; addEventListener('scroll', () => { clearTimeout(tPos); tPos = setTimeout(guardarPos, 400); }, { passive: true });
 addEventListener('pagehide', guardarPos);
 document.addEventListener('visibilitychange', () => { if (document.hidden) guardarPos(); });

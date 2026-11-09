@@ -51,7 +51,8 @@
     {
      "texto": "LaHaye también hace la cuenta de lo que cuesta. El temor tiene un precio emocional, social (los demás rehúyen al temeroso), físico (la tensión daña el cuerpo) y espiritual. Un pastor que él cita recibió miles de cartas y concluyó que el enemigo privado número uno es el temor. Elizabeth George cuenta algo parecido: a la columnista Ann Landers le preguntaron cuál era el problema más común entre las más de diez mil cartas semanales que recibía, y contestó: «El temor.»",
      "fuentes": [
-      "b_131#12"
+      "b_131#12",
+      "r_102#66"
      ]
     }
    ],
@@ -108,7 +109,8 @@
     {
      "texto": "Hay señales concretas. Rick Warren ofrece una: sentir un insaciable afán de salir huyendo, del trabajo, del matrimonio, de una relación, de la casa, porque temés no poder enfrentar la situación. H. Norman Wright suma otras: el temor te hace caminar con muletas, nubla la visión, dificulta las relaciones, bloquea la relación con Dios y borra del vocabulario frases como «puedo», «quiero» o «con la ayuda y guía de Dios podré».",
      "fuentes": [
-      "v_b_104#7"
+      "v_b_104#7",
+      "r_092#1"
      ]
     },
     {
@@ -120,7 +122,10 @@
     },
     {
      "texto": "Billy Graham agrega otra cara: el miedo irracional puede asfixiar a los tuyos por sobreprotección. Si te reconocés en esto de forma constante, hablalo con alguien de confianza, con tu pastor o con un profesional. Wright cuenta que muchas de sus consultantes casi cancelan la cita por miedo, y que al dar el paso los temores se disipan.",
-     "fuentes": []
+     "fuentes": [
+      "r_135#12",
+      "r_092#1"
+     ]
     }
    ]
   },
@@ -136,13 +141,15 @@
     {
      "texto": "Wright describe el patrón perfeccionista: lo que muestro refleja cuánto valgo, mi nivel determina mi valor, y los fallos significan que no valgo. La realidad, responde, es que todas fallamos, pero Dios acepta nuestras imperfecciones y declara que valemos. Para él, esforzarse por el perfeccionismo es seguir viviendo bajo la ley en vez de bajo la gracia. Keller lo ve igual desde otro ángulo: quien se esclaviza al trabajo por temor al fracaso, o se hunde por sus fallas, olvidó que ante Dios ya es justa.",
      "fuentes": [
+      "r_092#53",
       "b_138#31"
      ]
     },
     {
      "texto": "La vergüenza trabaja en el mismo lugar. Juan Gómez dice que nace de pecados propios o ajenos, de traumas, de inseguridades de identidad y del miedo a la opinión de otros, y que la sociedad mide el valor por estatus, lo que vuelve frágil la identidad. Su respuesta: el valor viene de ser creada a imagen de Dios y de la obra de Cristo, y Jesús «no se avergüenza de llamarlos hermanos» (Hebreos 2:11). Wright propone una tarjeta práctica: de un lado «PARE», del otro «Tienes el valor de la preciosa sangre de Jesús» (1 Corintios 6:19-20; 1 Pedro 1:18-19). Lo que arrastra es tu valor, no tu rendimiento.",
      "fuentes": [
-      "w_029#7"
+      "w_029#7",
+      "r_092#27"
      ]
     },
     {
@@ -174,7 +181,8 @@
     {
      "texto": "Tranchini lo ilustra con una escena cotidiana: temía perder el adelanto de la casa, y su esposa le preguntó si temía que Dios le quitara algo que Él mismo le había dado. Ahí entendió que lo consideraba suyo. MacArthur dice algo parecido de la ansiedad: empieza cuando dejamos de enfocarnos en nuestra condición permanente en Cristo y basamos la felicidad en lo pasajero. El camino que propone es obediencia: examinar el corazón, dejar el pecado revelado y practicar lo opuesto, confiar en que Dios maneja los detalles.",
      "fuentes": [
-      "b_143#6"
+      "b_143#6",
+      "r_024#31"
      ]
     }
    ]
@@ -191,7 +199,9 @@
     {
      "texto": "Y Jesús no vende ilusiones. George señala que en Mateo 10:16-26 envía a sus discípulos como ovejas en medio de lobos y les anuncia persecución. No fue un discurso para infundir ánimo fácil: les mostró la realidad, y terminó con la seguridad de su cuidado. Hebreos 2:15, que cita Graham, dice que Cristo vino a liberar a los que estaban esclavizados por el temor a la muerte. Y según Graham, la Biblia nos dice más de quinientas veces que no tengamos miedo.",
      "fuentes": [
-      "b_089#4"
+      "b_089#4",
+      "r_135#12",
+      "r_135#13"
      ]
     },
     {
@@ -225,19 +235,25 @@
    "texto": "Esforzarse por el perfeccionismo significa que todavía estamos viviendo bajo la ley en vez de vivir bajo la gracia de Dios.",
    "autor": "H. Norman Wright",
    "obra": "Preguntas que las mujeres hacen en privado",
-   "fuentes": []
+   "fuentes": [
+    "r_092#53"
+   ]
   }
  ],
  "datos": [
   {
    "valor": "Más de 500",
    "texto": "Según Billy Graham, las veces que la Biblia menciona el miedo, generalmente para decirnos que no lo tengamos.",
-   "fuentes": []
+   "fuentes": [
+    "r_135#13"
+   ]
   },
   {
    "valor": "Más de 10.000",
    "texto": "Cartas semanales que recibía Ann Landers; al preguntarle el problema más común, respondió que el temor (según Elizabeth George).",
-   "fuentes": []
+   "fuentes": [
+    "r_102#66"
+   ]
   }
  ],
  "modelo": {
@@ -323,11 +339,15 @@
   },
   {
    "texto": "Cuando te pilles pensando mal de vos, usá la tarjeta de Wright: «PARE» de un lado, «Tienes el valor de la preciosa sangre de Jesús» del otro. Probala varias veces hoy.",
-   "fuentes": []
+   "fuentes": [
+    "r_092#27"
+   ]
   },
   {
    "texto": "Si el miedo te acompaña seguido, no lo cargues sola: hablalo con una hermana de confianza, tu pastor o un profesional.",
-   "fuentes": []
+   "fuentes": [
+    "r_092#1"
+   ]
   }
  ],
  "para_reflexionar": [

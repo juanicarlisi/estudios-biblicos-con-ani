@@ -47,7 +47,7 @@ con `--artefacto` arma la versión para publicar en claude.ai).
 
 Abrir `varon/el-varon-segun-dios.html` en el navegador: un solo archivo, con las tipografías incluidas, que funciona sin conexión.
 
-- **El plan:** 512 días de 20 a 30 minutos, en 17 partes: la crisis del varón hoy, el diseño de Dios, el varón y Dios, el carácter,
+- **El plan:** 551 días de 20 a 30 minutos, en 17 partes: la crisis del varón hoy, el diseño de Dios, el varón y Dios, el carácter,
   la pureza, el trabajo, el esposo, el padre, el líder y ministro, el siervo, hermanos y mentores, el joven, el adulto, el mayor,
   la sociedad, las pruebas y el fracaso, y varones de la Biblia y de la historia.
 - **Cada día:** lectura, versículos clave, estudio con la fuente de cada afirmación, datos con año y fuente, modelo bíblico,

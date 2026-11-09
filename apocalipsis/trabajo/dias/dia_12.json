@@ -63,7 +63,7 @@
      "tipo": "cultura_costumbres"
     },
     {
-     "texto": "¿Por qué iría un cristiano? Earle explica que algunos aconsejaban adaptarse para evitar la persecución, convencidos de que lo que se hace con el cuerpo no afecta al alma. Ladd supone que decían que los dioses no existen, así que no había mal en participar. Beasley-Murray piensa que despreciaban el cuerpo, quizás torciendo la enseñanza de Pablo sobre la gracia (Ro 3:8; 6:1). Carballosa: hacían creer que el andar no importaba con tal de que la doctrina fuera sana. Lennox los ve probablemente como antinomianos, que tomaban la libertad del evangelio por licencia (“lo único que importa es el amor”), en una ciudad romana hipersexualizada. Y el clima ayudaba: donde la política y el paganismo estaban tan aliados, la presión para transigir debía de ser muy fuerte (Diccionario Mundo Hispano).",
+     "texto": "¿Por qué iría un cristiano? Earle explica que algunos aconsejaban adaptarse para evitar la persecución, convencidos de que lo que se hace con el cuerpo no afecta al alma. Ladd supone que decían que los dioses no existen, así que no había mal en participar. Beasley-Murray piensa que despreciaban el cuerpo, quizás torciendo la enseñanza de Pablo sobre la gracia (Ro 3:8; 6:1). Carballosa: hacían creer que el andar no importaba con tal de que la doctrina fuera sana. Lennox los ve probablemente como antinomianos, que tomaban la libertad del evangelio por licencia (“lo único que importa es el amor”). Y el clima ayudaba: donde la política y el paganismo estaban tan aliados, la presión para transigir debía de ser muy fuerte (Diccionario Mundo Hispano).",
      "fuentes": ["beacon_02_a#27", "ladd_02_a#2", "henry_01_a#28", "carballosa_03_b#6", "dbmh_02#1", "r4_460_05_a#11"],
      "tipo": "contexto_historico"
     }
@@ -90,7 +90,7 @@
    "titulo": "«Arrepiéntete»: la Palabra que pelea",
    "notas": [
     {
-     "texto": "El llamado va a toda la iglesia: los que no enseñaban el error pero lo toleraban debían arrepentirse con los culpables (Ladd, Mundo Hispano). Para MacArthur, el paso de «a ti» a «contra ellos» es un giro de la Septuaginta: todos enfrentan la espada, los herejes por su herejía y el resto por tolerarla. Henry lo dice en una frase: los que pecan juntos, juntos deben arrepentirse. Ladd hace el contraste con Éfeso: allá el pecado era la intolerancia dura; acá, la tolerancia y la laxitud.",
+     "texto": "El llamado va a toda la iglesia: los que no enseñaban el error pero lo toleraban debían arrepentirse con los culpables (Ladd, Mundo Hispano). Para MacArthur, el paso de «a ti» a «contra ellos» es un giro de la Septuaginta: todos enfrentan la espada, los herejes por su herejía y el resto por tolerarla. Henry lo dice en una frase: los que pecan juntos, juntos deben arrepentirse.",
      "fuentes": ["ladd_02_a#6", "cbmh_03_a#4", "macarthur_03_b#7", "carballosa_03_b#7", "r4_2_01_a#17"],
      "tipo": "explicacion_texto"
     },
@@ -159,7 +159,7 @@
   {"ref": "2:14", "griego": "κρατοῦντας", "translit": "kratoûntas", "significado": "“Retienen”: sujetar con fuerza.", "fuentes": ["carballosa_03_b#6"]},
   {"ref": "2:14", "griego": "σκάνδαλον", "translit": "skándalon", "significado": "“Tropiezo”: primero el cebo de una trampa y después la trampa misma; Lenski traduce “poner una trampa”.", "fuentes": ["beacon_02_a#26"]},
   {"ref": "2:16", "griego": "μετανοέω", "translit": "metanoéō", "significado": "“Arrepentirse”: cambio de mente que produce cambio de conducta; aquí en aoristo, urgente.", "fuentes": ["macarthur_03_b#7", "mcgee_03_a#9", "carballosa_03_b#7"]},
-  {"ref": "2:16", "griego": "πολεμήσω", "translit": "polemḗsō", "significado": "“Pelearé”: literalmente “libraré una guerra”, una campaña total; Carballosa evoca al Señor como guerrero (Éx 15:3).", "fuentes": ["carballosa_03_b#7", "beacon_02_a#29"]},
+  {"ref": "2:16", "griego": "πολεμήσω", "translit": "polemḗsō", "significado": "“Pelearé”: literalmente “libraré una guerra”, una campaña total; Carballosa evoca al Señor como guerrero (Éx 15:3). Lennox recuerda que de esta palabra viene “polémica”.", "fuentes": ["carballosa_03_b#7", "beacon_02_a#29", "r4_460_05_a#13"]},
   {"ref": "2:17", "griego": "ψῆφος", "translit": "psḗphos", "significado": "“Piedrecita”: para contar, votar o como boleto.", "fuentes": ["carballosa_03_b#8"]},
   {"ref": "2:17", "griego": "καινός", "translit": "kainós", "significado": "“Nuevo” en calidad, no néos, nuevo en el tiempo; Swete: el nombre cristiano posee eterna juventud.", "fuentes": ["beacon_02_a#31", "cbmh_03_a#7", "macarthur_03_b#11"]}
  ],
@@ -209,14 +209,15 @@
    "tema": "«Vendré a ti pronto»: ¿qué venida?",
    "posturas": [
     {"postura": "Una visitación de juicio sobre esa iglesia, como en 2:5.", "quien": "Ladd (premilenial histórico); Comentario Mundo Hispano; Beasley-Murray (“segunda venida” preliminar)", "fuentes": ["ladd_02_a#7", "cbmh_03_a#4", "henry_01_a#28"]},
-    {"postura": "La segunda venida: “vengo pronto” se usa para ella (3:11; 22:7, 12, 20).", "quien": "Carballosa, con Thomas (premilenial dispensacional)", "fuentes": ["carballosa_03_b#7"]}
+    {"postura": "La segunda venida: “vengo pronto” se usa para ella (3:11; 22:7, 12, 20).", "quien": "Carballosa, con Thomas (premilenial dispensacional)", "fuentes": ["carballosa_03_b#7"]},
+    {"postura": "Un juicio terrenal que Cristo ejecutaría por medio de algún maestro fiel de Pérgamo, que combatiría el error exponiendo la Palabra, la espada del Espíritu (lo presenta como suposición).", "quien": "Lennox", "fuentes": ["r4_460_05_a#13"]}
    ],
    "nota": "El Mundo Hispano admite que, para un lector del siglo I, el juicio podía estar ligado también a la venida final."
   },
   {
    "tema": "¿Qué es la piedrecita blanca?",
    "posturas": [
-    {"postura": "Un boleto de entrada al banquete de los vencedores: la entrada a la celebración celestial.", "quien": "Ladd; MacArthur; Biblia MacArthur (“puede representar”); Carballosa", "fuentes": ["ladd_02_a#9", "macarthur_03_b#10", "mbiblia_01_b#8", "carballosa_03_b#8"]},
+    {"postura": "Un boleto de entrada al banquete de los vencedores: la entrada a la celebración celestial. Hitchcock la prefiere porque encaja con el maná y objeta las otras: en las piedras de los jurados no se escribía nada, y sería extraño que el Señor usara un amuleto pagano.", "quien": "Ladd; MacArthur; Biblia MacArthur (“puede representar”); Carballosa; Hitchcock", "fuentes": ["ladd_02_a#9", "macarthur_03_b#10", "mbiblia_01_b#8", "carballosa_03_b#8", "r4_442_02#18"]},
     {"postura": "El voto de un jurado: la piedra blanca absolvía y la negra condenaba.", "quien": "Opción en Charles, Beasley-Murray, Ladd y el Mundo Hispano", "fuentes": ["beacon_02_a#31", "henry_01_a#29", "cbmh_03_a#6"]},
     {"postura": "El Urim y Tumim o las piedras del pectoral del sumo sacerdote.", "quien": "Trench (citado por Carballosa); opción en MacArthur y el Mundo Hispano", "fuentes": ["carballosa_03_b#8", "macarthur_03_b#10", "cbmh_03_a#6"]},
     {"postura": "Una prenda de amistad: la piedra partida en dos con dos nombres que daba entrada a la casa del otro, o la piedrita con un mensaje para un amigo íntimo.", "quien": "Beasley-Murray; Lacueva; McGee", "fuentes": ["henry_01_a#29", "r2_030#11", "mcgee_03_a#11"]}
@@ -235,7 +236,6 @@
  ],
  "biblioteca": [
   {"texto": "La tolerancia es la tumba de la reforma: por la tolerancia adoptamos los pecados ajenos.", "autor": "Thomas Watson", "obra": "La hermosura de Cristo", "pagina": "PDF 23", "tipo": "aplicacion", "fuentes": ["r2_023_b#17"]},
-  {"texto": "No siempre es fácil reconocer el límite entre una opinión de escuela y una herejía; cuando la herejía se hace manifiesta, hay que separarse.", "autor": "Dietrich Bonhoeffer (citado por Berkhof)", "obra": "El precio de la gracia", "pagina": "PDF 97", "tipo": "doctrina", "fuentes": ["r2_031#5"]},
   {"texto": "Sibbes llamaba al consuelo del Espíritu “el maná escondido” y “la piedra blanca” con un nombre que solo conoce quien la recibe.", "autor": "Joel Beeke y Mark Jones", "obra": "Una teología puritana", "pagina": "PDF 782", "tipo": "doctrina", "fuentes": ["r2_025_a#24"]}
  ],
  "conexiones": [
@@ -249,7 +249,7 @@
   {"texto": "La tolerancia no siempre es virtud. MacArthur sostiene que “el error nunca se suprimirá haciendo concesiones con él”, pero pide confrontar con amabilidad y firmeza (2 Ti 2:24-26). Éfeso y Pérgamo muestran los dos barrancos: la dureza que deja de amar y la blandura que deja de corregir.", "fuentes": ["macarthur_03_b#8", "ladd_02_a#6"]},
   {"texto": "MacArthur define la mundanalidad como lo que “pone algo perecedero antes de lo que es eterno”. La pregunta de Pérgamo no es si ustedes viven en un lugar difícil, sino qué mesas del mundo los invitan a negociar la fidelidad para estar en paz.", "fuentes": ["macarthur_03_a#21", "beacon_02_a#27"]},
   {"texto": "Desconfíen de toda enseñanza que separe lo que se cree de cómo se vive: la libertad cristiana no es licencia (Gá 5:13), y la mala doctrina sigue siendo un grave peligro (McGee).", "fuentes": ["web_18#10", "mcgee_04_a#6"]},
-  {"texto": "Keller recuerda que la identidad no viene del cónyuge ni de hacerse un nombre, sino de lo que Dios hizo por nosotros. Como matrimonio, pueden descansar el uno en el otro sin pedirse lo que solo Cristo da.", "fuentes": ["r2_003_a#11"]}
+  {"texto": "Graham sostiene que solo una pasión puede gobernar a las demás: la de conocer y obedecer a Dios. Cuando se enfría, se llena el vacío con otras cosas, y la idolatría suele abrir la puerta a la inmoralidad. Por eso une el primer mandamiento con la fidelidad en el matrimonio (He 13:4): cuídense el uno al otro cuidando primero ese amor.", "fuentes": ["r4_451_02#6", "r4_451_02#8"]}
  ],
  "para_conversar": [
   "¿En qué “banquetes” de nuestro entorno (trabajo, amistades, entretenimiento) sentimos presión para acomodarnos? ¿Dónde podría estar la carnada?",
@@ -267,13 +267,18 @@
   },
   {
    "titulo": "Dafne: el clima moral del mundo antiguo",
-   "texto": "Para mostrar la laxitud sexual de la época, Ladd menciona Dafne, cerca de Antioquía: retiro de los ricos, con templo a Apolo y Diana, famoso por sus prostitutas sagradas; “Daphnici mores” se volvió sinónimo de costumbres inmorales. Griegos y romanos no consideraban la libertad sexual un pecado serio; por eso el concilio de Jerusalén pidió a los gentiles abstenerse de fornicación (Hch 15:20).",
-   "fuentes": ["ladd_02_a#4", "ladd_02_a#3"]
+   "texto": "Para mostrar la laxitud sexual de la época, Ladd menciona Dafne, cerca de Antioquía: retiro de los ricos, con templo a Apolo y Diana, famoso por sus prostitutas sagradas; “Daphnici mores” se volvió sinónimo de costumbres inmorales. Griegos y romanos no consideraban la libertad sexual un pecado serio; por eso el concilio de Jerusalén pidió a los gentiles abstenerse de fornicación (Hch 15:20). Graham usa el mismo ejemplo: allí ciudadanos prominentes descansaban, hacían negocios y oraban, y las prostitutas del templo se ofrecían como cortesía.",
+   "fuentes": ["ladd_02_a#4", "ladd_02_a#3", "r4_451_02#5"]
   },
   {
    "titulo": "Los nombres: Pérgamo y Balaam",
    "texto": "Wiersbe dice que Pérgamo significa “casada” (Carballosa usa la misma imagen) y TTL Training lo relaciona con gamos, “matrimonio mixto”; es una etimología de estos autores que las notas no contrastan. Sobre Balaam, el Diccionario Mundo Hispano da “quizá devorando o devorador”, mientras Alan Johnson propone “conquistar a la gente”. Lo firme es el uso: Balaam llegó a ser el ejemplo proverbial hebreo del maestro falso.",
    "fuentes": ["r1_021#5", "r1_024_a#20", "carballosa_03_b#9", "web_18#9", "cbmh_03_a#2", "cbmh_03_a#1"]
+  },
+  {
+   "titulo": "Bonhoeffer: opinión de escuela o herejía",
+   "texto": "Bonhoeffer (citado por Berkhof, El precio de la gracia, PDF 97) advierte que no siempre es fácil reconocer el límite entre una opinión de escuela y una herejía; cuando la herejía se hace manifiesta, hay que separarse.",
+   "fuentes": ["r2_031#5"]
   },
   {
    "titulo": "Más sobre el maná y la piedrecita",

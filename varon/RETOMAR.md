@@ -19,3 +19,6 @@
 ## Ahorro de tokens (medido)
 - Antes: escritor Opus + verificador Sonnet que releía todo ≈ 170k tokens por día. Ahora: Sonnet (esfuerzo medio) con insumo comprimido ≈ 90k en total por día (la mayor parte es el contexto fijo del agente, que se cachea); verificación y promoción por programa; reparar y recortar de a 6 días por agente ≈ 12k por día; continuidad con un agente por 10 días y sin verificador.
 - Lección: el costo fijo de cada agente (~64k de contexto base) manda; agrupar varios días por agente lo reparte. En sesiones nuevas desde el repo, los agentes `redactor-dia` y `reparador-dia` (`.claude/agents/`, `omitClaudeMd`, solo Read) bajan ese contexto base.
+
+## EN CURSO (09-11-2026): 39 días nuevos
+Estado intermedio: `plan.json`/`dias_plan.json` ya tienen 551 días y los 512 existentes están renumerados (`ref4/dias_nuevos.json` guarda el mapa viejo→nuevo), pero los 39 días nuevos todavía no están escritos en `trabajo/dias/` (faltan sus archivos; los insumos ya están en `trabajo/insumos/`). No compilar el HTML hasta completarlos. Pasos que siguen: escribir (agentes), verificar con `verificar_dia.py --dias`, continuidad, `construir.py`.

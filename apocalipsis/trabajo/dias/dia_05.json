@@ -36,7 +36,7 @@
   "porque": "Juan se pone a la altura de sus lectores: hermano, compañero de sufrimiento, del mismo reino y de la misma perseverancia, y desterrado solo por ser fiel a la Palabra."
  },
  "panorama": {
-  "texto": "Juan cuenta dónde y cómo recibió la revelación. No se presenta con títulos sino como un hermano que comparte con las iglesias la tribulación, el reino y la perseverancia que se viven en Jesús. Está desterrado en Patmos, una isla que Roma usaba como cárcel sin paredes, no por un delito sino por su fidelidad a la Palabra. Y ahí, lejos de su iglesia, en el día del Señor, el Espíritu lo toma y oye una voz como de trompeta que le manda escribir lo que vea y enviarlo a siete iglesias reales de Asia. Ladd lo resume: no sabemos con exactitud por qué fue desterrado, pero Dios usó ese destierro para mostrarle el conflicto entre su reino y el poder de Satanás, y la victoria final del reino.",
+  "texto": "Juan cuenta dónde y cómo recibió la revelación. No se presenta con títulos sino como un hermano que comparte con las iglesias la tribulación, el reino y la perseverancia que se viven en Jesús. Está desterrado en Patmos, una isla del Egeo, no por un delito sino por su fidelidad a la Palabra. Y ahí, lejos de su iglesia, en el día del Señor, el Espíritu lo toma y oye una voz como de trompeta que le manda escribir lo que vea y enviarlo a siete iglesias reales de Asia. Ladd lo resume: no sabemos con exactitud por qué fue desterrado, pero Dios usó ese destierro para mostrarle el conflicto entre su reino y el poder de Satanás, y la victoria final del reino.",
   "fuentes": [
    "macarthur_02_a#12",
    "carballosa_02_b#8",
@@ -126,10 +126,10 @@
   },
   {
    "rango": "1:9",
-   "titulo": "Patmos, una cárcel sin paredes",
+   "titulo": "Patmos, lugar de destierro",
    "notas": [
     {
-     "texto": "Patmos es una isla chica del Egeo, de unos 15 km de largo, volcánica, árida y rocosa. Los romanos usaban esas islas para desterrar; según Tácito era un castigo común, y casi al mismo tiempo Domiciano desterró a su sobrina Flavia Domitilla a otra isla (F. F. Bruce, citado por MacArthur). Guzik la llama la “Alcatraz” del Imperio.",
+     "texto": "Patmos es una isla chica del Egeo, de unos 15 km de largo, volcánica, árida y rocosa. Los romanos usaban esas islas para desterrar; según Tácito era un castigo común, y casi al mismo tiempo Domiciano desterró a su sobrina Flavia Domitilla a otra isla (F. F. Bruce, citado por MacArthur).",
      "fuentes": [
       "beacon_01_b#15",
       "ladd_01_b#3",
@@ -142,13 +142,14 @@
      "tipo": "arqueologia_geografia"
     },
     {
-     "texto": "La vida allí era dura. Según Victorino (citado por Guzik), Juan fue forzado a trabajar en las minas pese a su edad. MacArthur lo imagina anciano, con trabajo extenuante bajo un capataz romano, poca comida y ropa, durmiendo en el suelo. Barnes observa que era el lugar ideal para silenciar al apóstol sin matarlo.",
+     "texto": "¿Qué tan dura era la vida allí? Según Victorino (citado por Guzik), Juan fue forzado a trabajar en las minas pese a su edad, y MacArthur lo imagina anciano, bajo un capataz romano, con poca comida y ropa. Hitchcock discute esa imagen de “Alcatraz” del Imperio: no hay evidencia de que en el siglo I la isla fuera una colonia penal, y Plinio no la describe como lugar de destierro. Había una guarnición, un edificio administrativo y templos (a Artemisa y probablemente a Apolo); Osborne, citado por él, deduce de su población y sus dos gimnasios que la vida era llevadera. Sea como fuere, Barnes observa que era el lugar ideal para silenciar al apóstol sin matarlo.",
      "fuentes": [
       "web_03_a#22",
       "web_03_a#21",
       "carballosa_02_b#10",
       "macarthur_02_a#13",
-      "web_11_a#8"
+      "web_11_a#8",
+      "r4_442_01#23"
      ],
      "tipo": "contexto_historico"
     }
@@ -176,6 +177,15 @@
       "ladd_01_b#4"
      ],
      "tipo": "explicacion_texto"
+    },
+    {
+     "texto": "Graham pinta el trasfondo: hacia fines del siglo I, con las arcas vacías y rebeliones, Roma probaba la lealtad haciendo arrojar incienso al fuego y decir “César es el Señor”. Para la mayoría era gratitud por la paz; para el cristiano, que confesaba “Jesús es el Señor”, era imposible. No se conocen los cargos contra Juan, admite Graham, pero la persecución se intensificó durante su exilio.",
+     "fuentes": [
+      "r4_451_01_b#4",
+      "r4_451_01_b#5",
+      "r4_451_01_b#6"
+     ],
+     "tipo": "contexto_historico"
     },
     {
      "texto": "Wiersbe recuerda que de jóvenes Jacobo y Juan pidieron tronos (Mc 10:35-45); después llegó el precio: Jacobo ejecutado, Juan desterrado. Pero, según MacArthur, en Patmos Juan descubre por qué todavía no había muerto: su obra no había terminado.",
@@ -561,8 +571,8 @@
    "tema": "¿Qué es «el día del Señor»?",
    "posturas": [
     {
-     "postura": "El domingo, día de la resurrección: el adjetivo es distinto del giro escatológico, la visión trata de Cristo en su iglesia y en el siglo II así se llamaba al domingo; quizás en contraste con el día del emperador.",
-     "quien": "Earle; Ladd; MacArthur; McGee; Beasley-Murray; Mundo Hispano; Ryrie; Guzik; Piper",
+     "postura": "El domingo, día de la resurrección: el adjetivo es distinto del giro escatológico, la visión trata de Cristo en su iglesia y en el siglo II así se llamaba al domingo; quizás en contraste con el día del emperador. Hitchcock responde a la objeción del “primer día de la semana”: Apocalipsis fue el último libro escrito y la expresión ya podía estar en uso; cita la Didaché (14:1).",
+     "quien": "Earle; Ladd; MacArthur; McGee; Beasley-Murray; Mundo Hispano; Ryrie; Guzik; Piper; Hitchcock; Lennox; Comentario Moody",
      "fuentes": [
       "beacon_01_b#18",
       "ladd_01_b#5",
@@ -572,16 +582,22 @@
       "dbmh_01_a#24",
       "r2_033#19",
       "web_03_a#23",
-      "cpe_08#7"
+      "cpe_08#7",
+      "r4_442_02#7",
+      "r4_460_03#35",
+      "r4_460_17_a#5",
+      "r4_225_01_b#10",
+      "r4_455_01_a#10"
      ]
     },
     {
-     "postura": "El día de Jehová de los profetas: Juan fue transportado a ese tiempo, tema del libro; en el NT el domingo se llama “el primer día de la semana”.",
+     "postura": "El día de Jehová de los profetas: Juan fue transportado a ese tiempo, tema del libro; en el NT el domingo se llama “el primer día de la semana”. Hitchcock observa que Juan no escribió “el Día del Señor” sino un giro distinto.",
      "quien": "Carballosa; Larkin (premilenial dispensacional)",
      "fuentes": [
       "carballosa_02_b#11",
       "carballosa_01#38",
-      "larkin_01_a#19"
+      "larkin_01_a#19",
+      "r4_442_02#7"
      ]
     }
    ],
@@ -678,6 +694,12 @@
    ]
   },
   {
+   "texto": "Graham insiste en que la prueba del incienso no es solo de otros tiempos: cada día elegimos entre ser leales a Cristo o dejar que el mundo, con su materialismo y sus placeres, nos moldee (Ro 12:2). ¿En qué “fila del incienso” están parados hoy?",
+   "fuentes": [
+    "r4_451_01_b#7"
+   ]
+  },
+  {
    "texto": "Juan estaba en la isla y a la vez en el Espíritu: para Wiersbe, el lugar no nos priva de las bendiciones espirituales. Plummer (citado por Earle) recuerda que Jacob, Moisés, Elías, Ezequiel y Daniel vieron a Dios en tiempos de exilio.",
    "fuentes": [
     "r1_024_a#13",
@@ -736,13 +758,16 @@
   },
   {
    "titulo": "Domiciano y el fin del destierro",
-   "texto": "Según el Comentario Mundo Hispano, Eusebio dice que Juan fue desterrado en el 95 y liberado un año y medio después por Nerva; Eusebio cuenta que el senado permitió volver a los desterrados y Juan se estableció en Éfeso. Domiciano murió apuñalado en una conjura palaciega el 18 de septiembre del 96 (Ropero), que menciona en nota la fecha temprana de Robinson aunque se queda con Domiciano. Ropero recuerda que el libro da testimonio de esa época en Asia: Éfeso sufrió por el nombre de Cristo (2:3), Antipas murió en Pérgamo (2:13) y a Esmirna se le anuncia cárcel (2:10). McGee da un margen amplio, entre el 86 y el 96.",
+   "texto": "Según el Comentario Mundo Hispano, Eusebio dice que Juan fue desterrado en el 95 y liberado un año y medio después por Nerva; Eusebio cuenta que el senado permitió volver a los desterrados y Juan se estableció en Éfeso. Domiciano murió apuñalado en una conjura palaciega el 18 de septiembre del 96 (Ropero), que menciona en nota la fecha temprana de Robinson aunque se queda con Domiciano. Ropero recuerda que el libro da testimonio de esa época en Asia: Éfeso sufrió por el nombre de Cristo (2:3), Antipas murió en Pérgamo (2:13) y a Esmirna se le anuncia cárcel (2:10). McGee da un margen amplio, entre el 86 y el 96. Hitchcock defiende la fecha del 95: la tradición dice que Nerón mató a Pedro y a Pablo y no hay evidencia de que desterrara cristianos, mientras que el destierro era castigo predilecto de Domiciano; las iglesias de Ap 2-3 muestran un largo tiempo desde su fundación, y Colin Hemer confirmó la fecha domiciana por la iconografía local. Foxe recoge la tradición de que, antes del destierro, Juan fue llevado de Éfeso a Roma y echado en un caldero de aceite hirviendo del que salió ileso (lo da con un “se afirma”), que Nerva lo liberó y que fue el único apóstol que no murió de forma violenta.",
    "fuentes": [
     "cbmh_02_a#2",
     "beacon_01_b#15",
     "mbiblia_01_a#25",
     "r1_019#27",
-    "mcgee_02_a#10"
+    "mcgee_02_a#10",
+    "r4_442_01#19",
+    "r4_479_01#1",
+    "r4_479_01#2"
    ]
   },
   {
@@ -759,14 +784,15 @@
   },
   {
    "titulo": "¿El domingo es el sábado cristiano?",
-   "texto": "Las fuentes del día no coinciden. Buswell, con el Catecismo menor de Westminster (pregunta 59), sostiene que el día del Señor tomó todo el significado del sábado como día santo de descanso y adoración, y los autores puritanos defienden que los primeros cristianos lo guardaban como día santo. Wellum, el Diccionario Mundo Hispano y Wiersbe sostienen que el sábado se dio a Israel y se cumplió en Cristo: el domingo celebra la nueva creación y no es un sábado cristiano; Wiersbe agrega que Col 2:16-17 y Ro 14 impiden juzgar a quien guarda uno u otro. Un artículo de Coalición cita a Bauckham: para los primeros cristianos el día del Señor no sustituía al sábado ni era día de descanso (el Imperio lo declaró día de descanso recién con Constantino, en el 321); el artículo concluye que el cristiano no está obligado al cuarto mandamiento como tal, aunque descansar un día de cada siete es sabio.",
+   "texto": "Las fuentes del día no coinciden. Buswell, con el Catecismo menor de Westminster (pregunta 59), sostiene que el día del Señor tomó todo el significado del sábado como día santo de descanso y adoración, y los autores puritanos defienden que los primeros cristianos lo guardaban como día santo; Matthew Henry, en la misma línea, pide dedicarlo por entero al Señor, sin gastar sus horas en lo mundano, y consuela a quien no puede ir al culto con la meditación privada. Wellum, el Diccionario Mundo Hispano y Wiersbe sostienen que el sábado se dio a Israel y se cumplió en Cristo: el domingo celebra la nueva creación y no es un sábado cristiano; Wiersbe agrega que Col 2:16-17 y Ro 14 impiden juzgar a quien guarda uno u otro. Un artículo de Coalición cita a Bauckham: para los primeros cristianos el día del Señor no sustituía al sábado ni era día de descanso (el Imperio lo declaró día de descanso recién con Constantino, en el 321); el artículo concluye que el cristiano no está obligado al cuarto mandamiento como tal, aunque descansar un día de cada siete es sabio.",
    "fuentes": [
     "r2_012#23",
     "r2_024#37",
     "cpe_10#5",
     "dbmh_01_a#24",
     "r1_021#4",
-    "cpe_08#8"
+    "cpe_08#8",
+    "r4_2_01_a#8"
    ]
   },
   {

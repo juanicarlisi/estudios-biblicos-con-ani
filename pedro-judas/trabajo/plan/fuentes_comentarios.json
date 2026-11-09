@@ -1,0 +1,273 @@
+{
+ "mac1p": {
+  "corto": "MacArthur · 1 Pedro",
+  "obra": "John MacArthur, Comentario MacArthur del Nuevo Testamento: 1 y 2 Pedro (Portavoz)",
+  "libros": "1P",
+  "tradicion": "evangélico (bautista reformado, Grace Community Church)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mac2p": {
+  "corto": "MacArthur · 2 Pedro",
+  "obra": "John MacArthur, Comentario MacArthur del Nuevo Testamento: 1 y 2 Pedro (Portavoz)",
+  "libros": "2P",
+  "tradicion": "evangélico (bautista reformado, Grace Community Church)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "kis1p": {
+  "corto": "Kistemaker · 1 Pedro",
+  "obra": "Simon J. Kistemaker, Comentario al Nuevo Testamento: 1 y 2 Pedro y Judas (Libros Desafío)",
+  "libros": "1P",
+  "tradicion": "reformado (Iglesia Cristiana Reformada)"
+ },
+ "kis2p": {
+  "corto": "Kistemaker · 2 Pedro",
+  "obra": "Simon J. Kistemaker, Comentario al Nuevo Testamento: 1 y 2 Pedro y Judas (Libros Desafío)",
+  "libros": "2P",
+  "tradicion": "reformado (Iglesia Cristiana Reformada)"
+ },
+ "kisjd": {
+  "corto": "Kistemaker · Judas",
+  "obra": "Simon J. Kistemaker, Comentario al Nuevo Testamento: 1 y 2 Pedro y Judas (Libros Desafío)",
+  "libros": "Jd",
+  "tradicion": "reformado (Iglesia Cristiana Reformada)"
+ },
+ "mcg2p": {
+  "corto": "McGee · 2 Pedro",
+  "obra": "J. Vernon McGee, Comentario bíblico «A través de la Biblia»: 2 Pedro (transcripción de los programas de radio)",
+  "libros": "2P",
+  "tradicion": "evangélico (presbiteriano)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mac1j": {
+  "corto": "MacArthur · 1 Juan",
+  "obra": "John MacArthur, Comentario MacArthur del Nuevo Testamento: 1, 2 y 3 Juan (Portavoz)",
+  "libros": "1J",
+  "tradicion": "evangélico (bautista reformado, Grace Community Church)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mac23j": {
+  "corto": "MacArthur · 2 y 3 Juan",
+  "obra": "John MacArthur, Comentario MacArthur del Nuevo Testamento: 1, 2 y 3 Juan (Portavoz)",
+  "libros": "2J 3J",
+  "tradicion": "evangélico (bautista reformado, Grace Community Church)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "kis1j": {
+  "corto": "Kistemaker · 1 Juan",
+  "obra": "Simon J. Kistemaker, Comentario al Nuevo Testamento: Santiago y 1, 2 y 3 Juan (Libros Desafío; serie de W. Hendriksen)",
+  "libros": "1J",
+  "tradicion": "reformado (Iglesia Cristiana Reformada)"
+ },
+ "kis23j": {
+  "corto": "Kistemaker · 2 y 3 Juan",
+  "obra": "Simon J. Kistemaker, Comentario al Nuevo Testamento: Santiago y 1, 2 y 3 Juan (Libros Desafío; serie de W. Hendriksen)",
+  "libros": "2J 3J",
+  "tradicion": "reformado (Iglesia Cristiana Reformada)"
+ },
+ "mcg2j": {
+  "corto": "McGee · 2 Juan",
+  "obra": "J. Vernon McGee, Comentario bíblico «A través de la Biblia»: 2 Juan (transcripción de los programas de radio)",
+  "libros": "2J",
+  "tradicion": "evangélico (presbiteriano)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "macjd": {
+  "corto": "MacArthur · Judas",
+  "obra": "John MacArthur, Comentario MacArthur del Nuevo Testamento: Judas (Portavoz)",
+  "libros": "Jd",
+  "tradicion": "evangélico (bautista reformado, Grace Community Church)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "bea1p": {
+  "corto": "Beacon (Roy S. Nicholson)",
+  "obra": "Roy S. Nicholson, «Primera Epístola de Pedro», Comentario Bíblico Beacon, tomo 10: Hebreos hasta Apocalipsis (Casa Nazarena de Publicaciones)",
+  "libros": "1P",
+  "tradicion": "wesleyano de santidad (Iglesia del Nazareno)"
+ },
+ "bea2p": {
+  "corto": "Beacon (Eldon R. Fuhrman)",
+  "obra": "Eldon R. Fuhrman, «Segunda Epístola de Pedro», Comentario Bíblico Beacon, tomo 10: Hebreos hasta Apocalipsis (Casa Nazarena de Publicaciones)",
+  "libros": "2P",
+  "tradicion": "wesleyano de santidad (Iglesia del Nazareno)"
+ },
+ "bea1j": {
+  "corto": "Beacon (Harvey J. S. Blaney)",
+  "obra": "Harvey J. S. Blaney, «Primera Epístola de Juan», Comentario Bíblico Beacon, tomo 10: Hebreos hasta Apocalipsis (Casa Nazarena de Publicaciones)",
+  "libros": "1J",
+  "tradicion": "wesleyano de santidad (Iglesia del Nazareno)"
+ },
+ "bea23j": {
+  "corto": "Beacon (Harvey J. S. Blaney)",
+  "obra": "Harvey J. S. Blaney, «Segunda y Tercera Epístolas de Juan», Comentario Bíblico Beacon, tomo 10: Hebreos hasta Apocalipsis (Casa Nazarena de Publicaciones)",
+  "libros": "2J 3J",
+  "tradicion": "wesleyano de santidad (Iglesia del Nazareno)"
+ },
+ "beajd": {
+  "corto": "Beacon (Delbert R. Rose)",
+  "obra": "Delbert R. Rose, «La Epístola de Judas», Comentario Bíblico Beacon, tomo 10: Hebreos hasta Apocalipsis (Casa Nazarena de Publicaciones)",
+  "libros": "Jd",
+  "tradicion": "wesleyano de santidad (Iglesia del Nazareno)"
+ },
+ "cbmh1p": {
+  "corto": "Mundo Hispano (Cecilio McConnell)",
+  "obra": "Cecilio McConnell (exposición) y Hebert Palomino (ayudas prácticas), «1 Pedro», Comentario Bíblico Mundo Hispano, tomo 23: Hebreos, Santiago, 1 y 2 Pedro, Judas (Editorial Mundo Hispano)",
+  "libros": "1P",
+  "tradicion": "bautista (Editorial Mundo Hispano)"
+ },
+ "cbmh2p": {
+  "corto": "Mundo Hispano (Alberto F. Roldán)",
+  "obra": "Alberto F. Roldán (exposición) y Rubén O. Zorzoli (ayudas prácticas), «2 Pedro», Comentario Bíblico Mundo Hispano, tomo 23: Hebreos, Santiago, 1 y 2 Pedro, Judas (Editorial Mundo Hispano)",
+  "libros": "2P",
+  "tradicion": "bautista (Editorial Mundo Hispano)"
+ },
+ "cbmhjd": {
+  "corto": "Mundo Hispano (Sergio Valle Ruiz)",
+  "obra": "Sergio Valle Ruiz (exposición) y Guillermo Graves (ayudas prácticas), «Judas», Comentario Bíblico Mundo Hispano, tomo 23: Hebreos, Santiago, 1 y 2 Pedro, Judas (Editorial Mundo Hispano)",
+  "libros": "Jd",
+  "tradicion": "bautista (Editorial Mundo Hispano)"
+ },
+ "cbmh1j": {
+  "corto": "Mundo Hispano (Benjamín Bedford)",
+  "obra": "Benjamín Bedford (exposición y ayudas prácticas), «1 Juan», Comentario Bíblico Mundo Hispano, tomo 24: 1, 2 y 3 Juan, Apocalipsis (Editorial Mundo Hispano)",
+  "libros": "1J",
+  "tradicion": "bautista (Editorial Mundo Hispano)"
+ },
+ "cbmh23j": {
+  "corto": "Mundo Hispano (Guillermo Catalán y Betty de Missena)",
+  "obra": "Guillermo Catalán y Betty de Missena («2 Juan»), Ramón Salazar y Jorge Ángel Rodríguez («3 Juan»), Comentario Bíblico Mundo Hispano, tomo 24: 1, 2 y 3 Juan, Apocalipsis (Editorial Mundo Hispano)",
+  "libros": "2J 3J",
+  "tradicion": "bautista (Editorial Mundo Hispano)"
+ },
+ "ncb1p": {
+  "corto": "Nuevo Comentario Bíblico · 1 Pedro",
+  "obra": "«1 Pedro», Nuevo Comentario Bíblico (Clie); el PDF se rotula «Biblia Matthew Henry», pero el texto es del Nuevo Comentario Bíblico",
+  "libros": "1P",
+  "tradicion": "evangélico"
+ },
+ "ncb2p": {
+  "corto": "Nuevo Comentario Bíblico · 2 Pedro",
+  "obra": "«2 Pedro», Nuevo Comentario Bíblico (Clie); el PDF se rotula «Biblia Matthew Henry», pero el texto es del Nuevo Comentario Bíblico",
+  "libros": "2P",
+  "tradicion": "evangélico"
+ },
+ "ncb1j": {
+  "corto": "Nuevo Comentario Bíblico · 1 Juan",
+  "obra": "«1 Juan», Nuevo Comentario Bíblico (Clie); el PDF se rotula «Biblia Matthew Henry», pero el texto es del Nuevo Comentario Bíblico",
+  "libros": "1J",
+  "tradicion": "evangélico"
+ },
+ "ncb23j": {
+  "corto": "Nuevo Comentario Bíblico · 2 y 3 Juan",
+  "obra": "«2 y 3 Juan», Nuevo Comentario Bíblico (Clie); el PDF se rotula «Biblia Matthew Henry», pero el texto es del Nuevo Comentario Bíblico",
+  "libros": "2J 3J",
+  "tradicion": "evangélico"
+ },
+ "ncbjd": {
+  "corto": "Nuevo Comentario Bíblico · Judas",
+  "obra": "«Judas», Nuevo Comentario Bíblico (Clie); el PDF se rotula «Biblia Matthew Henry», pero el texto es del Nuevo Comentario Bíblico",
+  "libros": "Jd",
+  "tradicion": "evangélico"
+ },
+ "mbib1p": {
+  "corto": "Biblia MacArthur · 1 Pedro",
+  "obra": "John MacArthur, Biblia de Estudio MacArthur (Portavoz): introducción y notas de 1 Pedro",
+  "libros": "1P",
+  "tradicion": "evangélico (bautista reformado)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mbib2p": {
+  "corto": "Biblia MacArthur · 2 Pedro",
+  "obra": "John MacArthur, Biblia de Estudio MacArthur (Portavoz): introducción y notas de 2 Pedro",
+  "libros": "2P",
+  "tradicion": "evangélico (bautista reformado)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mbib1j": {
+  "corto": "Biblia MacArthur · 1 Juan",
+  "obra": "John MacArthur, Biblia de Estudio MacArthur (Portavoz): introducción y notas de 1 Juan",
+  "libros": "1J",
+  "tradicion": "evangélico (bautista reformado)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mbib23j": {
+  "corto": "Biblia MacArthur · 2 y 3 Juan",
+  "obra": "John MacArthur, Biblia de Estudio MacArthur (Portavoz): introducción y notas de 2 y 3 Juan",
+  "libros": "2J 3J",
+  "tradicion": "evangélico (bautista reformado)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mbibjd": {
+  "corto": "Biblia MacArthur · Judas",
+  "obra": "John MacArthur, Biblia de Estudio MacArthur (Portavoz): introducción y notas de Judas",
+  "libros": "Jd",
+  "tradicion": "evangélico (bautista reformado)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "mhenry": {
+  "corto": "Matthew Henry",
+  "obra": "Matthew Henry, Comentario Bíblico (completo): 1 Pedro a Judas (REFERENCIA4 id 2)",
+  "libros": "1P 2P 1J 2J 3J Jd",
+  "tradicion": "presbiteriano inglés (puritano tardío)"
+ },
+ "moodynt": {
+  "corto": "Moody",
+  "obra": "Comentario Bíblico Moody: Nuevo Testamento (Portavoz): 1 Pedro a Judas (REFERENCIA4 id 225)",
+  "libros": "1P 2P 1J 2J 3J Jd",
+  "tradicion": "evangélico (Comentario Bíblico Moody)"
+ },
+ "nunez2p": {
+  "corto": "Núñez",
+  "obra": "Miguel Núñez, 2 Pedro y Judas para ti (REFERENCIA4 id 111)",
+  "libros": "2P Jd",
+  "tradicion": "evangélico reformado"
+ },
+ "mcgjd": {
+  "corto": "McGee · Judas",
+  "obra": "J. Vernon McGee, Comentario bíblico «A través de la Biblia»: Judas (transcripción de los programas de radio) (REFERENCIA4 id 119)",
+  "libros": "Jd",
+  "tradicion": "evangélico (presbiteriano)",
+  "escuela": "premilenial dispensacional, pretribulacional"
+ },
+ "rich1j": {
+  "corto": "Richards",
+  "obra": "Lawrence O. Richards, Comentario Bíblico del Maestro: 1 Juan (REFERENCIA4 id 125)",
+  "libros": "1J",
+  "tradicion": "evangélico"
+ },
+ "deirosjd": {
+  "corto": "Deiros",
+  "obra": "Pablo Alberto Deiros, Santiago y Judas (Comentario Bíblico Hispanoamericano): Judas (REFERENCIA4 id 133)",
+  "libros": "Jd",
+  "tradicion": "bautista"
+ },
+ "dbmh": {
+  "corto": "Diccionario Mundo Hispano",
+  "obra": "Diccionario Bíblico Mundo Hispano (Editorial Mundo Hispano)",
+  "libros": "",
+  "tradicion": "bautista (Editorial Mundo Hispano)"
+ },
+ "r1": {
+  "corto": "referencia",
+  "obra": "REFERENCIA3: tramos (la obra, el autor y la página van en el rótulo ##### de cada fragmento y en la nota)",
+  "libros": "",
+  "tradicion": ""
+ },
+ "r2": {
+  "corto": "referencia",
+  "obra": "REFERENCIA3: fragmentos (la obra, el autor y la página van en el rótulo ##### de cada fragmento y en la nota)",
+  "libros": "",
+  "tradicion": ""
+ },
+ "r4a": {
+  "corto": "referencia",
+  "obra": "REFERENCIA4: tramos (la obra, el autor y la página van en el rótulo ##### de cada fragmento y en la nota)",
+  "libros": "",
+  "tradicion": ""
+ },
+ "r4b": {
+  "corto": "referencia",
+  "obra": "REFERENCIA4: fragmentos (la obra, el autor y la página van en el rótulo ##### de cada fragmento y en la nota)",
+  "libros": "",
+  "tradicion": ""
+ }
+}

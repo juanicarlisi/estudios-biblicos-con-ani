@@ -4,154 +4,529 @@
   "desde": "1P 1:17",
   "hasta": "1P 1:21",
   "titulo": "Rescatados con la sangre preciosa de Cristo",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer (1P 1:13-16) Pedro pidió mente preparada, esperanza puesta por completo en la gracia que traerá la venida de Jesucristo y una conducta que se parezca a la santidad de Dios, citando el mandato de Levítico de ser santos.",
-    "ahora": "Hoy da dos razones más para esa vida santa: el Padre al que oramos es también Juez imparcial, y fuimos comprados a un precio enorme, la sangre de Cristo, el Cordero elegido antes de la creación, resucitado y glorificado. Es, en cinco versículos, un pequeño resumen de la fe cristiana.",
-    "despues": "Mañana (1P 1:22-2:3) Pedro saca la consecuencia hacia adentro de la iglesia: los que fueron rescatados y nacieron de nuevo por la palabra que permanece se aman de corazón y desean la leche espiritual.",
-    "fuentes": ["ncb1p_01_a#22", "r1_006#17", "r1_006#18", "kis1p_02_c#17"]
+    "ahora": "Hoy da dos razones más para esa vida santa: el Padre al que oramos es también Juez imparcial, y fuimos comprados con la sangre de Cristo, el Cordero elegido antes de la creación, resucitado y glorificado.",
+    "despues": "Mañana (1P 1:22-2:3) Pedro saca la consecuencia dentro de la iglesia: los rescatados se aman de corazón y desean la leche espiritual.",
+    "fuentes": [
+      "ncb1p_01_a#22",
+      "r1_006#17",
+      "r1_006#18",
+      "kis1p_02_c#17"
+    ]
   },
   "versiculo_clave": {
     "ref": "1P 1:18-19",
-    "porque": "Es el corazón del tramo y lo que MacArthur llama su palabra clave: rescatados. Dice de qué fuimos librados, con qué precio y por quién, y de ahí sale toda la motivación de Pedro para vivir de otra manera."
+    "porque": "Es el corazón del tramo y su palabra clave según MacArthur: rescatados. Dice de qué fuimos librados, con qué precio y por quién."
   },
   "panorama": {
-    "texto": "Pedro venía pidiendo santidad y ahora la apoya en dos verdades que se tocan: Dios es Padre y Juez a la vez, y nos compró la libertad con algo que no se gasta. Por eso los vv. 18-21 no son un desvío doctrinal sino el fundamento de la conducta: recordar quiénes somos y quién es Cristo. Kistemaker ve en el párrafo un resumen de la fe en tres doctrinas (redención en los vv. 18-19, revelación en el v. 20 y resurrección en el v. 21); MacArthur lo ordena con cuatro preguntas: de qué fuimos redimidos, con qué, por medio de quién y para qué. Wiersbe lo resume como el tercer y cuarto motivo de la vida santa: el juicio de Dios y el precio que pagó Cristo.",
-    "fuentes": ["ncb1p_01_a#22", "cbmh1p_01_c#5", "kis1p_02_c#17", "mac1p_03_a#7", "r1_006#17", "r1_006#18"]
+    "texto": "Pedro venía pidiendo santidad y ahora la apoya en dos verdades: Dios es Padre y Juez a la vez, y nos compró la libertad con algo que no se gasta. Los vv. 18-21 no son un desvío doctrinal sino el fundamento de la conducta: recordar quiénes somos y quién es Cristo. Kistemaker ve en el párrafo un resumen de la fe en tres doctrinas: redención (vv. 18-19), revelación (v. 20) y resurrección (v. 21). MacArthur lo ordena con cuatro preguntas: de qué fuimos redimidos, con qué, por medio de quién y para qué.",
+    "fuentes": [
+      "ncb1p_01_a#22",
+      "cbmh1p_01_c#5",
+      "kis1p_02_c#17",
+      "mac1p_03_a#7"
+    ]
   },
   "secciones": [
     {
       "rango": "1P 1:17",
       "titulo": "El Padre que escuchamos es también el Juez",
       "notas": [
-        {"texto": "Pedro habla a gente que ora: personas que acuden al Padre, quizá pidiendo alivio en medio del rechazo que sufrían. El «si» del comienzo no pone en duda que lo hagan; describe una costumbre ya instalada y puede leerse como \"puesto que invocan como Padre\". En griego «Padre» va antes del verbo para darle énfasis. MacArthur lo traduce en limpio: es otra forma de decir \"si ustedes de verdad son cristianos\".", "fuentes": ["moodynt_01_a#25", "kis1p_02_c#14", "mbib1p_01_a#37"], "tipo": "exegesis"},
-        {"texto": "Llamar Padre a Dios no es invento del Nuevo Testamento: ya aparece en el Antiguo (Sal 89:26; Jer 3:19; Mal 1:6), Jesús enseñó a orar así (Mt 6:9) y Pablo habla del clamor Abba, Padre (Ro 8:15; Gá 4:6). Pero el mismo Padre es el que «sin acepción de personas juzga según la obra de cada uno». Los autores insisten en que las dos cosas van juntas: Henry dice que la confianza en Dios como Padre y el temor debido a Él como Juez armonizan, y que pensarlo siempre como Juez lo hace más querido como Padre; el Comentario Beacon agrega que su santidad garantiza que su misericordia no será indulgencia ni su justicia tiranía.", "fuentes": ["kis1p_02_c#14", "mac1p_02_b#24", "mhenry_01_a#12", "bea1p_01_a#27", "mac1p_03_a#3"], "tipo": "doctrina"},
-        {"texto": "Imparcial quiere decir que no tiene favoritos: no mira si alguien es rico o pobre (Stg 2:1-9), judío o gentil (Ro 2:11), esclavo o amo (Ef 6:9; Col 3:25). Mira el corazón y no la cara (1 S 16:7), y el verbo en presente indica que ya está juzgando. Nadie queda exento, tampoco los creyentes. McConnell señala la otra cara: ese Juez sin predilecciones es el que quiere que todos sean salvos (1 Ti 2:4).", "fuentes": ["kis1p_02_c#15", "kis1p_03_a#4", "cbmh1p_01_c#4", "ncb1p_01_a#23"], "tipo": "doctrina"},
-        {"texto": "¿Qué juicio es este para los hijos? MacArthur y Wiersbe lo ubican en dos planos: la disciplina en esta vida (He 12:5-11; el juicio que empieza por la casa de Dios, 1P 4:17) y la evaluación de las obras ante el tribunal de Cristo, donde lo edificado será probado y puede haber pérdida de recompensa aunque la persona sea salva (1 Co 3:10-15; 2 Co 5:9-10). Wiersbe aclara que no lo entiende como juicio eterno. MacArthur menciona además la disciplina que la iglesia ejerce siguiendo Mt 18:15-20.", "fuentes": ["mac1p_03_a#1", "mac1p_03_a#2", "r1_006#17"], "tipo": "doctrina"},
-        {"texto": "De ahí el único mandato del párrafo: en el griego de los vv. 17-21 hay un solo verbo principal, «conducíos», que retoma la manera de vivir del v. 15. Y cómo: «en temor». Los autores coinciden en que es reverencia, asombro y respeto, no el miedo que encadena (por eso algunas versiones dicen temor reverente); McConnell agrega que se apoya en la gratitud por la obra de Cristo. El Comentario Beacon lo presenta como lo opuesto a la indiferencia y la seguridad descuidada de muchos que se dicen cristianos. El Comentario Moody lo resume así: al sabio se lo conoce por lo que teme y a quién teme (Mt 10:28).", "fuentes": ["cbmh1p_01_c#4", "mac1p_02_b#24", "kis1p_02_c#16", "bea1p_01_a#27", "moodynt_01_a#25"], "tipo": "exegesis"},
-        {"texto": "«Todo el tiempo de vuestra peregrinación»: la palabra para tiempo indica duración, no un momento puntual. El creyente tiene su ciudadanía en el cielo (Fil 3:20) y vive en el mundo como extranjero (1P 1:1; 2:11) por el plazo que Dios disponga. El Nuevo Comentario Bíblico lo describe como un breve exilio lejos de su presencia. Kistemaker añade que ese extranjero vive bajo la mirada constante de Dios y también bajo la de los no creyentes, que lo observan.", "fuentes": ["kis1p_03_a#4", "kis1p_02_c#16", "ncb1p_01_a#22"], "tipo": "aplicacion"}
+        {
+          "texto": "Pedro habla a gente que ora, que acude al Padre quizá pidiendo alivio en medio del rechazo. El «si» del comienzo no pone en duda que lo hagan: describe una costumbre ya instalada (puesto que invocan como Padre), y en griego «Padre» va adelante para darle énfasis. Para MacArthur es otra manera de decir: si de verdad son cristianos.",
+          "fuentes": [
+            "moodynt_01_a#25",
+            "kis1p_02_c#14",
+            "mbib1p_01_a#37"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Llamar Padre a Dios ya aparece en el Antiguo Testamento (Sal 89:26; Jer 3:19), Jesús enseñó a orar así (Mt 6:9) y Pablo habla del clamor Abba, Padre (Ro 8:15). Pero ese Padre es el que «sin acepción de personas juzga según la obra de cada uno». Henry dice que la confianza en Dios como Padre y el temor debido a Él como Juez armonizan; el Comentario Beacon agrega que su santidad garantiza que su misericordia no será indulgencia ni su justicia tiranía.",
+          "fuentes": [
+            "kis1p_02_c#14",
+            "mac1p_02_b#24",
+            "mhenry_01_a#12",
+            "bea1p_01_a#27",
+            "mac1p_03_a#3"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Imparcial quiere decir sin favoritos: no mira si alguien es rico o pobre (Stg 2:1-9), judío o gentil (Ro 2:11), esclavo o amo (Ef 6:9). El verbo en presente indica que ya está juzgando, y nadie queda exento, tampoco los creyentes. McConnell muestra la otra cara: ese Juez sin predilecciones quiere que todos sean salvos (1 Ti 2:4). Qué clase de juicio es este para los hijos de Dios, ver Profundizar.",
+          "fuentes": [
+            "kis1p_02_c#15",
+            "kis1p_03_a#4",
+            "cbmh1p_01_c#4"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "De ahí el único mandato del párrafo: en el griego de los vv. 17-21 hay un solo verbo principal, «conducíos», que retoma la manera de vivir del v. 15. Y se hace «en temor»: reverencia y respeto, no el miedo que encadena, apoyado en la gratitud por la obra de Cristo. El Comentario Beacon lo opone a la indiferencia de muchos que se dicen cristianos; el Comentario Moody recuerda que al sabio se lo conoce por lo que teme y a quién teme (Mt 10:28).",
+          "fuentes": [
+            "cbmh1p_01_c#4",
+            "mac1p_02_b#24",
+            "kis1p_02_c#16",
+            "bea1p_01_a#27",
+            "moodynt_01_a#25"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Todo el tiempo de vuestra peregrinación»: la palabra indica duración, no un momento. El creyente tiene ciudadanía en el cielo (Fil 3:20) y vive en el mundo como extranjero (1P 1:1; 2:11), bajo la mirada constante de Dios y también de los no creyentes, que lo observan.",
+          "fuentes": [
+            "kis1p_03_a#4",
+            "kis1p_02_c#16"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 1:18a",
       "titulo": "De qué fuimos rescatados: una vida vacía heredada",
       "notas": [
-        {"texto": "El «sabiendo» apela a algo que los lectores ya conocían. «Rescatados» es la palabra clave: pagar un precio para liberar a alguien. En el mundo griego se usaba para el dinero con que se recuperaba a un prisionero de guerra o se compraba la libertad de un esclavo; pero, según MacArthur y Kistemaker, la imagen de Pedro viene sobre todo del Antiguo Testamento, donde Dios redimió a Israel del yugo de Egipto (Éx 6:6). El Comentario Beacon resume la figura en tres cosas: un precio pagado, un estado desdichado del que se sale y una liberación que no es solo de la condenación sino también del amor y el poder del pecado.", "fuentes": ["mac1p_03_a#5", "mbib1p_01_a#38", "kis1p_02_c#18", "bea1p_01_a#28"], "tipo": "exegesis"},
-        {"texto": "¿De qué? De una «vana manera de vivir»: una existencia vacía, sin fruto y sin valor eterno. McConnell la describe como la vida de quien busca el placer en vez del gozo y lo pasajero en vez de lo eterno; MacArthur, como un vivir en el que aun los mayores logros no pesan nada a la luz de la eternidad (Mt 16:26; Hch 14:15; Ef 4:17). Piper agrega que estábamos cautivos de pensamientos, emociones y acciones que nos destruían.", "fuentes": ["kis1p_02_c#19", "cbmh1p_01_c#5", "mac1p_03_a#11", "r1_009#3"], "tipo": "doctrina"},
-        {"texto": "Esa vida se recibió «de vuestros padres»: Pedro usa una palabra que no aparece en ningún otro lugar del Nuevo Testamento y que significa transmitido por los antepasados. Era una tradición, no una elección libre. Henry lo dice con sencillez: es necio decidir vivir y morir de cierta forma solo porque así lo hicieron los mayores. De qué antepasados se trata no está claro (ver Interpretaciones).", "fuentes": ["kis1p_03_a#4", "mhenry_01_a#13", "kis1p_02_c#19"], "tipo": "exegesis"}
+        {
+          "texto": "«Rescatados» es pagar un precio para liberar a alguien. En el mundo griego se usaba para el dinero con que se recuperaba a un prisionero de guerra; pero, según MacArthur y Kistemaker, la imagen de Pedro viene del Antiguo Testamento, donde Dios redimió a Israel de Egipto (Éx 6:6). El Comentario Beacon señala que la liberación no es solo de la condenación sino también del amor y el poder del pecado.",
+          "fuentes": [
+            "mac1p_03_a#5",
+            "mbib1p_01_a#38",
+            "kis1p_02_c#18",
+            "bea1p_01_a#28"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿De qué? De una «vana manera de vivir»: una existencia vacía y sin valor eterno. McConnell la describe como buscar el placer en vez del gozo y lo pasajero en vez de lo eterno; MacArthur dice que aun los mayores logros no pesan nada a la luz de la eternidad (Mt 16:26).",
+          "fuentes": [
+            "kis1p_02_c#19",
+            "cbmh1p_01_c#5",
+            "mac1p_03_a#11"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Esa vida venía «de vuestros padres»: Pedro usa una palabra única en el Nuevo Testamento, transmitida por los antepasados. Henry advierte que es necio vivir y morir de cierta forma solo porque así lo hicieron los mayores. Qué antepasados son, ver Interpretaciones.",
+          "fuentes": [
+            "kis1p_03_a#4",
+            "mhenry_01_a#13",
+            "kis1p_02_c#19"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 1:18b-19",
       "titulo": "Con qué precio: no oro ni plata, sino sangre preciosa",
       "notas": [
-        {"texto": "Pedro mide primero el precio por lo que no fue. Elige dos metales de los menos perecederos y aun así los llama corruptibles: Kistemaker recuerda que la plata se empaña y el oro también se deteriora. El Comentario Moody nota la ironía hacia lectores sencillos y pobres: por segunda vez en la carta (cf. 1P 1:7) Pedro pone la riqueza pasajera frente a una herencia que no tiene precio. Y es lo que ya decía el Antiguo Testamento: nadie puede pagar a Dios el rescate de otro (Sal 49:7-8) y Dios rescata sin dinero (Is 52:3).", "fuentes": ["kis1p_02_c#18", "moodynt_01_a#26", "mac1p_03_a#14", "mac1p_03_a#15"], "tipo": "exegesis"},
-        {"texto": "El contraste es fuerte («sino»): el precio fue «la sangre preciosa de Cristo». Preciosa traduce una palabra que el Comentario Moody considera típica de Pedro, que propone una nueva escala de valores. ¿Por qué es tan valiosa? Piper responde que, a diferencia del oro, nunca pierde su poder redentor, y por eso la vida nueva no corre peligro de volver a la cautividad. El Comentario Beacon recuerda Hch 20:28, donde la iglesia es adquirida con la propia sangre de Dios, porque el que murió es Dios hecho hombre. Y MacArthur cita al puritano Thomas Watson: redimirnos costó más que crearnos, porque para crear bastó una palabra y para redimir hubo que derramar sangre.", "fuentes": ["moodynt_01_a#26", "r1_009#3", "bea1p_01_a#28", "mac1p_03_a#4"], "tipo": "doctrina"},
-        {"texto": "«Sangre» no apunta al líquido en sí sino a toda su muerte expiatoria: MacArthur señala que la Biblia habla de la sangre de Cristo muchas más veces que de su cruz o de su muerte, y que es el término principal del Nuevo Testamento para la expiación, porque la vida está en la sangre (Lv 17:11) y sin derramamiento de sangre no hay perdón (He 9:22). Si Jesús hubiera sangrado sin morir no habría redención; además, la Escritura dice que entregó su espíritu voluntariamente (Jn 10:18).", "fuentes": ["mac1p_03_a#21", "mac1p_03_a#22", "mac1p_03_a#16"], "tipo": "doctrina"},
-        {"texto": "«Como de un cordero sin mancha y sin contaminación»: Pedro habla como un judío que celebró la Pascua toda su vida. Cada familia elegía un cordero sin defecto, lo sacrificaba y ponía la sangre en los postes de la puerta para que Dios pasara de largo (Éx 12:1-13). Según el Nuevo Comentario Bíblico, «sin mancha» apunta a la perfección moral y «sin contaminación» a la integridad física de la víctima, como exigía la ley (Lv 22:17-25). MacArthur subraya que el dueño debía entregar su mejor animal; aun así ningún sacrificio animal quitaba el pecado (He 10:1-10): todos apuntaban a un sustituto final.", "fuentes": ["kis1p_02_c#20", "mac1p_03_a#6", "ncb1p_01_a#23", "mac1p_03_a#16"], "tipo": "trasfondo"},
-        {"texto": "Pedro no se pregunta a quién se pagó el rescate. El énfasis bíblico, dice Kistemaker, está en el precio y en lo que libera: de la maldición de la ley (Gá 3:13), del pecado (Ef 1:7) y de la muerte (Ro 8:2). Todos los autores rechazan que se le haya pagado a Satanás (ver Interpretaciones).", "fuentes": ["kis1p_02_c#25", "mac1p_03_a#19"], "tipo": "doctrina"}
+        {
+          "texto": "Pedro mide primero el precio por lo que no fue: oro y plata, metales de los menos perecederos, y aun así corruptibles. El Comentario Moody nota la ironía hacia lectores sencillos: otra vez (cf. 1P 1:7) la riqueza pasajera frente a una herencia sin precio. Ya lo decía el Antiguo Testamento: nadie puede pagar a Dios el rescate de otro (Sal 49:7-8).",
+          "fuentes": [
+            "kis1p_02_c#18",
+            "moodynt_01_a#26",
+            "mac1p_03_a#14"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El precio fue «la sangre preciosa de Cristo». Preciosa es, según el Comentario Moody, una palabra típica de Pedro. Piper explica que, a diferencia del oro, esa sangre nunca pierde su poder redentor, y por eso la vida nueva no corre peligro de volver a la cautividad. MacArthur cita al puritano Thomas Watson: redimirnos costó más que crearnos, porque para crear bastó una palabra y para redimir hubo que derramar sangre.",
+          "fuentes": [
+            "moodynt_01_a#26",
+            "r1_009#3",
+            "mac1p_03_a#4"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Sangre» abarca toda su muerte expiatoria: MacArthur señala que es el término principal del Nuevo Testamento para la expiación, porque la vida está en la sangre (Lv 17:11) y sin derramamiento de sangre no hay perdón (He 9:22).",
+          "fuentes": [
+            "mac1p_03_a#21"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Como de un cordero sin mancha y sin contaminación»: Pedro habla como un judío que celebró la Pascua toda su vida, con el cordero sin defecto cuya sangre en los postes hizo que Dios pasara de largo (Éx 12:1-13). Ningún sacrificio animal quitaba el pecado (He 10:1-10): todos apuntaban a un sustituto final.",
+          "fuentes": [
+            "kis1p_02_c#20",
+            "mac1p_03_a#6",
+            "mac1p_03_a#16"
+          ],
+          "tipo": "trasfondo"
+        },
+        {
+          "texto": "Pedro no se pregunta a quién se pagó el rescate: el énfasis, dice Kistemaker, está en el precio y en lo que libera, de la maldición de la ley (Gá 3:13), del pecado (Ef 1:7) y de la muerte (Ro 8:2). Ver Interpretaciones.",
+          "fuentes": [
+            "kis1p_02_c#25",
+            "mac1p_03_a#19"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 1:20",
       "titulo": "Por medio de quién: el Cordero elegido antes de todo",
       "notas": [
-        {"texto": "El v. 20 tiene dos mitades equilibradas: «antes de la fundación del mundo» y «en los postreros tiempos». Eternidad y tiempo. Cristo fue designado para esta obra desde la eternidad y se hizo visible en la historia. El Comentario Beacon insiste en que la salvación no fue una segunda alternativa de Dios ni un decreto improvisado: el sistema de sacrificios, sombras y profetas con que se criaron los judíos preparaba justamente esto. MacArthur lo dice así: el Padre no reaccionó a la caída con una solución de último momento.", "fuentes": ["kis1p_02_c#21", "bea1p_01_a#29", "mac1p_03_a#24", "mbib1p_01_a#39"], "tipo": "doctrina"},
-        {"texto": "Kistemaker se detiene en un detalle que asombra: la Escritura enseña que el Redentor fue designado antes de que Adán y Eva cayeran. Nosotros damos el remedio después del diagnóstico; Dios lo preparó antes de la enfermedad. Calvino, citado por él, ve allí brillar la bondad de Dios, que se adelantó con su gracia a nuestra caída. El Comentario Moody saca de ahí un consuelo para los que sufren: la cruz no tomó a Dios por sorpresa.", "fuentes": ["kis1p_03_a#2", "moodynt_01_a#27"], "tipo": "doctrina"},
-        {"texto": "«Manifestado» habla de algo que existía y se hizo visible: la encarnación, el Hijo hecho hombre (Jn 1:14; Fil 2:6-8). «Los postreros tiempos» no son solo el final de la historia: según Kistemaker y MacArthur, abarcan todo el período que va de la primera venida de Cristo a la segunda, como Pedro mismo dijo en Pentecostés citando a Joel (Hch 2:16-17; cf. He 1:2; 1 Jn 2:18). Ya estamos en ellos.", "fuentes": ["kis1p_02_c#22", "mac1p_03_a#25", "mac1p_03_a#26", "mbib1p_01_a#39"], "tipo": "exegesis"},
-        {"texto": "Y todo eso «por amor de vosotros». McConnell lo dice como un privilegio: Cristo fue manifestado por causa nuestra. Kistemaker conecta esa frase con Jn 3:16: su designación y su venida tienen un solo propósito, redimir a judíos y gentiles que creen. MacArthur saca la consecuencia: si la redención es solo por Jesús, no hay otro camino a Dios (Hch 4:12; Jn 14:6).", "fuentes": ["cbmh1p_01_c#5", "kis1p_02_c#22", "mac1p_03_a#28"], "tipo": "aplicacion"}
+        {
+          "texto": "El v. 20 tiene dos mitades: «antes de la fundación del mundo» y «en los postreros tiempos»; eternidad y tiempo. El Comentario Beacon insiste en que la salvación no fue una segunda alternativa de Dios: sacrificios, sombras y profetas preparaban esto. MacArthur: el Padre no reaccionó a la caída con una solución de último momento. Sobre la traducción de «destinado», ver Profundizar.",
+          "fuentes": [
+            "kis1p_02_c#21",
+            "bea1p_01_a#29",
+            "mac1p_03_a#24",
+            "mbib1p_01_a#39"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Kistemaker destaca que el Redentor fue designado antes de que Adán y Eva cayeran: nosotros damos el remedio después del diagnóstico; Dios lo preparó antes de la enfermedad, y Calvino ve ahí brillar su bondad. El Comentario Moody saca un consuelo para los que sufren: la cruz no tomó a Dios por sorpresa.",
+          "fuentes": [
+            "kis1p_03_a#2",
+            "moodynt_01_a#27"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Manifestado» habla de la encarnación, el Hijo hecho hombre (Jn 1:14). «Los postreros tiempos» abarcan, según Kistemaker y MacArthur, todo el período entre la primera venida de Cristo y la segunda, como Pedro dijo en Pentecostés citando a Joel (Hch 2:16-17). Ya estamos en ellos.",
+          "fuentes": [
+            "kis1p_02_c#22",
+            "mac1p_03_a#25",
+            "mac1p_03_a#26",
+            "mbib1p_01_a#39"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Y todo «por amor de vosotros»: McConnell lo llama un privilegio, y Kistemaker lo une a Jn 3:16. MacArthur saca la consecuencia: si la redención es solo por Jesús, no hay otro camino a Dios (Hch 4:12).",
+          "fuentes": [
+            "cbmh1p_01_c#5",
+            "kis1p_02_c#22",
+            "mac1p_03_a#28"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 1:21",
       "titulo": "Para qué: fe y esperanza puestas en Dios",
       "notas": [
-        {"texto": "«Mediante el cual creéis en Dios»: Cristo es el camino al Padre (Jn 14:6-9). Kistemaker recuerda, siguiendo a Selwyn, que la fe cristiana es cristocéntrica pero siempre dentro de la Trinidad: por el Hijo llegamos al Padre. MacArthur sugiere que «mediante» podría incluir no solo el camino sino el poder para creer, porque personas espiritualmente muertas necesitan que Dios les dé la fe (Hch 11:18). El Comentario Beacon cita a Wesley: sin Cristo solo temeríamos a Dios; por Él creemos, esperamos y amamos.", "fuentes": ["cbmh1p_01_c#6", "kis1p_02_c#23", "mac1p_03_a#29", "bea1p_01_a#30"], "tipo": "exegesis"},
-        {"texto": "De parte del Padre hay dos hechos: lo resucitó y le dio gloria. La resurrección es la prueba de que el sacrificio fue aceptado y la obra quedó cumplida (Ro 1:4); fue el centro de la predicación apostólica, como en Pentecostés (Hch 2:24, 32). La gloria, según MacArthur y la Biblia MacArthur, apunta a la ascensión: Cristo volvió a la gloria que tenía con el Padre antes de la creación (Jn 17:5; Fil 2:9-11). El Comentario Beacon agrega que al resucitarlo y exaltarlo Dios mostró que aceptó su persona y su obra.", "fuentes": ["mac1p_03_a#27", "mbib1p_01_a#40", "cbmh1p_01_c#6", "kis1p_02_c#23", "bea1p_01_b#1"], "tipo": "doctrina"},
-        {"texto": "El final del versículo es la meta: «para que vuestra fe y esperanza sean en Dios». Fe y esperanza van unidas a lo largo de todo el capítulo (vv. 3, 5, 7, 9, 13) y una sostiene a la otra. MacArthur las distingue así: la fe confía en la gracia de Dios para hoy y la esperanza espera la gracia que se revelará en la gloria, incluida la redención del cuerpo (Ro 8:23). La resurrección de Jesús es la garantía de la nuestra (1 Co 15:13-14), y su gloria presente, dice Henry, es prenda de que donde Él está estaremos también nosotros (Jn 14:3). McConnell observa que por eso los discípulos, amenazados, no pidieron librarse sino valentía (Hch 4:29).", "fuentes": ["kis1p_02_c#24", "mac1p_03_a#30", "mhenry_01_a#14", "cbmh1p_01_c#6"], "tipo": "doctrina"}
+        {
+          "texto": "«Mediante el cual creéis en Dios»: Cristo es el camino al Padre (Jn 14:6). MacArthur sugiere que «mediante» podría incluir también el poder para creer, porque personas espiritualmente muertas necesitan que Dios les dé la fe (Hch 11:18). El Comentario Beacon cita a Wesley: sin Cristo solo temeríamos a Dios; por Él creemos, esperamos y amamos.",
+          "fuentes": [
+            "cbmh1p_01_c#6",
+            "kis1p_02_c#23",
+            "mac1p_03_a#29",
+            "bea1p_01_a#30"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El Padre lo resucitó y le dio gloria. La resurrección prueba que el sacrificio fue aceptado y la obra cumplida (Ro 1:4); la gloria, según MacArthur, apunta a la ascensión, cuando Cristo volvió a la gloria que tenía con el Padre (Jn 17:5; Fil 2:9-11).",
+          "fuentes": [
+            "mac1p_03_a#27",
+            "mbib1p_01_a#40",
+            "bea1p_01_b#1"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La meta: «para que vuestra fe y esperanza sean en Dios» (sobre si es propósito o resultado, ver Profundizar). Fe y esperanza van unidas en todo el capítulo (vv. 3, 5, 7, 9, 13): la fe confía en la gracia para hoy y la esperanza espera la gracia que se revelará en la gloria (Ro 8:23). La resurrección de Jesús garantiza la nuestra (1 Co 15:13-14). Por eso los discípulos amenazados no pidieron librarse sino valentía (Hch 4:29).",
+          "fuentes": [
+            "kis1p_02_c#24",
+            "mac1p_03_a#30",
+            "cbmh1p_01_c#6"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1P 1:17", "griego": "ἐπικαλεῖσθε", "translit": "epikaleisthe", "significado": "Invocan, claman. Está en voz media: según MacArthur, describe la costumbre de dirigirse a Dios como Padre de manera continua.", "fuentes": ["mac1p_02_b#24"]},
-    {"ref": "1P 1:17", "griego": "ἀπροσωπολήμπτως", "translit": "aprosopolémptos", "significado": "Sin acepción de personas; literalmente, sin recibir el rostro. Une la negación, la palabra rostro y el verbo recibir; en esta forma aparece una sola vez en el Nuevo Testamento (la familia de palabras está en Hch 10:34; Ro 2:11; Stg 2:1, 9).", "fuentes": ["kis1p_03_a#3"]},
-    {"ref": "1P 1:18", "griego": "πατροπαραδότου", "translit": "patroparadótou", "significado": "Heredada de los padres, transmitida por tradición. Única aparición en el Nuevo Testamento.", "fuentes": ["kis1p_03_a#4"]},
-    {"ref": "1P 1:18", "griego": "λυτρόω", "translit": "lutroō", "significado": "Rescatar: comprar la libertad pagando un precio. Se usaba para recuperar a un prisionero de guerra; Pedro lo carga con el sentido del éxodo.", "fuentes": ["mac1p_03_a#5", "mbib1p_01_a#38"]},
-    {"ref": "1P 1:19", "griego": "τίμιος", "translit": "tímios", "significado": "Precioso, de gran valor, honrado. Palabra característica de Pedro (también en 1P 1:7), ligada a la nueva escala de valores que trae el evangelio.", "fuentes": ["moodynt_01_a#26"]},
-    {"ref": "1P 1:20", "griego": "προεγνωσμένου", "translit": "proegnōsménou", "significado": "Conocido de antemano o destinado de antemano. El prefijo que significa antes señala la preexistencia de Cristo; el tiempo perfecto indica un propósito fijado y vigente.", "fuentes": ["kis1p_03_a#6", "mac1p_03_a#24", "kis1p_02_c#21"]},
-    {"ref": "1P 1:20", "griego": "φανερωθέντος", "translit": "phanerōthéntos", "significado": "Manifestado, hecho visible. Indica un hecho histórico concreto, la encarnación, y contrasta con el anterior: designado en la eternidad, manifestado en el tiempo.", "fuentes": ["mac1p_03_a#25", "kis1p_03_a#6"]}
+    {
+      "ref": "1P 1:17",
+      "griego": "ἐπικαλεῖσθε",
+      "translit": "epikaleisthe",
+      "significado": "Invocan, claman; en voz media, la costumbre de dirigirse a Dios como Padre.",
+      "fuentes": [
+        "mac1p_02_b#24"
+      ]
+    },
+    {
+      "ref": "1P 1:17",
+      "griego": "ἀπροσωπολήμπτως",
+      "translit": "aprosopolémptos",
+      "significado": "Sin acepción de personas; literalmente, sin recibir el rostro. En esta forma aparece una sola vez en el Nuevo Testamento.",
+      "fuentes": [
+        "kis1p_03_a#3"
+      ]
+    },
+    {
+      "ref": "1P 1:18",
+      "griego": "πατροπαραδότου",
+      "translit": "patroparadótou",
+      "significado": "Heredada de los padres, transmitida por tradición. Única aparición en el Nuevo Testamento.",
+      "fuentes": [
+        "kis1p_03_a#4"
+      ]
+    },
+    {
+      "ref": "1P 1:18",
+      "griego": "λυτρόω",
+      "translit": "lutroō",
+      "significado": "Rescatar: comprar la libertad pagando un precio.",
+      "fuentes": [
+        "mac1p_03_a#5",
+        "mbib1p_01_a#38"
+      ]
+    },
+    {
+      "ref": "1P 1:19",
+      "griego": "τίμιος",
+      "translit": "tímios",
+      "significado": "Precioso, de gran valor, honrado.",
+      "fuentes": [
+        "moodynt_01_a#26"
+      ]
+    },
+    {
+      "ref": "1P 1:20",
+      "griego": "προεγνωσμένου",
+      "translit": "proegnōsménou",
+      "significado": "Conocido o destinado de antemano; el prefijo señala la preexistencia de Cristo.",
+      "fuentes": [
+        "kis1p_03_a#6",
+        "mac1p_03_a#24",
+        "kis1p_02_c#21"
+      ]
+    },
+    {
+      "ref": "1P 1:20",
+      "griego": "φανερωθέντος",
+      "translit": "phanerōthéntos",
+      "significado": "Manifestado, hecho visible.",
+      "fuentes": [
+        "mac1p_03_a#25",
+        "kis1p_03_a#6"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Cristo es el Cordero pascual verdadero: lo que el cordero de Egipto hizo por los primogénitos de Israel, la muerte de Jesús lo hace de una vez para siempre por todos los que creen. Juan el Bautista ya lo había señalado como el Cordero de Dios, y el Apocalipsis lo celebra como el Cordero que compró gente de toda nación con su sangre.", "refs": ["Éx 12:1-13", "Jn 1:29", "1 Co 5:7", "Ap 5:9"], "fuentes": ["kis1p_02_c#20", "mac1p_03_a#6", "cbmh1p_01_c#5", "dbmh_01_a#21"]},
-    {"texto": "Sin mancha: tenía que ser sin pecado para poder ser sustituto. Si hubiera tenido culpa propia, dice MacArthur, habría merecido él el castigo y no podría pagar por otros. Nuestra culpa fue puesta en su cuenta, sin que Él se volviera pecador.", "refs": ["He 7:26", "2 Co 5:21", "1P 2:24"], "fuentes": ["mac1p_03_a#18", "mac1p_03_a#17"]},
-    {"texto": "Kistemaker lamenta que en nuestro vocabulario Redentor haya quedado detrás de Salvador: este pasaje muestra a Cristo como el que nos adquirió pagando con su propia vida, y por eso ese nombre merece más lugar en nuestra fe y en nuestro canto.", "refs": ["He 9:12"], "fuentes": ["kis1p_02_c#20"]},
-    {"texto": "El tramo recorre toda la historia de Cristo: designado antes de la creación, manifestado en la encarnación, muerto como Cordero, resucitado y glorificado en la ascensión. Por Él, y solo por Él, llegamos a creer en Dios.", "refs": ["Fil 2:6-11", "Jn 14:6"], "fuentes": ["mac1p_03_a#24", "mac1p_03_a#25", "mac1p_03_a#27", "dbmh_01_a#18"]}
+    {
+      "texto": "Cristo es el Cordero pascual verdadero: lo que el cordero de Egipto hizo por los primogénitos de Israel, la muerte de Jesús lo hace una vez para siempre por los que creen.",
+      "refs": [
+        "Éx 12:1-13",
+        "Jn 1:29",
+        "1 Co 5:7",
+        "Ap 5:9"
+      ],
+      "fuentes": [
+        "kis1p_02_c#20",
+        "mac1p_03_a#6",
+        "cbmh1p_01_c#5",
+        "dbmh_01_a#21"
+      ]
+    },
+    {
+      "texto": "Sin mancha: tenía que ser sin pecado para ser sustituto; si hubiera tenido culpa propia, dice MacArthur, no podría pagar por otros. Nuestra culpa fue puesta en su cuenta sin que Él se volviera pecador.",
+      "refs": [
+        "He 7:26",
+        "2 Co 5:21",
+        "1P 2:24"
+      ],
+      "fuentes": [
+        "mac1p_03_a#18",
+        "mac1p_03_a#17"
+      ]
+    },
+    {
+      "texto": "Kistemaker lamenta que Redentor sea una palabra menos usada que Salvador: este pasaje muestra a Cristo como el que nos adquirió pagando con su vida.",
+      "refs": [
+        "He 9:12"
+      ],
+      "fuentes": [
+        "kis1p_02_c#20"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué «padres» transmitieron la vana manera de vivir?",
       "posturas": [
-        {"postura": "Deja abiertas tres posibilidades: los antepasados judíos, que vivían según la tradición y no según la Palabra (Mr 7:5-13); los antepasados paganos de lectores gentiles (Ro 1:21; Ef 4:17); o ambos.", "quien": "Kistemaker", "fuentes": ["kis1p_02_c#19"]},
-        {"postura": "Abarca a los dos grupos: la superstición pagana o el formalismo farisaico; los judíos confiaban en ser hijos de Abraham y los gentiles en ganar el favor de sus dioses con oro y plata.", "quien": "Nuevo Comentario Bíblico; Comentario Beacon (Nicholson, citando a Bennett)", "fuentes": ["ncb1p_01_a#22", "bea1p_01_a#28"]},
-        {"postura": "Se refiere a la tradición religiosa heredada, sea el judaísmo que Jesús reprendió en los fariseos (Is 29:13; Mt 15:7-9) o el paganismo en sus formas: toda religión tradicional es parte de la esclavitud de la que hace falta redención.", "quien": "MacArthur", "fuentes": ["mac1p_03_a#12"]}
+        {
+          "postura": "Deja abiertas tres posibilidades: antepasados judíos que vivían según la tradición (Mr 7:5-13), antepasados paganos (Ef 4:17) o ambos.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1p_02_c#19"
+          ]
+        },
+        {
+          "postura": "Abarca a judíos y gentiles: el formalismo farisaico o la superstición pagana.",
+          "quien": "Nuevo Comentario Bíblico; Comentario Beacon (Nicholson, citando a Bennett)",
+          "fuentes": [
+            "ncb1p_01_a#22",
+            "bea1p_01_a#28"
+          ]
+        },
+        {
+          "postura": "La tradición religiosa heredada, sea el judaísmo que Jesús reprendió en los fariseos (Mt 15:7-9) o el paganismo: toda religión tradicional es parte de la esclavitud de la que hace falta redención.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac1p_03_a#12"
+          ]
+        }
       ],
       "nota": "Todos coinciden en lo central: era una vida vacía, recibida y no elegida, de la que solo Cristo libera."
     },
     {
       "tema": "¿A quién se pagó el rescate?",
       "posturas": [
-        {"postura": "Se pagó a Dios, porque todo pecado es contra Él y solo el acreedor fija el precio; el precio que Dios mismo requirió fue la vida de su Hijo.", "quien": "MacArthur; Biblia MacArthur", "fuentes": ["mac1p_03_a#19", "mbib1p_01_a#38"]},
-        {"postura": "La Escritura no responde la pregunta y es mejor no hacerla: el énfasis está en el precio y en sus efectos liberadores. Cristo satisfizo las demandas de la ley y quitó la maldición.", "quien": "Kistemaker", "fuentes": ["kis1p_02_c#25", "kis1p_03_a#1"]}
+        {
+          "postura": "Se pagó a Dios, porque todo pecado es contra Él y solo el acreedor fija el precio; el precio que Dios mismo requirió fue la vida de su Hijo.",
+          "quien": "MacArthur; Biblia MacArthur",
+          "fuentes": [
+            "mac1p_03_a#19",
+            "mbib1p_01_a#38"
+          ]
+        },
+        {
+          "postura": "La Escritura no responde la pregunta y es mejor no hacerla: el énfasis está en el precio y en sus efectos liberadores. Cristo satisfizo las demandas de la ley y quitó la maldición.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1p_02_c#25",
+            "kis1p_03_a#1"
+          ]
+        }
       ],
       "nota": "Ambos rechazan la idea, sostenida por algunos en la historia, de que el rescate se pagó a Satanás, a quien Cristo derrotó."
-    },
-    {
-      "tema": "¿«Conocido de antemano» o «destinado»? (v. 20)",
-      "posturas": [
-        {"postura": "Varias versiones literales traducen conocido de antemano, que es el sentido básico del verbo.", "quien": "Traducciones que menciona Kistemaker (KJV, NKJV, ASV, NASB, entre otras)", "fuentes": ["kis1p_02_c#21"]},
-        {"postura": "El término es más amplio y expresa propósito y elección, como en 1P 1:2: Dios asignó a Cristo su tarea desde la eternidad; por eso otras versiones dicen predestinado o escogido.", "quien": "Kistemaker, con Kelly y Guthrie; MacArthur (habiendo estado preparado)", "fuentes": ["kis1p_02_c#21", "mac1p_03_a#24"]}
-      ],
-      "nota": "La RVR1960 traduce «destinado». En ambas lecturas Cristo existía antes de la creación y su venida respondía a un plan."
-    },
-    {
-      "tema": "El final del v. 21: ¿propósito o resultado?",
-      "posturas": [
-        {"postura": "Es un resultado: Dios resucitó y glorificó a Cristo, de modo que la fe y la esperanza de ustedes están en Dios; fe y esperanza son a la vez propósito y fruto de la resurrección.", "quien": "Nuevo Comentario Bíblico; Kistemaker", "fuentes": ["ncb1p_01_a#23", "kis1p_03_a#7"]},
-        {"postura": "La RVR1960 lo traduce como propósito: «para que vuestra fe y esperanza sean en Dios».", "quien": "Traducciones como la RVR y la VM, según el Nuevo Comentario Bíblico", "fuentes": ["ncb1p_01_a#23"]}
-      ],
-      "nota": "La diferencia es de matiz: en un caso Dios obra para que confiemos; en el otro, porque Dios obró, confiamos."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Éx 12:1-13", "nota": "La Pascua: el cordero sin defecto cuya sangre libró a los primogénitos. MacArthur y Kistemaker la ven como el trasfondo principal del v. 19.", "fuentes": ["mac1p_03_a#6", "kis1p_02_c#20"]},
-    {"ref": "Lv 22:17-25", "nota": "Las condiciones de la víctima: sin defecto. El Nuevo Comentario Bíblico ve ahí el sentido de «sin mancha y sin contaminación».", "fuentes": ["ncb1p_01_a#23", "mac1p_03_a#16"]},
-    {"ref": "Is 52:3", "nota": "Sin dinero serán rescatados: MacArthur lo considera la contraparte del contraste de Pedro entre el oro y la sangre.", "fuentes": ["mac1p_03_a#15", "kis1p_02_c#18"]},
-    {"ref": "Sal 49:7-8", "nota": "Nadie puede dar a Dios el rescate por otro: el trasfondo de por qué el oro y la plata no sirven.", "fuentes": ["mac1p_03_a#14"]},
-    {"ref": "Éx 30:11-16", "nota": "El medio siclo de plata como rescate en el censo. Wiersbe lo vincula con este pasaje; MacArthur lo propone solo como una alusión posible.", "fuentes": ["r1_005#2", "mac1p_03_a#14"]},
-    {"ref": "Is 53:7", "nota": "El Siervo llevado como cordero: el Nuevo Comentario Bíblico señala que la traducción griega del Antiguo Testamento usa la misma palabra para cordero que Pedro.", "fuentes": ["ncb1p_01_a#23"]},
-    {"ref": "Dt 10:17", "nota": "Dios no hace acepción de personas: base de la imagen del Juez imparcial del v. 17.", "fuentes": ["ncb1p_01_a#23"]}
+    {
+      "ref": "Éx 12:1-13",
+      "nota": "La Pascua: el cordero sin defecto cuya sangre libró a los primogénitos. MacArthur y Kistemaker la ven como el trasfondo principal del v. 19.",
+      "fuentes": [
+        "mac1p_03_a#6",
+        "kis1p_02_c#20"
+      ]
+    },
+    {
+      "ref": "Lv 22:17-25",
+      "nota": "Según el Nuevo Comentario Bíblico, «sin mancha» apunta a la perfección moral y «sin contaminación» a la integridad física de la víctima, como pedía la ley.",
+      "fuentes": [
+        "ncb1p_01_a#23",
+        "mac1p_03_a#16"
+      ]
+    },
+    {
+      "ref": "Is 52:3",
+      "nota": "Sin dinero serán rescatados: MacArthur lo considera la contraparte del contraste de Pedro entre el oro y la sangre.",
+      "fuentes": [
+        "mac1p_03_a#15",
+        "kis1p_02_c#18"
+      ]
+    },
+    {
+      "ref": "Éx 30:11-16",
+      "nota": "El medio siclo de plata como rescate en el censo. Wiersbe lo vincula con este pasaje; MacArthur lo propone solo como una alusión posible.",
+      "fuentes": [
+        "r1_005#2",
+        "mac1p_03_a#14"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Ryrie toma la expresión «sin mancha» aplicada a Cristo y la relaciona con Stg 1:27 (guardarse sin mancha del mundo): separarse del mundo es ser como Cristo en él, con sus perspectivas, sus normas y su meta de agradar al Padre (Jn 8:29).", "autor": "Charles Ryrie", "obra": "Teología básica", "pagina": "PDF 67", "tipo": "aplicacion", "fuentes": ["r1_016#33"]},
-    {"texto": "Owen advierte contra la presunción usando el ejemplo de Pedro, que nunca imaginó que negaría a Jesús: por eso en su carta manda vivir con temor (1P 1:17) y a la vez estar listos para responder con mansedumbre (1P 3:14-15).", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 47", "tipo": "aplicacion", "fuentes": ["r1_020#7"]},
-    {"texto": "Lutzer usa 1P 1:17 contra quienes presentan a Dios como siempre de buen humor: es siempre bueno y justo, pero eso no significa que nunca se enoje; el temor de Dios sigue vigente para los creyentes (He 10:31; 12:28-29).", "autor": "Erwin Lutzer", "obra": "La Iglesia en Babilonia", "pagina": "PDF 158", "tipo": "doctrina", "fuentes": ["r4b_001#15"]},
-    {"texto": "Vila reconoce que a muchos predicadores les incomoda hablar de la sangre, pero sostiene que era el lenguaje que judíos y primeros cristianos mejor entendían: la sangre de Cristo redime, limpia y da entrada a la presencia de Dios (Ef 1:7; 1 Jn 1:7; He 10:19-22).", "autor": "Samuel Vila (comp.)", "obra": "1000 bosquejos para predicadores", "pagina": "PDF 46", "tipo": "doctrina", "fuentes": ["r1_004#22"]},
-    {"texto": "Stott señala que Pedro, que en Pentecostés habló del plan y la presciencia de Dios en la cruz (Hch 2:23), luego describiría en su carta a Jesús como el Cordero destinado desde antes de la fundación del mundo.", "autor": "John Stott", "obra": "nota bibliográfica sobre Hechos 2", "pagina": "PDF 201", "tipo": "doctrina", "fuentes": ["r1_015#12"]}
+    {
+      "texto": "Ryrie toma la expresión «sin mancha» aplicada a Cristo y la relaciona con Stg 1:27 (guardarse sin mancha del mundo): separarse del mundo es ser como Cristo en él, con sus perspectivas, sus normas y su meta de agradar al Padre (Jn 8:29).",
+      "autor": "Charles Ryrie",
+      "obra": "Teología básica",
+      "pagina": "PDF 67",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r1_016#33"
+      ]
+    },
+    {
+      "texto": "Owen advierte contra la presunción usando el ejemplo de Pedro, que nunca imaginó que negaría a Jesús: por eso en su carta manda vivir con temor (1P 1:17) y a la vez estar listos para responder con mansedumbre (1P 3:14-15).",
+      "autor": "John Owen",
+      "obra": "Apostasía del evangelio",
+      "pagina": "PDF 47",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r1_020#7"
+      ]
+    },
+    {
+      "texto": "Vila reconoce que a muchos predicadores les incomoda hablar de la sangre, pero sostiene que era el lenguaje que judíos y primeros cristianos mejor entendían: la sangre de Cristo redime, limpia y da entrada a la presencia de Dios (Ef 1:7; 1 Jn 1:7; He 10:19-22).",
+      "autor": "Samuel Vila (comp.)",
+      "obra": "1000 bosquejos para predicadores",
+      "pagina": "PDF 46",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_004#22"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Mr 10:45", "nota": "Jesús vino a dar su vida en rescate por muchos: el mismo lenguaje de compra que usa Pedro.", "fuentes": ["ncb1p_01_a#23", "kis1p_02_c#25"]},
-    {"ref": "1 Co 6:19-20", "nota": "Fueron comprados por precio: Wiersbe saca de ahí que la mejor gratitud es entregarse por completo a Dios.", "fuentes": ["r1_006#18", "kis1p_02_c#25"]},
-    {"ref": "He 9:11-14", "nota": "Cristo entró una vez para siempre con su propia sangre, obtuvo eterna redención y limpia la conciencia de obras muertas.", "fuentes": ["mac1p_03_a#20", "kis1p_02_c#20"]},
-    {"ref": "Hch 2:23", "nota": "En Pentecostés Pedro ya dijo que Jesús fue entregado por el determinado consejo y anticipado conocimiento de Dios.", "fuentes": ["r1_015#12", "mac1p_03_a#24"]},
-    {"ref": "Ap 13:8", "nota": "El Cordero asociado a la fundación del mundo; el Comentario Beacon y MacArthur lo citan junto a este pasaje.", "fuentes": ["bea1p_01_a#29", "mac1p_03_a#24"]},
-    {"ref": "Tit 3:3", "nota": "MacArthur lo usa para describir la esclavitud de la vida sin Cristo, de la que solo Dios libera (cf. Sal 107:10-16).", "fuentes": ["mac1p_03_a#13"]}
+    {
+      "ref": "Mr 10:45",
+      "nota": "Jesús vino a dar su vida en rescate por muchos: el mismo lenguaje de compra que usa Pedro.",
+      "fuentes": [
+        "ncb1p_01_a#23",
+        "kis1p_02_c#25"
+      ]
+    },
+    {
+      "ref": "1 Co 6:19-20",
+      "nota": "Fueron comprados por precio: Wiersbe saca de ahí que la mejor gratitud es entregarse por completo a Dios.",
+      "fuentes": [
+        "r1_006#18",
+        "kis1p_02_c#25"
+      ]
+    },
+    {
+      "ref": "He 9:11-14",
+      "nota": "Cristo entró una vez para siempre con su propia sangre, obtuvo eterna redención y limpia la conciencia de obras muertas.",
+      "fuentes": [
+        "mac1p_03_a#20",
+        "kis1p_02_c#20"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Hablen con Dios como Padre con total confianza, y a la vez vivan sabiendo que Él mira las obras sin favoritismos. Henry decía que pensarlo como Juez lo vuelve más querido como Padre: el temor reverente no los aleja, los cuida de tomarse a la ligera la santidad.", "fuentes": ["mhenry_01_a#12", "kis1p_02_c#16"]},
-    {"texto": "Revisen juntos qué costumbres de su casa de origen siguen manejando sin preguntarse si agradan a Dios. Lo heredado no es malo por ser heredado, pero Pedro dice que fuimos rescatados de una manera de vivir vacía que nos venía de antes.", "fuentes": ["mhenry_01_a#13", "kis1p_02_c#19"]},
-    {"texto": "MacArthur advierte que la vida vieja empieza muchas veces en la imaginación: un pensamiento alimentado se vuelve deseo y después conducta (Stg 1:14-15). Si fueron rescatados de eso, cuiden lo que dejan entrar en la mente (Pr 4:23).", "fuentes": ["mac1p_03_a#8", "mac1p_03_a#9"]},
-    {"texto": "Cuando se sientan poco valiosos o les pese el pasado, recuerden el precio: no oro ni plata sino la sangre de Cristo. Piper dice que esa sangre nunca pierde su poder, y por eso la vida nueva no corre peligro de volver a la cautividad.", "fuentes": ["r1_009#3", "kis1p_02_c#18"]},
-    {"texto": "En las pruebas, apoyen la fe y la esperanza en el Dios que resucitó a Jesús. Como los discípulos de Hch 4:29, pueden pedir valentía y no solo alivio.", "fuentes": ["cbmh1p_01_c#6", "moodynt_01_a#27"]}
+    {
+      "texto": "Hablen con Dios como Padre con total confianza, y vivan sabiendo que Él mira las obras sin favoritismos: el temor reverente no los aleja, los cuida de tomarse a la ligera la santidad.",
+      "fuentes": [
+        "mhenry_01_a#12",
+        "kis1p_02_c#16"
+      ]
+    },
+    {
+      "texto": "Revisen juntos qué costumbres de sus casas de origen siguen sin preguntarse si agradan a Dios. Lo heredado no es malo por ser heredado, pero fuimos rescatados de una manera de vivir vacía.",
+      "fuentes": [
+        "mhenry_01_a#13",
+        "kis1p_02_c#19"
+      ]
+    },
+    {
+      "texto": "Cuando se sientan poco valiosos o les pese el pasado, recuerden el precio: no oro ni plata sino la sangre de Cristo. Piper dice que esa sangre nunca pierde su poder, y por eso la vida nueva no corre peligro de volver a la cautividad.",
+      "fuentes": [
+        "r1_009#3",
+        "kis1p_02_c#18"
+      ]
+    },
+    {
+      "texto": "En las pruebas, apoyen la fe y la esperanza en el Dios que resucitó a Jesús, y pidan valentía, no solo alivio.",
+      "fuentes": [
+        "cbmh1p_01_c#6",
+        "moodynt_01_a#27"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué nos cuesta más: ver a Dios como Padre cercano o recordar que también es Juez? ¿Cómo se nota eso en nuestra manera de orar?",
@@ -159,12 +534,79 @@
     "¿Qué cambia en una semana común saber que fuimos comprados con la sangre preciosa de Cristo y que esto fue planeado antes de la creación del mundo?"
   ],
   "para_orar": "Padre, gracias porque podemos llamarte así; enséñanos a vivir delante de Ti con temor reverente todo el tiempo de nuestra peregrinación. Gracias, Señor Jesús, Cordero sin mancha, por rescatarnos de una vida vacía con tu sangre preciosa; que nuestra fe y nuestra esperanza estén puestas en Dios, que te resucitó y te dio gloria.",
-  "visuales": ["dg-estructura-1p", "dg-at"],
-  "anexos": ["P1", "T6"],
+  "visuales": [
+    "dg-estructura-1p",
+    "dg-at"
+  ],
+  "anexos": [
+    "P1",
+    "T6"
+  ],
   "profundizar": [
-    {"titulo": "¿Un himno de la iglesia primitiva?", "texto": "Kistemaker, siguiendo a Kelly, considera probable que los vv. 18-21 hayan sido parte de un himno o de una fórmula doctrinal de los primeros cristianos. Lo apoya en detalles del griego: la falta de artículos en estos versículos y que cinco palabras seguidas del v. 19 empiezan con la misma vocal, una asonancia propia del canto. Lo presenta como hipótesis.", "fuentes": ["kis1p_02_c#17", "kis1p_03_a#5", "kis1p_03_a#4"]},
-    {"titulo": "La sangre: ¿literal o figura?", "texto": "MacArthur advierte contra dos lecturas literalistas: la transustanciación católica romana y la idea de que la sangre física de Jesús fue llevada y conservada en el cielo para aplicarse a cada creyente. Para él, así como Pablo no se gloriaba en unas vigas de madera al hablar de la cruz (Gá 6:14), «sangre» abarca toda la obra de la muerte expiatoria. Agrega que la sangre no tenía nada mágico: quienes lo azotaron pudieron salpicarse sin quedar limpios.", "fuentes": ["mac1p_03_a#23", "mac1p_03_a#22"]},
-    {"titulo": "Una variante en el v. 21", "texto": "Los manuscritos están divididos entre un participio (los que creen) y un adjetivo (los fieles o creyentes). Kistemaker reconoce que el participio tiene mejor respaldo, pero prefiere el adjetivo como lectura más difícil, porque los copistas habrían tendido a cambiarlo hacia el participio y no al revés. McConnell nota que por eso la frase puede traducirse también sois fieles a Dios o sois creyentes en Dios. El sentido general no cambia.", "fuentes": ["kis1p_03_a#7", "cbmh1p_01_c#6"]},
-    {"titulo": "Los corderos diarios y el Cordero único", "texto": "Vila compara los corderos del sacrificio diario (Éx 29:38-39), que debían ser perfectos, con Cristo: aquellos eran símbolo de la expiación y se ofrecían una y otra vez; Cristo hizo una expiación real y se ofreció una sola vez (He 9:25-26; 1 Jn 2:2).", "fuentes": ["r1_009#11"]}
+    {
+      "titulo": "¿Qué juicio es este para los hijos de Dios?",
+      "texto": "¿Qué juicio es este para los hijos? MacArthur y Wiersbe lo ubican en dos planos: la disciplina en esta vida (He 12:5-11; el juicio que empieza por la casa de Dios, 1P 4:17) y la evaluación de las obras ante el tribunal de Cristo, donde lo edificado será probado y puede haber pérdida de recompensa aunque la persona sea salva (1 Co 3:10-15; 2 Co 5:9-10). Wiersbe aclara que no lo entiende como juicio eterno. MacArthur menciona además la disciplina que la iglesia ejerce siguiendo Mt 18:15-20.",
+      "fuentes": [
+        "mac1p_03_a#1",
+        "mac1p_03_a#2",
+        "r1_006#17"
+      ]
+    },
+    {
+      "titulo": "¿Un himno de la iglesia primitiva?",
+      "texto": "Kistemaker, siguiendo a Kelly, considera probable que los vv. 18-21 hayan sido parte de un himno o de una fórmula doctrinal de los primeros cristianos. Lo apoya en detalles del griego: la falta de artículos en estos versículos y que cinco palabras seguidas del v. 19 empiezan con la misma vocal, una asonancia propia del canto. Lo presenta como hipótesis.",
+      "fuentes": [
+        "kis1p_02_c#17",
+        "kis1p_03_a#5",
+        "kis1p_03_a#4"
+      ]
+    },
+    {
+      "titulo": "La sangre: ¿literal o figura?",
+      "texto": "MacArthur advierte contra dos lecturas literalistas: la transustanciación católica romana y la idea de que la sangre física de Jesús fue llevada y conservada en el cielo para aplicarse a cada creyente. Para él, así como Pablo no se gloriaba en unas vigas de madera al hablar de la cruz (Gá 6:14), «sangre» abarca toda la obra de la muerte expiatoria. Agrega que la sangre no tenía nada mágico: quienes lo azotaron pudieron salpicarse sin quedar limpios.",
+      "fuentes": [
+        "mac1p_03_a#23",
+        "mac1p_03_a#22"
+      ]
+    },
+    {
+      "titulo": "Una variante en el v. 21",
+      "texto": "Los manuscritos están divididos entre un participio (los que creen) y un adjetivo (los fieles o creyentes). Kistemaker reconoce que el participio tiene mejor respaldo, pero prefiere el adjetivo como lectura más difícil, porque los copistas habrían tendido a cambiarlo hacia el participio y no al revés. McConnell nota que por eso la frase puede traducirse también sois fieles a Dios o sois creyentes en Dios. El sentido general no cambia.",
+      "fuentes": [
+        "kis1p_03_a#7",
+        "cbmh1p_01_c#6"
+      ]
+    },
+    {
+      "titulo": "Los corderos diarios y el Cordero único",
+      "texto": "Vila compara los corderos del sacrificio diario (Éx 29:38-39), que debían ser perfectos, con Cristo: aquellos eran símbolo de la expiación y se ofrecían una y otra vez; Cristo hizo una expiación real y se ofreció una sola vez (He 9:25-26; 1 Jn 2:2).",
+      "fuentes": [
+        "r1_009#11"
+      ]
+    },
+    {
+      "titulo": "¿Conocido de antemano o destinado? (v. 20)",
+      "texto": "Varias versiones literales traducen conocido de antemano; otras, predestinado o escogido. Kistemaker, con Kelly y Guthrie, se inclina por lo segundo: el término es más amplio y expresa propósito, como en 1P 1:2, y Dios asignó a Cristo su tarea desde la eternidad. MacArthur lo traduce habiendo estado preparado. La RVR1960 dice «destinado». En ambas lecturas Cristo existía antes de la creación y su venida respondía a un plan.",
+      "fuentes": [
+        "kis1p_02_c#21",
+        "mac1p_03_a#24"
+      ]
+    },
+    {
+      "titulo": "El final del v. 21: ¿propósito o resultado?",
+      "texto": "La RVR1960 lo traduce como propósito (para que). El Nuevo Comentario Bíblico prefiere leerlo como consecuencia, y Kistemaker señala que la conjunción griega introduce un resultado: de modo que la fe y la esperanza de ustedes están en Dios. El Nuevo Comentario Bíblico concluye que fe y esperanza son a la vez propósito y fruto de la resurrección.",
+      "fuentes": [
+        "ncb1p_01_a#23",
+        "kis1p_03_a#7"
+      ]
+    },
+    {
+      "titulo": "La imaginación de la vida vieja",
+      "texto": "MacArthur advierte que la vida vieja empieza muchas veces en la imaginación: un pensamiento alimentado se vuelve deseo y después conducta (Stg 1:14-15). Si fueron rescatados de eso, cuiden lo que dejan entrar en la mente (Pr 4:23).",
+      "fuentes": [
+        "mac1p_03_a#8",
+        "mac1p_03_a#9"
+      ]
+    }
   ]
 }

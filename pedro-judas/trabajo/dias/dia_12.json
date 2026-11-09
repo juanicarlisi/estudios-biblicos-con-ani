@@ -4,143 +4,522 @@
   "desde": "1P 2:21",
   "hasta": "1P 2:25",
   "titulo": "Cristo, ejemplo, sustituto y Pastor",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer Pedro habló a los siervos de casa: someterse incluso a amos duros, porque soportar un castigo injusto por hacer el bien agrada a Dios (1P 2:18-20). Hoy da la razón de fondo de ese consejo, y la razón tiene nombre: Cristo.",
-    "ahora": "Pedro cambia el rumbo y pone ante el creyente que sufre injustamente los sufrimientos de Jesús. En cinco versículos, tejidos casi enteros con Isaías 53, Cristo aparece de tres maneras: como ejemplo que se sigue, como sustituto que cargó nuestros pecados y como Pastor que cuida a los que volvieron.",
+    "ahora": "Pedro pone ante el creyente que sufre injustamente los sufrimientos de Jesús. En cinco versículos tejidos con Isaías 53, Cristo aparece como ejemplo, como sustituto y como Pastor.",
     "despues": "Mañana Pedro aplica el mismo principio de sumisión al matrimonio, primero a las esposas y después a los maridos (1P 3:1-7).",
-    "fuentes": ["kis1p_04_a#21", "kis1p_04_a#20", "mac1p_05_b#17", "r1_003#23"]
+    "fuentes": [
+      "kis1p_04_a#21",
+      "kis1p_04_a#20",
+      "mac1p_05_b#17",
+      "r1_003#23"
+    ]
   },
-  "versiculo_clave": {"ref": "1P 2:24", "porque": "Es el centro del pasaje: Cristo no es solo un modelo de paciencia sino el que cargó nuestros pecados en la cruz para que vivamos a la justicia. Sin este versículo, el ejemplo de los vv. 21-23 sería una carga imposible."},
+  "versiculo_clave": {
+    "ref": "1P 2:24",
+    "porque": "Es el centro del pasaje: Cristo no es solo modelo de paciencia sino el que cargó nuestros pecados para que vivamos a la justicia."
+  },
   "panorama": {
-    "texto": "Varios comentaristas coinciden en leer el pasaje en tres trazos. Primero, Cristo es el ejemplo perfecto de cómo sufrir injustamente: sin pecado, sin engaño, sin devolver insulto por insulto, encomendándose al Juez justo (vv. 21-23). Segundo, es el sustituto perfecto: llevó él mismo nuestros pecados sobre el madero, para que muertos a los pecados vivamos a la justicia, y por su herida fuimos sanados (v. 24). Tercero, es el Pastor perfecto: los que andaban como ovejas perdidas volvieron a Él, que los cuida y vigila (v. 25). McConnell dice que en estos versículos está la esencia del evangelio, y Piper resume la lógica con una frase: la sustitución es la base de la imitación, y no al revés.",
-    "fuentes": ["mac1p_05_b#17", "mbib1p_01_b#30", "bea1p_01_b#20", "cbmh1p_02_a#9", "r1_003#23"]
+    "texto": "Varios comentaristas leen el pasaje en tres trazos. Cristo es el ejemplo perfecto de cómo sufrir injustamente: sin pecado, sin engaño, sin devolver insulto por insulto, encomendándose al Juez justo (vv. 21-23). Es el sustituto perfecto, que llevó nuestros pecados sobre el madero (v. 24). Y es el Pastor que cuida a las ovejas que volvieron (v. 25). McConnell ve aquí la esencia del evangelio, y Piper resume la lógica: la sustitución es la base de la imitación, y no al revés.",
+    "fuentes": [
+      "mac1p_05_b#17",
+      "mbib1p_01_b#30",
+      "bea1p_01_b#20",
+      "cbmh1p_02_a#9",
+      "r1_003#23"
+    ]
   },
   "secciones": [
     {
       "rango": "1P 2:21",
       "titulo": "Llamados a seguir sus pisadas",
       "notas": [
-        {"texto": "«Pues para esto fuisteis llamados». En las cartas del Nuevo Testamento, el llamado se refiere al llamamiento eficaz de Dios a la salvación (1P 2:9; 5:10; Ro 8:28-30). El punto de Pedro, según MacArthur, es que quien fue llamado a la salvación tendrá que soportar en algún momento un trato injusto: apenas alguien pasa de la oscuridad a la luz y quiere obedecer a Cristo, queda expuesto a los ataques del mundo (2Ti 3:12; Jn 15:18-19).", "fuentes": ["mbib1p_01_b#24", "mac1p_05_b#15"], "tipo": "doctrina"},
-        {"texto": "Kistemaker subraya el consuelo que hay en eso: los lectores tienen que saber que Dios conoce la injusticia que soportan y que fue Él quien los llamó a enfrentarla. Ningún siervo es mayor que su señor (Jn 13:16; 15:20), y a los creyentes se les concedió no solo creer en Cristo sino también padecer por Él (Fil 1:29).", "fuentes": ["kis1p_04_a#21"], "tipo": "doctrina"},
-        {"texto": "Que Pedro hable así tiene su peso. McConnell recuerda que el sufrimiento fue un problema para él: cuando Jesús anunció su muerte, Pedro lo reprendió (Mt 16:22), y en el arresto sacó la espada (Mt 26:51). Con el tiempo aprendió, como Pablo, que sufrir por Cristo es un don. Pero advierte contra el complejo de mártir: buscar el sufrimiento es egoísta y no honra a Cristo.", "fuentes": ["cbmh1p_02_a#7"], "tipo": "exegesis"},
-        {"texto": "Este llamado no era solo para esclavos con amos crueles. Piper hace notar que en 1P 3:9 Pedro usa la misma expresión para todos los creyentes: no devolver mal por mal, sino bendecir, porque para esto fueron llamados. La manera en que Cristo vivió, sufrió y murió pone un llamado sobre cada uno de nosotros.", "fuentes": ["r1_003#24"], "tipo": "aplicacion"},
-        {"texto": "«Cristo padeció por nosotros, dejándonos ejemplo, para que sigáis sus pisadas». Aquí hay una doble imagen, señala Nicholson: un modelo escrito que el maestro dejaba para que el alumno lo copiara, y una huella que se pisa. Kistemaker aclara qué se imita: no el grado de angustia de Jesús (Getsemaní y el Calvario son únicos), sino la manera en que soportó el sufrimiento. Su sendero, dice, está marcado por la paciencia, la humildad, la integridad y la honestidad. Ver más abajo las palabras griegas ejemplo y pisadas.", "fuentes": ["bea1p_01_b#17", "kis1p_04_a#21", "kis1p_04_a#22"], "tipo": "exegesis"},
-        {"texto": "La pequeña frase «por nosotros» lo cambia todo. Piper insiste en que lo que Cristo hizo en nuestro lugar no se puede imitar ni repetir: pasó una vez para siempre (He 9:26). Por eso «dejándonos ejemplo» no quiere decir que nosotros hagamos expiación sufriendo, sino que, ya perdonados, quedamos libres para amar como Él amó y sufrir haciendo el bien como Él. No ganamos el perdón sufriendo como Jesús; porque Él sufrió por nosotros, podemos sufrir como Él.", "fuentes": ["r1_003#23", "mac1p_05_b#18"], "tipo": "doctrina"}
+        {
+          "texto": "«Pues para esto fuisteis llamados». En las cartas del Nuevo Testamento el llamado es el llamamiento eficaz de Dios a la salvación (1P 2:9; 5:10). El punto de Pedro, según MacArthur, es que quien fue llamado a la salvación tendrá que soportar en algún momento un trato injusto: apenas alguien pasa de la oscuridad a la luz y quiere obedecer a Cristo, queda expuesto a los ataques del mundo (2Ti 3:12).",
+          "fuentes": [
+            "mbib1p_01_b#24",
+            "mac1p_05_b#15"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Kistemaker subraya el consuelo que hay en eso: los lectores tienen que saber que Dios conoce la injusticia que soportan y que fue Él quien los llamó a enfrentarla. Ningún siervo es mayor que su señor (Jn 13:16; 15:20), y a los creyentes se les concedió no solo creer en Cristo sino también padecer por Él (Fil 1:29).",
+          "fuentes": [
+            "kis1p_04_a#21"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Que Pedro hable así tiene su peso. McConnell recuerda que cuando Jesús anunció su muerte, Pedro lo reprendió (Mt 16:22), y en el arresto sacó la espada (Mt 26:51). Con el tiempo aprendió que sufrir por Cristo es un don.",
+          "fuentes": [
+            "cbmh1p_02_a#7"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Cristo padeció por nosotros, dejándonos ejemplo, para que sigáis sus pisadas». Nicholson ve una doble imagen: un modelo escrito que el alumno copia y una huella que se pisa. Kistemaker aclara qué se imita: no el grado de angustia de Jesús (Getsemaní y el Calvario son únicos), sino la manera en que soportó el sufrimiento, con paciencia, humildad, integridad y honestidad.",
+          "fuentes": [
+            "bea1p_01_b#17",
+            "kis1p_04_a#21",
+            "kis1p_04_a#22"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La pequeña frase «por nosotros» lo cambia todo. Piper insiste en que lo que Cristo hizo en nuestro lugar no se puede imitar ni repetir: pasó una vez para siempre (He 9:26). «Dejándonos ejemplo» no quiere decir que hagamos expiación sufriendo, sino que, ya perdonados, quedamos libres para amar y sufrir haciendo el bien como Él. No ganamos el perdón sufriendo como Jesús; porque Él sufrió por nosotros, podemos sufrir como Él.",
+          "fuentes": [
+            "r1_003#23",
+            "mac1p_05_b#18"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 2:22",
       "titulo": "Sin pecado y sin engaño",
       "notas": [
-        {"texto": "«No hizo pecado, ni se halló engaño en su boca» es la primera cita directa de Isaías 53 en el pasaje (Is 53:9). Kistemaker cree que Pedro cita de memoria, y nota un cambio: donde Isaías habla de maldad o violencia, Pedro escribe pecado, que encaja mejor con el contexto (hacer el mal en el v. 20, los pecados en el v. 24). MacArthur explica que Pedro resume en esa palabra el sentido del original: Jesús nunca desobedeció a Dios ni a su ley.", "fuentes": ["kis1p_04_a#23", "mac1p_05_b#20", "r1_002#13"], "tipo": "exegesis"},
-        {"texto": "¿Por qué mencionar la boca? Porque, como enseñó Jesús, de la boca sale lo que hay en el corazón (Mt 15:18-19; 12:34-37), y es el primer lugar donde se nota el pecado. De la boca de Cristo nunca salió nada pecaminoso; McConnell agrega que nadie pudo atraparlo en una mentira.", "fuentes": ["r1_002#13", "mac1p_05_b#20", "cbmh1p_02_a#8"], "tipo": "exegesis"},
-        {"texto": "Pedro cita esto para mostrar que el sufrimiento de Jesús fue completamente injusto: todos los castigos e indignidades que le hicieron fueron sin motivo (Lc 23:41; 2Co 5:21; He 4:15; 1J 3:5). Kistemaker saca la contracara: comparados con Él, nadie puede quejarse con toda razón de sufrir sin culpa ni jactarse de ser perfecto (Stg 3:2).", "fuentes": ["kis1p_04_a#23", "moodynt_01_b#7", "mbib1p_01_b#26"], "tipo": "doctrina"}
+        {
+          "texto": "«No hizo pecado, ni se halló engaño en su boca» es la primera cita directa de Isaías 53 en el pasaje (Is 53:9). Kistemaker cree que Pedro cita de memoria, y nota un cambio: donde Isaías habla de maldad o violencia, Pedro escribe pecado, que encaja mejor con el contexto (hacer el mal en el v. 20, los pecados en el v. 24). MacArthur explica que Pedro resume en esa palabra el sentido del original: Jesús nunca desobedeció a Dios ni a su ley.",
+          "fuentes": [
+            "kis1p_04_a#23",
+            "mac1p_05_b#20",
+            "r1_002#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Por qué mencionar la boca? Porque, como enseñó Jesús, de la boca sale lo que hay en el corazón (Mt 15:18-19; 12:34-37), y es el primer lugar donde se nota el pecado. De la boca de Cristo nunca salió nada pecaminoso; McConnell agrega que nadie pudo atraparlo en una mentira.",
+          "fuentes": [
+            "r1_002#13",
+            "mac1p_05_b#20",
+            "cbmh1p_02_a#8"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Pedro cita esto para mostrar que el sufrimiento de Jesús fue completamente injusto: todos los castigos e indignidades que le hicieron fueron sin motivo (Lc 23:41; 2Co 5:21; He 4:15; 1J 3:5). Kistemaker saca la contracara: comparados con Él, nadie puede quejarse con toda razón de sufrir sin culpa ni jactarse de ser perfecto (Stg 3:2).",
+          "fuentes": [
+            "kis1p_04_a#23",
+            "moodynt_01_b#7",
+            "mbib1p_01_b#26"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 2:23",
       "titulo": "No devolvía el golpe: se encomendaba al Juez",
       "notas": [
-        {"texto": "Aquí Pedro habla como testigo. Kistemaker recuerda que estuvo en el patio del sumo sacerdote (Mr 14:53-72), que supo del silencio de Jesús ante Pilato (Mt 27:12-14) y que lo vio sufrir sin quejarse; este versículo es lo que uno esperaría de un testigo que reflexiona sobre Isaías 53:7-9. El Nuevo Comentario Bíblico también nota que el lenguaje de estos versículos es muy gráfico, como de alguien que lo vio.", "fuentes": ["kis1p_04_a#24", "ncb1p_01_a#36"], "tipo": "historia"},
-        {"texto": "«Cuando le maldecían, no respondía con maldición». El verbo describe insultos repetidos, una y otra vez, y MacArthur observa que el maltrato verbal a veces duele más que el físico. Su silencio es todavía más notable porque, siendo el Hijo de Dios, podía haber destruido a sus enemigos con una palabra (Mt 26:53); en cambio aceptó el sufrimiento y pidió al Padre que los perdonara (Lc 23:34).", "fuentes": ["mac1p_05_b#21", "r1_002#14", "mbib1p_01_b#27"], "tipo": "exegesis"},
-        {"texto": "Kistemaker y MacArthur contrastan esto con Pablo: cuando el sumo sacerdote Ananías mandó que lo golpearan en la boca, Pablo respondió anunciándole el juicio de Dios (Hch 23:2-5), mientras que Jesús oró por quienes lo crucificaban, y Esteban siguió su ejemplo (Hch 7:60). La tendencia natural, dice Kistemaker, es pagar con la misma moneda.", "fuentes": ["kis1p_04_a#24", "r1_002#14"], "tipo": "aplicacion"},
-        {"texto": "¿De dónde sacaba Jesús esa calma? Pedro lo dice: «encomendaba la causa al que juzga justamente». No invocó la ira de Dios sobre sus perseguidores; sabía que su sufrimiento estaba ordenado por Dios y que debía cargar la maldición que pesaba sobre la humanidad por el pecado. Por eso puso su persona y su causa en manos del Juez justo. La Biblia MacArthur hace un juego con el verbo entregar: Jesús fue entregado a Pilato, Pilato lo entregó a los judíos, pero Él se entregaba a Dios.", "fuentes": ["kis1p_04_a#25", "mbib1p_01_b#27", "bea1p_01_b#18"], "tipo": "doctrina"},
-        {"texto": "MacArthur cita a Alan Stibbs para mostrar que Jesús reconocía a Dios como Juez justo en dos sentidos: como portador voluntario del pecado, aceptaba que el castigo era justo; y como el que no tenía pecado, confiaba en que el Padre lo iba a vindicar y lo levantaría de la tumba. El Comentario Moody añade que así cumplió a la perfección lo que Pablo enseña en Ro 12:19-20: la venganza es del Señor.", "fuentes": ["mac1p_05_b#22", "moodynt_01_b#7"], "tipo": "doctrina"}
+        {
+          "texto": "Aquí Pedro habla como testigo. Kistemaker recuerda que estuvo en el patio del sumo sacerdote (Mr 14:53-72) y supo del silencio de Jesús ante Pilato (Mt 27:12-14); el versículo es lo que uno esperaría de un testigo que reflexiona sobre Isaías 53:7-9.",
+          "fuentes": [
+            "kis1p_04_a#24",
+            "ncb1p_01_a#36"
+          ],
+          "tipo": "historia"
+        },
+        {
+          "texto": "«Cuando le maldecían, no respondía con maldición». El verbo describe insultos repetidos, una y otra vez, y MacArthur observa que el maltrato verbal a veces duele más que el físico. Su silencio es todavía más notable porque, siendo el Hijo de Dios, podía haber destruido a sus enemigos con una palabra (Mt 26:53); en cambio aceptó el sufrimiento y pidió al Padre que los perdonara (Lc 23:34).",
+          "fuentes": [
+            "mac1p_05_b#21",
+            "r1_002#14",
+            "mbib1p_01_b#27"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "MacArthur cita a Alan Stibbs: Jesús reconocía a Dios como Juez justo en dos sentidos. Como portador voluntario del pecado, aceptaba que el castigo era justo; como el que no tenía pecado, confiaba en que el Padre lo vindicaría y lo levantaría de la tumba. El Comentario Moody añade que así cumplió lo que enseña Ro 12:19-20: la venganza es del Señor.",
+          "fuentes": [
+            "kis1p_04_a#25",
+            "mbib1p_01_b#27",
+            "bea1p_01_b#18"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "MacArthur cita a Alan Stibbs para mostrar que Jesús reconocía a Dios como Juez justo en dos sentidos: como portador voluntario del pecado, aceptaba que el castigo era justo; y como el que no tenía pecado, confiaba en que el Padre lo iba a vindicar y lo levantaría de la tumba. El Comentario Moody añade que así cumplió a la perfección lo que Pablo enseña en Ro 12:19-20: la venganza es del Señor.",
+          "fuentes": [
+            "mac1p_05_b#22",
+            "moodynt_01_b#7"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 2:24",
       "titulo": "Llevó nuestros pecados sobre el madero",
       "notas": [
-        {"texto": "Matthew Henry hace notar, y Nicholson lo retoma, que este versículo está para que nadie piense, después de los vv. 21-23, que la muerte de Cristo fue solo un ejemplo de paciencia. Tuvo un propósito mucho más grande: cargar nuestros pecados, sufrir su castigo y así satisfacer la justicia de Dios. La Biblia MacArthur lo dice así: Cristo no sufrió solo como ejemplo sino, sobre todo, como sustituto, y llama a esta doctrina el corazón del evangelio.", "fuentes": ["mhenry_01_a#27", "bea1p_01_b#19", "mbib1p_01_b#28"], "tipo": "doctrina"},
-        {"texto": "«Llevó él mismo nuestros pecados en su cuerpo». El «él mismo» es enfático: el Hijo murió voluntariamente, como único sacrificio suficiente. El verbo llevar tiene, según el Nuevo Comentario Bíblico, un lenguaje deliberadamente sacrificial, y Kistemaker oye en él los ecos de Is 53:4, 11 y 12, donde el Siervo carga enfermedades, iniquidades y el pecado de muchos. MacArthur agrega que Cristo soportó no solo la muerte física sino también la terrible separación del Padre (Mt 27:46).", "fuentes": ["mac1p_05_b#24", "kis1p_04_a#30", "ncb1p_01_a#36", "kis1p_04_a#27"], "tipo": "exegesis"},
-        {"texto": "«sobre el madero». Kistemaker explica que madero es una forma de hablar del Antiguo Testamento que los apóstoles usan para la cruz (Hch 5:30; 10:39) y que remite a Dt 21:22-23: maldito por Dios es el que cuelga de un madero (Gá 3:13). Pedro da a entender que Jesús, sin pecado, cargó la maldición que pesaba sobre los culpables y se puso en su lugar.", "fuentes": ["kis1p_04_a#27"], "tipo": "exegesis"},
-        {"texto": "MacArthur se apoya en Leon Morris para mostrar el alcance de la sustitución: en la redención, Cristo pagó el precio que no podíamos pagar; en la justificación, asumió nuestra responsabilidad legal; en la reconciliación, quitó la causa de la enemistad, el pecado; en la propiciación, cargó la ira de Dios por nosotros. Y Morris concluye que si Cristo no es mi sustituto, todavía estoy en el lugar de un pecador condenado.", "fuentes": ["mac1p_05_b#23"], "tipo": "doctrina"},
-        {"texto": "El propósito: «estando muertos a los pecados, vivamos a la justicia». McConnell ve dos caras: dejar lo torcido y seguir lo recto. Kistemaker, citando a Thayer, entiende que quedamos totalmente apartados de nuestros pecados; MacArthur lo relaciona con Ro 6:3-11: unidos a Cristo en su muerte y resurrección, los creyentes no solo cambian de posición ante Dios sino también de naturaleza, y quedan libres del castigo y del dominio del pecado. Henry y la Biblia MacArthur agregan que para esa vida nueva tenemos ejemplo, motivos y también poder, por la resurrección y el Espíritu.", "fuentes": ["cbmh1p_02_a#9", "kis1p_04_a#28", "mac1p_05_b#25", "mhenry_01_a#27", "mbib1p_01_b#29"], "tipo": "doctrina"},
-        {"texto": "«Por cuya herida fuisteis sanados» cita Is 53:5. Kistemaker hace notar que Pedro pasa del nosotros de Isaías al ustedes, para hablarles directamente a sus lectores, y que el griego tiene herida en singular: la marca que deja un azote. Los esclavos castigados injustamente entenderían muy bien la imagen. Ser sanados, explica, es ser perdonados: volver a la comunión con Dios con todos los bienes de la salvación. Nicholson cita a Teodoreto: un método de curación nuevo y extraño, en el que el médico pagó el costo y el enfermo recibió la salud. Sobre si incluye la sanidad física, ver Interpretaciones.", "fuentes": ["kis1p_04_a#29", "bea1p_01_b#19", "mac1p_05_b#26"], "tipo": "exegesis"}
+        {
+          "texto": "Matthew Henry hace notar, y Nicholson lo retoma, que este versículo está para que nadie piense, después de los vv. 21-23, que la muerte de Cristo fue solo un ejemplo de paciencia. Tuvo un propósito mucho más grande: cargar nuestros pecados, sufrir su castigo y así satisfacer la justicia de Dios. La Biblia MacArthur lo dice así: Cristo no sufrió solo como ejemplo sino, sobre todo, como sustituto, y llama a esta doctrina el corazón del evangelio.",
+          "fuentes": [
+            "mhenry_01_a#27",
+            "bea1p_01_b#19",
+            "mbib1p_01_b#28"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Llevó él mismo nuestros pecados en su cuerpo». El «él mismo» es enfático: el Hijo murió voluntariamente, como único sacrificio suficiente. El verbo llevar es lenguaje deliberadamente sacrificial, y Kistemaker oye en él los ecos de Is 53:4, 11 y 12. MacArthur agrega que Cristo soportó no solo la muerte física sino la terrible separación del Padre (Mt 27:46).",
+          "fuentes": [
+            "mac1p_05_b#24",
+            "kis1p_04_a#30",
+            "ncb1p_01_a#36",
+            "kis1p_04_a#27"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«sobre el madero». Kistemaker explica que madero es una forma de hablar del Antiguo Testamento que los apóstoles usan para la cruz (Hch 5:30; 10:39) y que remite a Dt 21:22-23: maldito por Dios es el que cuelga de un madero (Gá 3:13). Pedro da a entender que Jesús, sin pecado, cargó la maldición que pesaba sobre los culpables y se puso en su lugar.",
+          "fuentes": [
+            "kis1p_04_a#27"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El propósito: «estando muertos a los pecados, vivamos a la justicia». McConnell ve dos caras: dejar lo torcido y seguir lo recto. MacArthur lo relaciona con Ro 6:3-11: unidos a Cristo en su muerte y resurrección, los creyentes cambian no solo de posición ante Dios sino de naturaleza, y quedan libres del castigo y del dominio del pecado. Henry agrega que para esa vida nueva tenemos ejemplo, motivos y también poder.",
+          "fuentes": [
+            "cbmh1p_02_a#9",
+            "mac1p_05_b#25",
+            "kis1p_04_a#28",
+            "mhenry_01_a#27",
+            "mbib1p_01_b#29"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Por cuya herida fuisteis sanados» cita Is 53:5. Kistemaker nota que Pedro pasa del nosotros de Isaías al ustedes, y que el griego dice herida en singular: la marca de un azote, algo que los esclavos castigados injustamente entendían muy bien. Ser sanados, explica, es ser perdonados y restaurados a la comunión con Dios. Nicholson cita a Teodoreto: un método de curación extraño, en el que el médico pagó el costo y el enfermo recibió la salud. Sobre la sanidad física, ver Interpretaciones.",
+          "fuentes": [
+            "kis1p_04_a#29",
+            "bea1p_01_b#19",
+            "mac1p_05_b#26"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 2:25",
       "titulo": "De ovejas perdidas al Pastor y Obispo",
       "notas": [
-        {"texto": "La frase «erais como ovejas descarriadas» retoma Is 53:6, y otra vez Pedro cambia el nosotros por el ustedes. La imagen era conocida en Israel (Sal 119:176; Ez 34:4-6) y Jesús la usó (Lc 15:4-7). Kistemaker describe a la oveja apartada: se confunde, se echa al suelo y espera hasta que el pastor la lleve de vuelta. Henry ve en la frase tres cosas: el pecado del hombre, que se extravía por su propia decisión; su desgracia, lejos del redil y expuesto a mil peligros; y su recuperación por la gracia.", "fuentes": ["kis1p_04_a#31", "mhenry_01_a#28", "mac1p_05_b#28"], "tipo": "exegesis"},
-        {"texto": "El verbo de «habéis vuelto» habla de dar la vuelta, de arrepentirse y volverse con fe a Cristo, como el hijo pródigo (Lc 15:11-32). Kistemaker pregunta si volvieron por sus propias fuerzas y responde que no: Pedro ya dijo que Dios los escogió y los llamó de las tinieblas a su luz (1P 2:9-10). Cuando uno vuelve al Pastor, el Pastor ya lo había encontrado.", "fuentes": ["mac1p_05_b#28", "mbib1p_01_b#30", "kis1p_04_a#32"], "tipo": "doctrina"},
-        {"texto": "«Pastor y Obispo de vuestras almas». Pastor es un título que el Antiguo Testamento da a Dios y al Mesías (Sal 23:1; Ez 34:23-24), y Jesús se lo aplicó al llamarse el buen pastor (Jn 10:11, 14). MacArthur resume su tarea: alimentar, guiar, proteger, limpiar y restaurar. Obispo quiere decir supervisor, el que vigila y cuida. Para la Biblia MacArthur, no había descripción más apropiada para consolar a creyentes perseguidos y calumniados.", "fuentes": ["mac1p_05_b#29", "mbib1p_01_b#30", "kis1p_04_a#33"], "tipo": "doctrina"},
-        {"texto": "Los mismos dos títulos se usan para los líderes de la iglesia (1P 5:2; Tit 1:7; Hch 20:28), y Pedro llamará a Cristo el Príncipe de los pastores (1P 5:4). McConnell agrega que el que nos redimió sigue vigilando nuestro trabajo, y a Él le vamos a rendir cuentas.", "fuentes": ["mbib1p_01_b#30", "kis1p_04_a#33", "cbmh1p_02_a#9"], "tipo": "doctrina"}
+        {
+          "texto": "La frase «erais como ovejas descarriadas» retoma Is 53:6, y otra vez Pedro pasa al ustedes. Kistemaker describe a la oveja apartada: se confunde, se echa al suelo y espera a que el pastor la lleve de vuelta. Henry ve aquí el pecado del hombre, que se extravía por decisión propia; su desgracia, lejos del redil y expuesto a mil peligros; y su recuperación por la gracia.",
+          "fuentes": [
+            "kis1p_04_a#31",
+            "mhenry_01_a#28",
+            "mac1p_05_b#28"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El verbo de «habéis vuelto» habla de dar la vuelta, de arrepentirse y volverse con fe a Cristo, como el hijo pródigo (Lc 15:11-32). Kistemaker pregunta si volvieron por sus propias fuerzas y responde que no: Pedro ya dijo que Dios los escogió y los llamó de las tinieblas a su luz (1P 2:9-10). Cuando uno vuelve al Pastor, el Pastor ya lo había encontrado.",
+          "fuentes": [
+            "mac1p_05_b#28",
+            "mbib1p_01_b#30",
+            "kis1p_04_a#32"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Pastor y Obispo de vuestras almas». Pastor es un título que el Antiguo Testamento da a Dios y al Mesías (Sal 23:1; Ez 34:23-24), y Jesús se lo aplicó (Jn 10:11, 14); en 1P 5:4 Pedro lo llamará Príncipe de los pastores. Su tarea, dice MacArthur, es alimentar, guiar, proteger y restaurar. Obispo quiere decir supervisor, el que vigila y cuida: no había descripción mejor para consolar a creyentes perseguidos.",
+          "fuentes": [
+            "mac1p_05_b#29",
+            "mbib1p_01_b#30",
+            "kis1p_04_a#33"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1P 2:21", "griego": "ὑπογραμμός", "translit": "hypogrammós", "significado": "Ejemplo; literalmente algo escrito debajo. Era el modelo de letras que el maestro daba al alumno para que lo calcara o copiara; aparece solo aquí en el Nuevo Testamento. Cristo es el modelo sobre el que trazamos la vida.", "fuentes": ["mac1p_05_b#19", "ncb1p_01_a#36", "kis1p_04_a#22", "mbib1p_01_b#25", "r1_002#11"]},
-    {"ref": "1P 2:21", "griego": "ἴχνος", "translit": "íchnos", "significado": "Huella, rastro, línea de pisadas. Seguir la pista de Jesús, que en un mundo injusto suele pasar por el sufrimiento injusto.", "fuentes": ["r1_002#12", "mac1p_05_b#19"]},
-    {"ref": "1P 2:21", "griego": "ὑπέρ", "translit": "hypér", "significado": "Por, a favor de. Según Kistemaker, en el Nuevo Testamento se usa con esta fuerza al hablar de la muerte redentora de Cristo.", "fuentes": ["kis1p_04_a#26"]},
-    {"ref": "1P 2:23", "griego": "λοιδορούμενος", "translit": "loidoroúmenos", "significado": "Insultado una y otra vez; amontonar palabras ofensivas sobre alguien. El participio presente marca la repetición.", "fuentes": ["mac1p_05_b#21", "mbib1p_01_b#27", "r1_002#14"]},
-    {"ref": "1P 2:23", "griego": "παρεδίδου", "translit": "paredídou", "significado": "Entregaba, encomendaba: poner bajo el cuidado de otro. El imperfecto indica que lo hacía una y otra vez, con cada ola de maltrato, hasta encomendar su espíritu en la cruz (Lc 23:46).", "fuentes": ["mac1p_05_b#22", "r1_002#15", "mbib1p_01_b#27"]},
-    {"ref": "1P 2:24", "griego": "ἀναφέρω", "translit": "anaphérō", "significado": "Llevar arriba, cargar: acarrear el enorme peso del pecado. Lenguaje deliberadamente sacrificial.", "fuentes": ["mac1p_05_b#24", "ncb1p_01_a#36"]},
-    {"ref": "1P 2:24", "griego": "ἀπογενόμενοι", "translit": "apogenómenoi", "significado": "Habiendo muerto, quedando lejos de. Única vez en el Nuevo Testamento; expresa que el creyente quedó apartado del castigo y del dominio del pecado.", "fuentes": ["mac1p_05_b#25", "kis1p_04_a#30", "kis1p_04_a#28"]},
-    {"ref": "1P 2:25", "griego": "ἐπεστράφητε", "translit": "epestráphēte", "significado": "Se volvieron, fueron hechos volver. Iban en la dirección equivocada y fueron detenidos y traídos de vuelta; tiene el sentido de arrepentimiento y conversión.", "fuentes": ["kis1p_04_a#35", "mac1p_05_b#28"]},
-    {"ref": "1P 2:25", "griego": "ἐπίσκοπος", "translit": "epískopos", "significado": "Supervisor, el que vigila y cuida; de ahí viene obispo. Junto con pastor describe el cuidado de Cristo y también la tarea de los ancianos.", "fuentes": ["mac1p_05_b#29", "ncb1p_01_a#36", "mbib1p_01_b#30"]}
+    {
+      "ref": "1P 2:21",
+      "griego": "ὑπογραμμός",
+      "translit": "hypogrammós",
+      "significado": "Ejemplo; literalmente algo escrito debajo: el modelo de letras que el alumno calcaba o copiaba. Solo aparece aquí en el Nuevo Testamento.",
+      "fuentes": [
+        "mac1p_05_b#19",
+        "ncb1p_01_a#36",
+        "kis1p_04_a#22",
+        "mbib1p_01_b#25",
+        "r1_002#11"
+      ]
+    },
+    {
+      "ref": "1P 2:21",
+      "griego": "ἴχνος",
+      "translit": "íchnos",
+      "significado": "Huella, rastro, línea de pisadas. Seguir la pista de Jesús, que en un mundo injusto suele pasar por el sufrimiento injusto.",
+      "fuentes": [
+        "r1_002#12",
+        "mac1p_05_b#19"
+      ]
+    },
+    {
+      "ref": "1P 2:23",
+      "griego": "λοιδορούμενος",
+      "translit": "loidoroúmenos",
+      "significado": "Insultado una y otra vez; amontonar palabras ofensivas sobre alguien. El participio presente marca la repetición.",
+      "fuentes": [
+        "mac1p_05_b#21",
+        "mbib1p_01_b#27",
+        "r1_002#14"
+      ]
+    },
+    {
+      "ref": "1P 2:23",
+      "griego": "παρεδίδου",
+      "translit": "paredídou",
+      "significado": "Entregaba, encomendaba: poner bajo el cuidado de otro. El imperfecto indica que lo hacía una y otra vez, hasta la cruz (Lc 23:46).",
+      "fuentes": [
+        "mac1p_05_b#22",
+        "r1_002#15",
+        "mbib1p_01_b#27"
+      ]
+    },
+    {
+      "ref": "1P 2:24",
+      "griego": "ἀναφέρω",
+      "translit": "anaphérō",
+      "significado": "Llevar arriba, cargar: acarrear el enorme peso del pecado. Lenguaje deliberadamente sacrificial.",
+      "fuentes": [
+        "mac1p_05_b#24",
+        "ncb1p_01_a#36"
+      ]
+    },
+    {
+      "ref": "1P 2:24",
+      "griego": "ἀπογενόμενοι",
+      "translit": "apogenómenoi",
+      "significado": "Habiendo muerto, quedando lejos de. Única vez en el Nuevo Testamento.",
+      "fuentes": [
+        "mac1p_05_b#25",
+        "kis1p_04_a#30",
+        "kis1p_04_a#28"
+      ]
+    },
+    {
+      "ref": "1P 2:25",
+      "griego": "ἐπεστράφητε",
+      "translit": "epestráphēte",
+      "significado": "Fueron hechos volver: iban en la dirección equivocada y fueron detenidos y traídos de vuelta; sugiere arrepentimiento y conversión.",
+      "fuentes": [
+        "kis1p_04_a#35",
+        "mac1p_05_b#28"
+      ]
+    },
+    {
+      "ref": "1P 2:25",
+      "griego": "ἐπίσκοπος",
+      "translit": "epískopos",
+      "significado": "Supervisor, el que vigila y cuida; de ahí viene obispo. Junto con pastor describe el cuidado de Cristo y también la tarea de los ancianos.",
+      "fuentes": [
+        "mac1p_05_b#29",
+        "ncb1p_01_a#36",
+        "mbib1p_01_b#30"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "MacArthur observa que pensamos en Jesús como el niño de Belén, el carpintero, el maestro o el sanador, y todo eso es cierto; pero hay una imagen que pesa más que las demás: el Siervo sufriente y Salvador crucificado, donde se ven juntas su deidad y su humanidad y donde terminó la expiación. Este pasaje lo muestra como ejemplo, sustituto y pastor perfecto.", "refs": ["1Co 2:2"], "fuentes": ["mac1p_05_b#17"]},
-    {"texto": "Pedro lee Isaías 53 como una profecía cumplida en Jesús. El Diccionario Mundo Hispano recuerda que el Nuevo Testamento aplica a Cristo los cantos del Siervo y que la misión del Siervo, incluida su muerte en lugar de otros, se cumple solo en Él.", "refs": ["Is 52:13-53:12", "Hch 8:32-33"], "fuentes": ["dbmh_02_b#12", "cbmh1p_02_a#8"]},
-    {"texto": "Selwyn, citado por el Comentario Moody, ve en Pedro tres facetas de la muerte de Cristo: el cordero pascual sin mancha (1P 1:19), el Siervo sufriente de Isaías 53 y la víctima que cargó nuestros pecados sobre el madero. Berkhof agrega que 1P 2:24 muestra la obra sacerdotal de Cristo: ofrecer un sacrificio por el pecado, al que apuntaban los sacrificios del Antiguo Testamento.", "refs": ["1P 1:19", "Jn 1:29", "1Co 5:7"], "fuentes": ["moodynt_01_b#8", "r1_014_b#10"]},
-    {"texto": "MacArthur señala la ironía de que el Buen Pastor sea comparado con una oveja que se lleva al matadero sin abrir la boca (Is 53:7): eso subraya su humildad al entregarse en manos de sus enemigos. El que fue oveja silenciosa es ahora el Pastor de las ovejas descarriadas.", "refs": ["Is 53:7", "Jn 10:11"], "fuentes": ["r1_002#14", "mac1p_05_b#29"]}
+    {
+      "texto": "MacArthur observa que solemos pensar en Jesús como el niño de Belén, el maestro o el sanador, y todo eso es cierto; pero la imagen que más pesa es la del Siervo sufriente y Salvador crucificado, donde se ven juntas su deidad y su humanidad. Este pasaje lo muestra como ejemplo, sustituto y pastor perfecto.",
+      "refs": [
+        "1Co 2:2"
+      ],
+      "fuentes": [
+        "mac1p_05_b#17"
+      ]
+    },
+    {
+      "texto": "Pedro lee Isaías 53 como una profecía cumplida en Jesús. El Diccionario Mundo Hispano recuerda que el Nuevo Testamento aplica a Cristo los cantos del Siervo y que la misión del Siervo, incluida su muerte en lugar de otros, se cumple solo en Él.",
+      "refs": [
+        "Is 52:13-53:12",
+        "Hch 8:32-33"
+      ],
+      "fuentes": [
+        "dbmh_02_b#12",
+        "cbmh1p_02_a#8"
+      ]
+    },
+    {
+      "texto": "Selwyn, citado por el Comentario Moody, ve en Pedro tres facetas de la muerte de Cristo: el cordero pascual sin mancha (1P 1:19), el Siervo sufriente de Isaías 53 y la víctima que cargó nuestros pecados sobre el madero. Berkhof agrega que 1P 2:24 muestra la obra sacerdotal de Cristo: ofrecer un sacrificio por el pecado, al que apuntaban los sacrificios del Antiguo Testamento.",
+      "refs": [
+        "1P 1:19",
+        "Jn 1:29",
+        "1Co 5:7"
+      ],
+      "fuentes": [
+        "moodynt_01_b#8",
+        "r1_014_b#10"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Hay sanidad física en «por cuya herida fuisteis sanados»?",
       "posturas": [
-        {"postura": "La sanidad de la que habla Pedro es espiritual: el perdón de los pecados y la restauración de la comunión con Dios. Ni Isaías ni Pedro pensaban aquí en la salud del cuerpo. La sanidad física es fruto de la obra de Cristo, pero se cumplirá en la resurrección y la gloria (Ap 21:4). MacArthur rechaza que el creyente pueda reclamar hoy una sanidad física garantizada: si así fuera, tampoco debería morir, porque Cristo venció también la muerte.", "quien": "MacArthur (comentario y Biblia de estudio)", "fuentes": ["mac1p_05_b#26", "mac1p_05_b#27", "mbib1p_01_b#29"]},
-        {"postura": "Sanados significa perdonados, en sentido figurado: restaurados a la comunión con Dios con todos los beneficios de la salvación. Henry habla de las enfermedades del alma curadas por sus llagas.", "quien": "Kistemaker; Matthew Henry", "fuentes": ["kis1p_04_a#29", "mhenry_01_a#27"]}
+        {
+          "postura": "La sanidad de la que habla Pedro es espiritual: ni Isaías ni Pedro pensaban aquí en la salud del cuerpo. La sanidad física es fruto de la obra de Cristo, pero se cumplirá en la resurrección (Ap 21:4). MacArthur rechaza que el creyente pueda reclamar hoy una sanidad física garantizada: si así fuera, tampoco debería morir, porque Cristo venció también la muerte.",
+          "quien": "MacArthur (comentario y Biblia de estudio)",
+          "fuentes": [
+            "mac1p_05_b#26",
+            "mac1p_05_b#27",
+            "mbib1p_01_b#29"
+          ]
+        },
+        {
+          "postura": "Sanados significa perdonados, en sentido figurado: restaurados a la comunión con Dios con todos los beneficios de la salvación. Henry habla de las enfermedades del alma curadas por sus llagas.",
+          "quien": "Kistemaker; Matthew Henry",
+          "fuentes": [
+            "kis1p_04_a#29",
+            "mhenry_01_a#27"
+          ]
+        }
       ],
-      "nota": "MacArthur reconoce que Mt 8:16-17 relaciona las sanidades de Jesús con Isaías 53 y que algunos concluyen de allí que hay sanidad física disponible hoy en la expiación; él entiende esas sanidades como anticipo de lo que todos los creyentes tendrán en la gloria. Los demás autores del día no discuten el punto, pero todos leen el v. 24 como sanidad del pecado."
+      "nota": "MacArthur reconoce que Mt 8:16-17 relaciona las sanidades de Jesús con Isaías 53; él las entiende como anticipo de lo que los creyentes tendrán en la gloria. Todos los autores del día leen el v. 24 como sanidad del pecado."
     },
     {
       "tema": "¿Por quiénes llevó Cristo los pecados?",
       "posturas": [
-        {"postura": "Del pronombre «nuestros» MacArthur deduce una provisión específica: la muerte de Cristo es suficiente para los pecados del mundo entero, pero se realizó eficazmente por los que habrían de creer, los elegidos (expiación particular o limitada).", "quien": "MacArthur (reformado)", "fuentes": ["mac1p_05_b#24", "mbib1p_01_b#28"]}
+        {
+          "postura": "Del pronombre «nuestros» MacArthur deduce una provisión específica: la muerte de Cristo es suficiente para los pecados del mundo entero, pero se realizó eficazmente por los que habrían de creer, los elegidos (expiación particular o limitada).",
+          "quien": "MacArthur (reformado)",
+          "fuentes": [
+            "mac1p_05_b#24",
+            "mbib1p_01_b#28"
+          ]
+        }
       ],
       "nota": "Es una cuestión discutida entre tradiciones protestantes; los demás comentaristas del día no la tratan en este pasaje. Lo que todos afirman sin reservas es que Cristo, sin pecado, cargó en la cruz el pecado de los que creen."
-    },
-    {
-      "tema": "¿Es 1P 2:21-25 un himno antiguo?",
-      "posturas": [
-        {"postura": "El pasaje sería un himno sobre Cristo que Pedro adaptó.", "quien": "Windisch y Bultmann (según Kistemaker)", "fuentes": ["kis1p_04_a#20"]},
-        {"postura": "No es un himno: su base son citas y alusiones directas a Isaías 53.", "quien": "Thomas P. Osborne (según Kistemaker)", "fuentes": ["kis1p_04_a#20"]}
-      ],
-      "nota": "Kistemaker presenta las dos opiniones sin declarar la suya."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Is 53:9", "nota": "Citado en el v. 22 para afirmar que Jesús no tuvo pecado; Pedro escribe pecado donde Isaías habla de maldad o violencia, y toma parte del texto de la Septuaginta.", "fuentes": ["kis1p_04_a#23", "r1_002#13", "mac1p_05_b#20"]},
-    {"ref": "Is 53:7", "nota": "Detrás del v. 23: el cordero que no abre la boca ante el maltrato.", "fuentes": ["mac1p_05_b#21", "r1_002#14", "ncb1p_01_a#36"]},
-    {"ref": "Is 53:4-5, 11-12", "nota": "En el v. 24: el Siervo que carga el pecado de muchos y por cuya llaga somos curados; Pedro pasa del nosotros de Isaías al ustedes.", "fuentes": ["kis1p_04_a#27", "kis1p_04_a#29", "ncb1p_01_a#36"]},
-    {"ref": "Is 53:6", "nota": "En el v. 25: las ovejas descarriadas, cuyos pecados Dios cargó sobre el Siervo.", "fuentes": ["kis1p_04_a#31", "mac1p_05_b#28"]},
-    {"ref": "Dt 21:22-23", "nota": "La palabra madero recuerda la maldición sobre el colgado, que Cristo cargó en nuestro lugar (Gá 3:13).", "fuentes": ["kis1p_04_a#27"]},
-    {"ref": "Ez 34:23-24", "nota": "Dios promete un pastor para su pueblo; el título de Pastor del v. 25 lo retoma.", "fuentes": ["mac1p_05_b#29", "mbib1p_01_b#30"]}
+    {
+      "ref": "Is 53:9",
+      "nota": "Citado en el v. 22: Jesús no tuvo pecado.",
+      "fuentes": [
+        "kis1p_04_a#23",
+        "mac1p_05_b#20"
+      ]
+    },
+    {
+      "ref": "Is 53:7",
+      "nota": "Detrás del v. 23: el cordero que calla ante el maltrato.",
+      "fuentes": [
+        "mac1p_05_b#21",
+        "r1_002#14"
+      ]
+    },
+    {
+      "ref": "Is 53:4-5, 11-12",
+      "nota": "En el v. 24: el Siervo que carga el pecado de muchos y por cuya llaga somos curados.",
+      "fuentes": [
+        "kis1p_04_a#27",
+        "kis1p_04_a#29"
+      ]
+    },
+    {
+      "ref": "Is 53:6",
+      "nota": "En el v. 25: las ovejas descarriadas.",
+      "fuentes": [
+        "kis1p_04_a#31",
+        "mac1p_05_b#28"
+      ]
+    },
+    {
+      "ref": "Dt 21:22-23",
+      "nota": "El madero recuerda la maldición sobre el colgado, que Cristo cargó (Gá 3:13).",
+      "fuentes": [
+        "kis1p_04_a#27"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Piper resume el pasaje con una idea que ordena toda la vida cristiana: primero recibimos lo que Cristo hizo en nuestro lugar, y recién entonces podemos imitarlo. La sustitución es la base de la imitación, y no al revés.", "autor": "John Piper", "obra": "¡Alégrense las naciones!", "pagina": "PDF 71", "tipo": "doctrina", "fuentes": ["r1_003#23"]},
-    {"texto": "Owen invita a contemplar a Cristo no solo para ser justificados sino como patrón de santidad: pensar en lo que era, lo que hizo y cómo se comportó en las pruebas, hasta que su imagen quede grabada en la mente; e imitar su mansedumbre, su paciencia y su silencio ante el reproche.", "autor": "John Owen", "obra": "El Espíritu Santo (versión abreviada)", "pagina": "PDF 97-98", "tipo": "aplicacion", "fuentes": ["r1_003#10"]},
-    {"texto": "MacArthur cita a Martyn Lloyd-Jones: somos como el escolar que esquiva lo difícil, pero Dios, que se interesa más por nosotros, nos hace pasar por las disciplinas de la vida. Para MacArthur, las pruebas en el trabajo son ocasiones de crecer y de mostrar el evangelio.", "autor": "John MacArthur", "obra": "1 Pedro", "pagina": "PDF 115-116", "tipo": "ilustracion", "fuentes": ["mac1p_05_b#16"]},
-    {"texto": "MacArthur recuerda al obispo reformado Hugh Latimer, quemado en 1555 junto con Nicholas Ridley: en una carta dijo que aquí no está nuestro hogar y que hay que tener siempre ante los ojos la Jerusalén celestial; ya entre las llamas animó a Ridley diciendo que ese día encendían en Inglaterra una vela que confiaba que nunca se apagaría.", "autor": "John MacArthur", "obra": "El poder del sufrimiento", "pagina": "PDF 53", "tipo": "historia", "fuentes": ["r1_002#16"]}
+    {
+      "texto": "Piper resume el pasaje con una idea que ordena toda la vida cristiana: primero recibimos lo que Cristo hizo en nuestro lugar, y recién entonces podemos imitarlo. La sustitución es la base de la imitación, y no al revés.",
+      "autor": "John Piper",
+      "obra": "¡Alégrense las naciones!",
+      "pagina": "PDF 71",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_003#23"
+      ]
+    },
+    {
+      "texto": "Owen invita a contemplar a Cristo no solo para ser justificados sino como patrón de santidad: pensar en lo que era, lo que hizo y cómo se comportó en las pruebas, hasta que su imagen quede grabada en la mente; e imitar su mansedumbre, su paciencia y su silencio ante el reproche.",
+      "autor": "John Owen",
+      "obra": "El Espíritu Santo (versión abreviada)",
+      "pagina": "PDF 97-98",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "r1_003#10"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Mr 8:34", "nota": "Seguir a Jesús es tomar la cruz; los apóstoles nunca prometieron una vida sin aflicción (Hch 14:22; Jn 16:33).", "fuentes": ["bea1p_01_b#17"]},
-    {"ref": "Ro 6:3-11", "nota": "Pablo desarrolla lo que Pedro dice en una frase: muertos al pecado y vivos para Dios por la unión con Cristo.", "fuentes": ["mac1p_05_b#25", "kis1p_04_a#28", "r1_014_a#8"]},
-    {"ref": "Jn 10:11-14", "nota": "El buen pastor que da su vida por las ovejas; Pedro lo llama Pastor y, en 1P 5:4, Príncipe de los pastores.", "fuentes": ["kis1p_04_a#33", "mac1p_05_b#29"]},
-    {"ref": "He 12:3", "nota": "Considerar al que sufrió tanta hostilidad para no cansarse; Grudem lo une a 1P 2:21 al hablar de la imitación de Cristo en el sufrimiento.", "fuentes": ["r1_014_a#14", "mac1p_05_b#18"]},
-    {"ref": "Gn 18:25", "nota": "El Juez de toda la tierra hace lo justo: la confianza de fondo cuando Jesús encomendaba su causa.", "fuentes": ["r1_002#15"]}
+    {
+      "ref": "Mr 8:34",
+      "nota": "Seguir a Jesús es tomar la cruz; los apóstoles nunca prometieron una vida sin aflicción (Hch 14:22; Jn 16:33).",
+      "fuentes": [
+        "bea1p_01_b#17"
+      ]
+    },
+    {
+      "ref": "Ro 6:3-11",
+      "nota": "Pablo desarrolla lo que Pedro dice en una frase: muertos al pecado y vivos para Dios por la unión con Cristo.",
+      "fuentes": [
+        "mac1p_05_b#25",
+        "kis1p_04_a#28",
+        "r1_014_a#8"
+      ]
+    },
+    {
+      "ref": "Jn 10:11-14",
+      "nota": "El buen pastor que da su vida por las ovejas; Pedro lo llama Pastor y, en 1P 5:4, Príncipe de los pastores.",
+      "fuentes": [
+        "kis1p_04_a#33",
+        "mac1p_05_b#29"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Antes de mirar el ejemplo, miren la cruz. Si intentan imitar a Jesús sin descansar primero en que Él cargó sus pecados, el ejemplo se vuelve una exigencia imposible. Porque Él sufrió por ustedes, pueden sufrir como Él.", "fuentes": ["r1_003#23", "mhenry_01_a#27"]},
-    {"texto": "Cuiden la boca en el conflicto. El primer lugar donde se nota el pecado es lo que decimos; y la tentación más fuerte, cuando nos ofenden, es devolver el golpe con palabras. Eso vale también entre ustedes dos: cuando uno hiere al otro con lo que dice, la respuesta de Cristo no es la revancha.", "fuentes": ["r1_002#13", "kis1p_04_a#24", "mac1p_05_b#21"]},
-    {"texto": "Aprendan a encomendar la causa una y otra vez. Jesús se entregaba a Dios con cada nueva ola de maltrato. No hace falta defenderse ni vengarse de todo: se puede resistir ese impulso por gracia y poner el asunto en manos de quien va a dar un veredicto justo (Ro 12:17-21; 1P 5:6-10).", "fuentes": ["mac1p_05_b#22", "r1_002#15"]},
-    {"texto": "No busquen el sufrimiento ni se hagan las víctimas. Pedro habla de sufrir por hacer el bien, no de un complejo de mártir. Y en la prueba hay consuelo: Cristo ya pasó por ahí, entiende y escucha con compasión sus oraciones (He 2:18; 4:15-16).", "fuentes": ["cbmh1p_02_a#7", "r1_014_a#14"]},
-    {"texto": "Cuando se sientan como la oveja tirada en el suelo, que no sabe volver, recuerden que tienen un Pastor y Obispo que vigila sus almas. Volvieron a Él porque Él los buscó primero, y sigue cuidándolos.", "fuentes": ["kis1p_04_a#31", "kis1p_04_a#32", "bea1p_01_b#20"]}
+    {
+      "texto": "Antes de mirar el ejemplo, miren la cruz. Si intentan imitar a Jesús sin descansar primero en que Él cargó sus pecados, el ejemplo se vuelve una exigencia imposible. Porque Él sufrió por ustedes, pueden sufrir como Él.",
+      "fuentes": [
+        "r1_003#23",
+        "mhenry_01_a#27"
+      ]
+    },
+    {
+      "texto": "Cuiden la boca en el conflicto. Lo primero que delata el pecado es lo que decimos, y cuando nos ofenden la tentación es devolver el golpe con palabras. Eso vale también entre ustedes dos: la respuesta de Cristo no es la revancha.",
+      "fuentes": [
+        "r1_002#13",
+        "kis1p_04_a#24",
+        "mac1p_05_b#21"
+      ]
+    },
+    {
+      "texto": "Aprendan a encomendar la causa una y otra vez. Jesús se entregaba a Dios con cada nueva ola de maltrato. No hace falta defenderse ni vengarse de todo: se puede resistir ese impulso por gracia y poner el asunto en manos de quien va a dar un veredicto justo (Ro 12:17-21; 1P 5:6-10).",
+      "fuentes": [
+        "mac1p_05_b#22",
+        "r1_002#15"
+      ]
+    },
+    {
+      "texto": "Cuando se sientan como la oveja tirada en el suelo, que no sabe volver, recuerden que tienen un Pastor y Obispo que vigila sus almas. Volvieron a Él porque Él los buscó primero, y sigue cuidándolos.",
+      "fuentes": [
+        "kis1p_04_a#31",
+        "kis1p_04_a#32",
+        "bea1p_01_b#20"
+      ]
+    }
   ],
   "para_conversar": [
     "Piper dice que la sustitución es la base de la imitación y no al revés. ¿Qué cambia en la manera de vivir la fe si se invierte ese orden?",
@@ -148,11 +527,106 @@
     "Pedro pasó de reprender a Jesús por anunciar su muerte a escribir que por su herida fuimos sanados. ¿Qué los ayudó a ustedes a entender el valor de la cruz?"
   ],
   "para_orar": "Señor Jesús, gracias porque llevaste nuestros pecados en tu cuerpo sobre la cruz y por tu herida fuimos sanados. Enséñanos a seguir tus pisadas: a cuidar nuestra boca, a no devolver mal por mal y a poner nuestra causa en manos del Padre, que juzga con justicia. Pastor y Obispo de nuestras almas, guárdanos cerca de vos.",
-  "visuales": ["dg-sufrimiento", "dg-at"],
-  "anexos": ["T1", "P1"],
+  "visuales": [
+    "dg-sufrimiento",
+    "dg-at"
+  ],
+  "anexos": [
+    "T1",
+    "P1"
+  ],
   "profundizar": [
-    {"titulo": "Ovejas: una comparación poco halagadora", "texto": "MacArthur explica por qué la imagen de las ovejas nos queda bien: son torpes y fáciles de engañar (cuenta que hay una oveja que guía a las demás al matadero), se ensucian con facilidad y no tienen cómo defenderse. Kistemaker agrega que una oveja apartada del rebaño se confunde, se echa al suelo y no se mueve hasta que el pastor la levanta y la lleva. Si Dios no hubiera cargado sobre el Siervo los pecados de su pueblo, dice MacArthur, no habría pastor que llevara al rebaño de vuelta al redil.", "fuentes": ["mac1p_05_b#29", "kis1p_04_a#31", "mac1p_05_b#28"]},
-    {"titulo": "La libertad que ofrece el evangelio", "texto": "Kistemaker sostiene que el evangelio ofrece alivio a todo el que está esclavizado por el pecado y está dispuesto a responder con fe: Cristo rompe las cadenas de todo tipo de pecador. Pone como ejemplo a Pablo, que había perseguido a la iglesia y después escribió que Cristo vino a salvar a los pecadores, de los cuales él era el primero (1Ti 1:15).", "fuentes": ["kis1p_04_a#34"]},
-    {"titulo": "Por qué Dios usa el sufrimiento", "texto": "Grudem relaciona el sufrimiento con participar de la gloria de Cristo (Ro 8:17), probablemente porque Dios nos hace más parecidos a Él y nos madura por medio de la dificultad (Stg 1:2-4; He 5:8-9). La obediencia, la confianza y la paciencia en la prueba muestran cómo es Cristo y lo honran. La Biblia MacArthur agrega que la buena conducta en esas pruebas fortalece la vida cristiana y aumenta la capacidad de glorificar a Dios para siempre.", "fuentes": ["r1_014_a#14", "mbib1p_01_b#24"]}
+    {
+      "titulo": "Ovejas: una comparación poco halagadora",
+      "texto": "MacArthur explica por qué la imagen de las ovejas nos queda bien: son torpes y fáciles de engañar (cuenta que hay una oveja que guía a las demás al matadero), se ensucian con facilidad y no tienen cómo defenderse. Kistemaker agrega que una oveja apartada del rebaño se confunde, se echa al suelo y no se mueve hasta que el pastor la levanta y la lleva. Si Dios no hubiera cargado sobre el Siervo los pecados de su pueblo, dice MacArthur, no habría pastor que llevara al rebaño de vuelta al redil.",
+      "fuentes": [
+        "mac1p_05_b#29",
+        "kis1p_04_a#31",
+        "mac1p_05_b#28"
+      ]
+    },
+    {
+      "titulo": "La libertad que ofrece el evangelio",
+      "texto": "Kistemaker sostiene que el evangelio ofrece alivio a todo el que está esclavizado por el pecado y está dispuesto a responder con fe: Cristo rompe las cadenas de todo tipo de pecador. Pone como ejemplo a Pablo, que había perseguido a la iglesia y después escribió que Cristo vino a salvar a los pecadores, de los cuales él era el primero (1Ti 1:15).",
+      "fuentes": [
+        "kis1p_04_a#34"
+      ]
+    },
+    {
+      "titulo": "Por qué Dios usa el sufrimiento",
+      "texto": "Grudem relaciona el sufrimiento con participar de la gloria de Cristo (Ro 8:17), probablemente porque Dios nos hace más parecidos a Él y nos madura por medio de la dificultad (Stg 1:2-4; He 5:8-9). La obediencia, la confianza y la paciencia en la prueba muestran cómo es Cristo y lo honran. La Biblia MacArthur agrega que la buena conducta en esas pruebas fortalece la vida cristiana y aumenta la capacidad de glorificar a Dios para siempre.",
+      "fuentes": [
+        "r1_014_a#14",
+        "mbib1p_01_b#24"
+      ]
+    },
+    {
+      "titulo": "Un llamado para todos los creyentes",
+      "texto": "Este llamado no era solo para esclavos con amos crueles. Piper hace notar que en 1P 3:9 Pedro usa la misma expresión para todos los creyentes: no devolver mal por mal, sino bendecir, porque para esto fueron llamados. La manera en que Cristo vivió, sufrió y murió pone un llamado sobre cada uno de nosotros.",
+      "fuentes": [
+        "r1_003#24"
+      ]
+    },
+    {
+      "titulo": "Jesús y Pablo ante el insulto",
+      "texto": "Kistemaker y MacArthur contrastan esto con Pablo: cuando el sumo sacerdote Ananías mandó que lo golpearan en la boca, Pablo respondió anunciándole el juicio de Dios (Hch 23:2-5), mientras que Jesús oró por quienes lo crucificaban, y Esteban siguió su ejemplo (Hch 7:60). La tendencia natural, dice Kistemaker, es pagar con la misma moneda.",
+      "fuentes": [
+        "kis1p_04_a#24",
+        "r1_002#14"
+      ]
+    },
+    {
+      "titulo": "Lo que significa la sustitución (Leon Morris)",
+      "texto": "MacArthur se apoya en Leon Morris para mostrar el alcance de la sustitución: en la redención, Cristo pagó el precio que no podíamos pagar; en la justificación, asumió nuestra responsabilidad legal; en la reconciliación, quitó la causa de la enemistad, el pecado; en la propiciación, cargó la ira de Dios por nosotros. Y Morris concluye que si Cristo no es mi sustituto, todavía estoy en el lugar de un pecador condenado.",
+      "fuentes": [
+        "mac1p_05_b#23"
+      ]
+    },
+    {
+      "titulo": "Los títulos de Cristo y los líderes de la iglesia",
+      "texto": "Los mismos dos títulos se usan para los líderes de la iglesia (1P 5:2; Tit 1:7; Hch 20:28), y Pedro llamará a Cristo el Príncipe de los pastores (1P 5:4). McConnell agrega que el que nos redimió sigue vigilando nuestro trabajo, y a Él le vamos a rendir cuentas.",
+      "fuentes": [
+        "mbib1p_01_b#30",
+        "kis1p_04_a#33",
+        "cbmh1p_02_a#9"
+      ]
+    },
+    {
+      "titulo": "La oveja silenciosa que es el Pastor",
+      "texto": "MacArthur señala la ironía de que el Buen Pastor sea comparado con una oveja que se lleva al matadero sin abrir la boca (Is 53:7): eso subraya su humildad al entregarse en manos de sus enemigos. El que fue oveja silenciosa es ahora el Pastor de las ovejas descarriadas.",
+      "fuentes": [
+        "r1_002#14",
+        "mac1p_05_b#29"
+      ]
+    },
+    {
+      "titulo": "¿Es 1P 2:21-25 un himno antiguo?",
+      "texto": "Kistemaker cuenta que algunos estudiosos (Windisch, Bultmann) creen que el pasaje es un himno sobre Cristo que Pedro adaptó, y que Thomas P. Osborne lo discute, porque la base del texto son citas y alusiones directas a Isaías 53. Kistemaker no declara su preferencia.",
+      "fuentes": [
+        "kis1p_04_a#20"
+      ]
+    },
+    {
+      "titulo": "Latimer y Ridley",
+      "texto": "MacArthur recuerda al obispo reformado Hugh Latimer, quemado en 1555 junto con Nicholas Ridley: en una carta dijo que aquí no está nuestro hogar y que hay que tener siempre ante los ojos la Jerusalén celestial; ya entre las llamas animó a Ridley diciendo que ese día encendían en Inglaterra una vela que confiaba que nunca se apagaría.",
+      "fuentes": [
+        "r1_002#16"
+      ]
+    },
+    {
+      "titulo": "Las disciplinas de la vida",
+      "texto": "MacArthur cita a Martyn Lloyd-Jones: somos como el escolar que esquiva lo difícil, pero Dios, que se interesa más por nosotros, nos hace pasar por las disciplinas de la vida. Para MacArthur, las pruebas en el trabajo son ocasiones de crecer y de mostrar el evangelio.",
+      "fuentes": [
+        "mac1p_05_b#16"
+      ]
+    },
+    {
+      "titulo": "Sin complejo de mártir",
+      "texto": "No busquen el sufrimiento ni se hagan las víctimas. Pedro habla de sufrir por hacer el bien, no de un complejo de mártir. Y en la prueba hay consuelo: Cristo ya pasó por ahí, entiende y escucha con compasión sus oraciones (He 2:18; 4:15-16).",
+      "fuentes": [
+        "cbmh1p_02_a#7",
+        "r1_014_a#14"
+      ]
+    }
   ]
 }

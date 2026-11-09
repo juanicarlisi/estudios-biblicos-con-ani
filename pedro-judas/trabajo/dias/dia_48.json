@@ -4,12 +4,20 @@
   "desde": "1J 3:11",
   "hasta": "1J 3:18",
   "titulo": "Caín y el amor de hecho y en verdad",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer Juan trazó la línea entre los hijos de Dios y los hijos del diablo: el nacido de Dios no practica el pecado. Al cerrar ese tramo agregó una segunda señal, no amar al hermano (3:10), y hoy la desarrolla. Como en toda la carta, Juan vuelve sobre las mismas verdades para que se oigan desde otro ángulo.",
-    "ahora": "El tramo tiene dos caras. En los vv. 12-17 aparece la falta de amor propia de quienes son del maligno, con Caín como retrato; y desde el v. 16 Juan muestra cómo es el amor de los hijos de Dios, medido por la cruz y bajado a la vida diaria: el plato de comida, la ropa, la plata compartida con el hermano que la necesita.",
+    "ahora": "El tramo tiene dos caras: en los vv. 12-17 la falta de amor de los que son del maligno, con Caín como retrato; y desde el v. 16 el amor de los hijos de Dios, medido por la cruz y bajado a la vida diaria.",
     "despues": "Mañana (1J 3:19-24) Juan sigue desde el v. 18: el amor practicado de hecho le da al creyente confianza delante de Dios aun cuando su propio corazón lo acusa, porque Dios es mayor que nuestro corazón.",
-    "fuentes": ["mbib1j_01_c#5", "mbib1j_01_c#6", "rich1j_01_b#11", "kis1j_04_a#25"]
+    "fuentes": [
+      "mbib1j_01_c#5",
+      "mbib1j_01_c#6",
+      "rich1j_01_b#11",
+      "kis1j_04_a#25"
+    ]
   },
   "versiculo_clave": {
     "ref": "1J 3:16",
@@ -17,139 +25,522 @@
   },
   "panorama": {
     "texto": "Juan vuelve al mensaje que los lectores oyeron desde que recibieron el evangelio: amarse unos a otros. Para mostrar lo contrario elige a Caín, el único personaje del Antiguo Testamento que nombra en toda la carta: pertenecía al maligno y mató a su hermano porque la vida justa de Abel lo dejaba en evidencia. De ahí salen tres pasos: no extrañarse de que el mundo odie a los creyentes, saber que el amor a los hermanos es la evidencia (no la causa) de haber pasado de muerte a vida, y entender que el odio ya es homicidio a los ojos de Dios. Frente a Caín está Cristo, que puso su vida por nosotros; y ese amor no se queda en grandes gestos heroicos, sino que se prueba en algo tan común como abrir el corazón y el bolsillo al hermano necesitado. El amor verdadero, concluye Juan, no es de palabras sino de hechos y de verdad.",
-    "fuentes": ["kis1j_04_a#25", "cbmh1j_02#2", "kis1j_04_a#31", "mac1j_04_b#24", "rich1j_01_b#10", "mac1j_04_b#22"]
+    "fuentes": [
+      "kis1j_04_a#25",
+      "cbmh1j_02#2",
+      "kis1j_04_a#31",
+      "mac1j_04_b#24",
+      "rich1j_01_b#10",
+      "mac1j_04_b#22"
+    ]
   },
   "secciones": [
     {
       "rango": "1J 3:11",
       "titulo": "El mensaje de siempre: amarnos unos a otros",
       "notas": [
-        {"texto": "Juan retoma lo que ya había dicho en 2:7 con una fórmula conocida: «este es el mensaje que habéis oído desde el principio». El principio, acá, es el momento en que los lectores oyeron por primera vez el evangelio. Kistemaker señala que Juan repite sus temas principales a propósito para que se graben, y que este mandamiento es fundamental para la fe cristiana (Jn 13:34; 15:12; 1J 3:23): nunca fue un agregado tardío de la revelación.", "fuentes": ["kis1j_04_a#25", "mac1j_04_b#15", "mbib1j_01_c#4"], "tipo": "exegesis"},
-        {"texto": "Bedford (Comentario Mundo Hispano) hace notar la gramática: «habéis oído» mira a una acción completa en el pasado, mientras «que nos amemos» está en presente, es decir, un mandato continuo, parte integral del evangelio. Agrega un matiz: aunque «desde el principio» apunta a la predicación que recibieron, el contexto que sigue (Caín y su hermano) evoca también el comienzo de la historia humana. Las raíces del mandato están en las palabras de Jesús en el aposento alto (Jn 13:34-35; 15:12, 17).", "fuentes": ["cbmh1j_02#1"], "tipo": "exegesis"},
-        {"texto": "¿Por qué insistir en algo tan básico? MacArthur piensa que los falsos maestros, al parecer, enseñaban que el amor fraternal no era esencial para la salvación, y que sumaban esa falta de amor a su error sobre Cristo y a su desobediencia. Él mismo lo presenta como una inferencia («al parecer»). Por eso Juan los lleva de vuelta al mensaje apostólico original, que incluía la verdad sobre Cristo, la condición perdida del hombre y la vida recta.", "fuentes": ["mac1j_04_b#15", "mac1j_04_b#16", "mbib1j_01_c#4"], "tipo": "contexto"},
-        {"texto": "Varios autores coinciden en que el amor no es una opción ni un tema periférico sino el meollo del mensaje cristiano: el primer mandamiento, el motor de la vida cristiana y la marca de los discípulos ante el mundo (Jn 13:35). Para quien nació de nuevo, la nueva naturaleza no solo produce santidad sino amor como rasgo habitual.", "fuentes": ["cbmh1j_02#1", "ncb1j_01_a#34", "mbib1j_01_c#4"], "tipo": "doctrina"}
+        {
+          "texto": "Juan retoma lo que ya había dicho en 2:7 con una fórmula conocida: «este es el mensaje que habéis oído desde el principio». El principio, acá, es el momento en que los lectores oyeron por primera vez el evangelio. Kistemaker señala que Juan repite sus temas principales a propósito para que se graben, y que este mandamiento es fundamental para la fe cristiana (Jn 13:34; 15:12; 1J 3:23): nunca fue un agregado tardío de la revelación.",
+          "fuentes": [
+            "kis1j_04_a#25",
+            "mac1j_04_b#15",
+            "mbib1j_01_c#4"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Bedford (Comentario Mundo Hispano) hace notar la gramática: «habéis oído» mira a algo ya completo, mientras «que nos amemos» está en presente: un mandato continuo. Las raíces están en las palabras de Jesús en el aposento alto (Jn 13:34-35; 15:12, 17), y el amor no es un tema periférico sino el motor de la vida cristiana.",
+          "fuentes": [
+            "cbmh1j_02#1"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Por qué insistir en algo tan básico? MacArthur piensa que los falsos maestros, al parecer, enseñaban que el amor fraternal no era esencial para la salvación, y que sumaban esa falta de amor a su error sobre Cristo y a su desobediencia. Él mismo lo presenta como una inferencia («al parecer»). Por eso Juan los lleva de vuelta al mensaje apostólico original, que incluía la verdad sobre Cristo, la condición perdida del hombre y la vida recta.",
+          "fuentes": [
+            "mac1j_04_b#15",
+            "mac1j_04_b#16",
+            "mbib1j_01_c#4"
+          ],
+          "tipo": "contexto"
+        }
       ]
     },
     {
       "rango": "1J 3:12",
       "titulo": "No como Caín: del maligno y homicida",
       "notas": [
-        {"texto": "Caín es el único nombre del Antiguo Testamento que aparece en toda la carta (cf. Gn 4:8). Juan lo menciona a él y no a Abel, y dice de él solo dos cosas: era del maligno y mató a su hermano. Bedford observa que Juan cava más hondo que otros textos que hablan de Caín (Heb 11:4; Jd 11): no se queda en el hecho sino que muestra su raíz. Se actúa según lo que se es.", "fuentes": ["kis1j_04_a#26", "kis1j_04_a#28", "cbmh1j_02#2", "mac1j_04_b#18"], "tipo": "exegesis"},
-        {"texto": "El orden importa. Kistemaker cita a Glenn Barker: Caín no se volvió hijo del diablo por matar a su hermano; mató porque ya lo era, y sus obras malas culminaron en ese crimen. Richards lo dice parecido: el homicidio no lo llevó a Satanás, mostró cuán preso ya estaba. El diablo, por su parte, fue homicida desde el principio (Jn 8:44), y la misma palabra que Juan usa para malas es la que usa para el maligno.", "fuentes": ["kis1j_04_a#26", "rich1j_01_b#10", "kis1j_04_a#29", "cbmh1j_02#2"], "tipo": "doctrina"},
-        {"texto": "Llama la atención que Caín era religioso: adoraba y presentaba ofrendas. La Biblia de estudio MacArthur lo describe como un adorador aparente cuyas acciones revelaron que por dentro era hijo del diablo, y Blaney (Beacon) destaca que el pleito entre los hermanos nació de una cuestión religiosa. Wiersbe saca la conclusión: la prueba no es la religiosidad sino el amor verdadero a Dios y a sus hijos. Sobre qué falló en la ofrenda de Caín, ver Interpretaciones.", "fuentes": ["mbib1j_01_c#6", "bea1j_01_b#27", "r1_007_b#16"], "tipo": "personaje"},
-        {"texto": "La pregunta de Juan, «¿Y por qué causa le mató?», tiene una respuesta incómoda: «Porque sus obras eran malas, y las de su hermano justas». Abel no le había hecho nada. El Nuevo Comentario Bíblico lo llama una crítica aguda a la naturaleza humana: los malvados no aman lo bueno cuando lo ven; lo bueno los reprocha y lo crucifican. Según Richards, la bondad de Abel dejó en evidencia el pecado de Caín, que en vez de reconocerlo lo escondió, convirtió su vergüenza en enojo y mató por rencor. Bedford y la Biblia de estudio MacArthur ponen los celos detrás del odio.", "fuentes": ["ncb1j_01_a#34", "rich1j_01_b#10", "cbmh1j_02#2", "mbib1j_01_c#6", "mac1j_04_b#20"], "tipo": "exegesis"},
-        {"texto": "Kœchlin, comentando Génesis 4, ve a Caín como el antepasado de los que se apoyan en su propia justicia y a Abel como el fundador de la descendencia de la fe (Heb 11:4). Según él y según MacArthur, el mismo mecanismo se repite en la historia: los justos, sin decir nada, exponen a los injustos, como pasó con Juan el Bautista y con Esteban (Mt 14:3-5; Hch 7:51-60) y, sobre todo, con Jesús.", "fuentes": ["r1_011#15", "mac1j_04_b#20"], "tipo": "conexion"}
+        {
+          "texto": "Caín es el único nombre del Antiguo Testamento que aparece en toda la carta (cf. Gn 4:8). Juan lo menciona a él y no a Abel, y dice de él solo dos cosas: era del maligno y mató a su hermano. Bedford observa que Juan cava más hondo que otros textos que hablan de Caín (Heb 11:4; Jd 11): no se queda en el hecho sino que muestra su raíz. Se actúa según lo que se es.",
+          "fuentes": [
+            "kis1j_04_a#26",
+            "kis1j_04_a#28",
+            "cbmh1j_02#2",
+            "mac1j_04_b#18"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El orden importa. Kistemaker cita a Glenn Barker: Caín no se volvió hijo del diablo por matar a su hermano; mató porque ya lo era, y sus obras malas culminaron en ese crimen. Richards lo dice parecido: el homicidio no lo llevó a Satanás, mostró cuán preso ya estaba. El diablo, por su parte, fue homicida desde el principio (Jn 8:44), y la misma palabra que Juan usa para malas es la que usa para el maligno.",
+          "fuentes": [
+            "kis1j_04_a#26",
+            "rich1j_01_b#10",
+            "kis1j_04_a#29",
+            "cbmh1j_02#2"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Llama la atención que Caín era religioso: adoraba y presentaba ofrendas. La Biblia de estudio MacArthur lo describe como un adorador aparente cuyas acciones revelaron que por dentro era hijo del diablo, y Blaney (Beacon) destaca que el pleito entre los hermanos nació de una cuestión religiosa. Wiersbe saca la conclusión: la prueba no es la religiosidad sino el amor verdadero a Dios y a sus hijos. Sobre qué falló en la ofrenda de Caín, ver Interpretaciones.",
+          "fuentes": [
+            "mbib1j_01_c#6",
+            "bea1j_01_b#27",
+            "r1_007_b#16"
+          ],
+          "tipo": "personaje"
+        },
+        {
+          "texto": "La pregunta de Juan, «¿Y por qué causa le mató?», tiene una respuesta incómoda: Abel no le había hecho nada; sus obras justas dejaban en evidencia las malas de Caín. El Nuevo Comentario Bíblico lo llama una crítica aguda a la naturaleza humana: los malvados no aman lo bueno cuando lo ven, porque les es un reproche. Según Richards, Caín, en vez de reconocer su pecado, convirtió su vergüenza en enojo y mató por rencor; Bedford y la Biblia de estudio MacArthur ponen los celos detrás del odio. MacArthur agrega que lo mismo les pasó a Juan el Bautista y a Esteban (Mt 14:3-5; Hch 7:51-60).",
+          "fuentes": [
+            "ncb1j_01_a#34",
+            "rich1j_01_b#10",
+            "cbmh1j_02#2",
+            "mbib1j_01_c#6",
+            "mac1j_04_b#20"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 3:13-14",
       "titulo": "El mundo odia, los hermanos aman",
       "notas": [
-        {"texto": "«Hermanos míos, no os extrañéis si el mundo os aborrece». Kistemaker observa que es la única vez que Juan dice «hermanos míos»: de ordinario habla como padre espiritual («hijitos», «amados»), pero acá se pone a la par, como condiscípulo que soporta con ellos la oposición. Los lectores estaban desconcertados: habían ayudado y amado a la gente que los rodeaba y recibían odio. Juan les dice que dejen de sorprenderse, porque el mundo está lleno de descendientes de Caín; Jesús ya lo había anunciado (Jn 15:18).", "fuentes": ["kis1j_04_a#30", "ncb1j_01_a#34", "moodynt_02_c#24"], "tipo": "exegesis"},
-        {"texto": "La luz expone y la oscuridad reacciona (Jn 3:19-20). MacArthur y Mayhue cuentan esto entre las pruebas de la fe genuina: el creyente que rechaza los valores pecaminosos atrae el mismo rechazo que Cristo. Pero el Comentario Moody aclara un punto clave: la prueba del nuevo nacimiento no es que el mundo nos odie, sino que amemos a los hermanos. Matthew Henry agrega que quien conoce el corazón humano no se asombra de esa enemistad.", "fuentes": ["r1_018_a#23", "moodynt_02_c#24", "mhenry_01_c#22", "mbib1j_01_c#7"], "tipo": "aplicacion"},
-        {"texto": "«Nosotros sabemos que hemos pasado de muerte a vida». El «nosotros» es enfático y apunta a la seguridad personal de la salvación. El verbo está en perfecto: una mudanza ya hecha, con efecto que dura. Las preposiciones marcan la salida de un ámbito y la entrada en otro; Juan usa el mismo lenguaje de Jesús en Jn 5:24. Vida y muerte no son acá estados biológicos sino dos dominios espirituales.", "fuentes": ["cbmh1j_02#3", "kis1j_04_a#32", "ncb1j_01_a#34"], "tipo": "exegesis"},
-        {"texto": "Este versículo es decisivo, y los autores coinciden en cómo leerlo: Juan no dice que amamos para pasar a la vida, sino que amamos porque ya pasamos. Kistemaker, citando a Marshall, y Bedford lo resumen igual: el amor a los hermanos es la evidencia, no el fundamento, de la vida espiritual. Es Dios quien sacó a los creyentes de la muerte (Ef 2:1, 5), así que nadie puede mirar desde arriba a los que siguen muertos. Donde falta el amor, el odio llena el vacío.", "fuentes": ["kis1j_04_a#31", "cbmh1j_02#3", "mac1j_04_b#21"], "tipo": "doctrina"},
-        {"texto": "Blaney cita a Plummer con una imagen útil: vida y amor son dos caras de la misma realidad, como en el cuerpo la vida y el crecimiento; una es el estado y la otra la actividad. Por eso el que no ama «permanece en muerte»: sigue donde estaba. Henry aclara de qué amor se trata: no del entusiasmo por el propio partido o por los de la misma denominación, sino del amor a todos los que son de Cristo.", "fuentes": ["bea1j_02_a#1", "mhenry_01_c#22", "ncb1j_01_a#34", "mbib1j_01_c#8"], "tipo": "doctrina"}
+        {
+          "texto": "«Hermanos míos, no os extrañéis si el mundo os aborrece». Kistemaker observa que es la única vez que Juan dice «hermanos míos»: de ordinario habla como padre espiritual («hijitos», «amados»), pero acá se pone a la par, como condiscípulo que soporta con ellos la oposición. Los lectores estaban desconcertados: habían ayudado y amado a la gente que los rodeaba y recibían odio. Juan les dice que dejen de sorprenderse, porque el mundo está lleno de descendientes de Caín; Jesús ya lo había anunciado (Jn 15:18).",
+          "fuentes": [
+            "kis1j_04_a#30",
+            "ncb1j_01_a#34",
+            "moodynt_02_c#24"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La luz expone y la oscuridad reacciona (Jn 3:19-20): MacArthur y Mayhue cuentan este rechazo entre las marcas de la fe genuina. Pero el Comentario Moody aclara un punto clave: la prueba del nuevo nacimiento no es que el mundo nos odie, sino que amemos a los hermanos.",
+          "fuentes": [
+            "r1_018_a#23",
+            "moodynt_02_c#24"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "«Nosotros sabemos que hemos pasado de muerte a vida». El «nosotros» es enfático y apunta a la seguridad personal de la salvación. El verbo está en perfecto: una mudanza ya hecha, con efecto que dura. Las preposiciones marcan la salida de un ámbito y la entrada en otro; Juan usa el mismo lenguaje de Jesús en Jn 5:24. Vida y muerte no son acá estados biológicos sino dos dominios espirituales.",
+          "fuentes": [
+            "cbmh1j_02#3",
+            "kis1j_04_a#32",
+            "ncb1j_01_a#34"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Este versículo es decisivo, y los autores coinciden en cómo leerlo: Juan no dice que amamos para pasar a la vida, sino que amamos porque ya pasamos. Kistemaker, citando a Marshall, y Bedford lo resumen igual: el amor a los hermanos es la evidencia, no el fundamento, de la vida espiritual. Es Dios quien sacó a los creyentes de la muerte (Ef 2:1, 5), así que nadie puede mirar desde arriba a los que siguen muertos. Donde falta el amor, el odio llena el vacío.",
+          "fuentes": [
+            "kis1j_04_a#31",
+            "cbmh1j_02#3",
+            "mac1j_04_b#21"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Blaney cita a Plummer: vida y amor son dos caras de la misma realidad, como en el cuerpo la vida y el crecimiento. Por eso el que no ama «permanece en muerte»: sigue donde estaba. Henry aclara que no se trata del entusiasmo por el propio grupo o denominación, sino del amor a todos los que son de Cristo.",
+          "fuentes": [
+            "bea1j_02_a#1",
+            "mhenry_01_c#22",
+            "ncb1j_01_a#34",
+            "mbib1j_01_c#8"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 3:15",
       "titulo": "El odio es homicidio en semilla",
       "notas": [
-        {"texto": "Juan alude a Caín sin nombrarlo y extiende el título de homicida a cualquiera que odia a su hermano. Es el mismo camino que Jesús abrió en el Sermón del Monte (Mt 5:21-22): Dios mira el corazón, y para él la actitud pesa como el acto. El odio es la semilla del homicidio, y Bedford advierte que se puede matar sin armas: el odio mata el buen nombre de otro, la comunión en el hogar y las relaciones entre creyentes.", "fuentes": ["kis1j_04_a#33", "mac1j_04_b#22", "mbib1j_01_c#9", "ncb1j_01_a#35", "cbmh1j_02#2"], "tipo": "doctrina"},
-        {"texto": "Kistemaker recoge una observación de Calvino que lleva la idea hasta lo cotidiano: si deseamos que a nuestro hermano le pase algún mal, aunque sea por mano de otro, ya somos homicidas. El participio griego de «aborrece» describe una actitud que dura, no un enojo pasajero.", "fuentes": ["kis1j_04_a#33", "kis1j_04_a#34"], "tipo": "aplicacion"},
-        {"texto": "«Ningún homicida tiene vida eterna permanente en él». MacArthur y el Nuevo Comentario Bíblico aclaran lo que esto no dice: no afirma que un creyente jamás pueda cometer un homicidio ni que un homicida no pueda arrepentirse y ser perdonado. Lo que afirma es que el odio habitual y la vida eterna se excluyen: quien se caracteriza por el odio muestra un corazón no regenerado y, si no se arrepiente, se pierde. El cristiano, en cambio, ya tiene vida eterna en principio (Jn 3:36; 17:3).", "fuentes": ["mac1j_04_b#22", "ncb1j_01_a#35", "kis1j_04_a#33", "bea1j_02_a#1"], "tipo": "doctrina"}
+        {
+          "texto": "Juan alude a Caín sin nombrarlo y extiende el título de homicida a cualquiera que odia a su hermano. Es el mismo camino que Jesús abrió en el Sermón del Monte (Mt 5:21-22): Dios mira el corazón, y para él la actitud pesa como el acto. El odio es la semilla del homicidio, y Bedford advierte que se puede matar sin armas: el odio mata el buen nombre de otro, la comunión en el hogar y las relaciones entre creyentes.",
+          "fuentes": [
+            "kis1j_04_a#33",
+            "mac1j_04_b#22",
+            "mbib1j_01_c#9",
+            "ncb1j_01_a#35",
+            "cbmh1j_02#2"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Kistemaker recoge una observación de Calvino que lleva la idea hasta lo cotidiano: si deseamos que a nuestro hermano le pase algún mal, aunque sea por mano de otro, ya somos homicidas. El participio griego de «aborrece» describe una actitud que dura, no un enojo pasajero.",
+          "fuentes": [
+            "kis1j_04_a#33",
+            "kis1j_04_a#34"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "«Ningún homicida tiene vida eterna permanente en él». MacArthur y el Nuevo Comentario Bíblico aclaran lo que esto no dice: no afirma que un creyente jamás pueda cometer un homicidio ni que un homicida no pueda arrepentirse y ser perdonado. Lo que afirma es que el odio habitual y la vida eterna se excluyen: quien se caracteriza por el odio muestra un corazón no regenerado y, si no se arrepiente, se pierde. El cristiano, en cambio, ya tiene vida eterna en principio (Jn 3:36; 17:3).",
+          "fuentes": [
+            "mac1j_04_b#22",
+            "ncb1j_01_a#35",
+            "kis1j_04_a#33",
+            "bea1j_02_a#1"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1J 3:16",
       "titulo": "El amor tiene forma de cruz",
       "notas": [
-        {"texto": "Para decir qué es el amor, Juan no busca ejemplos de la vida diaria sino el supremo: «él puso su vida por nosotros». El «él» no se nombra, pero no hay duda de que es Jesús. Blaney señala que el griego no dice «el amor de Dios», como agregan algunas versiones: habla del amor en sí, en su expresión más alta. El perfecto «hemos conocido» indica una lección del evangelio bien aprendida.", "fuentes": ["kis1j_04_a#35", "ncb1j_01_b#1", "bea1j_02_a#2", "kis1j_04_a#36"], "tipo": "exegesis"},
-        {"texto": "«Poner la vida» es una expresión propia de Juan (Jn 10:11, 15, 17-18; 15:13) que sugiere despojarse de algo valioso. Kistemaker, con Guthrie, subraya que no fue una muerte pasiva, como la de un animal sacrificado, sino activa y voluntaria, movida por amor, sabiendo que había venido para eso.", "fuentes": ["mbib1j_01_c#10", "mac1j_04_b#24", "kis1j_04_a#35"], "tipo": "cristo"},
-        {"texto": "La segunda mitad saca la consecuencia: «también nosotros debemos poner nuestras vidas por los hermanos». El verbo griego expresa una obligación moral, una deuda, no una necesidad mecánica. Kistemaker lo entiende como estar dispuestos a perder la vida si lo piden el honor de Dios, el avance de la iglesia o la necesidad de su pueblo. El Nuevo Comentario Bíblico recuerda que dar la vida literalmente ocurrió pocas veces aun en el siglo I; pero esa calidad de amor se pide siempre, y tiene otros caminos que se presentan todos los días.", "fuentes": ["kis1j_04_a#36", "kis1j_04_a#35", "ncb1j_01_b#1", "cbmh1j_02#5"], "tipo": "exegesis"}
+        {
+          "texto": "Para decir qué es el amor, Juan no busca ejemplos de la vida diaria sino el supremo: «él puso su vida por nosotros». El «él» no se nombra, pero no hay duda de que es Jesús. Blaney señala que el griego no dice «el amor de Dios», como agregan algunas versiones: habla del amor en sí, en su expresión más alta. El perfecto «hemos conocido» indica una lección del evangelio bien aprendida.",
+          "fuentes": [
+            "kis1j_04_a#35",
+            "ncb1j_01_b#1",
+            "bea1j_02_a#2",
+            "kis1j_04_a#36"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Poner la vida» es una expresión propia de Juan (Jn 10:11, 15, 17-18; 15:13) que sugiere despojarse de algo valioso. Kistemaker, con Guthrie, subraya que no fue una muerte pasiva, como la de un animal sacrificado, sino activa y voluntaria, movida por amor, sabiendo que había venido para eso.",
+          "fuentes": [
+            "mbib1j_01_c#10",
+            "mac1j_04_b#24",
+            "kis1j_04_a#35"
+          ],
+          "tipo": "cristo"
+        },
+        {
+          "texto": "La segunda mitad saca la consecuencia: «también nosotros debemos poner nuestras vidas por los hermanos». El verbo griego expresa una obligación moral, una deuda, no una necesidad mecánica. Kistemaker lo entiende como estar dispuestos a perder la vida si lo piden el honor de Dios, el avance de la iglesia o la necesidad de su pueblo. El Nuevo Comentario Bíblico recuerda que dar la vida literalmente ocurrió pocas veces aun en el siglo I; pero esa calidad de amor se pide siempre, y tiene otros caminos que se presentan todos los días.",
+          "fuentes": [
+            "kis1j_04_a#36",
+            "kis1j_04_a#35",
+            "ncb1j_01_b#1",
+            "cbmh1j_02#5"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1J 3:17-18",
       "titulo": "El amor que abre el corazón y la mano",
       "notas": [
-        {"texto": "Westcott, citado en el Comentario Moody, ve aquí una pedagogía de Juan: es fácil soñar con heroísmos que casi nunca llegan; la prueba que sí está a nuestro alcance no es morir por otro, sino compartir con él lo necesario para vivir. Por eso Juan pasa de la cruz al plato de comida.", "fuentes": ["moodynt_02_c#25", "kis1j_04_a#37", "mbib1j_01_c#11"], "tipo": "exegesis"},
-        {"texto": "Cada palabra del v. 17 suma. «Bienes de este mundo» son los recursos comunes para vivir (comida, ropa, dinero): no hace falta ser rico para compartir. «Ve» no es una mirada de paso, sino mirar lo suficiente como para conocer la situación; y aun así el hombre «cierra contra él su corazón», literalmente sus entrañas, que para los cristianos son el lugar de la compasión. La imagen es la de alguien que entiende bien la necesidad y decide no dejarse tocar (cf. Dt 15:7-11; Stg 2:15-17).", "fuentes": ["ncb1j_01_b#1", "cbmh1j_02#5", "kis1j_04_a#37", "moodynt_02_c#25"], "tipo": "exegesis"},
-        {"texto": "La pregunta «¿cómo mora el amor de Dios en él?» funciona, según Kistemaker, casi como una exclamación: es imposible que el amor de Dios gobierne a esa persona. Henry lo pone en términos de prioridades: la prueba es si el apego a los bienes pesa más que la compasión por el hermano. La Biblia de estudio MacArthur llega a decir que, donde ese amor práctico no existe, es dudoso que la persona haya sido adoptada como hija de Dios. Sobre qué significa exactamente «el amor de Dios», ver Interpretaciones.", "fuentes": ["kis1j_04_a#37", "mhenry_01_c#23", "mbib1j_01_c#11"], "tipo": "doctrina"},
-        {"texto": "Con «Hijitos míos» Juan suaviza el tono y cierra: «no amemos de palabra ni de lengua, sino de hecho y en verdad». Los dos pares se corresponden: a la palabra se opone el hecho y a la lengua, la verdad. Blaney (con Haupt) explica que los hechos siempre hacen falta, mientras que las expresiones de cariño pueden faltar si el amor es real por dentro; y advierte contra resolver el deber con frases piadosas o una carta de condolencia. Kistemaker hace notar que Juan termina con «verdad», palabra que remite a Jesús (Jn 14:6).", "fuentes": ["bea1j_02_a#4", "bea1j_02_a#5", "kis1j_04_a#40", "ncb1j_01_b#1"], "tipo": "exegesis"},
-        {"texto": "Kistemaker compara este cierre con Santiago: lo que Santiago dice de la fe (Stg 2:20), Juan lo dice del amor; los dos necesitan hechos para mostrar que son genuinos. Richards lo formula así: el amor bíblico no es sentimiento ni intención, sino una elección que se convierte en un curso de acción.", "fuentes": ["kis1j_04_a#40", "rich1j_01_b#11", "mac1j_04_b#24", "mbib1j_01_c#12"], "tipo": "doctrina"}
+        {
+          "texto": "Westcott, citado en el Comentario Moody, ve aquí una pedagogía de Juan: es fácil soñar con heroísmos que casi nunca llegan; la prueba que sí está a nuestro alcance no es morir por otro, sino compartir con él lo necesario para vivir. Por eso Juan pasa de la cruz al plato de comida.",
+          "fuentes": [
+            "moodynt_02_c#25",
+            "kis1j_04_a#37",
+            "mbib1j_01_c#11"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Cada palabra del v. 17 suma. «Bienes de este mundo» son los recursos comunes para vivir: no hace falta ser rico para compartir. «Ve» no es una mirada de paso, sino mirar lo suficiente para conocer la situación; y aun así el hombre «cierra contra él su corazón» (literalmente, sus entrañas). Entiende la necesidad y decide no dejarse tocar (cf. Dt 15:7-11; Stg 2:15-17).",
+          "fuentes": [
+            "ncb1j_01_b#1",
+            "cbmh1j_02#5",
+            "kis1j_04_a#37",
+            "moodynt_02_c#25"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La pregunta «¿cómo mora el amor de Dios en él?» funciona, según Kistemaker, casi como una exclamación: es imposible que el amor de Dios gobierne a esa persona. Henry lo pone en términos de prioridades: la prueba es si el apego a los bienes pesa más que la compasión por el hermano. La Biblia de estudio MacArthur llega a decir que, donde ese amor práctico no existe, es dudoso que la persona haya sido adoptada como hija de Dios. Sobre qué significa exactamente «el amor de Dios», ver Interpretaciones.",
+          "fuentes": [
+            "kis1j_04_a#37",
+            "mhenry_01_c#23",
+            "mbib1j_01_c#11"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Con «Hijitos míos» Juan suaviza el tono y cierra: «no amemos de palabra ni de lengua, sino de hecho y en verdad». Los dos pares se corresponden: a la palabra se opone el hecho y a la lengua, la verdad. Blaney (con Haupt) explica que los hechos siempre hacen falta, mientras que las expresiones de cariño pueden faltar si el amor es real por dentro; y advierte contra resolver el deber con frases piadosas o una carta de condolencia. Kistemaker hace notar que Juan termina con «verdad», palabra que remite a Jesús (Jn 14:6).",
+          "fuentes": [
+            "bea1j_02_a#4",
+            "bea1j_02_a#5",
+            "kis1j_04_a#40",
+            "ncb1j_01_b#1"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Kistemaker compara este cierre con Santiago (Stg 2:20): lo que Santiago dice de la fe, Juan lo dice del amor; los dos necesitan hechos para ser genuinos. Para Richards, el amor bíblico no es sentimiento sino una elección que se vuelve acción.",
+          "fuentes": [
+            "kis1j_04_a#40",
+            "rich1j_01_b#11",
+            "mac1j_04_b#24",
+            "mbib1j_01_c#12"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1J 3:12", "griego": "ἔσφαξεν", "translit": "ésphaxen", "significado": "Mató, de σφάζω: originalmente cortar el cuello, degollar; luego matar con violencia. Se usaba para animales sacrificados. Fuera de este versículo, en el Nuevo Testamento aparece solo en Apocalipsis. Kistemaker nota que muchas traducciones evitan el sentido literal.", "fuentes": ["kis1j_04_a#27", "moodynt_02_c#24", "mac1j_04_b#19"]},
-    {"ref": "1J 3:12", "griego": "πονηρός", "translit": "ponērós", "significado": "Malo, maligno: una maldad activa y decidida que se opone al bien, más fuerte que la simple corrupción. Juan usa la misma palabra para el maligno (2:13-14; 5:18-19), de modo que las obras malas de Caín tienen su origen allí.", "fuentes": ["mac1j_04_b#19", "kis1j_04_a#29"]},
-    {"ref": "1J 3:14", "griego": "μεταβεβήκαμεν", "translit": "metabebḗkamen", "significado": "Hemos pasado: moverse de un lugar a otro, como una mudanza. El perfecto indica un paso ya cumplido cuyos efectos siguen.", "fuentes": ["kis1j_04_a#32", "cbmh1j_02#3"]},
-    {"ref": "1J 3:15", "griego": "ἀνθρωποκτόνος", "translit": "anthrōpoktónos", "significado": "Homicida, compuesto de hombre y matar. Jesús usa la misma palabra para el diablo en Jn 8:44.", "fuentes": ["kis1j_04_a#34", "kis1j_04_a#33"]},
-    {"ref": "1J 3:16", "griego": "ὀφείλομεν", "translit": "opheílomen", "significado": "Debemos: obligación moral, como una deuda, distinta de la necesidad casi física que expresa otro verbo griego (δεῖ), según Bengel.", "fuentes": ["kis1j_04_a#36"]},
-    {"ref": "1J 3:17", "griego": "σπλάγχνα", "translit": "splánchna", "significado": "Entrañas, que la RVR1960 traduce corazón: para los griegos, sede de las emociones; para los cristianos, la expresión habla de compasión.", "fuentes": ["ncb1j_01_b#1", "bea1j_02_a#3"]}
+    {
+      "ref": "1J 3:12",
+      "griego": "ἔσφαξεν",
+      "translit": "ésphaxen",
+      "significado": "Mató, de σφάζω: originalmente cortar el cuello, degollar; luego matar con violencia. Se usaba para animales sacrificados. Fuera de este versículo, en el Nuevo Testamento aparece solo en Apocalipsis. Kistemaker nota que muchas traducciones evitan el sentido literal.",
+      "fuentes": [
+        "kis1j_04_a#27",
+        "moodynt_02_c#24",
+        "mac1j_04_b#19"
+      ]
+    },
+    {
+      "ref": "1J 3:12",
+      "griego": "πονηρός",
+      "translit": "ponērós",
+      "significado": "Malo, maligno: una maldad activa y decidida que se opone al bien, más fuerte que la simple corrupción. Juan usa la misma palabra para el maligno (2:13-14; 5:18-19), de modo que las obras malas de Caín tienen su origen allí.",
+      "fuentes": [
+        "mac1j_04_b#19",
+        "kis1j_04_a#29"
+      ]
+    },
+    {
+      "ref": "1J 3:14",
+      "griego": "μεταβεβήκαμεν",
+      "translit": "metabebḗkamen",
+      "significado": "Hemos pasado: moverse de un lugar a otro, como una mudanza. El perfecto indica un paso ya cumplido cuyos efectos siguen.",
+      "fuentes": [
+        "kis1j_04_a#32",
+        "cbmh1j_02#3"
+      ]
+    },
+    {
+      "ref": "1J 3:15",
+      "griego": "ἀνθρωποκτόνος",
+      "translit": "anthrōpoktónos",
+      "significado": "Homicida, compuesto de hombre y matar. Jesús usa la misma palabra para el diablo en Jn 8:44.",
+      "fuentes": [
+        "kis1j_04_a#34",
+        "kis1j_04_a#33"
+      ]
+    },
+    {
+      "ref": "1J 3:16",
+      "griego": "ὀφείλομεν",
+      "translit": "opheílomen",
+      "significado": "Debemos: obligación moral, como una deuda, distinta de la necesidad casi física que expresa otro verbo griego (δεῖ), según Bengel.",
+      "fuentes": [
+        "kis1j_04_a#36"
+      ]
+    },
+    {
+      "ref": "1J 3:17",
+      "griego": "σπλάγχνα",
+      "translit": "splánchna",
+      "significado": "Entrañas, que la RVR1960 traduce corazón: para los griegos, sede de las emociones; para los cristianos, la expresión habla de compasión.",
+      "fuentes": [
+        "ncb1j_01_b#1",
+        "bea1j_02_a#3"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Caín y Cristo son las dos respuestas posibles frente al hermano: Caín respondió con odio ante el bueno; Cristo respondió con amor ante los pecadores y dio su vida por ellos. Richards lo plantea así, y Kœchlin agrega que los que mataron a Jesús lo hicieron por el mismo motivo que Caín: su perfección dejaba al descubierto sus malas obras.", "refs": ["Gn 4:8", "Jn 15:13"], "fuentes": ["rich1j_01_b#10", "r1_011#15"]},
-    {"texto": "La cruz es la definición del amor: allí se ve en qué consiste. Cristo no murió como víctima pasiva sino entregándose por voluntad propia, y Henry destaca el misterio de un Dios que redime a su iglesia con su propia sangre. Ese sacrificio es la vara con la que se mide todo amor cristiano.", "refs": ["Jn 10:11", "Jn 10:17-18"], "fuentes": ["mbib1j_01_c#10", "kis1j_04_a#35", "mhenry_01_c#23", "ncb1j_01_b#1"]},
-    {"texto": "Blaney propone a Cristo como modelo según Fil 2:5-8: se despojó a sí mismo por elección, tomó forma de siervo y obedeció hasta la cruz. Ese es el costo del discipulado al que apunta el «debemos» del v. 16. MacArthur aclara que no podemos amar tan lejos como él, pero sí como él, en el poder del Espíritu.", "refs": ["Fil 2:5-8"], "fuentes": ["bea1j_02_a#11", "mac1j_04_b#17"]}
+    {
+      "texto": "Caín y Cristo son las dos respuestas posibles frente al hermano: Caín respondió con odio ante el bueno; Cristo respondió con amor ante los pecadores y dio su vida por ellos. Richards lo plantea así, y Kœchlin agrega que los que mataron a Jesús lo hicieron por el mismo motivo que Caín: su perfección dejaba al descubierto sus malas obras.",
+      "refs": [
+        "Gn 4:8",
+        "Jn 15:13"
+      ],
+      "fuentes": [
+        "rich1j_01_b#10",
+        "r1_011#15"
+      ]
+    },
+    {
+      "texto": "La cruz define el amor. Cristo no murió como víctima pasiva sino entregándose por voluntad propia, y Henry destaca el misterio de un Dios que redime a su iglesia con su propia sangre. Ese sacrificio es la vara de todo amor cristiano.",
+      "refs": [
+        "Jn 10:11",
+        "Jn 10:17-18"
+      ],
+      "fuentes": [
+        "mbib1j_01_c#10",
+        "kis1j_04_a#35",
+        "mhenry_01_c#23",
+        "ncb1j_01_b#1"
+      ]
+    },
+    {
+      "texto": "Blaney propone a Cristo como modelo según Fil 2:5-8: se despojó a sí mismo por elección, tomó forma de siervo y obedeció hasta la cruz. Ese es el costo del discipulado al que apunta el «debemos» del v. 16. MacArthur aclara que no podemos amar tan lejos como él, pero sí como él, en el poder del Espíritu.",
+      "refs": [
+        "Fil 2:5-8"
+      ],
+      "fuentes": [
+        "bea1j_02_a#11",
+        "mac1j_04_b#17"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué falló en la ofrenda de Caín?",
       "posturas": [
-        {"postura": "Caín ignoró el requisito divino de un sacrificio con sangre: Abel ofreció un animal y Caín, en una religión hecha a su medida, fruto de la tierra.", "quien": "MacArthur (comentario a 1 Juan)", "fuentes": ["mac1j_04_b#18"]},
-        {"postura": "La ofrenda no fue aceptada por la actitud pecaminosa de Caín; detrás estaban los celos.", "quien": "Biblia de estudio MacArthur", "fuentes": ["mbib1j_01_c#6"]},
-        {"postura": "Abel tuvo fe y fue aceptado; Caín quiso salvarse por obras.", "quien": "Wiersbe", "fuentes": ["r1_007_b#16"]}
+        {
+          "postura": "Caín ignoró el requisito divino de un sacrificio con sangre: Abel ofreció un animal y Caín, en una religión hecha a su medida, fruto de la tierra.",
+          "quien": "MacArthur (comentario a 1 Juan)",
+          "fuentes": [
+            "mac1j_04_b#18"
+          ]
+        },
+        {
+          "postura": "La ofrenda no fue aceptada por la actitud pecaminosa de Caín; detrás estaban los celos.",
+          "quien": "Biblia de estudio MacArthur",
+          "fuentes": [
+            "mbib1j_01_c#6"
+          ]
+        },
+        {
+          "postura": "Abel tuvo fe y fue aceptado; Caín quiso salvarse por obras.",
+          "quien": "Wiersbe",
+          "fuentes": [
+            "r1_007_b#16"
+          ]
+        }
       ],
       "nota": "Juan no entra en el tema de la ofrenda: le basta decir que las obras de Caín eran malas y las de Abel justas. Todos coinciden en que la raíz estaba en el corazón de Caín, que pertenecía al maligno."
     },
     {
       "tema": "«El amor de Dios» en el v. 17",
       "posturas": [
-        {"postura": "Es el amor de Dios hacia nosotros (genitivo subjetivo): el contexto inmediato habla del don del amor de Dios en la cruz (v. 16) y el más amplio va en la misma línea (2:5, 15).", "quien": "Kistemaker", "fuentes": ["kis1j_04_a#38"]},
-        {"postura": "Puede ser tanto nuestro amor por Dios como el de Dios por nosotros; el texto no lo define.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1j_01_b#1"]}
+        {
+          "postura": "Es el amor de Dios hacia nosotros (genitivo subjetivo): el contexto inmediato habla del don del amor de Dios en la cruz (v. 16) y el más amplio va en la misma línea (2:5, 15).",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1j_04_a#38"
+          ]
+        },
+        {
+          "postura": "Puede ser tanto nuestro amor por Dios como el de Dios por nosotros; el texto no lo define.",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb1j_01_b#1"
+          ]
+        }
       ],
       "nota": "Kistemaker menciona una tercera posibilidad, el amor que es propio de Dios. Cualquiera sea la lectura, la conclusión práctica es la misma: un corazón cerrado al hermano necesitado no está gobernado por el amor de Dios."
-    },
-    {
-      "tema": "¿«Homicida» en sentido literal o figurado?",
-      "posturas": [
-        {"postura": "No es una figura (asesino del alma o de la vida moral): por el v. 12 se entiende literalmente, porque el corazón lleno de odio es capaz de matar; citando a Alford, quien vive en un estado cae, si se da la ocasión, en sus consecuencias últimas.", "quien": "Comentario Bíblico Moody", "fuentes": ["moodynt_02_c#24"]},
-        {"postura": "El odio es el equivalente moral del homicidio ante Dios; la única diferencia externa es el hecho físico.", "quien": "MacArthur", "fuentes": ["mac1j_04_b#22", "mbib1j_01_c#9"]}
-      ],
-      "nota": "Las dos lecturas parten de Mt 5:21-22 y coinciden en lo central: para Dios el odio no es un detalle menor, sino la raíz misma del homicidio."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Gn 4:3-8", "nota": "La historia de Caín y Abel es la única referencia directa al Antiguo Testamento en 1 Juan. Kistemaker ve en ella una señal de que la mente del autor estaba formada en la enseñanza judía. Juan la usa como retrato del odio que nace de pertenecer al maligno.", "fuentes": ["kis1j_01_a#22", "kis1j_04_a#28", "cbmh1j_02#2"]},
-    {"ref": "Lv 19:18", "nota": "El mandato de amar al prójimo ya estaba en la ley; por eso el mandamiento es antiguo, aunque en Cristo se vio como nunca antes.", "fuentes": ["rich1j_01_b#10", "mac1j_04_b#17"]},
-    {"ref": "Gn 9:5-6", "nota": "Juan se apoya en la ley contra el homicidio (también Ex 21:12; Nm 35:16, 19-21), que Jesús llevó hasta el corazón en Mt 5:21-22.", "fuentes": ["kis1j_04_a#33"]},
-    {"ref": "Dt 15:7-11", "nota": "La ley ya prohibía endurecer el corazón y cerrar la mano al hermano pobre; el v. 17 retoma esa imagen.", "fuentes": ["kis1j_04_a#37"]}
+    {
+      "ref": "Gn 4:3-8",
+      "nota": "Caín y Abel son la única referencia directa al Antiguo Testamento en 1 Juan; para Kistemaker, señal de una mente formada en la enseñanza judía. Juan usa la historia como retrato del odio que nace de pertenecer al maligno.",
+      "fuentes": [
+        "kis1j_01_a#22",
+        "kis1j_04_a#28",
+        "cbmh1j_02#2"
+      ]
+    },
+    {
+      "ref": "Lv 19:18",
+      "nota": "El mandato de amar al prójimo ya estaba en la ley; por eso el mandamiento es antiguo, aunque en Cristo se vio como nunca antes.",
+      "fuentes": [
+        "rich1j_01_b#10",
+        "mac1j_04_b#17"
+      ]
+    },
+    {
+      "ref": "Dt 15:7-11",
+      "nota": "La ley ya prohibía endurecer el corazón y cerrar la mano al hermano pobre; el v. 17 retoma esa imagen.",
+      "fuentes": [
+        "kis1j_04_a#37"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Francis Schaeffer, en The Mark of the Christian (1970), observó que los cristianos han usado muchos símbolos para identificarse, pero Cristo dio una sola marca universal para todos los tiempos: el amor mutuo (Jn 13:33-35).", "autor": "MacArthur", "obra": "Comentario MacArthur: 1 Juan", "pagina": "PDF 94", "tipo": "ilustracion"},
-    {"texto": "Kistemaker recurre a un himno de Frances R. Havergal (siglo XIX), cuyo estribillo pone en boca de Cristo la pregunta de qué hemos dado nosotros por él. La respuesta de Juan es el v. 16: dar la vida por los hermanos.", "autor": "Simon J. Kistemaker", "obra": "Comentario al Nuevo Testamento: 1 Juan", "pagina": "PDF 259 (p. 354)", "tipo": "ilustracion"},
-    {"texto": "Ante las preguntas difíciles que plantea el v. 17 (¿hay que ayudar siempre, aun quedando uno en la misma necesidad?, ¿dar a los hijos de otro lo que les falta a los propios?), Blaney recoge el criterio de Wesley: dar y prestar a cualquiera hasta donde sea compatible con los compromisos con los acreedores, la propia familia y la familia de la fe, porque Dios no se contradice.", "autor": "Harvey J. S. Blaney", "obra": "Comentario Bíblico Beacon: 1 Juan", "pagina": "PDF 258-259", "tipo": "aplicacion"},
-    {"texto": "Grudem da dos evidencias concretas del amor a los hermanos como parte de la obediencia: seguir en la comunión cristiana (1J 2:19) y dar al hermano necesitado (1J 3:17; Mt 25:35-46).", "autor": "Wayne Grudem", "obra": "Teología sistemática", "pagina": "PDF 848", "tipo": "doctrina"},
-    {"texto": "John Cotton enseña que, como hijos adoptados, fuimos puestos en una gran familia: amamos a los hermanos por el amor singular de Dios hacia ellos, por el amor de ellos a Dios y por la verdad que vive en cada creyente. Quien recibió mucho amor de Dios no puede dejar de amar.", "autor": "John Cotton (citado en obra de referencia reformada)", "obra": "Obra de referencia", "pagina": "PDF 736", "tipo": "doctrina"}
+    {
+      "texto": "Francis Schaeffer, en The Mark of the Christian (1970), observó que los cristianos han usado muchos símbolos para identificarse, pero Cristo dio una sola marca universal para todos los tiempos: el amor mutuo (Jn 13:33-35).",
+      "autor": "MacArthur",
+      "obra": "1 Juan (comentario)",
+      "pagina": "PDF 94",
+      "tipo": "ilustracion"
+    },
+    {
+      "texto": "Kistemaker recurre a un himno de Frances R. Havergal (siglo XIX), cuyo estribillo pone en boca de Cristo la pregunta de qué hemos dado nosotros por él. La respuesta de Juan es el v. 16: dar la vida por los hermanos.",
+      "autor": "Simon J. Kistemaker",
+      "obra": "1 Juan (comentario)",
+      "pagina": "PDF 259 (p. 354)",
+      "tipo": "ilustracion"
+    }
   ],
   "conexiones": [
-    {"ref": "Jn 13:34-35", "nota": "El mandamiento nuevo del aposento alto, raíz del mensaje que Juan recuerda: el amor mutuo es la señal de los discípulos.", "fuentes": ["cbmh1j_02#1", "mac1j_04_b#17", "mac1j_04_b#14"]},
-    {"ref": "Jn 8:44", "nota": "Jesús llama al diablo homicida desde el principio; Caín, que era del maligno, actuó como su padre.", "fuentes": ["cbmh1j_02#2", "kis1j_04_a#26", "r1_007_b#16"]},
-    {"ref": "Jn 15:18-19", "nota": "Jesús anunció que el mundo odiaría a sus discípulos como lo odió a él; por eso no hay que extrañarse.", "fuentes": ["kis1j_04_a#30", "mac1j_04_b#23"]},
-    {"ref": "Jn 5:24", "nota": "El que oye y cree ha pasado de muerte a vida: Juan usa las mismas palabras de Jesús.", "fuentes": ["ncb1j_01_a#34", "kis1j_04_a#31", "cbmh1j_02#3"]},
-    {"ref": "Mt 5:21-22", "nota": "Jesús lleva el no matarás al enojo del corazón; Juan sigue esa línea al llamar homicida al que odia.", "fuentes": ["mac1j_04_b#22", "ncb1j_01_a#35", "kis1j_04_a#33"]},
-    {"ref": "Stg 2:15-17", "nota": "Desear bien al hermano necesitado sin darle lo que necesita no sirve: Santiago lo dice de la fe, Juan del amor.", "fuentes": ["kis1j_04_a#37", "kis1j_04_a#40", "mac1j_04_b#24"]},
-    {"ref": "Mt 25:31-46", "nota": "Dar de comer, de beber y vestir al necesitado es la forma concreta del amor que el v. 17 reclama.", "fuentes": ["cbmh1j_02#5", "r1_014_a#6"]},
-    {"ref": "Hch 4:32", "nota": "La iglesia de Jerusalén compartía sus bienes: un ejemplo vivo de lo que Juan pide.", "fuentes": ["cbmh1j_02#5"]}
+    {
+      "ref": "Jn 13:34-35",
+      "nota": "El mandamiento nuevo del aposento alto, raíz del mensaje que Juan recuerda: el amor mutuo es la señal de los discípulos.",
+      "fuentes": [
+        "cbmh1j_02#1",
+        "mac1j_04_b#17",
+        "mac1j_04_b#14"
+      ]
+    },
+    {
+      "ref": "Jn 8:44",
+      "nota": "Jesús llama al diablo homicida desde el principio; Caín, que era del maligno, actuó como su padre.",
+      "fuentes": [
+        "cbmh1j_02#2",
+        "kis1j_04_a#26",
+        "r1_007_b#16"
+      ]
+    },
+    {
+      "ref": "Jn 15:18-19",
+      "nota": "Jesús anunció que el mundo odiaría a sus discípulos como lo odió a él; por eso no hay que extrañarse.",
+      "fuentes": [
+        "kis1j_04_a#30",
+        "mac1j_04_b#23"
+      ]
+    },
+    {
+      "ref": "Mt 25:31-46",
+      "nota": "Dar de comer, de beber y vestir al necesitado es la forma concreta del amor que el v. 17 reclama.",
+      "fuentes": [
+        "cbmh1j_02#5",
+        "r1_014_a#6"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Kistemaker aplica el pasaje al matrimonio: muchas parejas que prometieron amarse hasta la muerte terminan contemplando la separación con indiferencia, porque el amor no florece donde siempre se toma y nunca se da. El Señor espera que esposo y esposa se amen hasta estar dispuestos a dar la vida el uno por el otro, imitando el amor de Cristo. Antes de pensar en el hermano de la iglesia, ustedes tienen al más cercano en casa.", "fuentes": ["kis1j_04_a#41"]},
-    {"texto": "El odio rara vez se presenta con ese nombre. Puede ser rencor guardado, desear que al otro le vaya mal o alegrarse de su caída. Calvino, citado por Kistemaker, ya lo llamaba homicidio. Vale la pena que ustedes revisen si hay alguien, dentro o fuera de la familia, a quien le desean mal en silencio.", "fuentes": ["kis1j_04_a#33", "cbmh1j_02#2"]},
-    {"texto": "La prueba del amor está casi siempre a mano: ver una necesidad concreta y no cerrar el corazón. No hace falta ser rico; alcanza con los bienes comunes. Wesley, según Blaney, da un criterio sensato: dar hasta donde sea compatible con las obligaciones con la familia, los acreedores y la familia de la fe. Dentro de ese marco, el amor no calcula el costo.", "fuentes": ["cbmh1j_02#5", "moodynt_02_c#25", "bea1j_02_a#4", "bea1j_02_a#10"]},
-    {"texto": "Si el mundo los mira con recelo por su fe, no lo tomen como algo raro. Pero tampoco lo usen como medida de su espiritualidad: la señal que Juan propone es el amor a los hermanos, no el rechazo que reciben.", "fuentes": ["moodynt_02_c#24", "kis1j_04_a#30"]}
+    {
+      "texto": "Kistemaker aplica el pasaje al matrimonio: muchas parejas que prometieron amarse hasta la muerte terminan contemplando la separación con indiferencia, porque el amor no florece donde siempre se toma y nunca se da. El Señor espera que esposo y esposa se amen hasta estar dispuestos a dar la vida el uno por el otro, imitando el amor de Cristo. Antes de pensar en el hermano de la iglesia, ustedes tienen al más cercano en casa.",
+      "fuentes": [
+        "kis1j_04_a#41"
+      ]
+    },
+    {
+      "texto": "El odio rara vez se presenta con ese nombre. Puede ser rencor guardado, desear que al otro le vaya mal o alegrarse de su caída. Calvino, citado por Kistemaker, ya lo llamaba homicidio. Vale la pena que ustedes revisen si hay alguien, dentro o fuera de la familia, a quien le desean mal en silencio.",
+      "fuentes": [
+        "kis1j_04_a#33",
+        "cbmh1j_02#2"
+      ]
+    },
+    {
+      "texto": "La prueba del amor está casi siempre a mano: ver una necesidad concreta y no cerrar el corazón. Wesley, según Blaney, da un criterio sensato: dar y prestar hasta donde sea compatible con las obligaciones con los acreedores, la propia familia y la familia de la fe, porque Dios no se contradice.",
+      "fuentes": [
+        "moodynt_02_c#25",
+        "bea1j_02_a#4"
+      ]
+    },
+    {
+      "texto": "Si el mundo los mira con recelo por su fe, no lo tomen como algo raro. Pero tampoco lo usen como medida de su espiritualidad: la señal que Juan propone es el amor a los hermanos, no el rechazo que reciben.",
+      "fuentes": [
+        "moodynt_02_c#24",
+        "kis1j_04_a#30"
+      ]
+    }
   ],
   "para_conversar": [
     "Caín era religioso y aun así era del maligno. ¿Qué nos dice esto sobre la diferencia entre practicar una religión y amar de verdad a Dios y a los hermanos?",
@@ -157,12 +548,62 @@
     "Pensando en el v. 17: ¿hay alguna necesidad concreta que hayamos visto con claridad, en la familia o en la iglesia, y frente a la que cerramos el corazón? ¿Qué podríamos hacer esta semana, de hecho y en verdad?"
   ],
   "para_orar": "Señor Jesús, en tu cruz aprendimos qué es el amor: pusiste tu vida por nosotros cuando no lo merecíamos. Sacá de nuestro corazón todo rencor que se parezca al de Caín, abrí nuestros ojos y nuestras manos a la necesidad del hermano, y enseñanos a amarnos primero el uno al otro en casa, no de palabra sino de hecho y en verdad. Amén.",
-  "visuales": ["dg-pruebas-1j", "dg-estructura-1j"],
-  "anexos": ["T3", "P3"],
+  "visuales": [
+    "dg-pruebas-1j",
+    "dg-estructura-1j"
+  ],
+  "anexos": [
+    "T3",
+    "P3"
+  ],
   "profundizar": [
-    {"titulo": "¿Amar al mundo? El silencio de Juan", "texto": "Alguien podría notar que en este pasaje Juan habla del amor a los hermanos y no del amor al mundo perdido (Jn 3:16), y concluir que el cristiano no está llamado a amar a los de afuera. Blaney responde que sería un argumento del silencio sin peso: el tema de Juan acá es la evidencia del carácter cristiano, no la tarea evangelizadora de la iglesia. El Diccionario Mundo Hispano recuerda que el cristiano debe amar tanto a sus enemigos como a sus hermanos (Mt 5:43-48). Y Blaney agrega una pregunta que deja pensando: si uno no puede amar a los hijos de Dios, ¿cómo va a amar a los que no lo son?", "fuentes": ["bea1j_01_b#28", "dbmh_01_a#6", "bea1j_02_a#1"]},
-    {"titulo": "¿Aborrecer (Lc 14:26) o no aborrecer (1J 3:15)?", "texto": "Geisler y Howe tratan la aparente tensión: en Lc 14:26 Jesús usa una comparación exagerada para decir que el amor a él debe superar a cualquier otro, sin mandar odiar a la familia; en 1J 3:15 el punto es que permanecer en Cristo va de la mano con no odiar al hermano, amándolo por encima de sus pecados y su carácter. El que ama al Señor en primer lugar permanece en él y no odia a su hermano.", "fuentes": ["r1_002#1"]},
-    {"titulo": "Amor y sufrimiento", "texto": "Blaney observa que Juan avanza de Dios es luz (1:5), el que revela, a Dios es amor (4:8), el que sana, y pide mirar la relación entre amor y sufrimiento que aparece en la muerte de Cristo: el amor verdadero sufre, gime por la necesidad del otro y está dispuesto a acompañarlo hasta las puertas de la muerte. Henry, por su parte, señala que el Espíritu, entristecido por el egoísmo, deja al corazón egoísta sin consuelo, y que la conciencia, si nos acusa de descuidar un deber conocido, debe ser escuchada con diligencia.", "fuentes": ["bea1j_02_a#3", "mhenry_01_c#23"]},
-    {"titulo": "Una nota textual sobre el v. 14", "texto": "Varios manuscritos agregan el objeto («a su hermano») después de «el que no ama». Kistemaker, siguiendo a Metzger, prefiere la lectura más breve por estar en manuscritos superiores y porque es más probable que los copistas agregaran el objeto que lo quitaran. También comenta que Robertson veía en este versículo un uso de la preposición «por» (ὑπέρ) que no implica necesariamente sustitución; Kistemaker lo cita sin adoptarlo expresamente.", "fuentes": ["kis1j_04_a#32", "kis1j_04_a#36"]}
+    {
+      "titulo": "¿Amar al mundo? El silencio de Juan",
+      "texto": "Alguien podría notar que en este pasaje Juan habla del amor a los hermanos y no del amor al mundo perdido (Jn 3:16), y concluir que el cristiano no está llamado a amar a los de afuera. Blaney responde que sería un argumento del silencio sin peso: el tema de Juan acá es la evidencia del carácter cristiano, no la tarea evangelizadora de la iglesia. El Diccionario Mundo Hispano recuerda que el cristiano debe amar tanto a sus enemigos como a sus hermanos (Mt 5:43-48). Y Blaney agrega una pregunta que deja pensando: si uno no puede amar a los hijos de Dios, ¿cómo va a amar a los que no lo son?",
+      "fuentes": [
+        "bea1j_01_b#28",
+        "dbmh_01_a#6",
+        "bea1j_02_a#1"
+      ]
+    },
+    {
+      "titulo": "¿Aborrecer (Lc 14:26) o no aborrecer (1J 3:15)?",
+      "texto": "Geisler y Howe tratan la aparente tensión: en Lc 14:26 Jesús usa una comparación exagerada para decir que el amor a él debe superar a cualquier otro, sin mandar odiar a la familia; en 1J 3:15 el punto es que permanecer en Cristo va de la mano con no odiar al hermano, amándolo por encima de sus pecados y su carácter. El que ama al Señor en primer lugar permanece en él y no odia a su hermano.",
+      "fuentes": [
+        "r1_002#1"
+      ]
+    },
+    {
+      "titulo": "Amor y sufrimiento",
+      "texto": "Blaney observa que Juan avanza de Dios es luz (1:5), el que revela, a Dios es amor (4:8), el que sana, y pide mirar la relación entre amor y sufrimiento que aparece en la muerte de Cristo: el amor verdadero sufre, gime por la necesidad del otro y está dispuesto a acompañarlo hasta las puertas de la muerte. Henry, por su parte, señala que el Espíritu, entristecido por el egoísmo, deja al corazón egoísta sin consuelo, y que la conciencia, si nos acusa de descuidar un deber conocido, debe ser escuchada con diligencia.",
+      "fuentes": [
+        "bea1j_02_a#3",
+        "mhenry_01_c#23"
+      ]
+    },
+    {
+      "titulo": "Dos notas técnicas sobre los vv. 14 y 16",
+      "texto": "Varios manuscritos agregan el objeto («a su hermano») después de «el que no ama». Kistemaker, siguiendo a Metzger, prefiere la lectura más breve por estar en manuscritos superiores y porque es más probable que los copistas agregaran el objeto que lo quitaran. Sobre el v. 16, cita a Robertson, que veía allí un uso de la preposición «por» (ὑπέρ) que no implica necesariamente sustitución; Kistemaker lo cita sin adoptarlo expresamente.",
+      "fuentes": [
+        "kis1j_04_a#32",
+        "kis1j_04_a#36"
+      ]
+    },
+    {
+      "titulo": "Dos evidencias concretas del amor",
+      "texto": "Grudem propone dos evidencias concretas de este amor como parte de la obediencia: seguir en la comunión cristiana (1J 2:19) y dar al hermano necesitado (Mt 25:35-46). Cotton, citado en la misma línea, recuerda que como hijos adoptados fuimos puestos en una gran familia: quien recibió mucho amor de Dios no puede dejar de amar a sus hermanos.",
+      "fuentes": [
+        "r1_014_a#6",
+        "r1_013#28"
+      ]
+    },
+    {
+      "titulo": "¿«Homicida» en sentido literal o figurado?",
+      "texto": "El Comentario Moody sostiene que no es una figura (asesino del alma o de la vida moral) sino que, por el v. 12, se entiende literalmente: el corazón lleno de odio es capaz de matar, y citando a Alford, quien vive en un estado cae, si se da la ocasión, en sus consecuencias últimas. MacArthur lo plantea como equivalencia moral: ante Dios el odio equivale al homicidio y solo falta el hecho físico. Ambos parten de Mt 5:21-22.",
+      "fuentes": [
+        "moodynt_02_c#24",
+        "mac1j_04_b#22"
+      ]
+    }
   ]
 }

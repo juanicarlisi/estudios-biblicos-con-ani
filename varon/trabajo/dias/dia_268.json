@@ -363,6 +363,20 @@
    "fuentes": [
     "r_022#24"
    ]
+  },
+  {
+   "ref": "1 Samuel 3:11-13",
+   "nota": "Según Hughes, Elí no estorbó a sus hijos y fue juzgado: le faltó la amonestación que confronta con palabra.",
+   "fuentes": [
+    "q_002#13"
+   ]
+  },
+  {
+   "ref": "Efesios 5:15-17",
+   "nota": "George lo usa en su autoevaluación para revisar cómo se ve el tiempo en la crianza.",
+   "fuentes": [
+    "q_004#10"
+   ]
   }
  ],
  "para_vivir": [
@@ -389,6 +403,12 @@
    "texto": "Que tu hijo te vea disfrutar de Cristo. Contale con alegría qué te mostró Dios esta semana en su Palabra, sin discurso y sin forzar.",
    "fuentes": [
     "b_286#11"
+   ]
+  },
+  {
+   "texto": "Hacé una autoevaluación en seis áreas: instrucción, mostrarles tu amor a Dios, un entorno cristiano consecuente, tiempo, disciplina y ejemplo. Marcá la más fuerte y la más débil y anotá una mejora para cada una.",
+   "fuentes": [
+    "q_004#10"
    ]
   }
  ],
@@ -466,7 +486,24 @@
    "fuentes": [
     "r_023#4"
    ]
+  },
+  {
+   "titulo": "Ternura: la parte que más se olvida",
+   "texto": "Hughes deriva de Efesios 6:4 tres «sí», y el primero es la ternura: «criar» significa nutrir, y Calvino lo traduce como amarlos generosamente. Cuenta de un hombretón de la Guardia Costera que llamaba «querido» a su hijo de ciento veinte kilos y lo besaba ya adulto. Su frase: «Los hombres nunca son tan varoniles como cuando son tiernos con sus hijos». Agrega que, como recuerda Trueblood, el hijo debe saber que su padre ama a su madre. Sobre la disciplina, lamenta que se deje a la esposa: eso priva al hijo de la seguridad y la dignidad de ser disciplinado por su padre. Y la enseñanza pide participar, sostener el culto familiar y ser testimonio.",
+   "fuentes": [
+    "q_002#13"
+   ]
   }
  ],
- "notas_no_usadas": "Quedó afuera el testimonio pastoral de Farrar (o_030#49, importancia 1) y el relato de la madre de Eggerichs, por no ser centrales para el día."
+ "notas_no_usadas": "Quedó afuera el testimonio pastoral de Farrar (o_030#49, importancia 1) y el relato de la madre de Eggerichs, por no ser centrales para el día.",
+ "modelo": {
+  "persona": "Elí",
+  "texto": "Elí es el espejo al revés. Según Hughes, no estorbó a sus hijos y fue juzgado por eso (1 Samuel 3:11-13): le faltó la amonestación, la palabra que confronta. Es la advertencia de hoy para el padre que deja la corrección y la enseñanza a otro, o a nadie: Pablo le pide que ponga él mismo su tarea en las palabras y en los hechos.",
+  "refs": [
+   "1 Samuel 3:11-13"
+  ],
+  "fuentes": [
+   "q_002#13"
+  ]
+ }
 }

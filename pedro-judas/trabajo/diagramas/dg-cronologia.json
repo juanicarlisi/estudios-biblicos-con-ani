@@ -1,0 +1,306 @@
+{
+ "id": "dg-cronologia",
+ "titulo": "Pedro y Juan: de Pentecostés a Nerón y a Domiciano",
+ "bajada": "Cuándo vivieron, dónde estuvieron y cuándo escribieron estas cartas, según los autores. Pedro escribe bajo Nerón; Juan, cerca de Domiciano.",
+ "tipo": "lineas",
+ "eje": [
+  "Pentecostés",
+  "50 d.C.",
+  "60",
+  "70",
+  "80",
+  "90",
+  "100 d.C."
+ ],
+ "carriles": [
+  {
+   "nombre": "Roma y Jerusalén",
+   "quien": "Nerón según Kistemaker y el Moody; el incendio según MacArthur; Domiciano y Trajano según el Moody y Beacon; Jerusalén según MacArthur",
+   "segmentos": [
+    {
+     "etiqueta": "Nerón (54-68)",
+     "desde": 23.4,
+     "hasta": 46.7,
+     "clase": "a"
+    },
+    {
+     "etiqueta": "Domiciano (81-96)",
+     "desde": 68.3,
+     "hasta": 93.3,
+     "clase": "b"
+    },
+    {
+     "etiqueta": "Trajano (98-117)",
+     "desde": 96.7,
+     "hasta": 100.0,
+     "clase": "c"
+    }
+   ],
+   "marcas": [
+    {
+     "en": 40.0,
+     "etiqueta": "Incendio de Roma (julio del 64): Nerón culpa a los cristianos"
+    },
+    {
+     "en": 46.7,
+     "etiqueta": "Nerón se suicida (68)"
+    },
+    {
+     "en": 50.0,
+     "etiqueta": "Destrucción de Jerusalén (70)"
+    }
+   ],
+   "fuentes": [
+    "kis1p_03_c#22",
+    "moodynt_01_a#4",
+    "mac1p_01_a#4",
+    "kis1p_01_b#17",
+    "macjd_01_a#7",
+    "beajd_01_a#4"
+   ]
+  },
+  {
+   "nombre": "Pedro",
+   "quien": "MacArthur, Comentario Mundo Hispano, Moody y Núñez",
+   "segmentos": [
+    {
+     "etiqueta": "Jerusalén, Samaria, Cornelio y Antioquía (Hch 2-12; Gá 2): sin años en las fuentes",
+     "desde": 0,
+     "hasta": 16.7,
+     "clase": "e"
+    },
+    {
+     "etiqueta": "En Roma, según la tradición (llegada hacia 62-64)",
+     "desde": 36.7,
+     "hasta": 46.7,
+     "clase": "e"
+    }
+   ],
+   "marcas": [
+    {
+     "en": 28.4,
+     "etiqueta": "Romanos (~57): Pedro todavía no está en Roma"
+    },
+    {
+     "en": 40.0,
+     "etiqueta": "Muerte hacia el 64 (Mundo Hispano)"
+    },
+    {
+     "en": 45.9,
+     "etiqueta": "Crucificado cabeza abajo hacia 67-68 (MacArthur, Núñez)"
+    }
+   ],
+   "fuentes": [
+    "mac1p_01_a#8",
+    "mbib1p_01_a#3",
+    "mac1p_01_a#9",
+    "cbmh1p_01_a#9",
+    "moodynt_01_a#8",
+    "nunez2p_01_a#5"
+   ]
+  },
+  {
+   "nombre": "Juan",
+   "quien": "Comentario Mundo Hispano (Bedford), MacArthur y Kistemaker",
+   "segmentos": [
+    {
+     "etiqueta": "Jerusalén: uno de los líderes de la iglesia (Gá 2:9)",
+     "desde": 0,
+     "hasta": 16.7,
+     "clase": "e"
+    },
+    {
+     "etiqueta": "Éfeso, según la tradición (desde el 70)",
+     "desde": 50.0,
+     "hasta": 90.0,
+     "clase": "e"
+    },
+    {
+     "etiqueta": "Patmos: desterrado bajo Domiciano",
+     "desde": 90.0,
+     "hasta": 93.3,
+     "clase": "b"
+    },
+    {
+     "etiqueta": "Vuelve a Éfeso",
+     "desde": 93.3,
+     "hasta": 96.7,
+     "clase": "e"
+    }
+   ],
+   "marcas": [
+    {
+     "en": 96.7,
+     "etiqueta": "Muere cerca del 98 (Kistemaker); vivía aún bajo Trajano (Ireneo)"
+    }
+   ],
+   "fuentes": [
+    "cbmh1j_01_a#5",
+    "cbmh1j_01_a#9",
+    "mac1j_01#6",
+    "kis1p_07#21",
+    "kis1j_01_a#27",
+    "cbmh1j_01_a#6"
+   ]
+  },
+  {
+   "nombre": "1 Pedro",
+   "quien": "Beacon, Kistemaker, Nuevo Comentario Bíblico, MacArthur y Moody",
+   "segmentos": [
+    {
+     "etiqueta": "Escrita en Roma: 63-65",
+     "desde": 38.4,
+     "hasta": 41.7,
+     "clase": "d"
+    }
+   ],
+   "marcas": [
+    {
+     "en": 39.2,
+     "etiqueta": "Kistemaker: 63-64; NCB: 63-64, antes de la persecución"
+    },
+    {
+     "en": 40.9,
+     "etiqueta": "MacArthur: 64-65; Moody: hacia el 64"
+    }
+   ],
+   "fuentes": [
+    "bea1p_01_a#4",
+    "kis1p_01_b#17",
+    "ncb1p_01_a#5",
+    "mbib1p_01_a#7",
+    "mac1p_01_a#19",
+    "moodynt_01_a#8",
+    "mac1p_01_a#13"
+   ]
+  },
+  {
+   "nombre": "2 Pedro",
+   "quien": "Beacon, Kistemaker, Diccionario Mundo Hispano, MacArthur, Moody y Núñez; Roldán y Kistemaker registran las fechas tardías",
+   "segmentos": [
+    {
+     "etiqueta": "Su testamento, poco antes de morir: 65-68",
+     "desde": 41.7,
+     "hasta": 46.7,
+     "clase": "d"
+    }
+   ],
+   "marcas": [
+    {
+     "en": 45.0,
+     "etiqueta": "Moody, Núñez y el Diccionario: hacia el 67; MacArthur: 67-68"
+    },
+    {
+     "en": 66.7,
+     "etiqueta": "Quienes niegan que la escribió Pedro: hacia el 80 o en el siglo II"
+    }
+   ],
+   "fuentes": [
+    "bea2p_01_a#4",
+    "kis2p_01_a#17",
+    "dbmh_02_a#20",
+    "mbib2p_01_a#7",
+    "moodynt_01_c#19",
+    "nunez2p_01_a#5",
+    "cbmh2p_01_a#4",
+    "kis2p_01_a#18"
+   ]
+  },
+  {
+   "nombre": "Judas",
+   "quien": "Kistemaker, Núñez, MacArthur, Comentario Mundo Hispano, Nuevo Comentario Bíblico, Beacon (Rose) y Deiros",
+   "segmentos": [
+    {
+     "etiqueta": "La mayoría: 65-70",
+     "desde": 41.7,
+     "hasta": 50.0,
+     "clase": "d"
+    },
+    {
+     "etiqueta": "Beacon: hasta el 80, sin decidir",
+     "desde": 50.0,
+     "hasta": 66.7,
+     "clase": "c"
+    },
+    {
+     "etiqueta": "Deiros: posible entre 70 y 90",
+     "desde": 66.7,
+     "hasta": 83.3,
+     "clase": "c"
+    }
+   ],
+   "marcas": [
+    {
+     "en": 41.7,
+     "etiqueta": "Núñez: hacia el 65; Kistemaker: mediados de los 60"
+    },
+    {
+     "en": 48.4,
+     "etiqueta": "MacArthur: 68-70, antes de la caída de Jerusalén"
+    },
+    {
+     "en": 50.0,
+     "etiqueta": "Mundo Hispano y NCB: hacia el 70"
+    }
+   ],
+   "fuentes": [
+    "kisjd_01_a#11",
+    "nunez2p_02_b#30",
+    "nunez2p_01_a#7",
+    "macjd_01_a#7",
+    "mbibjd_01_a#3",
+    "cbmhjd_01_a#4",
+    "ncbjd_01#3",
+    "beajd_01_a#4",
+    "deirosjd_01_a#17"
+   ]
+  },
+  {
+   "nombre": "1, 2 y 3 Juan",
+   "quien": "Kistemaker, MacArthur, Moody, Beacon y Comentario Mundo Hispano; J. A. T. Robinson citado por Kistemaker",
+   "segmentos": [
+    {
+     "etiqueta": "J. A. T. Robinson: 60-65",
+     "desde": 33.4,
+     "hasta": 41.7,
+     "clase": "c"
+    },
+    {
+     "etiqueta": "La mayoría: 90-95, desde Éfeso",
+     "desde": 83.3,
+     "hasta": 91.7,
+     "clase": "d"
+    }
+   ],
+   "marcas": [
+    {
+     "en": 83.3,
+     "etiqueta": "Moody: hacia el 90"
+    },
+    {
+     "en": 91.7,
+     "etiqueta": "Beacon: 1 Juan hacia el 95; Mundo Hispano: 3 Juan hacia el 95"
+    }
+   ],
+   "fuentes": [
+    "kis1j_01_b#20",
+    "mac1j_01#8",
+    "mbib1j_01_a#4",
+    "mac23j_01_a#3",
+    "mac23j_01_a#7",
+    "moodynt_02_a#31",
+    "bea1j_01_a#6",
+    "cbmh23j_01_b#3",
+    "cbmh1j_01_a#6"
+   ]
+  }
+ ],
+ "nota": "Colores: a = Nerón; b = Domiciano y el destierro de Juan; c = otros reinados y fechas minoritarias; d = fecha más citada de cada carta; e = vida y ministerio de los apóstoles. El primer tramo (de Pentecostés al 50) no está a escala: las fuentes no dan años para Hechos 2 a 12. Las fechas tardías de 1 Pedro (Domiciano o Trajano) las mencionan y descartan Kistemaker, MacArthur y el Moody. Que Babilonia (1P 5:13) sea Roma es la lectura de casi todos los autores.",
+ "dias": [
+  20,
+  24,
+  25,
+  28,
+  57
+ ]
+}

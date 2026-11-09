@@ -251,7 +251,7 @@ def main():
     FC = leer(f'{T}/plan/fuentes_comentarios.json')
     pref_usados = {i.split('_')[0] for i in fuentes}
     comentarios = [[v['corto'], v['obra'], v.get('escuela', '')] for k, v in FC.items() if k in pref_usados]
-    referencia = sorted({(f[0], f[1]) for i, f in fuentes.items() if i.split('_')[0] in ('r1', 'r2')}, key=lambda t: t[1].lower())
+    referencia = sorted({(f[0], f[1]) for i, f in fuentes.items() if i.split('_')[0] in ('r1', 'r2', 'r4')}, key=lambda t: t[1].lower())
     web = sorted({(f[0], f[1]) for i, f in fuentes.items() if i.split('_')[0] in ('cpe', 'web')}, key=lambda t: t[1].lower())
 
     datos = {

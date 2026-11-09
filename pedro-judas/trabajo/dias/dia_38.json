@@ -4,12 +4,20 @@
   "desde": "2P 3:14",
   "hasta": "2P 3:18",
   "titulo": "Guardaos y creced: Pablo, las Escrituras y la última palabra de Pedro",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
     "antes": "Ayer (2P 3:11-13) Pedro sacó la conclusión práctica del día del Señor: si todo va a ser deshecho, qué clase de personas conviene ser, mientras se espera cielos nuevos y tierra nueva donde mora la justicia.",
     "ahora": "Con un «por lo cual» Pedro cierra la carta. Junta en cinco versículos sus preocupaciones pastorales: vivir santos y en paz mientras se espera, entender la demora como paciencia que salva, apoyarse en Pablo y en las Escrituras frente a quienes las tuercen, cuidarse de no caer y crecer en la gracia y el conocimiento de Cristo, a quien da la gloria.",
     "despues": "Mañana empieza 1 Juan (1J 1:1-4): los testigos que vieron, oyeron y tocaron al Verbo de vida lo anuncian para que haya comunión con el Padre y con el Hijo.",
-    "fuentes": ["kis2p_04_c#16", "nunez2p_02_b#13", "mac2p_04_b#1", "nunez2p_02_b#12"]
+    "fuentes": [
+      "kis2p_04_c#16",
+      "nunez2p_02_b#13",
+      "mac2p_04_b#1",
+      "nunez2p_02_b#12"
+    ]
   },
   "versiculo_clave": {
     "ref": "2P 3:17-18",
@@ -17,170 +25,792 @@
   },
   "panorama": {
     "texto": "Pedro termina como empezó. La espera del regreso de Cristo no es pasiva: pide diligencia para que él nos encuentre sin mancha, irreprensibles y en paz. La demora no es una promesa fallida sino la paciencia del Señor que sigue salvando, y eso mismo había escrito Pablo, a quien Pedro llama hermano amado y cuyas cartas pone junto a las otras Escrituras. Hay en ellas cosas difíciles, y gente sin formación ni firmeza las retuerce para su propia perdición. Por eso, avisados de antemano, los lectores tienen que cuidarse de no ser arrastrados, y la mejor defensa es crecer en la gracia y en el conocimiento de Jesucristo, Señor y Salvador. La carta se cierra con una doxología dirigida a él. Núñez resume este final en cinco enseñanzas: vivir piadosamente ante el juicio, esperar cielos y tierra nuevos, entender la demora como misericordia, estar alerta ante los falsos maestros y crecer en la gracia y el conocimiento.",
-    "fuentes": ["nunez2p_02_b#13", "bea2p_01_b#21", "kis2p_05#12", "ncb2p_01_b#26", "mbib2p_01_c#34"]
+    "fuentes": [
+      "nunez2p_02_b#13",
+      "bea2p_01_b#21",
+      "kis2p_05#12",
+      "ncb2p_01_b#26",
+      "mbib2p_01_c#34"
+    ]
   },
   "secciones": [
     {
       "rango": "2P 3:14",
       "titulo": "Esperar con diligencia: sin mancha, irreprensibles y en paz",
       "notas": [
-        {"texto": "El «por lo cual» une este versículo con el anterior: si esperamos una morada donde habita la justicia, esa justicia ya tiene que empezar a obrar en nosotros. Kistemaker hace notar que Pedro usa el verbo esperar tres veces seguidas (vv. 12, 13 y 14) y vuelve a llamarlos «amados». Cita a Calvino: la esperanza verdadera es viva y eficaz, y por eso nos atrae hacia aquello que espera.", "fuentes": ["kis2p_04_c#16"], "tipo": "exegesis"},
-        {"texto": "«Procurad con diligencia» es un verbo que a Pedro le gusta (1:5, 10, 15): subraya la responsabilidad de cada creyente en cuidar su conducta. El Comentario Moody propone traducirlo como que esa sea su ocupación. No se trata de ganar la salvación sino de tomarse en serio la vida que Dios dio.", "fuentes": ["kis2p_04_c#17", "moodynt_02_a#21", "ncb2p_01_b#24"], "tipo": "exegesis"},
-        {"texto": "Las palabras «sin mancha e irreprensibles» no son casuales. Varios autores señalan que son lo opuesto de los falsos maestros, a quienes Pedro llamó manchas e inmundicias (2:13), y que recuerdan a Cristo, el cordero sin mancha y sin contaminación (1P 1:19). MacArthur distingue: sin mancha apunta al carácter (lo que somos) e irreprensibles a la reputación (lo que otros ven). Hay quienes parecen intachables en público pero no lo son en privado, como los fariseos; Pedro pide las dos cosas a la vez.", "fuentes": ["kis2p_04_c#17", "mac2p_04_b#9", "mbib2p_01_c#29", "ncb2p_01_b#24"], "tipo": "exegesis"},
-        {"texto": "«Ser hallados por él» supone un encuentro: nadie podrá esconderse de Cristo cuando vuelva (1 Co 4:5). Los creyentes se suman así a la oración de Pablo de ser hallados irreprensibles cuando Jesús venga (1 Ts 3:13), con la confianza de Jd 24: es Dios quien puede presentarlos sin mancha.", "fuentes": ["mac2p_04_b#8", "kis2p_04_c#17"], "tipo": "doctrina"},
-        {"texto": "¿Y qué es estar «en paz»? Los autores le dan matices distintos (ver Interpretaciones), pero coinciden en algo: es la paz de quien tiene sus pecados perdonados y puede esperar al Señor sin terror. Wesley, citado por Fuhrman, lo dice así: ser hallados de modo que podamos encontrarnos con él sin miedo, rociados con su sangre y santificados por su Espíritu. El Moody agrega que paz y santidad van juntas (He 12:14).", "fuentes": ["bea2p_01_b#18", "mbib2p_01_c#29", "moodynt_02_a#21", "kis2p_04_c#18"], "tipo": "doctrina"},
-        {"texto": "MacArthur traduce esta diligencia en hábitos concretos, los medios de gracia: la oración y la alabanza, absorber la Biblia, la adoración, la Cena del Señor y la comunión con los hermanos. McGee lo lleva a la pregunta de fondo: tener buena familia, vivir bien y educar a los hijos valen, pero el objetivo de la vida es vivir para Dios, y lo demás queda en segundo lugar.", "fuentes": ["mac2p_04_b#10", "mcg2p_03_b#18"], "tipo": "aplicacion"}
+        {
+          "texto": "El «por lo cual» une este versículo con el anterior: si esperamos una morada donde habita la justicia, esa justicia ya tiene que empezar a obrar en nosotros. Kistemaker hace notar que Pedro usa el verbo esperar tres veces seguidas (vv. 12, 13 y 14) y vuelve a llamarlos «amados». Cita a Calvino: la esperanza verdadera es viva y eficaz, y por eso nos atrae hacia aquello que espera.",
+          "fuentes": [
+            "kis2p_04_c#16"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Procurad con diligencia» es un verbo que a Pedro le gusta (1:5, 10, 15): subraya la responsabilidad de cada creyente en cuidar su conducta. El Comentario Moody propone traducirlo como que esa sea su ocupación. No se trata de ganar la salvación sino de tomarse en serio la vida que Dios dio.",
+          "fuentes": [
+            "kis2p_04_c#17",
+            "moodynt_02_a#21",
+            "ncb2p_01_b#24"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Las palabras «sin mancha e irreprensibles» no son casuales. Varios autores señalan que son lo opuesto de los falsos maestros, a quienes Pedro llamó manchas e inmundicias (2:13), y que recuerdan a Cristo, el cordero sin mancha y sin contaminación (1P 1:19). MacArthur distingue: sin mancha apunta al carácter (lo que somos) e irreprensibles a la reputación (lo que otros ven). Hay quienes parecen intachables en público pero no lo son en privado, como los fariseos; Pedro pide las dos cosas a la vez.",
+          "fuentes": [
+            "kis2p_04_c#17",
+            "mac2p_04_b#9",
+            "mbib2p_01_c#29",
+            "ncb2p_01_b#24"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Ser hallados por él» supone un encuentro: nadie podrá esconderse de Cristo cuando vuelva (1 Co 4:5). Los creyentes se suman así a la oración de Pablo de ser hallados irreprensibles cuando Jesús venga (1 Ts 3:13), con la confianza de Jd 24: es Dios quien puede presentarlos sin mancha.",
+          "fuentes": [
+            "mac2p_04_b#8",
+            "kis2p_04_c#17"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Y qué es estar «en paz»? Los autores le dan matices distintos (ver Interpretaciones), pero coinciden en algo: es la paz de quien tiene sus pecados perdonados y puede esperar al Señor sin terror. Wesley, citado por Fuhrman, lo dice así: ser hallados de modo que podamos encontrarnos con él sin miedo, rociados con su sangre y santificados por su Espíritu. El Moody agrega que paz y santidad van juntas (He 12:14).",
+          "fuentes": [
+            "bea2p_01_b#18",
+            "mbib2p_01_c#29",
+            "moodynt_02_a#21",
+            "kis2p_04_c#18"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "MacArthur traduce esta diligencia en hábitos concretos, los medios de gracia: la oración y la alabanza, absorber la Biblia, la adoración, la Cena del Señor y la comunión con los hermanos. McGee lo lleva a la pregunta de fondo: tener buena familia, vivir bien y educar a los hijos valen, pero el objetivo de la vida es vivir para Dios, y lo demás queda en segundo lugar.",
+          "fuentes": [
+            "mac2p_04_b#10",
+            "mcg2p_03_b#18"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "2P 3:15a",
       "titulo": "La paciencia del Señor es para salvación",
       "notas": [
-        {"texto": "Pedro repite lo que dijo en 3:9, ahora como algo que hay que tener en cuenta: «la paciencia de nuestro Señor es para salvación». La demora no es una promesa incumplida sino tiempo de gracia: Dios espera que el pecador se arrepienta. Núñez lo dice con fuerza: Dios está más preocupado que nosotros por los que no creen, y Cristo no ha vuelto todavía porque va a salvar a muchos más.", "fuentes": ["kis2p_05#1", "nunez2p_02_b#23", "nunez2p_02_b#13"], "tipo": "doctrina"},
-        {"texto": "Kistemaker y MacArthur lo ilustran con el hijo pródigo (Lc 15:11-32): el padre no salió a buscarlo a la tierra lejana sino que lo esperó hasta que volviera en sí, y lo recibió con misericordia. Pero Kistemaker advierte también que el período de gracia se termina: cuando se acabe, la puerta se cerrará.", "fuentes": ["kis2p_05#1", "mac2p_04_b#11"], "tipo": "ilustracion"},
-        {"texto": "Esta paciencia tiene dos destinatarios. Al incrédulo le da tiempo para salvarse; al creyente, tiempo para ocuparse de su salvación y avanzar en santidad (Fil 2:12-13), según el Nuevo Comentario Bíblico. Y no deja a la iglesia de brazos cruzados: Pedro no quería creyentes tan absortos en el futuro que se olvidaran del presente. Mientras el Señor espera, hay que anunciar el evangelio (2 Co 5:18-20); por eso Núñez conecta este versículo con la Gran Comisión (Ro 10:14-15).", "fuentes": ["ncb2p_01_b#24", "mac2p_04_b#11", "mbib2p_01_c#30", "nunez2p_02_b#23", "bea2p_01_b#18"], "tipo": "aplicacion"},
-        {"texto": "McGee agrega una nota de calma: esperar con paciencia pide no alarmarse por cómo anda el mundo. Las cosas no están bien, pero Dios sigue en su trono y un día las va a poner en orden.", "fuentes": ["mcg2p_03_b#19"], "tipo": "aplicacion"}
+        {
+          "texto": "Pedro repite lo que dijo en 3:9, ahora como algo que hay que tener en cuenta: «la paciencia de nuestro Señor es para salvación». La demora no es una promesa incumplida sino tiempo de gracia: Dios espera que el pecador se arrepienta. Núñez lo dice con fuerza: Dios está más preocupado que nosotros por los que no creen, y Cristo no ha vuelto todavía porque va a salvar a muchos más.",
+          "fuentes": [
+            "kis2p_05#1",
+            "nunez2p_02_b#23",
+            "nunez2p_02_b#13"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Kistemaker y MacArthur lo ilustran con el hijo pródigo (Lc 15:11-32): el padre no salió a buscarlo a la tierra lejana sino que lo esperó hasta que volviera en sí, y lo recibió con misericordia. Pero Kistemaker advierte también que el período de gracia se termina: cuando se acabe, la puerta se cerrará.",
+          "fuentes": [
+            "kis2p_05#1",
+            "mac2p_04_b#11"
+          ],
+          "tipo": "ilustracion"
+        },
+        {
+          "texto": "Esta paciencia tiene dos destinatarios. Al incrédulo le da tiempo para salvarse; al creyente, tiempo para ocuparse de su salvación y avanzar en santidad (Fil 2:12-13), según el Nuevo Comentario Bíblico. Y no deja a la iglesia de brazos cruzados: Pedro no quería creyentes tan absortos en el futuro que se olvidaran del presente. Mientras el Señor espera, hay que anunciar el evangelio (2 Co 5:18-20); por eso Núñez conecta este versículo con la Gran Comisión (Ro 10:14-15).",
+          "fuentes": [
+            "ncb2p_01_b#24",
+            "mac2p_04_b#11",
+            "mbib2p_01_c#30",
+            "nunez2p_02_b#23",
+            "bea2p_01_b#18"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "McGee agrega una nota de calma: esperar con paciencia pide no alarmarse por cómo anda el mundo. Las cosas no están bien, pero Dios sigue en su trono y un día las va a poner en orden.",
+          "fuentes": [
+            "mcg2p_03_b#19"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "2P 3:15b-16a",
       "titulo": "«Nuestro amado hermano Pablo»",
       "notas": [
-        {"texto": "Pedro busca apoyo en Pablo, que había enseñado lo mismo. Kistemaker hace notar que Pablo llama bondad a lo que Pedro llama paciencia (Ro 2:4), y que lo importante no es identificar una carta sino que los dos apóstoles dicen lo mismo sobre el día del Señor y sobre la paciencia de Dios con el pecador. Fuhrman lo resume: Pedro insiste en que él y Pablo concuerdan sobre el regreso de Cristo.", "fuentes": ["kis2p_05#1", "kis2p_05#5", "bea2p_01_b#19"], "tipo": "exegesis"},
-        {"texto": "El cariño de la expresión pesa más si se recuerda Antioquía. Allí Pablo reprendió públicamente a Pedro por apartarse de los cristianos gentiles (Gá 2:11-14), y la reprensión quedó por escrito en Gálatas. Aun así, Pedro no guarda rencor: lo llama hermano amado y recomienda sus cartas. Kistemaker y MacArthur ven en esto a un hombre que aceptó la corrección con arrepentimiento y cuyo respeto por Pablo no disminuyó. Por lo demás, según Kistemaker la relación entre ambos fue armoniosa: se visitaron en Jerusalén (Gá 1:18), se encontraron en el concilio (Hch 15:6-21) y compartieron a Silas como colaborador (1P 5:12).", "fuentes": ["kis2p_05#2", "mac2p_04_b#12", "cbmh2p_01_b#23"], "tipo": "historia"},
-        {"texto": "«Según la sabiduría que le ha sido dada» reconoce que lo que Pablo escribió no salió solo de su talento: es un don del Espíritu. Pablo mismo dice haber recibido sabiduría del Espíritu (1 Co 2:6-16) y habla de la gracia que le fue dada para su ministerio (Ro 15:15; 1 Co 3:10; Ef 3:2, 7). El Nuevo Comentario Bíblico ve aquí el origen sobrenatural de sus cartas.", "fuentes": ["kis2p_05#4", "ncb2p_01_b#25"], "tipo": "doctrina"},
-        {"texto": "¿Qué cartas tenía en mente Pedro? No lo dice, y los autores proponen distintas respuestas (ver Interpretaciones). Lo que sí se ve es que los lectores conocían varias cartas de Pablo: el mismo Pablo pedía que se intercambiaran entre las iglesias (Col 4:16; 1 Ts 5:27).", "fuentes": ["kis2p_05#3", "kis2p_05#5", "mac2p_01_a#18", "mac2p_04_b#13"], "tipo": "historia"}
+        {
+          "texto": "Pedro busca apoyo en Pablo, que había enseñado lo mismo. Kistemaker hace notar que Pablo llama bondad a lo que Pedro llama paciencia (Ro 2:4), y que lo importante no es identificar una carta sino que los dos apóstoles dicen lo mismo sobre el día del Señor y sobre la paciencia de Dios con el pecador. Fuhrman lo resume: Pedro insiste en que él y Pablo concuerdan sobre el regreso de Cristo.",
+          "fuentes": [
+            "kis2p_05#1",
+            "kis2p_05#5",
+            "bea2p_01_b#19"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El cariño de la expresión pesa más si se recuerda Antioquía. Allí Pablo reprendió públicamente a Pedro por apartarse de los cristianos gentiles (Gá 2:11-14), y la reprensión quedó por escrito en Gálatas. Aun así, Pedro no guarda rencor: lo llama hermano amado y recomienda sus cartas. Kistemaker y MacArthur ven en esto a un hombre que aceptó la corrección con arrepentimiento y cuyo respeto por Pablo no disminuyó. Por lo demás, según Kistemaker la relación entre ambos fue armoniosa: se visitaron en Jerusalén (Gá 1:18), se encontraron en el concilio (Hch 15:6-21) y compartieron a Silas como colaborador (1P 5:12).",
+          "fuentes": [
+            "kis2p_05#2",
+            "mac2p_04_b#12",
+            "cbmh2p_01_b#23"
+          ],
+          "tipo": "historia"
+        },
+        {
+          "texto": "«Según la sabiduría que le ha sido dada» reconoce que lo que Pablo escribió no salió solo de su talento: es un don del Espíritu. Pablo mismo dice haber recibido sabiduría del Espíritu (1 Co 2:6-16) y habla de la gracia que le fue dada para su ministerio (Ro 15:15; 1 Co 3:10; Ef 3:2, 7). El Nuevo Comentario Bíblico ve aquí el origen sobrenatural de sus cartas.",
+          "fuentes": [
+            "kis2p_05#4",
+            "ncb2p_01_b#25"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Qué cartas tenía en mente Pedro? No lo dice, y los autores proponen distintas respuestas (ver Interpretaciones). Lo que sí se ve es que los lectores conocían varias cartas de Pablo: el mismo Pablo pedía que se intercambiaran entre las iglesias (Col 4:16; 1 Ts 5:27).",
+          "fuentes": [
+            "kis2p_05#3",
+            "kis2p_05#5",
+            "mac2p_01_a#18",
+            "mac2p_04_b#13"
+          ],
+          "tipo": "historia"
+        }
       ]
     },
     {
       "rango": "2P 3:16",
       "titulo": "Cosas difíciles que los indoctos tuercen, como las otras Escrituras",
       "notas": [
-        {"texto": "Pedro, con honestidad, reconoce que en las cartas de Pablo hay cosas «difíciles de entender». MacArthur y Kistemaker piensan sobre todo en lo profético, que es el tema del capítulo: por ejemplo, el hombre de pecado y lo que lo detiene (2 Ts 2:1-12) o los acontecimientos de la venida (1 Ts 4:15-17; 5:1-11). Difícil no quiere decir imposible: son pasajes más complejos que otros. Pablo mismo sabía que sus cartas parecían duras y fuertes (2 Co 10:10).", "fuentes": ["mac2p_04_b#14", "kis2p_05#6", "mbib2p_01_c#31"], "tipo": "exegesis"},
-        {"texto": "Los que las tuercen son «indoctos e inconstantes»: gente sin formación ni juicio equilibrado, y sin estabilidad en su conducta (ver Palabras). Son los mismos falsos maestros del capítulo 2, que seducían a las almas inconstantes (2:14, 18). Núñez cree que retorcían frases de Pablo como «donde abundó el pecado, sobreabundó la gracia» (Ro 5:20) para enseñar una gracia barata, la idea de que da igual cuánto se peque porque Dios siempre perdona; Pablo ya lo había refutado (Ro 6:1-2). El Nuevo Comentario Bíblico recuerda que Pablo sabía que lo calumniaban así (Ro 3:8).", "fuentes": ["bea2p_01_b#20", "kis2p_05#7", "nunez2p_02_b#24", "ncb2p_01_b#25", "mac2p_04_b#15"], "tipo": "falsos_maestros"},
-        {"texto": "No se quedaban en Pablo: hacían lo mismo con «las otras Escrituras». Según MacArthur, además de la profecía distorsionaban la ley, la justificación por la fe y la santificación. Núñez agrega que tergiversaban lo que el Antiguo Testamento dice sobre la demora: Dios es lento para la ira y no se alegra con la muerte del malvado.", "fuentes": ["mac2p_04_b#15", "nunez2p_02_b#24"], "tipo": "falsos_maestros"},
-        {"texto": "La frase «las otras Escrituras» es una de las más importantes de la carta. Al decir otras, Pedro pone las cartas de Pablo en la misma categoría que el Antiguo Testamento. Kistemaker recuerda que en el Nuevo Testamento la palabra Escritura se usa para la palabra inspirada de Dios, la que Jesús citaba con el escrito está (Mt 4:4); MacArthur, que el sustantivo griego se usa en el Nuevo Testamento solo para la Biblia. La Biblia MacArthur la considera una de las declaraciones más claras de que lo que escribió Pablo es Escritura inspirada. Varios autores sacan de aquí que, para Pedro, los apóstoles escribían Escritura igual que los profetas (sobre el alcance exacto de la frase, ver Interpretaciones).", "fuentes": ["kis2p_05#9", "mac2p_04_b#16", "mbib2p_01_c#32", "bea2p_01_a#8", "cbmh2p_01_b#20", "kis2p_01_a#7"], "tipo": "doctrina"},
-        {"texto": "Esto no fue una ocurrencia aislada. Los apóstoles sabían que escribían palabra de Dios: Pablo dice hablar con palabras que enseña el Espíritu (1 Co 2:13), que lo que escribe es mandamiento del Señor (1 Co 14:37), y elogia a los tesalonicenses por recibir su enseñanza como palabra de Dios (1 Ts 2:13). Piper arma la cadena: Jesús eligió a los apóstoles y les prometió que el Espíritu les recordaría todo; Pablo dice hablar con palabras del Espíritu; y Pedro confirma esto al poner los escritos de Pablo con el Antiguo Testamento. De ahí concluye que cuando la Biblia habla, Dios habla.", "fuentes": ["mac2p_01_a#18", "kis2p_01_a#11", "r1_010#1", "moodynt_02_a#22", "r1_018_b#19"], "tipo": "doctrina"},
-        {"texto": "El final es serio: lo hacen «para su propia perdición». Quien no valora la santidad de la Escritura y la retuerce, dice Calvino citado por Kistemaker, se lanza a su propia destrucción, porque al final tendrá que vérselas con el Dios que habló en esa misma Palabra. La Biblia MacArthur observa que si torcer a Pablo lleva a la condenación, es porque sus escritos son palabra de Dios.", "fuentes": ["kis2p_05#8", "mbib2p_01_c#32", "mac2p_04_b#16"], "tipo": "doctrina"},
-        {"texto": "Que algunos tuerzan estas cartas no es razón para dejarlas de lado. Fuhrman dice que hay que estudiarlas y aplicarlas con más cuidado; Matthew Henry, que el ser humano librado a su propio criterio pervierte cualquier don de Dios. Henry propone una actitud: tener la mente dispuesta a recibir lo difícil y poner en práctica lo fácil, con humildad, desconfianza de uno mismo y sumisión a Cristo.", "fuentes": ["bea2p_01_b#19", "mhenry_01_b#41"], "tipo": "aplicacion"}
+        {
+          "texto": "Pedro, con honestidad, reconoce que en las cartas de Pablo hay cosas «difíciles de entender». MacArthur y Kistemaker piensan sobre todo en lo profético, que es el tema del capítulo: por ejemplo, el hombre de pecado y lo que lo detiene (2 Ts 2:1-12) o los acontecimientos de la venida (1 Ts 4:15-17; 5:1-11). Difícil no quiere decir imposible: son pasajes más complejos que otros. Pablo mismo sabía que sus cartas parecían duras y fuertes (2 Co 10:10).",
+          "fuentes": [
+            "mac2p_04_b#14",
+            "kis2p_05#6",
+            "mbib2p_01_c#31"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Los que las tuercen son «indoctos e inconstantes»: gente sin formación ni juicio equilibrado, y sin estabilidad en su conducta (ver Palabras). Son los mismos falsos maestros del capítulo 2, que seducían a las almas inconstantes (2:14, 18). Núñez cree que retorcían la frase de Pablo sobre la gracia que sobreabunda donde abundó el pecado (Ro 5:20) para enseñar una gracia barata, la idea de que da igual cuánto se peque porque Dios siempre perdona; Pablo ya lo había refutado (Ro 6:1-2). El Nuevo Comentario Bíblico recuerda que Pablo sabía que lo calumniaban así (Ro 3:8).",
+          "fuentes": [
+            "bea2p_01_b#20",
+            "kis2p_05#7",
+            "nunez2p_02_b#24",
+            "ncb2p_01_b#25",
+            "mac2p_04_b#15"
+          ],
+          "tipo": "falsos_maestros"
+        },
+        {
+          "texto": "No se quedaban en Pablo: hacían lo mismo con «las otras Escrituras». Según MacArthur, además de la profecía distorsionaban la ley, la justificación por la fe y la santificación. Núñez agrega que tergiversaban lo que el Antiguo Testamento dice sobre la demora: Dios es lento para la ira y no se alegra con la muerte del malvado.",
+          "fuentes": [
+            "mac2p_04_b#15",
+            "nunez2p_02_b#24"
+          ],
+          "tipo": "falsos_maestros"
+        },
+        {
+          "texto": "La frase «las otras Escrituras» es una de las más importantes de la carta. Al decir otras, Pedro pone las cartas de Pablo en la misma categoría que el Antiguo Testamento. Kistemaker recuerda que en el Nuevo Testamento la palabra Escritura se usa para la palabra inspirada de Dios, la que Jesús citaba con el escrito está (Mt 4:4); MacArthur, que el sustantivo griego se usa en el Nuevo Testamento solo para la Biblia. La Biblia MacArthur la considera una de las declaraciones más claras de que lo que escribió Pablo es Escritura inspirada. Varios autores sacan de aquí que, para Pedro, los apóstoles escribían Escritura igual que los profetas (sobre el alcance exacto de la frase, ver Interpretaciones).",
+          "fuentes": [
+            "kis2p_05#9",
+            "mac2p_04_b#16",
+            "mbib2p_01_c#32",
+            "bea2p_01_a#8",
+            "cbmh2p_01_b#20",
+            "kis2p_01_a#7"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Esto no fue una ocurrencia aislada. Los apóstoles sabían que escribían palabra de Dios: Pablo dice hablar con palabras que enseña el Espíritu (1 Co 2:13), que lo que escribe es mandamiento del Señor (1 Co 14:37), y elogia a los tesalonicenses por recibir su enseñanza como palabra de Dios (1 Ts 2:13). Piper arma la cadena: Jesús eligió a los apóstoles y les prometió que el Espíritu les recordaría todo; Pablo dice hablar con palabras del Espíritu; y Pedro confirma esto al poner los escritos de Pablo con el Antiguo Testamento. De ahí concluye que cuando la Biblia habla, Dios habla.",
+          "fuentes": [
+            "mac2p_01_a#18",
+            "kis2p_01_a#11",
+            "r1_010#1",
+            "moodynt_02_a#22",
+            "r1_018_b#19"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "El final es serio: lo hacen «para su propia perdición». Quien no valora la santidad de la Escritura y la retuerce, dice Calvino citado por Kistemaker, se lanza a su propia destrucción, porque al final tendrá que vérselas con el Dios que habló en esa misma Palabra. La Biblia MacArthur observa que si torcer a Pablo lleva a la condenación, es porque sus escritos son palabra de Dios.",
+          "fuentes": [
+            "kis2p_05#8",
+            "mbib2p_01_c#32",
+            "mac2p_04_b#16"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Que algunos tuerzan estas cartas no es razón para dejarlas de lado. Fuhrman dice que hay que estudiarlas y aplicarlas con más cuidado; Matthew Henry, que el ser humano librado a su propio criterio pervierte cualquier don de Dios. Henry propone una actitud: tener la mente dispuesta a recibir lo difícil y poner en práctica lo fácil, con humildad, desconfianza de uno mismo y sumisión a Cristo.",
+          "fuentes": [
+            "bea2p_01_b#19",
+            "mhenry_01_b#41"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "2P 3:17",
       "titulo": "Avisados de antemano: guardaos",
       "notas": [
-        {"texto": "Pedro hace ahora una doble exhortación final: una hacia afuera (cuidarse de los malvados) y otra hacia adentro (crecer en Cristo), según Kistemaker. El «así que» marca el contraste entre los que tuercen la Escritura y los lectores, a quienes otra vez llama «oh amados».", "fuentes": ["kis2p_05#12", "bea2p_01_b#21"], "tipo": "estructura"},
-        {"texto": "«Sabiéndolo de antemano»: ya están avisados, y saber de antemano es estar mejor defendido (cf. 1 Ts 5:4). Pero eso no los vuelve inmunes. Kistemaker nota que la forma del verbo supone que ya están alerta, y Pedro refuerza esa decisión mostrando lo que está en juego. La Biblia MacArthur lo dice sin vueltas: cada vez que un creyente escucha en serio a un maestro falso corre peligro de ser desviado.", "fuentes": ["moodynt_02_a#23", "kis2p_05#13", "mbib2p_01_c#33", "ncb2p_01_b#26"], "tipo": "exegesis"},
-        {"texto": "El peligro es ser «arrastrados por el error de los inicuos». Error y conducta van juntos: la palabra para inicuos es la misma que Pedro usó para los de Sodoma (2:7), gente sin ley ni freno moral. No se trata solo de ideas equivocadas sino de un modo de vida que arrastra.", "fuentes": ["kis2p_05#13", "mac2p_04_b#17"], "tipo": "exegesis"},
-        {"texto": "Pedro sabía de qué hablaba. Kistemaker recuerda la noche en que dijo que aunque todos se escandalizaran él nunca lo haría (Mt 26:33), y horas después negó tres veces a su Maestro: Satanás ataca a los que se sienten seguros. Núñez piensa además en Antioquía, donde Pedro y hasta Bernabé se dejaron arrastrar (Gá 2:13). Estar firmes hoy no garantiza estarlo mañana, y la firmeza viene de aferrarse a la Palabra. Sobre qué se pierde al caer de la firmeza, ver Interpretaciones.", "fuentes": ["kis2p_05#14", "nunez2p_02_b#25"], "tipo": "aplicacion"},
-        {"texto": "McGee advierte contra el atajo: no hay curso de una semana ni programa rápido que haga creyentes firmes. La única manera es conocer la Palabra de Dios, y no unos pocos versículos para usar cuando conviene.", "fuentes": ["mcg2p_03_b#21"], "tipo": "aplicacion"}
+        {
+          "texto": "Pedro hace ahora una doble exhortación final: una hacia afuera (cuidarse de los malvados) y otra hacia adentro (crecer en Cristo), según Kistemaker. El «así que» marca el contraste entre los que tuercen la Escritura y los lectores, a quienes otra vez llama «oh amados».",
+          "fuentes": [
+            "kis2p_05#12",
+            "bea2p_01_b#21"
+          ],
+          "tipo": "estructura"
+        },
+        {
+          "texto": "«Sabiéndolo de antemano»: ya están avisados, y saber de antemano es estar mejor defendido (cf. 1 Ts 5:4). Pero eso no los vuelve inmunes. Kistemaker nota que la forma del verbo supone que ya están alerta, y Pedro refuerza esa decisión mostrando lo que está en juego. La Biblia MacArthur lo dice sin vueltas: cada vez que un creyente escucha en serio a un maestro falso corre peligro de ser desviado.",
+          "fuentes": [
+            "moodynt_02_a#23",
+            "kis2p_05#13",
+            "mbib2p_01_c#33",
+            "ncb2p_01_b#26"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "El peligro es ser «arrastrados por el error de los inicuos». Error y conducta van juntos: la palabra para inicuos es la misma que Pedro usó para los de Sodoma (2:7), gente sin ley ni freno moral. No se trata solo de ideas equivocadas sino de un modo de vida que arrastra.",
+          "fuentes": [
+            "kis2p_05#13",
+            "mac2p_04_b#17"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Pedro sabía de qué hablaba. Kistemaker recuerda la noche en que dijo que aunque todos se escandalizaran él nunca lo haría (Mt 26:33), y horas después negó tres veces a su Maestro: Satanás ataca a los que se sienten seguros. Núñez piensa además en Antioquía, donde Pedro y hasta Bernabé se dejaron arrastrar (Gá 2:13). Estar firmes hoy no garantiza estarlo mañana, y la firmeza viene de aferrarse a la Palabra. Sobre qué se pierde al caer de la firmeza, ver Interpretaciones.",
+          "fuentes": [
+            "kis2p_05#14",
+            "nunez2p_02_b#25"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "McGee advierte contra el atajo: no hay curso de una semana ni programa rápido que haga creyentes firmes. La única manera es conocer la Palabra de Dios, y no unos pocos versículos para usar cuando conviene.",
+          "fuentes": [
+            "mcg2p_03_b#21"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "2P 3:18",
       "titulo": "Creced en la gracia y el conocimiento, y a él la gloria",
       "notas": [
-        {"texto": "La defensa no es solo estar a la defensiva: «Antes bien, creced». Fuhrman lo dice así: estar ocupados en crecer ayuda a no ser vencidos. La vida cristiana nunca es estática, observa el Moody: o se avanza o se retrocede. Y crecer es tarea de los creyentes, no algo que pasa solo, según Kistemaker.", "fuentes": ["bea2p_01_b#21", "moodynt_02_a#24", "kis2p_05#15", "mac2p_04_b#18"], "tipo": "exegesis"},
-        {"texto": "Pedro vuelve al saludo del comienzo, gracia y paz por el conocimiento de Dios y de Jesús (1:2), y a la escalera de virtudes de 1:5-11: termina con la misma nota con que empezó. Las dos cosas van juntas. Roldán explica que la gracia toca la experiencia y la vida espiritual, y el conocimiento pone en juego la mente; solo se crece de forma armoniosa en ambas. Wiersbe advierte que se puede crecer en conocimiento sin crecer en gracia, y Pedro quiere vidas equilibradas.", "fuentes": ["kis2p_05#15", "cbmh2p_01_b#22", "r1_007_a#21", "moodynt_02_a#24", "mbib2p_01_c#34"], "tipo": "doctrina"},
-        {"texto": "¿Cómo se crece? MacArthur responde: Dios perdona por su gracia, y sus hijos se alimentan de la Biblia y hablan con Cristo, y así lo conocen más. Es la leche espiritual de 1P 2:2. Núñez aclara que no es solo saber más datos bíblicos sino conocer el carácter de Dios, que transforma, porque al conocerlo nos parecemos a él. Para Henry, el objetivo es conocer a Cristo con más claridad para ser más como él y amarlo más.", "fuentes": ["mac2p_04_b#18", "nunez2p_02_b#27", "mhenry_01_b#42"], "tipo": "aplicacion"},
-        {"texto": "¿Cómo se ve el crecimiento? Núñez propone medirlo con el fruto del Espíritu (Gá 5:22-23) y advierte que muchos con años en la fe han crecido poco. La Teología sistemática de MacArthur y Mayhue agrega que Dios espera crecimiento, que no siempre es parejo ni fácil, y que la falta de crecimiento debería encender una alarma.", "fuentes": ["nunez2p_02_b#26", "r1_017#13"], "tipo": "aplicacion"},
-        {"texto": "Este crecimiento está centrado en una persona: «nuestro Señor y Salvador Jesucristo». Conocerlo más en su señorío y en su obra de salvación da la estabilidad que impide ser engañados. Así, guardarse y crecer no son dos tareas distintas: crecer en Cristo es la mejor manera de no caer.", "fuentes": ["mac2p_04_b#19", "mbib2p_01_c#34", "kis2p_05#15"], "tipo": "doctrina"},
-        {"texto": "La carta termina con alabanza: «A él sea gloria ahora y hasta el día de la eternidad». Literalmente, hasta el día del siglo o de la era: el día que abre la eternidad, el de la venida de Cristo, cuando el tiempo se disuelve en lo eterno. Así la carta acaba donde apuntaba todo el capítulo, en el día del Señor. Que la gloria vaya dirigida a Jesús tiene un peso enorme (ver Cristo).", "fuentes": ["ncb2p_01_b#26", "kis2p_05#16", "bea2p_01_b#21"], "tipo": "exegesis"}
+        {
+          "texto": "La defensa no es solo estar a la defensiva: «Antes bien, creced». Fuhrman lo dice así: estar ocupados en crecer ayuda a no ser vencidos. La vida cristiana nunca es estática, observa el Moody: o se avanza o se retrocede. Y crecer es tarea de los creyentes, no algo que pasa solo, según Kistemaker.",
+          "fuentes": [
+            "bea2p_01_b#21",
+            "moodynt_02_a#24",
+            "kis2p_05#15",
+            "mac2p_04_b#18"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Pedro vuelve al saludo del comienzo, gracia y paz por el conocimiento de Dios y de Jesús (1:2), y a la escalera de virtudes de 1:5-11: termina con la misma nota con que empezó. Las dos cosas van juntas. Roldán explica que la gracia toca la experiencia y la vida espiritual, y el conocimiento pone en juego la mente; solo se crece de forma armoniosa en ambas. Wiersbe advierte que se puede crecer en conocimiento sin crecer en gracia, y Pedro quiere vidas equilibradas.",
+          "fuentes": [
+            "kis2p_05#15",
+            "cbmh2p_01_b#22",
+            "r1_007_a#21",
+            "moodynt_02_a#24",
+            "mbib2p_01_c#34"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Cómo se crece? MacArthur responde: Dios perdona por su gracia, y sus hijos se alimentan de la Biblia y hablan con Cristo, y así lo conocen más. Es la leche espiritual de 1P 2:2. Núñez aclara que no es solo saber más datos bíblicos sino conocer el carácter de Dios, que transforma, porque al conocerlo nos parecemos a él. Para Henry, el objetivo es conocer a Cristo con más claridad para ser más como él y amarlo más.",
+          "fuentes": [
+            "mac2p_04_b#18",
+            "nunez2p_02_b#27",
+            "mhenry_01_b#42"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "¿Cómo se ve el crecimiento? Núñez propone medirlo con el fruto del Espíritu (Gá 5:22-23) y advierte que muchos con años en la fe han crecido poco. La Teología sistemática de MacArthur y Mayhue agrega que Dios espera crecimiento, que no siempre es parejo ni fácil, y que la falta de crecimiento debería encender una alarma.",
+          "fuentes": [
+            "nunez2p_02_b#26",
+            "r1_017#13"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "Este crecimiento está centrado en una persona: «nuestro Señor y Salvador Jesucristo». Conocerlo más en su señorío y en su obra de salvación da la estabilidad que impide ser engañados. Así, guardarse y crecer no son dos tareas distintas: crecer en Cristo es la mejor manera de no caer.",
+          "fuentes": [
+            "mac2p_04_b#19",
+            "mbib2p_01_c#34",
+            "kis2p_05#15"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La carta termina con alabanza: «A él sea gloria ahora y hasta el día de la eternidad». Literalmente, hasta el día del siglo o de la era: el día que abre la eternidad, el de la venida de Cristo, cuando el tiempo se disuelve en lo eterno. Así la carta acaba donde apuntaba todo el capítulo, en el día del Señor. Que la gloria vaya dirigida a Jesús tiene un peso enorme (ver Cristo).",
+          "fuentes": [
+            "ncb2p_01_b#26",
+            "kis2p_05#16",
+            "bea2p_01_b#21"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "2P 3:14", "griego": "εἰρήνη", "translit": "eirḗnē", "significado": "Paz. Roldán explica que, aunque la palabra es griega, la idea viene del shalom del Antiguo Testamento: integridad y armonía total, que se alcanza en la medida en que se vive sin mancha e irreprensible.", "fuentes": ["cbmh2p_01_b#19", "mac2p_04_b#8"]},
-    {"ref": "2P 3:16", "griego": "δυσνόητα", "translit": "dusnoēta", "significado": "Difíciles de entender, complicados de interpretar. MacArthur subraya que no significa imposibles, sino más complejos que otros pasajes, sobre todo lo profético.", "fuentes": ["mac2p_04_b#14"]},
-    {"ref": "2P 3:16", "griego": "ἀμαθεῖς", "translit": "amatheis", "significado": "Indoctos: no tanto sin estudios como de mente sin formar ni disciplinar, sin juicio equilibrado (Strachan, citado en Beacon). El Diccionario Mundo Hispano la distingue de otras palabras para ignorante, como la de Hch 4:13, que señala falta de instrucción rabínica.", "fuentes": ["bea2p_01_b#20", "dbmh_01_b#16", "mac2p_04_b#15"]},
-    {"ref": "2P 3:16", "griego": "στρεβλόω", "translit": "streblóō", "significado": "Torcer, dislocar. Se usaba para el potro de tortura que desarticulaba los miembros. Roldán y MacArthur sacan la imagen: los falsos maestros torturan los textos hasta dejar un cuerpo de Escritura deforme; Kistemaker, que los hacen decir lo contrario de lo que dicen, como el torturador a su víctima.", "fuentes": ["cbmh2p_01_b#21", "mac2p_04_b#15", "kis2p_05#7"]},
-    {"ref": "2P 3:16", "griego": "γραφάς", "translit": "graphas", "significado": "Escrituras. Según MacArthur, el sustantivo aparece unas cincuenta veces en el Nuevo Testamento y siempre se refiere a la Biblia, tanto al Antiguo Testamento como al Nuevo. Fuhrman cita a Strachan: tas loipas graphas, el resto de las Escrituras.", "fuentes": ["mac2p_04_b#16", "bea2p_01_b#19"]},
-    {"ref": "2P 3:17", "griego": "ἀθέσμων", "translit": "athesmōn", "significado": "Inicuos: literalmente sin ley ni costumbre; llegó a significar moralmente corrupto, el rasgo de fondo de los engañadores (MacArthur).", "fuentes": ["mac2p_04_b#17"]},
-    {"ref": "2P 3:17", "griego": "στηριγμός", "translit": "stērigmos", "significado": "Firmeza, pie firme, seguridad; lo opuesto de los inestables del v. 16 (MacArthur).", "fuentes": ["mac2p_04_b#17"]},
-    {"ref": "2P 3:18", "griego": "αὐξάνετε", "translit": "auxanete", "significado": "Crezcan: progreso o aumento dentro de una esfera, aquí la gracia y el conocimiento de Cristo (MacArthur).", "fuentes": ["mac2p_04_b#18"]}
+    {
+      "ref": "2P 3:14",
+      "griego": "εἰρήνη",
+      "translit": "eirḗnē",
+      "significado": "Paz. Roldán explica que, aunque la palabra es griega, la idea viene del shalom del Antiguo Testamento: integridad y armonía total, que se alcanza en la medida en que se vive sin mancha e irreprensible.",
+      "fuentes": [
+        "cbmh2p_01_b#19",
+        "mac2p_04_b#8"
+      ]
+    },
+    {
+      "ref": "2P 3:16",
+      "griego": "δυσνόητα",
+      "translit": "dusnoēta",
+      "significado": "Difíciles de entender, complicados de interpretar. MacArthur subraya que no significa imposibles, sino más complejos que otros pasajes, sobre todo lo profético.",
+      "fuentes": [
+        "mac2p_04_b#14"
+      ]
+    },
+    {
+      "ref": "2P 3:16",
+      "griego": "ἀμαθεῖς",
+      "translit": "amatheis",
+      "significado": "Indoctos: no tanto sin estudios como de mente sin formar ni disciplinar, sin juicio equilibrado (Strachan, citado en Beacon). El Diccionario Mundo Hispano la distingue de otras palabras para ignorante, como la de Hch 4:13, que señala falta de instrucción rabínica.",
+      "fuentes": [
+        "bea2p_01_b#20",
+        "dbmh_01_b#16",
+        "mac2p_04_b#15"
+      ]
+    },
+    {
+      "ref": "2P 3:16",
+      "griego": "στρεβλόω",
+      "translit": "streblóō",
+      "significado": "Torcer, dislocar. Se usaba para el potro de tortura que desarticulaba los miembros. Roldán y MacArthur sacan la imagen: los falsos maestros torturan los textos hasta dejar un cuerpo de Escritura deforme; Kistemaker, que los hacen decir lo contrario de lo que dicen, como el torturador a su víctima.",
+      "fuentes": [
+        "cbmh2p_01_b#21",
+        "mac2p_04_b#15",
+        "kis2p_05#7"
+      ]
+    },
+    {
+      "ref": "2P 3:16",
+      "griego": "γραφάς",
+      "translit": "graphas",
+      "significado": "Escrituras. Según MacArthur, el sustantivo aparece unas cincuenta veces en el Nuevo Testamento y siempre se refiere a la Biblia, tanto al Antiguo Testamento como al Nuevo. Fuhrman cita a Strachan: tas loipas graphas, el resto de las Escrituras.",
+      "fuentes": [
+        "mac2p_04_b#16",
+        "bea2p_01_b#19"
+      ]
+    },
+    {
+      "ref": "2P 3:17",
+      "griego": "ἀθέσμων",
+      "translit": "athesmōn",
+      "significado": "Inicuos: literalmente sin ley ni costumbre; llegó a significar moralmente corrupto, el rasgo de fondo de los engañadores (MacArthur).",
+      "fuentes": [
+        "mac2p_04_b#17"
+      ]
+    },
+    {
+      "ref": "2P 3:17",
+      "griego": "στηριγμός",
+      "translit": "stērigmos",
+      "significado": "Firmeza, pie firme, seguridad; lo opuesto de los inestables del v. 16 (MacArthur).",
+      "fuentes": [
+        "mac2p_04_b#17"
+      ]
+    },
+    {
+      "ref": "2P 3:18",
+      "griego": "αὐξάνετε",
+      "translit": "auxanete",
+      "significado": "Crezcan: progreso o aumento dentro de una esfera, aquí la gracia y el conocimiento de Cristo (MacArthur).",
+      "fuentes": [
+        "mac2p_04_b#18"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Sin mancha como él. La meta de 3:14 tiene un modelo: Cristo, el cordero sin mancha y sin contaminación. Núñez recuerda que en el Antiguo Testamento el cordero del sacrificio no podía tener defecto, y que Cristo se ofreció sin mancha. Lo que él es, es lo que Dios quiere formar en los suyos.", "refs": ["1P 1:19", "He 9:14"], "fuentes": ["kis2p_04_c#17", "nunez2p_02_b#16", "mbib2p_01_c#29"]},
-    {"texto": "El Señor paciente. La demora del regreso no es descuido sino la paciencia de nuestro Señor, que sigue sumando hijos a su familia, como el padre que espera al pródigo.", "refs": ["Lc 15:11-32", "2P 3:9"], "fuentes": ["kis2p_05#1", "mac2p_04_b#11"]},
-    {"texto": "El que ora por los que pueden caer. Kistemaker encuentra consuelo en que Jesús oró por Pedro para que su fe no fallara cuando Satanás quiso zarandearlo, y ve en eso que Jesús ora por su pueblo.", "refs": ["Lc 22:31-32"], "fuentes": ["kis2p_05#14"]},
-    {"texto": "Señor y Salvador. Pedro lo llama así una vez más: señorío y obra de salvación juntos. Conocer a Cristo en las dos cosas es lo que da firmeza.", "refs": ["2P 1:1"], "fuentes": ["mac2p_04_b#19"]},
-    {"texto": "A él la gloria. La doxología final se dirige a Jesús. Kistemaker, MacArthur, el Nuevo Comentario Bíblico y la Biblia MacArthur coinciden en que eso afirma su divinidad: el Antiguo Testamento dice que Dios no da su gloria a otro (Is 42:8), y Pedro se la da a Cristo, como hacen otras doxologías del Nuevo Testamento. Pedro empezó la carta llamando a Jesús nuestro Dios y Salvador (1:1) y la cierra adorándolo. El Moody lo resume: Cristo es el principio, el desarrollo y la culminación de nuestra salvación.", "refs": ["Is 42:8", "Jn 1:14", "Jn 5:23", "Ap 1:5-6", "He 13:20-21"], "fuentes": ["kis2p_05#16", "mac2p_04_b#20", "ncb2p_01_b#26", "mbib2p_01_c#34", "dbmh_02_b#19", "moodynt_02_a#24"]}
+    {
+      "texto": "Sin mancha como él. La meta de 3:14 tiene un modelo: Cristo, el cordero sin mancha y sin contaminación. Núñez recuerda que en el Antiguo Testamento el cordero del sacrificio no podía tener defecto, y que Cristo se ofreció sin mancha. Lo que él es, es lo que Dios quiere formar en los suyos.",
+      "refs": [
+        "1P 1:19",
+        "He 9:14"
+      ],
+      "fuentes": [
+        "kis2p_04_c#17",
+        "nunez2p_02_b#16",
+        "mbib2p_01_c#29"
+      ]
+    },
+    {
+      "texto": "El Señor paciente. La demora del regreso no es descuido sino la paciencia de nuestro Señor, que sigue sumando hijos a su familia, como el padre que espera al pródigo.",
+      "refs": [
+        "Lc 15:11-32",
+        "2P 3:9"
+      ],
+      "fuentes": [
+        "kis2p_05#1",
+        "mac2p_04_b#11"
+      ]
+    },
+    {
+      "texto": "El que ora por los que pueden caer. Kistemaker encuentra consuelo en que Jesús oró por Pedro para que su fe no fallara cuando Satanás quiso zarandearlo, y ve en eso que Jesús ora por su pueblo.",
+      "refs": [
+        "Lc 22:31-32"
+      ],
+      "fuentes": [
+        "kis2p_05#14"
+      ]
+    },
+    {
+      "texto": "Señor y Salvador. Pedro lo llama así una vez más: señorío y obra de salvación juntos. Conocer a Cristo en las dos cosas es lo que da firmeza.",
+      "refs": [
+        "2P 1:1"
+      ],
+      "fuentes": [
+        "mac2p_04_b#19"
+      ]
+    },
+    {
+      "texto": "A él la gloria. La doxología final se dirige a Jesús. Kistemaker, MacArthur, el Nuevo Comentario Bíblico y la Biblia MacArthur coinciden en que eso afirma su divinidad: el Antiguo Testamento dice que Dios no da su gloria a otro (Is 42:8), y Pedro se la da a Cristo, como hacen otras doxologías del Nuevo Testamento. Pedro empezó la carta llamando a Jesús nuestro Dios y Salvador (1:1) y la cierra adorándolo. El Moody lo resume: Cristo es el principio, el desarrollo y la culminación de nuestra salvación.",
+      "refs": [
+        "Is 42:8",
+        "Jn 1:14",
+        "Jn 5:23",
+        "Ap 1:5-6",
+        "He 13:20-21"
+      ],
+      "fuentes": [
+        "kis2p_05#16",
+        "mac2p_04_b#20",
+        "ncb2p_01_b#26",
+        "mbib2p_01_c#34",
+        "dbmh_02_b#19",
+        "moodynt_02_a#24"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué es ser hallados «en paz» (v. 14)?",
       "posturas": [
-        {"postura": "Principalmente la paz interior de una fe confiada, que viene de saber que los pecados están perdonados; la paz con Dios por la salvación y la paz con los hermanos serían sentidos secundarios.", "quien": "MacArthur", "fuentes": ["mac2p_04_b#8"]},
-        {"postura": "La paz con Dios del justificado por la fe (Ro 5:1), que se mantiene viviendo en comunión, confesando el pecado y recibiendo perdón (1J 1:9).", "quien": "Kistemaker", "fuentes": ["kis2p_04_c#18"]},
-        {"postura": "El shalom del Antiguo Testamento: integridad y armonía total.", "quien": "Roldán (Mundo Hispano)", "fuentes": ["cbmh2p_01_b#19"]},
-        {"postura": "El contento de un corazón en recta relación con Dios; o la seguridad de poder enfrentar el regreso de Cristo sin temor.", "quien": "Nuevo Comentario Bíblico; Biblia MacArthur", "fuentes": ["ncb2p_01_b#24", "mbib2p_01_c#29"]}
+        {
+          "postura": "Principalmente la paz interior de una fe confiada, que viene de saber que los pecados están perdonados; la paz con Dios por la salvación y la paz con los hermanos serían sentidos secundarios.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac2p_04_b#8"
+          ]
+        },
+        {
+          "postura": "La paz con Dios del justificado por la fe (Ro 5:1), que se mantiene viviendo en comunión, confesando el pecado y recibiendo perdón (1J 1:9).",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis2p_04_c#18"
+          ]
+        },
+        {
+          "postura": "El shalom del Antiguo Testamento: integridad y armonía total.",
+          "quien": "Roldán (Mundo Hispano)",
+          "fuentes": [
+            "cbmh2p_01_b#19"
+          ]
+        },
+        {
+          "postura": "El contento de un corazón en recta relación con Dios; o la seguridad de poder enfrentar el regreso de Cristo sin temor.",
+          "quien": "Nuevo Comentario Bíblico; Biblia MacArthur",
+          "fuentes": [
+            "ncb2p_01_b#24",
+            "mbib2p_01_c#29"
+          ]
+        }
       ],
       "nota": "Los matices se complementan: todos ligan la paz con el perdón y una vida en santidad."
     },
     {
       "tema": "¿A qué cartas de Pablo se refiere Pedro?",
       "posturas": [
-        {"postura": "A Romanos, por el paralelo con Ro 2:4.", "quien": "Algunos eruditos (Green), según Kistemaker", "fuentes": ["kis2p_05#3"]},
-        {"postura": "A cartas enviadas a Asia Menor (Gálatas, Efesios, Colosenses), si los lectores son los mismos de 1 Pedro.", "quien": "Bigg, según Kistemaker; MacArthur lo supone", "fuentes": ["kis2p_05#3", "mac2p_04_b#13"]},
-        {"postura": "A la enseñanza general de Pablo sobre la segunda venida y la paciencia de Dios, presente en todas sus cartas; podrían pensarse pasajes como Ro 13:11-14, 2 Co 5:6-10 o 1 Ts 5:2-11.", "quien": "Nuevo Comentario Bíblico; Roldán", "fuentes": ["ncb2p_01_b#24", "cbmh2p_01_b#20"]},
-        {"postura": "No sabemos cuál, y conviene no suponer.", "quien": "Kistemaker", "fuentes": ["kis2p_05#3"]}
+        {
+          "postura": "A Romanos, por el paralelo con Ro 2:4.",
+          "quien": "Algunos eruditos (Green), según Kistemaker",
+          "fuentes": [
+            "kis2p_05#3"
+          ]
+        },
+        {
+          "postura": "A cartas enviadas a Asia Menor (Gálatas, Efesios, Colosenses), si los lectores son los mismos de 1 Pedro.",
+          "quien": "Bigg, según Kistemaker; MacArthur lo supone",
+          "fuentes": [
+            "kis2p_05#3",
+            "mac2p_04_b#13"
+          ]
+        },
+        {
+          "postura": "A la enseñanza general de Pablo sobre la segunda venida y la paciencia de Dios, presente en todas sus cartas; podrían pensarse pasajes como Ro 13:11-14, 2 Co 5:6-10 o 1 Ts 5:2-11.",
+          "quien": "Nuevo Comentario Bíblico; Roldán",
+          "fuentes": [
+            "ncb2p_01_b#24",
+            "cbmh2p_01_b#20"
+          ]
+        },
+        {
+          "postura": "No sabemos cuál, y conviene no suponer.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis2p_05#3"
+          ]
+        }
       ],
       "nota": "Lo que importa para todos es que Pedro y Pablo enseñan lo mismo."
     },
     {
       "tema": "¿Hasta dónde llega «las otras Escrituras» y qué dice de la fecha de 2 Pedro?",
       "posturas": [
-        {"postura": "Pedro pone las cartas de Pablo a la altura del Antiguo Testamento; ya había una colección de cartas paulinas aceptadas como Escritura; la evidencia apunta a una aceptación temprana, y por eso la objeción de que Pedro no pudo escribir esto bajo Nerón no se sostiene.", "quien": "Kistemaker", "fuentes": ["kis2p_05#9", "kis2p_05#5", "kis2p_01_a#11"]},
-        {"postura": "No hace falta pensar en una colección completa sino en las cartas que Pedro conocía, que ya circulaban (Col 4:16); no es anacronismo llamarlas Escritura, porque los apóstoles sabían que escribían palabra de Dios.", "quien": "MacArthur; Nuevo Comentario Bíblico", "fuentes": ["mac2p_01_a#18", "ncb2p_01_b#25"]},
-        {"postura": "La frase puede argumentarse tanto para incluir como para excluir a Pablo de la categoría de Escritura; no saca conclusión de este texto, aunque afirma que las cartas de Pablo tenían todas las cualidades para serlo.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb2p_01_b#25"]},
-        {"postura": "No hay motivo para pensar que el canon ya fuera algo formal; Pedro habla con naturalidad de un contemporáneo.", "quien": "Comentario Moody", "fuentes": ["moodynt_02_a#22"]}
+        {
+          "postura": "Pedro pone las cartas de Pablo a la altura del Antiguo Testamento; ya había una colección de cartas paulinas aceptadas como Escritura; la evidencia apunta a una aceptación temprana, y por eso la objeción de que Pedro no pudo escribir esto bajo Nerón no se sostiene.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis2p_05#9",
+            "kis2p_05#5",
+            "kis2p_01_a#11"
+          ]
+        },
+        {
+          "postura": "No hace falta pensar en una colección completa sino en las cartas que Pedro conocía, que ya circulaban (Col 4:16); no es anacronismo llamarlas Escritura, porque los apóstoles sabían que escribían palabra de Dios.",
+          "quien": "MacArthur; Nuevo Comentario Bíblico",
+          "fuentes": [
+            "mac2p_01_a#18",
+            "ncb2p_01_b#25"
+          ]
+        },
+        {
+          "postura": "La frase puede argumentarse tanto para incluir como para excluir a Pablo de la categoría de Escritura; no saca conclusión de este texto, aunque afirma que las cartas de Pablo tenían todas las cualidades para serlo.",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb2p_01_b#25"
+          ]
+        },
+        {
+          "postura": "No hay motivo para pensar que el canon ya fuera algo formal; Pedro habla con naturalidad de un contemporáneo.",
+          "quien": "Comentario Moody",
+          "fuentes": [
+            "moodynt_02_a#22"
+          ]
+        }
       ],
       "nota": "También difieren sobre si Pablo vivía: la Biblia MacArthur dice que ya había muerto; Kistemaker, que el texto no lo prueba porque habla de sus escritos. Ver el anexo I3."
     },
     {
       "tema": "¿Qué se pierde al «caer de la firmeza» (v. 17)?",
       "posturas": [
-        {"postura": "No la salvación, sino la estabilidad doctrinal y la confianza en la verdad, con el riesgo de que la recompensa disminuya (2J 8).", "quien": "MacArthur", "fuentes": ["mac2p_04_b#17"]},
-        {"postura": "La base firme de quien se desvía: estar firme hoy no garantiza estarlo mañana; la firmeza viene de aferrarse a la Palabra.", "quien": "Núñez", "fuentes": ["nunez2p_02_b#25"]},
-        {"postura": "Henry habla de caer de la propia constancia por el error; Kistemaker subraya que no solo caen los nuevos convertidos y que el consuelo está en que Jesús ora por los suyos.", "quien": "Matthew Henry; Kistemaker", "fuentes": ["mhenry_01_b#42", "kis2p_05#14"]}
+        {
+          "postura": "No la salvación, sino la estabilidad doctrinal y la confianza en la verdad, con el riesgo de que la recompensa disminuya (2J 8).",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac2p_04_b#17"
+          ]
+        },
+        {
+          "postura": "La base firme de quien se desvía: estar firme hoy no garantiza estarlo mañana; la firmeza viene de aferrarse a la Palabra.",
+          "quien": "Núñez",
+          "fuentes": [
+            "nunez2p_02_b#25"
+          ]
+        },
+        {
+          "postura": "Henry habla de caer de la propia constancia por el error; Kistemaker subraya que no solo caen los nuevos convertidos y que el consuelo está en que Jesús ora por los suyos.",
+          "quien": "Matthew Henry; Kistemaker",
+          "fuentes": [
+            "mhenry_01_b#42",
+            "kis2p_05#14"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que la advertencia es real y en que el remedio es crecer en Cristo. El tema de la apostasía y la seguridad se trata en el anexo T3."
     },
     {
       "tema": "Detalles del v. 18",
       "posturas": [
-        {"postura": "La gracia y el conocimiento que Jesús da, o el conocimiento acerca de Jesús: ambas lecturas son posibles; en general se prefiere la primera. Green, citado por él, une las dos.", "quien": "Kistemaker", "fuentes": ["kis2p_05#15"]},
-        {"postura": "El Amén final es probablemente una adición posterior.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb2p_01_b#26"]},
-        {"postura": "Con muchos manuscritos, conserva el Amén.", "quien": "Kistemaker", "fuentes": ["kis2p_05#16"]}
+        {
+          "postura": "La gracia y el conocimiento que Jesús da, o el conocimiento acerca de Jesús: ambas lecturas son posibles; en general se prefiere la primera. Green, citado por él, une las dos.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis2p_05#15"
+          ]
+        },
+        {
+          "postura": "El Amén final es probablemente una adición posterior.",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb2p_01_b#26"
+          ]
+        },
+        {
+          "postura": "Con muchos manuscritos, conserva el Amén.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis2p_05#16"
+          ]
+        }
       ],
       "nota": "Ninguna de estas diferencias cambia el sentido del cierre."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Éx 34:6", "nota": "Dios lento para la ira (también Nm 14:18; Sal 86:15; Jon 4:2) y sin placer en la muerte del malvado (Ez 33:11): según Núñez, es lo que los falsos maestros torcían al hablar de la demora, y lo que explica la paciencia del v. 15.", "fuentes": ["nunez2p_02_b#24"]},
-    {"ref": "Is 42:8", "nota": "Dios no da su gloria a otro; por eso, para MacArthur, la doxología a Cristo del v. 18 afirma su deidad.", "fuentes": ["mac2p_04_b#20"]},
-    {"ref": "Lv 22:20", "nota": "El trasfondo de sin mancha y sin defecto es el cordero del sacrificio del Antiguo Testamento, que debía ser perfecto (Núñez lo menciona en general, sin citar un versículo).", "fuentes": ["nunez2p_02_b#16"]}
+    {
+      "ref": "Éx 34:6",
+      "nota": "Dios lento para la ira (también Nm 14:18; Sal 86:15; Jon 4:2) y sin placer en la muerte del malvado (Ez 33:11): según Núñez, es lo que los falsos maestros torcían al hablar de la demora, y lo que explica la paciencia del v. 15.",
+      "fuentes": [
+        "nunez2p_02_b#24"
+      ]
+    },
+    {
+      "ref": "Is 42:8",
+      "nota": "Dios no da su gloria a otro; por eso, para MacArthur, la doxología a Cristo del v. 18 afirma su deidad.",
+      "fuentes": [
+        "mac2p_04_b#20"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Zorzoli observa que en las asambleas hispanoamericanas los líderes a veces defienden sus ideas a muerte y quedan distanciados. Pedro, que aceptó la reprensión pública de Pablo y lo siguió llamando hermano amado, muestra que lo importante es la reconciliación.", "autor": "Rubén Zorzoli (en Roldán)", "obra": "Comentario Bíblico Mundo Hispano: 2 Pedro", "pagina": "PDF 300-301 (p. 396)", "tipo": "ilustracion", "fuentes": ["cbmh2p_01_b#23"]},
-    {"texto": "Kistemaker ilustra cómo desde temprano partes del Nuevo Testamento tenían autoridad igual al Antiguo: en 1 Ti 5:17-18 Pablo cita juntos Dt 25:4 y una frase que está en Lc 10:7, y llama Escritura a ambas.", "autor": "Simon J. Kistemaker", "obra": "Comentario al Nuevo Testamento: 2 Pedro", "pagina": "PDF 286 (p. 396)", "tipo": "apologetica", "fuentes": ["kis2p_05#10"]},
-    {"texto": "Núñez cierra con la definición de devoción de William Law: una vida dedicada a Dios, que convierte en piedad todas las partes de la vida común.", "autor": "Miguel Núñez", "obra": "2 Pedro", "pagina": "PDF 151-152", "tipo": "aplicacion", "fuentes": ["nunez2p_02_b#27"]},
-    {"texto": "MacArthur teje el final de la carta (3:11-18) con siete hilos para vivir a la luz del regreso: perspectiva eterna, paz interior, pureza práctica, predicación fiel, percepción doctrinal, progreso espiritual y alabanza continua.", "autor": "John MacArthur", "obra": "Comentario MacArthur: 2 Pedro", "pagina": "PDF 286-287", "tipo": "doctrina", "fuentes": ["mac2p_04_b#1"]}
+    {
+      "texto": "Zorzoli observa que en las asambleas hispanoamericanas los líderes a veces defienden sus ideas a muerte y quedan distanciados. Pedro, que aceptó la reprensión pública de Pablo y lo siguió llamando hermano amado, muestra que lo importante es la reconciliación.",
+      "autor": "Zorzoli (citado por Roldán)",
+      "obra": "Comentario Bíblico Mundo Hispano: 2 Pedro",
+      "pagina": "PDF 300-301 (p. 396)",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "cbmh2p_01_b#23"
+      ]
+    },
+    {
+      "texto": "Kistemaker ilustra cómo desde temprano partes del Nuevo Testamento tenían autoridad igual al Antiguo: en 1 Ti 5:17-18 Pablo cita juntos Dt 25:4 y una frase que está en Lc 10:7, y llama Escritura a ambas.",
+      "autor": "Kistemaker",
+      "obra": "2 Pedro",
+      "pagina": "PDF 286 (p. 396)",
+      "tipo": "apologetica",
+      "fuentes": [
+        "kis2p_05#10"
+      ]
+    },
+    {
+      "texto": "Núñez cierra con la definición de devoción de William Law: una vida dedicada a Dios, que convierte en piedad todas las partes de la vida común.",
+      "autor": "Núñez",
+      "obra": "2 Pedro",
+      "pagina": "PDF 151-152",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "nunez2p_02_b#27"
+      ]
+    },
+    {
+      "texto": "MacArthur teje el final de la carta (3:11-18) con siete hilos para vivir a la luz del regreso: perspectiva eterna, paz interior, pureza práctica, predicación fiel, percepción doctrinal, progreso espiritual y alabanza continua.",
+      "autor": "MacArthur",
+      "obra": "2 Pedro",
+      "pagina": "PDF 286-287",
+      "tipo": "doctrina",
+      "fuentes": [
+        "mac2p_04_b#1"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Jd 24-25", "nota": "Judas cierra igual: el que puede guardarlos sin caída y presentarlos sin mancha recibe la gloria. Wiersbe une ambos cierres: para no caer hay que crecer y edificarse.", "fuentes": ["kis2p_04_c#17", "r1_007_a#21", "mac2p_04_b#20"]},
-    {"ref": "Ro 2:4", "nota": "Pablo llama bondad a lo que Pedro llama paciencia, y la bondad de Dios lleva al arrepentimiento.", "fuentes": ["kis2p_05#1", "nunez2p_02_b#23"]},
-    {"ref": "Gá 2:11-14", "nota": "El episodio de Antioquía en que Pablo reprendió a Pedro, trasfondo del cariño de «nuestro amado hermano Pablo».", "fuentes": ["kis2p_05#2", "mac2p_04_b#12", "nunez2p_02_b#25"]},
-    {"ref": "1 Ts 2:13", "nota": "Pablo elogia a los tesalonicenses por recibir su enseñanza como palabra de Dios: los apóstoles sabían que escribían Escritura.", "fuentes": ["kis2p_01_a#11", "mac2p_01_a#18", "kis2p_05#9"]},
-    {"ref": "Ef 4:14-16", "nota": "Pablo enseña lo mismo: crecer en Cristo para no ser llevados por todo viento de doctrina.", "fuentes": ["mac2p_04_b#18"]},
-    {"ref": "Fil 3:10", "nota": "Conocer a Cristo como meta de la vida, el conocimiento que Pablo perseguía y que Pedro pide hacer crecer.", "fuentes": ["moodynt_02_a#24", "mhenry_01_b#42"]}
+    {
+      "ref": "Jd 24-25",
+      "nota": "Judas cierra igual: el que puede guardarlos sin caída y presentarlos sin mancha recibe la gloria. Wiersbe une ambos cierres: para no caer hay que crecer y edificarse.",
+      "fuentes": [
+        "kis2p_04_c#17",
+        "r1_007_a#21",
+        "mac2p_04_b#20"
+      ]
+    },
+    {
+      "ref": "Ro 2:4",
+      "nota": "Pablo llama bondad a lo que Pedro llama paciencia, y la bondad de Dios lleva al arrepentimiento.",
+      "fuentes": [
+        "kis2p_05#1",
+        "nunez2p_02_b#23"
+      ]
+    },
+    {
+      "ref": "Gá 2:11-14",
+      "nota": "El episodio de Antioquía en que Pablo reprendió a Pedro, trasfondo del cariño de «nuestro amado hermano Pablo».",
+      "fuentes": [
+        "kis2p_05#2",
+        "mac2p_04_b#12",
+        "nunez2p_02_b#25"
+      ]
+    },
+    {
+      "ref": "1 Ts 2:13",
+      "nota": "Pablo elogia a los tesalonicenses por recibir su enseñanza como palabra de Dios: los apóstoles sabían que escribían Escritura.",
+      "fuentes": [
+        "kis2p_01_a#11",
+        "mac2p_01_a#18",
+        "kis2p_05#9"
+      ]
+    },
+    {
+      "ref": "Ef 4:14-16",
+      "nota": "Pablo enseña lo mismo: crecer en Cristo para no ser llevados por todo viento de doctrina.",
+      "fuentes": [
+        "mac2p_04_b#18"
+      ]
+    },
+    {
+      "ref": "Fil 3:10",
+      "nota": "Conocer a Cristo como meta de la vida, el conocimiento que Pablo perseguía y que Pedro pide hacer crecer.",
+      "fuentes": [
+        "moodynt_02_a#24",
+        "mhenry_01_b#42"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Esperar al Señor se nota en lo concreto: carácter y reputación, lo privado y lo público. Pueden preguntarse juntos si hay algo en su casa que no quisieran que Cristo encontrara al volver, y llevarlo a la confesión para vivir en paz.", "fuentes": ["mac2p_04_b#9", "kis2p_04_c#18"]},
-    {"texto": "La paciencia de Dios es tiempo para otros. Piensen en una o dos personas cercanas que todavía no conocen a Cristo y en cómo pueden orar por ellas y acercarles el evangelio.", "fuentes": ["mac2p_04_b#11", "nunez2p_02_b#23"]},
-    {"texto": "Frente a enseñanzas que suenan bien pero retuercen la Biblia, la defensa no es un atajo sino conocer la Palabra entera, con paciencia y humildad, recibiendo lo difícil y practicando lo fácil.", "fuentes": ["mcg2p_03_b#21", "mhenry_01_b#42", "mhenry_01_b#41"]},
-    {"texto": "Pedro aceptó una corrección pública y siguió llamando hermano a quien se la hizo. En el matrimonio también hay correcciones que duelen: recibirlas sin rencor es parte de crecer en la gracia.", "fuentes": ["kis2p_05#2", "cbmh2p_01_b#23"]},
-    {"texto": "Midan el crecimiento por el fruto del Espíritu, no por los años de fe: más amor, paciencia con quien les falló, dominio propio y control del enojo, y una manera más amable de hablarse.", "fuentes": ["nunez2p_02_b#26"]}
+    {
+      "texto": "Esperar al Señor se nota en lo concreto: carácter y reputación, lo privado y lo público. Pueden preguntarse juntos si hay algo en su casa que no quisieran que Cristo encontrara al volver, y llevarlo a la confesión para vivir en paz.",
+      "fuentes": [
+        "mac2p_04_b#9",
+        "kis2p_04_c#18"
+      ]
+    },
+    {
+      "texto": "La paciencia de Dios es tiempo para otros. Piensen en una o dos personas cercanas que todavía no conocen a Cristo y en cómo pueden orar por ellas y acercarles el evangelio.",
+      "fuentes": [
+        "mac2p_04_b#11",
+        "nunez2p_02_b#23"
+      ]
+    },
+    {
+      "texto": "Frente a enseñanzas que suenan bien pero retuercen la Biblia, la defensa no es un atajo sino conocer la Palabra entera, con paciencia y humildad, recibiendo lo difícil y practicando lo fácil.",
+      "fuentes": [
+        "mcg2p_03_b#21",
+        "mhenry_01_b#42",
+        "mhenry_01_b#41"
+      ]
+    },
+    {
+      "texto": "Pedro aceptó una corrección pública y siguió llamando hermano a quien se la hizo. En el matrimonio también hay correcciones que duelen: recibirlas sin rencor es parte de crecer en la gracia.",
+      "fuentes": [
+        "kis2p_05#2",
+        "cbmh2p_01_b#23"
+      ]
+    },
+    {
+      "texto": "Midan el crecimiento por el fruto del Espíritu, no por los años de fe: más amor, paciencia con quien les falló, dominio propio y control del enojo, y una manera más amable de hablarse.",
+      "fuentes": [
+        "nunez2p_02_b#26"
+      ]
+    }
   ],
   "para_conversar": [
     "Pedro pide ser hallados sin mancha (carácter) e irreprensibles (reputación). ¿En cuál de las dos sentimos más que tenemos que trabajar, y qué nos ayudaría a vivir en paz mientras esperamos al Señor?",
@@ -188,12 +818,47 @@
     "Si miramos el último año o dos, ¿en qué hemos crecido en la gracia y en el conocimiento de Cristo, y en qué nos gustaría crecer esta semana?"
   ],
   "para_orar": "Señor Jesús, gracias por tu paciencia, que todavía hoy sigue salvando. Guardanos de las enseñanzas que retuercen tu Palabra y de confiar en nuestra propia firmeza; haznos crecer juntos en tu gracia y en conocerte, para que cuando vuelvas nos encuentres sin mancha y en paz. A vos sea la gloria ahora y para siempre. Amén.",
-  "visuales": ["dg-estructura-2p", "dg-falsos"],
-  "anexos": ["P2", "I3", "T2", "T4"],
+  "visuales": [
+    "dg-estructura-2p",
+    "dg-falsos"
+  ],
+  "anexos": [
+    "P2",
+    "I3",
+    "T2",
+    "T4"
+  ],
   "profundizar": [
-    {"titulo": "Pablo es Escritura: la cadena de la inspiración", "texto": "MacArthur y Mayhue señalan que la iglesia primitiva reconoció que la enseñanza de los apóstoles tenía la autoridad de Cristo y, por eso, dio a sus escritos el mismo peso que al Antiguo Testamento (Hch 2:42; 1 Co 14:37; 2 Ti 3:16-17). Kistemaker cita a Green: si para profetas y apóstoles se afirma que el autor último es el Espíritu, no se puede negar a unos el nombre de Escritura que se da a los otros. Kistemaker también recuerda que Clemente de Roma ya consideraba inspirada 1 Corintios. MacArthur agrega que el verbo escribir aparece unas ciento ochenta veces en el Nuevo Testamento, la mitad referidas a la Biblia como palabra escrita.", "fuentes": ["r1_018_b#19", "kis2p_05#9", "kis2p_05#4", "mac2p_04_b#16"]},
-    {"title_note": "", "titulo": "Un detalle de gramática griega", "texto": "Kistemaker explica que el participio presente hablando (λαλῶν, v. 16) no prueba que Pablo siguiera vivo: se refiere al contenido de las cartas, cuyo mensaje sigue vigente. Y que el pronombre de en las cuales remite a las cartas, no a estas cosas.", "fuentes": ["kis2p_05#11"]},
-    {"titulo": "La tardanza según Wiersbe", "texto": "Wiersbe sostiene que Jesús no ha vuelto porque hoy está edificando su Iglesia, algo que no aparece en las profecías del Antiguo Testamento, y que quien no distingue la profecía del AT de la verdad sobre la Iglesia termina confundido. Agrega que el tema de 1 Pedro fue la gracia y el de 2 Pedro el conocimiento, y que este versículo final los junta.", "fuentes": ["r1_007_a#21"]},
-    {"titulo": "Lo que precede al regreso", "texto": "Núñez recuerda que, además de lo repentino del regreso (3:1-10), otros pasajes mencionan cosas previas: la aparición del hombre de maldad (2 Ts 2:1-4), el abandono de la fe por algunos (1 Ti 4:1) y el empeoramiento moral (2 Ti 3:1-5, 13). La pregunta del cierre de la carta es cómo esperar en este tiempo del ya pero todavía no. El tema completo está en el anexo T4.", "fuentes": ["nunez2p_02_b#12"]}
+    {
+      "titulo": "Pablo es Escritura: la cadena de la inspiración",
+      "texto": "MacArthur y Mayhue señalan que la iglesia primitiva reconoció que la enseñanza de los apóstoles tenía la autoridad de Cristo y, por eso, dio a sus escritos el mismo peso que al Antiguo Testamento (Hch 2:42; 1 Co 14:37; 2 Ti 3:16-17). Kistemaker cita a Green: si para profetas y apóstoles se afirma que el autor último es el Espíritu, no se puede negar a unos el nombre de Escritura que se da a los otros. Kistemaker también recuerda que Clemente de Roma ya consideraba inspirada 1 Corintios. MacArthur agrega que el verbo escribir aparece unas ciento ochenta veces en el Nuevo Testamento, la mitad referidas a la Biblia como palabra escrita.",
+      "fuentes": [
+        "r1_018_b#19",
+        "kis2p_05#9",
+        "kis2p_05#4",
+        "mac2p_04_b#16"
+      ]
+    },
+    {
+      "titulo": "Un detalle de gramática griega",
+      "texto": "Kistemaker explica que el participio presente hablando (λαλῶν, v. 16) no prueba que Pablo siguiera vivo: se refiere al contenido de las cartas, cuyo mensaje sigue vigente. Y que el pronombre de en las cuales remite a las cartas, no a estas cosas.",
+      "fuentes": [
+        "kis2p_05#11"
+      ]
+    },
+    {
+      "titulo": "La tardanza según Wiersbe",
+      "texto": "Wiersbe sostiene que Jesús no ha vuelto porque hoy está edificando su Iglesia, algo que no aparece en las profecías del Antiguo Testamento, y que quien no distingue la profecía del AT de la verdad sobre la Iglesia termina confundido. Agrega que el tema de 1 Pedro fue la gracia y el de 2 Pedro el conocimiento, y que este versículo final los junta.",
+      "fuentes": [
+        "r1_007_a#21"
+      ]
+    },
+    {
+      "titulo": "Lo que precede al regreso",
+      "texto": "Núñez recuerda que, además de lo repentino del regreso (3:1-10), otros pasajes mencionan cosas previas: la aparición del hombre de maldad (2 Ts 2:1-4), el abandono de la fe por algunos (1 Ti 4:1) y el empeoramiento moral (2 Ti 3:1-5, 13). La pregunta del cierre de la carta es cómo esperar en este tiempo del ya pero todavía no. El tema completo está en el anexo T4.",
+      "fuentes": [
+        "nunez2p_02_b#12"
+      ]
+    }
   ]
 }

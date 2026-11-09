@@ -1,6 +1,529 @@
-{"bloque": "r4_460_17", "notas": [
-{"ref": "intro", "tipo": "contexto_historico", "titulo": "Herodes y los templos al emperador", "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota sobre el culto imperial recuerda que Herodes era de origen árabe (edomita), aunque en cierto sentido era un judío practicante. Remite a Josefo (Guerra judía 1.414 y 1.403; Antigüedades judías 15.339 y 15.298) para los templos que levantó, y agrega que también planeó uno en Banias (Guerra 1.404; Ant. 15.363-4), pero no se han encontrado restos seguros. Para el culto imperial en general cita a Friesen (Cultos imperiales y el Apocalipsis de Juan) y a McLaren, «Los judíos y el culto imperial: de Augusto a Domiciano».", "refs_biblicas": [], "pagina": "pág. PDF 467", "importancia": 1},
-{"ref": "intro", "tipo": "contexto_historico", "titulo": "Fuentes sobre Domiciano, el impuesto judío y Plinio", "contenido": "Lennox, Dios, la IA y el final de la historia: apoya el trasfondo de la persecución en fuentes antiguas y modernas. Remite a Heemstra (The Fiscus Judaicus and the Parting of the Ways) para el impuesto judío, a Suetonio (Vida de Domiciano, 12.1-2), a Mary Beard (SPQR, cap. 10, pág. 430) y a las Cartas de Plinio 10.96-7 (correspondencia con Trajano sobre los cristianos, según lo que registra el índice). Son referencias de apoyo; las notas no desarrollan el argumento.", "refs_biblicas": [], "pagina": "pág. PDF 467", "importancia": 1},
-{"ref": "1:4", "tipo": "simbolo_numero", "titulo": "«Los siete espíritus» o el «Espíritu séptuple»", "contenido": "Lennox, Dios, la IA y el final de la historia: aclara en una nota que la frase «los siete espíritus» a veces se traduce como «el Espíritu séptuple», es decir, como una designación del Espíritu Santo en su plenitud y no como siete seres distintos (el índice agrupa la entrada bajo «espíritus, siete» y «Espíritu Santo; y los siete espíritus»).", "refs_biblicas": ["Ap 1:4"], "pagina": "pág. PDF 467", "importancia": 1},
-{"ref": "1:7", "tipo": "dificultad_interpretaciones", "titulo": «PLACEHOLDER», "contenido": "x", "pagina": "x", "importancia": 1}
-], "problemas": ""}
+{
+ "bloque": "r4_460_17",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Herodes y los templos al emperador",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota sobre el culto imperial recuerda que Herodes era de origen árabe (edomita), aunque en cierto sentido era un judío practicante. Remite a Josefo (Guerra judía 1.414 y 1.403; Antigüedades judías 15.339 y 15.298) para los templos que levantó, y agrega que también planeó uno en Banias (Guerra 1.404; Ant. 15.363-4), pero no se han encontrado restos seguros. Para el culto imperial en general cita a Friesen (Cultos imperiales y el Apocalipsis de Juan) y a McLaren, «Los judíos y el culto imperial: de Augusto a Domiciano».",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 467",
+   "importancia": 1
+  },
+  {
+   "ref": "intro",
+   "tipo": "contexto_historico",
+   "titulo": "Fuentes sobre Domiciano, el impuesto judío y Plinio",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: apoya el trasfondo de la persecución en fuentes antiguas y modernas: Heemstra (The Fiscus Judaicus and the Parting of the Ways) para el impuesto judío, Suetonio (Vida de Domiciano, 12.1-2), Mary Beard (SPQR, cap. 10, pág. 430) y las Cartas de Plinio 10.96-7 (que el índice vincula con Trajano y la persecución de los cristianos). Son referencias de apoyo; las notas no desarrollan el argumento.",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 467",
+   "importancia": 1
+  },
+  {
+   "ref": "1:4",
+   "tipo": "simbolo_numero",
+   "titulo": "«Los siete espíritus» o el «Espíritu séptuple»",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: aclara en una nota que la frase «los siete espíritus» a veces se traduce como «el Espíritu séptuple»; el índice del libro agrupa la expresión bajo «espíritus, siete» y «Espíritu Santo; y los siete espíritus», es decir, la entiende como referida al Espíritu Santo.",
+   "refs_biblicas": [
+    "Ap 1:4"
+   ],
+   "pagina": "pág. PDF 467",
+   "importancia": 1
+  },
+  {
+   "ref": "1:7",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "«Los que le traspasaron»: evitar una lectura demasiado rígida",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota advierte que, por supuesto, en cierto sentido todos traspasamos al Señor, porque él fue a la cruz por nuestros pecados. Por eso, según el autor, hay que evitar una interpretación demasiado rígida de este texto.",
+   "refs_biblicas": [
+    "Ap 1:7"
+   ],
+   "pagina": "pág. PDF 468",
+   "importancia": 2
+  },
+  {
+   "ref": "1:10",
+   "tipo": "cronologia_fechas",
+   "titulo": "«El día del Señor» como primer día de la semana",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: señala en una nota que, hasta donde se sabe, el primer uso claro de la expresión «el día del Señor» para el primer día de la semana aparece en el siglo II.",
+   "refs_biblicas": [
+    "Ap 1:10"
+   ],
+   "pagina": "pág. PDF 468",
+   "importancia": 2
+  },
+  {
+   "ref": "9:17",
+   "tipo": "griego_palabra",
+   "titulo": "La palabra «visión» aparece una sola vez",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota del capítulo sobre símbolo, metáfora y código observa, con un «sin embargo», que la palabra griega para «visión» aparece solo una vez en el Apocalipsis, en 9:17. (la nota no da la forma griega).",
+   "refs_biblicas": [
+    "Ap 9:17"
+   ],
+   "pagina": "pág. PDF 468",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "teologia_doctrina",
+   "titulo": "El Nuevo Testamento no conoce denominaciones",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: señala en una nota que el Nuevo Testamento desconoce conceptos colectivos denominacionales como la Iglesia de Inglaterra o la Iglesia Metodista, y que Pablo critica la lógica que subyace a tales ideas en 1 Corintios 1:12. Lo usa al hablar de las siete iglesias, que son congregaciones locales concretas.",
+   "refs_biblicas": [
+    "1 Co 1:12"
+   ],
+   "pagina": "pág. PDF 469",
+   "importancia": 1
+  },
+  {
+   "ref": "2:1-3:22",
+   "tipo": "griego_palabra",
+   "titulo": "Teodicea: «la justificación de las acciones de Dios»",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota explica que «teodicea» viene del griego theos (Dios) y dike (justicia), y significa, por tanto, la justificación de las acciones de Dios. El término aparece en el capítulo introductorio a las cartas.",
+   "refs_biblicas": [],
+   "griego": {
+    "palabra": "θεός / δίκη",
+    "transliteracion": "theós / díke",
+    "significado": "Dios / justicia; de ahí «teodicea», justificación de las acciones de Dios"
+   },
+   "pagina": "pág. PDF 469",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "simbolo_numero",
+   "titulo": "Cautela con la numerología (matemático)",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: dos veces advierte, «como matemático», que la cautela debe extenderse a la numerología: en las notas de las cartas a las iglesias y de nuevo en la carta a Esmirna dice que se necesita mucha precaución con ella, especialmente cuando se usa para argumentar a favor de algo que no se encuentra explícitamente en ninguna otra parte de las Escrituras.",
+   "cita": "Se necesita mucha precaución con la numerología, especialmente cuando se usa para argumentar a favor de algo que no se encuentra explícitamente en ninguna otra parte de las Escrituras.",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 470-471",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-7",
+   "tipo": "contexto_historico",
+   "titulo": "Éfeso: puerto colmatado y templo de los Sebastoi",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en notas sobre Éfeso explica que con los siglos el puerto se fue colmatando, de modo que el lugar hoy está tierra adentro. Aclara que Sebastoi es un título honorífico, plural de sebastos («venerable»), la versión griega del título imperial romano Augusto, y recuerda que Tito sitió y destruyó Jerusalén en el año 70 d.C. (el índice registra «Sebastoi, templo de Éfeso»).",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 470",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-7",
+   "tipo": "cultura_costumbres",
+   "titulo": "Una dracma, un día de salario: 137 años-hombre",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota calcula que una dracma de plata equivalía aproximadamente al salario de un día, por lo que la cantidad en cuestión equivale a unos 137 años-hombre, sin contar los días libres. El índice registra «Rollos de Éfeso», de modo que probablemente se refiere a los rollos de magia quemados en Éfeso (INFERENCIA; la nota no lo dice).",
+   "cita": "Una dracma de plata equivalía aproximadamente al salario de un día, por lo que la cantidad es de alrededor de 137 años-hombre, ¡sin contar los días libres!",
+   "refs_biblicas": [
+    "Hch 19:19"
+   ],
+   "pagina": "pág. PDF 470",
+   "importancia": 1
+  },
+  {
+   "ref": "2:1-7",
+   "tipo": "aplicacion_practica",
+   "titulo": "Padres cristianos y las pantallas de los hijos",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota del capítulo sobre Éfeso afirma que los padres cristianos deben estar muy atentos a lo que hacen sus hijos con sus tabletas y teléfonos inteligentes.",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 470",
+   "importancia": 1
+  },
+  {
+   "ref": "2:8-11",
+   "tipo": "contexto_historico",
+   "titulo": "Esmirna: el templo a la diosa Roma y el martirio de Policarpo",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en notas sobre Esmirna recuerda que la ciudad tenía un templo más antiguo dedicado a la diosa Roma, y que Fanning enumera ocho más (Revelation, Zondervan, 2020, pág. 115). Remite al Martirio de Policarpo 13 y 21 y a Hemer (Cartas a las siete iglesias, págs. 64 y 67).",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 471",
+   "importancia": 1
+  },
+  {
+   "ref": "2:8-11",
+   "tipo": "aplicacion_practica",
+   "titulo": "La persecución cristiana hoy",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en la carta a Esmirna respalda con informes contemporáneos el carácter actual de la persecución: cita a Julie Jones (APPG FoRB, 13-10-2018, «¿Cuántos cristianos son asesinados cada año a causa de su fe?») y a Doug Bandow (Cato Institute, 7-3-2022: «El cristianismo es la religión más perseguida del mundo, confirma un nuevo informe»), y recuerda como pasaje bíblico Mateo 10:17-20.",
+   "refs_biblicas": [
+    "Mt 10:17-20"
+   ],
+   "pagina": "pág. PDF 471",
+   "importancia": 1
+  },
+  {
+   "ref": "2:14",
+   "tipo": "explicacion_texto",
+   "titulo": "El nombre de Balaam y el verbo hebreo bala (tragar)",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota a la carta a Pérgamo observa que, como la forma consonántica de las palabras hebreas admite varias etimologías, el verbo bala significa «tragar hacia arriba o hacia abajo»; se usa para personas que tragan su comida (Is 28:4), serpientes que atrapan a su presa (Éx 7:12), la tierra que se rebela (Nm 16:30) y, a menudo, para la ruina y destrucción (Lm 2:2). Remite al Diccionario Bíblico de Abarim.",
+   "refs_biblicas": [
+    "Is 28:4",
+    "Éx 7:12",
+    "Nm 16:30",
+    "Lm 2:2"
+   ],
+   "pagina": "pág. PDF 471-472",
+   "importancia": 1
+  },
+  {
+   "ref": "2:18-29",
+   "tipo": "arqueologia_geografia",
+   "titulo": "Tiatira: fabricación de bronce",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota afirma que hay evidencia de la fabricación de bronce, aleación de cobre y estaño, en la región de Tiatira, de modo que sus ciudadanos conocían bien los objetos hechos de ese metal.",
+   "refs_biblicas": [
+    "Ap 2:18"
+   ],
+   "pagina": "pág. PDF 472",
+   "importancia": 1
+  },
+  {
+   "ref": "2:18",
+   "tipo": "aplicacion_practica",
+   "titulo": "Saberse observado cambia la conducta",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en la carta a Tiatira, donde el Hijo de Dios tiene ojos como llama de fuego, cita a Bateson, Nettle y Roberts («Las señales de ser observado mejoran la cooperación en un entorno del mundo real», Biology Letters 2006), a David Berlinski (El espejismo del diablo, págs. 26-27) y una nota periodística de Richard Alleyne (Daily Telegraph, 7-9-2009: «Quizás la religión sea la respuesta, afirma un científico ateo»). Son referencias de apoyo para la idea de un Dios que observa.",
+   "refs_biblicas": [
+    "Ap 2:18",
+    "Ap 2:23"
+   ],
+   "pagina": "pág. PDF 472",
+   "importancia": 1
+  },
+  {
+   "ref": "2:20",
+   "tipo": "cultura_costumbres",
+   "titulo": "Comida ofrecida a los ídolos y la controversia de los ritos chinos",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: para ilustrar el problema de Tiatira cita casos modernos: dice que la piedad filial es una enseñanza clave del confucianismo y remite a la controversia de los ritos chinos (el culto a los antepasados), con referencias a Mantienne sobre el obispo Pigneaux, a Giovannetti-Singh sobre Kilian Stumpf y a Minamiki; también cita a Forrest McPhail, «Comida ofrecida a los ídolos: un problema contemporáneo» (GFA Missions, 2022).",
+   "refs_biblicas": [
+    "Ap 2:20"
+   ],
+   "pagina": "pág. PDF 472",
+   "importancia": 1
+  },
+  {
+   "ref": "2:23",
+   "tipo": "explicacion_texto",
+   "titulo": "Los riñones en la antigüedad",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: al comentar que Cristo escudriña riñones y corazones, cita el artículo de G. Maio, «El uso metafórico y mítico del riñón en la antigüedad» (American Journal of Nephrology 19.2, 1999, págs. 101-6); el índice agrega la entrada «riñones y vida emocional».",
+   "refs_biblicas": [
+    "Ap 2:23"
+   ],
+   "pagina": "pág. PDF 473",
+   "importancia": 1
+  },
+  {
+   "ref": "tema",
+   "tipo": "escuelas_interpretacion",
+   "titulo": "Rapto parcial: Gooding y el apéndice sobre el rapto",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en la carta a Tiatira remite a David Gooding, «Algunas observaciones sobre la doctrina llamada «Rapto parcial» o «Reino condicional»» (Myrtlefield House, 1991), y el índice registra «rapto, el; parcial». Sobre el rapto en general, el autor desarrolla su postura en el apéndice 2 (al que remiten varias notas) y cita a Pete Lowman (Una guía para el fin del mundo, págs. 12, 70, 78) y a Akenson (Exportando el Rapto: John Nelson Darby). Una nota del apéndice recuerda que Dios protegió a Noé de su ira haciendo que construyera un arca que lo llevó a través del juicio mientras lo protegía de él.",
+   "refs_biblicas": [
+    "Gn 6-9"
+   ],
+   "pagina": "pág. PDF 473, 478, 494",
+   "importancia": 1
+  },
+  {
+   "ref": "3:14",
+   "tipo": "explicacion_texto",
+   "titulo": "Amén: «seguramente», de la raíz de «verdad»",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: explica en una nota que «Amén» es hebreo para «seguramente», derivado de la palabra para «verdad» o «certeza», en conexión con el título de Cristo como el Amén en la carta a Laodicea (el índice agrega la entrada «Amén y Cristo»).",
+   "refs_biblicas": [
+    "Ap 3:14"
+   ],
+   "pagina": "pág. PDF 473",
+   "importancia": 1
+  },
+  {
+   "ref": "3:15-16",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Tibieza laodicense: ¿agua o carácter?",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en notas sobre el agua tibia de Laodicea indica que la palabra griega usada para «vomitar» da el inglés emetic (emético). Cita a Green y Rudwick («La tibieza laodicense», Expository Times 1958) y señala que cierta lectura de la tibieza parece reflejar más la erudición contemporánea que la circunstancia local: la cercana Hierápolis tenía aguas termales, Colosas aguas frías, y al llegar a Laodicea el agua ya estaba tibia (remite a Fanning, pág. 186). Compara el disgusto de Cristo con su reacción ante la hipocresía de los fariseos en Mateo 23.",
+   "refs_biblicas": [
+    "Ap 3:16",
+    "Mt 23"
+   ],
+   "postura": "Contrasta la explicación por la circunstancia local (aguas de Hierápolis y Colosas) con la lectura de la erudición contemporánea; no queda del todo claro en las notas cuál prefiere.",
+   "pagina": "pág. PDF 473-474",
+   "importancia": 2
+  },
+  {
+   "ref": "3:18",
+   "tipo": "simbolo_numero",
+   "titulo": "Las vestiduras blancas y su recurrencia",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota advierte que las vestiduras blancas reaparecerán varias veces en el Apocalipsis, culminando en 19:14, y que simbolizan la rectitud de carácter, no solo en la Biblia sino también en muchos contextos culturales.",
+   "refs_biblicas": [
+    "Ap 3:18",
+    "Ap 19:14"
+   ],
+   "pagina": "pág. PDF 474",
+   "importancia": 2
+  },
+  {
+   "ref": "3:19",
+   "tipo": "conexion_biblica",
+   "titulo": "Reprender por amor: Hebreos 12 y el amor en Filadelfia",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en notas a la carta a Laodicea indica que el principio de que el Señor reprende a los que ama se explica en Hebreos 12:3 y siguientes, y que el amor también se menciona en la carta a Filadelfia, en 3:9.",
+   "refs_biblicas": [
+    "Ap 3:19",
+    "Heb 12:3",
+    "Ap 3:9"
+   ],
+   "pagina": "pág. PDF 474",
+   "importancia": 1
+  },
+  {
+   "ref": "3:20",
+   "tipo": "ilustracion",
+   "titulo": "La luz del mundo, de Holman Hunt",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota describe La luz del mundo (1851), pintura alegórica del prerrafaelita inglés William Holman Hunt, que representa a Jesús a punto de llamar a una puerta cubierta de vegetación; la inscripción cita Apocalipsis 3:20. La pintura original está en la capilla del Keble College, en Oxford.",
+   "refs_biblicas": [
+    "Ap 3:20"
+   ],
+   "pagina": "pág. PDF 474",
+   "importancia": 2
+  },
+  {
+   "ref": "4:1-11",
+   "tipo": "aplicacion_practica",
+   "titulo": "La «rueda de Ezequiel» y la tecnología moderna",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en el capítulo sobre el trono de Dios reproduce parte de una solicitud de patente de la NASA (NASA Technical Reports Server): una rueda con cubo y radios con segmentos de llanta con mecanismo de accionamiento independiente que le da movimiento omnidireccional; añade que hoy se usa tecnología aún más avanzada en vehículos autónomos (el índice la llama «patente de la rueda de Ezequiel»). Defiende que, si se cree que hay predicciones genuinas en la profecía bíblica, no hay razón de principio para restringirlas arbitrariamente de modo que excluyan la tecnología moderna.",
+   "refs_biblicas": [
+    "Ez 1:15-21"
+   ],
+   "pagina": "pág. PDF 475-476",
+   "importancia": 2
+  },
+  {
+   "ref": "5:1",
+   "tipo": "griego_palabra",
+   "titulo": "El rollo y la palabra «Biblia»",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: señala en una nota que la palabra inglesa Bible proviene de la palabra griega usada aquí para «rollo».",
+   "refs_biblicas": [
+    "Ap 5:1"
+   ],
+   "griego": {
+    "palabra": "βιβλίον",
+    "transliteracion": "biblíon",
+    "significado": "rollo (de donde «Biblia»)"
+   },
+   "pagina": "pág. PDF 476",
+   "importancia": 1
+  },
+  {
+   "ref": "5:6",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "¿«Entre» el trono y las criaturas?",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: observa en una nota que la traducción ESV «entre» en 5:6 tiene poco sentido si el trono descansa sobre las espaldas de las criaturas vivientes.",
+   "refs_biblicas": [
+    "Ap 5:6"
+   ],
+   "pagina": "pág. PDF 476",
+   "importancia": 1
+  },
+  {
+   "ref": "5:8",
+   "tipo": "ilustracion",
+   "titulo": "Cítara y no arpa; las criaturas extrañas de Juan",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: precisa en una nota que el instrumento es la cítara, que, a diferencia del arpa, tiene siete cuerdas de igual longitud, y en 14:2 la describe como un antiguo instrumento de siete cuerdas con caja de resonancia rectangular, de la familia del laúd. Cita a Robert Clark (El mundo del mañana, pág. 75): «¡Qué cosas tan extrañas dice John! ¿Cómo vamos a imaginar a un león, un buey y un águila sosteniendo arpas?».",
+   "refs_biblicas": [
+    "Ap 5:8",
+    "Ap 14:2"
+   ],
+   "pagina": "pág. PDF 476 y 485",
+   "importancia": 2
+  },
+  {
+   "ref": "6:1-8",
+   "tipo": "ilustracion",
+   "titulo": "Los «cuatro jinetes» del Nuevo Ateísmo",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota juega con la imagen de los cuatro jinetes y recuerda que los «cuatro jinetes» del Nuevo Ateísmo fueron Richard Dawkins, el fallecido Christopher Hitchens, Sam Harris y Daniel Dennett.",
+   "refs_biblicas": [],
+   "pagina": "pág. PDF 477",
+   "importancia": 1
+  },
+  {
+   "ref": "6:1-17",
+   "tipo": "conexion_biblica",
+   "titulo": "Los sellos y el discurso del Monte de los Olivos",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: observa en una nota que resulta interesante que el discurso del Monte de los Olivos no se mencione en el Evangelio de Juan, y que los sellos bien podrían interpretarse como la versión de Juan del mismo. En el paralelo de Lucas 21:11 también se menciona la peste.",
+   "refs_biblicas": [
+    "Mt 24",
+    "Lc 21:11"
+   ],
+   "pagina": "pág. PDF 477",
+   "importancia": 2
+  },
+  {
+   "ref": "6:8",
+   "tipo": "griego_palabra",
+   "titulo": "Caballo «verde» (chloros): metáfora, no zoología",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: explica que la palabra griega aquí es chloros, de donde salen cloro y clorofila, y significa realmente «verde»; sospecha que los traductores optaron por «pálido» porque nunca habían visto un caballo verde, pero es metáfora, no un argumento para caballos verdes en el cielo. Sugiere que el nombre del jinete, Muerte, podría indicar por qué es verde, ya que los cadáveres de animales enfermos pueden adquirir un color verdoso.",
+   "refs_biblicas": [
+    "Ap 6:8"
+   ],
+   "griego": {
+    "palabra": "χλωρός",
+    "transliteracion": "chlorós",
+    "significado": "verde (de donde cloro y clorofila); traducido a menudo «amarillento, pálido»"
+   },
+   "pagina": "pág. PDF 477",
+   "importancia": 2
+  },
+  {
+   "ref": "6:9-11",
+   "tipo": "conexion_biblica",
+   "titulo": "«¿Hasta cuándo?»: la viuda y el juez injusto y la venganza",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en notas sobre el clamor de los mártires remite a la parábola de la viuda y el juez injusto (Lc 18:1-8) y recomienda a D. A. Carson (¿Hasta cuándo, Señor?) y su propio librito sobre Dios en el mundo del coronavirus. Para una visión equilibrada de la venganza en el Antiguo Testamento recomienda leer el artículo completo sobre el tema (art. 1413) del Diccionario teológico del Antiguo Testamento (Harris, Archer y Waltke, pág. 599), y entiende presumiblemente el «rápidamente» de manera similar al «pronto tendrá lugar» de Apocalipsis 1.",
+   "refs_biblicas": [
+    "Lc 18:1-8",
+    "Ap 6:10"
+   ],
+   "pagina": "pág. PDF 477-478",
+   "importancia": 1
+  },
+  {
+   "ref": "6:12-17",
+   "tipo": "conexion_biblica",
+   "titulo": "Terremoto y miedo de los poderosos: paralelos del Antiguo Testamento",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: como paralelos de la teofanía con temblor remite a Jueces 5:4-5, Salmos 18:7 y siguientes y 68:7-8; y para los que piden a los montes que los cubran, a Oseas 10:8 e Isaías 2:19-21, donde la gente se esconde en cuevas por temor al Día del Señor. Sobre la falta de arrepentimiento de los hombres remite a sus comentarios en 9:20-21.",
+   "refs_biblicas": [
+    "Jue 5:4-5",
+    "Sal 18:7",
+    "Sal 68:7-8",
+    "Os 10:8",
+    "Is 2:19-21"
+   ],
+   "pagina": "pág. PDF 477",
+   "importancia": 1
+  },
+  {
+   "ref": "8:3-4",
+   "tipo": "teologia_doctrina",
+   "titulo": "Incienso y oraciones en el altar celestial",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: recuerda que las oraciones también se mencionan en relación con el incienso en 5:8, y apunta, en otra nota, que ocurre algo excepcional «muy brevemente el Día de la Expiación, cuando el sumo sacerdote podía entrar en una nube de incienso» (la nota no completa la idea). Recomienda sobre la oración el libro Prayer de Ole Hallesby (1931).",
+   "refs_biblicas": [
+    "Ap 8:3-4",
+    "Ap 5:8"
+   ],
+   "pagina": "pág. PDF 478",
+   "importancia": 2
+  },
+  {
+   "ref": "tema",
+   "tipo": "conexion_biblica",
+   "titulo": "Gog como tipo escatológico de las fuerzas del mal",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota del capítulo sobre las trompetas admite que la identificación de Gog es problemática, aunque hay consenso en que se refiere a Giges, famoso rey lidio, conocido por los asirios como Gugu y considerado en la tradición hebrea un tipo escatológico de las fuerzas del mal (remite a Hemer, pág. 131).",
+   "refs_biblicas": [
+    "Ez 38-39"
+   ],
+   "pagina": "pág. PDF 478",
+   "importancia": 1
+  },
+  {
+   "ref": "8:7-12",
+   "tipo": "conexion_biblica",
+   "titulo": "Las trompetas y las plagas de Egipto: hechos físicos reales",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: cita en una nota a Kat Eschner (Smithsonian Magazine, 2017): los científicos no creyeron en los meteoritos hasta 1803; y subraya que las plagas de Egipto no eran símbolos apocalípticos sino acontecimientos físicos reales. Remite a Clark, químico de profesión, que ofrece más detalles (El mundo del mañana, págs. 119-121).",
+   "refs_biblicas": [
+    "Éx 7-10"
+   ],
+   "pagina": "pág. PDF 478-479",
+   "importancia": 2
+  },
+  {
+   "ref": "8:13",
+   "tipo": "conexion_biblica",
+   "titulo": "Los tres «ayes»",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en una nota recuerda otros usos de «¡ay!» en el Nuevo Testamento: Mateo 11:21; 23:13; 23:23; Judas 11. El índice trata los «ayes» como «problemas para los habitantes de la tierra».",
+   "refs_biblicas": [
+    "Mt 11:21",
+    "Mt 23:13",
+    "Mt 23:23",
+    "Jud 11"
+   ],
+   "pagina": "pág. PDF 479",
+   "importancia": 1
+  },
+  {
+   "ref": "9:1",
+   "tipo": "griego_palabra",
+   "titulo": "Abismo: «sin fondo finito»",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: explica que «abismo» viene del griego a-byssos, que significa «sin profundidad», es decir, «sin profundidad finita» y, por tanto, «sin fondo».",
+   "refs_biblicas": [
+    "Ap 9:1"
+   ],
+   "griego": {
+    "palabra": "ἄβυσσος",
+    "transliteracion": "ábyssos",
+    "significado": "sin fondo; sin profundidad finita"
+   },
+   "pagina": "pág. PDF 479",
+   "importancia": 2
+  },
+  {
+   "ref": "9:7-11",
+   "tipo": "aplicacion_practica",
+   "titulo": "Enjambres de drones y las langostas",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: en el capítulo sobre las trompetas cita un artículo de David Hambling en Forbes (24-10-2022) sobre el despliegue por Israel de enjambres de drones Legion-X para el campo de batalla urbano; el índice agrupa «drones» junto a «langostas», sugiriendo que el autor usa la tecnología actual como imagen posible de las langostas de la quinta trompeta (el texto de las notas no lo dice).",
+   "refs_biblicas": [
+    "Ap 9:7-11"
+   ],
+   "pagina": "pág. PDF 479",
+   "importancia": 1
+  },
+  {
+   "ref": "9:13-19",
+   "tipo": "simbolo_numero",
+   "titulo": "El ejército de doscientos millones: cifra aproximada",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: aclara que Mesopotamia significa la tierra «entre los dos ríos» (Éufrates y Tigris) y que la cifra del ejército se entiende como aproximación: si se dice que hay medio millón de soldados en el ejército de Estados Unidos, no se piensa en un número exacto, sino en una cifra que da una idea bastante precisa del tamaño de la fuerza. Añade que hoy hay unos 60 millones de caballos en el mundo y remite a la película War Horse; afirma que los caballos de combate «no son un mito; son unidades de combate demasiado reales».",
+   "cita": "Aunque no son un mito; son unidades de combate demasiado reales.",
+   "refs_biblicas": [
+    "Ap 9:16"
+   ],
+   "pagina": "pág. PDF 479",
+   "importancia": 2
+  },
+  {
+   "ref": "11:1-2",
+   "tipo": "cultura_costumbres",
+   "titulo": "Esperanza judía de un templo futuro",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: cita textos judíos sobre un templo futuro: el Rollo del Templo (el mayor de los rollos del Mar Muerto, del siglo II a.C.) da las medidas de un templo vastísimo, cuatro veces mayor que el Segundo Templo, que los esenios creían que se construiría en la tierra; también el Midrash Tanjumá (Tzav 14), el Yalkut Shimoni sobre Ezequiel 43:10-11 y un artículo de Chabad.org sobre las características del Tercer Templo. Cita además a Maimónides (Mishné Torá, Leyes de los reyes 11:1 y 4) y al Instituto del Templo (introducción sobre la vaquilla roja).",
+   "refs_biblicas": [
+    "Ez 40-48"
+   ],
+   "pagina": "pág. PDF 480 y 493",
+   "importancia": 2
+  },
+  {
+   "ref": "11:2",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "La ciudad santa pisoteada no puede ser la Jerusalén celestial",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: argumenta en una nota que la idea de que las naciones pisotearían la Jerusalén celestial no tiene sentido; por lo tanto, la «ciudad santa» pisoteada por las naciones es la Jerusalén terrenal. Remite a Fanning (págs. 326 y siguientes) y a su libro Contra la corriente, caps. 16-17.",
+   "refs_biblicas": [
+    "Ap 11:2"
+   ],
+   "postura": "Jerusalén terrenal, no la celestial.",
+   "pagina": "pág. PDF 480",
+   "importancia": 2
+  },
+  {
+   "ref": "11:8-9",
+   "tipo": "cultura_costumbres",
+   "titulo": "Los cadáveres sin enterrar",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: recuerda en una nota que dejar cadáveres sin enterrar era la mayor ofensa en muchas culturas, particularmente en la judía.",
+   "refs_biblicas": [
+    "Ap 11:8-9"
+   ],
+   "pagina": "pág. PDF 480",
+   "importancia": 1
+  },
+  {
+   "ref": "11:9-10",
+   "tipo": "explicacion_texto",
+   "titulo": "Todos ven los cadáveres: comunicación visual",
+   "contenido": "Lennox, Dios, la IA y el final de la historia: sostiene que llevamos mucho tiempo en la era de las comunicaciones visuales sofisticadas y que, dado que lo que se describe es todavía futuro, podemos suponer que tales medios se utilizarán para que pueblos y naciones vean los cadáveres de los testigos.",
+   "refs_biblicas": [
+    "Ap 11:9-10"
+   ],
+   "pagina": "pág. PDF 480",
+   "importancia": 2
+  }
+ ],
+ "problemas": ""
+}

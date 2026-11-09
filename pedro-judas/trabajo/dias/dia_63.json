@@ -1,182 +1,703 @@
 {
-  "dia": 63,
-  "libro": "Jd",
-  "desde": "Jd 5",
-  "hasta": "Jd 7",
-  "titulo": "Israel, los ángeles, Sodoma y Gomorra",
-  "minutos": {"lectura": 2, "estudio": 25},
-  "contexto": {
-    "antes": "Ayer Judas cambió de tema: quería escribir sobre la salvación que comparten, pero tuvo que exhortar a contender por la fe, porque se habían metido en la iglesia hombres impíos que convertían la gracia en libertinaje y negaban a Jesucristo, gente «destinada para esta condenación» (Jd 4).",
-    "ahora": "Antes de describir a esos maestros, Judas abre el libro de la historia y recuerda tres juicios de Dios que sus lectores ya conocían: el Israel incrédulo en el desierto, los ángeles que dejaron su lugar y Sodoma y Gomorra. Los tres ilustran la condenación anunciada en el v. 4 y contrastan con la salvación común del v. 3.",
-    "despues": "Mañana Judas aplica estos ejemplos a los falsos maestros: soñadores que mancillan la carne, desprecian la autoridad y blasfeman, en contraste con el arcángel Miguel, que no se atrevió a maldecir al diablo (Jd 8-10).",
-    "fuentes": ["kisjd_01_b#1", "mbibjd_01_a#23", "macjd_01_b#13"]
-  },
-  "versiculo_clave": {
-    "ref": "Jd 5",
-    "porque": "En un solo versículo están la misericordia y la ira de Dios: el mismo Señor que salvó al pueblo de Egipto destruyó después a los que no creyeron. Es la advertencia de fondo de los tres ejemplos: haber recibido privilegios no reemplaza a la fe."
-  },
-  "panorama": {
-    "texto": "Judas no trae información nueva: refresca lo que sus lectores ya sabían. Elige tres casos del Antiguo Testamento en los que Dios juzgó a quienes se apartaron de él: un pueblo redimido que no creyó, unos ángeles que no guardaron su lugar y unas ciudades que se entregaron a la inmoralidad. Varios autores resumen los tres pecados como incredulidad, rebelión e inmoralidad sexual, y los tres desembocan en el mismo juicio. La enseñanza común es seria y sobria: ni el estatus, ni la cercanía con Dios, ni haber visto milagros garantizan nada si no hay fe y obediencia; y lo que Dios hizo entonces muestra que los falsos maestros de cualquier época no escaparán.",
-    "fuentes": ["deirosjd_02_a#21", "deirosjd_02_a#26", "nunez2p_03_a#13", "ncbjd_01#12", "macjd_01_b#14"]
-  },
-  "secciones": [
-    {
-      "rango": "Jd 5a",
-      "titulo": "Recordar lo que ya saben",
-      "notas": [
-        {"texto": "Judas dice que quiere recordarles algo que ya conocen. Con tacto los elogia: conocen el Antiguo Testamento, y el verbo saber da por sentado que tienen los hechos presentes. Varios autores piensan que la frase «ya que una vez lo habéis sabido» alude a la instrucción que recibían los nuevos creyentes al entrar en la iglesia, la misma enseñanza apostólica entregada a los santos de una vez para siempre (v. 3).", "fuentes": ["kisjd_01_b#2", "ncbjd_01#13", "beajd_01_a#25"], "tipo": "exegesis"},
-        {"texto": "Deiros subraya que recordar es esencial en la fe bíblica, porque esa fe se apoya en lo que Dios hizo en la historia: Israel debía recordar la liberación y los mandamientos, y los cristianos el evangelio que recibieron (2P 1:12; 3:1-2). Y saca una consecuencia: si la fe apostólica ya es completa, no necesita complementos. Judas no agrega novedades, como quizás hacían los falsos maestros; refresca lo que la iglesia ya tenía.", "fuentes": ["deirosjd_02_a#21"], "tipo": "doctrina"},
-        {"texto": "Pedro hace algo parecido en su segunda carta, y también usa tres ejemplos (2P 2:4-8). Pero los ordena por cronología (ángeles, diluvio, Sodoma), mientras Judas los ordena por tema y cambia el diluvio por el Israel incrédulo. En las dos cartas las alusiones son breves porque los lectores ya conocían las historias.", "fuentes": ["kisjd_01_b#1", "macjd_01_b#13", "deirosjd_02_a#23"], "tipo": "estructura"}
-      ]
-    },
-    {
-      "rango": "Jd 5b",
-      "titulo": "Un pueblo salvado que no creyó",
-      "notas": [
-        {"texto": "Todo Israel salió de Egipto (Éx 12:51); todos fueron objeto de la gracia. Pero esa generación respondió con incredulidad, quejas y hasta idolatría, y murió en el desierto sin entrar a la tierra, salvo Josué y Caleb (Nm 14:29-30). El Éxodo, dice MacArthur, es a la vez una imagen viva de la redención, que se celebraba en la Pascua, y un recordatorio severo del juicio sobre los que se apartaron.", "fuentes": ["deirosjd_02_a#23", "mbibjd_01_a#24", "macjd_01_b#14"], "tipo": "exegesis"},
-        {"texto": "La mayoría de los autores ubica el episodio en Cades-Barnea (Nm 13-14): los espías vieron la tierra buena, diez de ellos se intimidaron ante los gigantes y el pueblo se negó a entrar. La sentencia fue vagar cuarenta años, uno por cada día de exploración, hasta que muriera esa generación. Núñez menciona también la posibilidad del becerro de oro (Éx 32), pero desarrolla la de los espías: los gigantes fueron la prueba de su fe, y los vieron más grandes que Dios.", "fuentes": ["cbmhjd_01_a#19", "mcgjd_01#22", "nunez2p_03_a#8", "macjd_01_c#1"], "tipo": "exegesis"},
-        {"texto": "Kistemaker hace un cálculo para dimensionar el juicio: según el censo de Nm 1:45-46 eran 603.550 varones mayores de veinte años; sumando un número igual de mujeres y repartiendo esas muertes en los 38 años posteriores (Dt 2:14-15), resultan casi noventa muertes por día. Una nación que vio tantos milagros se negó a confiar, y eso es una advertencia contra tomar a la ligera el castigo de Dios.", "fuentes": ["kisjd_01_b#4"], "tipo": "historia"},
-        {"texto": "¿Qué es la incredulidad? Núñez insiste en que no es ignorancia: aquel pueblo había visto el mar abierto, el maná, la nube y la columna de fuego, y su fe no creció. Es rebelión, creer que uno entiende mejor que el Creador; y quien no le cree a Dios termina creyéndoles a los falsos maestros. Matthew Henry lo dice así: tuvieron milagros como pan de cada día y aun así perecieron en incredulidad, de modo que nadie debe presumir de sus privilegios.", "fuentes": ["nunez2p_03_a#7", "nunez2p_03_a#8", "mhenry_02#13"], "tipo": "doctrina"},
-        {"texto": "El mismo versículo muestra las dos caras de Dios: su misericordia, que salva, y su justicia, que no deja sin castigo al culpable (Éx 34:6-7). Deiros lo resume así: la iniciativa de salvar es de Dios, como lo es en cada creyente hoy, pero su decisión no es arbitraria; quiere salvar al que cree, y el que no cree ya está condenado (Jn 3:18).", "fuentes": ["nunez2p_03_a#6", "deirosjd_02_a#27"], "tipo": "doctrina"},
-        {"texto": "La frase sobre quién sacó al pueblo tiene una variante en los manuscritos: la mayoría dice el Señor, pero algunos importantes dicen Jesús. Si la lectura es Jesús, o si el Señor se refiere al Hijo, el versículo hablaría del Cristo anterior a la encarnación (ver Interpretaciones).", "fuentes": ["deirosjd_02_a#22", "kisjd_01_b#3"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "Jd 6",
-      "titulo": "Los ángeles que no guardaron su lugar",
-      "notas": [
-        {"texto": "El segundo ejemplo va más atrás que Israel: algunos ángeles. Los ángeles fueron creados santos, con posiciones de autoridad y tareas de servicio, como la de mensajeros (He 1:7, 14). Algunos cayeron por una rebelión intencional; los que permanecieron fieles quedaron confirmados en santidad y los que cayeron, en su maldad. Dios no perdonó ni siquiera a criaturas tan poderosas.", "fuentes": ["dbmh_01_a#8", "r1_016#21", "kisjd_01_b#6"], "tipo": "doctrina"},
-        {"texto": "Judas describe su pecado con dos frases en paralelo: «no guardaron su dignidad» y «abandonaron su propia morada». Kistemaker muestra el equilibrio: no mantuvieron / abandonaron, su puesto / su propio hogar. La primera habla de la posición que Dios les había dado; la segunda, del lugar donde vivían. Salieron por voluntad propia de la esfera que les correspondía, y ese fue su pecado. Pedro solo dice que pecaron (2P 2:4); Judas detalla cómo.", "fuentes": ["kisjd_01_b#8", "beajd_01_a#28", "macjd_01_c#3"], "tipo": "exegesis"},
-        {"texto": "Hay un juego de palabras con el verbo guardar: los que no guardaron lo que Dios les confió, ahora Dios los tiene guardados. El verbo de los ángeles está en aoristo (dejaron su lugar de una vez) y el de Dios en perfecto (los mantiene bajo custodia de modo permanente). El castigo corresponde a la falta: como no guardaron su lugar luminoso, quedan bajo oscuridad; como abandonaron su morada, quedan en prisión.", "fuentes": ["kisjd_01_b#12", "ncbjd_01#14", "cbmhjd_01_a#21", "deirosjd_02_a#30"], "tipo": "exegesis"},
-        {"texto": "¿Qué significa estar «bajo oscuridad, en prisiones eternas»? Kistemaker advierte que el texto no dice que todos los ángeles caídos estén encerrados en un lugar, porque entonces la tierra no estaría plagada de demonios; la imagen es la de seres que viven en oscuridad espiritual y están atados a su sentencia sin poder escapar. McGee piensa que no son cadenas literales, ya que se trata de espíritus, sino una custodia severa en espera del juicio. Judas no da detalles de ubicación: le interesa que Dios castiga a quienes se niegan a obedecerle.", "fuentes": ["kisjd_01_b#9", "kisjd_01_b#8", "mcgjd_01#24"], "tipo": "exegesis"},
-        {"texto": "Están reservados «para el juicio del gran día». Para Rose, esta mirada al juicio final muestra que la escatología no es el menor de los intereses de Judas. Henry saca la conclusión práctica: si los ángeles caídos no escapan, tampoco escaparán los hombres caídos; ninguna dignidad de criatura protege a quien se rebela.", "fuentes": ["beajd_01_a#28", "mhenry_02#14"], "tipo": "aplicacion"},
-        {"texto": "Qué hicieron exactamente estos ángeles es una de las preguntas más discutidas de la carta: unos ven aquí a los hijos de Dios de Gn 6:1-4 y otros una rebelión por orgullo sin relación con ese pasaje (ver Interpretaciones). Deiros advierte que muchos cristianos siguen más la imaginación de Milton que a la Biblia, que dice poco sobre la caída de los ángeles.", "fuentes": ["deirosjd_02_a#29", "kisjd_01_b#7"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "Jd 7",
-      "titulo": "Sodoma y Gomorra, un ejemplo a la vista",
-      "notas": [
-        {"texto": "El tercer ejemplo es el más vívido. En toda la Escritura Sodoma y Gomorra son sinónimo de pecado desvergonzado y de juicio por fuego y azufre (Dt 29:23; Is 1:9; Am 4:11; Lc 17:29; 2P 2:6), y Jesús mismo las usó como ejemplo. Las ciudades vecinas son Adma y Zeboim (Dt 29:23; Os 11:8); Zoar fue perdonada (Gn 19:22-23).", "fuentes": ["kisjd_01_b#13", "beajd_01_a#30", "cbmhjd_01_a#24"], "tipo": "historia"},
-        {"texto": "El verbo que traduce «habiendo fornicado» es un compuesto con el prefijo ek-, que sugiere exceso: una inmoralidad que se extralimitó. Y se fueron tras sus vicios, abandonando el camino que Dios había marcado. Lo que la RVR1960 traduce «vicios contra naturaleza» es, literalmente, ir tras otra carne o una carne diferente. A quién se refiere esa otra carne (a los varones o a los ángeles que visitaron a Lot) se discute (ver Interpretaciones).", "fuentes": ["deirosjd_02_a#25", "macjd_01_c#4", "ncbjd_01#15", "cbmhjd_01_a#24"], "tipo": "exegesis"},
-        {"texto": "La Biblia de estudio de MacArthur señala que la lujuria de Sodoma abarcaba tanto lo heterosexual (Gn 19:8) como lo homosexual (Gn 19:4-5). Valle Ruiz agrega que en la misma categoría cae toda conducta sexual que no se sujeta a los principios bíblicos, dentro o fuera del matrimonio. Rose y Deiros recuerdan además que Ezequiel incluye en la iniquidad de Sodoma la soberbia, la abundancia ociosa y la indiferencia hacia el pobre (Ez 16:49).", "fuentes": ["mbibjd_01_a#27", "cbmhjd_01_a#24", "beajd_01_a#30", "deirosjd_02_a#31"], "tipo": "exegesis"},
-        {"texto": "Las ciudades «fueron puestas por ejemplo»: la palabra sugiere algo expuesto a la vista pública. Desde que el fuego las destruyó, Sodoma no vuelve a aparecer en la Biblia como ciudad viva; Moisés, los profetas, Jesús y los apóstoles mantuvieron viva la memoria de su pecado. Kistemaker aclara que este ejemplo no es para copiar sino para evitar: es una advertencia.", "fuentes": ["kisjd_01_b#15", "deirosjd_02_a#25"], "tipo": "exegesis"},
-        {"texto": "Aquel fuego que cayó en la historia es un anticipo del «castigo del fuego eterno». Varios autores ven en Sodoma un tipo o una vista adelantada del juicio final, en línea con lo que enseñó Jesús sobre el fuego eterno (Mt 18:8; 25:41). La Biblia de MacArthur agrega un detalle: la destrucción ocurrió unos cuatrocientos cincuenta años después del diluvio, cuando el mensaje de justicia que Noé predicó todavía era conocido y fue rechazado.", "fuentes": ["beajd_01_a#30", "mbibjd_01_a#27", "ncbjd_01#15", "mbibjd_01_a#26"], "tipo": "doctrina"}
-      ]
-    },
-    {
-      "rango": "Jd 5-7",
-      "titulo": "Tres pecados, un mismo juicio",
-      "notas": [
-        {"texto": "Leídos juntos, los tres ejemplos muestran tres formas de apartarse de Dios: incredulidad (Israel), rebelión contra la autoridad (los ángeles) e inmoralidad (Sodoma). Deiros observa que abarcan a todas las criaturas: seres celestiales y humanos, un pueblo con pacto y pueblos sin él. Rose los ve como la suerte de los apóstatas en tres pasos: sepultados en el desierto, atados en oscuridad, quemados con un fuego que anuncia el eterno.", "fuentes": ["nunez2p_03_a#13", "deirosjd_02_a#26", "beajd_01_a#31"], "tipo": "estructura"},
-        {"texto": "El hilo común es que el estatus no salva. Israel había sido liberado, los ángeles vivían en la presencia de Dios, Sodoma estaba en la tierra prometida y Lot vivía allí; nada de eso los libró. Moody resume el argumento: la profesión de fe no hace justo a nadie delante de Dios. Y Valle Ruiz destaca que quien tuvo más privilegio y se rebela recibe una retribución a la medida de ese privilegio.", "fuentes": ["ncbjd_01#12", "moodynt_03_b#8", "cbmhjd_01_a#21"], "tipo": "doctrina"},
-        {"texto": "Para MacArthur los tres casos cumplen una doble función: motivan a los creyentes a seguir contendiendo por la fe y advierten con solemnidad a quien conoce la verdad pero se inclina a alejarse del evangelio (He 10:29-31). Ver Interpretaciones sobre cómo se entiende esta advertencia.", "fuentes": ["macjd_01_c#6"], "tipo": "aplicacion"}
-      ]
-    }
-  ],
-  "palabras": [
-    {"ref": "Jd 5", "griego": "ὑπομνῆσαι", "translit": "hypomnêsai", "significado": "Recordar, traer a la memoria. Judas no enseña algo nuevo: refresca la fe que ya recibieron, como Pedro en 2P 1:12.", "fuentes": ["deirosjd_02_a#21", "nunez2p_03_a#6"]},
-    {"ref": "Jd 5", "griego": "ἅπαξ", "translit": "hápax", "significado": "Una vez, de una vez para siempre. Es la misma palabra del v. 3. Unos la unen a lo que hizo el Señor (una vez sacó al pueblo) y otros a lo que saben los lectores (ya lo saben de una vez por todas); Rose se inclina por traducirla sencillamente ya lo saben.", "fuentes": ["beajd_01_a#26", "moodynt_03_b#8"]},
-    {"ref": "Jd 6", "griego": "ἀρχή", "translit": "arché", "significado": "Lo que la RVR1960 traduce dignidad. Puede significar rango o principado (como en Ro 8:38) o bien origen, el estado primero en que fueron creados.", "fuentes": ["deirosjd_02_a#24", "kisjd_01_b#12"]},
-    {"ref": "Jd 6", "griego": "τετήρηκεν", "translit": "tetḗrēken", "significado": "Ha guardado. Perfecto de τηρέω: una custodia que sigue vigente, en contraste con los ángeles que no guardaron (aoristo) su lugar.", "fuentes": ["kisjd_01_b#12", "deirosjd_02_a#24"]},
-    {"ref": "Jd 7", "griego": "ἐκπορνεύσασαι", "translit": "ekporneúsasai", "significado": "Habiéndose entregado a la inmoralidad sexual; el prefijo ek- indica exceso, una fornicación que se desbordó.", "fuentes": ["deirosjd_02_a#25", "macjd_01_c#4", "kisjd_01_b#16"]},
-    {"ref": "Jd 7", "griego": "δεῖγμα", "translit": "deígma", "significado": "Muestra, ejemplo expuesto a la vista: lo que queda como advertencia pública del castigo de Dios.", "fuentes": ["deirosjd_02_a#25", "kisjd_01_b#15"]}
-  ],
-  "cristo": [
-    {"texto": "Si la lectura original del v. 5 es Jesús, Judas estaría diciendo que fue el Hijo, antes de su encarnación, quien sacó a Israel de Egipto y juzgó a los incrédulos; algunos lo relacionan con el Ángel del Señor que guiaba al pueblo (Éx 23:20). Aun quienes leen el Señor discuten si se refiere al Padre o al Hijo, y Pablo dice que la roca que acompañaba a Israel era Cristo (1Co 10:4). Sea cual sea la lectura, el pasaje presenta al Señor como Salvador y como Juez.", "refs": ["Éx 23:20", "1Co 10:4"], "fuentes": ["deirosjd_02_a#22", "kisjd_01_b#3", "beajd_01_a#27"]},
-    {"texto": "La diferencia entre los que perecieron y los que se salvan es la fe en Cristo: a los impíos no se les perdonaron los pecados porque no creyeron en su sacrificio. Y solo la renovación del alma a imagen de Dios, obra del Espíritu, nos libra de ser destruidos con los enemigos de Dios.", "refs": ["Jn 3:18"], "fuentes": ["nunez2p_03_a#6", "mhenry_02#15", "deirosjd_02_a#27"]},
-    {"texto": "Los ángeles caídos no fueron redimidos; los seres humanos sí, porque el segundo Adán vino a rescatarlos. Kistemaker, citando a Bavinck, lo señala entre las diferencias entre ambos.", "refs": ["He 2:16", "1Co 15:45"], "fuentes": ["kisjd_02_a#1"]}
-  ],
-  "interpretaciones": [
-    {
-      "tema": "¿Quién sacó a Israel de Egipto en el v. 5: el Señor, Dios o Jesús?",
-      "posturas": [
-        {"postura": "La lectura original sería Jesús: es la más difícil, encaja con la cristología de Judas y luego un copista la habría cambiado por Señor o Dios; apoyo en 1Co 10:4.", "quien": "Wolff, Osburn y Fossum, según Rose y Deiros", "fuentes": ["beajd_01_a#27", "deirosjd_02_a#22"]},
-        {"postura": "La lectura es el Señor, que prefieren editores y traductores; Metzger explica la variante como un error de copia entre las abreviaturas de Señor y Jesús.", "quien": "Bauckham; Metzger, según Kistemaker", "fuentes": ["deirosjd_02_a#22", "kisjd_01_b#5"]},
-        {"postura": "El Señor es el Cristo preexistente.", "quien": "Bigg, citado por Kistemaker", "fuentes": ["kisjd_01_b#3"]},
-        {"postura": "El Señor es Dios Padre: el relato del desierto atribuye el juicio a Dios, y el v. 6 (como 2P 2:4) habla de Dios encarcelando a los ángeles.", "quien": "Kistemaker", "fuentes": ["kisjd_01_b#3"]},
-        {"postura": "Jesús entendido como Josué: Rose objeta que nunca se presenta a Josué como libertador de Egipto, y el Nuevo Comentario Bíblico que el mismo Señor juzga en el v. 6.", "quien": "Jerónimo (objetado por Rose y el Nuevo Comentario Bíblico)", "fuentes": ["beajd_01_a#27", "ncbjd_01#13"]}
-      ],
-      "nota": "Deiros expone las lecturas sin decidir. Todas coinciden en que el Dios que salva es el que juzga la incredulidad."
-    },
-    {
-      "tema": "¿Quiénes son los ángeles del v. 6 y cómo cayeron?",
-      "posturas": [
-        {"postura": "Son los hijos de Dios de Gn 6:1-4, que se unieron a mujeres; por esa falta fueron encarcelados. Judas y sus lectores conocían esa lectura, también presente en 1 Enoc.", "quien": "MacArthur; Núñez (siguiendo a Davids); Wiersbe; el Nuevo Comentario Bíblico y Deiros como probable; Larkin, citado por Chafer", "fuentes": ["macjd_01_c#2", "macjd_01_c#3", "nunez2p_03_a#10", "r1_007_b#37", "ncbjd_01#14", "deirosjd_02_a#29", "r1_014_a#24"]},
-        {"postura": "La Escritura no dice cómo cayeron; probablemente se rebelaron por orgullo, queriendo ser como Dios. Los ángeles son espíritus que no se casan (Mt 22:30), y Judas conoce la lectura de Enoc pero no la respalda.", "quien": "Kistemaker (Lenski llama ficción al relato de Enoc); Rose rechaza la lectura de Gn 6 por Mt 22:30; Henry atribuye la caída al orgullo", "fuentes": ["kisjd_01_b#7", "kisjd_01_b#11", "beajd_01_a#29", "mhenry_02#14"]},
-        {"postura": "Ángeles que cayeron en una rebelión antigua, distintos de los demonios que hoy andan libres bajo Satanás.", "quien": "McGee", "fuentes": ["mcgjd_01#23"]},
-        {"postura": "El Antiguo Testamento no narra expresamente una rebelión angélica; Judas usa tradiciones orales y literatura extrabíblica.", "quien": "Valle Ruiz (Comentario Mundo Hispano)", "fuentes": ["cbmhjd_01_a#20"]}
-      ],
-      "nota": "Chafer reconoce que sobre los hijos de Dios de Gn 6 unos piensan en descendientes de Set y otros en ángeles, y que probablemente nunca habrá una solución que satisfaga a todos. Todos coinciden en que fue una rebelión real contra Dios y que su juicio es seguro."
-    },
-    {
-      "tema": "«De la misma manera que aquellos»: ¿qué fue la otra carne de Sodoma?",
-      "posturas": [
-        {"postura": "Los hombres de Sodoma desearon a los ángeles que visitaron a Lot: el mismo pecado de los ángeles del v. 6, pero al revés.", "quien": "Bauckham (según Kistemaker); el Nuevo Comentario Bíblico; Larkin; MacArthur lo une a la conducta homosexual", "fuentes": ["kisjd_01_b#14", "ncbjd_01#15", "r1_014_a#25", "macjd_01_c#4"]},
-        {"postura": "La otra carne son varones: relaciones homosexuales que pervierten el orden creado. Aquellos se refiere a los habitantes de Sodoma, no a los ángeles, y el v. 7 es el tercer ejemplo de rebelión.", "quien": "Kistemaker", "fuentes": ["kisjd_01_b#14", "kisjd_01_b#11"]},
-        {"postura": "Expone ambas lecturas sin decidir.", "quien": "Núñez", "fuentes": ["nunez2p_03_a#12"]},
-        {"postura": "Además de la homosexualidad, el pecado grave de Sodoma fue la injusticia contra el pobre y el extranjero, violando la hospitalidad (Ez 16:49); muchos eluden esta segunda lectura.", "quien": "Deiros", "fuentes": ["deirosjd_02_a#31"]}
-      ],
-      "nota": "Todos los autores del día coinciden en que Jd 7 condena la inmoralidad sexual y la presenta como advertencia."
-    },
-    {
-      "tema": "La advertencia de los tres ejemplos y la seguridad del creyente",
-      "posturas": [
-        {"postura": "Advierte a quienes conocen la verdad sin haber sido regenerados; no habla de que un verdadero creyente pierda la salvación. Estar en la iglesia no prueba la salvación: estos no tenían el Espíritu (Jd 19).", "quien": "MacArthur; Wiersbe", "fuentes": ["macjd_01_c#6", "r1_007_b#37"]},
-        {"postura": "La posibilidad de caer es real: el destino de Sodoma anuncia el de quienes se profesan cristianos y no perseveran en justicia; experiencias espirituales y culto no garantizan entrar si hay incredulidad.", "quien": "Comentario Moody; Deiros", "fuentes": ["moodynt_03_b#10", "moodynt_03_b#8", "deirosjd_02_a#28"]}
-      ],
-      "nota": "El tema vuelve en el anexo T3. Todos coinciden en que la fe verdadera persevera y en que nadie debe apoyarse en privilegios externos."
-    },
-    {
-      "tema": "Cuándo es «el juicio del gran día» de los ángeles",
-      "posturas": [
-        {"postura": "Es el juicio del gran trono blanco (Ap 20:11).", "quien": "Rose", "fuentes": ["beajd_01_a#28"]},
-        {"postura": "Ocurrirá en el marco del reino milenario de Cristo, con participación de los creyentes (1Co 6:3).", "quien": "McGee; Ryrie lo ubica al final del milenio", "fuentes": ["mcgjd_01#25", "mcgjd_01#24", "r1_017#12"]}
-      ],
-      "nota": "La diferencia depende de la escuela milenial de cada autor. Todos afirman que el juicio de los ángeles caídos es seguro y final."
-    }
-  ],
-  "antiguo_testamento": [
-    {"ref": "Nm 14:26-38", "nota": "La sentencia sobre la generación incrédula en Cades-Barnea: sus cuerpos caerían en el desierto, salvo Caleb y Josué. Es el trasfondo más citado del v. 5.", "fuentes": ["macjd_01_c#1", "deirosjd_02_a#21", "cbmhjd_01_a#19"]},
-    {"ref": "Gn 6:1-4", "nota": "Los hijos de Dios y las hijas de los hombres: para muchos, trasfondo del v. 6; otros niegan la conexión (ver Interpretaciones).", "fuentes": ["beajd_01_a#29", "kisjd_01_b#7"]},
-    {"ref": "Gn 19:1-29", "nota": "El relato de los visitantes de Lot y la destrucción de las ciudades por fuego y azufre, trasfondo del v. 7.", "fuentes": ["macjd_01_c#4", "kisjd_01_b#13"]},
-    {"ref": "Ez 16:49", "nota": "Ezequiel incluye en la iniquidad de Sodoma la soberbia, la abundancia ociosa y la indiferencia hacia el pobre.", "fuentes": ["beajd_01_a#30", "deirosjd_02_a#31"]}
-  ],
-  "biblioteca": [
-    {"texto": "La identificación de los hijos de Dios de Gn 6 con ángeles fue universal en la tradición judía hasta mediados del siglo II d.C.; Judas y 2 Pedro aportan además detalles que no salen del Génesis, como las cadenas (δεσμοῖς) y la oscuridad (ζόφον).", "autor": "William Lane Craig", "obra": "El Adán histórico", "pagina": "PDF 258-259", "tipo": "historia", "fuentes": ["r1_002#4"]},
-    {"texto": "1 Enoc 6-19 narra la caída de los ángeles con paralelos verbales con Jd 6: habían dejado el alto cielo, fueron atados y arrojados a la oscuridad, y esperan el gran día del juicio. Judas cita ese libro en los vv. 14-15, aunque no es canónico.", "autor": "Simon Kistemaker", "obra": "Comentario al Nuevo Testamento: 1 y 2 Pedro y Judas", "pagina": "p. 433-434", "tipo": "historia", "fuentes": ["kisjd_01_b#10"]},
-    {"texto": "Que un dato venga de una fuente extrabíblica no lo hace falso: Judas no busca que esas fuentes sean aceptadas como canónicas, y el Espíritu no lo habría llevado a escribir algo falso sin advertirlo.", "autor": "Sergio Valle Ruiz", "obra": "Comentario Bíblico Mundo Hispano", "pagina": "p. 411", "tipo": "apologetica", "fuentes": ["cbmhjd_01_b#4"]},
-    {"texto": "Satanás fue el primer apóstata y hoy encabeza a los ángeles reservados en prisiones eternas (Jd 6); su meta es impedir que se reciba el evangelio y llevar a la apostasía a quienes lo recibieron, levantando falsos maestros.", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 21", "tipo": "doctrina", "fuentes": ["r1_019#20"]},
-    {"texto": "Ante quien dice que no puede creer en un Dios que condena, la Biblia muestra desde el principio que Dios es lento para la ira pero no deja sin castigo al culpable (Éx 34:6-7); un gobierno que dejara crecer el mal sin justicia no sería bueno.", "autor": "Miguel Núñez", "obra": "Comentario a 2 Pedro y Judas", "pagina": "PDF 166-167", "tipo": "apologetica", "fuentes": ["nunez2p_03_a#6"]},
-    {"texto": "Para explicar cómo un Dios infinitamente misericordioso se aíra, Núñez usa una imagen de John Piper: en un huracán la superficie del mar está furiosa, pero a pocos metros abajo hay calma. Dios ama a quienes creen sus promesas y está airado con quienes corrompen su diseño.", "autor": "Miguel Núñez", "obra": "Comentario a 2 Pedro y Judas", "pagina": "PDF 175-177", "tipo": "ilustracion", "fuentes": ["nunez2p_03_a#14"]}
-  ],
-  "conexiones": [
-    {"ref": "1Co 10:1-11", "nota": "Pablo usa la misma historia del desierto: todos salieron de Egipto, pero la mayoría cayó; y eso quedó escrito como ejemplo para nosotros. El Nuevo Comentario Bíblico lo llama un comentario ilustrativo de Jd 5.", "fuentes": ["ncbjd_01#13", "nunez2p_03_a#9", "deirosjd_02_a#28"]},
-    {"ref": "He 3:16-19", "nota": "No pudieron entrar a causa de la incredulidad: Hebreos saca la misma lección que Judas.", "fuentes": ["nunez2p_03_a#9", "deirosjd_02_a#23"]},
-    {"ref": "2P 2:4-8", "nota": "El pasaje paralelo: ángeles, diluvio y Sodoma, con Lot rescatado. Judas cambia el diluvio por Israel.", "fuentes": ["kisjd_01_b#1", "macjd_01_b#13"]},
-    {"ref": "Mt 22:30", "nota": "Los ángeles ni se casan ni se dan en casamiento: el texto que usan quienes rechazan la lectura de Gn 6 en Jd 6.", "fuentes": ["kisjd_01_b#7", "beajd_01_a#29"]},
-    {"ref": "Mt 25:41", "nota": "El fuego eterno preparado para el diablo y sus ángeles: Jd 7 concuerda con la enseñanza de Jesús.", "fuentes": ["ncbjd_01#15", "r1_017#12"]}
-  ],
-  "para_vivir": [
-    {"texto": "No den por sentado que estar cerca de las cosas de Dios es lo mismo que creerle. Leer la Biblia, cantar con la iglesia y haber visto respuestas de Dios no reemplaza la fe que confía y obedece. Pablo dice que lo que provocó idolatría, inmoralidad y quejas en el desierto fue no creer las promesas de Dios, y Núñez señala que nuestra incredulidad suele tomar esas mismas formas: queja, ingratitud, querer controlarlo todo.", "fuentes": ["deirosjd_02_a#28", "nunez2p_03_a#9"]},
-    {"texto": "Los gigantes de Canaán fueron la prueba de la fe de Israel. Piensen qué cosa en su vida les parece hoy más grande que Dios: ahí se juega si le van a creer a él o a otras voces.", "fuentes": ["nunez2p_03_a#8"]},
-    {"texto": "Los ángeles quisieron más de lo que Dios les había dado. Pecar a sabiendas y seguir es rebelión, y dudar de lo que Dios reveló es el primer paso para no someterse a Cristo. Contentarse con el lugar que Dios da es un acto de fe.", "fuentes": ["nunez2p_03_a#11", "mhenry_02#14"]},
-    {"texto": "Deiros señala que el que se aparta suele empezar abandonando la comunión con la iglesia, como Demas (2Ti 4:10). Cuiden juntos la comunión con otros creyentes: la comunidad ayuda a mantener el rumbo.", "fuentes": ["deirosjd_02_a#30", "nunez2p_03_c#13"]},
-    {"texto": "Deiros cierra con dos obediencias que no hay que esquivar: la pureza sexual que Dios manda y la hospitalidad con el extranjero y el necesitado. A la mayoría, dice, quizá no le cabe la primera advertencia, pero todos deberían examinarse con la segunda.", "fuentes": ["deirosjd_02_b#1"]}
-  ],
-  "para_conversar": [
-    "¿Por qué creen que a la gente de hoy le cuesta tanto aceptar que Dios juzga? ¿Cómo ayuda Jd 5 a ver juntas su misericordia y su justicia?",
-    "De los tres pecados (incredulidad, rebelión contra la autoridad de Dios, inmoralidad), ¿cuál les parece el mayor desafío para ustedes y para la iglesia hoy?",
-    "¿Qué situación les parece hoy un gigante más grande que Dios? ¿Qué promesas suyas necesitan recordar juntos frente a eso?"
-  ],
-  "para_orar": "Señor, gracias porque nos sacaste de la esclavitud del pecado por pura gracia. Guárdanos de la incredulidad que se queja, de querer más de lo que nos diste y de toda impureza; que no nos apoyemos en privilegios, sino que te creamos y te obedezcamos hasta el final, juntos y en comunión con tu pueblo. Amén.",
-  "visuales": ["mapa-oriente", "dg-2p-judas", "dg-estructura-jd"],
-  "anexos": ["T2", "T3", "I5"],
-  "profundizar": [
-    {"titulo": "¿Hay ángeles caídos encerrados y otros libres?", "texto": "Varios autores distinguen grupos. McGee separa a los ángeles encarcelados del v. 6 de los demonios que andan libres bajo Satanás. MacArthur y Mayhue proponen que el juicio sobre los demonios tuvo variaciones: una parte fue lanzada al abismo (2P 2:4; Jd 6), otra será liberada en los días finales (Ap 9) y otros acompañan hoy a Satanás. Wiersbe observa que algunos seguidores de Satanás ya están encadenados, pero su juicio final todavía no llegó. Kistemaker, en cambio, lee las prisiones como imagen de la sentencia ineludible y no de un lugar donde estén todos.", "fuentes": ["mcgjd_01#23", "r1_018_b#6", "r1_008#1", "kisjd_01_b#9"]},
-    {"titulo": "Oscuridad y fuego: el lenguaje del juicio", "texto": "McGee destaca que Judas habla de oscuridad para los ángeles (v. 6) y para los apóstatas (v. 13). Cree que el infierno es real, pero piensa que el fuego es un símbolo débil de una realidad peor, y que la tiniebla es espiritual: los perdidos la llevan consigo. MacArthur, por su parte, describe el fuego eterno como un tormento consciente y permanente, con abundantes textos de Jesús (Mt 13:42; 25:41, 46). Ambos coinciden en que el juicio es eterno y terrible.", "fuentes": ["mcgjd_01#24", "mcgjd_01#26", "macjd_01_c#5"]},
-    {"titulo": "Ángeles y seres humanos: diferencias", "texto": "Kistemaker, siguiendo a Bavinck, enumera diferencias: el ser humano es cuerpo y alma y forma una familia, la humanidad; el ángel es espíritu, no se casa y no forma una especie con lazos familiares. El hombre fue creado a imagen de Dios para gobernar la creación; los ángeles, para servir. Y cuando Adán cayó vino el segundo Adán a redimirlo, mientras que los ángeles que cayeron no fueron redimidos (He 2:16). La Biblia los presenta como incontables, con rangos (Miguel, querubines, serafines) y con personalidad: se alegran por un pecador que se arrepiente (Lc 15:10).", "fuentes": ["kisjd_02_a#1", "kisjd_01_b#28"]},
-    {"titulo": "Herejía y secta", "texto": "Deiros, al introducir esta sección, recuerda que la palabra griega haíresis significaba elección o preferencia y luego escuela de pensamiento; en Pablo se opone a la iglesia y toma el sentido de división (1Co 11:19; Gá 5:20; Tit 3:10). Herejía es un error en materia de fe sostenido con obstinación, que tiende a dividir; y las sectas proliferan donde la enseñanza doctrinal de las iglesias es insuficiente.", "fuentes": ["deirosjd_02_a#19"]},
-    {"titulo": "La zona del mar Muerto", "texto": "La Biblia de MacArthur ubica las ciudades en el extremo sureste del mar Muerto. Núñez menciona que allí se halló evidencia arqueológica de ciudades destruidas por fuego en esa época, que algunos identifican con Sodoma y Gomorra; McGee piensa que quizás estén bajo el agua y no le da importancia. Valle Ruiz señala que la zona tiene yacimientos de petróleo y gas.", "fuentes": ["mbibjd_01_a#26", "nunez2p_03_a#12", "mcgjd_01#28", "cbmhjd_01_a#25"]}
+ "dia": 63,
+ "libro": "Jd",
+ "desde": "Jd 5",
+ "hasta": "Jd 7",
+ "titulo": "Israel, los ángeles, Sodoma y Gomorra",
+ "minutos": {
+  "lectura": 2,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "Ayer (Jd 3-4) Judas exhortó a contender por la fe, porque se habían infiltrado hombres impíos destinados a condenación.",
+  "ahora": "Ahora recuerda tres juicios de Dios que sus lectores ya conocían, para ilustrar esa condenación (v. 4) en contraste con la salvación común (v. 3).",
+  "despues": "Mañana (Jd 8-10) aplica estos ejemplos a los falsos maestros, los soñadores, y aparece Miguel frente al diablo.",
+  "fuentes": [
+   "kisjd_01_b#1",
+   "mbibjd_01_a#23",
+   "macjd_01_b#7"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "Jd 5",
+  "porque": "En un solo versículo están la misericordia y la ira de Dios: el mismo Señor que salvó al pueblo de Egipto destruyó después a los que no creyeron. Es la advertencia de fondo de los tres ejemplos: haber recibido privilegios no reemplaza a la fe."
+ },
+ "panorama": {
+  "texto": "Judas no trae información nueva: refresca lo que sus lectores ya sabían. Elige tres casos del Antiguo Testamento en los que Dios juzgó a quienes se apartaron de él: un pueblo redimido que no creyó, unos ángeles que no guardaron su lugar y unas ciudades que se entregaron a la inmoralidad. Varios autores resumen los tres pecados como incredulidad, rebelión e inmoralidad sexual, y los tres desembocan en el mismo juicio. La enseñanza común es seria y sobria: ni el estatus, ni la cercanía con Dios, ni haber visto milagros garantizan nada si no hay fe y obediencia; y lo que Dios hizo entonces muestra que los falsos maestros de cualquier época no escaparán.",
+  "fuentes": [
+   "deirosjd_02_a#21",
+   "deirosjd_02_a#26",
+   "nunez2p_03_a#13",
+   "ncbjd_01#12",
+   "macjd_01_b#14"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "Jd 5a",
+   "titulo": "Recordar lo que ya saben",
+   "notas": [
+    {
+     "texto": "Judas dice que quiere recordarles algo que ya conocen. Con tacto los elogia: conocen el Antiguo Testamento, y el verbo saber da por sentado que tienen los hechos presentes. Varios autores piensan que la frase «ya que una vez lo habéis sabido» alude a la instrucción que recibían los nuevos creyentes al entrar en la iglesia, la misma enseñanza apostólica entregada a los santos de una vez para siempre (v. 3).",
+     "fuentes": [
+      "kisjd_01_b#2",
+      "ncbjd_01#13",
+      "beajd_01_a#25"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Deiros subraya que recordar es esencial en una fe que se apoya en lo que Dios hizo en la historia (2P 1:12; 3:1-2). Y si la fe apostólica ya es completa, no necesita complementos: Judas no agrega novedades, como quizás hacían los falsos maestros; refresca lo que la iglesia ya tenía.",
+     "fuentes": [
+      "deirosjd_02_a#21"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 5b",
+   "titulo": "Un pueblo salvado que no creyó",
+   "notas": [
+    {
+     "texto": "Todo Israel salió de Egipto (Éx 12:51) por gracia, pero esa generación respondió con incredulidad, quejas e idolatría, y murió en el desierto salvo Josué y Caleb (Nm 14:29-30). Para MacArthur el Éxodo es a la vez imagen de la redención y recordatorio severo del juicio.",
+     "fuentes": [
+      "deirosjd_02_a#23",
+      "mbibjd_01_a#24",
+      "macjd_01_b#14"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "La mayoría ubica el episodio en Cades-Barnea (Nm 13-14): diez espías se intimidaron ante los gigantes y el pueblo se negó a entrar; la sentencia fue vagar cuarenta años hasta que muriera esa generación. Núñez menciona también el becerro de oro (Éx 32), pero desarrolla la de los espías: vieron a los gigantes más grandes que Dios.",
+     "fuentes": [
+      "cbmhjd_01_a#19",
+      "mcgjd_01#22",
+      "nunez2p_03_a#8",
+      "macjd_01_c#1"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "¿Qué es la incredulidad? Núñez insiste en que no es ignorancia: aquel pueblo había visto el mar abierto, el maná, la nube y la columna de fuego, y su fe no creció. Es rebelión, creer que uno entiende mejor que el Creador; y quien no le cree a Dios termina creyéndoles a los falsos maestros. Matthew Henry lo dice así: tuvieron milagros como pan de cada día y aun así perecieron en incredulidad, de modo que nadie debe presumir de sus privilegios.",
+     "fuentes": [
+      "nunez2p_03_a#7",
+      "nunez2p_03_a#8",
+      "mhenry_02#13"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "El mismo versículo muestra las dos caras de Dios: su misericordia, que salva, y su justicia, que no deja sin castigo al culpable (Éx 34:6-7). Deiros lo resume así: la iniciativa de salvar es de Dios, como lo es en cada creyente hoy, pero su decisión no es arbitraria; quiere salvar al que cree, y el que no cree ya está condenado (Jn 3:18).",
+     "fuentes": [
+      "nunez2p_03_a#6",
+      "deirosjd_02_a#27"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Hay una variante en los manuscritos: donde la mayoría dice el Señor, algunos importantes dicen Jesús (ver Cristo e Interpretaciones).",
+     "fuentes": [
+      "deirosjd_02_a#22",
+      "kisjd_01_b#3"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 6",
+   "titulo": "Los ángeles que no guardaron su lugar",
+   "notas": [
+    {
+     "texto": "El segundo ejemplo va más atrás que Israel: algunos ángeles. Los ángeles fueron creados santos, con posiciones de autoridad y tareas de servicio, como la de mensajeros (He 1:7, 14). Algunos cayeron por una rebelión intencional; los que permanecieron fieles quedaron confirmados en santidad y los que cayeron, en su maldad. Dios no perdonó ni siquiera a criaturas tan poderosas.",
+     "fuentes": [
+      "dbmh_01_a#8",
+      "r1_016#21",
+      "kisjd_01_b#6"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Judas describe su pecado con dos frases en paralelo: «no guardaron su dignidad» (la posición que Dios les dio) y «abandonaron su propia morada» (el lugar donde vivían). Salieron por voluntad propia de su esfera; Pedro solo dice que pecaron (2P 2:4).",
+     "fuentes": [
+      "kisjd_01_b#8",
+      "beajd_01_a#28",
+      "macjd_01_c#3"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Hay un juego de palabras con el verbo guardar: los que no guardaron lo que Dios les confió, ahora Dios los tiene guardados. El verbo de los ángeles está en aoristo (dejaron su lugar de una vez) y el de Dios en perfecto (los mantiene bajo custodia de modo permanente). El castigo corresponde a la falta: como no guardaron su lugar luminoso, quedan bajo oscuridad; como abandonaron su morada, quedan en prisión.",
+     "fuentes": [
+      "kisjd_01_b#12",
+      "ncbjd_01#14",
+      "cbmhjd_01_a#21",
+      "deirosjd_02_a#30"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "«Bajo oscuridad, en prisiones eternas»: Kistemaker advierte que el texto no dice que todos los ángeles caídos estén encerrados en un lugar (si así fuera, la tierra no estaría plagada de demonios); la imagen es la de seres atados a una sentencia de la que no pueden escapar. Judas no da detalles de ubicación: le interesa que Dios castiga a quienes se niegan a obedecerle (ver Profundizar).",
+     "fuentes": [
+      "kisjd_01_b#9",
+      "kisjd_01_b#8"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Están reservados «para el juicio del gran día». Para Rose, esta mirada al juicio final muestra que la escatología no es el menor de los intereses de Judas. Henry saca la conclusión práctica: si los ángeles caídos no escapan, tampoco escaparán los hombres caídos; ninguna dignidad de criatura protege a quien se rebela.",
+     "fuentes": [
+      "beajd_01_a#28",
+      "mhenry_02#14"
+     ],
+     "tipo": "aplicacion"
+    },
+    {
+     "texto": "Qué hicieron exactamente estos ángeles es de lo más discutido de la carta (ver Interpretaciones). Deiros advierte que muchos siguen más la imaginación de Milton que a la Biblia, que dice poco.",
+     "fuentes": [
+      "deirosjd_02_a#29",
+      "kisjd_01_b#7"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 7",
+   "titulo": "Sodoma y Gomorra, un ejemplo a la vista",
+   "notas": [
+    {
+     "texto": "El tercer ejemplo es el más vívido. En toda la Escritura Sodoma y Gomorra son sinónimo de pecado desvergonzado y de juicio por fuego y azufre (Dt 29:23; Is 1:9; Am 4:11; Lc 17:29; 2P 2:6), y Jesús mismo las usó como ejemplo. Las ciudades vecinas son Adma y Zeboim (Dt 29:23; Os 11:8); Zoar fue perdonada (Gn 19:22-23).",
+     "fuentes": [
+      "kisjd_01_b#13",
+      "beajd_01_a#30",
+      "cbmhjd_01_a#24"
+     ],
+     "tipo": "historia"
+    },
+    {
+     "texto": "El verbo que traduce «habiendo fornicado» es un compuesto con el prefijo ek-, que sugiere exceso: una inmoralidad que se extralimitó. Y se fueron tras sus vicios, abandonando el camino que Dios había marcado. Lo que la RVR1960 traduce «vicios contra naturaleza» es, literalmente, ir tras otra carne o una carne diferente. A quién se refiere esa otra carne (a los varones o a los ángeles que visitaron a Lot) se discute (ver Interpretaciones).",
+     "fuentes": [
+      "deirosjd_02_a#25",
+      "macjd_01_c#4",
+      "ncbjd_01#15",
+      "cbmhjd_01_a#24"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "La Biblia de MacArthur señala que la lujuria de Sodoma abarcaba lo heterosexual (Gn 19:8) y lo homosexual (Gn 19:4-5); Rose y Deiros recuerdan que Ezequiel incluye además la soberbia, la abundancia ociosa y la indiferencia hacia el pobre (Ez 16:49).",
+     "fuentes": [
+      "mbibjd_01_a#27",
+      "beajd_01_a#30",
+      "deirosjd_02_a#31"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Las ciudades «fueron puestas por ejemplo»: la palabra sugiere algo expuesto a la vista pública. Desde que el fuego las destruyó, Sodoma no vuelve a aparecer en la Biblia como ciudad viva; Moisés, los profetas, Jesús y los apóstoles mantuvieron viva la memoria de su pecado. Kistemaker aclara que este ejemplo no es para copiar sino para evitar: es una advertencia.",
+     "fuentes": [
+      "kisjd_01_b#15",
+      "deirosjd_02_a#25"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Aquel fuego histórico es un anticipo del «castigo del fuego eterno», en línea con lo que Jesús enseñó (Mt 18:8; 25:41). La Biblia de MacArthur agrega que ocurrió unos cuatrocientos cincuenta años después del diluvio, cuando el mensaje de Noé todavía era conocido y fue rechazado.",
+     "fuentes": [
+      "beajd_01_a#30",
+      "mbibjd_01_a#27",
+      "ncbjd_01#15",
+      "mbibjd_01_a#26"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 5-7",
+   "titulo": "Tres pecados, un mismo juicio",
+   "notas": [
+    {
+     "texto": "Los tres ejemplos muestran tres formas de apartarse de Dios: incredulidad (Israel), rebelión contra la autoridad (los ángeles) e inmoralidad (Sodoma). Deiros nota que abarcan a seres celestiales y humanos, a un pueblo con pacto y a pueblos sin él.",
+     "fuentes": [
+      "nunez2p_03_a#13",
+      "deirosjd_02_a#26"
+     ],
+     "tipo": "estructura"
+    },
+    {
+     "texto": "El hilo común es que el estatus no salva. Israel había sido liberado, los ángeles vivían en la presencia de Dios, Sodoma estaba en la tierra prometida y Lot vivía allí; nada de eso los libró. Moody resume el argumento: la profesión de fe no hace justo a nadie delante de Dios. Y Valle Ruiz destaca que quien tuvo más privilegio y se rebela recibe una retribución a la medida de ese privilegio.",
+     "fuentes": [
+      "ncbjd_01#12",
+      "moodynt_03_b#8",
+      "cbmhjd_01_a#21"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "Jd 5",
+   "griego": "ὑπομνῆσαι",
+   "translit": "hypomnêsai",
+   "significado": "Recordar, traer a la memoria: Judas refresca la fe ya recibida (cf. 2P 1:12).",
+   "fuentes": [
+    "deirosjd_02_a#21",
+    "nunez2p_03_a#6"
+   ]
+  },
+  {
+   "ref": "Jd 5",
+   "griego": "ἅπαξ",
+   "translit": "hápax",
+   "significado": "Una vez, de una vez para siempre (como en el v. 3). Unos la unen a lo que hizo el Señor y otros a lo que saben los lectores; Rose prefiere traducir ya lo saben.",
+   "fuentes": [
+    "beajd_01_a#26",
+    "moodynt_03_b#8"
+   ]
+  },
+  {
+   "ref": "Jd 6",
+   "griego": "ἀρχή",
+   "translit": "arché",
+   "significado": "Lo que la RVR1960 traduce dignidad. Puede significar rango o principado (como en Ro 8:38) o bien origen, el estado primero en que fueron creados.",
+   "fuentes": [
+    "deirosjd_02_a#24",
+    "kisjd_01_b#12"
+   ]
+  },
+  {
+   "ref": "Jd 6",
+   "griego": "τετήρηκεν",
+   "translit": "tetḗrēken",
+   "significado": "Ha guardado. Perfecto de τηρέω: una custodia que sigue vigente, en contraste con los ángeles que no guardaron (aoristo) su lugar.",
+   "fuentes": [
+    "kisjd_01_b#12",
+    "deirosjd_02_a#24"
+   ]
+  },
+  {
+   "ref": "Jd 7",
+   "griego": "ἐκπορνεύσασαι",
+   "translit": "ekporneúsasai",
+   "significado": "Habiéndose entregado a la inmoralidad sexual; el prefijo ek- indica exceso, una fornicación que se desbordó.",
+   "fuentes": [
+    "deirosjd_02_a#25",
+    "macjd_01_c#4",
+    "kisjd_01_b#16"
+   ]
+  },
+  {
+   "ref": "Jd 7",
+   "griego": "δεῖγμα",
+   "translit": "deígma",
+   "significado": "Muestra, ejemplo expuesto a la vista: lo que queda como advertencia pública del castigo de Dios.",
+   "fuentes": [
+    "deirosjd_02_a#25",
+    "kisjd_01_b#15"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Si la lectura original del v. 5 es Jesús, fue el Hijo, antes de encarnarse, quien sacó a Israel de Egipto y juzgó a los incrédulos; algunos lo relacionan con el Ángel del Señor (Éx 23:20), y Pablo dice que la roca que acompañaba a Israel era Cristo (1Co 10:4). Con cualquier lectura, el Señor aparece como Salvador y Juez.",
+   "refs": [
+    "Éx 23:20",
+    "1Co 10:4"
+   ],
+   "fuentes": [
+    "deirosjd_02_a#22",
+    "kisjd_01_b#3",
+    "beajd_01_a#27"
+   ]
+  },
+  {
+   "texto": "La diferencia entre los que perecieron y los que se salvan es la fe en Cristo: a los impíos no se les perdonaron los pecados porque no creyeron en su sacrificio. Y solo la renovación del alma a imagen de Dios, obra del Espíritu, nos libra de ser destruidos con los enemigos de Dios.",
+   "refs": [
+    "Jn 3:18"
+   ],
+   "fuentes": [
+    "nunez2p_03_a#6",
+    "mhenry_02#15",
+    "deirosjd_02_a#27"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Quién sacó a Israel de Egipto en el v. 5: el Señor, Dios o Jesús?",
+   "posturas": [
+    {
+     "postura": "La lectura original sería Jesús, la más difícil y acorde con la cristología de Judas; un copista la habría cambiado (cf. 1Co 10:4).",
+     "quien": "Wolff, Osburn y Fossum, según Rose y Deiros",
+     "fuentes": [
+      "beajd_01_a#27",
+      "deirosjd_02_a#22"
+     ]
+    },
+    {
+     "postura": "La lectura es el Señor; Metzger explica la variante como un error de copia entre las abreviaturas.",
+     "quien": "Bauckham; Metzger, según Kistemaker",
+     "fuentes": [
+      "deirosjd_02_a#22",
+      "kisjd_01_b#5"
+     ]
+    },
+    {
+     "postura": "El Señor es el Cristo preexistente.",
+     "quien": "Bigg, citado por Kistemaker",
+     "fuentes": [
+      "kisjd_01_b#3"
+     ]
+    },
+    {
+     "postura": "El Señor es Dios Padre, porque el v. 6 (como 2P 2:4) atribuye a Dios el encarcelamiento de los ángeles.",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kisjd_01_b#3"
+     ]
+    },
+    {
+     "postura": "Jesús entendido como Josué; objetado porque nunca se presenta a Josué como libertador de Egipto y el mismo Señor juzga en el v. 6.",
+     "quien": "Jerónimo (objetado por Rose y el Nuevo Comentario Bíblico)",
+     "fuentes": [
+      "beajd_01_a#27",
+      "ncbjd_01#13"
+     ]
+    }
+   ],
+   "nota": "Deiros expone sin decidir. Todos coinciden en que el Dios que salva es el que juzga."
+  },
+  {
+   "tema": "¿Quiénes son los ángeles del v. 6 y cómo cayeron?",
+   "posturas": [
+    {
+     "postura": "Son los hijos de Dios de Gn 6:1-4, que se unieron a mujeres, lectura conocida por Judas y presente en 1 Enoc.",
+     "quien": "MacArthur; Núñez (siguiendo a Davids); Wiersbe; el Nuevo Comentario Bíblico y Deiros como probable; Larkin, citado por Chafer",
+     "fuentes": [
+      "macjd_01_c#2",
+      "macjd_01_c#3",
+      "nunez2p_03_a#10",
+      "r1_007_b#37",
+      "ncbjd_01#14",
+      "deirosjd_02_a#29",
+      "r1_014_a#24"
+     ]
+    },
+    {
+     "postura": "La Escritura no dice cómo cayeron; probablemente por orgullo. Los ángeles no se casan (Mt 22:30) y Judas no respalda la lectura de Enoc.",
+     "quien": "Kistemaker (Lenski llama ficción al relato de Enoc); Rose rechaza la lectura de Gn 6 por Mt 22:30; Henry atribuye la caída al orgullo",
+     "fuentes": [
+      "kisjd_01_b#7",
+      "kisjd_01_b#11",
+      "beajd_01_a#29",
+      "mhenry_02#14"
+     ]
+    },
+    {
+     "postura": "Ángeles que cayeron en una rebelión antigua, distintos de los demonios que hoy andan libres bajo Satanás.",
+     "quien": "McGee",
+     "fuentes": [
+      "mcgjd_01#23"
+     ]
+    },
+    {
+     "postura": "El Antiguo Testamento no narra una rebelión angélica; Judas usa tradiciones extrabíblicas.",
+     "quien": "Valle Ruiz (Comentario Mundo Hispano)",
+     "fuentes": [
+      "cbmhjd_01_a#20"
+     ]
+    }
+   ],
+   "nota": "Chafer reconoce que probablemente nunca habrá una solución que satisfaga a todos. Todos coinciden en que fue una rebelión real y su juicio es seguro."
+  },
+  {
+   "tema": "«De la misma manera que aquellos»: ¿qué fue la otra carne de Sodoma?",
+   "posturas": [
+    {
+     "postura": "Los hombres de Sodoma desearon a los ángeles que visitaron a Lot: el mismo pecado de los ángeles del v. 6, pero al revés.",
+     "quien": "Bauckham (según Kistemaker); el Nuevo Comentario Bíblico; Larkin; MacArthur lo une a la conducta homosexual",
+     "fuentes": [
+      "kisjd_01_b#14",
+      "ncbjd_01#15",
+      "r1_014_a#25",
+      "macjd_01_c#4"
+     ]
+    },
+    {
+     "postura": "Otra carne son varones: relaciones homosexuales que pervierten el orden creado; aquellos remite a los habitantes de Sodoma.",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kisjd_01_b#14",
+      "kisjd_01_b#11"
+     ]
+    },
+    {
+     "postura": "Expone ambas lecturas sin decidir.",
+     "quien": "Núñez",
+     "fuentes": [
+      "nunez2p_03_a#12"
+     ]
+    },
+    {
+     "postura": "Además, el pecado grave fue la injusticia contra el pobre y el extranjero (Ez 16:49), lectura que muchos eluden.",
+     "quien": "Deiros",
+     "fuentes": [
+      "deirosjd_02_a#31"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en que Jd 7 condena la inmoralidad sexual."
+  },
+  {
+   "tema": "La advertencia de los tres ejemplos y la seguridad del creyente",
+   "posturas": [
+    {
+     "postura": "Advierte a quienes conocen la verdad sin estar regenerados; estar en la iglesia no prueba la salvación (cf. Jd 19).",
+     "quien": "MacArthur; Wiersbe",
+     "fuentes": [
+      "macjd_01_c#6",
+      "r1_007_b#37"
+     ]
+    },
+    {
+     "postura": "La posibilidad de caer es real para quienes se profesan cristianos y no perseveran.",
+     "quien": "Comentario Moody; Deiros",
+     "fuentes": [
+      "moodynt_03_b#10",
+      "moodynt_03_b#8",
+      "deirosjd_02_a#28"
+     ]
+    }
+   ],
+   "nota": "Ver anexo T3. Todos coinciden en que la fe verdadera persevera y nadie debe apoyarse en privilegios."
+  }
+ ],
+ "antiguo_testamento": [
+  {
+   "ref": "Nm 14:26-38",
+   "nota": "La sentencia sobre la generación incrédula en Cades-Barnea: sus cuerpos caerían en el desierto, salvo Caleb y Josué. Es el trasfondo más citado del v. 5.",
+   "fuentes": [
+    "macjd_01_c#1",
+    "deirosjd_02_a#21",
+    "cbmhjd_01_a#19"
+   ]
+  },
+  {
+   "ref": "Gn 6:1-4",
+   "nota": "Los hijos de Dios y las hijas de los hombres: para muchos, trasfondo del v. 6; otros niegan la conexión (ver Interpretaciones).",
+   "fuentes": [
+    "beajd_01_a#29",
+    "kisjd_01_b#7"
+   ]
+  },
+  {
+   "ref": "Gn 19:1-29",
+   "nota": "El relato de los visitantes de Lot y la destrucción de las ciudades por fuego y azufre, trasfondo del v. 7.",
+   "fuentes": [
+    "macjd_01_c#4",
+    "kisjd_01_b#13"
+   ]
+  },
+  {
+   "ref": "Ez 16:49",
+   "nota": "Ezequiel incluye en la iniquidad de Sodoma la soberbia, la abundancia ociosa y la indiferencia hacia el pobre.",
+   "fuentes": [
+    "beajd_01_a#30",
+    "deirosjd_02_a#31"
+   ]
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "La identificación de los hijos de Dios de Gn 6 con ángeles fue universal en la tradición judía hasta mediados del siglo II d.C.; Judas y 2 Pedro aportan además detalles que no salen del Génesis, como las cadenas (δεσμοῖς) y la oscuridad (ζόφον).",
+   "autor": "William Lane Craig",
+   "obra": "El Adán histórico",
+   "pagina": "PDF 258-259",
+   "tipo": "historia",
+   "fuentes": [
+    "r1_002#4"
+   ]
+  },
+  {
+   "texto": "Que un dato venga de una fuente extrabíblica no lo hace falso: Judas no busca que esas fuentes sean aceptadas como canónicas, y el Espíritu no lo habría llevado a escribir algo falso sin advertirlo.",
+   "autor": "Sergio Valle Ruiz",
+   "obra": "Comentario Bíblico Mundo Hispano",
+   "pagina": "p. 411",
+   "tipo": "apologetica",
+   "fuentes": [
+    "cbmhjd_01_b#4"
+   ]
+  },
+  {
+   "texto": "Satanás fue el primer apóstata y hoy encabeza a los ángeles reservados en prisiones eternas (Jd 6); su meta es impedir que se reciba el evangelio y llevar a la apostasía a quienes lo recibieron, levantando falsos maestros.",
+   "autor": "John Owen",
+   "obra": "Apostasía del evangelio",
+   "pagina": "PDF 21",
+   "tipo": "doctrina",
+   "fuentes": [
+    "r1_019#20"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "1Co 10:1-11",
+   "nota": "Pablo usa la misma historia del desierto: todos salieron de Egipto, pero la mayoría cayó; y eso quedó escrito como ejemplo para nosotros. El Nuevo Comentario Bíblico lo llama un comentario ilustrativo de Jd 5.",
+   "fuentes": [
+    "ncbjd_01#13",
+    "nunez2p_03_a#9",
+    "deirosjd_02_a#28"
+   ]
+  },
+  {
+   "ref": "He 3:16-19",
+   "nota": "No pudieron entrar a causa de la incredulidad: Hebreos saca la misma lección que Judas.",
+   "fuentes": [
+    "nunez2p_03_a#9",
+    "deirosjd_02_a#23"
+   ]
+  },
+  {
+   "ref": "2P 2:4-8",
+   "nota": "El pasaje paralelo: ángeles, diluvio y Sodoma, con Lot rescatado. Judas cambia el diluvio por Israel.",
+   "fuentes": [
+    "kisjd_01_b#1",
+    "macjd_01_b#13"
+   ]
+  },
+  {
+   "ref": "Mt 25:41",
+   "nota": "El fuego eterno preparado para el diablo y sus ángeles: Jd 7 concuerda con la enseñanza de Jesús.",
+   "fuentes": [
+    "ncbjd_01#15",
+    "r1_017#12"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "No den por sentado que estar cerca de las cosas de Dios es lo mismo que creerle. Leer la Biblia, cantar con la iglesia y haber visto respuestas de Dios no reemplaza la fe que confía y obedece. Pablo dice que lo que provocó idolatría, inmoralidad y quejas en el desierto fue no creer las promesas de Dios, y Núñez señala que nuestra incredulidad suele tomar esas mismas formas: queja, ingratitud, querer controlarlo todo.",
+   "fuentes": [
+    "deirosjd_02_a#28",
+    "nunez2p_03_a#9"
+   ]
+  },
+  {
+   "texto": "Los ángeles quisieron más de lo que Dios les había dado. Pecar a sabiendas y seguir es rebelión, y dudar de lo que Dios reveló es el primer paso para no someterse a Cristo. Contentarse con el lugar que Dios da es un acto de fe.",
+   "fuentes": [
+    "nunez2p_03_a#11",
+    "mhenry_02#14"
+   ]
+  },
+  {
+   "texto": "Deiros señala que el que se aparta suele empezar abandonando la comunión con la iglesia, como Demas (2Ti 4:10). Cuiden juntos la comunión con otros creyentes: la comunidad ayuda a mantener el rumbo.",
+   "fuentes": [
+    "deirosjd_02_a#30",
+    "nunez2p_03_c#13"
+   ]
+  },
+  {
+   "texto": "Deiros cierra con dos obediencias que no hay que esquivar: la pureza sexual que Dios manda y la hospitalidad con el extranjero y el necesitado. A la mayoría, dice, quizá no le cabe la primera advertencia, pero todos deberían examinarse con la segunda.",
+   "fuentes": [
+    "deirosjd_02_b#1"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "¿Por qué creen que a la gente de hoy le cuesta tanto aceptar que Dios juzga? ¿Cómo ayuda Jd 5 a ver juntas su misericordia y su justicia?",
+  "De los tres pecados (incredulidad, rebelión contra la autoridad de Dios, inmoralidad), ¿cuál les parece el mayor desafío para ustedes y para la iglesia hoy?",
+  "¿Qué situación les parece hoy un gigante más grande que Dios? ¿Qué promesas suyas necesitan recordar juntos frente a eso?"
+ ],
+ "para_orar": "Señor, gracias porque nos sacaste de la esclavitud del pecado por pura gracia. Guárdanos de la incredulidad que se queja, de querer más de lo que nos diste y de toda impureza; que no nos apoyemos en privilegios, sino que te creamos y te obedezcamos hasta el final, juntos y en comunión con tu pueblo. Amén.",
+ "visuales": [
+  "mapa-oriente",
+  "dg-2p-judas",
+  "dg-estructura-jd"
+ ],
+ "anexos": [
+  "T2",
+  "T3",
+  "I5"
+ ],
+ "profundizar": [
+  {
+   "titulo": "Cuántos murieron en el desierto",
+   "texto": "Kistemaker hace un cálculo para dimensionar el juicio: según el censo de Nm 1:45-46 eran 603.550 varones mayores de veinte años; sumando un número igual de mujeres y repartiendo esas muertes en los 38 años posteriores (Dt 2:14-15), resultan casi noventa muertes por día. Una nación que vio tantos milagros se negó a confiar, y eso es una advertencia contra tomar a la ligera el castigo de Dios.",
+   "fuentes": [
+    "kisjd_01_b#4"
+   ]
+  },
+  {
+   "titulo": "¿Hay ángeles caídos encerrados y otros libres?",
+   "texto": "Varios autores distinguen grupos. McGee separa a los ángeles encarcelados del v. 6 de los demonios que andan libres bajo Satanás. MacArthur y Mayhue proponen que el juicio sobre los demonios tuvo variaciones: una parte fue lanzada al abismo (2P 2:4; Jd 6), otra será liberada en los días finales (Ap 9) y otros acompañan hoy a Satanás. Wiersbe observa que algunos seguidores de Satanás ya están encadenados, pero su juicio final todavía no llegó. Kistemaker, en cambio, lee las prisiones como imagen de la sentencia ineludible y no de un lugar donde estén todos.",
+   "fuentes": [
+    "mcgjd_01#23",
+    "r1_018_b#6",
+    "r1_008#1",
+    "kisjd_01_b#9"
+   ]
+  },
+  {
+   "titulo": "Oscuridad y fuego: el lenguaje del juicio",
+   "texto": "McGee destaca que Judas habla de oscuridad para los ángeles (v. 6) y para los apóstatas (v. 13). Cree que el infierno es real, pero piensa que el fuego es un símbolo débil de una realidad peor, y que la tiniebla es espiritual: los perdidos la llevan consigo. MacArthur, por su parte, describe el fuego eterno como un tormento consciente y permanente, con abundantes textos de Jesús (Mt 13:42; 25:41, 46). Ambos coinciden en que el juicio es eterno y terrible.",
+   "fuentes": [
+    "mcgjd_01#24",
+    "mcgjd_01#26",
+    "macjd_01_c#5"
+   ]
+  },
+  {
+   "titulo": "Ángeles y seres humanos: diferencias",
+   "texto": "Kistemaker, siguiendo a Bavinck, enumera diferencias: el ser humano es cuerpo y alma y forma una familia, la humanidad; el ángel es espíritu, no se casa y no forma una especie con lazos familiares. El hombre fue creado a imagen de Dios para gobernar la creación; los ángeles, para servir. Y cuando Adán cayó vino el segundo Adán a redimirlo, mientras que los ángeles que cayeron no fueron redimidos (He 2:16). La Biblia los presenta como incontables, con rangos (Miguel, querubines, serafines) y con personalidad: se alegran por un pecador que se arrepiente (Lc 15:10).",
+   "fuentes": [
+    "kisjd_02_a#1",
+    "kisjd_01_b#28"
+   ]
+  },
+  {
+   "titulo": "Herejía y secta",
+   "texto": "Deiros, al introducir esta sección, recuerda que la palabra griega haíresis significaba elección o preferencia y luego escuela de pensamiento; en Pablo se opone a la iglesia y toma el sentido de división (1Co 11:19; Gá 5:20; Tit 3:10). Herejía es un error en materia de fe sostenido con obstinación, que tiende a dividir; y las sectas proliferan donde la enseñanza doctrinal de las iglesias es insuficiente.",
+   "fuentes": [
+    "deirosjd_02_a#19"
+   ]
+  },
+  {
+   "titulo": "La zona del mar Muerto",
+   "texto": "La Biblia de MacArthur ubica las ciudades en el extremo sureste del mar Muerto. Núñez menciona que allí se halló evidencia arqueológica de ciudades destruidas por fuego en esa época, que algunos identifican con Sodoma y Gomorra; McGee piensa que quizás estén bajo el agua y no le da importancia. Valle Ruiz señala que la zona tiene yacimientos de petróleo y gas.",
+   "fuentes": [
+    "mbibjd_01_a#26",
+    "nunez2p_03_a#12",
+    "mcgjd_01#28",
+    "cbmhjd_01_a#25"
+   ]
+  },
+  {
+   "titulo": "Cuándo es el juicio del gran día",
+   "texto": "Rose lo identifica con el juicio del gran trono blanco (Ap 20:11). McGee lo ubica durante el reino milenario de Cristo, con participación de los creyentes (1Co 6:3), y Ryrie al final del milenio. La diferencia depende de la escuela milenial de cada autor; todos afirman que el juicio de los ángeles caídos es seguro y final.",
+   "fuentes": [
+    "beajd_01_a#28",
+    "mcgjd_01#25",
+    "r1_017#12"
+   ]
+  },
+  {
+   "titulo": "1 Enoc y Judas 6",
+   "texto": "1 Enoc 6-19 narra la caída de los ángeles con paralelos verbales con Jd 6: habían dejado el alto cielo, fueron atados y arrojados a la oscuridad, y esperan el gran día del juicio. Judas cita ese libro en los vv. 14-15, aunque no es canónico.",
+   "fuentes": [
+    "kisjd_01_b#10"
+   ]
+  },
+  {
+   "titulo": "La imagen del huracán",
+   "texto": "Para explicar cómo un Dios infinitamente misericordioso se aíra, Núñez usa una imagen de John Piper: en un huracán la superficie del mar está furiosa, pero a pocos metros abajo hay calma. Dios ama a quienes creen sus promesas y está airado con quienes corrompen su diseño.",
+   "fuentes": [
+    "nunez2p_03_a#14"
+   ]
+  }
+ ]
 }

@@ -1,185 +1,609 @@
 {
-  "dia": 61,
-  "libro": "Jd",
-  "desde": "Jd 1",
-  "hasta": "Jd 2",
-  "titulo": "Llamados, amados y guardados",
-  "minutos": {"lectura": 1, "estudio": 25},
-  "contexto": {
-    "antes": "Ayer (3J 11-15) terminamos las cartas de Juan: imitar lo bueno, el buen testimonio de Demetrio y el saludo de paz. Hoy empezamos la última carta del estudio, la de Judas.",
-    "ahora": "Los dos primeros versículos son el saludo: quién escribe (Judas, siervo de Jesucristo y hermano de Jacobo), a quiénes (los llamados, amados en Dios Padre y guardados en Jesucristo) y qué les desea (misericordia, paz y amor multiplicados). Es un saludo breve, pero carga de antemano el consuelo que los lectores van a necesitar para lo que sigue: una carta dura contra los que se metieron en la iglesia y niegan el señorío de Cristo.",
-    "donde": "Judas no nombra ciudad ni región de destino, ni hay indicio de que fuera padre espiritual de un grupo concreto; escribe a cristianos que necesitan consejo y aliento frente a falsos maestros.",
-    "despues": "Mañana (Jd 3-4): Judas explica por qué escribe; quería hablar de la salvación común, pero tuvo que exhortarlos a contender ardientemente por la fe, porque algunos hombres impíos entraron encubiertamente.",
-    "fuentes": ["kisjd_01_a#20", "deirosjd_01_b#8", "beajd_01_a#13", "macjd_01_b#3"]
-  },
-  "versiculo_clave": {
-    "ref": "Jd 1",
-    "porque": "En un solo versículo Judas dice quién es él delante de Cristo (un siervo) y quiénes son los creyentes delante de Dios (llamados, amados, guardados). Es la base firme desde la que se puede enfrentar todo lo que viene en la carta."
-  },
-  "panorama": {
-    "texto": "Judas va a escribir la denuncia más fuerte del Nuevo Testamento contra los apóstatas, pero empieza al revés de lo que uno esperaría: no por la amenaza sino por la seguridad. Antes de hablar de los que se desvían, recuerda a los creyentes lo que Dios hizo y hace con ellos: los llamó, los ama y los guarda. La descripción pone toda la salvación en manos de Dios: nace de su soberanía, de su amor y de su poder, desde la eternidad, a través del tiempo y de vuelta a la eternidad. Y el que escribe se presenta sin títulos ni privilegios familiares, como esclavo voluntario de Jesús, a quien en otro tiempo no había creído. Ya en el saludo aparece un rasgo de toda la carta: el gusto de Judas por agrupar las cosas de a tres.",
-    "fuentes": ["ncbjd_01#7", "macjd_01_a#16", "mcgjd_01#5", "kisjd_01_a#20", "beajd_01_a#17"]
-  },
-  "secciones": [
-    {
-      "rango": "Jd 1a",
-      "titulo": "Judas, siervo de Jesucristo",
-      "notas": [
-        {"texto": "Judas era un nombre muy común entre los judíos: es la forma griega de Judá, el hijo de Jacob cuyo nombre se explica en Gn 29:35 como una alabanza a Jehová. Kistemaker enumera seis personajes con ese nombre en el Nuevo Testamento y Deiros cuenta al menos siete; entre ellos, uno de los doce (también llamado Tadeo), Judas Iscariote, Judas el galileo, Judas Barsabás y Judas, hermano de Jacobo y medio hermano de Jesús (Mt 13:55; Mr 6:3).", "fuentes": ["deirosjd_01_b#9", "kisjd_01_a#17", "deirosjd_01_a#4"], "tipo": "historia"},
-        {"texto": "MacArthur observa una ironía: el que escribió la condena más fuerte contra los apóstatas lleva el mismo nombre que el apóstata más conocido, Judas Iscariote. Deiros agrega que la primera palabra de un libro que advierte contra la apostasía recuerda al mayor traidor, quizá por providencia.", "fuentes": ["macjd_01_a#5", "deirosjd_01_b#13"], "tipo": "exegesis"},
-        {"texto": "Lo más llamativo es cómo se presenta. Podía haber dicho «hermano del Señor», y no lo hace: se llama «siervo de Jesucristo». La palabra es doulos, esclavo. Los autores coinciden en que no hay que leerla con la carga humillante que hoy tiene la esclavitud: es la sujeción voluntaria de alguien que pertenece a su Señor y le entrega todo, no por coerción sino por amor. Deiros explica que el término viene de un verbo que significa atar, y expresa dependencia, consagración y disponibilidad total para el servicio del Rey.", "fuentes": ["beajd_01_a#13", "deirosjd_01_b#10", "macjd_01_a#15", "cbmhjd_01_a#7"], "tipo": "exegesis"},
-        {"texto": "Detrás de esa palabra hay una historia. Los hermanos de Jesús no creían en él durante su ministerio (Jn 7:5) y hasta decían que estaba fuera de sí (Mr 3:21); después de la resurrección aparecen entre los creyentes que oraban antes de Pentecostés (Hch 1:14). MacArthur ve en el título de esclavo la huella de esa transformación: quien había sido incrédulo pasó a confiar en Cristo como Señor y Maestro, y la relación de salvación con él se volvió más importante que los lazos familiares (Mr 3:31-35). McGee comenta que es posible crecer en la misma casa que Cristo y no reconocerlo.", "fuentes": ["nunez2p_02_b#31", "macjd_01_a#15", "mbibjd_01_a#12", "mcgjd_01#2", "r1_007_b#35"], "tipo": "historia"},
-        {"texto": "El título no es casual en esta carta. Los falsos maestros que Judas va a denunciar negaban al único Soberano y Señor con su manera de vivir (v. 4); frente a ellos, el autor se presenta como alguien que se somete por completo a ese Señor. El señorío de Jesucristo corre como un hilo por toda la carta: Rose cuenta siete menciones del Señor (vv. 4, 5, 9, 14, 17, 21, 25).", "fuentes": ["beajd_01_a#13", "macjd_01_a#15"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "Jd 1b",
-      "titulo": "Hermano de Jacobo",
-      "notas": [
-        {"texto": "Lo habitual era identificarse por el padre; Judas lo hace por su hermano. La mayoría de los autores entiende que este Jacobo es Santiago, el medio hermano de Jesús, que no fue de los doce pero llegó a ser el líder reconocido de la iglesia de Jerusalén (Gá 1:19; 2:9; Hch 15:13) y escribió la carta que lleva su nombre. Si es así, Judas también era medio hermano de Jesús: los evangelios nombran a Jacobo, José, Simón y Judas entre los hermanos del Señor (Mt 13:55; Mr 6:3). Hay otra postura, ver Interpretaciones.", "fuentes": ["nunez2p_02_b#31", "kisjd_01_a#18", "kisjd_01_a#19", "ncbjd_01#7", "mbibjd_01_a#12"], "tipo": "historia"},
-        {"texto": "Mencionar a Santiago le servía de tarjeta de identidad: era bien conocido, y Judas daba por sentado que sus lectores lo conocían. Rose piensa que esa modesta mención le daba la nota de autoridad que necesitaba una carta tan severa, y Deiros sugiere que tal vez contó para que la carta fuera aceptada como canónica.", "fuentes": ["deirosjd_01_b#12", "beajd_01_a#14", "deirosjd_01_a#5"], "tipo": "exegesis"},
-        {"texto": "¿Por qué no usar el parentesco con Jesús? Los autores ven humildad: como su hermano Santiago (Stg 1:1), Judas no se apoya en la sangre para ganar reconocimiento, sino que se pone al nivel de los demás creyentes, que reconocen a Jesús como Señor (cf. Mt 12:46-50). Valle Ruiz lo describe como alguien que se ubica de ayudante y no de protagonista, sin envidiar a su hermano. McGee lo explica también así: ahora conocía a Jesús como el Cristo glorificado, y ya no lo conocía según la carne (2Co 5:16). Rose recuerda, con Barclay, que pocas cosas dicen tanto de una persona como la manera en que habla de sí misma.", "fuentes": ["kisjd_01_a#18", "macjd_01_a#5", "cbmhjd_01_a#7", "mcgjd_01#2", "beajd_01_a#14", "nunez2p_02_b#32"], "tipo": "exegesis"},
-        {"texto": "Lo poco que se sabe de Judas sale de alusiones y de la tradición. Por 1Co 9:5 parece haber estado casado y haber hecho un ministerio itinerante. Ninguno de los dos hermanos se llama apóstol; Judas incluso habla de los apóstoles en tercera persona (v. 17). Sobre si perteneció al círculo apostólico, ver Interpretaciones.", "fuentes": ["macjd_01_a#5", "deirosjd_01_a#8", "deirosjd_01_b#12", "kisjd_01_a#17"], "tipo": "historia"}
-      ]
-    },
-    {
-      "rango": "Jd 1c",
-      "titulo": "A los llamados",
-      "notas": [
-        {"texto": "Los destinatarios no tienen ubicación geográfica: se los describe por lo que Dios hizo con ellos. Gramaticalmente, la palabra principal de la frase es «llamados» (klētois), y las otras dos (amados y guardados) la describen. Deiros nota que la salutación tiene tres partes (autor, destinatarios, oración por ellos) y que los destinatarios se definen con tres palabras que pueden asociarse con las tres personas de la Trinidad.", "fuentes": ["macjd_01_a#17", "deirosjd_01_b#14", "deirosjd_01_b#8", "kisjd_01_a#20"], "tipo": "exegesis"},
-        {"texto": "Ser llamados es haber sido sacados de algo para algo. Henry lo describe como un llamado del mundo, de su mal espíritu y del pecado, hacia Cristo, la santidad y lo eterno. Kistemaker dice que los llamados son los cristianos, que dejaron el mundo del pecado y entraron en la luz de la vida. Valle Ruiz subraya que el llamado es antes una experiencia que una doctrina: una relación de amor que Dios inicia.", "fuentes": ["mhenry_02#9", "kisjd_01_a#20", "cbmhjd_01_a#8"], "tipo": "doctrina"},
-        {"texto": "Todos los autores ponen la iniciativa en Dios: Deiros dice que el Espíritu nos llamó de una vida vieja a una nueva (2Ts 2:13-14), según su propósito de amor y no por méritos (1Co 1:26-29); Henry concluye que, si somos santificados y glorificados, todo el honor es de Dios, que empieza la obra, la sigue y la perfecciona. Donde difieren es en cómo se relaciona ese llamado con la respuesta humana: ver Interpretaciones.", "fuentes": ["deirosjd_01_b#16", "mhenry_02#9", "macjd_01_a#17", "beajd_01_a#15"], "tipo": "doctrina"},
-        {"texto": "Deiros sugiere por qué Judas se detiene a describir a los llamados como amados y guardados: está pensando en otros que también habían sido llamados y se extraviaron, provocando la ira de Dios. La carta va a hablar de ellos; aquí, primero, consuela a los fieles.", "fuentes": ["deirosjd_01_b#14"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "Jd 1c",
-      "titulo": "Amados en Dios Padre",
-      "notas": [
-        {"texto": "La RVR1960 dice «santificados en Dios Padre», pero los autores coinciden en que los mejores manuscritos dicen «amados» (ēgapēmenois) y no «santificados» (hēgiasmenois). Kistemaker cita a Metzger: la lectura «santificados» es posterior, la introdujeron copistas calcándola de 1Co 1:2, para evitar una combinación poco habitual. McGee opina que la lectura «amados» hace el texto todavía más precioso, porque los santificados en Dios Padre son también amados.", "fuentes": ["beajd_01_a#15", "kisjd_01_a#21", "deirosjd_01_b#15", "mcgjd_01#4", "mbibjd_01_a#14", "ncbjd_01#7"], "tipo": "exegesis"},
-        {"texto": "El verbo está en tiempo perfecto: un amor que ya fue puesto y sigue vigente. McGee lo lee, con la traducción de Wuest, como estar en estado permanente de ser objeto del amor del Padre. MacArthur lo lleva a la eternidad pasada: Dios puso su amor sobre los suyos antes de la fundación del mundo (Ef 1:4-5), con resultados que siguen hasta el futuro. La Biblia de MacArthur concluye que ese amor, por ser incondicional, es también interminable.", "fuentes": ["kisjd_01_a#21", "mcgjd_01#4", "macjd_01_b#1", "mbibjd_01_a#14"], "tipo": "doctrina"},
-        {"texto": "¿De qué depende ese amor? No de una condición especial en nosotros. Núñez dice que el Padre ama porque está en su naturaleza amar (cf. Mt 5:46). Deiros recuerda que ese amor se mostró en la vida y en la muerte del Hijo (Ro 5:8), que el Padre ama a los suyos como ama a su Hijo (Jn 17:20-23) y que, al conocerlo, nos mueve a amarlo (1J 4:19). MacArthur subraya lo mismo: Dios puso su amor en pecadores aun cuando eran rebeldes.", "fuentes": ["nunez2p_02_b#34", "deirosjd_01_b#17", "macjd_01_b#1"], "tipo": "doctrina"},
-        {"texto": "La expresión «en Dios Padre» es inusual. Kistemaker la entiende como la esfera en la que viven: los creyentes están dentro del ámbito del amor de Dios, y por eso las traducciones que dicen «en» y las que dicen «por» no son irreconciliables. Hay otras explicaciones, ver Interpretaciones.", "fuentes": ["kisjd_01_a#20", "kisjd_01_a#22", "ncbjd_01#8"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "Jd 1c",
-      "titulo": "Guardados en Jesucristo",
-      "notas": [
-        {"texto": "«Guardados» viene del verbo tēreō: custodiar, vigilar, conservar, proteger, mantener firme. También está en perfecto: venían siendo guardados y lo seguían siendo cuando Judas escribe. El caso del griego permite leer «guardados por Jesucristo» (así la NVI, según MacArthur) o «guardados para Jesucristo» (así Rose y la Biblia de MacArthur); el Nuevo Comentario Bíblico lo entiende como conservados por Jesucristo.", "fuentes": ["cbmhjd_01_a#9", "beajd_01_a#15", "macjd_01_b#2", "mbibjd_01_a#14", "ncbjd_01#7"], "tipo": "exegesis"},
-        {"texto": "McGee ve en esta palabra la clave de la carta. Aparece cuatro veces: guardados en Jesucristo (v. 1), los ángeles guardados para el juicio (v. 6), conservaos en el amor de Dios (v. 21) y aquel que es poderoso para guardarlos sin caída (v. 24). Judas pinta la apostasía como ningún otro lugar de la Escritura, pero no para asustar, sino para dar seguridad en tiempos oscuros.", "fuentes": ["mcgjd_01#5", "r1_007_b#35"], "tipo": "exegesis"},
-        {"texto": "La guarda tiene una dirección hacia adelante. El Comentario Moody nota que «guardados» alude indirectamente al regreso de Cristo, y Deiros habla de la dimensión escatológica de esta protección: los creyentes son guardados hasta que se manifieste la salvación final (1P 1:5; 1Ts 5:23).", "fuentes": ["moodynt_03_b#4", "deirosjd_01_b#18"], "tipo": "doctrina"},
-        {"texto": "Que Judas empiece así tiene un efecto práctico: los que van a tener que contender por la fe pueden hacerlo sin miedo, porque su suerte no depende de su fuerza. Wiersbe lo resume en dos lados: no nos guardamos salvos a nosotros mismos, pero sí debemos guardarnos en el amor de Dios obedeciendo su Palabra (vv. 21, 24). Cómo se articulan esos dos lados es una discusión clásica, ver Interpretaciones.", "fuentes": ["macjd_01_b#2", "macjd_01_a#16", "r1_007_b#35", "beajd_01_a#15"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "Jd 2",
-      "titulo": "Misericordia y paz y amor os sean multiplicados",
-      "notas": [
-        {"texto": "El saludo es único en el Nuevo Testamento. «Misericordia y paz» era un saludo común entre los judíos, y Judas añade «amor», que lo vuelve distintivamente cristiano; según Rose, ningún otro escritor del Nuevo Testamento pone el amor en su saludo inicial. El Comentario Moody lo compara con el «gracia, misericordia y paz» de Pablo (2Ti 1:2).", "fuentes": ["mbibjd_01_a#15", "macjd_01_b#3", "beajd_01_a#16", "ncbjd_01#9", "moodynt_03_b#5"], "tipo": "exegesis"},
-        {"texto": "Las tres palabras se encadenan. Misericordia (eleos) es la bondad inmerecida de Dios, el manantial de todo lo bueno, misericordia no solo para el que sufre sino para el culpable. De haber recibido misericordia nace la paz (eirēnē), una relación en armonía con Dios que no depende de las circunstancias. Y de la paz brota el amor (agapē): el de Cristo por nosotros, el nuestro por él y el de los hermanos entre sí. Henry, Kistemaker y Deiros coinciden en ese orden: la misericordia lleva a la paz y la paz se completa en el amor.", "fuentes": ["mhenry_02#10", "beajd_01_a#16", "kisjd_01_a#23", "deirosjd_01_b#19", "nunez2p_02_b#33"], "tipo": "doctrina"},
-        {"texto": "McGee, siguiendo a Trench, distingue gracia de misericordia: la gracia mira el pecado y da el perdón gratuito; la misericordia mira la miseria que el pecado deja y consuela y alivia. Primero viene la gracia que salva; después, la misericordia que acompaña. Cuenta que, en medio de su cáncer, ya tenía la gracia, y lo que le pedía a Dios era misericordia.", "fuentes": ["mcgjd_01#9"], "tipo": "doctrina"},
-        {"texto": "«Os sean multiplicados» es un deseo hecho oración. Kistemaker explica que el verbo está en optativo (de los pocos en el Nuevo Testamento) y en voz pasiva: el que multiplica es Dios. Los lectores ya tenían misericordia, paz y amor; Judas pide que crezcan sin límite, porque los iban a necesitar para la lucha que tenían por delante. La misma fórmula de multiplicación aparece en 1P 1:2 y 2P 1:2.", "fuentes": ["kisjd_01_a#25", "beajd_01_a#16", "deirosjd_01_b#19", "macjd_01_b#3", "ncbjd_01#9"], "tipo": "exegesis"},
-        {"texto": "Deiros nota que Judas menciona el amor tres veces en los primeros versículos, y lo relaciona con el tema de la carta: la apostasía es, en el fondo, falta de amor a Dios y al prójimo. MacArthur agrega que con estas bendiciones viene una gran responsabilidad, que es justamente lo que Judas va a tratar enseguida.", "fuentes": ["deirosjd_01_b#20", "macjd_01_b#3"], "tipo": "exegesis"}
-      ]
-    }
-  ],
-  "palabras": [
-    {"ref": "Jd 1", "griego": "δοῦλος", "translit": "doûlos", "significado": "Esclavo: alguien ligado a otro y que le pertenece. Aquí, sujeción voluntaria y por amor al Señor, no un yugo impuesto. Núñez, con Douglas Moo, lo distingue de diákonos, el siervo doméstico.", "fuentes": ["beajd_01_a#13", "deirosjd_01_b#10", "macjd_01_a#15", "nunez2p_02_b#32"]},
-    {"ref": "Jd 1", "griego": "κλητοῖς", "translit": "klētoîs", "significado": "A los llamados. Es la palabra principal de la descripción de los lectores; amados y guardados la explican.", "fuentes": ["deirosjd_01_b#14", "macjd_01_a#17"]},
-    {"ref": "Jd 1", "griego": "ἠγαπημένοις", "translit": "ēgapēménois", "significado": "Amados. Participio perfecto pasivo de agapáō: un amor de Dios ya dado que sigue vigente. Es la lectura de los mejores manuscritos, en lugar de «santificados».", "fuentes": ["kisjd_01_a#21", "macjd_01_b#1", "mcgjd_01#4"]},
-    {"ref": "Jd 1", "griego": "τετηρημένοις", "translit": "tetērēménois", "significado": "Guardados, preservados. Participio perfecto pasivo de tēréō (custodiar, proteger, mantener firme): habían estado siendo guardados y lo seguían siendo.", "fuentes": ["macjd_01_b#2", "beajd_01_a#15", "cbmhjd_01_a#9"]},
-    {"ref": "Jd 2", "griego": "ἔλεος", "translit": "éleos", "significado": "Misericordia: la bondad inmerecida de Dios que mira la miseria que deja el pecado; McGee, con Trench, la distingue de cháris, la gracia que perdona.", "fuentes": ["mcgjd_01#9", "beajd_01_a#16"]},
-    {"ref": "Jd 2", "griego": "πληθυνθείη", "translit": "plēthyntheíē", "significado": "Sea multiplicado, aumentado hasta la medida más plena. Optativo (expresa deseo) y pasivo (Dios es quien multiplica).", "fuentes": ["kisjd_01_a#25", "macjd_01_b#3", "deirosjd_01_b#19"]}
-  ],
-  "cristo": [
-    {"texto": "Jesucristo es el Señor. Judas, que no había creído en él, ahora se declara su esclavo; y toda la carta va a defender ese señorío contra quienes lo niegan con su vida. Deiros advierte que, si Cristo no es el único Señor de la vida, se abre la puerta a cualquier doctrina falsa o conducta libertina.", "refs": ["Jn 7:5", "Jd 4"], "fuentes": ["beajd_01_a#13", "macjd_01_a#15", "deirosjd_01_b#11"]},
-    {"texto": "Jesucristo es el que guarda a los suyos. Deiros ve en «guardados» la respuesta a la oración de Jesús al Padre para que guardara a los suyos mientras están en el mundo (Jn 17:11, 15): Cristo vela por su pueblo ahora y hasta su regreso. MacArthur une la guarda con la cruz: lo que Cristo aseguró con su sacrificio de una vez (1P 3:18), el Padre lo protege con su poder (1P 1:5).", "refs": ["Jn 17:11", "Jn 17:15", "1P 3:18", "1P 1:5"], "fuentes": ["deirosjd_01_b#18", "macjd_01_b#2"]},
-    {"texto": "Jesucristo es el Buen Pastor. McGee y MacArthur leen esta guarda a la luz de Jn 10:27-30: la oveja no tiene mérito por estar segura; el mérito es del pastor que no la suelta.", "refs": ["Jn 10:27-30"], "fuentes": ["mcgjd_01#5", "mcgjd_01#6", "macjd_01_b#2"]}
-  ],
-  "interpretaciones": [
-    {
-      "tema": "«Guardados» y la seguridad de la salvación",
-      "posturas": [
-        {"postura": "Los verdaderos creyentes no pueden perder la salvación: Cristo prometió mantenerlos seguros y el Padre los protege con su poder. Judas empieza la carta quitando ese temor para que puedan luchar contra los falsos maestros sin miedo.", "quien": "MacArthur (reformado)", "fuentes": ["macjd_01_b#2", "mbibjd_01_a#14"]},
-        {"postura": "La guarda es una garantía porque la iniciativa es de Dios, no del hombre: quien creyó sinceramente en Cristo está retenido por el interés de Dios, que lo conservará con su poder. La perseverancia es por gracia, no por mérito.", "quien": "Valle Ruiz (Comentario Mundo Hispano), McGee, Núñez", "fuentes": ["cbmhjd_01_a#9", "mcgjd_01#6", "nunez2p_02_b#34"]},
-        {"postura": "El perfecto indica que habían sido guardados hasta el momento de escribir, pero el proceso no sigue automáticamente: por eso la exhortación final es conservaos en el amor de Dios (v. 21). Los llamados que perseveran hasta el fin son los escogidos y fieles.", "quien": "Delbert R. Rose (Comentario Beacon, wesleyano de santidad)", "fuentes": ["beajd_01_a#15"]}
-      ],
-      "nota": "Todos afirman que Dios guarda a los suyos y que el v. 21 manda guardarse en su amor; la diferencia está en cómo se relacionan esas dos verdades. Wiersbe las sostiene juntas: no nos guardamos salvos a nosotros mismos, pero debemos guardarnos en el amor de Dios obedeciendo su Palabra. El tema vuelve en Jd 21 y 24 (ver anexo T3)."
-    },
-    {
-      "tema": "¿Qué clase de llamado es «llamados»?",
-      "posturas": [
-        {"postura": "No es la invitación general del evangelio, que muchos rechazan, sino el llamado eficaz e interno que da vida a pecadores muertos y los lleva a creer; nace de una elección que no se basó en la fe prevista.", "quien": "MacArthur y la Biblia de estudio MacArthur", "fuentes": ["macjd_01_a#17", "mbibjd_01_a#13"]},
-        {"postura": "Los llamados son quienes oyen la invitación de la gracia y responden con fe obediente; muchos son llamados y pocos escogidos (Mt 20:16; 22:14).", "quien": "Rose (Comentario Beacon) y Deiros", "fuentes": ["beajd_01_a#15", "deirosjd_01_b#16"]},
-        {"postura": "En la Escritura, «llamados» no es solo una invitación enviada, sino una invitación aceptada y hecha real por el Espíritu (1Co 1:22-24).", "quien": "McGee", "fuentes": ["mcgjd_01#7"]}
-      ],
-      "nota": "Todos coinciden en que la iniciativa del llamado es de Dios y que se basa en su amor, no en méritos humanos."
-    },
-    {
-      "tema": "«Amados en Dios Padre»: ¿qué significa el «en»?",
-      "posturas": [
-        {"postura": "Es el ámbito o esfera: los creyentes viven dentro del amor de Dios Padre; «en» y «por» no se contradicen.", "quien": "Kistemaker", "fuentes": ["kisjd_01_a#20", "kisjd_01_a#22"]},
-        {"postura": "Es el amor del Padre por quienes han sido guardados en Jesús de las tentaciones en que otros cayeron, no el amor de Judas por sus lectores.", "quien": "Rose (citando a Hort) y Deiros", "fuentes": ["beajd_01_a#15", "deirosjd_01_b#15"]},
-        {"postura": "Quizá en el original se dejó un espacio después de «en» para completar el nombre del lugar («a los que están en X, amados por Dios»), con «Dios» en sentido instrumental.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncbjd_01#8"]}
-      ],
-      "nota": "En todas las lecturas el sentido de fondo es el mismo: son objeto del amor de Dios Padre."
-    },
-    {
-      "tema": "¿Quién es Judas y quién es su hermano Jacobo?",
-      "posturas": [
-        {"postura": "Judas es el medio hermano de Jesús y hermano de Santiago, el líder de Jerusalén; la seudonimia es poco creíble porque nadie usaría un nombre tan poco famoso para ganar autoridad.", "quien": "Deiros (apoyado en Bauckham), Kistemaker, Núñez, Valle Ruiz y la mayoría de los autores", "fuentes": ["deirosjd_01_a#5", "kisjd_01_a#19", "nunez2p_02_b#31", "cbmhjd_01_a#3"]},
-        {"postura": "El hermano de Judas sería el apóstol Jacobo hijo de Alfeo.", "quien": "Calvino, según una nota de Kistemaker", "fuentes": ["kisjd_01_a#19"]},
-        {"postura": "Algunos sostienen que «Judas» sería un seudónimo o un Judas sin parentesco con Jesús, por cómo habla de los apóstoles en el v. 17.", "quien": "Críticos que menciona Valle Ruiz (Comentario Mundo Hispano), quien no lo acepta", "fuentes": ["cbmhjd_01_a#3"]}
-      ],
-      "nota": "Sobre si fue apóstol: una tradición antigua (Orígenes, Tertuliano) lo afirma; Deiros se inclina a que no lo fue en sentido estricto, porque la carta pone la enseñanza apostólica en tercera persona (v. 17) y los evangelios distinguen a los hermanos de Jesús de los doce. Más en el anexo I5."
-    },
-    {
-      "tema": "¿Cómo se relaciona la tríada del v. 2 con el resto?",
-      "posturas": [
-        {"postura": "Se corresponde con el v. 1: el llamado trae misericordia, el amor los alcanza y el poder que los guarda da la paz.", "quien": "Algunos intérpretes, según el Nuevo Comentario Bíblico", "fuentes": ["ncbjd_01#9"]},
-        {"postura": "Es una fórmula trinitaria: el Padre da misericordia, el Hijo la paz y el Espíritu el amor; Deiros también vincula las tres con las tres personas.", "quien": "Otros intérpretes, según el Nuevo Comentario Bíblico; Deiros", "fuentes": ["ncbjd_01#9", "deirosjd_01_b#20"]},
-        {"postura": "Es una fórmula primitiva de saludo entre hermanos, casi idéntica a la de la carta de la iglesia de Esmirna sobre el martirio de Policarpo; ligarla al v. 1 le parece forzado.", "quien": "Valle Ruiz (Comentario Mundo Hispano)", "fuentes": ["cbmhjd_01_a#10"]}
-      ],
-      "nota": "El Nuevo Comentario Bíblico presenta las dos primeras sin decidir."
-    }
-  ],
-  "antiguo_testamento": [
-    {"ref": "Gn 29:35", "nota": "Trasfondo del nombre: Judas es la forma griega de Judá, cuyo nombre se explica en Génesis como alabanza a Jehová.", "fuentes": ["deirosjd_01_b#9"]},
-    {"ref": "Am 3:7", "nota": "Trasfondo del título: «siervo» era un título de los profetas en el Antiguo Testamento, y en el Nuevo pasó a usarse para los mensajeros de Cristo.", "fuentes": ["deirosjd_01_a#7"]}
-  ],
-  "biblioteca": [
-    {"texto": "El Diccionario Mundo Hispano recuerda que los apóstoles se llamaban a sí mismos siervos, es decir esclavos, de Cristo (Ro 1:1; Stg 1:1; 2P 1:1; Jd 1; Ap 1:1).", "autor": "Diccionario Mundo Hispano", "obra": "Diccionario Bíblico Mundo Hispano, vol. I", "pagina": "PDF 330", "tipo": "doctrina", "fuentes": ["dbmh_01_a#17"]},
-    {"texto": "McGee advierte contra la veneración supersticiosa de la familia de Jesús que surgió después: Santiago y Judas eran pecadores que se acercaron a Cristo como cualquiera. María fue elegida por Dios y es bendita entre las mujeres, pero nunca superior a ellas (Lc 1:28).", "autor": "J. Vernon McGee", "obra": "Comentario de Judas", "pagina": "PDF 3-4", "tipo": "apologetica", "fuentes": ["mcgjd_01#3"]},
-    {"texto": "McGee ilustra que hay santos preservados en vinagre, de carácter ácido, y santos preservados en azúcar: los dos son de Dios, pero se nota en el trato con los demás. Y sobre la seguridad: no se trata de si yo puedo agarrarme, sino de si él puede agarrarme.", "autor": "J. Vernon McGee", "obra": "Comentario de Judas", "pagina": "PDF 6-7", "tipo": "ilustracion", "fuentes": ["mcgjd_01#6"]},
-    {"texto": "Kistemaker usa las tablas de multiplicar: sumar de a dos da 4, 8, 16, 32; multiplicar da 4, 16, 256, 65.536. Judas no pide que Dios añada, sino que multiplique su misericordia, y nosotros llegamos a ser signos de esa multiplicación cuando la hacemos llegar al prójimo.", "autor": "Simon J. Kistemaker", "obra": "Comentario al Nuevo Testamento: Judas", "pagina": "p. 421-422", "tipo": "ilustracion", "fuentes": ["kisjd_01_a#24"]},
-    {"texto": "Deiros cita a Spurgeon (un buen carácter es la mejor lápida) y recuerda que el creyente recibió un nombre nuevo, el de cristiano (Ap 2:17; Hch 11:26); se pregunta si no basta el nombre de Cristo para decir quiénes somos.", "autor": "Pablo A. Deiros", "obra": "Comentario de Judas", "pagina": "PDF 157-158", "tipo": "aplicacion", "fuentes": ["deirosjd_01_b#13"]}
-  ],
-  "conexiones": [
-    {"ref": "Jn 7:5", "nota": "Los hermanos de Jesús no creían en él; el que escribe esta carta es uno de ellos, transformado por la resurrección (Hch 1:14; 1Co 15:7).", "fuentes": ["nunez2p_02_b#31", "macjd_01_a#5"]},
-    {"ref": "Stg 1:1", "nota": "Santiago se presenta igual que su hermano: siervo, sin mencionar el parentesco con Jesús. Deiros nota además que las dos cartas se parecen: Santiago habla de las buenas obras como evidencia de la fe y Judas de las malas obras como evidencia de la apostasía.", "fuentes": ["kisjd_01_a#18", "deirosjd_01_b#12"]},
-    {"ref": "1P 1:5", "nota": "Pedro también habla de creyentes guardados por el poder de Dios para la salvación que se manifestará; Judas usa la misma idea.", "fuentes": ["deirosjd_01_b#18", "ncbjd_01#7"]},
-    {"ref": "Ro 8:30", "nota": "La cadena que va del propósito eterno de Dios al llamado y a la gloria: la misma salvación de punta a punta que describe Jd 1.", "fuentes": ["ncbjd_01#7"]},
-    {"ref": "He 4:16", "nota": "Hay provisión abundante de misericordia en el trono de la gracia: MacArthur y Deiros relacionan con este texto la misericordia multiplicada de Jd 2.", "fuentes": ["macjd_01_b#3", "deirosjd_01_b#20"]}
-  ],
-  "para_vivir": [
-    {"texto": "Judas tenía el apellido más prestigioso de la iglesia y prefirió presentarse como esclavo de Cristo y hermano menor de Santiago. Ustedes también tienen títulos, logros y relaciones de los que podrían colgarse; la pregunta es cuál ponen primero. Valle Ruiz lo resume: quien se hace esclavo del Señor busca el segundo lugar, después de Cristo y de sus hermanos.", "fuentes": ["cbmhjd_01_a#7", "kisjd_01_a#18"]},
-    {"texto": "Antes de enfrentar algo difícil (un conflicto, un error que circula, una crisis), Judas recuerda primero quiénes son ustedes delante de Dios: llamados, amados, guardados. La seguridad no es descuido: es lo que permite luchar sin miedo.", "fuentes": ["macjd_01_a#16", "mcgjd_01#5"]},
-    {"texto": "El amor del Padre no depende de su desempeño de la semana; es un amor puesto y vigente. Eso cambia cómo se tratan entre ustedes: Núñez y Deiros recuerdan que ese amor, conocido, es lo que mueve a amar a Dios y a los demás.", "fuentes": ["nunez2p_02_b#34", "deirosjd_01_b#17"]},
-    {"texto": "Pidan misericordia, paz y amor en abundancia, no a cuentagotas. Henry observa que Judas no ruega que los cristianos se conformen con poco, sino que se llenen. Y la paz que Deiros describe se multiplica también en las relaciones con los demás: en la casa, en la iglesia, como pacificadores (Mt 5:9).", "fuentes": ["mhenry_02#10", "deirosjd_01_b#20"]}
-  ],
-  "para_conversar": [
-    "Judas no usó su parentesco con Jesús para tener autoridad. ¿En qué cosas solemos apoyarnos nosotros para sentirnos importantes o seguros, y qué cambia si lo primero que decimos de nosotros es que pertenecemos a Cristo?",
-    "De las tres palabras (llamados, amados, guardados), ¿cuál necesitan escuchar más en este momento de su vida, y por qué?",
-    "Misericordia, paz y amor se encadenan: la misericordia recibida da paz, y la paz se completa en amor. ¿Dónde necesita nuestro matrimonio que Dios multiplique alguna de las tres?"
-  ],
-  "para_orar": "Padre, gracias porque nos llamaste, nos amás y nos guardás en Jesucristo, y nada de eso nació de nosotros. Haznos siervos de Jesús como Judas, sin buscar el primer lugar, y multiplicá en nuestra casa tu misericordia, tu paz y tu amor, para estar firmes cuando tengamos que defender la fe.",
-  "visuales": ["dg-estructura-jd"],
-  "anexos": ["I5", "T3"],
-  "profundizar": [
-    {"titulo": "Los nietos de Judas ante Domiciano", "texto": "Según el historiador Hegesipo, citado por Eusebio, dos nietos de Judas fueron llevados ante el emperador Domiciano (Kistemaker dice que probablemente en el año 96) acusados de ser descendientes de David. Al ver que eran simples labradores, con las manos callosas y pocos ingresos, el emperador los despreció y los dejó ir. MacArthur advierte que la historia es posiblemente legendaria. La tradición también le atribuye a Judas viajes misioneros por Palestina, Siria, Mesopotamia, Persia y Arabia, y su muerte en Edesa (Eusebio, Historia eclesiástica 1.13, según Deiros).", "fuentes": ["kisjd_01_a#19", "macjd_01_a#5", "deirosjd_01_a#8"]},
-    {"titulo": "Las tríadas de Judas", "texto": "Rose encuentra ya en los dos primeros versículos varias series de tres: Judas, Jesucristo, Jacobo; siervo, Señor, hermano; llamados, amados, guardados; misericordia, paz, amor. El Nuevo Comentario Bíblico y Kistemaker también señalan este gusto por las tríadas, que sigue en toda la carta (ver el diagrama de la estructura de Judas).", "fuentes": ["beajd_01_a#17", "ncbjd_01#7", "kisjd_01_a#20"]},
-    {"titulo": "El señorío de Cristo hoy", "texto": "Deiros cita la confesión de un grupo del Congreso de Lausana (1974) que reconoció haber fallado en obedecer el señorío de Cristo, separando al Salvador del Señor. Para él, muchos conflictos de las congregaciones nacen de no entender ese señorío, y no se comprende bien la Biblia sin someterse a él: el Cristo en quien creemos debe ser el de la Biblia, y la lectura de la Biblia debe tener su eje en Cristo.", "fuentes": ["deirosjd_01_b#11"]},
-    {"titulo": "«No me mueve, mi Dios, para quererte»", "texto": "Para ilustrar que el amor del Padre, visto en la cruz, es lo que despierta nuestro amor, Deiros cita el conocido soneto anónimo que dice que, aunque no hubiera cielo ni infierno, el poeta seguiría amando a Dios por haberlo visto clavado en una cruz.", "fuentes": ["deirosjd_01_b#17"]}
+ "dia": 61,
+ "libro": "Jd",
+ "desde": "Jd 1",
+ "hasta": "Jd 2",
+ "titulo": "Llamados, amados y guardados",
+ "minutos": {
+  "lectura": 1,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "Ayer (3J 11-15) terminamos las cartas de Juan: imitar lo bueno, el buen testimonio de Demetrio y el saludo de paz. Hoy empezamos la última carta del estudio, la de Judas.",
+  "ahora": "El saludo: quién escribe (Judas, siervo de Jesucristo y hermano de Jacobo), a quiénes (los llamados, amados y guardados) y qué les desea (misericordia, paz y amor multiplicados). Es breve, pero carga de antemano el consuelo que necesitarán frente a los que niegan el señorío de Cristo.",
+  "donde": "Judas no nombra ciudad ni región de destino, ni hay indicio de que fuera padre espiritual de un grupo concreto; escribe a cristianos que necesitan consejo y aliento frente a falsos maestros.",
+  "despues": "Mañana (Jd 3-4): Judas explica por qué escribe; quería hablar de la salvación común, pero tuvo que exhortarlos a contender ardientemente por la fe, porque algunos hombres impíos entraron encubiertamente.",
+  "fuentes": [
+   "kisjd_01_a#20",
+   "deirosjd_01_b#8",
+   "beajd_01_a#13",
+   "macjd_01_b#3"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "Jd 1",
+  "porque": "En un solo versículo Judas dice quién es él delante de Cristo (un siervo) y quiénes son los creyentes delante de Dios (llamados, amados, guardados). Es la base firme desde la que se puede enfrentar todo lo que viene en la carta."
+ },
+ "panorama": {
+  "texto": "Judas va a escribir la denuncia más fuerte del Nuevo Testamento contra los apóstatas, pero empieza por la seguridad y no por la amenaza: recuerda a los creyentes que Dios los llamó, los ama y los guarda. La salvación entera queda en manos de Dios, desde la eternidad y hasta la eternidad. Y el que escribe se presenta sin privilegios familiares, como esclavo voluntario de Jesús, en quien antes no había creído.",
+  "fuentes": [
+   "ncbjd_01#7",
+   "macjd_01_a#16",
+   "mcgjd_01#5",
+   "kisjd_01_a#20",
+   "beajd_01_a#17"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "Jd 1a",
+   "titulo": "Judas, siervo de Jesucristo",
+   "notas": [
+    {
+     "texto": "Judas, forma griega de Judá, era un nombre muy común: Kistemaker cuenta seis personajes con ese nombre en el Nuevo Testamento y Deiros al menos siete. Este es el hermano de Jacobo y medio hermano de Jesús (Mt 13:55; Mr 6:3). MacArthur nota la ironía: el que escribió la condena más fuerte contra los apóstatas lleva el nombre del apóstata más conocido.",
+     "fuentes": [
+      "deirosjd_01_b#9",
+      "kisjd_01_a#17",
+      "deirosjd_01_a#4",
+      "macjd_01_a#5"
+     ],
+     "tipo": "historia"
+    },
+    {
+     "texto": "Podía presentarse como hermano del Señor y no lo hace: se llama «siervo de Jesucristo». La palabra es doulos, esclavo, pero los autores coinciden en que no lleva la carga humillante que hoy le damos: es la sujeción voluntaria, por amor y no por coerción, de alguien que pertenece a su Señor y está totalmente disponible para servirlo.",
+     "fuentes": [
+      "beajd_01_a#13",
+      "deirosjd_01_b#10",
+      "macjd_01_a#15",
+      "cbmhjd_01_a#7"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Detrás de esa palabra hay una conversión. Los hermanos de Jesús no creían en él (Jn 7:5) y decían que estaba fuera de sí (Mr 3:21); después de la resurrección aparecen orando con los discípulos (Hch 1:14). MacArthur ve en el título de esclavo esa transformación: el incrédulo pasó a confiar en Cristo como Señor, y esa relación pesó más que los lazos de sangre (Mr 3:31-35). McGee comenta que se puede crecer en la misma casa que Cristo y no reconocerlo.",
+     "fuentes": [
+      "nunez2p_02_b#31",
+      "macjd_01_a#15",
+      "mbibjd_01_a#12",
+      "mcgjd_01#2"
+     ],
+     "tipo": "historia"
+    },
+    {
+     "texto": "El título apunta al tema de la carta: los falsos maestros negaban al único Soberano y Señor con su manera de vivir (v. 4), y el autor se presenta como alguien sometido por completo a ese Señor. Rose cuenta siete menciones del Señor en la carta: su señorío la recorre como un hilo.",
+     "fuentes": [
+      "beajd_01_a#13",
+      "macjd_01_a#15"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 1b",
+   "titulo": "Hermano de Jacobo",
+   "notas": [
+    {
+     "texto": "La mayoría de los autores entiende que este Jacobo es Santiago, el medio hermano de Jesús, que no fue de los doce pero llegó a ser el líder de la iglesia de Jerusalén (Gá 1:19; 2:9) y escribió la carta que lleva su nombre. Nombrarlo le servía de tarjeta de identidad: era bien conocido, y Rose piensa que esa mención modesta le daba la autoridad que necesitaba una carta tan severa. Hay otra identificación, ver Profundizar.",
+     "fuentes": [
+      "nunez2p_02_b#31",
+      "kisjd_01_a#19",
+      "deirosjd_01_b#12",
+      "beajd_01_a#14"
+     ],
+     "tipo": "historia"
+    },
+    {
+     "texto": "¿Por qué no usar el parentesco con Jesús? Los autores ven humildad: como Santiago (Stg 1:1), Judas no se apoya en la sangre para ganar reconocimiento y se pone al nivel de los demás creyentes (cf. Mt 12:46-50). Valle Ruiz lo describe como ayudante y no protagonista, sin envidiar a su hermano; McGee agrega que ahora conocía a Jesús como el Cristo glorificado y no según la carne (2Co 5:16). Rose recuerda, con Barclay, que pocas cosas dicen tanto de alguien como la manera en que habla de sí mismo.",
+     "fuentes": [
+      "kisjd_01_a#18",
+      "macjd_01_a#5",
+      "cbmhjd_01_a#7",
+      "mcgjd_01#2",
+      "beajd_01_a#14"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 1c",
+   "titulo": "A los llamados",
+   "notas": [
+    {
+     "texto": "Los destinatarios no tienen dirección: se los define por lo que Dios hizo con ellos. La palabra principal es «llamados» (klētois); amados y guardados la describen. Deiros nota que la salutación tiene tres partes (autor, destinatarios y oración) y que las tres palabras pueden asociarse con las tres personas de la Trinidad.",
+     "fuentes": [
+      "macjd_01_a#17",
+      "deirosjd_01_b#14",
+      "deirosjd_01_b#8"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Ser llamados es haber sido sacados del mundo y del pecado hacia Cristo, la santidad y lo eterno (Henry); para Valle Ruiz es antes una experiencia que una doctrina: una relación de amor que Dios inicia. Todos ponen la iniciativa en Dios, según su propósito de amor y no por méritos (Ro 8:28-30; 1Co 1:26-29), y Henry concluye que todo el honor es suyo: él empieza la obra, la sigue y la perfecciona. Difieren en cómo se relaciona el llamado con la respuesta humana: ver Interpretaciones.",
+     "fuentes": [
+      "mhenry_02#9",
+      "cbmhjd_01_a#8",
+      "deirosjd_01_b#16",
+      "macjd_01_a#17"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Deiros sugiere por qué Judas se detiene a describir a los llamados como amados y guardados: piensa en otros que también fueron llamados y se extraviaron. La carta hablará de ellos; primero consuela a los fieles.",
+     "fuentes": [
+      "deirosjd_01_b#14"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 1c",
+   "titulo": "Amados en Dios Padre",
+   "notas": [
+    {
+     "texto": "La RVR1960 dice «santificados en Dios Padre», pero los autores coinciden en que los mejores manuscritos dicen «amados». Kistemaker cita a Metzger: «santificados» lo introdujeron copistas posteriores calcándolo de 1Co 1:2. McGee opina que así el texto es todavía más precioso: los santificados son también amados.",
+     "fuentes": [
+      "beajd_01_a#15",
+      "kisjd_01_a#21",
+      "deirosjd_01_b#15",
+      "mcgjd_01#4",
+      "mbibjd_01_a#14"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "El verbo está en perfecto: un amor ya puesto que sigue vigente. McGee, con la traducción de Wuest, habla de estar en estado permanente de ser objeto del amor del Padre; MacArthur lo remonta a antes de la fundación del mundo (Ef 1:4-5). Y no depende de algo especial en nosotros: Núñez dice que el Padre ama porque amar está en su naturaleza, y Deiros recuerda que ese amor se mostró en la muerte del Hijo (Ro 5:8), que el Padre ama a los suyos como ama al Hijo (Jn 17:23) y que, conocido, nos mueve a amarlo (1J 4:19).",
+     "fuentes": [
+      "kisjd_01_a#21",
+      "mcgjd_01#4",
+      "macjd_01_b#1",
+      "nunez2p_02_b#34",
+      "deirosjd_01_b#17"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "«En Dios Padre» es una expresión inusual; Kistemaker la entiende como la esfera en la que viven los creyentes, dentro del amor de Dios. Hay otras lecturas, ver Interpretaciones.",
+     "fuentes": [
+      "kisjd_01_a#20",
+      "kisjd_01_a#22",
+      "ncbjd_01#8"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 1c",
+   "titulo": "Guardados en Jesucristo",
+   "notas": [
+    {
+     "texto": "«Guardados» viene de tēreō: custodiar, proteger, mantener firme. También en perfecto: venían siendo guardados y lo seguían siendo. El griego permite leer «guardados por Jesucristo» (MacArthur, Nuevo Comentario Bíblico) o «para Jesucristo» (Rose).",
+     "fuentes": [
+      "cbmhjd_01_a#9",
+      "beajd_01_a#15",
+      "macjd_01_b#2",
+      "ncbjd_01#7"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "McGee ve aquí la palabra clave de la carta, que vuelve en los vv. 6, 21 y 24: Judas pinta la apostasía como ningún otro texto, pero no para asustar sino para dar seguridad en tiempos oscuros. La guarda mira hacia adelante, al regreso de Cristo (Moody, Deiros; cf. 1P 1:5).",
+     "fuentes": [
+      "mcgjd_01#5",
+      "moodynt_03_b#4",
+      "deirosjd_01_b#18"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Empezar así tiene un efecto práctico: quienes van a contender por la fe pueden hacerlo sin miedo. Wiersbe lo dice en dos lados: no nos guardamos salvos a nosotros mismos, pero debemos guardarnos en el amor de Dios obedeciendo su Palabra (vv. 21, 24). Cómo se unen esos dos lados se discute: ver Interpretaciones.",
+     "fuentes": [
+      "macjd_01_b#2",
+      "macjd_01_a#16",
+      "r1_007_b#35"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "Jd 2",
+   "titulo": "Misericordia y paz y amor os sean multiplicados",
+   "notas": [
+    {
+     "texto": "El saludo es único en el Nuevo Testamento: «misericordia y paz» era un saludo judío común, y Judas añade «amor», que lo vuelve distintivamente cristiano.",
+     "fuentes": [
+      "mbibjd_01_a#15",
+      "macjd_01_b#3",
+      "beajd_01_a#16",
+      "ncbjd_01#9"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Las tres palabras se encadenan. La misericordia es la bondad inmerecida de Dios, el manantial de todo lo bueno, aun para el culpable; de haberla recibido nace la paz, una armonía con Dios que no depende de las circunstancias; y de la paz brota el amor: el de Cristo por nosotros, el nuestro por él y el de los hermanos. McGee, con Trench, distingue además gracia y misericordia: la gracia perdona el pecado; la misericordia alivia la miseria que el pecado deja.",
+     "fuentes": [
+      "mhenry_02#10",
+      "beajd_01_a#16",
+      "kisjd_01_a#23",
+      "deirosjd_01_b#19",
+      "nunez2p_02_b#33",
+      "mcgjd_01#9"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "«Os sean multiplicados» es un deseo hecho oración: el verbo es optativo y pasivo, y el que multiplica es Dios (Kistemaker). Los lectores ya tenían estos dones; Judas pide que crezcan sin límite para la lucha que venía (cf. 1P 1:2; 2P 1:2). Deiros nota que el amor aparece tres veces en los primeros versículos, porque la apostasía es en el fondo falta de amor a Dios y al prójimo.",
+     "fuentes": [
+      "kisjd_01_a#25",
+      "beajd_01_a#16",
+      "deirosjd_01_b#19",
+      "deirosjd_01_b#20"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "Jd 1",
+   "griego": "δοῦλος",
+   "translit": "doûlos",
+   "significado": "Esclavo: alguien ligado a otro y que le pertenece. Aquí, sujeción voluntaria y por amor al Señor, no un yugo impuesto. Núñez, con Douglas Moo, lo distingue de diákonos, el siervo doméstico.",
+   "fuentes": [
+    "beajd_01_a#13",
+    "deirosjd_01_b#10",
+    "macjd_01_a#15",
+    "nunez2p_02_b#32"
+   ]
+  },
+  {
+   "ref": "Jd 1",
+   "griego": "κλητοῖς",
+   "translit": "klētoîs",
+   "significado": "A los llamados. Es la palabra principal de la descripción de los lectores; amados y guardados la explican.",
+   "fuentes": [
+    "deirosjd_01_b#14",
+    "macjd_01_a#17"
+   ]
+  },
+  {
+   "ref": "Jd 1",
+   "griego": "ἠγαπημένοις",
+   "translit": "ēgapēménois",
+   "significado": "Amados. Participio perfecto pasivo de agapáō: un amor de Dios ya dado que sigue vigente. Es la lectura de los mejores manuscritos, en lugar de «santificados».",
+   "fuentes": [
+    "kisjd_01_a#21",
+    "macjd_01_b#1",
+    "mcgjd_01#4"
+   ]
+  },
+  {
+   "ref": "Jd 1",
+   "griego": "τετηρημένοις",
+   "translit": "tetērēménois",
+   "significado": "Guardados, preservados. Participio perfecto pasivo de tēréō (custodiar, proteger, mantener firme): habían estado siendo guardados y lo seguían siendo.",
+   "fuentes": [
+    "macjd_01_b#2",
+    "beajd_01_a#15",
+    "cbmhjd_01_a#9"
+   ]
+  },
+  {
+   "ref": "Jd 2",
+   "griego": "ἔλεος",
+   "translit": "éleos",
+   "significado": "Misericordia: la bondad inmerecida de Dios que mira la miseria que deja el pecado; McGee, con Trench, la distingue de cháris, la gracia que perdona.",
+   "fuentes": [
+    "mcgjd_01#9",
+    "beajd_01_a#16"
+   ]
+  },
+  {
+   "ref": "Jd 2",
+   "griego": "πληθυνθείη",
+   "translit": "plēthyntheíē",
+   "significado": "Sea multiplicado, aumentado hasta la medida más plena. Optativo (expresa deseo) y pasivo (Dios es quien multiplica).",
+   "fuentes": [
+    "kisjd_01_a#25",
+    "macjd_01_b#3",
+    "deirosjd_01_b#19"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Jesucristo es el Señor. Judas, que no había creído en él, se declara su esclavo, y la carta defenderá ese señorío contra quienes lo niegan con su vida; Deiros advierte que sin ese señorío se abre la puerta a la doctrina falsa y al libertinaje.",
+   "refs": [
+    "Jn 7:5",
+    "Jd 4"
+   ],
+   "fuentes": [
+    "beajd_01_a#13",
+    "macjd_01_a#15",
+    "deirosjd_01_b#11"
+   ]
+  },
+  {
+   "texto": "Jesucristo es el que guarda. Deiros ve en «guardados» la respuesta a la oración de Jesús para que el Padre guardara a los suyos en el mundo (Jn 17:11, 15); MacArthur lo une a la cruz: lo que Cristo aseguró con su sacrificio (1P 3:18), el Padre lo protege con su poder (1P 1:5).",
+   "refs": [
+    "Jn 17:11",
+    "Jn 17:15",
+    "1P 3:18",
+    "1P 1:5"
+   ],
+   "fuentes": [
+    "deirosjd_01_b#18",
+    "macjd_01_b#2"
+   ]
+  },
+  {
+   "texto": "Jesucristo es el Buen Pastor. McGee y MacArthur leen esta guarda a la luz de Jn 10:27-30: la oveja no tiene mérito por estar segura; el mérito es del pastor que no la suelta.",
+   "refs": [
+    "Jn 10:27-30"
+   ],
+   "fuentes": [
+    "mcgjd_01#5",
+    "mcgjd_01#6",
+    "macjd_01_b#2"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "«Guardados» y la seguridad de la salvación",
+   "posturas": [
+    {
+     "postura": "Los verdaderos creyentes no pueden perder la salvación: Cristo lo prometió y el Padre los protege con su poder. Judas quita ese temor para que luchen sin miedo.",
+     "quien": "MacArthur (reformado)",
+     "fuentes": [
+      "macjd_01_b#2",
+      "mbibjd_01_a#14"
+     ]
+    },
+    {
+     "postura": "La guarda es una garantía porque la iniciativa es de Dios, no del hombre; la perseverancia es por gracia, no por mérito.",
+     "quien": "Valle Ruiz (Comentario Mundo Hispano), McGee, Núñez",
+     "fuentes": [
+      "cbmhjd_01_a#9",
+      "mcgjd_01#6",
+      "nunez2p_02_b#34"
+     ]
+    },
+    {
+     "postura": "El perfecto indica que habían sido guardados hasta entonces, pero el proceso no sigue automáticamente: por eso el v. 21 manda conservarse en el amor de Dios.",
+     "quien": "Delbert R. Rose (Comentario Beacon, wesleyano de santidad)",
+     "fuentes": [
+      "beajd_01_a#15"
+     ]
+    }
+   ],
+   "nota": "Todos afirman que Dios guarda a los suyos y que el v. 21 manda guardarse en su amor; difieren en cómo se relacionan. Vuelve en Jd 21 y 24 (anexo T3)."
+  },
+  {
+   "tema": "¿Qué clase de llamado es «llamados»?",
+   "posturas": [
+    {
+     "postura": "No es la invitación general del evangelio, sino el llamado eficaz que da vida y lleva a creer, fruto de una elección no basada en la fe prevista.",
+     "quien": "MacArthur y la Biblia de estudio MacArthur",
+     "fuentes": [
+      "macjd_01_a#17",
+      "mbibjd_01_a#13"
+     ]
+    },
+    {
+     "postura": "Son quienes oyen la invitación de la gracia y responden con fe obediente; muchos son llamados y pocos escogidos (Mt 20:16).",
+     "quien": "Rose (Comentario Beacon) y Deiros",
+     "fuentes": [
+      "beajd_01_a#15",
+      "deirosjd_01_b#16"
+     ]
+    },
+    {
+     "postura": "En la Escritura, «llamados» no es solo una invitación enviada, sino una invitación aceptada y hecha real por el Espíritu (1Co 1:22-24).",
+     "quien": "McGee",
+     "fuentes": [
+      "mcgjd_01#7"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en que la iniciativa es de Dios y se basa en su amor."
+  },
+  {
+   "tema": "«Amados en Dios Padre»: ¿qué significa el «en»?",
+   "posturas": [
+    {
+     "postura": "Es el ámbito o esfera: los creyentes viven dentro del amor de Dios Padre; «en» y «por» no se contradicen.",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kisjd_01_a#20",
+      "kisjd_01_a#22"
+     ]
+    },
+    {
+     "postura": "Es el amor del Padre por los guardados de las tentaciones en que otros cayeron, no el de Judas por sus lectores.",
+     "quien": "Rose (citando a Hort) y Deiros",
+     "fuentes": [
+      "beajd_01_a#15",
+      "deirosjd_01_b#15"
+     ]
+    },
+    {
+     "postura": "Quizá en el original quedó un espacio después de «en» para el nombre del lugar, con «Dios» en sentido instrumental (amados por Dios).",
+     "quien": "Nuevo Comentario Bíblico",
+     "fuentes": [
+      "ncbjd_01#8"
+     ]
+    }
+   ],
+   "nota": "En todas, el fondo es el mismo: son objeto del amor del Padre."
+  }
+ ],
+ "antiguo_testamento": [
+  {
+   "ref": "Gn 29:35",
+   "nota": "Trasfondo del nombre: Judas es la forma griega de Judá, cuyo nombre se explica en Génesis como alabanza a Jehová.",
+   "fuentes": [
+    "deirosjd_01_b#9"
+   ]
+  },
+  {
+   "ref": "Am 3:7",
+   "nota": "Trasfondo del título: «siervo» era un título de los profetas en el Antiguo Testamento, y en el Nuevo pasó a usarse para los mensajeros de Cristo.",
+   "fuentes": [
+    "deirosjd_01_a#7"
+   ]
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "McGee distingue santos preservados en vinagre (de carácter ácido) y en azúcar: los dos son de Dios, pero se nota en el trato. Y sobre la seguridad: no se trata de si yo puedo agarrarme, sino de si él puede agarrarme.",
+   "autor": "J. Vernon McGee",
+   "obra": "Comentario de Judas",
+   "pagina": "PDF 6-7",
+   "tipo": "ilustracion",
+   "fuentes": [
+    "mcgjd_01#6"
+   ]
+  },
+  {
+   "texto": "Kistemaker usa las tablas: sumar da 4, 8, 16, 32; multiplicar da 4, 16, 256, 65.536. Judas pide que Dios multiplique, no que añada, y nosotros somos signos de esa multiplicación al hacerla llegar al prójimo.",
+   "autor": "Simon J. Kistemaker",
+   "obra": "Comentario al Nuevo Testamento: Judas",
+   "pagina": "p. 421-422",
+   "tipo": "ilustracion",
+   "fuentes": [
+    "kisjd_01_a#24"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Stg 1:1",
+   "nota": "Santiago se presenta igual que su hermano. Deiros nota que Santiago habla de las buenas obras como evidencia de la fe y Judas de las malas como evidencia de la apostasía.",
+   "fuentes": [
+    "kisjd_01_a#18",
+    "deirosjd_01_b#12"
+   ]
+  },
+  {
+   "ref": "1P 1:5",
+   "nota": "Pedro también habla de creyentes guardados por el poder de Dios para la salvación final.",
+   "fuentes": [
+    "deirosjd_01_b#18",
+    "ncbjd_01#7"
+   ]
+  },
+  {
+   "ref": "He 4:16",
+   "nota": "Provisión abundante de misericordia en el trono de la gracia: así leen MacArthur y Deiros la misericordia multiplicada.",
+   "fuentes": [
+    "macjd_01_b#3",
+    "deirosjd_01_b#20"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Judas tenía el parentesco más prestigioso de la iglesia y se presentó como esclavo de Cristo y hermano de Santiago. ¿Qué ponen ustedes primero cuando dicen quiénes son? Valle Ruiz: quien se hace esclavo del Señor busca el segundo lugar, después de Cristo y de sus hermanos.",
+   "fuentes": [
+    "cbmhjd_01_a#7",
+    "kisjd_01_a#18"
+   ]
+  },
+  {
+   "texto": "Antes de enfrentar algo difícil (un conflicto, un error que circula, una crisis), Judas recuerda primero quiénes son ustedes delante de Dios: llamados, amados, guardados. La seguridad no es descuido: es lo que permite luchar sin miedo.",
+   "fuentes": [
+    "macjd_01_a#16",
+    "mcgjd_01#5"
+   ]
+  },
+  {
+   "texto": "Pidan misericordia, paz y amor en abundancia: Henry observa que Judas no ruega que se conformen con poco, sino que se llenen. Y esa paz, dice Deiros, se multiplica también en las relaciones: en la casa y en la iglesia, como pacificadores (Mt 5:9).",
+   "fuentes": [
+    "mhenry_02#10",
+    "deirosjd_01_b#20"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "Judas no usó su parentesco con Jesús para tener autoridad. ¿En qué cosas solemos apoyarnos nosotros para sentirnos importantes o seguros, y qué cambia si lo primero que decimos de nosotros es que pertenecemos a Cristo?",
+  "De las tres palabras (llamados, amados, guardados), ¿cuál necesitan escuchar más en este momento de su vida, y por qué?",
+  "Misericordia, paz y amor se encadenan: la misericordia recibida da paz, y la paz se completa en amor. ¿Dónde necesita nuestro matrimonio que Dios multiplique alguna de las tres?"
+ ],
+ "para_orar": "Padre, gracias porque nos llamaste, nos amás y nos guardás en Jesucristo, y nada de eso nació de nosotros. Haznos siervos de Jesús como Judas, sin buscar el primer lugar, y multiplicá en nuestra casa tu misericordia, tu paz y tu amor, para estar firmes cuando tengamos que defender la fe.",
+ "visuales": [
+  "dg-estructura-jd"
+ ],
+ "anexos": [
+  "I5",
+  "T3"
+ ],
+ "profundizar": [
+  {
+   "titulo": "¿Quién es Judas? ¿Fue apóstol?",
+   "texto": "La mayoría (Deiros, apoyado en Bauckham; Kistemaker; Núñez; Valle Ruiz) lo identifica con el medio hermano de Jesús y hermano de Santiago; Deiros descarta la seudonimia porque nadie usaría un nombre tan poco famoso para ganar autoridad, y Valle Ruiz rechaza a quienes ven un seudónimo por el v. 17. Calvino, en cambio, identificaba a su hermano con el apóstol Jacobo hijo de Alfeo (según nota de Kistemaker). Sobre si fue apóstol, una tradición antigua (Orígenes, Tertuliano) lo afirma; Deiros se inclina a que no, porque la carta habla de los apóstoles en tercera persona (v. 17). Por 1Co 9:5 parece haber estado casado y haber hecho ministerio itinerante. Ver anexo I5.",
+   "fuentes": [
+    "deirosjd_01_a#5",
+    "kisjd_01_a#19",
+    "nunez2p_02_b#31",
+    "cbmhjd_01_a#3",
+    "deirosjd_01_a#7",
+    "macjd_01_a#5"
+   ]
+  },
+  {
+   "titulo": "¿Cómo se relaciona la tríada del v. 2 con el v. 1?",
+   "texto": "Según el Nuevo Comentario Bíblico, algunos la ligan al v. 1 (el llamado trae misericordia, el amor los alcanza, la guarda da paz) y otros ven una fórmula trinitaria (el Padre da misericordia, el Hijo paz y el Espíritu amor); no decide. Valle Ruiz prefiere verla como una fórmula primitiva de saludo, casi idéntica a la de la carta de la iglesia de Esmirna sobre el martirio de Policarpo. El Comentario Moody la compara con el «gracia, misericordia y paz» de Pablo en 2Ti 1:2.",
+   "fuentes": [
+    "ncbjd_01#9",
+    "cbmhjd_01_a#10",
+    "moodynt_03_b#5"
+   ]
+  },
+  {
+   "titulo": "Los nietos de Judas ante Domiciano",
+   "texto": "Según el historiador Hegesipo, citado por Eusebio, dos nietos de Judas fueron llevados ante el emperador Domiciano (Kistemaker dice que probablemente en el año 96) acusados de ser descendientes de David. Al ver que eran simples labradores, con las manos callosas y pocos ingresos, el emperador los despreció y los dejó ir. MacArthur advierte que la historia es posiblemente legendaria. La tradición también le atribuye a Judas viajes misioneros por Palestina, Siria, Mesopotamia, Persia y Arabia, y su muerte en Edesa (Eusebio, Historia eclesiástica 1.13, según Deiros).",
+   "fuentes": [
+    "kisjd_01_a#19",
+    "macjd_01_a#5",
+    "deirosjd_01_a#8"
+   ]
+  },
+  {
+   "titulo": "Las tríadas de Judas",
+   "texto": "Rose encuentra ya en los dos primeros versículos varias series de tres: Judas, Jesucristo, Jacobo; siervo, Señor, hermano; llamados, amados, guardados; misericordia, paz, amor. El Nuevo Comentario Bíblico y Kistemaker también señalan este gusto por las tríadas, que sigue en toda la carta (ver el diagrama de la estructura de Judas).",
+   "fuentes": [
+    "beajd_01_a#17",
+    "ncbjd_01#7",
+    "kisjd_01_a#20"
+   ]
+  },
+  {
+   "titulo": "El señorío de Cristo hoy",
+   "texto": "Deiros cita la confesión de un grupo del Congreso de Lausana (1974) que reconoció haber fallado en obedecer el señorío de Cristo, separando al Salvador del Señor. Para él, muchos conflictos de las congregaciones nacen de no entender ese señorío, y no se comprende bien la Biblia sin someterse a él: el Cristo en quien creemos debe ser el de la Biblia, y la lectura de la Biblia debe tener su eje en Cristo.",
+   "fuentes": [
+    "deirosjd_01_b#11"
+   ]
+  },
+  {
+   "titulo": "«No me mueve, mi Dios, para quererte»",
+   "texto": "Para ilustrar que el amor del Padre, visto en la cruz, es lo que despierta nuestro amor, Deiros cita el conocido soneto anónimo que dice que, aunque no hubiera cielo ni infierno, el poeta seguiría amando a Dios por haberlo visto clavado en una cruz.",
+   "fuentes": [
+    "deirosjd_01_b#17"
+   ]
+  },
+  {
+   "titulo": "La familia de Jesús y el nombre del creyente",
+   "texto": "McGee advierte contra la veneración supersticiosa de la familia de Jesús: Santiago y Judas se acercaron a Cristo como pecadores, igual que cualquiera, y María es bendita entre las mujeres, nunca superior a ellas (Lc 1:28). Deiros, a partir del nombre de Judas, cita a Spurgeon (un buen carácter es la mejor lápida) y recuerda que el creyente recibió un nombre nuevo, el de cristiano (Ap 2:17; Hch 11:26).",
+   "fuentes": [
+    "mcgjd_01#3",
+    "deirosjd_01_b#13"
+   ]
+  }
+ ]
 }

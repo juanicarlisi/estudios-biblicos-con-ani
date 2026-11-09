@@ -1,0 +1,179 @@
+{
+  "dia": 64,
+  "libro": "Jd",
+  "desde": "Jd 8",
+  "hasta": "Jd 10",
+  "titulo": "Soñadores: Miguel y el diablo",
+  "minutos": {"lectura": 2, "estudio": 25},
+  "contexto": {
+    "antes": "En el tramo anterior (Jd 5-7) Judas recordó tres ejemplos de juicio: Israel, que salió de Egipto y cayó en el desierto por incredulidad; los ángeles que no guardaron su dignidad; y Sodoma y Gomorra, entregadas a la inmoralidad. Eran advertencias para los que se habían infiltrado en la iglesia (v. 4).",
+    "ahora": "Con «de la misma manera» Judas pasa de los ejemplos del pasado a los infiltrados del presente. Los llama soñadores y los acusa de tres cosas: contaminan su cuerpo, rechazan la autoridad y hablan mal de los seres gloriosos. Para mostrar cuán grave es esa insolencia los contrasta con el arcángel Miguel, que ni siquiera frente al diablo se atrevió a pronunciar un juicio injurioso y dejó el asunto en manos del Señor. Cierra diciendo que estos hombres injurian lo que no entienden y se destruyen en lo único que conocen: sus instintos.",
+    "despues": "En el tramo siguiente (Jd 11-13) Judas sigue el retrato con tres personajes del Antiguo Testamento, Caín, Balaam y Coré, y con una cascada de imágenes: nubes sin agua, árboles sin fruto, olas furiosas, estrellas errantes.",
+    "fuentes": ["ncbjd_01#16", "ncbjd_01#17", "deirosjd_02_b#2", "macjd_01_c#8"]
+  },
+  "versiculo_clave": {"ref": "Jd 9", "porque": "Es el centro del tramo: el arcángel más poderoso no se erigió en juez del diablo, sino que dejó el juicio al Señor. Ahí se ve, por contraste, toda la arrogancia de los falsos maestros, y ahí aprendemos dónde está nuestro lugar."},
+  "panorama": {
+    "texto": "Judas pone dos retratos uno al lado del otro. De un lado, los infiltrados: hombres que dicen guiarse por sueños, viven sin freno en su cuerpo, no aceptan ningún señorío sobre su vida (ni siquiera el de Cristo) y se burlan de los seres celestiales. Del otro, Miguel, el arcángel, que en medio de una disputa con el diablo no usó su propia autoridad para condenarlo, sino que dijo «El Señor te reprenda». Varios autores coinciden en que el pecado de fondo de estos hombres es la irreverencia: hacerse ley a sí mismos. Y la ironía final es fuerte: los que presumían de revelaciones superiores terminan conociendo solo lo que conoce un animal, y en eso mismo se arruinan.",
+    "fuentes": ["moodynt_03_b#11", "deirosjd_02_b#7", "ncbjd_01#16", "moodynt_03_b#13", "deirosjd_02_b#9"]
+  },
+  "secciones": [
+    {
+      "rango": "Jd 8a",
+      "titulo": "«De la misma manera»: el pasado se repite",
+      "notas": [
+        {"texto": "La frase que abre el versículo une este tramo con el anterior: los infiltrados muestran los mismos rasgos que Israel en el desierto, los ángeles rebeldes y Sodoma. El Nuevo Comentario Bíblico ve en el «no obstante» la sorpresa de Judas: pese a que Dios juzgó esos pecados en la antigüedad, estos hombres persisten en el mismo camino. Kistemaker señala que la partícula griega tiene fuerza adversativa y que los tres verbos principales están en presente: no es un tropiezo aislado sino una conducta continua.", "fuentes": ["macjd_01_c#8", "ncbjd_01#17", "kisjd_01_b#22", "beajd_01_a#32"], "tipo": "exegesis"},
+        {"texto": "Kistemaker propone una correspondencia en orden inverso con los ejemplos de los vv. 5-7: contaminar la carne corresponde al pecado de Sodoma (v. 7); rechazar la autoridad, a la rebelión de los ángeles (v. 6); y la injuria contra los seres celestiales, a la incredulidad de Israel, que habló contra el Dios que lo había redimido (Nm 14:1-4, 10-11). El propósito es claro: el juicio que cayó sobre aquellos espera también a quienes repiten sus pecados.", "fuentes": ["kisjd_01_b#17"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "Jd 8a",
+      "titulo": "Soñadores",
+      "notas": [
+        {"texto": "La palabra «soñadores» (un participio, ver Palabras griegas) va ligada a los tres verbos que siguen: todo lo que estos hombres hacen nace de ahí. La mayoría de los autores la entiende como una pretensión de recibir revelaciones en sueños o visiones, y la relaciona con los falsos profetas del Antiguo Testamento, donde el «soñador» era casi sinónimo de profeta falso (Dt 13:1-5; Jer 23:25-32). Así lo ven Rose en el Beacon, MacArthur, Deiros, el Nuevo Comentario Bíblico, Valle Ruiz en el Mundo Hispano y Núñez. Deiros, siguiendo a Bauckham, saca la consecuencia: no solo practicaban una vida sin ley, también la enseñaban como si viniera de Dios.", "fuentes": ["beajd_01_a#32", "macjd_01_c#8", "deirosjd_02_b#2", "ncbjd_01#17", "cbmhjd_01_a#26", "nunez2p_03_a#15"], "tipo": "exegesis"},
+        {"texto": "MacArthur subraya que Judas no usa la palabra habitual del Nuevo Testamento para los sueños, sino un verbo que solo vuelve a aparecer en Hch 2:17, cuando Pedro cita a Joel en Pentecostés. Para él eso apunta a sueños que se presentan como reveladores: los falsos maestros los ofrecían como fuente divina de verdades nuevas y así reemplazaban la autoridad de la Escritura por la suya. Núñez lo aplica hoy: muchos maestros y pastores cuentan sueños y sus interpretaciones en lugar de enseñar lo que la Palabra revela. Sobre si Dios sigue o no dando sueños reveladores hoy, ver Interpretaciones.", "fuentes": ["macjd_01_c#8", "nunez2p_03_a#15"], "tipo": "exegesis"},
+        {"texto": "La Biblia MacArthur describe a estos soñadores como gente con la mente tan insensible a la Palabra que vivía en fantasías, ciega a la realidad. McGee lo dice a su modo: viven en un mundo irreal. Kistemaker menciona además otra lectura posible del término (ver Interpretaciones).", "fuentes": ["mbibjd_01_b#1", "mcgjd_02#1", "kisjd_01_b#18"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "Jd 8b",
+      "titulo": "Tres cargos: el cuerpo, la autoridad, las glorias",
+      "notas": [
+        {"texto": "Mancillan la carne. Aquí «carne» es el cuerpo físico, y el verbo significa manchar o teñir, y por extensión contaminar o pervertir; juntos indican impureza moral, en especial sexual (MacArthur). Varios autores lo ligan con Sodoma y Gomorra (Kistemaker, McGee, la Biblia MacArthur), y Núñez, leyéndolo junto con el v. 10, entiende prácticas sexuales ilícitas. Deiros nota que la idea de contaminarse está muy presente en 1 Enoc, libro que Judas conocía, y que así une este pecado con el de los ángeles y Sodoma; pero agrega que no es su peor pecado. Rose recoge una observación de Barclay sobre la lógica de fondo: pecaban confiados en que la gracia se encargaría, como si el pecado fuera la ocasión para que la gracia obrara (compárese con Jd 4, que habla de convertir la gracia en libertinaje).", "fuentes": ["macjd_01_c#9", "kisjd_01_b#19", "mcgjd_02#1", "mbibjd_01_b#1", "nunez2p_03_a#15", "deirosjd_02_b#3", "beajd_01_a#32"], "tipo": "exegesis"},
+        {"texto": "Rechazan la autoridad. El verbo significa anular algo establecido (MacArthur), y la palabra «autoridad» es «señorío», emparentada con «Señor». Kistemaker, Deiros, MacArthur, el Nuevo Comentario Bíblico y Valle Ruiz entienden que Judas apunta al señorío de Dios, concretamente al de Jesucristo: el v. 4 ya había dicho que estos hombres niegan a nuestro único Soberano y Señor. Querían ser dueños de su propia vida. Deiros lo formula así: el apóstata rechaza la autoridad de Dios en dos esferas, sobre su cuerpo y sobre su vida entera; y el primer paso de su desvío no es contra la institución de la iglesia sino contra la soberanía de Dios. Otros autores lo leen de modo más amplio (ver Interpretaciones).", "fuentes": ["macjd_01_c#10", "kisjd_01_b#20", "deirosjd_02_b#4", "ncbjd_01#17", "cbmhjd_01_a#26", "deirosjd_02_b#15", "deirosjd_02_b#14"], "tipo": "exegesis"},
+        {"texto": "Blasfeman de las potestades superiores. Literalmente, «las glorias». Blasfemar es hablar mal, calumniar, sobre todo de lo sagrado (MacArthur). La mayoría entiende que las «glorias» son ángeles, como en el pasaje paralelo de 2P 2:10, y el v. 9 lo confirma al hablar de Miguel (Biblia MacArthur, Nuevo Comentario Bíblico, Valle Ruiz). Qué ángeles, si los santos o los caídos, es discutido (ver Interpretaciones). Kistemaker recuerda que el Nuevo Testamento enseña que la ley fue dada por medio de ángeles (Hch 7:53; Gá 3:19; He 2:2) y cita a Bauckham: injuriar a los ángeles podía ser una manera de cortar el vínculo de la ley con Dios para tratarla como algo malo. MacArthur saca la misma consecuencia: al insultar a los ángeles santos, insultaban al Dios a quien sirven.", "fuentes": ["macjd_01_c#11", "mbibjd_01_b#1", "ncbjd_01#17", "cbmhjd_01_a#26", "kisjd_01_b#21"], "tipo": "exegesis"},
+        {"texto": "La Biblia MacArthur observa que el pronombre «estos» vuelve cinco veces más en la carta (vv. 10, 12, 14, 16, 19): Judas va armando un retrato completo. La misma obra trae un cuadro con dieciocho rasgos del apóstata a lo largo de la carta, desde «impío» (v. 4) hasta «sin el Espíritu» (v. 19).", "fuentes": ["mbibjd_01_b#1", "mbibjd_01_b#6"], "tipo": "estructura"}
+      ]
+    },
+    {
+      "rango": "Jd 9",
+      "titulo": "Miguel, el arcángel",
+      "notas": [
+        {"texto": "Miguel es uno de los dos ángeles con nombre en la Escritura, junto con Gabriel (Rose, Berkhof). Su nombre significa «¿Quién es como Dios?» (Rose, Kistemaker, Deiros). Wiersbe hace notar el contraste con Satanás, que pretendió ser semejante al Altísimo. En Daniel aparece como uno de los principales príncipes y como el gran príncipe que protege al pueblo de Israel (Dn 10:13, 21; 12:1), y en Apocalipsis encabeza a los ángeles que pelean contra el dragón y sus ángeles (Ap 12:7-9).", "fuentes": ["beajd_01_a#33", "r1_014_b#12", "kisjd_01_b#24", "deirosjd_02_b#8", "r1_008#2", "nunez2p_03_a#17", "macjd_01_c#12"], "tipo": "personaje"},
+        {"texto": "La palabra «arcángel» aparece en el Nuevo Testamento solo aquí y en 1Ts 4:16 (Nuevo Comentario Bíblico), y solo a Miguel se lo llama así en la Escritura (Ryrie, el Diccionario Mundo Hispano). Ryrie y Kistemaker mencionan que la literatura apócrifa habla de cuatro ángeles principales con nombre (Miguel, Gabriel, Rafael y Uriel) y de siete arcángeles; eso es tradición judía, no enseñanza bíblica. Berkhof rechaza la idea de que Miguel sea la segunda persona de la Trinidad: es una criatura, el guerrero que pelea las batallas del Señor.", "fuentes": ["ncbjd_01#18", "r1_016#22", "dbmh_01_a#9", "kisjd_01_b#24", "r1_014_b#12"], "tipo": "personaje"},
+        {"texto": "La Biblia MacArthur recuerda que «diablo» significa acusador o calumniador. El dato encaja con lo que sigue: en el relato que Judas tiene en mente, el diablo acusa a Moisés.", "fuentes": ["mbibjd_01_b#2", "deirosjd_02_b#6", "kisjd_01_b#25"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "Jd 9",
+      "titulo": "La disputa por el cuerpo de Moisés",
+      "notas": [
+        {"texto": "El Antiguo Testamento no cuenta esta disputa: solo dice que Moisés murió en Moab, que Dios lo enterró y que nadie conoce su sepultura (Dt 34:5-6). Todos los autores coinciden en que este es el único lugar de la Escritura que la menciona (Deiros, Kistemaker, MacArthur, Núñez).", "fuentes": ["deirosjd_02_b#6", "kisjd_01_b#25", "macjd_02_a#2", "mbibjd_01_b#2", "nunez2p_03_a#18"], "tipo": "historia"},
+        {"texto": "¿De dónde lo toma Judas? Orígenes lo ubicaba en la Asunción de Moisés, un escrito judío cuyo final se perdió (Craig, citando a Bauckham). Kistemaker, Deiros y Craig resumen la reconstrucción de Bauckham a partir de fuentes cristianas antiguas: Dios envió a Miguel a sepultar a Moisés; el diablo se opuso y lo acusó de homicidio por haber matado al egipcio (Éx 2:12); Miguel no toleró la calumnia, respondió que el Señor lo reprendiera, el diablo huyó y Miguel enterró el cuerpo donde Dios había mandado, y por eso nadie vio la tumba. Otra versión, que McGee recoge de Clemente y el Nuevo Comentario Bíblico resume, pone en boca del diablo que el cuerpo le pertenecía por ser materia; Bauckham, según Craig, la considera un desarrollo posterior, de la polémica con el gnosticismo del siglo II.", "fuentes": ["r1_002#7", "r1_002#8", "kisjd_01_b#23", "kisjd_01_b#25", "deirosjd_02_b#6", "mcgjd_02#6", "ncbjd_01#18"], "tipo": "historia"},
+        {"texto": "Que Judas use una tradición no bíblica no la convierte en Escritura ni le resta a la carta. Kistemaker y el Comentario Moody aclaran que Judas no reconoce esos escritos como inspirados ni les da rango canónico: los usa para ilustrar. Valle Ruiz da dos razones: eran parte de la cultura de su pueblo y sirven como ilustración de verdades inspiradas. Geisler y Howe agregan que un autor bíblico no está limitado a citar Escritura, porque toda verdad es de Dios, y que el silencio del Antiguo Testamento no prueba que el hecho no ocurriera. La Biblia MacArthur lo resume: la fuente última de lo que Judas escribe es el Espíritu que lo inspiró. Kistemaker recuerda que, por esta alusión y la cita de 1 Enoc (vv. 14-15), parte de la iglesia antigua dudó al principio en aceptar la carta.", "fuentes": ["kisjd_01_b#23", "moodynt_03_b#12", "cbmhjd_01_b#3", "r1_001#25", "mbibjd_01_b#3"], "tipo": "apologetica"},
+        {"texto": "Por qué el diablo quería ese cuerpo es materia de conjeturas, y los autores lo presentan así (ver Interpretaciones). Lo que el versículo sí afirma es lo que importa para el argumento de Judas: cómo respondió Miguel.", "fuentes": ["mhenry_02#17", "mbibjd_01_b#2", "mcgjd_02#5"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "Jd 9",
+      "titulo": "«El Señor te reprenda»: Miguel no se hizo juez",
+      "notas": [
+        {"texto": "Miguel «no se atrevió a proferir juicio de maldición contra él». Deiros, siguiendo a Bauckham, precisa el punto: no se trata de que Miguel fuera amable con el diablo, sino de que no podía rechazar la acusación apoyado en su propia autoridad. Aunque la acusación era calumniosa, Miguel no era el juez; solo podía pedirle al Señor, el único Juez, que lo condenara. La moraleja es que nadie es ley para sí mismo. Kistemaker y Ryrie coinciden: Miguel entregó a Satanás a la autoridad de Dios, y aun siendo poderoso dependía de un poder mayor.", "fuentes": ["deirosjd_02_b#7", "kisjd_01_b#26", "r1_016#22", "nunez2p_03_a#18"], "tipo": "exegesis"},
+        {"texto": "Otros autores ponen el acento en el respeto por la posición que el diablo tenía como criatura: Rose habla de la dignidad angelical original del diablo, y MacArthur y McGee, del respeto por su posición como el ser creado más alto. MacArthur agrega que Miguel sabía que Dios podía darle poder sobre Satanás, pero no quiso ir más allá de los límites que Dios le había fijado. El Comentario Moody lo resume: Miguel fue deferente aun con el diablo, mientras que los falsos maestros no respetaban ninguna autoridad. Las dos lecturas llegan al mismo lugar: el juicio le corresponde a Dios.", "fuentes": ["beajd_01_a#33", "macjd_01_c#12", "mcgjd_02#5", "moodynt_03_b#12"], "tipo": "exegesis"},
+        {"texto": "Las palabras de Miguel recuerdan a Zac 3:1-2 (ver Antiguo Testamento). Kistemaker ve aquí un argumento de mayor a menor: si el más poderoso de los arcángeles no se permitió una reprensión injuriosa ni siquiera contra Satanás, cuánto menos un pecador puede permitirse el insulto. Rose, con Barclay, lo extiende: si el mayor de los ángeles buenos no maldijo al mayor de los malos, ningún ser humano puede hablar con desprecio de ningún ángel, y lo mismo vale para el trato entre personas. El pasaje paralelo de Pedro dice lo mismo de los ángeles en 2P 2:11.", "fuentes": ["kisjd_01_b#26", "beajd_01_a#34", "beajd_01_a#33"], "tipo": "exegesis"}
+      ]
+    },
+    {
+      "rango": "Jd 10",
+      "titulo": "Lo que no conocen y lo que conocen por instinto",
+      "notas": [
+        {"texto": "«Pero estos» marca la vuelta al tema del v. 8 (Kistemaker). La actitud de los infiltrados es la opuesta a la de Miguel: no temen injuriar lo que no entienden (Deiros). Según el contexto, lo que no conocen es el mundo de los ángeles (vv. 8-9) y, más ampliamente, las cosas espirituales, que no pueden captar porque no tienen el Espíritu (v. 19; 1Co 2:14). Así lo ven Rose, Deiros, el Nuevo Comentario Bíblico y la Biblia MacArthur, que habla de arrogancia intelectual junto con ignorancia espiritual: ni siquiera saben que Satanás los cegó (2Co 4:4). Núñez agrega que no tenían autoridad sobre los seres celestiales ni entendían cómo se libra la batalla espiritual, y aun así los maldecían.", "fuentes": ["kisjd_02_a#3", "deirosjd_02_b#9", "beajd_01_a#35", "ncbjd_01#19", "mbibjd_01_b#5", "kisjd_01_b#27", "nunez2p_03_a#20"], "tipo": "exegesis"},
+        {"texto": "Y en lo que sí conocen «por naturaleza», es decir, por instinto, de manera física, se corrompen como animales irracionales. Lo único que conocen de verdad son sus impulsos, y en eso mismo se destruyen (Nuevo Comentario Bíblico, Deiros). Kistemaker hace notar una diferencia: los animales siguen las leyes de la naturaleza, pero estos hombres abandonan aun la ley natural, y por eso perecen (Ro 1:24). Rose dice que descienden más bajo que las bestias y resume el cuadro en tres rasgos: se burla de lo que está más allá de su conocimiento, está dominado por sus instintos y mutila su posibilidad de una verdadera piedad.", "fuentes": ["ncbjd_01#19", "deirosjd_02_b#9", "kisjd_01_b#27", "beajd_01_a#35"], "tipo": "exegesis"},
+        {"texto": "Hay aquí una ironía que el Comentario Moody y Deiros destacan: los que se presentaban como dueños de un conocimiento espiritual superior, recibido en revelaciones, resultan conocer solo lo que conoce un animal. Matthew Henry añade que estos hombres a menudo se jactan de ser los más sabios, pero que la falta no está en el entendimiento sino en la voluntad torcida y en los apetitos desordenados. «Se corrompen» habla de la ruina espiritual y moral que se acarrean a sí mismos (Biblia MacArthur), y Deiros recuerda que por eso están destinados a la destrucción, como Israel en el desierto y Sodoma.", "fuentes": ["moodynt_03_b#13", "deirosjd_02_b#9", "mhenry_02#18", "mbibjd_01_b#5"], "tipo": "exegesis"}
+      ]
+    }
+  ],
+  "palabras": [
+    {"ref": "Jd 8", "griego": "ἐνυπνιαζόμενοι", "translit": "enypniazómenoi", "significado": "«Soñando», «soñadores». Participio presente que describe una conducta habitual (Kistemaker) y que va ligado a los tres verbos: mancillan, rechazan, blasfeman (Rose). Según MacArthur, el verbo solo aparece además en Hch 2:17, en la cita de Joel.", "fuentes": ["kisjd_01_b#22", "beajd_01_a#32", "macjd_01_c#8"]},
+    {"ref": "Jd 8", "griego": "μιαίνουσιν", "translit": "miaínousin", "significado": "«Manchan, contaminan». Se usaba para teñir o manchar ropa; unido a «carne» (el cuerpo) indica impureza moral y física, sobre todo sexual (MacArthur).", "fuentes": ["macjd_01_c#9"]},
+    {"ref": "Jd 8", "griego": "ἀθετοῦσιν", "translit": "athetoûsin", "significado": "«Rechazan, anulan»: dejar sin efecto algo establecido, como una autoridad vigente (MacArthur).", "fuentes": ["macjd_01_c#10"]},
+    {"ref": "Jd 8", "griego": "κυριότητα", "translit": "kyriótēta", "significado": "«Señorío, autoridad». Emparentada con Kyrios, «Señor». Pablo la usa en plural para poderes angélicos (Ef 1:21; Col 1:16), pero aquí, en singular, varios autores entienden el señorío de Dios en Cristo (Deiros, Kistemaker, Nuevo Comentario Bíblico).", "fuentes": ["deirosjd_02_b#4", "kisjd_01_b#20", "ncbjd_01#17"]},
+    {"ref": "Jd 8", "griego": "δόξας", "translit": "dóxas", "significado": "«Glorias», traducido «potestades superiores». Se usa para seres angélicos (cf. 2P 2:10; He 9:5), con la idea de lo que brilla en sí mismo y de lo que irradia gloria (Deiros, MacArthur).", "fuentes": ["deirosjd_02_b#5", "macjd_01_c#11"]},
+    {"ref": "Jd 9", "griego": "διελέγετο", "translit": "dielégeto", "significado": "«Disputaba». Imperfecto que describe una discusión que se prolongó (Kistemaker).", "fuentes": ["kisjd_02_a#2"]},
+    {"ref": "Jd 10", "griego": "οἴδασιν", "translit": "oídasin", "significado": "«Saben, conocen» (lo que no conocen). Kistemaker lo entiende como un saber innato. McGee, siguiendo a Vincent, lo contrasta con el segundo verbo del versículo: este apunta a la comprensión de lo invisible.", "fuentes": ["kisjd_02_a#3", "mcgjd_02#11"]},
+    {"ref": "Jd 10", "griego": "ἐπίσταμαι", "translit": "epístamai", "significado": "«Entender, conocer» (en el texto: ἐπίστανται). Según McGee se usaba para habilidades manuales y cosas tangibles: lo que estos hombres conocen es solo lo de los sentidos.", "fuentes": ["mcgjd_02#11"]},
+    {"ref": "Jd 10", "griego": "ἄλογα", "translit": "áloga", "significado": "«Irracionales». Según MacArthur, literalmente «sin palabra»: como animales mudos que no pueden razonar.", "fuentes": ["macjd_02_a#4"]}
+  ],
+  "cristo": [
+    {"texto": "El cargo más grave del v. 8 es rechazar el señorío. Kistemaker, Deiros y MacArthur entienden que Judas piensa en el señorío de Jesucristo, el único Soberano y Señor del v. 4. Deiros lo lleva a la confesión más básica de la fe: nadie puede decir «Jesús es el Señor» sino por el Espíritu (1Co 12:3), y esa confesión, con sus consecuencias, es la primera señal de que el Espíritu obra en alguien. Los infiltrados podían estar en la membresía, pero no aceptaban a Cristo como Señor.", "refs": ["Jd 4", "1Co 12:3", "Fil 2:11"], "fuentes": ["kisjd_01_b#20", "deirosjd_02_b#4", "macjd_01_c#10", "deirosjd_02_b#15"]},
+    {"texto": "La respuesta de Miguel repite las palabras de Zac 3:2, donde el ángel del Señor defiende al sumo sacerdote Josué ante Satanás, que lo acusa. MacArthur identifica a ese ángel del Señor con Cristo antes de su encarnación: en lugar de condenar a su pueblo, Dios lo perdona y lo viste de ropas limpias (Zac 3:3-5). MacArthur relaciona ese cuadro con 1J 2:1: tenemos un abogado ante el Padre, Jesucristo el justo.", "refs": ["Zac 3:1-5", "1J 2:1"], "fuentes": ["macjd_02_a#1"]},
+    {"texto": "Rose observa que Miguel resistió al diablo como Jesús en el desierto: con la palabra de Dios y no con insultos. La palabra divina basta para refutar a Satanás, la use un creyente, un ángel o el Hijo de Dios. Y Núñez recuerda que la humildad fue la marca del Señor en su vida terrenal: no hay lugar para el orgullo en quien lo sigue.", "refs": ["Mt 4:1-11"], "fuentes": ["beajd_01_a#33", "beajd_01_a#34", "nunez2p_03_a#19"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Quiénes son los «soñadores»?",
+      "posturas": [
+        {"postura": "Gente que pretendía recibir revelaciones en sueños o visiones y enseñaba a partir de ellas, como los falsos profetas del Antiguo Testamento.", "quien": "Rose (Beacon), MacArthur, Deiros, Nuevo Comentario Bíblico, Valle Ruiz, Núñez; Wand, según Kistemaker", "fuentes": ["beajd_01_a#32", "macjd_01_c#8", "deirosjd_02_b#2", "ncbjd_01#17", "cbmhjd_01_a#26", "nunez2p_03_a#15", "kisjd_01_b#18"]},
+        {"postura": "Gente que, por su inmoralidad, vivía entregada a ensueños eróticos: Judas los describe más por su vida que por sus enseñanzas.", "quien": "posibilidad que presenta Kistemaker", "fuentes": ["kisjd_01_b#18"]}
+      ],
+      "nota": "Kistemaker reconoce que ambas lecturas tienen evidencias de peso. MacArthur agrega su propia convicción de que los sueños reveladores han cesado en esta época y que todo reclamo actual de ellos es falso; esa es una postura más amplia sobre los dones, que otros autores del estudio no discuten aquí."
+    },
+    {
+      "tema": "¿Qué autoridad rechazan?",
+      "posturas": [
+        {"postura": "El señorío de Dios en Cristo (el singular apunta al Kyrios mismo).", "quien": "Deiros (con Kelly y Bauckham), Kistemaker, MacArthur, Nuevo Comentario Bíblico, Valle Ruiz", "fuentes": ["deirosjd_02_b#4", "kisjd_01_b#20", "macjd_01_c#10", "ncbjd_01#17", "cbmhjd_01_a#26"]},
+        {"postura": "Toda forma de autoridad, divina y humana.", "quien": "Plumptre, preferido por Rose (Beacon); la Biblia MacArthur habla de autoridad civil y espiritual, las Escrituras y Cristo", "fuentes": ["beajd_01_a#32", "mbibjd_01_b#1"]},
+        {"postura": "Las autoridades civiles (Calvino, según Rose; y en aplicación McGee y Matthew Henry, Ro 13:1) o los gobernantes de la iglesia (Bennett, según Rose; el Comentario Moody sugiere líderes cristianos para «potestades superiores»).", "quien": "Calvino, Bennett, McGee, Matthew Henry, Comentario Moody", "fuentes": ["beajd_01_a#32", "mcgjd_02#3", "mhenry_02#16", "moodynt_03_b#11"]}
+      ],
+      "nota": "Todas coinciden en el fondo: estos hombres no se someten a nadie."
+    },
+    {
+      "tema": "¿De qué ángeles blasfeman?",
+      "posturas": [
+        {"postura": "De los ángeles santos: «glorias» describe a los que rodean el trono y reflejan la gloria de Dios, y por medio de los cuales se dio la ley.", "quien": "Kistemaker, MacArthur; Bauckham, según Deiros", "fuentes": ["kisjd_01_b#21", "macjd_01_c#11", "deirosjd_02_b#5"]},
+        {"postura": "De los ángeles caídos: los falsos maestros presumían de poder sobre ellos.", "quien": "Wicker, según Deiros; la lectura que Núñez presenta como más probable según otros académicos", "fuentes": ["deirosjd_02_b#5", "nunez2p_03_a#16"]}
+      ],
+      "nota": "Deiros expone las posibilidades (buenos, caídos o ángeles en general) sin cerrar la cuestión. El ejemplo de Miguel funciona en cualquiera de los casos."
+    },
+    {
+      "tema": "¿Por qué el diablo disputaba el cuerpo de Moisés?",
+      "posturas": [
+        {"postura": "Para impedir un entierro honroso, acusando a Moisés de homicidio (relato reconstruido de la Asunción de Moisés).", "quien": "Bauckham, citado por Kistemaker, Craig y Deiros", "fuentes": ["kisjd_01_b#25", "r1_002#8", "deirosjd_02_b#6"]},
+        {"postura": "Para que Israel conociera la tumba y la convirtiera en objeto de culto.", "quien": "Matthew Henry (como conjetura); MacArthur y la Biblia MacArthur (como probabilidad)", "fuentes": ["mhenry_02#17", "mbibjd_01_b#2", "macjd_02_a#2"]},
+        {"postura": "Para estorbar la aparición futura de Moisés: en la Transfiguración (McGee) o como uno de los dos testigos de Ap 11 (Wiersbe).", "quien": "McGee; Wiersbe", "fuentes": ["mcgjd_02#5", "r1_007_b#38"]}
+      ],
+      "nota": "El texto bíblico no lo dice; todas son explicaciones de los autores, algunas presentadas expresamente como conjeturas."
+    }
+  ],
+  "antiguo_testamento": [
+    {"ref": "Dt 34:5-6", "nota": "Moisés muere en Moab y Dios lo sepulta en un lugar que nadie conoce. Es el trasfondo de la disputa de Jd 9, que el Antiguo Testamento no narra.", "fuentes": ["deirosjd_02_b#6", "kisjd_01_b#25"]},
+    {"ref": "Zac 3:1-2", "nota": "El ángel del Señor, frente a Satanás que acusa al sumo sacerdote Josué, deja el juicio al Señor con la misma fórmula de reprensión que usa Miguel.", "fuentes": ["kisjd_01_b#26", "deirosjd_02_b#6", "macjd_01_c#12", "ncbjd_01#18"]},
+    {"ref": "Dt 13:1-5", "nota": "El profeta o soñador que anuncia señales para desviar al pueblo de Dios: el trasfondo de la palabra «soñadores».", "fuentes": ["beajd_01_a#32", "macjd_01_c#8", "cbmhjd_01_a#26"]},
+    {"ref": "Jer 23:25-32", "nota": "Los profetas que dicen «soñé» y profetizan mentira: Judas pone a los infiltrados en esa línea.", "fuentes": ["macjd_01_c#8", "deirosjd_02_b#2", "nunez2p_03_a#15"]},
+    {"ref": "Dn 10:13, 21; 12:1", "nota": "Miguel como príncipe principal y protector del pueblo de Dios.", "fuentes": ["ncbjd_01#18", "nunez2p_03_a#17", "kisjd_01_b#24"]},
+    {"ref": "Nm 14:1-4, 10-11", "nota": "Israel habla contra Dios en el desierto; para Kistemaker corresponde a la injuria del v. 8.", "fuentes": ["kisjd_01_b#17"]}
+  ],
+  "biblioteca": [
+    {"texto": "Berkhof rechaza tanto la idea de que Gabriel sea un ser no creado como la de que Miguel sea la segunda persona de la Trinidad; Miguel es el ángel guerrero que pelea las batallas del Señor contra las fuerzas del mal.", "autor": "Louis Berkhof", "obra": "Teología sistemática", "pagina": "PDF 77", "tipo": "doctrina"},
+    {"texto": "MacArthur y Mayhue: el poder de Satanás es el más alto entre los seres creados y puede ser al menos igual al de Miguel, pero no tiene comparación con el de Dios: no es omnipotente, ni omnisciente, ni omnipresente.", "autor": "John MacArthur y Richard Mayhue", "obra": "Teología sistemática", "pagina": "PDF 946", "tipo": "doctrina"},
+    {"texto": "Frente a una persona verdaderamente endemoniada, MacArthur y Mayhue aconsejan reconocer la fuerza del enemigo, apelar a Dios en oración (como Miguel) y usar el poder de la Escritura, sobre todo del evangelio; la Biblia es la única fuente segura de revelación sobre el mundo espiritual.", "autor": "John MacArthur y Richard Mayhue", "obra": "Teología sistemática", "pagina": "PDF 994", "tipo": "aplicacion"},
+    {"texto": "McGee ilustra la amenaza interna con el caballo de Troya: lo que un ejército no logró en diez años desde afuera lo lograron unos pocos desde adentro. Así, dice, la persecución hizo crecer a la iglesia, pero el error infiltrado la destruye por dentro.", "autor": "J. Vernon McGee", "obra": "Judas (A través de la Biblia)", "pagina": "PDF 45-46", "tipo": "ilustracion"}
+  ],
+  "conexiones": [
+    {"ref": "2P 2:10-12", "nota": "El pasaje paralelo de Pedro: los que siguen la carne, desprecian el señorío, no temen decir mal de las potestades superiores y son como animales irracionales; también los ángeles, mayores en poder, no pronuncian juicio de maldición.", "fuentes": ["kisjd_01_b#20", "kisjd_01_b#27", "beajd_01_a#33", "macjd_02_a#3"]},
+    {"ref": "1Co 2:14", "nota": "El hombre natural no percibe las cosas del Espíritu: explica por qué estos hombres injurian lo que no conocen.", "fuentes": ["kisjd_01_b#27", "mbibjd_01_b#5", "deirosjd_02_b#9"]},
+    {"ref": "Ap 12:7-9", "nota": "Miguel y sus ángeles pelean contra el dragón y lo arrojan: el mismo arcángel que en Jd 9 no se erige en juez.", "fuentes": ["beajd_01_a#33", "macjd_01_c#12", "kisjd_01_b#24"]},
+    {"ref": "Stg 4:7", "nota": "Resistir al diablo, como hizo Miguel, sin injuriarlo y confiando en el Señor (Rose).", "fuentes": ["beajd_01_a#34"]},
+    {"ref": "Ro 1:22-27", "nota": "Profesando ser sabios se hicieron necios y fueron entregados a sus pasiones: el mismo descenso que Jd 10 describe.", "fuentes": ["macjd_02_a#4", "beajd_01_a#35", "kisjd_01_b#27"]},
+    {"ref": "Col 2:18", "nota": "Pablo advierte contra quien se entremete en lo que no ha visto, con culto a los ángeles y vanidad de mente carnal (MacArthur).", "fuentes": ["macjd_01_c#8"]}
+  ],
+  "para_vivir": [
+    {"texto": "El primer desvío no empieza en la iglesia sino en el corazón: es negarle a Dios el gobierno de la propia vida. Deiros advierte que muchos repiten credos correctos pero titubean al traducir en hechos la confesión básica, «Jesucristo es el Señor». Vale la pena que se pregunten juntos en qué áreas concretas (el cuerpo, el dinero, el tiempo, las palabras) todavía quieren ser su propia ley.", "fuentes": ["deirosjd_02_b#14", "deirosjd_02_b#15", "deirosjd_02_b#7"]},
+    {"texto": "Los sueños, las impresiones y las experiencias no son la autoridad: la Palabra lo es. Núñez lo dice con claridad para la iglesia de hoy, y Rose recuerda que la palabra de Dios basta para resistir a Satanás. Cuando escuchen a alguien que pone su experiencia por encima de la Escritura, ahí hay una señal de alerta.", "fuentes": ["nunez2p_03_a#15", "macjd_01_c#8", "beajd_01_a#34"]},
+    {"texto": "Frente al diablo, humildad y confianza en el Señor, no bravuconería. Deiros teme que algunos evangélicos sean más rápidos para reprender demonios que para someterse a Cristo, y que culpar a Satanás sirva de excusa para no confesar el pecado propio: la tentación viene del diablo, pero el pecado es un acto de la voluntad. La Biblia MacArthur extrae del ejemplo de Miguel que lo mejor es acudir al Señor y encomendarse a él. Resistan al diablo, como Miguel, pero dejen el juicio a Dios.", "fuentes": ["deirosjd_02_b#16", "mbibjd_01_b#4", "beajd_01_a#34", "nunez2p_03_a#19"]},
+    {"texto": "La lección de Miguel vale también para el trato entre personas. Si el arcángel se expresó con moderación aun frente al diablo, Valle Ruiz pregunta qué pasaría si las reuniones de iglesia se manejaran con ese mismo comedimiento, y Matthew Henry saca la misma lección: en una discusión nunca hay que recurrir al lenguaje ofensivo. Vale también para las discusiones en casa: se puede decir la verdad con firmeza y sin insultar.", "fuentes": ["cbmhjd_01_b#2", "mhenry_02#17", "beajd_01_a#34"]},
+    {"texto": "McGee lo lleva a nuestra relación con Dios: si Miguel no se permitió insultar a Satanás, cuánto menos nosotros deberíamos acusar a Dios, que es santo, justo y nos ama. Confiesa que a veces quisiera preguntarle «¿por qué?», pero Dios no se equivoca y se puede confiar en él.", "fuentes": ["mcgjd_02#7"]}
+  ],
+  "para_conversar": [
+    "Deiros dice que el primer paso del desvío es negarle a Dios el gobierno de la propia vida. ¿En qué área nos cuesta más decir en los hechos que Jesús es el Señor?",
+    "¿Cómo distinguimos entre una experiencia o una impresión personal y la autoridad de la Palabra? ¿Nos pasó alguna vez darle a una experiencia más peso del que tenía?",
+    "Miguel no se hizo juez ni usó palabras injuriosas aun teniendo razón. ¿Cómo sería aplicar eso en nuestras discusiones, en casa y en la iglesia?"
+  ],
+  "para_orar": "Señor Jesús, sos nuestro único Soberano y Señor: gobierná nuestro cuerpo, nuestras decisiones y nuestras palabras, y líbranos de querer ser ley para nosotros mismos. Danos la humildad de Miguel para resistir al enemigo confiando en vos y no en nuestra propia fuerza, y para hablar con mansedumbre aun cuando tengamos razón, dejando el juicio en tus manos.",
+  "visuales": ["dg-2p-judas", "dg-falsos", "dg-estructura-jd"],
+  "anexos": ["T2", "I5"],
+  "profundizar": [
+    {"titulo": "Miguel: ¿un individuo o una categoría?", "texto": "Deiros menciona que H. Schlier se inclinaba a ver en «Miguel» la designación de una especie o categoría de ángel más que un individuo, y que el nombre equivale a la pregunta «¿quién es como Dios?». La mayoría de los autores de este estudio lo trata como un arcángel concreto (Berkhof, Ryrie, Kistemaker). Jeremiah menciona además una creencia extendida de que la voz del arcángel de 1Ts 4:16 sería la de Miguel, y lo presenta como algo que «se cree generalmente», no como enseñanza explícita.", "fuentes": ["deirosjd_02_b#8", "r1_014_b#12", "r1_016#22", "r4b_001#13"]},
+    {"titulo": "Dos verbos para «conocer» en el v. 10", "texto": "McGee, siguiendo a Vincent, distingue los dos verbos del v. 10. El primero abarca lo que no se mide en un tubo de ensayo (la música, el amor, la fe); el segundo se usaba para habilidades manuales y cosas tangibles. Los infiltrados solo manejan lo segundo y en eso se corrompen. McGee lo contrasta con el conocimiento pleno del que habla Pablo: saber que la Biblia es Palabra de Dios y que Jesús es el Salvador. Kistemaker, en cambio, entiende el primer verbo como un saber innato; la distinción fina entre ambos depende del autor.", "fuentes": ["mcgjd_02#11", "kisjd_02_a#3"]},
+    {"titulo": "Judas 8-9 y Pedro: ¿quién usó a quién?", "texto": "Craig, siguiendo a Bauckham, nota que 2P 2:10-11 quizá conocía también la tradición de Miguel y el diablo, si no la tomó directamente de Judas. Pedro habla de ángeles que no pronuncian juicio de maldición, sin nombrar a Miguel ni a Moisés. La relación entre las dos cartas se trata en el anexo de introducción a Judas.", "fuentes": ["r1_002#7"]}
+  ]
+}

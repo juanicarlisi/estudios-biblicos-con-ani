@@ -11,7 +11,7 @@
     "antes": "Ayer se derramaron la sexta y la séptima copa: Armagedón, el gran terremoto y la memoria de Dios sobre la gran Babilonia (16:19), cuyo juicio quedó anunciado sin detalle.",
     "ahora": "Un ángel de las copas le muestra a Juan esa sentencia. Empieza una sección nueva (17:1-21:8), y los capítulos 17 y 18 forman una unidad sobre el juicio de Babilonia.",
     "donde": "Juan es llevado «en el Espíritu al desierto»; Carballosa aclara que su cuerpo seguía en Patmos mientras vivía la visión.",
-    "cuando": "Depende de la lectura: la Roma de Juan (Beasley-Murray, Earle), un sistema o una ciudad del fin (MacArthur, McGee, Carballosa, Larkin), la Babilonia futura anticipada en Roma (Ladd) o toda Babilonia de cualquier época (Mundo Hispano). Ver Interpretaciones.",
+    "cuando": "Depende de quién sea la ramera: la Roma de Juan, un sistema o una ciudad del fin, o toda Babilonia de cualquier época. Ver Interpretaciones.",
     "despues": "Hoy es la visión (17:1-6); desde mañana el ángel explica el misterio de la mujer y de la bestia (17:7-18).",
     "fuentes": [
       "cbmh_06_b#22",
@@ -174,13 +174,14 @@
       "titulo": "Púrpura, oro y un cáliz de abominaciones",
       "notas": [
         {
-          "texto": "Está «vestida de púrpura y escarlata», con oro, piedras preciosas y perlas: tinturas caras, colores de realeza, lujo y poder (Ladd, Guzik, MacArthur). La Biblia MacArthur la ve como la mujer de Proverbios 7:10, adornada para atrapar; McGee, como brillo exterior con corrupción adentro, al modo de los fariseos (Mt 23:25).",
+          "texto": "Está «vestida de púrpura y escarlata», con oro, piedras preciosas y perlas: tinturas caras, colores de realeza, lujo y poder (Ladd, Guzik, MacArthur); Lennox recuerda que la púrpura salía del caracol múrice y era cosa de la alta sociedad romana. La Biblia MacArthur la ve como la mujer de Proverbios 7:10, adornada para atrapar; McGee, como brillo exterior con corrupción adentro, al modo de los fariseos (Mt 23:25).",
           "fuentes": [
             "ladd_06_a#30",
             "web_04_c#5",
             "macarthur_14_b#14",
             "mbiblia_02_c#26",
-            "mcgee_09_b#18"
+            "mcgee_09_b#18",
+            "r4_460_12_b#6"
           ],
           "tipo": "simbolo_numero"
         },
@@ -192,15 +193,6 @@
             "cbmh_06_b#24"
           ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "Larkin y McGee ven en estos colores un rasgo de la iglesia de Roma; Ladd juzga que ver aquí las vestiduras de obispos y cardenales difícilmente fue la intención de Juan (ver Interpretaciones).",
-          "fuentes": [
-            "ladd_06_a#30",
-            "larkin_05_a#25",
-            "mcgee_09_b#18"
-          ],
-          "tipo": "dificultad_interpretaciones"
         }
       ]
     },
@@ -474,6 +466,14 @@
           ]
         },
         {
+          "postura": "Roma, primero pagana y después papal, que domina a reyes y naciones con política astuta y engaños; según el Comentario Moody, fue la lectura de la mayoría desde la Reforma.",
+          "quien": "Matthew Henry; Lutero, Tyndale, Knox y Calvino, entre otros, según el Comentario Moody",
+          "fuentes": [
+            "r4_2_01_b#30",
+            "r4_225_02_b#4"
+          ]
+        },
+        {
           "postura": "Roma como madre de todo sistema idolátrico y opresor de cualquier época: donde hay lujo, jactancia, idolatría y violencia contra el pueblo de Dios, allí está Babilonia.",
           "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
           "fuentes": [
@@ -490,24 +490,33 @@
           ]
         },
         {
-          "postura": "Babilonia literal reconstruida junto al Éufrates en los últimos días; identificarla con Roma o con el catolicismo va más allá del texto.",
+          "postura": "Un símbolo de varios niveles: el elemento religioso del gobierno mundial del monstruo al final, pero aplicable a todo imperio con sus rasgos (idolatría, seducción, lujo, poder político y comercial). Los primeros lectores acertaron al ver a Roma, pero sería un error limitarla a ella o solo al imperio final.",
+          "quien": "Lennox",
+          "fuentes": [
+            "r4_460_12_b#10"
+          ]
+        },
+        {
+          "postura": "Babilonia literal reconstruida junto al Éufrates en los últimos días; identificarla con Roma o con el catolicismo va más allá del texto. Lennox la expone y anota las objeciones (la ciudad pesaba poco en el siglo I y no encaja con la potencia marítima de 18:9), pero deja abierta la cuestión.",
           "quien": "Carballosa (premilenial dispensacional)",
           "fuentes": [
             "carballosa_13_a#35",
             "carballosa_13_b#1",
-            "carballosa_13_a#36"
+            "carballosa_13_a#36",
+            "r4_460_12_b#9"
           ]
         },
         {
           "postura": "El sistema religioso falso y mundial del fin, que une religiones y un cristianismo apóstata, sin reducirse a la Iglesia católica.",
-          "quien": "MacArthur y la Biblia MacArthur; Guzik, con Hocking y Seiss; Koechlin; Buswell (premilenial histórico) y Pentecost lo ven como la cristiandad profesante apóstata unida",
+          "quien": "MacArthur y la Biblia MacArthur; el Comentario Moody (un vasto poder espiritual falso, aliado con el mundo); Guzik, con Hocking y Seiss; Koechlin; Buswell (premilenial histórico) y Pentecost lo ven como la cristiandad profesante apóstata unida",
           "fuentes": [
             "macarthur_14_b#16",
             "mbiblia_02_c#27",
             "web_04_c#3",
             "r2_021#23",
             "r1_010#38",
-            "r1_018#22"
+            "r1_018#22",
+            "r4_225_02_b#4"
           ]
         },
         {
@@ -522,7 +531,7 @@
           ]
         }
       ],
-      "nota": "Todos coinciden en que la ramera es infidelidad espiritual organizada, seduce a poderosos y multitudes, persigue al pueblo de Dios y está bajo sentencia. Ladd, Guzik (con Seiss) y Carballosa advierten contra reducirla sin más a la Iglesia católica. Lo desarrolla el anexo T10."
+      "nota": "Todos coinciden en que la ramera es infidelidad espiritual organizada, seduce a poderosos y multitudes, persigue al pueblo de Dios y está bajo sentencia. Ladd, Guzik (con Seiss), Carballosa y Lennox advierten contra reducirla sin más a la Iglesia católica. Lennox concede que hubo en esa institución superstición, riqueza y poder, pero subraya que no es la única con influencias nefastas. Lo desarrolla el anexo T10."
     },
     {
       "tema": "¿«Misterio» es parte del nombre?",
@@ -546,6 +555,13 @@
           "quien": "Carballosa",
           "fuentes": [
             "carballosa_13_a#35"
+          ]
+        },
+        {
+          "postura": "«Un nombre de misterio»: no un acertijo, sino una realidad que pide discernimiento; importa más lo que representa que quién es.",
+          "quien": "Lennox",
+          "fuentes": [
+            "r4_460_12_b#8"
           ]
         }
       ],
@@ -601,11 +617,12 @@
   ],
   "para_vivir": [
     {
-      "texto": "La ramera no se ve fea: se ve espléndida. La seducción del mundo llega como una copa de oro que promete riqueza y placer (Ladd, Guzik). Pregúntense juntos qué copas de oro les atraen hoy y qué hay adentro.",
+      "texto": "La ramera no se ve fea: se ve espléndida. La seducción del mundo llega como una copa de oro que promete riqueza y placer (Ladd, Guzik), y Lennox advierte que está en todas partes, también a solas frente a una pantalla, invitando a beber con la multitud y adormecer la conciencia. Pregúntense juntos qué copas de oro les atraen hoy y qué hay adentro.",
       "fuentes": [
         "ladd_06_a#30",
         "web_04_c#3",
-        "cpe_07#8"
+        "cpe_07#8",
+        "r4_460_12_b#11"
       ]
     },
     {
@@ -616,10 +633,12 @@
       ]
     },
     {
-      "texto": "La infidelidad juzgada aquí es religiosa: habla de Dios y hasta persigue en su nombre (Walvoord, citado por Guzik). Que su fe no se mida por la apariencia ni el éxito, sino por la fidelidad a Cristo y a su Palabra.",
+      "texto": "La infidelidad juzgada aquí es religiosa: habla de Dios y hasta persigue en su nombre (Walvoord, citado por Guzik). Henry y Lennox lamentan la sangre cristiana derramada por quienes se decían cristianos, y Henry aconseja cuidarse de una religión espléndida, gananciosa o de moda. Que su fe no se mida por la apariencia ni el éxito, sino por la fidelidad a Cristo y a su Palabra.",
       "fuentes": [
         "web_04_c#7",
-        "mcgee_09_b#18"
+        "mcgee_09_b#18",
+        "r4_2_01_b#30",
+        "r4_460_12_b#17"
       ]
     },
     {

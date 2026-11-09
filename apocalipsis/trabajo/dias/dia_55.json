@@ -66,9 +66,8 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "«Bestia» es en la Biblia símbolo de una fuerza bruta opuesta al gobierno de Dios (Diccionario Mundo Hispano). Sobre el origen, Ladd no ve nada especial: Daniel hace salir sus bestias del mar (7:3) y también de la tierra (7:17). Otros leen en «la tierra» a Israel o el abismo (ver Profundizar).",
+          "texto": "Sobre el origen, Ladd no ve nada especial: Daniel hace salir sus bestias del mar (7:3) y también de la tierra (7:17). Otros leen en «la tierra» a Israel o el abismo (ver Profundizar).",
           "fuentes": [
-            "dbmh_01_a#13",
             "ladd_05_a#33",
             "mcgee_08#18",
             "r1_017#22",
@@ -108,11 +107,10 @@
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "La primera bestia tiene diez cuernos; esta, dos: para MacArthur, un poder menor, el de un líder amable y confiable más que el de una fiera. Guzik deja abierto si expresan autoridad política y religiosa o son solo los de un cordero.",
+          "texto": "La primera bestia tiene diez cuernos; esta, dos: para MacArthur, un poder menor, el de un líder amable y confiable más que el de una fiera.",
           "fuentes": [
             "macarthur_11_b#22",
-            "mbiblia_02_b#11",
-            "web_02_b#14"
+            "mbiblia_02_b#11"
           ],
           "tipo": "simbolo_numero"
         },
@@ -164,10 +162,12 @@
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "La alianza entre trono y altar no es nueva: MacArthur recuerda a Janes y Jambres con Faraón, a Balac con Balaam, a Acab y Jezabel con los profetas de Baal, y a Roma, que exigió adorar al emperador. Ladd lo resume: la primera bestia es el poder civil inspirado por Satanás; la segunda, el poder religioso puesto a su servicio.",
+          "texto": "La alianza entre trono y altar no es nueva: MacArthur recuerda a Janes y Jambres con Faraón, a Balac con Balaam, a Acab y Jezabel con los profetas de Baal, y a Roma, que exigió adorar al emperador. Ladd lo resume: la primera bestia es el poder civil inspirado por Satanás; la segunda, el poder religioso puesto a su servicio. Lennox y Hitchcock lo llaman su ministro de propaganda; Lennox piensa en Goebbels, que controlaba medios y artes y fabricó el mito del Führer.",
           "fuentes": [
             "macarthur_11_b#20",
-            "ladd_05_b#1"
+            "ladd_05_b#1",
+            "r4_460_10_b#24",
+            "r4_442_03_b#17"
           ],
           "tipo": "ilustracion"
         }
@@ -202,15 +202,6 @@
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "«Engaña» viene de un verbo que significa vagar, de donde sale «planeta» (MacArthur); en presente, engaña sin parar (Carballosa). Y engaña a «los moradores de la tierra», frase que en el libro designa siempre a los que viven de espaldas a Dios (Carballosa, MacArthur).",
-          "fuentes": [
-            "macarthur_12_a#2",
-            "carballosa_10_b#33",
-            "carballosa_11_a#18"
-          ],
-          "tipo": "griego_palabra"
-        },
-        {
           "texto": "Hay consuelo y advertencia. Jesús anunció estos engaños, y no alcanzarán a los suyos (Mt 24:24), que conocen la voz del Pastor (Jn 10:27-30) (Ladd, MacArthur, McGee). Pero los que no recibieron el amor de la verdad reciben un poder engañoso (2 Ts 2:10-12): MacArthur ve ahí también un juicio de Dios.",
           "fuentes": [
             "ladd_05_b#3",
@@ -226,13 +217,14 @@
       "titulo": "La imagen que respira, habla y mata",
       "notas": [
         {
-          "texto": "El falso profeta manda hacer una imagen a la bestia «que tiene la herida de espada, y vivió». «Mandando» es en griego «diciendo», con fuerza de orden, como el pregonero de Daniel 3:4 (Carballosa). La escena recuerda la estatua de Nabucodonosor en Dura, con pena de muerte para quien no se postrara (Dn 3:1-6), según Earle, Carballosa, Larkin y MacArthur. Carballosa nota que muchos serán obligados, pero la mayoría adorará por propia voluntad.",
+          "texto": "El falso profeta manda hacer una imagen a la bestia «que tiene la herida de espada, y vivió». «Mandando» es en griego «diciendo», con fuerza de orden, como el pregonero de Daniel 3:4 (Carballosa). La escena recuerda la estatua de Nabucodonosor en Dura, con pena de muerte para quien no se postrara (Dn 3:1-6), según Earle, Carballosa, Larkin y MacArthur. El Comentario Moody ve un arco: los «tiempos de los gentiles» empezaron con una adoración forzada a la imagen de un rey y terminarán con otra, esta vez mundial. Carballosa nota que muchos serán obligados, pero la mayoría adorará por propia voluntad.",
           "fuentes": [
             "carballosa_11_a#19",
             "carballosa_10_b#34",
             "beacon_04_a#33",
             "larkin_04_b#13",
-            "macarthur_12_a#4"
+            "macarthur_12_a#4",
+            "r4_225_02_a#21"
           ],
           "tipo": "conexion_biblica"
         },
@@ -417,16 +409,17 @@
       ]
     },
     {
-      "texto": "Toda la propaganda gira alrededor de una muerte y una vuelta a la vida, porque la adoración cristiana se apoya en la cruz y la resurrección (Carballosa): la copia confirma el valor del original. McGee nota que Cristo no dejó imagen de su aspecto, mientras que la del anticristo se levanta para ser adorada; la Biblia MacArthur recuerda que Cristo volverá a reinar desde el trono verdadero.",
+      "texto": "Toda la propaganda gira alrededor de una muerte y una vuelta a la vida, porque la adoración cristiana se apoya en la cruz y la resurrección (Carballosa): la copia confirma el valor del original. McGee nota que Cristo no dejó imagen de su aspecto, mientras que la del anticristo se levanta para ser adorada. Lennox marca el contraste: la imagen de la bestia será un artefacto; Cristo es la Imagen del Dios invisible (Col 1:15), su Hijo eterno.",
       "refs": [
         "Ap 13:3",
-        "Ap 19:20"
+        "Ap 19:20",
+        "Col 1:15"
       ],
       "fuentes": [
         "carballosa_10_b#32",
         "carballosa_10_b#35",
         "mcgee_08#21",
-        "mbiblia_02_b#14"
+        "r4_460_10_b#30"
       ]
     }
   ],
@@ -479,10 +472,11 @@
         },
         {
           "postura": "La Roma papal (la primera bestia sería la Roma pagana).",
-          "quien": "Los reformadores Lutero, Calvino y Melanchton, y la escuela historicista; Carballosa objeta que ni los sacerdotes paganos ni el papado hicieron las obras de 13:11-17",
+          "quien": "Los reformadores Lutero, Calvino y Melanchton, y la escuela historicista; Matthew Henry la ve como un dominio espiritual que dice venir de Cristo, primero suave y después con voz de dragón; Carballosa objeta que ni los sacerdotes paganos ni el papado hicieron las obras de 13:11-17",
           "fuentes": [
             "carballosa_10_b#28",
-            "beacon_04_b#2"
+            "beacon_04_b#2",
+            "r4_2_01_b#18"
           ]
         }
       ],
@@ -548,6 +542,13 @@
           "fuentes": [
             "r1_032#19",
             "web_02_b#16"
+          ]
+        },
+        {
+          "postura": "Quizá tecnología de punta: un sistema de IA con imagen tridimensional o avatar; el texto le da «aliento» para hablar, no necesariamente vida.",
+          "quien": "Lennox, que lo plantea como especulación posiblemente errada",
+          "fuentes": [
+            "r4_460_10_b#28"
           ]
         }
       ],
@@ -684,10 +685,10 @@
       ]
     },
     {
-      "texto": "El pasaje no pide miedo sino arraigo: las ovejas conocen la voz del Pastor, y el engaño atrapa a los que no aman la verdad. Amar la verdad, leer juntos la Palabra y conocer bien a Cristo es la mejor protección.",
+      "texto": "El pasaje no pide miedo sino arraigo: las ovejas conocen la voz del Pastor. Lennox propone el consejo de Solzhenitsyn, “no vivir de mentiras”: no hace falta gritar en la plaza, pero sí negarse a decir lo que uno no cree. Practíquenlo hoy en lo chico.",
       "fuentes": [
         "macarthur_12_a#3",
-        "r1_023#9"
+        "r4_460_11#3"
       ]
     }
   ],
@@ -780,6 +781,16 @@
         "macarthur_11_b#21",
         "ladd_05_a#33",
         "larkin_04_b#10"
+      ]
+    },
+    {
+      "titulo": "Lennox: la imagen, la IA y el engaño",
+      "texto": "Lennox se pregunta para qué necesita una imagen alguien que ya está presente y puede ejecutar a quien quiera; sugiere, como Nabucodonosor con su estatua, que impresiona por su tecnología casi mágica y, al volverse objeto de culto, suma a su poder el peso de la religión. Cita a Harari (2023), que imagina religiones con textos escritos por una inteligencia no humana, y a Neil McArthur, que anticipa cultos a la IA por sus rasgos de aparente deidad; para Lennox, la cuestión central será la verdad. Vincula los deepfakes y las redes con el «poder engañoso» de 2 Ts 2:9-12 sobre quienes rechazaron amar la verdad, y recuerda que adorar (postrarse, reconocer autoridad) puede imponerse por coacción, como en los regímenes de Hoxha o Corea del Norte. Él mismo advierte que es especulativo.",
+      "fuentes": [
+        "r4_460_10_b#31",
+        "r4_460_10_b#32",
+        "r4_460_11#2",
+        "r4_460_10_b#6"
       ]
     }
   ]

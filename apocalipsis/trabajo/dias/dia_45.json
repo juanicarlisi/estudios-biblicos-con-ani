@@ -50,12 +50,13 @@
       "titulo": "La última trompeta: voces en lugar de silencio",
       "notas": [
         {
-          "texto": "El contraste es buscado: al abrirse el séptimo sello hubo silencio en el cielo (8:1); ahora hay «grandes voces», el gozo de la resolución inevitable (Guzik). El texto no dice de quién son: Earle (Beacon) piensa en los cuatro seres vivientes; Carballosa, con Walvoord, en una sinfonía de voces angélicas.",
+          "texto": "El contraste es buscado: al abrirse el séptimo sello hubo silencio en el cielo (8:1); ahora hay «grandes voces», el gozo de la resolución inevitable (Guzik) y, para Lennox, la respuesta a los que clamaban «¿Hasta cuándo?» (6:10). El texto no dice de quién son: Earle (Beacon) piensa en los cuatro seres vivientes; Carballosa, con Walvoord, en una sinfonía de voces angélicas.",
           "fuentes": [
             "beacon_04_a#9",
             "carballosa_09_a#5",
             "web_06#10",
-            "mcgeer_08#13"
+            "mcgeer_08#13",
+            "r4_460_09_b#19"
           ],
           "tipo": "explicacion_texto"
         },
@@ -236,11 +237,13 @@
       "titulo": "El templo abierto y el arca del pacto",
       "notas": [
         {
-          "texto": "Se abre el templo de Dios en el cielo. Juan ya había visto el trono y el altar; ahora ve el Lugar santísimo (Biblia MacArthur), donde en Israel solo entraba el sumo sacerdote una vez al año (He 9:7). MacArthur y el Comentario Mundo Hispano leen ahí una invitación: en medio del juicio, Dios abre el acceso a su presencia.",
+          "texto": "Se abre el templo de Dios en el cielo. Juan ya había visto el trono y el altar; ahora ve el Lugar santísimo (Biblia MacArthur), donde en Israel solo entraba el sumo sacerdote una vez al año (He 9:7). MacArthur y el Comentario Mundo Hispano leen ahí una invitación: en medio del juicio, Dios abre el acceso a su presencia. Según el Comentario Moody, la mayoría de los expertos lee 11:19 como la apertura del capítulo 12; Lennox también abre ahí la parte siguiente del libro.",
           "fuentes": [
             "mbiblia_02_a#21",
             "macarthur_10#14",
-            "cbmh_06_a#11"
+            "cbmh_06_a#11",
+            "r4_225_02_a#14",
+            "r4_460_03#10"
           ],
           "tipo": "explicacion_texto"
         },
@@ -296,7 +299,7 @@
     },
     {
       "signo": "el templo abierto en el cielo",
-      "significado": "Según Ladd, figura anticipada de la presencia de Dios abierta a su pueblo (21:3); según Buswell, la verdad eterna de Dios, de la que el tabernáculo era copia; según McGee, un templo real en el cielo, y su apertura muestra que Dios vuelve a tratar con Israel.",
+      "significado": "Según Ladd, figura anticipada de la presencia de Dios abierta a su pueblo (21:3); según Buswell, la verdad eterna de Dios, de la que el tabernáculo era copia; según McGee, un templo real en el cielo, y su apertura muestra que Dios vuelve a tratar con Israel. Matthew Henry, en clave histórica, lo aplicaba a la iglesia en la tierra: las Escrituras, antes cerradas al pueblo, abiertas a todos con la Reforma.",
       "refs": [
         "11:19",
         "21:3",
@@ -305,12 +308,13 @@
       "fuentes": [
         "ladd_05_a#3",
         "r1_010#13",
-        "mcgee_07_a#25"
+        "mcgee_07_a#25",
+        "r4_2_01_b#11"
       ]
     },
     {
       "signo": "el arca del pacto",
-      "significado": "La presencia, la expiación y el pacto de Dios (Biblia MacArthur); su fidelidad a las promesas (Carballosa, Ladd); para McGee, también el nuevo pacto con Israel (Jer 31:31-34).",
+      "significado": "La presencia, la expiación y el pacto de Dios (Biblia MacArthur); su fidelidad a las promesas (Carballosa, Ladd); para McGee, también el nuevo pacto con Israel (Jer 31:31-34). Para Lennox, el arca representa el trono, y el pacto (las tablas de la ley) fija los términos del gobierno de Dios: anticipa la pregunta de los capítulos siguientes, a quién se adora, a la bestia o al Cordero.",
       "refs": [
         "11:19"
       ],
@@ -318,7 +322,8 @@
         "mbiblia_02_a#21",
         "carballosa_09_a#18",
         "ladd_05_a#4",
-        "mcgee_07_a#25"
+        "mcgee_07_a#25",
+        "r4_460_09_b#25"
       ]
     }
   ],
@@ -457,24 +462,29 @@
       "posturas": [
         {
           "postura": "Sí: suena en el tiempo de los premios a los justos (11:18), que es la resurrección de los justos, la final trompeta y el arrebatamiento.",
-          "quien": "J. Oliver Buswell (premilenial histórico, arrebatamiento postribulacional)",
+          "quien": "J. Oliver Buswell (premilenial histórico; su postura se presenta como postribulacional, pero Ryrie lo cuenta entre los mesotribulacionistas: él ubica el arrebatamiento en la séptima trompeta, al comienzo de la ira); Harrison (mesotribulacional) y muchos postribulacionistas, según Walvoord",
           "fuentes": [
             "r1_010#12",
             "r1_009#12",
-            "r1_008#20"
+            "r1_008#20",
+            "r1_033#2",
+            "r4_450_03#17"
           ]
         },
         {
-          "postura": "No: la de Pablo es un instante y llama a la iglesia; la séptima cubre un período (10:7) y trae juicio.",
-          "quien": "MacArthur, Carballosa y J. Dwight Pentecost (premilenial dispensacional, pretribulacional)",
+          "postura": "No: la de Pablo es un instante y llama a la iglesia; la séptima cubre un período (10:7) y trae juicio. Walvoord y Hitchcock agregan que elegir dos trompetas entre muchas por la palabra «última» es arbitrario y que Mt 24:31 trae otra trompeta después: como dice Walvoord, la última campanada de una hora puede seguirse de la primera de la siguiente.",
+          "quien": "MacArthur, Carballosa y J. Dwight Pentecost, Walvoord y Hitchcock (premilenial dispensacional, pretribulacional)",
           "fuentes": [
             "macarthur_09#38",
             "carballosa_09_a#6",
-            "r1_016#11"
+            "r1_016#11",
+            "r4_450_03#17",
+            "r4_450_06#21",
+            "r4_442_03_b#6"
           ]
         }
       ],
-      "nota": "Ver Profundizar y el anexo T7."
+      "nota": "Buswell queda clasificado de dos maneras según la fuente; aquí no se decide. Ver Profundizar y el anexo T7."
     },
     {
       "tema": "¿Qué es «el tiempo de juzgar a los muertos» y quiénes reciben el galardón?",
@@ -525,10 +535,11 @@
           ]
         },
         {
-          "postura": "El ser humano es mayordomo de la creación, no su explotador, y Dios se lo toma tan en serio que parte de su juicio será destruir a los que la destruyen.",
-          "quien": "John Lennox (Contra la corriente)",
+          "postura": "La referencia principal es probablemente a los que destruyen la tierra moral y espiritualmente, pero cuesta no aplicarlo también al daño ambiental: el ser humano es mayordomo de la creación, no su explotador, y Dios pedirá cuentas a los que la destruyen.",
+          "quien": "John Lennox (Contra la corriente; Dios, la IA y el final de la historia)",
           "fuentes": [
-            "r2_001_a#27"
+            "r2_001_a#27",
+            "r4_460_09_b#21"
           ]
         }
       ]
@@ -570,13 +581,6 @@
         "ladd_04_b#15",
         "r2_030#17",
         "r2_032#25"
-      ]
-    },
-    {
-      "ref": "Éx 19:16-19",
-      "nota": "Truenos, relámpagos y temblor en el Sinaí, cuando Dios hizo su pacto.",
-      "fuentes": [
-        "web_06#12"
       ]
     }
   ],
@@ -628,6 +632,15 @@
       "fuentes": [
         "r1_016#11",
         "r1_010#12"
+      ]
+    },
+    {
+      "titulo": "Walvoord frente a Harrison: ¿hay arrebatamiento en Apocalipsis 11?",
+      "texto": "Harrison, mesotribulacional, armó una tabla en la que cada rasgo del capítulo 11 corresponde a un texto del arrebatamiento: los dos testigos serían los santos de ambos pactos (muertos y vivos), la nube la venida, la voz y la subida las de 1 Ts 4:16-17, la séptima trompeta la de 1 Co 15:52 y el templo abierto la iglesia; la omisión de «y que has de venir» en 11:17 significaría «ya vino». Walvoord responde que las semejanzas no prueban identidad; que la iglesia no puede ser «abierta en el cielo»; que el aoristo de «tu ira ha venido» destaca el hecho y puede abarcar toda la ira ya desplegada en sellos y trompetas; que la iglesia pasaría por dos ayes y no por el tercero; y que, como la séptima suena después de 11:3-14, el arrebatamiento debería ponerse en la sexta, lo que contradice la idea de «última trompeta». Cita a Ladd: 11:15 es un anuncio anticipado del reino, no la venida misma.",
+      "fuentes": [
+        "r4_450_03#14",
+        "r4_450_03#16",
+        "r4_450_06#21"
       ]
     },
     {

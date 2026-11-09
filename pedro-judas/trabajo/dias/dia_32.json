@@ -1,189 +1,678 @@
 {
-  "dia": 32,
-  "libro": "2P",
-  "desde": "2P 2:7",
-  "hasta": "2P 2:10",
-  "titulo": "El justo Lot: el Señor sabe librar a los suyos y reservar a los injustos",
-  "minutos": {"lectura": 3, "estudio": 25},
-  "contexto": {
-    "antes": "En el día anterior Pedro empezó una larga cadena de ejemplos tomados de Génesis para responder a los falsos maestros del v. 3: Dios no perdonó a los ángeles que pecaron, no perdonó al mundo antiguo aunque guardó a Noé, y redujo a ceniza a Sodoma y Gomorra. Son ejemplos de juicio, pero en cada uno asoma también un rescate.",
-    "ahora": "Hoy llega el cuarto ejemplo, que es de rescate: Lot, sacado de Sodoma. Con él se cierra la larga oración condicional que empezó en el v. 4 («si Dios no perdonó…») y aparece la conclusión: el Señor sabe librar a los piadosos y sabe reservar a los injustos para el juicio. Desde la mitad del v. 10 Pedro vuelve a describir a los falsos maestros: van tras la carne, desprecian el señorío y son atrevidos y contumaces.",
-    "despues": "Mañana Pedro sigue con el retrato: ni siquiera los ángeles se atreven a lo que estos hombres hacen, y su camino es el de Balaam (2P 2:11-16).",
-    "fuentes": ["bea2p_01_b#3", "cbmh2p_01_a#34", "mac2p_03_a#26", "kis2p_03_b#4"]
-  },
-  "versiculo_clave": {
-    "ref": "2P 2:9",
-    "porque": "Es la conclusión de todo el párrafo y el consuelo central del día: la misma historia que muestra el juicio de Dios muestra que Él sabe cuidar a los suyos en medio de un mundo que los aflige."
-  },
-  "panorama": {
-    "texto": "Pedro termina su repaso de la historia con un ejemplo que sorprende: Lot. No es un héroe de la fe al estilo de Abraham; su historia en Génesis tiene decisiones tristes. Sin embargo Pedro lo llama justo tres veces y subraya que el pecado de Sodoma lo hacía sufrir día tras día. De ahí saca la conclusión que buscaba desde el v. 4: si Dios supo a quién juzgar y a quién rescatar en el pasado, sabe hacerlo hoy. Los lectores, rodeados de falsos maestros, podían identificarse con Lot; y Pedro, al mostrarlo rescatado, los consuela. La otra mitad de la conclusión es seria: los injustos están reservados para el día del juicio, en especial los que siguen la carne y desprecian la autoridad del Señor, que son justamente los falsos maestros.",
-    "fuentes": ["ncb2p_01_b#5", "mac2p_03_a#26", "mac2p_03_a#25", "kis2p_03_a#26", "kis2p_03_b#1"]
-  },
-  "secciones": [
-    {
-      "rango": "2P 2:7",
-      "titulo": "Lot, la contrapartida de Noé",
-      "notas": [
-        {"texto": "Lot es el cuarto de los ejemplos y el único que es solo de conservación: tres hablan de retribución (los ángeles, el mundo del diluvio, Sodoma) y este habla de rescate. Kistemaker lo ve como paralelo de Noé: en ambos casos la destrucción de los malvados contrasta con el rescate de los justos. Por eso el juicio de Dios aparece como seguro, severo y selectivo: no todos los ángeles cayeron, Noé se salvó, Lot fue sacado.", "fuentes": ["bea2p_01_b#3", "kis2p_03_a#25", "ncb2p_01_b#5"], "tipo": "estructura"},
-        {"texto": "Hay un matiz en los verbos: de Noé se dice que Dios lo guardó (v. 5) y de Lot, que lo «libró». Según Kistemaker, la diferencia refleja la historia: Lot dudó en dejar la ciudad y los ángeles tuvieron que tomarlo de la mano a él, a su mujer y a sus hijas (Gn 19:16). Su mujer, que miró atrás desobedeciendo, pereció.", "fuentes": ["kis2p_03_a#25"], "tipo": "exegesis"},
-        {"texto": "Pedro llama a Lot justo tres veces en dos versículos: el justo Lot (v. 7), este justo (v. 8a) y su alma justa (v. 8b). Lo hace a propósito, porque el relato de Génesis no deja una impresión tan favorable (ver la sección siguiente y las Interpretaciones). MacArthur y la Biblia MacArthur explican esa justicia como la de Abraham: Dios le acreditó justicia por la fe (Gn 15:6; Ro 4:3), un ejemplo de justificación en el Antiguo Testamento. Kistemaker agrega que su justicia se entiende sobre el fondo de la misericordia de Dios (Gn 19:16).", "fuentes": ["kis2p_03_a#26", "mac2p_03_a#24", "mbib2p_01_b#27"], "tipo": "doctrina"}
-      ]
-    },
-    {
-      "rango": "2P 2:7-8",
-      "titulo": "Un alma atormentada día tras día",
-      "notas": [
-        {"texto": "Pedro describe a Lot «abrumado por la nefanda conducta de los malvados». MacArthur desarma la frase: «nefanda» traduce aselgeia, conducta escandalosa; «malvados» son los athesmoi, gente que vive sin normas ni frenos, contra la conciencia y contra el mandamiento; «abrumado» es estar agotado por el desgaste, con honda tribulación del alma. El Nuevo Comentario Bíblico agrega que «malvados» equivale a «licenciosos»: el fruto de no temer a Dios y sentirse libre para vivir sin principios.", "fuentes": ["mac2p_03_a#25", "ncb2p_01_b#8", "mbib2p_01_b#27"], "tipo": "exegesis"},
-        {"texto": "El v. 8 insiste: «afligía cada día su alma justa». El verbo griego significa literalmente torturar, atormentar, y está en imperfecto, que indica acción continua: no fue una molestia pasajera sino su estado de ánimo permanente. Para Kistemaker, eso muestra que Lot no se encalleció: como Noé, resistió el embate del pecado, y el día tras día indica que persistió en su rechazo. McGee lo resume así: vivir en Sodoma no lo hacía feliz; era una tortura.", "fuentes": ["kis2p_03_a#27", "kis2p_03_a#28", "mcg2p_02_b#11", "mac2p_03_a#25"], "tipo": "exegesis"},
-        {"texto": "Lo atormentaba «viendo y oyendo los hechos inicuos de ellos». El participio que la RVR1960 traduce «que moraba entre ellos» puede leerse de dos maneras, señala Kistemaker siguiendo a Greijdanus: porque vivía entre ellos sufría, o aunque vivía entre ellos día tras día, no dejaba de sufrir. Los sodomitas vivían sin la ley de Dios, sea porque la ignoraban o porque la desobedecían a sabiendas.", "fuentes": ["kis2p_03_a#27"], "tipo": "exegesis"},
-        {"texto": "Para MacArthur, ese dolor ante el pecado ajeno es una señal segura de que Lot era creyente. Y es el punto pastoral del ejemplo: los lectores de Pedro, rodeados de falsos maestros, podían reconocerse en Lot; al mostrarlo rescatado, Pedro les dice que no tienen nada que temer. La Biblia MacArthur lo aplica sin vueltas: es triste que hoy muchos creyentes no se sientan así de atormentados por el pecado desenfrenado de su sociedad.", "fuentes": ["mac2p_03_a#25", "mbib2p_01_b#27"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "2P 2:7-8",
-      "titulo": "Justo, pero no ejemplar",
-      "notas": [
-        {"texto": "Los autores no esconden el historial de Lot. Eligió el valle por razones económicas y se quedó sin Abraham (Gn 13:10-11); se fue acercando a Sodoma y terminó viviendo en ella (Gn 14:12); ofreció a sus hijas a los hombres de la ciudad (Gn 19:8); dudó ante los ángeles (Gn 19:15-16); y la embriaguez lo llevó al incesto (Gn 19:30-38). Kistemaker menciona que Aalders intentó explicar la oferta de las hijas, pero concluye que Lot era moralmente débil y no hay que excusarlo; Núñez juzga esa respuesta como no piadosa, aunque la costumbre valorara la hospitalidad.", "fuentes": ["kis2p_03_a#26", "kis2p_03_a#27", "mac2p_03_a#24", "nunez2p_01_b#27", "mbib2p_01_b#27"], "tipo": "personaje"},
-        {"texto": "McGee reconoce que, leyendo solo Génesis, uno concluiría que Lot no fue salvo: fue a Sodoma, perdió casi toda su familia y sus yernos se rieron cuando les advirtió del juicio. Wiersbe dice lo mismo: si no fuera por 2P 2:7-8, nos preguntaríamos si alguna vez fue salvo. Lo presenta como el creyente mundano que se salva, pero como por fuego (1Co 3:15): miró hacia Sodoma, se mudó hacia ella, terminó viviendo allí; su corazón estaba en Sodoma y por eso su cuerpo fue hacia allá.", "fuentes": ["mcg2p_02_b#12", "r1_004#32"], "tipo": "personaje"},
-        {"texto": "Aun así, los autores encuentran en el relato señales de la obra de Dios en él: aborrecía los pecados de su ciudad, trató con reverencia a los ángeles y los protegió, advirtió a sus yernos (Gn 19:14) y obedeció al no quedarse a mirar la destrucción (Gn 19:17).", "fuentes": ["mac2p_03_a#24", "mbib2p_01_b#27"], "tipo": "personaje"},
-        {"texto": "Núñez cita a J. Daryl Charles: Noé y Lot son mundos distintos como ejemplo de conducta, pero los dos fueron objeto del favor inmerecido de Dios, y eso anima. Núñez agrega enseguida que esto no autoriza a darse permiso para pecar: la bondad de Dios debería sorprendernos y llevarnos a una obediencia mayor.", "fuentes": ["nunez2p_01_b#28"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "2P 2:9",
-      "titulo": "«Sabe el Señor librar… a los piadosos»",
-      "notas": [
-        {"texto": "Aquí termina la larga condicional del v. 4: si Dios no perdonó a los ángeles…, si no perdonó al mundo antiguo…, si condenó a Sodoma… y libró a Lot, entonces el Señor sabe librar y sabe reservar. Roldán y Zorzoli destacan la secuencia «porque», «si», «entonces»: lo que Dios hizo en el pasado tiene consecuencias hoy para quien presta atención. Dicho de otro modo: si Dios supo a quién juzgar y a quién rescatar entonces, lo sabe hoy.", "fuentes": ["cbmh2p_01_a#34", "cbmh2p_01_a#37", "mac2p_03_a#26"], "tipo": "estructura"},
-        {"texto": "El Nuevo Comentario Bíblico nota algo fino: lo lógico hubiera sido terminar la oración con el castigo, que era el tema del párrafo; pero Pedro rompe la sintaxis para poner primero la misericordia de Dios, que puede guardar a los suyos en un mundo malvado. Quizá lo movió la mención del sufrimiento de Lot, un detalle que Judas no tiene. El Comentario Moody coincide: en los ejemplos Pedro se ocupa más de la condenación, pero en la conclusión pone primero el consuelo.", "fuentes": ["ncb2p_01_b#9", "moodynt_02_a#7"], "tipo": "exegesis"},
-        {"texto": "La palabra «tentación» (peirasmos) también significa prueba. MacArthur y la Biblia MacArthur señalan que aquí puede tener el matiz de un ataque que busca destruir. El Nuevo Comentario Bíblico remite a 1P 1:6-7 y 5:10, donde Pedro ya había hablado de las pruebas que Dios usa y de las que saca a los suyos. Kistemaker observa que el infinitivo «librar» está en presente: expresa el cuidado constante de Dios por su pueblo.", "fuentes": ["mac2p_03_a#26", "mbib2p_01_b#28", "ncb2p_01_b#9", "kis2p_03_b#5"], "tipo": "exegesis"},
-        {"texto": "Kistemaker lee este versículo como palabra de pastor. Los lectores se preguntaban por qué Dios permitía que su pueblo fuera hostigado por los falsos maestros; cita a Calvino, que pone en boca del creyente desanimado una pregunta muy humana: si el Señor quiere a los suyos a salvo, ¿por qué no los junta a todos en un rincón de la tierra, lejos de los malos? La respuesta de Pedro no es sacarlos del mundo sino recordarles que Dios tiene el control (1Co 10:13): si protegió a Noé y rescató a Lot, sabrá librar hoy a los cristianos. Este consuelo es parte de lo que todos los autores comparten; sobre si el rescate de Lot ilustra además un momento futuro de la iglesia, ver Interpretaciones.", "fuentes": ["kis2p_03_b#1", "kis2p_01_b#15"], "tipo": "doctrina"},
-        {"texto": "McGee agrega una observación sencilla: el Señor conoce la diferencia entre piadosos e injustos, cosa que nosotros no siempre sabemos. Por eso Jesús mandó dejar que el trigo y la cizaña crezcan juntos hasta el día de la separación (Mt 13:24-30).", "fuentes": ["mcg2p_02_b#16"], "tipo": "doctrina"}
-      ]
-    },
-    {
-      "rango": "2P 2:9",
-      "titulo": "«Reservar a los injustos» para el día del juicio",
-      "notas": [
-        {"texto": "La segunda mitad de la conclusión es la contracara. Los injustos están custodiados, dice Kistemaker, como presos que esperan comparecer ante el tribunal. MacArthur usa la misma imagen: prisioneros que aguardan la sentencia y el traslado a su destino, y que mientras tanto siguen acumulando culpa. Kistemaker y MacArthur entienden que ya ahora están bajo castigo mientras esperan; la RVR1960 lo traduce en futuro («para ser castigados»). Ver Interpretaciones.", "fuentes": ["kis2p_03_b#3", "mac2p_03_a#27", "mbib2p_01_b#28"], "tipo": "exegesis"},
-        {"texto": "En griego, «día de juicio» va sin artículo, y Kistemaker lo entiende como un rasgo que le da carácter absoluto a ese día terrible. MacArthur y la Biblia MacArthur lo identifican con el juicio ante el gran trono blanco, donde todos los impíos de todas las épocas serán juzgados (Ap 20:11-15).", "fuentes": ["kis2p_03_b#5", "mac2p_03_a#27", "mbib2p_01_b#28"], "tipo": "doctrina"},
-        {"texto": "Grudem muestra la lógica del pasaje: los juicios de Dios en la historia (el diluvio, Sodoma, los ángeles que pecaron) se cumplieron con seguridad, y por eso anuncian que todavía viene un juicio final. Núñez advierte que hoy muchos, apelando a que Dios es amor, niegan el infierno o que Dios discipline a su pueblo, y que esa idea no es nueva: Pedro dio estos ejemplos precisamente para que los creyentes no escucharan a quienes negaban la venida del Señor y el juicio.", "fuentes": ["r1_014_a#18", "nunez2p_01_b#30"], "tipo": "doctrina"}
-      ]
-    },
-    {
-      "rango": "2P 2:10a",
-      "titulo": "«Y mayormente…»: los que siguen la carne y desprecian el señorío",
-      "notas": [
-        {"texto": "La primera parte del v. 10 cierra lo anterior y la segunda abre lo que sigue, explica Kistemaker. El juicio alcanza «mayormente» a dos clases de conducta que retratan a los falsos maestros: corrupción en lo sexual y rebeldía en lo espiritual. MacArthur nota que Pedro cierra así el círculo, repitiendo los dos rasgos con que los presentó: la sensualidad (v. 2) y la negación del Señor (v. 1). La Biblia MacArthur los resume en dos palabras: lujuria y arrogancia.", "fuentes": ["kis2p_03_b#4", "mac2p_03_a#28", "mbib2p_01_b#29"], "tipo": "falsos_maestros"},
-        {"texto": "«Siguiendo la carne, andan en concupiscencia e inmundicia» dice literalmente: los que van detrás de la carne con deseo de contaminación. La palabra miasmos significa contaminación (de ahí viene «miasma»): contaminarse y contaminar a otros. Los participios están en presente: es su manera de vivir de cada día. Kistemaker hace notar que son seguidores, no líderes: los conduce su naturaleza pecaminosa. Kistemaker y el Nuevo Comentario Bíblico, comparando con Jd 7-8, piensan que se alude a prácticas como las de Sodoma (Gn 19:5).", "fuentes": ["ncb2p_01_b#9", "mac2p_03_a#28", "kis2p_03_b#4", "kis2p_03_b#5"], "tipo": "exegesis"},
-        {"texto": "Además «desprecian el señorío». La palabra (kyriotes) viene de la misma raíz que «Señor». La Biblia MacArthur lo aplica así: se identificaban con Cristo por fuera pero no vivían bajo su señorío. El verbo «despreciar», según Kistemaker, implica mostrar desprecio con burla (como en Mt 6:24). Algunos autores leen aquí la autoridad de un orden angélico (ver Interpretaciones).", "fuentes": ["mbib2p_01_b#29", "kis2p_03_b#4", "ncb2p_01_b#9", "mac2p_03_a#28"], "tipo": "exegesis"}
-      ]
-    },
-    {
-      "rango": "2P 2:10b",
-      "titulo": "«Atrevidos y contumaces»",
-      "notas": [
-        {"texto": "Con el v. 10b empieza un nuevo retrato, que sigue mañana. «Atrevidos» (tolmetai) son los descarados que desafían a Dios sin medir las consecuencias; «contumaces» (authadeis) viene de dos palabras que significan sí mismo y agradarse: los que se complacen en sí mismos y siguen su camino a cualquier precio (cf. Tit 1:7). Kistemaker recuerda el dicho de que los necios se meten donde los ángeles temen pisar.", "fuentes": ["mac2p_03_b#3", "kis2p_03_b#6", "mbib2p_01_b#29"], "tipo": "falsos_maestros"},
-        {"texto": "«No temen decir mal de las potestades superiores»: en griego dice literalmente glorias, y «decir mal» es blasfemar, hablar con ligereza de lo sagrado. Quiénes son esas glorias es una de las preguntas difíciles del capítulo (ver Interpretaciones); lo que todos ven es la arrogancia: hombres que se creen con derecho a lo que ni los ángeles se atreven, como se verá en el v. 11.", "fuentes": ["mac2p_03_b#4", "kis2p_03_b#7", "nunez2p_02_a#5", "mcg2p_02_b#17"], "tipo": "exegesis"}
-      ]
-    }
-  ],
-  "palabras": [
-    {"ref": "2P 2:7", "griego": "καταπονούμενον", "translit": "kataponoúmenon", "significado": "Abrumado, agotado por el desgaste; atribulado en lo profundo del ser. Describe el estado de Lot en Sodoma.", "fuentes": ["mbib2p_01_b#27", "mac2p_03_a#25", "mcg2p_02_b#11"]},
-    {"ref": "2P 2:8", "griego": "ἐβασάνιζεν", "translit": "ebasánizen", "significado": "Atormentaba, torturaba. Imperfecto: acción continua, día tras día. Es el verbo que usan los demonios ante Jesús en Mt 8:29.", "fuentes": ["kis2p_03_a#28", "mac2p_03_a#25", "kis2p_03_a#27"]},
-    {"ref": "2P 2:8", "griego": "ἐγκατοικῶν", "translit": "enkatoikōn", "significado": "Que habitaba entre ellos. Participio que aparece una sola vez en el Nuevo Testamento; puede leerse como causa (porque vivía allí) o concesión (aunque vivía allí).", "fuentes": ["kis2p_03_a#28", "kis2p_03_a#27"]},
-    {"ref": "2P 2:9", "griego": "πειρασμοῦ", "translit": "peirasmoú", "significado": "Tentación o prueba; aquí, según MacArthur, con matiz de ataque que busca destruir.", "fuentes": ["mac2p_03_a#26", "mbib2p_01_b#28"]},
-    {"ref": "2P 2:9", "griego": "κολαζομένους", "translit": "kolazoménous", "significado": "Siendo castigados. Participio presente pasivo: implica que el que castiga es Dios y que es una acción continua.", "fuentes": ["kis2p_03_b#5", "kis2p_03_b#3"]},
-    {"ref": "2P 2:10", "griego": "μιασμοῦ", "translit": "miasmoú", "significado": "Contaminación, corrupción (de ahí «miasma»): contaminarse y contaminar a otros.", "fuentes": ["mac2p_03_a#28", "kis2p_03_b#4"]},
-    {"ref": "2P 2:10", "griego": "κυριότητος", "translit": "kyriótētos", "significado": "Señorío, autoridad; de la raíz de «señor». Para la mayoría, el señorío de Cristo; para otros, una autoridad angélica.", "fuentes": ["ncb2p_01_b#9", "cbmh2p_01_b#2", "mbib2p_01_b#29"]},
-    {"ref": "2P 2:10", "griego": "αὐθάδεις", "translit": "authádeis", "significado": "Contumaces, arrogantes: los que se complacen en sí mismos y se obstinan en su camino.", "fuentes": ["kis2p_03_b#6", "mac2p_03_b#3"]}
-  ],
-  "cristo": [
-    {"texto": "Los falsos maestros «desprecian el señorío»: decían identificarse con Cristo, pero no vivían bajo su autoridad. El pasaje deja claro que confesar a Jesús como Señor no es una etiqueta sino una vida sometida a Él; Núñez cierra la sección llamando a someterse a la autoridad de Jesús, que es quien sabe librar de la prueba a los que viven como Dios quiere.", "refs": ["2P 2:1", "2P 2:10"], "fuentes": ["mbib2p_01_b#29", "mac2p_03_a#28", "nunez2p_02_a#1"]},
-    {"texto": "Jesús mismo mencionó a Lot y usó la destrucción de Sodoma y la liberación de Lot como ilustración de su segunda venida, advirtiendo a los suyos que no miren atrás. El ejemplo que Pedro usa ya estaba en la enseñanza del Señor.", "refs": ["Lc 17:28-33"], "fuentes": ["ncb2p_01_b#8", "r1_004#7", "kis2p_03_a#26"]},
-    {"texto": "La frase «librar de tentación» trae a la memoria la última petición del Padrenuestro, la oración que Jesús enseñó. Lo que Jesús nos manda pedir, Pedro asegura que el Señor sabe hacerlo.", "refs": ["Mt 6:13"], "fuentes": ["kis2p_03_b#2"]}
-  ],
-  "interpretaciones": [
-    {
-      "tema": "¿Por qué Pedro llama justo a Lot?",
-      "posturas": [
-        {"postura": "Es justo como creyente a quien Dios le acreditó justicia por la fe, como a Abraham: una justicia imputada, no un elogio de su conducta. Las señales de esa fe están en el relato (aborrecía el pecado, advirtió a sus yernos, obedeció).", "quien": "MacArthur; Biblia MacArthur; McGee", "fuentes": ["mac2p_03_a#24", "mbib2p_01_b#27", "mcg2p_02_b#12"]},
-        {"postura": "Su justicia se entiende sobre el fondo de la misericordia de Dios (Gn 19:16); Abraham ya lo consideraba entre los justos (Gn 18:32) y Jesús lo menciona (Lc 17:28). Lot fue moralmente débil y no se lo excusa.", "quien": "Kistemaker", "fuentes": ["kis2p_03_a#26"]},
-        {"postura": "Pedro podría hacerse eco de una tradición judía fuera de la Biblia que llama justo a Lot (el libro de la Sabiduría, 10:6), o de una tradición que el Comentario Moody considera fruto de revelación y que complementa el retrato de Génesis.", "quien": "Roldán (Mundo Hispano); Comentario Moody", "fuentes": ["cbmh2p_01_a#36", "moodynt_02_a#6"]}
-      ],
-      "nota": "Las posturas no se excluyen. Todos coinciden en que Lot no es un modelo de conducta y en que fue rescatado por misericordia."
-    },
-    {
-      "tema": "¿Ilustra el rescate de Lot un arrebatamiento de la iglesia antes de la tribulación?",
-      "posturas": [
-        {"postura": "Sí, como ilustración: Lot fue sacado antes del juicio, y así la iglesia será sacada antes de la Gran Tribulación; Dios no dejará atrás ni siquiera a creyentes débiles como Lot. McGee lee el v. 9 de modo que el Señor sabe librar de la prueba aunque nosotros no sepamos cómo.", "quien": "McGee (rapto pretribulacional)", "fuentes": ["mcg2p_02_b#15"]},
-        {"postura": "Lot y Noé ilustran el principio de que Dios libra a los creyentes de la ira destinada a los incrédulos (Ro 5:9); un arrebatamiento antes de la tribulación sería coherente con ese principio. Walvoord aclara que las ilustraciones no son prueba.", "quien": "Walvoord (pretribulacional)", "fuentes": ["r4b_001#8"]},
-        {"postura": "Desde su esquema dispensacional, Noé representa a los judíos creyentes preservados a través de la tribulación y Lot a la iglesia arrebatada antes de la destrucción.", "quien": "Wiersbe (dispensacional)", "fuentes": ["r1_007_a#14"]},
-        {"postura": "Sin aplicarlo a un esquema del fin: el versículo asegura que Dios libra hoy a los suyos de pruebas y tentaciones, como libró a Noé y a Lot, y que tiene el control (1Co 10:13; 2Ti 4:18).", "quien": "Kistemaker", "fuentes": ["kis2p_03_b#1", "kis2p_03_b#2"]}
-      ],
-      "nota": "Es una cuestión de escuelas escatológicas (pre, mid y postribulacional) que acá no se resuelve. Lo que todos afirman: el Señor sabe librar a los suyos."
-    },
-    {
-      "tema": "«Para ser castigados»: ¿castigo ya presente o solo futuro?",
-      "posturas": [
-        {"postura": "Presente: los injustos ya están siendo castigados mientras esperan el juicio, como presos que aguardan sentencia. El participio griego está en presente, y en el relato del rico y Lázaro el impío ya sufre antes del juicio (Lc 16:19-31).", "quien": "Kistemaker (con Kelly); MacArthur", "fuentes": ["kis2p_03_b#3", "mac2p_03_a#27", "kis2p_03_b#5"]},
-        {"postura": "Futuro: reservados para ser castigados en el día del juicio, como traduce la RVR1960.", "quien": "La lectura de la RVR1960, que Kistemaker presenta como alternativa", "fuentes": ["kis2p_03_b#3"]}
-      ],
-      "nota": "Kistemaker reconoce que no hay indicio de que los falsos maestros ya sufrieran castigo; pero su conducta mostraba que iban hacia su destrucción. En los dos casos el juicio final es seguro."
-    },
-    {
-      "tema": "¿Qué es el «señorío» que desprecian y quiénes son las «potestades superiores»?",
-      "posturas": [
-        {"postura": "El señorío es el de Cristo, el Señor que los compró y al que niegan (2P 2:1).", "quien": "Kistemaker; MacArthur; Biblia MacArthur; Nuevo Comentario Bíblico (como lectura más natural)", "fuentes": ["kis2p_03_b#4", "mac2p_03_a#28", "mbib2p_01_b#29", "ncb2p_01_b#9"]},
-        {"postura": "El señorío puede ser la autoridad de un orden angélico, como en Jd 8, Ef 1:21 y Col 1:16; o, en sentido amplio, el gobierno espiritual que Dios estableció. Ryrie cuenta 2P 2:10 entre los textos sobre rangos angélicos.", "quien": "Nuevo Comentario Bíblico (como posibilidad); Roldán; McGee; Ryrie", "fuentes": ["ncb2p_01_b#9", "cbmh2p_01_b#2", "mcg2p_02_b#17", "r1_016#23"]},
-        {"postura": "Las «potestades» (literalmente glorias) son ángeles caídos, que conservan algo de su gloria original: los mismos ángeles de 2:4.", "quien": "MacArthur; Biblia MacArthur; Núñez (siguiendo a Davids); Kelly y Blum según Kistemaker", "fuentes": ["mac2p_03_b#4", "mbib2p_01_b#30", "nunez2p_02_a#5", "kis2p_03_b#7"]},
-        {"postura": "Son dignatarios humanos de la iglesia o de la sociedad; o bien ángeles buenos, que sería lo natural si no fuera por el v. 11.", "quien": "Bigg (dignatarios), según Kistemaker", "fuentes": ["kis2p_03_b#7"]}
-      ],
-      "nota": "Roldán reconoce que son enigmas muy difíciles, ligados a la manera judía de hablar de los ángeles, y Kistemaker deja preguntas sin respuesta porque el texto no da más pistas. El v. 11 (día 33) vuelve sobre el tema."
-    }
-  ],
-  "antiguo_testamento": [
-    {"ref": "Gn 19:1-29", "nota": "El relato que Pedro resume: Sodoma y Gomorra como ejemplo de juicio, la demora de Lot y su rescate de la mano de los ángeles. Pedro suma un dato que Génesis no explicita: el tormento interior de Lot.", "fuentes": ["ncb2p_01_b#8", "kis2p_03_a#25", "moodynt_02_a#6", "r1_002#3"]},
-    {"ref": "Gn 13:10-13", "nota": "La elección de Lot, por razones económicas, de ir hacia el valle y hacia Sodoma: el comienzo del camino que lo llevó a vivir donde sufría.", "fuentes": ["kis2p_03_a#27", "r1_004#32", "r1_004#25"]},
-    {"ref": "Gn 18:22-33", "nota": "Abraham intercede por la ciudad y se detiene en diez justos. Kistemaker ve allí que Abraham consideraba justo a Lot; McGee destaca que Abraham no criticaba a Lot, oraba por él.", "fuentes": ["kis2p_03_a#26", "mcg2p_02_b#13"]},
-    {"ref": "Gn 15:6", "nota": "Abraham creyó y le fue contado por justicia: la base, según MacArthur, para entender por qué Lot es llamado justo.", "fuentes": ["mac2p_03_a#24", "mbib2p_01_b#27"]},
-    {"ref": "Mal 3:16-4:3", "nota": "MacArthur lo cita como patrón bíblico anterior de lo mismo que dice el v. 9: Dios sabe a quién juzgar y a quién rescatar.", "fuentes": ["mac2p_03_a#26"]}
-  ],
-  "biblioteca": [
-    {"texto": "Bosquejo de cuatro miradas a Sodoma: la de Lot, de codicia, que subordinó lo espiritual a lo material; la de Dios, de juicio y compasión; la de la esposa de Lot, de añoranza. Aclara que la mirada de codicia no hizo malvado a Lot, porque 2P 2:7-8 muestra que vivir en la ciudad lo afligía.", "autor": "Samuel Vila", "obra": "1000 bosquejos para predicadores (bosquejo 69)", "pagina": "PDF 47", "tipo": "ilustracion"},
-    {"texto": "La esposa de Lot salió de la ciudad, pero Sodoma seguía en su corazón; miró atrás con pesar y quedó como monumento de advertencia. Lockyer recuerda que Cristo usó este episodio para pedir a los creyentes que no miren atrás sino arriba, esperando su redención. También observa que la justicia de Lot se volvió inefectiva por sus concesiones: se casó con una mujer de Sodoma y consintió que sus hijas se casaran con sodomitas.", "autor": "Herbert Lockyer", "obra": "Todas las mujeres de la Biblia", "pagina": "PDF 402-404", "tipo": "ilustracion"},
-    {"texto": "La vida de Lot ilustra el efecto degenerador de elegir con egoísmo, el efecto de un ambiente pecaminoso sobre la familia y que Dios es el único juez verdadero del estado espiritual de una persona; el Diccionario agrega que, indirectamente, el término piadoso del v. 9 parece aplicarse a Lot.", "autor": "Diccionario Bíblico Mundo Hispano", "obra": "Diccionario Bíblico Mundo Hispano, art. Lot", "pagina": "vol. I, PDF 741", "tipo": "doctrina"},
-    {"texto": "Es posible que los hijos de Dios vivan entre los más profanos y conserven su integridad, porque hay más poder en la gracia de Cristo que mora en ellos que en las tentaciones o en el ejemplo del malo. Y, cuando nos proponemos hacer el mal, Dios suele poner estorbos en el camino, como diciendo: cuidado con lo que hacen.", "autor": "Matthew Henry", "obra": "Comentario de Matthew Henry", "pagina": "PDF 1067", "tipo": "aplicacion"},
-    {"texto": "Sanders incluye 2P 2:9 entre los pasajes que el universalismo no logra reconciliar con su doctrina, junto con Mt 25:41, 2Ts 1:8-9 y Ap 14:9-11: si todos se salvaran de todos modos, no tendrían sentido la gran sima de Lc 16:26 ni el camino angosto.", "autor": "J. Oswald Sanders", "obra": "¿Están perdidos?", "pagina": "PDF 8", "tipo": "apologetica"},
-    {"texto": "Craig, siguiendo a Bauckham, observa que la lista de ejemplos de juicio sigue una costumbre judía de enumerar casos (los ángeles caídos, la generación del diluvio, Sodoma, Israel en el desierto) y que el autor sigue el orden de Génesis pero agrega datos que Génesis no dice o solo deja implícitos.", "autor": "William Lane Craig", "obra": "El Adán histórico", "pagina": "PDF 258", "tipo": "historia"}
-  ],
-  "conexiones": [
-    {"ref": "Lc 17:28-33", "nota": "Jesús usa la destrucción de Sodoma y la liberación de Lot como ilustración de su venida y advierte que no hay que mirar atrás.", "fuentes": ["ncb2p_01_b#8", "r1_004#7"]},
-    {"ref": "Jd 7-8", "nota": "Judas usa los mismos ejemplos y describe con palabras casi iguales a quienes mancillan la carne y rechazan la autoridad; pero no tiene el detalle del sufrimiento de Lot ni la frase sobre el rescate de los piadosos.", "fuentes": ["ncb2p_01_b#9", "kis2p_03_b#4", "moodynt_02_a#7"]},
-    {"ref": "1Co 10:13", "nota": "Kistemaker lo une al v. 9: la misma seguridad pastoral de que Dios tiene el control de la prueba.", "fuentes": ["kis2p_03_b#1"]},
-    {"ref": "1P 1:6-7", "nota": "El Nuevo Comentario Bíblico remite aquí para el «librar de tentación», y agrega que el verbo traducido afligía originalmente era poner a prueba algo para comprobar su autenticidad: el piadoso en un mundo impío debe estar listo para probar la realidad de su fe.", "fuentes": ["ncb2p_01_b#9", "ncb2p_01_b#8"]},
-    {"ref": "Ap 20:11-15", "nota": "El gran trono blanco, donde según MacArthur y McGee se cumplirá el día del juicio del v. 9.", "fuentes": ["mac2p_03_a#27", "mcg2p_02_b#16"]},
-    {"ref": "1Co 15:33", "nota": "Núñez lo usa para mostrar por qué la santidad, además de dolerse del pecado, debe mantenerse lejos de él.", "fuentes": ["nunez2p_01_b#28"]},
-    {"ref": "Mt 7:15-20", "nota": "Por sus frutos los conocerán: Núñez resume con este texto cómo reconocer a los falsos maestros que el v. 10 describe.", "fuentes": ["nunez2p_02_a#3"]}
-  ],
-  "para_vivir": [
-    {"texto": "Lot vivía en Sodoma y sufría por lo que veía y oía. Núñez dice que la santidad reacciona ante el pecado en nosotros, en otros y en la sociedad, pero que también tiene que mantenerse lejos de él, porque lo santo puede contaminarse. McGee lo baja a algo concreto: lo que un hijo de Dios ve, oye y conversa termina llevándolo a actuar. Pueden revisar juntos qué entra en su casa por los ojos y los oídos.", "fuentes": ["nunez2p_01_b#28", "mcg2p_02_b#13", "mhenry_01_b#31"]},
-    {"texto": "Lot no llegó a Sodoma de golpe: miró, se acercó y se quedó. Wiersbe y Vila ven ahí lo que pasa cuando un creyente elige con criterios solo materiales. Las decisiones de trabajo, de casa o de barrio también son decisiones espirituales para la familia.", "fuentes": ["r1_004#32", "r1_004#25", "dbmh_01_b#30"]},
-    {"texto": "McGee destaca que Abraham no criticaba a Lot: oraba por él. Ante creyentes que viven mal o que se dejaron llevar por enseñanzas falsas, lo primero no es la crítica sino la oración.", "fuentes": ["mcg2p_02_b#13"]},
-    {"texto": "Si se sienten cansados o presionados por el ambiente, el consejo de Zorzoli es mirar cómo obró Dios en la historia, también en la de ustedes: Él no se sorprende por la maldad, y sabe librar a los que viven para Él.", "fuentes": ["cbmh2p_01_b#1", "kis2p_03_b#1"]},
-    {"texto": "El v. 10 describe una tentación que no es solo de los falsos maestros: seguir los deseos de la carne y no aceptar la autoridad del Señor sobre la propia vida. Núñez llama a no repetir ese error y a someterse a Jesús.", "fuentes": ["nunez2p_02_a#1", "nunez2p_02_c#1"]}
-  ],
-  "para_conversar": [
-    "¿Qué cosas de nuestro entorno (la cultura, el trabajo, las pantallas) nos afligen como a Lot, y cuáles ya no nos molestan porque nos acostumbramos?",
-    "Lot fue rescatado por misericordia a pesar de sus decisiones. ¿Eso nos da consuelo, nos da permiso o nos llama a una obediencia mayor? ¿Por qué?",
-    "¿Hay alguien por quien nos sale más fácil criticar que orar? ¿Cómo sería orar por esa persona como Abraham oró por Lot?"
-  ],
-  "para_orar": "Señor, gracias porque sabés librar a los tuyos y porque tu misericordia nos alcanza aun cuando elegimos mal. Danos un corazón que se duela del pecado sin acostumbrarse a él, guardanos de la prueba y del mal, y ayudanos a vivir de verdad bajo el señorío de Jesús.",
-  "visuales": ["mapa-oriente", "dg-2p-judas", "dg-falsos"],
-  "anexos": ["T2", "T4", "P2"],
-  "profundizar": [
-    {"titulo": "Amar a la persona, rechazar el pecado", "texto": "En sus consideraciones doctrinales sobre Sodoma, Kistemaker sostiene que Dios ama al pecador pero aborrece el pecado. Cita Lv 18:22; 20:13, Ro 1:26-27 y 1Co 6:9-11, donde Pablo dice que algunos de los corintios eran así, pero fueron lavados. Recomienda distinguir entre la condición y la conducta, mostrar amor y compasión a la persona homosexual, entender su necesidad de ser aceptada, desaprobar la práctica como pecado y llevarla a Cristo, que invita a los pecadores. Roldán, por su parte, señala que la destrucción de Sodoma se debió especialmente a la crueldad, la falta de misericordia y las prácticas homosexuales (Gn 19).", "fuentes": ["kis2p_03_a#29", "cbmh2p_01_a#36"]},
-    {"titulo": "Burlarse de los demonios: una advertencia actual", "texto": "Núñez y MacArthur ven un eco moderno del v. 10b en ciertos ministerios de liberación y guerra espiritual que se burlan de los demonios y de Satanás, alardean de su autoridad y, según MacArthur, hacen de eso un negocio; los compara con los hijos de Esceva (Hch 19:13-16). La Biblia MacArthur advierte que no hay que tratar con ligereza a Satanás y a sus ángeles. Núñez contrasta esa actitud con la del arcángel Miguel, que no maldijo al diablo sino que dejó que el Señor lo reprendiera (Jd 9). MacArthur ubica su crítica en los sectores extremos del movimiento carismático.", "fuentes": ["nunez2p_02_a#6", "mac2p_03_b#5", "mbib2p_01_b#30", "nunez2p_02_a#5"]},
-    {"titulo": "El deber de los pastores frente al error", "texto": "MacArthur abre la sección siguiente recordando que los pastores deben proteger al rebaño: instruir, reprender, corregir y refutar a los que contradicen (Tit 1:9). Cita al puritano John Owen: el descuido de ese deber ha causado la mayoría de las herejías, y muchas veces los cabecillas del error fueron maestros de la misma iglesia. Pedro, comisionado por Jesús para apacentar las ovejas (Jn 21:15-17), reserva sus palabras más fuertes para quienes cambian la leche pura de la Palabra por veneno. Núñez agrega que los falsos maestros siempre inventan nuevas formas de presentar la mentira, hoy a menudo apoyadas en supuestas nuevas revelaciones, y responde que el Espíritu vino a glorificar al Hijo (Jn 16:14), de modo que nada que venga de Él contradice la Palabra revelada.", "fuentes": ["mac2p_03_b#1", "nunez2p_02_a#4"]},
-    {"titulo": "El orden de los ejemplos en Pedro y en Judas", "texto": "Roldán observa que Judas da los ejemplos en otro orden (los que salieron de Egipto, los ángeles, Sodoma), mientras Pedro sigue el orden de Génesis (ángeles, diluvio, Sodoma), y considera probable que Pedro haya ordenado cronológicamente lo que Judas presentó fuera de orden. Esa opinión depende de cuál de las dos cartas se escribió primero, tema que se trata en el anexo sobre 2 Pedro.", "fuentes": ["cbmh2p_01_a#34"]}
+ "dia": 32,
+ "libro": "2P",
+ "desde": "2P 2:7",
+ "hasta": "2P 2:10",
+ "titulo": "El justo Lot: el Señor sabe librar a los suyos y reservar a los injustos",
+ "minutos": {
+  "lectura": 3,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "En el día anterior Pedro empezó una cadena de ejemplos de Génesis contra los falsos maestros del v. 3: los ángeles que pecaron, el mundo del diluvio (con Noé guardado) y Sodoma y Gomorra reducidas a ceniza.",
+  "ahora": "Hoy llega el cuarto ejemplo, de rescate: Lot. Con él se cierra la larga condicional del v. 4 y aparece la conclusión: el Señor sabe librar a los piadosos y reservar a los injustos para el juicio. Desde el v. 10b vuelve el retrato de los falsos maestros.",
+  "despues": "Mañana Pedro sigue con el retrato: ni siquiera los ángeles se atreven a lo que estos hombres hacen, y su camino es el de Balaam (2P 2:11-16).",
+  "fuentes": [
+   "bea2p_01_b#3",
+   "cbmh2p_01_a#34",
+   "mac2p_03_a#26",
+   "kis2p_03_b#4"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "2P 2:9",
+  "porque": "Es la conclusión de todo el párrafo y el consuelo central del día: la misma historia que muestra el juicio de Dios muestra que Él sabe cuidar a los suyos en medio de un mundo que los aflige."
+ },
+ "panorama": {
+  "texto": "Pedro cierra su repaso de la historia con un ejemplo que sorprende: Lot, cuya historia en Génesis tiene decisiones tristes, pero a quien Pedro llama justo tres veces y muestra sufriendo día tras día por el pecado de Sodoma. De ahí saca la conclusión que buscaba desde el v. 4: si Dios supo a quién juzgar y a quién rescatar en el pasado, sabe hacerlo hoy. Los lectores, rodeados de falsos maestros, podían reconocerse en Lot y consolarse. La otra mitad es seria: los injustos, en especial los que siguen la carne y desprecian la autoridad del Señor, están reservados para el día del juicio.",
+  "fuentes": [
+   "ncb2p_01_b#5",
+   "mac2p_03_a#26",
+   "mac2p_03_a#25",
+   "kis2p_03_a#26",
+   "kis2p_03_b#1"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "2P 2:7",
+   "titulo": "Lot, la contrapartida de Noé",
+   "notas": [
+    {
+     "texto": "Lot es el cuarto ejemplo y el único solo de rescate: los otros tres hablan de retribución. Kistemaker lo ve como contrapartida de Noé: en ambos, la destrucción de los malvados contrasta con el rescate de los justos. El juicio de Dios es seguro, severo y selectivo: no todos los ángeles cayeron, Noé se salvó, Lot fue sacado.",
+     "fuentes": [
+      "bea2p_01_b#3",
+      "kis2p_03_a#25",
+      "ncb2p_01_b#5"
+     ],
+     "tipo": "estructura"
+    },
+    {
+     "texto": "De Noé se dice que Dios lo guardó (v. 5); de Lot, que lo «libró». Según Kistemaker, la diferencia refleja la historia: Lot dudó, y los ángeles tuvieron que tomarlo de la mano a él, a su mujer y a sus hijas (Gn 19:16).",
+     "fuentes": [
+      "kis2p_03_a#25"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Pedro lo llama justo tres veces: el justo Lot (v. 7), este justo y su alma justa (v. 8). Lo subraya a propósito, porque Génesis no deja una impresión tan favorable (ver Interpretaciones).",
+     "fuentes": [
+      "kis2p_03_a#26",
+      "mac2p_03_a#24",
+      "mbib2p_01_b#27"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:7-8",
+   "titulo": "Un alma atormentada día tras día",
+   "notas": [
+    {
+     "texto": "Lot estaba «abrumado por la nefanda conducta de los malvados». Según MacArthur, «nefanda» (aselgeia) es conducta escandalosa; «malvados» (athesmoi), gente que vive sin normas ni frenos; «abrumado», agotado por el desgaste, con honda tribulación del alma. El Nuevo Comentario Bíblico agrega que «malvados» equivale a licenciosos: el fruto de no temer a Dios.",
+     "fuentes": [
+      "mac2p_03_a#25",
+      "ncb2p_01_b#8",
+      "mbib2p_01_b#27"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "El v. 8 insiste: «afligía cada día su alma justa». El verbo significa atormentar, torturar, y está en imperfecto: era su estado permanente. Para Kistemaker, Lot no se encalleció; como Noé, resistió el embate del pecado día tras día. El participio «que moraba entre ellos» admite dos lecturas: porque vivía allí sufría, o aunque vivía allí no dejaba de sufrir (Greijdanus).",
+     "fuentes": [
+      "kis2p_03_a#27",
+      "kis2p_03_a#28",
+      "mac2p_03_a#25"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Para MacArthur, ese dolor ante el pecado ajeno es señal segura de que Lot era creyente. Los lectores de Pedro, rodeados de falsos maestros, podían reconocerse en él; al mostrarlo rescatado, Pedro los consuela. La Biblia MacArthur lamenta que hoy muchos creyentes no se sientan así de atormentados por el pecado de su sociedad.",
+     "fuentes": [
+      "mac2p_03_a#25",
+      "mbib2p_01_b#27"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:7-8",
+   "titulo": "Justo, pero no ejemplar",
+   "notas": [
+    {
+     "texto": "Los autores no esconden el historial de Lot: eligió el valle por razones económicas (Gn 13:10-11), terminó viviendo en Sodoma (Gn 14:12), ofreció a sus hijas a los hombres de la ciudad (Gn 19:8) y la embriaguez lo llevó al incesto (Gn 19:30-38). Kistemaker concluye que era moralmente débil y que no hay que excusarlo. Wiersbe y McGee admiten que, leyendo solo Génesis, uno dudaría de que fuera salvo; Wiersbe lo ve como el creyente mundano que se salva, pero como por fuego (1Co 3:15).",
+     "fuentes": [
+      "kis2p_03_a#26",
+      "kis2p_03_a#27",
+      "nunez2p_01_b#27",
+      "mac2p_03_a#24",
+      "r1_004#32",
+      "mcg2p_02_b#12"
+     ],
+     "tipo": "personaje"
+    },
+    {
+     "texto": "Aun así hay señales de fe en el relato: aborrecía los pecados de su ciudad, protegió a los ángeles, advirtió a sus yernos (Gn 19:14) y obedeció al no quedarse a mirar (Gn 19:17). Núñez cita a J. Daryl Charles: Noé y Lot son mundos distintos como ejemplo, pero ambos recibieron el favor inmerecido de Dios. Y agrega que eso no autoriza a pecar: la bondad de Dios debería llevarnos a una obediencia mayor.",
+     "fuentes": [
+      "mac2p_03_a#24",
+      "mbib2p_01_b#27",
+      "nunez2p_01_b#28"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:9",
+   "titulo": "«Sabe el Señor librar… a los piadosos»",
+   "notas": [
+    {
+     "texto": "Aquí termina la condicional del v. 4: si Dios no perdonó a los ángeles…, ni al mundo antiguo…, si condenó a Sodoma y libró a Lot, entonces el Señor sabe librar y sabe reservar. Zorzoli destaca la secuencia porque, si, entonces: lo que Dios hizo en el pasado tiene consecuencias hoy.",
+     "fuentes": [
+      "cbmh2p_01_a#34",
+      "cbmh2p_01_a#37",
+      "mac2p_03_a#26"
+     ],
+     "tipo": "estructura"
+    },
+    {
+     "texto": "El Nuevo Comentario Bíblico nota que lo lógico hubiera sido terminar con el castigo, pero Pedro rompe la sintaxis para poner primero la misericordia de Dios, quizá movido por el sufrimiento de Lot, detalle que Judas no tiene. El Comentario Moody coincide: en la conclusión, el consuelo va primero.",
+     "fuentes": [
+      "ncb2p_01_b#9",
+      "moodynt_02_a#7"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "«Tentación» (peirasmos) también es prueba; MacArthur ve aquí el matiz de un ataque que busca destruir. El Nuevo Comentario Bíblico remite a 1P 1:6-7 y 5:10. Kistemaker observa que «librar» está en presente: el cuidado de Dios es constante.",
+     "fuentes": [
+      "mac2p_03_a#26",
+      "mbib2p_01_b#28",
+      "ncb2p_01_b#9",
+      "kis2p_03_b#5"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Kistemaker lo lee como palabra de pastor. Cita a Calvino, que pone en boca del creyente desanimado una pregunta muy humana: si Dios quiere a los suyos a salvo, ¿por qué no los junta en un rincón de la tierra, lejos de los malos? Pedro no promete sacarlos del mundo, sino que Dios tiene el control (1Co 10:13): si protegió a Noé y rescató a Lot, sabrá librar hoy a los suyos. Esto lo afirman todos; si el rescate de Lot ilustra además un momento futuro de la iglesia, ver Interpretaciones.",
+     "fuentes": [
+      "kis2p_03_b#1",
+      "kis2p_01_b#15"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:9",
+   "titulo": "«Reservar a los injustos» para el día del juicio",
+   "notas": [
+    {
+     "texto": "La contracara: los injustos están custodiados como presos que esperan comparecer ante el tribunal (Kistemaker) y, mientras tanto, siguen acumulando culpa (MacArthur). Ambos entienden que ya están bajo castigo mientras esperan; la RVR1960 lo traduce en futuro (ver Interpretaciones). MacArthur identifica ese día con el gran trono blanco (Ap 20:11-15).",
+     "fuentes": [
+      "kis2p_03_b#3",
+      "mac2p_03_a#27",
+      "mbib2p_01_b#28"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Grudem muestra la lógica: los juicios de Dios en la historia se cumplieron con seguridad, y por eso anuncian un juicio final. Núñez advierte que hoy muchos, apelando a que Dios es amor, niegan el infierno o la disciplina de Dios; Pedro dio estos ejemplos justamente para que no escucharan a quienes negaban el juicio.",
+     "fuentes": [
+      "r1_014_a#18",
+      "nunez2p_01_b#30"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:10a",
+   "titulo": "«Y mayormente…»: los que siguen la carne y desprecian el señorío",
+   "notas": [
+    {
+     "texto": "El juicio alcanza «mayormente» a dos rasgos de los falsos maestros, que repiten cómo los presentó al principio (vv. 1-2): la sensualidad y el desprecio del Señor; la Biblia MacArthur los resume como lujuria y arrogancia. Literalmente son los que van tras la carne con deseo de contaminación (miasmos, de donde viene miasma): contaminarse y contaminar a otros, como forma de vida diaria. Kistemaker y el Nuevo Comentario Bíblico, comparando con Jd 7-8, piensan que se alude a prácticas como las de Sodoma.",
+     "fuentes": [
+      "kis2p_03_b#4",
+      "mac2p_03_a#28",
+      "mbib2p_01_b#29",
+      "ncb2p_01_b#9",
+      "kis2p_03_b#5"
+     ],
+     "tipo": "falsos_maestros"
+    },
+    {
+     "texto": "Además «desprecian el señorío» (kyriotes, de la raíz de Señor): se identificaban con Cristo por fuera pero no vivían bajo su señorío, y el verbo implica burla y menosprecio. Algunos leen aquí una autoridad angélica (ver Interpretaciones).",
+     "fuentes": [
+      "mbib2p_01_b#29",
+      "kis2p_03_b#4",
+      "ncb2p_01_b#9"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  },
+  {
+   "rango": "2P 2:10b",
+   "titulo": "«Atrevidos y contumaces»",
+   "notas": [
+    {
+     "texto": "Con el v. 10b empieza un retrato que sigue mañana. «Atrevidos» (tolmetai): descarados que desafían a Dios sin medir consecuencias; «contumaces» (authadeis): los que se complacen en sí mismos y siguen su camino a cualquier precio. Y «no temen decir mal» (blasfemar) de las potestades, literalmente glorias: quiénes son es una pregunta difícil (ver Interpretaciones), pero la arrogancia es clara.",
+     "fuentes": [
+      "mac2p_03_b#3",
+      "kis2p_03_b#6",
+      "mac2p_03_b#4",
+      "kis2p_03_b#7"
+     ],
+     "tipo": "falsos_maestros"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "2P 2:7",
+   "griego": "καταπονούμενον",
+   "translit": "kataponoúmenon",
+   "significado": "Abrumado, agotado por el desgaste; atribulado en lo profundo del ser.",
+   "fuentes": [
+    "mbib2p_01_b#27",
+    "mac2p_03_a#25",
+    "mcg2p_02_b#11"
+   ]
+  },
+  {
+   "ref": "2P 2:8",
+   "griego": "ἐβασάνιζεν",
+   "translit": "ebasánizen",
+   "significado": "Atormentaba, torturaba.",
+   "fuentes": [
+    "kis2p_03_a#28",
+    "mac2p_03_a#25",
+    "kis2p_03_a#27"
+   ]
+  },
+  {
+   "ref": "2P 2:8",
+   "griego": "ἐγκατοικῶν",
+   "translit": "enkatoikōn",
+   "significado": "Que habitaba entre ellos.",
+   "fuentes": [
+    "kis2p_03_a#28",
+    "kis2p_03_a#27"
+   ]
+  },
+  {
+   "ref": "2P 2:9",
+   "griego": "πειρασμοῦ",
+   "translit": "peirasmoú",
+   "significado": "Tentación o prueba; aquí, según MacArthur, con matiz de ataque que busca destruir.",
+   "fuentes": [
+    "mac2p_03_a#26",
+    "mbib2p_01_b#28"
+   ]
+  },
+  {
+   "ref": "2P 2:9",
+   "griego": "κολαζομένους",
+   "translit": "kolazoménous",
+   "significado": "Siendo castigados.",
+   "fuentes": [
+    "kis2p_03_b#5",
+    "kis2p_03_b#3"
+   ]
+  },
+  {
+   "ref": "2P 2:10",
+   "griego": "κυριότητος",
+   "translit": "kyriótētos",
+   "significado": "Señorío, autoridad; de la raíz de señor.",
+   "fuentes": [
+    "ncb2p_01_b#9",
+    "cbmh2p_01_b#2",
+    "mbib2p_01_b#29"
+   ]
+  },
+  {
+   "ref": "2P 2:10",
+   "griego": "αὐθάδεις",
+   "translit": "authádeis",
+   "significado": "Contumaces, arrogantes: los que se complacen en sí mismos y se obstinan en su camino.",
+   "fuentes": [
+    "kis2p_03_b#6",
+    "mac2p_03_b#3"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Los falsos maestros decían identificarse con Cristo pero despreciaban su señorío. Confesar a Jesús como Señor es vivir bajo su autoridad; Núñez llama a someterse a Jesús, que sabe librar de la prueba a los que viven como Dios quiere.",
+   "refs": [
+    "2P 2:1",
+    "2P 2:10"
+   ],
+   "fuentes": [
+    "mbib2p_01_b#29",
+    "mac2p_03_a#28",
+    "nunez2p_02_a#1"
+   ]
+  },
+  {
+   "texto": "Jesús mismo usó la destrucción de Sodoma y la liberación de Lot como ilustración de su venida, y advirtió no mirar atrás.",
+   "refs": [
+    "Lc 17:28-33"
+   ],
+   "fuentes": [
+    "ncb2p_01_b#8",
+    "r1_004#7",
+    "kis2p_03_a#26"
+   ]
+  },
+  {
+   "texto": "«Librar de tentación» recuerda la última petición del Padrenuestro: lo que Jesús nos manda pedir, Pedro asegura que el Señor sabe hacerlo.",
+   "refs": [
+    "Mt 6:13"
+   ],
+   "fuentes": [
+    "kis2p_03_b#2"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Por qué Pedro llama justo a Lot?",
+   "posturas": [
+    {
+     "postura": "Justicia imputada por la fe, como la de Abraham (Gn 15:6; Ro 4:3); hay señales de fe en el relato.",
+     "quien": "MacArthur; Biblia MacArthur; McGee",
+     "fuentes": [
+      "mac2p_03_a#24",
+      "mbib2p_01_b#27",
+      "mcg2p_02_b#12"
+     ]
+    },
+    {
+     "postura": "Justo sobre el fondo de la misericordia de Dios (Gn 19:16); Abraham lo contaba entre los justos (Gn 18:32). Fue débil y no se lo excusa.",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kis2p_03_a#26"
+     ]
+    },
+    {
+     "postura": "Pedro se haría eco de una tradición que lo llama justo (Roldán menciona Sabiduría 10:6); el Moody la considera fruto de revelación.",
+     "quien": "Roldán (Mundo Hispano); Comentario Moody",
+     "fuentes": [
+      "cbmh2p_01_a#36",
+      "moodynt_02_a#6"
+     ]
+    }
+   ],
+   "nota": "No se excluyen: todos coinciden en que fue rescatado por misericordia."
+  },
+  {
+   "tema": "¿Ilustra el rescate de Lot un arrebatamiento de la iglesia antes de la tribulación?",
+   "posturas": [
+    {
+     "postura": "Lot fue sacado antes del juicio; así la iglesia será sacada antes de la Gran Tribulación, incluso los creyentes débiles.",
+     "quien": "McGee (rapto pretribulacional)",
+     "fuentes": [
+      "mcg2p_02_b#15"
+     ]
+    },
+    {
+     "postura": "Lot y Noé ilustran que Dios libra a los creyentes de la ira (Ro 5:9); un rapto previo sería coherente, aunque las ilustraciones no son prueba.",
+     "quien": "Walvoord (pretribulacional)",
+     "fuentes": [
+      "r4b_001#8"
+     ]
+    },
+    {
+     "postura": "Noé representa a los judíos creyentes preservados en la tribulación; Lot, a la iglesia arrebatada.",
+     "quien": "Wiersbe (dispensacional)",
+     "fuentes": [
+      "r1_007_a#14"
+     ]
+    },
+    {
+     "postura": "Sin aplicarlo a un esquema del fin: Dios libra hoy a los suyos de pruebas y tentaciones (1Co 10:13; 2Ti 4:18).",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kis2p_03_b#1",
+      "kis2p_03_b#2"
+     ]
+    }
+   ],
+   "nota": "Cuestión de escuelas escatológicas que acá no se resuelve; todos afirman que el Señor sabe librar a los suyos."
+  },
+  {
+   "tema": "«Para ser castigados»: ¿castigo ya presente o solo futuro?",
+   "posturas": [
+    {
+     "postura": "Presente: ya castigados mientras esperan, como presos; el participio es presente, y el rico de Lc 16 sufre antes del juicio.",
+     "quien": "Kistemaker (con Kelly); MacArthur",
+     "fuentes": [
+      "kis2p_03_b#3",
+      "mac2p_03_a#27",
+      "kis2p_03_b#5"
+     ]
+    },
+    {
+     "postura": "Futuro: reservados para ser castigados en el día del juicio.",
+     "quien": "La lectura de la RVR1960, que Kistemaker presenta como alternativa",
+     "fuentes": [
+      "kis2p_03_b#3"
+     ]
+    }
+   ],
+   "nota": "Kistemaker admite que no hay indicio de que los falsos maestros ya sufrieran castigo. El juicio final es seguro en ambas lecturas."
+  },
+  {
+   "tema": "¿Qué es el «señorío» que desprecian y quiénes son las «potestades superiores»?",
+   "posturas": [
+    {
+     "postura": "El señorío es el de Cristo, el Señor al que niegan (2P 2:1).",
+     "quien": "Kistemaker; MacArthur; Biblia MacArthur; Nuevo Comentario Bíblico (como lectura más natural)",
+     "fuentes": [
+      "kis2p_03_b#4",
+      "mac2p_03_a#28",
+      "mbib2p_01_b#29",
+      "ncb2p_01_b#9"
+     ]
+    },
+    {
+     "postura": "El señorío sería una autoridad angélica o el gobierno espiritual de Dios (Jd 8; Ef 1:21; Col 1:16).",
+     "quien": "Nuevo Comentario Bíblico (como posibilidad); Roldán; McGee; Ryrie",
+     "fuentes": [
+      "ncb2p_01_b#9",
+      "cbmh2p_01_b#2",
+      "mcg2p_02_b#17",
+      "r1_016#23"
+     ]
+    },
+    {
+     "postura": "Las «potestades» (glorias) son ángeles caídos, que conservan algo de su gloria: los de 2:4.",
+     "quien": "MacArthur; Biblia MacArthur; Núñez (siguiendo a Davids); Kelly y Blum según Kistemaker",
+     "fuentes": [
+      "mac2p_03_b#4",
+      "mbib2p_01_b#30",
+      "nunez2p_02_a#5",
+      "kis2p_03_b#7"
+     ]
+    },
+    {
+     "postura": "Dignatarios humanos, o ángeles buenos.",
+     "quien": "Bigg (dignatarios), según Kistemaker",
+     "fuentes": [
+      "kis2p_03_b#7"
+     ]
+    }
+   ],
+   "nota": "Roldán y Kistemaker reconocen que son enigmas difíciles. El v. 11 (día 33) vuelve sobre el tema."
+  }
+ ],
+ "antiguo_testamento": [
+  {
+   "ref": "Gn 19:1-29",
+   "nota": "El relato que Pedro resume; él suma algo que Génesis no explicita: el tormento interior de Lot.",
+   "fuentes": [
+    "ncb2p_01_b#8",
+    "kis2p_03_a#25",
+    "moodynt_02_a#6",
+    "r1_002#3"
+   ]
+  },
+  {
+   "ref": "Gn 13:10-13",
+   "nota": "La elección económica de Lot, comienzo del camino hacia Sodoma.",
+   "fuentes": [
+    "kis2p_03_a#27",
+    "r1_004#32",
+    "r1_004#25"
+   ]
+  },
+  {
+   "ref": "Gn 18:22-33",
+   "nota": "Abraham intercede por la ciudad; McGee destaca que oraba por Lot en vez de criticarlo.",
+   "fuentes": [
+    "kis2p_03_a#26",
+    "mcg2p_02_b#13"
+   ]
+  },
+  {
+   "ref": "Gn 15:6",
+   "nota": "Base, según MacArthur, para llamar justo a Lot.",
+   "fuentes": [
+    "mac2p_03_a#24",
+    "mbib2p_01_b#27"
+   ]
+  },
+  {
+   "ref": "Mal 3:16-4:3",
+   "nota": "Patrón previo, según MacArthur: Dios sabe a quién juzgar y a quién rescatar.",
+   "fuentes": [
+    "mac2p_03_a#26"
+   ]
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "Cuatro miradas a Sodoma: la de Lot, de codicia; la de Dios, de juicio y compasión; la de su esposa, de añoranza. La codicia no hizo malvado a Lot: 2P 2:7-8 muestra que la ciudad lo afligía.",
+   "autor": "Samuel Vila",
+   "obra": "1000 bosquejos para predicadores (bosquejo 69)",
+   "pagina": "PDF 47",
+   "tipo": "ilustracion"
+  },
+  {
+   "texto": "Los hijos de Dios pueden vivir entre los más profanos y conservar su integridad, porque la gracia de Cristo que mora en ellos es más poderosa que la tentación.",
+   "autor": "Matthew Henry",
+   "obra": "Comentario de Matthew Henry",
+   "pagina": "PDF 1067",
+   "tipo": "aplicacion"
+  },
+  {
+   "texto": "2P 2:9 es uno de los pasajes que el universalismo no logra reconciliar con su doctrina.",
+   "autor": "J. Oswald Sanders",
+   "obra": "¿Están perdidos?",
+   "pagina": "PDF 8",
+   "tipo": "apologetica"
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Lc 17:28-33",
+   "nota": "Sodoma y Lot como ilustración de la venida de Jesús.",
+   "fuentes": [
+    "ncb2p_01_b#8",
+    "r1_004#7"
+   ]
+  },
+  {
+   "ref": "Jd 7-8",
+   "nota": "Los mismos ejemplos y rasgos, pero sin el sufrimiento de Lot ni el rescate de los piadosos.",
+   "fuentes": [
+    "ncb2p_01_b#9",
+    "kis2p_03_b#4",
+    "moodynt_02_a#7"
+   ]
+  },
+  {
+   "ref": "1Co 10:13",
+   "nota": "Kistemaker lo une al v. 9: la misma seguridad pastoral de que Dios tiene el control de la prueba.",
+   "fuentes": [
+    "kis2p_03_b#1"
+   ]
+  },
+  {
+   "ref": "Mt 7:15-20",
+   "nota": "Por sus frutos los conocerán: Núñez resume con este texto cómo reconocer a los falsos maestros que el v. 10 describe.",
+   "fuentes": [
+    "nunez2p_02_a#3"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Lot sufría por lo que veía y oía. Núñez dice que la santidad reacciona ante el pecado, pero también se mantiene lejos de él (1Co 15:33); McGee advierte que lo que vemos, oímos y conversamos termina en acciones. Revisen juntos qué entra en su casa por los ojos y los oídos.",
+   "fuentes": [
+    "nunez2p_01_b#28",
+    "mcg2p_02_b#13"
+   ]
+  },
+  {
+   "texto": "Lot miró, se acercó y se quedó. Las decisiones de trabajo o de casa también son decisiones espirituales para la familia.",
+   "fuentes": [
+    "r1_004#32",
+    "r1_004#25",
+    "dbmh_01_b#30"
+   ]
+  },
+  {
+   "texto": "Abraham no criticaba a Lot: oraba por él. Ante creyentes que viven mal o se dejan llevar por el error, lo primero es orar.",
+   "fuentes": [
+    "mcg2p_02_b#13"
+   ]
+  },
+  {
+   "texto": "Si el ambiente los cansa, miren cómo obró Dios en la historia, también en la suya: Él no se sorprende por la maldad y sabe librar a los que viven para Él.",
+   "fuentes": [
+    "cbmh2p_01_b#1",
+    "kis2p_03_b#1"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "¿Qué cosas de nuestro entorno (la cultura, el trabajo, las pantallas) nos afligen como a Lot, y cuáles ya no nos molestan porque nos acostumbramos?",
+  "Lot fue rescatado por misericordia a pesar de sus decisiones. ¿Eso nos da consuelo, nos da permiso o nos llama a una obediencia mayor? ¿Por qué?",
+  "¿Hay alguien por quien nos sale más fácil criticar que orar? ¿Cómo sería orar por esa persona como Abraham oró por Lot?"
+ ],
+ "para_orar": "Señor, gracias porque sabés librar a los tuyos y porque tu misericordia nos alcanza aun cuando elegimos mal. Danos un corazón que se duela del pecado sin acostumbrarse a él, guardanos de la prueba y del mal, y ayudanos a vivir de verdad bajo el señorío de Jesús.",
+ "visuales": [
+  "mapa-oriente",
+  "dg-2p-judas",
+  "dg-falsos"
+ ],
+ "anexos": [
+  "T2",
+  "T4",
+  "P2"
+ ],
+ "profundizar": [
+  {
+   "titulo": "Amar a la persona, rechazar el pecado",
+   "texto": "En sus consideraciones doctrinales sobre Sodoma, Kistemaker sostiene que Dios ama al pecador pero aborrece el pecado. Cita Lv 18:22; 20:13, Ro 1:26-27 y 1Co 6:9-11, donde Pablo dice que algunos de los corintios eran así, pero fueron lavados. Recomienda distinguir entre la condición y la conducta, mostrar amor y compasión a la persona homosexual, entender su necesidad de ser aceptada, desaprobar la práctica como pecado y llevarla a Cristo, que invita a los pecadores. Roldán, por su parte, señala que la destrucción de Sodoma se debió especialmente a la crueldad, la falta de misericordia y las prácticas homosexuales (Gn 19).",
+   "fuentes": [
+    "kis2p_03_a#29",
+    "cbmh2p_01_a#36"
+   ]
+  },
+  {
+   "titulo": "Burlarse de los demonios: una advertencia actual",
+   "texto": "Núñez y MacArthur ven un eco moderno del v. 10b en ciertos ministerios de liberación y guerra espiritual que se burlan de los demonios y de Satanás, alardean de su autoridad y, según MacArthur, hacen de eso un negocio; los compara con los hijos de Esceva (Hch 19:13-16). La Biblia MacArthur advierte que no hay que tratar con ligereza a Satanás y a sus ángeles. Núñez contrasta esa actitud con la del arcángel Miguel, que no maldijo al diablo sino que dejó que el Señor lo reprendiera (Jd 9). MacArthur ubica su crítica en los sectores extremos del movimiento carismático.",
+   "fuentes": [
+    "nunez2p_02_a#6",
+    "mac2p_03_b#5",
+    "mbib2p_01_b#30",
+    "nunez2p_02_a#5"
+   ]
+  },
+  {
+   "titulo": "El deber de los pastores frente al error",
+   "texto": "MacArthur abre la sección siguiente recordando que los pastores deben proteger al rebaño: instruir, reprender, corregir y refutar a los que contradicen (Tit 1:9). Cita al puritano John Owen: el descuido de ese deber ha causado la mayoría de las herejías, y muchas veces los cabecillas del error fueron maestros de la misma iglesia. Pedro, comisionado por Jesús para apacentar las ovejas (Jn 21:15-17), reserva sus palabras más fuertes para quienes cambian la leche pura de la Palabra por veneno. Núñez agrega que los falsos maestros siempre inventan nuevas formas de presentar la mentira, hoy a menudo apoyadas en supuestas nuevas revelaciones, y responde que el Espíritu vino a glorificar al Hijo (Jn 16:14), de modo que nada que venga de Él contradice la Palabra revelada.",
+   "fuentes": [
+    "mac2p_03_b#1",
+    "nunez2p_02_a#4"
+   ]
+  },
+  {
+   "titulo": "El orden de los ejemplos en Pedro y en Judas",
+   "texto": "Roldán observa que Judas da los ejemplos en otro orden (los que salieron de Egipto, los ángeles, Sodoma), mientras Pedro sigue el orden de Génesis (ángeles, diluvio, Sodoma), y considera probable que Pedro haya ordenado cronológicamente lo que Judas presentó fuera de orden. Esa opinión depende de cuál de las dos cartas se escribió primero, tema que se trata en el anexo sobre 2 Pedro.",
+   "fuentes": [
+    "cbmh2p_01_a#34"
+   ]
+  },
+  {
+   "titulo": "Herbert Lockyer: Todas las mujeres de la Biblia",
+   "texto": "La esposa de Lot salió de la ciudad, pero Sodoma seguía en su corazón; miró atrás con pesar y quedó como monumento de advertencia. Lockyer recuerda que Cristo usó este episodio para pedir a los creyentes que no miren atrás sino arriba, esperando su redención. También observa que la justicia de Lot se volvió inefectiva por sus concesiones: se casó con una mujer de Sodoma y consintió que sus hijas se casaran con sodomitas.",
+   "fuentes": [
+    "r1_004#7",
+    "r1_004#6"
+   ]
+  },
+  {
+   "titulo": "Diccionario Bíblico Mundo Hispano: Diccionario Bíblico Mundo Hispano, art. Lot",
+   "texto": "La vida de Lot ilustra el efecto degenerador de elegir con egoísmo, el efecto de un ambiente pecaminoso sobre la familia y que Dios es el único juez verdadero del estado espiritual de una persona; el Diccionario agrega que, indirectamente, el término piadoso del v. 9 parece aplicarse a Lot.",
+   "fuentes": [
+    "dbmh_01_b#30"
+   ]
+  },
+  {
+   "titulo": "William Lane Craig: El Adán histórico",
+   "texto": "Craig, siguiendo a Bauckham, observa que la lista de ejemplos de juicio sigue una costumbre judía de enumerar casos (los ángeles caídos, la generación del diluvio, Sodoma, Israel en el desierto) y que el autor sigue el orden de Génesis pero agrega datos que Génesis no dice o solo deja implícitos.",
+   "fuentes": [
+    "r1_002#3"
+   ]
+  }
+ ]
 }

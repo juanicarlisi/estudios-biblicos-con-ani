@@ -6,9 +6,9 @@
   "columnas": ["Prueba", "La pregunta", "Dónde aparece", "Qué subrayan los autores"],
   "filas": [
     {
-      "celdas": ["Doctrinal (teológica)", "¿Creemos correctamente sobre Cristo y sobre el pecado?", "1:1-2:2; 2:18-27; 4:1-6; 4:15", "Confesar que Jesucristo vino en carne, contra los que negaban la encarnación; quien niega al Hijo no tiene al Padre. MacArthur suma la verdad sobre el propio pecado (1:5-10)"],
+      "celdas": ["Doctrinal (teológica)", "¿Creemos correctamente sobre Cristo y sobre el pecado?", "1:1-2:2; 2:18-27; 4:1-6; 4:15", "Confesar que Jesucristo vino en carne, frente a quienes negaban la encarnación; los anticristos niegan la fe (2:22-25). MacArthur suma la verdad sobre el propio pecado (1:5-10)"],
       "ref": "1J 4:2-3",
-      "fuentes": ["bea1j_01_a#3", "mbib1j_01_a#18", "mac1j_01#20", "mac1j_03#16", "cbmh1j_02#23", "mbib1j_01_c#18", "mbib1j_01_d#9"]
+      "fuentes": ["bea1j_01_a#3", "mbib1j_01_a#18", "mac1j_01#20", "mac1j_03#16", "cbmh1j_02#23", "mbib1j_01_c#18", "mbib1j_01_d#9", "r1_007_b#5"]
     },
     {
       "celdas": ["Moral: obediencia", "¿Guardamos sus mandamientos?", "2:3-6; 5:2-3", "El que dice conocerlo y no guarda sus mandamientos miente. Las obras no salvan, pero la obediencia es la señal visible de la salvación (MacArthur)"],
@@ -36,11 +36,11 @@
       "fuentes": ["mac1j_06_b#9", "r1_010#19", "r1_018_a#13", "mac1j_01#20", "mbib1j_01_a#18"]
     },
     {
-      "celdas": ["Lo que no exigen", "¿Hay que ser perfecto para pasar las pruebas?", "1:7-2:2", "No: andar en la luz no es andar sin manchas sino ver el pecado, confesarlo y recibir perdón; si alguno peca, tiene Abogado (Piper)"],
+      "celdas": ["Lo que no exigen", "¿Hay que ser perfecto para pasar las pruebas?", "1:7-10", "No: andar en la luz no es andar sin manchas sino ver el pecado, confesarlo y recibir perdón para seguir adelante (Piper)"],
       "ref": "1J 1:7-10",
       "fuentes": ["r1_012_a#7"]
     }
   ],
-  "nota": "Los nombres varían según el autor: Robert Law (citado por Blaney en Beacon, wesleyano) habla de pruebas teológica, moral y social; MacArthur (evangélico, bautista reformado), de pruebas doctrinales y morales (obediencia y amor) que vuelven en espiral; Wiersbe, de obediencia, amor y verdad; Conner (Mundo Hispano, bautista) enumera siete. Las referencias de la columna «Dónde aparece» son las que dan estos autores.",
+  "nota": "Los nombres varían según el autor: Robert Law (citado por Blaney en Beacon, wesleyano) habla de pruebas teológica, moral y social; MacArthur (evangélico, bautista reformado), de pruebas doctrinales y morales (obediencia y amor) que vuelven en espiral; Wiersbe, de obediencia, amor y verdad; Conner (citado en el Comentario Mundo Hispano, bautista) enumera siete. Las referencias de la columna «Dónde aparece» son las que dan estos autores.",
   "dias": [40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
 }

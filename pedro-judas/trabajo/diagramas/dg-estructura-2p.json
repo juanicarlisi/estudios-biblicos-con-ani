@@ -1,0 +1,99 @@
+{
+ "id": "dg-estructura-2p",
+ "titulo": "2 Pedro en una página",
+ "bajada": "Las tres partes del estudio (crecer en la fe, los falsos maestros, el día del Señor), qué trata cada sección y cómo la titulan los distintos bosquejos.",
+ "tipo": "tabla",
+ "columnas": ["Parte", "Sección", "Pasaje", "De qué trata", "En los bosquejos de los autores"],
+ "filas": [
+  {
+   "celdas": [
+    "1. Crecer en la fe y la palabra segura",
+    "Saludo",
+    "1:1-2",
+    "Simón Pedro escribe a quienes alcanzaron una fe igualmente preciosa; gracia y paz en el conocimiento de Dios y de Jesús.",
+    "Saludo en todos los bosquejos. Para el Diccionario MH, conocer y conocimiento es la clave de toda la carta y ya aparece en 1:2."
+   ],
+   "ref": "2P 1:1-2",
+   "fuentes": ["kis2p_01_b#20", "mac2p_01_a#36", "dbmh_02_a#22"]
+  },
+  {
+   "celdas": [
+    "1. Crecer en la fe y la palabra segura",
+    "Promesas y virtudes",
+    "1:3-11",
+    "Dios dio todo lo necesario y preciosas promesas; hay que añadir a la fe virtudes hasta llegar al amor, y así se confirma el llamado y la entrada al reino.",
+    "Kistemaker: promesas y virtudes. MacArthur: comprender la salvación. Wiersbe: el conocimiento dado y el crecimiento en él. Nuevo Comentario Bíblico: un llamado al crecimiento espiritual."
+   ],
+   "ref": "2P 1:3-11",
+   "fuentes": ["kis2p_01_b#20", "mac2p_01_a#36", "r1_006#2", "ncb2p_01_a#16"]
+  },
+  {
+   "celdas": [
+    "1. Crecer en la fe y la palabra segura",
+    "Recordar y la palabra segura",
+    "1:12-21",
+    "Pedro, cerca de partir, quiere que recuerden; fue testigo de la majestad de Cristo en el monte; la profecía no vino por voluntad humana sino por el Espíritu Santo.",
+    "Kistemaker: revelación divina (memoria, testigos, profecía). MacArthur: comprender las Escrituras. Roldán: doble testimonio de la venida del Señor (1:16-21). McGee: la autoridad de las Escrituras."
+   ],
+   "ref": "2P 1:12-21",
+   "fuentes": ["kis2p_01_b#20", "mac2p_01_a#36", "cbmh2p_01_a#7", "mcg2p_01_a#7", "nunez2p_01_b#1"]
+  },
+  {
+   "celdas": [
+    "2. Los falsos maestros",
+    "Su llegada y su juicio",
+    "2:1-10",
+    "Habrá falsos maestros con herejías destructoras y avaricia; Dios no perdonó a los ángeles, al mundo del diluvio ni a Sodoma, y supo librar al justo Lot.",
+    "Kistemaker: herejías, prácticas y condenación (2:1-10a). MacArthur: su infiltración y su juicio. Wiersbe: su condenación (2:1-9)."
+   ],
+   "ref": "2P 2:1-10",
+   "fuentes": ["kis2p_01_b#20", "mac2p_01_a#36", "r1_006#2"]
+  },
+  {
+   "celdas": [
+    "2. Los falsos maestros",
+    "Su conducta y su fin",
+    "2:11-22",
+    "Atrevidos y contumaces, siguen el camino de Balaam; fuentes sin agua que prometen libertad siendo esclavos; su estado final es peor que el primero.",
+    "Kistemaker: mala conducta y perdición inevitable. MacArthur: su atrevimiento, su impureza y su influencia. Wiersbe: su carácter y sus declaraciones."
+   ],
+   "ref": "2P 2:11-22",
+   "fuentes": ["kis2p_01_b#20", "mac2p_01_a#36", "r1_006#2"]
+  },
+  {
+   "celdas": [
+    "3. El día del Señor",
+    "Los burladores",
+    "3:1-7",
+    "Segunda carta para despertar el entendimiento; vendrán burladores que niegan la venida y olvidan que la palabra que creó y anegó el mundo lo reserva para el fuego.",
+    "Kistemaker: recordatorio, burladores y destrucción. McGee: la actitud ante el regreso del Señor, prueba de los apóstatas (3:1-4). Diccionario MH: la condenación de los impíos."
+   ],
+   "ref": "2P 3:1-7",
+   "fuentes": ["kis2p_01_b#20", "mcg2p_01_a#7", "dbmh_02_a#22", "mac2p_04_a#15"]
+  },
+  {
+   "celdas": [
+    "3. El día del Señor",
+    "Mil años como un día",
+    "3:8-13",
+    "Para el Señor un día es como mil años; no tarda, es paciente; el día del Señor vendrá como ladrón; los creyentes esperan cielos nuevos y tierra nueva.",
+    "Kistemaker: tiempo, elementos y consumación. Wiersbe: «amados, no ignoréis» y «procurad con diligencia». Diccionario MH: la esperanza de los creyentes (3:8-13)."
+   ],
+   "ref": "2P 3:8-13",
+   "fuentes": ["kis2p_01_b#20", "r1_006#2", "dbmh_02_a#22"]
+  },
+  {
+   "celdas": [
+    "3. El día del Señor",
+    "Guardaos y creced",
+    "3:14-18",
+    "Ser hallados sin mancha y en paz; las cartas de Pablo junto a las demás Escrituras; guardarse del error y crecer en la gracia y el conocimiento de Cristo.",
+    "Kistemaker: exhortaciones finales. Beacon: estos versículos resumen toda la carta (guardaos y creced). Comentario Moody: 3:18 es el versículo clave."
+   ],
+   "ref": "2P 3:14-18",
+   "fuentes": ["kis2p_01_b#20", "bea2p_01_b#21", "moodynt_01_c#21", "r1_010#1"]
+  }
+ ],
+ "nota": "Las tres partes del estudio siguen los tres capítulos, como Wiersbe (explicación, examen, exhortación) y Núñez (permanecer firme en lo que sabes, contra los falsos maestros y hasta que el Señor regrese). Propósito: Pedro, cerca de su muerte, alerta contra los falsos maestros y llama a madurar en el conocimiento de Cristo (Kistemaker); insiste en recordar (Núñez cuenta cinco llamados) y cierra con «guardaos» y «creced» (3:17-18).",
+ "dias": [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+}

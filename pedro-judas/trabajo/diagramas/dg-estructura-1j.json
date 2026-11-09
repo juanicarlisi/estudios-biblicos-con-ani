@@ -1,0 +1,131 @@
+{
+ "id": "dg-estructura-1j",
+ "titulo": "1 Juan en una página",
+ "bajada": "Las tres partes del estudio (andar en la luz, hijos de Dios, Dios es amor), cómo las ordenan los autores y dónde declara Juan para qué escribe.",
+ "tipo": "tabla",
+ "columnas": ["Parte", "Sección", "Pasaje", "De qué trata", "En los bosquejos de los autores", "Para qué escribe Juan"],
+ "filas": [
+  {
+   "celdas": [
+    "1. Andar en la luz",
+    "El Verbo de vida",
+    "1:1-4",
+    "Lo que vieron, oyeron y palparon del Verbo de vida se anuncia para compartir la comunión con el Padre y con el Hijo.",
+    "Kistemaker: prefacio. MacArthur: una visión bíblica de Cristo (prueba doctrinal). Wiersbe: la realidad de Jesucristo.",
+    "Comunión: «para que también vosotros tengáis comunión con nosotros» (1:3). Gozo: «para que vuestro gozo sea cumplido» (1:4); hay manuscritos con «nuestro gozo»."
+   ],
+   "ref": "1J 1:1-4",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "r1_007_b#1", "r1_007_b#3", "kis1j_02_a#17", "ncb1j_01_a#14"]
+  },
+  {
+   "celdas": [
+    "1. Andar en la luz",
+    "Dios es luz",
+    "1:5-2:6",
+    "Andar en luz y confesar los pecados; Cristo es abogado y propiciación; quien lo conoce guarda sus mandamientos.",
+    "Kistemaker: comunión y perdón, conocimiento y obediencia. MacArthur: visión bíblica del pecado y de la obediencia. Wiersbe: la obediencia como prueba de comunión.",
+    "No pecar: «estas cosas os escribo para que no pequéis» (2:1)."
+   ],
+   "ref": "1J 1:5-2:6",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "r1_007_b#1", "r1_007_b#3"]
+  },
+  {
+   "celdas": [
+    "1. Andar en la luz",
+    "El mandamiento y el mundo",
+    "2:7-17",
+    "El mandamiento antiguo y nuevo de amar al hermano; palabras a hijitos, padres y jóvenes; no amar al mundo, que pasa.",
+    "Kistemaker: amor y luz, dos llamamientos, el mundo. MacArthur: el amor que Dios exige y el que aborrece. Wiersbe: el amor como prueba de comunión.",
+    "Escribe porque ya son de Dios: sus pecados fueron perdonados, conocen al Padre y vencieron al maligno (2:12-14)."
+   ],
+   "ref": "1J 2:7-17",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "r1_007_b#1", "mbib1j_01_b#9", "kis1j_03_a#6", "bea1j_01_b#6"]
+  },
+  {
+   "celdas": [
+    "2. Permanecer en él",
+    "Anticristos y unción",
+    "2:18-27",
+    "Es el último tiempo: los anticristos salieron de la comunidad y niegan al Hijo; los creyentes tienen la unción del Santo y permanecen en lo que oyeron.",
+    "Kistemaker: abre «Creed en Jesús» (2:18-3:24). MacArthur: segunda espiral, prueba doctrinal (salen, niegan, engañan). Wiersbe: la verdad como prueba de comunión.",
+    "Alertar: «Os he escrito esto sobre los que os engañan» (2:26)."
+   ],
+   "ref": "1J 2:18-27",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "r1_007_b#1", "kis1j_03_b#12", "r1_007_b#3"]
+  },
+  {
+   "celdas": [
+    "2. Permanecer en él",
+    "Hijos de Dios",
+    "2:28-3:10",
+    "Ya somos hijos de Dios y seremos como él cuando se manifieste; quien tiene esa esperanza se purifica; el nacido de Dios no practica el pecado.",
+    "Kistemaker: confianza, hijos de Dios, nacidos de Dios. MacArthur: esperanza purificadora y requisito de justicia. Para el Cambridge aquí empieza «Dios es amor» (2:29); para Bedford, «Dios es justo».",
+    "—"
+   ],
+   "ref": "1J 2:28-3:10",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "bea1j_01_a#8", "cbmh1j_01_a#12"]
+  },
+  {
+   "celdas": [
+    "2. Permanecer en él",
+    "Amor de hecho y confianza",
+    "3:11-24",
+    "No como Caín: amar de hecho y en verdad; así el corazón tiene confianza ante Dios, la oración es oída y se sabe que él permanece en nosotros.",
+    "Kistemaker: el odio del mundo, amor recíproco, confianza. MacArthur: el requisito del amor. Comentario Moody: oración y respuestas (3:19-24).",
+    "—"
+   ],
+   "ref": "1J 3:11-24",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "moodynt_02_a#32"]
+  },
+  {
+   "celdas": [
+    "3. Dios es amor",
+    "Probad los espíritus",
+    "4:1-6",
+    "No creer a todo espíritu: el que confiesa que Jesucristo vino en carne es de Dios; el espíritu de verdad y el espíritu de error.",
+    "Kistemaker: abre «Amad a Dios» (4:1-5:12). MacArthur: tercera espiral, prueba doctrinal. Comentario Moody: cautelas en la comunión.",
+    "—"
+   ],
+   "ref": "1J 4:1-6",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "moodynt_02_a#32", "ncb1j_01_a#9"]
+  },
+  {
+   "celdas": [
+    "3. Dios es amor",
+    "Dios es amor",
+    "4:7-21",
+    "El amor viene de Dios, que envió a su Hijo en propiciación; quien ama permanece en Dios; el perfecto amor echa fuera el temor.",
+    "Kistemaker: amaos, permaneced, vivid en amor. MacArthur: la virtud y el requisito del amor de Dios. Wiersbe: el amor como prueba de que se es hijo.",
+    "—"
+   ],
+   "ref": "1J 4:7-21",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "r1_007_b#1", "ncb1j_01_a#9"]
+  },
+  {
+   "celdas": [
+    "3. Dios es amor",
+    "La fe que vence y el testimonio",
+    "5:1-12",
+    "El que cree que Jesús es el Cristo es nacido de Dios y vence al mundo; el agua, la sangre y el Espíritu dan testimonio; el que tiene al Hijo tiene la vida.",
+    "Kistemaker: fe en el Hijo y el testimonio de Dios. MacArthur: cuarta espiral, la vida victoriosa y el testimonio de Dios. Wiersbe: la verdad como prueba de que se es hijo.",
+    "—"
+   ],
+   "ref": "1J 5:1-12",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "r1_007_b#1"]
+  },
+  {
+   "celdas": [
+    "3. Dios es amor",
+    "Epílogo: sabemos",
+    "5:13-21",
+    "Seguridad de tener vida eterna; confianza al orar, también por el hermano que peca; los «sabemos» finales y guardarse de los ídolos.",
+    "Kistemaker: epílogo. MacArthur: certezas (vida eterna, oración contestada, victoria sobre el pecado y Satanás). Nuevo Comentario Bíblico: el conocimiento de la vida eterna.",
+    "Seguridad: «para que sepáis que tenéis vida eterna» (5:13). Para MacArthur, Beacon y el Nuevo Comentario Bíblico, es el propósito de toda la carta."
+   ],
+   "ref": "1J 5:13-21",
+   "fuentes": ["kis1j_02_a#6", "mac1j_01#13", "ncb1j_01_a#9", "mac1j_06_b#9", "bea1j_02_b#19", "ncb1j_01_b#16", "r1_008#12"]
+  }
+ ],
+ "nota": "Es de los libros más difíciles de bosquejar: avanza por repetición, en espiral más que en orden lógico (Beacon, Kistemaker, MacArthur). Las tres partes del estudio siguen a Kistemaker (andad en la luz, creed en Jesús, amad a Dios). Wiersbe la divide en pruebas de comunión (caps. 1-2) y de condición de hijos (caps. 3-5). El Evangelio se escribió para que crean (Jn 20:31); la carta, para que los que creen sepan que tienen vida eterna (MacArthur, Beacon). Wiersbe junta cinco propósitos: comunión, gozo, no pecar, vencer el error y seguridad.",
+ "dias": [39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
+}

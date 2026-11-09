@@ -1,0 +1,696 @@
+{
+  "dia": 1,
+  "libro": "1P",
+  "desde": "1P 1:1",
+  "hasta": "1P 1:2",
+  "titulo": "Elegidos y extranjeros: el saludo",
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
+  "contexto": {
+    "antes": "Es el primer día del recorrido por las cartas de Pedro, Juan y Judas. No hay día anterior: arrancamos por el sobre de la primera carta de Pedro, donde figuran el remitente y la dirección.",
+    "ahora": "Pedro saluda a cristianos dispersos por el norte de Asia Menor que empiezan a sufrir el rechazo de sus vecinos, y en dos versículos les recuerda quiénes son a los ojos de Dios.",
+    "donde": "Los destinatarios vivían en cinco regiones al sur del mar Negro (Ponto, Galacia, Capadocia, Asia y Bitinia), en lo que hoy es Turquía.",
+    "despues": "Mañana (1P 1:3-5) Pedro pasa del saludo a la alabanza: Dios nos hizo nacer de nuevo a una esperanza viva y nos guarda una herencia que no se pierde.",
+    "fuentes": [
+      "kis1p_01_c#1",
+      "kis1p_01_b#10",
+      "mbib1p_01_a#19",
+      "moodynt_01_a#13",
+      "mac1p_01_a#26"
+    ]
+  },
+  "versiculo_clave": {
+    "ref": "1P 1:2",
+    "porque": "En un solo versículo aparece toda la obra de Dios para salvar: el Padre elige, el Espíritu santifica y Jesucristo limpia con su sangre a un pueblo que ahora le obedece. Es la identidad que sostiene a los lectores en medio del sufrimiento."
+  },
+  "panorama": {
+    "texto": "El saludo de 1 Pedro parece una formalidad, pero es una declaración de identidad. A gente que vivía como forastera, Pedro le dice dos cosas a la vez: en este mundo ustedes son extranjeros de paso, y ante Dios son elegidos. El Padre los conoció de antemano y el Espíritu los apartó para que obedezcan a Jesucristo y vivan limpiados por su sangre, como el pueblo del pacto. Antes de hablarles del sufrimiento, Pedro los afirma en lo que Dios ya hizo por ellos.",
+    "fuentes": [
+      "ncb1p_01_a#14",
+      "cbmh1p_01_b#4",
+      "mac1p_01_a#26",
+      "kis1p_01_c#11",
+      "r1_006#10"
+    ]
+  },
+  "secciones": [
+    {
+      "rango": "1P 1:1",
+      "titulo": "Pedro, apóstol de Jesucristo",
+      "notas": [
+        {
+          "texto": "No firma como Simón, el nombre que le dieron sus padres, sino como Pedro, el nombre que le puso Jesús y que significa piedra o roca (Jn 1:42). Kistemaker sugiere que el nombre describe lo que llegó a ser sobre todo después de que Jesús lo restauró tras sus negaciones (Jn 21:15-23). En 2 Pedro usará los dos nombres juntos (2P 1:1).",
+          "fuentes": [
+            "kis1p_01_c#2",
+            "cbmh1p_01_b#1",
+            "bea1p_01_a#11"
+          ],
+          "tipo": "personaje"
+        },
+        {
+          "texto": "Se llama simplemente «apóstol de Jesucristo», sin otro título. Kistemaker hace notar la modestia: un apóstol, no el apóstol, aunque formaba parte del círculo más cercano a Jesús. Tampoco necesita defender su apostolado, como sí tuvo que hacerlo Pablo (Gá 1:1).",
+          "fuentes": [
+            "kis1p_01_c#3",
+            "r1_006#9"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Apóstol quiere decir enviado, pero la palabra dice más: el apóstol recibe la autoridad del que lo manda y transmite su mensaje, no el propio. Pedro fue llamado y comisionado personalmente por Cristo (Mt 10:1-4; Jn 20:19-23). Esta carta no es el consejo de un líder piadoso: llega con la autoridad del Señor que lo envió.",
+          "fuentes": [
+            "kis1p_01_c#3",
+            "mbib1p_01_a#17",
+            "ncb1p_01_a#15",
+            "r1_018_b#18"
+          ],
+          "tipo": "doctrina"
+        }
+      ]
+    },
+    {
+      "rango": "1P 1:1",
+      "titulo": "Elegidos, extranjeros y dispersos",
+      "notas": [
+        {
+          "texto": "La dirección junta tres palabras que se iluminan entre sí: elegidos, expatriados y dispersión. En griego, elegidos califica a extranjeros: son extranjeros elegidos. Su condición en el mundo (de paso, sin raíces) y su condición ante Dios (escogidos) van en la misma frase.",
+          "fuentes": [
+            "kis1p_01_c#9",
+            "kis1p_01_c#5"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Pedro abre con la elección sin rodeos ni disculpas, aunque MacArthur observa que es una de las doctrinas más resistidas. En la carta, ser elegidos significa que Dios los tomó como pueblo suyo: el mundo los rechaza, pero gozan de su favor. El propósito aparece después: anunciar las virtudes del que los llamó (1P 2:9).",
+          "fuentes": [
+            "mac1p_01_a#22",
+            "kis1p_01_c#5"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Expatriados describe a quien vive en una tierra que no es la suya como residente temporal. John Brown, citado por Kistemaker, ve dos ideas en la palabra: no son nativos del lugar y tampoco están instalados para quedarse. Los cristianos viven así porque su ciudadanía está en los cielos (Fil 3:20); más adelante Pedro los llamará extranjeros y peregrinos (1P 2:11).",
+          "fuentes": [
+            "kis1p_01_c#6",
+            "mbib1p_01_a#18",
+            "moodynt_01_a#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Dispersión era una palabra cargada de dolor para los judíos: nombraba a los israelitas desparramados fuera de su tierra. Pedro la aplica a la iglesia. Wiersbe agrega una imagen: dispersar es también lo que hace el agricultor con la semilla; los creyentes son simiente de Dios y él los planta donde quiere, a veces usando la persecución (Mt 13:38; Hch 8:1; 11:19).",
+          "fuentes": [
+            "moodynt_01_a#13",
+            "r1_006#9",
+            "cbmh1p_01_b#2",
+            "mac1p_01_a#23"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Si los lectores eran judíos dispersos o iglesias mixtas se discute: ver Interpretaciones.",
+          "fuentes": [
+            "ncb1p_01_a#15",
+            "mac1p_01_a#24",
+            "kis1p_01_c#7"
+          ],
+          "tipo": "interpretacion"
+        }
+      ]
+    },
+    {
+      "rango": "1P 1:1",
+      "titulo": "Ponto, Galacia, Capadocia, Asia y Bitinia",
+      "notas": [
+        {
+          "texto": "Las cinco regiones están en Asia Menor, la actual Turquía, al sur del mar Negro: casi todo el territorio menos la costa sur. Ponto quedaba en el extremo norte; Galacia, en el centro; Capadocia, al este; Asia, en el occidente, donde Pablo trabajó largo tiempo (Hch 19:10); y Bitinia, en el noroeste, la región donde el Espíritu no dejó entrar a Pablo (Hch 16:7).",
+          "fuentes": [
+            "mac1p_01_a#25",
+            "bea1p_01_a#12",
+            "cbmh1p_01_b#1",
+            "dbmh_01_b#3"
+          ],
+          "tipo": "geografia"
+        },
+        {
+          "texto": "Hubo gente de Ponto, Capadocia y Asia en Jerusalén el día de Pentecostés (Hch 2:9). No se sabe con certeza cómo llegó el evangelio a todas estas zonas: pudieron llevarlo los que oyeron a Pedro aquel día, los convertidos de Pablo o el mismo Pedro. Kistemaker, siguiendo a Stibbs, piensa que la carta apunta sobre todo a la parte de Asia Menor que Pablo no había evangelizado.",
+          "fuentes": [
+            "kis1p_01_b#10",
+            "mac1p_01_a#18",
+            "kis1p_01_c#8"
+          ],
+          "tipo": "historia"
+        }
+      ]
+    },
+    {
+      "rango": "1P 1:2",
+      "titulo": "Según la presciencia de Dios Padre",
+      "notas": [
+        {
+          "texto": "El versículo 2 explica qué significa ser elegidos, en tres frases, cada una con una persona de la Trinidad: el Padre conoce de antemano, el Espíritu santifica y Jesucristo limpia con su sangre a los que ahora le obedecen. Wiersbe ve aquí el plan de salvación en miniatura.",
+          "fuentes": [
+            "kis1p_01_c#11",
+            "r1_006#10",
+            "cbmh1p_01_b#4"
+          ],
+          "tipo": "estructura"
+        },
+        {
+          "texto": "Pedro no se detiene a explicar ni defender la Trinidad: la nombra con naturalidad porque la iglesia ya la creía. Matthew Henry lo resume: la salvación se debe al amor del Padre que elige, a la redención del Hijo y a la santificación del Espíritu, y la gloria es del único Dios en tres personas.",
+          "fuentes": [
+            "kis1p_01_c#14",
+            "mhenry_01_a#2",
+            "moodynt_01_a#15"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Elegidos según la presciencia de Dios Padre». Todos los autores coinciden en que la elección nace en Dios y no en el mérito humano, y en que es un gran consuelo. McConnell lo dice con ternura: el lugar donde están y lo que sufren no tomaron por sorpresa al Padre; forma parte de un propósito suyo que termina en triunfo.",
+          "fuentes": [
+            "cbmh1p_01_b#4",
+            "mbib1p_01_a#20",
+            "kis1p_01_c#19"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Qué incluye esa presciencia es un punto donde los autores protestantes difieren: ver Interpretaciones.",
+          "fuentes": [
+            "mac1p_01_a#29",
+            "bea1p_01_a#13",
+            "moodynt_01_a#14"
+          ],
+          "tipo": "interpretacion"
+        }
+      ]
+    },
+    {
+      "rango": "1P 1:2",
+      "titulo": "En santificación del Espíritu",
+      "notas": [
+        {
+          "texto": "La elección hecha en la eternidad se hace visible en la historia por la obra del Espíritu. Santificar es apartar y consagrar: el Espíritu saca a la persona del pecado y de la incredulidad y la lleva a la fe. Un Dios santo y un ser humano pecador no pueden encontrarse si el Espíritu no hace esa obra.",
+          "fuentes": [
+            "mac1p_01_a#31",
+            "mbib1p_01_a#22",
+            "kis1p_01_c#15",
+            "cbmh1p_01_b#4"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Kistemaker señala que la forma de la palabra griega indica una actividad que sigue en marcha. La santificación empieza en la conversión y continúa hasta que el creyente vea a Cristo. Y el creyente no queda de brazos cruzados: la misma carta lo exhorta a ser santo porque Dios es santo (1P 1:15-16).",
+          "fuentes": [
+            "kis1p_01_c#15",
+            "kis1p_01_c#21",
+            "mbib1p_01_a#22"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La tradición wesleyana ve además un momento de crisis junto con el proceso (ver Interpretaciones). Todos coinciden en que es obra del Espíritu.",
+          "fuentes": [
+            "bea1p_01_a#14",
+            "bea1p_01_a#15",
+            "mac1p_01_a#31"
+          ],
+          "tipo": "interpretacion"
+        }
+      ]
+    },
+    {
+      "rango": "1P 1:2",
+      "titulo": "Para obedecer y ser rociados con la sangre",
+      "notas": [
+        {
+          "texto": "La elección tiene un propósito: «para obedecer». Los autores lo dicen sin vueltas: la salvación verdadera produce obediencia. No una obediencia perfecta, porque los creyentes siguen fallando (1J 1:8-10), sino un rumbo de vida que se puede reconocer, como el de los tesalonicenses que dejaron los ídolos para servir a Dios (1 Ts 1:2-10).",
+          "fuentes": [
+            "mac1p_01_a#32",
+            "mbib1p_01_a#22",
+            "kis1p_01_c#19"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Obedecer y ser rociados con sangre trae a la memoria el pacto del Sinaí (Éx 24:3-8), donde el pueblo prometió obedecer y Moisés lo roció con la sangre del pacto. Pedro presenta a sus lectores como el pueblo del nuevo pacto, sellado con la sangre de Jesucristo.",
+          "fuentes": [
+            "kis1p_01_c#16",
+            "mac1p_01_a#33",
+            "mbib1p_01_a#23",
+            "ncb1p_01_a#14"
+          ],
+          "tipo": "at"
+        },
+        {
+          "texto": "McConnell se pregunta por qué la obediencia aparece antes que el rociamiento, si uno esperaría el orden inverso. Responde que quizá son dos caras de la misma moneda: Cristo nunca se ofreció como Salvador sin ser también Señor. MacArthur usa la misma imagen de la moneda: el nuevo pacto tiene dos lados, la salvación y la obediencia.",
+          "fuentes": [
+            "cbmh1p_01_b#5",
+            "mac1p_01_a#34"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La sangre no solo limpió una vez: Cristo murió una sola vez, pero su sangre sigue limpiando a los creyentes cuando pecan (1J 1:7, 9). Qué aspecto tenía Pedro más en mente se discute (ver Interpretaciones).",
+          "fuentes": [
+            "kis1p_01_c#17",
+            "moodynt_01_a#14",
+            "cbmh1p_01_b#5",
+            "ncb1p_01_a#15"
+          ],
+          "tipo": "doctrina"
+        }
+      ]
+    },
+    {
+      "rango": "1P 1:2",
+      "titulo": "Gracia y paz os sean multiplicadas",
+      "notas": [
+        {
+          "texto": "El saludo une dos mundos. La palabra gracia se parece en forma al saludo griego habitual de las cartas (alégrate, que estés bien), y paz es el saludo tradicional de los judíos, el shalom. El Nuevo Comentario Bíblico ve un juego de palabras deliberado para una iglesia mezclada: gracia para los gentiles, paz para los judíos.",
+          "fuentes": [
+            "ncb1p_01_a#16",
+            "cbmh1p_01_b#7",
+            "moodynt_01_a#15"
+          ],
+          "tipo": "cultura"
+        },
+        {
+          "texto": "Kistemaker ordena las dos palabras: la gracia es lo que Dios da (misericordia, amor, perdón) y la paz es lo que eso produce, una tranquilidad interior que se nota en el trato con los demás. McConnell aclara que paz no es quietud sino armonía en el actuar.",
+          "fuentes": [
+            "kis1p_01_c#18",
+            "cbmh1p_01_b#7"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Pedro no desea un poco de gracia: pide que les sea multiplicada. El verbo expresa un deseo y da a entender que es Dios quien la multiplica. El mismo saludo vuelve en 2P 1:2, y algo parecido en Jd 2.",
+          "fuentes": [
+            "mac1p_01_a#36",
+            "kis1p_01_c#23",
+            "kis1p_01_c#18"
+          ],
+          "tipo": "exegesis"
+        }
+      ]
+    }
+  ],
+  "palabras": [
+    {
+      "ref": "1P 1:1",
+      "griego": "ἐκλεκτοῖς",
+      "translit": "eklektóis",
+      "significado": "Elegidos, escogidos. Es la palabra que el Antiguo Testamento usa para Israel (Dt 7:6) y que Pedro aplica a la iglesia; Dios es el que elige.",
+      "fuentes": [
+        "mac1p_01_a#27",
+        "mbib1p_01_a#20",
+        "kis1p_01_c#9"
+      ]
+    },
+    {
+      "ref": "1P 1:1",
+      "griego": "παρεπιδήμοις",
+      "translit": "parepidémois",
+      "significado": "Expatriados, residentes temporales. Une tres partes: junto a, sobre y pueblo; describe a los que viven al lado de los nativos sin ser del lugar.",
+      "fuentes": [
+        "kis1p_01_c#9",
+        "mac1p_01_a#23"
+      ]
+    },
+    {
+      "ref": "1P 1:1",
+      "griego": "διασπορᾶς",
+      "translit": "diasporás",
+      "significado": "Dispersión, de un verbo que significa esparcir: los judíos lejos de su tierra y, aquí, los cristianos esparcidos entre las naciones.",
+      "fuentes": [
+        "kis1p_01_c#10",
+        "cbmh1p_01_b#2"
+      ]
+    },
+    {
+      "ref": "1P 1:2",
+      "griego": "πρόγνωσιν",
+      "translit": "prógnōsin",
+      "significado": "Presciencia, conocimiento previo, que pertenece al Padre. La misma familia de palabras aparece en 1P 1:20 sobre Cristo.",
+      "fuentes": [
+        "kis1p_01_c#20",
+        "mbib1p_01_a#21",
+        "mac1p_01_a#29"
+      ]
+    },
+    {
+      "ref": "1P 1:2",
+      "griego": "ἁγιασμῷ",
+      "translit": "hagiasmṓ",
+      "significado": "Santificación: apartar, consagrar. Según Kistemaker, la terminación de la palabra indica una actividad continua.",
+      "fuentes": [
+        "kis1p_01_c#21",
+        "mac1p_01_a#31"
+      ]
+    },
+    {
+      "ref": "1P 1:2",
+      "griego": "ῥαντισμὸν",
+      "translit": "rhantismón",
+      "significado": "Rociamiento. La palabra evoca los ritos del Antiguo Testamento (Éx 24; Nm 19) y, según Kistemaker, sugiere un proceso que continúa.",
+      "fuentes": [
+        "kis1p_01_c#22",
+        "cbmh1p_01_b#3"
+      ]
+    },
+    {
+      "ref": "1P 1:2",
+      "griego": "πληθυνθείη",
+      "translit": "plēthyntheíē",
+      "significado": "Sean multiplicadas. Es una forma verbal de deseo y voz pasiva: Pedro anhela que Dios les dé gracia y paz en la mayor medida posible.",
+      "fuentes": [
+        "kis1p_01_c#23",
+        "mac1p_01_a#36"
+      ]
+    }
+  ],
+  "cristo": [
+    {
+      "texto": "Jesucristo es quien envía: Pedro es apóstol suyo y escribe con su autoridad. El nombre doble apunta, según Kistemaker, a la vez al Jesús de la historia y a la misión divina de Cristo.",
+      "refs": [
+        "Mt 28:19-20",
+        "Jn 20:19-23"
+      ],
+      "fuentes": [
+        "kis1p_01_c#4",
+        "kis1p_01_c#3"
+      ]
+    },
+    {
+      "texto": "Su sangre derramada en la cruz es el sello del nuevo pacto, como la sangre rociada en el Sinaí selló el antiguo. Jesús mismo lo dijo en la última cena, cuando llamó a la copa su sangre del nuevo pacto. Por esa sangre los creyentes tienen seguridad: los que vienen a él no son echados fuera.",
+      "refs": [
+        "Mt 26:27-28",
+        "Mr 14:24",
+        "Jn 6:37-40",
+        "He 9:11-15"
+      ],
+      "fuentes": [
+        "mac1p_01_a#35",
+        "mac1p_01_a#34",
+        "ncb1p_01_a#14"
+      ]
+    },
+    {
+      "texto": "Por su muerte Jesús compró a los escogidos (1P 1:18-19), y su sangre, derramada una sola vez, sigue limpiándolos. Es Salvador y Señor a la vez: la obediencia a la que fueron llamados es obediencia a él.",
+      "refs": [
+        "1P 1:18-19",
+        "1J 1:7",
+        "Mt 11:28-30"
+      ],
+      "fuentes": [
+        "kis1p_01_c#17",
+        "cbmh1p_01_b#5"
+      ]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿A quiénes escribe Pedro: judíos de la dispersión o iglesias mixtas?",
+      "posturas": [
+        {
+          "postura": "Iglesias de creyentes judíos y gentiles, mayormente gentiles; la dispersión y el ser extranjeros se entienden en sentido espiritual (se apoyan en 1P 2:11 y en pasajes como 1:14, 1:18 y 4:3-4).",
+          "quien": "MacArthur; Nuevo Comentario Bíblico; Comentario Moody; Matthew Henry",
+          "fuentes": [
+            "mac1p_01_a#24",
+            "mac1p_01_a#18",
+            "ncb1p_01_a#15",
+            "moodynt_01_a#13",
+            "mhenry_01_a#2"
+          ]
+        },
+        {
+          "postura": "Se inclina por el sentido figurado, con lectores judíos y gentiles, pero admite que tal vez se trate de cristianos judíos dispersados, como los de Hch 8:1 y Stg 1:1.",
+          "quien": "Kistemaker",
+          "fuentes": [
+            "kis1p_01_c#7"
+          ]
+        }
+      ],
+      "nota": "Todos coinciden en que, cualquiera sea el origen de los lectores, la iglesia vive en este mundo como extranjera, con la ciudadanía en los cielos."
+    },
+    {
+      "tema": "La presciencia y la elección",
+      "posturas": [
+        {
+          "postura": "Presciencia no es que Dios vio de antemano quiénes creerían, sino su decisión amorosa y eterna de entrar en relación salvadora con ciertas personas; conocer, en la Biblia, implica relación (Am 3:2; Jer 1:5).",
+          "quien": "MacArthur y Kistemaker (reformados)",
+          "fuentes": [
+            "mac1p_01_a#29",
+            "mac1p_01_a#30",
+            "mbib1p_01_a#21",
+            "kis1p_01_c#13"
+          ]
+        },
+        {
+          "postura": "La elección precede al acto humano y la determina la voluntad soberana de Dios, en relación con su presciencia.",
+          "quien": "Chafer (dispensacional, calvinista moderado)",
+          "fuentes": [
+            "r1_019#11"
+          ]
+        },
+        {
+          "postura": "La elección para salvación es real y bíblica, pero condicionada a la fe: no excluye a otros, no asegura de manera irrevocable la salvación final y puede anularse por la incredulidad. Citando a Purkiser, es la provisión de gracia para salvar a los que creen, no una decisión arbitraria sobre quiénes pueden creer.",
+          "quien": "Nicholson, Comentario Beacon (wesleyano)",
+          "fuentes": [
+            "bea1p_01_a#13"
+          ]
+        }
+      ],
+      "nota": "Todos afirman que la elección es iniciativa de Dios, que se vive en santidad y obediencia y que es fuente de consuelo para el creyente que sufre. Difieren en cómo se relacionan la decisión de Dios y la fe del hombre."
+    },
+    {
+      "tema": "¿Qué rociamiento tiene en mente Pedro?",
+      "posturas": [
+        {
+          "postura": "Puede referirse a entrar en el nuevo pacto (Éx 24 con Mr 14:24) o a la limpieza regular que el creyente necesita durante su peregrinación (1J 1:7); el contexto inclina el peso hacia la segunda, aunque Pedro pudo tener ambas en mente.",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb1p_01_a#15"
+          ]
+        },
+        {
+          "postura": "Las dos cosas: el rociamiento sella la entrada al pacto, con su compromiso de obediencia, y la misma sangre sigue limpiando cuando el creyente desobedece.",
+          "quien": "MacArthur; McConnell (Mundo Hispano); Kistemaker",
+          "fuentes": [
+            "mac1p_01_a#34",
+            "cbmh1p_01_b#5",
+            "kis1p_01_c#17"
+          ]
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "La santificación: ¿proceso, crisis o ambas?",
+      "posturas": [
+        {
+          "postura": "Empieza en la conversión, junto con la justificación, y avanza como proceso continuo hasta la glorificación; no es un estado ya alcanzado de santidad perfecta.",
+          "quien": "Kistemaker (reformado), siguiendo a Hiebert; MacArthur",
+          "fuentes": [
+            "kis1p_01_c#15",
+            "mac1p_01_a#31",
+            "mbib1p_01_a#22"
+          ]
+        },
+        {
+          "postura": "Es proceso y también tiene un momento de crisis: citando a Wesley, en un instante el corazón es purificado y lleno del amor de Dios. No es perfección absoluta, sino restauración de la imagen de Dios.",
+          "quien": "Nicholson, Comentario Beacon (wesleyano de santidad)",
+          "fuentes": [
+            "bea1p_01_a#14",
+            "bea1p_01_a#15"
+          ]
+        }
+      ],
+      "nota": "Todos coinciden en que la santificación es obra del Espíritu y que el creyente es llamado a una vida santa."
+    }
+  ],
+  "antiguo_testamento": [
+    {
+      "ref": "Éx 24:3-8",
+      "nota": "El pueblo promete obedecer y Moisés rocía la sangre del pacto sobre el altar y sobre el pueblo. Según MacArthur, la sangre sobre el altar expresaba el compromiso de Dios, y la sangre sobre el pueblo, su aceptación de obedecer.",
+      "fuentes": [
+        "kis1p_01_c#16",
+        "mac1p_01_a#33",
+        "mbib1p_01_a#23"
+      ]
+    },
+    {
+      "ref": "Nm 19",
+      "nota": "Un recuadro del comentario Mundo Hispano recuerda el rito de purificación con las cenizas de la vaca y agua rociada sobre los contaminados; el sacrificio de Cristo es, por analogía, el rociamiento verdadero que purifica para siempre.",
+      "fuentes": [
+        "cbmh1p_01_b#3"
+      ]
+    }
+  ],
+  "biblioteca": [
+    {
+      "texto": "Grudem incluye 1P 1:2 entre los pasajes del Nuevo Testamento que nombran juntos al Padre, al Hijo y al Espíritu como plenamente Dios (con Mt 28:19, 2 Co 13:14 y Jd 20-21). Observa que poner al Espíritu al mismo nivel que el Padre y el Hijo sería impensable si fuera una criatura.",
+      "autor": "Wayne Grudem (citado en la biblioteca de referencia)",
+      "obra": "Teología sistemática",
+      "pagina": "PDF 247-248",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_013#17"
+      ]
+    }
+  ],
+  "conexiones": [
+    {
+      "ref": "Fil 3:20",
+      "nota": "Nuestra ciudadanía está en los cielos: la razón por la que los creyentes viven como residentes temporales en la tierra.",
+      "fuentes": [
+        "kis1p_01_c#6",
+        "moodynt_01_a#13",
+        "r1_006#9"
+      ]
+    },
+    {
+      "ref": "He 11:13-16",
+      "nota": "Los patriarcas se reconocieron extranjeros y peregrinos que buscaban una patria mejor; la iglesia comparte esa condición.",
+      "fuentes": [
+        "mac1p_01_a#24",
+        "kis1p_01_c#6"
+      ]
+    },
+    {
+      "ref": "2 Ts 2:13",
+      "nota": "Pablo junta las mismas ideas que Pedro: Dios escogió para salvación mediante la santificación por el Espíritu y la fe en la verdad.",
+      "fuentes": [
+        "cbmh1p_01_b#4",
+        "moodynt_01_a#14",
+        "kis1p_01_c#15"
+      ]
+    }
+  ],
+  "para_vivir": [
+    {
+      "texto": "Ustedes también son extranjeros de paso. No se trata de despreciar el lugar donde viven, sino de no instalarse como si este mundo fuera el hogar definitivo. Eso cambia cómo se usan el tiempo, la plata y las preocupaciones de la casa.",
+      "fuentes": [
+        "kis1p_01_c#6",
+        "mac1p_01_a#37"
+      ]
+    },
+    {
+      "texto": "Pedro les da a los que sufren, antes que ningún consejo, una identidad: elegidos. Cuando lleguen días de rechazo o de incomprensión, empiecen por ahí. Lo que les pasa no tomó por sorpresa al Padre.",
+      "fuentes": [
+        "cbmh1p_01_b#4",
+        "mac1p_01_a#26",
+        "kis1p_01_c#19"
+      ]
+    },
+    {
+      "texto": "La elección no es para discutir ganadores, sino para vivir con humildad, gratitud y gozo. Kistemaker insiste en que Dios espera una respuesta de gratitud, y MacArthur cuenta la humildad, la adoración y el impulso a una vida santa entre los frutos de saberse elegido.",
+      "fuentes": [
+        "kis1p_01_c#19",
+        "mac1p_01_a#36",
+        "mac1p_01_a#37"
+      ]
+    }
+  ],
+  "para_conversar": [
+    "¿En qué cosas concretas nos sentimos extranjeros en el mundo, y en cuáles nos hemos instalado como si este fuera nuestro hogar definitivo?",
+    "Pedro les recuerda a los que sufren que son elegidos por el Padre. ¿Cómo nos ayuda esa verdad cuando algo nos golpea o nos toma por sorpresa?",
+    "Si la salvación y la obediencia son dos caras de la misma moneda, ¿qué paso de obediencia nos está pidiendo el Señor hoy como matrimonio?"
+  ],
+  "para_orar": "Padre, gracias porque nos conociste y nos elegiste, porque tu Espíritu nos apartó para vos y porque la sangre de Jesucristo nos limpió y nos sigue limpiando. Enseñanos a vivir como extranjeros que esperan su verdadero hogar, a obedecerte con gratitud, y multiplicá en nuestra casa tu gracia y tu paz.",
+  "visuales": [
+    "mapa-provincias",
+    "dg-estructura-1p"
+  ],
+  "anexos": [
+    "I1",
+    "I2",
+    "P1"
+  ],
+  "profundizar": [
+    {
+      "titulo": "Una carta para muchas iglesias",
+      "texto": "MacArthur destaca la amplitud del envío: en esa zona estaban, entre otras, las siete iglesias que unos treinta años después recibirían las cartas de Apocalipsis 2 y 3. Pedro escribe a tantos porque la hostilidad contra los cristianos se extendía, y quería que recordaran que, aun sufriendo, seguían siendo los escogidos de Dios.",
+      "fuentes": [
+        "mac1p_01_a#26"
+      ]
+    },
+    {
+      "titulo": "Siete dimensiones de la elección según MacArthur",
+      "texto": "MacArthur organiza estos dos versículos en siete aspectos de la elección: la condición de los elegidos (extranjeros puestos en el mundo para alcanzar a los que los rodean), su naturaleza (decisión soberana de Dios), su fuente (un amor puesto en ellos desde la eternidad), su esfera (la santificación del Espíritu), su efecto (obediencia), su seguridad (el pacto sellado con sangre) y sus ventajas: humildad, adoración, gozo, privilegios eternos e impulso a la santidad. Para él, entender la elección cambia la manera de vivir cada día.",
+      "fuentes": [
+        "mac1p_01_a#22",
+        "mac1p_01_a#36",
+        "mac1p_01_a#37"
+      ]
+    },
+    {
+      "titulo": "Tres clases de elección según el Comentario Beacon",
+      "texto": "Nicholson, siguiendo a Benjamin Field, distingue tres usos bíblicos de la elección: la de individuos para un servicio especial (como Jeremías o Pablo), la de naciones para privilegios religiosos (Israel) y la personal para ser hijos de Dios y herederos de la gloria, que es la de este versículo y la que él entiende condicionada a la fe.",
+      "fuentes": [
+        "bea1p_01_a#13"
+      ]
+    },
+    {
+      "titulo": "¿Distritos o provincias romanas?",
+      "texto": "Kistemaker hace notar que Pedro nombra por separado Ponto y Bitinia, que Roma había unido en una sola provincia, y deja afuera regiones del sur como Pisidia, Panfilia o Cilicia. Por eso piensa que habla de distritos o regiones más que de provincias administrativas. El Diccionario Mundo Hispano, en cambio, entiende que Pedro y Pablo usan Galacia para la provincia en general.",
+      "fuentes": [
+        "kis1p_01_b#10",
+        "kis1p_01_c#8",
+        "dbmh_01_b#3"
+      ]
+    },
+    {
+      "titulo": "Cómo se enlaza la frase en las traducciones",
+      "texto": "En griego, «según la presciencia de Dios Padre» viene después de la lista de regiones. La mayoría de las traducciones que Kistemaker revisa lo unen directamente a elegidos; algunas versiones inglesas siguen el orden griego. Kistemaker prefiere centrar la atención en la elección, porque el conocimiento previo se relaciona directamente con ella.",
+      "fuentes": [
+        "kis1p_01_c#12"
+      ]
+    },
+    {
+      "titulo": "La autoría de 1 Pedro",
+      "texto": "El Comentario Moody subraya que la carta presenta a Pedro como su autor y que solo una persona encaja con esta descripción; negarlo sería atribuirle a la carta un engaño piadoso y poner en duda su autoridad moral.",
+      "fuentes": [
+        "moodynt_01_a#12"
+      ]
+    },
+    {
+      "titulo": "El recorrido del portador",
+      "texto": "El orden de la lista no parece casual. Según Kistemaker (con Hemer) y MacArthur, podría seguir la ruta del que llevó la carta, quizá Silvano (1P 5:12): entrar por Ponto, recorrer Galacia, Capadocia y Asia, y terminar en Bitinia.",
+      "fuentes": [
+        "kis1p_01_c#8",
+        "mac1p_01_a#18"
+      ]
+    },
+    {
+      "titulo": "Dios Padre y la presciencia de Cristo",
+      "texto": "Llamar a Dios Padre ya dice algo: los elegidos son sus hijos, gente del pacto (Kistemaker remite a 2 Co 6:18). La misma raíz de presciencia vuelve en 1P 1:20, donde se dice de Cristo que fue destinado desde antes de la creación del mundo.",
+      "fuentes": [
+        "kis1p_01_c#13",
+        "mbib1p_01_a#21"
+      ]
+    },
+    {
+      "titulo": "Joel Beeke y Mark Jones, Teología puritana",
+      "texto": "Beeke y Jones muestran que los puritanos leían 1P 1:2-3 como una línea recta de la elección a la regeneración: el llamado del evangelio se proclama a todos, pero los elegidos son los que nacen de nuevo.",
+      "fuentes": [
+        "r1_013#22"
+      ]
+    },
+    {
+      "titulo": "Lewis Sperry Chafer, Teología sistemática (versión resumida)",
+      "texto": "Chafer reúne el vocabulario de la elección en estas cartas: elegidos (1P 1:2; 5:13), destinado (1P 1:20), llamados (1P 2:21; 3:9) y la exhortación a hacer firme la elección (2P 1:10).",
+      "fuentes": [
+        "r1_019#11"
+      ]
+    },
+    {
+      "titulo": "Tres requisitos del apóstol (MacArthur y Mayhue, Teología sistemática, PDF 1043-1044)",
+      "texto": "MacArthur y Mayhue enumeran tres requisitos del apóstol de Jesucristo: haber sido elegido directamente por él, poder hacer las señales de apóstol (2 Co 12:12) y ser testigo ocular del Cristo resucitado (Hch 1:21-25; 1 Co 15:8). Sus escritos tienen la autoridad de la Escritura (2P 3:16).",
+      "fuentes": [
+        "r1_018_b#18"
+      ]
+    }
+  ]
+}

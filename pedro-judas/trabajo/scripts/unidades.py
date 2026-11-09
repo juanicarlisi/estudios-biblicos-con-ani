@@ -99,6 +99,13 @@ def rango(ref, libro=None):
     if v is None: return idx(lib, c, 1), idx(lib, c, VV[lib][c - 1])
     if v > VV[lib][c - 1]: return None
     return idx(lib, c, v), idx(lib, c, v)
+def especial(ref):
+    """'intro' / 'tema' / '1P intro' / '2J tema' -> ('intro'|'tema', sigla o None); cualquier otra cosa -> None."""
+    m = re.fullmatch(r'\s*(?:(\S+)\s+)?(intro|tema)\s*', str(ref))
+    if not m: return None
+    s = sigla(m.group(1)) if m.group(1) else None
+    if m.group(1) and not s: return None
+    return m.group(2), s
 def cv(i, con_sigla=True):
     s, c, v = desde_idx(i)
     t = f'{v}' if len(VV[s]) == 1 else f'{c}:{v}'

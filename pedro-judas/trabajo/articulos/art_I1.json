@@ -1,0 +1,343 @@
+{
+  "id": "I1",
+  "titulo": "Antes de empezar: las cartas de Pedro, Juan y Judas",
+  "bajada": "Qué son las epístolas generales, a quiénes se escribieron, cómo llegaron al canon, qué las une y cómo leerlas con Apocalipsis.",
+  "entrada": {
+    "texto": "Entre las cartas de Pablo y Apocalipsis hay seis cartas cortas que a menudo se leen de pasada: 1 y 2 Pedro, 1, 2 y 3 Juan y Judas. Vienen de los últimos años de la generación apostólica: Pedro escribe sabiendo que pronto dejará el cuerpo, Juan es el último testigo ocular con vida y Judas escribe de urgencia para llamar a defender la fe. Antes de entrar día por día conviene tener el mapa completo.",
+    "fuentes": [
+      "kis2p_02_b#26",
+      "mbib1j_01_a#5",
+      "kis1j_01_a#10",
+      "deirosjd_01_a#25",
+      "kisjd_01_a#1"
+    ]
+  },
+  "versiculos": [
+    {
+      "ref": "1P 1:1",
+      "porque": "A quiénes escribe Pedro: creyentes dispersos por Asia Menor."
+    },
+    {
+      "ref": "2P 3:1",
+      "porque": "Une las dos cartas de Pedro y a sus lectores."
+    },
+    {
+      "ref": "Jd 3",
+      "porque": "Defender una fe ya entregada, no inventar otra."
+    },
+    {
+      "ref": "1J 4:1",
+      "porque": "Juan frente a los falsos profetas, eco de Pedro y Judas."
+    },
+    {
+      "ref": "1P 5:9",
+      "porque": "El mismo sufrimiento alcanza a los hermanos en todo el mundo."
+    },
+    {
+      "ref": "2P 3:13",
+      "porque": "La esperanza que sostiene a todas."
+    }
+  ],
+  "apartados": [
+    {
+      "titulo": "Por qué se llaman «generales» o «católicas»",
+      "parrafos": [
+        {
+          "texto": "Kistemaker agrupa estas cartas, junto con Hebreos y Santiago, en las ocho «Epístolas Generales»: escritos enviados a iglesias o a personas que después circulaban de congregación en congregación, y que se conocen por el nombre de su autor y no por el de sus destinatarios. El otro nombre tradicional, «católicas», no tiene que ver con la Iglesia de Roma: quiere decir «universales». El Comentario Beacon explica que Judas está en el grupo porque no se dirige a una congregación ni a una persona determinada; el Comentario Bíblico Mundo Hispano agrega que las de Juan merecen el nombre porque sus verdades valen para todas las iglesias.",
+          "fuentes": [
+            "kis2p_01_a#1",
+            "mbib1p_01_a#1",
+            "beajd_01_a#5",
+            "cbmh23j_01_a#10"
+          ]
+        },
+        {
+          "texto": "No todas son iguales. 1 Juan no tiene remitente, saludo ni destinatario, aunque su tono afectuoso muestra que es una carta; 2 y 3 Juan son cartas personales en regla. Deiros advierte que Judas, aunque su mensaje sirve a todos, fue una carta genuina escrita a una comunidad concreta en medio de una emergencia.",
+          "fuentes": [
+            "kis1j_01_a#1",
+            "kis23j_01_a#2",
+            "deirosjd_01_a#25"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "A quiénes se escribieron",
+      "parrafos": [
+        {
+          "texto": "1 Pedro va dirigida «a los expatriados de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia», cinco regiones del norte y el oeste de la actual Turquía. El Comentario Moody nota que «expatriados» era una imagen del Israel disperso, pero que encajaba también con los muchos lectores gentiles, a quienes Pedro recuerda que antes no eran pueblo y ahora son pueblo de Dios. Como 2 Pedro se presenta como «la segunda carta» al mismo grupo, la mayoría de los autores consultados entiende que los lectores son los mismos.",
+          "fuentes": [
+            "mbib2p_01_a#9",
+            "cbmh1p_01_a#10",
+            "moodynt_01_a#9",
+            "kis2p_01_b#8"
+          ]
+        },
+        {
+          "texto": "Las cartas de Juan apuntan a la zona de Éfeso a fines del siglo I, donde según los padres de la iglesia el apóstol vivió sus últimos años; el Comentario Bíblico Mundo Hispano piensa en las siete iglesias de Asia de Apocalipsis como posibles destinatarias. El destino de Judas no se conoce: unos piensan en cristianos gentiles y otros, por su uso de escritos judíos, en cristianos de origen judío.",
+          "fuentes": [
+            "mbib1j_01_a#5",
+            "cbmh1j_01_a#6",
+            "beajd_01_a#5"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Las dudas antiguas sobre el canon",
+      "parrafos": [
+        {
+          "texto": "«Canon» viene de una palabra que significa caña o vara de medir: la norma con la que las iglesias reconocían los libros inspirados, y que valoraba mucho que el autor fuera apóstol. 1 Pedro y 1 Juan se citan desde muy temprano (Policarpo, Papías, Ireneo) y nunca estuvieron en duda. Con las otras cuatro fue distinto: Eusebio de Cesarea, hacia el 325, puso a 2 Pedro, 2 y 3 Juan y Judas, junto con Santiago, entre los libros «discutidos».",
+          "fuentes": [
+            "cbmh1p_01_a#17",
+            "kis1j_01_a#2",
+            "mbib2p_01_a#3",
+            "kisjd_01_a#12"
+          ]
+        },
+        {
+          "texto": "Las razones fueron distintas en cada caso. 2 Pedro casi no deja rastros en el siglo II, falta en la lista de Muratori y en la versión siríaca Peshita, y hasta Jerónimo notaba que su estilo difiere del de 1 Pedro; MacArthur admite que ningún libro del Nuevo Testamento generó más debate. De 2 y 3 Juan, Orígenes dice que no todos las tenían por genuinas: son breves, privadas y el autor no da su nombre. Judas fue bien recibida en Roma, Cartago y Alejandría hacia fines del siglo II, pero después cayó bajo sospecha por sus alusiones a la Asunción de Moisés y al libro de Enoc.",
+          "fuentes": [
+            "kis2p_01_a#19",
+            "moodynt_01_c#15",
+            "mbib2p_01_a#3",
+            "kis1j_01_a#4",
+            "cbmh23j_01_b#1",
+            "deirosjd_01_a#2",
+            "kisjd_01_a#12"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Cómo se resolvieron",
+      "parrafos": [
+        {
+          "texto": "Las dudas no impidieron que las cartas se siguieran leyendo y citando. Orígenes llamó Escritura a 2 Pedro, Clemente de Alejandría comentó las epístolas generales, el papiro Bodmer P72, del siglo III, contiene Judas y 2 Pedro, y Atanasio las incluyó en su lista del año 367. Los concilios de Laodicea, Hipona (393) y Cartago (397) terminaron de reconocerlas; las iglesias de habla siríaca tardaron más, hasta comienzos del siglo VI.",
+          "fuentes": [
+            "kis2p_01_a#19",
+            "macjd_01_a#3",
+            "r1_001#14",
+            "cbmh23j_01_a#3",
+            "deirosjd_01_a#2",
+            "kis1j_01_a#4"
+          ]
+        },
+        {
+          "texto": "Kistemaker y MacArthur subrayan que la iglesia antigua no aceptaba cualquier escrito con nombre de apóstol: rechazó un Evangelio, unos Hechos y un Apocalipsis atribuidos a Pedro, y Pablo ya alertaba contra cartas falsas en su nombre. Kruger, citado por MacArthur, concluye que, dada la firmeza de 2 Pedro en el canon del siglo IV, la carga de la prueba recae sobre quien la quiera sacar. Kistemaker resume que, en último análisis, es Dios quien determina el contenido del canon.",
+          "fuentes": [
+            "kis2p_01_a#15",
+            "mac2p_01_a#31",
+            "mac2p_01_a#16",
+            "kisjd_01_a#14"
+          ]
+        },
+        {
+          "texto": "En la Reforma el tema volvió a la mesa. Calvino dudó de que Pedro hubiera escrito personalmente 2 Pedro, pero no de su lugar en el canon, y aceptó Judas porque no contradice la doctrina apostólica. Lutero aceptó 2 Pedro, pero dejó sin número en su Nuevo Testamento de 1522 a Hebreos, Santiago, Judas y Apocalipsis.",
+          "fuentes": [
+            "kis2p_01_a#20",
+            "kisjd_01_a#13",
+            "deirosjd_01_a#3"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Lo que tienen en común",
+      "parrafos": [
+        {
+          "texto": "Sufrimiento. 1 Pedro escribe para que los lectores estén firmes en la gracia de Dios ante una persecución creciente, sin amargarse ni perder de vista la venida de Cristo, y les recuerda que lo mismo viven los hermanos en todo el mundo. Falsos maestros. Según el Diccionario Bíblico Mundo Hispano y MacArthur, 2 Pedro pasa de la amenaza de afuera a una peor, la de los maestros que surgen adentro; Judas los retrata casi con las mismas palabras, y Juan habla de anticristos que salieron de la congregación.",
+          "fuentes": [
+            "mac1p_01_a#20",
+            "kis1p_07#7",
+            "dbmh_02_a#21",
+            "mac2p_01_a#33",
+            "mac2p_03_b#2",
+            "kis1j_03_b#21"
+          ]
+        },
+        {
+          "texto": "Verdad y amor. Juan insiste en que el amor se vive dentro de los límites de la verdad: amar a los hermanos y, a la vez, no darles lugar a quienes niegan la doctrina de Cristo. Esperanza. Ninguna se entiende sin la venida del Señor: Pedro la defiende frente a los burladores, Judas la anuncia con la profecía de Enoc y Juan la presenta como motivo para vivir limpios. Deiros la llama el mayor incentivo para una vida consecuente.",
+          "fuentes": [
+            "mcg2j_01#13",
+            "kis23j_01_a#2",
+            "cbmh23j_01_a#10",
+            "kis2p_05#17",
+            "beajd_01_b#8",
+            "deirosjd_02_b#31",
+            "kis1j_04_b#11"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Cómo leerlas junto con Apocalipsis",
+      "parrafos": [
+        {
+          "texto": "Estas cartas y Apocalipsis comparten época, región y problemas. MacArthur observa que cuando Juan escribió Apocalipsis solo dos de las siete iglesias, Esmirna y Filadelfia, seguían del todo fieles, y que Judas, unos veinticinco años antes, ya mostraba la batalla por la verdad en marcha. Por eso propone leer Judas como la puerta de entrada a Apocalipsis: en Judas se desenmascara a los falsos maestros y se anuncia su fin; en Apocalipsis se ve ese juicio y el triunfo de Cristo.",
+          "fuentes": [
+            "macjd_01_a#14",
+            "mac1j_01#1"
+          ]
+        },
+        {
+          "texto": "Con Juan el vínculo es todavía más directo. Wiersbe presenta sus escritos como complementarios: el Evangelio mira al pasado (Cristo murió por nosotros), las cartas al presente (Cristo vive en nosotros) y Apocalipsis al futuro (Cristo viene por nosotros). Y la imagen de la venida como ladrón aparece tanto en Pedro como en Apocalipsis.",
+          "fuentes": [
+            "r1_007_b#2",
+            "kis2p_04_b#6"
+          ]
+        }
+      ]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Quién escribió 2 Pedro?",
+      "posturas": [
+        {
+          "postura": "Muchos especialistas la consideran un escrito puesto bajo el nombre de Pedro por un discípulo suyo, práctica que no se veía como engaño en la antigüedad.",
+          "quien": "Postura que informa Roldán, con cita de Ricardo Franco (Comentario Bíblico Mundo Hispano)",
+          "fuentes": [
+            "cbmh2p_01_a#3"
+          ]
+        },
+        {
+          "postura": "La escribió el apóstol: las diferencias de estilo se explican porque en 1 Pedro usó a Silvano como secretario y por el tema distinto; una carta falsificada no habría sido inspirada ni aceptada.",
+          "quien": "Kistemaker, MacArthur, Geisler y Howe",
+          "fuentes": [
+            "kis2p_01_a#15",
+            "mac2p_01_a#31",
+            "r1_001#14"
+          ]
+        }
+      ],
+      "nota": "Todos reconocen que fue la carta más discutida del Nuevo Testamento y que terminó aceptada en el canon."
+    },
+    {
+      "tema": "Judas y 2 Pedro 2: ¿quién usó a quién?",
+      "posturas": [
+        {
+          "postura": "Judas es posterior y resume 2 Pedro.",
+          "quien": "Lutero; la Biblia de estudio MacArthur",
+          "fuentes": [
+            "deirosjd_01_a#23",
+            "mbibjd_01_a#5"
+          ]
+        },
+        {
+          "postura": "2 Pedro toma material de Judas y omite sus citas de libros apócrifos.",
+          "quien": "Roldán (Comentario Bíblico Mundo Hispano)",
+          "fuentes": [
+            "cbmh2p_01_a#1"
+          ]
+        },
+        {
+          "postura": "Ambos usan una fuente común, quizá un sermón modelo contra los sectarios.",
+          "quien": "Reicke y Green; Deiros la ve como la más aceptable",
+          "fuentes": [
+            "deirosjd_01_a#23"
+          ]
+        }
+      ],
+      "nota": "Deiros reconoce que las tres hipótesis tienen argumentos y puntos débiles."
+    }
+  ],
+  "citas": [
+    {
+      "texto": "no contiene nada inconsistente con la pureza de la doctrina apostólica",
+      "autor": "Juan Calvino, citado por Simon J. Kistemaker",
+      "obra": "Comentario al Nuevo Testamento: Judas",
+      "pagina": "412"
+    }
+  ],
+  "conexiones": [
+    {
+      "ref": "Ap 2:1-3:22",
+      "nota": "Las siete iglesias de Asia muestran el mismo error doctrinal y moral que combaten Juan, Pedro y Judas.",
+      "fuentes": [
+        "macjd_01_a#14",
+        "mac1j_01#1"
+      ]
+    }
+  ],
+  "para_vivir": [
+    {
+      "texto": "Las cartas más breves se conservaron por la providencia de Dios: ninguna página de la Biblia sobra.",
+      "fuentes": [
+        "kis1j_01_a#4",
+        "kisjd_01_a#1"
+      ]
+    },
+    {
+      "texto": "La venida de Cristo no es un tema para especialistas: Deiros propone preguntarse si nos gustaría que nos encontrara haciendo lo que estamos haciendo.",
+      "fuentes": [
+        "deirosjd_02_b#31"
+      ]
+    }
+  ],
+  "para_conversar": [
+    "¿Qué amenaza nos cuesta más ver hoy: la presión de afuera (1 Pedro) o el error que entra por adentro (2 Pedro, Judas, Juan)?",
+    "¿Qué nos dice que la iglesia antigua discutiera siglos antes de reconocer estas cartas, en vez de aceptar cualquier escrito con nombre de apóstol?",
+    "¿Cómo sostenemos juntos, en casa, la verdad y el amor sin sacrificar uno?"
+  ],
+  "dias_relacionados": [
+    1,
+    25,
+    30,
+    35,
+    39,
+    44,
+    57,
+    59,
+    61,
+    62,
+    66
+  ],
+  "visuales": [
+    "mapa-provincias",
+    "dg-cronologia",
+    "dg-2p-judas"
+  ],
+  "refs_libros": [
+    "1P 1:1",
+    "1P 5:9",
+    "2P 3:1",
+    "2P 3:13",
+    "1J 2:18-19",
+    "1J 4:1",
+    "2J 7-11",
+    "Jd 3",
+    "Jd 14-15"
+  ],
+  "notas_no_usadas": [
+    "bea1p_01_a#10",
+    "bea2p_01_a#13",
+    "cbmh1j_01_a#14",
+    "cbmh1p_02_c#16",
+    "cbmhjd_01_a#2",
+    "kis1j_01_a#11",
+    "kis1j_01_a#12",
+    "kis1j_01_a#13",
+    "kis1j_01_a#15",
+    "kis1j_01_a#20",
+    "kis1j_01_a#3",
+    "kis1j_01_a#5",
+    "kis1j_01_a#7",
+    "kis1j_01_a#8",
+    "kis1j_01_b#20",
+    "kis1j_01_b#21",
+    "kis1j_05_b#1",
+    "kis1p_03_a#28",
+    "kis1p_03_a#29",
+    "kis1p_04_a#37",
+    "kis2p_04_a#19",
+    "kis2p_04_a#20",
+    "mac1j_05_b#4",
+    "mcg2p_01_a#1",
+    "mcg2p_03_a#12",
+    "moodynt_02_c#18",
+    "r1_013#35",
+    "r1_016#15",
+    "r1_020#4"
+  ]
+}

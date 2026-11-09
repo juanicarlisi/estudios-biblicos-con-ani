@@ -1,0 +1,153 @@
+{
+  "id": "I5",
+  "titulo": "Judas: autor, fecha, destinatarios y el uso de Enoc",
+  "bajada": "Quién fue el «hermano de Jacobo», a quién escribió, por qué cambió de tema a mitad de camino y qué significa que una carta inspirada cite a Enoc y a la Asunción de Moisés.",
+  "entrada": {
+    "texto": "Judas tiene apenas 25 versículos y es fácil pasarla por alto entre libros más largos; Valle Ruiz la llama uno de los libros más inadvertidos de la Biblia, y Deiros nota que su parecido con 2 Pedro hizo que muchos la leyeran como una copia achicada de la carta del apóstol. Sin embargo, es el único libro del Nuevo Testamento dedicado por completo a la apostasía, y Kistemaker señala que su saludo, sus exhortaciones y su doxología final no están repetidos en ninguna otra parte. Este artículo reúne lo que hace falta saber antes de leerla: quién la escribió, cuándo y para quién, contra quiénes, con qué estilo, y qué hacemos con sus citas de Enoc y de Moisés.",
+    "fuentes": ["cbmhjd_01_a#1", "deirosjd_01_a#1", "mbibjd_01_a#7", "kisjd_01_a#14"]
+  },
+  "versiculos": [
+    {"ref": "Jd 1", "porque": "El autor se presenta como siervo de Jesucristo y hermano de Jacobo, sin invocar el parentesco con el Señor."},
+    {"ref": "Jd 3", "porque": "El cambio de propósito: quería escribir de la salvación común y terminó exhortando a contender por la fe."},
+    {"ref": "Jd 4", "porque": "Los «ciertos hombres» que entraron encubiertamente y convirtieron la gracia en libertinaje."},
+    {"ref": "Jd 9", "porque": "La disputa de Miguel con el diablo por el cuerpo de Moisés, que remite a la Asunción de Moisés."},
+    {"ref": "Jd 14-15", "porque": "La profecía de Enoc, tomada del libro de 1 Enoc."},
+    {"ref": "Jd 17", "porque": "El autor se distingue de los apóstoles y recuerda lo que ellos ya habían anunciado."}
+  ],
+  "apartados": [
+    {
+      "titulo": "¿Cuál Judas?",
+      "parrafos": [
+        {
+          "texto": "Judas era un nombre muy común: MacArthur cuenta ocho en el Nuevo Testamento, popular por Judá, padre de la tribu, y por Judas Macabeo. Pero solo dos se relacionan con un Jacobo, como pide el versículo 1: el apóstol Judas (también llamado Tadeo, Jn 14:22, «no el Iscariote») y Judas, el hermano de Jesús nombrado en Mt 13:55 y Mr 6:3. MacArthur, el Nuevo Comentario Bíblico y Kistemaker coinciden en que el griego de Lc 6:16 y Hch 1:13 normalmente se lee hijo de Jacobo y no hermano, de modo que el apóstol no encaja con la presentación de esta carta.",
+          "fuentes": ["macjd_01_a#4", "ncbjd_01#2", "kisjd_01_a#2", "mcgjd_01#1"]
+        },
+        {
+          "texto": "Hay además dos indicios internos. Un apóstol habría apelado a su apostolado, y en cambio el autor habla de los apóstoles como de otros cuyas palabras hay que recordar (v. 17). Y el Jacobo nombrado sin más aclaración tiene que ser el más conocido después del martirio del hijo de Zebedeo (Hch 12:2): el hermano del Señor que lideraba la iglesia de Jerusalén (Gá 1:19) y escribió la carta de Santiago. Por eso Rose, siguiendo a Guthrie, y la mayoría de los comentaristas de nuestra biblioteca concluyen que el autor es Judas, medio hermano de Jesús. Algunos eruditos católicos y protestantes identifican al apóstol con el hermano del Señor, entendiendo hermano como pariente, pero Rose objeta que después de elegidos los doce los hermanos de Jesús todavía no creían en él.",
+          "fuentes": ["beajd_01_a#1", "macjd_01_a#4", "mbibjd_01_a#2", "deirosjd_01_a#9"]
+        },
+        {
+          "texto": "Lo conmovedor es su historia. Los hermanos de Jesús no creyeron en él durante su ministerio (Jn 7:5); después de la resurrección aparecen con los discípulos (Hch 1:14). Judas no se llama «hermano del Señor» sino siervo, esclavo, de Jesucristo, igual que Santiago (Stg 1:1). El Nuevo Comentario Bíblico ve en esa humildad una señal de autenticidad, y MacArthur agrega que un falsificador habría elegido un nombre famoso, no a un hermano poco conocido. Deiros reseña una corriente académica reciente que considera la carta seudónima, pero él mismo prefiere la autoría tradicional con los argumentos de Bauckham.",
+          "fuentes": ["ncbjd_01#1", "mbibjd_01_a#5", "ncbjd_01#2", "macjd_01_a#6", "deirosjd_01_a#6", "mcgjd_01#1"]
+        },
+        {
+          "texto": "¿Podía un galileo escribir un griego tan cuidado? Kistemaker y Deiros responden que Galilea estaba muy influida por la lengua griega, lengua franca de la región, y MacArthur añade que Judas pudo usar un secretario como Pedro (1P 5:12). Deiros lo describe como un judeocristiano que conoce el Antiguo Testamento y las tradiciones judías, y Guthrie, citado por Rose, como un profeta cristiano apasionado más que un artista literario.",
+          "fuentes": ["kisjd_01_a#3", "deirosjd_01_a#10", "macjd_01_a#6", "beajd_01_a#8"]
+        }
+      ]
+    },
+    {
+      "titulo": "Fecha, lugar y destinatarios",
+      "parrafos": [
+        {
+          "texto": "La carta no dice cuándo ni desde dónde se escribió, y las propuestas varían. MacArthur la ubica entre el 68 y el 70: después de 2 Pedro, a la que cree que Judas cita (vv. 17-18), y antes de la caída de Jerusalén, que no usa como ejemplo de juicio. Núñez, siguiendo a Geisler, habla de los años 60 a 70; Valle Ruiz, de alrededor del 70; Kistemaker deja un margen de 50 a 75, con preferencia por mediados de los 60 si Judas es anterior o paralela a 2 Pedro. Rose deja abierto el período 65 a 80, y Deiros considera posible entre el 70 y el 90. Un dato antiguo ayuda a poner un límite: Eusebio, tomándolo de Hegesipo, cuenta que dos nietos de Judas fueron interrogados por el emperador Domiciano (81-96), así que el abuelo vivió en la segunda mitad del siglo I. La fecha del siglo II que proponen quienes niegan la autoría de Judas no armoniza con el uso temprano de la carta.",
+          "fuentes": ["macjd_01_a#7", "mbibjd_01_a#3", "nunez2p_01_a#7", "cbmhjd_01_a#4", "kisjd_01_a#11", "beajd_01_a#4", "deirosjd_01_a#17", "ncbjd_01#3"]
+        },
+        {
+          "texto": "Tampoco se sabe a quién iba dirigida: la dirección, dice Kistemaker, se perdió. Por los ejemplos del Antiguo Testamento y de la literatura judía que los lectores debían reconocer sin explicación, Kistemaker, MacArthur y Rose (con Reicke) piensan en cristianos de origen judío, quizá de la dispersión; Robertson, en cambio, pensaba en una comunidad de gentiles cristianos. Deiros propone judeocristianos helenizados de algún lugar del Mediterráneo oriental. El Nuevo Comentario Bíblico advierte que las citas pueden reflejar el trasfondo del autor más que el de los lectores. Aunque se la cuenta entre las cartas generales, el uso de «vosotros» muestra que Judas tenía en vista personas concretas.",
+          "fuentes": ["kisjd_01_a#10", "macjd_01_a#8", "beajd_01_a#5", "deirosjd_01_a#18", "ncbjd_01#5", "deirosjd_01_a#25"]
+        }
+      ]
+    },
+    {
+      "titulo": "El propósito: contender por la fe frente a los infiltrados",
+      "parrafos": [
+        {
+          "texto": "Judas pensaba escribir sobre la salvación que todos los creyentes comparten, pero la noticia de falsos maestros que se habían metido en las congregaciones lo obligó a cambiar de tema y exhortar a contender por la fe dada una vez a los santos (v. 3). Kistemaker y Deiros resumen el propósito en tres llamados: luchar por la fe (v. 3), edificarse sobre la santísima fe (v. 20) y tener misericordia de los que dudan (v. 22). Deiros subraya que no escribe a los sectarios sino a los fieles, a quienes llama llamados, amados y guardados (v. 1).",
+          "fuentes": ["macjd_01_a#8", "beajd_01_a#2", "kisjd_01_a#6", "deirosjd_01_a#25"]
+        },
+        {
+          "texto": "¿Quiénes eran los «ciertos hombres» del versículo 4? Entraron encubiertamente, convirtieron la gracia de Dios en permiso para pecar y negaron a Jesucristo como único Soberano y Señor. Kistemaker y MacArthur coinciden en una frase: estaban en la iglesia sin ser de la iglesia, porque no tenían el Espíritu (v. 19). Deiros insiste en lo grave de esto: el peligro no era un ataque de afuera sino una negación de la fe con los hechos, disfrazada de piedad y quizá respaldada en supuestas revelaciones. Sobre su identidad hay dos lecturas: el Comentario Moody ve un gnosticismo incipiente; MacArthur y Deiros señalan que en la carta no aparecen las doctrinas propias del gnosticismo y que Judas los denuncia sobre todo por su vida impía.",
+          "fuentes": ["kisjd_01_a#7", "macjd_01_a#10", "deirosjd_01_b#4", "deirosjd_01_a#19", "moodynt_03_b#2", "macjd_01_a#9"]
+        }
+      ]
+    },
+    {
+      "titulo": "Un estilo en tríadas",
+      "parrafos": [
+        {
+          "texto": "Rose, siguiendo a Mayor, señala como rasgo distintivo de Judas su gusto por los grupos de tres, y Núñez y Kistemaker los enumeran: llamados, amados y guardados (v. 1); misericordia, paz y amor (v. 2); Israel en el desierto, los ángeles que no guardaron su dignidad y Sodoma y Gomorra (vv. 5-7); contaminan la carne, rechazan la autoridad y blasfeman de las potestades (v. 8); Caín, Balaam y Coré (v. 11); y la doxología que abarca antes de todos los siglos, ahora y por todos los siglos (v. 25). Rose agrega una observación que equilibra la lectura: detrás de los ayes de Judas hay un corazón lleno de amor y misericordia, como en los ayes del Señor (Mt 23).",
+          "fuentes": ["beajd_01_a#8", "nunez2p_02_b#30", "kisjd_01_a#4"]
+        },
+        {
+          "texto": "Bauckham, citado por Deiros, la define como un sermón en forma de carta: una homilía que Judas mandó por escrito porque no podía estar con sus lectores. MacArthur, por su parte, cuenta al menos nueve ilustraciones del Antiguo Testamento, aunque no cita ningún versículo de manera directa.",
+          "fuentes": ["deirosjd_01_a#19", "mbibjd_01_a#1", "mbibjd_01_a#8"]
+        }
+      ]
+    },
+    {
+      "titulo": "Enoc y la Asunción de Moisés: qué significa citarlos",
+      "parrafos": [
+        {
+          "texto": "Judas es el único escritor del Nuevo Testamento que cita un libro apócrifo judío. En el versículo 9 recuerda una disputa entre el arcángel Miguel y el diablo por el cuerpo de Moisés que el Antiguo Testamento no relata (Dt 34:5-6 solo dice que Dios lo sepultó): Kistemaker y Deiros la ubican en el Testamento o Asunción de Moisés, cuyo final se perdió. En los versículos 14-15 cita una profecía que se encuentra en 1 Enoc 1:9, un libro muy conocido en el siglo I del que se hallaron fragmentos arameos entre los Rollos del Mar Muerto. Rose aclara que no se puede probar que citara esos libros y no una tradición común anterior, aunque muchos eruditos lo suponen.",
+          "fuentes": ["beajd_01_a#9", "kisjd_01_b#23", "deirosjd_02_b#6", "deirosjd_02_b#24", "kisjd_02_a#19"]
+        },
+        {
+          "texto": "¿Significa eso que Judas consideraba inspirados esos libros? La mayoría de los comentaristas de nuestra biblioteca responde que no. Rose, MacArthur, el Nuevo Comentario Bíblico y la Biblia MacArthur comparan su proceder con el de Pablo, que citó a poetas paganos (Hch 17:28; Tit 1:12) y tradiciones judías como la de Janes y Jambres (2Ti 3:8) sin tenerlos por Escritura. Geisler y Howe agregan un criterio: cuando la Biblia usa una fuente no inspirada, no aparecen las fórmulas habituales como «está escrito». Kistemaker lo resume así: lo citado tiene autoridad dentro de la carta porque el Espíritu inspiró a Judas a incorporarlo, pero eso no convierte en Escritura a todo 1 Enoc. Citar una verdad no es avalar el libro entero.",
+          "fuentes": ["beajd_01_a#9", "macjd_01_a#6", "macjd_02_a#26", "ncbjd_01#5", "mbibjd_01_a#10", "r1_001#10", "kisjd_02_a#20"]
+        },
+        {
+          "texto": "El punto que más se discute es el verbo «profetizó» del versículo 14. Kistemaker, con Guthrie, lo entiende en el sentido general de predecir, sin reconocer a 1 Enoc como Escritura. Deiros, en cambio, señala que ese verbo indica que para Judas el libro era profético. La iglesia antigua también se dividió: Tertuliano y Clemente de Alejandría veían en la cita una prueba del valor de Enoc, mientras que en tiempos de Jerónimo muchos la usaban para dudar de Judas.",
+          "fuentes": ["kisjd_02_a#22", "deirosjd_02_b#25", "deirosjd_01_b#1"]
+        }
+      ]
+    },
+    {
+      "titulo": "Su lugar en el canon y el bosquejo",
+      "parrafos": [
+        {
+          "texto": "El camino de Judas al canon fue lento justamente por esas citas. Para fines del siglo II la conocían en Roma (Canon de Muratori, hacia el 170), Cartago (Tertuliano) y Alejandría (Clemente), y el papiro Bodmer P72 del siglo III la contiene. Eusebio la contó entre los libros discutidos, aunque no entre los espurios, y Jerónimo explicó que muchos la rechazaban por Enoc, aunque él la aceptaba. Atanasio la incluyó en su lista del 367 y para fines del siglo IV fue reconocida en general, con el Concilio de Cartago (397). En la Reforma, Lutero la puso en un lugar secundario, al final de su Nuevo Testamento de 1522, porque la veía como un resumen de 2 Pedro; Calvino la aceptó porque es útil, no contradice la doctrina apostólica y había sido recibida por algunos de los mejores.",
+          "fuentes": ["deirosjd_01_a#2", "macjd_01_a#3", "kisjd_01_a#12", "kisjd_01_a#1", "beajd_01_a#7", "deirosjd_01_a#3", "kisjd_01_a#13"]
+        },
+        {
+          "texto": "Sobre la relación con 2 Pedro, que comparte con Judas casi toda la sección de los falsos maestros, hay tres posturas serias: Judas depende de 2 Pedro (Lutero, Bigg, MacArthur), 2 Pedro depende de Judas (Mayor) o ambas usan una fuente común, quizá oral (Reicke, Green), que Deiros y Rose consideran la más aceptable. Los bosquejos de los comentaristas coinciden en lo esencial: saludo (vv. 1-2), ocasión y propósito (vv. 3-4), los apóstatas con sus ejemplos, su retrato y su condena (vv. 5-16), exhortaciones a los creyentes (vv. 17-23) y doxología (vv. 24-25). McGee resume el tema como la seguridad del creyente en días de apostasía.",
+          "fuentes": ["deirosjd_01_a#23", "beajd_01_a#6", "macjd_01_a#12", "deirosjd_01_a#25", "moodynt_03_b#3", "ncbjd_01#6", "mcgjd_01#8"]
+        }
+      ]
+    }
+  ],
+  "palabras": [
+    {"ref": "Jd 1", "griego": "δοῦλος", "translit": "doûlos", "significado": "Siervo, literalmente esclavo: Judas se presenta por su relación con Cristo y no por el parentesco de sangre.", "fuentes": ["mcgjd_01#1"]},
+    {"ref": "Jd 14", "griego": "ἐπροφήτευσεν", "translit": "eprophḗteusen", "significado": "Profetizó: para Kistemaker y Guthrie, predecir en sentido general; para Deiros, señal de que Judas tenía a Enoc por profético.", "fuentes": ["deirosjd_02_b#25", "kisjd_02_a#22"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Quién escribió la carta?",
+      "posturas": [
+        {"postura": "Judas, medio hermano del Señor y hermano de Santiago, distinto del apóstol.", "quien": "MacArthur, Rose (con Guthrie), Kistemaker, Nuevo Comentario Bíblico, Deiros (con Bauckham)", "fuentes": ["macjd_01_a#4", "beajd_01_a#1", "kisjd_01_a#2", "ncbjd_01#2", "deirosjd_01_a#6"]},
+        {"postura": "El apóstol Judas, identificado con el hermano del Señor (hermano en sentido amplio de pariente).", "quien": "Algunos eruditos católicos y protestantes, según Rose", "fuentes": ["beajd_01_a#1"]},
+        {"postura": "Un autor desconocido que usó el nombre de Judas (seudonimia).", "quien": "Corriente académica reciente reseñada por Deiros (Käsemann, Kelly, Reicke y otros)", "fuentes": ["deirosjd_01_a#6"]}
+      ],
+      "nota": "Todos nuestros comentaristas aceptan la autoría de Judas, hermano del Señor."
+    },
+    {
+      "tema": "¿Qué implica que Judas cite 1 Enoc?",
+      "posturas": [
+        {"postura": "Judas usa una verdad conocida como ilustración, guiado por el Espíritu, sin tener el libro por Escritura; «profetizó» significa predecir en sentido general.", "quien": "Kistemaker (con Guthrie), MacArthur, Rose, Geisler y Howe", "fuentes": ["kisjd_02_a#22", "macjd_01_a#6", "beajd_01_a#9", "r1_001#10"]},
+        {"postura": "El verbo «profetizó» indica que Judas veía en el libro una profecía inspirada.", "quien": "Deiros lo señala; antes, Clemente de Alejandría y Tertuliano", "fuentes": ["deirosjd_02_b#25"]}
+      ],
+      "nota": "Todos coinciden en que la cita, dentro de Judas, es Palabra de Dios, y ninguno incorpora 1 Enoc al canon."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Mt 13:55", "nota": "Judas aparece entre los hermanos de Jesús junto a Jacobo, José y Simón.", "fuentes": ["ncbjd_01#1"]},
+    {"ref": "Jn 7:5", "nota": "Los hermanos de Jesús no creían en él; después de la resurrección Judas sería su siervo.", "fuentes": ["ncbjd_01#1", "mbibjd_01_a#5"]},
+    {"ref": "Dt 34:5-6", "nota": "Dios sepultó a Moisés y nadie conoce su sepultura; la disputa de Miguel viene de la tradición judía posterior.", "fuentes": ["deirosjd_02_b#6", "kisjd_01_b#25"]},
+    {"ref": "Hch 17:28", "nota": "Pablo cita a poetas griegos sin hacerlos Escritura, un paralelo con el uso de Enoc.", "fuentes": ["macjd_01_a#6", "ncbjd_01#5"]},
+    {"ref": "2P 2:1-3", "nota": "La sección paralela de 2 Pedro sobre los falsos maestros, que conviene leer junto con Judas.", "fuentes": ["beajd_01_a#6", "nunez2p_02_b#29"]}
+  ],
+  "para_vivir": [
+    {"texto": "Judas tuvo que dejar de lado la carta que quería escribir para escribir la que hacía falta. A veces cuidar a los hermanos pide hablar de lo incómodo, pero, como él, con misericordia hacia los que dudan.", "fuentes": ["macjd_01_a#8", "beajd_01_a#8"]},
+    {"texto": "El peligro que Judas denuncia viene de adentro y se nota en la vida más que en los discursos. Una fe sana se reconoce por sus frutos, y eso vale primero para nosotros mismos.", "fuentes": ["deirosjd_01_b#4", "macjd_01_a#9"]},
+    {"texto": "El hermano que no creía terminó llamándose esclavo de Jesucristo. Nadie está demasiado lejos para ser alcanzado por el Resucitado.", "fuentes": ["ncbjd_01#1", "mbibjd_01_a#5"]}
+  ],
+  "para_conversar": [
+    "Judas se presenta como siervo de Jesucristo y no como su hermano. ¿Qué nos dice eso sobre cómo nos presentamos nosotros?",
+    "¿Cómo distinguir hoy, sin volvernos desconfiados de todos, a quien usa la gracia como permiso para pecar?",
+    "¿Nos ayuda saber que la Biblia puede citar una verdad de un libro no inspirado sin hacer Escritura a ese libro? ¿Dónde más lo vemos?"
+  ],
+  "dias_relacionados": [61, 62, 63, 64, 65, 66, 67, 68],
+  "visuales": [],
+  "refs_libros": ["Jd 1-4", "Jd 9", "Jd 14-15", "Jd 17-18"],
+  "notas_no_usadas": ["deirosjd_01_a#21", "deirosjd_01_a#16", "deirosjd_01_b#2", "deirosjd_01_a#24", "deirosjd_01_a#11", "mhenry_02#7", "mhenry_02#8", "mcgjd_02#8", "kisjd_02_b#37", "nunez2p_01_a#8", "cbmhjd_01_a#6", "cbmhjd_01_a#2", "mbibjd_01_a#4", "mbibjd_01_a#11", "beajd_01_a#12", "kisjd_01_a#15", "deirosjd_01_b#6", "moodynt_03_b#1", "deirosjd_02_b#27"] 
+}

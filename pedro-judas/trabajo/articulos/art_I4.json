@@ -1,0 +1,161 @@
+{
+  "id": "I4",
+  "titulo": "Las cartas de Juan: autor, ocasión y estructura",
+  "bajada": "Quién es «el anciano», desde dónde y cuándo escribe, qué crisis provocó estas tres cartas y cómo está armada la primera.",
+  "entrada": {
+    "texto": "Las tres cartas de Juan son muy distintas entre sí: la primera no tiene saludo, ni firma, ni nombres propios fuera del de Jesús; la segunda va a «a la señora elegida y a sus hijos»; la tercera, a un solo hombre, Gayo. Pero las une el mismo tono, el mismo vocabulario (luz, vida, verdad, amor) y la misma preocupación: un grupo que había formado parte de las iglesias se fue y ahora intentaba arrastrar a otros. Antes de leerlas día por día conviene ubicar quién escribe, a quiénes, en qué momento y con qué propósito.",
+    "fuentes": ["cbmh1j_01_a#4", "cbmh1j_01_a#2", "mbib23j_01_b#3"]
+  },
+  "versiculos": [
+    {"ref": "1J 1:1", "porque": "El autor se presenta como testigo directo: oyó, vio y tocó al Verbo de vida."},
+    {"ref": "1J 2:19", "porque": "Describe la ocasión de la carta: los que se fueron de la comunidad."},
+    {"ref": "1J 5:13", "porque": "El propósito dominante: que los creyentes sepan que tienen vida eterna."},
+    {"ref": "1J 4:2", "porque": "La prueba doctrinal central frente al error: Jesucristo vino en carne."},
+    {"ref": "2J 1", "porque": "«El anciano» escribe a «a la señora elegida y a sus hijos»."},
+    {"ref": "3J 9", "porque": "Diótrefes, el que quería el primer lugar y no recibía a los enviados de Juan."}
+  ],
+  "apartados": [
+    {
+      "titulo": "«El anciano»: quién escribe",
+      "parrafos": [
+        {
+          "texto": "1 Juan, igual que Hebreos, no dice quién la escribió. Sin embargo, la iglesia antigua la atribuyó al apóstol Juan de manera temprana y constante. MacArthur y Bedford repasan ecos en Clemente de Roma, Policarpo y Papías; Ireneo, discípulo de Policarpo, fue el primero en nombrar a Juan como autor, y le siguieron Clemente de Alejandría, Tertuliano, Orígenes, Cipriano y otros. Eusebio resume que la carta fue aceptada sin debate. Varios autores agregan que el mismo anonimato apunta al apóstol: solo alguien de su talla podía escribir con tanta autoridad, esperando ser obedecido, sin necesidad de presentarse.",
+          "fuentes": ["mac1j_01#2", "cbmh1j_01_a#3", "mbib1j_01_a#2", "ncb1j_01_a#2"]
+        },
+        {
+          "texto": "El texto mismo da pistas. El autor habla como testigo ocular de lo que oyó, vio y palpó (1J 1:1-3), y el Nuevo Comentario Bíblico considera débil leer ese «nosotros» como un recurso literario. Además, el estilo y la forma de pensar se parecen tanto a los del cuarto Evangelio que lo lógico es pensar en el mismo autor: el Comentario Moody señala paralelos como Jn 1:1 y 1J 1:1, expresiones como «unigénito» y «nacido de Dios», y temas comunes como amor, luz, vida y permanecer. Según cita el Nuevo Comentario Bíblico, Stott observa que el parecido entre Evangelio y carta es mayor que el que hay entre Lucas y Hechos, que escribió una sola persona.",
+          "fuentes": ["ncb1j_01_a#2", "moodynt_02_a#29", "dbmh_01_b#17"]
+        },
+        {
+          "texto": "En 2 y 3 Juan el autor se llama a sí mismo «el anciano». Según Catalán, la palabra no indica solo edad: en el judaísmo y en las primeras iglesias se llamaba ancianos a los líderes y maestros, y usar el título sin el nombre muestra a alguien venerado que ejerce autoridad con afecto sobre lectores que lo conocen. La Biblia MacArthur lo lee como expresión de su edad avanzada, su autoridad y su condición de testigo de los comienzos. El Comentario Moody recuerda que Pedro también se llamó a sí mismo anciano (1P 5:1). Por el parecido en palabras, estilo e ideas, la mayoría de los autores atribuye las tres cartas a la misma mano; el Diccionario Mundo Hispano añade que las dos cartas breves caben justo en una hoja de papiro.",
+          "fuentes": ["cbmh23j_01_a#4", "mbib23j_01_a#2", "moodynt_02_a#30", "dbmh_01_b#20", "ncb1j_01_b#21"]
+        }
+      ]
+    },
+    {
+      "titulo": "Éfeso, a fines del siglo I",
+      "parrafos": [
+        {
+          "texto": "Juan, hijo de Zebedeo y Salomé, era pescador de Galilea y fue de los primeros discípulos. Con su hermano Jacobo recibió el apodo de «hijos del trueno» por su carácter fogoso; formó parte del círculo íntimo junto a Pedro y Jacobo, recibió en la cruz el encargo de cuidar a María y fue uno de los pilares de la iglesia de Jerusalén. Bedford ve en su vida la obra de Cristo: el hijo del trueno transformado en un pastor compasivo que insistió en el amor. MacArthur matiza que conservó toda la vida su pasión por la verdad, y recoge la anécdota, transmitida por Ireneo, de Juan saliendo apurado de un baño público al ver allí al hereje Cerinto.",
+          "fuentes": ["cbmh1j_01_a#5", "mac1j_01#6", "mac1j_01#7"]
+        },
+        {
+          "texto": "Las fuentes antiguas (Justino Mártir, Ireneo, Polícrates, Clemente de Alejandría, Eusebio) coinciden en que Juan pasó la última parte de su vida en Asia Menor, sobre todo en Éfeso, supervisando varias iglesias. Éfeso era una ciudad portuaria, rica y orgullosa, capital de la provincia y centro del culto a Diana; allí habían trabajado antes Aquila y Priscila, Pablo y Timoteo. Según la tradición que recoge Bedford, Juan vivió allí desde alrededor del año 70 hasta fines del siglo; Kistemaker, siguiendo a Brooke, ubica su muerte cerca del 98. Para fines del siglo I, Juan era el último apóstol vivo, y Papías, que lo trató, lo describió como una voz viva que seguía presente.",
+          "fuentes": ["moodynt_02_a#26", "mbib1j_01_a#5", "moodynt_02_a#27", "cbmh1j_01_a#9", "kis1j_01_a#27"]
+        },
+        {
+          "texto": "La fecha exacta no puede fijarse, pero los autores coinciden en un rango. El Comentario Moody razona que 1 Juan parece suponer el Evangelio, publicado hacia el 85-90, y no menciona la persecución de Domiciano (hacia el 95): por eso la ubica hacia el 90. MacArthur propone 90-95 d.C. Todos coinciden en que las tres cartas se escribieron desde Éfeso y en fechas muy cercanas; 2 y 3 Juan no dan datos propios de tiempo ni lugar, y por su parecido con 1 Juan se las supone del mismo período.",
+          "fuentes": ["moodynt_02_a#31", "mbib1j_01_a#4", "mac23j_01_a#3", "mac23j_01_a#7", "moodynt_02_d#23"]
+        }
+      ]
+    },
+    {
+      "titulo": "«Salieron de nosotros»: la ocasión y el error",
+      "parrafos": [
+        {
+          "texto": "La crisis empezó adentro. Kistemaker deduce de 1J 2:19 y 4:1 que los que Juan llama anticristos habían sido miembros de la iglesia, se fueron por decisión propia y por razones de doctrina, y volvían como falsos profetas para extraviar a otros (2:26). Bedford agrega que parecían haber formado su propio grupo, con revelaciones propias, y que ofrecían un cristianismo sin cruz que dejaba inquietos a los fieles. MacArthur recuerda que Pablo ya lo había anunciado a los ancianos de Éfeso (Hch 20:29-30).",
+          "fuentes": ["kis1j_01_b#6", "cbmh1j_01_a#2", "cbmh1j_01_a#7", "mbib1j_01_a#6", "mac1j_01#11"]
+        },
+        {
+          "texto": "¿Qué enseñaban? Juan no hace un catálogo de sus ideas: los combate reafirmando lo fundamental. Por eso la mayoría de los autores habla de una forma temprana o incipiente de gnosticismo, el movimiento que se desarrolló plenamente en el siglo II. Su punto de partida era que la materia es mala y solo el espíritu es bueno, y que la salvación es un conocimiento superior reservado a iniciados. De ahí salían varias consecuencias: Dios no podía hacerse carne, el cuerpo no importaba (y con él tampoco la conducta) y los iluminados miraban de arriba a los demás. Juan responde a cada punto: Jesucristo vino en carne (4:2), quien dice no tener pecado se engaña (1:8) y quien no ama a su hermano no conoce a Dios (4:20).",
+          "fuentes": ["mbib1j_01_a#15", "mbib1j_01_a#7", "moodynt_02_a#28", "kis1j_01_b#10", "mac1j_01#10", "dbmh_01_b#5"]
+        },
+        {
+          "texto": "Los autores distinguen dos formas del error. Una, el docetismo (del verbo griego que significa parecer), decía que el cuerpo de Jesús solo parecía real; Juan contesta con lo que oyó, vio y palpó. La otra se asocia, por el testimonio de Ireneo, con Cerinto: el Cristo celestial habría descendido sobre el hombre Jesús en el bautismo y lo habría dejado antes de la cruz. MacArthur ve en 1J 5:6 la respuesta: el que vino por agua y sangre es uno solo, el bautizado y el crucificado. Wiersbe, sin usar estas etiquetas, resume lo mismo en cuatro errores y cuatro respuestas: la materia no es el problema sino el corazón; Cristo tuvo cuerpo y muerte reales; no alcanza con decir que se cree; y todo creyente tiene la unción para conocer la verdad.",
+          "fuentes": ["mbib1j_01_a#8", "mac1j_01#9", "kis1j_01_b#14", "cbmh23j_01_a#8", "r1_007_b#4"]
+        }
+      ]
+    },
+    {
+      "titulo": "Tres cartas, tres destinatarios",
+      "parrafos": [
+        {
+          "texto": "1 Juan parece dirigida a una iglesia o a un grupo de iglesias de Asia Menor que el autor conocía bien. MacArthur piensa que los lectores eran sobre todo gentiles, porque casi no hay citas del Antiguo Testamento y la carta termina advirtiendo contra los ídolos (5:21). No hay saludo porque no hacía falta: Kistemaker señala que Juan los llama una y otra vez «hijitos» y «amados», con el afecto de un padre espiritual de edad avanzada, aunque sin blandura: también usa palabras como «mentiroso» y «anticristo».",
+          "fuentes": ["kis1j_01_a#27", "mac1j_01#12", "kis1j_01_a#19", "bea1j_01_a#1"]
+        },
+        {
+          "texto": "2 Juan va a «a la señora elegida y a sus hijos» y, según MacArthur, toca la misma situación que 1 Juan: los que se habían ido viajaban de iglesia en iglesia aprovechando la hospitalidad cristiana para difundir su error, y esta señora pudo haberlos recibido sin advertir el peligro. Juan le pide no hospedarlos. McGee lee la carta en la misma línea, como un llamado a equilibrar el amor con la verdad.",
+          "fuentes": ["mac23j_01_a#1", "mcg2j_01#10"]
+        },
+        {
+          "texto": "3 Juan es la más personal: va a «Gayo, el amado», un hermano de una de las iglesias bajo el cuidado de Juan, de quien solo sabemos lo que dice la carta. Algunos predicadores enviados por Juan habían llegado a esa iglesia, y Diótrefes, que la dominaba, no solo les negó alojamiento sino que habló mal de Juan y echaba a quienes los recibían. Gayo, en cambio, los hospedó. Juan escribe para elogiarlo, anunciar que irá a poner las cosas en orden y recomendar a Demetrio, probablemente el portador de la carta. MacArthur la ve como el lado positivo de 2 Juan: allí, no recibir a los falsos maestros; aquí, cuidar a los que sirven a la verdad. El Comentario Moody nota que esta carta desarma la idea de una iglesia primitiva ideal: deja ver los roces reales de una fe que crecía.",
+          "fuentes": ["mbib23j_01_b#3", "mbib23j_01_b#4", "mac23j_01_a#6", "cbmh23j_01_b#5", "moodynt_03_a#10"]
+        },
+        {
+          "texto": "Catalán ayuda a entender por qué la hospitalidad era tan delicada: tras el envío misionero se multiplicaron los predicadores itinerantes, algunos abusaron, y la Didajé, un manual de fines del siglo I, ya daba reglas para detectar a los falsos (por ejemplo, desconfiar del que se quedaba más de dos días o pedía dinero). En ese clima, Diótrefes tomó la postura más cerrada.",
+          "fuentes": ["cbmh23j_01_b#6"]
+        }
+      ]
+    },
+    {
+      "titulo": "Cómo está armada 1 Juan",
+      "parrafos": [
+        {
+          "texto": "Quien lee 1 Juan nota enseguida que vuelve sobre los mismos temas. Varios autores lo describen como un movimiento en espiral más que circular: cada vuelta retoma la verdad, la obediencia y el amor con mayor profundidad. Kistemaker recoge que algunos ven el mismo modo de pensar en el prólogo del Evangelio y en los discursos del aposento alto (Jn 14-17). MacArthur arma la carta en cuatro espirales, cada una con una prueba doctrinal (qué se cree de Cristo) y una prueba moral (cómo se vive): 1:1-2:17, 2:18-3:24, 4:1-21 y 5:1-21. Por ejemplo, el amor aparece primero como prueba de comunión (2:7-11), luego como señal de ser hijos (3:10-17) y por tercera vez, más hondo, en 4:7-21.",
+          "fuentes": ["kis1j_01_b#22", "mac1j_01#11", "mac1j_01#13", "mbib1j_01_a#18", "mac1j_05_b#4"]
+        },
+        {
+          "texto": "Otros autores ordenan el mismo material de otro modo, y eso muestra que la carta no se deja encerrar en un esquema simple. Wiersbe divide entre pruebas de comunión, bajo «Dios es luz» (caps. 1-2), y pruebas de ser hijos, bajo «Dios es amor» (caps. 3-5), con tres pruebas repetidas en cada parte: obediencia, amor y verdad. Robert Law, citado por Blaney, habla de tres pruebas de la vida: teológica (creer que Jesús es el Hijo de Dios), moral (vivir en justicia) y social (amarse unos a otros). Kistemaker propone un bosquejo fácil de recordar: prefacio (1:1-4), anden en la luz (1:5-2:17), crean en Jesús (2:18-3:24), amen a Dios (4:1-5:12) y epílogo (5:13-21).",
+          "fuentes": ["r1_007_b#1", "r1_007_b#5", "bea1j_01_a#3", "kis1j_02_a#5", "ncb1j_01_a#7"]
+        },
+        {
+          "texto": "La carta misma dice para qué fue escrita. Wiersbe y Piper reúnen esas razones: que tengan comunión con los apóstoles y con Dios (1:3); «que vuestro gozo sea cumplido» (1:4); «para que no pequéis», y si alguno peca, que sepa que tiene un Abogado (2:1); que no se dejen engañar (2:26); y, como razón dominante, «para que sepáis que tenéis vida eterna» (5:13). Varios autores contrastan este último propósito con el del Evangelio: allí Juan escribe para que crean (Jn 20:31); aquí, para que los que ya creen tengan seguridad. MacArthur insiste en que el objetivo no es solo polémico sino pastoral: refutar a los falsos maestros y, a la vez, consolar a los verdaderos creyentes.",
+          "fuentes": ["r1_007_b#3", "r1_010#19", "ncb1j_01_a#6", "mac1j_01#11", "kis1j_01_b#29"]
+        }
+      ]
+    }
+  ],
+  "palabras": [
+    {"ref": "1J 4:2", "griego": "δοκεῖν", "translit": "dokéin", "significado": "Parecer. De aquí viene «docetismo»: la idea de que Jesús solo parecía tener un cuerpo real.", "fuentes": ["ncb1j_01_a#4", "mbib1j_01_a#8"]},
+    {"ref": "1J 2:20", "griego": "γνῶσις", "translit": "gnōsis", "significado": "Conocimiento. Da nombre al gnosticismo, que prometía un saber superior reservado a iniciados.", "fuentes": ["kis1j_01_b#10", "mbib1j_01_a#6"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿El apóstol Juan o Juan el anciano?",
+      "posturas": [
+        {"postura": "Un Juan el anciano distinto del apóstol, a partir de un texto de Papías citado por Eusebio, habría escrito algunas de estas obras; Jerónimo atribuía a ese presbítero las dos cartas breves y Erasmo retomó la idea.", "quien": "Algunos críticos; Jerónimo y Erasmo (según Stott, citado en Mundo Hispano)", "fuentes": ["cbmh23j_01_b#2", "ncb1j_01_a#3"]},
+        {"postura": "La carta la escribió un discípulo del cuarto evangelista, por diferencias de pensamiento con el Evangelio.", "quien": "C. H. Dodd (según Blaney)", "fuentes": ["bea1j_01_a#5"]},
+        {"postura": "Papías llama ancianos también a los apóstoles y no tenía en mente dos Juanes; un único autor, el apóstol, escribió el Evangelio y las tres cartas.", "quien": "MacArthur, Catalán, Nuevo Comentario Bíblico (con Guthrie), Comentario Moody, Blaney, Bedford", "fuentes": ["mac1j_01#5", "cbmh23j_01_a#4", "ncb1j_01_b#21", "moodynt_02_a#30", "bea1j_01_a#5", "cbmh1j_01_a#3"]}
+      ],
+      "nota": "Todos los autores del estudio se quedan con el apóstol; el Nuevo Comentario Bíblico reconoce que no hay certeza absoluta y que es mejor aceptar el punto de vista tradicional."
+    },
+    {
+      "tema": "¿Quién es «la señora elegida»?",
+      "posturas": [
+        {"postura": "Una forma simbólica de nombrar a una iglesia; sus hijos serían los miembros y la hermana elegida del v. 13, la congregación de Juan.", "quien": "Algunos intérpretes (según el Comentario Moody y el Nuevo Comentario Bíblico)", "fuentes": ["moodynt_02_d#23", "ncb1j_01_b#22"]},
+        {"postura": "Una mujer concreta y su familia, conocida de Juan; el tono tierno y la sencillez de la carta no encajan con una metáfora tan elaborada.", "quien": "MacArthur; David Smith (citado en Moody); el Nuevo Comentario Bíblico se inclina levemente a esta lectura", "fuentes": ["mbib23j_01_a#7", "moodynt_02_d#23", "ncb1j_01_b#22"]}
+      ],
+      "nota": "El Nuevo Comentario Bíblico considera que con los datos disponibles la cuestión parece no tener solución definitiva."
+    },
+    {
+      "tema": "¿Era Diótrefes un hereje?",
+      "posturas": [
+        {"postura": "Era un maestro hereje o al menos simpatizaba con los falsos maestros de 2 Juan.", "quien": "Algunos intérpretes (según la Biblia MacArthur)", "fuentes": ["mbib23j_01_b#6"]},
+        {"postura": "La carta no da evidencia de error doctrinal: su problema era la arrogancia y la desobediencia; Kistemaker lo describe como un conflicto de personalidades.", "quien": "MacArthur; Kistemaker", "fuentes": ["mbib23j_01_b#6", "kis1j_01_b#5"]}
+      ],
+      "nota": ""
+    }
+  ],
+  "citas": [
+    {"texto": "pertenece, en todo caso, a su medida espiritual", "autor": "Oscar Cullmann (citado por Guillermo Catalán)", "obra": "Comentario Bíblico Mundo Hispano: 1, 2 y 3 Juan", "pagina": "PDF 84-85"},
+    {"texto": "una voz viva y que permanecía", "autor": "Papías (citado en la Biblia de estudio MacArthur)", "obra": "Biblia de estudio MacArthur, introducción a 1 Juan", "pagina": "PDF 3321-3322"}
+  ],
+  "conexiones": [
+    {"ref": "Jn 20:31", "nota": "El Evangelio se escribió para que crean; 1 Juan, para que los que creen sepan que tienen vida eterna (1J 5:13).", "fuentes": ["ncb1j_01_a#6", "mac1j_01#11"]},
+    {"ref": "Hch 20:29-30", "nota": "Pablo había advertido a los ancianos de Éfeso que de entre ellos mismos surgirían hombres que hablarían cosas perversas.", "fuentes": ["mbib1j_01_a#6", "mac1j_01#11"]},
+    {"ref": "1P 5:1", "nota": "Pedro también se llamó a sí mismo anciano, lo que debilita la objeción de que un apóstol no usaría ese título.", "fuentes": ["moodynt_02_a#30"]}
+  ],
+  "para_vivir": [
+    {"texto": "Juan no escribe para sembrar dudas sino para dar certeza: quien cree en el Hijo puede saber que tiene vida eterna. Las pruebas de la carta (lo que creemos de Cristo, cómo vivimos y si amamos a los hermanos) no son un examen para angustiarse, sino señales para descansar y para corregir el rumbo.", "fuentes": ["r1_010#19", "cbmh1j_01_a#2", "bea1j_01_a#3"]},
+    {"texto": "Las cartas breves muestran que la hospitalidad es una forma concreta de servir a la verdad: abrir la casa a los que la anuncian y no dar lugar a los que la niegan. Diótrefes recuerda que el deseo de tener el primer lugar puede dañar una iglesia tanto como un error doctrinal.", "fuentes": ["mac23j_01_a#6", "mbib23j_01_b#6"]}
+  ],
+  "para_conversar": [
+    "Juan pasó de «hijo del trueno» a pastor que insiste en el amor, sin perder la pasión por la verdad. ¿En qué se nota en nosotros ese mismo equilibrio, o su falta?",
+    "Los que «salieron» ofrecían un saber especial y una fe que no tocaba el cuerpo ni la conducta. ¿Qué versiones de esa idea aparecen hoy?",
+    "¿Qué nos da más seguridad de tener vida eterna: un recuerdo, un sentimiento o las señales que Juan propone? ¿Por qué?"
+  ],
+  "dias_relacionados": [39, 41, 44, 50, 55, 57, 59, 60],
+  "visuales": ["mapa-efeso", "dg-estructura-1j", "dg-estructura-23j"],
+  "refs_libros": ["1J 1:1-4", "1J 2:18-27", "1J 4:1-6", "1J 5:13", "2J 1-13", "3J 1-15"],
+  "notas_no_usadas": ["moodynt_02_a#32", "bea1j_01_a#9", "rich1j_01_a#2", "ncb1j_01_a#9", "cbmh1j_01_a#12", "kis1j_05_b#1", "mbib1j_01_a#16", "r1_011#16", "r1_012_a#6", "kis1j_01_b#27", "mcg2j_01#2", "mhenry_01_c#1", "dbmh_01_b#18", "cbmh23j_01_a#7", "r1_002#27", "cbmh1j_01_a#8", "bea1j_01_a#7", "mhenry_01_c#47", "dbmh_01_b#22", "cbmh23j_01_b#4"]
+}

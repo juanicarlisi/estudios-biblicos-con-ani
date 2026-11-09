@@ -1,0 +1,55 @@
+{
+  "id": "dg-estructura-23j",
+  "titulo": "2 y 3 Juan lado a lado",
+  "bajada": "Dos cartas breves del mismo «anciano»: a quién escribe, qué elogia, de qué advierte y qué pide en cada una",
+  "tipo": "tabla",
+  "columnas": ["", "2 Juan", "3 Juan"],
+  "filas": [
+    {
+      "celdas": ["Remitente", "«El anciano» (v. 1), sin nombre ni título de apóstol", "«El anciano» (v. 1): mismo título, mismo estilo; por eso los autores las atribuyen al mismo escritor"],
+      "fuentes": ["kis23j_01_a#3", "kis1j_01_a#7", "cbmh23j_01_a#2", "dbmh_01_b#20"]
+    },
+    {
+      "celdas": ["Destinatario", "«La señora elegida y sus hijos»: una mujer y su familia (MacArthur, Henry, Moody) o una iglesia y sus miembros (Blaney, Catalán, Kistemaker); otros no deciden", "Gayo, «el amado» (v. 1): un individuo; no se sabe dónde vivía. Es la más personal de las tres cartas"],
+      "fuentes": ["mac23j_01_a#4", "bea23j_01#8", "cbmh23j_01_a#5", "kis23j_01_a#4", "dbmh_01_b#21", "kis23j_01_b#8", "mbib23j_01_b#3"]
+    },
+    {
+      "celdas": ["La palabra clave", "Verdad: cinco veces en la sección inicial", "Verdad: seis veces, en una carta todavía más breve"],
+      "fuentes": ["mac23j_01_a#15", "kis23j_01_a#6"]
+    },
+    {
+      "celdas": ["Elogio", "Gozo porque algunos de sus hijos andan en la verdad (v. 4)", "Gozo porque Gayo anda en la verdad (vv. 3-4) y sirve con fidelidad a hermanos, aun desconocidos (vv. 5-6)"],
+      "fuentes": ["kis23j_01_a#12", "kis23j_01_a#13", "kis23j_01_b#10", "kis23j_01_b#12"]
+    },
+    {
+      "celdas": ["Pedido", "Que se amen unos a otros: no es un mandamiento nuevo sino el que tienen desde el principio (vv. 5-6)", "Encaminar a los misioneros como es digno de Dios y acogerlos, para cooperar con la verdad (vv. 6-8)"],
+      "fuentes": ["kis23j_01_a#15", "kis23j_01_a#18", "kis23j_01_b#16", "kis23j_01_b#17"]
+    },
+    {
+      "celdas": ["Advertencia", "Los engañadores que no confiesan que Jesucristo vino en carne: no recibirlos en casa ni saludarlos (vv. 7-11)", "Diótrefes, que ama el primer lugar: no recibe a los hermanos, habla mal de Juan y expulsa a quienes los reciben (vv. 9-10)"],
+      "fuentes": ["kis23j_01_a#19", "kis23j_01_a#20", "kis23j_01_a#31", "kis23j_01_b#19", "kis23j_01_b#22"]
+    },
+    {
+      "celdas": ["La hospitalidad", "El límite: no hospedar a quien no trae la enseñanza de Cristo", "El lado positivo: amar y cuidar a quienes predican la verdad; Diótrefes la niega a ministros fieles"],
+      "fuentes": ["mac23j_01_a#6", "mac23j_01_b#26", "mbib23j_01_b#4", "kis1j_01_b#18"]
+    },
+    {
+      "celdas": ["Ejemplo a seguir", "Los hijos de la señora que andan en la verdad (v. 4)", "«No imites lo malo, sino lo bueno» (v. 11): Demetrio, con buen testimonio de todos y de la verdad (v. 12)"],
+      "fuentes": ["kis23j_01_a#12", "kis23j_01_b#25", "kis23j_01_b#27", "mbib23j_01_b#19"]
+    },
+    {
+      "celdas": ["Despedida", "Mucho que escribir, pero prefiere hablar cara a cara para que el gozo sea completo; saludos de los hijos de la hermana elegida (vv. 12-13)", "Casi igual: no quiere escribir con tinta y pluma, espera verlo pronto; paz y saludos a los amigos, «a cada uno en particular» (vv. 13-15)"],
+      "fuentes": ["kis23j_01_b#3", "kis23j_01_b#29", "kis23j_01_b#30", "ncb23j_01#12", "dbmh_01_a#15"]
+    },
+    {
+      "celdas": ["Bosquejo (Kistemaker)", "Introducción (1-3); instrucción: petición y mandamiento (4-6) y advertencia (7-11); conclusión (12-13)", "Introducción (1-2); tributo a Gayo (3-8); Diótrefes censurado (9-10); exhortación y recomendación (11-12); conclusión"],
+      "fuentes": ["kis23j_01_a#1", "kis23j_01_b#7"]
+    },
+    {
+      "celdas": ["Bosquejo (MacArthur): la hospitalidad", "Bases (1-3), comportamiento (4-6), límites (7-11), bendiciones (12-13)", "Recomendación (1-8), condenación (9-11), conclusión (12 al final); alrededor de tres personas: Gayo, Diótrefes y Demetrio"],
+      "fuentes": ["mac23j_01_a#5", "mac23j_01_a#8"]
+    }
+  ],
+  "nota": "Kistemaker y MacArthur numeran 3 Juan en 14 versículos; la Reina-Valera 1960 divide el último en dos (3J 14-15). Sobre la señora elegida, la enseñanza de la carta no cambia con la postura que se adopte.",
+  "dias": [57, 58, 59, 60]
+}

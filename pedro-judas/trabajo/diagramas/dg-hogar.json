@@ -1,0 +1,61 @@
+{
+  "id": "dg-hogar",
+  "titulo": "Sumisión en la vida diaria: a quién, por qué y hasta dónde",
+  "bajada": "1P 2:13-3:7 (con 5:5): Pedro va nombrando grupos de personas, uno por uno. Para cada uno, a quién se sujeta, el motivo y el límite que marcan los autores.",
+  "tipo": "tabla",
+  "columnas": ["Quiénes", "A quién", "Por qué", "Con qué límite"],
+  "filas": [
+    {
+      "celdas": [
+        "Todos, como ciudadanos",
+        "A toda institución humana: el rey y los gobernadores, que castigan al malhechor y elogian al que hace bien",
+        "«Por causa del Señor»: la autoridad es delegada y Dios es soberano sobre todo; la buena conducta acalla a los calumniadores",
+        "Obedecer a Dios antes que a los hombres (Hch 4:19; 5:29). MacArthur: solo se desobedece una orden contraria a Dios; Nicholson, McConnell y Kistemaker: regla general con excepciones de conciencia"
+      ],
+      "ref": "1P 2:13-17",
+      "fuentes": ["kis1p_03_c#21", "mac1p_05_a#8", "kis1p_03_c#23", "kis1p_03_c#19", "mac1p_05_a#5", "mac1p_05_a#7", "bea1p_01_b#14", "cbmh1p_01_c#25", "kis1p_04_a#7"]
+    },
+    {
+      "celdas": [
+        "Los criados (esclavos domésticos)",
+        "A sus amos, tanto a los buenos y afables como a los «difíciles de soportar» (literalmente “torcidos”)",
+        "«A causa de la conciencia delante de Dios»: saberse en su presencia, por fidelidad a Dios más que por miedo; sufrir haciendo el bien es aprobado por Dios",
+        "Sufrir por hacer el bien, no por pecar (v. 20). MacArthur excluye la rebelión o la protesta; Wiersbe: Pedro no ataca la esclavitud, y anima a obtener la libertad si se podía"
+      ],
+      "ref": "1P 2:18-20",
+      "fuentes": ["mac1p_05_b#8", "kis1p_04_a#12", "kis1p_04_a#15", "mac1p_05_b#12", "bea1p_01_b#16", "mac1p_05_b#14", "mac1p_05_b#9", "r1_006#25"]
+    },
+    {
+      "celdas": [
+        "Las esposas",
+        "A sus propios maridos, aunque no crean a la palabra",
+        "Que el marido sea ganado sin palabras, por una conducta pura y respetuosa; un carácter afable y apacible, como Sara",
+        "Sujeción no es inferioridad. No obliga a pecar ni a violar la conciencia (Nicholson; Biblia MacArthur, cf. Hch 5:29); Pedro no apoya el abuso ni el maltrato (McConnell)"
+      ],
+      "ref": "1P 3:1-6",
+      "fuentes": ["kis1p_04_a#39", "r1_012_a#2", "mac1p_05_b#34", "mac1p_05_b#33", "bea1p_01_b#21", "mbib1p_01_b#36", "cbmh1p_02_a#12", "mhenry_01_a#29"]
+    },
+    {
+      "celdas": [
+        "Los maridos",
+        "MacArthur: no a la autoridad de la esposa, sino al deber de servirla con amor",
+        "Ella es «coheredera de la gracia de la vida»: iguales ante Dios. Vivir con ella «sabiamente» y honrarla como al «vaso más frágil» (la fuerza física, no el valor)",
+        "Las fuentes no ponen un límite: ponen una advertencia, que sus oraciones no tengan estorbo"
+      ],
+      "ref": "1P 3:7",
+      "fuentes": ["mac1p_06_a#9", "cbmh1p_02_a#17", "kis1p_04_b#17", "mac1p_06_a#10", "mac1p_06_a#11", "kis1p_04_b#18"]
+    },
+    {
+      "celdas": [
+        "Los jóvenes, y después todos",
+        "Los jóvenes, a los ancianos; todos, unos a otros, revestidos de humildad",
+        "«Dios resiste a los soberbios, y da gracia a los humildes» (Pr 3:34); el humilde, y solo él, se somete de verdad",
+        "Los que guían también sirven: el «todos» incluye a los ancianos, según la mayoría de los traductores (Kistemaker)"
+      ],
+      "ref": "1P 5:5",
+      "fuentes": ["mac1p_08_b#22", "mac1p_08_b#25", "kis1p_06_b#23", "r1_007_a#2", "cbmh1p_03#7", "moodynt_01_c#3"]
+    }
+  ],
+  "nota": "«Asimismo» (3:1, 3:7) no compara a las esposas con los esclavos: enumera categorías de personas (Kistemaker). McConnell ve algo nuevo en 3:7: las leyes de entonces daban privilegios a los hombres y responsabilidades a las mujeres, y Pedro pone deberes recíprocos. Pedro no les habla a los amos, a diferencia de Pablo en Ef 6:5-9; quizá porque pocos cristianos eran dueños de esclavos (McConnell). Sobre cómo se aplica hoy al trabajo, MacArthur y Wiersbe ponen el acento en distinto lugar (ver día 11).",
+  "dias": [10, 11, 13, 14, 22]
+}

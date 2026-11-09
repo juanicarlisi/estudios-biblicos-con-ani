@@ -10,7 +10,7 @@
   "contexto": {
     "antes": "Ayer (19:14-16) Juan vio al Jinete del caballo blanco con los ejércitos del cielo: de su boca sale una espada aguda, pisa el lagar de la ira de Dios y lleva escrito su nombre, Rey de reyes y Señor de señores.",
     "ahora": "El desenlace, que MacArthur llama la victoria del vencedor: un ángel convoca a las aves a «la gran cena de Dios», la bestia y los reyes se juntan contra el Jinete, y todo termina sin que se cuente una batalla.",
-    "donde": "El texto no lo dice. Larkin ubica el campo en el valle de Meguido (16:16); Carballosa piensa en la tierra de Israel y quizá más allá.",
+    "donde": "El texto no lo dice. Larkin ubica el campo en el valle de Meguido (16:16), donde se libraron batallas decisivas hasta la de Allenby contra los turcos en 1917 (Comentario Moody); Carballosa piensa en la tierra de Israel y quizá más allá, y Dyer, por Joel 3, Daniel 11 y Zacarías 12 y 14, en Jerusalén.",
     "cuando": "Para Carballosa, MacArthur, Larkin y Earle, al final de la gran tribulación, en la segunda venida; para el Comentario Mundo Hispano, la escena muestra a los poderes del mal despojados en la venida de Cristo (ver Interpretaciones).",
     "despues": "Mañana (20:1) empieza el capítulo de los mil años: caídos la bestia y el falso profeta, le toca al que los movía, Satanás, que es atado en el abismo.",
     "fuentes": [
@@ -24,7 +24,9 @@
       "mbiblia_02_d#41",
       "beacon_05_a#18",
       "r1_013#28",
-      "ladd_07_a#35"
+      "ladd_07_a#35",
+      "r4_225_02_b#12",
+      "r4_453_01#29"
     ]
   },
   "versiculo_clave": {
@@ -58,16 +60,14 @@
           "tipo": "estructura_bosquejo"
         },
         {
-          "texto": "El ángel está «en pie en el sol», en un lugar prominente para que su anuncio se vea (Carballosa, MacArthur); Guzik lo imagina resplandeciendo con la gloria de Dios. No le habla a la gente sino a las aves, que vuelan «en medio del cielo». Lo fuerte es el momento: la batalla todavía no empezó y el resultado ya se proclama. Dios declara su victoria antes del choque (Carballosa, la Biblia MacArthur). Varios autores recuerdan la frase de Jesús sobre las águilas que se juntan donde está el cuerpo muerto (Mt 24:28).",
+          "texto": "El ángel está «en pie en el sol», en un lugar prominente para que su anuncio se vea (Carballosa, MacArthur); Guzik lo imagina resplandeciendo con la gloria de Dios. No le habla a la gente sino a las aves, que vuelan «en medio del cielo». Lo fuerte es el momento: la batalla todavía no empezó y el resultado ya se proclama. Dios declara su victoria antes del choque (Carballosa, la Biblia MacArthur).",
           "fuentes": [
             "carballosa_15_b#10",
             "macarthur_16#33",
             "web_08#31",
             "web_09#17",
             "r2_007#11",
-            "mbiblia_02_d#41",
-            "r2_029#16",
-            "larkin_06_a#11"
+            "mbiblia_02_d#41"
           ],
           "tipo": "explicacion_texto"
         }
@@ -117,14 +117,15 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Quedar sin sepultura, comido por las aves, era una deshonra extrema (Mundo Hispano), más todavía para reyes orgullosos (MacArthur); el Antiguo Testamento usa esa imagen como señal de ignominia (Dt 28:26; Jer 7:33; Biblia MacArthur). McGee lo llama el pasaje más repugnante de las Escrituras: Dios lo pone al final de su Palabra para mostrar cuán nauseabundas le son las obras de la carne. Barnhouse (citado por Guzik) ve en la repetición de «carnes» el retrato de una raza que vivió en pos de la carne.",
+          "texto": "Quedar sin sepultura, comido por las aves, era una deshonra extrema (Mundo Hispano), más todavía para reyes orgullosos (MacArthur); el Antiguo Testamento usa esa imagen como señal de ignominia (Dt 28:26; Jer 7:33; Biblia MacArthur); Lennox recuerda la amenaza de Goliat a David (1 S 17:44). McGee lo llama el pasaje más repugnante de las Escrituras: Dios lo pone al final de su Palabra para mostrar cuán nauseabundas le son las obras de la carne. Barnhouse (citado por Guzik) ve en la repetición de «carnes» el retrato de una raza que vivió en pos de la carne.",
           "fuentes": [
             "cbmh_07#31",
             "macarthur_16#36",
             "mbiblia_02_d#41",
             "mcgee_10_b#19",
             "mcgeer_12#18",
-            "web_08#31"
+            "web_08#31",
+            "r4_460_14_a#8"
           ],
           "tipo": "cultura_costumbres"
         }
@@ -160,13 +161,14 @@
       "titulo": "Apresados sin pelear",
       "notas": [
         {
-          "texto": "Acá se espera la batalla y no llega. Ladd, Beasley-Murray, Mundo Hispano y Guzik lo notan: Juan no describe ningún combate, solo los preparativos y el resultado. Para Guzik es un acto unilateral de juicio; Barnhouse (citado por él) lo llama la risa de Dios ante el colmo de la arrogancia humana, y McGee lleva al Salmo 2:4.",
+          "texto": "Acá se espera la batalla y no llega. Ladd, Beasley-Murray, Mundo Hispano y Guzik lo notan: Juan no describe ningún combate, solo los preparativos y el resultado; al lado de Zacarías 14, dice Lennox, parece casi un anticlímax. Para Guzik es un acto unilateral de juicio; Barnhouse (citado por él) lo llama la risa de Dios ante el colmo de la arrogancia humana, y McGee lleva al Salmo 2:4.",
           "fuentes": [
             "ladd_07_a#38",
             "henry_02_b#15",
             "cbmh_07#32",
             "web_08#32",
-            "mcgee_10_b#20"
+            "mcgee_10_b#20",
+            "r4_460_14_a#10"
           ],
           "tipo": "explicacion_texto"
         },
@@ -218,7 +220,7 @@
       "titulo": "Los demás, por la espada de su boca",
       "notas": [
         {
-          "texto": "«Los demás», los que quedaban, mueren físicamente (Carballosa) por la espada de 19:15 (Biblia MacArthur). Un amigo amilenial le preguntó a McGee, riéndose, si sería una espada literal; le respondió que lo sería si la Biblia misma no explicara que la Palabra de Dios es como una espada (He 4:12; Ef 6:17; Is 11:4). MacArthur coincide: la espada es su Palabra. Y una palabra alcanza: la que creó los cielos (He 11:3), calmó el viento (Mr 4:35-41) y derribó a los que fueron a arrestarlo (Jn 18:6), recuerda Carballosa. John Phillips, citado por MacArthur, lo dice así: no habrá guerra en el sentido común, sino una palabra del que habló a la higuera, al viento y a la legión, y todos caen.",
+          "texto": "«Los demás», los que quedaban, mueren físicamente (Carballosa) por la espada de 19:15 (Biblia MacArthur). Un amigo amilenial le preguntó a McGee, riéndose, si sería una espada literal; le respondió que lo sería si la Biblia misma no explicara que la Palabra de Dios es como una espada (He 4:12; Ef 6:17; Is 11:4). MacArthur coincide: la espada es su Palabra. Y una palabra alcanza: la que creó los cielos (He 11:3), calmó el viento (Mr 4:35-41) y derribó a los que fueron a arrestarlo (Jn 18:6), recuerda Carballosa.",
           "fuentes": [
             "carballosa_15_b#14",
             "mbiblia_02_d#43",
@@ -545,9 +547,9 @@
       ]
     },
     {
-      "texto": "Cuando el mal parezca organizado y fuerte, recuerden con el Comentario Mundo Hispano que, llegada la hora, nada podrá detener el juicio de Cristo.",
+      "texto": "Matthew Henry nota que los que caen no quedan excusados por haber hecho lo que mandaban sus jefes o lo que hacían todos: Dios dio una regla para caminar, y el que hace como la mayoría va adonde va la mayoría. ¿En qué los está arrastrando hoy la corriente?",
       "fuentes": [
-        "cbmh_07#33"
+        "r4_2_01_b#41"
       ]
     },
     {
@@ -577,13 +579,17 @@
   "profundizar": [
     {
       "titulo": "¿Es la batalla de Ezequiel 38-39?",
-      "texto": "Larkin une esta escena con el festín de Ezequiel 39: Israel pasará siete meses enterrando huesos y siete años usando las armas como leña; MacArthur ve en Ezequiel 39:17-21 el reflejo de 19:17-18 y calcula que enterrar a los muertos llevará siete meses (Ez 39:12). Beasley-Murray, en cambio, nota que Juan toma la imagen pero el asalto de Gog y Magog llega después del milenio (20:7-9), como en Ezequiel, donde viene tras el reino mesiánico; el Comentario Mundo Hispano marca la misma diferencia de orden. Se retoma en 20:7-9.",
+      "texto": "Larkin une esta escena con el festín de Ezequiel 39: Israel pasará siete meses enterrando huesos y siete años usando las armas como leña; MacArthur ve en Ezequiel 39:17-21 el reflejo de 19:17-18 y calcula que enterrar a los muertos llevará siete meses (Ez 39:12). Beasley-Murray, en cambio, nota que Juan toma la imagen pero el asalto de Gog y Magog llega después del milenio (20:7-9), como en Ezequiel, donde viene tras el reino mesiánico; el Comentario Mundo Hispano marca la misma diferencia de orden. Lennox también cree que Ezequiel parece describir el mismo hecho. Ice, en cambio, rechaza identificar a Gog con el Armagedón: Ezequiel nombra ciertos países que vienen del norte y Zacarías 14:2 habla de todas las naciones; Gog ataca a un Israel «seguro» y en reposo, y allí no lo comanda la bestia sino Gog; además, siete meses de entierros y siete años quemando armas no caben en este momento. Se retoma en 20:7-9.",
       "fuentes": [
         "larkin_06_a#11",
         "web_09#14",
         "macarthur_16#34",
         "henry_02_b#15",
-        "cbmh_07#31"
+        "cbmh_07#31",
+        "r4_460_14_a#8",
+        "r4_449_04#20",
+        "r4_449_04#22",
+        "r4_449_04#23"
       ]
     },
     {
@@ -640,6 +646,15 @@
         "web_08#32",
         "macarthur_16#33",
         "web_09#17"
+      ]
+    },
+    {
+      "titulo": "¿Y el rapto?",
+      "texto": "Hitchcock, con Walvoord, usa este capítulo en el debate sobre el momento del rapto: el pasaje más completo sobre la segunda venida no menciona creyentes arrebatados al encuentro de Cristo, sino un ejército que ya baja del cielo con él (19:14); para ellos, ese silencio favorece un rapto anterior a la tribulación. Los postribulacionistas, como los presenta Hitchcock, ponen el rapto y la venida con minutos de diferencia: los santos suben al encuentro del Señor y vuelven enseguida con él. El anexo correspondiente reúne las cinco posturas.",
+      "fuentes": [
+        "r4_442_04#26",
+        "r4_442_04#24",
+        "r4_450_06#18"
       ]
     }
   ]

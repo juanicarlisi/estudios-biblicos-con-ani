@@ -1,35 +1,419 @@
-{"bloque": "mbib1j_01", "notas": [
-{"ref": "1J intro", "tipo": "autoria_fecha", "titulo": "Título y género: epístola general", "contenido": "El título siempre ha sido «1 Juan»: la primera y más larga de tres epístolas que llevan el nombre del apóstol Juan. Como no identifica iglesia, lugar o persona destinataria, se clasifica como «epístola general». Aunque no tiene algunas características de una epístola común de su tiempo (introducción, saludo, despedida), su tono íntimo y contenido indican que el término «epístola» aún se le aplica.", "pagina": "pág. PDF 3320", "importancia": 1},
-{"ref": "1J intro", "tipo": "autoria_fecha", "titulo": "Autor: Juan el apóstol, por el testimonio antiguo y el anonimato", "contenido": "La epístola no nombra a su autor, pero el testimonio más antiguo, fuerte y consecuente de la iglesia la asigna a Juan, discípulo y apóstol. MacArthur sostiene que el mismo anonimato afirma esa identificación: solo alguien de la prominencia de Juan podía escribir con tal autoridad, esperando obediencia completa (p. ej. 4:6) sin identificarse; los lectores lo conocían bien y no necesitaba dar su nombre.", "refs_biblicas": ["Lc 6:13-14", "1J 4:6"], "pagina": "pág. PDF 3320", "importancia": 3},
-{"ref": "1J intro", "tipo": "personaje", "titulo": "Juan, hijo de Zebedeo y discípulo amado", "contenido": "Juan y su hermano mayor Santiago eran «los hijos de Zebedeo», a quienes Jesús llamó «Hijos del trueno». Era uno de los tres asociados más íntimos de Jesús (con Pedro y Jacobo), testigo ocular y participante de su ministerio (1:1-4). Además de las tres epístolas escribió el cuarto Evangelio, donde se identifica como el discípulo «a quien Jesús amaba» que se reclinó sobre el pecho de Jesús en la Última Cena, y el Apocalipsis.", "refs_biblicas": ["Hch 12:2", "Mt 10:2-4", "Mr 3:17", "Mt 17:1", "Mt 26:37", "Jn 13:23", "Jn 19:26", "Jn 20:2", "Jn 21:7", "Jn 21:20", "Ap 1:1"], "pagina": "pág. PDF 3320", "importancia": 2},
-{"ref": "1J intro", "tipo": "autoria_fecha", "titulo": "Fecha: ca. 90-95 d.C., desde Éfeso", "contenido": "Fechar con precisión es difícil porque no hay indicación histórica clara. Lo más probable es la última parte del siglo I: la tradición identifica a Juan, ya anciano, viviendo y escribiendo en Éfeso; el tono (por ejemplo «Hijitos míos») indica que es mucho mayor que sus lectores. La epístola y el Evangelio reflejan vocabulario y expresión similares, por lo que muchos fechan las epístolas poco después del Evangelio. La herejía combatida refleja principios del gnosticismo en sus primeras etapas; además no se menciona la persecución de Domiciano (hacia el 95 d.C.), así que pudo escribirse antes. MacArthur concluye en una fecha razonable de ca. 90-95 d.C., desde Éfeso a las iglesias de Asia Menor bajo su liderazgo apostólico.", "refs_biblicas": ["1J 2:1", "1J 2:18", "1J 2:28"], "pagina": "pág. PDF 3321", "importancia": 3},
-{"ref": "1J intro", "tipo": "contexto", "titulo": "Juan en Éfeso: el último apóstol", "contenido": "Aunque muy anciano, Juan seguía ministrando activamente. Era el único apóstol superviviente con asociación íntima y testigo ocular de todo el ministerio terrenal, muerte, resurrección y ascensión de Jesús. Los padres (Justino Mártir, Ireneo, Clemente de Alejandría, Eusebio) indican que vivió en Éfeso, con evangelización extensa, supervisión de muchas iglesias y un amplio ministerio escrito. Papías, que lo trató directamente, lo describió como una «voz viva y que permanecía». Como último apóstol, su testimonio fue altamente autoritativo y muchos buscaban oír a quien tuvo experiencia de primera mano con el Señor.", "refs_biblicas": ["Hch 19:10"], "pagina": "pág. PDF 3321-3322", "importancia": 2},
-{"ref": "1J intro", "tipo": "falsos_maestros", "titulo": "Éfeso y el surgimiento del gnosticismo", "contenido": "Éfeso estaba en el centro intelectual de Asia Menor. Como había predicho Pablo años antes (Hch 20:28-31), surgieron falsos maestros desde dentro de la iglesia, saturados del clima de corrientes filosóficas, que pervirtieron enseñanza apostólica fundamental. Promovían ideas que se llamaron «gnosticismo» (de la palabra griega para «conocimiento»). Según MacArthur, tras la batalla paulina por la libertad de la ley, el gnosticismo fue la herejía más peligrosa que amenazó a la iglesia durante sus primeros tres siglos, y es lo más probable que Juan combatiera sus principios.", "refs_biblicas": ["Hch 19:10", "Hch 20:28-31"], "pagina": "pág. PDF 3322", "importancia": 3},
-{"ref": "1J intro", "tipo": "falsos_maestros", "titulo": "Gnosticismo: dualismo y conocimiento superior", "contenido": "Influido por filósofos como Platón, el gnosticismo promovía un dualismo: la materia es inherentemente mala y el espíritu bueno. Por esa presuposición, estos maestros atribuían alguna forma de deidad a Cristo pero negaban su verdadera humanidad para preservarlo del mal. Decían tener un conocimiento elevado, una verdad más alta que solo conocían los iniciados en «las cosas profundas», un conocimiento místico más alto que las Escrituras. Las ideas del hombre juzgaban la revelación de Dios, en vez de que la revelación juzgara las ideas (cp. 2:15-17).", "refs_biblicas": ["1J 2:15-17"], "pagina": "pág. PDF 3322", "importancia": 3},
-{"ref": "1J intro", "tipo": "falsos_maestros", "titulo": "Docetismo y Cerinto", "contenido": "La herejía tenía dos formas básicas. Primero, algunos afirmaban que el cuerpo de Jesús no era real sino que solo «parecía» físico: docetismo, de una palabra griega que significa «aparecer». Juan afirmó la realidad física de Jesús recordando que fue testigo ocular («oído», «visto», «palparon», «Jesucristo ha venido en carne», 1:1-4; 4:2-3). Segundo, según la tradición más antigua (Ireneo), Juan pudo atacar a la forma guiada por Cerinto, que sostenía que el «espíritu» del Cristo descendió sobre el Jesús humano en su bautismo y lo dejó poco antes de la crucifixión; Juan escribió que el Jesús bautizado al principio del ministerio era el mismo crucificado (5:6).", "refs_biblicas": ["1J 1:1-4", "1J 4:2-3", "1J 5:6"], "pagina": "pág. PDF 3322-3323", "importancia": 3},
-{"ref": "1J intro", "tipo": "doctrina", "titulo": "Lo que destruyen estas herejías: humanidad y expiación", "contenido": "Tales posiciones destruyen no solo la verdadera humanidad de Jesús sino la expiación: Jesús debía ser verdaderamente Dios y verdaderamente hombre (físicamente real), quien sufrió y murió en la cruz como sacrificio aceptable y sustituto por el pecado. La posición bíblica afirma su humanidad completa y su deidad total.", "refs_biblicas": ["He 2:14-17"], "pagina": "pág. PDF 3323", "importancia": 3},
-{"ref": "1J intro", "tipo": "falsos_maestros", "titulo": "Consecuencias éticas: ascetismo o libertinaje", "contenido": "La idea gnóstica de que la materia es mala y solo el espíritu bueno llevó a tratar áspero el cuerpo (ascetismo, cp. Col 2:21-23) o a pensar que el pecado cometido en el cuerpo no afectaba al espíritu. Los oponentes de Juan concluyeron que el pecado corporal no importaba, que el desenfreno inmoral era permisible, que se podía negar que el pecado existiera (1:8-10) y menospreciar la ley de Dios (3:4). Juan enfatizó la obediencia a las leyes de Dios y definió el verdadero amor de Dios como obediencia a sus mandamientos (5:3).", "refs_biblicas": ["Col 2:21-23", "1J 1:8-10", "1J 3:4", "1J 5:3"], "pagina": "pág. PDF 3323", "importancia": 3},
-{"ref": "1J intro", "tipo": "falsos_maestros", "titulo": "Falta de amor, separación y la reacción del anciano apóstol", "contenido": "Una falta de amor por otros creyentes caracteriza a los falsos maestros, sobre todo ante quien rechaza su nueva manera de pensar (3:10-18). Separaban a sus seguidores de la comunión de los fieles a la enseñanza apostólica, y Juan respondió que esa separación mostraba que carecían de salvación genuina (2:19). Su partida sacudió a los demás creyentes. El anciano apóstol escribió para reafirmar a los fieles y combatir la amenaza, con cariño pero con autoridad apostólica incuestionable.", "refs_biblicas": ["1J 3:10-18", "1J 2:19"], "pagina": "pág. PDF 3323", "importancia": 2},
-{"ref": "1J intro", "tipo": "doctrina", "titulo": "Tema general: regreso a los fundamentos de la fe", "contenido": "A la luz de las circunstancias, el tema general es «otro llamado a los fundamentos de la fe» o «regreso a los principios básicos del cristianismo». El apóstol trata certezas, no opiniones; expresa lo absoluto del cristianismo en términos muy simples, con un tono cálido, conversacional y amoroso, como un padre en una conversación tierna con sus hijos.", "pagina": "pág. PDF 3324", "importancia": 3},
-{"ref": "1J intro", "tipo": "falsos_maestros", "titulo": "Pastoral y polémica: los desertores y su fuente demoníaca", "contenido": "La carta es pastoral (de un pastor preocupado por su congregación; quiere que tengan gozo y certeza en lugar de ser turbados por la falsa enseñanza y las deserciones, 1:4) pero también polémica: refuta a los desertores con sana doctrina, sin tolerancia hacia quienes pervierten la verdad divina. Los llama «falsos profetas» (4:1), «los que os engañan» (2:26; 3:7) y «anticristos» (2:18), e identifica como demoníaca la fuente definitiva de toda deserción de la sana doctrina (4:1-7).", "refs_biblicas": ["1J 1:4", "1J 4:1", "1J 2:26", "1J 3:7", "1J 2:18", "1J 4:1-7"], "pagina": "pág. PDF 3324", "importancia": 3},
-{"ref": "1J intro", "tipo": "doctrina", "titulo": "Tres temas: felicidad, santidad, seguridad; el ciclo de la espiritualidad", "contenido": "Tres temas secundarios se repiten: felicidad (1:4), santidad (2:1) y seguridad (5:13). También revelan el ciclo clave de la verdadera espiritualidad en 1 Juan: una creencia apropiada en Jesús produce obediencia a sus mandamientos, y la obediencia se manifiesta en amor a Dios y a los creyentes (p. ej. 3:23-24). Cuando fe sana, obediencia y amor operan juntos resultan en felicidad, santidad y certeza: son la evidencia, la prueba clave, de un verdadero cristiano.", "refs_biblicas": ["1J 1:4", "1J 2:1", "1J 5:13", "1J 3:23-24"], "pagina": "pág. PDF 3324", "importancia": 3},
-{"ref": "1J intro", "tipo": "interpretacion_discutida", "titulo": "Reto: ¿qué creían exactamente los herejes?", "contenido": "Los teólogos debaten la naturaleza precisa de las creencias de los falsos maestros, porque Juan no especifica directamente sus creencias sino que los combate sobre todo reafirmando los fundamentos. La característica principal parece ser una negación de la encarnación: Cristo no había venido en carne. Lo más probable, según MacArthur, es que era una forma inicial o incipiente de gnosticismo.", "postura": "Forma incipiente de gnosticismo (negación de la encarnación), aunque el texto no lo detalla.", "pagina": "pág. PDF 3324-3325", "importancia": 2},
-{"ref": "1J intro", "tipo": "interpretacion_discutida", "titulo": "Reto: los absolutos de Juan y las pruebas de la salvación", "contenido": "Juan presenta los fundamentos de la vida cristiana en términos absolutos, no relativos. A diferencia de Pablo, que presentó excepciones y trató con las fallas de los creyentes, Juan no considera el «qué si fracaso»; solo en 2:1-2 da algo de alivio. El resto es blanco y negro: luz vs. oscuridad (1:5, 7; 2:8-11), verdad vs. mentiras (2:21-22; 4:1), hijos de Dios vs. hijos de Satanás (3:10). Según MacArthur, quienes han nacido de nuevo recibieron una nueva naturaleza que se evidencia; quienes no la muestran no la tienen y nunca nacieron de nuevo. El foco, a diferencia de muchos escritos de Pablo, no es mantener la comunión diaria sino aplicar pruebas básicas para confirmar que la salvación realmente ocurrió. Tales distinciones absolutas también caracterizan al Evangelio de Juan.", "refs_biblicas": ["1J 2:1-2", "1J 1:5", "1J 1:7", "1J 2:8-11", "1J 2:21-22", "1J 4:1", "1J 3:10"], "escuela": "reformado", "pagina": "pág. PDF 3325", "importancia": 3},
-{"ref": "1J intro", "tipo": "estructura", "titulo": "Reto: la repetición en espiral de Juan", "contenido": "Juan repite temas similares una y otra vez para enfatizar las verdades básicas del cristianismo verdadero. Algunos han comparado la repetición a una espiral que se mueve hacia afuera, cubriendo una misma verdad sobre un área cada vez mayor; otros la ven moverse hacia adentro, penetrando con más profundidad en los mismos temas. Sea cual sea, Juan usa la repetición para acentuar la importancia de las verdades y ayudar a entenderlas y recordarlas.", "pagina": "pág. PDF 3325", "importancia": 2},
-{"ref": "1J intro", "tipo": "estructura", "titulo": "Bosquejo de 1 Juan en cuatro espirales", "contenido": "I. Las pruebas fundamentales de comunión genuina, ESPIRAL I (1:1-2:17): A. pruebas de doctrina (1:1-2:2): 1. una perspectiva bíblica de Cristo (1:1-4); 2. del pecado (1:4-2:2); B. pruebas de moralidad (2:3-17): 1. perspectiva bíblica de la obediencia (2:3-6); 2. del amor (2:7-17): a. el amor que Dios requiere (2:7-11); b. el amor que Dios odia (2:12-17). II. ESPIRAL II (2:18-3:24): A. parte 2 de la prueba doctrinal (2:18-27): 1. los anticristos parten de la comunión cristiana (2:18-21); 2. niegan la fe cristiana (2:22-25); 3. engañan a los fieles (2:26-27); B. parte 2 de la prueba moral (2:28-3:24): 1. la esperanza purificadora del regreso del Señor (2:28-3:3); 2. la incompatibilidad del cristiano con el pecado (3:4-24): a. el requisito de justicia (3:4-10); b. el requisito de amor (3:11-24). III. ESPIRAL III (4:1-21): A. parte 3 de la prueba doctrinal (4:1-6): 1. la fuente demoníaca de falsa doctrina (4:1-3); 2. la necesidad de doctrina sana (4:4-6); B. parte 3 de la prueba moral (4:7-21): 1. la virtud del amor de Dios (4:7-10); 2. el requisito del amor de Dios (4:11-21). IV. ESPIRAL IV (5:1-21): A. la vida victoriosa en Cristo (5:1-5); B. el testimonio de Dios para Cristo (5:6-12); C. certezas cristianas debido a Cristo (5:13-21): 1. la certeza de la vida eterna (5:13); 2. de la oración contestada (5:14-17); 3. de victoria sobre el pecado y Satanás (5:18-21).", "pagina": "pág. PDF 3325-3332", "importancia": 3},
-{"ref": "1J 1:1-4", "tipo": "cristo", "titulo": "Testigo ocular de la realidad física de Jesús", "contenido": "Como apóstol y testigo ocular, presente en su muerte y resurrección y uno de los tres discípulos más cercanos (Juan, Pedro y Jacobo), Juan afirma la realidad física de que Jesucristo ha venido «en la carne». Así acentúa la gravedad de la falsa enseñanza y afirma de inmediato la realidad histórica de la humanidad de Jesús y la certeza del evangelio. Aunque los falsos maestros decían creer en Cristo, su negación de su naturaleza verdadera (incluida su humanidad) demostraba su falta de salvación genuina. La afirmación de una visión adecuada de Cristo es la primera prueba de comunión verdadera con Dios (v. 3; la segunda en 1:5-2:2).", "refs_biblicas": ["1J 4:2-3", "1J 2:22-23"], "pagina": "pág. PDF 3332", "importancia": 3},
-{"ref": "1J 1:1", "tipo": "exegesis", "titulo": "«Lo que era desde el principio»", "contenido": "«Lo que era» se refiere a la proclamación del evangelio centrada en la persona, palabras y obras de Cristo en el testimonio apostólico. Aunque una frase similar en Juan 1:1 alude al pasado eterno, en el contexto de los vv. 1-4 «desde el principio» alude a los comienzos de la predicación del evangelio y al tiempo en que los lectores oyeron por primera vez de Jesús. Recalca la estabilidad del mensaje: su contenido no cambia ni está sujeto a modas mundanas o filosofías.", "refs_biblicas": ["Jn 1:1", "1J 2:7", "1J 2:24"], "pagina": "pág. PDF 3332-3333", "importancia": 2},
-{"ref": "1J 1:1", "tipo": "cristo", "titulo": "Oído, visto, contemplado, palparon: recuerdos vivos", "contenido": "Las palabras apuntan a los recuerdos vivos de Jesús que Juan conservó toda su vida: aunque habían pasado más de sesenta años, estaban tan fijos que escribe como si todo hubiera acabado de suceder. Usa términos que afirman con energía la realidad física de Jesús, pues un espíritu no puede ser oído, visto ni tocado como lo fue Jesús por los discípulos en su ministerio y aun después de resucitar. «El Verbo de vida» no solo se refiere a Jesucristo sino a la predicación de su evangelio.", "pagina": "pág. PDF 3333", "importancia": 3},
-{"ref": "1J 1:2-3", "tipo": "apologetica", "titulo": "La repetición del testimonio ocular frente a los falsos maestros", "contenido": "Juan recalca con la repetición de «manifestada… hemos visto… testificamos… anunciamos» (vv. 2-3, cp. v. 1) la autoridad de su experiencia personal como testigo ocular de la vida de Jesús. Esa reiteración recuerda a los lectores que su testimonio refuta a los maestros falsos que se jactaban con arrogancia de un Cristo a quien nunca habían visto ni conocido.", "pagina": "pág. PDF 3333", "importancia": 2},
-{"ref": "1J 1:2", "tipo": "cristo", "titulo": "La vida eterna con el Padre que se manifestó", "contenido": "Con esta frase Juan acentúa la eternidad de Cristo en su gloria previa a la encarnación.", "refs_biblicas": ["1J 5:12", "Jn 1:4", "Jn 5:26", "Jn 5:40", "Jn 11:25", "Jn 14:6"], "pagina": "pág. PDF 3333", "importancia": 2},
-{"ref": "1J 1:3", "tipo": "doctrina", "titulo": "Comunión es salvación, no relación social", "contenido": "«Comunión» no es un tipo de relaciones sociales: los lectores debían hacerse partícipes (socios) del apóstol en su posesión común de la vida eterna. Juan no escribe solo para afirmar la realidad física de Jesús sino para producir salvación. MacArthur concluye que los cristianos genuinos nunca están «fuera de la comunión», porque este versículo identifica comunión con salvación.", "refs_biblicas": ["Fil 1:5", "1P 5:1", "2P 1:4"], "pagina": "pág. PDF 3333", "importancia": 3},
-{"ref": "1J 1:4", "tipo": "doctrina", "titulo": "Gozo cumplido", "contenido": "Un objetivo principal de la epístola es generar gozo en los lectores. La proclamación de la realidad del evangelio (vv. 1-2) produce compañerismo y comunión en la vida eterna (v. 3), y eso produce gozo en el camino hacia la vida eterna (v. 4).", "pagina": "pág. PDF 3334", "importancia": 2},
-{"ref": "1J 1:5", "tipo": "falsos_maestros", "titulo": "La segunda prueba: afirmar la realidad del pecado", "contenido": "Para refutar a los falsos maestros que negaban la existencia o importancia del pecado, Juan afirma su realidad ineludible; esta es la segunda prueba de comunión verdadera (la primera, 1:1-4; la tercera, 2:3-6). Quienes niegan el pecado demuestran su falta de salvación genuina. Según MacArthur el «nosotros» de los vv. 6, 8 y 10 no son cristianos genuinos sino cualquiera que afirme estar en la comunión pero niegue el pecado; el «nosotros» de los vv. 7, 9 y 2:1-2 sí se refiere a cristianos genuinos.", "refs_biblicas": ["1J 1:1-4", "1J 2:3-6"], "pagina": "pág. PDF 3334", "importancia": 3},
-{"ref": "1J 1:5", "tipo": "doctrina", "titulo": "Dios es luz: verdad y santidad", "contenido": "El mensaje de Juan y los apóstoles provino de Dios y no de los hombres. En la Biblia luz y tinieblas son símbolos conocidos: en sentido intelectual, luz es verdad bíblica y tinieblas error o falsedad; en sentido moral, luz es santidad o pureza y tinieblas pecado o desviación. Los herejes alegaban ser iluminados de verdad y andar en la luz verdadera, pero Juan lo niega porque ni reconocían su propio pecado. «Ningunas tinieblas» afirma la perfección absoluta de Dios: nada en su carácter deteriora su verdad y santidad.", "refs_biblicas": ["Gá 1:12", "Sal 119:105", "Pr 6:23", "Jn 1:4", "Jn 8:12", "Ro 13:11-14", "1Ts 5:4-7", "Stg 1:17"], "pagina": "pág. PDF 3334", "importancia": 3},
-{"ref": "1J 1:6", "tipo": "falsos_maestros", "titulo": "Andar en tinieblas: el argumento más contundente", "contenido": "Pese a sus aserciones de iluminación y supuesta comunión con Cristo, el hecho de que los falsos maestros anduvieran en tinieblas era el argumento más contundente contra ellos y demostraba que no eran salvos. «Mentimos» se refiere a la comunión que afirmaban; «no practicamos» muestra sus fallas habituales en practicar la verdad.", "pagina": "pág. PDF 3334", "importancia": 2},
-{"ref": "1J 1:7", "tipo": "doctrina", "titulo": "Andar en la luz y limpieza continua", "contenido": "El cristiano genuino tiene por hábito andar en la luz (verdad y santidad) y no en tinieblas (falsedad y pecado). Su manera de andar resulta en una limpieza continua del pecado a medida que el Señor perdona a los suyos. Quienes andan en la luz participan del carácter de Dios y se caracterizan por su santidad, lo que indica que su comunión con él es verdadera. Un cristiano auténtico no anda en tinieblas sino solo en la luz, y su limpieza de todo pecado es continua.", "refs_biblicas": ["3Jn 11", "Stg 1:27", "2Co 6:14", "Ef 5:8", "Col 1:12-13"], "pagina": "pág. PDF 3335", "importancia": 2},
-{"ref": "1J 1:8", "tipo": "falsos_maestros", "titulo": "Negar la naturaleza pecaminosa", "contenido": "Los falsos maestros, además de andar en tinieblas, llegaban a negar del todo la existencia de una naturaleza pecaminosa en su vida. Quien nunca admite que es pecador no puede tener la salvación como realidad (el joven rico que rehusó reconocer su pecado). Se engañaban a sí mismos y a los demás sobre su supuesta falta de pecado.", "refs_biblicas": ["Mt 19:16-22", "Ec 7:20", "Ro 3:23"], "pagina": "pág. PDF 3335", "importancia": 2},
-{"ref": "1J 1:9", "tipo": "doctrina", "titulo": "La confesión continua: decir lo mismo que Dios", "contenido": "La confesión continua del pecado indica salvación genuina: los maestros falsos no querían confesar, el cristiano genuino admite y abandona su pecado. «Confesar» significa decir lo mismo que Dios dice del pecado y reconocer su punto de vista. El v. 7 corresponde a la perspectiva de Dios y el v. 9 a la del cristiano. En lugar de la confesión de cada pecado individual como necesaria, MacArthur entiende que Juan tiene en mente el reconocimiento concienzudo y reposado de que uno es pecador que necesita limpieza y perdón de Dios.", "refs_biblicas": ["Sal 32:3-5", "Pr 28:13", "Ef 4:32", "Col 2:13"], "postura": "No exige confesar cada pecado individual para mantener el perdón, sino la actitud permanente de reconocerse pecador.", "pagina": "pág. PDF 3335", "importancia": 3},
-{"ref": "1J 1:10", "tipo": "doctrina", "titulo": "Hacerle a Dios mentiroso", "contenido": "Como Dios ha dicho que todos los seres humanos son pecadores, negarlo equivale a blasfemar contra Dios con calumnias que difaman su nombre.", "refs_biblicas": ["Sal 14:3", "Sal 51:5", "Is 53:6", "Jer 17:5-6", "Ro 3:10-19", "Ro 3:23", "Ro 6:23"], "pagina": "pág. PDF 3335", "importancia": 2},
-{"ref": "1J 2:1", "tipo": "cristo", "titulo": "Para que no pequéis; Abogado ante el Padre", "contenido": "Aunque el cristiano debe reconocer y confesar su pecado con regularidad (1:9), es impotente contra él por sí solo; la confesión no da licencia para pecar, pues el pecado puede y debe ser conquistado por el poder del Espíritu. «Abogado» es la misma palabra que en Juan 16:7 se traduce «Consolador» (literalmente «el que es llamado a ponerse al lado»); un concepto moderno sería abogado defensor. Aunque Satanás acusa a los creyentes día y noche ante el Padre, el ministerio de Cristo como sumo sacerdote garantiza no solo compasión sino absolución.", "refs_biblicas": ["Ro 6:12-14", "Ro 8:12-13", "1Co 15:34", "Tit 2:11-12", "1P 1:13-16", "Jn 16:7", "Ap 12:10", "He 4:14-16"], "pagina": "pág. PDF 3336", "importancia": 3}
-], "problemas": "El bosquejo viene partido en columnas estrechas de pág. PDF 3325-3332 (reconstruido). La nota de 1J 2:2 queda partida entre este tramo y el siguiente; se extrae completa en mbib1j_01_b."}
+{
+ "bloque": "mbib1j_01",
+ "notas": [
+  {
+   "ref": "1J intro",
+   "tipo": "autoria_fecha",
+   "titulo": "Título y género: epístola general",
+   "contenido": "El título siempre ha sido «1 Juan»: la primera y más larga de tres epístolas que llevan el nombre del apóstol Juan. Como no identifica iglesia, lugar o persona destinataria, se clasifica como «epístola general». Aunque no tiene algunas características de una epístola común de su tiempo (introducción, saludo, despedida), su tono íntimo y contenido indican que el término «epístola» aún se le aplica.",
+   "pagina": "pág. PDF 3320",
+   "importancia": 1
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "autoria_fecha",
+   "titulo": "Autor: Juan el apóstol, por el testimonio antiguo y el anonimato",
+   "contenido": "La epístola no nombra a su autor, pero el testimonio más antiguo, fuerte y consecuente de la iglesia la asigna a Juan, discípulo y apóstol. MacArthur sostiene que el mismo anonimato afirma esa identificación: solo alguien de la prominencia de Juan podía escribir con tal autoridad, esperando obediencia completa (p. ej. 4:6) sin identificarse; los lectores lo conocían bien y no necesitaba dar su nombre.",
+   "refs_biblicas": [
+    "Lc 6:13-14",
+    "1J 4:6"
+   ],
+   "pagina": "pág. PDF 3320",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "personaje",
+   "titulo": "Juan, hijo de Zebedeo y discípulo amado",
+   "contenido": "Juan y su hermano mayor Santiago eran «los hijos de Zebedeo», a quienes Jesús llamó «Hijos del trueno». Era uno de los tres asociados más íntimos de Jesús (con Pedro y Jacobo), testigo ocular y participante de su ministerio (1:1-4). Además de las tres epístolas escribió el cuarto Evangelio, donde se identifica como el discípulo «a quien Jesús amaba» que se reclinó sobre el pecho de Jesús en la Última Cena, y el Apocalipsis.",
+   "refs_biblicas": [
+    "Hch 12:2",
+    "Mt 10:2-4",
+    "Mr 3:17",
+    "Mt 17:1",
+    "Mt 26:37",
+    "Jn 13:23",
+    "Jn 19:26",
+    "Jn 20:2",
+    "Jn 21:7",
+    "Jn 21:20",
+    "Ap 1:1"
+   ],
+   "pagina": "pág. PDF 3320",
+   "importancia": 2
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "autoria_fecha",
+   "titulo": "Fecha: ca. 90-95 d.C., desde Éfeso",
+   "contenido": "Fechar con precisión es difícil porque no hay indicación histórica clara. Lo más probable es la última parte del siglo I: la tradición identifica a Juan, ya anciano, viviendo y escribiendo en Éfeso; el tono (por ejemplo «Hijitos míos») indica que es mucho mayor que sus lectores. La epístola y el Evangelio reflejan vocabulario y expresión similares, por lo que muchos fechan las epístolas poco después del Evangelio. La herejía combatida refleja principios del gnosticismo en sus primeras etapas; además no se menciona la persecución de Domiciano (hacia el 95 d.C.), así que pudo escribirse antes. MacArthur concluye en una fecha razonable de ca. 90-95 d.C., desde Éfeso a las iglesias de Asia Menor bajo su liderazgo apostólico.",
+   "refs_biblicas": [
+    "1J 2:1",
+    "1J 2:18",
+    "1J 2:28"
+   ],
+   "pagina": "pág. PDF 3321",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "contexto",
+   "titulo": "Juan en Éfeso: el último apóstol",
+   "contenido": "Aunque muy anciano, Juan seguía ministrando activamente. Era el único apóstol superviviente con asociación íntima y testigo ocular de todo el ministerio terrenal, muerte, resurrección y ascensión de Jesús. Los padres (Justino Mártir, Ireneo, Clemente de Alejandría, Eusebio) indican que vivió en Éfeso, con evangelización extensa, supervisión de muchas iglesias y un amplio ministerio escrito. Papías, que lo trató directamente, lo describió como una «voz viva y que permanecía». Como último apóstol, su testimonio fue altamente autoritativo y muchos buscaban oír a quien tuvo experiencia de primera mano con el Señor.",
+   "refs_biblicas": [
+    "Hch 19:10"
+   ],
+   "pagina": "pág. PDF 3321-3322",
+   "importancia": 2
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "falsos_maestros",
+   "titulo": "Éfeso y el surgimiento del gnosticismo",
+   "contenido": "Éfeso estaba en el centro intelectual de Asia Menor. Como había predicho Pablo años antes (Hch 20:28-31), surgieron falsos maestros desde dentro de la iglesia, saturados del clima de corrientes filosóficas, que pervirtieron enseñanza apostólica fundamental. Promovían ideas que se llamaron «gnosticismo» (de la palabra griega para «conocimiento»). Según MacArthur, tras la batalla paulina por la libertad de la ley, el gnosticismo fue la herejía más peligrosa que amenazó a la iglesia durante sus primeros tres siglos, y es lo más probable que Juan combatiera sus principios.",
+   "refs_biblicas": [
+    "Hch 19:10",
+    "Hch 20:28-31"
+   ],
+   "pagina": "pág. PDF 3322",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "falsos_maestros",
+   "titulo": "Gnosticismo: dualismo y conocimiento superior",
+   "contenido": "Influido por filósofos como Platón, el gnosticismo promovía un dualismo: la materia es inherentemente mala y el espíritu bueno. Por esa presuposición, estos maestros atribuían alguna forma de deidad a Cristo pero negaban su verdadera humanidad para preservarlo del mal. Decían tener un conocimiento elevado, una verdad más alta que solo conocían los iniciados en «las cosas profundas», un conocimiento místico más alto que las Escrituras. Las ideas del hombre juzgaban la revelación de Dios, en vez de que la revelación juzgara las ideas (cp. 2:15-17).",
+   "refs_biblicas": [
+    "1J 2:15-17"
+   ],
+   "pagina": "pág. PDF 3322",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "falsos_maestros",
+   "titulo": "Docetismo y Cerinto",
+   "contenido": "La herejía tenía dos formas básicas. Primero, algunos afirmaban que el cuerpo de Jesús no era real sino que solo «parecía» físico: docetismo, de una palabra griega que significa «aparecer». Juan afirmó la realidad física de Jesús recordando que fue testigo ocular («oído», «visto», «palparon», «Jesucristo ha venido en carne», 1:1-4; 4:2-3). Segundo, según la tradición más antigua (Ireneo), Juan pudo atacar a la forma guiada por Cerinto, que sostenía que el «espíritu» del Cristo descendió sobre el Jesús humano en su bautismo y lo dejó poco antes de la crucifixión; Juan escribió que el Jesús bautizado al principio del ministerio era el mismo crucificado (5:6).",
+   "refs_biblicas": [
+    "1J 1:1-4",
+    "1J 4:2-3",
+    "1J 5:6"
+   ],
+   "pagina": "pág. PDF 3322-3323",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "doctrina",
+   "titulo": "Lo que destruyen estas herejías: humanidad y expiación",
+   "contenido": "Tales posiciones destruyen no solo la verdadera humanidad de Jesús sino la expiación: Jesús debía ser verdaderamente Dios y verdaderamente hombre (físicamente real), quien sufrió y murió en la cruz como sacrificio aceptable y sustituto por el pecado. La posición bíblica afirma su humanidad completa y su deidad total.",
+   "refs_biblicas": [
+    "He 2:14-17"
+   ],
+   "pagina": "pág. PDF 3323",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "falsos_maestros",
+   "titulo": "Consecuencias éticas: ascetismo o libertinaje",
+   "contenido": "La idea gnóstica de que la materia es mala y solo el espíritu bueno llevó a tratar áspero el cuerpo (ascetismo, cp. Col 2:21-23) o a pensar que el pecado cometido en el cuerpo no afectaba al espíritu. Los oponentes de Juan concluyeron que el pecado corporal no importaba, que el desenfreno inmoral era permisible, que se podía negar que el pecado existiera (1:8-10) y menospreciar la ley de Dios (3:4). Juan enfatizó la obediencia a las leyes de Dios y definió el verdadero amor de Dios como obediencia a sus mandamientos (5:3).",
+   "refs_biblicas": [
+    "Col 2:21-23",
+    "1J 1:8-10",
+    "1J 3:4",
+    "1J 5:3"
+   ],
+   "pagina": "pág. PDF 3323",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "falsos_maestros",
+   "titulo": "Falta de amor, separación y la reacción del anciano apóstol",
+   "contenido": "Una falta de amor por otros creyentes caracteriza a los falsos maestros, sobre todo ante quien rechaza su nueva manera de pensar (3:10-18). Separaban a sus seguidores de la comunión de los fieles a la enseñanza apostólica, y Juan respondió que esa separación mostraba que carecían de salvación genuina (2:19). Su partida sacudió a los demás creyentes. El anciano apóstol escribió para reafirmar a los fieles y combatir la amenaza, con cariño pero con autoridad apostólica incuestionable.",
+   "refs_biblicas": [
+    "1J 3:10-18",
+    "1J 2:19"
+   ],
+   "pagina": "pág. PDF 3323",
+   "importancia": 2
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "doctrina",
+   "titulo": "Tema general: regreso a los fundamentos de la fe",
+   "contenido": "A la luz de las circunstancias, el tema general es «otro llamado a los fundamentos de la fe» o «regreso a los principios básicos del cristianismo». El apóstol trata certezas, no opiniones; expresa lo absoluto del cristianismo en términos muy simples, con un tono cálido, conversacional y amoroso, como un padre en una conversación tierna con sus hijos.",
+   "pagina": "pág. PDF 3324",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "falsos_maestros",
+   "titulo": "Pastoral y polémica: los desertores y su fuente demoníaca",
+   "contenido": "La carta es pastoral (de un pastor preocupado por su congregación; quiere que tengan gozo y certeza en lugar de ser turbados por la falsa enseñanza y las deserciones, 1:4) pero también polémica: refuta a los desertores con sana doctrina, sin tolerancia hacia quienes pervierten la verdad divina. Los llama «falsos profetas» (4:1), «los que os engañan» (2:26; 3:7) y «anticristos» (2:18), e identifica como demoníaca la fuente definitiva de toda deserción de la sana doctrina (4:1-7).",
+   "refs_biblicas": [
+    "1J 1:4",
+    "1J 4:1",
+    "1J 2:26",
+    "1J 3:7",
+    "1J 2:18",
+    "1J 4:1-7"
+   ],
+   "pagina": "pág. PDF 3324",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "doctrina",
+   "titulo": "Tres temas: felicidad, santidad, seguridad; el ciclo de la espiritualidad",
+   "contenido": "Tres temas secundarios se repiten: felicidad (1:4), santidad (2:1) y seguridad (5:13). También revelan el ciclo clave de la verdadera espiritualidad en 1 Juan: una creencia apropiada en Jesús produce obediencia a sus mandamientos, y la obediencia se manifiesta en amor a Dios y a los creyentes (p. ej. 3:23-24). Cuando fe sana, obediencia y amor operan juntos resultan en felicidad, santidad y certeza: son la evidencia, la prueba clave, de un verdadero cristiano.",
+   "refs_biblicas": [
+    "1J 1:4",
+    "1J 2:1",
+    "1J 5:13",
+    "1J 3:23-24"
+   ],
+   "pagina": "pág. PDF 3324",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "interpretacion_discutida",
+   "titulo": "Reto: ¿qué creían exactamente los herejes?",
+   "contenido": "Los teólogos debaten la naturaleza precisa de las creencias de los falsos maestros, porque Juan no especifica directamente sus creencias sino que los combate sobre todo reafirmando los fundamentos. La característica principal parece ser una negación de la encarnación: Cristo no había venido en carne. Lo más probable, según MacArthur, es que era una forma inicial o incipiente de gnosticismo.",
+   "postura": "Forma incipiente de gnosticismo (negación de la encarnación), aunque el texto no lo detalla.",
+   "pagina": "pág. PDF 3324-3325",
+   "importancia": 2
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "interpretacion_discutida",
+   "titulo": "Reto: los absolutos de Juan y las pruebas de la salvación",
+   "contenido": "Juan presenta los fundamentos de la vida cristiana en términos absolutos, no relativos. A diferencia de Pablo, que presentó excepciones y trató con las fallas de los creyentes, Juan no considera el «qué si fracaso»; solo en 2:1-2 da algo de alivio. El resto es blanco y negro: luz vs. oscuridad (1:5, 7; 2:8-11), verdad vs. mentiras (2:21-22; 4:1), hijos de Dios vs. hijos de Satanás (3:10). Según MacArthur, quienes han nacido de nuevo recibieron una nueva naturaleza que se evidencia; quienes no la muestran no la tienen y nunca nacieron de nuevo. El foco, a diferencia de muchos escritos de Pablo, no es mantener la comunión diaria sino aplicar pruebas básicas para confirmar que la salvación realmente ocurrió. Tales distinciones absolutas también caracterizan al Evangelio de Juan.",
+   "refs_biblicas": [
+    "1J 2:1-2",
+    "1J 1:5",
+    "1J 1:7",
+    "1J 2:8-11",
+    "1J 2:21-22",
+    "1J 4:1",
+    "1J 3:10"
+   ],
+   "escuela": "reformado",
+   "pagina": "pág. PDF 3325",
+   "importancia": 3
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "estructura",
+   "titulo": "Reto: la repetición en espiral de Juan",
+   "contenido": "Juan repite temas similares una y otra vez para enfatizar las verdades básicas del cristianismo verdadero. Algunos han comparado la repetición a una espiral que se mueve hacia afuera, cubriendo una misma verdad sobre un área cada vez mayor; otros la ven moverse hacia adentro, penetrando con más profundidad en los mismos temas. Sea cual sea, Juan usa la repetición para acentuar la importancia de las verdades y ayudar a entenderlas y recordarlas.",
+   "pagina": "pág. PDF 3325",
+   "importancia": 2
+  },
+  {
+   "ref": "1J intro",
+   "tipo": "estructura",
+   "titulo": "Bosquejo de 1 Juan en cuatro espirales",
+   "contenido": "I. Las pruebas fundamentales de comunión genuina, ESPIRAL I (1:1-2:17): A. pruebas de doctrina (1:1-2:2): 1. una perspectiva bíblica de Cristo (1:1-4); 2. del pecado (1:4-2:2); B. pruebas de moralidad (2:3-17): 1. perspectiva bíblica de la obediencia (2:3-6); 2. del amor (2:7-17): a. el amor que Dios requiere (2:7-11); b. el amor que Dios odia (2:12-17). II. ESPIRAL II (2:18-3:24): A. parte 2 de la prueba doctrinal (2:18-27): 1. los anticristos parten de la comunión cristiana (2:18-21); 2. niegan la fe cristiana (2:22-25); 3. engañan a los fieles (2:26-27); B. parte 2 de la prueba moral (2:28-3:24): 1. la esperanza purificadora del regreso del Señor (2:28-3:3); 2. la incompatibilidad del cristiano con el pecado (3:4-24): a. el requisito de justicia (3:4-10); b. el requisito de amor (3:11-24). III. ESPIRAL III (4:1-21): A. parte 3 de la prueba doctrinal (4:1-6): 1. la fuente demoníaca de falsa doctrina (4:1-3); 2. la necesidad de doctrina sana (4:4-6); B. parte 3 de la prueba moral (4:7-21): 1. la virtud del amor de Dios (4:7-10); 2. el requisito del amor de Dios (4:11-21). IV. ESPIRAL IV (5:1-21): A. la vida victoriosa en Cristo (5:1-5); B. el testimonio de Dios para Cristo (5:6-12); C. certezas cristianas debido a Cristo (5:13-21): 1. la certeza de la vida eterna (5:13); 2. de la oración contestada (5:14-17); 3. de victoria sobre el pecado y Satanás (5:18-21).",
+   "pagina": "pág. PDF 3325-3332",
+   "importancia": 3
+  },
+  {
+   "ref": "1J 1:1-4",
+   "tipo": "cristo",
+   "titulo": "Testigo ocular de la realidad física de Jesús",
+   "contenido": "Como apóstol y testigo ocular, presente en su muerte y resurrección y uno de los tres discípulos más cercanos (Juan, Pedro y Jacobo), Juan afirma la realidad física de que Jesucristo ha venido «en la carne». Así acentúa la gravedad de la falsa enseñanza y afirma de inmediato la realidad histórica de la humanidad de Jesús y la certeza del evangelio. Aunque los falsos maestros decían creer en Cristo, su negación de su naturaleza verdadera (incluida su humanidad) demostraba su falta de salvación genuina. La afirmación de una visión adecuada de Cristo es la primera prueba de comunión verdadera con Dios (v. 3; la segunda en 1:5-2:2).",
+   "refs_biblicas": [
+    "1J 4:2-3",
+    "1J 2:22-23"
+   ],
+   "pagina": "pág. PDF 3332",
+   "importancia": 3
+  },
+  {
+   "ref": "1J 1:1",
+   "tipo": "exegesis",
+   "titulo": "«Lo que era desde el principio»",
+   "contenido": "«Lo que era» se refiere a la proclamación del evangelio centrada en la persona, palabras y obras de Cristo en el testimonio apostólico. Aunque una frase similar en Juan 1:1 alude al pasado eterno, en el contexto de los vv. 1-4 «desde el principio» alude a los comienzos de la predicación del evangelio y al tiempo en que los lectores oyeron por primera vez de Jesús. Recalca la estabilidad del mensaje: su contenido no cambia ni está sujeto a modas mundanas o filosofías.",
+   "refs_biblicas": [
+    "Jn 1:1",
+    "1J 2:7",
+    "1J 2:24"
+   ],
+   "pagina": "pág. PDF 3332-3333",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 1:1",
+   "tipo": "cristo",
+   "titulo": "Oído, visto, contemplado, palparon: recuerdos vivos",
+   "contenido": "Las palabras apuntan a los recuerdos vivos de Jesús que Juan conservó toda su vida: aunque habían pasado más de sesenta años, estaban tan fijos que escribe como si todo hubiera acabado de suceder. Usa términos que afirman con energía la realidad física de Jesús, pues un espíritu no puede ser oído, visto ni tocado como lo fue Jesús por los discípulos en su ministerio y aun después de resucitar. «El Verbo de vida» no solo se refiere a Jesucristo sino a la predicación de su evangelio.",
+   "pagina": "pág. PDF 3333",
+   "importancia": 3
+  },
+  {
+   "ref": "1J 1:2-3",
+   "tipo": "apologetica",
+   "titulo": "La repetición del testimonio ocular frente a los falsos maestros",
+   "contenido": "Juan recalca con la repetición de «manifestada… hemos visto… testificamos… anunciamos» (vv. 2-3, cp. v. 1) la autoridad de su experiencia personal como testigo ocular de la vida de Jesús. Esa reiteración recuerda a los lectores que su testimonio refuta a los maestros falsos que se jactaban con arrogancia de un Cristo a quien nunca habían visto ni conocido.",
+   "pagina": "pág. PDF 3333",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 1:2",
+   "tipo": "cristo",
+   "titulo": "La vida eterna con el Padre que se manifestó",
+   "contenido": "Con esta frase Juan acentúa la eternidad de Cristo en su gloria previa a la encarnación.",
+   "refs_biblicas": [
+    "1J 5:12",
+    "Jn 1:4",
+    "Jn 5:26",
+    "Jn 5:40",
+    "Jn 11:25",
+    "Jn 14:6"
+   ],
+   "pagina": "pág. PDF 3333",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 1:3",
+   "tipo": "doctrina",
+   "titulo": "Comunión es salvación, no relación social",
+   "contenido": "«Comunión» no es un tipo de relaciones sociales: los lectores debían hacerse partícipes (socios) del apóstol en su posesión común de la vida eterna. Juan no escribe solo para afirmar la realidad física de Jesús sino para producir salvación. MacArthur concluye que los cristianos genuinos nunca están «fuera de la comunión», porque este versículo identifica comunión con salvación.",
+   "refs_biblicas": [
+    "Fil 1:5",
+    "1P 5:1",
+    "2P 1:4"
+   ],
+   "pagina": "pág. PDF 3333",
+   "importancia": 3
+  },
+  {
+   "ref": "1J 1:4",
+   "tipo": "doctrina",
+   "titulo": "Gozo cumplido",
+   "contenido": "Un objetivo principal de la epístola es generar gozo en los lectores. La proclamación de la realidad del evangelio (vv. 1-2) produce compañerismo y comunión en la vida eterna (v. 3), y eso produce gozo en el camino hacia la vida eterna (v. 4).",
+   "pagina": "pág. PDF 3334",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 1:5",
+   "tipo": "falsos_maestros",
+   "titulo": "La segunda prueba: afirmar la realidad del pecado",
+   "contenido": "Para refutar a los falsos maestros que negaban la existencia o importancia del pecado, Juan afirma su realidad ineludible; esta es la segunda prueba de comunión verdadera (la primera, 1:1-4; la tercera, 2:3-6). Quienes niegan el pecado demuestran su falta de salvación genuina. Según MacArthur el «nosotros» de los vv. 6, 8 y 10 no son cristianos genuinos sino cualquiera que afirme estar en la comunión pero niegue el pecado; el «nosotros» de los vv. 7, 9 y 2:1-2 sí se refiere a cristianos genuinos.",
+   "refs_biblicas": [
+    "1J 1:1-4",
+    "1J 2:3-6"
+   ],
+   "pagina": "pág. PDF 3334",
+   "importancia": 3
+  },
+  {
+   "ref": "1J 1:5",
+   "tipo": "doctrina",
+   "titulo": "Dios es luz: verdad y santidad",
+   "contenido": "El mensaje de Juan y los apóstoles provino de Dios y no de los hombres. En la Biblia luz y tinieblas son símbolos conocidos: en sentido intelectual, luz es verdad bíblica y tinieblas error o falsedad; en sentido moral, luz es santidad o pureza y tinieblas pecado o desviación. Los herejes alegaban ser iluminados de verdad y andar en la luz verdadera, pero Juan lo niega porque ni reconocían su propio pecado. «Ningunas tinieblas» afirma la perfección absoluta de Dios: nada en su carácter deteriora su verdad y santidad.",
+   "refs_biblicas": [
+    "Gá 1:12",
+    "Sal 119:105",
+    "Pr 6:23",
+    "Jn 1:4",
+    "Jn 8:12",
+    "Ro 13:11-14",
+    "1Ts 5:4-7",
+    "Stg 1:17"
+   ],
+   "pagina": "pág. PDF 3334",
+   "importancia": 3
+  },
+  {
+   "ref": "1J 1:6",
+   "tipo": "falsos_maestros",
+   "titulo": "Andar en tinieblas: el argumento más contundente",
+   "contenido": "Pese a sus aserciones de iluminación y supuesta comunión con Cristo, el hecho de que los falsos maestros anduvieran en tinieblas era el argumento más contundente contra ellos y demostraba que no eran salvos. «Mentimos» se refiere a la comunión que afirmaban; «no practicamos» muestra sus fallas habituales en practicar la verdad.",
+   "pagina": "pág. PDF 3334",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 1:7",
+   "tipo": "doctrina",
+   "titulo": "Andar en la luz y limpieza continua",
+   "contenido": "El cristiano genuino tiene por hábito andar en la luz (verdad y santidad) y no en tinieblas (falsedad y pecado). Su manera de andar resulta en una limpieza continua del pecado a medida que el Señor perdona a los suyos. Quienes andan en la luz participan del carácter de Dios y se caracterizan por su santidad, lo que indica que su comunión con él es verdadera. Un cristiano auténtico no anda en tinieblas sino solo en la luz, y su limpieza de todo pecado es continua.",
+   "refs_biblicas": [
+    "3Jn 11",
+    "Stg 1:27",
+    "2Co 6:14",
+    "Ef 5:8",
+    "Col 1:12-13"
+   ],
+   "pagina": "pág. PDF 3335",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 1:8",
+   "tipo": "falsos_maestros",
+   "titulo": "Negar la naturaleza pecaminosa",
+   "contenido": "Los falsos maestros, además de andar en tinieblas, llegaban a negar del todo la existencia de una naturaleza pecaminosa en su vida. Quien nunca admite que es pecador no puede tener la salvación como realidad (el joven rico que rehusó reconocer su pecado). Se engañaban a sí mismos y a los demás sobre su supuesta falta de pecado.",
+   "refs_biblicas": [
+    "Mt 19:16-22",
+    "Ec 7:20",
+    "Ro 3:23"
+   ],
+   "pagina": "pág. PDF 3335",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 1:9",
+   "tipo": "doctrina",
+   "titulo": "La confesión continua: decir lo mismo que Dios",
+   "contenido": "La confesión continua del pecado indica salvación genuina: los maestros falsos no querían confesar, el cristiano genuino admite y abandona su pecado. «Confesar» significa decir lo mismo que Dios dice del pecado y reconocer su punto de vista. El v. 7 corresponde a la perspectiva de Dios y el v. 9 a la del cristiano. En lugar de la confesión de cada pecado individual como necesaria, MacArthur entiende que Juan tiene en mente el reconocimiento concienzudo y reposado de que uno es pecador que necesita limpieza y perdón de Dios.",
+   "refs_biblicas": [
+    "Sal 32:3-5",
+    "Pr 28:13",
+    "Ef 4:32",
+    "Col 2:13"
+   ],
+   "postura": "No exige confesar cada pecado individual para mantener el perdón, sino la actitud permanente de reconocerse pecador.",
+   "pagina": "pág. PDF 3335",
+   "importancia": 3
+  },
+  {
+   "ref": "1J 1:10",
+   "tipo": "doctrina",
+   "titulo": "Hacerle a Dios mentiroso",
+   "contenido": "Como Dios ha dicho que todos los seres humanos son pecadores, negarlo equivale a blasfemar contra Dios con calumnias que difaman su nombre.",
+   "refs_biblicas": [
+    "Sal 14:3",
+    "Sal 51:5",
+    "Is 53:6",
+    "Jer 17:5-6",
+    "Ro 3:10-19",
+    "Ro 3:23",
+    "Ro 6:23"
+   ],
+   "pagina": "pág. PDF 3335",
+   "importancia": 2
+  },
+  {
+   "ref": "1J 2:1",
+   "tipo": "cristo",
+   "titulo": "Para que no pequéis; Abogado ante el Padre",
+   "contenido": "Aunque el cristiano debe reconocer y confesar su pecado con regularidad (1:9), es impotente contra él por sí solo; la confesión no da licencia para pecar, pues el pecado puede y debe ser conquistado por el poder del Espíritu. «Abogado» es la misma palabra que en Juan 16:7 se traduce «Consolador» (literalmente «el que es llamado a ponerse al lado»); un concepto moderno sería abogado defensor. Aunque Satanás acusa a los creyentes día y noche ante el Padre, el ministerio de Cristo como sumo sacerdote garantiza no solo compasión sino absolución.",
+   "refs_biblicas": [
+    "Ro 6:12-14",
+    "Ro 8:12-13",
+    "1Co 15:34",
+    "Tit 2:11-12",
+    "1P 1:13-16",
+    "Jn 16:7",
+    "Ap 12:10",
+    "He 4:14-16"
+   ],
+   "pagina": "pág. PDF 3336",
+   "importancia": 3
+  }
+ ],
+ "problemas": "El bosquejo viene partido en columnas estrechas de pág. PDF 3325-3332 (reconstruido)."
+}

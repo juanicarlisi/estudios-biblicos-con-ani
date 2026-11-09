@@ -4,136 +4,531 @@
   "desde": "Jd 17",
   "hasta": "Jd 20",
   "titulo": "Pero vosotros, amados: recordar y edificarse frente a los que dividen",
-  "minutos": {"lectura": 2, "estudio": 25},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "Ayer (Jd 14-16) Judas citó la profecía de Enoc: el Señor viene con sus santos a juzgar a los impíos por sus obras y por sus palabras duras. Con eso cerró el largo retrato de los falsos maestros que ocupa los vv. 5-16, que según Kistemaker explica la condenación anunciada en el v. 4.",
-    "ahora": "La carta da un giro. Judas deja de hablar de ellos y les habla a ellos, sus lectores: «Pero vosotros, amados». Kistemaker señala que acá empieza a escribir sobre la salvación común que había querido tratar desde el principio (v. 3). Hoy leemos la primera parte de esa exhortación: recordar lo que los apóstoles anunciaron (vv. 17-18), reconocer a los que dividen (v. 19) y edificarse en la fe orando en el Espíritu (v. 20).",
-    "despues": "Mañana (Jd 21-23) sigue la misma frase: conservarse en el amor de Dios, esperar la misericordia de Cristo y tender la mano a los que dudan o están cerca del fuego, sin contaminarse.",
-    "fuentes": ["kisjd_02_b#5", "beajd_01_b#6", "deirosjd_03_a#10", "macjd_02_b#1", "r1_007_b#41"]
+    "antes": "Ayer (Jd 14-16) Judas citó la profecía de Enoc: el Señor viene con sus santos a juzgar a los impíos por sus obras y sus palabras. Así cerró el retrato de los falsos maestros de los vv. 5-16, que según Kistemaker explica la condenación anunciada en el v. 4.",
+    "ahora": "La carta da un giro: Judas deja de hablar de ellos y les habla a sus lectores, «Pero vosotros, amados». Kistemaker señala que acá empieza a escribir sobre la salvación que había querido tratar desde el v. 3. Hoy: recordar lo que anunciaron los apóstoles (vv. 17-18), reconocer a los que dividen (v. 19) y edificarse orando en el Espíritu (v. 20).",
+    "despues": "Mañana (Jd 21-23): conservarse en el amor de Dios, esperar la misericordia de Cristo y tender la mano a los que dudan, sin contaminarse.",
+    "fuentes": [
+      "kisjd_02_b#5",
+      "beajd_01_b#6",
+      "deirosjd_03_a#10",
+      "macjd_02_b#1",
+      "r1_007_b#41"
+    ]
   },
   "versiculo_clave": {
     "ref": "Jd 20",
     "porque": "Es la respuesta positiva de toda la carta: frente a los que dividen y no tienen al Espíritu, los amados se edifican sobre la fe y oran en el Espíritu Santo. Judas empieza (v. 3) y termina (v. 20) hablando de la fe."
   },
   "panorama": {
-    "texto": "Después de denunciar a los infiltrados, Judas les da a sus lectores un plan, no solo una advertencia. MacArthur lo ordena en tres verbos para toda la sección: recordar (vv. 17-19), perseverar (vv. 20-21) y tender la mano (vv. 22-23); Deiros, siguiendo a Lightner y Hiebert, habla de una preparación mental, otra espiritual y otra ofensiva. Hoy nos toca la primera y el comienzo de la segunda. Recordar que los apóstoles ya habían anunciado burladores quita la sorpresa y el miedo; ver que los que dividen son los que no tienen al Espíritu desarma su pretensión de ser la élite espiritual; y la defensa no es solo resistir, sino crecer: construir la vida sobre la fe recibida y orar bajo la guía del Espíritu. El Nuevo Comentario Bíblico lo resume como un antídoto: memoria, crecimiento, oración.",
-    "fuentes": ["macjd_02_b#1", "deirosjd_03_a#7", "ncbjd_01#25", "moodynt_03_b#19"]
+    "texto": "Después de denunciar a los infiltrados, Judas da a sus lectores un plan, no solo una advertencia. MacArthur ordena la sección en tres verbos: recordar (vv. 17-19), perseverar (vv. 20-21) y tender la mano (vv. 22-23); Deiros, con Lightner y Hiebert, habla de una preparación mental, otra espiritual y otra ofensiva. Recordar que los apóstoles ya habían anunciado burladores quita la sorpresa; ver que los que dividen son los que no tienen al Espíritu desarma su pretensión de ser la élite espiritual; y la defensa no es solo resistir sino crecer: construir sobre la fe recibida y orar en el Espíritu.",
+    "fuentes": [
+      "macjd_02_b#1",
+      "deirosjd_03_a#7",
+      "ncbjd_01#25",
+      "moodynt_03_b#19"
+    ]
   },
   "secciones": [
     {
       "rango": "Jd 17",
       "titulo": "Pero vosotros, amados: tengan memoria",
       "notas": [
-        {"texto": "El «Pero vosotros» está en posición enfática en el v. 17 y otra vez en el v. 20, y marca el contraste con los impíos de los versículos anteriores (Rose, en el Comentario Beacon). Judas los llama amados con ternura: lo hizo en el v. 3 y lo repite dos veces ahora; son amados por Dios (v. 1) y por su pastor. Núñez observa que, después de tantos versículos duros, el afecto con que habla a sus lectores es muy distinto del tono que usa con los falsos maestros: arde por la verdad y también por las ovejas.", "fuentes": ["beajd_01_b#6", "kisjd_02_b#6", "deirosjd_03_a#10", "nunez2p_03_b#18"], "tipo": "exegesis"},
-        {"texto": "La orden es «tened memoria». Antes los había elogiado por lo que ya sabían del Antiguo Testamento (v. 5); ahora les da un mandato directo, porque descuidar lo que la fe enseña perjudica la vida de fe (Kistemaker). El verbo griego es un imperativo aoristo, que según Kistemaker vuelve el mandato más incisivo. El llamado a recordar es también tema de 2 Pedro (2P 1:12-14; 3:2), y el paralelo con 2P 3:2 es muy estrecho.", "fuentes": ["kisjd_02_b#6", "kisjd_02_b#12", "ncbjd_01#26"], "tipo": "exegesis"},
-        {"texto": "¿Qué deben recordar? Las palabras que antes dijeron los apóstoles de nuestro Señor Jesucristo. Kistemaker entiende que el término no abarca todo el evangelio sino dichos concretos, como la advertencia de Pablo a los ancianos de Éfeso sobre lobos rapaces que entrarían al rebaño (Hch 20:29); Deiros, en cambio, incluye ahí el mensaje de salvación y la enseñanza autoritativa que quedó en la Biblia. Rose (Beacon) admite que no se puede saber si eran palabras orales o escritas; basta que los lectores las conocían.", "fuentes": ["kisjd_02_b#8", "deirosjd_03_a#10", "beajd_01_b#7"], "tipo": "exegesis"},
-        {"texto": "Un detalle que casi todos notan: Judas no se cuenta entre los apóstoles. McGee ve ahí una posición humilde y la prueba de que su advertencia no es una novedad: la respaldan los apóstoles. Kistemaker y Deiros piensan sobre todo en los Doce y Pablo, y en particular en Pedro y Pablo, los más conocidos; según Bauckham (citado por Deiros), Judas no se incluye probablemente porque no fue de los que fundaron esa iglesia.", "fuentes": ["mcgjd_02#25", "nunez2p_03_b#13", "kisjd_02_b#7", "deirosjd_03_a#10", "cbmhjd_01_b#13"], "tipo": "exegesis"}
+        {
+          "texto": "El «Pero vosotros» está en posición enfática en el v. 17 y otra vez en el v. 20, y marca el contraste con los impíos (Rose, en el Comentario Beacon). Judas los llama amados, como en el v. 3: amados por Dios (v. 1) y por su pastor. Núñez observa que, después de tantos versículos duros, les habla con un afecto muy distinto: arde por la verdad y también por las ovejas.",
+          "fuentes": [
+            "beajd_01_b#6",
+            "kisjd_02_b#6",
+            "deirosjd_03_a#10",
+            "nunez2p_03_b#18"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La orden es «tened memoria». Antes los había elogiado por lo que ya sabían del Antiguo Testamento (v. 5); ahora les da un mandato directo, porque descuidar lo que la fe enseña perjudica la vida de fe (Kistemaker). El verbo griego es un imperativo aoristo, que según Kistemaker vuelve el mandato más incisivo. El llamado a recordar es también tema de 2 Pedro (2P 1:12-14; 3:2), y el paralelo con 2P 3:2 es muy estrecho.",
+          "fuentes": [
+            "kisjd_02_b#6",
+            "kisjd_02_b#12",
+            "ncbjd_01#26"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Qué deben recordar? Las palabras que antes dijeron los apóstoles de nuestro Señor Jesucristo. Kistemaker entiende que el término no abarca todo el evangelio sino dichos concretos, como la advertencia de Pablo a los ancianos de Éfeso sobre lobos rapaces que entrarían al rebaño (Hch 20:29); Deiros, en cambio, incluye ahí el mensaje de salvación y la enseñanza autoritativa que quedó en la Biblia. Rose (Beacon) admite que no se puede saber si eran palabras orales o escritas; basta que los lectores las conocían.",
+          "fuentes": [
+            "kisjd_02_b#8",
+            "deirosjd_03_a#10",
+            "beajd_01_b#7"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Un detalle que casi todos notan: Judas no se cuenta entre los apóstoles. McGee ve ahí humildad y la prueba de que su advertencia no es novedad. Kistemaker y Deiros piensan en los Doce y Pablo, sobre todo en Pedro y Pablo; según Bauckham (citado por Deiros), Judas no se incluye probablemente porque no fue de los que fundaron esa iglesia.",
+          "fuentes": [
+            "mcgjd_02#25",
+            "nunez2p_03_b#13",
+            "kisjd_02_b#7",
+            "deirosjd_03_a#10",
+            "cbmhjd_01_b#13"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "Jd 18",
       "titulo": "Lo que los apóstoles decían: habrá burladores",
       "notas": [
-        {"texto": "El verbo «decían» está en imperfecto: los apóstoles lo repetían una y otra vez (Kistemaker). El contenido era común a todo el Nuevo Testamento (Hch 20:29-30; 1Ti 4:1-3; 2Ti 3:1-5; 1J 2:18) y venía del mismo Jesús, que había anunciado falsos profetas (Mt 7:15; 24:11, 24). Las palabras exactas del v. 18 no aparecen en ningún pasaje; la frase está muy cerca de 2P 3:3 (ver Interpretaciones).", "fuentes": ["kisjd_02_b#13", "deirosjd_03_a#8", "cbmhjd_01_b#13", "macjd_02_b#5"], "tipo": "exegesis"},
-        {"texto": "«En el postrer tiempo»: para Kistemaker, MacArthur, el Nuevo Comentario Bíblico y Valle Ruiz (Mundo Hispano) es el período que va de la primera venida (o de la ascensión) al regreso de Cristo; los primeros cristianos ya vivían en él, y las fuerzas del mal se van haciendo más visibles y audibles a medida que se acerca el fin. Rose (Beacon) pone el acento en los años inmediatamente anteriores a la segunda venida. Kistemaker agrega el lado luminoso: en estos postreros días Dios nos habló por su Hijo (He 1:2). Y MacArthur saca la conclusión práctica: si los falsos maestros estuvieron siempre, en el Antiguo Testamento, en la iglesia primitiva y hoy, su presencia no debería sorprendernos.", "fuentes": ["kisjd_02_b#9", "macjd_02_b#6", "ncbjd_01#26", "cbmhjd_01_b#14", "beajd_01_b#8", "macjd_02_b#5"], "tipo": "doctrina"},
-        {"texto": "¿Quiénes son los burladores? Kistemaker advierte que no son ignorantes: conocen la Palabra y por eso convierten lo santo en objeto de burla constante, que no es un chiste liviano sino un ataque serio contra Dios, su Palabra y su pueblo. Judas no dice de qué se burlaban; Valle Ruiz piensa que, como en 2P 3:3-4, de la tardanza de la segunda venida, y MacArthur que de la ley de Dios: las dos cosas van juntas, porque no quieren rendir cuentas ante el Juez. Rose (citando a Mayor) lo explica así: si habían convertido la gracia en licencia, era natural que se rieran de los que tomaban en serio los mandamientos y del juicio venidero.", "fuentes": ["kisjd_02_b#10", "cbmhjd_01_b#14", "macjd_02_b#6", "beajd_01_b#8"], "tipo": "falsos_maestros"},
-        {"texto": "Andan «según sus malvados deseos»: literalmente, tras sus propias pasiones de impiedades. Kistemaker subraya ese plural final, que resume todos los actos impíos de los vv. 4, 8, 13, 15 y 16 y muestra cumplida la profecía de Enoc. Rose los llama anarquistas morales: dejan que sus deseos les digan qué es bueno y qué es malo.", "fuentes": ["kisjd_02_b#10", "kisjd_02_b#13", "beajd_01_b#9"], "tipo": "exegesis"}
+        {
+          "texto": "El verbo «decían» está en imperfecto: los apóstoles lo repetían una y otra vez (Kistemaker). El contenido era común a todo el Nuevo Testamento (Hch 20:29-30; 1Ti 4:1-3; 2Ti 3:1-5; 1J 2:18) y venía del mismo Jesús, que había anunciado falsos profetas (Mt 7:15; 24:11, 24). Las palabras exactas del v. 18 no aparecen en ningún pasaje; la frase está muy cerca de 2P 3:3 (ver Interpretaciones).",
+          "fuentes": [
+            "kisjd_02_b#13",
+            "deirosjd_03_a#8",
+            "cbmhjd_01_b#13",
+            "macjd_02_b#5"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«En el postrer tiempo»: para Kistemaker, MacArthur, el Nuevo Comentario Bíblico y Valle Ruiz (Mundo Hispano) es el período entre la primera venida (o la ascensión) y el regreso de Cristo; los primeros cristianos ya vivían en él, y el mal se hace más visible a medida que se acerca el fin. Rose (Beacon) acentúa los años previos a la segunda venida. Kistemaker agrega el lado luminoso: en estos postreros días Dios nos habló por su Hijo (He 1:2). MacArthur concluye que, si los falsos maestros estuvieron siempre, su presencia no debería sorprendernos.",
+          "fuentes": [
+            "kisjd_02_b#9",
+            "macjd_02_b#6",
+            "ncbjd_01#26",
+            "cbmhjd_01_b#14",
+            "beajd_01_b#8",
+            "macjd_02_b#5"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Quiénes son los burladores? Kistemaker advierte que no son ignorantes: conocen la Palabra y convierten lo santo en burla, un ataque serio contra Dios y su pueblo. Judas no dice de qué se burlaban; Valle Ruiz piensa que, como en 2P 3:3-4, de la tardanza de la segunda venida, y MacArthur que de la ley de Dios: las dos cosas van juntas, porque no quieren rendir cuentas ante el Juez.",
+          "fuentes": [
+            "kisjd_02_b#10",
+            "cbmhjd_01_b#14",
+            "macjd_02_b#6",
+            "beajd_01_b#8"
+          ],
+          "tipo": "falsos_maestros"
+        },
+        {
+          "texto": "Andan «según sus malvados deseos»: literalmente, tras sus propias pasiones de impiedades. Kistemaker subraya ese plural final, que resume todos los actos impíos de los vv. 4, 8, 13, 15 y 16 y muestra cumplida la profecía de Enoc. Rose los llama anarquistas morales: dejan que sus deseos les digan qué es bueno y qué es malo.",
+          "fuentes": [
+            "kisjd_02_b#10",
+            "kisjd_02_b#13",
+            "beajd_01_b#9"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "Jd 19",
       "titulo": "Los que dividen, sensuales y sin el Espíritu",
       "notas": [
-        {"texto": "Es el último retrato de los infiltrados, y Judas lo hace con tres trazos. Primero, «los que causan divisiones». Kistemaker nota que en toda la carta no los llamó falsos maestros, pero acá los define por su efecto: dividir y destruir, lo contrario de edificarse unos a otros. La palabra, rara, describe a quien traza líneas dentro de la comunidad y arma grupos de los que se creen superiores (Deiros, Moody). MacArthur lo compara con los fariseos: en vez de poner a los demás antes que a sí mismos, que es la clave de la unidad, se exaltan, y el resultado es división.", "fuentes": ["kisjd_02_b#14", "deirosjd_03_a#9", "moodynt_03_b#20", "macjd_02_b#7", "beajd_01_b#9"], "tipo": "falsos_maestros"},
-        {"texto": "Núñez aclara algo muy actual: lo que divide no es la doctrina, sino la falsa enseñanza. Los falsos maestros siembran interpretaciones torcidas y centradas en el hombre, y eso produce desacuerdos entre los verdaderos creyentes; la sana doctrina, en cambio, debe unir al rebaño.", "fuentes": ["nunez2p_03_b#16"], "tipo": "doctrina"},
-        {"texto": "Segundo, «los sensuales». La palabra griega viene de alma (psyché) y no significa en primer lugar lascivo: si Judas hubiera querido hablar del apetito carnal tenía otra palabra (Valle Ruiz). Describe a quien vive solo la vida natural, gobernada por el razonamiento y los afectos humanos (Rose, con Ellicott), centrada en el yo (McGee, con Vincent). Es la misma palabra de 1Co 2:14 para el hombre natural que no percibe las cosas del Espíritu.", "fuentes": ["cbmhjd_01_b#15", "beajd_01_b#9", "mcgjd_02#27", "deirosjd_03_a#9", "macjd_02_b#8"], "tipo": "exegesis"},
-        {"texto": "Tercero, «que no tienen al Espíritu». Acá está la ironía del versículo: ellos se presentaban como los verdaderamente espirituales y trataban a los demás como inferiores; Judas da vuelta la etiqueta. Los naturales son ellos, porque no tienen al Espíritu, y quien no tiene el Espíritu de Cristo no es de él (Ro 8:9). Para Deiros la diferencia entre creyentes auténticos y falsos no está en una supuesta condición natural sino en el carácter: la conducta inmoral delata que no tienen al Espíritu. Núñez agrega las señales concretas: falsa enseñanza, vida inmoral, falta de dominio propio y rechazo del señorío de Cristo. Que estos hombres usaran o no el vocabulario gnóstico se discute (ver Interpretaciones).", "fuentes": ["kisjd_02_b#15", "deirosjd_03_a#9", "ncbjd_01#27", "moodynt_03_b#20", "nunez2p_03_b#17", "mhenry_02#24", "beajd_01_b#9"], "tipo": "falsos_maestros"},
-        {"texto": "Matthew Henry hace una distinción que ayuda: separarse de Cristo para entregarse a la carne y al mundo es infinitamente peor que separarse de una rama de la iglesia visible por diferencias de opinión sobre el gobierno o la forma de culto. Lo grave del v. 19 no es la diferencia de estilo, sino la ruptura con Cristo.", "fuentes": ["mhenry_02#24"], "tipo": "doctrina"}
+        {
+          "texto": "Es el último retrato de los infiltrados, en tres trazos. Primero, «los que causan divisiones». Kistemaker nota que en toda la carta no los llamó falsos maestros: acá los define por su efecto, lo contrario de edificarse unos a otros. La palabra, rara, describe a quien traza líneas dentro de la comunidad y arma grupos de los que se creen superiores (Deiros, Moody). MacArthur lo compara con los fariseos: se exaltan a sí mismos en vez de poner a los demás primero, y el resultado es división.",
+          "fuentes": [
+            "kisjd_02_b#14",
+            "deirosjd_03_a#9",
+            "moodynt_03_b#20",
+            "macjd_02_b#7",
+            "beajd_01_b#9"
+          ],
+          "tipo": "falsos_maestros"
+        },
+        {
+          "texto": "Núñez aclara algo muy actual: lo que divide no es la doctrina, sino la falsa enseñanza. Los falsos maestros siembran interpretaciones torcidas y centradas en el hombre, y eso produce desacuerdos entre los verdaderos creyentes; la sana doctrina, en cambio, debe unir al rebaño.",
+          "fuentes": [
+            "nunez2p_03_b#16"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Segundo, «los sensuales». La palabra griega viene de alma (psyché) y no significa en primer lugar lascivo: si Judas hubiera querido hablar del apetito carnal tenía otra palabra (Valle Ruiz). Describe a quien vive solo la vida natural, gobernada por el razonamiento y los afectos humanos (Rose, con Ellicott), centrada en el yo (McGee, con Vincent). Es la misma palabra de 1Co 2:14 para el hombre natural que no percibe las cosas del Espíritu.",
+          "fuentes": [
+            "cbmhjd_01_b#15",
+            "beajd_01_b#9",
+            "mcgjd_02#27",
+            "deirosjd_03_a#9",
+            "macjd_02_b#8"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Tercero, «que no tienen al Espíritu». Acá está la ironía: ellos se presentaban como los verdaderamente espirituales; Judas da vuelta la etiqueta. Los naturales son ellos, porque no tienen al Espíritu, y quien no tiene el Espíritu de Cristo no es de él (Ro 8:9). Para Deiros la diferencia entre creyentes auténticos y falsos está en el carácter: la conducta inmoral delata que no tienen al Espíritu. Núñez suma la falsa enseñanza y el rechazo del señorío de Cristo. Si usaban vocabulario gnóstico se discute (ver Interpretaciones).",
+          "fuentes": [
+            "kisjd_02_b#15",
+            "deirosjd_03_a#9",
+            "ncbjd_01#27",
+            "moodynt_03_b#20",
+            "nunez2p_03_b#17",
+            "mhenry_02#24",
+            "beajd_01_b#9"
+          ],
+          "tipo": "falsos_maestros"
+        }
       ]
     },
     {
       "rango": "Jd 20",
       "titulo": "Edificándoos sobre vuestra santísima fe",
       "notas": [
-        {"texto": "Vuelve el «Pero vosotros, amados», ahora para la parte positiva. Valle Ruiz invita a mirar no solo los defectos de los impostores sino las propias responsabilidades. Rose cita a Bengel: el que primero se cuida a sí mismo puede después, y no antes, cuidar a otros, que es justamente lo que vendrá en los vv. 22-23.", "fuentes": ["cbmhjd_01_b#16", "beajd_01_b#11", "ncbjd_01#28"], "tipo": "exegesis"},
-        {"texto": "La fe sobre la que se edifica es, como en el v. 3, la fe objetiva: el cuerpo de verdad que enseñaron los apóstoles (Hch 2:42), no solo la confianza personal (Kistemaker, McGee, MacArthur, Nuevo Comentario Bíblico). Judas la llama santísima, en superlativo: Rose explica, con Mayor, que viene de Dios, revela a Dios y por ella somos justificados y vencemos al mundo; Henry agrega que la fe verdadera es santa porque obra por amor y purifica el corazón, a diferencia de la fe muerta. La carta empieza y termina con la fe.", "fuentes": ["kisjd_02_b#18", "mcgjd_03#6", "macjd_02_b#9", "ncbjd_01#28", "beajd_01_b#11", "mhenry_02#25"], "tipo": "doctrina"},
-        {"texto": "Edificar es una imagen de construcción: cimiento, paredes, techo. Deiros habla de trabajo paciente, piedra sobre piedra, sobre el único fundamento posible, Cristo, y advierte que los arrebatos de entusiasmo no reemplazan la constancia diaria. MacArthur observa que el participio tiene fuerza de mandato y lo traduce en estudiar la Palabra y aprender a aplicarla; McGee insiste en edificar con toda la Biblia y no con un puñado de versículos favoritos.", "fuentes": ["deirosjd_03_b#9", "macjd_02_b#9", "mcgjd_03#6"], "tipo": "aplicacion"},
-        {"texto": "¿Es tarea individual o de la comunidad? Las dos. Valle Ruiz subraya el pronombre reflexivo (edificaos a vosotros mismos): cada creyente es responsable de su disciplina espiritual. Kistemaker y Núñez lo leen también como edificación mutua: mientras los impíos entran para dividir, los amados se fortalecen unos a otros y así crece la unidad.", "fuentes": ["cbmhjd_01_b#17", "kisjd_02_b#18", "nunez2p_03_b#19"], "tipo": "exegesis"}
+        {
+          "texto": "Vuelve el «Pero vosotros, amados», ahora para lo positivo. Valle Ruiz invita a mirar también las propias responsabilidades. Rose cita a Bengel: quien primero se cuida a sí mismo puede después cuidar a otros, como pedirán los vv. 22-23.",
+          "fuentes": [
+            "cbmhjd_01_b#16",
+            "beajd_01_b#11",
+            "ncbjd_01#28"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La fe sobre la que se edifica es, como en el v. 3, la fe objetiva: el cuerpo de verdad que enseñaron los apóstoles (Hch 2:42), no solo la confianza personal (Kistemaker, McGee, MacArthur, Nuevo Comentario Bíblico). Judas la llama santísima, en superlativo: Rose explica, con Mayor, que viene de Dios, revela a Dios y por ella somos justificados y vencemos al mundo; Henry agrega que la fe verdadera es santa porque obra por amor y purifica el corazón, a diferencia de la fe muerta. La carta empieza y termina con la fe.",
+          "fuentes": [
+            "kisjd_02_b#18",
+            "mcgjd_03#6",
+            "macjd_02_b#9",
+            "ncbjd_01#28",
+            "beajd_01_b#11",
+            "mhenry_02#25"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Edificar es una imagen de construcción. Deiros habla de trabajo paciente, piedra sobre piedra, sobre el único fundamento posible, Cristo; los arrebatos de entusiasmo no reemplazan la constancia diaria. MacArthur ve en el participio fuerza de mandato y lo traduce en estudiar la Palabra y aplicarla; McGee insiste en edificar con toda la Biblia y no con unos pocos versículos favoritos.",
+          "fuentes": [
+            "deirosjd_03_b#9",
+            "macjd_02_b#9",
+            "mcgjd_03#6"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "¿Es tarea individual o de la comunidad? Las dos. Valle Ruiz subraya el pronombre reflexivo (edificaos a vosotros mismos): cada creyente es responsable de su disciplina espiritual. Kistemaker y Núñez lo leen también como edificación mutua: mientras los impíos entran para dividir, los amados se fortalecen unos a otros y así crece la unidad.",
+          "fuentes": [
+            "cbmhjd_01_b#17",
+            "kisjd_02_b#18",
+            "nunez2p_03_b#19"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "Jd 20",
       "titulo": "Orando en el Espíritu Santo",
       "notas": [
-        {"texto": "Valle Ruiz nota que en griego no hay una y entre las dos frases, y que orando es un participio presente de acción continua: uno se edifica en la fe mientras ora en el Espíritu. Eso evita un cristianismo intelectual y frío; el Comentario Moody concluye que los verdaderamente espirituales no son los exclusivistas del v. 19 sino los que oran en el Espíritu Santo.", "fuentes": ["cbmhjd_01_b#16", "moodynt_03_b#21"], "tipo": "exegesis"},
-        {"texto": "En lo central los autores coinciden: orar en el Espíritu es orar bajo su dirección y con su fuerza, conforme a la voluntad de Dios revelada en la Palabra, dependiendo de él (Henry, Kistemaker, MacArthur, Núñez, Deiros). El Espíritu nos enseña a decir Padre (Ro 8:15-16) y, cuando no sabemos qué pedir, intercede por nosotros con gemidos indecibles (Ro 8:26-27); Kistemaker lo resume diciendo que toma nuestras oraciones débiles, las perfecciona y las presenta al Padre. Sobre si incluye o no oración carismática, ver Interpretaciones.", "fuentes": ["mhenry_02#25", "kisjd_02_b#19", "macjd_02_b#10", "nunez2p_03_b#20", "deirosjd_03_b#6"], "tipo": "doctrina"},
-        {"texto": "La frase se parece a Ef 6:18, dentro de la armadura de Dios: junto con la espada del Espíritu, que es la Palabra, la oración es arma para la batalla (McGee, Kistemaker). Y es continua, como el orad sin cesar de 1Ts 5:17. McGee recuerda que no es solo una lista de pedidos: incluye alabanza y adoración.", "fuentes": ["mcgjd_03#7", "kisjd_02_b#19", "deirosjd_03_b#6"], "tipo": "doctrina"}
+        {
+          "texto": "Valle Ruiz nota que en griego no hay una y entre las dos frases, y que orando es un participio presente de acción continua: uno se edifica en la fe mientras ora en el Espíritu. Eso evita un cristianismo intelectual y frío; el Comentario Moody concluye que los verdaderamente espirituales no son los exclusivistas del v. 19 sino los que oran en el Espíritu Santo.",
+          "fuentes": [
+            "cbmhjd_01_b#16",
+            "moodynt_03_b#21"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "En lo central los autores coinciden: orar en el Espíritu es orar bajo su dirección y con su fuerza, conforme a la voluntad de Dios revelada en la Palabra, dependiendo de él (Henry, Kistemaker, MacArthur, Núñez, Deiros). El Espíritu nos enseña a decir Padre (Ro 8:15-16) y, cuando no sabemos qué pedir, intercede por nosotros con gemidos indecibles (Ro 8:26-27); Kistemaker lo resume diciendo que toma nuestras oraciones débiles, las perfecciona y las presenta al Padre. Sobre si incluye o no oración carismática, ver Interpretaciones.",
+          "fuentes": [
+            "mhenry_02#25",
+            "kisjd_02_b#19",
+            "macjd_02_b#10",
+            "nunez2p_03_b#20",
+            "deirosjd_03_b#6"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La frase se parece a Ef 6:18, dentro de la armadura de Dios: junto con la espada del Espíritu, que es la Palabra, la oración es arma para la batalla (McGee, Kistemaker). Y es continua, como el orad sin cesar de 1Ts 5:17. McGee recuerda que no es solo una lista de pedidos: incluye alabanza y adoración.",
+          "fuentes": [
+            "mcgjd_03#7",
+            "kisjd_02_b#19",
+            "deirosjd_03_b#6"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "Jd 17", "griego": "μνήσθητε", "translit": "mnḗsthēte", "significado": "Recuerden, tengan memoria. Imperativo aoristo; según Kistemaker, el aoristo hace el mandato más incisivo. El verbo que le sigue, προειρημένων (dichas antes), es un perfecto: palabras dichas en el pasado que siguen vigentes.", "fuentes": ["kisjd_02_b#12"]},
-    {"ref": "Jd 18", "griego": "ἀσεβειῶν", "translit": "asebeiōn", "significado": "De impiedades. Plural enfático al final de la frase, que resume las palabras y los hechos de los impíos en toda la carta.", "fuentes": ["kisjd_02_b#13", "kisjd_02_b#10"]},
-    {"ref": "Jd 19", "griego": "ἀποδιορίζοντες", "translit": "apodiorízontes", "significado": "Los que hacen separaciones, los que trazan límites. Compuesta de apó, diá y hóros (límite); aparece solo acá en el Nuevo Testamento. MacArthur la entiende como discriminar, presentarse como superiores.", "fuentes": ["kisjd_02_b#16", "deirosjd_03_a#9", "macjd_02_b#7"]},
-    {"ref": "Jd 19", "griego": "ψυχικοί", "translit": "psychikoí", "significado": "Sensuales, naturales, literalmente del alma: los que viven solo la vida natural, sin el Espíritu. Es lo opuesto de pneumatikoí, espirituales (1Co 2:14).", "fuentes": ["beajd_01_b#9", "macjd_02_b#8", "mcgjd_02#27", "cbmhjd_01_b#15"]},
-    {"ref": "Jd 20", "griego": "ἁγιωτάτῃ", "translit": "hagiōtátē", "significado": "Santísima: superlativo, una fe más santa que la cual no hay nada.", "fuentes": ["beajd_01_b#11", "kisjd_02_b#18"]},
-    {"ref": "Jd 20", "griego": "ἐποικοδομοῦντες ἑαυτοὺς", "translit": "epoikodomoûntes heautoús", "significado": "Edificándose a sí mismos. Participio presente con fuerza de mandato (MacArthur) y pronombre reflexivo que marca la responsabilidad del creyente (Valle Ruiz).", "fuentes": ["macjd_02_b#9", "cbmhjd_01_b#17"]}
+    {
+      "ref": "Jd 17",
+      "griego": "μνήσθητε",
+      "translit": "mnḗsthēte",
+      "significado": "Recuerden, tengan memoria: imperativo aoristo, que según Kistemaker vuelve el mandato más incisivo.",
+      "fuentes": [
+        "kisjd_02_b#12"
+      ]
+    },
+    {
+      "ref": "Jd 18",
+      "griego": "ἀσεβειῶν",
+      "translit": "asebeiōn",
+      "significado": "De impiedades. Plural enfático al final de la frase, que resume las palabras y los hechos de los impíos en toda la carta.",
+      "fuentes": [
+        "kisjd_02_b#13",
+        "kisjd_02_b#10"
+      ]
+    },
+    {
+      "ref": "Jd 19",
+      "griego": "ἀποδιορίζοντες",
+      "translit": "apodiorízontes",
+      "significado": "Los que hacen separaciones, que trazan límites (hóros, límite). Aparece solo acá en el Nuevo Testamento; MacArthur la entiende como discriminar, presentarse como superiores.",
+      "fuentes": [
+        "kisjd_02_b#16",
+        "deirosjd_03_a#9",
+        "macjd_02_b#7"
+      ]
+    },
+    {
+      "ref": "Jd 19",
+      "griego": "ψυχικοί",
+      "translit": "psychikoí",
+      "significado": "Sensuales, naturales, literalmente del alma: los que viven solo la vida natural, sin el Espíritu. Es lo opuesto de pneumatikoí, espirituales (1Co 2:14).",
+      "fuentes": [
+        "beajd_01_b#9",
+        "macjd_02_b#8",
+        "mcgjd_02#27",
+        "cbmhjd_01_b#15"
+      ]
+    },
+    {
+      "ref": "Jd 20",
+      "griego": "ἁγιωτάτῃ",
+      "translit": "hagiōtátē",
+      "significado": "Santísima: superlativo, una fe más santa que la cual no hay nada.",
+      "fuentes": [
+        "beajd_01_b#11",
+        "kisjd_02_b#18"
+      ]
+    },
+    {
+      "ref": "Jd 20",
+      "griego": "ἐποικοδομοῦντες ἑαυτοὺς",
+      "translit": "epoikodomoûntes heautoús",
+      "significado": "Edificándose a sí mismos. Participio presente con fuerza de mandato (MacArthur) y pronombre reflexivo que marca la responsabilidad del creyente (Valle Ruiz).",
+      "fuentes": [
+        "macjd_02_b#9",
+        "cbmhjd_01_b#17"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Los apóstoles son de nuestro Señor Jesucristo: Deiros, con Moltmann, recuerda que no fueron enviados por una idea sino por una persona, a la que habían oído, visto y palpado. Recordar su enseñanza es volver al testimonio sobre Cristo.", "refs": ["1J 1:1"], "fuentes": ["deirosjd_03_a#12"]},
-    {"texto": "La advertencia de los apóstoles empezó en boca de Jesús: él anunció lobos con piel de oveja y falsos profetas que engañarían, si fuera posible, aun a los escogidos. Y en estos postreros días Dios nos habló por su Hijo.", "refs": ["Mt 7:15", "Mt 24:24", "He 1:2"], "fuentes": ["macjd_02_b#5", "deirosjd_03_a#8", "kisjd_02_b#9"]},
-    {"texto": "No tener el Espíritu es no pertenecer a Cristo; el Espíritu que mora en el creyente es el Espíritu de Dios y de Cristo. Y el fundamento sobre el que se edifica no es otro que Cristo mismo.", "refs": ["Ro 8:9", "1Co 3:11"], "fuentes": ["beajd_01_b#9", "mhenry_02#24", "deirosjd_03_b#9"]}
+    {
+      "texto": "Los apóstoles son de nuestro Señor Jesucristo: Deiros, con Moltmann, recuerda que no los envió una idea sino una persona, a la que habían visto y palpado.",
+      "refs": [
+        "1J 1:1"
+      ],
+      "fuentes": [
+        "deirosjd_03_a#12"
+      ]
+    },
+    {
+      "texto": "La advertencia de los apóstoles empezó en boca de Jesús: él anunció lobos con piel de oveja y falsos profetas que engañarían, si fuera posible, aun a los escogidos. Y en estos postreros días Dios nos habló por su Hijo.",
+      "refs": [
+        "Mt 7:15",
+        "Mt 24:24",
+        "He 1:2"
+      ],
+      "fuentes": [
+        "macjd_02_b#5",
+        "deirosjd_03_a#8",
+        "kisjd_02_b#9"
+      ]
+    },
+    {
+      "texto": "No tener el Espíritu es no pertenecer a Cristo; el Espíritu que mora en el creyente es el Espíritu de Dios y de Cristo. Y el fundamento sobre el que se edifica no es otro que Cristo mismo.",
+      "refs": [
+        "Ro 8:9",
+        "1Co 3:11"
+      ],
+      "fuentes": [
+        "beajd_01_b#9",
+        "mhenry_02#24",
+        "deirosjd_03_b#9"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿De dónde sale la cita del v. 18?",
       "posturas": [
-        {"postura": "Judas cita a Pedro: la palabra burladores aparece en el Nuevo Testamento solo aquí y en 2P 3:3.", "quien": "MacArthur", "fuentes": ["macjd_02_b#6"]},
-        {"postura": "Los dos textos pueden venir de una tradición común de enseñanza apostólica, quizá oral; detrás podría haber dichos apostólicos no registrados.", "quien": "Comentario Moody; Nuevo Comentario Bíblico; Kistemaker (Pedro lo escribió con ligeras variantes y los apóstoles lo enseñaban de palabra)", "fuentes": ["moodynt_03_b#19", "ncbjd_01#26", "kisjd_02_b#9"]},
-        {"postura": "No es cita textual sino resumen o eco de la enseñanza apostólica sobre la apostasía (un libro perdido es la tercera posibilidad, que no prefiere).", "quien": "Valle Ruiz (Mundo Hispano); Deiros", "fuentes": ["cbmhjd_01_b#13", "deirosjd_03_a#8"]},
-        {"postura": "No se puede saber si eran palabras orales o escritas; basta que los lectores las conocían.", "quien": "Rose (Beacon)", "fuentes": ["beajd_01_b#7"]}
+        {
+          "postura": "Judas cita a Pedro: la palabra burladores aparece en el Nuevo Testamento solo aquí y en 2P 3:3.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macjd_02_b#6"
+          ]
+        },
+        {
+          "postura": "Los dos textos pueden venir de una tradición común de enseñanza apostólica, quizá oral; detrás podría haber dichos apostólicos no registrados.",
+          "quien": "Comentario Moody; Nuevo Comentario Bíblico; Kistemaker (Pedro lo escribió con ligeras variantes y los apóstoles lo enseñaban de palabra)",
+          "fuentes": [
+            "moodynt_03_b#19",
+            "ncbjd_01#26",
+            "kisjd_02_b#9"
+          ]
+        },
+        {
+          "postura": "No es cita textual sino resumen o eco de la enseñanza apostólica sobre la apostasía.",
+          "quien": "Valle Ruiz (Mundo Hispano); Deiros",
+          "fuentes": [
+            "cbmhjd_01_b#13",
+            "deirosjd_03_a#8"
+          ]
+        },
+        {
+          "postura": "No se puede saber si eran palabras orales o escritas; basta que los lectores las conocían.",
+          "quien": "Rose (Beacon)",
+          "fuentes": [
+            "beajd_01_b#7"
+          ]
+        }
       ],
       "nota": "La enseñanza no cambia: los apóstoles habían avisado, y los lectores tenían que recordarlo."
     },
     {
       "tema": "¿Usa Judas el vocabulario del gnosticismo en el v. 19?",
       "posturas": [
-        {"postura": "Sí: los gnósticos se llamaban a sí mismos espirituales y a los demás cristianos psíquicos, y Judas les invierte el rótulo.", "quien": "Valle Ruiz (Mundo Hispano); Comentario Moody; Nuevo Comentario Bíblico; Kistemaker menciona también a De Boor y Kelly", "fuentes": ["cbmhjd_01_b#15", "moodynt_03_b#20", "ncbjd_01#27", "kisjd_02_b#15"]},
-        {"postura": "No hay evidencia de un gnosticismo desarrollado cuando escribió Judas; quizá eran precursores, y es más seguro leer sus palabras en su propio contexto: decían tener el Espíritu y libertad moral, y Judas lo niega.", "quien": "Kistemaker, con Bauckham", "fuentes": ["kisjd_02_b#15"]}
+        {
+          "postura": "Sí: los gnósticos se llamaban a sí mismos espirituales y a los demás cristianos psíquicos, y Judas les invierte el rótulo.",
+          "quien": "Valle Ruiz (Mundo Hispano); Comentario Moody; Nuevo Comentario Bíblico; Kistemaker menciona también a De Boor y Kelly",
+          "fuentes": [
+            "cbmhjd_01_b#15",
+            "moodynt_03_b#20",
+            "ncbjd_01#27",
+            "kisjd_02_b#15"
+          ]
+        },
+        {
+          "postura": "No hay evidencia de un gnosticismo desarrollado cuando escribió Judas; quizá eran precursores, y es más seguro leer sus palabras en su propio contexto: decían tener el Espíritu y libertad moral, y Judas lo niega.",
+          "quien": "Kistemaker, con Bauckham",
+          "fuentes": [
+            "kisjd_02_b#15"
+          ]
+        }
       ],
       "nota": "En las dos lecturas el punto es el mismo: los que se creían espirituales eran los que no tenían al Espíritu."
     },
     {
       "tema": "¿Qué es orar en el Espíritu Santo?",
       "posturas": [
-        {"postura": "No es hablar en lenguas, sino orar conforme a la voluntad, los deseos y las pautas del Espíritu, sometidos a él.", "quien": "MacArthur", "fuentes": ["macjd_02_b#10"]},
-        {"postura": "La Biblia no da una definición precisa; implica orar de acuerdo con la Palabra y la voluntad revelada de Dios.", "quien": "Núñez", "fuentes": ["nunez2p_03_b#20"]},
-        {"postura": "Oración bajo la inspiración o el control del Espíritu, que suple las palabras; Deiros recoge además que J. D. G. Dunn ve posible una referencia a oración carismática, incluso en lenguas.", "quien": "Deiros (y Dunn, citado por él)", "fuentes": ["deirosjd_03_b#6"]},
-        {"postura": "Toda oración verdadera es por el Espíritu, todos deben pedir su plenitud, y orar en el Espíritu Santo en sentido pleno es propio de creyentes llenos del Espíritu.", "quien": "Rose (Beacon)", "fuentes": ["beajd_01_b#12"]}
+        {
+          "postura": "No es hablar en lenguas, sino orar conforme a la voluntad, los deseos y las pautas del Espíritu, sometidos a él.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macjd_02_b#10"
+          ]
+        },
+        {
+          "postura": "La Biblia no da una definición precisa; implica orar de acuerdo con la Palabra y la voluntad revelada de Dios.",
+          "quien": "Núñez",
+          "fuentes": [
+            "nunez2p_03_b#20"
+          ]
+        },
+        {
+          "postura": "Oración bajo la inspiración o el control del Espíritu, que suple las palabras; Deiros recoge además que J. D. G. Dunn ve posible una referencia a oración carismática, incluso en lenguas.",
+          "quien": "Deiros (y Dunn, citado por él)",
+          "fuentes": [
+            "deirosjd_03_b#6"
+          ]
+        },
+        {
+          "postura": "Toda oración verdadera es por el Espíritu, pero orar en el Espíritu Santo en sentido pleno es propio de creyentes llenos del Espíritu.",
+          "quien": "Rose (Beacon)",
+          "fuentes": [
+            "beajd_01_b#12"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que es oración que depende del Espíritu y concuerda con la voluntad de Dios."
     }
   ],
   "biblioteca": [
-    {"texto": "John Owen advierte que, si las iglesias plantadas por los mismos apóstoles cayeron pronto (Corinto con la resurrección, Galacia con las obras, Éfeso con su primer amor), con más razón pueden caer las posteriores; creer que una iglesia no puede fallar da falsa seguridad.", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 5-6", "tipo": "historia", "fuentes": ["r1_019#18"]},
-    {"texto": "Hinn lee Jd 17-23 frente al evangelio de la prosperidad: permanecer arraigados en la fe esperando a Cristo, trabajar para rescatar a los engañados y confiar en el poder de Dios para salvar; a veces se juega a la defensiva y a veces al ataque.", "autor": "Hinn", "obra": "Dios, la avaricia y el evangelio de la prosperidad", "pagina": "PDF 125-127", "tipo": "aplicacion", "fuentes": ["r1_003#18"]},
-    {"texto": "Wiersbe ve en el incienso del altar de oro (Éx 30) un cuadro de la oración, y en el fuego que lo enciende un recuerdo del Espíritu, sin cuya ayuda no se ora de verdad (Ro 8:26-27; Jd 20).", "autor": "Warren Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 42", "tipo": "ilustracion", "fuentes": ["r1_005#5"]},
-    {"texto": "Núñez usa una ilustración de Paul Tripp: quien sube media libra por mes casi no lo nota, pero en diez años es irreconocible. Así suele ser apartarse de la fe: una duda, un cambio sutil de creencia, de actitud y al final de vida.", "autor": "Miguel Núñez", "obra": "Comentario de 2 Pedro y Judas", "pagina": "PDF 201-202", "tipo": "ilustracion", "fuentes": ["nunez2p_03_b#14"]}
+    {
+      "texto": "John Owen advierte que, si las iglesias plantadas por los mismos apóstoles cayeron pronto (Corinto con la resurrección, Galacia con las obras, Éfeso con su primer amor), con más razón pueden caer las posteriores; creer que una iglesia no puede fallar da falsa seguridad.",
+      "autor": "John Owen",
+      "obra": "Apostasía del evangelio",
+      "pagina": "PDF 5-6",
+      "tipo": "historia",
+      "fuentes": [
+        "r1_019#18"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "2P 3:2-3", "nota": "El paralelo más cercano: recordar las palabras de los apóstoles y saber que vendrán burladores.", "fuentes": ["kisjd_02_b#6", "macjd_02_b#6"]},
-    {"ref": "Hch 20:29-30", "nota": "Pablo a los ancianos de Éfeso: después de su partida entrarían lobos rapaces y de entre ellos mismos se levantarían quienes arrastren discípulos.", "fuentes": ["kisjd_02_b#8", "ncbjd_01#26"]},
-    {"ref": "1Co 2:14", "nota": "El hombre natural (la misma palabra que «sensuales») no percibe las cosas del Espíritu.", "fuentes": ["beajd_01_b#9", "ncbjd_01#27"]},
-    {"ref": "Ro 8:9", "nota": "Si alguno no tiene el Espíritu de Cristo, no es de él: la base de la frase final del v. 19.", "fuentes": ["beajd_01_b#9", "deirosjd_03_a#9"]},
-    {"ref": "Ef 4:11-13", "nota": "Cristo dio pastores y maestros para edificar a su pueblo hasta la madurez.", "fuentes": ["nunez2p_03_b#19", "macjd_02_b#9"]},
-    {"ref": "Ef 6:18", "nota": "Orar en el Espíritu en todo tiempo, como parte de la armadura.", "fuentes": ["mcgjd_03#7", "kisjd_02_b#19"]}
+    {
+      "ref": "2P 3:2-3",
+      "nota": "El paralelo más cercano: recordar las palabras de los apóstoles y saber que vendrán burladores.",
+      "fuentes": [
+        "kisjd_02_b#6",
+        "macjd_02_b#6"
+      ]
+    },
+    {
+      "ref": "Hch 20:29-30",
+      "nota": "Pablo a los ancianos de Éfeso: después de su partida entrarían lobos rapaces y de entre ellos mismos se levantarían quienes arrastren discípulos.",
+      "fuentes": [
+        "kisjd_02_b#8",
+        "ncbjd_01#26"
+      ]
+    },
+    {
+      "ref": "Ro 8:9",
+      "nota": "Si alguno no tiene el Espíritu de Cristo, no es de él: la base de la frase final del v. 19.",
+      "fuentes": [
+        "beajd_01_b#9",
+        "deirosjd_03_a#9"
+      ]
+    },
+    {
+      "ref": "Ef 6:18",
+      "nota": "Orar en el Espíritu en todo tiempo, como parte de la armadura.",
+      "fuentes": [
+        "mcgjd_03#7",
+        "kisjd_02_b#19"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Recordar exige un esfuerzo. Kistemaker cuenta que los primeros cristianos guardaban la Palabra en la memoria, mientras que nosotros, con todo escrito, retenemos poco de lo que oímos el domingo. Atesorar la Palabra (Sal 119:11) puede ser algo concreto para ustedes dos: un versículo por semana, repasado juntos.", "fuentes": ["kisjd_02_b#11"]},
-    {"texto": "Núñez señala falsos maestros más cercanos que un predicador: las costumbres del mundo (Ro 12:2) y nuestro propio corazón (Jer 17:9), que nos hace creer a los sentimientos antes que a lo que Dios dice. También el apartarse suele ser gradual. Vale preguntarse qué mandamiento se fue olvidando.", "fuentes": ["nunez2p_03_b#15", "nunez2p_03_b#14"]},
-    {"texto": "Edificarse es paciente y diario. Para un matrimonio, eso puede ser estudiar la Palabra juntos, adorar con la iglesia y celebrar la Cena: Deiros, citando a Blum, menciona la comunión con el Señor y con su pueblo, la Palabra, la adoración y la mesa del Señor.", "fuentes": ["deirosjd_03_b#9"]},
-    {"texto": "Deiros advierte que la apostasía de la fe empieza por la apostasía de la oración: cuando se deja la comunión con Dios, se corre el riesgo de abandonarlo. Si la oración se enfrió, el camino de vuelta es el arrepentimiento (Sal 51:10-12).", "fuentes": ["deirosjd_03_b#11"]},
-    {"texto": "Frente a la división, la pureza y la humildad. Deiros cita a Matthew Henry: la manera de preservar la paz de la iglesia es preservar su pureza. Y Deiros reconoce dos errores evangélicos: borrar la frontera entre los que son de Cristo y los que están contra él, y un exclusivismo orgulloso que nos aleja de otros que también son de Cristo.", "fuentes": ["deirosjd_03_b#3", "deirosjd_03_b#2"]}
+    {
+      "texto": "Recordar exige esfuerzo. Kistemaker nota que los primeros cristianos guardaban la Palabra en la memoria y nosotros, con todo escrito, retenemos poco de lo que oímos. Atesorar la Palabra (Sal 119:11) puede ser concreto para ustedes: un versículo por semana, repasado juntos.",
+      "fuentes": [
+        "kisjd_02_b#11"
+      ]
+    },
+    {
+      "texto": "Núñez señala falsos maestros más cercanos que un predicador: las costumbres del mundo (Ro 12:2) y el propio corazón (Jer 17:9). Y apartarse suele ser gradual (usa una ilustración de Paul Tripp): vale preguntarse qué mandamiento se fue olvidando.",
+      "fuentes": [
+        "nunez2p_03_b#15",
+        "nunez2p_03_b#14"
+      ]
+    },
+    {
+      "texto": "Edificarse es paciente y diario. Deiros, citando a Blum, menciona la comunión con el Señor y con su pueblo, la Palabra, la adoración y la mesa del Señor: cosas que ustedes pueden cultivar juntos.",
+      "fuentes": [
+        "deirosjd_03_b#9"
+      ]
+    },
+    {
+      "texto": "Deiros advierte que la apostasía de la fe empieza por la apostasía de la oración. Si la oración se enfrió, el camino de vuelta es el arrepentimiento (Sal 51:10-12).",
+      "fuentes": [
+        "deirosjd_03_b#11"
+      ]
+    },
+    {
+      "texto": "Frente a la división, pureza y humildad. Deiros cita a Matthew Henry: la manera de preservar la paz de la iglesia es preservar su pureza; y reconoce dos errores evangélicos: borrar la frontera con los que están contra Cristo, y un exclusivismo orgulloso que nos aleja de otros que también son de él.",
+      "fuentes": [
+        "deirosjd_03_b#3",
+        "deirosjd_03_b#2"
+      ]
+    }
   ],
   "para_conversar": [
     "Judas dice que la presencia de burladores no debería tomarnos por sorpresa. ¿Qué cambia en nuestra forma de reaccionar cuando recordamos que los apóstoles ya lo habían anunciado?",
@@ -141,14 +536,75 @@
     "¿Cómo podemos edificarnos mutuamente sobre la fe como pareja esta semana, y qué lugar real tiene la oración juntos en eso?"
   ],
   "para_orar": "Señor, gracias porque nos llamás amados. Ayudanos a recordar tu Palabra y a no sorprendernos ni asustarnos por los que se burlan o dividen. Edificanos sobre la fe que nos diste, guardanos de la soberbia que separa, y enseñanos a orar en tu Espíritu, que nos une a Cristo. Amén.",
-  "visuales": ["dg-estructura-jd", "dg-falsos"],
-  "anexos": ["T2", "I5"],
+  "visuales": [
+    "dg-estructura-jd",
+    "dg-falsos"
+  ],
+  "anexos": [
+    "T2",
+    "I5"
+  ],
   "profundizar": [
-    {"titulo": "¿Qué es una iglesia apostólica?", "texto": "Deiros explica que la apostolicidad es una nota tradicional de la iglesia, pero no se entiende igual en todas partes: para la Iglesia Católica Romana, la Ortodoxa y en parte la Anglicana es continuidad histórica por la sucesión de obispos; para los protestantes, continuidad en el mensaje, preservado en el testimonio apostólico escrito en el Nuevo Testamento. Por eso, dice, la fe evangélica es apostólica porque se funda en la Biblia y porque es misionera (apóstol significa enviado). Justino Mártir llamaba a los evangelios las memorias de los apóstoles, y hoy, con la Biblia impresa, obedecer el tened memoria de Judas es más fácil que nunca.", "fuentes": ["deirosjd_03_a#11", "deirosjd_03_a#14"]},
-    {"titulo": "Kerygma: el anuncio del Rey", "texto": "Deiros resume la misión apostólica en dos palabras: euangélion, la buena noticia que los heraldos anunciaban al coronarse un nuevo rey, y kḗrygma, la proclamación que precedía la visita del rey. Su contenido: se cumplieron las profecías en la vida, muerte, resurrección y venida de Cristo, que llaman al arrepentimiento y la fe, con la promesa del Espíritu.", "fuentes": ["deirosjd_03_a#13"]},
-    {"titulo": "La casa de tres pisos de McGee", "texto": "McGee entiende al ser humano como cuerpo, alma y espíritu (1Ts 5:23) y lo ilustra con una casa de tres pisos: la cocina (lo físico), la biblioteca y la sala de música (lo psicológico) y el lugar de adoración (lo espiritual). Para él, con la caída la casa quedó dada vuelta. El sensual del v. 19 vive en los dos primeros pisos. Agrega que el creyente conserva la vieja naturaleza junto a la nueva, y que la prueba es el fruto (Gá 5:17-23). Es su manera de explicar el término; los demás autores del día no la desarrollan.", "fuentes": ["mcgjd_03#1", "mcgjd_03#4"]},
-    {"titulo": "Seis razones de la falta de discernimiento", "texto": "MacArthur enumera seis causas por las que hoy falta discernimiento en la iglesia: minimizar la doctrina, el relativismo moral, abandonar el poder de la Biblia por parecerse a la cultura, la falta de estudio serio de las Escrituras, el abandono de la disciplina de la iglesia y la inmadurez espiritual (He 5:12-14). Cierra la sección resumiendo la actitud: a la defensiva recordando, proactivos con estudio, oración y obediencia, y a la ofensiva alcanzando a los engañados.", "fuentes": ["macjd_02_b#3", "macjd_02_b#4", "macjd_02_b#19"]},
-    {"titulo": "No burlarse del testimonio apostólico", "texto": "Deiros contrapone los burladores con la fe verdadera, que no se burla ni del contenido del testimonio apostólico (vida, muerte, resurrección y venida de Cristo) ni de sus advertencias sobre el futuro. Critica a Bultmann, que redujo al Cristo del Nuevo Testamento a categorías existencialistas, y prefiere a Donald Baillie: el Jesús de la historia es fundamento indispensable de la fe en Cristo. Recuerda también que la demora de la venida provocó burlas (2P 3:4), pero la fe verdadera sigue esperando.", "fuentes": ["deirosjd_03_a#15", "deirosjd_03_a#16"]},
-    {"titulo": "Todo lo de Dios es santo", "texto": "Rose (Beacon) nota que en Judas todo lo que viene de Dios se llama santo: el Espíritu Santo (v. 20), los santos ángeles (v. 14), la fe santísima (vv. 3, 20) y los creyentes, que son santos (v. 3).", "fuentes": ["beajd_01_b#14"]}
+    {
+      "titulo": "¿Qué es una iglesia apostólica?",
+      "texto": "Deiros explica que la apostolicidad es una nota tradicional de la iglesia, pero no se entiende igual en todas partes: para la Iglesia Católica Romana, la Ortodoxa y en parte la Anglicana es continuidad histórica por la sucesión de obispos; para los protestantes, continuidad en el mensaje, preservado en el testimonio apostólico escrito en el Nuevo Testamento. Por eso, dice, la fe evangélica es apostólica porque se funda en la Biblia y porque es misionera (apóstol significa enviado). Justino Mártir llamaba a los evangelios las memorias de los apóstoles, y hoy, con la Biblia impresa, obedecer el tened memoria de Judas es más fácil que nunca.",
+      "fuentes": [
+        "deirosjd_03_a#11",
+        "deirosjd_03_a#14"
+      ]
+    },
+    {
+      "titulo": "Kerygma: el anuncio del Rey",
+      "texto": "Deiros resume la misión apostólica en dos palabras: euangélion, la buena noticia que los heraldos anunciaban al coronarse un nuevo rey, y kḗrygma, la proclamación que precedía la visita del rey. Su contenido: se cumplieron las profecías en la vida, muerte, resurrección y venida de Cristo, que llaman al arrepentimiento y la fe, con la promesa del Espíritu.",
+      "fuentes": [
+        "deirosjd_03_a#13"
+      ]
+    },
+    {
+      "titulo": "La casa de tres pisos de McGee",
+      "texto": "McGee entiende al ser humano como cuerpo, alma y espíritu (1Ts 5:23) y lo ilustra con una casa de tres pisos: la cocina (lo físico), la biblioteca y la sala de música (lo psicológico) y el lugar de adoración (lo espiritual). Para él, con la caída la casa quedó dada vuelta. El sensual del v. 19 vive en los dos primeros pisos. Agrega que el creyente conserva la vieja naturaleza junto a la nueva, y que la prueba es el fruto (Gá 5:17-23). Es su manera de explicar el término; los demás autores del día no la desarrollan.",
+      "fuentes": [
+        "mcgjd_03#1",
+        "mcgjd_03#4"
+      ]
+    },
+    {
+      "titulo": "Seis razones de la falta de discernimiento",
+      "texto": "MacArthur enumera seis causas por las que hoy falta discernimiento en la iglesia: minimizar la doctrina, el relativismo moral, abandonar el poder de la Biblia por parecerse a la cultura, la falta de estudio serio de las Escrituras, el abandono de la disciplina de la iglesia y la inmadurez espiritual (He 5:12-14). Cierra la sección resumiendo la actitud: a la defensiva recordando, proactivos con estudio, oración y obediencia, y a la ofensiva alcanzando a los engañados.",
+      "fuentes": [
+        "macjd_02_b#3",
+        "macjd_02_b#4",
+        "macjd_02_b#19"
+      ]
+    },
+    {
+      "titulo": "No burlarse del testimonio apostólico",
+      "texto": "Deiros contrapone los burladores con la fe verdadera, que no se burla ni del contenido del testimonio apostólico (vida, muerte, resurrección y venida de Cristo) ni de sus advertencias sobre el futuro. Critica a Bultmann, que redujo al Cristo del Nuevo Testamento a categorías existencialistas, y prefiere a Donald Baillie: el Jesús de la historia es fundamento indispensable de la fe en Cristo. Recuerda también que la demora de la venida provocó burlas (2P 3:4), pero la fe verdadera sigue esperando.",
+      "fuentes": [
+        "deirosjd_03_a#15",
+        "deirosjd_03_a#16"
+      ]
+    },
+    {
+      "titulo": "Todo lo de Dios es santo",
+      "texto": "Rose (Beacon) nota que en Judas todo lo que viene de Dios se llama santo: el Espíritu Santo (v. 20), los santos ángeles (v. 14), la fe santísima (vv. 3, 20) y los creyentes, que son santos (v. 3).",
+      "fuentes": [
+        "beajd_01_b#14"
+      ]
+    },
+    {
+      "titulo": "Separarse de Cristo y separarse de una rama de la iglesia",
+      "texto": "Matthew Henry distingue: separarse de Cristo para entregarse a la carne y al mundo es infinitamente peor que separarse de una rama de la iglesia visible por diferencias de opinión sobre el gobierno o la forma de culto.",
+      "fuentes": [
+        "mhenry_02#24"
+      ]
+    },
+    {
+      "titulo": "El incienso y la oración",
+      "texto": "Wiersbe ve en el incienso del altar de oro (Éx 30) un cuadro de la oración, y en el fuego que lo enciende un recuerdo del Espíritu, sin cuya ayuda no se ora de verdad (Ro 8:26-27; Jd 20).",
+      "fuentes": [
+        "r1_005#5"
+      ]
+    }
   ]
 }

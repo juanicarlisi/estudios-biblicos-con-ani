@@ -4,143 +4,593 @@
   "desde": "Jd 21",
   "hasta": "Jd 23",
   "titulo": "Guardarse en el amor de Dios y rescatar a los que vacilan",
-  "minutos": {"lectura": 2, "estudio": 25},
+  "minutos": {
+    "lectura": 2,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "En Jd 17-20 Judas volvió a llamar «amados» a los creyentes verdaderos, en contraste con los apóstatas que causan divisiones, y empezó una exhortación de cuatro partes: edificarse sobre la santísima fe y orar en el Espíritu Santo. Ahora llegan las otras dos (conservarse en el amor de Dios y esperar la misericordia de Cristo) y, de golpe, la mirada se da vuelta hacia afuera.",
-    "ahora": "El v. 21 completa lo que el creyente hace consigo mismo en medio de la apostasía; los vv. 22-23 piden hacer algo por los demás: por los que dudan, por los que ya están cerca del fuego y aun por los más contaminados. Varios autores cuentan en los vv. 20-23 siete cosas que el creyente puede hacer en días de apostasía.",
-    "despues": "En Jd 24-25 la carta termina con una doxología: el mismo verbo «guardar» que aquí se manda al creyente aparece en boca de Dios, que es poderoso para guardarlos sin caída.",
-    "fuentes": ["deirosjd_03_b#5", "kisjd_02_b#17", "mcgjd_03#5", "nunez2p_03_b#27", "deirosjd_03_b#7", "beajd_01_b#15"]
+    "antes": "En Jd 17-20 Judas volvió a llamar amados a los creyentes verdaderos, en contraste con los apóstatas que causan divisiones, y empezó una exhortación de cuatro partes: edificarse sobre la santísima fe y orar en el Espíritu Santo. Ahora llegan las otras dos (conservarse en el amor de Dios y esperar la misericordia de Cristo) y, de golpe, la mirada se da vuelta hacia afuera.",
+    "ahora": "El v. 21 completa lo que el creyente hace consigo mismo; los vv. 22-23 piden hacer algo por los demás: por los que dudan, por los que están cerca del fuego y aun por los más contaminados. Varios autores cuentan en los vv. 20-23 siete tareas para días de apostasía.",
+    "despues": "En Jd 24-25 la carta termina con una doxología: el mismo verbo guardar que aquí se manda al creyente aparece en boca de Dios, que es poderoso para guardarlos sin caída.",
+    "fuentes": [
+      "deirosjd_03_b#5",
+      "kisjd_02_b#17",
+      "mcgjd_03#5",
+      "nunez2p_03_b#27",
+      "deirosjd_03_b#7",
+      "beajd_01_b#15"
+    ]
   },
   "versiculo_clave": {
     "ref": "Jd 21",
-    "porque": "Reúne en una frase lo que Judas pide al creyente frente a la apostasía: quedarse dentro del amor de Dios mientras espera, no un premio ganado, sino la misericordia de Cristo que termina en vida eterna. Es la otra cara de la doxología del v. 24."
+    "porque": "Resume lo que Judas pide frente a la apostasía: quedarse en el amor de Dios mientras se espera, no un premio ganado, sino la misericordia de Cristo."
   },
   "panorama": {
-    "texto": "Judas cierra su carta con dos movimientos. Primero, hacia adentro: «conservaos en el amor de Dios», un imperativo urgente, sostenido por la espera de la misericordia de Cristo. Los autores ven ahí lo divino y lo humano juntos: Dios guarda (vv. 1, 24) y el creyente se guarda (v. 21), sin que eso sea mérito, porque al final lo que se espera es misericordia. Segundo, hacia afuera: la ortodoxia no es quedarse quieto cuidando la propia vida espiritual. Hay personas que el error está arrastrando, y Judas pide tratarlas según su situación: paciencia y misericordia con los que dudan, rescate urgente para los que ya están cerca del fuego, y misericordia con temor para los más contaminados, aborreciendo el pecado sin despreciar a la persona. El texto griego de los vv. 22-23 es de los más difíciles del Nuevo Testamento (ver Interpretaciones), pero el sentido general es claro para todos: la misericordia que esperamos recibir es la que tenemos que dar.",
-    "fuentes": ["beajd_01_b#10", "beajd_01_b#13", "ncbjd_01#29", "deirosjd_03_b#14", "kisjd_02_b#22", "deirosjd_03_b#15", "moodynt_03_b#24"]
+    "texto": "Judas cierra su carta con dos movimientos. Hacia adentro: «conservaos en el amor de Dios», un imperativo urgente sostenido por la espera de la misericordia de Cristo; Dios guarda (vv. 1, 24) y el creyente se guarda (v. 21), sin mérito, porque lo que se espera es misericordia. Hacia afuera: la ortodoxia no es quedarse quieto. Hay personas que el error arrastra, y Judas pide tratarlas según su situación: paciencia con los que dudan, rescate urgente para los que están cerca del fuego, misericordia con temor para los más contaminados. El texto de los vv. 22-23 es difícil (ver Interpretaciones), pero el sentido es claro: la misericordia que esperamos recibir es la que tenemos que dar.",
+    "fuentes": [
+      "beajd_01_b#10",
+      "beajd_01_b#13",
+      "ncbjd_01#29",
+      "deirosjd_03_b#14",
+      "kisjd_02_b#22",
+      "deirosjd_03_b#15",
+      "moodynt_03_b#24"
+    ]
   },
   "secciones": [
     {
       "rango": "Jd 21",
       "titulo": "Conservarse en el amor de Dios",
       "notas": [
-        {"texto": "Es la tercera de las cuatro exhortaciones (edificarse, orar, conservarse, esperar), que muchos leen como la tríada fe, esperanza y amor más la oración, con una alusión a la Trinidad: el Espíritu Santo (v. 20), el amor de Dios y la misericordia de nuestro Señor Jesucristo (v. 21).", "fuentes": ["deirosjd_03_b#5", "kisjd_02_b#17"], "tipo": "estructura"},
-        {"texto": "Gramaticalmente, el verbo principal de los vv. 20-21 es este: «conservaos». Edificarse, orar y esperar son participios que describen cómo se hace. Rose (Beacon) señala que es un imperativo aoristo que subraya la urgencia: ángeles y hombres ya apostataron (vv. 5-19). Núñez agrega que no es opcional: exige responsabilidad nuestra, aunque Dios nos amó primero.", "fuentes": ["beajd_01_b#10", "nunez2p_03_b#21"], "tipo": "exegesis"},
-        {"texto": "¿Qué es «el amor de Dios» acá? Kistemaker reconoce que puede ser el amor de Dios por nosotros o el nuestro por Él, y prefiere el primero por el v. 1 (los llamados son amados en Dios Padre): Dios rodea a los suyos con su amor y ellos responden amando. Rose lo resume en dos tiempos: primero su amor por nosotros, después su amor a través de nosotros hacia Él y hacia otros.", "fuentes": ["kisjd_02_b#20", "beajd_01_b#10"], "tipo": "exegesis"},
-        {"texto": "Conservarse en ese amor es permanecer en la esfera donde Dios bendice y protege. MacArthur y Núñez lo conectan con Jn 15:9-10: se permanece en su amor obedeciendo sus mandamientos. McGee usa una imagen casera: no podemos impedir que Dios ame, como no podemos apagar el sol, pero sí podemos ponernos un techo (el pecado, la indiferencia, alejarnos de su voluntad) que nos impida sentir su calor.", "fuentes": ["macjd_02_b#11", "nunez2p_03_b#21", "mcgjd_03#8"], "tipo": "aplicacion"},
-        {"texto": "Judas pone juntos el lado de Dios (guardados en Jesucristo, v. 1; Dios poderoso para guardarlos, v. 24) y el lado humano (guárdense, v. 21), como Pablo en Fil 2:12-13. Rose lo ilustra con Spurgeon (ver Biblioteca). Si este equilibrio significa que un creyente puede salir de ese amor es un punto discutido (ver Interpretaciones).", "fuentes": ["beajd_01_b#10", "deirosjd_03_b#7"], "tipo": "doctrina"}
+        {
+          "texto": "Es la tercera de las cuatro exhortaciones (edificarse, orar, conservarse, esperar), que muchos leen como la tríada fe, esperanza y amor más la oración, con una alusión a la Trinidad: el Espíritu Santo (v. 20), el amor de Dios y la misericordia de nuestro Señor Jesucristo (v. 21).",
+          "fuentes": [
+            "deirosjd_03_b#5",
+            "kisjd_02_b#17"
+          ],
+          "tipo": "estructura"
+        },
+        {
+          "texto": "El verbo principal de los vv. 20-21 es «conservaos»; edificarse, orar y esperar describen cómo se hace. Rose (Beacon) señala que es un imperativo aoristo que subraya la urgencia, porque ángeles y hombres ya apostataron (vv. 5-19). Núñez agrega que no es opcional, aunque Dios nos amó primero.",
+          "fuentes": [
+            "beajd_01_b#10",
+            "nunez2p_03_b#21"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "¿Qué es «el amor de Dios» acá? Kistemaker reconoce que puede ser el amor de Dios por nosotros o el nuestro por Él, y prefiere el primero por el v. 1 (los llamados son amados en Dios Padre): Dios rodea a los suyos con su amor y ellos responden amando. Rose lo resume en dos tiempos: primero su amor por nosotros, después su amor a través de nosotros hacia Él y hacia otros.",
+          "fuentes": [
+            "kisjd_02_b#20",
+            "beajd_01_b#10"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Conservarse en ese amor es permanecer donde Dios bendice y protege. MacArthur y Núñez lo conectan con Jn 15:9-10: se permanece en su amor obedeciendo. McGee: no podemos impedir que Dios ame, como no podemos apagar el sol, pero sí ponernos un techo (pecado, indiferencia) que nos impida sentir su calor.",
+          "fuentes": [
+            "macjd_02_b#11",
+            "nunez2p_03_b#21",
+            "mcgjd_03#8"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "Judas pone juntos el lado de Dios (vv. 1, 24) y el humano (v. 21), como Pablo en Fil 2:12-13. Si esto significa que un creyente puede salir de ese amor es un punto discutido (ver Interpretaciones).",
+          "fuentes": [
+            "beajd_01_b#10",
+            "deirosjd_03_b#7"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "Jd 21",
       "titulo": "Esperando la misericordia de Cristo",
       "notas": [
-        {"texto": "La palabra esperanza no aparece, pero el participio la expresa: esperar con anticipación, como se espera la resurrección (Hch 24:15), la manifestación gloriosa (Tit 2:13) o como los siervos esperan a su señor (Lc 12:36). MacArthur subraya el anhelo: vivir con la eternidad en mente.", "fuentes": ["kisjd_02_b#21", "macjd_02_b#12"], "tipo": "exegesis"},
-        {"texto": "Lo que se espera es la misericordia de Cristo en su venida. Deiros relaciona el v. 21 con el saludo (misericordia, v. 2) y con la cita de Enoc (vv. 14-15): cuando Cristo venga dará misericordia a unos y dejará convictos a otros. Rose lo dice con los contrastes de la carta: para los que esperan, misericordia y no condenación (v. 4), vida eterna y no fuego eterno (v. 7).", "fuentes": ["deirosjd_03_b#8", "beajd_01_b#13"], "tipo": "doctrina"},
-        {"texto": "Que al final se espere misericordia es clave: todo lo anterior (edificarse, orar, guardarse) no compra el cielo. Rose lo toma de Adam Clarke: después de toda diligencia y obediencia, igual hay que esperar la misericordia del Señor. Deiros lo baja a lo cotidiano: nadie puede ofrecerle a Dios un día entero de bondad perfecta; la oración del publicano (Lc 18:13) es la de cada santo hasta el gran día.", "fuentes": ["beajd_01_b#13", "deirosjd_03_b#13"], "tipo": "doctrina"},
-        {"texto": "La meta es «vida eterna»: para Kistemaker, la frase resume la obra de la Trinidad y el fruto de las cuatro virtudes, la comunión plena con Dios en su presencia. MacArthur incluye la resurrección y glorificación del cuerpo. Matthew Henry agrega un efecto práctico: la fe viva en esa esperanza arma contra las trampas del pecado.", "fuentes": ["kisjd_02_b#21", "macjd_02_b#12", "mhenry_02#26"], "tipo": "aplicacion"}
+        {
+          "texto": "La palabra esperanza no aparece, pero el participio la expresa: esperar con anhelo, como se espera la resurrección (Hch 24:15) o como los siervos esperan a su señor (Lc 12:36).",
+          "fuentes": [
+            "kisjd_02_b#21",
+            "macjd_02_b#12"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Lo que se espera es la misericordia de Cristo en su venida. Deiros relaciona el v. 21 con el saludo (misericordia, v. 2) y con la cita de Enoc (vv. 14-15): cuando Cristo venga dará misericordia a unos y dejará convictos a otros. Rose lo dice con los contrastes de la carta: para los que esperan, misericordia y no condenación (v. 4), vida eterna y no fuego eterno (v. 7).",
+          "fuentes": [
+            "deirosjd_03_b#8",
+            "beajd_01_b#13"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Que al final se espere misericordia es clave: todo lo anterior (edificarse, orar, guardarse) no compra el cielo. Rose lo toma de Adam Clarke: después de toda diligencia y obediencia, igual hay que esperar la misericordia del Señor. Deiros lo baja a lo cotidiano: nadie puede ofrecerle a Dios un día entero de bondad perfecta; la oración del publicano (Lc 18:13) es la de cada santo hasta el gran día.",
+          "fuentes": [
+            "beajd_01_b#13",
+            "deirosjd_03_b#13"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La meta es «vida eterna»: para Kistemaker, la comunión plena con Dios en su presencia, fruto de las cuatro virtudes; MacArthur incluye la resurrección del cuerpo. Matthew Henry agrega que la fe viva en esa esperanza arma contra las trampas del pecado.",
+          "fuentes": [
+            "kisjd_02_b#21",
+            "macjd_02_b#12",
+            "mhenry_02#26"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "Jd 22",
       "titulo": "Los que dudan: paciencia y misericordia",
       "notas": [
-        {"texto": "Acá Judas da vuelta la mirada. El Nuevo Comentario Bíblico lo dice así: para que nadie crea que la ortodoxia es quietismo que solo alimenta la propia vida espiritual, Judas marca la responsabilidad hacia los demás. MacArthur va más lejos: los que más amenazan a la iglesia también son parte de su campo misionero.", "fuentes": ["ncbjd_01#29", "macjd_02_b#13"], "tipo": "estructura"},
-        {"texto": "El primer grupo son los que dudan: creyentes a quienes el discurso engañoso y la vida licenciosa de los falsos maestros sembraron incertidumbre, que vacilan sin saber a quién creer. Hinn describe al que está parado sobre la línea, con un pie de cada lado. Son blanco fácil de los lobos.", "fuentes": ["deirosjd_03_b#15", "macjd_02_b#14", "r1_003#15", "kisjd_02_b#23"], "tipo": "exegesis"},
-        {"texto": "La RVR1960 dice «convencedlos»; muchos manuscritos y versiones leen «tened misericordia» (ver Interpretaciones). Las dos lecturas no se pelean en la práctica: MacArthur aclara que tener misericordia no es ignorar el error ni elogiar la duda, sino exhortar con la verdad, con mansedumbre y paciencia. Kistemaker pide afirmarlos con ayuda y comprensión, sin críticas; el Comentario Moody, buscar su regreso a la comunión, no su expulsión.", "fuentes": ["deirosjd_03_b#15", "moodynt_03_b#23", "macjd_02_b#14", "kisjd_02_b#23"], "tipo": "exegesis"},
-        {"texto": "Deiros distingue la duda honesta (Cristo trató con amor a Tomás, Jn 20:24-29) de la que termina en incredulidad; la duda no es pecado en sí, pero puede llevar a él, y no se cura con más dudas sino desde convicciones firmes. Lo que salva es la fe, no la duda, por honesta que sea.", "fuentes": ["deirosjd_03_b#19", "deirosjd_03_b#20"], "tipo": "aplicacion"}
+        {
+          "texto": "Acá Judas da vuelta la mirada. El Nuevo Comentario Bíblico lo dice así: para que nadie crea que la ortodoxia es quietismo que solo alimenta la propia vida espiritual, Judas marca la responsabilidad hacia los demás. MacArthur va más lejos: los que más amenazan a la iglesia también son parte de su campo misionero.",
+          "fuentes": [
+            "ncbjd_01#29",
+            "macjd_02_b#13"
+          ],
+          "tipo": "estructura"
+        },
+        {
+          "texto": "El primer grupo son los que dudan: creyentes a quienes el discurso engañoso y la vida licenciosa de los falsos maestros sembraron incertidumbre, que vacilan sin saber a quién creer. Hinn describe al que está parado sobre la línea, con un pie de cada lado. Son blanco fácil de los lobos.",
+          "fuentes": [
+            "deirosjd_03_b#15",
+            "macjd_02_b#14",
+            "r1_003#15",
+            "kisjd_02_b#23"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La RVR1960 dice «convencedlos»; muchos manuscritos leen «tened misericordia» (ver Interpretaciones). En la práctica no se pelean: MacArthur aclara que la misericordia no ignora el error, sino que exhorta con la verdad, con mansedumbre y paciencia. El Comentario Moody: se busca su regreso a la comunión, no su expulsión.",
+          "fuentes": [
+            "deirosjd_03_b#15",
+            "moodynt_03_b#23",
+            "macjd_02_b#14"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Deiros distingue la duda honesta (Cristo trató con amor a Tomás, Jn 20:24-29) de la que termina en incredulidad: la duda no salva, y no se cura con más dudas sino desde convicciones firmes (ver Profundizar).",
+          "fuentes": [
+            "deirosjd_03_b#19",
+            "deirosjd_03_b#20"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "Jd 23",
       "titulo": "Arrebatarlos del fuego",
       "notas": [
-        {"texto": "El segundo grupo está más comprometido: ya cayó presa de los falsos maestros, tal vez ya se está alejando de la comunidad. Con ellos no alcanza la paciencia: hay que salir a buscarlos con todo, como Pablo, que amonestó tres años con lágrimas a los de Éfeso (Hch 20:31).", "fuentes": ["nunez2p_03_b#24", "macjd_02_b#15", "deirosjd_03_b#16"], "tipo": "exegesis"},
-        {"texto": "La imagen viene de los profetas: el tizón arrebatado del incendio (Am 4:11; Zac 3:2). Para la mayoría de los autores el fuego es el del juicio eterno (cf. v. 7), y eso le da urgencia: hay poco tiempo. Deiros lo compara con el trabajo de los bomberos; Hinn, con un helicóptero de rescate que vuela hacia la tormenta.", "fuentes": ["kisjd_02_b#24", "deirosjd_03_b#16", "nunez2p_03_b#24", "r1_003#16"], "tipo": "exegesis"},
-        {"texto": "«Salvad» no convierte al creyente en salvador. Kistemaker cita a Calvino: cuando la palabra salvar se aplica a hombres, son ministros de la salvación, no autores. MacArthur lo dice igual: Dios es la fuente; nosotros, los medios que Él usa. Hinn agrega que Dios salva sobre todo por el testimonio fiel de su pueblo (Hch 1:8; Ro 10:17), y que nadie queda eximido de esta tarea por la doctrina de la elección.", "fuentes": ["kisjd_02_b#24", "macjd_02_b#15", "r1_003#16"], "tipo": "doctrina"}
+        {
+          "texto": "El segundo grupo está más comprometido: ya cayó presa de los falsos maestros, tal vez ya se está alejando de la comunidad. Con ellos no alcanza la paciencia: hay que salir a buscarlos con todo, como Pablo, que amonestó tres años con lágrimas a los de Éfeso (Hch 20:31).",
+          "fuentes": [
+            "nunez2p_03_b#24",
+            "macjd_02_b#15",
+            "deirosjd_03_b#16"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La imagen viene de los profetas: el tizón arrebatado del incendio (Am 4:11; Zac 3:2). Para la mayoría de los autores el fuego es el del juicio eterno (cf. v. 7), y eso da urgencia: hay poco tiempo. Deiros piensa en el trabajo de los bomberos.",
+          "fuentes": [
+            "kisjd_02_b#24",
+            "deirosjd_03_b#16",
+            "nunez2p_03_b#24",
+            "r1_003#16"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Salvad» no convierte al creyente en salvador. Kistemaker cita a Calvino: cuando se dice que los hombres salvan, son ministros de la salvación, no autores. Hinn agrega que Dios salva sobre todo por el testimonio fiel de su pueblo (Hch 1:8; Ro 10:17), y que la doctrina de la elección no exime a nadie de esta tarea.",
+          "fuentes": [
+            "kisjd_02_b#24",
+            "macjd_02_b#15",
+            "r1_003#16"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "Jd 23",
       "titulo": "Misericordia con temor y la ropa contaminada",
       "notas": [
-        {"texto": "El tercer grupo es el más difícil: los que persisten en el pecado o abrazan el error con orgullo. Igual hay que tenerles misericordia (el creyente no es juez, como Miguel en el v. 9), pero «con temor»: el temor de contagiarse mientras se intenta el rescate. Contrasta con el v. 12, donde los apóstatas comparten las comidas sin temor.", "fuentes": ["deirosjd_03_b#17", "kisjd_02_b#25", "cbmhjd_01_b#19"], "tipo": "exegesis"},
-        {"texto": "La «ropa» es el chitón, la prenda interior pegada a la piel, y la imagen es deliberadamente cruda: ropa interior manchada por el cuerpo. Kistemaker y MacArthur explican que Judas quiere producir repugnancia: nadie toca con gusto la ropa interior sucia de otro; así hay que acercarse a la corrupción espiritual, con cuidado extremo.", "fuentes": ["kisjd_02_b#28", "macjd_02_b#17", "kisjd_02_b#26", "deirosjd_03_b#17"], "tipo": "cultura"},
-        {"texto": "Todos coinciden en el equilibrio: misericordia hacia el pecador y aborrecimiento del pecado. Hinn lo pone así: ser misericordioso no es mirar para otro lado ni compartir las creencias peligrosas, sino orar por su salvación, creer que cualquiera puede cambiar y llamarlos al arrepentimiento desde una distancia segura. Matthew Henry pide distinguir entre el débil y el soberbio, y mantenerse lejos de lo que es malo o lo parece.", "fuentes": ["moodynt_03_b#24", "beajd_01_b#16", "cbmhjd_01_b#20", "r1_003#17", "mhenry_02#27"], "tipo": "aplicacion"},
-        {"texto": "MacArthur muestra el costo de no cuidarse: Sardis tenía nombre de que vivía y estaba muerta, y solo unos pocos no habían manchado sus vestiduras (Ap 3:1, 4).", "fuentes": ["macjd_02_b#18"], "tipo": "aplicacion"}
+        {
+          "texto": "El tercer grupo es el más difícil: los que persisten en el pecado o abrazan el error con orgullo. Igual hay que tenerles misericordia (el creyente no es juez, como Miguel en el v. 9), pero «con temor»: el temor de contagiarse mientras se intenta el rescate. Contrasta con el v. 12, donde los apóstatas comparten las comidas sin temor.",
+          "fuentes": [
+            "deirosjd_03_b#17",
+            "kisjd_02_b#25",
+            "cbmhjd_01_b#19"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La «ropa» es el chitón, la prenda interior pegada a la piel, y la imagen es deliberadamente cruda: ropa interior manchada por el cuerpo. Kistemaker y MacArthur explican que Judas busca producir repugnancia: así hay que acercarse a la corrupción espiritual, con cuidado extremo.",
+          "fuentes": [
+            "kisjd_02_b#28",
+            "macjd_02_b#17",
+            "kisjd_02_b#26",
+            "deirosjd_03_b#17"
+          ],
+          "tipo": "cultura"
+        },
+        {
+          "texto": "Todos coinciden en el equilibrio: misericordia hacia el pecador, aborrecimiento del pecado. Hinn: ser misericordioso no es mirar para otro lado, sino orar por su salvación y llamarlos al arrepentimiento desde una distancia segura. Matthew Henry pide distinguir entre el débil y el soberbio.",
+          "fuentes": [
+            "moodynt_03_b#24",
+            "beajd_01_b#16",
+            "cbmhjd_01_b#20",
+            "r1_003#17",
+            "mhenry_02#27"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "MacArthur muestra el costo de no cuidarse: Sardis tenía nombre de que vivía y estaba muerta, y solo unos pocos no habían manchado sus vestiduras (Ap 3:1, 4).",
+          "fuentes": [
+            "macjd_02_b#18"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "Jd 21", "griego": "τηρήσατε", "translit": "tērḗsate", "significado": "«Conservaos, guárdense». Imperativo aoristo que marca urgencia. El verbo tēréō aparece cinco veces en Judas: los creyentes guardados en Jesucristo (v. 1), los ángeles que no guardaron su dignidad y son guardados en oscuridad (v. 6, cf. v. 13), el creyente que se guarda (v. 21) y Dios que guarda (v. 24). Es el cuidado vigilante de algo que ya se posee.", "fuentes": ["beajd_01_b#10", "deirosjd_03_b#7"]},
-    {"ref": "Jd 21", "griego": "προσδεχόμενοι", "translit": "prosdechómenoi", "significado": "«Esperando»: aguardar con anhelo, acoger con expectativa; la misma idea de la espera de la resurrección y del regreso del señor de la casa.", "fuentes": ["macjd_02_b#12", "kisjd_02_b#21"]},
-    {"ref": "Jd 22", "griego": "διακρινομένους", "translit": "diakrinoménous", "significado": "«Los que dudan»: vacilar entre dos lados (cf. Stg 1:6). Es el mismo verbo que en el v. 9 se traduce disputar, pero aquí el sentido es dudar.", "fuentes": ["deirosjd_03_b#15", "r1_003#15"]},
-    {"ref": "Jd 22", "griego": "ἐλεᾶτε", "translit": "eleâte", "significado": "«Tened misericordia» (de eleéō, socorrer, mostrar compasión). Es la lectura de muchos manuscritos en el v. 22; otros leen «convencedlos», como la RVR1960.", "fuentes": ["moodynt_03_b#23", "deirosjd_03_b#15"]},
-    {"ref": "Jd 23", "griego": "ἁρπάζοντες", "translit": "harpázontes", "significado": "«Arrebatándolos»: tomar por la fuerza, sacar de un tirón. Es el verbo del lobo que arrebata las ovejas (Jn 10:12) y de la promesa de que nadie las arrebatará de la mano de Jesús (Jn 10:28).", "fuentes": ["macjd_02_b#15", "deirosjd_03_b#16", "r1_003#16"]},
-    {"ref": "Jd 23", "griego": "φόβῳ", "translit": "phóbō", "significado": "«Con temor»: el cuidado ante el contagio del pecado durante el rescate; contrasta con los apóstatas que comen «sin temor» (aphóbōs) en el v. 12.", "fuentes": ["deirosjd_03_b#17"]},
-    {"ref": "Jd 23", "griego": "χιτῶνα", "translit": "chitōna", "significado": "«Ropa»: el chitón, la túnica interior pegada a la piel, distinta del manto exterior (himátion).", "fuentes": ["kisjd_02_b#28", "macjd_02_b#17"]}
+    {
+      "ref": "Jd 21",
+      "griego": "τηρήσατε",
+      "translit": "tērḗsate",
+      "significado": "«Conservaos»: imperativo aoristo que marca urgencia. El verbo tēréō aparece cinco veces en Judas: los creyentes guardados en Jesucristo (v. 1), los ángeles que no guardaron su dignidad y son guardados en oscuridad (v. 6), el creyente que se guarda (v. 21) y Dios que guarda (v. 24).",
+      "fuentes": [
+        "beajd_01_b#10",
+        "deirosjd_03_b#7"
+      ]
+    },
+    {
+      "ref": "Jd 21",
+      "griego": "προσδεχόμενοι",
+      "translit": "prosdechómenoi",
+      "significado": "«Esperando»: aguardar con anhelo, acoger con expectativa; la misma idea de la espera de la resurrección y del regreso del señor de la casa.",
+      "fuentes": [
+        "macjd_02_b#12",
+        "kisjd_02_b#21"
+      ]
+    },
+    {
+      "ref": "Jd 22",
+      "griego": "διακρινομένους",
+      "translit": "diakrinoménous",
+      "significado": "«Que dudan»: vacilar entre dos lados (cf. Stg 1:6). Es el mismo verbo que en el v. 9 se traduce disputar, pero aquí el sentido es dudar.",
+      "fuentes": [
+        "deirosjd_03_b#15",
+        "r1_003#15"
+      ]
+    },
+    {
+      "ref": "Jd 22",
+      "griego": "ἐλεᾶτε",
+      "translit": "eleâte",
+      "significado": "«Tened misericordia» (de eleéō, socorrer, mostrar compasión). Es la lectura de muchos manuscritos en el v. 22; otros leen «convencedlos», como la RVR1960.",
+      "fuentes": [
+        "moodynt_03_b#23",
+        "deirosjd_03_b#15"
+      ]
+    },
+    {
+      "ref": "Jd 23",
+      "griego": "ἁρπάζοντες",
+      "translit": "harpázontes",
+      "significado": "«Arrebatándolos»: tomar por la fuerza, sacar de un tirón. Es el verbo del lobo que arrebata las ovejas (Jn 10:12) y de la promesa de que nadie las arrebatará de la mano de Jesús (Jn 10:28).",
+      "fuentes": [
+        "macjd_02_b#15",
+        "deirosjd_03_b#16",
+        "r1_003#16"
+      ]
+    },
+    {
+      "ref": "Jd 23",
+      "griego": "φόβῳ",
+      "translit": "phóbō",
+      "significado": "«Con temor»: el cuidado ante el contagio del pecado durante el rescate; contrasta con los apóstatas que comen sin temor (aphóbōs) en el v. 12.",
+      "fuentes": [
+        "deirosjd_03_b#17"
+      ]
+    },
+    {
+      "ref": "Jd 23",
+      "griego": "χιτῶνα",
+      "translit": "chitōna",
+      "significado": "«Ropa»: el chitón, la túnica interior pegada a la piel, distinta del manto exterior (himátion).",
+      "fuentes": [
+        "kisjd_02_b#28",
+        "macjd_02_b#17"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "La esperanza del creyente tiene nombre: la misericordia «de nuestro Señor Jesucristo». Kistemaker la ubica en el día del juicio, cuando la misericordia de Cristo absolverá a los suyos. McGee lo dice en su clave: los creyentes no esperan ser llevados por mérito, sino por misericordia.", "refs": ["Tit 2:13"], "fuentes": ["kisjd_02_b#21", "mcgjd_03#9"]},
-    {"texto": "Jesús es el modelo de los vv. 22-23. MacArthur señala que a los confundidos les presentó el evangelio con paciencia y bondad (la samaritana, la multitud de Jn 6), mientras que a los comprometidos con la falsa enseñanza les advirtió sin rodeos. Comió con fariseos y fue compasivo con Nicodemo. Núñez recuerda que tuvo compasión de las multitudes como ovejas sin pastor y lloró por Jerusalén.", "refs": ["Jn 4:10-26", "Jn 3:1-21", "Mr 6:34", "Lc 19:41"], "fuentes": ["macjd_02_b#16", "macjd_02_b#13", "nunez2p_03_b#25"]},
-    {"texto": "El verbo «arrebatar» tiene un eco consolador: el mismo que Judas usa para el rescate es el que Jesús usa al prometer que nadie arrebatará a sus ovejas de su mano. Los rescatadores trabajan sabiendo que el que guarda es Él.", "refs": ["Jn 10:28"], "fuentes": ["r1_003#16"]}
+    {
+      "texto": "La esperanza tiene nombre: la misericordia «de nuestro Señor Jesucristo». Kistemaker la ubica en el juicio, cuando esa misericordia absolverá a los suyos; McGee: los creyentes no esperan ser llevados por mérito, sino por misericordia.",
+      "refs": [
+        "Tit 2:13"
+      ],
+      "fuentes": [
+        "kisjd_02_b#21",
+        "mcgjd_03#9"
+      ]
+    },
+    {
+      "texto": "Jesús es el modelo de los vv. 22-23. MacArthur señala que a los confundidos les presentó el evangelio con paciencia (la samaritana, Nicodemo), y a los comprometidos con la falsa enseñanza les advirtió sin rodeos. Núñez recuerda que tuvo compasión de las multitudes y lloró por Jerusalén.",
+      "refs": [
+        "Jn 4:10-26",
+        "Jn 3:1-21",
+        "Mr 6:34",
+        "Lc 19:41"
+      ],
+      "fuentes": [
+        "macjd_02_b#16",
+        "macjd_02_b#13",
+        "nunez2p_03_b#25"
+      ]
+    },
+    {
+      "texto": "El verbo arrebatar tiene un eco consolador: el mismo que Judas usa para el rescate es el que Jesús usa al prometer que nadie arrebatará a sus ovejas de su mano. Los rescatadores trabajan sabiendo que el que guarda es Él.",
+      "refs": [
+        "Jn 10:28"
+      ],
+      "fuentes": [
+        "r1_003#16"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "El texto de los vv. 22-23: ¿dos grupos o tres? ¿«Convencedlos» o «tened misericordia»?",
       "posturas": [
-        {"postura": "Tres grupos (los que dudan, los que hay que arrebatar del fuego, los que reciben misericordia con temor). Es la lectura de la mayoría de las versiones modernas, y se apoya en el gusto de Judas por las tríadas (vv. 1, 2, 4, 8, 11).", "quien": "Kistemaker (citando a Metzger), Deiros (citando a Blum), Rose en Beacon (con la traducción de Wesley), Núñez, MacArthur", "fuentes": ["kisjd_02_b#27", "deirosjd_03_b#14", "beajd_01_b#15", "nunez2p_03_b#23", "macjd_02_b#13"]},
-        {"postura": "Dos grupos: así leen la KJV y la antigua Reina-Valera, entre otras; algunos manuscritos, como el papiro P72 (siglo III), traen un texto más breve sin el v. 22.", "quien": "Lectura que registran Kistemaker, Deiros y Rose (Beacon)", "fuentes": ["kisjd_02_b#27", "deirosjd_03_b#14", "beajd_01_b#15"]},
-        {"postura": "En el v. 22, «tened misericordia» es la lectura mejor respaldada (Metzger) y debe preferirse; «convencedlos» (RVR1960) está bien atestiguada y tiene buen sentido, pero pudo ser un cambio de un copista para no repetir «tened misericordia».", "quien": "Deiros, Comentario Moody; Kistemaker explica ambas", "fuentes": ["deirosjd_03_b#15", "moodynt_03_b#23", "kisjd_02_b#27"]}
+        {
+          "postura": "Tres grupos (los que dudan, los que hay que arrebatar del fuego, los que reciben misericordia con temor). Es la lectura de la mayoría de las versiones modernas, y se apoya en el gusto de Judas por las tríadas (vv. 1, 2, 4, 8, 11).",
+          "quien": "Kistemaker (citando a Metzger), Deiros (citando a Blum), Rose en Beacon (con la traducción de Wesley), Núñez, MacArthur",
+          "fuentes": [
+            "kisjd_02_b#27",
+            "deirosjd_03_b#14",
+            "beajd_01_b#15",
+            "nunez2p_03_b#23",
+            "macjd_02_b#13"
+          ]
+        },
+        {
+          "postura": "Dos grupos: así leen la KJV y la antigua Reina-Valera, entre otras; algunos manuscritos, como el papiro P72 (siglo III), traen un texto más breve sin el v. 22.",
+          "quien": "Lectura que registran Kistemaker, Deiros y Rose (Beacon)",
+          "fuentes": [
+            "kisjd_02_b#27",
+            "deirosjd_03_b#14",
+            "beajd_01_b#15"
+          ]
+        },
+        {
+          "postura": "En el v. 22, «tened misericordia» es la lectura mejor respaldada (Metzger); «convencedlos» (RVR1960) está bien atestiguada, pero pudo ser un cambio de copista para no repetir el verbo.",
+          "quien": "Deiros, Comentario Moody; Kistemaker explica ambas",
+          "fuentes": [
+            "deirosjd_03_b#15",
+            "moodynt_03_b#23",
+            "kisjd_02_b#27"
+          ]
+        }
       ],
       "nota": "Deiros cita a Osburn: es uno de los pasajes más corrompidos del Nuevo Testamento. Kistemaker aconseja no ser dogmáticos cuando el texto no es claro. Ninguna variante cambia la doctrina: todas piden un trato distinto según el estado de cada uno."
     },
     {
       "tema": "¿Quiénes son el tercer grupo?",
       "posturas": [
-        {"postura": "Creyentes que viven en pecado, probablemente arrastrados por los falsos maestros; al rescatarlos hay que cuidarse de no caer en lo mismo.", "quien": "Núñez", "fuentes": ["nunez2p_03_b#26"]},
-        {"postura": "Los más comprometidos con el error, incluso promotores y líderes de la falsa enseñanza: también se les tiene misericordia, con extrema prudencia.", "quien": "MacArthur; Hinn (Dios, la avaricia y el evangelio de la prosperidad)", "fuentes": ["macjd_02_b#18", "r1_003#17"]},
-        {"postura": "Los impostores más obstinados, último escalón de una «escalera» que va de los que dudan a los más duros; misericordia con cautela y, por el bien de todos, separarlos de la congregación.", "quien": "Sergio Valle Ruiz (Comentario Bíblico Mundo Hispano)", "fuentes": ["cbmhjd_01_b#19", "cbmhjd_01_b#21"]}
+        {
+          "postura": "Creyentes que viven en pecado, probablemente arrastrados por los falsos maestros; al rescatarlos hay que cuidarse de no caer en lo mismo.",
+          "quien": "Núñez",
+          "fuentes": [
+            "nunez2p_03_b#26"
+          ]
+        },
+        {
+          "postura": "Los más comprometidos con el error, incluso promotores y líderes de la falsa enseñanza: también se les tiene misericordia, con extrema prudencia.",
+          "quien": "MacArthur; Hinn (Dios, la avaricia y el evangelio de la prosperidad)",
+          "fuentes": [
+            "macjd_02_b#18",
+            "r1_003#17"
+          ]
+        },
+        {
+          "postura": "Los impostores más obstinados, último escalón de una escalera de dureza creciente; misericordia con cautela y, por el bien de todos, separarlos de la congregación.",
+          "quien": "Sergio Valle Ruiz (Comentario Bíblico Mundo Hispano)",
+          "fuentes": [
+            "cbmhjd_01_b#19",
+            "cbmhjd_01_b#21"
+          ]
+        }
       ],
       "nota": "Todos coinciden en que la severidad del caso crece de un grupo al otro y en que la misericordia nunca significa aprobar el pecado."
     },
     {
       "tema": "«Conservaos en el amor de Dios»: ¿se puede salir de ese amor?",
       "posturas": [
-        {"postura": "Plantea que es posible: quien no persevera puede volverse tan impermeable a la gracia que el amor de Dios deje de significar algo para él, como Sansón y Saúl; quienes rechazan los mandamientos de Cristo rechazan su amor (Jn 15:10). No lo da por cerrado.", "quien": "Deiros", "fuentes": ["deirosjd_03_b#12", "deirosjd_03_b#10"]},
-        {"postura": "Mantenerse en el amor de Dios es mantenerse en la obediencia, donde está prometida la bendición; el desobediente pasa de la bendición a la disciplina del Padre (He 12:3-11).", "quien": "MacArthur", "fuentes": ["macjd_02_b#11"]},
-        {"postura": "Dios no deja de amar a los suyos; el pecado funciona como un techo que impide sentir el calor de ese amor.", "quien": "McGee", "fuentes": ["mcgjd_03#8"]},
-        {"postura": "La perseverancia tiene un lado divino (vv. 1, 24) y uno humano (v. 21) que no pueden separarse: es dependencia y cooperación con Dios, no autojustificación.", "quien": "Rose (Comentario Beacon, citando a Shank)", "fuentes": ["beajd_01_b#10"]}
+        {
+          "postura": "Plantea que es posible: quien no persevera puede volverse tan impermeable a la gracia que el amor de Dios deje de significar algo para él, como Sansón y Saúl. No lo da por cerrado.",
+          "quien": "Deiros",
+          "fuentes": [
+            "deirosjd_03_b#12",
+            "deirosjd_03_b#10"
+          ]
+        },
+        {
+          "postura": "Mantenerse en el amor de Dios es mantenerse en la obediencia, donde está prometida la bendición; el desobediente pasa de la bendición a la disciplina del Padre (He 12:3-11).",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macjd_02_b#11"
+          ]
+        },
+        {
+          "postura": "Dios no deja de amar a los suyos; el pecado funciona como un techo que impide sentir el calor de ese amor.",
+          "quien": "McGee",
+          "fuentes": [
+            "mcgjd_03#8"
+          ]
+        },
+        {
+          "postura": "La perseverancia tiene un lado divino (vv. 1, 24) y uno humano (v. 21) que no pueden separarse: es dependencia y cooperación con Dios, no autojustificación.",
+          "quien": "Rose (Comentario Beacon, citando a Shank)",
+          "fuentes": [
+            "beajd_01_b#10"
+          ]
+        }
       ],
-      "nota": "El tema de la seguridad y la perseverancia se desarrolla en el anexo T3. Todos afirman que el creyente debe guardarse activamente y que Dios es poderoso para guardarlo (v. 24)."
+      "nota": "El tema de la seguridad y la perseverancia se desarrolla en el anexo T3. Todos afirman que el creyente debe guardarse y que Dios es poderoso para guardarlo (v. 24)."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Am 4:11", "nota": "Israel, salvado como un tizón arrebatado del incendio: de ahí la imagen de «arrebatándolos del fuego».", "fuentes": ["macjd_02_b#15", "kisjd_02_b#24"]},
-    {"ref": "Zac 3:2-4", "nota": "El sumo sacerdote Josué, tizón arrebatado del incendio, vestido con ropas viles que el ángel manda quitar. Varios autores creen que esta escena (cuyo «el Señor te reprenda» Judas ya usó en el v. 9) influyó en el v. 23, tanto en el fuego como en la ropa manchada que simboliza el pecado.", "fuentes": ["kisjd_02_b#24", "kisjd_02_b#26", "moodynt_03_b#24", "ncbjd_01#29"]},
-    {"ref": "Lv 13:47-52", "nota": "La ropa contaminada por la lepra, que había que examinar y, si no tenía arreglo, quemar. Para varios autores es el trasfondo de la «ropa contaminada»: el pecado contagia y exige distancia.", "fuentes": ["cbmhjd_01_b#20", "ncbjd_01#29", "deirosjd_03_b#17"]}
+    {
+      "ref": "Am 4:11",
+      "nota": "Israel, salvado como un tizón arrebatado del incendio: de ahí la imagen de «arrebatándolos del fuego».",
+      "fuentes": [
+        "macjd_02_b#15",
+        "kisjd_02_b#24"
+      ]
+    },
+    {
+      "ref": "Zac 3:2-4",
+      "nota": "El sumo sacerdote Josué, tizón arrebatado del incendio, con ropas viles que el ángel manda quitar (Judas ya usó esta escena en el v. 9). Varios autores creen que influyó en el v. 23: el fuego y la ropa manchada que simboliza el pecado.",
+      "fuentes": [
+        "kisjd_02_b#24",
+        "kisjd_02_b#26",
+        "moodynt_03_b#24",
+        "ncbjd_01#29"
+      ]
+    },
+    {
+      "ref": "Lv 13:47-52",
+      "nota": "La ropa contaminada por la lepra, que había que examinar y, si no tenía arreglo, quemar. Para varios autores es el trasfondo de la «ropa contaminada»: el pecado contagia y exige distancia.",
+      "fuentes": [
+        "cbmhjd_01_b#20",
+        "ncbjd_01#29",
+        "deirosjd_03_b#17"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Spurgeon puso sobre la puerta de su escuela de pastores un lema: sosteniendo, soy sostenido. Shank comenta que ninguna de las dos mitades se sostiene sola.", "autor": "Delbert R. Rose", "obra": "Comentario Bíblico Beacon: Judas", "pagina": "PDF 301", "tipo": "ilustracion", "fuentes": ["beajd_01_b#10"]},
-    {"texto": "Deiros: solo hay dos maneras de salvar un cuadro de un incendio, apagar las llamas o sacarlo; como nadie puede apagar el fuego del pecado, hay que arrebatar al pecador. La iglesia es el cuerpo de bomberos de Dios, movido por el amor de Cristo (2Co 5:14).", "autor": "Pablo A. Deiros", "obra": "Comentario sobre Judas", "pagina": "PDF 194", "tipo": "ilustracion", "fuentes": ["deirosjd_03_b#21"]},
-    {"texto": "Para testificar no hace falta saber mucho: Deiros usa un verso del Martín Fierro (soy como los mates, sirvo si me abren la boca) y recuerda que el mensaje más poderoso es la experiencia personal con Cristo.", "autor": "Pablo A. Deiros", "obra": "Comentario sobre Judas", "pagina": "PDF 195-196", "tipo": "aplicacion", "fuentes": ["deirosjd_03_b#22"]},
-    {"texto": "McGee cuenta que, siendo pastor, perdió la paciencia con una señora de su estudio bíblico que venía confundida por muchas sectas y preguntaba sin parar; otra hermana le pidió paciencia, él le siguió contestando con la Biblia, y a los tres meses ella recibió a Cristo.", "autor": "J. Vernon McGee", "obra": "A través de la Biblia: Judas", "pagina": "PDF 95", "tipo": "ilustracion", "fuentes": ["mcgjd_03#10"]},
-    {"texto": "Hinn propone, con los que dudan, no tirarles una Biblia de estudio y decirles que investiguen, sino regalársela y tomar café con ellos todas las veces que haga falta, recordando la misericordia que uno mismo recibió.", "autor": "Costi W. Hinn", "obra": "Dios, la avaricia y el evangelio de la prosperidad", "pagina": "PDF 125-126", "tipo": "aplicacion", "fuentes": ["r1_003#15"]},
-    {"texto": "Núñez cita al puritano George Swinnock, que decía que callar los pecados de la gente por miedo es matar sus almas, y concluye que el pastor que nunca lloró por sus ovejas tiene que pedirle a Dios un corazón como el de Cristo.", "autor": "Miguel Núñez", "obra": "2 Pedro y Judas", "pagina": "PDF 213-215", "tipo": "aplicacion", "fuentes": ["nunez2p_03_b#25"]},
-    {"texto": "Deiros advierte que el quietismo bañado de ortodoxia es tan peligroso como la herejía, y que en las iglesias se expulsa más fácil al desviado que al hipócrita religioso; cita a Elton Trueblood: la peor blasfemia no es el insulto sino la hipocresía.", "autor": "Pablo A. Deiros", "obra": "Comentario sobre Judas", "pagina": "PDF 192", "tipo": "doctrina", "fuentes": ["deirosjd_03_b#18"]}
+    {
+      "texto": "Spurgeon puso sobre la puerta de su escuela de pastores un lema: sosteniendo, soy sostenido. Shank comenta que ninguna de las dos mitades se sostiene sola.",
+      "autor": "Delbert R. Rose",
+      "obra": "Comentario Bíblico Beacon: Judas",
+      "pagina": "PDF 301",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "beajd_01_b#10"
+      ]
+    },
+    {
+      "texto": "Deiros: solo hay dos maneras de salvar un cuadro de un incendio, apagar las llamas o sacarlo; como nadie puede apagar el fuego del pecado, hay que arrebatar al pecador. La iglesia es el cuerpo de bomberos de Dios, movido por el amor de Cristo (2Co 5:14).",
+      "autor": "Pablo A. Deiros",
+      "obra": "Comentario sobre Judas",
+      "pagina": "PDF 194",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "deirosjd_03_b#21"
+      ]
+    },
+    {
+      "texto": "McGee cuenta que, siendo pastor, perdió la paciencia con una señora de su estudio bíblico que venía confundida por muchas sectas y preguntaba sin parar; otra hermana le pidió paciencia, él le siguió contestando con la Biblia, y a los tres meses ella recibió a Cristo.",
+      "autor": "J. Vernon McGee",
+      "obra": "A través de la Biblia: Judas",
+      "pagina": "PDF 95",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "mcgjd_03#10"
+      ]
+    },
+    {
+      "texto": "Núñez cita al puritano George Swinnock, que decía que callar los pecados de la gente por miedo es matar sus almas, y concluye que el pastor que nunca lloró por sus ovejas tiene que pedirle a Dios un corazón como el de Cristo.",
+      "autor": "Miguel Núñez",
+      "obra": "2 Pedro y Judas",
+      "pagina": "PDF 213-215",
+      "tipo": "aplicacion",
+      "fuentes": [
+        "nunez2p_03_b#25"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Fil 2:12-13", "nota": "Ocuparse de la propia salvación porque Dios es el que produce el querer y el hacer: el mismo equilibrio entre «guárdense» (v. 21) y «al que es poderoso para guardaros» (v. 24).", "fuentes": ["beajd_01_b#10"]},
-    {"ref": "Jn 15:9-10", "nota": "Permanecer en el amor de Cristo guardando sus mandamientos: la clave que MacArthur, Núñez y Kistemaker usan para entender el v. 21.", "fuentes": ["macjd_02_b#11", "nunez2p_03_b#21", "kisjd_02_b#20"]},
-    {"ref": "2Ti 4:8", "nota": "La corona para los que aman su venida: los que esperan la misericordia de Cristo aman su regreso.", "fuentes": ["beajd_01_b#13", "macjd_02_b#12"]},
-    {"ref": "Stg 5:19-20", "nota": "Hacer volver al que se extravió de la verdad: la misma tarea de rescate dentro de la iglesia que pide el v. 23, junto con Gá 6:1 y Mt 18:15-17.", "fuentes": ["deirosjd_03_b#16", "macjd_02_b#15"]},
-    {"ref": "Ap 3:4", "nota": "Los pocos de Sardis que no mancharon sus vestiduras: la misma imagen de la ropa limpia o manchada.", "fuentes": ["kisjd_02_b#26", "macjd_02_b#18"]}
+    {
+      "ref": "Fil 2:12-13",
+      "nota": "Ocuparse de la propia salvación porque Dios es el que produce el querer y el hacer: el mismo equilibrio entre el guárdense del v. 21 y el Dios poderoso para guardar del v. 24.",
+      "fuentes": [
+        "beajd_01_b#10"
+      ]
+    },
+    {
+      "ref": "Jn 15:9-10",
+      "nota": "Permanecer en el amor de Cristo guardando sus mandamientos: la clave que MacArthur, Núñez y Kistemaker usan para entender el v. 21.",
+      "fuentes": [
+        "macjd_02_b#11",
+        "nunez2p_03_b#21",
+        "kisjd_02_b#20"
+      ]
+    },
+    {
+      "ref": "Stg 5:19-20",
+      "nota": "Hacer volver al que se extravió de la verdad: la misma tarea de rescate dentro de la iglesia que pide el v. 23, junto con Gá 6:1 y Mt 18:15-17.",
+      "fuentes": [
+        "deirosjd_03_b#16",
+        "macjd_02_b#15"
+      ]
+    },
+    {
+      "ref": "Ap 3:4",
+      "nota": "Los pocos de Sardis que no mancharon sus vestiduras: la misma imagen de la ropa limpia o manchada.",
+      "fuentes": [
+        "kisjd_02_b#26",
+        "macjd_02_b#18"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Guardarse en el amor de Dios no es un sentimiento sino una práctica: Judas la describe con edificarse en la fe, orar en el Espíritu y esperar a Cristo, y los autores agregan obedecer. Revisen juntos qué techos (pecados tolerados, indiferencia) les están tapando el sol.", "fuentes": ["beajd_01_b#10", "macjd_02_b#11", "mcgjd_03#8"]},
-    {"texto": "Esperar misericordia libera del orgullo y de la desesperación: nadie llega por mérito, y el que cae cada día puede orar como el publicano. Esa esperanza, dice Henry, también es un arma contra la tentación.", "fuentes": ["beajd_01_b#13", "deirosjd_03_b#13", "mhenry_02#26", "mcgjd_03#9"]},
-    {"texto": "No todos necesitan lo mismo: al que duda, tiempo, paciencia y respuestas; al que se está yendo, una búsqueda decidida y con lágrimas; al que vive en el error, oración y llamado al arrepentimiento sin exponerse ni ceder. Piensen en personas concretas de cada grupo.", "fuentes": ["kisjd_02_b#22", "nunez2p_03_b#24", "r1_003#17", "mhenry_02#27"]},
-    {"texto": "La misericordia nunca le resta importancia al mal: odiar hasta la ropa manchada es tomar en serio el contagio. El que ayuda a otro a salir del pecado tiene que cuidarse a sí mismo.", "fuentes": ["r1_003#17", "nunez2p_03_b#26", "deirosjd_03_b#17"]}
+    {
+      "texto": "Guardarse en el amor de Dios es una práctica: edificarse, orar, esperar a Cristo y obedecer. Revisen juntos qué techos les están tapando el sol.",
+      "fuentes": [
+        "beajd_01_b#10",
+        "macjd_02_b#11",
+        "mcgjd_03#8"
+      ]
+    },
+    {
+      "texto": "Esperar misericordia libera del orgullo y de la desesperación: nadie llega por mérito, y el que cae cada día puede orar como el publicano. Esa esperanza, dice Henry, también es un arma contra la tentación.",
+      "fuentes": [
+        "beajd_01_b#13",
+        "deirosjd_03_b#13",
+        "mhenry_02#26",
+        "mcgjd_03#9"
+      ]
+    },
+    {
+      "texto": "No todos necesitan lo mismo: al que duda, tiempo y respuestas; al que se está yendo, una búsqueda decidida; al que vive en el error, oración y llamado al arrepentimiento sin ceder. Piensen en personas concretas.",
+      "fuentes": [
+        "kisjd_02_b#22",
+        "nunez2p_03_b#24",
+        "r1_003#17",
+        "mhenry_02#27"
+      ]
+    },
+    {
+      "texto": "La misericordia nunca le resta importancia al mal: odiar hasta la ropa manchada es tomar en serio el contagio. El que ayuda a otro a salir del pecado tiene que cuidarse a sí mismo.",
+      "fuentes": [
+        "r1_003#17",
+        "nunez2p_03_b#26",
+        "deirosjd_03_b#17"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué cosas, en esta etapa de nuestra vida, funcionan como un techo que nos impide sentir el calor del amor de Dios? ¿Qué nos ayuda a quedarnos dentro de ese amor?",
@@ -148,11 +598,48 @@
     "¿Somos más propensos a la dureza con el que duda o a la ingenuidad con el que vive en el error? ¿Cómo sería para nosotros tener misericordia «con temor»?"
   ],
   "para_orar": "Señor, guárdanos en tu amor mientras esperamos la misericordia de nuestro Señor Jesucristo; no confiamos en nuestro esfuerzo, sino en tu gracia. Danos paciencia con los que dudan, valentía para buscar a los que se alejan y un corazón compasivo que odie el pecado sin despreciar al pecador.",
-  "visuales": ["dg-estructura-jd", "dg-falsos"],
-  "anexos": ["T3", "T2", "I5"],
+  "visuales": [
+    "dg-estructura-jd",
+    "dg-falsos"
+  ],
+  "anexos": [
+    "T3",
+    "T2",
+    "I5"
+  ],
   "profundizar": [
-    {"titulo": "La duda: tipos, raíces y cómo convencer", "texto": "Deiros dedica varias páginas a la duda. Distingue a los que dudan de sí mismos y de su experiencia con el Señor, a los que dudan de Dios y de su Palabra y a los que dudan de los demás; según él, la Biblia muestra que las dudas nacen de la incredulidad o de la poca fe (Sal 77; Mt 14:31; Mr 4:40) y que no son pecado en sí, pero pueden generarlo. Defiende una sospecha inteligente dirigida no a la Palabra sino a nuestras interpretaciones de ella, recuerda la fe titubeante del padre del muchacho endemoniado (Mr 9:14-29) y a Tomás, y sostiene contra la intolerancia que al que duda solo se lo convence desde convicciones firmes, con la fe que da el Espíritu.", "fuentes": ["deirosjd_03_b#19", "deirosjd_03_b#20", "deirosjd_03_b#21"]},
-    {"titulo": "Amar a los perdidos: orar, ir, confiar, testificar", "texto": "Deiros propone cuatro pasos para que nazca el amor por los que se pierden: orar pidiendo esa carga; ir, lo que exige estar seguros de la propia salvación (la pregunta será si nos conservamos en el amor de Dios, v. 21); confiar en el Espíritu, que da poder y convence de pecado; y testificar con la propia experiencia de Cristo. Cita a Teresa de Jesús: el Señor aprecia más un alma ganada por la oración que cualquier otro servicio.", "fuentes": ["deirosjd_03_b#22"]},
-    {"titulo": "Detalles de gramática del texto griego", "texto": "Kistemaker señala que en el v. 22 Judas usa por tercera vez la fórmula μέν… δέ… δέ (unos… otros… otros) para equilibrar la frase (cf. vv. 8, 10), lo que apoya la lectura de tres grupos; que en el v. 23 la preposición ἀπό indica origen, no solo agente (la mancha viene de la carne), y que la expresión «con temor» se coloca mejor en la segunda cláusula del v. 23, introduciendo lo de la ropa contaminada.", "fuentes": ["kisjd_02_b#28", "kisjd_02_b#27"]}
+    {
+      "titulo": "La duda: tipos, raíces y cómo convencer",
+      "texto": "Deiros dedica varias páginas a la duda. Distingue a los que dudan de sí mismos y de su experiencia con el Señor, a los que dudan de Dios y de su Palabra y a los que dudan de los demás; según él, la Biblia muestra que las dudas nacen de la incredulidad o de la poca fe (Sal 77; Mt 14:31; Mr 4:40) y que no son pecado en sí, pero pueden generarlo. Defiende una sospecha inteligente dirigida no a la Palabra sino a nuestras interpretaciones de ella, recuerda la fe titubeante del padre del muchacho endemoniado (Mr 9:14-29) y a Tomás, y sostiene contra la intolerancia que al que duda solo se lo convence desde convicciones firmes, con la fe que da el Espíritu.",
+      "fuentes": [
+        "deirosjd_03_b#19",
+        "deirosjd_03_b#20",
+        "deirosjd_03_b#21"
+      ]
+    },
+    {
+      "titulo": "Amar a los perdidos: orar, ir, confiar, testificar",
+      "texto": "Deiros propone cuatro pasos para que nazca el amor por los que se pierden: orar pidiendo esa carga; ir, lo que exige estar seguros de la propia salvación (la pregunta será si nos conservamos en el amor de Dios, v. 21); confiar en el Espíritu, que da poder y convence de pecado; y testificar con la propia experiencia de Cristo. Cita a Teresa de Jesús: el Señor aprecia más un alma ganada por la oración que cualquier otro servicio.",
+      "fuentes": [
+        "deirosjd_03_b#22"
+      ]
+    },
+    {
+      "titulo": "Detalles de gramática del texto griego",
+      "texto": "Kistemaker señala que en el v. 22 Judas usa por tercera vez la fórmula μέν… δέ… δέ (unos… otros… otros) para equilibrar la frase (cf. vv. 8, 10), lo que apoya la lectura de tres grupos; que en el v. 23 la preposición ἀπό indica origen, no solo agente (la mancha viene de la carne), y que la expresión «con temor» se coloca mejor en la segunda cláusula del v. 23, introduciendo lo de la ropa contaminada.",
+      "fuentes": [
+        "kisjd_02_b#28",
+        "kisjd_02_b#27"
+      ]
+    },
+    {
+      "titulo": "Más ilustraciones de la biblioteca",
+      "texto": "Para testificar no hace falta saber mucho: Deiros usa un verso del Martín Fierro (soy como los mates, sirvo si me abren la boca) y recuerda que el mensaje más poderoso es la experiencia personal con Cristo. Hinn propone, con los que dudan, no tirarles una Biblia de estudio y decirles que investiguen, sino regalársela y tomar café con ellos todas las veces que haga falta, recordando la misericordia que uno mismo recibió. Deiros advierte que el quietismo bañado de ortodoxia es tan peligroso como la herejía, y que en las iglesias se expulsa más fácil al desviado que al hipócrita religioso; cita a Elton Trueblood: la peor blasfemia no es el insulto sino la hipocresía.",
+      "fuentes": [
+        "deirosjd_03_b#22",
+        "r1_003#15",
+        "deirosjd_03_b#18"
+      ]
+    }
   ]
 }

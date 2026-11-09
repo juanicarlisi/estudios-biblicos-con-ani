@@ -11,7 +11,7 @@
     "antes": "Ayer Juan recibió el librito de mano del ángel fuerte, y seguimos en el paréntesis entre la sexta y la séptima trompeta (Pentecost). El capítulo 11 empieza con una «y» que lo ata al anterior, y quien le da la caña a Juan es probablemente ese mismo ángel (Carballosa, MacArthur, Larkin).",
     "ahora": "Juan deja de mirar y pasa a actuar: mide el santuario, el altar y a los que adoran, y deja sin medir el patio de afuera. El Comentario Mundo Hispano recuerda que la mayoría considera difícil este pasaje: hay que decidir si es literal o simbólico.",
     "donde": "Juan mide en visión (Benware). Qué templo y qué ciudad son depende de la lectura: para unos, Jerusalén y un templo literal; para otros, la iglesia y el mundo que la rodea (ver Interpretaciones).",
-    "cuando": "Depende de la lectura: para algunos preteristas, la guerra judía hasta el año 70; para MacArthur, Carballosa, McGee y Larkin, la segunda mitad de una tribulación futura; para Buswell, la primera; para Ladd y Mundo Hispano, el tiempo limitado en que el mal oprime al pueblo de Dios (ver Interpretaciones).",
+    "cuando": "Depende de la lectura: el año 70, la primera o la segunda mitad de una tribulación futura, o el tiempo limitado en que el mal oprime al pueblo de Dios (ver Interpretaciones).",
     "despues": "Mañana (11:3-7) aparecen los dos testigos, que profetizan mil doscientos sesenta días: la misma medida de tiempo con otro nombre (Ryrie, Ladd, Lennox).",
     "fuentes": [
       "r1_016#21",
@@ -23,9 +23,6 @@
       "beacon_03_c#20",
       "macarthur_09#25",
       "carballosa_08#16",
-      "mcgee_07_a#9",
-      "larkin_03_a#22",
-      "r2_004_a#18",
       "ladd_04_b#5",
       "r1_032#17",
       "r2_001_a#26"
@@ -87,14 +84,15 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Acá casi todos leen el segundo sentido, porque lo que no se mide es justamente lo que queda expuesto. Ladd y Beasley-Murray hablan de protección en un tiempo de prueba; Swete, citado por Earle, compara la medición con el sellado de los 144.000. MacArthur y la Biblia MacArthur subrayan la pertenencia: medir es marcar lo que es de Dios. Guzik junta propiedad, protección y preservación: Dios conoce cada dimensión y está a cargo (Hab 3:6).",
+          "texto": "Acá casi todos leen el segundo sentido, porque lo que no se mide es justamente lo que queda expuesto. Ladd y Beasley-Murray hablan de protección en un tiempo de prueba; Swete, citado por Earle, compara la medición con el sellado de los 144.000. MacArthur y la Biblia MacArthur subrayan la pertenencia: medir es marcar lo que es de Dios. Guzik junta propiedad, protección y preservación: Dios conoce cada dimensión y está a cargo (Hab 3:6). Lennox recuerda que en el mundo antiguo medir se ligaba a la propiedad de la tierra (Gn 13:17), y que la larga medición de Ezequiel 40-48 termina con una promesa de restauración: «Jehová-sama», el Señor está allí (Ez 48:35).",
           "fuentes": [
             "ladd_04_b#3",
             "henry_02_a#2",
             "beacon_03_c#19",
             "macarthur_09#21",
             "mbiblia_02_a#5",
-            "web_06#1"
+            "web_06#1",
+            "r4_460_09_a#25"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -207,12 +205,13 @@
           "tipo": "griego_palabra"
         },
         {
-          "texto": "¿Qué ciudad es? Para Carballosa, la Jerusalén terrenal, que la Biblia llama santa aun en su rebeldía (Neh 11:2; Is 52:1; Mt 4:5); para Ladd, Jerusalén como figura del pueblo judío; para Mundo Hispano, la iglesia; para Beasley-Murray, el mundo fuera de ella, porque en el versículo 8 la ciudad se compara con Sodoma y Egipto.",
+          "texto": "¿Qué ciudad es? Para Carballosa, la Jerusalén terrenal, que la Biblia llama santa aun en su rebeldía (Neh 11:2; Is 52:1; Mt 4:5); Lennox agrega que, como el atrio no alcanzaba para las multitudes de las fiestas, se lo había extendido por decreto a toda la ciudad, y que el versículo 8 la identifica como el lugar donde el Señor fue crucificado: es la Jerusalén real. Para Ladd, Jerusalén como figura del pueblo judío; para Mundo Hispano, la iglesia; para Beasley-Murray, el mundo fuera de ella, porque en el versículo 8 la ciudad se compara con Sodoma y Egipto.",
           "fuentes": [
             "carballosa_08#15",
             "ladd_04_b#4",
             "cbmh_05_b#18",
-            "henry_02_a#2"
+            "henry_02_a#2",
+            "r4_460_09_a#26"
           ],
           "tipo": "dificultad_interpretaciones"
         },
@@ -280,7 +279,7 @@
     },
     {
       "signo": "medir",
-      "significado": "Poner aparte: según Ladd y Swete, para proteger; según MacArthur, para marcar lo que es de Dios.",
+      "significado": "Poner aparte para proteger y marcar lo que es de Dios (Ladd, Swete, MacArthur).",
       "refs": [
         "11:1"
       ],
@@ -326,7 +325,7 @@
     },
     {
       "signo": "ciudad santa",
-      "significado": "Según Carballosa y Ladd, Jerusalén (para Ladd, figura del pueblo judío); según Mundo Hispano, la iglesia; según Beasley-Murray, el mundo fuera de ella.",
+      "significado": "Jerusalén (real o figura del pueblo judío), la iglesia o el mundo fuera de ella, según la lectura (ver Interpretaciones).",
       "refs": [
         "11:2",
         "11:8",
@@ -458,12 +457,14 @@
       "tema": "¿Qué templo mide Juan?",
       "posturas": [
         {
-          "postura": "La iglesia de Cristo, como en Pablo (1 Co 3:16; Ef 2:21): ya no había templo en Jerusalén; altar y adoradores son los verdaderos siervos de Dios, y el patio y la ciudad, el mundo fuera de la iglesia.",
-          "quien": "El Comentario Bíblico Mundo Hispano (amilenial/idealista); Beasley-Murray (premilenial histórico); Swete, citado por Earle en el Beacon",
+          "postura": "La iglesia de Cristo, como en Pablo (1 Co 3:16; Ef 2:21): ya no había templo en Jerusalén; altar y adoradores son los verdaderos siervos de Dios, y el patio y la ciudad, el mundo fuera de la iglesia. Matthew Henry lee la ciudad santa como la iglesia visible, pisoteada por estar llena de hipócritas, y el patio como los que adoran con falsedad.",
+          "quien": "El Comentario Bíblico Mundo Hispano (amilenial/idealista); Beasley-Murray (premilenial histórico); Swete, citado por Earle en el Beacon; Matthew Henry. Según Hitchcock, es la lectura de la mayoría de los eruditos",
           "fuentes": [
             "cbmh_05_b#18",
             "henry_02_a#2",
-            "beacon_03_c#19"
+            "beacon_03_c#19",
+            "r4_2_01_b#8",
+            "r4_442_03_a#24"
           ]
         },
         {
@@ -474,14 +475,19 @@
           ]
         },
         {
-          "postura": "Un templo literal reconstruido en Jerusalén para la tribulación, con un remanente de judíos creyentes, que el anticristo profanará (Dn 9:27; 2 Ts 2:4). Carballosa, con Thomas: un templo judío es un cuadro inadecuado de la iglesia gentil; Guzik: no se entiende para qué medir a la iglesia ni quiénes serían patios y altar.",
-          "quien": "MacArthur, Carballosa, Larkin, McGee y Guzik (premilenial dispensacional)",
+          "postura": "Un templo literal reconstruido en Jerusalén para la tribulación, con un remanente de judíos creyentes, que el anticristo profanará (Dn 9:27; Mt 24:15; 2 Ts 2:4). Carballosa, con Thomas: un templo judío es un cuadro inadecuado de la iglesia gentil. Hitchcock: todo aquí es judío (santuario, altar, atrio de los gentiles, ciudad santa) y la lectura eclesial no explica la medición ni los cuarenta y dos meses. Lennox: si la iglesia es a la vez el templo protegido y el atrio y la ciudad pisoteados, la lectura se contradice. Dyer, Hitchcock y Lennox recuerdan además que Daniel y Ezequiel hablaron de templos que no existían.",
+          "quien": "MacArthur, Carballosa, Larkin, McGee y Guzik (premilenial dispensacional); también Hitchcock, Dyer, Lennox y el Comentario Moody",
           "fuentes": [
             "macarthur_09#22",
             "carballosa_08#13",
             "larkin_03_a#21",
             "mcgeer_07#32",
-            "web_06#3"
+            "web_06#3",
+            "r4_442_03_a#24",
+            "r4_453_01#5",
+            "r4_460_09_b#4",
+            "r4_460_09_b#3",
+            "r4_225_02_a#7"
           ]
         },
         {
@@ -511,10 +517,11 @@
         },
         {
           "postura": "La primera mitad de esa semana: los adoradores no son molestados, como en tiempos de Jesús; los sacrificios cesan recién a la mitad.",
-          "quien": "J. Oliver Buswell (premilenial histórico)",
+          "quien": "J. Oliver Buswell (premilenial histórico); el Comentario Moody, que ubica la gran tribulación en la segunda mitad",
           "fuentes": [
             "r1_010#5",
-            "r2_004_a#18"
+            "r2_004_a#18",
+            "r4_225_02_a#7"
           ]
         },
         {
@@ -546,16 +553,6 @@
       "tipo": "historia",
       "fuentes": [
         "r1_014#30"
-      ]
-    },
-    {
-      "texto": "Chafer describe el carácter de la gran tribulación como una demostración de la perversidad humana sin restricciones y de la falsedad de las pretensiones humanas de excelencia aparte de Dios.",
-      "autor": "Lewis Sperry Chafer",
-      "obra": "Teología sistemática, tomo II",
-      "pagina": "pág. PDF 428-429",
-      "tipo": "doctrina",
-      "fuentes": [
-        "r1_037#24"
       ]
     }
   ],
@@ -628,16 +625,18 @@
       ]
     },
     {
-      "texto": "El mal tiene fecha de vencimiento. Cuarenta y dos meses no es para siempre, y el que pone el número no es el que pisotea. Cuando algo los aplaste, recuerden que tiene plazo y que el plazo lo fija Dios.",
+      "texto": "El mal tiene fecha de vencimiento. Cuarenta y dos meses no es para siempre, y el que pone el número no es el que pisotea. Lennox lo une a la promesa de Jesús de acortar aquellos días (Mt 24:21-22) y a los diez días de Esmirna (2:10): saber que la prueba tiene límite ayuda a perseverar. Cuando algo los aplaste, recuerden que tiene plazo y que el plazo lo fija Dios.",
       "fuentes": [
         "cbmh_05_b#18",
-        "macarthur_09#25"
+        "macarthur_09#25",
+        "r4_460_09_b#2"
       ]
     },
     {
-      "texto": "Goodwin tomó la caña de medir como la regla de la Palabra que examina la adoración. Sea cual sea su lectura del pasaje, la pregunta sirve: ¿lo que hacen cuando adoran juntos, en casa y en la iglesia, se mide por lo que Dios pide en su Palabra?",
+      "texto": "Goodwin tomó la caña de medir como la regla de la Palabra que examina la adoración, y Matthew Henry dice que los adoradores son medidos por si hacen de la gloria de Dios su fin y de su Palabra su regla. Sea cual sea su lectura del pasaje, la pregunta sirve: ¿lo que hacen cuando adoran juntos se mide por lo que Dios pide?",
       "fuentes": [
-        "r1_027#19"
+        "r1_027#19",
+        "r4_2_01_b#8"
       ]
     }
   ],
@@ -661,21 +660,25 @@
   "profundizar": [
     {
       "titulo": "¿El templo de 11:1 prueba que el Apocalipsis se escribió antes del año 70?",
-      "texto": "Benware resume el argumento preterista: si a Juan se le manda medir el templo, el templo existía, y el libro sería anterior a su destrucción; además, sería raro su silencio sobre ella (Sproul admite que es un argumento de silencio, pero lo llama “ensordecedor”). Benware responde que Juan mide en visión: Daniel escribió sobre un templo cuando no existía (Dn 9:27; 12:11) y a Ezequiel se le mandó medir uno una década después de su destrucción. Carballosa agrega que la orden se refiere a partes específicas (el santuario y el altar), no a todo el templo. Beasley-Murray reconoce que algunos fechan así la profecía, pero le cuesta armonizarlo con un libro dirigido a la iglesia. Larkin, desde el futurismo, recuerda que el templo de Herodes había sido destruido por Tito más de veinticinco años antes.",
+      "texto": "Benware resume el argumento preterista: si a Juan se le manda medir el templo, el templo existía, y el libro sería anterior a su destrucción; además, sería raro su silencio sobre ella (Sproul admite que es un argumento de silencio, pero lo llama “ensordecedor”). Benware responde que Juan mide en visión: Daniel escribió sobre un templo cuando no existía (Dn 9:27; 12:11) y a Ezequiel se le mandó medir uno una década después de su destrucción. Carballosa agrega que la orden se refiere a partes específicas (el santuario y el altar), no a todo el templo. Beasley-Murray reconoce que algunos fechan así la profecía, pero le cuesta armonizarlo con un libro dirigido a la iglesia. Larkin, desde el futurismo, recuerda que el templo de Herodes había sido destruido por Tito más de veinticinco años antes. Hitchcock y Dyer fechan el libro hacia el 95, unos veinticinco años después de la destrucción. Lennox, por su parte, ve en la profecía de Jesús sobre Jerusalén (Lc 21:20-24) dos niveles: un cumplimiento parcial en el 70 y otro al final, porque las señales cósmicas que la acompañan no ocurrieron entonces.",
       "fuentes": [
         "r1_005#16",
         "carballosa_01#15",
         "henry_02_a#2",
-        "larkin_03_a#21"
+        "larkin_03_a#21",
+        "r4_442_03_a#24",
+        "r4_453_01#5",
+        "r4_460_09_a#27"
       ]
     },
     {
       "titulo": "Los cinco templos y el templo de la tribulación (lectura futurista)",
-      "texto": "MacArthur enumera cinco templos en la Biblia: el de Salomón, el de Zorobabel, el de Herodes, el de la tribulación (el que ve Juan) y el que el Señor edificará en el milenio (Ez 40–48; Hag 2:9; Zac 6:12-13). Hoy el lugar está ocupado por la Cúpula de la Roca, y él piensa que la reconstrucción será posible bajo el pacto con el anticristo (Dn 9:24-27). Larkin aclara que este no es el templo milenial de Ezequiel y piensa que probablemente será destruido por el terremoto de 11:13. Guzik (2016) menciona grupos actuales que preparan la reconstrucción, como el Instituto del Templo, pero aclara que a la mayoría de los judíos no les interesa y que el impulso detrás del proyecto no viene de Dios.",
+      "texto": "MacArthur enumera cinco templos en la Biblia: el de Salomón, el de Zorobabel, el de Herodes, el de la tribulación (el que ve Juan) y el que el Señor edificará en el milenio (Ez 40–48; Hag 2:9; Zac 6:12-13). Hoy el lugar está ocupado por la Cúpula de la Roca, y él piensa que la reconstrucción será posible bajo el pacto con el anticristo (Dn 9:24-27). Larkin aclara que este no es el templo milenial de Ezequiel y piensa que probablemente será destruido por el terremoto de 11:13. Guzik (2016) menciona grupos actuales que preparan la reconstrucción, como el Instituto del Templo, pero aclara que a la mayoría de los judíos no les interesa y que el impulso detrás del proyecto no viene de Dios. Dyer nota que basta con que el templo esté en pie a mitad de los siete años: el segundo templo se levantó en casi exactamente tres años y medio (Hag 1:14-15; Esd 6:15). Algunos lo ubican al norte de la Cúpula de la Roca, y Dyer se pregunta si eso explicaría el atrio entregado a las naciones, aunque admite que no se sabe cómo se construirá.",
       "fuentes": [
         "macarthur_09#22",
         "larkin_03_a#21",
-        "web_06#4"
+        "web_06#4",
+        "r4_453_01#6"
       ]
     },
     {
@@ -688,6 +691,13 @@
         "r1_038#11",
         "r2_004_a#18",
         "macarthur_09#25"
+      ]
+    },
+    {
+      "titulo": "Chafer: el carácter de la gran tribulación",
+      "texto": "Chafer describe el carácter de la gran tribulación como una demostración de la perversidad humana sin restricciones y de la falsedad de las pretensiones humanas de excelencia aparte de Dios.",
+      "fuentes": [
+        "r1_037#24"
       ]
     }
   ]

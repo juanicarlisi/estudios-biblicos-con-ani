@@ -115,13 +115,14 @@
           "tipo": "simbolo_numero"
         },
         {
-          "texto": "¿Un avión que lleva a Israel al desierto? Guzik menciona esa especulación de otros, McGee se burla de ella y Benware la descarta: el pasaje dice qué hará Dios, rescatar a su pueblo como en el éxodo, pero no cómo. Para Ladd las alas son la manera en que Juan asegura que el pueblo de Dios está a salvo en forma definitiva, aun frente al martirio; Mundo Hispano coincide.",
+          "texto": "¿Un avión que lleva a Israel al desierto? Guzik menciona esa especulación de otros, McGee se burla de ella y Benware la descarta: el pasaje dice qué hará Dios, rescatar a su pueblo como en el éxodo, pero no cómo; Hitchcock: la Escritura se interpreta con la Escritura. Para Ladd las alas son la manera en que Juan asegura que el pueblo de Dios está a salvo en forma definitiva, aun frente al martirio; Mundo Hispano coincide.",
           "fuentes": [
             "web_04_b#17",
             "mcgee_07_b#21",
             "r1_003#7",
             "ladd_05_a#20",
-            "cbmh_06_a#21"
+            "cbmh_06_a#21",
+            "r4_442_03_b#9"
           ],
           "tipo": "explicacion_texto"
         }
@@ -165,7 +166,7 @@
       "titulo": "«Un tiempo, y tiempos, y la mitad de un tiempo»",
       "notas": [
         {
-          "texto": "La expresión viene de Daniel 7:25 y 12:7. En el Apocalipsis equivale a los 1.260 días (12:6; 11:3) y a los 42 meses (11:2; 13:5): tres años y medio (Ladd, MacArthur, Carballosa, Guzik). Earle señala que repite lo dicho en 12:6.",
+          "texto": "La expresión viene de Daniel 7:25 y 12:7. En el Apocalipsis equivale a los 1.260 días (12:6; 11:3) y a los 42 meses (11:2; 13:5): tres años y medio (Ladd, MacArthur, Carballosa, Guzik).",
           "fuentes": [
             "ladd_05_a#20",
             "macarthur_11_a#11",
@@ -230,7 +231,7 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "MacArthur sugiere como posibilidad uno de los terremotos del libro (6:12; 11:13; 16:18), aunque reconoce que el lenguaje es simbólico. Swete, citado por Earle, esperaba ayuda de donde nadie la espera, como la muerte de un emperador. Beasley-Murray y Mundo Hispano lo resumen: los creyentes están seguros frente a todo intento del diablo por destruirlos.",
+          "texto": "MacArthur sugiere como posibilidad uno de los terremotos del libro (6:12; 11:13; 16:18), aunque reconoce que el lenguaje es simbólico. Beasley-Murray y Mundo Hispano lo resumen: los creyentes están seguros frente a todo intento del diablo por destruirlos.",
           "fuentes": [
             "macarthur_11_a#13",
             "mbiblia_02_a#32",
@@ -295,7 +296,7 @@
   "simbolos": [
     {
       "signo": "el dragón, la serpiente",
-      "significado": "Satanás, ya arrojado a la tierra; para Beasley-Murray, un monstruo marino; Larkin lo une a Leviatán (Is 27:1).",
+      "significado": "Satanás, ya arrojado a la tierra; Larkin lo une a Leviatán (Is 27:1).",
       "refs": [
         "12:13",
         "12:15",
@@ -303,7 +304,6 @@
       ],
       "fuentes": [
         "macarthur_11_a#5",
-        "henry_02_a#12",
         "larkin_03_b#25"
       ]
     },
@@ -322,15 +322,14 @@
     },
     {
       "signo": "el desierto",
-      "significado": "El refugio donde Dios sustenta; literal para McGee, el lugar adonde no llega el monstruo del mar para Beasley-Murray.",
+      "significado": "El refugio donde Dios sustenta a su pueblo, fuera del alcance de la serpiente.",
       "refs": [
         "12:14",
         "12:6"
       ],
       "fuentes": [
-        "mcgeer_09#1",
-        "henry_02_a#12",
-        "carballosa_09_b#21"
+        "carballosa_09_b#21",
+        "mcgeer_09#1"
       ]
     },
     {
@@ -467,12 +466,11 @@
       ]
     },
     {
-      "texto": "Los perseguidos tienen el testimonio de Jesús, lo que él enseñó (MacArthur). Y Larkin espera el final: la mujer queda a salvo hasta que vuelva del cielo el Sumo Sacerdote, Jesús, como Rey-Sacerdote al frente de los ejércitos del cielo.",
+      "texto": "Larkin espera el final: la mujer queda a salvo hasta que vuelva del cielo el Sumo Sacerdote, Jesús, como Rey-Sacerdote al frente de los ejércitos del cielo.",
       "refs": [
         "Ap 19:11-16"
       ],
       "fuentes": [
-        "macarthur_11_a#15",
         "larkin_03_b#29"
       ]
     }
@@ -483,14 +481,16 @@
       "posturas": [
         {
           "postura": "Israel, la nación que dio a luz al Mesías.",
-          "quien": "MacArthur, McGee, Carballosa, Larkin, Benware y Guzik (con Walvoord), premileniales dispensacionales",
+          "quien": "MacArthur, McGee, Carballosa, Larkin, Benware y Guzik (con Walvoord), premileniales dispensacionales; también Hitchcock y Dyer",
           "fuentes": [
             "macarthur_11_a#5",
             "mcgee_07_b#20",
             "carballosa_09_b#20",
             "larkin_03_b#25",
             "r1_003#7",
-            "web_04_b#16"
+            "web_04_b#16",
+            "r4_442_03_b#9",
+            "r4_453_01#17"
           ]
         },
         {
@@ -513,6 +513,13 @@
           "quien": "J. Oliver Buswell (premilenial histórico)",
           "fuentes": [
             "r1_010#16"
+          ]
+        },
+        {
+          "postura": "Quizá los 144.000, distintos del resto de su descendencia.",
+          "quien": "Lennox, como pregunta abierta",
+          "fuentes": [
+            "r4_460_10_a#18"
           ]
         }
       ],
@@ -585,6 +592,20 @@
             "ladd_05_a#20",
             "henry_02_a#12",
             "cbmh_06_a#23"
+          ]
+        },
+        {
+          "postura": "Las invasiones bárbaras, que no destruyeron a la iglesia, o un torrente de error contra ella.",
+          "quien": "Matthew Henry, sin decidirse entre las dos",
+          "fuentes": [
+            "r4_2_01_b#15"
+          ]
+        },
+        {
+          "postura": "La tierra que ayuda: quizá gobiernos amistosos con los judíos que frustran a la serpiente.",
+          "quien": "Walter Scott, citado por el Comentario Moody (como posibilidad)",
+          "fuentes": [
+            "r4_225_02_a#19"
           ]
         }
       ],
@@ -679,6 +700,13 @@
   ],
   "conexiones": [
     {
+      "ref": "Gn 3:15",
+      "nota": "La mujer, su descendencia y la serpiente: el Comentario Moody oye aquí la primera promesa mesiánica.",
+      "fuentes": [
+        "r4_225_02_a#19"
+      ]
+    },
+    {
       "ref": "Éx 19:4",
       "nota": "Dios llevó a Israel sobre alas de águila (con Dt 32:11): la fuente de la imagen de 12:14.",
       "fuentes": [
@@ -741,10 +769,8 @@
       ]
     },
     {
-      "texto": "Dios no promete que no habrá desierto, sino que en el desierto los sustentará; para Ladd y Mundo Hispano, la seguridad del pueblo de Dios es definitiva aun frente al martirio. Pueden contarle a Dios lo que les falta.",
+      "texto": "Dios no promete que no habrá desierto, sino que en el desierto los sustentará. Pueden contarle a Dios lo que les falta.",
       "fuentes": [
-        "ladd_05_a#20",
-        "cbmh_06_a#21",
         "mcgeer_09#1",
         "macarthur_11_a#10"
       ]
@@ -788,12 +814,13 @@
     },
     {
       "titulo": "El odio contra el pueblo judío en la historia",
-      "texto": "MacArthur abre su capítulo con un recorrido por el sufrimiento judío: parte fue disciplina de Dios (Dt 28:15-68; 2 R 17:7-23) y parte obra de Satanás, que busca destruir y no corregir. Menciona Asiria (722 a.C.), Babilonia (586 a.C.), la Primera Cruzada y la quema de la sinagoga de Jerusalén (1099), las expulsiones de Inglaterra (1290), Francia (1306) y España (1492), los pogromos rusos desde 1881, el caso Dreyfus y el Holocausto. McGee traza la misma línea, del faraón y Amán a Herodes y Hitler, y por eso dice que no puede celebrar el regreso actual de Israel a su tierra como si fuera el milenio: según él, se orienta a la Gran Tribulación.",
+      "texto": "MacArthur abre su capítulo con un recorrido por el sufrimiento judío: parte fue disciplina de Dios (Dt 28:15-68; 2 R 17:7-23) y parte obra de Satanás, que busca destruir y no corregir. Menciona Asiria (722 a.C.), Babilonia (586 a.C.), la Primera Cruzada y la quema de la sinagoga de Jerusalén (1099), las expulsiones de Inglaterra (1290), Francia (1306) y España (1492), los pogromos rusos desde 1881, el caso Dreyfus y el Holocausto. McGee traza la misma línea, del faraón y Amán a Herodes y Hitler, y por eso dice que no puede celebrar el regreso actual de Israel a su tierra como si fuera el milenio: según él, se orienta a la Gran Tribulación. Lennox suma a la lista la matanza planeada en tiempos de Ester y la masacre de Granada (1066), y recuerda a Viktor Frankl, sobreviviente del Holocausto: el mismo ser humano que inventó las cámaras de gas entró en ellas orando el Padrenuestro o el Shemá Israel.",
       "fuentes": [
         "macarthur_10#46",
         "mcgee_07_b#23",
         "mcgeer_09#3",
-        "mcgee_07_b#20"
+        "mcgee_07_b#20",
+        "r4_460_10_a#19"
       ]
     },
     {
@@ -806,11 +833,12 @@
     },
     {
       "titulo": "Apocalipsis 12:14 y el debate sobre el arrebatamiento",
-      "texto": "Grudem cuenta que Gleason Archer usa Daniel 7:25, 9:27, 12:7 y Apocalipsis 12:14 para sostener un arrebatamiento a mitad de la tribulación, porque esos textos parten la semana en dos mitades. Grudem responde que Daniel habla de una interrupción de la semana, pero no dice que los creyentes sean quitados a la mitad. Buswell, por su parte, ubica la expulsión de Satanás justo antes del arrebatamiento y defiende que después de él habrá salvación mientras haya gente viva, porque el hoy del evangelio sigue abierto (2 Co 6:2; He 3-4). El anexo T7 presenta las posturas.",
+      "texto": "Grudem cuenta que Gleason Archer usa Daniel 7:25, 9:27, 12:7 y Apocalipsis 12:14 para sostener un arrebatamiento a mitad de la tribulación, porque esos textos parten la semana en dos mitades. Grudem responde que Daniel habla de una interrupción de la semana, pero no dice que los creyentes sean quitados a la mitad, y Walvoord, que concede la importancia de los tres años y medio, lo juzga sugestivo pero no demostrado: identifica la segunda venida de Mateo 24 con un arrebatamiento a mitad de la semana sin resolver las objeciones. Buswell, por su parte, ubica la expulsión de Satanás justo antes del arrebatamiento y defiende que después de él habrá salvación mientras haya gente viva, porque el hoy del evangelio sigue abierto (2 Co 6:2; He 3-4). El anexo T7 presenta las posturas.",
       "fuentes": [
         "r1_028#16",
         "r1_010#16",
-        "r1_010#17"
+        "r1_010#17",
+        "r4_450_03#20"
       ]
     }
   ]

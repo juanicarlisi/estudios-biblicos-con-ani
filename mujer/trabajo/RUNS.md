@@ -31,3 +31,10 @@
 - Escribir tanda 3 (días 321-480; plan_escribir_t3.json): wf_f3e3de13-a4a wf_98dd027c-3ca wf_9f02a8db-51a wf_7be67442-fb5 wf_288e4f76-866. Tanda 2 recogida (160 días nuevos en borradores).
 - Tanda 2 verificada: 322 borradores | 229 limpios | 93 con marcas (apoyo 64, comillas 29, largo 25, ids 13, cifras 6, forma 5, autor 3). Reparar (Sonnet/medio): wf_48f3dbde-2c7 (grupos 1-8) wf_e5a5ebe0-d0c (9-16). Luego recortar los largos y promover.
 - Tanda 2 cerrada: reparada (wf_48f3dbde-2c7 wf_e5a5ebe0-d0c wf_b3c2ba7b-d01), recortada (wf_c7b64b21-644), ids inválidos quitados en 49/172/287, aceptados a mano 172,196,216,224,226,227,287 (plan/aceptados_manual.json): 322 definitivos (días 1-320 + 330 y 600).
+- Escribir tanda 4 (días 481-637; plan_escribir_t4.json): wf_8f2cee98-898 wf_3f3ca8b9-671 wf_37348661-90c wf_f3389b01-069 wf_b79f9089-317. Tanda 3 recogida (159 días).
+- Tanda 3 verificada: 481 borradores | 378 limpios | 103 con marcas (apoyo 54, largo 29, comillas 22, forma 19, ids 9, autor 8, cifras 4). Reparar: wf_3ae8809f-820 (grupos 1-9) wf_3cacec52-e56 (10-18).
+- Tanda 3 cerrada (reparar wf_3ae8809f-820 wf_3cacec52-e56 wf_c7d26fec-ca7; recortar wf_fcf26590-2a8). Día 363 salió roto (550 palabras): reescrito con wf_8cc00620-716. Aceptados a mano además: 432, 448.
+- Tanda 4 (481-637) escrita y recogida: wf_8f2cee98-898 wf_3f3ca8b9-671 wf_37348661-90c wf_f3389b01-069 wf_b79f9089-317.
+- Tanda 4 verificada: 637 borradores | 545 limpios | 92 con marcas (apoyo 59, comillas 24, largo 21, cifras 9, forma 8, ids 8, autor 5). Reparar: wf_5e712420-12c (grupos 1-8) wf_397b7d29-822 (9-16).
+- Tanda 4: reparada (wf_5e712420-12c wf_397b7d29-822), recorte wf_6b006090-430; aceptados a mano también 549,585,602,619,620 (algo cortos, 1540-1660 palabras) y 598.
+- Los 637 días son definitivos (dias/). Siguiente: revisión de continuidad (ventanas de 10 días), app y entrega.

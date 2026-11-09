@@ -72,240 +72,750 @@
    "dia": 1,
    "libro": "1P",
    "desde": "1P 1:1",
-   "hasta": "1P 2:10",
-   "rango": "1P 1:1-2:10",
-   "versiculos": 35,
+   "hasta": "1P 1:9",
+   "rango": "1P 1:1-9",
+   "versiculos": 9,
    "ini": 1,
-   "fin": 35,
-   "titulo_provisional": "Elegidos y extranjeros: el saludo y una esperanza viva y una herencia guardada y gozo en medio de las pruebas y lo que los profetas indagaron y «Sed santos» y rescatados con la sangre preciosa de Cristo y amor entrañable y la palabra que permanece y desear la leche espiritual y piedras vivas y la piedra angular y linaje escogido, real sacerdocio",
+   "fin": 9,
+   "titulo_provisional": "Elegidos y extranjeros: el saludo y una esperanza viva y una herencia guardada y gozo en medio de las pruebas",
    "unidades": [
     "1p-saludo",
     "1p-esperanza",
-    "1p-gozo",
+    "1p-gozo"
+   ],
+   "parte": "p1",
+   "peso": 2250
+  },
+  {
+   "dia": 2,
+   "libro": "1P",
+   "desde": "1P 1:10",
+   "hasta": "1P 1:16",
+   "rango": "1P 1:10-16",
+   "versiculos": 7,
+   "ini": 10,
+   "fin": 16,
+   "titulo_provisional": "Lo que los profetas indagaron y «Sed santos»",
+   "unidades": [
     "1p-profetas",
-    "1p-santos",
+    "1p-santos"
+   ],
+   "parte": "p1",
+   "peso": 1750
+  },
+  {
+   "dia": 3,
+   "libro": "1P",
+   "desde": "1P 1:17",
+   "hasta": "1P 1:25",
+   "rango": "1P 1:17-25",
+   "versiculos": 9,
+   "ini": 17,
+   "fin": 25,
+   "titulo_provisional": "Rescatados con la sangre preciosa de Cristo y amor entrañable y la palabra que permanece",
+   "unidades": [
     "1p-rescate",
-    "1p-amor",
+    "1p-amor"
+   ],
+   "parte": "p1",
+   "peso": 2250
+  },
+  {
+   "dia": 4,
+   "libro": "1P",
+   "desde": "1P 2:1",
+   "hasta": "1P 2:10",
+   "rango": "1P 2:1-10",
+   "versiculos": 10,
+   "ini": 26,
+   "fin": 35,
+   "titulo_provisional": "Desear la leche espiritual y piedras vivas y la piedra angular y linaje escogido, real sacerdocio",
+   "unidades": [
     "1p-leche",
     "1p-piedras",
     "1p-pueblo"
    ],
    "parte": "p1",
-   "peso": 8750
+   "peso": 2500
   },
   {
-   "dia": 2,
+   "dia": 5,
    "libro": "1P",
    "desde": "1P 2:11",
-   "hasta": "1P 3:12",
-   "rango": "1P 2:11-3:12",
-   "versiculos": 27,
+   "hasta": "1P 2:20",
+   "rango": "1P 2:11-20",
+   "versiculos": 10,
    "ini": 36,
-   "fin": 62,
-   "titulo_provisional": "Extranjeros y peregrinos: buena manera de vivir y sumisión a las autoridades y los siervos y el sufrimiento injusto y cristo, ejemplo, sustituto y Pastor y esposas y maridos y unidad y bendición",
+   "fin": 45,
+   "titulo_provisional": "Extranjeros y peregrinos: buena manera de vivir y sumisión a las autoridades y los siervos y el sufrimiento injusto",
    "unidades": [
     "1p-peregrinos",
     "1p-autoridades",
-    "1p-siervos",
-    "1p-ejemplo",
-    "1p-hogar",
+    "1p-siervos"
+   ],
+   "parte": "p2",
+   "peso": 2500
+  },
+  {
+   "dia": 6,
+   "libro": "1P",
+   "desde": "1P 2:21",
+   "hasta": "1P 2:25",
+   "rango": "1P 2:21-25",
+   "versiculos": 5,
+   "ini": 46,
+   "fin": 50,
+   "titulo_provisional": "Cristo, ejemplo, sustituto y Pastor",
+   "unidades": [
+    "1p-ejemplo"
+   ],
+   "parte": "p2",
+   "peso": 1250
+  },
+  {
+   "dia": 7,
+   "libro": "1P",
+   "desde": "1P 3:1",
+   "hasta": "1P 3:7",
+   "rango": "1P 3:1-7",
+   "versiculos": 7,
+   "ini": 51,
+   "fin": 57,
+   "titulo_provisional": "Esposas y maridos",
+   "unidades": [
+    "1p-hogar"
+   ],
+   "parte": "p2",
+   "peso": 1750
+  },
+  {
+   "dia": 8,
+   "libro": "1P",
+   "desde": "1P 3:8",
+   "hasta": "1P 3:12",
+   "rango": "1P 3:8-12",
+   "versiculos": 5,
+   "ini": 58,
+   "fin": 62,
+   "titulo_provisional": "Unidad y bendición",
+   "unidades": [
     "1p-unidad"
    ],
    "parte": "p2",
-   "peso": 6750
+   "peso": 1250
   },
   {
-   "dia": 3,
+   "dia": 9,
    "libro": "1P",
    "desde": "1P 3:13",
-   "hasta": "1P 5:14",
-   "rango": "1P 3:13-5:14",
-   "versiculos": 43,
+   "hasta": "1P 3:17",
+   "rango": "1P 3:13-17",
+   "versiculos": 5,
    "ini": 63,
-   "fin": 105,
-   "titulo_provisional": "Sufrir por hacer el bien y presentar defensa y cristo padeció una vez: los espíritus y el bautismo y armarse del mismo pensamiento y el fin de todas las cosas se acerca: dones y servicio y la prueba de fuego: sufrir como cristiano y apacentad la grey de Dios y revestidos de humildad y resistid al adversario y silvano, Marcos y Babilonia: saludos",
+   "fin": 67,
+   "titulo_provisional": "Sufrir por hacer el bien y presentar defensa",
    "unidades": [
-    "1p-defensa",
-    "1p-espiritus",
-    "1p-armaos",
-    "1p-fin",
-    "1p-fuego",
+    "1p-defensa"
+   ],
+   "parte": "p3",
+   "peso": 1250
+  },
+  {
+   "dia": 10,
+   "libro": "1P",
+   "desde": "1P 3:18",
+   "hasta": "1P 3:22",
+   "rango": "1P 3:18-22",
+   "versiculos": 5,
+   "ini": 68,
+   "fin": 72,
+   "titulo_provisional": "Cristo padeció una vez: los espíritus y el bautismo",
+   "unidades": [
+    "1p-espiritus"
+   ],
+   "parte": "p3",
+   "peso": 1336
+  },
+  {
+   "dia": 11,
+   "libro": "1P",
+   "desde": "1P 4:1",
+   "hasta": "1P 4:6",
+   "rango": "1P 4:1-6",
+   "versiculos": 6,
+   "ini": 73,
+   "fin": 78,
+   "titulo_provisional": "Armarse del mismo pensamiento",
+   "unidades": [
+    "1p-armaos"
+   ],
+   "parte": "p3",
+   "peso": 1500
+  },
+  {
+   "dia": 12,
+   "libro": "1P",
+   "desde": "1P 4:7",
+   "hasta": "1P 4:11",
+   "rango": "1P 4:7-11",
+   "versiculos": 5,
+   "ini": 79,
+   "fin": 83,
+   "titulo_provisional": "El fin de todas las cosas se acerca: dones y servicio",
+   "unidades": [
+    "1p-fin"
+   ],
+   "parte": "p3",
+   "peso": 1250
+  },
+  {
+   "dia": 13,
+   "libro": "1P",
+   "desde": "1P 4:12",
+   "hasta": "1P 4:19",
+   "rango": "1P 4:12-19",
+   "versiculos": 8,
+   "ini": 84,
+   "fin": 91,
+   "titulo_provisional": "La prueba de fuego: sufrir como cristiano",
+   "unidades": [
+    "1p-fuego"
+   ],
+   "parte": "p3",
+   "peso": 2000
+  },
+  {
+   "dia": 14,
+   "libro": "1P",
+   "desde": "1P 5:1",
+   "hasta": "1P 5:7",
+   "rango": "1P 5:1-7",
+   "versiculos": 7,
+   "ini": 92,
+   "fin": 98,
+   "titulo_provisional": "Apacentad la grey de Dios y revestidos de humildad",
+   "unidades": [
     "1p-ancianos",
-    "1p-humildad",
+    "1p-humildad"
+   ],
+   "parte": "p3",
+   "peso": 1750
+  },
+  {
+   "dia": 15,
+   "libro": "1P",
+   "desde": "1P 5:8",
+   "hasta": "1P 5:14",
+   "rango": "1P 5:8-14",
+   "versiculos": 7,
+   "ini": 99,
+   "fin": 105,
+   "titulo_provisional": "Resistid al adversario y silvano, Marcos y Babilonia: saludos",
+   "unidades": [
     "1p-adversario",
     "1p-saludos"
    ],
    "parte": "p3",
-   "peso": 10750
+   "peso": 1750
   },
   {
-   "dia": 4,
+   "dia": 16,
    "libro": "2P",
    "desde": "2P 1:1",
-   "hasta": "2P 1:21",
-   "rango": "2P 1:1-21",
-   "versiculos": 21,
+   "hasta": "2P 1:4",
+   "rango": "2P 1:1-4",
+   "versiculos": 4,
    "ini": 106,
-   "fin": 126,
-   "titulo_provisional": "Una fe igualmente preciosa y las grandes promesas y añadid a vuestra fe: las virtudes y el legado de Pedro antes de su partida y testigos de su majestad: la transfiguración y la palabra profética más segura",
+   "fin": 109,
+   "titulo_provisional": "Una fe igualmente preciosa y las grandes promesas",
    "unidades": [
-    "2p-saludo",
-    "2p-virtudes",
+    "2p-saludo"
+   ],
+   "parte": "p4",
+   "peso": 1000
+  },
+  {
+   "dia": 17,
+   "libro": "2P",
+   "desde": "2P 1:5",
+   "hasta": "2P 1:11",
+   "rango": "2P 1:5-11",
+   "versiculos": 7,
+   "ini": 110,
+   "fin": 116,
+   "titulo_provisional": "Añadid a vuestra fe: las virtudes",
+   "unidades": [
+    "2p-virtudes"
+   ],
+   "parte": "p4",
+   "peso": 1750
+  },
+  {
+   "dia": 18,
+   "libro": "2P",
+   "desde": "2P 1:12",
+   "hasta": "2P 1:21",
+   "rango": "2P 1:12-21",
+   "versiculos": 10,
+   "ini": 117,
+   "fin": 126,
+   "titulo_provisional": "El legado de Pedro antes de su partida y testigos de su majestad: la transfiguración y la palabra profética más segura",
+   "unidades": [
     "2p-legado",
     "2p-testigos",
     "2p-profecia"
    ],
    "parte": "p4",
-   "peso": 5250
+   "peso": 2500
   },
   {
-   "dia": 5,
+   "dia": 19,
    "libro": "2P",
    "desde": "2P 2:1",
-   "hasta": "2P 2:22",
-   "rango": "2P 2:1-22",
-   "versiculos": 22,
+   "hasta": "2P 2:10",
+   "rango": "2P 2:1-10",
+   "versiculos": 10,
    "ini": 127,
-   "fin": 148,
-   "titulo_provisional": "Habrá falsos maestros y ángeles, diluvio, Sodoma: Dios sabe librar y juzgar y atrevidos y contumaces: el camino de Balaam y fuentes sin agua: peor que al principio",
+   "fin": 136,
+   "titulo_provisional": "Habrá falsos maestros y ángeles, diluvio, Sodoma: Dios sabe librar y juzgar",
    "unidades": [
     "2p-falsos",
-    "2p-juicio",
-    "2p-conducta",
+    "2p-juicio"
+   ],
+   "parte": "p5",
+   "peso": 2500
+  },
+  {
+   "dia": 20,
+   "libro": "2P",
+   "desde": "2P 2:11",
+   "hasta": "2P 2:16",
+   "rango": "2P 2:11-16",
+   "versiculos": 6,
+   "ini": 137,
+   "fin": 142,
+   "titulo_provisional": "Atrevidos y contumaces: el camino de Balaam",
+   "unidades": [
+    "2p-conducta"
+   ],
+   "parte": "p5",
+   "peso": 1500
+  },
+  {
+   "dia": 21,
+   "libro": "2P",
+   "desde": "2P 2:17",
+   "hasta": "2P 2:22",
+   "rango": "2P 2:17-22",
+   "versiculos": 6,
+   "ini": 143,
+   "fin": 148,
+   "titulo_provisional": "Fuentes sin agua: peor que al principio",
+   "unidades": [
     "2p-perdicion"
    ],
    "parte": "p5",
-   "peso": 5500
+   "peso": 1500
   },
   {
-   "dia": 6,
+   "dia": 22,
    "libro": "2P",
    "desde": "2P 3:1",
-   "hasta": "2P 3:18",
-   "rango": "2P 3:1-18",
-   "versiculos": 18,
+   "hasta": "2P 3:10",
+   "rango": "2P 3:1-10",
+   "versiculos": 10,
    "ini": 149,
-   "fin": 166,
-   "titulo_provisional": "Los burladores y el diluvio y mil años como un día: el día del Señor vendrá y cielos nuevos y tierra nueva y pablo, las Escrituras y creced en la gracia",
+   "fin": 158,
+   "titulo_provisional": "Los burladores y el diluvio y mil años como un día: el día del Señor vendrá",
    "unidades": [
     "2p-burladores",
-    "2p-paciencia",
+    "2p-paciencia"
+   ],
+   "parte": "p6",
+   "peso": 2500
+  },
+  {
+   "dia": 23,
+   "libro": "2P",
+   "desde": "2P 3:11",
+   "hasta": "2P 3:18",
+   "rango": "2P 3:11-18",
+   "versiculos": 8,
+   "ini": 159,
+   "fin": 166,
+   "titulo_provisional": "Cielos nuevos y tierra nueva y pablo, las Escrituras y creced en la gracia",
+   "unidades": [
     "2p-consumacion",
     "2p-exhortacion"
    ],
    "parte": "p6",
-   "peso": 4500
+   "peso": 2000
   },
   {
-   "dia": 7,
+   "dia": 24,
    "libro": "1J",
    "desde": "1J 1:1",
-   "hasta": "1J 2:17",
-   "rango": "1J 1:1-2:17",
-   "versiculos": 27,
+   "hasta": "1J 1:10",
+   "rango": "1J 1:1-10",
+   "versiculos": 10,
    "ini": 167,
-   "fin": 193,
-   "titulo_provisional": "El Verbo de vida: lo que hemos visto y oído y dios es luz: andar en luz y confesar y abogado y propiciación: guardar sus mandamientos y el mandamiento nuevo y antiguo y hijitos, padres y jóvenes y no améis al mundo",
+   "fin": 176,
+   "titulo_provisional": "El Verbo de vida: lo que hemos visto y oído y dios es luz: andar en luz y confesar",
    "unidades": [
     "1j-prologo",
-    "1j-luz",
-    "1j-abogado",
+    "1j-luz"
+   ],
+   "parte": "p7",
+   "peso": 2500
+  },
+  {
+   "dia": 25,
+   "libro": "1J",
+   "desde": "1J 2:1",
+   "hasta": "1J 2:6",
+   "rango": "1J 2:1-6",
+   "versiculos": 6,
+   "ini": 177,
+   "fin": 182,
+   "titulo_provisional": "Abogado y propiciación: guardar sus mandamientos",
+   "unidades": [
+    "1j-abogado"
+   ],
+   "parte": "p7",
+   "peso": 1500
+  },
+  {
+   "dia": 26,
+   "libro": "1J",
+   "desde": "1J 2:7",
+   "hasta": "1J 2:14",
+   "rango": "1J 2:7-14",
+   "versiculos": 8,
+   "ini": 183,
+   "fin": 190,
+   "titulo_provisional": "El mandamiento nuevo y antiguo y hijitos, padres y jóvenes",
+   "unidades": [
     "1j-mandamiento",
-    "1j-hijitos",
+    "1j-hijitos"
+   ],
+   "parte": "p7",
+   "peso": 2000
+  },
+  {
+   "dia": 27,
+   "libro": "1J",
+   "desde": "1J 2:15",
+   "hasta": "1J 2:17",
+   "rango": "1J 2:15-17",
+   "versiculos": 3,
+   "ini": 191,
+   "fin": 193,
+   "titulo_provisional": "No améis al mundo",
+   "unidades": [
     "1j-mundo"
    ],
    "parte": "p7",
-   "peso": 6750
+   "peso": 750
   },
   {
-   "dia": 8,
+   "dia": 28,
    "libro": "1J",
    "desde": "1J 2:18",
-   "hasta": "1J 3:24",
-   "rango": "1J 2:18-3:24",
-   "versiculos": 36,
+   "hasta": "1J 2:27",
+   "rango": "1J 2:18-27",
+   "versiculos": 10,
    "ini": 194,
-   "fin": 229,
-   "titulo_provisional": "Es el último tiempo: los anticristos y permanecer y la unción del Santo y hijos de Dios: lo que hemos de ser y el que es nacido de Dios no practica el pecado y caín y el amor de hecho y en verdad y confianza delante de Dios",
+   "fin": 203,
+   "titulo_provisional": "Es el último tiempo: los anticristos y permanecer y la unción del Santo",
    "unidades": [
     "1j-anticristos",
-    "1j-uncion",
-    "1j-hijos",
-    "1j-pecado",
-    "1j-cain",
+    "1j-uncion"
+   ],
+   "parte": "p8",
+   "peso": 2500
+  },
+  {
+   "dia": 29,
+   "libro": "1J",
+   "desde": "1J 2:28",
+   "hasta": "1J 3:3",
+   "rango": "1J 2:28-3:3",
+   "versiculos": 5,
+   "ini": 204,
+   "fin": 208,
+   "titulo_provisional": "Hijos de Dios: lo que hemos de ser",
+   "unidades": [
+    "1j-hijos"
+   ],
+   "parte": "p8",
+   "peso": 1336
+  },
+  {
+   "dia": 30,
+   "libro": "1J",
+   "desde": "1J 3:4",
+   "hasta": "1J 3:10",
+   "rango": "1J 3:4-10",
+   "versiculos": 7,
+   "ini": 209,
+   "fin": 215,
+   "titulo_provisional": "El que es nacido de Dios no practica el pecado",
+   "unidades": [
+    "1j-pecado"
+   ],
+   "parte": "p8",
+   "peso": 1750
+  },
+  {
+   "dia": 31,
+   "libro": "1J",
+   "desde": "1J 3:11",
+   "hasta": "1J 3:18",
+   "rango": "1J 3:11-18",
+   "versiculos": 8,
+   "ini": 216,
+   "fin": 223,
+   "titulo_provisional": "Caín y el amor de hecho y en verdad",
+   "unidades": [
+    "1j-cain"
+   ],
+   "parte": "p8",
+   "peso": 2000
+  },
+  {
+   "dia": 32,
+   "libro": "1J",
+   "desde": "1J 3:19",
+   "hasta": "1J 3:24",
+   "rango": "1J 3:19-24",
+   "versiculos": 6,
+   "ini": 224,
+   "fin": 229,
+   "titulo_provisional": "Confianza delante de Dios",
+   "unidades": [
     "1j-confianza"
    ],
    "parte": "p8",
-   "peso": 9000
+   "peso": 1500
   },
   {
-   "dia": 9,
+   "dia": 33,
    "libro": "1J",
    "desde": "1J 4:1",
-   "hasta": "1J 5:21",
-   "rango": "1J 4:1-5:21",
-   "versiculos": 42,
+   "hasta": "1J 4:6",
+   "rango": "1J 4:1-6",
+   "versiculos": 6,
    "ini": 230,
-   "fin": 271,
-   "titulo_provisional": "Probad los espíritus y dios es amor y el perfecto amor echa fuera el temor y la fe que vence al mundo y agua, sangre y Espíritu: el testimonio de Dios y para que sepáis que tenéis vida eterna: la oración y sabemos: certezas finales y los ídolos",
+   "fin": 235,
+   "titulo_provisional": "Probad los espíritus",
    "unidades": [
-    "1j-espiritus",
-    "1j-amor",
-    "1j-perfecto",
-    "1j-vence",
-    "1j-testimonio",
+    "1j-espiritus"
+   ],
+   "parte": "p9",
+   "peso": 1500
+  },
+  {
+   "dia": 34,
+   "libro": "1J",
+   "desde": "1J 4:7",
+   "hasta": "1J 4:12",
+   "rango": "1J 4:7-12",
+   "versiculos": 6,
+   "ini": 236,
+   "fin": 241,
+   "titulo_provisional": "Dios es amor",
+   "unidades": [
+    "1j-amor"
+   ],
+   "parte": "p9",
+   "peso": 1500
+  },
+  {
+   "dia": 35,
+   "libro": "1J",
+   "desde": "1J 4:13",
+   "hasta": "1J 4:21",
+   "rango": "1J 4:13-21",
+   "versiculos": 9,
+   "ini": 242,
+   "fin": 250,
+   "titulo_provisional": "El perfecto amor echa fuera el temor",
+   "unidades": [
+    "1j-perfecto"
+   ],
+   "parte": "p9",
+   "peso": 2250
+  },
+  {
+   "dia": 36,
+   "libro": "1J",
+   "desde": "1J 5:1",
+   "hasta": "1J 5:5",
+   "rango": "1J 5:1-5",
+   "versiculos": 5,
+   "ini": 251,
+   "fin": 255,
+   "titulo_provisional": "La fe que vence al mundo",
+   "unidades": [
+    "1j-vence"
+   ],
+   "parte": "p9",
+   "peso": 1250
+  },
+  {
+   "dia": 37,
+   "libro": "1J",
+   "desde": "1J 5:6",
+   "hasta": "1J 5:12",
+   "rango": "1J 5:6-12",
+   "versiculos": 7,
+   "ini": 256,
+   "fin": 262,
+   "titulo_provisional": "Agua, sangre y Espíritu: el testimonio de Dios",
+   "unidades": [
+    "1j-testimonio"
+   ],
+   "parte": "p9",
+   "peso": 1750
+  },
+  {
+   "dia": 38,
+   "libro": "1J",
+   "desde": "1J 5:13",
+   "hasta": "1J 5:21",
+   "rango": "1J 5:13-21",
+   "versiculos": 9,
+   "ini": 263,
+   "fin": 271,
+   "titulo_provisional": "Para que sepáis que tenéis vida eterna: la oración y sabemos: certezas finales y los ídolos",
+   "unidades": [
     "1j-oracion",
     "1j-certezas"
    ],
    "parte": "p9",
-   "peso": 10500
+   "peso": 2250
   },
   {
-   "dia": 10,
-   "libro": "2J+3J",
+   "dia": 39,
+   "libro": "2J",
    "desde": "2J 1",
-   "hasta": "3J 15",
-   "rango": "2J 1-3J 15",
-   "versiculos": 28,
+   "hasta": "2J 6",
+   "rango": "2J 1-6",
+   "versiculos": 6,
    "ini": 272,
-   "fin": 299,
-   "titulo_provisional": "El anciano a la señora elegida y andar en la verdad y en el amor y engañadores: no recibirlos en casa y cara a cara y gayo, el amado, anda en la verdad y colaboradores de la verdad: la hospitalidad y diótrefes, que ama tener el primer lugar y imitar lo bueno: Demetrio y paz a ti",
+   "fin": 277,
+   "titulo_provisional": "El anciano a la señora elegida y andar en la verdad y en el amor",
    "unidades": [
     "2j-saludo",
-    "2j-verdad",
+    "2j-verdad"
+   ],
+   "parte": "p10",
+   "peso": 1500
+  },
+  {
+   "dia": 40,
+   "libro": "2J",
+   "desde": "2J 7",
+   "hasta": "2J 13",
+   "rango": "2J 7-13",
+   "versiculos": 7,
+   "ini": 278,
+   "fin": 284,
+   "titulo_provisional": "Engañadores: no recibirlos en casa y cara a cara",
+   "unidades": [
     "2j-enganadores",
-    "2j-despedida",
+    "2j-despedida"
+   ],
+   "parte": "p10",
+   "peso": 1750
+  },
+  {
+   "dia": 41,
+   "libro": "3J",
+   "desde": "3J 1",
+   "hasta": "3J 10",
+   "rango": "3J 1-10",
+   "versiculos": 10,
+   "ini": 285,
+   "fin": 294,
+   "titulo_provisional": "Gayo, el amado, anda en la verdad y colaboradores de la verdad: la hospitalidad y diótrefes, que ama tener el primer lugar",
+   "unidades": [
     "3j-gayo",
     "3j-hospitalidad",
-    "3j-diotrefes",
+    "3j-diotrefes"
+   ],
+   "parte": "p10",
+   "peso": 2500
+  },
+  {
+   "dia": 42,
+   "libro": "3J",
+   "desde": "3J 11",
+   "hasta": "3J 15",
+   "rango": "3J 11-15",
+   "versiculos": 5,
+   "ini": 295,
+   "fin": 299,
+   "titulo_provisional": "Imitar lo bueno: Demetrio y paz a ti",
+   "unidades": [
     "3j-demetrio",
     "3j-despedida"
    ],
    "parte": "p10",
-   "peso": 7000
+   "peso": 1250
   },
   {
-   "dia": 11,
+   "dia": 43,
    "libro": "Jd",
    "desde": "Jd 1",
-   "hasta": "Jd 25",
-   "rango": "Jd 1-25",
-   "versiculos": 25,
+   "hasta": "Jd 10",
+   "rango": "Jd 1-10",
+   "versiculos": 10,
    "ini": 300,
-   "fin": 324,
-   "titulo_provisional": "Llamados, amados y guardados y contender ardientemente por la fe y israel, los ángeles, Sodoma y Gomorra y soñadores: Miguel y el diablo y caín, Balaam y Coré: nubes sin agua y la profecía de Enoc y vosotros, amados: edificaos, conservaos, tened misericordia y al que es poderoso para guardaros",
+   "fin": 309,
+   "titulo_provisional": "Llamados, amados y guardados y contender ardientemente por la fe y israel, los ángeles, Sodoma y Gomorra y soñadores: Miguel y el diablo",
    "unidades": [
     "jd-saludo",
     "jd-proposito",
     "jd-ejemplos",
-    "jd-sonadores",
+    "jd-sonadores"
+   ],
+   "parte": "p11",
+   "peso": 2500
+  },
+  {
+   "dia": 44,
+   "libro": "Jd",
+   "desde": "Jd 11",
+   "hasta": "Jd 16",
+   "rango": "Jd 11-16",
+   "versiculos": 6,
+   "ini": 310,
+   "fin": 315,
+   "titulo_provisional": "Caín, Balaam y Coré: nubes sin agua y la profecía de Enoc",
+   "unidades": [
     "jd-cain",
-    "jd-enoc",
+    "jd-enoc"
+   ],
+   "parte": "p11",
+   "peso": 1586
+  },
+  {
+   "dia": 45,
+   "libro": "Jd",
+   "desde": "Jd 17",
+   "hasta": "Jd 25",
+   "rango": "Jd 17-25",
+   "versiculos": 9,
+   "ini": 316,
+   "fin": 324,
+   "titulo_provisional": "Vosotros, amados: edificaos, conservaos, tened misericordia y al que es poderoso para guardaros",
+   "unidades": [
     "jd-exhortacion",
     "jd-doxologia"
    ],
    "parte": "p11",
-   "peso": 6250
+   "peso": 2250
   }
  ]
 }

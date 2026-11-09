@@ -50,11 +50,12 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Por su autoridad y su gloria, algunos vieron en este ángel a Cristo. Carballosa y MacArthur responden que es un ángel: Dios inviste a los suyos de autoridad, y «otro» indica uno del mismo tipo que el de 17:1. Quizá sea el que anticipó la caída en 14:8 (MacArthur, Larkin).",
+          "texto": "Por su autoridad y su gloria, algunos vieron en este ángel a Cristo; así lo lee Matthew Henry, que lo ve venir a destruir a sus enemigos y a derramar la luz del evangelio. Carballosa y MacArthur responden que es un ángel: Dios inviste a los suyos de autoridad, y «otro» indica uno del mismo tipo que el de 17:1. Quizá sea el que anticipó la caída en 14:8 (MacArthur, Larkin).",
           "fuentes": [
             "carballosa_14_a#1",
             "macarthur_15_a#14",
-            "larkin_05_b#2"
+            "larkin_05_b#2",
+            "r4_2_01_b#34"
           ],
           "tipo": "personaje"
         },
@@ -137,12 +138,14 @@
       "titulo": "«Salid de ella, pueblo mío»",
       "notas": [
         {
-          "texto": "La orden es urgente: «salid ya» (Carballosa). Repite los llamados de los profetas a huir de la antigua Babilonia (Is 48:20; 52:11; Jer 51:6, 45), y casi todos los autores recuerdan a Lot, sacado de Sodoma antes del fuego (Gn 19). Quién es ese pueblo y si la salida es física o espiritual se discute (ver Interpretaciones).",
+          "texto": "La orden es urgente: «salid ya» (Carballosa). Repite los llamados de los profetas a huir de la antigua Babilonia (Is 48:20; 52:11; Jer 51:6, 45), y casi todos los autores recuerdan a Lot, sacado de Sodoma antes del fuego (Gn 19). Lennox sitúa el llamado en tiempos romanos: salir era renunciar al culto imperial y a los gremios que honraban a dioses paganos, lo mismo que Pablo pedía a Corinto con palabras de Isaías 52:11 (2 Co 6:17). Quién es ese pueblo y si la salida es física o espiritual se discute (ver Interpretaciones).",
           "fuentes": [
             "carballosa_14_a#10",
             "henry_02_b#5",
             "web_11_b#5",
-            "larkin_05_b#18"
+            "larkin_05_b#18",
+            "r4_460_13_b#1",
+            "r4_460_13_b#2"
           ],
           "tipo": "explicacion_texto"
         },
@@ -184,11 +187,12 @@
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "¿Suena a venganza? Ladd lo reconoce y responde: los seguidores del Cordero perdonan y no pagan mal por mal (Ro 12:14, 17), pero eso no anula el juicio de Dios, a quien pertenece la venganza (Ro 12:19). MacArthur y Mundo Hispano coinciden: la retribución no es tarea de los creyentes sino prerrogativa de Dios, el único juez perfecto.",
+          "texto": "¿Suena a venganza? Ladd lo reconoce y responde: los seguidores del Cordero perdonan y no pagan mal por mal (Ro 12:14, 17), pero eso no anula el juicio de Dios, a quien pertenece la venganza (Ro 12:19). MacArthur y Mundo Hispano coinciden: la retribución no es tarea de los creyentes sino prerrogativa de Dios, el único juez perfecto. Lennox deja abiertas dos lecturas: una orden retórica que subraya la retribución, o el Señor que convoca a otros a ejecutar su justo juicio, como llamó a Josué ante los cananeos.",
           "fuentes": [
             "ladd_06_b#14",
             "macarthur_15_a#21",
-            "cbmh_07#13"
+            "cbmh_07#13",
+            "r4_460_13_b#5"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -255,26 +259,49 @@
     {
       "signo": "aves inmundas y aborrecibles",
       "significado": "Imagen profética de desolación total (Is 34:11); MacArthur las ve como demonios que sobrevuelan como aves de carroña.",
-      "refs": ["18:2"],
-      "fuentes": ["macarthur_15_a#15", "ladd_06_b#11"]
+      "refs": [
+        "18:2"
+      ],
+      "fuentes": [
+        "macarthur_15_a#15",
+        "ladd_06_b#11"
+      ]
     },
     {
       "signo": "vino y cáliz",
       "significado": "La copa con que Babilonia embriagó a las naciones; en el versículo 6 se vuelve la copa de la ira que ella misma bebe (Carballosa, Biblia MacArthur).",
-      "refs": ["18:3", "18:6", "17:4"],
-      "fuentes": ["carballosa_14_a#18", "mbiblia_02_d#15"]
+      "refs": [
+        "18:3",
+        "18:6",
+        "17:4"
+      ],
+      "fuentes": [
+        "carballosa_14_a#18",
+        "mbiblia_02_d#15"
+      ]
     },
     {
       "signo": "reina, no viuda",
       "significado": "Autosuficiencia y presunción de estar siempre provista, con eco de Isaías 47 (Mundo Hispano, MacArthur).",
-      "refs": ["18:7"],
-      "fuentes": ["cbmh_07#13", "macarthur_15_a#23"]
+      "refs": [
+        "18:7"
+      ],
+      "fuentes": [
+        "cbmh_07#13",
+        "macarthur_15_a#23"
+      ]
     },
     {
       "signo": "un solo día",
       "significado": "Lo repentino del juicio: según la Biblia MacArthur, un período breve y vertiginoso.",
-      "refs": ["18:8", "18:10", "18:19"],
-      "fuentes": ["mbiblia_02_d#17"]
+      "refs": [
+        "18:8",
+        "18:10",
+        "18:19"
+      ],
+      "fuentes": [
+        "mbiblia_02_d#17"
+      ]
     }
   ],
   "palabras": [
@@ -283,54 +310,78 @@
       "griego": "ἔπεσεν",
       "translit": "épesen",
       "significado": "«Ha caído»: aoristo profético; el hecho futuro se anuncia como cumplido porque es seguro (Carballosa).",
-      "fuentes": ["carballosa_14_a#4"]
+      "fuentes": [
+        "carballosa_14_a#4"
+      ]
     },
     {
       "ref": "18:2",
       "griego": "φυλακή",
       "translit": "phylakḗ",
       "significado": "«Guarida», pero también prisión: para Carballosa, los demonios están allí contra su voluntad.",
-      "fuentes": ["carballosa_14_a#5"]
+      "fuentes": [
+        "carballosa_14_a#5"
+      ]
     },
     {
       "ref": "18:3",
       "griego": "ἔμποροι",
       "translit": "émporoi",
       "significado": "«Mercaderes»: los que viajan para comerciar; intermediarios, no productores (McGee, Carballosa).",
-      "fuentes": ["carballosa_14_a#8", "mcgee_10_a#13"]
+      "fuentes": [
+        "carballosa_14_a#8",
+        "mcgee_10_a#13"
+      ]
     },
     {
       "ref": "18:4",
       "griego": "ἐξέλθατε",
       "translit": "exélthate",
       "significado": "«Salid»: aoristo imperativo, mandato urgente (Carballosa).",
-      "fuentes": ["carballosa_14_a#10"]
+      "fuentes": [
+        "carballosa_14_a#10"
+      ]
     },
     {
       "ref": "18:5",
       "griego": "ἐκολλήθησαν",
       "translit": "ekollḗthēsan",
       "significado": "«Han llegado»: de kolláō, «pegar, encolar»; pecados adheridos unos a otros (Carballosa, MacArthur).",
-      "fuentes": ["carballosa_14_a#13", "macarthur_15_a#19"]
+      "fuentes": [
+        "carballosa_14_a#13",
+        "macarthur_15_a#19"
+      ]
     },
     {
       "ref": "18:6",
       "griego": "διπλώσατε τὰ διπλᾶ",
       "translit": "diplṓsate tà diplâ",
       "significado": "«Dobladle el doble»: para Carballosa, siguiendo a Thomas, compensación total y exacta.",
-      "fuentes": ["carballosa_14_a#17"]
+      "fuentes": [
+        "carballosa_14_a#17"
+      ]
     }
   ],
   "cristo": [
     {
       "texto": "El ángel brilla, pero no es el centro: en el Apocalipsis el Mesías es el Cordero inmolado, Rey de reyes, y los ángeles cumplen su voluntad con la autoridad y la gloria que él les da (Carballosa).",
-      "refs": ["Ap 19:16"],
-      "fuentes": ["carballosa_14_a#1"]
+      "refs": [
+        "Ap 19:16"
+      ],
+      "fuentes": [
+        "carballosa_14_a#1"
+      ]
     },
     {
       "texto": "McGee oye en «pueblo mío» la voz del mismo Hijo de Dios, como el pastor de Lucas 15 que no pierde ninguna de sus ovejas. Y une el juicio de Babilonia con el regreso de Cristo (Is 63:1-4).",
-      "refs": ["Lc 15:4-7", "Is 63:1-4"],
-      "fuentes": ["mcgee_10_a#14", "mcgee_10_a#16"]
+      "refs": [
+        "Lc 15:4-7",
+        "Is 63:1-4"
+      ],
+      "fuentes": [
+        "mcgee_10_a#14",
+        "mcgee_10_a#16"
+      ]
     }
   ],
   "interpretaciones": [
@@ -340,35 +391,61 @@
         {
           "postura": "Roma: para los primeros lectores lo era indiscutiblemente; la caída sería la del imperio.",
           "quien": "Lectura preterista expuesta por Earle (Beacon); Beasley-Murray (premilenial histórico) lee el capítulo como juicio sobre Roma",
-          "fuentes": ["beacon_04_b#31", "beacon_05_a#1", "henry_02_b#5"]
+          "fuentes": [
+            "beacon_04_b#31",
+            "beacon_05_a#1",
+            "henry_02_b#5"
+          ]
         },
         {
           "postura": "La Roma papal.",
           "quien": "Barnes (historicista), citado por Earle",
-          "fuentes": ["beacon_04_b#31"]
+          "fuentes": [
+            "beacon_04_b#31"
+          ]
         },
         {
           "postura": "Una ciudad literal futura junto al Éufrates, la misma de 14:8 y 17.",
-          "quien": "Carballosa, McGee, Seiss y Newell (futuristas); Larkin, que la distingue de la Babilonia religiosa del capítulo 17",
-          "fuentes": ["carballosa_14_a#2", "mcgee_10_a#12", "beacon_05_a#1", "larkin_05_b#2"]
+          "quien": "Carballosa, McGee, Seiss y Newell (futuristas); Larkin, que la distingue de la Babilonia religiosa del capítulo 17; Hitchcock, siguiendo a Walvoord, porque Isaías 13 y Jeremías 50-51 piden una destrucción literal todavía no cumplida",
+          "fuentes": [
+            "carballosa_14_a#2",
+            "mcgee_10_a#12",
+            "beacon_05_a#1",
+            "larkin_05_b#2",
+            "r4_442_04#13"
+          ]
         },
         {
           "postura": "El sistema del capítulo 17 en su cara comercial y materialista.",
           "quien": "MacArthur y la Biblia MacArthur (premileniales dispensacionales)",
-          "fuentes": ["macarthur_15_a#14", "mbiblia_02_d#12"]
+          "fuentes": [
+            "macarthur_15_a#14",
+            "mbiblia_02_d#12"
+          ]
         },
         {
           "postura": "Una federación de potencias mundiales bajo un dictador al final de esta era.",
           "quien": "Earle (Beacon), que juzga absurda la reconstrucción literal",
-          "fuentes": ["beacon_05_a#1"]
+          "fuentes": [
+            "beacon_05_a#1"
+          ]
+        },
+        {
+          "postura": "Un cristianismo apóstata. Contra Roma objeta que el Tíber nunca admitió un tráfico marítimo así y que la Roma pagana no fue un centro comercial.",
+          "quien": "Comentario Moody (Harrison), que también reseña Jerusalén (Weidner, Kiddle), Londres o París",
+          "fuentes": [
+            "r4_225_02_b#7"
+          ]
         },
         {
           "postura": "Roma, pero como símbolo de todo lo que se opone a Dios.",
           "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
-          "fuentes": ["cbmh_07#11"]
+          "fuentes": [
+            "cbmh_07#11"
+          ]
         }
       ],
-      "nota": "Carballosa y Larkin argumentan que la antigua Babilonia nunca cayó en un día: decayó de a poco. Lo que nadie discute: Dios juzga el sistema que sedujo a las naciones. Ver anexo T10."
+      "nota": "Carballosa, Larkin y Hitchcock argumentan que la antigua Babilonia nunca cayó en un día: decayó de a poco tras la conquista persa y, según Hitchcock, subsistió hasta alrededor del año 1000 d. C. Lo que nadie discute: Dios juzga el sistema que sedujo a las naciones. Ver anexo T10."
     },
     {
       "tema": "¿Quién es «pueblo mío» y cómo se sale?",
@@ -376,22 +453,34 @@
         {
           "postura": "Los creyentes de la tribulación, que huyen de una ciudad literal y de su idolatría.",
           "quien": "Carballosa y MacArthur (premileniales dispensacionales)",
-          "fuentes": ["carballosa_14_a#10", "macarthur_15_a#17"]
+          "fuentes": [
+            "carballosa_14_a#10",
+            "macarthur_15_a#17"
+          ]
         },
         {
           "postura": "No la iglesia, ya arrebatada, sino el pueblo de Dios en la tribulación (los 144.000).",
           "quien": "McGee (pretribulacional)",
-          "fuentes": ["mcgee_10_a#14"]
+          "fuentes": [
+            "mcgee_10_a#14"
+          ]
         },
         {
           "postura": "La iglesia en la tribulación: el llamado muestra que el martirio no será total.",
           "quien": "Ladd (premilenial histórico, postribulacional)",
-          "fuentes": ["ladd_06_b#13"]
+          "fuentes": [
+            "ladd_06_b#13"
+          ]
         },
         {
           "postura": "Todo cristiano, llamado a salir del espíritu del mundo: santidad, no huida geográfica.",
           "quien": "Earle (Beacon), Mundo Hispano, Nathan Díaz (Coalición) y Wiersbe",
-          "fuentes": ["beacon_05_a#3", "cbmh_07#12", "cpe_07#10", "r2_016#20"]
+          "fuentes": [
+            "beacon_05_a#3",
+            "cbmh_07#12",
+            "cpe_07#10",
+            "r2_016#20"
+          ]
         }
       ],
       "nota": "Aun quienes ven una huida futura lo aplican hoy: Dios llama en toda generación a no conformarse al mundo (Carballosa, MacArthur)."
@@ -402,17 +491,27 @@
         {
           "postura": "Castigo pleno, el equivalente exacto de sus obras.",
           "quien": "Carballosa (con Thomas), Ladd, Biblia MacArthur",
-          "fuentes": ["carballosa_14_a#17", "ladd_06_b#14", "mbiblia_02_d#15"]
+          "fuentes": [
+            "carballosa_14_a#17",
+            "ladd_06_b#14",
+            "mbiblia_02_d#15"
+          ]
         },
         {
           "postura": "Doble porción de castigo.",
           "quien": "Grau y Sánchez García, según Carballosa; MacArthur habla de doble porción de ira",
-          "fuentes": ["carballosa_14_a#17", "macarthur_15_a#22"]
+          "fuentes": [
+            "carballosa_14_a#17",
+            "macarthur_15_a#22"
+          ]
         },
         {
           "postura": "Eco de la restitución doble por robo (Éx 22:4-9).",
           "quien": "Earle y Guzik",
-          "fuentes": ["beacon_05_a#4", "web_11_b#6"]
+          "fuentes": [
+            "beacon_05_a#4",
+            "web_11_b#6"
+          ]
         }
       ],
       "nota": "Todos coinciden: el castigo se ajusta al delito y lo ejecuta Dios."
@@ -431,36 +530,60 @@
     {
       "ref": "Is 47:7-9",
       "nota": "La antigua Babilonia se creía señora para siempre; Dios le anunció viudez en un día. Fuente de 18:7-8.",
-      "fuentes": ["ladd_06_b#15", "carballosa_14_a#21"]
+      "fuentes": [
+        "ladd_06_b#15",
+        "carballosa_14_a#21"
+      ]
     },
     {
       "ref": "Jer 51:6-9",
       "nota": "Huir de Babilonia, pecados que llegan al cielo: Juan depende de Jeremías 50-51.",
-      "fuentes": ["ladd_06_b#13", "carballosa_14_a#15"]
+      "fuentes": [
+        "ladd_06_b#13",
+        "carballosa_14_a#15"
+      ]
     },
     {
       "ref": "Gn 19:12-22",
       "nota": "Lot sacado de Sodoma antes del fuego.",
-      "fuentes": ["macarthur_15_a#18", "larkin_05_b#18"]
+      "fuentes": [
+        "macarthur_15_a#18",
+        "larkin_05_b#18"
+      ]
     },
     {
       "ref": "2 Co 6:14-17",
       "nota": "Pablo aplica a la iglesia el llamado profético a apartarse.",
-      "fuentes": ["carballosa_14_a#10", "macarthur_15_a#18"]
+      "fuentes": [
+        "carballosa_14_a#10",
+        "macarthur_15_a#18"
+      ]
     }
   ],
   "para_vivir": [
     {
       "texto": "Guzik advierte que la Babilonia comercial, con su señuelo material, es una amenaza constante. Revisen juntos dónde los atrapa: el lujo como seguridad, el estatus, un trabajo que no deja tiempo para Dios (McGee).",
-      "fuentes": ["web_11_b#5", "mcgee_10_a#13"]
+      "fuentes": [
+        "web_11_b#5",
+        "mcgee_10_a#13"
+      ]
     },
     {
-      "texto": "Salir no es mudarse: es vivir en santidad donde Dios los puso, como Daniel en Babilonia (Díaz), sin conformarse al mundo (Ro 12:2; 1 Jn 2:15; MacArthur). Empieza por confesar el propio pecado: decir lo mismo que Dios dice de él, sin excusas (McGee).",
-      "fuentes": ["cpe_07#10", "macarthur_15_a#18", "mcgee_10_a#15"]
+      "texto": "Salir no es mudarse: es vivir en santidad donde Dios los puso, como Daniel en Babilonia (Díaz). Lennox lo resume: Daniel resolvió desde el principio no contaminarse con la mesa del rey (Dn 1:8); “vivió en Babilonia, pero Babilonia no vivió en él”. A veces sí hay que irse físicamente de un ambiente que compromete; otras, Pablo advierte que evitarlo todo sería «salir del mundo» (1 Co 5:10). Se trata de no conformarse al mundo (Ro 12:2; 1 Jn 2:15; MacArthur). Empieza por confesar el propio pecado: decir lo mismo que Dios dice de él, sin excusas (McGee).",
+      "fuentes": [
+        "cpe_07#10",
+        "macarthur_15_a#18",
+        "mcgee_10_a#15",
+        "r4_460_13_b#3",
+        "r4_460_13_b#2"
+      ]
     },
     {
       "texto": "Cuando la injusticia parezca ganar, recuerden el versículo 5: Dios no se olvida. Perdonar les toca a ustedes; pagar, a Dios (Ro 12:19).",
-      "fuentes": ["cbmh_07#12", "macarthur_15_a#21"]
+      "fuentes": [
+        "cbmh_07#12",
+        "macarthur_15_a#21"
+      ]
     }
   ],
   "para_conversar": [
@@ -469,28 +592,59 @@
     "De las tres frases de 18:7 (reina, no viuda, no veré llanto), ¿cuál los tienta más? ¿Cómo cultivar juntos la humildad?"
   ],
   "para_orar": "Señor poderoso, que juzgas con justicia, gracias porque no te olvidas de ningún mal y, por tu gracia, no te acuerdas de nuestros pecados. Cuando el mundo nos ofrezca su vino, haznos oír tu voz que nos llama «pueblo mío». Líbranos del orgullo que dice «estoy sentada como reina» y danos corazones humildes que esperen en ti.",
-  "visuales": ["dg-ramera", "dg-escuelas"],
-  "anexos": ["T10", "P8", "T4", "I4"],
+  "visuales": [
+    "dg-ramera",
+    "dg-escuelas"
+  ],
+  "anexos": [
+    "T10",
+    "P8",
+    "T4",
+    "I4"
+  ],
   "profundizar": [
     {
       "titulo": "¿A quién se dirige «Dadle»?",
       "texto": "Ladd piensa en los ángeles de la retribución; Mundo Hispano, en servidores anónimos; Beasley-Murray se pregunta si no son los ejércitos de la bestia y sus aliados que en 17:16 queman a la ramera; MacArthur y la Biblia MacArthur entienden que el ángel habla a Dios, como los mártires en 6:9-10. Carballosa: Dios es el origen y los diez reyes el instrumento, como antes usó a Ciro.",
-      "fuentes": ["ladd_06_b#14", "cbmh_07#13", "henry_02_b#5", "macarthur_15_a#20", "mbiblia_02_d#15", "carballosa_14_a#15"]
+      "fuentes": [
+        "ladd_06_b#14",
+        "cbmh_07#13",
+        "henry_02_b#5",
+        "macarthur_15_a#20",
+        "mbiblia_02_d#15",
+        "carballosa_14_a#15"
+      ]
     },
     {
       "titulo": "Lecturas literales de la «habitación de demonios»",
       "texto": "MacArthur piensa que allí serán reunidos los demonios liberados junto al Éufrates en la sexta trompeta (9:13-16) y los demás, antes de que Dios disponga de ellos. McGee y Larkin, que será la cárcel de los demonios durante el milenio; Larkin la imagina además como sede del ocultismo antes de su caída. Carballosa contrasta: Jerusalén, habitada por los santos (Is 2:1-4); Babilonia, un desierto de lo inmundo.",
-      "fuentes": ["macarthur_15_a#15", "mcgee_10_a#12", "larkin_05_b#17", "carballosa_14_a#5"]
+      "fuentes": [
+        "macarthur_15_a#15",
+        "mcgee_10_a#12",
+        "larkin_05_b#17",
+        "carballosa_14_a#5"
+      ]
     },
     {
       "titulo": "Larkin: la historia de la antigua Babilonia y sus conjeturas",
-      "texto": "Larkin muestra que la ciudad nunca fue destruida de golpe: Ciro la tomó sin destruirla, Alejandro quiso hacerla su capital, Seleucia la fue vaciando y siguió habitada (Pedro escribió desde «Babilonia», 1 P 5:13). Sostiene que profecías como Isaías 13:20 y Jeremías 51:26 todavía no se cumplieron, y en 1919 veía señales de una reconstrucción (planes de Napoleón, el ferrocarril de Bagdad). Son argumentos y conjeturas del autor, propios de su época.",
-      "fuentes": ["larkin_05_b#7", "larkin_05_b#8", "larkin_05_b#9", "larkin_05_b#14"]
+      "texto": "Larkin muestra que la ciudad nunca fue destruida de golpe: Ciro la tomó sin destruirla, Alejandro quiso hacerla su capital, Seleucia la fue vaciando y siguió habitada (Pedro escribió desde «Babilonia», 1 P 5:13). Sostiene que profecías como Isaías 13:20 y Jeremías 51:26 todavía no se cumplieron, y en 1919 veía señales de una reconstrucción (planes de Napoleón, el ferrocarril de Bagdad). Son argumentos y conjeturas del autor, propios de su época. Hitchcock suma dos argumentos en la misma línea: Isaías 14:1-3 liga la caída final de Babilonia con la restauración de Israel, y en Zacarías 5:5-10 la maldad es llevada «a la tierra de Babilonia» después de la caída del imperio; por eso espera una reconstrucción futura.",
+      "fuentes": [
+        "larkin_05_b#7",
+        "larkin_05_b#8",
+        "larkin_05_b#9",
+        "larkin_05_b#14",
+        "r4_442_04#14"
+      ]
     },
     {
       "titulo": "Palabras griegas para seguir estudiando",
       "texto": "«Después de esto» (metà taûta) marca, para Carballosa, el orden de las visiones; «otro» (állos) es otro del mismo tipo (MacArthur); «deleites» (strḗnos) es lujo insolente, palabra que solo aparece en este capítulo (Earle); «será quemada» (katakauthḗsetai) es consumida por completo (Carballosa).",
-      "fuentes": ["carballosa_13_b#32", "macarthur_15_a#14", "beacon_05_a#2", "carballosa_14_a#22"]
+      "fuentes": [
+        "carballosa_13_b#32",
+        "macarthur_15_a#14",
+        "beacon_05_a#2",
+        "carballosa_14_a#22"
+      ]
     }
   ]
 }

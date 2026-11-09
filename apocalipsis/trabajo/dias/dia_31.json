@@ -69,7 +69,7 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "MacArthur nombra la fuerza que domina este sello: el temor. Tituló sus sermones sobre el pasaje “Aterrados” y “Muertos de miedo”.",
+          "texto": "MacArthur nombra la fuerza que domina este sello: el temor.",
           "fuentes": [
             "macarthur_06_b#22",
             "web_15#1",
@@ -131,9 +131,10 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Ladd da la clave teológica: el lenguaje cósmico muestra que la creación depende de Dios y comparte el destino del hombre, bajo violencia, decadencia y muerte, necesitada también de salvación. De esas ruinas surgirán los nuevos cielos y la nueva tierra (21:1).",
+          "texto": "Ladd da la clave teológica: el lenguaje cósmico muestra que la creación depende de Dios y comparte el destino del hombre, bajo violencia, decadencia y muerte, necesitada también de salvación. De esas ruinas surgirán los nuevos cielos y la nueva tierra (21:1). Lennox advierte que el simbolismo no autoriza a no tomarlo en serio: Pedro, en una carta práctica y nada simbólica, anuncia la disolución real del cosmos y saca de ahí cómo vivir en santidad (2 P 3:10-13).",
           "fuentes": [
-            "ladd_03_a#41"
+            "ladd_03_a#41",
+            "r4_460_08_a#4"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -188,12 +189,13 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "Lo que más temen no es la muerte sino la presencia de Dios (Swete, citado por Guzik; Carballosa, que escucha el eco de Adán escondiéndose en Génesis 3:8). Ryrie dice que el pánico viene de ver a Dios en su trono. El «rostro» es la presencia misma de Dios, demasiado santa para el pecador (Éx 33:20-23; Is 6:5): Dios bendice alzando su rostro sobre sus hijos y juzga volviéndolo hacia los impíos (Mundo Hispano).",
+          "texto": "Lo que más temen no es la muerte sino la presencia de Dios (Swete, citado por Guzik; Carballosa, que escucha el eco de Adán escondiéndose en Génesis 3:8). Ryrie dice que el pánico viene de ver a Dios en su trono. El «rostro» es la presencia misma de Dios, demasiado santa para el pecador (Éx 33:20-23; Is 6:5): Dios bendice alzando su rostro sobre sus hijos y juzga volviéndolo hacia los impíos (Mundo Hispano). Lennox cita a C. S. Lewis: ese Rostro, deleite o terror del universo, se volverá hacia cada uno, con gloria o con una vergüenza que no se podrá disimular.",
           "fuentes": [
             "web_10_b#11",
             "carballosa_06#14",
             "r1_032#12",
-            "cbmh_04#43"
+            "cbmh_04#43",
+            "r4_460_07_b#25"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -349,28 +351,31 @@
   ],
   "cristo": [
     {
-      "texto": "«La ira del Cordero» es una paradoja (Earle, McGee, Kœchlin). McGee la resuelve: el cordero representa a Cristo, manso (Mt 11:28-29), pero Dios es santo y aborrece el mal, no por venganza; y la ira de Cristo no es nueva: echó a los cambistas del templo y lloró sobre Jerusalén. Geisler y Howe lo resumen: el que murió como Cordero vuelve como León.",
+      "texto": "«La ira del Cordero» es una paradoja (Earle, McGee, Kœchlin). McGee la resuelve: el cordero representa a Cristo, manso (Mt 11:28-29), pero Dios es santo y aborrece el mal, no por venganza; y la ira de Cristo no es nueva: echó a los cambistas del templo y lloró sobre Jerusalén. Geisler y Howe lo resumen: el que murió como Cordero vuelve como León. Lennox nota que “ira de un león” sonaría más lógico, pero se perdería lo central: juzga el Cordero cuya muerte es refugio de la ira para quien confía en él (1 Ts 1:10). Y esa ira no es un arrebato: es la respuesta medida y justa de Dios al mal (Ro 1:18).",
       "refs": [
         "Mt 11:28-29",
-        "Sal 2:10-12"
+        "Sal 2:10-12",
+        "1 Ts 1:10"
       ],
       "fuentes": [
         "beacon_03_b#7",
         "mcgee_05_a#11",
         "mcgeer_05#29",
         "r2_023_b#2",
-        "r1_001#13"
+        "r1_001#13",
+        "r4_460_07_b#26"
       ]
     },
     {
-      "texto": "Es la ira del que se entregó. Carballosa cita a Grau: “Es la ira del amor, del amor despreciado, pisoteado una y mil veces.” Lo trágico es que los hombres huyen del único que puede salvarlos (Jn 1:29). Wiersbe lo aplica: los que hoy no quieren mirar el rostro de Jesús para ser salvos un día tratarán de esconderse de él; prefieren las rocas antes que la Roca.",
+      "texto": "Es la ira del que se entregó. Carballosa cita a Grau: “Es la ira del amor, del amor despreciado, pisoteado una y mil veces.” Lo trágico es que los hombres huyen del único que puede salvarlos (Jn 1:29). Wiersbe lo aplica: los que hoy no quieren mirar el rostro de Jesús para ser salvos un día tratarán de esconderse de él; prefieren las rocas antes que la Roca. Henry lo dice así: si el enemigo es el mismo Redentor, no queda otro amigo que interceda por nosotros.",
       "refs": [
         "Jn 1:29"
       ],
       "fuentes": [
         "carballosa_06#14",
         "r2_017#22",
-        "r1_024_b#18"
+        "r1_024_b#18",
+        "r4_2_01_a#43"
       ]
     },
     {
@@ -411,12 +416,22 @@
           ]
         },
         {
+          "postura": "Catástrofes físicas reales cuyo mecanismo no sabemos: efectos de una guerra que Dios permite sin orquestarla, o intervención directa de Dios, que le parece más razonable por analogía con el cumplimiento sobrenatural de Joel en Pentecostés. Las leyes naturales describen lo habitual; no impiden que el Creador actúe.",
+          "quien": "Lennox, que no quiere ser dogmático",
+          "fuentes": [
+            "r4_460_08_a#1",
+            "r4_460_08_a#2",
+            "r4_460_07_b#29"
+          ]
+        },
+        {
           "postura": "Lenguaje simbólico: el estilo de las manifestaciones de Dios o la caída de poderes políticos; Kœchlin piensa en una revolución que derriba a las autoridades.",
-          "quien": "Grau (expone dos lecturas simbólicas); Kœchlin; Adam Clarke (historicista, según Guzik) lo refirió a la conversión de Constantino",
+          "quien": "Grau (expone dos lecturas simbólicas); Kœchlin; Adam Clarke (historicista, según Guzik) lo refirió a la conversión de Constantino; Matthew Henry, para quien el terremoto sacude los cimientos de iglesias y estados y parece representar la caída del paganismo romano, sin dejar de ser emblema del juicio final",
           "fuentes": [
             "r1_013#10",
             "r2_023_b#2",
-            "web_10_b#11"
+            "web_10_b#11",
+            "r4_2_01_a#43"
           ]
         }
       ],
@@ -427,44 +442,50 @@
       "posturas": [
         {
           "postura": "El sexto sello inaugura el día del Señor, con la intervención directa de Dios, dentro de una tribulación futura; Carballosa lo ubica al final de la primera mitad de la semana setenta y McGee al comienzo de la segunda.",
-          "quien": "MacArthur, la Biblia MacArthur, Carballosa, McGee y Ryrie (premileniales dispensacionales)",
+          "quien": "MacArthur, la Biblia MacArthur, Carballosa, McGee y Ryrie (premileniales dispensacionales); Walvoord, que lo apoya en el aoristo «ha llegado»",
           "fuentes": [
             "mbiblia_01_c#18",
             "mbiblia_01_c#23",
             "web_15#6",
             "carballosa_06#10",
             "mcgee_05_a#9",
-            "r1_032#29"
+            "r1_032#29",
+            "r4_450_03#9",
+            "r4_450_05#8"
           ]
         },
         {
           "postura": "Lleva al umbral del fin, en paralelo con Mateo 24:29: después de la gran tribulación y antes de que aparezca el Hijo del Hombre.",
-          "quien": "Ladd (premilenial histórico, postribulacional)",
+          "quien": "Ladd (premilenial histórico, postribulacional); Lennox: más intenso que los sellos anteriores, pero todavía no el día de la ira propiamente dicho",
           "fuentes": [
             "ladd_03_a#40",
-            "ladd_03_a#44"
+            "ladd_03_a#44",
+            "r4_460_07_b#28"
           ]
         },
         {
           "postura": "«El gran día de su ira ha llegado» es la reacción de los impíos, no la voz de Juan; la ira de Dios comienza en la séptima trompeta (11:18).",
-          "quien": "Buswell (historicista)",
+          "quien": "Buswell (historicista); Harrison, según Walvoord, que lo rebate",
           "fuentes": [
-            "r1_009#19"
+            "r1_009#19",
+            "r4_450_03#9"
           ]
         },
         {
           "postura": "Las señales cósmicas no son advertencias previas sino parte de la venida misma del Señor: ya no hay oportunidad.",
-          "quien": "José Grau",
+          "quien": "José Grau; Graham identifica el sexto sello con el juicio final",
           "fuentes": [
-            "r1_013#10"
+            "r1_013#10",
+            "r4_451_05_b#25"
           ]
         },
         {
           "postura": "“Ya, pero todavía no”: el día de la ira tuvo anticipos históricos (Jerusalén en el año 70, la caída de Roma) y tendrá su cumplimiento definitivo en el juicio final.",
-          "quien": "Comentario Bíblico Mundo Hispano (idealista), siguiendo a Stam",
+          "quien": "Comentario Bíblico Mundo Hispano (idealista), siguiendo a Stam; Lennox ve el mismo patrón de cumplimientos por etapas en Sofonías 1:14-18",
           "fuentes": [
             "cbmh_04#46",
-            "cbmh_04#47"
+            "cbmh_04#47",
+            "r4_460_07_b#27"
           ]
         }
       ],
@@ -475,11 +496,13 @@
       "posturas": [
         {
           "postura": "La iglesia será librada de ese tiempo (3:10; 1 Ts 1:10; 5:9), aunque multitudes se salvarán en medio de él (7:9).",
-          "quien": "MacArthur y Benware (pretribulacionales); Vila, como opinión del compilador",
+          "quien": "MacArthur y Benware (pretribulacionales); Vila, como opinión del compilador; Walvoord (1 Ts 5:9; Ro 5:9)",
           "fuentes": [
             "macarthur_06_b#39",
             "r1_006#9",
-            "r2_015#22"
+            "r2_015#22",
+            "r4_450_02#12",
+            "r4_450_06#23"
           ]
         },
         {
@@ -526,6 +549,13 @@
       ]
     },
     {
+      "ref": "Hag 2:6; He 12:26-29",
+      "nota": "Dios sacudirá cielos y tierra «una vez más»; Hebreos explica que se remueve lo que puede ser sacudido para que quede lo inconmovible, y llama a servir a Dios con reverencia (Lennox).",
+      "fuentes": [
+        "r4_460_08_a#3"
+      ]
+    },
+    {
       "ref": "Jl 2:31",
       "nota": "El sol en tinieblas y la luna en sangre antes del día grande; Pedro lo cita en Hechos 2:20.",
       "fuentes": [
@@ -565,6 +595,12 @@
       "fuentes": [
         "cbmh_04#42",
         "r1_024_b#18"
+      ]
+    },
+    {
+      "texto": "Los que huyen creen que Dios es su enemigo: es la vieja mentira del Edén, que hizo esconderse a Adán y Eva. Lennox recuerda que los capítulos 4 y 5 muestran lo contrario: quien conoce al Cordero no puede pensar que Dios está en su contra. Ayuden a otros a corregir esa imagen falsa de Dios.",
+      "fuentes": [
+        "r4_460_08_a#5"
       ]
     },
     {
@@ -613,14 +649,16 @@
     },
     {
       "titulo": "MacArthur y las posibles causas naturales",
-      "texto": "MacArthur cita a Henry M. Morris: el terremoto sería por primera vez de alcance mundial, la red de fallas de la corteza (según Morris, un remanente del diluvio) se quebraría con erupciones volcánicas que oscurecerían el sol y teñirían la luna de rojo, y grandes segmentos de la corteza podrían deslizarse. La Biblia MacArthur habla de placas tectónicas que cambiarían la configuración de los continentes. En sus sermones MacArthur llega a sugerir que el sol mismo podría estar desintegrándose y cita un artículo de Newsweek (23-11-1992) sobre asteroides. McGee, por su parte, cita al profesor R. A. Daley: trece millones de muertos por terremotos en 4.000 años. Son explicaciones posibles que estos autores proponen, no lo que el texto afirma.",
+      "texto": "MacArthur cita a Henry M. Morris: el terremoto sería por primera vez de alcance mundial, la red de fallas de la corteza (según Morris, un remanente del diluvio) se quebraría con erupciones volcánicas que oscurecerían el sol y teñirían la luna de rojo, y grandes segmentos de la corteza podrían deslizarse. La Biblia MacArthur habla de placas tectónicas que cambiarían la configuración de los continentes. En sus sermones MacArthur llega a sugerir que el sol mismo podría estar desintegrándose y cita un artículo de Newsweek (23-11-1992) sobre asteroides. McGee, por su parte, cita al profesor R. A. Daley: trece millones de muertos por terremotos en 4.000 años. Lennox recoge la sugerencia de Robert E. D. Clark: apariencias vistas desde la tierra, causadas por volcanes, movimientos de placas o, más plausible para Clark, una guerra nuclear (polvo que oscurece el sol, luna rojiza, misiles que parecen estrellas fugaces); Lennox se pregunta si no se lee todo demasiado literalmente. El Comentario Moody, en cambio, advierte contra las especulaciones publicadas desde el Sputnik: las señales de la profecía son intervención directa de Dios, no fenómenos hechos por el hombre. Son explicaciones posibles que estos autores proponen, no lo que el texto afirma.",
       "fuentes": [
         "macarthur_06_b#27",
         "macarthur_06_b#31",
         "mbiblia_01_c#19",
         "mbiblia_01_c#21",
         "web_15#5",
-        "mcgee_05_a#10"
+        "mcgee_05_a#10",
+        "r4_460_07_b#29",
+        "r4_225_01_b#45"
       ]
     },
     {

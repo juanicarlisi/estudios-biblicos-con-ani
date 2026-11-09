@@ -9,9 +9,9 @@
   },
   "contexto": {
     "antes": "Ayer (3:14-17) Cristo se presentó como el Amén, el testigo fiel y verdadero, y le dio a Laodicea el diagnóstico más duro de las siete cartas: tibia como el agua que le llegaba por acueducto, y convencida de ser rica cuando era pobre, ciega y desnuda. No había persecución ni herejías: el problema era el orgullo autosuficiente.",
-    "ahora": "Llega el remedio. Carballosa ordena el cierre de la carta así: exhortación (3:18), advertencia sobre la disciplina (3:19), promesa (3:20-21) y llamado a escuchar al Espíritu (3:22).",
-    "donde": "Laodicea, en el valle del río Lico, sobre una gran ruta comercial, a unas cinco millas de Hierápolis y diez de Colosas. Era centro bancario, fabricaba telas de una lana negra brillante y tenía una escuela de medicina famosa por un ungüento para los ojos.",
-    "cuando": "Según Benware, que sigue a Hitchcock, un terremoto devastó la ciudad en el año 60 y la reconstrucción llevó una generación: la Laodicea rica y satisfecha cuadra mejor con el año 95.",
+    "ahora": "Llega el remedio. Carballosa ordena el cierre de la carta en exhortación (3:18), advertencia (3:19), promesa (3:20-21) y llamado a oír (3:22).",
+    "donde": "Laodicea, en el valle del río Lico, sobre una gran ruta comercial, a unas cinco millas de Hierápolis y diez de Colosas.",
+    "cuando": "Un terremoto devastó la ciudad en el año 60; según Tácito, citado por Hitchcock y Lennox, se reconstruyó con sus propios recursos, sin ayuda de Roma, y la obra llevó una generación. Por eso Hitchcock y Benware creen que la Laodicea rica y satisfecha cuadra mejor con el año 95.",
     "despues": "Con 3:22 terminan las siete cartas. Mañana (4:1-3) Juan ve el trono en el cielo; McGee nota que el «me he sentado con mi Padre en su trono» de 3:21 prepara esa escena.",
     "fuentes": [
       "web_19#1",
@@ -22,7 +22,9 @@
       "mcgee_03_b#20",
       "r1_005#21",
       "mcgee_03_b#38",
-      "mcgeer_04#10"
+      "mcgeer_04#10",
+      "r4_442_01#18",
+      "r4_460_05_b#20"
     ]
   },
   "versiculo_clave": {
@@ -30,10 +32,9 @@
     "porque": "La invitación más tierna y la promesa más alta de las siete cartas, dirigidas a la iglesia que peor estaba: Cristo afuera golpeando la puerta, una mesa compartida y un trono compartido."
   },
   "panorama": {
-    "texto": "Ninguna iglesia recibió un diagnóstico tan duro como Laodicea, y ninguna una oferta tan generosa: Mundo Hispano la llama a la vez la carta más dura y la más blanda. Cristo no la destruye en el acto. Le aconseja comprarle a él, sin dinero, justo lo que la ciudad creía tener de sobra; le explica que la reprende porque la quiere; se presenta afuera, golpeando la puerta, listo para sentarse a la mesa con el que abra; y promete al vencedor un lugar en su trono. Juan Stam lo resume: a la peor congregación, la invitación más enternecedora y la promesa más exaltada de estos dos capítulos.",
+    "texto": "Ninguna iglesia recibió un diagnóstico tan duro como Laodicea, y ninguna una oferta tan generosa: Mundo Hispano la llama a la vez la carta más dura y la más blanda. Cristo no la destruye en el acto. Le aconseja comprarle a él, sin dinero, justo lo que la ciudad creía tener de sobra; le explica que la reprende porque la quiere; se presenta afuera, golpeando la puerta, listo para sentarse a la mesa con el que abra; y promete al vencedor un lugar en su trono.",
     "fuentes": [
       "cbmh_03_b#18",
-      "cbmh_03_b#20",
       "macarthur_04_b#27"
     ]
   },
@@ -87,23 +88,22 @@
           "tipo": "contexto_historico"
         },
         {
-          "texto": "El oro «refinado en fuego» es, literalmente, “inflamado por el fuego”: puro, sin mezcla (Earle). Las «vestiduras blancas» contrastan con la famosa lana negra local (Earle, Carballosa, MacArthur, Mundo Hispano), y su propósito es «que no se descubra la vergüenza de tu desnudez»; MacArthur recuerda que en la Biblia la ropa sucia es imagen del pecado (Is 64:6; Zac 3:3-4).",
+          "texto": "El oro «refinado en fuego» es, literalmente, “inflamado por el fuego”: puro, sin mezcla (Earle). Las «vestiduras blancas» contrastan con la famosa lana negra local (Earle, Carballosa, MacArthur, Mundo Hispano), y su propósito es «que no se descubra la vergüenza de tu desnudez»; MacArthur recuerda que en la Biblia la ropa sucia es imagen del pecado (Is 64:6; Zac 3:3-4). Lennox imagina a los laodicenses luciendo las trimata, prendas de diseño hechas con esa lana negra.",
           "fuentes": [
             "beacon_02_b#31",
             "carballosa_04_b#9",
             "macarthur_05_a#3",
-            "cbmh_03_b#17"
+            "cbmh_03_b#17",
+            "r4_460_05_b#26"
           ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "El colirio era el producto estrella de la escuela médica, el “polvo frigio” (Charles, citado por Earle; Ladd; Mundo Hispano); McGee cuenta que se hacía con barro de montañas cercanas y que los análisis modernos no le encuentran nada medicinal. Ladd lo resume: los médicos frigios ayudaban en la ceguera del cuerpo; solo Cristo cura al ciego espiritual.",
+          "texto": "El colirio era el producto estrella de la escuela médica, el “polvo frigio” (Charles, citado por Earle; Ladd; Mundo Hispano). Ladd lo resume: los médicos frigios ayudaban en la ceguera del cuerpo; solo Cristo cura al ciego espiritual.",
           "fuentes": [
             "beacon_02_b#31",
             "ladd_02_b#24",
-            "cbmh_03_b#17",
-            "mcgee_03_b#23",
-            "mcgee_03_b#34"
+            "cbmh_03_b#17"
           ],
           "tipo": "cultura_costumbres"
         }
@@ -132,7 +132,7 @@
           "tipo": "griego_palabra"
         },
         {
-          "texto": "«Reprendo» es dejar al descubierto y declarar culpable; «castigo» es, literalmente, educar a un niño (Earle, Carballosa, Mundo Hispano). Cristo trata a la iglesia como a un hijo díscolo. Swete, citado por Earle, sospecha que parte del problema de Laodicea era que nunca había pasado por pruebas.",
+          "texto": "«Reprendo» es dejar al descubierto y declarar culpable; «castigo» es, literalmente, educar a un niño (Earle, Carballosa, Mundo Hispano). Cristo trata a la iglesia como a un hijo díscolo.",
           "fuentes": [
             "beacon_02_b#32",
             "carballosa_04_b#10",
@@ -156,7 +156,7 @@
           "tipo": "griego_palabra"
         },
         {
-          "texto": "Ladd ve esperanza en la orden misma: si ungen sus ojos y reconocen su pobreza, la complacencia dará lugar al celo. McGee agrega que esta iglesia necesitaba el arrepentimiento más que ninguna, que es un mensaje para la iglesia de hoy aunque no sea popular, y que no es demasiado tarde para volverse a Cristo.",
+          "texto": "Ladd ve esperanza en la orden misma: si ungen sus ojos y reconocen su pobreza, la complacencia dará lugar al celo. McGee agrega que esta iglesia necesitaba el arrepentimiento más que ninguna y que no es demasiado tarde para volverse a Cristo.",
           "fuentes": [
             "ladd_02_b#25",
             "mcgee_03_b#35",
@@ -171,22 +171,22 @@
       "titulo": "«He aquí, yo estoy a la puerta y llamo»",
       "notas": [
         {
-          "texto": "«Estoy» está en perfecto: he tomado posición frente a la puerta y sigo llamando (Carballosa); Lacueva traduce “doy aldabadas”. Carballosa lo resume: “¡un Rey aguarda en espera de un mendigo!”. Larkin señala lo más sorprendente: Cristo está afuera de una iglesia próspera que ni lo notó; Wiersbe: lo dejaron fuera de sus planes y sus corazones. A quién se dirige la llamada se discute (ver Interpretaciones).",
+          "texto": "«Estoy» está en perfecto: he tomado posición frente a la puerta y sigo llamando (Carballosa). Carballosa lo resume: “¡un Rey aguarda en espera de un mendigo!”. Larkin señala lo más sorprendente: Cristo está afuera de una iglesia próspera que ni lo notó; Wiersbe: lo dejaron fuera de sus planes y sus corazones. A quién se dirige la llamada se discute (ver Interpretaciones).",
           "fuentes": [
             "carballosa_04_b#11",
-            "r2_030#10",
             "larkin_01_b#21",
             "r1_024_a#24"
           ],
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Lo que todos ven es que la invitación es personal: «si alguno oye mi voz y abre la puerta». No se dirige a la iglesia en bloque sino a cada uno (Beasley-Murray), y no hace falta que toda la congregación lo invite: basta que alguien abra (Larkin). Carballosa recuerda que la Biblia enseña con igual énfasis la soberanía de Dios y la responsabilidad humana: “Dios no toma por asalto el bastión del corazón humano”.",
+          "texto": "Lo que todos ven es que la invitación es personal: «si alguno oye mi voz y abre la puerta». No se dirige a la iglesia en bloque sino a cada uno (Beasley-Murray), y no hace falta que toda la congregación lo invite: basta que alguien abra (Larkin). Carballosa recuerda que la Biblia enseña con igual énfasis la soberanía de Dios y la responsabilidad humana: “Dios no toma por asalto el bastión del corazón humano”. Lennox agrega un contraste: la ley romana dejaba a los funcionarios requisar alojamiento, con muchos abusos; Cristo, en cambio, no entra si no lo invitan.",
           "fuentes": [
             "henry_01_a#39",
             "larkin_01_b#21",
             "carballosa_04_b#12",
-            "cbmh_03_b#19"
+            "cbmh_03_b#19",
+            "r4_460_05_b#29"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -224,13 +224,14 @@
       "titulo": "El trono compartido y el último «el que tiene oído»",
       "notas": [
         {
-          "texto": "«Al que venciere»: la promesa más alta de las siete cartas llega a la peor iglesia (Stam, en Mundo Hispano; Beasley-Murray). Carballosa la describe como pasar de la pobreza a la realeza (2 Ti 2:12). El vencedor no es una élite ni solo los mártires: son todos los creyentes verdaderos (Ladd, MacArthur; 1 Jn 5:5).",
+          "texto": "«Al que venciere»: la promesa más alta de las siete cartas llega a la peor iglesia (Stam, en Mundo Hispano; Beasley-Murray). Carballosa la describe como pasar de la pobreza a la realeza (2 Ti 2:12). El vencedor no es una élite ni solo los mártires: son todos los creyentes verdaderos (Ladd, MacArthur; 1 Jn 5:5). Lutzer, reconociendo que buenos teólogos discrepan, no cree que el cristiano que vivió para sí sea vencedor en este sentido: ve recompensas distintas según la fidelidad (1 Co 3:15; 2 Co 5:10).",
           "fuentes": [
             "cbmh_03_b#20",
             "henry_01_a#39",
             "carballosa_04_b#13",
             "ladd_02_c#3",
-            "macarthur_05_a#9"
+            "macarthur_05_a#9",
+            "r4_470_01#31"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -259,7 +260,7 @@
   "simbolos": [
     {
       "signo": "oro refinado en fuego",
-      "significado": "Según MacArthur, la riqueza de la salvación verdadera; según Carballosa, quizá la fe probada (1 P 1:7); según Kœchlin, la justicia según Dios; según McGee, la sangre de Cristo; según Wiersbe, las riquezas de la Palabra.",
+      "significado": "Según MacArthur, la riqueza de la salvación verdadera; según Carballosa, quizá la fe probada (1 P 1:7); según Kœchlin, la justicia según Dios; según McGee, la sangre de Cristo; según Wiersbe, las riquezas de la Palabra; según Lutzer, Cristo mismo (Sal 19:10).",
       "refs": [
         "3:18"
       ],
@@ -268,7 +269,8 @@
         "carballosa_04_b#9",
         "r1_026#12",
         "mcgeer_04#7",
-        "r1_024_a#24"
+        "r1_024_a#24",
+        "r4_470_01#25"
       ]
     },
     {
@@ -494,44 +496,50 @@
       "posturas": [
         {
           "postura": "La del corazón de cada persona: una de las grandes invitaciones del evangelio; Cristo no fuerza la puerta.",
-          "quien": "Earle (Beacon), McGee, Stott, LaHaye, McDowell; los puritanos la usaban para preparar al pecador (Beeke y Jones)",
+          "quien": "Earle (Beacon), McGee, Stott, LaHaye, McDowell; según Hitchcock, también Jeremiah y Stedman; los puritanos la usaban para preparar al pecador (Beeke y Jones)",
           "fuentes": [
             "beacon_03_a#2",
             "mcgeer_04#9",
             "r2_001_a#10",
             "r2_009#14",
             "r2_002_a#13",
-            "r2_025_a#21"
+            "r2_025_a#21",
+            "r4_442_05#13"
           ]
         },
         {
           "postura": "La de la iglesia, de la que Cristo había quedado afuera: entra en ella a través de quien se arrepiente y abre. Wiersbe acepta la aplicación evangelística, pero no como interpretación básica.",
-          "quien": "MacArthur, Larkin y Wiersbe (premilenial dispensacional); Ligonier (Tabletalk)",
+          "quien": "MacArthur, Larkin y Wiersbe (premilenial dispensacional); Ligonier (Tabletalk); Lennox y Lutzer, que ven a la iglesia con el Señor afuera queriendo entrar",
           "fuentes": [
             "macarthur_05_a#7",
             "mbiblia_01_b#31",
             "larkin_01_b#21",
             "r1_024_a#24",
-            "web_19#2"
+            "web_19#2",
+            "r4_460_05_b#30",
+            "r4_470_01#16"
           ]
         },
         {
-          "postura": "Un llamado a miembros tibios a volver a la comunión, no a la conversión inicial: “un amor anhelante”. Lacueva agrega que en la conversión es Dios quien abre el corazón (Hch 16:14).",
-          "quien": "Lacueva; Comentario Mundo Hispano (amilenial/idealista); Ladd (premilenial histórico), que lo lee como llamado a miembros de una iglesia sin vida; Owen lo lee como comunión",
+          "postura": "Un llamado a creyentes tibios a volver a la comunión, no a la conversión inicial: “un amor anhelante”. Lacueva agrega que en la conversión es Dios quien abre el corazón (Hch 16:14). Hitchcock descarta las demás: la de conversión choca con 3:19, que los trata como hijos; la de la iglesia, con el «si alguno»; la escatológica le parece rebuscada.",
+          "quien": "Lacueva; Comentario Mundo Hispano (amilenial/idealista); Ladd (premilenial histórico), que lo lee como llamado a miembros de una iglesia sin vida; Owen lo lee como comunión; Hitchcock; Graham, que reconoce que aquí habla a creyentes aunque él lo usara en sus cruzadas para invitar a no creyentes",
           "fuentes": [
             "r2_030#10",
             "cbmh_03_b#19",
             "ladd_02_b#26",
-            "r2_014#30"
+            "r2_014#30",
+            "r4_442_02#27",
+            "r4_451_02#18"
           ]
         },
         {
           "postura": "Advertencia del regreso inminente de Cristo, que está a las puertas (Stg 5:9).",
-          "quien": "Muchos intérpretes, según Ladd; algunos, según Carballosa y Mundo Hispano. Ninguno de los autores del día la toma como principal",
+          "quien": "Muchos intérpretes, según Ladd; algunos, según Carballosa y Mundo Hispano. Ninguno de los autores del día la toma como principal; Thomas, según Hitchcock, la combina con la de conversión: oportunidad de convertirse y prepararse para su regreso",
           "fuentes": [
             "ladd_02_b#26",
             "carballosa_04_b#11",
-            "cbmh_03_b#19"
+            "cbmh_03_b#19",
+            "r4_442_05#13"
           ]
         }
       ],
@@ -548,22 +556,25 @@
       "posturas": [
         {
           "postura": "Figura de participar en su autoridad y realeza; no hay que sacar consecuencias de la diferencia entre su trono y el del Padre, porque Cristo ya reina.",
-          "quien": "Ladd (premilenial histórico); Vila; Berkhof (sentarse a la diestra como expresión figurada); la Biblia de estudio MacArthur la llama expresión simbólica",
+          "quien": "Ladd (premilenial histórico); Vila; Berkhof (sentarse a la diestra como expresión figurada); la Biblia de estudio MacArthur la llama expresión simbólica; según Carballosa, también los dispensacionalistas progresivos (Blaising, Bock, Saucy), para quienes Cristo ya reina en el trono de David",
           "fuentes": [
             "ladd_02_c#2",
             "r2_018#9",
             "r2_040#3",
-            "mbiblia_01_b#32"
+            "mbiblia_01_b#32",
+            "r4_443_03#32"
           ]
         },
         {
           "postura": "Dos tronos distintos: hoy Cristo se sienta en el del Padre; a su regreso ocupará el de David (2 S 7) y los vencedores reinarán con él en el milenio.",
-          "quien": "Carballosa, Benware, MacArthur y Mayhue (premilenial dispensacional)",
+          "quien": "Carballosa, Benware, Walvoord, MacArthur y Mayhue (premilenial dispensacional)",
           "fuentes": [
             "carballosa_04_b#13",
             "r2_004_a#12",
             "r2_035#9",
-            "r2_036#42"
+            "r2_036#42",
+            "r4_443_03#31",
+            "r4_443_04#14"
           ]
         }
       ],
@@ -584,16 +595,6 @@
       "fuentes": [
         "r2_001_a#10",
         "mcgee_03_b#36"
-      ]
-    },
-    {
-      "texto": "Autores puritanos fundaban en 3:19 la corrección de los hijos: el amor de padre y madre debe parecerse al del Padre, que corrige sin ira, buscando el bien del hijo y no el propio desahogo.",
-      "autor": "Pollard y Brown (eds.)",
-      "obra": "Una teología de la familia",
-      "pagina": "pág. PDF 141, 249, 275",
-      "tipo": "aplicacion",
-      "fuentes": [
-        "r2_024#27"
       ]
     }
   ],
@@ -624,18 +625,18 @@
       ]
     },
     {
-      "ref": "Lc 24:29",
-      "nota": "Kœchlin compara la presencia de Cristo en tiempos de Laodicea con la de Emaús, donde le rogaron que se quedara.",
-      "fuentes": [
-        "r1_026#12"
-      ]
-    },
-    {
       "ref": "Lc 22:29-30",
       "nota": "La promesa a los doce (también Mt 19:28), que 3:21 extiende a todo vencedor (Earle, MacArthur).",
       "fuentes": [
         "beacon_03_a#4",
         "macarthur_05_a#9"
+      ]
+    },
+    {
+      "ref": "Mt 20:20-23",
+      "nota": "Juan y Santiago pidieron sentarse a su lado y dijeron «Podemos» sin medir el costo; Graham nota que el Juan que recibe 3:21 ya conoce el precio.",
+      "fuentes": [
+        "r4_451_02#19"
       ]
     }
   ],
@@ -729,12 +730,15 @@
     },
     {
       "titulo": "Más de la biblioteca sobre la puerta y el trono",
-      "texto": "Cloud y Townsend (Límites) usan 3:20 para decir que Dios diseñó los límites con puertas, no con muros: nos deja libres de recibirlo o dejarlo afuera. Tozer (Diseñados para adorar) ve el alma como “un guante con forma de Dios” lleno de basura que hay que vaciar. Piper (Sermones III) explica con 3:21 que compartiremos el gobierno de Cristo como esposo y esposa comparten la casa: “Cristo pierde nada, pero nosotros lo ganamos todo”. Lacueva relaciona la cena con el banquete del hijo pródigo: comunión de quien ya es hijo.",
+      "texto": "Cloud y Townsend (Límites) usan 3:20 para decir que Dios diseñó los límites con puertas, no con muros: nos deja libres de recibirlo o dejarlo afuera. Tozer (Diseñados para adorar) ve el alma como “un guante con forma de Dios” lleno de basura que hay que vaciar. Piper (Sermones III) explica con 3:21 que compartiremos el gobierno de Cristo como esposo y esposa comparten la casa: “Cristo pierde nada, pero nosotros lo ganamos todo”. Lacueva relaciona la cena con el banquete del hijo pródigo: comunión de quien ya es hijo. Autores puritanos (Pollard y Brown, Una teología de la familia) fundaban en 3:19 la corrección de los hijos: corregir como el Padre, sin ira, buscando el bien del hijo. McGee cuenta que el colirio de Laodicea se hacía con barro de montañas cercanas y que los análisis modernos no le encuentran nada medicinal.",
       "fuentes": [
         "r2_015#4",
         "r2_001_a#11",
         "r2_020#23",
-        "r2_030#10"
+        "r2_030#10",
+        "r2_024#27",
+        "mcgee_03_b#23",
+        "mcgee_03_b#34"
       ]
     }
   ]

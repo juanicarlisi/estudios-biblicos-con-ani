@@ -44,12 +44,13 @@
       "titulo": "«Y vino, y tomó el libro»: el traspaso",
       "notas": [
         {
-          "texto": "Carballosa explica que «vino» está en aoristo y «tomó» en un perfecto dramático, que podría traducirse “ha tomado”: pinta el traspaso conmovedor del rollo de la mano del Padre a la del Hijo. McGee y Earle (Beacon) traducen igual; Earle habla de un realismo rápido, como si la acción sucediera ante los ojos del lector. El Comentario Mundo Hispano subraya que el Cordero actúa con toda autoridad y sin titubear.",
+          "texto": "Carballosa explica que «vino» está en aoristo y «tomó» en un perfecto dramático, que podría traducirse “ha tomado”: pinta el traspaso conmovedor del rollo de la mano del Padre a la del Hijo. McGee y Earle (Beacon) traducen igual; Earle habla de un realismo rápido, como si la acción sucediera ante los ojos del lector. El Comentario Mundo Hispano subraya que el Cordero actúa con toda autoridad y sin titubear. Henry agrega que lo tomó pronto y con alegría, porque se deleita en dar a conocer la voluntad del Padre.",
           "fuentes": [
             "carballosa_05_b#1",
             "mcgee_04_b#13",
             "beacon_03_a#24",
-            "cbmh_04#23"
+            "cbmh_04#23",
+            "r4_2_01_a#35"
           ],
           "tipo": "explicacion_texto"
         },
@@ -92,12 +93,13 @@
       "titulo": "«Todos tenían arpas»",
       "notas": [
         {
-          "texto": "El arpa es la kithára, parecida a la lira (Carballosa), instrumento común en la adoración de Israel (Sal 33:2) que vuelve en 14:2 y 15:2 (Ladd, Mundo Hispano). Earle advierte que el mejor texto griego dice “teniendo cada uno una cítara”.",
+          "texto": "El arpa es la kithára, parecida a la lira (Carballosa), instrumento común en la adoración de Israel (Sal 33:2) que vuelve en 14:2 y 15:2 (Ladd, Mundo Hispano). Earle advierte que el mejor texto griego dice “teniendo cada uno una cítara”. Lennox precisa que la cítara, a diferencia del arpa, tiene siete cuerdas de igual longitud.",
           "fuentes": [
             "carballosa_05_b#2",
             "ladd_03_a#9",
             "cbmh_04#24",
-            "beacon_03_a#25"
+            "beacon_03_a#25",
+            "r4_460_17_a#28"
           ],
           "tipo": "cultura_costumbres"
         },
@@ -201,13 +203,14 @@
       "titulo": "«Porque tú fuiste inmolado, y con tu sangre…»",
       "notas": [
         {
-          "texto": "La dignidad del Cordero no se apoya tanto en su deidad, su encarnación o su vida perfecta como en su muerte sacrificial (Ladd), en su obra más que en su ser (Carballosa). «Fuiste inmolado» significa degollado para un sacrificio (Wiersbe), en aoristo: un hecho histórico (Carballosa). Ladd nota que es eco de Isaías 53:7, el cordero llevado al matadero. No fue una muerte accidental sino la muerte victoriosa de la cruz (Mundo Hispano).",
+          "texto": "La dignidad del Cordero no se apoya tanto en su deidad, su encarnación o su vida perfecta como en su muerte sacrificial (Ladd), en su obra más que en su ser (Carballosa). «Fuiste inmolado» significa degollado para un sacrificio (Wiersbe), en aoristo: un hecho histórico (Carballosa). Ladd nota que es eco de Isaías 53:7, el cordero llevado al matadero. No fue una muerte accidental sino la muerte victoriosa de la cruz (Mundo Hispano). El Comentario Moody cita a Lenski: la sangre, más que la muerte, habla de sacrificio, porque uno puede morir sin ser inmolado, y ser inmolado sin que eso sea un sacrificio.",
           "fuentes": [
             "ladd_03_a#11",
             "carballosa_05_b#5",
             "r1_024_b#10",
             "ladd_03_a#12",
-            "cbmh_04#25"
+            "cbmh_04#25",
+            "r4_225_01_b#38"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -221,12 +224,13 @@
           "tipo": "cultura_costumbres"
         },
         {
-          "texto": "El precio fue su sangre, que representa su muerte en lugar nuestro (Carballosa, con Mr 10:45; Biblia MacArthur). Beasley-Murray pone un límite sano: no hay que estirar la figura hasta preguntar a quién se le pagó. Earle coincide: el texto no dice de quién fuimos comprados, sino por quién y para quién: «para Dios». El beneficiario de la compra es Dios mismo (Carballosa).",
+          "texto": "El precio fue su sangre, que representa su muerte en lugar nuestro (Carballosa, con Mr 10:45; Biblia MacArthur). Beasley-Murray pone un límite sano: no hay que estirar la figura hasta preguntar a quién se le pagó. Lennox lo ilustra: el padre que se tira a un río helado para salvar a su hijo y muere paga un precio real, pero no se lo paga a nadie. Earle coincide: el texto no dice de quién fuimos comprados, sino por quién y para quién: «para Dios». El beneficiario de la compra es Dios mismo (Carballosa).",
           "fuentes": [
             "carballosa_05_b#5",
             "mbiblia_01_c#5",
             "henry_01_b#8",
-            "beacon_03_a#26"
+            "beacon_03_a#26",
+            "r4_460_07_b#5"
           ],
           "tipo": "teologia_doctrina"
         }
@@ -277,20 +281,40 @@
     {
       "signo": "arpas",
       "significado": "Alabanza (Ladd, McGee) y, por su uso en el Antiguo Testamento, profecía a punto de cumplirse (MacArthur).",
-      "refs": ["5:8", "14:2"],
-      "fuentes": ["ladd_03_a#9", "mcgee_04_b#14", "macarthur_05_b#25"]
+      "refs": [
+        "5:8",
+        "14:2"
+      ],
+      "fuentes": [
+        "ladd_03_a#9",
+        "mcgee_04_b#14",
+        "macarthur_05_b#25"
+      ]
     },
     {
       "signo": "copas de oro con incienso",
       "significado": "El texto lo explica: las oraciones de los santos (Sal 141:2). Lacueva llama al incienso el símbolo principal de la oración.",
-      "refs": ["5:8", "8:3-4"],
-      "fuentes": ["r2_014#22", "r2_030#25", "macarthur_05_b#26"]
+      "refs": [
+        "5:8",
+        "8:3-4"
+      ],
+      "fuentes": [
+        "r2_014#22",
+        "r2_030#25",
+        "macarthur_05_b#26"
+      ]
     },
     {
       "signo": "la sangre",
       "significado": "El precio de la compra: la muerte sustitutoria de Cristo (Carballosa).",
-      "refs": ["5:9", "1:5"],
-      "fuentes": ["carballosa_05_b#5", "ladd_03_a#13"]
+      "refs": [
+        "5:9",
+        "1:5"
+      ],
+      "fuentes": [
+        "carballosa_05_b#5",
+        "ladd_03_a#13"
+      ]
     }
   ],
   "palabras": [
@@ -299,52 +323,85 @@
       "griego": "εἴληφεν",
       "translit": "eílēphen",
       "significado": "«Tomó», en perfecto: “ha tomado”; para Carballosa, un perfecto dramático.",
-      "fuentes": ["carballosa_05_b#1", "mcgee_04_b#13", "beacon_03_a#24"]
+      "fuentes": [
+        "carballosa_05_b#1",
+        "mcgee_04_b#13",
+        "beacon_03_a#24"
+      ]
     },
     {
       "ref": "5:8",
       "griego": "φιάλη",
       "translit": "phiálē",
       "significado": "Vasija hueca, copa; la misma palabra de las copas de 16:1-17.",
-      "fuentes": ["dbmh_01_a#19"]
+      "fuentes": [
+        "dbmh_01_a#19"
+      ]
     },
     {
       "ref": "5:9",
       "griego": "καινός",
       "translit": "kainós",
       "significado": "Nuevo en forma y cualidad, no solo reciente (Carballosa).",
-      "fuentes": ["carballosa_05_b#4"]
+      "fuentes": [
+        "carballosa_05_b#4"
+      ]
     },
     {
       "ref": "5:9",
       "griego": "ἐσφάγης",
       "translit": "esphágēs",
       "significado": "«Fuiste inmolado», de spházō, degollar; misma raíz que Isaías 53:7 y que el martirio de 6:9 (Ladd).",
-      "fuentes": ["carballosa_05_b#5", "ladd_03_a#12"]
+      "fuentes": [
+        "carballosa_05_b#5",
+        "ladd_03_a#12"
+      ]
     },
     {
       "ref": "5:9",
       "griego": "ἠγόρασας",
       "translit": "ēgórasas",
       "significado": "«Compraste», de agorázō, comprar en el ágora; distinto de exagorázō, comprar y sacar del mercado (Chafer).",
-      "fuentes": ["carballosa_05_b#5", "r2_037_b#28"]
+      "fuentes": [
+        "carballosa_05_b#5",
+        "r2_037_b#28"
+      ]
     }
   ],
   "cristo": [
     {
       "texto": "Jesús recibe la adoración que se da a Dios: los mismos que se postraban ante el Creador se postran ante el Cordero (MacArthur). Owen saca la consecuencia: los santos deben honrar a Cristo como al Padre.",
-      "refs": ["Ap 4:10", "Ap 1:5-6"],
-      "fuentes": ["macarthur_05_b#23", "r2_023_a#8"]
+      "refs": [
+        "Ap 4:10",
+        "Ap 1:5-6"
+      ],
+      "fuentes": [
+        "macarthur_05_b#23",
+        "r2_023_a#8"
+      ]
     },
     {
       "texto": "El León es el Cordero. Wiersbe recuerda que se lo llama Cordero veintiocho veces en el libro y que la Biblia puede resumirse siguiendo ese tema (Gn 22:7; Éx 12; Is 53; Jn 1:29).",
-      "refs": ["Gn 22:7", "Is 53", "Jn 1:29"],
-      "fuentes": ["r1_024_b#10"]
+      "refs": [
+        "Gn 22:7",
+        "Is 53",
+        "Jn 1:29"
+      ],
+      "fuentes": [
+        "r1_024_b#10"
+      ]
     },
     {
       "texto": "MacArthur ve en el gesto la escena de Daniel 7:13-14, el Hijo del Hombre que recibe dominio, gloria y reino. Ya fue exaltado a la diestra del Padre (Ef 1:20-22), aunque todavía no reina plenamente sobre la tierra (Sal 2:6-12).",
-      "refs": ["Dn 7:13-14", "Ef 1:20-22", "Sal 2:6-12"],
-      "fuentes": ["macarthur_05_b#22", "macarthur_05_b#23"]
+      "refs": [
+        "Dn 7:13-14",
+        "Ef 1:20-22",
+        "Sal 2:6-12"
+      ],
+      "fuentes": [
+        "macarthur_05_b#22",
+        "macarthur_05_b#23"
+      ]
     }
   ],
   "interpretaciones": [
@@ -354,20 +411,35 @@
         {
           "postura": "El título de propiedad del universo o de la tierra; el Cordero avanza hacia los juicios de un período futuro.",
           "quien": "MacArthur, McGee y Carballosa (premilenial dispensacional)",
-          "fuentes": ["r2_005_a#8", "mcgeer_05#4", "carballosa_05_b#1"]
+          "fuentes": [
+            "r2_005_a#8",
+            "mcgeer_05#4",
+            "carballosa_05_b#1"
+          ]
         },
         {
           "postura": "La revelación de las últimas cosas que el Padre entrega al Hijo (1:1).",
           "quien": "Ladd (premilenial histórico)",
-          "fuentes": ["ladd_03_a#8"]
+          "fuentes": [
+            "ladd_03_a#8"
+          ]
         },
         {
           "postura": "El acontecer histórico de toda la humanidad.",
           "quien": "Comentario Bíblico Mundo Hispano (amilenial/idealista)",
-          "fuentes": ["cbmh_04#23"]
+          "fuentes": [
+            "cbmh_04#23"
+          ]
+        },
+        {
+          "postura": "El futuro desconocido, “el libro del destino” (Swete), o todo el plan de Dios (Milligan).",
+          "quien": "Swete y Milligan, citados por el Comentario Moody",
+          "fuentes": [
+            "r4_225_01_b#40"
+          ]
         }
       ],
-      "nota": "McGee agrega que aquí Cristo deja de actuar como Intercesor de la iglesia, ya con él, y comienza a volver como Juez."
+      "nota": "McGee agrega que aquí Cristo deja de actuar como Intercesor de la iglesia, ya con él, y comienza a volver como Juez. El Comentario Moody hace notar un detalle que suele pasarse por alto: se rompen los sellos, pero el libro mismo nunca se abre."
     },
     {
       "tema": "¿Quiénes son los «santos» que oran?",
@@ -375,17 +447,25 @@
         {
           "postura": "Todo el pueblo de Dios, en su mayoría la iglesia; limitarlo a judíos convertidos no es un uso natural del término.",
           "quien": "Ladd (premilenial histórico), contra la lectura dispensacionalista que ve al Israel convertido tras el arrebatamiento",
-          "fuentes": ["ladd_03_a#10"]
+          "fuentes": [
+            "ladd_03_a#10"
+          ]
         },
         {
           "postura": "Los creyentes de todos los siglos que oraron por la redención de la tierra.",
           "quien": "MacArthur; Wiersbe y Guzik (la oración por el reino)",
-          "fuentes": ["macarthur_05_b#26", "r1_024_b#10", "web_08#15"]
+          "fuentes": [
+            "macarthur_05_b#26",
+            "r1_024_b#10",
+            "web_08#15"
+          ]
         },
         {
           "postura": "Los mártires de la gran tribulación, porque los santos del Antiguo Testamento y de la iglesia ya están en el cielo.",
           "quien": "Carballosa (premilenial dispensacional, pretribulacional)",
-          "fuentes": ["carballosa_05_b#3"]
+          "fuentes": [
+            "carballosa_05_b#3"
+          ]
         }
       ]
     },
@@ -395,15 +475,23 @@
         {
           "postura": "Hombres redimidos, la iglesia: un cántico que dice «nos has redimido» no puede ser de ángeles.",
           "quien": "Larkin, McGee, Wiersbe y la Biblia MacArthur (premilenial dispensacional)",
-          "fuentes": ["larkin_02_a#9", "mcgee_04_b#14", "r1_024_b#10", "mbiblia_01_c#4"]
+          "fuentes": [
+            "larkin_02_a#9",
+            "mcgee_04_b#14",
+            "r1_024_b#10",
+            "mbiblia_01_c#4"
+          ]
         },
         {
           "postura": "Seres angélicos: presentar las oraciones de los santos era, en el judaísmo, tarea de arcángeles (Tobías 12:15).",
-          "quien": "Beasley-Murray (premilenial histórico)",
-          "fuentes": ["henry_01_b#8"]
+          "quien": "Beasley-Murray (premilenial histórico); Moffatt (citado por Walvoord)",
+          "fuentes": [
+            "henry_01_b#8",
+            "r4_450_06#5"
+          ]
         }
       ],
-      "nota": "Según Carballosa, el «nos» solo lo trae el Códice Sinaítico; los mejores manuscritos dicen “has redimido para Dios”. MacArthur usa la variante como argumento solo si se acepta."
+      "nota": "Según Carballosa, el «nos» solo lo trae el Códice Sinaítico; los mejores manuscritos dicen “has redimido para Dios”. MacArthur usa la variante como argumento solo si se acepta. Walvoord sostiene que, aun con el texto revisado, la cuestión no queda resuelta a favor de los ángeles: las coronas y vestiduras blancas de 4:4 inclinan algo la balanza hacia la iglesia, pero por la controversia textual prefiere dejarla abierta."
     },
     {
       "tema": "«De todo linaje»: ¿cuál es el alcance de la redención?",
@@ -411,17 +499,26 @@
         {
           "postura": "Redención particular: Cristo compró eficazmente un pueblo sacado de toda nación, no a cada individuo.",
           "quien": "Owen y Murray (reformados); Piper; MacArthur y Mayhue",
-          "fuentes": ["r2_032#7", "r2_039#19", "r2_020#15", "r2_035#18"]
+          "fuentes": [
+            "r2_032#7",
+            "r2_039#19",
+            "r2_020#15",
+            "r2_035#18"
+          ]
         },
         {
           "postura": "Expresión partitiva: solo una parte goza de los beneficios, que se apropian por la fe.",
           "quien": "Carballosa, siguiendo a Thomas",
-          "fuentes": ["carballosa_05_b#6"]
+          "fuentes": [
+            "carballosa_05_b#6"
+          ]
         },
         {
           "postura": "Cristo pagó la compra de toda la humanidad (2 P 2:1).",
           "quien": "Ryrie",
-          "fuentes": ["r2_033#21"]
+          "fuentes": [
+            "r2_033#21"
+          ]
         }
       ],
       "nota": "Es una discusión clásica entre calvinistas y arminianos que el texto toca pero no zanja solo."
@@ -447,40 +544,65 @@
     {
       "ref": "Dn 7:13-14",
       "nota": "El Hijo del Hombre recibe el reino: para MacArthur, la misma escena.",
-      "fuentes": ["macarthur_05_b#22"]
+      "fuentes": [
+        "macarthur_05_b#22"
+      ]
     },
     {
       "ref": "Sal 141:2",
       "nota": "La oración como incienso: la clave de las copas de 5:8.",
-      "fuentes": ["ladd_03_a#9", "r2_014#22"]
+      "fuentes": [
+        "ladd_03_a#9",
+        "r2_014#22"
+      ]
     },
     {
       "ref": "Ap 8:3-5",
       "nota": "El humo del incienso con las oraciones sube ante Dios: lo que hoy se insinúa, allí se desarrolla.",
-      "fuentes": ["cbmh_04#24", "r2_001_a#13"]
+      "fuentes": [
+        "cbmh_04#24",
+        "r2_001_a#13"
+      ]
     },
     {
       "ref": "1 P 1:18-19",
       "nota": "El mismo lenguaje de compra con la sangre de Cristo.",
-      "fuentes": ["macarthur_05_b#28", "carballosa_05_b#5"]
+      "fuentes": [
+        "macarthur_05_b#28",
+        "carballosa_05_b#5"
+      ]
     }
   ],
   "para_vivir": [
     {
-      "texto": "Ninguna oración de ustedes se perdió. Las que hicieron por su familia y su matrimonio están guardadas delante de Dios (Mundo Hispano), y le son un perfume agradable (Kœchlin). Cuando parezca que orar no cambia nada, vuelvan a esta escena.",
-      "fuentes": ["cbmh_04#24", "r2_023_a#27"]
+      "texto": "Ninguna oración de ustedes se perdió. Las que hicieron por su familia y su matrimonio están guardadas delante de Dios (Mundo Hispano), y le son un perfume agradable (Kœchlin). Cuando parezca que orar no cambia nada, vuelvan a esta escena. Henry lo resume: la alabanza y la oración siempre deben ir juntas, como las arpas y las copas.",
+      "fuentes": [
+        "cbmh_04#24",
+        "r2_023_a#27",
+        "r4_2_01_a#36"
+      ]
     },
     {
-      "texto": "Fueron comprados con la sangre de Cristo: le pertenecen y le sirven (Ryrie, con 1 Co 6:19-20). Eso no es una carga sino libertad del yugo del pecado (Ladd).",
-      "fuentes": ["r2_033#21", "ladd_03_a#13"]
+      "texto": "Fueron comprados con la sangre de Cristo: le pertenecen y le sirven (Ryrie, con 1 Co 6:19-20). Eso no es una carga sino libertad del yugo del pecado (Ladd). Lennox repara en dos palabras, «para Dios»: el Hijo los compró como un regalo para el Padre. Eso da dignidad y también responsabilidad: Dios puede esperar mucho de quienes le costaron tanto (1 P 1:17-19).",
+      "fuentes": [
+        "r2_033#21",
+        "ladd_03_a#13",
+        "r4_460_07_b#8"
+      ]
     },
     {
       "texto": "Eggerichs aplica las copas de 5:8 a los esposos: Dios lleva la cuenta del bien que se hace, y cada gesto de amor o de respeto cuenta para él; no para ganar la salvación, que es por gracia (Ef 2:8-9), sino como las buenas obras de Efesios 2:10.",
-      "fuentes": ["r2_001_a#14"]
+      "fuentes": [
+        "r2_001_a#14"
+      ]
     },
     {
-      "texto": "La iglesia es de todos los pueblos (Ladd). COMIBAM usa 5:9 para orar por las naciones que todavía no oyeron el evangelio: pueden sumar a su oración un pueblo concreto.",
-      "fuentes": ["ladd_03_a#14", "r2_003_a#20"]
+      "texto": "La iglesia es de todos los pueblos (Ladd); Lennox nota que la frase vuelve siete veces en el libro: en la salvación de Dios no hay lugar para el racismo ni el favoritismo. COMIBAM usa 5:9 para orar por las naciones que todavía no oyeron el evangelio: pueden sumar a su oración un pueblo concreto.",
+      "fuentes": [
+        "ladd_03_a#14",
+        "r2_003_a#20",
+        "r4_460_07_b#7"
+      ]
     }
   ],
   "para_conversar": [
@@ -489,28 +611,55 @@
     "¿En qué aspecto concreto de nuestra vida (tiempo, plata, casa, matrimonio) nos cuesta vivir como gente comprada que pertenece a Dios?"
   ],
   "para_orar": "Cordero de Dios, digno eres de tomar el libro, porque fuiste inmolado y con tu sangre nos compraste para Dios. Te adoramos como adoramos al Padre. Gracias porque ninguna de nuestras oraciones se pierde. Somos tuyos: enséñanos a vivir como tu pueblo, y junta para tu gloria gente de todo linaje y lengua y pueblo y nación.",
-  "visuales": ["dg-cristo"],
-  "anexos": ["P3", "T3", "T14", "T4"],
+  "visuales": [
+    "dg-cristo"
+  ],
+  "anexos": [
+    "P3",
+    "T3",
+    "T14",
+    "T4"
+  ],
   "profundizar": [
     {
       "titulo": "Tres palabras griegas para la redención",
       "texto": "Chafer explica que el Nuevo Testamento usa tres palabras: agorázō, comprar en el mercado (1 Co 6:20; 7:23; Ap 5:9; 14:3-4), porque el pecador es un esclavo vendido al pecado (Ro 7:14); exagorázō, comprar y sacar del mercado, una vez y para siempre (Gá 3:13; 4:5); y lutróō, dejar libre (Tit 2:14; 1 P 1:18). Lacueva matiza: agorázō expresa solo el pago en la plaza, mientras que exagorázō implica que el esclavo sale porque prefirió la libertad. Alonso recuerda que, según 5:9, los redimidos pertenecen a Dios y el precio es la sangre del Hijo de Dios.",
-      "fuentes": ["r2_037_b#28", "r2_030#9", "r2_032#8"]
+      "fuentes": [
+        "r2_037_b#28",
+        "r2_030#9",
+        "r2_032#8"
+      ]
     },
     {
       "titulo": "El alcance de la redención, con más detalle",
       "texto": "Owen y Murray leen 5:9 como prueba de la redención particular: Cristo adquirió la redención, no una posición “redimible” (Murray), y “todos” significa gente de toda clase, ninguna excluida (Owen); por eso 1 Juan 2:2 hablaría de los hijos de Dios esparcidos por el mundo, lectura que comparten Piper y MacArthur y Mayhue. Ryrie, en cambio, sostiene que Cristo pagó por toda la humanidad y objeta a esa lectura que en 14:4 no se menciona precio y aun así se trata de redención. Earle (Beacon) habla de una muerte “universalmente expiatoria” al comentar «de todo linaje».",
-      "fuentes": ["r2_032#7", "r2_039#20", "r2_020#15", "r2_035#18", "r2_033#21", "beacon_03_a#28"]
+      "fuentes": [
+        "r2_032#7",
+        "r2_039#20",
+        "r2_020#15",
+        "r2_035#18",
+        "r2_033#21",
+        "beacon_03_a#28"
+      ]
     },
     {
       "titulo": "¿Qué es un «pueblo» en Apocalipsis 5:9?",
       "texto": "Piper reconoce que la Biblia no define con precisión qué es un grupo humano. Los cuatro términos de 5:9 se completan con las “familias” de la promesa a Abraham (Gn 12:3), clanes menores que las tribus; pueblo y nación son casi sinónimos (Gn 25:23), y éthnos en singular siempre designa un grupo. De ahí concluye que las misiones apuntan a pueblos y no solo a personas sueltas, y que siempre habrá más grupos que alcanzar hasta que el Señor venga (Mt 24:14). Tozer ve en 5:9 uno de los propósitos soberanos de Dios: un pueblo redimido de toda lengua, que ni las divisiones de la iglesia podrán estorbar.",
-      "fuentes": ["r1_020#15", "r1_020#14", "r2_014#2", "r2_024#14"]
+      "fuentes": [
+        "r1_020#15",
+        "r1_020#14",
+        "r2_014#2",
+        "r2_024#14"
+      ]
     },
     {
       "titulo": "El incienso en la historia del culto",
       "texto": "Cherry observa que ambos Testamentos vinculan el incienso con la oración, aunque la mayoría de las tradiciones protestantes no lo usen. Ladd y Swete (citado por Earle) señalan que no hay evidencia de incienso en el culto cristiano de los tres primeros siglos.",
-      "fuentes": ["r2_001_a#13", "ladd_03_a#9", "beacon_03_a#25"]
+      "fuentes": [
+        "r2_001_a#13",
+        "ladd_03_a#9",
+        "beacon_03_a#25"
+      ]
     }
   ]
 }

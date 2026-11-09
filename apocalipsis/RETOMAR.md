@@ -35,3 +35,9 @@
 - Contenido completo: 95 días, 29 artículos, 13 diagramas; todo valida (`python3 trabajo/scripts/estado.py --validar`). La app la construye un agente (`trabajo/prompts/construir_app.md`) → `apocalipsis/estudio-apocalipsis.html`.
 - Cotejo de comillas: `python3 trabajo/scripts/cotejar_citas.py` → 486 de 3.197 frases «» no coinciden con la RVR de Apocalipsis (mezcla de: términos que no son bíblicos —«mártir», «anticristo», que deben ir en “ ”—, citas de otros libros —no verificables con este archivo— y posibles citas imprecisas de Apocalipsis). Pendiente: pasar a “ ” lo no bíblico y corregir las imprecisas.
 - Otros cotejos pendientes: Buswell (día 45 vs Ryrie), Nerva en dg-cronologia, fila «diez días» en dg-tiempos, tarjeta 22:16 en dg-cristo, repetición entre días 76-81 y 32/33.
+
+## Expansión (09-11-2026): REFERENCIA4 y «1 Pedro a Apocalipsis»
+- Clasificación de REFERENCIA4: `SCRATCH/ref4_triage.json` (512 archivos; A alto/medio = 40). Los comentarios por libro ya estaban en REFERENCIA3 (dup por tamaño). Material nuevo útil para Apocalipsis: Hitchcock, MacArthur «Recorrido», Graham «Jinetes», Carballosa «Milenio», Lennox, Ice, Walvoord, Dyer, Jeremiah, Lutzer, Foxe, Matthew Henry y Moody NT (secciones de Ap).
+- Plan Apocalipsis: bloques en `SCRATCH/bloques_r4/` (`armar_corpus_ref4.py`) → extracción (sonnet, ids `r4_*`, mismas notas) → por cada día con notas nuevas de importancia ≥2, revisión con opus que devuelve un parche (sin pasar de 2.600 palabras) → validar → reconstruir app.
+- Libros nuevos: `pedro-judas/ENCARGO.md` y `pedro-judas/RETOMAR.md` (pipeline espejo; app combinada en `pedro-apocalipsis/`).
+- Categorías: Barclay y Comentario Bíblico Adventista = C; Iafrancesco = B; Moody 1J/3J sin autor individual = A (verificar).

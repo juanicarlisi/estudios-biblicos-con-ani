@@ -1,49 +1,542 @@
-{"bloque": "r4_2_01", "notas": [
-{"ref": "intro", "tipo": "estructura_bosquejo", "titulo": "Las dos partes del Apocalipsis según Henry", "contenido": "Henry, Comentario bíblico: el libro consta de dos partes. La primera relata «las cosas que son», el estado entonces presente de la Iglesia: el saludo, la aparición del Señor y las siete epístolas a las iglesias de Asia, que reflejan el estado real de cada una pero contienen preceptos, reprensiones, promesas y amenazas útiles para la Iglesia de todos los tiempos. La segunda contiene la profecía de «las cosas que deben suceder pronto» y describe el estado futuro de la Iglesia desde la época de Juan. El libro está pensado para la mejoría espiritual: advertir al pecador descuidado, orientar al que despierta, edificar al débil, consolar al afligido y fortalecer a los mártires bajo la persecución de Satanás y sus seguidores.", "refs_biblicas": ["Ap 1:19"], "pagina": "pág. PDF 1083", "importancia": 3},
-{"ref": "1:1-3", "tipo": "explicacion_texto", "titulo": "Revelación de Jesucristo: propósitos de Dios para la Iglesia y las naciones", "contenido": "Henry, Comentario bíblico: este libro es la revelación de Jesucristo, como toda la Biblia, porque toda revelación viene por Cristo y se relaciona con Él. Su tema es exponer los propósitos de Dios acerca de los asuntos de la Iglesia y de las naciones en relación con ella, y del fin del mundo; todo ocurrirá con seguridad y empezará a suceder muy pronto. Aunque Cristo es Dios y tiene luz y vida en sí, como Mediador entre Dios y el hombre recibe instrucciones del Padre, y a Él debemos saber qué esperar de Dios y qué espera Dios de nosotros.", "refs_biblicas": ["Ap 1:1-3"], "pagina": "pág. PDF 1083-1084", "importancia": 2},
-{"ref": "1:3", "tipo": "aplicacion_practica", "titulo": "La bendición de leer, oír y guardar: aun lo difícil edifica", "contenido": "Henry, Comentario bíblico: la bendición alcanza a todos los que leen o escuchan las palabras de la profecía; no basta leer y oír, hay que guardar lo escrito en la memoria, la mente, los afectos y la práctica. Según Henry, aun los misterios y las dificultades del libro están unidos a revelaciones de Dios capaces de imprimir temor reverente y purificar el alma del lector, aunque este no discierna el significado profético. Afirma que ninguna parte de la Escritura expone más plenamente el evangelio ni advierte mejor contra el mal del pecado.", "refs_biblicas": ["Ap 1:3"], "pagina": "pág. PDF 1084", "importancia": 2},
-{"ref": "1:4-5", "tipo": "teologia_doctrina", "titulo": "El saludo trinitario: Padre, siete espíritus y Cristo testigo fiel", "contenido": "Henry, Comentario bíblico: la bendición se da en el nombre de la Santa Trinidad y es un acto de adoración; no hay verdadera paz donde no hay verdadera gracia. El Padre es el Señor eterno e inmutable, «el que es, el que era y ha de venir»; el Espíritu Santo, llamado los siete espíritus, es el perfecto Espíritu de Dios con diversidad de dones y operaciones. Jesucristo fue desde la eternidad Testigo de todos los consejos de Dios, Primogénito de los muertos que resucitará a su pueblo y Príncipe de los reyes de la tierra, ante quien deben rendir cuentas.", "refs_biblicas": ["Ap 1:4-5"], "pagina": "pág. PDF 1084", "importancia": 2},
-{"ref": "1:5-6", "tipo": "teologia_doctrina", "titulo": "Sangre de Cristo y creyentes como reyes y sacerdotes", "contenido": "Henry, Comentario bíblico: el pecado deja una mancha de culpa y contaminación que solo quita la sangre de Cristo, derramada para satisfacer la justicia divina y comprar perdón y pureza. Como reyes, los creyentes vencen al mundo, mortifican el pecado, gobiernan sus propios espíritus, resisten a Satanás, prevalecen con Dios en oración y juzgarán al mundo. Como sacerdotes tienen acceso a Dios y pueden ofrecer sacrificios espirituales aceptables; por estos favores deben darle dominio y gloria para siempre.", "refs_biblicas": ["Ap 1:5-6"], "pagina": "pág. PDF 1084", "importancia": 2},
-{"ref": "1:7-8", "tipo": "aplicacion_practica", "titulo": "La venida de Cristo: terror para los impíos, llamado a someterse ahora", "contenido": "Henry, Comentario bíblico: Henry invita a pensar con frecuencia en la segunda venida de Cristo, que vendrá para terror de quienes le hieren y crucifican de nuevo en su apostasía y para asombro del mundo impío; ese día todos verán la sabiduría y felicidad de los amigos de Cristo y la locura de sus enemigos. Cristo es Principio y Fin, el Todopoderoso, eterno e inmutable. Quien quiera ser contado con sus santos debe someterse ahora a Él, recibirle y honrarle como Salvador, porque creemos que será nuestro Juez.", "cita": "¡Ay, que hubiera muchos que desearan no morir nunca, y que no hubiera un día de juicio!", "refs_biblicas": ["Ap 1:7-8"], "pagina": "pág. PDF 1084", "importancia": 2},
-{"ref": "1:9", "tipo": "explicacion_texto", "titulo": "Juan sufre por el testimonio de Jesús, no como malhechor", "contenido": "Henry, Comentario bíblico: el consuelo del apóstol es que no sufrió como malhechor, sino por dar testimonio de Cristo como el Emanuel, el Salvador; el Espíritu de gloria y de Dios reposó sobre este apóstol perseguido. Henry no desarrolla datos históricos de Patmos en este pasaje; se concentra en la condición del testigo perseguido.", "refs_biblicas": ["Ap 1:9", "1 P 4:14"], "pagina": "pág. PDF 1084", "importancia": 1},
-{"ref": "1:10", "tipo": "teologia_doctrina", "titulo": "El día del Señor: primer día de la semana, reposo cristiano", "contenido": "Henry, Comentario bíblico: Henry entiende «el día del Señor» como el día de reposo cristiano, el primer día de la semana, observado en memoria de la resurrección de Cristo. Sostiene que el nombre indica cómo observarlo: dedicado absolutamente al Señor, sin emplear ninguna de sus horas en forma sensual, mundana o en diversiones. Juan estaba en actitud seria, celestial y espiritual bajo la gracia del Espíritu; quien desee comunión con Dios ese día debe sacar sus pensamientos de las cosas terrenales. Si los creyentes son impedidos por necesidad de las ordenanzas públicas, pueden hallar consuelo en la meditación y los deberes secretos. El apóstol oyó primero la trompeta y luego la voz de Cristo.", "refs_biblicas": ["Ap 1:10"], "pagina": "pág. PDF 1084", "importancia": 2},
-{"ref": "1:12-16", "tipo": "simbolo_numero", "titulo": "Los candeleros y la visión de Cristo: significado de cada rasgo", "contenido": "Henry, Comentario bíblico: los candeleros de oro son las iglesias, que reciben su luz de Cristo y del evangelio y deben ser preciosas y puras, no solo los ministros sino los miembros. Cristo está en medio de ellas siempre, llenándolas de luz, vida y amor. El manto hasta los pies representa quizá su justicia y sacerdocio; el cinto de oro, lo precioso de su amor; los cabellos blancos, su majestad, pureza y eternidad; los ojos de fuego, su conocimiento de los secretos de los corazones y de los sucesos distantes; los pies de bronce, la firmeza de sus designios; la voz de muchas aguas, el poder de su palabra; las siete estrellas, los ministros de las siete iglesias, sostenidos y mandados por Él; la espada, su justicia y su palabra (Hebreos 4:12); el rostro como el sol, una fuerza demasiado brillante para ojos mortales.", "refs_biblicas": ["Ap 1:12-16", "He 4:12"], "pagina": "pág. PDF 1085", "importancia": 3},
-{"ref": "1:17-20", "tipo": "cristo_en_apocalipsis", "titulo": "«No temas»: quién es el que aparece", "contenido": "Henry, Comentario bíblico: el apóstol quedó sobrecogido por la gloria de Cristo, y Henry deduce que bien podemos andar por fe mientras estemos en la tierra. El Señor dice palabras de consuelo («No temas») e instrucción sobre quién es: su naturaleza divina (el Primero y el Último), sus sufrimientos (estuve muerto, el mismo que vieron en la cruz), su resurrección y vida (he vencido a la muerte), y su oficio y autoridad, el dominio soberano sobre el mundo invisible como Juez de todo, de cuya sentencia no hay apelación. Exhorta a escuchar su voz y a entregarse totalmente a Aquel que dirige rectamente todas las cosas.", "refs_biblicas": ["Ap 1:17-18"], "pagina": "pág. PDF 1085", "importancia": 2},
-{"ref": "2:1-3:22", "tipo": "explicacion_texto", "titulo": "Las siete cartas: estados distintos de pureza y poder", "contenido": "Henry, Comentario bíblico: las siete iglesias estaban en estados tan diversos de pureza de doctrina y poder de la piedad que las palabras de Cristo para ellas siempre vendrán bien a otras iglesias y creyentes. Cristo conoce y observa el estado de cada una; aunque está en el cielo, anda en medio de sus iglesias en la tierra observando lo que está mal y lo que falta. Al cierre del capítulo 3, Henry subraya que estos consejos, aptos para las iglesias a las que se dirigieron, son profundamente interesantes para todos los hombres.", "refs_biblicas": ["Ap 2:1", "Ap 3:22"], "pagina": "pág. PDF 1085; 1088-1089", "importancia": 2},
-{"ref": "2:1-7", "tipo": "explicacion_texto", "titulo": "Éfeso: diligencia elogiada, fervor perdido", "contenido": "Henry, Comentario bíblico: Éfeso es elogiada por su diligencia en el deber; Cristo lleva la cuenta de cada hora de trabajo de sus siervos, y a la diligencia debe sumarse la paciencia para soportar y para esperar, con mansedumbre hacia los hombres pero justo celo contra sus pecados. Según Henry, lo que Cristo reprocha no es que hubieran abandonado al objeto de su amor, sino que perdieron el grado de fervor que tuvieron al principio. Cristo se descontenta cuando ve a su pueblo remiso y frío, y considera pecaminosa esa indiferencia, que algunos excusan con negligencia.", "refs_biblicas": ["Ap 2:2-4"], "pagina": "pág. PDF 1085", "importancia": 3},
-{"ref": "2:4-5", "tipo": "aplicacion_practica", "titulo": "Arrepentirse y volver al primer celo", "contenido": "Henry, Comentario bíblico: la iglesia debe arrepentirse, dolerse y avergonzarse por su declinación, confesarla humildemente ante Dios, proponerse recuperar su primer celo, ternura y fervor, y orar y velar tan diligentemente como cuando entró por primera vez en los caminos de Dios. Si se descuida la presencia de la gracia y del Espíritu de Cristo, dice Henry, podemos esperar la presencia de su desagrado.", "refs_biblicas": ["Ap 2:4-5"], "pagina": "pág. PDF 1085-1086", "importancia": 2},
-{"ref": "2:6-7", "tipo": "teologia_doctrina", "titulo": "La vida cristiana como guerra y el árbol de la vida celestial", "contenido": "Henry, Comentario bíblico: la indiferencia hacia la verdad y el error, lo bueno y lo malo, puede llamarse caridad y mansedumbre, pero no lo es y desagrada a Cristo. La vida cristiana es una guerra contra el pecado, Satanás, el mundo y la carne, y no se debe ceder a los enemigos espirituales. A quien persevere, Cristo, como Árbol de la vida, le dará perfección y confirmación de santidad y felicidad, no en el paraíso terrenal sino en el celestial; es una expresión figurada tomada del huerto de Edén, que significa los goces puros y eternos del cielo, esperados ya por fe. Henry advierte que la Palabra nunca promete aquí tranquilidad ni libertad completa de conflictos.", "refs_biblicas": ["Ap 2:6-7", "Gn 2:9"], "pagina": "pág. PDF 1086", "importancia": 2},
-{"ref": "2:8-11", "tipo": "explicacion_texto", "titulo": "Esmirna: pobre por fuera, rica en Cristo", "contenido": "Henry, Comentario bíblico: Cristo es el Primero porque por Él fueron hechas todas las cosas y es Dios mismo, y el Último porque será el Juez de todos. Como el que estuvo muerto y vivió, es Hermano y Amigo del creyente, que debe ser rico en la más profunda pobreza, honorable en la humillación y feliz bajo la tribulación, como la iglesia de Esmirna. Muchos ricos del mundo son pobres para el venidero, y algunos pobres por fuera son ricos en fe, buenas obras, privilegios, dones y esperanza; Cristo compensa con riquezas espirituales a los empobrecidos por su causa.", "refs_biblicas": ["Ap 2:8-9"], "pagina": "pág. PDF 1086", "importancia": 2},
-{"ref": "2:10-11", "tipo": "aplicacion_practica", "titulo": "La corona de vida y la muerte segunda", "contenido": "Henry, Comentario bíblico: «No temáis» no solo prohíbe el temor servil sino que lo somete dando fortaleza al alma; la prueba es para probar, no para destruir. Henry destaca la certeza de la recompensa («Te daré»: de la mano misma de Cristo) y su adecuación: la vida gastada en su servicio o entregada por su causa será recompensada con una vida mucho mejor y eterna. La muerte segunda es indeciblemente peor que la primera por sus agonías y por ser eterna; quien es librado de ella puede soportar con paciencia lo que encuentre en este mundo.", "refs_biblicas": ["Ap 2:10-11"], "pagina": "pág. PDF 1086", "importancia": 2},
-{"ref": "2:12-17", "tipo": "explicacion_texto", "titulo": "Pérgamo: firmeza elogiada, doctrina y libertad mal entendidas", "contenido": "Henry, Comentario bíblico: la palabra de Dios es una espada capaz de cortar pecado y pecadores; el creyente no debe temerla, aunque la confianza no puede apoyarse sin obediencia constante. En una situación de prueba Pérgamo no negó la fe ni por apostasía franca ni cediendo para evitar la cruz; Cristo elogia su firmeza pero reprende sus faltas. Para Henry, una visión equivocada de la doctrina del evangelio y de la libertad cristiana era la raíz de amargura de donde surgieron las malas costumbres. El arrepentimiento es deber de las iglesias y cuerpos de hombres: los que pecan juntos deben arrepentirse juntos.", "refs_biblicas": ["Ap 2:12-16", "He 4:12"], "pagina": "pág. PDF 1086", "importancia": 2},
-{"ref": "2:17", "tipo": "simbolo_numero", "titulo": "Maná escondido y nombre nuevo: consolaciones ocultas y adopción", "contenido": "Henry, Comentario bíblico: la promesa de favor al vencedor se refiere, según Henry, a las influencias y consolaciones del Espíritu de Cristo que descienden del cielo al alma para sostenerla, ocultas al resto del mundo. El nombre nuevo es el nombre de la adopción: cuando el Espíritu muestra su obra en el alma, el creyente comprende ese nombre nuevo y su verdadera importancia.", "refs_biblicas": ["Ap 2:17"], "pagina": "pág. PDF 1086", "importancia": 2},
-{"ref": "2:18-23", "tipo": "explicacion_texto", "titulo": "Tiatira: alabada por su progreso, tolerante con seductores", "contenido": "Henry, Comentario bíblico: Cristo, cuyos ojos son como fuego llameante, conoce las obras de su pueblo hechas en amor, fe, celo y paciencia, pero si ve que cometen o permiten el mal, los reprende, corrige o castiga. Hay alabanza al ministerio y al pueblo de Tiatira, que se hicieron más sabios y mejores: todos los cristianos deben desear que sus últimas obras sean las mejores. Pero la iglesia convivía con seductores malvados; los juicios de Dios sobre ellos muestran su conocimiento de los corazones, y se alienta a los que se mantenían puros.", "refs_biblicas": ["Ap 2:18-23"], "pagina": "pág. PDF 1086-1087", "importancia": 2},
-{"ref": "2:24-29", "tipo": "aplicacion_practica", "titulo": "Las profundidades de Satanás y la promesa al vencedor", "contenido": "Henry, Comentario bíblico: según Henry es peligroso despreciar el misterio de Dios y tan peligroso como recibir los misterios de Satanás; hay que cuidarse de sus profundidades, y son más dichosos los que menos las conocen. Cristo es tierno con sus siervos fieles: no pone carga sino lo que es para su bien. Hay promesa de amplia recompensa al creyente perseverante, junto con conocimiento y sabiduría apropiados a su poder y dominio; Cristo trae consigo al alma la luz de la gracia y la gloria. Tras cada victoria hay que seguir la ventaja contra el enemigo para mantener las obras de Cristo hasta el final.", "refs_biblicas": ["Ap 2:24-29"], "pagina": "pág. PDF 1087", "importancia": 2},
-{"ref": "3:1-3", "tipo": "explicacion_texto", "titulo": "Sardis: forma de piedad sin poder, obras vacías", "contenido": "Henry, Comentario bíblico: Cristo tiene al Espíritu Santo con todos sus poderes. A Sardis la acusa de hipocresía y lamentable deterioro: las cosas externas parecían bien, pero había solo forma de piedad, no poder, un nombre que vive sin principio de vida. Sus obras eran huecas: oraciones sin santos deseos, limosnas sin verdadera caridad, días de reposo sin devoción del alma; cuando falta el espíritu, la forma no permanece mucho. Cristo llama a ponerse alerta, activos y fervientes y a revivir por la gracia del Espíritu lo que aún queda. Henry añade que perdemos terreno cada vez que bajamos la guardia.", "cita": "Perdemos terreno cada vez que bajamos la guardia.", "refs_biblicas": ["Ap 3:1-3"], "pagina": "pág. PDF 1087", "importancia": 3},
-{"ref": "3:4-5", "tipo": "teologia_doctrina", "titulo": "Remanente fiel, vestiduras blancas y libro de la vida", "contenido": "Henry, Comentario bíblico: el Señor no deja a estos pecadores sin aliento: menciona con honra al remanente fiel de Sardis y le da promesa de gracia. El vencedor será vestido de blanco: la pureza de la gracia será recompensada con la pureza perfecta de la gloria. Cristo tiene su libro de la vida, registro de todos los que heredarán la vida eterna y de los que viven para Dios y mantienen la vida y el poder de la piedad en los malos tiempos; en el gran día mostrará los nombres de los fieles ante Dios y todos los ángeles.", "refs_biblicas": ["Ap 3:4-5"], "pagina": "pág. PDF 1087", "importancia": 2},
-{"ref": "3:7-8", "tipo": "explicacion_texto", "titulo": "Filadelfia: la llave de Cristo y las puertas que abre", "contenido": "Henry, Comentario bíblico: el Señor Jesús tiene la llave del gobierno y la autoridad en la Iglesia y sobre ella. Abre una puerta de oportunidad a sus iglesias, una puerta de predicación a sus ministros y una puerta de entrada al corazón; cierra la puerta del cielo al necio que se duerme en el día de la gracia y a los hacedores de iniquidad por vanos y confiados que sean. Filadelfia es elogiada con un suave reproche: Cristo acepta un poco de fuerza, pero los creyentes no deben contentarse con poco, sino crecer en gracia y ser fuertes en la fe.", "refs_biblicas": ["Ap 3:7-8"], "pagina": "pág. PDF 1087-1088", "importancia": 2},
-{"ref": "3:9-12", "tipo": "teologia_doctrina", "titulo": "Preservación en la hora de la prueba y el pilar en el templo", "contenido": "Henry, Comentario bíblico: Cristo puede descubrir su favor a su pueblo de modo que sus enemigos se vean forzados a reconocerlo y deseen comunión con él. Promete preservar la gracia en las épocas de mayor prueba como premio por la fidelidad pasada («al que tiene le será dado»): quienes sostienen el evangelio en paz serán sostenidos en la hora de la tentación y la misma gracia que los hizo fructificar en la paz los hará fieles en la persecución. Al vencedor lo hará un pilar monumental del templo de Dios, monumento de la gracia gratuita que nunca será quitado, sobre el cual estará escrito el nuevo nombre de Cristo.", "refs_biblicas": ["Ap 3:9-12"], "pagina": "pág. PDF 1087-1088", "importancia": 2},
-{"ref": "3:14-16", "tipo": "explicacion_texto", "titulo": "Laodicea: la última y peor, ni fría ni caliente", "contenido": "Henry, Comentario bíblico: Henry califica a Laodicea como la última y la peor de las siete iglesias de Asia. Cristo se presenta como «el Amén», constante e inmutable en sus propósitos y promesas. «Si la religión vale algo, lo vale todo»: Cristo espera hombres fervorosos. Henry critica a quienes profesan la doctrina del evangelio y no son ni fríos ni calientes: indiferentes en lo necesario, pero calientes y fieros en debates de cosas menores. Esa tibieza da una falsa impresión del cristianismo, como religión impía o que no permite satisfacción real.", "cita": "Si la religión vale algo, lo vale todo.", "refs_biblicas": ["Ap 3:14-16"], "pagina": "pág. PDF 1088", "importancia": 3},
-{"ref": "3:17-18", "tipo": "aplicacion_practica", "titulo": "Orgullo y autoengaño de Laodicea; el consejo de Cristo", "contenido": "Henry, Comentario bíblico: una causa de esta indiferencia es el orgullo y el engaño de sí mismo («Porque dices»); hay enorme diferencia entre lo que piensan de sí y lo que Cristo piensa de ellos. Eran realmente pobres, sin el manto de la justificación ni de la santificación, desnudos al pecado y la vergüenza: su justicia era trapo de inmundicias, sin casa ni techo porque sin Dios, el único en quien el alma halla reposo. Cristo aconseja dejar el pecado y la confianza en sí mismos, recibir su ropaje blanco (su justicia imputada para justificación y las vestiduras de santidad) y entregarse a su palabra y Espíritu para que sus ojos se abran. Henry advierte: en el infierno hay muchos que creyeron ir bien adelantados hacia el cielo.", "cita": "En el infierno hay muchos que pensaron que iban bien adelantados en el camino al cielo.", "refs_biblicas": ["Ap 3:17-18", "Is 64:6"], "pagina": "pág. PDF 1088", "importancia": 3},
-{"ref": "3:19-20", "tipo": "cristo_en_apocalipsis", "titulo": "Cristo llama a la puerta del corazón", "contenido": "Henry, Comentario bíblico: los pecadores deberían tomar las reprensiones de la palabra y de la vara de Dios como señales de su amor por sus almas. Cristo quedó afuera y llama por los tratos de su providencia, las advertencias de su palabra y la obra de su Espíritu; sigue viniendo a la puerta del corazón de los pecadores, y los que abran disfrutarán su presencia. Henry señala que si lo que Cristo encuentra es solo una pobre fiesta, lo que Él trae la hará rica, con nueva provisión de gracia y consuelos.", "cita": "Si los que encuentre sirven sólo para una pobre fiesta, lo que Él trae la hará rica.", "refs_biblicas": ["Ap 3:19-20"], "pagina": "pág. PDF 1088", "importancia": 3},
-{"ref": "3:21-22", "tipo": "cristo_en_apocalipsis", "titulo": "El vencedor: como Cristo en las pruebas, como Él en la gloria", "contenido": "Henry, Comentario bíblico: la promesa al vencedor se apoya en el ejemplo de Cristo mismo, que tuvo tentaciones y conflictos, los venció a todos y fue más que vencedor; los que son como Cristo en sus pruebas serán hechos como Él en gloria. La carta termina con el pedido de atención general, que Henry lee como universal.", "refs_biblicas": ["Ap 3:21-22"], "pagina": "pág. PDF 1088", "importancia": 2},
-{"ref": "4:1-3", "tipo": "simbolo_numero", "titulo": "El trono, el Uno glorioso, las piedras y el arco iris", "contenido": "Henry, Comentario bíblico: tras instruir a Juan sobre «las cosas que son», hay otra visión: un trono en el cielo, emblema del dominio universal de Jehová. Vio a Uno glorioso, no descrito con rasgos humanos para evitar semejanza o imagen, sino solo por su fulgor sin igual; los fulgores parecen símbolos de la excelencia de la naturaleza divina y de la temible justicia de Dios. El arco iris es símbolo del pacto de promesas de Dios con Cristo como Cabeza de la Iglesia y con su pueblo en Él; su color dominante, un verde agradable, muestra la naturaleza revivida y refrescante del nuevo pacto.", "refs_biblicas": ["Ap 4:1-3"], "pagina": "pág. PDF 1089", "importancia": 2},
-{"ref": "4:4-5", "tipo": "simbolo_numero", "titulo": "Los veinticuatro ancianos representan probablemente a toda la Iglesia", "contenido": "Henry, Comentario bíblico: los veinticuatro ancianos sentados alrededor del trono probablemente representan a toda la Iglesia de Dios: estar sentados significa honra, reposo y satisfacción; alrededor del trono, cercanía a Dios y deleite en Él; los ropajes blancos, la justicia imputada y la santidad; las coronas de oro, la gloria que tienen con Él. Los rayos y voces del trono son las declaraciones temibles de Dios a su iglesia sobre su soberana voluntad; las siete lámparas de fuego son los dones, gracias y operaciones del Espíritu en las iglesias, dispensadas según la voluntad del que se sienta en el trono.", "refs_biblicas": ["Ap 4:4-5"], "pagina": "pág. PDF 1089", "importancia": 3},
-{"ref": "4:6", "tipo": "teologia_doctrina", "titulo": "El lavacro de la Iglesia del evangelio: la sangre de Cristo", "contenido": "Henry, Comentario bíblico: Henry comenta en este punto que en la Iglesia del evangelio el lavacro para la purificación es la sangre del Señor Jesucristo, que limpia de todo pecado; en ella deben ser lavados todos para ser admitidos por gracia en la presencia de Dios en la tierra y ante su gloriosa presencia en el cielo.", "refs_biblicas": ["Ap 4:6", "1 Jn 1:7"], "pagina": "pág. PDF 1089", "importancia": 1},
-{"ref": "4:6-8", "tipo": "simbolo_numero", "titulo": "Los cuatro seres vivientes: ministros entre Dios y la gente", "contenido": "Henry, Comentario bíblico: los cuatro seres vivientes, situados entre el trono y el círculo de los ancianos, parecen significar a los verdaderos ministros del evangelio por su lugar entre Dios y la gente. Lo señala también su descripción, que significa sabiduría, valor, diligencia y discreción, y los afectos por los cuales suben al cielo.", "refs_biblicas": ["Ap 4:6-8"], "pagina": "pág. PDF 1089", "importancia": 2},
-{"ref": "4:9-11", "tipo": "aplicacion_practica", "titulo": "Alabanzas constantes, unidas y humildes", "contenido": "Henry, Comentario bíblico: todos los creyentes verdaderos atribuyen su redención y conversión, sus privilegios presentes y sus esperanzas futuras al eterno y santo Dios; así suben al cielo los cánticos agradecidos y armoniosos de los redimidos. Henry exhorta a que en la tierra las alabanzas sean constantes, ininterrumpidas, unidas, indivisas, agradecidas, no frías ni formales, humildes y no confiadas en sí mismas.", "refs_biblicas": ["Ap 4:9-11"], "pagina": "pág. PDF 1089", "importancia": 1},
-{"ref": "5:1-4", "tipo": "explicacion_texto", "titulo": "El rollo sellado: los consejos de Dios y el llanto de Juan", "contenido": "Henry, Comentario bíblico: el rollo de pergaminos con siete sellos representa los propósitos secretos de Dios que iban a ser revelados: los designios y métodos de la providencia divina para la Iglesia y el mundo, determinados y por escrito, y ocultos al entendimiento de la criatura; se abren una parte tras otra hasta consumar el misterio. Los que más ven de Dios desean ver más, pero hasta los hombres buenos pueden ser demasiado anhelantes y apresurados por escudriñar sus misterios. Si Juan lloró por no poder leer el libro, mucha más razón tienen muchos para llorar por su ignorancia del evangelio. Henry afirma que no necesitamos prever calamidades personales (nos volvería ineptos para nuestros deberes), pero sí podemos conocer por las promesas el final para los creyentes y la Iglesia.", "refs_biblicas": ["Ap 5:1-4"], "pagina": "pág. PDF 1090", "importancia": 3},
-{"ref": "5:5-7", "tipo": "cristo_en_apocalipsis", "titulo": "El León que aparece como Cordero inmolado", "contenido": "Henry, Comentario bíblico: Cristo está como Mediador entre Dios y los ministros y el pueblo. Se le llama León, pero aparece como Cordero inmolado, con las marcas de sus sufrimientos para mostrar que intercede en el cielo en virtud de la satisfacción que hizo. Los siete cuernos y siete ojos son el poder perfecto para ejecutar la voluntad de Dios y la sabiduría perfecta para entenderla y hacerla del modo más eficaz. El Padre puso el libro de sus eternos consejos en la mano de Cristo y Él lo tomó rápida y alegremente, porque se deleita en dar a conocer la voluntad del Padre y da el Espíritu Santo para revelar la verdad.", "refs_biblicas": ["Ap 5:5-7"], "pagina": "pág. PDF 1090", "importancia": 3},
-{"ref": "5:8-10", "tipo": "teologia_doctrina", "titulo": "Oración y alabanza juntas; redimidos como reyes y sacerdotes", "contenido": "Henry, Comentario bíblico: las arpas son instrumentos de alabanza y los vasos llenos de perfume o incienso representan las oraciones de los santos; la alabanza y la oración siempre deben ir juntas. Dios trata con los hombres con gracia y misericordia por medio del Redentor y gobierna el mundo no solo como Creador sino como nuestro Salvador. Cristo ha redimido a su pueblo de la esclavitud del pecado, la culpa y Satanás y le compró libertad, honra y preferencia: reyes, para reinar sobre sus propios espíritus y vencer al mundo y al maligno, y sacerdotes, con acceso a Él y libertad de ofrecer sacrificios espirituales.", "refs_biblicas": ["Ap 5:8-10"], "pagina": "pág. PDF 1090", "importancia": 2},
-{"ref": "5:11-14", "tipo": "apologetica", "titulo": "Cristo adorado igualmente con el Padre", "contenido": "Henry, Comentario bíblico: Henry argumenta que las palabras del himno declaran plenamente que Cristo es, y debe ser, adorado igualmente con el Padre por todas las criaturas por toda la eternidad. Dichosos los que adorarán y alabarán en el cielo y bendecirán siempre al Cordero que los libró y los apartó para sí por su sangre. Cierra con una doxología trinitaria: Padre, Hijo y Espíritu Santo son dignos de las más excelsas alabanzas.", "refs_biblicas": ["Ap 5:11-14"], "pagina": "pág. PDF 1090", "importancia": 2},
-{"ref": "6:1-2", "tipo": "escuelas_interpretacion", "titulo": "Primer sello: el caballo blanco como el avance temprano del cristianismo", "contenido": "Henry, Comentario bíblico: Henry interpreta el caballo blanco como un tiempo de paz o el progreso temprano de la religión cristiana, que sale con pureza cuando su Fundador celestial mandó a los apóstoles enseñar a todas las naciones («yo estoy siempre con vosotros»). La religión divina sale coronada, con el favor de Dios, armada espiritualmente contra sus enemigos y destinada a ser victoriosa al final. Es una lectura historicista de los sellos, que Henry presenta con la fórmula «parece».", "escuela": "historicista", "postura": "Henry ve en el jinete blanco la propagación del evangelio, no a un personaje individual.", "refs_biblicas": ["Ap 6:1-2", "Mt 28:20"], "pagina": "pág. PDF 1090-1091", "importancia": 3},
-{"ref": "6:3-4", "tipo": "escuelas_interpretacion", "titulo": "Segundo sello: caballo bermejo, guerra y persecución", "contenido": "Henry, Comentario bíblico: el caballo bermejo significa juicios que hacen estragos: la espada de la guerra y la persecución quita la paz de la tierra, una de las mayores bendiciones, y los hombres que debieran amarse se matan entre sí. Henry afirma que tales escenas siguieron a la pura era del cristianismo temprano, cuando los líderes cristianos, desechando la caridad y el vínculo de la paz, se dividieron entre sí, apelaron a la espada y se enredaron en la culpa.", "escuela": "historicista", "refs_biblicas": ["Ap 6:3-4"], "pagina": "pág. PDF 1091", "importancia": 2},
-{"ref": "6:5-6", "tipo": "escuelas_interpretacion", "titulo": "Tercer sello: caballo negro, ignorancia y hambre de la palabra", "contenido": "Henry, Comentario bíblico: el caballo negro denota luto, tinieblas e ignorancia. El jinete tiene un yugo (balanza en la versión 1960) en la mano: Henry lo relaciona con los intentos de imponer a los discípulos un yugo de observancias supersticiosas, mientras el cristianismo se corrompe al alejarse de su pura fuente. Los precios exagerados de las necesidades de la vida significarían, en lenguaje profético, el alimento del saber religioso por el cual se sustentan las almas (Isaías 55:1); cuando se extienden las nubes de ignorancia y superstición, el conocimiento y la práctica de la religión verdadera se vuelven escasos. Henry concluye que el hambre de la palabra es peor que el hambre de pan.", "escuela": "historicista", "refs_biblicas": ["Ap 6:5-6", "Is 55:1"], "pagina": "pág. PDF 1091", "importancia": 2},
-{"ref": "6:7-8", "tipo": "escuelas_interpretacion", "titulo": "Cuarto sello: caballo amarillo y la muerte; fechas no discernibles", "contenido": "Henry, Comentario bíblico: el jinete del caballo amarillo pálido es la muerte, rey de los terrores, seguida por el infierno, estado de miseria eterna para los que mueren en sus pecados; en las épocas de destrucción general multitudes se van a la fosa sin estar preparadas. El período del cuarto sello es de gran carnicería y devastación que asuela las vidas espirituales, así se completó el misterio de iniquidad y su poder se extendió sobre vidas y conciencias. Henry aclara que no se pueden discernir las fechas exactas de estos cuatro sellos porque los cambios fueron graduales. Dios les dio poder: son instrumentos de sus juicios, que no avanzan más allá de lo que Él permite.", "escuela": "historicista", "refs_biblicas": ["Ap 6:7-8"], "pagina": "pág. PDF 1091", "importancia": 2},
-{"ref": "6:9-11", "tipo": "teologia_doctrina", "titulo": "Quinto sello: las almas bajo el altar", "contenido": "Henry, Comentario bíblico: Henry ve las almas de los mártires al pie del altar del cielo, a los pies de Cristo. Los perseguidores solo pueden matar el cuerpo; el alma vive, y Dios ha provisto un buen lugar en el mundo mejor para los fieles hasta la muerte. No es su propia muerte, sino el sacrificio de Cristo lo que les da entrada. La causa de su sufrimiento fue la palabra de Dios. Ellos encomiendan su causa a Aquel a quien pertenece la venganza; su sangre es preciosa ante sus ojos. Al llenarse la medida del pecado de los perseguidores y el número de los martirizados, Dios enviará tribulación a quienes los perturban y reposo sin interrupción a los perturbados.", "refs_biblicas": ["Ap 6:9-11"], "pagina": "pág. PDF 1091", "importancia": 3},
-{"ref": "6:12-17", "tipo": "dificultad_interpretaciones", "titulo": "Sexto sello: terremoto, ira del Cordero y caída del paganismo romano", "contenido": "Henry, Comentario bíblico: el gran terremoto significa que los fundamentos de iglesias y estados serán remecidos terriblemente; Henry recuerda que estas descripciones figuradas osadas de grandes cambios abundan en la profecía bíblica, y que tales sucesos son emblemas del fin del mundo y del día del juicio. Pánico y terror cogerán a toda clase de hombres sin que riquezas, valor o fuerza los sostengan; la ira del Cordero es espantosa porque si nuestro enemigo es el mismo Redentor, no hay otro amigo que alegue por nosotros. Henry agrega que aquí «parece» representarse el derrumbamiento del paganismo del imperio romano (idólatras ocultos en cuevas), y llama a los cristianos a confesar denodadamente a Cristo: el desprecio de los hombres es breve, la vergüenza eterna.", "escuela": "historicista", "postura": "Henry une dos lecturas: emblema del fin del mundo y del juicio, y cumplimiento en la caída del paganismo romano; la segunda parece ser su lectura prevaleciente.", "refs_biblicas": ["Ap 6:12-17"], "pagina": "pág. PDF 1091-1092", "importancia": 3},
-{"ref": "7:1-3", "tipo": "simbolo_numero", "titulo": "Los cuatro vientos y el sello en la frente", "contenido": "Henry, Comentario bíblico: que los cuatro vientos soplen juntos significa en lenguaje figurado una destrucción general terrible, que es retardada. Los sellos se usaban para que cada persona marcara sus pertenencias; la marca es el testimonio del Espíritu Santo impreso en el corazón de los creyentes. El Señor no tolerará que su pueblo sea afligido antes de ser marcado. El sello está en la frente, evidentemente para ser visto por amigos y enemigos, pero no por el creyente mismo salvo mirando en el espejo de la palabra.", "refs_biblicas": ["Ap 7:1-3"], "pagina": "pág. PDF 1092", "importancia": 2},
-{"ref": "7:4-8", "tipo": "simbolo_numero", "titulo": "Los 144.000: el remanente, la Iglesia universal bajo el tipo de Israel", "contenido": "Henry, Comentario bíblico: el número de los sellados puede entenderse como representando el remanente que Dios reserva. Aunque la Iglesia es una manada pequeña comparada con el mundo malo, es una sociedad realmente grande y que crecerá más aún. Henry afirma que aquí está figurada la Iglesia universal bajo el tipo de Israel.", "cita": "Aquí está figurada la Iglesia universal bajo el tipo de Israel.", "postura": "Los 144.000 representan a la Iglesia universal, no un grupo étnico literal.", "refs_biblicas": ["Ap 7:4-8"], "pagina": "pág. PDF 1092", "importancia": 3},
-{"ref": "7:9-12", "tipo": "explicacion_texto", "titulo": "La gran multitud: primicias y gentiles, palmas y alabanza", "contenido": "Henry, Comentario bíblico: Henry dice que las primicias de Cristo, que abrieron el camino, son seguidas por los gentiles convertidos más tarde, que atribuyen con triunfo su salvación a Dios y al Redentor. En el culto nos acercamos a Dios por Cristo, porque los pecadores no pueden aproximarse al trono sin Mediador. Los ropajes son los de la justificación, la santidad y la victoria, y las palmas son las de los vencedores en sus triunfos. La obra del cielo es la bendición pública y fervorosa al Padre y al Hijo; debemos empezarla ahora y anhelar el mundo donde nuestra alabanza será perfeccionada.", "refs_biblicas": ["Ap 7:9-12"], "pagina": "pág. PDF 1092", "importancia": 2},
-{"ref": "7:13-17", "tipo": "teologia_doctrina", "titulo": "Los que salieron de la gran tribulación: la sangre del Cordero y el consuelo de Dios", "contenido": "Henry, Comentario bíblico: el camino al cielo pasa por muchas tribulaciones, pero ninguna tribulación, por grande que sea, nos separa del amor de Dios; la tribulación hace el cielo más bienvenido. Henry insiste en que no es la sangre de los mártires sino la sangre del Cordero la que puede lavar el pecado, la única que emblanquece las ropas de los santos. El cielo es un estado de servicio sin sufrimiento y de reposo sin pereza; Dios, con su mano de gracia, enjugará todas las lágrimas por el pecado y la aflicción y los trata como padre tierno, lo que debe sostener al cristiano en sus aflicciones.", "cita": "No es la sangre de los mártires, sino la sangre del Cordero la que puede lavar el pecado", "refs_biblicas": ["Ap 7:13-17"], "pagina": "pág. PDF 1092-1093", "importancia": 3}
-], "problemas": ""}
+{
+ "bloque": "r4_2_01",
+ "notas": [
+  {
+   "ref": "intro",
+   "tipo": "estructura_bosquejo",
+   "titulo": "Las dos partes del Apocalipsis según Henry",
+   "contenido": "Henry, Comentario bíblico: el libro consta de dos partes. La primera relata «las cosas que son», el estado entonces presente de la Iglesia: el saludo, la aparición del Señor y las siete epístolas a las iglesias de Asia, que reflejan el estado real de cada una pero contienen preceptos, reprensiones, promesas y amenazas útiles para la Iglesia de todos los tiempos. La segunda contiene la profecía de «las cosas que deben suceder pronto» y describe el estado futuro de la Iglesia desde la época de Juan. El libro está pensado para la mejoría espiritual: advertir al pecador descuidado, orientar al que despierta, edificar al débil, consolar al afligido y fortalecer a los mártires bajo la persecución de Satanás y sus seguidores.",
+   "refs_biblicas": [
+    "Ap 1:19"
+   ],
+   "pagina": "pág. PDF 1083",
+   "importancia": 3
+  },
+  {
+   "ref": "1:1-3",
+   "tipo": "explicacion_texto",
+   "titulo": "Revelación de Jesucristo: propósitos de Dios para la Iglesia y las naciones",
+   "contenido": "Henry, Comentario bíblico: este libro es la revelación de Jesucristo, como toda la Biblia, porque toda revelación viene por Cristo y se relaciona con Él. Su tema es exponer los propósitos de Dios acerca de los asuntos de la Iglesia y de las naciones en relación con ella, y del fin del mundo; todo ocurrirá con seguridad y empezará a suceder muy pronto. Aunque Cristo es Dios y tiene luz y vida en sí, como Mediador entre Dios y el hombre recibe instrucciones del Padre, y a Él debemos saber qué esperar de Dios y qué espera Dios de nosotros.",
+   "refs_biblicas": [
+    "Ap 1:1-3"
+   ],
+   "pagina": "pág. PDF 1083-1084",
+   "importancia": 2
+  },
+  {
+   "ref": "1:3",
+   "tipo": "aplicacion_practica",
+   "titulo": "La bendición de leer, oír y guardar: aun lo difícil edifica",
+   "contenido": "Henry, Comentario bíblico: la bendición alcanza a todos los que leen o escuchan las palabras de la profecía; no basta leer y oír, hay que guardar lo escrito en la memoria, la mente, los afectos y la práctica. Según Henry, aun los misterios y las dificultades del libro están unidos a revelaciones de Dios capaces de imprimir temor reverente y purificar el alma del lector, aunque este no discierna el significado profético. Afirma que ninguna parte de la Escritura expone más plenamente el evangelio ni advierte mejor contra el mal del pecado.",
+   "refs_biblicas": [
+    "Ap 1:3"
+   ],
+   "pagina": "pág. PDF 1084",
+   "importancia": 2
+  },
+  {
+   "ref": "1:4-5",
+   "tipo": "teologia_doctrina",
+   "titulo": "El saludo trinitario: Padre, siete espíritus y Cristo testigo fiel",
+   "contenido": "Henry, Comentario bíblico: la bendición se da en el nombre de la Santa Trinidad y es un acto de adoración; no hay verdadera paz donde no hay verdadera gracia. El Padre es el Señor eterno e inmutable, «el que es, el que era y ha de venir»; el Espíritu Santo, llamado los siete espíritus, es el perfecto Espíritu de Dios con diversidad de dones y operaciones. Jesucristo fue desde la eternidad Testigo de todos los consejos de Dios, Primogénito de los muertos que resucitará a su pueblo y Príncipe de los reyes de la tierra, ante quien deben rendir cuentas.",
+   "refs_biblicas": [
+    "Ap 1:4-5"
+   ],
+   "pagina": "pág. PDF 1084",
+   "importancia": 2
+  },
+  {
+   "ref": "1:5-6",
+   "tipo": "teologia_doctrina",
+   "titulo": "Sangre de Cristo y creyentes como reyes y sacerdotes",
+   "contenido": "Henry, Comentario bíblico: el pecado deja una mancha de culpa y contaminación que solo quita la sangre de Cristo, derramada para satisfacer la justicia divina y comprar perdón y pureza. Como reyes, los creyentes vencen al mundo, mortifican el pecado, gobiernan sus propios espíritus, resisten a Satanás, prevalecen con Dios en oración y juzgarán al mundo. Como sacerdotes tienen acceso a Dios y pueden ofrecer sacrificios espirituales aceptables; por estos favores deben darle dominio y gloria para siempre.",
+   "refs_biblicas": [
+    "Ap 1:5-6"
+   ],
+   "pagina": "pág. PDF 1084",
+   "importancia": 2
+  },
+  {
+   "ref": "1:7-8",
+   "tipo": "aplicacion_practica",
+   "titulo": "La venida de Cristo: terror para los impíos, llamado a someterse ahora",
+   "contenido": "Henry, Comentario bíblico: Henry invita a pensar con frecuencia en la segunda venida de Cristo, que vendrá para terror de quienes le hieren y crucifican de nuevo en su apostasía y para asombro del mundo impío; ese día todos verán la sabiduría y felicidad de los amigos de Cristo y la locura de sus enemigos. Cristo es Principio y Fin, el Todopoderoso, eterno e inmutable. Quien quiera ser contado con sus santos debe someterse ahora a Él, recibirle y honrarle como Salvador, porque creemos que será nuestro Juez.",
+   "cita": "¡Ay, que hubiera muchos que desearan no morir nunca, y que no hubiera un día de juicio!",
+   "refs_biblicas": [
+    "Ap 1:7-8"
+   ],
+   "pagina": "pág. PDF 1084",
+   "importancia": 2
+  },
+  {
+   "ref": "1:9",
+   "tipo": "explicacion_texto",
+   "titulo": "Juan sufre por el testimonio de Jesús, no como malhechor",
+   "contenido": "Henry, Comentario bíblico: el consuelo del apóstol es que no sufrió como malhechor, sino por dar testimonio de Cristo como el Emanuel, el Salvador; el Espíritu de gloria y de Dios reposó sobre este apóstol perseguido. Henry no desarrolla datos históricos de Patmos en este pasaje; se concentra en la condición del testigo perseguido.",
+   "refs_biblicas": [
+    "Ap 1:9",
+    "1 P 4:14"
+   ],
+   "pagina": "pág. PDF 1084",
+   "importancia": 1
+  },
+  {
+   "ref": "1:10",
+   "tipo": "teologia_doctrina",
+   "titulo": "El día del Señor: primer día de la semana, reposo cristiano",
+   "contenido": "Henry, Comentario bíblico: Henry entiende «el día del Señor» como el día de reposo cristiano, el primer día de la semana, observado en memoria de la resurrección de Cristo. Sostiene que el nombre indica cómo observarlo: dedicado absolutamente al Señor, sin emplear ninguna de sus horas en forma sensual, mundana o en diversiones. Juan estaba en actitud seria, celestial y espiritual bajo la gracia del Espíritu; quien desee comunión con Dios ese día debe sacar sus pensamientos de las cosas terrenales. Si los creyentes son impedidos por necesidad de las ordenanzas públicas, pueden hallar consuelo en la meditación y los deberes secretos. El apóstol oyó primero la trompeta y luego la voz de Cristo.",
+   "refs_biblicas": [
+    "Ap 1:10"
+   ],
+   "pagina": "pág. PDF 1084",
+   "importancia": 2
+  },
+  {
+   "ref": "1:12-16",
+   "tipo": "simbolo_numero",
+   "titulo": "Los candeleros y la visión de Cristo: significado de cada rasgo",
+   "contenido": "Henry, Comentario bíblico: los candeleros de oro son las iglesias, que reciben su luz de Cristo y del evangelio y deben ser preciosas y puras, no solo los ministros sino los miembros. Cristo está en medio de ellas siempre, llenándolas de luz, vida y amor. El manto hasta los pies representa quizá su justicia y sacerdocio; el cinto de oro, lo precioso de su amor; los cabellos blancos, su majestad, pureza y eternidad; los ojos de fuego, su conocimiento de los secretos de los corazones y de los sucesos distantes; los pies de bronce, la firmeza de sus designios; la voz de muchas aguas, el poder de su palabra; las siete estrellas, los ministros de las siete iglesias, sostenidos y mandados por Él; la espada, su justicia y su palabra (Hebreos 4:12); el rostro como el sol, una fuerza demasiado brillante para ojos mortales.",
+   "refs_biblicas": [
+    "Ap 1:12-16",
+    "He 4:12"
+   ],
+   "pagina": "pág. PDF 1085",
+   "importancia": 3
+  },
+  {
+   "ref": "1:17-20",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "«No temas»: quién es el que aparece",
+   "contenido": "Henry, Comentario bíblico: el apóstol quedó sobrecogido por la gloria de Cristo, y Henry deduce que bien podemos andar por fe mientras estemos en la tierra. El Señor dice palabras de consuelo («No temas») e instrucción sobre quién es: su naturaleza divina (el Primero y el Último), sus sufrimientos (estuve muerto, el mismo que vieron en la cruz), su resurrección y vida (he vencido a la muerte), y su oficio y autoridad, el dominio soberano sobre el mundo invisible como Juez de todo, de cuya sentencia no hay apelación. Exhorta a escuchar su voz y a entregarse totalmente a Aquel que dirige rectamente todas las cosas.",
+   "refs_biblicas": [
+    "Ap 1:17-18"
+   ],
+   "pagina": "pág. PDF 1085",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-3:22",
+   "tipo": "explicacion_texto",
+   "titulo": "Las siete cartas: estados distintos de pureza y poder",
+   "contenido": "Henry, Comentario bíblico: las siete iglesias estaban en estados tan diversos de pureza de doctrina y poder de la piedad que las palabras de Cristo para ellas siempre vendrán bien a otras iglesias y creyentes. Cristo conoce y observa el estado de cada una; aunque está en el cielo, anda en medio de sus iglesias en la tierra observando lo que está mal y lo que falta. Al cierre del capítulo 3, Henry subraya que estos consejos, aptos para las iglesias a las que se dirigieron, son profundamente interesantes para todos los hombres.",
+   "refs_biblicas": [
+    "Ap 2:1",
+    "Ap 3:22"
+   ],
+   "pagina": "pág. PDF 1085; 1088-1089",
+   "importancia": 2
+  },
+  {
+   "ref": "2:1-7",
+   "tipo": "explicacion_texto",
+   "titulo": "Éfeso: diligencia elogiada, fervor perdido",
+   "contenido": "Henry, Comentario bíblico: Éfeso es elogiada por su diligencia en el deber; Cristo lleva la cuenta de cada hora de trabajo de sus siervos, y a la diligencia debe sumarse la paciencia para soportar y para esperar, con mansedumbre hacia los hombres pero justo celo contra sus pecados. Según Henry, lo que Cristo reprocha no es que hubieran abandonado al objeto de su amor, sino que perdieron el grado de fervor que tuvieron al principio. Cristo se descontenta cuando ve a su pueblo remiso y frío, y considera pecaminosa esa indiferencia, que algunos excusan con negligencia.",
+   "refs_biblicas": [
+    "Ap 2:2-4"
+   ],
+   "pagina": "pág. PDF 1085",
+   "importancia": 3
+  },
+  {
+   "ref": "2:4-5",
+   "tipo": "aplicacion_practica",
+   "titulo": "Arrepentirse y volver al primer celo",
+   "contenido": "Henry, Comentario bíblico: la iglesia debe arrepentirse, dolerse y avergonzarse por su declinación, confesarla humildemente ante Dios, proponerse recuperar su primer celo, ternura y fervor, y orar y velar tan diligentemente como cuando entró por primera vez en los caminos de Dios. Si se descuida la presencia de la gracia y del Espíritu de Cristo, dice Henry, podemos esperar la presencia de su desagrado.",
+   "refs_biblicas": [
+    "Ap 2:4-5"
+   ],
+   "pagina": "pág. PDF 1085-1086",
+   "importancia": 2
+  },
+  {
+   "ref": "2:6-7",
+   "tipo": "teologia_doctrina",
+   "titulo": "La vida cristiana como guerra y el árbol de la vida celestial",
+   "contenido": "Henry, Comentario bíblico: la indiferencia hacia la verdad y el error, lo bueno y lo malo, puede llamarse caridad y mansedumbre, pero no lo es y desagrada a Cristo. La vida cristiana es una guerra contra el pecado, Satanás, el mundo y la carne, y no se debe ceder a los enemigos espirituales. A quien persevere, Cristo, como Árbol de la vida, le dará perfección y confirmación de santidad y felicidad, no en el paraíso terrenal sino en el celestial; es una expresión figurada tomada del huerto de Edén, que significa los goces puros y eternos del cielo, esperados ya por fe. Henry advierte que la Palabra nunca promete aquí tranquilidad ni libertad completa de conflictos.",
+   "refs_biblicas": [
+    "Ap 2:6-7",
+    "Gn 2:9"
+   ],
+   "pagina": "pág. PDF 1086",
+   "importancia": 2
+  },
+  {
+   "ref": "2:8-11",
+   "tipo": "explicacion_texto",
+   "titulo": "Esmirna: pobre por fuera, rica en Cristo",
+   "contenido": "Henry, Comentario bíblico: Cristo es el Primero porque por Él fueron hechas todas las cosas y es Dios mismo, y el Último porque será el Juez de todos. Como el que estuvo muerto y vivió, es Hermano y Amigo del creyente, que debe ser rico en la más profunda pobreza, honorable en la humillación y feliz bajo la tribulación, como la iglesia de Esmirna. Muchos ricos del mundo son pobres para el venidero, y algunos pobres por fuera son ricos en fe, buenas obras, privilegios, dones y esperanza; Cristo compensa con riquezas espirituales a los empobrecidos por su causa.",
+   "refs_biblicas": [
+    "Ap 2:8-9"
+   ],
+   "pagina": "pág. PDF 1086",
+   "importancia": 2
+  },
+  {
+   "ref": "2:10-11",
+   "tipo": "aplicacion_practica",
+   "titulo": "La corona de vida y la muerte segunda",
+   "contenido": "Henry, Comentario bíblico: «No temáis» no solo prohíbe el temor servil sino que lo somete dando fortaleza al alma; la prueba es para probar, no para destruir. Henry destaca la certeza de la recompensa («Te daré»: de la mano misma de Cristo) y su adecuación: la vida gastada en su servicio o entregada por su causa será recompensada con una vida mucho mejor y eterna. La muerte segunda es indeciblemente peor que la primera por sus agonías y por ser eterna; quien es librado de ella puede soportar con paciencia lo que encuentre en este mundo.",
+   "refs_biblicas": [
+    "Ap 2:10-11"
+   ],
+   "pagina": "pág. PDF 1086",
+   "importancia": 2
+  },
+  {
+   "ref": "2:12-17",
+   "tipo": "explicacion_texto",
+   "titulo": "Pérgamo: firmeza elogiada, doctrina y libertad mal entendidas",
+   "contenido": "Henry, Comentario bíblico: la palabra de Dios es una espada capaz de cortar pecado y pecadores; el creyente no debe temerla, aunque la confianza no puede apoyarse sin obediencia constante. En una situación de prueba Pérgamo no negó la fe ni por apostasía franca ni cediendo para evitar la cruz; Cristo elogia su firmeza pero reprende sus faltas. Para Henry, una visión equivocada de la doctrina del evangelio y de la libertad cristiana era la raíz de amargura de donde surgieron las malas costumbres. El arrepentimiento es deber de las iglesias y cuerpos de hombres: los que pecan juntos deben arrepentirse juntos.",
+   "refs_biblicas": [
+    "Ap 2:12-16",
+    "He 4:12"
+   ],
+   "pagina": "pág. PDF 1086",
+   "importancia": 2
+  },
+  {
+   "ref": "2:17",
+   "tipo": "simbolo_numero",
+   "titulo": "Maná escondido y nombre nuevo: consolaciones ocultas y adopción",
+   "contenido": "Henry, Comentario bíblico: la promesa de favor al vencedor se refiere, según Henry, a las influencias y consolaciones del Espíritu de Cristo que descienden del cielo al alma para sostenerla, ocultas al resto del mundo. El nombre nuevo es el nombre de la adopción: cuando el Espíritu muestra su obra en el alma, el creyente comprende ese nombre nuevo y su verdadera importancia.",
+   "refs_biblicas": [
+    "Ap 2:17"
+   ],
+   "pagina": "pág. PDF 1086",
+   "importancia": 2
+  },
+  {
+   "ref": "2:18-23",
+   "tipo": "explicacion_texto",
+   "titulo": "Tiatira: alabada por su progreso, tolerante con seductores",
+   "contenido": "Henry, Comentario bíblico: Cristo, cuyos ojos son como fuego llameante, conoce las obras de su pueblo hechas en amor, fe, celo y paciencia, pero si ve que cometen o permiten el mal, los reprende, corrige o castiga. Hay alabanza al ministerio y al pueblo de Tiatira, que se hicieron más sabios y mejores: todos los cristianos deben desear que sus últimas obras sean las mejores. Pero la iglesia convivía con seductores malvados; los juicios de Dios sobre ellos muestran su conocimiento de los corazones, y se alienta a los que se mantenían puros.",
+   "refs_biblicas": [
+    "Ap 2:18-23"
+   ],
+   "pagina": "pág. PDF 1086-1087",
+   "importancia": 2
+  },
+  {
+   "ref": "2:24-29",
+   "tipo": "aplicacion_practica",
+   "titulo": "Las profundidades de Satanás y la promesa al vencedor",
+   "contenido": "Henry, Comentario bíblico: según Henry es peligroso despreciar el misterio de Dios y tan peligroso como recibir los misterios de Satanás; hay que cuidarse de sus profundidades, y son más dichosos los que menos las conocen. Cristo es tierno con sus siervos fieles: no pone carga sino lo que es para su bien. Hay promesa de amplia recompensa al creyente perseverante, junto con conocimiento y sabiduría apropiados a su poder y dominio; Cristo trae consigo al alma la luz de la gracia y la gloria. Tras cada victoria hay que seguir la ventaja contra el enemigo para mantener las obras de Cristo hasta el final.",
+   "refs_biblicas": [
+    "Ap 2:24-29"
+   ],
+   "pagina": "pág. PDF 1087",
+   "importancia": 2
+  },
+  {
+   "ref": "3:1-3",
+   "tipo": "explicacion_texto",
+   "titulo": "Sardis: forma de piedad sin poder, obras vacías",
+   "contenido": "Henry, Comentario bíblico: Cristo tiene al Espíritu Santo con todos sus poderes. A Sardis la acusa de hipocresía y lamentable deterioro: las cosas externas parecían bien, pero había solo forma de piedad, no poder, un nombre que vive sin principio de vida. Sus obras eran huecas: oraciones sin santos deseos, limosnas sin verdadera caridad, días de reposo sin devoción del alma; cuando falta el espíritu, la forma no permanece mucho. Cristo llama a ponerse alerta, activos y fervientes y a revivir por la gracia del Espíritu lo que aún queda. Henry añade que perdemos terreno cada vez que bajamos la guardia.",
+   "cita": "Perdemos terreno cada vez que bajamos la guardia.",
+   "refs_biblicas": [
+    "Ap 3:1-3"
+   ],
+   "pagina": "pág. PDF 1087",
+   "importancia": 3
+  },
+  {
+   "ref": "3:4-5",
+   "tipo": "teologia_doctrina",
+   "titulo": "Remanente fiel, vestiduras blancas y libro de la vida",
+   "contenido": "Henry, Comentario bíblico: el Señor no deja a estos pecadores sin aliento: menciona con honra al remanente fiel de Sardis y le da promesa de gracia. El vencedor será vestido de blanco: la pureza de la gracia será recompensada con la pureza perfecta de la gloria. Cristo tiene su libro de la vida, registro de todos los que heredarán la vida eterna y de los que viven para Dios y mantienen la vida y el poder de la piedad en los malos tiempos; en el gran día mostrará los nombres de los fieles ante Dios y todos los ángeles.",
+   "refs_biblicas": [
+    "Ap 3:4-5"
+   ],
+   "pagina": "pág. PDF 1087",
+   "importancia": 2
+  },
+  {
+   "ref": "3:7-8",
+   "tipo": "explicacion_texto",
+   "titulo": "Filadelfia: la llave de Cristo y las puertas que abre",
+   "contenido": "Henry, Comentario bíblico: el Señor Jesús tiene la llave del gobierno y la autoridad en la Iglesia y sobre ella. Abre una puerta de oportunidad a sus iglesias, una puerta de predicación a sus ministros y una puerta de entrada al corazón; cierra la puerta del cielo al necio que se duerme en el día de la gracia y a los hacedores de iniquidad por vanos y confiados que sean. Filadelfia es elogiada con un suave reproche: Cristo acepta un poco de fuerza, pero los creyentes no deben contentarse con poco, sino crecer en gracia y ser fuertes en la fe.",
+   "refs_biblicas": [
+    "Ap 3:7-8"
+   ],
+   "pagina": "pág. PDF 1087-1088",
+   "importancia": 2
+  },
+  {
+   "ref": "3:9-12",
+   "tipo": "teologia_doctrina",
+   "titulo": "Preservación en la hora de la prueba y el pilar en el templo",
+   "contenido": "Henry, Comentario bíblico: Cristo puede descubrir su favor a su pueblo de modo que sus enemigos se vean forzados a reconocerlo y deseen comunión con él. Promete preservar la gracia en las épocas de mayor prueba como premio por la fidelidad pasada («al que tiene le será dado»): quienes sostienen el evangelio en paz serán sostenidos en la hora de la tentación y la misma gracia que los hizo fructificar en la paz los hará fieles en la persecución. Al vencedor lo hará un pilar monumental del templo de Dios, monumento de la gracia gratuita que nunca será quitado, sobre el cual estará escrito el nuevo nombre de Cristo.",
+   "refs_biblicas": [
+    "Ap 3:9-12"
+   ],
+   "pagina": "pág. PDF 1087-1088",
+   "importancia": 2
+  },
+  {
+   "ref": "3:14-16",
+   "tipo": "explicacion_texto",
+   "titulo": "Laodicea: la última y peor, ni fría ni caliente",
+   "contenido": "Henry, Comentario bíblico: Henry califica a Laodicea como la última y la peor de las siete iglesias de Asia. Cristo se presenta como «el Amén», constante e inmutable en sus propósitos y promesas. «Si la religión vale algo, lo vale todo»: Cristo espera hombres fervorosos. Henry critica a quienes profesan la doctrina del evangelio y no son ni fríos ni calientes: indiferentes en lo necesario, pero calientes y fieros en debates de cosas menores. Esa tibieza da una falsa impresión del cristianismo, como religión impía o que no permite satisfacción real.",
+   "cita": "Si la religión vale algo, lo vale todo.",
+   "refs_biblicas": [
+    "Ap 3:14-16"
+   ],
+   "pagina": "pág. PDF 1088",
+   "importancia": 3
+  },
+  {
+   "ref": "3:17-18",
+   "tipo": "aplicacion_practica",
+   "titulo": "Orgullo y autoengaño de Laodicea; el consejo de Cristo",
+   "contenido": "Henry, Comentario bíblico: una causa de esta indiferencia es el orgullo y el engaño de sí mismo («Porque dices»); hay enorme diferencia entre lo que piensan de sí y lo que Cristo piensa de ellos. Eran realmente pobres, sin el manto de la justificación ni de la santificación, desnudos al pecado y la vergüenza: su justicia era trapo de inmundicias, sin casa ni techo porque sin Dios, el único en quien el alma halla reposo. Cristo aconseja dejar el pecado y la confianza en sí mismos, recibir su ropaje blanco (su justicia imputada para justificación y las vestiduras de santidad) y entregarse a su palabra y Espíritu para que sus ojos se abran. Henry advierte: en el infierno hay muchos que creyeron ir bien adelantados hacia el cielo.",
+   "cita": "En el infierno hay muchos que pensaron que iban bien adelantados en el camino al cielo.",
+   "refs_biblicas": [
+    "Ap 3:17-18",
+    "Is 64:6"
+   ],
+   "pagina": "pág. PDF 1088",
+   "importancia": 3
+  },
+  {
+   "ref": "3:19-20",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "Cristo llama a la puerta del corazón",
+   "contenido": "Henry, Comentario bíblico: los pecadores deberían tomar las reprensiones de la palabra y de la vara de Dios como señales de su amor por sus almas. Cristo quedó afuera y llama por los tratos de su providencia, las advertencias de su palabra y la obra de su Espíritu; sigue viniendo a la puerta del corazón de los pecadores, y los que abran disfrutarán su presencia. Henry señala que si lo que Cristo encuentra es solo una pobre fiesta, lo que Él trae la hará rica, con nueva provisión de gracia y consuelos.",
+   "cita": "Si los que encuentre sirven sólo para una pobre fiesta, lo que Él trae la hará rica.",
+   "refs_biblicas": [
+    "Ap 3:19-20"
+   ],
+   "pagina": "pág. PDF 1088",
+   "importancia": 3
+  },
+  {
+   "ref": "3:21-22",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El vencedor: como Cristo en las pruebas, como Él en la gloria",
+   "contenido": "Henry, Comentario bíblico: la promesa al vencedor se apoya en el ejemplo de Cristo mismo, que tuvo tentaciones y conflictos, los venció a todos y fue más que vencedor; los que son como Cristo en sus pruebas serán hechos como Él en gloria. La carta termina con el pedido de atención general, que Henry lee como universal.",
+   "refs_biblicas": [
+    "Ap 3:21-22"
+   ],
+   "pagina": "pág. PDF 1088",
+   "importancia": 2
+  },
+  {
+   "ref": "4:1-3",
+   "tipo": "simbolo_numero",
+   "titulo": "El trono, el Uno glorioso, las piedras y el arco iris",
+   "contenido": "Henry, Comentario bíblico: tras instruir a Juan sobre «las cosas que son», hay otra visión: un trono en el cielo, emblema del dominio universal de Jehová. Vio a Uno glorioso, no descrito con rasgos humanos para evitar semejanza o imagen, sino solo por su fulgor sin igual; los fulgores parecen símbolos de la excelencia de la naturaleza divina y de la temible justicia de Dios. El arco iris es símbolo del pacto de promesas de Dios con Cristo como Cabeza de la Iglesia y con su pueblo en Él; su color dominante, un verde agradable, muestra la naturaleza revivida y refrescante del nuevo pacto.",
+   "refs_biblicas": [
+    "Ap 4:1-3"
+   ],
+   "pagina": "pág. PDF 1089",
+   "importancia": 2
+  },
+  {
+   "ref": "4:4-5",
+   "tipo": "simbolo_numero",
+   "titulo": "Los veinticuatro ancianos representan probablemente a toda la Iglesia",
+   "contenido": "Henry, Comentario bíblico: los veinticuatro ancianos sentados alrededor del trono probablemente representan a toda la Iglesia de Dios: estar sentados significa honra, reposo y satisfacción; alrededor del trono, cercanía a Dios y deleite en Él; los ropajes blancos, la justicia imputada y la santidad; las coronas de oro, la gloria que tienen con Él. Los rayos y voces del trono son las declaraciones temibles de Dios a su iglesia sobre su soberana voluntad; las siete lámparas de fuego son los dones, gracias y operaciones del Espíritu en las iglesias, dispensadas según la voluntad del que se sienta en el trono.",
+   "refs_biblicas": [
+    "Ap 4:4-5"
+   ],
+   "pagina": "pág. PDF 1089",
+   "importancia": 3
+  },
+  {
+   "ref": "4:6",
+   "tipo": "teologia_doctrina",
+   "titulo": "El lavacro de la Iglesia del evangelio: la sangre de Cristo",
+   "contenido": "Henry, Comentario bíblico: Henry comenta en este punto que en la Iglesia del evangelio el lavacro para la purificación es la sangre del Señor Jesucristo, que limpia de todo pecado; en ella deben ser lavados todos para ser admitidos por gracia en la presencia de Dios en la tierra y ante su gloriosa presencia en el cielo.",
+   "refs_biblicas": [
+    "Ap 4:6",
+    "1 Jn 1:7"
+   ],
+   "pagina": "pág. PDF 1089",
+   "importancia": 1
+  },
+  {
+   "ref": "4:6-8",
+   "tipo": "simbolo_numero",
+   "titulo": "Los cuatro seres vivientes: ministros entre Dios y la gente",
+   "contenido": "Henry, Comentario bíblico: los cuatro seres vivientes, situados entre el trono y el círculo de los ancianos, parecen significar a los verdaderos ministros del evangelio por su lugar entre Dios y la gente. Lo señala también su descripción, que significa sabiduría, valor, diligencia y discreción, y los afectos por los cuales suben al cielo.",
+   "refs_biblicas": [
+    "Ap 4:6-8"
+   ],
+   "pagina": "pág. PDF 1089",
+   "importancia": 2
+  },
+  {
+   "ref": "4:9-11",
+   "tipo": "aplicacion_practica",
+   "titulo": "Alabanzas constantes, unidas y humildes",
+   "contenido": "Henry, Comentario bíblico: todos los creyentes verdaderos atribuyen su redención y conversión, sus privilegios presentes y sus esperanzas futuras al eterno y santo Dios; así suben al cielo los cánticos agradecidos y armoniosos de los redimidos. Henry exhorta a que en la tierra las alabanzas sean constantes, ininterrumpidas, unidas, indivisas, agradecidas, no frías ni formales, humildes y no confiadas en sí mismas.",
+   "refs_biblicas": [
+    "Ap 4:9-11"
+   ],
+   "pagina": "pág. PDF 1089",
+   "importancia": 1
+  },
+  {
+   "ref": "5:1-4",
+   "tipo": "explicacion_texto",
+   "titulo": "El rollo sellado: los consejos de Dios y el llanto de Juan",
+   "contenido": "Henry, Comentario bíblico: el rollo de pergaminos con siete sellos representa los propósitos secretos de Dios que iban a ser revelados: los designios y métodos de la providencia divina para la Iglesia y el mundo, determinados y por escrito, y ocultos al entendimiento de la criatura; se abren una parte tras otra hasta consumar el misterio. Los que más ven de Dios desean ver más, pero hasta los hombres buenos pueden ser demasiado anhelantes y apresurados por escudriñar sus misterios. Si Juan lloró por no poder leer el libro, mucha más razón tienen muchos para llorar por su ignorancia del evangelio. Henry afirma que no necesitamos prever calamidades personales (nos volvería ineptos para nuestros deberes), pero sí podemos conocer por las promesas el final para los creyentes y la Iglesia.",
+   "refs_biblicas": [
+    "Ap 5:1-4"
+   ],
+   "pagina": "pág. PDF 1090",
+   "importancia": 3
+  },
+  {
+   "ref": "5:5-7",
+   "tipo": "cristo_en_apocalipsis",
+   "titulo": "El León que aparece como Cordero inmolado",
+   "contenido": "Henry, Comentario bíblico: Cristo está como Mediador entre Dios y los ministros y el pueblo. Se le llama León, pero aparece como Cordero inmolado, con las marcas de sus sufrimientos para mostrar que intercede en el cielo en virtud de la satisfacción que hizo. Los siete cuernos y siete ojos son el poder perfecto para ejecutar la voluntad de Dios y la sabiduría perfecta para entenderla y hacerla del modo más eficaz. El Padre puso el libro de sus eternos consejos en la mano de Cristo y Él lo tomó rápida y alegremente, porque se deleita en dar a conocer la voluntad del Padre y da el Espíritu Santo para revelar la verdad.",
+   "refs_biblicas": [
+    "Ap 5:5-7"
+   ],
+   "pagina": "pág. PDF 1090",
+   "importancia": 3
+  },
+  {
+   "ref": "5:8-10",
+   "tipo": "teologia_doctrina",
+   "titulo": "Oración y alabanza juntas; redimidos como reyes y sacerdotes",
+   "contenido": "Henry, Comentario bíblico: las arpas son instrumentos de alabanza y los vasos llenos de perfume o incienso representan las oraciones de los santos; la alabanza y la oración siempre deben ir juntas. Dios trata con los hombres con gracia y misericordia por medio del Redentor y gobierna el mundo no solo como Creador sino como nuestro Salvador. Cristo ha redimido a su pueblo de la esclavitud del pecado, la culpa y Satanás y le compró libertad, honra y preferencia: reyes, para reinar sobre sus propios espíritus y vencer al mundo y al maligno, y sacerdotes, con acceso a Él y libertad de ofrecer sacrificios espirituales.",
+   "refs_biblicas": [
+    "Ap 5:8-10"
+   ],
+   "pagina": "pág. PDF 1090",
+   "importancia": 2
+  },
+  {
+   "ref": "5:11-14",
+   "tipo": "apologetica",
+   "titulo": "Cristo adorado igualmente con el Padre",
+   "contenido": "Henry, Comentario bíblico: Henry argumenta que las palabras del himno declaran plenamente que Cristo es, y debe ser, adorado igualmente con el Padre por todas las criaturas por toda la eternidad. Dichosos los que adorarán y alabarán en el cielo y bendecirán siempre al Cordero que los libró y los apartó para sí por su sangre. Cierra con una doxología trinitaria: Padre, Hijo y Espíritu Santo son dignos de las más excelsas alabanzas.",
+   "refs_biblicas": [
+    "Ap 5:11-14"
+   ],
+   "pagina": "pág. PDF 1090",
+   "importancia": 2
+  },
+  {
+   "ref": "6:1-2",
+   "tipo": "escuelas_interpretacion",
+   "titulo": "Primer sello: el caballo blanco como el avance temprano del cristianismo",
+   "contenido": "Henry, Comentario bíblico: Henry interpreta el caballo blanco como un tiempo de paz o el progreso temprano de la religión cristiana, que sale con pureza cuando su Fundador celestial mandó a los apóstoles enseñar a todas las naciones («yo estoy siempre con vosotros»). La religión divina sale coronada, con el favor de Dios, armada espiritualmente contra sus enemigos y destinada a ser victoriosa al final. Es una lectura historicista de los sellos, que Henry presenta con la fórmula «parece».",
+   "postura": "Henry ve en el jinete blanco la propagación del evangelio, no a un personaje individual.",
+   "refs_biblicas": [
+    "Ap 6:1-2",
+    "Mt 28:20"
+   ],
+   "pagina": "pág. PDF 1090-1091",
+   "importancia": 3
+  },
+  {
+   "ref": "6:3-4",
+   "tipo": "escuelas_interpretacion",
+   "titulo": "Segundo sello: caballo bermejo, guerra y persecución",
+   "contenido": "Henry, Comentario bíblico: el caballo bermejo significa juicios que hacen estragos: la espada de la guerra y la persecución quita la paz de la tierra, una de las mayores bendiciones, y los hombres que debieran amarse se matan entre sí. Henry afirma que tales escenas siguieron a la pura era del cristianismo temprano, cuando los líderes cristianos, desechando la caridad y el vínculo de la paz, se dividieron entre sí, apelaron a la espada y se enredaron en la culpa.",
+   "refs_biblicas": [
+    "Ap 6:3-4"
+   ],
+   "pagina": "pág. PDF 1091",
+   "importancia": 2
+  },
+  {
+   "ref": "6:5-6",
+   "tipo": "escuelas_interpretacion",
+   "titulo": "Tercer sello: caballo negro, ignorancia y hambre de la palabra",
+   "contenido": "Henry, Comentario bíblico: el caballo negro denota luto, tinieblas e ignorancia. El jinete tiene un yugo (balanza en la versión 1960) en la mano: Henry lo relaciona con los intentos de imponer a los discípulos un yugo de observancias supersticiosas, mientras el cristianismo se corrompe al alejarse de su pura fuente. Los precios exagerados de las necesidades de la vida significarían, en lenguaje profético, el alimento del saber religioso por el cual se sustentan las almas (Isaías 55:1); cuando se extienden las nubes de ignorancia y superstición, el conocimiento y la práctica de la religión verdadera se vuelven escasos. Henry concluye que el hambre de la palabra es peor que el hambre de pan.",
+   "refs_biblicas": [
+    "Ap 6:5-6",
+    "Is 55:1"
+   ],
+   "pagina": "pág. PDF 1091",
+   "importancia": 2
+  },
+  {
+   "ref": "6:7-8",
+   "tipo": "escuelas_interpretacion",
+   "titulo": "Cuarto sello: caballo amarillo y la muerte; fechas no discernibles",
+   "contenido": "Henry, Comentario bíblico: el jinete del caballo amarillo pálido es la muerte, rey de los terrores, seguida por el infierno, estado de miseria eterna para los que mueren en sus pecados; en las épocas de destrucción general multitudes se van a la fosa sin estar preparadas. El período del cuarto sello es de gran carnicería y devastación que asuela las vidas espirituales, así se completó el misterio de iniquidad y su poder se extendió sobre vidas y conciencias. Henry aclara que no se pueden discernir las fechas exactas de estos cuatro sellos porque los cambios fueron graduales. Dios les dio poder: son instrumentos de sus juicios, que no avanzan más allá de lo que Él permite.",
+   "refs_biblicas": [
+    "Ap 6:7-8"
+   ],
+   "pagina": "pág. PDF 1091",
+   "importancia": 2
+  },
+  {
+   "ref": "6:9-11",
+   "tipo": "teologia_doctrina",
+   "titulo": "Quinto sello: las almas bajo el altar",
+   "contenido": "Henry, Comentario bíblico: Henry ve las almas de los mártires al pie del altar del cielo, a los pies de Cristo. Los perseguidores solo pueden matar el cuerpo; el alma vive, y Dios ha provisto un buen lugar en el mundo mejor para los fieles hasta la muerte. No es su propia muerte, sino el sacrificio de Cristo lo que les da entrada. La causa de su sufrimiento fue la palabra de Dios. Ellos encomiendan su causa a Aquel a quien pertenece la venganza; su sangre es preciosa ante sus ojos. Al llenarse la medida del pecado de los perseguidores y el número de los martirizados, Dios enviará tribulación a quienes los perturban y reposo sin interrupción a los perturbados.",
+   "refs_biblicas": [
+    "Ap 6:9-11"
+   ],
+   "pagina": "pág. PDF 1091",
+   "importancia": 3
+  },
+  {
+   "ref": "6:12-17",
+   "tipo": "dificultad_interpretaciones",
+   "titulo": "Sexto sello: terremoto, ira del Cordero y caída del paganismo romano",
+   "contenido": "Henry, Comentario bíblico: el gran terremoto significa que los fundamentos de iglesias y estados serán remecidos terriblemente; Henry recuerda que estas descripciones figuradas osadas de grandes cambios abundan en la profecía bíblica, y que tales sucesos son emblemas del fin del mundo y del día del juicio. Pánico y terror cogerán a toda clase de hombres sin que riquezas, valor o fuerza los sostengan; la ira del Cordero es espantosa porque si nuestro enemigo es el mismo Redentor, no hay otro amigo que alegue por nosotros. Henry agrega que aquí «parece» representarse el derrumbamiento del paganismo del imperio romano (idólatras ocultos en cuevas), y llama a los cristianos a confesar denodadamente a Cristo: el desprecio de los hombres es breve, la vergüenza eterna.",
+   "postura": "Henry une dos lecturas: emblema del fin del mundo y del juicio, y cumplimiento en la caída del paganismo romano; la segunda parece ser su lectura prevaleciente.",
+   "refs_biblicas": [
+    "Ap 6:12-17"
+   ],
+   "pagina": "pág. PDF 1091-1092",
+   "importancia": 3
+  },
+  {
+   "ref": "7:1-3",
+   "tipo": "simbolo_numero",
+   "titulo": "Los cuatro vientos y el sello en la frente",
+   "contenido": "Henry, Comentario bíblico: que los cuatro vientos soplen juntos significa en lenguaje figurado una destrucción general terrible, que es retardada. Los sellos se usaban para que cada persona marcara sus pertenencias; la marca es el testimonio del Espíritu Santo impreso en el corazón de los creyentes. El Señor no tolerará que su pueblo sea afligido antes de ser marcado. El sello está en la frente, evidentemente para ser visto por amigos y enemigos, pero no por el creyente mismo salvo mirando en el espejo de la palabra.",
+   "refs_biblicas": [
+    "Ap 7:1-3"
+   ],
+   "pagina": "pág. PDF 1092",
+   "importancia": 2
+  },
+  {
+   "ref": "7:4-8",
+   "tipo": "simbolo_numero",
+   "titulo": "Los 144.000: el remanente, la Iglesia universal bajo el tipo de Israel",
+   "contenido": "Henry, Comentario bíblico: el número de los sellados puede entenderse como representando el remanente que Dios reserva. Aunque la Iglesia es una manada pequeña comparada con el mundo malo, es una sociedad realmente grande y que crecerá más aún. Henry afirma que aquí está figurada la Iglesia universal bajo el tipo de Israel.",
+   "cita": "Aquí está figurada la Iglesia universal bajo el tipo de Israel.",
+   "postura": "Los 144.000 representan a la Iglesia universal, no un grupo étnico literal.",
+   "refs_biblicas": [
+    "Ap 7:4-8"
+   ],
+   "pagina": "pág. PDF 1092",
+   "importancia": 3
+  },
+  {
+   "ref": "7:9-12",
+   "tipo": "explicacion_texto",
+   "titulo": "La gran multitud: primicias y gentiles, palmas y alabanza",
+   "contenido": "Henry, Comentario bíblico: Henry dice que las primicias de Cristo, que abrieron el camino, son seguidas por los gentiles convertidos más tarde, que atribuyen con triunfo su salvación a Dios y al Redentor. En el culto nos acercamos a Dios por Cristo, porque los pecadores no pueden aproximarse al trono sin Mediador. Los ropajes son los de la justificación, la santidad y la victoria, y las palmas son las de los vencedores en sus triunfos. La obra del cielo es la bendición pública y fervorosa al Padre y al Hijo; debemos empezarla ahora y anhelar el mundo donde nuestra alabanza será perfeccionada.",
+   "refs_biblicas": [
+    "Ap 7:9-12"
+   ],
+   "pagina": "pág. PDF 1092",
+   "importancia": 2
+  },
+  {
+   "ref": "7:13-17",
+   "tipo": "teologia_doctrina",
+   "titulo": "Los que salieron de la gran tribulación: la sangre del Cordero y el consuelo de Dios",
+   "contenido": "Henry, Comentario bíblico: el camino al cielo pasa por muchas tribulaciones, pero ninguna tribulación, por grande que sea, nos separa del amor de Dios; la tribulación hace el cielo más bienvenido. Henry insiste en que no es la sangre de los mártires sino la sangre del Cordero la que puede lavar el pecado, la única que emblanquece las ropas de los santos. El cielo es un estado de servicio sin sufrimiento y de reposo sin pereza; Dios, con su mano de gracia, enjugará todas las lágrimas por el pecado y la aflicción y los trata como padre tierno, lo que debe sostener al cristiano en sus aflicciones.",
+   "cita": "No es la sangre de los mártires, sino la sangre del Cordero la que puede lavar el pecado",
+   "refs_biblicas": [
+    "Ap 7:13-17"
+   ],
+   "pagina": "pág. PDF 1092-1093",
+   "importancia": 3
+  }
+ ],
+ "problemas": ""
+}

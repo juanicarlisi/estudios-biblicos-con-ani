@@ -41,3 +41,4 @@
 - Plan Apocalipsis: bloques en `SCRATCH/bloques_r4/` (`armar_corpus_ref4.py`) → extracción (sonnet, ids `r4_*`, mismas notas) → por cada día con notas nuevas de importancia ≥2, revisión con opus que devuelve un parche (sin pasar de 2.600 palabras) → validar → reconstruir app.
 - Libros nuevos: `pedro-judas/ENCARGO.md` y `pedro-judas/RETOMAR.md` (pipeline espejo; app combinada en `pedro-apocalipsis/`).
 - Categorías: Barclay y Comentario Bíblico Adventista = C; Iafrancesco = B; Moody 1J/3J sin autor individual = A (verificar).
+- 09-11: se quitó el campo `escuela` de las notas r4_2_* (Henry), r4_225_* (Moody) y r4_451_* (Graham), porque los agentes lo habían inferido sin que el autor la declare; la postura queda en `postura`/`contenido`. Al integrar: no atribuir escuela escatológica a un autor si la nota no la declara.

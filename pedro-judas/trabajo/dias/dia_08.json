@@ -4,160 +4,490 @@
   "desde": "1P 2:4",
   "hasta": "1P 2:8",
   "titulo": "Piedras vivas y la piedra angular",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "Ayer Pedro pidió un amor entrañable entre hermanos nacidos de nuevo por una palabra que permanece, y los animó a desear la leche espiritual como niños recién nacidos (1P 1:22-2:3). Hoy la imagen cambia: McConnell observa que se pasa de la leche, que hace crecer por dentro, a la roca, que da estabilidad para edificar encima. Kistemaker hace notar que Pedro va encadenando imágenes de la vida diaria: niños que desean leche, piedras para construir una casa, una piedra angular rechazada por los constructores.",
-    "ahora": "Cinco versículos sobre una sola figura: Jesús es la piedra viva, rechazada por los hombres y elegida por Dios; los que se acercan a él se vuelven piedras vivas de una casa espiritual y forman un sacerdocio santo. Después Pedro respalda todo con tres textos del Antiguo Testamento sobre la piedra, que dividen a la humanidad en dos: los que creen y los que tropiezan. Kistemaker titula todo el párrafo de 2:4-10 con la palabra Elección, y este es su primer tramo.",
-    "despues": "Mañana (1P 2:9-10) sigue el mismo párrafo: los creyentes son linaje escogido, real sacerdocio, nación santa. Kistemaker señala que ahí Pedro alude a Éxodo 19:6 e Isaías 43:20-21, y luego a Oseas; MacArthur cuenta en 2:9 otros dos privilegios, elección y gobierno con Cristo.",
-    "fuentes": ["cbmh1p_01_c#13", "kis1p_03_b#1", "kis1p_03_b#11", "mac1p_04_b#2"]
+    "antes": "Ayer Pedro pidió amor entrañable entre hermanos nacidos de una palabra que permanece y el deseo de la leche espiritual (1P 1:22-2:3). McConnell observa que hoy la imagen pasa de la leche, que hace crecer por dentro, a la roca, que da estabilidad para edificar encima.",
+    "ahora": "Una sola figura en cinco versículos: Jesús, la piedra viva rechazada por los hombres y elegida por Dios; los que se acercan a él, piedras vivas de una casa espiritual y sacerdocio santo. Después, tres textos del Antiguo Testamento sobre la piedra dividen a la humanidad entre los que creen y los que tropiezan. Kistemaker titula el párrafo 2:4-10 con la palabra Elección.",
+    "despues": "Mañana (1P 2:9-10) sigue el mismo párrafo: linaje escogido, real sacerdocio, nación santa, con alusiones a Éxodo 19:6 e Isaías 43:20-21 según Kistemaker.",
+    "fuentes": [
+      "cbmh1p_01_c#13",
+      "kis1p_03_b#1",
+      "kis1p_03_b#11"
+    ]
   },
   "versiculo_clave": {
     "ref": "1P 2:4-5",
     "porque": "Reúne todo el día en dos versículos: Cristo, la piedra viva rechazada y elegida; nosotros, piedras vivas que él va juntando en una casa donde se adora a Dios por medio de Jesucristo."
   },
   "panorama": {
-    "texto": "Pedro escribe a gente despreciada por sus vecinos y les muestra que pertenecen a algo glorioso. Todo empieza por la relación con Cristo, que también fue despreciado: los hombres lo examinaron y lo descartaron, pero Dios lo eligió y lo puso como piedra principal del edificio. El que se acerca a él recibe su vida y pasa a ser piedra viva de una casa espiritual, mejor que el templo de Jerusalén, y sacerdote que ofrece a Dios sacrificios espirituales. La misma piedra, sin embargo, tiene dos efectos: es fundamento seguro y honor para quien cree, y piedra con la que tropieza quien se niega a creer. Sea cual sea la reacción de los hombres, el propósito de Dios se cumple y Cristo queda en el lugar más alto.",
-    "fuentes": ["moodynt_01_a#31", "ncb1p_01_a#27", "kis1p_03_b#3", "bea1p_01_b#9"]
+    "texto": "Pedro escribe a gente despreciada por sus vecinos y les muestra que pertenecen a algo glorioso. Todo empieza en Cristo, también despreciado: los hombres lo examinaron y lo descartaron, pero Dios lo eligió y lo puso como piedra principal. El que se acerca a él recibe su vida, pasa a ser piedra viva de una casa espiritual y sacerdote que ofrece sacrificios espirituales. La misma piedra tiene dos efectos: fundamento y honra para quien cree, tropiezo para quien se niega a creer. Sea cual sea la reacción humana, el propósito de Dios se cumple.",
+    "fuentes": [
+      "moodynt_01_a#31",
+      "ncb1p_01_a#27",
+      "kis1p_03_b#3",
+      "bea1p_01_b#9"
+    ]
   },
   "secciones": [
     {
       "rango": "1P 2:4",
       "titulo": "Acercarse a la piedra viva",
       "notas": [
-        {"texto": "«Acercándoos a él» no describe un trámite de una sola vez. MacArthur explica que el verbo compuesto lleva un prefijo que intensifica la idea: es acercarse para entrar en comunión íntima, personal y permanente, el mismo verbo que Hebreos usa para entrar a la presencia de Dios con intención de quedarse (He 4:16; 10:22). La Biblia MacArthur lo resume como venir para quedarse. McConnell y Kistemaker agregan que es un participio de acción continua: acercarse a Jesús es un acto de fe que se repite todos los días.", "fuentes": ["mac1p_03_b#29", "mbib1p_01_b#1", "cbmh1p_01_c#16", "kis1p_03_b#2"], "tipo": "exegesis"},
-        {"texto": "«Piedra viva» suena a contradicción, porque una piedra no tiene vida. Kistemaker dice que el adjetivo muestra que ya no se habla de una cosa sino de una persona. MacArthur explica que está viva porque Cristo resucitó y vive para siempre, y además da vida a los que confían en él. McConnell nota que la palabra «viva» enlaza con lo que vimos estos días: la esperanza viva (1P 1:3) y la palabra que vive (1P 1:23).", "fuentes": ["kis1p_03_b#3", "mac1p_03_b#30", "cbmh1p_01_c#13"], "tipo": "exegesis"},
-        {"texto": "Pedro contrapone dos juicios sobre Jesús: «desechada ciertamente por los hombres», pero «para Dios escogida y preciosa». Kistemaker subraya el doble contraste (rechazada/escogida, hombres/Dios) y recuerda que es el mismo que Pedro predicaba en Hechos (Hch 2:22-36; 3:13-15; 4:10-11; 10:39-42). MacArthur aclara que el rechazo apunta ante todo a los líderes judíos y al pueblo que pidió la crucifixión, pero abarca a todos los que lo rechazaron después. Los líderes lo examinaron y concluyeron que no daba la talla: para ellos era alguien que denunciaba su sistema religioso, demasiado débil para echar a Roma y dispuesto a morir en una cruz. La Biblia MacArthur añade que el Padre lo autenticó finalmente al resucitarlo.", "fuentes": ["kis1p_03_b#4", "mac1p_03_b#31", "mbib1p_01_b#2"], "tipo": "doctrina"},
-        {"texto": "McConnell saca de este contraste una advertencia práctica: así como la gente veía a Cristo de un modo y Dios de otro, a los creyentes también los puede mirar el mundo con desprecio mientras Dios los aprecia. El Comentario Moody conecta esto con los lectores, a quienes otros trataban como gente despreciable: Pedro les recuerda que pertenecen a una comunidad santa y gloriosa, empezando por su unión con un Cristo que también fue rechazado.", "fuentes": ["cbmh1p_01_c#13", "moodynt_01_a#31"], "tipo": "aplicacion"}
+        {
+          "texto": "«Acercándoos a él» no es un trámite de una vez. MacArthur explica que el prefijo del verbo lo intensifica: acercarse para quedarse en comunión íntima y permanente, como en Hebreos 4:16 y 10:22. McConnell y Kistemaker agregan que es acción continua: un acto de fe que se repite cada día.",
+          "fuentes": [
+            "mac1p_03_b#29",
+            "mbib1p_01_b#1",
+            "cbmh1p_01_c#16",
+            "kis1p_03_b#2"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Piedra viva» suena a contradicción. Kistemaker dice que el adjetivo muestra que se habla de una persona, no de una cosa; MacArthur, que está viva porque resucitó y da vida a los que confían en él. McConnell la enlaza con la esperanza viva (1P 1:3) y la palabra que vive (1P 1:23).",
+          "fuentes": [
+            "kis1p_03_b#3",
+            "mac1p_03_b#30",
+            "cbmh1p_01_c#13"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Dos juicios sobre Jesús: «desechada ciertamente por los hombres», pero «para Dios escogida y preciosa». Es el mismo contraste que Pedro predicaba en Hechos (Kistemaker). MacArthur explica que los líderes judíos lo examinaron y concluyeron que no daba la talla: denunciaba su sistema religioso, era demasiado débil para echar a Roma y estaba dispuesto a morir en una cruz. El Padre, en cambio, lo aprobó y lo autenticó al resucitarlo (Biblia MacArthur).",
+          "fuentes": [
+            "kis1p_03_b#4",
+            "mac1p_03_b#31",
+            "mbib1p_01_b#2"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "McConnell advierte que el mundo puede mirar a los creyentes con el mismo desprecio con que miró a Cristo, mientras Dios los aprecia. El Comentario Moody nota que eso consolaba a lectores tratados como gente despreciable.",
+          "fuentes": [
+            "cbmh1p_01_c#13",
+            "moodynt_01_a#31"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 2:5",
       "titulo": "Piedras vivas en una casa espiritual",
       "notas": [
-        {"texto": "Los que se acercan a la piedra viva se vuelven ellos también «como piedras vivas». Kistemaker explica que derivan de Jesús el principio de su vida; la Biblia MacArthur dice que están tan unidos a Cristo que la vida que hay en él está en ellos. MacArthur lo llama el primer privilegio del creyente: no solo adorar, obedecer y orar, sino estar unido a Cristo como una piedra al edificio.", "fuentes": ["kis1p_03_b#7", "mbib1p_01_b#3", "mac1p_04_a#3"], "tipo": "doctrina"},
-        {"texto": "La piedra sola no sirve de mucho: el propósito de las piedras es unirse en un edificio. El Nuevo Comentario Bíblico insiste en que el crecimiento cristiano tiene un lado personal y un lado comunitario. Grudem, en su Teología sistemática, usa este versículo para mostrar que no estamos en Cristo como individuos aislados: como piedras de una pared, quedamos unidos y siempre dependientes unos de otros. La Biblia MacArthur agrega que Dios mismo pone a cada creyente en su lugar designado y lo encaja con los demás.", "fuentes": ["ncb1p_01_a#27", "r1_014_a#11", "mbib1p_01_b#3"], "tipo": "doctrina"},
-        {"texto": "La «casa espiritual» es un templo. Nicholson (Comentario Beacon) contrasta el templo de piedra de Jerusalén con este templo de personas nacidas de nuevo, que no son piedras frías ni rígidas sino morada del Espíritu. El Comentario Moody dice que la Iglesia aparece aquí como superior al templo judío, y MacArthur, que el templo material era una casa temporal y ahora los creyentes forman la casa espiritual que lo reemplaza. MacArthur y Mayhue lo dicen con una imagen: a diferencia de los edificios de piedra, esta es una construcción de carne viva. Kistemaker aclara que es una metáfora: los que forman la casa de Dios son los creyentes mismos.", "fuentes": ["bea1p_01_b#9", "moodynt_01_a#31", "mac1p_04_a#5", "r1_018_b#12", "kis1p_03_b#8"], "tipo": "doctrina"},
-        {"texto": "«Sed edificados» puede leerse en griego como mandato o como descripción («son edificados»); los comentaristas lo discuten (ver Interpretaciones). Lo que casi todos comparten, según Kistemaker, es que el verbo es pasivo: el que construye es Dios. McConnell agrega que el lugar de cada uno es dinámico, no estático: uno se va acercando y va siendo edificado.", "fuentes": ["kis1p_03_b#6", "cbmh1p_01_c#14"], "tipo": "exegesis"}
+        {
+          "texto": "Los que se acercan a la piedra viva se vuelven «como piedras vivas»: reciben de Jesús su vida (Kistemaker), y la vida que hay en él está en ellos (Biblia MacArthur). MacArthur lo llama el primer privilegio del creyente: estar unido a Cristo como una piedra al edificio.",
+          "fuentes": [
+            "kis1p_03_b#7",
+            "mbib1p_01_b#3",
+            "mac1p_04_a#3"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Una piedra sola no hace una casa. El Nuevo Comentario Bíblico recuerda que el crecimiento cristiano es personal y comunitario; Grudem usa este versículo para mostrar que no estamos en Cristo como individuos aislados, sino unidos y dependientes unos de otros, como las piedras de una pared. Dios pone a cada uno en su lugar (Biblia MacArthur).",
+          "fuentes": [
+            "ncb1p_01_a#27",
+            "r1_014_a#11",
+            "mbib1p_01_b#3"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La «casa espiritual» es un templo. Nicholson (Comentario Beacon) contrasta el templo de piedra de Jerusalén con este templo de personas nacidas de nuevo, morada del Espíritu; el Comentario Moody y MacArthur ven aquí una casa que supera y reemplaza al templo material. MacArthur y Mayhue lo resumen: una construcción de carne viva.",
+          "fuentes": [
+            "bea1p_01_b#9",
+            "moodynt_01_a#31",
+            "mac1p_04_a#5",
+            "r1_018_b#12"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Sed edificados» puede leerse en griego como mandato o como descripción (ver Interpretaciones); en cualquier caso, dice Kistemaker, el verbo es pasivo: el que construye es Dios.",
+          "fuentes": [
+            "kis1p_03_b#6"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 2:5",
       "titulo": "Un sacerdocio santo y sus sacrificios",
       "notas": [
-        {"texto": "Pedro pasa de la casa a los que sirven en ella. El Nuevo Comentario Bíblico explica el paso: una piedra colocada es pasiva, así que Pedro agrega el lado activo, la gente que adora. «Sacerdocio» es un sustantivo colectivo, un cuerpo de sacerdotes. Kistemaker recuerda que esto se llama el sacerdocio de todos los creyentes: todo cristiano verdadero es sacerdote en la casa de Dios, y «santo» quiere decir dedicado a Dios y separado del mundo. Cita a Calvino, que se maravillaba del doble honor de ser a la vez templo donde Dios mora y sacerdotes que le sirven. McConnell subraya: todo creyente, no unos pocos.", "fuentes": ["ncb1p_01_a#27", "ncb1p_01_a#29", "kis1p_03_b#9", "cbmh1p_01_c#16"], "tipo": "doctrina"},
-        {"texto": "MacArthur aclara qué no significa: no es el sistema católico romano ni el sacerdocio del antiguo pacto, donde servía una sola tribu y solo el sumo sacerdote entraba al lugar santísimo una vez al año. Quien usurpaba esa función era juzgado (Coré, Saúl en Gilgal, Uza, el rey Uzías). En el nuevo pacto esa barrera no existe. Wiersbe, al comentar el tabernáculo, recuerda que Dios ya quería en Éxodo 19:6 un reino de sacerdotes, y que el sacerdote servía primero al Señor y después al pueblo. Matthew Henry lo dice en dos palabras: sagrado para Dios y servicial para los demás.", "fuentes": ["mac1p_04_a#6", "r1_005#1", "mhenry_01_a#19"], "tipo": "doctrina"},
-        {"texto": "¿Qué sacrificios? Ya no para quitar el pecado: Kistemaker recuerda que Cristo fue ofrecido una sola vez (He 9:28). MacArthur cita a Lenski: la tarea de los sacerdotes antiguos apuntaba al gran sacrificio de Cristo, y ahora solo quedan los de alabanza y gratitud; la repetición de «espiritual» (casa espiritual, sacrificios espirituales) muestra que toda la relación con Dios ahora es espiritual. El verbo «ofrecer» significa llevar hacia arriba, como quien sube la ofrenda al altar (McConnell, MacArthur).", "fuentes": ["kis1p_03_b#10", "mac1p_04_a#15", "cbmh1p_01_c#14"], "tipo": "doctrina"},
-        {"texto": "MacArthur arma con el Nuevo Testamento una lista de siete sacrificios espirituales: el propio cuerpo entregado a Dios (Ro 12:1), la alabanza (He 13:15), las buenas obras y la generosidad con lo que uno tiene (He 13:16), las personas que llegan a Cristo (Ro 15:16), el amor que se sacrifica por los otros (Ef 5:2) y la oración (Ap 8:3-4). Kistemaker resume lo mismo como gratitud, alabanza, santidad y servicio.", "fuentes": ["mac1p_04_a#16", "mbib1p_01_b#5", "kis1p_03_b#10"], "tipo": "aplicacion"},
-        {"texto": "Todo es aceptable solo «por medio de Jesucristo». Henry insiste en que ni lo mejor de la oración y la alabanza agrada a Dios si no pasa por Cristo; Kistemaker recuerda que sin él nuestras obras de justicia son trapos de inmundicia (Is 64:6); McConnell, que su sacerdocio da validez al nuestro. El Nuevo Comentario Bíblico señala que la frase puede explicar cómo se ofrecen los sacrificios o por qué Dios los acepta; las dos cosas son verdad.", "fuentes": ["mhenry_01_a#19", "kis1p_03_b#10", "cbmh1p_01_c#14", "ncb1p_01_a#29"], "tipo": "doctrina"}
+        {
+          "texto": "De la casa Pedro pasa a los que sirven en ella: una piedra colocada es pasiva, y él quiere mostrar el lado activo, la gente que adora (Nuevo Comentario Bíblico). Es el sacerdocio de todos los creyentes: todo cristiano verdadero es sacerdote, y santo quiere decir dedicado a Dios y separado del mundo (Kistemaker, que cita a Calvino sobre el doble honor de ser templo y sacerdotes). Matthew Henry lo resume: sagrado para Dios y servicial para los demás.",
+          "fuentes": [
+            "ncb1p_01_a#27",
+            "kis1p_03_b#9",
+            "mhenry_01_a#19"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "MacArthur aclara que no se trata del sistema católico romano ni del sacerdocio levítico, reservado a una tribu, donde quien usurpaba la función era juzgado (Coré, Saúl, Uzías). Wiersbe recuerda que Dios ya quería un reino de sacerdotes en Éxodo 19:6.",
+          "fuentes": [
+            "mac1p_04_a#6",
+            "r1_005#1"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Ya no se ofrece nada para quitar el pecado: Cristo fue ofrecido una vez (He 9:28; Kistemaker). MacArthur cita a Lenski: solo quedan los sacrificios de alabanza y gratitud. Él mismo arma una lista de siete con el Nuevo Testamento: el cuerpo entregado a Dios (Ro 12:1), la alabanza (He 13:15), el bien hecho y la generosidad (He 13:16), las personas que llegan a Cristo (Ro 15:16), el amor que se sacrifica (Ef 5:2) y la oración (Ap 8:3-4).",
+          "fuentes": [
+            "kis1p_03_b#10",
+            "mac1p_04_a#15",
+            "mac1p_04_a#16",
+            "mbib1p_01_b#5"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "Todo es aceptable solo «por medio de Jesucristo». Henry insiste en que ni lo mejor de la oración agrada a Dios si no pasa por Cristo; McConnell, en que su sacerdocio da validez al nuestro.",
+          "fuentes": [
+            "mhenry_01_a#19",
+            "cbmh1p_01_c#14"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 2:6",
       "titulo": "La piedra puesta en Sion",
       "notas": [
-        {"texto": "Pedro abre con «contiene la Escritura»: Kistemaker explica que el verbo se usaba para el contenido de un libro o una carta, y MacArthur ve aquí un testimonio de la autoridad de la Escritura. Es la primera de tres citas del Antiguo Testamento que, según Kistemaker, sostienen todo el párrafo. Isaías 28:16 anuncia que Dios mismo pone en Sion la piedra; la Biblia MacArthur y Nicholson subrayan que el lugar de Cristo fue previsto y ordenado por Dios de antemano.", "fuentes": ["kis1p_03_b#15", "mac1p_04_b#3", "kis1p_03_b#11", "mbib1p_01_b#6", "bea1p_01_b#10"], "tipo": "exegesis"},
-        {"texto": "¿Qué es exactamente «la principal piedra del ángulo»? Kistemaker explica que la expresión podía significar la piedra clave en el centro de un arco o una piedra del fundamento: en Isaías describe una piedra del cimiento, y en el v. 7 Pedro la entiende como la que corona el edificio. Para él lo importante no es la ubicación sino la función. MacArthur la describe como la piedra que fija todos los ángulos de la construcción, como una plomada: por eso tenía que ser sin defecto, y solo Cristo podía serlo. Matthew Henry agrega que une a todos los creyentes en un solo templo y soporta el peso de todo el edificio.", "fuentes": ["kis1p_03_b#12", "kis1p_03_b#14", "mac1p_04_b#5", "mhenry_01_a#20"], "tipo": "exegesis"},
-        {"texto": "MacArthur recuerda que, para un lector judío, la imagen evocaba el templo de Salomón, cuyas piedras se tallaban a medida antes de llevarlas al lugar (1R 6:7): así Dios preparó a Cristo antes de la creación como fundamento de su templo espiritual.", "fuentes": ["mac1p_04_b#4"], "tipo": "contexto"},
-        {"texto": "La promesa: «el que creyere en él, no será avergonzado». Kistemaker la traduce como que nunca defraudará a quien dependa de él. MacArthur explica que el verbo habla de poner la esperanza en alguien que después falla: con Cristo eso no pasa (Ro 10:11-13). Usa la imagen del edificio: como todas las líneas salen de una piedra perfecta, ninguna piedra queda desalineada ni se cae de la estructura. Henry dice que, aunque el mundo se viniera abajo, quien está edificado sobre este fundamento puede oírlo sin temor.", "fuentes": ["kis1p_03_b#14", "mac1p_04_b#6", "mhenry_01_a#20"], "tipo": "doctrina"}
+        {
+          "texto": "Con «contiene la Escritura» Pedro apoya su enseñanza en el Antiguo Testamento: es la primera de tres citas que sostienen el párrafo (Kistemaker). Isaías 28:16 dice que Dios mismo pone la piedra: el lugar de Cristo fue previsto y ordenado de antemano (Nicholson, Biblia MacArthur).",
+          "fuentes": [
+            "kis1p_03_b#11",
+            "bea1p_01_b#10",
+            "mbib1p_01_b#6"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«La principal piedra del ángulo» podía ser la piedra del fundamento o la clave que corona un arco; Kistemaker nota que Isaías piensa en el cimiento y el v. 7 en la cúspide, y que lo que importa es la función. MacArthur la describe como la piedra que fija todos los ángulos del edificio, por eso debía ser sin defecto. Henry agrega que une a todos los creyentes y soporta el peso de la construcción.",
+          "fuentes": [
+            "kis1p_03_b#12",
+            "kis1p_03_b#14",
+            "mac1p_04_b#5",
+            "mhenry_01_a#20"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "La promesa: «el que creyere en él, no será avergonzado». MacArthur explica que el verbo habla de esperar en alguien que después falla; con Cristo eso no pasa. Como todas las líneas salen de una piedra perfecta, ninguna piedra queda desalineada. Henry: aunque el mundo se viniera abajo, quien está sobre este fundamento puede oírlo sin temor.",
+          "fuentes": [
+            "mac1p_04_b#6",
+            "mhenry_01_a#20"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 2:7-8",
       "titulo": "Preciosa para unos, tropiezo para otros",
       "notas": [
-        {"texto": "Con el v. 7 llega, según Kistemaker, el punto más alto del contraste entre creyentes e incrédulos, y el énfasis cae sobre los primeros: ustedes, los que siguen creyendo. Lo que la RVR1960 traduce «él es precioso» es literalmente honor: los creyentes reciben honra de parte de Dios a causa de Cristo, y ellos a su vez lo honran (ver Interpretaciones). MacArthur saca de aquí otro privilegio: amar a Jesús, porque creer en él y amarlo van juntos.", "fuentes": ["kis1p_03_b#16", "kis1p_03_b#17", "mac1p_04_b#8"], "tipo": "exegesis"},
-        {"texto": "Para los que no creen, Pedro cita el Salmo 118:22: «La piedra que los edificadores desecharon». Kistemaker pinta la escena: las piedras se inspeccionaban, y las que no pasaban el control se descartaban (1R 7:9); Dios, el arquitecto principal, toma justo la piedra descartada y la pone en el lugar más alto. MacArthur aplica la imagen a los líderes de Israel, que no aceptaron a Jesús porque no encajaba en su idea de lo que debía ser el Mesías.", "fuentes": ["kis1p_03_b#18", "mac1p_04_b#9"], "tipo": "exegesis"},
-        {"texto": "Y con Isaías 8:14: «Piedra de tropiezo, y roca que hace caer». MacArthur distingue las dos imágenes: una piedra suelta en el camino con la que uno se tropieza, y la roca firme contra la que uno cae y queda golpeado. Kistemaker lo dice simple: o se pone la fe en Jesús, la piedra del fundamento, o se estrella el pie contra ella. La Biblia MacArthur lo aplica a todos: Cristo es medio de salvación para el que cree y medio de juicio para el que rechaza.", "fuentes": ["mac1p_04_b#10", "kis1p_03_b#20", "mbib1p_01_b#8"], "tipo": "exegesis"},
-        {"texto": "¿Por qué tropiezan? «Tropiezan en la palabra, siendo desobedientes». Kistemaker explica que la palabra griega para desobedecer es, de raíz, negarse a ser persuadido, y traza la secuencia incredulidad, desobediencia y caída. El Comentario Moody y la Biblia MacArthur coinciden en que la incredulidad es desobediencia, porque el evangelio manda arrepentirse y creer. Kistemaker añade que nadie puede decir que no recibió el mensaje: en sentido figurado, lo tocó con el pie al tropezar.", "fuentes": ["kis1p_03_b#24", "kis1p_03_b#21", "moodynt_01_a#32", "mbib1p_01_b#8"], "tipo": "doctrina"},
-        {"texto": "La frase final, «a lo cual fueron también destinados», es de las más discutidas del pasaje, y los autores la explican de maneras distintas (ver Interpretaciones). En lo que coinciden es en que el propósito de Dios se cumple sea cual sea la reacción de los hombres, y en que el que tropieza es responsable de su incredulidad.", "fuentes": ["ncb1p_01_a#27", "kis1p_03_b#22", "mac1p_04_b#11", "bea1p_01_b#10"], "tipo": "doctrina"}
+        {
+          "texto": "El v. 7 pone el énfasis en ustedes, los que siguen creyendo (Kistemaker). Lo que la RVR1960 traduce «él es precioso» es literalmente honor: los creyentes reciben honra de Dios a causa de Cristo, y lo honran a él (Kistemaker; Comentario Moody). MacArthur agrega que creer en Jesús y amarlo van juntos.",
+          "fuentes": [
+            "kis1p_03_b#16",
+            "kis1p_03_b#17",
+            "moodynt_01_a#32",
+            "mac1p_04_b#8"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Para los que no creen, el Salmo 118:22. Kistemaker pinta la escena: las piedras se inspeccionaban y las que no pasaban se descartaban (1R 7:9); Dios, el arquitecto, toma justo la descartada y la pone en lo más alto. MacArthur: los líderes de Israel no aceptaron a Jesús porque no encajaba en su idea del Mesías.",
+          "fuentes": [
+            "kis1p_03_b#18",
+            "mac1p_04_b#9"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Y con Isaías 8:14, «Piedra de tropiezo, y roca que hace caer»: una piedra suelta con la que uno se tropieza y la roca firme contra la que uno cae (MacArthur). Kistemaker lo dice simple: o se pone la fe en Jesús o se estrella el pie contra él. Cristo es salvación para el que cree y juicio para el que lo rechaza (Biblia MacArthur).",
+          "fuentes": [
+            "mac1p_04_b#10",
+            "kis1p_03_b#20",
+            "mbib1p_01_b#8"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Tropiezan en la palabra, siendo desobedientes»: la palabra griega es, de raíz, negarse a ser persuadido, y la secuencia es incredulidad, desobediencia y caída (Kistemaker). La incredulidad es desobediencia porque el evangelio manda creer (Comentario Moody, Biblia MacArthur). Sobre «a lo cual fueron también destinados», los autores difieren (ver Interpretaciones); todos coinciden en que el que tropieza es responsable y en que el propósito de Dios se cumple.",
+          "fuentes": [
+            "kis1p_03_b#24",
+            "kis1p_03_b#21",
+            "moodynt_01_a#32",
+            "mbib1p_01_b#8",
+            "ncb1p_01_a#27"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1P 2:4", "griego": "προσερχόμενοι", "translit": "proserchómenoi", "significado": "Acercándose. MacArthur explica que el prefijo intensifica el verbo: acercarse para quedarse en comunión íntima y permanente, como en Hebreos 4:16.", "fuentes": ["mac1p_03_b#29"]},
-    {"ref": "1P 2:4", "griego": "ἀποδεδοκιμασμένον", "translit": "apodedokimasménon", "significado": "Desechada después de haber sido examinada o probada (MacArthur). Kistemaker nota que es un participio perfecto: el rechazo tiene efecto que perdura.", "fuentes": ["mac1p_03_b#31", "kis1p_03_b#5"]},
-    {"ref": "1P 2:4", "griego": "ἔντιμον", "translit": "éntimon", "significado": "Preciosa: valiosísima, de alto precio, irremplazable (MacArthur). Junto con ἐκλεκτὸν, escogida, describe la aprobación del Padre.", "fuentes": ["mac1p_04_a#1", "mac1p_04_b#5"]},
-    {"ref": "1P 2:5", "griego": "ἀνενέγκαι", "translit": "anenénkai", "significado": "Ofrecer, literalmente llevar hacia arriba, como se subía el sacrificio al altar (MacArthur, McConnell).", "fuentes": ["mac1p_04_a#15", "cbmh1p_01_c#14"]},
-    {"ref": "1P 2:6", "griego": "ἀκρογωνιαῖον", "translit": "akrogōniaîon", "significado": "Principal piedra del ángulo: la que fija los ángulos y la simetría de todo el edificio (MacArthur).", "fuentes": ["mac1p_04_b#5"]},
-    {"ref": "1P 2:6", "griego": "καταισχυνθῇ", "translit": "kataischynthḗ", "significado": "Ser avergonzado o defraudado en una esperanza; Pedro lo niega con fuerza: el que cree no lo será (MacArthur).", "fuentes": ["mac1p_04_b#6"]},
-    {"ref": "1P 2:7", "griego": "τιμὴ", "translit": "timḗ", "significado": "Honor, respeto; aquí, honor que se recibe. Kistemaker la opone a ἀπιστοῦσιν, los que se niegan a creer.", "fuentes": ["kis1p_03_b#19"]},
-    {"ref": "1P 2:8", "griego": "ἀπειθοῦντες", "translit": "apeithoúntes", "significado": "Desobedeciendo: de una raíz que significa persuadir con la negación delante; el que no quiere ser persuadido por la Palabra (Kistemaker).", "fuentes": ["kis1p_03_b#24"]}
+    {
+      "ref": "1P 2:4",
+      "griego": "προσερχόμενοι",
+      "translit": "proserchómenoi",
+      "significado": "Acercándose para quedarse, en comunión íntima y permanente (MacArthur).",
+      "fuentes": [
+        "mac1p_03_b#29"
+      ]
+    },
+    {
+      "ref": "1P 2:4",
+      "griego": "ἀποδεδοκιμασμένον",
+      "translit": "apodedokimasménon",
+      "significado": "Desechada tras ser examinada (MacArthur); participio perfecto: el rechazo perdura (Kistemaker).",
+      "fuentes": [
+        "mac1p_03_b#31",
+        "kis1p_03_b#5"
+      ]
+    },
+    {
+      "ref": "1P 2:4",
+      "griego": "ἔντιμον",
+      "translit": "éntimon",
+      "significado": "Preciosa: de alto precio, irremplazable (MacArthur).",
+      "fuentes": [
+        "mac1p_04_a#1",
+        "mac1p_04_b#5"
+      ]
+    },
+    {
+      "ref": "1P 2:6",
+      "griego": "ἀκρογωνιαῖον",
+      "translit": "akrogōniaîon",
+      "significado": "Principal piedra del ángulo: la que fija los ángulos y la simetría de todo el edificio (MacArthur).",
+      "fuentes": [
+        "mac1p_04_b#5"
+      ]
+    },
+    {
+      "ref": "1P 2:6",
+      "griego": "καταισχυνθῇ",
+      "translit": "kataischynthḗ",
+      "significado": "Ser avergonzado o defraudado en una esperanza; Pedro lo niega con fuerza: el que cree no lo será (MacArthur).",
+      "fuentes": [
+        "mac1p_04_b#6"
+      ]
+    },
+    {
+      "ref": "1P 2:8",
+      "griego": "ἀπειθοῦντες",
+      "translit": "apeithoúntes",
+      "significado": "Desobedeciendo: de una raíz que significa persuadir con la negación delante; el que no quiere ser persuadido por la Palabra (Kistemaker).",
+      "fuentes": [
+        "kis1p_03_b#24"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Jesús es el Elegido de Dios. El Diccionario Mundo Hispano ve en 1P 2:4, 6 el cumplimiento en Cristo de la elección del Siervo de Isaías, y lo llama la piedra angular escogida del nuevo edificio formado por creyentes judíos y gentiles. MacArthur recuerda que el Padre lo aprobó con su voz: Este es mi Hijo amado.", "refs": ["Is 42:1", "Lc 9:35", "Mt 3:17"], "fuentes": ["dbmh_02_b#13", "dbmh_01_a#28", "mac1p_04_a#1"]},
-    {"texto": "Jesús es el rechazado que Dios exaltó. Él mismo se aplicó el Salmo 118:22 en la parábola de los labradores, y Pedro lo citó ante el Sanedrín. Lo que los hombres descartaron, Dios lo puso en el lugar más alto al resucitarlo.", "refs": ["Mt 21:42", "Hch 4:11"], "fuentes": ["ncb1p_01_a#28", "kis1p_03_b#16", "mbib1p_01_b#2"]},
-    {"texto": "Jesús es precioso. Matthew Henry dice que es precioso por la excelencia de su naturaleza, la dignidad de su oficio y la gloria de lo que hizo, más allá de cualquier comparación. Vila lo resume en dos direcciones: precioso para Dios, que lo eligió, y precioso para el creyente, que se siente seguro sobre él.", "refs": ["Sal 40:2"], "fuentes": ["mhenry_01_a#18", "r1_004#23"]},
-    {"texto": "Jesús es Sumo Sacerdote y sacrificio perfecto. Nicholson recuerda que nuestros sacrificios son aceptables solo porque Cristo es nuestro Sumo Sacerdote, sacrificio perfecto y abogado; el Comentario Moody, que él abrió el lugar santísimo a todos los creyentes.", "refs": ["He 4:14-16"], "fuentes": ["bea1p_01_b#9", "moodynt_01_a#31"]},
-    {"texto": "Jesús es a la vez Salvador y Juez. El Comentario Moody lo dice así: la misma piedra es salvación para el que cree, y la misericordia rechazada se convierte en condenación.", "refs": ["Jn 12:48", "Mt 21:44"], "fuentes": ["moodynt_01_a#32"]}
+    {
+      "texto": "El Elegido: el Diccionario Mundo Hispano ve en 1P 2:4, 6 cumplida en Cristo la elección del Siervo de Isaías, piedra angular de un edificio de judíos y gentiles.",
+      "refs": [
+        "Is 42:1",
+        "Lc 9:35"
+      ],
+      "fuentes": [
+        "dbmh_02_b#13",
+        "dbmh_01_a#28"
+      ]
+    },
+    {
+      "texto": "El rechazado que Dios exaltó: Jesús se aplicó el Salmo 118:22 y Pedro lo citó ante el Sanedrín; lo que los hombres descartaron, Dios lo levantó al resucitarlo.",
+      "refs": [
+        "Mt 21:42",
+        "Hch 4:11"
+      ],
+      "fuentes": [
+        "ncb1p_01_a#28",
+        "mbib1p_01_b#2"
+      ]
+    },
+    {
+      "texto": "El precioso: por su naturaleza, su oficio y su obra, sin comparación posible (Henry); precioso para Dios, que lo eligió, y para el creyente, que se apoya seguro en él (Vila).",
+      "refs": [
+        "Sal 40:2"
+      ],
+      "fuentes": [
+        "mhenry_01_a#18",
+        "r1_004#23"
+      ]
+    },
+    {
+      "texto": "Sumo Sacerdote y sacrificio perfecto: por él son aceptables nuestros sacrificios (Nicholson), y él abrió el lugar santísimo a todos los creyentes (Comentario Moody).",
+      "refs": [
+        "He 4:14-16"
+      ],
+      "fuentes": [
+        "bea1p_01_b#9",
+        "moodynt_01_a#31"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "«Sed edificados» (1P 2:5): ¿mandato o descripción?",
       "posturas": [
-        {"postura": "Es indicativo: «son edificados». Describe lo que Dios hace con la iglesia; una sección doctrinal nueva no tiene por qué seguir los imperativos anteriores (argumento de Selwyn que cita).", "quien": "Kistemaker", "fuentes": ["kis1p_03_b#6", "kis1p_03_b#15"]},
-        {"postura": "Prefiere también el indicativo «sois edificados»; si se toma como imperativo, habría que entenderlo como «déjense edificar».", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1p_01_a#29"]},
-        {"postura": "Es imperativo («sed edificados»), como traduce la RVR1960, siguiendo la serie de mandatos de 1:13-2:13 (argumento de Bigg, citado por Kistemaker).", "quien": "Bigg y versiones como la RVR, según Kistemaker", "fuentes": ["kis1p_03_b#6"]}
+        {
+          "postura": "Indicativo, «son edificados»: describe lo que Dios hace con la iglesia.",
+          "quien": "Kistemaker; Nuevo Comentario Bíblico",
+          "fuentes": [
+            "kis1p_03_b#6",
+            "ncb1p_01_a#29"
+          ]
+        },
+        {
+          "postura": "Imperativo, «sed edificados» (o «déjense edificar»), siguiendo la serie de mandatos de 1:13-2:13.",
+          "quien": "Bigg y versiones como la RVR, según Kistemaker",
+          "fuentes": [
+            "kis1p_03_b#6"
+          ]
+        }
       ],
-      "nota": "La forma griega es la misma en los dos casos. En cualquier lectura el verbo es pasivo: el que edifica es Dios."
-    },
-    {
-      "tema": "«Para vosotros… él es precioso» (1P 2:7): ¿qué es lo precioso?",
-      "posturas": [
-        {"postura": "Las versiones se reparten en tres: esta piedra es preciosa, él es precioso (RVR1960) o para ustedes que creen es la preciosidad. Kistemaker subraya que la palabra significa honor: los creyentes son honrados por Dios a causa de Cristo, y ellos lo honran.", "quien": "Kistemaker", "fuentes": ["kis1p_03_b#17", "kis1p_03_b#19"]},
-        {"postura": "Literalmente honor, cosa valiosa; para el que cree, Cristo es precioso.", "quien": "Comentario Bíblico Moody", "fuentes": ["moodynt_01_a#32"]}
-      ],
-      "nota": "No son lecturas opuestas: el honor del creyente viene de Cristo y vuelve a Cristo."
+      "nota": "La forma griega es la misma; en las dos lecturas el que edifica es Dios."
     },
     {
       "tema": "«A lo cual fueron también destinados» (1P 2:8)",
       "posturas": [
-        {"postura": "Desde el punto de vista humano, tropiezan por su desobediencia y pagan las consecuencias; pero el texto también da a entender que Dios destinó a los desobedientes a la destrucción eterna. Nadie se asegura la salvación por su propia decisión: Dios elige primero (Ro 9:15-16), y tampoco el incrédulo está fuera de su control.", "quien": "Kistemaker (reformado)", "fuentes": ["kis1p_03_b#22"]},
-        {"postura": "Dios no destina a nadie a ser incrédulo; lo que está destinado es el juicio sobre la incredulidad. El juicio por la incredulidad fue determinado por Dios tanto como la salvación por la fe.", "quien": "MacArthur (comentario y Biblia de estudio)", "fuentes": ["mac1p_04_b#11", "mbib1p_01_b#9"]},
-        {"postura": "No es un destino arbitrario: quedan destinados a la ruina en justicia, por haber rechazado la misericordia y la verdad.", "quien": "Nicholson, Comentario Beacon (wesleyano)", "fuentes": ["bea1p_01_b#10"]},
-        {"postura": "El mismo propósito de Dios que, basado en la presciencia, eligió a los lectores, destina al desobediente a la única alternativa posible.", "quien": "Comentario Bíblico Moody", "fuentes": ["moodynt_01_a#32"]},
-        {"postura": "Lectura mínima: quien desobedece la Palabra está sentenciado a que el Señor, en lugar de ser su fundamento, le estorbe el camino y lo haga caer; no hace falta afirmar más que eso.", "quien": "Nuevo Comentario Bíblico", "fuentes": ["ncb1p_01_a#30"]},
-        {"postura": "La desobediencia nace de la incredulidad y trae sus propias consecuencias; ese es el sentido de justicia básico del versículo.", "quien": "McConnell, Comentario Mundo Hispano", "fuentes": ["cbmh1p_01_c#15"]}
+        {
+          "postura": "Tropiezan por su desobediencia, pero el texto también da a entender que Dios destinó a los desobedientes a la destrucción eterna; Dios elige primero (Ro 9:15-16).",
+          "quien": "Kistemaker (reformado)",
+          "fuentes": [
+            "kis1p_03_b#22"
+          ]
+        },
+        {
+          "postura": "Dios no destina a nadie a ser incrédulo; lo destinado es el juicio sobre la incredulidad, tan determinado como la salvación por la fe.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mac1p_04_b#11",
+            "mbib1p_01_b#9"
+          ]
+        },
+        {
+          "postura": "No es un destino arbitrario: quedan destinados a la ruina en justicia por haber rechazado la misericordia.",
+          "quien": "Nicholson, Comentario Beacon (wesleyano)",
+          "fuentes": [
+            "bea1p_01_b#10"
+          ]
+        },
+        {
+          "postura": "Lectura mínima: quien desobedece está sentenciado a que el Señor le estorbe el camino y lo haga caer; no hace falta afirmar más.",
+          "quien": "Nuevo Comentario Bíblico",
+          "fuentes": [
+            "ncb1p_01_a#30"
+          ]
+        }
       ],
-      "nota": "Kistemaker agrega, citando a Ernest Best, que la voz pasiva era una forma reverente de los judíos para hablar de una acción de Dios sin nombrarlo. Todos coinciden en que el incrédulo es responsable y en que Dios sigue siendo soberano."
-    },
-    {
-      "tema": "¿Quién es la roca de Mateo 16:18?",
-      "posturas": [
-        {"postura": "Los católicos romanos basan en Mateo 16:18-19 el oficio del Papa.", "quien": "Postura que Wiersbe describe para discutirla", "fuentes": ["r1_005#12"]},
-        {"postura": "La roca es Cristo: lo dijo Jesús, lo dijo Pedro en este pasaje y en Hechos 4:11-12, y Pablo (1Co 10:4); en el Antiguo Testamento la Roca habla de Dios. Distingue petros, piedra pequeña, de petra, roca de cimiento.", "quien": "Wiersbe, Bosquejos expositivos", "fuentes": ["r1_005#12", "r1_006#22"]},
-        {"postura": "El pasaje recuerda lo que Jesús le dijo a Pedro, pero Pedro pone a su Señor, y no a sí mismo, como fundamento. Kistemaker opina que Pedro ni siquiera está jugando con su nombre: usa piedra, no roca.", "quien": "Comentario Bíblico Moody; Kistemaker", "fuentes": ["moodynt_01_a#31", "kis1p_03_b#3"]}
-      ],
-      "nota": "Los autores protestantes de la biblioteca coinciden en que, para Pedro mismo, la piedra fundamental es Cristo."
+      "nota": "Kistemaker, citando a Ernest Best, recuerda que la voz pasiva era una forma reverente de hablar de una acción de Dios sin nombrarlo."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Sal 34:8", "nota": "Kistemaker menciona a estudiosos que oyen en el «acercándoos a él» un eco del Salmo 34 (en la versión griega, venid a él y sed iluminados), que Pedro ya había usado en el v. 3.", "fuentes": ["kis1p_03_b#2"]},
-    {"ref": "Is 28:16", "nota": "La piedra preciosa puesta por Dios en Sion como fundamento seguro (v. 6). Pedro sigue la versión griega, igual que Pablo en Romanos 9:33; Nicholson nota que la cita no es exacta y algunos piensan que la hizo de memoria. McConnell y la Biblia MacArthur explican que Sion pasó a ser figura de la ciudad de Dios y del nuevo pacto, frente al Sinaí del antiguo.", "fuentes": ["ncb1p_01_a#28", "moodynt_01_a#32", "bea1p_01_b#10", "cbmh1p_01_c#15", "mbib1p_01_b#7"]},
-    {"ref": "Sal 118:22", "nota": "La piedra rechazada por los constructores que llega a ser cabeza del ángulo (v. 7). Jesús la aplicó a sí mismo (Mr 12:10) y Pedro la citó ante el Sanedrín (Hch 4:11).", "fuentes": ["ncb1p_01_a#28", "kis1p_03_b#16"]},
-    {"ref": "Is 8:14", "nota": "La piedra de tropiezo (v. 8). MacArthur recuerda que Isaías ya anunciaba que el Mesías sería tropiezo para la mayoría de Israel; Pablo junta este texto con Isaías 28:16 en Romanos 9:32-33.", "fuentes": ["mac1p_04_b#10", "kis1p_03_b#20"]},
-    {"ref": "Éx 28:1", "nota": "MacArthur propone Éxodo 28-29, Levítico 8-9 y Malaquías 2 como el trasfondo del sacerdocio de los creyentes: elegidos, limpiados, vestidos, ungidos, preparados y llamados a obedecer (ver Profundizar).", "fuentes": ["mac1p_04_a#7"]}
+    {
+      "ref": "Is 28:16",
+      "nota": "La piedra puesta en Sion (v. 6), citada por la versión griega como Pablo en Romanos 9:33. Sion pasó a ser figura de la ciudad de Dios y del nuevo pacto (McConnell, Biblia MacArthur).",
+      "fuentes": [
+        "ncb1p_01_a#28",
+        "cbmh1p_01_c#15",
+        "mbib1p_01_b#7"
+      ]
+    },
+    {
+      "ref": "Sal 118:22",
+      "nota": "La piedra rechazada que llega a cabeza del ángulo (v. 7); Jesús la usó en Marcos 12:10.",
+      "fuentes": [
+        "ncb1p_01_a#28"
+      ]
+    },
+    {
+      "ref": "Is 8:14",
+      "nota": "La piedra de tropiezo (v. 8); Pablo la junta con Isaías 28:16 en Romanos 9:32-33.",
+      "fuentes": [
+        "kis1p_03_b#20"
+      ]
+    },
+    {
+      "ref": "Sal 34:8",
+      "nota": "Algunos oyen en «acercándoos a él» un eco del Salmo 34, ya usado en el v. 3 (Kistemaker).",
+      "fuentes": [
+        "kis1p_03_b#2"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Chafer ve a Cristo como piedra en tres relaciones: para las naciones, la piedra que desmenuza en el juicio final (Dn 2:34); para Israel, piedra de tropiezo porque vino como Siervo y no como Rey; para la Iglesia, piedra de fundamento y principal del ángulo. Sostiene que su exaltación como piedra angular se consumó en la resurrección.", "autor": "Lewis Sperry Chafer", "obra": "Teología sistemática, tomo II", "pagina": "PDF 90-91", "tipo": "doctrina", "fuentes": ["r1_019#9"]},
-    {"texto": "Chafer enumera tres rasgos del edificio de la Iglesia: cada piedra es viva, porque participa de la naturaleza divina; su fundamento y piedra angular es Cristo; y toda la estructura es morada de Dios en el Espíritu (Ef 2:22).", "autor": "Lewis Sperry Chafer", "obra": "Teología sistemática, tomo II", "pagina": "PDF 90-91", "tipo": "doctrina", "fuentes": ["r1_019#10"]},
-    {"texto": "MacArthur y Mayhue presentan a Cristo como Cabeza de la iglesia: su autoridad suprema y fuente de su salvación, la piedra angular sobre la que se apoya; nadie puede poner otro fundamento (1Co 3:11).", "autor": "John MacArthur y Richard Mayhue", "obra": "Teología sistemática", "pagina": "PDF 1042", "tipo": "doctrina", "fuentes": ["r1_018_b#16"]},
-    {"texto": "McConnell recoge que pontifex significa constructor de puentes, y lo usa como imagen del creyente sacerdote que acerca a los que están lejos de Dios.", "autor": "Cecilio McConnell", "obra": "Comentario Bíblico Mundo Hispano, 1 Pedro", "pagina": "p. 327-328", "tipo": "ilustracion", "fuentes": ["cbmh1p_01_c#14"]},
-    {"texto": "En el mismo comentario, Palomino cuenta la historia de su padre: alcohólico en una ciudad sudamericana, mientras su esposa lavaba ropa ajena para sostener a la familia, leyó un folleto por curiosidad, fue a un estudio bíblico, nació de nuevo y terminó predicando el evangelio.", "autor": "Palomino, en el Comentario Bíblico Mundo Hispano", "obra": "Comentario Bíblico Mundo Hispano, 1 Pedro", "pagina": "p. 328", "tipo": "ilustracion", "fuentes": ["cbmh1p_01_c#17"]},
-    {"texto": "Kistemaker y MacArthur citan un himno latino del siglo VII, en la traducción inglesa de John Mason Neale, que canta a Cristo como cimiento firme, cabeza y piedra angular, el escogido del Señor que une a toda la iglesia.", "autor": "Simon Kistemaker; John MacArthur", "obra": "Comentarios a 1 Pedro", "pagina": "Kistemaker p. 107-108; MacArthur PDF 89", "tipo": "historia", "fuentes": ["kis1p_03_b#13", "mac1p_04_b#7"]}
+    {
+      "texto": "En el mismo comentario, Palomino cuenta la historia de su padre: alcohólico en una ciudad sudamericana, mientras su esposa lavaba ropa ajena para sostener a la familia, leyó un folleto por curiosidad, fue a un estudio bíblico, nació de nuevo y terminó predicando el evangelio.",
+      "autor": "Palomino, en el Comentario Bíblico Mundo Hispano",
+      "obra": "Comentario Bíblico Mundo Hispano, 1 Pedro",
+      "pagina": "p. 328",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "cbmh1p_01_c#17"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Ef 2:19-22", "nota": "El texto gemelo de Pablo: la iglesia como templo santo, edificado sobre apóstoles y profetas con Cristo como piedra angular, morada de Dios en el Espíritu. Varios comentaristas lo citan aquí.", "fuentes": ["moodynt_01_a#31", "r1_006#22", "kis1p_03_b#12"]},
-    {"ref": "Hch 4:11", "nota": "Pedro ya había usado el Salmo 118:22 ante el Sanedrín. MacArthur nota que en sus sermones de Hechos Pedro daba testimonio de la perfección de Cristo, aprobado por Dios y resucitado.", "fuentes": ["mac1p_04_a#2", "ncb1p_01_a#28"]},
-    {"ref": "1Co 3:11", "nota": "Nadie puede poner otro fundamento que el que está puesto, que es Jesucristo; el Comentario Moody y el Nuevo Comentario Bíblico lo relacionan con Isaías 28:16.", "fuentes": ["moodynt_01_a#32", "ncb1p_01_a#28"]},
-    {"ref": "He 13:15-16", "nota": "Los sacrificios de alabanza, de hacer el bien y de ayuda mutua, que Wiersbe y MacArthur ponen junto a este versículo.", "fuentes": ["r1_006#22", "mac1p_04_a#18", "mac1p_04_a#19"]},
-    {"ref": "Ro 12:1-2", "nota": "El cuerpo presentado como sacrificio vivo: MacArthur lo toma como el primero de los sacrificios espirituales; Dios quiere un sacrificio vivo, no muerto.", "fuentes": ["mac1p_04_a#17", "moodynt_01_a#31"]},
-    {"ref": "Lc 2:34", "nota": "Simeón anunció que Jesús sería para caída y levantamiento de muchos; Kistemaker lo pone junto a la piedra de tropiezo.", "fuentes": ["kis1p_03_b#20"]}
+    {
+      "ref": "Ef 2:19-22",
+      "nota": "El texto gemelo de Pablo: la iglesia como templo con Cristo como piedra angular.",
+      "fuentes": [
+        "moodynt_01_a#31",
+        "r1_006#22",
+        "kis1p_03_b#12"
+      ]
+    },
+    {
+      "ref": "1Co 3:11",
+      "nota": "Nadie puede poner otro fundamento que el que está puesto, que es Jesucristo; el Comentario Moody y el Nuevo Comentario Bíblico lo relacionan con Isaías 28:16.",
+      "fuentes": [
+        "moodynt_01_a#32",
+        "ncb1p_01_a#28"
+      ]
+    },
+    {
+      "ref": "He 13:15-16",
+      "nota": "Los sacrificios de alabanza, de hacer el bien y de ayuda mutua, que Wiersbe y MacArthur ponen junto a este versículo.",
+      "fuentes": [
+        "r1_006#22",
+        "mac1p_04_a#18",
+        "mac1p_04_a#19"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Acercarse a Cristo es de todos los días. Si «acercándoos» es una comunión que se busca para quedarse, la pregunta para ustedes no es solo si alguna vez creyeron, sino si hoy se están acercando: en la Palabra, en la oración, en la obediencia.", "fuentes": ["mac1p_03_b#29", "kis1p_03_b#2"]},
-    {"texto": "Ninguna piedra está sola. Grudem y el Nuevo Comentario Bíblico recuerdan que somos piedras que dependen unas de otras. McConnell agrega que, si Cristo ocupa el lugar más importante, a nosotros nos toca llenar los espacios más vulnerables. En la iglesia y también en el matrimonio, cada uno sostiene y es sostenido.", "fuentes": ["r1_014_a#11", "ncb1p_01_a#27", "cbmh1p_01_c#13"]},
-    {"texto": "Su casa puede ser un lugar de sacrificios espirituales: el cuerpo puesto al servicio de Dios, la alabanza, el bien hecho al otro, la generosidad, el amor que cede por el bien del otro y la oración juntos. MacArthur dice que estos sacrificios son la esencia de la vida cristiana, y que ni en el cielo habrá privilegio sin servicio.", "fuentes": ["mbib1p_01_b#5", "mac1p_04_a#22", "mac1p_03_b#28"]},
-    {"texto": "Si alguna vez se sienten despreciados por su fe, recuerden que a Cristo lo descartaron primero, y que Dios no mide como miden los hombres. La promesa sigue firme: el que confía en él no será defraudado.", "fuentes": ["cbmh1p_01_c#13", "kis1p_03_b#14"]}
+    {
+      "texto": "Acercarse a Cristo es de todos los días: la pregunta no es solo si alguna vez creyeron, sino si hoy se están acercando en la Palabra, la oración y la obediencia.",
+      "fuentes": [
+        "mac1p_03_b#29",
+        "kis1p_03_b#2"
+      ]
+    },
+    {
+      "texto": "Ninguna piedra está sola. Si Cristo ocupa el lugar más importante, a nosotros nos toca llenar los espacios más vulnerables (McConnell): en la iglesia y en el matrimonio, cada uno sostiene y es sostenido.",
+      "fuentes": [
+        "r1_014_a#11",
+        "cbmh1p_01_c#13"
+      ]
+    },
+    {
+      "texto": "Su casa puede ser lugar de sacrificios espirituales: alabanza, servicio, generosidad, amor que cede y oración juntos. MacArthur dice que ni en el cielo habrá privilegio sin servicio.",
+      "fuentes": [
+        "mbib1p_01_b#5",
+        "mac1p_03_b#28"
+      ]
+    }
   ],
   "para_conversar": [
     "¿Qué diferencia hay entre haber creído alguna vez y acercarse a Cristo todos los días? ¿Cómo se ve eso, en concreto, en nuestra semana?",
@@ -165,11 +495,72 @@
     "Si somos piedras que dependen unas de otras, ¿en qué lugar vulnerable de nuestra iglesia o de nuestro hogar nos está pidiendo Dios que nos pongamos?"
   ],
   "para_orar": "Señor Jesús, piedra viva, rechazado por los hombres y elegido por el Padre: queremos acercarnos a vos hoy y cada día. Edificanos juntos en tu casa, recibí por medio tuyo nuestra alabanza, nuestro servicio y nuestras oraciones, y guardanos en la confianza de que nadie que espera en vos queda avergonzado.",
-  "visuales": ["dg-at", "dg-estructura-1p"],
-  "anexos": ["P1", "T6"],
+  "visuales": [
+    "dg-at",
+    "dg-estructura-1p"
+  ],
+  "anexos": [
+    "P1",
+    "T6"
+  ],
   "profundizar": [
-    {"titulo": "El sacerdocio de Aarón como espejo del creyente (MacArthur)", "texto": "MacArthur saca de Éxodo, Levítico y Malaquías seis rasgos del sacerdocio antiguo que se aplican a los creyentes. Elegidos: Dios escogió a Aarón y a sus hijos, y aun de una tribu maldecida por su violencia (Gn 49:5-7); hoy sigue eligiendo entre los débiles y despreciados (1Co 1:26-29). Limpiados: nadie entraba al servicio sin ser lavado y sin expiación, como Jesús le dijo a Pedro al lavarle los pies (Jn 13:8). Vestidos: las vestiduras señalaban el llamado a la pureza y la justicia, y el creyente está vestido de la justicia de Cristo (1Co 1:30). Ungidos: la unción de Levítico 8 simbolizaba el poder del Espíritu, que los creyentes han recibido (1Jn 2:20). Preparados: los sacerdotes esperaban siete días a la puerta del tabernáculo antes de servir, como Pablo en Arabia (Gá 1:15-17). Obedientes: Nadab y Abiú murieron por ofrecer fuego extraño; MacArthur presenta tres explicaciones posibles de su pecado sin decidirse, pero lo claro es que Dios pide obediencia. Malaquías 2:6-7 retrata al sacerdote fiel: la verdad en su boca, un andar con Dios y muchos apartados del pecado. La Biblia MacArthur amplía la lista a diez rasgos y concluye que el privilegio máximo del sacerdote es el acceso a Dios.", "fuentes": ["mac1p_04_a#7", "mac1p_04_a#8", "mac1p_04_a#9", "mac1p_04_a#10", "mac1p_04_a#11", "mac1p_04_a#12", "mac1p_04_a#13", "mac1p_04_a#14", "mbib1p_01_b#4"]},
-    {"titulo": "Los siete sacrificios, uno por uno", "texto": "MacArthur desarrolla cada sacrificio. El cuerpo: los no regenerados ponen sus miembros al servicio del pecado, los redimidos los entregan como instrumentos de justicia (Ro 6:13), como Abraham dispuesto a entregar a Isaac. La alabanza: no es solo decir alabado sea el Señor sino declarar con gratitud quién es Dios y lo que hizo, como en los cánticos de Éxodo 15 o los Salmos 103-107, 145 y 148-150. Hacer el bien: incluye corregir para restaurar a un hermano, escuchar la Palabra y decir una palabra justa. La generosidad: dar de modo sacrificial, como los filipenses (Fil 4:18). Los convertidos: Pablo veía a los gentiles alcanzados como una ofrenda agradable (Ro 15:16). El amor: el que se entrega por los otros como Cristo se entregó (Ef 5:1-2). La oración: el incienso que sube con las oraciones de los santos (Ap 8:3-4); cita a Crisóstomo, que llamaba a la oración un tesoro que no disminuye y una mina que nunca se agota.", "fuentes": ["mac1p_04_a#17", "mac1p_04_a#18", "mac1p_04_a#19", "mac1p_04_a#20", "mac1p_04_a#21"]},
-    {"titulo": "Unidos a Cristo, con recursos para servir", "texto": "MacArthur agrega que en la unión con Cristo el creyente tiene recursos para todo lo que necesita: Pablo oraba al que puede hacer mucho más de lo que pedimos según el poder que actúa en nosotros (Ef 3:20) y decía que solo hablaba de lo que Cristo había hecho por medio de él (Ro 15:18). También señala que privilegio y deber no se excluyen: muchos ven la vida cristiana solo como obligación y dejan los privilegios para el cielo, pero ya hoy el creyente goza de privilegios, y en el cielo tampoco habrá privilegio sin servicio.", "fuentes": ["mac1p_04_a#4", "mac1p_03_b#28"]}
+    {
+      "titulo": "El sacerdocio de Aarón como espejo del creyente (MacArthur)",
+      "texto": "MacArthur saca de Éxodo, Levítico y Malaquías seis rasgos del sacerdocio antiguo que se aplican a los creyentes. Elegidos: Dios escogió a Aarón y a sus hijos, y aun de una tribu maldecida por su violencia (Gn 49:5-7); hoy sigue eligiendo entre los débiles y despreciados (1Co 1:26-29). Limpiados: nadie entraba al servicio sin ser lavado y sin expiación, como Jesús le dijo a Pedro al lavarle los pies (Jn 13:8). Vestidos: las vestiduras señalaban el llamado a la pureza y la justicia, y el creyente está vestido de la justicia de Cristo (1Co 1:30). Ungidos: la unción de Levítico 8 simbolizaba el poder del Espíritu, que los creyentes han recibido (1Jn 2:20). Preparados: los sacerdotes esperaban siete días a la puerta del tabernáculo antes de servir, como Pablo en Arabia (Gá 1:15-17). Obedientes: Nadab y Abiú murieron por ofrecer fuego extraño; MacArthur presenta tres explicaciones posibles de su pecado sin decidirse, pero lo claro es que Dios pide obediencia. Malaquías 2:6-7 retrata al sacerdote fiel: la verdad en su boca, un andar con Dios y muchos apartados del pecado. La Biblia MacArthur amplía la lista a diez rasgos y concluye que el privilegio máximo del sacerdote es el acceso a Dios.",
+      "fuentes": [
+        "mac1p_04_a#7",
+        "mac1p_04_a#8",
+        "mac1p_04_a#9",
+        "mac1p_04_a#10",
+        "mac1p_04_a#11",
+        "mac1p_04_a#12",
+        "mac1p_04_a#13",
+        "mac1p_04_a#14",
+        "mbib1p_01_b#4"
+      ]
+    },
+    {
+      "titulo": "Los siete sacrificios, uno por uno",
+      "texto": "MacArthur desarrolla cada sacrificio. El cuerpo: los no regenerados ponen sus miembros al servicio del pecado, los redimidos los entregan como instrumentos de justicia (Ro 6:13), como Abraham dispuesto a entregar a Isaac. La alabanza: no es solo decir alabado sea el Señor sino declarar con gratitud quién es Dios y lo que hizo, como en los cánticos de Éxodo 15 o los Salmos 103-107, 145 y 148-150. Hacer el bien: incluye corregir para restaurar a un hermano, escuchar la Palabra y decir una palabra justa. La generosidad: dar de modo sacrificial, como los filipenses (Fil 4:18). Los convertidos: Pablo veía a los gentiles alcanzados como una ofrenda agradable (Ro 15:16). El amor: el que se entrega por los otros como Cristo se entregó (Ef 5:1-2). La oración: el incienso que sube con las oraciones de los santos (Ap 8:3-4); cita a Crisóstomo, que llamaba a la oración un tesoro que no disminuye y una mina que nunca se agota.",
+      "fuentes": [
+        "mac1p_04_a#17",
+        "mac1p_04_a#18",
+        "mac1p_04_a#19",
+        "mac1p_04_a#20",
+        "mac1p_04_a#21"
+      ]
+    },
+    {
+      "titulo": "Unidos a Cristo, con recursos para servir",
+      "texto": "MacArthur agrega que en la unión con Cristo el creyente tiene recursos para todo lo que necesita: Pablo oraba al que puede hacer mucho más de lo que pedimos según el poder que actúa en nosotros (Ef 3:20) y decía que solo hablaba de lo que Cristo había hecho por medio de él (Ro 15:18). También señala que privilegio y deber no se excluyen: muchos ven la vida cristiana solo como obligación y dejan los privilegios para el cielo, pero ya hoy el creyente goza de privilegios, y en el cielo tampoco habrá privilegio sin servicio.",
+      "fuentes": [
+        "mac1p_04_a#4",
+        "mac1p_03_b#28"
+      ]
+    },
+    {
+      "titulo": "¿Quién es la roca de Mateo 16:18?",
+      "texto": "Wiersbe recuerda que los católicos romanos fundan en Mateo 16:18-19 el oficio del Papa, y sostiene que la roca es Cristo: lo dijo Jesús, lo dijo Pedro en este pasaje y en Hechos 4:11-12, y Pablo (1Co 10:4); además distingue petros, piedra pequeña, de petra, roca de cimiento. El Comentario Moody nota que Pedro pone a su Señor, y no a sí mismo, como fundamento; Kistemaker opina que Pedro ni siquiera juega con su nombre.",
+      "fuentes": [
+        "r1_005#12",
+        "r1_006#22",
+        "moodynt_01_a#31",
+        "kis1p_03_b#3"
+      ]
+    },
+    {
+      "titulo": "Otros aportes de la biblioteca",
+      "texto": "Chafer ve a Cristo como piedra en tres relaciones: para las naciones, la que desmenuza en el juicio (Dn 2:34); para Israel, piedra de tropiezo porque vino como Siervo y no como Rey; para la Iglesia, fundamento y piedra angular; y enumera tres rasgos del edificio: piedras vivas, Cristo como fundamento y morada de Dios en el Espíritu (Teología sistemática, tomo II, PDF 90-91). MacArthur y Mayhue presentan a Cristo como Cabeza y fuente de salvación de la iglesia (Teología sistemática, PDF 1042). McConnell recoge que pontifex significa constructor de puentes, imagen del creyente que acerca a los lejanos. Kistemaker y MacArthur citan un himno latino del siglo VII que canta a Cristo como cimiento y piedra angular que une a toda la iglesia. MacArthur recuerda también que las piedras del templo de Salomón se tallaban a medida antes de llevarlas (1R 6:7), y que Pedro, en Hechos, predicaba la perfección de Cristo.",
+      "fuentes": [
+        "r1_019#9",
+        "r1_019#10",
+        "r1_018_b#16",
+        "cbmh1p_01_c#14",
+        "kis1p_03_b#13",
+        "mac1p_04_b#7",
+        "mac1p_04_b#4",
+        "mac1p_04_a#2"
+      ]
+    }
   ]
 }

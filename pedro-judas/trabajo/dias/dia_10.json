@@ -4,174 +4,640 @@
   "desde": "1P 2:11",
   "hasta": "1P 2:17",
   "titulo": "Extranjeros que viven bien y honran a todos",
-  "minutos": {"lectura": 3, "estudio": 25},
+  "minutos": {
+    "lectura": 3,
+    "estudio": 25
+  },
   "contexto": {
-    "antes": "Ayer Pedro les dijo a los creyentes quiénes son: linaje escogido, real sacerdocio, pueblo de Dios, los que antes no eran pueblo y ahora lo son (1P 2:9-10). Hasta acá habló de la relación con Cristo y entre hermanos; ahora deja la imagen de la realeza y vuelve a llamarlos peregrinos, como en el saludo (1P 1:1).",
-    "ahora": "Empieza una nueva serie de exhortaciones, que mira hacia afuera: cómo se vive en medio de un mundo que no cree. Kistemaker la llama la segunda sección pastoral de la carta: después de la santidad (1P 1:13-2:3), la sumisión a gobernantes, amos y esposos (1P 2:11-3:12). Hoy vemos dos pasos: la vida del peregrino, por dentro y por fuera (vv. 11-12), y su conducta ante el gobierno (vv. 13-17).",
-    "donde": "Los lectores viven en las provincias de Asia Menor nombradas en 1P 1:1; el Comentario Moody recuerda que Ponto y Bitinia aparecen años después en un informe del gobernador Plinio sobre los cristianos.",
-    "cuando": "Según Kistemaker, McConnell y el Nuevo Comentario Bíblico, Pedro escribe (probablemente) en tiempos de Nerón, el emperador bajo el cual él mismo murió mártir en las afueras de Roma.",
-    "despues": "Mañana (1P 2:18-20) Pedro baja de la ciudad a la casa: los siervos que deben someterse a sus amos, aun a los injustos, y el valor de sufrir sin culpa. La Biblia MacArthur ve en todo el tramo tres maneras de mirar las obligaciones del cristiano: como peregrino (vv. 11-12), como ciudadano (vv. 13-17) y como siervo (vv. 18-20).",
-    "fuentes": ["bea1p_01_b#12", "moodynt_01_b#1", "kis1p_03_c#11", "kis1p_03_c#22", "cbmh1p_02_a#3", "ncb1p_01_a#34", "moodynt_01_b#3", "mbib1p_01_b#13"]
+    "antes": "Ayer Pedro les dijo a los creyentes quiénes son: linaje escogido, real sacerdocio, pueblo de Dios (1P 2:9-10). Ahora deja esa imagen de realeza y vuelve a llamarlos peregrinos, como en el saludo (1P 1:1).",
+    "ahora": "Empieza una nueva serie de exhortaciones que mira hacia afuera: cómo vivir en un mundo que no cree. Kistemaker la llama la segunda sección pastoral: después de la santidad (1P 1:13-2:3), la sumisión a gobernantes, amos y esposos (1P 2:11-3:12).",
+    "donde": "Las provincias de Asia Menor nombradas en 1P 1:1.",
+    "cuando": "Según Kistemaker, McConnell y el Nuevo Comentario Bíblico, probablemente en tiempos de Nerón.",
+    "despues": "Mañana (1P 2:18-20) Pedro pasa a los siervos y sus amos. La Biblia MacArthur ve tres miradas en todo el tramo: el cristiano como peregrino (vv. 11-12), como ciudadano (vv. 13-17) y como siervo (vv. 18-20).",
+    "fuentes": [
+      "bea1p_01_b#12",
+      "moodynt_01_b#1",
+      "kis1p_03_c#11",
+      "kis1p_03_c#22",
+      "cbmh1p_02_a#3",
+      "ncb1p_01_a#34",
+      "mbib1p_01_b#13"
+    ]
   },
   "versiculo_clave": {
     "ref": "1P 2:12",
     "porque": "Resume el tramo: una vida buena, a la vista de los que hablan mal, puede terminar llevándolos a glorificar a Dios. Todo lo demás (abstenerse, someterse, honrar) está al servicio de ese testimonio."
   },
   "panorama": {
-    "texto": "Pedro les ruega a los creyentes que se vean como lo que son: extranjeros de paso, con la ciudadanía en el cielo. Eso no los lleva a encerrarse ni a despreciar el mundo, sino a dos cosas. Por dentro, a no darles lugar a los deseos que hacen la guerra contra el alma. Por fuera, a vivir de una manera tan buena que las calumnias se queden sin base y algunos de los que acusan terminen glorificando a Dios. La primera muestra concreta de esa vida es el trato con el gobierno: someterse a las autoridades por causa del Señor, porque así quiere Dios que se haga callar a los necios; hacerlo como gente libre, pero libre para servir a Dios; y, en resumen, honrar a todos, amar a los hermanos, temer a Dios y honrar al rey.",
-    "fuentes": ["kis1p_03_c#13", "mac1p_04_b#31", "mac1p_05_a#3", "ncb1p_01_a#33", "mac1p_05_a#9"]
+    "texto": "Pedro les ruega a los creyentes que se vean como lo que son: extranjeros de paso, con la ciudadanía en el cielo. Eso no los lleva a encerrarse sino a dos cosas: por dentro, no darles lugar a los deseos que hacen la guerra contra el alma; por fuera, vivir tan bien que las calumnias queden sin base y algunos acusadores terminen glorificando a Dios. La primera muestra concreta es el trato con el gobierno: someterse por causa del Señor, como gente libre que usa su libertad para servir a Dios.",
+    "fuentes": [
+      "kis1p_03_c#13",
+      "mac1p_04_b#31",
+      "mac1p_05_a#3",
+      "ncb1p_01_a#33",
+      "mac1p_05_a#9"
+    ]
   },
   "secciones": [
     {
       "rango": "1P 2:11",
       "titulo": "Un ruego a gente que está de paso",
       "notas": [
-        {"texto": "Pedro escribe como pastor: habla en primera persona y ruega, porque confía en que pueden hacerlo. Los llama «Amados», y Kistemaker señala dos cosas en esa palabra: que son amados por Dios (y por el apóstol), y que ese amor trae una obligación. McConnell agrega que Pedro suele usarla cuando va a pedir algo difícil (cf. 1P 4:12). MacArthur, en la misma línea, dice que el recordatorio de ser objetos del amor de Dios es lo que mueve a obedecerle.", "fuentes": ["kis1p_03_c#13", "kis1p_03_c#12", "cbmh1p_01_c#21", "mac1p_04_b#32"], "tipo": "exegesis"},
-        {"texto": "Los dos títulos, «extranjeros y peregrinos», describen al que vive en un país que no es el suyo, sin los derechos del ciudadano, y al que está de paso por un tiempo breve. La expresión viene del AT, de Abraham comprando una sepultura en Canaán (Gn 23:4), y la recogen el Salmo 39 y Hebreos 11. Los cristianos viven poco tiempo en un mundo que les resulta extraño, porque su ciudadanía está en el cielo (Fil 3:20) y no tienen acá ciudad permanente (He 13:14).", "fuentes": ["kis1p_03_c#13", "mac1p_04_b#32", "ncb1p_01_a#33", "cbmh1p_01_c#22"], "tipo": "doctrina"},
-        {"texto": "Ojo con lo que Pedro pide y lo que no. No dice: sepárense del mundo; dice: absténganse de los deseos pecaminosos y cuiden el alma, que es donde el deseo nace (Kistemaker). El Nuevo Comentario Bíblico nota que hasta acá Pedro desarrolló el lado positivo de la santidad, vivir para Dios, y ahora muestra el negativo: la abstinencia.", "fuentes": ["kis1p_03_c#14", "ncb1p_01_a#33"], "tipo": "exegesis"}
+        {
+          "texto": "Pedro escribe como pastor: en primera persona, rogando. «Amados», dice Kistemaker, recuerda que son amados por Dios y que ese amor trae una obligación; McConnell nota que Pedro usa la palabra cuando va a pedir algo difícil (cf. 1P 4:12).",
+          "fuentes": [
+            "kis1p_03_c#13",
+            "kis1p_03_c#12",
+            "cbmh1p_01_c#21"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Extranjeros y peregrinos» describe al que vive en país ajeno, sin los derechos del ciudadano, y al que está de paso. La expresión viene de Abraham en Canaán (Gn 23:4). Los cristianos viven poco tiempo en un mundo extraño, porque su ciudadanía está en el cielo (Fil 3:20).",
+          "fuentes": [
+            "kis1p_03_c#13",
+            "mac1p_04_b#32",
+            "ncb1p_01_a#33",
+            "cbmh1p_01_c#22"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Pedro no dice que se separen del mundo: pide abstenerse de los deseos pecaminosos y cuidar el alma, donde el deseo nace (Kistemaker). Hasta acá mostró el lado positivo de la santidad; ahora, el negativo: la abstinencia (Nuevo Comentario Bíblico).",
+          "fuentes": [
+            "kis1p_03_c#14",
+            "ncb1p_01_a#33"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 2:11",
       "titulo": "Los deseos que hacen la guerra contra el alma",
       "notas": [
-        {"texto": "¿Qué son los «deseos carnales»? Todos los comentaristas coinciden en que no son simplemente los deseos del cuerpo ni solo la inmoralidad sexual: el adjetivo tiene sentido ético, lo que sale de la naturaleza caída, y la lista de Gálatas 5:19-21 muestra su alcance. El mismo Pedro da ejemplos en 1P 4:3: desenfreno, borracheras, orgías, idolatrías. Nicholson (Beacon) aclara que ni el cuerpo ni la vida terrenal son malos en sí mismos, sino en cuanto chocan con la voluntad de Dios; McConnell dice algo parecido: los deseos humanos suelen ser necesarios, pero tienen que quedar bajo los frenos de Dios.", "fuentes": ["mac1p_04_b#33", "mbib1p_01_b#14", "ncb1p_01_a#33", "kis1p_03_c#14", "bea1p_01_b#12", "cbmh1p_01_c#22", "kis1p_03_c#18"], "tipo": "doctrina"},
-        {"texto": "El verbo «batallan» es fuerte. MacArthur explica que habla de una campaña militar de largo aliento, no de una molestia pasajera: una agresión implacable. El Comentario Moody lo compara con una expedición planeada contra un objetivo, como la fría insistencia de Dalila para destruir a Sansón. Y como ocurre adentro del creyente, MacArthur lo llama una guerra civil, la misma lucha que Pablo describe en Romanos 7. La Biblia MacArthur dice que estos deseos, como guerrilleros, buscan destruir el gozo, la paz y la utilidad del cristiano.", "fuentes": ["mac1p_04_b#34", "moodynt_01_b#1", "mbib1p_01_b#14"], "tipo": "exegesis"},
-        {"texto": "Kistemaker recuerda la cadena de Santiago 1:15: el deseo, si se lo deja avanzar, da a luz el pecado, y el pecado consumado, la muerte. Estos deseos dan satisfacción física por un rato, pero pelean una batalla decisiva contra el alma. Matthew Henry observa que aun el linaje escogido necesita ser exhortado a cuidarse de los peores pecados.", "fuentes": ["kis1p_03_c#14", "mhenry_01_a#23"], "tipo": "doctrina"},
-        {"texto": "¿Cómo se pelea? MacArthur responde con lo que el NT pone en otros lugares: andar en el Espíritu (Gá 5:16) y ejercer disciplina (1Co 9:27). Antes de conocer a Cristo todos vivían bajo esos deseos (Ef 2:1-3); ahora el pecado ya no es su amo, aunque la batalla sigue hasta que vean a Cristo y su cuerpo sea redimido (Ro 8:23). La batalla se gana o se pierde adentro.", "fuentes": ["mac1p_04_b#35", "mac1p_04_b#33"], "tipo": "aplicacion"}
+        {
+          "texto": "Los «deseos carnales» no son simplemente los del cuerpo ni solo los sexuales: el adjetivo tiene sentido ético, lo que sale de la naturaleza caída (Gá 5:19-21; 1P 4:3). Nicholson (Beacon) y McConnell aclaran que el cuerpo y los deseos no son malos en sí, sino cuando escapan de la voluntad de Dios.",
+          "fuentes": [
+            "mac1p_04_b#33",
+            "mbib1p_01_b#14",
+            "ncb1p_01_a#33",
+            "kis1p_03_c#14",
+            "bea1p_01_b#12",
+            "cbmh1p_01_c#22",
+            "kis1p_03_c#18"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«Batallan» es lenguaje militar: una campaña planeada y prolongada, no una molestia pasajera (MacArthur; Comentario Moody, que la compara con la fría insistencia de Dalila contra Sansón). Como ocurre adentro, MacArthur la llama una guerra civil, la de Romanos 7.",
+          "fuentes": [
+            "mac1p_04_b#34",
+            "moodynt_01_b#1",
+            "mbib1p_01_b#14"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Kistemaker recuerda Santiago 1:15: el deseo consentido da a luz el pecado, y el pecado, la muerte. Dan satisfacción por un rato, pero pelean una batalla decisiva contra el alma.",
+          "fuentes": [
+            "kis1p_03_c#14"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "¿Cómo se pelea? Andando en el Espíritu (Gá 5:16) y con disciplina (1Co 9:27), dice MacArthur. El pecado ya no es el amo del creyente, aunque la lucha sigue hasta que vea a Cristo (Ro 8:23).",
+          "fuentes": [
+            "mac1p_04_b#35",
+            "mac1p_04_b#33"
+          ],
+          "tipo": "aplicacion"
+        }
       ]
     },
     {
       "rango": "1P 2:12",
       "titulo": "Una vida buena a la vista de los que acusan",
       "notas": [
-        {"texto": "MacArthur ve en los vv. 11-12 las dos caras de una vida justa: la disciplina interior y privada (v. 11) y la conducta exterior y pública (v. 12). La palabra «buena» aparece dos veces (manera de vivir buena, buenas obras) y no es una bondad escondida: designa lo hermoso, noble, digno de alabanza a los ojos del vecino. Kistemaker lo dice con una imagen: los cristianos viven en casas de vidrio, en exhibición; los de afuera los miran para ver si viven lo que dicen creer.", "fuentes": ["mac1p_04_b#31", "mac1p_04_b#36", "mbib1p_01_b#15", "kis1p_03_c#15"], "tipo": "exegesis"},
-        {"texto": "Los lectores eran acusados «como de malhechores». El verbo significa calumniar (Kistemaker). Varios autores reúnen lo que se decía de los cristianos en el primer siglo: ateos, porque no adoraban a los dioses ni al emperador; caníbales, por rumores sobre la Cena del Señor (“esto es mi cuerpo”); inmorales, por su amor entre hermanos; subversivos, porque confesaban a Cristo como Señor por encima de César y se los acusaba de perjudicar el comercio. Kistemaker y la Biblia MacArthur recuerdan que Nerón culpó a los cristianos del incendio de Roma para sacarse de encima el rumor de que él lo había provocado (Kistemaker remite a Tácito y Suetonio).", "fuentes": ["kis1p_03_c#16", "mac1p_04_b#37", "mbib1p_01_b#15", "cbmh1p_01_c#23", "bea1p_01_b#12"], "tipo": "historia"},
-        {"texto": "La respuesta que Pedro propone no es una campaña de defensa sino una vida que desmienta la calumnia. Nicholson (Beacon) dice que una investigación honesta de esas vidas tendría que convencer a los detractores. MacArthur agrega que la mala conducta de los supuestos cristianos alimenta las acusaciones, mientras la rectitud de los verdaderos las acalla. McConnell cuenta que el filósofo pagano Celso, en el siglo II, escribió mucho contra los cristianos pero no les pudo atribuir ninguna inmoralidad.", "fuentes": ["bea1p_01_b#13", "mac1p_04_b#29", "cbmh1p_01_c#23"], "tipo": "aplicacion"},
-        {"texto": "El fin no es ganar la discusión sino que los acusadores «glorifiquen a Dios en el día de la visitación». Detrás está la enseñanza de Jesús que Pedro seguramente recordaba: que vean sus buenas obras y glorifiquen al Padre (Mt 5:16). Qué es exactamente ese día se discute (ver Interpretaciones), pero el verbo que Pedro usa para “considerar” las obras habla de mirar con atención, como un testigo: es la misma familia de palabras de 2P 1:16, donde Pedro se presenta como testigo ocular.", "fuentes": ["cbmh1p_01_c#24", "bea1p_01_b#13", "ncb1p_01_a#33", "kis1p_03_c#18"], "tipo": "exegesis"}
+        {
+          "texto": "MacArthur ve en los vv. 11-12 dos caras de la vida justa: disciplina interior (v. 11) y conducta pública (v. 12). «Buena» aparece dos veces y habla de una bondad hermosa y visible. Kistemaker lo resume: los cristianos viven en casas de vidrio; los de afuera miran si viven lo que creen.",
+          "fuentes": [
+            "mac1p_04_b#31",
+            "mac1p_04_b#36",
+            "mbib1p_01_b#15",
+            "kis1p_03_c#15"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Los acusaban «como de malhechores»: el verbo es calumniar. Los autores reúnen lo que se decía de ellos: ateos, por no adorar a los dioses ni al emperador; caníbales, por rumores sobre la Cena; subversivos, por confesar a Cristo como Señor por encima de César. Kistemaker y la Biblia MacArthur recuerdan que Nerón los culpó del incendio de Roma.",
+          "fuentes": [
+            "kis1p_03_c#16",
+            "mac1p_04_b#37",
+            "mbib1p_01_b#15",
+            "cbmh1p_01_c#23"
+          ],
+          "tipo": "historia"
+        },
+        {
+          "texto": "La respuesta no es una campaña de defensa sino una vida que desmienta la calumnia (Nicholson). MacArthur agrega que la mala conducta de supuestos cristianos alimenta las acusaciones. McConnell cuenta que Celso, crítico pagano del siglo II, no pudo atribuirles ninguna inmoralidad.",
+          "fuentes": [
+            "bea1p_01_b#13",
+            "mac1p_04_b#29",
+            "cbmh1p_01_c#23"
+          ],
+          "tipo": "aplicacion"
+        },
+        {
+          "texto": "La meta es que los acusadores «glorifiquen a Dios en el día de la visitación», eco de Mt 5:16. Qué es ese día se discute (ver Interpretaciones). El verbo para “considerar” las obras es mirar con atención, como testigo, de la familia de palabras de 2P 1:16 (Kistemaker).",
+          "fuentes": [
+            "cbmh1p_01_c#24",
+            "bea1p_01_b#13",
+            "ncb1p_01_a#33",
+            "kis1p_03_c#18"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     },
     {
       "rango": "1P 2:13-14",
       "titulo": "Someterse a toda institución humana, por causa del Señor",
       "notas": [
-        {"texto": "Kistemaker señala que la primera prueba concreta de la buena conducta es la actitud ante el gobierno. MacArthur ordena el pasaje en seis elementos: el mandato (someterse), el motivo (por causa del Señor), el alcance (rey y gobernadores), la razón (v. 15), la actitud (v. 16) y la aplicación (v. 17). Advierte también un riesgo: el que se sabe ciudadano del cielo puede volverse indiferente o despectivo hacia el mundo y perder oportunidades de testimonio.", "fuentes": ["kis1p_03_c#19", "mac1p_05_a#3"], "tipo": "estructura"},
-        {"texto": "El “toda institución humana” es, literalmente, “toda creación humana”. Kistemaker entiende que se refiere al acto por el cual se establece una autoridad, y nota que Pedro habla en general, sin preferir una forma de gobierno: reyes, presidentes o dictadores gobiernan bajo la mano de Dios (Pr 8:15; Dn 2:21). MacArthur subraya que la palabra en el NT siempre se liga a la obra creadora de Dios, y que Pedro piensa en las instituciones por su función: por eso el mismo verbo vuelve para los siervos (1P 2:18) y las esposas (1P 3:1). Nicholson y McConnell también incluyen el hogar y la familia en el alcance, aunque aquí el foco es el gobierno.", "fuentes": ["kis1p_03_c#21", "mac1p_05_a#12", "bea1p_01_b#14", "cbmh1p_01_c#25", "kis1p_03_c#20"], "tipo": "exegesis"},
-        {"texto": "«Por causa del Señor» es el motivo que lo cambia todo. No se obedece porque las autoridades ocupen el lugar de Dios, sino porque Dios es soberano en todas las áreas de la vida y las autoridades son delegadas. Kistemaker dice que el texto no permite decidir si “Señor” es Dios o Cristo, y se inclina por Dios, que es quien estableció las autoridades (Ro 13:1). Calvino, citado por él, observa que si los cristianos se hubieran negado a obedecer la ley romana habrían dado pruebas a quienes los acusaban de malhechores.", "fuentes": ["kis1p_03_c#21", "mac1p_05_a#8", "cbmh1p_02_a#1", "bea1p_01_b#14"], "tipo": "doctrina"},
-        {"texto": "Lo llamativo es quién era «el rey». Kistemaker, Nicholson y McConnell coinciden en que el emperador era Nerón, que subió al trono en el 54 d.C. a los 17 años. En el mundo de entonces se decía “rey” por emperador (Lc 23:2; Hch 17:7). Nerón no era digno del cargo, pero Pedro lo reconoce como autoridad suprema. El Nuevo Comentario Bíblico confiesa su sorpresa: escribiendo probablemente en tiempos de Nerón, Pedro todavía ve al Estado como ordenado por Dios para sostener valores morales. McConnell lo resume: se respeta el puesto aunque no sea digno quien lo ocupa.", "fuentes": ["kis1p_03_c#22", "bea1p_01_b#14", "cbmh1p_02_a#3", "ncb1p_01_a#34", "mac1p_05_a#14", "r1_006#24"], "tipo": "historia"},
-        {"texto": "Los «gobernadores» son un nivel inferior, enviados por el emperador. Kistemaker recuerda los que nombra el NT en Judea (Pilato, Félix, Festo) y otros procónsules (Sergio Paulo, Galión), y concluye que a Pedro no le interesa el rango sino la función: castigar a los malhechores y elogiar a los que hacen bien. Esa autoridad, como Jesús le dijo a Pilato, viene de arriba (Jn 19:11). MacArthur, siguiendo Romanos 13, resume el propósito del gobierno en refrenar el mal, castigarlo y proteger a quienes hacen el bien.", "fuentes": ["kis1p_03_c#23", "kis1p_03_c#24", "mac1p_05_a#11", "mac1p_05_a#16"], "tipo": "doctrina"},
-        {"texto": "¿Hasta dónde llega la obediencia? Todos los autores ponen el mismo límite, con las palabras del propio Pedro ante el Sanedrín: hay que obedecer a Dios antes que a los hombres (Hch 4:19; 5:29). Se cumple la ley del país mientras no obligue a desobedecer la ley de Dios; la Biblia MacArthur lo precisa: cuando se manda algo que las Escrituras prohíben explícitamente. McConnell añade que, en ese caso, hay que aceptar las consecuencias. Dentro de ese marco hay matices de énfasis (ver Interpretaciones).", "fuentes": ["kis1p_03_c#19", "moodynt_01_b#2", "mbib1p_01_b#18", "mac1p_05_a#5", "bea1p_01_b#14", "cbmh1p_01_c#23", "ncb1p_01_a#34"], "tipo": "doctrina"}
+        {
+          "texto": "Para Kistemaker, la primera prueba de la buena conducta es la actitud ante el gobierno. MacArthur advierte que el que se sabe ciudadano del cielo puede volverse despectivo hacia el mundo y perder oportunidades de testimonio.",
+          "fuentes": [
+            "kis1p_03_c#19",
+            "mac1p_05_a#3"
+          ],
+          "tipo": "estructura"
+        },
+        {
+          "texto": "«Toda institución humana» es, literalmente, “toda creación humana”: el acto que establece una autoridad. Pedro habla en general, sin preferir una forma de gobierno (Kistemaker). MacArthur nota que el mismo verbo vuelve para siervos (1P 2:18) y esposas (1P 3:1).",
+          "fuentes": [
+            "kis1p_03_c#21",
+            "mac1p_05_a#12",
+            "bea1p_01_b#14",
+            "cbmh1p_01_c#25",
+            "kis1p_03_c#20"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Por causa del Señor»: no porque las autoridades ocupen el lugar de Dios, sino porque son delegadas y Dios es soberano sobre todo. Kistemaker dice que no se puede decidir si “Señor” es Dios o Cristo, y se inclina por Dios (Ro 13:1).",
+          "fuentes": [
+            "kis1p_03_c#21",
+            "mac1p_05_a#8",
+            "cbmh1p_02_a#1"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "«El rey» era el emperador, y Kistemaker, Nicholson y McConnell coinciden en que era Nerón. No era digno del cargo, pero Pedro lo reconoce como autoridad; al Nuevo Comentario Bíblico le sorprende que aun así vea al Estado como ordenado por Dios. Se respeta el puesto aunque no lo merezca quien lo ocupa (McConnell; Wiersbe).",
+          "fuentes": [
+            "kis1p_03_c#22",
+            "bea1p_01_b#14",
+            "cbmh1p_02_a#3",
+            "ncb1p_01_a#34",
+            "mac1p_05_a#14",
+            "r1_006#24"
+          ],
+          "tipo": "historia"
+        },
+        {
+          "texto": "A Pedro no le interesa el rango de los «gobernadores» sino su función: castigar a los malhechores y elogiar a los que hacen bien (Kistemaker). Esa autoridad viene de arriba (Jn 19:11).",
+          "fuentes": [
+            "kis1p_03_c#23",
+            "kis1p_03_c#24",
+            "mac1p_05_a#11"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "El límite lo pone el mismo Pedro ante el Sanedrín: obedecer a Dios antes que a los hombres (Hch 4:19; 5:29). Se cumple la ley mientras no obligue a desobedecer a Dios; y entonces, dice McConnell, se aceptan las consecuencias (ver Interpretaciones).",
+          "fuentes": [
+            "kis1p_03_c#19",
+            "moodynt_01_b#2",
+            "mbib1p_01_b#18",
+            "mac1p_05_a#5",
+            "cbmh1p_01_c#23"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 2:15",
       "titulo": "Hacer callar a los necios haciendo el bien",
       "notas": [
-        {"texto": "Pedro da la razón: «esta es la voluntad de Dios». Kistemaker recuerda que Pedro vuelve a menudo a la voluntad de Dios (1P 3:17; 4:2, 19), en sintonía con el “hágase tu voluntad” del Padrenuestro. Y la voluntad es concreta: que, haciendo el bien, los creyentes amordacen a los que hablan sin saber. El verbo es el de poner bozal a un animal (1Ti 5:18) y, en sentido figurado, dejar a alguien sin palabras, como a los que quisieron atrapar a Jesús (Mt 22:34).", "fuentes": ["kis1p_03_c#25", "mac1p_05_a#17"], "tipo": "exegesis"},
-        {"texto": "La «ignorancia» de estos hombres no es inocente. Kistemaker y MacArthur coinciden en que la palabra no indica solo falta de datos, sino una mente cerrada a la verdad, una ignorancia culpable; por eso Pedro los llama insensatos. No se puede impedir que hablen, dice McConnell, pero sí dejarlos sin base. Y Matthew Henry agrega que cumplir con cuidado los deberes de cada relación es justamente el modo de silenciar las calumnias.", "fuentes": ["kis1p_03_c#26", "kis1p_03_c#27", "mac1p_05_a#18", "cbmh1p_01_c#25", "mhenry_01_a#24"], "tipo": "doctrina"},
-        {"texto": "El Comentario Moody trae un dato que ilustra la situación: unos cincuenta años después, Plinio, gobernador de Ponto y Bitinia (dos de las provincias de 1P 1:1), le escribió a Trajano sobre los crímenes que se atribuían al solo nombre de cristiano. Era un modo ignorante e injusto de tratar a un grupo como criminal; la mejor defensa seguía siendo una vida buena.", "fuentes": ["moodynt_01_b#3"], "tipo": "historia"}
+        {
+          "texto": "La razón: «esta es la voluntad de Dios», tema que Pedro repite (1P 3:17; 4:2, 19). Y es concreta: haciendo el bien, amordazar a los que hablan sin saber; el verbo es el de poner bozal (1Ti 5:18).",
+          "fuentes": [
+            "kis1p_03_c#25",
+            "mac1p_05_a#17"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "Esa «ignorancia» no es inocente: es una mente cerrada a la verdad, ignorancia culpable (Kistemaker; MacArthur). No se puede impedir que hablen, dice McConnell, pero sí dejarlos sin base.",
+          "fuentes": [
+            "kis1p_03_c#26",
+            "mac1p_05_a#18",
+            "cbmh1p_01_c#25"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "El Comentario Moody recuerda que, hacia el 112, Plinio, gobernador de Ponto y Bitinia (provincias de 1P 1:1), informaba a Trajano de crímenes atribuidos al solo nombre de cristiano.",
+          "fuentes": [
+            "moodynt_01_b#3"
+          ],
+          "tipo": "historia"
+        }
       ]
     },
     {
       "rango": "1P 2:16",
       "titulo": "Libres, pero como siervos de Dios",
       "notas": [
-        {"texto": "Kistemaker observa que Pedro, hablándoles a perseguidos que ansiaban la libertad, les dice en efecto: ustedes ya son libres. El cristiano fue liberado del poder del pecado (Jn 8:36; Gá 5:1). MacArthur enumera de qué: de la condenación, de la maldición de la ley, de la esclavitud a Satanás, del dominio del mundo y del poder de la muerte, por la obra de Cristo (1P 1:18-19).", "fuentes": ["kis1p_04_a#1", "mac1p_05_a#20"], "tipo": "doctrina"},
-        {"texto": "Pero hay un uso torcido de la libertad: usarla de «pretexto para hacer lo malo». La palabra sugiere una máscara o un velo que tapa la maldad (MacArthur; Biblia MacArthur); Henry habla de un manto para cubrir el mal o el descuido del deber. Nicholson ve aquí una advertencia contra la idea de que la libertad cristiana permite hacer cualquier cosa, el error que combatirán 2P 2:18-19 y Jd 4. Kistemaker cita a Calvino: la verdadera libertad no perjudica a nadie; en cuanto uno la usa para su propia causa, ya dejó de servir.", "fuentes": ["mac1p_05_a#21", "mbib1p_01_b#20", "mhenry_01_a#24", "bea1p_01_b#14", "kis1p_04_a#3", "dbmh_01_b#27"], "tipo": "doctrina"},
-        {"texto": "La salida no es menos libertad sino un dueño distinto: «como siervos de Dios». En griego, siervo es esclavo, el escalón más bajo de la sociedad de entonces; pero aplicado a Dios describe la libertad más alegre (MacArthur; Kistemaker). Pablo lo dice con una paradoja: el que fue llamado siendo libre es esclavo de Cristo (1Co 7:22). McConnell lo pone así: siempre vamos a servir a alguien o a algo; la decisión es a quién. Y el Comentario Moody: el hombre totalmente sometido a Dios es el verdaderamente libre.", "fuentes": ["kis1p_04_a#4", "mac1p_05_a#22", "cbmh1p_02_a#2", "moodynt_01_b#4"], "tipo": "doctrina"}
+        {
+          "texto": "A perseguidos que ansiaban libertad, Pedro les dice: ya son libres (Kistemaker). Cristo los liberó de la condenación, de la maldición de la ley y del poder de la muerte (MacArthur).",
+          "fuentes": [
+            "kis1p_04_a#1",
+            "mac1p_05_a#20"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "Pero la libertad puede usarse de «pretexto para hacer lo malo»: una máscara que tapa la maldad (MacArthur). Nicholson ve aquí el error que combatirán 2P 2:18-19 y Jd 4. Calvino, citado por Kistemaker: la verdadera libertad no perjudica a nadie.",
+          "fuentes": [
+            "mac1p_05_a#21",
+            "mbib1p_01_b#20",
+            "bea1p_01_b#14",
+            "kis1p_04_a#3",
+            "dbmh_01_b#27"
+          ],
+          "tipo": "doctrina"
+        },
+        {
+          "texto": "La salida es un dueño distinto: «como siervos de Dios». Siervo es esclavo, el escalón más bajo; pero ante Dios es la libertad más alegre (1Co 7:22). McConnell: siempre servimos a alguien; la decisión es a quién.",
+          "fuentes": [
+            "kis1p_04_a#4",
+            "mac1p_05_a#22",
+            "cbmh1p_02_a#2",
+            "moodynt_01_b#4"
+          ],
+          "tipo": "doctrina"
+        }
       ]
     },
     {
       "rango": "1P 2:17",
       "titulo": "Cuatro mandatos en una línea",
       "notas": [
-        {"texto": "Pedro cierra con cuatro órdenes breves. «Honrad a todos»: dar a cada persona la estima que le corresponde por haber sido creada a imagen de Dios (Nicholson, MacArthur). La palabra está emparentada con “precioso” (Moody). En un mundo donde los esclavos no contaban como personas, eso era revolucionario; MacArthur aclara que no significa borrar niveles de autoridad ni aprobar cualquier conducta.", "fuentes": ["bea1p_01_b#15", "mac1p_05_a#23", "moodynt_01_b#5", "ncb1p_01_a#34"], "tipo": "exegesis"},
-        {"texto": "«Amad a los hermanos» dice literalmente “amen a la hermandad”: la comunidad de creyentes (McConnell; Biblia MacArthur, que remite a 1P 1:22). Nicholson marca la diferencia: con los de afuera rigen reglas de conducta; dentro de la iglesia se trata de actitudes y afectos. El amor que Pedro pide es el ágape que Dios da; el Comentario Moody recuerda que es la palabra con que Jesús le preguntó a Pedro si lo amaba (Jn 21:15-16).", "fuentes": ["cbmh1p_02_a#3", "mbib1p_01_b#21", "bea1p_01_b#15", "moodynt_01_b#5"], "tipo": "exegesis"},
-        {"texto": "«Temed a Dios» es más reverencia que miedo (McConnell): un temor tal que lo peor sería desagradarle (Nicholson), que incluye confiar en Él y adorarlo como único soberano (MacArthur). «Honrad al rey» vuelve al punto de partida del v. 13. Los dos últimos mandatos recuerdan Proverbios 24:21, pero el Nuevo Comentario Bíblico y Kistemaker notan algo fino: Pedro no usa el mismo verbo para Dios y para el emperador. A Dios se lo teme; al rey se lo honra, igual que a todos. Cuando hay conflicto, dice Nicholson, el derecho de Dios está por encima de cualquier autoridad humana.", "fuentes": ["cbmh1p_02_a#3", "bea1p_01_b#15", "mac1p_05_a#25", "ncb1p_01_a#34", "kis1p_04_a#6"], "tipo": "exegesis"}
+        {
+          "texto": "«Honrad a todos»: estimar a cada persona como creada a imagen de Dios (Nicholson; MacArthur), en un mundo donde los esclavos no contaban como personas.",
+          "fuentes": [
+            "bea1p_01_b#15",
+            "mac1p_05_a#23"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Amad a los hermanos» es, literalmente, amar a la hermandad, la comunidad de creyentes (McConnell; Biblia MacArthur). El Comentario Moody nota que es el ágape por el que Jesús le preguntó a Pedro (Jn 21:15-16).",
+          "fuentes": [
+            "cbmh1p_02_a#3",
+            "mbib1p_01_b#21",
+            "bea1p_01_b#15",
+            "moodynt_01_b#5"
+          ],
+          "tipo": "exegesis"
+        },
+        {
+          "texto": "«Temed a Dios» es reverencia más que miedo (McConnell). Los dos últimos mandatos recuerdan Pr 24:21, pero Pedro no usa el mismo verbo: a Dios se lo teme; al rey se lo honra, como a todos (Nuevo Comentario Bíblico; Kistemaker).",
+          "fuentes": [
+            "cbmh1p_02_a#3",
+            "ncb1p_01_a#34",
+            "kis1p_04_a#6"
+          ],
+          "tipo": "exegesis"
+        }
       ]
     }
   ],
   "palabras": [
-    {"ref": "1P 2:11", "griego": "παρακαλῶ", "translit": "parakaló", "significado": "Os ruego, exhorto. McConnell explica que el verbo significa “llamar al lado”: ponerse junto a otro para ayudarlo, animarlo o defenderlo. De la misma raíz viene Paráclito, el nombre que Jesús da al Espíritu (Jn 14:16) y que Juan aplica a Cristo (1J 2:1).", "fuentes": ["cbmh1p_01_c#21"]},
-    {"ref": "1P 2:11", "griego": "παροίκους", "translit": "paroíkous", "significado": "Extranjeros. Literalmente “al lado de la casa”: el que vive en una nación ajena. Su compañera, παρεπιδήμους, es el visitante de paso.", "fuentes": ["mac1p_04_b#32", "kis1p_03_c#18"]},
-    {"ref": "1P 2:11", "griego": "σαρκικῶν", "translit": "sarkikón", "significado": "Carnales. Kistemaker explica que esta terminación da un sentido ético (vivir según la carne), distinto de σάρκινος, “hecho de carne”. Por eso no se trata del cuerpo en sí sino de la naturaleza caída.", "fuentes": ["kis1p_03_c#18"]},
-    {"ref": "1P 2:12", "griego": "καλήν", "translit": "kalén", "significado": "Buena, hermosa: una bondad visible, noble y atrayente. Kistemaker nota que en el griego la palabra queda separada y recibe énfasis.", "fuentes": ["mac1p_04_b#36", "kis1p_03_c#18"]},
-    {"ref": "1P 2:13", "griego": "ὑποτάγητε", "translit": "hypotágete", "significado": "Sométanse. MacArthur lo describe como término militar: ponerse en formación bajo el comandante. Kistemaker: colocar debajo, sin perder dignidad; es palabra clave de la carta (1P 2:18; 3:1, 5, 22; 5:5).", "fuentes": ["mac1p_05_a#5", "mbib1p_01_b#17", "kis1p_03_c#20"]},
-    {"ref": "1P 2:15", "griego": "φιμοῦν", "translit": "phimoún", "significado": "Hacer callar, amordazar: poner bozal, dejar sin respuesta.", "fuentes": ["mac1p_05_a#17", "kis1p_03_c#25", "kis1p_03_c#27"]},
-    {"ref": "1P 2:15", "griego": "ἀγνωσίαν", "translit": "agnosían", "significado": "Ignorancia, pero no simple falta de datos: una falta de percepción espiritual que se cierra a la verdad.", "fuentes": ["mac1p_05_a#18", "kis1p_03_c#27"]},
-    {"ref": "1P 2:17", "griego": "τιμήσατε", "translit": "timésate", "significado": "Honren. Kistemaker nota que este primer verbo va en aoristo, mientras los otros tres (ἀγαπᾶτε, φοβεῖσθε, τιμᾶτε) van en presente, que marca continuidad: sigan amando, sigan temiendo, sigan honrando.", "fuentes": ["kis1p_04_a#8", "kis1p_04_a#6"]}
+    {
+      "ref": "1P 2:11",
+      "griego": "παρακαλῶ",
+      "translit": "parakaló",
+      "significado": "Ruego, exhorto; literalmente “llamar al lado” para ayudar o animar. De la misma raíz viene Paráclito (Jn 14:16; 1J 2:1).",
+      "fuentes": [
+        "cbmh1p_01_c#21"
+      ]
+    },
+    {
+      "ref": "1P 2:11",
+      "griego": "παροίκους",
+      "translit": "paroíkous",
+      "significado": "Extranjeros: literalmente “al lado de la casa”, el que vive en nación ajena.",
+      "fuentes": [
+        "mac1p_04_b#32",
+        "kis1p_03_c#18"
+      ]
+    },
+    {
+      "ref": "1P 2:12",
+      "griego": "καλήν",
+      "translit": "kalén",
+      "significado": "Buena, hermosa: bondad visible y atrayente; en griego recibe énfasis.",
+      "fuentes": [
+        "mac1p_04_b#36",
+        "kis1p_03_c#18"
+      ]
+    },
+    {
+      "ref": "1P 2:13",
+      "griego": "ὑποτάγητε",
+      "translit": "hypotágete",
+      "significado": "Sométanse. Término militar: ponerse en formación bajo el comandante (MacArthur); palabra clave de la carta (1P 2:18; 3:1; 5:5).",
+      "fuentes": [
+        "mac1p_05_a#5",
+        "mbib1p_01_b#17",
+        "kis1p_03_c#20"
+      ]
+    },
+    {
+      "ref": "1P 2:15",
+      "griego": "φιμοῦν",
+      "translit": "phimoún",
+      "significado": "Hacer callar, amordazar, dejar sin respuesta.",
+      "fuentes": [
+        "mac1p_05_a#17",
+        "kis1p_03_c#25",
+        "kis1p_03_c#27"
+      ]
+    },
+    {
+      "ref": "1P 2:17",
+      "griego": "τιμήσατε",
+      "translit": "timésate",
+      "significado": "Honren, en aoristo; los otros tres verbos del v. 17 van en presente: sigan amando, temiendo, honrando (Kistemaker).",
+      "fuentes": [
+        "kis1p_04_a#8",
+        "kis1p_04_a#6"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "MacArthur señala que el creyente se somete también para imitar a Cristo, como Pedro dirá enseguida (1P 2:23): Jesús vivió bajo autoridades judías y romanas injustas sin intentar derrocarlas, denunció el pecado de los líderes pero no encabezó revueltas, y no se resistió cuando lo crucificaron injustamente. Se dedicó a los asuntos de su reino.", "refs": ["1P 2:23", "Jn 19:8-11", "Mr 15:3-5"], "fuentes": ["mac1p_05_a#9"]},
-    {"texto": "«Por causa del Señor» recuerda el ejemplo y la enseñanza de Jesús: dar a César lo que es de César, y a Dios lo que es de Dios (Mt 22:21). Y cuando Pedro sacó la espada en el huerto, el Señor le enseñó que la espada no le corresponde al discípulo (Mt 26:52).", "refs": ["Mt 22:21", "Mt 26:52"], "fuentes": ["ncb1p_01_a#34", "mac1p_05_a#15"]},
-    {"texto": "La libertad de la que habla Pedro es la que Cristo da: el Hijo hace verdaderamente libres (Jn 8:36), y ese rescate se pagó con su sangre preciosa (1P 1:18-19).", "refs": ["Jn 8:36", "1P 1:18-19"], "fuentes": ["kis1p_04_a#1", "mac1p_05_a#20"]}
+    {
+      "texto": "MacArthur señala que el creyente se somete también para imitar a Cristo (1P 2:23): Jesús vivió bajo autoridades injustas sin intentar derrocarlas y no se resistió cuando lo crucificaron injustamente.",
+      "refs": [
+        "1P 2:23",
+        "Jn 19:8-11"
+      ],
+      "fuentes": [
+        "mac1p_05_a#9"
+      ]
+    },
+    {
+      "texto": "«Por causa del Señor» recuerda su enseñanza: dar a César lo que es de César, y a Dios lo que es de Dios (Mt 22:21).",
+      "refs": [
+        "Mt 22:21"
+      ],
+      "fuentes": [
+        "ncb1p_01_a#34"
+      ]
+    },
+    {
+      "texto": "La libertad del v. 16 es la que Cristo compró con su sangre preciosa (1P 1:18-19).",
+      "refs": [
+        "1P 1:18-19"
+      ],
+      "fuentes": [
+        "mac1p_05_a#20"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "«El día de la visitación» (v. 12)",
       "posturas": [
-        {"postura": "Una visitación de gracia: el día en que Dios visita con salvación a algunos de los que acusaban; al recordar las buenas obras de los creyentes, creen y glorifican a Dios. Kistemaker la considera la mejor lectura, porque solo así tiene sentido que glorifiquen a Dios. MacArthur y la Biblia MacArthur la sostienen y añaden que quienes no crean conocerán la visitación del juicio. Henry y Nicholson (el día en que el Espíritu obra en ellos) van en la misma dirección.", "quien": "Kistemaker (reformado); MacArthur y la Biblia MacArthur; Matthew Henry; Nicholson (Comentario Beacon)", "fuentes": ["kis1p_03_c#17", "mac1p_05_a#1", "mbib1p_01_b#16", "mhenry_01_a#23", "bea1p_01_b#13"]},
-        {"postura": "El día del juicio final, cuando Dios visite la tierra y examine los corazones. McConnell la entiende de modo amplio, como la “inspección” en que Dios da premios o castigos, en el tiempo o al final, y recuerda que en el AT la palabra a veces se traduce “castigo”.", "quien": "Nuevo Comentario Bíblico; McConnell (Mundo Hispano)", "fuentes": ["ncb1p_01_a#33", "cbmh1p_01_c#24"]},
-        {"postura": "Kistemaker menciona también una tercera lectura, sin atribuirla: un juicio ante magistrados terrenales. El Comentario Moody propone traducir “día de observación”, de inspección especial.", "quien": "Mencionada por Kistemaker; Comentario Moody (traducción)", "fuentes": ["kis1p_03_c#17", "moodynt_01_b#1"]}
+        {
+          "postura": "Visitación de gracia: Dios visita con salvación a algunos acusadores, que recuerdan las buenas obras y glorifican a Dios. Kistemaker la prefiere porque solo así tiene sentido que glorifiquen; la Biblia MacArthur agrega que quienes no crean conocerán la visitación del juicio.",
+          "quien": "Kistemaker (reformado); MacArthur y la Biblia MacArthur; Matthew Henry; Nicholson (Comentario Beacon)",
+          "fuentes": [
+            "kis1p_03_c#17",
+            "mac1p_05_a#1",
+            "mbib1p_01_b#16",
+            "mhenry_01_a#23",
+            "bea1p_01_b#13"
+          ]
+        },
+        {
+          "postura": "El día del juicio final, cuando Dios examine los corazones; McConnell lo entiende como la “inspección” en que Dios da premios o castigos.",
+          "quien": "Nuevo Comentario Bíblico; McConnell (Mundo Hispano)",
+          "fuentes": [
+            "ncb1p_01_a#33",
+            "cbmh1p_01_c#24"
+          ]
+        },
+        {
+          "postura": "Un juicio ante magistrados terrenales (mencionada por Kistemaker, sin atribuirla). El Comentario Moody traduce “día de observación”.",
+          "quien": "Mencionada por Kistemaker; Comentario Moody (traducción)",
+          "fuentes": [
+            "kis1p_03_c#17",
+            "moodynt_01_b#1"
+          ]
+        }
       ],
-      "nota": "Todos coinciden en que la expresión viene del AT, donde Dios visita a pueblos para bendición o para juicio (Is 10:3), y en que la vida buena del creyente puede ser usada por Dios para que otros lo glorifiquen. MacArthur nota que Israel rechazó la visitación de salvación en Cristo y se volvió juicio (Lc 19:44)."
+      "nota": "Todos coinciden en que la expresión viene del AT (Is 10:3) y en que Dios puede usar la vida buena del creyente para que otros lo glorifiquen."
     },
     {
       "tema": "Los límites de la sumisión al gobierno",
       "posturas": [
-        {"postura": "La Biblia no avala insurrecciones, revoluciones ni desobediencia civil en nombre del cristianismo; aun los gobiernos crueles son mejores que la anarquía, y Dios se reserva el juicio de las autoridades injustas. La única excepción es negarse a hacer lo que Dios prohíbe o a dejar de hacer lo que Él manda.", "quien": "MacArthur y la Biblia MacArthur", "fuentes": ["mac1p_05_a#7", "mac1p_05_a#13", "mac1p_05_a#5", "mbib1p_01_b#18"]},
-        {"postura": "Es una regla general con excepciones cuando las órdenes chocan con la conciencia iluminada por el Espíritu (Hch 4:19-20; 5:29). McConnell añade que hoy el creyente, más ciudadano que súbdito, tiene mayor responsabilidad de ayudar a conducir bien la nación; Kistemaker, citando a Hendriksen, anima a colaborar en todo nivel de gobierno como José y Daniel.", "quien": "Nicholson (Comentario Beacon); McConnell (Mundo Hispano); Kistemaker", "fuentes": ["bea1p_01_b#14", "cbmh1p_01_c#25", "kis1p_04_a#7"]}
+        {
+          "postura": "La Biblia no avala revoluciones ni desobediencia civil en nombre del cristianismo; aun un gobierno cruel es mejor que la anarquía, y Dios se reserva juzgar a las autoridades injustas. Solo se desobedece una orden contraria a Dios.",
+          "quien": "MacArthur y la Biblia MacArthur",
+          "fuentes": [
+            "mac1p_05_a#7",
+            "mac1p_05_a#13",
+            "mac1p_05_a#5",
+            "mbib1p_01_b#18"
+          ]
+        },
+        {
+          "postura": "Regla general con excepciones cuando la orden choca con la conciencia iluminada por el Espíritu; McConnell y Kistemaker (citando a Hendriksen) animan además a participar en la vida pública, como José y Daniel.",
+          "quien": "Nicholson (Comentario Beacon); McConnell (Mundo Hispano); Kistemaker",
+          "fuentes": [
+            "bea1p_01_b#14",
+            "cbmh1p_01_c#25",
+            "kis1p_04_a#7"
+          ]
+        }
       ],
-      "nota": "No es un desacuerdo de fondo: todos afirman la sumisión como norma, por causa del Señor, y el límite de Hch 4:19. Difieren en el énfasis sobre la participación activa del creyente en la vida pública."
-    },
-    {
-      "tema": "Cómo se ordenan los cuatro mandatos del v. 17",
-      "posturas": [
-        {"postura": "“Honrad a todos” encabeza y las otras tres cláusulas lo desarrollan.", "quien": "Algunas traducciones inglesas (NEB, NIV), según Kistemaker", "fuentes": ["kis1p_04_a#6"]},
-        {"postura": "Dos pares: uno general (honrar a todos, amar a la hermandad) y otro específico (temer a Dios, honrar al rey, eco de Pr 24:21). Kistemaker objeta la primera lectura porque las tres cláusulas no son equilibradas y temer a Dios pesa más que las otras dos. McConnell también habla de dos imperativos generales y dos específicos.", "quien": "Kistemaker; McConnell (Mundo Hispano)", "fuentes": ["kis1p_04_a#6", "cbmh1p_02_a#3"]}
-      ],
-      "nota": "La discusión es de estructura; el contenido de los cuatro mandatos no cambia."
+      "nota": "Todos afirman la sumisión como norma y el límite de Hch 4:19; difieren en el énfasis."
     }
   ],
   "antiguo_testamento": [
-    {"ref": "Gn 23:4", "nota": "Abraham se presenta como extranjero y forastero entre los hititas: de allí viene la pareja «extranjeros y peregrinos» que Pedro aplica a la iglesia.", "fuentes": ["ncb1p_01_a#33", "kis1p_03_c#13"]},
-    {"ref": "Pr 24:21", "nota": "“Teme a Jehová y al rey”: Pedro lo recoge al final del v. 17, pero distingue: temor para Dios, honra para el rey.", "fuentes": ["ncb1p_01_a#34", "kis1p_04_a#6", "mac1p_05_a#6"]},
-    {"ref": "Is 10:3", "nota": "El día de la visitación como intervención de Dios sobre un pueblo, en ese caso para juicio; trasfondo de la expresión del v. 12.", "fuentes": ["mac1p_04_b#38", "mbib1p_01_b#16", "cbmh1p_01_c#24"]},
-    {"ref": "Jer 29:4-14", "nota": "La carta de Jeremías a los cautivos: edificar casas y procurar la paz de la ciudad. MacArthur ve allí un modelo para los peregrinos cristianos, que buscan el bien de la sociedad mientras esperan su hogar eterno.", "fuentes": ["mac1p_05_a#6"]}
+    {
+      "ref": "Gn 23:4",
+      "nota": "Abraham, extranjero entre los hititas: origen de la pareja «extranjeros y peregrinos».",
+      "fuentes": [
+        "ncb1p_01_a#33"
+      ]
+    },
+    {
+      "ref": "Pr 24:21",
+      "nota": "Temer a Jehová y al rey: Pedro lo recoge en el v. 17, distinguiendo temor para Dios y honra para el rey.",
+      "fuentes": [
+        "ncb1p_01_a#34",
+        "kis1p_04_a#6"
+      ]
+    },
+    {
+      "ref": "Jer 29:4-14",
+      "nota": "Los cautivos debían procurar la paz de la ciudad: para MacArthur, modelo de los peregrinos que buscan el bien de la sociedad.",
+      "fuentes": [
+        "mac1p_05_a#6"
+      ]
+    }
   ],
   "biblioteca": [
-    {"texto": "Wiersbe advierte que uno podría pensar que, por ser peregrinos, no tenemos deberes hacia el gobierno; Pedro dice lo contrario: tenemos una obligación aún mayor de obedecer las leyes. Aunque no se respete a la persona que gobierna, se respeta el oficio.", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "pagina": "PDF 456", "tipo": "aplicacion", "fuentes": ["r1_006#24"]},
-    {"texto": "John Owen pone entre los deberes de la santidad huir de los deseos que combaten contra el alma, y describe cómo la carne se cansa pronto y busca excusas: primero se omite un deber, después otro, hasta abandonarlos todos. El verdadero creyente se humilla por su descuido y la gracia lo restaura; el hipócrita no se inquieta.", "autor": "John Owen", "obra": "Apostasía del evangelio", "pagina": "PDF 32", "tipo": "doctrina", "fuentes": ["r1_019#22"]},
-    {"texto": "MacArthur cuenta la historia de los misioneros Herb y Ruth Clingen, presos tres años por los japoneses en Filipinas. El comandante Konishi intentó matarlos de hambre; años después supieron que, antes de ser ejecutado por crímenes de guerra, Konishi profesó fe en Cristo, tocado por el testimonio de aquellos a quienes había perseguido.", "autor": "John MacArthur", "obra": "1 Pedro", "pagina": "PDF 102", "tipo": "ilustracion", "fuentes": ["mac1p_05_a#2"]},
-    {"texto": "MacArthur cita a Alexander MacLaren: el mundo saca sus ideas sobre Dios sobre todo de los que dicen pertenecer a su familia; los lee más de lo que lee la Biblia. Y a Robert Leighton: el que responde con espíritu manso y vida recta es como una roca que rompe las olas.", "autor": "John MacArthur", "obra": "1 Pedro", "pagina": "PDF 98-99", "tipo": "ilustracion", "fuentes": ["mac1p_04_b#30"]},
-    {"texto": "Kendrick usa 1P 2:13-17 como base para orar por los gobernantes: que se sometan a Dios y a su Palabra, que respeten a todas las personas sin distinción y que premien el bien y castiguen el mal.", "autor": "Stephen y Alex Kendrick", "obra": "El plan de batalla para la oración", "pagina": "PDF 210", "tipo": "aplicacion", "fuentes": ["r1_004#8"]}
+    {
+      "texto": "Owen describe cómo la carne se cansa y pone excusas: primero se omite un deber, después otro, hasta abandonarlos todos; el creyente se humilla y la gracia lo restaura.",
+      "autor": "John Owen",
+      "obra": "Apostasía del evangelio",
+      "pagina": "PDF 32",
+      "tipo": "doctrina",
+      "fuentes": [
+        "r1_019#22"
+      ]
+    },
+    {
+      "texto": "MacArthur cuenta que el comandante Konishi, que había maltratado a los misioneros Herb y Ruth Clingen en Filipinas, profesó fe en Cristo antes de ser ejecutado, tocado por el testimonio de aquellos a quienes persiguió.",
+      "autor": "John MacArthur",
+      "obra": "1 Pedro",
+      "pagina": "PDF 102",
+      "tipo": "ilustracion",
+      "fuentes": [
+        "mac1p_05_a#2"
+      ]
+    }
   ],
   "conexiones": [
-    {"ref": "Ro 13:1-7", "nota": "El texto paralelo de Pablo. Nicholson nota que Pablo habla del origen del Estado y Pedro de sus funciones; MacArthur recuerda que Pablo lo escribió casi una década antes, también bajo el Imperio Romano.", "fuentes": ["bea1p_01_b#14", "mac1p_05_a#7", "kis1p_03_c#19"]},
-    {"ref": "Mt 5:16", "nota": "Que vean sus buenas obras y glorifiquen al Padre: el eco más claro del v. 12.", "fuentes": ["cbmh1p_01_c#24", "bea1p_01_b#13", "ncb1p_01_a#33"]},
-    {"ref": "Hch 4:19-20", "nota": "El propio Pedro ante el Sanedrín: el límite de la sumisión cuando la autoridad manda contra Dios.", "fuentes": ["moodynt_01_b#2", "ncb1p_01_a#34"]},
-    {"ref": "Gá 5:13", "nota": "Pablo advierte lo mismo que Pedro en el v. 16: no usar la libertad como ocasión para la carne, sino para servir por amor.", "fuentes": ["cbmh1p_02_a#2", "dbmh_01_b#27"]},
-    {"ref": "Tit 3:1-2", "nota": "Sujetarse a gobernantes, estar dispuestos a toda buena obra, no difamar: la misma ética de ciudadano que pide Pedro.", "fuentes": ["mac1p_05_a#19", "kis1p_03_c#19"]},
-    {"ref": "Jn 13:34-35", "nota": "El mandamiento nuevo de amarse como Cristo amó, que está detrás del «Amad a los hermanos».", "fuentes": ["mac1p_05_a#24"]}
+    {
+      "ref": "Ro 13:1-7",
+      "nota": "El paralelo de Pablo: él habla del origen del Estado; Pedro, de sus funciones (Nicholson).",
+      "fuentes": [
+        "bea1p_01_b#14",
+        "kis1p_03_c#19"
+      ]
+    },
+    {
+      "ref": "Mt 5:16",
+      "nota": "Buenas obras que llevan a glorificar al Padre: el eco del v. 12.",
+      "fuentes": [
+        "cbmh1p_01_c#24",
+        "bea1p_01_b#13"
+      ]
+    },
+    {
+      "ref": "Gá 5:13",
+      "nota": "Libertad que no es ocasión para la carne sino para servir.",
+      "fuentes": [
+        "cbmh1p_02_a#2",
+        "dbmh_01_b#27"
+      ]
+    },
+    {
+      "ref": "Tit 3:1-2",
+      "nota": "Sujetarse a gobernantes y estar dispuestos a toda buena obra.",
+      "fuentes": [
+        "mac1p_05_a#19",
+        "kis1p_03_c#19"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "La batalla del v. 11 se pelea adentro y en lo privado. Ustedes pueden ayudarse como matrimonio: nombrar con honestidad qué deseos les están ganando terreno, orar juntos por eso y, como sugiere MacArthur, combinar la dependencia del Espíritu con disciplina concreta. Owen advierte que el descuido empieza por omitir un solo deber.", "fuentes": ["mac1p_04_b#35", "r1_019#22"]},
-    {"texto": "Si alguien habla mal de ustedes por su fe, Pedro no les pide que ganen la discusión sino que dejen sin base la acusación con una vida buena. Como dice McConnell, no pueden impedir que hablen, pero sí que tengan razón.", "fuentes": ["cbmh1p_01_c#25", "bea1p_01_b#13"]},
-    {"texto": "Respetar a las autoridades no depende de que sean dignas: Pedro lo pidió bajo Nerón. Eso se ve en cosas concretas: cumplir las leyes, hablar con respeto de quienes gobiernan aunque no los hayan votado, y orar por ellos. El límite es claro: obedecer a Dios antes que a los hombres.", "fuentes": ["kis1p_03_c#22", "cbmh1p_02_a#3", "kis1p_03_c#19", "r1_004#8"]},
-    {"texto": "La libertad en Cristo no es permiso para hacer lo que uno quiere. Una buena pregunta para revisar decisiones: ¿esto que hago “porque soy libre” perjudica a alguien o sirve a Dios? Calvino, citado por Kistemaker, decía que la verdadera libertad no daña a nadie.", "fuentes": ["kis1p_04_a#3", "mbib1p_01_b#20"]}
+    {
+      "texto": "La batalla del v. 11 se pelea en lo privado. Como matrimonio pueden nombrar con honestidad qué deseos les ganan terreno y orar juntos por eso.",
+      "fuentes": [
+        "mac1p_04_b#35",
+        "r1_019#22"
+      ]
+    },
+    {
+      "texto": "Si alguien habla mal de ustedes por su fe, no hace falta ganar la discusión: alcanza con dejar sin base la acusación.",
+      "fuentes": [
+        "cbmh1p_01_c#25"
+      ]
+    },
+    {
+      "texto": "Respetar a las autoridades no depende de que sean dignas: Pedro lo pidió bajo Nerón. Cumplir las leyes, hablar con respeto de quienes gobiernan y orar por ellos.",
+      "fuentes": [
+        "kis1p_03_c#22",
+        "cbmh1p_02_a#3",
+        "r1_004#8"
+      ]
+    }
   ],
   "para_conversar": [
     "¿En qué ámbitos de nuestra vida (trabajo, vecinos, familia) nos están mirando “en casas de vidrio”? ¿Qué ven?",
     "¿Qué deseos sentimos hoy que hacen la guerra contra el alma, y cómo podemos ayudarnos el uno al otro a abstenernos de ellos?",
     "¿Cómo hablamos de quienes nos gobiernan? ¿Qué cambiaría si honráramos a todos y oráramos por ellos “por causa del Señor”?"
   ],
-  "para_orar": "Señor, gracias porque somos tuyos y nuestra ciudadanía está en el cielo. Danos fuerza para no ceder a los deseos que pelean contra el alma, y una vida tan buena que quienes nos miran terminen glorificándote. Enseñanos a usar nuestra libertad para servirte, a honrar a todos, amar a los hermanos, temerte a vos y respetar a quienes gobiernan; y bendecí a nuestras autoridades para que hagan el bien.",
-  "visuales": ["dg-hogar", "mapa-provincias"],
-  "anexos": ["T6"],
+  "para_orar": "Señor, nuestra ciudadanía está en el cielo. Danos fuerza para no ceder a los deseos que pelean contra el alma y una vida tan buena que otros te glorifiquen. Enseñanos a usar la libertad para servirte, a honrar a todos, amar a los hermanos y temerte; y bendecí a nuestras autoridades.",
+  "visuales": [
+    "dg-hogar",
+    "mapa-provincias"
+  ],
+  "anexos": [
+    "T6"
+  ],
   "profundizar": [
-    {"titulo": "La verdadera guerra del cristiano", "texto": "MacArthur sostiene que Dios se complace cuando los de afuera asocian a los cristianos con virtud, justicia, amor y el evangelio, más que con protestas contra instituciones. Pablo entendía su lucha como espiritual: derribar argumentos y razonamientos contra Dios con la Palabra (2Co 10:3-5); Jesús dijo que su reino no es de este mundo (Jn 18:36). Cita además a Robert Culver: el gobierno civil es un instrumento, no un fin, y el Estado no es dueño de los ciudadanos ni de sus hijos, que pertenecen al Creador.", "fuentes": ["mac1p_05_a#10", "mac1p_05_a#8"]},
-    {"titulo": "Esteban, un modelo de sumisión", "texto": "MacArthur presenta a Esteban como ejemplo: acusado falsamente ante el concilio, respondió con un mensaje del evangelio y murió pidiendo perdón por sus verdugos. A juicio del autor, esa sumisión ante la injusticia contribuyó a la conversión de Saulo.", "fuentes": ["mac1p_05_a#4"]},
-    {"titulo": "El evangelio en el palacio", "texto": "Kistemaker recuerda que el evangelio llegó hasta la guardia del pretorio y la casa de César mientras Pablo estaba preso (Fil 1:13; 4:22), y que José y Daniel sirvieron en gobiernos paganos. Cita a Hendriksen: si la iglesia quiere influir para bien en el Estado, no debe recurrir a la separación sino a una presencia espiritual dentro de él.", "fuentes": ["kis1p_04_a#7"]},
-    {"titulo": "La espada le corresponde al gobierno", "texto": "MacArthur relaciona el “castigo de los malhechores” con la escena del huerto: cuando Pedro sacó la espada, Jesús le enseñó que la espada está reservada a la autoridad (Gn 9:5-6; Ro 13:4). Por eso el creyente nunca debe hacer justicia por mano propia.", "fuentes": ["mac1p_05_a#15"]}
+    {
+      "titulo": "La verdadera guerra del cristiano",
+      "texto": "MacArthur sostiene que Dios se complace cuando los de afuera asocian a los cristianos con virtud, justicia, amor y el evangelio, más que con protestas contra instituciones. Pablo entendía su lucha como espiritual: derribar argumentos y razonamientos contra Dios con la Palabra (2Co 10:3-5); Jesús dijo que su reino no es de este mundo (Jn 18:36). Cita además a Robert Culver: el gobierno civil es un instrumento, no un fin, y el Estado no es dueño de los ciudadanos ni de sus hijos, que pertenecen al Creador.",
+      "fuentes": [
+        "mac1p_05_a#10",
+        "mac1p_05_a#8"
+      ]
+    },
+    {
+      "titulo": "Esteban, un modelo de sumisión",
+      "texto": "MacArthur presenta a Esteban como ejemplo: acusado falsamente ante el concilio, respondió con un mensaje del evangelio y murió pidiendo perdón por sus verdugos. A juicio del autor, esa sumisión ante la injusticia contribuyó a la conversión de Saulo.",
+      "fuentes": [
+        "mac1p_05_a#4"
+      ]
+    },
+    {
+      "titulo": "El evangelio en el palacio",
+      "texto": "Kistemaker recuerda que el evangelio llegó hasta la guardia del pretorio y la casa de César mientras Pablo estaba preso (Fil 1:13; 4:22), y que José y Daniel sirvieron en gobiernos paganos. Cita a Hendriksen: si la iglesia quiere influir para bien en el Estado, no debe recurrir a la separación sino a una presencia espiritual dentro de él.",
+      "fuentes": [
+        "kis1p_04_a#7"
+      ]
+    },
+    {
+      "titulo": "La espada le corresponde al gobierno",
+      "texto": "MacArthur relaciona el “castigo de los malhechores” con la escena del huerto: cuando Pedro sacó la espada, Jesús le enseñó que la espada está reservada a la autoridad (Gn 9:5-6; Ro 13:4). Por eso el creyente nunca debe hacer justicia por mano propia.",
+      "fuentes": [
+        "mac1p_05_a#15"
+      ]
+    },
+    {
+      "titulo": "Cómo se ordenan los cuatro mandatos del v. 17",
+      "texto": "Algunas traducciones inglesas (NEB, NIV) toman “honrad a todos” como encabezado de las otras tres cláusulas. Kistemaker prefiere dos pares: uno general (honrar a todos, amar a la hermandad) y otro específico (temer a Dios, honrar al rey, eco de Pr 24:21), porque temer a Dios pesa más que las otras dos. McConnell también habla de dos imperativos generales y dos específicos.",
+      "fuentes": [
+        "kis1p_04_a#6",
+        "cbmh1p_02_a#3"
+      ]
+    },
+    {
+      "titulo": "Testimonios citados por MacArthur",
+      "texto": "MacArthur cita a Alexander MacLaren: el mundo saca sus ideas sobre Dios sobre todo de los que dicen pertenecer a su familia. Y a Robert Leighton: el que responde con espíritu manso y vida recta es como una roca que rompe las olas.",
+      "fuentes": [
+        "mac1p_04_b#30"
+      ]
+    }
   ]
 }

@@ -1,188 +1,613 @@
 {
-  "dia": 2,
-  "libro": "1P",
-  "desde": "1P 1:3",
-  "hasta": "1P 1:5",
-  "titulo": "Una esperanza viva y una herencia guardada",
-  "minutos": {"lectura": 2, "estudio": 25},
-  "contexto": {
-    "antes": "Ayer (1P 1:1-2) Pedro se presentó y saludó a cristianos dispersos y forasteros, recordándoles que, aunque el mundo los rechace, son elegidos por el Padre, apartados por el Espíritu y limpiados por la sangre de Jesucristo.",
-    "ahora": "Del saludo pasa directamente a la alabanza. Antes de hablar de pruebas, Pedro hace mirar hacia arriba: bendice a Dios por la riqueza que sus lectores ya tienen segura, a pesar de lo que están pasando. En el griego, los versículos 3 a 9 son una sola oración larguísima, como si el apóstol no pudiera parar de enumerar bendiciones.",
-    "despues": "Mañana (1P 1:6-9) Pedro saca la consecuencia: por esa esperanza y esa herencia, se puede tener gozo aun en medio de pruebas que duran un poco y que prueban la fe como el fuego prueba el oro.",
-    "fuentes": ["moodynt_01_a#16", "kis1p_02_a#1", "mac1p_01_a#38", "kis1p_01_c#24"]
-  },
-  "versiculo_clave": {
-    "ref": "1P 1:3",
-    "porque": "Concentra todo el tramo: quién nos salva (el Dios y Padre de nuestro Señor Jesucristo), por qué (su gran misericordia), cómo (nos hizo nacer de nuevo), para qué (una esperanza viva) y sobre qué base (la resurrección de Jesús). Es la clase de verdad que sostiene cuando todo lo demás tambalea."
-  },
-  "panorama": {
-    "texto": "Pedro escribe a gente que está perdiendo cosas: reputación, seguridad, quizás bienes. Y en vez de empezar consolándolos por lo que pierden, los hace bendecir a Dios por lo que tienen y nadie les puede quitar. MacArthur lo lee como un himno sobre la herencia del creyente, que muestra su origen (Dios Padre), su motivo (la gran misericordia), el modo de recibirla (el nuevo nacimiento), su naturaleza (incorruptible, incontaminada e inmarcesible) y su seguridad (reservada en el cielo para quienes son guardados por el poder de Dios). La resurrección de Jesús está en el centro: por ella la esperanza no es un deseo, sino una esperanza «viva».",
-    "fuentes": ["mac1p_01_a#38", "moodynt_01_a#16", "bea1p_01_a#16", "kis1p_02_a#8"]
-  },
-  "secciones": [
-    {
-      "rango": "1P 1:3a",
-      "titulo": "Bendito sea Dios: la alabanza como punto de partida",
-      "notas": [
-        {"texto": "La primera palabra de la oración es «Bendito». Es la fórmula con que Israel alababa a Dios: así cierran varios libros de los Salmos (Sal 41:13; 72:18; 89:52; 106:48) y así empieza Zacarías su cántico (Lc 1:68). En el Nuevo Testamento ese adjetivo se usa solo para Dios. McConnell recuerda que de la misma raíz viene nuestra palabra elogio: bendecir a Dios es hablar bien de él.", "fuentes": ["kis1p_02_a#2", "cbmh1p_01_b#8"], "tipo": "AT_en_NT"},
-        {"texto": "En el griego la frase no tiene verbo: dice literalmente «Bendito el Dios», sin el verbo sea. Kistemaker explica que por eso los traductores dudan entre suplir es, sea o nada. MacArthur saca de ahí una enseñanza: Pedro da por sentado que los creyentes bendicen a Dios; no lo propone como una opción, lo presupone.", "fuentes": ["kis1p_02_a#10", "mac1p_01_b#1"], "tipo": "exegesis"},
-        {"texto": "Llama la atención el momento. McConnell subraya que, con contratiempos por todos lados, Pedro igual encuentra motivo para una doxología. Y Alonso, siguiendo a Stibbs y Walls, observa que la verdad de este versículo solo puede expresarse plenamente en actitud de adoración: no es material para discutir, sino para cantar. El Comentario Beacon, citando a Barclay, lo dice desde otro ángulo: la mirada puesta en Dios es el secreto de la esperanza.", "fuentes": ["cbmh1p_01_b#8", "r1_015#17", "bea1p_01_a#16"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "1P 1:3a",
-      "titulo": "El Dios y Padre de nuestro Señor Jesucristo",
-      "notas": [
-        {"texto": "Los judíos bendecían a Dios como Creador y como el que sacó a Israel de Egipto. Los cristianos lo bendicen con un nombre nuevo: el Padre del Hijo encarnado, el que levantó a Jesús de los muertos. Kistemaker hace notar que es exactamente la misma fórmula de 2 Co 1:3 y Ef 1:3: los primeros cristianos judíos adaptaron las bendiciones de sus padres para incluir a Jesucristo.", "fuentes": ["r1_015#17", "mac1p_01_b#1", "kis1p_02_a#3"], "tipo": "contexto"},
-        {"texto": "Según MacArthur, en el Antiguo Testamento Dios muy rara vez es llamado Padre, y casi siempre del pueblo en conjunto (Dt 32:6; Is 63:16). Jesús, en cambio, lo llamó siempre Padre, salvo en el grito de la cruz (Mt 27:46). Por eso, en la frase «Dios y Padre» un solo artículo griego gobierna los dos nombres: son dos aspectos de la misma persona (Kistemaker, siguiendo a Robertson).", "fuentes": ["mac1p_01_b#1", "mbib1p_01_a#24", "kis1p_02_a#11"], "tipo": "exegesis"},
-        {"texto": "Y aquí está lo hermoso para nosotros: por Cristo, su Padre pasa a ser nuestro Padre y su Dios nuestro Dios (Jn 20:17). Kistemaker vincula esa paternidad con lo que sigue en el mismo versículo: Dios es nuestro Padre porque nos hizo nacer de nuevo. La Biblia de estudio MacArthur agrega que esa relación íntima con el Dios del universo es justamente lo que necesitan recordar los que sufren.", "fuentes": ["kis1p_02_a#3", "mbib1p_01_a#24"], "tipo": "doctrina"}
-      ]
-    },
-    {
-      "rango": "1P 1:3b",
-      "titulo": "Según su gran misericordia, nos hizo renacer",
-      "notas": [
-        {"texto": "El motivo de todo es la «grande misericordia» de Dios. MacArthur distingue misericordia y gracia: la gracia mira la culpa del pecador y lo lleva de la culpa a la absolución (un cambio de posición); la misericordia mira su condición miserable y lo lleva de la miseria a la gloria (un cambio de condición). Dios no nos salvó porque vio algo valioso en nosotros, sino porque vio lo lastimoso de nuestro estado y tuvo compasión (Ef 2:4-5; Tit 3:5). Kistemaker observa que la frase es casi idéntica a Ef 2:4-5, donde Dios, rico en misericordia, nos dio vida juntamente con Cristo.", "fuentes": ["mac1p_01_b#5", "mac1p_01_b#4", "mbib1p_01_a#25", "kis1p_02_a#5"], "tipo": "doctrina"},
-        {"texto": "Matthew Henry lo dice con calidez: la fuente de todo es la misericordia, una misericordia grande y múltiple. Y el Comentario Beacon (Nicholson) señala que esa misericordia es la fuente de la esperanza que viene después.", "fuentes": ["mhenry_01_a#3", "bea1p_01_a#18"], "tipo": "doctrina"},
-        {"texto": "«Nos hizo renacer» es el primer don. Pedro usa un verbo que solo aparece aquí y en 1:23, y en ningún otro lugar del Nuevo Testamento (ver Palabras). Varios autores ven en él un eco de lo que Jesús le dijo a Nicodemo sobre nacer de nuevo (Jn 3:3-8). McConnell y Palomino recuerdan que es la condición fundamental de la vida cristiana: Jesús la explica a Nicodemo, el padre del pródigo dice que su hijo estaba muerto y volvió a vivir (Lc 15:32), y Pablo habla de nueva creación (2 Co 5:17). Pedro pone el acento en la transformación espiritual y moral que produce.", "fuentes": ["r1_015#18", "cbmh1p_01_b#10", "kis1p_02_a#5"], "tipo": "doctrina"},
-        {"texto": "¿Quién hace la obra? El verbo tiene a Dios como sujeto: es él quien nos engendró. Kistemaker lo compara con el nacimiento natural: nadie colabora para nacer, y así Dios actúa en nuestro nuevo nacimiento. Grudem y MacArthur con Mayhue desarrollan esta idea (ver Interpretaciones).", "fuentes": ["kis1p_02_a#6", "r1_013#5", "r1_017#29"], "tipo": "doctrina"},
-        {"texto": "Un detalle tierno: Pedro dice nos, incluyéndose. Kistemaker señala que la carta casi siempre habla a los lectores como ustedes, y que este nosotros es de los pocos. Sugiere que Pedro recordaba su propia historia: el que negó a Jesús y fue restaurado sabía muy bien qué es la gran misericordia de Dios.", "fuentes": ["kis1p_02_a#6"], "tipo": "personaje"}
-      ]
-    },
-    {
-      "rango": "1P 1:3c",
-      "titulo": "Una esperanza viva, por la resurrección de Jesucristo",
-      "notas": [
-        {"texto": "Nacimos de nuevo «para una esperanza viva». Matthew Henry contrasta las dos esperanzas: la del mundo apunta a un bien incierto y está construida sobre arena; la de los hijos del Dios vivo es viva en su objeto y en su efecto, porque da vida, consuela en la angustia y empuja a obedecer. MacArthur agrega que el mundo incrédulo solo conoce esperanzas muertas (Ef 2:12), mientras el creyente tiene una esperanza que no se apaga (Ro 5:5; He 6:19).", "fuentes": ["mhenry_01_a#3", "mac1p_01_b#7"], "tipo": "doctrina"},
-        {"texto": "Kistemaker destaca que en este versículo la esperanza no es solo algo futuro que se espera: es algo personal, vivo y activo dentro de nosotros, que trae vida a quienes aguardan la revelación de Jesucristo. Cita a Hoffmann: tener esperanza es aguardar con disciplina. La Biblia de estudio MacArthur la define como un optimismo confiado y aclara que es una esperanza razonable, que se puede explicar (1P 3:15).", "fuentes": ["kis1p_02_a#7", "kis1p_01_c#24", "mbib1p_01_a#26"], "tipo": "doctrina"},
-        {"texto": "¿Por qué es viva? Porque está atada a alguien que vive. Wiersbe lo dice simple: el creyente tiene una esperanza viva porque tiene un Salvador que vive; no se puede separar la esperanza viva del Cristo vivo. Por eso, agrega, no es una esperanza ganada con esfuerzo, sino un derecho de nacimiento: renacimos para ella.", "fuentes": ["r1_006#12"], "tipo": "doctrina"},
-        {"texto": "La resurrección es la piedra fundamental. Sin ella, dice Kistemaker, el nuevo nacimiento sería imposible y la esperanza, vana. MacArthur remite a 1 Co 15: si Cristo no resucitó, la fe es inútil y seguimos en nuestros pecados (1 Co 15:17); pero resucitó, venció a la muerte y aseguró para siempre la esperanza del creyente (1 Co 15:20). El Comentario Beacon resume: la muerte de Cristo muestra su amor; su resurrección, su poder para salvar.", "fuentes": ["kis1p_02_a#8", "mac1p_01_b#8", "mac1p_02_a#1", "bea1p_01_a#16"], "tipo": "cristo"},
-        {"texto": "Pedro no habla de oídas. Kistemaker y el Comentario Beacon recuerdan que fue testigo de la resurrección: se encontró con el Resucitado y comió y bebió con él (Hch 10:41). Toda su predicación giró alrededor de esa verdad: pidió que el reemplazante de Judas fuera testigo de la resurrección (Hch 1:22) y la anunció en Pentecostés, en el templo y en casa de Cornelio (Hch 2:31; 3:15; 10:40).", "fuentes": ["kis1p_02_a#8", "kis1p_02_a#9", "bea1p_01_a#16"], "tipo": "historia"}
-      ]
-    },
-    {
-      "rango": "1P 1:4",
-      "titulo": "Una herencia que no se pierde, no se mancha y no se marchita",
-      "notas": [
-        {"texto": "El nuevo nacimiento nos hace hijos, y los hijos heredan (Nicholson; Ro 8:17). McConnell remarca qué es una herencia: algo que se recibe de otro, no algo que se gana con esfuerzo. Y es ya en parte nuestra, aunque espera su plenitud. Kistemaker hace notar algo curioso: normalmente una herencia supone la muerte de quien dejó el testamento (He 9:16-17), pero Pedro la pone en un contexto de vida, justo después de hablar de la resurrección y del nuevo nacimiento.", "fuentes": ["bea1p_01_a#18", "cbmh1p_01_b#9", "kis1p_02_a#13"], "tipo": "doctrina"},
-        {"texto": "Para describirla, Pedro solo encuentra palabras negativas: dice lo que esa herencia no es. Son tres adjetivos que en griego empiezan igual (con la a que niega, como nuestro in-) y forman una aliteración que la traducción conserva: incorruptible, incontaminada e inmarcesible (ver Palabras).", "fuentes": ["kis1p_02_a#15", "kis1p_02_a#16", "cbmh1p_01_b#9"], "tipo": "exegesis"},
-        {"texto": "Incorruptible: no se termina ni se destruye; según Henry, es una fortuna que no se gasta. La Biblia de estudio MacArthur agrega que en el griego secular el término se usaba para lo que no había sido tocado por un ejército invasor. Incontaminada: nada la mancha; Nicholson cita a Wesley, para quien tampoco puede ser disfrutada por un alma contaminada. Inmarcesible: no pierde su frescura; no es agradable a veces sino siempre igual (Henry).", "fuentes": ["mhenry_01_a#4", "mbib1p_01_a#27", "bea1p_01_a#18", "kis1p_02_a#15"], "tipo": "exegesis"},
-        {"texto": "Henry pinta el contraste con humor triste: las posesiones de aquí siempre tienen un defecto. Casas lindas con preocupaciones que revolotean bajo sus techos, camas blandas con cuerpos enfermos, mesas llenas con estómagos revueltos. Además se manchan de pecado al conseguirlas o al usarlas, y pasan como las flores del campo. Kistemaker suma que las herencias humanas suelen perder valor y generar celos y pleitos entre hermanos; esta, en cambio, es fuente constante de alegría y se disfrutará en armonía con todos los creyentes.", "fuentes": ["mhenry_01_a#5", "kis1p_02_a#21"], "tipo": "ilustracion"},
-        {"texto": "La herencia está «reservada en los cielos para vosotros». MacArthur explica que el verbo está en perfecto pasivo: la herencia ya existe y está siendo cuidadosamente vigilada, de modo que nadie la cambia ni la saquea. Kistemaker añade que ese pasivo deja ver a Dios como el que la guarda. McConnell lo resume: está en el lugar más seguro, y es personal, porque la acredita el que llama a sus ovejas por nombre (Jn 10:3). Jesús enseñó lo mismo al hablar de tesoros en el cielo, donde ni la polilla ni el ladrón llegan (Mt 6:19-21).", "fuentes": ["mac1p_02_a#7", "kis1p_02_a#17", "cbmh1p_01_b#9"], "tipo": "exegesis"},
-        {"texto": "Para los primeros lectores esto era muy concreto. El Comentario Moody piensa que habían renunciado a su parte en la herencia terrenal de Israel y que conocerían destierro y pérdida de bienes (He 10:34); una herencia segura en el cielo era consuelo y compensación. Nicholson lo dice así: la persecución no puede tocarla, y eso los animaba a mantenerse firmes.", "fuentes": ["moodynt_01_a#17", "bea1p_01_a#18"], "tipo": "contexto"}
-      ]
-    },
-    {
-      "rango": "1P 1:5",
-      "titulo": "Guardados por el poder de Dios mediante la fe",
-      "notas": [
-        {"texto": "No solo la herencia está custodiada; también los herederos. Kistemaker lo resume con una simetría: una herencia guardada para creyentes guardados para ella. El verbo «guardados» es un término militar: describe una guarnición que custodia una ciudad, y puede significar tanto proteger del peligro como impedir que alguien escape (2 Co 11:32). Pablo lo usa cuando dice que la paz de Dios guardará nuestros corazones (Fil 4:7). Además está en presente: es una custodia continua, de todos los días.", "fuentes": ["kis1p_02_a#18", "moodynt_01_a#18", "kis1p_02_a#25", "bea1p_01_a#18"], "tipo": "exegesis"},
-        {"texto": "McConnell ilustra con dos escenas bíblicas: Eliseo rodeado por los sirios, cuando su criado vio los montes llenos de carros de fuego (2 R 6:16-17), y Pedro mismo liberado de la cárcel por un ángel (Hch 12:5-7). El que escribe «guardados por el poder de Dios» había experimentado esa custodia en carne propia.", "fuentes": ["cbmh1p_01_b#9"], "tipo": "ilustracion"},
-        {"texto": "Dos cosas obran juntas: el poder de Dios y la fe. El Comentario Beacon las distingue así: el poder de Dios es la causa que preserva y la fe del hombre es el medio por el que se aplica. Kistemaker ve aquí la providencia de Dios y, a la vez, la responsabilidad humana: usamos la fe como escudo en la lucha contra el maligno (Ef 6:16). Cómo se relacionan ambas cosas y si esta seguridad tiene condiciones es un punto en que los autores difieren (ver Interpretaciones). Lo que todos afirman es que el creyente no queda solo: Dios mismo lo custodia.", "fuentes": ["bea1p_01_a#19", "kis1p_02_a#18", "mac1p_02_a#8"], "tipo": "doctrina"},
-        {"texto": "Wiersbe lo dice de modo directo: la seguridad del creyente no descansa en la firmeza de su propia fe, sino en la fidelidad de Dios.", "fuentes": ["r1_006#13"], "tipo": "aplicacion"}
-      ]
-    },
-    {
-      "rango": "1P 1:5",
-      "titulo": "La salvación lista para manifestarse en el tiempo postrero",
-      "notas": [
-        {"texto": "La custodia tiene una meta: «alcanzar la salvación». Aquí salvación no es solo lo que recibimos al creer, sino su plenitud futura. MacArthur muestra que el Nuevo Testamento habla de la salvación en tres tiempos: fuimos salvados del castigo del pecado (justificación), estamos siendo salvados de su poder (santificación) y seremos salvados de su presencia (glorificación). Wiersbe dice lo mismo con otras palabras, y el Diccionario Mundo Hispano recuerda que la salvación es a la vez realidad presente y esperanza futura (Ro 5:9).", "fuentes": ["mac1p_02_a#9", "r1_006#13", "dbmh_02_b#3"], "tipo": "doctrina"},
-        {"texto": "Esa salvación ya está «preparada». Kistemaker aclara que la palabra califica a la salvación: Cristo ya la dejó lista con su obra, y solo falta que se muestre. El Comentario Beacon (citando a Bennett) insiste en que no está en preparación ni corre riesgo de no realizarse. Para Kistemaker, en este versículo salvación es sinónimo de la herencia del versículo anterior.", "fuentes": ["kis1p_02_a#20", "bea1p_01_a#19", "kis1p_02_a#19"], "tipo": "exegesis"},
-        {"texto": "Se va a «manifestar», literalmente a quitarle el velo, y Jesús lo hará cuando regrese. Kistemaker hace notar que el aoristo apunta a una única ocasión y que Dios es quien la revela. El momento es el kairós de Dios, el tiempo que él señaló. McConnell remarca el contraste: el tiempo final que a muchos asusta es, para los que son de Cristo, el día de la salvación completa. Cómo encaja ese día en la secuencia de los últimos tiempos es un tema donde hay distintas escuelas (ver Interpretaciones).", "fuentes": ["kis1p_02_a#20", "kis1p_02_a#25", "cbmh1p_01_b#9", "moodynt_01_a#18"], "tipo": "escatologia"}
-      ]
-    }
-  ],
-  "palabras": [
-    {"ref": "1P 1:3", "griego": "εὐλογητός", "translit": "eulogētós", "significado": "Bendito, alabado; literalmente bien hablado. En el Nuevo Testamento se dice solo de Dios. De la misma familia viene nuestra palabra elogio. Aquí va sin verbo: «Bendito el Dios».", "fuentes": ["cbmh1p_01_b#8", "kis1p_02_a#10"]},
-    {"ref": "1P 1:3", "griego": "ἀναγεννήσας", "translit": "anagennḗsas", "significado": "Habiendo engendrado de nuevo (de ἀναγεννάω). El verbo aparece solo dos veces en todo el Nuevo Testamento, ambas en Pedro: en activa aquí (Dios nos engendró de nuevo) y en pasiva en 1:23 (fuimos renacidos). Según Stibbs y Walls tampoco está en la Septuaginta. Lacueva señala que el otro verbo de nacer, tíktein, nunca se usa en el Nuevo Testamento en sentido espiritual. Alonso ve en el término dos aspectos: un cambio decisivo de situación por la obra de Cristo y una participación real en una vida nueva dada por Dios.", "fuentes": ["kis1p_02_a#11", "r1_014_b#1", "r1_015#18"]},
-    {"ref": "1P 1:4", "griego": "κληρονομίαν", "translit": "klēronomían", "significado": "Herencia: lo que se recibe por pertenecer a una familia. Es la palabra que la Septuaginta usa para las porciones de Canaán repartidas entre las tribus. Kistemaker la explica como suma de «suerte o porción» y «poseer».", "fuentes": ["mac1p_02_a#2", "kis1p_02_a#16"]},
-    {"ref": "1P 1:4", "griego": "ἄφθαρτον", "translit": "áphtharton", "significado": "Incorruptible: lo que no se degrada, no muere ni puede ser destruido.", "fuentes": ["mac1p_02_a#4", "mbib1p_01_a#27"]},
-    {"ref": "1P 1:4", "griego": "ἀμίαντον", "translit": "amíanton", "significado": "Incontaminada: sin mancha, que permanece pura. Todo en la creación caída está tocado por el pecado (Ro 8:20-22), pero esta herencia no.", "fuentes": ["mac1p_02_a#5"]},
-    {"ref": "1P 1:4", "griego": "ἀμάραντον", "translit": "amáranton", "significado": "Inmarcesible: que no se marchita. Se usaba para una flor que no se secaba; de ahí el amaranto, la flor inmarchitable de los poetas. Pedro usará una palabra de la misma familia para la corona de gloria en 5:4.", "fuentes": ["mac1p_02_a#6", "dbmh_01_a#4"]},
-    {"ref": "1P 1:4", "griego": "τετηρημένην", "translit": "tetērēménēn", "significado": "Reservada, guardada, vigilada. Participio perfecto pasivo de τηρέω: la herencia ya existe, sigue custodiada, y el que la custodia es Dios.", "fuentes": ["mac1p_02_a#7", "kis1p_02_a#17"]},
-    {"ref": "1P 1:5", "griego": "φρουρουμένους", "translit": "phrouroumenous", "significado": "Guardados, custodiados como por una guarnición militar (de φρουρέω). Está en presente: una custodia continua. La frase «por el poder de Dios» va colocada en medio para destacarla.", "fuentes": ["kis1p_02_a#25", "kis1p_02_a#18", "moodynt_01_a#18"]},
-    {"ref": "1P 1:5", "griego": "καιρῷ", "translit": "kairós", "significado": "Tiempo, pero no el del reloj (χρόνος): es el momento oportuno que Dios fijó.", "fuentes": ["kis1p_02_a#25"]}
-  ],
-  "cristo": [
-    {"texto": "Jesús aparece con su nombre completo, «nuestro Señor Jesucristo», la única vez en la carta en que Pedro junta título y nombre así. MacArthur, citando a otro comentarista, la llama una confesión concentrada: Señor, el gobernante soberano; Jesús, el Hijo hecho hombre; Cristo, el Mesías y Rey ungido. Kistemaker, con Mounce, recuerda que llamar a Jesús Señor es confesar que es Dios (1 Co 12:3). Y el «nuestro» lo hace personal: el Señor del universo pertenece a cada creyente.", "refs": ["1 Co 12:3"], "fuentes": ["kis1p_02_a#4", "mac1p_01_b#3"]},
-    {"texto": "Que Dios sea «el Dios y Padre de nuestro Señor Jesucristo» habla de una intimidad única entre el Padre y el Hijo. MacArthur y el Diccionario Mundo Hispano subrayan que Jesús es el Hijo único, de la misma naturaleza que el Padre: nadie conoce de veras a uno sin el otro (Mt 11:27; Jn 14:6-7).", "refs": ["Mt 11:27", "Jn 14:6-7", "Jn 10:30"], "fuentes": ["mac1p_01_b#2", "dbmh_01_b#10"]},
-    {"texto": "La resurrección de Cristo no es solo la prueba de nuestra esperanza: es su fuente. Piper explica que el nuevo nacimiento ocurre cuando el Espíritu une nuestro corazón muerto a Cristo por la fe y su vida pasa a ser la nuestra; si Jesús no hubiera resucitado, no habría vida nueva para darnos. Y Kistemaker agrega que él fue el primero en romper las cadenas de la muerte, para que también nosotros resucitemos con él (Ro 6:4; Hch 2:24).", "refs": ["Ro 6:4", "Hch 2:24"], "fuentes": ["r1_009#2", "kis1p_02_a#8"]},
-    {"texto": "Al final, la herencia no es solo un lugar o una lista de bienes: es Dios mismo. MacArthur recuerda que el Señor era la herencia de los levitas (Jos 13:33) y que el creyente, parte de un sacerdocio real (1P 2:9), es heredero de Dios y coheredero con Cristo (Ro 8:17). Todo lo que heredamos lo heredamos con él y en él.", "refs": ["Jos 13:33", "Sal 16:5-6", "Ro 8:17"], "fuentes": ["mac1p_02_a#11"]}
-  ],
-  "interpretaciones": [
-    {
-      "tema": "¿Qué papel tiene la persona en el nuevo nacimiento?",
-      "posturas": [
-        {"postura": "La regeneración es por completo obra de Dios: el pecador es pasivo, como el bebé en su nacimiento. El Padre es el agente supremo y el Espíritu la causa eficaz; la fe es fruto de esa vida nueva. Lo llaman monergismo.", "quien": "Grudem; MacArthur y Mayhue (Teología sistemática); Kistemaker", "fuentes": ["r1_013#5", "r1_017#29", "kis1p_02_a#6"]},
-        {"postura": "Al hablar de la elección (con este mismo pasaje), sostiene que la elección de Dios y la decisión del hombre son verdades gemelas que la Biblia enseña juntas y que no se terminan de explicar en esta vida; no intenta reconciliarlas.", "quien": "Wiersbe (Bosquejos expositivos)", "fuentes": ["r1_006#11"]}
-      ],
-      "nota": "Todos coinciden en que el nuevo nacimiento viene de la gran misericordia de Dios y se basa en la resurrección de Cristo, no en méritos humanos."
-    },
-    {
-      "tema": "Guardados mediante la fe: ¿seguridad incondicional o condicionada?",
-      "posturas": [
-        {"postura": "Dios guarda a los suyos de modo que no pueden perder la herencia; la fe continua del creyente no es la condición que él aporta, sino la evidencia de que Dios lo está guardando: Dios activa la fe al principio y la sigue activando hasta el fin. Los elegidos no pueden perderse.", "quien": "MacArthur; Biblia de estudio MacArthur; Piper", "fuentes": ["mac1p_02_a#8", "mbib1p_01_a#28", "r1_010#9"]},
-        {"postura": "El poder de Dios es la causa de la preservación y la fe del hombre el medio. La seguridad del creyente es para la eternidad, pero no incondicional: requiere fe, con asentimiento y entrega personal, que persevere.", "quien": "Nicholson (Comentario Beacon, tradición wesleyana de santidad)", "fuentes": ["bea1p_01_a#19"]},
-        {"postura": "Afirma a la vez la providencia protectora de Dios y la responsabilidad humana de usar la fe en la lucha contra el maligno.", "quien": "Kistemaker", "fuentes": ["kis1p_02_a#18"]}
-      ],
-      "nota": "Todos afirman que es el poder de Dios el que guarda y que la fe no es un adorno: está presente en todo el camino. Difieren en si esa fe puede llegar a abandonarse. Volveremos sobre el tema en 2 Pedro y en las cartas de Juan (anexo T3)."
-    },
-    {
-      "tema": "¿Alude el «renacer» al bautismo?",
-      "posturas": [
-        {"postura": "Algunos escritores cristianos posteriores a los apóstoles usaron este verbo para el bautismo, y algunos comentaristas ven ese sentido implícito aquí.", "quien": "Mencionados por Alonso, sin nombrarlos", "fuentes": ["r1_015#19"]},
-        {"postura": "Es peligroso desviarse de la realidad hacia el signo: lo que regenera no es el agua sino la muerte y resurrección de Cristo y la fe en el Señor resucitado; el signo existe para apuntar a esa causa.", "quien": "Alonso, siguiendo a Stibbs y Walls", "fuentes": ["r1_015#19"]}
-      ],
-      "nota": "El texto mismo pone la causa del renacer en la misericordia de Dios y la resurrección de Jesús. El tema vuelve en 1P 3:21."
-    },
-    {
-      "tema": "El «tiempo postrero» y la secuencia del fin",
-      "posturas": [
-        {"postura": "La salvación se manifiesta en el regreso de Cristo. Ubica los premios en el tribunal de Cristo después del arrebatamiento, y la plenitud de la herencia al final del reino milenial, con cielo nuevo y tierra nueva (Ap 21-22).", "quien": "MacArthur (premilenial dispensacional)", "fuentes": ["mac1p_02_a#10"]},
-        {"postura": "La salvación será revelada cuando Jesús regrese, en el momento que Dios fijó, sin detallar una secuencia de acontecimientos; la plenitud se recibe al entrar en la gloria.", "quien": "Kistemaker; McConnell; Comentario Moody", "fuentes": ["kis1p_02_a#20", "kis1p_02_a#19", "cbmh1p_01_b#9", "moodynt_01_a#18"]}
-      ],
-      "nota": "Todos coinciden en lo central de este versículo: la salvación completa llega con la venida de Cristo y ya está preparada."
-    }
-  ],
-  "antiguo_testamento": [
-    {"ref": "Sal 41:13", "nota": "La fórmula «Bendito» con que abre Pedro es la de las doxologías que cierran los libros del Salterio (también Sal 72:18; 89:52; 106:48).", "fuentes": ["kis1p_02_a#2"]},
-    {"ref": "Nm 26:54-56", "nota": "La palabra herencia es la que la Septuaginta usa para las porciones de Canaán repartidas por tribus (también Jos 13:32-33; Nm 34:2). Así como Israel recibió una herencia terrenal, la iglesia recibe una herencia en el cielo.", "fuentes": ["mac1p_02_a#2"]},
-    {"ref": "Gn 15:18", "nota": "Kistemaker recuerda que la herencia de Israel empezó con la promesa de la tierra a Abraham y que cada israelita soñaba con vivir tranquilo bajo su parra y su higuera (1 R 4:25). Pero esa herencia nunca estuvo segura: los invasores la saqueaban. MacArthur añade que se perdió por los pecados del pueblo. La herencia del creyente, en cambio, no se pierde.", "fuentes": ["kis1p_02_a#14", "mac1p_02_a#4"]},
-    {"ref": "Jos 13:33", "nota": "Los levitas no recibieron tierra: el Señor era su herencia. MacArthur lo aplica al sacerdocio real de los creyentes (1P 2:9) y lo une a Sal 16:5-6 y Lm 3:24.", "fuentes": ["mac1p_02_a#11"]},
-    {"ref": "Ez 36:26-27", "nota": "La promesa de un corazón nuevo y un espíritu nuevo anticipa el nuevo nacimiento del que habla Pedro (Grudem; MacArthur y Mayhue).", "fuentes": ["r1_013#5", "r1_017#29"]}
-  ],
-  "biblioteca": [
-    {"texto": "Grudem define la regeneración como el acto secreto de Dios por el que nos imparte vida espiritual nueva. A diferencia de la conversión o la santificación, en las que participamos activamente, en la regeneración somos pasivos; concluye que tanto el Padre (1P 1:3) como el Espíritu (Jn 3:8) la producen.", "autor": "Wayne Grudem (citado en la biblioteca de referencia)", "obra": "Teología sistemática", "pagina": "PDF 735-736", "tipo": "doctrina", "fuentes": ["r1_013#5"]},
-    {"texto": "MacArthur parte de Jer 13:23 (¿puede el etíope cambiar su piel?) para mostrar que solo Dios puede transformar el corazón, y recuerda la serpiente de bronce (Nm 21:4-9) que Jesús usó con Nicodemo: así como los mordidos miraban lo que Dios había provisto y sanaban, el pecador debe reconocer su veneno y mirar con fe al Hijo.", "autor": "John MacArthur", "obra": "1 Pedro (Comentario MacArthur del Nuevo Testamento)", "pagina": "PDF 29-30", "tipo": "doctrina", "fuentes": ["mac1p_01_b#6"]},
-    {"texto": "La Biblia de estudio MacArthur enumera diez rasgos de la esperanza viva: viene de Dios, es don de gracia, la definen las Escrituras, es razonable, la asegura la resurrección, el Espíritu la confirma, defiende contra Satanás, se confirma en las pruebas, produce gozo y se cumple al regreso de Cristo.", "autor": "John MacArthur", "obra": "Biblia de estudio MacArthur", "pagina": "PDF 3256", "tipo": "doctrina", "fuentes": ["mbib1p_01_a#26"]},
-    {"texto": "Billy Graham usa 1P 1:3-4 para afirmar que la firme esperanza del cristiano en el cielo descansa en lo que Jesucristo hizo con su muerte y resurrección, y no en las buenas obras hechas en la tierra.", "autor": "Billy Graham (citado en la biblioteca de referencia)", "obra": "Enfrentando la muerte y la vida en el más allá", "pagina": "PDF 150", "tipo": "aplicacion", "fuentes": ["r4b_001#5"]},
-    {"texto": "Palomino cuenta el caso de Tranquilino Ocampo, de 72 años, que tras un diagnóstico de cáncer cayó en una depresión profunda. Hablando con el capellán, admitió que no estaba listo para encontrarse con Dios y, después de un silencio, oró recibiendo a Cristo como su Salvador y única esperanza. El relato lo presenta como un nuevo nacimiento a una esperanza viva, aun al final de la vida.", "autor": "Palomino, en Comentario Bíblico Mundo Hispano (ed. Cecilio McConnell)", "obra": "Comentario Bíblico Mundo Hispano: 1 Pedro", "pagina": "p. 320", "tipo": "ilustracion", "fuentes": ["cbmh1p_01_b#20"]}
-  ],
-  "conexiones": [
-    {"ref": "Jn 3:3-8", "nota": "Jesús le enseña a Nicodemo que hay que nacer de nuevo, de arriba, por el Espíritu. Varios autores piensan que Pedro, que estuvo con Jesús, tiene ese diálogo de fondo.", "fuentes": ["r1_015#18", "cbmh1p_01_b#10", "kis1p_02_a#5"]},
-    {"ref": "Ef 2:4-5", "nota": "Dios, rico en misericordia, nos dio vida juntamente con Cristo: la misma idea y casi las mismas palabras. Kistemaker piensa que Pedro conocía las cartas de Pablo (2P 3:15-16).", "fuentes": ["kis1p_02_a#5", "mac1p_01_b#4"]},
-    {"ref": "1 Co 15:17-20", "nota": "Si Cristo no resucitó, la fe es vana; pero resucitó, primicias de los que duermen. Es el fundamento de la esperanza viva.", "fuentes": ["mac1p_01_b#8", "mac1p_02_a#1"]},
-    {"ref": "Mt 6:19-21", "nota": "Tesoros en el cielo, donde nada se corrompe ni se roba: la enseñanza de Jesús detrás de una herencia reservada en los cielos (también Lc 12:33-34).", "fuentes": ["mac1p_02_a#7", "moodynt_01_a#17"]},
-    {"ref": "Jd 24", "nota": "Judas cierra su carta alabando al que es poderoso para guardarnos sin caída. Es la misma confianza de 1P 1:5.", "fuentes": ["mac1p_02_a#8", "r1_010#9"]},
-    {"ref": "Fil 1:6", "nota": "El que empezó la buena obra la va a completar: otra cara de ser guardados por el poder de Dios.", "fuentes": ["mac1p_02_a#8", "r1_010#9"]}
-  ],
-  "para_vivir": [
-    {"texto": "Empezar por la alabanza. Pedro no esperó a que se acabaran los problemas para bendecir a Dios. Cuando ustedes estén preocupados, prueben hacer lo mismo: antes de pedir, recuerden en voz alta lo que Dios ya hizo por ustedes. MacArthur ve en esto la intención de Pedro: que miraran más allá de los problemas presentes hacia la herencia.", "fuentes": ["mac1p_01_a#38", "cbmh1p_01_b#8"]},
-    {"texto": "Revisar en qué está puesta la esperanza. Henry advierte que las esperanzas del mundo son inciertas y edificadas sobre arena. Vale la pena preguntarse qué cosas de su vida juntos (proyectos, ahorros, la casa, la salud) están cargando con un peso que solo puede llevar la esperanza viva.", "fuentes": ["mhenry_01_a#3", "mhenry_01_a#5"]},
-    {"texto": "Soltar con más libertad lo que se pierde. Los lectores de Pedro perdían bienes y lugar social, y la herencia segura los consolaba. Ninguna pérdida de aquí alcanza lo que Dios guarda para ustedes. MacArthur lo relaciona con buscar las cosas de arriba (Col 3:1-2) y esperar con paciencia mientras Dios va formando el carácter de sus hijos.", "fuentes": ["moodynt_01_a#17", "mac1p_02_a#3"]},
-    {"texto": "Descansar en que son custodiados. En los días en que la fe se siente débil, recuerden que no están sosteniéndose solos: hay una guardia puesta por Dios alrededor de ustedes. Ese descanso no da pereza; da valor para seguir confiando (Nicholson: los estimulaba a la firmeza).", "fuentes": ["r1_006#13", "kis1p_02_a#18", "bea1p_01_a#18"]}
-  ],
-  "para_conversar": [
-    "Pedro bendice a Dios antes de hablar del sufrimiento. ¿Qué cambiaría en nuestra manera de enfrentar una semana difícil si empezáramos por agradecer lo que Dios ya hizo?",
-    "Henry y MacArthur contrastan la esperanza viva con las esperanzas del mundo. ¿En qué cosas solemos poner una esperanza que en realidad es frágil?",
-    "Saber que somos guardados por el poder de Dios mediante la fe, ¿nos da más tranquilidad, más responsabilidad o las dos cosas? ¿Por qué?"
-  ],
-  "para_orar": "Bendito seas, Padre de nuestro Señor Jesucristo, porque por tu gran misericordia nos hiciste nacer de nuevo y nos diste una esperanza viva en tu Hijo resucitado. Gracias por la herencia que nos guardás en el cielo y porque nos guardás a nosotros con tu poder; sostené nuestra fe en los días difíciles y enseñanos a esperar juntos, con gozo, el día en que Jesús vuelva.",
-  "visuales": ["dg-estructura-1p", "dg-sufrimiento"],
-  "anexos": ["P1", "T1", "T3", "T4"],
-  "profundizar": [
-    {"titulo": "Pedro y sus preposiciones", "texto": "Kistemaker hace notar cuántas preposiciones hay en este versículo y en todo 1:1-12 (según, para, por, de entre). Es un rasgo de estilo de la carta, que él considera útil a la hora de discutir quién la escribió. En el versículo 4 incluso cambia el pronombre: de nosotros pasa a vosotros, con una construcción preposicional en lugar del caso habitual.", "fuentes": ["kis1p_02_a#12", "kis1p_02_a#17"]},
-    {"titulo": "Las muchas formas de nombrar la salvación futura", "texto": "Kistemaker, siguiendo a Foerster, muestra la variedad con que Pedro nombra lo que viene: esperanza viva (1:3), luz admirable (2:9), gracia de la vida (3:7), heredar bendición (3:9), corona de gloria (5:4) y gloria eterna (5:10). Ahora saboreamos la bondad de Dios; la plenitud se dará a conocer a su tiempo. La Biblia de estudio MacArthur, por su parte, describe el contenido de la herencia: vida, justicia, gozo, paz, la presencia de Dios y la compañía de Cristo, con el Espíritu como garantía (Ef 1:14).", "fuentes": ["kis1p_02_a#19", "mbib1p_01_a#27"]},
-    {"titulo": "Esperanza que se cumple al morir", "texto": "MacArthur señala que, para el creyente que muere, la esperanza se vuelve realidad al entrar en la presencia de Dios; por eso Pablo podía decir que morir es ganancia (Fil 1:21). Wiersbe une la esperanza viva al consuelo en el duelo (1Ts 4:13-18). Pedro mismo, más adelante, describe la meta como cielos nuevos y tierra nueva donde mora la justicia (2P 3:13).", "fuentes": ["mac1p_01_b#7", "r1_006#12"]}
+ "dia": 2,
+ "libro": "1P",
+ "desde": "1P 1:3",
+ "hasta": "1P 1:5",
+ "titulo": "Una esperanza viva y una herencia guardada",
+ "minutos": {
+  "lectura": 2,
+  "estudio": 25
+ },
+ "contexto": {
+  "antes": "Ayer (1P 1:1-2) Pedro se presentó y saludó a cristianos dispersos y forasteros, recordándoles que, aunque el mundo los rechace, son elegidos por el Padre, apartados por el Espíritu y limpiados por la sangre de Jesucristo.",
+  "ahora": "Del saludo pasa directamente a la alabanza. Antes de hablar de pruebas, Pedro bendice a Dios por la riqueza que sus lectores ya tienen segura. En griego los versículos 3 a 9 son una sola oración larguísima, como si no pudiera parar de enumerar bendiciones.",
+  "despues": "Mañana (1P 1:6-9) Pedro saca la consecuencia: por esa esperanza y esa herencia, se puede tener gozo aun en medio de pruebas que duran un poco y que prueban la fe como el fuego prueba el oro.",
+  "fuentes": [
+   "moodynt_01_a#16",
+   "kis1p_02_a#1",
+   "mac1p_01_a#38",
+   "kis1p_01_c#24"
   ]
+ },
+ "versiculo_clave": {
+  "ref": "1P 1:3",
+  "porque": "Concentra todo el tramo: quién nos salva (el Dios y Padre de nuestro Señor Jesucristo), por qué (su gran misericordia), cómo (nos hizo nacer de nuevo), para qué (una esperanza viva) y sobre qué base (la resurrección de Jesús). Es la clase de verdad que sostiene cuando todo lo demás tambalea."
+ },
+ "panorama": {
+  "texto": "Pedro escribe a gente que está perdiendo cosas: reputación, seguridad, quizás bienes. Y en vez de empezar consolándolos por lo que pierden, los hace bendecir a Dios por lo que tienen y nadie les puede quitar. MacArthur lo lee como un himno sobre la herencia del creyente, que muestra su origen (Dios Padre), su motivo (la gran misericordia), el modo de recibirla (el nuevo nacimiento), su naturaleza (incorruptible, incontaminada e inmarcesible) y su seguridad (reservada en el cielo para quienes son guardados por el poder de Dios). La resurrección de Jesús está en el centro: por ella la esperanza no es un deseo, sino una esperanza «viva».",
+  "fuentes": [
+   "mac1p_01_a#38",
+   "moodynt_01_a#16",
+   "bea1p_01_a#16",
+   "kis1p_02_a#8"
+  ]
+ },
+ "secciones": [
+  {
+   "rango": "1P 1:3a",
+   "titulo": "Bendito sea Dios: la alabanza como punto de partida",
+   "notas": [
+    {
+     "texto": "La primera palabra de la oración es «Bendito». Es la fórmula con que Israel alababa a Dios: así cierran varios libros de los Salmos (Sal 41:13; 72:18; 89:52; 106:48) y así empieza Zacarías su cántico (Lc 1:68). En el Nuevo Testamento ese adjetivo se usa solo para Dios. McConnell recuerda que de la misma raíz viene nuestra palabra elogio: bendecir a Dios es hablar bien de él.",
+     "fuentes": [
+      "kis1p_02_a#2",
+      "cbmh1p_01_b#8"
+     ],
+     "tipo": "AT_en_NT"
+    },
+    {
+     "texto": "En el griego la frase no tiene verbo: dice literalmente «Bendito el Dios». MacArthur saca de ahí una enseñanza: Pedro da por sentado que los creyentes bendicen a Dios; no lo propone, lo presupone.",
+     "fuentes": [
+      "kis1p_02_a#10",
+      "mac1p_01_b#1"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Llama la atención el momento: con contratiempos por todos lados, Pedro igual encuentra motivo para alabar (McConnell). Alonso, siguiendo a Stibbs y Walls, observa que esta verdad solo puede expresarse plenamente en actitud de adoración, y el Comentario Beacon, citando a Barclay, dice que mirar a Dios es el secreto de la esperanza.",
+     "fuentes": [
+      "cbmh1p_01_b#8",
+      "r1_015#17",
+      "bea1p_01_a#16"
+     ],
+     "tipo": "aplicacion"
+    }
+   ]
+  },
+  {
+   "rango": "1P 1:3a",
+   "titulo": "El Dios y Padre de nuestro Señor Jesucristo",
+   "notas": [
+    {
+     "texto": "Los judíos bendecían a Dios como Creador y como el que sacó a Israel de Egipto; los cristianos lo bendicen como el Padre del Hijo encarnado, el que levantó a Jesús de los muertos. Kistemaker hace notar que es la misma fórmula de 2 Co 1:3 y Ef 1:3. Según MacArthur, en el Antiguo Testamento Dios casi nunca es llamado Padre, y casi siempre del pueblo en conjunto (Dt 32:6; Is 63:16), mientras que Jesús lo llamó siempre así, salvo en el grito de la cruz (Mt 27:46).",
+     "fuentes": [
+      "r1_015#17",
+      "kis1p_02_a#3",
+      "mac1p_01_b#1",
+      "mbib1p_01_a#24"
+     ],
+     "tipo": "contexto"
+    },
+    {
+     "texto": "Y por Cristo su Padre pasa a ser nuestro Padre y su Dios nuestro Dios (Jn 20:17). Kistemaker lo une a lo que sigue: Dios es nuestro Padre porque nos hizo nacer de nuevo. La Biblia de estudio MacArthur agrega que esa relación íntima con el Dios del universo es justamente lo que necesitan recordar los que sufren.",
+     "fuentes": [
+      "kis1p_02_a#3",
+      "mbib1p_01_a#24"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "1P 1:3b",
+   "titulo": "Según su gran misericordia, nos hizo renacer",
+   "notas": [
+    {
+     "texto": "El motivo de todo es la «grande misericordia» de Dios. MacArthur distingue: la gracia mira la culpa del pecador y lo lleva de la culpa a la absolución (un cambio de posición); la misericordia mira su condición miserable y lo lleva de la miseria a la gloria (un cambio de condición). Dios no nos salvó porque vio algo valioso en nosotros, sino porque se compadeció de nuestro estado (Ef 2:4-5; Tit 3:5).",
+     "fuentes": [
+      "mac1p_01_b#5",
+      "mac1p_01_b#4",
+      "mbib1p_01_a#25"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "«Nos hizo renacer» es el primer don. El verbo solo aparece aquí y en 1:23 (ver Palabras), y varios autores oyen en él el eco de lo que Jesús le dijo a Nicodemo (Jn 3:3-8). McConnell y Palomino lo llaman condición fundamental de la vida cristiana; Pablo habla de lo mismo como nueva creación (2 Co 5:17), y Pedro pone el acento en la transformación espiritual y moral que produce.",
+     "fuentes": [
+      "r1_015#18",
+      "cbmh1p_01_b#10",
+      "kis1p_02_a#5"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Quien hace la obra es Dios: él nos engendró. Kistemaker lo compara con el nacimiento natural, en el que nadie colabora para nacer (ver Interpretaciones). Y Pedro dice nos, incluyéndose: Kistemaker sugiere que el que negó a Jesús y fue restaurado sabía muy bien qué es la gran misericordia.",
+     "fuentes": [
+      "kis1p_02_a#6",
+      "r1_013#5",
+      "r1_017#29"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "1P 1:3c",
+   "titulo": "Una esperanza viva, por la resurrección de Jesucristo",
+   "notas": [
+    {
+     "texto": "Nacimos de nuevo «para una esperanza viva». Matthew Henry contrasta: la esperanza del mundo apunta a un bien incierto y está construida sobre arena; la de los hijos del Dios vivo es viva en su objeto y en su efecto, porque consuela en la angustia y empuja a obedecer. MacArthur agrega que el mundo incrédulo solo conoce esperanzas muertas (Ef 2:12).",
+     "fuentes": [
+      "mhenry_01_a#3",
+      "mac1p_01_b#7"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Kistemaker destaca que aquí la esperanza no es solo algo futuro: es personal, viva y activa dentro de nosotros. Cita a Hoffmann: tener esperanza es aguardar con disciplina. Wiersbe explica por qué es viva: porque el creyente tiene un Salvador que vive, y no es algo ganado con esfuerzo sino un derecho de nacimiento.",
+     "fuentes": [
+      "kis1p_02_a#7",
+      "kis1p_01_c#24",
+      "r1_006#12"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "La resurrección es la piedra fundamental. Sin ella, dice Kistemaker, el nuevo nacimiento sería imposible y la esperanza, vana. MacArthur remite a 1 Co 15: si Cristo no resucitó, la fe es inútil; pero resucitó y venció a la muerte. El Comentario Beacon resume: la muerte de Cristo muestra su amor; su resurrección, su poder para salvar. Y Pedro no hablaba de oídas: había comido y bebido con el Resucitado (Hch 10:41) y lo predicó toda su vida (Hch 2:31; 10:40).",
+     "fuentes": [
+      "kis1p_02_a#8",
+      "mac1p_01_b#8",
+      "mac1p_02_a#1",
+      "bea1p_01_a#16",
+      "kis1p_02_a#9"
+     ],
+     "tipo": "cristo"
+    }
+   ]
+  },
+  {
+   "rango": "1P 1:4",
+   "titulo": "Una herencia que no se pierde, no se mancha y no se marchita",
+   "notas": [
+    {
+     "texto": "Los hijos heredan (Ro 8:17). McConnell remarca que una herencia se recibe de otro, no se gana, y que ya es en parte nuestra aunque espera su plenitud. Kistemaker nota que una herencia suele suponer la muerte de quien testó (He 9:16-17), pero Pedro la pone en un contexto de vida: justo después de la resurrección y el nuevo nacimiento.",
+     "fuentes": [
+      "bea1p_01_a#18",
+      "cbmh1p_01_b#9",
+      "kis1p_02_a#13"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Pedro la describe con tres palabras negativas, que en griego empiezan igual y forman una aliteración (ver Palabras). Incorruptible: es una fortuna que no se gasta (Henry); en el griego secular se decía de lo que ningún ejército invasor había tocado (Biblia de estudio MacArthur). Incontaminada: nada la mancha. Inmarcesible: no pierde su frescura; no es agradable a veces sino siempre (Henry). Henry contrasta: las posesiones de aquí siempre tienen un defecto, como casas lindas con preocupaciones bajo el techo, y pasan como las flores del campo.",
+     "fuentes": [
+      "kis1p_02_a#15",
+      "cbmh1p_01_b#9",
+      "mhenry_01_a#4",
+      "mbib1p_01_a#27",
+      "mhenry_01_a#5"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Está «reservada en los cielos para vosotros». MacArthur explica que el verbo indica una herencia que ya existe y está siendo vigilada, de modo que nadie la cambia ni la saquea; Kistemaker agrega que el pasivo deja ver a Dios como el que la guarda. Es lo que Jesús enseñó sobre los tesoros en el cielo (Mt 6:19-21).",
+     "fuentes": [
+      "mac1p_02_a#7",
+      "kis1p_02_a#17"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Para los primeros lectores era muy concreto. El Comentario Moody piensa que habían renunciado a su parte en la herencia de Israel y conocerían la pérdida de bienes (He 10:34); una herencia segura era consuelo. Nicholson: la persecución no puede tocarla, y eso los animaba a la firmeza.",
+     "fuentes": [
+      "moodynt_01_a#17",
+      "bea1p_01_a#18"
+     ],
+     "tipo": "contexto"
+    }
+   ]
+  },
+  {
+   "rango": "1P 1:5",
+   "titulo": "Guardados por el poder de Dios mediante la fe",
+   "notas": [
+    {
+     "texto": "No solo la herencia está custodiada: también los herederos. «Guardados» es un término militar, la guarnición que custodia una ciudad (2 Co 11:32; Fil 4:7), y está en presente: una custodia de todos los días (Kistemaker; Comentario Moody).",
+     "fuentes": [
+      "kis1p_02_a#18",
+      "moodynt_01_a#18",
+      "kis1p_02_a#25",
+      "bea1p_01_a#18"
+     ],
+     "tipo": "exegesis"
+    },
+    {
+     "texto": "Obran juntos el poder de Dios y la fe. Para el Comentario Beacon, el poder de Dios es la causa que preserva y la fe el medio; Kistemaker ve la providencia de Dios y, a la vez, la responsabilidad de usar la fe como escudo (Ef 6:16). Cómo se relacionan y si esta seguridad tiene condiciones es un punto discutido (ver Interpretaciones). Lo que todos afirman es que el creyente no está solo: Dios mismo lo custodia, y su seguridad descansa en la fidelidad de Dios (Wiersbe).",
+     "fuentes": [
+      "bea1p_01_a#19",
+      "kis1p_02_a#18",
+      "mac1p_02_a#8",
+      "r1_006#13"
+     ],
+     "tipo": "doctrina"
+    }
+   ]
+  },
+  {
+   "rango": "1P 1:5",
+   "titulo": "La salvación lista para manifestarse en el tiempo postrero",
+   "notas": [
+    {
+     "texto": "La custodia tiene una meta: «alcanzar la salvación», aquí en su plenitud futura. MacArthur muestra tres tiempos: fuimos salvados del castigo del pecado (justificación), estamos siendo salvados de su poder (santificación) y seremos salvados de su presencia (glorificación). Wiersbe y el Diccionario Mundo Hispano dicen lo mismo: realidad presente y esperanza futura.",
+     "fuentes": [
+      "mac1p_02_a#9",
+      "r1_006#13",
+      "dbmh_02_b#3"
+     ],
+     "tipo": "doctrina"
+    },
+    {
+     "texto": "Esa salvación ya está «preparada»: Cristo la dejó lista con su obra y no corre riesgo de no realizarse (Kistemaker; Beacon, citando a Bennett). Solo falta que se manifieste, literalmente que se le quite el velo, en el momento (kairós) que Dios fijó. McConnell remarca el contraste: el tiempo final que a muchos asusta es, para los que son de Cristo, el día de la salvación completa (ver Interpretaciones).",
+     "fuentes": [
+      "kis1p_02_a#20",
+      "bea1p_01_a#19",
+      "kis1p_02_a#25",
+      "cbmh1p_01_b#9"
+     ],
+     "tipo": "exegesis"
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "1P 1:3",
+   "griego": "εὐλογητός",
+   "translit": "eulogētós",
+   "significado": "Bendito, alabado; literalmente bien hablado. En el Nuevo Testamento se dice solo de Dios.",
+   "fuentes": [
+    "cbmh1p_01_b#8",
+    "kis1p_02_a#10"
+   ]
+  },
+  {
+   "ref": "1P 1:3",
+   "griego": "ἀναγεννήσας",
+   "translit": "anagennḗsas",
+   "significado": "Habiendo engendrado de nuevo (de ἀναγεννάω). Aparece solo dos veces en el Nuevo Testamento, ambas en Pedro: aquí en activa y en 1:23 en pasiva. Alonso ve dos aspectos: un cambio decisivo de situación por la obra de Cristo y una vida nueva dada por Dios.",
+   "fuentes": [
+    "kis1p_02_a#11",
+    "r1_014_b#1",
+    "r1_015#18"
+   ]
+  },
+  {
+   "ref": "1P 1:4",
+   "griego": "κληρονομίαν",
+   "translit": "klēronomían",
+   "significado": "Herencia: lo recibido por pertenecer a una familia. La Septuaginta la usa para las porciones de Canaán repartidas entre las tribus.",
+   "fuentes": [
+    "mac1p_02_a#2",
+    "kis1p_02_a#16"
+   ]
+  },
+  {
+   "ref": "1P 1:4",
+   "griego": "ἄφθαρτον, ἀμίαντον, ἀμάραντον",
+   "translit": "áphtharton, amíanton, amáranton",
+   "significado": "Incorruptible (no se degrada ni se destruye), incontaminada (permanece pura) e inmarcesible (no se marchita, como el amaranto, la flor que no se seca). Pedro vuelve a usar la última para la corona de gloria en 5:4.",
+   "fuentes": [
+    "mac1p_02_a#4",
+    "mac1p_02_a#5",
+    "mac1p_02_a#6",
+    "dbmh_01_a#4"
+   ]
+  },
+  {
+   "ref": "1P 1:4",
+   "griego": "τετηρημένην",
+   "translit": "tetērēménēn",
+   "significado": "Reservada, vigilada; perfecto pasivo: la herencia ya existe, sigue custodiada, y quien la custodia es Dios.",
+   "fuentes": [
+    "mac1p_02_a#7",
+    "kis1p_02_a#17"
+   ]
+  },
+  {
+   "ref": "1P 1:5",
+   "griego": "φρουρουμένους",
+   "translit": "phrouroumenous",
+   "significado": "Guardados como por una guarnición militar; presente: una custodia continua.",
+   "fuentes": [
+    "kis1p_02_a#25",
+    "kis1p_02_a#18",
+    "moodynt_01_a#18"
+   ]
+  }
+ ],
+ "cristo": [
+  {
+   "texto": "Es la única vez en la carta que Pedro junta título y nombre así: «nuestro Señor Jesucristo». MacArthur la llama una confesión concentrada: Señor, el gobernante soberano; Jesús, el Hijo hecho hombre; Cristo, el Mesías ungido. Llamarlo Señor es confesar que es Dios (Kistemaker, con Mounce; 1 Co 12:3), y el «nuestro» lo hace personal.",
+   "refs": [
+    "1 Co 12:3"
+   ],
+   "fuentes": [
+    "kis1p_02_a#4",
+    "mac1p_01_b#3"
+   ]
+  },
+  {
+   "texto": "La resurrección no es solo prueba de nuestra esperanza: es su fuente. Piper explica que el nuevo nacimiento ocurre cuando el Espíritu une nuestro corazón muerto a Cristo por la fe y su vida pasa a ser la nuestra; si Jesús no hubiera resucitado, no habría vida nueva que darnos.",
+   "refs": [
+    "Ro 6:4",
+    "Hch 2:24"
+   ],
+   "fuentes": [
+    "r1_009#2"
+   ]
+  },
+  {
+   "texto": "La herencia es, al final, Dios mismo. MacArthur recuerda que el Señor era la herencia de los levitas (Jos 13:33) y que el creyente es heredero de Dios y coheredero con Cristo (Ro 8:17).",
+   "refs": [
+    "Jos 13:33",
+    "Sal 16:5-6",
+    "Ro 8:17"
+   ],
+   "fuentes": [
+    "mac1p_02_a#11"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Qué papel tiene la persona en el nuevo nacimiento?",
+   "posturas": [
+    {
+     "postura": "La regeneración es por completo obra de Dios; el pecador es pasivo, como el bebé al nacer (monergismo).",
+     "quien": "Grudem; MacArthur y Mayhue (Teología sistemática); Kistemaker",
+     "fuentes": [
+      "r1_013#5",
+      "r1_017#29",
+      "kis1p_02_a#6"
+     ]
+    },
+    {
+     "postura": "La elección de Dios y la decisión del hombre son verdades gemelas que la Biblia enseña juntas y no se terminan de explicar en esta vida.",
+     "quien": "Wiersbe (Bosquejos expositivos)",
+     "fuentes": [
+      "r1_006#11"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en que el nuevo nacimiento nace de la misericordia de Dios y se basa en la resurrección de Cristo."
+  },
+  {
+   "tema": "Guardados mediante la fe: ¿seguridad incondicional o condicionada?",
+   "posturas": [
+    {
+     "postura": "Dios guarda a los suyos de modo que no pueden perder la herencia; la fe continua no es lo que el creyente aporta, sino la evidencia de que Dios lo guarda y la sigue activando hasta el fin.",
+     "quien": "MacArthur; Biblia de estudio MacArthur; Piper",
+     "fuentes": [
+      "mac1p_02_a#8",
+      "mbib1p_01_a#28",
+      "r1_010#9"
+     ]
+    },
+    {
+     "postura": "La seguridad es para la eternidad, pero no incondicional: requiere una fe que persevere.",
+     "quien": "Nicholson (Comentario Beacon, tradición wesleyana de santidad)",
+     "fuentes": [
+      "bea1p_01_a#19"
+     ]
+    },
+    {
+     "postura": "Afirma a la vez la protección de Dios y la responsabilidad de usar la fe contra el maligno.",
+     "quien": "Kistemaker",
+     "fuentes": [
+      "kis1p_02_a#18"
+     ]
+    }
+   ],
+   "nota": "Todos afirman que el poder de Dios guarda y que la fe acompaña todo el camino; difieren en si puede abandonarse (anexo T3)."
+  },
+  {
+   "tema": "El «tiempo postrero» y la secuencia del fin",
+   "posturas": [
+    {
+     "postura": "Ubica los premios en el tribunal de Cristo después del arrebatamiento y la plenitud de la herencia al final del reino milenial, con cielo nuevo y tierra nueva.",
+     "quien": "MacArthur (premilenial dispensacional)",
+     "fuentes": [
+      "mac1p_02_a#10"
+     ]
+    },
+    {
+     "postura": "La salvación se revela cuando Jesús regrese, en el tiempo que Dios fijó, sin detallar una secuencia.",
+     "quien": "Kistemaker; McConnell; Comentario Moody",
+     "fuentes": [
+      "kis1p_02_a#20",
+      "kis1p_02_a#19",
+      "cbmh1p_01_b#9",
+      "moodynt_01_a#18"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden: la salvación completa ya está preparada y llega con la venida de Cristo."
+  }
+ ],
+ "antiguo_testamento": [
+  {
+   "ref": "Sal 41:13",
+   "nota": "La fórmula «Bendito» con que abre Pedro es la de las doxologías que cierran los libros del Salterio (también Sal 72:18; 89:52; 106:48).",
+   "fuentes": [
+    "kis1p_02_a#2"
+   ]
+  },
+  {
+   "ref": "Nm 26:54-56",
+   "nota": "Herencia es la palabra de la Septuaginta para las porciones de Canaán; Israel recibió una herencia terrenal, la iglesia una en el cielo.",
+   "fuentes": [
+    "mac1p_02_a#2"
+   ]
+  },
+  {
+   "ref": "Gn 15:18",
+   "nota": "La herencia de Israel empezó con la promesa a Abraham, pero nunca estuvo segura: los invasores la saqueaban (Kistemaker) y se perdió por los pecados del pueblo (MacArthur).",
+   "fuentes": [
+    "kis1p_02_a#14",
+    "mac1p_02_a#4"
+   ]
+  },
+  {
+   "ref": "Ez 36:26-27",
+   "nota": "El corazón nuevo prometido anticipa el nuevo nacimiento (Grudem; MacArthur y Mayhue).",
+   "fuentes": [
+    "r1_013#5",
+    "r1_017#29"
+   ]
+  }
+ ],
+ "biblioteca": [
+  {
+   "texto": "MacArthur recuerda la serpiente de bronce (Nm 21:4-9) que Jesús usó con Nicodemo: como los mordidos miraban lo que Dios había provisto y sanaban, el pecador debe reconocer su veneno y mirar con fe al Hijo.",
+   "autor": "John MacArthur",
+   "obra": "1 Pedro (Comentario MacArthur del Nuevo Testamento)",
+   "pagina": "PDF 29-30",
+   "tipo": "doctrina",
+   "fuentes": [
+    "mac1p_01_b#6"
+   ]
+  },
+  {
+   "texto": "Billy Graham usa 1P 1:3-4 para afirmar que la firme esperanza del cristiano en el cielo descansa en lo que Jesucristo hizo con su muerte y resurrección, y no en las buenas obras hechas en la tierra.",
+   "autor": "Billy Graham (citado en la biblioteca de referencia)",
+   "obra": "Enfrentando la muerte y la vida en el más allá",
+   "pagina": "PDF 150",
+   "tipo": "aplicacion",
+   "fuentes": [
+    "r4b_001#5"
+   ]
+  },
+  {
+   "texto": "Palomino cuenta el caso de Tranquilino Ocampo, de 72 años, que ante un cáncer admitió no estar listo para encontrarse con Dios y oró recibiendo a Cristo como su única esperanza: un nuevo nacimiento al final de la vida.",
+   "autor": "Palomino, en Comentario Bíblico Mundo Hispano (ed. Cecilio McConnell)",
+   "obra": "Comentario Bíblico Mundo Hispano: 1 Pedro",
+   "pagina": "p. 320",
+   "tipo": "ilustracion",
+   "fuentes": [
+    "cbmh1p_01_b#20"
+   ]
+  }
+ ],
+ "conexiones": [
+  {
+   "ref": "Jn 3:3-8",
+   "nota": "Jesús enseña a Nicodemo que hay que nacer de nuevo por el Espíritu.",
+   "fuentes": [
+    "r1_015#18",
+    "cbmh1p_01_b#10",
+    "kis1p_02_a#5"
+   ]
+  },
+  {
+   "ref": "Ef 2:4-5",
+   "nota": "Dios, rico en misericordia, nos dio vida con Cristo: casi las mismas palabras.",
+   "fuentes": [
+    "kis1p_02_a#5",
+    "mac1p_01_b#4"
+   ]
+  },
+  {
+   "ref": "1 Co 15:17-20",
+   "nota": "Si Cristo no resucitó, la fe es vana; pero resucitó, primicias de los que duermen. Es el fundamento de la esperanza viva.",
+   "fuentes": [
+    "mac1p_01_b#8",
+    "mac1p_02_a#1"
+   ]
+  },
+  {
+   "ref": "Jd 24",
+   "nota": "Judas cierra su carta alabando al que es poderoso para guardarnos sin caída. Es la misma confianza de 1P 1:5.",
+   "fuentes": [
+    "mac1p_02_a#8",
+    "r1_010#9"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Empezar por la alabanza. Pedro no esperó a que se acabaran los problemas para bendecir a Dios. Cuando estén preocupados, antes de pedir recuerden en voz alta lo que Dios ya hizo por ustedes.",
+   "fuentes": [
+    "mac1p_01_a#38",
+    "cbmh1p_01_b#8"
+   ]
+  },
+  {
+   "texto": "Revisar dónde está puesta la esperanza. ¿Qué cosas de su vida juntos (proyectos, ahorros, la casa, la salud) cargan con un peso que solo puede llevar la esperanza viva?",
+   "fuentes": [
+    "mhenry_01_a#3",
+    "mhenry_01_a#5"
+   ]
+  },
+  {
+   "texto": "Soltar con más libertad lo que se pierde. Ninguna pérdida de aquí alcanza lo que Dios guarda para ustedes; mientras esperan, él va formando el carácter de sus hijos (MacArthur; Col 3:1-2).",
+   "fuentes": [
+    "moodynt_01_a#17",
+    "mac1p_02_a#3"
+   ]
+  },
+  {
+   "texto": "Descansar en que son custodiados. En los días de fe débil, no se sostienen solos; y ese descanso no da pereza, da firmeza.",
+   "fuentes": [
+    "r1_006#13",
+    "kis1p_02_a#18",
+    "bea1p_01_a#18"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "Pedro bendice a Dios antes de hablar del sufrimiento. ¿Qué cambiaría en nuestra manera de enfrentar una semana difícil si empezáramos por agradecer lo que Dios ya hizo?",
+  "Henry y MacArthur contrastan la esperanza viva con las esperanzas del mundo. ¿En qué cosas solemos poner una esperanza que en realidad es frágil?",
+  "Saber que somos guardados por el poder de Dios mediante la fe, ¿nos da más tranquilidad, más responsabilidad o las dos cosas? ¿Por qué?"
+ ],
+ "para_orar": "Bendito seas, Padre de nuestro Señor Jesucristo, porque por tu gran misericordia nos hiciste nacer de nuevo y nos diste una esperanza viva en tu Hijo resucitado. Gracias por la herencia que nos guardás en el cielo y porque nos guardás a nosotros con tu poder; sostené nuestra fe en los días difíciles y enseñanos a esperar juntos, con gozo, el día en que Jesús vuelva.",
+ "visuales": [
+  "dg-estructura-1p",
+  "dg-sufrimiento"
+ ],
+ "anexos": [
+  "P1",
+  "T1",
+  "T3",
+  "T4"
+ ],
+ "profundizar": [
+  {
+   "titulo": "¿Alude el renacer al bautismo?",
+   "texto": "Alonso advierte que escritores cristianos posteriores a los apóstoles usaron este verbo para el bautismo y que algunos comentaristas ven ese sentido aquí. Él, siguiendo a Stibbs y Walls, lo considera un desvío peligroso de la realidad al signo: lo que regenera no es el agua sino la muerte y resurrección de Cristo y la fe en el Señor resucitado. El tema vuelve en 1P 3:21.",
+   "fuentes": [
+    "r1_015#19"
+   ]
+  },
+  {
+   "titulo": "Pedro y sus preposiciones",
+   "texto": "Kistemaker hace notar cuántas preposiciones hay en este versículo y en todo 1:1-12 (según, para, por, de entre). Es un rasgo de estilo de la carta, que él considera útil a la hora de discutir quién la escribió. En el versículo 4 incluso cambia el pronombre: de nosotros pasa a vosotros, con una construcción preposicional en lugar del caso habitual.",
+   "fuentes": [
+    "kis1p_02_a#12",
+    "kis1p_02_a#17"
+   ]
+  },
+  {
+   "titulo": "Las muchas formas de nombrar la salvación futura",
+   "texto": "Kistemaker, siguiendo a Foerster, muestra la variedad con que Pedro nombra lo que viene: esperanza viva (1:3), luz admirable (2:9), gracia de la vida (3:7), heredar bendición (3:9), corona de gloria (5:4) y gloria eterna (5:10). Ahora saboreamos la bondad de Dios; la plenitud se dará a conocer a su tiempo. La Biblia de estudio MacArthur, por su parte, describe el contenido de la herencia: vida, justicia, gozo, paz, la presencia de Dios y la compañía de Cristo, con el Espíritu como garantía (Ef 1:14).",
+   "fuentes": [
+    "kis1p_02_a#19",
+    "mbib1p_01_a#27"
+   ]
+  },
+  {
+   "titulo": "Esperanza que se cumple al morir",
+   "texto": "MacArthur señala que, para el creyente que muere, la esperanza se vuelve realidad al entrar en la presencia de Dios; por eso Pablo podía decir que morir es ganancia (Fil 1:21). Wiersbe une la esperanza viva al consuelo en el duelo (1Ts 4:13-18). Pedro mismo, más adelante, describe la meta como cielos nuevos y tierra nueva donde mora la justicia (2P 3:13).",
+   "fuentes": [
+    "mac1p_01_b#7",
+    "r1_006#12"
+   ]
+  },
+  {
+   "titulo": "Diez rasgos de la esperanza viva",
+   "texto": "La Biblia de estudio MacArthur enumera diez rasgos de la esperanza viva: viene de Dios, es don de gracia, la definen las Escrituras, es razonable, la asegura la resurrección, el Espíritu la confirma, defiende contra Satanás, se confirma en las pruebas, produce gozo y se cumple al regreso de Cristo.",
+   "fuentes": [
+    "mbib1p_01_a#26"
+   ]
+  }
+ ]
 }

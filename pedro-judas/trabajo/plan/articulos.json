@@ -1,0 +1,172 @@
+[
+ {
+  "id": "I1",
+  "grupo": "intro",
+  "titulo": "Antes de empezar: las cartas de Pedro, Juan y Judas",
+  "rango": "todos",
+  "libros": [],
+  "largo": "1.000 a 1.500",
+  "alcance": "qué son las epístolas generales (o «católicas»): por qué se llaman así, a quiénes se escribieron, su lugar en el Nuevo Testamento y en el canon (con las dudas antiguas sobre 2 Pedro, 2 y 3 Juan y Judas y cómo se resolvieron), qué tienen en común (sufrimiento, falsos maestros, verdad y amor, esperanza de la venida de Cristo) y cómo leerlas junto con Apocalipsis"
+ },
+ {
+  "id": "I2",
+  "grupo": "intro",
+  "titulo": "1 Pedro: autor, fecha, destinatarios y estructura",
+  "rango": "1P",
+  "libros": [
+   "1P"
+  ],
+  "largo": "1.200 a 1.800",
+  "alcance": "Pedro como autor (y el papel de Silvano, 5:12), dónde y cuándo escribió («Babilonia» = Roma; Nerón), los destinatarios «expatriados de la dispersión» en Ponto, Galacia, Capadocia, Asia y Bitinia (¿judíos o gentiles convertidos?), la situación de sufrimiento, el propósito y el bosquejo del libro"
+ },
+ {
+  "id": "I3",
+  "grupo": "intro",
+  "titulo": "2 Pedro: autor, fecha, autenticidad y estructura",
+  "rango": "2P",
+  "libros": [
+   "2P"
+  ],
+  "largo": "1.200 a 1.800",
+  "alcance": "quién la escribió y el debate sobre su autenticidad (estilo distinto de 1 Pedro, aceptación tardía en el canon, la respuesta de los autores evangélicos), la fecha poco antes de la muerte de Pedro (1:14), los destinatarios (3:1), su relación con Judas, el propósito (los falsos maestros y los burladores) y el bosquejo"
+ },
+ {
+  "id": "I4",
+  "grupo": "intro",
+  "titulo": "Las cartas de Juan: autor, ocasión y estructura",
+  "rango": "1J 1:1-3J 15",
+  "libros": [
+   "1J",
+   "2J",
+   "3J"
+  ],
+  "largo": "1.200 a 1.800",
+  "alcance": "Juan el apóstol como «el anciano», la relación con el Evangelio de Juan, la fecha y el lugar (Éfeso, fines del siglo I), la ocasión: los que «salieron de nosotros» (2:19) y el error que enfrentan (gnosticismo incipiente, docetismo, Cerinto, según los autores), los destinatarios de 1 Juan, la «señora elegida» de 2 Juan, Gayo, Diótrefes y Demetrio en 3 Juan, y cómo está armada 1 Juan (estructura en espiral, propósitos de 1:3-4; 2:1; 5:13)"
+ },
+ {
+  "id": "I5",
+  "grupo": "intro",
+  "titulo": "Judas: autor, fecha, destinatarios y el uso de Enoc",
+  "rango": "Jd",
+  "libros": [
+   "Jd"
+  ],
+  "largo": "1.000 a 1.500",
+  "alcance": "Judas «hermano de Jacobo» y medio hermano del Señor, la fecha y los destinatarios, el propósito (contender por la fe), los «ciertos hombres» que se infiltraron, el estilo en tríadas, el uso de 1 Enoc y de la Asunción de Moisés (qué significa y qué no significa citar un libro no canónico), su lugar en el canon y el bosquejo"
+ },
+ {
+  "id": "P1",
+  "grupo": "panorama",
+  "titulo": "1 Pedro de un vistazo: esperanza viva para extranjeros que sufren",
+  "rango": "1P 1:1-5:14",
+  "libros": [
+   "1P"
+  ],
+  "largo": "1.000 a 1.500",
+  "alcance": "el hilo de la carta por sus tres partes (salvación y santidad, 1:1-2:10; sumisión y buena conducta, 2:11-3:12; sufrimiento y gloria, 3:13-5:14), las palabras clave (esperanza, gracia, sufrir, padecimientos, gloria) y cómo se conectan los días"
+ },
+ {
+  "id": "P2",
+  "grupo": "panorama",
+  "titulo": "2 Pedro de un vistazo: crecer, recordar y esperar",
+  "rango": "2P 1:1-3:18",
+  "libros": [
+   "2P"
+  ],
+  "largo": "900 a 1.300",
+  "alcance": "el hilo de la carta por sus tres capítulos (crecer en la fe y la palabra segura; los falsos maestros; el día del Señor), el énfasis en el conocimiento (epígnosis) y en recordar, y cómo se conectan los días"
+ },
+ {
+  "id": "P3",
+  "grupo": "panorama",
+  "titulo": "1 Juan de un vistazo: las pruebas de la vida eterna",
+  "rango": "1J 1:1-5:21",
+  "libros": [
+   "1J"
+  ],
+  "largo": "1.000 a 1.500",
+  "alcance": "cómo avanza la carta en espiral por sus tres partes (andar en la luz; permanecer como hijos de Dios; Dios es amor y la fe que vence), las pruebas que da Juan para saber que se tiene vida eterna (doctrinal: creer que Jesús es el Cristo venido en carne; moral: obedecer; social: amar a los hermanos) y las palabras clave (luz, amor, verdad, permanecer, saber, comunión)"
+ },
+ {
+  "id": "T1",
+  "grupo": "tema",
+  "titulo": "Sufrimiento y gloria",
+  "rango": "todos",
+  "libros": [
+   "1P",
+   "2P",
+   "1J",
+   "3J"
+  ],
+  "largo": "1.200 a 1.800",
+  "alcance": "por qué sufren los cristianos según 1 Pedro (por hacer el bien, por el nombre de Cristo, como prueba de la fe), cómo responder (no devolver mal, encomendarse al fiel Creador, gozarse, presentar defensa), Cristo como ejemplo y sustituto en su sufrimiento, la gloria que sigue, y el odio del mundo en 1 Juan"
+ },
+ {
+  "id": "T2",
+  "grupo": "tema",
+  "titulo": "Falsos maestros y apostasía: cómo reconocerlos",
+  "rango": "todos",
+  "libros": [
+   "2P",
+   "Jd",
+   "1J",
+   "2J",
+   "3J"
+  ],
+  "largo": "1.400 a 2.000",
+  "alcance": "quiénes eran los falsos maestros de 2 Pedro y Judas (libertinos, negadores del Señor y de su venida) y los anticristos de 1 y 2 Juan (negaban que Jesús es el Cristo venido en carne), sus rasgos (doctrina, conducta, motivación), los ejemplos del Antiguo Testamento (ángeles, diluvio, Sodoma, Caín, Balaam, Coré), qué es la apostasía según los autores, el debate sobre si los apóstatas fueron creyentes verdaderos, y cómo deben responder los creyentes (probar los espíritus, no recibirlos, edificarse, tener misericordia)"
+ },
+ {
+  "id": "T3",
+  "grupo": "tema",
+  "titulo": "Verdad, amor y obediencia: la seguridad de la salvación",
+  "rango": "todos",
+  "libros": [
+   "1J",
+   "2J",
+   "3J",
+   "2P",
+   "Jd"
+  ],
+  "largo": "1.200 a 1.800",
+  "alcance": "el amor y la verdad juntos en las cartas de Juan, el mandamiento antiguo y nuevo, obedecer como señal de conocer a Dios, la seguridad de la vida eterna (1J 5:13), «procurad hacer firme vuestra vocación y elección» (2P 1:10), «al que es poderoso para guardaros» (Jd 24), la hospitalidad y la comunión, y cómo los autores relacionan seguridad, perseverancia y fe"
+ },
+ {
+  "id": "T4",
+  "grupo": "tema",
+  "titulo": "La segunda venida, el día del Señor y el fin",
+  "rango": "todos",
+  "libros": [
+   "2P",
+   "1P",
+   "1J",
+   "Jd"
+  ],
+  "largo": "1.200 a 1.800",
+  "alcance": "la esperanza de la venida de Cristo en estas cartas (1P 1:7, 13; 4:7; 5:4; 1J 2:28-3:3; Jd 14-15, 21), los burladores y la paciencia de Dios (2P 3:3-9), el día del Señor y la disolución de los elementos (2P 3:10-12: aniquilación o renovación, según los autores), cielos nuevos y tierra nueva (2P 3:13), «el último tiempo» y el anticristo (1J 2:18), cómo se conectan con Apocalipsis y cómo vivir mientras tanto; las escuelas escatológicas se presentan sin tomar partido"
+ },
+ {
+  "id": "T5",
+  "grupo": "tema",
+  "titulo": "Pasajes discutidos: los espíritus encarcelados, el pecado del creyente y el pecado de muerte",
+  "rango": "todos",
+  "libros": [
+   "1P",
+   "1J"
+  ],
+  "largo": "1.400 a 2.000",
+  "alcance": "1 Pedro 3:18-22 y 4:6 (Cristo y los espíritus encarcelados, el bautismo que salva: las posturas que presentan los autores), 1 Juan 1:8-10 frente a 3:6-9 (¿el creyente no peca?: presente continuo, perfeccionismo y la lectura wesleyana del Beacon frente a las reformadas), el pecado de muerte (1J 5:16-17) y el texto de los tres testigos (1J 5:7-8, la «coma joánica»), siempre con quién sostiene qué"
+ },
+ {
+  "id": "T6",
+  "grupo": "tema",
+  "titulo": "Extranjeros y peregrinos: la iglesia, el hogar, el Estado y el trabajo",
+  "rango": "todos",
+  "libros": [
+   "1P",
+   "3J"
+  ],
+  "largo": "1.000 a 1.500",
+  "alcance": "la identidad del cristiano como extranjero y peregrino, el pueblo de Dios como piedras vivas y real sacerdocio, la sumisión a las autoridades, los siervos ante amos difíciles, esposas y maridos (1P 3:1-7), los ancianos y el rebaño (1P 5:1-4), los dones al servicio de otros (1P 4:10-11) y la hospitalidad con los obreros (3 Juan): qué enseñan los autores y cómo aplicarlo hoy como matrimonio"
+ }
+]

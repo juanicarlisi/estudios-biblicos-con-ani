@@ -1,147 +1,381 @@
 {
-  "id": "T2",
-  "titulo": "Falsos maestros y apostasía: cómo reconocerlos",
-  "bajada": "Quiénes eran los que perturbaban a las iglesias de Pedro, Juan y Judas, cómo se los reconoce y qué les pide Dios a los creyentes frente a ellos.",
-  "entrada": {
-    "texto": "Cuatro de las seis cartas de este estudio dedican muchas páginas a gente que estaba dentro de la iglesia y la desarmaba desde adentro. Pedro anuncia que «habrá entre vosotros falsos maestros», Judas dice que ya «han entrado encubiertamente» y Juan los llama anticristos y engañadores. MacArthur observa que Judas es el único libro del Nuevo Testamento dedicado por completo a enfrentar la apostasía, la deserción de la fe bíblica. Acá juntamos lo que dicen las cinco cartas: quiénes eran, cómo se los reconoce y qué hacemos nosotros.",
-    "fuentes": ["mbibjd_01_a#7", "rich1j_01_a#5", "macjd_01_b#8"]
+ "id": "T2",
+ "titulo": "Falsos maestros y apostasía: cómo reconocerlos",
+ "bajada": "Quiénes eran los que perturbaban a las iglesias de Pedro, Juan y Judas, cómo se los reconoce y qué les pide Dios a los creyentes frente a ellos.",
+ "entrada": {
+  "texto": "Cuatro de las seis cartas de este estudio dedican muchas páginas a gente que estaba dentro de la iglesia y la desarmaba desde adentro. Pedro anuncia que «habrá entre vosotros falsos maestros», Judas dice que ya «han entrado encubiertamente» y Juan los llama anticristos y engañadores. MacArthur observa que Judas es el único libro del Nuevo Testamento dedicado por completo a enfrentar la apostasía, la deserción de la fe bíblica. Acá juntamos lo que dicen las cinco cartas: quiénes eran, cómo se los reconoce y qué hacemos nosotros.",
+  "fuentes": [
+   "mbibjd_01_a#7",
+   "rich1j_01_a#5",
+   "macjd_01_b#8"
+  ]
+ },
+ "versiculos": [
+  {
+   "ref": "2P 2:1",
+   "porque": "Vienen de adentro, entran a escondidas y niegan al Señor."
   },
-  "versiculos": [
-    {"ref": "2P 2:1", "porque": "Vienen de adentro, entran a escondidas y niegan al Señor."},
-    {"ref": "Jd 4", "porque": "Convierten la gracia en libertinaje y niegan a Cristo."},
-    {"ref": "1J 2:19", "porque": "Estuvieron con nosotros, pero no eran de nosotros."},
-    {"ref": "1J 4:1-3", "porque": "La prueba: confesar a Jesucristo venido en carne."},
-    {"ref": "2J 10-11", "porque": "No abrirles la casa a los que traen otra doctrina."},
-    {"ref": "Jd 20-23", "porque": "Edificarse, orar, conservarse en el amor de Dios y tener misericordia."}
-  ],
-  "apartados": [
+  {
+   "ref": "Jd 4",
+   "porque": "Convierten la gracia en libertinaje y niegan a Cristo."
+  },
+  {
+   "ref": "1J 2:19",
+   "porque": "Estuvieron con nosotros, pero no eran de nosotros."
+  },
+  {
+   "ref": "1J 4:1-3",
+   "porque": "La prueba: confesar a Jesucristo venido en carne."
+  },
+  {
+   "ref": "2J 10-11",
+   "porque": "No abrirles la casa a los que traen otra doctrina."
+  },
+  {
+   "ref": "Jd 20-23",
+   "porque": "Edificarse, orar, conservarse en el amor de Dios y tener misericordia."
+  }
+ ],
+ "apartados": [
+  {
+   "titulo": "Dos frentes con un mismo aire de familia",
+   "parrafos": [
     {
-      "titulo": "Dos frentes con un mismo aire de familia",
-      "parrafos": [
-        {
-          "texto": "En 2 Pedro y Judas el problema es sobre todo de conducta. Kistemaker los retrata a partir de Judas: se infiltraron, convierten la gracia en libertinaje, niegan a Jesús como único Soberano y Señor, desprecian toda autoridad, se guían por el instinto, son manchas en las comidas fraternas, murmuran, se jactan, buscan su provecho y dividen. MacArthur suma lo que dice Pedro: tuercen las Escrituras, incluso a Pablo, siguen fábulas inventadas y se burlan de la segunda venida y del juicio. Según el Nuevo Comentario Bíblico, quien le da lugar a sus deseos se burla de cualquier motivo para vivir con nobleza: por eso preguntan «¿Dónde está la promesa de su advenimiento?».",
-          "fuentes": ["kisjd_01_a#7", "mac2p_01_a#34", "ncb2p_01_b#19"]
-        },
-        {
-          "texto": "En 1 y 2 Juan el ataque apunta a la persona de Cristo. Los adversarios pensaban que la materia es mala, y de ahí sacaban que el Hijo de Dios no pudo tomar un cuerpo verdadero. MacArthur y el Comentario Moody distinguen dos variantes: la de quienes decían que el cuerpo de Jesús solo parecía real y la de Cerinto, que según Ireneo enseñaba que el Cristo bajó sobre el hombre Jesús en el bautismo y lo dejó antes de la cruz. Juan responde que él oyó, vio y palpó, y que el bautizado y el crucificado son la misma persona. Los dos frentes se tocan: Kistemaker muestra que los que negaban la doctrina de Cristo también decían no tener pecado y odiaban al hermano, y Bedford concluye que la doctrina falsa produce una moral pobre.",
-          "fuentes": ["mac1j_01#9", "mbib1j_01_a#8", "moodynt_02_a#28", "kis1j_01_b#14", "kis1j_01_b#8", "cbmh1j_02#40"]
-        }
-      ]
+     "texto": "En 2 Pedro y Judas el problema es sobre todo de conducta. Kistemaker los retrata a partir de Judas: se infiltraron, convierten la gracia en libertinaje, niegan a Jesús como único Soberano y Señor, desprecian toda autoridad, se guían por el instinto, son manchas en las comidas fraternas, murmuran, se jactan, buscan su provecho y dividen. MacArthur suma lo que dice Pedro: tuercen las Escrituras, incluso a Pablo, siguen fábulas inventadas y se burlan de la segunda venida y del juicio. Según el Nuevo Comentario Bíblico, quien le da lugar a sus deseos se burla de cualquier motivo para vivir con nobleza: por eso preguntan «¿Dónde está la promesa de su advenimiento?».",
+     "fuentes": [
+      "kisjd_01_a#7",
+      "mac2p_01_a#34",
+      "ncb2p_01_b#19"
+     ]
     },
     {
-      "titulo": "Cómo se los reconoce",
-      "parrafos": [
-        {
-          "texto": "Por lo que niegan: que Jesús es el Cristo venido en carne, su señorío y su regreso. El Nuevo Comentario Bíblico explica que «herejía» traduce una palabra que significa creencia escogida a propósito en lugar de la verdad revelada. Wiersbe aclara, para no ver falsos maestros en todas partes, que Apolos enseñó en forma incompleta y no era un falso maestro: este conoce la verdad y enseña mentira a sabiendas.",
-          "fuentes": ["ncb2p_01_b#2", "r1_007_a#12", "kis1j_03_b#7"]
-        },
-        {
-          "texto": "Por cómo viven. MacArthur nota que Judas casi no describe lo que enseñaban: le alcanza con mostrar su vida impía, como dice Jesús: «por sus frutos los conoceréis». Su enseñanza podía ser atractiva, pero eran «nubes sin agua» y «árboles otoñales, sin fruto, dos veces muertos». Deiros, siguiendo a Justo L. González, insiste en que el mal de Judas no era tanto la doctrina torcida como la práctica torcida: gente correcta en sus fórmulas que vivía como si el señorío de Cristo fuera opcional.",
-          "fuentes": ["macjd_01_a#9", "mbibjd_01_a#9", "macjd_01_a#10", "deirosjd_01_b#5"]
-        },
-        {
-          "texto": "Por lo que buscan. Pedro dice que «por avaricia harán mercadería de vosotros con palabras fingidas». Fuhrman, en el Comentario Beacon, señala que esa codicia puede ser de dinero o de seguidores, pero siempre es egocéntrica. McGee agrega que mezclan algo de verdad con el error, y eso los hace más peligrosos.",
-          "fuentes": ["bea2p_01_b#1", "mcg2p_02_a#16"]
-        },
-        {
-          "texto": "Por de dónde vienen: de adentro. MacArthur observa que los ataques de afuera suelen unir a la iglesia, mientras que los de adentro la dividen y la confunden. De los anticristos Juan dice: «Salieron de nosotros, pero no eran de nosotros»; Kistemaker deduce que habían sido miembros y volvían como maestros itinerantes para arrastrar a otros.",
-          "fuentes": ["macjd_01_b#8", "kis1j_01_b#6", "mbib23j_01_a#4"]
-        }
-      ]
-    },
-    {
-      "titulo": "El espejo del Antiguo Testamento",
-      "parrafos": [
-        {
-          "texto": "Pedro elige cuatro ejemplos, según Fuhrman tres de castigo y uno de rescate: los ángeles que pecaron, el diluvio con Noé guardado, Sodoma y Gomorra, y Lot librado. El juicio es seguro pero selectivo: «sabe el Señor librar de tentación a los piadosos, y reservar a los injustos para ser castigados en el día del juicio». Judas usa ejemplos parecidos, y Kistemaker muestra el paralelo casi punto por punto con 2 Pedro.",
-          "fuentes": ["bea2p_01_b#3", "kisjd_01_a#5"]
-        },
-        {
-          "texto": "Judas 11 suma un trío: «han seguido el camino de Caín, y se lanzaron por lucro en el error de Balaam, y perecieron en la contradicción de Coré». Kistemaker distingue los tres pecados: Caín rompió con Dios y odió a su hermano; Balaam amó el dinero y enseñó a hacer pecar a Israel; Coré cuestionó el liderazgo que Dios había puesto. Rose los llama un trío de rebeldes religiosos: el adorador, el profeta y el ministro.",
-          "fuentes": ["kisjd_02_a#5", "kisjd_02_a#6", "kisjd_02_a#7", "beajd_01_a#36"]
-        }
-      ]
-    },
-    {
-      "titulo": "Qué es la apostasía y quiénes caen en ella",
-      "parrafos": [
-        {
-          "texto": "Apostatar no es tropezar ni no haber oído nunca: es conocer el camino y abandonarlo. Kistemaker resume la paradoja: aceptan la gracia pero la usan como permiso para pecar, y dicen seguir a Cristo pero lo niegan. Deiros agrega que empieza en la voluntad: de la desobediencia se pasa a negar abiertamente al Señor. Pedro dice que para ellos «el postrer estado viene a ser peor que el primero», y Núñez explica que la responsabilidad crece con el conocimiento.",
-          "fuentes": ["kisjd_01_a#7", "deirosjd_02_a#16", "nunez2p_02_a#22"]
-        },
-        {
-          "texto": "¿Fueron alguna vez creyentes verdaderos? Acá los autores se separan. Kistemaker y MacArthur sostienen que no: tuvieron un conocimiento de Cristo solo intelectual, como Judas Iscariote, y Pedro nunca los llama creyentes; leen 2 Pedro 2:20-22 junto con 1 Juan 2:19. Fuhrman, en cambio, habla de pasar de la conversión a la reincidencia, y Deiros sostiene que alguien puede volverse tan impermeable a la gracia que el amor de Dios deje de significar algo para él, como Sansón y Saúl.",
-          "fuentes": ["kis2p_04_a#7", "kis2p_04_a#9", "mac2p_03_b#21", "bea2p_01_b#9", "deirosjd_03_b#12"]
-        },
-        {
-          "texto": "Todos comparten lo esencial: el pasaje es una advertencia seria para que los creyentes perseveren, y la seguridad no descansa en haber pasado por la iglesia sino en Cristo. Matthew Henry deja además una puerta abierta: al que le duele su desvío le dice que crea en el Señor Jesús y será salvo.",
-          "fuentes": ["moodynt_02_a#13", "mhenry_01_b#35"]
-        }
-      ]
-    },
-    {
-      "titulo": "Qué hacemos nosotros",
-      "parrafos": [
-        {
-          "texto": "Probar los espíritus, porque «muchos falsos profetas han salido por el mundo». Según el Nuevo Comentario Bíblico, la prueba es la actitud hacia la persona de Jesucristo venido en carne. Blaney aclara que los creyentes no dependen de una sabiduría secreta: la enseñanza apostólica del principio es la vara para medir todo lo que venga después.",
-          "fuentes": ["ncb1j_01_b#4", "bea1j_01_b#14"]
-        },
-        {
-          "texto": "No darles plataforma: si alguien no trae la doctrina de Cristo, «no lo recibáis en casa, ni le digáis: ¡Bienvenido!». Eran maestros itinerantes que vivían de la hospitalidad de las iglesias. Geisler y Howe muestran que esto no contradice el amor a los enemigos: no es negarle ayuda a una visita sino no apoyar a quien viene a difundir el error, y eso le dice que necesita arrepentirse.",
-          "fuentes": ["mbib23j_01_a#4", "r1_001#23", "cbmh23j_01_a#27"]
-        },
-        {
-          "texto": "Edificarse en la fe. Judas pide contender «por la fe que ha sido una vez dada a los santos», y MacArthur subraya que fue entregada una sola vez y con resultados permanentes. Kistemaker nota que mientras los infiltrados dividen, los amados se edifican unos a otros sobre esa fe, oran en el Espíritu Santo y se conservan en el amor de Dios.",
-          "fuentes": ["macjd_01_b#6", "kisjd_02_b#18", "kisjd_02_b#20"]
-        },
-        {
-          "texto": "Tener misericordia. Deiros explica que los que dudan son creyentes desconcertados que no saben a quién hacerle caso, y que con ellos corresponde misericordia, no un debate. MacArthur ve el método de Jesús: paciencia con los confundidos, advertencia clara a los comprometidos con el error y misericordia «con temor» hacia los más enredados.",
-          "fuentes": ["deirosjd_03_b#15", "kisjd_02_b#22", "macjd_02_b#16"]
-        }
-      ]
+     "texto": "En 1 y 2 Juan el ataque apunta a la persona de Cristo. Los adversarios pensaban que la materia es mala, y de ahí sacaban que el Hijo de Dios no pudo tomar un cuerpo verdadero. MacArthur y el Comentario Moody distinguen dos variantes: la de quienes decían que el cuerpo de Jesús solo parecía real y la de Cerinto, que según Ireneo enseñaba que el Cristo bajó sobre el hombre Jesús en el bautismo y lo dejó antes de la cruz. Juan responde que él oyó, vio y palpó, y que el bautizado y el crucificado son la misma persona. Los dos frentes se tocan: Kistemaker muestra que los que negaban la doctrina de Cristo también decían no tener pecado y odiaban al hermano, y Bedford concluye que la doctrina falsa produce una moral pobre.",
+     "fuentes": [
+      "mac1j_01#9",
+      "mbib1j_01_a#8",
+      "moodynt_02_a#28",
+      "kis1j_01_b#14",
+      "kis1j_01_b#8",
+      "cbmh1j_02#40"
+     ]
     }
-  ],
-  "palabras": [
-    {"ref": "Jd 4", "griego": "παρεισδύω", "translit": "pareisdýō", "significado": "Meterse a escondidas con mala intención; solo acá en el Nuevo Testamento.", "fuentes": ["macjd_01_b#8", "ncbjd_01#11"]},
-    {"ref": "2P 2:1", "griego": "αἵρεσις", "translit": "haíresis", "significado": "Creencia escogida en lugar de la verdad revelada.", "fuentes": ["ncb2p_01_b#2"]},
-    {"ref": "1J 2:18", "griego": "ἀντίχριστος", "translit": "antíjristos", "significado": "El que se opone a Cristo; solo Juan usa la palabra.", "fuentes": ["moodynt_02_c#8", "r1_020#12"]}
-  ],
-  "interpretaciones": [
+   ]
+  },
+  {
+   "titulo": "Cómo se los reconoce",
+   "parrafos": [
     {
-      "tema": "¿Eran gnósticos?",
-      "posturas": [
-        {"postura": "Una forma incipiente del gnosticismo del siglo II.", "quien": "Rose (Comentario Beacon); Bedford (Mundo Hispano)", "fuentes": ["beajd_01_a#3", "cbmh1j_01_a#7"]},
-        {"postura": "No: todo lo descrito ya existía en la era apostólica, como en Corinto.", "quien": "MacArthur; Deiros", "fuentes": ["mac2p_01_a#19", "deirosjd_01_a#14"]},
-        {"postura": "Quizá precursores; conviene leerlos en su propio contexto.", "quien": "Kistemaker, siguiendo a Bauckham", "fuentes": ["kisjd_02_b#15"]}
-      ],
-      "nota": "Todos coinciden en que negaban a Cristo y vivían sin freno moral."
+     "texto": "Por lo que niegan: que Jesús es el Cristo venido en carne, su señorío y su regreso. El Nuevo Comentario Bíblico explica que «herejía» traduce una palabra que significa creencia escogida a propósito en lugar de la verdad revelada. Wiersbe aclara, para no ver falsos maestros en todas partes, que Apolos enseñó en forma incompleta y no era un falso maestro: este conoce la verdad y enseña mentira a sabiendas.",
+     "fuentes": [
+      "ncb2p_01_b#2",
+      "r1_007_a#12",
+      "kis1j_03_b#7"
+     ]
     },
     {
-      "tema": "¿Quiénes son los de 2 Pedro 2:20-22?",
-      "posturas": [
-        {"postura": "Falsos maestros que nunca fueron creyentes verdaderos.", "quien": "Kistemaker; MacArthur", "fuentes": ["kis2p_01_b#16", "mac2p_03_b#21"]},
-        {"postura": "Personas convertidas que recayeron, con más culpa por tener más luz.", "quien": "Fuhrman (Comentario Beacon); Deiros", "fuentes": ["bea2p_01_b#9", "deirosjd_03_b#12"]}
-      ],
-      "nota": "Ambas lecturas lo toman como advertencia seria."
+     "texto": "Por cómo viven. MacArthur nota que Judas casi no describe lo que enseñaban: le alcanza con mostrar su vida impía, como dice Jesús: «por sus frutos los conoceréis». Su enseñanza podía ser atractiva, pero eran «nubes sin agua» y «árboles otoñales, sin fruto, dos veces muertos». Deiros, siguiendo a Justo L. González, insiste en que el mal de Judas no era tanto la doctrina torcida como la práctica torcida: gente correcta en sus fórmulas que vivía como si el señorío de Cristo fuera opcional.",
+     "fuentes": [
+      "macjd_01_a#9",
+      "mbibjd_01_a#9",
+      "macjd_01_a#10",
+      "deirosjd_01_b#5"
+     ]
+    },
+    {
+     "texto": "Por lo que buscan. Pedro dice que «por avaricia harán mercadería de vosotros con palabras fingidas». Fuhrman, en el Comentario Beacon, señala que esa codicia puede ser de dinero o de seguidores, pero siempre es egocéntrica. McGee agrega que mezclan algo de verdad con el error, y eso los hace más peligrosos.",
+     "fuentes": [
+      "bea2p_01_b#1",
+      "mcg2p_02_a#16"
+     ]
+    },
+    {
+     "texto": "Por de dónde vienen: de adentro. MacArthur observa que los ataques de afuera suelen unir a la iglesia, mientras que los de adentro la dividen y la confunden. De los anticristos Juan dice: «Salieron de nosotros, pero no eran de nosotros»; Kistemaker deduce que habían sido miembros y volvían como maestros itinerantes para arrastrar a otros.",
+     "fuentes": [
+      "macjd_01_b#8",
+      "kis1j_01_b#6",
+      "mbib23j_01_a#4"
+     ]
     }
-  ],
-  "citas": [],
-  "conexiones": [
-    {"ref": "Hch 20:29-30", "nota": "Pablo anunció que de entre los mismos ancianos surgirían lobos.", "fuentes": ["mbib1j_01_a#6", "mcg2p_02_a#16"]},
-    {"ref": "Dt 13:1-5", "nota": "Los falsos profetas de Israel, antecedente que Pedro tiene en mente.", "fuentes": ["bea2p_01_b#1", "ncb2p_01_b#2"]}
-  ],
-  "para_vivir": [
-    {"texto": "Preguntemos qué dice un maestro de Jesucristo y cómo vive: doctrina y vida van juntas.", "fuentes": ["r1_007_b#11", "mbibjd_01_a#9"]},
-    {"texto": "No toda diferencia es herejía: el que se equivoca por ignorancia necesita que le expliquen mejor.", "fuentes": ["r1_007_a#12"]},
-    {"texto": "La defensa de la fe empieza en casa: leer la Palabra, orar juntos y tener paciencia con el que duda.", "fuentes": ["kisjd_02_b#18", "deirosjd_03_b#15"]}
-  ],
-  "para_conversar": [
-    "¿Qué rasgo de los falsos maestros (doctrina, conducta o motivación) nos resultaría más fácil pasar por alto hoy?",
-    "¿Cómo distinguimos entre alguien que se equivoca por ignorancia y un falso maestro, y cómo cambia eso nuestra respuesta?",
-    "¿Conocemos a alguien que esté dudando por lo que oyó o leyó? ¿Cómo podríamos tenerle misericordia?"
-  ],
-  "dias_relacionados": [30, 31, 32, 33, 34, 35, 44, 50, 58, 62, 63, 64, 65, 67, 68],
-  "visuales": ["dg-falsos", "dg-2p-judas", "dg-espiritus"],
-  "refs_libros": ["2P 2:1-22", "2P 3:3-4", "1J 2:18-27", "1J 4:1-6", "2J 7-11", "Jd 3-23"],
-  "notas_no_usadas": ["dbmh_01_b#5", "r1_007_b#4", "cbmh1j_01_a#2", "mbib1j_01_a#7", "mbib1j_01_a#13", "mbib1j_01_a#10", "mac1j_01#10", "beajd_01_a#22", "beajd_01_a#32", "deirosjd_02_a#31", "kisjd_01_b#14", "mcg2p_02_b#4", "ncb2p_01_b#11", "cbmh1j_01_b#6", "moodynt_02_c#11", "moodynt_03_a#5", "ncb2p_01_b#16", "mac2p_04_a#1", "cbmh23j_01_a#7", "cbmh23j_01_a#8", "ncb23j_01#4", "ncb1j_01_a#25", "cbmh1j_02#2", "mhenry_02#7", "kis1j_01_b#10", "moodynt_03_b#2", "r1_017#22", "cbmh2p_01_b#6", "deirosjd_02_a#22"]
+   ]
+  },
+  {
+   "titulo": "El espejo del Antiguo Testamento",
+   "parrafos": [
+    {
+     "texto": "Pedro elige cuatro ejemplos, según Fuhrman tres de castigo y uno de rescate: los ángeles que pecaron, el diluvio con Noé guardado, Sodoma y Gomorra, y Lot librado. El juicio es seguro pero selectivo: «sabe el Señor librar de tentación a los piadosos, y reservar a los injustos para ser castigados en el día del juicio». Judas usa ejemplos parecidos, y Kistemaker muestra el paralelo casi punto por punto con 2 Pedro.",
+     "fuentes": [
+      "bea2p_01_b#3",
+      "kisjd_01_a#5"
+     ]
+    },
+    {
+     "texto": "Judas 11 suma un trío: «han seguido el camino de Caín, y se lanzaron por lucro en el error de Balaam, y perecieron en la contradicción de Coré». Kistemaker distingue los tres pecados: Caín rompió con Dios y odió a su hermano; Balaam amó el dinero y enseñó a hacer pecar a Israel; Coré cuestionó el liderazgo que Dios había puesto. Rose los llama un trío de rebeldes religiosos: el adorador, el profeta y el ministro.",
+     "fuentes": [
+      "kisjd_02_a#5",
+      "kisjd_02_a#6",
+      "kisjd_02_a#7",
+      "beajd_01_a#36"
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Qué es la apostasía y quiénes caen en ella",
+   "parrafos": [
+    {
+     "texto": "Apostatar no es tropezar ni no haber oído nunca: es conocer el camino y abandonarlo. Kistemaker resume la paradoja: aceptan la gracia pero la usan como permiso para pecar, y dicen seguir a Cristo pero lo niegan. Deiros agrega que empieza en la voluntad: de la desobediencia se pasa a negar abiertamente al Señor. Pedro dice que para ellos «el postrer estado viene a ser peor que el primero», y Núñez explica que la responsabilidad crece con el conocimiento.",
+     "fuentes": [
+      "kisjd_01_a#7",
+      "deirosjd_02_a#16",
+      "nunez2p_02_a#22"
+     ]
+    },
+    {
+     "texto": "¿Fueron alguna vez creyentes verdaderos? Acá los autores se separan. Kistemaker y MacArthur sostienen que no: tuvieron un conocimiento de Cristo solo intelectual, como Judas Iscariote, y Pedro nunca los llama creyentes; leen 2 Pedro 2:20-22 junto con 1 Juan 2:19. Fuhrman, en cambio, habla de pasar de la conversión a la reincidencia, y Deiros sostiene que alguien puede volverse tan impermeable a la gracia que el amor de Dios deje de significar algo para él, como Sansón y Saúl.",
+     "fuentes": [
+      "kis2p_04_a#7",
+      "kis2p_04_a#9",
+      "mac2p_03_b#21",
+      "bea2p_01_b#9",
+      "deirosjd_03_b#12"
+     ]
+    },
+    {
+     "texto": "Todos comparten lo esencial: el pasaje es una advertencia seria para que los creyentes perseveren, y la seguridad no descansa en haber pasado por la iglesia sino en Cristo. Matthew Henry deja además una puerta abierta: al que le duele su desvío le dice que crea en el Señor Jesús y será salvo.",
+     "fuentes": [
+      "moodynt_02_a#13",
+      "mhenry_01_b#35"
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Qué hacemos nosotros",
+   "parrafos": [
+    {
+     "texto": "Probar los espíritus, porque «muchos falsos profetas han salido por el mundo». Según el Nuevo Comentario Bíblico, la prueba es la actitud hacia la persona de Jesucristo venido en carne. Blaney aclara que los creyentes no dependen de una sabiduría secreta: la enseñanza apostólica del principio es la vara para medir todo lo que venga después.",
+     "fuentes": [
+      "ncb1j_01_b#4",
+      "bea1j_01_b#14"
+     ]
+    },
+    {
+     "texto": "No darles plataforma: si alguien no trae la doctrina de Cristo, «no lo recibáis en casa, ni le digáis: ¡Bienvenido!». Eran maestros itinerantes que vivían de la hospitalidad de las iglesias. Geisler y Howe muestran que esto no contradice el amor a los enemigos: no es negarle ayuda a una visita sino no apoyar a quien viene a difundir el error, y eso le dice que necesita arrepentirse.",
+     "fuentes": [
+      "mbib23j_01_a#4",
+      "r1_001#23",
+      "cbmh23j_01_a#27"
+     ]
+    },
+    {
+     "texto": "Edificarse en la fe. Judas pide contender «por la fe que ha sido una vez dada a los santos», y MacArthur subraya que fue entregada una sola vez y con resultados permanentes. Kistemaker nota que mientras los infiltrados dividen, los amados se edifican unos a otros sobre esa fe, oran en el Espíritu Santo y se conservan en el amor de Dios.",
+     "fuentes": [
+      "macjd_01_b#6",
+      "kisjd_02_b#18",
+      "kisjd_02_b#20"
+     ]
+    },
+    {
+     "texto": "Tener misericordia. Deiros explica que los que dudan son creyentes desconcertados que no saben a quién hacerle caso, y que con ellos corresponde misericordia, no un debate. MacArthur ve el método de Jesús: paciencia con los confundidos, advertencia clara a los comprometidos con el error y misericordia «con temor» hacia los más enredados.",
+     "fuentes": [
+      "deirosjd_03_b#15",
+      "kisjd_02_b#22",
+      "macjd_02_b#16"
+     ]
+    }
+   ]
+  }
+ ],
+ "palabras": [
+  {
+   "ref": "Jd 4",
+   "griego": "παρεισδύω",
+   "translit": "pareisdýō",
+   "significado": "Meterse a escondidas con mala intención; solo acá en el Nuevo Testamento.",
+   "fuentes": [
+    "macjd_01_b#8",
+    "ncbjd_01#11"
+   ]
+  },
+  {
+   "ref": "2P 2:1",
+   "griego": "αἵρεσις",
+   "translit": "haíresis",
+   "significado": "Creencia escogida en lugar de la verdad revelada.",
+   "fuentes": [
+    "ncb2p_01_b#2"
+   ]
+  },
+  {
+   "ref": "1J 2:18",
+   "griego": "ἀντίχριστος",
+   "translit": "antíjristos",
+   "significado": "El que se opone a Cristo; solo Juan usa la palabra.",
+   "fuentes": [
+    "moodynt_02_c#8",
+    "r1_020#12"
+   ]
+  }
+ ],
+ "interpretaciones": [
+  {
+   "tema": "¿Eran gnósticos?",
+   "posturas": [
+    {
+     "postura": "Una forma incipiente del gnosticismo del siglo II.",
+     "quien": "Rose (Comentario Beacon); Bedford (Mundo Hispano)",
+     "fuentes": [
+      "beajd_01_a#3",
+      "cbmh1j_01_a#7"
+     ]
+    },
+    {
+     "postura": "No: todo lo descrito ya existía en la era apostólica, como en Corinto.",
+     "quien": "MacArthur; Deiros",
+     "fuentes": [
+      "mac2p_01_a#19",
+      "deirosjd_01_a#14"
+     ]
+    },
+    {
+     "postura": "Quizá precursores; conviene leerlos en su propio contexto.",
+     "quien": "Kistemaker, siguiendo a Bauckham",
+     "fuentes": [
+      "kisjd_02_b#15"
+     ]
+    }
+   ],
+   "nota": "Todos coinciden en que negaban a Cristo y vivían sin freno moral."
+  },
+  {
+   "tema": "¿Quiénes son los de 2 Pedro 2:20-22?",
+   "posturas": [
+    {
+     "postura": "Falsos maestros que nunca fueron creyentes verdaderos.",
+     "quien": "Kistemaker; MacArthur",
+     "fuentes": [
+      "kis2p_01_b#16",
+      "mac2p_03_b#21"
+     ]
+    },
+    {
+     "postura": "Personas convertidas que recayeron, con más culpa por tener más luz.",
+     "quien": "Fuhrman (Comentario Beacon); Deiros",
+     "fuentes": [
+      "bea2p_01_b#9",
+      "deirosjd_03_b#12"
+     ]
+    }
+   ],
+   "nota": "Ambas lecturas lo toman como advertencia seria."
+  }
+ ],
+ "citas": [],
+ "conexiones": [
+  {
+   "ref": "Hch 20:29-30",
+   "nota": "Pablo anunció que de entre los mismos ancianos surgirían lobos.",
+   "fuentes": [
+    "mbib1j_01_a#6",
+    "mcg2p_02_a#16"
+   ]
+  },
+  {
+   "ref": "Dt 13:1-5",
+   "nota": "Los falsos profetas de Israel, antecedente que Pedro tiene en mente.",
+   "fuentes": [
+    "bea2p_01_b#1",
+    "ncb2p_01_b#2"
+   ]
+  }
+ ],
+ "para_vivir": [
+  {
+   "texto": "Preguntemos qué dice un maestro de Jesucristo y cómo vive: doctrina y vida van juntas.",
+   "fuentes": [
+    "r1_007_b#11",
+    "mbibjd_01_a#9"
+   ]
+  },
+  {
+   "texto": "No toda diferencia es herejía: el que se equivoca por ignorancia necesita que le expliquen mejor.",
+   "fuentes": [
+    "r1_007_a#12"
+   ]
+  },
+  {
+   "texto": "La defensa de la fe empieza en casa: leer la Palabra, orar juntos y tener paciencia con el que duda.",
+   "fuentes": [
+    "kisjd_02_b#18",
+    "deirosjd_03_b#15"
+   ]
+  }
+ ],
+ "para_conversar": [
+  "¿Qué rasgo de los falsos maestros (doctrina, conducta o motivación) nos resultaría más fácil pasar por alto hoy?",
+  "¿Cómo distinguimos entre alguien que se equivoca por ignorancia y un falso maestro, y cómo cambia eso nuestra respuesta?",
+  "¿Conocemos a alguien que esté dudando por lo que oyó o leyó? ¿Cómo podríamos tenerle misericordia?"
+ ],
+ "dias_relacionados": [
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  44,
+  50,
+  58,
+  62,
+  63,
+  64,
+  65,
+  67,
+  68,
+  69
+ ],
+ "visuales": [
+  "dg-falsos",
+  "dg-2p-judas",
+  "dg-espiritus"
+ ],
+ "refs_libros": [
+  "2P 2:1-22",
+  "2P 3:3-4",
+  "1J 2:18-27",
+  "1J 4:1-6",
+  "2J 7-11",
+  "Jd 3-23"
+ ],
+ "notas_no_usadas": [
+  "dbmh_01_b#5",
+  "r1_007_b#4",
+  "cbmh1j_01_a#2",
+  "mbib1j_01_a#7",
+  "mbib1j_01_a#13",
+  "mbib1j_01_a#10",
+  "mac1j_01#10",
+  "beajd_01_a#22",
+  "beajd_01_a#32",
+  "deirosjd_02_a#31",
+  "kisjd_01_b#14",
+  "mcg2p_02_b#4",
+  "ncb2p_01_b#11",
+  "cbmh1j_01_b#6",
+  "moodynt_02_c#11",
+  "moodynt_03_a#5",
+  "ncb2p_01_b#16",
+  "mac2p_04_a#1",
+  "cbmh23j_01_a#7",
+  "cbmh23j_01_a#8",
+  "ncb23j_01#4",
+  "ncb1j_01_a#25",
+  "cbmh1j_02#2",
+  "mhenry_02#7",
+  "kis1j_01_b#10",
+  "moodynt_03_b#2",
+  "r1_017#22",
+  "cbmh2p_01_b#6",
+  "deirosjd_02_a#22"
+ ]
 }

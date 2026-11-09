@@ -11,7 +11,7 @@
     "antes": "Ayer apareció la gran señal en el cielo: la mujer a punto de dar a luz y, frente a ella, el gran dragón escarlata, que el propio texto identifica en 12:9 con el diablo y Satanás (McGee, Ladd, Beasley-Murray).",
     "ahora": "El dragón muestra su poder, se planta delante de la mujer para devorar al niño apenas nazca y fracasa dos veces: el Hijo es llevado al trono de Dios y la mujer encuentra en el desierto un lugar preparado por Dios.",
     "donde": "Según Ladd, la escena sigue en el cielo; la tierra entra en la visión recién en el versículo 9. Carballosa remarca que el texto no dice dónde queda el desierto.",
-    "cuando": "Depende de la lectura: para Larkin, MacArthur, Carballosa y Guzik, entre el versículo 5 y el 6 se abre toda la era de la iglesia; para Ladd y el Comentario Mundo Hispano, los 1.260 días son el período del mal que vive la iglesia (ver Interpretaciones).",
+    "cuando": "Depende de la lectura: para Larkin, MacArthur, Carballosa y Guzik, entre el versículo 5 y el 6 se abre la era de la iglesia; para Ladd y el Comentario Mundo Hispano, los 1.260 días son el período del mal (ver Interpretaciones).",
     "despues": "Mañana empieza la guerra en el cielo (12:7-9): Miguel y sus ángeles contra el dragón y los suyos. Carballosa ve allí a las mismas estrellas de hoy, y Larkin entiende que la huida de 12:6 se menciona por anticipación.",
     "fuentes": [
       "mcgeer_08#21",
@@ -97,15 +97,6 @@
             "ladd_05_a#11"
           ],
           "tipo": "explicacion_texto"
-        },
-        {
-          "texto": "Carballosa, MacArthur y Larkin releen así el Antiguo Testamento: Caín contra Abel (1 Jn 3:12), el decreto de Faraón (frustrado por las parteras Sifra y Fúa), Saúl contra David, Atalía matando a la descendencia real mientras Joás quedaba escondido en el templo (2 Cr 22:10-12) y el plan de Amán (Est 3-9). Ver en cada hecho un ataque de Satanás al linaje del Mesías es lectura de estos autores.",
-          "fuentes": [
-            "carballosa_09_b#2",
-            "macarthur_10#29",
-            "larkin_03_b#11"
-          ],
-          "tipo": "contexto_historico"
         }
       ]
     },
@@ -193,14 +184,6 @@
             "cbmh_06_a#15"
           ],
           "tipo": "teologia_doctrina"
-        },
-        {
-          "texto": "McGee observa que en los Evangelios el énfasis está en la muerte de Cristo, en las Epístolas en su resurrección y en el Apocalipsis en su ascensión. Según él, protestantes y fundamentalistas han descuidado la ascensión y, con ella, el ministerio presente de Cristo, que no está sentado sin hacer nada (He 12:2).",
-          "fuentes": [
-            "mcgee_07_b#9",
-            "mcgeer_08#25"
-          ],
-          "tipo": "teologia_doctrina"
         }
       ]
     },
@@ -219,12 +202,13 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "El desierto, según la mayoría de los estudiosos que resume el Comentario Mundo Hispano, es lugar de disciplina, prueba y seguridad a la vez. Carballosa recuerda que allí Dios sustentó a Israel después de sacarlo de Egipto; MacArthur compara el sustento de 12:6 con aquellos cuarenta años. Carballosa cree que Dios usará medios, probablemente humanos, para alimentarla.",
+          "texto": "El desierto, según la mayoría de los estudiosos que resume el Comentario Mundo Hispano, es lugar de disciplina, prueba y seguridad a la vez. Carballosa recuerda que allí Dios sustentó a Israel después de sacarlo de Egipto; MacArthur compara el sustento de 12:6 con aquellos cuarenta años. Carballosa cree que Dios usará medios, probablemente humanos, para alimentarla. Lennox suma otro eco: David huyendo de Saúl.",
           "fuentes": [
             "cbmh_06_a#15",
             "carballosa_09_b#6",
             "carballosa_09_b#7",
-            "macarthur_10#32"
+            "macarthur_10#32",
+            "r4_460_10_a#8"
           ],
           "tipo": "simbolo_numero"
         },
@@ -243,14 +227,15 @@
       "titulo": "«Por mil doscientos sesenta días»",
       "notas": [
         {
-          "texto": "Los 1.260 días equivalen a cuarenta y dos meses, a tres años y medio y a un tiempo, tiempos y la mitad de un tiempo (11:2-3; 12:14; 13:5), el período de los dos testigos y del dominio de la bestia (Carballosa). Larkin advierte que muchos se extravían al suponer que la mujer huye apenas nace el niño: para él y para Guzik, entre los versículos 5 y 6 se abre la era de la iglesia, una pausa típica de la profecía. Ladd y el Comentario Mundo Hispano leen los tres años y medio como el período simbólico del mal: aun en la tribulación más grave, Dios preserva a su pueblo (ver Interpretaciones).",
+          "texto": "Los 1.260 días equivalen a cuarenta y dos meses, a tres años y medio y a un tiempo, tiempos y la mitad de un tiempo (11:2-3; 12:14; 13:5), el período de los dos testigos y del dominio de la bestia (Carballosa). Para Larkin y Guzik, entre los versículos 5 y 6 se abre la era de la iglesia; el Comentario Moody, con Weidner y Walter Scott, también ve el versículo 6 como un adelanto del fin. Ladd y el Comentario Mundo Hispano leen los tres años y medio como el período simbólico del mal: aun en la tribulación más grave, Dios preserva a su pueblo (ver Interpretaciones).",
           "fuentes": [
             "carballosa_09_b#8",
             "larkin_03_b#15",
             "web_04_b#7",
             "ladd_05_a#13",
             "cbmh_06_a#15",
-            "mbiblia_02_a#27"
+            "mbiblia_02_a#27",
+            "r4_225_02_a#16"
           ],
           "tipo": "cronologia_fechas"
         }
@@ -297,21 +282,6 @@
       "fuentes": [
         "cbmh_06_a#15",
         "carballosa_09_b#6"
-      ]
-    },
-    {
-      "signo": "1.260 días",
-      "significado": "Tres años y medio: para Carballosa, MacArthur y Larkin, la segunda mitad de la semana setenta de Daniel; para Ladd, el período simbólico del mal.",
-      "refs": [
-        "12:6",
-        "11:3",
-        "13:5"
-      ],
-      "fuentes": [
-        "carballosa_09_b#8",
-        "mbiblia_02_a#27",
-        "larkin_03_b#15",
-        "ladd_05_a#13"
       ]
     }
   ],
@@ -430,6 +400,15 @@
         "macarthur_10#31",
         "carballosa_09_b#5"
       ]
+    },
+    {
+      "texto": "Lennox contrasta dos hombres: en el trono, el Hombre perfecto que es Dios, que gobernará con rectitud sin mancha; en la tierra, el monstruo que vendrá, una perversión de lo humano. Antes de mirar lo que viene, dice, conviene llenar la mente con el triunfo del Dios-Hombre.",
+      "refs": [
+        "12:5"
+      ],
+      "fuentes": [
+        "r4_460_10_a#6"
+      ]
     }
   ],
   "interpretaciones": [
@@ -438,14 +417,16 @@
       "posturas": [
         {
           "postura": "Los ángeles que se unieron a la rebelión original de Satanás, antes de Génesis 3, y se volvieron demonios.",
-          "quien": "MacArthur y Mayhue (Teología sistemática), la Biblia de estudio MacArthur, el Diccionario Mundo Hispano, Geisler y Brooks; Earle dice que era la lectura de los antiguos intérpretes",
+          "quien": "MacArthur y Mayhue (Teología sistemática), la Biblia de estudio MacArthur, el Diccionario Mundo Hispano, Geisler y Brooks; Earle dice que era la lectura de los antiguos intérpretes; Hitchcock y Jeremiah",
           "fuentes": [
             "r2_036#8",
             "r1_034#18",
             "mbiblia_02_a#25",
             "dbmh_02#15",
             "r2_001_b#1",
-            "beacon_04_a#15"
+            "beacon_04_a#15",
+            "r4_442_03_b#8",
+            "r4_454_01#14"
           ]
         },
         {
@@ -470,6 +451,13 @@
             "beacon_04_a#15",
             "henry_02_a#9"
           ]
+        },
+        {
+          "postura": "La persecución y la seducción de ministros y maestros por el dragón, que en aquella época era la Roma pagana.",
+          "quien": "Matthew Henry",
+          "fuentes": [
+            "r4_2_01_b#12"
+          ]
         }
       ],
       "nota": "Lo que todos comparten: el dragón tiene un poder enorme, pero no es Dios."
@@ -479,7 +467,7 @@
       "posturas": [
         {
           "postura": "Cristo, por la cita del Salmo 2:9; Larkin y McGee rechazan que sea la iglesia, porque el Hijo sube al trono donde ya está sentado.",
-          "quien": "MacArthur, McGee, Larkin, Carballosa (premileniales dispensacionales); Ladd y Beasley-Murray (premileniales históricos); Earle (Beacon); Guzik; Lockyer",
+          "quien": "MacArthur, McGee, Larkin, Carballosa (premileniales dispensacionales); Ladd y Beasley-Murray (premileniales históricos); Earle (Beacon); Guzik; Lockyer; Walvoord; Lennox; el Comentario Moody",
           "fuentes": [
             "macarthur_10#31",
             "mcgee_07_b#8",
@@ -489,7 +477,10 @@
             "henry_02_a#9",
             "beacon_04_a#16",
             "web_04_b#6",
-            "r2_014#13"
+            "r2_014#13",
+            "r4_450_03#5",
+            "r4_460_09_b#27",
+            "r4_225_02_a#15"
           ]
         },
         {
@@ -498,6 +489,13 @@
           "fuentes": [
             "r1_010#15",
             "larkin_03_b#14"
+          ]
+        },
+        {
+          "postura": "Los creyentes fieles, arrebatados antes de la tribulación (rapto parcial); la mujer sería la iglesia y «el resto de la descendencia» (12:17), los que quedan. G. H. Lang hace de este capítulo la clave de todo el libro.",
+          "quien": "G. H. Lang y los rapturistas parciales, según Walvoord, que responde que la lectura obvia es Israel y Cristo, y que nada justifica introducir aquí a la iglesia",
+          "fuentes": [
+            "r4_450_03#5"
           ]
         }
       ],
@@ -533,14 +531,17 @@
       "posturas": [
         {
           "postura": "Israel, perseguido por el anticristo en la segunda mitad de la semana setenta de Daniel; entre los versículos 5 y 6 está la era de la iglesia.",
-          "quien": "Larkin, MacArthur, Carballosa, McGee y Guzik (premileniales dispensacionales)",
+          "quien": "Larkin, MacArthur, Carballosa, McGee y Guzik (premileniales dispensacionales); también ven a Israel en la tribulación final Dyer, Lennox y el Comentario Moody",
           "fuentes": [
             "larkin_03_b#15",
             "macarthur_10#32",
             "carballosa_09_b#6",
             "carballosa_09_b#8",
             "mcgee_07_b#11",
-            "web_04_b#7"
+            "web_04_b#7",
+            "r4_453_01#17",
+            "r4_460_10_a#8",
+            "r4_225_02_a#16"
           ]
         },
         {
@@ -608,6 +609,13 @@
       ]
     },
     {
+      "ref": "Jer 30:7",
+      "nota": "El «tiempo de angustia para Jacob»: Dyer lo identifica con la segunda mitad de la tribulación, cuando la mujer de 12:6 huye al desierto.",
+      "fuentes": [
+        "r4_453_01#17"
+      ]
+    },
+    {
       "ref": "Mt 24:15-21",
       "nota": "La abominación desoladora y la orden de huir a los montes: los dispensacionales lo ligan con la huida de 12:6.",
       "fuentes": [
@@ -644,12 +652,6 @@
       "fuentes": [
         "mcgee_07_b#9"
       ]
-    },
-    {
-      "texto": "En esta guerra no hay neutrales (MacArthur, con Mt 12:30): revisen de qué lado están las decisiones de su casa.",
-      "fuentes": [
-        "macarthur_10#17"
-      ]
     }
   ],
   "para_conversar": [
@@ -671,10 +673,21 @@
   "profundizar": [
     {
       "titulo": "Larkin: la historia de los ataques contra la simiente",
-      "texto": "Larkin hace un recorrido largo desde Génesis 3:14-15: Caín y Abel, el diluvio, la embriaguez de Noé, Babel, la esterilidad de Sara y de Rebeca, Moriah, Esaú y Jacob, el niño Moisés, Joram, Atalía y Joás, Amán. En el Nuevo Testamento sigue con Herodes, el pináculo del templo, el precipicio de Nazaret, las tormentas del mar de Galilea, Judas, Getsemaní, Pilato y la guardia del sepulcro. Conjetura además que Satanás disputó la ascensión, y que la historia de la iglesia es una larga historia de ese conflicto (1 Ts 2:18). Él mismo marca varias de estas atribuciones como opinión.",
+      "texto": "Larkin hace un recorrido largo desde Génesis 3:14-15: Caín y Abel, el diluvio, la embriaguez de Noé, Babel, la esterilidad de Sara y de Rebeca, Moriah, Esaú y Jacob, el niño Moisés, Joram, Atalía y Joás, Amán. En el Nuevo Testamento sigue con Herodes, el pináculo del templo, el precipicio de Nazaret, las tormentas del mar de Galilea, Judas, Getsemaní, Pilato y la guardia del sepulcro. Conjetura además que Satanás disputó la ascensión, y que la historia de la iglesia es una larga historia de ese conflicto (1 Ts 2:18). Él mismo marca varias de estas atribuciones como opinión. Carballosa y MacArthur hacen un recorrido parecido (Caín y Abel, las parteras Sifra y Fúa, Atalía y Joás, Amán); ver en cada hecho un ataque al linaje del Mesías es lectura de estos autores.",
       "fuentes": [
         "larkin_03_b#11",
-        "larkin_03_b#12"
+        "larkin_03_b#12",
+        "carballosa_09_b#2",
+        "macarthur_10#29",
+        "larkin_03_b#11"
+      ]
+    },
+    {
+      "titulo": "McGee: la ascensión olvidada",
+      "texto": "McGee observa que en los Evangelios el énfasis está en la muerte de Cristo, en las Epístolas en su resurrección y en el Apocalipsis en su ascensión. Según él, protestantes y fundamentalistas han descuidado la ascensión y, con ella, el ministerio presente de Cristo, que no está sentado sin hacer nada (He 12:2).",
+      "fuentes": [
+        "mcgee_07_b#9",
+        "mcgeer_08#25"
       ]
     },
     {
@@ -689,6 +702,14 @@
       "texto": "Beasley-Murray recuerda que griegos y egipcios contaban historias parecidas sobre el nacimiento de un dios niño perseguido. Según él, Juan usó una narración conocida para excluir a esos héroes del puesto de redentor universal: el mensaje no es pagano ni judío, sino cristiano de punta a punta.",
       "fuentes": [
         "henry_02_a#8"
+      ]
+    },
+    {
+      "titulo": "Lennox y Nicholl: ¿una señal en el cielo nocturno?",
+      "texto": "Lennox comenta la propuesta de Colin Nicholl (El gran cometa de Cristo): la señal aludiría a la constelación de Virgo, con doce estrellas visibles sobre la cabeza, y el dragón sería la Hidra; esa configuración con el sol y la luna se habría dado en el 6 a. C., cuando un cometa brillante habría “entrado” en el vientre de la figura. Lennox cita a Mark Bailey (Observatorio de Armagh), que considera sólidos los argumentos, pero lo presenta como lectura recomendable, no como clave del pasaje.",
+      "fuentes": [
+        "r4_460_10_a#4",
+        "r4_460_17_b#4"
       ]
     },
     {

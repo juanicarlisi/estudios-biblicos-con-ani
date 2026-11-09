@@ -8,7 +8,7 @@
     "estudio": 25
   },
   "contexto": {
-    "antes": "Ayer (5:1-4) nadie fue hallado digno de abrir el libro sellado, y Juan lloraba. Larkin descarta que fuera curiosidad frustrada: lloraba porque, si nadie abría ese libro, se perdía la esperanza de redención del hombre y de la tierra.",
+    "antes": "Ayer (5:1-4) nadie fue hallado digno de abrir el libro sellado, y Juan lloraba.",
     "ahora": "Un anciano le pide que no llore y le anuncia que el León de Judá ha vencido. Juan mira y ve un Cordero en pie, con las marcas de haber sido inmolado: una de las paradojas de Cristo (Beacon).",
     "donde": "En el cielo, en medio del trono, de los cuatro seres vivientes y de los ancianos; según el Comentario Mundo Hispano, más cerca del trono que los seres vivientes.",
     "cuando": "La victoria que anuncia el anciano ya ocurrió: la muerte y la resurrección de Cristo (Carballosa, Ladd, Mundo Hispano). Lo que la escena prepara mira hacia adelante, y ahí los autores difieren (ver Interpretaciones).",
@@ -29,7 +29,7 @@
     "porque": "Son los dos versículos del día y no se entienden por separado: Juan oye hablar de un León y ve un Cordero. La persona es una sola, y el modo en que venció es la cruz."
   },
   "panorama": {
-    "texto": "Juan llora porque nadie puede abrir el libro, y un anciano le da la noticia que cambia todo: el León de la tribu de Judá, la raíz de David, ha vencido. Juan se da vuelta para ver un León y ve un Cordero, en pie pero con las marcas de su muerte, en el centro de la escena. No son dos personajes: el León es el Cordero. Las dos imágenes reúnen esperanzas del Antiguo Testamento que parecían no encajar (el rey de Judá, el retoño de David, el cordero de la Pascua, el siervo llevado al matadero) y muestran cómo venció Cristo: no con armas como las de Roma, sino muriendo y resucitando. Por eso es digno de abrir el libro.",
+    "texto": "Juan llora porque nadie puede abrir el libro, y un anciano le da la noticia que cambia todo: el León de la tribu de Judá, la raíz de David, ha vencido. Juan se da vuelta para ver un León y ve un Cordero, en pie pero con las marcas de su muerte, en el centro de la escena. No son dos personajes: el León es el Cordero. Las dos imágenes reúnen esperanzas del Antiguo Testamento que parecían no encajar y muestran cómo venció Cristo: no con armas como las de Roma, sino muriendo y resucitando. Por eso es digno de abrir el libro.",
     "fuentes": [
       "web_07#7",
       "web_16#22",
@@ -74,11 +74,10 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "¿Qué evocaba un león? En Palestina era el símbolo natural de la fuerza, y el Comentario Mundo Hispano cuenta que la literatura judía describía al Mesías como un león que vence al águila, es decir, a Roma. MacArthur habla de un gobernante fuerte, fiero y mortal, y observa que los judíos esperaban un Mesías que los librara de Roma: en parte por eso rechazaron a Jesús, que no buscó el poder político (Jn 6:15; 18:36). Trapp, citado por Guzik, ve en el león fuerza, espíritu heroico, principado y vigilancia.",
+          "texto": "¿Qué evocaba un león? En Palestina era el símbolo natural de la fuerza, y el Comentario Mundo Hispano cuenta que la literatura judía describía al Mesías como un león que vence al águila, es decir, a Roma. MacArthur habla de un gobernante fuerte, fiero y mortal, y observa que los judíos esperaban un Mesías que los librara de Roma: en parte por eso rechazaron a Jesús, que no buscó el poder político (Jn 6:15; 18:36).",
           "fuentes": [
             "cbmh_04#18",
-            "macarthur_05_b#17",
-            "web_08#13"
+            "macarthur_05_b#17"
           ],
           "tipo": "simbolo_numero"
         }
@@ -117,14 +116,15 @@
       "titulo": "«Ha vencido»: la victoria que lo hace digno",
       "notas": [
         {
-          "texto": "En griego el verbo va al principio de la frase, por énfasis, y mira a un hecho histórico (ver Palabras). ¿Qué victoria? Los autores coinciden: la cruz y la resurrección, donde Cristo derrotó a Satanás, al pecado y a la muerte, y libró del miedo a morir (He 2:14-15; Jn 12:31; Col 2:15). Ladd lo llama un gran misterio: Satanás no será destruido del todo hasta ser echado al lago de fuego, pero sus poderes ya fueron derrotados. Mundo Hispano subraya que no fue un triunfo con armas como las de Roma, y que Cristo lo comparte: sus seguidores también vencen (3:21). Wiersbe nota que es el mismo verbo de las promesas al vencedor de las siete cartas.",
+          "texto": "En griego el verbo va al principio de la frase, por énfasis, y mira a un hecho histórico (ver Palabras). ¿Qué victoria? Los autores coinciden: la cruz y la resurrección, donde Cristo derrotó a Satanás, al pecado y a la muerte, y libró del miedo a morir (He 2:14-15; Jn 12:31; Col 2:15). Ladd lo llama un gran misterio: Satanás no será destruido del todo hasta ser echado al lago de fuego, pero sus poderes ya fueron derrotados. Mundo Hispano subraya que no fue un triunfo con armas como las de Roma, y que Cristo lo comparte: sus seguidores también vencen (3:21). Wiersbe nota que es el mismo verbo de las promesas al vencedor de las siete cartas. Lennox agrega por qué hacía falta un Cordero: Dios mismo es digno de abrir el rollo, pero si lo abriera en su santidad sin un Cordero, el resultado sería el fin de la humanidad, porque todos pecaron (Ro 3:23).",
           "fuentes": [
             "carballosa_05_a#23",
             "beacon_03_a#22",
             "ladd_02_c#29",
             "macarthur_05_b#18",
             "cbmh_04#20",
-            "r1_024_b#9"
+            "r1_024_b#9",
+            "r4_460_07_a#26"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -177,14 +177,16 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "«Como inmolado» quiere decir que las marcas de su muerte siguen visibles (Biblia MacArthur); para McGee, las de una muerte sustitutiva, redentora y violenta. Ladd aclara que apuntan a su sacrificio, no a debilidad. Y está «en pie»: ningún cordero inmolado había podido quedar de pie; este resucitó con poder, y Juan lo reconoce como vencedor justamente por sus marcas. No es un cordero blando y pasivo, sino uno que triunfa por haber sido inmolado (Mundo Hispano). Ladd lo resume con 1:18: murió y vive. McGee agrega que ya no está sentado: se mueve hacia el poder y hacia la tierra, listo para actuar como juez.",
+          "texto": "«Como inmolado» quiere decir que las marcas de su muerte siguen visibles (Biblia MacArthur); para McGee, las de una muerte sustitutiva, redentora y violenta. Ladd aclara que apuntan a su sacrificio, no a debilidad. Y está «en pie»: ningún cordero inmolado había podido quedar de pie; este resucitó con poder (Lennox recuerda que anástasis, resurrección, es literalmente volver a ponerse de pie), y Juan lo reconoce como vencedor justamente por sus marcas. No es un cordero blando y pasivo, sino uno que triunfa por haber sido inmolado (Mundo Hispano). Ladd lo resume con 1:18: murió y vive. Matthew Henry ve en las marcas que conserva la señal de que intercede en el cielo en virtud de su sacrificio. McGee agrega que ya no está sentado: se mueve hacia el poder y hacia la tierra, listo para actuar como juez.",
           "fuentes": [
             "mbiblia_01_c#2",
             "mcgee_04_b#12",
             "ladd_03_a#5",
             "cbmh_04#21",
             "carballosa_05_a#25",
-            "mcgeer_05#2"
+            "mcgeer_05#2",
+            "r4_460_07_a#24",
+            "r4_2_01_a#35"
           ],
           "tipo": "explicacion_texto"
         }
@@ -195,7 +197,7 @@
       "titulo": "«Siete cuernos, y siete ojos»",
       "notas": [
         {
-          "texto": "En el Antiguo Testamento el cuerno es símbolo de fuerza (Dt 33:17; 1 S 2:1, 10; Sal 18:2), y el siete indica plenitud: siete cuernos son poder completo, la omnipotencia del Cordero (Carballosa, MacArthur, Ladd, McGee). A diferencia de cualquier otro cordero, este no es indefenso (Biblia MacArthur). Ladd lo une a las palabras de Jesús: toda autoridad le fue dada (Mt 28:18). Los siete ojos son conocimiento perfecto, y para Carballosa también control de los acontecimientos; el trasfondo es Zacarías 4:10. Guzik concluye que este Cordero no es objeto de lástima.",
+          "texto": "En el Antiguo Testamento el cuerno es símbolo de fuerza (Dt 33:17; 1 S 2:1, 10; Sal 18:2), y el siete indica plenitud: siete cuernos son poder completo, la omnipotencia del Cordero (Carballosa, MacArthur, Ladd, McGee). A diferencia de cualquier otro cordero, este no es indefenso (Biblia MacArthur). Ladd lo une a las palabras de Jesús: toda autoridad le fue dada (Mt 28:18). Los siete ojos son conocimiento perfecto, y para Carballosa también control de los acontecimientos; el trasfondo es Zacarías 4:10. Lennox lo une a 1 Corintios 1:18-25: lo que parece el colmo de la debilidad, un cordero sacrificado, es poder y sabiduría de Dios.",
           "fuentes": [
             "carballosa_05_a#26",
             "macarthur_05_b#21",
@@ -203,7 +205,8 @@
             "mcgee_04_b#12",
             "mbiblia_01_c#3",
             "web_08#14",
-            "cpe_01#9"
+            "cpe_01#9",
+            "r4_460_07_a#27"
           ],
           "tipo": "simbolo_numero"
         },
@@ -314,9 +317,10 @@
       "ref": "5:6",
       "griego": "ἐσφαγμένον",
       "translit": "esphagménon",
-      "significado": "«Inmolado», degollado: participio perfecto pasivo, una acción terminada con resultados que permanecen (Carballosa).",
+      "significado": "«Inmolado», degollado: participio perfecto pasivo, una acción terminada con resultados que permanecen (Carballosa). Fuera de este capítulo (5:6, 9, 12) solo aparece en 13:8 (Comentario Moody).",
       "fuentes": [
-        "carballosa_05_a#25"
+        "carballosa_05_a#25",
+        "r4_225_01_b#38"
       ]
     },
     {
@@ -406,11 +410,13 @@
       "posturas": [
         {
           "postura": "Dios cumplirá literalmente el pacto davídico: Cristo se sentará en el trono de David y reinará sobre Israel en un reino futuro.",
-          "quien": "Carballosa (con Cleon Rogers), McGee y Benware (premileniales)",
+          "quien": "Carballosa (con Cleon Rogers, y en Cristo en el milenio), McGee y Benware (premileniales); Lennox, que lo liga al regreso de Jesús",
           "fuentes": [
             "carballosa_05_a#22",
             "mcgeer_05#1",
-            "r2_004_a#13"
+            "r2_004_a#13",
+            "r4_443_06#13",
+            "r4_460_07_b#1"
           ]
         },
         {

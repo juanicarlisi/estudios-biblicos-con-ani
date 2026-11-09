@@ -48,7 +48,7 @@
       "titulo": "La gran ciudad: Sodoma, Egipto y el lugar de la cruz",
       "notas": [
         {
-          "texto": "Juan nombra la ciudad «en sentido espiritual»: Sodoma, que evoca la degradación moral (Carballosa, con Is 1:9-10), y Egipto, la opresión y la esclavitud del pueblo de Dios; Ladd nota que el Antiguo Testamento nunca aplicó el nombre Egipto al pueblo de Dios. La frase final, «donde también nuestro Señor fue crucificado», es la que para Carballosa, MacArthur, McGee, Ladd y Earle identifica la ciudad con Jerusalén; Ladd precisa su pecado: crucificar al Señor y rechazar el testimonio de los dos profetas. MacArthur deduce que allí estará el centro de su predicación, y su Biblia de estudio, que eso explica las conversiones del versículo 13.",
+          "texto": "Juan nombra la ciudad «en sentido espiritual»: Sodoma, que evoca la degradación moral (Carballosa, con Is 1:9-10), y Egipto, la opresión y la esclavitud del pueblo de Dios; Lennox ve en ambas las dos grandes causas de rebelión contra Dios, la inmoralidad y la idolatría; Ladd nota que el Antiguo Testamento nunca aplicó el nombre Egipto al pueblo de Dios. La frase final, «donde también nuestro Señor fue crucificado», es la que para Carballosa, MacArthur, McGee, Ladd y Earle identifica la ciudad con Jerusalén; Ladd precisa su pecado: crucificar al Señor y rechazar el testimonio de los dos profetas. MacArthur deduce que allí estará el centro de su predicación, y su Biblia de estudio, que eso explica las conversiones del versículo 13.",
           "fuentes": [
             "carballosa_08#23",
             "ladd_04_b#10",
@@ -56,7 +56,8 @@
             "beacon_04_a#6",
             "macarthur_09#32",
             "mbiblia_02_a#13",
-            "mcgeer_08#9"
+            "mcgeer_08#9",
+            "r4_460_09_b#13"
           ],
           "tipo": "explicacion_texto"
         },
@@ -89,13 +90,16 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "Los que miran son «los de los pueblos, tribus, lenguas y naciones», fórmula que en 5:9 y 7:9 abarca a la humanidad entera (MacArthur). Beasley-Murray ve ahí un indicio de que los testigos representan a la iglesia: no podría decirse de dos individuos en una calle de Jerusalén. Quienes leen dos personas piensan en la televisión o los medios masivos (MacArthur, Guzik; McGee admite que es una suposición moderna) o en un mundo que desfila ante los cadáveres (Carballosa).",
+          "texto": "Los que miran son «los de los pueblos, tribus, lenguas y naciones», fórmula que en 5:9 y 7:9 abarca a la humanidad entera (MacArthur). Beasley-Murray ve ahí un indicio de que los testigos representan a la iglesia: no podría decirse de dos individuos en una calle de Jerusalén. Quienes leen dos personas piensan en la televisión o los medios masivos (MacArthur, Guzik, Lennox; McGee admite que es una suposición moderna, y Govett, citado por el Moody, ya pensaba en el telégrafo en 1864) o en un mundo que desfila ante los cadáveres (Carballosa).",
           "fuentes": [
             "macarthur_09#33",
             "henry_02_a#3",
             "mcgeer_08#10",
             "web_06#7",
-            "carballosa_08#24"
+            "carballosa_08#24",
+            "r4_455_01_b#7",
+            "r4_460_17_a#44",
+            "r4_225_02_a#10"
           ],
           "tipo": "dificultad_interpretaciones"
         },
@@ -125,12 +129,13 @@
           "tipo": "explicacion_texto"
         },
         {
-          "texto": "El motivo: «porque estos dos profetas habían atormentado a los moradores de la tierra». No por crueldad: su llamado al arrepentimiento era insoportable (Guzik) y atormentaba las conciencias (Earle). Carballosa cita a Walvoord: un profeta justo es un tormento para una generación perversa. Para MacArthur, la fiesta muestra lo definitivo de su rechazo.",
+          "texto": "El motivo: «porque estos dos profetas habían atormentado a los moradores de la tierra». No por crueldad: su llamado al arrepentimiento era insoportable (Guzik) y atormentaba las conciencias (Earle). Carballosa cita a Walvoord: un profeta justo es un tormento para una generación perversa. Para MacArthur, la fiesta muestra lo definitivo de su rechazo. Lennox imagina que el mundo explicará esos poderes como un engaño desmontado por expertos, como hicieron los magos de Egipto hasta que tuvieron que reconocer el dedo de Dios (Éx 8:19), y que festejará la muerte de lo sobrenatural.",
           "fuentes": [
             "web_06#7",
             "beacon_04_a#8",
             "macarthur_09#33",
-            "carballosa_08#24"
+            "carballosa_08#24",
+            "r4_460_09_b#14"
           ],
           "tipo": "explicacion_texto"
         }
@@ -151,15 +156,6 @@
             "cbmh_06_a#4"
           ],
           "tipo": "conexion_biblica"
-        },
-        {
-          "texto": "Carballosa nota que, tras los presentes y el futuro del versículo 10, «entró» es aoristo: la profecía se volvió realidad. «Se levantaron sobre sus pies» es, para McGee, la manera bíblica de nombrar la resurrección.",
-          "fuentes": [
-            "carballosa_08#25",
-            "mcgee_07_a#19",
-            "mcgeer_08#11"
-          ],
-          "tipo": "griego_palabra"
         },
         {
           "texto": "«Cayó gran temor sobre los que los vieron.» Los que creían haberlos silenciado se quedan sin recursos (Carballosa). La fiesta duró poco: Dios reivindica a sus testigos a la vista de todos (Biblia de estudio MacArthur), en un hecho público (Ladd).",
@@ -302,20 +298,6 @@
         "larkin_03_b#2",
         "henry_02_a#4",
         "cbmh_06_a#2"
-      ]
-    },
-    {
-      "signo": "tres días y medio",
-      "significado": "Un triunfo breve que parece final (Swete, citado por Beasley-Murray y Earle); número simbólico de calamidad (Ladd); días sin relación con los tres años y medio (Carballosa).",
-      "refs": [
-        "11:9",
-        "11:11"
-      ],
-      "fuentes": [
-        "henry_02_a#5",
-        "beacon_04_a#7",
-        "ladd_04_b#11",
-        "carballosa_08#24"
       ]
     },
     {
@@ -499,13 +481,14 @@
           ]
         },
         {
-          "postura": "No: la iglesia ya fue arrebatada antes; los testigos son santos de la tribulación que participan de la primera resurrección. Ladd, postribulacional, también lo niega.",
-          "quien": "Carballosa, Pentecost y McGee (premileniales dispensacionales); Ladd (premilenial histórico)",
+          "postura": "No: la iglesia ya fue arrebatada antes; los testigos son santos de la tribulación que participan de la primera resurrección. Ladd, postribulacional, también lo niega. Walvoord agrega que en el capítulo no hay traslado de santos: los testigos son dos personas reales, no la iglesia entera.",
+          "quien": "Carballosa, Pentecost, Walvoord y McGee (premileniales dispensacionales); Ladd (premilenial histórico)",
           "fuentes": [
             "carballosa_09_a#1",
             "r1_016#9",
             "mcgee_07_a#19",
-            "ladd_04_b#12"
+            "ladd_04_b#12",
+            "r4_450_03#15"
           ]
         }
       ],
@@ -526,11 +509,12 @@
           ]
         },
         {
-          "postura": "Un reconocimiento forzado por el miedo, sin conversión, como el de Faraón o el de los magos de Egipto (Éx 8:19).",
-          "quien": "Larkin (premilenial dispensacional); algunos comentaristas citados por Carballosa",
+          "postura": "Un reconocimiento forzado por el miedo, sin conversión, como el de Faraón o el de los magos de Egipto (Éx 8:19); para Lennox, una admisión reticente, quizá tardía, de que Dios es real y actuó.",
+          "quien": "Larkin (premilenial dispensacional); Lennox; algunos comentaristas citados por Carballosa",
           "fuentes": [
             "larkin_03_b#2",
-            "carballosa_09_a#3"
+            "carballosa_09_a#3",
+            "r4_460_09_b#18"
           ]
         },
         {
@@ -547,13 +531,6 @@
     }
   ],
   "biblioteca": [
-    {
-      "texto": "Cuando el pueblo de Dios sufre, el mundo suele estar como en 11:10: tranquilo y mandándose regalos (con Zac 1:11). Al no hallar quien socorra a los suyos, Cristo mismo se encarga de sus adversarios, en la historia y al final.",
-      "autor": "John Owen",
-      "obra": "Comunión con el Dios Trino",
-      "pagina": "pág. PDF 147",
-      "tipo": "doctrina"
-    },
     {
       "texto": "Gurnall aplica 11:11 al destino de la verdad: sus enemigos parecen triunfar y sus testigos mueren, pero después de un tiempo corto, los tres días y medio, se levantan otra vez y la verdad triunfa con ellos; los perseguidores no duran y su obra se frustra.",
       "autor": "William Gurnall",
@@ -600,16 +577,17 @@
       ]
     },
     {
-      "texto": "La bestia mata a los testigos solo cuando terminaron su testimonio: nadie es quitado antes de tiempo (Guzik). Lo que Dios les encargó tiene un comienzo y un final que están en sus manos, no en las del enemigo.",
+      "texto": "Los que desprecian la Palabra nunca se deshacen de ella: aun festejando que la acallaron, siguen ocupados con ella (Lenski, citado por el Comentario Moody). Un testimonio fiel deja huella aunque lo silencien.",
       "fuentes": [
-        "web_06#7"
+        "r4_225_02_a#11"
       ]
     },
     {
-      "texto": "Cuando parezca que el mal ganó y la verdad quedó tirada en la plaza, recuerden que su triunfo es corto aunque parezca definitivo (Swete, Gurnall) y que Dios tiene la última palabra.",
+      "texto": "Cuando parezca que el mal ganó y la verdad quedó tirada en la plaza, recuerden que su triunfo es corto aunque parezca definitivo (Swete, Gurnall) y que Dios tiene la última palabra. Y si un día Dios parece callar, Lennox recuerda con C. S. Lewis que pocas cosas inquietan más al diablo que un creyente que sigue obedeciendo sin ver rastro de Dios; Jesús pasó por ese silencio en la cruz (Mt 27:46).",
       "fuentes": [
         "henry_02_a#5",
-        "r2_011#12"
+        "r2_011#12",
+        "r4_460_09_b#17"
       ]
     },
     {
@@ -657,6 +635,15 @@
         "r1_008#18",
         "r1_010#10",
         "r1_009#4"
+      ]
+    },
+    {
+      "titulo": "Lennox: del silencio de media hora a los tres días y medio",
+      "texto": "Lennox explica por qué los testigos aparecen aquí y no después de la bestia (caps. 12-13): para unir el comienzo y el final de esta parte del libro, el silencio de media hora en el cielo (8:1) y los tres días y medio de cadáveres sin sepultura. Dios habría esperado para que quedara a la vista la rebeldía del corazón humano: gente que pasó por los juicios más duros y aun así festeja haberse librado de él. Pregunta cómo se sentiría un creyente si todo testimonio fuera silenciado, y advierte que la libertad que el mundo celebra termina en esclavitud bajo el poder maligno.",
+      "fuentes": [
+        "r4_460_09_b#23",
+        "r4_460_09_b#16",
+        "r4_460_09_b#15"
       ]
     },
     {

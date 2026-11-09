@@ -64,11 +64,12 @@
           "tipo": "teologia_doctrina"
         },
         {
-          "texto": "Para McGee es el momento supremo de Satanás: siempre quiso ser adorado y ahora lo adora todo el mundo. Ladd subraya que la bestia no es mero poder político: busca capturar la lealtad de las personas y apartarlas de Dios. Su tiempo es, ante todo, una lucha por las almas.",
+          "texto": "Para McGee es el momento supremo de Satanás: siempre quiso ser adorado y ahora lo adora todo el mundo. Ladd subraya que la bestia busca capturar la lealtad de las personas. Lennox saca una conclusión del peso que el texto da a la adoración: este régimen contra Dios no va a suprimir la religión, va a imponer la suya con brutalidad.",
           "fuentes": [
             "mcgee_08#13",
             "mcgeer_09#15",
-            "ladd_05_a#29"
+            "ladd_05_a#29",
+            "r4_460_10_b#16"
           ],
           "tipo": "teologia_doctrina"
         },
@@ -95,9 +96,10 @@
           "tipo": "conexion_biblica"
         },
         {
-          "texto": "Carballosa recoge un detalle: el nombre del arcángel Miguel significa «¿Quién es como Dios?», y algunos autores ven en el grito una caricatura de ese nombre (cf. 12:7).",
+          "texto": "Carballosa recoge que el nombre del arcángel Miguel significa «¿Quién es como Dios?», y algunos ven en el grito una caricatura de ese nombre. Lennox suma a Micaías («¿Quién es como Yahvé?») y remata la ironía: el que lleva ese nombre ya venció al dragón (12:7-9).",
           "fuentes": [
-            "carballosa_10_b#18"
+            "carballosa_10_b#18",
+            "r4_460_10_b#16"
           ],
           "tipo": "explicacion_texto"
         },
@@ -254,7 +256,7 @@
           "tipo": "dificultad_interpretaciones"
         },
         {
-          "texto": "Para MacArthur la blasfemia apunta directo a la persona de Dios, a su morada y a su pueblo; y los juicios que vendrán no producirán arrepentimiento sino más blasfemia (16:9).",
+          "texto": "Y los juicios que vendrán, advierte MacArthur, no producirán arrepentimiento sino más blasfemia (16:9).",
           "fuentes": [
             "macarthur_11_b#8",
             "macarthur_11_b#6"
@@ -434,6 +436,13 @@
             "r1_001#3",
             "r1_001#1"
           ]
+        },
+        {
+          "postura": "El poder mundano tiránico, idólatra y perseguidor, sostenido por el diablo: en su forma más dura, la Roma pagana; la herida sanada sería el fin de la idolatría pagana y el regreso de la misma idolatría con ropaje papal.",
+          "quien": "Matthew Henry",
+          "fuentes": [
+            "r4_2_01_b#16"
+          ]
         }
       ],
       "nota": "Guzik recuerda que varios emperadores prefiguraron la profecía sin cumplirla; Lennox, que los que dijeron identificar los detalles quedaron desacreditados. Ladd habla del tiempo del Anticristo como lucha por las almas. Ver el anexo T8."
@@ -443,14 +452,15 @@
       "posturas": [
         {
           "postura": "Tres años y medio literales: la segunda mitad de una tribulación futura de siete años (la septuagésima semana de Dn 9:24-27, el «tiempo de angustia para Jacob» de Jer 30:7), que empieza con la abominación desoladora.",
-          "quien": "MacArthur y la Biblia de estudio MacArthur, Carballosa, McGee (premileniales dispensacionales); Earle (Beacon) también ve el cumplimiento final en los tres años y medio de la gran tribulación",
+          "quien": "MacArthur y la Biblia de estudio MacArthur, Carballosa, McGee (premileniales dispensacionales); Walvoord la une con Mt 24:15-22; Earle (Beacon) también ve el cumplimiento final en los tres años y medio de la gran tribulación",
           "fuentes": [
             "macarthur_11_b#7",
             "mbiblia_02_b#5",
             "r1_014#22",
             "carballosa_10_b#20",
             "mcgeer_09#16",
-            "beacon_04_a#29"
+            "beacon_04_a#29",
+            "r4_450_05#16"
           ]
         },
         {
@@ -587,9 +597,9 @@
       ]
     },
     {
-      "texto": "La boca de la bestia no para de hablar contra Dios; la de ustedes puede bendecir su nombre, que resume todo lo que Él es.",
+      "texto": "Lennox confiesa que, viviendo en un país estable, le cuesta creer que algo así lo alcance; espera que, si llega, saber lo que Juan anunció lo ayude a aferrarse a Dios porque será breve. Pregúntense si lo creen de verdad, y bendigan mientras tanto el nombre que la bestia maldice.",
       "fuentes": [
-        "carballosa_10_b#20",
+        "r4_460_10_b#23",
         "macarthur_11_b#8"
       ]
     }
@@ -651,6 +661,13 @@
       "fuentes": [
         "r2_001_b#5",
         "r2_028#26"
+      ]
+    },
+    {
+      "titulo": "¿Una religión de Estado en una era científica?",
+      "texto": "Lennox responde a quienes la creen imposible con antecedentes: T. H. Huxley quiso convertir iglesias en templos de la diosa Sofía con científicos por sacerdotes; Julian Huxley propuso en 1952 el humanismo evolucionista como religión mundial; Michael Ruse sostiene que el darwinismo funcionó como religión; y en 2013 Henry Gee advirtió en Nature contra tratar la ciencia como una religión incuestionable.",
+      "fuentes": [
+        "r4_460_10_b#17"
       ]
     }
   ]

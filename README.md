@@ -61,3 +61,16 @@ Abrir `varon/el-varon-segun-dios.html` en el navegador: un solo archivo, con las
   apoyo en las notas y existencia de cada versículo en la RVR1960. Reglas de trabajo y ahorro de tokens en `varon/CLAUDE.md`.
 - **Texto bíblico:** Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988.
   Se transcribe un versículo clave por día hasta 500 versículos en total; el resto se lee en BibleGateway con el enlace de cada día.
+
+## La mujer según Dios
+
+Abrir `mujer/la-mujer-segun-dios.html` en el navegador: es un solo archivo, con las tipografías incluidas, y funciona sin conexión.
+Son 637 días (unos 25 minutos cada uno) en 17 partes: la mujer hoy, el diseño de Dios, la mujer y Dios, el carácter (con el fruto del
+Espíritu y las emociones), pureza y cuerpo, el trabajo, la esposa, la madre, la iglesia, la sierva, las amigas y mentoras, la joven,
+la adulta, la mayor, la sociedad, las pruebas y las mujeres de la Biblia y de la historia.
+
+- **Fuentes:** libros de autores protestantes confiables (biblioteca, LIBROS-REFERENCIA3 y LIBROS-REFERENCIA4), artículos de
+  Coalición por el Evangelio, programas de Aviva Nuestros Corazones y notas del estudio del varón sobre temas comunes; datos de
+  organismos oficiales con año y fuente. Cada afirmación lleva su fuente; un programa cotejó cifras, citas, autores y versículos.
+- **Al abrir el archivo** vuelve al último día y a la posición donde se quedó; el inicio muestra el mapa de avance.
+- Instrucciones de trabajo en `mujer/CLAUDE.md` y estado en `mujer/RETOMAR.md`.

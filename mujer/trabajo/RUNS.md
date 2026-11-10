@@ -39,3 +39,5 @@
 - Tanda 4: reparada (wf_5e712420-12c wf_397b7d29-822), recorte wf_6b006090-430; aceptados a mano también 549,585,602,619,620 (algo cortos, 1540-1660 palabras) y 598.
 - Los 637 días son definitivos (dias/). Siguiente: revisión de continuidad (ventanas de 10 días), app y entrega.
 - Continuidad (71 ventanas de 10 días, Sonnet/medio, 6 corridas): wf_cf9daa07-d95 wf_ff2bf686-6db wf_5138d429-dec wf_9cf37df5-1d2 wf_ea53351d-47b wf_c3b7be24-49e
+- Continuidad aplicada (1.277 correcciones; 49 no encajaban). Error propio corregido: promover.py/verificar_dia.py no reconocían el prefijo r_ y se habían borrado las fuentes de REFERENCIA4 de los días; restauradas (11.497 ids). Reparación final wf_f481394a-387. Aceptados a mano además: 51, 368, 634.
+- Entrega 10-11-2026: la-mujer-segun-dios.html (16,6 MB, 637 días) construido y probado; subido al repo.

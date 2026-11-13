@@ -8,9 +8,13 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 LIB = json.load(open(f'{AQUI}/../libros.json'))
 RAICES = {'ref3': '/home/user/lib/r3', 'ref4': '/home/user/lib/r4', 'biblio': '/home/user/lib/bib'}
 OUT = os.environ.get('MEGA_TXT', '/home/user/lib/pages'); os.makedirs(OUT, exist_ok=True)
-ids = sys.argv[1:] or list(LIB)
+force = '--force' in sys.argv
+ids = [a for a in sys.argv[1:] if a != '--force'] or list(LIB)
 for i in ids:
-    b = LIB[i]; pdf = os.path.join(RAICES[b['repo']], b['path'])
+    b = LIB[i]
+    if b['repo'] == 'web': continue          # las fuentes web se bajan con web.py
+    if os.path.exists(f'{OUT}/{i}.json') and not force: continue
+    pdf = os.path.join(RAICES[b['repo']], b['path'])
     if not os.path.exists(pdf): print('FALTA', i, pdf); continue
     txt = subprocess.run(['pdftotext', pdf, '-'], capture_output=True).stdout.decode('utf-8', 'replace')
     pags = txt.split('\f')

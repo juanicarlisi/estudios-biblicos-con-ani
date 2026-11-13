@@ -185,12 +185,6 @@
   "autor": "Lee Strobel",
   "obra": "El caso de los milagros"
  },
- "el_caso_de__strobel3": {
-  "repo": "ref3",
-  "path": "Apologetica/El caso de Cristo, una investigación Exhaustiva - Lee Strobel.pdf",
-  "autor": "Lee Strobel",
-  "obra": "El caso de Cristo: una investigación exhaustiva"
- },
  "el_caso_de__strobel4": {
   "repo": "ref3",
   "path": "Apologetica/El caso de la gracia - Lee Strobel.pdf",
@@ -593,12 +587,6 @@
   "autor": "A. W. Tozer",
   "obra": "Los atributos de Dios, volumen dos (con guía de estudio)"
  },
- "los_atributos_de__tozer2": {
-  "repo": "ref3",
-  "path": "Teologia Sistematica y Doctrina/002 - A. W. Tozer - Los Atributos de Dios vol. 1.pdf",
-  "autor": "A. W. Tozer",
-  "obra": "Los atributos de Dios, volumen uno (con guía de estudio)"
- },
  "una_teologia_de__pollard": {
   "repo": "ref3",
   "path": "Teologia Sistematica y Doctrina/014 - Una teología de la familia - Jeff Pollard y Scott T. Brown.pdf",
@@ -928,5 +916,4151 @@
   "path": "Teologia Sistematica y Doctrina/thomas-watson-la-cena-del-senor.pdf",
   "autor": "Thomas Watson",
   "obra": "La Cena del Señor"
+ },
+ "moldeados_por_dios__piper2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/05 - John_Piper_Moldeados_por_Dios_2000,_B&H_Publishing_Group.pdf",
+  "autor": "John Piper",
+  "obra": "Moldeados por Dios"
+ },
+ "diccionario_biblico_mundo__douglas": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/BMH_005 DICCIONARIO B-BLICO MUNDO HISPANO I.pdf",
+  "autor": "J. D. Douglas y Merrill C. Tenney (editores)",
+  "obra": "Diccionario Biblico Mundo Hispano, tomo A-M"
+ },
+ "diccionario_biblico_mundo__douglas2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/BMH_006 DICCIONARIO B-BLICO MUNDO HISPANO II.pdf",
+  "autor": "J. D. Douglas y Merrill C. Tenney (editores)",
+  "obra": "Diccionario Biblico Mundo Hispano, tomo N-Z"
+ },
+ "comentario_biblico_beacon__taylor": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/Comentario Biblico Beacon Tomo 10 Hebreos hasta Apocalipsis.pdf",
+  "autor": "Richard S. Taylor, A. F. Harper, Roy S. Nicholson, Eldon R. Fuhrman, Harvey J. S. Blaney, Delbert R. Rose, Ralph Earle (varios)",
+  "obra": "Comentario Biblico Beacon, tomo X (Hebreos a Apocalipsis)"
+ },
+ "comentario_biblico_beacon__howard": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/Comentario Biblico Beacon Tomo 9 Galatas hasta Filemon.pdf",
+  "autor": "R. E. Howard, Willard H. Taylor, John A. Knight, John B. Nielson, Arnold E. Airhart, J. Glenn Gould (varios)",
+  "obra": "Comentario Biblico Beacon, tomo IX (Galatas a Filemon)"
+ },
+ "comentario_biblico_de__henry": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/Comentario Bíblico - Matthew Henry.pdf",
+  "autor": "Matthew Henry",
+  "obra": "Comentario Bíblico de Matthew Henry (toda la Biblia)"
+ },
+ "comentario_biblico_beacon__earle": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/Comentario Bíblico Beacon Tomo 6 Mateo hasta Lucas.pdf",
+  "autor": "Ralph Earle, A. Elwood Sanner, Charles L. Childers (varios)",
+  "obra": "Comentario Biblico Beacon, tomo VI (Mateo a Lucas)"
+ },
+ "comentario_biblico_beacon__greathouse": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/Comentario Bíblico Beacon Tomo 8 Romanos hasta 2 Corintios.pdf",
+  "autor": "William M. Greathouse, Donald S. Metz, Frank G. Carver",
+  "obra": "Comentario Bíblico Beacon, Tomo VIII: Romanos, 1 y 2 Corintios"
+ },
+ "biblia_de_estudio__autor": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/00 - Obras completas, Biblias de estudio y generales/John MacArthur - Biblia de estudio.pdf",
+  "autor": "John MacArthur (autor y redactor general)",
+  "obra": "Biblia de estudio MacArthur"
+ },
+ "comentario_macarthur_del__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/02 MacArthur, John - Comentario MacArthur del NT - Marcos.pdf",
+  "autor": "John MacArthur",
+  "obra": "Comentario MacArthur del Nuevo Testamento: Marcos"
+ },
+ "lucas_comentario__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/03 LUCAS-John Macarthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Lucas (comentario)"
+ },
+ "juan_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/04 JUAN-John Macarthur.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Juan (comentario)"
+ },
+ "2_juan_comentario__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/24_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_2_Juan.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "2 Juan (Comentario Biblico a traves de la Biblia)"
+ },
+ "comentario_a_2__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/COMENTARIO A JUAN 2 - D. L. MOODY.pdf",
+  "autor": "D. L. Moody (solo por nombre del archivo)",
+  "obra": "Comentario a 2 Juan"
+ },
+ "un_comentario_verso__guzik": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Comentario Biblico Lucas - David Guzik.pdf",
+  "autor": "David Guzik",
+  "obra": "Un Comentario Verso por Verso del Nuevo Testamento: Lucas"
+ },
+ "comentario_biblico_mundo__cevallos2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Comentario Mundo Hispano-Juan.pdf",
+  "autor": "Editores generales: Juan Carlos Cevallos y Rubén O. Zorzoli",
+  "obra": "Comentario Bíblico Mundo Hispano, Tomo 17: Juan"
+ },
+ "comentario_de_marcos__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Comentario de Marcos - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Comentario de Marcos"
+ },
+ "comentario_de_exposicion__exposition": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/EXALTANDO A CRISTO  MARCOS_compressed.pdf",
+  "autor": "No consignado en el inicio (serie Christ-Centered Exposition)",
+  "obra": "Comentario de exposición centrado en Cristo: Exaltando a Jesús en Marcos"
+ },
+ "el_mensaje_mateo__peterson": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/El Mensaje-Mateo.pdf",
+  "autor": "Eugene H. Peterson",
+  "obra": "El Mensaje: Mateo (La Biblia en lenguaje contemporáneo)"
+ },
+ "mateo_la_revelacion__carballosa": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Evis_Carballosa_Mateo_La_Revelación_de_la_Realeza_de_Cristo_Volumen.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Mateo: La revelacion de la realeza de Cristo (Mt 1-14)"
+ },
+ "un_comentario_verso__guzik2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Juan - David Guzik.pdf",
+  "autor": "David Guzik",
+  "obra": "Un Comentario Verso por Verso del Nuevo Testamento: Juan"
+ },
+ "comentario_biblico_del__zapata": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Lucas - Jaime Mirón.pdf",
+  "autor": "René C. Zapata",
+  "obra": "Comentario Bíblico del Continente Nuevo: San Lucas"
+ },
+ "comentario_biblico_del__morris": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Marcos - Comentario bíblico del continente nuevo.pdf",
+  "autor": "Carlos A. Morris",
+  "obra": "Comentario Bíblico del Continente Nuevo: Evangelio según San Marcos"
+ },
+ "un_comentario_verso__guzik3": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Marcos - David Guzik.pdf",
+  "autor": "David Guzik",
+  "obra": "Un Comentario Verso por Verso del Nuevo Testamento: Marcos"
+ },
+ "marcos_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Marcos - John MacArthur.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Marcos (comentario)"
+ },
+ "comentario_biblico_mundo__carro": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Mateo (2).pdf",
+  "autor": "Editores generales: Daniel Carro, José Tomás Poe y Rubén O. Zorzoli",
+  "obra": "Comentario Bíblico Mundo Hispano, Tomo 14: Mateo"
+ },
+ "mateo_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Mateo - John MacArthur.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Mateo (comentario)"
+ },
+ "comentario_biblico_mundo__carro2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/02 - Hechos y Romanos/Comentario de Hechos.pdf",
+  "autor": "Editores generales Daniel Carro, Jose Tomas Poe, Ruben O. Zorzoli; comentarista del tomo no consta",
+  "obra": "Comentario Biblico Mundo Hispano, tomo 18: Hechos"
+ },
+ "el_evangelio_segun__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/02 - Hechos y Romanos/El evangelio según Pablo - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "El evangelio segun Pablo"
+ },
+ "hechos_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/02 - Hechos y Romanos/Hechos - John MacArthur.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Hechos (comentario)"
+ },
+ "comentario_macarthur_del__macarthur2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/03 - Corintios/07_MacArthur,_John_Comentario_MacArthur_del_NT_1_Corintios2.pdf",
+  "autor": "John MacArthur",
+  "obra": "Comentario MacArthur del Nuevo Testamento: 1 Corintios"
+ },
+ "comentario_biblico_mundo__carro3": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/03 - Corintios/1 y 2 Corintios- Comentario Bíblico mundo hispano.pdf",
+  "autor": "Daniel Carro, Juan Carlos Cevallos, José Tomás Poe, Rubén O. Zorzoli (editores generales)",
+  "obra": "Comentario Bíblico Mundo Hispano, tomo 20: 1 y 2 Corintios"
+ },
+ "2_corintios_comentario__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/03 - Corintios/2 Corintios - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "2 Corintios (comentario)"
+ },
+ "comentario_biblico_a__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/03 - Corintios/6_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_1_Corintios.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Comentario Bíblico a través de la Biblia: 1 Corintios"
+ },
+ "2_corintios_comentario__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/03 - Corintios/7_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_2_Corintios.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "2 Corintios (Comentario Biblico a traves de la Biblia)"
+ },
+ "la_biblia_popular__valleskey": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/03 - Corintios/La Biblia Popular  34-2 Corintios.pdf",
+  "autor": "David J. Valleskey",
+  "obra": "La Biblia Popular: 2 Corintios"
+ },
+ "galatas_comentario_macarthur__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/08 MacArthur, John - Comentario MacArthur del NT - Gálatas.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Galatas (Comentario MacArthur del NT)"
+ },
+ "efesios_comentario_macarthur__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/09 MacArthur, John - Comentario MacArthur del NT - Efesios.pdf",
+  "autor": "John MacArthur",
+  "obra": "Efesios (Comentario MacArthur del NT)"
+ },
+ "filipenses_comentario_macarthur__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/10_MacArthur,_John_Comentario_MacArthur_del_NT_Filipenses.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Filipenses (Comentario MacArthur del NT)"
+ },
+ "efesios_comentario_biblico__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/10_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Efesios.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Efesios (Comentario Biblico a traves de la Biblia)"
+ },
+ "filipenses_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/11 FILIPENSES-John Macarthur.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Filipenses (comentario)"
+ },
+ "colosenses_comentario_macarthur__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/11_MacArthur,_John_Comentario_MacArthur_del_NT_Colosenses.pdf",
+  "autor": "John MacArthur (solo por nombre del archivo)",
+  "obra": "Colosenses (Comentario MacArthur del NT)"
+ },
+ "comentario_biblico_a__mcgee2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/11_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Filipenses.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Comentario Bíblico a través de la Biblia: Filipenses"
+ },
+ "colosenses_comentario_biblico__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/12_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Colosenses.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Colosenses (Comentario Biblico a traves de la Biblia)"
+ },
+ "colosenses_orientacion_para__carballosa": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Colosenses_Carballosa,_Evis_by_RecursosTeologicosGratis_blogspot.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Colosenses: Orientación para un estudio exegético y práctico"
+ },
+ "filipenses_experimenta_la__george": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Elizabeth George - FILIPENSES - EXPERIMENTA LA PAZ DE DIOS.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Filipenses: Experimenta la paz de Dios"
+ },
+ "filipenses_un_comentario__carballosa": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Evis L. Carballosa - Filipenses.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Filipenses: Un comentario exegetico y practico"
+ },
+ "comentarios_a_la__lutero": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Gálatas - Martin Lutero.pdf",
+  "autor": "Martín Lutero",
+  "obra": "Comentarios a la Carta a los Gálatas"
+ },
+ "galatas_para_ti__keller": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Gálatas - Timoty Keller.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Gálatas para ti"
+ },
+ "matthew_henry_filipenses__henry": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Matthew-Henry-Filipenses (1).pdf",
+  "autor": "Matthew Henry",
+  "obra": "Matthew Henry - Filipenses (Biblia de Estudio Matthew Henry)"
+ },
+ "el_mensaje_de__stott": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/STOTT, John_1987_El Mensaje de Efesios_Ed.Certeza.pdf",
+  "autor": "John R. W. Stott",
+  "obra": "El mensaje de Efesios (La Biblia habla hoy)"
+ },
+ "1_tesalonicenses_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/1 Tesalonicenses - John MacArthur.pdf",
+  "autor": "John MacArthur (según nombre de archivo)",
+  "obra": "1 Tesalonicenses (comentario)"
+ },
+ "comentario_macarthur_del__macarthur3": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/1 Timoteo - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Comentario MacArthur del Nuevo Testamento: 1 Timoteo"
+ },
+ "comentario_macarthur_del__macarthur4": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/1 y 2 Tesalonicenses - 1 y 2Timoteo - Tito - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Comentario MacArthur del Nuevo Testamento: 1 y 2 Tesalonicenses, 1 y 2 Timoteo, Tito"
+ },
+ "comentario_biblico_mundo__cevallos3": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/1 y 2 Tesalonicenses, 1 y 2 Timoteo y Tito - Comentario Bíblico mundo hispano.pdf",
+  "autor": "Editores generales: Juan Carlos Cevallos, Rubén O. Zorzoli (colaboradores no identificados)",
+  "obra": "Comentario Bíblico Mundo Hispano, t. 22: 1 y 2 Tesalonicenses, 1 y 2 Timoteo y Tito"
+ },
+ "comentario_al_nuevo__kistemaker": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/1 y 2 Timoteo y Tito Hendriksen y Kistemaker.pdf",
+  "autor": "William Hendriksen (y Simon J. Kistemaker, según nombre de archivo)",
+  "obra": "Comentario al Nuevo Testamento: Exposición de las Epístolas Pastorales"
+ },
+ "comentario_biblico_del__miron": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/1 y 2 Timoteo, Tito - Jaime Mirón.pdf",
+  "autor": "Vidal Valencia (editor general: Jaime Mirón)",
+  "obra": "Comentario Bíblico del Continente Nuevo: 1 y 2 Timoteo, Tito"
+ },
+ "1_tesalonicenses_comentario__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/13_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_1_Tesalonicenses.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "1 Tesalonicenses (Comentario a través de la Biblia, programa 0855)"
+ },
+ "2_tesalonicenses_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/14 II TESALONICENSES-John Macarthur.pdf",
+  "autor": "John MacArthur (según nombre de archivo)",
+  "obra": "2 Tesalonicenses (comentario)"
+ },
+ "2_timoteo_comentario__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/16_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_2_Timoteo.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "2 Timoteo (Comentario a través de la Biblia, programa 0910)"
+ },
+ "filemon_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/17 MacArthur, John - Comentario MacArthur del NT - Filemón.pdf",
+  "autor": "John MacArthur (según nombre de archivo)",
+  "obra": "Filemón (comentario)"
+ },
+ "tito_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/17 TITO-John Macarthur.pdf",
+  "autor": "John MacArthur (según nombre de archivo)",
+  "obra": "Tito (comentario)"
+ },
+ "filemon_comentario_a__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/18_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Filemon.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Filemón (Comentario a través de la Biblia, programa 0948)"
+ },
+ "comentario_al_nuevo__kistemaker2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/Colosenses y Filemon Hendriksen y Kistemaker.pdf",
+  "autor": "William Hendriksen (y Simon J. Kistemaker, según nombre de archivo)",
+  "obra": "Comentario al Nuevo Testamento: Colosenses y Filemón"
+ },
+ "comentario_biblico_con__holmes": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/Comentario_bíblico_con_aplicación_NVI_1_y_2_Tesalonicenses_Michael.pdf",
+  "autor": "Michael W. Holmes",
+  "obra": "Comentario bíblico con aplicación NVI: 1 y 2 Tesalonicenses"
+ },
+ "comentario_biblico_mundo__carro4": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/Gálatas, Efesios, Filipenses, Colosenses, Filemón - comentario bíblico mundo hispano.pdf",
+  "autor": "Editores generales: Daniel Carro, José Tomás Poe, Rubén O. Zorzoli (colaboradores no identificados)",
+  "obra": "Comentario Bíblico Mundo Hispano, t. 21: Gálatas, Efesios, Filipenses, Colosenses y Filemón"
+ },
+ "comentario_macarthur_del__macarthur5": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/John MacArthur - Comentario MacArthur 1-2 Timoteo.pdf",
+  "autor": "John MacArthur",
+  "obra": "Comentario MacArthur del Nuevo Testamento: 1 y 2 Timoteo"
+ },
+ "la_biblia_popular__schaller": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/05 - Tesalonicenses, Timoteo, Tito y Filemón/La Biblia Popular 37-1 y 2 de Tesalonicenses.pdf",
+  "autor": "David P. Kuske (serie editada por Loren A. Schaller)",
+  "obra": "La Biblia Popular, t. 37: 1 y 2 Tesalonicenses"
+ },
+ "1_y_2__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/1 y 2 Pedro - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "1 y 2 Pedro (Comentario MacArthur del NT)"
+ },
+ "1_2_y__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/1, 2 y 3 Juan.pdf",
+  "autor": "John MacArthur",
+  "obra": "1, 2 y 3 Juan (Comentario MacArthur del NT)"
+ },
+ "hebreos_un_comentario__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/18 MacArthur, John - Comentario MacArthur del NT - Hebreos.pdf",
+  "autor": "John MacArthur",
+  "obra": "Hebreos: un comentario expositivo (Comentario MacArthur del NT)"
+ },
+ "hebreos_comentario_macarthur__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/19 HEBREOS-John Macarthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Hebreos (Comentario MacArthur del NT)"
+ },
+ "hebreos_comentario_a__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/19_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Hebreos.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Hebreos (Comentario a través de la Biblia, programa 0979)"
+ },
+ "2_pedro_y__nunez": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/2 Pedro   Judas para ti (Spanis - Miguel Nunez.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "2 Pedro y Judas para ti"
+ },
+ "santiago_comentario_macarthur__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/20 SANTIAGO-John Macarthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Santiago (Comentario MacArthur del NT)"
+ },
+ "santiago_comentario_a__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/20_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Santiago.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Santiago (Comentario a través de la Biblia, programa 1037)"
+ },
+ "judas_comentario__archivo": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/22 MacArthur, John - Comentario MacArthur del NT - Judas.pdf",
+  "autor": "John MacArthur (según nombre de archivo)",
+  "obra": "Judas (comentario)"
+ },
+ "2_pedro_comentario__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/22_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_2_Pedro.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "2 Pedro (Comentario a través de la Biblia, programa 1092)"
+ },
+ "judas__macarthur": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/23 JUDAS-John Macarthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Judas"
+ },
+ "judas_a_traves__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/26_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Judas.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Judas (A través de la Biblia)"
+ },
+ "3_juan_comentario__serie": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/3 Juan - Moody.pdf",
+  "autor": "no consta (comentario de serie)",
+  "obra": "3 Juan (Comentario Bíblico Moody)"
+ },
+ "judas_comentario_biblico__serie": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Comentario Bíblico Moody - Judas.pdf",
+  "autor": "no consta (comentario de serie)",
+  "obra": "Judas (Comentario Bíblico Moody)"
+ },
+ "hebreos_comentario_al__kistemaker": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Comentario Hebreos - Simón Kistemaker.pdf",
+  "autor": "Simon J. Kistemaker",
+  "obra": "Hebreos (Comentario al Nuevo Testamento)"
+ },
+ "comentario_biblico_del__richards": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Comentario_Bíblico_del_Maestro_1_JUAN_Lawrence_O_Richards.pdf",
+  "autor": "Lawrence O. Richards",
+  "obra": "Comentario Bíblico del Maestro: 1 Juan"
+ },
+ "notas_de_conferencias__darby": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Hebreos (2).pdf",
+  "autor": "J. N. Darby",
+  "obra": "Notas de conferencias sobre la Epístola a los Hebreos"
+ },
+ "comentario_biblico_mundo__cevallos4": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Hebreos, Santiago, 1 y 2 Pedro, Judas.pdf",
+  "autor": "editores generales Juan Carlos Cevallos y Rubén O. Zorzoli (autores de cada libro no nombrados en extracto)",
+  "obra": "Comentario Bíblico Mundo Hispano, tomo 23: Hebreos, Santiago, 1 y 2 Pedro, Judas"
+ },
+ "la_biblia_popular__ehlke": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/La Biblia Popular 39-Hebreos.pdf",
+  "autor": "Richard E. Lauersdorf (editor general Roland Cap Ehlke)",
+  "obra": "La Biblia Popular 39: Hebreos"
+ },
+ "santiago_y_judas__deiros": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Santiago - Judas.pdf",
+  "autor": "Pablo A. Deiros",
+  "obra": "Santiago y Judas (Comentario Hispanoamericano)"
+ },
+ "santiago_una_fe__carballosa": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Santiago una fe en acción Elvis L Carballosa.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Santiago: una fe en acción"
+ },
+ "santiago_y_1__kistemaker": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Santiago y 1 2 3 Juan Hendriksen y Kistemaker.pdf",
+  "autor": "Simon J. Kistemaker y William Hendriksen (según nombre del archivo)",
+  "obra": "Santiago y 1, 2, 3 Juan"
+ },
+ "santiago_crece_en__george": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Santiago_ Crece en sabiduria y fe - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Santiago: crece en sabiduría y fe"
+ },
+ "1_y_2__kistemaker": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/comentario_al_nuevo_testamento_1_2_pedro_y_judas_simon_kistemaker.pdf",
+  "autor": "Simon J. Kistemaker",
+  "obra": "1 y 2 Pedro y Judas (Comentario al Nuevo Testamento)"
+ },
+ "apocalipsis_comentario_macarthur__macarthur2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/07 - Apocalipsis/23_MacArthur,_John_Comentario_MacArthur_del_NT_Apocalipsis.pdf",
+  "autor": "John MacArthur",
+  "obra": "Apocalipsis (Comentario MacArthur del NT)"
+ },
+ "apocalipsis_a_traves__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/07 - Apocalipsis/27_Vernon_McGee_Comentario_Biblico_a_Traves_de_La_Biblia_Apocalipsis.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Apocalipsis (A través de la Biblia)"
+ },
+ "el_libro_de__larkin2": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/07 - Apocalipsis/Apocalipsis - Clarence Larkin.pdf",
+  "autor": "Clarence Larkin",
+  "obra": "El libro de Apocalipsis"
+ },
+ "apocalipsis__carballosa": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/07 - Apocalipsis/Apocalipsis - Evis Carballosa.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Apocalipsis"
+ },
+ "apocalipsis_un_comentario__mcgee": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/07 - Apocalipsis/Apocalipsis, Un Comentario - J. Vernon McGee.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Apocalipsis: un comentario"
+ },
+ "el_apocalipsis_de__ladd": {
+  "repo": "ref4",
+  "path": "01 - Biblia y Comentarios Bíblicos/07 - Apocalipsis/Comentario del Apocalipsis - George Eldon Ladd.pdf",
+  "autor": "George Eldon Ladd",
+  "obra": "El Apocalipsis de Juan: un comentario"
+ },
+ "una_teologia_puritana__beeke2": {
+  "repo": "ref4",
+  "path": "02 - Teología y Doctrina/03 - Una Teologia Puritana - Joel Beeke.pdf",
+  "autor": "Joel R. Beeke y Mark Jones",
+  "obra": "Una teología puritana"
+ },
+ "evangelizacion_puritana_un__beeke": {
+  "repo": "ref4",
+  "path": "02 - Teología y Doctrina/04 - Evangelización puritana Joel R. Beeke.pdf",
+  "autor": "Joel R. Beeke",
+  "obra": "Evangelización puritana: un enfoque bíblico"
+ },
+ "discerniendo_el_problema__washer": {
+  "repo": "ref4",
+  "path": "02 - Teología y Doctrina/18 - Paul Washer-Discerniendo el problema del hombre.pdf",
+  "autor": "Paul Washer",
+  "obra": "Discerniendo el problema del hombre"
+ },
+ "que_fue_del__spurgeon": {
+  "repo": "ref4",
+  "path": "02 - Teología y Doctrina/29 - Varios autores-Qué fue del hombre tras dejar el paraíso.pdf",
+  "autor": "Varios autores (Spurgeon, Pink, Reade, Beeke, Owen, Boettner, Flavel, Ryle)",
+  "obra": "Qué fue del hombre tras dejar el paraíso"
+ },
+ "como_entender_el__grudem": {
+  "repo": "ref4",
+  "path": "02 - Teología y Doctrina/33 - Wayne_Grudem_Cómo_entender_el_concepto_del_Hombre_y_el_Pecado.pdf",
+  "autor": "Wayne Grudem",
+  "obra": "Cómo entender el concepto del hombre y el pecado"
+ },
+ "lo_que_cada__owen": {
+  "repo": "ref4",
+  "path": "02 - Teología y Doctrina/pdfcoffee_com_la_mortificacion_del_pecado_gu_john_owen_2_pdf_free.pdf",
+  "autor": "John Owen",
+  "obra": "Lo que cada creyente debería saber sobre la mortificación del pecado"
+ },
+ "la_vida_de__scougal": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/17 - La VIDA de DIOS en el ALMA de HOMBRE(Henry Scougal).pdf",
+  "autor": "Henry Scougal",
+  "obra": "La vida de Dios en el alma de hombre"
+ },
+ "jesus_el_hombre__nunez": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/31 - Miguel Núñez-Jesús El Hombre que desafió al mundo.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "Jesús, el hombre que desafió al mundo"
+ },
+ "leer_es_solo__mathis": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/34 - Leer es solo el comienzo_ 5 maneras más de disfrutar la Palabra de Dios _ Coalición por el Evangelio.pdf",
+  "autor": "David Mathis",
+  "obra": "Leer es solo el comienzo: 5 maneras más de disfrutar la Palabra de Dios"
+ },
+ "deseando_a_dios__piper": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/37 - Deseando a Dios.pdf",
+  "autor": "John Piper",
+  "obra": "Deseando a Dios: un estudio sobre el hedonismo cristiano"
+ },
+ "sed_de_dios__piper2": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/45 - Sed de Dios - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Sed de Dios: meditaciones de un hedonista cristiano"
+ },
+ "como_escuchar_la__stanley2": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/Cómo escuchar la voz de Dios - Charles Stanley.pdf",
+  "autor": "Charles Stanley",
+  "obra": "Cómo escuchar la voz de Dios"
+ },
+ "la_tentacion_superando__owen": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/Superando el Pecado y la Tentación.docx.pdf",
+  "autor": "John Owen",
+  "obra": "La tentación (Superando el pecado y la tentación)"
+ },
+ "toda_buena_obra__keller": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/Toda buena obra.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Toda buena obra: conecta tu trabajo con el trabajo de Dios"
+ },
+ "trabajo_y_redencion__nelson": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/Trabajo y Redencion.pdf",
+  "autor": "Tom Nelson",
+  "obra": "Trabajo y redención"
+ },
+ "autoolvido_el_camino__keller": {
+  "repo": "ref4",
+  "path": "03 - Vida Cristiana y Devocionales/vdoc.pub_auto-olvido.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Autoolvido: el camino de la verdadera libertad"
+ },
+ "un_hombre_del__evans": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/15 - Un Hombre del Reino - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Un hombre del reino"
+ },
+ "david_un_hombre__swindoll": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/16 - David - Un hombre de pasion y d - Charles R. Swindoll.pdf",
+  "autor": "Charles R. Swindoll",
+  "obra": "David: un hombre de pasión y destino"
+ },
+ "mentiras_que_los__wolgemuth": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/19 - MENTIRAS QUE LOS HOMBRES CREEN .pdf",
+  "autor": "Robert Wolgemuth",
+  "obra": "Mentiras que los hombres creen"
+ },
+ "las_disciplinas_de__hughes": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/21 - Las Disciplinas de un Hombre Piadoso — Kent Hughes.pdf",
+  "autor": "Kent Hughes",
+  "obra": "Las disciplinas de un hombre piadoso"
+ },
+ "hombres_de_la__moody": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/22 - Hombres de la Biblia - Dwight L. Moody.pdf",
+  "autor": "Dwight L. Moody",
+  "obra": "Hombres de la Biblia"
+ },
+ "doce_hombres_comunes__macarthur": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/25 - John MacArthur - 12 HOMBRES COMUNES Y CORRIENTES.pdf",
+  "autor": "John MacArthur",
+  "obra": "Doce hombres comunes y corrientes"
+ },
+ "asi_prepara_dios__morley": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/26 - así_prepara_dios_a_los_hombres_patrick_morley (1).pdf",
+  "autor": "Patrick Morley",
+  "obra": "Así prepara Dios a los hombres"
+ },
+ "daniel_hombre_de__moody": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/28 - Daniel, Hombre de Dios - Dwight L. Moody.pdf",
+  "autor": "Dwight L. Moody",
+  "obra": "Daniel, hombre de Dios"
+ },
+ "llamados_a_ser__zapico": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/30 - Llamados a Ser Hombres de Integ - Zapico, Jose.pdf",
+  "autor": "José Zapico",
+  "obra": "Llamados a ser hombres de integridad"
+ },
+ "un_hombre_de__stanley": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/32 - Charles Stanley-Un hombre de Dios.pdf",
+  "autor": "Charles Stanley",
+  "obra": "Un hombre de Dios"
+ },
+ "la_persona_que__thompson": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/42 - La persona que soy, el hombre desde la perspectiva bíblica - LES THOMPSON (2).pdf",
+  "autor": "Les Thompson",
+  "obra": "La persona que soy: el hombre desde la perspectiva bíblica"
+ },
+ "elias_el_portavoz__meyer": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/43 - Elías, el portavoz del celo de Dios.pdf",
+  "autor": "F. B. Meyer",
+  "obra": "Elías: el portavoz del celo de Dios"
+ },
+ "samuel_el_profeta__meyer": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/44 - Samuel el profeta - Frederick.pdf",
+  "autor": "Frederick B. Meyer",
+  "obra": "Samuel: el profeta de Dios"
+ },
+ "que_espera_dios__ii": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/46 - Que espera Dios de un hombre - Martin R. De Haan.pdf",
+  "autor": "Martin R. De Haan II",
+  "obra": "¿Qué espera Dios de un hombre?"
+ },
+ "cuando_la_mirada__olson": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/Cuando_la_Mirada_de_un_Hombre_se_Desvia.pdf",
+  "autor": "Jeff Olson",
+  "obra": "Cuando la mirada de un hombre se desvía"
+ },
+ "el_hombre_frente__morley": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/El Hombre Frente al Espejo – Patrick M. Morley.pdf",
+  "autor": "Patrick M. Morley",
+  "obra": "El hombre frente al espejo"
+ },
+ "se_el_papa__macarthur": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/Ser el Papá que tus hijos necesitan - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Sé el papá que tus hijos necesitan"
+ },
+ "ser_hombre_de__luck": {
+  "repo": "ref4",
+  "path": "04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano/Stephen_Arterburn_Ser_un_hombre_de_Dios_en_liderar_una_familia.pdf",
+  "autor": "Kenny Luck y Todd Wendorff",
+  "obra": "Ser hombre de Dios... en liderar una familia"
+ },
+ "amor_y_respeto__eggerichs": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Amor y respeto - Emerson Eggerichs.pdf",
+  "autor": "Emerson Eggerichs",
+  "obra": "Amor y respeto"
+ },
+ "sexualmente_santos__navas": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Compartir sexualmente santo.pdf",
+  "autor": "Carlos Navas",
+  "obra": "Sexualmente santos"
+ },
+ "cuando_pecadores_dicen__harvey": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Cuando los pecadores dicen acepto, el evangelio en el matrimonio . Dave Harvey.pdf",
+  "autor": "Dave Harvey",
+  "obra": "Cuando pecadores dicen \"Acepto\""
+ },
+ "el_sexo_los__weiss": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Douglas Weiss-Sexo, Hombres y Dios.pdf",
+  "autor": "Douglas Weiss",
+  "obra": "El sexo, los hombres y Dios"
+ },
+ "sexo_y_dinero__tripp": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/El Sexo y el dinero - Paul David Tripp.pdf",
+  "autor": "Paul David Tripp",
+  "obra": "Sexo y dinero"
+ },
+ "el_acto_matrimonial__tim": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/El acto matrimonial - La belleza del amor sexual - Tim y Beverly LaHaye.pdf",
+  "autor": "Tim y Beverly LaHaye",
+  "obra": "El acto matrimonial: la belleza del amor sexual"
+ },
+ "el_matrimonio_si__evans": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/El matrimonio si importa, Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El matrimonio sí importa"
+ },
+ "el_matrimonio_y__goff": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/El matrimonio y la familia en la vida cristiana - Guillermo Gof.pdf",
+  "autor": "Guillermo Goff",
+  "obra": "El matrimonio y la familia en la vida cristiana"
+ },
+ "el_poder_de__omartian": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/El poder de la esposa que ora - Stormie Omarian.pdf",
+  "autor": "Stormie Omartian",
+  "obra": "El poder de la esposa que ora"
+ },
+ "el_poder_del__omartian": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/El poder del esposo que ora - Stormie Omartian.pdf",
+  "autor": "Stormie Omartian y Michael Omartian",
+  "obra": "El poder del esposo que ora"
+ },
+ "el_codigo_de__leys": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/El_codigo_de_la_pureza_LUCAS LEYS JIM BURNS.pdf",
+  "autor": "Lucas Leys y Jim Burns",
+  "obra": "El código de la pureza: El plan de Dios para disfrutar tu sexualidad"
+ },
+ "un_esposo_conforme__george": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Jim George-Un esposo conforme al corazón de Dios.pdf",
+  "autor": "Jim George",
+  "obra": "Un esposo conforme al corazón de Dios"
+ },
+ "la_sexualidad_definida__clark": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/La_Sexualidad_Definida_por_Dios_–_Kristen_Clark_&_Bethany_Beal_1.pdf",
+  "autor": "Kristen Clark y Bethany Beal",
+  "obra": "La sexualidad definida por Dios"
+ },
+ "lo_que_las__dobson": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Lo-Que-Las-Esposas-Desean de sus esposos-James-Dobson.pdf",
+  "autor": "James Dobson",
+  "obra": "Lo que las esposas desean de sus esposos"
+ },
+ "limites_en_el__cloud": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Límites en el noviazgo - John Townsend.pdf",
+  "autor": "John Townsend (y Henry Cloud)",
+  "obra": "Límites en el noviazgo"
+ },
+ "matrimonio_sobre_la__evans": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Matrimonio sobre la roca - Jimmy y Karen Evans.pdf",
+  "autor": "Jimmy Evans y Karen Evans",
+  "obra": "Matrimonio sobre la roca"
+ },
+ "pacto_matrimonial_perspectiva__piper": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Pacto Matrimonial - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Pacto matrimonial: perspectiva temporal y eterna"
+ },
+ "preparandonos_para_el__piper": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Preparandonos para el matrimonio - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Preparándonos para el matrimonio"
+ },
+ "puro_sexo_puro__hernandez": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Puro Sexo Puro.pdf",
+  "autor": "Cornelia Hernández",
+  "obra": "Puro sexo puro"
+ },
+ "que_estabas_esperando__tripp": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Qué estabas esperando, redimiendo las realidades del matrimonioo.pdf",
+  "autor": "Paul David Tripp",
+  "obra": "¿Qué estabas esperando? Redimiendo las realidades del matrimonio"
+ },
+ "dios_y_la__comfort": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Ray Comfort -Dios y la sexualidad.pdf",
+  "autor": "Ray Comfort",
+  "obra": "Dios y la sexualidad"
+ },
+ "revolucion_sexual__nunez": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Revolución Sexual - Miguel Nuñez.pdf",
+  "autor": "Miguel Núñez y Cathy Scheraldi de Núñez",
+  "obra": "Revolución sexual"
+ },
+ "sanidad_sexual__foster": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Sanidad Sexual - el pal de Dios para la santificación de vidas quebrantadas.pdf",
+  "autor": "David Kyle Foster",
+  "obra": "Sanidad sexual"
+ },
+ "sexo_una_relacion__evans": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Sexo una relacion diseñada por Dios - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Sexo: una relación diseñada por Dios"
+ },
+ "soltero_por_ahora__segal": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Soltero por ahora.pdf",
+  "autor": "Marshall Segal",
+  "obra": "Soltero por ahora"
+ },
+ "el_significado_del__keller": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/Timothy_Keller_EL_SIGNIFICADO_DEL_MATRIMONIO_365_DEVOCIONALES.pdf",
+  "autor": "Timothy Keller",
+  "obra": "El significado del matrimonio: 365 devocionales"
+ },
+ "el_buen_sexo__clewett": {
+  "repo": "ref4",
+  "path": "05 - Matrimonio, Noviazgo y Sexualidad/✨El Buen Sexo -- Kari Clewett.pdf",
+  "autor": "Kari Clewett",
+  "obra": "El buen sexo"
+ },
+ "joven_cristiano_has__bunyan": {
+  "repo": "ref4",
+  "path": "06 - Discipulado, Ministerio y Juventud/Joven Cristiano, has nacido de nuevo¿ - Paul Washer.pdf",
+  "autor": "Paul Washer (con John Bunyan)",
+  "obra": "Joven cristiano, ¿has nacido de nuevo?"
+ },
+ "los_jovenes_no__mcdowell": {
+  "repo": "ref4",
+  "path": "06 - Discipulado, Ministerio y Juventud/Los jóvenes no son capaces de determinar lo que es bueno - Josh McDowell.pdf",
+  "autor": "Josh McDowell",
+  "obra": "Los jóvenes no son capaces de determinar lo que es bueno"
+ },
+ "pensamientos_para_hombres__ryle": {
+  "repo": "ref4",
+  "path": "06 - Discipulado, Ministerio y Juventud/Pensamientos para hombres jóvenes_J. C. Ryle.pdf",
+  "autor": "J. C. Ryle",
+  "obra": "Pensamientos para hombres jóvenes"
+ },
+ "un_joven_conforme__george": {
+  "repo": "ref4",
+  "path": "06 - Discipulado, Ministerio y Juventud/Un jóven conforme al corazón de Dios - Jim George.pdf",
+  "autor": "Jim George",
+  "obra": "Un joven conforme al corazón de Dios"
+ },
+ "jonathan_edwards_su__cruz": {
+  "repo": "ref4",
+  "path": "07 - Historia de la Iglesia, Mártires y Biografías/02 - Jonathan_Edwards_su_vida,_obra_y_pensamiento_–_Juan_C_de_la_Cruz.pdf",
+  "autor": "Juan C. de la Cruz",
+  "obra": "Jonathan Edwards: su vida, obra y pensamiento"
+ },
+ "locos_por_jesus__talk": {
+  "repo": "ref4",
+  "path": "07 - Historia de la Iglesia, Mártires y Biografías/07 - dc Talk y La Voz de los Mártires - Locos por Jesús Vol.I.pdf",
+  "autor": "dc Talk y La Voz de los Mártires",
+  "obra": "Locos por Jesús, vol. I"
+ },
+ "martires_y_perseguidores__ropero": {
+  "repo": "ref4",
+  "path": "07 - Historia de la Iglesia, Mártires y Biografías/08 - Alfonso Ropero - MARTIRES Y PERSEGUIDORES.pdf",
+  "autor": "Alfonso Ropero",
+  "obra": "Mártires y perseguidores: historia general de las persecuciones (siglos I-X)"
+ },
+ "el_libro_de__fox": {
+  "repo": "ref4",
+  "path": "07 - Historia de la Iglesia, Mártires y Biografías/09 - El-Libro-de-los-Martires.pdf",
+  "autor": "John Foxe (Juan Fox)",
+  "obra": "El libro de los mártires"
+ },
+ "el_martir_de__roberts": {
+  "repo": "ref4",
+  "path": "07 - Historia de la Iglesia, Mártires y Biografías/10 - El-Martir-de-las-Catacumbas.pdf",
+  "autor": "Richard L. Roberts",
+  "obra": "El mártir de las catacumbas"
+ },
+ "charles_c_ryrie__weaver": {
+  "repo": "ref4",
+  "path": "07 - Historia de la Iglesia, Mártires y Biografías/Charles_C_Ryrie_El_Hombre,_su_Ministerio_y_su_Método_Paul_Weaver.pdf",
+  "autor": "Paul D. Weaver",
+  "obra": "Charles C. Ryrie: el hombre, su ministerio y su método"
+ },
+ "apologetica_en_diez__cruz": {
+  "repo": "ref4",
+  "path": "08 - Apologética, Ciencia y Cosmovisión/02 - Antonio Cruz-Apologética en 10 respuestas.pdf",
+  "autor": "Antonio Cruz, Rainer Siemens y Delmer Wiebe",
+  "obra": "Apologética en diez respuestas"
+ },
+ "apologetica_herramientas_valiosas__geisler2": {
+  "repo": "ref4",
+  "path": "08 - Apologética, Ciencia y Cosmovisión/03 - Apologética;_Herramientas_valiosas_para_la_defensa_de_la_fe_Norman.pdf",
+  "autor": "Norman Geisler y Ron Brooks",
+  "obra": "Apologética: herramientas valiosas para la defensa de la fe"
+ },
+ "el_asedio_de__lahaye": {
+  "repo": "ref4",
+  "path": "08 - Apologética, Ciencia y Cosmovisión/10 - El Asedio de la Mente - Tim La Haye.pdf",
+  "autor": "Tim LaHaye y David Noebel",
+  "obra": "El asedio de la mente (Mind Siege)"
+ },
+ "en_defensa_de__strobel2": {
+  "repo": "ref4",
+  "path": "08 - Apologética, Ciencia y Cosmovisión/12 - En defensa de Jesús.pdf",
+  "autor": "Lee Strobel",
+  "obra": "En defensa de Jesús"
+ },
+ "el_principio_segun__lennox": {
+  "repo": "ref4",
+  "path": "08 - Apologética, Ciencia y Cosmovisión/El principio segun Genesis y la - John C. Lennox.pdf",
+  "autor": "John C. Lennox",
+  "obra": "El principio según Génesis y la ciencia (título truncado en el archivo)"
+ },
+ "biblia_de_estudio__hotton": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Biblia de Estudio para Mujeres RVR 60.pdf · versión 1.pdf",
+  "autor": "Holman Bible Publishers (edición general: Alicia Güerci Hotton)",
+  "obra": "Biblia de estudio para mujeres RVR1960"
+ },
+ "biblia_de_estudio__general": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Biblia_RVR_1960_de_estudio_de_Apologética,_Apologetics_Study_Bible.pdf",
+  "autor": "Ted Cabal (ed. general), con Chad Owen Brand, E. Ray Clendenen, Paul Copan y J. P. Moreland",
+  "obra": "Biblia de Estudio de Apologética (RVR1960)"
+ },
+ "comentario_biblico_moody__redactor": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Comentario Bíblico Moody N T Completo.pdf",
+  "autor": "Everett F. Harrison (redactor)",
+  "obra": "Comentario Bíblico Moody. Nuevo Testamento"
+ },
+ "diez_hombres_de__lucado": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Diez Hombres de-la biblia,Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Diez hombres de la Biblia"
+ },
+ "el_plan_de__scott": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/El Plan de Dios en el Antiguo Testamento - Jack B. Scott(1).pdf",
+  "autor": "Jack B. Scott",
+  "obra": "El plan de Dios en el Antiguo Testamento"
+ },
+ "gedeon_y_sanson__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/JM Gedeón y Sansón - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Gedeón y Sansón: historias de debilidad y fuerza"
+ },
+ "job_un_hombre__mcgee": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Job Un hombre despojado de todo - J. Vernon McGee.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Job: un hombre despojado de todo"
+ },
+ "las_bienaventuranzas__pink": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/LAS BIENAVENTURANZAS.-ARTUR-PINK.pdf",
+  "autor": "Arthur W. Pink",
+  "obra": "Las bienaventuranzas"
+ },
+ "las_100_oraciones__strauss": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Las 100 oraciones más importantes de la Biblia - Ed Strauss.pdf",
+  "autor": "Ed Strauss",
+  "obra": "Las 100 oraciones más importantes de la Biblia"
+ },
+ "los_100_hombres__josephs": {
+  "repo": "ref4",
+  "path": "nuevos/01 - Biblia, Comentarios y Estudio Bíblico/Los 100 Hombres Principales de la Biblia - Drew Josephs.pdf",
+  "autor": "Drew Josephs",
+  "obra": "Los 100 hombres principales de la Biblia: ¿Quiénes son y qué significan hoy para nosotros?"
+ },
+ "que_es_el__sproul2": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/09._R._C._Sproul_-_Qu_es_el_Arrepentimiento.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Qué es el arrepentimiento?"
+ },
+ "buenas_nuevas_el__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Buenas Nuevas - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Buenas Nuevas: el Evangelio de Jesucristo"
+ },
+ "credo_la_confesion__critica": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/CREDO_La_confesión_de_fe_de_Casiodoro_de_ReinaANDRÉS_MESSMER_Editor.pdf",
+  "autor": "Casiodoro de Reina (texto); Andrés Messmer (edición crítica)",
+  "obra": "CREDO: La confesión de fe de Casiodoro de Reina"
+ },
+ "cristo_en_todo__solis": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Cristo en Todo-Majo Solis.pdf",
+  "autor": "Majo Solís",
+  "obra": "Cristo en todo"
+ },
+ "cuando_dios_se__mcgee": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Cuando Dios se hizo hombre - J. Vernon McGee.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "Cuando Dios se hizo hombre"
+ },
+ "doctrinas_de_la__lacueva": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Doctrinas de la Gracia - Francisco Lacueva.pdf",
+  "autor": "Francisco Lacueva",
+  "obra": "Doctrinas de la gracia (Curso de formación teológica evangélica, tomo 5)"
+ },
+ "el_hombre_espiritual__chafer": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/El Hombre Espiritual -Lewis Sperry Chafer.pdf",
+  "autor": "Lewis Sperry Chafer",
+  "obra": "El hombre espiritual"
+ },
+ "el_poder_y__washer": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/El Poder Y El Mensaje Del Evangelio-Paul Washer.pdf",
+  "autor": "Paul Washer",
+  "obra": "El poder y el mensaje del evangelio"
+ },
+ "el_poder_de__evans": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/El Poder de los Nombres de Jesús - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El poder de los nombres de Jesús"
+ },
+ "el_poder_de__evans2": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/El Poder de los Nombres del Espíritu Santo - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El poder de los nombres del Espíritu Santo"
+ },
+ "el_credo_de__mohler": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/El credo de los apóstoles, Albert Mohler.pdf",
+  "autor": "Albert Mohler",
+  "obra": "El Credo de los Apóstoles"
+ },
+ "el_poder_de__evans3": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/El poder de los nombres de Dios Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El poder de los nombres de Dios"
+ },
+ "el_misterio_del__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/El-Misterio-del-Espíritu-Santo-R-C-Spoul_240710_092804.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "El misterio del Espíritu Santo: descubra la obra del Espíritu viviente del Dios viviente"
+ },
+ "gracia_para_ti__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Gracia para Ti - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Gracia para ti: una historia apasionante de la redención de Dios"
+ },
+ "el_amor_de__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/JM El Amor de Dios - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "El amor de Dios: cómo el Dios infinito cuida de Sus hijos"
+ },
+ "el_poder_de__evans4": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/JM El Poder de la Cruz - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El poder de la cruz"
+ },
+ "moldeados_por_el__keller": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/JM Moldeados por el Evangelio - Timothy Keller.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Moldeados por el evangelio"
+ },
+ "teologia_en_la__evans": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/JM Teología en la que Puedes Confiar - Tony Evans (JM).pdf",
+  "autor": "Tony Evans",
+  "obra": "Teología en la que puedes confiar"
+ },
+ "una_vida_perfecta__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/John MacArthur - Una Vida Perfecta.pdf",
+  "autor": "John MacArthur",
+  "obra": "Una vida perfecta: la historia completa del Señor Jesús"
+ },
+ "cuando_no_deseo__piper": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/John Piper - Cuando No Deseo a Dios.pdf",
+  "autor": "John Piper",
+  "obra": "Cuando no deseo a Dios: la batalla por el gozo"
+ },
+ "preguntas_y_respuestas__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/John_Macarthur_Preguntas_Y_Respuestas_Sobre_El_Dia_Del_Señor.pdf",
+  "autor": "John MacArthur",
+  "obra": "Preguntas y respuestas sobre el Día del Señor"
+ },
+ "una_grieta_en__deyoung": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Kevin-Deyoung-Una-grieta-en-tu-santidad-1-pdf.pdf",
+  "autor": "Kevin DeYoung",
+  "obra": "Una grieta en tu santidad"
+ },
+ "la_santidad_de__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/LA SANTIDAD DE DIOS-Sproul (1) (1).pdf",
+  "autor": "R. C. Sproul",
+  "obra": "La santidad de Dios"
+ },
+ "la_gloriosa_iglesia__evans": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/La Gloriosa Iglesia de Dios - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "La gloriosa iglesia de Dios: el misterio y la misión del cuerpo de Cristo"
+ },
+ "la_gracia_de__evans": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/La Gracia de Dios - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "La gracia de Dios"
+ },
+ "la_oracion_del__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/La Oración del Señor - R.C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "La oración del Señor"
+ },
+ "la_doctrina_de__pink": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/La doctrina de la justificación  A. W. PINK.pdf",
+  "autor": "Arthur W. Pink",
+  "obra": "La doctrina de la justificación"
+ },
+ "no_hay_otro__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/No Hay Otro - John MacArthur (JM).pdf",
+  "autor": "John MacArthur",
+  "obra": "No hay otro: el Dios de la Biblia"
+ },
+ "por_que_nacio__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Por Qué Nació Jesús - John MacArthur (1).pdf",
+  "autor": "John MacArthur",
+  "obra": "¿Por qué nació Jesús?"
+ },
+ "quien_es_este__evans": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Quién es Este Jesús - Tony Evans (1).pdf",
+  "autor": "Tony Evans",
+  "obra": "¿Quién es este Jesús?"
+ },
+ "que_buena_pregunta__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/R. C. Sproul - Que Buena Pregunta.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¡Qué buena pregunta!"
+ },
+ "salvado_de_que__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/R. C. Sproul - Salvado de Qué.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "Salvado de qué"
+ },
+ "una_pasion_santa__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Una Pasión Santa - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "Una pasión santa (Atributos de Dios)"
+ },
+ "etica_cristiana_una__grudem": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/Wayne Grudem-Etica Cristiana.pdf",
+  "autor": "Wayne Grudem",
+  "obra": "Ética cristiana: una introducción al razonamiento moral bíblico"
+ },
+ "el_evangelio_segun__macarthur2": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/john-macarthur-el_evangelio-segc3ban-jesucristo.pdf",
+  "autor": "John F. MacArthur",
+  "obra": "El evangelio según Jesucristo"
+ },
+ "que_es_el__gilbert": {
+  "repo": "ref4",
+  "path": "nuevos/02 - Teología, Doctrina y Cristología/¿Qué es el hombre  - El corazón del evangelio.pdf",
+  "autor": "Greg Gilbert",
+  "obra": "¿Qué es el hombre? (El corazón del evangelio)"
+ },
+ "adoracion_la_razon__tozer": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/ADORACION-A-W-Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Adoración: la razón por la que fuimos creados"
+ },
+ "bajo_las_alas__piper": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Bajo Las Alas De Dios-John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Bajo las alas de Dios"
+ },
+ "cambio_de_rumbo__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Cambio de Rumbo - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Cambio de rumbo (U-Turns)"
+ },
+ "fieles_a_cristo__spurgeon": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Charles H. Spurgeon. Fieles a Cristo - PDF eBook.pdf",
+  "autor": "Charles H. Spurgeon",
+  "obra": "Fieles a Cristo"
+ },
+ "en_armonia_con__stanley2": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Charles Stanley - EN ARMONIA CON DIOS.pdf",
+  "autor": "Charles F. Stanley",
+  "obra": "En armonía con Dios"
+ },
+ "tentado_no_cedas__stanley": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Charles Stanley, tentado, no cedas.pdf",
+  "autor": "Charles Stanley",
+  "obra": "Tentado, no cedas"
+ },
+ "comienza_ahora_la__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Comienza Ahora la Eternidad - Tony Evans (1).pdf",
+  "autor": "Tony Evans",
+  "obra": "Comienza ahora la eternidad"
+ },
+ "cortando_en_pedazos__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Cortando en Pedazos a Agag - John MacArthur (1) (1) (2).pdf",
+  "autor": "John F. MacArthur",
+  "obra": "Cortando en pedazos a Agag"
+ },
+ "crees_la_biblia__nunez": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Crees la Biblia o Vives la Biblia Miguel Núñez.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "¿Crees la Biblia o vives la Biblia?"
+ },
+ "como_decir_no__lutzer": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/CÓMO DECIR NO A LOS HÁBITOS PECAMINOSOS - Erwin W. Lutzer.pdf",
+  "autor": "Erwin W. Lutzer",
+  "obra": "Cómo decir no a los hábitos pecaminosos"
+ },
+ "dios_con_nosotros__bello": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/DIOS CON NOSOTROS.Devocionales de Navidad- W Bello.pdf",
+  "autor": "Wendy Bello",
+  "obra": "Dios con nosotros: Devocional de adviento"
+ },
+ "devocion_diaria__spurgeon": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Devoción Diaria-Charles Spurgeon.pdf",
+  "autor": "C. H. Spurgeon",
+  "obra": "Devoción diaria"
+ },
+ "el_pecado_que__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/El_Pecado_que_la_Mayoría_de_los_Creyentes_Quizás_No_Reconozcan_Tony.pdf",
+  "autor": "Tony Evans",
+  "obra": "El pecado que la mayoría de los creyentes quizás no reconozcan"
+ },
+ "en_paz_me__spurgeon": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/En Paz Me Acostare-Charles Spurgeon.pdf",
+  "autor": "Charles H. Spurgeon",
+  "obra": "En paz me acostaré (Evening by Evening)"
+ },
+ "la_paz_de__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/JM La Paz de Dios - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "La paz de Dios"
+ },
+ "lo_que_le__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/JM Lo que le Importa a Jesús - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Lo que le importa a Jesús"
+ },
+ "el_es_dios__pritchard": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/JM Él es Dios y Nosotros No - Ray Pritchard.pdf",
+  "autor": "Ray Pritchard",
+  "obra": "Él es Dios y nosotros no"
+ },
+ "como_puede_estar__lutzer": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/JM_Cómo_Puede_Estar_Seguro_de_que_Pasará_la_Eternidad_con_Dios_Erwin.pdf",
+  "autor": "Erwin W. Lutzer",
+  "obra": "Cómo puede estar seguro de que pasará la eternidad con Dios"
+ },
+ "la_coleccion_navidena__lucado": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/La Colección Navideña de Max Lucado - Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "La colección navideña de Max Lucado"
+ },
+ "la_maravilla_de__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/La Maravilla de la Palabra - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "La maravilla de la Palabra"
+ },
+ "la_palabra_transformadora__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/La Palabra Transformadora - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "La palabra transformadora"
+ },
+ "la_paz_del__spurgeon": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/La Paz del Diablo - Charles H. Spurgeon.pdf",
+  "autor": "C. H. Spurgeon",
+  "obra": "La paz del diablo"
+ },
+ "la_promesa_experimentando__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/La Promesa - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "La promesa: experimentando el mayor regalo de Dios, el Espíritu Santo"
+ },
+ "la_vida_en__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/La Vida en el Reino - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "La vida en el Reino"
+ },
+ "llegar_mas_alto__tozer": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Llegar-mas-Alto-con-Dios-en-Oracion-A-W-Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Llegar más alto con Dios en oración"
+ },
+ "madurez_cristiana__tozer": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Madurez Cristiana - A. W. Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Madurez cristiana"
+ },
+ "dios_se_acerco__lucado": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Max Lucado-Dios se acercó.pdf",
+  "autor": "Max Lucado",
+  "obra": "Dios se acercó"
+ },
+ "clama_a_mi__nunez": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Miguel Nuñez - Clama a mí.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "Clama a mí"
+ },
+ "siervos_para_su__nunez": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Miguel Nuñez - Siervos para su gloria.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "Siervos para Su gloria: antes de hacer tienes que ser"
+ },
+ "nunca_te_rindas__lucado": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Nunca te Rindas - Max Lucado (jmalca07).pdf",
+  "autor": "Max Lucado",
+  "obra": "Nunca te rindas: Dios es bueno cuando la vida no lo es"
+ },
+ "oracion_del_reino__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Oración del Reino - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Oración del Reino: tocar el cielo para cambiar la tierra"
+ },
+ "psicologia_biblica__chambers": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Psicologia-Biblica-Oswald-Chambers.pdf",
+  "autor": "Oswald Chambers",
+  "obra": "Psicología bíblica"
+ },
+ "que_le_ha__tozer": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Que le ha sucedido a la adoración - A.W. Tozerç.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "¿Qué le ha sucedido a la adoración?"
+ },
+ "valor_inquebrantable__lucado": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Valor Inquebrantable - Max Lucado (jmalca07).pdf",
+  "autor": "Max Lucado",
+  "obra": "Valor inquebrantable"
+ },
+ "vivir_con_integridad__nunez": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/Vivir con integridad y sabiduri - Miguel Nunez.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "Vivir con integridad y sabiduría"
+ },
+ "yo_soy_el__nunez": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/YO SOY EL Dios que te Transforma - Miguel Núñez (JM).pdf",
+  "autor": "Miguel Núñez",
+  "obra": "Yo soy el Dios que te transforma"
+ },
+ "interrupcion_divina_sosteniendo__evans": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/interrupción Divina - Tony Evans (1).pdf",
+  "autor": "Tony Evans, Chrystal Evans Hurst, Priscilla Shirer, Anthony Evans y Jonathan Evans",
+  "obra": "Interrupción divina: sosteniendo la fe cuando la vida te rompe el corazón"
+ },
+ "libro_de_oro__calvino": {
+  "repo": "ref4",
+  "path": "nuevos/03 - Vida Cristiana, Devocionales y Oración/juan-calvino-el-libro-de-oro-de-la-verdadera-vida-cristiana.pdf",
+  "autor": "Juan Calvino",
+  "obra": "Libro de oro de la verdadera vida cristiana"
+ },
+ "el_hombre_como__waldron": {
+  "repo": "ref4",
+  "path": "nuevos/04 - Hombre Cristiano/El hombre como sacerdote del hogar-Sam Waldron.pdf",
+  "autor": "Sam Waldron",
+  "obra": "El hombre como sacerdote del hogar"
+ },
+ "actuen_como_hombres__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/04 - Hombre Cristiano/JM Actúen Como Hombres - John MacArthur.pdf",
+  "autor": "John F. MacArthur",
+  "obra": "Actúen como hombres"
+ },
+ "el_hombre_cristiano__morley": {
+  "repo": "ref4",
+  "path": "nuevos/04 - Hombre Cristiano/JM El Hombre Cristiano - Patrick Morley.pdf",
+  "autor": "Patrick Morley",
+  "obra": "El hombre cristiano"
+ },
+ "un_hombre_conforme__george": {
+  "repo": "ref4",
+  "path": "nuevos/04 - Hombre Cristiano/Un hombre conforme al corazón de Dios.pdf",
+  "autor": "Jim George",
+  "obra": "Un hombre conforme al corazón de Dios"
+ },
+ "10_secretos_de__clinton": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/10_secretos_de_mujeres_extraordinari_Secrets_of_Extraordinary_Women.pdf",
+  "autor": "Julie Clinton, con Mary M. Byers",
+  "obra": "10 secretos de mujeres extraordinarias"
+ },
+ "doce_mujeres_extraordinarias__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/12 mujeres extraordinarias- John Macarthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Doce mujeres extraordinarias"
+ },
+ "adornadas__wolgemuth": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Adornadas-Nancy Leigh DeMoss Wolgemuth.pdf",
+  "autor": "Nancy Leigh DeMoss Wolgemuth",
+  "obra": "Adornadas"
+ },
+ "convertirse_en_la__wolgemuth": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Atrévete a ser una Mujer Verdadera - Nancy DeMoss Wolgemuth.pdf",
+  "autor": "Nancy DeMoss Wolgemuth",
+  "obra": "Convertirse en la verdadera mujer de Dios"
+ },
+ "devocional_en_un__briscoe": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Devocional para mujeres en un añl.pdf",
+  "autor": "Jill Briscoe",
+  "obra": "Devocional en un año para mujeres"
+ },
+ "el_llamado_supremo__george": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/El Llamado Supremo de la Mujer - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "El llamado supremo de la mujer"
+ },
+ "el_caminar_con__george": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/El caminar con Dios de una joven PDF.pdf",
+  "autor": "Elizabeth George",
+  "obra": "El caminar con Dios de una joven (resumen Bookey)"
+ },
+ "elisabet_la_historia__wolgemuth": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Elisabet-Nancy DeMoss Wolgemuth.pdf",
+  "autor": "Nancy DeMoss Wolgemuth",
+  "obra": "Elisabet: la historia de Elisabet (relatada en Lucas 1)"
+ },
+ "una_joven_conforme__george": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Elizabeth George - Una Joven Conforme Al Corazón De Dios.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Una joven conforme al corazón de Dios"
+ },
+ "una_mujer_conforme__george": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Elizabeth George - Una Mujer Conforme Al Corazon Dios.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Una mujer conforme al corazón de Dios"
+ },
+ "proverbios_para_el__george": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Elizabeth George-Proverbios para el corazón de la mujer.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Proverbios para el corazón de la mujer"
+ },
+ "ester_la_historia__wolgemuth": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Ester-Nancy Demoss Wolgemuth.pdf",
+  "autor": "Nancy DeMoss Wolgemuth",
+  "obra": "Ester: la historia de Ester"
+ },
+ "ester_descubre_como__george": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Ester_Descubre_como_ser_una_mujer_bella_y_fuerte_Elizabeth_George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Ester: descubre cómo ser una mujer bella y fuerte"
+ },
+ "la_mujer_cultivada__saffles": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/La Mujer Cultivada en Su Palabra – Gretchen Saffles.pdf",
+  "autor": "Gretchen Saffles",
+  "obra": "La mujer cultivada en su Palabra"
+ },
+ "las_disciplinas_de__hughes2": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Las disciplinas de una mujer piadosa- Barbara Hughes.pdf",
+  "autor": "Barbara Hughes",
+  "obra": "Las disciplinas de una mujer piadosa"
+ },
+ "la_sabiduria_de__brownback": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/MUJERES SABIAS - LYDIA BROWNBACK.pdf",
+  "autor": "Lydia Brownback",
+  "obra": "La sabiduría de una mujer (Mujeres sabias)"
+ },
+ "mentiras_que_las__demoss": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mentiras que las Jóvenes Creen - Hannah Gresh.pdf",
+  "autor": "Nancy Leigh DeMoss y Dannah Gresh",
+  "obra": "Mentiras que las jóvenes creen"
+ },
+ "mentiras_que_las__demoss2": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mentiras_que_las_mujeres_creen_guia_de_estudio_Nancy_Demoss_4.pdf",
+  "autor": "Nancy DeMoss",
+  "obra": "Mentiras que las mujeres creen: guía de estudio"
+ },
+ "mujer_atipica__dodds": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mujer Atípica - Abigail Dodds (1).pdf",
+  "autor": "Abigail Dodds",
+  "obra": "Mujer atípica"
+ },
+ "mujeres_de_la__higgs": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mujeres de la Biblia Ligeramente Malas - Liz Curtis Higgs.pdf",
+  "autor": "Liz Curtis Higgs",
+  "obra": "Mujeres de la Biblia... ligeramente malas"
+ },
+ "devocional_de_la__evans": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mujeres del Reino Devocional-Tony Evans.pdf",
+  "autor": "Tony Evans y Chrystal Evans Hurst",
+  "obra": "Devocional de la Mujer del Reino"
+ },
+ "mujeres_reales_semblanzas__nyman": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mujeres reales - Maija Nyman.pdf",
+  "autor": "Maija Nyman",
+  "obra": "Mujeres reales: semblanzas de personajes femeninos de la Biblia"
+ },
+ "mujeres_malas_de__higgs": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mujeres_Malas_De_La_Biblia_Lo_Que_Podemos_Aprender_De_Ellas_Higgs.pdf",
+  "autor": "Liz Curtis Higgs",
+  "obra": "Mujeres malas de la Biblia"
+ },
+ "mujeres_de_la__diaz": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Mujeres_de_la_Biblia_Hablan_Hoy_Reales,_Relevantes_y_Radicales_Jorge.pdf",
+  "autor": "Jorge Enrique Díaz",
+  "obra": "Mujeres de la Biblia hablan hoy: Reales, relevantes y radicales"
+ },
+ "muy_bendecida_para__coty": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Muy bendecida Para Estar Estresada - Debora M. Coty.pdf",
+  "autor": "Debora M. Coty",
+  "obra": "Muy bendecida para estar estresada"
+ },
+ "mas_mujeres_malas__higgs": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Más Mujeres Malas de la Biblia - Liz Curtis Higgs.pdf",
+  "autor": "Liz Curtis Higgs",
+  "obra": "Más mujeres malas de la Biblia"
+ },
+ "preocupate_menos_y__maltese": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/PREOCUPATE_MENOS_Y_ORA_MAS_Devocional_para_mujeres_Donna_K_Maltese.pdf",
+  "autor": "Donna K. Maltese",
+  "obra": "Preocúpate menos y ora más: Devocional para mujeres"
+ },
+ "preguntas_que_las__wright": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Preguntas_Que_Las_Mujeres_Hacen_En_Privado_spanish_Edition_H_Norman.pdf",
+  "autor": "H. Norman Wright",
+  "obra": "Preguntas que las mujeres hacen en privado"
+ },
+ "rahab__wolgemuth": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Rahab-Nancy DeMoss Wolgemuth.pdf",
+  "autor": "Nancy DeMoss Wolgemuth",
+  "obra": "Rahab"
+ },
+ "rut__wolgemuth": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Rut-Nancy DeMoss Wolgemuth.pdf",
+  "autor": "Nancy DeMoss Wolgemuth",
+  "obra": "Rut"
+ },
+ "santidad_el_corazon__demoss": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/SANTIDAD NANCY LEIGH DEMOSS.pdf",
+  "autor": "Nancy Leigh DeMoss",
+  "obra": "Santidad: El corazón purificado por Dios"
+ },
+ "lecturas_devocionales_para__george": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Una Madre Conforme al Corazón de Dios.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Lecturas devocionales para una madre conforme al corazón de Dios"
+ },
+ "una_mujer_sabia__bello": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/Una Mujer Sabia Principios Para Vivir-Wendy Bello.pdf",
+  "autor": "Wendy Bello",
+  "obra": "Una mujer sabia: Principios para vivir la vida como Dios la diseñó"
+ },
+ "el_caminar_con__george2": {
+  "repo": "ref4",
+  "path": "nuevos/05 - Mujer Cristiana/el Caminar con Dios de una Joven.  Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "El caminar con Dios de una joven (A Young Woman's Walk with God)"
+ },
+ "las_5_necesidades__gary": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/5 necesidades sexuales de hombres y mujeres .pdf",
+  "autor": "Gary y Barbara Rosberg",
+  "obra": "Las 5 necesidades sexuales de hombres y mujeres"
+ },
+ "los_5_lenguajes__chapman": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/CHAPMAN,_Gary_Los_5_Lenguajes_del_Amor_El_Secreto_del_amor_que_perdura.pdf",
+  "autor": "Gary Chapman",
+  "obra": "Los 5 lenguajes del amor: El secreto del amor que perdura"
+ },
+ "cuando_una_mujer__mcmenamin": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Cuando Una Mujer Inspira a su Esposo-Cindi McMenamin.pdf",
+  "autor": "Cindi McMenamin",
+  "obra": "Cuando una mujer inspira a su marido"
+ },
+ "el_matrimonio_pacto__chapman": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/El Matrimonio Pacto y Compromiso - Gary Chapman.pdf",
+  "autor": "Gary Chapman",
+  "obra": "El matrimonio: pacto y compromiso"
+ },
+ "el_matrimonio_que__ingram": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/El Matrimonio que Funciona - Chip Ingram.pdf",
+  "autor": "Chip Ingram",
+  "obra": "El matrimonio que funciona"
+ },
+ "el_significado_del__keller2": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/El significado del matrimonio 365 devocionales para parejas.pdf",
+  "autor": "Timothy Keller y Kathy Keller",
+  "obra": "El significado del matrimonio: un devocional para parejas"
+ },
+ "el_matrimonio_y__jr": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/El_Matrimonio_y_el_Misterio_del_Evangelio_Ray_Ortlund_dakkyu.pdf",
+  "autor": "Raymond C. Ortlund Jr.",
+  "obra": "El matrimonio y el misterio del evangelio"
+ },
+ "21_ideas_de__familia": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Enfoque-a-la-Familia-21-ideas-de-citas-con-su-cónyuge.pdf",
+  "autor": "Enfoque a la Familia",
+  "obra": "21 ideas de citas con su cónyuge (Reconectándonos en el matrimonio)"
+ },
+ "ama_a_tu__chapman": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Gary Chapman - Ama a tu conyuge... (4).pdf",
+  "autor": "Gary Chapman",
+  "obra": "Ama a tu cónyuge cuando tienes ganas de marcharte"
+ },
+ "el_amor_como__chapman": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Gary Chapman - El amor como forma de vida.pdf",
+  "autor": "Gary Chapman",
+  "obra": "El amor como forma de vida"
+ },
+ "las_cinco_necesidades__gary": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Gary_Rosberg_LAS_5_NECESIDADES_SEXUALES_DE_HOMBRES_Y_MUJERES.pdf",
+  "autor": "Gary y Barbara Rosberg",
+  "obra": "Las cinco necesidades sexuales de hombres y mujeres"
+ },
+ "lo_que_toda__barnes": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Lo_que_toda_mujer_necesita_de_un_hombre_Barnes_Emilie_Pugliese.pdf",
+  "autor": "Emilie Barnes",
+  "obra": "Lo que toda mujer necesita de un hombre"
+ },
+ "los_cinco_lenguajes__chapman": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Los_5_Lenguajes_del_Amorpara_Hombres_Gary_Chapman_Traducido_con.pdf",
+  "autor": "Gary Chapman",
+  "obra": "Los cinco lenguajes del amor para hombres"
+ },
+ "pasion_y_pureza__elliot": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Pasión y pureza - Elizabeth Elliot.pdf",
+  "autor": "Elisabeth Elliot",
+  "obra": "Pasión y pureza"
+ },
+ "sana_las_heridas__gary": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Sana_Las_Heridas_En_Tu_Matrimonio_Más_Allá_del_Desánimo_Gary.pdf",
+  "autor": "Gary y Barbara Rosberg",
+  "obra": "Sana las heridas en tu matrimonio: más allá del desánimo, el enojo y el resentimiento hacia el perdón"
+ },
+ "solo_para_esposas__evans": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Solo para esposas- Tony Evans-1.pdf",
+  "autor": "Tony Evans",
+  "obra": "Solo para esposas: tres principios para honrar a tu esposo"
+ },
+ "solo_para_esposos__evans": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Solo para esposos - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Solo para esposos: tres principios para amar a su esposa"
+ },
+ "una_pareja_conforme__jim": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/Una_pareja_conforme_al_corazon_de_Dios_Elizabeth_George_3.pdf",
+  "autor": "Jim y Elizabeth George",
+  "obra": "Una pareja conforme al corazón de Dios"
+ },
+ "la_batalla_de__arterburn": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/la batalla de cada hombre.pdf",
+  "autor": "Stephen Arterburn y Fred Stoeker, con Mike Yorkey",
+  "obra": "La batalla de cada hombre"
+ },
+ "la_batalla_de__arterburn2": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/la-batalla-de-cada-hombre-joven.pdf",
+  "autor": "Stephen Arterburn",
+  "obra": "La batalla de cada hombre joven"
+ },
+ "sexo_y_la__piper": {
+  "repo": "ref4",
+  "path": "nuevos/06 - Matrimonio, Noviazgo y Sexualidad/pdf-sexo-y-la-supremacia-de-cristodocx_compress (1).pdf",
+  "autor": "John Piper y Justin Taylor",
+  "obra": "Sexo y la supremacía de Cristo"
+ },
+ "como_criar_hijos__lessin": {
+  "repo": "ref4",
+  "path": "nuevos/07 - Familia y Crianza/Como-Criar-Hijos-Felices-Y-Obedientes-Roy-Lessin.pdf",
+  "autor": "Roy Lessin",
+  "obra": "Cómo criar hijos felices y obedientes"
+ },
+ "habitos_de_la__earley": {
+  "repo": "ref4",
+  "path": "nuevos/07 - Familia y Crianza/Hábitos de la Familia - Justin Whitmel Earley.pdf",
+  "autor": "Justin Whitmel Earley",
+  "obra": "Hábitos de la familia"
+ },
+ "pastoreando_el_corazon__tripp": {
+  "repo": "ref4",
+  "path": "nuevos/07 - Familia y Crianza/Tedd-Tripp - Cómo Pastorear el Corazón del Niño.pdf",
+  "autor": "Tedd Tripp",
+  "obra": "Pastoreando el corazón del niño"
+ },
+ "teologia_de_la__pollard": {
+  "repo": "ref4",
+  "path": "nuevos/07 - Familia y Crianza/Teologia De La Familia.pdf",
+  "autor": "Jeff Pollard y Scott T. Brown (eds.)",
+  "obra": "Teología de la familia: cinco siglos de sabiduría bíblica para la vida familiar"
+ },
+ "tony_evans_habla__evans": {
+  "repo": "ref4",
+  "path": "nuevos/07 - Familia y Crianza/Tony_Evans_Habla_Sobre_la_Crianza_para_Padres_Solteros_Tony_Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Tony Evans habla sobre la crianza para padres solteros"
+ },
+ "una_familia_bajo__evans": {
+  "repo": "ref4",
+  "path": "nuevos/07 - Familia y Crianza/Una Familia Bajo Dios - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Una familia bajo Dios"
+ },
+ "edad_de_oportunidad__tripp": {
+  "repo": "ref4",
+  "path": "nuevos/07 - Familia y Crianza/edad_de_oportunidad_PAUL_TRIPP.pdf",
+  "autor": "Paul David Tripp",
+  "obra": "Edad de oportunidad"
+ },
+ "discipulado__washer": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/1. Discipulado-Paul Washer.pdf",
+  "autor": "Paul Washer",
+  "obra": "Discipulado"
+ },
+ "7_secretos_para__valerga": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/7 Secretos Para Líderes de Jóvenes.pdf",
+  "autor": "Sergio Valerga",
+  "obra": "7 secretos para líderes de jóvenes"
+ },
+ "discipulado_emocionalmente_sano__scazzero": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/DISCIPULADO EMOCIONALMENTE SANO.  Peter-Scazzero.pdf",
+  "autor": "Peter Scazzero",
+  "obra": "Discipulado emocionalmente sano"
+ },
+ "el_lider_emocionalmente__scazzero": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/EL LIDER EMOCIONALMENTE SANO - Peter Scazzero.pdf",
+  "autor": "Peter Scazzero",
+  "obra": "El líder emocionalmente sano"
+ },
+ "ganadores_de_hombres__spurgeon": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Ganadores de hombres por Charles Spurgeon_112813.pdf",
+  "autor": "Charles Haddon Spurgeon",
+  "obra": "Ganadores de hombres"
+ },
+ "limites_para_lideres__cloud": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Henry Cloud - LIMITES PARA LIDERES.pdf",
+  "autor": "Henry Cloud",
+  "obra": "Límites para líderes"
+ },
+ "la_juventud_frente__chiang": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/La juventud frente a los desafi - Alex Chiang.pdf",
+  "autor": "Alex Chiang",
+  "obra": "La juventud frente a los desafíos"
+ },
+ "lo_que_todo__leys": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Lo que Todo Pastor debe Saber de su Lider de Jovenes .pdf",
+  "autor": "Lucas Leys",
+  "obra": "Lo que todo pastor debe saber de su líder de jóvenes"
+ },
+ "predicando_con_frescura__mawhinney": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Predicando con frescura (Spanis - Bruce Mawhinney.pdf",
+  "autor": "Bruce Mawhinney",
+  "obra": "Predicando con frescura"
+ },
+ "soy_lider_de__leon": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/SOY_LIDER_DE_JOVENES_Y_AHORA_QUIEN_PODRA_AYUDARME__.pdf",
+  "autor": "Jeffrey D. De León",
+  "obra": "Soy líder de jóvenes, y ahora... ¿quién podrá ayudarme?"
+ },
+ "de_parte_de__michelen": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Sugel_De_parte_de_Dios_y_delante_de_Dios_Predicación_expositiva.pdf",
+  "autor": "Sugel Michelén",
+  "obra": "De parte de Dios y delante de Dios: predicación expositiva"
+ },
+ "iglesia_centrada__keller": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Timothy Keller-Iglesia centrada.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Iglesia centrada"
+ },
+ "una_iglesia_emocionalmente__scazzero": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/UNA IGLESIA EMOCIONALMENTE SANA - Peter Scazzero.pdf",
+  "autor": "Peter Scazzero",
+  "obra": "Una iglesia emocionalmente sana"
+ },
+ "un_llamado_al__jr": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/Un Llamado al Gozo - DISCÍPULO - Billie Hanks, Jr.pdf",
+  "autor": "Billie Hanks Jr.",
+  "obra": "Un llamado al gozo: Discípulo"
+ },
+ "recursos_completos_para__reedy": {
+  "repo": "ref4",
+  "path": "nuevos/08 - Liderazgo, Pastoral, Predicación y Discipulado/ministerios_juveniles.pdf",
+  "autor": "Bud Reedy",
+  "obra": "Recursos completos para ministerios juveniles"
+ },
+ "desafios_para_jovenes__tosoni": {
+  "repo": "ref4",
+  "path": "nuevos/09 - Juventud/Desafíos para Jóvenes - Exodo y Levítico, Edgardo Tosoni.pdf",
+  "autor": "Edgardo Tosoni",
+  "obra": "Desafíos para jóvenes: Éxodo y Levítico"
+ },
+ "la_batalla_de__leys": {
+  "repo": "ref4",
+  "path": "nuevos/09 - Juventud/LEYS, Lucas. La batalla de las drogas.pdf",
+  "autor": "Lucas Leys y Gabi Morales",
+  "obra": "La batalla de las drogas"
+ },
+ "101_respuestas_a__hitchcock": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/101_Respuestas_a_Preguntas_Sobre_el_Libro_del_Apocalipsis_Mark_Hitchcock.pdf",
+  "autor": "Mark Hitchcock",
+  "obra": "101 respuestas a preguntas sobre el libro del Apocalipsis"
+ },
+ "cristo_en_el__carballosa": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/Cristo en el Milenio Evis Lo Carballosa.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Cristo en el milenio"
+ },
+ "enfrentando_la_muerte__graham": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/Enfrentando_la_Muerte_y_la_Vida_en_el_Más_Allá_Billy_Graham.pdf",
+  "autor": "Billy Graham",
+  "obra": "Enfrentando la muerte y la vida en el más allá"
+ },
+ "israel_palestina_y__piper": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/Israel, Palestina y el Medio Oriente John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Israel, Palestina y el Medio Oriente"
+ },
+ "tu_primer_minuto__lutzer": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/JM Tu Primer Minuto Después de Morir - Erwin W. Lutzer.pdf",
+  "autor": "Erwin W. Lutzer",
+  "obra": "Tu primer minuto después de morir"
+ },
+ "la_batalla_de__ice": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/La Batalla de Gog y Magog - Thomas Ice.pdf",
+  "autor": "Thomas Ice",
+  "obra": "La batalla de Gog y Magog: una interpretación de Ezequiel 38 y 39"
+ },
+ "la_cuestion_del__walvoord": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/La Cuestion Del Rapto - John F. Walvoord.pdf",
+  "autor": "John F. Walvoord",
+  "obra": "La cuestión del rapto"
+ },
+ "los_cuatro_jinetes__graham": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/Los Cuatro Jinetes del Apocalipsis - Billy Graham.pdf",
+  "autor": "Billy Graham",
+  "obra": "Los cuatro jinetes del Apocalipsis se acercan a galope"
+ },
+ "que_dice_la__dyer": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/Qué Dice la Bíblia Sobre el Futuro_ - Charles H. Dyer.pdf",
+  "autor": "Charles H. Dyer",
+  "obra": "¿Qué dice la Biblia sobre el futuro?"
+ },
+ "respuestas_a_tus__jeremiah": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/Respuestas a tus Preguntas Acerca del Cielo - David Jeremiah.pdf",
+  "autor": "David Jeremiah",
+  "obra": "Respuestas a tus preguntas acerca del cielo"
+ },
+ "un_recorrido_en__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/10 - Escatología y Profecía/Un Recorrido en Avión por el Apocalipsis - John MacArthur.pdf",
+  "autor": "John F. MacArthur",
+  "obra": "Un recorrido en avión por el Apocalipsis"
+ },
+ "catolicos_romanos_y__geisler": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Católicos_Romanos_y_Evangélicos_Norman_Geisler_y_Ralph_MacKenzie.pdf",
+  "autor": "Norman L. Geisler y Ralph E. MacKenzie",
+  "obra": "Católicos romanos y evangélicos: acuerdos y diferencias"
+ },
+ "como_saber_que__mcdowell": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Cómo_Saber_que_Dios_Existe_Josh_McDowell_y_Thomas_Williams.pdf",
+  "autor": "Josh D. McDowell y Thomas Williams",
+  "obra": "Cómo saber que Dios existe"
+ },
+ "desenmascaremos_el_islam__caner": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Desenmascaremos el Islam - Ergun & Emir Caner.pdf",
+  "autor": "Ergun Mehmet Caner y Emir Fethi Caner",
+  "obra": "Desenmascaremos el islam"
+ },
+ "dios_la_ia__lennox": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Dios, la IA y el Final de la Historia - John C. Lennox (1).pdf",
+  "autor": "John C. Lennox",
+  "obra": "Dios, la IA y el final de la historia"
+ },
+ "dioses_que_fallan__keller": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Dioses que fallan .-  Timothy  Keller.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Dioses que fallan"
+ },
+ "el_aborto__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/El Aborto - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "El aborto"
+ },
+ "el_lado_oscuro__sproul": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/El Lado Oscuro del Islam - R. C. Sproul y Abdul Saleeb (JM).pdf",
+  "autor": "R. C. Sproul y Abdul Saleeb",
+  "obra": "El lado oscuro del islam"
+ },
+ "el_testigo_novela__mcdowell": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/El Testigo - Josh McDowell.pdf",
+  "autor": "Josh McDowell",
+  "obra": "El testigo (novela)"
+ },
+ "el_circo_del__hidalgo": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/El circo del ateismo - Rigoberto Hidalgo.pdf",
+  "autor": "Rigoberto Hidalgo",
+  "obra": "El circo del ateísmo"
+ },
+ "el_caso_de__strobel3": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/El-Caso-De-La-Fe-Lee-Strobel.pdf",
+  "autor": "Lee Strobel",
+  "obra": "El caso de la fe"
+ },
+ "dioses_falsos__keller": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/JM Dioses Falsos - Timothy Keller (1).pdf",
+  "autor": "Timothy Keller",
+  "obra": "Dioses falsos"
+ },
+ "la_iglesia_en__lutzer": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/La Iglesia en Babilonia - Erwin W. Lutzer.pdf",
+  "autor": "Erwin W. Lutzer",
+  "obra": "La Iglesia en Babilonia"
+ },
+ "la_huella_de__suarez": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/La_huella_de Dios. Evidencias_de_la_creacion.pdf",
+  "autor": "Antonio Cruz Suárez",
+  "obra": "La huella de Dios: evidencias de la creación"
+ },
+ "los_testigos_de__rhodes": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Los Testigos de Jehová a la Luz de la Biblia - Ron Rhodes.pdf",
+  "autor": "Ron Rhodes",
+  "obra": "Los Testigos de Jehová a la luz de la Biblia"
+ },
+ "mas_que_un__mcdowell": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Más_que_un_carpintero_Josh_McDowell_Sean_McDowell_z_library_sk,.pdf",
+  "autor": "Josh McDowell y Sean McDowell",
+  "obra": "Más que un carpintero"
+ },
+ "pruebas_de_la__wurmbrand": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Pruebas de la Existencia de Dios - Richard Wurmbrand.pdf",
+  "autor": "Richard Wurmbrand",
+  "obra": "Pruebas de la existencia de Dios"
+ },
+ "terrorismo_yihad_y__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/11 - Apologética, Cosmovisión y Otras Religiones/Terrorismo, Yihad y la Biblia - John MacArthur (1).pdf",
+  "autor": "John MacArthur",
+  "obra": "Terrorismo, yihad y la Biblia"
+ },
+ "padre_de_huerfanos__benge": {
+  "repo": "ref4",
+  "path": "nuevos/12 - Historia, Biografías y Mártires/Padre_de_Huerfanos_la_Vida_de_George_Muller_Janet_&_Geoff_Benge.pdf",
+  "autor": "Janet Benge y Geoff Benge",
+  "obra": "Padre de huérfanos: la vida de George Müller"
+ },
+ "12_claves_para__gonzalez": {
+  "repo": "ref4",
+  "path": "nuevos/13 - Finanzas, Mayordomía y Trabajo/12 claves para triunfar en tu t - Daniel Gonzalez.pdf",
+  "autor": "Daniel González",
+  "obra": "12 claves para triunfar en tu trabajo"
+ },
+ "donde_se_fue__gonzalez": {
+  "repo": "ref4",
+  "path": "nuevos/13 - Finanzas, Mayordomía y Trabajo/Donde_se_fue_el_dinero_Como_s_Daniel_Gonzalez_pdf_·_versión_1.pdf",
+  "autor": "Daniel González",
+  "obra": "¿Dónde se fue el dinero? Cómo sanar tu economía personal y familiar"
+ },
+ "el_principio_del__alcorn": {
+  "repo": "ref4",
+  "path": "nuevos/13 - Finanzas, Mayordomía y Trabajo/El Principio del Tesoro - Randy Alcorn.pdf",
+  "autor": "Randy Alcorn",
+  "obra": "El principio del tesoro"
+ },
+ "principios_para_el__gonzalez": {
+  "repo": "ref4",
+  "path": "nuevos/13 - Finanzas, Mayordomía y Trabajo/Principios para el Exito - Daniel Gonzalez.pdf · versión 1.pdf",
+  "autor": "Daniel González",
+  "obra": "Principios para el éxito: construye tu vida con sabiduría"
+ },
+ "como_vencer_la__lahaye": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Como-Vencer-la-Depresión-Tim-Lahaye.pdf",
+  "autor": "Tim LaHaye",
+  "obra": "Cómo vencer la depresión"
+ },
+ "cuando_lo_que__dobson2": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Cuando_lo_que_Dios_hace_no_tiene_sentido_Dr_Dobsonjuancrodriguez.pdf",
+  "autor": "James Dobson",
+  "obra": "Cuando lo que Dios hace no tiene sentido"
+ },
+ "como_tratar_a__lucado": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Cómo_tratar_a_personas_dificiles_Dos_estudios_interactivos_individuales.pdf",
+  "autor": "Max Lucado",
+  "obra": "Cómo tratar a personas difíciles (Nueva actitud ante la vida)"
+ },
+ "sufrimiento_la_eternidad__tripp": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/JM Sufrimiento - Paul David Tripp (1).pdf",
+  "autor": "Paul David Tripp",
+  "obra": "Sufrimiento: la eternidad hace la diferencia"
+ },
+ "perdonar__keller": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Perdonar - Timothy Keller.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Perdonar"
+ },
+ "12_formas_en__reinke": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/Tony_Reinke_12_FORMAS_EN_QUE_SU_TELÉFONO_LO_ESTÁ_CAMBIANDO.pdf",
+  "autor": "Tony Reinke",
+  "obra": "12 formas en que su teléfono lo está cambiando"
+ },
+ "venza_la_ansiedad__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/VENZA LA ANSIEDAD - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Venza la ansiedad"
+ },
+ "manejar_la_ira__mack": {
+  "repo": "ref4",
+  "path": "nuevos/14 - Salud Emocional, Consejería y Relaciones/manejar_la_ira_y_estres_a_la_manera_de_dios_pr_a525423127437fc7.pdf",
+  "autor": "Wayne A. Mack",
+  "obra": "Manejar la ira y el estrés a la manera de Dios"
+ },
+ "dones_espirituales_1__macarthur": {
+  "repo": "ref4",
+  "path": "nuevos/15 - Guerra Espiritual, Dones y Milagros/Dones Espirituales - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Dones espirituales (1 Corintios 12)"
+ },
+ "que_es_la__jeremiah": {
+  "repo": "ref4",
+  "path": "nuevos/15 - Guerra Espiritual, Dones y Milagros/JM Qué es la Armadura de Dios - David Jeremiah.pdf",
+  "autor": "David Jeremiah",
+  "obra": "Qué es la armadura de Dios y cómo la uso"
+ },
+ "la_abolicion_del__lewis": {
+  "repo": "ref4",
+  "path": "nuevos/16 - Clásicos y Literatura Cristiana/C S Lewis la abolición del hombre.pdf",
+  "autor": "C. S. Lewis",
+  "obra": "La abolición del hombre"
+ },
+ "cartas_del_diablo__lewis": {
+  "repo": "ref4",
+  "path": "nuevos/16 - Clásicos y Literatura Cristiana/Cartas del diablo a su sobrino .pdf",
+  "autor": "C. S. Lewis",
+  "obra": "Cartas del diablo a su sobrino"
+ },
+ "el_peso_de__lewis": {
+  "repo": "ref4",
+  "path": "nuevos/16 - Clásicos y Literatura Cristiana/El peso de la gloria  - C. S. Lewis.pdf.pdf",
+  "autor": "C. S. Lewis",
+  "obra": "El peso de la gloria"
+ },
+ "el_progreso_del__bunyan": {
+  "repo": "ref4",
+  "path": "nuevos/16 - Clásicos y Literatura Cristiana/El progreso del peregrino - John Bunyan.pdf",
+  "autor": "John Bunyan",
+  "obra": "El progreso del peregrino para todos"
+ },
+ "el_diablo_propone__lewis": {
+  "repo": "ref4",
+  "path": "nuevos/16 - Clásicos y Literatura Cristiana/el-diablo-propone-un-brindis-clive-staples-lewis.pdf",
+  "autor": "C. S. Lewis",
+  "obra": "El diablo propone un brindis"
+ },
+ "biblia_matthew_henry__henry": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/01 - GÉNESIS/DESPUÉS/02 - 1. Biblia Matthew Henry - Genesis a Rut.pdf",
+  "autor": "Matthew Henry",
+  "obra": "Biblia Matthew Henry - Génesis a Rut (comentario)"
+ },
+ "comentario_biblico_historico__edersheim": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/01 - GÉNESIS/DESPUÉS/04 - Génesis - Alfred Edersheim.pdf",
+  "autor": "Alfred Edersheim",
+  "obra": "Comentario bíblico histórico: Génesis"
+ },
+ "comentario_biblico_beacon__livingston": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/01 - GÉNESIS/DESPUÉS/07 - Comentario Biblico Beacon Tomo 1 Genesis hasta Deuteronomio.pdf",
+  "autor": "George Herbert Livingston, Leo G. Cox, Dennis F. Kinlaw, Lauriston J. Du Bois, Jack Ford, A. R. G. Deasley y otros",
+  "obra": "Comentario Bíblico Beacon, Tomo 1: Génesis a Deuteronomio"
+ },
+ "comentario_biblico_mundo__carro5": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/01 - GÉNESIS/DESPUÉS/Génesis - Comentario bíblico mundo hispano.pdf",
+  "autor": "Daniel Carro, José Tomás Poe, Rubén O. Zorzoli (editores generales)",
+  "obra": "Comentario Bíblico Mundo Hispano, Tomo 1: Génesis"
+ },
+ "ensenar_el_comentario__walton": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/02 - ÉXODO/DESPUÉS/A275_ENSEÑAR_EL_TEXTO_EXODO_T_Desmond_Alexander_compressed_copia.pdf",
+  "autor": "T. Desmond Alexander (serie editada por John H. Walton y Mark L. Strauss)",
+  "obra": "Enseñar el comentario de texto: Éxodo"
+ },
+ "el_conocimiento_biblico__walvoord": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/09 - 1 SAMUEL/John_Walvoord_Comentario_A_T_Tomo_2_de_Deuteronomio_a_2_Samuel.pdf",
+  "autor": "John F. Walvoord y Roy B. Zuck",
+  "obra": "El Conocimiento Bíblico, Tomo 2: Deuteronomio a 2 Samuel"
+ },
+ "comentario_biblico_beacon__chapman": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/19 - SALMOS/Comentario_Bíblico_Beacon_Tomo_3_Job_hasta_Cantar_de_los_Cantares.pdf",
+  "autor": "Milo L. Chapman, W. T. Purkiser, Earl C. Wolf, A. F. Harper",
+  "obra": "Comentario Bíblico Beacon, Tomo 3: Job hasta Cantar de los Cantares"
+ },
+ "el_tesoro_de__spurgeon": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/19 - SALMOS/El tesoro de David, Salmos - Charles Spurgeon.pdf",
+  "autor": "Charles Spurgeon",
+  "obra": "El tesoro de David: Salmos"
+ },
+ "el_conocimiento_biblico__walvoord2": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/22 - CANTARES/John Walvoord-Comentario A.T. Tomo 4 de Job a Cantares.pdf",
+  "autor": "John F. Walvoord y Roy B. Zuck",
+  "obra": "El Conocimiento Bíblico, Tomo 4: Job a Cantar de los Cantares"
+ },
+ "comentario_biblico_beacon__price": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/23 - ISAÍAS/Comentario Biblico Beacon Tomo 4 Isaias hasta Daniel.pdf",
+  "autor": "Ross E. Price, C. Paul Gray, J. Kenneth Grider, Roy E. Swimm",
+  "obra": "Comentario Bíblico Beacon, Tomo 4: Isaías hasta Daniel"
+ },
+ "el_conocimiento_biblico__walvoord3": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/28 - OSEAS/John Walvoord-Comentario A.T. Tomo 6 de Daniel a Malaquías.pdf",
+  "autor": "John F. Walvoord y Roy B. Zuck",
+  "obra": "El Conocimiento Bíblico, Tomo 6: Daniel a Malaquías"
+ },
+ "mateo__macarthur": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/40 - MATEO/Mateo - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Mateo"
+ },
+ "biblia_matthew_henry__henry2": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/41 - MARCOS/4. Biblia Matthew Henry - Mateo a Romanos.pdf",
+  "autor": "Matthew Henry",
+  "obra": "Biblia Matthew Henry - Mateo a Romanos (comentario)"
+ },
+ "juan__macarthur": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/43 - JUAN/04 JUAN-John Macarthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Juan"
+ },
+ "carta_del_apostol__sexauer": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/45 - ROMANOS/Romanos - Martin Lutero.pdf",
+  "autor": "Martín Lutero (traducción de Erich Sexauer)",
+  "obra": "Carta del apóstol Pablo a los Romanos (comentarios)"
+ },
+ "romanos_1_a__macarthur": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/45 - ROMANOS/Romanos 1 a 8 - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Romanos 1 a 8"
+ },
+ "romanos_9_a__macarthur": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/45 - ROMANOS/Romanos 9-16 - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Romanos 9 a 16"
+ },
+ "1_corintios_comentario__millos": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/46 - 1 CORINTIOS/1_Corintios_Comentario_Exegético_al_Texto_Griego_del_N_T_Samuel.pdf",
+  "autor": "Samuel Pérez Millos",
+  "obra": "1 Corintios (Comentario exegético al texto griego del N. T.)"
+ },
+ "1_y_2__millos": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/54 - 1 TIMOTEO/14_Comentario_Exegético_al_Texto_Griego_del_N_T_1_y_2_Timoteo,_Tito.pdf",
+  "autor": "Samuel Pérez Millos",
+  "obra": "1 y 2 Timoteo, Tito y Filemón (Comentario exegético al texto griego del N. T.)"
+ },
+ "biblia_matthew_henry__henry3": {
+  "repo": "biblio",
+  "path": "MATERIAL SOPORTE/66 - APOCALIPSIS/5. Biblia Matthew Henry - Corintios a Apocalipsis.pdf",
+  "autor": "Matthew Henry",
+  "obra": "Biblia Matthew Henry - Corintios a Apocalipsis (comentario)"
+ },
+ "disenados_para_adorar__compilado": {
+  "repo": "ref3",
+  "path": "Alabanza y Adoracion/012 - Disenados Para Adorar.pdf",
+  "autor": "A. W. Tozer (compilado y editado por James L. Snyder)",
+  "obra": "Diseñados para adorar"
+ },
+ "arquitectos_de_la__cherry": {
+  "repo": "ref3",
+  "path": "Alabanza y Adoracion/Arquitectos de la adoración - M. Cherry.pdf",
+  "autor": "Constance M. Cherry",
+  "obra": "Arquitectos de la adoración: una guía para planificar cultos bíblicamente fieles y culturalmente relevantes"
+ },
+ "como_planificar_los__compilador": {
+  "repo": "ref3",
+  "path": "Alabanza y Adoracion/Como_Planificar_los_Cultos_de_Adoracion.pdf",
+  "autor": "Russell Herrington (compilador)",
+  "obra": "Cómo planificar los cultos de adoración"
+ },
+ "sonidos_de_adoracion__aniol": {
+  "repo": "ref3",
+  "path": "Alabanza y Adoracion/Sonidos de adoración - Scott Aniol.pdf",
+  "autor": "Scott Aniol",
+  "obra": "Sonidos de adoración: una guía para tomar decisiones musicales en un mundo ensordecedor"
+ },
+ "el_secreto_de__mcdowell": {
+  "repo": "ref3",
+  "path": "Amor y Relaciones/El Secreto de amar y ser amado - Josh McDowell.pdf",
+  "autor": "Josh McDowell",
+  "obra": "El secreto de amar y de ser amado"
+ },
+ "el_desafio_del__stephen": {
+  "repo": "ref3",
+  "path": "Amor y Relaciones/El desafío del amor - Stephen y Alex Kendrick.pdf",
+  "autor": "Stephen y Alex Kendrick, con Lawrence Kimrough",
+  "obra": "El desafío del amor (texto: Atrévete a amar, The Love Dare)"
+ },
+ "los_5_lenguajes__chapman2": {
+  "repo": "ref3",
+  "path": "Amor y Relaciones/Los 5 lenguajes del amor - Gary Chapman.pdf",
+  "autor": "Gary Chapman",
+  "obra": "Los 5 lenguajes del amor"
+ },
+ "la_vida_crucificada__compilado": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/007 - Intenso - A. W. Tozer.pdf",
+  "autor": "A. W. Tozer (compilado y editado por James L. Snyder)",
+  "obra": "La vida crucificada: el camino hacia una experiencia profunda (colección Intenso)"
+ },
+ "la_mentalidad_del__owen": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/13 - John Owen-La mentalidad del Espíritu.pdf",
+  "autor": "John Owen",
+  "obra": "La mentalidad del Espíritu (Phronema tou Pneumatos: gracia y deber de ser espiritualmente minded)"
+ },
+ "trabajo_y_redencion__nelson2": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/14 - Trabajo y Redencion.pdf",
+  "autor": "Tom Nelson",
+  "obra": "Trabajo y redención (Work Matters)"
+ },
+ "la_ruina_de__rice": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/230 - La Ruina de un Cristiano - John R. Rice.pdf",
+  "autor": "John R. Rice",
+  "obra": "La ruina de un cristiano (The Ruin of a Christian)"
+ },
+ "a_su_imagen__ramsay": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/A su imagen, pasos para el crecimiento espiritual - Richard Ramsay.pdf",
+  "autor": "Richard B. Ramsay",
+  "obra": "A su imagen: pasos para el crecimiento espiritual"
+ },
+ "actitud_de_vencedor__maxwell": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Actitud de vencedor - John Maxwell.pdf",
+  "autor": "John C. Maxwell",
+  "obra": "Actitud de vencedor (The Winning Attitude)"
+ },
+ "clavos_bien_clavados__yawn": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Clavos bien clavados.pdf",
+  "autor": "Byron Yawn",
+  "obra": "Clavos bien clavados (Well-Driven Nails)"
+ },
+ "como_debo_vivir__sproul": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Cómo debo vivir en este mundo - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Cómo debo vivir en este mundo?"
+ },
+ "desde_la_cruz__wiersbe": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Desde la Cruz - Warren W. Wiersbe.pdf",
+  "autor": "Warren W. Wiersbe",
+  "obra": "Desde la Cruz"
+ },
+ "disciplinas_espirituales_para__whitney": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Disciplinas espirituales para la vida cristiana - Donald S. Whitney.pdf",
+  "autor": "Donald S. Whitney",
+  "obra": "Disciplinas espirituales para la vida cristiana"
+ },
+ "el_poder_de__macarthur": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/El Poder de la Integridad - John F. Mhrrthur.pdf",
+  "autor": "John F. MacArthur",
+  "obra": "El poder de la integridad"
+ },
+ "el_secreto_de__ryle": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/El Secreto de la vida Cristiana - Juan Carlos Ryle.pdf",
+  "autor": "J. C. Ryle (Juan Carlos Ryle)",
+  "obra": "El secreto de la vida cristiana"
+ },
+ "el_poder_de__warren": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/El poder de transformar su vida - Rick Warren.pdf",
+  "autor": "Rick Warren",
+  "obra": "El poder de transformar su vida"
+ },
+ "el_poder_del__macarthur": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/El poder del sufrimiento  - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "El poder del sufrimiento"
+ },
+ "el_progreso_del__institute": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/El progreso del peregrino - Guía de estudio.pdf",
+  "autor": "John Bunyan (guía de Mount Zion Bible Institute)",
+  "obra": "El progreso del peregrino: guía de estudio"
+ },
+ "el_progreso_del__bunyan2": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/El progreso del peregrino - Juan Bunyan.pdf",
+  "autor": "John Bunyan (Juan Bunyan)",
+  "obra": "El progreso del peregrino: viaje de Cristiano a la Ciudad Celestial"
+ },
+ "fe_mas_alla__datos": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Fe mas alla de la razon.pdf",
+  "autor": "A. W. Tozer (inferido: no figura en los datos)",
+  "obra": "Fe más allá de la razón"
+ },
+ "gozo_inefable_el__lloyd_jones": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Gozo inefable - Martyn Lloyd-Jones.pdf",
+  "autor": "Martyn Lloyd-Jones",
+  "obra": "Gozo inefable: el bautismo y los dones del Espíritu Santo"
+ },
+ "los_habitos_de__dennis": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/LOS HABITOS DE JESUS.pdf",
+  "autor": "Jay Dennis",
+  "obra": "Los hábitos de Jesús: practiquemos las disciplinas del Maestro"
+ },
+ "la_vida_conducida__warren": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/La vida conducida por propósitos - Rick Warren.pdf",
+  "autor": "Rick Warren",
+  "obra": "La vida conducida por propósitos (The Purpose-Driven Life)"
+ },
+ "los_peligros_de__wilkerson": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Los Peligros De La Fe Superficial - W.A.Tozer..pdf",
+  "autor": "A. W. Tozer (compilado por James Snyder; prefacio de Gary Wilkerson)",
+  "obra": "Los peligros de la fe superficial"
+ },
+ "madurez_espiritual__sanders": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Madurez Espiritual - J. Oswald Sanders.pdf",
+  "autor": "J. Oswald Sanders",
+  "obra": "Madurez espiritual"
+ },
+ "para_que_tengas__piper": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Para que tengan gozo - Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Para que tengas gozo"
+ },
+ "pensando_espiritualmente_version__grist": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Pensando Espiritualmente - John Owen.pdf",
+  "autor": "John Owen (versión abreviada por Philip Grist y reescrita por John Appleby)",
+  "obra": "Pensando espiritualmente (versión abreviada de The Grace and Duty of Being Spiritually Minded; en portugués)"
+ },
+ "piense_la_vida__piper": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Piense - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Piense: la vida intelectual y el amor de Dios"
+ },
+ "puedo_tener_gozo__c": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Puedo tener gozo en mi vida - J. C. Sproul.pdf",
+  "autor": "R. C. Sproul (el nombre del archivo dice «J. C.», pero los datos de edición dicen R. C. Sproul)",
+  "obra": "¿Puedo tener gozo en mi vida?"
+ },
+ "quebrantamiento_el_corazon__demoss": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Quebrantamiento_Nancy_Leigh_Demoss.pdf",
+  "autor": "Nancy Leigh DeMoss",
+  "obra": "Quebrantamiento: El corazón avivado por Dios"
+ },
+ "sabiduria_de_dios__keller": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Sabiduría - Timothy Keller.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Sabiduría de Dios para navegar por la vida"
+ },
+ "saldras_de_esta__lucado": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Saldrás de esta - Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Saldrás de esta"
+ },
+ "soy_realmente_cristiano__mckinley": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Soy realmente cristiano - Mike McKinley.pdf",
+  "autor": "Mike McKinley",
+  "obra": "Soy realmente cristiano"
+ },
+ "ten_cuidado_como__piper": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Ten cuidado cómo escuchas - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Ten cuidado cómo escuchas: Sermones sobre recibir la Palabra"
+ },
+ "una_fe_incomoda__snyder": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Una fe incómoda - A.W.Tozer.pdf",
+  "autor": "A. W. Tozer (compilado por James L. Snyder)",
+  "obra": "Una fe incómoda"
+ },
+ "una_vida_con__warren": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Una_Vida_Con_Proposito_-_Rick_Warren.pdf",
+  "autor": "Rick Warren",
+  "obra": "Una vida con propósito (La vida dirigida por propósitos)"
+ },
+ "lucas_vive_con__george": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Vive con pasión y propósito - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Lucas: Vive con pasión y propósito"
+ },
+ "vivo_o_muerto__ryle": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/Vivo o muerto - J. C. Ryle.pdf",
+  "autor": "J. C. Ryle",
+  "obra": "¿Vivo o muerto?"
+ },
+ "guardando_el_corazon__flavel": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/guardando-el-corazon-john-flavel-1.pdf",
+  "autor": "John Flavel",
+  "obra": "Guardando el corazón"
+ },
+ "el_deleite_espiritual__1620_1686": {
+  "repo": "ref3",
+  "path": "Crecimiento y Vida Cristiana/thomas-watson-el-deleite-espiritual-del-creyente.pdf",
+  "autor": "Thomas Watson (1620-1686)",
+  "obra": "El deleite espiritual del creyente"
+ },
+ "dificil_de_creer__macarthur": {
+  "repo": "ref3",
+  "path": "Discipulado/033 - John MacArthur-Difícil de creer.pdf",
+  "autor": "John MacArthur",
+  "obra": "Difícil de creer"
+ },
+ "autoconfrontacion_manual_para__foundation": {
+  "repo": "ref3",
+  "path": "Discipulado/Autoconfrontación, manual para discipulado a fondo (2).pdf",
+  "autor": "John C. Broger (Biblical Counseling Foundation)",
+  "obra": "Autoconfrontación: Manual para el discipulado a fondo"
+ },
+ "despues_del_sacrificio__henrichsen": {
+  "repo": "ref3",
+  "path": "Discipulado/Después del sacrificio - Walter Henrichsen.pdf",
+  "autor": "Walter A. Henrichsen",
+  "obra": "Después del sacrificio (estudio de la epístola a los Hebreos)"
+ },
+ "dificil_de_creer__macarthur2": {
+  "repo": "ref3",
+  "path": "Discipulado/Difícil de creer - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Difícil de creer (Hard to Believe)"
+ },
+ "manual_de_intercesion__corporativo": {
+  "repo": "ref3",
+  "path": "Discipulado/Discipulado en Intercesión.pdf",
+  "autor": "COMIBAM Internacional (autor corporativo)",
+  "obra": "Manual de intercesión misionera"
+ },
+ "el_discipulo_relacional__comiskey": {
+  "repo": "ref3",
+  "path": "Discipulado/El Discipulo relacional - Joel Comiskey.pdf · versión 1.pdf",
+  "autor": "Joel Comiskey",
+  "obra": "El discípulo relacional: cómo Dios usa la comunidad para formar discípulos de Jesús"
+ },
+ "los_pasos_del__cameron": {
+  "repo": "ref3",
+  "path": "Discipulado/Los pasos del maestro - Guía de Estudio.pdf",
+  "autor": "Kirk Cameron y Ray Comfort",
+  "obra": "Los pasos del maestro: guía de estudio del curso de entrenamiento básico"
+ },
+ "radical__platt": {
+  "repo": "ref3",
+  "path": "Discipulado/Radical - David Platt.pdf",
+  "autor": "David Platt",
+  "obra": "Radical"
+ },
+ "cava_mas_profundo__beynon": {
+  "repo": "ref3",
+  "path": "Ensenanza y Educacion Cristiana/02 - Cava Más Profundo.pdf",
+  "autor": "Nigel Beynon y Andrew Sach",
+  "obra": "¡Cava más profundo!: herramientas para desenterrar los tesoros de la Biblia"
+ },
+ "como_ensenar_la__f": {
+  "repo": "ref3",
+  "path": "Ensenanza y Educacion Cristiana/Como_enseñar_la_Biblia.pdf",
+  "autor": "Lucien E. Coleman Jr. (versión castellana de Jorge Enrique Díaz F.)",
+  "obra": "Cómo enseñar la Biblia"
+ },
+ "ensenando_para_cambiar__hendricks": {
+  "repo": "ref3",
+  "path": "Ensenanza y Educacion Cristiana/Enseñando para cambiar vidas - Howard Herdricks.pdf",
+  "autor": "Howard G. Hendricks",
+  "obra": "Enseñando para cambiar vidas (Teaching to Change Lives)"
+ },
+ "a_quien_pertenece__macarthur": {
+  "repo": "ref3",
+  "path": "Finanzas y Mayordomia/a quien pertenece el dinero - macarthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "¿A quién pertenece el dinero? Una guía bíblica sobre la administración del dinero de Dios"
+ },
+ "planeamiento_estrategico__malphurs": {
+  "repo": "ref3",
+  "path": "Gestion Ministerial y Administracion/Aubrey-Malphurs-Planeamiento-Estrategico.pdf",
+  "autor": "Aubrey Malphurs",
+  "obra": "Planeamiento estratégico"
+ },
+ "principios_y_alternativas__barrientos": {
+  "repo": "ref3",
+  "path": "Gestion Ministerial y Administracion/Principios-y-Alternativas-de-Trabajo-Pas.pdf",
+  "autor": "Alberto Barrientos",
+  "obra": "Principios y alternativas de trabajo pastoral"
+ },
+ "el_mejor_secreto__comfort": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/011 - El mejor secreto del diablo - Ray Comfort.pdf",
+  "autor": "Ray Comfort",
+  "obra": "El mejor secreto del Diablo"
+ },
+ "no_contra_sangre__lloyd_jones": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/014 - No contra sangre ni carne - Martin Loyd Jones.pdf",
+  "autor": "Martyn Lloyd-Jones",
+  "obra": "No contra sangre y carne: la lucha contra huestes espirituales de maldad en las regiones celestes"
+ },
+ "avergonzados_del_evangelio__macarthur": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/020 - Avergonzados del Evangelio John MacArthur.PDF",
+  "autor": "John F. MacArthur, Jr.",
+  "obra": "Avergonzados del evangelio: cuando la iglesia se vuelve semejante al mundo"
+ },
+ "adicciones_un_banquete__welch": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/025 - ADICCIONES. Un banquete en la tumba. Cómo encontrar esperanza en el poder del Evangelio EDWARD T. WELCH.pdf",
+  "autor": "Edward T. Welch",
+  "obra": "Adicciones: un banquete en la tumba. Cómo encontrar esperanza en el poder del Evangelio"
+ },
+ "curso_de_formacion__grau": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/Curso de formacion teologica evangelica - Jose Grau.pdf",
+  "autor": "José Grau",
+  "obra": "Curso de Formación Teológica Evangélica, vol. II: Introducción a la Teología (Revelación, Palabra y Autoridad)"
+ },
+ "curso_de_formacion__lacueva": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/Curso de formación teologica evangelica - etica cristiana.pdf",
+  "autor": "Francisco Lacueva",
+  "obra": "Curso de Formación Teológica Evangélica, vol. X: Ética cristiana"
+ },
+ "demonios_brujeria_y__mcdowell": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/Demonios, brujería y ocultismo - Josh McDowell y Don Stewart.pdf",
+  "autor": "Josh McDowell y Don Stewart",
+  "obra": "Demonios, brujería y ocultismo"
+ },
+ "diccionario_de_jesus__green": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/Diccionario de Jesús y los Evangelios - Joel B. Green.pdf",
+  "autor": "Joel B. Green, Jeannine K. Brown y Nicholas Perrin (editores)",
+  "obra": "Diccionario de Jesús y los Evangelios"
+ },
+ "dios_la_avaricia__hinn": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/Dios, la avaricia, y el evangelio de la prosperidad - Costi Hinn.pdf",
+  "autor": "Costi W. Hinn",
+  "obra": "Dios, la avaricia y el evangelio de la prosperidad"
+ },
+ "el_cristiano_con__gurnall": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/El cristiano con toda la armadura de Dios - William Gurnall.pdf",
+  "autor": "William Gurnall",
+  "obra": "El cristiano con toda la armadura de Dios (edición condensada)"
+ },
+ "apostasia_del_evangelio__owen": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/John Owen-Apostasía del Evangelio.pdf",
+  "autor": "John Owen",
+  "obra": "Apostasía del Evangelio"
+ },
+ "entre_cristo_y__koch": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/Kurt e Koch-Entre Cristo y satanás.pdf",
+  "autor": "Kurt E. Koch",
+  "obra": "Entre Cristo y Satanás"
+ },
+ "ministros_de_jesucristo__martinez": {
+  "repo": "ref3",
+  "path": "Guerra Espiritual y Liberacion/Ministros de Jesucristo - fomración teológica evangélica.pdf",
+  "autor": "José M. Martínez",
+  "obra": "Ministros de Jesucristo (Ministerio y Homilética), Curso de Formación Teológica Evangélica vol. XI-1"
+ },
+ "biografia_de_jonathan__cruz": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/02 - Jonathan_Edwards_su_vida,_obra_y_pensamiento_–_Juan_C_de_la_Cruz.pdf",
+  "autor": "Juan C. de la Cruz",
+  "obra": "Biografía de Jonathan Edwards: el más grande pensador de América"
+ },
+ "caminamos_por_una__tozer": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/Caminamos Por Una Senda Marcada - diarios de avivamientos.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Caminamos por una senda marcada"
+ },
+ "pecadores_en_las__edwards": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/Copia de Pecadores en las manos de un Dios airado - Jonathan Edwards(1).pdf",
+  "autor": "Jonathan Edwards",
+  "obra": "Pecadores en las manos de un Dios airado"
+ },
+ "avivamiento__lloyd_jones": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/El Avivamiento.pdf",
+  "autor": "Martyn Lloyd-Jones",
+  "obra": "Avivamiento"
+ },
+ "el_legado_del__piper": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/El legado del gozo soberano, la gracia triunfante de Dios en la vida de Agustin, Lutero y Calvino.pdf",
+  "autor": "John Piper",
+  "obra": "El legado del gozo soberano: la gracia triunfante de Dios en las vidas de Agustín, Lutero y Calvino"
+ },
+ "george_muller_fe__muller": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/George Muller - Fe.pdf",
+  "autor": "George Müller",
+  "obra": "George Müller: Fe (lecturas diarias)"
+ },
+ "george_mueller_man__parsons": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/Man of Faith - George Muller.pdf",
+  "autor": "George Mueller (edición de A. Sims; entrevista de Charles R. Parsons)",
+  "obra": "George Mueller: Man of Faith (reimpresión de An Hour with George Mueller)"
+ },
+ "george_muller_and__murray": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/Prayer - George Muller.pdf",
+  "autor": "Andrew Murray",
+  "obra": "George Müller and the Secret of His Power in Prayer (extracto de With Christ in the School of Prayer)"
+ },
+ "preaching_tours_and__muller": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/Preaching tours and missionarg labours of George Muller.pdf",
+  "autor": "George Müller",
+  "obra": "Preaching Tours and Missionary Labours of George Müller"
+ },
+ "john_knox_el__lloyd_jones": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/john-knox-el-fundador-del-puritanismo-martin-lloyd-jones-diarios-de-avivamientos.pdf",
+  "autor": "Martyn Lloyd-Jones",
+  "obra": "John Knox, el fundador del puritanismo"
+ },
+ "la_tentacion_lo__owen": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/john-owen-la-tentacion-diarios-de-avivamientos.pdf",
+  "autor": "John Owen",
+  "obra": "La tentación: lo que cada creyente debería saber sobre la tentación"
+ },
+ "remedios_preciosos_contra__brooks": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/remedios-preciosos-contra-las-artimac3b1as-del-diablo-diarios-de-avivamientos.pdf",
+  "autor": "Thomas Brooks (Tomás Brooks)",
+  "obra": "Remedios preciosos contra las artimañas del diablo"
+ },
+ "el_pastor_reformado__baxter": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/richard-baxter-el-pastor-reformado-diarios-de-avivamientos.pdf",
+  "autor": "Richard Baxter",
+  "obra": "El pastor reformado (edición abreviada de muestra)"
+ },
+ "una_invitacion_a__baxter": {
+  "repo": "ref3",
+  "path": "Historia de la Iglesia y Biografias/richard-baxter-una-invitacic3b3n-a-vivir-diarios-de-avivamientos.pdf",
+  "autor": "Richard Baxter",
+  "obra": "Una invitación a vivir (resumen del libro de 1658)"
+ },
+ "moises_el_siervo__meyer": {
+  "repo": "ref3",
+  "path": "Hombre/019 - Serie Hombres de Dios - Moisés.pdf",
+  "autor": "Frederick B. Meyer",
+  "obra": "Moisés: el siervo de Dios (Serie Hombres de Dios)"
+ },
+ "un_hombre_del__evans2": {
+  "repo": "ref3",
+  "path": "Hombre/15 - Un Hombre del Reino - Tony Evans.pdf",
+  "autor": "Tony Evans (Anthony T. Evans)",
+  "obra": "Un hombre del reino: el destino de todo hombre, el sueño de toda mujer"
+ },
+ "la_vida_de__scougal2": {
+  "repo": "ref3",
+  "path": "Hombre/17 - La VIDA de DIOS en el ALMA de HOMBRE(Henry Scougal).pdf",
+  "autor": "Henry Scougal",
+  "obra": "La vida de Dios en el alma del hombre"
+ },
+ "daniel_hombre_de__moody2": {
+  "repo": "ref3",
+  "path": "Hombre/28 - Daniel, Hombre de Dios - Dwight L. Moody.pdf",
+  "autor": "Dwight L. Moody",
+  "obra": "Daniel, hombre de Dios (título original: Daniel el profeta)"
+ },
+ "que_fue_del__spurgeon2": {
+  "repo": "ref3",
+  "path": "Hombre/29 - Varios autores-Qué fue del hombre tras dejar el paraíso.pdf",
+  "autor": "Varios autores (Spurgeon, A. W. Pink, T. Reade, J. Beeke, J. Owen, L. Boettner, J. Flavel, J. C. Ryle)",
+  "obra": "¿Qué fue del hombre tras dejar el paraíso? ¿Ciencia o ficción?"
+ },
+ "jesus_el_hombre__nunez2": {
+  "repo": "ref3",
+  "path": "Hombre/31 - Miguel Núñez-Jesús El Hombre que desafió al mundo.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "Jesús, el hombre que desafió al mundo y confronta tu vida"
+ },
+ "cuando_la_mirada__olson2": {
+  "repo": "ref3",
+  "path": "Hombre/Cuando_la_Mirada_de_un_Hombre_se_Desvia.pdf",
+  "autor": "Jeff Olson",
+  "obra": "Cuando la mirada de un hombre se desvía: cómo zafarse de las garras de la pornografía"
+ },
+ "el_hombre_su__lacueva": {
+  "repo": "ref3",
+  "path": "Hombre/Curso de formación teolgócia evangélica - El hombre, su grandeza y su miseria.pdf",
+  "autor": "Francisco Lacueva",
+  "obra": "El hombre: su grandeza y su miseria (Curso de formación teológica evangélica, vol. III)"
+ },
+ "diez_hombres_de__lucado2": {
+  "repo": "ref3",
+  "path": "Hombre/Diez hombres de la biblia, como Dios usó gente imperfecta para cambiar el mundo - Max lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Diez hombres de la Biblia: cómo Dios usó gente imperfecta para cambiar el mundo"
+ },
+ "el_hombre_del__evans": {
+  "repo": "ref3",
+  "path": "Hombre/El hombre del reino - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El hombre del reino"
+ },
+ "el_hombre_y__buswell": {
+  "repo": "ref3",
+  "path": "Hombre/El hombre y su vida de pecador.pdf",
+  "autor": "J. Oliver Buswell, Jr.",
+  "obra": "El hombre y su vida de pecador (sección de Teología sistemática)"
+ },
+ "la_verdad_acerca__washer": {
+  "repo": "ref3",
+  "path": "Hombre/LA VERDAD ACERCA DEL HOMBRE PAUL WASHER.pdf",
+  "autor": "Paul David Washer",
+  "obra": "La verdad acerca del hombre: un estudio bíblico de la doctrina del hombre"
+ },
+ "la_batalla_de__arterburn3": {
+  "repo": "ref3",
+  "path": "Hombre/La batalla de cada hombre jóven - Fred Stoeker.pdf",
+  "autor": "Stephen Arterburn, Fred Stoeker y Mike Yorkey",
+  "obra": "La batalla de cada hombre joven: estrategias para la victoria en el mundo de la tentación sexual"
+ },
+ "cambia_tu_iglesia__powell": {
+  "repo": "ref3",
+  "path": "Iglesia/Cambia tu Iglesia para bien.pdf",
+  "autor": "Brad Powell",
+  "obra": "Cambia tu iglesia para bien"
+ },
+ "el_desarrollo_natural__schwarz": {
+  "repo": "ref3",
+  "path": "Iglesia/Desarrollo Natural de la Iglesia en práctica - Christian A. Schwarz.pdf",
+  "autor": "Christian A. Schwarz y Christoph Schalk",
+  "obra": "El desarrollo natural de la iglesia en la práctica"
+ },
+ "diez_cargos_contra__washer": {
+  "repo": "ref3",
+  "path": "Iglesia/Diez cargos contra la Iglesia moderna - Paul Washer (2).pdf",
+  "autor": "Paul Washer",
+  "obra": "Diez cargos contra la iglesia moderna"
+ },
+ "el_abc_del__schwarz": {
+  "repo": "ref3",
+  "path": "Iglesia/El ABC del desarrollo natural de la Iglesia - Christian A. Schwarz.pdf",
+  "autor": "Christian A. Schwarz",
+  "obra": "El ABC del desarrollo natural de la iglesia"
+ },
+ "iglesia_siglo_21__noble": {
+  "repo": "ref3",
+  "path": "Iglesia/Iglesia Siglo XXI.pdf",
+  "autor": "Freddy Noble",
+  "obra": "Iglesia siglo 21: cultivar comunidades bíblicas por medio de grupos pequeños"
+ },
+ "una_iglesia_conforme__nunez": {
+  "repo": "ref3",
+  "path": "Iglesia/Iglesia conforme al corazón de DIos.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "Una iglesia conforme al corazón de Dios"
+ },
+ "la_verdadera_naturaleza__owen": {
+  "repo": "ref3",
+  "path": "Iglesia/John Owen-Oficiales de la Iglesia.pdf",
+  "autor": "John Owen",
+  "obra": "La verdadera naturaleza de una iglesia evangélica y su gobierno, segunda parte: Oficiales de la iglesia"
+ },
+ "la_iglesia_peregrina__broadbent": {
+  "repo": "ref3",
+  "path": "Iglesia/La Iglesia primitiva.pdf",
+  "autor": "Edmund Hamer Broadbent",
+  "obra": "La Iglesia peregrina: trazando el sendero de los cristianos olvidados desde Pentecostés hasta el siglo XX (The Pilgrim Church)"
+ },
+ "la_historia_de__boer": {
+  "repo": "ref3",
+  "path": "Iglesia/La historia de la Iglesia Primitiva - Harry Boer.pdf",
+  "autor": "Harry R. Boer",
+  "obra": "La historia de la Iglesia Primitiva - Harry Boer.pdf"
+ },
+ "la_obra_misionera__ritchey": {
+  "repo": "ref3",
+  "path": "Iglesia/La obra misionera y la Iglesia local - William F. Ritchey.pdf",
+  "autor": "William F. Ritchey",
+  "obra": "La obra misionera y la iglesia local: ¿cómo escoger qué hacer, dónde, cómo, y a través de quién?"
+ },
+ "la_transformacion_de__m": {
+  "repo": "ref3",
+  "path": "Iglesia/La transformación de la Iglesia - David Ruiz.pdf",
+  "autor": "David D. Ruiz M.",
+  "obra": "La transformación de la Iglesia"
+ },
+ "nueve_marcas_de__dever": {
+  "repo": "ref3",
+  "path": "Iglesia/Nueve marcas de una Iglesia Saludable - Mark Dever.pdf",
+  "autor": "Mark E. Dever",
+  "obra": "Nueve marcas de una Iglesia saludable (cuarta edición)"
+ },
+ "tres_reformas_adaptado__schwarz": {
+  "repo": "ref3",
+  "path": "Iglesia/Tres reformas - Christian A. Schwarz.pdf",
+  "autor": "Christian A. Schwarz",
+  "obra": "Tres reformas (adaptado de Cambio de paradigma en la iglesia)"
+ },
+ "una_iglesia_con__warren": {
+  "repo": "ref3",
+  "path": "Iglesia/Una Iglesia con propósito - Rick Warren.PDF",
+  "autor": "Rick Warren",
+  "obra": "Una iglesia con propósito"
+ },
+ "desafios_para_jovenes__tosoni2": {
+  "repo": "ref3",
+  "path": "Jovenes/30 devocionales jóvenes.pdf",
+  "autor": "Edgardo Tosoni",
+  "obra": "Desafíos para jóvenes y adolescentes: 30 devocionales (Juan)"
+ },
+ "los_5_lenguajes__chapman3": {
+  "repo": "ref3",
+  "path": "Jovenes/5 Lenguajes del amor de los jóvenes - Gary Chapman.pdf",
+  "autor": "Gary Chapman",
+  "obra": "Los 5 lenguajes del amor de los jóvenes"
+ },
+ "50_proyectos_de__arellano": {
+  "repo": "ref3",
+  "path": "Jovenes/50 Proyectos de Acción Social para involucrar a Jóvenes.pdf",
+  "autor": "Mark Arellano",
+  "obra": "50 proyectos de acción social para involucrar a los jóvenes y cambiar el mundo"
+ },
+ "cada_joven_necesita__ortiz": {
+  "repo": "ref3",
+  "path": "Jovenes/Cada jóven necesita un mentor - Félix Ortiz.pdf",
+  "autor": "Félix Ortiz",
+  "obra": "Cada joven necesita un mentor"
+ },
+ "como_guiar_a__sullivan": {
+  "repo": "ref3",
+  "path": "Jovenes/Cómo guiar a los jóvenes - Ann Sulivan.pdf",
+  "autor": "Ann Sullivan",
+  "obra": "Cómo guiar a los jóvenes"
+ },
+ "como_trabajar_con__bomar": {
+  "repo": "ref3",
+  "path": "Jovenes/Cómo trabajar con jóvenes de 18 a 25 años - Chuck Bomar.pdf",
+  "autor": "Chuck Bomar",
+  "obra": "Cómo trabajar con jóvenes de 18 a 25 años"
+ },
+ "guia_de_una__george": {
+  "repo": "ref3",
+  "path": "Jovenes/Guía de una jóven para descubrir su biblia - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Guía de una joven para descubrir su Biblia"
+ },
+ "stamina_la_virtud__leys": {
+  "repo": "ref3",
+  "path": "Jovenes/Stamina, la virtud que transforma anhelos en logros - Lucas leys.pdf",
+  "autor": "Lucas Leys",
+  "obra": "Stamina: la virtud que transforma anhelos en logros"
+ },
+ "desarrolle_los_lideres__maxwell": {
+  "repo": "ref3",
+  "path": "Liderazgo/Desarrolle los líderes que están alrededor de usted - John Maxwell.pdf",
+  "autor": "John C. Maxwell",
+  "obra": "Desarrolle los líderes que están alrededor de usted (guía del líder, Maximum Impact)"
+ },
+ "el_mejor_lider__libro": {
+  "repo": "ref3",
+  "path": "Liderazgo/El mejor lider de la historia.pdf",
+  "autor": "Lucas Leys (surge de las recomendaciones del libro)",
+  "obra": "El mejor líder de la historia"
+ },
+ "el_talento_nunca__archivo": {
+  "repo": "ref3",
+  "path": "Liderazgo/El talento nunca es suficiente - John Maxwell.PDF",
+  "autor": "John C. Maxwell (por el nombre del archivo)",
+  "obra": "El talento nunca es suficiente"
+ },
+ "las_21_leyes__maxwell": {
+  "repo": "ref3",
+  "path": "Liderazgo/Las  21 leyes irrefutables del liderazgo - John Maxwell.pdf",
+  "autor": "John C. Maxwell",
+  "obra": "Las 21 leyes irrefutables del liderazgo"
+ },
+ "las_17_cualidades__maxwell": {
+  "repo": "ref3",
+  "path": "Liderazgo/Las 17 cualidades esenciales de un jugador de equipo - John Maxwell.pdf",
+  "autor": "John C. Maxwell",
+  "obra": "Las 17 cualidades esenciales de un jugador de equipo"
+ },
+ "las_lecturas_diarias__maxwell": {
+  "repo": "ref3",
+  "path": "Liderazgo/Lecturas Diarias - John Maxwell.pdf",
+  "autor": "John C. Maxwell",
+  "obra": "Las lecturas diarias de Maxwell: 365 días de sabiduría para desarrollar el líder dentro de usted"
+ },
+ "liderazgo_the_book__macarthur": {
+  "repo": "ref3",
+  "path": "Liderazgo/Liderazgo - John MacArthur (2).pdf",
+  "autor": "John MacArthur",
+  "obra": "Liderazgo (The Book on Leadership)"
+ },
+ "liderazgo_generacional__leys": {
+  "repo": "ref3",
+  "path": "Liderazgo/Liderazgo Generacional - Lucas Leys (2).pdf",
+  "autor": "Lucas Leys",
+  "obra": "Liderazgo generacional"
+ },
+ "liderazgo_con_proposito__warren": {
+  "repo": "ref3",
+  "path": "Liderazgo/Liderazgo con propósito - Rick Warren.pdf",
+  "autor": "Rick Warren",
+  "obra": "Liderazgo con propósito (lecciones de Nehemías)"
+ },
+ "liderazgo_eficaz_como__archivo": {
+  "repo": "ref3",
+  "path": "Liderazgo/Liderazgo eficaz, como influir en los demás - John Maxwell.pdf",
+  "autor": "John Maxwell (por el nombre del archivo)",
+  "obra": "Liderazgo eficaz: cómo influir en los demás"
+ },
+ "no_me_metan__lucas": {
+  "repo": "ref3",
+  "path": "Liderazgo/No me metan en la bolsa - líderes.pdf",
+  "autor": "Lucas y Valeria Leys",
+  "obra": "No me metan en la bolsa (guía para líderes juveniles)"
+ },
+ "manantial_edicion_para__beers": {
+  "repo": "ref3",
+  "path": "Liderazgo/Sabiduría para cualquier situación - para Líderes.pdf",
+  "autor": "V. Gilbert Beers y Ronald A. Beers (eds. generales); escrito por Douglas J. Rumford",
+  "obra": "Manantial: Edición para líderes (TouchPoints for Leaders)"
+ },
+ "lo_que_me__chapman": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/03 - Lo que me Hubiera Gustado Saber Antes de Casarme - Gary Chapman.pdf",
+  "autor": "Gary Chapman",
+  "obra": "Lo que me hubiera gustado saber antes de casarme"
+ },
+ "amor_y_respeto__eggerichs2": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Amor y respeto en la familia - Dr. Emerson Eggerichs.pdf",
+  "autor": "Emerson Eggerichs",
+  "obra": "Amor y respeto en la familia"
+ },
+ "como_criar_a__dobson": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Como criar a las hijas - James Dobson.pdf",
+  "autor": "James C. Dobson",
+  "obra": "Cómo criar a las hijas"
+ },
+ "con_quien_me__palau": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Con Quién me Casaré - Luis Palau.pdf",
+  "autor": "Luis Palau",
+  "obra": "¿Con quién me casaré?"
+ },
+ "como_saber_con__haan": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Cómo saber con quién casarme.pdf",
+  "autor": "Kurt De Haan",
+  "obra": "¿Cómo saber con quién casarme?"
+ },
+ "el_padre_que__davis": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/El Padre que nunca conocí - Phil Davis (Abandono).pdf",
+  "autor": "Phil Davis",
+  "obra": "El Padre que nunca conocí: encontrando al perfecto padre en Dios"
+ },
+ "el_matrimonio_si__evans2": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/El matrimonio si importa, Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El matrimonio sí importa: tres aspectos clave del pacto matrimonial"
+ },
+ "el_padre_que__mcdowell": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/El padre que yo quiero ser.pdf",
+  "autor": "Josh McDowell",
+  "obra": "El padre que yo quiero ser"
+ },
+ "el_reto_de__chapman": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/El reto de criar a tus hijos en un mundo tecnológico - Gary Chapman.pdf",
+  "autor": "Gary Chapman y Arlene Pellicane",
+  "obra": "El reto de criar a tus hijos en un mundo tecnológico"
+ },
+ "habla_claro_con__mcdowell": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Habla claro con tus hijos sobre el sexo.pdf",
+  "autor": "Josh McDowell y Dottie McDowell",
+  "obra": "Habla claro con tus hijos sobre el sexo"
+ },
+ "lo_que_me__chapman2": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Lo que me hubiera gustado saber antes de tener hijos - Gary Chapman.pdf",
+  "autor": "Gary Chapman y Shannon Warden",
+  "obra": "Lo que me hubiera gustado saber antes de tener hijos"
+ },
+ "lo_que_el__harley": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Lo que él necesita, lo que ella necesita - Willard Harley.pdf",
+  "autor": "Willard F. Harley, Jr.",
+  "obra": "Lo que él necesita, lo que ella necesita"
+ },
+ "lo_que_las__dobson2": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Lo-Que-Las-Esposas-Desean de sus esposos-James-Dobson.pdf",
+  "autor": "James Dobson",
+  "obra": "Lo que las esposas desean que los maridos sepan"
+ },
+ "memorias_de_dos__macarthur": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Memorias de dos hijos - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Memorias de dos hijos (A Tale of Two Sons)"
+ },
+ "ora_las_escrituras__berndt": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Ora las escrituras por tus hijos - Jodie Berndt.pdf",
+  "autor": "Jodie Berndt",
+  "obra": "Ora las Escrituras por tus hijos"
+ },
+ "para_matrimonios_con__hormachea": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Para matrimonios con Amor - David Hormachea.pdf",
+  "autor": "David Hormachea",
+  "obra": "Para matrimonios con amor: Aprendiendo a vivir con nuestras diferencias"
+ },
+ "preparandonos_para_el__piper2": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Preparandonos para el matrimonio - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Preparándonos para el matrimonio: Ayuda para parejas cristianas"
+ },
+ "ser_hombre_de__luck2": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Stephen_Arterburn_Ser_un_hombre_de_Dios_en_liderar_una_familia.pdf",
+  "autor": "Kenny Luck y Todd Wendorff (serie de Stephen Arterburn, según el nombre del archivo)",
+  "obra": "Ser hombre de Dios... en liderar una familia (serie de estudios bíblicos para todos los hombres)"
+ },
+ "una_madre_conforme__george": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Una Madre conforme al corazón de Dios - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Una madre conforme al corazón de Dios"
+ },
+ "una_mujer_que__george": {
+  "repo": "ref3",
+  "path": "Matrimonio Familia y Noviazgo/Una mujer que ora por su esposo - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Una mujer que ora por su esposo"
+ },
+ "conversiones_falsas_y__comfort": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/003 - Conversiones Falsas y Verdaderas - Ray Comfort.pdf",
+  "autor": "Ray Comfort",
+  "obra": "Conversiones falsas y verdaderas"
+ },
+ "alegrense_las_naciones__piper": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/Alegrense las naciones, la supremacía de Dios en las misiones - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "¡Alégrense las naciones! La supremacía de Dios en las misiones"
+ },
+ "conciencia_misionera__robert": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/Conciencia Misionera.pdf",
+  "autor": "Andrés Robert",
+  "obra": "Conciencia misionera"
+ },
+ "el_plan_de__warfield": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/El Plan de Salvación.pdf",
+  "autor": "Benjamin B. Warfield",
+  "obra": "El plan de la salvación"
+ },
+ "el_forastero_en__cross": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/El forastero de camino a Emaús - John R. Cross.pdf",
+  "autor": "John R. Cross",
+  "obra": "El forastero en el camino a Emaús"
+ },
+ "estan_perdidos__sanders": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/Están perdidos¿ - J. Oswald Sanders.pdf",
+  "autor": "J. Oswald Sanders",
+  "obra": "¿Están perdidos?"
+ },
+ "dios_tiene_un__comfort": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/LIBRO-Dios-Tiene-un-Plan-Maravilloso.pdf",
+  "autor": "Ray Comfort",
+  "obra": "Dios tiene un plan maravilloso (El mito del mensaje moderno)"
+ },
+ "romanos_1_7__keller": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/Presentando el evangelio.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Romanos 1-7 para ti (el archivo se llama «Presentando el evangelio», que es el capítulo 1)"
+ },
+ "una_invitacion_a__baxter2": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/Una invitación a Vivir - Richard Baxter.pdf",
+  "autor": "Richard Baxter",
+  "obra": "Una invitación a vivir (resumen de «Un llamado a los no convertidos», 1658)"
+ },
+ "manual_de_evangelismo__comfort": {
+  "repo": "ref3",
+  "path": "Mision y Evangelismo/manual_de_evangelismo_-_living_waters_-_como_testificar_usando_los_10_mandamientos.pdf",
+  "autor": "Ray Comfort y Kirk Cameron",
+  "obra": "Manual de evangelismo bíblico: cómo testificar"
+ },
+ "chicas_sabias_en__kassian": {
+  "repo": "ref3",
+  "path": "Mujer/Chicas sabias en un mundo salvaje - Mary Kassian.pdf",
+  "autor": "Mary Kassian",
+  "obra": "Chicas sabias en un mundo salvaje"
+ },
+ "guia_de_una__george2": {
+  "repo": "ref3",
+  "path": "Mujer/Guía de una mujer para las buenas decisiones - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Guía de una mujer para las buenas decisiones"
+ },
+ "las_100_mujeres__mcquade": {
+  "repo": "ref3",
+  "path": "Mujer/Las 100 mujeres principales de la biblia - Pamela L. McQuade.pdf",
+  "autor": "Pamela L. McQuade",
+  "obra": "Las 100 mujeres principales de la Biblia"
+ },
+ "mentiras_que_las__demoss3": {
+  "repo": "ref3",
+  "path": "Mujer/Mentiras que las mujeres creen, y verdades que las hacen libres.pdf",
+  "autor": "Nancy Leigh DeMoss",
+  "obra": "Mentiras que las mujeres creen y la verdad que las hace libres"
+ },
+ "mentiras_que_las__gresh": {
+  "repo": "ref3",
+  "path": "Mujer/Mentiras que las niñas creen, y verdad que las hacen libres - Dannah Gresh.pdf",
+  "autor": "Dannah Gresh",
+  "obra": "Mentiras que las niñas creen y la verdad que las hace libres"
+ },
+ "tienes_un_amigo__george": {
+  "repo": "ref3",
+  "path": "Mujer/Tienes un amigo en Jesús - Guía para chicas - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Tienes un amigo en Jesús: guía para chicas"
+ },
+ "todas_las_mujeres__lockyer": {
+  "repo": "ref3",
+  "path": "Mujer/Todas las mujeres de la biblia - Herbert Lockyer.pdf",
+  "autor": "Herbert Lockyer",
+  "obra": "Todas las mujeres de la Biblia"
+ },
+ "un_minuto_con__george": {
+  "repo": "ref3",
+  "path": "Mujer/Un minuto con las mujeres de la biblia.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Un minuto con las mujeres de la Biblia"
+ },
+ "una_mujer_conforme__george2": {
+  "repo": "ref3",
+  "path": "Mujer/Una mujer conforme al corazón de Jesús - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Una mujer conforme al corazón de Jesús"
+ },
+ "una_mujer_del__evans": {
+  "repo": "ref3",
+  "path": "Mujer/Una mujer del reino - Tony Evans - Chrystal Evans Hurst.pdf",
+  "autor": "Tony Evans y Chrystal Evans Hurst",
+  "obra": "Una mujer del reino: Acepte su propósito, su poder y sus posibilidades"
+ },
+ "101_ideas_creativas__merkh": {
+  "repo": "ref3",
+  "path": "Ninos/101 ideas creativas para maestros - David Merkh.pdf",
+  "autor": "David Merkh y Paulo França",
+  "obra": "101 ideas creativas para maestros"
+ },
+ "ayudando_a_los__michael": {
+  "repo": "ref3",
+  "path": "Ninos/Ayudando a los niños a entender el evangelio.PDF",
+  "autor": "Sally Michael, Jill Nelson y Bud Burk",
+  "obra": "Ayudando a los niños a entender el evangelio"
+ },
+ "bases_biblicas_para__dwinght": {
+  "repo": "ref3",
+  "path": "Ninos/Bases bíblicas para el bautismo de los niños.pdf",
+  "autor": "Dwight Hervey Small (la portada dice «Dwinght»)",
+  "obra": "Bases bíblicas para el bautismo de los niños: Los niños en las promesas del pacto de Dios"
+ },
+ "como_criar_a__dobson2": {
+  "repo": "ref3",
+  "path": "Ninos/Cómo criar a un niño de voluntad firme.pdf",
+  "autor": "James Dobson",
+  "obra": "Cómo criar a un niño de voluntad firme"
+ },
+ "answers_to_prayer__brooks": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/018 - Respuestas a las oraciones - George Muller.pdf",
+  "autor": "George Müller (compilado por A. E. C. Brooks)",
+  "obra": "Answers to Prayer from George Müller's Narratives (Respuestas a las oraciones), en inglés"
+ },
+ "verdadera_oracion_verdadero__spurgeon": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/Copia de Verdadera Oración, Verdadero Poder - Charles Spurgeon.pdf",
+  "autor": "Charles H. Spurgeon",
+  "obra": "¡Verdadera oración, verdadero poder!"
+ },
+ "el_poder_de__bounds": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/El Poder de la Oración - E. M. Bounds.pdf",
+  "autor": "E. M. Bounds",
+  "obra": "El poder de la oración (Poder por la oración)"
+ },
+ "el_plan_de__stephen": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/El plan de batalla para la oración.pdf",
+  "autor": "Stephen y Alex Kendrick (Kendrick Brothers, LLC)",
+  "obra": "El plan de batalla para la oración"
+ },
+ "el_poder_de__evans5": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/El poder de los nombres de Dios en la oración - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "El poder de los nombres de Dios en la oración"
+ },
+ "lo_que_cada__owen2": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/John Owen-La mortificación del pecado, Versión mejorada.pdf",
+  "autor": "John Owen",
+  "obra": "Lo que cada creyente debería saber sobre la mortificación del pecado (resumen de «Sobre la mortificación del pecado»)"
+ },
+ "la_gracia_y__owen": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/John_Owen_La_gracia_y_el_deber_de_ser_espiritualmente_mejorado.pdf",
+  "autor": "John Owen",
+  "obra": "La gracia y el deber de tener una mente espiritual (de ser espiritualmente mejorado), traducción automática"
+ },
+ "orad_luego_predicad__bounds": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/Orad, luego predicad - Edward Mckndree Bound.pdf",
+  "autor": "Edward McKendree Bounds",
+  "obra": "Orad, luego predicad"
+ },
+ "orando_la_biblia__whitney": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/Orando la Biblia - Donald Whitney.pdf",
+  "autor": "Donald S. Whitney",
+  "obra": "Orando la Biblia (Praying the Bible)"
+ },
+ "poder_por_la__bounds": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/Poder por la oración - E. M. Bounds.pdf",
+  "autor": "E. M. Bounds",
+  "obra": "Poder por la oración (Power Through Prayer)"
+ },
+ "puede_la_oracion__sproul": {
+  "repo": "ref3",
+  "path": "Oracion y Ayuno/Puede la oración cambiar las cosas - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Puede la oración cambiar las cosas? (Serie Preguntas Cruciales)"
+ },
+ "consuelo_para_los__flavel": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/Consuelo para los desconsolados - John Flavel.pdf",
+  "autor": "John Flavel",
+  "obra": "Consuelo para los desconsolados: El consuelo de Cristo a una madre en angustia"
+ },
+ "el_pastor_reformado__packer": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/El Pastor Reformado - Richard Baxter.pdf",
+  "autor": "Richard Baxter (introducción de J. I. Packer)",
+  "obra": "El pastor reformado (El ministerio que necesitamos), extracto con introducción de J. I. Packer"
+ },
+ "el_pastor_como__duncan": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/El Pastor como líder - John MacArthur.pdf",
+  "autor": "John MacArthur (editor general; con Ligon Duncan, Tom Pennington, John Piper, Mark Dever, Rick Holland, Steven Lawson, Albert Mohler y otros)",
+  "obra": "El pastor como líder: Cómo guiar a los demás con integridad y convicción (La biblioteca del pastor)"
+ },
+ "el_ministerio_pastoral__general": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/El ministerio pastoral - John MacArthur.pdf",
+  "autor": "John MacArthur (editor general) y la facultad de The Master's Seminary",
+  "obra": "El ministerio pastoral: Cómo pastorear bíblicamente (La biblioteca del pastor)"
+ },
+ "el_pastor_en__general": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/El pastor en la cultura actual - John MacArthur.pdf",
+  "autor": "John MacArthur (editor general), con Rick Holland, Austin Duncan, Kurt Gebhards, Tom Patton, Bill Shannon, John D. Street y otros",
+  "obra": "El pastor en la cultura actual (La biblioteca del pastor)"
+ },
+ "el_arte_de__jr": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/El-arte-de-aconsejar-biblicamente-(2).pdf",
+  "autor": "Lawrence J. Crabb Jr.",
+  "obra": "El arte de aconsejar bíblicamente"
+ },
+ "esta_bien_no__walsh": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/Está bien no estar bien - Shelia Walsh.pdf",
+  "autor": "Sheila Walsh",
+  "obra": "Está bien no estar bien"
+ },
+ "la_consejeria_revista__pierre": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/La Consejería.pdf",
+  "autor": "Varios (Jeremy Pierre, Deepak Reju, Paul Lamey, Jonathan Leeman, Sugel Michelén, David Barceló, entrevistas a Edward Welch y otros)",
+  "obra": "La Consejería (Revista 9Marcas, edición n.º 2)"
+ },
+ "la_tormenta_interior__walsh": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/La tormenta interior - Shelia Walsh.pdf",
+  "autor": "Sheila Walsh",
+  "obra": "La tormenta interior"
+ },
+ "limites_boundaries__cloud": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/Límites - Henry Cloud y John Townsend.pdf",
+  "autor": "Henry Cloud y John Townsend",
+  "obra": "Límites (Boundaries)"
+ },
+ "limites_en_el__cloud2": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/Límites en el noviazgo - John Townsend.pdf",
+  "autor": "Henry Cloud y John Townsend (el archivo nombra solo a Townsend; la dedicatoria lleva las iniciales H. C. y J. T.)",
+  "obra": "Límites en el noviazgo (Boundaries in Dating)"
+ },
+ "pasame_otro_ladrillo__swindoll": {
+  "repo": "ref3",
+  "path": "Pastorado y Consejeria/Pasame otro ladrillo.pdf",
+  "autor": "Charles R. Swindoll",
+  "obra": "Pásame otro ladrillo (Hand Me Another Brick)"
+ },
+ "la_tentacion_lo__owen2": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/01 - Superando el Pecado y la Tentación.pdf",
+  "autor": "John Owen",
+  "obra": "La tentación: lo que cada creyente debería saber sobre la tentación (Superando el pecado y la tentación)"
+ },
+ "como_sanar_las__laaser": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/490 - Como sanar las heridas de la adicción sexual - Mark Laaser.pdf",
+  "autor": "Mark Laaser",
+  "obra": "Cómo sanar las heridas de la adicción sexual"
+ },
+ "el_antidoto_divino__martin": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Copia de El antídoto divino contra la impureza sexual - Alberto Martin.pdf",
+  "autor": "Albert N. (Alberto) Martin",
+  "obra": "El antídoto divino contra la impureza sexual"
+ },
+ "sexo_y_dinero__tripp2": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/El Sexo y el dinero - Paul David Tripp.pdf",
+  "autor": "Paul David Tripp",
+  "obra": "Sexo y dinero: Los placeres que te dejan vacío y la gracia que satisface"
+ },
+ "gracia_abundante_para__bunyan": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Gracia abundante para el mayor de los pecadores.pdf",
+  "autor": "John Bunyan",
+  "obra": "Gracia abundante para el mayor de los pecadores"
+ },
+ "la_homosexualidad_compasion__schmidt": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/La Homosexualidad, compasión y claridad en el debate - Tomas Schmitd.pdf",
+  "autor": "Thomas E. Schmidt",
+  "obra": "La homosexualidad: compasión y claridad en el debate"
+ },
+ "las_raices_y__family": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Las raices y causas de la homosexualidad femenina.pdf",
+  "autor": "Enfoque a la Familia (Focus on the Family)",
+  "obra": "Las raíces y las causas de la homosexualidad femenina (serie «El corazón de la verdad»)"
+ },
+ "la_mortificacion_del__owen": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Owen_Mortificacion_Pecado.pdf",
+  "autor": "John Owen",
+  "obra": "La mortificación del pecado"
+ },
+ "pecados_respetables_confrontemos__bridges": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Pecados respetables - Jerry Bridges.pdf",
+  "autor": "Jerry Bridges",
+  "obra": "Pecados respetables: Confrontemos esos pecados que toleramos"
+ },
+ "puede_el_amor__buhne": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Puede el amor ser pecado - Wolfgang Buhne.pdf",
+  "autor": "Wolfgang Bühne",
+  "obra": "¿Puede el amor ser pecado? Amistad, amor, sexualidad y seguir a Cristo"
+ },
+ "puro_sexo_puro__matos": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Puro Sexo Puro.pdf",
+  "autor": "Cornelia Hernández (de Matos)",
+  "obra": "Puro sexo puro: un regalo de Dios para toda mujer que anhela un matrimonio pleno"
+ },
+ "sexo_una_relacion__evans2": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Sexo una relacion diseñada por Dios - Tony Evans.pdf",
+  "autor": "Tony Evans",
+  "obra": "Sexo... una relación diseñada por Dios (Sacred Sex)"
+ },
+ "tu_mente_en__gilkerson": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/Tu mente en el porno - Luke Gilkerson.pdf",
+  "autor": "Luke Gilkerson",
+  "obra": "Tu mente en el porno (Your Brain on Porn)"
+ },
+ "el_acto_matrimonial__tim2": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/el-acto-matrimonial-la-belleza-del-amor-sexual (1).pdf",
+  "autor": "Tim y Beverly LaHaye",
+  "obra": "El acto matrimonial: la belleza del amor sexual (The Act of Marriage)"
+ },
+ "lo_que_cada__trust": {
+  "repo": "ref3",
+  "path": "Pecado Tentacion y Sexualidad/pdfcoffee_com_la_mortificacion_del_pecado_gu_john_owen_2_pdf_free.pdf",
+  "autor": "John Owen (resumen de Grace Publications Trust)",
+  "obra": "Lo que cada creyente debería saber sobre la mortificación del pecado (resumen de la obra de John Owen)"
+ },
+ "samuel_el_profeta__meyer2": {
+  "repo": "ref3",
+  "path": "Personajes Biblicos/015 - Samuel el Profeta - Frederick.pdf",
+  "autor": "Frederick B. Meyer",
+  "obra": "Samuel: el profeta de Dios (Serie Hombres de Dios)"
+ },
+ "abraham_la_obediencia__meyer": {
+  "repo": "ref3",
+  "path": "Personajes Biblicos/Abraham - la obediencia de la fe.pdf",
+  "autor": "Frederick B. Meyer",
+  "obra": "Abraham: la obediencia de la fe"
+ },
+ "teologia_del_pacto__coxe": {
+  "repo": "ref3",
+  "path": "Personajes Biblicos/Abraham.pdf",
+  "autor": "Nehemiah Coxe y John Owen (editores: Ronald D. Miller, James M. Renihan y Francisco Orozco)",
+  "obra": "Teología del pacto: de Adán a Cristo (Discurso de los pactos de Coxe, con exposición de Hebreos 8:6-13 de Owen)"
+ },
+ "1000_bosquejos_para__compilador": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/1000 Bosquejos para predicadores - Samuel Vila.pdf",
+  "autor": "Samuel Vila (compilador)",
+  "obra": "1000 bosquejos para predicadores (primera parte)"
+ },
+ "apuntes_de_sermones__spurgeon": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Apuntes de Sermones - Charles Spurgeon.pdf",
+  "autor": "Charles H. Spurgeon",
+  "obra": "Apuntes de sermones"
+ },
+ "bosquejos_expositivos_de__wiersbe": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Bosquejos expositivos de la Biblia.pdf",
+  "autor": "Warren W. Wiersbe",
+  "obra": "Bosquejos expositivos de la Biblia (Antiguo y Nuevo Testamento)"
+ },
+ "1000_bosquejos_para__compilador2": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Bosquejos_Samuel_Vila_2.pdf",
+  "autor": "Samuel Vila (compilador)",
+  "obra": "1000 bosquejos para predicadores (segunda parte)"
+ },
+ "como_predicar_expositivamente__liefeld": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Como predicar expositivamente.pdf",
+  "autor": "Walter L. Liefeld",
+  "obra": "Cómo predicar expositivamente (New Testament Exposition)"
+ },
+ "como_preparar_un__warren": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Como_Preparar_Mensajes-Rick_Warren.pdf",
+  "autor": "Rick Warren",
+  "obra": "Cómo preparar un mensaje: predicando para cambiar vidas"
+ },
+ "como_preparar_mensajes__braga": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Como_Preparar_Mensajes_Biblicos-James_Braga.pdf",
+  "autor": "James Braga",
+  "obra": "Cómo preparar mensajes bíblicos (How to Prepare Bible Messages)"
+ },
+ "diccionario_de_anecdotas__gil": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Diccionario para la predicación cristiana.pdf",
+  "autor": "Rubén Gil",
+  "obra": "Diccionario de anécdotas, dichos, ilustraciones, locuciones y refranes adaptados a la predicación cristiana"
+ },
+ "el_sermon_del__lloyd_jones": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/EL SERMÓN DEL MONTE TOMO 2 MARTYN LLOYD-JONES.pdf",
+  "autor": "Martyn Lloyd-Jones",
+  "obra": "El Sermón del Monte, Tomo 2"
+ },
+ "el_sermon_del__stott": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/El Sermón del monte - John Stott.pdf",
+  "autor": "John R. W. Stott",
+  "obra": "El Sermón del Monte (Contracultura cristiana)"
+ },
+ "el_sermon_del__lloyd_jones2": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/El Sermón del monte - Martin Loyd Jones.pdf",
+  "autor": "Martyn Lloyd-Jones",
+  "obra": "El Sermón del Monte (Tomo 1)"
+ },
+ "sermones_predicados_en__newton": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/John Newton-Sermones.pdf",
+  "autor": "John Newton",
+  "obra": "Sermones predicados en la parroquia de Olney, con seis discursos adicionales"
+ },
+ "la_predicacion_como__macarthur": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/La Predicación - John MacArthur.pdf",
+  "autor": "John MacArthur y profesores de The Master's Seminary",
+  "obra": "La predicación: cómo predicar bíblicamente"
+ },
+ "la_predicacion_expositiva__helm": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/La predicación expositiva - David Helm.pdf",
+  "autor": "David Helm",
+  "obra": "La predicación expositiva: cómo proclamar la Palabra de Dios hoy"
+ },
+ "la_predicacion_que__lawson": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/La predicación que Dios bendice - Steven Lawson.pdf",
+  "autor": "Steven J. Lawson",
+  "obra": "La predicación que Dios bendice"
+ },
+ "objetivo_el_corazon__capill": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Objetivo, el corazón - Murray Capill.pdf",
+  "autor": "Murray Capill",
+  "obra": "Objetivo: el corazón (The Heart is the Target)"
+ },
+ "predicando_con_relevancia__willhite": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Predicando con reelevancia - Keit Willhite.pdf",
+  "autor": "Keith Willhite",
+  "obra": "Predicando con relevancia"
+ },
+ "sermons_and_addresses__muller": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Sermon and Adresses - G. Muller.pdf",
+  "autor": "G. Muller",
+  "obra": "Sermons and Addresses"
+ },
+ "sermones_vol_iii__piper": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Sermones - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Sermones, vol. III"
+ },
+ "sermones_vol_i__piper": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Sermones, volumen 1 - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Sermones, vol. I"
+ },
+ "sermones_vol_ii__piper": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Sermones, volumen 2 - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Sermones, vol. II"
+ },
+ "ilustraciones_inolvidables_historias__rice": {
+  "repo": "ref3",
+  "path": "Predicacion y Homiletica/Wayne Rice-Ilustraciones inolvidables.pdf",
+  "autor": "Wayne Rice",
+  "obra": "Ilustraciones inolvidables: historias, cuentos y anécdotas para aquellos que hablan en público"
+ },
+ "de_parte_de__michelen2": {
+  "repo": "ref3",
+  "path": "Servicio y Ministerio/De parte de Dios y delante de Dios - Sugel Michelén.pdf",
+  "autor": "Sugel Michelén",
+  "obra": "De parte de Dios y delante de Dios"
+ },
+ "web_cpe_canon_biblico": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/ensayo/canon-biblico/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "El canon bíblico (ensayo)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_libros_apocrifos": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/ensayo/los-libros-apocrifos/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "Los libros apócrifos (ensayo)",
+  "consultado": "2026-11-13"
+ },
+ "web_trento_sesion4": {
+  "repo": "web",
+  "url": "https://ccel.org/ccel/schaff/creeds2.v.i.i.ii.html",
+  "autor": "Christian Classics Ethereal Library (CCEL) / Philip Schaff",
+  "obra": "Concilio de Trento, Sesión IV (8 abril 1546): Decreto sobre las Escrituras canónicas (en Schaff, Creeds of Christendom, vol. 2)",
+  "consultado": "2026-11-13"
+ },
+ "web_catecismo_escritura": {
+  "repo": "web",
+  "url": "https://www.vatican.va/archive/catechism_sp/p1s1c2a3_sp.html",
+  "autor": "Santa Sede (vatican.va)",
+  "obra": "Catecismo de la Iglesia Católica, Primera parte, sección 1, cap. 2, art. 3: La Sagrada Escritura (nn. 101-141, canon en 120)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_canon_nt": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/como-se-formo-el-canon-del-nuevo-testamento/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "¿Cómo se formó el canon del Nuevo Testamento?",
+  "consultado": "2026-11-13"
+ },
+ "web_athanasius_carta39": {
+  "repo": "web",
+  "url": "https://ccel.org/ccel/schaff/npnf204.xxv.iii.iii.xxv.html",
+  "autor": "Christian Classics Ethereal Library (CCEL) / Philip Schaff",
+  "obra": "Atanasio de Alejandría, Carta Festal 39 (año 367): lista de los libros que la Iglesia acepta (NPNF 2.4)",
+  "consultado": "2026-11-13"
+ },
+ "web_tgc_apocrypha_canon": {
+  "repo": "web",
+  "url": "https://www.thegospelcoalition.org/article/apocrypha-and-canon-in-early-christianity/",
+  "autor": "The Gospel Coalition",
+  "obra": "Apocrypha and Canon in Early Christianity",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_evangelios_correctos": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/tenemos-los-evangelios-correctos/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "¿Tenemos los Evangelios correctos? (evangelios canónicos y apócrifos)",
+  "consultado": "2026-11-13"
+ },
+ "web_csntm_manuscritos_canon": {
+  "repo": "web",
+  "url": "https://www.csntm.org/2024/08/27/new-testament-manuscripts-and-the-new-testament-canon/",
+  "autor": "Center for the Study of New Testament Manuscripts (CSNTM)",
+  "obra": "New Testament Manuscripts and the New Testament Canon",
+  "consultado": "2026-11-13"
+ },
+ "web_csntm_numeros_ga": {
+  "repo": "web",
+  "url": "https://www.csntm.org/2022/10/24/manuscripts-101-ga-numbers/",
+  "autor": "Center for the Study of New Testament Manuscripts (CSNTM)",
+  "obra": "Manuscripts 101: GA Numbers (papiros, unciales, minúsculos, leccionarios)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_papiros": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/papiros-confiar-biblia/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "¿Cómo los papiros nos ayudan a confiar en la Biblia?",
+  "consultado": "2026-11-13"
+ },
+ "web_tgc_wallace_manuscritos": {
+  "repo": "web",
+  "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/",
+  "autor": "The Gospel Coalition",
+  "obra": "An Interview with Daniel B. Wallace on the New Testament Manuscripts",
+  "consultado": "2026-11-13"
+ },
+ "web_tgc_dss_biblia": {
+  "repo": "web",
+  "url": "https://www.thegospelcoalition.org/themelios/review/the-dead-sea-scrolls-and-the-bible/",
+  "autor": "The Gospel Coalition / Themelios",
+  "obra": "The Dead Sea Scrolls and the Bible (reseña, Themelios 38.3)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_critica_textual_at": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/entender-antiguo-testamento-critica-textual/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "Cómo entender y aplicar el Antiguo Testamento, paso 3: Crítica textual (J. DeRouchie)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_septuaginta": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/que-es-la-septuaginta-preguntas-biblicas/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "¿Qué es la Septuaginta?",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_critica_textual": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/critica-textual-amiga-o-enemiga-de-los-cristianos/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "Crítica textual: ¿amiga o enemiga de los cristianos?",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_marcos_16": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/era-marcos-169-20-originalmente-parte-del-evangelio-de-marcos/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "¿Era Marcos 16:9-20 originalmente parte del Evangelio de Marcos?",
+  "consultado": "2026-11-13"
+ },
+ "web_themelios_adultera": {
+  "repo": "web",
+  "url": "https://www.thegospelcoalition.org/themelios/article/text-criticism-and-the-pulpit-should-one-preach-about-the-woman-caught-in-adultery/",
+  "autor": "The Gospel Coalition / Themelios",
+  "obra": "Text-Criticism and the Pulpit: Should One Preach About the Woman Caught in Adultery? (Juan 7:53-8:11, Themelios 45.2)",
+  "consultado": "2026-11-13"
+ },
+ "web_tgc_wallace_coma": {
+  "repo": "web",
+  "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/wallace-on-the-comma-johanneum-at-1-john-5-7/",
+  "autor": "The Gospel Coalition",
+  "obra": "Wallace on the Comma Johanneum at 1 John 5:7",
+  "consultado": "2026-11-13"
+ },
+ "web_themelios_texto_mayoritario": {
+  "repo": "web",
+  "url": "https://www.thegospelcoalition.org/themelios/article/the-majority-text-debate-new-form-of-an-old-issue/",
+  "autor": "The Gospel Coalition / Themelios",
+  "obra": "The 'Majority Text Debate': New Form of an Old Issue (Themelios 8.2)",
+  "consultado": "2026-11-13"
+ },
+ "web_tgc_biblia_traduccion": {
+  "repo": "web",
+  "url": "https://www.thegospelcoalition.org/essay/the-bible-in-translation/",
+  "autor": "The Gospel Coalition",
+  "obra": "The Bible in Translation (ensayo: formal vs. funcional, historia)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_historia_reina_valera": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/entradas/sugel-michelen/historia-de-la-reina-valera/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "Historia de la Reina Valera (S. Michelen)",
+  "consultado": "2026-11-13"
+ },
+ "web_ligonier_historia_biblia_espanol": {
+  "repo": "web",
+  "url": "https://es.ligonier.org/videos/la-historia-de-la-biblia-en-espanol/",
+  "autor": "Ligonier Ministries (en español)",
+  "obra": "La historia de la Biblia en español",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_nvi_mitos": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/mitos-verdades-nueva-version-internacional/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "La Nueva Versión Internacional: 3 mitos y verdades",
+  "consultado": "2026-11-13"
+ },
+ "web_ligonier_biblia_ingles": {
+  "repo": "web",
+  "url": "https://learn.ligonier.org/articles/bible-english",
+  "autor": "Ligonier Ministries",
+  "obra": "The Bible in English (S. Nichols; Wycliffe, Tyndale, KJV)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_interpretacion": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/ensayo/interpretacion-escrituras-introduccion-general/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "La interpretación de las Escrituras: introducción general (ensayo)",
+  "consultado": "2026-11-13"
+ },
+ "web_chicago_hermeneutica": {
+  "repo": "web",
+  "url": "https://www.alliancenet.org/the-chicago-statement-on-biblical-hermeneutics",
+  "autor": "International Council on Biblical Inerrancy (ICBI) / Alliance of Confessing Evangelicals",
+  "obra": "The Chicago Statement on Biblical Hermeneutics (ICBI, 1982)",
+  "consultado": "2026-11-13"
+ },
+ "web_crossway_inductivo": {
+  "repo": "web",
+  "url": "https://www.crossway.org/articles/10-tips-for-getting-started-with-inductive-bible-study/",
+  "autor": "Crossway",
+  "obra": "10 Tips for Getting Started with Inductive Bible Study",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_lenguas_biblicas": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/articulo/estudia-lenguas-biblicas/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "Estudia las lenguas bíblicas: consejos y recursos",
+  "consultado": "2026-11-13"
+ },
+ "web_logos_strong": {
+  "repo": "web",
+  "url": "https://www.logos.com/grow/min-strongs-concordance-and-what-to-use-instead/",
+  "autor": "Logos / Faithlife",
+  "obra": "How to Use Strong's Concordance and What to Use Instead",
+  "consultado": "2026-11-13"
+ },
+ "web_9marks_carson": {
+  "repo": "web",
+  "url": "https://www.9marks.org/review/book-review-exegetical-fallacies-by-d-a-carson/",
+  "autor": "9Marks / Southern Baptist Theological Seminary",
+  "obra": "Book Review: Exegetical Fallacies, by D. A. Carson (B. Vickers, SBTS)",
+  "consultado": "2026-11-13"
+ },
+ "web_ligonier_drama_redencion": {
+  "repo": "web",
+  "url": "https://media.thegospelcoalition.org/wp-content/uploads/sites/4/2019/02/01205432/ElDramaDeLaRedencion_GuiaDeEstudio.pdf",
+  "autor": "Ligonier Ministries / Coalición por el Evangelio",
+  "obra": "El drama de la redención: guía de estudio (R. C. Sproul)",
+  "consultado": "2026-11-13"
+ },
+ "web_cpe_teologia_biblica_creacion": {
+  "repo": "web",
+  "url": "https://www.coalicionporelevangelio.org/ensayo/teologia-biblica-creacion/",
+  "autor": "Coalición por el Evangelio",
+  "obra": "Una teología bíblica de la creación (ensayo)",
+  "consultado": "2026-11-13"
+ },
+ "web_bibleproject_hebrew_bible": {
+  "repo": "web",
+  "url": "https://documents.bibleproject.com/classroom/teacher-notes/introduction-to-the-hebrew-bible-teacher-notes.pdf",
+  "autor": "BibleProject",
+  "obra": "Introduction to the Hebrew Bible: Class Notes (T. Mackie)",
+  "consultado": "2026-11-13"
+ },
+ "web_wcf_ccel": {
+  "repo": "web",
+  "url": "https://ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html",
+  "autor": "Christian Classics Ethereal Library (CCEL) / Philip Schaff",
+  "obra": "Confesión de Fe de Westminster (1647), texto en Schaff, Creeds of Christendom vol. 3 (cap. 1: De la Santa Escritura)",
+  "consultado": "2026-11-13"
+ },
+ "web_dei_verbum": {
+  "repo": "web",
+  "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html",
+  "autor": "Santa Sede (vatican.va)",
+  "obra": "Dei Verbum: Constitución dogmática sobre la divina revelación (Concilio Vaticano II, 1965)",
+  "consultado": "2026-11-13"
  }
 }

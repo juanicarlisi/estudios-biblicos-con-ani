@@ -6,7 +6,7 @@ AQUI = os.path.dirname(os.path.abspath(__file__)); V = os.path.abspath(os.path.j
 cat = json.load(open(f'{V}/catalogo/catalogo.json')); lib = json.load(open(f'{V}/libros.json'))
 repo, areas = sys.argv[1], set(sys.argv[2:])
 def slug(t): t = unicodedata.normalize('NFD', t.lower()); t = ''.join(c for c in t if not unicodedata.combining(c)); return re.sub(r'[^a-z0-9]+', '_', t).strip('_')
-rutas = {b['path'] for b in lib.values()}; titulos = {slug(b['obra']) for b in lib.values()}
+rutas = {b.get('path') for b in lib.values()}; titulos = {slug(b['obra']) for b in lib.values()}
 n = 0
 for c in cat:
     if c['repo'] != repo or c['area'] not in areas or c['categoria'] != 'A' or c['duplicado_de'] or not c['path'].lower().endswith('.pdf'): continue

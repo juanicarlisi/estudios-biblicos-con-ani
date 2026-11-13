@@ -4,7 +4,7 @@ A = protestante confiable (se usa); B = con reservas; C = excluido; D = autor no
 
 | Repo | Área | A | B | C | D | E | ? | Total |
 |---|---|--:|--:|--:|--:|--:|--:|--:|
-| biblio | Comentarios por libro (MATERIAL SOPORTE) | 0 | 0 | 0 | 0 | 0 | 117 | 117 |
+| biblio | Comentarios por libro (MATERIAL SOPORTE) | 113 | 1 | 0 | 3 | 0 | 0 | 117 |
 | ref3 | Alabanza y Adoracion | 5 | 0 | 0 | 0 | 0 | 0 | 5 |
 | ref3 | Amor y Relaciones | 4 | 0 | 0 | 0 | 0 | 0 | 4 |
 | ref3 | Apologetica | 34 | 0 | 0 | 0 | 0 | 0 | 34 |
@@ -34,14 +34,14 @@ A = protestante confiable (se usa); B = con reservas; C = excluido; D = autor no
 | ref3 | Relacion con Dios | 52 | 0 | 0 | 0 | 2 | 0 | 54 |
 | ref3 | Servicio y Ministerio | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 | ref3 | Teologia Sistematica y Doctrina | 83 | 0 | 0 | 0 | 0 | 0 | 83 |
-| ref4 | 01 - Biblia y Comentarios Bíblicos | 23 | 1 | 14 | 8 | 0 | 117 | 163 |
-| ref4 | 02 - Teología y Doctrina | 0 | 0 | 0 | 0 | 0 | 9 | 9 |
-| ref4 | 03 - Vida Cristiana y Devocionales | 0 | 0 | 0 | 0 | 0 | 20 | 20 |
-| ref4 | 04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano | 0 | 0 | 0 | 0 | 0 | 22 | 22 |
-| ref4 | 05 - Matrimonio, Noviazgo y Sexualidad | 1 | 0 | 0 | 0 | 0 | 35 | 36 |
-| ref4 | 06 - Discipulado, Ministerio y Juventud | 0 | 0 | 0 | 0 | 0 | 11 | 11 |
-| ref4 | 07 - Historia de la Iglesia, Mártires y Biografías | 0 | 0 | 0 | 0 | 0 | 10 | 10 |
-| ref4 | 08 - Apologética, Ciencia y Cosmovisión | 2 | 0 | 2 | 3 | 0 | 28 | 35 |
-| ref4 | nuevos | 141 | 24 | 11 | 15 | 0 | 111 | 302 |
+| ref4 | 01 - Biblia y Comentarios Bíblicos | 107 | 14 | 25 | 17 | 0 | 0 | 163 |
+| ref4 | 02 - Teología y Doctrina | 7 | 0 | 0 | 2 | 0 | 0 | 9 |
+| ref4 | 03 - Vida Cristiana y Devocionales | 13 | 5 | 2 | 0 | 0 | 0 | 20 |
+| ref4 | 04 - Hombre Cristiano, Paternidad y Liderazgo Cristiano | 18 | 1 | 1 | 2 | 0 | 0 | 22 |
+| ref4 | 05 - Matrimonio, Noviazgo y Sexualidad | 28 | 1 | 4 | 3 | 0 | 0 | 36 |
+| ref4 | 06 - Discipulado, Ministerio y Juventud | 4 | 7 | 0 | 0 | 0 | 0 | 11 |
+| ref4 | 07 - Historia de la Iglesia, Mártires y Biografías | 6 | 0 | 4 | 0 | 0 | 0 | 10 |
+| ref4 | 08 - Apologética, Ciencia y Cosmovisión | 12 | 2 | 16 | 5 | 0 | 0 | 35 |
+| ref4 | nuevos | 228 | 32 | 21 | 21 | 0 | 0 | 302 |
 
-**Total:** 1287 archivos · ?: 480 · A: 706 · B: 25 · C: 27 · D: 26 · E: 23
+**Total:** 1287 archivos · A: 1075 · B: 63 · C: 73 · D: 53 · E: 23

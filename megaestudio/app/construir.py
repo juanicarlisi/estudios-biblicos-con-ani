@@ -68,10 +68,14 @@ def main():
     for f in sorted(glob.glob(f'{V}/dias/dia_*.json')):
         d = json.load(open(f)); dias[d['dia']] = d
     usados = recoger(dias, set())
-    fuentes, obras = {}, set()
+    fuentes, obras, webs = {}, set(), set()
     for i in usados:
         if i == 'biblia': fuentes[i] = ['Biblia', 'Texto bíblico citado', 'RVR1960']; continue
         lib, pag = i.split('#'); b = libros[lib]
+        if b['repo'] == 'web':
+            fuentes[i] = [b['autor'], f"{b['autor']}, {b['obra']}", f"sección {pag} · consultado el {b['consultado']}", b['url']]
+            webs.add((b['autor'], b['obra'], b['url']))
+            continue
         fuentes[i] = [etiqueta(b['autor']), f"{b['autor']}, {b['obra']}", f'pág. {pag} (del PDF)']
         obras.add((b['autor'], b['obra']))
     rvr_todo = json.load(open(f'{V}/biblia/rvr.json')) if os.path.exists(f'{V}/biblia/rvr.json') else {}
@@ -83,7 +87,7 @@ def main():
     textos = {os.path.basename(f)[:-5]: json.load(open(f)) for f in glob.glob(f'{V}/textos/*.json')}
     textos.setdefault('como-usar', {'ojo': 'Guía', 'titulo': 'Cómo usar el estudio', 'html': '<p>Un día por vez: leé el pasaje, recorré el estudio y terminá con las preguntas y la oración.</p>'})
     datos = {'partes': partes, 'plan': PLAN, 'dias': dias, 'fuentes': fuentes, 'rvr': rvr, 'textos': textos, 'ayuda': {'consultado': '', 'temas': {}},
-             'obras': {'libros': [list(o) for o in sorted(obras)], 'web': []}, 'aviso_rvr': AVISO_RVR}
+             'obras': {'libros': [list(o) for o in sorted(obras)], 'web': [list(o) for o in sorted(webs)]}, 'aviso_rvr': AVISO_RVR}
     plantilla = open(os.path.join(AQUI, 'plantilla.html')).read()
     js = 'window.DATOS = ' + json.dumps(datos, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/') + ';'
     out = plantilla.replace('/*__DATOS__*/', js)

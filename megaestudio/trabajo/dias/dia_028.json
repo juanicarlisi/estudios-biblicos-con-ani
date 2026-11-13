@@ -1,0 +1,135 @@
+{
+  "dia": 28,
+  "titulo": "Cómo leer la sabiduría: Proverbios, Job, Eclesiastés y Cantares",
+  "bajada": "Cuatro libros de la Biblia que no se leen como una ley ni como una promesa. ¿Qué es la sabiduría bíblica, dónde empieza y cómo evitar convertir un proverbio en una garantía automática?",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Proverbios 1:1-7; Job 42:1-9", "porque": "El prefacio de Proverbios dice para qué existe la sabiduría y dónde empieza; el final de Job muestra qué pasa cuando alguien usa una fórmula para explicar el dolor ajeno."},
+  "versiculos": [
+    {"ref": "Proverbios 1:7", "porque": "Dice en una frase dónde empieza la sabiduría bíblica."},
+    {"ref": "Job 42:7", "porque": "Dios mismo dice quién habló bien de él y quién no, y desarma una explicación demasiado simple del sufrimiento."}
+  ],
+  "entrada": {
+    "texto": "Proverbios, Job, Eclesiastés y Cantares se agrupan bajo el nombre de literatura sapiencial, según el comentario Beacon, y se leen mal cuando se los trata como si fueran el mismo tipo de texto. Keller advierte que los lectores modernos solemos tomar cada proverbio por una promesa o un mandamiento suelto, y de ahí nacen muchas confusiones. Hoy el trabajo es aprender qué clase de texto tenés delante antes de preguntarle qué te pide.",
+    "fuentes": ["comentario_biblico_beacon__chapman#520", "sabiduria_de_dios__keller#8"]
+  },
+  "apartados": [
+    {
+      "titulo": "Qué es la sabiduría y dónde empieza",
+      "parrafos": [
+        {"texto": "La Biblia de estudio MacArthur ubica esta literatura dentro del Antiguo Testamento: el sacerdote daba la ley, el profeta una palabra del Señor y el sabio su consejo (Jeremías 18:18). En Proverbios, Salomón da principios para asuntos difíciles de la vida que la ley y los profetas no cubren de manera directa.", "fuentes": ["biblia_de_estudio__autor#1193"]},
+        {"texto": "Sid Buzzell, en la introducción a Proverbios de El Conocimiento Bíblico, define el término central. La palabra hebrea ḥokmâh designa en el Antiguo Testamento la habilidad de artesanos, marineros o administradores, y en lo espiritual a quien sabe andar por los caminos de Dios. Ser sabio, en esta literatura, es ser hábil para vivir una vida piadosa.", "fuentes": ["el_conocimiento_biblico__walvoord2#276"]},
+        {"texto": "Esa habilidad tiene un punto de partida. Proverbios 1:7 dice que el temor de Jehová es el principio de la sabiduría y que los insensatos desprecian la sabiduría y la enseñanza. Según Buzzell, «principio» traduce rē’sîṯ, que significa comienzo y también culminación: quien empieza por el lugar equivocado no llega al verdadero conocimiento. Temer al Señor es reconocer su carácter y responder con reverencia, confianza, adoración, obediencia y servicio, y el mismo enunciado reaparece en Proverbios 9:10, Job 28:28 y Salmo 111:10.", "fuentes": ["el_conocimiento_biblico__walvoord2#276", "el_conocimiento_biblico__walvoord2#282"]},
+        {"texto": "Keller aclara que ese temor no es terror sino asombro y admiración ante el amor fiel del Dios del pacto, y que una relación viva con Dios es el requisito absoluto para la sabiduría. El contraste de fondo, dice Buzzell, es entre quienes temen a Dios con humildad y los insensatos arrogantes que rechazan la enseñanza. Los «simples» de 1:4, en cambio, no son tontos sino inexpertos, fáciles de engañar por su poco contacto con la vida.", "fuentes": ["sabiduria_de_dios__keller#11", "el_conocimiento_biblico__walvoord2#282", "el_conocimiento_biblico__walvoord2#283"]}
+      ],
+      "destacado": {"texto": "La sabiduría bíblica no es acumular datos sino saber vivir con Dios en lo cotidiano, y empieza reconociéndolo.", "fuentes": ["el_conocimiento_biblico__walvoord2#276"]}
+    },
+    {
+      "titulo": "Cómo se lee un proverbio",
+      "parrafos": [
+        {"texto": "La palabra «proverbio» traduce el hebreo māšāl, que probablemente deriva de un verbo que significa comparar: un dicho que compara o resume una experiencia común. Buzzell señala que māšāl también nombra refranes, oráculos, parábolas y enigmas, y el comentario Beacon agrega que para el hebreo antiguo era un término más amplio que nuestro proverbio moderno, breve e ingenioso: servía para interpretar las enseñanzas éticas de la fe de Israel.", "fuentes": ["el_conocimiento_biblico__walvoord2#277", "comentario_biblico_beacon__chapman#519"]},
+        {"texto": "La forma habitual es el paralelismo. Buzzell distingue el antitético, donde una línea contrasta con la otra (Proverbios 10:1), el emblemático, donde una ilumina a la otra con una comparación (Proverbios 25:12), y el sintético, donde la segunda continúa el pensamiento, como en los versículos del tipo «mejor es… que». Keller sugiere leer las dos mitades juntas: en Proverbios 13:6, la primera ayuda a entender qué significa la «maldad» de la segunda. Y las imágenes, como el anillo de oro en el hocico de un cerdo (Proverbios 11:22), invitan a pensar en cuántas formas el dibujo explica el principio.", "fuentes": ["el_conocimiento_biblico__walvoord2#278", "sabiduria_de_dios__keller#7", "sabiduria_de_dios__keller#8"]},
+        {"texto": "El error moderno, advierte Keller, es pensar que cada proverbio es una promesa o un mandamiento independiente. Por lo general no son ni lo uno ni lo otro: cada uno describe un aspecto del funcionamiento de la vida, y el sentido se arma de manera acumulativa. Por eso Proverbios 29:19, leído solo, parece una afirmación radical sobre los siervos, pero Proverbios 17:2 habla de un siervo sabio que puede ser mejor que un familiar, y juntos muestran que el primero apunta a quienes tienen una actitud áspera e indiferente.", "fuentes": ["sabiduria_de_dios__keller#8", "sabiduria_de_dios__keller#9"]},
+        {"texto": "Buzzell da otro ejemplo: Proverbios 26:4 y 26:5 parecen contradecirse, pero se complementan, porque uno no debe rebajarse al nivel del necio y, aun así, a veces hace falta usar su lenguaje para refutarlo; la sabiduría sirve para decidir cuándo aplicar cada dicho. Y formula la regla: muchas máximas deben reconocerse como «guías, no como observaciones absolutas, ni como promesas inalterables», verdaderas en general y con excepciones que la propia Biblia señala, como se ve al comparar Proverbios 10:27 con Salmo 73:12.", "fuentes": ["el_conocimiento_biblico__walvoord2#352", "el_conocimiento_biblico__walvoord2#278"]}
+      ],
+      "destacado": {"texto": "Un proverbio no es una promesa suelta, sino una pieza de un rompecabezas que se arma leyendo juntos los demás.", "fuentes": ["sabiduria_de_dios__keller#8"]}
+    },
+    {
+      "titulo": "Proverbios 22:6: un caso de prueba",
+      "parrafos": [
+        {"texto": "Es, según Buzzell, quizá el versículo más conocido de Proverbios sobre la educación de los hijos; los demás sobre el tema (13:24; 19:18; 22:15; 23:13-14; 29:17) hablan de disciplina. «Instruye» traduce ḥānaḵ, que significa dedicar y se usa para dedicar una casa o el templo (Deuteronomio 20:5; 1 Reyes 8:63); también sugiere iniciar. La frase «en su camino» es, literalmente, «sobre la boca de su camino».", "fuentes": ["el_conocimiento_biblico__walvoord2#339", "el_conocimiento_biblico__walvoord2#340"]},
+        {"texto": "Buzzell recoge dos lecturas de «su camino»: el que el niño debería seguir, en lo vocacional o lo moral, o el que corresponde a su personalidad o a su etapa de la vida. Entre ambas, opta por una lectura moral: el camino de una vida sabia y piadosa, que es el que Proverbios enfatiza en todo el libro.", "fuentes": ["el_conocimiento_biblico__walvoord2#340"]},
+        {"texto": "Y reconoce lo que muchos padres viven: algunos siguieron esa directriz y sus hijos igual se apartaron. Para Buzzell eso ilustra la naturaleza de un proverbio, que establece una verdad general aplicada a una situación concreta; no es garantía absoluta, y quien elige el camino del necio es responsable de su decisión. Aun así, observa, por lo general la mayoría de los hijos criados por padres piadosos que enseñan y viven según las normas de Dios sigue esa instrucción.", "fuentes": ["el_conocimiento_biblico__walvoord2#340"]},
+        {"texto": "La Biblia de estudio MacArthur llama «promesa continua» de Proverbios a la tendencia general de que los sabios prosperan y los necios sufren, pero la equilibra de inmediato: los impíos a veces prosperan (Salmo 73:3, 12) y Job muestra que los sabios piadosos también enfrentan desastre. Keller lo explica desde la creación: Dios estableció un orden, pero vivimos en un mundo caído donde ese orden no siempre funciona ni se discierne con facilidad.", "fuentes": ["biblia_de_estudio__autor#1194", "sabiduria_de_dios__keller#9"]}
+      ]
+    },
+    {
+      "titulo": "Job: cuando la fórmula no alcanza",
+      "parrafos": [
+        {"texto": "Roy Zuck, en la introducción a Job de El Conocimiento Bíblico, presenta el libro como el mejor ejemplo de sufrimiento inmerecido: Job pierde bienes, hijos y salud, su esposa le sugiere maldecir a Dios y sus amigos lo censuran en vez de consolarlo. El libro muestra, dice, que Dios puede cumplir otros propósitos con la adversidad aparte de castigar la mala conducta. Y distingue dos cosas: preguntar «por qué» no es malo (Job 3:11-12), pero exigir que Dios se explique sí lo es (Job 13:22; 19:7).", "fuentes": ["el_conocimiento_biblico__walvoord2#17"]},
+        {"texto": "El comentario Beacon, en la sección de Milo Chapman, resume la discusión: los tres amigos están seguros de que el sufrimiento de Job lo causa algún pecado escondido, mientras Job niega que pecado y sufrimiento se relacionen siempre en una secuencia directa de causa y efecto. Eliú pone el acento en la providencia de Dios y en el valor del sufrimiento como disciplina. Cuando Dios habla desde la tormenta, no menciona el problema particular de Job ni sus preguntas: deja establecido quién es él, y Job se arrepiente de sus palabras.", "fuentes": ["comentario_biblico_beacon__chapman#19", "comentario_biblico_beacon__chapman#20"]},
+        {"texto": "La Biblia de estudio MacArthur agrega la escena del cielo: ni Job ni sus amigos supieron nunca del debate entre Dios y Satanás. Por eso, afirma, los amigos, aun con toda su teología sana, solo hallaron ideas equivocadas, y de la experiencia de Job concluye que Dios permite sufrimientos por razones que quienes están en la tierra no pueden discernir, de modo que no se puede juzgar la espiritualidad de una persona por sus circunstancias dolorosas.", "fuentes": ["biblia_de_estudio__autor#949", "biblia_de_estudio__autor#950"]},
+        {"texto": "En Job 42:7, según Zuck, Dios se vuelve contra los tres porque insistían en que el sufrimiento siempre es retributivo, con lo cual limitaban la libertad soberana de Dios de usarlo para otros fines y condenaron cruelmente a un inocente. Se parece a lo que vimos en Proverbios: tomar una regla general por ley sin excepciones. Zuck cuenta además que Dios manda a los amigos ofrecer siete becerros y siete carneros en holocausto, y que Job oró por ellos.", "fuentes": ["el_conocimiento_biblico__walvoord2#94", "el_conocimiento_biblico__walvoord2#95", "el_conocimiento_biblico__walvoord2#340"]},
+        {"texto": "Beacon recuerda que algunos objetan la restauración de los bienes de Job porque parecería dar la razón a los amigos, y responde que no es necesariamente así. Concede, eso sí, que el libro no explica por qué sufren los hombres, aunque puede ayudar a sufrir con paciencia y a mantener la fe en caminos de Dios que a veces son oscuros.", "fuentes": ["comentario_biblico_beacon__chapman#133"]}
+      ]
+    },
+    {
+      "titulo": "Eclesiastés: la vida «debajo del sol»",
+      "parrafos": [
+        {"texto": "Eclesiastés repite que todo es hebel. Según Donald Glen, en El Conocimiento Bíblico, la palabra señala concretamente un suspiro, un viento o un vapor, y en sentido figurado algo breve, enigmático o sin sustancia. La frase «debajo del sol» quiere decir, dice, «aquí abajo, en la tierra», y aparece 29 veces en el libro, con frecuencia ligada al trabajo humano.", "fuentes": ["el_conocimiento_biblico__walvoord2#371", "el_conocimiento_biblico__walvoord2#376"]},
+        {"texto": "Glen explica que el libro examina el trabajo, la sabiduría y la justicia, y encuentra que ninguno da seguridad absoluta. La sabiduría tiene ventaja sobre la necedad (Eclesiastés 2:13-14), pero el sabio está expuesto a los mismos desastres que el necio y a ambos los alcanza la muerte; la justicia tampoco garantiza recompensa (Eclesiastés 8:14). Su lectura es que el propósito es mostrar lo inseguro de todo esfuerzo humano «debajo del sol» y llevar a confiar solo en Dios, de quien viene el gozo como regalo (Eclesiastés 2:24-26). Leído junto a Proverbios, es el libro que mira de frente las excepciones.", "fuentes": ["el_conocimiento_biblico__walvoord2#372", "el_conocimiento_biblico__walvoord2#373", "el_conocimiento_biblico__walvoord2#278"]},
+        {"texto": "El comentario Beacon, en la sección de A. F. Harper, ve en el libro una lucha: en Eclesiastés 8:12-13 la fe de Koheleth afirma que a los que temen a Dios les irá bien, y cuando en 8:14-15 pone la mirada solo en la tierra la vida se le hunde. Harper compara el libro con un diario donde se anotan impresiones de tanto en tanto, y la respuesta final es temer a Dios y guardar sus mandamientos (Eclesiastés 12:13).", "fuentes": ["comentario_biblico_beacon__chapman#641", "comentario_biblico_beacon__chapman#610", "comentario_biblico_beacon__chapman#611"]}
+      ]
+    },
+    {
+      "titulo": "Cantares: un poema de amor sin clave secreta",
+      "parrafos": [
+        {"texto": "Harper explica que «Cantar de los Cantares» es la traducción literal de una expresión superlativa, el cántico de suprema excelencia, y que es poesía lírica hebrea, que no se apoya en rima ni metro sino en el equilibrio del pensamiento, como en Cantares 8:6. Jack Deere, en El Conocimiento Bíblico, advierte que el libro tiene la mayor diversidad de interpretaciones de toda la Biblia, y dice que muchos eruditos evangélicos lo leen como un poema lírico con unidad: noviazgo (1:2–3:5), boda (3:6–5:1) y maduración del matrimonio (5:2–8:4).", "fuentes": ["comentario_biblico_beacon__chapman#661", "el_conocimiento_biblico__walvoord2#411"]},
+        {"texto": "El primer error de lectura es la alegoría. Deere recuerda que la tradición judía vio en el libro el amor de Dios por Israel y que varios líderes cristianos antiguos vieron el amor de Cristo por su iglesia, y objeta que esa lectura es subjetiva y que en ningún lugar del libro se sugiere entenderlo así. Harper coincide en rechazarla: con ese método el libro significaría lo que la imaginación del expositor invente. Deere ve el propósito en exaltar el amor humano y el matrimonio, que Dios creó y sancionó (Génesis 1:27; 2:24); Harper lo lee como el amor de un hombre por una mujer, el que faltaba cuando Dios dijo que no era bueno que el hombre estuviera solo (Génesis 2:18).", "fuentes": ["el_conocimiento_biblico__walvoord2#411", "el_conocimiento_biblico__walvoord2#412", "comentario_biblico_beacon__chapman#663"]}
+      ]
+    }
+  ],
+  "citas": [
+    {"texto": "Cada uno es una descripción de algún aspecto del funcionamiento de la vida.", "autor": "Timothy Keller", "obra": "Sabiduría de Dios para navegar por la vida", "fuentes": ["sabiduria_de_dios__keller#8"]},
+    {"texto": "Este libro no dice, en realidad, por qué los hombres sufren en este mundo.", "autor": "Milo L. Chapman", "obra": "Comentario Bíblico Beacon, tomo 3 (Job)", "fuentes": ["comentario_biblico_beacon__chapman#133"]}
+  ],
+  "palabras": [
+    {"original": "משל", "translit": "māšāl", "idioma": "hebreo", "ref": "Pr 1:1", "significado": "Proverbio. Buzzell lo vincula con un verbo que significa comparar: un dicho que compara o resume una experiencia común. También nombra refranes, oráculos, parábolas y enigmas.", "fuentes": ["el_conocimiento_biblico__walvoord2#277"]},
+    {"original": "חכמה", "translit": "ḥokmâh", "idioma": "hebreo", "ref": "Pr 1:2", "significado": "Sabiduría. En el Antiguo Testamento nombra la habilidad de artesanos, marineros o administradores; en lo espiritual, la habilidad de quien anda por los caminos de Dios.", "fuentes": ["el_conocimiento_biblico__walvoord2#276"]},
+    {"original": "הבל", "translit": "hebel", "idioma": "hebreo", "ref": "Ec 1:2", "significado": "Vanidad. Concretamente, un suspiro, un viento o un vapor; en sentido figurado, algo breve, enigmático o sin sustancia real.", "fuentes": ["el_conocimiento_biblico__walvoord2#371"]}
+  ],
+  "cristo": [
+    {"texto": "La sabiduría hecha persona. Jesús dijo que en su presencia había más que Salomón (Mateo 12:42; Lucas 11:31), y Pablo llama a Cristo la sabiduría de Dios (1 Corintios 1:24) y dice que en él están escondidos los tesoros de la sabiduría (Colosenses 2:3): eso es explícito en el Nuevo Testamento. Keller, además, lee a la Sabiduría personificada de Proverbios 8:22-31 como Jesús, la Palabra de Juan 1:1-4: es su lectura, no un dato que el pasaje establezca por sí solo.", "refs": ["Pr 8:22-31", "1 Co 1:24", "Col 2:3"], "fuentes": ["comentario_biblico_beacon__chapman#521", "sabiduria_de_dios__keller#11"]},
+    {"texto": "El fin del Señor en Job. Santiago 5:11 dice que se vio en Job el fin del Señor, que es muy misericordioso y compasivo, y la Biblia de estudio MacArthur lo toma como la conclusión del libro. Beacon agrega una lectura propia: hizo falta Otro, que llevó una cruz, para mostrar lo que se obtiene mediante el sufrimiento inmerecido.", "refs": ["Stg 5:11"], "fuentes": ["biblia_de_estudio__autor#949", "comentario_biblico_beacon__chapman#134"]},
+    {"texto": "Lo que Eclesiastés deja abierto. Glen sostiene que, sin la seguridad de un juicio futuro y de la vida después de la muerte, apoyada en la crucifixión y la resurrección de Cristo (Hechos 17:30-31), el futuro sería incierto y misterioso; aun así, dice, la vida no debe abandonarse a la desesperación.", "refs": ["Hch 17:30-31"], "fuentes": ["el_conocimiento_biblico__walvoord2#373"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿En qué «habló lo recto» Job (Job 42:7)?",
+      "posturas": [
+        {"postura": "Job habló bien de Dios porque se arrepintió de sus acusaciones orgullosas (42:6), nunca lo maldijo ni renunció a él, y su percepción del poder y la sabiduría divinos superaba la de los amigos.", "quien": "Zuck (El Conocimiento Bíblico)", "fuentes": ["el_conocimiento_biblico__walvoord2#94", "el_conocimiento_biblico__walvoord2#95"]},
+        {"postura": "Dios no aprobó la actitud que Job había sostenido frente a él, pero tampoco la de los tres amigos, que estaban en un error mucho más serio.", "quien": "Chapman (Comentario Beacon)", "fuentes": ["comentario_biblico_beacon__chapman#133"]},
+        {"postura": "Dios reprendió a Job por exigir ser justificado, pero declaró correcto lo que Job dijo y equivocado lo que dijeron los consoladores.", "quien": "Biblia de estudio MacArthur", "fuentes": ["biblia_de_estudio__autor#951"]}
+      ],
+      "nota": "Los tres coinciden en que los amigos estaban equivocados; difieren en cuánto se le reconoce a Job."
+    },
+    {
+      "tema": "¿Cómo leer el tono de Eclesiastés y quién lo escribió?",
+      "posturas": [
+        {"postura": "El tono predominante es pesimista, pero el autor, Salomón, no era un pesimista, cínico ni escéptico sino un creyente sincero que quiso erradicar la confianza en los propios esfuerzos y llevar a confiar en Dios.", "quien": "Glen (El Conocimiento Bíblico)", "fuentes": ["el_conocimiento_biblico__walvoord2#373", "el_conocimiento_biblico__walvoord2#371"]},
+        {"postura": "El libro oscila entre la fe y el pesimismo, como pasa con la semi-fe y la semi-mundanalidad, pero eso no obliga a abandonar su unidad. Harper observa que probablemente la mayoría de los estudiosos coincide con Lutero en negar que lo escribiera Salomón.", "quien": "Harper (Comentario Beacon)", "fuentes": ["comentario_biblico_beacon__chapman#608", "comentario_biblico_beacon__chapman#610"]},
+        {"postura": "Salomón lo escribió en sus últimos años para advertir a los jóvenes; no es un libro de escepticismo, pues Salomón nunca dejó su fe en Dios (12:13-14).", "quien": "Biblia de estudio MacArthur", "fuentes": ["biblia_de_estudio__autor#1264", "biblia_de_estudio__autor#1265"]}
+      ],
+      "nota": "La autoría y la fecha no cambian cómo se aplica el libro hoy; se retoman en el estudio del canon y de la introducción al Antiguo Testamento."
+    },
+    {
+      "tema": "¿Cómo leer Cantares?",
+      "posturas": [
+        {"postura": "Un poema lírico con unidad y progresión, de dos protagonistas (la amada y el rey, que también puede ser el pastor), que exalta el amor humano y el matrimonio.", "quien": "Deere (El Conocimiento Bíblico)", "fuentes": ["el_conocimiento_biblico__walvoord2#411", "el_conocimiento_biblico__walvoord2#412"]},
+        {"postura": "Una historia de tres personajes (la joven, su amante pastor y Salomón) cuyo tema es la fidelidad en el amor; Harper admite que decidir quién habla en cada pasaje es subjetivo.", "quien": "Harper (Comentario Beacon)", "fuentes": ["comentario_biblico_beacon__chapman#664"]},
+        {"postura": "La alegoría del amor de Dios por Israel o de Cristo por su iglesia. En este día aparece solo como la describen y critican Deere y Harper.", "quien": "Presentada por Deere y Harper", "fuentes": ["el_conocimiento_biblico__walvoord2#411", "comentario_biblico_beacon__chapman#663"]}
+      ],
+      "nota": "No se oye aquí la voz de quienes defienden la lectura alegórica; el tema se retoma en los días de hermenéutica."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Job 28:28", "nota": "Buzzell lo cita junto a Proverbios 1:7 y 9:10 como otro lugar donde el temor del Señor se presenta como el comienzo de la sabiduría.", "fuentes": ["el_conocimiento_biblico__walvoord2#276"]},
+    {"ref": "Sal 73:12", "nota": "Buzzell lo compara con Proverbios 10:27 para mostrar que los proverbios admiten excepciones: los impíos a veces prosperan.", "fuentes": ["el_conocimiento_biblico__walvoord2#278"]},
+    {"ref": "Dt 29:29", "nota": "La Biblia de estudio MacArthur dice que Job ilustra este texto: las cosas secretas pertenecen a Jehová nuestro Dios.", "fuentes": ["biblia_de_estudio__autor#951"]},
+    {"ref": "Pr 8:22-31", "nota": "Keller ve en esta Sabiduría personificada a la Palabra de Dios de Juan 1:1-4.", "fuentes": ["sabiduria_de_dios__keller#11"]},
+    {"ref": "Gn 2:24", "nota": "Deere lo cita junto a Génesis 1:27 para explicar por qué un libro sobre el amor matrimonial tiene lugar en la Biblia.", "fuentes": ["el_conocimiento_biblico__walvoord2#412"]}
+  ],
+  "para_vivir": [
+    {"texto": "Antes de aplicar un proverbio, leelo junto a los demás que hablan del mismo tema y buscá las excepciones que la propia Biblia señala, como propone Keller al sumar los dichos de un tema.", "fuentes": ["sabiduria_de_dios__keller#8", "sabiduria_de_dios__keller#9", "el_conocimiento_biblico__walvoord2#278"]},
+    {"texto": "Con quien sufre, no repitas fórmulas: Dios reprendió a los amigos de Job por insistir en que el sufrimiento siempre es retributivo, y la Biblia de estudio MacArthur recuerda que no se puede juzgar la espiritualidad de nadie por sus circunstancias dolorosas.", "fuentes": ["el_conocimiento_biblico__walvoord2#94", "biblia_de_estudio__autor#950"]},
+    {"texto": "Empezá la sabiduría por el temor del Señor, que Keller describe como asombro ante su amor fiel, y recibí lo cotidiano como regalo de su mano, como enseña Eclesiastés 2:24-26 según Glen.", "fuentes": ["sabiduria_de_dios__keller#11", "el_conocimiento_biblico__walvoord2#373"]}
+  ],
+  "para_reflexionar": [
+    "¿Qué proverbio tomaste alguna vez como una promesa? ¿Qué pasó cuando no se cumplió como esperabas, y qué cambia si lo leés como principio general?",
+    "¿Alguna vez, como los amigos de Job, explicaste el dolor de alguien con una fórmula? ¿Qué le habría servido más?",
+    "Eclesiastés dice que todo esfuerzo debajo del sol queda inseguro. ¿En qué esfuerzo tuyo confiás más de lo que corresponde?"
+  ],
+  "para_orar": "Señor, enseñame a empezar por el temor de vos, que es el comienzo de la sabiduría. Cuidame de convertir tus palabras en fórmulas y de explicar con frases hechas el dolor de otros. Cuando no entienda, ayudame a confiar como Job y a recibir lo cotidiano como regalo tuyo. Que en Jesús, tu sabiduría hecha persona, encuentre lo que ni mi esfuerzo ni mi inteligencia pueden darme. Amén.",
+  "profundizar": [
+    {"titulo": "Proverbios y la sabiduría de otros pueblos antiguos", "texto": "Buzzell menciona obras sapienciales de Egipto y Babilonia, y señala que la Instrucción de Amen-em-Ope tiene similitudes con Proverbios 22:17-24:22, lo que plantea si Proverbios tomó algo de ella, si fue al revés o si ambos escribieron sobre asuntos comunes. Según él, las semejanzas no afectan la inspiración, y a esas obras les falta el énfasis en el temor de Jehová. Beacon recoge que críticos se inclinan a pensar en una dependencia hebrea, mientras eruditos conservadores la rechazan por diferencias teológicas y de orden entre los textos.", "fuentes": ["el_conocimiento_biblico__walvoord2#279", "el_conocimiento_biblico__walvoord2#280", "comentario_biblico_beacon__chapman#520"]}
+  ]
+}

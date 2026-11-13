@@ -2,128 +2,431 @@
   "dia": 13,
   "titulo": "Los manuscritos del Nuevo Testamento: papiros, códices y copias",
   "bajada": "No tenemos ni un solo original del Nuevo Testamento, pero sí miles de copias antiguas. ¿Qué son los papiros, los unciales y los minúsculos, cuántos hay, de cuándo son y qué se puede (y qué no) concluir de ellos?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Lucas 1:1-4; 2 Timoteo 4:9-13", "porque": "Lucas cuenta que investigó y escribió por orden, y Pablo pide libros y pergaminos: desde el principio, la fe cristiana circuló por escrito."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Lucas 1:1-4; 2 Timoteo 4:9-13",
+    "porque": "Lucas cuenta que investigó y escribió por orden, y Pablo pide libros y pergaminos: desde el principio, la fe cristiana circuló por escrito."
+  },
   "versiculos": [
-    {"ref": "Lucas 1:3-4", "porque": "Lucas presenta su Evangelio como fruto de una investigación cuidadosa, escrita para dar certeza."},
-    {"ref": "2 Timoteo 4:13", "porque": "Pablo pide los libros y los pergaminos: un destello de cómo se escribía y se guardaba el texto en el siglo I."}
+    {
+      "ref": "Lucas 1:3-4",
+      "porque": "Lucas presenta su Evangelio como fruto de una investigación cuidadosa, escrita para dar certeza."
+    },
+    {
+      "ref": "2 Timoteo 4:13",
+      "porque": "Pablo pide los libros y los pergaminos: un destello de cómo se escribía y se guardaba el texto en el siglo I."
+    }
   ],
   "entrada": {
     "texto": "Si alguien te dice que la Biblia se copió tantas veces que ya nadie sabe qué decía el original, hay una respuesta que no depende de una opinión sino de datos: cuántas copias hay, de qué siglos son, en qué idiomas y qué dicen. Hoy los recorremos con cuidado y con honestidad, porque los autores que estudian este material no siempre dan las mismas cifras ni las mismas fechas.\n\nEl punto de partida es simple: ninguno de los escritos originales del Nuevo Testamento ha sido descubierto. Lo que tenemos son copias, y la tarea es entender qué clase de copias son.",
-    "fuentes": ["no_tengo_suficiente__geisler#214", "el_caso_de__strobel#37"]
+    "fuentes": [
+      "no_tengo_suficiente__geisler#214",
+      "el_caso_de__strobel#37"
+    ]
   },
   "apartados": [
     {
       "titulo": "Un texto que desde el principio circuló por escrito",
       "parrafos": [
-        {"texto": "Lucas abre su Evangelio contando cómo trabajó: muchos habían intentado ordenar la historia de lo ocurrido, y él lo investigó todo con diligencia desde el principio y lo escribió por orden a Teófilo, «para que conozcas bien la verdad de las cosas» en las que había sido instruido (Lucas 1:1-4). En la lectura de hoy, Pablo le pide a Timoteo que le lleve el capote que dejó en Troas, los libros y «mayormente los pergaminos» (2 Timoteo 4:9-13). Dos textos que, sin proponérselo, muestran un mundo donde se escribía, se guardaba y se copiaba.", "fuentes": ["biblia"]},
-        {"texto": "Geisler y Turek recuerdan que el Nuevo Testamento no es un solo escrito sino veintisiete, redactados por nueve autores a lo largo de entre veinte y cincuenta años, según ellos, de modo que no funciona como el «juego del teléfono». Admiten el problema: no se ha encontrado ningún original, solo copias llamadas manuscritos. Pero responden que toda la literatura importante del mundo antiguo se reconstruye comparando los manuscritos que sobreviven, y que cuantos más haya y más cercanos al original, más segura es la reconstrucción.", "fuentes": ["no_tengo_suficiente__geisler#214"]},
-        {"texto": "Lee Strobel le plantea la pregunta a Bruce Metzger, profesor de Princeton. Metzger responde que no es un problema exclusivo de la Biblia, y que lo que el Nuevo Testamento tiene a su favor frente a otros escritos antiguos es la cantidad de copias que sobrevivieron y la poca distancia en el tiempo entre el original y las copias más tempranas.", "fuentes": ["el_caso_de__strobel#37"]}
+        {
+          "texto": "Lucas abre su Evangelio contando cómo trabajó: muchos habían intentado ordenar la historia de lo ocurrido, y él lo investigó todo con diligencia desde el principio y lo escribió por orden a Teófilo, «para que conozcas bien la verdad de las cosas» en las que había sido instruido (Lucas 1:1-4). En la lectura de hoy, Pablo le pide a Timoteo que le lleve el capote que dejó en Troas, los libros y «mayormente los pergaminos» (2 Timoteo 4:9-13). Dos textos que, sin proponérselo, muestran un mundo donde se escribía, se guardaba y se copiaba.",
+          "fuentes": [
+            "biblia"
+          ]
+        },
+        {
+          "texto": "Geisler y Turek recuerdan que el Nuevo Testamento no es un solo escrito sino veintisiete, redactados por nueve autores a lo largo de entre veinte y cincuenta años, según ellos, de modo que no funciona como el «juego del teléfono». Admiten el problema: no se ha encontrado ningún original, solo copias llamadas manuscritos. Pero responden que toda la literatura importante del mundo antiguo se reconstruye comparando los manuscritos que sobreviven, y que cuantos más haya y más cercanos al original, más segura es la reconstrucción.",
+          "fuentes": [
+            "no_tengo_suficiente__geisler#214"
+          ]
+        },
+        {
+          "texto": "Lee Strobel le plantea la pregunta a Bruce Metzger, profesor de Princeton. Metzger responde que no es un problema exclusivo de la Biblia, y que el Nuevo Testamento tiene a su favor la cantidad de copias que sobrevivieron y la poca distancia entre el original y las copias más tempranas.",
+          "fuentes": [
+            "el_caso_de__strobel#37"
+          ]
+        }
       ],
-      "destacado": {"texto": "La pregunta no es si tenemos el original, que no, sino cuántos testigos tenemos y qué tan cerca están.", "fuentes": ["no_tengo_suficiente__geisler#214", "el_caso_de__strobel#37"]}
+      "destacado": {
+        "texto": "La pregunta no es si tenemos el original, que no, sino cuántos testigos tenemos y qué tan cerca están.",
+        "fuentes": [
+          "no_tengo_suficiente__geisler#214",
+          "el_caso_de__strobel#37"
+        ]
+      }
     },
     {
       "titulo": "Los papiros: las copias más antiguas",
       "parrafos": [
-        {"texto": "Los primeros manuscritos están en papiro, un material hecho con una planta de los pantanos del delta del Nilo, según Metzger. Los papiros griegos, explica J. Alberto Paredes en la Coalición por el Evangelio, se escribían con mayúsculas, sin espacios ni puntuación (en latín, scriptio continua), un estilo que cambió alrededor del siglo VIII con la minúscula y la separación de palabras.", "fuentes": ["el_caso_de__strobel#38", "web_cpe_papiros#1"]},
-        {"texto": "Metzger describe los grupos más importantes. Los papiros Chester Beatty, descubiertos hacia 1930, incluyen uno con porciones de los cuatro Evangelios y de Hechos (siglo III), otro con grandes porciones de ocho cartas de Pablo y de Hebreos (hacia el año 200) y otro con buena parte de Apocalipsis (siglo III). Entre los papiros comprados por el bibliófilo suizo Martin Bodmer hay uno de hacia el año 200 con cerca de dos tercios del Evangelio de Juan.", "fuentes": ["el_caso_de__strobel#38"]},
-        {"texto": "Daniel Wallace, entrevistado por Strobel, usa la numeración de los papiros. Según él, el P66 es de mediados o fines del siglo II y tiene casi todo Juan; el P46, de hacia el año 200, tiene siete cartas de Pablo y Hebreos; el P75, de fines del siglo II o comienzos del III, tiene Juan y Lucas casi completos; y el P45 tiene grandes porciones de los cuatro Evangelios. Los papiros, todos juntos, contienen más o menos la mitad del Nuevo Testamento.", "fuentes": ["en_defensa_de__strobel#99"]},
-        {"texto": "Con la cantidad de papiros, las fuentes dan cifras distintas y sin fecha precisa. Metzger habla de noventa y nueve fragmentos de papiro con pasajes del Nuevo Testamento. Wallace dice que de unos 75.000 papiros hallados solo 117 son del Nuevo Testamento. Paredes cuenta por lo menos 124, que abarcan prácticamente los veintisiete libros. Lo que se ve es que el número crece con los descubrimientos y con la manera de contar.", "fuentes": ["el_caso_de__strobel#38", "en_defensa_de__strobel#98", "web_cpe_papiros#2"]}
+        {
+          "texto": "Los primeros manuscritos están en papiro, un material hecho con una planta de los pantanos del delta del Nilo, según Metzger. Los papiros griegos, explica J. Alberto Paredes en la Coalición por el Evangelio, se escribían con mayúsculas, sin espacios ni puntuación (en latín, scriptio continua), un estilo que cambió alrededor del siglo VIII con la minúscula y la separación de palabras.",
+          "fuentes": [
+            "el_caso_de__strobel#38",
+            "web_cpe_papiros#1"
+          ]
+        },
+        {
+          "texto": "Metzger describe los grupos más importantes. Los papiros Chester Beatty, descubiertos hacia 1930, incluyen uno con porciones de los cuatro Evangelios y de Hechos (siglo III), otro con grandes porciones de ocho cartas de Pablo y de Hebreos (hacia el año 200) y otro con buena parte de Apocalipsis (siglo III). Entre los papiros comprados por el bibliófilo suizo Martin Bodmer hay uno de hacia el año 200 con cerca de dos tercios del Evangelio de Juan.",
+          "fuentes": [
+            "el_caso_de__strobel#38"
+          ]
+        },
+        {
+          "texto": "Daniel Wallace, entrevistado por Strobel, usa la numeración de los papiros. Según él, el P66 es de mediados o fines del siglo II y tiene casi todo Juan; el P46, de hacia el año 200, tiene siete cartas de Pablo y Hebreos; el P75, de fines del siglo II o comienzos del III, tiene Juan y Lucas casi completos; y el P45 tiene grandes porciones de los cuatro Evangelios. Los papiros, todos juntos, contienen más o menos la mitad del Nuevo Testamento.",
+          "fuentes": [
+            "en_defensa_de__strobel#99"
+          ]
+        },
+        {
+          "texto": "Con la cantidad de papiros, las fuentes dan cifras distintas y sin fecha precisa. Metzger habla de noventa y nueve fragmentos de papiro con pasajes del Nuevo Testamento. Wallace dice que de unos 75.000 papiros hallados solo 117 son del Nuevo Testamento. Paredes cuenta por lo menos 124, que abarcan prácticamente los veintisiete libros. Lo que se ve es que el número crece con los descubrimientos y con la manera de contar.",
+          "fuentes": [
+            "el_caso_de__strobel#38",
+            "en_defensa_de__strobel#98",
+            "web_cpe_papiros#2"
+          ]
+        }
       ]
     },
     {
       "titulo": "El P52: un fragmento pequeño con una historia grande",
       "parrafos": [
-        {"texto": "La porción más antigua del Nuevo Testamento que citan estas fuentes es un fragmento de papiro de Juan, el P52. Según Metzger, tiene cinco versículos del capítulo 18, fue comprado en Egipto en 1920 y pasó inadvertido hasta que C. H. Roberts lo reconoció en 1934 en la Biblioteca John Rylands, en Manchester. Su fecha se calculó por el estilo de la letra: entre los años 100 y 150. Wallace precisa que tiene Juan 18:31-33 de un lado y Juan 18:37-38 del otro, y que tres papirólogos consultados por Roberts dijeron que no debía fecharse después del 150, quizás del 100; un cuarto lo ubicaba entre el 90 y el 100.", "fuentes": ["el_caso_de__strobel#38", "en_defensa_de__strobel#98"]},
-        {"texto": "¿Por qué importó tanto? Wallace recuerda que en 1844 F. C. Baur sostenía que Juan debía fecharse después del año 160, y presenta el hallazgo como una refutación de esa posición. Strobel subraya además la distancia: el fragmento llegó a una comunidad a orillas del Nilo, lejos de Éfeso, donde probablemente se compuso el Evangelio. Geisler y Turek concluyen igual: Juan ya se había copiado y extendido a cierta distancia a principios del siglo II.", "fuentes": ["en_defensa_de__strobel#98", "el_caso_de__strobel#39", "no_tengo_suficiente__geisler#215"]},
-        {"texto": "El Centro para el Estudio de los Manuscritos del Nuevo Testamento (CSNTM) agrega un detalle de uso. El fragmento, del tamaño de una tarjeta de crédito, tiene dos puntos sobre ciertas vocales y espacios mayores, marcas que probablemente ayudaban a leer en voz alta ante la comunidad. Eso encaja con Justino, que a mediados del siglo II describe un culto dominical donde se leían las memorias de los apóstoles, es decir, los Evangelios, o los escritos de los profetas.", "fuentes": ["web_csntm_manuscritos_canon#1", "web_csntm_manuscritos_canon#2"]}
+        {
+          "texto": "La porción más antigua del Nuevo Testamento que citan estas fuentes es un fragmento de papiro de Juan, el P52. Según Metzger, tiene cinco versículos del capítulo 18, fue comprado en Egipto en 1920 y pasó inadvertido hasta que C. H. Roberts lo reconoció en 1934 en la Biblioteca John Rylands, en Manchester. Su fecha se calculó por el estilo de la letra: entre los años 100 y 150. Wallace precisa que tiene Juan 18:31-33 de un lado y Juan 18:37-38 del otro, y que tres papirólogos consultados por Roberts dijeron que no debía fecharse después del 150, quizás del 100; un cuarto lo ubicaba entre el 90 y el 100.",
+          "fuentes": [
+            "el_caso_de__strobel#38",
+            "en_defensa_de__strobel#98"
+          ]
+        },
+        {
+          "texto": "¿Por qué importó tanto? Wallace recuerda que en 1844 F. C. Baur sostenía que Juan debía fecharse después del año 160, y presenta el hallazgo como una refutación. Strobel subraya la distancia: el fragmento llegó a una comunidad a orillas del Nilo, lejos de Éfeso, donde probablemente se compuso el Evangelio. Geisler y Turek concluyen que Juan ya se había copiado y extendido a cierta distancia a principios del siglo II.",
+          "fuentes": [
+            "en_defensa_de__strobel#98",
+            "el_caso_de__strobel#39",
+            "no_tengo_suficiente__geisler#215"
+          ]
+        },
+        {
+          "texto": "El Centro para el Estudio de los Manuscritos del Nuevo Testamento (CSNTM) agrega un detalle de uso. El fragmento, del tamaño de una tarjeta de crédito, tiene dos puntos sobre ciertas vocales y espacios mayores, marcas que probablemente ayudaban a leer en voz alta ante la comunidad. Eso encaja con Justino, que a mediados del siglo II describe un culto dominical donde se leían las memorias de los apóstoles, es decir, los Evangelios, o los escritos de los profetas.",
+          "fuentes": [
+            "web_csntm_manuscritos_canon#1",
+            "web_csntm_manuscritos_canon#2"
+          ]
+        }
       ],
-      "destacado": {"texto": "Un fragmento de cinco versículos no prueba por sí solo todo el Evangelio, pero muestra que Juan ya se copiaba, se leía y viajaba en el siglo II.", "fuentes": ["no_tengo_suficiente__geisler#215", "web_csntm_manuscritos_canon#2"]}
+      "destacado": {
+        "texto": "Un fragmento de cinco versículos no prueba por sí solo todo el Evangelio, pero muestra que Juan ya se copiaba, se leía y viajaba en el siglo II.",
+        "fuentes": [
+          "no_tengo_suficiente__geisler#215",
+          "web_csntm_manuscritos_canon#2"
+        ]
+      }
     },
     {
       "titulo": "Pergaminos: unciales, minúsculos y leccionarios",
       "parrafos": [
-        {"texto": "Junto a los papiros hay copias en pergamino, hecho de cuero de vaca, oveja, cabra o antílope. Los unciales se escriben con letras griegas mayúsculas; los principales, dice Metzger, son el Códice Sinaítico, el único Nuevo Testamento completo en unciales, y el Vaticano, menos completo, ambos de hacia el año 350. Geisler y Turek fechan el Vaticano en unos 325 y lo describen como un manuscrito de todo el Nuevo Testamento junto con el Antiguo Testamento griego: otro caso donde las fechas varían de autor a autor.", "fuentes": ["el_caso_de__strobel#39", "no_tengo_suficiente__geisler#217"]},
-        {"texto": "Hacia el año 800, según Metzger, surgió un estilo de escritura más cursivo, la minúscula. Los leccionarios reúnen las lecturas en el orden en que se leían en las iglesias durante el año. El CSNTM explica que los manuscritos griegos se ordenan con el sistema Gregory-Aland: una P antes del número para los papiros, un cero para los unciales, un número solo para los minúsculos y una L para los leccionarios, agrupados por su función y no por su letra. Hoy ese sistema registra más de 5.700 manuscritos griegos.", "fuentes": ["el_caso_de__strobel#39", "web_csntm_numeros_ga#2", "web_csntm_numeros_ga#3"]},
-        {"texto": "Los códices también hablan del canon. Según el CSNTM, el Sinaítico (siglo IV) trae después de Apocalipsis el Pastor de Hermas y la Epístola de Bernabé, y el Alejandrino (siglo V) trae 1 y 2 Clemente. Además, el P46, de los siglos II o III, coloca Hebreos entre Romanos y 1 Corintios, reflejo de la creencia de que Pablo la había escrito. Para el CSNTM hubo un núcleo claro desde temprano, y los bordes tardaron más en definirse.", "fuentes": ["web_csntm_manuscritos_canon#1", "web_csntm_manuscritos_canon#2"]}
+        {
+          "texto": "Junto a los papiros hay copias en pergamino, hecho de cuero de vaca, oveja, cabra o antílope. Los unciales se escriben con letras griegas mayúsculas; los principales, dice Metzger, son el Códice Sinaítico, el único Nuevo Testamento completo en unciales, y el Vaticano, menos completo, ambos de hacia el año 350. Geisler y Turek fechan el Vaticano en unos 325 y lo describen como un manuscrito de todo el Nuevo Testamento junto con el Antiguo Testamento griego: otro caso donde las fechas varían de autor a autor.",
+          "fuentes": [
+            "el_caso_de__strobel#39",
+            "no_tengo_suficiente__geisler#217"
+          ]
+        },
+        {
+          "texto": "Hacia el año 800, según Metzger, surgió un estilo de escritura más cursivo, la minúscula. Los leccionarios reúnen las lecturas en el orden en que se leían en las iglesias durante el año. El CSNTM explica que los manuscritos griegos se ordenan con el sistema Gregory-Aland: una P antes del número para los papiros, un cero para los unciales, un número solo para los minúsculos y una L para los leccionarios, agrupados por su función y no por su letra. Hoy ese sistema registra más de 5.700 manuscritos griegos.",
+          "fuentes": [
+            "el_caso_de__strobel#39",
+            "web_csntm_numeros_ga#2",
+            "web_csntm_numeros_ga#3"
+          ]
+        },
+        {
+          "texto": "Los códices también hablan del canon. Según el CSNTM, el Sinaítico (siglo IV) trae después de Apocalipsis el Pastor de Hermas y la Epístola de Bernabé, y el Alejandrino (siglo V) trae 1 y 2 Clemente. Además, el P46, de los siglos II o III, coloca Hebreos entre Romanos y 1 Corintios, reflejo de la creencia de que Pablo la había escrito.",
+          "fuentes": [
+            "web_csntm_manuscritos_canon#1",
+            "web_csntm_manuscritos_canon#2"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cuántos son y cómo se comparan con otras obras",
       "parrafos": [
-        {"texto": "Metzger suma así los griegos: trescientos seis unciales, dos mil ochocientos cincuenta y seis minúsculos y dos mil cuatrocientos tres leccionarios, para un total de cinco mil seiscientos sesenta y cuatro; con las traducciones calcula unos veinticuatro mil manuscritos. Wallace habla de más de 5.700 en griego, unos 10.000 en latín y entre 25.000 y 30.000 en conjunto. Geisler y Turek, casi 5.700 en griego y más de 9.000 en otros idiomas. Las cifras no coinciden del todo, y Wallace muestra por qué: cuando empezó sus estudios había unos 4.800 griegos; ya antes de la entrevista con la Coalición por el Evangelio dijo que pasaban de 5.800. Conviene retener el orden de magnitud y no una cifra única.", "fuentes": ["el_caso_de__strobel#39", "en_defensa_de__strobel#96", "no_tengo_suficiente__geisler#215", "web_tgc_wallace_manuscritos#1"]},
-        {"texto": "Wallace también dice qué no indican esos números: la mayoría de los manuscritos es del segundo milenio, solo unos sesenta griegos contienen todo el Nuevo Testamento y un fragmento de un versículo ya cuenta como manuscrito. Alrededor del diez por ciento viene del primer milenio, con casi cincuenta griegos de los tres primeros siglos.", "fuentes": ["web_tgc_wallace_manuscritos#1", "en_defensa_de__strobel#96", "en_defensa_de__strobel#97"]},
-        {"texto": "Para comparar, Metzger recorre otras obras. De los Anales de Tácito, los seis primeros libros están en un solo manuscrito y los libros once al dieciséis en otro del siglo XI; de La guerra judía de Josefo hay nueve manuscritos griegos de los siglos X al XII; de la Ilíada, menos de seiscientos cincuenta. Geisler y Turek dan seiscientos cuarenta y tres para la Ilíada y dicen que la mayoría de las obras antiguas sobrevive en menos de una docena. Wallace suma Ilíada y Odisea y llega a menos de 2.400 copias, mientras que el autor griego promedio tiene menos de veinte. La diferencia entre los números de Homero se explica por si se cuenta una obra o dos.", "fuentes": ["el_caso_de__strobel#37", "el_caso_de__strobel#38", "no_tengo_suficiente__geisler#215", "en_defensa_de__strobel#97", "en_defensa_de__strobel#98"]},
-        {"texto": "También cambia la brecha de tiempo. Según Wallace, del autor griego típico sobreviven copias de entre quinientos y mil años después; del Nuevo Testamento, apenas décadas. Geisler y Turek ven la misma ventaja con otras cifras. El punto en común es que ninguna obra clásica tiene tantos testigos tan cercanos al original.", "fuentes": ["en_defensa_de__strobel#97", "web_tgc_wallace_manuscritos#2", "no_tengo_suficiente__geisler#217"]}
+        {
+          "texto": "Metzger suma así los griegos: trescientos seis unciales, dos mil ochocientos cincuenta y seis minúsculos y dos mil cuatrocientos tres leccionarios, para un total de cinco mil seiscientos sesenta y cuatro; con las traducciones calcula unos veinticuatro mil manuscritos. Wallace habla de más de 5.700 en griego y entre 25.000 y 30.000 en conjunto; Geisler y Turek, casi 5.700 en griego y más de 9.000 en otros idiomas. Las cifras no coinciden del todo, y Wallace muestra por qué: cuando empezó sus estudios había unos 4.800 griegos, y en su entrevista con The Gospel Coalition dice que pasan de 5.800. Conviene retener el orden de magnitud y no una cifra única.",
+          "fuentes": [
+            "el_caso_de__strobel#39",
+            "en_defensa_de__strobel#96",
+            "no_tengo_suficiente__geisler#215",
+            "web_tgc_wallace_manuscritos#1"
+          ]
+        },
+        {
+          "texto": "Wallace aclara qué no indican esos números: la mayoría de los manuscritos es del segundo milenio, solo unos sesenta griegos contienen todo el Nuevo Testamento y un fragmento de un versículo ya cuenta como manuscrito. Alrededor del diez por ciento viene del primer milenio, con casi cincuenta griegos de los tres primeros siglos.",
+          "fuentes": [
+            "web_tgc_wallace_manuscritos#1",
+            "en_defensa_de__strobel#96",
+            "en_defensa_de__strobel#97"
+          ]
+        },
+        {
+          "texto": "Para comparar, Metzger recorre otras obras. De los Anales de Tácito, los seis primeros libros están en un solo manuscrito y los libros once al dieciséis en otro del siglo XI; de La guerra judía de Josefo hay nueve manuscritos griegos de los siglos X al XII; de la Ilíada, menos de seiscientos cincuenta. Geisler y Turek dan seiscientos cuarenta y tres para la Ilíada. Wallace suma Ilíada y Odisea y llega a menos de 2.400 copias, mientras que el autor griego promedio tiene menos de veinte; la diferencia en Homero se explica por si se cuenta una obra o dos. Según Wallace, del autor típico sobreviven copias de entre quinientos y mil años después; del Nuevo Testamento, apenas décadas.",
+          "fuentes": [
+            "el_caso_de__strobel#37",
+            "el_caso_de__strobel#38",
+            "no_tengo_suficiente__geisler#215",
+            "en_defensa_de__strobel#97",
+            "en_defensa_de__strobel#98",
+            "web_tgc_wallace_manuscritos#2"
+          ]
+        }
       ]
     },
     {
       "titulo": "Versiones antiguas y citas de los Padres",
       "parrafos": [
-        {"texto": "Los manuscritos griegos no son los únicos testigos. Según Metzger, el Nuevo Testamento se tradujo muy pronto al latín, al siríaco y al copto, y algo más tarde al armenio, al gótico, al georgiano y al etiópico. Con esas versiones, en su opinión, se podría reconstruir el contenido aunque faltaran los griegos. Y aunque faltaran también las versiones, bastarían las citas en comentarios, sermones y cartas de los primeros Padres de la Iglesia.", "fuentes": ["el_caso_de__strobel#37"]},
-        {"texto": "Geisler y Turek ponen una cifra: Justino, Ireneo, Clemente de Alejandría, Orígenes, Tertuliano y otros, de los siglos II y III, citaron el Nuevo Testamento 36.289 veces, tanto que todos los versículos menos once podrían reconstruirse solo con ellos. Wallace habla de más de un millón de citas tabuladas, desde el siglo I hasta la Edad Media. Los números difieren porque los primeros miran los dos primeros siglos de los Padres y el segundo, el conjunto.", "fuentes": ["no_tengo_suficiente__geisler#217", "no_tengo_suficiente__geisler#218", "web_tgc_wallace_manuscritos#1"]}
+        {
+          "texto": "Los manuscritos griegos no son los únicos testigos. Según Metzger, el Nuevo Testamento se tradujo muy pronto al latín, al siríaco y al copto, y algo más tarde al armenio, al gótico, al georgiano y al etiópico. Con esas versiones, en su opinión, se podría reconstruir el contenido aunque faltaran los griegos. Y aunque faltaran también las versiones, bastarían las citas en comentarios, sermones y cartas de los primeros Padres de la Iglesia.",
+          "fuentes": [
+            "el_caso_de__strobel#37"
+          ]
+        },
+        {
+          "texto": "Geisler y Turek ponen una cifra: Justino, Ireneo, Clemente de Alejandría, Orígenes, Tertuliano y otros, de los siglos II y III, citaron el Nuevo Testamento 36.289 veces, tanto que todos los versículos menos once podrían reconstruirse solo con ellos. Wallace habla de más de un millón de citas tabuladas, desde el siglo I hasta la Edad Media. Los números difieren porque los primeros miran los dos primeros siglos de los Padres y el segundo, el conjunto.",
+          "fuentes": [
+            "no_tengo_suficiente__geisler#217",
+            "no_tengo_suficiente__geisler#218",
+            "web_tgc_wallace_manuscritos#1"
+          ]
+        }
       ]
     },
     {
       "titulo": "Las variantes: cuánto cambia el texto y qué no podemos concluir",
       "parrafos": [
-        {"texto": "Como los escribas copiaban a mano, los errores eran inevitables. Metzger menciona la vista cansada, los manuscritos borrosos y la distracción, y explica que cambiar el orden de las palabras casi no altera el sentido en griego. Sobre el famoso número de variantes (cálculos de hasta doscientos mil), dice que es engañoso: si una palabra se escribe mal en dos mil manuscritos, se cuenta como dos mil variantes. Preguntado por las doctrinas en peligro, responde que no sabe de ninguna. Su ejemplo es 1 Juan 5:7-8: las palabras sobre el Padre, el Verbo y el Espíritu Santo están, dice, solo en siete u ocho copias de los siglos XV o XVI, y no forman parte de lo que el autor fue inspirado a escribir; pero la Trinidad se enseña en muchos otros pasajes, como el bautismo de Jesús o 2 Corintios 13:14.", "fuentes": ["el_caso_de__strobel#40", "biblia"]},
-        {"texto": "Wallace explica que cuenta como variante cualquier palabra distinta en un manuscrito o Padre. Calcula entre doscientas mil y cuatrocientas mil, más que las 138.162 palabras del Nuevo Testamento griego publicado. Entre el 70 y el 80 por ciento son diferencias de ortografía sin efecto en el sentido; otras son sinónimos u orden de palabras. Solo cerca del uno por ciento son significativas y viables a la vez, y aun así, dice, no se juega ninguna creencia cardinal. Un ejemplo de variante significativa pero inviable es Lucas 6:22, que un solo manuscrito tardío (el 2882) lee sin la frase «por causa del Hijo del Hombre».", "fuentes": ["en_defensa_de__strobel#99", "en_defensa_de__strobel#100", "en_defensa_de__strobel#101", "web_tgc_wallace_manuscritos#3"]},
-        {"texto": "Geisler y Turek recogen estimaciones históricas: Westcott y Hort calcularon que solo una de cada sesenta variantes importa, lo que dejaría un texto 98.33 por ciento puro; Philip Schaff estimó que, de unas 150.000 variantes de su época, solo 400 cambiaban el sentido. Citan a Metzger, que valoró el Nuevo Testamento en cerca de 99.5 por ciento de exactitud, frente a 95 para la Ilíada y 90 para el Mahabharata. Son estimaciones de autores, no un conteo único aceptado por todos.", "fuentes": ["no_tengo_suficiente__geisler#219"]},
-        {"texto": "Hay que distinguir dos preguntas. Geisler y Turek lo dicen claro: no alcanza con tener una copia precisa de los originales, porque esos documentos podrían estar diciendo mentiras; hay que preguntarse también si lo que describen sucedió realmente. Los manuscritos responden la primera. Y Paredes añade que solo el Espíritu Santo tiene poder para convencernos de la veracidad de la Escritura.", "fuentes": ["no_tengo_suficiente__geisler#214", "web_cpe_papiros#4"]}
+        {
+          "texto": "Como los escribas copiaban a mano, los errores eran inevitables. Metzger menciona la vista cansada, los manuscritos borrosos y la distracción, y explica que cambiar el orden de las palabras casi no altera el sentido en griego. Sobre el famoso número de variantes (cálculos de hasta doscientos mil), dice que es engañoso: si una palabra se escribe mal en dos mil manuscritos, se cuenta como dos mil variantes. Preguntado por las doctrinas en peligro, responde que no sabe de ninguna. Su ejemplo es 1 Juan 5:7-8: las palabras sobre el Padre, el Verbo y el Espíritu Santo están, dice, solo en siete u ocho copias de los siglos XV o XVI, y no forman parte de lo que el autor fue inspirado a escribir; pero la Trinidad se enseña en muchos otros pasajes, como el bautismo de Jesús o 2 Corintios 13:14.",
+          "fuentes": [
+            "el_caso_de__strobel#40",
+            "biblia"
+          ]
+        },
+        {
+          "texto": "Wallace explica que cuenta como variante cualquier palabra distinta en un manuscrito o Padre. Calcula entre doscientas mil y cuatrocientas mil, más que las 138.162 palabras del Nuevo Testamento griego publicado. Entre el 70 y el 80 por ciento son diferencias de ortografía sin efecto en el sentido; otras son sinónimos u orden de palabras. Solo cerca del uno por ciento son significativas y viables a la vez, y aun así, dice, no se juega ninguna creencia cardinal. Un ejemplo de variante significativa pero inviable es Lucas 6:22, que un solo manuscrito tardío (el 2882) lee sin la frase «por causa del Hijo del Hombre».",
+          "fuentes": [
+            "en_defensa_de__strobel#99",
+            "en_defensa_de__strobel#100",
+            "en_defensa_de__strobel#101",
+            "web_tgc_wallace_manuscritos#3"
+          ]
+        },
+        {
+          "texto": "Geisler y Turek recogen estimaciones históricas: Westcott y Hort calcularon que solo una de cada sesenta variantes importa, lo que dejaría un texto 98.33 por ciento puro; Philip Schaff estimó que, de unas 150.000 variantes de su época, solo 400 cambiaban el sentido. Metzger, dicen, valoró el Nuevo Testamento en cerca de 99.5 por ciento de exactitud. Son estimaciones de autores, no un conteo aceptado por todos.",
+          "fuentes": [
+            "no_tengo_suficiente__geisler#219"
+          ]
+        },
+        {
+          "texto": "Hay que distinguir dos preguntas. Geisler y Turek lo dicen claro: no alcanza con tener una copia precisa de los originales, porque esos documentos podrían estar diciendo mentiras; hay que preguntarse también si lo que describen sucedió realmente. Los manuscritos responden la primera. Y Paredes añade que solo el Espíritu Santo tiene poder para convencernos de la veracidad de la Escritura.",
+          "fuentes": [
+            "no_tengo_suficiente__geisler#214",
+            "web_cpe_papiros#4"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "La cantidad y calidad de los manuscritos del Nuevo Testamento no tienen parangón en el mundo greco-romano de la Antigüedad.", "autor": "Daniel B. Wallace", "obra": "En defensa de Jesús (Lee Strobel)", "fuentes": ["en_defensa_de__strobel#97"]},
-    {"texto": "Más manuscritos y manuscritos anteriores generalmente proporcionan un testimonio más confiable y permiten una reconstrucción más precisa.", "autor": "Norman Geisler y Frank Turek", "obra": "No tengo suficiente fe para ser un ateo", "fuentes": ["no_tengo_suficiente__geisler#214"]}
+    {
+      "texto": "La cantidad y calidad de los manuscritos del Nuevo Testamento no tienen parangón en el mundo greco-romano de la Antigüedad.",
+      "autor": "Daniel B. Wallace",
+      "obra": "En defensa de Jesús (Lee Strobel)",
+      "fuentes": [
+        "en_defensa_de__strobel#97"
+      ]
+    },
+    {
+      "texto": "Más manuscritos y manuscritos anteriores generalmente proporcionan un testimonio más confiable y permiten una reconstrucción más precisa.",
+      "autor": "Norman Geisler y Frank Turek",
+      "obra": "No tengo suficiente fe para ser un ateo",
+      "fuentes": [
+        "no_tengo_suficiente__geisler#214"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "scriptio continua", "translit": "scriptio continua", "idioma": "latín", "ref": "", "significado": "Escritura continua, sin espacios entre las palabras ni puntuación. Paredes la describe como el estilo de los papiros griegos, que cambió alrededor del siglo VIII.", "fuentes": ["web_cpe_papiros#1"]},
-    {"original": "nomina sacra", "translit": "nomina sacra", "idioma": "latín", "ref": "", "significado": "Abreviaturas sagradas. Paredes las menciona, junto con el códice (hojas escritas de ambos lados), como rasgos distintivamente cristianos de los manuscritos primitivos.", "fuentes": ["web_cpe_papiros#3"]}
+    {
+      "original": "scriptio continua",
+      "translit": "scriptio continua",
+      "idioma": "latín",
+      "ref": "",
+      "significado": "Escritura continua, sin espacios entre las palabras ni puntuación. Paredes la describe como el estilo de los papiros griegos, que cambió alrededor del siglo VIII.",
+      "fuentes": [
+        "web_cpe_papiros#1"
+      ]
+    },
+    {
+      "original": "nomina sacra",
+      "translit": "nomina sacra",
+      "idioma": "latín",
+      "ref": "",
+      "significado": "Abreviaturas sagradas. Paredes las menciona, junto con el códice (hojas escritas de ambos lados), como rasgos distintivamente cristianos de los manuscritos primitivos.",
+      "fuentes": [
+        "web_cpe_papiros#3"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Un Jesús testimoniado por escrito. Lucas dice que escribió con orden, después de investigarlo todo, para que Teófilo conociera bien la verdad (Lucas 1:1-4): lo que establece el propio texto es que la vida de Jesús se transmitió con investigación y por escrito. El manuscrito más antiguo de las fuentes de hoy es un fragmento de Juan 18, del pasaje en que Jesús está ante Pilato; es un dato del contenido de ese papiro, no un símbolo que las fuentes establezcan.", "refs": ["Lc 1:1-4", "Jn 18:31-38"], "fuentes": ["biblia", "el_caso_de__strobel#38"]},
-    {"texto": "Los Evangelios leídos en la iglesia. Justino, citado por el CSNTM, describe a mediados del siglo II un culto en el que se leen las memorias de los apóstoles, es decir, los Evangelios, junto con los profetas: la comunidad lee a Cristo y también lo que lo anuncia en el Antiguo Testamento.", "refs": ["Lc 1:3-4"], "fuentes": ["web_csntm_manuscritos_canon#1"]}
+    {
+      "texto": "Un Jesús testimoniado por escrito. Lucas dice que escribió con orden, después de investigarlo todo, para que Teófilo conociera bien la verdad (Lucas 1:1-4): lo que establece el propio texto es que la vida de Jesús se transmitió con investigación y por escrito. El manuscrito más antiguo de las fuentes de hoy es un fragmento de Juan 18, del pasaje en que Jesús está ante Pilato; es un dato del contenido de ese papiro, no un símbolo que las fuentes establezcan.",
+      "refs": [
+        "Lc 1:1-4",
+        "Jn 18:31-38"
+      ],
+      "fuentes": [
+        "biblia",
+        "el_caso_de__strobel#38"
+      ]
+    },
+    {
+      "texto": "Los Evangelios leídos en la iglesia. Justino, citado por el CSNTM, describe a mediados del siglo II un culto en el que se leen las memorias de los apóstoles, es decir, los Evangelios, junto con los profetas.",
+      "refs": [
+        "Lc 1:3-4"
+      ],
+      "fuentes": [
+        "web_csntm_manuscritos_canon#1"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿De cuándo es el P52?",
       "posturas": [
-        {"postura": "Entre los años 100 y 150; Metzger cita a Roberts y a otros paleógrafos que coinciden, y dice que Deissmann lo llevaba al reinado de Adriano o incluso al de Trajano.", "quien": "Metzger (en El caso de Cristo)", "fuentes": ["el_caso_de__strobel#38"]},
-        {"postura": "Entre 117 y 138, aunque algunos eruditos dicen que es aún más temprano.", "quien": "Geisler y Turek", "fuentes": ["no_tengo_suficiente__geisler#215"]},
-        {"postura": "No más tarde del 150 y quizás del 100, según tres papirólogos; un cuarto lo pone entre el 90 y el 100.", "quien": "Wallace (en En defensa de Jesús)", "fuentes": ["en_defensa_de__strobel#98"]},
-        {"postura": "Más o menos entre los años 125 y 175.", "quien": "Paredes (Coalición por el Evangelio)", "fuentes": ["web_cpe_papiros#5"]},
-        {"postura": "En algún punto entre los siglos II y III, sin precisar más.", "quien": "Russell (CSNTM)", "fuentes": ["web_csntm_manuscritos_canon#2"]}
+        {
+          "postura": "Entre los años 100 y 150; Metzger cita a Roberts y a otros paleógrafos que coinciden, y dice que Deissmann lo llevaba al reinado de Adriano o incluso al de Trajano.",
+          "quien": "Metzger (en El caso de Cristo)",
+          "fuentes": [
+            "el_caso_de__strobel#38"
+          ]
+        },
+        {
+          "postura": "Entre 117 y 138, aunque algunos eruditos dicen que es aún más temprano.",
+          "quien": "Geisler y Turek",
+          "fuentes": [
+            "no_tengo_suficiente__geisler#215"
+          ]
+        },
+        {
+          "postura": "No más tarde del 150 y quizás del 100, según tres papirólogos; un cuarto lo pone entre el 90 y el 100.",
+          "quien": "Wallace (en En defensa de Jesús)",
+          "fuentes": [
+            "en_defensa_de__strobel#98"
+          ]
+        },
+        {
+          "postura": "Más o menos entre los años 125 y 175.",
+          "quien": "Paredes (Coalición por el Evangelio)",
+          "fuentes": [
+            "web_cpe_papiros#5"
+          ]
+        },
+        {
+          "postura": "En algún punto entre los siglos II y III, sin precisar más.",
+          "quien": "Russell (CSNTM)",
+          "fuentes": [
+            "web_csntm_manuscritos_canon#2"
+          ]
+        }
       ],
       "nota": "Paredes explica que las fechas se calculan sobre todo por el análisis de la escritura (paleografía). Los autores difieren en el margen, no en que sea un fragmento muy temprano."
     },
     {
       "tema": "¿Qué significa que algunos códices incluyan libros fuera del canon?",
       "posturas": [
-        {"postura": "Sinaítico y Alejandrino ponen después de Apocalipsis esos escritos. Según Russell, algunos eruditos piensan que los códices los consideraban de igual rango que el resto del Nuevo Testamento; otros, que no.", "quien": "Presentada por Russell (CSNTM)", "fuentes": ["web_csntm_manuscritos_canon#2"]}
+        {
+          "postura": "Sinaítico y Alejandrino ponen después de Apocalipsis esos escritos. Según Russell, algunos eruditos piensan que los códices los consideraban de igual rango que el resto del Nuevo Testamento; otros, que no.",
+          "quien": "Presentada por Russell (CSNTM)",
+          "fuentes": [
+            "web_csntm_manuscritos_canon#2"
+          ]
+        }
       ],
       "nota": "La fuente describe el desacuerdo sin dar las razones de cada lado. La formación del canon se estudia con más detalle en los días dedicados a ese tema."
     },
     {
       "tema": "¿Alteraron los copistas ortodoxos el mensaje esencial del texto?",
       "posturas": [
-        {"postura": "Los escribas ortodoxos sí cambiaron el texto en miles de lugares, sobre todo para armonizar los Evangelios entre sí, pero eso no modifica afirmaciones esenciales; desde Bengel, dice, los eruditos hablan de ortodoxia de las variantes.", "quien": "Wallace", "fuentes": ["web_tgc_wallace_manuscritos#3", "web_tgc_wallace_manuscritos#4"]},
-        {"postura": "Según Wallace, Bart Ehrman sostiene que los escribas ortodoxos tocaron el texto en cientos de lugares y alteraron afirmaciones esenciales; Strobel recoge además su cálculo de entre 200.000 y 400.000 variantes, que alarmó a muchos lectores. Aquí solo aparece la tesis tal como la resumen Wallace y Strobel.", "quien": "Presentada por Wallace y Strobel", "fuentes": ["web_tgc_wallace_manuscritos#3", "en_defensa_de__strobel#99"]}
+        {
+          "postura": "Los escribas ortodoxos sí cambiaron el texto en miles de lugares, sobre todo para armonizar los Evangelios entre sí, pero eso no modifica afirmaciones esenciales; desde Bengel, dice, los eruditos hablan de ortodoxia de las variantes.",
+          "quien": "Wallace",
+          "fuentes": [
+            "web_tgc_wallace_manuscritos#3",
+            "web_tgc_wallace_manuscritos#4"
+          ]
+        },
+        {
+          "postura": "Según Wallace, Bart Ehrman sostiene que los escribas ortodoxos tocaron el texto en cientos de lugares y alteraron afirmaciones esenciales; Strobel recoge además su cálculo de entre 200.000 y 400.000 variantes, que alarmó a muchos lectores. Aquí solo aparece la tesis tal como la resumen Wallace y Strobel.",
+          "quien": "Presentada por Wallace y Strobel",
+          "fuentes": [
+            "web_tgc_wallace_manuscritos#3",
+            "en_defensa_de__strobel#99"
+          ]
+        }
       ],
-      "nota": "Solo se oye un lado y la descripción que hace del otro; los argumentos de Ehrman con sus propias palabras no forman parte de las fuentes de hoy."
+      "nota": "Solo se oye un lado y la descripción que hace del otro."
     }
   ],
   "conexiones": [
-    {"ref": "Lc 1:1-2", "nota": "Paredes lo relaciona con los papiros como señal de que las historias sobre Jesús eran puestas por escrito, copiadas y distribuidas.", "fuentes": ["web_cpe_papiros#3"]},
-    {"ref": "2 Ti 4:13", "nota": "El mismo artículo lo cita junto con Lucas como indicio de una cultura de escritura y copia en el siglo I.", "fuentes": ["web_cpe_papiros#3"]},
-    {"ref": "Jn 21:25", "nota": "Paredes lo usa para decir que es comprensible que no todos los milagros de Jesús hayan sido transmitidos uno por uno.", "fuentes": ["web_cpe_papiros#3"]},
-    {"ref": "Is 40:8", "nota": "Junto con el Salmo 119:89, Paredes lo cita para decir que la existencia de variantes muestra que la Palabra de Dios permanece firme.", "fuentes": ["web_cpe_papiros#2"]}
+    {
+      "ref": "Lc 1:1-2",
+      "nota": "Paredes lo relaciona con los papiros como señal de que las historias sobre Jesús eran puestas por escrito, copiadas y distribuidas.",
+      "fuentes": [
+        "web_cpe_papiros#3"
+      ]
+    },
+    {
+      "ref": "2 Ti 4:13",
+      "nota": "El mismo artículo lo cita junto con Lucas como indicio de una cultura de escritura y copia en el siglo I.",
+      "fuentes": [
+        "web_cpe_papiros#3"
+      ]
+    },
+    {
+      "ref": "Jn 21:25",
+      "nota": "Paredes lo usa para decir que es comprensible que no todos los milagros de Jesús hayan sido transmitidos uno por uno.",
+      "fuentes": [
+        "web_cpe_papiros#3"
+      ]
+    },
+    {
+      "ref": "Is 40:8",
+      "nota": "Junto con el Salmo 119:89, Paredes lo cita para decir que la existencia de variantes muestra que la Palabra de Dios permanece firme.",
+      "fuentes": [
+        "web_cpe_papiros#2"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Si alguien duda de la fiabilidad del Nuevo Testamento, respondé con datos y con humildad: nombrá la fuente de cada cifra y reconocé que los recuentos varían (Wallace pasó de unos 4.800 manuscritos griegos a más de 5.700 a lo largo de su carrera).", "fuentes": ["en_defensa_de__strobel#96"]},
-    {"texto": "Mirá las notas al pie de tu Biblia. Metzger señala que cualquier Biblia buena advierte al lector de las lecturas diferentes que tienen alguna consecuencia, y que son poco comunes.", "fuentes": ["el_caso_de__strobel#40"]},
-    {"texto": "Confiá en la Escritura por la razón correcta: los manuscritos sostienen el texto, pero, como dice Paredes, solo el Espíritu Santo convence de su verdad.", "fuentes": ["web_cpe_papiros#4"]}
+    {
+      "texto": "Si alguien duda de la fiabilidad del Nuevo Testamento, respondé con datos y con humildad: nombrá la fuente de cada cifra y reconocé que los recuentos varían (Wallace pasó de unos 4.800 manuscritos griegos a más de 5.700 a lo largo de su carrera).",
+      "fuentes": [
+        "en_defensa_de__strobel#96"
+      ]
+    },
+    {
+      "texto": "Mirá las notas al pie de tu Biblia. Metzger señala que cualquier Biblia buena advierte al lector de las lecturas diferentes que tienen alguna consecuencia, y que son poco comunes.",
+      "fuentes": [
+        "el_caso_de__strobel#40"
+      ]
+    },
+    {
+      "texto": "Confiá en la Escritura por la razón correcta: los manuscritos sostienen el texto, pero, como dice Paredes, solo el Espíritu Santo convence de su verdad.",
+      "fuentes": [
+        "web_cpe_papiros#4"
+      ]
+    }
   ],
   "para_reflexionar": [
     "Antes de hoy, ¿qué imagen tenías de cómo llegó la Biblia hasta vos? ¿Qué cambió después de ver la cantidad y la antigüedad de las copias?",
@@ -132,7 +435,23 @@
   ],
   "para_orar": "Señor, gracias porque tu Palabra llegó hasta mí por manos de testigos, escribas y copistas, y porque la preservaste. Ayudame a tratar con respeto las evidencias, con humildad frente a lo que no sé y con fe en que sos vos quien da luz a tu Palabra. Que no me conforme con saber que el texto es confiable, sino que lo obedezca. Amén.",
   "profundizar": [
-    {"titulo": "Los fragmentos de Qumrán y el fragmento de Marcos: hallazgos todavía discutidos", "texto": "Geisler y Turek mencionan nueve fragmentos disputados, hallados con los Rollos del Mar Muerto y fechados entre los años 50 y 70, que algunos eruditos (empezando por el paleógrafo José O'Callahan) identifican con seis libros del Nuevo Testamento, entre ellos Marcos. Otros se resisten a esa conclusión, y los autores dicen que no se ha propuesto otro texto que encaje. Wallace anunció en 2012 varios papiros del siglo II y un fragmento de Marcos que un paleógrafo había fechado en el siglo I, y pidió esperar la publicación académica. Estas fuentes no informan qué se concluyó después: son hipótesis abiertas, no datos firmes.", "fuentes": ["no_tengo_suficiente__geisler#215", "no_tengo_suficiente__geisler#216", "no_tengo_suficiente__geisler#217", "web_tgc_wallace_manuscritos#2"]},
-    {"titulo": "Papiros que no son Biblia: lo que cuentan Oxirrinco y Tomás", "texto": "Paredes distingue papiros bíblicos, no canónicos y no bíblicos. Cuenta que en el basural de la antigua Oxirrinco, excavado desde 1897, aparecieron cientos de papiros, entre ellos un fragmento de Mateo y una colección de dichos de Jesús que luego se identificó como el apócrifo Evangelio de Tomás. Concluye que esos textos no prueban que hubiera «muchos cristianismos», y que incluso los que enseñan cosas contrarias al Nuevo Testamento ayudan a entender la historia.", "fuentes": ["web_cpe_papiros#2", "web_cpe_papiros#3"]}
+    {
+      "titulo": "Los fragmentos de Qumrán y el fragmento de Marcos: hallazgos todavía discutidos",
+      "texto": "Geisler y Turek mencionan nueve fragmentos disputados, hallados con los Rollos del Mar Muerto y fechados entre los años 50 y 70, que algunos eruditos (empezando por el paleógrafo José O'Callahan) identifican con seis libros del Nuevo Testamento, entre ellos Marcos. Otros se resisten a esa conclusión, y los autores dicen que no se ha propuesto otro texto que encaje. Wallace anunció en 2012 varios papiros del siglo II y un fragmento de Marcos que un paleógrafo había fechado en el siglo I, y pidió esperar la publicación académica. Estas fuentes no informan qué se concluyó después: son hipótesis abiertas, no datos firmes.",
+      "fuentes": [
+        "no_tengo_suficiente__geisler#215",
+        "no_tengo_suficiente__geisler#216",
+        "no_tengo_suficiente__geisler#217",
+        "web_tgc_wallace_manuscritos#2"
+      ]
+    },
+    {
+      "titulo": "Papiros que no son Biblia: lo que cuentan Oxirrinco y Tomás",
+      "texto": "Paredes cuenta que en el basural de la antigua Oxirrinco, excavado desde 1897, aparecieron cientos de papiros, entre ellos un fragmento de Mateo y una colección de dichos de Jesús que luego se identificó como el apócrifo Evangelio de Tomás. Concluye que esos textos no prueban que hubiera «muchos cristianismos».",
+      "fuentes": [
+        "web_cpe_papiros#2",
+        "web_cpe_papiros#3"
+      ]
+    }
   ]
 }

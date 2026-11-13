@@ -2,126 +2,455 @@
   "dia": 14,
   "titulo": "Variantes y crítica textual: cuánto podemos confiar en el texto",
   "bajada": "Tu Biblia trae notas al pie que dicen «algunos manuscritos no incluyen…». ¿Es motivo de alarma? Hoy vemos de dónde vienen las variantes, cómo se decide entre ellas y qué dicen de la fidelidad de la Escritura.",
-  "minutos": {"lectura": 6, "estudio": 24},
-  "lectura": {"pasaje": "Marcos 16:1-8; Juan 7:53–8:11", "porque": "Son los dos pasajes donde casi toda Biblia pone una nota: leélos y mirá qué dice la tuya antes de seguir."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 24
+  },
+  "lectura": {
+    "pasaje": "Marcos 16:1-8; Juan 7:53–8:11",
+    "porque": "Son los dos pasajes donde casi toda Biblia pone una nota: leélos y mirá qué dice la tuya antes de seguir."
+  },
   "versiculos": [
-    {"ref": "Mateo 24:35", "porque": "Jesús afirma que sus palabras no pasarán, la base bíblica para confiar en que Dios cuida su Palabra."},
-    {"ref": "Salmo 12:6", "porque": "Las palabras de Dios se comparan con plata refinada: puras, sin escoria."}
+    {
+      "ref": "Mateo 24:35",
+      "porque": "Jesús afirma que sus palabras no pasarán, la base bíblica para confiar en que Dios cuida su Palabra."
+    },
+    {
+      "ref": "Salmo 12:6",
+      "porque": "Las palabras de Dios se comparan con plata refinada: puras, sin escoria."
+    }
   ],
   "entrada": {
-    "texto": "Abrí tu Biblia al final de Marcos o en Juan 8 y es probable que encuentres una nota que dice algo como «Algunos de los manuscritos más tempranos no incluyen los versículos 16:9-20». Para mucha gente esa nota es un sobresalto: si hay dudas sobre el texto, ¿en qué estamos parados? La Coalición por el Evangelio recuerda que esas notas existen hace siglos y que hay una disciplina, la crítica textual, cuyo trabajo es justamente saber dónde están las diferencias y cuánto pesan.\n\nEn este día vas a ver de dónde salen las variantes, cuáles importan, cómo se elige entre ellas, tres casos famosos, tres posturas entre evangélicos y qué tiene que ver todo esto con la inerrancia.",
-    "fuentes": ["web_cpe_marcos_16#1", "web_cpe_critica_textual#1"]
+    "texto": "Abrí tu Biblia al final de Marcos o en Juan 8 y es probable que encuentres una nota como «Algunos de los manuscritos más tempranos no incluyen los versículos 16:9-20». Para mucha gente es un sobresalto: si hay dudas sobre el texto, ¿en qué estamos parados? La Coalición por el Evangelio recuerda que esas notas existen hace siglos y que la crítica textual existe justamente para saber dónde están las diferencias y cuánto pesan.\n\nHoy vas a ver de dónde salen las variantes, cómo se elige entre ellas, tres casos famosos, tres posturas entre evangélicos y qué tiene que ver todo esto con la inerrancia.",
+    "fuentes": [
+      "web_cpe_marcos_16#1",
+      "web_cpe_critica_textual#1"
+    ]
   },
   "apartados": [
     {
       "titulo": "Por qué hay variantes: copias a mano y ningún original",
       "parrafos": [
-        {"texto": "En un artículo de la Coalición por el Evangelio, Matthew Leighton explica por qué hace falta la crítica textual con dos hechos. Primero: de los libros bíblicos no se conservó ni uno de los originales, solo copias. Segundo: no hay dos copias iguales. Esas diferencias se llaman variantes, y no sorprenden, porque la Biblia se copió a mano durante dieciséis siglos, hasta la imprenta. Su invitación es práctica: si copiás a mano un libro bíblico, tu copia no va a coincidir del todo con el original.", "fuentes": ["web_cpe_critica_textual#1"]},
-        {"texto": "MacArthur coincide: la transcripción manual, que dominó hasta cerca de 1450, introdujo errores inevitables, y eso explica desde cuestiones de vocabulario hasta algunos de los problemas textuales más conocidos, como Marcos 16:9-20 y Juan 7:53–8:11. Define la crítica textual como el análisis cuidadoso de los manuscritos antiguos para determinar cuáles son las copias más puras del original, y aclara que, aunque el método es científico, al escoger entre lecturas entra en juego el juicio humano.", "fuentes": ["macarthur_ts#166"]},
-        {"texto": "¿Por qué Dios no dejó los originales? MacArthur enumera causas naturales: los materiales no duran miles de años, y se suman el desgaste, la negligencia, el transporte, los desastres y la destrucción en las persecuciones. Agrega una posible razón divina: sin autógrafos no puede nacer una veneración fanática de los documentos en vez de del Dios que los inspiró, como pasó con la serpiente de bronce que Ezequías tuvo que destruir (2 Reyes 18:4). Geisler y Turek, que lo plantean como mera especulación, proponen algo parecido: con copias repartidas por el mundo antiguo, ningún escriba o sacerdote podía alterar la Palabra, de modo que no tener los originales puede protegerla mejor.", "fuentes": ["macarthur_ts#168", "no_tengo_suficiente__geisler#218", "no_tengo_suficiente__geisler#219"]}
+        {
+          "texto": "Matthew Leighton, en la Coalición por el Evangelio, explica la necesidad de la crítica textual con dos hechos: de los libros bíblicos no se conservó ni uno de los originales, y no hay dos copias iguales. Esas diferencias se llaman variantes y no sorprenden: la Biblia se copió a mano durante dieciséis siglos, hasta la imprenta. Si copiás a mano un libro bíblico, dice, tu copia no coincidirá del todo con el original.",
+          "fuentes": [
+            "web_cpe_critica_textual#1"
+          ]
+        },
+        {
+          "texto": "MacArthur coincide: la copia manual, dominante hasta cerca de 1450, introdujo errores inevitables, y eso explica desde cuestiones de vocabulario hasta problemas famosos como Marcos 16:9-20 y Juan 7:53–8:11. Define la crítica textual como el análisis cuidadoso de los manuscritos antiguos para determinar cuáles son las copias más puras del original, y aclara que, aunque el método es científico, al escoger entre lecturas interviene el juicio humano.",
+          "fuentes": [
+            "macarthur_ts#166"
+          ]
+        },
+        {
+          "texto": "¿Por qué Dios no dejó los originales? MacArthur menciona el desgaste de los materiales, la negligencia, los desastres y la destrucción en persecuciones, y una posible razón divina: sin autógrafos no hay veneración fanática de los documentos en lugar del Dios que los inspiró, como pasó con la serpiente de bronce (2 Reyes 18:4). Geisler y Turek, como simple especulación, agregan que con copias repartidas por el mundo antiguo nadie podía alterar la Palabra.",
+          "fuentes": [
+            "macarthur_ts#168",
+            "no_tengo_suficiente__geisler#218",
+            "no_tengo_suficiente__geisler#219"
+          ]
+        }
       ],
-      "destacado": {"texto": "Que las copias difieran no es un descubrimiento incómodo: es la razón de ser de la crítica textual.", "fuentes": ["web_cpe_critica_textual#1"]}
+      "destacado": {
+        "texto": "Que las copias difieran no es un descubrimiento incómodo: es la razón de ser de la crítica textual.",
+        "fuentes": [
+          "web_cpe_critica_textual#1"
+        ]
+      }
     },
     {
       "titulo": "Qué clases de variantes hay y cuánto pesan",
       "parrafos": [
-        {"texto": "Daniel Wallace, en una entrevista publicada por The Gospel Coalition, ordena las variantes en cuatro grupos. El más grande, al menos el 75 % del total, son las diferencias de ortografía y las lecturas sin sentido; el caso típico es una «n» que se agrega al final de una palabra según la letra que sigue. El segundo grupo son los cambios que no se pueden traducir y los sinónimos, entre ellos el orden de las palabras, muy flexible en griego, donde por lo general cambia el énfasis y no el significado.", "fuentes": ["web_tgc_wallace_manuscritos#2"]},
-        {"texto": "El tercer grupo son las variantes con significado pero inviables: por ejemplo, en Lucas 6:22 un solo manuscrito tardío omite las palabras «por causa del Hijo del Hombre», lo que cambiaría el sentido, pero todos los demás, incluso otros mucho más antiguos, lo contradicen. El cuarto, de lejos el más chico, son las variantes con significado y con posibilidades reales de ser originales: menos del 1 % del total. Ni siquiera ahí, dice Wallace, está en juego una creencia cardinal, aunque sí cambian lo que enseña un pasaje puntual.", "fuentes": ["web_tgc_wallace_manuscritos#3"]},
-        {"texto": "MacArthur lo describe desde otro ángulo: la mayoría de las variantes se identifican rápido y se resuelven fácil (errores ortográficos, omisiones circunstanciales, palabras o letras cambiadas de lugar), y otras son inserciones explicativas o cambios deliberados de los copistas. Leighton da un ejemplo de variante absurda: en 1 Tesalonicenses 2:7 hay manuscritos que dicen que Pablo y sus compañeros fueron «tiernos» entre ellos, otros «niños» y otro «caballos». Las tres palabras griegas difieren en una sola letra, y la tercera es evidentemente un error involuntario.", "fuentes": ["macarthur_ts#167", "web_cpe_critica_textual#1"]},
-        {"texto": "¿Y cuántas son? Leighton habla de unas 500 000 entre más de 5800 manuscritos griegos del Nuevo Testamento; Geisler y Turek recogen una estimación de unas 200.000. Las cifras cambian según el recuento, pero ambas fuentes explican por qué el número engaña: una diferencia que se repite en muchas copias se cuenta una vez por cada copia. Metzger, entrevistado por Strobel, lo ilustra: una palabra mal escrita en dos mil manuscritos cuenta como dos mil variantes. Wallace, citado por Leighton, estima que menos del 0,15 % merece tenerse en cuenta al traducir o interpretar, y MacArthur resume que los especialistas concluyen que se recuperó más del 99 % del texto original y que ninguna variante restante afecta de forma sustancial una doctrina cristiana.", "fuentes": ["web_cpe_critica_textual#1", "no_tengo_suficiente__geisler#219", "el_caso_de__strobel#40", "macarthur_ts#166"]}
+        {
+          "texto": "Daniel Wallace, en una entrevista publicada por The Gospel Coalition, ordena las variantes en cuatro grupos. El mayor, al menos el 75 % del total, son diferencias de ortografía y lecturas sin sentido. El segundo reúne cambios intraducibles y sinónimos, como el orden de las palabras, muy flexible en griego, donde por lo general cambia el énfasis y no el significado.",
+          "fuentes": [
+            "web_tgc_wallace_manuscritos#2"
+          ]
+        },
+        {
+          "texto": "El tercero son variantes con significado pero inviables: en Lucas 6:22 un solo manuscrito tardío omite «por causa del Hijo del Hombre», pero todos los demás, incluso más antiguos, lo contradicen. El cuarto, de lejos el menor, son las variantes con significado y posibilidades reales de ser originales: menos del 1 %. Ni ahí, dice Wallace, hay una creencia cardinal en juego, aunque sí cambia lo que enseña un pasaje puntual.",
+          "fuentes": [
+            "web_tgc_wallace_manuscritos#3"
+          ]
+        },
+        {
+          "texto": "MacArthur coincide: la mayoría son errores ortográficos, omisiones circunstanciales o palabras y letras cambiadas de lugar; otras son inserciones explicativas o cambios deliberados de copistas. Leighton da un ejemplo absurdo: en 1 Tesalonicenses 2:7 hay manuscritos con «tiernos», otros con «niños» y otro con «caballos»; las palabras griegas difieren en una sola letra y la tercera es un error evidente.",
+          "fuentes": [
+            "macarthur_ts#167",
+            "web_cpe_critica_textual#1"
+          ]
+        },
+        {
+          "texto": "¿Cuántas son? Leighton habla de unas 500 000 entre más de 5800 manuscritos griegos; Geisler y Turek, de unas 200.000. Las cifras varían, pero el número engaña: una diferencia repetida en muchas copias se cuenta una vez por copia, y Metzger le explica a Strobel que una palabra mal escrita en dos mil manuscritos cuenta como dos mil variantes. Según Wallace, citado por Leighton, menos del 0,15 % merece tenerse en cuenta; y MacArthur resume que se recuperó más del 99 % del texto y que ninguna variante restante afecta sustancialmente una doctrina cristiana.",
+          "fuentes": [
+            "web_cpe_critica_textual#1",
+            "no_tengo_suficiente__geisler#219",
+            "el_caso_de__strobel#40",
+            "macarthur_ts#166"
+          ]
+        }
       ],
-      "destacado": {"texto": "La inmensa mayoría de las variantes son de ortografía y de orden de palabras; las que cambian el sentido y tienen posibilidades reales son pocas.", "fuentes": ["web_tgc_wallace_manuscritos#3", "macarthur_ts#166"]}
+      "destacado": {
+        "texto": "La inmensa mayoría de las variantes son de ortografía y de orden de palabras; las que cambian el sentido y tienen posibilidades reales son pocas.",
+        "fuentes": [
+          "web_tgc_wallace_manuscritos#3",
+          "macarthur_ts#166"
+        ]
+      }
     },
     {
       "titulo": "Cómo se decide entre dos lecturas",
       "parrafos": [
-        {"texto": "MacArthur describe el procedimiento básico: el crítico textual examina cada manuscrito confiable, considera las lecturas alternativas y señala la que tiene el respaldo más sólido de haber sido escrita por el autor bíblico; si otra lectura también tiene apoyo, queda como lectura marginal en una nota al margen o al pie. Los factores principales son cuatro: la lectura más antigua, la más corta, la más ampliamente atestiguada geográficamente y la que mejor explica la aparición de las otras. Se valoran en conjunto, no por separado.", "fuentes": ["macarthur_ts#167"]},
-        {"texto": "Michael Holmes, en la revista Themelios, agrega una advertencia de método: esas reglas son generalizaciones sobre las costumbres de los copistas y a veces fallan; por ejemplo, los papiros muestran que la preferencia por la lectura más corta no se aplica bien a los manuscritos de los tres primeros siglos. Por eso casi ningún crítico contemporáneo confía en un solo criterio: combinan la evidencia interna (lo que dice la variante) con la externa (los manuscritos que la respaldan) para no depender de la intuición.", "fuentes": ["web_themelios_texto_mayoritario#8"]},
-        {"texto": "Un ejemplo concreto, de Leighton: en Mateo 11:19 la Reina-Valera 1960 dice que la sabiduría «es justificada por sus hijos» y la Biblia de las Américas dice «por sus hechos». Algunos manuscritos griegos traen teknon (hijos) y otros ergon (hechos). Citando a Metzger, Leighton explica que la evidencia favorece «hechos», porque los copistas tendían a armonizar, y es más probable que alguien cambiara «hechos» por «hijos» para igualar el pasaje paralelo de Lucas 7:35. Si es así, aparece un posible vínculo con Santiago 2:21, que habla de las obras de Abraham, y Leighton lo ve como una pista para entender cómo se relacionan Pablo y Santiago (cf. Romanos 4:5).", "fuentes": ["web_cpe_critica_textual#2"]},
-        {"texto": "La comparación no depende de una sola línea de testigos. Metzger le explica a Strobel que, cuantas más copias concuerdan y de más regiones vienen, más fácil es remontarse al original; además de los manuscritos griegos están las traducciones tempranas (al latín, el siríaco y el copto) y las citas de los primeros padres en comentarios, sermones y cartas. Geisler y Turek lo ilustran con cuatro copias imaginarias de Filipenses 4:13, cada una con un error distinto: comparándolas se deduce sin misterio qué decía el original.", "fuentes": ["el_caso_de__strobel#37", "no_tengo_suficiente__geisler#218"]}
+        {
+          "texto": "MacArthur describe el procedimiento: el crítico examina cada manuscrito confiable, compara lecturas y elige la de respaldo más sólido; las otras con apoyo quedan como lecturas marginales en una nota. Los factores principales son la lectura más antigua, la más corta, la más ampliamente atestiguada geográficamente y la que mejor explica la aparición de las demás, valorados en conjunto.",
+          "fuentes": [
+            "macarthur_ts#167"
+          ]
+        },
+        {
+          "texto": "Michael Holmes, en Themelios, advierte que esas reglas son generalizaciones sobre los copistas y a veces fallan: los papiros muestran que la preferencia por la lectura más corta no se aplica bien a los tres primeros siglos. Por eso casi nadie se apoya en un solo criterio: se combinan la evidencia interna (la variante misma) y la externa (los manuscritos que la respaldan).",
+          "fuentes": [
+            "web_themelios_texto_mayoritario#8",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        },
+        {
+          "texto": "Un ejemplo de Leighton: en Mateo 11:19 la Reina-Valera 1960 dice que la sabiduría «es justificada por sus hijos» y la Biblia de las Américas, «por sus hechos»; los manuscritos traen teknon (hijos) o ergon (hechos). Citando a Metzger, explica que la evidencia favorece «hechos», porque era más probable que un copista lo cambiara por «hijos» para armonizarlo con Lucas 7:35. Si es así, se ve un posible vínculo con Santiago 2:21, que habla de las obras de Abraham, y una pista para entender a Pablo y Santiago (cf. Romanos 4:5).",
+          "fuentes": [
+            "web_cpe_critica_textual#2"
+          ]
+        },
+        {
+          "texto": "Además hay varias líneas de testigos. Metzger le explica a Strobel que, cuantas más copias concuerdan y de más regiones, más fácil es remontarse al original; y a los manuscritos griegos se suman las traducciones tempranas (latín, siríaco, copto) y las citas de los primeros padres. Geisler y Turek lo ilustran con cuatro copias imaginarias de Filipenses 4:13, cada una con un error distinto: comparándolas se deduce qué decía el original.",
+          "fuentes": [
+            "el_caso_de__strobel#37",
+            "no_tengo_suficiente__geisler#218"
+          ]
+        }
       ],
-      "destacado": {"texto": "El crítico textual no cuenta votos: pesa la antigüedad, la distribución geográfica y cuál lectura explica el origen de las demás.", "fuentes": ["macarthur_ts#167", "web_cpe_critica_textual#2"]}
+      "destacado": {
+        "texto": "El crítico textual no cuenta votos: pesa la antigüedad, la distribución geográfica y cuál lectura explica el origen de las demás.",
+        "fuentes": [
+          "macarthur_ts#167",
+          "web_cpe_critica_textual#2"
+        ]
+      }
     },
     {
       "titulo": "Un final en discusión: Marcos 16:9-20",
       "parrafos": [
-        {"texto": "Si leíste Marcos 16:1-8, viste el problema: el relato termina con las mujeres huyendo de la tumba, y muchas Biblias ponen después una nota sobre los versículos 9-20. Elijah Hixson, investigador de Tyndale House, recuerda que la nota no es moderna: en el siglo X un monje llamado Efraín anotó en un manuscrito que en algunas copias el evangelista termina en ese punto y que en muchas otras el texto sigue. La nota que copió era anterior a él, y se conservan otros manuscritos griegos con ella.", "fuentes": ["web_cpe_marcos_16#1"]},
-        {"texto": "Hixson reúne la evidencia de ambos lados. A favor de incluirlos: más del 99 % de los manuscritos de Marcos los contienen (más de 1600 griegos y la mayoría de las traducciones tempranas), y Ireneo, hacia el año 180, citó Marcos 16:19 como Escritura. En contra: faltan en dos manuscritos griegos del siglo IV, el Sinaítico y el Vaticano, y también en un manuscrito latino, uno siriaco y uno copto; de 220 manuscritos armenios examinados por Colwell en 1937, 99 terminaban en el versículo 8. Además, al menos 23 manuscritos griegos que los incluyen traen notas de duda o finales alternativos.", "fuentes": ["web_cpe_marcos_16#1", "web_cpe_marcos_16#2"]},
-        {"texto": "Hay también testimonios antiguos. Eusebio, ante la consulta de un cristiano llamado Marino sobre una aparente contradicción entre Mateo y Marcos, respondió que una salida posible era rechazar Marcos 16:9, porque las copias exactas terminaban en el versículo 8; Jerónimo y otros lo repitieron. Holmes cita a Jerónimo diciendo que el pasaje estaba en pocos ejemplares y que casi todos los códices griegos carecían de él, y lo usa para mostrar que el recuento de manuscritos que sobrevivieron hoy no siempre refleja épocas anteriores.", "fuentes": ["web_cpe_marcos_16#2", "web_themelios_texto_mayoritario#7"]},
-        {"texto": "Para decidir si se añadió o se omitió, Hixson observa que las omisiones suelen ser cortas y accidentales, mientras que los agregados a menudo armonizan con pasajes paralelos: Marcos es el único Evangelio sin aparición del resucitado, y estos versículos lo emparejan con los otros tres. Y consta al menos un caso de agregado: el compilador de un comentario del siglo VI atribuido a Víctor de Antioquía admitió que la mayoría de las copias no los traían y los sumó igual. Su conclusión: mantenerlos en el texto con una advertencia de que probablemente no son de Marcos. Aclara que la fe no pierde nada, porque Pablo ya testifica la resurrección en 1 Corintios 15 y Lucas narra la ascensión. Aquí habla un solo autor; no aparecen en estas fuentes los argumentos de quienes defienden que son originales.", "fuentes": ["web_cpe_marcos_16#2", "web_cpe_marcos_16#3", "web_cpe_marcos_16#4"]}
+        {
+          "texto": "Si leíste Marcos 16:1-8, viste el problema: el relato termina con las mujeres huyendo de la tumba, y muchas Biblias traen una nota sobre los versículos 9-20. Elijah Hixson, de Tyndale House, recuerda que la nota no es moderna: en el siglo X un monje llamado Efraín anotó que en algunas copias el evangelista termina allí y que en muchas otras el texto sigue; la nota era anterior a él y consta en otros manuscritos griegos.",
+          "fuentes": [
+            "web_cpe_marcos_16#1"
+          ]
+        },
+        {
+          "texto": "A favor de incluirlos: más del 99 % de los manuscritos de Marcos los traen (más de 1600 griegos, y la mayoría de las traducciones tempranas), e Ireneo, hacia el 180, citó Marcos 16:19 como Escritura. En contra: faltan en los códices Sinaítico y Vaticano, del siglo IV, y en un manuscrito latino, uno siriaco y uno copto; de 220 manuscritos armenios examinados por Colwell en 1937, 99 terminaban en el versículo 8; y al menos 23 manuscritos griegos que los incluyen traen notas de duda o finales alternativos.",
+          "fuentes": [
+            "web_cpe_marcos_16#1",
+            "web_cpe_marcos_16#2"
+          ]
+        },
+        {
+          "texto": "Eusebio, consultado por un cristiano llamado Marino sobre una aparente contradicción entre Mateo y Marcos, respondió que una salida era rechazar Marcos 16:9, pues las copias exactas terminaban en el versículo 8; Jerónimo lo repitió. Holmes cita a Jerónimo diciendo que el pasaje estaba en pocos ejemplares, aunque hoy lo trae la gran mayoría: el recuento actual no siempre refleja épocas anteriores.",
+          "fuentes": [
+            "web_cpe_marcos_16#2",
+            "web_themelios_texto_mayoritario#7",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        },
+        {
+          "texto": "Hixson observa que las omisiones suelen ser cortas y accidentales, mientras que los agregados a menudo armonizan: Marcos es el único Evangelio sin aparición del resucitado y estos versículos lo igualan a los otros tres. Hay un caso comprobado: el compilador de un comentario del siglo VI atribuido a Víctor de Antioquía admitió que la mayoría de las copias no los traía y los añadió. Su conclusión es mantenerlos con una advertencia de que probablemente no son de Marcos. Aquí habla un solo autor; no aparecen los argumentos de quienes los defienden como originales.",
+          "fuentes": [
+            "web_cpe_marcos_16#2",
+            "web_cpe_marcos_16#3"
+          ]
+        }
       ]
     },
     {
       "titulo": "Dos casos más: Juan 7:53–8:11 y 1 Juan 5:7",
       "parrafos": [
-        {"texto": "Sobre la mujer sorprendida en adulterio, Timothy Miller (Themelios) resume la evidencia: faltan en manuscritos tempranos y variados y en versiones antiguas (siríacas y algunas coptas); ningún manuscrito existente anterior al siglo V la trae; y entre los padres griegos, solo Dídimo el Ciego la menciona durante el primer milenio. Además aparece en cinco lugares distintos según los manuscritos, entre ellos después de Lucas 21:38, interrumpe el hilo del relato y su estilo y vocabulario parecen distintos de los de Juan. Cita a Metzger: la evidencia contra su origen joánico es abrumadora. Maurice Robinson, defensor del texto mayoritario, sostiene que es original, pero según Miller pocos lo siguen.", "fuentes": ["web_themelios_adultera#3", "web_themelios_adultera#4"]},
-        {"texto": "Que sea dudoso como texto de Juan no obliga a decir que el hecho no ocurrió. Miller menciona a Carson, quien ve poco motivo para dudar de que el episodio sucedió, y a Morris, para quien el relato es fiel al carácter de Jesús; pero él juzga que la evidencia histórica no alcanza para sostenerlo con firmeza. Su propuesta práctica para un predicador es explicar el problema textual y enseñar las verdades del relato apoyándose en otros pasajes claros de la Escritura, como hicieron John Piper y David Doran.", "fuentes": ["web_themelios_adultera#12", "web_themelios_adultera#13", "web_themelios_adultera#14"]},
-        {"texto": "En 1 Juan 5:7 la discusión es sobre una frase que menciona al Padre, el Verbo y el Espíritu Santo. Leighton dice que lo más seguro es que no sea original, pero que sin ella quedan muchas otras pruebas de la Trinidad en la Biblia. Metzger, ante Strobel, estima que las palabras aparecen en unas pocas copias tardías, no las considera parte de lo que Juan escribió y recuerda que la doctrina descansa en pasajes como el bautismo de Jesús y la bendición final de 2 Corintios (13:14).", "fuentes": ["web_cpe_critica_textual#1", "el_caso_de__strobel#40"]},
-        {"texto": "Wallace actualiza los datos: se conocen nueve manuscritos griegos con la frase (cuatro en el texto y cinco en el margen, estos últimos con letra posterior), el más antiguo con la frase en el texto es del siglo XIV y ninguno la tiene antes del año 1000. Nueve copias tardías frente a cientos desde el siglo IV, dice, no inspiran confianza de que sea auténtica. Él mismo corrige una afirmación suya anterior, que había tomado de Metzger, porque este había omitido un manuscrito: es un ejemplo de cómo la disciplina se revisa con datos nuevos.", "fuentes": ["web_tgc_wallace_coma#1", "web_tgc_wallace_coma#2"]}
+        {
+          "texto": "Sobre la mujer sorprendida en adulterio, Timothy Miller (Themelios) resume la evidencia: falta en manuscritos tempranos y variados y en versiones antiguas; ningún manuscrito existente anterior al siglo V la trae; y entre los padres griegos solo Dídimo el Ciego la menciona en el primer milenio. Aparece en cinco lugares distintos, incluso después de Lucas 21:38, interrumpe el relato y su estilo parece distinto del de Juan. Maurice Robinson, defensor del texto mayoritario, sostiene que es original, pero según Miller pocos lo siguen.",
+          "fuentes": [
+            "web_themelios_adultera#3",
+            "web_themelios_adultera#4"
+          ]
+        },
+        {
+          "texto": "Que sea dudosa como texto de Juan no obliga a negar el hecho. Carson ve poco motivo para dudar de que el episodio ocurrió y Morris lo considera fiel al carácter de Jesús; Miller juzga que la evidencia histórica no alcanza. Su propuesta para predicar es explicar el problema textual y enseñar las verdades del relato desde otros pasajes claros, como hicieron John Piper y David Doran.",
+          "fuentes": [
+            "web_themelios_adultera#12",
+            "web_themelios_adultera#13",
+            "web_themelios_adultera#14"
+          ]
+        },
+        {
+          "texto": "En 1 Juan 5:7 está en discusión una frase que nombra al Padre, el Verbo y el Espíritu Santo. Leighton dice que lo más seguro es que no sea original, y que sin ella quedan muchas otras pruebas de la Trinidad. Metzger, ante Strobel, la ubica en siete u ocho copias de los siglos XV y XVI, no la cree parte de lo que Juan escribió y recuerda que la doctrina descansa en pasajes como el bautismo de Jesús y la bendición final de 2 Corintios (13:14).",
+          "fuentes": [
+            "web_cpe_critica_textual#1",
+            "el_caso_de__strobel#40"
+          ]
+        },
+        {
+          "texto": "Wallace corrige y actualiza esos datos: conoce nueve manuscritos griegos con la frase, el más antiguo con ella en el texto es del siglo XIV y ninguno la tiene en el primer milenio; nueve copias tardías frente a cientos desde el siglo IV no dan confianza de que sea auténtica. Admite que una afirmación suya anterior, tomada de Metzger, omitía un manuscrito: la disciplina se revisa con datos nuevos.",
+          "fuentes": [
+            "web_tgc_wallace_coma#1",
+            "web_tgc_wallace_coma#2"
+          ]
+        }
       ]
     },
     {
       "titulo": "Tres maneras de ordenar la evidencia",
       "parrafos": [
-        {"texto": "Entre quienes aceptan la autoridad de la Biblia hay tres posturas sobre qué texto griego seguir. La primera, llamada eclecticismo razonado o texto crítico, considera no solo cuántos manuscritos apoyan una lectura sino su edad y calidad, lo que se sabe de las costumbres de los copistas y el estilo de los autores. Según Leighton es el método de la mayoría de los eruditos evangélicos. Holmes recuerda su origen moderno: en 1881 Westcott y Hort lograron desplazar al Textus Receptus; y advierte que nadie debería tratar las ediciones críticas actuales como si fueran el original, porque se estaría armando un «nuevo TR».", "fuentes": ["web_cpe_critica_textual#2", "web_themelios_texto_mayoritario#1", "web_themelios_texto_mayoritario#3", "web_themelios_texto_mayoritario#9"]},
-        {"texto": "La segunda, el texto mayoritario, tiene como defensores a Zane Hodges, Wilbur Pickering y Jakob van Bruggen, según Holmes. Su argumento central: entre el 80 % y el 90 % de los manuscritos conocidos representan el texto bizantino, y lo normal es que la lectura más antigua, la del autógrafo, sea también la más copiada. Pickering y van Bruggen rechazan los criterios internos y proponen un método numérico. Hodges, en cambio, quiere usar un método genealógico. Holmes, que escribe como crítico de la postura, objeta que casi ningún padre temprano respalda ese texto, que sus lecturas pueden ser antiguas pero el conjunto no, y que la transmisión no fue «normal»: pesaron la destrucción de manuscritos por Diocleciano, la expansión del islam y el repliegue del griego, de modo que la mayoría de los manuscritos conservados es posterior.", "fuentes": ["web_themelios_texto_mayoritario#3", "web_themelios_texto_mayoritario#4", "web_themelios_texto_mayoritario#5", "web_themelios_texto_mayoritario#6", "web_themelios_texto_mayoritario#8", "web_themelios_texto_mayoritario#9"]},
-        {"texto": "Leighton suma una objeción práctica: casi todos los manuscritos son tardíos, del siglo IX en adelante, de modo que los más antiguos y posiblemente mejores quedan sin peso proporcional. Aun así, Holmes reconoce que los defensores del texto mayoritario señalaron cuestiones reales y que sus críticas recuerdan el carácter provisorio de las ediciones críticas.", "fuentes": ["web_cpe_critica_textual#2", "web_themelios_texto_mayoritario#9"]},
-        {"texto": "La tercera es la del Textus Receptus, vinculada a la defensa de la versión King James. Según Holmes, sus defensores, entre ellos Terence Brown, David Otis Fuller y E. F. Hills, se apoyan en argumentos más teológicos que históricos: quien cree en la inspiración plena debe creer, dice Fuller, en la preservación providencial, y para Hills esa preservación se dio por el uso de la Iglesia, que dejó el texto bizantino. Holmes los juzga débiles y recuerda la réplica de Carson. Wallace agrega un dato: el Textus Receptus difiere 1838 veces del texto bizantino, que a su vez difiere 6577 veces del crítico estándar, y cuenta que los editores de la Nueva Versión King James, que tradujeron del Textus Receptus, no consideraban original la lectura de 1 Juan 5:7 ni otras de la King James con muy poco respaldo.", "fuentes": ["web_themelios_texto_mayoritario#2", "web_tgc_wallace_coma#3"]}
+        {
+          "texto": "Entre quienes aceptan la autoridad de la Biblia hay tres posturas sobre qué texto griego seguir. La primera, el texto crítico o eclecticismo razonado, pesa la edad y la calidad de los manuscritos, las costumbres de los copistas y el estilo de los autores; según Leighton es el método de la mayoría de los eruditos evangélicos. Holmes recuerda que en 1881 Westcott y Hort lograron desplazar al Textus Receptus, y advierte que tratar las ediciones críticas actuales como si fueran el original sería fabricar un «nuevo TR».",
+          "fuentes": [
+            "web_cpe_critica_textual#2",
+            "web_themelios_texto_mayoritario#1",
+            "web_themelios_texto_mayoritario#3",
+            "web_themelios_texto_mayoritario#9",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        },
+        {
+          "texto": "La segunda, el texto mayoritario, tiene como defensores a Zane Hodges, Wilbur Pickering y Jakob van Bruggen, según Holmes. Su argumento: entre el 80 % y el 90 % de los manuscritos conocidos son de tipo bizantino, y lo normal es que la lectura más antigua sea también la más copiada. Pickering y van Bruggen rechazan los criterios internos y proponen un método numérico; Hodges usa uno genealógico. Holmes, crítico de la postura, objeta que ningún padre temprano respalda ese texto, que sus lecturas pueden ser antiguas pero el conjunto no, y que la transmisión no fue «normal»: pesaron Diocleciano, el islam y el repliegue del griego.",
+          "fuentes": [
+            "web_themelios_texto_mayoritario#3",
+            "web_themelios_texto_mayoritario#4",
+            "web_themelios_texto_mayoritario#5",
+            "web_themelios_texto_mayoritario#6",
+            "web_themelios_texto_mayoritario#8",
+            "web_themelios_texto_mayoritario#9",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        },
+        {
+          "texto": "Leighton suma una objeción práctica: casi todos los manuscritos son tardíos (del siglo IX en adelante) y los más antiguos quedan sin peso proporcional. Holmes reconoce, con todo, que sus defensores señalaron cuestiones reales.",
+          "fuentes": [
+            "web_cpe_critica_textual#2",
+            "web_themelios_texto_mayoritario#9",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        },
+        {
+          "texto": "La tercera, el Textus Receptus, va unida a la defensa de la King James. Según Holmes, Terence Brown, David Otis Fuller y E. F. Hills usan argumentos más teológicos que históricos: quien cree en la inspiración plena debe creer en la preservación providencial (Fuller), cumplida por el uso de la Iglesia (Hills). Holmes los juzga débiles y recuerda la réplica de Carson. Wallace añade que el Textus Receptus difiere 1838 veces del texto bizantino, que difiere 6577 veces del crítico estándar, y que los editores de la Nueva Versión King James no consideraban originales 1 Juan 5:7 ni otras lecturas de poco respaldo.",
+          "fuentes": [
+            "web_themelios_texto_mayoritario#2",
+            "web_themelios_texto_mayoritario#12",
+            "web_tgc_wallace_coma#3"
+          ]
+        }
       ]
     },
     {
       "titulo": "Inerrancia, preservación y Mateo 24:35",
       "parrafos": [
-        {"texto": "MacArthur apoya la inerrancia de la Palabra en textos como Salmo 12:6, Salmo 119:140, Proverbios 30:5 y Juan 10:35, y la deriva de que Dios es su autor, lo cual garantiza su calidad divina en su origen y en los escritos originales. En su tabla de símbolos bíblicos, el Salmo 12:6 representa la plata, imagen del valor incalculable de la Palabra. Geisler y Turek recuerdan que Jesús afirmó la verdad de su enseñanza con Mateo 24:35: «El cielo y la tierra pasarán, pero mis palabras no pasarán».", "fuentes": ["macarthur_ts#87", "macarthur_ts#88", "no_tengo_suficiente__geisler#345"]},
-        {"texto": "La pregunta es cómo se conecta eso con copias imperfectas. Sproul, al comentar el artículo X de la Declaración de Chicago, explica que la inspiración se aplica estrictamente a los autógrafos; que copias y traducciones son Palabra de Dios en la medida en que representen fielmente el original; y que en más del 99 % de los casos el texto original puede reconstruirse con certeza práctica, sin que la duda restante afecte un principio de fe ni un mandato para la vida. Agrega que trabajar con el original importa: si tuviera errores, la iglesia podría rechazar sus enseñanzas; como no los tiene y el texto no está en duda, nadie tiene base para desobedecer un mandato de la Escritura.", "fuentes": ["puedo_confiar_en__sproul#42", "puedo_confiar_en__sproul#43"]},
-        {"texto": "MacArthur concluye que, por medios providenciales, Dios cumplió su promesa de preservar las Escrituras: la crítica textual permite identificar y corregir errores comparando las copias con el original restaurado. Hixson llega a algo parecido por otro camino: si la preservación significara que toda la Palabra estuviera siempre disponible, ¿le falló Dios a los cristianos cuyas copias de Marcos terminaban en el versículo 8? Responde que no, porque Dios les dio lo que necesitaban. Y Holmes registra que para Fuller la preservación obliga a un texto bizantino único. Aquí hay una diferencia real sobre qué implica la promesa, no sobre si Dios cuida su Palabra.", "fuentes": ["macarthur_ts#166", "web_cpe_marcos_16#3", "web_themelios_texto_mayoritario#2"]}
+        {
+          "texto": "MacArthur apoya la inerrancia en textos como Salmo 12:6, Salmo 119:140, Proverbios 30:5 y Juan 10:35, y la hace derivar de que Dios es su autor, lo cual garantiza su calidad divina en su origen y en los escritos originales; en su tabla de símbolos, el Salmo 12:6 representa la plata, imagen de un valor incalculable. Geisler y Turek recuerdan que Jesús afirmó la verdad de su enseñanza con Mateo 24:35: «El cielo y la tierra pasarán, pero mis palabras no pasarán».",
+          "fuentes": [
+            "macarthur_ts#87",
+            "macarthur_ts#88",
+            "no_tengo_suficiente__geisler#345"
+          ]
+        },
+        {
+          "texto": "¿Y las copias imperfectas? Sproul, comentando el artículo X de la Declaración de Chicago, explica que la inspiración se aplica estrictamente a los autógrafos; que copias y traducciones son Palabra de Dios en la medida en que representen fielmente el original; y que en más del 99 % de los casos el original se reconstruye con certeza práctica, sin que la duda restante afecte un principio de fe ni un mandato de vida.",
+          "fuentes": [
+            "puedo_confiar_en__sproul#42",
+            "puedo_confiar_en__sproul#43"
+          ]
+        },
+        {
+          "texto": "MacArthur concluye que, por medios providenciales, Dios cumplió su promesa de preservar las Escrituras: la crítica textual permite corregir errores comparando con el original restaurado. Hixson va por otro camino: si preservar significara tener siempre toda la Palabra, ¿le falló Dios a los cristianos cuyas copias de Marcos terminaban en el versículo 8? Responde que no. Para Fuller, según Holmes, la preservación exige un texto bizantino único. Hay una diferencia real sobre qué implica la promesa, no sobre si Dios cuida su Palabra.",
+          "fuentes": [
+            "macarthur_ts#166",
+            "web_cpe_marcos_16#3",
+            "web_themelios_texto_mayoritario#2",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "la presencia de variantes en los manuscritos no debe hacer tambalear nuestra confianza en la Biblia", "autor": "Matthew Leighton", "obra": "Crítica textual: ¿amiga o enemiga de los cristianos? (Coalición por el Evangelio)", "fuentes": ["web_cpe_critica_textual#1"]},
-    {"texto": "Con o sin Marcos 16:9-20, la tumba está vacía, Jesús ha comprado nuestro perdón, y podemos estar seguros de esto.", "autor": "Elijah Hixson", "obra": "¿Era Marcos 16:9-20 originalmente parte del Evangelio de Marcos? (Coalición por el Evangelio)", "fuentes": ["web_cpe_marcos_16#4"]}
+    {
+      "texto": "la presencia de variantes en los manuscritos no debe hacer tambalear nuestra confianza en la Biblia",
+      "autor": "Matthew Leighton",
+      "obra": "Crítica textual: ¿amiga o enemiga de los cristianos? (Coalición por el Evangelio)",
+      "fuentes": [
+        "web_cpe_critica_textual#1"
+      ]
+    },
+    {
+      "texto": "Con o sin Marcos 16:9-20, la tumba está vacía, Jesús ha comprado nuestro perdón, y podemos estar seguros de esto.",
+      "autor": "Elijah Hixson",
+      "obra": "¿Era Marcos 16:9-20 originalmente parte del Evangelio de Marcos? (Coalición por el Evangelio)",
+      "fuentes": [
+        "web_cpe_marcos_16#4"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "τέκνον", "translit": "teknon", "idioma": "griego", "ref": "Mt 11:19", "significado": "Hijo, hijos. Es la lectura de algunos manuscritos en Mateo 11:19 («la sabiduría es justificada por sus hijos»), que la Reina-Valera 1960 sigue. Leighton explica que otros manuscritos traen ergon y que la evidencia favorece esta última.", "fuentes": ["web_cpe_critica_textual#2"]},
-    {"original": "ἔργον", "translit": "ergon", "idioma": "griego", "ref": "Mt 11:19", "significado": "Obra, hecho. Es la lectura que, según Leighton y Metzger, mejor explica las demás en Mateo 11:19, y es la misma palabra que aparece en Santiago 2:21 («justificado por las obras»).", "fuentes": ["web_cpe_critica_textual#2"]}
+    {
+      "original": "τέκνον",
+      "translit": "teknon",
+      "idioma": "griego",
+      "ref": "Mt 11:19",
+      "significado": "Hijo, hijos. Es la lectura de algunos manuscritos en Mateo 11:19 («la sabiduría es justificada por sus hijos»), que la Reina-Valera 1960 sigue. Leighton explica que otros manuscritos traen ergon y que la evidencia favorece esta última.",
+      "fuentes": [
+        "web_cpe_critica_textual#2"
+      ]
+    },
+    {
+      "original": "ἔργον",
+      "translit": "ergon",
+      "idioma": "griego",
+      "ref": "Mt 11:19",
+      "significado": "Obra, hecho. Es la lectura que, según Leighton y Metzger, mejor explica las demás en Mateo 11:19, y es la misma palabra que aparece en Santiago 2:21 («justificado por las obras»).",
+      "fuentes": [
+        "web_cpe_critica_textual#2"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Las palabras de Jesús no pasan. Lo explícito en el Nuevo Testamento es su propia afirmación: «El cielo y la tierra pasarán, pero mis palabras no pasarán» (Mateo 24:35). Geisler y Turek sostienen que Jesús no toleró el error y afirmó la verdad de lo que enseñaba, de modo que confiar en la Escritura es seguirlo a él. Aquí no hay un tipo del Antiguo Testamento: lo que hay es una afirmación directa del Señor.", "refs": ["Mt 24:35", "Sal 12:6"], "fuentes": ["no_tengo_suficiente__geisler#345"]},
-    {"texto": "La resurrección no depende de un final discutido. Hixson señala que, con o sin Marcos 16:9-20, la tumba está vacía, y que Marcos 16:9-20 no sería el único ni el más temprano registro de la resurrección corporal: Pablo escribió 1 Corintios 15 probablemente a mediados de los años 50, y Lucas narra la ascensión. Lo explícito está en el texto seguro; el pasaje en duda no es la base.", "refs": ["Mr 16:1-8", "1 Co 15"], "fuentes": ["web_cpe_marcos_16#4"]}
+    {
+      "texto": "Las palabras de Jesús no pasan. Lo explícito en el Nuevo Testamento es su propia afirmación: «El cielo y la tierra pasarán, pero mis palabras no pasarán» (Mateo 24:35). Geisler y Turek sostienen que Jesús no toleró el error y afirmó la verdad de lo que enseñaba. No hay aquí un tipo del Antiguo Testamento, sino una afirmación directa del Señor.",
+      "refs": [
+        "Mt 24:35",
+        "Sal 12:6"
+      ],
+      "fuentes": [
+        "no_tengo_suficiente__geisler#345"
+      ]
+    },
+    {
+      "texto": "La resurrección no depende de un final discutido. Hixson señala que, con o sin Marcos 16:9-20, la tumba está vacía: esos versículos no serían el único ni el más temprano registro de la resurrección corporal, pues Pablo escribió 1 Corintios 15 probablemente a mediados de los años 50, y Lucas narra la ascensión.",
+      "refs": [
+        "Mr 16:1-8",
+        "1 Co 15"
+      ],
+      "fuentes": [
+        "web_cpe_marcos_16#4"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué texto griego del Nuevo Testamento hay que seguir?",
       "posturas": [
-        {"postura": "Texto crítico (eclecticismo razonado): se decide cada variante pesando edad y calidad de los manuscritos, costumbres de los copistas y estilo del autor. Es, según Leighton, el método de la mayoría de los eruditos evangélicos; Holmes lo defiende pero advierte que las ediciones actuales son provisorias.", "quien": "Leighton y Holmes", "fuentes": ["web_cpe_critica_textual#2", "web_themelios_texto_mayoritario#9"]},
-        {"postura": "Texto mayoritario: el texto bizantino, presente en la gran mayoría de los manuscritos, es el más cercano al original; entre sus defensores, según Holmes, Hodges, Pickering y van Bruggen, aunque difieren en el método. Aquí aparece solo como lo resume un crítico suyo.", "quien": "Presentada por Holmes", "fuentes": ["web_themelios_texto_mayoritario#3", "web_themelios_texto_mayoritario#5"]},
-        {"postura": "Textus Receptus: el texto impreso detrás de la King James, defendido, según Holmes, por Brown, Fuller, Ray y Hills con argumentos ligados a la preservación providencial por la Iglesia. Tampoco hablan aquí con voz propia.", "quien": "Presentada por Holmes", "fuentes": ["web_themelios_texto_mayoritario#1", "web_themelios_texto_mayoritario#2"]}
+        {
+          "postura": "Texto crítico (eclecticismo razonado): se pesa cada variante según edad y calidad de los manuscritos, costumbres de los copistas y estilo del autor. Según Leighton lo usa la mayoría de los eruditos evangélicos; Holmes lo defiende pero lo considera provisorio.",
+          "quien": "Leighton y Holmes",
+          "fuentes": [
+            "web_cpe_critica_textual#2",
+            "web_themelios_texto_mayoritario#9",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        },
+        {
+          "postura": "Texto mayoritario: el texto bizantino, presente en la gran mayoría de los manuscritos, es el más cercano al original (Hodges, Pickering y van Bruggen, que difieren en el método). Aparece solo como lo resume un crítico suyo.",
+          "quien": "Presentada por Holmes",
+          "fuentes": [
+            "web_themelios_texto_mayoritario#3",
+            "web_themelios_texto_mayoritario#5",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        },
+        {
+          "postura": "Textus Receptus: el texto detrás de la King James, defendido por Brown, Fuller, Ray y Hills con argumentos de preservación providencial. Tampoco habla aquí con voz propia.",
+          "quien": "Presentada por Holmes",
+          "fuentes": [
+            "web_themelios_texto_mayoritario#1",
+            "web_themelios_texto_mayoritario#2",
+            "web_themelios_texto_mayoritario#12"
+          ]
+        }
       ],
-      "nota": "Las dos últimas posturas aparecen en este día solo a través de un crítico de ambas; sus propios libros no se leyeron aquí."
+      "nota": "Las dos últimas posturas aparecen hoy solo a través de un crítico de ambas; sus propios libros no se leyeron aquí."
     },
     {
       "tema": "¿Qué hacer con Juan 7:53–8:11?",
       "posturas": [
-        {"postura": "Es original de Juan y por eso canónico. Lo sostiene Maurice Robinson, defensor del texto mayoritario, aunque según Miller pocos lo siguen.", "quien": "Robinson, según Miller", "fuentes": ["web_themelios_adultera#3"]},
-        {"postura": "No es de Juan, pero es canónico por el uso que la Iglesia hizo de él durante siglos, bajo la providencia de Dios.", "quien": "Klink, según Miller", "fuentes": ["web_themelios_adultera#5"]},
-        {"postura": "No es de Juan, pero probablemente el hecho sucedió.", "quien": "Carson y Morris, según Miller", "fuentes": ["web_themelios_adultera#12"]},
-        {"postura": "No es canónico y no hay evidencia suficiente de que sea histórico; se puede explicar el problema textual y predicar sus verdades a partir de otros pasajes.", "quien": "Miller, con ejemplos de Piper y Doran", "fuentes": ["web_themelios_adultera#13", "web_themelios_adultera#14"]}
+        {
+          "postura": "Es original de Juan y por eso canónico. Lo sostiene Maurice Robinson, defensor del texto mayoritario, aunque según Miller pocos lo siguen.",
+          "quien": "Robinson, según Miller",
+          "fuentes": [
+            "web_themelios_adultera#3"
+          ]
+        },
+        {
+          "postura": "No es de Juan, pero es canónico por el uso que la Iglesia hizo de él durante siglos, bajo la providencia de Dios.",
+          "quien": "Klink, según Miller",
+          "fuentes": [
+            "web_themelios_adultera#5"
+          ]
+        },
+        {
+          "postura": "No es de Juan, pero probablemente el hecho sucedió.",
+          "quien": "Carson y Morris, según Miller",
+          "fuentes": [
+            "web_themelios_adultera#12"
+          ]
+        },
+        {
+          "postura": "No es canónico y no hay evidencia suficiente de que sea histórico; se puede explicar el problema textual y predicar sus verdades a partir de otros pasajes.",
+          "quien": "Miller, con ejemplos de Piper y Doran",
+          "fuentes": [
+            "web_themelios_adultera#13",
+            "web_themelios_adultera#14"
+          ]
+        }
       ],
       "nota": "Miller describe también la posición católica: algunos autores católicos lo consideran una adición, pero canónico por la Vulgata y el Concilio de Trento. Esta fuente no desarrolla esa postura con sus propios documentos."
     }
   ],
   "conexiones": [
-    {"ref": "Lc 6:22", "nota": "Wallace lo usa de ejemplo de variante con significado pero inviable: un manuscrito tardío omite «por causa del Hijo del Hombre».", "fuentes": ["web_tgc_wallace_manuscritos#3"]},
-    {"ref": "1 Ts 2:7", "nota": "Ejemplo de Leighton: tiernos, niños o caballos, tres palabras que se diferencian en una letra.", "fuentes": ["web_cpe_critica_textual#1"]},
-    {"ref": "2 R 18:4", "nota": "La serpiente de bronce, que MacArthur usa para explicar el riesgo de venerar objetos en lugar del Dios que los usó.", "fuentes": ["macarthur_ts#168"]},
-    {"ref": "1 Co 15:3-8", "nota": "Testimonio apostólico de la resurrección, independiente del final de Marcos.", "fuentes": ["biblia"]},
-    {"ref": "Jn 10:35", "nota": "MacArthur lo cita entre los textos que presentan la Escritura como inerrante.", "fuentes": ["macarthur_ts#87"]}
+    {
+      "ref": "Lc 6:22",
+      "nota": "Wallace lo usa de ejemplo de variante con significado pero inviable: un manuscrito tardío omite «por causa del Hijo del Hombre».",
+      "fuentes": [
+        "web_tgc_wallace_manuscritos#3"
+      ]
+    },
+    {
+      "ref": "2 R 18:4",
+      "nota": "La serpiente de bronce, que MacArthur usa para explicar el riesgo de venerar objetos en lugar del Dios que los usó.",
+      "fuentes": [
+        "macarthur_ts#168"
+      ]
+    },
+    {
+      "ref": "1 Co 15:3-8",
+      "nota": "Testimonio apostólico de la resurrección, independiente del final de Marcos.",
+      "fuentes": [
+        "biblia"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Cuando veas una nota al pie sobre variantes, leela con calma: como dice Leighton, esas notas muestran dónde están las diferencias, y las importantes se señalan para que no pasen inadvertidas.", "fuentes": ["web_cpe_critica_textual#2"]},
-    {"texto": "Predicá y enseñá desde lo seguro: Miller sugiere, para los pasajes dudosos, ser honestos con el problema y apoyar las verdades en textos indiscutidos.", "fuentes": ["web_themelios_adultera#14"]},
-    {"texto": "Desconfiá de quien use las variantes para decirte que no se puede confiar en la Biblia, y también de quien niegue que existan: Hixson recuerda que la fe camina confiando en Dios incluso ante cierta incertidumbre.", "fuentes": ["web_cpe_marcos_16#4"]}
+    {
+      "texto": "Cuando veas una nota al pie sobre variantes, leela con calma: como dice Leighton, esas notas muestran dónde están las diferencias, y las importantes se señalan para que no pasen inadvertidas.",
+      "fuentes": [
+        "web_cpe_critica_textual#2"
+      ]
+    },
+    {
+      "texto": "Predicá y enseñá desde lo seguro: Miller sugiere, para los pasajes dudosos, ser honestos con el problema y apoyar las verdades en textos indiscutidos.",
+      "fuentes": [
+        "web_themelios_adultera#14"
+      ]
+    },
+    {
+      "texto": "Desconfiá de quien use las variantes para decirte que no se puede confiar en la Biblia, y también de quien niegue que existan: Hixson recuerda que la fe camina confiando en Dios aun ante cierta incertidumbre.",
+      "fuentes": [
+        "web_cpe_marcos_16#4"
+      ]
+    }
   ],
   "para_reflexionar": [
     "¿Qué sentiste al descubrir que no existen los originales y que las copias difieren? ¿Qué te dice esa reacción sobre en qué estaba apoyada tu confianza en la Biblia?",
@@ -130,6 +459,13 @@
   ],
   "para_orar": "Señor, gracias porque tu Palabra permanece y porque me la hiciste llegar en copias que podés cuidar. Quitá de mí el miedo ante las preguntas y también la soberbia de creer que ya lo sé todo. Enseñame a leer con honestidad, a confiar en vos y a obedecer lo que tu Palabra dice con claridad. Amén.",
   "profundizar": [
-    {"titulo": "¿Se parece la copia de la Biblia al «teléfono descompuesto»?", "texto": "Geisler y Turek responden que no: el Nuevo Testamento no pasó de boca en boca, sino que son veintisiete escritos de nueve autores, con testigos que presenciaron los hechos, y lo que se copió fue un texto escrito. Wallace agrega que en el juego del teléfono hay una sola línea de transmisión, oral y de una sola pasada, mientras que el crítico textual interroga a muchos copistas a lo largo de los siglos, además de los padres de la Iglesia; y que en las copias bíblicas se trata de reproducir fielmente un texto que se tiene a la vista.", "fuentes": ["no_tengo_suficiente__geisler#214", "web_tgc_wallace_manuscritos#3"]}
+    {
+      "titulo": "¿Es la copia de la Biblia un «teléfono descompuesto»?",
+      "texto": "Geisler y Turek responden que no: el Nuevo Testamento son veintisiete escritos de nueve autores, con testigos presenciales, no un mensaje oral pasado de boca en boca. Wallace agrega que en el juego hay una sola línea de transmisión y una sola pasada oral, mientras que el crítico textual interroga a muchos copistas y a los padres de la Iglesia, y que en las copias bíblicas se reproduce un texto que se tiene a la vista.",
+      "fuentes": [
+        "no_tengo_suficiente__geisler#214",
+        "web_tgc_wallace_manuscritos#3"
+      ]
+    }
   ]
 }

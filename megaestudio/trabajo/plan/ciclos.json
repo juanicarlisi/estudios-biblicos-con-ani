@@ -1,0 +1,1092 @@
+{
+ "ciclos": [
+  {
+   "id": "C1",
+   "numero": 1,
+   "titulo": "La Biblia: la Palabra de Dios y cómo leerla",
+   "bajada": "Antes de estudiar los temas, entender qué es la Biblia, por qué confiar en ella y cómo se interpreta bien.",
+   "series": [
+    {
+     "id": "1.1",
+     "titulo": "Para qué estudiamos la Biblia: conocer a Dios",
+     "dias": 6,
+     "enfoque": "La meta de todo estudio; revelación general y especial; inspiración, inerrancia, suficiencia, claridad y autoridad.",
+     "pedido": "4 Bibliología",
+     "institutos": "TMS TH605 · IBBA Teología I",
+     "fuentes": "B: Grudem, MacArthur, Berkhof, Ryrie, Packer, Owen"
+    },
+    {
+     "id": "1.2",
+     "titulo": "Cómo llegó a nosotros: canon, manuscritos y traducciones",
+     "dias": 10,
+     "enfoque": "Historia del canon AT y NT, Septuaginta, rollos del Mar Muerto, manuscritos griegos, crítica textual, versiones y diferencias entre traducciones.",
+     "pedido": "4 Canon/manuscritos/traducciones; 3 Arqueología",
+     "institutos": "TMS NT601, BI784 · IBBA Panorama y métodos",
+     "fuentes": "B + X (Metzger, Bruce; sociedades bíblicas)"
+    },
+    {
+     "id": "1.3",
+     "titulo": "Cómo interpretar: hermenéutica, exégesis y estudio inductivo",
+     "dias": 20,
+     "enfoque": "Estudio bíblico inductivo (observar, interpretar, aplicar), contexto literario e histórico-cultural, géneros (narrativa, ley, poesía, sabiduría, profecía, apocalíptica, evangelios, epístolas), análisis de palabras, uso del AT en el NT, pasajes difíciles.",
+     "pedido": "4 Hermenéutica/Exégesis/Géneros",
+     "institutos": "TMS BI505, BI705 · IBBA Hermenéutica",
+     "fuentes": "B: Grudem, Lacueva, comentarios; X"
+    },
+    {
+     "id": "1.4",
+     "titulo": "Las lenguas de la Biblia: hebreo, arameo y griego koiné",
+     "dias": 8,
+     "enfoque": "Cómo leer una palabra en su idioma sin ser experto: alfabetos, raíces, Strong, errores comunes (falacias léxicas).",
+     "pedido": "4 Hebreo/Arameo/Griego/Septuaginta",
+     "institutos": "TMS OT503, NT501 · IBBA Griego/Hebreo",
+     "fuentes": "X (Strong, léxicos) + B (diccionarios Mundo Hispano)"
+    },
+    {
+     "id": "1.5",
+     "titulo": "La Biblia en un vistazo: la historia de la redención",
+     "dias": 10,
+     "enfoque": "Una sola historia en seis actos: creación, caída, promesa, redención, iglesia, consumación; cómo se relacionan los 66 libros.",
+     "pedido": "2 Teología bíblica",
+     "institutos": "IBBA Panorama · TMS BI501/502",
+     "fuentes": "B + biblioteca MATERIAL SOPORTE"
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "numero": 2,
+   "titulo": "Dios: su carácter, su naturaleza y su obra",
+   "bajada": "Quién es Dios según las Escrituras, y cómo se revela de Génesis a Apocalipsis.",
+   "series": [
+    {
+     "id": "2.1",
+     "titulo": "Conocer a Dios y sus nombres",
+     "dias": 10,
+     "enfoque": "Elohim, YHWH, Adonai, El Shaddai y los demás; nombres compuestos; qué significa conocer a Dios.",
+     "pedido": "A Nombres de Dios",
+     "institutos": "IBBA Teología I",
+     "fuentes": "B: Packer, Tozer, Pink, Grudem"
+    },
+    {
+     "id": "2.2",
+     "titulo": "Los atributos de Dios",
+     "dias": 30,
+     "enfoque": "Incomunicables y comunicables; santidad, amor, justicia, misericordia, gracia, fidelidad, soberanía, omnisciencia, omnipotencia, omnipresencia, eternidad, inmutabilidad, sabiduría, paciencia, ira, compasión, verdad, gloria; amor y santidad; justicia y misericordia.",
+     "pedido": "A Atributos",
+     "institutos": "TMS TH643 · IBBA Teología I",
+     "fuentes": "B: Pink, Tozer, Packer, Grudem, Berkhof, MacArthur, Washer, Sproul"
+    },
+    {
+     "id": "2.3",
+     "titulo": "La Trinidad",
+     "dias": 12,
+     "enfoque": "Un solo Dios en tres personas: fundamentos bíblicos, historia (Nicea, Calcedonia), errores (modalismo, arrianismo), relaciones entre las personas.",
+     "pedido": "A/B/C Trinidad; 5 Credos",
+     "institutos": "TMS TH605 · IBBA Teología I",
+     "fuentes": "B: Doctrina de la trinidad, Qué es la trinidad, Grudem, Owen, Ferguson"
+    },
+    {
+     "id": "2.4",
+     "titulo": "La voluntad, la providencia y la soberanía de Dios",
+     "dias": 14,
+     "enfoque": "Decreto, providencia, mal y sufrimiento, soberanía y responsabilidad humana, posturas calvinista y arminiana.",
+     "pedido": "A Voluntad/Soberanía; 8 Providencia/Responsabilidad",
+     "institutos": "TMS PM514 · IBBA Teología I",
+     "fuentes": "B: Soberanía, Controla Dios todas las cosas, MacArthur, Edwards, Piper"
+    },
+    {
+     "id": "2.5",
+     "titulo": "Su presencia, su gloria y su rostro",
+     "dias": 10,
+     "enfoque": "La nube, el tabernáculo, el rostro de Dios, el silencio de Dios, el temor de Dios.",
+     "pedido": "A Presencia/Gloria/Temor; 8 Rostro/Silencio",
+     "institutos": "—",
+     "fuentes": "B: Tozer, Piper, Owen + comentarios"
+    },
+    {
+     "id": "2.6",
+     "titulo": "Dios a lo largo de toda la Biblia",
+     "dias": 8,
+     "enfoque": "Cómo se presenta Dios en el Pentateuco, los profetas, los Salmos, los Evangelios y Apocalipsis.",
+     "pedido": "A Revelación a lo largo de la Biblia",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "numero": 3,
+   "titulo": "Jesucristo: su persona, su vida y su obra",
+   "bajada": "Quién es Jesús, qué hizo y cómo el AT lo anticipa.",
+   "series": [
+    {
+     "id": "3.1",
+     "titulo": "Quién es Jesús: preexistencia, deidad, humanidad y encarnación",
+     "dias": 18,
+     "enfoque": "Nombres y títulos; Hijo de Dios, Hijo del Hombre; credos cristológicos; herejías antiguas y actuales.",
+     "pedido": "B Identidad",
+     "institutos": "IBBA Teología II · TMS TH606",
+     "fuentes": "B: Sproul, Stott, Grudem, MacArthur, Chafer"
+    },
+    {
+     "id": "3.2",
+     "titulo": "Cristo en el Antiguo Testamento: profecías y tipos",
+     "dias": 18,
+     "enfoque": "Mesías prometido; profecías explícitas, cumplimientos señalados por los autores, tipología.",
+     "pedido": "B/O/2",
+     "institutos": "TMS OT770",
+     "fuentes": "B + comentarios"
+    },
+    {
+     "id": "3.3",
+     "titulo": "La vida y las enseñanzas de Jesús",
+     "dias": 34,
+     "enfoque": "Recorrido por los Evangelios: nacimiento, bautismo, tentación, ministerio, parábolas, milagros, encuentros, camino a Jerusalén.",
+     "pedido": "B Vida/Enseñanzas/Parábolas/Milagros/Encuentros",
+     "institutos": "TMS NT675, BI675 · IBBA Jesús el modelo",
+     "fuentes": "B: MacArthur, Barclay, Guzik, Moody, Pink, Carballosa"
+    },
+    {
+     "id": "3.4",
+     "titulo": "La obra de Cristo: cruz, resurrección y reinado",
+     "dias": 30,
+     "enfoque": "Obediencia, sacrificio, expiación, propiciación, rescate, resurrección, ascensión, intercesión, reinado actual y segunda venida.",
+     "pedido": "B Obra; D Cruz/Resurrección",
+     "institutos": "TMS TH754 · IBBA Teología paulina de la cruz",
+     "fuentes": "B: Stott, Owen, Murray, MacArthur"
+    },
+    {
+     "id": "3.5",
+     "titulo": "Los oficios y las imágenes de Cristo",
+     "dias": 14,
+     "enfoque": "Profeta, sacerdote, rey, cordero, pastor, mediador, luz, pan, vid, roca.",
+     "pedido": "B Profeta/Sacerdote/Rey/Cordero/Pastor/Mediador",
+     "institutos": "TMS TH750",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "numero": 4,
+   "titulo": "El Espíritu Santo",
+   "bajada": "Su persona, su obra en cada época y su obra en el creyente.",
+   "series": [
+    {
+     "id": "4.1",
+     "titulo": "La persona del Espíritu",
+     "dias": 10,
+     "enfoque": "Divinidad, personalidad, relación con el Padre y el Hijo.",
+     "pedido": "C",
+     "institutos": "IBBA Teología II",
+     "fuentes": "B: Owen Pneumatología, Grudem, MacArthur"
+    },
+    {
+     "id": "4.2",
+     "titulo": "El Espíritu en el Antiguo y en el Nuevo Testamento",
+     "dias": 12,
+     "enfoque": "Creación, profetas, Pentecostés, nuevo pacto.",
+     "pedido": "C",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "4.3",
+     "titulo": "La obra del Espíritu en el creyente",
+     "dias": 16,
+     "enfoque": "Regeneración, convicción, santificación, llenura, guía, morada, sello, bautismo.",
+     "pedido": "C",
+     "institutos": "TMS TH606",
+     "fuentes": "B"
+    },
+    {
+     "id": "4.4",
+     "titulo": "Dones y fruto del Espíritu: posturas cesacionista y continuacionista",
+     "dias": 12,
+     "enfoque": "Dones espirituales y las distintas lecturas cristianas.",
+     "pedido": "C; 5 Pentecostalismo",
+     "institutos": "TMS TH786",
+     "fuentes": "B: MacArthur, Grudem; X"
+    },
+    {
+     "id": "4.5",
+     "titulo": "Resistir al Espíritu y discernir",
+     "dias": 6,
+     "enfoque": "Endurecimiento, apagar, entristecer, blasfemia contra el Espíritu, discernimiento espiritual.",
+     "pedido": "C",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C5",
+   "numero": 5,
+   "titulo": "El ser humano, el pecado y el mal",
+   "bajada": "Qué somos, qué se rompió y cómo funciona la lucha espiritual.",
+   "series": [
+    {
+     "id": "5.1",
+     "titulo": "Imagen de Dios e identidad humana",
+     "dias": 14,
+     "enfoque": "Creación, imagen, hombre y mujer, alma, espíritu, corazón, mente, conciencia, voluntad, emociones, personalidad y temperamento.",
+     "pedido": "K",
+     "institutos": "IBBA Antropología, Teología de la naturaleza humana · TMS TH705",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "5.2",
+     "titulo": "La caída y el pecado",
+     "dias": 16,
+     "enfoque": "Origen y naturaleza del pecado, caída, muerte espiritual, culpa, condenación, esclavitud.",
+     "pedido": "H; D Pecado",
+     "institutos": "TMS TH705",
+     "fuentes": "B"
+    },
+    {
+     "id": "5.3",
+     "titulo": "Pecados y obras de la carne",
+     "dias": 24,
+     "enfoque": "Idolatría, orgullo, codicia, envidia, celos, ira, amargura, hipocresía, incredulidad, mentira, engaño.",
+     "pedido": "H",
+     "institutos": "—",
+     "fuentes": "B (Pecado, Tentación y Sexualidad)"
+    },
+    {
+     "id": "5.4",
+     "titulo": "Tentación y lucha espiritual",
+     "dias": 12,
+     "enfoque": "Carne y Espíritu, armadura de Dios, autoridad espiritual.",
+     "pedido": "H",
+     "institutos": "IBBA Confrontación de poderes",
+     "fuentes": "B"
+    },
+    {
+     "id": "5.5",
+     "titulo": "Ángeles, demonios y el diablo",
+     "dias": 14,
+     "enfoque": "Angelología y demonología; ángeles caídos; victoria de Cristo.",
+     "pedido": "H; 4 Angelología/Demonología",
+     "institutos": "TMS TH606",
+     "fuentes": "B: Angeología vol. 2; Guerra espiritual"
+    }
+   ]
+  },
+  {
+   "id": "C6",
+   "numero": 6,
+   "titulo": "Salvación y evangelio",
+   "bajada": "El plan de salvación en toda su extensión, con las distintas posturas cristianas.",
+   "series": [
+    {
+     "id": "6.1",
+     "titulo": "Creación, caída y necesidad de redención",
+     "dias": 6,
+     "enfoque": "El problema que el evangelio resuelve.",
+     "pedido": "D",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "6.2",
+     "titulo": "Gracia, fe y arrepentimiento",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "D",
+     "institutos": "—",
+     "fuentes": "B: Sproul, Piper, Owen"
+    },
+    {
+     "id": "6.3",
+     "titulo": "Justificación, regeneración y adopción",
+     "dias": 18,
+     "enfoque": "Imputación, nuevo nacimiento, adopción, reconciliación.",
+     "pedido": "D",
+     "institutos": "TMS TH720",
+     "fuentes": "B: Murray, Stott"
+    },
+    {
+     "id": "6.4",
+     "titulo": "Expiación, propiciación y rescate",
+     "dias": 12,
+     "enfoque": "Teorías de la expiación; extensión de la expiación.",
+     "pedido": "D",
+     "institutos": "TMS TH754",
+     "fuentes": "B: Owen, Stott, Murray"
+    },
+    {
+     "id": "6.5",
+     "titulo": "Santificación y glorificación",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "D",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "6.6",
+     "titulo": "Elección, predestinación y libre albedrío",
+     "dias": 16,
+     "enfoque": "Calvinismo, arminianismo y otras posturas con sus textos.",
+     "pedido": "D",
+     "institutos": "TMS TH720",
+     "fuentes": "B: Edwards, Owen, Piper + X (arminianos)"
+    },
+    {
+     "id": "6.7",
+     "titulo": "Seguridad, perseverancia y obras",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "D",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "6.8",
+     "titulo": "La vida eterna",
+     "dias": 6,
+     "enfoque": "",
+     "pedido": "D/N",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C7",
+   "numero": 7,
+   "titulo": "Teología bíblica: los hilos que unen toda la Escritura",
+   "bajada": "Cómo imágenes, instituciones y acontecimientos del AT se conectan con Cristo y con el NT, sin forzar alegorías.",
+   "series": [
+    {
+     "id": "7.1",
+     "titulo": "Creación y nueva creación: del Edén a la Nueva Jerusalén",
+     "dias": 14,
+     "enfoque": "Edén, árbol de la vida, Apocalipsis y Génesis.",
+     "pedido": "2",
+     "institutos": "TMS BI715/716",
+     "fuentes": "B + comentarios"
+    },
+    {
+     "id": "7.2",
+     "titulo": "La promesa: simiente, Abraham y las naciones",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "2",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "7.3",
+     "titulo": "Los pactos de Dios",
+     "dias": 20,
+     "enfoque": "Noé, Abraham, Moisés, David y nuevo pacto.",
+     "pedido": "E; 2",
+     "institutos": "TMS BI715",
+     "fuentes": "B"
+    },
+    {
+     "id": "7.4",
+     "titulo": "Éxodo, desierto y tierra prometida",
+     "dias": 16,
+     "enfoque": "El patrón del éxodo y su eco en la redención.",
+     "pedido": "2",
+     "institutos": "TMS BI656",
+     "fuentes": "B"
+    },
+    {
+     "id": "7.5",
+     "titulo": "Tabernáculo, templo, sacerdocio y sacrificios",
+     "dias": 30,
+     "enfoque": "Cordero, sangre, perdón, expiación; Hebreos.",
+     "pedido": "2",
+     "institutos": "TMS BI656 · IBBA Hebreos",
+     "fuentes": "B + comentarios"
+    },
+    {
+     "id": "7.6",
+     "titulo": "Presencia, gloria y trono",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "2; 8",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "7.7",
+     "titulo": "Imágenes: luz, agua, pan, vid, pastor, roca, montaña",
+     "dias": 20,
+     "enfoque": "",
+     "pedido": "2; 8",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "7.8",
+     "titulo": "Descanso, sábado, exilio, retorno",
+     "dias": 14,
+     "enfoque": "",
+     "pedido": "2",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "7.9",
+     "titulo": "Las naciones, la misión y la restauración final",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "2",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C8",
+   "numero": 8,
+   "titulo": "El Reino de Dios y los reinos de la Biblia",
+   "bajada": "Cómo se desarrolla el Reino desde Génesis hasta Apocalipsis y qué enseñan los reinos terrenales sobre poder, soberanía, idolatría y justicia.",
+   "series": [
+    {
+     "id": "8.1",
+     "titulo": "El Reino de Dios: de Génesis a Apocalipsis",
+     "dias": 20,
+     "enfoque": "Reino presente y futuro, parábolas del Reino, gobierno de Cristo, consumación.",
+     "pedido": "E",
+     "institutos": "TMS TH777",
+     "fuentes": "B + comentarios"
+    },
+    {
+     "id": "8.2",
+     "titulo": "Israel: de la monarquía unida al exilio",
+     "dias": 24,
+     "enfoque": "Saúl, David, Salomón, reino dividido, Judá e Israel; el pacto davídico y el trono.",
+     "pedido": "E",
+     "institutos": "TMS BI667, BI779",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "8.3",
+     "titulo": "Las potencias: Egipto, Asiria, Babilonia, Persia, Grecia y Roma",
+     "dias": 30,
+     "enfoque": "Cada imperio en su lugar en la historia de la redención.",
+     "pedido": "E; 3",
+     "institutos": "TMS NT672",
+     "fuentes": "B + X (historia y arqueología)"
+    },
+    {
+     "id": "8.4",
+     "titulo": "Los pueblos vecinos: Edom, Moab, Amón, Filistea y otros",
+     "dias": 14,
+     "enfoque": "",
+     "pedido": "E",
+     "institutos": "—",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "8.5",
+     "titulo": "El Mesías como Rey y la consumación",
+     "dias": 14,
+     "enfoque": "",
+     "pedido": "E; N",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C9",
+   "numero": 9,
+   "titulo": "La Iglesia, la misión y el discipulado",
+   "bajada": "",
+   "series": [
+    {
+     "id": "9.1",
+     "titulo": "Qué es la Iglesia",
+     "dias": 18,
+     "enfoque": "Cuerpo, pueblo, familia, novia, templo; unidad y comunión.",
+     "pedido": "M",
+     "institutos": "IBBA Iglecrecimiento",
+     "fuentes": "B"
+    },
+    {
+     "id": "9.2",
+     "titulo": "Culto, bautismo y Santa Cena",
+     "dias": 12,
+     "enfoque": "Posturas históricas y bíblicas.",
+     "pedido": "M; 5",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "9.3",
+     "titulo": "Liderazgo, gobierno de la iglesia y dones",
+     "dias": 18,
+     "enfoque": "Ancianos, pastores, diáconos, formas de gobierno eclesial (episcopal, presbiteriano, congregacional), disciplina eclesiástica, sacerdocio de los creyentes.",
+     "pedido": "M",
+     "institutos": "TMS PM511A",
+     "fuentes": "B"
+    },
+    {
+     "id": "9.4",
+     "titulo": "Misión, evangelismo y Gran Comisión",
+     "dias": 14,
+     "enfoque": "",
+     "pedido": "M",
+     "institutos": "IBBA Misiones",
+     "fuentes": "B"
+    },
+    {
+     "id": "9.5",
+     "titulo": "Discipulado y multiplicación",
+     "dias": 10,
+     "enfoque": "",
+     "pedido": "M",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "9.6",
+     "titulo": "Falsas enseñanzas, apostasía y persecución",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "M",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C10",
+   "numero": 10,
+   "titulo": "Carácter cristiano y madurez espiritual",
+   "bajada": "El fruto del Espíritu y las virtudes que forman a Cristo en nosotros.",
+   "series": [
+    {
+     "id": "10.1",
+     "titulo": "El fruto del Espíritu",
+     "dias": 36,
+     "enfoque": "Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza: cuatro días cada uno.",
+     "pedido": "G",
+     "institutos": "IBBA Formación integral del carácter",
+     "fuentes": "B"
+    },
+    {
+     "id": "10.2",
+     "titulo": "Virtudes y conceptos espirituales",
+     "dias": 60,
+     "enfoque": "Verdad, sabiduría, discernimiento, humildad, integridad, santidad, obediencia, fidelidad, justicia, misericordia, compasión, valentía, prudencia, pureza, contentamiento, gratitud, esperanza, perseverancia, libertad, responsabilidad.",
+     "pedido": "F",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "10.3",
+     "titulo": "Transformación, identidad en Cristo y madurez",
+     "dias": 24,
+     "enfoque": "Renovación de la mente, hábitos, propósito, vocación y llamado.",
+     "pedido": "K",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C11",
+   "numero": 11,
+   "titulo": "Oración, adoración y disciplinas espirituales",
+   "bajada": "",
+   "series": [
+    {
+     "id": "11.1",
+     "titulo": "La oración",
+     "dias": 20,
+     "enfoque": "Formas de oración, enseñanza de Jesús y de los apóstoles, intercesión.",
+     "pedido": "I",
+     "institutos": "IBBA Disciplinas espirituales · TMS PM514",
+     "fuentes": "B"
+    },
+    {
+     "id": "11.2",
+     "titulo": "Adoración, alabanza y música",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "I; 8",
+     "institutos": "TMS PM792",
+     "fuentes": "B"
+    },
+    {
+     "id": "11.3",
+     "titulo": "Ayuno, meditación, silencio, soledad y vigilias",
+     "dias": 14,
+     "enfoque": "",
+     "pedido": "I",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "11.4",
+     "titulo": "Confesión, acción de gracias, servicio, generosidad y hospitalidad",
+     "dias": 14,
+     "enfoque": "",
+     "pedido": "I",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C12",
+   "numero": 12,
+   "titulo": "Ética cristiana y vida cotidiana",
+   "bajada": "Cómo los principios bíblicos se aplican a cada dimensión de la vida, incluso a situaciones que la Biblia no nombra.",
+   "series": [
+    {
+     "id": "12.1",
+     "titulo": "Relaciones: perdón, reconciliación, conflictos, palabra y juicio",
+     "dias": 20,
+     "enfoque": "",
+     "pedido": "L; 6",
+     "institutos": "TMS PM772",
+     "fuentes": "B"
+    },
+    {
+     "id": "12.2",
+     "titulo": "Matrimonio, sexualidad, soltería, noviazgo y crianza",
+     "dias": 24,
+     "enfoque": "",
+     "pedido": "L; 6",
+     "institutos": "TMS PM768",
+     "fuentes": "B (Matrimonio, Familia, Pecado y Sexualidad)"
+    },
+    {
+     "id": "12.3",
+     "titulo": "Trabajo, dinero y mayordomía",
+     "dias": 18,
+     "enfoque": "Tiempo, recursos, diezmos y ofrendas, deuda, creación, fidelidad en lo pequeño.",
+     "pedido": "J",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "12.4",
+     "titulo": "Liderazgo, autoridad, gobierno y justicia social",
+     "dias": 16,
+     "enfoque": "",
+     "pedido": "6",
+     "institutos": "TMS PM750",
+     "fuentes": "B"
+    },
+    {
+     "id": "12.5",
+     "titulo": "Sufrimiento, prueba y esperanza",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "6; 8",
+     "institutos": "—",
+     "fuentes": "B: Keller"
+    },
+    {
+     "id": "12.6",
+     "titulo": "Decisiones y dilemas éticos contemporáneos",
+     "dias": 14,
+     "enfoque": "",
+     "pedido": "6",
+     "institutos": "IBBA Dilemas éticos · TMS TH780",
+     "fuentes": "B + X"
+    }
+   ]
+  },
+  {
+   "id": "C13",
+   "numero": 13,
+   "titulo": "Profecía, promesas y últimos tiempos",
+   "bajada": "Profecía explícita, cumplimiento, interpretaciones y especulaciones, claramente distinguidas.",
+   "series": [
+    {
+     "id": "13.1",
+     "titulo": "Cómo funciona la profecía bíblica",
+     "dias": 14,
+     "enfoque": "Género, condicionales e incondicionales, símbolos, lenguaje apocalíptico.",
+     "pedido": "O",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "13.2",
+     "titulo": "Profetas mayores y menores",
+     "dias": 40,
+     "enfoque": "",
+     "pedido": "O",
+     "institutos": "IBBA Mensaje profético del AT · TMS BI659",
+     "fuentes": "B + comentarios"
+    },
+    {
+     "id": "13.3",
+     "titulo": "Daniel, Zacarías y Apocalipsis",
+     "dias": 24,
+     "enfoque": "",
+     "pedido": "O; N",
+     "institutos": "TMS NT795",
+     "fuentes": "B (comentarios de Apocalipsis)"
+    },
+    {
+     "id": "13.4",
+     "titulo": "Escatología: enfoques y pasajes clave",
+     "dias": 30,
+     "enfoque": "Segunda venida, rapto, tribulación, milenio, juicio, cielo, infierno, nuevos cielos y nueva tierra; premilenialismo, amilenialismo, postmilenialismo.",
+     "pedido": "N",
+     "institutos": "IBBA Teología III · TMS TH706",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C14",
+   "numero": 14,
+   "titulo": "Los libros de la Biblia",
+   "bajada": "Panorama y lectura guiada de los 66 libros. Génesis ya está estudiado en profundidad en estudio-genesis.html.",
+   "series": [
+    {
+     "id": "14.1",
+     "titulo": "Pentateuco (Éxodo a Deuteronomio) y libros históricos",
+     "dias": 40,
+     "enfoque": "",
+     "pedido": "2",
+     "institutos": "TMS BI501",
+     "fuentes": "B + comentarios"
+    },
+    {
+     "id": "14.2",
+     "titulo": "Poesía y sabiduría",
+     "dias": 30,
+     "enfoque": "Job, Salmos, Proverbios, Eclesiastés, Cantares.",
+     "pedido": "2",
+     "institutos": "TMS BI502",
+     "fuentes": "B"
+    },
+    {
+     "id": "14.3",
+     "titulo": "Evangelios y Hechos",
+     "dias": 30,
+     "enfoque": "",
+     "pedido": "2",
+     "institutos": "TMS NT601",
+     "fuentes": "B"
+    },
+    {
+     "id": "14.4",
+     "titulo": "Cartas de Pablo y cartas generales",
+     "dias": 40,
+     "enfoque": "",
+     "pedido": "2",
+     "institutos": "TMS BI756/757/777 · IBBA Romanos, Hebreos, Pastorales",
+     "fuentes": "B"
+    },
+    {
+     "id": "14.5",
+     "titulo": "Apocalipsis",
+     "dias": 16,
+     "enfoque": "",
+     "pedido": "N",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C15",
+   "numero": 15,
+   "titulo": "Personajes y acontecimientos bíblicos",
+   "bajada": "Vidas, decisiones, errores y virtudes; milagros, señales, visiones, sueños y encuentros.",
+   "series": [
+    {
+     "id": "15.1",
+     "titulo": "Personajes del Antiguo Testamento",
+     "dias": 60,
+     "enfoque": "De Adán a Malaquías.",
+     "pedido": "7",
+     "institutos": "—",
+     "fuentes": "B (Personajes bíblicos) + comentarios"
+    },
+    {
+     "id": "15.2",
+     "titulo": "Personajes del Nuevo Testamento",
+     "dias": 40,
+     "enfoque": "María, Juan el Bautista, Pedro, Juan, Pablo, Esteban, Bernabé, Timoteo.",
+     "pedido": "7",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "15.3",
+     "titulo": "Acontecimientos, milagros, señales y visiones",
+     "dias": 30,
+     "enfoque": "",
+     "pedido": "7",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C16",
+   "numero": 16,
+   "titulo": "El mundo de la Biblia: historia, geografía y arqueología",
+   "bajada": "",
+   "series": [
+    {
+     "id": "16.1",
+     "titulo": "Historia bíblica de Abraham a la Iglesia primitiva",
+     "dias": 30,
+     "enfoque": "Patriarcas, éxodo, conquista, jueces, monarquía, exilio, retorno, persa, griego, macabeo, romano.",
+     "pedido": "3",
+     "institutos": "TMS BI779 · NT672",
+     "fuentes": "X (historia, arqueología) + B"
+    },
+    {
+     "id": "16.2",
+     "titulo": "Geografía bíblica",
+     "dias": 20,
+     "enfoque": "Mesopotamia, Egipto, Canaán, Jerusalén, Galilea, Asia Menor, Grecia, Roma, viajes misioneros.",
+     "pedido": "3",
+     "institutos": "TMS BI652",
+     "fuentes": "X + B"
+    },
+    {
+     "id": "16.3",
+     "titulo": "Arqueología y mundo antiguo",
+     "dias": 24,
+     "enfoque": "Inscripciones, rollos del Mar Muerto, culturas, economía, derecho, religiones.",
+     "pedido": "3",
+     "institutos": "TMS OT796",
+     "fuentes": "X (verificar en la fuente)"
+    },
+    {
+     "id": "16.4",
+     "titulo": "Vida cotidiana en tiempos bíblicos",
+     "dias": 16,
+     "enfoque": "",
+     "pedido": "3",
+     "institutos": "—",
+     "fuentes": "X + B"
+    }
+   ]
+  },
+  {
+   "id": "C17",
+   "numero": 17,
+   "titulo": "Historia del cristianismo y tradiciones",
+   "bajada": "",
+   "series": [
+    {
+     "id": "17.1",
+     "titulo": "Iglesia primitiva, padres y concilios",
+     "dias": 20,
+     "enfoque": "Padres apostólicos, credos, Nicea, Calcedonia.",
+     "pedido": "5",
+     "institutos": "TMS TH507 · IBBA Historia de la iglesia 1",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "17.2",
+     "titulo": "Credos, confesiones y catecismos",
+     "dias": 10,
+     "enfoque": "Credo Apostólico, Nicea, Calcedonia, confesiones de la Reforma (Westminster, Augsburgo, Bautista de Londres) y catecismos: qué afirma cada uno y por qué.",
+     "pedido": "5 Credos",
+     "institutos": "RTS Catecismo Menor de Westminster · TMS TH507/508",
+     "fuentes": "B + X (textos de los propios credos)"
+    },
+    {
+     "id": "17.3",
+     "titulo": "Edad media, cisma y Reforma",
+     "dias": 24,
+     "enfoque": "Oriente y Occidente, Lutero, Calvino, anabaptistas, contrarreforma.",
+     "pedido": "5",
+     "institutos": "TMS TH507/508 · IBBA Teología de la Reforma",
+     "fuentes": "B"
+    },
+    {
+     "id": "17.4",
+     "titulo": "Avivamientos, misiones y movimientos modernos",
+     "dias": 24,
+     "enfoque": "Pentecostalismo, carismáticos, evangelicalismo, cristianismo global, misión urbana, América Latina y Argentina.",
+     "pedido": "5",
+     "institutos": "IBBA Historia de la iglesia en América Latina",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "17.5",
+     "titulo": "Tradiciones: catolicismo, ortodoxia y familias protestantes",
+     "dias": 24,
+     "enfoque": "Qué creen, por qué, y dónde difieren, con sus propios documentos.",
+     "pedido": "5",
+     "institutos": "TMS TH788",
+     "fuentes": "X (fuentes primarias de cada tradición)"
+    }
+   ]
+  },
+  {
+   "id": "C18",
+   "numero": 18,
+   "titulo": "Fe informada: apologética, religiones y cosmovisiones",
+   "bajada": "Por qué creo lo que creo y cómo explicarlo con respeto.",
+   "series": [
+    {
+     "id": "18.1",
+     "titulo": "Evidencias de Jesús y de la resurrección",
+     "dias": 24,
+     "enfoque": "Fuentes históricas, testigos, objeciones.",
+     "pedido": "5",
+     "institutos": "TMS TH602",
+     "fuentes": "B: Apologética (34 libros)"
+    },
+    {
+     "id": "18.2",
+     "titulo": "Confiabilidad de la Biblia y objeciones comunes",
+     "dias": 20,
+     "enfoque": "",
+     "pedido": "5",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "18.3",
+     "titulo": "Judaísmo, Islam, hinduismo, budismo y otras religiones",
+     "dias": 36,
+     "enfoque": "Textos fundamentales, historia, creencias y diferencias con el cristianismo.",
+     "pedido": "5",
+     "institutos": "TMS MI784 · IBBA Religiones comparadas",
+     "fuentes": "X (fuentes primarias y académicas)"
+    },
+    {
+     "id": "18.4",
+     "titulo": "Ateísmo, agnosticismo, deísmo, secularismo y naturalismo",
+     "dias": 20,
+     "enfoque": "",
+     "pedido": "5",
+     "institutos": "IBBA Apologética contemporánea",
+     "fuentes": "B + X"
+    }
+   ]
+  },
+  {
+   "id": "C19",
+   "numero": 19,
+   "titulo": "Temas por descubrir",
+   "bajada": "Símbolos, instituciones y motivos que atraviesan la Biblia y rara vez se estudian completos.",
+   "series": [
+    {
+     "id": "19.1",
+     "titulo": "Símbolos: agua, fuego, sangre, luz y tinieblas, montes, jardines, caminos, puertas, vestiduras",
+     "dias": 40,
+     "enfoque": "",
+     "pedido": "8",
+     "institutos": "—",
+     "fuentes": "B + comentarios"
+    },
+    {
+     "id": "19.2",
+     "titulo": "Nombres, números y genealogías",
+     "dias": 16,
+     "enfoque": "",
+     "pedido": "8",
+     "institutos": "—",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "19.3",
+     "titulo": "Comidas, banquetes y fiestas bíblicas",
+     "dias": 16,
+     "enfoque": "",
+     "pedido": "8",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "19.4",
+     "titulo": "Sueños, visiones, señales y ángeles",
+     "dias": 16,
+     "enfoque": "",
+     "pedido": "8",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "19.5",
+     "titulo": "Espera, desierto, prueba, herencia y fidelidad generacional",
+     "dias": 20,
+     "enfoque": "",
+     "pedido": "8",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "19.6",
+     "titulo": "Palabra, lenguaje y música",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "8",
+     "institutos": "—",
+     "fuentes": "B"
+    }
+   ]
+  },
+  {
+   "id": "C20",
+   "numero": 20,
+   "titulo": "Teología práctica y ministerio",
+   "bajada": "",
+   "series": [
+    {
+     "id": "20.1",
+     "titulo": "Predicación y enseñanza",
+     "dias": 16,
+     "enfoque": "",
+     "pedido": "4 Teología pastoral",
+     "institutos": "TMS PM501-PM703 · IBBA Homilética",
+     "fuentes": "B (Predicación y Homiletica, 27 libros)"
+    },
+    {
+     "id": "20.2",
+     "titulo": "Pastorado y consejería bíblica",
+     "dias": 18,
+     "enfoque": "",
+     "pedido": "4",
+     "institutos": "TMS PM765 · IBBA Consejería",
+     "fuentes": "B"
+    },
+    {
+     "id": "20.3",
+     "titulo": "Misionología",
+     "dias": 12,
+     "enfoque": "",
+     "pedido": "4",
+     "institutos": "TMS MI778 · IBBA Misiones",
+     "fuentes": "B"
+    },
+    {
+     "id": "20.4",
+     "titulo": "Educación cristiana y enseñanza bíblica",
+     "dias": 10,
+     "enfoque": "Cómo se enseña la Biblia a niños, jóvenes, adultos y familias; pedagogía y discipulado.",
+     "pedido": "4",
+     "institutos": "IBBA Educación cristiana (DFB/EDUCRIS) · SITB Educación cristiana · SBTS Enseñanza cristiana",
+     "fuentes": "B (Enseñanza y Educación Cristiana, Niños, Jóvenes)"
+    },
+    {
+     "id": "20.5",
+     "titulo": "Método teológico",
+     "dias": 10,
+     "enfoque": "Cómo se hace teología; teología histórica y sistemática.",
+     "pedido": "4",
+     "institutos": "TMS TH795",
+     "fuentes": "B"
+    }
+   ]
+  }
+ ],
+ "total_estimado": 1974
+}

@@ -74,3 +74,11 @@ la adulta, la mayor, la sociedad, las pruebas y las mujeres de la Biblia y de la
   organismos oficiales con año y fuente. Cada afirmación lleva su fuente; un programa cotejó cifras, citas, autores y versículos.
 - **Al abrir el archivo** vuelve al último día y a la posición donde se quedó; el inicio muestra el mapa de avance.
 - Instrucciones de trabajo en `mujer/CLAUDE.md` y estado en `mujer/RETOMAR.md`.
+
+## Estudio bíblico integral (megaestudio)
+
+Abrir `megaestudio/estudio-biblico-integral.html`: un solo archivo, sin conexión. Es una biblioteca de estudios temáticos de 20 a 30 minutos por día,
+para recorrer en el orden recomendado o entrar por cualquier tema: **20 ciclos** (la Biblia, Dios, Cristo, el Espíritu, el ser humano y el pecado, la salvación,
+teología bíblica, el Reino y los reinos, la Iglesia, el carácter, la oración, la ética, la profecía, los libros, los personajes, el mundo bíblico, la historia del
+cristianismo, la fe informada, temas por descubrir y práctica ministerial), **103 series y unos 1.970 días previstos**, que se van detallando y escribiendo por etapas.
+Plan completo y su contraste con institutos bíblicos: `megaestudio/trabajo/plan/PLAN-MAESTRO.md`. Reglas de trabajo: `megaestudio/CLAUDE.md`; estado: `megaestudio/RETOMAR.md`.

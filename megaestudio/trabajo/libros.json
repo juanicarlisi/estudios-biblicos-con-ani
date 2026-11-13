@@ -1,0 +1,932 @@
+{
+ "grudem": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/04 - TEOLOGIA SISTEMATICA-WINE-GRUDEM.pdf",
+  "autor": "Wayne Grudem",
+  "obra": "Teología sistemática"
+ },
+ "macarthur_ts": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teología Sistemática - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Teología sistemática"
+ },
+ "berkhof": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Doctrina reformada - Berkhof.pdf",
+  "autor": "Louis Berkhof",
+  "obra": "Doctrina reformada"
+ },
+ "chafer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teología sistemática 1 y 2 - Lewis Sperry Chafer.pdf",
+  "autor": "Lewis Sperry Chafer",
+  "obra": "Teología sistemática"
+ },
+ "ryrie": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teologia Básica - Charles Ryrie.pdf",
+  "autor": "Charles Ryrie",
+  "obra": "Teología básica"
+ },
+ "lacueva": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Curso Práctico de Teología Bíblica - Francisco Lacueva Lafarga.pdf",
+  "autor": "Francisco Lacueva",
+  "obra": "Curso práctico de teología bíblica"
+ },
+ "sproul_ts": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Todos somos teólogos, teología sistemática - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "Todos somos teólogos"
+ },
+ "pink": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/los_atributos_de_dios_por_aw_pink.pdf",
+  "autor": "A. W. Pink",
+  "obra": "Los atributos de Dios"
+ },
+ "tozer1": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Los atributos de Dios, volumen 1 - A. W. Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Los atributos de Dios, vol. 1"
+ },
+ "tozer2": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Los Atributos de Dios, volumen 2 - A. W. Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Los atributos de Dios, vol. 2"
+ },
+ "tozer_santo": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/El conocimiento del Dios Santo - Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "El conocimiento del Dios santo"
+ },
+ "tozer_busqueda": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/003 - La Búsqueda de Dios - Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "La búsqueda de Dios"
+ },
+ "packer": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Hacia el conocimiento de Dios - J. J. Packer.pdf",
+  "autor": "J. I. Packer",
+  "obra": "Hacia el conocimiento de Dios"
+ },
+ "washer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/013 - El único Dios verdadero - Paul Washer.pdf",
+  "autor": "Paul Washer",
+  "obra": "El único Dios verdadero"
+ },
+ "owen_comunion": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/John Owen-Comunión con el Dios Trino.pdf",
+  "autor": "John Owen",
+  "obra": "Comunión con el Dios trino"
+ },
+ "soberania": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/La soberanía de Dios, quién tiene el control¿.pdf",
+  "autor": "(varios autores)",
+  "obra": "La soberanía de Dios: ¿quién tiene el control?"
+ },
+ "a_dios_por__cruz": {
+  "repo": "ref3",
+  "path": "Apologetica/10 - A Dios por el ADN, qué propone el diseño inteligente - Antonio Cruz.pdf",
+  "autor": "Antonio Cruz",
+  "obra": "A Dios por el ADN: ¿Qué propone el Diseño inteligente?"
+ },
+ "no_tengo_suficiente__geisler": {
+  "repo": "ref3",
+  "path": "Apologetica/11 - No Tengo Suficiente Fe Para Ser un Ateo - GEISLER, Norman L. y TUREK, Frank.pdf",
+  "autor": "Norman L. Geisler y Frank Turek",
+  "obra": "No tengo suficiente fe para ser un ateo"
+ },
+ "apologetica_herramientas_valiosas__geisler": {
+  "repo": "ref3",
+  "path": "Apologetica/400 - Apologética, herramientas valiosas para la defensa de la fe - Norman Geisler Ron.pdf",
+  "autor": "Norman Geisler y Ron Brooks",
+  "obra": "Apologética: herramientas valiosas para la defensa de la fe (Cuando los escépticos pregunten)"
+ },
+ "circulos_concentricos__thompson": {
+  "repo": "ref3",
+  "path": "Apologetica/460 - Círculos concéntricos.pdf",
+  "autor": "W. Oscar Thompson, hijo",
+  "obra": "Círculos concéntricos"
+ },
+ "el_caso_de__strobel": {
+  "repo": "ref3",
+  "path": "Apologetica/510 - El caso de Cristo - Lee Strobel.pdf",
+  "autor": "Lee Strobel",
+  "obra": "El caso de Cristo"
+ },
+ "disparando_contra_dios__lennox": {
+  "repo": "ref3",
+  "path": "Apologetica/520 - Disparando contra Dios.pdf",
+  "autor": "John C. Lennox",
+  "obra": "Disparando contra Dios: por qué los nuevos ateos no dan en el blanco"
+ },
+ "guia_holman_de__powell": {
+  "repo": "ref3",
+  "path": "Apologetica/Apologética Cristiana - Doug Powell.pdf",
+  "autor": "Doug Powell",
+  "obra": "Guía Holman de Apologética Cristiana: pruebas y fundamentos de la fe cristiana"
+ },
+ "como_piensan_esos__strobel": {
+  "repo": "ref3",
+  "path": "Apologetica/Como-piensan-los-incredulos-que-tanto-quiero-Lee-Strobel.pdf",
+  "autor": "Lee Strobel",
+  "obra": "Cómo piensan esos incrédulos que tanto quiero"
+ },
+ "contra_la_corriente__lennox": {
+  "repo": "ref3",
+  "path": "Apologetica/Contra la corriente, la inspiracion de daniel en una era de relativismo - John C. Lennox.pdf",
+  "autor": "John C. Lennox",
+  "obra": "Contra la corriente: la inspiración de Daniel en una era de relativismo"
+ },
+ "creer_es_tambien__stott": {
+  "repo": "ref3",
+  "path": "Apologetica/Creer es también pensar - John Stott.pdf",
+  "autor": "John Stott",
+  "obra": "Creer es también pensar"
+ },
+ "cristianismo_basico_en__stott": {
+  "repo": "ref3",
+  "path": "Apologetica/Cristianismo Basico - John-Stott.pdf",
+  "autor": "John Stott",
+  "obra": "Cristianismo básico: ¿en quién y por qué creemos?"
+ },
+ "cristianismo_y_nada__lewis": {
+  "repo": "ref3",
+  "path": "Apologetica/Cristianismo y nada más - C. S. Lewis.pdf",
+  "autor": "C. S. Lewis",
+  "obra": "Cristianismo y nada más (Mere Christianity)"
+ },
+ "darwin_no_mato__cruz": {
+  "repo": "ref3",
+  "path": "Apologetica/Darwin no mató a Dios - Antonio Cruz.pdf",
+  "autor": "Antonio Cruz",
+  "obra": "Darwin no mató a Dios"
+ },
+ "dificultades_biblicas_un__geisler": {
+  "repo": "ref3",
+  "path": "Apologetica/Dificultades bíblicas - Norman Gisler, Thomas Howe.pdf",
+  "autor": "Norman Geisler y Thomas Howe",
+  "obra": "Dificultades bíblicas: un manual popular sobre dificultades bíblicas"
+ },
+ "el_caso_de__strobel2": {
+  "repo": "ref3",
+  "path": "Apologetica/El acso de los milagros - Lee Strobel.pdf",
+  "autor": "Lee Strobel",
+  "obra": "El caso de los milagros"
+ },
+ "el_caso_de__strobel3": {
+  "repo": "ref3",
+  "path": "Apologetica/El caso de Cristo, una investigación Exhaustiva - Lee Strobel.pdf",
+  "autor": "Lee Strobel",
+  "obra": "El caso de Cristo: una investigación exhaustiva"
+ },
+ "el_caso_de__strobel4": {
+  "repo": "ref3",
+  "path": "Apologetica/El caso de la gracia - Lee Strobel.pdf",
+  "autor": "Lee Strobel",
+  "obra": "El caso de la gracia"
+ },
+ "el_caso_del__strobel": {
+  "repo": "ref3",
+  "path": "Apologetica/El caso del creador - Lee Strobel.pdf",
+  "autor": "Lee Strobel",
+  "obra": "El caso del Creador"
+ },
+ "en_defensa_de__strobel": {
+  "repo": "ref3",
+  "path": "Apologetica/En defensa de Jesús.pdf",
+  "autor": "Lee Strobel",
+  "obra": "En defensa de Jesús (antes El caso del Jesús verdadero)"
+ },
+ "es_bueno_o__mcdowell": {
+  "repo": "ref3",
+  "path": "Apologetica/Es_Bueno_O_Es_Malo_McDowell_Y_Hostetler.pdf",
+  "autor": "Josh McDowell y Bob Hostetler",
+  "obra": "¿Es bueno o es malo? (Right from Wrong)"
+ },
+ "evidencia_a_favor__habermas": {
+  "repo": "ref3",
+  "path": "Apologetica/Evidencias a favor del Jesús Histórico - Gary Habermas.pdf",
+  "autor": "Gary R. Habermas",
+  "obra": "Evidencia a favor del Jesús histórico: ¿es el Jesús de la historia el Cristo de la fe?"
+ },
+ "mero_cristianismo__lewis": {
+  "repo": "ref3",
+  "path": "Apologetica/Mero cristianismo - C. S. Lewis.pdf",
+  "autor": "C. S. Lewis",
+  "obra": "Mero cristianismo"
+ },
+ "preguntas_dificiles_respuestas__craig": {
+  "repo": "ref3",
+  "path": "Apologetica/Preguntas difíciles, respuestas reales - William Lane Craig.pdf",
+  "autor": "William Lane Craig",
+  "obra": "Preguntas difíciles, respuestas reales"
+ },
+ "puedo_confiar_en__sproul": {
+  "repo": "ref3",
+  "path": "Apologetica/Puedo confiar en la Biblia - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Puedo confiar en la Biblia?"
+ },
+ "revolucion_sexual_una__nunez": {
+  "repo": "ref3",
+  "path": "Apologetica/Revolución Sexual - Miguel Nuñez.pdf",
+  "autor": "Miguel Núñez y Cathy Scheraldi de Núñez",
+  "obra": "Revolución sexual: una exposición y un análisis médico"
+ },
+ "el_adan_historico__craig": {
+  "repo": "ref3",
+  "path": "Apologetica/William Lane Craig-El Adán Histórico.pdf",
+  "autor": "William Lane Craig",
+  "obra": "El Adán histórico (In Quest of the Historical Adam)"
+ },
+ "apocalipsis_comentario_macarthur__macarthur": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/390 - Apocalipsis - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Apocalipsis (Comentario MacArthur del Nuevo Testamento)"
+ },
+ "el_libro_de__larkin": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Apocalipsis - Clarence Larkin.pdf",
+  "autor": "Clarence Larkin",
+  "obra": "El libro de Apocalipsis: un estudio del último libro profético de la Sagrada Escritura"
+ },
+ "apocalipsis_la_consumacion__carballosa": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Apocalipsis - Evis Carballosa.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Apocalipsis: la consumación del plan eterno de Dios"
+ },
+ "comentario_biblico_mundo__cevallos": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Apocalipsis 1, 2, 3.pdf",
+  "autor": "Varios autores (editores generales: Juan Carlos Cevallos y Rubén O. Zorzoli)",
+  "obra": "Comentario Bíblico Mundo Hispano, tomo 24: 1, 2 y 3 Juan, Apocalipsis"
+ },
+ "daniel_y_el__carballosa": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Daniel y el reino mesiánico - Evis L. Carballosa.pdf",
+  "autor": "Evis L. Carballosa",
+  "obra": "Daniel y el reino mesiánico"
+ },
+ "el_don_de__grudem": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/El don de la profecía en el nuevo testamento y hoy - Wayne Grudem.pdf",
+  "autor": "Wayne A. Grudem",
+  "obra": "El don de profecía en el Nuevo Testamento y en la actualidad"
+ },
+ "entienda_la_profecia__benware": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Entienda la profecia - Paul Benware.pdf",
+  "autor": "Paul N. Benware",
+  "obra": "Entienda la profecía de los últimos tiempos"
+ },
+ "escatologia_teologia_sistematica__buswell": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Escatología - Oliver Buswell.pdf",
+  "autor": "J. Oliver Buswell, Jr.",
+  "obra": "Escatología (Teología sistemática)"
+ },
+ "escatologia_final_de__grau": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Escatología final de los tiempos - José Grau.pdf",
+  "autor": "José Grau",
+  "obra": "Escatología: final de los tiempos"
+ },
+ "sermones_tematicos_sobre__macarthur": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Escatología y profecía - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Sermones temáticos sobre escatología y profecía"
+ },
+ "eventos_del_porvenir__titulo": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Eventos del porvenir.pdf",
+  "autor": "J. Dwight Pentecost (no figura en el archivo; identificado por título y prefacio)",
+  "obra": "Eventos del porvenir"
+ },
+ "el_descanso_eterno__baxter": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/John D. Gillespie-El descanso eterno de los creyentes.pdf",
+  "autor": "John D. Gillespie (sobre la obra de Richard Baxter)",
+  "obra": "El descanso eterno de los creyentes (interpretación de El reposo eterno de los santos, de Richard Baxter)"
+ },
+ "quien_es_el__mcgee": {
+  "repo": "ref3",
+  "path": "Escatologia y Ultimos Tiempos/Quien es el anticristo - J. Vernon McGee.pdf",
+  "autor": "J. Vernon McGee",
+  "obra": "¿Quién es el Anticristo?"
+ },
+ "andando_en_el__simpson": {
+  "repo": "ref3",
+  "path": "Espiritu Santo y Dones/Andando en el Espíritu.pdf",
+  "autor": "A. B. Simpson",
+  "obra": "Andando en el Espíritu (El Espíritu Santo en la experiencia cristiana)"
+ },
+ "el_espiritu_santo__graham": {
+  "repo": "ref3",
+  "path": "Espiritu Santo y Dones/El Espíritu Santo - Billy Graham.pdf",
+  "autor": "Billy Graham",
+  "obra": "El Espíritu Santo"
+ },
+ "fuego_extrano__macarthur": {
+  "repo": "ref3",
+  "path": "Espiritu Santo y Dones/Fuego extraño - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Fuego extraño"
+ },
+ "el_espiritu_santo__owen": {
+  "repo": "ref3",
+  "path": "Espiritu Santo y Dones/John Owen-El Espíritu Santo.pdf",
+  "autor": "John Owen",
+  "obra": "El Espíritu Santo (versión abreviada de la obra de John Owen)"
+ },
+ "vida_nueva_en__lloyd_jones": {
+  "repo": "ref3",
+  "path": "Espiritu Santo y Dones/La vida en el Espíritu - Loyd Jones.pdf",
+  "autor": "D. Martyn Lloyd-Jones",
+  "obra": "Vida nueva en el Espíritu (Efesios 5:18-21)"
+ },
+ "temperamentos_controlados_por__lahaye": {
+  "repo": "ref3",
+  "path": "Espiritu Santo y Dones/Temperamentos controlados por el Espíritu - Tim LaHaye.pdf",
+  "autor": "Tim LaHaye",
+  "obra": "Temperamentos controlados por el Espíritu"
+ },
+ "el_camino_hacia__moody": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/05 - El Camino hacia Dios - Moody.pdf",
+  "autor": "D. L. Moody",
+  "obra": "El camino hacia Dios"
+ },
+ "moldeados_por_dios__piper": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/05 - John_Piper_Moldeados_por_Dios_2000,_B&H_Publishing_Group.pdf",
+  "autor": "John Piper",
+  "obra": "Moldeados por Dios: cómo pensar y vivir en harmonía con los Salmos"
+ },
+ "cuando_dios_llega__curtas": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/09 - Cuando Dios llega a Tu Trabajo.pdf",
+  "autor": "Paul M. Curtas",
+  "obra": "Cuando Dios llega a tu trabajo"
+ },
+ "la_vida_mas__tozer": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/200 - La vida más profunda - A. W. Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "La vida más profunda"
+ },
+ "coronavirus_y_cristo__piper": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/240 - Coronavirus y Cristo - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Coronavirus y Cristo"
+ },
+ "hambre_por_dios__piper": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/40 - Hambre de Dios - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Hambre por Dios: deseando a Dios por medio del ayuno y la oración"
+ },
+ "como_incrementar_nuestra__henry": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/41 - Como incrementar nuestra comunión con Dios - Matthew Henry.pdf",
+  "autor": "Matthew Henry",
+  "obra": "Cómo incrementar nuestra comunión con Dios"
+ },
+ "ardiendo_para_dios__duewel": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/410 - ARDIENDO_PARA_DIOS.pdf",
+  "autor": "Wesley L. Duewel",
+  "obra": "Ardiendo para Dios (Ablaze for God)"
+ },
+ "sed_de_dios__piper": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/45 - Sed de Dios - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Sed de Dios: meditaciones de un hedonista cristiano (Desiring God)"
+ },
+ "caminando_con_dios__keller": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/450 - Caminando con Dios a través del dolor y el sufrimiento - Timothy Keller.pdf",
+  "autor": "Timothy Keller",
+  "obra": "Caminando con Dios a través del dolor y el sufrimiento (Walking with God through Pain and Suffering)"
+ },
+ "a_solas_con__macarthur": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/A solas con Dios - John Mc Arthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "A solas con Dios: redescubriendo el poder y la pasión de la oración"
+ },
+ "aligere_su_equipaje__lucado": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Aligere_Su_Equipaje__Libro_del_Salmo_23-Max_Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Aligere su equipaje: despojémonos de las cargas que nunca debimos llevar (Traveling Light)"
+ },
+ "ama_a_dios__george": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Ama a Dios con toda tu mente - Elizabeth George.pdf",
+  "autor": "Elizabeth George",
+  "obra": "Ama a Dios con toda tu mente (Loving God with All Your Mind)"
+ },
+ "cada_dia_las__koechlin": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Cada día las escrituras - 2 Año.pdf",
+  "autor": "J. Koechlin",
+  "obra": "Cada día las Escrituras (año 2: Jueces - Ester)"
+ },
+ "cada_dia_las__koechlin2": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Cada día las escrituras - 3er año.pdf",
+  "autor": "J. Koechlin",
+  "obra": "Cada día las Escrituras (año 3: Job, Salmos, Proverbios, Isaías, Mateo, Jeremías, Marcos)"
+ },
+ "cada_dia_las__koechlin3": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Cada día las escrituras - 4 año.pdf",
+  "autor": "J. Koechlin",
+  "obra": "Cada día las Escrituras (año 4: Salmos 42-89, Ezequiel, Lucas a 2 Corintios)"
+ },
+ "en_armonia_con__stanley": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Charles Stanley-En armonía con Dios.pdf",
+  "autor": "Charles F. Stanley",
+  "obra": "En armonía con Dios (In Step With God)"
+ },
+ "con_razon_lo__lucado": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Con razón lo llaman el salvador - Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Con razón lo llaman el Salvador (No Wonder They Call Him the Savior)"
+ },
+ "controla_dios_todas__sproul": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Controla Dios todas las cosas.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Controla Dios todas las cosas? (Does God Control Everything?)"
+ },
+ "cuando_dios_susurra__lucado": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Cuando Dios susurra tu nombre- Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Cuando Dios susurra tu nombre (When God Whispers Your Name)"
+ },
+ "cuando_lo_que__dobson": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Cuando lo que Dios hace no tiene Sentido - Dr James Dobson.pdf",
+  "autor": "James Dobson",
+  "obra": "Cuando lo que Dios hace no tiene sentido (When God Doesn't Make Sense)"
+ },
+ "como_escuchar_la__stanley": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Cómo escuchar la voz de Dios - Charles Stanley.pdf",
+  "autor": "Charles Stanley",
+  "obra": "Cómo escuchar la voz de Dios (How to Listen to God)"
+ },
+ "como_pasar_el__baxter": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Cómo pasar el día con Dios.pdf",
+  "autor": "Richard Baxter",
+  "obra": "Cómo pasar el día con Dios"
+ },
+ "cada_dia_las__k_chlin": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Devocional cada día las escrituras.pdf",
+  "autor": "J. Kœchlin",
+  "obra": "Cada día las Escrituras"
+ },
+ "el_camino_del__tozer": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/El camino del poder espiritual - A.W. Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "El camino del poder espiritual"
+ },
+ "el_poder_de__snyder": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/El poder de Dios para tu vida - A. W. Tozer.pdf",
+  "autor": "A. W. Tozer (compilado por James L. Snyder)",
+  "obra": "El poder de Dios para tu vida"
+ },
+ "esperanza_inconmovible__lucado": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Esperanza Inconmovible - Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Esperanza inconmovible"
+ },
+ "gracia_venidera_la__piper": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Gracia venidera - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Gracia venidera: la búsqueda de la santidad en la vida y el ministerio"
+ },
+ "la_sonrisa_escondida__piper": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/La sonrisa escondida de Dios - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "La sonrisa escondida de Dios"
+ },
+ "la_voluntad_de__macarthur": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/La voluntad de Dios - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "La voluntad de Dios"
+ },
+ "lampara_es_tu__identificado": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Lámpara es tu palabra.pdf",
+  "autor": "Ronald Hanko (traducción privada de un traductor no identificado)",
+  "obra": "Lámpara es tu palabra (Tu palabra es verdad)"
+ },
+ "mas_vivo_que__piper": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Más vivo que nunca, qué sucede cuando nacemos de nuevo - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "Más vivo que nunca: qué sucede cuando nacemos de nuevo"
+ },
+ "para_estos_tiempos__lucado": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Para estos tiempos difíciles, mire al cielo - Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Para estos tiempos difíciles, mire al cielo"
+ },
+ "sendas_que_conducen__tozer": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Sendas que conducen al poder - Aiden Wilson Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Sendas que conducen al poder"
+ },
+ "versiculos_que_cambian__lutzer": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/Versículos que cambian vidas - Erwin y Rebecca Lutzer.pdf",
+  "autor": "Erwin W. Lutzer y Rebecca Lutzer",
+  "obra": "Versículos que cambian vidas"
+ },
+ "la_hermosura_de__watson": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/thomas-watson-la-hermosura-de-cristo.pdf",
+  "autor": "Thomas Watson",
+  "obra": "La hermosura de Cristo"
+ },
+ "un_ano_de__tranchini": {
+  "repo": "ref3",
+  "path": "Relacion con Dios/toaz.info-un-ao-de-cambios-un-devocional-centrado-en-disfrutar-a-dios-nicolas-pr_97807bcdbbde10ad6a6209e2b8475c6d.pdf",
+  "autor": "Nicolás Emilio Tranchini",
+  "obra": "Un año de cambios: un devocional centrado en disfrutar a Dios"
+ },
+ "los_atributos_de__tozer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/002 - A. W. Tozer - Los Atributos de Dios Vol. 2.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Los atributos de Dios, volumen dos (con guía de estudio)"
+ },
+ "los_atributos_de__tozer2": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/002 - A. W. Tozer - Los Atributos de Dios vol. 1.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "Los atributos de Dios, volumen uno (con guía de estudio)"
+ },
+ "una_teologia_de__pollard": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/014 - Una teología de la familia - Jeff Pollard y Scott T. Brown.pdf",
+  "autor": "Jeff Pollard y Scott T. Brown (editores)",
+  "obra": "Una teología de la familia: cinco siglos de sabiduría bíblica para la vida familiar"
+ },
+ "una_teologia_puritana__beeke": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/03 - Una Teologia Puritana - Joel Beeke.pdf",
+  "autor": "Joel R. Beeke y Mark Jones",
+  "obra": "Una teología puritana: doctrina para la vida"
+ },
+ "basado_en_la__sproul": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/440 - Basado en la gracia - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "Basado en la gracia"
+ },
+ "the_reign_of__booth": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/AB_Reign_of_Grace.pdf",
+  "autor": "Abraham Booth",
+  "obra": "The Reign of Grace"
+ },
+ "angeleologia_volumen_2__chafer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Angeología - Volumen 2.pdf",
+  "autor": "Lewis Sperry Chafer",
+  "obra": "Angeleología (volumen 2)"
+ },
+ "el_caracter_y__gossack": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Carácter y atributos de Dios - Julie Gossack.pdf",
+  "autor": "Julie Gossack",
+  "obra": "El carácter y atributos de Dios (de Kardiología 101: cómo guardar tu corazón)"
+ },
+ "cristologia_volumen_v__serie": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Cristología, volumen 5.pdf",
+  "autor": "Lewis Sperry Chafer (por la serie)",
+  "obra": "Cristología, volumen V (El Cristo pre-encarnado, Hijo de Dios)"
+ },
+ "curso_de_formacion__lacuela": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Curso de formación teológica evangélica, doctrinas de la gracia - Francisco Lacuela.pdf",
+  "autor": "Francisco Lacueva (el archivo lo escribe \"Lacuela\")",
+  "obra": "Curso de formación teológica evangélica, Tomo 5: Doctrinas de la gracia"
+ },
+ "diccionario_de_teologia__valle": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Diccionario de teología contemporánea.pdf",
+  "autor": "Bernard Ramm (versión de Roger Velásquez Valle)",
+  "obra": "Diccionario de teología contemporánea"
+ },
+ "diferencias_doctrinales_entre__macarthur": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Diferencias doctrinales entre los carismáticos y los no carismáticos - John MacArthur.pdf",
+  "autor": "John MacArthur",
+  "obra": "Diferencias doctrinales entre los carismáticos y los no carismáticos (extracto de Charismatic Chaos)"
+ },
+ "sumario_de_doctrina__berkhof": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Doctrina Cristiana.pdf",
+  "autor": "Louis Berkhof",
+  "obra": "Sumario de doctrina cristiana"
+ },
+ "una_formulacion_y__vromme": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Doctrina de la trinidad.pdf",
+  "autor": "William Lane Craig (traducción de Leendert Vromme)",
+  "obra": "Una formulación y defensa de la doctrina de la Trinidad"
+ },
+ "el_precio_de__bonhoeffer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/EL_precio_de_la_gracia_Dietrich_Bonhoeff.pdf",
+  "autor": "Dietrich Bonhoeffer",
+  "obra": "El precio de la gracia (El seguimiento / Nachfolge)"
+ },
+ "el_angustioso_problema__piper": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/El angustioso problema de la seguridad de Salvación - John Piper.pdf",
+  "autor": "John Piper",
+  "obra": "El angustioso problema de la seguridad de la salvación"
+ },
+ "el_bautismo_lo__masters": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/El bautismo y lo que representa - Peter Masters.pdf",
+  "autor": "Peter M. Masters",
+  "obra": "El bautismo: lo que representa y su propósito"
+ },
+ "el_bautismo_una__spurgeon": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/El bautismo, una sepultura - Charles Spurgeon.pdf",
+  "autor": "Charles H. Spurgeon",
+  "obra": "El bautismo: una sepultura (sermón n.º 1627)"
+ },
+ "el_misterio_de__renihan": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/El misterio de Cristo, su Pacto y su Reino.pdf",
+  "autor": "Samuel Renihan",
+  "obra": "El misterio de Cristo, su pacto y su reino (The Mystery of Christ, his Covenant and his Kingdom)"
+ },
+ "fundamentos_de_la__church": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Fundamentos de la Fe -.pdf",
+  "autor": "Grace Community Church",
+  "obra": "Fundamentos de la Fe"
+ },
+ "gracia__lucado": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Gracia - Max Lucado.pdf",
+  "autor": "Max Lucado",
+  "obra": "Gracia"
+ },
+ "la_verdad_permanece__macarthur": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/John MacArthur - LA VERDAD QUE PERMANECE.pdf",
+  "autor": "John MacArthur",
+  "obra": "La verdad permanece: sermones significativos de John MacArthur (1969-2009)"
+ },
+ "john_owen_acerca__owen": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/John Owen Acerca de las Escrituras – Jeffrey T. Riddle-1.pdf",
+  "autor": "Jeffrey T. Riddle (resumen de obras de John Owen)",
+  "obra": "John Owen acerca de las Escrituras: autoridad, inspiración, preservación"
+ },
+ "sobre_el_espiritu__owen": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/John Owen-Pneumatología Vol 2.pdf",
+  "autor": "John Owen",
+  "obra": "Sobre el Espíritu Santo (Neumatología), Parte II, libros VI a IX"
+ },
+ "justificacion_y_regeneracion__leiter": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Justificación, regeneración.pdf",
+  "autor": "Charles Leiter",
+  "obra": "Justificación y Regeneración"
+ },
+ "la_cruz_de__stott": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/La Cruz de Cristo - John Stott.pdf",
+  "autor": "John R. W. Stott",
+  "obra": "La Cruz de Cristo"
+ },
+ "doctrina_biblica_sobre__alonso": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/La Doctrina Bíblica - Horacio Alonso.pdf",
+  "autor": "Horacio A. Alonso",
+  "obra": "Doctrina bíblica sobre la Cruz: significado de la muerte de Cristo según los vocablos bíblicos"
+ },
+ "la_redencion_consumada__murray": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/La Redención Consumada y Aplicada - John Murray.pdf",
+  "autor": "John Murray",
+  "obra": "La redención consumada y aplicada"
+ },
+ "la_ley_de__nunez": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/La ley de la libertad, los diez mandamientos aplicados para la vida del creyente - Miguel Nuñez.pdf",
+  "autor": "Miguel Núñez",
+  "obra": "La ley de la libertad: Los Diez Mandamientos, aplicaciones para la vida del creyente"
+ },
+ "la_libertad_de__edwards": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/La libertad de la voluntad - Jonathan Edwards.pdf",
+  "autor": "Jonathan Edwards",
+  "obra": "La libertad de la voluntad"
+ },
+ "la_muerte_de__owen": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/La_Muerte_de_la_Muerte_en_la_muerte_de_Cristo_John_Owen_1.pdf",
+  "autor": "John Owen",
+  "obra": "La muerte de la muerte en la muerte de Cristo"
+ },
+ "lo_llamo_herejia__tozer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Lo llamo Herejía - A. W. Tozer.pdf",
+  "autor": "A. W. Tozer",
+  "obra": "¡Lo llamo herejía!"
+ },
+ "los_atributos_de__institute": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Los atributos de Dios - Pink.pdf",
+  "autor": "A. W. Pink (obra base); guía del Mount Zion Bible Institute",
+  "obra": "Los atributos de Dios: guía de estudio (curso ATRs)"
+ },
+ "neumatologia_volumen_vi__serie": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Neumatología - Volumen 6.pdf",
+  "autor": "Lewis Sperry Chafer (por la serie)",
+  "obra": "Neumatología (Volumen VI de una teología sistemática)"
+ },
+ "la_gloria_de__owen": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Owen_Gloria_Cristo.pdf",
+  "autor": "John Owen",
+  "obra": "La gloria de Cristo"
+ },
+ "portavoz_de_la__plumer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Portavoz de la gracia - El arrepentimiento.pdf",
+  "autor": "varios (Plumer, Ryle, Watson, J. Murray, Spurgeon, J. Gill, A. W. Pink, S. Davies, E. Payson)",
+  "obra": "Portavoz de la Gracia n.º 10: Arrepentimiento"
+ },
+ "puedo_estar_seguro__sproul": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Puedo estar seguro de que soy Salvo - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Puedo estar seguro de que soy salvo?"
+ },
+ "quien_es_jesus__sproul": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Quién es Jesús - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Quién es Jesús?"
+ },
+ "que_es_el__sproul": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Qué es el Bautismo - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Qué es el Bautismo?"
+ },
+ "que_es_la__sproul": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Qué es la fe - J. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Qué es la fe?"
+ },
+ "que_es_la__sproul2": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Qué es la trinidad.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Qué es la Trinidad?"
+ },
+ "que_puedo_hacer__sproul": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Qué puedo hacer con mi culpa - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Qué puedo hacer con mi culpa?"
+ },
+ "que_significa_nacer__sproul": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Qué significa nacer de nuevo - R. C. Sproul.pdf",
+  "autor": "R. C. Sproul",
+  "obra": "¿Qué significa nacer de nuevo?"
+ },
+ "la_devocion_trinitaria__ferguson": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Sinclair Ferguson-La devoción trinitaria de John Owen.pdf",
+  "autor": "Sinclair B. Ferguson",
+  "obra": "La devoción trinitaria de John Owen"
+ },
+ "soteriologia_1_una__coria": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Soteriología 1 - Una obra incomparable.pdf",
+  "autor": "David Plaster (materiales originales); adaptación de Eduardo B. Coria",
+  "obra": "Soteriología 1: Una obra incomparable (Curso de Doctrina, manual del maestro)"
+ },
+ "soteriologia_volumen_iii__serie": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Soteriología.pdf",
+  "autor": "Lewis Sperry Chafer (por la serie)",
+  "obra": "Soteriología (Volumen III)"
+ },
+ "teologia_sistematica_manual__berkhof": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teología Sistemática - Berkhof.PDF",
+  "autor": "Roger L. Smalling (curso basado en Louis Berkhof)",
+  "obra": "Teología sistemática (manual de estudios basado en Berkhof)"
+ },
+ "teologia_sistematica_tomo__chafer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teología Sistemática, tomo 2.pdf",
+  "autor": "Lewis Sperry Chafer",
+  "obra": "Teología sistemática, tomo II (Escatología; incluye índice del volumen de Eclesiología)"
+ },
+ "teologia_sistematica_jesucristo__buswell": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teología sistemática, Jesucristo y el plan de salvación.pdf",
+  "autor": "J. Oliver Buswell, Jr.",
+  "obra": "Teología sistemática: Jesucristo y el plan de salvación"
+ },
+ "teologia_sistematica_tomo__chafer2": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teología sistemática, Tomo 1.pdf",
+  "autor": "Lewis Sperry Chafer",
+  "obra": "Teología sistemática, tomo 1 (cuarta edición en español)"
+ },
+ "teologia_sistematica_una__grudem": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Teología sistemática.pdf",
+  "autor": "Wayne Grudem",
+  "obra": "Teología sistemática: una introducción a la doctrina bíblica"
+ },
+ "vida_por_su__packer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/Vida por su Muerte – John Owen.pdf",
+  "autor": "John Owen (versión abreviada de H. J. Appleby; prólogo de J. I. Packer)",
+  "obra": "Vida por su muerte (versión abreviada de «La muerte de la muerte en la muerte de Cristo»)"
+ },
+ "la_naturaleza_y__owen": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/apostasc3ada-john-owen.pdf",
+  "autor": "John Owen",
+  "obra": "La naturaleza y las causas de la apostasía del evangelio (versión simplificada y abreviada)"
+ },
+ "el_unico_dios__washer": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/el-c3banico-dios-verdadero-de-paul-washer.pdf",
+  "autor": "Paul David Washer",
+  "obra": "El Único Dios Verdadero: un estudio bíblico de la doctrina de Dios"
+ },
+ "el_reino_de__booth": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/el-reino-de-la-gracia-desde-su-comienzo-hasta-su-consumacic3b3n1.pdf",
+  "autor": "Abraham Booth",
+  "obra": "El Reino de la Gracia (Desde su comienzo hasta su consumación)"
+ },
+ "la_belleza_de__watson": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/thomas-watson-la-belleza-de-la-gracia.pdf",
+  "autor": "Thomas Watson",
+  "obra": "La Belleza de la Gracia (The Beauty of Grace)"
+ },
+ "la_cena_del__watson": {
+  "repo": "ref3",
+  "path": "Teologia Sistematica y Doctrina/thomas-watson-la-cena-del-senor.pdf",
+  "autor": "Thomas Watson",
+  "obra": "La Cena del Señor"
+ }
+}

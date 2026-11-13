@@ -14,6 +14,7 @@ import json, os, re, sys, glob, unicodedata
 AQUI = os.path.dirname(os.path.abspath(__file__)); V = os.path.abspath(os.path.join(AQUI, '..'))
 sys.path.insert(0, AQUI)
 from rvr import normalizar, capitulo, LIBROS  # noqa: E402
+from lemas import grafia_valida  # noqa: E402
 PAGS = os.environ.get('MEGA_TXT', '/home/user/lib/pages')
 LIB = json.load(open(f'{V}/libros.json'))
 _cache = {}
@@ -98,7 +99,6 @@ def verificar(n):
         # autores nombrados: se compara por apellido (el apellido del autor de algún libro citado, o que aparezca en la página citada)
         ap_citados = set()
         for i2, _ in textos:
-            if LIB[i2]['repo'] == 'web': continue
             for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', LIB[i2]['autor'] or '')):
                 w = norm(a).split()
                 if w: ap_citados.add(w[-1])
@@ -110,6 +110,8 @@ def verificar(n):
                 f(ruta, 'autores', f'nombra a «{ap}» sin citar un libro suyo ni figurar en las páginas citadas')
         for m in RE_REF.finditer(txt):
             refs_dia.add(m.group(0))
+    for w in d.get('palabras', []):
+        if w.get('original') and not grafia_valida(w['original']): f('.palabras', 'idioma', f"grafía no reconocida como lema de Strong: {w['original']} ({w.get('translit', '')}); revisarla o quitarla")
     for v in d.get('versiculos', []): refs_dia.add(v['ref'])
     for c in d.get('conexiones', []): refs_dia.add(c['ref'])
     # biblia: existencia + texto de capítulos

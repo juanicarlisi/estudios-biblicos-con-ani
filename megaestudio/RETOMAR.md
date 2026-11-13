@@ -1,5 +1,11 @@
 # Retomar el megaestudio
 
+## Para retomar en una sesión nueva (pausa del 13-nov-2026, al terminar el ciclo 1)
+1. `bash megaestudio/trabajo/scripts/preparar_entorno.sh` recrea todo lo que no está en el repo: baja los libros (`libros-referencia3`, `libros-referencia4`, `biblioteca-estudios-biblicos`), extrae su texto por página, vuelve a bajar las fuentes web registradas y trae los diccionarios (Strong, texto hebreo y griego) para verificar palabras originales. Solo se probó por separado la bajada de fuentes web; el resto reproduce lo que se hizo a mano en esta sesión.
+2. Comprobar: `python3 megaestudio/trabajo/scripts/verificar.py $(seq 1 54)` debe dar 54 OK. Si una fuente web cambió desde su fecha de consulta, aquí aparecerá.
+3. Seguir con el ciclo 2: detallar sus series en `trabajo/plan/plan.json` (solo agregar al final), escribir las fichas de encargo (modelo: `plan/specs_ciclo1.py`) y lanzar tandas de 8 a 10 redactores (`GUIA-REDACCION.md`).
+4. OCR: el texto de los libros escaneados no se conserva entre sesiones; correr `scripts/ocr.py <id>` para los que se necesiten (ver lista de «texto escaso» al extraer con `textos.py`).
+
 ## Estado (nov-2026)
 - **Ciclo 1 «La Biblia: la Palabra de Dios y cómo leerla» terminado: 54 días escritos y verificados** (`python3 trabajo/scripts/verificar.py $(seq 1 54)` → 54/54 OK): series 1.1 (revelación, inspiración, inerrancia, suficiencia, autoridad), 1.2 (canon, manuscritos, traducciones), 1.3 (hermenéutica y estudio inductivo), 1.4 (hebreo, arameo, griego, léxicos, palabras clave) y 1.5 (panorama de la redención).
 - Plan maestro: 20 ciclos, 103 series, ≈1.974 días (`trabajo/plan/PLAN-MAESTRO.md`). Solo el ciclo 1 está detallado día por día; el resto se detalla por etapas (`plan/plan.json` solo crece al final; ids fijos).

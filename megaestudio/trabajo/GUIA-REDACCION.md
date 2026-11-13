@@ -15,8 +15,18 @@ Todo se escribe en español rioplatense, cálido y claro, hablándole al lector 
 9. **Cristo:** en cada día, `cristo` muestra cómo el tema se relaciona con Jesús o el Antiguo Testamento lo anticipa; solo lo que las fuentes o el propio texto bíblico establecen, sin alegorías forzadas. Se distingue lo explícito en el NT de lo que es patrón o tipo.
 10. Cada día se apoya en **al menos cuatro libros distintos**.
 
+## Fuentes web (ids `web_*`)
+Están registradas en `libros.json` con `repo: "web"` (institución, título, URL, fecha de consulta). Se citan como `web_xxx#N`, donde N es la **sección** (≈3.500 caracteres) que figura en la marca `[[web_xxx#N]]` de `insumo.py`. El lector verá la institución, la sección y el enlace. Lista y temas en `plan/fuentes_ciclo1.md`. Valen las mismas reglas que para los libros (resumir con palabras propias, citas literales solo breves y exactas, cifras solo si están en las páginas citadas). Si la fuente está en inglés, se resume en español y no se transcribe en inglés. Nombrá la institución o el autor en la prosa cuando atribuyas algo («según la Coalición por el Evangelio…»).
+Si te falta una fuente web que realmente necesitás, podés agregarla con `python3 scripts/web.py <id> <url> "<título>" "<autor o institución>"` (solo sitios institucionales o académicos serios; nunca Wikipedia ni blogs); verificá que la sección 1 tenga el contenido esperado.
+
+## Lo que no se hace (aprendido en el primer sprint)
+- No esquivar al verificador cambiando el texto para que no «vea» una advertencia (por ejemplo, no escribir «Wayne» en vez de «Grudem» ni «la primera fuente»): si una advertencia parece un falso positivo, se deja el texto natural y se informa en la respuesta final.
+- No pasarse de largo: apuntar a 2.000–2.800 palabras; el verificador rechaza más de 3.300.
+- No citar páginas que no se leyeron. No afirmar cifras que no estén en las páginas citadas.
+- Encargo del día: leer `plan/specs/dia_NNN.md` (qué cubrir, pasajes, versículos y pistas de búsqueda).
+
 ## Herramientas (desde `megaestudio/trabajo/scripts/`)
-- `grep -i "palabra" ../libros.json` → ids de libros disponibles (autor y obra).
+- `grep -i "palabra" ../libros.json` → ids de libros y fuentes web disponibles (autor y obra). Hay ~840 fuentes: buscá por autor, título o tema.
 - `python3 buscar.py "regex" id1 id2 … --top 8 --ver` → páginas más densas en esa búsqueda, con extracto.
 - `python3 insumo.py spec.json` → texto con marcas `[[id#pág]]`; `spec = {"lecturas": {"id": [[desde, hasta]]}}` (leer pocas páginas por vez, bien elegidas).
 - `python3 verificar.py N` → controla fuentes, citas, comillas, versículos, cifras y forma. **Hay que dejarlo en OK.**

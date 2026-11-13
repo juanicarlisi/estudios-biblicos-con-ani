@@ -82,11 +82,12 @@ def verificar(n):
         # autores nombrados: se compara por apellido (el apellido del autor de algún libro citado, o que aparezca en la página citada)
         ap_citados = set()
         for i2, _ in textos:
+            if LIB[i2]['repo'] == 'web': continue
             for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', LIB[i2]['autor'] or '')):
                 w = norm(a).split()
                 if w: ap_citados.add(w[-1])
         ntxt = norm(txt)
-        for ap in sorted({norm(a).split()[-1] for b in LIB.values() for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', b['autor'] or '')) if norm(a).split()} - {'varios', 'autores', 'editores', 'serie'}):
+        for ap in sorted({norm(a).split()[-1] for b in LIB.values() if b['repo'] != 'web' for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', b['autor'] or '')) if norm(a).split()} - {'varios', 'autores', 'editores', 'serie'}):
             if len(ap) > 4 and ap not in ap_citados and re.search(rf'\b{ap}\b', ntxt) and not re.search(rf'\b{ap}\b', base):
                 f(ruta, 'autores', f'nombra a «{ap}» sin citar un libro suyo ni figurar en las páginas citadas')
         for m in RE_REF.finditer(txt):

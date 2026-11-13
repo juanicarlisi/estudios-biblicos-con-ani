@@ -2,130 +2,454 @@
   "dia": 27,
   "titulo": "Cómo leer los Salmos: poesía, oración y Palabra",
   "bajada": "Los Salmos son poemas hebreos, oraciones y Palabra de Dios al mismo tiempo. ¿Cómo se leen el paralelismo, los géneros y hasta los salmos de maldición, con los Salmos 23, 51 y 137 como ejemplo?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Salmo 23; Salmo 51", "porque": "Dos oraciones de David, una de confianza tranquila y otra de quebranto, muestran de entrada que los Salmos cubren toda la vida."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Salmo 23; Salmo 51",
+    "porque": "Dos oraciones de David, una de confianza tranquila y otra de quebranto, muestran de entrada que los Salmos cubren toda la vida."
+  },
   "versiculos": [
-    {"ref": "Salmo 23:1", "porque": "La confianza más sencilla del libro, dicha en una sola línea."},
-    {"ref": "Salmo 51:10", "porque": "La súplica de quien sabe que no le basta que le perdonen: necesita un corazón nuevo."}
+    {
+      "ref": "Salmo 23:1",
+      "porque": "La confianza más sencilla del libro, dicha en una sola línea."
+    },
+    {
+      "ref": "Salmo 51:10",
+      "porque": "La súplica de quien sabe que no le basta que le perdonen: necesita un corazón nuevo."
+    }
   ],
   "entrada": {
     "texto": "Los Salmos son el libro de la Biblia donde más aparecemos nosotros: hay llanto, enojo, miedo, alegría y silencio. Por eso mismo se leen mal con facilidad: como un manual de doctrina, como frases sueltas para pegar en la pared, o con vergüenza ante lo que dicen algunos de ellos.\n\nHoy aprendemos a leerlos como lo que son: poesía hebrea, oración y Palabra de Dios a la vez. Y lo hacemos con tres salmos de ejemplo, el 23, el 51 y el 137, que son muy distintos entre sí.",
-    "fuentes": ["moldeados_por_dios__piper#6", "bosquejos_expositivos_de__wiersbe#141"]
+    "fuentes": [
+      "moldeados_por_dios__piper#6",
+      "bosquejos_expositivos_de__wiersbe#141"
+    ]
   },
   "apartados": [
     {
       "titulo": "Un poema, una oración y la Palabra de Dios",
       "parrafos": [
-        {"texto": "Piper dice que hay tres cosas que conviene saber de los Salmos: son didácticos, son poemas y son divinos. Enseñan sobre Dios, sobre la naturaleza humana y sobre cómo vivir; pero son poemas, escritos para leerse o cantarse, y la poesía busca mover los afectos. Por eso no alcanza con meditar en ellos: también hay que sentirlos, y quien los lee solo por la doctrina, sostiene Piper, no los está leyendo bien. La gama de emociones es enorme: soledad, miedo, dolor, quebranto (Salmo 51:17), júbilo, paz (Salmo 4:8), esperanza, gratitud.", "fuentes": ["moldeados_por_dios__piper#6", "moldeados_por_dios__piper#7", "moldeados_por_dios__piper#8", "moldeados_por_dios__piper#9"]},
-        {"texto": "Wiersbe los describe como cantos y poemas muy personales que los judíos usaron tanto para la adoración colectiva como para la devoción privada, y que enseñan a tener una relación con Dios diciéndole las aflicciones y necesidades y meditando en su grandeza. El Comentario Beacon recoge una definición de Kirkpatrick: los Salmos son la voz de la oración en todas sus entonaciones (confesión, petición, intercesión, meditación, acción de gracias, alabanza), y muestran que la piedad del Antiguo Testamento era una fe viva y personal, no un sistema de ritos externos.", "fuentes": ["bosquejos_expositivos_de__wiersbe#141", "comentario_biblico_beacon__chapman#140"]},
-        {"texto": "Pero no son solo palabras humanas. Piper recuerda que Jesús los trató como Escritura: dijo que David habló por el Espíritu Santo al citar el Salmo 110:1 (Marcos 12:36), declaró que la Escritura no puede ser quebrantada al citar el Salmo 82:6 (Juan 10:35) y citó el Salmo 41:9 «para que se cumpla la Escritura» (Juan 13:18). Scott añade que los salmos expresan la adoración del pueblo en una forma que Dios quiso y aprobó; por eso son parte verdadera de su Palabra y contienen grandes revelaciones sobre Dios, el ser humano y el camino de salvación.", "fuentes": ["moldeados_por_dios__piper#10", "el_plan_de__scott#516"]}
+        {
+          "texto": "Piper dice que hay tres cosas que conviene saber de los Salmos: son didácticos, son poemas y son divinos. Enseñan sobre Dios, sobre la naturaleza humana y sobre cómo vivir; pero son poemas, escritos para leerse o cantarse, y la poesía busca mover los afectos. Por eso no alcanza con meditar en ellos: también hay que sentirlos, y quien los lee solo por la doctrina, sostiene Piper, no los está leyendo bien. La gama de emociones es enorme: soledad, miedo, dolor, quebranto (Salmo 51:17), júbilo, paz (Salmo 4:8), esperanza, gratitud.",
+          "fuentes": [
+            "moldeados_por_dios__piper#6",
+            "moldeados_por_dios__piper#7",
+            "moldeados_por_dios__piper#8",
+            "moldeados_por_dios__piper#9"
+          ]
+        },
+        {
+          "texto": "Wiersbe los describe como cantos y poemas muy personales, usados tanto para la adoración colectiva como para la devoción privada, que enseñan a tener una relación con Dios diciéndole las aflicciones y necesidades y meditando en su grandeza. El Comentario Beacon recoge una definición de Kirkpatrick: los Salmos son la voz de la oración en todas sus entonaciones (confesión, petición, acción de gracias, alabanza) y muestran que la piedad del Antiguo Testamento era una fe viva y personal, no un sistema de ritos externos.",
+          "fuentes": [
+            "bosquejos_expositivos_de__wiersbe#141",
+            "comentario_biblico_beacon__chapman#140"
+          ]
+        },
+        {
+          "texto": "Pero no son solo palabras humanas. Piper recuerda que Jesús los trató como Escritura: dijo que David habló por el Espíritu Santo al citar el Salmo 110:1 (Marcos 12:36), declaró que la Escritura no puede ser quebrantada al citar el Salmo 82:6 (Juan 10:35) y citó el Salmo 41:9 «para que se cumpla la Escritura» (Juan 13:18). Scott añade que los salmos expresan la adoración del pueblo en una forma que Dios quiso y aprobó; por eso son parte verdadera de su Palabra y contienen grandes revelaciones sobre Dios, el ser humano y el camino de salvación.",
+          "fuentes": [
+            "moldeados_por_dios__piper#10",
+            "el_plan_de__scott#516"
+          ]
+        }
       ],
-      "destacado": {"texto": "El Salmo es oración que subimos a Dios y Palabra que Dios nos da: leerlo bien es hacer las dos cosas a la vez.", "fuentes": ["moldeados_por_dios__piper#10", "el_plan_de__scott#516"]}
+      "destacado": {
+        "texto": "El Salmo es oración que subimos a Dios y Palabra que Dios nos da: leerlo bien es hacer las dos cosas a la vez.",
+        "fuentes": [
+          "moldeados_por_dios__piper#10",
+          "el_plan_de__scott#516"
+        ]
+      }
     },
     {
       "titulo": "El paralelismo: la poesía hebrea piensa en pares",
       "parrafos": [
-        {"texto": "Wiersbe explica que la poesía occidental suele basarse en la rima, pero la oriental se basa en el paralelismo: la relación de un verso con el siguiente. Beynon y Sach lo muestran con el Salmo 24:1-2: «la tierra» equivale a «el mundo», y haberla fundado sobre los mares equivale a haberla asentado sobre los ríos. Se dice dos veces lo mismo con palabras distintas.", "fuentes": ["bosquejos_expositivos_de__wiersbe#141", "cava_mas_profundo__beynon#70"]},
-        {"texto": "Wiersbe distingue tres clases. En el sinónimo, el segundo verso varía el primero (Salmo 15:1: quién habitará en tu tabernáculo, quién morará en tu monte santo). En el antitético, los versos se contrastan (Salmo 37:9: los malignos serán destruidos, pero los que esperan en Jehová heredarán la tierra). En el sintético, cada verso suma algo al anterior (Salmo 19:8-9). MacArthur, en su Biblia de estudio, agrega el climático, donde la segunda línea retoma una palabra y la amplía en forma escalonada (Salmo 29:1-2), y el quiástico, con el orden A-B-B'-A'. Beynon da como ejemplo de quiasmo el Salmo 124:4-5, donde el «nos» queda rodeado por el torrente y las aguas. Los nombres varían de un autor a otro; lo que importa es mirar cómo se relacionan las líneas.", "fuentes": ["bosquejos_expositivos_de__wiersbe#141", "biblia_de_estudio__autor#998", "biblia_de_estudio__autor#999", "cava_mas_profundo__beynon#71"]},
-        {"texto": "El paralelismo también ayuda a entender. Beynon observa que si no captamos la primera línea, la segunda nos da otra oportunidad: en Isaías 55:6, «buscad a Jehová» se aclara con el «llamadle» siguiente, es decir, buscar a Dios es invocarlo en oración. Y la herramienta sirve fuera de la poesía: en Juan 6:54, «comer» la carne de Jesús y «beber» su sangre es paralelo de «ver al Hijo y creer en él» de Juan 6:40.", "fuentes": ["cava_mas_profundo__beynon#71", "cava_mas_profundo__beynon#72"]},
-        {"texto": "Otro recurso es el acróstico. MacArthur cuenta como acrósticos, completos o incompletos, los Salmos 9, 10, 25, 34, 37, 111, 112, 119 y 145: en el hebreo, cada verso o sección empieza con una consonante distinta, en orden, hasta cubrir las veintidós del alfabeto. Servía para memorizar y para indicar que el tema se había recorrido de la primera letra a la última. Beacon agrega, a propósito del Salmo 25, que estos salmos suelen ser una serie de dichos relativamente independientes: conviene no exigirles un hilo argumental riguroso.", "fuentes": ["biblia_de_estudio__autor#999", "comentario_biblico_beacon__chapman#226"]},
-        {"texto": "Las imágenes también se leen por familias. MacArthur reúne las figuras con que los salmos llaman a Dios: escudo (3:3), roca (18:2), rey (5:2), pastor (23:1), refugio (46:1), entre otras. Cada una condensa un aspecto de su cuidado, y por eso conviene preguntarse qué hace esa figura en el contexto del salmo.", "fuentes": ["biblia_de_estudio__autor#1034"]}
+        {
+          "texto": "Wiersbe explica que la poesía occidental suele basarse en la rima, pero la oriental se basa en el paralelismo: la relación de un verso con el siguiente. Beynon y Sach lo muestran con el Salmo 24:1-2: «la tierra» equivale a «el mundo», y haberla fundado sobre los mares equivale a haberla asentado sobre los ríos. Se dice dos veces lo mismo con palabras distintas.",
+          "fuentes": [
+            "bosquejos_expositivos_de__wiersbe#141",
+            "cava_mas_profundo__beynon#70"
+          ]
+        },
+        {
+          "texto": "Wiersbe distingue tres clases. En el sinónimo, el segundo verso varía el primero (Salmo 15:1: quién habitará en tu tabernáculo, quién morará en tu monte santo). En el antitético, los versos se contrastan (Salmo 37:9: los malignos serán destruidos, pero los que esperan en Jehová heredarán la tierra). En el sintético, cada verso suma algo al anterior (Salmo 19:8-9). MacArthur agrega el climático, donde la segunda línea retoma una palabra y la amplía en escalones (Salmo 29:1-2), y el quiástico, con el orden A-B-B'-A'; Beynon da como ejemplo el Salmo 124:4-5. Los nombres varían de un autor a otro; lo que importa es mirar cómo se relacionan las líneas.",
+          "fuentes": [
+            "bosquejos_expositivos_de__wiersbe#141",
+            "biblia_de_estudio__autor#998",
+            "biblia_de_estudio__autor#999",
+            "cava_mas_profundo__beynon#71"
+          ]
+        },
+        {
+          "texto": "El paralelismo también ayuda a entender. Beynon observa que si no captamos la primera línea, la segunda nos da otra oportunidad: en Isaías 55:6, «buscad a Jehová» se aclara con el «llamadle» siguiente, es decir, buscar a Dios es invocarlo en oración. Y la herramienta sirve fuera de la poesía: en Juan 6:54, comer la carne de Jesús y beber su sangre es paralelo de ver al Hijo y creer en él, de Juan 6:40.",
+          "fuentes": [
+            "cava_mas_profundo__beynon#71",
+            "cava_mas_profundo__beynon#72"
+          ]
+        },
+        {
+          "texto": "Otro recurso es el acróstico. MacArthur cuenta como acrósticos, completos o incompletos, los Salmos 9, 10, 25, 34, 37, 111, 112, 119 y 145: en el hebreo cada verso o sección empieza con una consonante distinta, en orden, hasta cubrir las veintidós del alfabeto. Servía para memorizar y para indicar que el tema se había recorrido de la primera letra a la última. Beacon agrega, sobre el Salmo 25, que estos salmos suelen ser dichos relativamente independientes: conviene no exigirles un hilo argumental riguroso.",
+          "fuentes": [
+            "biblia_de_estudio__autor#999",
+            "comentario_biblico_beacon__chapman#226"
+          ]
+        },
+        {
+          "texto": "Las imágenes se leen por familias. MacArthur reúne las figuras con que los salmos nombran a Dios: escudo (3:3), roca (18:2), rey (5:2), pastor (23:1), refugio (46:1).",
+          "fuentes": [
+            "biblia_de_estudio__autor#1034"
+          ]
+        }
       ]
     },
     {
       "titulo": "Los géneros: no todos los salmos se leen igual",
       "parrafos": [
-        {"texto": "MacArthur propone reconocer algunos géneros que se repiten: salmos de sabiduría, de lamentación (por los dolores de la vida, normalmente a causa de enemigos), penitenciales (por el «enemigo» interior, el pecado), de reyes y de gratitud. Estilo y tema, dice, ayudan a identificarlos.", "fuentes": ["biblia_de_estudio__autor#998"]},
-        {"texto": "El Comentario Beacon ofrece una clasificación más detallada, con siete clases: sabiduría, reales y mesiánicos, lamentaciones, penitenciales, adoración y acción de gracias, litúrgicos e imprecatorios. Pero advierte que ninguna clasificación es del todo satisfactoria y que varios salmos mezclan materiales de tipos distintos. Se nota en las listas: Wiersbe cuenta como imprecatorios los Salmos 35, 37, 69, 79, 109, 139 y 143, y Beacon, los Salmos 35, 58, 69, 83, 109 y 137. Hay un acuerdo de fondo y diferencias de detalle.", "fuentes": ["comentario_biblico_beacon__chapman#143", "bosquejos_expositivos_de__wiersbe#141"]},
-        {"texto": "Los títulos también orientan. Beacon señala que dos tercios de los salmos tienen título, que no formaban parte del texto original pero son muy antiguos, y que algunos indican la ocasión (el Salmo 3, por ejemplo, la huida ante Absalón). Scott agrega una cautela: los títulos que dan la circunstancia no son del todo seguros. Son pistas útiles para leer, no una ciencia exacta.", "fuentes": ["comentario_biblico_beacon__chapman#142", "el_plan_de__scott#515"]}
+        {
+          "texto": "MacArthur propone reconocer géneros que se repiten: salmos de sabiduría, de lamentación (por los dolores de la vida, normalmente a causa de enemigos), penitenciales (por el enemigo interior, el pecado), de reyes y de gratitud. Estilo y tema ayudan a identificarlos.",
+          "fuentes": [
+            "biblia_de_estudio__autor#998"
+          ]
+        },
+        {
+          "texto": "El Comentario Beacon ofrece una clasificación de siete clases (sabiduría, reales y mesiánicos, lamentaciones, penitenciales, adoración y acción de gracias, litúrgicos e imprecatorios), pero advierte que ninguna es del todo satisfactoria y que varios salmos mezclan tipos. Se nota en las listas: Wiersbe cuenta como imprecatorios los Salmos 35, 37, 69, 79, 109, 139 y 143, y Beacon, los Salmos 35, 58, 69, 83, 109 y 137.",
+          "fuentes": [
+            "comentario_biblico_beacon__chapman#143",
+            "bosquejos_expositivos_de__wiersbe#141"
+          ]
+        },
+        {
+          "texto": "Los títulos también orientan. Beacon señala que dos tercios de los salmos tienen título, que no formaban parte del texto original pero son muy antiguos, y que algunos indican la ocasión. Scott agrega una cautela: no son del todo seguros. Son pistas, no una ciencia exacta.",
+          "fuentes": [
+            "comentario_biblico_beacon__chapman#142",
+            "el_plan_de__scott#515"
+          ]
+        }
       ]
     },
     {
       "titulo": "Salmo 23: el pastor y el huésped",
       "parrafos": [
-        {"texto": "Beacon lo ubica entre los salmos de confianza: el salmista no se queja del dolor ni de sus enemigos, y comienza y termina con gratitud. Su título, «Pastor y Huésped», recoge las dos imágenes: la vida al aire libre con el pastor (versículos 1 a 4) y la mesa de un anfitrión (versículos 5 y 6). Beacon recoge además que el nombre de Dios enmarca el poema, en el primer verso y en el último, y que el salmo combina paz y peligro: pastos tranquilos y valle oscuro, sombra de muerte y mesa servida.", "fuentes": ["comentario_biblico_beacon__chapman#220", "comentario_biblico_beacon__chapman#221"]},
-        {"texto": "MacArthur observa que el Señor como pastor era una imagen de uso regio y que el Nuevo Testamento la aplica a Jesús (Juan 10; Hebreos 13:20; 1 Pedro 2:25; 5:4). En los versículos 2 y 3 el pastor actúa por «amor de su nombre»; el «valle de sombra de muerte» comunica un ambiente de amenaza; la vara y el cayado consuelan por protección y dirección; la unción simboliza bendición. Y en el versículo 6 admite una duda del hebreo, «moraré» o «volveré», pero en ambos casos David espera comunión íntima.", "fuentes": ["biblia_de_estudio__autor#1033"]},
-        {"texto": "Un detalle poético: Beacon nota que en el versículo 4 el «él» de los versículos 2 y 3 se convierte en «tú» («tú estarás conmigo»). Allí la descripción cede su lugar a la adoración: el salmista deja de hablar de Dios y le habla a Dios justo en el valle oscuro. Spurgeon subraya la palabra «mi» de «Jehová es mi pastor»: no es el pastor del mundo en general, y el verbo está en presente. Y señala el orden: el Salmo 23 viene después del 22, el del «Dios mío, Dios mío, ¿por qué me has desamparado?».", "fuentes": ["comentario_biblico_beacon__chapman#222", "el_tesoro_de__spurgeon#101"]}
+        {
+          "texto": "Beacon, con palabras de Taylor, lo describe como un salmo de confianza y fe, que comienza y termina con agradecimiento. Su título, «Pastor y Huésped», recoge las dos imágenes: la vida al aire libre con el pastor (versículos 1 a 4) y la mesa de un anfitrión (5 y 6). Beacon recoge además que el nombre de Dios enmarca el poema, en el primer verso y en el último, y que combina paz y peligro: pastos tranquilos y valle oscuro, sombra de muerte y mesa servida.",
+          "fuentes": [
+            "comentario_biblico_beacon__chapman#220",
+            "comentario_biblico_beacon__chapman#221"
+          ]
+        },
+        {
+          "texto": "MacArthur observa que el Señor como pastor era una imagen de uso regio que el Nuevo Testamento aplica a Jesús (Juan 10; Hebreos 13:20; 1 Pedro 2:25; 5:4). En los versículos 2 y 3 el pastor actúa por «amor de su nombre»; el «valle de sombra de muerte» comunica amenaza; la vara y el cayado consuelan por protección y dirección. Y en el versículo 6 admite una duda del hebreo, «moraré» o «volveré»: en ambos casos David espera comunión íntima.",
+          "fuentes": [
+            "biblia_de_estudio__autor#1033"
+          ]
+        },
+        {
+          "texto": "Un detalle poético: Beacon nota que en el versículo 4 el «él» de los versículos 2 y 3 se convierte en «tú» («tú estarás conmigo»). Allí la descripción cede su lugar a la adoración: el salmista deja de hablar de Dios y le habla a Dios justo en el valle oscuro. Spurgeon subraya la palabra «mi» de «Jehová es mi pastor»: no es el pastor del mundo en general, y el verbo está en presente. Y señala el orden: el Salmo 23 viene después del 22, el del «Dios mío, Dios mío, ¿por qué me has desamparado?».",
+          "fuentes": [
+            "comentario_biblico_beacon__chapman#222",
+            "el_tesoro_de__spurgeon#101"
+          ]
+        }
       ]
     },
     {
       "titulo": "Salmo 51: la oración de un arrepentido",
       "parrafos": [
-        {"texto": "Piper recuerda que el Salmo 51 es uno de los pocos que señalan su origen histórico: el encabezado lo ata a la visita del profeta Natán después del adulterio de David con Betsabé (2 Samuel 11–12). Spurgeon agrega que el título lo dirige «al músico principal»: no se escribió solo para la meditación privada, sino para el canto público. Beacon, por su parte, dice que no es un tratado de teología sino una súplica apasionada que va del perdón a la raíz más honda del mal, y de ahí a la pureza y a la promesa de alabanza.", "fuentes": ["moldeados_por_dios__piper#28", "el_tesoro_de__spurgeon#247", "comentario_biblico_beacon__chapman#289"]},
-        {"texto": "Piper descubre cuatro respuestas de David: se vuelve a la misericordia de Dios (que pide tres veces en el versículo 1), pide limpieza (el hisopo, la rama con que los sacerdotes rociaban sangre), confiesa la gravedad de su pecado y ruega ser renovado. Las imágenes son fuertes. Beacon, siguiendo a Toombs, explica que el verbo hebreo de «lávame» no es el del baño con jabón sino el del lavado de ropa golpeada contra una piedra: el salmista sabe que el pecado está muy metido adentro. MacArthur lee los «huesos» del versículo 8 como imagen de la persona entera, derrumbada bajo la culpa. Y «crea» (versículo 10) es un verbo de la acción creadora de Dios: Beacon recoge que se pide un cambio radical y no solo una restauración.", "fuentes": ["moldeados_por_dios__piper#31", "moldeados_por_dios__piper#32", "moldeados_por_dios__piper#34", "comentario_biblico_beacon__chapman#291", "biblia_de_estudio__autor#1074"]},
-        {"texto": "El versículo 4, «contra ti, contra ti solo he pecado», no niega el daño a Betsabé y a Urías, aclaran Piper y MacArthur: dice que lo que hace pecado al pecado es ser contra Dios. Pablo lo cita en Romanos 3:4. Spurgeon destaca que el grito de David es contra el mal de su pecado y no contra sus consecuencias. Y Piper responde a quien dice que, después de la cruz, el cristiano ya no debe orar así: la muerte de Jesús compró el perdón, pero la confesión diaria nos apropia de lo comprado, como el «perdónanos nuestras deudas» del Padrenuestro (Mateo 6:12).", "fuentes": ["moldeados_por_dios__piper#33", "biblia_de_estudio__autor#1074", "el_tesoro_de__spurgeon#249", "moldeados_por_dios__piper#30"]}
+        {
+          "texto": "Piper recuerda que el Salmo 51 es uno de los pocos que señalan su origen histórico: el encabezado lo ata a la visita del profeta Natán después del adulterio de David con Betsabé (2 Samuel 11–12). Spurgeon agrega que el título lo dirige «al músico principal»: no se escribió solo para la meditación privada, sino para el canto público. Beacon, por su parte, dice que no es un tratado de teología sino una súplica apasionada que va del perdón a la raíz más honda del mal, y de ahí a la pureza y a la promesa de alabanza.",
+          "fuentes": [
+            "moldeados_por_dios__piper#28",
+            "el_tesoro_de__spurgeon#247",
+            "comentario_biblico_beacon__chapman#289"
+          ]
+        },
+        {
+          "texto": "Piper descubre cuatro respuestas de David: se vuelve a la misericordia de Dios (que pide tres veces en el versículo 1), pide limpieza (el hisopo, la rama con que los sacerdotes rociaban sangre), confiesa la gravedad de su pecado y ruega ser renovado. Beacon, siguiendo a Toombs, explica que el verbo hebreo de «lávame» no es el del baño con jabón sino el del lavado de ropa golpeada contra una piedra: el pecado está muy metido adentro. MacArthur lee los «huesos» del versículo 8 como la persona entera derrumbada por la culpa. Y «crea» (versículo 10) es verbo de la acción creadora de Dios: Beacon recoge que se pide un cambio radical y no solo una restauración.",
+          "fuentes": [
+            "moldeados_por_dios__piper#31",
+            "moldeados_por_dios__piper#32",
+            "moldeados_por_dios__piper#34",
+            "comentario_biblico_beacon__chapman#291",
+            "biblia_de_estudio__autor#1074"
+          ]
+        },
+        {
+          "texto": "El versículo 4, «contra ti, contra ti solo he pecado», no niega el daño a Betsabé y a Urías, aclaran Piper y MacArthur: dice que lo que hace pecado al pecado es ser contra Dios. Pablo lo cita en Romanos 3:4. Spurgeon destaca que el grito de David es contra el mal de su pecado y no contra sus consecuencias. Y Piper responde a quien dice que, después de la cruz, el cristiano ya no debe orar así: la muerte de Jesús compró el perdón, pero la confesión diaria nos apropia de lo comprado, como el «perdónanos nuestras deudas» del Padrenuestro (Mateo 6:12).",
+          "fuentes": [
+            "moldeados_por_dios__piper#33",
+            "biblia_de_estudio__autor#1074",
+            "el_tesoro_de__spurgeon#249",
+            "moldeados_por_dios__piper#30"
+          ]
+        }
       ]
     },
     {
       "titulo": "Salmo 137 y los salmos que maldicen",
       "parrafos": [
-        {"texto": "El Salmo 137 nace del exilio. MacArthur lo divide en lamentación (versículos 1 a 4), condiciones (5 y 6) e imprecaciones (7 a 9), y explica el escenario: Sión había sido destruida por los babilonios; colgar las arpas era dejar de lado un instrumento de alegría; y los captores pedían cánticos de Sion para burlarse. Beacon recoge que los exiliados quizá iban a la orilla de ríos y canales porque allí había sombra y espacio para la meditación triste. Spurgeon lo llama una oda quejumbrosa de gran poder poético, e invita a no criticarla a quien nunca vio su templo incendiado ni su ciudad en ruinas.", "fuentes": ["biblia_de_estudio__autor#1180", "biblia_de_estudio__autor#1181", "comentario_biblico_beacon__chapman#485", "el_tesoro_de__spurgeon#681"]},
-        {"texto": "Después del anhelo vienen los versículos 7 a 9: el salmista pide que Dios recuerde contra Edom el día de Jerusalén (MacArthur anota que Edom se había aliado con Babilonia, y Beacon que se alegró de la caída) y contra Babilonia, hasta mencionar a sus niños. Beacon reconoce que es uno de los salmos más discutidos por esa nota imprecatoria, sin mitigación alguna. Es el caso más extremo del grupo de los salmos imprecatorios, que Piper presenta como un problema para muchos cristianos: Jesús enseñó a amar a los enemigos y oró por ellos en la cruz (Lucas 6:27-28; 23:34).", "fuentes": ["biblia_de_estudio__autor#1181", "comentario_biblico_beacon__chapman#485", "comentario_biblico_beacon__chapman#486", "moldeados_por_dios__piper#49"]},
-        {"texto": "Las fuentes ofrecen varias claves de lectura. Beacon recuerda que estos salmos nunca se usaron en el culto de la sinagoga y cita un antiguo relato rabínico para el que, en hebreo, «pecados» y «pecadores» se dicen con una misma palabra: lo que se pide destruir es el pecado. Agrega que en hebreo cuesta distinguir «que esto suceda» de «esto sucederá», de modo que el salmista podría estar anunciando lo inevitable; que lo mueve más el celo por Dios que la venganza personal; y que expresa un fuerte sentido de la ley moral del universo. Reconoce, sin embargo, que no llegan a la pauta del Sermón del Monte y advierte del riesgo de identificar los intereses propios con el reino de Dios: por eso el Salmo 139 pasa de la imprecación a «examíname, oh Dios» (versículos 21 a 24).", "fuentes": ["comentario_biblico_beacon__chapman#143", "comentario_biblico_beacon__chapman#145"]},
-        {"texto": "Piper agrega una guía más: ver cómo los usa el Nuevo Testamento. Con el Salmo 69, imprecatorio, Pablo no se avergüenza (Romanos 11:9-11) y los evangelistas lo ven cumplido en Jesús (Juan 2:17; 15:25; 19:28-30). Pero el mismo Pablo lo usa para que dejemos la venganza: puesto que Dios juzga, no nos corresponde ejecutarlo (Romanos 15:3; 12:19).", "fuentes": ["moldeados_por_dios__piper#52", "moldeados_por_dios__piper#53", "moldeados_por_dios__piper#54", "moldeados_por_dios__piper#55", "moldeados_por_dios__piper#58"]}
+        {
+          "texto": "El Salmo 137 nace del exilio. MacArthur lo divide en lamentación (versículos 1 a 4), condiciones (5 y 6) e imprecaciones (7 a 9), y explica el escenario: Sión había sido destruida por los babilonios, colgar las arpas era dejar de lado un instrumento de alegría y los captores pedían cánticos de Sion para burlarse. Beacon recoge que los exiliados quizá iban a la orilla de ríos y canales porque allí había sombra para la meditación triste. Spurgeon lo llama una oda quejumbrosa de gran poder poético.",
+          "fuentes": [
+            "biblia_de_estudio__autor#1180",
+            "biblia_de_estudio__autor#1181",
+            "comentario_biblico_beacon__chapman#485",
+            "el_tesoro_de__spurgeon#681"
+          ]
+        },
+        {
+          "texto": "Después del anhelo vienen los versículos 7 a 9: el salmista pide que Dios recuerde contra Edom el día de Jerusalén (MacArthur anota que Edom se había aliado con Babilonia) y contra Babilonia, hasta mencionar a sus niños. Beacon reconoce que es de los salmos más discutidos por esa nota imprecatoria. Piper plantea el problema: Jesús enseñó a amar a los enemigos y oró por ellos en la cruz (Lucas 6:27-28; 23:34).",
+          "fuentes": [
+            "biblia_de_estudio__autor#1181",
+            "comentario_biblico_beacon__chapman#485",
+            "comentario_biblico_beacon__chapman#486",
+            "moldeados_por_dios__piper#49"
+          ]
+        },
+        {
+          "texto": "Beacon ofrece varias claves. Estos salmos nunca se usaron en el culto de la sinagoga; un relato rabínico juega con que, en hebreo, «pecados» y «pecadores» se dicen con la misma palabra, de modo que lo que se pide destruir es el pecado. Además, en hebreo cuesta distinguir «que esto suceda» de «esto sucederá»; el celo por Dios pesa más que la venganza personal; y se expresa el sentido de la ley moral del universo. Con todo, Beacon reconoce que no llegan a la pauta del Sermón del Monte y advierte del riesgo de confundir los intereses propios con el reino de Dios: por eso el Salmo 139 pasa de la imprecación a «examíname, oh Dios» (versículos 21 a 24).",
+          "fuentes": [
+            "comentario_biblico_beacon__chapman#143",
+            "comentario_biblico_beacon__chapman#145"
+          ]
+        },
+        {
+          "texto": "Piper agrega una guía: ver cómo los usa el Nuevo Testamento. Con el Salmo 69, imprecatorio, Pablo no se avergüenza (Romanos 11:9-11) y los evangelistas lo ven cumplido en Jesús (Juan 2:17; 15:25; 19:28-30). Pero el mismo Pablo lo usa para que dejemos la venganza: puesto que Dios juzga, no nos toca ejecutarlo (Romanos 15:3; 12:19).",
+          "fuentes": [
+            "moldeados_por_dios__piper#52",
+            "moldeados_por_dios__piper#53",
+            "moldeados_por_dios__piper#54",
+            "moldeados_por_dios__piper#55",
+            "moldeados_por_dios__piper#58"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cristo en los Salmos: Lucas 24:44",
       "parrafos": [
-        {"texto": "El Jesús resucitado dijo a sus discípulos que era necesario que se cumpliera todo lo escrito de él «en la ley de Moisés, en los profetas y en los salmos» (Lucas 24:44). Beacon explica que son las tres grandes divisiones de las Escrituras hebreas, y MacArthur, que los discípulos, mal preparados, necesitaban entender que el Mesías debía padecer, tal como anticipan el Salmo 41:9 (traición), el 22 (crucifixión) y el 16:8-11 (resurrección).", "fuentes": ["comentario_biblico_beacon__earle#480", "lucas_comentario__macarthur#961"]},
-        {"texto": "Las listas de las fuentes dan una idea de la riqueza: la Biblia de estudio de MacArthur relaciona los Salmos 2, 8, 16, 22, 40, 41, 45, 68, 69 y 72 con citas del Nuevo Testamento, y Wiersbe ve en el Salmo 22 al Salvador crucificado, en el 23 al Pastor, en el 110 al Sumo Sacerdote y en el 118:22-23 a la Piedra.", "fuentes": ["biblia_de_estudio__autor#1148", "bosquejos_expositivos_de__wiersbe#141"]}
+        {
+          "texto": "El Jesús resucitado dijo a sus discípulos que era necesario que se cumpliera todo lo escrito de él «en la ley de Moisés, en los profetas y en los salmos» (Lucas 24:44). Beacon explica que son las tres grandes divisiones de las Escrituras hebreas, y MacArthur, que los discípulos, mal preparados, necesitaban entender que el Mesías debía padecer, tal como anticipan el Salmo 41:9 (traición), el 22 (crucifixión) y el 16:8-11 (resurrección).",
+          "fuentes": [
+            "comentario_biblico_beacon__earle#480",
+            "lucas_comentario__macarthur#961"
+          ]
+        },
+        {
+          "texto": "Las listas dan una idea de la riqueza: la Biblia de estudio de MacArthur relaciona los Salmos 2, 8, 16, 22, 40, 41, 45, 68, 69 y 72 con citas del Nuevo Testamento, y Wiersbe ve en el Salmo 22 al Salvador crucificado, en el 23 al Pastor, en el 110 al Sumo Sacerdote y en el 118:22-23 a la Piedra.",
+          "fuentes": [
+            "biblia_de_estudio__autor#1148",
+            "bosquejos_expositivos_de__wiersbe#141"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "Lo que el hombre expresa a través de cada poema, Dios también lo expresa para Sus propósitos.", "autor": "John Piper", "obra": "Moldeados por Dios", "fuentes": ["moldeados_por_dios__piper#10"]},
-    {"texto": "La poesía occidental a menudo se basa en la rima, pero no así en la poesía oriental.", "autor": "Warren W. Wiersbe", "obra": "Bosquejos expositivos de la Biblia", "fuentes": ["bosquejos_expositivos_de__wiersbe#141"]}
+    {
+      "texto": "Lo que el hombre expresa a través de cada poema, Dios también lo expresa para Sus propósitos.",
+      "autor": "John Piper",
+      "obra": "Moldeados por Dios",
+      "fuentes": [
+        "moldeados_por_dios__piper#10"
+      ]
+    },
+    {
+      "texto": "La poesía occidental a menudo se basa en la rima, pero no así en la poesía oriental.",
+      "autor": "Warren W. Wiersbe",
+      "obra": "Bosquejos expositivos de la Biblia",
+      "fuentes": [
+        "bosquejos_expositivos_de__wiersbe#141"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "תהילים", "translit": "tehilim", "idioma": "hebreo", "ref": "", "significado": "Alabanzas. Es el nombre hebreo del libro de los Salmos, según Wiersbe; no todos los salmos son himnos de alabanza, pero muchos lo son. El nombre «salmo» viene de una palabra griega para un poema cantado con música.", "fuentes": ["bosquejos_expositivos_de__wiersbe#141"]},
-    {"original": "תורה", "translit": "torá", "idioma": "hebreo", "ref": "Sal 1:2", "significado": "Ley, y en general enseñanza. Piper lo señala en el Salmo 1:2 para decir que los Salmos abarcan toda la gama de las enseñanzas de Dios, no solo las ordenanzas legales.", "fuentes": ["moldeados_por_dios__piper#6"]}
+    {
+      "original": "תהילים",
+      "translit": "tehilim",
+      "idioma": "hebreo",
+      "ref": "",
+      "significado": "Alabanzas. Es el nombre hebreo del libro de los Salmos, según Wiersbe; no todos los salmos son himnos de alabanza, pero muchos lo son. El nombre «salmo» viene de una palabra griega para un poema cantado con música.",
+      "fuentes": [
+        "bosquejos_expositivos_de__wiersbe#141"
+      ]
+    },
+    {
+      "original": "תורה",
+      "translit": "torá",
+      "idioma": "hebreo",
+      "ref": "Sal 1:2",
+      "significado": "Ley, y en general enseñanza. Piper lo señala en el Salmo 1:2 para decir que los Salmos abarcan toda la gama de las enseñanzas de Dios, no solo las ordenanzas legales.",
+      "fuentes": [
+        "moldeados_por_dios__piper#6"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Los Salmos hablan de él, dice Jesús. En Lucas 24:44 pone «los salmos» junto a la ley y los profetas como Escritura que se cumple en él. Es explícito en el Nuevo Testamento: Jesús lo afirma, y los autores citan a los Salmos en este sentido (por ejemplo, Hechos 4:25-26 para el Salmo 2 y Hebreos 1:8-9 para el Salmo 45:6-7, según la tabla de MacArthur).", "refs": ["Lc 24:44", "Sal 2:1", "Sal 45:6"], "fuentes": ["lucas_comentario__macarthur#961", "biblia_de_estudio__autor#1148"]},
-    {"texto": "El Pastor que sale a nuestro encuentro. El Salmo 23 sigue al 22, el de la cruz: Spurgeon nota que solo después de «Dios mío, Dios mío» llegamos a «El Señor es mi pastor». El Nuevo Testamento llama a Jesús pastor (Juan 10; Hebreos 13:20; 1 Pedro 2:25; 5:4), lo cual es explícito. Que el Salmo 23 sea una predicción puntual es otra cosa: las fuentes de hoy lo leen como imagen que Jesús cumple.", "refs": ["Sal 23:1", "Jn 10:11", "Heb 13:20"], "fuentes": ["el_tesoro_de__spurgeon#101", "biblia_de_estudio__autor#1033", "bosquejos_expositivos_de__wiersbe#141"]},
-    {"texto": "Un patrón en el Salmo 69. Es explícito que Juan 2:17, 15:25 y 19:28-30 recurren a ese salmo para Jesús y que Romanos 15:3 pone en sus labios el versículo 9. Que la experiencia de David sea un «presagio» del Mesías es la lectura de Piper: David, el ungido rechazado por su pueblo, anticipa al máximo Ungido, que vive ese salmo hasta la cruz.", "refs": ["Sal 69:9", "Jn 19:28-30", "Ro 15:3"], "fuentes": ["moldeados_por_dios__piper#54", "moldeados_por_dios__piper#55", "moldeados_por_dios__piper#56"]},
-    {"texto": "El perdón de David y la cruz. Piper conecta el Salmo 51 con Romanos 3:25-26: Dios pudo pasar por alto el pecado de David porque Jesús iba a morir en su lugar, de modo que Dios es justo y a la vez justifica a los que creen en Jesús.", "refs": ["Sal 51:1", "Ro 3:25-26"], "fuentes": ["moldeados_por_dios__piper#29", "moldeados_por_dios__piper#30"]}
+    {
+      "texto": "Los Salmos hablan de él, dice Jesús. En Lucas 24:44 pone «los salmos» junto a la ley y los profetas como Escritura que se cumple en él. Es explícito en el Nuevo Testamento: Jesús lo afirma, y los autores citan a los Salmos en este sentido (por ejemplo, Hechos 4:25-26 para el Salmo 2 y Hebreos 1:8-9 para el Salmo 45:6-7, según la tabla de MacArthur).",
+      "refs": [
+        "Lc 24:44",
+        "Sal 2:1",
+        "Sal 45:6"
+      ],
+      "fuentes": [
+        "lucas_comentario__macarthur#961",
+        "biblia_de_estudio__autor#1148"
+      ]
+    },
+    {
+      "texto": "El Pastor que sale a nuestro encuentro. El Salmo 23 sigue al 22, el de la cruz: Spurgeon nota que solo después de «Dios mío, Dios mío» llegamos a «El Señor es mi pastor». El Nuevo Testamento llama a Jesús pastor (Juan 10; Hebreos 13:20; 1 Pedro 2:25; 5:4), lo cual es explícito. Que el Salmo 23 sea una predicción puntual es otra cosa: las fuentes de hoy lo leen como imagen que Jesús cumple.",
+      "refs": [
+        "Sal 23:1",
+        "Jn 10:11",
+        "Heb 13:20"
+      ],
+      "fuentes": [
+        "el_tesoro_de__spurgeon#101",
+        "biblia_de_estudio__autor#1033",
+        "bosquejos_expositivos_de__wiersbe#141"
+      ]
+    },
+    {
+      "texto": "Un patrón en el Salmo 69. Es explícito que Juan 2:17, 15:25 y 19:28-30 recurren a ese salmo para Jesús y que Romanos 15:3 pone en sus labios el versículo 9. Que la experiencia de David sea un «presagio» del Mesías es la lectura de Piper: David, el ungido rechazado por su pueblo, anticipa al máximo Ungido, que vive ese salmo hasta la cruz.",
+      "refs": [
+        "Sal 69:9",
+        "Jn 19:28-30",
+        "Ro 15:3"
+      ],
+      "fuentes": [
+        "moldeados_por_dios__piper#54",
+        "moldeados_por_dios__piper#55",
+        "moldeados_por_dios__piper#56"
+      ]
+    },
+    {
+      "texto": "El perdón de David y la cruz. Piper conecta el Salmo 51 con Romanos 3:25-26: Dios pudo pasar por alto el pecado de David porque Jesús iba a morir en su lugar, de modo que Dios es justo y a la vez justifica a los que creen en Jesús.",
+      "refs": [
+        "Sal 51:1",
+        "Ro 3:25-26"
+      ],
+      "fuentes": [
+        "moldeados_por_dios__piper#29",
+        "moldeados_por_dios__piper#30"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Cómo leer los salmos imprecatorios?",
       "posturas": [
-        {"postura": "Son palabras sobrias y proféticas de juicio dichas por David como ungido de Dios, no venganza personal. El Nuevo Testamento los cita sin avergonzarse (Salmo 69 en Romanos 11) y lo que enseñan es a aprobar el juicio de Dios y a no ejecutarlo nosotros, sino perdonar.", "quien": "Piper", "fuentes": ["moldeados_por_dios__piper#53", "moldeados_por_dios__piper#54", "moldeados_por_dios__piper#57", "moldeados_por_dios__piper#58"]},
-        {"postura": "David oró así como representante mediador de Dios en la tierra: sus enemigos herían al pueblo de Dios y desafiaban al Dios de Israel. Sobre el Salmo 137:7-9, MacArthur anota que el salmista solo pedía lo que el Señor siempre había prometido.", "quien": "MacArthur", "fuentes": ["biblia_de_estudio__autor#998", "biblia_de_estudio__autor#1181"]},
-        {"postura": "No llegan al nivel del Sermón del Monte, pero hay que leerlos con cinco consideraciones: nunca se usaron en la sinagoga, el hebreo no distingue bien deseo y predicción, no son desprecio personal sino celo por Dios, expresan la ley moral del universo y el salmista mismo se somete a examen.", "quien": "Beacon (Chapman y otros)", "fuentes": ["comentario_biblico_beacon__chapman#143", "comentario_biblico_beacon__chapman#145"]},
-        {"postura": "No son tanto expresiones personales de venganza como peticiones nacionales para que se manifieste la justicia de Dios por su pueblo escogido. En el Salmo 137, Spurgeon ve las imprecaciones solo como profecía, basada en lo ya anunciado sobre la destrucción de Babilonia.", "quien": "Wiersbe y Spurgeon", "fuentes": ["bosquejos_expositivos_de__wiersbe#141", "el_tesoro_de__spurgeon#684"]}
+        {
+          "postura": "Son palabras sobrias y proféticas de juicio dichas por David como ungido de Dios, no venganza personal. El Nuevo Testamento los cita sin avergonzarse (Salmo 69 en Romanos 11) y lo que enseñan es a aprobar el juicio de Dios y a no ejecutarlo nosotros, sino perdonar.",
+          "quien": "Piper",
+          "fuentes": [
+            "moldeados_por_dios__piper#53",
+            "moldeados_por_dios__piper#54",
+            "moldeados_por_dios__piper#57",
+            "moldeados_por_dios__piper#58"
+          ]
+        },
+        {
+          "postura": "David oró así como representante mediador de Dios en la tierra: sus enemigos herían al pueblo de Dios y desafiaban al Dios de Israel. Sobre el Salmo 137:7-9, MacArthur anota que el salmista solo pedía lo que el Señor siempre había prometido.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "biblia_de_estudio__autor#998",
+            "biblia_de_estudio__autor#1181"
+          ]
+        },
+        {
+          "postura": "No llegan al nivel del Sermón del Monte, pero hay que leerlos con cinco consideraciones: nunca se usaron en la sinagoga, el hebreo no distingue bien deseo y predicción, no son desprecio personal sino celo por Dios, expresan la ley moral del universo y el salmista mismo se somete a examen.",
+          "quien": "Beacon (Chapman y otros)",
+          "fuentes": [
+            "comentario_biblico_beacon__chapman#143",
+            "comentario_biblico_beacon__chapman#145"
+          ]
+        },
+        {
+          "postura": "No son tanto expresiones personales de venganza como peticiones nacionales para que se manifieste la justicia de Dios por su pueblo escogido. En el Salmo 137, Spurgeon ve las imprecaciones solo como profecía, basada en lo ya anunciado sobre la destrucción de Babilonia.",
+          "quien": "Wiersbe y Spurgeon",
+          "fuentes": [
+            "bosquejos_expositivos_de__wiersbe#141",
+            "el_tesoro_de__spurgeon#684"
+          ]
+        }
       ],
-      "nota": "Las cuatro voces coinciden en que son Escritura y en que no autorizan a vengarse; difieren en el énfasis (profecía, mediación real, contexto moral o justicia nacional)."
+      "nota": "Las voces consultadas los tratan como Escritura y difieren en el énfasis: profecía, mediación real, contexto moral o justicia nacional."
     },
     {
       "tema": "¿Qué pide David con «no quites de mí tu santo Espíritu» (Salmo 51:11)?",
       "posturas": [
-        {"postura": "No teme perder su salvación, sino que Dios le retire la unción especial del Espíritu que capacitaba a los mediadores teocráticos, como pasó con Saúl.", "quien": "MacArthur", "fuentes": ["biblia_de_estudio__autor#1074", "biblia_de_estudio__autor#1075"]},
-        {"postura": "Es un ruego de confirmación: «no me trates como alguien que no es elegido». Piper dice no estar de acuerdo con quienes sostienen que los elegidos no deben orar así.", "quien": "Piper", "fuentes": ["moldeados_por_dios__piper#35"]}
+        {
+          "postura": "No teme perder su salvación, sino que Dios le retire la unción especial del Espíritu que capacitaba a los mediadores teocráticos, como pasó con Saúl.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "biblia_de_estudio__autor#1074",
+            "biblia_de_estudio__autor#1075"
+          ]
+        },
+        {
+          "postura": "Es un ruego de confirmación: «no me trates como alguien que no es elegido». Piper dice no estar de acuerdo con quienes sostienen que los elegidos no deben orar así.",
+          "quien": "Piper",
+          "fuentes": [
+            "moldeados_por_dios__piper#35"
+          ]
+        }
       ],
       "nota": "Aquí solo se oyen dos voces; cada una argumenta con su propio marco de lectura."
-    },
-    {
-      "tema": "¿Qué representan los «delicados pastos» y las «aguas de reposo» del Salmo 23?",
-      "posturas": [
-        {"postura": "Describen satisfacción total y orientación correcta: las ovejas no se echan hasta haber comido, y el pastor oriental va al frente del rebaño.", "quien": "Beacon", "fuentes": ["comentario_biblico_beacon__chapman#221"]},
-        {"postura": "Los pastos son las Escrituras, siempre frescas y nunca agotadas; las aguas son las influencias y gracias del Espíritu. Es su lectura devocional.", "quien": "Spurgeon", "fuentes": ["el_tesoro_de__spurgeon#103"]}
-      ],
-      "nota": "Las dos lecturas son piadosas y distintas; la imagen del pastor que provee y guía es común a ambas."
     }
   ],
   "conexiones": [
-    {"ref": "Sal 22", "nota": "Spurgeon destaca que el Salmo 23 sigue al 22, el de la cruz: la dulzura del Pastor se conoce después del desamparo.", "fuentes": ["el_tesoro_de__spurgeon#101"]},
-    {"ref": "Ro 3:4", "nota": "Pablo cita el Salmo 51:4 («contra ti, contra ti solo»): todo pecado es, en último término, contra Dios.", "fuentes": ["biblia_de_estudio__autor#1074"]},
-    {"ref": "Is 55:6", "nota": "Ejemplo de paralelismo para entender: buscar al Señor es llamarlo.", "fuentes": ["cava_mas_profundo__beynon#71"]},
-    {"ref": "Sal 139:23-24", "nota": "Después de decir que aborrece a los enemigos de Dios, el salmista pide ser examinado: Beacon lo toma como freno contra confundir los intereses propios con los de Dios.", "fuentes": ["comentario_biblico_beacon__chapman#145"]},
-    {"ref": "Ro 12:19", "nota": "Piper lo usa para mostrar que, como Dios juzga, a nosotros no nos toca ejecutar el juicio.", "fuentes": ["moldeados_por_dios__piper#58"]}
+    {
+      "ref": "Sal 22:1",
+      "nota": "Spurgeon destaca que el Salmo 23 sigue al 22, el de la cruz: la dulzura del Pastor se conoce después del desamparo.",
+      "fuentes": [
+        "el_tesoro_de__spurgeon#101"
+      ]
+    },
+    {
+      "ref": "Ro 3:4",
+      "nota": "Pablo cita el Salmo 51:4 («contra ti, contra ti solo»): todo pecado es, en último término, contra Dios.",
+      "fuentes": [
+        "biblia_de_estudio__autor#1074"
+      ]
+    },
+    {
+      "ref": "Sal 139:23-24",
+      "nota": "Después de decir que aborrece a los enemigos de Dios, el salmista pide ser examinado: Beacon lo toma como freno contra confundir los intereses propios con los de Dios.",
+      "fuentes": [
+        "comentario_biblico_beacon__chapman#145"
+      ]
+    },
+    {
+      "ref": "Ro 12:19",
+      "nota": "Piper lo usa para mostrar que, como Dios juzga, a nosotros no nos toca ejecutar el juicio.",
+      "fuentes": [
+        "moldeados_por_dios__piper#58"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Leé los Salmos con la cabeza y con el corazón: preguntate qué enseñan y qué sentimientos te piden, como sugiere Piper.", "fuentes": ["moldeados_por_dios__piper#7"]},
-    {"texto": "Antes de leer, identificá el tipo de salmo y mirá los pares de líneas: lo que se repite o se contrasta suele ser la clave.", "fuentes": ["biblia_de_estudio__autor#998", "cava_mas_profundo__beynon#71"]},
-    {"texto": "Cuando sientas rabia por una injusticia, llevásela a Dios como los salmistas y dejá el juicio en sus manos, como enseña Piper con Romanos 12:19.", "fuentes": ["moldeados_por_dios__piper#58"]}
+    {
+      "texto": "Leé los Salmos con la cabeza y con el corazón: preguntate qué enseñan y qué sentimientos te piden, como sugiere Piper.",
+      "fuentes": [
+        "moldeados_por_dios__piper#7"
+      ]
+    },
+    {
+      "texto": "Antes de leer, identificá el tipo de salmo y mirá los pares de líneas: lo que se repite o se contrasta suele ser la clave.",
+      "fuentes": [
+        "biblia_de_estudio__autor#998",
+        "cava_mas_profundo__beynon#71"
+      ]
+    },
+    {
+      "texto": "Cuando sientas rabia por una injusticia, llevásela a Dios como los salmistas y dejá el juicio en sus manos, como enseña Piper con Romanos 12:19.",
+      "fuentes": [
+        "moldeados_por_dios__piper#58"
+      ]
+    }
   ],
   "para_reflexionar": [
     "¿Cuál es el salmo que más usás cuando orás y por qué? ¿Qué parte de tu vida (alegría, enojo, culpa, miedo) todavía no sabés llevar a Dios con palabras?",
@@ -134,7 +458,15 @@
   ],
   "para_orar": "Señor, gracias por darme en los Salmos palabras para orar cuando no tengo las mías. Enseñame a leerlos con la mente y con el corazón. Sé mi pastor en los valles oscuros, creá en mí un corazón limpio y, cuando me toque sufrir injusticia, ayudame a dejar el juicio en tus manos y a seguir a Jesús. Amén.",
   "profundizar": [
-    {"titulo": "¿Tiene el libro de los Salmos una estructura?", "texto": "La tradición divide los Salmos en cinco libros, que algunos comparan con los cinco de Moisés. Piper piensa que es un esfuerzo consciente, y que el Salmo 1 los presenta como la ley del Señor. Beacon cuenta que el Midrash hace la comparación y que podría relacionarse con el ciclo de lectura de la ley. MacArthur, en cambio, dice que ninguna clave descubre un tema organizador y que no hay una estructura temática identificable; Scott opina que la comparación con los libros de Moisés no es fácil de demostrar. Son hipótesis de lectura, no datos firmes.", "fuentes": ["moldeados_por_dios__piper#7", "comentario_biblico_beacon__chapman#140", "biblia_de_estudio__autor#999", "el_plan_de__scott#515"]},
-    {"titulo": "La anécdota del rabino y sus vecinos", "texto": "Beacon cuenta, citando una obra sobre la oración judía, que un rabino famoso del siglo II pidió a Dios que murieran sus vecinos desordenados. Su mujer le recordó que el salmista pide que se termine el pecado (y que así ya no habrá pecadores) y le aconsejó orar por su arrepentimiento. Es un ejemplo de cómo se leyeron estas palabras.", "fuentes": ["comentario_biblico_beacon__chapman#143"]}
+    {
+      "titulo": "¿Tiene el libro de los Salmos una estructura?",
+      "texto": "La tradición divide los Salmos en cinco libros, que algunos comparan con los cinco de Moisés. Piper piensa que es un esfuerzo consciente y que el Salmo 1 los presenta como la ley del Señor. Beacon cuenta que el Midrash hace la comparación y que podría relacionarse con el ciclo de lectura de la ley. MacArthur, en cambio, dice que ninguna clave descubre un tema organizador, y Scott opina que la comparación no es fácil de demostrar. Son hipótesis de lectura, no datos firmes.",
+      "fuentes": [
+        "moldeados_por_dios__piper#7",
+        "comentario_biblico_beacon__chapman#140",
+        "biblia_de_estudio__autor#999",
+        "el_plan_de__scott#515"
+      ]
+    }
   ]
 }

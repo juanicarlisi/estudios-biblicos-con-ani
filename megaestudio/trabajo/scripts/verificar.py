@@ -89,7 +89,8 @@ def verificar(n):
             if len(c.split()) >= 5 and ruta.startswith('.citas') is False:
                 com_dia.append((ruta, c, base))
         # cifras
-        sinref = RE_REF.sub(' ', txt)
+        txt_cif = ' '.join(str(v) for k, v in obj.items() if isinstance(v, str) and k != 'obra')   # el título de una obra (p. ej. «101 respuestas…») no es una cifra afirmada
+        sinref = RE_REF.sub(' ', txt_cif)
         for num in re.findall(r'\b\d[\d.]{2,}\b', sinref):
             dig = re.sub(r'\D', '', num)
             if dig not in re.sub(r'\D', '', ' ' + base) and dig not in base.replace(' ', ''):

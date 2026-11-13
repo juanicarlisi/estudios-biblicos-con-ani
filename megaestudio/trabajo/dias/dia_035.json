@@ -1,0 +1,144 @@
+{
+  "dia": 35,
+  "titulo": "El Antiguo Testamento en el Nuevo: cómo leyeron los apóstoles las Escrituras",
+  "bajada": "Mateo dice que Jesús volvió de Egipto «para que se cumpliese» una frase de Oseas que hablaba de Israel. ¿Cómo usan los autores del Nuevo Testamento al Antiguo, de qué texto citan y con qué derecho?",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Mateo 2:13-18; Oseas 11:1-4; Hechos 15:12-21", "porque": "Tres pasajes para ver el fenómeno en acción: Mateo cita a Oseas, Oseas habla de Israel y Santiago, en Hechos, apoya una decisión con un texto de los profetas."},
+  "versiculos": [
+    {"ref": "Lucas 24:27", "porque": "Jesús mismo enseña a leer todo el Antiguo Testamento en relación con su persona."},
+    {"ref": "Mateo 2:15", "porque": "El caso más discutido: Mateo aplica a Jesús unas palabras de Oseas."}
+  ],
+  "entrada": {
+    "texto": "Abrí Mateo 2 y fijate cuántas veces el evangelista, después de contar un hecho, agrega que ocurrió «para que se cumpliese» lo dicho por los profetas. MacArthur cuenta cuatro pasajes del Antiguo Testamento detrás de ese solo capítulo: Belén, la huida a Egipto, la matanza de Ramá y el regreso a Nazaret.\n\nEl más desconcertante es el de Egipto. Mateo toma unas palabras de Oseas que, donde Oseas las escribió, hablan de algo ya ocurrido: la salida de Israel de Egipto. MacArthur mismo se pregunta por qué Mateo lee como profético un suceso pasado. Hoy vemos cómo usa el Nuevo Testamento al Antiguo, qué Biblia tenían los apóstoles y qué explicaciones dan los autores, que no siempre coinciden.",
+    "fuentes": ["mateo__macarthur#37", "mateo__macarthur#38"]
+  },
+  "apartados": [
+    {
+      "titulo": "Citas, alusiones y ecos",
+      "parrafos": [
+        {"texto": "Primero conviene ponerles nombre a las cosas. El material de BibleProject para estudiar la Biblia hebrea distingue tres grados de referencia de un texto bíblico a otro. La cita es explícita. La alusión no lo anuncia, pero lo señala con varias palabras o imágenes llamativas, y se pierde sentido si el lector no la reconoce. El eco es más sutil: una palabra, una frase o una imagen; el pasaje se entiende igual sin él, pero quien lo reconoce encuentra un plus de sentido.", "fuentes": ["web_bibleproject_hebrew_bible#50"]},
+        {"texto": "En los Evangelios hay citas y también alusiones. Según el Diccionario de Jesús y los Evangelios, Mateo incluye más de cincuenta citas explícitas, y se destacan las de cumplimiento, que usan el verbo «cumplir» en pasivo (en griego, plēroō): Isaías 7:14 en Mateo 1:23, Oseas 11:1 en Mateo 2:15, Jeremías 31:15 en Mateo 2:18 o Zacarías 9:9 en Mateo 21:5. Las alusiones son más discretas: el Diccionario ve una en el silencio de Jesús ante sus acusadores (Marcos 14:60-61), que remite a Isaías 53:7.", "fuentes": ["diccionario_de_jesus__green#127", "diccionario_de_jesus__green#128", "diccionario_de_jesus__green#129", "diccionario_de_jesus__green#2350"]},
+        {"texto": "Esas citas, dice el Diccionario, forman un marco para leer a Mateo, a la luz de Mateo 5:17, donde Jesús afirma que vino a cumplir la ley y los profetas, no a abrogarlos. Quizás no importe tanto la cita exacta como que toda la Escritura apunta a Jesús, y lo ilustra Mateo 2:23, que introduce con la fórmula de cumplimiento la frase «que habría de ser llamado nazareno» sin una cita claramente identificable del Antiguo Testamento.", "fuentes": ["diccionario_de_jesus__green#127", "diccionario_de_jesus__green#128"]}
+      ],
+      "destacado": {"texto": "La cita señala, la alusión sugiere y el eco susurra: conviene distinguirlas antes de decir que un pasaje «cumple» a otro.", "fuentes": ["web_bibleproject_hebrew_bible#50"]}
+    },
+    {
+      "titulo": "Jesús abrió el camino: los discípulos de Emaús",
+      "parrafos": [
+        {"texto": "La primera lectura cristiana del Antiguo Testamento no nació en la iglesia: Lucas la cuenta en boca de Jesús. En el camino a Emaús, el resucitado llama tardos de corazón a dos discípulos y les pregunta si no era necesario que el Cristo padeciera para entrar en su gloria (Lucas 24:25-26). MacArthur explica que esperaban un Mesías que venciera a sus opresores y pasaron por alto que primero debía sufrir; y sostiene que no había excusa, porque el Antiguo Testamento era claro.", "fuentes": ["lucas_comentario__macarthur#953", "biblia"]},
+        {"texto": "Después, cuenta Lucas, Jesús «les declaraba en todas las Escrituras lo que de él decían» (Lucas 24:27). El Comentario Bíblico Beacon lo llama la primera lección extensa y correcta sobre las enseñanzas mesiánicas del Antiguo Testamento. Grudem añade que Jesús mostró que las profecías apuntaban hacia él, y lo conecta con 1 Pedro 1:11, donde los profetas testifican de antemano acerca de los sufrimientos de Cristo.", "fuentes": ["comentario_biblico_beacon__earle#475", "grudem#659", "lucas_comentario__macarthur#953"]},
+        {"texto": "Lucas no enumera los pasajes. MacArthur supone que esa enseñanza habría incluido los corderos de la Pascua (1 Corintios 5:7), el maná, que enlaza con el pan del cielo de Juan 6:32-35, la roca del desierto (1 Corintios 10:4) y los detalles de la cruz en el Salmo 22 y en Isaías 53. Es una reconstrucción suya, no una lista de Lucas.", "fuentes": ["lucas_comentario__macarthur#953"]}
+      ],
+      "destacado": {"texto": "Lucas 24:27 no dice qué versículos usó Jesús, pero sí que hubo una lectura de «todas las Escrituras» centrada en él.", "fuentes": ["lucas_comentario__macarthur#953", "biblia"]}
+    },
+    {
+      "titulo": "¿De qué texto citaban? La Septuaginta",
+      "parrafos": [
+        {"texto": "Cuando un apóstol cita, ¿qué texto tiene delante? Según la Coalición por el Evangelio, la Septuaginta es la primera traducción de la Biblia: el Pentateuco pasó al griego koiné en Alejandría, en tiempos de Ptolomeo II Filadelfo, y la obra se completó a lo largo de cuatro siglos. Para el siglo I, dice el artículo, los escritores del Nuevo Testamento que citaron el Antiguo usaron la Septuaginta, aunque el Nuevo Testamento no la nombra.", "fuentes": ["web_cpe_septuaginta#1", "web_cpe_septuaginta#2"]},
+        {"texto": "MacArthur agrega que esa versión fue la que usó gran parte de la iglesia primitiva y la que citan muchos escritores del Nuevo Testamento. Ligonier concluye que, si Jesús y los apóstoles usaron una traducción, Dios aprueba que la Biblia se traduzca.", "fuentes": ["mateo__macarthur#38", "web_ligonier_historia_biblia_espanol#6"]},
+        {"texto": "Los casos concretos muestran que no era una cita mecánica. Según el Comentario Moody, en Romanos 3:10-18 Pablo no cita el texto hebreo sino la Septuaginta: a veces a la letra, a veces parafraseando o resumiendo, y en ocasiones con mucha libertad, aunque transmite bien el pensamiento del Antiguo Testamento. Y MacArthur explica los setenta y cinco descendientes de Jacob que menciona Esteban (Hechos 7:14): el texto hebreo de Génesis 46:27 trae setenta, la Septuaginta setenta y cinco, y Esteban habría usado esta última.", "fuentes": ["comentario_biblico_moody__redactor#260", "hechos_comentario__archivo#122"]},
+        {"texto": "Tampoco todo viene de la Septuaginta. El Diccionario de Jesús y los Evangelios dice que las citas de Mateo compartidas con Marcos conservan sabor a Septuaginta, mientras que en las que Mateo interviene más se nota influencia hebrea y aramea; muchos especialistas piensan que él mismo pudo traducir directamente del hebreo. Y sobre Amós 9 en Hechos 15, MacArthur observa que la cita difiere del texto hebreo y tampoco coincide exactamente con la Septuaginta.", "fuentes": ["diccionario_de_jesus__green#129", "hechos_comentario__archivo#224"]}
+      ],
+      "destacado": {"texto": "Los apóstoles citaban con libertad y con fidelidad a la vez: a veces la letra, a veces el sentido.", "fuentes": ["comentario_biblico_moody__redactor#260", "hechos_comentario__archivo#224"]}
+    },
+    {
+      "titulo": "Mateo 2:15: Israel, el hijo llamado de Egipto",
+      "parrafos": [
+        {"texto": "Empecemos por Oseas. MacArthur recuerda que el libro se mueve entre el fracaso y la infidelidad: Dios manda amar y recuperar a una esposa adúltera, imagen de Israel tras otros dioses (Oseas 3:1). En ese contexto, Oseas 11:3-4 recuerda cómo Dios instruyó a los israelitas, los llevó, los curó y los alimentó, y los llamó de Egipto para serles fiel a pesar de su infidelidad. El «hijo» de Oseas es la nación, y la frase es una declaración histórica sobre el éxodo.", "fuentes": ["mateo__macarthur#38", "mateo__macarthur#39"]},
+        {"texto": "Mateo cita esa frase, «De Egipto llamé a mi Hijo», y se la aplica a Cristo (Mateo 2:15). Según MacArthur, el profeta no predecía a sabiendas que el Mesías saldría de Egipto; Mateo muestra que el regreso de Jesús fue ilustrado por el llamado de Israel siglos antes, de modo que el éxodo es un prototipo de ese regreso.", "fuentes": ["mateo__macarthur#38", "mateo__macarthur#39"]},
+        {"texto": "El Comentario Bíblico Mundo Hispano anota los paralelos: Israel bajó a Egipto por el hambre y Jesús por la amenaza de Herodes; Moisés huyó de la ira del faraón y volvió cuando este murió (Éxodo 4:19), y Jesús volvió cuando murió el rey que quería matarlo; en ambos casos Dios dio la orden de salir. Y recuerda que la nación ya era llamada «hijo de Dios» (Éxodo 4:22; Jeremías 31:9).", "fuentes": ["comentario_biblico_mundo__carro#39"]},
+        {"texto": "Hay además un contraste. Carballosa, siguiendo a Toussaint, observa que Oseas 11:1-2 mira atrás, a la infidelidad de Israel, y Mateo 2:15 mira adelante, a la entrega y obediencia de Jesús. El Diccionario de Jesús y los Evangelios lo dice de otro modo: Mateo contrasta la respuesta obediente de Jesús como Hijo de Dios con la desobediencia de Israel, y en esta cita se ve mejor que en ningún otro lugar que Jesús cumple el papel de Israel.", "fuentes": ["mateo_la_revelacion__carballosa#100", "diccionario_de_jesus__green#130", "diccionario_de_jesus__green#2330"]}
+      ],
+      "destacado": {"texto": "El «hijo» de Oseas es Israel; en Mateo, Jesús recorre el mismo camino y lo cumple donde Israel falló.", "fuentes": ["mateo_la_revelacion__carballosa#100", "diccionario_de_jesus__green#130"]}
+    },
+    {
+      "titulo": "Hechos 15: Santiago y la profecía de Amós",
+      "parrafos": [
+        {"texto": "Aquí el Antiguo Testamento se usa en un debate: algunos exigían que los creyentes gentiles guardaran la ley. MacArthur ve en el concilio de Jerusalén una serie de pruebas de que la salvación es por gracia. Pedro recuerda que Dios dio el Espíritu a los gentiles como a los judíos y que la ley era un yugo que ni ellos ni sus padres pudieron llevar (Hechos 15:8-10); Bernabé y Pablo cuentan las señales y maravillas que Dios hizo entre los gentiles (Hechos 15:12).", "fuentes": ["hechos_comentario__archivo#223"]},
+        {"texto": "Entonces habla Santiago. Lo que contó Simón, dice, concuerda con «las palabras de los profetas», y cita Amós 9:11-12 sobre reedificar el tabernáculo de David para que «el resto de los hombres busque al Señor» y también los gentiles (Hechos 15:13-18). El Comentario Bíblico Mundo Hispano resume que Santiago apoyó los argumentos de Pedro con citas del Antiguo Testamento y que, según Amós, los gentiles serían incluidos en el reino. El Comentario Moody agrega que la cita muestra que la salvación presente de los gentiles está dentro del propósito anunciado por Dios.", "fuentes": ["hechos_comentario__archivo#224", "comentario_biblico_mundo__carro2#101", "comentario_biblico_moody__redactor#224"]},
+        {"texto": "La decisión fue práctica: no inquietar a los gentiles que se convierten, y pedirles abstenerse de lo sacrificado a ídolos, de sangre, de ahogado y de fornicación (Hechos 15:19-29). MacArthur explica que esas cuatro cosas eran un mínimo para la comunión entre judíos y gentiles; el Comentario Moody dice que no eran un medio de salvación sino una base de convivencia.", "fuentes": ["hechos_comentario__archivo#225", "comentario_biblico_moody__redactor#224"]}
+      ],
+      "destacado": {"texto": "Santiago no usa a Amós contra la experiencia de los gentiles, sino para mostrar que esa experiencia ya estaba dentro de lo que Dios anunció.", "fuentes": ["comentario_biblico_moody__redactor#224", "comentario_biblico_mundo__carro2#101"]}
+    },
+    {
+      "titulo": "Gálatas 4: una alegoría con historia verdadera",
+      "parrafos": [
+        {"texto": "En Gálatas 4:21-31 Pablo vuelve sobre los dos hijos de Abraham: Ismael, hijo de la esclava Agar, nacido según la carne, e Isaac, hijo de la libre Sara, nacido por la promesa. Y afirma: «Lo cual es una alegoría», porque las dos mujeres son dos pactos. Según MacArthur, Ismael nació por un plan humano e Isaac por una intervención sobrenatural de Dios.", "fuentes": ["galatas_comentario_macarthur__archivo#85", "galatas_comentario_macarthur__archivo#87"]},
+        {"texto": "Los comentarios coinciden en que Pablo no duda de que la historia ocurrió. El Comentario Bíblico Beacon dice que derivar aplicaciones espirituales no indica duda sobre la historicidad. Keller sostiene que el relato es literalmente verdadero y que Pablo lo usa como ilustración: el hijo de Agar representa buscar la salvación por obras, y Sara, confiar en la gracia. El Mundo Hispano añade que Pablo da un significado adicional sin negar lo histórico.", "fuentes": ["comentario_biblico_beacon__howard#60", "galatas_para_ti__keller#115", "comentario_biblico_mundo__carro4#50"]}
+      ],
+      "destacado": {"texto": "Pablo no borra la historia de Abraham: la usa como ilustración sin dejar de creerla.", "fuentes": ["comentario_biblico_beacon__howard#60", "galatas_para_ti__keller#115", "comentario_biblico_mundo__carro4#50"]}
+    },
+    {
+      "titulo": "¿Con qué derecho? Y qué hacemos nosotros",
+      "parrafos": [
+        {"texto": "La pregunta de fondo es si los autores del Nuevo Testamento leyeron bien. La Declaración de Chicago sobre hermenéutica, de un consejo evangélico sobre inerrancia, responde que sí: niega que los escritores posteriores de la Escritura hayan malinterpretado pasajes anteriores al citarlos, y afirma que el sentido único de las palabras de un profeta incluye, sin limitarse a ello, lo que el profeta entendió y la intención de Dios que se ve en el cumplimiento. También niega que los escritores siempre entendieran todas las implicaciones de sus palabras, algo cercano a lo que dice MacArthur de Oseas.", "fuentes": ["web_chicago_hermeneutica#3", "mateo__macarthur#39"]},
+        {"texto": "Para el intérprete de hoy hay un freno. La misma declaración pide evitar el alegorizar arbitrario, distinto de la tipología que estaba demostrablemente en la mente del autor. MacArthur lo concreta: no podemos llamar tipo a una persona o suceso salvo que la Biblia misma lo diga. Y el Diccionario de Jesús y los Evangelios distingue dos enfoques académicos: quienes parten de que los hechos ocurrieron y ven en el tipo y el antitipo el plan de Dios, y quienes ven la tipología como recurso literario de los primeros cristianos; el primero, dice, concuerda mejor con los autores del Nuevo Testamento.", "fuentes": ["web_chicago_hermeneutica#8", "mateo__macarthur#39", "diccionario_de_jesus__green#2345", "diccionario_de_jesus__green#2346"]},
+        {"texto": "¿Qué hacemos, entonces? Cuatro pasos que salen de lo leído. Primero, leer el texto del Antiguo Testamento en su capítulo antes de ver cómo lo usa el Nuevo: hay que buscar qué quiso decir el autor. Segundo, aceptar las lecturas que el Nuevo Testamento mismo hace, como la de Mateo 2:15. Tercero, ilustrar con libertad, pero sin fundar doctrina en alegorías propias, como pedía Lutero. Cuarto, leer el Antiguo Testamento buscando a Cristo, como en Lucas 24, porque para la declaración toda interpretación que pierda ese centro es errónea.", "fuentes": ["web_chicago_hermeneutica#8", "web_chicago_hermeneutica#9", "comentarios_a_la__lutero#106", "biblia"]}
+      ],
+      "destacado": {"texto": "Para MacArthur, los únicos tipos seguros son los que el Nuevo Testamento da como tales.", "fuentes": ["mateo__macarthur#39"]}
+    }
+  ],
+  "citas": [
+    {"texto": "Los únicos tipos seguros del Antiguo Testamento son los que se dan como tales en el Nuevo Testamento.", "autor": "John MacArthur", "obra": "Mateo", "fuentes": ["mateo__macarthur#39"]},
+    {"texto": "Lo que Israel debió de ser, pero no consiguió serlo, el Mesías, el verdadero siervo de Jehová, lo fue.", "autor": "Evis L. Carballosa", "obra": "Mateo: La revelación de la realeza de Cristo", "fuentes": ["mateo_la_revelacion__carballosa#100"]}
+  ],
+  "palabras": [
+    {"original": "πληρόω", "translit": "plēroō", "idioma": "griego", "ref": "Mt 2:15", "significado": "Cumplir. El Diccionario de Jesús y los Evangelios señala que las citas de cumplimiento de Mateo llevan la forma pasiva de este verbo.", "fuentes": ["diccionario_de_jesus__green#128"]},
+    {"original": "τύπος", "translit": "typos", "idioma": "griego", "ref": "1 Co 10:11", "significado": "Literalmente «impresión» o «marca»; en sentido figurado, «ejemplo» o «modelo». Su pareja antitypos significa «copia» o «equivalente» (He 9:24; 1 P 3:21). De ahí vienen tipo y antitipo.", "fuentes": ["diccionario_de_jesus__green#2344"]},
+    {"original": "ἀλληγορέω", "translit": "allēgoreō", "idioma": "griego", "ref": "Gá 4:24", "significado": "El verbo que Pablo usa en Gálatas 4:24. MacArthur observa que casi todas las traducciones lo transliteran como «alegoría» y prefiere describir el pasaje como analogía ilustrativa.", "fuentes": ["galatas_comentario_macarthur__archivo#85"]}
+  ],
+  "cristo": [
+    {"texto": "Explícito: toda la Escritura habla de él. Lucas cuenta que Jesús explicó a los discípulos de Emaús lo que decían de él todas las Escrituras, y MacArthur lo relaciona con Juan 5:39.", "refs": ["Lc 24:27", "Jn 5:39"], "fuentes": ["lucas_comentario__macarthur#953", "biblia"]},
+    {"texto": "Tipo que el propio Nuevo Testamento señala: el Hijo llamado de Egipto. Mateo aplica Oseas 11:1 a Jesús; según MacArthur, esa asociación específica es la que permite afirmar que el éxodo es un tipo de su regreso. Que Jesús obedezca donde Israel falló es lectura de Carballosa y del Diccionario, no algo que el texto diga con esas palabras.", "refs": ["Mt 2:15", "Os 11:1"], "fuentes": ["mateo__macarthur#39", "mateo_la_revelacion__carballosa#100", "diccionario_de_jesus__green#130"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿En qué sentido «se cumplió» Oseas 11:1 en Jesús?",
+      "posturas": [
+        {"postura": "Es un prototipo. Oseas habló de Israel, no predijo a sabiendas el regreso del Mesías, y Mateo muestra que el éxodo ilustró ese regreso. Solo podemos hablar de tipo porque el Nuevo Testamento lo señala.", "quien": "MacArthur", "fuentes": ["mateo__macarthur#39"]},
+        {"postura": "Toussaint nota que Mateo nunca dice en el capítulo 2 que se cumpla una profecía: Oseas se refiere a un hecho histórico visto desde la óptica de Dios, así que solo es un tipo profético de Cristo, cuyo significado Jesús llena plenamente.", "quien": "Toussaint, citado por Carballosa", "fuentes": ["mateo_la_revelacion__carballosa#99", "mateo_la_revelacion__carballosa#100"]},
+        {"postura": "El cumplimiento cabal de la expresión tuvo lugar en Jesús, aunque Israel ya fuera llamado «hijo de Dios»: es una doble referencia, como en Isaías 42-53, donde el siervo es primero la nación y luego el Mesías.", "quien": "Comentario Bíblico Mundo Hispano", "fuentes": ["comentario_biblico_mundo__carro#39"]},
+        {"postura": "Jesús cumple el papel de Israel, y su regreso de Egipto señala la liberación definitiva del pueblo de Dios. Las citas de cumplimiento forman un marco: quizás no importe tanto la cita exacta como que toda la Escritura apunta a Jesús.", "quien": "Diccionario de Jesús y los Evangelios", "fuentes": ["diccionario_de_jesus__green#128", "diccionario_de_jesus__green#130"]}
+      ],
+      "nota": "Ninguna de las cuatro niega que el «hijo» de Oseas sea Israel; difieren en cómo nombrar y explicar el paso a Jesús."
+    },
+    {
+      "tema": "¿Cómo se aplica Amós 9:11-12 en Hechos 15?",
+      "posturas": [
+        {"postura": "Amós habla del reino milenial: los gentiles serán salvos como gentiles, sin hacerse prosélitos judíos. Pedro mostró que ya fueron salvos solo por gracia y Santiago, que lo serán en el futuro; por eso también hoy. Esto no abroga el plan de Dios para Israel.", "quien": "MacArthur", "fuentes": ["hechos_comentario__archivo#224"]},
+        {"postura": "Algunos eruditos ven en la cita un programa para el fin de los tiempos, en tres etapas: la formación de un pueblo para su nombre (la iglesia), la restauración y salvación de Israel y la salvación final de los gentiles.", "quien": "Algunos eruditos, según el Comentario Moody", "fuentes": ["comentario_biblico_moody__redactor#223"]},
+        {"postura": "La cita ilustra y apoya la misión de Pedro; la reconstrucción del tabernáculo de David se refiere a la salvación del remanente de judíos creyentes, y las promesas hechas a Israel se cumplen en la iglesia (Gálatas 3:7; Romanos 2:29), sin negar un futuro para Israel como nación.", "quien": "Comentario Moody", "fuentes": ["comentario_biblico_moody__redactor#224"]}
+      ],
+      "nota": "La relación entre Israel y la iglesia, y el milenio, se estudiarán con sus autores en las series de escatología."
+    },
+    {
+      "tema": "¿Qué clase de lectura es la «alegoría» de Gálatas 4:24 y qué licencia da?",
+      "posturas": [
+        {"postura": "Es mejor llamarla analogía que ilustra una verdad espiritual sobre una historia real. La alegoría como método es riesgosa, porque solo la limita la imaginación del intérprete; Pablo la usó guiado por el Espíritu para mostrar que la salvación siempre fue por gracia.", "quien": "MacArthur", "fuentes": ["galatas_comentario_macarthur__archivo#85", "galatas_comentario_macarthur__archivo#86"]},
+        {"postura": "Pablo da un significado espiritual legítimo para ilustrar su argumento, aunque no el significado original del texto; usó métodos rabínicos para encontrarse con sus oponentes en su propio terreno.", "quien": "Comentario Bíblico Beacon", "fuentes": ["comentario_biblico_beacon__howard#60"]},
+        {"postura": "Pablo usa en sentido alegórico lo que Génesis dice en sentido literal. Lutero admite que quien guste practique la lectura de varios sentidos como adorno del sentido básico, pero nunca para dar fuerza a una doctrina de fe en las controversias.", "quien": "Lutero", "fuentes": ["comentarios_a_la__lutero#105", "comentarios_a_la__lutero#106"]}
+      ],
+      "nota": "Los tres aceptan la historicidad del relato y desconfían de la alegoría como método para fundar doctrina; difieren en cómo nombrar lo que hace Pablo."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Mt 5:17", "nota": "El Diccionario lo toma como declaración programática: Jesús cumple la ley y los profetas sin abrogarlos.", "fuentes": ["diccionario_de_jesus__green#127", "diccionario_de_jesus__green#128"]},
+    {"ref": "Mt 2:23", "nota": "Mateo usa la fórmula de cumplimiento sin que haya una cita claramente identificable del Antiguo Testamento.", "fuentes": ["diccionario_de_jesus__green#128"]},
+    {"ref": "Éx 4:22", "nota": "Israel ya era llamado «hijo de Dios»: el trasfondo del «hijo» de Oseas 11:1.", "fuentes": ["comentario_biblico_mundo__carro#39"]},
+    {"ref": "1 Co 10:11", "nota": "La tipología más elaborada de Pablo: las experiencias de Israel en el desierto como ejemplo y advertencia para la iglesia.", "fuentes": ["diccionario_de_jesus__green#2344", "diccionario_de_jesus__green#2345"]}
+  ],
+  "para_vivir": [
+    {"texto": "Antes de leer cómo el Nuevo Testamento usa un texto del Antiguo, leé el texto original en su capítulo: hoy, Oseas 11:1-4 y Amós 9. La declaración de Chicago pide buscar primero qué quiso decir el autor.", "fuentes": ["web_chicago_hermeneutica#8", "mateo__macarthur#38"]},
+    {"texto": "Cuando el Nuevo Testamento te dice que algo es tipo o cumplimiento, aceptalo. Cuando no lo dice, ilustrá con libertad, pero no afirmes con más fuerza que la Biblia ni fundes doctrina en alegorías tuyas.", "fuentes": ["mateo__macarthur#39", "comentarios_a_la__lutero#106"]},
+    {"texto": "Abrí el Antiguo Testamento buscando a Cristo, como Jesús con los discípulos de Emaús, a quienes les ardía el corazón cuando les abría las Escrituras (Lucas 24:32), sin forzar detalles que el texto no sostiene.", "fuentes": ["lucas_comentario__macarthur#954", "web_chicago_hermeneutica#8"]}
+  ],
+  "para_reflexionar": [
+    "Cuando leés una cita del Antiguo Testamento en el Nuevo, ¿buscás el pasaje original y leés su capítulo, o seguís de largo? ¿Qué cambia en Mateo 2:15 después de leer Oseas 11:1-4?",
+    "Los autores de hoy coinciden en que Oseas hablaba de Israel y difieren en cómo llamar el uso de Mateo. ¿Qué te pesa más: la regla de que los tipos seguros son los que el Nuevo Testamento señala o la idea de que toda la Escritura apunta a Jesús? ¿Podés sostener las dos?",
+    "Jesús les abrió las Escrituras a dos discípulos desanimados y les ardió el corazón. ¿Qué parte del Antiguo Testamento te cuesta más ver con Cristo en el centro, y qué podrías leer esta semana con esa pregunta?"
+  ],
+  "para_orar": "Señor Jesús, gracias porque vos abriste las Escrituras a tus discípulos y mostraste que todo hablaba de vos. Enseñame a leer el Antiguo Testamento con humildad: primero lo que dice en su lugar, después lo que el Nuevo Testamento enseña de él. Guardame de inventar significados que tu Palabra no da y de leer sin buscarte a vos. Que me arda el corazón cuando me abras la Biblia. Amén.",
+  "profundizar": [
+    {"titulo": "Jesús como nuevo Moisés en Mateo", "texto": "El Diccionario de Jesús y los Evangelios dice que la tipología mosaica está detrás del relato de la infancia en Mateo (Mateo 2:13-20, con Éxodo 1:15-2:10) y que los cinco grandes discursos de Mateo pueden recordar los cinco libros de Moisés. Son paralelos que los especialistas proponen, no identificaciones que Mateo declare con una fórmula; conviene leerlos con la regla de MacArthur a mano.", "fuentes": ["diccionario_de_jesus__green#130", "diccionario_de_jesus__green#2348", "mateo__macarthur#39"]}
+  ]
+}

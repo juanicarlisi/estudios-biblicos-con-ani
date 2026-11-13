@@ -79,11 +79,16 @@ def verificar(n):
             dig = re.sub(r'\D', '', num)
             if dig not in re.sub(r'\D', '', ' ' + base) and dig not in base.replace(' ', ''):
                 f(ruta, 'cifras', f'{num} no figura en las fuentes citadas')
-        # autores nombrados
-        for i, b in LIB.items():
-            ap = norm(b['autor']).split()[-1] if b['autor'] and not b['autor'].startswith('(') else None
-            if ap and len(ap) > 3 and re.search(rf'\b{ap}\b', norm(txt)) and not re.search(rf'\b{ap}\b', base) and not any(i2 == i or LIB[i2]['autor'] == b['autor'] for i2, _ in textos):
-                f(ruta, 'autores', f'nombra a {b["autor"]} sin citarlo')
+        # autores nombrados: se compara por apellido (el apellido del autor de algún libro citado, o que aparezca en la página citada)
+        ap_citados = set()
+        for i2, _ in textos:
+            for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', LIB[i2]['autor'] or '')):
+                w = norm(a).split()
+                if w: ap_citados.add(w[-1])
+        ntxt = norm(txt)
+        for ap in sorted({norm(a).split()[-1] for b in LIB.values() for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', b['autor'] or '')) if norm(a).split()} - {'varios', 'autores', 'editores', 'serie'}):
+            if len(ap) > 4 and ap not in ap_citados and re.search(rf'\b{ap}\b', ntxt) and not re.search(rf'\b{ap}\b', base):
+                f(ruta, 'autores', f'nombra a «{ap}» sin citar un libro suyo ni figurar en las páginas citadas')
         for m in RE_REF.finditer(txt):
             refs_dia.add(m.group(0))
     for v in d.get('versiculos', []): refs_dia.add(v['ref'])

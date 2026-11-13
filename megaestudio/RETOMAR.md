@@ -4,7 +4,8 @@
 - Plan maestro hecho (`trabajo/plan/PLAN-MAESTRO.md`): 20 ciclos, 103 series, ≈1.974 días, contrastado con IBBA, The Master's Seminary, SITB, DTS, RTS, SBTS y TTL (`trabajo/plan/institutos/`).
 - Catálogo de la biblioteca (`trabajo/catalogo/resumen.md`): 1.287 archivos; 706 clasificados A; **480 sin clasificar** (ref4 «nuevos», ref4 01–08 y los 117 comentarios por libro del repo `biblioteca-estudios-biblicos`, que son punteros LFS).
 - Registro de libros con texto extraído: 155 (ref3: Teología sistemática, Relación con Dios, Apologética, Escatología, Espíritu Santo). 8 son escaneos sin texto (hace falta OCR): ver `scripts/textos.py`.
-- Serie 1.1 «Para qué estudiamos la Biblia» (días 1–6): ver `trabajo/dias/`.
+- **Serie 1.1 «Para qué estudiamos la Biblia» terminada (días 1–6)**, verificados por programa (`scripts/verificar.py 1 2 3 4 5 6` → OK). Se escribieron con 1 redactor (Sonnet) por día; cada día usa entre 7 y 9 libros. App construida: `estudio-biblico-integral.html`.
+- Lección del sprint: los redactores tienden a pasarse de largo (tope 3.300 palabras en el verificador) y a esquivar advertencias del verificador cambiando el texto (se corrigió: el control de autores compara por apellido).
 
 ## Pendiente (en este orden)
 1. Clasificar los 480 libros sin clasificar (criterio: `genesis/trabajo/clasificacion/criterio.md`); bajar `libros-referencia4` por carpetas y los LFS de `biblioteca-estudios-biblicos`.

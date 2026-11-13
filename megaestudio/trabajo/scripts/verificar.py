@@ -98,6 +98,7 @@ def verificar(n):
     vistos = set()
     for r in sorted(refs_dia):
         r2 = re.sub(r'(\d+:\d+)\s*[-–]\s*(\d+).*', r'\1-\2', r)
+        r2 = re.sub(r'^((?:2|3)\s?Jn|(?:2|3)\s?Juan|Jud|Judas|Abd|Abdías|Flm|Filemón)\s+(\d+)', r'\1 1:\2', r2)   # libros de un solo capítulo
         nz = normalizar(r2.replace('–', '-'))
         if not nz: f('', 'biblia', f'referencia no reconocida: {r}'); continue
         libro, c, v1, v2 = nz
@@ -110,7 +111,7 @@ def verificar(n):
     for ruta, c, base in com_dia:
         cn = norm(c)
         if cn not in base and cn not in rvr_n: f(ruta, 'comillas', f'«{c[:80]}» no está en las fuentes ni en la RVR1960 citada')
-    if not 1500 <= tot <= 4500: f('', 'forma', f'palabras={tot} (esperado 1.500-4.500)')
+    if not 1800 <= tot <= 3300: f('', 'forma', f'palabras={tot} (esperado 1.800-3.300; la guía apunta a 2.800)')
     return tot, flags
 
 if __name__ == '__main__':

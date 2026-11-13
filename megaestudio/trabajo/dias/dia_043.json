@@ -1,0 +1,141 @@
+{
+  "dia": 43,
+  "titulo": "Palabras clave del Nuevo Testamento",
+  "bajada": "Detrás de «Verbo», «gracia», «fe», «amor» o «iglesia» hay palabras griegas con una historia de uso. ¿Qué dicen de ellas los autores consultados, y qué aportan a leer mejor el Nuevo Testamento?",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Juan 1:1-18; Efesios 2:1-10", "porque": "Dos pasajes cargados de vocabulario clave: el Verbo y la gracia en Juan, y la gracia, la fe y las obras en Efesios."},
+  "versiculos": [
+    {"ref": "Juan 1:14", "porque": "El Verbo se hizo carne, lleno de gracia y de verdad: dos de las palabras de hoy en una sola frase."},
+    {"ref": "Efesios 2:8", "porque": "Gracia y fe juntas, en el versículo del Nuevo Testamento que más se cita sobre cómo nos salva Dios."}
+  ],
+  "entrada": {
+    "texto": "Detrás de cada traducción hay una palabra griega que un autor eligió, y algunas cargan tanto peso que vale la pena conocerlas: *logos*, *charis*, *pistis*, *agape*, *metanoia*, *euangelion*, *dikaiosyne*, *ekklesia*, *koinonia*, *parakletos* y *basileia*. Hoy las recorremos una por una, con una condición que repiten las fuentes: el sentido de una palabra se aprende viendo cómo se usa en la Biblia, y no inventándole una definición. Cada una va con sus pasajes y con lo que dicen de ella los autores consultados, incluidos los lugares donde no coinciden.",
+    "fuentes": ["web_bibleproject_arte_palabras_biblicas#11", "web_logos_agape#3"]
+  },
+  "apartados": [
+    {
+      "titulo": "Cómo mirar una palabra sin pedirle de más",
+      "parrafos": [
+        {"texto": "BibleProject, en sus notas de clase sobre el arte de estudiar palabras bíblicas, propone empezar por una actitud: querer entender lo que los autores bíblicos tenían en mente con cada palabra, dejando que el contexto de la Biblia pinte el sentido y sin imponerle nuestras suposiciones. Después vienen pasos sencillos: elegir una palabra importante de un versículo, comparar varias traducciones e identificar la palabra original.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#11"]},
+        {"texto": "Vern Poythress, entrevistado en un artículo de Logos sobre el amor, agrega un cuidado. Algo que parece una definición bíblica rara vez cierra el significado de una palabra: el sentido de «pecado» o de «amor» se arma leyendo todo lo que la Biblia dice del tema, y toda definición corta, por valiosa que sea, deja algo afuera. Por eso conviene mirar cómo se usa la palabra en cada pasaje.", "fuentes": ["web_logos_agape#3"]},
+        {"texto": "Ryrie anota que para la gracia bastan tres palabras (*chen* y *chesed* en el Antiguo Testamento, *charis* en el Nuevo), mientras que para el pecado hay por lo menos ocho en el Antiguo y una docena en el Nuevo. El día 41 trata las falacias léxicas; hoy aplicamos el método con prudencia.", "fuentes": ["ryrie#91"]}
+      ],
+      "destacado": {"texto": "Una palabra griega no es una llave mágica: es una puerta que se abre hacia el contexto bíblico.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#11", "web_logos_agape#3"]}
+    },
+    {
+      "titulo": "Logos y parakletos: la Palabra y el Ayudador",
+      "parrafos": [
+        {"texto": "En Juan 1:1 «Verbo» traduce *logos*, que según Nimrod López Noj, en la Coalición por el Evangelio, significa «palabra, discurso, explicación, razonamiento». La forma «Verbo» viene de la Vulgata latina (*Verbum*); por eso otras versiones, como la RV 2015 o la NBLA, dicen «Palabra». El término ya circulaba fuera de la Biblia: para los estoicos, vivir según el logos era vivir conforme a la razón. El Diccionario Bíblico Mundo Hispano suma a Filón, para quien el logos mediaba entre Dios y su creación sin ser claramente personal ni impersonal. El paso decisivo de Juan, dice López Noj, fue afirmar que el Logos no es un principio filosófico sino una persona: Jesucristo (Juan 1:14-17).", "fuentes": ["web_cpe_jesus_verbo#1", "diccionario_biblico_mundo__douglas2#394"]},
+        {"texto": "El mismo autor destaca cuatro rasgos del Verbo en Juan 1:1-5. Es Dios: el verbo dice «era», no «llegó a ser», lo que apunta a su eternidad, y «era con Dios» expresa relación íntima y distinción entre el Padre y el Hijo. Es Creador: «todas las cosas por él fueron hechas» (Juan 1:3). Es vida y luz de la humanidad.", "fuentes": ["web_cpe_jesus_verbo#2"]},
+        {"texto": "En Juan 14 aparece otra palabra de peso: *parakletos*. MacArthur explica que se forma con *para* («junto con») y *kaleo* («llamar»), las mismas piezas de *parakaleo* («exhortar»), y que es el título que se da tanto a Jesús (1 Juan 2:1) como al Espíritu Santo (Juan 14:16, 26; 15:26; 16:7). El Diccionario Mundo Hispano lo traduce «abogado», «ayudador» o «consolador». MacArthur prefiere «Ayudador» en los cuatro pasajes de Juan, porque el contexto subraya que el Paracleto ayuda a los discípulos a saber, recordar y predicar la verdad sobre Cristo. Grudem, por su parte, lo cuenta entre los indicios de que el Espíritu es una persona, porque es un término que comúnmente se usa para hablar de personas.", "fuentes": ["macarthur_ts#1124", "macarthur_ts#529", "diccionario_biblico_mundo__douglas#62", "grudem#242"]}
+      ],
+      "destacado": {"texto": "En Juan, Dios se acerca de dos maneras: el Verbo que se hizo carne (Juan 1:14) y el Ayudador que acompaña a los discípulos (Juan 14:16).", "fuentes": ["web_cpe_jesus_verbo#1", "macarthur_ts#529"]}
+    },
+    {
+      "titulo": "Charis y pistis: la gracia y la fe de Efesios 2:8",
+      "parrafos": [
+        {"texto": "El Diccionario Mundo Hispano señala que *charis* abarca desde lo que da gozo o encanto hasta la buena voluntad y la bondad de un amo hacia un esclavo; por analogía pasó a nombrar la bondad de Dios hacia el hombre y, sobre todo, el favor inmerecido que Dios da a los pecadores por medio de Cristo (Efesios 2:4-5). Agrega que la gracia es el medio con que Dios efectuó la salvación (Tito 2:11) y también la influencia que sostiene al creyente (Hechos 11:23).", "fuentes": ["diccionario_biblico_mundo__douglas#522", "diccionario_biblico_mundo__douglas#523"]},
+        {"texto": "Según Logos, *charis* y su pariente *charisma* aparecen más de 160 veces en el Nuevo Testamento, sobre todo en Lucas, Juan, Hechos y Pablo, y ninguna en Mateo ni en Marcos. El Verbo está «lleno de gracia y de verdad» (Juan 1:14) y de su plenitud recibimos «gracia sobre gracia» (Juan 1:16). La idea ya estaba en el Antiguo Testamento: donde la traducción griega pone *charis*, el hebreo dice *ḥēn*, que es lo que Noé halló ante Dios (Génesis 6:8).", "fuentes": ["web_logos_gracia#3", "web_logos_gracia#4", "web_logos_gracia#1"]},
+        {"texto": "*Pistis* tiene varias capas. El Diccionario Mundo Hispano le da dos: confianza y dependencia, y también fidelidad. BibleProject muestra tres usos en el Nuevo Testamento: el acto de confiar en alguien (2 Corintios 5:7), el conjunto de convicciones que identifica a un grupo (Hechos 6:7; Efesios 4:5) y las acciones visibles que muestran esa confianza (Mateo 9:2; Santiago 2:14-17). Advierte que, arrancada de su contexto, Efesios 2:8-9 puede oponer la fe a las obras como si fuera mera creencia, separación que considera muy dañina en la tradición protestante.", "fuentes": ["diccionario_biblico_mundo__douglas#479", "web_bibleproject_arte_palabras_biblicas#8"]},
+        {"texto": "Los teólogos sistemáticos la precisan a su modo. Berkhof distingue en *pistis* la confianza en una persona, la aceptación de su testimonio y la confianza puesta en ella para el futuro; la fe que salva es la convicción de que Dios es veraz, la aceptación de su Palabra y la confianza total en él para la salvación del alma. Grudem prefiere hoy la palabra «confianza» y observa que Juan 3:16 dice creer *en* Jesús (*pisteuo eis auton*), no solo creerle. Ryrie, sobre Efesios 2:8, sostiene que la salvación es por la fe y no a causa de la fe: la fe es el canal, no la causa, y hasta ella cuenta entre los dones de Dios (Efesios 2:9).", "fuentes": ["berkhof#192", "grudem#748", "ryrie#144"]}
+      ],
+      "destacado": {"texto": "La gracia es el favor que nadie merece; la fe es la mano abierta que lo recibe, no el mérito que lo compra.", "fuentes": ["diccionario_biblico_mundo__douglas#522", "ryrie#144"]}
+    },
+    {
+      "titulo": "Agape: el amor, y un malentendido popular",
+      "parrafos": [
+        {"texto": "Se repite mucho que *agape* es el amor incondicional, una decisión más que un sentimiento. Un artículo de Logos pone la idea a prueba con dos voces. Jonathan Leeman, de 9Marks, objeta la teología de fondo: el amor no se reparte en «solo regalo» o «solo deseo»; el amor del Padre por el Hijo (Juan 5) da y se complace a la vez. Reducirlo a regalo, advierte, lleva a un cristianismo fácil donde Jesús es Salvador pero no Señor, y vuelve incomprensible Juan 15:10. Prefiere llamar contracondicional al amor de Dios: contrario a lo que merecemos.", "fuentes": ["web_logos_agape#1", "web_logos_agape#2"]},
+        {"texto": "Poythress responde por el lado del idioma. La familia de *agape* se usó en la Septuaginta para el amor egoísta de Amnón hacia Tamar, así que en sí misma no puede significar un amor desinteresado y sin emoción. Y en Juan 21, donde se suele ver un contraste entre *agape* y *philia*, para él son básicamente sinónimas: una variación de estilo y poco más. Su conclusión es que el amor se define leyendo toda la Biblia, con sus mandamientos de amar a Dios y al prójimo.", "fuentes": ["web_logos_agape#3"]},
+        {"texto": "El Diccionario Mundo Hispano da otra pista de uso: *agape* es la más frecuente de las dos palabras del Nuevo Testamento para el amor, e implica lo inapreciable del ser amado. También nombra las comidas comunitarias de los primeros cristianos (Judas 12), y señala que en el griego clásico la palabra aparecía poco.", "fuentes": ["diccionario_biblico_mundo__douglas#83", "diccionario_biblico_mundo__douglas#311"]}
+      ],
+      "destacado": {"texto": "Antes de decir qué significa agape, conviene mirar los textos donde aparece y escuchar a toda la Biblia sobre el amor.", "fuentes": ["web_logos_agape#3", "web_logos_agape#4"]}
+    },
+    {
+      "titulo": "Metanoia, euangelion y dikaiosyne: cambiar de mente, buena noticia y declarar justo",
+      "parrafos": [
+        {"texto": "*Metanoia* se forma con *meta* («cambio») y *noieo* («ejercicio de la mente»): cambiar de parecer, dice el Diccionario Mundo Hispano. Pero no es solo intelectual. Berkhof lo ve como un cambio moral, porque con él cambia la dirección de la vida, y MacArthur recuerda que la «mente» (*nous*) es la conciencia interior de toda la persona, de modo que el arrepentimiento lleva a «frutos dignos de arrepentimiento» (Lucas 3:8). La Coalición por el Evangelio ve en el arrepentimiento y la fe dos caras de una misma moneda (Hechos 20:21). Grudem agrega una cautela: *metanoia* no siempre es arrepentimiento para salvación, como el cambio de parecer de Esaú en Hebreos 12:17.", "fuentes": ["diccionario_biblico_mundo__douglas#164", "berkhof#186", "macarthur_ts#805", "web_cpe_arrepentimiento#2", "grudem#841"]},
+        {"texto": "*Euangelion* significa «buenas nuevas». Según el Diccionario Mundo Hispano, en el Nuevo Testamento nunca designa un libro sino el mensaje anunciado por Cristo y los apóstoles (Romanos 1:16). MacArthur anota que el sustantivo aparece más de setenta y cinco veces y el verbo *euangelizo* más de cincuenta. La Coalición por el Evangelio lo define como la buena noticia de la muerte y resurrección de Jesucristo, por la cual el creyente es perdonado, reconciliado y justificado.", "fuentes": ["diccionario_biblico_mundo__douglas#455", "macarthur_ts#1045", "web_cpe_evangelio#1"]},
+        {"texto": "*Dikaiosyne* comparte raíz con «justo», «justificar» y «justificación»: MacArthur anota que un lector griego lo notaba de inmediato (*dikaios*, *dikaiosyne*, *dikaioo*). Ryrie explica que *dikaioo* significa declarar justo, un concepto de tribunal: no hacer justo, sino atribuir justicia (Deuteronomio 25:1). La Coalición por el Evangelio añade que en Pablo «la justicia de Dios» es a la vez un atributo divino y un don que se recibe, y reconoce que su significado es motivo de controversia.", "fuentes": ["macarthur_ts#913", "ryrie#131", "web_cpe_justicia_dios_justificacion#1"]}
+      ]
+    },
+    {
+      "titulo": "Ekklesia, koinonia y basileia: pueblo, comunión y reino",
+      "parrafos": [
+        {"texto": "*Ekklesia* significa «asamblea». La Coalición por el Evangelio ve en el Nuevo Testamento una asamblea celestial y muchas locales. El Diccionario Mundo Hispano recuerda que la palabra se usa en general en Hechos 19:32, que la Septuaginta la aplicó a la congregación del Antiguo Testamento (Hechos 7:38) y que los discípulos la adoptaron para su nueva reunión; en los Evangelios aparece solo en Mateo 16:18 y 18:17. Grudem añade que la Septuaginta usa *ekklesia* 69 veces para traducir *qahal*, «asamblea».", "fuentes": ["web_cpe_iglesia_universal_local#1", "diccionario_biblico_mundo__douglas#589", "grudem#900"]},
+        {"texto": "*Koinonia* alude, según MacArthur, a «compartir» o «participación». Su base es la salvación: el creyente está en comunión con el Señor (1 Corintios 1:9) y por eso con los demás (1 Juan 1:3), y esa posición se vive en el servicio sacrificial (Filipenses 2:1-4; Hechos 4:32-37). El Diccionario Mundo Hispano registra usos más concretos: pertenecer a la iglesia local (Hechos 2:42), asociarse en el apoyo al evangelio y a la obra caritativa (2 Corintios 8:4) y ese amor celestial entre creyentes.", "fuentes": ["macarthur_ts#1075", "macarthur_ts#1094", "diccionario_biblico_mundo__douglas#310", "diccionario_biblico_mundo__douglas#311"]},
+        {"texto": "*Basileia* es «reino», pero el Diccionario Mundo Hispano aclara que en griego y hebreo su sentido principal es el acto de reinar. Distingue tres usos: el pueblo del reino (Apocalipsis 1:6), la esfera donde se percibe el reinado de Dios, hoy y en el futuro (Mateo 11:11; 25:34), y el reinado soberano mismo. Lo define como el reinado soberano de Dios manifestado en Cristo para derrotar a sus enemigos, crear un pueblo y abrir esferas donde su poder se percibe. La Coalición por el Evangelio llama a los miembros de la iglesia local «ciudadanos del reino».", "fuentes": ["diccionario_biblico_mundo__douglas2#194", "diccionario_biblico_mundo__douglas2#195", "web_cpe_iglesia_universal_local#1"]}
+      ],
+      "destacado": {"texto": "Iglesia, comunión y reino no son temas sueltos: son tres maneras de nombrar la vida del pueblo que Dios reúne en Cristo.", "fuentes": ["web_cpe_iglesia_universal_local#1", "macarthur_ts#1094"]}
+    }
+  ],
+  "citas": [
+    {"texto": "el Verbo no es parte de las cosas creadas, sino su Creador", "autor": "Nimrod López Noj", "obra": "¿Qué significa que Jesús sea el Verbo de Dios? (Coalición por el Evangelio)", "fuentes": ["web_cpe_jesus_verbo#2"]},
+    {"texto": "La salvación es siempre por la fe, no a causa de la fe", "autor": "Charles Ryrie", "obra": "Teología básica", "fuentes": ["ryrie#144"]}
+  ],
+  "palabras": [
+    {"original": "ἀγάπη", "translit": "agape", "idioma": "griego", "ref": "Jn 21:15", "significado": "Amor. Logos (Poythress) la ve como palabra flexible, no como término técnico de amor incondicional; el Diccionario Mundo Hispano la vincula también con las comidas fraternales (Jud 12).", "fuentes": ["web_logos_agape#3", "diccionario_biblico_mundo__douglas#83"]},
+    {"original": "πίστις", "translit": "pistis", "idioma": "griego", "ref": "Ef 2:8", "significado": "Fe. Confianza y dependencia, y también fidelidad; puede nombrar el acto de confiar, las convicciones de un grupo o las acciones que muestran esa confianza.", "fuentes": ["diccionario_biblico_mundo__douglas#479", "web_bibleproject_arte_palabras_biblicas#8"]},
+    {"original": "χάρις", "translit": "charis", "idioma": "griego", "ref": "Ef 2:8", "significado": "Gracia. Bondad y favor inmerecido de Dios; traduce el hebreo ḥēn en la traducción griega del Antiguo Testamento.", "fuentes": ["diccionario_biblico_mundo__douglas#522", "web_logos_gracia#4"]},
+    {"original": "λόγος", "translit": "logos", "idioma": "griego", "ref": "Jn 1:1", "significado": "Palabra, discurso, explicación, razonamiento; en Juan es una persona, Jesucristo.", "fuentes": ["web_cpe_jesus_verbo#1", "diccionario_biblico_mundo__douglas2#394"]},
+    {"original": "ἐκκλησία", "translit": "ekklesia", "idioma": "griego", "ref": "Mt 16:18", "significado": "Asamblea. Se usa en general y también para el pueblo de Dios, en la Septuaginta y en el Nuevo Testamento.", "fuentes": ["grudem#900", "diccionario_biblico_mundo__douglas#589"]},
+    {"original": "εὐαγγέλιον", "translit": "euangelion", "idioma": "griego", "ref": "Ro 1:16", "significado": "Buenas nuevas. El mensaje de Cristo y los apóstoles; en el Nuevo Testamento no designa un libro.", "fuentes": ["macarthur_ts#1045", "diccionario_biblico_mundo__douglas#455"]},
+    {"original": "μετάνοια", "translit": "metanoia", "idioma": "griego", "ref": "Lc 3:8", "significado": "Arrepentimiento. Cambio de parecer que, según Berkhof y MacArthur, también es moral y de toda la persona.", "fuentes": ["berkhof#186", "macarthur_ts#805"]},
+    {"original": "δικαιοσύνη", "translit": "dikaiosyne", "idioma": "griego", "ref": "Ro 3:21", "significado": "Justicia. Comparte raíz con dikaioo, «declarar justo», concepto de tribunal según Ryrie.", "fuentes": ["macarthur_ts#913", "ryrie#131"]},
+    {"original": "κοινωνία", "translit": "koinonia", "idioma": "griego", "ref": "Hch 2:42", "significado": "Comunión, participación, compartir; en el Diccionario Mundo Hispano, lo que se tiene en común.", "fuentes": ["macarthur_ts#1075", "diccionario_biblico_mundo__douglas#310"]},
+    {"original": "παράκλητος", "translit": "parakletos", "idioma": "griego", "ref": "Jn 14:16", "significado": "Abogado, ayudador, consolador; título de Jesús (1 Jn 2:1) y del Espíritu Santo.", "fuentes": ["macarthur_ts#1124", "diccionario_biblico_mundo__douglas#62"]},
+    {"original": "βασιλεία", "translit": "basileia", "idioma": "griego", "ref": "Mt 11:11", "significado": "Reino, reinado. En griego y hebreo su sentido principal es el acto de reinar; también el pueblo y la esfera del reino.", "fuentes": ["diccionario_biblico_mundo__douglas2#194"]}
+  ],
+  "cristo": [
+    {"texto": "El Verbo hecho carne. Juan 1:1-3 dice que el Verbo era Dios y creó todas las cosas; Juan 1:14 y 1:17 lo identifican con Jesucristo, por quien vinieron la gracia y la verdad. Es lo que el propio texto de Juan establece, no una alegoría.", "refs": ["Jn 1:1", "Jn 1:14", "Jn 1:17"], "fuentes": ["web_cpe_jesus_verbo#1", "web_cpe_jesus_verbo#2"]},
+    {"texto": "Abogado y reino. Jesús es llamado parakletos en 1 Juan 2:1, y anuncia otro Paracleto, el Espíritu (Juan 14:16). Según el Diccionario Mundo Hispano, el reino de Dios entró en la historia en la persona de Cristo para romper el poder de la muerte y de Satanás.", "refs": ["1 Jn 2:1", "Jn 14:16"], "fuentes": ["macarthur_ts#1124", "diccionario_biblico_mundo__douglas2#195"]},
+    {"texto": "El centro del evangelio. Ryrie ubica la justicia que Dios ofrece en la muerte de Cristo, y la Coalición por el Evangelio resume la buena noticia en su muerte y resurrección. Ambas fuentes se apoyan en textos explícitos del Nuevo Testamento, como Romanos 3:21-26.", "refs": ["Ro 3:21-26"], "fuentes": ["ryrie#131", "web_cpe_evangelio#1"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Pistis Christou: «fe en Cristo» o «fidelidad de Cristo»?",
+      "posturas": [
+        {"postura": "La frase, que aparece ocho veces en las cartas de Pablo, es ambigua en griego. Sostiene que lo más probable es «fe en Cristo», porque Pablo suele usar «por la fe» para hablar de nuestra fe como el medio de salvación; y que, de todos modos, importan tanto nuestra fe en Cristo como su fidelidad.", "quien": "McFadden (Crossway)", "fuentes": ["web_crossway_pistis_christou#1", "web_crossway_pistis_christou#2"]},
+        {"postura": "Según McFadden, Hays defiende que Pablo pone el énfasis en la historia de Cristo y no en nuestra decisión de fe, y que muchas veces pistis se refiere a la fidelidad de Cristo al ir a la cruz. Aquí solo aparece la tesis tal como la resume McFadden.", "quien": "Presentada por McFadden", "fuentes": ["web_crossway_pistis_christou#1"]}
+      ],
+      "nota": "Solo se oye un lado y la descripción que hace del otro. La justificación se estudiará en la serie 6.3."
+    },
+    {
+      "tema": "¿Qué significa «amor» en el Nuevo Testamento: un amor incondicional?",
+      "posturas": [
+        {"postura": "Agape nombraría un amor especial, incondicional, una decisión más que un sentimiento. El artículo la describe como muy repetida, sin atribuirla a un autor.", "quien": "Presentada por Logos (Bible Study Magazine)", "fuentes": ["web_logos_agape#1"]},
+        {"postura": "El Nuevo Testamento no impone a agape ese significado técnico y el amor se define leyendo toda la Biblia; el amor de Dios no es incondicional sin más, sino contracondicional.", "quien": "Poythress y Leeman (según Logos)", "fuentes": ["web_logos_agape#2", "web_logos_agape#3"]}
+      ],
+      "nota": "Aquí solo se oye la crítica a la primera postura, no las razones de quienes la sostienen."
+    },
+    {
+      "tema": "¿Es la ekklesia del Antiguo Testamento «iglesia» en el mismo sentido?",
+      "posturas": [
+        {"postura": "El uso frecuente de ekklesia en la Septuaginta para el pueblo de Dios debe pesar al leer el Nuevo Testamento, cuyos autores usaban esa Biblia; la iglesia continúa el patrón de las asambleas del pueblo de Dios.", "quien": "Grudem", "fuentes": ["grudem#900"]},
+        {"postura": "Ekklesia en la Septuaginta es un término común para «asamblea» y no refleja el sentido distintivo de «iglesia» en el Nuevo Testamento. Aquí solo aparece resumida por Grudem.", "quien": "Chafer (según Grudem)", "fuentes": ["grudem#900"]}
+      ],
+      "nota": "La eclesiología se estudiará en la serie 9.1."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Jn 1:14", "nota": "El prólogo une dos palabras del día: el Verbo (logos) lleno de gracia (charis) y de verdad.", "fuentes": ["web_logos_gracia#3", "web_cpe_jesus_verbo#1"]},
+    {"ref": "Ef 2:8-9", "nota": "Logos lo cita como la expresión más conocida de la gracia en Pablo; Ryrie lo usa para decir que la fe es el canal y no la causa.", "fuentes": ["web_logos_gracia#3", "ryrie#144"]},
+    {"ref": "Hch 2:42", "nota": "MacArthur cita este versículo al hablar de la comunión (koinonia) como compromiso de la iglesia primitiva.", "fuentes": ["macarthur_ts#1075"]},
+    {"ref": "Lc 3:8", "nota": "Los «frutos dignos de arrepentimiento» muestran, según MacArthur, que metanoia no es solo un cambio intelectual.", "fuentes": ["macarthur_ts#805"]},
+    {"ref": "Mt 16:18", "nota": "Uno de los dos pasajes de los Evangelios donde aparece ekklesia, según el Diccionario Mundo Hispano.", "fuentes": ["diccionario_biblico_mundo__douglas#589"]}
+  ],
+  "para_vivir": [
+    {"texto": "Cuando leas una palabra clave, comparala en dos o tres traducciones y fijate en cómo la usa el contexto antes de sacar conclusiones; es el método que propone BibleProject.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#11"]},
+    {"texto": "Si te cuesta con la fe, recordá lo que dice Ryrie sobre Efesios 2:8: la fe es el canal por el que recibís el regalo, no el mérito con el que lo pagás.", "fuentes": ["ryrie#144"]},
+    {"texto": "Vivir la comunión es servir. MacArthur la describe como servicio sacrificial a otros miembros del cuerpo de Cristo; buscá hoy una persona de tu congregación a la que puedas ayudar.", "fuentes": ["macarthur_ts#1094"]}
+  ],
+  "para_reflexionar": [
+    "¿Con qué idea de «amor» o de «fe» llegaste a este estudio? ¿Cuál de los matices de hoy te sorprendió o corrigió?",
+    "Juan llama Verbo a Jesús y Ayudador al Espíritu. ¿Cuándo sentiste a Dios cercano de una u otra manera?",
+    "La comunión, ¿es para vos algo que recibís o algo que hacés? ¿Qué cambiaría si la entendieras como participación y servicio?"
+  ],
+  "para_orar": "Señor, gracias por hablarnos con palabras que podemos estudiar y entender. Que no me quede en la letra: que el Verbo me lleve a Jesús, que tu gracia me sostenga, que mi fe descanse en vos y que tu amor me enseñe a amar. Amén.",
+  "profundizar": [
+    {"titulo": "¿Qué quiere decir «justificado» en Santiago 2?", "texto": "Grudem observa que dikaioo no siempre significa declarar justo ante Dios: también puede significar mostrar ser justo, como cuando Jesús dice que los fariseos se justifican ante los hombres (Lucas 16:15). Así lee Santiago 2:21: no el momento de Génesis 15:6, sino la muestra posterior de la fe de Abraham al ofrecer a Isaac. Es la lectura de Grudem; las fuentes de hoy no presentan otras.", "fuentes": ["grudem#771"]},
+    {"titulo": "Las comidas de agape en la iglesia primitiva", "texto": "El Diccionario Mundo Hispano explica que eran comidas en común, ligadas a la cena del Señor. El Nuevo Testamento las menciona claramente solo en Judas 12; los abusos (1 Corintios 11:20-22) llevaron a separarlas de la cena y más tarde se prohibieron.", "fuentes": ["diccionario_biblico_mundo__douglas#309"]}
+  ]
+}

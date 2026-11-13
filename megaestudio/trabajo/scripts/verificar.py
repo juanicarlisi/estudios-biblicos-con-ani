@@ -119,7 +119,7 @@ def verificar(n):
     vistos = set()
     for r in sorted(refs_dia):
         r2 = re.sub(r'(\d+:\d+)\s*[-–]\s*(\d+).*', r'\1-\2', r)
-        r2 = re.sub(r'^((?:2|3)\s?Jn|(?:2|3)\s?Juan|Jud|Judas|Abd|Abdías|Flm|Filemón)\s+(\d+)', r'\1 1:\2', r2)   # libros de un solo capítulo
+        r2 = re.sub(r'^((?:2|3)\s?Jn|(?:2|3)\s?Juan|Jud|Judas|Abd|Abdías|Flm|Filemón)\s+(\d+)(?![\d:])', r'\1 1:\2', r2)   # libros de un solo capítulo
         nz = normalizar(r2.replace('–', '-'))
         if not nz: f('', 'biblia', f'referencia no reconocida: {r}'); continue
         libro, c, v1, v2 = nz

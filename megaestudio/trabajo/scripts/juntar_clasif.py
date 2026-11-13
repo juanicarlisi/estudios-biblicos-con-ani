@@ -21,6 +21,10 @@ for lf in sorted(glob.glob(f'{D}/lote_*.json')):
                 c['editorial'] = r.get('editorial', ''); c['razon'] = r.get('razon', ''); c['confianza'] = r.get('confianza', '')
                 if p != f['path']: c['duplicado_de'] = f['path']
         hechas += 1
+rv = f'{V}/catalogo/revisiones.json'            # correcciones manuales posteriores a la clasificación automática: mandan sobre ella
+if os.path.exists(rv):
+    for p, ch in json.load(open(rv)).items():
+        for c in por_ruta.get(p, []): c.update(ch)
 json.dump(cat, open(f'{V}/catalogo/catalogo.json', 'w'), ensure_ascii=False, indent=0)
 res = collections.defaultdict(collections.Counter)
 for c in cat: res[(c['repo'], c['area'])][c['categoria']] += 1

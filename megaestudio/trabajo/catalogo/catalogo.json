@@ -5856,13 +5856,14 @@
 "path": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Comentario Bíblico Moody - SAN LUCAS.pdf",
 "area": "01 - Biblia y Comentarios Bíblicos",
 "mb": 13.9,
-"categoria": "D",
-"autor": "no identificado",
-"titulo": "Comentario Biblico Moody - San Lucas",
+"categoria": "A",
+"autor": "Everett F. Harrison (ed.)",
+"titulo": "Comentario Bíblico Moody: Nuevo Testamento, San Lucas",
 "duplicado_de": "",
-"editorial": "Moody (segun nombre del archivo)",
-"razon": "Serie de editorial evangelica, pero sin autor en nombre, portada ni extracto (vacio); no se puede confirmar que el autor sea protestante.",
-"confianza": "media"
+"editorial": "Casa Bautista de Publicaciones",
+"razon": "Comentario Bíblico Moody, Nuevo Testamento, redactado por Everett F. Harrison, Casa Bautista de Publicaciones (portada leída por OCR); editorial y editor evangélicos",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6196,13 +6197,14 @@
 "path": "01 - Biblia y Comentarios Bíblicos/03 - Corintios/2 Corintios.pdf",
 "area": "01 - Biblia y Comentarios Bíblicos",
 "mb": 1.2,
-"categoria": "D",
+"categoria": "C",
 "autor": "no consta",
 "titulo": "Segunda Epistola a los Corintios (introduccion y comentario)",
 "duplicado_de": "",
 "editorial": "no consta",
-"razon": "Introduccion de comentario sin comentarista ni editorial en el extracto; no se atribuye. Formato posiblemente de serie (no verificado); revisar.",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (E. G. White) 53 veces y la fórmula «ver com. vers.»",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6385,13 +6387,14 @@
 "path": "01 - Biblia y Comentarios Bíblicos/04 - Gálatas, Efesios, Filipenses y Colosenses/Colosenses.pdf",
 "area": "01 - Biblia y Comentarios Bíblicos",
 "mb": 0.5,
-"categoria": "D",
+"categoria": "C",
 "autor": "no consta",
 "titulo": "La Epistola a los Colosenses (introduccion y comentario)",
 "duplicado_de": "",
 "editorial": "no consta",
-"razon": "Introduccion de comentario sin comentarista ni editorial; 'Pablo' es autor de la epistola, no de este libro. Mismo formato que n=24; revisar.",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (E. G. White) 30 veces y la fórmula «ver com. vers.»",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6459,8 +6462,9 @@
 "titulo": "Epístola a los Filipenses (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Introducción con formato de Comentario Bíblico Adventista (referencias a tomos V y VI y a 'HAp' de E. G. White); sin autor nombrado, se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6495,8 +6499,9 @@
 "titulo": "Epístola a los Gálatas (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Mismo formato de Comentario Bíblico Adventista (secciones Título/Autor/Marco histórico, notas a tomos) sin autor nombrado; se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6694,8 +6699,9 @@
 "titulo": "Segunda Epístola a los Tesalonicenses (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Introducción con el mismo formato del Comentario Bíblico Adventista de las fichas 40 y 42; sin autor nombrado, se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6707,8 +6713,9 @@
 "titulo": "Segunda Epístola a Timoteo (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Introducción del Comentario Bíblico Adventista (remite a 't. VI, p. 110'); sin autor nombrado, se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6756,8 +6763,9 @@
 "titulo": "Epístola del Apóstol Pablo a Tito",
 "duplicado_de": "",
 "editorial": "No consta (enlace a 'apostolicdoctrine' en el extracto)",
-"razon": "Autor C. S. Jarrett con promoción de 'Apostolic Doctrine' y tradición no confirmada en el extracto; ante duda entre B y C se elige C",
-"confianza": "baja"
+"razon": "Sin autor de tradición verificable: «C. S. Jarrett», libro de la colección electrónica «apostolicdoctrine» (Amazon); no se pudo confirmar la tradición; por la regla de la categoría más estricta no se usa",
+"confianza": "baja",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6769,8 +6777,9 @@
 "titulo": "Epístola a Filemón (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Introducción del Comentario Bíblico Adventista (cita 'HAp 364' de E. G. White); sin autor nombrado, se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6884,8 +6893,9 @@
 "titulo": "Primera Epístola de Juan (introducción)",
 "duplicado_de": "",
 "editorial": "Moody (solo en el nombre del archivo)",
-"razon": "Ni el extracto ni la portada nombran al autor; la editorial Moody aparece solo en el nombre del archivo y A exige autor protestante identificado",
-"confianza": "media"
+"razon": "Probablemente de la serie Comentario Bíblico Moody (lo dice solo el nombre del archivo); el texto no trae autor ni datos de edición; se mantiene D hasta ver la portada",
+"confianza": "baja",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6897,8 +6907,9 @@
 "titulo": "Primera Epístola Universal de San Juan (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Introducción con formato de Comentario Bíblico Adventista (cita 't. V, pp. 869-870'); sin autor nombrado, se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -6988,8 +6999,9 @@
 "titulo": "Segunda Epístola Universal de San Juan (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Introducción con formato de Comentario Bíblico Adventista (remite a 'p. 641' del propio comentario); sin autor nombrado, se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -7011,8 +7023,9 @@
 "titulo": "Segunda Epístola Universal de San Pedro (introducción)",
 "duplicado_de": "",
 "editorial": "No consta",
-"razon": "Introducción con formato de Comentario Bíblico Adventista (remite a 'p. 563'); sin autor nombrado, se elige la categoría más estricta",
-"confianza": "media"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (Los hechos de los apóstoles, de E. G. White) decenas de veces y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -7123,13 +7136,14 @@
 "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/3 Juan.pdf",
 "area": "01 - Biblia y Comentarios Bíblicos",
 "mb": 0.2,
-"categoria": "D",
+"categoria": "C",
 "autor": "no consta",
 "titulo": "3 Juan",
 "duplicado_de": "",
 "editorial": "no consta",
-"razon": "Sin autor ni editorial en extracto; el formato (remisiones a 'com.' y 't. V') podría ser de una serie adventista (C), no confirmado.",
-"confianza": "baja"
+"razon": "Misma serie que 1 y 2 Juan adventistas: estructura «1. Título. 2. Autor.» y remisiones «ver com. vers.»; no cita a White de forma explícita",
+"confianza": "media",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -7247,13 +7261,14 @@
 "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Judas.pdf",
 "area": "01 - Biblia y Comentarios Bíblicos",
 "mb": 0.2,
-"categoria": "D",
+"categoria": "C",
 "autor": "no consta",
 "titulo": "Judas",
 "duplicado_de": "",
 "editorial": "no consta",
-"razon": "Sin autor ni editorial en extracto; el formato podría ser de una serie adventista (C), no confirmado.",
-"confianza": "baja"
+"razon": "Misma serie adventista: estructura «1. Título. 2. Autor.» y 57 remisiones «ver com. vers.»; una cita «HAp»",
+"confianza": "media",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -7338,13 +7353,14 @@
 "path": "01 - Biblia y Comentarios Bíblicos/06 - Hebreos y Epístolas Generales (Santiago, Pedro, Juan, Judas)/Santiago.pdf",
 "area": "01 - Biblia y Comentarios Bíblicos",
 "mb": 0.6,
-"categoria": "D",
+"categoria": "C",
 "autor": "no consta",
 "titulo": "Santiago",
 "duplicado_de": "",
 "editorial": "no consta",
-"razon": "Sin autor ni editorial en extracto; el formato podría ser de una serie adventista (C), no confirmado.",
-"confianza": "baja"
+"razon": "Comentario Bíblico Adventista: cita «HAp» (E. G. White) y la fórmula «ver com. vers.» de la serie",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -7517,13 +7533,14 @@
 "path": "01 - Biblia y Comentarios Bíblicos/07 - Apocalipsis/Apocalipsis.pdf",
 "area": "01 - Biblia y Comentarios Bíblicos",
 "mb": 2.0,
-"categoria": "D",
+"categoria": "C",
 "autor": "no consta",
 "titulo": "El Apocalipsis de San Juan (introducción)",
 "duplicado_de": "",
 "editorial": "no consta",
-"razon": "Sin autor ni editorial en extracto; el formato podría ser de una serie adventista (C), no confirmado.",
-"confianza": "baja"
+"razon": "Comentario Bíblico Adventista: cita a Elena G. de White (CS, DTG, 3JT), «HAp», y menciona «adventista»",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "ref4",
@@ -13183,13 +13200,14 @@
 "path": "MATERIAL SOPORTE/42 - LUCAS/Comentario Bíblico Moody - SAN LUCAS.pdf",
 "area": "Comentarios por libro (MATERIAL SOPORTE)",
 "mb": 0.0,
-"categoria": "D",
-"autor": "no identificado",
-"titulo": "Comentario Biblico Moody - San Lucas",
+"categoria": "A",
+"autor": "Everett F. Harrison (ed.)",
+"titulo": "Comentario Bíblico Moody: Nuevo Testamento, San Lucas",
 "duplicado_de": "01 - Biblia y Comentarios Bíblicos/01 - Evangelios (Mateo, Marcos, Lucas, Juan)/Comentario Bíblico Moody - SAN LUCAS.pdf",
-"editorial": "Moody (segun nombre del archivo)",
-"razon": "Serie de editorial evangelica, pero sin autor en nombre, portada ni extracto (vacio); no se puede confirmar que el autor sea protestante.",
-"confianza": "media"
+"editorial": "Casa Bautista de Publicaciones",
+"razon": "Comentario Bíblico Moody, Nuevo Testamento, redactado por Everett F. Harrison, Casa Bautista de Publicaciones (portada leída por OCR); editorial y editor evangélicos",
+"confianza": "alta",
+"revision": "adventistas"
 },
 {
 "repo": "biblio",

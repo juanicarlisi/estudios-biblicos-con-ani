@@ -1,0 +1,129 @@
+{
+  "dia": 37,
+  "titulo": "El hebreo bíblico: letras, raíces y vocales",
+  "bajada": "El Antiguo Testamento se escribió casi todo en hebreo, un idioma con otra escritura y otra manera de armar las palabras. Hoy miramos cómo está hecho, lo probamos en Génesis 1:1 y en el Salmo 23:1, y vemos cómo aprovecharlo sin ser experto.",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Génesis 1:1-5; Salmo 23", "porque": "Dos textos muy conocidos, uno narrativo y otro poético, para probar con ejemplos concretos lo que hoy aprendemos sobre el idioma en que fueron escritos."},
+  "versiculos": [
+    {"ref": "Génesis 1:1", "porque": "Tres palabras hebreas, con el verbo antes del sujeto: un ejemplo perfecto para ver cómo funciona el idioma."},
+    {"ref": "Salmo 23:1", "porque": "Contiene el nombre de Dios que se escribía de una manera y se leía de otra."}
+  ],
+  "entrada": {
+    "texto": "Casi todo el Antiguo Testamento se escribió en hebreo bíblico; solo algunas secciones de Daniel y de Esdras están en arameo, una lengua cercana, según la Coalición por el Evangelio. Cada versículo que leés en español pasó antes por un idioma con otra escritura y otro modo de armar las palabras.\n\nHoy no vamos a aprender hebreo en veinte minutos. Vamos a ver cómo está construido: un alfabeto de letras que son todas consonantes, palabras armadas sobre raíces de tres consonantes y un texto al que las vocales se le agregaron mucho después. Lo probaremos en Génesis 1:1 y en el Salmo 23:1, y terminaremos con una pregunta práctica: qué se gana al mirar el original y cómo hacerlo sin caer en los errores típicos de quien sabe un poquito.",
+    "fuentes": ["web_cpe_lenguas_biblicas#1", "web_cpe_lenguas_biblicas#2"]
+  },
+  "apartados": [
+    {
+      "titulo": "Veintidós letras, todas consonantes, escritas hacia la izquierda",
+      "parrafos": [
+        {"texto": "Según la International Standard Bible Encyclopedia (ISBE), una enciclopedia bíblica clásica de principios del siglo XX, el alfabeto hebreo tiene veintidós letras y todas son consonantes. Esas letras representan unos treinta sonidos, porque seis de ellas (b, g, d, k, p y t) cambian de pronunciación cuando caen justo después de una vocal. Además, el hebreo tiene sonidos guturales, de garganta, y los griegos, al heredar el alfabeto fenicio, convirtieron cuatro de esas letras en vocales.", "fuentes": ["web_isbe_idiomas_at#5"]},
+        {"texto": "Los nombres de las letras asoman en la Biblia misma. Una Biblia de estudio explica que Lamentaciones tiene poemas acrósticos: cada verso empieza con una letra distinta, en orden, primero alef, después bet. La última letra es tav: en Ezequiel 9:4 la «señal» que se pone en la frente de los que gimen es, según otra Biblia de estudio, la palabra tav, que en la escritura hebrea antigua se parecía a una X o a un signo más.", "fuentes": ["biblia_de_estudio__hotton#2494", "biblia_de_estudio__general#1137"]},
+        {"texto": "Otra diferencia con nuestros libros: se escribía de derecha a izquierda. El Diccionario Bíblico Mundo Hispano lo recuerda al describir los rollos, que se enrollaban en varas de modo que el comienzo quedaba a la derecha y el final a la izquierda.", "fuentes": ["diccionario_biblico_mundo__douglas2#212"]},
+        {"texto": "Y hay letras que valen por su pequeñez. MacArthur explica que la «jota» de Mateo 5:18 es la letra yodh, la más pequeña del alfabeto hebreo, y que la «tilde» es el trazo mínimo que distingue una letra de otra. Cuando Jesús dice que ni una jota ni una tilde pasará de la ley, está subrayando, según MacArthur, que lo que Dios dijo va en serio hasta en los detalles más pequeños.", "fuentes": ["macarthur_ts#149"]}
+      ],
+      "destacado": {"texto": "Un alfabeto sin vocales exige mirar cada trazo: Jesús mismo cuenta con que hasta la letra más pequeña importa.", "fuentes": ["macarthur_ts#149", "web_isbe_idiomas_at#5"]}
+    },
+    {
+      "titulo": "Un texto sin vocales y el trabajo de los masoretas",
+      "parrafos": [
+        {"texto": "Si el alfabeto solo tenía consonantes, ¿cómo se sabía cómo leer? Doug Powell cuenta que, entre los años 500 y 900 d. C., los masoretas asumieron la tarea de conservar y transmitir el Antiguo Testamento hebreo. Preocupaba que la correcta pronunciación se perdiera, porque el alfabeto no incluía vocales. La palabra mesorá significa «tradición» en hebreo.", "fuentes": ["guia_holman_de__powell#213"]},
+        {"texto": "La enciclopedia de Schaff y Herzog, de hace más de un siglo y alojada hoy por la biblioteca CCEL, detalla qué fijaron: las vocales, los acentos y ciertas marcas que afectan la lectura de las consonantes. Aclara que esa pronunciación no fue una invención: recogía la tradición vigente, que antes se transmitía de boca en boca. Y advierte que no todo detalle de la lectura masorética debe aceptarse como infalible, porque la tradición a veces fluctuaba.", "fuentes": ["web_schaff_bible_text#6", "web_schaff_bible_text#9"]},
+        {"texto": "Los autores no dan la misma fecha para los signos de vocales: la ISBE dice que el sistema elaborado de signos no se inventó antes del siglo VII (aunque cuatro letras, alef, he, waw y yod, se usaron desde muy temprano para marcar ciertos sonidos vocálicos); Geisler y Howe hablan de vocales añadidas alrededor del año 700. En lo que coinciden es en que las vocales llegaron mucho después que las consonantes.", "fuentes": ["web_isbe_idiomas_at#5", "dificultades_biblicas_un__geisler#204"]},
+        {"texto": "Un ejemplo muestra qué está en juego. Génesis 47:31 dice que Jacob se inclinó sobre la «cabecera de la cama», y Hebreos 11:21 que adoró apoyado sobre el «extremo de su bordón». Geisler y Howe explican que en hebreo «bordón» y «cama» se escriben con las mismas consonantes; la Septuaginta tradujo «bordón» y los masoretas «cama», de modo que «cama» sería un error de puntuación vocálica. La Biblia de estudio de MacArthur también prefiere «bordón», pero con más prudencia: ambas posibilidades son plausibles.", "fuentes": ["dificultades_biblicas_un__geisler#204", "biblia_de_estudio__autor#3198"]}
+      ]
+    },
+    {
+      "titulo": "Raíces de tres consonantes: así se arman las palabras",
+      "parrafos": [
+        {"texto": "La ISBE destaca como rasgo principal del hebreo la raíz de tres consonantes, que en la práctica es universal. De esa raíz salen todas las formas del verbo. Ejemplo de la enciclopedia: shabar (escrito shabhar en la obra), «él quebró». Si se duplica la consonante del medio, la idea se intensifica («hizo pedazos»); con una n delante se obtiene «fue quebrado»; con una h delante, el sentido causativo, como en malakh, «fue rey», y himlikh, «hizo rey a alguien».", "fuentes": ["web_isbe_idiomas_at#5", "web_isbe_idiomas_at#6"]},
+        {"texto": "Los sustantivos funcionan igual. Melekh, «rey», sale de las mismas tres consonantes que malakh. Una m delante de la raíz forma nombres de lugar o instrumento: mishpat, «justicia», viene de shaphat, «él juzgó». Y cuando las palabras cambian de forma, lo que se mueve son las vocales: dabhar, «palabra» o «cosa», hace en plural debharim. La armazón de consonantes queda.", "fuentes": ["web_isbe_idiomas_at#6", "web_isbe_idiomas_at#7"]},
+        {"texto": "Reconocer la raíz a veces revela lazos que la traducción oculta. La Coalición por el Evangelio da un ejemplo: la palabra hebrea que se traduce «holocausto» (עלה) comparte la raíz con el verbo «subir», lo que ayuda a entender por qué, cuando Noé ofrece el holocausto, su olor es grato para Dios (Génesis 8:20-21): el humo del animal quemado «subía» hasta él (Levítico 1:3-17).", "fuentes": ["web_cpe_lenguas_biblicas#1"]},
+        {"texto": "El verbo tampoco se organiza como el español. Para la ISBE no existen tiempos en nuestro sentido, sino dos estados, perfecto e imperfecto: en el primero la acción se ve como cumplida, en el segundo como no completada. Una misma forma puede equivaler a «quebró», «ha quebrado» o «habrá quebrado». Y en el relato principal el verbo suele ir al comienzo de la oración; las cláusulas que describen una circunstancia, en cambio, empiezan con el sujeto, como Génesis 1:2.", "fuentes": ["web_isbe_idiomas_at#6", "web_isbe_idiomas_at#7"]},
+        {"texto": "Una cautela: conocer la raíz no basta para saber qué significa una palabra en un versículo. MacArthur nota que los eruditos han debatido cuál es la raíz de shaddái (shadá, que apuntaría a suficiencia, o shadád, que apuntaría a poder) y que los argumentos más sólidos indican la segunda. Y una reseña del libro de D. A. Carson advierte contra deducir el sentido de una palabra de sus piezas, error que llama falacia de la raíz; sus ejemplos son griegos, pero es razonable llevar la misma prudencia al hebreo.", "fuentes": ["macarthur_ts#208", "web_9marks_carson#1", "web_9marks_carson#2"]}
+      ],
+      "destacado": {"texto": "La raíz organiza el vocabulario, pero el sentido de una palabra lo da el contexto en que se usa.", "fuentes": ["web_9marks_carson#1", "web_isbe_idiomas_at#5"]}
+    },
+    {
+      "titulo": "Génesis 1:1 palabra por palabra",
+      "parrafos": [
+        {"texto": "La primera palabra es bereshit, «en el principio». Es tan central que, en las Escrituras hebreas, el libro entero se llama con ella, explican el Comentario Bíblico Mundo Hispano y el Diccionario Bíblico Mundo Hispano. El Comentario Beacon agrega que nombrar una obra con sus primeras palabras era una práctica común en el antiguo Cercano Oriente, y que la Septuaginta lo acercó con la palabra génesis, «origen» o «principio».", "fuentes": ["comentario_biblico_mundo__carro5#29", "diccionario_biblico_mundo__douglas#512", "comentario_biblico_beacon__livingston#20"]},
+        {"texto": "La segunda es bará, «creó», y viene antes del sujeto: el hebreo empieza por la acción y después dice quién la hace. Sproul señala que bará se usa en el Antiguo Testamento exclusivamente para la actividad de Dios y nunca se aplica a los seres humanos; el Comentario Mundo Hispano dice lo mismo.", "fuentes": ["web_isbe_idiomas_at#7", "el_misterio_del__sproul#70", "comentario_biblico_mundo__carro5#42"]},
+        {"texto": "La tercera es Elohim, «Dios». MacArthur explica que elojím es un plural de la raíz el, que aparece más de dos mil veces, y que cuando se refiere al único Dios verdadero es probablemente un plural de intensidad: el poder de Dios es tan inmenso que le corresponde un nombre plural. Añade que esa forma plural no demuestra por sí sola que Dios sea trino, pero es compatible con la revelación posterior de la triunidad (Génesis 1:26; 3:22; 11:7).", "fuentes": ["macarthur_ts#208"]},
+        {"texto": "Por último, «los cielos y la tierra» abarca, según Geisler y MacKenzie, el universo entero, todas las cosas que no son Dios; el Comentario Mundo Hispano coincide: en lenguaje concreto significa todo lo que existe.", "fuentes": ["catolicos_romanos_y__geisler#72", "comentario_biblico_mundo__carro5#42"]}
+      ]
+    },
+    {
+      "titulo": "Salmo 23:1: el nombre que se escribía de una forma y se leía de otra",
+      "parrafos": [
+        {"texto": "La primera palabra del Salmo 23:1 en la Reina-Valera es «Jehová». Según MacArthur, es el nombre de Dios más común del Antiguo Testamento (más de 6.800 veces) y viene de las cuatro consonantes hebreas YHWH, el tetragrámaton, que Dios reveló como su nombre en la zarza ardiente (Éxodo 3:13-15). Tras el exilio babilónico, Israel dejó de pronunciarlo y al leer lo reemplazó por adonai, probablemente por reverencia.", "fuentes": ["macarthur_ts#204"]},
+        {"texto": "Aquí entran los masoretas. MacArthur dice que, al poner vocales, puntuaron YHWH con las de adonai: se escribía YHWH y se leía adonai. De esa mezcla surgió, entre los cristianos de habla latina, la forma Iehovah, que la Reina-Valera conserva como Jehová, mientras que la mayoría de las versiones modernas traducen SEÑOR. Por eso el nombre aparece escrito de tantas maneras (Jehová, Yahvé, Yahweh): son transliteraciones distintas de las mismas consonantes. MacArthur lo deriva del verbo hebreo ser (javá), con un sentido esencial de «él es» o «él será». Lacueva, por su parte, resume que YHWH, sin las vocales, apunta a tres ideas: Dios no cambia, es trascendente y existe por sí mismo.", "fuentes": ["macarthur_ts#205", "lacueva#63"]},
+        {"texto": "Con ese trasfondo se lee el versículo. MacArthur incluye entre los nombres compuestos de Yahvé el que transcribe Yahvé-roí, «Jehová es mi pastor» (Salmo 23:1). Su argumento: como Dios «es» y «será» el que es, proveerá todo lo que su pueblo necesita en esta vida, en la muerte y para siempre, y lo guiará y protegerá. En otro libro, el mismo autor escribe Jehová-raah, «el Señor es nuestro pastor»: la transliteración del hebreo no tiene una sola forma.", "fuentes": ["macarthur_ts#207", "a_solas_con__macarthur#60"]}
+      ]
+    },
+    {
+      "titulo": "Qué se gana al mirar el original y cómo hacerlo sin ser experto",
+      "parrafos": [
+        {"texto": "La Coalición por el Evangelio enumera tres beneficios. Primero, leer el texto gramaticalmente: preguntarse quién es el sujeto o qué relación marca una preposición. Segundo, notar los énfasis del autor: el orden de las palabras es más flexible que en español y permite poner al comienzo lo que se quiere destacar, algo que una traducción puede perder. Tercero, entrar en el mundo antiguo de la Biblia, como con el holocausto que «sube». Un profesor de griego, cuenta el artículo, lo resumió así: es «como ver una película en 4K».", "fuentes": ["web_cpe_lenguas_biblicas#1"]},
+        {"texto": "Pero hay atajos que conviene evitar. Un artículo de Logos sobre la concordancia de Strong dice que sus glosas sirven para confirmar lo que el contexto ya muestra en tu traducción, que conviene saltearse las etimologías y que no hay que creer haber descubierto el «verdadero significado» de una palabra. Advierte también contra la idea de que solo quienes saben hebreo o griego entienden lo que la Biblia dice. Sus alternativas: comparar varias traducciones y entender por qué difieren, y usar buenos diccionarios bíblicos.", "fuentes": ["web_logos_strong#2", "web_logos_strong#3", "web_logos_strong#4"]},
+        {"texto": "La reseña sobre Carson agrega otro cuidado: la transferencia ilegítima de totalidad, que consiste en cargar en un solo uso de una palabra todos los sentidos que tiene en otros lugares. La señal de alarma suele ser una frase que empieza diciendo que en el original esa palabra también puede significar otra cosa. Antes de levantar una gran enseñanza sobre un matiz así, aconseja investigar un poco más.", "fuentes": ["web_9marks_carson#1", "web_9marks_carson#2"]},
+        {"texto": "Para empezar, la Coalición por el Evangelio recomienda repasar la gramática española y usar cursos en video gratuitos, y advierte que hay pocas opciones en español de libros para el hebreo bíblico. Su cierre es el balance del día: las lenguas bíblicas no son un fin en sí mismas, sino un medio para entender mejor la Palabra y conocer mejor al Dios en quien confiamos.", "fuentes": ["web_cpe_lenguas_biblicas#2", "web_cpe_lenguas_biblicas#3"]}
+      ],
+      "destacado": {"texto": "El hebreo ayuda a ver mejor el texto, pero no es una llave secreta: sirve si nos lleva a conocer mejor a Dios y no a presumir de saber más.", "fuentes": ["web_cpe_lenguas_biblicas#3", "web_logos_strong#4"]}
+    }
+  ],
+  "citas": [
+    {"texto": "los masoretas idearon un sistema de signos que acompañaban a las consonantes y tenían valor vocálico", "autor": "Doug Powell", "obra": "Guía Holman de Apologética Cristiana", "fuentes": ["guia_holman_de__powell#213"]},
+    {"texto": "Las lenguas bíblicas no son un fin en sí mismas.", "autor": "José Landeta", "obra": "Estudia las lenguas bíblicas (Coalición por el Evangelio)", "fuentes": ["web_cpe_lenguas_biblicas#3"]}
+  ],
+  "palabras": [
+    {"original": "ברא", "translit": "bará", "idioma": "hebreo", "ref": "Gn 1:1", "significado": "«Crear». En el Antiguo Testamento se usa solo para la actividad de Dios, nunca para la de seres humanos, según Sproul y el Comentario Mundo Hispano.", "fuentes": ["el_misterio_del__sproul#70", "comentario_biblico_mundo__carro5#42"]},
+    {"original": "אלהים", "translit": "elojím", "idioma": "hebreo", "ref": "Gn 1:1", "significado": "«Dios». Plural de la raíz el que, referido al único Dios verdadero, es probablemente un plural de intensidad, según MacArthur.", "fuentes": ["macarthur_ts#208"]},
+    {"original": "יהוה", "translit": "YHWH (Yahvé, Jehová)", "idioma": "hebreo", "ref": "Sal 23:1", "significado": "Nombre propio de Dios, de cuatro consonantes, que se leía adonai; los masoretas lo puntuaron con las vocales de adonai, de donde viene la forma Jehová. MacArthur lo deriva del verbo ser (javá).", "fuentes": ["macarthur_ts#204", "macarthur_ts#205"]}
+  ],
+  "cristo": [
+    {"texto": "La jota y la tilde. Jesús mismo, en Mateo 5:18, habla de la jota (la yodh, la letra más pequeña del alfabeto hebreo) y de la tilde como imagen de que nada de la ley pasará hasta que todo se cumpla. Es un dato explícito del Nuevo Testamento: el Señor afirma el valor de cada detalle de la Escritura.", "refs": ["Mt 5:18"], "fuentes": ["macarthur_ts#149"]},
+    {"texto": "El buen pastor. El Evangelio de Juan lo llama «el buen pastor» (10:11), Hebreos, el gran pastor (13:20-21) y Pedro, Pastor y Obispo de las almas (2:25). MacArthur señala que la imagen de pastor para el Mesías aparece primero en el Antiguo Testamento y remite al Salmo 23:1. Lo explícito es que el Nuevo Testamento da a Jesús ese título; la relación con el salmo es la que MacArthur propone al comparar los textos.", "refs": ["Jn 10:11", "Heb 13:20", "1 P 2:25", "Sal 23:1"], "fuentes": ["1_y_2__macarthur#188"]},
+    {"texto": "La señal tav y la cruz. Una Biblia de estudio recuerda que los intérpretes cristianos consideran la señal de Ezequiel 9:4 un tipo de la cruz de Cristo. Es una lectura tipológica de los intérpretes, no algo que el Nuevo Testamento afirme directamente.", "refs": ["Ez 9:4"], "fuentes": ["biblia_de_estudio__general#1137"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué dice el verbo bará de la manera en que Dios creó (Génesis 1:1)?",
+      "posturas": [
+        {"postura": "El verbo no siempre significa hacer algo de la nada (por ejemplo, en el Salmo 104:30), pero en el contexto de la creación inicial del universo, en Génesis 1:1, adquiere ese sentido.", "quien": "Geisler y MacKenzie", "fuentes": ["catolicos_romanos_y__geisler#72"]},
+        {"postura": "Los objetos del verbo bará en Génesis (los cielos y la tierra, las criaturas marinas, los seres humanos) se pueden identificar en términos materiales; en Génesis 1:1, por ejemplo, no hay indicio de una dimensión funcional, porque los humanos todavía no han sido creados. Lennox recuerda que muchos eruditos han deducido de ahí la creación de la nada.", "quien": "Lennox", "fuentes": ["el_principio_segun__lennox#88", "el_principio_segun__lennox#89"]},
+        {"postura": "Según Lennox, Walton cree que bará tiene que ver con funciones y que Génesis 1 no es un relato de los orígenes materiales del universo, aunque acepta que Dios estuvo involucrado en ellos. Aquí solo aparece la tesis como la resume y discute Lennox, no las razones de Walton.", "quien": "Presentada por Lennox", "fuentes": ["el_principio_segun__lennox#88", "el_principio_segun__lennox#89"]}
+      ],
+      "nota": "El debate sobre cómo leer Génesis 1 se estudiará en la serie sobre la creación, con cada postura apoyada en sus propios autores."
+    },
+    {
+      "tema": "Las vocales del texto hebreo: ¿quién las puso y cuánto reflejan el hebreo antiguo?",
+      "posturas": [
+        {"postura": "Los Buxtorf (padre e hijo), en el siglo XVII, sostuvieron que Esdras y los hombres de la Gran Sinagoga, inspirados por el Espíritu, agregaron los puntos vocales y los acentos, y que el texto masorético era completo e infalible. Schaff y Herzog dicen que esa fue la posición protestante ortodoxa de su tiempo.", "quien": "Presentada por Schaff y Herzog", "fuentes": ["web_schaff_bible_text#2"]},
+        {"postura": "Morin y Cappel defendieron una edad posterior del texto masorético; según la enciclopedia, esa visión se impuso. La enciclopedia agrega que antes de los masoretas la pronunciación ya estaba fijada, pero se transmitía oralmente.", "quien": "Morin y Cappel (según Schaff y Herzog)", "fuentes": ["web_schaff_bible_text#2", "web_schaff_bible_text#6"]},
+        {"postura": "Como el sistema de vocales es muy tardío, la vocalización no puede aceptarse como la de la lengua viva, sino que representa más bien el canto de la sinagoga.", "quien": "ISBE", "fuentes": ["web_isbe_idiomas_at#7"]}
+      ],
+      "nota": "No se zanja acá. Las tres coinciden en que las vocales llegaron después de las consonantes; difieren en cuánto reflejan la pronunciación antigua."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Mt 5:18", "nota": "La jota es la yodh, la letra más pequeña del alfabeto hebreo; MacArthur lo lee como afirmación de que cada detalle de lo que Dios dijo va en serio.", "fuentes": ["macarthur_ts#149"]},
+    {"ref": "Éx 3:13-15", "nota": "Dios revela su nombre; MacArthur lo vincula con YHWH, derivado del verbo ser, «él es» o «él será».", "fuentes": ["macarthur_ts#204", "macarthur_ts#205"]},
+    {"ref": "Lm 1:1", "nota": "Empieza una serie de poemas acrósticos que siguen el orden del alfabeto hebreo desde la alef.", "fuentes": ["biblia_de_estudio__hotton#2494"]},
+    {"ref": "Ez 9:4", "nota": "La palabra «señal» es tav, la última letra del alfabeto hebreo.", "fuentes": ["biblia_de_estudio__general#1137"]},
+    {"ref": "Heb 11:21", "nota": "La diferencia con Génesis 47:31 («bordón» o «cama») se explica porque en hebreo ambas palabras se escriben con las mismas consonantes.", "fuentes": ["dificultades_biblicas_un__geisler#204"]}
+  ],
+  "para_vivir": [
+    {"texto": "Abrí tu Biblia en el Salmo 23:1 y fijate si la primera palabra dice Jehová o SEÑOR. Detrás hay cuatro consonantes hebreas, YHWH, y una historia de lectura reverente que MacArthur resume.", "fuentes": ["macarthur_ts#205"]},
+    {"texto": "Cuando alguien te diga «en el original dice…», preguntate si el argumento se apoya en el contexto o solo en lo que significaría una raíz o una palabra aislada. La reseña sobre Carson recomienda investigar antes de construir una gran enseñanza sobre eso.", "fuentes": ["web_9marks_carson#2"]},
+    {"texto": "Leé Génesis 1:1-2 en dos traducciones y anotá en qué difieren. El artículo de Logos sugiere usar varias traducciones y tratar de entender por qué difieren antes de ir a las lenguas originales.", "fuentes": ["web_logos_strong#4"]}
+  ],
+  "para_reflexionar": [
+    "Si el hebreo se escribió durante siglos sin vocales y los signos llegaron mucho después, ¿qué te dice eso sobre el cuidado con que se transmitió el texto y sobre tu propia manera de leerlo, atenta a los detalles?",
+    "El Salmo 23:1 dice que Jehová es tu pastor. Si el nombre significa «él es» y «él será», ¿qué cosas de tu vida hoy necesitan escuchar que Dios es el mismo y seguirá siéndolo?",
+    "Entre las ganancias y las cautelas del estudio del original, ¿cuál sentís que te hace más falta: aprender más o aprender a no sacar conclusiones apuradas?"
+  ],
+  "para_orar": "Señor, gracias porque tu Palabra llegó hasta mí desde un idioma que no es el mío y por manos que la cuidaron letra por letra. Enseñame a leerla con atención, con humildad frente a lo que no sé y sin usar nunca un detalle del original para presumir. Vos sos el que es y el que será, mi pastor: ayudame a confiar en vos y a conocerte más. Amén.",
+  "profundizar": [
+    {"titulo": "Una letra de diferencia: los años de Ezequías y Senaquerib", "texto": "Geisler y Howe aplican lo que vimos a una dificultad concreta: según ellos, el año del reinado de Ezequías en que Senaquerib invadió Judá (catorce o veinticuatro) se explica por un error de copista, porque las consonantes hebreas de los dos números solo difieren en las letras finales. Es una solución propuesta por estos autores, no un dato aceptado por todos.", "fuentes": ["dificultades_biblicas_un__geisler#83"]}
+  ]
+}

@@ -20,6 +20,22 @@ def lemas():
                 for e in d.values():
                     c = clave(e.get('lemma', ''))
                     if c: out[k].add(c)
+            # formas de superficie: Biblia hebrea (WLC, OpenScriptures morphhb) y Nuevo Testamento griego (SBLGNT, MorphGNT)
+            import glob
+            for f in glob.glob(f'{D}/wlc/*.xml'):
+                for w in re.findall(r'<w [^>]*>([^<]+)</w>', open(f, encoding='utf-8').read()):
+                    seg = w.split('/'); c = clave(''.join(seg))
+                    if c: out['he'].add(c)
+                    for x in seg:
+                        c = clave(x)
+                        if c: out['he'].add(c)
+            for f in glob.glob(f'{D}/gnt/*.txt'):
+                for l in open(f, encoding='utf-8'):
+                    cols = l.split()
+                    if len(cols) >= 7:
+                        for x in cols[4:7]:
+                            c = clave(x)
+                            if c: out['el'].add(c)
             json.dump({k: sorted(v) for k, v in out.items()}, open(ruta, 'w'), ensure_ascii=False)
         d = json.load(open(ruta)); _cache = {k: set(v) for k, v in d.items()}
     return _cache

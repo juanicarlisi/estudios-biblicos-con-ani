@@ -2,117 +2,428 @@
   "dia": 36,
   "titulo": "Pasajes difíciles, errores comunes y el papel del Espíritu y de la comunidad",
   "bajada": "Cerramos la serie sobre cómo leer la Biblia con lo que más hace falta cuando un texto no cierra: saber qué errores evitar, qué preguntas hacer, qué le toca al Espíritu y qué le toca a la iglesia.",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Hechos 17:10-12; 1 Corintios 2:10-16", "porque": "Dos cuadros complementarios: los de Berea, que examinan las Escrituras con sus propios ojos, y Pablo, que explica que entender lo de Dios es obra del Espíritu."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Hechos 17:10-12; 1 Corintios 2:10-16",
+    "porque": "Dos cuadros complementarios: los de Berea, que examinan las Escrituras con sus propios ojos, y Pablo, que explica que entender lo de Dios es obra del Espíritu."
+  },
   "versiculos": [
-    {"ref": "1 Corintios 2:12", "porque": "Pablo dice de dónde viene el entendimiento de lo que Dios nos dio: del Espíritu que procede de Dios."},
-    {"ref": "Hechos 17:11", "porque": "Los de Berea reciben la palabra con ganas y, aun así, la comparan cada día con las Escrituras."}
+    {
+      "ref": "1 Corintios 2:12",
+      "porque": "Pablo dice de dónde viene el entendimiento de lo que Dios nos dio: del Espíritu que procede de Dios."
+    },
+    {
+      "ref": "Hechos 17:11",
+      "porque": "Los de Berea reciben la palabra con ganas y, aun así, la comparan cada día con las Escrituras."
+    }
   ],
   "entrada": {
     "texto": "En esta serie recorrimos cómo leer la ley, la poesía, la profecía, los Evangelios y las cartas. Queda una pregunta que cualquier lector se hace tarde o temprano: ¿qué hago cuando un pasaje no se deja entender, o cuando dos personas sinceras lo leen distinto?\n\nLas fuentes de hoy no prometen una fórmula mágica. Dan algo mejor: una lista de errores que conviene conocer de antemano, un orden de preguntas y una descripción honesta de lo que hace el Espíritu y de lo que nos toca a nosotros.",
-    "fuentes": ["web_cpe_interpretacion#2", "grudem#114"]
+    "fuentes": [
+      "web_cpe_interpretacion#2",
+      "grudem#114"
+    ]
   },
   "apartados": [
     {
       "titulo": "Hay pasajes difíciles, y eso no es una mala noticia",
       "parrafos": [
-        {"texto": "Pedro reconoce que en las cartas de Pablo hay cosas difíciles de entender, que los ignorantes e inestables tuercen como el resto de las Escrituras (2 Pedro 3:16). La Coalición por el Evangelio lo equilibra: la Biblia es lo bastante clara como para captar la supremacía de Dios y sus propósitos de reino, que culminan en Jesús, pero no todo es igual de claro. Cita una lista de Wayne Grudem: podemos entenderla, pero no toda a la vez, no sin esfuerzo, no sin la ayuda del Espíritu, no sin confusiones humanas y nunca por completo.", "fuentes": ["web_cpe_interpretacion#2", "web_cpe_interpretacion#4"]},
-        {"texto": "Grudem define la claridad así en su Teología sistemática: la Biblia está escrita de modo que sus enseñanzas pueden entenderlas todos los que la leen buscando la ayuda de Dios y dispuestos a seguirlas. Y agrega enseguida que muchos, incluso del pueblo de Dios, entienden mal.", "fuentes": ["grudem#113"]},
-        {"texto": "Geisler y Howe, en un manual sobre dificultades bíblicas, admiten que existen, y recuerdan a Agustín: ante una aparente contradicción no corresponde decir que el autor se equivocó, sino que el manuscrito es defectuoso, la traducción errónea o que nosotros no lo entendimos. Advierten además contra suponer que lo todavía inexplicado no tiene explicación: ponen el ejemplo de los heteos, que los críticos creían inventados hasta que se halló su biblioteca en Turquía.", "fuentes": ["dificultades_biblicas_un__geisler#5", "dificultades_biblicas_un__geisler#6"]}
+        {
+          "texto": "Pedro reconoce que en las cartas de Pablo hay cosas difíciles de entender, que los ignorantes e inestables tuercen como el resto de las Escrituras (2 Pedro 3:16). La Coalición por el Evangelio lo equilibra: la Biblia es lo bastante clara como para captar la supremacía de Dios y sus propósitos de reino, que culminan en Jesús, pero no todo es igual de claro. Cita una lista de Wayne Grudem: podemos entenderla, pero no toda a la vez, no sin esfuerzo, no sin la ayuda del Espíritu, no sin confusiones humanas y nunca por completo.",
+          "fuentes": [
+            "web_cpe_interpretacion#2",
+            "web_cpe_interpretacion#4"
+          ]
+        },
+        {
+          "texto": "Grudem define la claridad así en su Teología sistemática: la Biblia está escrita de modo que sus enseñanzas pueden entenderlas todos los que la leen buscando la ayuda de Dios y dispuestos a seguirlas. Y agrega enseguida que muchos, incluso del pueblo de Dios, entienden mal.",
+          "fuentes": [
+            "grudem#113"
+          ]
+        },
+        {
+          "texto": "Geisler y Howe, en un manual sobre dificultades bíblicas, admiten que existen, y recuerdan a Agustín: ante una aparente contradicción no corresponde decir que el autor se equivocó, sino que el manuscrito es defectuoso, la traducción errónea o que nosotros no lo entendimos. Advierten además contra suponer que lo todavía inexplicado no tiene explicación: ponen el ejemplo de los heteos, que los críticos creían inventados hasta que se halló su biblioteca en Turquía.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#5",
+            "dificultades_biblicas_un__geisler#6"
+          ]
+        }
       ],
-      "destacado": {"texto": "Que un pasaje sea difícil no lo vuelve contradictorio ni inútil: lo vuelve una invitación a estudiar con más cuidado y con más humildad.", "fuentes": ["web_cpe_interpretacion#4", "dificultades_biblicas_un__geisler#5"]}
+      "destacado": {
+        "texto": "Que un pasaje sea difícil no lo vuelve contradictorio ni inútil: lo vuelve una invitación a estudiar con más cuidado y con más humildad.",
+        "fuentes": [
+          "web_cpe_interpretacion#4",
+          "dificultades_biblicas_un__geisler#5"
+        ]
+      }
     },
     {
       "titulo": "Seis errores frecuentes al leer",
       "parrafos": [
-        {"texto": "Primero, sacar el texto de contexto. Geisler y Howe lo creen quizá el error más común de los críticos de la Biblia y repiten el adagio «Un texto fuera de contexto es un pretexto». Con ese método la Biblia dice «no hay Dios», pero el contexto es que lo dijo el necio en su corazón (Salmo 14:1). La Coalición por el Evangelio recuerda que cada pasaje tiene un contexto histórico, literario y bíblico más amplio.", "fuentes": ["dificultades_biblicas_un__geisler#6", "web_cpe_interpretacion#5"]},
-        {"texto": "Segundo y tercero, ignorar el género y espiritualizarlo todo. Sproul respeta más a quien ve en la lucha de Jacob con el ángel (Génesis 32:24-30) una pelea real que a quien la reduce a símbolo, pero no concluye que todo se lea a la letra: lo decisivo es el género. Interpretar literalmente es interpretar el libro como fue escrito, la poesía según las reglas de la poesía y la narración histórica como narración histórica. La Declaración de Chicago sobre hermenéutica agrega que los errores de género causan malentendidos de gran escala y que hay que evitar la alegorización arbitraria.", "fuentes": ["que_buena_pregunta__sproul#507", "web_chicago_hermeneutica#8", "biblia"]},
-        {"texto": "Cuarto, leer solo con lo propio. Sproul advierte que quien parte de que no existe lo sobrenatural reconstruye todo milagro en términos naturalistas y así viola el texto. Brian Vickers, al reseñar el libro de D. A. Carson sobre las falacias exegéticas, señala que las falacias presuposicionales terminan cambiando la autoridad de la Escritura por la del lector. La Coalición lo resume: los textos transmiten significado, no lo producen.", "fuentes": ["que_buena_pregunta__sproul#507", "web_9marks_carson#2", "web_cpe_interpretacion#5"]},
-        {"texto": "Quinto, las palabras-fetiche. Según Vickers, Carson llama transferencia ilegítima de la totalidad al error de cargar todos los significados posibles de una palabra en un solo uso; la señal de alerta es la frase que dice que en el original esa palabra también puede significar tal otra cosa. Otra variante es la falacia de la raíz, como creer que la palabra para «iglesia» significa «los llamados afuera». Esto no quita valor a las herramientas de estudio: pide comprobar por cuenta propia las afirmaciones sobre sentidos especiales.", "fuentes": ["web_9marks_carson#1", "web_9marks_carson#2"]},
-        {"texto": "Sexto, quedarse con el versículo favorito o edificar una doctrina sobre un pasaje oscuro. Geisler y Howe dan una regla: «las cosas principales son las cosas sencillas». Si algo es importante estará claro y probablemente en más de un lugar, así que no se construye doctrina sobre un texto oscuro ni se concluye que un pasaje confuso diga lo contrario de uno claro. La Coalición pide considerar cada pasaje a la luz de toda la revelación de Dios. Y todos estos errores se resumen en la cita de hoy: confundir nuestra interpretación con la Biblia misma.", "fuentes": ["dificultades_biblicas_un__geisler#6", "dificultades_biblicas_un__geisler#7", "web_cpe_interpretacion#5"]}
+        {
+          "texto": "Primero, sacar el texto de contexto. Geisler y Howe lo creen quizá el error más común de los críticos de la Biblia y repiten el adagio «Un texto fuera de contexto es un pretexto». Con ese método la Biblia dice «no hay Dios», pero el contexto es que lo dijo el necio en su corazón (Salmo 14:1). La Coalición por el Evangelio recuerda que cada pasaje tiene un contexto histórico, literario y bíblico más amplio.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#6",
+            "web_cpe_interpretacion#5"
+          ]
+        },
+        {
+          "texto": "Segundo y tercero, ignorar el género y espiritualizarlo todo. Sproul respeta más a quien ve en la lucha de Jacob con el ángel (Génesis 32:24-30) una pelea real que a quien la reduce a símbolo, pero no concluye que todo se lea a la letra: lo decisivo es el género. Interpretar literalmente es interpretar el libro como fue escrito, la poesía según las reglas de la poesía y la narración histórica como narración histórica. La Declaración de Chicago sobre hermenéutica agrega que los errores de género causan malentendidos de gran escala y que hay que evitar la alegorización arbitraria.",
+          "fuentes": [
+            "que_buena_pregunta__sproul#507",
+            "web_chicago_hermeneutica#8",
+            "biblia"
+          ]
+        },
+        {
+          "texto": "Cuarto, leer solo con lo propio. Sproul advierte que quien parte de que no existe lo sobrenatural reconstruye todo milagro en términos naturalistas y así viola el texto. Brian Vickers, al reseñar el libro de D. A. Carson sobre las falacias exegéticas, señala que las falacias presuposicionales terminan cambiando la autoridad de la Escritura por la del lector. La Coalición lo resume: los textos transmiten significado, no lo producen.",
+          "fuentes": [
+            "que_buena_pregunta__sproul#507",
+            "web_9marks_carson#2",
+            "web_cpe_interpretacion#5"
+          ]
+        },
+        {
+          "texto": "Quinto, las palabras-fetiche. Según Vickers, Carson llama transferencia ilegítima de la totalidad al error de cargar todos los significados posibles de una palabra en un solo uso; la señal de alerta es la frase que dice que en el original esa palabra también puede significar tal otra cosa. Otra variante es la falacia de la raíz, como creer que la palabra para «iglesia» significa «los llamados afuera». Esto no quita valor a las herramientas de estudio: pide comprobar por cuenta propia las afirmaciones sobre sentidos especiales.",
+          "fuentes": [
+            "web_9marks_carson#1",
+            "web_9marks_carson#2"
+          ]
+        },
+        {
+          "texto": "Sexto, quedarse con el versículo favorito o edificar una doctrina sobre un pasaje oscuro. Geisler y Howe dan una regla: «las cosas principales son las cosas sencillas». Si algo es importante estará claro y probablemente en más de un lugar, así que no se construye doctrina sobre un texto oscuro ni se concluye que un pasaje confuso diga lo contrario de uno claro. La Coalición pide considerar cada pasaje a la luz de toda la revelación de Dios. Y todos estos errores se resumen en la cita de hoy: confundir nuestra interpretación con la Biblia misma.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#6",
+            "dificultades_biblicas_un__geisler#7",
+            "web_cpe_interpretacion#5"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cuatro preguntas ante un pasaje difícil",
       "parrafos": [
-        {"texto": "Ninguna fuente de hoy da una fórmula única; este orden es nuestro, armado con lo que ellas enseñan. Primera pregunta: ¿qué dice? Crossway propone leer con paciencia y precisión, atentos a detalles y matices, y preguntarle al texto quién, qué, cuándo, dónde, por qué y cómo. Advierte además contra la familiaridad, que nos hace leer rápido lo conocido. La Coalición suma el género, las unidades literarias y la comparación de traducciones.", "fuentes": ["web_crossway_inductivo#2", "web_cpe_interpretacion#6"]},
-        {"texto": "Segunda: ¿qué quiso decir el autor? Para la Coalición, interpretar es descubrir lo que Dios, por medio de autores humanos, quiso que el texto significara. La Declaración de Chicago lo vuelve método: buscar la manera lingüísticamente natural de entender el texto en su situación histórica y dentro del libro del que forma parte.", "fuentes": ["web_cpe_interpretacion#5", "web_chicago_hermeneutica#8"]},
-        {"texto": "Tercera: ¿qué otros textos hablan de esto? Geisler y Howe ofrecen dos ejemplos. Santiago parece decir que la salvación es por obras (Santiago 2:14-26) y Pablo que es por gracia (Efesios 2:8-9); ellos entienden que Pablo habla de la justificación delante de Dios y Santiago de la que se ve delante de los hombres. Y trabajar por la salvación con temor y temblor (Filipenses 2:12) se aclara, en su lectura, con el versículo siguiente: Dios produce en nosotros el querer y el hacer (Filipenses 2:13). La Declaración de Chicago sostiene el principio: la Escritura interpreta a la Escritura.", "fuentes": ["dificultades_biblicas_un__geisler#7", "web_chicago_hermeneutica#8"]},
-        {"texto": "Cuarta: ¿qué dicen los comentarios y los maestros? Vickers recuerda que todos dependemos de especialistas y que por eso conviene comprobar las afirmaciones llamativas, incluso las de una nota de la Biblia de estudio. Grudem asigna a los eruditos cuatro tareas: enseñar con claridad, explorar nuevas áreas, defender la enseñanza bíblica y complementar el estudio con lenguas e historia. Y una quinta pregunta, que la Coalición no deja afuera: ¿cómo respondo? El intérprete no termina al descubrir lo que Dios dice, sino al estudiarlo, practicarlo y enseñarlo, como Esdras (Esdras 7:10).", "fuentes": ["web_9marks_carson#2", "grudem#115", "grudem#116", "web_cpe_interpretacion#4"]}
+        {
+          "texto": "Ninguna fuente de hoy da una fórmula única; este orden es nuestro, armado con lo que ellas enseñan. Primera pregunta: ¿qué dice? Crossway propone leer con paciencia y precisión, atentos a detalles y matices, y preguntarle al texto quién, qué, cuándo, dónde, por qué y cómo. Advierte además contra la familiaridad, que nos hace leer rápido lo conocido. La Coalición suma el género, las unidades literarias y la comparación de traducciones.",
+          "fuentes": [
+            "web_crossway_inductivo#2",
+            "web_cpe_interpretacion#6"
+          ]
+        },
+        {
+          "texto": "Segunda: ¿qué quiso decir el autor? Para la Coalición, interpretar es descubrir lo que Dios, por medio de autores humanos, quiso que el texto significara. La Declaración de Chicago lo vuelve método: buscar la manera lingüísticamente natural de entender el texto en su situación histórica y dentro del libro del que forma parte.",
+          "fuentes": [
+            "web_cpe_interpretacion#5",
+            "web_chicago_hermeneutica#8"
+          ]
+        },
+        {
+          "texto": "Tercera: ¿qué otros textos hablan de esto? Geisler y Howe ofrecen dos ejemplos. Santiago parece decir que la salvación es por obras (Santiago 2:14-26) y Pablo que es por gracia (Efesios 2:8-9); ellos entienden que Pablo habla de la justificación delante de Dios y Santiago de la que se ve delante de los hombres. Y trabajar por la salvación con temor y temblor (Filipenses 2:12) se aclara, en su lectura, con el versículo siguiente: Dios produce en nosotros el querer y el hacer (Filipenses 2:13). La Declaración de Chicago sostiene el principio: la Escritura interpreta a la Escritura.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#7",
+            "web_chicago_hermeneutica#8"
+          ]
+        },
+        {
+          "texto": "Cuarta: ¿qué dicen los comentarios y los maestros? Vickers recuerda que todos dependemos de especialistas y que por eso conviene comprobar las afirmaciones llamativas, incluso las de una nota de la Biblia de estudio. Grudem asigna a los eruditos cuatro tareas: enseñar con claridad, explorar nuevas áreas, defender la enseñanza bíblica y complementar el estudio con lenguas e historia. Y una quinta pregunta, que la Coalición no deja afuera: ¿cómo respondo? El intérprete no termina al descubrir lo que Dios dice, sino al estudiarlo, practicarlo y enseñarlo, como Esdras (Esdras 7:10).",
+          "fuentes": [
+            "web_9marks_carson#2",
+            "grudem#115",
+            "grudem#116",
+            "web_cpe_interpretacion#4"
+          ]
+        }
       ],
-      "destacado": {"texto": "Qué dice, qué quiso decir, qué más dice la Biblia y qué dicen quienes la estudiaron: cuatro preguntas que, en ese orden, ahorran muchos tropiezos.", "fuentes": ["web_cpe_interpretacion#6", "dificultades_biblicas_un__geisler#7"]}
+      "destacado": {
+        "texto": "Qué dice, qué quiso decir, qué más dice la Biblia y qué dicen quienes la estudiaron: cuatro preguntas que, en ese orden, ahorran muchos tropiezos.",
+        "fuentes": [
+          "web_cpe_interpretacion#6",
+          "dificultades_biblicas_un__geisler#7"
+        ]
+      }
     },
     {
       "titulo": "El Espíritu que ilumina: lo que hace y lo que no hace",
       "parrafos": [
-        {"texto": "Pablo dice que recibimos el Espíritu que procede de Dios para entender lo que Dios nos concedió (1 Corintios 2:12) y que las cosas del Espíritu «se han de discernir espiritualmente» (1 Corintios 2:14). MacArthur llama iluminación a ese paso, después de la revelación y la inspiración. Se puede leer la Biblia y estudiarla años sin entenderla: los escribas y fariseos conocían el Antiguo Testamento y no reconocieron al Mesías (Juan 5:37-47). El salmista no necesitaba ayuda para leer la ley, sino para entenderla, y por eso pidió: «Abre mis ojos, y miraré las maravillas de tu ley» (Salmo 119:18).", "fuentes": ["comentario_macarthur_del__macarthur2#73"]},
-        {"texto": "Pablo ora igual por los efesios (Efesios 1:17-18). Stott observa que son creyentes que ya tienen el Espíritu: no pide que se les dé, sino que obre su ministerio de iluminación; y los ojos son los del corazón, que en el uso bíblico incluye mente y emociones. La Coalición añade que «entender», en 1 Corintios 2:14, es abrazar, afirmar y aplicar, y no solo captar la idea.", "fuentes": ["el_mensaje_de__stott#41", "web_cpe_interpretacion#4"]},
-        {"texto": "MacArthur enumera seis límites de la iluminación. No funciona fuera de la Palabra. No garantiza que los cristianos coincidan, porque lo humano puede producir falsa doctrina (Gálatas 2:11-21). No implica que todo sobre Dios sea conocible (Deuteronomio 29:29). No hace innecesarios a los maestros (Efesios 4:11). No reemplaza el estudio personal (2 Timoteo 2:15). Y no es una experiencia de una sola vez.", "fuentes": ["macarthur_ts#531", "macarthur_ts#532"]},
-        {"texto": "El Espíritu acompaña al estudio, no lo reemplaza. Crossway recomienda empezar orando para que Dios ilumine su Palabra, con oraciones del Salmo 119, y advierte que sin oración el estudio no dará fruto duradero. La Declaración de Chicago dice que el Espíritu ayuda a los creyentes mientras estudian, oran, meditan y aprenden en la iglesia.", "fuentes": ["web_crossway_inductivo#1", "web_chicago_hermeneutica#6"]}
+        {
+          "texto": "Pablo dice que recibimos el Espíritu que procede de Dios para entender lo que Dios nos concedió (1 Corintios 2:12) y que las cosas del Espíritu «se han de discernir espiritualmente» (1 Corintios 2:14). MacArthur llama iluminación a ese paso, después de la revelación y la inspiración. Se puede leer la Biblia y estudiarla años sin entenderla: los escribas y fariseos conocían el Antiguo Testamento y no reconocieron al Mesías (Juan 5:37-47). El salmista no necesitaba ayuda para leer la ley, sino para entenderla, y por eso pidió: «Abre mis ojos, y miraré las maravillas de tu ley» (Salmo 119:18).",
+          "fuentes": [
+            "comentario_macarthur_del__macarthur2#73"
+          ]
+        },
+        {
+          "texto": "Pablo ora igual por los efesios (Efesios 1:17-18). Stott observa que son creyentes que ya tienen el Espíritu: no pide que se les dé, sino que obre su ministerio de iluminación; y los ojos son los del corazón, que en el uso bíblico incluye mente y emociones. La Coalición añade que «entender», en 1 Corintios 2:14, es abrazar, afirmar y aplicar, y no solo captar la idea.",
+          "fuentes": [
+            "el_mensaje_de__stott#41",
+            "web_cpe_interpretacion#4"
+          ]
+        },
+        {
+          "texto": "MacArthur enumera seis límites de la iluminación. No funciona fuera de la Palabra. No garantiza que los cristianos coincidan, porque lo humano puede producir falsa doctrina (Gálatas 2:11-21). No implica que todo sobre Dios sea conocible (Deuteronomio 29:29). No hace innecesarios a los maestros (Efesios 4:11). No reemplaza el estudio personal (2 Timoteo 2:15). Y no es una experiencia de una sola vez.",
+          "fuentes": [
+            "macarthur_ts#531",
+            "macarthur_ts#532"
+          ]
+        },
+        {
+          "texto": "El Espíritu acompaña al estudio, no lo reemplaza. Crossway recomienda empezar orando para que Dios ilumine su Palabra, con oraciones del Salmo 119, y advierte que sin oración el estudio no dará fruto duradero. La Declaración de Chicago dice que el Espíritu ayuda a los creyentes mientras estudian, oran, meditan y aprenden en la iglesia.",
+          "fuentes": [
+            "web_crossway_inductivo#1",
+            "web_chicago_hermeneutica#6"
+          ]
+        }
       ],
-      "destacado": {"texto": "El salmista no pedía ayuda para leer sino para entender: la iluminación no sustituye el estudio, lo abre.", "fuentes": ["comentario_macarthur_del__macarthur2#73", "macarthur_ts#532"]}
+      "destacado": {
+        "texto": "El salmista no pedía ayuda para leer sino para entender: la iluminación no sustituye el estudio, lo abre.",
+        "fuentes": [
+          "comentario_macarthur_del__macarthur2#73",
+          "macarthur_ts#532"
+        ]
+      }
     },
     {
       "titulo": "Leer en compañía: los de Berea y los maestros de la iglesia",
       "parrafos": [
-        {"texto": "Los de Berea eran «más nobles que los que estaban en Tesalónica» porque recibieron la palabra con toda solicitud y examinaban cada día las Escrituras (Hechos 17:11). MacArthur señala que el verbo griego traducido «escudriñando», anakrinō, se usaba a veces en una investigación judicial: filtraron la evidencia con cuidado y comprobaron los rollos por sí mismos. Hasta la predicación de un apóstol pasó por la prueba de la Escritura. Para estudiar así, añade, hay que confesar el pecado, ser diligente, practicar lo que se aprende y enseñárselo a otros.", "fuentes": ["hechos_comentario__archivo#250", "hechos_comentario__archivo#251"]},
-        {"texto": "Pero esa independencia no es soledad. Cristo dio pastores y maestros a su Iglesia (Efesios 4:11-14). Stott describe el riesgo de prescindir de ellos: los cristianos inmaduros no tienen convicciones firmes, sino las del último predicador que oyeron o el último libro que leyeron, y caen presa de cada moda teológica. La salida es seguir la verdad en amor y crecer juntos en Cristo.", "fuentes": ["el_mensaje_de__stott#135", "el_mensaje_de__stott#136"]},
-        {"texto": "Grudem lee 2 Pedro 1:20 con prudencia: quizá habla del origen de la profecía, pero aun si hablara de interpretación diría que la Biblia no se lee del todo aislado de otros creyentes, sin que eso exija intérpretes con autoridad para decidir el sentido. Sobre los especialistas, sostiene que su tarea no incluye decidir por la iglesia cuál es la doctrina verdadera y que los cristianos no deben dejar en manos de expertos la lectura diaria de la Biblia.", "fuentes": ["grudem#112", "grudem#115", "grudem#116"]},
-        {"texto": "Esto engancha con la serie que empieza en el próximo día, sobre las lenguas bíblicas. Grudem aclara que no hace falta saber griego o hebreo para entender correctamente la Biblia, y reconoce el valor de quienes sí los saben; Vickers aprecia las herramientas de estudio del griego sin tomarlas por infalibles. Los idiomas ayudan al lector; no lo reemplazan.", "fuentes": ["grudem#115", "web_9marks_carson#2"]}
+        {
+          "texto": "Los de Berea eran «más nobles que los que estaban en Tesalónica» porque recibieron la palabra con toda solicitud y examinaban cada día las Escrituras (Hechos 17:11). MacArthur señala que el verbo griego traducido «escudriñando», anakrinō, se usaba a veces en una investigación judicial: filtraron la evidencia con cuidado y comprobaron los rollos por sí mismos. Hasta la predicación de un apóstol pasó por la prueba de la Escritura. Para estudiar así, añade, hay que confesar el pecado, ser diligente, practicar lo que se aprende y enseñárselo a otros.",
+          "fuentes": [
+            "hechos_comentario__archivo#250",
+            "hechos_comentario__archivo#251"
+          ]
+        },
+        {
+          "texto": "Pero esa independencia no es soledad. Cristo dio pastores y maestros a su Iglesia (Efesios 4:11-14). Stott describe el riesgo de prescindir de ellos: los cristianos inmaduros no tienen convicciones firmes, sino las del último predicador que oyeron o el último libro que leyeron, y caen presa de cada moda teológica. La salida es seguir la verdad en amor y crecer juntos en Cristo.",
+          "fuentes": [
+            "el_mensaje_de__stott#135",
+            "el_mensaje_de__stott#136"
+          ]
+        },
+        {
+          "texto": "Grudem lee 2 Pedro 1:20 con prudencia: quizá habla del origen de la profecía, pero aun si hablara de interpretación diría que la Biblia no se lee del todo aislado de otros creyentes, sin que eso exija intérpretes con autoridad para decidir el sentido. Sobre los especialistas, sostiene que su tarea no incluye decidir por la iglesia cuál es la doctrina verdadera y que los cristianos no deben dejar en manos de expertos la lectura diaria de la Biblia.",
+          "fuentes": [
+            "grudem#112",
+            "grudem#115",
+            "grudem#116"
+          ]
+        },
+        {
+          "texto": "Esto engancha con la serie que empieza en el próximo día, sobre las lenguas bíblicas. Grudem aclara que no hace falta saber griego o hebreo para entender correctamente la Biblia, y reconoce el valor de quienes sí los saben; Vickers aprecia las herramientas de estudio del griego sin tomarlas por infalibles. Los idiomas ayudan al lector; no lo reemplazan.",
+          "fuentes": [
+            "grudem#115",
+            "web_9marks_carson#2"
+          ]
+        }
       ]
     },
     {
       "titulo": "Humildad y desacuerdos legítimos",
       "parrafos": [
-        {"texto": "Si la Biblia es clara, ¿por qué los creyentes discrepan? Grudem ve dos causas posibles. Una: queremos afirmar donde la Biblia calla; entonces hay que reconocer que Dios no nos dio esa respuesta y dar lugar a puntos de vista distintos, como en los métodos de evangelización o los estilos de enseñanza. La otra: cometimos errores de interpretación, por información incompleta o por orgullo, codicia, falta de fe, egoísmo o poco tiempo de estudio en oración. Lo que no acepta es concluir que la Biblia es confusa por el solo hecho de los desacuerdos.", "fuentes": ["grudem#114"]},
-        {"texto": "MacArthur coincide en que lo humano pesa: la iluminación no garantiza el acuerdo, como muestra Gálatas 2:11-21. En su manual de predicación cuenta entre las razones de las diferencias doctrinales la falta de estudio minucioso: cuanto más diligente, menos probable que se difiera con otros estudiosos diligentes. Grudem recuerda, además, la sorprendente cantidad de acuerdo sobre las verdades centrales dondequiera haya creyentes con vitalidad.", "fuentes": ["macarthur_ts#531", "la_predicacion_como__macarthur#125", "grudem#115"]},
-        {"texto": "La actitud que propone la Coalición resume el día: nos acercamos a la Biblia con humildad y dependencia, nunca con manipulación, porque «La interpretación bíblica debe crear siervos, no reyes». Geisler y Howe agregan que el significado de la Biblia no cambia, pero nuestra interpretación sí, porque somos finitos.", "fuentes": ["web_cpe_interpretacion#4", "dificultades_biblicas_un__geisler#6"]}
+        {
+          "texto": "Si la Biblia es clara, ¿por qué los creyentes discrepan? Grudem ve dos causas posibles. Una: queremos afirmar donde la Biblia calla; entonces hay que reconocer que Dios no nos dio esa respuesta y dar lugar a puntos de vista distintos, como en los métodos de evangelización o los estilos de enseñanza. La otra: cometimos errores de interpretación, por información incompleta o por orgullo, codicia, falta de fe, egoísmo o poco tiempo de estudio en oración. Lo que no acepta es concluir que la Biblia es confusa por el solo hecho de los desacuerdos.",
+          "fuentes": [
+            "grudem#114"
+          ]
+        },
+        {
+          "texto": "MacArthur coincide en que lo humano pesa: la iluminación no garantiza el acuerdo, como muestra Gálatas 2:11-21. En su manual de predicación cuenta entre las razones de las diferencias doctrinales la falta de estudio minucioso: cuanto más diligente, menos probable que se difiera con otros estudiosos diligentes. Grudem recuerda, además, la sorprendente cantidad de acuerdo sobre las verdades centrales dondequiera haya creyentes con vitalidad.",
+          "fuentes": [
+            "macarthur_ts#531",
+            "la_predicacion_como__macarthur#125",
+            "grudem#115"
+          ]
+        },
+        {
+          "texto": "La actitud que propone la Coalición resume el día: nos acercamos a la Biblia con humildad y dependencia, nunca con manipulación, porque «La interpretación bíblica debe crear siervos, no reyes». Geisler y Howe agregan que el significado de la Biblia no cambia, pero nuestra interpretación sí, porque somos finitos.",
+          "fuentes": [
+            "web_cpe_interpretacion#4",
+            "dificultades_biblicas_un__geisler#6"
+          ]
+        }
       ],
-      "destacado": {"texto": "Estudiar con diligencia y discrepar con humildad no se oponen: la misma Biblia que es clara pide un lector que sabe que puede equivocarse.", "fuentes": ["grudem#114", "dificultades_biblicas_un__geisler#6"]}
+      "destacado": {
+        "texto": "Estudiar con diligencia y discrepar con humildad no se oponen: la misma Biblia que es clara pide un lector que sabe que puede equivocarse.",
+        "fuentes": [
+          "grudem#114",
+          "dificultades_biblicas_un__geisler#6"
+        ]
+      }
     }
   ],
   "citas": [
-    {"texto": "La Biblia no puede errar, pero nosotros podemos estar equivocados con respecto a la Biblia.", "autor": "Norman Geisler y Thomas Howe", "obra": "Dificultades bíblicas", "fuentes": ["dificultades_biblicas_un__geisler#6"]},
-    {"texto": "Interpretarla literalmente significa interpretar el libro como fue escrito.", "autor": "R. C. Sproul", "obra": "¡Qué buena pregunta!", "fuentes": ["que_buena_pregunta__sproul#507"]}
+    {
+      "texto": "La Biblia no puede errar, pero nosotros podemos estar equivocados con respecto a la Biblia.",
+      "autor": "Norman Geisler y Thomas Howe",
+      "obra": "Dificultades bíblicas",
+      "fuentes": [
+        "dificultades_biblicas_un__geisler#6"
+      ]
+    },
+    {
+      "texto": "Interpretarla literalmente significa interpretar el libro como fue escrito.",
+      "autor": "R. C. Sproul",
+      "obra": "¡Qué buena pregunta!",
+      "fuentes": [
+        "que_buena_pregunta__sproul#507"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "ἀνακρίνω", "translit": "anakrínō", "idioma": "griego", "ref": "Hch 17:11", "significado": "Examinar, investigar. MacArthur explica que se usaba a veces en una investigación judicial: así investigaron los de Berea las Escrituras.", "fuentes": ["hechos_comentario__archivo#250"]},
-    {"original": "ἐξήγησις", "translit": "exēgēsis", "idioma": "griego", "ref": "", "significado": "Relato, descripción. La Coalición por el Evangelio dice que la exégesis es la actividad de identificar lo que Dios decía realmente a través de sus autores humanos en pasajes específicos.", "fuentes": ["web_cpe_interpretacion#5"]}
+    {
+      "original": "ἀνακρίνω",
+      "translit": "anakrínō",
+      "idioma": "griego",
+      "ref": "Hch 17:11",
+      "significado": "Examinar, investigar. MacArthur explica que se usaba a veces en una investigación judicial: así investigaron los de Berea las Escrituras.",
+      "fuentes": [
+        "hechos_comentario__archivo#250"
+      ]
+    },
+    {
+      "translit": "exēgēsis",
+      "idioma": "griego",
+      "ref": "",
+      "significado": "Relato, descripción. La Coalición por el Evangelio dice que la exégesis es la actividad de identificar lo que Dios decía realmente a través de sus autores humanos en pasajes específicos.",
+      "fuentes": [
+        "web_cpe_interpretacion#5"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El que abre el entendimiento. Después de la resurrección, Jesús explicó a sus discípulos desde Moisés y todos los profetas lo que las Escrituras decían de él (Lucas 24:25-27) y les abrió el entendimiento para comprenderlas (Lucas 24:45). MacArthur dice que lo que Cristo hizo entonces lo hace hoy el Espíritu por los cristianos. Es una conexión explícita del texto bíblico.", "refs": ["Lc 24:25-27", "Lc 24:45"], "fuentes": ["macarthur_ts#531", "hechos_comentario__archivo#250"]},
-    {"texto": "Cristo y el velo. La Coalición recuerda que solo en Cristo se quita el velo de dureza hacia la Palabra (2 Corintios 3:14) y que el intérprete debe preguntar cómo su pasaje apunta a Cristo. La Declaración de Chicago afirma que Jesucristo es el centro de referencia de la Escritura. Son afirmaciones de esas fuentes sobre el método de lectura.", "refs": ["2 Co 3:14"], "fuentes": ["web_cpe_interpretacion#4", "web_cpe_interpretacion#6", "web_chicago_hermeneutica#6"]}
+    {
+      "texto": "El que abre el entendimiento. Después de la resurrección, Jesús explicó a sus discípulos desde Moisés y todos los profetas lo que las Escrituras decían de él (Lucas 24:25-27) y les abrió el entendimiento para comprenderlas (Lucas 24:45). MacArthur dice que lo que Cristo hizo entonces lo hace hoy el Espíritu por los cristianos. Es una conexión explícita del texto bíblico.",
+      "refs": [
+        "Lc 24:25-27",
+        "Lc 24:45"
+      ],
+      "fuentes": [
+        "macarthur_ts#531",
+        "hechos_comentario__archivo#250"
+      ]
+    },
+    {
+      "texto": "Cristo y el velo. La Coalición recuerda que solo en Cristo se quita el velo de dureza hacia la Palabra (2 Corintios 3:14) y que el intérprete debe preguntar cómo su pasaje apunta a Cristo. La Declaración de Chicago afirma que Jesucristo es el centro de referencia de la Escritura. Son afirmaciones de esas fuentes sobre el método de lectura.",
+      "refs": [
+        "2 Co 3:14"
+      ],
+      "fuentes": [
+        "web_cpe_interpretacion#4",
+        "web_cpe_interpretacion#6",
+        "web_chicago_hermeneutica#6"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué puede entender de la Biblia quien no tiene el Espíritu?",
       "posturas": [
-        {"postura": "No puede entenderla adecuadamente: está muerto a las cosas de Dios y tiene un velo que solo el Espíritu levanta (2 Corintios 3:16; 4:3-4). La iluminación es la culminación del proceso de revelación.", "quien": "MacArthur", "fuentes": ["la_predicacion_como__macarthur#125", "comentario_macarthur_del__macarthur2#74"]},
-        {"postura": "Distingue el significado que el autor quiso transmitir, que también un no creyente puede captar, y el efecto que quiso producir, que solo es posible para los creyentes (Romanos 8:7-8; 1 Corintios 2:14).", "quien": "Coalición por el Evangelio", "fuentes": ["web_cpe_interpretacion#4"]},
-        {"postura": "La Biblia puede ser entendida por quienes no son creyentes si la leen con sinceridad en busca de salvación, y por los creyentes que buscan la ayuda de Dios; en ambos casos el Espíritu obra para superar los efectos del pecado.", "quien": "Grudem", "fuentes": ["grudem#113"]}
+        {
+          "postura": "No puede entenderla adecuadamente: está muerto a las cosas de Dios y tiene un velo que solo el Espíritu levanta (2 Corintios 3:16; 4:3-4). La iluminación es la culminación del proceso de revelación.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "la_predicacion_como__macarthur#125",
+            "comentario_macarthur_del__macarthur2#74"
+          ]
+        },
+        {
+          "postura": "Distingue el significado que el autor quiso transmitir, que también un no creyente puede captar, y el efecto que quiso producir, que solo es posible para los creyentes (Romanos 8:7-8; 1 Corintios 2:14).",
+          "quien": "Coalición por el Evangelio",
+          "fuentes": [
+            "web_cpe_interpretacion#4"
+          ]
+        },
+        {
+          "postura": "La Biblia puede ser entendida por quienes no son creyentes si la leen con sinceridad en busca de salvación, y por los creyentes que buscan la ayuda de Dios; en ambos casos el Espíritu obra para superar los efectos del pecado.",
+          "quien": "Grudem",
+          "fuentes": [
+            "grudem#113"
+          ]
+        }
       ],
       "nota": "Las tres fuentes coinciden en que el Espíritu es necesario para recibir lo que la Biblia dice; difieren en cuánto puede captarse sin su obra. No se zanja aquí."
     },
     {
       "tema": "¿Quién interpreta con autoridad: cada creyente o la iglesia?",
       "posturas": [
-        {"postura": "Los reformadores sostuvieron la claridad de la Escritura: el conocimiento necesario para la salvación se comunica de forma tan sencilla que quien lo busca sinceramente puede obtenerlo sin depender de la iglesia o del sacerdocio, aunque no negaron los misterios ni la labor de los exégetas.", "quien": "Berkhof", "fuentes": ["berkhof#32", "berkhof#33"]},
-        {"postura": "Según Berkhof, la Iglesia de Roma sostiene que la Biblia es de difícil comprensión y que hace falta una interpretación infalible, que la propia iglesia proporciona. Aquí solo aparece como la resume Berkhof, no con documentos católicos.", "quien": "Presentada por Berkhof", "fuentes": ["berkhof#32"]}
+        {
+          "postura": "Los reformadores sostuvieron la claridad de la Escritura: el conocimiento necesario para la salvación se comunica de forma tan sencilla que quien lo busca sinceramente puede obtenerlo sin depender de la iglesia o del sacerdocio, aunque no negaron los misterios ni la labor de los exégetas.",
+          "quien": "Berkhof",
+          "fuentes": [
+            "berkhof#32",
+            "berkhof#33"
+          ]
+        },
+        {
+          "postura": "Según Berkhof, la Iglesia de Roma sostiene que la Biblia es de difícil comprensión y que hace falta una interpretación infalible, que la propia iglesia proporciona. Aquí solo aparece como la resume Berkhof, no con documentos católicos.",
+          "quien": "Presentada por Berkhof",
+          "fuentes": [
+            "berkhof#32"
+          ]
+        }
       ],
       "nota": "Solo se oye la descripción de un lado hecha por un autor reformado; esa postura se estudiará con sus propias fuentes más adelante en el estudio."
     }
   ],
   "conexiones": [
-    {"ref": "2 P 3:16", "nota": "Pedro admite que algunas cosas en las cartas de Pablo son difíciles de entender.", "fuentes": ["web_cpe_interpretacion#2"]},
-    {"ref": "Sal 119:18", "nota": "La oración del salmista por iluminación, que MacArthur cita como modelo.", "fuentes": ["macarthur_ts#531"]},
-    {"ref": "2 Ti 2:15", "nota": "Obrero que maneja bien la palabra de verdad: la iluminación no reemplaza el estudio personal.", "fuentes": ["macarthur_ts#532"]},
-    {"ref": "Esd 7:10", "nota": "Esdras dedicó su corazón a estudiar la ley, practicarla y enseñarla.", "fuentes": ["web_cpe_interpretacion#4", "hechos_comentario__archivo#251"]}
+    {
+      "ref": "2 P 3:16",
+      "nota": "Pedro admite que algunas cosas en las cartas de Pablo son difíciles de entender.",
+      "fuentes": [
+        "web_cpe_interpretacion#2"
+      ]
+    },
+    {
+      "ref": "Sal 119:18",
+      "nota": "La oración del salmista por iluminación, que MacArthur cita como modelo.",
+      "fuentes": [
+        "macarthur_ts#531"
+      ]
+    },
+    {
+      "ref": "2 Ti 2:15",
+      "nota": "Obrero que maneja bien la palabra de verdad: la iluminación no reemplaza el estudio personal.",
+      "fuentes": [
+        "macarthur_ts#532"
+      ]
+    },
+    {
+      "ref": "Esd 7:10",
+      "nota": "Esdras dedicó su corazón a estudiar la ley, practicarla y enseñarla.",
+      "fuentes": [
+        "web_cpe_interpretacion#4",
+        "hechos_comentario__archivo#251"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Antes de abrir la Biblia, pedí entendimiento con las palabras del Salmo 119:18. Crossway advierte que sin oración el estudio no da fruto duradero.", "fuentes": ["web_crossway_inductivo#1"]},
-    {"texto": "Cuando un pasaje no cierra, no armes una doctrina sobre él: hacé las cuatro preguntas y buscá textos más claros.", "fuentes": ["dificultades_biblicas_un__geisler#7"]},
-    {"texto": "Si alguien dice que en el original una palabra también significa tal cosa, comprobalo antes de apoyar una enseñanza en eso, como aconseja Vickers.", "fuentes": ["web_9marks_carson#1", "web_9marks_carson#2"]},
-    {"texto": "Examiná lo que escuchás a la luz de la Escritura, como los de Berea, pero sin desentenderte de los maestros que Cristo dio a su Iglesia.", "fuentes": ["hechos_comentario__archivo#250", "el_mensaje_de__stott#136"]}
+    {
+      "texto": "Antes de abrir la Biblia, pedí entendimiento con las palabras del Salmo 119:18. Crossway advierte que sin oración el estudio no da fruto duradero.",
+      "fuentes": [
+        "web_crossway_inductivo#1"
+      ]
+    },
+    {
+      "texto": "Cuando un pasaje no cierra, no armes una doctrina sobre él: hacé las cuatro preguntas y buscá textos más claros.",
+      "fuentes": [
+        "dificultades_biblicas_un__geisler#7"
+      ]
+    },
+    {
+      "texto": "Si alguien dice que en el original una palabra también significa tal cosa, comprobalo antes de apoyar una enseñanza en eso, como aconseja Vickers.",
+      "fuentes": [
+        "web_9marks_carson#1",
+        "web_9marks_carson#2"
+      ]
+    },
+    {
+      "texto": "Examiná lo que escuchás a la luz de la Escritura, como los de Berea, pero sin desentenderte de los maestros que Cristo dio a su Iglesia.",
+      "fuentes": [
+        "hechos_comentario__archivo#250",
+        "el_mensaje_de__stott#136"
+      ]
+    }
   ],
   "para_reflexionar": [
     "De los seis errores del día (contexto, género, espiritualizar, lo propio, palabras-fetiche, versículo favorito), ¿cuál cometés más seguido sin darte cuenta? ¿Qué pasaje podrías releer con esa luz?",
@@ -121,7 +432,19 @@
   ],
   "para_orar": "Señor, abrí mis ojos para ver las maravillas de tu ley. Ayudame a estudiar con diligencia, a no torcer tu Palabra y a no confundir mi interpretación con lo que vos dijiste. Dame humildad para escuchar a los maestros que le diste a tu Iglesia y para discrepar con amor. Que tu Espíritu me enseñe a obedecer lo que entiendo. Amén.",
   "profundizar": [
-    {"titulo": "Un pasaje oscuro concreto: los bautizados por los muertos", "texto": "Geisler y Howe usan 1 Corintios 15:29 como ejemplo de un texto cuyas palabras son claras pero cuya referencia no lo es. Mencionan varias posibilidades: un bautismo en favor de creyentes muertos sin bautizar, personas que se bautizaban para llenar las filas de los fallecidos, un creyente bautizado pensando en su propia muerte y sepultura con Cristo, o algo más. No dicen cuál es correcta; su regla es no edificar doctrina sobre un pasaje así.", "fuentes": ["dificultades_biblicas_un__geisler#7"]},
-    {"titulo": "Cuando el experto también se discute: monogenēs en Juan 3:16", "texto": "Vickers aclara que un ejemplo de falacia en el libro de Carson no es la última palabra: hay eruditos serios que discuten su argumento para traducir monogenēs, en Juan 3:16, como «único» y no como «unigénito». La fuente solo menciona el desacuerdo, sin desarrollar las razones de cada lado.", "fuentes": ["web_9marks_carson#3"]}
+    {
+      "titulo": "Un pasaje oscuro concreto: los bautizados por los muertos",
+      "texto": "Geisler y Howe usan 1 Corintios 15:29 como ejemplo de un texto cuyas palabras son claras pero cuya referencia no lo es. Mencionan varias posibilidades: un bautismo en favor de creyentes muertos sin bautizar, personas que se bautizaban para llenar las filas de los fallecidos, un creyente bautizado pensando en su propia muerte y sepultura con Cristo, o algo más. No dicen cuál es correcta; su regla es no edificar doctrina sobre un pasaje así.",
+      "fuentes": [
+        "dificultades_biblicas_un__geisler#7"
+      ]
+    },
+    {
+      "titulo": "Cuando el experto también se discute: monogenēs en Juan 3:16",
+      "texto": "Vickers aclara que un ejemplo de falacia en el libro de Carson no es la última palabra: hay eruditos serios que discuten su argumento para traducir monogenēs, en Juan 3:16, como «único» y no como «unigénito». La fuente solo menciona el desacuerdo, sin desarrollar las razones de cada lado.",
+      "fuentes": [
+        "web_9marks_carson#3"
+      ]
+    }
   ]
 }

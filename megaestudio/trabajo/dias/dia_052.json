@@ -1,0 +1,464 @@
+{
+  "dia": 52,
+  "titulo": "Un mapa de los 66 libros: cómo se conectan",
+  "bajada": "La Biblia no es un solo libro corrido sino una biblioteca de sesenta y seis. ¿Cómo se agrupan sus libros, quién los escribió y cuándo, qué orden siguen, y qué pregunta conviene llevar a cada bloque para no perderse?",
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Lucas 24:44-48",
+    "porque": "Jesús resucitado resume ante sus discípulos todo lo escrito sobre él en las tres partes de su Biblia: es el mejor punto de partida para un mapa."
+  },
+  "versiculos": [
+    {
+      "ref": "Lucas 24:44",
+      "porque": "Jesús nombra las tres partes de la Escritura y dice que todas hablan de él."
+    },
+    {
+      "ref": "2 Timoteo 3:16",
+      "porque": "Toda la Escritura, de principio a fin, es inspirada por Dios y útil para enseñar."
+    }
+  ],
+  "entrada": {
+    "texto": "Abrís la Biblia y encontrás relatos, leyes, poemas, cartas y visiones. Con tanta variedad es fácil perderse, y por eso conviene tener un mapa antes de entrar en cada libro. Hoy armamos uno con tres ayudas: cómo se agrupan los libros, quién los escribió y cuándo según las fuentes (con las diferencias que haya), y una pregunta para leer cada bloque: ¿cómo anuncia a Cristo y su reino?\n\nEl punto de partida es la lectura del día. En Lucas 24:44-48 Jesús repasa con sus discípulos lo que toda la Escritura dice de él. MacArthur lo describe como un pasaje que corre desde Génesis hasta el final de la historia redentora, «viendo el mural de la salvación de principio a fin».",
+    "fuentes": [
+      "lucas_comentario__macarthur#960",
+      "fundamentos_de_la__church#24"
+    ]
+  },
+  "apartados": [
+    {
+      "titulo": "Sesenta y seis libros, una sola historia",
+      "parrafos": [
+        {
+          "texto": "El Diccionario Bíblico Mundo Hispano explica que los sesenta y seis libros de la Biblia evangélica llevan en conjunto el nombre de «el canon», término que viene de una palabra griega que significa regla o medida: eran aceptados como autoridad para la fe y la vida. Aclara que los cánones católico romano y ortodoxo oriental agregan otros libros, los Apócrifos. Cómo se fijó el canon es tema de otros días; hoy nos interesa lo que hay dentro.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#16"
+          ]
+        },
+        {
+          "texto": "El manual Fundamentos de la Fe, de la iglesia Grace Community, los reparte en treinta y nueve del Antiguo Testamento y veintisiete del Nuevo, escritos por unos cuarenta hombres de países y épocas distintas (de 1400 a.C. a 90 d.C., según el manual) y en tres idiomas: hebreo, arameo y griego. Aun así, afirma, Dios movió a los escritores a enfocarse en su gloria en la redención del hombre a través de una figura central: Jesucristo.",
+          "fuentes": [
+            "fundamentos_de_la__church#24"
+          ]
+        },
+        {
+          "texto": "La Coalición por el Evangelio coincide: muchos libros y autores a lo largo de siglos, pero como Palabra de Dios un libro unificado con un solo mensaje. Propone resumir la historia en cuatro movimientos (creación, caída, redención y nueva creación) y en la progresión de los pactos, que según el ensayo sirven como «la columna vertebral de la historia de la Biblia».",
+          "fuentes": [
+            "web_cpe_historia_mensaje_biblia#1",
+            "web_cpe_historia_mensaje_biblia#3"
+          ]
+        }
+      ],
+      "destacado": {
+        "texto": "Hay muchos libros, géneros y autores, pero un solo hilo: el Dios trino que redime a su pueblo en Cristo.",
+        "fuentes": [
+          "web_cpe_historia_mensaje_biblia#1",
+          "fundamentos_de_la__church#24"
+        ]
+      }
+    },
+    {
+      "titulo": "El Antiguo Testamento: cinco estantes",
+      "parrafos": [
+        {
+          "texto": "Según el Diccionario, el Antiguo Testamento abarca desde la creación hasta Esdras y Nehemías, alrededor del año 400 a.C., y los primeros cristianos agruparon sus libros por tema y tipo de escrito, no por orden cronológico. Son cinco grupos: Pentateuco, historia, poesía, profetas mayores y profetas menores; Fundamentos de la Fe los cuenta como cinco libros, doce, cinco, cinco y doce, que suman treinta y nueve.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#16",
+            "diccionario_biblico_mundo__douglas#17",
+            "fundamentos_de_la__church#24",
+            "fundamentos_de_la__church#25",
+            "fundamentos_de_la__church#26"
+          ]
+        },
+        {
+          "texto": "El primer estante, el Pentateuco, es la Ley. Génesis es el libro de los comienzos: creación, caída, diluvio y naciones en los capítulos 1 a 11, y desde el 12 el llamado de Abraham. Éxodo cuenta la salida de Egipto y la ley en el Sinaí; Levítico, la adoración, el sacerdocio y los sacrificios; Números, los cuarenta años en el desierto por la desobediencia; Deuteronomio, los discursos de Moisés antes de entrar en la Tierra Prometida. Según el Diccionario, a Moisés se lo considera su autor; Fundamentos de la Fe los llama los «Cinco Libros de Moisés» y los ubica cerca de 1400 a.C.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#17",
+            "fundamentos_de_la__church#24"
+          ]
+        },
+        {
+          "texto": "El segundo estante son los doce libros de historia, de Josué a Ester: desde la entrada en la Tierra Prometida hasta alrededor del año 400 a.C., con la conquista, los jueces, Rut (una gentil que fue antecesora de Jesús), los reyes, la división del reino y los exilios (722 a.C. para el norte y 586 a.C. para Judá), el regreso con Esdras y Nehemías y la historia de Ester. Fundamentos de la Fe ubica su redacción entre 1400 y 450 a.C.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#18",
+            "diccionario_biblico_mundo__douglas#19",
+            "fundamentos_de_la__church#24"
+          ]
+        },
+        {
+          "texto": "El tercero es la poesía y la sabiduría. Job trata el choque entre el sufrimiento y la fe en el amor y la justicia de Dios; Salmos es el cancionero de Israel; Proverbios enseña a obedecer a Dios en el trato cotidiano (Proverbios 1:7); Eclesiastés muestra que la vida apartada de Dios carece de sentido; Cantares celebra el amor en el matrimonio.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#18",
+            "diccionario_biblico_mundo__douglas#19",
+            "diccionario_biblico_mundo__douglas#20"
+          ]
+        },
+        {
+          "texto": "Los dos últimos estantes son los profetas. «Mayor» y «menor» se refieren al tamaño: el Diccionario aclara que los menores se agrupan porque son más cortos, «no porque sean de menor importancia». Los mayores son Isaías, Jeremías, Lamentaciones, Ezequiel y Daniel; los menores son doce, de Oseas a Malaquías. El Diccionario ubica a los mayores entre 740 y 540 a.C., aproximadamente, y a los menores entre 800 y 400 a.C.; Fundamentos de la Fe da márgenes algo distintos (750 a 550 a.C. y 840 a 400 a.C.). Son aproximaciones de cada fuente.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#20",
+            "diccionario_biblico_mundo__douglas#21",
+            "fundamentos_de_la__church#25",
+            "fundamentos_de_la__church#26"
+          ]
+        }
+      ],
+      "destacado": {
+        "texto": "Los cinco estantes del Antiguo Testamento: la Ley, la historia, la poesía, los profetas mayores y los profetas menores.",
+        "fuentes": [
+          "diccionario_biblico_mundo__douglas#17"
+        ]
+      }
+    },
+    {
+      "titulo": "El Nuevo Testamento: de los Evangelios al Apocalipsis",
+      "parrafos": [
+        {
+          "texto": "Fundamentos de la Fe presenta el Nuevo Testamento como una secuencia: la vida de Cristo, el camino a la salvación, el comienzo del cristianismo, la instrucción para la vida cristiana y el plan de Dios para el futuro. Eso se reparte en cinco libros de historia (los cuatro Evangelios y Hechos), veintiuna cartas y un libro de profecía.",
+          "fuentes": [
+            "fundamentos_de_la__church#26",
+            "fundamentos_de_la__church#27",
+            "fundamentos_de_la__church#28"
+          ]
+        },
+        {
+          "texto": "Según el Diccionario, los Evangelios cuentan la vida de Cristo desde perspectivas distintas. Mateo escribió para lectores judíos, para mostrar que Jesús cumplía la profecía y era el Mesías y Rey prometido; Marcos, el más breve, fue escrito por Juan Marcos para gentiles con material recibido de Pedro; Lucas, un médico gentil, ofrece un informe ordenado desde el nacimiento hasta la ascensión; y Juan presenta a Jesús como el Cristo, el Hijo de Dios, para que los lectores crean y tengan vida en su nombre (Juan 20:30-31). Hechos es el segundo tomo de la obra de Lucas: muestra a la iglesia creciendo de un grupito temeroso a creyentes por todo el Imperio Romano, con Pedro entre los judíos y Pablo entre los gentiles.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#25",
+            "diccionario_biblico_mundo__douglas#26"
+          ]
+        },
+        {
+          "texto": "Siguen las veintiuna cartas. Fundamentos de la Fe las divide en trece de Pablo (de Romanos a Filemón) y ocho generales (Hebreos, Santiago, 1 y 2 Pedro, 1, 2 y 3 Juan, y Judas); el Diccionario las atribuye a cinco o seis autores. Cada una responde a una situación concreta: Romanos explica el plan de salvación para judíos y gentiles; Gálatas insiste en la salvación solo por fe; Colosenses subraya la suficiencia absoluta de Cristo; Hebreos recuerda que Cristo es más que los ángeles, Moisés, los sacerdotes y la ley; Santiago sostiene que la fe auténtica produce acciones.",
+          "fuentes": [
+            "fundamentos_de_la__church#27",
+            "fundamentos_de_la__church#28",
+            "diccionario_biblico_mundo__douglas#26",
+            "diccionario_biblico_mundo__douglas#27",
+            "diccionario_biblico_mundo__douglas#28"
+          ]
+        },
+        {
+          "texto": "El último libro, Apocalipsis, es según el Diccionario el único del Nuevo Testamento principalmente profético. Juan lo escribió para animar a los creyentes a no ceder ante las presiones, con la promesa de que Cristo vendrá, establecerá plenamente su reino y dará comienzo al nuevo cielo y la nueva tierra. Fundamentos de la Fe lo resume como el retorno, el reinado y la gloria de Jesucristo.",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#29",
+            "fundamentos_de_la__church#28"
+          ]
+        }
+      ],
+      "destacado": {
+        "texto": "El Nuevo Testamento tiene forma de recorrido: la vida de Cristo, el nacimiento de la iglesia, la instrucción para la vida cristiana y el futuro que Dios promete.",
+        "fuentes": [
+          "fundamentos_de_la__church#26",
+          "fundamentos_de_la__church#28"
+        ]
+      }
+    },
+    {
+      "titulo": "El orden de tu Biblia no es el orden del calendario",
+      "parrafos": [
+        {
+          "texto": "El orden canónico es el de las páginas de tu Biblia; el cronológico, el de la época en que se escribió o sucedió cada cosa. No siempre coinciden. Fundamentos de la Fe advierte que en el Antiguo Testamento los libros históricos están en orden cronológico, pero los poéticos y proféticos no, y hay que «entretejerlos» en el período que les corresponde. Scott hace eso con los profetas: los estudia en su orden cronológico correcto, empezando por Joel, y avisa que dentro de Jeremías los mensajes de los capítulos 2 a 35 no están en orden cronológico.",
+          "fuentes": [
+            "fundamentos_de_la__church#43",
+            "el_plan_de__scott#226",
+            "el_plan_de__scott#227",
+            "el_plan_de__scott#354"
+          ]
+        },
+        {
+          "texto": "En el Nuevo Testamento pasa algo parecido. La Biblia de estudio MacArthur fecha Santiago hacia 44-49 d.C. y lo llama el libro más antiguo del canon del Nuevo Testamento, aunque en tu Biblia viene después de las cartas de Pablo y de Hebreos; Hebreos sería de 67-69 d.C. y Apocalipsis de 94-96 d.C. El Diccionario dice que 1 Tesalonicenses es una de las primeras cartas de Pablo y 2 Timoteo su última carta conocida. Fundamentos de la Fe dice que la Biblia se escribió hasta 90 d.C. y la Biblia de estudio fecha Apocalipsis unos años después: un recordatorio de que las fechas son estimaciones.",
+          "fuentes": [
+            "biblia_de_estudio__autor#3213",
+            "fundamentos_de_la__church#28",
+            "biblia_de_estudio__autor#3131",
+            "biblia_de_estudio__autor#3394",
+            "diccionario_biblico_mundo__douglas#27",
+            "diccionario_biblico_mundo__douglas#28",
+            "fundamentos_de_la__church#24"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "La Biblia de Jesús: la ley, los profetas y los salmos",
+      "parrafos": [
+        {
+          "texto": "En Lucas 24:44 Jesús dice que debía cumplirse todo lo escrito de él «en la ley de Moisés, en los profetas y en los salmos». MacArthur ve ahí la triple división del Antiguo Testamento y explica que los discípulos habían vivido bajo una interpretación inadecuada y necesitaban entender que el cristianismo no repudiaba el judaísmo del Antiguo Testamento sino que era su cumplimiento. Por eso Jesús les abrió el entendimiento (Lucas 24:45).",
+          "fuentes": [
+            "lucas_comentario__macarthur#961"
+          ]
+        },
+        {
+          "texto": "El BibleProject recuerda que esa colección de tres partes se llamó más tarde TaNaK, sigla de Torá (instrucción), Nevi'im (profetas) y Ketuvim (escritos), y que su forma final se sitúa entre los siglos III y II a.C. Según esta fuente, su orden difiere en algunos puntos del Antiguo Testamento de las Biblias cristianas. Qué libros caben en cada parte no se describe igual en todas las fuentes: lo vemos en las posturas.",
+          "fuentes": [
+            "web_bibleproject_hebrew_bible#3",
+            "web_bibleproject_hebrew_bible#4"
+          ]
+        },
+        {
+          "texto": "MacArthur lista lo que el Antiguo Testamento dice del Mesías: vendría de la descendencia de Abraham, de la tribu de Judá y del linaje de David; nacería de una virgen en Belén; sería traicionado, crucificado y traspasado; su muerte sería sustitutiva y resucitaría. Y recuerda que Pedro, Esteban, Felipe y Pablo usaron enseguida el Antiguo Testamento para anunciar a Jesús.",
+          "fuentes": [
+            "lucas_comentario__macarthur#961",
+            "lucas_comentario__macarthur#962"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Una pregunta para cada bloque: ¿cómo anuncia a Cristo y el reino?",
+      "parrafos": [
+        {
+          "texto": "En la Ley, Fundamentos de la Fe sugiere en sus notas para el maestro no pasar por alto la Pascua de Éxodo 12 y presentar a Cristo como el último Cordero de Pascua (Juan 1:29, 36; 1 Corintios 5:7; Isaías 53:7). El BibleProject muestra que Jesús y los apóstoles leían la Escritura como un repositorio de patrones o «tipos»: Adán es tipo de aquel que había de venir (Romanos 5:14).",
+          "fuentes": [
+            "fundamentos_de_la__church#43",
+            "web_bibleproject_hebrew_bible#3"
+          ]
+        },
+        {
+          "texto": "En la historia, el hilo es una promesa que se concreta. La Coalición por el Evangelio señala que en el pacto con David (2 Samuel 7:14) la promesa se enfoca en un rey, un «hijo» que gobernaría para siempre, y que David y sus hijos fallan, de modo que queda abierta la pregunta de dónde está el rey. En la poesía, la Biblia de estudio MacArthur trae una tabla titulada «Cristo en los salmos (Lc. 24:44)»: el Salmo 2 se cita en Hechos y Hebreos, el 16:8-11 en Hechos, el 22 en los relatos de la cruz, el 41:9 en Juan 13 y el 45:6-7 en Hebreos 1.",
+          "fuentes": [
+            "web_cpe_historia_mensaje_biblia#6",
+            "biblia_de_estudio__autor#1148"
+          ]
+        },
+        {
+          "texto": "Los profetas, dice la Coalición por el Evangelio, hablan de juicio, pero también anuncian un rey davídico fiel, el siervo del Señor, un nuevo pacto con perdón de pecados (Jeremías 31:34) y una nueva creación (Isaías 65:17). En los Evangelios, según el Diccionario, Mateo presenta a Jesús como el Rey prometido y Juan como el Cristo, Hijo de Dios. Y en Apocalipsis 21-22 la nueva creación llega a su plenitud cuando Cristo regresa.",
+          "fuentes": [
+            "web_cpe_historia_mensaje_biblia#6",
+            "web_cpe_historia_mensaje_biblia#7",
+            "diccionario_biblico_mundo__douglas#25"
+          ]
+        }
+      ],
+      "destacado": {
+        "texto": "No se trata de encontrar a Jesús en cualquier detalle, sino de seguir los patrones, promesas y títulos que la propia Biblia pone en su lugar.",
+        "fuentes": [
+          "web_bibleproject_hebrew_bible#3",
+          "lucas_comentario__macarthur#961"
+        ]
+      }
+    },
+    {
+      "titulo": "Un mapa para llevar",
+      "parrafos": [
+        {
+          "texto": "Con lo visto, un mapa posible: Génesis 1 y 2 es la creación y Génesis 3 la caída, donde Dios promete una «simiente» que vencerá a la serpiente (Génesis 3:15). La Ley y la historia siguen cómo avanza esa promesa por Abraham, Moisés y David; la poesía, según el Diccionario, enseña a sufrir, alabar y vivir con Dios cada día; los profetas combinan juicio y esperanza. Los Evangelios muestran a Cristo cumpliendo lo prometido, Hechos cuenta cómo se extiende, las cartas instruyen para la vida cristiana y Apocalipsis habla de su retorno. Es una síntesis nuestra a partir de estas fuentes, no un esquema que ellas propongan tal cual. La Coalición por el Evangelio resume el hilo así: en Cristo todas las promesas de Dios son «sí» (2 Corintios 1:20).",
+          "fuentes": [
+            "web_cpe_historia_mensaje_biblia#2",
+            "diccionario_biblico_mundo__douglas#18",
+            "web_cpe_historia_mensaje_biblia#6",
+            "fundamentos_de_la__church#28"
+          ]
+        }
+      ]
+    }
+  ],
+  "citas": [
+    {
+      "texto": "el cristianismo no era un repudio al judaísmo del Antiguo Testamento, sino el cumplimiento del mismo",
+      "autor": "John MacArthur",
+      "obra": "Lucas (comentario)",
+      "fuentes": [
+        "lucas_comentario__macarthur#961"
+      ]
+    },
+    {
+      "texto": "los pactos sirven como la columna vertebral de la historia de la Biblia que mantiene unidas sus diversas piezas",
+      "autor": "Coalición por el Evangelio",
+      "obra": "La historia y el mensaje de la Biblia",
+      "fuentes": [
+        "web_cpe_historia_mensaje_biblia#3"
+      ]
+    }
+  ],
+  "palabras": [
+    {
+      "original": "תורה",
+      "translit": "Torá",
+      "idioma": "hebreo",
+      "ref": "Lc 24:44",
+      "significado": "Instrucción. El BibleProject la nombra como la primera sección de la Biblia hebrea (la Ley) dentro de la sigla TaNaK, que suma Nevi'im (profetas) y Ketuvim (escritos).",
+      "fuentes": [
+        "web_bibleproject_hebrew_bible#3",
+        "web_bibleproject_hebrew_bible#4"
+      ]
+    },
+    {
+      "original": "κανών",
+      "translit": "kanón",
+      "idioma": "griego",
+      "ref": "",
+      "significado": "Regla o medida. El Diccionario dice que «canon», nombre colectivo de los sesenta y seis libros, deriva de una palabra griega con ese significado, porque se los aceptaba como regla para la fe y la vida.",
+      "fuentes": [
+        "diccionario_biblico_mundo__douglas#16"
+      ]
+    }
+  ],
+  "cristo": [
+    {
+      "texto": "La clave de toda la Escritura. Es explícito en el Nuevo Testamento que Jesús dice que lo escrito de él en la ley de Moisés, en los profetas y en los salmos debía cumplirse (Lucas 24:44) y que las Escrituras dan testimonio de él (Juan 5:39). Fundamentos de la Fe lo resume: el Antiguo y el Nuevo Testamento se ven juntos, con Jesucristo como figura central.",
+      "refs": [
+        "Lc 24:44",
+        "Jn 5:39",
+        "Lc 24:27"
+      ],
+      "fuentes": [
+        "lucas_comentario__macarthur#961",
+        "fundamentos_de_la__church#29"
+      ]
+    },
+    {
+      "texto": "Promesas cumplidas y patrones. Pablo escribe que todas las promesas de Dios son «sí» en Cristo (2 Corintios 1:20); eso es explícito. Los patrones son otra cosa: el NT establece algunos (Adán, «tipo» de aquel que había de venir, Romanos 5:14; Cristo, Cordero de Dios, Juan 1:29), y otros los propone la Coalición por el Evangelio, como el Edén como templo (con Hebreos 3:7-4:13 y Efesios 5:32). Conviene sostenerlos con el texto que los respalda y no forzarlos.",
+      "refs": [
+        "2 Co 1:20",
+        "Ro 5:14",
+        "Jn 1:29"
+      ],
+      "fuentes": [
+        "web_cpe_historia_mensaje_biblia#2",
+        "web_cpe_historia_mensaje_biblia#6",
+        "web_bibleproject_hebrew_bible#3",
+        "fundamentos_de_la__church#43"
+      ]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué libros forman «la ley de Moisés, los profetas y los salmos» de Lucas 24:44?",
+      "posturas": [
+        {
+          "postura": "La ley es el Pentateuco. Los profetas incluyen a los «antiguos» (los libros históricos desde Josué) y a los «últimos»: Isaías, Jeremías, Ezequiel, Daniel y Lamentaciones entre los mayores, más los doce menores. Los salmos representan la literatura de sabiduría: Job, Salmos, Proverbios, Eclesiastés y Cantares.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "lucas_comentario__macarthur#961"
+          ]
+        },
+        {
+          "postura": "El TaNaK tiene Torá, Profetas anteriores (Josué, Jueces, Samuel y Reyes) y posteriores (Isaías, Jeremías, Ezequiel y los Doce), y Escritos: Salmos, Job, Proverbios, los cinco rollos (Rut, Cantares, Eclesiastés, Lamentaciones y Ester), Daniel, Esdras-Nehemías y Crónicas. Lamentaciones y Daniel quedan así fuera de los profetas.",
+          "quien": "Tim Mackie (BibleProject)",
+          "fuentes": [
+            "web_bibleproject_hebrew_bible#4"
+          ]
+        }
+      ],
+      "nota": "Las dos fuentes coinciden en tres partes; difieren en dónde ubican libros como Daniel y Lamentaciones. El Diccionario recuerda que la Biblia judía tiene tres grupos (Ley, Profetas y Escritos) y cuenta veintidós libros por combinar algunos."
+    },
+    {
+      "tema": "¿Quién escribió Hebreos, y cuántas cartas son de Pablo?",
+      "posturas": [
+        {
+          "postura": "Hebreos es una carta sin firma y hay varias suposiciones sobre su autor (Bernabé, Apolo, Priscila). Pablo escribió la mayor cantidad de las epístolas, que el Diccionario cuenta como trece o catorce.",
+          "quien": "Diccionario Bíblico Mundo Hispano",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#26",
+            "diccionario_biblico_mundo__douglas#28"
+          ]
+        },
+        {
+          "postura": "El autor de Hebreos es desconocido. Se han sugerido Pablo, Bernabé, Silas, Apolos, Lucas, Felipe, Priscila, Aquila y Clemente de Roma, pero el estilo no apoya claramente a ninguno; el escritor se incluye entre quienes recibieron el mensaje de otros (Hebreos 2:3), algo difícil para Pablo (Gálatas 1:12). Concluye que lo mejor es aceptar el anonimato.",
+          "quien": "Biblia de estudio MacArthur",
+          "fuentes": [
+            "biblia_de_estudio__autor#3131"
+          ]
+        },
+        {
+          "postura": "Trece cartas de Pablo, de Romanos a Filemón, y Hebreos entre las ocho cartas generales.",
+          "quien": "Fundamentos de la Fe (Grace Community)",
+          "fuentes": [
+            "fundamentos_de_la__church#27",
+            "fundamentos_de_la__church#28"
+          ]
+        }
+      ],
+      "nota": "Lo que se discute es la mano humana que escribió Hebreos, no que sea Palabra de Dios: la Biblia de estudio recuerda que, finalmente, el autor fue el Espíritu Santo (2 Pedro 1:21)."
+    },
+    {
+      "tema": "¿Cuándo escribió Joel?",
+      "posturas": [
+        {
+          "postura": "Finales del siglo IX a.C., durante el reinado de Joás (ca. 835-796 a.C.), porque no menciona potencias posteriores (Asiria, Babilonia, Persia), su estilo se parece al de Oseas y Amós y hay paralelos verbales con profetas antiguos. Agrega que el efecto de la fecha sobre la interpretación es mínimo.",
+          "quien": "Biblia de estudio MacArthur",
+          "fuentes": [
+            "biblia_de_estudio__autor#1694",
+            "biblia_de_estudio__autor#1695"
+          ]
+        },
+        {
+          "postura": "Alrededor del 850 a.C., entre los primeros profetas escritores, porque el libro refleja una época de sacerdotes influyentes, lo que no fue frecuente en Israel después de Salomón. Scott reconoce que hay muchos que lo situarían mucho después, incluso entre los últimos profetas, porque el libro no da fechas definidas.",
+          "quien": "Scott",
+          "fuentes": [
+            "el_plan_de__scott#227",
+            "el_plan_de__scott#228"
+          ]
+        }
+      ],
+      "nota": "Solo aparece la postura temprana con sus razones y la mención de que otros lo fechan más tarde, sin sus argumentos. El Diccionario lo ubica entre los profetas del período del poder de Asiria."
+    }
+  ],
+  "conexiones": [
+    {
+      "ref": "Lc 24:27",
+      "nota": "Fundamentos de la Fe lo cita junto con Juan 5:39 para decir que se ve a Cristo en todas las Escrituras.",
+      "fuentes": [
+        "fundamentos_de_la__church#29"
+      ]
+    },
+    {
+      "ref": "Jn 20:30-31",
+      "nota": "El Diccionario lo cita como el propósito del Evangelio de Juan: que los lectores crean que Jesús es el Cristo y tengan vida en su nombre.",
+      "fuentes": [
+        "diccionario_biblico_mundo__douglas#25",
+        "diccionario_biblico_mundo__douglas#26"
+      ]
+    },
+    {
+      "ref": "Mal 4:4-6",
+      "nota": "Según el BibleProject, los últimos versículos de los Profetas anticipan a un profeta como Elías que llamaría de vuelta a la Torá, y los Salmos 1-2 abren los Escritos.",
+      "fuentes": [
+        "web_bibleproject_hebrew_bible#5"
+      ]
+    },
+    {
+      "ref": "2 Co 1:20",
+      "nota": "La Coalición por el Evangelio lo cita para decir que, con la venida de Cristo, todas las promesas de Dios son «sí» en él.",
+      "fuentes": [
+        "web_cpe_historia_mensaje_biblia#6"
+      ]
+    }
+  ],
+  "para_vivir": [
+    {
+      "texto": "Antes de abrir un libro, ubicalo con tres preguntas: ¿en qué estante está?, ¿quién lo escribió y más o menos cuándo?, y ¿cómo anuncia a Cristo y su reino?",
+      "fuentes": [
+        "diccionario_biblico_mundo__douglas#17",
+        "lucas_comentario__macarthur#961"
+      ]
+    },
+    {
+      "texto": "Elegí un salmo de la tabla «Cristo en los salmos» de la Biblia de estudio MacArthur (por ejemplo el 22) y leé con él el pasaje del Nuevo Testamento que lo cita.",
+      "fuentes": [
+        "biblia_de_estudio__autor#1148"
+      ]
+    }
+  ],
+  "para_reflexionar": [
+    "¿Qué estante de la Biblia leés con más frecuencia y cuál casi nunca abrís? ¿Qué te falta ver de Cristo si dejás de lado uno de ellos?",
+    "Jesús leyó la Escritura como un testimonio sobre él. ¿Qué cambia en tu manera de leer el Antiguo Testamento si partís de esa convicción?",
+    "Las fuentes dan fechas y autores algo distintos para varios libros. ¿Cómo te ayuda eso a distinguir lo que se afirma con firmeza de lo que se estima?"
+  ],
+  "para_orar": "Señor Jesús, gracias porque toda la Escritura habla de vos. Abrime el entendimiento como lo hiciste con tus discípulos, ayudame a leer cada libro en su lugar y a verte en cada estante de tu Palabra. Que cada página me acerque a vos y a tu reino. Amén.",
+  "profundizar": [
+    {
+      "titulo": "Cuatro Evangelios y un Lucas que investigó",
+      "texto": "El Diccionario llama sinópticos a Mateo, Marcos y Lucas porque muchos sucesos y enseñanzas aparecen en los tres. La Biblia de estudio MacArthur sostiene, sobre Lucas 1:1, que Lucas se basó en investigación rigurosa y en testigos oculares, que lo más probable es que Mateo y Marcos hayan sido escritos antes, y que casi el sesenta por ciento del material de Marcos aparece en Lucas, que sigue de cerca el orden de Marcos. Es una de varias explicaciones posibles sobre cómo se relacionan los Evangelios; aquí solo aparece la de esta fuente.",
+      "fuentes": [
+        "diccionario_biblico_mundo__douglas#25",
+        "biblia_de_estudio__autor#2220",
+        "biblia_de_estudio__autor#2221"
+      ]
+    }
+  ]
+}

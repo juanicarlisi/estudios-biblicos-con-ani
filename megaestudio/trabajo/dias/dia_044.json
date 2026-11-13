@@ -1,0 +1,141 @@
+{
+  "dia": 44,
+  "titulo": "La Septuaginta y el vocabulario del Nuevo Testamento",
+  "bajada": "Cuando el Nuevo Testamento dice «Señor», «Cristo», «iglesia» o «gloria», habla en griego, pero con palabras que ya venían cargadas por la traducción griega del Antiguo Testamento. ¿Qué cambia al conocer ese puente, y dónde hay que frenar?",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Romanos 10:5-13; Filipenses 2:5-11", "porque": "Dos textos donde el Nuevo Testamento llama «Señor» a Jesús con palabras que vienen del Antiguo: invocar el nombre del Señor y doblar la rodilla ante él."},
+  "versiculos": [
+    {"ref": "Filipenses 2:11", "porque": "La confesión que cierra el himno: toda lengua dirá que Jesucristo es el Señor."},
+    {"ref": "Romanos 10:13", "porque": "Pablo aplica a Jesús una promesa sobre invocar el nombre del Señor."}
+  ],
+  "entrada": {
+    "texto": "Cuando leés en Filipenses 2:11 que toda lengua confesará que Jesucristo es «el Señor», el castellano esconde algo. Para un lector griego que conociera el Antiguo Testamento en su traducción, ese título no era una palabra suelta: era la que esa traducción usaba para el nombre propio de Dios. Esa traducción se llama Septuaginta, y hoy la recorremos como un puente entre los dos testamentos.\n\nCruzarlo cambia la forma de leer varias palabras del Nuevo Testamento, pero pide cuidado: las fuentes de hoy también marcan lo que la Septuaginta no es.",
+    "fuentes": ["grudem#571", "web_cpe_septuaginta#2"]
+  },
+  "apartados": [
+    {
+      "titulo": "Una Biblia en griego antes de Cristo",
+      "parrafos": [
+        {"texto": "Según la Coalición por el Evangelio, la Septuaginta (LXX) es la primera traducción de la Biblia y se armó a lo largo de cuatro siglos, entre el III a. C. y el I d. C. Al principio el nombre designaba solo el Pentateuco vertido al griego koiné en Alejandría; el número setenta (o setenta y dos) viene de los eruditos que, según la Carta de Aristeas, tradujeron la Torá. El ensayo de The Gospel Coalition sobre las traducciones aclara que los detalles de esa leyenda son dudosos, pero que el resto de las Escrituras hebreas siguió al Pentateuco.", "fuentes": ["web_cpe_septuaginta#1", "web_tgc_biblia_traduccion#4"]},
+        {"texto": "¿Por qué hizo falta? Porque los judíos de Egipto y de otros lugares habían ido perdiendo el hebreo, que había quedado para el ámbito religioso, mientras el griego koiné era la lengua común. Así la Septuaginta llegó a ser la Biblia estándar de los judíos de la diáspora que hablaban griego y también de los primeros cristianos.", "fuentes": ["web_tgc_biblia_traduccion#4", "web_cpe_septuaginta#2"]},
+        {"texto": "BibleProject propone una imagen útil: Jesús y los autores del Nuevo Testamento se criaron con una «enciclopedia» que venía de la Biblia hebrea, muchas veces a través de su traducción griega. Su ejemplo es Juan 1:14: en Éxodo 25:8-9 los traductores griegos usaron el verbo común para «vivir en una tienda», que quedó atado al tabernáculo, y cuando Juan dice que la Palabra habitó entre nosotros, apoya sus palabras en ese vocabulario. Es una lectura de BibleProject sobre el vínculo entre palabras; Juan no lo explica.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#5", "web_bibleproject_arte_palabras_biblicas#6"]}
+      ],
+      "destacado": {"texto": "Muchas palabras del Nuevo Testamento llegan cargadas con el sentido que ya tenían en la traducción griega del Antiguo.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#6"]}
+    },
+    {
+      "titulo": "Kyrios: cómo se dice «Yahweh» en griego",
+      "parrafos": [
+        {"texto": "Grudem parte de que kyrios, «señor», podía ser una simple cortesía hacia un superior (Mateo 13:27; Juan 4:11) o el título del amo de un siervo (Mateo 6:24). Pero la Septuaginta usa esa misma palabra para traducir el nombre hebreo yhwh, y lo hace 6.814 veces. Por eso, dice, un lector griego que conociera algo del Antiguo Testamento en esa lengua reconocía, en los contextos adecuados, que «Señor» nombraba al Creador y Sustentador del cielo y de la tierra.", "fuentes": ["grudem#571"]},
+        {"texto": "Lacueva agrega que los traductores de la Septuaginta no se atrevieron a transcribir el nombre divino y lo vertieron con Kyrios. De ahí que, cuando el Nuevo Testamento llama Kyrios a Jesucristo, le da el nombre más propio de Yahweh; en cambio, cuando Kyrios equivale al hebreo Adonay, indica autoridad y supremacía. Por eso, para Lacueva, el título es una prueba implícita de la deidad de Cristo.", "fuentes": ["lacueva#28", "lacueva#259"]},
+        {"texto": "Sproul ayuda con lo que vemos en la Biblia en castellano. Cuando se imprime SEÑOR en mayúsculas, se traduce el nombre Yavé; cuando dice «Señor» en minúsculas, se traduce Adonai, el título más alto que usaba el pueblo hebreo para Dios. Para él, la importancia real del título aplicado a Jesús está en lo que traduce del Antiguo Testamento. Y recuerda que los ciudadanos romanos debían decir en público «César es señor»: los cristianos se negaban, y su confesión era «Jesús es el Señor», que Sproul llama el credo más antiguo de la comunidad cristiana.", "fuentes": ["sproul_ts#148", "sproul_ts#150"]},
+        {"texto": "Conviene no leer todo «Señor» como nombre divino. Sproul distingue la simple cortesía, el dueño de esclavos (de ahí que Pablo se presente como siervo de Jesucristo) y el uso imperial. Y MacArthur observa que algunos llamaban Señor a Jesús sin ver en él más que un gran maestro, y que el propio Jesús advirtió que decirle «Señor, Señor» no garantiza una relación de salvación (Mateo 7:21-23).", "fuentes": ["sproul_ts#149", "filipenses_comentario_macarthur__archivo#82", "filipenses_comentario_macarthur__archivo#83"]}
+      ],
+      "destacado": {"texto": "Una misma palabra griega puede ser cortesía, título de un amo o el nombre de Dios: el contexto decide cuál.", "fuentes": ["grudem#571", "sproul_ts#149"]}
+    },
+    {
+      "titulo": "Filipenses 2:11 y Romanos 10:13",
+      "parrafos": [
+        {"texto": "César Vidal, en un artículo de la Coalición por el Evangelio, lee Filipenses 2:5-11 como un himno judeocristiano ya conocido: Jesús existía en forma de Dios, se vació, tomó forma de siervo y murió en la cruz; Dios lo exalta para que, en cumplimiento de Isaías 45:23, toda lengua lo confiese como Señor. Vidal subraya que ese texto de Isaías, en su contexto original, se refiere al propio YHVH, de modo que el himno da a Jesús un «Señor» que va mucho más allá de un título de cortesía. Agrega que ese uso permitía atribuir a Jesús citas del Antiguo Testamento que hablaban de YHVH, como Hechos 2:20 y siguientes.", "fuentes": ["web_cpe_5_implicaciones_senor#2"]},
+        {"texto": "MacArthur cita Isaías 45:22-23, donde el Señor dice que es Dios y que no hay otro, y concluye que Jesucristo es Dios, Salvador y Señor, ante quien toda rodilla se doblará. Nota algo curioso: en Romanos 14:11 Pablo usa el mismo texto de Isaías para decir que toda lengua confesará «a Dios». Y aclara que la confesión de Filipenses 2 es universal y, en el día al que Pablo se refiere, ya no cambiará la condición de nadie; la que salva es la de Romanos 10:9, que se hace antes de la muerte o del regreso del Señor.", "fuentes": ["filipenses_comentario_macarthur__archivo#83"]},
+        {"texto": "Romanos 10:13 dice «todo aquel que invocare el nombre del Señor, será salvo», y MacArthur indica que tanto Hechos 2:21 como Romanos 10:13 citan Joel 2:32, donde se invoca el nombre de Jehová; para los apóstoles, esa frase significa creer y confesar que Jesús es el Señor. Grudem señala que en este pasaje «el Señor» es el Señor Jesucristo, y que Pablo encadena: para invocarlo hay que creer en él, para creer hay que haber oído, y para oír hace falta que alguien lo predique.", "fuentes": ["macarthur_ts#270", "grudem#121", "grudem#122"]}
+      ]
+    },
+    {
+      "titulo": "Cristo y Mesías: una misma palabra en dos idiomas",
+      "parrafos": [
+        {"texto": "El título Cristo es, en rigor, una traducción. Lacueva explica que el griego Cristós, «Ungido», es la versión del hebreo Mashiaj, que en nuestras Biblias aparece como «Mesías»; Sproul dice lo mismo. Para Grudem, lo asombroso del anuncio a los pastores (Lucas 2:11) es que junta las dos palabras: un bebé nacido en Belén es «Cristo» (el Mesías) y a la vez «el Señor».", "fuentes": ["lacueva#299", "sproul_ts#147", "grudem#571"]},
+        {"texto": "Pedro las junta de otra manera en Pentecostés: Dios «le ha hecho Señor y Cristo» (Hechos 2:36), cita que MacArthur usa. Y Carballosa lee por partes el nombre completo de Filipenses 2:11: Jesús es el nombre humano, el del Salvador; Cristo destaca el oficio mesiánico, el ungido de Dios; y en las dos capacidades es Señor.", "fuentes": ["filipenses_comentario_macarthur__archivo#84", "filipenses_un_comentario__carballosa#70"]}
+      ]
+    },
+    {
+      "titulo": "Tres pares de palabras que cruzan el puente",
+      "parrafos": [
+        {"texto": "Iglesia y asamblea. Grudem señala que ekklesia, la palabra que traducimos «iglesia», es la que la Septuaginta usa con más frecuencia para traducir el hebreo qahal, la «asamblea» del pueblo de Dios: lo hace 69 veces. Por eso Esteban puede hablar de Israel en el desierto como «la iglesia» (Hechos 7:38). Ryrie coincide en el dato de fondo, y agrega que en el griego común la palabra tenía sentido político, como en Hechos 19:32.", "fuentes": ["grudem#900", "ryrie#174"]},
+        {"texto": "Justificar y declarar justo. Grudem muestra que el verbo griego dikaioo, en la Septuaginta, traduce el hebreo tsadak, y que en Deuteronomio 25:1 los jueces justifican al inocente y condenan al culpable: justificar no es «hacer bueno por dentro» sino declarar que alguien no es culpable. Ryrie dice lo mismo de las dos palabras, la hebrea y la griega. Con esa clave lee Grudem Romanos 4:5: Dios declara justo al impío en respuesta a su fe.", "fuentes": ["grudem#761", "grudem#762", "ryrie#131"]},
+        {"texto": "Gloria. El ensayo de The Gospel Coalition explica que el término hebreo principal es kabod, de una raíz que significa «peso», y que Collins lo llama un término técnico para la presencia manifiesta de Dios. Del griego doxa dice que en el griego secular era opinión, reputación o fama, y que la Septuaginta lo transformó: doxa tradujo kabod y tomó su significado, la manifestación de la persona, la presencia y las obras de Dios. Con ese fondo, MacArthur nota que en Juan 12:41 Isaías «vio su gloria», la de Jesús, de modo que Juan lo identifica con el Señor de Isaías 6:1-3.", "fuentes": ["web_tgc_gloria_de_dios#2", "macarthur_ts#270"]}
+      ]
+    },
+    {
+      "titulo": "Hebreos 10:5 y Hechos 15:17: dos citas con la Septuaginta al lado",
+      "parrafos": [
+        {"texto": "Kistemaker observa que Hebreos cita el Antiguo Testamento en la traducción griega, que difiere a veces del hebreo. Un ejemplo es el Salmo 40:6, que en nuestra Biblia dice «has abierto mis oídos» y que Hebreos 10:5 presenta como «me preparaste cuerpo». Su explicación más probable: el escritor no sabía hebreo y escribía a lectores que usaban esa misma traducción. Para Kistemaker las dos lecturas significan lo mismo, abrir los oídos o preparar un cuerpo para oír y obedecer la voluntad de Dios; y el centro de la cita es que Cristo habla en primera persona («he venido para hacer tu voluntad»).", "fuentes": ["hebreos_comentario_al__kistemaker#10", "hebreos_comentario_al__kistemaker#251", "hebreos_comentario_al__kistemaker#252"]},
+        {"texto": "MacArthur agrega una razón pastoral: si el autor probaba su punto con escritos cristianos, sus lectores judíos podían rechazarlos; apelando a las Escrituras que ellos ya aceptaban, su argumento se volvía poderoso e irresistible.", "fuentes": ["hebreos_comentario_macarthur__macarthur#44"]},
+        {"texto": "En el concilio de Jerusalén, Jacobo cita Amós 9:11-12 para mostrar que los profetas ya anunciaban que Dios tomaría de los gentiles un pueblo para su nombre (Hechos 15:13-18). MacArthur advierte que la cita difiere del texto masorético; algunos supusieron que venía de la Septuaginta, pero tampoco coincide exactamente con ella. Para él, Jacobo da el sentido del pasaje tal como Dios quería que se entendiera. Compará Amós 9:12 con Hechos 15:17 en tu Biblia: vas a notar que no dicen lo mismo palabra por palabra.", "fuentes": ["hechos_comentario__archivo#224", "biblia"]}
+      ]
+    },
+    {
+      "titulo": "Límites y cautelas",
+      "parrafos": [
+        {"texto": "La Septuaginta no es una segunda Biblia inspirada. Kistemaker lo dice sin rodeos: lo inspirado fue el texto hebreo, no su traducción. MacArthur coincide en que no hay evidencia bíblica ni histórica de que Dios haya inspirado milagrosamente ninguna traducción, y en que las versiones antiguas ayudan a confirmar la mejor lectura cuando hay dudas sobre el original.", "fuentes": ["hebreos_comentario_al__kistemaker#10", "macarthur_ts#169"]},
+        {"texto": "Tampoco es una obra pareja. DeRouchie, en la Coalición por el Evangelio, la describe como una colección de traducciones: algunos libros se tradujeron con habilidad y precisión, otros, como Job, muy libremente; y muy pocos académicos la consideran superior al texto masorético. Además, hoy incluye los llamados deuterocanónicos en la tradición católica y apócrifos en la protestante; el canon se estudia en otros días.", "fuentes": ["web_cpe_critica_textual_at#3", "web_cpe_septuaginta#1"]},
+        {"texto": "Una tercera cautela es sobre las palabras. BibleProject dice que rastrear una palabra griega hasta la Septuaginta puede revelar conexiones que el autor quiso hacer, pero recuerda que la mayoría de las palabras tienen un abanico de significados y que el contexto dice cuál está activo. El puente ayuda a leer, no reemplaza el pasaje; y «Señor» no siempre es el nombre de Dios.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#5", "web_bibleproject_arte_palabras_biblicas#6"]}
+      ]
+    }
+  ],
+  "citas": [
+    {"texto": "La palabra kyrios se usa 6.814 veces para traducir el nombre del Señor en el griego del Antiguo Testamento.", "autor": "Wayne Grudem", "obra": "Teología sistemática", "fuentes": ["grudem#571"]},
+    {"texto": "El texto hebreo del Antiguo Testamento, no su traducción, había sido inspirado por Dios.", "autor": "Simon J. Kistemaker", "obra": "Hebreos (Comentario al Nuevo Testamento)", "fuentes": ["hebreos_comentario_al__kistemaker#10"]}
+  ],
+  "palabras": [
+    {"original": "κύριος", "translit": "kýrios", "idioma": "griego", "ref": "Fil 2:11", "significado": "Señor. Cortesía o «amo» en el uso corriente (Grudem); pero la Septuaginta lo usa 6.814 veces para traducir el nombre hebreo yhwh, y por eso, aplicado a Jesús, puede llevar el peso del nombre de Dios.", "fuentes": ["grudem#571"]},
+    {"original": "Χριστός", "translit": "Christós", "idioma": "griego", "ref": "Lc 2:11", "significado": "Ungido. Es la versión griega del hebreo mashíaj (Mesías), según Lacueva y Sproul.", "fuentes": ["lacueva#299", "sproul_ts#147"]},
+    {"original": "ἐκκλησία", "translit": "ekklesía", "idioma": "griego", "ref": "Hch 7:38", "significado": "Asamblea. En la Septuaginta traduce con más frecuencia el hebreo qahal, la congregación del pueblo de Dios (Grudem).", "fuentes": ["grudem#900"]},
+    {"original": "δικαιόω", "translit": "dikaióo", "idioma": "griego", "ref": "Ro 4:5", "significado": "Justificar, declarar justo. En la Septuaginta traduce el hebreo tsadak; en contextos judiciales se opone a condenar (Grudem y Ryrie).", "fuentes": ["grudem#762", "ryrie#131"]},
+    {"original": "δόξα", "translit": "dóxa", "idioma": "griego", "ref": "Jn 12:41", "significado": "Gloria. Según el ensayo de The Gospel Coalition, la Septuaginta la usó para traducir el hebreo kabod y le dio su sentido: la manifestación de la persona, la presencia y las obras de Dios.", "fuentes": ["web_tgc_gloria_de_dios#2"]}
+  ],
+  "cristo": [
+    {"texto": "El Señor del nombre de Dios. Lo que el Nuevo Testamento hace explícito: Filipenses 2:9-11 aplica a Jesús un texto de Isaías sobre YHVH, Romanos 10:13 aplica a Jesús la invocación del nombre de Jehová de Joel 2:32 y Hebreos 1:10-12 aplica a Cristo el Salmo 102, que habla del Señor creador. La Septuaginta aporta contexto de vocabulario: ayuda a ver por qué «Señor» sonaba así a un lector griego.", "refs": ["Fil 2:9-11", "Ro 10:13", "He 1:10-12"], "fuentes": ["web_cpe_5_implicaciones_senor#2", "macarthur_ts#270", "grudem#572"]},
+    {"texto": "El Hijo que dice «aquí estoy». En Hebreos 10:5-10 el escritor pone el Salmo 40 en boca de Cristo. Según Kistemaker, ahí Cristo habla de su obra de redención, y el salmista da testimonio de que la Escritura anunciaba su venida en forma humana. Es una aplicación que hace la propia carta.", "refs": ["He 10:5-10", "Sal 40:6-8"], "fuentes": ["hebreos_comentario_al__kistemaker#252"]},
+    {"texto": "Lo que es patrón y no afirmación explícita. El vínculo entre el tabernáculo y el «habitó entre nosotros» de Juan 1:14 es una lectura de BibleProject sobre el vocabulario; Juan no lo declara, así que se ofrece como conexión para meditar y no como doctrina cerrada.", "refs": ["Jn 1:14", "Éx 25:8-9"], "fuentes": ["web_bibleproject_arte_palabras_biblicas#6"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Cuánto del Nuevo Testamento cita la Septuaginta?",
+      "posturas": [
+        {"postura": "Los escritores del Nuevo Testamento que citaron el Antiguo en el siglo I usaron la Septuaginta; el Nuevo Testamento no la nombra, pero sus citas le pertenecen.", "quien": "López Noj (Coalición por el Evangelio)", "fuentes": ["web_cpe_septuaginta#1", "web_cpe_septuaginta#2"]},
+        {"postura": "La mayoría de las citas del Antiguo Testamento en el Nuevo vienen de la Septuaginta.", "quien": "Ensayo de The Gospel Coalition sobre traducciones", "fuentes": ["web_tgc_biblia_traduccion#4"]},
+        {"postura": "Hebreos toma sus citas de la Septuaginta, y Pablo, en lo que sabemos suyo, cita del hebreo; en la Teología sistemática dice que la Septuaginta «puede incluso» ser citada a veces por autores del Nuevo Testamento, y en Hechos 15 la cita de Amós no coincide exactamente con ella.", "quien": "MacArthur", "fuentes": ["hebreos_comentario_macarthur__macarthur#44", "macarthur_ts#169", "hechos_comentario__archivo#224"]},
+        {"postura": "El escritor de Hebreos usó exclusivamente la Septuaginta al citar el Antiguo Testamento; para él y sus lectores era la Escritura.", "quien": "Kistemaker", "fuentes": ["hebreos_comentario_al__kistemaker#251"]}
+      ],
+      "nota": "Las fuentes de hoy no dan un conteo de citas: la diferencia está en cuán general es el uso."
+    },
+    {
+      "tema": "¿Qué aporta la Septuaginta a la palabra «iglesia»?",
+      "posturas": [
+        {"postura": "El uso de ekklesia en la Septuaginta para las asambleas del pueblo de Dios debe tenerse en cuenta para entender la palabra en el Nuevo Testamento: la iglesia continúa el patrón de esas asambleas.", "quien": "Grudem", "fuentes": ["grudem#900"]},
+        {"postura": "El uso de la Septuaginta no refleja el significado distintivo de «iglesia» en el Nuevo Testamento, sino un término común para «asamblea». Es la objeción que Grudem le atribuye y responde.", "quien": "Chafer (según Grudem)", "fuentes": ["grudem#900"]},
+        {"postura": "En el Nuevo Testamento la palabra conserva su sentido básico de asamblea y no adquiere un significado teológico basado en la etimología «llamados fuera»; sería, más bien, «llamados juntos».", "quien": "Ryrie", "fuentes": ["ryrie#174"]}
+      ],
+      "nota": "Cada autor responde una parte distinta: Grudem y Chafer, si el uso en la Septuaginta define el sentido; Ryrie, qué significa la palabra en sí. La relación entre Israel e iglesia se retoma en los días dedicados a la iglesia."
+    },
+    {
+      "tema": "¿Cuál es el «nombre que es sobre todo nombre» de Filipenses 2:9?",
+      "posturas": [
+        {"postura": "No es «Jesús», nombre común y forma de Josué («Jehová salva»); es «Señor», otro nombre dado en la exaltación, en el cual toda rodilla se doblará.", "quien": "MacArthur", "fuentes": ["filipenses_comentario_macarthur__archivo#82"]},
+        {"postura": "Es el nombre Jesús, «Jehová salva», que Cristo recibió al encarnarse y mantendrá por la eternidad; en la exaltación exhibe además el título de «Señor Jesucristo».", "quien": "Carballosa", "fuentes": ["filipenses_un_comentario__carballosa#69", "filipenses_un_comentario__carballosa#70"]},
+        {"postura": "No precisa cuál es el nombre, pero lo vincula con Isaías 45:23, que se refiere a YHVH, y concluye que «Señor» tiene aquí connotaciones de Deidad.", "quien": "Vidal (Coalición por el Evangelio)", "fuentes": ["web_cpe_5_implicaciones_senor#2"]}
+      ],
+      "nota": "Las tres lecturas afirman la exaltación y el señorío de Jesús; difieren en cómo identifican el «nombre»."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Isaías 45:23", "nota": "El texto que Pablo toma en Filipenses 2:10-11 para Jesús y en Romanos 14:11 para hablar de confesar «a Dios», según MacArthur.", "fuentes": ["filipenses_comentario_macarthur__archivo#83"]},
+    {"ref": "Joel 2:32", "nota": "Hechos 2:21 y Romanos 10:13 lo citan: invocar el nombre del Señor es creer y confesar que Jesús es el Señor.", "fuentes": ["macarthur_ts#270"]},
+    {"ref": "Salmo 110:1", "nota": "Jesús lo usa ante los fariseos (Mateo 22:44) para identificarse con el «Señor» del Antiguo Testamento, según Grudem.", "fuentes": ["grudem#572"]},
+    {"ref": "1 Corintios 12:3", "nota": "Nadie puede decir «Jesús es el Señor» sino por el Espíritu Santo; Sproul recoge dos maneras de leerlo junto a Mateo 7:21-23.", "fuentes": ["sproul_ts#150"]}
+  ],
+  "para_vivir": [
+    {"texto": "Cuando leas SEÑOR en mayúsculas en tu Biblia, acordate de que traduce el nombre Yavé; cuando leas «Señor» en minúsculas, de que traduce Adonai (Sproul). Ese detalle ya te cuenta algo del texto.", "fuentes": ["sproul_ts#150"]},
+    {"texto": "Leé el Antiguo Testamento para entender los títulos de Jesús: Sproul sostiene que la importancia real del título «Señor» está en lo que traduce del Antiguo Testamento.", "fuentes": ["sproul_ts#150"]},
+    {"texto": "Tomá en serio lo que implica confesar a Jesús como Señor: Sproul dice que entendemos que Cristo nos compró por la expiación y que le pertenecemos. Y recordá la cadena de Romanos 10:13-17 que resume Grudem: invocar, creer, oír, predicar.", "fuentes": ["sproul_ts#149", "grudem#121", "grudem#122"]}
+  ],
+  "para_reflexionar": [
+    "¿Qué cambia en cómo leés «Jesús es el Señor» (Filipenses 2:11) cuando sabés que en griego «Señor» era también la palabra que reemplazaba el nombre de Dios?",
+    "Sproul recuerda que los primeros cristianos se negaban a decir «César es señor». ¿Qué cosas hoy te piden, sin palabras, un lugar que solo le corresponde a Jesús?",
+    "Kistemaker y MacArthur dicen que ninguna traducción es inspirada como el original, y aun así el Nuevo Testamento cita una. ¿Qué te enseña eso sobre cómo usar tu Biblia en castellano?"
+  ],
+  "para_orar": "Señor Jesús, hoy descubrí que cuando te llamo Señor uso la palabra que tu Palabra reserva para el nombre de Dios. Perdoná las veces que lo digo con los labios y no con la vida. Enseñame a invocarte, a confiar en vos y a vivir de modo que el Padre sea honrado. Gracias porque tu Palabra llegó a nosotros en muchas lenguas. Amén.",
+  "profundizar": [
+    {"titulo": "¿Desde cuándo se llamó «Señor» a Jesús en sentido fuerte?", "texto": "Vidal dice que hoy se acepta que el título kyrios aplicado a Jesús es anterior a Pablo, y que la discusión se centra en dónde surgió. Recuerda que Bousset lo ubicó en el ámbito helenístico de Antioquía, y que Bultmann lo ubicó en Israel pero sostuvo que originalmente solo se refería a Dios; ambas posturas son inaceptables, dice, para la mayoría de los especialistas actuales. Es la voz de Vidal sobre un debate de especialistas, no un resultado cerrado.", "fuentes": ["web_cpe_5_implicaciones_senor#1"]}
+  ]
+}

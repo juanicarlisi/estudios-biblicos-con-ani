@@ -1,0 +1,127 @@
+{
+  "dia": 9,
+  "titulo": "El canon del Nuevo Testamento: cómo fue reconocido",
+  "bajada": "¿Quién decidió que fueran veintisiete los libros del Nuevo Testamento? Un recorrido por la Biblia misma, por los criterios de los primeros cristianos y por la historia de los libros discutidos.",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "2 Pedro 3:14-18; 1 Timoteo 5:17-18", "porque": "Dos textos muy tempranos en los que un apóstol llama «Escritura» a escritos del Nuevo Testamento: es el punto de partida de todo el día."},
+  "versiculos": [
+    {"ref": "2 Pedro 3:16", "porque": "Pedro coloca las cartas de Pablo junto a «las otras Escrituras»."},
+    {"ref": "1 Timoteo 5:18", "porque": "Pablo llama Escritura a una frase que está en Deuteronomio y a otra que aparece en Lucas."}
+  ],
+  "entrada": {
+    "texto": "Cuando abrís el Nuevo Testamento, ya está ahí, ordenado: veintisiete libros, de Mateo a Apocalipsis. Pero ¿quién decidió que fueran esos y no otros? Circula mucho la idea de que un concilio tardío, con intereses políticos, eligió algunos libros y descartó el resto. Las fuentes de hoy cuentan otra historia: la de libros leídos, copiados y reconocidos por las iglesias durante generaciones, hasta que las listas escritas pusieron en papel lo que ya se vivía.",
+    "fuentes": ["web_cpe_canon_nt#1", "ryrie#47"]
+  },
+  "apartados": [
+    {
+      "titulo": "¿Lo inventó un concilio?",
+      "parrafos": [
+        {"texto": "El artículo de la Coalición por el Evangelio recoge la objeción: se ha puesto de moda decir que obras como el Evangelio de Tomás eran populares y que en el siglo IV una autoridad eclesiástica y política las excluyó injustamente. Su respuesta es que no fue así. Las iglesias locales fueron leyendo distintos textos, y algunos fueron reconocidos como divinos: se los citaba como sagrados, se los usaba en el culto, se los copiaba y difundía. El Evangelio de Tomás, por ejemplo, no figura en ninguna colección de manuscritos del Nuevo Testamento ni en las listas tempranas, y varios líderes lo condenaron antes del cuarto siglo, cuando aún no había autoridad central que excluyera documentos por decreto.", "fuentes": ["web_cpe_canon_nt#1"]},
+        {"texto": "Ryrie parte de un principio que ordena el tema: los libros eran canónicos cuando se escribieron, porque Dios los inspiró; las personas y los concilios solo reconocieron lo que ya era verdadero, y ningún libro fue hecho canónico por un concilio. Eso no quita que hicieran falta decisiones, porque había candidatos no inspirados; según Ryrie, Dios guió a esos grupos a decidir bien.", "fuentes": ["ryrie#47"]},
+        {"texto": "Geisler y Turek lo dicen así: los padres no determinaron qué habría en el Nuevo Testamento, sino que descubrieron lo que Dios quiso que hubiera. Citan a Bruce Metzger, para quien cada libro tenía autoridad antes de que alguien los reuniera.", "fuentes": ["no_tengo_suficiente__geisler#351"]}
+      ],
+      "destacado": {"texto": "La iglesia no le dio autoridad a los libros del Nuevo Testamento: los recibió y dio testimonio de ellos.", "fuentes": ["web_cpe_canon_nt#3", "ryrie#47"]}
+    },
+    {
+      "titulo": "El propio Nuevo Testamento ya habla de sí mismo",
+      "parrafos": [
+        {"texto": "Primero, Jesús. Según Geisler y Turek, si el Mesías traía una revelación nueva, alguien tenía que ponerla por escrito: por eso prometió a sus apóstoles que el Espíritu les recordaría todas sus palabras y los guiaría a toda verdad (Juan 14:26; 16:13). El artículo de la Coalición agrega que la comunidad primitiva esperaba más Escritura, porque cada vez que Dios obró para salvar a su pueblo dejó textos inspirados que registraban esa obra.", "fuentes": ["no_tengo_suficiente__geisler#350", "web_cpe_canon_nt#1"]},
+        {"texto": "Después, dos pasajes en que un autor del Nuevo Testamento da a otro escrito nuevo el nombre de Escritura. Pedro habla de las cartas de Pablo y de quienes las tuercen como hacen con «las otras Escrituras» (2 Pedro 3:15-16). Grudem explica que «Escrituras» era un término técnico, aplicado solo a lo que se consideraba palabra de Dios; al decir «las otras», Pedro mete los escritos de Pablo en esa categoría. Ryrie destaca lo poco que había pasado entre la redacción de algunas cartas y ese reconocimiento.", "fuentes": ["grudem#64", "ryrie#48"]},
+        {"texto": "El segundo es 1 Timoteo 5:17-18. Pablo dice «la Escritura dice» y junta una frase de Deuteronomio 25:4 con otra que no está en el Antiguo Testamento pero sí en Lucas 10:7, con las mismas palabras griegas. Grudem concluye que Pablo cita el Evangelio de Lucas y lo llama Escritura; la objeción de que sería una tradición oral le parece dudosa, porque el término griego traducido «Escritura» siempre se aplica a textos escritos.", "fuentes": ["grudem#64"]},
+        {"texto": "Hay más indicios. Pablo identificó escritos suyos con la Palabra de Dios (1 Corintios 14:37-38; 2 Tesalonicenses 3:14-15), y las iglesias empezaron a leer estos textos junto al Antiguo Testamento en sus reuniones y a compartirlos con otras comunidades (Colosenses 4:16), según MacArthur.", "fuentes": ["web_cpe_canon_nt#1", "macarthur_ts#159"]}
+      ],
+      "destacado": {"texto": "Mucho antes de cualquier lista, el Nuevo Testamento ya trataba a algunos de sus libros como Escritura.", "fuentes": ["grudem#64", "macarthur_ts#159"]}
+    },
+    {
+      "titulo": "Cómo se reconocía un libro inspirado",
+      "parrafos": [
+        {"texto": "Las fuentes no coinciden palabra por palabra, pero sus criterios se ordenan en cuatro preguntas. La primera es el origen apostólico. El artículo de la Coalición recuerda que los apóstoles eran los encargados por Cristo de transmitir el evangelio y que conviene apoyarse en documentos de cuando vivían testigos oculares. Ryrie aclara que bastaba que un apóstol hubiera escrito el libro o lo respaldara: Pedro respaldó a Marcos y Pablo a Lucas.", "fuentes": ["web_cpe_canon_nt#2", "ryrie#48"]},
+        {"texto": "La segunda es la coherencia con lo ya revelado. MacArthur la formula como acuerdo doctrinal con las Escrituras existentes (Hechos 17:11); Geisler y Brooks, como la pregunta de si el escrito dice la verdad acerca de Dios (Gálatas 1:8). Grudem nota que incluso escritos que algunos quisieron incluir, como El Pastor de Hermas, contienen enseñanza contraria al resto de la Biblia.", "fuentes": ["macarthur_ts#162", "apologetica_herramientas_valiosas__geisler#184", "grudem#69"]},
+        {"texto": "La tercera es la aceptación universal. Ryrie observa que ningún libro cuestionado por muchas iglesias llegó a entrar en el canon; Geisler y Brooks precisan que debe ser la inmensa mayoría del pueblo de Dios, y no solo una facción, la que reciba el escrito como Palabra de Dios, como Pablo agradeció a los tesalonicenses (1 Tesalonicenses 2:13).", "fuentes": ["ryrie#48", "apologetica_herramientas_valiosas__geisler#185", "apologetica_herramientas_valiosas__geisler#186"]},
+        {"texto": "La cuarta es el testimonio interno. Según el artículo de la Coalición, los primeros cristianos hablaban de la belleza, la majestad y la coherencia de los textos, y creían que el Espíritu los capacitaba para reconocer lo divino (Juan 14:26). Eran las ovejas que oyen la voz de su Señor (Juan 10:27). MacArthur añade que el Espíritu que inspiró al autor da testimonio de esa inspiración en el corazón del pueblo de Dios.", "fuentes": ["web_cpe_canon_nt#2", "macarthur_ts#163"]},
+        {"texto": "Un matiz de Geisler y Brooks: descartan como medidas la antigüedad, el valor religioso o el uso cristiano, porque confunden lo que Dios determinó que era Escritura con el reconocimiento humano. Los criterios no hacen inspirado a ningún libro; ayudan a reconocer los que Dios ya inspiró.", "fuentes": ["apologetica_herramientas_valiosas__geisler#184"]}
+      ],
+      "destacado": {"texto": "Apostolicidad, coherencia, uso en las iglesias y voz de Dios en el texto: cuatro maneras de reconocer lo que Dios ya había dado.", "fuentes": ["macarthur_ts#162", "web_cpe_canon_nt#2"]}
+    },
+    {
+      "titulo": "De mano en mano hasta el Fragmento Muratori",
+      "parrafos": [
+        {"texto": "MacArthur distingue tres etapas: circulación, recopilación y reconocimiento. Con la circulación y la recopilación, a comienzos del siglo II la mayor parte de la iglesia conocía la mayoría de los veintisiete libros, y se los reunía cada vez más en colecciones para el culto. A mediados de ese siglo llegó la primera gran controversia: Marción, un hereje, publicó su lista, con una forma abreviada de Lucas y diez cartas de Pablo. MacArthur piensa que ese gesto pudo obligar a la iglesia ortodoxa a responder formalmente qué libros pertenecen al canon.", "fuentes": ["macarthur_ts#159", "macarthur_ts#160"]},
+        {"texto": "Una primera respuesta es el Fragmento Muratori, de alrededor del año 170, que enumera libros que deben aceptarse y otros que hay que excluir. Está incompleto: identifica veintiuno o veintidós de los veintisiete; faltan Hebreos, Santiago y 1 y 2 Pedro. Ryrie pone una cautela: como el manuscrito está roto, no podemos saber si esos libros no estaban. Y sí rechaza obras como El Pastor de Hermas.", "fuentes": ["macarthur_ts#160", "ryrie#49"]},
+        {"texto": "Ryrie suma dos testigos antiguos: la versión siriaca, a la que le faltaban 2 Pedro, 2 y 3 Juan, Judas y Apocalipsis, y la latina, a la que le faltaban 2 Pedro, Santiago y Hebreos. Lo decisivo, dice, es que no se agregó ningún libro de afuera: los candidatos no aptos fueron rechazados y solo unos pocos libros seguían en debate. Geisler y Brooks lo resumen: no hubo libros aceptados primero y echados después.", "fuentes": ["ryrie#49", "apologetica_herramientas_valiosas__geisler#186"]}
+      ],
+      "destacado": {"texto": "Los libros que algunas iglesias dudaron estaban dentro de la colección; los que quedaron afuera nunca habían estado adentro.", "fuentes": ["apologetica_herramientas_valiosas__geisler#186", "ryrie#49"]}
+    },
+    {
+      "titulo": "Eusebio, Atanasio y los concilios",
+      "parrafos": [
+        {"texto": "Con el fin de la persecución empieza, según MacArthur, la etapa del reconocimiento. Eusebio ordenó los escritos en libros reconocidos, cuestionados y heréticos: entre los reconocidos puso todo lo del Nuevo Testamento salvo Santiago, 2 Pedro, 2 y 3 Juan y Judas, y dejó en duda el Apocalipsis por su poca circulación entre las iglesias orientales. Geisler y Turek recuerdan que el cristianismo fue ilegal hasta 313 y que los padres a menudo temían por su vida: eso explica en parte la demora.", "fuentes": ["macarthur_ts#161", "no_tengo_suficiente__geisler#352"]},
+        {"texto": "Sobre Atanasio las fuentes coinciden en lo esencial y difieren en la fecha. Grudem dice que su carta pascual de 367 contenía la lista exacta de los veintisiete libros, aceptada por las iglesias orientales; MacArthur habla de cartas festivas de 365 y de que prohibió usar como canónicos la Didajé y El Pastor de Hermas.", "fuentes": ["grudem#66", "macarthur_ts#161"]},
+        {"texto": "La carta misma, en la traducción inglesa de la Christian Classics Ethereal Library, muestra cómo pensaban. Atanasio escribe por miedo a que los sencillos se confundan con libros apócrifos de nombre parecido a los verdaderos. Enumera los cuatro Evangelios, los Hechos, siete cartas católicas, catorce de Pablo (entre ellas Hebreos) y el Apocalipsis, y dice que nadie debe añadir ni quitar nada. Aparte, nombra libros no canónicos que se leen para instruir a los recién llegados, como la Didajé y El Pastor, y califica los apócrifos de invento de herejes.", "fuentes": ["web_athanasius_carta39#2", "web_athanasius_carta39#3"]},
+        {"texto": "Los concilios vienen después. MacArthur dice que Hipona ratificó lo de Atanasio en 393; Grudem, que Cartago, en 397, representando a las iglesias occidentales, concordó con la lista oriental; Ryrie, que generalmente se acepta que Cartago fijó el canon. El artículo de la Coalición recuerda que los veintisiete libros fueron aceptados sin decisión eclesiástica centralizada y que todas las grandes tradiciones cristianas los aceptan hoy.", "fuentes": ["macarthur_ts#161", "grudem#66", "ryrie#49", "web_cpe_canon_nt#3"]}
+      ],
+      "destacado": {"texto": "Los concilios del siglo IV confirmaron por escrito lo que las iglesias ya recibían; no inauguraron el canon.", "fuentes": ["ryrie#47", "web_cpe_canon_nt#3"]}
+    },
+    {
+      "titulo": "Los libros discutidos y cómo se resolvió cada duda",
+      "parrafos": [
+        {"texto": "Geisler y Turek sostienen que los padres reconocieron enseguida la inspiración de los Evangelios y las cartas principales; la discusión inicial fue sobre libros menores. Geisler y Brooks enumeran cada duda y su respuesta.", "fuentes": ["no_tengo_suficiente__geisler#351", "apologetica_herramientas_valiosas__geisler#185"]},
+        {"texto": "Hebreos: se desconoce el autor. Grudem cuenta que muchos lo aceptaron suponiendo autoría de Pablo, pero otros la rechazaron desde temprano; Orígenes concluyó que solo Dios sabe quién la escribió. Para Grudem, las cualidades del libro mismo convencieron a los lectores. Geisler y Brooks dicen que se aceptó por su autoridad apostólica, y el artículo de la Coalición recuerda que Jerónimo valoraba su uso extenso como Escritura.", "fuentes": ["grudem#65", "apologetica_herramientas_valiosas__geisler#185", "web_cpe_canon_nt#2"]},
+        {"texto": "Santiago: su aparente choque con Pablo sobre la fe sola se resolvió viendo las obras como resultado de una fe real, según Geisler y Brooks. Ryrie aclara que Lutero no rechazó su canonicidad: comparó su valor doctrinal con el de otros libros, que es otra cosa.", "fuentes": ["apologetica_herramientas_valiosas__geisler#185", "ryrie#49"]},
+        {"texto": "2 Pedro difiere en estilo de 1 Pedro, pero Pedro usó un escriba en la primera (1 Pedro 5:12). En 2 y 3 Juan el autor se llama anciano, como Pedro (1 Pedro 5:1), y ambas cartas figuran en las listas más antiguas. Judas cita el Libro de Enoc sin llamarlo Escritura, como Pablo cita poetas paganos (Hechos 17:28; Tito 1:12); Geisler y Brooks dicen que tuvo amplia aceptación temprana, mientras que Grudem anota que fue lenta, por esa cita. Al Apocalipsis se lo dudó por enseñar un reino de mil años que cierta secta también sostenía, pero fue aceptado por los primeros padres.", "fuentes": ["apologetica_herramientas_valiosas__geisler#185", "grudem#65"]}
+      ],
+      "destacado": {"texto": "Las dudas giraron en torno a quién escribió cada libro y a cuánto circulaba; ninguna puso en cuestión el mensaje de Cristo.", "fuentes": ["apologetica_herramientas_valiosas__geisler#185", "macarthur_ts#161"]}
+    }
+  ],
+  "citas": [
+    {"texto": "Fueron canónicos desde el momento en que se escribieron, no cuando la iglesia los aceptó como tales.", "autor": "John MacArthur", "obra": "Teología sistemática", "fuentes": ["macarthur_ts#159"]},
+    {"texto": "El canon es una lista de libros autorizados más que una lista autorizada de libros.", "autor": "Bruce Metzger, citado por Geisler y Turek", "obra": "No tengo suficiente fe para ser un ateo", "fuentes": ["no_tengo_suficiente__geisler#351"]}
+  ],
+  "palabras": [
+    {"original": "κανών", "translit": "kanon", "idioma": "griego", "ref": "Gá 6:16", "significado": "Vara o instrumento de medir; de ahí, regla de acción (Gá 6:16; Fil 3:16). Ryrie explica que aplicada a la Biblia es la lista de los libros que cumplieron las pruebas de autoridad y, por eso, la regla de nuestra vida.", "fuentes": ["ryrie#47"]},
+    {"original": "γραφή", "translit": "grafé", "idioma": "griego", "ref": "1 Ti 5:18", "significado": "Escritura, escrito. Grudem señala que en el Nuevo Testamento siempre se aplica a textos escritos y era un término técnico para lo que se consideraba palabra de Dios.", "fuentes": ["grudem#64"]}
+  ],
+  "cristo": [
+    {"texto": "La promesa del Señor. Jesús prometió a los apóstoles el Espíritu de verdad, que les recordaría lo que él había dicho. El Nuevo Testamento es el fruto escrito de esa promesa, y su centro es la persona y la obra de Cristo.", "refs": ["Jn 14:26", "Jn 16:13"], "fuentes": ["web_cpe_canon_nt#1", "no_tengo_suficiente__geisler#350"]},
+    {"texto": "La voz del Pastor. Lo explícito es la afirmación de Jesús de que sus ovejas oyen su voz; aplicarla a cómo los creyentes reconocieron los libros inspirados es una lectura del artículo de la Coalición y de Grudem, no algo que el pasaje diga por sí solo.", "refs": ["Jn 10:27"], "fuentes": ["web_cpe_canon_nt#2", "grudem#66"]},
+    {"texto": "El Hijo como palabra final. Grudem lee el contraste de Hebreos 1:1-2 entre el hablar de Dios por los profetas y por el Hijo como señal de que el Nuevo Testamento contiene la interpretación final de la obra de Cristo. El texto es explícito; la conclusión sobre el canon es de Grudem.", "refs": ["Heb 1:1-2"], "fuentes": ["grudem#66", "grudem#67"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué papel tuvieron Atanasio y los concilios en el canon del Nuevo Testamento?",
+      "posturas": [
+        {"postura": "El proceso formal de identificar el canon fue completado en gran medida por Atanasio y ratificado en Hipona. Aun así, los concilios, según Ryrie, solo reconocieron lo que ya era verdadero.", "quien": "MacArthur y Ryrie", "fuentes": ["macarthur_ts#161", "ryrie#47"]},
+        {"postura": "Los libros fueron aceptados sin ninguna decisión eclesiástica centralizada: los creyentes, sin autoridad externa, oyeron la voz de su Señor en los textos y la recibieron.", "quien": "Matthew Leighton, Coalición por el Evangelio", "fuentes": ["web_cpe_canon_nt#2", "web_cpe_canon_nt#3"]}
+      ],
+      "nota": "Las fuentes de hoy son evangélicas y coinciden en que ningún concilio dio autoridad a los libros; difieren en el peso formal que conceden a Atanasio y a los concilios. Cómo entiende la Iglesia católica la relación entre Escritura, tradición y canon se estudiará más adelante con sus propios documentos."
+    },
+    {
+      "tema": "Los libros que no escribió un apóstol: ¿por qué están en el canon?",
+      "posturas": [
+        {"postura": "Cada libro tenía que haber sido escrito o respaldado por un apóstol: Pedro respaldó a Marcos y Pablo a Lucas.", "quien": "Ryrie", "fuentes": ["ryrie#48"]},
+        {"postura": "Marcos, Lucas y Hechos se reconocieron por su relación con Pedro y Pablo; pero la existencia de libros sin autoría apostólica directa muestra que Dios dio también a otros la capacidad de escribir palabras suyas, y en Hebreos la iglesia decidió por el testimonio del propio texto.", "quien": "Grudem", "fuentes": ["grudem#64", "grudem#65", "grudem#66"]}
+      ],
+      "nota": "Es una diferencia de énfasis dentro de un mismo marco evangélico; no se zanja aquí."
+    }
+  ],
+  "conexiones": [
+    {"ref": "2 P 3:15-16", "nota": "Pedro pone las cartas de Pablo entre las Escrituras, sin ninguna lista oficial de por medio.", "fuentes": ["grudem#64"]},
+    {"ref": "1 Co 14:37-38", "nota": "Pablo identifica sus escritos con un mandamiento del Señor.", "fuentes": ["web_cpe_canon_nt#1"]},
+    {"ref": "Col 4:16", "nota": "Pablo pide que su carta se lea también en otra iglesia: ejemplo temprano de circulación.", "fuentes": ["macarthur_ts#159"]},
+    {"ref": "Gá 1:8", "nota": "Criterio de coherencia: nadie tiene autoridad si anuncia otro evangelio.", "fuentes": ["apologetica_herramientas_valiosas__geisler#184"]}
+  ],
+  "para_vivir": [
+    {"texto": "Cuando alguien te diga que un concilio inventó el Nuevo Testamento, volvé a los textos: ya en 2 Pedro 3:16 y 1 Timoteo 5:18 hay escritos nuevos llamados Escritura.", "fuentes": ["grudem#64", "web_cpe_canon_nt#1"]},
+    {"texto": "Leé también los libros que más se discutieron (Santiago, 2 y 3 Juan, Judas): su historia muestra que se los examinó con cuidado.", "fuentes": ["apologetica_herramientas_valiosas__geisler#185"]},
+    {"texto": "Leé el Nuevo Testamento como lo presentó Atanasio: como fuentes de salvación para el que tiene sed.", "fuentes": ["web_athanasius_carta39#2"]}
+  ],
+  "para_reflexionar": [
+    "Si los libros del Nuevo Testamento fueron reconocidos y no elegidos por votación, ¿qué cambia en la manera en que los recibís cada vez que los abrís?",
+    "De los cuatro criterios (origen apostólico, coherencia, uso en las iglesias, voz de Dios en el texto), ¿cuál usás más al evaluar una enseñanza nueva? ¿Cuál descuidás?",
+    "Atanasio escribió preocupado porque los sencillos podían ser engañados por libros de nombre parecido a los verdaderos. ¿Qué enseñanzas de hoy necesitás medir contra la Escritura?"
+  ],
+  "para_orar": "Padre, gracias porque nos hablaste por tu Hijo y cuidaste que esa palabra llegara hasta nosotros. Que yo reconozca la voz de Jesús en las Escrituras y no me deje llevar por otras voces. Enseñame a leer todo el Nuevo Testamento con hambre y con humildad. Amén.",
+  "profundizar": [
+    {"titulo": "¿Está cerrado el canon? Lo que ve Grudem en Hebreos 1:1-2", "texto": "Grudem observa que Hebreos contrasta el hablar de Dios por los profetas con su hablar en estos días finales por el Hijo, y lo lee como la revelación final de la historia de la redención: por eso no se debe esperar más Escritura. Ryrie llega a lo mismo desde la historia: desde 397 la iglesia considera completo el canon y, por lo tanto, cerrado. Grudem añade que Apocalipsis 22:18-19 se refiere en primer lugar al propio libro, pero cabe aplicarlo de manera secundaria a todo el canon.", "fuentes": ["grudem#66", "grudem#67", "grudem#68", "ryrie#47"]}
+  ]
+}

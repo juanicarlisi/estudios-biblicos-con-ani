@@ -1,0 +1,135 @@
+{
+  "dia": 15,
+  "titulo": "De las lenguas originales a la tuya: historia de las traducciones",
+  "bajada": "Leés la Biblia en español, una lengua que Moisés y Pablo nunca hablaron. ¿Cómo llegó hasta vos, qué costó y por qué se sigue traduciendo?",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Nehemías 8:1-8; Hechos 2:1-12", "porque": "Dos escenas en las que la Palabra de Dios llega al pueblo de un modo que pueda entenderse: explicada en Jerusalén y oída en la lengua de cada uno."},
+  "versiculos": [
+    {"ref": "Nehemías 8:8", "porque": "El pueblo no solo oyó la ley: se la explicó, para que entendiera lo que se leía."},
+    {"ref": "Hechos 2:11", "porque": "Dios hizo que las maravillas del evangelio se oyeran en las lenguas de quienes escuchaban."}
+  ],
+  "entrada": {
+    "texto": "Cada vez que abrís tu Biblia hay detrás siglos de trabajo, y en muchos casos de sangre. Sugel Michelén recuerda que hubo un tiempo en que tener una Biblia en castellano era un delito que podía pagarse con la muerte. Y la Coalición por el Evangelio resume la lección de la historia más antigua de traducción: la humanidad necesita la Palabra de Dios en su propio idioma. Hoy recorremos ese camino, desde Esdras hasta las versiones que tenés a mano.",
+    "fuentes": ["web_ligonier_historia_biblia_espanol#1", "web_cpe_septuaginta#2"]
+  },
+  "apartados": [
+    {
+      "titulo": "«De modo que entendiesen la lectura»: Nehemías 8",
+      "parrafos": [
+        {"texto": "Tras los setenta años de cautividad en Babilonia, el pueblo que volvió a la tierra se reunió y Esdras abrió el libro de la ley a la vista de todos. MacArthur, en su Teología sistemática, usa la escena como modelo de cómo honrar la Palabra: el pueblo estuvo atento, Esdras bendijo a Jehová y todos respondieron «Amén» alzando las manos y adorando (Nehemías 8:5-6). La Biblia de estudio MacArthur calcula que la lectura y la explicación llevaron desde el amanecer hasta el mediodía, al menos seis horas, y que la gente se mantuvo de pie por respeto, como si estuviera ante el mismo Dios (Nehemías 8:3-5).", "fuentes": ["macarthur_ts#179", "biblia_de_estudio__autor#919"]},
+        {"texto": "Lo que agrega Nehemías 8:8 es la preocupación por la comprensión: se leía el libro de la ley, «ponían el sentido» y el fin era que entendiesen la lectura. La misma Biblia de estudio anota que algunos levitas ayudaron a Esdras para que el pueblo comprendiera, leyendo y explicando, y ve ahí el reflejo de lo que Esdras mismo se había propuesto: estudiar la ley, practicarla y enseñarla (Esdras 7:10).", "fuentes": ["biblia_de_estudio__autor#919", "macarthur_ts#179"]},
+        {"texto": "Es la pregunta de fondo de todo este día. Tener el texto no basta: hace falta que se entienda. Por eso MacArthur afirma, al hablar de cómo elegir una versión, que Dios pretende que su pueblo entienda lo que el texto dice y lo que quiere decir, y por eso la Coalición por el Evangelio pide orar y aportar para que lleguen Biblias a pueblos que aún no tienen una en su lengua materna.", "fuentes": ["macarthur_ts#169", "web_cpe_septuaginta#2"]}
+      ],
+      "destacado": {"texto": "Nehemías 8:8 deja una pauta: leer no alcanza, el pueblo tiene que entender.", "fuentes": ["biblia_de_estudio__autor#919"]}
+    },
+    {
+      "titulo": "Pentecostés: cada uno la oye en su lengua",
+      "parrafos": [
+        {"texto": "MacArthur, en su comentario a Hechos, destaca que el nacimiento de la Iglesia no ocurrió en un rincón silencioso sino en el centro de Jerusalén, con los ciento veinte creyentes reunidos. Pentecostés, nombre que significa «quincuagésimo», era la fiesta celebrada cincuenta días después de la Pascua, y el Espíritu descendió ese día por la oportuna decisión soberana de Dios, no porque los creyentes cumplieran requisitos (Hechos 2:1-4).", "fuentes": ["hechos_comentario__archivo#31"]},
+        {"texto": "Jerusalén estaba llena de judíos piadosos «de todas las naciones bajo el cielo», porque la fiesta obligaba a peregrinar. Cuando se juntó la multitud, cada uno oía hablar en su propia lengua (Hechos 2:5-11). Para MacArthur el texto «no es ambiguo»: la palabra griega que se usa es glōssa, el contexto no permite otra lectura y la lista de pueblos (partos, medos, elamitas, egipcios, romanos, cretenses, árabes) muestra que eran idiomas humanos conocidos, no sonidos extáticos. Qué lugar tiene hoy el don de lenguas es otro debate, que se estudiará en su momento en los días sobre el Espíritu Santo; acá importa lo que Hechos 2 muestra de la comunicación del mensaje.", "fuentes": ["hechos_comentario__archivo#32", "hechos_comentario__archivo#33", "hechos_comentario__archivo#34"]},
+        {"texto": "El contenido de esas lenguas, según Lucas, eran «las maravillas de Dios», y esa alabanza preparó el camino a la proclamación del evangelio que haría Pedro desde el versículo 14. MacArthur nota además un detalle que conecta esta escena con la historia de las traducciones: entre los presentes había judíos de Egipto, y fue en Alejandría donde se hizo la Septuaginta, la traducción griega del Antiguo Testamento.", "fuentes": ["hechos_comentario__archivo#34"]}
+      ],
+      "destacado": {"texto": "En Hechos 2 cada uno oyó las maravillas de Dios en la lengua en la que había nacido (v. 8).", "fuentes": ["hechos_comentario__archivo#33", "hechos_comentario__archivo#34"]}
+    },
+    {
+      "titulo": "Las primeras traducciones: la Septuaginta y la Vulgata",
+      "parrafos": [
+        {"texto": "Con las conquistas de Alejandro Magno el griego se volvió la lengua común del Mediterráneo oriental, y los judíos de Egipto fueron perdiendo el hebreo. Según la Coalición por el Evangelio y The Gospel Coalition, la respuesta fue la Septuaginta (LXX): el Pentateuco se tradujo al griego en Alejandría en el siglo III a. C., con Ptolomeo II Filadelfo en el trono, y el resto de las Escrituras hebreas siguió después. Su nombre alude a la leyenda de la Carta de Aristeas, que habla de setenta o setenta y dos sabios; los detalles de esa leyenda, advierte The Gospel Coalition, están en duda.", "fuentes": ["web_cpe_septuaginta#1", "web_tgc_biblia_traduccion#4"]},
+        {"texto": "La Septuaginta fue la Biblia de los judíos de la diáspora y de los primeros cristianos, y The Gospel Coalition señala que la mayoría de las citas del Antiguo Testamento en el Nuevo vienen de ella. La Coalición por el Evangelio matiza que el Nuevo Testamento no la nombra de forma explícita, pero contiene citas que le pertenecen, y aclara que incluye también libros llamados deuterocanónicos o apócrifos, cuestión que corresponde al canon. Grudem añade que era la Biblia que los autores del Nuevo Testamento usaban más comúnmente, y Michelén concluye que si Jesús y los apóstoles usaron una traducción, Dios no se opone a traducir.", "fuentes": ["web_tgc_biblia_traduccion#4", "web_cpe_septuaginta#2", "grudem#900", "web_ligonier_historia_biblia_espanol#6"]},
+        {"texto": "La otra gran versión antigua es la Vulgata latina. Según The Gospel Coalition, en el año 382 el papa Dámaso encargó a Jerónimo reemplazar el latín antiguo de los Evangelios; Jerónimo fue más lejos, tradujo casi toda la Biblia y, mientras la mayoría de las versiones del Antiguo Testamento salía del griego, viajó a Palestina para aprender hebreo con rabinos. MacArthur coincide en que para la mayor parte del Antiguo Testamento se basó en textos hebreos, y por eso a veces sigue el original más de cerca que la Septuaginta. También destaca la Peshita siríaca. Las versiones antiguas sirven, dice, para confirmar lecturas, porque se tradujeron de textos más viejos que los que hoy conservamos.", "fuentes": ["web_tgc_biblia_traduccion#4", "macarthur_ts#169"]},
+        {"texto": "Geisler y MacKenzie añaden, desde su defensa del canon protestante, que Jerónimo separó los libros hebreos de los demás y sostuvo que lo no incluido allí debía ir entre los apócrifos. Es una sola voz sobre un tema discutido; la postura católica sobre esos libros se estudiará con sus propios documentos en los días sobre el canon.", "fuentes": ["catolicos_romanos_y__geisler#245"]}
+      ]
+    },
+    {
+      "titulo": "Del latín a la lengua del pueblo: Wycliffe, Tyndale y la King James",
+      "parrafos": [
+        {"texto": "En la Edad Media el latín era la lengua oficial de la Iglesia, y Ligonier recuerda que el Concilio de Toulouse prohibió en 1229 toda Escritura en «lengua vulgar». Aun así, según The Gospel Coalition, hacia 1382 el teólogo oxoniense John Wycliffe dirigió la primera Biblia completa en inglés, hecha en buena parte por sus colaboradores y desde la Vulgata, convencido de que la Biblia era la máxima autoridad y todos debían poder leerla. Fue revisada en 1388 por Purvey, y en 1408 un sínodo de Oxford prohibió las versiones en lengua del pueblo.", "fuentes": ["web_ligonier_biblia_ingles#1", "web_tgc_biblia_traduccion#4"]},
+        {"texto": "Michelén cuenta que la caída de Constantinopla en 1453 llevó a Occidente manuscritos griegos, que Gutenberg imprimió en 1455 y que Erasmo publicó el Nuevo Testamento griego en 1516; ese estudio del Nuevo Testamento en su lengua original produjo, dice, un despertar religioso del que surgió la Reforma. Ligonier suma que la imprenta, el texto griego y la Reforma prepararon el terreno para William Tyndale.", "fuentes": ["web_ligonier_historia_biblia_espanol#1", "web_ligonier_historia_biblia_espanol#2", "web_ligonier_biblia_ingles#2"]},
+        {"texto": "Tyndale hizo el primer Nuevo Testamento inglés impreso traducido directamente del griego, no de la Vulgata. The Gospel Coalition lo fecha en 1526, publicado en el continente y pasado de contrabando a Inglaterra; Ligonier habla de 1525. Fue perseguido, secuestrado en el exilio y ejecutado. MacArthur explica el motivo: tradujo la Biblia a un lenguaje que la gente podía leer, y sus enemigos temían que la Iglesia perdiera influencia si cualquiera podía leerla; los contemporáneos de Tomás Moro llegaron a matar a quienes leían su Nuevo Testamento. En 1530 el propio Tyndale denunciaba que se pretendía que nadie mirase las Escrituras hasta pasar años en enseñanza pagana.", "fuentes": ["web_tgc_biblia_traduccion#5", "web_ligonier_biblia_ingles#2", "dificil_de_creer__macarthur#45", "dificil_de_creer__macarthur#46", "la_verdad_permanece__macarthur#24"]},
+        {"texto": "Su obra pesó en la Biblia de Coverdale (1535), la de Mateo (1537) y la Gran Biblia (1539), y en la Biblia de Ginebra de 1560, que según Ligonier fue la primera con notas de estudio extensas. La King James se encargó en 1604 y se publicó en 1611; The Gospel Coalition habla de cuarenta y siete eruditos, Ligonier de unos cincuenta. Al principio tuvo recepción mixta, y los peregrinos prefirieron llevar la Biblia de Ginebra. Sus traductores dijeron que no buscaban una traducción nueva, sino mejorar una buena. Ligonier recoge, con cautela, que cerca del noventa por ciento sería de Tyndale.", "fuentes": ["web_tgc_biblia_traduccion#5", "web_ligonier_biblia_ingles#2", "web_ligonier_biblia_ingles#3"]}
+      ],
+      "destacado": {"texto": "Wycliffe tradujo de la Vulgata; Tyndale, directamente del griego, y pagó con su vida.", "fuentes": ["web_tgc_biblia_traduccion#5"]}
+    },
+    {
+      "titulo": "La Biblia en español: de Enzinas a Reina y Valera",
+      "parrafos": [
+        {"texto": "Según Michelén, los Reyes Católicos prohibieron traducir la Biblia al castellano y poseerla podía costar la vida. Aun así, en 1542 Francisco de Enzinas publicó su Nuevo Testamento, que fue recogido y prohibido por orden de Carlos V. En 1553 dos judíos publicaron el Antiguo Testamento conocido como Biblia de Ferrara, impreso en Italia y no en España, a causa de la Inquisición, y tres años después apareció en Venecia el Nuevo Testamento de Juan Pérez de Pineda. Julián Hernández, «Julianillo», lo introdujo en España en barriles de vino de doble fondo.", "fuentes": ["web_ligonier_historia_biblia_espanol#1", "web_cpe_historia_reina_valera#1"]},
+        {"texto": "Casiodoro de Reina vivía en el convento de San Isidoro, cerca de Sevilla, donde se leyeron esos libros; en 1557 doce monjes huyeron de la Inquisición. Reina empezó a traducir el Antiguo Testamento y vivió exiliado en Londres, Amberes, Francia y Fráncfort. Tras doce años terminó el Antiguo Testamento; como los ejemplares del Nuevo Testamento de Pérez se confiscaron, tradujo el suyo, y la obra se concluyó en agosto de 1569. Es la Biblia del Oso, cuyo grabado lleva el lema «La Palabra del Dios nuestro permanece para siempre». Michelén cuenta una tirada de 2.600 ejemplares, muchos quemados, entre ellos trescientos enviados a América y quemados en Santo Domingo.", "fuentes": ["web_cpe_historia_reina_valera#2", "web_cpe_historia_reina_valera#3", "web_cpe_historia_reina_valera#4", "web_ligonier_historia_biblia_espanol#4", "web_ligonier_historia_biblia_espanol#5"]},
+        {"texto": "Cipriano de Valera, que también salió de Sevilla en 1557 y estudió en Oxford y Cambridge, revisó la versión de Reina durante veinte años y la publicó en 1602. Según Michelén introdujo 458 cambios, y la obra se llama Biblia del cántaro. Valera también tradujo la Institución de Calvino. Sobre esa base vinieron revisiones: Michelén menciona las de 1865, 1909 y 1960, la de 1995 y la Reina Valera Actualizada de 2015, y dice que la de 1960 es probablemente la que usan hoy la mayoría de las iglesias.", "fuentes": ["web_cpe_historia_reina_valera#2", "web_cpe_historia_reina_valera#4", "web_ligonier_historia_biblia_espanol#5"]}
+      ]
+    },
+    {
+      "titulo": "Por qué se sigue traduciendo",
+      "parrafos": [
+        {"texto": "Michelén responde con un argumento sencillo: los idiomas vivos cambian. Si hoy leyéramos el Quijote tal como lo escribió Cervantes entenderíamos poco, y la Reina Valera original de 1569 es un español difícil de captar. Suma los manuscritos descubiertos desde el siglo XIX. Ligonier, sobre el inglés, agrega que avanzó el conocimiento de palabras y construcciones hebreas y griegas, y por eso las versiones se revisan.", "fuentes": ["web_ligonier_historia_biblia_espanol#5", "web_ligonier_biblia_ingles#3"]},
+        {"texto": "Hay además dos decisiones de fondo. Una es la filosofía de traducción: Michelén distingue la equivalencia formal, lo más literal posible, como la Reina Valera, la Biblia de las Américas de 1986 y su actualización de 2005, de la dinámica, que plasma la idea. La Coalición por el Evangelio ilustra la segunda con la NVI: en Efesios 2:3, donde la RV60 dice «hijos de ira», la NVI aclara «objeto de la ira de Dios». La otra es el texto griego de base: la RV60 sigue el textus receptus, mientras la NVI, la LBLA y la NTV consideran el texto crítico, y por eso Romanos 8:1 termina distinto en cada una.", "fuentes": ["web_ligonier_historia_biblia_espanol#6", "web_cpe_nvi_mitos#1", "web_cpe_nvi_mitos#2", "web_cpe_nvi_mitos#3"]}
+      ]
+    },
+    {
+      "titulo": "¿Es Palabra de Dios una traducción?",
+      "parrafos": [
+        {"texto": "Sproul, comentando la Declaración de Chicago, enseña que las copias y traducciones son Palabra de Dios en la medida en que representen fielmente el original: no hay traducción perfecta, pero ninguna traducción seria destruye el significado hasta impedir que el lector reciba «la sabiduría necesaria para la salvación» (2 Timoteo 3:15). Añade que el texto original puede reconstruirse con certeza práctica en más del noventa y nueve por ciento de los casos. MacArthur dice lo mismo con otras palabras: una buena traducción es la Palabra de Dios porque refleja fielmente el original, aunque nada indica que Dios haya inspirado milagrosamente alguna.", "fuentes": ["puedo_confiar_en__sproul#21", "puedo_confiar_en__sproul#42", "macarthur_ts#169"]},
+        {"texto": "De ahí un llamado a la humildad. Para la Coalición por el Evangelio, Dios no nos dio una traducción oficial, es válido tener una versión favorita y conviene evitar ataques sin fundamento contra otras versiones. Michelén, por su parte, cierra con 1 Pedro 2:2: sean cuales sean las versiones que tengamos, la Palabra sigue siendo la leche espiritual que alimenta la vida nueva.", "fuentes": ["web_cpe_nvi_mitos#5", "web_ligonier_historia_biblia_espanol#6"]}
+      ],
+      "destacado": {"texto": "Una traducción fiel es Palabra de Dios en la medida en que representa el original; ninguna es perfecta, pero ninguna traducción seria impide recibir la sabiduría para la salvación.", "fuentes": ["puedo_confiar_en__sproul#21", "puedo_confiar_en__sproul#43"]}
+    }
+  ],
+  "citas": [
+    {"texto": "Las traducciones son testimonios derivados de la Palabra de Dios, no correcciones o versiones actualizadas del original.", "autor": "John MacArthur", "obra": "Teología sistemática", "fuentes": ["macarthur_ts#169"]},
+    {"texto": "Los idiomas vivos son dinámicos, van cambiando con el tiempo.", "autor": "Sugel Michelén", "obra": "La historia de la Biblia en español (Ligonier)", "fuentes": ["web_ligonier_historia_biblia_espanol#5"]}
+  ],
+  "palabras": [
+    {"original": "γλῶσσα", "translit": "glōssa", "idioma": "griego", "ref": "Hch 2:4", "significado": "Lengua, tanto la del cuerpo como la de un idioma. MacArthur advierte que en Hechos 2 el término y el contexto exigen entender idiomas conocidos, como prueba la lista de pueblos de los versículos 8-11.", "fuentes": ["hechos_comentario__archivo#32", "hechos_comentario__archivo#34"]}
+  ],
+  "cristo": [
+    {"texto": "Pentecostés mira a Jesús. Según MacArthur, la venida del Espíritu fue el cumplimiento del bautismo prometido y Pentecostés, cincuenta días después de la Pascua, sigue el patrón de las fiestas de Levítico 23: Cristo es el Cordero de Pascua (1 Corintios 5:7) y las primicias de los que durmieron (1 Corintios 15:20). Que el Espíritu sea primicias de la herencia del creyente es una lectura de patrón que MacArthur apoya en 2 Corintios 5:5 y Efesios 1:13-14. Lo explícito es el mensaje que sigue: las lenguas preparan el sermón de Pedro sobre Jesucristo.", "refs": ["Hch 2:1-4", "1 Co 5:7", "1 Co 15:20"], "fuentes": ["hechos_comentario__archivo#31", "hechos_comentario__archivo#32", "hechos_comentario__archivo#34"]},
+    {"texto": "La traducción cuida también quién es Cristo. Según la Coalición por el Evangelio, los manuscritos más antiguos de Juan 1:18 dicen «Dios unigénito», que la NVI recoge en su nota, y tanto la RV60 como la NVI muestran su deidad en Filipenses 2:5-6.", "refs": ["Jn 1:18", "Fil 2:5-6"], "fuentes": ["web_cpe_nvi_mitos#3", "web_cpe_nvi_mitos#4"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Cómo conviene traducir: palabra por palabra o pensamiento por pensamiento?",
+      "posturas": [
+        {"postura": "Las mejores traducciones son las formales, palabra por palabra: cuanto más literal y exacta, más confiable testigo del original.", "quien": "MacArthur", "fuentes": ["macarthur_ts#169"]},
+        {"postura": "La equivalencia dinámica comunica la idea del autor con claridad para el lector de hoy. Tiene la ventaja de la claridad y la desventaja del posible error de interpretación de los traductores.", "quien": "Elizondo y Barrios, Coalición por el Evangelio", "fuentes": ["web_cpe_nvi_mitos#1", "web_cpe_nvi_mitos#2"]},
+        {"postura": "Ambos tipos tienen fortalezas y debilidades: la formal puede comunicar mal el sentido, la funcional es más interpretativa. Conviene usar versiones de todo el espectro.", "quien": "The Gospel Coalition", "fuentes": ["web_tgc_biblia_traduccion#3"]}
+      ],
+      "nota": "Los autores no zanjan la cuestión; podés comparar varias versiones de un mismo pasaje."
+    },
+    {
+      "tema": "¿Qué texto griego conviene seguir: el textus receptus o el crítico?",
+      "posturas": [
+        {"postura": "Los defensores del texto mayoritario (Hodges, Pickering, van Bruggen) sostienen que los métodos de Westcott y Hort fueron erróneos y que el texto mayoritario, del que el textus receptus es el principal representante impreso, está más cerca del original; algunos defienden por eso la King James. El autor del artículo concluye que el argumento patrístico de Pickering no se sostiene.", "quien": "Presentada en Themelios (The Gospel Coalition)", "fuentes": ["web_themelios_texto_mayoritario#1", "web_themelios_texto_mayoritario#3", "web_themelios_texto_mayoritario#5"]},
+        {"postura": "Los manuscritos más antiguos, el texto crítico, ofrecen más solidez para representar los autógrafos; las variantes significativas son cerca del uno por ciento del texto y no alteran ninguna doctrina de peso.", "quien": "Elizondo y Barrios, Coalición por el Evangelio", "fuentes": ["web_cpe_nvi_mitos#2", "web_cpe_nvi_mitos#3"]}
+      ],
+      "nota": "Se estudiará con más detalle en los días sobre crítica textual."
+    },
+    {
+      "tema": "Nehemías 8:8: ¿«ponían el sentido» es traducir o explicar?",
+      "posturas": [
+        {"postura": "Puede haber involucrado traducir para quienes solo sabían arameo, pero parece más bien dividir el texto en partes para comprenderlo: una exposición del significado y no solo una traducción.", "quien": "Biblia de estudio MacArthur", "fuentes": ["biblia_de_estudio__autor#919"]}
+      ],
+      "nota": "Aquí solo aparece la voz de esta nota; otros comentaristas se verán en el estudio de Esdras y Nehemías."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Esd 7:10", "nota": "Esdras había preparado su corazón para estudiar la ley, cumplirla y enseñarla, antes de explicarla al pueblo.", "fuentes": ["macarthur_ts#179"]},
+    {"ref": "Hch 8:30-31", "nota": "Felipe pregunta al etíope si entiende lo que lee, y este responde que necesita quien lo guíe: la misma necesidad de Nehemías 8:8.", "fuentes": ["biblia"]},
+    {"ref": "Ap 7:9", "nota": "La visión final muestra una multitud de toda nación, tribu, pueblo y lengua delante del trono: la diversidad de lenguas llega al final de la historia.", "fuentes": ["biblia"]},
+    {"ref": "2 Ti 3:15", "nota": "Sproul lo cita para mostrar que incluso una traducción da la sabiduría para la salvación.", "fuentes": ["puedo_confiar_en__sproul#21"]},
+    {"ref": "1 P 2:2", "nota": "Michelén exhorta a desear la leche espiritual no adulterada, sin importar cuántos años de fe se tengan.", "fuentes": ["web_ligonier_historia_biblia_espanol#6"]}
+  ],
+  "para_vivir": [
+    {"texto": "Agradecé la Biblia que tenés: Michelén la llama una historia de sangre y persecución, y pide sacarle provecho leyéndola en tu idioma.", "fuentes": ["web_ligonier_historia_biblia_espanol#6"]},
+    {"texto": "Leé un mismo pasaje en dos versiones de estilos distintos, una más literal y otra más clara, como sugiere The Gospel Coalition con su espectro de versiones.", "fuentes": ["web_tgc_biblia_traduccion#3"]},
+    {"texto": "Evitá atacar sin fundamento la versión ajena; la Coalición por el Evangelio la considera contraria al espíritu de Efesios 4:29 y necedad según Proverbios 10:18.", "fuentes": ["web_cpe_nvi_mitos#5"]}
+  ],
+  "para_reflexionar": [
+    "¿Qué versión de la Biblia usás y por qué la elegiste? ¿Alguna vez la comparaste con otra?",
+    "Si leer la Biblia en tu idioma costó tanto a tantos, ¿qué dice eso de cuánto la leés hoy?",
+    "En Nehemías 8 el pueblo oyó, entendió y se conmovió. ¿Qué te ayuda a entender lo que leés?"
+  ],
+  "para_orar": "Señor, gracias por quienes tradujeron tu Palabra a mi idioma y a veces pagaron con la vida. Abrime el entendimiento como lo hiciste con tu pueblo en tiempos de Esdras, y que lo que lea llegue al corazón y no solo a la cabeza. Amén.",
+  "profundizar": [
+    {"titulo": "Julianillo Hernández, el contrabandista de Biblias", "texto": "Según Michelén, Julián Hernández, un hombre de baja estatura que había trabajado en imprentas alemanas y de los Países Bajos, ofreció a Juan Pérez de Pineda llevar sus Nuevos Testamentos a España. Los escondió en barriles de vino de doble piso y burló los controles de la Inquisición. Siguió repartiéndolos mientras vendía telas, hasta que un herrero lo denunció. Torturado durante años, no reveló los nombres de otros evangélicos, y fue condenado a muerte.", "fuentes": ["web_cpe_historia_reina_valera#1", "web_cpe_historia_reina_valera#2"]}
+  ]
+}

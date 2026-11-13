@@ -1,0 +1,423 @@
+{
+  "dia": 8,
+  "titulo": "El canon del Antiguo Testamento: qué libros son Escritura",
+  "bajada": "¿Quién decidió qué libros forman el Antiguo Testamento, con qué criterio y por qué las Biblias protestantes y la católica no tienen la misma lista? Un recorrido desde Jesús hasta el Concilio de Trento.",
+  "minutos": {
+    "lectura": 6,
+    "estudio": 24
+  },
+  "lectura": {
+    "pasaje": "Lucas 24:44-48; Romanos 3:1-4",
+    "porque": "Jesús señala la colección de Escrituras que habla de él, y Pablo explica qué privilegio tuvo Israel al recibirla."
+  },
+  "versiculos": [
+    {
+      "ref": "Lucas 24:44",
+      "porque": "Jesús menciona las tres partes de las Escrituras de su tiempo y dice que todas hablan de él."
+    },
+    {
+      "ref": "Romanos 3:2",
+      "porque": "Pablo dice cuál fue la gran ventaja de Israel: haber recibido las palabras de Dios."
+    }
+  ],
+  "entrada": {
+    "texto": "Si abrís una Biblia protestante, el Antiguo Testamento tiene treinta y nueve libros; el Catecismo católico habla de cuarenta y seis; y en el judaísmo se leía una colección hebrea que se contaba de otro modo y venía en otro orden. Detrás de esas diferencias hay una pregunta seria: ¿quién decidió qué libros son Escritura, y con qué base?\n\nHoy miramos el canon del Antiguo Testamento. Vamos a empezar por lo que dice la Biblia misma, con Jesús como testigo principal, y después veremos qué cuentan los historiadores antiguos, qué pasó con los libros apócrifos y cómo llegó cada tradición a su lista. Donde los cristianos no coinciden, vamos a mostrar cada postura con sus propias voces.",
+    "fuentes": [
+      "ryrie#48",
+      "web_catecismo_escritura#4"
+    ]
+  },
+  "apartados": [
+    {
+      "titulo": "Qué es el canon y quién lo «hace»",
+      "parrafos": [
+        {
+          "texto": "Ryrie explica que la palabra «canon» viene del griego kanon, una vara de medir, y de ahí pasó a significar regla de conducta (Gálatas 6:16; Filipenses 3:16). Recién a mediados del siglo IV se empezó a usar para la lista de libros reconocidos como parte de la Biblia. Para él la palabra tiene un doble sentido: es la lista de los libros que pasaron ciertas pruebas, y es también la colección que funciona como regla para nuestra vida. MacArthur agrega que Pablo usa kanon cuatro veces en el Nuevo Testamento, siempre en sentido figurado, y que fue Atanasio quien lo aplicó por primera vez a las Escrituras, poco después del año 350.",
+          "fuentes": [
+            "ryrie#47",
+            "macarthur_ts#155",
+            "macarthur_ts#156"
+          ]
+        },
+        {
+          "texto": "La pregunta de fondo es si la iglesia hace canónicos a los libros o los reconoce. MacArthur distingue dos maneras históricas de definir el canon. En el punto de vista tradicional del catolicismo romano, tal como él lo presenta, la Biblia es una colección autorizada: la iglesia decide qué libros la forman. En el punto de vista que él llama bíblico, los escritos tienen autoridad divina por su inspiración, y el pueblo de Dios (Israel en el Antiguo Testamento, la iglesia en el Nuevo) solo reconoce esa autoridad.",
+          "fuentes": [
+            "macarthur_ts#156"
+          ]
+        },
+        {
+          "texto": "Ryrie sigue la misma línea con 2 Timoteo 3:16: los libros eran canónicos al escribirse y ningún concilio hizo canónico a un libro. Eso no quita que hubiera decisiones humanas, porque había candidatos no inspirados; Ryrie dice que Dios guió a esos grupos a decidir bien. Grudem usa una comparación: un policía puede reconocer un billete falso como falso y uno verdadero como verdadero, pero no puede volver genuino a uno falso.",
+          "fuentes": [
+            "ryrie#47",
+            "grudem#61"
+          ]
+        }
+      ],
+      "destacado": {
+        "texto": "Según Ryrie, MacArthur y Grudem, los concilios declararon lo que ya era Palabra de Dios; no fueron ellos los que lo convirtieron en tal.",
+        "fuentes": [
+          "ryrie#47",
+          "macarthur_ts#156",
+          "grudem#61"
+        ]
+      }
+    },
+    {
+      "titulo": "Palabras confiadas a Israel: Romanos 3:1-2",
+      "parrafos": [
+        {
+          "texto": "En Romanos 3:1-2 Pablo se pregunta qué ventaja tiene el judío, y su primera respuesta es que a Israel se le confiaron las palabras de Dios. MacArthur cita el versículo como muestra de que los autores del Nuevo Testamento reconocían al Antiguo como Palabra de Dios: Pablo lo describe como «los oráculos de Dios», una expresión que presenta a las Escrituras como mensajes directos de Dios. Desde ese ángulo, el canon es primero un privilegio recibido antes que una lista técnica. El pasaje sigue con una advertencia: que algunos no hayan creído no anula la fidelidad de Dios (Romanos 3:3-4).",
+          "fuentes": [
+            "macarthur_ts#126",
+            "biblia"
+          ]
+        },
+        {
+          "texto": "Esa confianza se nota en cómo creció la colección. Grudem recuerda que las tablas de la ley se depositaron en el arca (Deuteronomio 10:5), que Moisés escribió otras palabras para guardarlas allí (Deuteronomio 31:24-26) y que Josué añadió escritos al libro de la ley (Josué 24:26), algo llamativo porque Dios había mandado no añadir ni quitar (Deuteronomio 4:2). Después se sumaron escritos de profetas. MacArthur coincide en que Moisés terminó el Pentateuco y que Israel lo recibió como Palabra de Dios.",
+          "fuentes": [
+            "grudem#57",
+            "macarthur_ts#157"
+          ]
+        },
+        {
+          "texto": "MacArthur resume tres criterios del Antiguo Testamento: que el libro naciera por inspiración, algo que el autor solía afirmar (2 Samuel 23:1-2; Isaías 1:1; Jeremías 1:1-2); que los contemporáneos del profeta lo reconocieran; y que decidieran conservarlo como Palabra de Dios. Además, los dirigentes contrastaban toda supuesta revelación nueva con lo ya escrito (Deuteronomio 13:1-5).",
+          "fuentes": [
+            "macarthur_ts#157"
+          ]
+        }
+      ],
+      "destacado": {
+        "texto": "Para Pablo la ventaja de Israel no fue una virtud propia sino un depósito: Dios le confió sus palabras (Romanos 3:2).",
+        "fuentes": [
+          "macarthur_ts#126",
+          "biblia"
+        ]
+      }
+    },
+    {
+      "titulo": "Tres partes: la Ley, los Profetas y los Escritos",
+      "parrafos": [
+        {
+          "texto": "En Lucas 24:44 Jesús dice que debía cumplirse todo lo escrito de él en la ley de Moisés, en los profetas y en los salmos. MacArthur observa que Jesús y los autores del Nuevo Testamento reconocían una disposición doble o triple del Antiguo Testamento: la Ley y los Profetas, o la Ley, los Profetas y los Escritos.",
+          "fuentes": [
+            "macarthur_ts#158",
+            "biblia"
+          ]
+        },
+        {
+          "texto": "BibleProject, en las notas de clase de Tim Mackie, llama TaNaK a esa Biblia de Jesús, un nombre formado con la inicial de cada parte: Torá («instrucción»), Nevi'im («profetas») y Ketuvim («escritos»). Según esas notas, la Torá reúne los cinco libros de Moisés; los Profetas se dividen en anteriores (Josué, Jueces, Samuel y Reyes) y posteriores (Isaías, Jeremías, Ezequiel y los Doce); y los Escritos incluyen Salmos, Job, Proverbios, los cinco rollos (Rut, Cantar de los Cantares, Eclesiastés, Lamentaciones y Ester), Daniel, Esdras-Nehemías y Crónicas. El orden de nuestras Biblias es otro, aunque el contenido es el mismo.",
+          "fuentes": [
+            "web_bibleproject_hebrew_bible#4"
+          ]
+        },
+        {
+          "texto": "MacArthur explica que el orden de nuestra Biblia viene sobre todo de la Vulgata y, en segundo lugar, de la Septuaginta, pero que son los mismos libros de la Biblia hebrea. Nuestras versiones cuentan treinta y nueve; en tiempos de Cristo se manejaban listas de veintidós o veinticuatro, que agrupaban algunos libros (el Libro de los Doce, 1 y 2 Samuel). Cambia el número, no el material.",
+          "fuentes": [
+            "macarthur_ts#155",
+            "macarthur_ts#158"
+          ]
+        },
+        {
+          "texto": "Hay varios testigos de esta división. Ryrie menciona el prólogo de Eclesiástico, cuyo autor tenía un abuelo que conocía una división en tres partes hacia el 200 a. C., y a Filón, que alrededor del 40 d. C. habló igual. La Coalición por el Evangelio cita a Filón (las leyes, los oráculos de los profetas y los salmos) y lo vincula con Lucas 24:44. BibleProject suma un fragmento de Qumrán que nombra los rollos de Moisés, las palabras de los profetas y a David.",
+          "fuentes": [
+            "ryrie#48",
+            "web_cpe_canon_biblico#2",
+            "web_bibleproject_hebrew_bible#4"
+          ]
+        }
+      ],
+      "destacado": {
+        "texto": "Jesús no inventó una división nueva: según BibleProject, hablaba de la Biblia como se la nombraba habitualmente en su cultura.",
+        "fuentes": [
+          "web_bibleproject_hebrew_bible#3"
+        ]
+      }
+    },
+    {
+      "titulo": "Jesús y el canon: de Abel a Zacarías",
+      "parrafos": [
+        {
+          "texto": "En Lucas 11:50-51 (paralelo en Mateo 23:35) Jesús acusa a esa generación por la sangre de los profetas, desde Abel hasta Zacarías. Ryrie lo toma como pista de la extensión del canon que Jesús aceptaba: Abel muere en Génesis 4 y Zacarías en 2 Crónicas 24, libro que cerraba el orden hebreo; del primer asesinato registrado al último. Los apócrifos relatan otras muertes de mensajeros de Dios, pero Jesús no las contó, y Ryrie concluye que no les atribuía igual autoridad. MacArthur y BibleProject leen igual: una Biblia de Génesis a Crónicas.",
+          "fuentes": [
+            "ryrie#48",
+            "macarthur_ts#158",
+            "web_bibleproject_hebrew_bible#4"
+          ]
+        },
+        {
+          "texto": "MacArthur reúne el uso que Jesús hizo de cada sección: Moisés y el Pentateuco (Mateo 4:1-11; Juan 3:14), David en los Salmos (Lucas 20:41-44), Isaías y Jonás entre los profetas. Ryrie añade Mateo 5:17: la Ley y los Profetas tienen autoridad porque se van a cumplir. MacArthur señala que Pablo razonaba en las sinagogas a partir de las Escrituras (Hechos 17:2-3).",
+          "fuentes": [
+            "macarthur_ts#158",
+            "ryrie#48"
+          ]
+        },
+        {
+          "texto": "Pesa también que ningún autor del Nuevo Testamento cita como Escritura un libro apócrifo. Ryrie cuenta unas 250 citas del Antiguo Testamento en el Nuevo, ninguna de apócrifos; Grudem, con otro conteo, habla de más de 295. Grudem aclara que Judas 14-15 remite a 1 Enoc, que no es parte de la Apócrifa y no se presenta con fórmulas como «está escrito». La Coalición por el Evangelio agrega que no hay rastro de disputas entre Jesús y los dirigentes judíos sobre los límites de las Escrituras.",
+          "fuentes": [
+            "ryrie#48",
+            "grudem#59",
+            "web_cpe_canon_biblico#2"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Testigos judíos: Josefo, Qumrán y Jamnia",
+      "parrafos": [
+        {
+          "texto": "La Coalición por el Evangelio recuerda que el historiador judío Josefo, en el siglo I, ofrece una lista de veintidós libros que parecen coincidir con nuestros treinta y nueve (Contra Apión 1.38-42), y que de ellos dice que en tanto tiempo «nadie se ha atrevido a agregar, remover o cambiar una sola sílaba». Ryrie lo confirma con la misma equivalencia. Grudem agrega otro pasaje de Josefo: la historia posterior a Artajerjes se escribió, pero no se la consideró digna de igual crédito que los registros anteriores, porque se interrumpió la sucesión exacta de los profetas.",
+          "fuentes": [
+            "web_cpe_canon_biblico#1",
+            "ryrie#48",
+            "grudem#58"
+          ]
+        },
+        {
+          "texto": "La idea de que la voz profética había callado aparece en varios lugares. Grudem cita 1 Macabeos, donde se espera a un profeta que diga qué hacer con el altar profanado, y la tradición rabínica, para la cual el Espíritu Santo se apartó de Israel al morir Hageo, Zacarías y Malaquías.",
+          "fuentes": [
+            "grudem#58",
+            "web_cpe_libros_apocrifos#2",
+            "ryrie#47"
+          ]
+        },
+        {
+          "texto": "Ryrie agrega que entre los rollos del mar Muerto están representados todos los libros del Antiguo Testamento salvo Ester, y que los comentarios hallados tratan solo libros canónicos, lo que sugiere que se distinguían de los demás.",
+          "fuentes": [
+            "ryrie#47"
+          ]
+        },
+        {
+          "texto": "Y Jamnia. Ryrie la describe como una casa de enseñanza de rabinos, hacia el 90 d. C., donde algunos cuestionaron si Ester, Eclesiastés y Cantar de los Cantares debían aceptarse, y subraya que esas discusiones se referían a un canon que ya existía. Habla de una casa de enseñanza, no de un concilio con poder de decidir; las demás fuentes de hoy no tratan el tema, así que solo se recoge su lectura. Grudem anota que sobre Ester hubo dudas en parte de la iglesia primitiva y algunos rabinos se le opusieron, pero el uso cristiano terminó coincidiendo con el judío, que siempre la contó.",
+          "fuentes": [
+            "ryrie#48",
+            "grudem#60"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Los apócrifos y la Septuaginta",
+      "parrafos": [
+        {
+          "texto": "La Coalición por el Evangelio describe los apócrifos del Antiguo Testamento como libros escritos entre el siglo III a. C. y el siglo I d. C.: 1 y 2 Macabeos, 1 Esdras (que no es el Esdras canónico), Judit, Tobit, Sabiduría de Salomón, Sirácida, Baruc y obras menores. Se conservan en griego. MacArthur los presenta como catorce libros escritos después de Malaquías y añadidos en la Septuaginta. Grudem recuerda que «apócrifa» significa «cosas ocultas» y que los católicos prefieren «deuterocanónicos», libros añadidos después.",
+          "fuentes": [
+            "web_cpe_libros_apocrifos#1",
+            "macarthur_ts#155",
+            "grudem#59",
+            "grudem#61"
+          ]
+        },
+        {
+          "texto": "La Septuaginta es, según la Coalición por el Evangelio, la primera traducción de la Biblia: el Pentateuco se tradujo al griego en Alejandría bajo Ptolomeo II (285-246 a. C.) y el conjunto se completó a lo largo de cuatro siglos. La edición impresa de Rahlfs incluye los libros del canon hebreo, deuterocanónicos y otros escritos, como 3 y 4 Macabeos y las Odas, estas últimas canónicas solo para la Iglesia Ortodoxa. Esa fuente subraya que los autores del Nuevo Testamento que citan el Antiguo usaron la Septuaginta. Figurar en un volumen griego no es, entonces, lo mismo que figurar en una lista de canon.",
+          "fuentes": [
+            "web_cpe_septuaginta#1"
+          ]
+        },
+        {
+          "texto": "Entre los primeros cristianos hubo opiniones distintas. Según la Coalición por el Evangelio, Melitón de Sardis, la lista de Bryennios y Orígenes afirman el canon general que conocemos; Orígenes dice que los apócrifos pueden leerse con provecho, aunque no como Escritura. Jerónimo concluye que la iglesia no los recibe entre las canónicas; Agustín argumenta a favor de incluirlos, y algunos códices antiguos y el Concilio de Cartago los incluyen. Grudem añade que la lista de Melitón (hacia el 170) no menciona apócrifos y que Atanasio, en el 367, nombra Sabiduría, Sirac, Judit y Tobías como libros fuera del canon que los padres recomendaban a los recién llegados. Ryrie ve en Agustín la excepción entre los padres y dice que reconoció que no eran plenamente autoritativos.",
+          "fuentes": [
+            "web_cpe_libros_apocrifos#2",
+            "grudem#60",
+            "ryrie#48"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Trento (1546) y la lista católica",
+      "parrafos": [
+        {
+          "texto": "El documento primario es el decreto sobre las Escrituras canónicas de la cuarta sesión del Concilio de Trento (8 de abril de 1546), que en la edición de Schaff aparece en latín y en inglés. Declara que el concilio recibe y venera con igual piedad todos los libros del Antiguo y del Nuevo Testamento, porque un solo Dios es autor de ambos, y también las tradiciones. Su lista incluye, junto a los libros del canon hebreo, Tobías, Judit, Sabiduría, Eclesiástico, Baruc (con Jeremías) y los dos libros de los Macabeos, y declara anatema a quien no los reciba enteros y con todas sus partes, como se leían en la Iglesia católica y están en la antigua Vulgata latina.",
+          "fuentes": [
+            "web_trento_sesion4#1",
+            "web_trento_sesion4#2"
+          ]
+        },
+        {
+          "texto": "El Catecismo de la Iglesia Católica (n. 120) explica el fundamento: la Tradición apostólica hizo discernir a la Iglesia qué escritos forman la lista de los Libros Santos. Esa lista comprende 46 escritos para el Antiguo Testamento (45 si se cuentan Jeremías y Lamentaciones como uno) y 27 para el Nuevo, y remite a Trento entre sus fuentes. La constitución Dei Verbum, del Concilio Vaticano II, dice en el mismo sentido que por la Tradición la Iglesia conoce el canon íntegro de los libros sagrados. Esas son las razones tal como las dan los propios documentos católicos que tenemos a la vista hoy.",
+          "fuentes": [
+            "web_catecismo_escritura#4",
+            "web_catecismo_escritura#1",
+            "web_dei_verbum#1"
+          ]
+        },
+        {
+          "texto": "Los autores protestantes responden con otros argumentos. Grudem señala que Trento declaró canónicos los apócrifos, salvo 1 y 2 Esdras y la Oración de Manasés, como respuesta a la Reforma, y sostiene que ninguno afirma tener esa autoridad, que los judíos no los consideraron palabra de Dios y que ni Jesús ni el Nuevo Testamento los citaron como tal. La Coalición por el Evangelio añade que los reformadores los reexaminaron porque sostenían doctrinas controvertidas, como el purgatorio, y concluyeron que no debían ser base doctrinal.",
+          "fuentes": [
+            "grudem#61",
+            "web_cpe_libros_apocrifos#2",
+            "ryrie#48"
+          ]
+        }
+      ]
+    }
+  ],
+  "citas": [
+    {
+      "texto": "Ningún libro de la Biblia fue hecho canónico por la acción de algún concilio de la iglesia.",
+      "autor": "Charles Ryrie",
+      "obra": "Teología básica",
+      "fuentes": [
+        "ryrie#47"
+      ]
+    },
+    {
+      "texto": "nadie se ha atrevido a agregar, remover o cambiar una sola sílaba",
+      "autor": "Flavio Josefo, citado por la Coalición por el Evangelio",
+      "obra": "Contra Apión 1.42",
+      "fuentes": [
+        "web_cpe_canon_biblico#1"
+      ]
+    }
+  ],
+  "palabras": [
+    {
+      "original": "κανών",
+      "translit": "kanón",
+      "idioma": "griego",
+      "ref": "Gá 6:16",
+      "significado": "Vara de medir, y de ahí regla o norma. Ryrie y MacArthur explican que pasó a nombrar la lista autoritativa de los libros de la Biblia a partir de mediados del siglo IV; en el Nuevo Testamento aparece con sentido de límite o norma (2 Co 10:13-16; Gá 6:16).",
+      "fuentes": [
+        "ryrie#47",
+        "macarthur_ts#155",
+        "macarthur_ts#156"
+      ]
+    },
+    {
+      "original": "ἀπόκρυφα",
+      "translit": "apókrufa",
+      "idioma": "griego",
+      "ref": "",
+      "significado": "«Cosas ocultas». Grudem aclara que los eruditos no están seguros de por qué se aplicó a estos escritos; la Coalición por el Evangelio dice que el término solo significa «oculto». Los católicos prefieren el término deuterocanónicos (deutero, «segundo»).",
+      "fuentes": [
+        "grudem#59",
+        "grudem#61",
+        "web_cpe_libros_apocrifos#1"
+      ]
+    }
+  ],
+  "cristo": [
+    {
+      "texto": "El centro de las Escrituras. En Lc 24:44-48 Jesús resucitado señala las tres partes (la ley de Moisés, los profetas y los salmos), dice que todo lo escrito de él debía cumplirse, abre el entendimiento de los discípulos y los llama testigos. BibleProject recuerda que ya en Lc 24:27 él explicaba lo que se decía de sí mismo, empezando por Moisés y todos los profetas. Esto es explícito en el texto.",
+      "refs": [
+        "Lc 24:44-48",
+        "Lc 24:27"
+      ],
+      "fuentes": [
+        "biblia",
+        "web_bibleproject_hebrew_bible#4"
+      ]
+    },
+    {
+      "texto": "Costuras que apuntan adelante. Mackie observa que el Pentateuco termina esperando a un profeta como Moisés (Deuteronomio 34:10-12) y que los Profetas terminan anunciando uno como Elías (Malaquías 4:4-6). Ryrie vincula Malaquías 4:5 con Juan el Bautista (Mateo 17:11-12). Que el conjunto tenga ese patrón es una lectura de Mackie; lo explícito es que el Nuevo Testamento identifica a Juan con Elías en Mateo 17:11-12.",
+      "refs": [
+        "Dt 34:10-12",
+        "Mal 4:4-6",
+        "Mt 17:11-12"
+      ],
+      "fuentes": [
+        "web_bibleproject_hebrew_bible#5",
+        "ryrie#47"
+      ]
+    }
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué libros forman el Antiguo Testamento? Los apócrifos o deuterocanónicos",
+      "posturas": [
+        {
+          "postura": "Los apócrifos no son Escritura. Grudem, MacArthur, Ryrie y la Coalición por el Evangelio coinciden en que el canon es el hebreo: los judíos no los recibieron como Escritura, Jesús y los autores del Nuevo Testamento no los citaron como tal, y Trento fue el primer reconocimiento oficial. Los reformadores concluyeron que no debían servir de base doctrinal. Reconocen que algunos padres, como Agustín, los usaron, y que la iglesia primitiva estuvo dividida.",
+          "quien": "Grudem, MacArthur, Ryrie y la Coalición por el Evangelio",
+          "fuentes": [
+            "grudem#59",
+            "grudem#61",
+            "macarthur_ts#155",
+            "ryrie#48",
+            "web_cpe_libros_apocrifos#2"
+          ]
+        },
+        {
+          "postura": "Los libros deuterocanónicos son parte del Antiguo Testamento. Trento declara sagrados y canónicos esos libros, enteros y con todas sus partes, junto con las tradiciones; el Catecismo, citando a Trento, enseña que la Tradición apostólica hizo discernir a la Iglesia la lista de 46 escritos, y Dei Verbum dice que por la Tradición la Iglesia conoce el canon íntegro. Aquí solo aparecen los textos oficiales, no una exposición de las razones de sus teólogos.",
+          "quien": "Concilio de Trento y Catecismo de la Iglesia Católica",
+          "fuentes": [
+            "web_trento_sesion4#2",
+            "web_catecismo_escritura#4",
+            "web_dei_verbum#1"
+          ]
+        }
+      ],
+      "nota": "Cada postura se limita a lo que dicen sus propias fuentes de hoy. La exposición de la postura católica con sus autores corresponde al tramo del estudio dedicado a otras tradiciones."
+    }
+  ],
+  "conexiones": [
+    {
+      "ref": "Dt 31:24-26",
+      "nota": "Moisés manda guardar el libro de la ley junto al arca: MacArthur lo cita como primer acto de reconocimiento y preservación de una Escritura.",
+      "fuentes": [
+        "macarthur_ts#157"
+      ]
+    },
+    {
+      "ref": "2 Ti 3:16",
+      "nota": "Ryrie lo usa para decir que los libros eran canónicos porque Dios los inspiró, no porque un concilio los votara.",
+      "fuentes": [
+        "ryrie#47"
+      ]
+    },
+    {
+      "ref": "Mt 5:17",
+      "nota": "La Ley y los Profetas, nombres que juntos abarcan el Antiguo Testamento, tienen autoridad porque se van a cumplir.",
+      "fuentes": [
+        "ryrie#48"
+      ]
+    },
+    {
+      "ref": "Lc 11:50-51",
+      "nota": "De la sangre de Abel a la de Zacarías: una pista sobre el orden y la extensión del canon que Jesús aceptaba (paralelo en Mt 23:35).",
+      "fuentes": [
+        "ryrie#48",
+        "macarthur_ts#158"
+      ]
+    }
+  ],
+  "para_vivir": [
+    {
+      "texto": "Leé el Antiguo Testamento como la Biblia de Jesús: él lo reconoció entero, de Moisés a los profetas y los salmos, y dijo que hablaba de él. No hace falta leerlo con vergüenza ni a medias.",
+      "fuentes": [
+        "macarthur_ts#158",
+        "biblia"
+      ]
+    },
+    {
+      "texto": "Si tu Biblia trae los apócrifos, o te preguntan por ellos, distinguí qué son y qué lugar les da cada tradición: Ryrie, Grudem y la Coalición por el Evangelio los ven, a lo sumo, útiles de leer (como dijo Orígenes), pero no Escritura; Trento y el Catecismo los incluyen en la lista. Conocé la discusión sin caricaturizar a nadie.",
+      "fuentes": [
+        "ryrie#48",
+        "web_cpe_libros_apocrifos#2",
+        "grudem#61",
+        "web_trento_sesion4#2"
+      ]
+    },
+    {
+      "texto": "Agradecé el depósito. Según Pablo, tener las palabras de Dios fue la gran ventaja de Israel (Romanos 3:2); hoy las tenés en tu idioma y a mano. Que no se vuelvan un libro de estantería.",
+      "fuentes": [
+        "biblia",
+        "macarthur_ts#126"
+      ]
+    }
+  ],
+  "para_reflexionar": [
+    "Si el canon se reconoce y no se decide, ¿qué cambia en cómo recibís la Biblia: como un texto que fue autorizado por alguien o como una voz que ya hablaba?",
+    "¿Cuánto del Antiguo Testamento leíste esta semana? ¿Qué parte te cuesta más y por qué, sabiendo que Jesús dijo que toda esa colección habla de él?",
+    "Ante una discusión como la de los apócrifos, ¿cómo podés defender lo que creés sin dejar de escuchar con respeto a quien piensa distinto?"
+  ],
+  "para_orar": "Padre, gracias por haber confiado tus palabras a un pueblo y por haberlas guardado hasta llegar a mis manos. Enseñame a leer el Antiguo Testamento como lo leyó Jesús, buscándolo a él en toda la Escritura. Que no discuta por discutir sino por amor a tu verdad, y que tu Espíritu me haga oír tu voz en cada página. Amén.",
+  "profundizar": [
+    {
+      "titulo": "Las listas de Melitón y de Atanasio",
+      "texto": "Grudem transcribe la lista de Melitón, obispo de Sardis hacia el 170: los cinco libros de Moisés, Josué, Jueces, Rut, cuatro libros de reinos, dos de Crónicas, Salmos, Proverbios, Eclesiastés, Cantar de los Cantares, Job, Isaías, Jeremías, los Doce, Daniel, Ezequiel y Esdras. No figura ningún apócrifo y falta Ester.",
+      "fuentes": [
+        "grudem#60"
+      ]
+    }
+  ]
+}

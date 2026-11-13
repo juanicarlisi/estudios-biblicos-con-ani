@@ -1,0 +1,128 @@
+{
+  "dia": 16,
+  "titulo": "Cómo elegir y comparar traducciones",
+  "bajada": "Casi nadie lee la Biblia en hebreo o en griego. Entonces, ¿qué versión conviene usar para estudiar, para predicar y para leer en voz alta, y qué se gana comparando varias?",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Nehemías 8:5-8; Efesios 2:8-10 (leído en dos o tres versiones)", "porque": "Nehemías muestra para qué se lee la Escritura en voz alta: para que el pueblo entienda. Efesios 2:8-10 es un pasaje ideal para comparar cómo lo vierte cada versión."},
+  "versiculos": [
+    {"ref": "Nehemías 8:8", "porque": "Leer la Palabra y «poner el sentido» para que se entienda es la razón de ser de toda traducción."},
+    {"ref": "Salmo 119:105", "porque": "La Palabra sirve de lámpara solo si podemos comprenderla; de ahí la importancia de una versión clara y fiel."}
+  ],
+  "entrada": {
+    "texto": "Casi todos leemos la Biblia en una traducción, porque son muy pocos los que manejan el hebreo, el arameo y el griego. Por eso, según el ensayo sobre la Biblia en traducción de The Gospel Coalition, oír la voz de Dios en la Escritura depende de que se la vierta con exactitud a cada idioma. Pero hay maneras distintas de traducir, y cada una tiene fortalezas y riesgos.\n\nEste día no busca que elijas «la mejor Biblia», sino que sepas qué estás leyendo, por qué una versión dice distinto de otra, y cómo sacar provecho de esas diferencias en vez de asustarte de ellas.",
+    "fuentes": ["web_tgc_biblia_traduccion#1"]
+  },
+  "apartados": [
+    {
+      "titulo": "Dos filosofías: palabra por palabra o idea por idea",
+      "parrafos": [
+        {"texto": "El ensayo de The Gospel Coalition parte de una pregunta: ¿se traduce según la forma del texto o según su significado? La primera opción se llama equivalencia formal, también «literal» o palabra por palabra: procura seguir lo más posible las palabras y la gramática del original. La segunda, equivalencia funcional (o dinámica), busca reproducir el significado y cambia la forma cuando hace falta.", "fuentes": ["web_tgc_biblia_traduccion#1", "web_tgc_biblia_traduccion#2"]},
+        {"texto": "El ensayo advierte que ninguna versión es consecuentemente literal, porque los idiomas no coinciden ni en el significado de las palabras ni en la gramática. Lo ilustra con Mateo 1:18: la expresión griega que dice de María que estaba embarazada, tomada al pie de la letra, sería algo como «teniendo en el vientre». Traducirlo así volvería extraño lo que para un lector griego era natural.", "fuentes": ["web_tgc_biblia_traduccion#2"]},
+        {"texto": "En español, el pastor que habla en el video de Ligonier sobre la historia de la Biblia lo resume así: la equivalencia dinámica trata de plasmar la idea del texto, y la formal procura ser lo más literal posible. Para él la Reina Valera es una traducción formal, y lo mismo vale para la Biblia de las Américas (1986) y su revisión, la Nueva Biblia de las Américas (2005).", "fuentes": ["web_ligonier_historia_biblia_espanol#6"]}
+      ],
+      "destacado": {"texto": "Ninguna traducción es del todo literal ni del todo libre: cada una se ubica en algún punto de un espectro, y en ese punto hay ganancias y pérdidas.", "fuentes": ["web_tgc_biblia_traduccion#2", "web_tgc_biblia_traduccion#3"]}
+    },
+    {
+      "titulo": "Un espectro, no dos bandos",
+      "parrafos": [
+        {"texto": "El ensayo de The Gospel Coalition ordena las versiones inglesas en una escala: en un extremo las más formales (la KJV, la NKJV, la NASB, la ESV), en el centro las intermedias (la NIV, la NET, la CSB), luego las de lenguaje común como la NLT, y al final la Living Bible, la de Phillips y The Message. El lugar de cada una es aproximado.", "fuentes": ["web_tgc_biblia_traduccion#3", "web_tgc_biblia_traduccion#7"]},
+        {"texto": "En español la escala es parecida. Según Beynon y Sach, en el extremo más literal están la Nueva Biblia Latinoamericana de Hoy y La Biblia de las Américas; la Reina Valera también es literal; Dios Habla Hoy es la más «legible», y la Nueva Versión Internacional queda entre los dos extremos.", "fuentes": ["cava_mas_profundo__beynon#91"]},
+        {"texto": "Cada punto del espectro tiene su costo. Según el ensayo, las versiones formales corren el riesgo de comunicar mal el sentido al reproducir mecánicamente la forma, aunque sirven para seguir palabras que se repiten o alusiones; las funcionales comunican con más claridad, pero interpretan más y arriesgan más la interpretación equivocada. Los editores Elizondo y Barrios, en la Coalición por el Evangelio, lo dicen igual al hablar de la NVI: la ventaja es la claridad, y la desventaja, la posibilidad de un error de interpretación de parte de los traductores.", "fuentes": ["web_tgc_biblia_traduccion#3", "web_cpe_nvi_mitos#2"]}
+      ]
+    },
+    {
+      "titulo": "El segundo eje: desde qué texto se traduce",
+      "parrafos": [
+        {"texto": "La filosofía de traducción es un eje; el texto griego o hebreo que se usa como base es otro. El ensayo de The Gospel Coalition cuenta que las revisiones posteriores a la KJV adoptaron los métodos de la crítica textual y trataron los manuscritos más antiguos como más confiables, mientras que la NKJV sigue el Textus Receptus, el texto griego detrás de la KJV, y anota en el margen las variantes del texto crítico.", "fuentes": ["web_tgc_biblia_traduccion#6"]},
+        {"texto": "Para el lector hispano, el artículo de Coalición por el Evangelio explica que la Reina Valera de 1960 se basa en el textus receptus, mientras que la NVI, la LBLA, la NBLH y la NTV consideran el texto crítico. Los autores sostienen que las variantes significativas son alrededor del uno por ciento y no alteran ninguna doctrina de peso. Esa es la voz de quienes defienden el texto crítico; la discusión de fondo, con la defensa del texto mayoritario, corresponde al día 14, sobre crítica textual.", "fuentes": ["web_cpe_nvi_mitos#2"]},
+        {"texto": "¿Cómo se ve esto en una página? En Romanos 8:1, el artículo señala que la RVR1960 tiene una frase adicional, «los que no andan conforme a la carne, sino conforme al Espíritu», que no aparece en los manuscritos más antiguos, y que la NVI la deja como variante al pie. En Juan 1:18 observa que esos manuscritos dicen «Dios unigénito» y los más tardíos «Hijo unigénito». Lo práctico: si tu versión tiene notas al pie, leelas; ahí te avisan dónde difieren los manuscritos.", "fuentes": ["web_cpe_nvi_mitos#2", "web_cpe_nvi_mitos#3"]}
+      ]
+    },
+    {
+      "titulo": "El mismo pasaje en varias versiones: qué se gana comparando",
+      "parrafos": [
+        {"texto": "Efesios 2:8-9 es un buen terreno de prueba. Pablo agrega dos negaciones a la afirmación de que somos salvos por gracia mediante la fe: «y esto no de vosotros, pues es don de Dios», y luego «no por obras». ¿A qué se refiere «esto»? Stott explica que algunos comentaristas lo refieren a la fe, lo cual es teológicamente cierto, pero que en griego «esto» es neutro y «fe» es femenino, de modo que, a su juicio, remite a toda la frase anterior. Quien no lee griego no puede ver eso solo; si compara cómo resuelve cada versión el «esto», nota que ahí los traductores tuvieron que decidir.", "fuentes": ["el_mensaje_de__stott#66", "web_tgc_biblia_traduccion#3"]},
+        {"texto": "En Efesios 2:3 el artículo de Coalición por el Evangelio señala que la RV60 traduce literalmente «Y éramos por naturaleza hijos de ira, lo mismo que los demás», y que «hijos de ira», probablemente una expresión hebrea, no se entiende bien hoy. La NVI vierte la idea así: «Éramos por naturaleza objeto de la ira de Dios». La literal conserva el modo de decir; la dinámica explica qué significa. Con ambas a la vista, el lector gana las dos cosas.", "fuentes": ["web_cpe_nvi_mitos#1"]},
+        {"texto": "También hay riesgo en la otra dirección. Beynon y Sach muestran que Génesis 4:1 en la Reina Valera («conoció Adán a su mujer Eva») suena extraño, porque el hebreo usa «conocer» como manera delicada de referirse a la relación sexual, y que una versión dinámica lo aclara. Pero advierten que una dinámica puede agregar algo que el original no dice: si traduce «llegado el momento» y el lector le da peso a esa frase, su estudio se va por un rumbo equivocado, porque esas palabras no están en el hebreo.", "fuentes": ["cava_mas_profundo__beynon#90", "cava_mas_profundo__beynon#91"]},
+        {"texto": "A veces la comparación cambia el sujeto de una oración. Coleman compara Romanos 8:28: en la RVR1960 el sujeto es «cosas» («todas las cosas les ayudan a bien»), mientras que otra versión que él cita dice que Dios dispone todas las cosas para el bien de los que le aman. Eso, dice, hace una diferencia tremenda, aunque aclara que no afirma que la otra sea mejor en cada caso. Y Lacueva considera que el «si es que» de Romanos 8:17 es una mala traducción, porque el término griego sería consecutivo y no condicional; es una evaluación suya, que muestra cuánto puede pesar una conjunción.", "fuentes": ["como_ensenar_la__f#95", "lacueva#264"]},
+        {"texto": "En 1 Corintios 6:9-11 la RVR1960 dice «los que se echan con varones». Millos explica en su comentario al texto griego que la frase traduce un solo término del original, referido a la práctica de la homosexualidad, y que «afeminados» traduce un adjetivo cuyo sentido es «blando» o «suave». Lo que una frase castellana no deja ver, un comentario basado en el original lo explica. Y el pasaje no se detiene en la lista: el versículo 11 dice que algunos de los corintios eran así, pero ya fueron lavados, santificados y justificados.", "fuentes": ["1_corintios_comentario__millos#325", "biblia"]}
+      ],
+      "destacado": {"texto": "Comparar no es votar cuál versión gana: es notar dónde un traductor tuvo que decidir y preguntarse por qué.", "fuentes": ["web_tgc_biblia_traduccion#3", "como_ensenar_la__f#95"]}
+    },
+    {
+      "titulo": "Qué decir de las paráfrasis",
+      "parrafos": [
+        {"texto": "Peterson, autor de El Mensaje, dice de su trabajo que el objetivo no es una conversión palabra por palabra del griego al español, sino trasladar el tono, el ritmo, los acontecimientos y las ideas a la forma en que hablamos hoy. Los editores lo presentan como creador de «una vibrante paráfrasis bíblica» y afirman que trabajó a partir de los textos originales y que un equipo de especialistas revisó su trabajo. Su fundamento es que el Nuevo Testamento fue escrito en el lenguaje callejero de su época.", "fuentes": ["el_mensaje_mateo__peterson#12", "el_mensaje_mateo__peterson#16", "el_mensaje_mateo__peterson#17"]},
+        {"texto": "No todas las paráfrasis tienen el mismo origen, y esa es la primera pregunta. Según The Gospel Coalition, la Living Bible fue una paráfrasis, o simplificación, de una versión inglesa anterior (la American Standard Version), mientras que la NLT, su revisión, fue obra de un comité. Puede tratarse de un trabajo hecho desde los originales, como describen los editores de El Mensaje, o de una reformulación de otra versión; eso se averigua en la introducción.", "fuentes": ["web_tgc_biblia_traduccion#7"]},
+        {"texto": "Braga, al hablar de cómo preparar sermones, dice que citar otras traducciones suele ayudar a interpretar, pero pide cuidado con las paráfrasis: la traducción intenta poner en otro idioma una representación exacta del original, y la paráfrasis lo representa con más libertad. De ahí un criterio sensato: una paráfrasis puede iluminar un pasaje que ya trabajaste, pero no es el texto sobre el cual se apoya una enseñanza.", "fuentes": ["como_preparar_mensajes__braga#107"]}
+      ]
+    },
+    {
+      "titulo": "Criterios prácticos: estudiar, predicar y leer en voz alta",
+      "parrafos": [
+        {"texto": "Para estudiar. Beynon y Sach recomiendan verificar lo que leés con más de una traducción y, si solés usar una dinámica, sumar una literal. Dan una razón concreta: en Romanos 1:14-18 las palabras conectoras («porque», «pues») forman el hilo del argumento de Pablo, y la NVI, según ellos, incluye solo una, mientras que una versión más literal permite ver la cadena completa. Coleman agrega que conviene tener más de una Biblia a mano, una con referencias y notas, y otra con márgenes amplios para tus propias observaciones.", "fuentes": ["cava_mas_profundo__beynon#91", "cava_mas_profundo__beynon#92", "como_ensenar_la__f#95"]},
+        {"texto": "Para predicar o enseñar. MacArthur resume su ministerio con Nehemías 8:8: se esfuerza por «poner el sentido» en las Escrituras para que la gente pueda oír realmente a Dios y responderle. Braga aconseja que, cuando no se puede citar un texto con soltura, es mejor abrir la Escritura y leerlo. Todo esto pide una versión que la congregación entienda y otra a mano para contrastar.", "fuentes": ["1_y_2__macarthur#8", "como_preparar_mensajes__braga#107"]},
+        {"texto": "Para leer en voz alta. Nehemías 8:5-8 cuenta que se leyó el libro de la ley al pueblo y que se ponía el sentido para que se entendiera. De ahí sale un criterio, que es una conclusión de este estudio a partir del texto y no de un autor: en la lectura pública conviene una versión que quienes escuchan puedan entender al oído, porque la meta es que se comprenda. The Gospel Coalition anima a aprovechar varias versiones tanto en el estudio personal como en la lectura pública.", "fuentes": ["biblia", "web_tgc_biblia_traduccion#8"]},
+        {"texto": "Y una actitud para todos los casos. El artículo de Coalición por el Evangelio recuerda que Dios no nos ha dado una «traducción oficial», que es válido tener una versión favorita y que hay que evitar los ataques sin fundamento contra otras. Que una versión sea más reciente no la hace peor, y que sea más familiar no la hace mejor.", "fuentes": ["web_cpe_nvi_mitos#5"]}
+      ]
+    },
+    {
+      "titulo": "La RVR1960: por qué la usamos y qué conviene saber",
+      "parrafos": [
+        {"texto": "Casiodoro de Reina publicó la Biblia del Oso en 1569; Cipriano de Valera la revisó durante veinte años y se reimprimió en 1602. Según el video de Ligonier, esa revisión tuvo 458 cambios, y desde entonces hubo otras (1865, 1909, 1960, 1995 y la Reina Valera Actualizada de 2015), porque los idiomas cambian y se descubrieron manuscritos nuevos desde el siglo XIX.", "fuentes": ["web_cpe_nvi_mitos#1", "web_cpe_historia_reina_valera#4", "web_ligonier_historia_biblia_espanol#5"]},
+        {"texto": "En este estudio los versículos clave se transcriben en RVR1960. El expositor de Ligonier cree que sigue siendo la versión de la mayoría de las iglesias hispanas (es su apreciación, no una estadística), y el artículo de Coalición por el Evangelio la describe como una traducción excelente y de lenguaje elegante. Pero estudiar con ella pide saber que es de tipo formal, que se basa en el textus receptus (con lo visto en Romanos 8:1) y que el español de su primera versión resulta difícil para el lector de hoy.", "fuentes": ["web_ligonier_historia_biblia_espanol#5", "web_cpe_nvi_mitos#1", "web_cpe_nvi_mitos#2"]},
+        {"texto": "Ser formal tampoco la vuelve siempre literal. Una nota del artículo de Coalición por el Evangelio observa que en el Salmo 26:2 la RV60 traduce por «íntimos pensamientos» una palabra hebrea que literalmente significa «riñón». Lacueva señala que la Reina Valera traduce «paciencia» una palabra que, a su juicio, quedaría más clara como «longanimidad», y «misericordia» un término que significa «compasión». Y Beynon y Sach dicen que, aunque es literal, desde su primera publicación se descubrieron mejores manuscritos griegos, de modo que conviene usar también traducciones más recientes.", "fuentes": ["web_cpe_nvi_mitos#5", "lacueva#155", "cava_mas_profundo__beynon#91"]}
+      ]
+    }
+  ],
+  "citas": [
+    {"texto": "Dios no nos ha dado una “traducción oficial” de las Escrituras", "autor": "Emanuel Elizondo y Josué Barrios", "obra": "La Nueva Versión Internacional: 3 mitos y verdades (Coalición por el Evangelio)", "fuentes": ["web_cpe_nvi_mitos#5"]},
+    {"texto": "la paráfrasis es un medio de representar al original con más libertad en la lengua vernácula", "autor": "James Braga", "obra": "Cómo preparar mensajes bíblicos", "fuentes": ["como_preparar_mensajes__braga#107"]}
+  ],
+  "palabras": [
+    {"original": "τοῦτο", "translit": "toûto", "idioma": "griego", "ref": "Ef 2:8", "significado": "«Esto». Stott señala que es un pronombre neutro, mientras que «fe» es un sustantivo femenino; por eso, a su juicio, remite a toda la frase anterior y no solo a la fe.", "fuentes": ["el_mensaje_de__stott#66"]},
+    {"original": "μονογενής", "translit": "monogenés", "idioma": "griego", "ref": "Jn 3:16", "significado": "Aplicada a Jesús, Grudem explica que se la derivó de «solo» y «engendrar» (de ahí «unigénito»), pero que estudios lingüísticos del siglo XX la relacionan con «clase» o «tipo»: «único en su tipo».", "fuentes": ["grudem#1311"]}
+  ],
+  "cristo": [
+    {"texto": "La Escritura de Jesús y de los apóstoles. El expositor de Ligonier hace notar que tanto Jesús como los apóstoles usaron una traducción del Antiguo Testamento hebreo al griego, la Septuaginta, y concluye que Dios aprueba la traducción de la Biblia. The Gospel Coalition añade que la mayoría de las citas del Antiguo Testamento en el Nuevo vienen de ella. Lo explícito es la cita; que respalde la traducción como práctica es la inferencia del expositor.", "refs": ["Ef 2:8-10"], "fuentes": ["web_ligonier_historia_biblia_espanol#6", "web_tgc_biblia_traduccion#4"]},
+    {"texto": "Creados en Cristo Jesús. Efesios 2:10 dice que somos hechura de Dios, «creados en Cristo Jesús para buenas obras». Stott subraya que las buenas obras no son el fundamento ni el medio de la salvación, sino su consecuencia y evidencia: la salvación es una nueva creación que Dios hace en Cristo.", "refs": ["Ef 2:10", "Ef 2:8-9"], "fuentes": ["el_mensaje_de__stott#67"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Qué filosofía de traducción conviene priorizar para estudiar?",
+      "posturas": [
+        {"postura": "El ensayo de The Gospel Coalition sostiene que, como el objetivo de traducir es transferir el significado, la equivalencia funcional es el mejor método; reconoce que ambos tipos tienen fortalezas y debilidades y anima a usar una variedad de versiones.", "quien": "The Gospel Coalition (ensayo sobre la Biblia en traducción)", "fuentes": ["web_tgc_biblia_traduccion#2", "web_tgc_biblia_traduccion#3"]},
+        {"postura": "Beynon y Sach recomiendan sumar una versión literal a quien suele usar una dinámica, porque la dinámica a veces oculta detalles del texto, como las palabras conectoras de Romanos 1:14-18.", "quien": "Beynon y Sach", "fuentes": ["cava_mas_profundo__beynon#91", "cava_mas_profundo__beynon#92"]}
+      ],
+      "nota": "No se contradicen del todo: ambas piden más de una versión. Difieren en qué ponen primero, el significado o los detalles de la forma. Este día no zanja esa diferencia."
+    },
+    {
+      "tema": "¿A qué se refiere «esto» en Efesios 2:8: «y esto no de vosotros, pues es don de Dios»?",
+      "posturas": [
+        {"postura": "Stott explica que algunos lo refieren a la fe, lo cual es teológicamente cierto según otros textos, pero que el pronombre es neutro y «fe» es femenino, de modo que, a su juicio, remite a toda la salvación por gracia mediante la fe.", "quien": "Stott", "fuentes": ["el_mensaje_de__stott#66"]},
+        {"postura": "McGee, al comentar el versículo, dice que la fe es lo único que el pecador aporta, pero que ahí se la presenta como don de Dios; y agrega, con Romanos 10:17, que Dios da fe a quienes prestan atención al mensaje del evangelio.", "quien": "McGee", "fuentes": ["efesios_comentario_biblico__mcgee#123"]}
+      ],
+      "nota": "Los dos coinciden en que la salvación entera es don de Dios y en que no hay lugar para gloriarse; la pregunta es qué señala el pronombre. Cuando el estudio llegue a la gracia y la fe salvadora, se verá con más autores."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Neh 8:8", "nota": "El modelo de lectura pública: «claramente» y con el sentido puesto, para que el pueblo entendiera.", "fuentes": ["biblia"]},
+    {"ref": "Sal 119:105", "nota": "La Palabra alumbra el camino cuando se comprende lo que dice; por eso importa una versión clara.", "fuentes": ["biblia"]},
+    {"ref": "2 Ti 2:15", "nota": "MacArthur lo une a Nehemías 8:8: conocer la Palabra de verdad es lo que permite que el pueblo de Dios entienda.", "fuentes": ["1_y_2__macarthur#8"]},
+    {"ref": "Ro 8:17", "nota": "Lacueva señala que el «si es que» de la Reina Valera podría confundir y propone leerlo como señal de que se compartirá la gloria.", "fuentes": ["lacueva#264"]}
+  ],
+  "para_vivir": [
+    {"texto": "Leé Efesios 2:8-10 en tu versión habitual y en una de filosofía distinta. Anotá una diferencia y preguntate qué decisión tomó cada traductor; Coleman sugiere comparar versiones porque a veces se capta en una lo que no se captó en otra.", "fuentes": ["como_ensenar_la__f#95"]},
+    {"texto": "Armá un pequeño «equipo de versiones»: una más literal, una intermedia y, si querés, una de lenguaje común, con las notas al pie a la vista. Beynon y Sach aconsejan completar con una literal a quien suele leer una dinámica.", "fuentes": ["cava_mas_profundo__beynon#91"]},
+    {"texto": "Si vas a leer en público o a enseñar, elegí una versión que quienes escuchan puedan entender (Nehemías 8:8), y tratá las paráfrasis con la cautela que pide Braga: sirven para iluminar, no para fundar una enseñanza.", "fuentes": ["biblia", "como_preparar_mensajes__braga#107"]}
+  ],
+  "para_reflexionar": [
+    "¿Con qué versión estudiás y con cuál leés en la iglesia? ¿Sabés si es formal, funcional o una paráfrasis, y qué texto base usa?",
+    "Pensá en un pasaje que siempre entendiste de una manera. ¿Qué cambia si lo leés en otra versión? ¿Qué decisión de traducción hay detrás?",
+    "Si alguien en tu iglesia defiende «la única Biblia buena», ¿cómo conversarías con esa persona sin atacar y sin ceder en lo esencial (Efesios 4:29)?"
+  ],
+  "para_orar": "Señor, gracias porque tu Palabra llegó a mi idioma y porque hubo quienes dieron la vida para que yo pudiera leerla. Dame humildad para comparar y comprender, y no para discutir; que lea tu Palabra de modo que la entienda, y que lo que entienda me lleve a vos y a obedecerte. Amén.",
+  "profundizar": [
+    {"titulo": "El caso de monogenés: ¿«unigénito» o «único»?", "texto": "Grudem dedica un apéndice a esta palabra, que Juan aplica a Jesús en Juan 1:14, 18; 3:16, 18 y 1 Juan 4:9. Sostiene que la controversia sobre «unigénito» se basó en una mala interpretación: estudios del siglo XX la ligan con «clase» o «tipo» y no con «engendrar». Lo apoya con Hebreos 11:17, donde Isaac es llamado monogenés de Abraham aunque Abraham tuvo también otro hijo, e Isaac, a su juicio, es el único de su tipo. Considera que «unigénito», que según él viene de la Reina Valera, resulta más confuso que útil. Lacueva, en cambio, glosa el término como «único engendrado» sin discutir el punto, y el artículo de Coalición por el Evangelio señala que en Juan 1:18 los manuscritos más antiguos dicen «Dios unigénito». Una sola palabra reúne así la traducción, el texto base y la interpretación.", "fuentes": ["grudem#1311", "grudem#1312", "lacueva#264", "web_cpe_nvi_mitos#3"]}
+  ]
+}

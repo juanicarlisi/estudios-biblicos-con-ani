@@ -87,8 +87,9 @@ def verificar(n):
                 w = norm(a).split()
                 if w: ap_citados.add(w[-1])
         ntxt = norm(txt)
-        for ap in sorted({norm(a).split()[-1] for b in LIB.values() if b['repo'] != 'web' for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', b['autor'] or '')) if norm(a).split()} - {'varios', 'autores', 'editores', 'serie'}):
-            if len(ap) > 4 and ap not in ap_citados and re.search(rf'\b{ap}\b', ntxt) and not re.search(rf'\b{ap}\b', base):
+        base_aut = base + ' ' + ' '.join(norm(LIB[i2].get('url', '')) + ' ' + ' '.join(limpio(x) for x in paginas(i2)) for i2 in {i3 for i3, _ in textos} if LIB[i2]['repo'] == 'web')   # el autor de una fuente web puede figurar en su URL
+        for ap in sorted({norm(a).split()[-1] for b in LIB.values() if b['repo'] != 'web' for a in re.split(r'\s+y\s+|,|;', re.sub(r'\(.*?\)', '', b['autor'] or '')) if norm(a).split()} - {'varios', 'autores', 'editores', 'serie', 'otros', 'otras', 'colaboradores', 'equipo', 'redacción', 'general', 'generales'}):
+            if len(ap) > 4 and ap not in ap_citados and re.search(rf'\b{ap}\b', ntxt) and not re.search(rf'\b{ap}\b', base_aut):
                 f(ruta, 'autores', f'nombra a «{ap}» sin citar un libro suyo ni figurar en las páginas citadas')
         for m in RE_REF.finditer(txt):
             refs_dia.add(m.group(0))
@@ -118,6 +119,7 @@ def verificar(n):
 if __name__ == '__main__':
     ns = [int(a) for a in sys.argv[1:]] or sorted(int(os.path.basename(p)[4:7]) for p in glob.glob(f'{V}/dias/dia_*.json'))
     for n in ns:
+        if not os.path.exists(f'{V}/dias/dia_{n:03d}.json'): print(f'día {n}: todavía no existe'); continue
         tot, fl = verificar(n)
         print(f'día {n}: {"OK" if not fl else f"{len(fl)} marcas"} · {tot} palabras')
         for x in fl: print('   ', x)

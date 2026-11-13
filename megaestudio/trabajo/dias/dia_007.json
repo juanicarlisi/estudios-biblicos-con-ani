@@ -1,0 +1,128 @@
+{
+  "dia": 7,
+  "titulo": "¿Qué es el canon y por qué importa?",
+  "bajada": "Si Dios habló y su Palabra quedó escrita, hace falta saber cuáles son esos libros. Hoy vemos qué significa «canon», qué lo distingue de una simple colección de escritos útiles y quién determina qué entra y qué no.",
+  "minutos": {"lectura": 6, "estudio": 22},
+  "lectura": {"pasaje": "Lucas 24:25-27, 44-49; 2 Pedro 3:14-16", "porque": "En el primer texto Jesús resucitado recorre las Escrituras que ya existían; en el segundo, un apóstol pone las cartas de Pablo junto a ellas. Entre los dos se ve cómo nace la idea de una lista autorizada."},
+  "versiculos": [
+    {"ref": "Lucas 24:44", "porque": "Jesús mismo habla de las Escrituras como un conjunto reconocido, con sus partes, que se cumple en él."},
+    {"ref": "2 Pedro 3:16", "porque": "Pedro coloca las cartas de Pablo entre «las otras Escrituras»."}
+  ],
+  "entrada": {
+    "texto": "Cuando abrís tu Biblia das por sentado algo enorme: que esos libros, y no otros, son la Palabra de Dios. Casi nunca nos preguntamos de dónde sale esa lista ni quién la fijó. Wayne Grudem sostiene que no es un asunto menor: para confiar en Dios y obedecerle del todo necesitamos una colección de la que estemos seguros que contiene sus propias palabras.\n\nEs el primer día de una serie sobre cómo llegó la Biblia hasta nosotros. Hoy ponemos los cimientos: qué quiere decir «canon», para qué sirve y quién lo determina. El detalle de cada testamento viene en los días siguientes.",
+    "fuentes": ["grudem#56"]
+  },
+  "apartados": [
+    {
+      "titulo": "Una caña que se volvió regla",
+      "parrafos": [
+        {"texto": "La palabra «canon» viene del griego kanón. MacArthur explica que originalmente significaba una caña o vara, y que como las varas se usaban para medir, el término pasó a significar «estándar» o «regla». En el Nuevo Testamento aparece cuatro veces, siempre en sentido figurado: tres en 2 Corintios 10, donde Pablo habla de un límite, y una en Gálatas 6:16, donde se refiere a una norma para la vida del creyente.", "fuentes": ["macarthur_ts#155", "macarthur_ts#156"]},
+        {"texto": "Con la Biblia se usó más tarde. Según Ryrie, en la iglesia primitiva se aplicaba a los credos, y hacia mediados del siglo cuarto empezó a usarse para la lista de libros reconocidos. MacArthur agrega que fue Atanasio quien primero lo aplicó a las Escrituras, poco después del 350.", "fuentes": ["ryrie#47", "macarthur_ts#156"]},
+        {"texto": "Ryrie subraya una doble significación. Por un lado es la lista de libros que cumplieron ciertas pruebas y por eso se consideraron autoritativos. Por otro, esa colección constituye la regla de nuestra vida. Grudem lo dice más sencillo: el canon es la lista de todos los libros que pertenecen a la Biblia.", "fuentes": ["ryrie#47", "grudem#56"]}
+      ],
+      "destacado": {"texto": "«Canon» dice dos cosas a la vez: cuáles son los libros y que esos libros son la regla con la que se mide la vida.", "fuentes": ["ryrie#47"]}
+    },
+    {
+      "titulo": "Por qué hace falta una lista",
+      "parrafos": [
+        {"texto": "Grudem parte de lo que Moisés dijo sobre la ley: no son palabras vanas, porque de ellas depende la vida del pueblo (Deuteronomio 32:47). Y argumenta que añadir o quitar palabras de Dios impediría obedecerlo del todo: lo que se quitara no se conocería y lo que se añadiera podría exigir lo que Dios no ordenó. Por eso Moisés advirtió «No añadiréis a la palabra que yo os mando» (Deuteronomio 4:2). Si dudáramos de una sección de la Biblia, dice Grudem, no confiaríamos en ella tanto como en Dios mismo.", "fuentes": ["grudem#56"]},
+        {"texto": "MacArthur ve esta necesidad desde el principio: con la redacción de la Torá hay un claro mandamiento de Dios de reconocer y preservar su revelación escrita. Un texto muestra el comienzo: Moisés manda a los levitas «Tomad este libro de la ley, y ponedlo al lado del arca del pacto» (Deuteronomio 31:24-26). Grudem ve ahí, evidentemente, el libro de Deuteronomio; MacArthur, el Pentateuco aceptado como Palabra con autoridad divina.", "fuentes": ["macarthur_ts#156", "grudem#57", "macarthur_ts#157"]},
+        {"texto": "Tener una lista no significa que todo lo valioso esté en ella. Grudem recuerda que Jerónimo, aunque incluyó los libros apócrifos en la Vulgata latina, dijo que no eran «libros del canon» sino «libros de la iglesia», útiles para los creyentes; y que Atanasio, en su carta pascual de 367, indicó algunos libros que no estaban en el canon pero que los padres señalaban para quienes se acercaban a la fe. La Coalición por el Evangelio agrega que Orígenes admitía leerlos con provecho, aunque no como Escritura.", "fuentes": ["grudem#59", "grudem#60", "web_cpe_libros_apocrifos#2"]},
+        {"texto": "Lo mismo vale para el Nuevo Testamento. Matthew Leighton, en la Coalición por el Evangelio, menciona El pastor de Hermas: no era necesariamente un mal escrito, pero no tenía la garantía de autoridad de los documentos apostólicos. La pregunta del canon no es si el libro es útil, sino si son palabras de Dios con autoridad sobre su pueblo.", "fuentes": ["web_cpe_canon_nt#2"]}
+      ],
+      "destacado": {"texto": "Un libro puede ser provechoso para leer y, aun así, no ser regla de fe y de vida. Esa es la diferencia entre una colección útil y el canon.", "fuentes": ["grudem#60", "web_cpe_canon_nt#2"]}
+    },
+    {
+      "titulo": "El Antiguo Testamento: un conjunto que Jesús ya reconocía",
+      "parrafos": [
+        {"texto": "Grudem muestra que la Biblia misma testifica cómo creció la colección. Empezó con los Diez Mandamientos, escritos por el dedo de Dios y puestos en el arca (Éxodo 31:18; Deuteronomio 10:5). Siguió con Moisés, y con lo que añadieron Josué (Josué 24:26), Samuel (1 Samuel 10:25) y otros que, por lo general, ejercían el oficio de profeta. Según Grudem, las adiciones cesaron hacia el 435 a.C., con Malaquías. Lo apoyan los testimonios de que la profecía había callado: 1 Macabeos espera la venida de un profeta, y Josefo dice que los escritos posteriores a Artajerjes no merecían igual crédito por la interrupción de la sucesión de profetas.", "fuentes": ["grudem#56", "grudem#57", "grudem#58"]},
+        {"texto": "Y está Jesús. Resucitado, explicó a los discípulos desde Moisés y los profetas lo que las Escrituras decían de él (Lucas 24:25-27) y les recordó que debía cumplirse todo lo escrito en «la ley de Moisés, en los profetas y en los salmos» (Lucas 24:44). MacArthur ve en estos versículos el reconocimiento de Jesús del Antiguo Testamento de su tiempo, y nota que ningún autor del Nuevo Testamento cita un texto apócrifo. Ryrie agrega que al hablar de la sangre de los justos «desde Abel hasta Zacarías» (Lucas 11:51), Jesús abarcó de Génesis a 2 Crónicas, el último libro del orden de la Biblia hebrea.", "fuentes": ["macarthur_ts#155", "ryrie#48", "macarthur_ts#158"]},
+        {"texto": "Grudem suma un dato elocuente: en el Nuevo Testamento no hay registro de disputa entre Jesús y los dirigentes judíos sobre la extensión de las Escrituras, aunque discutieron por muchas otras cosas. La Coalición por el Evangelio observa lo mismo. El detalle de este canon se estudia en el día 8.", "fuentes": ["grudem#59", "web_cpe_canon_biblico#2"]}
+      ]
+    },
+    {
+      "titulo": "El Nuevo Testamento: la promesa de Jesús y el testimonio apostólico",
+      "parrafos": [
+        {"texto": "¿Por qué esperar más Escritura? Leighton responde que cuando Dios obró para salvar a su pueblo siempre dio textos inspirados que registraran esos hechos, y que con el nuevo pacto en Jesús era de esperar más. Grudem recuerda la promesa de Jesús: el Espíritu Santo les enseñaría todas las cosas y les haría recordar lo que él había dicho (Juan 14:26) y los guiaría a toda la verdad (Juan 16:13). Los apóstoles hablaron con esa conciencia: Pablo escribe «lo que os escribo son mandamientos del Señor» (1 Corintios 14:37).", "fuentes": ["web_cpe_canon_nt#1", "grudem#62", "grudem#63"]},
+        {"texto": "Dos textos ya equiparan los escritos nuevos con los antiguos. En 2 Pedro 3:15-16, Pedro dice que Pablo escribió con la sabiduría que Dios le dio y que algunos tuercen sus cartas como hacen con «las otras Escrituras». Grudem observa que la palabra griega para «Escritura» (grafé) se usa en el Nuevo Testamento siempre para las Escrituras del Antiguo, de modo que Pedro coloca los escritos de Pablo en esa categoría. En 1 Timoteo 5:18 Pablo llama «Escritura» a una cita de Deuteronomio 25:4 y a una frase que aparece en Lucas 10:7: «Digno es el obrero de su salario».", "fuentes": ["grudem#63", "grudem#64", "ryrie#48"]},
+        {"texto": "Después vino un proceso. MacArthur lo describe en tres etapas: circulación, recopilación y reconocimiento. A mediados del siglo II, el hereje Marción publicó su propia lista (un Lucas abreviado y diez cartas de Pablo), y eso pudo obligar a la iglesia a responder formalmente qué libros eran canon. Hacia el 170, el fragmento muratoriano enumera libros a aceptar y otros a excluir. Grudem sitúa las listas finales más tempranas en 367, con Atanasio en el este, y en 397, cuando el concilio de Cartago coincidió desde el oeste (MacArthur ubica las cartas festivas de Atanasio en 365). El día 9 profundiza en este proceso.", "fuentes": ["macarthur_ts#159", "macarthur_ts#160", "grudem#66", "macarthur_ts#161"]}
+      ]
+    },
+    {
+      "titulo": "Con qué criterios se reconoce un libro",
+      "parrafos": [
+        {"texto": "MacArthur resume tres principios usados a lo largo de los siglos: que lo hubiera escrito un profeta o un apóstol, o alguien relacionado con ellos (como Marcos, Lucas, Hebreos, Santiago y Judas); que no contradijera textos anteriores; y que la iglesia mostrara un consenso general de que era inspirado. Y aclara que en los concilios la canonicidad de un libro no se votaba: se reconocía. Ryrie propone tres pruebas parecidas: autoridad, singularidad y aceptación por las iglesias.", "fuentes": ["macarthur_ts#154", "macarthur_ts#162", "ryrie#48"]},
+        {"texto": "Grudem pone en el centro algo anterior a cualquier criterio: para que un libro pertenezca al canon es necesario que tenga autoría divina. La autoría apostólica importa porque Dios dio a los apóstoles la capacidad de escribir con autoridad absoluta. Para los cinco libros que no escribió un apóstol (Marcos, Lucas, Hechos, Hebreos y Judas), ve una combinación de factores: el respaldo de apóstoles, la congruencia con el resto de las Escrituras y la percepción, entre los creyentes, de que eran inspirados. Un caso claro es Hebreos: Orígenes dijo que solo Dios sabe quién lo escribió.", "fuentes": ["grudem#64", "grudem#65", "grudem#66"]},
+        {"texto": "La Coalición por el Evangelio ordena tres atributos: cualidades divinas (belleza, poder, unidad), recepción por el pueblo de Dios en conjunto y escritores autorizados. Las cualidades divinas se reconocen, dice, por el testimonio interno del Espíritu Santo, y lo vincula con «Mis ovejas oyen mi voz» (Juan 10:27).", "fuentes": ["web_cpe_canon_biblico#3", "web_cpe_canon_biblico#4"]}
+      ],
+      "destacado": {"texto": "En los concilios, la canonicidad de un libro no se sometía a votación: se reconocía que Dios era su autor.", "fuentes": ["macarthur_ts#154"]}
+    },
+    {
+      "titulo": "¿Quién determina el canon? Dos respuestas",
+      "parrafos": [
+        {"texto": "Aquí se separan protestantes y católicos romanos. Los autores protestantes de este día coinciden en que la Biblia no recibe su autoridad de la iglesia. Para Ryrie, los libros eran canónicos desde que se escribieron, y las personas y los concilios solo reconocieron lo que ya era verdadero. Para MacArthur, la canonicidad se basa en la inspiración y no en el proceso que llevó a cabo la compilación. Grudem lo ilustra con una analogía: la policía puede reconocer el dinero falso como falso, pero no hacerlo genuino; solo la tesorería de una nación hace dinero verdadero.", "fuentes": ["ryrie#47", "macarthur_ts#156", "grudem#61"]},
+        {"texto": "Los documentos católicos romanos dicen otra cosa. El Catecismo enseña que la Tradición apostólica hizo discernir a la Iglesia qué escritos constituyen la lista de los libros santos, que llama «canon». La constitución Dei Verbum, del Concilio Vaticano II, afirma que por esa Tradición conoce la Iglesia el canon íntegro, y que la Iglesia no deriva solamente de la Escritura su certeza sobre las verdades reveladas. El Concilio de Trento, en 1546, incluyó una lista de libros sagrados y declaró anatema a quien no los reciba enteros, como se leían en la Iglesia católica y constan en la antigua Vulgata latina. Grudem lo vincula con la discusión con Lutero.", "fuentes": ["web_catecismo_escritura#4", "web_dei_verbum#1", "web_dei_verbum#5", "web_trento_sesion4#2", "grudem#61"]}
+      ]
+    },
+    {
+      "titulo": "¿Abierto o cerrado?",
+      "parrafos": [
+        {"texto": "Si el canon es la lista de los libros inspirados, ¿pueden agregarse más? Ryrie responde que desde 397 la iglesia lo considera completo y, por lo tanto, cerrado: aun si apareciera una carta de Pablo no sería canónica, porque no todo lo que escribía un apóstol era inspirado. Grudem argumenta desde Hebreos 1:1-2: el contraste entre el hablar «en otro tiempo a los padres por los profetas» y el hablar «en estos postreros días nos ha hablado por el Hijo» indica que Dios habló en su Hijo de forma final, y los escritos del Nuevo Testamento son la interpretación autoritativa de esa obra. Apocalipsis 22:18-19, aunque se refiere en primer lugar al propio libro, tendría una aplicación secundaria a toda la Escritura.", "fuentes": ["ryrie#47", "grudem#66", "grudem#67"]},
+        {"texto": "MacArthur reconoce una dificultad: si las advertencias de no añadir (Deuteronomio 4:2; 12:32; Proverbios 30:6) fueran absolutas, no habrían llegado más libros canónicos. Concluye que prohibían sustraer, pero permitían añadir escritos inspirados que completaran el canon. Para sostener que hoy está cerrado da cinco razones: Apocalipsis cierra la Biblia como Génesis la abre; hay un silencio profético como el posterior a Malaquías; ya no hay profetas ni apóstoles autorizados; Apocalipsis 22:18-19 amenaza con severo juicio; y la iglesia primitiva creía que con Apocalipsis terminaban los escritos inspirados.", "fuentes": ["macarthur_ts#163", "macarthur_ts#164"]},
+        {"texto": "Grudem apoya, al fin, su confianza en la fidelidad de Dios, que no dejaría a su pueblo casi dos milenios sin algo que él valora tanto, y en que los creyentes han hallado a lo largo de las edades que las palabras de la Biblia les hablan con una autoridad que ningún otro escrito posee.", "fuentes": ["grudem#68", "grudem#69"]}
+      ]
+    }
+  ],
+  "citas": [
+    {"texto": "El canon de la Biblia es la lista de todos los libros que pertenecen a la Biblia.", "autor": "Wayne Grudem", "obra": "Teología sistemática", "fuentes": ["grudem#56"]},
+    {"texto": "Ningún libro de la Biblia fue hecho canónico por la acción de algún concilio de la iglesia.", "autor": "Charles Ryrie", "obra": "Teología básica", "fuentes": ["ryrie#47"]},
+    {"texto": "La iglesia no confirió autoridad al canon. Lo que la iglesia hizo fue recibir y dar testimonio acerca de los libros inspirados", "autor": "Matthew Leighton", "obra": "¿Cómo se formó el canon del Nuevo Testamento? (Coalición por el Evangelio)", "fuentes": ["web_cpe_canon_nt#1"]}
+  ],
+  "palabras": [
+    {"original": "κανών", "translit": "kanón", "idioma": "griego", "ref": "Gá 6:16", "significado": "Originalmente caña o vara para medir; de ahí «estándar» o «regla». En el Nuevo Testamento aparece cuatro veces en sentido figurado (2 Co 10:13, 15-16 y Gá 6:16). Hacia mediados del siglo IV se aplicó a la lista de libros reconocidos como Escritura.", "fuentes": ["macarthur_ts#155", "macarthur_ts#156", "ryrie#47"]},
+    {"original": "γραφή", "translit": "grafé", "idioma": "griego", "ref": "2 P 3:16", "significado": "«Escritura». Grudem anota que en el Nuevo Testamento se aplica siempre a las Escrituras del Antiguo, por lo que es un término técnico para escritos considerados palabra de Dios. De ahí la fuerza de que Pedro ponga las cartas de Pablo entre «las otras Escrituras».", "fuentes": ["grudem#63", "grudem#64"]}
+  ],
+  "cristo": [
+    {"texto": "El que lee las Escrituras como un conjunto que habla de él. En Lucas 24:25-27, 44 Jesús recorre «la ley de Moisés, en los profetas y en los salmos» y dice que todo lo escrito de él debía cumplirse. Eso lo afirma el texto mismo: para Jesús las Escrituras ya formaban un conjunto reconocido, con él como centro de su cumplimiento. MacArthur ve en este pasaje el reconocimiento del canon de su tiempo.", "refs": ["Lc 24:25-27", "Lc 24:44"], "fuentes": ["macarthur_ts#155", "macarthur_ts#158"]},
+    {"texto": "El que promete más palabra y habla de forma final. Grudem lee en la promesa del Espíritu (Jn 14:26; 16:13) la base de los escritos apostólicos, y en Hebreos 1:1-2 la razón de que la lista se cierre. Lo primero es una promesa explícita de Jesús; lo segundo es la inferencia de Grudem a partir del texto, no una frase del Nuevo Testamento sobre el canon.", "refs": ["Jn 14:26", "Jn 16:13", "Heb 1:1-2"], "fuentes": ["grudem#62", "grudem#63", "grudem#66", "grudem#67"]}
+  ],
+  "interpretaciones": [
+    {
+      "tema": "¿Quién determina el canon: la Iglesia o Dios?",
+      "posturas": [
+        {"postura": "La Iglesia reconoce, no crea. Los libros son canónicos desde que se escribieron, porque son inspirados, y las personas y los concilios solo reconocieron esa autoridad. Grudem usa la analogía del dinero falsificado; MacArthur y Ryrie fundan la canonicidad en la inspiración; y Leighton sostiene que la autoridad del canon reside en sí mismo.", "quien": "Grudem, MacArthur, Ryrie y la Coalición por el Evangelio", "fuentes": ["grudem#61", "macarthur_ts#156", "ryrie#47", "web_cpe_canon_nt#3"]},
+        {"postura": "Según sus propios documentos, la Tradición apostólica hizo discernir a la Iglesia qué escritos son los libros santos (Catecismo), y por esa Tradición la Iglesia conoce el canon íntegro (Dei Verbum); Trento publicó la lista y declaró anatema a quien no la reciba. MacArthur describe esta posición como la autoridad de la Iglesia para decidir qué libros forman la Biblia, mientras los documentos hablan de que la Iglesia «discierne» y «conoce» el canon. Este día no zanja esa diferencia de descripción.", "quien": "Catecismo de la Iglesia Católica, Dei Verbum y Concilio de Trento (MacArthur los describe desde fuera)", "fuentes": ["web_catecismo_escritura#4", "web_dei_verbum#1", "web_dei_verbum#5", "web_trento_sesion4#2", "macarthur_ts#156"]}
+      ],
+      "nota": "El papel de la Tradición frente a la Escritura se trata en el día 6, y los apócrifos y los escritos gnósticos en el día 10. Aquí solo se muestra lo que dice cada fuente."
+    },
+    {
+      "tema": "¿Cuántos libros tiene el Antiguo Testamento?",
+      "posturas": [
+        {"postura": "Treinta y nueve libros, los de la Biblia hebrea, sin los apócrifos. Grudem y MacArthur argumentan que los judíos nunca los aceptaron y que Jesús y los apóstoles no los citan como Escritura.", "quien": "Grudem y MacArthur", "fuentes": ["grudem#59", "macarthur_ts#155", "macarthur_ts#158"]},
+        {"postura": "El Catecismo cuenta cuarenta y seis escritos para el Antiguo Testamento (cuarenta y cinco si se cuentan Jeremías y Lamentaciones como uno), y el decreto de Trento incluye en su lista a Tobías, Judit, Sabiduría, Eclesiástico, Baruc y los dos libros de Macabeos.", "quien": "Catecismo de la Iglesia Católica y Concilio de Trento", "fuentes": ["web_catecismo_escritura#4", "web_trento_sesion4#2"]}
+      ],
+      "nota": "Es el punto de división más conocido en la historia del canon; se examina con las razones de cada parte en los días 8 y 10."
+    }
+  ],
+  "conexiones": [
+    {"ref": "Dt 4:2", "nota": "La advertencia de no añadir ni quitar a la palabra de Dios: Grudem la usa para mostrar por qué importa saber cuál es la lista.", "fuentes": ["grudem#56"]},
+    {"ref": "Jos 24:26", "nota": "Josué registra palabras en el libro de la ley de Dios: un ejemplo de cómo la colección fue creciendo.", "fuentes": ["grudem#57"]},
+    {"ref": "1 Co 14:37", "nota": "Pablo afirma que lo que escribe es mandamiento del Señor: la conciencia apostólica de hablar con autoridad de Dios.", "fuentes": ["grudem#63"]},
+    {"ref": "Jn 10:27", "nota": "«Mis ovejas oyen mi voz»: la Coalición por el Evangelio lo usa para explicar cómo el pueblo de Dios reconoce su Palabra.", "fuentes": ["web_cpe_canon_biblico#3"]},
+    {"ref": "Ap 22:18-19", "nota": "Grudem lo lee como aplicación secundaria a toda la Escritura; MacArthur, como indicio fuerte de que Apocalipsis es el último libro.", "fuentes": ["grudem#67", "macarthur_ts#164"]}
+  ],
+  "para_vivir": [
+    {"texto": "Agradecé tu Biblia como un regalo concreto. Grudem señala que Dios obró también en la preservación y compilación de las Escrituras para beneficio de su pueblo.", "fuentes": ["grudem#68"]},
+    {"texto": "Distinguí entre lo útil y lo autoritativo. Un devocional o una biografía cristiana pueden ayudarte mucho, pero no son regla de fe y de vida; ya los padres de la iglesia separaban los libros para leer de los canónicos.", "fuentes": ["grudem#60", "ryrie#47"]},
+    {"texto": "Leé las partes del canon que menos frecuentás. Si las palabras de la Escritura son aquellas con las que Grudem dice que nutrimos la vida espiritual, saltearse libros es dejar parte de ese alimento afuera.", "fuentes": ["grudem#56"]}
+  ],
+  "para_reflexionar": [
+    "Si alguien te preguntara por qué la Biblia tiene estos libros y no otros, ¿qué le responderías hoy?",
+    "Grudem dice que, si dudáramos de si una parte de la Biblia es de Dios, no confiaríamos en ella tanto como en Dios mismo. ¿Hay algún libro o pasaje al que te acercás con más recelo? ¿Por qué?",
+    "Si la autoridad de estos libros viene de Dios y no de una decisión humana, ¿qué cambia en tu manera de leerlos?"
+  ],
+  "para_orar": "Padre, gracias porque hablaste y porque tu Palabra quedó escrita para que podamos conocerte. Gracias por quienes la copiaron, la guardaron y la reconocieron a lo largo de los siglos. Enseñame a oír tu voz en cada libro de la Escritura y a recibirla como tuya y no como me resulta cómodo. Amén.",
+  "profundizar": [
+    {"titulo": "Los escritos que algunos quisieron incluir y no entraron", "texto": "Grudem examina los escritos que alguna vez se consideraron para el canon. Ignacio, alrededor del 110, se distinguió con claridad de los apóstoles; otros textos contienen renuncias explícitas a su estatus canónico o aberraciones doctrinales que, a su juicio, los hacen indignos de la Biblia, como El pastor de Hermas y el Evangelio de Tomás. Y en otros casos, como 2 Pedro o 2 y 3 Juan, la tardanza en aceptarlos se debió, según él, a que al principio no circularon ampliamente.", "fuentes": ["grudem#69", "grudem#70"]}
+  ]
+}

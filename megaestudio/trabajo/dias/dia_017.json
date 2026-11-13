@@ -2,126 +2,456 @@
   "dia": 17,
   "titulo": "Por qué interpretar bien importa",
   "bajada": "Leer la Biblia no es lo mismo que entenderla. ¿Qué son la hermenéutica, la exégesis y la eiségesis, qué distancias nos separan del texto, y qué muestran Satanás, los discípulos de Emaús y el eunuco etíope sobre interpretar bien o mal?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Hechos 8:26-39; Mateo 4:1-11", "porque": "Dos escenas con la Escritura en la mano: un hombre que lee y necesita que se la expliquen, y un tentador que cita el texto con las palabras bien puestas y el sentido torcido."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Hechos 8:26-39; Mateo 4:1-11",
+    "porque": "Dos escenas con la Escritura en la mano: un hombre que lee y necesita que se la expliquen, y un tentador que cita el texto con las palabras bien puestas y el sentido torcido."
+  },
   "versiculos": [
-    {"ref": "2 Timoteo 2:15", "porque": "Pablo le pide a Timoteo un trabajo cuidadoso con la Palabra, sin nada de qué avergonzarse."},
-    {"ref": "Hechos 8:30-31", "porque": "La pregunta de Felipe y la respuesta honesta del eunuco: leer no alcanza, hace falta quien enseñe."}
+    {
+      "ref": "2 Timoteo 2:15",
+      "porque": "Pablo le pide a Timoteo un trabajo cuidadoso con la Palabra, sin nada de qué avergonzarse."
+    },
+    {
+      "ref": "Hechos 8:30-31",
+      "porque": "La pregunta de Felipe y la respuesta honesta del eunuco: leer no alcanza, hace falta quien enseñe."
+    }
   ],
   "entrada": {
-    "texto": "Tener la Biblia en la mano y entender lo que dice son dos cosas distintas, y la propia Biblia lo muestra. Un funcionario etíope leía a Isaías en su carro y no sabía de quién hablaba el profeta. Dos discípulos camino a Emaús conocían las Escrituras y, según el comentario de MacArthur a Lucas, tenían un entendimiento deficiente de ellas. Y en el desierto alguien citó el Salmo 91 con todas las palabras en su lugar para empujar a Jesús a un error.\n\nHoy vemos por qué interpretar bien importa, cómo se llaman las cosas (hermenéutica, exégesis, eiségesis), qué distancias hay entre nosotros y el texto, y qué enseñan esas tres escenas.",
-    "fuentes": ["hechos_comentario__archivo#149", "lucas_comentario__macarthur#950", "comentario_biblico_beacon__earle#49"]
+    "texto": "Tener la Biblia en la mano y entender lo que dice son dos cosas distintas, y la propia Biblia lo muestra. Un funcionario etíope leía a Isaías en su carro y no sabía de quién hablaba el profeta. Dos discípulos camino a Emaús conocían las Escrituras y, según el comentario de MacArthur a Lucas, las entendían mal. Y en el desierto alguien citó el Salmo 91 con todas las palabras en su lugar para empujar a Jesús a un error.\n\nHoy vemos por qué interpretar bien importa, cómo se llaman las cosas (hermenéutica, exégesis, eiségesis), qué distancias hay entre nosotros y el texto, y qué enseñan esas tres escenas.",
+    "fuentes": [
+      "hechos_comentario__archivo#149",
+      "lucas_comentario__macarthur#950",
+      "comentario_biblico_beacon__earle#49"
+    ]
   },
   "apartados": [
     {
       "titulo": "Por qué no es opcional",
       "parrafos": [
-        {"texto": "La Coalición por el Evangelio define interpretar como descubrir, a nivel personal, lo que Dios quiso que el texto significara al revelarse por medio de sus autores humanos. Y dice sin rodeos que no es una opción para el cristiano. Lo apoya en Esdras, que dedicó su corazón a estudiar la ley del Señor, a practicarla y a enseñarla (Esdras 7:10), y en Pablo, que le dice a Timoteo que considere lo que le escribe porque el Señor le dará entendimiento en todo (2 Timoteo 2:7). Según el ensayo, la Palabra se le da al sencillo y no solo al erudito, pero eso no quita el esfuerzo de estudiarla para hacer fielmente lo que pide.", "fuentes": ["web_cpe_interpretacion#1", "web_cpe_interpretacion#2"]},
-        {"texto": "Esa preocupación ya está en Nehemías 8:8: el pueblo escuchaba la lectura de la ley, y los levitas la explicaban de modo que se entendiera. MacArthur lo toma como lema de su trabajo de expositor: poner «el sentido» en las Escrituras para que la gente oiga realmente a Dios hablando y pueda responderle.", "fuentes": ["biblia", "comentario_macarthur_del__macarthur#10"]},
-        {"texto": "Pablo usa una imagen de oficio en 2 Timoteo 2:15. Samuel Pérez Millos explica que el verbo que se traduce «usa bien» significa seguir la línea recta, y que se empleaba para quien corta una tela derecho. Aplicado a la enseñanza, quiere decir exponer la Palabra con precisión, y eso exige estudio, oración y dependencia de Dios. Millos cita a Hendriksen: quien maneja bien la Palabra no la cambia, no la pervierte, no la mutila ni la distorsiona.", "fuentes": ["1_y_2__millos#374", "1_y_2__millos#375"]},
-        {"texto": "Hay un motivo más grave. En su comentario a Lucas, MacArthur sostiene que un conocimiento deficiente de la Biblia es insuficiente y peligroso, y que el mayor servicio que se le puede prestar a alguien es explicarle el significado de las Escrituras. Por eso, dice, Jesús no se limitó a consolar a los discípulos de Emaús: les abrió el Antiguo Testamento.", "fuentes": ["lucas_comentario__macarthur#950"]}
+        {
+          "texto": "La Coalición por el Evangelio define interpretar como descubrir, a nivel personal, lo que Dios quiso que el texto significara al revelarse por medio de sus autores humanos, y dice sin rodeos que no es una opción para el cristiano. Lo apoya en Esdras, que dedicó su corazón a estudiar la ley del Señor, a practicarla y a enseñarla (Esdras 7:10), y en Pablo, que le pide a Timoteo considerar lo que le escribe porque el Señor le dará entendimiento en todo (2 Timoteo 2:7). La Palabra se le da al sencillo y no solo al erudito, pero eso no quita el esfuerzo de estudiarla.",
+          "fuentes": [
+            "web_cpe_interpretacion#1",
+            "web_cpe_interpretacion#2"
+          ]
+        },
+        {
+          "texto": "Esa preocupación ya está en Nehemías 8:8: el pueblo escuchaba la lectura de la ley, y los levitas la explicaban de modo que se entendiera. MacArthur lo toma como lema de su trabajo de expositor: poner «el sentido» en las Escrituras para que la gente oiga realmente a Dios hablando y pueda responderle.",
+          "fuentes": [
+            "biblia",
+            "comentario_macarthur_del__macarthur#10"
+          ]
+        },
+        {
+          "texto": "Pablo usa una imagen de oficio en 2 Timoteo 2:15. Samuel Pérez Millos explica que el verbo que se traduce «usa bien» significa seguir la línea recta, y que se empleaba para quien corta una tela derecho. Aplicado a la enseñanza, quiere decir exponer la Palabra con precisión, y eso exige estudio, oración y dependencia de Dios. Millos cita a Hendriksen: quien maneja bien la Palabra no la cambia, no la pervierte ni la distorsiona.",
+          "fuentes": [
+            "1_y_2__millos#374",
+            "1_y_2__millos#375"
+          ]
+        },
+        {
+          "texto": "En su comentario a Lucas, MacArthur sostiene que un conocimiento deficiente de la Biblia es insuficiente y peligroso, y que el mayor servicio que se le puede prestar a alguien es explicarle las Escrituras. Por eso Jesús no se limitó a consolar a los discípulos de Emaús: les abrió el Antiguo Testamento.",
+          "fuentes": [
+            "lucas_comentario__macarthur#950"
+          ]
+        }
       ],
-      "destacado": {"texto": "Interpretar bien no es un lujo de especialistas: es parte de oír a Dios y de poder responderle.", "fuentes": ["web_cpe_interpretacion#2", "comentario_macarthur_del__macarthur#10"]}
+      "destacado": {
+        "texto": "Interpretar bien es parte de oír a Dios y de poder responderle.",
+        "fuentes": [
+          "web_cpe_interpretacion#2",
+          "comentario_macarthur_del__macarthur#10"
+        ]
+      }
     },
     {
       "titulo": "Tres palabras para no confundirse",
       "parrafos": [
-        {"texto": "Grudem distingue dos términos que se mezclan seguido. Hermenéutica, del verbo griego que significa «interpretar», es el estudio de los métodos correctos de interpretación, sobre todo de la Biblia. Exégesis es la práctica misma: el proceso de interpretar un pasaje. Cuando se estudian los principios, se hace hermenéutica; cuando se los aplica y se empieza a explicar un texto concreto, se hace exégesis.", "fuentes": ["grudem#113", "grudem#114"]},
-        {"texto": "En el libro sobre predicación de MacArthur y los profesores de The Master's Seminary se agrega un matiz. La hermenéutica es una ciencia, porque tiene principios con conexión orgánica entre sí, pero también un arte, porque esas reglas nunca se aplican mecánicamente y piden la habilidad del intérprete. Citan a Bernard Ramm: la hermenéutica es al exégeta lo que el libro de reglas es al juego. El libro no es el juego, pero el juego no tiene sentido sin él. Por eso definen la exégesis como la aplicación hábil de principios sólidos al texto bíblico en su idioma original, para entender y declarar lo que el autor quiso decir tanto a su audiencia inmediata como a las posteriores.", "fuentes": ["la_predicacion_como__macarthur#44"]},
-        {"texto": "La palabra exégesis, explica la Coalición por el Evangelio, viene del griego y se arma con «de, fuera de» y con «traer, mover»: sacar de un texto lo que Dios dijo por medio de sus autores. De ahí su principio central: los textos transmiten significado, no lo producen. Lo contrario es la eiségesis. Antonio Cruz la describe como hacerle decir al texto lo que a nosotros nos interesa, es decir, insertar interpretaciones personales; Ron Rhodes la presenta como interpretar el texto en lugar de deducir su significado.", "fuentes": ["web_cpe_interpretacion#5", "a_dios_por__cruz#170", "los_testigos_de__rhodes#226"]},
-        {"texto": "La declaración sobre hermenéutica bíblica del Consejo Internacional sobre la Inerrancia Bíblica (1982) toma posición en este mismo punto. Afirma que el término hermenéutica, que históricamente significaba las reglas de la exégesis, puede ampliarse a todo lo que implica percibir qué significa la revelación bíblica y cómo toca nuestra vida. Pero niega que el mensaje de la Escritura derive de la comprensión del intérprete o esté dictado por ella: el significado expresado en cada texto, dice, es único, definido y fijo, aunque admite variedad de aplicaciones.", "fuentes": ["web_chicago_hermeneutica#2"]}
+        {
+          "texto": "Grudem distingue dos términos que se mezclan seguido. Hermenéutica, del verbo griego que significa «interpretar», es el estudio de los métodos correctos de interpretación, sobre todo de la Biblia. Exégesis es la práctica misma: el proceso de interpretar un pasaje. Cuando se estudian los principios, se hace hermenéutica; cuando se los aplica y se empieza a explicar un texto concreto, se hace exégesis.",
+          "fuentes": [
+            "grudem#113",
+            "grudem#114"
+          ]
+        },
+        {
+          "texto": "En el libro sobre predicación de MacArthur y los profesores de The Master's Seminary se agrega un matiz. La hermenéutica es una ciencia, porque sus principios están conectados entre sí, pero también un arte, porque las reglas nunca se aplican mecánicamente y piden la habilidad del intérprete. Citan a Bernard Ramm: la hermenéutica es al exégeta lo que el libro de reglas es al juego; el libro no es el juego, pero el juego no tiene sentido sin él. Definen la exégesis como la aplicación hábil de principios sólidos al texto bíblico en su idioma original, para entender y declarar lo que el autor quiso decir a su audiencia inmediata y a las posteriores.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#44"
+          ]
+        },
+        {
+          "texto": "La palabra exégesis, explica la Coalición por el Evangelio, viene del griego y se arma con «de, fuera de» y con «traer, mover»: sacar de un texto lo que Dios dijo por medio de sus autores. De ahí su principio: los textos transmiten significado, no lo producen. Lo contrario es la eiségesis. Antonio Cruz la describe como hacerle decir al texto lo que a nosotros nos interesa, insertando interpretaciones personales; Ron Rhodes, como interpretar el texto en lugar de deducir su significado.",
+          "fuentes": [
+            "web_cpe_interpretacion#5",
+            "a_dios_por__cruz#170",
+            "los_testigos_de__rhodes#226"
+          ]
+        },
+        {
+          "texto": "La declaración sobre hermenéutica bíblica del Consejo Internacional sobre la Inerrancia Bíblica (1982) toma posición en este punto. Afirma que el término hermenéutica, que históricamente significaba las reglas de la exégesis, puede ampliarse a todo lo que implica percibir qué significa la revelación bíblica y cómo toca nuestra vida. Pero niega que el mensaje derive de la comprensión del intérprete: el significado de cada texto, dice, es único, definido y fijo, aunque admite variedad de aplicaciones.",
+          "fuentes": [
+            "web_chicago_hermeneutica#2",
+            "web_chicago_hermeneutica#1"
+          ]
+        }
       ]
     },
     {
       "titulo": "Las distancias entre vos y el texto",
       "parrafos": [
-        {"texto": "MacArthur y sus colegas explican que, tras observar qué dice un pasaje, interpretar es averiguar qué quiere decir, y que esa tarea consiste en gran medida en tender puentes sobre las brechas entre los escritores bíblicos y nuestra época. Nombran cuatro. La del lenguaje: la Biblia se escribió en hebreo, arameo y griego, y quien no los maneja se ayuda con diccionarios y comentarios. La cultural: entender el Antiguo Testamento pide conocer el antiguo judaísmo y la cultura pagana, los Evangelios piden la cultura judía del primer siglo, y las epístolas la griega y la romana.", "fuentes": ["la_predicacion_como__macarthur#251", "la_predicacion_como__macarthur#252"]},
-        {"texto": "La tercera es la geográfica. Su ejemplo es 1 Tesalonicenses 1:8: sorprende que la fe de los tesalonicenses se haya difundido tan rápido, pero la ciudad estaba sobre un camino principal del Imperio Romano, la Vía Ignaciana, por donde circulaba la gente. La cuarta es la histórica: conocer la relación previa de Pilato con los dirigentes judíos ayuda a explicar por qué cedió a crucificar a Jesús aunque lo había declarado inocente.", "fuentes": ["la_predicacion_como__macarthur#252", "la_predicacion_como__macarthur#253"]},
-        {"texto": "A esas distancias se suma la del género. Sproul, al comentar un artículo sobre interpretación, recuerda un principio de Lutero y los reformadores: un verbo se lee como verbo, una parábola como parábola, la poesía como poesía. Convertir la narración en poesía, o al revés, violenta el sentido que el texto quiere. La declaración de 1982 coincide: sostiene que la Escritura comunica la verdad por medio de formas literarias muy variadas y que conocer esas categorías es esencial para una buena exégesis, sin que ninguna de ellas niegue la historicidad de lo que se presenta como hecho.", "fuentes": ["puedo_confiar_en__sproul#60", "web_chicago_hermeneutica#2"]},
-        {"texto": "Ahora bien, que haya distancias no significa que el mensaje quede encerrado en el pasado. La misma declaración afirma que las traducciones pueden comunicar el conocimiento de Dios a través de las fronteras del tiempo y la cultura, y que hay mandatos válidos para todo contexto y otros que la propia Biblia muestra como propios de una situación particular. Niega que esa diferencia se decida por factores culturales o situacionales.", "fuentes": ["web_chicago_hermeneutica#2"]}
+        {
+          "texto": "MacArthur y sus colegas explican que, tras observar qué dice un pasaje, interpretar es averiguar qué quiere decir, y que eso consiste en gran medida en tender puentes sobre las brechas entre los escritores bíblicos y nuestra época. Nombran cuatro. La del lenguaje: la Biblia se escribió en hebreo, arameo y griego, y quien no los maneja se ayuda con diccionarios y comentarios. La cultural: el Antiguo Testamento pide conocer el antiguo judaísmo y la cultura pagana, los Evangelios la cultura judía del primer siglo, y las epístolas la griega y la romana.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#251",
+            "la_predicacion_como__macarthur#252"
+          ]
+        },
+        {
+          "texto": "La tercera es la geográfica. Su ejemplo es 1 Tesalonicenses 1:8: sorprende que la fe de los tesalonicenses se haya difundido tan rápido, pero la ciudad estaba sobre un camino principal del Imperio Romano, la Vía Ignaciana, por donde circulaba la gente. La cuarta es la histórica: conocer la relación previa de Pilato con los dirigentes judíos ayuda a explicar por qué cedió a crucificar a Jesús aunque lo había declarado inocente.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#252",
+            "la_predicacion_como__macarthur#253"
+          ]
+        },
+        {
+          "texto": "A esas distancias se suma la del género. Sproul, al comentar un artículo sobre interpretación, recuerda un principio de Lutero y los reformadores: un verbo se lee como verbo, una parábola como parábola, la poesía como poesía. Convertir la narración en poesía, o al revés, violenta el sentido del texto. La declaración de 1982 coincide: la Escritura comunica la verdad con formas literarias muy variadas, y conocerlas es esencial para una buena exégesis, sin que ninguna niegue la historicidad de lo que se presenta como hecho.",
+          "fuentes": [
+            "puedo_confiar_en__sproul#60",
+            "web_chicago_hermeneutica#2",
+            "web_chicago_hermeneutica#1"
+          ]
+        },
+        {
+          "texto": "Que haya distancias no significa que el mensaje quede encerrado en el pasado. La misma declaración afirma que las traducciones pueden comunicar el conocimiento de Dios a través de las fronteras del tiempo y la cultura, y que hay mandatos válidos para todo contexto y otros que la propia Biblia muestra como propios de una situación particular, distinción que no se decide por factores culturales.",
+          "fuentes": [
+            "web_chicago_hermeneutica#2"
+          ]
+        }
       ]
     },
     {
       "titulo": "Tres escenas con la Escritura en la mano",
       "parrafos": [
-        {"texto": "Primera escena: Mateo 4. Según el Comentario Bíblico Beacon, el diablo llevó a Jesús al pináculo del templo y, envalentonado por lo sagrado del lugar, citó él mismo las Escrituras: tomó el Salmo 91:11-12 pero dejó afuera una frase importante, «en todos tus caminos». Los caminos de Cristo eran los de Dios; si se desviaba de la voluntad divina no podía esperar el cuidado de su Padre. La respuesta de Jesús, anota MacArthur, fue otro texto, Deuteronomio 6:16, que manda no tentar a Dios. El Beacon agrega que la conducta imprudente no es evidencia de fe sino de presunción. La lección es incómoda: se puede citar la Biblia y usarla contra su propio propósito.", "fuentes": ["comentario_biblico_beacon__earle#49", "macarthur_ts#113"]},
-        {"texto": "Segunda escena: Lucas 24. Los dos de Emaús no desconfiaban de las Escrituras, dice MacArthur, pero entendían mal lo que decían: esperaban un Mesías libertador y no concebían que muriera. Jesús los reprendió porque no habían creído todo lo que los profetas dijeron y entonces, comenzando por Moisés y siguiendo por todos los profetas, «les declaraba en todas las Escrituras lo que de él decían» (Lucas 24:25-27). Más tarde, según el mismo comentario, les abrió el entendimiento a todos para que comprendieran las Escrituras (Lucas 24:45).", "fuentes": ["lucas_comentario__macarthur#950", "lucas_comentario__macarthur#952", "lucas_comentario__macarthur#962"]},
-        {"texto": "Tercera escena: Hechos 8. El eunuco leía en voz alta, como era costumbre, Isaías 53:7-8. Felipe le preguntó si entendía lo que leía y él respondió: «¿Y cómo podré, si alguno no me enseñare?». Su pregunta (¿habla el profeta de sí mismo o de otro?) era razonable, anota el comentario, porque el pensamiento judío de la época estaba dividido: unos veían a la nación, otros a Isaías, otros al Mesías. Felipe, partiendo de ese mismo texto, le anunció el evangelio de Jesús (Hechos 8:35). El comentario destaca que Felipe sabía lo suficiente de las Escrituras para responder al eunuco donde estaba, y que eso es una invitación a todo creyente a ser competente en la Biblia.", "fuentes": ["hechos_comentario__archivo#149"]}
+        {
+          "texto": "Primera escena: Mateo 4. Según el Comentario Bíblico Beacon, el diablo llevó a Jesús al pináculo del templo y, envalentonado por lo sagrado del lugar, citó él mismo las Escrituras: tomó el Salmo 91:11-12 pero dejó afuera una frase importante, «en todos tus caminos». Los caminos de Cristo eran los de Dios; si se desviaba de la voluntad divina no podía esperar el cuidado de su Padre. La respuesta de Jesús, anota MacArthur, fue otro texto, Deuteronomio 6:16, que manda no tentar a Dios. La lección es incómoda: se puede citar la Biblia y usarla contra su propio propósito.",
+          "fuentes": [
+            "comentario_biblico_beacon__earle#49",
+            "macarthur_ts#113"
+          ]
+        },
+        {
+          "texto": "Segunda escena: Lucas 24. Los dos de Emaús no desconfiaban de las Escrituras, dice MacArthur, pero entendían mal lo que decían: esperaban un Mesías libertador y no concebían que muriera. Jesús los reprendió porque no habían creído todo lo que los profetas dijeron y, comenzando por Moisés y siguiendo por todos los profetas, «les declaraba en todas las Escrituras lo que de él decían» (Lucas 24:25-27). Más tarde, según el mismo comentario, abrió el entendimiento de todos los discípulos (Lucas 24:45).",
+          "fuentes": [
+            "lucas_comentario__macarthur#950",
+            "lucas_comentario__macarthur#952",
+            "lucas_comentario__macarthur#962"
+          ]
+        },
+        {
+          "texto": "Tercera escena: Hechos 8. El eunuco leía en voz alta, como era costumbre, Isaías 53:7-8. Felipe le preguntó si entendía lo que leía y él respondió: «¿Y cómo podré, si alguno no me enseñare?». Su duda (¿habla el profeta de sí mismo o de otro?) era razonable, anota el comentario, porque el pensamiento judío de la época estaba dividido: unos veían a la nación, otros a Isaías, otros al Mesías. Felipe, partiendo de ese mismo texto, le anunció el evangelio de Jesús (Hechos 8:35), y eso invita a todo creyente a ser competente en la Biblia.",
+          "fuentes": [
+            "hechos_comentario__archivo#149"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cuando se interpreta mal",
       "parrafos": [
-        {"texto": "Pedro lo advierte con crudeza. En las cartas de Pablo hay cosas difíciles de entender, y los ignorantes e inestables las tuercen, como también las demás Escrituras, para su propia perdición (2 Pedro 3:16). MacArthur aclara que Pedro no dice que Pablo sea imposible de entender, sino que es más complejo que otros pasajes, sobre todo en lo profético. Explica que el verbo traducido «tuercen» evoca retorcer un cuerpo en un potro de tortura, y que los falsos maestros no se detuvieron en la profecía: distorsionaron también lo que la Biblia enseña sobre la ley, la justificación por fe y la santificación.", "fuentes": ["1_y_2__macarthur#292", "web_cpe_interpretacion#4"]},
-        {"texto": "Rhodes ofrece un ejemplo concreto. Según él, la Sociedad Watchtower cita Mateo 6:10 («como en el cielo, también en la tierra») junto con Génesis 1:28 e Isaías 45:18 para sostener que la voluntad de Dios es un paraíso terrenal. Rhodes responde que eso es eiségesis: nadie llegaría a esa conexión leyendo el versículo sin la literatura de esa sociedad. Para él, una lectura en contexto muestra que Jesús enseña a orar para que la voluntad de Dios se cumpla en la tierra, donde vive la humanidad caída, tal como ya se cumple en el cielo, y que eso se completará cuando Dios acabe con toda rebelión. Aquí solo aparece la descripción que hace Rhodes de esa enseñanza y su crítica; lo que esa organización dice de sí misma se estudiará con sus propios documentos en otro tramo del estudio.", "fuentes": ["los_testigos_de__rhodes#226", "los_testigos_de__rhodes#227"]},
-        {"texto": "Grudem agrega una pauta útil para los desacuerdos entre creyentes. Si hay diferencias sobre temas como el bautismo, la predestinación o el gobierno de la iglesia, ve solo dos causas posibles: o buscamos afirmar donde la Biblia calla, o nos equivocamos al interpretar, ya sea por información inexacta o incompleta, ya sea por fallas nuestras como el orgullo, la codicia, la falta de fe, el egoísmo o no dedicar tiempo a estudiar en oración. Para él, el problema siempre está en nosotros y no en la Biblia. Los mismos discípulos, recuerda, a veces no entendieron por falta de fe y dureza de corazón (Lucas 24:25).", "fuentes": ["grudem#113", "grudem#114"]}
+        {
+          "texto": "Pedro lo advierte con crudeza. En las cartas de Pablo hay cosas difíciles de entender, y los ignorantes e inestables las tuercen, como también las demás Escrituras, para su propia perdición (2 Pedro 3:16). MacArthur aclara que Pablo no es imposible de entender, sino más complejo que otros pasajes, sobre todo en lo profético. El verbo «tuercen» evoca retorcer un cuerpo en un potro de tortura, y los falsos maestros distorsionaron también lo que la Biblia enseña sobre la ley, la justificación por fe y la santificación.",
+          "fuentes": [
+            "1_y_2__macarthur#292",
+            "web_cpe_interpretacion#4"
+          ]
+        },
+        {
+          "texto": "Rhodes ofrece un ejemplo. Según él, la Sociedad Watchtower cita Mateo 6:10 («como en el cielo, también en la tierra») junto con Génesis 1:28 e Isaías 45:18 para sostener que la voluntad de Dios es un paraíso terrenal. Rhodes responde que eso es eiségesis: nadie llegaría a esa conexión leyendo el versículo sin la literatura de esa sociedad. Para él, en su contexto Jesús enseña a orar para que la voluntad de Dios se cumpla en la tierra, donde vive la humanidad caída, como ya se cumple en el cielo. Aquí solo está la descripción y la crítica de Rhodes; lo que esa organización dice de sí misma se estudiará con sus propios documentos.",
+          "fuentes": [
+            "los_testigos_de__rhodes#226",
+            "los_testigos_de__rhodes#227"
+          ]
+        },
+        {
+          "texto": "Grudem agrega una pauta para los desacuerdos entre creyentes. Si hay diferencias sobre temas como el bautismo, la predestinación o el gobierno de la iglesia, ve solo dos causas posibles: o buscamos afirmar donde la Biblia calla, o nos equivocamos al interpretar, por información inexacta o incompleta, o por fallas nuestras como el orgullo, la codicia, la falta de fe o no dedicar tiempo a estudiar en oración. Para él, el problema siempre está en nosotros y no en la Biblia. Los mismos discípulos, recuerda, a veces no entendieron por falta de fe y dureza de corazón (Lucas 24:25).",
+          "fuentes": [
+            "grudem#113",
+            "grudem#114"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cómo cuidar la lectura",
       "parrafos": [
-        {"texto": "Sproul resume tres pautas de interpretación que remiten a los reformadores. Primera, la exégesis gramático-histórica, que toma en serio las estructuras gramaticales y la época del texto y no autoriza a espiritualizar ni alegorizar contra su forma. Segunda, atender a las formas y recursos literarios. Tercera, que la Escritura interprete la Escritura: toda lectura que contradiga abiertamente otra parte de la Biblia queda descartada, y cada pasaje se entiende por su contexto inmediato y por el de toda la Palabra de Dios.", "fuentes": ["puedo_confiar_en__sproul#59", "puedo_confiar_en__sproul#60"]},
-        {"texto": "La Coalición por el Evangelio suma cuatro presuposiciones: ver la Escritura como Palabra de Dios, asumir que es comprensible, responder como corresponde y depender de Dios. Sobre la claridad, citando a Grudem, aclara que podemos entender la Biblia, pero no toda a la vez, no sin esfuerzo, no sin los medios ordinarios, no sin la voluntad de obedecerla, no sin la ayuda del Espíritu Santo, no sin confusiones humanas y nunca completamente. Grudem coincide en que entender bien es más una capacidad moral y espiritual que intelectual (1 Corintios 2:14).", "fuentes": ["web_cpe_interpretacion#4", "grudem#112"]},
-        {"texto": "Esa dependencia de Dios no anula el estudio. La declaración de 1982 afirma que nadie depende de los expertos para entender la Escritura, pero también niega que se deba ignorar el fruto del estudio técnico de los especialistas. Y el ensayo de la Coalición propone, para el camino del texto a la vida, preguntarle al autor bíblico qué está diciendo y por qué lo dice así, antes de preguntar qué significa para nosotros hoy. Su imagen final: poner la Biblia bajo el microscopio debería terminar con nosotros bajo el suyo, porque la Palabra nos cambia más a la semejanza de Cristo.", "fuentes": ["web_chicago_hermeneutica#3", "web_cpe_interpretacion#4", "web_cpe_interpretacion#6"]}
+        {
+          "texto": "Sproul resume tres pautas que remiten a los reformadores. Primera, la exégesis gramático-histórica, que toma en serio las estructuras gramaticales y la época del texto y no autoriza a espiritualizar ni alegorizar contra su forma. Segunda, atender a las formas literarias. Tercera, que la Escritura interprete la Escritura: toda lectura que contradiga abiertamente otra parte de la Biblia queda descartada, y cada pasaje se entiende por su contexto inmediato y por el de toda la Palabra de Dios.",
+          "fuentes": [
+            "puedo_confiar_en__sproul#59",
+            "puedo_confiar_en__sproul#60"
+          ]
+        },
+        {
+          "texto": "La Coalición por el Evangelio suma cuatro presuposiciones: ver la Escritura como Palabra de Dios, asumir que es comprensible, responder como corresponde y depender de Dios. Sobre la claridad, citando a Grudem, aclara que podemos entender la Biblia, pero no toda a la vez, no sin esfuerzo, no sin los medios ordinarios, no sin la voluntad de obedecerla, no sin la ayuda del Espíritu Santo y nunca completamente. Grudem coincide en que entender bien es más una capacidad moral y espiritual que intelectual (1 Corintios 2:14).",
+          "fuentes": [
+            "web_cpe_interpretacion#4",
+            "grudem#112"
+          ]
+        },
+        {
+          "texto": "La declaración de 1982 afirma que nadie depende de los expertos para entender la Escritura, pero niega que se deba ignorar el fruto del estudio técnico de los especialistas. Y el ensayo de la Coalición propone preguntarle al autor bíblico qué está diciendo y por qué lo dice así, antes de preguntar qué significa para nosotros hoy. Su imagen final: poner la Biblia bajo el microscopio debería terminar con nosotros bajo el suyo.",
+          "fuentes": [
+            "web_chicago_hermeneutica#3",
+            "web_cpe_interpretacion#4",
+            "web_cpe_interpretacion#6",
+            "web_chicago_hermeneutica#1"
+          ]
+        }
       ],
-      "destacado": {"texto": "La meta de interpretar no es dominar el texto sino que el texto nos cambie.", "fuentes": ["web_cpe_interpretacion#4"]}
+      "destacado": {
+        "texto": "La meta de interpretar no es dominar el texto sino que el texto nos cambie.",
+        "fuentes": [
+          "web_cpe_interpretacion#4"
+        ]
+      }
     }
   ],
   "citas": [
-    {"texto": "La interpretación bíblica debe crear siervos, no reyes.", "autor": "Coalición por el Evangelio", "obra": "La interpretación de las Escrituras: introducción general", "fuentes": ["web_cpe_interpretacion#4"]},
-    {"texto": "el problema siempre está en nosotros, y no en la Biblia", "autor": "Wayne Grudem", "obra": "Teología sistemática", "fuentes": ["grudem#114"]},
-    {"texto": "Y no en hacerle decir aquello que a nosotros nos interese.", "autor": "Antonio Cruz", "obra": "A Dios por el ADN", "fuentes": ["a_dios_por__cruz#170"]}
+    {
+      "texto": "La interpretación bíblica debe crear siervos, no reyes.",
+      "autor": "Coalición por el Evangelio",
+      "obra": "La interpretación de las Escrituras: introducción general",
+      "fuentes": [
+        "web_cpe_interpretacion#4"
+      ]
+    },
+    {
+      "texto": "el problema siempre está en nosotros, y no en la Biblia",
+      "autor": "Wayne Grudem",
+      "obra": "Teología sistemática",
+      "fuentes": [
+        "grudem#114"
+      ]
+    },
+    {
+      "texto": "Y no en hacerle decir aquello que a nosotros nos interese.",
+      "autor": "Antonio Cruz",
+      "obra": "A Dios por el ADN",
+      "fuentes": [
+        "a_dios_por__cruz#170"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "ὀρθοτομέω", "translit": "orthotoméo", "idioma": "griego", "ref": "2 Ti 2:15", "significado": "Seguir la línea recta. Millos explica que se usaba también para cortar una tela derecho, y que aplicado a la Palabra significa trazarla rectamente, exponerla con precisión.", "fuentes": ["1_y_2__millos#375"]},
-    {"original": "ἑρμηνεύω", "translit": "hermeneúo", "idioma": "griego", "ref": "", "significado": "Interpretar. Grudem lo señala como origen de la palabra hermenéutica, el estudio de los métodos correctos de interpretación.", "fuentes": ["grudem#113", "grudem#114"]},
-    {"original": "ἐξήγησις", "translit": "exégesis", "idioma": "griego", "ref": "", "significado": "Relato, descripción, narración. La Coalición por el Evangelio señala que se arma con «de, fuera de» y «traer, mover», y que la exégesis es sacar de un pasaje lo que Dios dijo por medio de sus autores.", "fuentes": ["web_cpe_interpretacion#5"]}
+    {
+      "original": "ὀρθοτομέω",
+      "translit": "orthotoméo",
+      "idioma": "griego",
+      "ref": "2 Ti 2:15",
+      "significado": "Seguir la línea recta. Millos explica que se usaba también para cortar una tela derecho, y que aplicado a la Palabra significa trazarla rectamente, exponerla con precisión.",
+      "fuentes": [
+        "1_y_2__millos#375"
+      ]
+    },
+    {
+      "original": "ἑρμηνεύω",
+      "translit": "hermeneúo",
+      "idioma": "griego",
+      "ref": "",
+      "significado": "Interpretar. Grudem lo señala como origen de la palabra hermenéutica, el estudio de los métodos correctos de interpretación.",
+      "fuentes": [
+        "grudem#113",
+        "grudem#114"
+      ]
+    },
+    {
+      "original": "ἐξήγησις",
+      "translit": "exégesis",
+      "idioma": "griego",
+      "ref": "",
+      "significado": "Relato, descripción, narración. La Coalición por el Evangelio señala que se arma con «de, fuera de» y «traer, mover», y que la exégesis es sacar de un pasaje lo que Dios dijo por medio de sus autores.",
+      "fuentes": [
+        "web_cpe_interpretacion#5"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El Mesías que explica las Escrituras. Según Lucas 24:27, comenzando por Moisés y todos los profetas, Jesús declaraba en todas las Escrituras lo que decían de él, y más tarde les abrió el entendimiento para comprenderlas (Lucas 24:45). Es explícito en el Nuevo Testamento: leer bien el Antiguo Testamento incluye ver a Cristo.", "refs": ["Lc 24:25-27", "Lc 24:45"], "fuentes": ["lucas_comentario__macarthur#952", "lucas_comentario__macarthur#962"]},
-    {"texto": "El Cordero de Isaías 53. Ante la pregunta del eunuco, Felipe partió de ese texto y le anunció a Jesús (Hechos 8:35). El comentario lo lee como el Mesías que sería el sacrificio final por el pecado. Es lo que el propio texto de Hechos establece: el pasaje lleva a Jesús.", "refs": ["Hch 8:32-35"], "fuentes": ["hechos_comentario__archivo#149"]},
-    {"texto": "Jesús ante el texto mal usado. En el desierto Jesús no responde con una opinión sino con otra Escritura, Deuteronomio 6:16, que corrige el uso que el tentador hizo del Salmo 91. Es el patrón de un Señor que interpreta bien la Palabra que Satanás distorsiona. La declaración de 1982 afirma además que la persona y la obra de Jesucristo son el foco central de toda la Biblia.", "refs": ["Mt 4:5-7"], "fuentes": ["macarthur_ts#113", "web_chicago_hermeneutica#1"]}
+    {
+      "texto": "El Mesías que explica las Escrituras. Según Lucas 24:27, comenzando por Moisés y todos los profetas, Jesús declaraba en todas las Escrituras lo que decían de él, y más tarde les abrió el entendimiento para comprenderlas (Lucas 24:45). Es explícito en el Nuevo Testamento: leer bien el Antiguo Testamento incluye ver a Cristo.",
+      "refs": [
+        "Lc 24:25-27",
+        "Lc 24:45"
+      ],
+      "fuentes": [
+        "lucas_comentario__macarthur#952",
+        "lucas_comentario__macarthur#962"
+      ]
+    },
+    {
+      "texto": "El Cordero de Isaías 53. Ante la pregunta del eunuco, Felipe partió de ese texto y le anunció a Jesús (Hechos 8:35). El comentario lo lee como el Mesías que sería el sacrificio final por el pecado. Es lo que el propio texto de Hechos establece: el pasaje lleva a Jesús.",
+      "refs": [
+        "Hch 8:32-35"
+      ],
+      "fuentes": [
+        "hechos_comentario__archivo#149"
+      ]
+    },
+    {
+      "texto": "Jesús ante el texto mal usado. En el desierto Jesús no responde con una opinión sino con otra Escritura, Deuteronomio 6:16, que corrige el uso que el tentador hizo del Salmo 91. Es el patrón de un Señor que interpreta bien la Palabra que Satanás distorsiona. La declaración de 1982 afirma además que la persona y la obra de Jesucristo son el foco central de toda la Biblia.",
+      "refs": [
+        "Mt 4:5-7"
+      ],
+      "fuentes": [
+        "macarthur_ts#113",
+        "web_chicago_hermeneutica#1"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué quiere decir que ninguna profecía es «de interpretación privada» (2 Pedro 1:20)?",
       "posturas": [
-        {"postura": "No se refiere a cómo explicamos la Escritura sino a su origen. Según MacArthur, la palabra traducida «interpretación» es un genitivo que indica fuente, de modo que ninguna profecía bíblica nació de la iniciativa humana, a diferencia de las falsas profecías de las que habla Jeremías 23.", "quien": "MacArthur", "fuentes": ["1_y_2__macarthur#244"]},
-        {"postura": "Ninguna profecía debe interpretarse aparte de las otras referencias sobre el mismo tema; por eso no conviene armar una doctrina alrededor de un solo versículo, sin otros pasajes que la confirmen.", "quien": "McGee", "fuentes": ["2_pedro_comentario__mcgee#44"]},
-        {"postura": "Algunos piensan que el texto prohíbe interpretar la Biblia a gusto de cada uno; Núñez reconoce que eso es cierto, pero cree que el contexto indica algo más coherente: los profetas no impusieron su propia interpretación personal, porque la profecía no tuvo su origen en la voluntad humana (1:21).", "quien": "Núñez", "fuentes": ["2_pedro_y__nunez#57", "2_pedro_y__nunez#58"]}
+        {
+          "postura": "No se refiere a cómo explicamos la Escritura sino a su origen. Según MacArthur, la palabra traducida «interpretación» es un genitivo que indica fuente, de modo que ninguna profecía bíblica nació de la iniciativa humana, a diferencia de las falsas profecías de las que habla Jeremías 23.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "1_y_2__macarthur#244"
+          ]
+        },
+        {
+          "postura": "Ninguna profecía debe interpretarse aparte de las otras referencias sobre el mismo tema; por eso no conviene armar una doctrina alrededor de un solo versículo, sin otros pasajes que la confirmen.",
+          "quien": "McGee",
+          "fuentes": [
+            "2_pedro_comentario__mcgee#44"
+          ]
+        },
+        {
+          "postura": "Algunos piensan que el texto prohíbe interpretar la Biblia a gusto de cada uno; Núñez reconoce que eso es cierto, pero cree que el contexto indica algo más coherente: los profetas no impusieron su propia interpretación personal, porque la profecía no tuvo su origen en la voluntad humana (1:21).",
+          "quien": "Núñez",
+          "fuentes": [
+            "2_pedro_y__nunez#57",
+            "2_pedro_y__nunez#58"
+          ]
+        }
       ],
       "nota": "Los tres coinciden en que la Escritura no nace de la iniciativa humana y que no se la lee a gusto personal; difieren en cuál es el sentido directo de la frase. El origen de la Biblia como Palabra de Dios se estudia en los días sobre inspiración."
     },
     {
       "tema": "¿Hasta dónde llega la exégesis?",
       "posturas": [
-        {"postura": "En su sentido más amplio incluye varias disciplinas: crítica literaria, estudios históricos, exégesis gramatical y también teología histórica, bíblica y sistemática.", "quien": "MacArthur y los profesores de The Master's Seminary", "fuentes": ["la_predicacion_como__macarthur#44", "macarthur_ts#176"]},
-        {"postura": "Definida de manera estricta, es identificar lo que Dios dijo en pasajes específicos; de allí se pasa a la teología bíblica, la sistemática y la práctica. En los doce pasos que propone, los nueve primeros son exégesis y los tres últimos teología.", "quien": "Coalición por el Evangelio", "fuentes": ["web_cpe_interpretacion#5", "web_cpe_interpretacion#6"]},
-        {"postura": "Es el proceso de interpretar un pasaje y de aplicar los principios para explicarlo, a diferencia de la hermenéutica, que estudia los métodos.", "quien": "Grudem", "fuentes": ["grudem#114"]}
+        {
+          "postura": "En su sentido más amplio incluye varias disciplinas: crítica literaria, estudios históricos, exégesis gramatical y también teología histórica, bíblica y sistemática.",
+          "quien": "MacArthur y los profesores de The Master's Seminary",
+          "fuentes": [
+            "la_predicacion_como__macarthur#44",
+            "macarthur_ts#176"
+          ]
+        },
+        {
+          "postura": "Definida de manera estricta, es identificar lo que Dios dijo en pasajes específicos; de allí se pasa a la teología bíblica, la sistemática y la práctica. En los doce pasos que propone, los nueve primeros son exégesis y los tres últimos teología.",
+          "quien": "Coalición por el Evangelio",
+          "fuentes": [
+            "web_cpe_interpretacion#5",
+            "web_cpe_interpretacion#6"
+          ]
+        },
+        {
+          "postura": "Es el proceso de interpretar un pasaje y de aplicar los principios para explicarlo, a diferencia de la hermenéutica, que estudia los métodos.",
+          "quien": "Grudem",
+          "fuentes": [
+            "grudem#114"
+          ]
+        }
       ],
       "nota": "Es una diferencia de límites del término, no de la tarea: los tres piden volver al texto antes de sacar conclusiones doctrinales o de aplicarlo."
     }
   ],
   "conexiones": [
-    {"ref": "Neh 8:8", "nota": "La lectura pública de la ley se acompañaba de explicación para que el pueblo entendiera; MacArthur lo toma como lema de su tarea de exponer.", "fuentes": ["biblia", "comentario_macarthur_del__macarthur#10"]},
-    {"ref": "Esd 7:10", "nota": "Estudiar, practicar y enseñar: la Coalición por el Evangelio lo presenta como el patrón del intérprete.", "fuentes": ["web_cpe_interpretacion#4"]},
-    {"ref": "1 Co 2:14", "nota": "Grudem lo cita para mostrar que entender la Biblia exige cualidades morales y espirituales, no solo intelectuales.", "fuentes": ["grudem#112"]},
-    {"ref": "2 P 3:16", "nota": "Las cartas de Pablo tienen pasajes difíciles que los inestables tuercen; MacArthur lo aplica a los falsos maestros.", "fuentes": ["1_y_2__macarthur#292"]},
-    {"ref": "Jn 5:39", "nota": "Jesús afirma que las Escrituras dan testimonio de él; el comentario a Hechos lo cita junto con Lucas 24 al presentar la escena del eunuco.", "fuentes": ["hechos_comentario__archivo#148"]}
+    {
+      "ref": "Neh 8:8",
+      "nota": "La lectura pública de la ley se acompañaba de explicación para que el pueblo entendiera; MacArthur lo toma como lema de su tarea de exponer.",
+      "fuentes": [
+        "biblia",
+        "comentario_macarthur_del__macarthur#10"
+      ]
+    },
+    {
+      "ref": "Esd 7:10",
+      "nota": "Estudiar, practicar y enseñar: la Coalición por el Evangelio lo presenta como el patrón del intérprete.",
+      "fuentes": [
+        "web_cpe_interpretacion#4"
+      ]
+    },
+    {
+      "ref": "1 Co 2:14",
+      "nota": "Grudem lo cita para mostrar que entender la Biblia exige cualidades morales y espirituales, no solo intelectuales.",
+      "fuentes": [
+        "grudem#112"
+      ]
+    },
+    {
+      "ref": "2 P 3:16",
+      "nota": "Las cartas de Pablo tienen pasajes difíciles que los inestables tuercen; MacArthur lo aplica a los falsos maestros.",
+      "fuentes": [
+        "1_y_2__macarthur#292"
+      ]
+    },
+    {
+      "ref": "Jn 5:39",
+      "nota": "Jesús afirma que las Escrituras dan testimonio de él; el comentario a Hechos lo cita al presentar la escena del eunuco.",
+      "fuentes": [
+        "hechos_comentario__archivo#148"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Leé con tres preguntas, en este orden: ¿qué dice el pasaje?, ¿qué quiere decir?, ¿qué tiene que ver conmigo? La guía de MacArthur y sus colegas las separa para que no saltes a la aplicación antes de entender.", "fuentes": ["la_predicacion_como__macarthur#251", "la_predicacion_como__macarthur#254"]},
-    {"texto": "Antes de apoyar una enseñanza en un versículo, buscá si otros pasajes la confirman. Es el consejo de McGee y también la pauta de que la Escritura interprete la Escritura que explica Sproul.", "fuentes": ["2_pedro_comentario__mcgee#44", "puedo_confiar_en__sproul#60"]},
-    {"texto": "Antes de abrir la Biblia, pedí la ayuda de Dios, y después investigá con todas tus capacidades. Es lo que Grudem aconseja a quien tiene una duda genuina sobre un tema.", "fuentes": ["grudem#114"]}
+    {
+      "texto": "Leé con tres preguntas, en este orden: ¿qué dice el pasaje?, ¿qué quiere decir?, ¿qué tiene que ver conmigo? Así no saltás a la aplicación antes de entender.",
+      "fuentes": [
+        "la_predicacion_como__macarthur#251",
+        "la_predicacion_como__macarthur#254"
+      ]
+    },
+    {
+      "texto": "Antes de apoyar una enseñanza en un versículo, buscá si otros pasajes la confirman: es el consejo de McGee y la pauta de Sproul de que la Escritura interprete la Escritura.",
+      "fuentes": [
+        "2_pedro_comentario__mcgee#44",
+        "puedo_confiar_en__sproul#60"
+      ]
+    },
+    {
+      "texto": "Antes de abrir la Biblia, pedí la ayuda de Dios, y después investigá con todas tus capacidades. Es lo que Grudem aconseja a quien tiene una duda genuina sobre un tema.",
+      "fuentes": [
+        "grudem#114"
+      ]
+    }
   ],
   "para_reflexionar": [
     "Pensá en un versículo que hayas usado como «promesa» o como argumento. ¿Lo leíste con su contexto, o quizás le hiciste decir lo que te convenía?",
     "De las distancias entre vos y el texto (idioma, cultura, geografía, historia, género), ¿cuál suele pasarte inadvertida cuando leés?",
     "Felipe sabía lo suficiente de la Biblia para responderle al eunuco donde estaba. ¿Qué tendrías que estudiar para poder hacer algo parecido con alguien cercano?"
   ],
-  "para_orar": "Señor, gracias por hablarnos por escrito. Dame un corazón dispuesto a estudiar, a practicar y a enseñar lo que leo. Guardame de hacerle decir a tu Palabra lo que me conviene, y de usarla como arma de mis propios deseos. Abrime el entendimiento, como lo hiciste con los discípulos, y llevame a Jesús en cada página. Amén.",
+  "para_orar": "Señor, gracias por hablarnos por escrito. Dame un corazón dispuesto a estudiar, a practicar y a enseñar lo que leo. Guardame de hacerle decir a tu Palabra lo que me conviene. Abrime el entendimiento, como lo hiciste con los discípulos, y llevame a Jesús en cada página. Amén.",
   "profundizar": [
-    {"titulo": "Una palabra con dos usos: la «eiségesis» en Lacueva", "texto": "Francisco Lacueva usa la palabra eiségesis en un sentido distinto del que vimos. Escribe que el Hijo nos hizo la exégesis de Dios (Juan 1:18) y que el Espíritu Santo nos hace la eiségesis, la «entrada» en la verdad, a partir de Juan 16:13. Aclara él mismo que el texto bíblico no emplea ese término, sino otro que significa guiar por el camino. Es una imagen devocional sobre la obra del Espíritu y no el significado técnico de poner en el texto lo propio, que es el que usan Cruz y Rhodes.", "fuentes": ["lacueva#37"]},
-    {"titulo": "Los doce pasos del camino de la exégesis a la teología", "texto": "El ensayo de la Coalición por el Evangelio describe un proceso en espiral al que llama TOCSA (Texto, Observación, Contexto, Significado y Aplicación). Incluye doce pasos: género, unidades literarias, crítica del texto, traducción, gramática, seguimiento del argumento, estudio de palabras, contexto histórico, contexto literario, teología bíblica, teología sistemática y teología práctica. Varios de estos temas se estudian en los días siguientes de esta serie.", "fuentes": ["web_cpe_interpretacion#5", "web_cpe_interpretacion#6"]}
+    {
+      "titulo": "Una palabra con dos usos: la «eiségesis» en Lacueva",
+      "texto": "Francisco Lacueva usa la palabra eiségesis en un sentido distinto del que vimos. Escribe que el Hijo nos hizo la exégesis de Dios (Juan 1:18) y que el Espíritu Santo nos hace la eiségesis, la «entrada» en la verdad, a partir de Juan 16:13. Aclara él mismo que el texto bíblico no emplea ese término, sino otro que significa guiar por el camino. Es una imagen devocional sobre la obra del Espíritu y no el significado técnico de poner en el texto lo propio, que vimos al principio.",
+      "fuentes": [
+        "lacueva#37"
+      ]
+    },
+    {
+      "titulo": "Los doce pasos del camino de la exégesis a la teología",
+      "texto": "El ensayo de la Coalición por el Evangelio describe un proceso en espiral al que llama TOCSA (Texto, Observación, Contexto, Significado y Aplicación), con doce pasos: género, unidades literarias, crítica del texto, traducción, gramática, seguimiento del argumento, estudio de palabras, contexto histórico, contexto literario, teología bíblica, sistemática y práctica.",
+      "fuentes": [
+        "web_cpe_interpretacion#5",
+        "web_cpe_interpretacion#6"
+      ]
+    }
   ]
 }

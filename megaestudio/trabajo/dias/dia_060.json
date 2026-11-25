@@ -21,7 +21,7 @@
     }
   ],
   "entrada": {
-    "texto": "Hay una palabra que usamos tanto que casi dejamos de oírla: «Padre». La decimos al empezar el Padrenuestro, en la oración de la mesa, en el culto. Pero para J. I. Packer esa palabra encierra el centro de lo que enseña el Nuevo Testamento, y para R. C. Sproul debería hacernos temblar de asombro cada vez que la pronunciamos.\n\nHoy vamos a ver qué dice la Biblia cuando llama Padre a Dios: qué tenía de antiguo ese título en Israel, qué trajo de nuevo Jesús, de qué manera llegamos a ser hijos y, también, qué no quiere decir. En un punto, los autores no están de acuerdo, y lo diremos sin zanjarlo.",
+    "texto": "Hay una palabra que usamos tanto que casi dejamos de oírla: «Padre». Para J. I. Packer encierra el centro de lo que enseña el Nuevo Testamento, y para R. C. Sproul debería hacernos temblar de asombro cada vez que la pronunciamos.\n\nHoy vemos qué dice la Biblia cuando llama Padre a Dios: qué tenía de antiguo ese título en Israel, qué trajo de nuevo Jesús, cómo llegamos a ser hijos y qué no quiere decir. En un par de puntos los autores no coinciden, y lo diremos sin zanjarlo.",
     "fuentes": [
       "packer#127",
       "sproul_ts#254"
@@ -32,34 +32,29 @@
       "titulo": "Padre en el Antiguo Testamento: de Israel, del rey y de los huérfanos",
       "parrafos": [
         {
-          "texto": "Aunque muchos piensan que llamar Padre a Dios es algo exclusivo del Nuevo Testamento, el Antiguo ya lo hace. El Catecismo de la Iglesia Católica, en un pasaje donde repasa el uso bíblico del título, lo ordena en cuatro rasgos. En Israel Dios es llamado Padre como Creador del mundo (Deuteronomio 32:6; Malaquías 2:10). Es Padre por la alianza y por el don de la ley a Israel, su «primogénito» (Éxodo 4:22). Es Padre del rey de Israel (2 Samuel 7:14). Y es, de modo muy especial, el Padre de los pobres, del huérfano y de la viuda, que están bajo su protección (Salmo 68).",
+          "texto": "Aunque muchos creen que llamar Padre a Dios es algo exclusivo del Nuevo Testamento, el Antiguo ya lo hace. El Catecismo de la Iglesia Católica ordena ese uso en cuatro rasgos. En Israel Dios es Padre como Creador del mundo (Deuteronomio 32:6; Malaquías 2:10); por la alianza y el don de la ley a Israel, su «primogénito» (Éxodo 4:22); Padre del rey de Israel (2 Samuel 7:14); y, de modo muy especial, Padre de los pobres, del huérfano y de la viuda, que están bajo su protección (Salmo 68).",
           "fuentes": [
             "web_vatican_cic_trinidad#3"
           ]
         },
         {
-          "texto": "El teólogo dispensacionalista Lewis Sperry Chafer llega a rasgos parecidos por su cuenta. Sobre Israel observa que «Israel es mi hijo, mi primogénito» dice más que llamarlo criatura, pero menos que llamarlo regenerado, porque no todo Israel tenía vida espiritual: afirma un cuidado especial, como el de un padre por su hijo. Sobre el rey recuerda la promesa a David: «Yo le seré a él padre». Y agrega, en general, que Dios promete su cuidado paternal a quienes confían en él, según el Salmo 103:13: como el padre se compadece de sus hijos, así Jehová se compadece de los que le temen.",
+          "texto": "Chafer encuentra por su cuenta lo mismo en Israel y en el rey. Sobre Israel observa que «Israel es mi hijo, mi primogénito» dice más que llamarlo criatura, pero menos que llamarlo regenerado, porque no todo Israel tenía vida espiritual: afirma un cuidado especial, como el de un padre por su hijo. Sobre el rey recuerda la promesa a David, «Yo le seré a él padre».",
           "fuentes": [
             "chafer#61",
             "chafer#62"
           ]
         },
         {
-          "texto": "Wayne Grudem confirma que el Antiguo Testamento sí habla de Dios como Padre del pueblo: él mismo se llamó así y llamó hijos a los israelitas (Salmo 103:13; Isaías 43:6-7; Malaquías 1:6; 2:10). Pero sostiene que, aunque había conciencia de Dios como Padre de Israel, los privilegios plenos de pertenecer a su familia llegaron recién cuando vino Cristo y el Espíritu del Hijo fue derramado en nuestros corazones.",
+          "texto": "Grudem confirma que el Antiguo Testamento sí habla de Dios como Padre del pueblo (Salmo 103:13; Isaías 43:6-7; Malaquías 1:6; 2:10), pero sostiene que los privilegios plenos de pertenecer a su familia llegaron recién cuando vino Cristo y el Espíritu del Hijo fue derramado en nuestros corazones. Packer explica por qué el tono era otro: el nombre propio del pacto era Yahvé, que anunciaba a un Dios que existe por sí mismo, y el rasgo más subrayado era su santidad (Isaías 6:3). El clima era el temor de Jehová: conocer la propia pequeñez y guardar la distancia ante el Santo.",
           "fuentes": [
-            "grudem#776"
-          ]
-        },
-        {
-          "texto": "Packer explica por qué el tono era distinto. En el Antiguo Testamento el nombre propio del pacto era Yahvé, que anunciaba a un Dios que existe por sí mismo y que guardaba cierta reserva real; y el rasgo que más se subrayaba era su santidad, la de Isaías 6:3. El clima de la religión era el temor de Jehová: conocer la propia pequeñez, confesar las faltas y mantener la distancia ante un Dios santo.",
-          "fuentes": [
+            "grudem#776",
             "packer#127",
             "packer#128"
           ]
         }
       ],
       "destacado": {
-        "texto": "El título «Padre» no nace en el Nuevo Testamento. Israel, el rey y el huérfano ya sabían que Dios los cuidaba como un padre; lo que cambia es hasta dónde llega esa cercanía.",
+        "texto": "El título «Padre» no nace en el Nuevo Testamento: Israel, el rey y el huérfano ya sabían que Dios los cuidaba como un padre. Lo que cambia es hasta dónde llega esa cercanía.",
         "fuentes": [
           "web_vatican_cic_trinidad#3",
           "grudem#776"
@@ -70,21 +65,21 @@
       "titulo": "El Padre de nuestro Señor Jesucristo",
       "parrafos": [
         {
-          "texto": "Chafer sostiene que la revelación más importante y extensa sobre la paternidad de Dios es la que lo une con Jesús: Dios es «el Dios y Padre de nuestro Señor Jesucristo» (Efesios 1:3). Señala que esos términos, padre e hijo, describen una relación íntima entre la primera y la segunda persona de la Trinidad, sin que valga en ella todo lo que vale entre un padre y un hijo humanos, porque ambos son eternos. En su lectura, el error de Arrio fue pensar que el Hijo había sido el primero de los seres creados, y la Escritura indica que la segunda persona es Hijo desde toda la eternidad.",
+          "texto": "Chafer sostiene que la revelación más extensa sobre la paternidad de Dios es la que lo une con Jesús: Dios es «el Dios y Padre de nuestro Señor Jesucristo» (Efesios 1:3). Para él esa relación es eterna: la Escritura indica que la segunda persona es Hijo desde siempre.",
           "fuentes": [
             "chafer#62",
             "chafer#63"
           ]
         },
         {
-          "texto": "Packer, en cambio, mira lo que esa paternidad significaba en la vida de Jesús según el evangelio de Juan, y encuentra cuatro cosas. Primero, autoridad: el Hijo obedece la voluntad de quien lo envió (Juan 6:38; 5:19). Segundo, afecto: «el Padre ama al Hijo» (Juan 5:20; 15:9). Tercero, comunión: el Padre nunca lo deja solo (Juan 16:32; 8:29). Cuarto, honor: el Padre quiere exaltar a su Hijo (Juan 17:1; 5:22-23). Y concluye que todo eso se aplica a los hijos adoptivos de Dios: son gobernados, amados, acompañados y honrados por su Padre en Cristo.",
+          "texto": "Packer mira lo que esa paternidad significaba en la vida de Jesús según Juan, y encuentra cuatro cosas. Autoridad: el Hijo obedece la voluntad de quien lo envió (Juan 6:38; 5:19). Afecto: «el Padre ama al Hijo» (Juan 5:20). Comunión: el Padre no lo deja solo (Juan 16:32). Honor: el Padre quiere exaltar a su Hijo (Juan 17:1). Y concluye que todo eso se aplica a los hijos adoptivos: son gobernados, amados, acompañados y honrados por su Padre en Cristo.",
           "fuentes": [
             "packer#129",
             "packer#130"
           ]
         },
         {
-          "texto": "A la vez, hay una distinción que Jesús cuida. Después de resucitar le dice a María Magdalena que sube a «mi Padre y a vuestro Padre» (Juan 20:17). MacArthur razona que, si la filiación de Jesús no fuera distinta de la nuestra, la frase sería redundante y habría bastado decir «nuestro Padre»; para él, Jesús es el unigénito (Juan 3:16), único en su especie. Grudem lee el mismo versículo igual: Jesús distingue el sentido mucho mayor y eterno en que Dios es su Padre del sentido en que lo es nuestro. Sproul también pide proteger con cuidado la singularidad de Cristo como Hijo.",
+          "texto": "A la vez, Jesús cuida una distinción. Después de resucitar dice que sube a «mi Padre y a vuestro Padre» (Juan 20:17). MacArthur razona que, si su filiación no fuera distinta de la nuestra, habría bastado decir «nuestro Padre»; para él, Jesús es el unigénito (Juan 3:16), único en su especie. Grudem lee el versículo igual, y Sproul también pide proteger la singularidad de Cristo como Hijo.",
           "fuentes": [
             "macarthur_ts#849",
             "grudem#776",
@@ -92,7 +87,7 @@
           ]
         },
         {
-          "texto": "Hay una escena donde esa filiación única y la nuestra se tocan. MacArthur observa que «Abba» aparece en el Nuevo Testamento, además de Romanos 8:15 y Gálatas 4:6, una sola vez más, y es en labios de Jesús en Getsemaní, cuando pide que pase la copa (Marcos 14:36). Agrega que nos fue dado clamar como el Hijo amado, y que el grito de «Abba» de Jesús no fue atendido para que el nuestro fuera oído.",
+          "texto": "Hay una escena donde las dos filiaciones se tocan. MacArthur observa que «Abba» aparece en el Nuevo Testamento, además de Romanos 8:15 y Gálatas 4:6, una sola vez más, y es en labios de Jesús en Getsemaní (Marcos 14:36). Agrega que su grito no fue atendido para que el nuestro fuera oído.",
           "fuentes": [
             "macarthur_ts#852"
           ]
@@ -103,32 +98,26 @@
       "titulo": "Lo que Jesús añade: llamar Padre a Dios en la oración",
       "parrafos": [
         {
-          "texto": "Sproul recoge un estudio del erudito alemán Joachim Jeremias sobre cómo se dirigían a Dios en la oración los judíos de la antigüedad. Según lo que cuenta, a los niños se les enseñaba una larga lista de títulos adecuados para Dios, y «Padre» brillaba por su ausencia. En los Evangelios, en cambio, casi cada oración de Jesús se dirige a Dios como Padre. Jeremias dice que, fuera de la comunidad cristiana, la primera referencia escrita que halló de un judío que llamara así a Dios era del siglo X, en Italia. Sproul concluye que fue una ruptura radical con las costumbres judías, que escandalizó a los fariseos porque lo vieron como una pretensión tácita de divinidad. Es la lectura de un autor sobre la investigación de otro, y es solo una de las voces del día.",
+          "texto": "Sproul recoge un estudio de Joachim Jeremias sobre cómo se dirigían a Dios en la oración los judíos de la antigüedad. Según lo que cuenta, a los niños se les enseñaba una larga lista de títulos para Dios, y «Padre» brillaba por su ausencia; en los Evangelios, en cambio, casi cada oración de Jesús lo llama así. Jeremias dice que, fuera de la comunidad cristiana, la primera referencia escrita de un judío que lo llamara Padre era del siglo X, en Italia. Sproul concluye que fue una ruptura radical que escandalizó a los fariseos, y que lo todavía más sorprendente es que Jesús extendió ese privilegio a sus discípulos cuando les enseñó el Padrenuestro (Mateo 6:9). Es la voz de un solo autor sobre la investigación de otro.",
           "fuentes": [
             "sproul_ts#252"
           ]
         },
         {
-          "texto": "Y lo todavía más sorprendente, dice Sproul, es que Jesús extendió ese privilegio a sus discípulos cuando les enseñó el Padrenuestro (Mateo 6:9). Eso es lo que hace de Mateo 6:5-15 una lectura tan importante hoy: no es una fórmula para repetir sino una invitación a hablar con Dios como con un padre.",
-          "fuentes": [
-            "sproul_ts#252"
-          ]
-        },
-        {
-          "texto": "Packer lee el Sermón del Monte entero como instrucción para los hijos de una familia. Señala que en él Jesús enseña tres principios de conducta basados en esa relación: imitar al Padre (Mateo 5:44-48), glorificarlo (Mateo 5:16, y por eso el Padrenuestro empieza con «santificado sea tu nombre») y agradarlo (Mateo 6:1). Las recompensas que promete Jesús, explica, no son un salario sino una muestra de amor dentro de la familia.",
+          "texto": "Packer lee el Sermón del Monte como instrucción para los hijos de una familia, con tres principios: imitar al Padre (Mateo 5:44-48), glorificarlo (Mateo 5:16; por eso el Padrenuestro empieza con «santificado sea tu nombre») y agradarlo (Mateo 6:1). Las recompensas que promete Jesús no son un salario, dice, sino una muestra de amor dentro de la familia.",
           "fuentes": [
             "packer#133",
             "packer#134"
           ]
         },
         {
-          "texto": "Sobre la oración misma, Packer dice dos cosas que salen del texto de Mateo. La oración no es una técnica para presionar a alguien reacio: Jesús prohíbe las vanas repeticiones de los gentiles porque el Padre sabe lo que necesitamos antes de que se lo pidamos (Mateo 6:7-8). Y puede ser libre y franca, como la de un niño que no teme pedirle cualquier cosa a su padre (Mateo 7:7-11). Aclara que Dios no siempre responde como pedimos: igual que un buen padre, a veces da lo que deberíamos haber pedido, como cuando le dejó a Pablo el aguijón y lo fortaleció para vivir con él (2 Corintios 12:7-9).",
+          "texto": "Sobre la oración misma, Packer dice dos cosas que salen de Mateo. No es una técnica para presionar a alguien reacio: Jesús prohíbe las vanas repeticiones porque el Padre sabe lo que necesitamos antes de que se lo pidamos (Mateo 6:7-8). Y puede ser franca, como la del niño que no teme pedirle cualquier cosa a su padre (Mateo 7:7-11). Aclara que, como un buen padre, Dios a veces da lo que deberíamos haber pedido, como cuando le dejó a Pablo el aguijón (2 Corintios 12:7-9).",
           "fuentes": [
             "packer#135"
           ]
         },
         {
-          "texto": "También la confianza cotidiana nace de ahí. Packer observa que, frente a la ansiedad por la comida y la ropa (Mateo 6:25-33), Jesús responde recordándonos que Dios es nuestro Padre: si cuida de las aves sin ser su padre, mucho más cuidará de sus hijos. MacArthur agrega que el Padre se compadece de sus hijos como dice el Salmo 103:13, y que Jesús argumenta de lo menor a lo mayor: si ustedes, siendo malos, saben dar cosas buenas a sus hijos, cuánto más el Padre celestial (Lucas 11:11-13; Mateo 7:11).",
+          "texto": "De ahí nace también la confianza cotidiana. Frente a la ansiedad por la comida y la ropa (Mateo 6:25-33), Jesús recuerda que Dios es nuestro Padre: si cuida de las aves sin ser su padre, mucho más cuidará de sus hijos, observa Packer. MacArthur añade el argumento de lo menor a lo mayor: si ustedes, siendo malos, saben dar cosas buenas a sus hijos, cuánto más el Padre celestial (Lucas 11:11-13).",
           "fuentes": [
             "packer#136",
             "macarthur_ts#852"
@@ -146,7 +135,7 @@
       "titulo": "Hijos por adopción: Romanos 8, Gálatas 4 y el clamor «Abba»",
       "parrafos": [
         {
-          "texto": "Para decir cómo llegamos a ser hijos de Dios, el Nuevo Testamento usa la imagen de la adopción. Packer explica que en el mundo romano un adulto que quería un heredero para perpetuar el nombre de su familia solía adoptar a un varón como hijo, y que los apóstoles dicen que Dios amó tanto a quienes redimió que los adoptó como herederos para que compartan la gloria de su Hijo. Aclara que la palabra «adopción» aparece solo cinco veces en el Nuevo Testamento, y solo tres se refieren a la relación presente del cristiano con Dios: Romanos 8:14-15, Gálatas 4:5 y Efesios 1:5.",
+          "texto": "Para decir cómo llegamos a ser hijos, el Nuevo Testamento usa la adopción. Packer explica que en el mundo romano un adulto que quería un heredero que perpetuase su nombre solía adoptar a un varón como hijo, y que los apóstoles dicen que Dios amó tanto a quienes redimió que los adoptó como herederos para que compartan la gloria de su Hijo. Aclara que la palabra «adopción» aparece solo cinco veces en el Nuevo Testamento, y solo tres hablan de la relación presente del cristiano: Romanos 8:14-15, Gálatas 4:5 y Efesios 1:5.",
           "fuentes": [
             "packer#126",
             "packer#127",
@@ -154,38 +143,28 @@
           ]
         },
         {
-          "texto": "Oskar Arocha, en un artículo de la Coalición por el Evangelio, habla de un cambio de estado legal: de esclavos a hijos, comprado en la cruz, recibido por la fe y revelado por completo en la resurrección final. Compara la adopción con un juez que no solo perdona a un condenado sino que lo invita a su casa, le cambia el nombre y lo hace su hijo y heredero. Según Arocha, el pasaje de Efesios la une con la elección, para alabanza de la gloria de la gracia de Dios (Efesios 1:4-6).",
+          "texto": "Oskar Arocha, en la Coalición por el Evangelio, habla de un cambio de estado legal, de esclavos a hijos, comprado en la cruz, recibido por la fe y revelado por completo en la resurrección final. Es como si un juez no solo perdonara a un condenado sino que lo invitara a su casa y lo hiciera su hijo y heredero.",
           "fuentes": [
             "web_cpe_paternidad_dios#1",
             "web_cpe_paternidad_dios#2"
           ]
         },
         {
-          "texto": "En Romanos 8, Pablo dice que no recibimos un espíritu de esclavitud para volver al temor, sino el «espíritu de adopción» por el cual clamamos «¡Abba, Padre!» (Romanos 8:15), y que el Espíritu mismo da testimonio de que somos hijos (8:16). Según Sproul, el clamor de Pablo se basa en una realidad: somos hijos y por eso herederos de Dios y coherederos con Cristo (Romanos 8:17). Gálatas 4:6-7 ofrece la misma idea: porque somos hijos, Dios envió a nuestros corazones el Espíritu de su Hijo, que clama «Abba, Padre»; y por eso «ya no eres esclavo, sino hijo».",
+          "texto": "En Romanos 8 Pablo dice que no recibimos un espíritu de esclavitud para volver al temor sino el «espíritu de adopción», por el cual clamamos «¡Abba, Padre!» (Romanos 8:15), y que el Espíritu mismo da testimonio de que somos hijos (8:16) y, por tanto, herederos de Dios y coherederos con Cristo (8:17). Gálatas 4:6-7 dice lo mismo: porque somos hijos, Dios envió a nuestros corazones el Espíritu de su Hijo, que clama «Abba, Padre», y «ya no eres esclavo, sino hijo». Sobre el sentido de la palabra, Packer la describe como íntima y familiar; MacArthur, como signo de ternura entrañable; Arocha traduce el clamor como «¡Papá!».",
           "fuentes": [
             "sproul_ts#253",
             "sproul_ts#254",
-            "macarthur_ts#851"
-          ]
-        },
-        {
-          "texto": "¿Qué significa «Abba»? Packer lo describe como una palabra aramea, íntima, usada en el seno de la familia. MacArthur dice que señala la ternura y la intimidad más entrañables entre un padre y un hijo. Arocha traduce el clamor de Romanos 8:16 como «¡Papá!». Los tres coinciden en lo esencial: no es una fórmula solemne de distancia sino la voz de quien se sabe en casa.",
-          "fuentes": [
-            "packer#135",
+            "macarthur_ts#851",
             "macarthur_ts#852",
+            "packer#135",
             "web_cpe_paternidad_dios#1"
           ]
         },
         {
-          "texto": "Sobre cuándo se completa la adopción, Grudem recuerda que Pablo habla de ella también como algo futuro: aguardamos «nuestra adopción como hijos, es decir, la redención de nuestro cuerpo» (Romanos 8:23). Así que somos hijos ahora, y la plenitud de los privilegios llegará con los cuerpos resucitados.",
+          "texto": "Grudem recuerda que Pablo habla de la adopción también como algo futuro: aguardamos «nuestra adopción como hijos, es decir, la redención de nuestro cuerpo» (Romanos 8:23). Somos hijos ahora, y la plenitud llegará con los cuerpos resucitados. Owen pone el origen en el amor del Padre (1 Juan 3:1) y deja una frase que resume la lógica: Dios es nuestro Padre por ser Padre de Cristo, y nosotros somos sus hijos por ser hermanos de Cristo.",
           "fuentes": [
             "grudem#776",
-            "grudem#777"
-          ]
-        },
-        {
-          "texto": "John Owen pone el origen en el amor del Padre: de ese amor brota la adopción, según 1 Juan 3:1, y la fuente de todos nuestros privilegios. Define la adopción como el traslado autorizado de un creyente, por medio de Jesucristo, de la familia del mundo y de Satanás a la familia de Dios, con todos sus privilegios. Y deja una frase que resume la lógica: Dios es nuestro Padre por ser Padre de Cristo, y nosotros somos sus hijos por ser hermanos de Cristo.",
-          "fuentes": [
+            "grudem#777",
             "owen_comunion#214"
           ]
         }
@@ -195,40 +174,30 @@
       "titulo": "Qué es la paternidad de Dios y qué no es",
       "parrafos": [
         {
-          "texto": "Primero, la paternidad de Dios no es lo mismo que la de un padre humano. El Catecismo de la Iglesia Católica dice que al llamar Padre a Dios el lenguaje de la fe indica sobre todo dos cosas: que Dios es origen primero de todo y autoridad trascendente, y que es al mismo tiempo bondad y solicitud amorosa para con todos sus hijos. Recuerda que los padres humanos son falibles y pueden desfigurar esa imagen, y que Dios trasciende la distinción de los sexos: la ternura de Dios puede expresarse también con la imagen de la maternidad (Isaías 66:13; Salmo 131:2). Concluye que nadie es padre como lo es Dios.",
+          "texto": "No es igual a la de un padre humano. El Catecismo católico dice que al llamar Padre a Dios el lenguaje de la fe indica sobre todo que es origen primero de todo y autoridad trascendente, y a la vez bondad y solicitud amorosa. Reconoce que los padres humanos son falibles y pueden desfigurar la imagen, que Dios trasciende la distinción de los sexos y que su ternura puede expresarse con la imagen materna (Isaías 66:13; Salmo 131:2): nadie es padre como lo es Dios. Packer, ante quienes tuvieron padres ausentes o dañinos, responde que el ideal de paternidad se forma también por contraste, y que Dios dejó clara su paternidad revelándola en Jesús.",
           "fuentes": [
-            "web_vatican_cic_trinidad#3"
-          ]
-        },
-        {
-          "texto": "Packer toma en serio la objeción de quienes crecieron con padres ausentes o dañinos. Contesta que el ideal de paternidad también se forma por contraste: uno puede decir «mi padre me falló, pero Dios será distinto», o «nunca tuve un padre aquí, pero gracias a Dios ahora tengo uno en el cielo». Y agrega que Dios nos dejó claro lo que significa su paternidad al revelarla en Jesús, su Hijo.",
-          "fuentes": [
+            "web_vatican_cic_trinidad#3",
             "packer#128",
             "packer#129"
           ]
         },
         {
-          "texto": "Segundo, no es una paternidad que anule la santidad. Packer enfatiza que en el Nuevo Testamento sigue en pie la antigua revelación de la santidad de Dios y de la humildad que pide; lo que se agregó es que el creyente lo trata como Padre y se acerca con confianza, por la fe en Cristo (Efesios 3:12; Hebreos 10:19-22). Para él, el Santo es un Padre amante.",
+          "texto": "No anula la santidad. Packer enfatiza que en el Nuevo Testamento sigue en pie la antigua revelación de la santidad de Dios; lo que se agregó es que el creyente lo trata como Padre y se acerca con confianza por la fe en Cristo (Efesios 3:12; Hebreos 10:19-22). Para él, el Santo es un Padre amante.",
           "fuentes": [
             "packer#128"
           ]
         },
         {
-          "texto": "Tercero, no es una filiación igual a la de Cristo. Sproul advierte contra enseñanzas que hacen de cada cristiano una encarnación como Jesús, porque oscurecen la singularidad del Hijo. MacArthur precisa que la adopción no nos lleva a una unión de esencia con Cristo ni a participar de la vida interna de la Trinidad: podemos ser hijos de Dios por adopción, pero Cristo es el único Hijo eterno. Matthew Barrett, en Ligonier, lo resume así: nuestra filiación es por gracia, la de Cristo por naturaleza.",
+          "texto": "No es una filiación igual a la de Cristo. Sproul advierte contra enseñanzas que hacen de cada cristiano una encarnación como Jesús. MacArthur precisa que la adopción no nos lleva a una unión de esencia con Cristo ni a participar de la vida interna de la Trinidad. Matthew Barrett, en Ligonier, lo resume: nuestra filiación es por gracia, la de Cristo por naturaleza. Pero tampoco hay hijos de segunda clase, insiste Sproul: una vez ocurrida la adopción, Dios da a todos sus hijos la plenitud de la herencia del Hijo legítimo.",
           "fuentes": [
             "sproul_ts#252",
             "macarthur_ts#850",
-            "web_ligonier_dios_el_padre#4"
-          ]
-        },
-        {
-          "texto": "Cuarto, no hay hijos de segunda clase. Sproul insiste en que, una vez ocurrida la adopción, ya no hay diferencia de estatus dentro de la familia, y en que Dios da a todos sus hijos la plenitud de la herencia que pertenece al Hijo legítimo. Por eso, cada vez que decimos «Padre nuestro» deberíamos temblar de asombro.",
-          "fuentes": [
+            "web_ligonier_dios_el_padre#4",
             "sproul_ts#254"
           ]
         },
         {
-          "texto": "Y quinto, ¿es Dios Padre de todos los seres humanos? Es el tema donde los autores del día se separan un poco, y lo verás en el recuadro de posturas más abajo. Lo que sí es común es que todos distinguen entre ser criaturas de Dios y ser sus hijos por la fe en Cristo (Juan 1:12; Gálatas 3:26).",
+          "texto": "¿Y es Padre de todos los seres humanos? Es donde los autores del día se separan un poco, como verás en el recuadro de posturas. Lo común es que todos distinguen entre ser criaturas de Dios y ser sus hijos por la fe en Cristo (Juan 1:12; Gálatas 3:26).",
           "fuentes": [
             "packer#126",
             "macarthur_ts#850",
@@ -271,7 +240,7 @@
       "translit": "abbá",
       "idioma": "arameo",
       "ref": "Ro 8:15",
-      "significado": "Padre. Packer la describe como una palabra aramea íntima, usada en el seno de la familia, con la que Jesús oraba a Dios; MacArthur dice que expresa ternura e intimidad entrañables entre un padre y un hijo, y que en el Nuevo Testamento aparece en Mr 14:36, Ro 8:15 y Gá 4:6.",
+      "significado": "Padre. Packer la describe como una palabra aramea íntima, usada en la familia, con la que Jesús oraba a Dios; MacArthur dice que expresa ternura e intimidad entrañables, y que en el Nuevo Testamento aparece en Mr 14:36, Ro 8:15 y Gá 4:6.",
       "fuentes": [
         "packer#135",
         "macarthur_ts#852"
@@ -282,7 +251,7 @@
       "translit": "monogenés",
       "idioma": "griego",
       "ref": "Jn 3:16",
-      "significado": "Unigénito. MacArthur explica que viene de «único» y «clase» o «tipo», y habla de alguien único en su especie; Sproul lo usa para proteger la singularidad de Cristo como Hijo del Padre.",
+      "significado": "Unigénito. MacArthur explica que viene de «único» y «clase» o «tipo», y habla de alguien único en su especie; Sproul lo usa para proteger la singularidad de Cristo como Hijo.",
       "fuentes": [
         "macarthur_ts#849",
         "sproul_ts#253"
@@ -291,7 +260,7 @@
   ],
   "cristo": [
     {
-      "texto": "El Hijo que nos hace hijos. Lo explícito en el Nuevo Testamento es que Dios es «el Dios y Padre de nuestro Señor Jesucristo», que Jesús distingue su filiación de la nuestra y aun así llama «hermanos» a sus discípulos (Juan 20:17), y que a quienes lo reciben les da el derecho de ser hijos de Dios (Juan 1:12). Packer lo resume diciendo que conocemos a Dios como Padre en Cristo y por medio de él, y Owen dice que somos hijos por ser hermanos de Cristo.",
+      "texto": "El Hijo que nos hace hijos. Lo explícito en el Nuevo Testamento es que Dios es «el Dios y Padre de nuestro Señor Jesucristo», que Jesús distingue su filiación de la nuestra y aun así llama hermanos a sus discípulos (Juan 20:17), y que a quienes lo reciben les da el derecho de ser hijos de Dios (Juan 1:12). Owen resume: somos hijos por ser hermanos de Cristo.",
       "refs": [
         "Jn 20:17",
         "Jn 1:12",
@@ -304,7 +273,7 @@
       ]
     },
     {
-      "texto": "Getsemaní. La única vez que los Evangelios muestran a Jesús diciendo «Abba» es en su hora más oscura (Marcos 14:36). MacArthur ve ahí el contraste: su clamor no fue atendido para que el nuestro lo fuera. Esto es una lectura del autor sobre un hecho que el texto narra, no una afirmación explícita del Nuevo Testamento.",
+      "texto": "Getsemaní. La única vez que los Evangelios muestran a Jesús diciendo «Abba» es en su hora más oscura (Marcos 14:36). MacArthur ve ahí un contraste con nuestro clamor; es su lectura de un hecho que el texto narra, no una afirmación explícita del Nuevo Testamento.",
       "refs": [
         "Mr 14:36",
         "Ro 8:15"
@@ -314,7 +283,7 @@
       ]
     },
     {
-      "texto": "Un patrón que el Antiguo Testamento prepara. Dios llamó a Israel su hijo primogénito (Éxodo 4:22) y prometió ser padre del hijo de David (2 Samuel 7:14). Hebreos 1:5 cita esa promesa para hablar del Hijo, lo que establece el propio texto; Mateo 2:15 aplica a Jesús el «de Egipto llamé a mi hijo» de Oseas 11:1. Las fuentes de hoy muestran los dos usos antiguos, pero no desarrollan esa conexión, así que se señala solo lo que dicen esos pasajes.",
+      "texto": "Un patrón que el Antiguo Testamento prepara. Dios llamó a Israel su hijo primogénito (Éxodo 4:22) y prometió ser padre del hijo de David (2 Samuel 7:14). Hebreos 1:5 cita esa promesa del Hijo, y Mateo 2:15 aplica a Jesús el «de Egipto llamé a mi hijo» de Oseas 11:1: eso lo establecen los propios textos. Las fuentes de hoy muestran los usos antiguos, pero no desarrollan esa conexión.",
       "refs": [
         "Éx 4:22",
         "2 S 7:14",
@@ -333,14 +302,14 @@
       "tema": "¿Es Dios Padre de todos los seres humanos?",
       "posturas": [
         {
-          "postura": "La idea de que todos los hombres son hijos de Dios no se encuentra en la Biblia. El Antiguo Testamento lo muestra como Padre de su pueblo, y el Nuevo, de quienes ponen su confianza en Cristo; ser hijo no es una condición de nacimiento natural sino un don que se recibe. Aquí solo aparece la voz de Packer.",
+          "postura": "La idea de que todos los hombres son hijos de Dios no se encuentra en la Biblia: el Antiguo Testamento lo muestra como Padre de su pueblo, y el Nuevo, de quienes confían en Cristo; ser hijo no es una condición de nacimiento natural sino un don.",
           "quien": "Packer",
           "fuentes": [
             "packer#126"
           ]
         },
         {
-          "postura": "Dios es Creador de todos y en ese sentido, solo en ese, es Padre universal (Hechos 17:25-29; Malaquías 2:10). Pero eso no significa que todos sean sus hijos en el sentido de la adopción: los incrédulos son hijos de ira, y Jesús niega ante los fariseos que Dios sea su padre (Juan 8:42-44). MacArthur ve la paternidad de las pasajes de adopción como «redentora».",
+          "postura": "Dios es Creador de todos y solo en ese sentido es Padre universal (Hechos 17:25-29; Malaquías 2:10), pero eso no hace a todos hijos en el sentido de la adopción: los incrédulos son hijos de ira y Jesús niega que Dios sea padre de los fariseos (Juan 8:42-44). Los pasajes de adopción hablan, dice, de una paternidad redentora.",
           "quien": "MacArthur",
           "fuentes": [
             "macarthur_ts#850",
@@ -348,7 +317,7 @@
           ]
         },
         {
-          "postura": "Dios es Padre de toda la creación en una manera especial: la primera persona es Creador de todos los seres morales (Efesios 3:14-15; Hebreos 12:9; Hechos 17:29). Solo en ese sentido es correcto hablar de paternidad universal, y no justifica que todos sean salvos; en sentido espiritual solo son hijos los que creen en Cristo.",
+          "postura": "La primera persona es, de una manera especial, Padre de toda la creación (Efesios 3:14-15; Hebreos 12:9; Hechos 17:29). Solo en ese sentido es correcto hablar de paternidad universal, y no implica salvación; en sentido espiritual solo son hijos los que creen en Cristo.",
           "quien": "Chafer",
           "fuentes": [
             "chafer#60",
@@ -357,27 +326,27 @@
           ]
         },
         {
-          "postura": "Dios es Padre «sí y no»: hay por lo menos tres sentidos, a saber, Padre de todos por creación (Génesis 5:1-3; Malaquías 2:10; Hechos 17:29), Padre de Israel por elección (Éxodo 4:22), y Padre que adopta en Cristo (Gálatas 3:26).",
+          "postura": "Dios es Padre «sí y no»: hay tres sentidos, Padre de todos por creación (Génesis 5:1-3; Malaquías 2:10; Hechos 17:29), Padre de Israel por elección (Éxodo 4:22) y Padre que adopta en Cristo (Gálatas 3:26).",
           "quien": "Arocha (Coalición por el Evangelio)",
           "fuentes": [
             "web_cpe_paternidad_dios#1"
           ]
         },
         {
-          "postura": "Sproul, por su parte, discute la tesis del erudito Adolf von Harnack, para quien la esencia del cristianismo es la paternidad universal de Dios y la hermandad universal de los hombres; responde que ninguno de los dos conceptos se enseña en la Biblia, aunque Dios sea Creador de toda la gente.",
+          "postura": "Discute la tesis de Adolf von Harnack, para quien la esencia del cristianismo es la paternidad universal de Dios y la hermandad universal de los hombres: ninguno de los dos conceptos se enseña en la Biblia, aunque Dios sea Creador de toda la gente.",
           "quien": "Sproul",
           "fuentes": [
             "sproul_ts#252"
           ]
         }
       ],
-      "nota": "Los cinco coinciden en que la filiación que da el evangelio, con sus privilegios, es solo para quienes creen en Cristo. Difieren en cómo llamar a lo que Dios es para toda criatura: Packer dice que la idea no está en la Biblia, MacArthur, Chafer y Arocha reconocen un sentido de creación. El Catecismo católico (238) solo describe que en Israel Dios es llamado Padre como Creador; su enseñanza propia sobre la filiación se estudiará con sus documentos en los ciclos de otras tradiciones."
+      "nota": "Todos coinciden en que la filiación que da el evangelio es solo para quienes creen en Cristo. Difieren en cómo llamar lo que Dios es para toda criatura: Packer dice que la idea no está en la Biblia, mientras MacArthur, Chafer y Arocha reconocen un sentido de creación. El Catecismo católico solo describe aquí que Dios es llamado Padre en Israel como Creador; su enseñanza sobre la filiación se estudiará con sus propios documentos en los ciclos de otras tradiciones."
     },
     {
-      "tema": "¿La adopción forma parte de la justificación, o es una bendición distinta?",
+      "tema": "¿La adopción forma parte de la justificación o es una bendición distinta?",
       "posturas": [
         {
-          "postura": "Dios adopta al creyente por medio de la justificación, dándole los derechos de hijo; esa filiación legal debe distinguirse de la filiación espiritual que se recibe por la regeneración y la santificación, una «doble filiación» que Berkhof ve en Juan 1:12-13, Romanos 8:15-16 y Gálatas 4:5-6.",
+          "postura": "Dios adopta al creyente por medio de la justificación, otorgándole los derechos de hijo; esa filiación legal se distingue de la espiritual que se recibe por la regeneración y la santificación, una «doble filiación» que Berkhof ve en Juan 1:12-13, Romanos 8:15-16 y Gálatas 4:5-6.",
           "quien": "Berkhof",
           "fuentes": [
             "berkhof#200"
@@ -391,14 +360,14 @@
           ]
         },
         {
-          "postura": "La adopción es una bendición distinta de la justificación y mayor que ella: la justificación es una idea forense, con Dios como juez, mientras que la adopción es una idea familiar, con Dios como padre. Packer critica expresamente a los manuales, como el de Berkhof, que la tratan como una subsección de la justificación.",
+          "postura": "Es una bendición distinta y mayor: la justificación es una idea forense, con Dios como juez, y la adopción una idea familiar, con Dios como padre. Packer critica a los manuales, el de Berkhof entre ellos, que la tratan como subsección de la justificación.",
           "quien": "Packer",
           "fuentes": [
             "packer#131"
           ]
         },
         {
-          "postura": "Es distinta de la justificación y de la regeneración: Dios podría habernos dado perdón y vida nueva sin hacernos sus hijos. Según Grudem, el Nuevo Testamento nunca conecta la adopción con la regeneración, sino con la fe salvadora (Juan 1:12; Gálatas 3:26); la idea de adoptar es lo opuesto a nacer en una familia.",
+          "postura": "Es distinta de la justificación y de la regeneración: Dios pudo darnos perdón y vida nueva sin hacernos hijos. El Nuevo Testamento, dice, nunca conecta la adopción con la regeneración sino con la fe (Juan 1:12; Gálatas 3:26).",
           "quien": "Grudem",
           "fuentes": [
             "grudem#777",
@@ -406,7 +375,7 @@
           ]
         },
         {
-          "postura": "La adopción no es una subparte de la justificación ni se confunde con la regeneración: la regeneración es obra del Espíritu y transforma, la adopción es un acto del Padre y es declarativa, y la justificación declara justo mientras que la adopción declara miembro de la familia.",
+          "postura": "Tampoco es subconjunto de la justificación ni se confunde con la regeneración: la regeneración es obra del Espíritu y transforma, mientras que la adopción es un acto declarativo del Padre.",
           "quien": "MacArthur",
           "fuentes": [
             "macarthur_ts#848",
@@ -414,20 +383,20 @@
           ]
         },
         {
-          "postura": "Por la regeneración que obra el Espíritu Santo, el creyente es hecho hijo legítimo de Dios y, por ese nacimiento, heredero y coheredero con Cristo (Juan 1:12-13; Romanos 8:16-17).",
+          "postura": "Por la regeneración que obra el Espíritu Santo, el creyente es hecho hijo legítimo de Dios y, por ese nacimiento, heredero con Cristo (Juan 1:12-13; Romanos 8:16-17).",
           "quien": "Chafer",
           "fuentes": [
             "chafer#66"
           ]
         }
       ],
-      "nota": "Es un debate entre autores que se mueven dentro de la fe reformada y evangélica; no todos usan las palabras igual. La relación entre regeneración, justificación y adopción se retoma en la serie sobre la salvación."
+      "nota": "Es un debate entre autores evangélicos y reformados que no usan las palabras igual. La relación entre regeneración, justificación y adopción se retoma en la serie sobre la salvación."
     },
     {
       "tema": "¿Qué tan nuevo es llamar Padre a Dios?",
       "posturas": [
         {
-          "postura": "Es un cambio de enorme alcance: lo que más caracteriza al Nuevo Testamento frente al Antiguo es el conocimiento de la paternidad de Dios, y «Padre» es ahora el nombre del pacto. Sproul agrega, siguiendo a Jeremias, que llamarlo así fue una ruptura radical con la costumbre judía.",
+          "postura": "Es un cambio enorme: lo que más distingue al Nuevo Testamento del Antiguo es el conocimiento de la paternidad de Dios, y «Padre» pasa a ser el nombre del pacto. Sproul agrega, siguiendo a Jeremias, que fue una ruptura con la costumbre judía.",
           "quien": "Packer y Sproul",
           "fuentes": [
             "packer#127",
@@ -436,27 +405,27 @@
           ]
         },
         {
-          "postura": "El Antiguo Testamento ya llamaba Padre a Dios y llamaba hijos a los israelitas, pero los privilegios plenos de pertenecer a su familia llegaron con Cristo y el Espíritu.",
+          "postura": "El Antiguo Testamento ya llamaba Padre a Dios, pero los privilegios plenos de la familia llegaron con Cristo y el Espíritu.",
           "quien": "Grudem",
           "fuentes": [
             "grudem#776"
           ]
         },
         {
-          "postura": "El título ya se usaba en Israel por la creación, la alianza, el rey y los huérfanos; con Jesús el nombre de Padre adquiere un sentido nuevo: no solo Creador, sino Padre eterno de su Hijo único.",
+          "postura": "El título ya se usaba en Israel (creación, alianza, rey, huérfanos); con Jesús adquiere un sentido nuevo: no solo Creador sino Padre eterno de su Hijo único.",
           "quien": "Catecismo de la Iglesia Católica",
           "fuentes": [
             "web_vatican_cic_trinidad#3"
           ]
         }
       ],
-      "nota": "No son posturas opuestas sino énfasis distintos sobre lo mismo: qué había y qué se agrega. Los tres reconocen que algo se mantiene y algo cambia."
+      "nota": "No son posturas opuestas sino énfasis distintos sobre qué había y qué se agrega."
     }
   ],
   "conexiones": [
     {
       "ref": "1 Jn 3:1-2",
-      "nota": "Packer, Sproul, Owen y Grudem citan este texto como el estallido de asombro del apóstol ante el amor de un Padre que nos llama hijos.",
+      "nota": "Packer, Sproul, Owen y Grudem lo citan como el asombro del apóstol ante el amor de un Padre que nos llama hijos.",
       "fuentes": [
         "packer#127",
         "sproul_ts#252",
@@ -466,7 +435,7 @@
     },
     {
       "ref": "Ef 1:5",
-      "nota": "La adopción está ligada a la elección y es un acto del Padre; Arocha la relaciona con la alabanza de la gloria de su gracia.",
+      "nota": "La adopción es un acto del Padre ligado a la elección.",
       "fuentes": [
         "web_cpe_paternidad_dios#2",
         "macarthur_ts#848"
@@ -474,7 +443,7 @@
     },
     {
       "ref": "Sal 103:13",
-      "nota": "Como el padre se compadece de sus hijos: pasaje del Antiguo Testamento que Chafer, Grudem y MacArthur citan para mostrar el cuidado paternal de Dios.",
+      "nota": "Como el padre se compadece de sus hijos: Chafer, Grudem y MacArthur lo citan para mostrar el cuidado paternal de Dios.",
       "fuentes": [
         "chafer#62",
         "grudem#776",
@@ -482,25 +451,10 @@
       ]
     },
     {
-      "ref": "He 2:11-12",
-      "nota": "Cristo no se avergüenza de llamarnos hermanos, porque el que santifica y los santificados tienen un mismo Padre.",
-      "fuentes": [
-        "macarthur_ts#849",
-        "packer#133"
-      ]
-    },
-    {
       "ref": "Ro 8:23",
       "nota": "La adopción tiene también un lado futuro: la redención de nuestro cuerpo.",
       "fuentes": [
         "grudem#777"
-      ]
-    },
-    {
-      "ref": "Is 66:13",
-      "nota": "El Catecismo católico recuerda que la ternura de Dios se expresa también con la imagen de una madre, sin que eso cambie el nombre que Jesús nos enseñó.",
-      "fuentes": [
-        "web_vatican_cic_trinidad#3"
       ]
     }
   ],
@@ -512,45 +466,30 @@
       ]
     },
     {
-      "texto": "Cuando te asalte la ansiedad por lo material, respondete como Jesús en Mateo 6:25-33: tienes un Padre celestial que sabe lo que necesitás. Packer pregunta si confiamos en él como una niña confía en su papá al volante, y si no, por qué.",
+      "texto": "Cuando te asalte la ansiedad por lo material, respondete como Jesús en Mateo 6:25-33: tenés un Padre celestial que sabe lo que necesitás. Packer pregunta si confiamos en él como la niña confía en su papá al volante.",
       "fuentes": [
         "packer#136"
       ]
     },
     {
-      "texto": "Pedí con franqueza, sin fórmulas ni vanas repeticiones, y aceptá que un buen padre a veces te da lo que necesitás más que lo que pediste, como pasó con Pablo y su aguijón.",
+      "texto": "Pedí con franqueza, sin fórmulas ni vanas repeticiones, y aceptá que un buen padre a veces da lo que necesitás más que lo que pediste, como pasó con Pablo y su aguijón.",
       "fuentes": [
         "packer#135"
-      ]
-    },
-    {
-      "texto": "Si tu experiencia con tu padre humano es dolorosa, no dejes que defina a Dios: Packer propone partir de lo que sí sabés que debería ser un padre y mirar a Jesús para ver cómo es el Padre.",
-      "fuentes": [
-        "packer#128",
-        "packer#129"
       ]
     }
   ],
   "para_reflexionar": [
-    "Cuando orás, ¿te dirigís a Dios más como a un juez, un patrón lejano o un padre? ¿Qué cambia en tu manera de pedir y de confiar si lo llamás Padre de verdad?",
-    "Packer dice que los hijos de Dios imitan al Padre, lo glorifican y buscan agradarlo. ¿En cuál de esas tres cosas notás más tu familia espiritual y en cuál menos?",
-    "¿Qué te produce la idea de que Dios nos adopta y no solo nos perdona? ¿Cómo cambiaría tu manera de vivir la vida de iglesia si pensaras en los demás creyentes como hermanos de la misma casa?"
+    "Cuando orás, ¿te dirigís a Dios más como a un juez, un patrón lejano o un padre? ¿Qué cambia en tu manera de pedir si lo llamás Padre de verdad?",
+    "Packer dice que los hijos de Dios imitan al Padre, lo glorifican y buscan agradarlo. ¿En cuál de esas tres cosas se nota más tu familia espiritual y en cuál menos?",
+    "¿Qué te produce saber que Dios no solo te perdona sino que te adopta? ¿Cómo cambiaría tu manera de mirar a los demás creyentes si los pensaras como hermanos de la misma casa?"
   ],
   "profundizar": [
     {
       "titulo": "El Padre como origen dentro de la Trinidad",
-      "texto": "Matthew Barrett, en Ligonier, explica que solo el Padre es ingénito, y que los padres de la Iglesia lo llamaban el principio, la fuente o el origen de la divinidad: de él es engendrado el Hijo y de él es espirado el Espíritu. Por eso, dice, el Hijo es enviado por el Padre y no al revés, y por eso la Escritura suele nombrar primero al Padre (Mateo 28:19), sin que eso signifique que el Hijo y el Espíritu sean menores: las tres personas son coeternas y coiguales. Para Barrett el Padre es, en ese sentido, el arquitecto de la creación y la salvación, y de ahí concluye que podemos ser adoptados en su familia por medio de Cristo. Chafer coincide en que la relación de Padre e Hijo es eterna y dentro de la Trinidad, y que no se limita a la encarnación. Cómo se relacionan las tres personas se estudia en la serie sobre la Trinidad.",
+      "texto": "Matthew Barrett, en Ligonier, explica que solo el Padre es ingénito, y que los padres de la Iglesia lo llamaban principio, fuente u origen de la divinidad: de él es engendrado el Hijo y de él es espirado el Espíritu. Por eso el Hijo es enviado por el Padre y no al revés, y por eso la Escritura suele nombrar primero al Padre (Mateo 28:19), sin que eso haga al Hijo y al Espíritu menores: las tres personas son coeternas y coiguales. Para Barrett el Padre es el arquitecto de la creación y la salvación, y de ahí concluye que podemos ser adoptados en su familia por medio de Cristo. Cómo se relacionan las tres personas se estudia en la serie sobre la Trinidad.",
       "fuentes": [
         "web_ligonier_dios_el_padre#3",
-        "web_ligonier_dios_el_padre#4",
-        "chafer#63"
-      ]
-    },
-    {
-      "titulo": "Adopción y unión con Cristo",
-      "texto": "Sproul añade que en la adopción disfrutamos también la unión mística del creyente con Cristo, que trasciende lo natural y en cierto sentido es inefable, y que el Nuevo Testamento nos llama a creer no solo sobre Cristo sino a entrar en él. Es un tema que se retomará al estudiar la vida en Cristo.",
-      "fuentes": [
-        "sproul_ts#254"
+        "web_ligonier_dios_el_padre#4"
       ]
     }
   ]

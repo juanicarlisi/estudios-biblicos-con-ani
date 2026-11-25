@@ -2,135 +2,511 @@
   "dia": 46,
   "titulo": "Acto 1, la creación: un mundo bueno hecho para la presencia de Dios",
   "bajada": "Génesis 1–2 ocupa pocas páginas y es el escenario de toda la Biblia. ¿Quién crea, cómo es lo creado, qué es el ser humano y dónde habita Dios con él?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Génesis 1:26–2:3; Colosenses 1:15-20", "porque": "Génesis muestra a Dios haciendo al ser humano a su imagen y reposando; Colosenses revela que esa obra fue por medio de Cristo y para él."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Génesis 1:26–2:3; Colosenses 1:15-20",
+    "porque": "Génesis muestra a Dios haciendo al ser humano a su imagen y reposando; Colosenses revela que esa obra fue por medio de Cristo y para él."
+  },
   "versiculos": [
-    {"ref": "Génesis 1:27", "porque": "Dice en pocas palabras qué es el ser humano: hecho por Dios, a su imagen, varón y mujer."},
-    {"ref": "Colosenses 1:16", "porque": "Pablo une la creación con Cristo: todo fue hecho por medio de él y para él."}
+    {
+      "ref": "Génesis 1:27",
+      "porque": "Dice en pocas palabras qué es el ser humano: hecho por Dios, a su imagen, varón y mujer."
+    },
+    {
+      "ref": "Colosenses 1:16",
+      "porque": "Pablo une la creación con Cristo: todo fue hecho por medio de él y para él."
+    }
   ],
   "entrada": {
     "texto": "Si la Biblia fuera una obra de teatro, el primer acto ocuparía apenas un par de páginas. La Coalición por el Evangelio describe Génesis 1–2 como una sección corta pero fundamental para todo lo que sigue, porque prepara el escenario del drama. Derek Kidner, citado por Grudem, usa una imagen parecida: el prólogo se acaba en una página, y las que siguen son mil.\n\nHoy no vamos a resolver todo lo que se discute sobre el cómo y el cuándo de la creación (los evangélicos leen Génesis 1 de varias maneras y las fuentes no lo zanjan). Vamos a mirar lo que el texto pone en escena: quién crea, cómo es lo creado, qué es el ser humano y dónde habita Dios con él.",
-    "fuentes": ["web_cpe_historia_mensaje_biblia#1", "web_cpe_historia_mensaje_biblia#2", "grudem#278"]
+    "fuentes": [
+      "web_cpe_historia_mensaje_biblia#1",
+      "web_cpe_historia_mensaje_biblia#2",
+      "grudem#278"
+    ]
   },
   "apartados": [
     {
       "titulo": "Dios habla y todo existe",
       "parrafos": [
-        {"texto": "Génesis 1 muestra a Dios creando con su palabra, y el resto de la Biblia lo repite. Grudem reúne los testimonios: el Salmo 33:6 y 9, Juan 1:3, Colosenses 1:16 (todo, visible e invisible) y Apocalipsis 4:11, que atribuye la existencia de todo a la voluntad de Dios. MacArthur agrega que Dios no usó materia ya existente (Romanos 4:17; Hebreos 11:3).", "fuentes": ["grudem#275", "macarthur_ts#549"]},
-        {"texto": "Berkhof precisa qué quiere decir «crear a partir de la nada»: no que el mundo surgiera sin causa, sino que Dios no empleó materiales preexistentes; la causa es su voluntad. Aclara que esa expresión solo aparece en uno de los libros apócrifos, y que la doctrina se apoya en textos como el Salmo 33:9 y Hebreos 11:3. Grudem destaca dos consecuencias: nada en el universo es eterno ni merece adoración en lugar de Dios, y el universo tiene un propósito, que es dar gloria a Dios.", "fuentes": ["berkhof#73", "grudem#276"]},
-        {"texto": "La creación es distinta de Dios, pero depende de él. Grudem lo expresa con los términos trascendente e inmanente; Berkhof dice que el mundo es sostenido día a día por el poder de Dios, que nunca está distante (Salmo 139:7-10). En esta obra interviene el Dios trino: según MacArthur, el Padre la inició, el Hijo la hizo como mediador (Juan 1:3; Colosenses 1:16) y el Espíritu participó (Génesis 1:2). Grudem observa que el testimonio bíblico sobre el Espíritu en la creación es más escaso que sobre el Hijo.", "fuentes": ["grudem#279", "berkhof#73", "macarthur_ts#282", "macarthur_ts#283"]}
+        {
+          "texto": "Génesis 1 muestra a Dios creando con su palabra, y el resto de la Biblia lo repite. Grudem reúne los testimonios: el Salmo 33:6 y 9, Juan 1:3, Colosenses 1:16 (todo, visible e invisible) y Apocalipsis 4:11, que atribuye la existencia de todo a la voluntad de Dios. MacArthur agrega que Dios no usó materia ya existente (Romanos 4:17; Hebreos 11:3).",
+          "fuentes": [
+            "grudem#275",
+            "macarthur_ts#549"
+          ]
+        },
+        {
+          "texto": "Berkhof precisa qué quiere decir «crear a partir de la nada»: no que el mundo surgiera sin causa, sino que Dios no empleó materiales preexistentes; la causa es su voluntad. Aclara que esa expresión solo aparece en uno de los libros apócrifos, y que la doctrina se apoya en textos como el Salmo 33:9 y Hebreos 11:3. Grudem destaca dos consecuencias: nada en el universo es eterno ni merece adoración en lugar de Dios, y el universo tiene un propósito, que es dar gloria a Dios.",
+          "fuentes": [
+            "berkhof#73",
+            "grudem#276"
+          ]
+        },
+        {
+          "texto": "La creación es distinta de Dios, pero depende de él. Grudem lo expresa con los términos trascendente e inmanente; Berkhof dice que el mundo es sostenido día a día por el poder de Dios, que nunca está distante (Salmo 139:7-10). En esta obra interviene el Dios trino: según MacArthur, el Padre la inició, el Hijo la hizo como mediador (Juan 1:3; Colosenses 1:16) y el Espíritu participó (Génesis 1:2). Grudem observa que el testimonio bíblico sobre el Espíritu en la creación es más escaso que sobre el Hijo.",
+          "fuentes": [
+            "grudem#279",
+            "berkhof#73",
+            "macarthur_ts#282",
+            "macarthur_ts#283"
+          ]
+        }
       ],
-      "destacado": {"texto": "La creación no es parte de Dios ni se sostiene sola: es obra de su palabra y vive de su sostén.", "fuentes": ["grudem#279", "berkhof#73"]}
+      "destacado": {
+        "texto": "La creación no es parte de Dios ni se sostiene sola: es obra de su palabra y vive de su sostén.",
+        "fuentes": [
+          "grudem#279",
+          "berkhof#73"
+        ]
+      }
     },
     {
       "titulo": "Un mundo «bueno en gran manera»",
       "parrafos": [
-        {"texto": "Al cerrar el sexto día, Génesis 1:31 dice que lo hecho «era bueno en gran manera». La Coalición por el Evangelio subraya que la creación es en sí misma buena y que es el lugar donde Dios siempre quiso morar con su pueblo. MacArthur la describe como perfecta en su origen: sin corrupción y sin muerte.", "fuentes": ["web_cpe_teologia_biblica_creacion#1", "macarthur_ts#284"]},
-        {"texto": "Que lo material sea bueno no era obvio para todos. Según MacArthur, los falsos maestros de Colosas creían que la materia era mala y negaban que Cristo la hubiera creado; Pablo responde que Jesús creó todas las cosas, y MacArthur lo lee como un rechazo del dualismo que despreciaba lo material.", "fuentes": ["colosenses_comentario_macarthur__archivo#34"]},
-        {"texto": "Lo creado, además, habla de su Autor. MacArthur cita el Salmo 19:1 y Romanos 1:20: el poder eterno y la deidad de Dios se ven desde la creación del mundo. Berkhof agrega sobre el séptimo día que el descanso de Dios significa que concluyó su obra y que le agradó, como el artista que encuentra satisfacción al contemplarla.", "fuentes": ["macarthur_ts#550", "berkhof#81"]}
+        {
+          "texto": "Al cerrar el sexto día, Génesis 1:31 dice que lo hecho «era bueno en gran manera». La Coalición por el Evangelio subraya que la creación es en sí misma buena y que es el lugar donde Dios siempre quiso morar con su pueblo. MacArthur la describe como perfecta en su origen: sin corrupción y sin muerte.",
+          "fuentes": [
+            "web_cpe_teologia_biblica_creacion#1",
+            "macarthur_ts#284"
+          ]
+        },
+        {
+          "texto": "Que lo material sea bueno no era obvio para todos. Según MacArthur, los falsos maestros de Colosas creían que la materia era mala y negaban que Cristo la hubiera creado; Pablo responde que Jesús creó todas las cosas, y MacArthur lo lee como un rechazo del dualismo que despreciaba lo material.",
+          "fuentes": [
+            "colosenses_comentario_macarthur__archivo#34"
+          ]
+        },
+        {
+          "texto": "Lo creado, además, habla de su Autor. MacArthur cita el Salmo 19:1 y Romanos 1:20: el poder eterno y la deidad de Dios se ven desde la creación del mundo. Berkhof agrega sobre el séptimo día que el descanso de Dios significa que concluyó su obra y que le agradó, como el artista que encuentra satisfacción al contemplarla.",
+          "fuentes": [
+            "macarthur_ts#550",
+            "berkhof#81"
+          ]
+        }
       ],
-      "destacado": {"texto": "El mundo no es un accidente ni un error: Dios lo hizo, lo vio y lo declaró bueno.", "fuentes": ["web_cpe_teologia_biblica_creacion#1", "macarthur_ts#284"]}
+      "destacado": {
+        "texto": "El mundo no es un accidente ni un error: Dios lo hizo, lo vio y lo declaró bueno.",
+        "fuentes": [
+          "web_cpe_teologia_biblica_creacion#1",
+          "macarthur_ts#284"
+        ]
+      }
     },
     {
       "titulo": "A imagen de Dios: qué es el ser humano",
       "parrafos": [
-        {"texto": "De todo lo que Dios hizo, solo del ser humano se dice que fue creado «a nuestra imagen, conforme a nuestra semejanza» (Génesis 1:26). Grudem define la expresión así: el hombre es como Dios y lo representa. Explica que las palabras hebreas tselem («imagen») y demut («semejanza») indican algo parecido, no idéntico, a lo que representa, y por eso desconfía de las listas estrechas de rasgos: la imagen abarca toda forma en que el hombre se parece a Dios. Lo ilustra con Génesis 5:3, donde Set se parece a Adán sin que el texto enumere en qué.", "fuentes": ["grudem#465", "grudem#466"]},
-        {"texto": "Berkhof coincide en que «imagen» y «semejanza» son probablemente sinónimos (Génesis 5:1; Colosenses 3:10; Santiago 3:9) y agrega que la imagen es lo que más distingue al ser humano de los animales y de toda otra criatura, incluso de los ángeles. Grudem subraya la formación especial de Adán del polvo (Génesis 2:7) y de Eva del cuerpo de Adán (Génesis 2:21-22). MacArthur añade que ser varón y mujer y vivir en relación refleja al Dios trino, que según él tiene comunión perfecta desde la eternidad.", "fuentes": ["berkhof#96", "berkhof#97", "grudem#277", "grudem#278", "macarthur_ts#560", "macarthur_ts#562"]},
-        {"texto": "¿Qué pasó con la imagen tras la caída? Grudem y MacArthur responden igual: quedó distorsionada, no eliminada. Ambos lo apoyan en Génesis 9:6, que protege la sangre humana porque el hombre fue hecho a imagen de Dios, y en Santiago 3:9, que condena maldecir a las personas. Y en Cristo se va renovando (Colosenses 3:10; 2 Corintios 3:18), según Grudem.", "fuentes": ["grudem#466", "grudem#467", "macarthur_ts#560"]}
+        {
+          "texto": "De todo lo que Dios hizo, solo del ser humano se dice que fue creado «a nuestra imagen, conforme a nuestra semejanza» (Génesis 1:26). Grudem define la expresión así: el hombre es como Dios y lo representa. Explica que las palabras hebreas tselem («imagen») y demut («semejanza») indican algo parecido, no idéntico, a lo que representa, y por eso desconfía de las listas estrechas de rasgos: la imagen abarca toda forma en que el hombre se parece a Dios. Lo ilustra con Génesis 5:3, donde Set se parece a Adán sin que el texto enumere en qué.",
+          "fuentes": [
+            "grudem#465",
+            "grudem#466"
+          ]
+        },
+        {
+          "texto": "Berkhof coincide en que «imagen» y «semejanza» son probablemente sinónimos (Génesis 5:1; Colosenses 3:10; Santiago 3:9) y agrega que la imagen es lo que más distingue al ser humano de los animales y de toda otra criatura, incluso de los ángeles. Grudem subraya la formación especial de Adán del polvo (Génesis 2:7) y de Eva del cuerpo de Adán (Génesis 2:21-22). MacArthur añade que ser varón y mujer y vivir en relación refleja al Dios trino, que según él tiene comunión perfecta desde la eternidad.",
+          "fuentes": [
+            "berkhof#96",
+            "berkhof#97",
+            "grudem#277",
+            "grudem#278",
+            "macarthur_ts#560",
+            "macarthur_ts#562"
+          ]
+        },
+        {
+          "texto": "¿Qué pasó con la imagen tras la caída? Grudem y MacArthur responden igual: quedó distorsionada, no eliminada. Ambos lo apoyan en Génesis 9:6, que protege la sangre humana porque el hombre fue hecho a imagen de Dios, y en Santiago 3:9, que condena maldecir a las personas. Y en Cristo se va renovando (Colosenses 3:10; 2 Corintios 3:18), según Grudem.",
+          "fuentes": [
+            "grudem#466",
+            "grudem#467",
+            "macarthur_ts#560"
+          ]
+        }
       ],
-      "destacado": {"texto": "Cada persona lleva la imagen de Dios, también después de la caída: por eso Génesis 9:6 y Santiago 3:9 la usan para proteger la vida y la palabra.", "fuentes": ["grudem#467", "macarthur_ts#560"]}
+      "destacado": {
+        "texto": "Cada persona lleva la imagen de Dios, también después de la caída: por eso Génesis 9:6 y Santiago 3:9 la usan para proteger la vida y la palabra.",
+        "fuentes": [
+          "grudem#467",
+          "macarthur_ts#560"
+        ]
+      }
     },
     {
       "titulo": "Reyes que sirven: dominar, labrar y guardar",
       "parrafos": [
-        {"texto": "Inmediatamente después de decir que el hombre es imagen de Dios, Génesis 1:26-28 le encarga señorear y sojuzgar. MacArthur explica que el verbo radá significa tener dominio y que kabash (sojuzgar) se usa para el sometimiento de naciones bajo David: ambos suenan a autoridad real. Lo ve también en que el hombre pone nombre a los animales (Génesis 2:19-20) y en el Salmo 8:4-8, y considera probable que el mandato alcance a toda la humanidad. Lo enlaza con Hebreos 2:5-9: en el mundo venidero, la humanidad gobernará por medio de Jesús.", "fuentes": ["macarthur_ts#561", "macarthur_ts#562"]},
-        {"texto": "El segundo capítulo da el tono. Grudem recuerda que Dios puso a Adán en el huerto para que lo labrara y lo cuidara (Génesis 2:15). La Coalición por el Evangelio resume que a Adán y Eva se les confió ser administradores de la buena creación, que en la caída intentaron establecerse como reyes (Génesis 3:6-7) y que, desde Génesis 3:17, la tierra está maldita y cultivarla exige lucha.", "fuentes": ["grudem#308", "web_cpe_teologia_biblica_creacion#1"]},
-        {"texto": "Las fuentes ponen el acento en lugares distintos: MacArthur en la autoridad real, la Coalición en la administración. De ahí que el ensayo concluya que debemos cuidar el mundo bueno de Dios, con una cautela: no equiparar el buen trabajo ambiental con el ministerio del evangelio, porque restaurar la creación es obra exclusiva de Dios.", "fuentes": ["macarthur_ts#561", "web_cpe_teologia_biblica_creacion#4"]}
+        {
+          "texto": "Inmediatamente después de decir que el hombre es imagen de Dios, Génesis 1:26-28 le encarga señorear y sojuzgar. MacArthur explica que el verbo radá significa tener dominio y que kabash (sojuzgar) se usa para el sometimiento de naciones bajo David: ambos suenan a autoridad real. Lo ve también en que el hombre pone nombre a los animales (Génesis 2:19-20) y en el Salmo 8:4-8, y considera probable que el mandato alcance a toda la humanidad. Lo enlaza con Hebreos 2:5-9: en el mundo venidero, la humanidad gobernará por medio de Jesús.",
+          "fuentes": [
+            "macarthur_ts#561",
+            "macarthur_ts#562"
+          ]
+        },
+        {
+          "texto": "El segundo capítulo da el tono. Grudem recuerda que Dios puso a Adán en el huerto para que lo labrara y lo cuidara (Génesis 2:15). La Coalición por el Evangelio resume que a Adán y Eva se les confió ser administradores de la buena creación, que en la caída intentaron establecerse como reyes (Génesis 3:6-7) y que, desde Génesis 3:17, la tierra está maldita y cultivarla exige lucha.",
+          "fuentes": [
+            "grudem#308",
+            "web_cpe_teologia_biblica_creacion#1"
+          ]
+        },
+        {
+          "texto": "Las fuentes ponen el acento en lugares distintos: MacArthur en la autoridad real, la Coalición en la administración. De ahí que el ensayo concluya que debemos cuidar el mundo bueno de Dios, con una cautela: no equiparar el buen trabajo ambiental con el ministerio del evangelio, porque restaurar la creación es obra exclusiva de Dios.",
+          "fuentes": [
+            "macarthur_ts#561",
+            "web_cpe_teologia_biblica_creacion#4"
+          ]
+        }
       ],
-      "destacado": {"texto": "Gobernar la tierra es una tarea delegada: el ser humano reina como representante de Dios, no como dueño.", "fuentes": ["macarthur_ts#562", "web_cpe_teologia_biblica_creacion#1"]}
+      "destacado": {
+        "texto": "Gobernar la tierra es una tarea delegada: el ser humano reina como representante de Dios, no como dueño.",
+        "fuentes": [
+          "macarthur_ts#562",
+          "web_cpe_teologia_biblica_creacion#1"
+        ]
+      }
     },
     {
       "titulo": "El Edén y el sábado: presencia y descanso",
       "parrafos": [
-        {"texto": "El huerto de Edén es más que un paisaje. La Coalición por el Evangelio dice que el tabernáculo, cuando Israel lo construyó, recuerda un poco al Edén, y en otro ensayo propone que el Edén funciona como un templo santuario, un patrón que se cumple en Cristo como nuevo templo. Grudem lo ve desde la mesa: Dios creó a Adán y Eva para tener compañerismo con él, y la Cena del Señor mira hacia atrás, a ese compañerismo del Edén, y hacia adelante, a su restauración.", "fuentes": ["web_cpe_teologia_biblica_creacion#3", "web_cpe_historia_mensaje_biblia#2", "grudem#1044"]},
-        {"texto": "La semana termina en descanso: Dios terminó su obra, reposó el séptimo día y lo bendijo y santificó (Génesis 2:1-3). Al mandar guardar el sábado (Éxodo 20:8-11), observa MacArthur, Dios toma la creación como modelo: se trabaja seis días porque él hizo el cielo y la tierra en seis, y se descansa el séptimo porque él reposó.", "fuentes": ["macarthur_ts#549"]},
-        {"texto": "Ese reposo apunta más allá del calendario. La Coalición señala que el descanso del séptimo día y la salvación descansan en Cristo (Hebreos 3:7–4:13). Hebreos 4:4 cita el reposo de Dios en el séptimo día, y MacArthur explica que entrar a ese reposo es cesar los esfuerzos propios por salvarse y descansar en la gracia gratuita de Dios.", "fuentes": ["web_cpe_historia_mensaje_biblia#2", "hebreos_un_comentario__macarthur#116", "hebreos_un_comentario__macarthur#117"]}
+        {
+          "texto": "El huerto de Edén es más que un paisaje. La Coalición por el Evangelio dice que el tabernáculo, cuando Israel lo construyó, recuerda un poco al Edén, y en otro ensayo propone que el Edén funciona como un templo santuario, un patrón que se cumple en Cristo como nuevo templo. Grudem lo ve desde la mesa: Dios creó a Adán y Eva para tener compañerismo con él, y la Cena del Señor mira hacia atrás, a ese compañerismo del Edén, y hacia adelante, a su restauración.",
+          "fuentes": [
+            "web_cpe_teologia_biblica_creacion#3",
+            "web_cpe_historia_mensaje_biblia#2",
+            "grudem#1044"
+          ]
+        },
+        {
+          "texto": "La semana termina en descanso: Dios terminó su obra, reposó el séptimo día y lo bendijo y santificó (Génesis 2:1-3). Al mandar guardar el sábado (Éxodo 20:8-11), observa MacArthur, Dios toma la creación como modelo: se trabaja seis días porque él hizo el cielo y la tierra en seis, y se descansa el séptimo porque él reposó.",
+          "fuentes": [
+            "macarthur_ts#549"
+          ]
+        },
+        {
+          "texto": "Ese reposo apunta más allá del calendario. La Coalición señala que el descanso del séptimo día y la salvación descansan en Cristo (Hebreos 3:7–4:13). Hebreos 4:4 cita el reposo de Dios en el séptimo día, y MacArthur explica que entrar a ese reposo es cesar los esfuerzos propios por salvarse y descansar en la gracia gratuita de Dios.",
+          "fuentes": [
+            "web_cpe_historia_mensaje_biblia#2",
+            "hebreos_un_comentario__macarthur#116",
+            "hebreos_un_comentario__macarthur#117"
+          ]
+        }
       ],
-      "destacado": {"texto": "El mundo nace con un lugar de presencia y con un día de descanso que mira hacia Cristo.", "fuentes": ["web_cpe_teologia_biblica_creacion#3", "web_cpe_historia_mensaje_biblia#2"]}
+      "destacado": {
+        "texto": "El mundo nace con un lugar de presencia y con un día de descanso que mira hacia Cristo.",
+        "fuentes": [
+          "web_cpe_teologia_biblica_creacion#3",
+          "web_cpe_historia_mensaje_biblia#2"
+        ]
+      }
     },
     {
       "titulo": "¿Cómo leer Génesis 1? Un debate entre hermanos",
       "parrafos": [
-        {"texto": "Los cristianos que creen en la Biblia leen Génesis 1 de maneras distintas. La Coalición por el Evangelio cuenta al menos diez puntos de vista entre los evangélicos (tierra joven, tierra vieja, día-era, días análogos, marco literario y otros) y dice que cada uno tiene dificultades, con la Escritura o con los datos científicos.", "fuentes": ["web_cpe_interpretaciones_genesis#1", "web_cpe_interpretaciones_genesis#2", "web_cpe_interpretaciones_genesis#3"]},
-        {"texto": "Hay un terreno compartido. Grudem espera que los evangélicos acepten que Dios creó de la nada, que la creación es distinta de Dios, fue hecha para su gloria y era muy buena, y considera la edad de la tierra una cuestión mucho menos importante, con el peligro de descuidar lo más claro. La Coalición coincide: pese a los desacuerdos, todos pueden afirmar que Génesis 1 enseña que Dios hizo y ordena todas las cosas y es soberano. Las lecturas, con quien sostiene cada una, están más abajo.", "fuentes": ["grudem#303", "web_cpe_teologia_biblica_creacion#1"]}
+        {
+          "texto": "Los cristianos que creen en la Biblia leen Génesis 1 de maneras distintas. La Coalición por el Evangelio cuenta al menos diez puntos de vista entre los evangélicos (tierra joven, tierra vieja, día-era, días análogos, marco literario y otros) y dice que cada uno tiene dificultades, con la Escritura o con los datos científicos.",
+          "fuentes": [
+            "web_cpe_interpretaciones_genesis#1",
+            "web_cpe_interpretaciones_genesis#2",
+            "web_cpe_interpretaciones_genesis#3"
+          ]
+        },
+        {
+          "texto": "Hay un terreno compartido. Grudem espera que los evangélicos acepten que Dios creó de la nada, que la creación es distinta de Dios, fue hecha para su gloria y era muy buena, y considera la edad de la tierra una cuestión mucho menos importante, con el peligro de descuidar lo más claro. La Coalición coincide: pese a los desacuerdos, todos pueden afirmar que Génesis 1 enseña que Dios hizo y ordena todas las cosas y es soberano. Las lecturas, con quien sostiene cada una, están más abajo.",
+          "fuentes": [
+            "grudem#303",
+            "web_cpe_teologia_biblica_creacion#1"
+          ]
+        }
       ]
     },
     {
       "titulo": "Por qué el acto 1 es el telón de fondo de todo",
       "parrafos": [
-        {"texto": "La Coalición por el Evangelio resume la historia bíblica en cuatro movimientos: creación, caída, redención y nueva creación. La creación responde ¿de dónde venimos? y deja patrones que se cumplen en Cristo: el descanso, el Edén como santuario y el matrimonio, que apunta a Cristo y su pueblo (Génesis 2:24-25; Efesios 5:32).", "fuentes": ["web_cpe_historia_mensaje_biblia#1", "web_cpe_historia_mensaje_biblia#2"]},
-        {"texto": "Sin ese primer acto, lo demás no se entiende. La caída daña un mundo bueno: según la Coalición, el pecado tiene efectos cósmicos y la creación misma espera la redención (Romanos 8:19-21), pero Dios se compromete a hacerla nueva. La meta, en Apocalipsis 21, es que el cielo viene a la tierra, y la mayor gloria de la nueva creación es la presencia de Dios entre su pueblo. La historia empieza en un jardín con Dios cerca y termina en una creación nueva con Dios cerca.", "fuentes": ["web_cpe_teologia_biblica_creacion#1", "web_cpe_teologia_biblica_creacion#2", "web_cpe_teologia_biblica_creacion#5"]}
+        {
+          "texto": "La Coalición por el Evangelio resume la historia bíblica en cuatro movimientos: creación, caída, redención y nueva creación. La creación responde ¿de dónde venimos? y deja patrones que se cumplen en Cristo: el descanso, el Edén como santuario y el matrimonio, que apunta a Cristo y su pueblo (Génesis 2:24-25; Efesios 5:32).",
+          "fuentes": [
+            "web_cpe_historia_mensaje_biblia#1",
+            "web_cpe_historia_mensaje_biblia#2"
+          ]
+        },
+        {
+          "texto": "Sin ese primer acto, lo demás no se entiende. La caída daña un mundo bueno: según la Coalición, el pecado tiene efectos cósmicos y la creación misma espera la redención (Romanos 8:19-21), pero Dios se compromete a hacerla nueva. La meta, en Apocalipsis 21, es que el cielo viene a la tierra, y la mayor gloria de la nueva creación es la presencia de Dios entre su pueblo. La historia empieza en un jardín con Dios cerca y termina en una creación nueva con Dios cerca.",
+          "fuentes": [
+            "web_cpe_teologia_biblica_creacion#1",
+            "web_cpe_teologia_biblica_creacion#2",
+            "web_cpe_teologia_biblica_creacion#5"
+          ]
+        }
       ],
-      "destacado": {"texto": "Creación, caída, redención y nueva creación: el primer movimiento da el escenario y el propósito de los otros tres.", "fuentes": ["web_cpe_historia_mensaje_biblia#1", "web_cpe_teologia_biblica_creacion#5"]}
+      "destacado": {
+        "texto": "Creación, caída, redención y nueva creación: el primer movimiento da el escenario y el propósito de los otros tres.",
+        "fuentes": [
+          "web_cpe_historia_mensaje_biblia#1",
+          "web_cpe_teologia_biblica_creacion#5"
+        ]
+      }
     }
   ],
   "citas": [
-    {"texto": "el hombre es como Dios y representa a Dios", "autor": "Wayne Grudem", "obra": "Teología sistemática", "fuentes": ["grudem#465"]},
-    {"texto": "la creación en sí es intrínsecamente buena y debe considerarse como tal", "autor": "Coalición por el Evangelio", "obra": "Una teología bíblica de la creación", "fuentes": ["web_cpe_teologia_biblica_creacion#1"]}
+    {
+      "texto": "el hombre es como Dios y representa a Dios",
+      "autor": "Wayne Grudem",
+      "obra": "Teología sistemática",
+      "fuentes": [
+        "grudem#465"
+      ]
+    },
+    {
+      "texto": "la creación en sí es intrínsecamente buena y debe considerarse como tal",
+      "autor": "Coalición por el Evangelio",
+      "obra": "Una teología bíblica de la creación",
+      "fuentes": [
+        "web_cpe_teologia_biblica_creacion#1"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "צלם", "translit": "tselem", "idioma": "hebreo", "ref": "Gn 1:26", "significado": "Imagen. Grudem: algo similar, pero no idéntico, a lo que representa; también se usa para objetos que representan a otro, como estatuas.", "fuentes": ["grudem#465"]},
-    {"original": "רדה", "translit": "radá", "idioma": "hebreo", "ref": "Gn 1:26", "significado": "Señorear, tener dominio o gobernar. MacArthur: se emplea dos veces en Génesis 1:26-28 y en el Salmo 110:2 se aplica al gobierno del Mesías.", "fuentes": ["macarthur_ts#561"]},
-    {"original": "יום", "translit": "yom", "idioma": "hebreo", "ref": "Gn 1:5", "significado": "Día. Grudem recuerda que puede designar un período (Gn 2:4); MacArthur y Berkhof sostienen que en Génesis 1 es un día común.", "fuentes": ["grudem#307", "macarthur_ts#551", "berkhof#80"]}
+    {
+      "original": "צלם",
+      "translit": "tselem",
+      "idioma": "hebreo",
+      "ref": "Gn 1:26",
+      "significado": "Imagen. Grudem: algo similar, pero no idéntico, a lo que representa; también se usa para objetos que representan a otro, como estatuas.",
+      "fuentes": [
+        "grudem#465"
+      ]
+    },
+    {
+      "original": "רדה",
+      "translit": "radá",
+      "idioma": "hebreo",
+      "ref": "Gn 1:26",
+      "significado": "Señorear, tener dominio o gobernar. MacArthur: se emplea dos veces en Génesis 1:26-28 y en el Salmo 110:2 se aplica al gobierno del Mesías.",
+      "fuentes": [
+        "macarthur_ts#561"
+      ]
+    },
+    {
+      "original": "יום",
+      "translit": "yom",
+      "idioma": "hebreo",
+      "ref": "Gn 1:5",
+      "significado": "Día. Grudem recuerda que puede designar un período (Gn 2:4); MacArthur y Berkhof sostienen que en Génesis 1 es un día común.",
+      "fuentes": [
+        "grudem#307",
+        "macarthur_ts#551",
+        "berkhof#80"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El Hijo, agente de la creación. Es explícito en el Nuevo Testamento: todo fue hecho por medio de él (Juan 1:3) y para él (Colosenses 1:16). MacArthur subraya que Pablo lo afirma contra una enseñanza que atribuía la creación a un ser inferior.", "refs": ["Jn 1:3", "Col 1:16", "He 1:2"], "fuentes": ["grudem#279", "colosenses_comentario_macarthur__archivo#34"]},
-    {"texto": "La imagen perfecta. Génesis dice que el ser humano es imagen de Dios; Colosenses 1:15 llama a Cristo «imagen del Dios invisible». Según MacArthur, el ser humano no es su imagen total, y Cristo sí, desde la eternidad. La salvación incluye ser hechos conformes a la imagen del Hijo (Romanos 8:29).", "refs": ["Col 1:15", "Ro 8:29", "Col 3:10"], "fuentes": ["colosenses_comentario_macarthur__archivo#33", "grudem#467"]},
-    {"texto": "Patrones que se cumplen en Cristo. La Coalición propone leer el descanso del séptimo día y el Edén como santuario como patrones tipológicos cumplidos en Cristo. Lo explícito es Hebreos 4, que cita el reposo de Dios en el séptimo día; el Edén como templo es una lectura de patrón que esa fuente propone, no una afirmación directa de Génesis. Además, la resurrección de Jesús, primogénito de entre los muertos (Colosenses 1:18), inicia la nueva creación.", "refs": ["Gn 2:2-3", "He 4:4-10", "Col 1:18"], "fuentes": ["web_cpe_historia_mensaje_biblia#2", "hebreos_un_comentario__macarthur#116", "web_cpe_teologia_biblica_creacion#4"]}
+    {
+      "texto": "El Hijo, agente de la creación. Es explícito en el Nuevo Testamento: todo fue hecho por medio de él (Juan 1:3) y para él (Colosenses 1:16). MacArthur subraya que Pablo lo afirma contra una enseñanza que atribuía la creación a un ser inferior.",
+      "refs": [
+        "Jn 1:3",
+        "Col 1:16",
+        "He 1:2"
+      ],
+      "fuentes": [
+        "grudem#279",
+        "colosenses_comentario_macarthur__archivo#34"
+      ]
+    },
+    {
+      "texto": "La imagen perfecta. Génesis dice que el ser humano es imagen de Dios; Colosenses 1:15 llama a Cristo «imagen del Dios invisible». Según MacArthur, el ser humano no es su imagen total, y Cristo sí, desde la eternidad. La salvación incluye ser hechos conformes a la imagen del Hijo (Romanos 8:29).",
+      "refs": [
+        "Col 1:15",
+        "Ro 8:29",
+        "Col 3:10"
+      ],
+      "fuentes": [
+        "colosenses_comentario_macarthur__archivo#33",
+        "grudem#467"
+      ]
+    },
+    {
+      "texto": "Patrones que se cumplen en Cristo. La Coalición propone leer el descanso del séptimo día y el Edén como santuario como patrones tipológicos cumplidos en Cristo. Lo explícito es Hebreos 4, que cita el reposo de Dios en el séptimo día; el Edén como templo es una lectura de patrón que esa fuente propone, no una afirmación directa de Génesis. Además, la resurrección de Jesús, primogénito de entre los muertos (Colosenses 1:18), inicia la nueva creación.",
+      "refs": [
+        "Gn 2:2-3",
+        "He 4:4-10",
+        "Col 1:18"
+      ],
+      "fuentes": [
+        "web_cpe_historia_mensaje_biblia#2",
+        "hebreos_un_comentario__macarthur#116",
+        "web_cpe_teologia_biblica_creacion#4"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Cómo entender los seis días de Génesis 1?",
       "posturas": [
-        {"postura": "Seis días literales de veinticuatro horas. Sus razones: Éxodo 20:8-11 toma la creación como modelo de la semana; yom con número ordinal no se usa en sentido figurado; y «tarde» y «mañana» describen siempre un día de veinticuatro horas.", "quien": "MacArthur", "fuentes": ["macarthur_ts#549", "macarthur_ts#551"]},
-        {"postura": "También lee días comunes: yom designa en general un día corriente salvo que el contexto pida otra cosa; la fórmula de la noche y la mañana y Éxodo 20:9-11 lo apuntan; y la ausencia del sol hasta el cuarto día no prueba que los primeros días fueran largos.", "quien": "Berkhof", "fuentes": ["berkhof#80"]},
-        {"postura": "Los días son períodos largos. Según Grudem, sus defensores señalan que yom a veces designa un período (Génesis 2:4), que el sexto día está muy cargado de acontecimientos y que el séptimo no termina con «tarde y mañana». Dicen que el contexto no precisa el sentido, no que lo exija.", "quien": "Presentada por Grudem", "fuentes": ["grudem#307", "grudem#308", "grudem#309"]},
-        {"postura": "Tierra vieja (días de duración normal, creación madura) y días análogos (ciclos de trabajo y reposo, sin saber cuánto duraron). El autor del ensayo las considera las de menos dificultades y objeta al día-era que los días están contados y tienen tardes y mañanas.", "quien": "Coalición por el Evangelio (ensayo sobre Génesis 1-2)", "fuentes": ["web_cpe_interpretaciones_genesis#2", "web_cpe_interpretaciones_genesis#3", "web_cpe_interpretaciones_genesis#4"]},
-        {"postura": "Marco literario: los seis días son un esquema sin cronología, con días paralelos (el primero con el cuarto, el segundo con el quinto, el tercero con el sexto). Grudem la critica por una correspondencia menos exacta de lo supuesto y una secuencia que parece cronológica; la Coalición objeta que Génesis 1 es una narrativa con progresión.", "quien": "Presentada por Grudem y la Coalición por el Evangelio", "fuentes": ["grudem#316", "grudem#317", "web_cpe_interpretaciones_genesis#3"]},
-        {"postura": "Su propia inclinación: son fuertes los argumentos a favor de días de veinticuatro horas, pero hay buenos argumentos del otro lado y no es fácil decidir.", "quien": "Grudem", "fuentes": ["grudem#311"]}
+        {
+          "postura": "Seis días literales de veinticuatro horas. Sus razones: Éxodo 20:8-11 toma la creación como modelo de la semana; yom con número ordinal no se usa en sentido figurado; y «tarde» y «mañana» describen siempre un día de veinticuatro horas.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macarthur_ts#549",
+            "macarthur_ts#551"
+          ]
+        },
+        {
+          "postura": "También lee días comunes: yom designa en general un día corriente salvo que el contexto pida otra cosa; la fórmula de la noche y la mañana y Éxodo 20:9-11 lo apuntan; y la ausencia del sol hasta el cuarto día no prueba que los primeros días fueran largos.",
+          "quien": "Berkhof",
+          "fuentes": [
+            "berkhof#80"
+          ]
+        },
+        {
+          "postura": "Los días son períodos largos. Según Grudem, sus defensores señalan que yom a veces designa un período (Génesis 2:4), que el sexto día está muy cargado de acontecimientos y que el séptimo no termina con «tarde y mañana». Dicen que el contexto no precisa el sentido, no que lo exija.",
+          "quien": "Presentada por Grudem",
+          "fuentes": [
+            "grudem#307",
+            "grudem#308",
+            "grudem#309"
+          ]
+        },
+        {
+          "postura": "Tierra vieja (días de duración normal, creación madura) y días análogos (ciclos de trabajo y reposo, sin saber cuánto duraron). El autor del ensayo las considera las de menos dificultades y objeta al día-era que los días están contados y tienen tardes y mañanas.",
+          "quien": "Coalición por el Evangelio (ensayo sobre Génesis 1-2)",
+          "fuentes": [
+            "web_cpe_interpretaciones_genesis#2",
+            "web_cpe_interpretaciones_genesis#3",
+            "web_cpe_interpretaciones_genesis#4"
+          ]
+        },
+        {
+          "postura": "Marco literario: los seis días son un esquema sin cronología, con días paralelos (el primero con el cuarto, el segundo con el quinto, el tercero con el sexto). Grudem la critica por una correspondencia menos exacta de lo supuesto y una secuencia que parece cronológica; la Coalición objeta que Génesis 1 es una narrativa con progresión.",
+          "quien": "Presentada por Grudem y la Coalición por el Evangelio",
+          "fuentes": [
+            "grudem#316",
+            "grudem#317",
+            "web_cpe_interpretaciones_genesis#3"
+          ]
+        },
+        {
+          "postura": "Su propia inclinación: son fuertes los argumentos a favor de días de veinticuatro horas, pero hay buenos argumentos del otro lado y no es fácil decidir.",
+          "quien": "Grudem",
+          "fuentes": [
+            "grudem#311"
+          ]
+        }
       ],
       "nota": "Grudem aclara que no es cuestión de «creer en la Biblia» o no creerla. Las fuentes describen las lecturas sin zanjarlas, y la tierra joven solo aparece según la resumen MacArthur, Berkhof y la Coalición."
     },
     {
       "tema": "¿En qué consiste la imagen de Dios en el ser humano?",
       "posturas": [
-        {"postura": "No conviene reducirla a una cualidad: es toda forma en que el hombre es como Dios y lo representa.", "quien": "Grudem", "fuentes": ["grudem#465", "grudem#466"]},
-        {"postura": "Distingue un sentido restringido (conocimiento, justicia y santidad, por Efesios 4:24 y Colosenses 3:10) y uno amplio (ser espiritual, racional, moral, con dominio sobre la creación). Berkhof lo llama punto de vista reformado y lo contrasta con el católico romano y el luterano, que describe él mismo.", "quien": "Berkhof", "fuentes": ["berkhof#97", "berkhof#98"]},
-        {"postura": "Menciona tres lecturas (sustantiva, funcional y relacional) y considera mejor la estructural: función y relación serían consecuencias de que el hombre sea imagen de Dios.", "quien": "MacArthur", "fuentes": ["macarthur_ts#562", "macarthur_ts#563"]}
+        {
+          "postura": "No conviene reducirla a una cualidad: es toda forma en que el hombre es como Dios y lo representa.",
+          "quien": "Grudem",
+          "fuentes": [
+            "grudem#465",
+            "grudem#466"
+          ]
+        },
+        {
+          "postura": "Distingue un sentido restringido (conocimiento, justicia y santidad, por Efesios 4:24 y Colosenses 3:10) y uno amplio (ser espiritual, racional, moral, con dominio sobre la creación). Berkhof lo llama punto de vista reformado y lo contrasta con el católico romano y el luterano, que describe él mismo.",
+          "quien": "Berkhof",
+          "fuentes": [
+            "berkhof#97",
+            "berkhof#98"
+          ]
+        },
+        {
+          "postura": "Menciona tres lecturas (sustantiva, funcional y relacional) y considera mejor la estructural: función y relación serían consecuencias de que el hombre sea imagen de Dios.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macarthur_ts#562",
+            "macarthur_ts#563"
+          ]
+        }
       ],
       "nota": "Berkhof describe las posturas católica y luterana sin las razones de quienes las sostienen; esas tradiciones se estudiarán con sus propios documentos."
     }
   ],
   "conexiones": [
-    {"ref": "Sal 8:4-8", "nota": "MacArthur lo cita como afirmación del derecho del hombre a dominar la creación.", "fuentes": ["macarthur_ts#561"]},
-    {"ref": "Sal 19:1", "nota": "Para MacArthur, la creación da testimonio de la gloria de su Creador.", "fuentes": ["macarthur_ts#550"]},
-    {"ref": "Sal 104:30", "nota": "MacArthur lo incluye entre los textos que muestran que el universo depende de Dios; el Salmo 104 entero canta la creación.", "fuentes": ["macarthur_ts#282", "biblia"]},
-    {"ref": "Jn 1:1-3", "nota": "Juan abre con las palabras de Génesis 1:1 («en el principio») y atribuye a la Palabra la obra de crear.", "fuentes": ["grudem#279", "biblia"]},
-    {"ref": "Ap 21:3", "nota": "La morada de Dios entre su pueblo es la meta que cierra lo que Génesis 1–2 abre.", "fuentes": ["web_cpe_teologia_biblica_creacion#5"]}
+    {
+      "ref": "Sal 8:4-8",
+      "nota": "MacArthur lo cita como afirmación del derecho del hombre a dominar la creación.",
+      "fuentes": [
+        "macarthur_ts#561"
+      ]
+    },
+    {
+      "ref": "Sal 19:1",
+      "nota": "Para MacArthur, la creación da testimonio de la gloria de su Creador.",
+      "fuentes": [
+        "macarthur_ts#550"
+      ]
+    },
+    {
+      "ref": "Sal 104:30",
+      "nota": "MacArthur lo incluye entre los textos que muestran que el universo depende de Dios; el Salmo 104 entero canta la creación.",
+      "fuentes": [
+        "macarthur_ts#282",
+        "biblia"
+      ]
+    },
+    {
+      "ref": "Jn 1:1-3",
+      "nota": "Juan abre con las palabras de Génesis 1:1 («en el principio») y atribuye a la Palabra la obra de crear.",
+      "fuentes": [
+        "grudem#279",
+        "biblia"
+      ]
+    },
+    {
+      "ref": "Ap 21:3",
+      "nota": "La morada de Dios entre su pueblo es la meta que cierra lo que Génesis 1–2 abre.",
+      "fuentes": [
+        "web_cpe_teologia_biblica_creacion#5"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Recibí el mundo como regalo de Dios, sin despreciarlo ni adorarlo: cada vez que la creación te dé alegría, agradecele a Dios, como sugiere Grudem.", "fuentes": ["grudem#276"]},
-    {"texto": "Tratá a cada persona como portadora de la imagen de Dios, también a quienes te cuesta: Génesis 9:6 y Santiago 3:9 lo usan para proteger la vida y cuidar las palabras.", "fuentes": ["macarthur_ts#560", "grudem#467"]},
-    {"texto": "Cuidá lo que Dios te confió como administrador y no como dueño, sin confundir ese cuidado con el evangelio, como advierte la Coalición.", "fuentes": ["web_cpe_teologia_biblica_creacion#4"]}
+    {
+      "texto": "Recibí el mundo como regalo de Dios, sin despreciarlo ni adorarlo: cada vez que la creación te dé alegría, agradecele a Dios, como sugiere Grudem.",
+      "fuentes": [
+        "grudem#276"
+      ]
+    },
+    {
+      "texto": "Tratá a cada persona como portadora de la imagen de Dios, también a quienes te cuesta: Génesis 9:6 y Santiago 3:9 lo usan para proteger la vida y cuidar las palabras.",
+      "fuentes": [
+        "macarthur_ts#560",
+        "grudem#467"
+      ]
+    },
+    {
+      "texto": "Cuidá lo que Dios te confió como administrador y no como dueño, sin confundir ese cuidado con el evangelio, como advierte la Coalición.",
+      "fuentes": [
+        "web_cpe_teologia_biblica_creacion#4"
+      ]
+    }
   ],
   "para_reflexionar": [
     "Si Dios declaró bueno el mundo que hizo, ¿qué parte de la creación (el cuerpo, el trabajo, el descanso) tendés a despreciar o a idolatrar?",
     "Pensá en alguien a quien te cuesta ver como portador de la imagen de Dios. ¿Cómo cambiaría tu manera de tratarlo?",
     "Dios reposó y mandó descansar. ¿Qué lugar tiene el reposo en tu semana y qué dice de tu confianza en él?"
   ],
-  "para_orar": "Padre, creaste todo con tu palabra y lo declaraste bueno; gracias por el mundo, por mi cuerpo y por mi vida. Gracias porque me hiciste a tu imagen y porque tu Hijo, por quien todo fue creado, es la imagen perfecta de lo que sos. Enseñame a cuidar lo que me confiaste, a respetar a cada persona y a descansar en vos. Amén.",
   "profundizar": [
-    {"titulo": "¿Qué quiere decir «primogénito de toda creación»?", "texto": "MacArthur sostiene que primogénito (Colosenses 1:15) indica rango y derecho a la herencia, no que Cristo fuera creado primero: lo apoya en que Jacob, y no Esaú, fue llamado primogénito, en que Israel recibe ese título sin ser el primer pueblo y en que el versículo 16 lo presenta como Creador de todo.", "fuentes": ["colosenses_comentario_macarthur__archivo#33"]},
-    {"titulo": "¿Hubo un pacto en el Edén?", "texto": "Grudem observa que la palabra pacto no aparece en Génesis, pero ve presentes sus elementos: partes, estipulaciones y la promesa de bendición por obediencia (Génesis 2:16-17), con el árbol de la vida como promesa de vida con Dios. Lo apoya en Oseas 6:7 y Romanos 5:12-21. Berkhof también habla de un pacto de obras. Aquí solo aparece la defensa de esa idea.", "fuentes": ["grudem#543", "berkhof#98"]}
+    {
+      "titulo": "¿Qué quiere decir «primogénito de toda creación»?",
+      "texto": "MacArthur sostiene que primogénito (Colosenses 1:15) indica rango y derecho a la herencia, no que Cristo fuera creado primero: lo apoya en que Jacob, y no Esaú, fue llamado primogénito, en que Israel recibe ese título sin ser el primer pueblo y en que el versículo 16 lo presenta como Creador de todo.",
+      "fuentes": [
+        "colosenses_comentario_macarthur__archivo#33"
+      ]
+    },
+    {
+      "titulo": "¿Hubo un pacto en el Edén?",
+      "texto": "Grudem observa que la palabra pacto no aparece en Génesis, pero ve presentes sus elementos: partes, estipulaciones y la promesa de bendición por obediencia (Génesis 2:16-17), con el árbol de la vida como promesa de vida con Dios. Lo apoya en Oseas 6:7 y Romanos 5:12-21. Berkhof también habla de un pacto de obras. Aquí solo aparece la defensa de esa idea.",
+      "fuentes": [
+        "grudem#543",
+        "berkhof#98"
+      ]
+    }
   ]
 }

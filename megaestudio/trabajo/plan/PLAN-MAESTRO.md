@@ -1,6 +1,6 @@
 # Plan maestro del megaestudio
 
-**20 ciclos · 103 series · ≈1974 días** (20 a 30 minutos cada uno; unos 5.4 años a un día por día).
+**20 ciclos · 113 series · ≈2146 días** (20 a 30 minutos cada uno; unos 5.9 años a un día por día).
 
 El orden es el camino recomendado, pero la app permite entrar por cualquier tema (buscador, mapa, ciclos). Los días se detallan por oleadas: solo se baja a título de día el ciclo que se va a escribir.
 
@@ -10,14 +10,14 @@ El orden es el camino recomendado, pero la app permite entrar por cualquier tema
 | 2. Dios: su carácter, su naturaleza y su obra | 6 | 84 |
 | 3. Jesucristo: su persona, su vida y su obra | 5 | 114 |
 | 4. El Espíritu Santo | 5 | 56 |
-| 5. El ser humano, el pecado y el mal | 5 | 80 |
+| 5. El ser humano, la mente, las emociones y el pecado | 8 | 132 |
 | 6. Salvación y evangelio | 8 | 94 |
 | 7. Teología bíblica: los hilos que unen toda la Escritura | 9 | 150 |
 | 8. El Reino de Dios y los reinos de la Biblia | 5 | 102 |
 | 9. La Iglesia, la misión y el discipulado | 6 | 84 |
-| 10. Carácter cristiano y madurez espiritual | 3 | 120 |
+| 10. Carácter cristiano, sabiduría y madurez espiritual | 6 | 186 |
 | 11. Oración, adoración y disciplinas espirituales | 4 | 60 |
-| 12. Ética cristiana y vida cotidiana | 6 | 104 |
+| 12. Ética cristiana y vida cotidiana | 10 | 158 |
 | 13. Profecía, promesas y últimos tiempos | 4 | 108 |
 | 14. Los libros de la Biblia | 5 | 156 |
 | 15. Personajes y acontecimientos bíblicos | 3 | 130 |
@@ -76,17 +76,20 @@ Su persona, su obra en cada época y su obra en el creyente.
 | 4.4 Dones y fruto del Espíritu: posturas cesacionista y continuacionista | 12 | Dones espirituales y las distintas lecturas cristianas. | C; 5 Pentecostalismo | TMS TH786 | B: MacArthur, Grudem; X |
 | 4.5 Resistir al Espíritu y discernir | 6 | Endurecimiento, apagar, entristecer, blasfemia contra el Espíritu, discernimiento espiritual. | C | — | B |
 
-## 5. El ser humano, el pecado y el mal
+## 5. El ser humano, la mente, las emociones y el pecado
 
-Qué somos, qué se rompió y cómo funciona la lucha espiritual.
+Qué somos, cómo funcionamos por dentro (corazón, mente, voluntad, emociones), qué se rompió y cómo funciona la lucha espiritual.
 
 | Serie | Días | Qué cubre | Pedido | Institutos | Fuentes |
 |---|--:|---|---|---|---|
-| 5.1 Imagen de Dios e identidad humana | 14 | Creación, imagen, hombre y mujer, alma, espíritu, corazón, mente, conciencia, voluntad, emociones, personalidad y temperamento. | K | IBBA Antropología, Teología de la naturaleza humana · TMS TH705 | B + X |
-| 5.2 La caída y el pecado | 16 | Origen y naturaleza del pecado, caída, muerte espiritual, culpa, condenación, esclavitud. | H; D Pecado | TMS TH705 | B |
-| 5.3 Pecados y obras de la carne | 24 | Idolatría, orgullo, codicia, envidia, celos, ira, amargura, hipocresía, incredulidad, mentira, engaño. | H | — | B (Pecado, Tentación y Sexualidad) |
-| 5.4 Tentación y lucha espiritual | 12 | Carne y Espíritu, armadura de Dios, autoridad espiritual. | H | IBBA Confrontación de poderes | B |
-| 5.5 Ángeles, demonios y el diablo | 14 | Angelología y demonología; ángeles caídos; victoria de Cristo. | H; 4 Angelología/Demonología | TMS TH606 | B: Angeología vol. 2; Guerra espiritual |
+| 5.1 Imagen de Dios e identidad humana | 14 | Creación, imagen, hombre y mujer, alma y espíritu, naturaleza humana, valor de la persona. | K | IBBA Antropología, Teología de la naturaleza humana · TMS TH705 | B + X |
+| 5.2 Corazón, mente, voluntad y conciencia | 16 | Cómo describe la Biblia las dimensiones de la persona: el corazón, la mente, los pensamientos, los deseos, las motivaciones, la voluntad, la conciencia; qué significa pensar bien y querer bien. | K | IBBA Teología del comportamiento humano | B (Hombre, Crecimiento, Pecado) + X |
+| 5.3 Las emociones en la Biblia | 28 | Ira, miedo y ansiedad, tristeza y depresión, soledad, culpa y vergüenza, envidia y celos, gozo, esperanza, compasión, deseo y afecto; las emociones de Dios y de Jesús; qué hacer con lo que sentimos; cuándo buscar ayuda. | K; H | IBBA Psicología al servicio de la consejería, Resiliencia | B (Pastorado y Consejería, Crecimiento) + X |
+| 5.4 Personalidad, temperamento y diferencias | 8 | Temperamentos y personalidades a la luz de la Biblia (qué dice y qué no), dones y llamados, cómo se transforma el carácter sin negar lo que somos. | K | IBBA Perfil del educador, temperamentos | B + X |
+| 5.5 La caída y el pecado | 16 | Origen y naturaleza del pecado, caída, muerte espiritual, culpa, condenación, esclavitud. | H; D Pecado | TMS TH705 | B |
+| 5.6 Pecados y obras de la carne | 24 | Idolatría, orgullo, codicia, envidia, celos, ira, amargura, hipocresía, incredulidad, mentira, engaño. | H | — | B (Pecado, Tentación y Sexualidad) |
+| 5.7 Tentación y lucha espiritual | 12 | Carne y Espíritu, armadura de Dios, autoridad espiritual. | H | IBBA Confrontación de poderes | B |
+| 5.8 Ángeles, demonios y el diablo | 14 | Angelología y demonología; ángeles caídos; victoria de Cristo. | H; 4 Angelología/Demonología | TMS TH606 | B: Angeología vol. 2; Guerra espiritual |
 
 ## 6. Salvación y evangelio
 
@@ -144,15 +147,18 @@ Cómo se desarrolla el Reino desde Génesis hasta Apocalipsis y qué enseñan lo
 | 9.5 Discipulado y multiplicación | 10 |  | M | — | B |
 | 9.6 Falsas enseñanzas, apostasía y persecución | 12 |  | M | — | B |
 
-## 10. Carácter cristiano y madurez espiritual
+## 10. Carácter cristiano, sabiduría y madurez espiritual
 
-El fruto del Espíritu y las virtudes que forman a Cristo en nosotros.
+El fruto del Espíritu, la sabiduría y el discernimiento, las virtudes, el modo de decidir y las decisiones que forman el carácter.
 
 | Serie | Días | Qué cubre | Pedido | Institutos | Fuentes |
 |---|--:|---|---|---|---|
-| 10.1 El fruto del Espíritu | 36 | Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza: cuatro días cada uno. | G | IBBA Formación integral del carácter | B |
-| 10.2 Virtudes y conceptos espirituales | 60 | Verdad, sabiduría, discernimiento, humildad, integridad, santidad, obediencia, fidelidad, justicia, misericordia, compasión, valentía, prudencia, pureza, contentamiento, gratitud, esperanza, perseverancia, libertad, responsabilidad. | F | — | B |
-| 10.3 Transformación, identidad en Cristo y madurez | 24 | Renovación de la mente, hábitos, propósito, vocación y llamado. | K | — | B |
+| 10.1 El fruto del Espíritu | 36 | Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza: cuatro días cada uno; qué se le opone y cómo crece. | G | IBBA Formación integral del carácter | B |
+| 10.2 Sabiduría, inteligencia espiritual y discernimiento | 30 | La sabiduría bíblica (Proverbios, Santiago 3), el necio y el sabio, prudencia, consejo, conocimiento frente a sabiduría, discernimiento espiritual, cómo se pide y se crece en sabiduría. | F | — | B (Crecimiento, Relación con Dios) + comentarios de Proverbios |
+| 10.3 Cómo tomar decisiones sabias | 16 | Decidir con la Biblia: principios, consejo, oración, circunstancias, deseos, riesgo, trabajo, dinero, pareja, vocación; el miedo a equivocarse; cuando no hay un mandato directo. | F; K | — | B (voluntad de Dios, Liderazgo, Crecimiento) + X |
+| 10.4 Virtudes y conceptos espirituales | 60 | Verdad, humildad, integridad, santidad, obediencia, fidelidad, justicia, misericordia, compasión, valentía, pureza, contentamiento, gratitud, esperanza, perseverancia, libertad, responsabilidad, dependencia de Dios. | F | — | B |
+| 10.5 Hábitos, disciplina y autocontrol | 20 | Cómo se forma el carácter: hábitos, disciplina, autocontrol, deseos y motivaciones, constancia, descanso; cambio real frente a esfuerzo legalista. | K; F | IBBA Disciplinas espirituales | B (Crecimiento, Discipulado) + X |
+| 10.6 Transformación, identidad en Cristo y madurez | 24 | Renovación de la mente, nueva identidad, propósito, vocación y llamado, libertad espiritual, señales de madurez. | K | — | B |
 
 ## 11. Oración, adoración y disciplinas espirituales
 
@@ -167,16 +173,20 @@ El fruto del Espíritu y las virtudes que forman a Cristo en nosotros.
 
 ## 12. Ética cristiana y vida cotidiana
 
-Cómo los principios bíblicos se aplican a cada dimensión de la vida, incluso a situaciones que la Biblia no nombra.
+Relaciones, familia, trabajo, sociedad y decisiones éticas: cómo se aplican los principios bíblicos a la vida real, incluso a lo que la Biblia no nombra.
 
 | Serie | Días | Qué cubre | Pedido | Institutos | Fuentes |
 |---|--:|---|---|---|---|
-| 12.1 Relaciones: perdón, reconciliación, conflictos, palabra y juicio | 20 |  | L; 6 | TMS PM772 | B |
-| 12.2 Matrimonio, sexualidad, soltería, noviazgo y crianza | 24 |  | L; 6 | TMS PM768 | B (Matrimonio, Familia, Pecado y Sexualidad) |
-| 12.3 Trabajo, dinero y mayordomía | 18 | Tiempo, recursos, diezmos y ofrendas, deuda, creación, fidelidad en lo pequeño. | J | — | B |
-| 12.4 Liderazgo, autoridad, gobierno y justicia social | 16 |  | 6 | TMS PM750 | B |
-| 12.5 Sufrimiento, prueba y esperanza | 12 |  | 6; 8 | — | B: Keller |
-| 12.6 Decisiones y dilemas éticos contemporáneos | 14 |  | 6 | IBBA Dilemas éticos · TMS TH780 | B + X |
+| 12.1 Amar al prójimo: empatía, respeto, lealtad y confianza | 16 | El amor al prójimo, empatía, servicio, respeto, lealtad, confianza, hospitalidad, justicia en el trato. | L | TMS PM772 | B (Amor y Relaciones, Crecimiento) |
+| 12.2 Perdón, reconciliación y conflictos | 16 | Perdonar y ser perdonado, reconciliar, resentimiento y amargura, resolver conflictos, personas difíciles y ofensas. | L; H | TMS PM772 | B |
+| 12.3 Las palabras: chisme, crítica, juicio y verdad en amor | 12 | Uso de la palabra, murmuración, chisme, crítica, juzgar (Mateo 7), exhortar, decir la verdad en amor, mentira. | L; 6 | — | B |
+| 12.4 Amistad, comunidad y relaciones difíciles | 14 | Amistad bíblica, relaciones que dañan, límites, maltrato, lealtad entre amigos, mentores, soledad y compañía. | L | — | B + X |
+| 12.5 Matrimonio, noviazgo, sexualidad y soltería | 24 | Diseño, noviazgo, matrimonio, sexualidad, soltería, divorcio y nuevas nupcias (posturas). | L; 6 | TMS PM768 | B (Matrimonio, Familia, Pecado y Sexualidad) |
+| 12.6 Familia, crianza y honra | 16 | Padres e hijos, honra, autoridad, disciplina, crianza, liderazgo en el hogar, familia extendida. | L | — | B |
+| 12.7 Trabajo, dinero y mayordomía | 18 | Tiempo, recursos, diezmos y ofrendas, deuda, creación, fidelidad en lo pequeño, relaciones laborales. | J | — | B |
+| 12.8 Liderazgo, autoridad, gobierno y justicia social | 16 | Liderazgo y servicio, autoridad, gobierno, ciudadanía, pobreza, justicia. | 6 | TMS PM750 | B |
+| 12.9 Sufrimiento, prueba y esperanza | 12 | Sufrir bien, prueba, duelo, enfermedad, esperanza cristiana. | 6; 8 | — | B: Keller |
+| 12.10 Dilemas éticos contemporáneos | 14 | Tecnología, bioética, vida y muerte, verdad e integridad, situaciones que la Biblia no nombra: cómo razonar con principios. | 6 | IBBA Dilemas éticos · TMS TH780 | B + X |
 
 ## 13. Profecía, promesas y últimos tiempos
 

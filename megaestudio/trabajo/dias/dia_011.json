@@ -2,119 +2,401 @@
   "dia": 11,
   "titulo": "De los originales a las copias: cómo llegó el texto hasta nosotros",
   "bajada": "No se conserva ni un solo manuscrito original de la Biblia. ¿Cómo se escribía un libro sagrado, cómo se copiaba, qué errores se colaron y por qué el mensaje llegó sano hasta tu Biblia?",
-  "minutos": {"lectura": 7, "estudio": 22},
-  "lectura": {"pasaje": "Jeremías 36:1-4, 20-32; Deuteronomio 17:18-20", "porque": "Una escena de dictado, un rollo quemado y reescrito, y la orden de copiar la ley: el taller de escritura de la Biblia a la vista."},
+  "minutos": {
+    "lectura": 7,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Jeremías 36:1-4, 20-32; Deuteronomio 17:18-20",
+    "porque": "Una escena de dictado, un rollo quemado y reescrito, y la orden de copiar la ley: el taller de escritura de la Biblia a la vista."
+  },
   "versiculos": [
-    {"ref": "Jeremías 36:32", "porque": "Dios hace volver a escribir lo que el fuego destruyó: la palabra no depende de un rollo."},
-    {"ref": "Mateo 5:18", "porque": "Jesús afirma la permanencia de cada letra de la Escritura hasta que todo se cumpla."}
+    {
+      "ref": "Jeremías 36:32",
+      "porque": "Dios hace volver a escribir lo que el fuego destruyó: la palabra no depende de un rollo."
+    },
+    {
+      "ref": "Mateo 5:18",
+      "porque": "Jesús afirma la permanencia de cada letra de la Escritura hasta que todo se cumpla."
+    }
   ],
   "entrada": {
     "texto": "Si buscás un manuscrito original de la Biblia, escrito por la mano de Moisés, de Isaías o de Pablo, no lo vas a encontrar: no disponemos de ninguno. Lo que hay son copias, y copias de copias, hechas a mano durante siglos, hasta que hacia el año 1450 la imprenta lo cambió todo. De ahí surge una pregunta honesta, que MacArthur formula sin rodeos: si las copias se hicieron sin supervisión milagrosa y pueden tener errores, ¿cómo confiar en lo que leemos?\n\nHoy recorremos ese camino: cómo nacía un libro bíblico, sobre qué se escribía y cómo se copiaba, qué errores aparecieron, por qué el mensaje llegó sano y qué quiere decir, con precisión, que la inspiración se aplique a los originales.",
-    "fuentes": ["macarthur_ts#144", "macarthur_ts#166"]
+    "fuentes": [
+      "macarthur_ts#144",
+      "macarthur_ts#166"
+    ]
   },
   "apartados": [
     {
       "titulo": "Dictado, tinta y rollo: cómo nacía un libro (Jeremías 36)",
       "parrafos": [
-        {"texto": "Jeremías 36 es una ventana abierta al taller de escritura de la Biblia. En el cuarto año del rey Joacim, Dios le ordena a Jeremías: «Toma un rollo de libro, y escribe en él todas las palabras» que le había hablado (Jeremías 36:1-2). El propósito es pastoral: quizá la casa de Judá oiga el mal que Dios piensa hacerles y cada uno se vuelva de su mal camino (36:3).", "fuentes": ["biblia", "macarthur_ts#151"]},
-        {"texto": "Jeremías no escribe con su propia mano: llama a Baruc, hijo de Nerías, que escribe de boca del profeta todas las palabras que Dios le había hablado (36:4). Cuando los príncipes le preguntan cómo lo hizo, Baruc responde: «Él me dictaba de su boca todas estas palabras» y «yo escribía con tinta en el libro» (36:18). Tenés los eslabones juntos: la voz del profeta, la mano del escriba, la tinta y el rollo. Al propio Baruc se lo llama escriba (36:32) y escribiente (36:26), y hasta el rey usa una herramienta de ese oficio, un «cortaplumas de escriba» (36:23).", "fuentes": ["biblia", "macarthur_ts#151"]}
+        {
+          "texto": "Jeremías 36 es una ventana abierta al taller de escritura de la Biblia. En el cuarto año del rey Joacim, Dios le ordena a Jeremías: «Toma un rollo de libro, y escribe en él todas las palabras» que le había hablado (Jeremías 36:1-2). El propósito es pastoral: quizá la casa de Judá oiga el mal que Dios piensa hacerles y cada uno se vuelva de su mal camino (36:3).",
+          "fuentes": [
+            "biblia",
+            "macarthur_ts#151"
+          ]
+        },
+        {
+          "texto": "Jeremías no escribe con su propia mano: llama a Baruc, hijo de Nerías, que escribe de boca del profeta todas las palabras que Dios le había hablado (36:4). Cuando los príncipes le preguntan cómo lo hizo, Baruc responde: «Él me dictaba de su boca todas estas palabras» y «yo escribía con tinta en el libro» (36:18). Tenés los eslabones juntos: la voz del profeta, la mano del escriba, la tinta y el rollo. Al propio Baruc se lo llama escriba (36:32) y escribiente (36:26), y hasta el rey usa una herramienta de ese oficio, un «cortaplumas de escriba» (36:23).",
+          "fuentes": [
+            "biblia",
+            "macarthur_ts#151"
+          ]
+        }
       ],
-      "destacado": {"texto": "La palabra de Dios llegó al rollo por un camino humano, la voz del profeta y la mano del escriba, y siguió siendo palabra de Dios (Jeremías 36:2).", "fuentes": ["biblia"]}
+      "destacado": {
+        "texto": "La palabra de Dios llegó al rollo por un camino humano, la voz del profeta y la mano del escriba, y siguió siendo palabra de Dios (Jeremías 36:2).",
+        "fuentes": [
+          "biblia"
+        ]
+      }
     },
     {
       "titulo": "El rollo quemado y el rollo reescrito",
       "parrafos": [
-        {"texto": "Los príncipes se asustaron al oír el rollo y se lo contaron al rey (Jeremías 36:16, 20). Cuando Jehudí había leído tres o cuatro planas, Joacim lo cortó con el cortaplumas y lo echó al brasero «hasta que todo el rollo se consumió» (36:21-23). Algunos príncipes le rogaron que no lo quemara y no los quiso oír (36:25); mandó arrestar a Baruc y a Jeremías, pero «Jehová los escondió» (36:26). MacArthur marca el contraste con las tablas rotas por Moisés: aquello fue indignación contra el pecado del pueblo; esto, rechazo a la palabra de Dios.", "fuentes": ["biblia", "macarthur_ts#152"]},
-        {"texto": "La respuesta de Dios no se hizo esperar: vino palabra a Jeremías «después que el rey quemó el rollo» y le ordenó: «Vuelve a tomar otro rollo» y escribir «todas las palabras primeras» (36:27-28). Baruc volvió a escribir de boca del profeta todas las palabras del libro quemado, y «aun fueron añadidas sobre ellas muchas otras palabras semejantes» (36:32). Lo que destruyó el fuego se restauró palabra por palabra; y la segunda edición no fue una copia mecánica, porque el propio texto dice que se sumaron más palabras del mismo tipo.", "fuentes": ["biblia"]},
-        {"texto": "MacArthur ve aquí el ejemplo más extenso de dos cosas a la vez: Dios permitió que un hombre destruyera su Palabra, y es capaz de restaurarla. Algo parecido había pasado con las tablas de la ley: Dios las escribió, Moisés las quebró y Dios mandó cortar otras dos y dio de nuevo los mismos mandamientos (Éxodo 31:18; 32:19; 34:1-2, 27-28). La lección que saca: la Palabra permanece intacta en el cielo, y en la tierra Dios encomienda su cuidado a su pueblo.", "fuentes": ["macarthur_ts#151", "macarthur_ts#152"]}
+        {
+          "texto": "Los príncipes se asustaron al oír el rollo y se lo contaron al rey (Jeremías 36:16, 20). Cuando Jehudí había leído tres o cuatro planas, Joacim lo cortó con el cortaplumas y lo echó al brasero «hasta que todo el rollo se consumió» (36:21-23). Algunos príncipes le rogaron que no lo quemara y no los quiso oír (36:25); mandó arrestar a Baruc y a Jeremías, pero «Jehová los escondió» (36:26). MacArthur marca el contraste con las tablas rotas por Moisés: aquello fue indignación contra el pecado del pueblo; esto, rechazo a la palabra de Dios.",
+          "fuentes": [
+            "biblia",
+            "macarthur_ts#152"
+          ]
+        },
+        {
+          "texto": "La respuesta de Dios no se hizo esperar: vino palabra a Jeremías «después que el rey quemó el rollo» y le ordenó: «Vuelve a tomar otro rollo» y escribir «todas las palabras primeras» (36:27-28). Baruc volvió a escribir de boca del profeta todas las palabras del libro quemado, y «aun fueron añadidas sobre ellas muchas otras palabras semejantes» (36:32). Lo que destruyó el fuego se restauró palabra por palabra; y la segunda edición no fue una copia mecánica, porque el propio texto dice que se sumaron más palabras del mismo tipo.",
+          "fuentes": [
+            "biblia"
+          ]
+        },
+        {
+          "texto": "MacArthur ve aquí el ejemplo más extenso de dos cosas a la vez: Dios permitió que un hombre destruyera su Palabra, y es capaz de restaurarla. Algo parecido había pasado con las tablas de la ley: Dios las escribió, Moisés las quebró y Dios mandó cortar otras dos y dio de nuevo los mismos mandamientos (Éxodo 31:18; 32:19; 34:1-2, 27-28). La lección que saca: la Palabra permanece intacta en el cielo, y en la tierra Dios encomienda su cuidado a su pueblo.",
+          "fuentes": [
+            "macarthur_ts#151",
+            "macarthur_ts#152"
+          ]
+        }
       ],
-      "destacado": {"texto": "Un rey pudo quemar un rollo; no pudo anular lo que Dios había dicho. Cuando el material se perdió, Dios mandó volver a escribir (Jeremías 36:23, 28).", "fuentes": ["biblia"]}
+      "destacado": {
+        "texto": "Un rey pudo quemar un rollo; no pudo anular lo que Dios había dicho. Cuando el material se perdió, Dios mandó volver a escribir (Jeremías 36:23, 28).",
+        "fuentes": [
+          "biblia"
+        ]
+      }
     },
     {
       "titulo": "Copiar la ley: Deuteronomio 17 y el cuidado de los escribas",
       "parrafos": [
-        {"texto": "Mucho antes de Joacim, Dios ya había previsto que los reyes tuvieran un trato personal con el texto. El rey escribirá para sí «una copia de esta ley, del original» que está «al cuidado de los sacerdotes levitas» (Deuteronomio 17:18); la tendrá consigo y leerá en ella «todos los días de su vida», para temer a Dios y guardar todas sus palabras (17:19).", "fuentes": ["biblia"]},
-        {"texto": "MacArthur deduce dos ideas. Primera: como la copia se hacía bajo la vigilancia de los sacerdotes, debía hacerse con rigor, y se espera que sea certificada por ellos como exacta. Segunda: la copia debía obedecerse, con las mismas promesas que el original; así Dios ligaba las copias con sus autógrafos, y de ahí concluye que la Biblia considera Palabra de Dios a las copias fieles. A esto suma los mandatos de no añadir ni quitar (Deuteronomio 4:2; 12:32; Apocalipsis 22:18-19): su pueblo es responsable no solo de obedecer sino de preservar hasta el último detalle.", "fuentes": ["macarthur_ts#150", "macarthur_ts#151", "macarthur_ts#153"]},
-        {"texto": "Ese espíritu marcó a los escribas que copiaron la Biblia hebrea. Según Jason DeRouchie, de la Coalición por el Evangelio, los judíos vieron las Escrituras como la Palabra duradera y autorizada de Dios: por eso copiaron el texto con gran cuidado y además preservaron su significado con notas al margen, actualizaciones (de la escritura hebrea, la ortografía o datos geográficos) y traducciones.", "fuentes": ["web_cpe_critica_textual_at#1"]}
+        {
+          "texto": "Mucho antes de Joacim, Dios ya había previsto que los reyes tuvieran un trato personal con el texto. El rey escribirá para sí «una copia de esta ley, del original» que está «al cuidado de los sacerdotes levitas» (Deuteronomio 17:18); la tendrá consigo y leerá en ella «todos los días de su vida», para temer a Dios y guardar todas sus palabras (17:19).",
+          "fuentes": [
+            "biblia"
+          ]
+        },
+        {
+          "texto": "MacArthur deduce dos ideas. Primera: como la copia se hacía bajo la vigilancia de los sacerdotes, debía hacerse con rigor, y se espera que sea certificada por ellos como exacta. Segunda: la copia debía obedecerse, con las mismas promesas que el original; así Dios ligaba las copias con sus autógrafos, y de ahí concluye que la Biblia considera Palabra de Dios a las copias fieles. A esto suma los mandatos de no añadir ni quitar (Deuteronomio 4:2; 12:32; Apocalipsis 22:18-19): su pueblo es responsable no solo de obedecer sino de preservar hasta el último detalle.",
+          "fuentes": [
+            "macarthur_ts#150",
+            "macarthur_ts#151",
+            "macarthur_ts#153"
+          ]
+        },
+        {
+          "texto": "Ese espíritu marcó a los escribas que copiaron la Biblia hebrea. Según Jason DeRouchie, de la Coalición por el Evangelio, los judíos vieron las Escrituras como la Palabra duradera y autorizada de Dios: por eso copiaron el texto con gran cuidado y además preservaron su significado con notas al margen, actualizaciones (de la escritura hebrea, la ortografía o datos geográficos) y traducciones.",
+          "fuentes": [
+            "web_cpe_critica_textual_at#1"
+          ]
+        }
       ]
     },
     {
       "titulo": "Papiro, pergamino y códice: sobre qué se escribía",
       "parrafos": [
-        {"texto": "El papiro se fabricaba con una planta que crecía a orillas del Nilo; según la Coalición por el Evangelio, se usó para escribir desde por lo menos 2900 a. C. hasta el siglo XII d. C. Metzger le explicó a Strobel que los primeros manuscritos del Nuevo Testamento son fragmentos de papiro. El pergamino, en cambio, se hacía con cuero de vaca, oveja, cabra o antílope; de ese material son los grandes códices Sinaítico y Vaticano, de alrededor del año 350 d. C. Entre los rollos hallados desde 1947 en cuevas del desierto de Judea, Geisler y Turek destacan el Gran Rollo de Isaías, de hacia el 100 a. C., que contiene el libro completo.", "fuentes": ["web_cpe_papiros#1", "el_caso_de__strobel#38", "el_caso_de__strobel#39", "no_tengo_suficiente__geisler#313", "no_tengo_suficiente__geisler#314"]},
-        {"texto": "El rollo, como el de Baruc, se desenrollaba para leerlo. El códice, en cambio, tiene hojas escritas por ambos lados: al describir el papiro P. Egerton 2, el autor de la Coalición lo señala, junto con las abreviaturas sagradas (nomina sacra), como rasgos distintivamente cristianos. Y sin fotocopiadoras, cada documento, bíblico o no, se copiaba a mano, letra por letra y palabra por palabra, por uno o varios escribas.", "fuentes": ["web_cpe_papiros#2", "web_cpe_papiros#3"]}
+        {
+          "texto": "El papiro se fabricaba con una planta que crecía a orillas del Nilo; según la Coalición por el Evangelio, se usó para escribir desde por lo menos 2900 a. C. hasta el siglo XII d. C. Metzger le explicó a Strobel que los primeros manuscritos del Nuevo Testamento son fragmentos de papiro. El pergamino, en cambio, se hacía con cuero de vaca, oveja, cabra o antílope; de ese material son los grandes códices Sinaítico y Vaticano, de alrededor del año 350 d. C. Entre los rollos hallados desde 1947 en cuevas del desierto de Judea, Geisler y Turek destacan el Gran Rollo de Isaías, de hacia el 100 a. C., que contiene el libro completo.",
+          "fuentes": [
+            "web_cpe_papiros#1",
+            "el_caso_de__strobel#38",
+            "el_caso_de__strobel#39",
+            "no_tengo_suficiente__geisler#313",
+            "no_tengo_suficiente__geisler#314"
+          ]
+        },
+        {
+          "texto": "El rollo, como el de Baruc, se desenrollaba para leerlo. El códice, en cambio, tiene hojas escritas por ambos lados: al describir el papiro P. Egerton 2, el autor de la Coalición lo señala, junto con las abreviaturas sagradas (nomina sacra), como rasgos distintivamente cristianos. Y sin fotocopiadoras, cada documento, bíblico o no, se copiaba a mano, letra por letra y palabra por palabra, por uno o varios escribas.",
+          "fuentes": [
+            "web_cpe_papiros#2",
+            "web_cpe_papiros#3"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cuando el copista se equivoca: qué errores hay y cuánto pesan",
       "parrafos": [
-        {"texto": "Cuando Strobel le preguntó a Metzger si en esas condiciones no era inevitable que se colaran errores, el erudito estuvo de acuerdo: los anteojos se inventaron recién en 1373, la tinta borrosa dificultaba la lectura y también había falta de atención. Aun así, dijo, los escribas eran en general escrupulosamente cuidadosos. Otra causa era la memoria: el orden de las palabras podía cambiar, algo que en griego, una lengua con inflexiones, importa menos que en castellano. Para el Antiguo Testamento, DeRouchie suma la mala audición, los errores de visión y los intentos de corregir un problema que el escriba creía ver.", "fuentes": ["el_caso_de__strobel#40", "web_cpe_critica_textual_at#1"]},
-        {"texto": "Hay ejemplos concretos. Geisler y Howe consideran probable que sea error de copista la diferencia entre 2 Samuel 8:4, que habla de 1.700 hombres de a caballo, y 1 Crónicas 18:4, que dice 7.000. También atribuyen a un copista la diferencia sobre la edad de Joaquín en 2 Crónicas 36:9 y 2 Reyes 24:8 (ocho o dieciocho años), aunque ofrecen otra explicación posible: que empezó a reinar junto a su padre a los ocho y tomó el control pleno a los dieciocho. Insisten en que estos errores son infrecuentes y no invalidan la inspiración: Dios inspiró los originales, no las copias.", "fuentes": ["dificultades_biblicas_un__geisler#237", "dificultades_biblicas_un__geisler#241"]},
-        {"texto": "MacArthur cita un caso en el que todas las copias existentes de Samuel comparten una laguna: faltan dos palabras en 1 Samuel 13:1, los números de la edad de Saúl y de los años de su reinado. Es una omisión mínima, pero para MacArthur muestra que la preservación terrenal no es un acto perpetuo y milagroso: Dios confió a su pueblo la responsabilidad de retener su Palabra con esfuerzo humano diligente.", "fuentes": ["macarthur_ts#152", "macarthur_ts#153"]},
-        {"texto": "Otro ejemplo lo da Metzger. Según él, las palabras de 1 Juan 5:7-8 sobre «el Padre, el Verbo, y el Espíritu Santo» aparecen solo en siete u ocho copias de los siglos XV o XVI, y no forman parte de lo que el autor fue inspirado a escribir. Pero eso no descarta lo que la Biblia enseña sobre la Trinidad, dice, y señala el bautismo de Jesús y el final de 2 Corintios (13:14).", "fuentes": ["el_caso_de__strobel#40"]}
+        {
+          "texto": "Cuando Strobel le preguntó a Metzger si en esas condiciones no era inevitable que se colaran errores, el erudito estuvo de acuerdo: los anteojos se inventaron recién en 1373, la tinta borrosa dificultaba la lectura y también había falta de atención. Aun así, dijo, los escribas eran en general escrupulosamente cuidadosos. Otra causa era la memoria: el orden de las palabras podía cambiar, algo que en griego, una lengua con inflexiones, importa menos que en castellano. Para el Antiguo Testamento, DeRouchie suma la mala audición, los errores de visión y los intentos de corregir un problema que el escriba creía ver.",
+          "fuentes": [
+            "el_caso_de__strobel#40",
+            "web_cpe_critica_textual_at#1"
+          ]
+        },
+        {
+          "texto": "Hay ejemplos concretos. Geisler y Howe consideran probable que sea error de copista la diferencia entre 2 Samuel 8:4, que habla de 1.700 hombres de a caballo, y 1 Crónicas 18:4, que dice 7.000. También atribuyen a un copista la diferencia sobre la edad de Joaquín en 2 Crónicas 36:9 y 2 Reyes 24:8 (ocho o dieciocho años), aunque ofrecen otra explicación posible: que empezó a reinar junto a su padre a los ocho y tomó el control pleno a los dieciocho. Insisten en que estos errores son infrecuentes y no invalidan la inspiración: Dios inspiró los originales, no las copias.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#237",
+            "dificultades_biblicas_un__geisler#241"
+          ]
+        },
+        {
+          "texto": "MacArthur cita un caso en el que todas las copias existentes de Samuel comparten una laguna: faltan dos palabras en 1 Samuel 13:1, los números de la edad de Saúl y de los años de su reinado. Es una omisión mínima, pero para MacArthur muestra que la preservación terrenal no es un acto perpetuo y milagroso: Dios confió a su pueblo la responsabilidad de retener su Palabra con esfuerzo humano diligente.",
+          "fuentes": [
+            "macarthur_ts#152",
+            "macarthur_ts#153"
+          ]
+        },
+        {
+          "texto": "Otro ejemplo lo da Metzger. Según él, las palabras de 1 Juan 5:7-8 sobre «el Padre, el Verbo, y el Espíritu Santo» aparecen solo en siete u ocho copias de los siglos XV o XVI, y no forman parte de lo que el autor fue inspirado a escribir. Pero eso no descarta lo que la Biblia enseña sobre la Trinidad, dice, y señala el bautismo de Jesús y el final de 2 Corintios (13:14).",
+          "fuentes": [
+            "el_caso_de__strobel#40"
+          ]
+        }
       ],
-      "destacado": {"texto": "Los errores de copia son reales, pero se detectan comparando testigos y, según los autores consultados, casi nunca tocan una doctrina.", "fuentes": ["el_caso_de__strobel#40", "macarthur_ts#166"]}
+      "destacado": {
+        "texto": "Los errores de copia son reales, pero se detectan comparando testigos y, según los autores consultados, casi nunca tocan una doctrina.",
+        "fuentes": [
+          "el_caso_de__strobel#40",
+          "macarthur_ts#166"
+        ]
+      }
     },
     {
       "titulo": "Por qué el mensaje llegó sano",
       "parrafos": [
-        {"texto": "Strobel había visto cálculos de hasta doscientos mil variantes entre los manuscritos. Metzger respondió que el número engaña por la forma de contar: una sola palabra mal escrita en dos mil manuscritos cuenta como dos mil variantes. Y a la pregunta de cuántas doctrinas corren peligro, contestó que no sabe de ninguna.", "fuentes": ["el_caso_de__strobel#40"]},
-        {"texto": "La primera razón de confianza es la abundancia de testigos. Metzger cuenta más de cinco mil seiscientos manuscritos griegos del Nuevo Testamento, y alrededor de veinticuatro mil si se suman las versiones en otras lenguas; de la Ilíada de Homero quedan menos de seiscientos cincuenta, separados del original por unos mil años. MacArthur agrega que algunos fragmentos del Nuevo Testamento se escribieron entre veinticinco y cincuenta años después del original. Y el fragmento más antiguo, un trozo de Juan 18, fue fechado por Roberts entre 100 y 150 d. C. (la Coalición lo ubica entre 125 y 175).", "fuentes": ["el_caso_de__strobel#38", "el_caso_de__strobel#39", "macarthur_ts#165", "macarthur_ts#166", "web_cpe_papiros#5"]},
-        {"texto": "Para el Antiguo Testamento, DeRouchie explica que los masoretas, estudiosos judíos que trabajaron entre el 500 y el 1000 d. C., añadieron vocales, acentos y notas al texto consonántico para asegurar una transmisión más precisa; sostiene que ningún otro texto del mundo antiguo fue salvaguardado con tanto cuidado. El manuscrito masorético completo más antiguo es el Códice de Leningrado (1008 d. C.). Antes de 1947, las copias hebreas más antiguas eran esas medievales; luego aparecieron unos 800 rollos en el desierto de Judea, y el conocimiento del texto retrocedió mil años. Según DeRouchie, muchos reflejan esencialmente el mismo texto de los masoretas, y MacArthur coincide: solo se hallaron ligeras variantes que no alteraban el significado.", "fuentes": ["web_cpe_critica_textual_at#2", "macarthur_ts#165"]},
-        {"texto": "La diversidad de testigos también protege el texto. Según la Coalición, el origen geográfico variado de los papiros muestra que ninguna autoridad humana controló la reproducción de los textos; si alguien hubiera quitado pasajes difíciles, como intentó Marción, los demás testigos lo delatarían.", "fuentes": ["web_cpe_papiros#2"]},
-        {"texto": "Los especialistas coinciden en el orden de magnitud, aunque cada uno mide algo distinto: MacArthur habla de más del 99 por ciento del texto original del Nuevo Testamento recuperado; Sproul, de más del noventa y nueve por ciento de los casos reconstruibles hasta una certeza práctica; Grudem, de más del 99 por ciento de las palabras de la Biblia; y Strobel cita a Geisler y Nix, que hablan de un Nuevo Testamento puro en un 99,5 por ciento.", "fuentes": ["macarthur_ts#166", "puedo_confiar_en__sproul#42", "grudem#100", "el_caso_de__strobel#40"]}
+        {
+          "texto": "Strobel había visto cálculos de hasta doscientos mil variantes entre los manuscritos. Metzger respondió que el número engaña por la forma de contar: una sola palabra mal escrita en dos mil manuscritos cuenta como dos mil variantes. Y a la pregunta de cuántas doctrinas corren peligro, contestó que no sabe de ninguna.",
+          "fuentes": [
+            "el_caso_de__strobel#40"
+          ]
+        },
+        {
+          "texto": "La primera razón de confianza es la abundancia de testigos. Metzger cuenta más de cinco mil seiscientos manuscritos griegos del Nuevo Testamento, y alrededor de veinticuatro mil si se suman las versiones en otras lenguas; de la Ilíada de Homero quedan menos de seiscientos cincuenta, separados del original por unos mil años. MacArthur agrega que algunos fragmentos del Nuevo Testamento se escribieron entre veinticinco y cincuenta años después del original. Y el fragmento más antiguo, un trozo de Juan 18, fue fechado por Roberts entre 100 y 150 d. C. (la Coalición lo ubica entre 125 y 175).",
+          "fuentes": [
+            "el_caso_de__strobel#38",
+            "el_caso_de__strobel#39",
+            "macarthur_ts#165",
+            "macarthur_ts#166",
+            "web_cpe_papiros#5"
+          ]
+        },
+        {
+          "texto": "Para el Antiguo Testamento, DeRouchie explica que los masoretas, estudiosos judíos que trabajaron entre el 500 y el 1000 d. C., añadieron vocales, acentos y notas al texto consonántico para asegurar una transmisión más precisa; sostiene que ningún otro texto del mundo antiguo fue salvaguardado con tanto cuidado. El manuscrito masorético completo más antiguo es el Códice de Leningrado (1008 d. C.). Antes de 1947, las copias hebreas más antiguas eran esas medievales; luego aparecieron unos 800 rollos en el desierto de Judea, y el conocimiento del texto retrocedió mil años. Según DeRouchie, muchos reflejan esencialmente el mismo texto de los masoretas, y MacArthur coincide: solo se hallaron ligeras variantes que no alteraban el significado.",
+          "fuentes": [
+            "web_cpe_critica_textual_at#2",
+            "macarthur_ts#165"
+          ]
+        },
+        {
+          "texto": "La diversidad de testigos también protege el texto. Según la Coalición, el origen geográfico variado de los papiros muestra que ninguna autoridad humana controló la reproducción de los textos; si alguien hubiera quitado pasajes difíciles, como intentó Marción, los demás testigos lo delatarían.",
+          "fuentes": [
+            "web_cpe_papiros#2"
+          ]
+        },
+        {
+          "texto": "Los especialistas coinciden en el orden de magnitud, aunque cada uno mide algo distinto: MacArthur habla de más del 99 por ciento del texto original del Nuevo Testamento recuperado; Sproul, de más del noventa y nueve por ciento de los casos reconstruibles hasta una certeza práctica; Grudem, de más del 99 por ciento de las palabras de la Biblia; y Strobel cita a Geisler y Nix, que hablan de un Nuevo Testamento puro en un 99,5 por ciento.",
+          "fuentes": [
+            "macarthur_ts#166",
+            "puedo_confiar_en__sproul#42",
+            "grudem#100",
+            "el_caso_de__strobel#40"
+          ]
+        }
       ]
     },
     {
       "titulo": "Originales y copias: qué se afirma de la inspiración",
       "parrafos": [
-        {"texto": "MacArthur llama autógrafos a las obras originales, redactadas bajo la inspiración del Espíritu Santo, que estaban libres de error; no disponemos de ninguno, y por eso, dice, la inerrancia se limita a ellos. Aclara que las Escrituras nunca hablan de que el Espíritu supervisara a los copistas, pero que Dios, en su providencia, preservó las copias. La Declaración de Chicago, que Sproul comenta, lo dice así: la inspiración se aplica estrictamente a los autógrafos, y las copias y traducciones son Palabra de Dios en la medida en que representen fielmente al original;", "fuentes": ["macarthur_ts#144", "puedo_confiar_en__sproul#42", "puedo_confiar_en__sproul#43"]},
-        {"texto": "¿Para qué insistir en originales que no tenemos? Ryrie reconoce que la inerrancia solo se afirma de los originales, pero pregunta si alguien diría que la inspiración no es esencial por esa misma razón. Grudem responde que las copias las hicieron hombres sin garantía divina de perfección: si hay errores en ellas, son errores de hombres, pero si los hubiera en los originales, Dios mismo habría hablado falsamente; además, como más del 99 por ciento de las palabras de nuestros manuscritos son copias exactas, la doctrina toca también los textos que hoy tenemos. Sproul agrega que, si el original fuera inerrante, no hay base legítima para desobedecer un mandato donde el texto no está en duda.", "fuentes": ["ryrie#35", "grudem#101", "puedo_confiar_en__sproul#43"]},
-        {"texto": "Jesús habló de la permanencia de la Escritura en términos mínimos: «ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido» (Mateo 5:18). MacArthur une esta frase con los mandatos de no añadir ni quitar y concluye que la norma final por la que será evaluado todo ser humano son los autógrafos inspirados; por eso es esencial que el pueblo de Dios copie, traduzca y produzca su Palabra con sumo rigor.", "fuentes": ["biblia", "macarthur_ts#151"]}
+        {
+          "texto": "MacArthur llama autógrafos a las obras originales, redactadas bajo la inspiración del Espíritu Santo, que estaban libres de error; no disponemos de ninguno, y por eso, dice, la inerrancia se limita a ellos. Aclara que las Escrituras nunca hablan de que el Espíritu supervisara a los copistas, pero que Dios, en su providencia, preservó las copias. La Declaración de Chicago, que Sproul comenta, lo dice así: la inspiración se aplica estrictamente a los autógrafos, y las copias y traducciones son Palabra de Dios en la medida en que representen fielmente al original;",
+          "fuentes": [
+            "macarthur_ts#144",
+            "puedo_confiar_en__sproul#42",
+            "puedo_confiar_en__sproul#43"
+          ]
+        },
+        {
+          "texto": "¿Para qué insistir en originales que no tenemos? Ryrie reconoce que la inerrancia solo se afirma de los originales, pero pregunta si alguien diría que la inspiración no es esencial por esa misma razón. Grudem responde que las copias las hicieron hombres sin garantía divina de perfección: si hay errores en ellas, son errores de hombres, pero si los hubiera en los originales, Dios mismo habría hablado falsamente; además, como más del 99 por ciento de las palabras de nuestros manuscritos son copias exactas, la doctrina toca también los textos que hoy tenemos. Sproul agrega que, si el original fuera inerrante, no hay base legítima para desobedecer un mandato donde el texto no está en duda.",
+          "fuentes": [
+            "ryrie#35",
+            "grudem#101",
+            "puedo_confiar_en__sproul#43"
+          ]
+        },
+        {
+          "texto": "Jesús habló de la permanencia de la Escritura en términos mínimos: «ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido» (Mateo 5:18). MacArthur une esta frase con los mandatos de no añadir ni quitar y concluye que la norma final por la que será evaluado todo ser humano son los autógrafos inspirados; por eso es esencial que el pueblo de Dios copie, traduzca y produzca su Palabra con sumo rigor.",
+          "fuentes": [
+            "biblia",
+            "macarthur_ts#151"
+          ]
+        }
       ],
-      "destacado": {"texto": "Los originales fueron inspirados; las copias y traducciones valen como Palabra de Dios en la medida en que reproducen fielmente aquellos originales, y esa medida se puede comprobar.", "fuentes": ["puedo_confiar_en__sproul#42", "macarthur_ts#144"]}
+      "destacado": {
+        "texto": "Los originales fueron inspirados; las copias y traducciones valen como Palabra de Dios en la medida en que reproducen fielmente aquellos originales, y esa medida se puede comprobar.",
+        "fuentes": [
+          "puedo_confiar_en__sproul#42",
+          "macarthur_ts#144"
+        ]
+      }
     }
   ],
   "citas": [
-    {"texto": "las copias y traducciones de la Escritura son la Palabra de Dios en la medida que representen fielmente al original", "autor": "Declaración de Chicago, art. X", "obra": "comentada en R. C. Sproul, ¿Puedo confiar en la Biblia?", "fuentes": ["puedo_confiar_en__sproul#42"]},
-    {"texto": "Dios ha establecido su Palabra en el cielo, pero pone sobre los creyentes la responsabilidad de retener y procurar su integridad en la tierra", "autor": "John MacArthur", "obra": "Teología sistemática", "fuentes": ["macarthur_ts#151"]}
+    {
+      "texto": "las copias y traducciones de la Escritura son la Palabra de Dios en la medida que representen fielmente al original",
+      "autor": "Declaración de Chicago, art. X",
+      "obra": "comentada en R. C. Sproul, ¿Puedo confiar en la Biblia?",
+      "fuentes": [
+        "puedo_confiar_en__sproul#42"
+      ]
+    },
+    {
+      "texto": "Dios ha establecido su Palabra en el cielo, pero pone sobre los creyentes la responsabilidad de retener y procurar su integridad en la tierra",
+      "autor": "John MacArthur",
+      "obra": "Teología sistemática",
+      "fuentes": [
+        "macarthur_ts#151"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "", "translit": "autógrafo", "idioma": "griego", "ref": "—", "significado": "El texto escrito por el propio autor. Grudem explica que el término junta un prefijo que significa «mismo» y una raíz que significa «escrito», y que en teología designa las copias originales de los documentos bíblicos, que no se conservan.", "fuentes": ["grudem#100"]}
+    {
+      "original": "",
+      "translit": "autógrafo",
+      "idioma": "griego",
+      "ref": "—",
+      "significado": "El texto escrito por el propio autor. Grudem explica que el término junta un prefijo que significa «mismo» y una raíz que significa «escrito», y que en teología designa las copias originales de los documentos bíblicos, que no se conservan.",
+      "fuentes": [
+        "grudem#100"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "La palabra de Jesús y la ley que no pasa. Jesús dice que no vino a abrogar la ley o los profetas sino a cumplir, y que ni una jota ni una tilde pasará de la ley hasta que todo se haya cumplido (Mateo 5:17-18): lo afirma el propio texto. MacArthur recuerda que Jesús dice lo mismo de sus palabras (Mateo 24:35) y precisa que ahí se habla del cumplimiento de lo anunciado, no de una promesa directa sobre el registro escrito.", "refs": ["Mt 5:17-18", "Mt 24:35"], "fuentes": ["biblia", "macarthur_ts#150"]},
-    {"texto": "Testigos tempranos. Es un dato histórico, no un tipo: según Strobel y Metzger, el fragmento neotestamentario más antiguo contiene un pasaje de Juan 18, y su antigüedad desmintió la idea de un Evangelio tardío. Geisler y Turek destacan que el rollo de Isaías de Qumrán es anterior a Cristo y contiene lo que leen como la profecía más clara sobre el Mesías (Isaías 53); ese pasaje se estudiará más adelante.", "refs": ["Jn 18:1", "Is 53:1"], "fuentes": ["el_caso_de__strobel#38", "el_caso_de__strobel#39", "no_tengo_suficiente__geisler#314"]}
+    {
+      "texto": "La palabra de Jesús y la ley que no pasa. Jesús dice que no vino a abrogar la ley o los profetas sino a cumplir, y que ni una jota ni una tilde pasará de la ley hasta que todo se haya cumplido (Mateo 5:17-18): lo afirma el propio texto. MacArthur recuerda que Jesús dice lo mismo de sus palabras (Mateo 24:35) y precisa que ahí se habla del cumplimiento de lo anunciado, no de una promesa directa sobre el registro escrito.",
+      "refs": [
+        "Mt 5:17-18",
+        "Mt 24:35"
+      ],
+      "fuentes": [
+        "biblia",
+        "macarthur_ts#150"
+      ]
+    },
+    {
+      "texto": "Testigos tempranos. Es un dato histórico, no un tipo: según Strobel y Metzger, el fragmento neotestamentario más antiguo contiene un pasaje de Juan 18, y su antigüedad desmintió la idea de un Evangelio tardío. Geisler y Turek destacan que el rollo de Isaías de Qumrán es anterior a Cristo y contiene lo que leen como la profecía más clara sobre el Mesías (Isaías 53); ese pasaje se estudiará más adelante.",
+      "refs": [
+        "Jn 18:1",
+        "Is 53:1"
+      ],
+      "fuentes": [
+        "el_caso_de__strobel#38",
+        "el_caso_de__strobel#39",
+        "no_tengo_suficiente__geisler#314"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué dice Mateo 5:18 sobre la conservación del texto?",
       "posturas": [
-        {"postura": "El texto habla de cumplimiento y no directamente de preservación. MacArthur sostiene que Cristo no dice que la Escritura vaya a ser necesariamente preservada, sino que todo lo que dice se cumplirá; ve implícito que Dios preserva su revelación, pero no una garantía directa de copias terrenales sin error: la preservó perfectamente en el cielo y fielmente en la tierra, por medio de diligentes esfuerzos humanos.", "quien": "MacArthur", "fuentes": ["macarthur_ts#150"]},
-        {"postura": "Mateo 5:18 respalda la fidelidad con que Dios ha preservado sus palabras a través de su iglesia. El autor del artículo de la Coalición por el Evangelio lo cita al comparar el texto de nuestras Biblias con los papiros más antiguos, y en esa página no discute el matiz anterior.", "quien": "Coalición por el Evangelio (J. Alberto Paredes)", "fuentes": ["web_cpe_papiros#2"]}
+        {
+          "postura": "El texto habla de cumplimiento y no directamente de preservación. MacArthur sostiene que Cristo no dice que la Escritura vaya a ser necesariamente preservada, sino que todo lo que dice se cumplirá; ve implícito que Dios preserva su revelación, pero no una garantía directa de copias terrenales sin error: la preservó perfectamente en el cielo y fielmente en la tierra, por medio de diligentes esfuerzos humanos.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macarthur_ts#150"
+          ]
+        },
+        {
+          "postura": "Mateo 5:18 respalda la fidelidad con que Dios ha preservado sus palabras a través de su iglesia. El autor del artículo de la Coalición por el Evangelio lo cita al comparar el texto de nuestras Biblias con los papiros más antiguos, y en esa página no discute el matiz anterior.",
+          "quien": "Coalición por el Evangelio (J. Alberto Paredes)",
+          "fuentes": [
+            "web_cpe_papiros#2"
+          ]
+        }
       ],
       "nota": "Ambas voces afirman que el texto llegó con fidelidad; difieren en cuánto se apoya esa seguridad en este versículo. Los días sobre inspiración, inerrancia y crítica textual vuelven sobre esto con más fuentes."
     }
   ],
   "conexiones": [
-    {"ref": "Éx 32:19", "nota": "Moisés quiebra las tablas y en Éxodo 34:1 se vuelven a dar: para MacArthur, un primer caso de Palabra destruida y restaurada, antes de Jeremías 36.", "fuentes": ["macarthur_ts#151"]},
-    {"ref": "2 R 22:8", "nota": "El libro de la ley extraviado y hallado: MacArthur lo presenta como un caso en que Dios retuvo su Palabra como juicio durante más de una generación.", "fuentes": ["macarthur_ts#152"]},
-    {"ref": "Ap 22:18-19", "nota": "La advertencia final de no añadir ni quitar, la única de las cuatro exhortaciones bíblicas de este tipo que añade la amenaza de un juicio severo, según MacArthur.", "fuentes": ["macarthur_ts#164"]},
-    {"ref": "1 S 13:1", "nota": "Versículo con dos números ausentes en todas las copias antiguas de Samuel: ejemplo mínimo de laguna que MacArthur usa para mostrar la responsabilidad humana en la preservación.", "fuentes": ["macarthur_ts#152", "macarthur_ts#153"]},
-    {"ref": "2 Ti 4:13", "nota": "La Coalición lo cita, junto con Lucas 1:1-2, como indicio de que lo escrito sobre Jesús se copiaba y se distribuía.", "fuentes": ["web_cpe_papiros#3"]}
+    {
+      "ref": "Éx 32:19",
+      "nota": "Moisés quiebra las tablas y en Éxodo 34:1 se vuelven a dar: para MacArthur, un primer caso de Palabra destruida y restaurada, antes de Jeremías 36.",
+      "fuentes": [
+        "macarthur_ts#151"
+      ]
+    },
+    {
+      "ref": "2 R 22:8",
+      "nota": "El libro de la ley extraviado y hallado: MacArthur lo presenta como un caso en que Dios retuvo su Palabra como juicio durante más de una generación.",
+      "fuentes": [
+        "macarthur_ts#152"
+      ]
+    },
+    {
+      "ref": "Ap 22:18-19",
+      "nota": "La advertencia final de no añadir ni quitar, la única de las cuatro exhortaciones bíblicas de este tipo que añade la amenaza de un juicio severo, según MacArthur.",
+      "fuentes": [
+        "macarthur_ts#164"
+      ]
+    },
+    {
+      "ref": "1 S 13:1",
+      "nota": "Versículo con dos números ausentes en todas las copias antiguas de Samuel: ejemplo mínimo de laguna que MacArthur usa para mostrar la responsabilidad humana en la preservación.",
+      "fuentes": [
+        "macarthur_ts#152",
+        "macarthur_ts#153"
+      ]
+    },
+    {
+      "ref": "2 Ti 4:13",
+      "nota": "La Coalición lo cita, junto con Lucas 1:1-2, como indicio de que lo escrito sobre Jesús se copiaba y se distribuía.",
+      "fuentes": [
+        "web_cpe_papiros#3"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Leé tu Biblia con confianza informada. Las notas al pie que dicen «algunos manuscritos antiguos dicen…» no son una trampa: Grudem señala que las traducciones modernas indican así las variantes y que su estudio nos ha llevado muy cerca de los originales.", "fuentes": ["grudem#100"]},
-    {"texto": "Tomá la Palabra con la seriedad del rey de Deuteronomio 17, que debía leer su copia todos los días de su vida para temer a Dios y guardar sus palabras.", "fuentes": ["biblia", "macarthur_ts#153"]},
-    {"texto": "Si alguien te dice que la Biblia está llena de errores de copia, no respondas con enojo ni con ingenuidad: reconocé que existen, mostrá que se detectan comparando miles de testigos y que, según Metzger, no hay doctrina en peligro.", "fuentes": ["el_caso_de__strobel#40"]}
+    {
+      "texto": "Leé tu Biblia con confianza informada. Las notas al pie que dicen «algunos manuscritos antiguos dicen…» no son una trampa: Grudem señala que las traducciones modernas indican así las variantes y que su estudio nos ha llevado muy cerca de los originales.",
+      "fuentes": [
+        "grudem#100"
+      ]
+    },
+    {
+      "texto": "Tomá la Palabra con la seriedad del rey de Deuteronomio 17, que debía leer su copia todos los días de su vida para temer a Dios y guardar sus palabras.",
+      "fuentes": [
+        "biblia",
+        "macarthur_ts#153"
+      ]
+    },
+    {
+      "texto": "Si alguien te dice que la Biblia está llena de errores de copia, no respondas con enojo ni con ingenuidad: reconocé que existen, mostrá que se detectan comparando miles de testigos y que, según Metzger, no hay doctrina en peligro.",
+      "fuentes": [
+        "el_caso_de__strobel#40"
+      ]
+    }
   ],
   "para_reflexionar": [
     "Joacim oyó la palabra de Dios, la cortó y la quemó; los príncipes sintieron espanto. ¿Cuál de esas dos reacciones aparece más en tu manera de leer la Biblia?",
     "¿Qué cambia en tu confianza cuando te enterás de que no existe ningún original, pero sí miles de copias que se pueden comparar?",
     "Si Dios quiso que su pueblo cuide su Palabra con diligencia humana, ¿qué responsabilidad concreta tenés vos con el texto que recibiste?"
   ],
-  "para_orar": "Señor, gracias porque tu palabra no depende de un rollo ni de un rey: ni el fuego ni los siglos la anularon. Perdoná mi manera de tratarla con indiferencia o con dureza. Enseñame a leerla cada día, a obedecerla y a cuidarla, y a confiar en que me hablás por medio de ella. Amén.",
   "profundizar": [
-    {"titulo": "Los papiros que no son bíblicos: ¿para qué sirven?", "texto": "Entre los papiros hay contratos, listas de bodega, cuentas, impuestos, cartas personales y ejercicios de escritura. Según la Coalición por el Evangelio, sirven a los lexicógrafos, que deben estudiar cómo se usaba una palabra dentro y fuera del texto bíblico, y ayudan a entender la estructura de las cartas del Nuevo Testamento: términos que parecían raros en esos escritos resultaron cada vez más comunes en los papiros de la época.", "fuentes": ["web_cpe_papiros#4"]}
+    {
+      "titulo": "Los papiros que no son bíblicos: ¿para qué sirven?",
+      "texto": "Entre los papiros hay contratos, listas de bodega, cuentas, impuestos, cartas personales y ejercicios de escritura. Según la Coalición por el Evangelio, sirven a los lexicógrafos, que deben estudiar cómo se usaba una palabra dentro y fuera del texto bíblico, y ayudan a entender la estructura de las cartas del Nuevo Testamento: términos que parecían raros en esos escritos resultaron cada vez más comunes en los papiros de la época.",
+      "fuentes": [
+        "web_cpe_papiros#4"
+      ]
+    }
   ]
 }

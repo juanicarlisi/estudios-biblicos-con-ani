@@ -38,8 +38,11 @@ ciclo(4, 'El Espíritu Santo', 'Su persona, su obra en cada época y su obra en 
     ('Dones y fruto del Espíritu: posturas cesacionista y continuacionista', 12, 'Dones espirituales y las distintas lecturas cristianas.', 'C; 5 Pentecostalismo', 'TMS TH786', 'B: MacArthur, Grudem; X'),
     ('Resistir al Espíritu y discernir', 6, 'Endurecimiento, apagar, entristecer, blasfemia contra el Espíritu, discernimiento espiritual.', 'C', '—', 'B'),
 ])
-ciclo(5, 'El ser humano, el pecado y el mal', 'Qué somos, qué se rompió y cómo funciona la lucha espiritual.', [
-    ('Imagen de Dios e identidad humana', 14, 'Creación, imagen, hombre y mujer, alma, espíritu, corazón, mente, conciencia, voluntad, emociones, personalidad y temperamento.', 'K', 'IBBA Antropología, Teología de la naturaleza humana · TMS TH705', 'B + X'),
+ciclo(5, 'El ser humano, la mente, las emociones y el pecado', 'Qué somos, cómo funcionamos por dentro (corazón, mente, voluntad, emociones), qué se rompió y cómo funciona la lucha espiritual.', [
+    ('Imagen de Dios e identidad humana', 14, 'Creación, imagen, hombre y mujer, alma y espíritu, naturaleza humana, valor de la persona.', 'K', 'IBBA Antropología, Teología de la naturaleza humana · TMS TH705', 'B + X'),
+    ('Corazón, mente, voluntad y conciencia', 16, 'Cómo describe la Biblia las dimensiones de la persona: el corazón, la mente, los pensamientos, los deseos, las motivaciones, la voluntad, la conciencia; qué significa pensar bien y querer bien.', 'K', 'IBBA Teología del comportamiento humano', 'B (Hombre, Crecimiento, Pecado) + X'),
+    ('Las emociones en la Biblia', 28, 'Ira, miedo y ansiedad, tristeza y depresión, soledad, culpa y vergüenza, envidia y celos, gozo, esperanza, compasión, deseo y afecto; las emociones de Dios y de Jesús; qué hacer con lo que sentimos; cuándo buscar ayuda.', 'K; H', 'IBBA Psicología al servicio de la consejería, Resiliencia', 'B (Pastorado y Consejería, Crecimiento) + X'),
+    ('Personalidad, temperamento y diferencias', 8, 'Temperamentos y personalidades a la luz de la Biblia (qué dice y qué no), dones y llamados, cómo se transforma el carácter sin negar lo que somos.', 'K', 'IBBA Perfil del educador, temperamentos', 'B + X'),
     ('La caída y el pecado', 16, 'Origen y naturaleza del pecado, caída, muerte espiritual, culpa, condenación, esclavitud.', 'H; D Pecado', 'TMS TH705', 'B'),
     ('Pecados y obras de la carne', 24, 'Idolatría, orgullo, codicia, envidia, celos, ira, amargura, hipocresía, incredulidad, mentira, engaño.', 'H', '—', 'B (Pecado, Tentación y Sexualidad)'),
     ('Tentación y lucha espiritual', 12, 'Carne y Espíritu, armadura de Dios, autoridad espiritual.', 'H', 'IBBA Confrontación de poderes', 'B'),
@@ -81,10 +84,13 @@ ciclo(9, 'La Iglesia, la misión y el discipulado', '', [
     ('Discipulado y multiplicación', 10, '', 'M', '—', 'B'),
     ('Falsas enseñanzas, apostasía y persecución', 12, '', 'M', '—', 'B'),
 ])
-ciclo(10, 'Carácter cristiano y madurez espiritual', 'El fruto del Espíritu y las virtudes que forman a Cristo en nosotros.', [
-    ('El fruto del Espíritu', 36, 'Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza: cuatro días cada uno.', 'G', 'IBBA Formación integral del carácter', 'B'),
-    ('Virtudes y conceptos espirituales', 60, 'Verdad, sabiduría, discernimiento, humildad, integridad, santidad, obediencia, fidelidad, justicia, misericordia, compasión, valentía, prudencia, pureza, contentamiento, gratitud, esperanza, perseverancia, libertad, responsabilidad.', 'F', '—', 'B'),
-    ('Transformación, identidad en Cristo y madurez', 24, 'Renovación de la mente, hábitos, propósito, vocación y llamado.', 'K', '—', 'B'),
+ciclo(10, 'Carácter cristiano, sabiduría y madurez espiritual', 'El fruto del Espíritu, la sabiduría y el discernimiento, las virtudes, el modo de decidir y las decisiones que forman el carácter.', [
+    ('El fruto del Espíritu', 36, 'Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza: cuatro días cada uno; qué se le opone y cómo crece.', 'G', 'IBBA Formación integral del carácter', 'B'),
+    ('Sabiduría, inteligencia espiritual y discernimiento', 30, 'La sabiduría bíblica (Proverbios, Santiago 3), el necio y el sabio, prudencia, consejo, conocimiento frente a sabiduría, discernimiento espiritual, cómo se pide y se crece en sabiduría.', 'F', '—', 'B (Crecimiento, Relación con Dios) + comentarios de Proverbios'),
+    ('Cómo tomar decisiones sabias', 16, 'Decidir con la Biblia: principios, consejo, oración, circunstancias, deseos, riesgo, trabajo, dinero, pareja, vocación; el miedo a equivocarse; cuando no hay un mandato directo.', 'F; K', '—', 'B (voluntad de Dios, Liderazgo, Crecimiento) + X'),
+    ('Virtudes y conceptos espirituales', 60, 'Verdad, humildad, integridad, santidad, obediencia, fidelidad, justicia, misericordia, compasión, valentía, pureza, contentamiento, gratitud, esperanza, perseverancia, libertad, responsabilidad, dependencia de Dios.', 'F', '—', 'B'),
+    ('Hábitos, disciplina y autocontrol', 20, 'Cómo se forma el carácter: hábitos, disciplina, autocontrol, deseos y motivaciones, constancia, descanso; cambio real frente a esfuerzo legalista.', 'K; F', 'IBBA Disciplinas espirituales', 'B (Crecimiento, Discipulado) + X'),
+    ('Transformación, identidad en Cristo y madurez', 24, 'Renovación de la mente, nueva identidad, propósito, vocación y llamado, libertad espiritual, señales de madurez.', 'K', '—', 'B'),
 ])
 ciclo(11, 'Oración, adoración y disciplinas espirituales', '', [
     ('La oración', 20, 'Formas de oración, enseñanza de Jesús y de los apóstoles, intercesión.', 'I', 'IBBA Disciplinas espirituales · TMS PM514', 'B'),
@@ -92,13 +98,17 @@ ciclo(11, 'Oración, adoración y disciplinas espirituales', '', [
     ('Ayuno, meditación, silencio, soledad y vigilias', 14, '', 'I', '—', 'B'),
     ('Confesión, acción de gracias, servicio, generosidad y hospitalidad', 14, '', 'I', '—', 'B'),
 ])
-ciclo(12, 'Ética cristiana y vida cotidiana', 'Cómo los principios bíblicos se aplican a cada dimensión de la vida, incluso a situaciones que la Biblia no nombra.', [
-    ('Relaciones: perdón, reconciliación, conflictos, palabra y juicio', 20, '', 'L; 6', 'TMS PM772', 'B'),
-    ('Matrimonio, sexualidad, soltería, noviazgo y crianza', 24, '', 'L; 6', 'TMS PM768', 'B (Matrimonio, Familia, Pecado y Sexualidad)'),
-    ('Trabajo, dinero y mayordomía', 18, 'Tiempo, recursos, diezmos y ofrendas, deuda, creación, fidelidad en lo pequeño.', 'J', '—', 'B'),
-    ('Liderazgo, autoridad, gobierno y justicia social', 16, '', '6', 'TMS PM750', 'B'),
-    ('Sufrimiento, prueba y esperanza', 12, '', '6; 8', '—', 'B: Keller'),
-    ('Decisiones y dilemas éticos contemporáneos', 14, '', '6', 'IBBA Dilemas éticos · TMS TH780', 'B + X'),
+ciclo(12, 'Ética cristiana y vida cotidiana', 'Relaciones, familia, trabajo, sociedad y decisiones éticas: cómo se aplican los principios bíblicos a la vida real, incluso a lo que la Biblia no nombra.', [
+    ('Amar al prójimo: empatía, respeto, lealtad y confianza', 16, 'El amor al prójimo, empatía, servicio, respeto, lealtad, confianza, hospitalidad, justicia en el trato.', 'L', 'TMS PM772', 'B (Amor y Relaciones, Crecimiento)'),
+    ('Perdón, reconciliación y conflictos', 16, 'Perdonar y ser perdonado, reconciliar, resentimiento y amargura, resolver conflictos, personas difíciles y ofensas.', 'L; H', 'TMS PM772', 'B'),
+    ('Las palabras: chisme, crítica, juicio y verdad en amor', 12, 'Uso de la palabra, murmuración, chisme, crítica, juzgar (Mateo 7), exhortar, decir la verdad en amor, mentira.', 'L; 6', '—', 'B'),
+    ('Amistad, comunidad y relaciones difíciles', 14, 'Amistad bíblica, relaciones que dañan, límites, maltrato, lealtad entre amigos, mentores, soledad y compañía.', 'L', '—', 'B + X'),
+    ('Matrimonio, noviazgo, sexualidad y soltería', 24, 'Diseño, noviazgo, matrimonio, sexualidad, soltería, divorcio y nuevas nupcias (posturas).', 'L; 6', 'TMS PM768', 'B (Matrimonio, Familia, Pecado y Sexualidad)'),
+    ('Familia, crianza y honra', 16, 'Padres e hijos, honra, autoridad, disciplina, crianza, liderazgo en el hogar, familia extendida.', 'L', '—', 'B'),
+    ('Trabajo, dinero y mayordomía', 18, 'Tiempo, recursos, diezmos y ofrendas, deuda, creación, fidelidad en lo pequeño, relaciones laborales.', 'J', '—', 'B'),
+    ('Liderazgo, autoridad, gobierno y justicia social', 16, 'Liderazgo y servicio, autoridad, gobierno, ciudadanía, pobreza, justicia.', '6', 'TMS PM750', 'B'),
+    ('Sufrimiento, prueba y esperanza', 12, 'Sufrir bien, prueba, duelo, enfermedad, esperanza cristiana.', '6; 8', '—', 'B: Keller'),
+    ('Dilemas éticos contemporáneos', 14, 'Tecnología, bioética, vida y muerte, verdad e integridad, situaciones que la Biblia no nombra: cómo razonar con principios.', '6', 'IBBA Dilemas éticos · TMS TH780', 'B + X'),
 ])
 ciclo(13, 'Profecía, promesas y últimos tiempos', 'Profecía explícita, cumplimiento, interpretaciones y especulaciones, claramente distinguidas.', [
     ('Cómo funciona la profecía bíblica', 14, 'Género, condicionales e incondicionales, símbolos, lenguaje apocalíptico.', 'O', '—', 'B'),

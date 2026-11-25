@@ -6,9 +6,14 @@
 3. Seguir con el ciclo 2: detallar sus series en `trabajo/plan/plan.json` (solo agregar al final), escribir las fichas de encargo (modelo: `plan/specs_ciclo1.py`) y lanzar tandas de 8 a 10 redactores (`GUIA-REDACCION.md`).
 4. OCR: el texto de los libros escaneados no se conserva entre sesiones; correr `scripts/ocr.py <id>` para los que se necesiten (ver lista de «texto escaso» al extraer con `textos.py`).
 
+## Cambios del 25-nov-2026
+- **Sin oraciones finales** en ningún día (se quitó `para_orar` de los días escritos, de la app, de la guía y del verificador; correr `scripts/quitar_oraciones.py` al cerrar cada tanda).
+- **Plan reforzado** con series propias para emociones (5.3), corazón/mente/voluntad (5.2), personalidad y temperamento (5.4), sabiduría y discernimiento (10.2), decisiones (10.3), hábitos y autocontrol (10.5) y un ciclo 12 de relaciones más amplio; ahora 113 series, ≈2.146 días.
+- Ciclo 2 «Dios» detallado (ids 55–138); tanda 1 (55–64) en curso al cerrar esta nota.
+
 ## Estado (nov-2026)
 - **Ciclo 1 «La Biblia: la Palabra de Dios y cómo leerla» terminado: 54 días escritos y verificados** (`python3 trabajo/scripts/verificar.py $(seq 1 54)` → 54/54 OK): series 1.1 (revelación, inspiración, inerrancia, suficiencia, autoridad), 1.2 (canon, manuscritos, traducciones), 1.3 (hermenéutica y estudio inductivo), 1.4 (hebreo, arameo, griego, léxicos, palabras clave) y 1.5 (panorama de la redención).
-- Plan maestro: 20 ciclos, 103 series, ≈1.974 días (`trabajo/plan/PLAN-MAESTRO.md`). Solo el ciclo 1 está detallado día por día; el resto se detalla por etapas (`plan/plan.json` solo crece al final; ids fijos).
+- Plan maestro: 20 ciclos, 113 series, ≈2.146 días (`trabajo/plan/PLAN-MAESTRO.md`). Solo el ciclo 1 está detallado día por día; el resto se detalla por etapas (`plan/plan.json` solo crece al final; ids fijos).
 - Biblioteca: 1.287 archivos clasificados (`trabajo/catalogo/resumen.md`; correcciones manuales en `catalogo/revisiones.json`, que mandan sobre la clasificación automática). 869 fuentes registradas (libros de autores A y 66 fuentes web verificables, con URL y fecha). El ciclo 1 cita 206 fuentes distintas.
 - Revisión de comentarios adventistas dudosos: `trabajo/catalogo/revision_adventistas.md` (14 de 17 excluidos; Moody de Lucas, aceptado).
 - Verificador (`scripts/verificar.py`): páginas y fuentes, citas literales, frases entre «», existencia de cada versículo en la RVR1960, cifras, autores nombrados, extensión (1.800–3.300 palabras) y **grafía de palabras hebreas y griegas contra los lemas de Strong y el texto hebreo (WLC) y griego (SBLGNT)**.

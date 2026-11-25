@@ -2,128 +2,454 @@
   "dia": 26,
   "titulo": "Cómo leer la Ley: ¿qué es para los cristianos?",
   "bajada": "Levítico prohíbe mezclar telas y Deuteronomio manda poner un parapeto en el techo. Jesús dice que no vino a abrogar la ley, y Pablo dice que ya no estamos bajo ayo. ¿Cómo se lee todo eso junto?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Éxodo 20:1-17; Mateo 5:17-20", "porque": "La ley dada en el Sinaí y lo que Jesús dice de ella al comienzo de su enseñanza: las dos puntas del problema de hoy."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Éxodo 20:1-17; Mateo 5:17-20",
+    "porque": "La ley dada en el Sinaí y lo que Jesús dice de ella al comienzo de su enseñanza: las dos puntas del problema de hoy."
+  },
   "versiculos": [
-    {"ref": "Mateo 5:17", "porque": "Jesús aclara que no vino a abolir la ley ni los profetas, sino a cumplirlos."},
-    {"ref": "Gálatas 3:24", "porque": "Pablo explica para qué sirvió la ley y hacia dónde conducía."}
+    {
+      "ref": "Mateo 5:17",
+      "porque": "Jesús aclara que no vino a abolir la ley ni los profetas, sino a cumplirlos."
+    },
+    {
+      "ref": "Gálatas 3:24",
+      "porque": "Pablo explica para qué sirvió la ley y hacia dónde conducía."
+    }
   ],
   "entrada": {
     "texto": "Casi todo lector de la Biblia se topa un día con la misma pared: Éxodo, Levítico y Deuteronomio están llenos de mandamientos, y no todos parecen hablarnos hoy. Algunos los sentimos nuestros (no matarás, no robarás); otros nos suenan a museo (los sacrificios, los alimentos limpios e inmundos, la ropa de un solo tejido). ¿Con qué criterio separamos unos de otros? ¿Y qué hacemos con Jesús, que dijo que ni una jota pasaría de la ley?\n\nHoy no hay una respuesta única que todos los autores compartan, y lo vamos a ver con honestidad. Stott advierte que Mateo 5:17-20 aclara la relación entre el Antiguo y el Nuevo Testamento, entre el evangelio y la ley. Con ese pasaje, Pablo, Hechos y Hebreos en la mano, vamos a ver cómo leer Levítico y Deuteronomio.",
-    "fuentes": ["el_sermon_del__stott#40", "etica_cristiana_una__grudem#228"]
+    "fuentes": [
+      "el_sermon_del__stott#40",
+      "etica_cristiana_una__grudem#228"
+    ]
   },
   "apartados": [
     {
       "titulo": "La Torá y el pacto del Sinaí",
       "parrafos": [
-        {"texto": "En la lectura de hoy, Dios habla las diez palabras al pueblo en el monte (Éxodo 20:1-17). Conviene empezar por el nombre. Stott recuerda que «Torá», que solemos traducir «ley», significa en realidad «instrucción revelada»: el Antiguo Testamento nos instruye sobre Dios, el ser humano y la salvación, y no solo contiene reglas.", "fuentes": ["el_sermon_del__stott#40"]},
-        {"texto": "Grudem precisa dónde empieza el pacto mosaico: no con la salida de Egipto, sino cuando Dios habló los Diez Mandamientos a Israel y dio las leyes de Éxodo 20-23; Moisés roció entonces la sangre sobre el pueblo (Éxodo 24:8; Hebreos 9:18-20). Por eso, según él, el «antiguo pacto» del que habla el Nuevo Testamento es el mosaico, no todo lo anterior: Jeremías 31:31-32 contrasta el nuevo pacto con el hecho al sacar a los padres de Egipto, y no con los de Noé o Abraham. De ahí que Génesis 1 a Éxodo 19 siga enseñando principios éticos para todos, como el matrimonio en Mateo 19:4-6.", "fuentes": ["etica_cristiana_una__grudem#218", "etica_cristiana_una__grudem#219"]},
-        {"texto": "Otro dato: la ley se dio a un pueblo concreto. MacArthur apunta que el pacto mosaico se dio solo a Israel (Éxodo 19:3; 34:27), y Ryrie lo apoya con Levítico 26:46, Romanos 9:4 y el contraste de Romanos 2:14 entre quienes recibieron la ley y los gentiles que no.", "fuentes": ["macarthur_ts#1209", "ryrie#134"]}
+        {
+          "texto": "En la lectura de hoy, Dios habla las diez palabras al pueblo en el monte (Éxodo 20:1-17). Conviene empezar por el nombre. Stott recuerda que «Torá», que solemos traducir «ley», significa en realidad «instrucción revelada»: el Antiguo Testamento nos instruye sobre Dios, el ser humano y la salvación, y no solo contiene reglas.",
+          "fuentes": [
+            "el_sermon_del__stott#40"
+          ]
+        },
+        {
+          "texto": "Grudem precisa dónde empieza el pacto mosaico: no con la salida de Egipto, sino cuando Dios habló los Diez Mandamientos a Israel y dio las leyes de Éxodo 20-23; Moisés roció entonces la sangre sobre el pueblo (Éxodo 24:8; Hebreos 9:18-20). Por eso, según él, el «antiguo pacto» del que habla el Nuevo Testamento es el mosaico, no todo lo anterior: Jeremías 31:31-32 contrasta el nuevo pacto con el hecho al sacar a los padres de Egipto, y no con los de Noé o Abraham. De ahí que Génesis 1 a Éxodo 19 siga enseñando principios éticos para todos, como el matrimonio en Mateo 19:4-6.",
+          "fuentes": [
+            "etica_cristiana_una__grudem#218",
+            "etica_cristiana_una__grudem#219"
+          ]
+        },
+        {
+          "texto": "Otro dato: la ley se dio a un pueblo concreto. MacArthur apunta que el pacto mosaico se dio solo a Israel (Éxodo 19:3; 34:27), y Ryrie lo apoya con Levítico 26:46, Romanos 9:4 y el contraste de Romanos 2:14 entre quienes recibieron la ley y los gentiles que no.",
+          "fuentes": [
+            "macarthur_ts#1209",
+            "ryrie#134"
+          ]
+        }
       ],
-      "destacado": {"texto": "Antes de preguntar qué parte de la ley nos toca, hay que preguntar a quién se dio, cuándo y para qué.", "fuentes": ["etica_cristiana_una__grudem#218", "ryrie#134"]}
+      "destacado": {
+        "texto": "Antes de preguntar qué parte de la ley nos toca, hay que preguntar a quién se dio, cuándo y para qué.",
+        "fuentes": [
+          "etica_cristiana_una__grudem#218",
+          "ryrie#134"
+        ]
+      }
     },
     {
       "titulo": "Moral, civil y ceremonial: una división vieja y sus límites",
       "parrafos": [
-        {"texto": "Para ordenar tanto mandamiento, la teología suele dividir la ley en tres partes. Según Ryrie, la moral son los Diez Mandamientos (Éxodo 34:28); los juicios, sobre derechos y penas entre las personas, empiezan en Éxodo 21:2; y la ceremonial, que regulaba la adoración, en Éxodo 25:1. MacArthur la formula así: la moral regula la conducta de todos, la judicial el funcionamiento de Israel como nación y la ceremonial su adoración.", "fuentes": ["ryrie#134", "mateo__macarthur#162"]},
-        {"texto": "Grudem cuenta que la usaban para distinguir qué seguía vigente (lo moral) y qué no (lo ceremonial y lo civil), como en la Confesión de Westminster. Le reconoce un beneficio: los sacrificios, el sacerdocio y el templo se cumplieron en Cristo, y las leyes civiles dadas a Israel como nación ya no son guía detallada para legislar hoy.", "fuentes": ["etica_cristiana_una__grudem#228", "etica_cristiana_una__grudem#229"]},
-        {"texto": "Pero ambos le ven límites. Ryrie observa que el pueblo judío no la reconocía: contaba 613 mandamientos y veía la ley como unidad, como se nota en que castigos de gravedad parecida cayeran sobre el sábado (Números 15:32-36) y sobre el fuego extraño de Nadab y Abiú (Levítico 10:1-7). Grudem agrega que ni el Antiguo ni el Nuevo Testamento usan esas categorías, que enseñar que solo algunas partes terminaron choca con el énfasis del Nuevo Testamento en el fin de todo el pacto, y que no siempre se sabe en qué casillero va cada ley: Levítico 19:13 (el salario del jornalero) y Deuteronomio 22:8 (el pretil del techo) parecen morales y casi nadie los aplica al pie de la letra.", "fuentes": ["ryrie#134", "etica_cristiana_una__grudem#229", "etica_cristiana_una__grudem#230"]}
+        {
+          "texto": "Para ordenar tanto mandamiento, la teología suele dividir la ley en tres partes. Según Ryrie, la moral son los Diez Mandamientos (Éxodo 34:28); los juicios, sobre derechos y penas entre las personas, empiezan en Éxodo 21:2; y la ceremonial, que regulaba la adoración, en Éxodo 25:1. MacArthur la formula así: la moral regula la conducta de todos, la judicial el funcionamiento de Israel como nación y la ceremonial su adoración.",
+          "fuentes": [
+            "ryrie#134",
+            "mateo__macarthur#162"
+          ]
+        },
+        {
+          "texto": "Grudem cuenta que la usaban para distinguir qué seguía vigente (lo moral) y qué no (lo ceremonial y lo civil), como en la Confesión de Westminster. Le reconoce un beneficio: los sacrificios, el sacerdocio y el templo se cumplieron en Cristo, y las leyes civiles dadas a Israel como nación ya no son guía detallada para legislar hoy.",
+          "fuentes": [
+            "etica_cristiana_una__grudem#228",
+            "etica_cristiana_una__grudem#229"
+          ]
+        },
+        {
+          "texto": "Pero ambos le ven límites. Ryrie observa que el pueblo judío no la reconocía: contaba 613 mandamientos y veía la ley como unidad, como se nota en que castigos de gravedad parecida cayeran sobre el sábado (Números 15:32-36) y sobre el fuego extraño de Nadab y Abiú (Levítico 10:1-7). Grudem agrega que ni el Antiguo ni el Nuevo Testamento usan esas categorías, que enseñar que solo algunas partes terminaron choca con el énfasis del Nuevo Testamento en el fin de todo el pacto, y que no siempre se sabe en qué casillero va cada ley: Levítico 19:13 (el salario del jornalero) y Deuteronomio 22:8 (el pretil del techo) parecen morales y casi nadie los aplica al pie de la letra.",
+          "fuentes": [
+            "ryrie#134",
+            "etica_cristiana_una__grudem#229",
+            "etica_cristiana_una__grudem#230"
+          ]
+        }
       ],
-      "destacado": {"texto": "La división en tres partes ayuda a ver qué cambió con Cristo, pero ninguna regla de clasificación resuelve sola cada mandamiento.", "fuentes": ["etica_cristiana_una__grudem#229", "ryrie#134"]}
+      "destacado": {
+        "texto": "La división en tres partes ayuda a ver qué cambió con Cristo, pero ninguna regla de clasificación resuelve sola cada mandamiento.",
+        "fuentes": [
+          "etica_cristiana_una__grudem#229",
+          "ryrie#134"
+        ]
+      }
     },
     {
       "titulo": "Jesús: «no he venido para abrogar, sino para cumplir»",
       "parrafos": [
-        {"texto": "Stott nota que Jesús empieza negando algo, señal de que alguien ya lo pensaba: hablaba con autoridad propia («de cierto os digo») y muchos se preguntaban cuál era su relación con la ley de Moisés. Su respuesta es que no vino a abolirla, ni a respaldarla de manera literalista y muerta, sino a cumplirla. El verbo griego significa literalmente «llenar»: ampliación y culminación, no negación.", "fuentes": ["el_sermon_del__stott#40", "el_sermon_del__stott#41"]},
-        {"texto": "Stott reparte el Antiguo Testamento en tres clases de enseñanza, que Jesús cumple a su modo. Lo doctrinal era revelación parcial que él lleva a plenitud (el obispo Ryle lo llama el Evangelio «en capullo»). Lo profético y ceremonial culmina en la cruz; Calvino, citado por Stott, dice que se abolió el uso de las ceremonias, no su significado. Y los preceptos éticos Jesús los cumple obedeciéndolos y mostrando su sentido más hondo, no cambiándolos. De la jota y la tilde, las marcas más pequeñas de las letras hebreas, Stott deduce que los discípulos deben obedecer y enseñar el carácter obligatorio de esos mandamientos, incluso los más pequeños, porque son del Rey.", "fuentes": ["el_sermon_del__stott#41", "el_sermon_del__stott#42"]},
-        {"texto": "La «justicia mayor» del versículo 20 es mayor, explica Stott, porque es más profunda: del corazón, no mera conformidad externa. La vincula con Jeremías 31:33 y Ezequiel 36:27: Dios promete escribir su ley en la mente y poner su Espíritu en nosotros. Por eso no hay que imaginar que quien tiene el Espíritu puede prescindir de la ley: el Espíritu la escribe en el corazón.", "fuentes": ["el_sermon_del__stott#43"]},
-        {"texto": "MacArthur distingue tres modos de cumplir: Jesús aclaró la ley, la obedeció de manera perfecta y, sobre todo, fue él mismo su plenitud: no solo enseñó justicia, vino como la justicia divina. Grudem lee Mateo 5:17-18 así: Jesús no abolió ninguna parte del Antiguo Testamento, que siguió siendo la Biblia de los apóstoles, pero cumplió la ley estableciendo un nuevo pacto que reemplazó al antiguo.", "fuentes": ["mateo__macarthur#163", "etica_cristiana_una__grudem#211"]}
+        {
+          "texto": "Stott nota que Jesús empieza negando algo, señal de que alguien ya lo pensaba: hablaba con autoridad propia («de cierto os digo») y muchos se preguntaban cuál era su relación con la ley de Moisés. Su respuesta es que no vino a abolirla, ni a respaldarla de manera literalista y muerta, sino a cumplirla. El verbo griego significa literalmente «llenar»: ampliación y culminación, no negación.",
+          "fuentes": [
+            "el_sermon_del__stott#40",
+            "el_sermon_del__stott#41"
+          ]
+        },
+        {
+          "texto": "Stott reparte el Antiguo Testamento en tres clases de enseñanza, que Jesús cumple a su modo. Lo doctrinal era revelación parcial que él lleva a plenitud (el obispo Ryle lo llama el Evangelio «en capullo»). Lo profético y ceremonial culmina en la cruz; Calvino, citado por Stott, dice que se abolió el uso de las ceremonias, no su significado. Y los preceptos éticos Jesús los cumple obedeciéndolos y mostrando su sentido más hondo, no cambiándolos. De la jota y la tilde, las marcas más pequeñas de las letras hebreas, Stott deduce que los discípulos deben obedecer y enseñar el carácter obligatorio de esos mandamientos, incluso los más pequeños, porque son del Rey.",
+          "fuentes": [
+            "el_sermon_del__stott#41",
+            "el_sermon_del__stott#42"
+          ]
+        },
+        {
+          "texto": "La «justicia mayor» del versículo 20 es mayor, explica Stott, porque es más profunda: del corazón, no mera conformidad externa. La vincula con Jeremías 31:33 y Ezequiel 36:27: Dios promete escribir su ley en la mente y poner su Espíritu en nosotros. Por eso no hay que imaginar que quien tiene el Espíritu puede prescindir de la ley: el Espíritu la escribe en el corazón.",
+          "fuentes": [
+            "el_sermon_del__stott#43"
+          ]
+        },
+        {
+          "texto": "MacArthur distingue tres modos de cumplir: Jesús aclaró la ley, la obedeció de manera perfecta y, sobre todo, fue él mismo su plenitud: no solo enseñó justicia, vino como la justicia divina. Grudem lee Mateo 5:17-18 así: Jesús no abolió ninguna parte del Antiguo Testamento, que siguió siendo la Biblia de los apóstoles, pero cumplió la ley estableciendo un nuevo pacto que reemplazó al antiguo.",
+          "fuentes": [
+            "mateo__macarthur#163",
+            "etica_cristiana_una__grudem#211"
+          ]
+        }
       ]
     },
     {
       "titulo": "Pablo y los apóstoles: Romanos 10:4, Gálatas 3 y Hechos 15",
       "parrafos": [
-        {"texto": "Romanos 10:4 dice que Cristo es el fin de la ley. Ryrie nota que «fin» puede ser terminación o propósito, y prefiere terminación por el contraste que Pablo arma desde Romanos 9:30: el error de Israel era buscar la justicia por ley-obras en lugar de recibirla como don. Stott subraya otra cara: no significa libertad para desobedecer, sino que Dios nos acepta por la fe en Cristo y no por obedecer, y la misma ley da testimonio de esa buena noticia.", "fuentes": ["ryrie#133", "el_sermon_del__stott#41"]},
-        {"texto": "En Gálatas 3:24-25 la ley es nuestro «ayo». Lutero explica la figura: el pedagogo conducía y ejercitaba a los niños, y así la ley refrena los pecados desde afuera, sin limpiarnos por dentro. Su función es revelar el pecado y humillar al soberbio para que busque a Cristo; el niño no queda bajo el ayo para siempre, se lo educa para recibir la herencia. Con la fe, dice Lutero, el ayo se vuelve un amigo al que honramos más que tememos. Grudem lee que «ya no estamos bajo ayo» (v. 25) significa que ya no estamos bajo las estipulaciones detalladas de la ley mosaica, que según Gálatas 3:19 fue añadida hasta que viniera la simiente.", "fuentes": ["comentarios_a_la__lutero#85", "comentarios_a_la__lutero#86", "etica_cristiana_una__grudem#201"]},
-        {"texto": "Hechos 15 muestra el asunto en la vida de la iglesia. Según Ryrie, el concilio de Jerusalén pronunció un no enfático a la circuncisión como condición de salvación, y Pedro llamó a la ley un yugo imposible de llevar (Hechos 15:10). La carta a los gentiles limitó su libertad por consideración a los judíos, pero sin ponerlos bajo la ley. Grudem suma Gálatas 5:2-4: quien se circuncida para ser justificado queda obligado a toda la ley y se separa de Cristo.", "fuentes": ["ryrie#134", "etica_cristiana_una__grudem#203"]},
-        {"texto": "MacArthur cita Efesios 2:14-15, Hebreos 8:13 y Romanos 6:14 para decir que Cristo puso fin al pacto mosaico con su muerte. Pero aclara que eso no libera para pecar (Romanos 6:15): el cristiano está unido a Cristo y bajo el nuevo pacto, y el Espíritu lo capacita para obedecer de buen grado.", "fuentes": ["macarthur_ts#1209", "macarthur_ts#1210"]}
+        {
+          "texto": "Romanos 10:4 dice que Cristo es el fin de la ley. Ryrie nota que «fin» puede ser terminación o propósito, y prefiere terminación por el contraste que Pablo arma desde Romanos 9:30: el error de Israel era buscar la justicia por ley-obras en lugar de recibirla como don. Stott subraya otra cara: no significa libertad para desobedecer, sino que Dios nos acepta por la fe en Cristo y no por obedecer, y la misma ley da testimonio de esa buena noticia.",
+          "fuentes": [
+            "ryrie#133",
+            "el_sermon_del__stott#41"
+          ]
+        },
+        {
+          "texto": "En Gálatas 3:24-25 la ley es nuestro «ayo». Lutero explica la figura: el pedagogo conducía y ejercitaba a los niños, y así la ley refrena los pecados desde afuera, sin limpiarnos por dentro. Su función es revelar el pecado y humillar al soberbio para que busque a Cristo; el niño no queda bajo el ayo para siempre, se lo educa para recibir la herencia. Con la fe, dice Lutero, el ayo se vuelve un amigo al que honramos más que tememos. Grudem lee que «ya no estamos bajo ayo» (v. 25) significa que ya no estamos bajo las estipulaciones detalladas de la ley mosaica, que según Gálatas 3:19 fue añadida hasta que viniera la simiente.",
+          "fuentes": [
+            "comentarios_a_la__lutero#85",
+            "comentarios_a_la__lutero#86",
+            "etica_cristiana_una__grudem#201"
+          ]
+        },
+        {
+          "texto": "Hechos 15 muestra el asunto en la vida de la iglesia. Según Ryrie, el concilio de Jerusalén pronunció un no enfático a la circuncisión como condición de salvación, y Pedro llamó a la ley un yugo imposible de llevar (Hechos 15:10). La carta a los gentiles limitó su libertad por consideración a los judíos, pero sin ponerlos bajo la ley. Grudem suma Gálatas 5:2-4: quien se circuncida para ser justificado queda obligado a toda la ley y se separa de Cristo.",
+          "fuentes": [
+            "ryrie#134",
+            "etica_cristiana_una__grudem#203"
+          ]
+        },
+        {
+          "texto": "MacArthur cita Efesios 2:14-15, Hebreos 8:13 y Romanos 6:14 para decir que Cristo puso fin al pacto mosaico con su muerte. Pero aclara que eso no libera para pecar (Romanos 6:15): el cristiano está unido a Cristo y bajo el nuevo pacto, y el Espíritu lo capacita para obedecer de buen grado.",
+          "fuentes": [
+            "macarthur_ts#1209",
+            "macarthur_ts#1210"
+          ]
+        }
       ]
     },
     {
       "titulo": "La ley como sombra: Hebreos 10:1",
       "parrafos": [
-        {"texto": "Hebreos 10:1 dice que la ley tenía «la sombra de los bienes venideros», no la imagen misma de las cosas. MacArthur distingue los dos términos griegos: la sombra (skia) es pálida, la imagen (eikón) una réplica exacta. La ley y sus ceremonias eran forma y no cuerpo: retrataban algo real sin serlo. Lo real era el perdón, la conciencia limpia y el acceso a Dios, y como un símbolo repetido no gana sustancia, los sacrificios anuales no podían hacer perfectos a quienes se acercaban.", "fuentes": ["hebreos_un_comentario__macarthur#257"]},
-        {"texto": "Que sea sombra no la vuelve inútil. Según MacArthur, Dios la dio para señalar la salvación por venir, para recordar que la paga del pecado es muerte y para cubrir temporalmente el pecado ofrecido con fe; pero no podía quitarlo. Grudem recuerda el argumento de Hebreos 7 a 10: si hay otro sacerdote, hay cambio de ley (7:12), y lo que cambia es el pacto mosaico entero y no solo las leyes de sacrificios (8:13). Ryrie concluye algo parecido: si el sacerdocio levítico siguiera vigente, Cristo no sería nuestro Sumo Sacerdote.", "fuentes": ["hebreos_un_comentario__macarthur#258", "etica_cristiana_una__grudem#199", "etica_cristiana_una__grudem#201", "ryrie#134"]}
+        {
+          "texto": "Hebreos 10:1 dice que la ley tenía «la sombra de los bienes venideros», no la imagen misma de las cosas. MacArthur distingue los dos términos griegos: la sombra (skia) es pálida, la imagen (eikón) una réplica exacta. La ley y sus ceremonias eran forma y no cuerpo: retrataban algo real sin serlo. Lo real era el perdón, la conciencia limpia y el acceso a Dios, y como un símbolo repetido no gana sustancia, los sacrificios anuales no podían hacer perfectos a quienes se acercaban.",
+          "fuentes": [
+            "hebreos_un_comentario__macarthur#257"
+          ]
+        },
+        {
+          "texto": "Que sea sombra no la vuelve inútil. Según MacArthur, Dios la dio para señalar la salvación por venir, para recordar que la paga del pecado es muerte y para cubrir temporalmente el pecado ofrecido con fe; pero no podía quitarlo. Grudem recuerda el argumento de Hebreos 7 a 10: si hay otro sacerdote, hay cambio de ley (7:12), y lo que cambia es el pacto mosaico entero y no solo las leyes de sacrificios (8:13). Ryrie concluye algo parecido: si el sacerdocio levítico siguiera vigente, Cristo no sería nuestro Sumo Sacerdote.",
+          "fuentes": [
+            "hebreos_un_comentario__macarthur#258",
+            "etica_cristiana_una__grudem#199",
+            "etica_cristiana_una__grudem#201",
+            "ryrie#134"
+          ]
+        }
       ]
     },
     {
       "titulo": "La ley de Cristo y los Diez Mandamientos",
       "parrafos": [
-        {"texto": "Si el pacto mosaico terminó, ¿bajo qué ley vivimos? Pablo dice que no está bajo la ley de Moisés, pero tampoco fuera de la ley de Dios, «sino bajo la ley de Cristo» (1 Corintios 9:21; Gálatas 6:2). Grudem entiende esa expresión como todo lo que Jesús enseñó sobre la vida ética, incluido lo que dijo del Antiguo Testamento, más la enseñanza adicional del Nuevo Testamento y su ejemplo; en la misma línea cita los «mandamientos» de Jesús en Juan y «la ley perfecta, la ley de la libertad» de Santiago 1:25. Ryrie lo piensa como un código: la ley mosaica fue uno de varios que Dios dio en la historia, y hoy vivimos bajo la ley de Cristo (Gálatas 6:2) o del Espíritu de vida (Romanos 8:2), que tiene mandamientos nuevos, antiguos y revisados. Los de origen mosaico obligan, dice, no porque el código de Moisés continúe, sino porque pasaron al nuevo (Romanos 13:9).", "fuentes": ["etica_cristiana_una__grudem#216", "ryrie#135"]},
-        {"texto": "¿Y los Diez Mandamientos? Grudem y MacArthur observan que el Nuevo Testamento retoma nueve; la excepción es el día de reposo. Sobre el sábado las lecturas se separan: MacArthur dice que su propósito terminó en la cruz y que el domingo no es un «sábado cristiano»; Grudem dice solo que los autores del Nuevo Testamento nunca lo afirman para los cristianos del nuevo pacto.", "fuentes": ["etica_cristiana_una__grudem#219", "macarthur_ts#1210", "mateo__macarthur#163"]}
+        {
+          "texto": "Si el pacto mosaico terminó, ¿bajo qué ley vivimos? Pablo dice que no está bajo la ley de Moisés, pero tampoco fuera de la ley de Dios, «sino bajo la ley de Cristo» (1 Corintios 9:21; Gálatas 6:2). Grudem entiende esa expresión como todo lo que Jesús enseñó sobre la vida ética, incluido lo que dijo del Antiguo Testamento, más la enseñanza adicional del Nuevo Testamento y su ejemplo; en la misma línea cita los «mandamientos» de Jesús en Juan y «la ley perfecta, la ley de la libertad» de Santiago 1:25. Ryrie lo piensa como un código: la ley mosaica fue uno de varios que Dios dio en la historia, y hoy vivimos bajo la ley de Cristo (Gálatas 6:2) o del Espíritu de vida (Romanos 8:2), que tiene mandamientos nuevos, antiguos y revisados. Los de origen mosaico obligan, dice, no porque el código de Moisés continúe, sino porque pasaron al nuevo (Romanos 13:9).",
+          "fuentes": [
+            "etica_cristiana_una__grudem#216",
+            "ryrie#135"
+          ]
+        },
+        {
+          "texto": "¿Y los Diez Mandamientos? Grudem y MacArthur observan que el Nuevo Testamento retoma nueve; la excepción es el día de reposo. Sobre el sábado las lecturas se separan: MacArthur dice que su propósito terminó en la cruz y que el domingo no es un «sábado cristiano»; Grudem dice solo que los autores del Nuevo Testamento nunca lo afirman para los cristianos del nuevo pacto.",
+          "fuentes": [
+            "etica_cristiana_una__grudem#219",
+            "macarthur_ts#1210",
+            "mateo__macarthur#163"
+          ]
+        }
       ]
     },
     {
       "titulo": "Levítico y Deuteronomio hoy: cómo leerlos",
       "parrafos": [
-        {"texto": "Nada de esto autoriza a saltear esos libros. Pablo dice que toda Escritura es útil (2 Timoteo 3:16-17) y que lo escrito antes fue «para nuestra enseñanza» (Romanos 15:4). Grudem observa que en las leyes de Moisés convivían mandatos solo para Israel y mandatos, como los que prohíben el asesinato, el adulterio, el robo y la mentira, que valen para todos. MacArthur agrega que el pacto mosaico revela verdades inmutables sobre el carácter de Dios, y que Pablo cita a veces su legislación como sabiduría para vivir (Efesios 6:1-2).", "fuentes": ["etica_cristiana_una__grudem#217", "macarthur_ts#1210"]},
-        {"texto": "Grudem propone tres pasos: reconocer que el pacto mosaico terminó, reconocer las diferencias concretas entre ambos pactos y buscar desde ahí sabiduría en toda la Escritura, leyes incluidas. Con ese método lee nuestros ejemplos: las leyes de vestido y de siembra (Levítico 19:19) marcaban a Israel como pueblo distinto, y hoy esa distinción se muestra por la pureza moral (Romanos 12:2); la ley del pretil y la del salario siguen enseñando que Dios se complace cuando cuidamos la seguridad ajena y pagamos al trabajador lo acordado. MacArthur ve una prueba del cambio en 1 Corintios 5: ante un caso de incesto, Pablo no manda ejecutar al culpable, como Levítico 20:10-16, sino apartarlo.", "fuentes": ["etica_cristiana_una__grudem#228", "etica_cristiana_una__grudem#229", "etica_cristiana_una__grudem#230", "etica_cristiana_una__grudem#232", "macarthur_ts#1210"]}
+        {
+          "texto": "Nada de esto autoriza a saltear esos libros. Pablo dice que toda Escritura es útil (2 Timoteo 3:16-17) y que lo escrito antes fue «para nuestra enseñanza» (Romanos 15:4). Grudem observa que en las leyes de Moisés convivían mandatos solo para Israel y mandatos, como los que prohíben el asesinato, el adulterio, el robo y la mentira, que valen para todos. MacArthur agrega que el pacto mosaico revela verdades inmutables sobre el carácter de Dios, y que Pablo cita a veces su legislación como sabiduría para vivir (Efesios 6:1-2).",
+          "fuentes": [
+            "etica_cristiana_una__grudem#217",
+            "macarthur_ts#1210"
+          ]
+        },
+        {
+          "texto": "Grudem propone tres pasos: reconocer que el pacto mosaico terminó, reconocer las diferencias concretas entre ambos pactos y buscar desde ahí sabiduría en toda la Escritura, leyes incluidas. Con ese método lee nuestros ejemplos: las leyes de vestido y de siembra (Levítico 19:19) marcaban a Israel como pueblo distinto, y hoy esa distinción se muestra por la pureza moral (Romanos 12:2); la ley del pretil y la del salario siguen enseñando que Dios se complace cuando cuidamos la seguridad ajena y pagamos al trabajador lo acordado. MacArthur ve una prueba del cambio en 1 Corintios 5: ante un caso de incesto, Pablo no manda ejecutar al culpable, como Levítico 20:10-16, sino apartarlo.",
+          "fuentes": [
+            "etica_cristiana_una__grudem#228",
+            "etica_cristiana_una__grudem#229",
+            "etica_cristiana_una__grudem#230",
+            "etica_cristiana_una__grudem#232",
+            "macarthur_ts#1210"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "El Antiguo Testamento es el Evangelio en capullo, el Nuevo Testamento es el Evangelio en plena floración.", "autor": "J. C. Ryle (citado por John Stott)", "obra": "El Sermón del Monte", "fuentes": ["el_sermon_del__stott#41"]},
-    {"texto": "La repetición de un símbolo es como multiplicar por cero.", "autor": "John MacArthur", "obra": "Hebreos: un comentario expositivo", "fuentes": ["hebreos_un_comentario__macarthur#257"]}
+    {
+      "texto": "El Antiguo Testamento es el Evangelio en capullo, el Nuevo Testamento es el Evangelio en plena floración.",
+      "autor": "J. C. Ryle (citado por John Stott)",
+      "obra": "El Sermón del Monte",
+      "fuentes": [
+        "el_sermon_del__stott#41"
+      ]
+    },
+    {
+      "texto": "La repetición de un símbolo es como multiplicar por cero.",
+      "autor": "John MacArthur",
+      "obra": "Hebreos: un comentario expositivo",
+      "fuentes": [
+        "hebreos_un_comentario__macarthur#257"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "תּוֹרָה", "translit": "Torá", "idioma": "hebreo", "ref": "Éx 20:1", "significado": "Normalmente traducido «ley». Stott recuerda que significa realmente «instrucción revelada».", "fuentes": ["el_sermon_del__stott#40"]},
-    {"original": "πληρῶσαι", "translit": "plerosai", "idioma": "griego", "ref": "Mt 5:17", "significado": "«Cumplir». Stott señala que significa literalmente «llenar» e indica ampliación y culminación, no abrogación.", "fuentes": ["el_sermon_del__stott#40"]},
-    {"original": "παιδαγωγός", "translit": "paedagogus", "idioma": "griego", "ref": "Gá 3:24", "significado": "El «ayo» o pedagogo: según Lutero, quien conducía y ejercitaba a los niños.", "fuentes": ["comentarios_a_la__lutero#85"]},
-    {"original": "σκιά", "translit": "skia", "idioma": "griego", "ref": "He 10:1", "significado": "«Sombra». MacArthur la describe como sombra pálida, frente a la imagen (eikón), réplica exacta de la realidad.", "fuentes": ["hebreos_un_comentario__macarthur#257"]}
+    {
+      "original": "תּוֹרָה",
+      "translit": "Torá",
+      "idioma": "hebreo",
+      "ref": "Éx 20:1",
+      "significado": "Normalmente traducido «ley». Stott recuerda que significa realmente «instrucción revelada».",
+      "fuentes": [
+        "el_sermon_del__stott#40"
+      ]
+    },
+    {
+      "original": "πληρῶσαι",
+      "translit": "plerosai",
+      "idioma": "griego",
+      "ref": "Mt 5:17",
+      "significado": "«Cumplir». Stott señala que significa literalmente «llenar» e indica ampliación y culminación, no abrogación.",
+      "fuentes": [
+        "el_sermon_del__stott#40"
+      ]
+    },
+    {
+      "original": "παιδαγωγός",
+      "translit": "paedagogus",
+      "idioma": "griego",
+      "ref": "Gá 3:24",
+      "significado": "El «ayo» o pedagogo: según Lutero, quien conducía y ejercitaba a los niños.",
+      "fuentes": [
+        "comentarios_a_la__lutero#85"
+      ]
+    },
+    {
+      "original": "σκιά",
+      "translit": "skia",
+      "idioma": "griego",
+      "ref": "He 10:1",
+      "significado": "«Sombra». MacArthur la describe como sombra pálida, frente a la imagen (eikón), réplica exacta de la realidad.",
+      "fuentes": [
+        "hebreos_un_comentario__macarthur#257"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El cumplimiento de la ley. Lo explícito: Jesús dice que no vino a abrogar la ley y los profetas sino a cumplirlos (Mateo 5:17), y Pablo escribe «el fin de la ley es Cristo» (Romanos 10:4). Stott lee que cumple lo doctrinal, lo profético y ceremonial y lo ético; MacArthur agrega que fue él mismo la plenitud de lo que la ley señalaba.", "refs": ["Mt 5:17", "Ro 10:4"], "fuentes": ["el_sermon_del__stott#40", "el_sermon_del__stott#41", "mateo__macarthur#163"]},
-    {"texto": "Sombra y cuerpo. Lo explícito es Hebreos 10:1: la ley tenía la sombra de los bienes venideros. MacArthur lo desarrolla comparando a Aarón con Cristo, que entró una vez para siempre; ese paralelo es su exposición del texto, no algo que el pasaje diga con esas palabras.", "refs": ["He 10:1", "He 9:11-12"], "fuentes": ["hebreos_un_comentario__macarthur#257", "mateo__macarthur#164"]},
-    {"texto": "El ayo que lleva a Cristo. Pablo dice que la ley condujo hacia Cristo para que seamos justificados por la fe (Gálatas 3:24). Lutero la lee como mostrar el pecado y empujar a buscar la gracia.", "refs": ["Gá 3:24"], "fuentes": ["comentarios_a_la__lutero#86"]}
+    {
+      "texto": "El cumplimiento de la ley. Lo explícito: Jesús dice que no vino a abrogar la ley y los profetas sino a cumplirlos (Mateo 5:17), y Pablo escribe «el fin de la ley es Cristo» (Romanos 10:4). Stott lee que cumple lo doctrinal, lo profético y ceremonial y lo ético; MacArthur agrega que fue él mismo la plenitud de lo que la ley señalaba.",
+      "refs": [
+        "Mt 5:17",
+        "Ro 10:4"
+      ],
+      "fuentes": [
+        "el_sermon_del__stott#40",
+        "el_sermon_del__stott#41",
+        "mateo__macarthur#163"
+      ]
+    },
+    {
+      "texto": "Sombra y cuerpo. Lo explícito es Hebreos 10:1: la ley tenía la sombra de los bienes venideros. MacArthur lo desarrolla comparando a Aarón con Cristo, que entró una vez para siempre; ese paralelo es su exposición del texto, no algo que el pasaje diga con esas palabras.",
+      "refs": [
+        "He 10:1",
+        "He 9:11-12"
+      ],
+      "fuentes": [
+        "hebreos_un_comentario__macarthur#257",
+        "mateo__macarthur#164"
+      ]
+    },
+    {
+      "texto": "El ayo que lleva a Cristo. Pablo dice que la ley condujo hacia Cristo para que seamos justificados por la fe (Gálatas 3:24). Lutero la lee como mostrar el pecado y empujar a buscar la gracia.",
+      "refs": [
+        "Gá 3:24"
+      ],
+      "fuentes": [
+        "comentarios_a_la__lutero#86"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué parte de la ley mosaica sigue vigente para el cristiano?",
       "posturas": [
-        {"postura": "Cristo cumplió, no abolió: hay continuidad orgánica con el Antiguo Testamento. La ley moral sigue obligando y la justicia que Jesús pide es la que el Espíritu escribe en el corazón; los ritos ceremoniales cesaron porque su significado se cumplió en la cruz.", "quien": "Stott", "fuentes": ["el_sermon_del__stott#41", "el_sermon_del__stott#42", "el_sermon_del__stott#43"]},
-        {"postura": "La ley judicial y la ceremonial terminaron en la cruz; la ley moral básica, centrada en los Diez Mandamientos (salvo el día de reposo), sigue tan válida como en el Sinaí y se cumple en los discípulos.", "quien": "MacArthur (comentario a Mateo)", "fuentes": ["mateo__macarthur#163", "mateo__macarthur#164", "mateo__macarthur#167"]},
-        {"postura": "Todo el pacto mosaico terminó. La división tripartita tiene alguna utilidad, pero es engañoso decir que las leyes morales de ese pacto siguen vigentes. Los Diez Mandamientos (menos el sábado) son reafirmados por el Nuevo Testamento como normas universales, y el resto de la ley es fuente de sabiduría.", "quien": "Grudem", "fuentes": ["etica_cristiana_una__grudem#229", "etica_cristiana_una__grudem#230", "etica_cristiana_una__grudem#231"]},
-        {"postura": "La ley mosaica fue descartada por completo como código y reemplazada por la ley de Cristo; algunos mandamientos mosaicos obligan porque pasaron a ese código nuevo. Ryrie dice que no conoce a nadie que haya propuesto esta solución. Describe además las de Calvino (la ley moral abrogada solo en su efecto de condenar) y Murray (los Diez Mandamientos abolidos pero leídos con una santidad más profunda); de ellos solo aparece lo que él resume.", "quien": "Ryrie", "fuentes": ["ryrie#134", "ryrie#135"]}
+        {
+          "postura": "Cristo cumplió, no abolió: hay continuidad orgánica con el Antiguo Testamento. La ley moral sigue obligando y la justicia que Jesús pide es la que el Espíritu escribe en el corazón; los ritos ceremoniales cesaron porque su significado se cumplió en la cruz.",
+          "quien": "Stott",
+          "fuentes": [
+            "el_sermon_del__stott#41",
+            "el_sermon_del__stott#42",
+            "el_sermon_del__stott#43"
+          ]
+        },
+        {
+          "postura": "La ley judicial y la ceremonial terminaron en la cruz; la ley moral básica, centrada en los Diez Mandamientos (salvo el día de reposo), sigue tan válida como en el Sinaí y se cumple en los discípulos.",
+          "quien": "MacArthur (comentario a Mateo)",
+          "fuentes": [
+            "mateo__macarthur#163",
+            "mateo__macarthur#164",
+            "mateo__macarthur#167"
+          ]
+        },
+        {
+          "postura": "Todo el pacto mosaico terminó. La división tripartita tiene alguna utilidad, pero es engañoso decir que las leyes morales de ese pacto siguen vigentes. Los Diez Mandamientos (menos el sábado) son reafirmados por el Nuevo Testamento como normas universales, y el resto de la ley es fuente de sabiduría.",
+          "quien": "Grudem",
+          "fuentes": [
+            "etica_cristiana_una__grudem#229",
+            "etica_cristiana_una__grudem#230",
+            "etica_cristiana_una__grudem#231"
+          ]
+        },
+        {
+          "postura": "La ley mosaica fue descartada por completo como código y reemplazada por la ley de Cristo; algunos mandamientos mosaicos obligan porque pasaron a ese código nuevo. Ryrie dice que no conoce a nadie que haya propuesto esta solución. Describe además las de Calvino (la ley moral abrogada solo en su efecto de condenar) y Murray (los Diez Mandamientos abolidos pero leídos con una santidad más profunda); de ellos solo aparece lo que él resume.",
+          "quien": "Ryrie",
+          "fuentes": [
+            "ryrie#134",
+            "ryrie#135"
+          ]
+        }
       ],
       "nota": "Todos los autores del día afirman que no nos salva la ley sino Cristo, y que estar libres de ella no autoriza a pecar; difieren en cómo ordenar los pactos y la ley moral. Los pactos se estudiarán en la serie 7.3, y el sistema de sacrificios en la 7.5."
     },
     {
       "tema": "¿Debe el Estado aplicar hoy las leyes civiles y penales de Moisés?",
       "posturas": [
-        {"postura": "La teonomía, según la describe Grudem a partir de Greg Bahnsen: las leyes «morales» y «civiles» del pacto mosaico siguen vigentes, penas incluidas, y solo las ceremoniales fueron abrogadas.", "quien": "Presentada por Grudem (Bahnsen)", "fuentes": ["etica_cristiana_una__grudem#210", "etica_cristiana_una__grudem#211"]},
-        {"postura": "Rechaza la teonomía: el pacto mosaico terminó, las leyes dadas a Israel como nación no son sin más las de los gobiernos actuales, y el Nuevo Testamento no pide a ningún gobierno hacerlas cumplir. Defiende la pena de muerte por asesinato premeditado desde Génesis 9 y Romanos 13, no desde el pacto mosaico.", "quien": "Grudem", "fuentes": ["etica_cristiana_una__grudem#211", "etica_cristiana_una__grudem#212", "etica_cristiana_una__grudem#213"]}
+        {
+          "postura": "La teonomía, según la describe Grudem a partir de Greg Bahnsen: las leyes «morales» y «civiles» del pacto mosaico siguen vigentes, penas incluidas, y solo las ceremoniales fueron abrogadas.",
+          "quien": "Presentada por Grudem (Bahnsen)",
+          "fuentes": [
+            "etica_cristiana_una__grudem#210",
+            "etica_cristiana_una__grudem#211"
+          ]
+        },
+        {
+          "postura": "Rechaza la teonomía: el pacto mosaico terminó, las leyes dadas a Israel como nación no son sin más las de los gobiernos actuales, y el Nuevo Testamento no pide a ningún gobierno hacerlas cumplir. Defiende la pena de muerte por asesinato premeditado desde Génesis 9 y Romanos 13, no desde el pacto mosaico.",
+          "quien": "Grudem",
+          "fuentes": [
+            "etica_cristiana_una__grudem#211",
+            "etica_cristiana_una__grudem#212",
+            "etica_cristiana_una__grudem#213"
+          ]
+        }
       ],
       "nota": "Solo se oye a Grudem y su descripción de la postura contraria; los argumentos de sus defensores no están en las fuentes de hoy."
     }
   ],
   "conexiones": [
-    {"ref": "Jer 31:31-33", "nota": "El nuevo pacto promete la ley en la mente y escrita en el corazón; Stott la une con el Espíritu de Ezequiel 36:27.", "fuentes": ["el_sermon_del__stott#43"]},
-    {"ref": "Hch 15:1-29", "nota": "El concilio de Jerusalén resolvió que la circuncisión no era necesaria para la salvación de los gentiles.", "fuentes": ["ryrie#134", "etica_cristiana_una__grudem#203"]},
-    {"ref": "1 Co 9:20-21", "nota": "Pablo no está bajo la ley de Moisés, pero sí bajo la ley de Cristo.", "fuentes": ["macarthur_ts#1210", "etica_cristiana_una__grudem#216"]},
-    {"ref": "Ro 6:14-15", "nota": "No estar bajo la ley sino bajo la gracia no es licencia para pecar.", "fuentes": ["macarthur_ts#1209", "macarthur_ts#1210"]}
+    {
+      "ref": "Jer 31:31-33",
+      "nota": "El nuevo pacto promete la ley en la mente y escrita en el corazón; Stott la une con el Espíritu de Ezequiel 36:27.",
+      "fuentes": [
+        "el_sermon_del__stott#43"
+      ]
+    },
+    {
+      "ref": "Hch 15:1-29",
+      "nota": "El concilio de Jerusalén resolvió que la circuncisión no era necesaria para la salvación de los gentiles.",
+      "fuentes": [
+        "ryrie#134",
+        "etica_cristiana_una__grudem#203"
+      ]
+    },
+    {
+      "ref": "1 Co 9:20-21",
+      "nota": "Pablo no está bajo la ley de Moisés, pero sí bajo la ley de Cristo.",
+      "fuentes": [
+        "macarthur_ts#1210",
+        "etica_cristiana_una__grudem#216"
+      ]
+    },
+    {
+      "ref": "Ro 6:14-15",
+      "nota": "No estar bajo la ley sino bajo la gracia no es licencia para pecar.",
+      "fuentes": [
+        "macarthur_ts#1209",
+        "macarthur_ts#1210"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Al leer una ley de Levítico o Deuteronomio, preguntate en este orden: ¿a quién se dio?, ¿qué enseña del carácter de Dios?, ¿qué cambió con Cristo? Es una versión práctica de los pasos de Grudem.", "fuentes": ["etica_cristiana_una__grudem#232", "etica_cristiana_una__grudem#230"]},
-    {"texto": "No uses «no estamos bajo la ley» como excusa. MacArthur recuerda que estar unidos a Cristo no es ser libres de pecar, y que el Espíritu capacita para obedecer de buen grado.", "fuentes": ["macarthur_ts#1210"]},
-    {"texto": "Leé los mandamientos también como espejo: según Lutero, la ley muestra el pecado para llevarnos a buscar a Cristo.", "fuentes": ["comentarios_a_la__lutero#86"]}
+    {
+      "texto": "Al leer una ley de Levítico o Deuteronomio, preguntate en este orden: ¿a quién se dio?, ¿qué enseña del carácter de Dios?, ¿qué cambió con Cristo? Es una versión práctica de los pasos de Grudem.",
+      "fuentes": [
+        "etica_cristiana_una__grudem#232",
+        "etica_cristiana_una__grudem#230"
+      ]
+    },
+    {
+      "texto": "No uses «no estamos bajo la ley» como excusa. MacArthur recuerda que estar unidos a Cristo no es ser libres de pecar, y que el Espíritu capacita para obedecer de buen grado.",
+      "fuentes": [
+        "macarthur_ts#1210"
+      ]
+    },
+    {
+      "texto": "Leé los mandamientos también como espejo: según Lutero, la ley muestra el pecado para llevarnos a buscar a Cristo.",
+      "fuentes": [
+        "comentarios_a_la__lutero#86"
+      ]
+    }
   ],
   "para_reflexionar": [
     "¿Cuál de las lecturas del día (continuidad, discontinuidad, ley de Cristo) te parece más fiel a Mateo 5 y a Gálatas 3? ¿Qué texto te hace dudar?",
     "Stott dice que la justicia que Jesús pide es del corazón. ¿En qué mandamiento cumplís la letra pero sabés que te falta el corazón?",
     "Si la ley es sombra y Cristo es el cuerpo, ¿en qué cosas seguís buscando la sombra?"
   ],
-  "para_orar": "Señor, gracias porque tu ley es santa y porque en Cristo la cumpliste por mí. Enseñame a leer Éxodo, Levítico y Deuteronomio con humildad y a reconocer tu carácter en cada mandamiento. Escribí tu ley en mi corazón por tu Espíritu, y que no use tu gracia como excusa sino como fuerza para obedecerte con alegría. Amén.",
   "profundizar": [
-    {"titulo": "La paradoja de la «justicia mayor»", "texto": "Stott plantea la objeción obvia: si los fariseos guardaban la ley con tanta pasión, ¿cómo puede la justicia cristiana superarlos, y no contradice eso que el reino sea de los pobres en espíritu? Responde que la diferencia es de clase y no de cantidad: es una justicia del corazón, posible solo en quien el Espíritu regeneró.", "fuentes": ["el_sermon_del__stott#42", "el_sermon_del__stott#43"]}
+    {
+      "titulo": "La paradoja de la «justicia mayor»",
+      "texto": "Stott plantea la objeción obvia: si los fariseos guardaban la ley con tanta pasión, ¿cómo puede la justicia cristiana superarlos, y no contradice eso que el reino sea de los pobres en espíritu? Responde que la diferencia es de clase y no de cantidad: es una justicia del corazón, posible solo en quien el Espíritu regeneró.",
+      "fuentes": [
+        "el_sermon_del__stott#42",
+        "el_sermon_del__stott#43"
+      ]
+    }
   ]
 }

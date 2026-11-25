@@ -224,20 +224,47 @@
   {
    "id": "C5",
    "numero": 5,
-   "titulo": "El ser humano, el pecado y el mal",
-   "bajada": "Qué somos, qué se rompió y cómo funciona la lucha espiritual.",
+   "titulo": "El ser humano, la mente, las emociones y el pecado",
+   "bajada": "Qué somos, cómo funcionamos por dentro (corazón, mente, voluntad, emociones), qué se rompió y cómo funciona la lucha espiritual.",
    "series": [
     {
      "id": "5.1",
      "titulo": "Imagen de Dios e identidad humana",
      "dias": 14,
-     "enfoque": "Creación, imagen, hombre y mujer, alma, espíritu, corazón, mente, conciencia, voluntad, emociones, personalidad y temperamento.",
+     "enfoque": "Creación, imagen, hombre y mujer, alma y espíritu, naturaleza humana, valor de la persona.",
      "pedido": "K",
      "institutos": "IBBA Antropología, Teología de la naturaleza humana · TMS TH705",
      "fuentes": "B + X"
     },
     {
      "id": "5.2",
+     "titulo": "Corazón, mente, voluntad y conciencia",
+     "dias": 16,
+     "enfoque": "Cómo describe la Biblia las dimensiones de la persona: el corazón, la mente, los pensamientos, los deseos, las motivaciones, la voluntad, la conciencia; qué significa pensar bien y querer bien.",
+     "pedido": "K",
+     "institutos": "IBBA Teología del comportamiento humano",
+     "fuentes": "B (Hombre, Crecimiento, Pecado) + X"
+    },
+    {
+     "id": "5.3",
+     "titulo": "Las emociones en la Biblia",
+     "dias": 28,
+     "enfoque": "Ira, miedo y ansiedad, tristeza y depresión, soledad, culpa y vergüenza, envidia y celos, gozo, esperanza, compasión, deseo y afecto; las emociones de Dios y de Jesús; qué hacer con lo que sentimos; cuándo buscar ayuda.",
+     "pedido": "K; H",
+     "institutos": "IBBA Psicología al servicio de la consejería, Resiliencia",
+     "fuentes": "B (Pastorado y Consejería, Crecimiento) + X"
+    },
+    {
+     "id": "5.4",
+     "titulo": "Personalidad, temperamento y diferencias",
+     "dias": 8,
+     "enfoque": "Temperamentos y personalidades a la luz de la Biblia (qué dice y qué no), dones y llamados, cómo se transforma el carácter sin negar lo que somos.",
+     "pedido": "K",
+     "institutos": "IBBA Perfil del educador, temperamentos",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "5.5",
      "titulo": "La caída y el pecado",
      "dias": 16,
      "enfoque": "Origen y naturaleza del pecado, caída, muerte espiritual, culpa, condenación, esclavitud.",
@@ -246,7 +273,7 @@
      "fuentes": "B"
     },
     {
-     "id": "5.3",
+     "id": "5.6",
      "titulo": "Pecados y obras de la carne",
      "dias": 24,
      "enfoque": "Idolatría, orgullo, codicia, envidia, celos, ira, amargura, hipocresía, incredulidad, mentira, engaño.",
@@ -255,7 +282,7 @@
      "fuentes": "B (Pecado, Tentación y Sexualidad)"
     },
     {
-     "id": "5.4",
+     "id": "5.7",
      "titulo": "Tentación y lucha espiritual",
      "dias": 12,
      "enfoque": "Carne y Espíritu, armadura de Dios, autoridad espiritual.",
@@ -264,7 +291,7 @@
      "fuentes": "B"
     },
     {
-     "id": "5.5",
+     "id": "5.8",
      "titulo": "Ángeles, demonios y el diablo",
      "dias": 14,
      "enfoque": "Angelología y demonología; ángeles caídos; victoria de Cristo.",
@@ -561,32 +588,59 @@
   {
    "id": "C10",
    "numero": 10,
-   "titulo": "Carácter cristiano y madurez espiritual",
-   "bajada": "El fruto del Espíritu y las virtudes que forman a Cristo en nosotros.",
+   "titulo": "Carácter cristiano, sabiduría y madurez espiritual",
+   "bajada": "El fruto del Espíritu, la sabiduría y el discernimiento, las virtudes, el modo de decidir y las decisiones que forman el carácter.",
    "series": [
     {
      "id": "10.1",
      "titulo": "El fruto del Espíritu",
      "dias": 36,
-     "enfoque": "Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza: cuatro días cada uno.",
+     "enfoque": "Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza: cuatro días cada uno; qué se le opone y cómo crece.",
      "pedido": "G",
      "institutos": "IBBA Formación integral del carácter",
      "fuentes": "B"
     },
     {
      "id": "10.2",
+     "titulo": "Sabiduría, inteligencia espiritual y discernimiento",
+     "dias": 30,
+     "enfoque": "La sabiduría bíblica (Proverbios, Santiago 3), el necio y el sabio, prudencia, consejo, conocimiento frente a sabiduría, discernimiento espiritual, cómo se pide y se crece en sabiduría.",
+     "pedido": "F",
+     "institutos": "—",
+     "fuentes": "B (Crecimiento, Relación con Dios) + comentarios de Proverbios"
+    },
+    {
+     "id": "10.3",
+     "titulo": "Cómo tomar decisiones sabias",
+     "dias": 16,
+     "enfoque": "Decidir con la Biblia: principios, consejo, oración, circunstancias, deseos, riesgo, trabajo, dinero, pareja, vocación; el miedo a equivocarse; cuando no hay un mandato directo.",
+     "pedido": "F; K",
+     "institutos": "—",
+     "fuentes": "B (voluntad de Dios, Liderazgo, Crecimiento) + X"
+    },
+    {
+     "id": "10.4",
      "titulo": "Virtudes y conceptos espirituales",
      "dias": 60,
-     "enfoque": "Verdad, sabiduría, discernimiento, humildad, integridad, santidad, obediencia, fidelidad, justicia, misericordia, compasión, valentía, prudencia, pureza, contentamiento, gratitud, esperanza, perseverancia, libertad, responsabilidad.",
+     "enfoque": "Verdad, humildad, integridad, santidad, obediencia, fidelidad, justicia, misericordia, compasión, valentía, pureza, contentamiento, gratitud, esperanza, perseverancia, libertad, responsabilidad, dependencia de Dios.",
      "pedido": "F",
      "institutos": "—",
      "fuentes": "B"
     },
     {
-     "id": "10.3",
+     "id": "10.5",
+     "titulo": "Hábitos, disciplina y autocontrol",
+     "dias": 20,
+     "enfoque": "Cómo se forma el carácter: hábitos, disciplina, autocontrol, deseos y motivaciones, constancia, descanso; cambio real frente a esfuerzo legalista.",
+     "pedido": "K; F",
+     "institutos": "IBBA Disciplinas espirituales",
+     "fuentes": "B (Crecimiento, Discipulado) + X"
+    },
+    {
+     "id": "10.6",
      "titulo": "Transformación, identidad en Cristo y madurez",
      "dias": 24,
-     "enfoque": "Renovación de la mente, hábitos, propósito, vocación y llamado.",
+     "enfoque": "Renovación de la mente, nueva identidad, propósito, vocación y llamado, libertad espiritual, señales de madurez.",
      "pedido": "K",
      "institutos": "—",
      "fuentes": "B"
@@ -641,58 +695,94 @@
    "id": "C12",
    "numero": 12,
    "titulo": "Ética cristiana y vida cotidiana",
-   "bajada": "Cómo los principios bíblicos se aplican a cada dimensión de la vida, incluso a situaciones que la Biblia no nombra.",
+   "bajada": "Relaciones, familia, trabajo, sociedad y decisiones éticas: cómo se aplican los principios bíblicos a la vida real, incluso a lo que la Biblia no nombra.",
    "series": [
     {
      "id": "12.1",
-     "titulo": "Relaciones: perdón, reconciliación, conflictos, palabra y juicio",
-     "dias": 20,
-     "enfoque": "",
-     "pedido": "L; 6",
+     "titulo": "Amar al prójimo: empatía, respeto, lealtad y confianza",
+     "dias": 16,
+     "enfoque": "El amor al prójimo, empatía, servicio, respeto, lealtad, confianza, hospitalidad, justicia en el trato.",
+     "pedido": "L",
+     "institutos": "TMS PM772",
+     "fuentes": "B (Amor y Relaciones, Crecimiento)"
+    },
+    {
+     "id": "12.2",
+     "titulo": "Perdón, reconciliación y conflictos",
+     "dias": 16,
+     "enfoque": "Perdonar y ser perdonado, reconciliar, resentimiento y amargura, resolver conflictos, personas difíciles y ofensas.",
+     "pedido": "L; H",
      "institutos": "TMS PM772",
      "fuentes": "B"
     },
     {
-     "id": "12.2",
-     "titulo": "Matrimonio, sexualidad, soltería, noviazgo y crianza",
-     "dias": 24,
-     "enfoque": "",
-     "pedido": "L; 6",
-     "institutos": "TMS PM768",
-     "fuentes": "B (Matrimonio, Familia, Pecado y Sexualidad)"
-    },
-    {
      "id": "12.3",
-     "titulo": "Trabajo, dinero y mayordomía",
-     "dias": 18,
-     "enfoque": "Tiempo, recursos, diezmos y ofrendas, deuda, creación, fidelidad en lo pequeño.",
-     "pedido": "J",
+     "titulo": "Las palabras: chisme, crítica, juicio y verdad en amor",
+     "dias": 12,
+     "enfoque": "Uso de la palabra, murmuración, chisme, crítica, juzgar (Mateo 7), exhortar, decir la verdad en amor, mentira.",
+     "pedido": "L; 6",
      "institutos": "—",
      "fuentes": "B"
     },
     {
      "id": "12.4",
+     "titulo": "Amistad, comunidad y relaciones difíciles",
+     "dias": 14,
+     "enfoque": "Amistad bíblica, relaciones que dañan, límites, maltrato, lealtad entre amigos, mentores, soledad y compañía.",
+     "pedido": "L",
+     "institutos": "—",
+     "fuentes": "B + X"
+    },
+    {
+     "id": "12.5",
+     "titulo": "Matrimonio, noviazgo, sexualidad y soltería",
+     "dias": 24,
+     "enfoque": "Diseño, noviazgo, matrimonio, sexualidad, soltería, divorcio y nuevas nupcias (posturas).",
+     "pedido": "L; 6",
+     "institutos": "TMS PM768",
+     "fuentes": "B (Matrimonio, Familia, Pecado y Sexualidad)"
+    },
+    {
+     "id": "12.6",
+     "titulo": "Familia, crianza y honra",
+     "dias": 16,
+     "enfoque": "Padres e hijos, honra, autoridad, disciplina, crianza, liderazgo en el hogar, familia extendida.",
+     "pedido": "L",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "12.7",
+     "titulo": "Trabajo, dinero y mayordomía",
+     "dias": 18,
+     "enfoque": "Tiempo, recursos, diezmos y ofrendas, deuda, creación, fidelidad en lo pequeño, relaciones laborales.",
+     "pedido": "J",
+     "institutos": "—",
+     "fuentes": "B"
+    },
+    {
+     "id": "12.8",
      "titulo": "Liderazgo, autoridad, gobierno y justicia social",
      "dias": 16,
-     "enfoque": "",
+     "enfoque": "Liderazgo y servicio, autoridad, gobierno, ciudadanía, pobreza, justicia.",
      "pedido": "6",
      "institutos": "TMS PM750",
      "fuentes": "B"
     },
     {
-     "id": "12.5",
+     "id": "12.9",
      "titulo": "Sufrimiento, prueba y esperanza",
      "dias": 12,
-     "enfoque": "",
+     "enfoque": "Sufrir bien, prueba, duelo, enfermedad, esperanza cristiana.",
      "pedido": "6; 8",
      "institutos": "—",
      "fuentes": "B: Keller"
     },
     {
-     "id": "12.6",
-     "titulo": "Decisiones y dilemas éticos contemporáneos",
+     "id": "12.10",
+     "titulo": "Dilemas éticos contemporáneos",
      "dias": 14,
-     "enfoque": "",
+     "enfoque": "Tecnología, bioética, vida y muerte, verdad e integridad, situaciones que la Biblia no nombra: cómo razonar con principios.",
      "pedido": "6",
      "institutos": "IBBA Dilemas éticos · TMS TH780",
      "fuentes": "B + X"
@@ -1088,5 +1178,5 @@
    ]
   }
  ],
- "total_estimado": 1974
+ "total_estimado": 2146
 }

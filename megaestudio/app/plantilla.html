@@ -460,7 +460,7 @@ function vistaDia(d) {
   h += `<section class="vida"><h2>Para tu vida</h2><ul>${(x.para_vivir || []).map(v => `<li class="ak">${esc(v.texto)} ${chips(v.fuentes)}</li>`).join('')}</ul>
     <h3>Para pensar delante de Dios</h3><ol>${(x.para_reflexionar || []).map(q => `<li class="ak">${esc(q)}</li>`).join('')}</ol>
     ${x.para_conversar && x.para_conversar.length ? `<h3>Para conversar con otros</h3><ul>${x.para_conversar.map(q => `<li class="ak">${esc(q)}</li>`).join('')}</ul>` : ''}
-    <h3>Para orar</h3><p class="orar ak">${esc(x.para_orar || '')}</p></section>`;
+  </section>`;
   if (x.profundizar && x.profundizar.length) h += `<details class="prof"><summary>Para profundizar (optativo)</summary>` + x.profundizar.map(f => `<h3>${esc(f.titulo)}</h3><p class="ak">${esc(f.texto)} ${chips(f.fuentes)}</p>`).join('') + '</details>';
   h += bloqueNotas(d);
   h += `<nav class="pie-dia" aria-label="Días">${ant ? `<a class="btn" href="#dia-${ant.dia}">← ${esc(ant.titulo)}</a>` : '<span></span>'}${sig ? `<a class="btn" href="#dia-${sig.dia}">${esc(sig.titulo)} →</a>` : ''}</nav></article>`;

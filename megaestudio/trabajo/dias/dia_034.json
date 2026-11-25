@@ -2,121 +2,424 @@
   "dia": 34,
   "titulo": "Figuras, símbolos y tipos: leer la Biblia como fue escrita",
   "bajada": "La Biblia habla con metáforas, exageraciones, ironías, símbolos y patrones que anticipan a Cristo. ¿Cómo distinguir lo literal de lo figurado, el símbolo de la tipología y la tipología de la alegoría?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Juan 3:1-15; Hebreos 8:1-6", "porque": "Jesús usa una imagen (nacer de arriba, la serpiente levantada) y Hebreos habla de sombras y copias: dos pasajes que piden leer con atención el lenguaje."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Juan 3:1-15; Hebreos 8:1-6",
+    "porque": "Jesús usa una imagen (nacer de arriba, la serpiente levantada) y Hebreos habla de sombras y copias: dos pasajes que piden leer con atención el lenguaje."
+  },
   "versiculos": [
-    {"ref": "Romanos 5:14", "porque": "Pablo llama a Adán «figura» del que había de venir: el Nuevo Testamento mismo enseña a leer personas del Antiguo como tipos."},
-    {"ref": "Hebreos 8:5", "porque": "Tabernáculo, sacerdotes y sacrificios eran figura y sombra de realidades celestiales."}
+    {
+      "ref": "Romanos 5:14",
+      "porque": "Pablo llama a Adán «figura» del que había de venir: el Nuevo Testamento mismo enseña a leer personas del Antiguo como tipos."
+    },
+    {
+      "ref": "Hebreos 8:5",
+      "porque": "Tabernáculo, sacerdotes y sacrificios eran figura y sombra de realidades celestiales."
+    }
   ],
   "entrada": {
     "texto": "Cuando Jesús dice que la fe puede mandarle a un monte que se arroje al mar (Mateo 21:21), ¿hay que esperar una montaña en vuelo? Cuando Pablo escribe que Adán «es figura» de Cristo (Romanos 5:14), ¿qué clase de figura es esa? La Biblia habla como habla la gente, con imágenes, exageraciones, ironías y símbolos, y además muestra patrones que Dios fue sembrando en la historia y que el Nuevo Testamento termina de iluminar.\n\nHoy aprendemos a no tomar por letra lo que es imagen ni por imagen lo que es historia, y a reconocer con cuidado cuándo el Antiguo Testamento anticipa a Cristo. Hay términos técnicos; los definimos con ejemplos y con autores que no siempre coinciden.",
-    "fuentes": ["mateo__macarthur#746", "lacueva#524"]
+    "fuentes": [
+      "mateo__macarthur#746",
+      "lacueva#524"
+    ]
   },
   "apartados": [
     {
       "titulo": "Recursos del lenguaje bíblico",
       "parrafos": [
-        {"texto": "Geisler y Howe recuerdan que cada libro de la Biblia lo escribieron seres humanos, y el lenguaje humano no se limita a un solo modo de expresión. Por eso hay libros enteros en poesía, parábolas en los evangelios sinópticos, una alegoría en Gálatas 4, metáforas (2 Corintios 3:2-3; Santiago 3:6), símiles (Mateo 20:1; Santiago 1:6), hipérboles (Colosenses 1:23; Juan 21:25) y hasta sátira (Mateo 19:24 con 23:24). Cuando el Salmo 36:7 habla de refugiarse bajo la sombra de las «alas» de Dios, nadie concluye que Dios sea un ave con plumas.", "fuentes": ["dificultades_biblicas_un__geisler#9"]},
-        {"texto": "Metáfora. Grudem la muestra con la iglesia: la Biblia la describe como familia (1 Timoteo 5:1-2), como esposa de Cristo (2 Corintios 11:2), como olivo (Romanos 11:17-24) y como cuerpo (1 Corintios 12:12-27). Cada imagen enseña algo distinto, y por eso advierte que no conviene aferrarse a una sola: que la iglesia sea el cuerpo de Cristo es apenas una metáfora entre muchas. Jesús también usa una: en Mateo 21:21 habla de mover un monte, y MacArthur explica que lo dijo en sentido figurado, porque ni él ni los apóstoles usaron jamás su poder en hazañas espectaculares e inútiles; «arrancar montañas de raíz» era una metáfora corriente en la literatura judía para el gran maestro capaz de lo imposible.", "fuentes": ["grudem#904", "grudem#905", "mateo__macarthur#746"]},
-        {"texto": "Símil e hipérbole. Sproul recuerda el principio de los reformadores: leer un símil como símil y una metáfora como metáfora, sin caer en un «literalismo» rígido; si el Salmo 98:8 dice que los ríos «baten sus manos», nadie busca ríos con manos. La hipérbole, explica, es una exageración intencional para plantear una idea, y es un recurso literario perfectamente legítimo. MacArthur ve hipérboles, exageraciones con intención de enseñar, en las cuatro cualidades del amor de 1 Corintios 13:7.", "fuentes": ["sproul_ts#320", "puedo_confiar_en__sproul#51", "comentario_macarthur_del__macarthur2#344"]},
-        {"texto": "Ironía. En 2 Corintios 11:8 Pablo dice que «despojó» a otras iglesias al recibir de ellas lo necesario para servir a los corintios; MacArthur aclara que hablaba metafóricamente y con ironía, porque no había defraudado a nadie. En el juicio a Jesús, los principales sacerdotes dicen que no tienen más rey que César (Juan 19:15), y MacArthur ve una ironía amarga: dicho con descaro, era cierto, porque al rechazar a su rey mesiánico solo les quedaba el César.", "fuentes": ["2_corintios_comentario__macarthur#242", "juan__macarthur#878"]},
-        {"texto": "Metonimia y personificación. Metonimia, explica MacArthur, es la figura en que el nombre de una cosa se usa por otra con la que está asociada: decir que leíste a Shakespeare es decir que leíste sus obras. Así, la sangre representa la vida (Levítico 17:11) y su derramamiento, la muerte; la sangre de Cristo representa su muerte vicaria, no un poder de la sangre física. La personificación, según Geisler y Howe, toma una idea abstracta y habla de ella como si fuera una persona.", "fuentes": ["comentario_macarthur_del__macarthur2#237", "dificultades_biblicas_un__geisler#100"]}
+        {
+          "texto": "Geisler y Howe recuerdan que cada libro de la Biblia lo escribieron seres humanos, y el lenguaje humano no se limita a un solo modo de expresión. Por eso hay libros enteros en poesía, parábolas en los evangelios sinópticos, una alegoría en Gálatas 4, metáforas (2 Corintios 3:2-3; Santiago 3:6), símiles (Mateo 20:1; Santiago 1:6), hipérboles (Colosenses 1:23; Juan 21:25) y hasta sátira (Mateo 19:24 con 23:24). Cuando el Salmo 36:7 habla de refugiarse bajo la sombra de las «alas» de Dios, nadie concluye que Dios sea un ave con plumas.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#9"
+          ]
+        },
+        {
+          "texto": "Metáfora. Grudem la muestra con la iglesia: la Biblia la describe como familia (1 Timoteo 5:1-2), como esposa de Cristo (2 Corintios 11:2), como olivo (Romanos 11:17-24) y como cuerpo (1 Corintios 12:12-27). Cada imagen enseña algo distinto, y por eso advierte que no conviene aferrarse a una sola: que la iglesia sea el cuerpo de Cristo es apenas una metáfora entre muchas. Jesús también usa una: en Mateo 21:21 habla de mover un monte, y MacArthur explica que lo dijo en sentido figurado, porque ni él ni los apóstoles usaron jamás su poder en hazañas espectaculares e inútiles; «arrancar montañas de raíz» era una metáfora corriente en la literatura judía para el gran maestro capaz de lo imposible.",
+          "fuentes": [
+            "grudem#904",
+            "grudem#905",
+            "mateo__macarthur#746"
+          ]
+        },
+        {
+          "texto": "Símil e hipérbole. Sproul recuerda el principio de los reformadores: leer un símil como símil y una metáfora como metáfora, sin caer en un «literalismo» rígido; si el Salmo 98:8 dice que los ríos «baten sus manos», nadie busca ríos con manos. La hipérbole, explica, es una exageración intencional para plantear una idea, y es un recurso literario perfectamente legítimo. MacArthur ve hipérboles, exageraciones con intención de enseñar, en las cuatro cualidades del amor de 1 Corintios 13:7.",
+          "fuentes": [
+            "sproul_ts#320",
+            "puedo_confiar_en__sproul#51",
+            "comentario_macarthur_del__macarthur2#344"
+          ]
+        },
+        {
+          "texto": "Ironía. En 2 Corintios 11:8 Pablo dice que «despojó» a otras iglesias al recibir de ellas lo necesario para servir a los corintios; MacArthur aclara que hablaba metafóricamente y con ironía, porque no había defraudado a nadie. En el juicio a Jesús, los principales sacerdotes dicen que no tienen más rey que César (Juan 19:15), y MacArthur ve una ironía amarga: dicho con descaro, era cierto, porque al rechazar a su rey mesiánico solo les quedaba el César.",
+          "fuentes": [
+            "2_corintios_comentario__macarthur#242",
+            "juan__macarthur#878"
+          ]
+        },
+        {
+          "texto": "Metonimia y personificación. Metonimia, explica MacArthur, es la figura en que el nombre de una cosa se usa por otra con la que está asociada: decir que leíste a Shakespeare es decir que leíste sus obras. Así, la sangre representa la vida (Levítico 17:11) y su derramamiento, la muerte; la sangre de Cristo representa su muerte vicaria, no un poder de la sangre física. La personificación, según Geisler y Howe, toma una idea abstracta y habla de ella como si fuera una persona.",
+          "fuentes": [
+            "comentario_macarthur_del__macarthur2#237",
+            "dificultades_biblicas_un__geisler#100"
+          ]
+        }
       ],
-      "destacado": {"texto": "Que un escritor use una figura no es un error; el error está en leerla como si no lo fuera.", "fuentes": ["dificultades_biblicas_un__geisler#9"]}
+      "destacado": {
+        "texto": "Que un escritor use una figura no es un error; el error está en leerla como si no lo fuera.",
+        "fuentes": [
+          "dificultades_biblicas_un__geisler#9"
+        ]
+      }
     },
     {
       "titulo": "¿Literal o figurado? Cómo decidir sin adivinar",
       "parrafos": [
-        {"texto": "La Declaración de Chicago sobre hermenéutica, texto del Consejo Internacional sobre la Inerrancia Bíblica, afirma que hay que interpretar la Biblia según su sentido literal o normal, que es el sentido gramatical e histórico, es decir, lo que el escritor quiso expresar. Y aclara que ese sentido toma en cuenta todas las figuras del lenguaje y las formas literarias del texto. «Literal», entonces, no significa «sin figuras»: significa fiel a lo que el autor quiso decir.", "fuentes": ["web_chicago_hermeneutica#3"]},
-        {"texto": "Sproul comenta otro documento de Chicago, el de la inerrancia: la historia se trata como historia, la poesía como poesía, la hipérbole y la metáfora como lo que son, y hay que tener presentes las convenciones de cada época. Señala además que el intérprete no tiene licencia para espiritualizar o alegorizar un texto en contra de su estructura gramatical. Las pistas de MacArthur con el monte de Mateo 21:21 van en esa línea: lo que Jesús y los apóstoles hicieron con su poder, el uso corriente de la expresión y el propósito de la enseñanza en su contexto.", "fuentes": ["puedo_confiar_en__sproul#20", "puedo_confiar_en__sproul#59", "mateo__macarthur#746"]},
-        {"texto": "A veces una palabra funciona en dos planos. Liefeld observa que en Juan 3:3-8 el griego anóthen, que se traduce «de nuevo», también significa «de arriba», y que Juan suele usar una misma palabra con dos o más significados. Algo parecido pasa con «levantar» en Juan 3:14; 8:28 y 12:32: la referencia básica es la crucifixión, pero ese verbo suele significar «exaltar» en otros lugares, como Hechos 2:33 y Filipenses 2:9.", "fuentes": ["como_predicar_expositivamente__liefeld#83"]}
+        {
+          "texto": "La Declaración de Chicago sobre hermenéutica, texto del Consejo Internacional sobre la Inerrancia Bíblica, afirma que hay que interpretar la Biblia según su sentido literal o normal, que es el sentido gramatical e histórico, es decir, lo que el escritor quiso expresar. Y aclara que ese sentido toma en cuenta todas las figuras del lenguaje y las formas literarias del texto. «Literal», entonces, no significa «sin figuras»: significa fiel a lo que el autor quiso decir.",
+          "fuentes": [
+            "web_chicago_hermeneutica#3"
+          ]
+        },
+        {
+          "texto": "Sproul comenta otro documento de Chicago, el de la inerrancia: la historia se trata como historia, la poesía como poesía, la hipérbole y la metáfora como lo que son, y hay que tener presentes las convenciones de cada época. Señala además que el intérprete no tiene licencia para espiritualizar o alegorizar un texto en contra de su estructura gramatical. Las pistas de MacArthur con el monte de Mateo 21:21 van en esa línea: lo que Jesús y los apóstoles hicieron con su poder, el uso corriente de la expresión y el propósito de la enseñanza en su contexto.",
+          "fuentes": [
+            "puedo_confiar_en__sproul#20",
+            "puedo_confiar_en__sproul#59",
+            "mateo__macarthur#746"
+          ]
+        },
+        {
+          "texto": "A veces una palabra funciona en dos planos. Liefeld observa que en Juan 3:3-8 el griego anóthen, que se traduce «de nuevo», también significa «de arriba», y que Juan suele usar una misma palabra con dos o más significados. Algo parecido pasa con «levantar» en Juan 3:14; 8:28 y 12:32: la referencia básica es la crucifixión, pero ese verbo suele significar «exaltar» en otros lugares, como Hechos 2:33 y Filipenses 2:9.",
+          "fuentes": [
+            "como_predicar_expositivamente__liefeld#83"
+          ]
+        }
       ]
     },
     {
       "titulo": "Símbolos, números y colores, con cuidado",
       "parrafos": [
-        {"texto": "Lacueva explica que símbolo viene del griego súmbolon, que nombraba las dos mitades de un objeto (un anillo de sello, una piedrecita) que se juntaban para comprobar la identidad de quien las traía. En sentido bíblico, es un objeto o una acción que representa, por pacto implícito, una realidad espiritual superior a la física: la paloma como símbolo del Espíritu Santo, o el bautismo como símbolo de nuestra inmersión interior en Cristo (Romanos 6:3). Sus símbolos del Espíritu se apoyan en la propia Biblia: el aceite (1 Juan 2:20), la paloma en el bautismo de Jesús (Mateo 3:16) y el agua viva de Juan 4:10 y 14, que según él Juan 7:37-39 aclara que es el Espíritu.", "fuentes": ["lacueva#523", "lacueva#524", "lacueva#526"]},
-        {"texto": "Con todo, los símbolos piden humildad. Lacueva recoge la lectura de Bullinger sobre la alegoría de los cuatro árboles de Jueces 9:8-15 y reconoce una pequeña discrepancia con él sobre lo que representa el olivo: por tratarse del Espíritu, prefirió ver allí las bendiciones espirituales. Si dos lectores serios no coinciden del todo, conviene sostener con firmeza lo que el texto o el Nuevo Testamento explica, y con modestia lo demás.", "fuentes": ["lacueva#524", "lacueva#525"]},
-        {"texto": "Números. Antes de buscar simbolismo, Geisler y Howe recuerdan un uso más simple: la Biblia, como el lenguaje cotidiano, usa números redondos (1 Crónicas 19:18; 21:5), y eso no los vuelve falsos. A veces el número sí carga significado: ante el Cordero de Apocalipsis 5:6, MacArthur explica que los siete cuernos significan poder pleno y los siete ojos, sabiduría perfecta, porque «siete significa plenitud». Si ese patrón vale para todo número del Apocalipsis es otra cuestión, que aparece entre las interpretaciones.", "fuentes": ["dificultades_biblicas_un__geisler#9", "un_recorrido_en__macarthur#12"]},
-        {"texto": "Colores. En las páginas que consultamos hoy casi no hay explicaciones de colores. Un ejemplo es el gran trono blanco de Apocalipsis 20:11: según MacArthur, el blanco simboliza su pureza, santidad y justicia. Un solo caso no arma una tabla de colores; la prudencia es dejar que el contexto marque el sentido.", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#322"]}
+        {
+          "texto": "Lacueva explica que símbolo viene del griego súmbolon, que nombraba las dos mitades de un objeto (un anillo de sello, una piedrecita) que se juntaban para comprobar la identidad de quien las traía. En sentido bíblico, es un objeto o una acción que representa, por pacto implícito, una realidad espiritual superior a la física: la paloma como símbolo del Espíritu Santo, o el bautismo como símbolo de nuestra inmersión interior en Cristo (Romanos 6:3). Sus símbolos del Espíritu se apoyan en la propia Biblia: el aceite (1 Juan 2:20), la paloma en el bautismo de Jesús (Mateo 3:16) y el agua viva de Juan 4:10 y 14, que según él Juan 7:37-39 aclara que es el Espíritu.",
+          "fuentes": [
+            "lacueva#523",
+            "lacueva#524",
+            "lacueva#526"
+          ]
+        },
+        {
+          "texto": "Con todo, los símbolos piden humildad. Lacueva recoge la lectura de Bullinger sobre la alegoría de los cuatro árboles de Jueces 9:8-15 y reconoce una pequeña discrepancia con él sobre lo que representa el olivo: por tratarse del Espíritu, prefirió ver allí las bendiciones espirituales. Si dos lectores serios no coinciden del todo, conviene sostener con firmeza lo que el texto o el Nuevo Testamento explica, y con modestia lo demás.",
+          "fuentes": [
+            "lacueva#524",
+            "lacueva#525"
+          ]
+        },
+        {
+          "texto": "Números. Antes de buscar simbolismo, Geisler y Howe recuerdan un uso más simple: la Biblia, como el lenguaje cotidiano, usa números redondos (1 Crónicas 19:18; 21:5), y eso no los vuelve falsos. A veces el número sí carga significado: ante el Cordero de Apocalipsis 5:6, MacArthur explica que los siete cuernos significan poder pleno y los siete ojos, sabiduría perfecta, porque «siete significa plenitud». Si ese patrón vale para todo número del Apocalipsis es otra cuestión, que aparece entre las interpretaciones.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#9",
+            "un_recorrido_en__macarthur#12"
+          ]
+        },
+        {
+          "texto": "Colores. En las páginas que consultamos hoy casi no hay explicaciones de colores. Un ejemplo es el gran trono blanco de Apocalipsis 20:11: según MacArthur, el blanco simboliza su pureza, santidad y justicia. Un solo caso no arma una tabla de colores; la prudencia es dejar que el contexto marque el sentido.",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#322"
+          ]
+        }
       ]
     },
     {
       "titulo": "Tipos: sombra, copia y realidad",
       "parrafos": [
-        {"texto": "MacArthur define: un tipo es una persona, práctica o ceremonia del Antiguo Testamento que tiene una contraparte, un antitipo, en el Nuevo; el tipo prefigura al antitipo, y aunque es real, histórico y viene de Dios, es imperfecto y temporal, mientras que el antitipo es perfecto y eterno. Renihan recoge la definición de Beale, con cinco rasgos: correspondencia analógica, historicidad, orientación hacia el futuro, escalonamiento y retrospección.", "fuentes": ["hebreos_comentario_macarthur__macarthur#190", "el_misterio_de__renihan#37"]},
-        {"texto": "La palabra griega es túpos. Lacueva recuerda que significaba la impresión de un sello y que en sentido bíblico equivale a «figura»: Adán es «figura del que había de venir», Cristo (Romanos 5:14). El Diccionario de Jesús y los Evangelios agrega que metafóricamente significa «ejemplo» o «modelo», como en 1 Corintios 10:6, donde Pablo presenta la experiencia de Israel en el desierto como un tipo de la experiencia cristiana: «estas cosas les acontecieron como ejemplo» (1 Corintios 10:11), con elementos de continuidad y de discontinuidad.", "fuentes": ["lacueva#524", "diccionario_de_jesus__green#2344", "diccionario_de_jesus__green#2345"]},
-        {"texto": "Hebreos 8:5 dice que los sacerdotes sirven a lo que es «figura y sombra de las cosas celestiales», conforme al modelo que se le mostró a Moisés. Kistemaker explica que copia y sombra se complementan: copia da idea de sustancia, y sombra, de reflejo del original celestial. MacArthur añade que si Jesús estuviera en la tierra ni siquiera sería sacerdote, porque no era de la tribu sacerdotal.", "fuentes": ["hebreos_comentario_al__kistemaker#202", "hebreos_comentario_macarthur__macarthur#227"]},
-        {"texto": "Jesús mismo señala dos tipos. En Juan 3:14 compara su muerte con la serpiente que Moisés levantó en el desierto (Números 21:8-9), y MacArthur lo llama una «predicción tipológica». En Mateo 12:40 compara los días de Jonás en el vientre del gran pez con su sepultura «en el corazón de la tierra». MacArthur distingue la profecía verbalmente predictiva (nacer de una virgen, Isaías 7:14) de la típica, en que una persona o suceso del Antiguo Testamento vislumbra la obra de Cristo, y observa que al usar a Jonás, Jesús confirmó la historicidad del relato.", "fuentes": ["juan__macarthur#884", "mateo__macarthur#493"]}
+        {
+          "texto": "MacArthur define: un tipo es una persona, práctica o ceremonia del Antiguo Testamento que tiene una contraparte, un antitipo, en el Nuevo; el tipo prefigura al antitipo, y aunque es real, histórico y viene de Dios, es imperfecto y temporal, mientras que el antitipo es perfecto y eterno. Renihan recoge la definición de Beale, con cinco rasgos: correspondencia analógica, historicidad, orientación hacia el futuro, escalonamiento y retrospección.",
+          "fuentes": [
+            "hebreos_comentario_macarthur__macarthur#190",
+            "el_misterio_de__renihan#37"
+          ]
+        },
+        {
+          "texto": "La palabra griega es túpos. Lacueva recuerda que significaba la impresión de un sello y que en sentido bíblico equivale a «figura»: Adán es «figura del que había de venir», Cristo (Romanos 5:14). El Diccionario de Jesús y los Evangelios agrega que metafóricamente significa «ejemplo» o «modelo», como en 1 Corintios 10:6, donde Pablo presenta la experiencia de Israel en el desierto como un tipo de la experiencia cristiana: «estas cosas les acontecieron como ejemplo» (1 Corintios 10:11), con elementos de continuidad y de discontinuidad.",
+          "fuentes": [
+            "lacueva#524",
+            "diccionario_de_jesus__green#2344",
+            "diccionario_de_jesus__green#2345"
+          ]
+        },
+        {
+          "texto": "Hebreos 8:5 dice que los sacerdotes sirven a lo que es «figura y sombra de las cosas celestiales», conforme al modelo que se le mostró a Moisés. Kistemaker explica que copia y sombra se complementan: copia da idea de sustancia, y sombra, de reflejo del original celestial. MacArthur añade que si Jesús estuviera en la tierra ni siquiera sería sacerdote, porque no era de la tribu sacerdotal.",
+          "fuentes": [
+            "hebreos_comentario_al__kistemaker#202",
+            "hebreos_comentario_macarthur__macarthur#227"
+          ]
+        },
+        {
+          "texto": "Jesús mismo señala dos tipos. En Juan 3:14 compara su muerte con la serpiente que Moisés levantó en el desierto (Números 21:8-9), y MacArthur lo llama una «predicción tipológica». En Mateo 12:40 compara los días de Jonás en el vientre del gran pez con su sepultura «en el corazón de la tierra». MacArthur distingue la profecía verbalmente predictiva (nacer de una virgen, Isaías 7:14) de la típica, en que una persona o suceso del Antiguo Testamento vislumbra la obra de Cristo, y observa que al usar a Jonás, Jesús confirmó la historicidad del relato.",
+          "fuentes": [
+            "juan__macarthur#884",
+            "mateo__macarthur#493"
+          ]
+        }
       ],
-      "destacado": {"texto": "Un tipo no es una sombra sin valor: es la sombra de algo real, dada por Dios, que cumple su propósito señalando hacia el cuerpo.", "fuentes": ["hebreos_comentario_macarthur__macarthur#258", "hebreos_comentario_macarthur__macarthur#259"]}
+      "destacado": {
+        "texto": "Un tipo no es una sombra sin valor: es la sombra de algo real, dada por Dios, que cumple su propósito señalando hacia el cuerpo.",
+        "fuentes": [
+          "hebreos_comentario_macarthur__macarthur#258",
+          "hebreos_comentario_macarthur__macarthur#259"
+        ]
+      }
     },
     {
       "titulo": "Tipología y alegoría: no son lo mismo",
       "parrafos": [
-        {"texto": "En Gálatas 4:24 Pablo dice que el relato de Agar y Sara «puede interpretarse en sentido figurado». Keller comenta que el relato hay que leerlo como literalmente verdadero, pero que Pablo lo usa como ilustración simbólica: el hijo de Agar representa buscar la salvación por obras, y Sara, confiar en la gracia de Dios. Keller define la alegoría como una historia que es un cuadro de un significado más profundo, como El progreso del peregrino de Bunyan.", "fuentes": ["galatas_para_ti__keller#115", "galatas_para_ti__keller#176"]},
-        {"texto": "El Diccionario de Jesús y los Evangelios describe la alegorización como el método que descubre símbolos y verdades morales y teológicas en diversos detalles de la Escritura, mientras que la tipología establece una correspondencia entre una persona, un acontecimiento o una institución del Antiguo Testamento y otra del Nuevo. Helm llama analogía a las correspondencias amplias y tipología a las estrechas, cuando algo anticipa un aspecto de Jesucristo, y advierte que quien se acostumbra al término empieza a ver tipos en todo.", "fuentes": ["diccionario_de_jesus__green#2345", "diccionario_de_jesus__green#2346", "la_predicacion_expositiva__helm#92", "la_predicacion_expositiva__helm#93"]},
-        {"texto": "Y no todos usan «alegoría» igual. El Catecismo de la Iglesia Católica distingue el sentido literal y el espiritual, que se subdivide en alegórico, moral y anagógico, y llama alegórico al que reconoce en los acontecimientos su significación en Cristo, como el paso del mar Rojo, signo de la victoria de Cristo y del Bautismo (1 Corintios 10:2). Con las mismas palabras se nombran cosas distintas, y conviene preguntar siempre qué entiende cada autor.", "fuentes": ["web_catecismo_escritura#1", "web_catecismo_escritura#7"]}
+        {
+          "texto": "En Gálatas 4:24 Pablo dice que el relato de Agar y Sara «puede interpretarse en sentido figurado». Keller comenta que el relato hay que leerlo como literalmente verdadero, pero que Pablo lo usa como ilustración simbólica: el hijo de Agar representa buscar la salvación por obras, y Sara, confiar en la gracia de Dios. Keller define la alegoría como una historia que es un cuadro de un significado más profundo, como El progreso del peregrino de Bunyan.",
+          "fuentes": [
+            "galatas_para_ti__keller#115",
+            "galatas_para_ti__keller#176"
+          ]
+        },
+        {
+          "texto": "El Diccionario de Jesús y los Evangelios describe la alegorización como el método que descubre símbolos y verdades morales y teológicas en diversos detalles de la Escritura, mientras que la tipología establece una correspondencia entre una persona, un acontecimiento o una institución del Antiguo Testamento y otra del Nuevo. Helm llama analogía a las correspondencias amplias y tipología a las estrechas, cuando algo anticipa un aspecto de Jesucristo, y advierte que quien se acostumbra al término empieza a ver tipos en todo.",
+          "fuentes": [
+            "diccionario_de_jesus__green#2345",
+            "diccionario_de_jesus__green#2346",
+            "la_predicacion_expositiva__helm#92",
+            "la_predicacion_expositiva__helm#93"
+          ]
+        },
+        {
+          "texto": "Y no todos usan «alegoría» igual. El Catecismo de la Iglesia Católica distingue el sentido literal y el espiritual, que se subdivide en alegórico, moral y anagógico, y llama alegórico al que reconoce en los acontecimientos su significación en Cristo, como el paso del mar Rojo, signo de la victoria de Cristo y del Bautismo (1 Corintios 10:2). Con las mismas palabras se nombran cosas distintas, y conviene preguntar siempre qué entiende cada autor.",
+          "fuentes": [
+            "web_catecismo_escritura#1",
+            "web_catecismo_escritura#7"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cómo reconocer un tipo legítimo",
       "parrafos": [
-        {"texto": "Primero, que el Nuevo Testamento lo indique. MacArthur sostiene que solo podemos estar seguros de las predicciones típicas si el Nuevo Testamento las identifica, como hace Jesús con Jonás. Liefeld plantea que quien predica el Antiguo Testamento debe decidir si se atiene a no interpretar tipológicamente nada que el Nuevo no interprete así, o adopta un método más flexible (véase abajo).", "fuentes": ["mateo__macarthur#493", "como_predicar_expositivamente__liefeld#82", "como_predicar_expositivamente__liefeld#83"]},
-        {"texto": "Segundo, correspondencia histórica: el tipo es una persona, hecho o institución reales, como dicen MacArthur y los rasgos de Beale citados por Renihan. Tercero, correspondencia teológica con avance. Según Renihan, los tipos revelan algo mayor y distinto de sí mismos: en Juan 6:32-33 Jesús se llama el verdadero pan, y el maná no era una versión inferior de él, sino que apuntaba a él. Los tipos tienen sentido propio en su contexto, y a la vez señalan algo mayor, y terminan cuando llega el antitipo.", "fuentes": ["hebreos_comentario_macarthur__macarthur#190", "el_misterio_de__renihan#37", "el_misterio_de__renihan#39", "el_misterio_de__renihan#40", "el_misterio_de__renihan#41"]},
-        {"texto": "Cuarto, designio de Dios y control del texto. Renihan cita a Fairbairn, quien cita al obispo Marsh: para que algo sea tipo no basta el parecido; tuvo que haber sido diseñado para asemejarse, y la Escritura debe interpretar a la Escritura. Kistemaker practica esa reticencia cuando se pregunta qué vio Moisés en el monte: donde la Escritura calla, hay que ser reticentes. Como ejercicio, Lacueva lee Génesis 24 con Abraham como figura del Padre, Isaac del Hijo, Eliezer del Espíritu y Rebeca de la Iglesia; él mismo la llama ilustración y tipo «implícito», así que conviene pasarla por estos criterios.", "fuentes": ["el_misterio_de__renihan#38", "hebreos_comentario_al__kistemaker#203", "lacueva#524", "lacueva#527"]}
+        {
+          "texto": "Primero, que el Nuevo Testamento lo indique. MacArthur sostiene que solo podemos estar seguros de las predicciones típicas si el Nuevo Testamento las identifica, como hace Jesús con Jonás. Liefeld plantea que quien predica el Antiguo Testamento debe decidir si se atiene a no interpretar tipológicamente nada que el Nuevo no interprete así, o adopta un método más flexible (véase abajo).",
+          "fuentes": [
+            "mateo__macarthur#493",
+            "como_predicar_expositivamente__liefeld#82",
+            "como_predicar_expositivamente__liefeld#83"
+          ]
+        },
+        {
+          "texto": "Segundo, correspondencia histórica: el tipo es una persona, hecho o institución reales, como dicen MacArthur y los rasgos de Beale citados por Renihan. Tercero, correspondencia teológica con avance. Según Renihan, los tipos revelan algo mayor y distinto de sí mismos: en Juan 6:32-33 Jesús se llama el verdadero pan, y el maná no era una versión inferior de él, sino que apuntaba a él. Los tipos tienen sentido propio en su contexto, y a la vez señalan algo mayor, y terminan cuando llega el antitipo.",
+          "fuentes": [
+            "hebreos_comentario_macarthur__macarthur#190",
+            "el_misterio_de__renihan#37",
+            "el_misterio_de__renihan#39",
+            "el_misterio_de__renihan#40",
+            "el_misterio_de__renihan#41"
+          ]
+        },
+        {
+          "texto": "Cuarto, designio de Dios y control del texto. Renihan cita a Fairbairn, quien cita al obispo Marsh: para que algo sea tipo no basta el parecido; tuvo que haber sido diseñado para asemejarse, y la Escritura debe interpretar a la Escritura. Kistemaker practica esa reticencia cuando se pregunta qué vio Moisés en el monte: donde la Escritura calla, hay que ser reticentes. Como ejercicio, Lacueva lee Génesis 24 con Abraham como figura del Padre, Isaac del Hijo, Eliezer del Espíritu y Rebeca de la Iglesia; él mismo la llama ilustración y tipo «implícito», así que conviene pasarla por estos criterios.",
+          "fuentes": [
+            "el_misterio_de__renihan#38",
+            "hebreos_comentario_al__kistemaker#203",
+            "lacueva#524",
+            "lacueva#527"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "No es error que un escritor bíblico use una figura de lenguaje, pero es error que un lector tome una figura de lenguaje literalmente.", "autor": "Norman Geisler y Thomas Howe", "obra": "Dificultades bíblicas", "fuentes": ["dificultades_biblicas_un__geisler#9"]},
-    {"texto": "Los tipos son sombras que dan información verdadera acerca de algo distinto y mayor que ellos.", "autor": "Samuel Renihan", "obra": "El misterio de Cristo, su pacto y su reino", "fuentes": ["el_misterio_de__renihan#39"]}
+    {
+      "texto": "No es error que un escritor bíblico use una figura de lenguaje, pero es error que un lector tome una figura de lenguaje literalmente.",
+      "autor": "Norman Geisler y Thomas Howe",
+      "obra": "Dificultades bíblicas",
+      "fuentes": [
+        "dificultades_biblicas_un__geisler#9"
+      ]
+    },
+    {
+      "texto": "Los tipos son sombras que dan información verdadera acerca de algo distinto y mayor que ellos.",
+      "autor": "Samuel Renihan",
+      "obra": "El misterio de Cristo, su pacto y su reino",
+      "fuentes": [
+        "el_misterio_de__renihan#39"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "τύπος", "translit": "túpos", "idioma": "griego", "ref": "Ro 5:14", "significado": "Etimológicamente, la impresión de un sello; en sentido bíblico, «figura» (Lacueva). Metafóricamente, «ejemplo» o «modelo» (1 Co 10:6), según el Diccionario de Jesús y los Evangelios.", "fuentes": ["lacueva#524", "diccionario_de_jesus__green#2344"]},
-    {"original": "σκιά", "translit": "skiá", "idioma": "griego", "ref": "Col 2:17", "significado": "Sombra. MacArthur explica que es una sombra pálida, contrastada con una imagen nítida: la ley y los rituales eran la forma, no el cuerpo (Col 2:17; He 10:1).", "fuentes": ["hebreos_comentario_macarthur__macarthur#258"]}
+    {
+      "original": "τύπος",
+      "translit": "túpos",
+      "idioma": "griego",
+      "ref": "Ro 5:14",
+      "significado": "Etimológicamente, la impresión de un sello; en sentido bíblico, «figura» (Lacueva). Metafóricamente, «ejemplo» o «modelo» (1 Co 10:6), según el Diccionario de Jesús y los Evangelios.",
+      "fuentes": [
+        "lacueva#524",
+        "diccionario_de_jesus__green#2344"
+      ]
+    },
+    {
+      "original": "σκιά",
+      "translit": "skiá",
+      "idioma": "griego",
+      "ref": "Col 2:17",
+      "significado": "Sombra. MacArthur explica que es una sombra pálida, contrastada con una imagen nítida: la ley y los rituales eran la forma, no el cuerpo (Col 2:17; He 10:1).",
+      "fuentes": [
+        "hebreos_comentario_macarthur__macarthur#258"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Lo que el texto establece. Pablo llama a Adán «figura» del que había de venir (Romanos 5:14); Jesús mismo se compara con la serpiente levantada (Juan 3:14) y con Jonás en el vientre del gran pez (Mateo 12:40). En estos tres casos es el propio Nuevo Testamento el que declara la correspondencia.", "refs": ["Ro 5:14", "Jn 3:14", "Mt 12:40"], "fuentes": ["lacueva#524", "juan__macarthur#884", "mateo__macarthur#493"]},
-    {"texto": "El cuerpo detrás de la sombra. Hebreos presenta a Cristo como mediador de un mejor pacto (Hebreos 8:6); Kistemaker destaca que Jesús cumplió las obligaciones del sacerdocio levítico e introdujo el sumo sacerdocio según el orden de Melquisedec. Otra cosa es un patrón propuesto por un autor, como la lectura de Génesis 24 que hace Lacueva: es un tipo implícito, no una declaración explícita del Nuevo Testamento.", "refs": ["He 8:6", "Gn 24"], "fuentes": ["hebreos_comentario_al__kistemaker#203", "lacueva#524"]}
+    {
+      "texto": "Lo que el texto establece. Pablo llama a Adán «figura» del que había de venir (Romanos 5:14); Jesús mismo se compara con la serpiente levantada (Juan 3:14) y con Jonás en el vientre del gran pez (Mateo 12:40). En estos tres casos es el propio Nuevo Testamento el que declara la correspondencia.",
+      "refs": [
+        "Ro 5:14",
+        "Jn 3:14",
+        "Mt 12:40"
+      ],
+      "fuentes": [
+        "lacueva#524",
+        "juan__macarthur#884",
+        "mateo__macarthur#493"
+      ]
+    },
+    {
+      "texto": "El cuerpo detrás de la sombra. Hebreos presenta a Cristo como mediador de un mejor pacto (Hebreos 8:6); Kistemaker destaca que Jesús cumplió las obligaciones del sacerdocio levítico e introdujo el sumo sacerdocio según el orden de Melquisedec. Otra cosa es un patrón propuesto por un autor, como la lectura de Génesis 24 que hace Lacueva: es un tipo implícito, no una declaración explícita del Nuevo Testamento.",
+      "refs": [
+        "He 8:6",
+        "Gn 24"
+      ],
+      "fuentes": [
+        "hebreos_comentario_al__kistemaker#203",
+        "lacueva#524"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Hay más tipos que los que el Nuevo Testamento señala?",
       "posturas": [
-        {"postura": "Solo podemos tener seguridad en las predicciones típicas que el Nuevo Testamento identifica como tales, como la de Jonás.", "quien": "MacArthur", "fuentes": ["mateo__macarthur#493"]},
-        {"postura": "Es plausible que se puedan buscar más tipos de los que el Nuevo Testamento establece, porque este habla de las ordenanzas antiguas como sombras en su conjunto y trata con moderación los ejemplos. Con una condición: el tipo tiene que haber sido diseñado por Dios y la Escritura debe interpretar a la Escritura.", "quien": "Renihan, apoyándose en Beale y Fairbairn", "fuentes": ["el_misterio_de__renihan#38"]},
-        {"postura": "Como categoría hermenéutica, la tipología establece una correspondencia entre el Antiguo y el Nuevo Testamento sin que importe si el autor usa la palabra typos o aporta un vínculo explícito.", "quien": "Diccionario de Jesús y los Evangelios", "fuentes": ["diccionario_de_jesus__green#2345"]}
+        {
+          "postura": "Solo podemos tener seguridad en las predicciones típicas que el Nuevo Testamento identifica como tales, como la de Jonás.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "mateo__macarthur#493"
+          ]
+        },
+        {
+          "postura": "Es plausible que se puedan buscar más tipos de los que el Nuevo Testamento establece, porque este habla de las ordenanzas antiguas como sombras en su conjunto y trata con moderación los ejemplos. Con una condición: el tipo tiene que haber sido diseñado por Dios y la Escritura debe interpretar a la Escritura.",
+          "quien": "Renihan, apoyándose en Beale y Fairbairn",
+          "fuentes": [
+            "el_misterio_de__renihan#38"
+          ]
+        },
+        {
+          "postura": "Como categoría hermenéutica, la tipología establece una correspondencia entre el Antiguo y el Nuevo Testamento sin que importe si el autor usa la palabra typos o aporta un vínculo explícito.",
+          "quien": "Diccionario de Jesús y los Evangelios",
+          "fuentes": [
+            "diccionario_de_jesus__green#2345"
+          ]
+        }
       ],
       "nota": "Liefeld presenta la decisión como una elección que cada intérprete debe hacer. Aquí tampoco la zanjamos."
     },
     {
       "tema": "¿Son simbólicos los números del Apocalipsis?",
       "posturas": [
-        {"postura": "Ningún número de Apocalipsis puede verificarse como simbólico; la regla es el uso no simbólico (siete iglesias en siete ciudades, doce apóstoles, doce tribus), y por eso los mil años son literales. MacArthur cita en este punto a Robert Thomas.", "quien": "MacArthur", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#313", "apocalipsis_comentario_macarthur__macarthur#314"]},
-        {"postura": "La mayoría de los posmilenaristas niega que el milenio dure realmente mil años y ve ese número como símbolo de un largo período. Aquí solo aparece la descripción de MacArthur, no las razones de quienes lo sostienen.", "quien": "Presentada por MacArthur", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#313"]},
-        {"postura": "Apocalipsis es un libro altamente simbólico y su literatura necesita reglas de interpretación distintas; en la profecía la cuestión es si el lenguaje es figurado o prosa ordinaria, y hay muchos desacuerdos.", "quien": "Sproul", "fuentes": ["sproul_ts#320", "sproul_ts#321"]}
+        {
+          "postura": "Ningún número de Apocalipsis puede verificarse como simbólico; la regla es el uso no simbólico (siete iglesias en siete ciudades, doce apóstoles, doce tribus), y por eso los mil años son literales. MacArthur cita en este punto a Robert Thomas.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#313",
+            "apocalipsis_comentario_macarthur__macarthur#314"
+          ]
+        },
+        {
+          "postura": "La mayoría de los posmilenaristas niega que el milenio dure realmente mil años y ve ese número como símbolo de un largo período. Aquí solo aparece la descripción de MacArthur, no las razones de quienes lo sostienen.",
+          "quien": "Presentada por MacArthur",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#313"
+          ]
+        },
+        {
+          "postura": "Apocalipsis es un libro altamente simbólico y su literatura necesita reglas de interpretación distintas; en la profecía la cuestión es si el lenguaje es figurado o prosa ordinaria, y hay muchos desacuerdos.",
+          "quien": "Sproul",
+          "fuentes": [
+            "sproul_ts#320",
+            "sproul_ts#321"
+          ]
+        }
       ],
       "nota": "El debate de fondo sobre el milenio no se resuelve hoy; solo vemos el problema de método."
     }
   ],
   "conexiones": [
-    {"ref": "Col 2:17", "nota": "Misma imagen que Hebreos 8:5: las prácticas antiguas son sombra de lo que ha de venir, y el cuerpo es de Cristo.", "fuentes": ["hebreos_comentario_macarthur__macarthur#258", "el_misterio_de__renihan#39"]},
-    {"ref": "1 Co 10:4", "nota": "Renihan lo usa para mostrar que la roca y su agua no eran Jesucristo, pero representaban al Cristo.", "fuentes": ["el_misterio_de__renihan#39"]},
-    {"ref": "Mt 2:15", "nota": "Liefeld lo ve como parte de un modelo más amplio en Mateo, con paralelos entre Israel y Jesús, y pide mantener el significado contextual en el Antiguo Testamento.", "fuentes": ["como_predicar_expositivamente__liefeld#83"]}
+    {
+      "ref": "Col 2:17",
+      "nota": "Misma imagen que Hebreos 8:5: las prácticas antiguas son sombra de lo que ha de venir, y el cuerpo es de Cristo.",
+      "fuentes": [
+        "hebreos_comentario_macarthur__macarthur#258",
+        "el_misterio_de__renihan#39"
+      ]
+    },
+    {
+      "ref": "1 Co 10:4",
+      "nota": "Renihan lo usa para mostrar que la roca y su agua no eran Jesucristo, pero representaban al Cristo.",
+      "fuentes": [
+        "el_misterio_de__renihan#39"
+      ]
+    },
+    {
+      "ref": "Mt 2:15",
+      "nota": "Liefeld lo ve como parte de un modelo más amplio en Mateo, con paralelos entre Israel y Jesús, y pide mantener el significado contextual en el Antiguo Testamento.",
+      "fuentes": [
+        "como_predicar_expositivamente__liefeld#83"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Antes de decidir si un texto es literal o figurado, preguntate qué quiso decir el autor, en qué género escribe y qué hacen o dicen otros pasajes, como hace MacArthur con el monte de Mateo 21:21.", "fuentes": ["web_chicago_hermeneutica#3", "mateo__macarthur#746"]},
-    {"texto": "Cuando encuentres un símbolo, buscá primero si el propio texto lo explica, como Juan 7:37-39 con el agua viva (según Lacueva), y sostené con modestia lo que solo es deducción.", "fuentes": ["lacueva#526", "lacueva#525"]},
-    {"texto": "No uses la tipología para encontrar a Cristo en cada detalle: apoyate en lo que el Nuevo Testamento señala y, si proponés más, comprobá la correspondencia y el designio de Dios.", "fuentes": ["la_predicacion_expositiva__helm#92", "el_misterio_de__renihan#38"]}
+    {
+      "texto": "Antes de decidir si un texto es literal o figurado, preguntate qué quiso decir el autor, en qué género escribe y qué hacen o dicen otros pasajes, como hace MacArthur con el monte de Mateo 21:21.",
+      "fuentes": [
+        "web_chicago_hermeneutica#3",
+        "mateo__macarthur#746"
+      ]
+    },
+    {
+      "texto": "Cuando encuentres un símbolo, buscá primero si el propio texto lo explica, como Juan 7:37-39 con el agua viva (según Lacueva), y sostené con modestia lo que solo es deducción.",
+      "fuentes": [
+        "lacueva#526",
+        "lacueva#525"
+      ]
+    },
+    {
+      "texto": "No uses la tipología para encontrar a Cristo en cada detalle: apoyate en lo que el Nuevo Testamento señala y, si proponés más, comprobá la correspondencia y el designio de Dios.",
+      "fuentes": [
+        "la_predicacion_expositiva__helm#92",
+        "el_misterio_de__renihan#38"
+      ]
+    }
   ],
   "para_reflexionar": [
     "¿Alguna vez tomaste al pie de la letra algo que era una figura, o al revés? ¿Qué pista del texto o de su contexto te habría ayudado a leerlo mejor?",
     "Elegí uno de los tipos de hoy (Adán, la serpiente levantada, Jonás) y escribí con tus palabras qué corresponde con Cristo y qué es mayor en él.",
     "¿Qué interpretación ingeniosa de un símbolo, un número o un color escuchaste que no tiene apoyo en el texto? ¿Cómo la examinarías con los criterios de hoy?"
   ],
-  "para_orar": "Señor, gracias porque me hablaste con palabras humanas, con imágenes que puedo entender. Enseñame a leer con humildad, sin forzar el texto ni vaciarlo, y a no ver más de lo que vos quisiste mostrar. Que cada sombra del Antiguo Testamento me lleve a Jesús, el cuerpo y la realidad. Amén.",
   "profundizar": [
-    {"titulo": "¿La diferencia entre tipo y antitipo es de grado o de naturaleza?", "texto": "Según Renihan, entre los teólogos reformados del siglo XVII hubo una discusión sobre si el carácter típico del pacto mosaico lo hacía distinto de las bendiciones a las que apuntaba. Burgess sostenía que la diferencia era solo de grado, un desarrollo de inmaduro a maduro; Owen y los bautistas particulares afirmaban que los tipos tenían una naturaleza diferente de los antitipos. Renihan expone la discusión desde la postura de Owen; la otra aparece solo como él la resume.", "fuentes": ["el_misterio_de__renihan#41", "el_misterio_de__renihan#42"]}
+    {
+      "titulo": "¿La diferencia entre tipo y antitipo es de grado o de naturaleza?",
+      "texto": "Según Renihan, entre los teólogos reformados del siglo XVII hubo una discusión sobre si el carácter típico del pacto mosaico lo hacía distinto de las bendiciones a las que apuntaba. Burgess sostenía que la diferencia era solo de grado, un desarrollo de inmaduro a maduro; Owen y los bautistas particulares afirmaban que los tipos tenían una naturaleza diferente de los antitipos. Renihan expone la discusión desde la postura de Owen; la otra aparece solo como él la resume.",
+      "fuentes": [
+        "el_misterio_de__renihan#41",
+        "el_misterio_de__renihan#42"
+      ]
+    }
   ]
 }

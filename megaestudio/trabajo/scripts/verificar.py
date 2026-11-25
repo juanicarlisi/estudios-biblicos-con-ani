@@ -64,7 +64,7 @@ def vecino_citado(txt, ap, citados):
 def verificar(n):
     d = json.load(open(f'{V}/dias/dia_{n:03d}.json')); flags = []
     def f(ruta, tipo, det): flags.append(f'{tipo} {ruta}: {det}')
-    for k in ('titulo', 'bajada', 'minutos', 'lectura', 'versiculos', 'entrada', 'apartados', 'para_vivir', 'para_reflexionar', 'para_orar'):
+    for k in ('titulo', 'bajada', 'minutos', 'lectura', 'versiculos', 'entrada', 'apartados', 'para_vivir', 'para_reflexionar'):
         if not d.get(k): f('', 'forma', f'falta {k}')
     if not 3 <= len(d.get('apartados', [])) <= 8: f('', 'forma', f'apartados={len(d.get("apartados", []))}')
     if len(d.get('para_reflexionar', [])) < 3: f('', 'forma', 'menos de 3 preguntas')

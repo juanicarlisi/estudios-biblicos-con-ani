@@ -2,132 +2,422 @@
   "dia": 19,
   "titulo": "El contexto literario: seguir el hilo del argumento",
   "bajada": "Una palabra significa dentro de una frase, la frase dentro de un párrafo y el párrafo dentro de un libro. Hoy aprendés a seguir el hilo de un argumento, con dos pasajes de Pablo como ejemplo trabajado: Romanos 12:1 y Efesios 2:1-10.",
-  "minutos": {"lectura": 8, "estudio": 22},
-  "lectura": {"pasaje": "Efesios 2:1-10; Romanos 11:33–12:2", "porque": "Dos textos donde un «así que» y un «pero» sostienen todo el argumento: sin lo que viene antes, ninguno de los dos se entiende."},
+  "minutos": {
+    "lectura": 8,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Efesios 2:1-10; Romanos 11:33–12:2",
+    "porque": "Dos textos donde un «así que» y un «pero» sostienen todo el argumento: sin lo que viene antes, ninguno de los dos se entiende."
+  },
   "versiculos": [
-    {"ref": "Romanos 12:1", "porque": "Un «así que» que mira hacia atrás, a todo lo que Dios hizo, para pedir una respuesta."},
-    {"ref": "Efesios 2:8-10", "porque": "El centro del párrafo: salvos por gracia mediante la fe, y creados para buenas obras."}
+    {
+      "ref": "Romanos 12:1",
+      "porque": "Un «así que» que mira hacia atrás, a todo lo que Dios hizo, para pedir una respuesta."
+    },
+    {
+      "ref": "Efesios 2:8-10",
+      "porque": "El centro del párrafo: salvos por gracia mediante la fe, y creados para buenas obras."
+    }
   ],
   "entrada": {
     "texto": "Imaginá que alguien te entrega una sola hoja arrancada de una carta y te pide que digas qué quiso decir el autor. Podrías adivinar, pero te faltaría lo principal: qué venía antes, qué viene después y por qué esa frase está justo donde está.\n\nCon la Biblia pasa algo parecido. El manual de predicación de The Master's Seminary dice que comprender el argumento de un pasaje, y de todo el libro, es esencial para entender lo que el autor comunica. Hoy practicamos esa lectura con dos ejemplos de Pablo, en los que unas palabras pequeñas («así que», «pero», «porque») sostienen un edificio grande.",
-    "fuentes": ["la_predicacion_como__macarthur#263", "web_cpe_interpretacion#6"]
+    "fuentes": [
+      "la_predicacion_como__macarthur#263",
+      "web_cpe_interpretacion#6"
+    ]
   },
   "apartados": [
     {
       "titulo": "De la palabra al libro: círculos que se ensanchan",
       "parrafos": [
-        {"texto": "El manual de The Master's Seminary parte del lenguaje cotidiano: una palabra se comprende dentro de su entorno. Por eso advierte que el sentido que una palabra tiene en un libro o en un autor no debe trasladarse a otro de manera arbitraria, y concluye que la estructura, o el flujo, de cada pasaje es de máxima importancia. A quien proponía concentrarse en el estudio de palabras sueltas le responde que la sintaxis y la estructura están en el corazón de la exposición fiel.", "fuentes": ["la_predicacion_como__macarthur#263"]},
-        {"texto": "El ensayo de la Coalición por el Evangelio ordena la interpretación en preguntas que van de lo cercano a lo amplio. En la observación pide evaluar cómo se relacionan palabras, frases, cláusulas y unidades de texto mayores, y luego trazar el argumento. En el contexto pregunta por el histórico y por el literario, que define como el papel que el pasaje desempeña en todo el libro. Un artículo de Crossway sobre estudio inductivo coincide: conviene estudiar libros enteros para ver cómo cada versículo, párrafo y capítulo se apoya en los otros y aporta al mensaje del autor.", "fuentes": ["web_cpe_interpretacion#6", "web_crossway_inductivo#1"]}
+        {
+          "texto": "El manual de The Master's Seminary parte del lenguaje cotidiano: una palabra se comprende dentro de su entorno. Por eso advierte que el sentido que una palabra tiene en un libro o en un autor no debe trasladarse a otro de manera arbitraria, y concluye que la estructura, o el flujo, de cada pasaje es de máxima importancia. A quien proponía concentrarse en el estudio de palabras sueltas le responde que la sintaxis y la estructura están en el corazón de la exposición fiel.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#263"
+          ]
+        },
+        {
+          "texto": "El ensayo de la Coalición por el Evangelio ordena la interpretación en preguntas que van de lo cercano a lo amplio. En la observación pide evaluar cómo se relacionan palabras, frases, cláusulas y unidades de texto mayores, y luego trazar el argumento. En el contexto pregunta por el histórico y por el literario, que define como el papel que el pasaje desempeña en todo el libro. Un artículo de Crossway sobre estudio inductivo coincide: conviene estudiar libros enteros para ver cómo cada versículo, párrafo y capítulo se apoya en los otros y aporta al mensaje del autor.",
+          "fuentes": [
+            "web_cpe_interpretacion#6",
+            "web_crossway_inductivo#1"
+          ]
+        }
       ],
-      "destacado": {"texto": "Leer en contexto es hacerle a cada palabra una pregunta: ¿dónde estás? ¿En qué frase, en qué párrafo, en qué libro?", "fuentes": ["la_predicacion_como__macarthur#263", "web_cpe_interpretacion#6"]}
+      "destacado": {
+        "texto": "Leer en contexto es hacerle a cada palabra una pregunta: ¿dónde estás? ¿En qué frase, en qué párrafo, en qué libro?",
+        "fuentes": [
+          "la_predicacion_como__macarthur#263",
+          "web_cpe_interpretacion#6"
+        ]
+      }
     },
     {
       "titulo": "Los cortes de tu Biblia no siempre cortan donde el autor cortó",
       "parrafos": [
-        {"texto": "Según el manual, el primer paso es fijar los límites del contexto, y eso se hace estudiando la sintaxis y dónde empieza y termina una sección. Las divisiones de capítulos y versículos de las Biblias griegas, hebreas y castellanas no sirven para eso, porque no son confiables. Da dos ejemplos: en 2 Corintios 7:1 la división del capítulo suele ocultar la conexión entre 6:11-13 y 7:2-4, y el párrafo nuevo que muchos textos marcan en Santiago 1:12 ha llevado a malentender el conjunto de 1:2-12, porque el versículo 12 funciona como conclusión de lo anterior.", "fuentes": ["la_predicacion_como__macarthur#264"]},
-        {"texto": "Otro caso es Gálatas 6:1-10. La división del capítulo y la separación de párrafos que corta los versículos 6-10 de los cinco primeros hacen perder de vista que el pensamiento que unifica todo es el versículo 10: «hagamos bien a todos, y mayormente a los de la familia de la fe». Y en Hebreos, dice el manual, la división entre los capítulos 10 y 11 es una interrupción del pensamiento: el sentido de Hebreos 11 fluye de lo que viene desde 10:35-39.", "fuentes": ["la_predicacion_como__macarthur#268", "la_predicacion_como__macarthur#270"]}
+        {
+          "texto": "Según el manual, el primer paso es fijar los límites del contexto, y eso se hace estudiando la sintaxis y dónde empieza y termina una sección. Las divisiones de capítulos y versículos de las Biblias griegas, hebreas y castellanas no sirven para eso, porque no son confiables. Da dos ejemplos: en 2 Corintios 7:1 la división del capítulo suele ocultar la conexión entre 6:11-13 y 7:2-4, y el párrafo nuevo que muchos textos marcan en Santiago 1:12 ha llevado a malentender el conjunto de 1:2-12, porque el versículo 12 funciona como conclusión de lo anterior.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#264"
+          ]
+        },
+        {
+          "texto": "Otro caso es Gálatas 6:1-10. La división del capítulo y la separación de párrafos que corta los versículos 6-10 de los cinco primeros hacen perder de vista que el pensamiento que unifica todo es el versículo 10: «hagamos bien a todos, y mayormente a los de la familia de la fe». Y en Hebreos, dice el manual, la división entre los capítulos 10 y 11 es una interrupción del pensamiento: el sentido de Hebreos 11 fluye de lo que viene desde 10:35-39.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#268",
+            "la_predicacion_como__macarthur#270"
+          ]
+        }
       ],
-      "destacado": {"texto": "Antes de interpretar, mirá más allá del número del capítulo: preguntate dónde empieza y dónde termina de verdad el pensamiento.", "fuentes": ["la_predicacion_como__macarthur#264"]}
+      "destacado": {
+        "texto": "Antes de interpretar, mirá más allá del número del capítulo: preguntate dónde empieza y dónde termina de verdad el pensamiento.",
+        "fuentes": [
+          "la_predicacion_como__macarthur#264"
+        ]
+      }
     },
     {
       "titulo": "Las palabritas que llevan el argumento: los conectores",
       "parrafos": [
-        {"texto": "El artículo de Crossway pide leer atento al flujo de pensamiento del autor: palabras, cláusulas, oraciones y párrafos no son verdades sueltas sino que están enlazados en un orden lógico, y hay que distinguir las cláusulas principales de las de apoyo, mirando las conjunciones para ubicar el punto principal. Su lista, que traduzco: «y» une dos afirmaciones paralelas; «pero» introduce un contraste con lo anterior; «porque» da la razón de lo que precede; «por tanto» introduce una conclusión basada en lo anterior; «si» abre una condición; «como» compara; «para que» expresa un propósito.", "fuentes": ["web_crossway_inductivo#3"]},
-        {"texto": "El mismo artículo da un ejemplo con Filipenses: para saber por qué Pablo da gracias a Dios hay que mirar la conjunción que en el versículo 5 introduce la razón. En la RVR1960 esa función la cumple el «por» de «por vuestra comunión en el evangelio» (Filipenses 1:3-5). El manual agrega que el análisis completo identifica la proposición temática del párrafo, la relación de las demás oraciones con ella y la conexión del párrafo con otros párrafos.", "fuentes": ["web_crossway_inductivo#2", "biblia", "la_predicacion_como__macarthur#179"]}
+        {
+          "texto": "El artículo de Crossway pide leer atento al flujo de pensamiento del autor: palabras, cláusulas, oraciones y párrafos no son verdades sueltas sino que están enlazados en un orden lógico, y hay que distinguir las cláusulas principales de las de apoyo, mirando las conjunciones para ubicar el punto principal. Su lista, que traduzco: «y» une dos afirmaciones paralelas; «pero» introduce un contraste con lo anterior; «porque» da la razón de lo que precede; «por tanto» introduce una conclusión basada en lo anterior; «si» abre una condición; «como» compara; «para que» expresa un propósito.",
+          "fuentes": [
+            "web_crossway_inductivo#3"
+          ]
+        },
+        {
+          "texto": "El mismo artículo da un ejemplo con Filipenses: para saber por qué Pablo da gracias a Dios hay que mirar la conjunción que en el versículo 5 introduce la razón. En la RVR1960 esa función la cumple el «por» de «por vuestra comunión en el evangelio» (Filipenses 1:3-5). El manual agrega que el análisis completo identifica la proposición temática del párrafo, la relación de las demás oraciones con ella y la conexión del párrafo con otros párrafos.",
+          "fuentes": [
+            "web_crossway_inductivo#2",
+            "biblia",
+            "la_predicacion_como__macarthur#179"
+          ]
+        }
       ]
     },
     {
       "titulo": "Ejemplo trabajado 1: el «así que» de Romanos 12:1",
       "parrafos": [
-        {"texto": "Leé Romanos 11:33-36 y enseguida Romanos 12:1-2. El capítulo 11 termina con una alabanza a Dios por la profundidad de sus riquezas, y el 12 arranca con «Así que, hermanos, os ruego por las misericordias de Dios». Esa primera palabra manda al lector hacia atrás. El comentario Beacon (Greathouse, Metz y Carver) recoge una observación de Godet: el «así que» (en griego, oun) es el eslabón que conecta las dos partes de la carta. Las «misericordias de Dios» son, según el comentario, lo que ha llenado los primeros once capítulos; ahora empieza la parte práctica, que no es otro tema sino la respuesta: cita a Brunner, para quien esta instrucción brota de lo dicho antes sobre los tratos misericordiosos de Dios.", "fuentes": ["biblia", "comentario_biblico_beacon__greathouse#183"]},
-        {"texto": "Godet lee la conexión con la imagen de los sacrificios: en la primera parte Dios ofrece el sacrificio por el pecado (el comentario señala Romanos 3:25-26) y en la parte práctica el creyente responde con una consagración completa. Es una lectura de Godet, no un dato del texto, pero muestra cómo un conector puede organizar una carta. El comentario agrega que «os ruego» (parakaló) apela a un sentimiento que ya existe en el corazón, a diferencia de un mandato legal, y que «presentéis» está en un tiempo verbal que implica un acto, aunque la consagración sea también un proceso.", "fuentes": ["comentario_biblico_beacon__greathouse#183", "comentario_biblico_beacon__greathouse#184"]},
-        {"texto": "Lo que se presenta es el cuerpo, que el comentario entiende como la persona entera en acción, y es «sacrificio vivo», a diferencia de los animales muertos del Antiguo Testamento. Crisóstomo, citado ahí, lo baja a lo concreto: que el ojo no vea nada malo, que la lengua no diga nada vergonzoso, que la mano haga caridades. Después, el versículo 2 sigue con un «sino» que marca el contraste: «no os conforméis a este siglo, sino transformaos» (Romanos 12:2).", "fuentes": ["comentario_biblico_beacon__greathouse#185", "biblia"]}
+        {
+          "texto": "Leé Romanos 11:33-36 y enseguida Romanos 12:1-2. El capítulo 11 termina con una alabanza a Dios por la profundidad de sus riquezas, y el 12 arranca con «Así que, hermanos, os ruego por las misericordias de Dios». Esa primera palabra manda al lector hacia atrás. El comentario Beacon (Greathouse, Metz y Carver) recoge una observación de Godet: el «así que» (en griego, oun) es el eslabón que conecta las dos partes de la carta. Las «misericordias de Dios» son, según el comentario, lo que ha llenado los primeros once capítulos; ahora empieza la parte práctica, que no es otro tema sino la respuesta: cita a Brunner, para quien esta instrucción brota de lo dicho antes sobre los tratos misericordiosos de Dios.",
+          "fuentes": [
+            "biblia",
+            "comentario_biblico_beacon__greathouse#183"
+          ]
+        },
+        {
+          "texto": "Godet lee la conexión con la imagen de los sacrificios: en la primera parte Dios ofrece el sacrificio por el pecado (el comentario señala Romanos 3:25-26) y en la parte práctica el creyente responde con una consagración completa. Es una lectura de Godet, no un dato del texto, pero muestra cómo un conector puede organizar una carta. El comentario agrega que «os ruego» (parakaló) apela a un sentimiento que ya existe en el corazón, a diferencia de un mandato legal, y que «presentéis» está en un tiempo verbal que implica un acto, aunque la consagración sea también un proceso.",
+          "fuentes": [
+            "comentario_biblico_beacon__greathouse#183",
+            "comentario_biblico_beacon__greathouse#184"
+          ]
+        },
+        {
+          "texto": "Lo que se presenta es el cuerpo, que el comentario entiende como la persona entera en acción, y es «sacrificio vivo», a diferencia de los animales muertos del Antiguo Testamento. Crisóstomo, citado ahí, lo baja a lo concreto: que el ojo no vea nada malo, que la lengua no diga nada vergonzoso, que la mano haga caridades. Después, el versículo 2 sigue con un «sino» que marca el contraste: «no os conforméis a este siglo, sino transformaos» (Romanos 12:2).",
+          "fuentes": [
+            "comentario_biblico_beacon__greathouse#185",
+            "biblia"
+          ]
+        }
       ],
-      "destacado": {"texto": "Un «así que» es una bisagra: apoya lo que sigue en todo lo que vino antes. Si no sabés qué vino antes, no sabés qué te pide el texto.", "fuentes": ["comentario_biblico_beacon__greathouse#183"]}
+      "destacado": {
+        "texto": "Un «así que» es una bisagra: apoya lo que sigue en todo lo que vino antes. Si no sabés qué vino antes, no sabés qué te pide el texto.",
+        "fuentes": [
+          "comentario_biblico_beacon__greathouse#183"
+        ]
+      }
     },
     {
       "titulo": "Ejemplo trabajado 2: Efesios 2:1-10 y el giro «Pero Dios»",
       "parrafos": [
-        {"texto": "Primero, ubicar el párrafo en el libro. MacArthur observa que Efesios 2:1-10 se apoya en el pensamiento de 1:19, donde Pablo introduce el gran poder de Cristo hacia los que creen; ahora muestra ese mismo poder en nuestra salvación. Por eso el párrafo habla de dar vida y de resucitar.", "fuentes": ["efesios_comentario_macarthur__macarthur#71"]},
-        {"texto": "El eje es un giro. Según Stott, el versículo 4 comienza con un contundente giro adversativo, «Pero Dios», que enfrenta la desesperada condición de la humanidad caída (Efesios 2:1-3) con la iniciativa gratuita y la acción soberana de Dios. MacArthur lo ve igual: esas dos palabras muestran quién tuvo la iniciativa. Tras el giro, Stott destaca tres verbos con el prefijo griego syn («junto con»): Dios nos dio vida con Cristo (v. 5), nos resucitó y nos hizo sentar en los lugares celestiales (v. 6). Además, «por gracia sois salvos» aparece en los versículos 5 y 8, y Stott recuerda que algunos comentaristas ven en los versículos 4-10 una especie de himno con esa aclamación dos veces.", "fuentes": ["el_mensaje_de__stott#62", "efesios_comentario_macarthur__macarthur#78", "el_mensaje_de__stott#63"]},
-        {"texto": "Para el motivo de Dios, Pablo junta cuatro palabras, según Stott: misericordia, amor, gracia y bondad (vv. 4-8). Y los versículos 8-10 avanzan con conectores. Un «Porque» abre la explicación (por gracia sois salvos, por medio de la fe); dos negaciones («no de vosotros», «no por obras») cierran la puerta al mérito, con el propósito de «para que nadie se gloríe». Otro «Porque», en el versículo 10, abre la afirmación de que somos hechura suya, «creados en Cristo Jesús para buenas obras». Stott subraya que la salvación queda descrita como creación: los muertos no se reaniman solos.", "fuentes": ["el_mensaje_de__stott#64", "el_mensaje_de__stott#65", "el_mensaje_de__stott#66", "el_mensaje_de__stott#67", "biblia"]},
-        {"texto": "El final vuelve al principio. Stott nota que el párrafo termina como comenzó, con nuestro «andar», una frase idiomática hebrea para el modo de vivir: en el versículo 2 se andaba en delitos y pecados, y en el 10 se anda en buenas obras que Dios preparó de antemano. Entre un andar y otro está «Pero Dios». De ahí saca una conclusión que solo se ve al leer el párrafo completo: las buenas obras no son el fundamento ni el medio de la salvación, sino su consecuencia y evidencia.", "fuentes": ["el_mensaje_de__stott#67"]},
-        {"texto": "MacArthur ordena el párrafo con otra rejilla: pasado, presente y futuro del cristiano, y seis aspectos de la salvación (del pecado, por amor, para entrar en la vida, con un propósito, por medio de la fe y para buenas obras).", "fuentes": ["efesios_comentario_macarthur__macarthur#71"]}
+        {
+          "texto": "Primero, ubicar el párrafo en el libro. MacArthur observa que Efesios 2:1-10 se apoya en el pensamiento de 1:19, donde Pablo introduce el gran poder de Cristo hacia los que creen; ahora muestra ese mismo poder en nuestra salvación. Por eso el párrafo habla de dar vida y de resucitar.",
+          "fuentes": [
+            "efesios_comentario_macarthur__macarthur#71"
+          ]
+        },
+        {
+          "texto": "El eje es un giro. Según Stott, el versículo 4 comienza con un contundente giro adversativo, «Pero Dios», que enfrenta la desesperada condición de la humanidad caída (Efesios 2:1-3) con la iniciativa gratuita y la acción soberana de Dios. MacArthur lo ve igual: esas dos palabras muestran quién tuvo la iniciativa. Tras el giro, Stott destaca tres verbos con el prefijo griego syn («junto con»): Dios nos dio vida con Cristo (v. 5), nos resucitó y nos hizo sentar en los lugares celestiales (v. 6). Además, «por gracia sois salvos» aparece en los versículos 5 y 8, y Stott recuerda que algunos comentaristas ven en los versículos 4-10 una especie de himno con esa aclamación dos veces.",
+          "fuentes": [
+            "el_mensaje_de__stott#62",
+            "efesios_comentario_macarthur__macarthur#78",
+            "el_mensaje_de__stott#63"
+          ]
+        },
+        {
+          "texto": "Para el motivo de Dios, Pablo junta cuatro palabras, según Stott: misericordia, amor, gracia y bondad (vv. 4-8). Y los versículos 8-10 avanzan con conectores. Un «Porque» abre la explicación (por gracia sois salvos, por medio de la fe); dos negaciones («no de vosotros», «no por obras») cierran la puerta al mérito, con el propósito de «para que nadie se gloríe». Otro «Porque», en el versículo 10, abre la afirmación de que somos hechura suya, «creados en Cristo Jesús para buenas obras». Stott subraya que la salvación queda descrita como creación: los muertos no se reaniman solos.",
+          "fuentes": [
+            "el_mensaje_de__stott#64",
+            "el_mensaje_de__stott#65",
+            "el_mensaje_de__stott#66",
+            "el_mensaje_de__stott#67",
+            "biblia"
+          ]
+        },
+        {
+          "texto": "El final vuelve al principio. Stott nota que el párrafo termina como comenzó, con nuestro «andar», una frase idiomática hebrea para el modo de vivir: en el versículo 2 se andaba en delitos y pecados, y en el 10 se anda en buenas obras que Dios preparó de antemano. Entre un andar y otro está «Pero Dios». De ahí saca una conclusión que solo se ve al leer el párrafo completo: las buenas obras no son el fundamento ni el medio de la salvación, sino su consecuencia y evidencia.",
+          "fuentes": [
+            "el_mensaje_de__stott#67"
+          ]
+        },
+        {
+          "texto": "MacArthur ordena el párrafo con otra rejilla: pasado, presente y futuro del cristiano, y seis aspectos de la salvación (del pecado, por amor, para entrar en la vida, con un propósito, por medio de la fe y para buenas obras).",
+          "fuentes": [
+            "efesios_comentario_macarthur__macarthur#71"
+          ]
+        }
       ],
-      "destacado": {"texto": "En Efesios 2:1-10 el argumento entero cuelga de dos pequeñas expresiones: «Pero Dios» y «por gracia».", "fuentes": ["el_mensaje_de__stott#67"]}
+      "destacado": {
+        "texto": "En Efesios 2:1-10 el argumento entero cuelga de dos pequeñas expresiones: «Pero Dios» y «por gracia».",
+        "fuentes": [
+          "el_mensaje_de__stott#67"
+        ]
+      }
     },
     {
       "titulo": "Paralelismo, quiasmo, marcos y repeticiones: la forma también habla",
       "parrafos": [
-        {"texto": "El manual dice que la forma también es parte del texto. En la narrativa del Antiguo Testamento, la organización en patrones da un marco unificador que señala los límites del relato, y a veces una simetría premeditada, como el quiasma o «X»: episodios que se corresponden en orden inverso alrededor de un centro. La página no da un ejemplo bíblico concreto, así que no vamos a inventarlo. El paralelismo, en cambio, lo ilustra con Juan 3:6: dos afirmaciones relacionadas, una opuesta a la otra, en torno al contraste entre carne y espíritu, cuya simetría llega a la gramática de cada mitad y da base para dividir el texto en dos puntos.", "fuentes": ["la_predicacion_como__macarthur#323", "la_predicacion_como__macarthur#185"]},
-        {"texto": "Otro patrón es el «emparedado»: la idea central está en medio, entre dos afirmaciones parecidas. El manual lo ve en 1 Corintios 12:31 hasta 14:1: el mandato «procurad» se repite al comienzo y al final, y en medio está el camino más excelente, el amor del capítulo 13. Es la misma idea de un marco que abre y cierra que Stott describe en Efesios 2, cuando el párrafo termina como comenzó.", "fuentes": ["la_predicacion_como__macarthur#269", "la_predicacion_como__macarthur#270", "el_mensaje_de__stott#67"]},
-        {"texto": "La repetición es la señal más simple. Crossway recomienda marcar con colores las palabras y temas que se repiten en un libro: así leemos más despacio y apreciamos el énfasis del autor. En Efesios 2:1-10 se ve «por gracia sois salvos» en los versículos 5 y 8, «en Cristo Jesús» en el 6, el 7 y el 10, y el «andar» del 2 y del 10. Una cautela de la Declaración de Chicago: el sentido literal incluye las figuras de lenguaje y las formas literarias, y no se le atribuye a la Escritura un sentido que no sustente.", "fuentes": ["web_crossway_inductivo#3", "biblia", "web_chicago_hermeneutica#3"]}
+        {
+          "texto": "El manual dice que la forma también es parte del texto. En la narrativa del Antiguo Testamento, la organización en patrones da un marco unificador que señala los límites del relato, y a veces una simetría premeditada, como el quiasma o «X»: episodios que se corresponden en orden inverso alrededor de un centro. La página no da un ejemplo bíblico concreto, así que no vamos a inventarlo. El paralelismo, en cambio, lo ilustra con Juan 3:6: dos afirmaciones relacionadas, una opuesta a la otra, en torno al contraste entre carne y espíritu, cuya simetría llega a la gramática de cada mitad y da base para dividir el texto en dos puntos.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#323",
+            "la_predicacion_como__macarthur#185"
+          ]
+        },
+        {
+          "texto": "Otro patrón es el «emparedado»: la idea central está en medio, entre dos afirmaciones parecidas. El manual lo ve en 1 Corintios 12:31 hasta 14:1: el mandato «procurad» se repite al comienzo y al final, y en medio está el camino más excelente, el amor del capítulo 13. Es la misma idea de un marco que abre y cierra que Stott describe en Efesios 2, cuando el párrafo termina como comenzó.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#269",
+            "la_predicacion_como__macarthur#270",
+            "el_mensaje_de__stott#67"
+          ]
+        },
+        {
+          "texto": "La repetición es la señal más simple. Crossway recomienda marcar con colores las palabras y temas que se repiten en un libro: así leemos más despacio y apreciamos el énfasis del autor. En Efesios 2:1-10 se ve «por gracia sois salvos» en los versículos 5 y 8, «en Cristo Jesús» en el 6, el 7 y el 10, y el «andar» del 2 y del 10. Una cautela de la Declaración de Chicago: el sentido literal incluye las figuras de lenguaje y las formas literarias, y no se le atribuye a la Escritura un sentido que no sustente.",
+          "fuentes": [
+            "web_crossway_inductivo#3",
+            "biblia",
+            "web_chicago_hermeneutica#3"
+          ]
+        }
       ]
     },
     {
       "titulo": "Cómo reconocer la idea central de un párrafo",
       "parrafos": [
-        {"texto": "El manual insiste en que la tarea no es crear un tema, sino encontrar el del autor y construir el mensaje alrededor de él. Advierte que en los escritos normales el pensamiento principal de un párrafo no siempre está en la primera oración; a veces se encuentra en una declaración puntual, y otras veces solo el contexto amplio, hasta el libro entero, lo revela. Ejemplos: en 1 Timoteo 4:6-16 está en el versículo 16, «Ten cuidado de ti mismo y de la doctrina»; en Zacarías 4:1-14, en el versículo 6, «No con ejército, ni con fuerza, sino con mi Espíritu»; en Mateo 5-7, en 5:20, y lo que sigue muestra cómo la justicia de los discípulos debe superar la de escribas y fariseos.", "fuentes": ["la_predicacion_como__macarthur#267", "la_predicacion_como__macarthur#268", "la_predicacion_como__macarthur#269"]},
-        {"texto": "Con estas fuentes se puede armar un orden de trabajo (es una síntesis mía, no el método de un solo autor): fijar los límites del párrafo sin fiarte de los cortes de tu Biblia; marcar conectores y repeticiones; distinguir cláusulas principales y de apoyo; decir con tus palabras el punto principal y comprobar que el resto lo sostiene; ubicarlo en el libro. Recién entonces viene la aplicación, que Crossway resume en tres verbos: mirar (¿qué dice?), aprender (¿qué significa?) y vivir (¿cómo debo responder?).", "fuentes": ["la_predicacion_como__macarthur#264", "web_cpe_interpretacion#6", "web_crossway_inductivo#1", "web_crossway_inductivo#3"]}
+        {
+          "texto": "El manual insiste en que la tarea no es crear un tema, sino encontrar el del autor y construir el mensaje alrededor de él. Advierte que en los escritos normales el pensamiento principal de un párrafo no siempre está en la primera oración; a veces se encuentra en una declaración puntual, y otras veces solo el contexto amplio, hasta el libro entero, lo revela. Ejemplos: en 1 Timoteo 4:6-16 está en el versículo 16, «Ten cuidado de ti mismo y de la doctrina»; en Zacarías 4:1-14, en el versículo 6, «No con ejército, ni con fuerza, sino con mi Espíritu»; en Mateo 5-7, en 5:20, y lo que sigue muestra cómo la justicia de los discípulos debe superar la de escribas y fariseos.",
+          "fuentes": [
+            "la_predicacion_como__macarthur#267",
+            "la_predicacion_como__macarthur#268",
+            "la_predicacion_como__macarthur#269"
+          ]
+        },
+        {
+          "texto": "Con estas fuentes se puede armar un orden de trabajo (es una síntesis mía, no el método de un solo autor): fijar los límites del párrafo sin fiarte de los cortes de tu Biblia; marcar conectores y repeticiones; distinguir cláusulas principales y de apoyo; decir con tus palabras el punto principal y comprobar que el resto lo sostiene; ubicarlo en el libro. Recién entonces viene la aplicación, que Crossway resume en tres verbos: mirar (¿qué dice?), aprender (¿qué significa?) y vivir (¿cómo debo responder?).",
+          "fuentes": [
+            "la_predicacion_como__macarthur#264",
+            "web_cpe_interpretacion#6",
+            "web_crossway_inductivo#1",
+            "web_crossway_inductivo#3"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "La sintaxis y la estructura de un pasaje yacen en el corazón mismo de la verdadera predicación expositiva.", "autor": "The Master's Seminary (ed. John MacArthur)", "obra": "La predicación: cómo predicar bíblicamente", "fuentes": ["la_predicacion_como__macarthur#263"]},
-    {"texto": "Las buenas obras son indispensables para la salvación, pero no como su fundamento o como un medio, sino como su consecuencia y evidencia.", "autor": "John R. W. Stott", "obra": "El mensaje de Efesios", "fuentes": ["el_mensaje_de__stott#67"]}
+    {
+      "texto": "La sintaxis y la estructura de un pasaje yacen en el corazón mismo de la verdadera predicación expositiva.",
+      "autor": "The Master's Seminary (ed. John MacArthur)",
+      "obra": "La predicación: cómo predicar bíblicamente",
+      "fuentes": [
+        "la_predicacion_como__macarthur#263"
+      ]
+    },
+    {
+      "texto": "Las buenas obras son indispensables para la salvación, pero no como su fundamento o como un medio, sino como su consecuencia y evidencia.",
+      "autor": "John R. W. Stott",
+      "obra": "El mensaje de Efesios",
+      "fuentes": [
+        "el_mensaje_de__stott#67"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "οὖν", "translit": "oun", "idioma": "griego", "ref": "Ro 12:1", "significado": "«Así que», «por lo tanto». El comentario Beacon, siguiendo a Godet, lo presenta como el eslabón entre las dos partes de la carta.", "fuentes": ["comentario_biblico_beacon__greathouse#183"]},
-    {"original": "ποίημα", "translit": "poíema", "idioma": "griego", "ref": "Ef 2:10", "significado": "«Hechura», «obra maestra». Stott lo une a «creados» para mostrar que la salvación es una nueva creación de Dios.", "fuentes": ["el_mensaje_de__stott#66", "el_mensaje_de__stott#67"]}
+    {
+      "original": "οὖν",
+      "translit": "oun",
+      "idioma": "griego",
+      "ref": "Ro 12:1",
+      "significado": "«Así que», «por lo tanto». El comentario Beacon, siguiendo a Godet, lo presenta como el eslabón entre las dos partes de la carta.",
+      "fuentes": [
+        "comentario_biblico_beacon__greathouse#183"
+      ]
+    },
+    {
+      "original": "ποίημα",
+      "translit": "poíema",
+      "idioma": "griego",
+      "ref": "Ef 2:10",
+      "significado": "«Hechura», «obra maestra». Stott lo une a «creados» para mostrar que la salvación es una nueva creación de Dios.",
+      "fuentes": [
+        "el_mensaje_de__stott#66",
+        "el_mensaje_de__stott#67"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Efesios 2 está «con Cristo» y «en Cristo Jesús». Lo dice el texto: Dios nos dio vida, nos resucitó y nos sentó con él en los lugares celestiales. Stott lo relaciona con la resurrección, la ascensión y la sesión de Jesús.", "refs": ["Ef 2:5-6", "Ef 2:10"], "fuentes": ["el_mensaje_de__stott#63", "el_mensaje_de__stott#64"]},
-    {"texto": "Las misericordias de Romanos 12:1. Lo explícito es la apelación a ellas; la lectura de Godet que recoge el comentario ve ahí el sacrificio de expiación ofrecido por Dios en su Hijo, al que el creyente responde con consagración. La imagen de los sacrificios es su lectura, no una afirmación del texto de Pablo.", "refs": ["Ro 12:1", "Ro 3:25"], "fuentes": ["comentario_biblico_beacon__greathouse#183"]}
+    {
+      "texto": "Efesios 2 está «con Cristo» y «en Cristo Jesús». Lo dice el texto: Dios nos dio vida, nos resucitó y nos sentó con él en los lugares celestiales. Stott lo relaciona con la resurrección, la ascensión y la sesión de Jesús.",
+      "refs": [
+        "Ef 2:5-6",
+        "Ef 2:10"
+      ],
+      "fuentes": [
+        "el_mensaje_de__stott#63",
+        "el_mensaje_de__stott#64"
+      ]
+    },
+    {
+      "texto": "Las misericordias de Romanos 12:1. Lo explícito es la apelación a ellas; la lectura de Godet que recoge el comentario ve ahí el sacrificio de expiación ofrecido por Dios en su Hijo, al que el creyente responde con consagración. La imagen de los sacrificios es su lectura, no una afirmación del texto de Pablo.",
+      "refs": [
+        "Ro 12:1",
+        "Ro 3:25"
+      ],
+      "fuentes": [
+        "comentario_biblico_beacon__greathouse#183"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Cómo se organiza Efesios 2:1-10?",
       "posturas": [
-        {"postura": "Dos partes: la condición natural (vv. 1-3) y la compasión divina (vv. 4-10), con lo que Dios hizo y por qué lo hizo.", "quien": "Stott", "fuentes": ["el_mensaje_de__stott#62", "el_mensaje_de__stott#63", "el_mensaje_de__stott#64"]},
-        {"postura": "Pasado, presente y futuro, con seis aspectos de la salvación; el versículo 7 pertenece en parte al futuro.", "quien": "MacArthur", "fuentes": ["efesios_comentario_macarthur__macarthur#71"]}
+        {
+          "postura": "Dos partes: la condición natural (vv. 1-3) y la compasión divina (vv. 4-10), con lo que Dios hizo y por qué lo hizo.",
+          "quien": "Stott",
+          "fuentes": [
+            "el_mensaje_de__stott#62",
+            "el_mensaje_de__stott#63",
+            "el_mensaje_de__stott#64"
+          ]
+        },
+        {
+          "postura": "Pasado, presente y futuro, con seis aspectos de la salvación; el versículo 7 pertenece en parte al futuro.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "efesios_comentario_macarthur__macarthur#71"
+          ]
+        }
       ],
       "nota": "Las dos rejillas respetan el mismo texto y las mismas palabras clave; difieren en dónde ponen los cortes. Conviene preguntarle al texto cuál explica mejor sus conectores."
     },
     {
       "tema": "¿A qué se refiere «esto» en Efesios 2:8?",
       "posturas": [
-        {"postura": "Teológicamente es cierto que la fe salvadora es también don de Dios, pero «esto» es neutro y «fe» es femenino; Pablo se refiere a toda la formulación anterior, la salvación por gracia mediante la fe.", "quien": "Stott", "fuentes": ["el_mensaje_de__stott#66"]},
-        {"postura": "Lo aplica a la fe: nuestra respuesta es la fe, pero ni siquiera esto es nuestro, pues es don de Dios.", "quien": "MacArthur", "fuentes": ["efesios_comentario_macarthur__macarthur#81"]}
+        {
+          "postura": "Teológicamente es cierto que la fe salvadora es también don de Dios, pero «esto» es neutro y «fe» es femenino; Pablo se refiere a toda la formulación anterior, la salvación por gracia mediante la fe.",
+          "quien": "Stott",
+          "fuentes": [
+            "el_mensaje_de__stott#66"
+          ]
+        },
+        {
+          "postura": "Lo aplica a la fe: nuestra respuesta es la fe, pero ni siquiera esto es nuestro, pues es don de Dios.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "efesios_comentario_macarthur__macarthur#81"
+          ]
+        }
       ],
       "nota": "Solo aparecen estas dos voces, que coinciden en que la fe es don de Dios y difieren en si este versículo lo dice. No se describe qué sostienen otros autores."
     },
     {
       "tema": "¿Cuánta estructura hay que esperar de un pasaje?",
       "posturas": [
-        {"postura": "Sobre la parte práctica de Romanos, cualquier intento de bosquejarla de manera muy rígida o lógica es inútil.", "quien": "Comentario Beacon (Greathouse, Metz y Carver)", "fuentes": ["comentario_biblico_beacon__greathouse#183"]},
-        {"postura": "La estructura o el flujo de cada pasaje es de máxima importancia y hay que hallar el bosquejo del propio autor bíblico.", "quien": "Manual de The Master's Seminary", "fuentes": ["la_predicacion_como__macarthur#263", "la_predicacion_como__macarthur#264"]}
+        {
+          "postura": "Sobre la parte práctica de Romanos, cualquier intento de bosquejarla de manera muy rígida o lógica es inútil.",
+          "quien": "Comentario Beacon (Greathouse, Metz y Carver)",
+          "fuentes": [
+            "comentario_biblico_beacon__greathouse#183"
+          ]
+        },
+        {
+          "postura": "La estructura o el flujo de cada pasaje es de máxima importancia y hay que hallar el bosquejo del propio autor bíblico.",
+          "quien": "Manual de The Master's Seminary",
+          "fuentes": [
+            "la_predicacion_como__macarthur#263",
+            "la_predicacion_como__macarthur#264"
+          ]
+        }
       ],
       "nota": "No son opuestas del todo: hablan de secciones de géneros distintos (consejos prácticos frente a argumento). La estructura se descubre en el texto, no se le impone."
     }
   ],
   "conexiones": [
-    {"ref": "Ef 1:19", "nota": "MacArthur apoya aquí el comienzo de Efesios 2:1-10.", "fuentes": ["efesios_comentario_macarthur__macarthur#71"]},
-    {"ref": "Ro 11:36", "nota": "MacArthur lo cita, justo antes del «así que» de Romanos 12:1, para mostrar que la salvación es para la gloria de Dios.", "fuentes": ["efesios_comentario_macarthur__macarthur#78"]},
-    {"ref": "Ro 6:13", "nota": "El verbo «presentar» de Romanos 12:1 ya aparece aquí: poner el cuerpo a disposición de Dios o del pecado.", "fuentes": ["comentario_biblico_beacon__greathouse#184"]},
-    {"ref": "Stg 1:12", "nota": "Un párrafo nuevo marcado aquí oculta, según el manual, que el versículo concluye lo anterior.", "fuentes": ["la_predicacion_como__macarthur#264"]}
+    {
+      "ref": "Ef 1:19",
+      "nota": "MacArthur apoya aquí el comienzo de Efesios 2:1-10.",
+      "fuentes": [
+        "efesios_comentario_macarthur__macarthur#71"
+      ]
+    },
+    {
+      "ref": "Ro 11:36",
+      "nota": "MacArthur lo cita, justo antes del «así que» de Romanos 12:1, para mostrar que la salvación es para la gloria de Dios.",
+      "fuentes": [
+        "efesios_comentario_macarthur__macarthur#78"
+      ]
+    },
+    {
+      "ref": "Ro 6:13",
+      "nota": "El verbo «presentar» de Romanos 12:1 ya aparece aquí: poner el cuerpo a disposición de Dios o del pecado.",
+      "fuentes": [
+        "comentario_biblico_beacon__greathouse#184"
+      ]
+    },
+    {
+      "ref": "Stg 1:12",
+      "nota": "Un párrafo nuevo marcado aquí oculta, según el manual, que el versículo concluye lo anterior.",
+      "fuentes": [
+        "la_predicacion_como__macarthur#264"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Antes de sacar una enseñanza de un versículo, leé el párrafo entero y el anterior: ¿qué dice el autor antes y qué después?", "fuentes": ["la_predicacion_como__macarthur#263", "la_predicacion_como__macarthur#264"]},
-    {"texto": "Subrayá los conectores de un pasaje que conozcas (así que, pero, porque, para que) y anotá qué relación marca cada uno.", "fuentes": ["web_crossway_inductivo#3"]},
-    {"texto": "Estudiá por libros enteros y con un plan; con uno corto, como Filemón o 3 Juan, Crossway sugiere que podés recorrer el proceso en un día.", "fuentes": ["web_crossway_inductivo#1"]}
+    {
+      "texto": "Antes de sacar una enseñanza de un versículo, leé el párrafo entero y el anterior: ¿qué dice el autor antes y qué después?",
+      "fuentes": [
+        "la_predicacion_como__macarthur#263",
+        "la_predicacion_como__macarthur#264"
+      ]
+    },
+    {
+      "texto": "Subrayá los conectores de un pasaje que conozcas (así que, pero, porque, para que) y anotá qué relación marca cada uno.",
+      "fuentes": [
+        "web_crossway_inductivo#3"
+      ]
+    },
+    {
+      "texto": "Estudiá por libros enteros y con un plan; con uno corto, como Filemón o 3 Juan, Crossway sugiere que podés recorrer el proceso en un día.",
+      "fuentes": [
+        "web_crossway_inductivo#1"
+      ]
+    }
   ],
   "para_reflexionar": [
     "¿Hay algún versículo que hayas usado por años sin leer lo que viene antes y después? ¿Qué pasa cuando lo leés con su párrafo?",
     "Romanos 12:1 empieza con «así que»: pide una respuesta a las misericordias de Dios. ¿Qué lugar tiene en tu vida la gratitud por lo que Dios hizo, antes de la pregunta por lo que tenés que hacer?",
     "En Efesios 2, el giro «Pero Dios» separa lo que éramos de lo que somos. ¿Dónde sentís que tu historia necesita escuchar todavía ese «pero»?"
   ],
-  "para_orar": "Señor, gracias por hablarnos en párrafos y no en frases sueltas, por darnos un hilo que seguir. Enseñame a leer con paciencia, a fijarme en los «así que» y los «pero», y a no cortar tu Palabra donde me conviene. Que lo que entienda en el texto se convierta en una entrega agradecida a vos. Amén.",
   "profundizar": [
-    {"titulo": "Las preguntas que el ensayo de la Coalición le hace al autor bíblico", "texto": "El ensayo ordena la interpretación en observación, contexto, significado y aplicación, y lo resume en dos preguntas al autor: «¿Qué estás diciendo?» (gramática, crítica textual y traducción) y «¿Por qué lo dices así?» (género, estructura, argumento y contexto).", "fuentes": ["web_cpe_interpretacion#6"]}
+    {
+      "titulo": "Las preguntas que el ensayo de la Coalición le hace al autor bíblico",
+      "texto": "El ensayo ordena la interpretación en observación, contexto, significado y aplicación, y lo resume en dos preguntas al autor: «¿Qué estás diciendo?» (gramática, crítica textual y traducción) y «¿Por qué lo dices así?» (género, estructura, argumento y contexto).",
+      "fuentes": [
+        "web_cpe_interpretacion#6"
+      ]
+    }
   ]
 }

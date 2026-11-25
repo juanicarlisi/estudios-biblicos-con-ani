@@ -2,125 +2,448 @@
   "dia": 40,
   "titulo": "Cómo usar un léxico y los números de Strong sin ser experto",
   "bajada": "Concordancias, interlineales, diccionarios y léxicos: qué es cada herramienta, cómo se llega desde una Biblia en español a la palabra original, qué dice (y qué no dice) una entrada, y cómo evitar los errores más comunes.",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Juan 21:15-19", "porque": "Leelo en dos versiones. Jesús le pregunta tres veces a Pedro si lo ama; al comparar cómo cada traducción pone las palabras, vas a ver en acción el trabajo que hoy aprendemos a hacer."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Juan 21:15-19",
+    "porque": "Leelo en dos versiones. Jesús le pregunta tres veces a Pedro si lo ama; al comparar cómo cada traducción pone las palabras, vas a ver en acción el trabajo que hoy aprendemos a hacer."
+  },
   "versiculos": [
-    {"ref": "2 Timoteo 2:15", "porque": "Pablo anima a Timoteo a usar bien la palabra de verdad: estudiar con cuidado es parte de servir a Dios."},
-    {"ref": "Salmo 119:18", "porque": "Antes de cualquier herramienta, la oración: pedirle a Dios que abra los ojos para ver lo que su ley tiene de maravilloso."}
+    {
+      "ref": "2 Timoteo 2:15",
+      "porque": "Pablo anima a Timoteo a usar bien la palabra de verdad: estudiar con cuidado es parte de servir a Dios."
+    },
+    {
+      "ref": "Salmo 119:18",
+      "porque": "Antes de cualquier herramienta, la oración: pedirle a Dios que abra los ojos para ver lo que su ley tiene de maravilloso."
+    }
   ],
   "entrada": {
     "texto": "Tarde o temprano alguien te dice «en el original dice...» y la frase cae como una llave maestra. Hoy aprendés a usar las herramientas que hay detrás de esa frase (concordancias, interlineales, diccionarios, léxicos, números de Strong) sin saber hebreo ni griego, y también a reconocer cuándo no hay que hacerles caso.\n\nUn artículo de Logos cuenta que un amigo encuestó a su iglesia, entre miembros y pastores, sobre qué recursos de estudio usaban, y todos nombraron la Concordancia de Strong; muchos no nombraron nada más. Es la herramienta más popular y, según ese mismo artículo, una de las que más se usan mal.",
-    "fuentes": ["web_logos_strong#1", "web_logos_strong#4"]
+    "fuentes": [
+      "web_logos_strong#1",
+      "web_logos_strong#4"
+    ]
   },
   "apartados": [
     {
       "titulo": "Concordancia, interlineal, diccionario, léxico: no son lo mismo",
       "parrafos": [
-        {"texto": "Según el artículo de Logos, una concordancia es simplemente la lista alfabética de todas las palabras de un libro. La de Strong, cuya portada original es de 1890, lista las palabras de la versión King James inglesa y solo de los libros del canon protestante. Sirve, ante todo, para encontrar pasajes a partir de una palabra clave. Junto a cada referencia aparece además un número, que remite a la palabra hebrea o griega que los traductores tradujeron en ese lugar y lleva a un diccionario breve al final del volumen. Hoy, cuando alguien dice que «usa Strong», el autor supone que se refiere a ese diccionario.", "fuentes": ["web_logos_strong#1"]},
-        {"texto": "Un léxico es, dice el mismo artículo, el término académico para un diccionario. Para el griego del Nuevo Testamento el principal es el BDAG; para el hebreo del Antiguo, los estándares son el HALOT, su versión concisa CHALOT y el BDB. BibleProject advierte que los diccionarios estándar de las lenguas bíblicas dan por sentado que el lector las conoce, y para quien no las sabe recomienda el Lexham Theological Wordbook, solo en formato digital dentro de Logos.", "fuentes": ["web_logos_strong#5", "web_bibleproject_arte_palabras_biblicas#10"]},
-        {"texto": "Falta una pieza, el interlineal. Según Katherine Alvarado de Estrada, de la Coalición por el Evangelio, los interlineales son puentes entre dos idiomas: presentan una traducción literal, palabra por palabra, del griego al español, y algunos suman un pequeño análisis gramatical de cada término. Es lo que te lleva desde tu Biblia en español hasta la palabra original.", "fuentes": ["web_cpe_griego_estudio_biblico#3"]}
+        {
+          "texto": "Según el artículo de Logos, una concordancia es simplemente la lista alfabética de todas las palabras de un libro. La de Strong, cuya portada original es de 1890, lista las palabras de la versión King James inglesa y solo de los libros del canon protestante. Sirve, ante todo, para encontrar pasajes a partir de una palabra clave. Junto a cada referencia aparece además un número, que remite a la palabra hebrea o griega que los traductores tradujeron en ese lugar y lleva a un diccionario breve al final del volumen. Hoy, cuando alguien dice que «usa Strong», el autor supone que se refiere a ese diccionario.",
+          "fuentes": [
+            "web_logos_strong#1"
+          ]
+        },
+        {
+          "texto": "Un léxico es, dice el mismo artículo, el término académico para un diccionario. Para el griego del Nuevo Testamento el principal es el BDAG; para el hebreo del Antiguo, los estándares son el HALOT, su versión concisa CHALOT y el BDB. BibleProject advierte que los diccionarios estándar de las lenguas bíblicas dan por sentado que el lector las conoce, y para quien no las sabe recomienda el Lexham Theological Wordbook, solo en formato digital dentro de Logos.",
+          "fuentes": [
+            "web_logos_strong#5",
+            "web_bibleproject_arte_palabras_biblicas#10"
+          ]
+        },
+        {
+          "texto": "Falta una pieza, el interlineal. Según Katherine Alvarado de Estrada, de la Coalición por el Evangelio, los interlineales son puentes entre dos idiomas: presentan una traducción literal, palabra por palabra, del griego al español, y algunos suman un pequeño análisis gramatical de cada término. Es lo que te lleva desde tu Biblia en español hasta la palabra original.",
+          "fuentes": [
+            "web_cpe_griego_estudio_biblico#3"
+          ]
+        }
       ],
-      "destacado": {"texto": "La concordancia te dice dónde aparece una palabra; el interlineal, qué palabra original hay detrás; el diccionario o léxico, qué significa. Ninguna reemplaza al contexto.", "fuentes": ["web_logos_strong#1", "web_cpe_griego_estudio_biblico#3", "web_logos_strong#3"]}
+      "destacado": {
+        "texto": "La concordancia te dice dónde aparece una palabra; el interlineal, qué palabra original hay detrás; el diccionario o léxico, qué significa. Ninguna reemplaza al contexto.",
+        "fuentes": [
+          "web_logos_strong#1",
+          "web_cpe_griego_estudio_biblico#3",
+          "web_logos_strong#3"
+        ]
+      }
     },
     {
       "titulo": "Cómo se lee una entrada de Strong, y qué no dice",
       "parrafos": [
-        {"texto": "Sigamos el ejemplo del artículo. En la versión King James, el verbo que aparece en Gálatas 5:1 con el sentido de «hacer libre» figura en la concordancia con el número 1659. Ese número indica el lugar de esa palabra griega en la lista alfabética de las palabras griegas del Nuevo Testamento, y con él se encuentra su entrada en el diccionario.", "fuentes": ["web_logos_strong#1"]},
-        {"texto": "La entrada trae el número; la palabra en letras griegas, ἐλευθερόω, con transliteraciones que ayudan a pronunciarla; la etimología, que remite a la entrada anterior; una definición brevísima, que habla de liberar y, en sentido figurado, de eximir de una ceremonia moral o de una responsabilidad mortal; y al final las glosas. Las glosas no son definiciones: son las palabras con que los traductores del King James vertieron el verbo, una vez como «librar» (Romanos 8:21) y en los otros seis lugares como «hacer libre».", "fuentes": ["web_logos_strong#2"]},
-        {"texto": "Lo que no dice. En Gálatas 5:1 Pablo habla de la libertad que Cristo dio frente a ciertas exigencias del antiguo pacto, como la circuncisión y las leyes sobre alimentos; eso lo sabés por el contexto, no por el número. El mismo número reaparece en Juan 8:32: si cargaras ahí la idea de «eximir de ceremonia», leerías mal, porque el contexto aclara de qué libra la verdad, de la esclavitud del pecado (Juan 8:34). En todos los casos, dice el artículo, el contexto especifica de qué se libera la gente.", "fuentes": ["web_logos_strong#3", "web_logos_strong#4", "biblia"]},
-        {"texto": "De ahí las advertencias del autor: no pienses que descubriste «el verdadero significado» de la palabra, ni que solo quienes saben hebreo y griego entienden lo que la Biblia dice de verdad. Su balance es duro: la mayoría de las «perlas» que ve sacar de Strong son erróneas, no heréticas pero sí lingüística y hermenéuticamente equivocadas. Aconseja, además, saltearse las etimologías: la historia de una palabra no es guía segura de su sentido actual, y como prueba cuenta que un espectador le dijo que proskuneo («adorar») significaba originalmente algo como un perro que lame la mano de su amo, porque eso decía el diccionario de Strong. Lo califica de casi seguro falso y, aun si fuera cierto, irrelevante para el Nuevo Testamento.", "fuentes": ["web_logos_strong#3", "web_logos_strong#4", "web_logos_strong#2", "web_logos_strong#6"]}
+        {
+          "texto": "Sigamos el ejemplo del artículo. En la versión King James, el verbo que aparece en Gálatas 5:1 con el sentido de «hacer libre» figura en la concordancia con el número 1659. Ese número indica el lugar de esa palabra griega en la lista alfabética de las palabras griegas del Nuevo Testamento, y con él se encuentra su entrada en el diccionario.",
+          "fuentes": [
+            "web_logos_strong#1"
+          ]
+        },
+        {
+          "texto": "La entrada trae el número; la palabra en letras griegas, ἐλευθερόω, con transliteraciones que ayudan a pronunciarla; la etimología, que remite a la entrada anterior; una definición brevísima, que habla de liberar y, en sentido figurado, de eximir de una ceremonia moral o de una responsabilidad mortal; y al final las glosas. Las glosas no son definiciones: son las palabras con que los traductores del King James vertieron el verbo, una vez como «librar» (Romanos 8:21) y en los otros seis lugares como «hacer libre».",
+          "fuentes": [
+            "web_logos_strong#2"
+          ]
+        },
+        {
+          "texto": "Lo que no dice. En Gálatas 5:1 Pablo habla de la libertad que Cristo dio frente a ciertas exigencias del antiguo pacto, como la circuncisión y las leyes sobre alimentos; eso lo sabés por el contexto, no por el número. El mismo número reaparece en Juan 8:32: si cargaras ahí la idea de «eximir de ceremonia», leerías mal, porque el contexto aclara de qué libra la verdad, de la esclavitud del pecado (Juan 8:34). En todos los casos, dice el artículo, el contexto especifica de qué se libera la gente.",
+          "fuentes": [
+            "web_logos_strong#3",
+            "web_logos_strong#4",
+            "biblia"
+          ]
+        },
+        {
+          "texto": "De ahí las advertencias del autor: no pienses que descubriste «el verdadero significado» de la palabra, ni que solo quienes saben hebreo y griego entienden lo que la Biblia dice de verdad. Su balance es duro: la mayoría de las «perlas» que ve sacar de Strong son erróneas, no heréticas pero sí lingüística y hermenéuticamente equivocadas. Aconseja, además, saltearse las etimologías: la historia de una palabra no es guía segura de su sentido actual, y como prueba cuenta que un espectador le dijo que proskuneo («adorar») significaba originalmente algo como un perro que lame la mano de su amo, porque eso decía el diccionario de Strong. Lo califica de casi seguro falso y, aun si fuera cierto, irrelevante para el Nuevo Testamento.",
+          "fuentes": [
+            "web_logos_strong#3",
+            "web_logos_strong#4",
+            "web_logos_strong#2",
+            "web_logos_strong#6"
+          ]
+        }
       ],
-      "destacado": {"texto": "Strong te dice qué palabra hay detrás de tu Biblia; el contexto es lo que te dice qué significa allí.", "fuentes": ["web_logos_strong#3", "web_logos_strong#4"]}
+      "destacado": {
+        "texto": "Strong te dice qué palabra hay detrás de tu Biblia; el contexto es lo que te dice qué significa allí.",
+        "fuentes": [
+          "web_logos_strong#3",
+          "web_logos_strong#4"
+        ]
+      }
     },
     {
       "titulo": "Un léxico de verdad: el BDAG",
       "parrafos": [
-        {"texto": "Rodney Decker, profesor de Nuevo Testamento, presenta la tercera edición inglesa del léxico de Bauer, del año 2000, como el estándar de la lexicografía del Nuevo Testamento. Su linaje arranca con el léxico de Preuschen de 1910, el primero publicado tras el descubrimiento de los papiros. Decker saca de esa historia una lección: una obra así nunca está terminada, porque la lexicografía avanza con los nuevos hallazgos.", "fuentes": ["web_logos_bdag_decker#1", "web_logos_bdag_decker#7", "web_logos_bdag_decker#8"]},
-        {"texto": "Lo más importante para quien lo consulta: desde esta edición cada palabra griega recibe una definición, no solo equivalentes en inglés. Decker subraya la diferencia considerable entre traducir una palabra y definirla; la única otra obra que lo había intentado era el léxico de Louw y Nida, organizado por campos semánticos. El BDAG conserva las glosas, pero tras la definición, y numera con viñetas las divisiones de cada artículo, de modo que se ve el alcance de significados de la palabra. Son 1.108 páginas de letra chica, y suma unas 15.000 citas de textos fuera del Nuevo Testamento, según la editorial.", "fuentes": ["web_logos_bdag_decker#2", "web_logos_bdag_decker#10"]},
-        {"texto": "También explica por qué otros léxicos quedaron atrás. Para Thayer había unas 300 palabras «bíblicas», propias del Nuevo Testamento; pero desde la década de 1890 se publicaron los papiros de la vida cotidiana de Egipto, que mostraron que casi todas se usaban en el griego de la época, y hoy la lista sería de una docena. Danker critica además en Thayer el peso que daba a la etimología.", "fuentes": ["web_logos_bdag_decker#5", "web_logos_bdag_decker#6"]},
-        {"texto": "¿Y si no sabés griego? El artículo de Logos dice que el BDAG sería difícil de usar sin leer griego, y que al menos conviene aprender el alfabeto y algo de vocabulario. En español, Alvarado de Estrada recomienda el Diccionario Teológico del Nuevo Testamento, de Coenen, Beyreuther y Bietenhard, en cuatro tomos, y el Compendio del Diccionario Teológico, de Kittel, Friedrich y Bromiley.", "fuentes": ["web_logos_strong#5", "web_cpe_griego_estudio_biblico#4"]}
+        {
+          "texto": "Rodney Decker, profesor de Nuevo Testamento, presenta la tercera edición inglesa del léxico de Bauer, del año 2000, como el estándar de la lexicografía del Nuevo Testamento. Su linaje arranca con el léxico de Preuschen de 1910, el primero publicado tras el descubrimiento de los papiros. Decker saca de esa historia una lección: una obra así nunca está terminada, porque la lexicografía avanza con los nuevos hallazgos.",
+          "fuentes": [
+            "web_logos_bdag_decker#1",
+            "web_logos_bdag_decker#7",
+            "web_logos_bdag_decker#8"
+          ]
+        },
+        {
+          "texto": "Lo más importante para quien lo consulta: desde esta edición cada palabra griega recibe una definición, no solo equivalentes en inglés. Decker subraya la diferencia considerable entre traducir una palabra y definirla; la única otra obra que lo había intentado era el léxico de Louw y Nida, organizado por campos semánticos. El BDAG conserva las glosas, pero tras la definición, y numera con viñetas las divisiones de cada artículo, de modo que se ve el alcance de significados de la palabra. Son 1.108 páginas de letra chica, y suma unas 15.000 citas de textos fuera del Nuevo Testamento, según la editorial.",
+          "fuentes": [
+            "web_logos_bdag_decker#2",
+            "web_logos_bdag_decker#10"
+          ]
+        },
+        {
+          "texto": "También explica por qué otros léxicos quedaron atrás. Para Thayer había unas 300 palabras «bíblicas», propias del Nuevo Testamento; pero desde la década de 1890 se publicaron los papiros de la vida cotidiana de Egipto, que mostraron que casi todas se usaban en el griego de la época, y hoy la lista sería de una docena. Danker critica además en Thayer el peso que daba a la etimología.",
+          "fuentes": [
+            "web_logos_bdag_decker#5",
+            "web_logos_bdag_decker#6"
+          ]
+        },
+        {
+          "texto": "¿Y si no sabés griego? El artículo de Logos dice que el BDAG sería difícil de usar sin leer griego, y que al menos conviene aprender el alfabeto y algo de vocabulario. En español, Alvarado de Estrada recomienda el Diccionario Teológico del Nuevo Testamento, de Coenen, Beyreuther y Bietenhard, en cuatro tomos, y el Compendio del Diccionario Teológico, de Kittel, Friedrich y Bromiley.",
+          "fuentes": [
+            "web_logos_strong#5",
+            "web_cpe_griego_estudio_biblico#4"
+          ]
+        }
       ],
-      "destacado": {"texto": "Un buen léxico no te da una palabra suelta: define, ordena los sentidos en niveles y muestra pasajes para comprobarlos.", "fuentes": ["web_logos_bdag_decker#2", "web_logos_strong#5"]}
+      "destacado": {
+        "texto": "Un buen léxico no te da una palabra suelta: define, ordena los sentidos en niveles y muestra pasajes para comprobarlos.",
+        "fuentes": [
+          "web_logos_bdag_decker#2",
+          "web_logos_strong#5"
+        ]
+      }
     },
     {
       "titulo": "De tu Biblia en español al léxico: el camino paso a paso",
       "parrafos": [
-        {"texto": "BibleProject propone una rutina de diez pasos para estudiar una palabra. Se empieza por la mentalidad: entender el significado que el autor bíblico daba a sus palabras sin imponer nuestras suposiciones. Después se elige una palabra que parezca importante para el pasaje y se compara en varias traducciones, con una Biblia paralela o una herramienta como Bible Gateway (recomiendan comparar al menos cuatro), anotando las diferencias.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#11"]},
-        {"texto": "Luego se identifica la palabra original con un interlineal. Alvarado de Estrada cuenta que el de Logos, gratuito en línea, trae por cada palabra una referencia numérica que lleva a un diccionario griego también gratuito, un código gramatical y una traducción literal. Con 1 Corintios 6:12-20 nota así que «fornicación» e «inmoralidad sexual» traducen la misma palabra griega, porneia, y que «cuerpo» es soma. Después se busca la definición en una herramienta en línea como blueletterbible.org, según BibleProject.", "fuentes": ["web_cpe_griego_estudio_biblico#3", "web_bibleproject_arte_palabras_biblicas#11"]},
-        {"texto": "El sexto paso es hallar todos los usos con una concordancia: primero en el mismo libro, luego en los demás escritos del mismo autor y por último en toda la Biblia. En el ejemplo de BibleProject, la palabra «fe» (pistis) en Efesios lleva a 243 versículos del Nuevo Testamento. Después se agrupan los usos según el matiz y, al final, se consulta un libro de palabras o un comentario.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#11", "web_bibleproject_arte_palabras_biblicas#12"]},
-        {"texto": "El criterio central vale para todos. Alvarado de Estrada dice que las palabras suelen significar lo que significan en su contexto, y que conviene ver cómo se usan en el mismo libro, por el mismo autor y en la época. BibleProject lo ilustra con dikaiosune: Pablo la usa con distintos matices según lo que quiere decir y Mateo la usa con uno solo; la definición del diccionario es apenas una parte de entender a un autor.", "fuentes": ["web_cpe_griego_estudio_biblico#3", "web_bibleproject_arte_palabras_biblicas#10"]},
-        {"texto": "Entre las herramientas gratuitas que nombran las fuentes de hoy están Bible Gateway, blueletterbible.org, el interlineal de Logos en línea y el Lexham Bible Dictionary, incluido en la versión gratuita de Logos (los dos últimos, en inglés). Para aprender las lenguas sin seminario, José Landeta recomienda las clases de Dosis Diaria de Griego (31 clases) y las de Aleph with Beth para hebreo (43 clases).", "fuentes": ["web_bibleproject_arte_palabras_biblicas#11", "web_cpe_griego_estudio_biblico#3", "web_logos_strong#5", "web_cpe_lenguas_biblicas#2"]}
+        {
+          "texto": "BibleProject propone una rutina de diez pasos para estudiar una palabra. Se empieza por la mentalidad: entender el significado que el autor bíblico daba a sus palabras sin imponer nuestras suposiciones. Después se elige una palabra que parezca importante para el pasaje y se compara en varias traducciones, con una Biblia paralela o una herramienta como Bible Gateway (recomiendan comparar al menos cuatro), anotando las diferencias.",
+          "fuentes": [
+            "web_bibleproject_arte_palabras_biblicas#11"
+          ]
+        },
+        {
+          "texto": "Luego se identifica la palabra original con un interlineal. Alvarado de Estrada cuenta que el de Logos, gratuito en línea, trae por cada palabra una referencia numérica que lleva a un diccionario griego también gratuito, un código gramatical y una traducción literal. Con 1 Corintios 6:12-20 nota así que «fornicación» e «inmoralidad sexual» traducen la misma palabra griega, porneia, y que «cuerpo» es soma. Después se busca la definición en una herramienta en línea como blueletterbible.org, según BibleProject.",
+          "fuentes": [
+            "web_cpe_griego_estudio_biblico#3",
+            "web_bibleproject_arte_palabras_biblicas#11"
+          ]
+        },
+        {
+          "texto": "El sexto paso es hallar todos los usos con una concordancia: primero en el mismo libro, luego en los demás escritos del mismo autor y por último en toda la Biblia. En el ejemplo de BibleProject, la palabra «fe» (pistis) en Efesios lleva a 243 versículos del Nuevo Testamento. Después se agrupan los usos según el matiz y, al final, se consulta un libro de palabras o un comentario.",
+          "fuentes": [
+            "web_bibleproject_arte_palabras_biblicas#11",
+            "web_bibleproject_arte_palabras_biblicas#12"
+          ]
+        },
+        {
+          "texto": "El criterio central vale para todos. Alvarado de Estrada dice que las palabras suelen significar lo que significan en su contexto, y que conviene ver cómo se usan en el mismo libro, por el mismo autor y en la época. BibleProject lo ilustra con dikaiosune: Pablo la usa con distintos matices según lo que quiere decir y Mateo la usa con uno solo; la definición del diccionario es apenas una parte de entender a un autor.",
+          "fuentes": [
+            "web_cpe_griego_estudio_biblico#3",
+            "web_bibleproject_arte_palabras_biblicas#10"
+          ]
+        },
+        {
+          "texto": "Entre las herramientas gratuitas que nombran las fuentes de hoy están Bible Gateway, blueletterbible.org, el interlineal de Logos en línea y el Lexham Bible Dictionary, incluido en la versión gratuita de Logos (los dos últimos, en inglés). Para aprender las lenguas sin seminario, José Landeta recomienda las clases de Dosis Diaria de Griego (31 clases) y las de Aleph with Beth para hebreo (43 clases).",
+          "fuentes": [
+            "web_bibleproject_arte_palabras_biblicas#11",
+            "web_cpe_griego_estudio_biblico#3",
+            "web_logos_strong#5",
+            "web_cpe_lenguas_biblicas#2"
+          ]
+        }
       ]
     },
     {
       "titulo": "Un ejemplo guiado: el verbo «conocer»",
       "parrafos": [
-        {"texto": "Retomemos la palabra del día 1. Leés en Génesis 4:1 «Conoció Adán a su mujer Eva» y te llama la atención el verbo. Abrí Génesis 18:19 en dos o tres versiones: MacArthur observa que ahí Dios dice de Abraham que lo ha «elegido», que el verbo original es el mismo de Génesis 4:1 y que varias traducciones modernas (NVI, LBLA, NTV, RVA-2015) lo vierten «escogido». Esa diferencia entre versiones es la pista.", "fuentes": ["macarthur_ts#682", "biblia"]},
-        {"texto": "Con un interlineal verías que detrás de las dos hay una misma palabra hebrea, yadá, con su número y un enlace a un diccionario. La entrada te ofrecería «conocer»; el trabajo es decidir qué sentido corresponde en cada lugar. MacArthur resume que yadá se usa a menudo para el conocimiento simple, pero muchas veces lleva la connotación de un conocimiento íntimo y personal, como en la unión de marido y mujer.", "fuentes": ["macarthur_ts#682", "web_cpe_griego_estudio_biblico#3"]},
-        {"texto": "Rastreá otros usos. En Amós 3:2 Dios le dice a Israel «A vosotros solamente he conocido» entre todas las familias de la tierra; MacArthur advierte que no puede significar que ignorara a los demás pueblos, sino que Israel era su pueblo del pacto. En Éxodo 33:17, que Dios conozca a Moisés por su nombre es paralelo a haber hallado gracia ante sus ojos. Y en el lado griego, ginósko, Jesús dice «nunca os conocí» (Mateo 7:23): siendo omnisciente (Juan 16:30; 21:17), no podría decirlo si «conocer» fuera solo saber datos.", "fuentes": ["macarthur_ts#683"]},
-        {"texto": "Ahora, el límite. La misma entrada admite el sentido simple, y llevar «íntimo» a todos los usos de yadá sería la trampa que Brian Vickers, profesor de Nuevo Testamento, llama transferencia ilegítima de la totalidad: cargar en un uso concreto varios significados posibles de la palabra. No es la palabra sola la que activa el matiz, sino el contexto.", "fuentes": ["web_9marks_carson#1", "macarthur_ts#682"]},
-        {"texto": "Y ahora la lectura de hoy. En Juan 21:15-17 Jesús le pregunta tres veces a Pedro si lo ama, y Pedro contesta que sí y que Jesús lo sabe todo. Suele montarse en este pasaje una distinción entre dos verbos griegos para «amar», agape y philia. Logos recoge la postura de Poythress: aquí ambos verbos son básicamente sinónimos y hay una variación de estilo. Poythress integró el comité del ESV y cuenta que procuraron mantener un inglés normal, sin inventar una distinción artificial, porque esperamos de otra lengua una rigidez que no tiene.", "fuentes": ["web_logos_agape#3", "biblia"]}
+        {
+          "texto": "Retomemos la palabra del día 1. Leés en Génesis 4:1 «Conoció Adán a su mujer Eva» y te llama la atención el verbo. Abrí Génesis 18:19 en dos o tres versiones: MacArthur observa que ahí Dios dice de Abraham que lo ha «elegido», que el verbo original es el mismo de Génesis 4:1 y que varias traducciones modernas (NVI, LBLA, NTV, RVA-2015) lo vierten «escogido». Esa diferencia entre versiones es la pista.",
+          "fuentes": [
+            "macarthur_ts#682",
+            "biblia"
+          ]
+        },
+        {
+          "texto": "Con un interlineal verías que detrás de las dos hay una misma palabra hebrea, yadá, con su número y un enlace a un diccionario. La entrada te ofrecería «conocer»; el trabajo es decidir qué sentido corresponde en cada lugar. MacArthur resume que yadá se usa a menudo para el conocimiento simple, pero muchas veces lleva la connotación de un conocimiento íntimo y personal, como en la unión de marido y mujer.",
+          "fuentes": [
+            "macarthur_ts#682",
+            "web_cpe_griego_estudio_biblico#3"
+          ]
+        },
+        {
+          "texto": "Rastreá otros usos. En Amós 3:2 Dios le dice a Israel «A vosotros solamente he conocido» entre todas las familias de la tierra; MacArthur advierte que no puede significar que ignorara a los demás pueblos, sino que Israel era su pueblo del pacto. En Éxodo 33:17, que Dios conozca a Moisés por su nombre es paralelo a haber hallado gracia ante sus ojos. Y en el lado griego, ginósko, Jesús dice «nunca os conocí» (Mateo 7:23): siendo omnisciente (Juan 16:30; 21:17), no podría decirlo si «conocer» fuera solo saber datos.",
+          "fuentes": [
+            "macarthur_ts#683"
+          ]
+        },
+        {
+          "texto": "Ahora, el límite. La misma entrada admite el sentido simple, y llevar «íntimo» a todos los usos de yadá sería la trampa que Brian Vickers, profesor de Nuevo Testamento, llama transferencia ilegítima de la totalidad: cargar en un uso concreto varios significados posibles de la palabra. No es la palabra sola la que activa el matiz, sino el contexto.",
+          "fuentes": [
+            "web_9marks_carson#1",
+            "macarthur_ts#682"
+          ]
+        },
+        {
+          "texto": "Y ahora la lectura de hoy. En Juan 21:15-17 Jesús le pregunta tres veces a Pedro si lo ama, y Pedro contesta que sí y que Jesús lo sabe todo. Suele montarse en este pasaje una distinción entre dos verbos griegos para «amar», agape y philia. Logos recoge la postura de Poythress: aquí ambos verbos son básicamente sinónimos y hay una variación de estilo. Poythress integró el comité del ESV y cuenta que procuraron mantener un inglés normal, sin inventar una distinción artificial, porque esperamos de otra lengua una rigidez que no tiene.",
+          "fuentes": [
+            "web_logos_agape#3",
+            "biblia"
+          ]
+        }
       ]
     },
     {
       "titulo": "Tres trampas y una actitud",
       "parrafos": [
-        {"texto": "Vickers, que reseña el libro Falacias exegéticas de D. A. Carson, describe tres trampas. La primera, la transferencia ilegítima de la totalidad: la reconocés cuando oís que en el original la palabra también puede significar otra cosa, y recorrer todo su abanico de sentidos puede llevar a entender mal el texto. La segunda, la falacia de la raíz: es popular la idea de que hypēretēs, «servidor» en 1 Corintios 4:1, designaba a un esclavo de la cubierta inferior de una galera; otro ejemplo es decir que ekklēsia significa «los llamados fuera» sin investigar más.", "fuentes": ["web_9marks_carson#1", "web_9marks_carson#2"]},
-        {"texto": "La tercera es confiar sin comprobar. Carson invita a pensar dos veces antes de aceptar sin crítica la infalibilidad de un juego de herramientas de estudio, aunque, aclara Vickers, no es que las herramientas no sean confiables: todos dependemos de los especialistas. Y ni siquiera cada ejemplo del libro es la última palabra, porque hay eruditos serios que discuten el de monogenes en Juan 3:16.", "fuentes": ["web_9marks_carson#1", "web_9marks_carson#2", "web_9marks_carson#3"]},
-        {"texto": "La actitud es doble. Por un lado, la humildad: Vickers cuenta que algunos alumnos, tras leer a Carson, sienten que mejor buscarían otro oficio, y recuerda que el propio libro discute los límites del estudio de las falacias. Por el otro, el propósito: Landeta advierte que saber de lenguas puede inflar el corazón, y recuerda que su fin es conocer mejor a Dios. Cierra con Pedro: crecer en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo (2 Pedro 3:18).", "fuentes": ["web_9marks_carson#3", "web_cpe_lenguas_biblicas#3"]}
+        {
+          "texto": "Vickers, que reseña el libro Falacias exegéticas de D. A. Carson, describe tres trampas. La primera, la transferencia ilegítima de la totalidad: la reconocés cuando oís que en el original la palabra también puede significar otra cosa, y recorrer todo su abanico de sentidos puede llevar a entender mal el texto. La segunda, la falacia de la raíz: es popular la idea de que hypēretēs, «servidor» en 1 Corintios 4:1, designaba a un esclavo de la cubierta inferior de una galera; otro ejemplo es decir que ekklēsia significa «los llamados fuera» sin investigar más.",
+          "fuentes": [
+            "web_9marks_carson#1",
+            "web_9marks_carson#2"
+          ]
+        },
+        {
+          "texto": "La tercera es confiar sin comprobar. Carson invita a pensar dos veces antes de aceptar sin crítica la infalibilidad de un juego de herramientas de estudio, aunque, aclara Vickers, no es que las herramientas no sean confiables: todos dependemos de los especialistas. Y ni siquiera cada ejemplo del libro es la última palabra, porque hay eruditos serios que discuten el de monogenes en Juan 3:16.",
+          "fuentes": [
+            "web_9marks_carson#1",
+            "web_9marks_carson#2",
+            "web_9marks_carson#3"
+          ]
+        },
+        {
+          "texto": "La actitud es doble. Por un lado, la humildad: Vickers cuenta que algunos alumnos, tras leer a Carson, sienten que mejor buscarían otro oficio, y recuerda que el propio libro discute los límites del estudio de las falacias. Por el otro, el propósito: Landeta advierte que saber de lenguas puede inflar el corazón, y recuerda que su fin es conocer mejor a Dios. Cierra con Pedro: crecer en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo (2 Pedro 3:18).",
+          "fuentes": [
+            "web_9marks_carson#3",
+            "web_cpe_lenguas_biblicas#3"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "apunta siempre el hombre total", "autor": "Diccionario Teológico del Nuevo Testamento (citado por Katherine Alvarado de Estrada)", "obra": "4 formas de aprovechar el griego en tu estudio bíblico", "fuentes": ["web_cpe_griego_estudio_biblico#4"]},
-    {"texto": "Las lenguas bíblicas no son un fin en sí mismas.", "autor": "José Landeta", "obra": "Estudia las lenguas bíblicas: consejos y recursos", "fuentes": ["web_cpe_lenguas_biblicas#3"]}
+    {
+      "texto": "apunta siempre el hombre total",
+      "autor": "Diccionario Teológico del Nuevo Testamento (citado por Katherine Alvarado de Estrada)",
+      "obra": "4 formas de aprovechar el griego en tu estudio bíblico",
+      "fuentes": [
+        "web_cpe_griego_estudio_biblico#4"
+      ]
+    },
+    {
+      "texto": "Las lenguas bíblicas no son un fin en sí mismas.",
+      "autor": "José Landeta",
+      "obra": "Estudia las lenguas bíblicas: consejos y recursos",
+      "fuentes": [
+        "web_cpe_lenguas_biblicas#3"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "ידע", "translit": "yadá", "idioma": "hebreo", "ref": "Gn 4:1", "significado": "Conocer. MacArthur explica que a menudo es conocimiento simple, pero muchas veces lleva la connotación de un conocimiento íntimo y personal; por eso se usa para la unión de marido y mujer (Gn 4:1) y para la elección y el favor de Dios (Gn 18:19; Am 3:2; Éx 33:17).", "fuentes": ["macarthur_ts#682", "macarthur_ts#683"]},
-    {"original": "ἐλευθερόω", "translit": "eleuthéroo", "idioma": "griego", "ref": "Gá 5:1", "significado": "Verbo con el número 1659 de Strong. Su entrada breve habla de liberar y, en sentido figurado, de eximir de una ceremonia moral o de una responsabilidad mortal; de qué se libera la gente lo dice el contexto de cada pasaje (Gá 5:1; Jn 8:32), según el artículo de Logos.", "fuentes": ["web_logos_strong#2", "web_logos_strong#4"]},
-    {"original": "σῶμα", "translit": "sôma", "idioma": "griego", "ref": "1 Co 6:12-20", "significado": "Cuerpo. En el Diccionario Teológico del Nuevo Testamento, citado por Alvarado de Estrada, el concepto griego apunta siempre al hombre total, aun cuando se use para el cuerpo en sentido biológico.", "fuentes": ["web_cpe_griego_estudio_biblico#4"]}
+    {
+      "original": "ידע",
+      "translit": "yadá",
+      "idioma": "hebreo",
+      "ref": "Gn 4:1",
+      "significado": "Conocer. MacArthur explica que a menudo es conocimiento simple, pero muchas veces lleva la connotación de un conocimiento íntimo y personal; por eso se usa para la unión de marido y mujer (Gn 4:1) y para la elección y el favor de Dios (Gn 18:19; Am 3:2; Éx 33:17).",
+      "fuentes": [
+        "macarthur_ts#682",
+        "macarthur_ts#683"
+      ]
+    },
+    {
+      "original": "ἐλευθερόω",
+      "translit": "eleuthéroo",
+      "idioma": "griego",
+      "ref": "Gá 5:1",
+      "significado": "Verbo con el número 1659 de Strong. Su entrada breve habla de liberar y, en sentido figurado, de eximir de una ceremonia moral o de una responsabilidad mortal; de qué se libera la gente lo dice el contexto de cada pasaje (Gá 5:1; Jn 8:32), según el artículo de Logos.",
+      "fuentes": [
+        "web_logos_strong#2",
+        "web_logos_strong#4"
+      ]
+    },
+    {
+      "original": "σῶμα",
+      "translit": "sôma",
+      "idioma": "griego",
+      "ref": "1 Co 6:12-20",
+      "significado": "Cuerpo. En el Diccionario Teológico del Nuevo Testamento, citado por Alvarado de Estrada, el concepto griego apunta siempre al hombre total, aun cuando se use para el cuerpo en sentido biológico.",
+      "fuentes": [
+        "web_cpe_griego_estudio_biblico#4"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El Señor que conoce a los suyos. Jesús dice a algunos «nunca os conocí» (Mateo 7:23), y MacArthur lo lee como conocimiento de relación, porque Jesús, siendo omnisciente, sabe todo de todos. En Juan 21:17 Pedro se apoya en eso mismo, y MacArthur cita ese versículo entre los textos que muestran la omnisciencia de Cristo.", "refs": ["Mt 7:23", "Jn 21:17", "Jn 16:30"], "fuentes": ["macarthur_ts#683"]},
-    {"texto": "El que abre el entendimiento. Lucas 24:45 cuenta que Jesús resucitado abrió el entendimiento de sus discípulos para que comprendieran las Escrituras. Lo establece el propio texto bíblico (las fuentes de hoy no lo comentan) y acompaña la oración del Salmo 119:18: ninguna herramienta reemplaza que Dios abra los ojos.", "refs": ["Lc 24:45", "Sal 119:18"], "fuentes": ["biblia"]}
+    {
+      "texto": "El Señor que conoce a los suyos. Jesús dice a algunos «nunca os conocí» (Mateo 7:23), y MacArthur lo lee como conocimiento de relación, porque Jesús, siendo omnisciente, sabe todo de todos. En Juan 21:17 Pedro se apoya en eso mismo, y MacArthur cita ese versículo entre los textos que muestran la omnisciencia de Cristo.",
+      "refs": [
+        "Mt 7:23",
+        "Jn 21:17",
+        "Jn 16:30"
+      ],
+      "fuentes": [
+        "macarthur_ts#683"
+      ]
+    },
+    {
+      "texto": "El que abre el entendimiento. Lucas 24:45 cuenta que Jesús resucitado abrió el entendimiento de sus discípulos para que comprendieran las Escrituras. Lo establece el propio texto bíblico (las fuentes de hoy no lo comentan) y acompaña la oración del Salmo 119:18: ninguna herramienta reemplaza que Dios abra los ojos.",
+      "refs": [
+        "Lc 24:45",
+        "Sal 119:18"
+      ],
+      "fuentes": [
+        "biblia"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Cuánto vale Strong para el que no sabe griego ni hebreo?",
       "posturas": [
-        {"postura": "Sirve en un apuro para confirmar lo que ya se sabe por el español, pero conviene quedarse con buenas traducciones, diccionarios y comentarios; para la mayoría, el mejor acceso a los detalles del hebreo y el griego son los comentarios de maestros capacitados.", "quien": "El artículo de Logos", "fuentes": ["web_logos_strong#2", "web_logos_strong#5", "web_logos_strong#6"]},
-        {"postura": "Aun sin saber griego se puede aprovechar su estudio: con un interlineal y buenos diccionarios terminológicos se identifican los términos, se observan repeticiones y énfasis y se investiga más.", "quien": "Alvarado de Estrada (Coalición por el Evangelio)", "fuentes": ["web_cpe_griego_estudio_biblico#3", "web_cpe_griego_estudio_biblico#4"]},
-        {"postura": "Estudiar las lenguas bíblicas, aunque sea por cuenta propia, permite leer el texto gramaticalmente, notar los énfasis del autor y sumergirse en el mundo antiguo; lo compara con ver una película en 4K.", "quien": "Landeta (Coalición por el Evangelio)", "fuentes": ["web_cpe_lenguas_biblicas#1", "web_cpe_lenguas_biblicas#2"]}
+        {
+          "postura": "Sirve en un apuro para confirmar lo que ya se sabe por el español, pero conviene quedarse con buenas traducciones, diccionarios y comentarios; para la mayoría, el mejor acceso a los detalles del hebreo y el griego son los comentarios de maestros capacitados.",
+          "quien": "El artículo de Logos",
+          "fuentes": [
+            "web_logos_strong#2",
+            "web_logos_strong#5",
+            "web_logos_strong#6"
+          ]
+        },
+        {
+          "postura": "Aun sin saber griego se puede aprovechar su estudio: con un interlineal y buenos diccionarios terminológicos se identifican los términos, se observan repeticiones y énfasis y se investiga más.",
+          "quien": "Alvarado de Estrada (Coalición por el Evangelio)",
+          "fuentes": [
+            "web_cpe_griego_estudio_biblico#3",
+            "web_cpe_griego_estudio_biblico#4"
+          ]
+        },
+        {
+          "postura": "Estudiar las lenguas bíblicas, aunque sea por cuenta propia, permite leer el texto gramaticalmente, notar los énfasis del autor y sumergirse en el mundo antiguo; lo compara con ver una película en 4K.",
+          "quien": "Landeta (Coalición por el Evangelio)",
+          "fuentes": [
+            "web_cpe_lenguas_biblicas#1",
+            "web_cpe_lenguas_biblicas#2"
+          ]
+        }
       ],
       "nota": "Las tres fuentes coinciden en lo esencial (cuidado con las etimologías, atención al contexto) y difieren en cuánto empujar al lector hacia las lenguas."
     },
     {
       "tema": "¿Hay una gran diferencia entre los dos verbos para «amar» en Juan 21?",
       "posturas": [
-        {"postura": "Los dos verbos son básicamente sinónimos: variación de estilo y poco más. Además, agape se usó en el griego de la época del Nuevo Testamento hasta para el «amor» egoísta de Amnón por Tamar, así que no puede definirse como un amor incondicional.", "quien": "Poythress, según Logos", "fuentes": ["web_logos_agape#3"]}
+        {
+          "postura": "Los dos verbos son básicamente sinónimos: variación de estilo y poco más. Además, agape se usó en el griego de la época del Nuevo Testamento hasta para el «amor» egoísta de Amnón por Tamar, así que no puede definirse como un amor incondicional.",
+          "quien": "Poythress, según Logos",
+          "fuentes": [
+            "web_logos_agape#3"
+          ]
+        }
       ],
       "nota": "Solo se oye este lado; el artículo no expone las razones de quienes sostienen la distinción. La palabra agape se estudiará en el día 43."
     }
   ],
   "conexiones": [
-    {"ref": "Gá 5:1", "nota": "El ejemplo con que el artículo de Logos explica una entrada de Strong: el contexto aclara de qué libró Cristo.", "fuentes": ["web_logos_strong#3"]},
-    {"ref": "Jn 8:32", "nota": "Mismo número de Strong que Gálatas 5:1, pero el contexto indica otra libertad: la de la esclavitud del pecado.", "fuentes": ["web_logos_strong#3", "web_logos_strong#4"]},
-    {"ref": "1 Co 6:12-20", "nota": "Pasaje con el que Alvarado de Estrada muestra cómo un interlineal y un diccionario teológico iluminan el texto.", "fuentes": ["web_cpe_griego_estudio_biblico#3", "web_cpe_griego_estudio_biblico#4"]},
-    {"ref": "Jn 21:15-17", "nota": "El pasaje de la lectura, donde Poythress ve dos verbos básicamente sinónimos.", "fuentes": ["web_logos_agape#3"]},
-    {"ref": "2 P 3:18", "nota": "Landeta cierra con este versículo: crecer en la gracia y el conocimiento del Señor es la meta de estudiar las lenguas.", "fuentes": ["web_cpe_lenguas_biblicas#3"]}
+    {
+      "ref": "Gá 5:1",
+      "nota": "El ejemplo con que el artículo de Logos explica una entrada de Strong: el contexto aclara de qué libró Cristo.",
+      "fuentes": [
+        "web_logos_strong#3"
+      ]
+    },
+    {
+      "ref": "Jn 8:32",
+      "nota": "Mismo número de Strong que Gálatas 5:1, pero el contexto indica otra libertad: la de la esclavitud del pecado.",
+      "fuentes": [
+        "web_logos_strong#3",
+        "web_logos_strong#4"
+      ]
+    },
+    {
+      "ref": "1 Co 6:12-20",
+      "nota": "Pasaje con el que Alvarado de Estrada muestra cómo un interlineal y un diccionario teológico iluminan el texto.",
+      "fuentes": [
+        "web_cpe_griego_estudio_biblico#3",
+        "web_cpe_griego_estudio_biblico#4"
+      ]
+    },
+    {
+      "ref": "Jn 21:15-17",
+      "nota": "El pasaje de la lectura, donde Poythress ve dos verbos básicamente sinónimos.",
+      "fuentes": [
+        "web_logos_agape#3"
+      ]
+    },
+    {
+      "ref": "2 P 3:18",
+      "nota": "Landeta cierra con este versículo: crecer en la gracia y el conocimiento del Señor es la meta de estudiar las lenguas.",
+      "fuentes": [
+        "web_cpe_lenguas_biblicas#3"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Antes de abrir un léxico, leé el pasaje en dos o tres versiones y anotá qué palabra te llama la atención. BibleProject propone justamente empezar por elegir una palabra y compararla entre traducciones.", "fuentes": ["web_bibleproject_arte_palabras_biblicas#11"]},
-    {"texto": "Usá el número de Strong como un índice y no como un veredicto: anotalo, buscá la palabra en un diccionario más completo y fijate cómo la usa el mismo autor en otros pasajes.", "fuentes": ["web_logos_strong#3", "web_bibleproject_arte_palabras_biblicas#11"]},
-    {"texto": "Cuando oigas «en el original dice...», preguntá por el contexto y desconfiá si el argumento es una etimología. Y, si podés, contrastalo con un comentario.", "fuentes": ["web_logos_strong#4", "web_logos_strong#6"]}
+    {
+      "texto": "Antes de abrir un léxico, leé el pasaje en dos o tres versiones y anotá qué palabra te llama la atención. BibleProject propone justamente empezar por elegir una palabra y compararla entre traducciones.",
+      "fuentes": [
+        "web_bibleproject_arte_palabras_biblicas#11"
+      ]
+    },
+    {
+      "texto": "Usá el número de Strong como un índice y no como un veredicto: anotalo, buscá la palabra en un diccionario más completo y fijate cómo la usa el mismo autor en otros pasajes.",
+      "fuentes": [
+        "web_logos_strong#3",
+        "web_bibleproject_arte_palabras_biblicas#11"
+      ]
+    },
+    {
+      "texto": "Cuando oigas «en el original dice...», preguntá por el contexto y desconfiá si el argumento es una etimología. Y, si podés, contrastalo con un comentario.",
+      "fuentes": [
+        "web_logos_strong#4",
+        "web_logos_strong#6"
+      ]
+    }
   ],
   "para_reflexionar": [
     "¿Alguna vez usaste «en el original significa...» para sentirte más seguro de una interpretación? ¿Qué mostrarías hoy para comprobarlo?",
     "Pensá en una palabra bíblica que creías conocer bien. ¿Qué cambia si la comparás en dos versiones y mirás el contexto?",
     "Landeta advierte sobre el enorgullecimiento vano por saber algo de las lenguas. ¿Cómo cuidás que tu estudio te acerque a Dios y no infle tu orgullo?"
   ],
-  "para_orar": "Señor, abrí mis ojos para que mire las maravillas de tu ley. Gracias por las herramientas que me ayudan a entender tu Palabra; no dejes que las use para presumir ni para forzar el texto. Enseñame a leer con humildad, a respetar el contexto y a distinguir lo que sé de lo que supongo. Que mi estudio me lleve a conocerte mejor. Amén.",
   "profundizar": [
-    {"titulo": "Los papiros que cambiaron los léxicos", "texto": "Decker cuenta que la situación cambió a partir de la década de 1890 con la publicación de los papiros de Egipto, testimonios del lenguaje cotidiano; según el pasaje que cita, Adolf Deissmann fue el pionero en este campo. Hoy, dice, la lista de palabras sin paralelo en otros textos griegos de la época es de una docena y probablemente desaparezca. Es un buen ejemplo de por qué una herramienta antigua puede quedar desactualizada aunque siga circulando.", "fuentes": ["web_logos_bdag_decker#5"]}
+    {
+      "titulo": "Los papiros que cambiaron los léxicos",
+      "texto": "Decker cuenta que la situación cambió a partir de la década de 1890 con la publicación de los papiros de Egipto, testimonios del lenguaje cotidiano; según el pasaje que cita, Adolf Deissmann fue el pionero en este campo. Hoy, dice, la lista de palabras sin paralelo en otros textos griegos de la época es de una docena y probablemente desaparezca. Es un buen ejemplo de por qué una herramienta antigua puede quedar desactualizada aunque siga circulando.",
+      "fuentes": [
+        "web_logos_bdag_decker#5"
+      ]
+    }
   ]
 }

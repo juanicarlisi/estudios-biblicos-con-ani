@@ -11,9 +11,10 @@ Todo se escribe en español rioplatense, cálido y claro, hablándole al lector 
 5. **RVR1960.** Solo van transcriptos los `versiculos` clave (1 o 2 por día; un programa trae el texto). El resto son referencias. No transcribir otros versículos, salvo fragmentos breves entre «» que estén en la RVR1960 del capítulo citado.
 6. **Idiomas.** Palabras hebreas o griegas solo si una fuente citada del día las comenta (la grafía original va en `original`).
 7. **Extensión:** 1.800 a 2.800 palabras, 5 a 7 apartados, para 20–25 minutos. Profundidad antes que cantidad: cada apartado enseña algo concreto.
-8. **Estructura:** la de `dia_001.json`: `dia, titulo, bajada, minutos, lectura, versiculos, entrada, apartados[titulo, parrafos[texto, fuentes], destacado], citas, palabras, cristo, interpretaciones, conexiones, para_vivir, para_reflexionar (3), para_orar, profundizar`.
+8. **Estructura:** la de `dia_001.json`: `dia, titulo, bajada, minutos, lectura, versiculos, entrada, apartados[titulo, parrafos[texto, fuentes], destacado], citas, palabras, cristo, interpretaciones, conexiones, para_vivir, para_reflexionar (3), profundizar`.
 9. **Cristo:** en cada día, `cristo` muestra cómo el tema se relaciona con Jesús o el Antiguo Testamento lo anticipa; solo lo que las fuentes o el propio texto bíblico establecen, sin alegorías forzadas. Se distingue lo explícito en el NT de lo que es patrón o tipo.
 10. Cada día se apoya en **al menos cuatro libros distintos**.
+11. **Sin oraciones.** Ningún día lleva una oración escrita al final (ni el campo `para_orar` ni un párrafo de oración): el estudio no hace rezar al lector. Sí se puede estudiar la oración como tema.
 
 ## Fuentes web (ids `web_*`)
 Están registradas en `libros.json` con `repo: "web"` (institución, título, URL, fecha de consulta). Se citan como `web_xxx#N`, donde N es la **sección** (≈3.500 caracteres) que figura en la marca `[[web_xxx#N]]` de `insumo.py`. El lector verá la institución, la sección y el enlace. Lista y temas en `plan/fuentes_ciclo1.md`. Valen las mismas reglas que para los libros (resumir con palabras propias, citas literales solo breves y exactas, cifras solo si están en las páginas citadas). Si la fuente está en inglés, se resume en español y no se transcribe en inglés. Nombrá la institución o el autor en la prosa cuando atribuyas algo («según la Coalición por el Evangelio…»).

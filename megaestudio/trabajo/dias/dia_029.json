@@ -2,127 +2,416 @@
   "dia": 29,
   "titulo": "Cómo leer la profecía: portavoces, condiciones y cumplimientos",
   "bajada": "Un profeta bíblico no es un adivino: habla de parte de Dios. ¿Cómo se reconoce a uno verdadero, por qué Dios no ejecutó lo que anunció en Nínive y qué hace el Nuevo Testamento cuando cita a los profetas?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Jonás 3; Hechos 2:14-21", "porque": "Un mensaje de juicio que se detiene cuando la gente se arrepiente, y un profeta del Antiguo Testamento citado por Pedro para explicar lo que pasaba en Jerusalén."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Jonás 3; Hechos 2:14-21",
+    "porque": "Un mensaje de juicio que se detiene cuando la gente se arrepiente, y un profeta del Antiguo Testamento citado por Pedro para explicar lo que pasaba en Jerusalén."
+  },
   "versiculos": [
-    {"ref": "Deuteronomio 18:22", "porque": "Moisés da una prueba concreta para distinguir al profeta que habla por Dios del que habla por su cuenta."},
-    {"ref": "Jeremías 18:7-8", "porque": "Dios mismo enseña que sus anuncios de juicio dependen de cómo responda el pueblo."}
+    {
+      "ref": "Deuteronomio 18:22",
+      "porque": "Moisés da una prueba concreta para distinguir al profeta que habla por Dios del que habla por su cuenta."
+    },
+    {
+      "ref": "Jeremías 18:7-8",
+      "porque": "Dios mismo enseña que sus anuncios de juicio dependen de cómo responda el pueblo."
+    }
   ],
   "entrada": {
     "texto": "Al abrir un libro profético solemos preguntarnos si lo que dice ya pasó o todavía va a pasar, y si hay que tomarlo al pie de la letra o como lenguaje simbólico. Son buenas preguntas, pero vienen después de otras más básicas: ¿qué es un profeta?, ¿cómo se sabe que habla de parte de Dios?, ¿por qué hay anuncios de juicio que no se ejecutan tal cual?\n\nHoy recorremos esas preguntas con la Biblia y los autores consultados. En algunos puntos coinciden; en otros, sobre todo en cómo se cumplen las profecías y cómo se leen, ofrecen lecturas distintas que presentamos sin zanjar.",
-    "fuentes": ["web_cpe_canon_biblico#4", "ryrie#198"]
+    "fuentes": [
+      "web_cpe_canon_biblico#4",
+      "ryrie#198"
+    ]
   },
   "apartados": [
     {
       "titulo": "El profeta es un portavoz, no un adivino",
       "parrafos": [
-        {"texto": "La Coalición por el Evangelio, en su ensayo sobre el canon, lo dice directo: no cualquiera puede hablar por Dios, solo quienes han sido comisionados para ser su portavoz; en el Antiguo Testamento, los profetas y otros portavoces inspirados (cita Romanos 1:2 y 2 Pedro 3:2). Otro ensayo de la misma institución recuerda la explicación de Pedro: ninguna profecía nació de la voluntad humana, sino que hombres movidos por el Espíritu Santo hablaron de parte de Dios (2 Pedro 1:21).", "fuentes": ["web_cpe_canon_biblico#4", "web_cpe_interpretacion#2"]},
-        {"texto": "Wayne Grudem subraya lo que eso implicaba: el profeta del Antiguo Testamento tenía la misión de hablar con la absoluta autoridad de Dios. Lo apoya en Deuteronomio 18:18-19, donde Dios dice «Pondré mis palabras en su boca». De ahí, razona, la severidad contra los impostores: si el cargo lleva tanta autoridad, tenía que estar protegido con penas rígidas.", "fuentes": ["el_don_de__grudem#36"]},
-        {"texto": "¿Y predecir el futuro? Está presente, pero las fuentes de hoy no lo muestran como lo único ni como lo primero. En la guía de estudio de R. C. Sproul (Ligonier y la Coalición por el Evangelio), los profetas aparecen como los fiscales de Dios en las demandas de pacto: llamaban al arrepentimiento y advertían de un juicio inminente si no había obediencia. Ryrie define lo que hizo Jesús como Profeta con una frase sencilla, comunicarle el mensaje de Dios al hombre, y nota que Moisés mismo predijo que Dios levantaría un profeta como él (Deuteronomio 18:15). Decir y predecir van juntos: el profeta anuncia lo que Dios dice, y a veces eso incluye lo que Dios hará.", "fuentes": ["web_ligonier_drama_redencion#31", "ryrie#112"]}
+        {
+          "texto": "La Coalición por el Evangelio, en su ensayo sobre el canon, lo dice directo: no cualquiera puede hablar por Dios, solo quienes han sido comisionados para ser su portavoz; en el Antiguo Testamento, los profetas y otros portavoces inspirados (cita Romanos 1:2 y 2 Pedro 3:2). Otro ensayo de la misma institución recuerda la explicación de Pedro: ninguna profecía nació de la voluntad humana, sino que hombres movidos por el Espíritu Santo hablaron de parte de Dios (2 Pedro 1:21).",
+          "fuentes": [
+            "web_cpe_canon_biblico#4",
+            "web_cpe_interpretacion#2"
+          ]
+        },
+        {
+          "texto": "Wayne Grudem subraya lo que eso implicaba: el profeta del Antiguo Testamento tenía la misión de hablar con la absoluta autoridad de Dios. Lo apoya en Deuteronomio 18:18-19, donde Dios dice «Pondré mis palabras en su boca». De ahí, razona, la severidad contra los impostores: si el cargo lleva tanta autoridad, tenía que estar protegido con penas rígidas.",
+          "fuentes": [
+            "el_don_de__grudem#36"
+          ]
+        },
+        {
+          "texto": "¿Y predecir el futuro? Está presente, pero las fuentes de hoy no lo muestran como lo único ni como lo primero. En la guía de estudio de R. C. Sproul (Ligonier y la Coalición por el Evangelio), los profetas aparecen como los fiscales de Dios en las demandas de pacto: llamaban al arrepentimiento y advertían de un juicio inminente si no había obediencia. Ryrie define lo que hizo Jesús como Profeta con una frase sencilla, comunicarle el mensaje de Dios al hombre, y nota que Moisés mismo predijo que Dios levantaría un profeta como él (Deuteronomio 18:15). Decir y predecir van juntos: el profeta anuncia lo que Dios dice, y a veces eso incluye lo que Dios hará.",
+          "fuentes": [
+            "web_ligonier_drama_redencion#31",
+            "ryrie#112"
+          ]
+        }
       ],
-      "destacado": {"texto": "Antes de preguntar qué va a pasar, conviene preguntar qué les está diciendo Dios a quienes escuchan: la profecía siempre se dirige a alguien.", "fuentes": ["web_ligonier_drama_redencion#31", "web_cpe_canon_biblico#4"]}
+      "destacado": {
+        "texto": "Antes de preguntar qué va a pasar, conviene preguntar qué les está diciendo Dios a quienes escuchan: la profecía siempre se dirige a alguien.",
+        "fuentes": [
+          "web_ligonier_drama_redencion#31",
+          "web_cpe_canon_biblico#4"
+        ]
+      }
     },
     {
       "titulo": "Cómo se reconoce a un profeta verdadero",
       "parrafos": [
-        {"texto": "Deuteronomio 18:20-22 es el pasaje clave. La Biblia de estudio MacArthur lo explica en dos tiempos. Moisés predijo falsos profetas que hablarían en nombre de dioses ajenos; aun si lo que anuncian sucede, se los rechaza si buscan apartar al pueblo del Dios verdadero (Deuteronomio 13:1-5). Otros son más sutiles: se identifican con el Dios verdadero pero hablan mentiras, y si una profecía suya falla quedan en evidencia (la nota remite a Jeremías 28:15-17 y 29:30-32). Su resumen: «La característica de los falsos profetas es que sus predicciones no siempre se cumplen».", "fuentes": ["biblia_de_estudio__autor#408"]},
-        {"texto": "Grudem agrega qué convertía a alguien en falso profeta: afirmar que hablaba de parte de Dios y decir algo que Dios no había ordenado (Deuteronomio 18:20; compara Jeremías 23:16). Una predicción que no se cumple muestra que habló «con presunción». Ryrie señala el límite práctico de esa prueba: si el profeta vive hasta que se ve el cumplimiento, reconocerlo es fácil; si no, es más difícil. Por eso, dice, Jesús fue autenticado como Profeta por el cumplimiento de sus predicciones (la traición, la crucifixión, la resurrección al tercer día; Mateo 26:21; 16:21; 20:19) y por sus milagros.", "fuentes": ["el_don_de__grudem#36", "ryrie#113"]},
-        {"texto": "Los falsos profetas de Jeremías 23 muestran otro rasgo. Según la Biblia de estudio MacArthur, decían tener revelación por sueños, pero su palabra nunca tuvo el poder de la Palabra de Dios (23:25-29), y prometían paz a quienes con su pecado habían provocado el juicio (23:14-17). No solo se mide si lo anunciado ocurre: el mensaje también tiene que ser coherente con lo que Dios ya había dicho.", "fuentes": ["biblia_de_estudio__autor#1486"]},
-        {"texto": "Para el Nuevo Testamento, Grudem sostiene que en 1 Corintios 14:29 la congregación entera evaluaba lo que decían los profetas ya aceptados, con la Escritura y la enseñanza recibida como criterio, y que eso difiere del trato que recibía la palabra del profeta del Antiguo Testamento. Es la tesis de Grudem; otras lecturas del don de profecía no aparecen en las fuentes de hoy y se estudiarán más adelante con sus propios autores.", "fuentes": ["el_don_de__grudem#34", "el_don_de__grudem#35", "el_don_de__grudem#36"]}
+        {
+          "texto": "Deuteronomio 18:20-22 es el pasaje clave. La Biblia de estudio MacArthur lo explica en dos tiempos. Moisés predijo falsos profetas que hablarían en nombre de dioses ajenos; aun si lo que anuncian sucede, se los rechaza si buscan apartar al pueblo del Dios verdadero (Deuteronomio 13:1-5). Otros son más sutiles: se identifican con el Dios verdadero pero hablan mentiras, y si una profecía suya falla quedan en evidencia (la nota remite a Jeremías 28:15-17 y 29:30-32). Su resumen: «La característica de los falsos profetas es que sus predicciones no siempre se cumplen».",
+          "fuentes": [
+            "biblia_de_estudio__autor#408"
+          ]
+        },
+        {
+          "texto": "Grudem agrega qué convertía a alguien en falso profeta: afirmar que hablaba de parte de Dios y decir algo que Dios no había ordenado (Deuteronomio 18:20; compara Jeremías 23:16). Una predicción que no se cumple muestra que habló «con presunción». Ryrie señala el límite práctico de esa prueba: si el profeta vive hasta que se ve el cumplimiento, reconocerlo es fácil; si no, es más difícil. Por eso, dice, Jesús fue autenticado como Profeta por el cumplimiento de sus predicciones (la traición, la crucifixión, la resurrección al tercer día; Mateo 26:21; 16:21; 20:19) y por sus milagros.",
+          "fuentes": [
+            "el_don_de__grudem#36",
+            "ryrie#113"
+          ]
+        },
+        {
+          "texto": "Los falsos profetas de Jeremías 23 muestran otro rasgo. Según la Biblia de estudio MacArthur, decían tener revelación por sueños, pero su palabra nunca tuvo el poder de la Palabra de Dios (23:25-29), y prometían paz a quienes con su pecado habían provocado el juicio (23:14-17). No solo se mide si lo anunciado ocurre: el mensaje también tiene que ser coherente con lo que Dios ya había dicho.",
+          "fuentes": [
+            "biblia_de_estudio__autor#1486"
+          ]
+        },
+        {
+          "texto": "Para el Nuevo Testamento, Grudem sostiene que en 1 Corintios 14:29 la congregación entera evaluaba lo que decían los profetas ya aceptados, con la Escritura y la enseñanza recibida como criterio, y que eso difiere del trato que recibía la palabra del profeta del Antiguo Testamento. Es la tesis de Grudem; otras lecturas del don de profecía no aparecen en las fuentes de hoy y se estudiarán más adelante con sus propios autores.",
+          "fuentes": [
+            "el_don_de__grudem#34",
+            "el_don_de__grudem#35",
+            "el_don_de__grudem#36"
+          ]
+        }
       ],
-      "destacado": {"texto": "La prueba de Deuteronomio 18 es de cumplimiento, pero no es la única: el mensaje tiene que ser coherente con el Dios que lo envía.", "fuentes": ["biblia_de_estudio__autor#408", "biblia_de_estudio__autor#1486"]}
+      "destacado": {
+        "texto": "La prueba de Deuteronomio 18 es de cumplimiento, pero no es la única: el mensaje tiene que ser coherente con el Dios que lo envía.",
+        "fuentes": [
+          "biblia_de_estudio__autor#408",
+          "biblia_de_estudio__autor#1486"
+        ]
+      }
     },
     {
       "titulo": "Profecías condicionales: el caso de Nínive",
       "parrafos": [
-        {"texto": "Jonás 3:4 dice «De aquí a cuarenta días Nínive será destruida», y Jonás 3:10 cuenta que Dios «se arrepintió del mal que había dicho que les haría». Si Deuteronomio 18:22 mide al profeta por el cumplimiento, ¿fue Jonás un falso profeta? Grudem lo trabaja al preguntarse si Dios cambia de parecer. Su respuesta: la advertencia expresaba la actitud de Dios ante la situación tal como era; cuando la situación cambió, Dios respondió de otra manera. La posibilidad de que no mandara el castigo si el pueblo se arrepentía no está dicha en la proclamación de Jonás, pero está implícita. Lo ubica junto a otros juicios anunciados y retirados: la oración de Moisés (Éxodo 32:9-14) y los quince años añadidos a Ezequías (Isaías 38:1-6).", "fuentes": ["grudem#170", "grudem#171"]},
-        {"texto": "Jeremías 18:7-10 pone la regla en boca de Dios. El Comentario Bíblico Beacon explica que Dios trata con los hombres sobre una base moral y no estrictamente legal, de modo que puede responder según ellos respondan: si una nación anunciada para destrucción se convierte, Dios se arrepiente del mal planeado, y también vale lo contrario. El comentario cita a otro autor para resumirlo: «las amenazas de Dios, como sus promesas, son condicionales». La Biblia de estudio MacArthur enlaza los dos textos: su nota sobre Jonás 3:10 remite a Jeremías 18:7-8 y afirma que Nínive se arrepintió de verdad.", "fuentes": ["comentario_biblico_beacon__price#278", "biblia_de_estudio__autor#1739"]},
-        {"texto": "No todo anuncio de Dios es condicional de esa forma. Grudem recuerda que Dios es inmutable en sus promesas y no es infiel a lo que promete (Números 23:19). Ryrie ilustra otra clase de promesa con Génesis 15: solo Dios pasó entre las mitades de los animales, de modo que el pacto con Abraham no se condicionó a nada que Abraham hiciera. (Ryrie añade que otros alegan condiciones en ese pacto y las contesta; no entramos hoy en esa discusión). La pregunta que dejan estas fuentes para leer una profecía es: ¿el texto trae un «si», explícito o implícito, o es una promesa que Dios mismo se compromete a cumplir?", "fuentes": ["grudem#170", "ryrie#202"]}
+        {
+          "texto": "Jonás 3:4 dice «De aquí a cuarenta días Nínive será destruida», y Jonás 3:10 cuenta que Dios «se arrepintió del mal que había dicho que les haría». Si Deuteronomio 18:22 mide al profeta por el cumplimiento, ¿fue Jonás un falso profeta? Grudem lo trabaja al preguntarse si Dios cambia de parecer. Su respuesta: la advertencia expresaba la actitud de Dios ante la situación tal como era; cuando la situación cambió, Dios respondió de otra manera. La posibilidad de que no mandara el castigo si el pueblo se arrepentía no está dicha en la proclamación de Jonás, pero está implícita. Lo ubica junto a otros juicios anunciados y retirados: la oración de Moisés (Éxodo 32:9-14) y los quince años añadidos a Ezequías (Isaías 38:1-6).",
+          "fuentes": [
+            "grudem#170",
+            "grudem#171"
+          ]
+        },
+        {
+          "texto": "Jeremías 18:7-10 pone la regla en boca de Dios. El Comentario Bíblico Beacon explica que Dios trata con los hombres sobre una base moral y no estrictamente legal, de modo que puede responder según ellos respondan: si una nación anunciada para destrucción se convierte, Dios se arrepiente del mal planeado, y también vale lo contrario. El comentario cita a otro autor para resumirlo: «las amenazas de Dios, como sus promesas, son condicionales». La Biblia de estudio MacArthur enlaza los dos textos: su nota sobre Jonás 3:10 remite a Jeremías 18:7-8 y afirma que Nínive se arrepintió de verdad.",
+          "fuentes": [
+            "comentario_biblico_beacon__price#278",
+            "biblia_de_estudio__autor#1739"
+          ]
+        },
+        {
+          "texto": "No todo anuncio de Dios es condicional de esa forma. Grudem recuerda que Dios es inmutable en sus promesas y no es infiel a lo que promete (Números 23:19). Ryrie ilustra otra clase de promesa con Génesis 15: solo Dios pasó entre las mitades de los animales, de modo que el pacto con Abraham no se condicionó a nada que Abraham hiciera. (Ryrie añade que otros alegan condiciones en ese pacto y las contesta; no entramos hoy en esa discusión). La pregunta que dejan estas fuentes para leer una profecía es: ¿el texto trae un «si», explícito o implícito, o es una promesa que Dios mismo se compromete a cumplir?",
+          "fuentes": [
+            "grudem#170",
+            "ryrie#202"
+          ]
+        }
       ],
-      "destacado": {"texto": "Nínive no es una profecía fallida: es una advertencia que cumplió su propósito. Un juicio anunciado que se detiene por el arrepentimiento no desmiente a Dios; muestra cómo trata a las personas.", "fuentes": ["grudem#170", "comentario_biblico_beacon__price#278"]}
+      "destacado": {
+        "texto": "Nínive no es una profecía fallida: es una advertencia que cumplió su propósito. Un juicio anunciado que se detiene por el arrepentimiento no desmiente a Dios; muestra cómo trata a las personas.",
+        "fuentes": [
+          "grudem#170",
+          "comentario_biblico_beacon__price#278"
+        ]
+      }
     },
     {
       "titulo": "Lenguaje poético y cumplimientos cercanos y lejanos: Joel",
       "parrafos": [
-        {"texto": "Joel es un buen laboratorio. La Biblia de estudio MacArthur propone leer el capítulo 1 como una invasión real de langostas que arrasó la tierra. En el capítulo 2 el profeta eleva la descripción más allá de esa plaga; las comparaciones («como aspecto de caballos», «como hombres de guerra») sugieren, según el comentario, que sigue usando a las langostas reales como ilustración de una invasión que solo puede ser el ataque del día final del Señor. Un hecho histórico funciona como imagen de algo mayor.", "fuentes": ["biblia_de_estudio__autor#1696"]},
-        {"texto": "La misma fuente aclara que «día del Señor» no designa un período cronológico sino un tiempo de ira y juicio que pertenece al Señor, a menudo asociado con sacudidas de la tierra, oscuridad y trastornos cósmicos. Y ofrece una regla de lectura: no siempre es un acontecimiento escatológico; a veces tiene un cumplimiento histórico cercano, y en profecía es común que el cumplimiento próximo sea un hecho histórico sobre el cual se incluye el más distante. Carballosa lee Isaías 7:14 de manera parecida, con un primer cumplimiento en tiempos del rey Acaz y otro con el nacimiento de Jesús. Y Ryrie dice de la promesa de un profeta como Moisés que, aparte de otros cumplimientos en la sucesión de profetas, su cumplimiento final fue Jesucristo (Hechos 3:22-24).", "fuentes": ["biblia_de_estudio__autor#1695", "biblia_de_estudio__autor#1696", "mateo_la_revelacion__carballosa#78", "ryrie#112"]}
+        {
+          "texto": "Joel es un buen laboratorio. La Biblia de estudio MacArthur propone leer el capítulo 1 como una invasión real de langostas que arrasó la tierra. En el capítulo 2 el profeta eleva la descripción más allá de esa plaga; las comparaciones («como aspecto de caballos», «como hombres de guerra») sugieren, según el comentario, que sigue usando a las langostas reales como ilustración de una invasión que solo puede ser el ataque del día final del Señor. Un hecho histórico funciona como imagen de algo mayor.",
+          "fuentes": [
+            "biblia_de_estudio__autor#1696"
+          ]
+        },
+        {
+          "texto": "La misma fuente aclara que «día del Señor» no designa un período cronológico sino un tiempo de ira y juicio que pertenece al Señor, a menudo asociado con sacudidas de la tierra, oscuridad y trastornos cósmicos. Y ofrece una regla de lectura: no siempre es un acontecimiento escatológico; a veces tiene un cumplimiento histórico cercano, y en profecía es común que el cumplimiento próximo sea un hecho histórico sobre el cual se incluye el más distante. Carballosa lee Isaías 7:14 de manera parecida, con un primer cumplimiento en tiempos del rey Acaz y otro con el nacimiento de Jesús. Y Ryrie dice de la promesa de un profeta como Moisés que, aparte de otros cumplimientos en la sucesión de profetas, su cumplimiento final fue Jesucristo (Hechos 3:22-24).",
+          "fuentes": [
+            "biblia_de_estudio__autor#1695",
+            "biblia_de_estudio__autor#1696",
+            "mateo_la_revelacion__carballosa#78",
+            "ryrie#112"
+          ]
+        }
       ],
-      "destacado": {"texto": "Una misma profecía puede tener un cumplimiento cercano que la ancla en la historia y otro más amplio que la lleva a Cristo o al final: las fuentes lo ven en Joel, en Isaías 7 y en el profeta como Moisés.", "fuentes": ["biblia_de_estudio__autor#1696", "mateo_la_revelacion__carballosa#78", "ryrie#112"]}
+      "destacado": {
+        "texto": "Una misma profecía puede tener un cumplimiento cercano que la ancla en la historia y otro más amplio que la lleva a Cristo o al final: las fuentes lo ven en Joel, en Isaías 7 y en el profeta como Moisés.",
+        "fuentes": [
+          "biblia_de_estudio__autor#1696",
+          "mateo_la_revelacion__carballosa#78",
+          "ryrie#112"
+        ]
+      }
     },
     {
       "titulo": "Cómo cita el Nuevo Testamento a los profetas",
       "parrafos": [
-        {"texto": "La Biblia de estudio MacArthur apunta que Mateo cita el Antiguo Testamento en más de sesenta ocasiones, más que cualquier otro escritor del Nuevo Testamento salvo Pablo en Romanos, y que la fórmula «para que se cumpliese» aparece en su Evangelio no menos de doce veces. Para el Comentario Bíblico Beacon, esa manera de introducir las citas destaca la inspiración y la autoridad divinas de las Escrituras.", "fuentes": ["biblia_de_estudio__autor#1947", "comentario_biblico_beacon__earle#31"]},
-        {"texto": "En Isaías 7:14, citado en Mateo 1:23, John MacArthur recuerda que la señal se dio al rey Acaz, asustado por Siria e Israel, y que dos señales garantizaban que Dios preservaría la línea de David: el hijo de Isaías, antes de cuya infancia avanzada los dos reyes enemigos desaparecerían, y, en un futuro mucho más grandioso, el nacimiento virginal. Sobre la palabra hebrea *almá*, explica que el Antiguo Testamento favorece «doncella», que nunca se usa de una mujer casada y que los traductores judíos de la Septuaginta la vertieron con el griego *parthenos*, «virgen». La Biblia de estudio MacArthur reconoce que los estudiosos no siempre coinciden en ese punto. Carballosa nota otra diferencia: Isaías dice que ella «llamará» el nombre y el griego de Mateo, «llamarán», quizá porque José y María reconocieron juntos al Emanuel prometido.", "fuentes": ["mateo__macarthur#26", "biblia_de_estudio__autor#1947", "mateo_la_revelacion__carballosa#78"]},
-        {"texto": "En Joel 2 y Hechos 2, Pedro cita la profecía («derramaré de mi Espíritu sobre toda carne», Hechos 2:17) para explicar lo que la gente veía y oía. MacArthur, en su comentario a Hechos, observa que los oyentes esperaban ese don porque, según Joel 2:28-29, marcaría el comienzo de los tiempos mesiánicos; y la Biblia de estudio MacArthur dice que «postreros días» es la era actual, desde la primera venida de Cristo hasta su regreso.", "fuentes": ["hechos_comentario__archivo#51", "biblia_de_estudio__autor#2483"]},
-        {"texto": "Un principio de lectura: el Nuevo Testamento no corrige a los profetas. La Declaración de Chicago sobre hermenéutica bíblica (ICBI, en inglés) niega que los escritores posteriores hayan malinterpretado pasajes anteriores al citarlos, y afirma que el sentido de las palabras de un profeta incluye, sin limitarse a ello, lo que él entendió, más la intención de Dios que se ve en el cumplimiento. Ryrie coincide en lo esencial: hay que dejar lugar para un significado más completo en la mente del Autor divino, que se ve al comparar Escritura con Escritura.", "fuentes": ["web_chicago_hermeneutica#3", "ryrie#51"]}
+        {
+          "texto": "La Biblia de estudio MacArthur apunta que Mateo cita el Antiguo Testamento en más de sesenta ocasiones, más que cualquier otro escritor del Nuevo Testamento salvo Pablo en Romanos, y que la fórmula «para que se cumpliese» aparece en su Evangelio no menos de doce veces. Para el Comentario Bíblico Beacon, esa manera de introducir las citas destaca la inspiración y la autoridad divinas de las Escrituras.",
+          "fuentes": [
+            "biblia_de_estudio__autor#1947",
+            "comentario_biblico_beacon__earle#31"
+          ]
+        },
+        {
+          "texto": "En Isaías 7:14, citado en Mateo 1:23, John MacArthur recuerda que la señal se dio al rey Acaz, asustado por Siria e Israel, y que dos señales garantizaban que Dios preservaría la línea de David: el hijo de Isaías, antes de cuya infancia avanzada los dos reyes enemigos desaparecerían, y, en un futuro mucho más grandioso, el nacimiento virginal. Sobre la palabra hebrea *almá*, explica que el Antiguo Testamento favorece «doncella», que nunca se usa de una mujer casada y que los traductores judíos de la Septuaginta la vertieron con el griego *parthenos*, «virgen». La Biblia de estudio MacArthur reconoce que los estudiosos no siempre coinciden en ese punto. Carballosa nota otra diferencia: Isaías dice que ella «llamará» el nombre y el griego de Mateo, «llamarán», quizá porque José y María reconocieron juntos al Emanuel prometido.",
+          "fuentes": [
+            "mateo__macarthur#26",
+            "biblia_de_estudio__autor#1947",
+            "mateo_la_revelacion__carballosa#78"
+          ]
+        },
+        {
+          "texto": "En Joel 2 y Hechos 2, Pedro cita la profecía («derramaré de mi Espíritu sobre toda carne», Hechos 2:17) para explicar lo que la gente veía y oía. MacArthur, en su comentario a Hechos, observa que los oyentes esperaban ese don porque, según Joel 2:28-29, marcaría el comienzo de los tiempos mesiánicos; y la Biblia de estudio MacArthur dice que «postreros días» es la era actual, desde la primera venida de Cristo hasta su regreso.",
+          "fuentes": [
+            "hechos_comentario__archivo#51",
+            "biblia_de_estudio__autor#2483"
+          ]
+        },
+        {
+          "texto": "Un principio de lectura: el Nuevo Testamento no corrige a los profetas. La Declaración de Chicago sobre hermenéutica bíblica (ICBI, en inglés) niega que los escritores posteriores hayan malinterpretado pasajes anteriores al citarlos, y afirma que el sentido de las palabras de un profeta incluye, sin limitarse a ello, lo que él entendió, más la intención de Dios que se ve en el cumplimiento. Ryrie coincide en lo esencial: hay que dejar lugar para un significado más completo en la mente del Autor divino, que se ve al comparar Escritura con Escritura.",
+          "fuentes": [
+            "web_chicago_hermeneutica#3",
+            "ryrie#51"
+          ]
+        }
       ]
     },
     {
       "titulo": "¿Literal o simbólico? Lo que traen las fuentes",
       "parrafos": [
-        {"texto": "Hay un terreno común. La Declaración de Chicago afirma que se debe interpretar la Biblia según su sentido literal o normal, el gramatical e histórico, que toma en cuenta todas las figuras del lenguaje y formas literarias. Ryrie coincide: nadie niega que la Biblia usa figuras, pero ellas comunican verdades literales, a menudo con más fuerza. Su ejemplo son las «rosas de Tyler», que aluden a rosas reales y extraordinarias, no a una ciudad que haya que habitar.", "fuentes": ["web_chicago_hermeneutica#3", "ryrie#198"]},
-        {"texto": "El desacuerdo, tal como lo describe Ryrie, aparece en la profecía de los últimos tiempos. Él sostiene que la interpretación literal debe aplicarse de manera consecuente también a las profecías no cumplidas. Su argumento principal es que las profecías de la primera venida de Cristo se cumplieron literalmente (menciona Miqueas 5:2 e Isaías 53:5 y dice que se estiman más de trescientas). De unas veinticuatro profecías que el Nuevo Testamento cumple de modo típico, afirma, solo siete suelen citarse como lectura no literal (entre ellas Hechos 2:17-21), aunque no todos aceptan que lo prueben.", "fuentes": ["ryrie#51"]},
-        {"texto": "Ryrie resume también cómo ve la postura contraria, a la que identifica con Oswald T. Allis: las figuras retóricas, el carácter espiritual del tema central de la Biblia y el carácter preparatorio del Antiguo Testamento obligarían a poner límites a la lectura literal, y gran parte de la profecía debería leerse como lenguaje figurado. Ryrie responde que las figuras no cambian el sentido claro y que la guía de Allis para decidir cuándo leer de una manera o de otra le resulta circular. Aquí solo oímos esa postura a través de la descripción de Ryrie; sus argumentos propios se estudiarán con los autores que la defienden, en la serie sobre el fin de los tiempos.", "fuentes": ["ryrie#50", "ryrie#198"]}
+        {
+          "texto": "Hay un terreno común. La Declaración de Chicago afirma que se debe interpretar la Biblia según su sentido literal o normal, el gramatical e histórico, que toma en cuenta todas las figuras del lenguaje y formas literarias. Ryrie coincide: nadie niega que la Biblia usa figuras, pero ellas comunican verdades literales, a menudo con más fuerza. Su ejemplo son las «rosas de Tyler», que aluden a rosas reales y extraordinarias, no a una ciudad que haya que habitar.",
+          "fuentes": [
+            "web_chicago_hermeneutica#3",
+            "ryrie#198"
+          ]
+        },
+        {
+          "texto": "El desacuerdo, tal como lo describe Ryrie, aparece en la profecía de los últimos tiempos. Él sostiene que la interpretación literal debe aplicarse de manera consecuente también a las profecías no cumplidas. Su argumento principal es que las profecías de la primera venida de Cristo se cumplieron literalmente (menciona Miqueas 5:2 e Isaías 53:5 y dice que se estiman más de trescientas). De unas veinticuatro profecías que el Nuevo Testamento cumple de modo típico, afirma, solo siete suelen citarse como lectura no literal (entre ellas Hechos 2:17-21), aunque no todos aceptan que lo prueben.",
+          "fuentes": [
+            "ryrie#51"
+          ]
+        },
+        {
+          "texto": "Ryrie resume también cómo ve la postura contraria, a la que identifica con Oswald T. Allis: las figuras retóricas, el carácter espiritual del tema central de la Biblia y el carácter preparatorio del Antiguo Testamento obligarían a poner límites a la lectura literal, y gran parte de la profecía debería leerse como lenguaje figurado. Ryrie responde que las figuras no cambian el sentido claro y que la guía de Allis para decidir cuándo leer de una manera o de otra le resulta circular. Aquí solo oímos esa postura a través de la descripción de Ryrie; sus argumentos propios se estudiarán con los autores que la defienden, en la serie sobre el fin de los tiempos.",
+          "fuentes": [
+            "ryrie#50",
+            "ryrie#198"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "La característica de los falsos profetas es que sus predicciones no siempre se cumplen.", "autor": "Biblia de estudio MacArthur (nota a Deuteronomio 18:20-22)", "obra": "Biblia de estudio MacArthur", "fuentes": ["biblia_de_estudio__autor#408"]},
-    {"texto": "el propósito de proclamar una advertencia es producir arrepentimiento", "autor": "Wayne Grudem", "obra": "Teología sistemática", "fuentes": ["grudem#170"]}
+    {
+      "texto": "La característica de los falsos profetas es que sus predicciones no siempre se cumplen.",
+      "autor": "Biblia de estudio MacArthur (nota a Deuteronomio 18:20-22)",
+      "obra": "Biblia de estudio MacArthur",
+      "fuentes": [
+        "biblia_de_estudio__autor#408"
+      ]
+    },
+    {
+      "texto": "el propósito de proclamar una advertencia es producir arrepentimiento",
+      "autor": "Wayne Grudem",
+      "obra": "Teología sistemática",
+      "fuentes": [
+        "grudem#170"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "עלמה", "translit": "almá", "idioma": "hebreo", "ref": "Is 7:14", "significado": "La palabra de Isaías 7:14. MacArthur explica que su uso en el Antiguo Testamento favorece «doncella», que nunca designa a una mujer casada y que la Septuaginta la tradujo «virgen».", "fuentes": ["mateo__macarthur#26"]},
-    {"original": "παρθένος", "translit": "parthenos", "idioma": "griego", "ref": "Mt 1:23", "significado": "«Virgen». El término griego con que la Septuaginta tradujo la palabra de Isaías 7:14 y que cita Mateo.", "fuentes": ["mateo__macarthur#26", "biblia_de_estudio__autor#1947"]}
+    {
+      "original": "עלמה",
+      "translit": "almá",
+      "idioma": "hebreo",
+      "ref": "Is 7:14",
+      "significado": "La palabra de Isaías 7:14. MacArthur explica que su uso en el Antiguo Testamento favorece «doncella», que nunca designa a una mujer casada y que la Septuaginta la tradujo «virgen».",
+      "fuentes": [
+        "mateo__macarthur#26"
+      ]
+    },
+    {
+      "original": "παρθένος",
+      "translit": "parthenos",
+      "idioma": "griego",
+      "ref": "Mt 1:23",
+      "significado": "«Virgen». El término griego con que la Septuaginta tradujo la palabra de Isaías 7:14 y que cita Mateo.",
+      "fuentes": [
+        "mateo__macarthur#26",
+        "biblia_de_estudio__autor#1947"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "El Profeta como Moisés. Moisés anunció un profeta como él (Deuteronomio 18:15) y el Nuevo Testamento lo aplica a Jesús (Hechos 3:22-23). Según la Biblia de estudio MacArthur, el pronombre singular apunta al Profeta definitivo, el Mesías; Ryrie dice que su cumplimiento final fue Jesucristo, a quien la gente reconoció como profeta. Es algo que el propio Nuevo Testamento establece de manera explícita.", "refs": ["Dt 18:15", "Hch 3:22-23"], "fuentes": ["biblia_de_estudio__autor#408", "ryrie#112"]},
-    {"texto": "Emanuel, Dios con nosotros. Mateo une Isaías 7:14 con el nacimiento de Jesús (Mateo 1:22-23). Carballosa subraya que lo que más se destaca de la profecía es el nombre Emanuel: Jesús es Dios con nosotros por su concepción virginal y su nacimiento sobrenatural.", "refs": ["Is 7:14", "Mt 1:22-23"], "fuentes": ["mateo_la_revelacion__carballosa#78"]}
+    {
+      "texto": "El Profeta como Moisés. Moisés anunció un profeta como él (Deuteronomio 18:15) y el Nuevo Testamento lo aplica a Jesús (Hechos 3:22-23). Según la Biblia de estudio MacArthur, el pronombre singular apunta al Profeta definitivo, el Mesías; Ryrie dice que su cumplimiento final fue Jesucristo, a quien la gente reconoció como profeta. Es algo que el propio Nuevo Testamento establece de manera explícita.",
+      "refs": [
+        "Dt 18:15",
+        "Hch 3:22-23"
+      ],
+      "fuentes": [
+        "biblia_de_estudio__autor#408",
+        "ryrie#112"
+      ]
+    },
+    {
+      "texto": "Emanuel, Dios con nosotros. Mateo une Isaías 7:14 con el nacimiento de Jesús (Mateo 1:22-23). Carballosa subraya que lo que más se destaca de la profecía es el nombre Emanuel: Jesús es Dios con nosotros por su concepción virginal y su nacimiento sobrenatural.",
+      "refs": [
+        "Is 7:14",
+        "Mt 1:22-23"
+      ],
+      "fuentes": [
+        "mateo_la_revelacion__carballosa#78"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Cómo se cumple Joel 2:28-32 en Hechos 2?",
       "posturas": [
-        {"postura": "Pentecostés fue un anticipo de lo que se dará en plenitud en el reino del Mesías después del día del Señor; la profecía no se cumplirá del todo hasta el reino milenial, aunque Pedro la emplea porque Pentecostés fue parte de ese cumplimiento y una muestra de lo que vendrá.", "quien": "Biblia de estudio MacArthur (John MacArthur)", "fuentes": ["biblia_de_estudio__autor#1696", "biblia_de_estudio__autor#2483"]},
-        {"postura": "Los fenómenos de Hechos 2 y la destrucción de Jerusalén en el año 70 serían el cumplimiento del pasaje de Joel. Aparece aquí solo como la describe la Biblia de estudio MacArthur, sin las razones de quienes la sostienen.", "quien": "Presentada por la Biblia de estudio MacArthur", "fuentes": ["biblia_de_estudio__autor#1696"]}
+        {
+          "postura": "Pentecostés fue un anticipo de lo que se dará en plenitud en el reino del Mesías después del día del Señor; la profecía no se cumplirá del todo hasta el reino milenial, aunque Pedro la emplea porque Pentecostés fue parte de ese cumplimiento y una muestra de lo que vendrá.",
+          "quien": "Biblia de estudio MacArthur (John MacArthur)",
+          "fuentes": [
+            "biblia_de_estudio__autor#1696",
+            "biblia_de_estudio__autor#2483"
+          ]
+        },
+        {
+          "postura": "Los fenómenos de Hechos 2 y la destrucción de Jerusalén en el año 70 serían el cumplimiento del pasaje de Joel. Aparece aquí solo como la describe la Biblia de estudio MacArthur, sin las razones de quienes la sostienen.",
+          "quien": "Presentada por la Biblia de estudio MacArthur",
+          "fuentes": [
+            "biblia_de_estudio__autor#1696"
+          ]
+        }
       ],
       "nota": "Las fuentes del día traen esta discusión desde un solo marco; otras lecturas del cumplimiento se estudiarán con sus propios autores."
     },
     {
       "tema": "¿Cómo se cumple Isaías 7:14 en Mateo 1:23?",
       "posturas": [
-        {"postura": "Isaías dio una señal a Acaz (el hijo de Isaías y la desaparición de los dos reyes enemigos) y anunció además un nacimiento mucho mayor, el virginal. Mateo usa la palabra como los judíos de su época, y su enseñanza sobre el nacimiento virginal no depende de ella.", "quien": "John MacArthur (Mateo)", "fuentes": ["mateo__macarthur#26"]},
-        {"postura": "La profecía tuvo un primer cumplimiento en tiempos de Acaz y un segundo con el nacimiento de Jesús; así lo entendió Mateo, bajo inspiración. Reconoce que existen varias interpretaciones del pasaje.", "quien": "Carballosa", "fuentes": ["mateo_la_revelacion__carballosa#78"]}
+        {
+          "postura": "Isaías dio una señal a Acaz (el hijo de Isaías y la desaparición de los dos reyes enemigos) y anunció además un nacimiento mucho mayor, el virginal. Mateo usa la palabra como los judíos de su época, y su enseñanza sobre el nacimiento virginal no depende de ella.",
+          "quien": "John MacArthur (Mateo)",
+          "fuentes": [
+            "mateo__macarthur#26"
+          ]
+        },
+        {
+          "postura": "La profecía tuvo un primer cumplimiento en tiempos de Acaz y un segundo con el nacimiento de Jesús; así lo entendió Mateo, bajo inspiración. Reconoce que existen varias interpretaciones del pasaje.",
+          "quien": "Carballosa",
+          "fuentes": [
+            "mateo_la_revelacion__carballosa#78"
+          ]
+        }
       ],
       "nota": "Ambos autores ven un cumplimiento final en Cristo y un contexto inmediato en tiempos de Acaz; las fuentes de hoy no traen una lectura que niegue alguno de los dos."
     },
     {
       "tema": "¿Se debe leer la profecía siempre en sentido literal?",
       "posturas": [
-        {"postura": "Sí, de manera consecuente también en las profecías no cumplidas: las figuras retóricas expresan verdades literales y las profecías de la primera venida se cumplieron literalmente.", "quien": "Ryrie", "fuentes": ["ryrie#50", "ryrie#51", "ryrie#198"]},
-        {"postura": "Hay límites a la lectura literal por las figuras retóricas, el tema espiritual de la Biblia y el carácter preparatorio del Antiguo Testamento. Aparece solo como la resume Ryrie.", "quien": "Presentada por Ryrie (sobre Allis)", "fuentes": ["ryrie#50", "ryrie#198"]}
+        {
+          "postura": "Sí, de manera consecuente también en las profecías no cumplidas: las figuras retóricas expresan verdades literales y las profecías de la primera venida se cumplieron literalmente.",
+          "quien": "Ryrie",
+          "fuentes": [
+            "ryrie#50",
+            "ryrie#51",
+            "ryrie#198"
+          ]
+        },
+        {
+          "postura": "Hay límites a la lectura literal por las figuras retóricas, el tema espiritual de la Biblia y el carácter preparatorio del Antiguo Testamento. Aparece solo como la resume Ryrie.",
+          "quien": "Presentada por Ryrie (sobre Allis)",
+          "fuentes": [
+            "ryrie#50",
+            "ryrie#198"
+          ]
+        }
       ],
       "nota": "Solo se oye una voz directa y la descripción que hace de la otra; el debate sobre el milenio se estudiará con sus propios autores."
     }
   ],
   "conexiones": [
-    {"ref": "Jer 23:16", "nota": "Grudem lo cita junto con Deuteronomio 18:20 para definir al falso profeta como quien dice lo que Dios no ha ordenado.", "fuentes": ["el_don_de__grudem#36"]},
-    {"ref": "Éx 32:9-14", "nota": "Moisés intercede y Dios retira el juicio anunciado: otro caso de advertencia que cumple su propósito sin ejecutarse.", "fuentes": ["grudem#170"]},
-    {"ref": "Ro 10:13", "nota": "La Biblia de estudio MacArthur señala que Pablo cita aquí el versículo 32 de Joel 2.", "fuentes": ["biblia_de_estudio__autor#1705"]},
-    {"ref": "Mt 12:41", "nota": "El comentario de MacArthur a Hechos recuerda que, según este versículo, Nínive se arrepintió a causa de la predicación de Jonás.", "fuentes": ["hechos_comentario__archivo#51"]}
+    {
+      "ref": "Jer 23:16",
+      "nota": "Grudem lo cita junto con Deuteronomio 18:20 para definir al falso profeta como quien dice lo que Dios no ha ordenado.",
+      "fuentes": [
+        "el_don_de__grudem#36"
+      ]
+    },
+    {
+      "ref": "Éx 32:9-14",
+      "nota": "Moisés intercede y Dios retira el juicio anunciado: otro caso de advertencia que cumple su propósito sin ejecutarse.",
+      "fuentes": [
+        "grudem#170"
+      ]
+    },
+    {
+      "ref": "Ro 10:13",
+      "nota": "La Biblia de estudio MacArthur señala que Pablo cita aquí el versículo 32 de Joel 2.",
+      "fuentes": [
+        "biblia_de_estudio__autor#1705"
+      ]
+    },
+    {
+      "ref": "Mt 12:41",
+      "nota": "El comentario de MacArthur a Hechos recuerda que, según este versículo, Nínive se arrepintió a causa de la predicación de Jonás.",
+      "fuentes": [
+        "hechos_comentario__archivo#51"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Cuando oigas «Dios me dijo», preguntate si concuerda con lo que Dios ya reveló en la Escritura. Grudem señala que el criterio para evaluar discursos públicos en el Nuevo Testamento parece haber sido la concordancia con la Escritura y con la enseñanza recibida.", "fuentes": ["el_don_de__grudem#35"]},
-    {"texto": "Leé las advertencias de la Biblia como invitaciones a volver y no solo como sentencias: el propósito de una advertencia es producir arrepentimiento, dice Grudem, y Nínive lo muestra.", "fuentes": ["grudem#170"]},
-    {"texto": "Antes de decir que una profecía «se cumplió», fijate qué clase de uso hace el texto. Ryrie enumera usos distintos del Antiguo Testamento en el Nuevo (ilustrativo, analógico, aplicativo, retórico, cumplimiento directo o típico) y eso evita conclusiones apresuradas.", "fuentes": ["ryrie#51"]}
+    {
+      "texto": "Cuando oigas «Dios me dijo», preguntate si concuerda con lo que Dios ya reveló en la Escritura. Grudem señala que el criterio para evaluar discursos públicos en el Nuevo Testamento parece haber sido la concordancia con la Escritura y con la enseñanza recibida.",
+      "fuentes": [
+        "el_don_de__grudem#35"
+      ]
+    },
+    {
+      "texto": "Leé las advertencias de la Biblia como invitaciones a volver y no solo como sentencias: el propósito de una advertencia es producir arrepentimiento, dice Grudem, y Nínive lo muestra.",
+      "fuentes": [
+        "grudem#170"
+      ]
+    },
+    {
+      "texto": "Antes de decir que una profecía «se cumplió», fijate qué clase de uso hace el texto. Ryrie enumera usos distintos del Antiguo Testamento en el Nuevo (ilustrativo, analógico, aplicativo, retórico, cumplimiento directo o típico) y eso evita conclusiones apresuradas.",
+      "fuentes": [
+        "ryrie#51"
+      ]
+    }
   ],
   "para_reflexionar": [
     "Jonás se enojó porque Dios perdonó a Nínive. ¿Hay alguna persona o grupo a quien te cuesta imaginar perdonado? ¿Qué te dice eso de vos?",
     "Si una advertencia de Dios puede detenerse cuando hay arrepentimiento, ¿qué advertencia de la Biblia te habla hoy? ¿Qué harías distinto si la tomaras en serio?",
     "Los autores del día coinciden en leer la Biblia en su sentido normal, pero difieren al aplicarlo a la profecía. ¿Cómo estudiar un tema en el que los cristianos no coinciden sin perder el respeto por quienes ven las cosas de otra manera?"
   ],
-  "para_orar": "Señor, tu Palabra me habla a mí, no solo a quienes la escucharon primero. Dame oídos para reconocer tu voz y discernimiento para no seguir a quien habla por su cuenta. Si estoy resistiendo alguna advertencia tuya, ablandame el corazón como lo hiciste con Nínive. Gracias porque en Jesús, el Profeta que anunciaste, me hablaste de manera definitiva. Amén.",
   "profundizar": [
-    {"titulo": "Los profetas como fiscales del pacto", "texto": "Según la guía de Sproul, el libro de Oseas muestra a Dios presentando cargos formales contra su pueblo (Oseas 4:1): falta de fidelidad, de misericordia (hesed, la palabra con que los judíos expresaban la lealtad inquebrantable de Dios) y de conocimiento de Dios. La guía sostiene que la mayor amenaza para Israel era un falso profeta en la tierra. Es una forma de leer a los profetas que pone el acento en el pacto antes que en el calendario.", "fuentes": ["web_ligonier_drama_redencion#31"]}
+    {
+      "titulo": "Los profetas como fiscales del pacto",
+      "texto": "Según la guía de Sproul, el libro de Oseas muestra a Dios presentando cargos formales contra su pueblo (Oseas 4:1): falta de fidelidad, de misericordia (hesed, la palabra con que los judíos expresaban la lealtad inquebrantable de Dios) y de conocimiento de Dios. La guía sostiene que la mayor amenaza para Israel era un falso profeta en la tierra. Es una forma de leer a los profetas que pone el acento en el pacto antes que en el calendario.",
+      "fuentes": [
+        "web_ligonier_drama_redencion#31"
+      ]
+    }
   ]
 }

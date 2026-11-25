@@ -2,122 +2,432 @@
   "dia": 53,
   "titulo": "Los pactos: el hilo que une toda la historia",
   "bajada": "Noé, Abraham, Moisés, David y, al final, una copa en la mesa de Jesús: ¿qué es un pacto bíblico, cómo cada pacto retoma al anterior y por qué los estudiosos no lo ordenan todo de la misma manera?",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Jeremías 31:31-34; Lucas 22:14-23", "porque": "Entre la promesa del profeta y la mesa de la Última Cena hay siglos de historia, pero Jesús habla como quien la está cumpliendo."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Jeremías 31:31-34; Lucas 22:14-23",
+    "porque": "Entre la promesa del profeta y la mesa de la Última Cena hay siglos de historia, pero Jesús habla como quien la está cumpliendo."
+  },
   "versiculos": [
-    {"ref": "Jeremías 31:33", "porque": "Resume lo que Dios promete en el nuevo pacto: escribir su ley por dentro y ser Dios de su pueblo."},
-    {"ref": "Lucas 22:20", "porque": "Jesús nombra el nuevo pacto y lo vincula con su sangre."}
+    {
+      "ref": "Jeremías 31:33",
+      "porque": "Resume lo que Dios promete en el nuevo pacto: escribir su ley por dentro y ser Dios de su pueblo."
+    },
+    {
+      "ref": "Lucas 22:20",
+      "porque": "Jesús nombra el nuevo pacto y lo vincula con su sangre."
+    }
   ],
   "entrada": {
     "texto": "Si recorrés la Biblia de punta a punta, una palabra vuelve una y otra vez: pacto. Aparece con Noé, con Abraham, con Moisés, con David, y finalmente en labios de Jesús, que levanta una copa. El ensayo de la Coalición por el Evangelio dice que los pactos forman el hilo unificador de la acción salvadora de Dios en las Escrituras, y que los teólogos difieren sobre su número y naturaleza pero pocos discuten su importancia.\n\nHoy seguimos ese hilo. Vas a ver cómo cada pacto retoma al anterior y lo hace avanzar, y también que los autores no ordenan todas las piezas igual: esos desacuerdos quedan a la vista, sin zanjar, como adelanto del ciclo 7.",
-    "fuentes": ["web_cpe_pactos_biblicos#1", "grudem#542"]
+    "fuentes": [
+      "web_cpe_pactos_biblicos#1",
+      "grudem#542"
+    ]
   },
   "apartados": [
     {
       "titulo": "Qué es un pacto bíblico",
       "parrafos": [
-        {"texto": "Grudem explica que, desde la creación, la relación de Dios con los seres humanos estuvo definida por requerimientos y promesas concretas, y que la Biblia suele llamar «pactos» a los resúmenes de esas disposiciones. Su definición: un acuerdo legal, inalterable y divinamente impuesto entre Dios y el hombre, que fija las condiciones de la relación. Aunque haya dos partes, el ser humano no negocia: solo acepta o rechaza. Lo apoya en una elección de palabras: los traductores griegos del Antiguo Testamento, y después los autores del Nuevo, evitaron el término corriente para un contrato entre iguales y eligieron otro, *diatheke*, que subraya que las condiciones las fija una sola parte y que también significaba «testamento».", "fuentes": ["grudem#542"]},
-        {"texto": "MacArthur lo define como un acuerdo formal o tratado entre dos partes, con obligaciones y normas, y dice que los pactos son los instrumentos por los que se despliegan los propósitos del reino de Dios. Según él, casi todos son incondicionales y eternos; el único condicional y temporal es el mosaico. Berkhof recuerda que todo pacto tiene dos caras: otorga privilegios y exige obligaciones.", "fuentes": ["macarthur_ts#1203", "berkhof#124"]},
-        {"texto": "Entre tantos matices, algo se repite. Grudem dice que lo esencial en todos los pactos es la promesa de Jeremías 31:33: Dios será el Dios de su pueblo y ellos serán su pueblo. Berkhof muestra que esa promesa reaparece cuando se inicia una fase nueva o se renueva el pacto (Jeremías 31:33; Hebreos 8:10; 2 Corintios 6:16-18) y que se realiza en plenitud en Apocalipsis 21:3.", "fuentes": ["grudem#542", "berkhof#124"]}
+        {
+          "texto": "Grudem explica que, desde la creación, la relación de Dios con los seres humanos estuvo definida por requerimientos y promesas concretas, y que la Biblia suele llamar «pactos» a los resúmenes de esas disposiciones. Su definición: un acuerdo legal, inalterable y divinamente impuesto entre Dios y el hombre, que fija las condiciones de la relación. Aunque haya dos partes, el ser humano no negocia: solo acepta o rechaza. Lo apoya en una elección de palabras: los traductores griegos del Antiguo Testamento, y después los autores del Nuevo, evitaron el término corriente para un contrato entre iguales y eligieron otro, *diatheke*, que subraya que las condiciones las fija una sola parte y que también significaba «testamento».",
+          "fuentes": [
+            "grudem#542"
+          ]
+        },
+        {
+          "texto": "MacArthur lo define como un acuerdo formal o tratado entre dos partes, con obligaciones y normas, y dice que los pactos son los instrumentos por los que se despliegan los propósitos del reino de Dios. Según él, casi todos son incondicionales y eternos; el único condicional y temporal es el mosaico. Berkhof recuerda que todo pacto tiene dos caras: otorga privilegios y exige obligaciones.",
+          "fuentes": [
+            "macarthur_ts#1203",
+            "berkhof#124"
+          ]
+        },
+        {
+          "texto": "Entre tantos matices, algo se repite. Grudem dice que lo esencial en todos los pactos es la promesa de Jeremías 31:33: Dios será el Dios de su pueblo y ellos serán su pueblo. Berkhof muestra que esa promesa reaparece cuando se inicia una fase nueva o se renueva el pacto (Jeremías 31:33; Hebreos 8:10; 2 Corintios 6:16-18) y que se realiza en plenitud en Apocalipsis 21:3.",
+          "fuentes": [
+            "grudem#542",
+            "berkhof#124"
+          ]
+        }
       ],
-      "destacado": {"texto": "Detrás de cada pacto late la misma promesa: Dios se hace Dios de un pueblo, y ese pueblo es suyo.", "fuentes": ["grudem#542", "berkhof#124"]}
+      "destacado": {
+        "texto": "Detrás de cada pacto late la misma promesa: Dios se hace Dios de un pueblo, y ese pueblo es suyo.",
+        "fuentes": [
+          "grudem#542",
+          "berkhof#124"
+        ]
+      }
     },
     {
       "titulo": "Noé: el escenario donde todo puede ocurrir",
       "parrafos": [
-        {"texto": "El ensayo de la Coalición señala que el término «pacto» no aparece antes de Génesis 6:18. MacArthur coincide: es allí donde Dios dice a Noé «Mas estableceré mi pacto contigo», y por eso el primer pacto bíblico es el noético, que Génesis 9:16 llama eterno. Se establece cuando el diluvio termina (Génesis 8:20-9:17). Según MacArthur, Dios garantiza la estabilidad de la naturaleza (Génesis 8:22), renueva el mandato de multiplicarse, declara sagrada la vida humana por ser portadora de la imagen de Dios y promete no volver a destruir el mundo con agua. El ensayo resume su fin: preservar la vida en la tierra sin nuevas interrupciones divinas, con la mira de que el objetivo redentor alcance a toda la creación.", "fuentes": ["web_cpe_pactos_biblicos#1", "web_cpe_pactos_biblicos#2", "macarthur_ts#1204", "macarthur_ts#1205"]},
-        {"texto": "Los autores lo acomodan de manera algo distinta. Grudem lo ve bastante diferente del pacto de gracia: las partes son Dios y toda la humanidad, no se pide fe ni obediencia y la señal, el arco iris, no requiere participación activa. Berkhof lo llama pacto de la naturaleza o de la gracia común, porque confiere solo bendiciones naturales, pero advierte que también nace de la gracia y garantiza lo terrenal necesario para que el pacto de gracia se realice. MacArthur lo describe como la plataforma sobre la que se desarrollan los planes del reino.", "fuentes": ["grudem#548", "berkhof#129", "macarthur_ts#1205"]}
+        {
+          "texto": "El ensayo de la Coalición señala que el término «pacto» no aparece antes de Génesis 6:18. MacArthur coincide: es allí donde Dios dice a Noé «Mas estableceré mi pacto contigo», y por eso el primer pacto bíblico es el noético, que Génesis 9:16 llama eterno. Se establece cuando el diluvio termina (Génesis 8:20-9:17). Según MacArthur, Dios garantiza la estabilidad de la naturaleza (Génesis 8:22), renueva el mandato de multiplicarse, declara sagrada la vida humana por ser portadora de la imagen de Dios y promete no volver a destruir el mundo con agua. El ensayo resume su fin: preservar la vida en la tierra sin nuevas interrupciones divinas, con la mira de que el objetivo redentor alcance a toda la creación.",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#1",
+            "web_cpe_pactos_biblicos#2",
+            "macarthur_ts#1204",
+            "macarthur_ts#1205"
+          ]
+        },
+        {
+          "texto": "Los autores lo acomodan de manera algo distinta. Grudem lo ve bastante diferente del pacto de gracia: las partes son Dios y toda la humanidad, no se pide fe ni obediencia y la señal, el arco iris, no requiere participación activa. Berkhof lo llama pacto de la naturaleza o de la gracia común, porque confiere solo bendiciones naturales, pero advierte que también nace de la gracia y garantiza lo terrenal necesario para que el pacto de gracia se realice. MacArthur lo describe como la plataforma sobre la que se desarrollan los planes del reino.",
+          "fuentes": [
+            "grudem#548",
+            "berkhof#129",
+            "macarthur_ts#1205"
+          ]
+        }
       ],
-      "destacado": {"texto": "El pacto con Noé no promete salvación: promete escenario, un mundo que se sostiene para que la historia de la redención pueda desarrollarse.", "fuentes": ["macarthur_ts#1205", "berkhof#129"]}
+      "destacado": {
+        "texto": "El pacto con Noé no promete salvación: promete escenario, un mundo que se sostiene para que la historia de la redención pueda desarrollarse.",
+        "fuentes": [
+          "macarthur_ts#1205",
+          "berkhof#129"
+        ]
+      }
     },
     {
       "titulo": "Abraham: la promesa que abre el horizonte",
       "parrafos": [
-        {"texto": "En Génesis 12:1-3 Dios promete a Abraham que será una gran nación y que a través de él bendecirá a todos los pueblos. El ensayo de la Coalición observa que cada promesa se ratifica después: la nacional en Génesis 15 (15:18) y la internacional en Génesis 17, con un pacto eterno (17:7), el llamado pacto de la circuncisión (Hechos 7:8). Muchos ven el segundo como un simple desarrollo del primero; el ensayo propone que son dos etapas de los tratos de Dios con Abraham.", "fuentes": ["web_cpe_pactos_biblicos#2"]},
-        {"texto": "MacArthur ordena las promesas en tres: tierra, descendientes y bendición universal, y ve en este pacto la base de los que vendrán. En Génesis 15 reconoce una ratificación unilateral: Dios pasa entre los animales partidos y se obliga incondicionalmente. En Génesis 17 destaca los reyes que saldrán de Abraham, anticipo de David, y la circuncisión como señal. Con la bendición para «todas las familias de la tierra» (Génesis 12:3), los planes de Dios incluyen a Israel y a los gentiles.", "fuentes": ["macarthur_ts#1205", "macarthur_ts#1206"]},
-        {"texto": "Berkhof señala que con Abraham el pacto se establece formalmente y que lo decisivo fue su fe: creyó a Dios y le fue contado por justicia (Génesis 15:6). Distingue bendiciones temporales (la tierra, la descendencia) y espirituales (perdón, el Espíritu); las primeras simbolizaban las segundas, que se cumplieron en quienes siguieron los pasos de Abraham. Grudem añade que Pablo dice que la Escritura anunció el evangelio de antemano a Abraham (Gálatas 3:8) y que Zacarías vincula la venida de Jesús con el santo pacto jurado a Abraham (Lucas 1:72-73).", "fuentes": ["berkhof#130", "biblia", "grudem#548"]}
+        {
+          "texto": "En Génesis 12:1-3 Dios promete a Abraham que será una gran nación y que a través de él bendecirá a todos los pueblos. El ensayo de la Coalición observa que cada promesa se ratifica después: la nacional en Génesis 15 (15:18) y la internacional en Génesis 17, con un pacto eterno (17:7), el llamado pacto de la circuncisión (Hechos 7:8). Muchos ven el segundo como un simple desarrollo del primero; el ensayo propone que son dos etapas de los tratos de Dios con Abraham.",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#2"
+          ]
+        },
+        {
+          "texto": "MacArthur ordena las promesas en tres: tierra, descendientes y bendición universal, y ve en este pacto la base de los que vendrán. En Génesis 15 reconoce una ratificación unilateral: Dios pasa entre los animales partidos y se obliga incondicionalmente. En Génesis 17 destaca los reyes que saldrán de Abraham, anticipo de David, y la circuncisión como señal. Con la bendición para «todas las familias de la tierra» (Génesis 12:3), los planes de Dios incluyen a Israel y a los gentiles.",
+          "fuentes": [
+            "macarthur_ts#1205",
+            "macarthur_ts#1206"
+          ]
+        },
+        {
+          "texto": "Berkhof señala que con Abraham el pacto se establece formalmente y que lo decisivo fue su fe: creyó a Dios y le fue contado por justicia (Génesis 15:6). Distingue bendiciones temporales (la tierra, la descendencia) y espirituales (perdón, el Espíritu); las primeras simbolizaban las segundas, que se cumplieron en quienes siguieron los pasos de Abraham. Grudem añade que Pablo dice que la Escritura anunció el evangelio de antemano a Abraham (Gálatas 3:8) y que Zacarías vincula la venida de Jesús con el santo pacto jurado a Abraham (Lucas 1:72-73).",
+          "fuentes": [
+            "berkhof#130",
+            "biblia",
+            "grudem#548"
+          ]
+        }
       ],
-      "destacado": {"texto": "Con Abraham, la historia deja de ser solo la de una familia: desde el principio Dios tiene en mente a todos los pueblos.", "fuentes": ["web_cpe_pactos_biblicos#2", "macarthur_ts#1206"]}
+      "destacado": {
+        "texto": "Con Abraham, la historia deja de ser solo la de una familia: desde el principio Dios tiene en mente a todos los pueblos.",
+        "fuentes": [
+          "web_cpe_pactos_biblicos#2",
+          "macarthur_ts#1206"
+        ]
+      }
     },
     {
       "titulo": "Moisés y David: una nación y un rey",
       "parrafos": [
-        {"texto": "Según el ensayo de la Coalición, el pacto mosaico llega cuando se cumple la liberación anunciada en Génesis 15 (Éxodo 19:4-6; 20:2). Se ocupa menos de cómo heredar la tierra y más de cómo vivir en ella como pueblo elegido, reflejando ante las naciones la sabiduría de Dios (Deuteronomio 4:6-8). Tras el becerro de oro (Éxodo 32-34), Dios restableció el pacto como acto de gracia y no de justicia, y los sacrificios (Levítico 16) expresaban su perdón. MacArthur lo considera bilateral, condicional y revocable, pero no un medio de salvación: el problema estaba en los corazones y no en la ley, que es santa, justa y buena (Romanos 7:12). Berkhof lo ve como el mismo pacto de Abraham con forma nacional, con una ley al servicio del pacto de gracia, que daba conciencia del pecado y guiaba hacia Cristo (Gálatas 3:24).", "fuentes": ["web_cpe_pactos_biblicos#3", "macarthur_ts#1208", "berkhof#130"]},
-        {"texto": "Con David el hilo gira hacia el rey. El ensayo recuerda que David quiere edificar una casa para Dios y Dios promete edificarle a él una casa, una dinastía (2 Samuel 7). Ese texto no dice «pacto», pero otros sí (2 Samuel 23:5; Salmo 89:3). Los paralelos con Abraham son notorios: un gran nombre, una descendencia que perpetúa su nombre y una descendencia que mediará bendición a las naciones (Salmo 72:17). El pacto davídico, concluye, precisa quién será la «semilla» prometida: un descendiente real de Abraham a través de David.", "fuentes": ["web_cpe_pactos_biblicos#3", "web_cpe_pactos_biblicos#4"]},
-        {"texto": "MacArthur ubica el núcleo en 2 Samuel 7:12-16: una dinastía y un trono para siempre. Nota que el «plan» para la humanidad de la oración de David es en hebreo *torá*, señal de que la bendición alcanzará a los gentiles. Para él, parte de las promesas se cumplió en la primera venida de Jesús como Rey del linaje de David, y el reinado supremo aguarda su segunda venida; esa distribución de tiempos es su lectura.", "fuentes": ["macarthur_ts#1213"]}
+        {
+          "texto": "Según el ensayo de la Coalición, el pacto mosaico llega cuando se cumple la liberación anunciada en Génesis 15 (Éxodo 19:4-6; 20:2). Se ocupa menos de cómo heredar la tierra y más de cómo vivir en ella como pueblo elegido, reflejando ante las naciones la sabiduría de Dios (Deuteronomio 4:6-8). Tras el becerro de oro (Éxodo 32-34), Dios restableció el pacto como acto de gracia y no de justicia, y los sacrificios (Levítico 16) expresaban su perdón. MacArthur lo considera bilateral, condicional y revocable, pero no un medio de salvación: el problema estaba en los corazones y no en la ley, que es santa, justa y buena (Romanos 7:12). Berkhof lo ve como el mismo pacto de Abraham con forma nacional, con una ley al servicio del pacto de gracia, que daba conciencia del pecado y guiaba hacia Cristo (Gálatas 3:24).",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#3",
+            "macarthur_ts#1208",
+            "berkhof#130"
+          ]
+        },
+        {
+          "texto": "Con David el hilo gira hacia el rey. El ensayo recuerda que David quiere edificar una casa para Dios y Dios promete edificarle a él una casa, una dinastía (2 Samuel 7). Ese texto no dice «pacto», pero otros sí (2 Samuel 23:5; Salmo 89:3). Los paralelos con Abraham son notorios: un gran nombre, una descendencia que perpetúa su nombre y una descendencia que mediará bendición a las naciones (Salmo 72:17). El pacto davídico, concluye, precisa quién será la «semilla» prometida: un descendiente real de Abraham a través de David.",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#3",
+            "web_cpe_pactos_biblicos#4"
+          ]
+        },
+        {
+          "texto": "MacArthur ubica el núcleo en 2 Samuel 7:12-16: una dinastía y un trono para siempre. Nota que el «plan» para la humanidad de la oración de David es en hebreo *torá*, señal de que la bendición alcanzará a los gentiles. Para él, parte de las promesas se cumplió en la primera venida de Jesús como Rey del linaje de David, y el reinado supremo aguarda su segunda venida; esa distribución de tiempos es su lectura.",
+          "fuentes": [
+            "macarthur_ts#1213"
+          ]
+        }
       ],
-      "destacado": {"texto": "Ningún pacto empieza de cero: Moisés protege a la nación prometida a Abraham, y David concreta la línea real de la que vendría la «semilla».", "fuentes": ["web_cpe_pactos_biblicos#3", "web_cpe_pactos_biblicos#4"]}
+      "destacado": {
+        "texto": "Ningún pacto empieza de cero: Moisés protege a la nación prometida a Abraham, y David concreta la línea real de la que vendría la «semilla».",
+        "fuentes": [
+          "web_cpe_pactos_biblicos#3",
+          "web_cpe_pactos_biblicos#4"
+        ]
+      }
     },
     {
       "titulo": "El nuevo pacto: de Jeremías a la Última Cena",
       "parrafos": [
-        {"texto": "El ensayo de la Coalición cuenta cómo se llegó acá: el incumplimiento de Israel terminó en el juicio, con el templo destruido y el exilio en Babilonia. Dios no abandonó sus planes: la historia continuó con un «nuevo pacto», continuo y discontinuo con los anteriores. El Antiguo Testamento lo nombra así solo una vez (Jeremías 31:31), pero Isaías habla de un pacto de paz eterno ligado al siervo y Ezequiel de una cirugía espiritual (Ezequiel 36:26-27). Lo nuevo en Jeremías es que la Torá se interioriza (31:33), y el resultado es la fórmula de todos los pactos: «Seré su Dios y ellos serán mi pueblo».", "fuentes": ["web_cpe_pactos_biblicos#4"]},
-        {"texto": "MacArthur subraya el contexto de apostasía y juicio por no guardar el pacto mosaico. El nuevo pacto no es «como» aquel (Jeremías 31:32): Dios escribiría su ley en el corazón del pueblo y la obediencia sería interna. En sus palabras, «Un nuevo corazón es el centro del nuevo pacto», con el Espíritu en el pueblo (Ezequiel 36:26-27) y perdón de pecados. Como descansa en el «Yo haré» de Dios, lo considera incondicional y eterno.", "fuentes": ["macarthur_ts#1214", "macarthur_ts#1215", "macarthur_ts#1216"]},
-        {"texto": "Aquí entra la lectura de Lucas. El ensayo explica que el nuevo pacto se ratificó con la muerte de Jesús (Mateo 26:28; Marcos 14:24; Lucas 22:20; 1 Corintios 11:25): en la Cena, Jesús alude al perdón que Jeremías 31:34 une al nuevo pacto y a la sangre con que se selló el pacto mosaico (Éxodo 24:7). MacArthur coincide en que Jesús vinculó explícitamente su muerte con el nuevo pacto: «Esta copa es el nuevo pacto en mi sangre».", "fuentes": ["web_cpe_pactos_biblicos#5", "macarthur_ts#1216"]},
-        {"texto": "Hebreos 8 es el gran comentario de Jeremías 31. Según el ensayo, ese texto enmarca el argumento de Hebreos 8 a 10: Jesús, sacerdote permanente, es mediador de un pacto con «mejores promesas» (8:6), y el contraste con el antiguo no es entre algo malo y algo bueno, sino entre algo bueno pero temporal y algo mejor porque es eterno. Grudem agrega que el Espíritu capacita para obedecer como la ley no podía (2 Corintios 3:6) y que llamar «nuevo» al pacto declara viejo al anterior (Hebreos 8:13).", "fuentes": ["web_cpe_pactos_biblicos#5", "grudem#549"]},
-        {"texto": "¿Está todo cumplido? El ensayo dice que las nuevas realidades ya están presentes, pero que lo mejor está por venir, en la nueva creación (Apocalipsis 21:3). Berkhof también ve la actual administración extendiéndose hasta el regreso de Cristo. Cómo repartir lo presente y lo futuro es lo que se discute más abajo.", "fuentes": ["web_cpe_pactos_biblicos#6", "berkhof#131"]}
+        {
+          "texto": "El ensayo de la Coalición cuenta cómo se llegó acá: el incumplimiento de Israel terminó en el juicio, con el templo destruido y el exilio en Babilonia. Dios no abandonó sus planes: la historia continuó con un «nuevo pacto», continuo y discontinuo con los anteriores. El Antiguo Testamento lo nombra así solo una vez (Jeremías 31:31), pero Isaías habla de un pacto de paz eterno ligado al siervo y Ezequiel de una cirugía espiritual (Ezequiel 36:26-27). Lo nuevo en Jeremías es que la Torá se interioriza (31:33), y el resultado es la fórmula de todos los pactos: «Seré su Dios y ellos serán mi pueblo».",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#4"
+          ]
+        },
+        {
+          "texto": "MacArthur subraya el contexto de apostasía y juicio por no guardar el pacto mosaico. El nuevo pacto no es «como» aquel (Jeremías 31:32): Dios escribiría su ley en el corazón del pueblo y la obediencia sería interna. En sus palabras, «Un nuevo corazón es el centro del nuevo pacto», con el Espíritu en el pueblo (Ezequiel 36:26-27) y perdón de pecados. Como descansa en el «Yo haré» de Dios, lo considera incondicional y eterno.",
+          "fuentes": [
+            "macarthur_ts#1214",
+            "macarthur_ts#1215",
+            "macarthur_ts#1216"
+          ]
+        },
+        {
+          "texto": "Aquí entra la lectura de Lucas. El ensayo explica que el nuevo pacto se ratificó con la muerte de Jesús (Mateo 26:28; Marcos 14:24; Lucas 22:20; 1 Corintios 11:25): en la Cena, Jesús alude al perdón que Jeremías 31:34 une al nuevo pacto y a la sangre con que se selló el pacto mosaico (Éxodo 24:7). MacArthur coincide en que Jesús vinculó explícitamente su muerte con el nuevo pacto: «Esta copa es el nuevo pacto en mi sangre».",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#5",
+            "macarthur_ts#1216"
+          ]
+        },
+        {
+          "texto": "Hebreos 8 es el gran comentario de Jeremías 31. Según el ensayo, ese texto enmarca el argumento de Hebreos 8 a 10: Jesús, sacerdote permanente, es mediador de un pacto con «mejores promesas» (8:6), y el contraste con el antiguo no es entre algo malo y algo bueno, sino entre algo bueno pero temporal y algo mejor porque es eterno. Grudem agrega que el Espíritu capacita para obedecer como la ley no podía (2 Corintios 3:6) y que llamar «nuevo» al pacto declara viejo al anterior (Hebreos 8:13).",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#5",
+            "grudem#549"
+          ]
+        },
+        {
+          "texto": "¿Está todo cumplido? El ensayo dice que las nuevas realidades ya están presentes, pero que lo mejor está por venir, en la nueva creación (Apocalipsis 21:3). Berkhof también ve la actual administración extendiéndose hasta el regreso de Cristo. Cómo repartir lo presente y lo futuro es lo que se discute más abajo.",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#6",
+            "berkhof#131"
+          ]
+        }
       ],
-      "destacado": {"texto": "El nuevo pacto mantiene la promesa de siempre y cambia el modo: la obediencia pasa a nacer desde adentro.", "fuentes": ["macarthur_ts#1215", "web_cpe_pactos_biblicos#4"]}
+      "destacado": {
+        "texto": "El nuevo pacto mantiene la promesa de siempre y cambia el modo: la obediencia pasa a nacer desde adentro.",
+        "fuentes": [
+          "macarthur_ts#1215",
+          "web_cpe_pactos_biblicos#4"
+        ]
+      }
     },
     {
       "titulo": "Una misma historia, mapas distintos",
       "parrafos": [
-        {"texto": "Hasta acá seguimos los pactos que la Biblia nombra. Pero hay quienes agregan otros. El ensayo de la Coalición recoge que la teología reformada sostiene tres anteriores a Noé: un pacto de redención entre las personas de la Trinidad, un pacto de obras con Adán antes de la caída y un pacto de gracia posterior. Otros eruditos reconocen un plan eterno y una relación con Adán, pero los distinguen del concepto de pacto, que incluye elementos como el juramento.", "fuentes": ["web_cpe_pactos_biblicos#1"]},
-        {"texto": "Grudem acepta esos tres. Para él, el pacto de gracia tiene como condición de entrada la fe y de continuidad la obediencia, y su señal pasa de la circuncisión al bautismo y de las fiestas a la Cena del Señor. Berkhof, desde la misma tradición, afirma que en sentido estricto hay solo dos dispensaciones del pacto, la del Antiguo y la del Nuevo Testamento. Chafer, en cambio, define una dispensación como un período identificado por su relación con un propósito de Dios, enumera siete (de la inocencia al reino) y agrega pactos como el edénico, el adámico o el palestino. Grudem lo presenta como el autor de la teología sistemática más extensa escrita por un dispensacionalista, y aclara que algunos dispensacionalistas más recientes no lo siguen en muchos puntos.", "fuentes": ["grudem#546", "grudem#547", "berkhof#129", "teologia_sistematica_tomo__chafer2#107", "teologia_sistematica_tomo__chafer2#108", "teologia_sistematica_tomo__chafer2#109", "teologia_sistematica_tomo__chafer2#110", "grudem#906"]}
+        {
+          "texto": "Hasta acá seguimos los pactos que la Biblia nombra. Pero hay quienes agregan otros. El ensayo de la Coalición recoge que la teología reformada sostiene tres anteriores a Noé: un pacto de redención entre las personas de la Trinidad, un pacto de obras con Adán antes de la caída y un pacto de gracia posterior. Otros eruditos reconocen un plan eterno y una relación con Adán, pero los distinguen del concepto de pacto, que incluye elementos como el juramento.",
+          "fuentes": [
+            "web_cpe_pactos_biblicos#1"
+          ]
+        },
+        {
+          "texto": "Grudem acepta esos tres. Para él, el pacto de gracia tiene como condición de entrada la fe y de continuidad la obediencia, y su señal pasa de la circuncisión al bautismo y de las fiestas a la Cena del Señor. Berkhof, desde la misma tradición, afirma que en sentido estricto hay solo dos dispensaciones del pacto, la del Antiguo y la del Nuevo Testamento. Chafer, en cambio, define una dispensación como un período identificado por su relación con un propósito de Dios, enumera siete (de la inocencia al reino) y agrega pactos como el edénico, el adámico o el palestino. Grudem lo presenta como el autor de la teología sistemática más extensa escrita por un dispensacionalista, y aclara que algunos dispensacionalistas más recientes no lo siguen en muchos puntos.",
+          "fuentes": [
+            "grudem#546",
+            "grudem#547",
+            "berkhof#129",
+            "teologia_sistematica_tomo__chafer2#107",
+            "teologia_sistematica_tomo__chafer2#108",
+            "teologia_sistematica_tomo__chafer2#109",
+            "teologia_sistematica_tomo__chafer2#110",
+            "grudem#906"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "Un nuevo corazón es el centro del nuevo pacto.", "autor": "John MacArthur", "obra": "Teología sistemática", "fuentes": ["macarthur_ts#1215"]},
-    {"texto": "el contraste no es entre algo malo y algo bueno, sino entre algo bueno (pero temporal) y algo mejor (porque es eterno).", "autor": "Coalición por el Evangelio", "obra": "Los pactos bíblicos", "fuentes": ["web_cpe_pactos_biblicos#5"]}
+    {
+      "texto": "Un nuevo corazón es el centro del nuevo pacto.",
+      "autor": "John MacArthur",
+      "obra": "Teología sistemática",
+      "fuentes": [
+        "macarthur_ts#1215"
+      ]
+    },
+    {
+      "texto": "el contraste no es entre algo malo y algo bueno, sino entre algo bueno (pero temporal) y algo mejor (porque es eterno).",
+      "autor": "Coalición por el Evangelio",
+      "obra": "Los pactos bíblicos",
+      "fuentes": [
+        "web_cpe_pactos_biblicos#5"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "ברית", "translit": "berít", "idioma": "hebreo", "ref": "Gn 6:18", "significado": "Pacto. MacArthur indica que su primera aparición en la Biblia está en Génesis 6:18, en el contexto de Noé.", "fuentes": ["macarthur_ts#1204"]},
-    {"original": "διαθήκη", "translit": "diathéke", "idioma": "griego", "ref": "Lc 22:20", "significado": "Pacto, y también testamento. Según Grudem, los traductores griegos del Antiguo Testamento y los autores del Nuevo la prefirieron a un término de contrato entre iguales, porque destaca que las condiciones las establece una sola parte.", "fuentes": ["grudem#542"]}
+    {
+      "original": "ברית",
+      "translit": "berít",
+      "idioma": "hebreo",
+      "ref": "Gn 6:18",
+      "significado": "Pacto. MacArthur indica que su primera aparición en la Biblia está en Génesis 6:18, en el contexto de Noé.",
+      "fuentes": [
+        "macarthur_ts#1204"
+      ]
+    },
+    {
+      "original": "διαθήκη",
+      "translit": "diathéke",
+      "idioma": "griego",
+      "ref": "Lc 22:20",
+      "significado": "Pacto, y también testamento. Según Grudem, los traductores griegos del Antiguo Testamento y los autores del Nuevo la prefirieron a un término de contrato entre iguales, porque destaca que las condiciones las establece una sola parte.",
+      "fuentes": [
+        "grudem#542"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "La semilla prometida y la sangre del pacto. El Nuevo Testamento presenta a Jesús como descendencia de Abraham (Mateo 1:1; Gálatas 3:16) y descendiente real de David (Lucas 1:32-33), y el ensayo de la Coalición resume que todas las promesas del pacto se realizan en él y por él. En la Cena dijo que su sangre sellaba el nuevo pacto (Lucas 22:20), y Hebreos lo llama mediador de un pacto establecido sobre mejores promesas (8:6). Eso es lo explícito.", "refs": ["Mt 1:1", "Gá 3:16", "Lc 22:20", "He 8:6"], "fuentes": ["web_cpe_pactos_biblicos#5", "macarthur_ts#1216"]},
-    {"texto": "Patrones que apuntan a él. Aquí los autores leen un patrón, no una afirmación directa. Berkhof ve en Génesis 3:15 la primera revelación de la idea del pacto y en la ley una guía hacia Cristo (Gálatas 3:24); Grudem recuerda que los sacrificios del Sinaí no quitaban el pecado, pero anticipaban al sumo sacerdote que sería también el sacrificio perfecto (Hebreos 9:11-28).", "refs": ["Gn 3:15", "Gá 3:24", "He 9:11-28"], "fuentes": ["berkhof#129", "berkhof#130", "grudem#549"]}
+    {
+      "texto": "La semilla prometida y la sangre del pacto. El Nuevo Testamento presenta a Jesús como descendencia de Abraham (Mateo 1:1; Gálatas 3:16) y descendiente real de David (Lucas 1:32-33), y el ensayo de la Coalición resume que todas las promesas del pacto se realizan en él y por él. En la Cena dijo que su sangre sellaba el nuevo pacto (Lucas 22:20), y Hebreos lo llama mediador de un pacto establecido sobre mejores promesas (8:6). Eso es lo explícito.",
+      "refs": [
+        "Mt 1:1",
+        "Gá 3:16",
+        "Lc 22:20",
+        "He 8:6"
+      ],
+      "fuentes": [
+        "web_cpe_pactos_biblicos#5",
+        "macarthur_ts#1216"
+      ]
+    },
+    {
+      "texto": "Patrones que apuntan a él. Aquí los autores leen un patrón, no una afirmación directa. Berkhof ve en Génesis 3:15 la primera revelación de la idea del pacto y en la ley una guía hacia Cristo (Gálatas 3:24); Grudem recuerda que los sacrificios del Sinaí no quitaban el pecado, pero anticipaban al sumo sacerdote que sería también el sacrificio perfecto (Hebreos 9:11-28).",
+      "refs": [
+        "Gn 3:15",
+        "Gá 3:24",
+        "He 9:11-28"
+      ],
+      "fuentes": [
+        "berkhof#129",
+        "berkhof#130",
+        "grudem#549"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Hay pactos «teológicos» (de redención, de obras, de gracia) además de los que la Biblia nombra?",
       "posturas": [
-        {"postura": "Sí. El pacto de obras con Adán reúne los elementos de un pacto y se apoya en Oseas 6:7 y Romanos 5:12-21; el de redención es el acuerdo trinitario; el de gracia une a Dios con su pueblo redimido por medio de Cristo, con la misma sustancia en ambos Testamentos.", "quien": "Grudem", "fuentes": ["grudem#543", "grudem#545", "grudem#546"]},
-        {"postura": "No son pactos reales de la Biblia: los bíblicos bastan, y agregar otros afirma más de lo que el texto dice. Cree además que la idea de un pacto de gracia llevó a menudo a negar la distinción entre Israel y la iglesia.", "quien": "MacArthur", "fuentes": ["macarthur_ts#1203", "macarthur_ts#1204"]},
-        {"postura": "Los teólogos llaman pacto de obras a la relación de Adán con Dios y pacto de redención al acuerdo entre las personas de la Deidad; pero la frase «pacto de la gracia» no se encuentra en la Biblia y, tal como suele presentarse, está lejos de ser un concepto bíblico.", "quien": "Chafer", "fuentes": ["teologia_sistematica_tomo__chafer2#109"]}
+        {
+          "postura": "Sí. El pacto de obras con Adán reúne los elementos de un pacto y se apoya en Oseas 6:7 y Romanos 5:12-21; el de redención es el acuerdo trinitario; el de gracia une a Dios con su pueblo redimido por medio de Cristo, con la misma sustancia en ambos Testamentos.",
+          "quien": "Grudem",
+          "fuentes": [
+            "grudem#543",
+            "grudem#545",
+            "grudem#546"
+          ]
+        },
+        {
+          "postura": "No son pactos reales de la Biblia: los bíblicos bastan, y agregar otros afirma más de lo que el texto dice. Cree además que la idea de un pacto de gracia llevó a menudo a negar la distinción entre Israel y la iglesia.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macarthur_ts#1203",
+            "macarthur_ts#1204"
+          ]
+        },
+        {
+          "postura": "Los teólogos llaman pacto de obras a la relación de Adán con Dios y pacto de redención al acuerdo entre las personas de la Deidad; pero la frase «pacto de la gracia» no se encuentra en la Biblia y, tal como suele presentarse, está lejos de ser un concepto bíblico.",
+          "quien": "Chafer",
+          "fuentes": [
+            "teologia_sistematica_tomo__chafer2#109"
+          ]
+        }
       ],
       "nota": "Cada lado se estudiará con sus propios autores y textos en el ciclo 7. Hoy solo se muestra dónde pasa la línea."
     },
     {
       "tema": "El nuevo pacto: ¿cómo se reparte entre la iglesia y Israel?",
       "posturas": [
-        {"postura": "El pacto de gracia del Nuevo Testamento es básicamente el mismo del Antiguo; solo cambia la administración, que ahora se extiende a todas las naciones con el Espíritu derramado sobre la iglesia.", "quien": "Berkhof", "fuentes": ["berkhof#131"]},
-        {"postura": "Los cristianos han sido incluidos en el nuevo pacto, el pacto de gracia; Jeremías 31 se cumple en Cristo.", "quien": "Grudem", "fuentes": ["grudem#545", "grudem#549"]},
-        {"postura": "El destinatario es Israel, aunque alcanza a los gentiles; las bendiciones espirituales están en vigor para la iglesia, pero las promesas nacionales y físicas para Israel se cumplirán cuando Jesús regrese.", "quien": "MacArthur", "fuentes": ["macarthur_ts#1214", "macarthur_ts#1216"]},
-        {"postura": "Distingue un nuevo pacto con la iglesia (Lucas 22:20) y otro con Israel (Jeremías 31:31-34; Hebreos 8:7-12), con bendiciones todas futuras e incondicionalmente aseguradas.", "quien": "Chafer", "fuentes": ["teologia_sistematica_tomo__chafer2#110"]}
+        {
+          "postura": "El pacto de gracia del Nuevo Testamento es básicamente el mismo del Antiguo; solo cambia la administración, que ahora se extiende a todas las naciones con el Espíritu derramado sobre la iglesia.",
+          "quien": "Berkhof",
+          "fuentes": [
+            "berkhof#131"
+          ]
+        },
+        {
+          "postura": "Los cristianos han sido incluidos en el nuevo pacto, el pacto de gracia; Jeremías 31 se cumple en Cristo.",
+          "quien": "Grudem",
+          "fuentes": [
+            "grudem#545",
+            "grudem#549"
+          ]
+        },
+        {
+          "postura": "El destinatario es Israel, aunque alcanza a los gentiles; las bendiciones espirituales están en vigor para la iglesia, pero las promesas nacionales y físicas para Israel se cumplirán cuando Jesús regrese.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "macarthur_ts#1214",
+            "macarthur_ts#1216"
+          ]
+        },
+        {
+          "postura": "Distingue un nuevo pacto con la iglesia (Lucas 22:20) y otro con Israel (Jeremías 31:31-34; Hebreos 8:7-12), con bendiciones todas futuras e incondicionalmente aseguradas.",
+          "quien": "Chafer",
+          "fuentes": [
+            "teologia_sistematica_tomo__chafer2#110"
+          ]
+        }
       ],
       "nota": "Solo se oyen las voces de estos autores; el debate sobre Israel y la iglesia tendrá su propio lugar en el ciclo 7 y en los días de escatología."
     }
   ],
   "conexiones": [
-    {"ref": "Gn 3:15", "nota": "Berkhof lo llama la primera revelación del pacto: todavía sin establecimiento formal, pero con la idea de una amistad de Dios con la descendencia de la mujer.", "fuentes": ["berkhof#129"]},
-    {"ref": "Éx 24:7", "nota": "El ensayo de la Coalición relaciona la sangre de la Cena con la sangre con que se selló el pacto mosaico.", "fuentes": ["web_cpe_pactos_biblicos#5"]},
-    {"ref": "Ez 36:26-27", "nota": "Corazón nuevo y Espíritu dentro del pueblo: MacArthur lo une a Jeremías 31 como parte del nuevo pacto.", "fuentes": ["macarthur_ts#1215"]},
-    {"ref": "Ap 21:3", "nota": "La promesa de los pactos llega a su forma final: Dios con su pueblo, en la nueva creación.", "fuentes": ["web_cpe_pactos_biblicos#6", "berkhof#124"]}
+    {
+      "ref": "Gn 3:15",
+      "nota": "Berkhof lo llama la primera revelación del pacto: todavía sin establecimiento formal, pero con la idea de una amistad de Dios con la descendencia de la mujer.",
+      "fuentes": [
+        "berkhof#129"
+      ]
+    },
+    {
+      "ref": "Éx 24:7",
+      "nota": "El ensayo de la Coalición relaciona la sangre de la Cena con la sangre con que se selló el pacto mosaico.",
+      "fuentes": [
+        "web_cpe_pactos_biblicos#5"
+      ]
+    },
+    {
+      "ref": "Ez 36:26-27",
+      "nota": "Corazón nuevo y Espíritu dentro del pueblo: MacArthur lo une a Jeremías 31 como parte del nuevo pacto.",
+      "fuentes": [
+        "macarthur_ts#1215"
+      ]
+    },
+    {
+      "ref": "Ap 21:3",
+      "nota": "La promesa de los pactos llega a su forma final: Dios con su pueblo, en la nueva creación.",
+      "fuentes": [
+        "web_cpe_pactos_biblicos#6",
+        "berkhof#124"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Cuando leas un pasaje del Antiguo Testamento, preguntate en qué punto del hilo estás (Noé, Abraham, Moisés, David) y cómo prepara lo que viene: según el ensayo de la Coalición, todos los pactos llegan a Jesús.", "fuentes": ["web_cpe_pactos_biblicos#5"]},
-    {"texto": "Descansá en que el pacto es iniciativa de Dios: Grudem dice que no hay negociación sobre sus condiciones, y que la obediencia es el fruto y la evidencia de una fe genuina.", "fuentes": ["grudem#542", "grudem#547"]},
-    {"texto": "Vivila la Cena del Señor como memoria del nuevo pacto: Jesús ató su sangre a él (Lucas 22:20) y, según Grudem, la Cena es la señal de continuidad en esa relación.", "fuentes": ["macarthur_ts#1216", "grudem#547"]}
+    {
+      "texto": "Cuando leas un pasaje del Antiguo Testamento, preguntate en qué punto del hilo estás (Noé, Abraham, Moisés, David) y cómo prepara lo que viene: según el ensayo de la Coalición, todos los pactos llegan a Jesús.",
+      "fuentes": [
+        "web_cpe_pactos_biblicos#5"
+      ]
+    },
+    {
+      "texto": "Descansá en que el pacto es iniciativa de Dios: Grudem dice que no hay negociación sobre sus condiciones, y que la obediencia es el fruto y la evidencia de una fe genuina.",
+      "fuentes": [
+        "grudem#542",
+        "grudem#547"
+      ]
+    },
+    {
+      "texto": "Vivila la Cena del Señor como memoria del nuevo pacto: Jesús ató su sangre a él (Lucas 22:20) y, según Grudem, la Cena es la señal de continuidad en esa relación.",
+      "fuentes": [
+        "macarthur_ts#1216",
+        "grudem#547"
+      ]
+    }
   ],
   "para_reflexionar": [
     "Dios dice «seré su Dios y ellos serán mi pueblo». ¿En qué momentos de tu semana vivís como si esa promesa fuera cierta, y en cuáles como si dependiera de vos?",
     "Jeremías habla de una ley escrita en el corazón. ¿En qué área obedecés por obligación externa y en cuál por amor a Dios? ¿Qué te muestra eso?",
     "Los autores de hoy ordenan los pactos de formas distintas, pero todos terminan en Cristo. ¿Qué te enseña eso sobre cómo conversar con otros creyentes que leen distinto?"
   ],
-  "para_orar": "Señor, gracias porque tu promesa es más firme que mis fuerzas: vos sos el que se acerca y el que cumple. Gracias por la sangre de Jesús, que selló el nuevo pacto. Escribí tu ley en mi corazón, que obedecerte nazca de amarte, y enseñame a leer tu Palabra como una sola historia que me lleva a Cristo. Amén.",
   "profundizar": [
-    {"titulo": "Hebreos 8-10: un comentario de Jeremías 31", "texto": "El ensayo de la Coalición explica que el autor de Hebreos cita Jeremías 31:31-34 en 8:9-12 y vuelve a él en 10:16-17, de modo que el pasaje enmarca gran parte de su argumento: Jesús, sacerdote permanente, media un pacto con redención y herencia eternas aseguradas por su sangre.", "fuentes": ["web_cpe_pactos_biblicos#5"]}
+    {
+      "titulo": "Hebreos 8-10: un comentario de Jeremías 31",
+      "texto": "El ensayo de la Coalición explica que el autor de Hebreos cita Jeremías 31:31-34 en 8:9-12 y vuelve a él en 10:16-17, de modo que el pasaje enmarca gran parte de su argumento: Jesús, sacerdote permanente, media un pacto con redención y herencia eternas aseguradas por su sangre.",
+      "fuentes": [
+        "web_cpe_pactos_biblicos#5"
+      ]
+    }
   ]
 }

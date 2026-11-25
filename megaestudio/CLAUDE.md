@@ -5,8 +5,10 @@ categoría A de `trabajo/catalogo/`) con **libro y página del PDF**, o de fuent
 RVR1960 no se sube: solo versículos clave (≤2 por día, ≤500 en total). La Biblia es el fundamento; los libros ayudan a comprenderla.
 Cuando los cristianos no coinciden, cada postura con su autor y sin zanjar. Otras tradiciones y religiones: con sus propios documentos (ciclos 17–18).
 
+**Sin oraciones:** ningún día lleva una oración escrita al final (regla del lector, 25-nov-2026). Tras cada tanda de redactores correr `python3 trabajo/scripts/quitar_oraciones.py`.
+
 ## Estructura
-- `trabajo/plan/ciclos.py` → `ciclos.json` y `PLAN-MAESTRO.md` (20 ciclos, 103 series, ≈1.974 días). `trabajo/plan/plan.json` = días **detallados** (id fijo, ciclo, serie, n, título): se agrega solo al final; **nunca renumerar** (las marcas del lector dependen del id).
+- `trabajo/plan/ciclos.py` → `ciclos.json` y `PLAN-MAESTRO.md` (20 ciclos, 113 series, ≈2.146 días). `trabajo/plan/plan.json` = días **detallados** (id fijo, ciclo, serie, n, título): se agrega solo al final; **nunca renumerar** (las marcas del lector dependen del id).
 - `trabajo/libros.json` = registro de libros (id → autor, obra, ruta). Textos por página en `$MEGA_TXT` (`/home/user/lib/pages`, no van al repo).
 - `trabajo/GUIA-REDACCION.md` = cómo se escribe un día. Modelo: `trabajo/dias/dia_001.json`. Verificador: `scripts/verificar.py N` (debe quedar en OK).
 - `app/construir.py` arma `estudio-biblico-integral.html` (un solo archivo, sin conexión).

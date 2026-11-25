@@ -2,135 +2,462 @@
   "dia": 20,
   "titulo": "El contexto histórico y cultural: quién habla, a quién y en qué mundo",
   "bajada": "Un pedido de agua junto a un pozo, una parábola con un samaritano y una carta a una ciudad de banqueros: tres textos que se entienden mejor cuando sabemos en qué mundo se dijeron, y dos riesgos que conviene evitar al averiguarlo.",
-  "minutos": {"lectura": 6, "estudio": 22},
-  "lectura": {"pasaje": "Juan 4:1-26; Apocalipsis 3:14-22", "porque": "Dos escenas que sorprenden a quien las lee sin trasfondo: Jesús pide de beber a una samaritana, y Cristo le habla a una iglesia con las imágenes de su propia ciudad."},
+  "minutos": {
+    "lectura": 6,
+    "estudio": 22
+  },
+  "lectura": {
+    "pasaje": "Juan 4:1-26; Apocalipsis 3:14-22",
+    "porque": "Dos escenas que sorprenden a quien las lee sin trasfondo: Jesús pide de beber a una samaritana, y Cristo le habla a una iglesia con las imágenes de su propia ciudad."
+  },
   "versiculos": [
-    {"ref": "Juan 4:9", "porque": "El asombro de la mujer deja ver cuánto pesaban las costumbres de la época."},
-    {"ref": "Apocalipsis 3:15-16", "porque": "La imagen del agua tibia era comprensible de inmediato para los habitantes de Laodicea."}
+    {
+      "ref": "Juan 4:9",
+      "porque": "El asombro de la mujer deja ver cuánto pesaban las costumbres de la época."
+    },
+    {
+      "ref": "Apocalipsis 3:15-16",
+      "porque": "La imagen del agua tibia era comprensible de inmediato para los habitantes de Laodicea."
+    }
   ],
   "entrada": {
     "texto": "Si te llega una carta sin sobre ni fecha, lo primero que hacés es preguntarte quién la escribió, a quién y por qué. Con la Biblia, en cambio, solemos abrir en cualquier página y preguntar de entrada qué nos dice a nosotros. Hoy probamos el orden inverso con tres escenas: una conversación junto a un pozo (Juan 4), una parábola conocida (Lucas 10) y una carta a una ciudad rica (Apocalipsis 3).\n\nColeman lo resume así: la revelación bíblica es inspirada por Dios y a la vez está enraizada en la historia. Ignorar lo primero niega el carácter esencial de las Escrituras; ignorar lo segundo deja el significado librado a la especulación.",
-    "fuentes": ["como_ensenar_la__f#54"]
+    "fuentes": [
+      "como_ensenar_la__f#54"
+    ]
   },
   "apartados": [
     {
       "titulo": "Las preguntas de un lector atento",
       "parrafos": [
-        {"texto": "Coleman propone tres pasos. Primero, determinar qué quiso decir el escritor a sus lectores originales, a la luz de su situación. Segundo, identificar las verdades que no se limitan a ese contexto, los principios de significado universal. Tercero, preguntarse qué significan en la situación propia. Para el primer paso ofrece preguntas: cuándo se escribió, quién lo escribió, a quiénes, con qué propósito, qué clase de literatura es y qué pasaba en el mundo en ese momento.", "fuentes": ["como_ensenar_la__f#54", "como_ensenar_la__f#56"]},
-        {"texto": "Helm cuenta un caso propio. Predicó 2 Corintios 6:14-15 («No os unáis en yugo desigual con los incrédulos») para hablar de matrimonio y de socios de negocios. Al mirar el contexto histórico vio que Pablo venía argumentando contra la inclinación de los corintios a proteger a maestros populares y orgullosos que evitaban la persecución y alejaban a la gente del evangelio; el apóstol los quería unidos a él bajo un mismo yugo. El contexto literario lo confirma: antes Pablo pide «Ensanchaos también vosotros» (2 Corintios 6:13) y después «Admitidnos» (2 Corintios 7:2). Para Helm, el pasaje no trata en primer lugar de con quién te casás.", "fuentes": ["la_predicacion_expositiva__helm#53", "la_predicacion_expositiva__helm#54"]}
+        {
+          "texto": "Coleman propone tres pasos. Primero, determinar qué quiso decir el escritor a sus lectores originales, a la luz de su situación. Segundo, identificar las verdades que no se limitan a ese contexto, los principios de significado universal. Tercero, preguntarse qué significan en la situación propia. Para el primer paso ofrece preguntas: cuándo se escribió, quién lo escribió, a quiénes, con qué propósito, qué clase de literatura es y qué pasaba en el mundo en ese momento.",
+          "fuentes": [
+            "como_ensenar_la__f#54",
+            "como_ensenar_la__f#56"
+          ]
+        },
+        {
+          "texto": "Helm cuenta un caso propio. Predicó 2 Corintios 6:14-15 («No os unáis en yugo desigual con los incrédulos») para hablar de matrimonio y de socios de negocios. Al mirar el contexto histórico vio que Pablo venía argumentando contra la inclinación de los corintios a proteger a maestros populares y orgullosos que evitaban la persecución y alejaban a la gente del evangelio; el apóstol los quería unidos a él bajo un mismo yugo. El contexto literario lo confirma: antes Pablo pide «Ensanchaos también vosotros» (2 Corintios 6:13) y después «Admitidnos» (2 Corintios 7:2). Para Helm, el pasaje no trata en primer lugar de con quién te casás.",
+          "fuentes": [
+            "la_predicacion_expositiva__helm#53",
+            "la_predicacion_expositiva__helm#54"
+          ]
+        }
       ],
-      "destacado": {"texto": "Antes de preguntar qué me dice el pasaje a mí, conviene preguntar qué les dijo a ellos.", "fuentes": ["como_ensenar_la__f#54", "la_predicacion_expositiva__helm#54"]}
+      "destacado": {
+        "texto": "Antes de preguntar qué me dice el pasaje a mí, conviene preguntar qué les dijo a ellos.",
+        "fuentes": [
+          "como_ensenar_la__f#54",
+          "la_predicacion_expositiva__helm#54"
+        ]
+      }
     },
     {
       "titulo": "Juan 4: un pedido de agua que cruza tres barreras",
       "parrafos": [
-        {"texto": "Jesús, «cansado del camino» (Juan 4:6), le dice a una mujer que llega a sacar agua: «Dame de beber» (Juan 4:7). A un lector de hoy le suena a un pedido corriente. La mujer responde con asombro: «¿Cómo tú, siendo judío, me pides a mí de beber, que soy mujer samaritana?» (Juan 4:9), y Juan aclara que judíos y samaritanos no se trataban.", "fuentes": ["juan__macarthur#163", "juan__macarthur#164"]},
-        {"texto": "El Comentario Bíblico Mundo Hispano enumera las barreras que ella vio caer. Estaba prohibido que un rabí hablara en público con una mujer a solas, sobre todo desconocida; era aún más extraño que un judío tratara así a samaritanos; y estaba en juego la contaminación ceremonial, si bebía de un utensilio usado por un samaritano. MacArthur coincide en lo esencial y añade que Juan usa una expresión que significa literalmente «usar los mismos utensilios».", "fuentes": ["comentario_biblico_mundo__cevallos2#80", "juan__macarthur#164"]},
-        {"texto": "¿De dónde venía la enemistad? Cuando Asiria tomó el reino del norte, deportó a buena parte de la población y trajo gente de otros pueblos (2 Reyes 17:24); de la mezcla surgió un pueblo con religión propia, que aceptaba solo el Pentateuco y adoraba en el monte Gerizim y no en Jerusalén. Cuando los judíos volvieron del exilio, los samaritanos ofrecieron ayuda con el templo y fueron rechazados (Esdras 4:1-3). MacArthur agrega que llamar samaritano a Jesús era el peor insulto (Juan 8:48). El comentario Mundo Hispano suma el otro lado: los samaritanos decían ser descendientes de las tribus de José.", "fuentes": ["juan__macarthur#164", "juan__macarthur#165", "comentario_biblico_mundo__cevallos2#78", "comentario_biblico_mundo__cevallos2#79"]},
-        {"texto": "Con ese trasfondo, «Dame de beber» deja de ser un detalle. El comentario Mundo Hispano contrasta la escena con la de Nicodemo, líder respetado de los fariseos: la samaritana era su polo opuesto, salvo que ambos tenían inquietudes espirituales. Y señala que la antipatía entre los pueblos no limitó la misión de Jesús: por medio de ella el evangelio llegó a todo su pueblo (Juan 4:39-42).", "fuentes": ["comentario_biblico_mundo__cevallos2#78", "comentario_biblico_mundo__cevallos2#79"]}
+        {
+          "texto": "Jesús, «cansado del camino» (Juan 4:6), le dice a una mujer que llega a sacar agua: «Dame de beber» (Juan 4:7). A un lector de hoy le suena a un pedido corriente. La mujer responde con asombro: «¿Cómo tú, siendo judío, me pides a mí de beber, que soy mujer samaritana?» (Juan 4:9), y Juan aclara que judíos y samaritanos no se trataban.",
+          "fuentes": [
+            "juan__macarthur#163",
+            "juan__macarthur#164"
+          ]
+        },
+        {
+          "texto": "El Comentario Bíblico Mundo Hispano enumera las barreras que ella vio caer. Estaba prohibido que un rabí hablara en público con una mujer a solas, sobre todo desconocida; era aún más extraño que un judío tratara así a samaritanos; y estaba en juego la contaminación ceremonial, si bebía de un utensilio usado por un samaritano. MacArthur coincide en lo esencial y añade que Juan usa una expresión que significa literalmente «usar los mismos utensilios».",
+          "fuentes": [
+            "comentario_biblico_mundo__cevallos2#80",
+            "juan__macarthur#164"
+          ]
+        },
+        {
+          "texto": "¿De dónde venía la enemistad? Cuando Asiria tomó el reino del norte, deportó a buena parte de la población y trajo gente de otros pueblos (2 Reyes 17:24); de la mezcla surgió un pueblo con religión propia, que aceptaba solo el Pentateuco y adoraba en el monte Gerizim y no en Jerusalén. Cuando los judíos volvieron del exilio, los samaritanos ofrecieron ayuda con el templo y fueron rechazados (Esdras 4:1-3). MacArthur agrega que llamar samaritano a Jesús era el peor insulto (Juan 8:48). El comentario Mundo Hispano suma el otro lado: los samaritanos decían ser descendientes de las tribus de José.",
+          "fuentes": [
+            "juan__macarthur#164",
+            "juan__macarthur#165",
+            "comentario_biblico_mundo__cevallos2#78",
+            "comentario_biblico_mundo__cevallos2#79"
+          ]
+        },
+        {
+          "texto": "Con ese trasfondo, «Dame de beber» deja de ser un detalle. El comentario Mundo Hispano contrasta la escena con la de Nicodemo, líder respetado de los fariseos: la samaritana era su polo opuesto, salvo que ambos tenían inquietudes espirituales. Y señala que la antipatía entre los pueblos no limitó la misión de Jesús: por medio de ella el evangelio llegó a todo su pueblo (Juan 4:39-42).",
+          "fuentes": [
+            "comentario_biblico_mundo__cevallos2#78",
+            "comentario_biblico_mundo__cevallos2#79"
+          ]
+        }
       ],
-      "destacado": {"texto": "El asombro de la mujer en Juan 4:9 es la pista que el propio texto ofrece: sin conocer la enemistad, no se nota qué grande es lo que hace Jesús.", "fuentes": ["juan__macarthur#164", "comentario_biblico_mundo__cevallos2#80"]}
+      "destacado": {
+        "texto": "El asombro de la mujer en Juan 4:9 es la pista que el propio texto ofrece: sin conocer la enemistad, no se nota qué grande es lo que hace Jesús.",
+        "fuentes": [
+          "juan__macarthur#164",
+          "comentario_biblico_mundo__cevallos2#80"
+        ]
+      }
     },
     {
       "titulo": "Lucas 10: por qué el héroe era un samaritano",
       "parrafos": [
-        {"texto": "Coleman usa esta parábola como ejemplo (Lucas 10:29-37): su verdad se ve en una lectura rápida, pero no se capta todo el significado sin la animosidad entre samaritanos y judíos. MacArthur ubica el relato en su ocasión: un escriba preguntó «¿Y quién es mi prójimo?» (Lucas 10:29). El camino de Jerusalén a Jericó era empinado y peligroso, con escondites para ladrones. Un sacerdote y un levita conocían la ley, que ordenaba amar al extranjero (Levítico 19:34), y aun así pasaron de largo; por eso el samaritano, de quien se esperaría lo peor, resulta la sorpresa.", "fuentes": ["como_ensenar_la__f#55", "como_ensenar_la__f#56", "lucas_comentario__macarthur#462", "lucas_comentario__macarthur#463"]},
-        {"texto": "MacArthur, sin embargo, pone un freno a la curiosidad. Dice que los comentaristas han ofrecido muchas razones por las que el sacerdote evitó al herido, pero que esas especulaciones son inútiles: era un personaje del relato, y el punto es que, por conocer la ley, se esperaba que ayudara. Para él la historia trata también de cómo se hereda la vida eterna, porque esa fue la pregunta que la originó (Lucas 10:25).", "fuentes": ["lucas_comentario__macarthur#462", "lucas_comentario__macarthur#463"]},
-        {"texto": "El Diccionario Bíblico Mundo Hispano muestra que el tema tenía raíces largas: la palabra griega de la hospitalidad significa «amor por los extraños», la idea aparece desde Abraham y la ley prescribía amabilidad hacia los extranjeros (Levítico 19:33-34).", "fuentes": ["diccionario_biblico_mundo__douglas#578", "diccionario_biblico_mundo__douglas#579"]}
+        {
+          "texto": "Coleman usa esta parábola como ejemplo (Lucas 10:29-37): su verdad se ve en una lectura rápida, pero no se capta todo el significado sin la animosidad entre samaritanos y judíos. MacArthur ubica el relato en su ocasión: un escriba preguntó «¿Y quién es mi prójimo?» (Lucas 10:29). El camino de Jerusalén a Jericó era empinado y peligroso, con escondites para ladrones. Un sacerdote y un levita conocían la ley, que ordenaba amar al extranjero (Levítico 19:34), y aun así pasaron de largo; por eso el samaritano, de quien se esperaría lo peor, resulta la sorpresa.",
+          "fuentes": [
+            "como_ensenar_la__f#55",
+            "como_ensenar_la__f#56",
+            "lucas_comentario__macarthur#462",
+            "lucas_comentario__macarthur#463"
+          ]
+        },
+        {
+          "texto": "MacArthur, sin embargo, pone un freno a la curiosidad. Dice que los comentaristas han ofrecido muchas razones por las que el sacerdote evitó al herido, pero que esas especulaciones son inútiles: era un personaje del relato, y el punto es que, por conocer la ley, se esperaba que ayudara. Para él la historia trata también de cómo se hereda la vida eterna, porque esa fue la pregunta que la originó (Lucas 10:25).",
+          "fuentes": [
+            "lucas_comentario__macarthur#462",
+            "lucas_comentario__macarthur#463"
+          ]
+        },
+        {
+          "texto": "El Diccionario Bíblico Mundo Hispano muestra que el tema tenía raíces largas: la palabra griega de la hospitalidad significa «amor por los extraños», la idea aparece desde Abraham y la ley prescribía amabilidad hacia los extranjeros (Levítico 19:33-34).",
+          "fuentes": [
+            "diccionario_biblico_mundo__douglas#578",
+            "diccionario_biblico_mundo__douglas#579"
+          ]
+        }
       ]
     },
     {
       "titulo": "Laodicea: una carta escrita con los materiales de la ciudad",
       "parrafos": [
-        {"texto": "Laodicea estaba en el valle del Lico, en el cruce de caminos importantes, y era rica. MacArthur recuerda que, después del terremoto del año 60, pagó su propia reconstrucción y rechazó la ayuda de Roma; Ladd lo confirma. La ciudad se destacaba por tres cosas: la actividad bancaria, la lana negra con la que se hacían ropa y alfombras, y una escuela de medicina famosa por un colirio que se exportaba por todo el mundo grecorromano.", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#83", "el_apocalipsis_de__ladd#60"]},
-        {"texto": "Ahora mirá la carta con ese mapa. La iglesia dice «Yo soy rico» y no sabe que es «desventurado, miserable, pobre, ciego y desnudo» (Apocalipsis 3:17); el Señor le aconseja comprar oro refinado, vestiduras blancas y colirio (Apocalipsis 3:18). MacArthur ve en esa propuesta una respuesta a las tres cosas de las que Laodicea estaba más orgullosa. Ladd nota que los versículos 17 y 18 guardan un equilibrio: oro para la pobreza, vestiduras para la desnudez, colirio para la ceguera.", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#84", "apocalipsis_comentario_macarthur__macarthur#85", "el_apocalipsis_de__ladd#62"]},
-        {"texto": "Falta la imagen más famosa. Según MacArthur y la nota de su Biblia de estudio, cerca estaban Hierápolis, con aguas termales, y Colosas, con manantiales refrescantes; Laodicea, en cambio, recibía por un acueducto subterráneo un agua tibia y sucia, que los visitantes solían escupir. «Ni frío ni caliente» sería un agua que no sirve para relajar como la caliente ni para refrescar como la fría. El comentario Mundo Hispano agrega que «tibio» aparece solo aquí en el Nuevo Testamento y que Herodoto lo usaba para aguas insípidas que causan náuseas. Ladd entiende «frío» como hostilidad al evangelio y «caliente» como fervor; lo que describe la carta es indiferencia.", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#83", "apocalipsis_comentario_macarthur__macarthur#84", "biblia_de_estudio__autor#3414", "comentario_biblico_mundo__cevallos#172", "el_apocalipsis_de__ladd#61"]}
+        {
+          "texto": "Laodicea estaba en el valle del Lico, en el cruce de caminos importantes, y era rica. MacArthur recuerda que, después del terremoto del año 60, pagó su propia reconstrucción y rechazó la ayuda de Roma; Ladd lo confirma. La ciudad se destacaba por tres cosas: la actividad bancaria, la lana negra con la que se hacían ropa y alfombras, y una escuela de medicina famosa por un colirio que se exportaba por todo el mundo grecorromano.",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#83",
+            "el_apocalipsis_de__ladd#60"
+          ]
+        },
+        {
+          "texto": "Ahora mirá la carta con ese mapa. La iglesia dice «Yo soy rico» y no sabe que es «desventurado, miserable, pobre, ciego y desnudo» (Apocalipsis 3:17); el Señor le aconseja comprar oro refinado, vestiduras blancas y colirio (Apocalipsis 3:18). MacArthur ve en esa propuesta una respuesta a las tres cosas de las que Laodicea estaba más orgullosa. Ladd nota que los versículos 17 y 18 guardan un equilibrio: oro para la pobreza, vestiduras para la desnudez, colirio para la ceguera.",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#84",
+            "apocalipsis_comentario_macarthur__macarthur#85",
+            "el_apocalipsis_de__ladd#62"
+          ]
+        },
+        {
+          "texto": "Falta la imagen más famosa. Según MacArthur y la nota de su Biblia de estudio, cerca estaban Hierápolis, con aguas termales, y Colosas, con manantiales refrescantes; Laodicea, en cambio, recibía por un acueducto subterráneo un agua tibia y sucia, que los visitantes solían escupir. «Ni frío ni caliente» sería un agua que no sirve para relajar como la caliente ni para refrescar como la fría. El comentario Mundo Hispano agrega que «tibio» aparece solo aquí en el Nuevo Testamento y que Herodoto lo usaba para aguas insípidas que causan náuseas. Ladd entiende «frío» como hostilidad al evangelio y «caliente» como fervor; lo que describe la carta es indiferencia.",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#83",
+            "apocalipsis_comentario_macarthur__macarthur#84",
+            "biblia_de_estudio__autor#3414",
+            "comentario_biblico_mundo__cevallos#172",
+            "el_apocalipsis_de__ladd#61"
+          ]
+        }
       ],
-      "destacado": {"texto": "Las tres industrias de la ciudad y su problema de agua forman parte del mensaje de la carta.", "fuentes": ["biblia_de_estudio__autor#3413"]}
+      "destacado": {
+        "texto": "Las tres industrias de la ciudad y su problema de agua forman parte del mensaje de la carta.",
+        "fuentes": [
+          "biblia_de_estudio__autor#3413"
+        ]
+      }
     },
     {
       "titulo": "Dónde averiguar: diccionarios, comentarios y arqueología",
       "parrafos": [
-        {"texto": "Para el trasfondo, Coleman señala la sección introductoria de cualquier buen comentario, que informa sobre cada libro de la Biblia, y las enciclopedias y diccionarios bíblicos. Helm agrega que a veces hay que estudiar un libro entero para reconstruir la situación de la primera audiencia. Casi todo lo de hoy salió de ese tipo de obras.", "fuentes": ["como_ensenar_la__f#56", "la_predicacion_expositiva__helm#52"]},
-        {"texto": "Conviene distinguir lo que se sabe de lo que se transmite por tradición. La Biblia de estudio MacArthur dice que el pozo de Jacob se ubicó según una estricta tradición de judíos, samaritanos, musulmanes y cristianos. El comentario Mundo Hispano recoge dos teorías sobre Sicar, y sobre Laodicea informa que está en ruinas y que los arqueólogos la han estudiado poco.", "fuentes": ["biblia_de_estudio__autor#2371", "comentario_biblico_mundo__cevallos2#78", "comentario_biblico_mundo__cevallos#172"]}
+        {
+          "texto": "Para el trasfondo, Coleman señala la sección introductoria de cualquier buen comentario, que informa sobre cada libro de la Biblia, y las enciclopedias y diccionarios bíblicos. Helm agrega que a veces hay que estudiar un libro entero para reconstruir la situación de la primera audiencia. Casi todo lo de hoy salió de ese tipo de obras.",
+          "fuentes": [
+            "como_ensenar_la__f#56",
+            "la_predicacion_expositiva__helm#52"
+          ]
+        },
+        {
+          "texto": "Conviene distinguir lo que se sabe de lo que se transmite por tradición. La Biblia de estudio MacArthur dice que el pozo de Jacob se ubicó según una estricta tradición de judíos, samaritanos, musulmanes y cristianos. El comentario Mundo Hispano recoge dos teorías sobre Sicar, y sobre Laodicea informa que está en ruinas y que los arqueólogos la han estudiado poco.",
+          "fuentes": [
+            "biblia_de_estudio__autor#2371",
+            "comentario_biblico_mundo__cevallos2#78",
+            "comentario_biblico_mundo__cevallos#172"
+          ]
+        }
       ]
     },
     {
       "titulo": "Dos riesgos opuestos: ojos modernos y trasfondo como llave maestra",
       "parrafos": [
-        {"texto": "El primer riesgo es leer como si el texto se hubiera escrito para nuestro mundo. Helm lo formula como regla: dar al contexto bíblico, y no al propio, el control sobre el significado. Sproul recuerda que las convenciones literarias de aquellos tiempos no eran las nuestras: la narración no cronológica y la cita imprecisa eran aceptables, de modo que no deben tomarse como faltas. La Declaración de Chicago sobre hermenéutica agrega que el género literario pertenece en parte a la cultura del autor y que los errores de género llevan a malentendidos de gran escala.", "fuentes": ["la_predicacion_expositiva__helm#67", "puedo_confiar_en__sproul#20", "web_chicago_hermeneutica#8"]},
-        {"texto": "El segundo riesgo es el contrario. La reseña de Vickers recuerda que Carson llama falacias históricas a ciertas lecturas y cuestiona los libros que sostienen que la Biblia no puede entenderse sin reconstrucciones históricas; admite que los trasfondos tienen su lugar, pero pide mantener en el centro el texto. Helm advierte que es fácil perderse en el judaísmo del segundo templo o en los trasfondos grecorromanos y nunca preguntarse cómo se relaciona el pasaje con el evangelio. Y la Declaración de Chicago excluye toda lectura que meta en un pasaje significados que no se pueden sacar de él.", "fuentes": ["web_9marks_carson#2", "la_predicacion_expositiva__helm#78", "web_chicago_hermeneutica#8"]},
-        {"texto": "Un criterio práctico que sale de los ejemplos de hoy: la pista estaba en el propio texto. Juan aclara en el mismo versículo que judíos y samaritanos no se trataban (Juan 4:9); el Señor nombra pobreza, ceguera y desnudez junto al oro, las vestiduras y el colirio (Apocalipsis 3:17-18). El trasfondo ayuda a ver con más nitidez lo que el texto ya dice. Donde el texto calla, como con el sacerdote que pasó de largo, MacArthur prefiere no especular.", "fuentes": ["biblia", "juan__macarthur#164", "lucas_comentario__macarthur#463"]}
+        {
+          "texto": "El primer riesgo es leer como si el texto se hubiera escrito para nuestro mundo. Helm lo formula como regla: dar al contexto bíblico, y no al propio, el control sobre el significado. Sproul recuerda que las convenciones literarias de aquellos tiempos no eran las nuestras: la narración no cronológica y la cita imprecisa eran aceptables, de modo que no deben tomarse como faltas. La Declaración de Chicago sobre hermenéutica agrega que el género literario pertenece en parte a la cultura del autor y que los errores de género llevan a malentendidos de gran escala.",
+          "fuentes": [
+            "la_predicacion_expositiva__helm#67",
+            "puedo_confiar_en__sproul#20",
+            "web_chicago_hermeneutica#8"
+          ]
+        },
+        {
+          "texto": "El segundo riesgo es el contrario. La reseña de Vickers recuerda que Carson llama falacias históricas a ciertas lecturas y cuestiona los libros que sostienen que la Biblia no puede entenderse sin reconstrucciones históricas; admite que los trasfondos tienen su lugar, pero pide mantener en el centro el texto. Helm advierte que es fácil perderse en el judaísmo del segundo templo o en los trasfondos grecorromanos y nunca preguntarse cómo se relaciona el pasaje con el evangelio. Y la Declaración de Chicago excluye toda lectura que meta en un pasaje significados que no se pueden sacar de él.",
+          "fuentes": [
+            "web_9marks_carson#2",
+            "la_predicacion_expositiva__helm#78",
+            "web_chicago_hermeneutica#8"
+          ]
+        },
+        {
+          "texto": "Un criterio práctico que sale de los ejemplos de hoy: la pista estaba en el propio texto. Juan aclara en el mismo versículo que judíos y samaritanos no se trataban (Juan 4:9); el Señor nombra pobreza, ceguera y desnudez junto al oro, las vestiduras y el colirio (Apocalipsis 3:17-18). El trasfondo ayuda a ver con más nitidez lo que el texto ya dice. Donde el texto calla, como con el sacerdote que pasó de largo, MacArthur prefiere no especular.",
+          "fuentes": [
+            "biblia",
+            "juan__macarthur#164",
+            "lucas_comentario__macarthur#463"
+          ]
+        }
       ],
-      "destacado": {"texto": "El contexto ayuda a ver lo que el texto dice; no tiene permiso para hacerle decir lo que no dice.", "fuentes": ["web_chicago_hermeneutica#8", "web_9marks_carson#2"]}
+      "destacado": {
+        "texto": "El contexto ayuda a ver lo que el texto dice; no tiene permiso para hacerle decir lo que no dice.",
+        "fuentes": [
+          "web_chicago_hermeneutica#8",
+          "web_9marks_carson#2"
+        ]
+      }
     },
     {
       "titulo": "Lo permanente y lo cultural en un mandato",
       "parrafos": [
-        {"texto": "Geisler y Howe abordan la pregunta con el velo de 1 Corintios 11:5. Distinguen entre significado (lo que decía a la gente de esa cultura) e importancia (cómo se aplica hoy), y entre mandamiento y cultura: los mandamientos son absolutos, la cultura es relativa. Dan ejemplos: pocos creen que hoy valga la orden de no llevar un par extra de sandalias en una gira evangelística, la mayoría ya no saluda literalmente con «ósculo santo» (1 Tesalonicenses 5:26) y no se considera esencial levantar manos santas en la oración pública (1 Timoteo 2:8). Detrás hay un principio absoluto, pero la práctica no lo es. Para el velo, dicen que muchos eruditos piensan que las mujeres de toda cultura deben mostrar respeto por sus esposos, aunque no siempre con un velo; es la solución que ellos presentan, y los textos de hoy no traen otras sobre el velo.", "fuentes": ["dificultades_biblicas_un__geisler#180", "dificultades_biblicas_un__geisler#181"]},
-        {"texto": "La Declaración de Chicago afirma que la Biblia contiene mandatos para todos los contextos culturales y otros que ella misma muestra que valen solo para situaciones particulares, y niega que esa distinción pueda decidirse por factores culturales. Advierte contra dos errores: no ver que una aplicación concreta estuvo determinada por la cultura (su ejemplo es el saludo con beso) y tratar como relativo lo que se reveló como absoluto. Los cambios sociales pueden desafiar las formas tradicionales de aplicar los principios, pero no sirven para modificar los principios ni para evitar su aplicación.", "fuentes": ["web_chicago_hermeneutica#2", "web_chicago_hermeneutica#10"]},
-        {"texto": "Coleman lo ilustra con Filemón. Pablo envía a Onésimo, un esclavo que aparentemente se había convertido, de vuelta con su amo cristiano; con la situación a la vista se ve que lo expone a un riesgo grave, porque el castigo al esclavo desertor era muy severo. El principio que no se limita a la época, dice Coleman, aparece en Gálatas 3:28: entre cristianos la relación es de hermanos y la guía es el amor. Lo que queda es aplicarlo hoy, por ejemplo con hijos rebeldes, obreros resentidos o alumnos difíciles.", "fuentes": ["como_ensenar_la__f#54", "como_ensenar_la__f#55"]}
+        {
+          "texto": "Geisler y Howe abordan la pregunta con el velo de 1 Corintios 11:5. Distinguen entre significado (lo que decía a la gente de esa cultura) e importancia (cómo se aplica hoy), y entre mandamiento y cultura: los mandamientos son absolutos, la cultura es relativa. Dan ejemplos: pocos creen que hoy valga la orden de no llevar un par extra de sandalias en una gira evangelística, la mayoría ya no saluda literalmente con «ósculo santo» (1 Tesalonicenses 5:26) y no se considera esencial levantar manos santas en la oración pública (1 Timoteo 2:8). Detrás hay un principio absoluto, pero la práctica no lo es. Para el velo, dicen que muchos eruditos piensan que las mujeres de toda cultura deben mostrar respeto por sus esposos, aunque no siempre con un velo; es la solución que ellos presentan, y los textos de hoy no traen otras sobre el velo.",
+          "fuentes": [
+            "dificultades_biblicas_un__geisler#180",
+            "dificultades_biblicas_un__geisler#181"
+          ]
+        },
+        {
+          "texto": "La Declaración de Chicago afirma que la Biblia contiene mandatos para todos los contextos culturales y otros que ella misma muestra que valen solo para situaciones particulares, y niega que esa distinción pueda decidirse por factores culturales. Advierte contra dos errores: no ver que una aplicación concreta estuvo determinada por la cultura (su ejemplo es el saludo con beso) y tratar como relativo lo que se reveló como absoluto. Los cambios sociales pueden desafiar las formas tradicionales de aplicar los principios, pero no sirven para modificar los principios ni para evitar su aplicación.",
+          "fuentes": [
+            "web_chicago_hermeneutica#2",
+            "web_chicago_hermeneutica#10"
+          ]
+        },
+        {
+          "texto": "Coleman lo ilustra con Filemón. Pablo envía a Onésimo, un esclavo que aparentemente se había convertido, de vuelta con su amo cristiano; con la situación a la vista se ve que lo expone a un riesgo grave, porque el castigo al esclavo desertor era muy severo. El principio que no se limita a la época, dice Coleman, aparece en Gálatas 3:28: entre cristianos la relación es de hermanos y la guía es el amor. Lo que queda es aplicarlo hoy, por ejemplo con hijos rebeldes, obreros resentidos o alumnos difíciles.",
+          "fuentes": [
+            "como_ensenar_la__f#54",
+            "como_ensenar_la__f#55"
+          ]
+        }
       ]
     }
   ],
   "citas": [
-    {"texto": "Llamar a alguien “samaritano” era una muestra de desprecio", "autor": "Comentario Bíblico Mundo Hispano", "obra": "Tomo 17: Juan", "fuentes": ["comentario_biblico_mundo__cevallos2#79"]},
-    {"texto": "Lo que los cristianos deben hacer es absoluto, pero cómo lo hacen es culturalmente relativo.", "autor": "Norman Geisler y Thomas Howe", "obra": "Dificultades bíblicas", "fuentes": ["dificultades_biblicas_un__geisler#181"]},
-    {"texto": "Cualquier condición es mejor que la tibieza nauseabunda.", "autor": "George Eldon Ladd", "obra": "El Apocalipsis de Juan", "fuentes": ["el_apocalipsis_de__ladd#61"]}
+    {
+      "texto": "Llamar a alguien “samaritano” era una muestra de desprecio",
+      "autor": "Comentario Bíblico Mundo Hispano",
+      "obra": "Tomo 17: Juan",
+      "fuentes": [
+        "comentario_biblico_mundo__cevallos2#79"
+      ]
+    },
+    {
+      "texto": "Lo que los cristianos deben hacer es absoluto, pero cómo lo hacen es culturalmente relativo.",
+      "autor": "Norman Geisler y Thomas Howe",
+      "obra": "Dificultades bíblicas",
+      "fuentes": [
+        "dificultades_biblicas_un__geisler#181"
+      ]
+    },
+    {
+      "texto": "Cualquier condición es mejor que la tibieza nauseabunda.",
+      "autor": "George Eldon Ladd",
+      "obra": "El Apocalipsis de Juan",
+      "fuentes": [
+        "el_apocalipsis_de__ladd#61"
+      ]
+    }
   ],
   "palabras": [
-    {"original": "χλιαρός", "translit": "chliarós", "idioma": "griego", "ref": "Ap 3:16", "significado": "Templado, tibio. El comentario Mundo Hispano señala que no aparece en el Nuevo Testamento ni en la Septuaginta fuera de este versículo, y que Herodoto la usaba para aguas insípidas que causan náuseas.", "fuentes": ["comentario_biblico_mundo__cevallos#172"]},
-    {"original": "δεῖ", "translit": "dei", "idioma": "griego", "ref": "Jn 4:4", "significado": "Verbo impersonal de «le era necesario» (pasar por Samaria). El comentario Mundo Hispano lo vincula con una necesidad moral o espiritual y aclara que Juan no explica directamente el porqué.", "fuentes": ["comentario_biblico_mundo__cevallos2#78"]}
+    {
+      "original": "χλιαρός",
+      "translit": "chliarós",
+      "idioma": "griego",
+      "ref": "Ap 3:16",
+      "significado": "Templado, tibio. El comentario Mundo Hispano señala que no aparece en el Nuevo Testamento ni en la Septuaginta fuera de este versículo, y que Herodoto la usaba para aguas insípidas que causan náuseas.",
+      "fuentes": [
+        "comentario_biblico_mundo__cevallos#172"
+      ]
+    },
+    {
+      "original": "δεῖ",
+      "translit": "dei",
+      "idioma": "griego",
+      "ref": "Jn 4:4",
+      "significado": "Verbo impersonal de «le era necesario» (pasar por Samaria). El comentario Mundo Hispano lo vincula con una necesidad moral o espiritual y aclara que Juan no explica directamente el porqué.",
+      "fuentes": [
+        "comentario_biblico_mundo__cevallos2#78"
+      ]
+    }
   ],
   "cristo": [
-    {"texto": "Jesús cruza las barreras. Lo explícito en el texto es que pide de beber a una samaritana, ante el asombro de ella, y que más adelante muchos de aquel pueblo creen (Juan 4:9, 39-42). El comentario Mundo Hispano recuerda que, antes de ascender, Jesús manda a sus discípulos a ser sus testigos en Samaria, y que en Hechos se ve a Pedro, Juan y Felipe cumpliéndolo.", "refs": ["Jn 4:9", "Jn 4:39-42", "Hch 8:14"], "fuentes": ["comentario_biblico_mundo__cevallos2#79", "biblia"]},
-    {"texto": "El que ofrece lo que Laodicea no tiene. En Apocalipsis 3:14 Cristo se presenta como el Amén, el testigo fiel y verdadero; Ladd explica que «amén» expresa confiabilidad y que, aplicada a Cristo, garantiza la veracidad de sus palabras. Que el oro, las vestiduras y el colirio signifiquen riqueza verdadera, pureza y vista espiritual es la lectura de los comentaristas; el texto nombra el consejo, no su explicación.", "refs": ["Ap 3:14", "Ap 3:18"], "fuentes": ["el_apocalipsis_de__ladd#60", "el_apocalipsis_de__ladd#62"]}
+    {
+      "texto": "Jesús cruza las barreras. Lo explícito en el texto es que pide de beber a una samaritana, ante el asombro de ella, y que más adelante muchos de aquel pueblo creen (Juan 4:9, 39-42). El comentario Mundo Hispano recuerda que, antes de ascender, Jesús manda a sus discípulos a ser sus testigos en Samaria, y que en Hechos se ve a Pedro, Juan y Felipe cumpliéndolo.",
+      "refs": [
+        "Jn 4:9",
+        "Jn 4:39-42",
+        "Hch 8:14"
+      ],
+      "fuentes": [
+        "comentario_biblico_mundo__cevallos2#79",
+        "biblia"
+      ]
+    },
+    {
+      "texto": "El que ofrece lo que Laodicea no tiene. En Apocalipsis 3:14 Cristo se presenta como el Amén, el testigo fiel y verdadero; Ladd explica que «amén» expresa confiabilidad y que, aplicada a Cristo, garantiza la veracidad de sus palabras. Que el oro, las vestiduras y el colirio signifiquen riqueza verdadera, pureza y vista espiritual es la lectura de los comentaristas; el texto nombra el consejo, no su explicación.",
+      "refs": [
+        "Ap 3:14",
+        "Ap 3:18"
+      ],
+      "fuentes": [
+        "el_apocalipsis_de__ladd#60",
+        "el_apocalipsis_de__ladd#62"
+      ]
+    }
   ],
   "interpretaciones": [
     {
       "tema": "¿Qué clase de iglesia era Laodicea?",
       "posturas": [
-        {"postura": "Una iglesia no regenerada: personas tibias que asisten y dicen conocer al Señor, pero no son genuinamente salvas. MacArthur sostiene que los versículos 18 y 20 lo muestran y que «reprendo y castigo a todos los que amo» no prueba que fueran creyentes, porque Cristo también ama a los no redimidos. Dice que algunos opinan lo contrario, sin nombrarlos.", "quien": "MacArthur", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#84", "apocalipsis_comentario_macarthur__macarthur#85", "biblia_de_estudio__autor#3414"]},
-        {"postura": "Un cristianismo nominal, complaciente y autosatisfecho. Ladd lee el versículo 19 como disciplina correctiva, igual que Hebreos 12:6, y los versículos 18 a 20 como un llamado al arrepentimiento: la iglesia no estaba más allá de toda recuperación. En las páginas consultadas no discute si sus miembros eran regenerados.", "quien": "Ladd", "fuentes": ["el_apocalipsis_de__ladd#60", "el_apocalipsis_de__ladd#61", "el_apocalipsis_de__ladd#62"]}
+        {
+          "postura": "Una iglesia no regenerada: personas tibias que asisten y dicen conocer al Señor, pero no son genuinamente salvas. MacArthur sostiene que los versículos 18 y 20 lo muestran y que «reprendo y castigo a todos los que amo» no prueba que fueran creyentes, porque Cristo también ama a los no redimidos. Dice que algunos opinan lo contrario, sin nombrarlos.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#84",
+            "apocalipsis_comentario_macarthur__macarthur#85",
+            "biblia_de_estudio__autor#3414"
+          ]
+        },
+        {
+          "postura": "Un cristianismo nominal, complaciente y autosatisfecho. Ladd lee el versículo 19 como disciplina correctiva, igual que Hebreos 12:6, y los versículos 18 a 20 como un llamado al arrepentimiento: la iglesia no estaba más allá de toda recuperación. En las páginas consultadas no discute si sus miembros eran regenerados.",
+          "quien": "Ladd",
+          "fuentes": [
+            "el_apocalipsis_de__ladd#60",
+            "el_apocalipsis_de__ladd#61",
+            "el_apocalipsis_de__ladd#62"
+          ]
+        }
       ],
       "nota": "Coinciden en el diagnóstico (complacencia, autoengaño, una riqueza que ciega) y en que Cristo llama al arrepentimiento; difieren en cómo describen a sus miembros."
     },
     {
       "tema": "El agua de Laodicea: ¿de dónde viene la imagen?",
       "posturas": [
-        {"postura": "Hierápolis tenía aguas termales y Colosas manantiales fríos; Laodicea recibía por un acueducto subterráneo un agua tibia y sucia.", "quien": "MacArthur", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#83", "biblia_de_estudio__autor#3414"]},
-        {"postura": "El agua fría bajaba de las montañas frigias y la caliente venía de las termas del río Meandro; ambas llegaban tibias a la ciudad.", "quien": "McGee", "fuentes": ["apocalipsis_a_traves__mcgee#125"]}
+        {
+          "postura": "Hierápolis tenía aguas termales y Colosas manantiales fríos; Laodicea recibía por un acueducto subterráneo un agua tibia y sucia.",
+          "quien": "MacArthur",
+          "fuentes": [
+            "apocalipsis_comentario_macarthur__macarthur#83",
+            "biblia_de_estudio__autor#3414"
+          ]
+        },
+        {
+          "postura": "El agua fría bajaba de las montañas frigias y la caliente venía de las termas del río Meandro; ambas llegaban tibias a la ciudad.",
+          "quien": "McGee",
+          "fuentes": [
+            "apocalipsis_a_traves__mcgee#125"
+          ]
+        }
       ],
       "nota": "Coinciden en que la imagen sale del agua de la ciudad y en que el agua tibia resulta desagradable; difieren en el origen de lo frío y lo caliente."
     },
     {
       "tema": "Juan 4:4: ¿por qué «le era necesario pasar por Samaria»?",
       "posturas": [
-        {"postura": "Algunos piensan que indica solo la ruta más directa, aunque muchos judíos la evitaban por prejuicios y quizá por temor a la violencia.", "quien": "Presentada por el comentario Mundo Hispano", "fuentes": ["comentario_biblico_mundo__cevallos2#78"]},
-        {"postura": "Una necesidad espiritual o divina: Jesús tenía una cita con la mujer, a quien se reveló como Mesías. La Biblia de estudio MacArthur reconoce que Josefo relata que en Judea se acostumbraba cruzar Samaria en las fiestas por ser el camino más corto, pero prefiere esta lectura por el enfoque del evangelio; MacArthur, en su comentario a Juan, habla de una cita preparada desde antes de la fundación del mundo.", "quien": "MacArthur; también la presenta el comentario Mundo Hispano", "fuentes": ["biblia_de_estudio__autor#2370", "juan__macarthur#163", "comentario_biblico_mundo__cevallos2#78"]}
+        {
+          "postura": "Algunos piensan que indica solo la ruta más directa, aunque muchos judíos la evitaban por prejuicios y quizá por temor a la violencia.",
+          "quien": "Presentada por el comentario Mundo Hispano",
+          "fuentes": [
+            "comentario_biblico_mundo__cevallos2#78"
+          ]
+        },
+        {
+          "postura": "Una necesidad espiritual o divina: Jesús tenía una cita con la mujer, a quien se reveló como Mesías. La Biblia de estudio MacArthur reconoce que Josefo relata que en Judea se acostumbraba cruzar Samaria en las fiestas por ser el camino más corto, pero prefiere esta lectura por el enfoque del evangelio; MacArthur, en su comentario a Juan, habla de una cita preparada desde antes de la fundación del mundo.",
+          "quien": "MacArthur; también la presenta el comentario Mundo Hispano",
+          "fuentes": [
+            "biblia_de_estudio__autor#2370",
+            "juan__macarthur#163",
+            "comentario_biblico_mundo__cevallos2#78"
+          ]
+        }
       ],
       "nota": "Las posturas no se excluyen del todo: el camino directo era una opción real, y la pregunta es si Juan quiere decir algo más con el verbo."
     }
   ],
   "conexiones": [
-    {"ref": "Esd 4:1-3", "nota": "MacArthur lo cita como origen de la enemistad: los samaritanos ofrecieron ayudar con el templo y fueron rechazados.", "fuentes": ["juan__macarthur#165"]},
-    {"ref": "Lv 19:34", "nota": "MacArthur lo recuerda al comentar la parábola: la ley ya ordenaba amar al extranjero.", "fuentes": ["lucas_comentario__macarthur#463"]},
-    {"ref": "Is 55:1", "nota": "MacArthur y Ladd lo usan para explicar que «comprar» a Cristo es una imagen: la invitación es a venir sin dinero y sin precio.", "fuentes": ["apocalipsis_comentario_macarthur__macarthur#85", "el_apocalipsis_de__ladd#62"]},
-    {"ref": "Jn 8:48", "nota": "Llamar samaritano a Jesús era, según MacArthur, la peor forma de insultarlo.", "fuentes": ["juan__macarthur#165"]}
+    {
+      "ref": "Esd 4:1-3",
+      "nota": "MacArthur lo cita como origen de la enemistad: los samaritanos ofrecieron ayudar con el templo y fueron rechazados.",
+      "fuentes": [
+        "juan__macarthur#165"
+      ]
+    },
+    {
+      "ref": "Lv 19:34",
+      "nota": "MacArthur lo recuerda al comentar la parábola: la ley ya ordenaba amar al extranjero.",
+      "fuentes": [
+        "lucas_comentario__macarthur#463"
+      ]
+    },
+    {
+      "ref": "Is 55:1",
+      "nota": "MacArthur y Ladd lo usan para explicar que «comprar» a Cristo es una imagen: la invitación es a venir sin dinero y sin precio.",
+      "fuentes": [
+        "apocalipsis_comentario_macarthur__macarthur#85",
+        "el_apocalipsis_de__ladd#62"
+      ]
+    },
+    {
+      "ref": "Jn 8:48",
+      "nota": "Llamar samaritano a Jesús era, según MacArthur, la peor forma de insultarlo.",
+      "fuentes": [
+        "juan__macarthur#165"
+      ]
+    }
   ],
   "para_vivir": [
-    {"texto": "Antes de aplicar un pasaje, respondé las preguntas de Coleman: cuándo se escribió, quién lo escribió, a quiénes, con qué propósito y qué pasaba entonces.", "fuentes": ["como_ensenar_la__f#56"]},
-    {"texto": "Aprovechá las notas de tu Biblia de estudio, un comentario o un diccionario bíblico, y comparalos cuando puedas: hoy vimos que dos obras explican de manera distinta el agua de Laodicea.", "fuentes": ["como_ensenar_la__f#56", "apocalipsis_a_traves__mcgee#125", "apocalipsis_comentario_macarthur__macarthur#83"]},
-    {"texto": "Ante un mandato que parece de otra época, preguntate por el qué y por el cómo, como proponen Geisler y Howe, sin decidir por tu cuenta qué es cultural: la Declaración de Chicago pide que esa distinción no se resuelva por factores culturales.", "fuentes": ["dificultades_biblicas_un__geisler#181", "web_chicago_hermeneutica#2"]},
-    {"texto": "Si te sentís cómodo y próspero, recordá la advertencia de Ladd sobre Laodicea: la iglesia que prospera en lo material cae fácilmente en el autoengaño de creer que su prosperidad externa mide la espiritual.", "fuentes": ["el_apocalipsis_de__ladd#61"]}
+    {
+      "texto": "Antes de aplicar un pasaje, respondé las preguntas de Coleman: cuándo se escribió, quién lo escribió, a quiénes, con qué propósito y qué pasaba entonces.",
+      "fuentes": [
+        "como_ensenar_la__f#56"
+      ]
+    },
+    {
+      "texto": "Aprovechá las notas de tu Biblia de estudio, un comentario o un diccionario bíblico, y comparalos cuando puedas: hoy vimos que dos obras explican de manera distinta el agua de Laodicea.",
+      "fuentes": [
+        "como_ensenar_la__f#56",
+        "apocalipsis_a_traves__mcgee#125",
+        "apocalipsis_comentario_macarthur__macarthur#83"
+      ]
+    },
+    {
+      "texto": "Ante un mandato que parece de otra época, preguntate por el qué y por el cómo, como proponen Geisler y Howe, sin decidir por tu cuenta qué es cultural: la Declaración de Chicago pide que esa distinción no se resuelva por factores culturales.",
+      "fuentes": [
+        "dificultades_biblicas_un__geisler#181",
+        "web_chicago_hermeneutica#2"
+      ]
+    },
+    {
+      "texto": "Si te sentís cómodo y próspero, recordá la advertencia de Ladd sobre Laodicea: la iglesia que prospera en lo material cae fácilmente en el autoengaño de creer que su prosperidad externa mide la espiritual.",
+      "fuentes": [
+        "el_apocalipsis_de__ladd#61"
+      ]
+    }
   ],
   "para_reflexionar": [
     "¿Qué pasaje de la Biblia leíste siempre pensando en tu mundo y no en el de sus primeros lectores? ¿Cambiaría algo si te hicieras las preguntas de Coleman?",
     "Laodicea se enorgullecía de su riqueza, su lana y su colirio. ¿Qué cosas te dan hoy una seguridad que Cristo podría llamar pobreza, desnudez o ceguera?",
     "Jesús pidió de beber a quien su ambiente no trataba. ¿Quién es hoy, para vos, el «samaritano» al que cuesta acercarse, y qué te enseña Lucas 10 sobre ser prójimo?"
   ],
-  "para_orar": "Señor, gracias porque tu Palabra se dijo en un tiempo y un lugar reales, a personas reales. Ayudame a leerla con humildad, sin imponerle mi mundo y sin inventarle lo que no dice. Si estoy tibio, comodón o ciego a mi propia pobreza, sacame del engaño y dame tu oro, tu vestidura y tu luz. Y enseñame a acercarme, como vos, a quienes me cuesta tratar. Amén.",
   "profundizar": [
-    {"titulo": "La hora sexta y el motivo de la mujer: qué es dato y qué es conjetura", "texto": "La Biblia de estudio MacArthur explica que «la hora sexta» (Juan 4:6) sería el mediodía con el cálculo judío y cerca de las seis de la tarde con el romano; el comentario Mundo Hispano dice que pocos sugieren la hora romana. Sobre por qué la mujer iba sola al pozo, MacArthur escribe «tal vez» para evitar la vergüenza pública, el comentario Mundo Hispano propone «quizás» huir de los insultos de sus vecinos y la Biblia de estudio dice que su aislamiento «podría indicar» esa vergüenza. Las tres fuentes formulan el motivo como posibilidad, no como dato.", "fuentes": ["biblia_de_estudio__autor#2371", "comentario_biblico_mundo__cevallos2#79", "juan__macarthur#163"]}
+    {
+      "titulo": "La hora sexta y el motivo de la mujer: qué es dato y qué es conjetura",
+      "texto": "La Biblia de estudio MacArthur explica que «la hora sexta» (Juan 4:6) sería el mediodía con el cálculo judío y cerca de las seis de la tarde con el romano; el comentario Mundo Hispano dice que pocos sugieren la hora romana. Sobre por qué la mujer iba sola al pozo, MacArthur escribe «tal vez» para evitar la vergüenza pública, el comentario Mundo Hispano propone «quizás» huir de los insultos de sus vecinos y la Biblia de estudio dice que su aislamiento «podría indicar» esa vergüenza. Las tres fuentes formulan el motivo como posibilidad, no como dato.",
+      "fuentes": [
+        "biblia_de_estudio__autor#2371",
+        "comentario_biblico_mundo__cevallos2#79",
+        "juan__macarthur#163"
+      ]
+    }
   ]
 }

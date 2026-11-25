@@ -32,13 +32,13 @@
       "titulo": "¿Lo inventó un concilio?",
       "parrafos": [
         {
-          "texto": "El artículo de la Coalición por el Evangelio recoge la objeción: se ha puesto de moda decir que obras como el Evangelio de Tomás eran populares y que en el siglo IV una autoridad eclesiástica y política las excluyó injustamente. Su respuesta es que no fue así. Las iglesias locales fueron leyendo distintos textos, y algunos fueron reconocidos como divinos: se los citaba como sagrados, se los usaba en el culto, se los copiaba y difundía. El Evangelio de Tomás, por ejemplo, no figura en ninguna colección de manuscritos del Nuevo Testamento ni en las listas tempranas, y varios líderes lo condenaron antes del cuarto siglo, cuando aún no había autoridad central que excluyera documentos por decreto.",
+          "texto": "El artículo de la Coalición por el Evangelio recoge la objeción: se ha puesto de moda decir que obras como el Evangelio de Tomás eran populares y que en el siglo IV una autoridad eclesiástica y política las excluyó injustamente. Su respuesta es que no fue así. Las iglesias locales fueron leyendo distintos textos, y algunos fueron reconocidos como divinos: se los citaba como sagrados, se los usaba en el culto, se los copiaba y difundía. El Evangelio de Tomás no figura en ninguna colección de manuscritos ni en las listas tempranas, y varios líderes lo condenaron antes del siglo IV, cuando no había autoridad central que excluyera documentos por decreto.",
           "fuentes": [
             "web_cpe_canon_nt#1"
           ]
         },
         {
-          "texto": "Ryrie parte de un principio que ordena el tema: los libros eran canónicos cuando se escribieron, porque Dios los inspiró; las personas y los concilios solo reconocieron lo que ya era verdadero, y ningún libro fue hecho canónico por un concilio. Eso no quita que hicieran falta decisiones, porque había candidatos no inspirados; según Ryrie, Dios guió a esos grupos a decidir bien.",
+          "texto": "Ryrie parte de un principio que ordena el tema: los libros eran canónicos cuando se escribieron, porque Dios los inspiró; las personas y los concilios solo reconocieron lo que ya era verdadero, y ningún libro fue hecho canónico por un concilio. Hicieron falta decisiones, porque había candidatos no inspirados, y según Ryrie Dios guió a esos grupos a decidir bien.",
           "fuentes": [
             "ryrie#47"
           ]
@@ -47,6 +47,14 @@
           "texto": "Geisler y Turek lo dicen así: los padres no determinaron qué habría en el Nuevo Testamento, sino que descubrieron lo que Dios quiso que hubiera. Citan a Bruce Metzger, para quien cada libro tenía autoridad antes de que alguien los reuniera.",
           "fuentes": [
             "no_tengo_suficiente__geisler#351"
+          ]
+        },
+        {
+          "texto": "Lee Strobel le llevó la objeción a Bruce Metzger, erudito de Princeton, en El caso de Cristo: ¿fue el Evangelio de Tomás víctima de una conspiración de los concilios? Metzger contestó que eso no tiene exactitud histórica. Los sínodos ratificaron lo que los cristianos ya aceptaban, y Tomás, dijo, «se excluyó a sí mismo»: mezclaba dichos parecidos a los de Mateo con otros, como el de encontrar a Jesús en la madera partida, que Metzger llama panteístas y ajenos a los Evangelios. Es como pedirle a academias de músicos que declaren maravillosa la música de Bach: ya lo sabíamos. Broadbent, desde la historia de las iglesias, dice lo mismo del Nuevo Testamento: los concilios lo reconocieron, no lo conformaron.",
+          "fuentes": [
+            "el_caso_de__strobel#42",
+            "el_caso_de__strobel#43",
+            "la_iglesia_peregrina__broadbent#41"
           ]
         }
       ],
@@ -82,6 +90,14 @@
           ]
         },
         {
+          "texto": "Los apóstoles tenían conciencia de esa autoridad, según Tony Evans: Pablo dijo haber recibido su evangelio por revelación de Jesucristo (Gálatas 1:11-12) y agradeció que los tesalonicenses aceptaran su mensaje como palabra de Dios (1 Tesalonicenses 2:13). Habermas agrega que hacia el año 100 Clemente de Roma, Ignacio y Policarpo ya citaban a Pablo, llamándolo apóstol e inspirado, y los Evangelios y Hechos, sin que ninguno mencione el Evangelio de Tomás; para él, nadie lo cita porque entonces no existía.",
+          "fuentes": [
+            "la_maravilla_de__evans#49",
+            "la_maravilla_de__evans#50",
+            "evidencia_a_favor__habermas#46"
+          ]
+        },
+        {
           "texto": "Hay más indicios. Pablo identificó escritos suyos con la Palabra de Dios (1 Corintios 14:37-38; 2 Tesalonicenses 3:14-15), y las iglesias empezaron a leer estos textos junto al Antiguo Testamento en sus reuniones y a compartirlos con otras comunidades (Colosenses 4:16), según MacArthur.",
           "fuentes": [
             "web_cpe_canon_nt#1",
@@ -113,6 +129,13 @@
             "macarthur_ts#162",
             "apologetica_herramientas_valiosas__geisler#184",
             "grudem#69"
+          ]
+        },
+        {
+          "texto": "Evans suma una herramienta práctica de la coherencia: la «regla de fe» que Ireneo menciona en Contra las herejías (libro 1, capítulo 10), un resumen de lo que los cristianos siempre habían creído sobre la creación, la redención por medio del Hijo y el juicio final. Los líderes la usaban, con otros factores, para medir si un escrito seguía la fe transmitida por los apóstoles (Judas 3). Boer considera la apostolicidad la norma principal: explica la demora con Hebreos, Santiago, 2 Pedro, 3 Juan, Judas y Apocalipsis por dudas sobre su autoría apostólica, y el rechazo de Bernabé y El Pastor de Hermas por su falta de conexión con los apóstoles.",
+          "fuentes": [
+            "la_maravilla_de__evans#50",
+            "la_historia_de__boer#50"
           ]
         },
         {
@@ -156,10 +179,19 @@
           ]
         },
         {
-          "texto": "Una primera respuesta es el Fragmento Muratori, de alrededor del año 170, que enumera libros que deben aceptarse y otros que hay que excluir. Está incompleto: identifica veintiuno o veintidós de los veintisiete; faltan Hebreos, Santiago y 1 y 2 Pedro. Ryrie pone una cautela: como el manuscrito está roto, no podemos saber si esos libros no estaban. Y sí rechaza obras como El Pastor de Hermas.",
+          "texto": "Boer ve en el gesto de Marción una señal: si preparó un canon, es que los cristianos ya usaban ciertos libros como autoridad, aunque aún no había una colección llamada «Escrituras» como el Antiguo Testamento. Powell explica el fondo: Marción creía que el Dios del Antiguo Testamento no era el Padre de Jesús, así que descartó todo el Antiguo Testamento y editó Lucas y las cartas de Pablo. Para Powell, la herejía tuvo un valor involuntario: obligó a los cristianos a revisar qué fundamento tenían para sus libros, y sin ese desafío el proceso habría sido más lento y menos preciso. Ya hacia el año 115, agrega, Ignacio de Antioquía hablaba del Evangelio como documento aprobado.",
+          "fuentes": [
+            "la_historia_de__boer#49",
+            "guia_holman_de__powell#150",
+            "guia_holman_de__powell#151"
+          ]
+        },
+        {
+          "texto": "Una primera respuesta es el Fragmento Muratori, de alrededor del año 170, que enumera libros que deben aceptarse y otros que hay que excluir. Está incompleto: identifica veintiuno o veintidós de los veintisiete; faltan Hebreos, Santiago y 1 y 2 Pedro. Ryrie pone una cautela: como el manuscrito está roto, no podemos saber si esos libros no estaban. Y sí rechaza obras como El Pastor de Hermas. Boer coincide en esos cuatro faltantes y suma 3 Juan.",
           "fuentes": [
             "macarthur_ts#160",
-            "ryrie#49"
+            "ryrie#49",
+            "la_historia_de__boer#49"
           ]
         },
         {
@@ -203,12 +235,14 @@
           ]
         },
         {
-          "texto": "Los concilios vienen después. MacArthur dice que Hipona ratificó lo de Atanasio en 393; Grudem, que Cartago, en 397, representando a las iglesias occidentales, concordó con la lista oriental; Ryrie, que generalmente se acepta que Cartago fijó el canon. El artículo de la Coalición recuerda que los veintisiete libros fueron aceptados sin decisión eclesiástica centralizada y que todas las grandes tradiciones cristianas los aceptan hoy.",
+          "texto": "Los concilios vienen después. MacArthur dice que Hipona ratificó lo de Atanasio en 393; Grudem, que Cartago, en 397, representando a las iglesias occidentales, concordó con la lista oriental; Ryrie, que generalmente se acepta que Cartago fijó el canon. El artículo de la Coalición recuerda que los veintisiete libros fueron aceptados sin decisión eclesiástica centralizada y que todas las grandes tradiciones cristianas los aceptan hoy. Boer añade que esos sínodos africanos actuaron bajo el liderazgo de Agustín, pero que el canon no se estableció por sus declaraciones: confirmaron lo que la iglesia hacía mucho aceptaba. Evans nota que para entonces la controversia había disminuido mucho.",
           "fuentes": [
             "macarthur_ts#161",
             "grudem#66",
             "ryrie#49",
-            "web_cpe_canon_nt#3"
+            "web_cpe_canon_nt#3",
+            "la_historia_de__boer#50",
+            "la_maravilla_de__evans#53"
           ]
         }
       ],
@@ -250,6 +284,14 @@
           "fuentes": [
             "apologetica_herramientas_valiosas__geisler#185",
             "grudem#65"
+          ]
+        },
+        {
+          "texto": "Strobel le preguntó a Metzger si había que sospechar de Santiago, Hebreos y Apocalipsis por su aceptación más lenta. Metzger respondió que eso muestra lo cuidadosa que fue la iglesia primitiva: no se precipitaba a aceptar cada documento que hablara de Jesús, hubo deliberación y análisis. Para Evans, Tomás tuvo siglos para convencer a la iglesia y no lo logró. Strobel cuenta que aceptó el desafío de Metzger y leyó muchos escritos apócrifos; frente a la calidad sobria y testimonial de los cuatro Evangelios, le parecieron dignos de la descripción de Eusebio: «Totalmente absurdas e impías». Powell agrega que ninguna otra obra fue considerada seriamente.",
+          "fuentes": [
+            "el_caso_de__strobel#43",
+            "la_maravilla_de__evans#52",
+            "guia_holman_de__powell#169"
           ]
         }
       ],
@@ -429,6 +471,12 @@
       "texto": "Leé el Nuevo Testamento como lo presentó Atanasio: como fuentes de salvación para el que tiene sed.",
       "fuentes": [
         "web_athanasius_carta39#2"
+      ]
+    },
+    {
+      "texto": "Si te asaltan preguntas sobre cómo llegó la Biblia hasta vos, hacelas en voz alta y buscá respuestas: Strobel cuenta que a Metzger décadas de estudio no le disolvieron la fe, sino que la construyeron.",
+      "fuentes": [
+        "el_caso_de__strobel#44"
       ]
     }
   ],

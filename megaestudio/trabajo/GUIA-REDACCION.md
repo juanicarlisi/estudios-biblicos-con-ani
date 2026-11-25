@@ -14,6 +14,7 @@ Todo se escribe en español rioplatense, cálido y claro, hablándole al lector 
 8. **Estructura:** la de `dia_001.json`: `dia, titulo, bajada, minutos, lectura, versiculos, entrada, apartados[titulo, parrafos[texto, fuentes], destacado], citas, palabras, cristo, interpretaciones, conexiones, para_vivir, para_reflexionar (3), profundizar`.
 9. **Cristo:** en cada día, `cristo` muestra cómo el tema se relaciona con Jesús o el Antiguo Testamento lo anticipa; solo lo que las fuentes o el propio texto bíblico establecen, sin alegorías forzadas. Se distingue lo explícito en el NT de lo que es patrón o tipo.
 10. Cada día se apoya en **al menos cuatro libros distintos**.
+12. **Usar toda la biblioteca, no solo comentarios.** Cada día se apoya en **al menos tres libros que no sean comentarios, Biblias de estudio, diccionarios ni teologías sistemáticas** (vida cristiana, sermones, devocionales, estudios temáticos, apologética, historia, biografías, obras de autores como Tozer, Packer, Piper, Sproul, Lloyd-Jones, Spurgeon, Keller, Washer, Lucado, Stott…). Antes de escribir, correr `python3 scripts/sugerir_libros.py N` (busca en los ~590 libros de ese tipo los más pertinentes con sus mejores páginas), leer los mejores y **integrar su contenido en los apartados** (ilustraciones, enseñanzas, aplicaciones, testimonios, advertencias), no solo mencionarlos. El verificador lo exige (`biblioteca`).
 11. **Sin oraciones.** Ningún día lleva una oración escrita al final (ni el campo `para_orar` ni un párrafo de oración): el estudio no hace rezar al lector. Sí se puede estudiar la oración como tema.
 
 ## Fuentes web (ids `web_*`)
@@ -27,6 +28,7 @@ Si te falta una fuente web que realmente necesitás, podés agregarla con `pytho
 - Encargo del día: leer `plan/specs/dia_NNN.md` (qué cubrir, pasajes, versículos y pistas de búsqueda).
 
 ## Herramientas (desde `megaestudio/trabajo/scripts/`)
+- `python3 sugerir_libros.py N [--top 15] [--extra "regex"]` → los libros de toda la biblioteca (no comentarios ni sistemáticas) más pertinentes para el día N, con sus mejores páginas.
 - `grep -i "palabra" ../libros.json` → ids de libros y fuentes web disponibles (autor y obra). Hay ~840 fuentes: buscá por autor, título o tema.
 - `python3 buscar.py "regex" id1 id2 … --top 8 --ver` → páginas más densas en esa búsqueda, con extracto.
 - `python3 insumo.py spec.json` → texto con marcas `[[id#pág]]`; `spec = {"lecturas": {"id": [[desde, hasta]]}}` (leer pocas páginas por vez, bien elegidas).

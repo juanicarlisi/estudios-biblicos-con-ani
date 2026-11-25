@@ -15,6 +15,7 @@ AQUI = os.path.dirname(os.path.abspath(__file__)); V = os.path.abspath(os.path.j
 sys.path.insert(0, AQUI)
 from rvr import normalizar, capitulo, LIBROS  # noqa: E402
 from lemas import grafia_valida  # noqa: E402
+from tipos import tipo as tipo_fuente  # noqa: E402
 PAGS = os.environ.get('MEGA_TXT', '/home/user/lib/pages')
 LIB = json.load(open(f'{V}/libros.json'))
 _cache = {}
@@ -132,6 +133,9 @@ def verificar(n):
     for ruta, c, base in com_dia:
         cn = norm(c)
         if cn not in base and cn not in rvr_n: f(ruta, 'comillas', f'«{c[:80]}» no está en las fuentes ni en la RVR1960 citada')
+    citados = {re.match(r'([a-z0-9_]+)#', x).group(1) for ruta, txt, fu, obj in unidades(d) for x in fu if re.match(r'([a-z0-9_]+)#', x)}
+    otros = sorted(i for i in citados if i in LIB and tipo_fuente(LIB[i]) == 'otros')
+    if len(otros) < 3: f('', 'biblioteca', f'solo {len(otros)} libro(s) fuera de comentarios y teologías sistemáticas ({", ".join(otros) or "ninguno"}); hacen falta al menos 3: buscarlos con `python3 scripts/sugerir_libros.py {n}`')
     if not 1800 <= tot <= 3300: f('', 'forma', f'palabras={tot} (esperado 1.800-3.300; la guía apunta a 2.800)')
     return tot, flags
 
